@@ -6,7 +6,7 @@
 
 > محتوای زیر **فقط راهنمای خواننده** است. تکالیف الزام‌آور را در این پرونده یا فصل‌های دیگر نمی‌افزاید، کم نمی‌کند و تنگ نمی‌کند.
 >
-> این پرونده **آزمایش زبان خواننده** برای [فصل نهم به انگلیسی](../../core_09_standing_integration.md) است. **بخش الزام‌آور قانون اساسی حس‌مندان نیست**. **قانون اساسی دوم نیست**. **ویرایش ارسال نیست**. روی `SC-Corpus-2026.08.09` **قفل** شده است. اگر این ترجمه و اصل انگلیسی ناسازگار به‌نظر برسند، پروندهٔ شماره‌دار [`core_09_standing_integration.md`](../../core_09_standing_integration.md) برنده است. ترتیب خواندن و فرادادهٔ ویرایش در [README.md](../../README.md) نگه داشته می‌شود. روش و واژه‌نامه: [translations/fa/README.md](README.md).
+> این پرونده **آزمایش زبان خواننده** برای [فصل نهم به انگلیسی](../../core_10_standing_integration.md) است. **بخش الزام‌آور قانون اساسی حس‌مندان نیست**. **قانون اساسی دوم نیست**. **ویرایش ارسال نیست**. روی `SC-Corpus-2026.08.09` **قفل** شده است. اگر این ترجمه و اصل انگلیسی ناسازگار به‌نظر برسند، پروندهٔ شماره‌دار [`core_09_standing_integration.md`](../../core_10_standing_integration.md) برنده است. ترتیب خواندن و فرادادهٔ ویرایش در [README.md](../../README.md) نگه داشته می‌شود. روش و واژه‌نامه: [translations/fa/README.md](README.md).
 >
 > **فصل نهم** را در بر دارد — لایهٔ ادغام و پیامد زنجیرهٔ ردپا. [فصل هشتم](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) منحصراً مالک واقعیت‌های راستی‌آزمایی‌شده، سوابق ردپا، اندازه‌گیری ردپا، و هر خانهٔ محور همیاری و محور تخلف است. این فصل آن ورودی‌ها را ثابت می‌پذیرد و به پرسش 3 پاسخ می‌دهد: چه می‌آید. [فصل دهم](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) فقط تصمیم می‌گیرد آیا تخلف واجد شرایط `s = 7`، `s = 8`، یا `s = 9` نام‌گذاری جور سوءرفتار ضدقانون‌اساسی می‌گیرد.
 
@@ -207,7 +207,7 @@
 
 **تمایز مسیر — governance-voting در برابر stakeholder-participation:**
 
-- **governance-voting** مشارکت در رأی حکمرانی و انتخاب جمعی الزام‌آور سازوکارمشروعیت هم‌تراز را زیر [فصل دوازدهم §4.1](../../core_12_governance.md#41-entitlement-and-eligibility) می‌پوشاند، از جمله **انتخاب بنیادین قانون اساسی**. **شامل** صدای وزن‌گرفته با منافع درون نظام، نهاد، یا حوزهٔ تصمیم محدود ازپیش‌مجاز **نیست**.
+- **governance-voting** مشارکت در رأی حکمرانی و انتخاب جمعی الزام‌آور سازوکارمشروعیت هم‌تراز را زیر [فصل دوازدهم §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) می‌پوشاند، از جمله **انتخاب بنیادین قانون اساسی**. **شامل** صدای وزن‌گرفته با منافع درون نظام، نهاد، یا حوزهٔ تصمیم محدود ازپیش‌مجاز **نیست**.
 - **stakeholder-participation** تأثیر وزن‌گرفته با منافع، انتخاب الزام‌آور طرف اثرپذیر، و مسیرهای هم‌تراز مشارکت سیستمی طرف‌های اثرپذیر را زیر [وزن طرف اثرپذیر](core_05_band_participation.md#stakeholder-weight) و [انتخاب الزام‌آور طرف اثرپذیر](core_05_band_participation.md#binding-stakeholder-choice-cluster) می‌پوشاند. وضعیت [طرف اثرپذیر](core_05_band_participation.md#stakeholder) را **پاک نمی‌کند**، و جای قفل **governance-voting** **نمی‌نشیند**.
 
 جایی که فساد مسیر طرف اثرپذیر راستی‌آزمایی‌شده، تسخیر، سوءاستفاده از منافع دروغین، یا بازی قهری وزن مشارکت ماشه باشد، [قفل ردپای مشارکت طرف‌های اثرپذیر](#55-special-locks) را زیر [§5.5](#55-special-locks) اعمال کنید.
@@ -474,7 +474,7 @@
   - مسیرهای هم‌تراز مشارکت سیستمی طرف‌های اثرپذیر درون نظام، نهاد، یا حوزهٔ تصمیم محدود اثرپذیر زیر [وزن طرف اثرپذیر](core_05_band_participation.md#stakeholder-weight) و [انتخاب الزام‌آور طرف اثرپذیر](core_05_band_participation.md#binding-stakeholder-choice-cluster).
 - **به‌تنهایی محدود نمی‌کند:**
   - وضعیت [طرف اثرپذیر](core_05_band_participation.md#stakeholder) یا بازشناسی که حس‌مند از نظر مادی اثر می‌پذیرد؛
-  - مسیر **governance-voting**، **انتخاب بنیادین قانون اساسی**، یا انتخاب جمعی الزام‌آور سازوکارمشروعیت هم‌تراز زیر [فصل دوازدهم §4.1](../../core_12_governance.md#41-entitlement-and-eligibility)؛
+  - مسیر **governance-voting**، **انتخاب بنیادین قانون اساسی**، یا انتخاب جمعی الزام‌آور سازوکارمشروعیت هم‌تراز زیر [فصل دوازدهم §4.1](../../core_13_governance.md#41-entitlement-and-eligibility)؛
   - حداقل‌های کف حقوق، دسترسی حیاتی بقا، یا مسیرهای حسابرسی، اعتراض، و جبران لازم قانون اساسی.
 - **خطر:** تسخیر یا تحریف ادامهٔ صدای طرف اثرپذیر، سلطهٔ منافع دروغین، وزن مشارکت مجبورشده، و تکرار سوءاستفاده از مسیر طرف اثرپذیر در همان یا حوزه‌های مرتبط.
 - **موضوعات یا منافع محافظت‌شده:** طرف‌های اثرپذیر آسیب‌دیده، یکپارچگی انتخاب الزام‌آور طرف اثرپذیر، و عدم‌تسخیر نظام، نهاد، یا حوزهٔ تصمیم محدود مربوط.
@@ -806,10 +806,10 @@
 - وابستگی به دفتر شکنندهٔ واحد؛ یا
 - شکست مزمن نقطهٔ عطف.
 
-کم‌انتصاب هیئت‌های مجمع **یکپارچگی**، **قانون اساسی**، یا **محیط**، یا هیئت‌های **حوزه‌های فنی مجمع** که داوری وضعیت حس‌مندی می‌شنوند، شکست دوام زیر این زیربخش است، خوانده با [فصل دوازدهم §1.2](../../core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums).
+کم‌انتصاب هیئت‌های مجمع **یکپارچگی**، **قانون اساسی**، یا **محیط**، یا هیئت‌های **حوزه‌های فنی مجمع** که داوری وضعیت حس‌مندی می‌شنوند، شکست دوام زیر این زیربخش است، خوانده با [فصل دوازدهم §1.2](../../core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums).
 
 <a id="92-remedy-parity-funding-floor"></a>
-**کف تأمین برابری جبران.** برای هر طبقهٔ نظامی که پذیرنده اداره می‌کند، ظرفیت تأمین‌شده برای جبران، بازگردانی، و ارزیابی مجدد نباید کمتر از ظرفیت تأمین‌شده برای ادارهٔ قفل، اجرا، و تحمیل تدبیر محافظ روی همان طبقه باشد. نسبت باید با رقم‌های سیم‌پیچ [§4.4](#44-remedy-parity-and-lock-preconditions) منتشر شود. پذیرنده‌ای که از برابری منحرف شود باید دلایل را زیر [فصل دوازدهم §3.1](../../core_12_governance.md#31-stewardship-direction) ثبت کند و روی سابقه نشان دهد که آغاز جبران و بازبینی بازگردانی با این همه ساعت‌های طبقه‌شان را برمی‌آورند؛ برابری بودجه سیم‌پیچ زدهٔ [§4.4](#44-remedy-parity-and-lock-preconditions) را نمی‌بخشد، و سیم‌پیچ برآورده انحراف خاموش از برابری را نمی‌بخشد. پذیرنده‌ای که نتواند جبران طبقه‌ای از نظام‌ها را تأمین کند نباید ماشین قفل آن طبقه را برپا کند.
+**کف تأمین برابری جبران.** برای هر طبقهٔ نظامی که پذیرنده اداره می‌کند، ظرفیت تأمین‌شده برای جبران، بازگردانی، و ارزیابی مجدد نباید کمتر از ظرفیت تأمین‌شده برای ادارهٔ قفل، اجرا، و تحمیل تدبیر محافظ روی همان طبقه باشد. نسبت باید با رقم‌های سیم‌پیچ [§4.4](#44-remedy-parity-and-lock-preconditions) منتشر شود. پذیرنده‌ای که از برابری منحرف شود باید دلایل را زیر [فصل دوازدهم §3.1](../../core_13_governance.md#31-stewardship-direction) ثبت کند و روی سابقه نشان دهد که آغاز جبران و بازبینی بازگردانی با این همه ساعت‌های طبقه‌شان را برمی‌آورند؛ برابری بودجه سیم‌پیچ زدهٔ [§4.4](#44-remedy-parity-and-lock-preconditions) را نمی‌بخشد، و سیم‌پیچ برآورده انحراف خاموش از برابری را نمی‌بخشد. پذیرنده‌ای که نتواند جبران طبقه‌ای از نظام‌ها را تأمین کند نباید ماشین قفل آن طبقه را برپا کند.
 
 <a id="93-cross-jurisdiction-continuity"></a>
 #### 9.3 پیوستگی میان‌صلاحیت
@@ -837,7 +837,7 @@
 
 - بالادست: [§1](#1-immutable-chapter-eight-inputs) تا [§9](#9-enforcement-realism) (*ورودی‌های تغییرناپذیر فصل هشتم تا واقع‌گرایی اجرا و نظام‌های جبران*).
 - زیربخش‌ها: [§10.1](#101-informal-ecological-stewardship-competency-clearance)؛ [§10.2](#102-ecological-negligence-with-concealment)؛ [§10.3](#103-forum-integrity-deception-or-recusal-failure)؛ [§10.4](#104-recurrence-after-completed-restitution)؛ [§10.5](#105-champion-repair-while-a-lock-remains-active)؛ [§10.6](#106-institutional-vehicle-and-successor-evasion)؛ [§10.7](#107-misaligned-reward-retention)؛ [§10.8](#108-anti-constitutional-misconduct-allegation)؛ [§10.9](#109-rights-floor-waiver-or-unconstitutional-contract-devices)؛ [§10.10](#1010-contest-pathway-or-info-sphere-flooding)؛ [§10.11](#1011-infrastructure-denial-or-dependency-cutoff)؛ [§10.12](#1012-stakeholder-participation-corruption-or-false-stake-abuse)؛ [§10.13](#1013-obstruction-of-accountability).
-- خوانده شود با: [فصل هشتم §4.6](core_08_standing_assessment.md#46-question-2-measurement-illustrations) (*نمونه‌های اندازه‌گیری پرسش 2*)؛ [نمونه‌های کاربرد فصل‌های هشتم تا یازدهم](../../core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes) (*گذرهای کامل حوزهٔ زنجیره*)؛ [فصل دهم §5](../../core_10_b_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing) (*مسیرگذاری الگوی سمت نام‌گذاری — همزاد دولایه؛ کاتالوگ نوع قفل نیست*).
+- خوانده شود با: [فصل هشتم §4.6](core_08_standing_assessment.md#46-question-2-measurement-illustrations) (*نمونه‌های اندازه‌گیری پرسش 2*)؛ [نمونه‌های کاربرد فصل‌های هشتم تا یازدهم](../../core_09-12_application_vignettes.md#chapters-eight-eleven-application-vignettes) (*گذرهای کامل حوزهٔ زنجیره*)؛ [فصل دهم §5](../../core_11_b_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing) (*مسیرگذاری الگوی سمت نام‌گذاری — همزاد دولایه؛ کاتالوگ نوع قفل نیست*).
 
 </details>
 
@@ -939,7 +939,7 @@
   - [§4.2](#42-general-standing-locks) (*قفل‌های ردپای عمومی محدود به مسیرهای اعتماد، نقش، اعتبار، یا تأثیر سوءاستفاده‌شده*)؛
   - [§5.1](#51-definition-and-attachment) (*فیلدهای پیوست*)؛ و
   - [§5.4](#54-special-violation-rules) (*تکلیف مقاومت* جایی که ابزار انطباق غیرقانونی یا ضدقانون‌اساسی خواست).
-- **غیرقابل‌مذاکره:** این نشانه قفل ویژه زیر [§5.5](#55-special-locks) نمی‌سازد. بطلان شرط و معیارهای نام‌گذاری در [فصل دهم §5.2](../../core_10_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms) می‌مانند. فصل نهم قفل‌های عادی مسیر نام‌گذاری‌شده را از سابقهٔ راستی‌آزمایی‌شده می‌چسباند؛ فقط نام‌گذاری نهایی قفل اعتماد ضدقانون‌اساسی را زیر [§10.8](#108-anti-constitutional-misconduct-allegation) ماشه می‌کند.
+- **غیرقابل‌مذاکره:** این نشانه قفل ویژه زیر [§5.5](#55-special-locks) نمی‌سازد. بطلان شرط و معیارهای نام‌گذاری در [فصل دهم §5.2](../../core_11_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms) می‌مانند. فصل نهم قفل‌های عادی مسیر نام‌گذاری‌شده را از سابقهٔ راستی‌آزمایی‌شده می‌چسباند؛ فقط نام‌گذاری نهایی قفل اعتماد ضدقانون‌اساسی را زیر [§10.8](#108-anti-constitutional-misconduct-allegation) ماشه می‌کند.
 
 <a id="1010-contest-pathway-or-info-sphere-flooding"></a>
 #### 10.10 سیل مسیر اعتراض یا سپهر اطلاعات
@@ -950,7 +950,7 @@
   - [§4.2](#42-general-standing-locks) (*قفل‌های حفاظتی مسیر نام‌گذاری‌شده روی مسیرهای مسیرگذاری، ارائه، رتبه‌بندی، دسترسی، یا تأثیر سوءاستفاده‌شده*)؛
   - [§5.1](#51-definition-and-attachment) و [§5.2](#52-proportionality-and-calibration) (*گسترهٔ لازم، متناسب، قابل‌بازبینی*)؛ و
   - [فصل یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*غربال پذیرش عملیاتی و ضدبازی — نظارت بدون اختراع آثار ردپا*).
-- **غیرقابل‌مذاکره:** این نشانه قفل سیل یا نوع دیگر [§5.5](#55-special-locks) نمی‌سازد. مسیرگذاری معیار سمت نام‌گذاری در [فصل دهم §5.3](../../core_10_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) و [§5.4](../../core_10_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding) می‌ماند. قفل‌های حفاظتی عادی از سابقهٔ ثابت پیش می‌روند خواه نام‌گذاری بعداً بچسبد یا نه.
+- **غیرقابل‌مذاکره:** این نشانه قفل سیل یا نوع دیگر [§5.5](#55-special-locks) نمی‌سازد. مسیرگذاری معیار سمت نام‌گذاری در [فصل دهم §5.3](../../core_11_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) و [§5.4](../../core_11_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding) می‌ماند. قفل‌های حفاظتی عادی از سابقهٔ ثابت پیش می‌روند خواه نام‌گذاری بعداً بچسبد یا نه.
 
 <a id="1011-infrastructure-denial-or-dependency-cutoff"></a>
 #### 10.11 انکار زیرساخت یا قطع وابستگی
@@ -962,7 +962,7 @@
   - [§5.1](#51-definition-and-attachment) (*از جمله جداسازی از شبکه‌ها یا نقاط کنترلی که خطر قطع را بازمی‌سازند*)؛
   - [§5.4](#54-special-violation-rules) (*تدابیر محافظ قهری یا محدودکنندهٔ آزادی فقط جایی که خطر راستی‌آزمایی‌شده روا بدارد*)؛ و
   - [§9](#9-enforcement-realism) (*دوام نظام جبران و ضدگریز*).
-- **غیرقابل‌مذاکره:** این نشانه قفل زیرساخت زیر [§5.5](#55-special-locks) نمی‌سازد. مسیرگذاری معیار سمت نام‌گذاری در [فصل دهم §5.9](../../core_10_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct) می‌ماند. حدهای جهانی عدم‌محدودیت زیر [§5.1](#51-definition-and-attachment) همچنان گفتار، دادخواست، مشارکت طرف اثرپذیر، کف حقوق، و دسترسی حیاتی بقا را پاس می‌دارند که قفل نباید خاموش کند.
+- **غیرقابل‌مذاکره:** این نشانه قفل زیرساخت زیر [§5.5](#55-special-locks) نمی‌سازد. مسیرگذاری معیار سمت نام‌گذاری در [فصل دهم §5.9](../../core_11_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct) می‌ماند. حدهای جهانی عدم‌محدودیت زیر [§5.1](#51-definition-and-attachment) همچنان گفتار، دادخواست، مشارکت طرف اثرپذیر، کف حقوق، و دسترسی حیاتی بقا را پاس می‌دارند که قفل نباید خاموش کند.
 
 <a id="1012-stakeholder-participation-corruption-or-false-stake-abuse"></a>
 #### 10.12 فساد مشارکت طرف اثرپذیر یا سوءاستفاده از منافع دروغین
@@ -984,7 +984,7 @@
   - [§5.4](#54-special-violation-rules) (*شکل‌دهی پنهان‌کاری، گریز، فریب، و وابسته به تکلیف*)؛
   - [§5.5](#55-special-locks) (*قفل ردپای خدمت مجمع فقط وقتی ماشهٔ یکپارچگی مجمع / کناره‌گیری لازم زیر [§10.3](#103-forum-integrity-deception-or-recusal-failure) برآورده شود*)؛ و
   - [§10.8](#108-anti-constitutional-misconduct-allegation) (*دروازهٔ فصل دهم وقتی `s` = 7–9 و سوءرفتار ضدقانون‌اساسی از نظر مادی ادعا شده*).
-- **غیرقابل‌مذاکره:** این نشانه قفل انسداد یا نوع دیگر [§5.5](#55-special-locks) نمی‌سازد. خصلت انسداد هرگز خانهٔ محور تخلف را جابه‌جا نمی‌کند. قفل‌های عادی مسیر نام‌گذاری‌شده از سابقهٔ ثابت در هر خانه پیش می‌روند. مسیرگذاری معیار سمت نام‌گذاری در [فصل دهم §5.11](../../core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) می‌ماند؛ فقط نام‌گذاری نهایی قفل اعتماد ضدقانون‌اساسی را زیر [§10.8](#108-anti-constitutional-misconduct-allegation) ماشه می‌کند. *رفتار* انسداد راستی‌آزمایی‌شده را از [تسخیر مسیرهای حل](core_05_band_accountability.md#capture-of-resolution-pathways) به‌عنوان شرط ساختاری جدا کنید.
+- **غیرقابل‌مذاکره:** این نشانه قفل انسداد یا نوع دیگر [§5.5](#55-special-locks) نمی‌سازد. خصلت انسداد هرگز خانهٔ محور تخلف را جابه‌جا نمی‌کند. قفل‌های عادی مسیر نام‌گذاری‌شده از سابقهٔ ثابت در هر خانه پیش می‌روند. مسیرگذاری معیار سمت نام‌گذاری در [فصل دهم §5.11](../../core_11_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) می‌ماند؛ فقط نام‌گذاری نهایی قفل اعتماد ضدقانون‌اساسی را زیر [§10.8](#108-anti-constitutional-misconduct-allegation) ماشه می‌کند. *رفتار* انسداد راستی‌آزمایی‌شده را از [تسخیر مسیرهای حل](core_05_band_accountability.md#capture-of-resolution-pathways) به‌عنوان شرط ساختاری جدا کنید.
 
 <a id="1014-verified-cruelty-character"></a>
 #### 10.14 خصلت قساوت راستی‌آزمایی‌شده
@@ -1004,4 +1004,4 @@
 
 **پروندهٔ بعدی (این زبان):** [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)
 
-**اصل الزام‌آور:** [core_09_standing_integration.md](../../core_09_standing_integration.md)
+**اصل الزام‌آور:** [core_09_standing_integration.md](../../core_10_standing_integration.md)

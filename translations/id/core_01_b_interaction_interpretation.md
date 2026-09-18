@@ -74,7 +74,7 @@
 
 <br>
 
-*Dalam bahasa sederhana: nilai dan hak akan bertabrakan — **Keselamatan** dan **Kebenaran** didahulukan. Setelah itu, batas harus proporsional, perlu, meminimalkan bahaya, dan seringan mungkin. Kebenaran tidak boleh disembunyikan demi kenyamanan; privasi tidak boleh dilucuti demi kemudahan; batas kebebasan berlaku di bawah [§5.1](core_01_a_values_principles.md#51-limitation-discipline); konflik hak butuh uji keputusan yang terdokumentasi; dan metrik yang berbohong tentang kepatuhan tidak dihitung. Optimasi cakrawala-pendek tidak dapat lolos evaluasi di bawah [Bab Tujuh §3.6 Batasan Konsistensi-Waktu](../../core_07_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint). **§6.1–§6.3** membawa aturan tukar-guling, batasan pengungkapan dan privasi, serta prosedur tabrakan hak.*
+*Dalam bahasa sederhana: nilai dan hak akan bertabrakan — **Keselamatan** dan **Kebenaran** didahulukan. Setelah itu, batas harus proporsional, perlu, meminimalkan bahaya, dan seringan mungkin. Kebenaran tidak boleh disembunyikan demi kenyamanan; privasi tidak boleh dilucuti demi kemudahan; batas kebebasan berlaku di bawah [§5.1](core_01_a_values_principles.md#51-limitation-discipline); konflik hak butuh uji keputusan yang terdokumentasi; dan metrik yang berbohong tentang kepatuhan tidak dihitung. Optimasi cakrawala-pendek tidak dapat lolos evaluasi di bawah [Bab Tujuh §3.6 Batasan Konsistensi-Waktu](../../core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint). **§6.1–§6.3** membawa aturan tukar-guling, batasan pengungkapan dan privasi, serta prosedur tabrakan hak.*
 
 **Keselamatan** dan **Kebenaran** didahulukan di mana konflik tidak dapat diselesaikan tanpa melanggarnya.
 
@@ -182,7 +182,7 @@ Berikut ini tidak patuh:
 - mengoptimalkan pada bahaya lokal atau segera semata sambil menciptakan bahaya sistemik, agregat, atau ekologis yang lebih besar;
 - mengeksternalisasi bahaya ke ekosistem, makhluk sadar yang tidak diidentifikasi, atau pihak lain yang tidak dihitung agar kelihatan meminimalkan bahaya bagi pihak yang diidentifikasi.
 
-**Disiplin cakrawala waktu.** Optimasi jangka pendek dengan biaya sistemik jangka panjang gagal uji ini. Minimalisasi bahaya harus memperhitungkan [Bab Tujuh §3.6 Batasan Konsistensi-Waktu](../../core_07_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint): keputusan yang kelihatan meminimalkan bahaya pada periode berjalan tetapi secara terduga menciptakan bahaya lebih besar di seluruh cakrawala waktu konstitusional yang relevan tidak patuh.
+**Disiplin cakrawala waktu.** Optimasi jangka pendek dengan biaya sistemik jangka panjang gagal uji ini. Minimalisasi bahaya harus memperhitungkan [Bab Tujuh §3.6 Batasan Konsistensi-Waktu](../../core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint): keputusan yang kelihatan meminimalkan bahaya pada periode berjalan tetapi secara terduga menciptakan bahaya lebih besar di seluruh cakrawala waktu konstitusional yang relevan tidak patuh.
 
 **Hubungan dengan lantai konstitusional.** Minimalisasi bahaya beroperasi *di atas* lantai konstitusional yang dinyatakan di [§6.1.4](#614-constitutional-floors-safety-and-process-character-constraints). Ia tidak pernah mengizinkan:
 - penghapusan permanen minimum Lantai Hak;
@@ -609,7 +609,7 @@ Tidak ada nilai yang didefinisikan dalam bab ini yang boleh dipakai sebagai just
 - Hilir: [§8.1 Prinsip Tidak-Ada-Pengelakan Konstitusional](#81-constitutional-no-bypass-principle), [§8.2 Lapisan definisional dan disiplin yang dituntut](#82-definitional-layer-and-required-disciplines), [§8.3 Penyelesaian ambiguitas](#83-ambiguity-resolution), [§8.4 Penyelesaian Konflik Makna Konstitusional](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. Tujuan Fondasional: Kesejahteraan](core_01_a_values_principles.md#2-foundational-objective-wellbeing) sampai [15. Penerapan Terpadu](core_01_c_stewardship_capacity_principles.md#15-integrated-application); [6. Penyelesaian Konflik Proses](#6-process-conflict-resolution) untuk prosedur tabrakan nilai; bawaan tidak-kontraksi [Bab Enam: Hak Dasar](../../core_06_rights_part_a.md#chapter-six-foundational-rights).
 - Baca bersama: [Bab Dua sampai Empat](core_02_definition_structure.md) dan [Bab Lima](core_05__definitions_home.md#chapter-five-foundational-definitions) — lapisan tafsir dan evidensial bagi setiap istilah dalam bab ini.
 - Baca bersama: [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) dan [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) — latar tafsir bagi kerangka nilai terpadu; penskalaan [taruhan material](core_00_preamble.md#material-stake) di mana relevan secara material.
-- Baca bersama: [Tumpukan wewenang dan hierarki internal](../../core_05_band_integrative.md#authority-stack) (*status lapisan-sumber*); [Bab Enam Belas](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*kustodi, edisi, bingkai adopsi* — bukan rumah urutan-konflik kedua); [Bab Tiga Belas](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) dan [Bab Empat Belas](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*gerbang non-regresi dan hierarki pihak yang mengadopsi di bawah §8.4*).
+- Baca bersama: [Tumpukan wewenang dan hierarki internal](../../core_05_band_integrative.md#authority-stack) (*status lapisan-sumber*); [Bab Enam Belas](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*kustodi, edisi, bingkai adopsi* — bukan rumah urutan-konflik kedua); [Bab Tiga Belas](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) dan [Bab Empat Belas](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) (*gerbang non-regresi dan hierarki pihak yang mengadopsi di bawah §8.4*).
 - Baca bersama: [Pasal XXII: Tafsir Konstitusional, Tinjauan, dan Pagar Pengaman Anti-Penguasaan](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) untuk pagar pengaman tafsir kelembagaan (bukan pengganti bagian ini).
 
 </details>
@@ -736,7 +736,7 @@ Subbagian ini adalah **prosedur kanonik tunggal** untuk menyelesaikan ketegangan
   - di dalam sumber konstitusional mengikat (instrumen `core_*` terpadu); dan
   - pada lapisan inkorporasi untuk teks terinkorporasi **paling ketat** / **lebih ketat**.
 - Status lapisan-sumber diidentifikasi di bawah [Tumpukan wewenang dan hierarki internal](../../core_05_band_integrative.md#authority-stack) di Bab Lima.
-- [Bab Enam Belas](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) memasok kustodi, penyematan edisi, dan bingkai adopsi. Ia **tidak** menyatakan ulang prosedur ini.
+- [Bab Enam Belas](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) memasok kustodi, penyematan edisi, dan bingkai adopsi. Ia **tidak** menyatakan ulang prosedur ini.
 - Untuk **tabrakan nilai dan hak dalam operasi** — bukan keunggulan lapisan tekstual — terapkan **[§6 Penyelesaian Konflik Proses](#6-process-conflict-resolution)**.
 
 **Urutan operatif.** Terapkan yang berikut **dalam urutan ini**:
@@ -773,7 +773,7 @@ Setiap prinsip dalam bab ini berlaku bersama [Tetrad Konstitusional](core_00_pre
 <a id="843-incorporation-layer"></a>
 ##### 8.4.3 Lapisan inkorporasi
 
-Setelah bacaan konstitusional di bawah **§8.4.1** dan **§8.4.2**, terapkan **kewajiban yang ditunjuk** dalam teks implementasi yang diadopsi — tugas cara-kerja bernama yang benar-benar dibawa adopsi ke dalam kekuatan. Terapkan mereka hanya di dalam **cakupan adopsi dan inkorporasi yang sah** di bawah **[Bab Enam Belas](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** (siapa memegang catatan, edisi mana yang disematkan, dan bagaimana adopsi dibingkai).
+Setelah bacaan konstitusional di bawah **§8.4.1** dan **§8.4.2**, terapkan **kewajiban yang ditunjuk** dalam teks implementasi yang diadopsi — tugas cara-kerja bernama yang benar-benar dibawa adopsi ke dalam kekuatan. Terapkan mereka hanya di dalam **cakupan adopsi dan inkorporasi yang sah** di bawah **[Bab Enam Belas](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)** (siapa memegang catatan, edisi mana yang disematkan, dan bagaimana adopsi dibingkai).
 
 Ketika aturan di bawah mengatakan **paling ketat** atau **lebih ketat**, kata-kata itu punya makna yang sama dengan aturan **ambiguitas** di **[§8.3](#83-ambiguity-resolution)**: **efek pelindung terpenuh sebagai keseluruhan terpadu**, bukan **pembatasan maksimal** atau **ketatnya abstrak** secara terisolasi.
 
@@ -788,7 +788,7 @@ Ketika aturan di bawah mengatakan **paling ketat** atau **lebih ketat**, kata-ka
   - ini **bukan** penyelesaian ambiguitas konstitusional substantif lewat preferensi bagi **ketatnya abstrak**.
 - **Lintas-berkas yang-lebih-ketat-menang:** Di mana dua atau lebih berkas implementasi yang diadopsi menetapkan standar berbeda untuk risiko yang sama yang dicakup secara bermakna, aturan yang diadopsi secara jelas yang lebih ketat mengendalikan, konsisten dengan **Yang paling ketat yang berlaku** dan **Garis dasar yang diadopsi secara jelas yang lebih ketat** di atas.
   - Status lapisan-sumber tetap di bawah [Tumpukan wewenang dan hierarki internal](../../core_05_band_integrative.md#authority-stack).
-  - Kustodi, edisi, dan bingkai adopsi tetap di bawah **[Bab Enam Belas](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)**.
+  - Kustodi, edisi, dan bingkai adopsi tetap di bawah **[Bab Enam Belas](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)**.
   - Aturan yang sama berlaku ketika profil yang dikutip dan label implementasi yang dikutip tampak bertabrakan untuk risiko itu.
 
 <a id="844-combined-satisfaction"></a>
@@ -800,7 +800,7 @@ Aturan pemenuhan-gabungan subbagian ini adalah tentang **lebih dari satu berkas 
 - aturan untuk **satu** klaster operasional dalam teks struktur-bersama terinkorporasi, di mana mengerjakan hanya sebagian klaster itu tidak dihitung sebagai kepatuhan — lihat **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*Klaster operasional*); atau
 - aturan Bab Lima bahwa definisi **Klaster dependen** harus dipenuhi bersama — lihat **[Pemanggilan dan pemenuhan bersama](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
 
-**Kapan subbagian ini berlaku.** Aturan ini berlaku di dalam cakupan adopsi dan inkorporasi yang sah di bawah **[Bab Enam Belas](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** dalam salah satu dari kasus ini:
+**Kapan subbagian ini berlaku.** Aturan ini berlaku di dalam cakupan adopsi dan inkorporasi yang sah di bawah **[Bab Enam Belas](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)** dalam salah satu dari kasus ini:
 
 1. **Satu situasi, lebih dari satu berkas:** Faktanya menuntut menerapkan lebih dari satu berkas implementasi terinkorporasi — misalnya sistem, lembaga, forum, atau teks struktur-bersama. Berkas mana yang berlaku diputuskan oleh cakupan adopsi dan perutean topik yang disediakan berkas itu untuk faktanya, bukan dengan memilih hanya berkas yang paling mudah dipenuhi.
 2. **Adopsi membawa himpunan struktur-bersama ke dalam kekuatan:** Instrumen yang mengadopsi menerapkan teks implementasi struktur-bersama yang ditunjuk (folder **CJS** dan berkas struktur-bersama lain yang didaftar dalam rantai adopsi) pada pihak yang mengadopsi.

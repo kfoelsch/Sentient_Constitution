@@ -6,7 +6,7 @@
 
 > Aşağıdaki içerik **yalnızca okur rehberidir**. Bu dosyada ya da başka bölümlerde bağlayıcı yükümlülükleri eklemez, çıkarmaz ya da daraltmaz.
 >
-> Bu dosya, [İngilizce Dokuzuncu Bölüm](../../core_09_standing_integration.md)ün bir **okur-dili pilotudur**. Algılayanlar Anayasasının bağlayıcı bir parçası **değildir**. İkinci bir anayasa **değildir**. Bir gönderim baskısı **değildir**. `SC-Corpus-2026.08.09`a **sabitlenmiştir**. Bu çeviri ile İngilizce asıl görünür biçimde ayrışırsa, numaralı [`core_09_standing_integration.md`](../../core_09_standing_integration.md) kazanır. Okuma sırası ve baskı üstverisi [README.md](../../README.md)de tutulur. Yöntem ve sözlük: [translations/tr/README.md](README.md).
+> Bu dosya, [İngilizce Dokuzuncu Bölüm](../../core_10_standing_integration.md)ün bir **okur-dili pilotudur**. Algılayanlar Anayasasının bağlayıcı bir parçası **değildir**. İkinci bir anayasa **değildir**. Bir gönderim baskısı **değildir**. `SC-Corpus-2026.08.09`a **sabitlenmiştir**. Bu çeviri ile İngilizce asıl görünür biçimde ayrışırsa, numaralı [`core_09_standing_integration.md`](../../core_10_standing_integration.md) kazanır. Okuma sırası ve baskı üstverisi [README.md](../../README.md)de tutulur. Yöntem ve sözlük: [translations/tr/README.md](README.md).
 >
 > **Dokuzuncu Bölüm**ü içerir — güzergâh-zinciri bütünleştirme ve sonuç katmanı. [Sekizinci Bölüm](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) doğrulanmış olguları, güzergâh kayıtlarını, güzergâh ölçümünü ve Katkı Ekseni ile İhlal Ekseni üzerindeki her yuvayı münhasıran sahiplenir. Bu bölüm o girdileri sabit kabul eder ve Soru 3'ü yanıtlar: ne gelir. [Onuncu Bölüm](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) yalnızca nitelikli bir `s = 7`, `s = 8` ya da `s = 9` ihlalinin eşleşen anayasa karşıtı-kötü-davranış atamasını alıp almadığına karar verir.
 
@@ -207,7 +207,7 @@ Bir **güzergâh kilidi** bir önleme ve risk-azaltma önlemidir. Doğrulanmış
 
 **Yol ayrımı — governance-voting vs stakeholder-participation:**
 
-- **governance-voting**, [On İkinci Bölüm §4.1](../../core_12_governance.md#41-entitlement-and-eligibility) altında yönetişim oylamasına ve karşılaştırılabilir meşruiyet-düzeneği bağlayıcı kolektif seçime katılımı kapsar, **Temel Anayasal Seçim** dahil. Zaten yetkilendirilmiş bir sistem, kurum ya da sınırlı karar alanı içindeki paya-ağırlıklı sesi **kapsamaz**.
+- **governance-voting**, [On İkinci Bölüm §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) altında yönetişim oylamasına ve karşılaştırılabilir meşruiyet-düzeneği bağlayıcı kolektif seçime katılımı kapsar, **Temel Anayasal Seçim** dahil. Zaten yetkilendirilmiş bir sistem, kurum ya da sınırlı karar alanı içindeki paya-ağırlıklı sesi **kapsamaz**.
 - **stakeholder-participation**, [Etkilenen taraf ağırlığı](core_05_band_participation.md#stakeholder-weight) ve [Bağlayıcı Etkilenen Taraf Seçimi](core_05_band_participation.md#binding-stakeholder-choice-cluster) altında paya-ağırlıklı etkiyi, bağlayıcı etkilenen taraf seçimini ve karşılaştırılabilir Etkilenen Tarafların Sistem Katılımı adlandırılmış yollarını kapsar. [Etkilenen taraf](core_05_band_participation.md#stakeholder) statüsünün kendisini **silmez** ve bir **governance-voting** kilidinin yerine **geçmez**.
 
 Doğrulanmış etkilenen-taraf-yolu yolsuzluğu, ele geçirme, sahte-pay kötüye kullanımı ya da zorlayıcı katılım-ağırlığı oyunu tetikleyici olduğunda, [§5.5](#55-special-locks) altındaki [Etkilenen Taraf Katılım Güzergâh Kilidini](#55-special-locks) uygulayın.
@@ -474,7 +474,7 @@ Bu kilitler doğrulanmış tetikleyicileri karşılandığında zorunludur. Her 
   - [Etkilenen taraf ağırlığı](core_05_band_participation.md#stakeholder-weight) ve [Bağlayıcı Etkilenen Taraf Seçimi](core_05_band_participation.md#binding-stakeholder-choice-cluster) altında etkilenen sistem, kurum ya da sınırlı karar alanı içindeki karşılaştırılabilir Etkilenen Tarafların Sistem Katılımı adlandırılmış yolları.
 - **Tek başına kısıtlamaz:**
   - [Etkilenen taraf](core_05_band_participation.md#stakeholder) statüsü ya da algılayanın maddi olarak etkilendiğinin tanınması;
-  - **governance-voting** adlandırılmış yolu, **Temel Anayasal Seçim** ya da [On İkinci Bölüm §4.1](../../core_12_governance.md#41-entitlement-and-eligibility) altında karşılaştırılabilir meşruiyet-düzeneği bağlayıcı kolektif seçim;
+  - **governance-voting** adlandırılmış yolu, **Temel Anayasal Seçim** ya da [On İkinci Bölüm §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) altında karşılaştırılabilir meşruiyet-düzeneği bağlayıcı kolektif seçim;
   - Hak Tabanı asgarileri, hayatta kalmaya kritik erişim ya da anayasal olarak gereken denetim, itiraz ve çare adlandırılmış yolları.
 - **Risk:** etkilenen taraf sesinin süregelen ele geçirilmesi ya da çarpıtılması, sahte-pay egemenliği, zorlanmış katılım ağırlığı ve aynı ya da ilgili alanlarda etkilenen-taraf-yolu kötüye kullanımının yinelenmesi.
 - **Korunan özneler ya da çıkarlar:** etkilenen taraflar, bağlayıcı etkilenen taraf seçiminin bütünlüğü ve ilgili sistemin, kurumun ya da sınırlı karar alanının ele geçirilmemesi.
@@ -804,10 +804,10 @@ Aşağıdakiler, itirazı ya da çareyi öngörülebilir biçimde boşa çıkard
 - tek kırılgan bir ofise bağımlılık; ya da
 - kronik kilometre taşı başarısızlığı.
 
-**Bütünlük**, **Anayasal** ya da **Çevre** forum heyetlerinin, ya da algılama-statüsü hükme bağlamasını dinleyen **Teknik Forum Alanları** heyetlerinin yetersiz atanması, [On İkinci Bölüm §1.2](../../core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums) ile birlikte okunan bu alt kesit altında bir dayanıklılık başarısızlığıdır.
+**Bütünlük**, **Anayasal** ya da **Çevre** forum heyetlerinin, ya da algılama-statüsü hükme bağlamasını dinleyen **Teknik Forum Alanları** heyetlerinin yetersiz atanması, [On İkinci Bölüm §1.2](../../core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums) ile birlikte okunan bu alt kesit altında bir dayanıklılık başarısızlığıdır.
 
 <a id="92-remedy-parity-funding-floor"></a>
-**Çare-eşitliği finansman tabanı.** Bir benimseyenin yönettiği her sistem sınıfı için çare, restorasyon ve yeniden değerlendirmeye finanse edilen kapasite, aynı sınıfta kilit yönetimi, yaptırım ve koruma dayatmasına finanse edilen kapasiteden az olmamalıdır. Oran [§4.4](#44-remedy-parity-and-lock-preconditions) tetik teli rakamlarıyla yayımlanmalıdır. Eşitlikten ayrılan bir benimseyen gerekçeleri [On İkinci Bölüm §3.1](../../core_12_governance.md#31-stewardship-direction) altında kaydetmeli ve kayıtta çare başlaması ile restorasyon incelemesinin yine de kademe saatlerini karşıladığını göstermelidir; bütçe eşitliği tetiklenmiş bir [§4.4](#44-remedy-parity-and-lock-preconditions) tetik telini mazur göstermez ve karşılanmış bir tetik teli eşitlikten sessiz ayrılmayı mazur göstermez. Bir sistem sınıfı için çareyi finanse edemeyen bir benimseyen o sınıf için kilit makinesini ayağa kaldırmamalıdır.
+**Çare-eşitliği finansman tabanı.** Bir benimseyenin yönettiği her sistem sınıfı için çare, restorasyon ve yeniden değerlendirmeye finanse edilen kapasite, aynı sınıfta kilit yönetimi, yaptırım ve koruma dayatmasına finanse edilen kapasiteden az olmamalıdır. Oran [§4.4](#44-remedy-parity-and-lock-preconditions) tetik teli rakamlarıyla yayımlanmalıdır. Eşitlikten ayrılan bir benimseyen gerekçeleri [On İkinci Bölüm §3.1](../../core_13_governance.md#31-stewardship-direction) altında kaydetmeli ve kayıtta çare başlaması ile restorasyon incelemesinin yine de kademe saatlerini karşıladığını göstermelidir; bütçe eşitliği tetiklenmiş bir [§4.4](#44-remedy-parity-and-lock-preconditions) tetik telini mazur göstermez ve karşılanmış bir tetik teli eşitlikten sessiz ayrılmayı mazur göstermez. Bir sistem sınıfı için çareyi finanse edemeyen bir benimseyen o sınıf için kilit makinesini ayağa kaldırmamalıdır.
 
 <a id="93-cross-jurisdiction-continuity"></a>
 #### 9.3 Yargı-ötesi süreklilik
@@ -835,7 +835,7 @@ Haklar ve güzergâh sonuçları yalnızca algılayanlar onları çağırabildi�
 
 - Yukarı: [§1](#1-immutable-chapter-eight-inputs) ile [§9](#9-enforcement-realism) (*değişmez Sekizinci Bölüm girdilerinden yaptırım gerçekçiliği ve çare sistemlerine*).
 - Alt kesitler: [§10.1](#101-informal-ecological-stewardship-competency-clearance); [§10.2](#102-ecological-negligence-with-concealment); [§10.3](#103-forum-integrity-deception-or-recusal-failure); [§10.4](#104-recurrence-after-completed-restitution); [§10.5](#105-champion-repair-while-a-lock-remains-active); [§10.6](#106-institutional-vehicle-and-successor-evasion); [§10.7](#107-misaligned-reward-retention); [§10.8](#108-anti-constitutional-misconduct-allegation); [§10.9](#109-rights-floor-waiver-or-unconstitutional-contract-devices); [§10.10](#1010-contest-pathway-or-info-sphere-flooding); [§10.11](#1011-infrastructure-denial-or-dependency-cutoff); [§10.12](#1012-stakeholder-participation-corruption-or-false-stake-abuse); [§10.13](#1013-obstruction-of-accountability).
-- Birlikte oku: [Sekizinci Bölüm §4.6](core_08_standing_assessment.md#46-question-2-measurement-illustrations) (*Soru 2 ölçüm örnekleri*); [Sekizinci–On Birinci Bölüm uygulama skeçleri](../../core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes) (*tam zincir alan yürüyüşleri*); [Onuncu Bölüm §5](../../core_10_b_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing) (*atama-tarafı örüntü yönlendirmesi — çift-katman ikizi; bir kilit-türü kataloğu değil*).
+- Birlikte oku: [Sekizinci Bölüm §4.6](core_08_standing_assessment.md#46-question-2-measurement-illustrations) (*Soru 2 ölçüm örnekleri*); [Sekizinci–On Birinci Bölüm uygulama skeçleri](../../core_09-12_application_vignettes.md#chapters-eight-eleven-application-vignettes) (*tam zincir alan yürüyüşleri*); [Onuncu Bölüm §5](../../core_11_b_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing) (*atama-tarafı örüntü yönlendirmesi — çift-katman ikizi; bir kilit-türü kataloğu değil*).
 
 </details>
 
@@ -937,7 +937,7 @@ Aşağıdaki alt kesitler yaygın Soru 3 durumlarının bu bölümde zaten belir
   - [§4.2](#42-general-standing-locks) (*kötüye kullanılan güven, rol, kredi ya da etki adlandırılmış yollarına kapsamlı genel güzergâh kilitleri*);
   - [§5.1](#51-definition-and-attachment) (*iliştirme alanları*); ve
   - [§5.4](#54-special-violation-rules) (*araç hukuka aykırı ya da anayasaya aykırı uyum istediğinde Direnme Ödevi*).
-- **Tartışılmaz:** Bu ipucu [§5.5](#55-special-locks) altında özel bir kilit yaratmaz. Terim geçersizliği ve atama ölçütleri [Onuncu Bölüm §5.2](../../core_10_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms)te kalır. Dokuzuncu Bölüm doğrulanmış kayıttan olağan adlandırılmış yol kilitleri iliştirir; yalnızca son bir atama [§10.8](#108-anti-constitutional-misconduct-allegation) altında Anayasa Karşıtı Güven Kilidini tetikler.
+- **Tartışılmaz:** Bu ipucu [§5.5](#55-special-locks) altında özel bir kilit yaratmaz. Terim geçersizliği ve atama ölçütleri [Onuncu Bölüm §5.2](../../core_11_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms)te kalır. Dokuzuncu Bölüm doğrulanmış kayıttan olağan adlandırılmış yol kilitleri iliştirir; yalnızca son bir atama [§10.8](#108-anti-constitutional-misconduct-allegation) altında Anayasa Karşıtı Güven Kilidini tetikler.
 
 <a id="1010-contest-pathway-or-info-sphere-flooding"></a>
 #### 10.10 İtiraz-yolu ya da info-küre doldurması
@@ -948,7 +948,7 @@ Aşağıdaki alt kesitler yaygın Soru 3 durumlarının bu bölümde zaten belir
   - [§4.2](#42-general-standing-locks) (*kötüye kullanılan yönlendirme, başvuru, sıralama, erişim ya da etki adlandırılmış yollarında koruyucu adlandırılmış yol kilitleri*);
   - [§5.1](#51-definition-and-attachment) ve [§5.2](#52-proportionality-and-calibration) (*gerekli, orantılı, incelenebilir kapsam*); ve
   - [On Birinci Bölüm](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*işlemsel alım triyajı ve oyun-karşıtı — güzergâh etkileri uydurmadan gözetim*).
-- **Tartışılmaz:** Bu ipucu bir Doldurma Kilidi ya da başka bir [§5.5](#55-special-locks) türü yaratmaz. Atama-tarafı ölçüt yönlendirmesi [Onuncu Bölüm §5.3](../../core_10_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) ve [§5.4](../../core_10_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)te kalır. Olağan koruyucu kilitler, atama sonradan ilişse de ilişmese de sabit kayıttan ilerler.
+- **Tartışılmaz:** Bu ipucu bir Doldurma Kilidi ya da başka bir [§5.5](#55-special-locks) türü yaratmaz. Atama-tarafı ölçüt yönlendirmesi [Onuncu Bölüm §5.3](../../core_11_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) ve [§5.4](../../core_11_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)te kalır. Olağan koruyucu kilitler, atama sonradan ilişse de ilişmese de sabit kayıttan ilerler.
 
 <a id="1011-infrastructure-denial-or-dependency-cutoff"></a>
 #### 10.11 Altyapı reddi ya da bağımlılık kesmesi
@@ -960,7 +960,7 @@ Aşağıdaki alt kesitler yaygın Soru 3 durumlarının bu bölümde zaten belir
   - [§5.1](#51-definition-and-attachment) (*kesme riskini yeniden yaratan ağlardan ya da denetim noktalarından yalıtım dahil*);
   - [§5.4](#54-special-violation-rules) (*zorlayıcı ya da özgürlük-kısıtlayan korumalar yalnızca doğrulanmış tehlike haklı kıldığında*); ve
   - [§9](#9-enforcement-realism) (*çare-sistemi dayanıklılığı ve kaçınma karşıtı*).
-- **Tartışılmaz:** Bu ipucu [§5.5](#55-special-locks) altında bir Altyapı Kilidi yaratmaz. Atama-tarafı ölçüt yönlendirmesi [Onuncu Bölüm §5.9](../../core_10_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct)da kalır. [§5.1](#51-definition-and-attachment) altındaki küresel kısıtlama-yok sınırları, kilidin söndürmemesi gereken ifadeyi, dilekçeyi, etkilenen taraf katılımını, Hak Tabanını ve hayatta kalmaya kritik erişimi hâlâ korur.
+- **Tartışılmaz:** Bu ipucu [§5.5](#55-special-locks) altında bir Altyapı Kilidi yaratmaz. Atama-tarafı ölçüt yönlendirmesi [Onuncu Bölüm §5.9](../../core_11_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct)da kalır. [§5.1](#51-definition-and-attachment) altındaki küresel kısıtlama-yok sınırları, kilidin söndürmemesi gereken ifadeyi, dilekçeyi, etkilenen taraf katılımını, Hak Tabanını ve hayatta kalmaya kritik erişimi hâlâ korur.
 
 <a id="1012-stakeholder-participation-corruption-or-false-stake-abuse"></a>
 #### 10.12 Etkilenen taraf katılımı yolsuzluğu ya da sahte-pay kötüye kullanımı
@@ -982,7 +982,7 @@ Aşağıdaki alt kesitler yaygın Soru 3 durumlarının bu bölümde zaten belir
   - [§5.4](#54-special-violation-rules) (*gizleme, kaçınma, aldatma ve ödevle ilgili şekillendirme*);
   - [§5.5](#55-special-locks) (*Forum-Hizmet Güzergâh Kilidi yalnızca [§10.3](#103-forum-integrity-deception-or-recusal-failure) altında forum-bütünlüğü / gereken-çekilme tetikleyicisi karşılandığında*); ve
   - [§10.8](#108-anti-constitutional-misconduct-allegation) (`s` = 7–9 ve anayasa karşıtı kötü davranış maddi olarak iddia edildiğinde Onuncu Bölüm kapısı).
-- **Tartışılmaz:** Bu ipucu bir Engelleme Kilidi ya da başka bir [§5.5](#55-special-locks) türü yaratmaz. Engelleme karakteri İhlal Ekseni yuvasını asla kaydırmaz. Olağan adlandırılmış yol kilitleri herhangi bir yuvada sabit kayıttan ilerler. Atama-tarafı ölçüt yönlendirmesi [Onuncu Bölüm §5.11](../../core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)te kalır; yalnızca son bir atama [§10.8](#108-anti-constitutional-misconduct-allegation) altında Anayasa Karşıtı Güven Kilidini tetikler. Doğrulanmış engelleme *davranışını* yapısal bir koşul olarak [Çözüm Yollarının Ele Geçirilmesi](core_05_band_accountability.md#capture-of-resolution-pathways)nden ayırın.
+- **Tartışılmaz:** Bu ipucu bir Engelleme Kilidi ya da başka bir [§5.5](#55-special-locks) türü yaratmaz. Engelleme karakteri İhlal Ekseni yuvasını asla kaydırmaz. Olağan adlandırılmış yol kilitleri herhangi bir yuvada sabit kayıttan ilerler. Atama-tarafı ölçüt yönlendirmesi [Onuncu Bölüm §5.11](../../core_11_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)te kalır; yalnızca son bir atama [§10.8](#108-anti-constitutional-misconduct-allegation) altında Anayasa Karşıtı Güven Kilidini tetikler. Doğrulanmış engelleme *davranışını* yapısal bir koşul olarak [Çözüm Yollarının Ele Geçirilmesi](core_05_band_accountability.md#capture-of-resolution-pathways)nden ayırın.
 
 <a id="1014-verified-cruelty-character"></a>
 #### 10.14 Doğrulanmış zalimlik karakteri
@@ -1002,4 +1002,4 @@ Aşağıdaki alt kesitler yaygın Soru 3 durumlarının bu bölümde zaten belir
 
 **Sonraki dosya (bu dilde):** [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)
 
-**Bağlayıcı asıl:** [core_09_standing_integration.md](../../core_09_standing_integration.md)
+**Bağlayıcı asıl:** [core_09_standing_integration.md](../../core_10_standing_integration.md)

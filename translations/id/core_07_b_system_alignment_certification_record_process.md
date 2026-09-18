@@ -7,7 +7,7 @@
 
 > Isi berikut **hanya panduan pembaca**. Tidak menambah, mengurangi, atau mempersempit kewajiban yang mengikat di berkas ini atau di bab lain.
 >
-> Berkas ini adalah **uji coba bahasa pembaca** atas [Bab Tujuh, Bagian B bahasa Inggris](../../core_07_b_system_alignment_certification_record_process.md). **Bukan** bagian mengikat Konstitusi Makhluk Sadar. **Bukan** konstitusi kedua. **Bukan** edisi kirim. **Disematkan** pada `SC-Corpus-2026.08.09`. Jika terjemahan ini dan sumber bahasa Inggris tampak berselisih, berkas bernomor [`core_07_b_system_alignment_certification_record_process.md`](../../core_07_b_system_alignment_certification_record_process.md) yang menang. Urutan baca dan metadata edisi tetap di [README.md](../../README.md). Metode dan glosarium: [translations/id/README.md](README.md).
+> Berkas ini adalah **uji coba bahasa pembaca** atas [Bab Tujuh, Bagian B bahasa Inggris](../../core_08_b_system_alignment_certification_record_process.md). **Bukan** bagian mengikat Konstitusi Makhluk Sadar. **Bukan** konstitusi kedua. **Bukan** edisi kirim. **Disematkan** pada `SC-Corpus-2026.08.09`. Jika terjemahan ini dan sumber bahasa Inggris tampak berselisih, berkas bernomor [`core_07_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md) yang menang. Urutan baca dan metadata edisi tetap di [README.md](../../README.md). Metode dan glosarium: [translations/id/README.md](README.md).
 >
 > Berisi **Bab Tujuh, Bagian B** — isi **catatan** sertifikasi, transparansi dan dapat-digugat, peran komponen forum, urutan supervisi, jembatan jejak, dan pembukaan ulang (**§11–§16**, berlanjut dari Bagian A §1–§10). **Bagian A** — persyaratan evaluasi — ada di [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md).
 >
@@ -30,7 +30,7 @@
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hulu: [Bagian A §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*tujuan sertifikasi dan peta jalan evaluasi*); [Bagian A §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) sampai [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*keluaran evaluasi bagi catatan*); [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad); [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims).
-- Hilir: [§11](#11-certification-record) sampai [§16](#16-reopening-drift-and-non-evasion); [Bab Delapan](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); [Bab Sebelas](core_11_forum.md#chapter-eleven-forums-and-jurisdiction).
+- Hilir: [§11](#11-certification-record) sampai [§16](#16-reopening-drift-and-non-evasion); [Bab Delapan](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model); [Bab Sebelas](core_11_forum.md#chapter-eleven-forums-and-jurisdiction).
 - Baca bersama: [corpus_forum.md](../../corpus_forum.md), **CF-5** dan **CF-7**.
 
 </details>
@@ -392,7 +392,7 @@ Ketika gugatan yang disupervisi forum dituntut, tinjauan operator internal, pern
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hulu: [§11](#11-certification-record) sampai [§13](#13-forum-supervision-and-component-roles) (*catatan sertifikasi dan supervisi forum*); [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad); [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims); [Masukan terverifikasi untuk jejak](core_05_band_accountability.md#verified-inputs-for-standing).
-- Hilir: [Bab Delapan](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*catatan jejak dan gerbang masukan-terverifikasi*); [Bab Sembilan](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*akibat jejak dan integrasi*).
+- Hilir: [Bab Delapan](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*catatan jejak dan gerbang masukan-terverifikasi*); [Bab Sembilan](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*akibat jejak dan integrasi*).
 - Baca bersama: **Pasal III-A** (*akses hal pokok kelangsungan hidup di mana sertifikasi menutup penyerahan*).
 
 </details>
@@ -450,8 +450,8 @@ Ketika gugatan yang disupervisi forum dituntut, tinjauan operator internal, pern
 
 - Catatan sertifikasi **tidak** menerapkan akibat jejak;
 - Bab ini memiliki **sertifikasi keselarasan sistem dan catatan terkait** saja — lihat [Pembukaan — daftar pemilik konstitusional](core_00_preamble.md#4-principles-definitions-and-rights), dibaca bersama [Tumpukan wewenang dan hierarki internal](core_05_band_integrative.md#authority-stack);
-- [Bab Delapan](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) memiliki catatan jejak dan pengukuran murni-sumbu;
-- [Bab Sembilan](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) memiliki integrasi jejak dan akibat;
+- [Bab Delapan](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) memiliki catatan jejak dan pengukuran murni-sumbu;
+- [Bab Sembilan](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) memiliki integrasi jejak dan akibat;
 - Bab ini boleh memasok masukan terverifikasi hanya lewat gerbang di atas;
 - Ia tidak boleh menyerap, menyatakan ulang, atau memindahkan kewajiban pemilik Bab Delapan atau Bab Sembilan.
 
@@ -466,7 +466,7 @@ Catatan sertifikasi bukan penentuan status-kesadaran dan tidak dapat memberi, me
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hulu: [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*salah klasifikasi dan ketidakselarasan*); [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*cacat penilaian-risiko dan pengungkapan-risiko*); [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) (*salah representasi jejak dan ketidakselarasan*); [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) (*salah representasi aliran-sumber-daya, ketidakselarasan ekstraksi, dan ketidakcukupan dukungan*); [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) (*ketidakselarasan pola-diskriminasi dan pengelakan pengganti*); [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) (*ketidakselarasan aksesibilitas dan akomodasi hanya-kertas*); [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) (*ketidakselarasan opasitas-penilaian, penjagaan kredensial, dan ketidakselarasan keusangan-yang-dipaksakan*); [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*ketidakselarasan kepercayaan-palsu, ketidakselarasan insentif-menyimpang, dan ketidakselarasan integritas-pemulihan*); [§12](#12-transparency-auditability-and-contestability) (*dapat-digugat*); [§14](#14-supervisory-sequence-and-contestability-chain) (*gugatan kredibel dan pembukaan ulang*); [Bab Tiga §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) dan [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*integritas definisi dan pengelakan*); [Bab Tiga §2.1 Pola Pengelakan Umum](core_03_definition_integrity.md#21-common-evasion-patterns) (*pengelakan cakupan-dan-batas*); [Piagam](core_05_band_continuity.md#charter) (*ketidakcocokan piagam–perilaku dan tinjauan terlambat*).
-- Hilir: [Bab Sebelas](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*supervisi forum yang dibuka ulang*); [Bab Delapan](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*gerbang masukan-terverifikasi di mana fakta menopang temuan merugikan*).
+- Hilir: [Bab Sebelas](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*supervisi forum yang dibuka ulang*); [Bab Delapan](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*gerbang masukan-terverifikasi di mana fakta menopang temuan merugikan*).
 - Baca bersama: [corpus_systems.md](../../corpus_systems.md) (*kewajiban implementasi sistem yang diinkorporasikan*), termasuk **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reklasifikasi dan tata kelola siklus hidup*) bagi evaluasi-ulang tipe data berkala, dan **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*Persyaratan reklasifikasi*) bagi pemicu penilaian-ulang kelas-sistem dan verifikasi SAC.
 
 </details>
@@ -515,4 +515,4 @@ Suatu **Catatan sertifikasi sistem** **terikat cakupan** dan **terikat waktu**. 
 
 **Berkas berikutnya (bahasa ini):** [core_08_standing_assessment.md](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)
 
-**Sumber mengikat:** [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md)
+**Sumber mengikat:** [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md)

@@ -24,7 +24,7 @@
 > - **خريطة الرباعية:** توزيع العبء والدليل وقابلية التتبع وقابلية الرصد والتحقق تنفّذ رِجلي **الرقابة** و**المساءلة** في [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) المقررتين في [الديباجة](core_00_preamble.md#chapter-00-preamble--foundational-requirements)؛ و**المشاركة** حيث تُطلب ماديًا عبر قابلية الرصد العملية والطعن المستقل تحت القسمين **3** و**4**. تتصاعد المتطلبات مع [الرهان المادي](core_00_preamble.md#material-stake).
 > - **المالك الدستوري:** توزيع العبء ودليل الامتثال وقابلية تتبع التعريف وقابلية الرصد والتحقق المقيَّد أمنيًا. يملك **الفصل الثامن** انضباط سجلات الوضعية والمدخلات الموثّقة مقروءًا مع هذا الفصل.
 > - **مالك التنفيذ:** يجب أن تبقى ميكانيكا النشر ومعالجة البيانات والضمان في ملفات التنفيذ المعيَّنة متسقة مع هذه القواعد، ويجوز أن تكون أشد حيث يوفّر المتن أصلًا منطق قاعدة أشد.
-> - **قاعدة منع النقل:** يحكم هذا الفصل العبء والتتبع وقابلية الرصد وحدود الأمن والدليل فقط. وهو لا يعيد بيان تعريفات الفصل الخامس، ولا قياس الإسهام أو الوضعية في **الفصل الثامن**، ولا معايير سوء السلوك المضاد للدستور في الفصل العاشر. توجيه عدم الامتثال الموثَّق إلى الوضعية محكوم بـ[الفصل الثالث §3 — توصيفات إيجاد عدم الامتثال](core_03_definition_integrity.md#3-non-compliance-finding-profiles) و[الفصل الثامن — نموذج الإسهام والانتهاك والوضعية](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model). يبيّن **القسم 6** كيف تختلف الفصول من الثاني إلى الرابع عن [الفصل السابع — تصديق مواءمة النظام](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification).
+> - **قاعدة منع النقل:** يحكم هذا الفصل العبء والتتبع وقابلية الرصد وحدود الأمن والدليل فقط. وهو لا يعيد بيان تعريفات الفصل الخامس، ولا قياس الإسهام أو الوضعية في **الفصل الثامن**، ولا معايير سوء السلوك المضاد للدستور في الفصل العاشر. توجيه عدم الامتثال الموثَّق إلى الوضعية محكوم بـ[الفصل الثالث §3 — توصيفات إيجاد عدم الامتثال](core_03_definition_integrity.md#3-non-compliance-finding-profiles) و[الفصل الثامن — نموذج الإسهام والانتهاك والوضعية](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model). يبيّن **القسم 6** كيف تختلف الفصول من الثاني إلى الرابع عن [الفصل السابع — تصديق مواءمة النظام](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -161,7 +161,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: [الفصل الرابع، الأقسام 1 حتى 4](#1-exclusive-enforcement-and-burden-allocation)؛ [الفصل الثاني، §1 — الغرض والدور](core_02_definition_structure.md#1-purpose-and-role)؛ [الفصل الثاني، §2 متطلب سلامة التعريف](core_02_definition_structure.md#2-definition-integrity-requirement)؛ [الفصل الثاني، §3 الاتساق عبر رصّة التعريف](core_02_definition_structure.md#3-consistency-across-the-definition-stack)؛ [الفصل الثالث، القسم 1 — سلامة التعريف وقيود منع التهرّب](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)؛ [الفصل الثالث، القسم 2 — عدم الامتثال من سلوك النظام القابل للرصد](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior)؛ [الفصل الثالث، §2.6 قيد سلامة عدم اليقين وعدم الاستغلال](core_03_definition_integrity.md#26-uncertainty-integrity-and-non-exploitation-constraint) — قواعد التعريف وعدم الامتثال الموضوعية؛ و**§4** يبيّن متطلبات طبقة الدليل فقط ولا يعيد بيان تلك القواعد.
-- أسفل: [الفصل الثامن — نموذج الإسهام والانتهاك والوضعية](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
+- أسفل: [الفصل الثامن — نموذج الإسهام والانتهاك والوضعية](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
 - يُقرأ مع: [الفصل الرابع، القسم 2 — متطلب قابلية تتبع التعريف](#2-definition-traceability-requirement) — الإخفاق في استدعاء أي تعريف من **الفصل الخامس** مطلوب ماديًا أو في تطبيقه تطبيقًا صحيحًا يُبطل التقييم والدليل وتقرير الامتثال المرتبطة بالكامل؛ [الفصل الأول، §6 — حل تعارض الإجراءات](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)؛ [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims) حيث يؤثّر التصعيد في المقايضات بين عافية الكائنات الواعية واستقرار الأفق الطويل؛ [الفصل الخامس السلامة (قيد)](../../core_05_band_continuity.md#safety-constraint)، و[الفصل الخامس الحقيقة (قيد دستوري)](../../core_05_band_oversight.md#truth-constitutional-constraint)، و[الفصل الخامس النزاهة المعرفية](../../core_05_band_oversight.md#epistemic-integrity) — مواءمة دليل مستنيرة بالعلم للادعاءات التجريبية أو التنبؤية أو السببية.
 
 </details>
@@ -195,8 +195,8 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: [الفصل الثاني — بنية التعريفات ومتطلبات المكوّنات](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements)؛ [الفصل الثالث — سلامة التعريف والتهرّب وعدم الامتثال](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)؛ [الفصل الرابع، الأقسام 1 حتى 5](#1-exclusive-enforcement-and-burden-allocation).
-- أسفل: [الفصل السابع — تصديق مواءمة النظام](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)؛ [الفصل الثامن — نموذج الإسهام والانتهاك والوضعية](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
-- يُقرأ مع: [الفصل السابع §16 — إعادة الفتح وعدم المواءمة ومنع التهرّب](../../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — يجوز لعدم الامتثال الموثَّق تحت الفصول من الثاني إلى الرابع أن يعيد فتح التصديق أو يهزمه بصرف النظر عن اعتراف سابق.
+- أسفل: [الفصل السابع — تصديق مواءمة النظام](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)؛ [الفصل الثامن — نموذج الإسهام والانتهاك والوضعية](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
+- يُقرأ مع: [الفصل السابع §16 — إعادة الفتح وعدم المواءمة ومنع التهرّب](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — يجوز لعدم الامتثال الموثَّق تحت الفصول من الثاني إلى الرابع أن يعيد فتح التصديق أو يهزمه بصرف النظر عن اعتراف سابق.
 
 </details>
 
@@ -213,7 +213,7 @@
 
 تنطبق هذه كلما قُيِّم الامتثال — مع التصديق أو من دونه.
 
-يمدّ **[الفصل السابع — تصديق مواءمة النظام](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)** **عملية التصديق** تحت إشراف المنتدى حيث يكون ذلك ماديًا: مجالات تقييم النظام كاملًا، وواجبات سجل التصديق، ونواتج الاعتراف، وإيقاع إعادة التحقق، وسلسلة قابلية الطعن، وجسر المدخلات الموثّقة إلى الفصل الثامن. وهو **يطبّق** الفصول من الثاني إلى الرابع؛ و**لا** يعيد بيانها.
+يمدّ **[الفصل السابع — تصديق مواءمة النظام](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)** **عملية التصديق** تحت إشراف المنتدى حيث يكون ذلك ماديًا: مجالات تقييم النظام كاملًا، وواجبات سجل التصديق، ونواتج الاعتراف، وإيقاع إعادة التحقق، وسلسلة قابلية الطعن، وجسر المدخلات الموثّقة إلى الفصل الثامن. وهو **يطبّق** الفصول من الثاني إلى الرابع؛ و**لا** يعيد بيانها.
 
 يجب ألا يعامل القرّاء:
 - **سجل تصديق** بوصفه بديلًا عن الامتثال المستمر تحت الفصول من الثاني إلى الرابع

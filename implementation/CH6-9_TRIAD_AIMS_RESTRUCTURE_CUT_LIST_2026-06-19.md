@@ -1,4 +1,4 @@
-# Chapters Eight–Eleven Triad / Aims restructure cut list
+# Chapters Nine–Twelve Triad / Aims restructure cut list
 
 **Date:** 2026-06-19  
 **Scope:** Reader-comprehension reframe around [Constitutional Triad](../core_00_preamble.md#constitutional-triad), [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims), and the [standing pipeline and forums](../README.md#standing-pipeline-and-forums) navigation. Operative standing rules unchanged.
@@ -7,14 +7,14 @@
 
 | Anchor | Home |
 |--------|------|
-| `#chapter-eight-part-a-orientation` through `#chapter-six-part-e-accountability-measure` | core_06 — **legacy aliases** on reader guidance and §§2–4 headers (no `## PART` headings) |
-| `#chapter-seven-part-a` through `#chapter-seven-part-g` | core_07 — legacy aliases on reader guidance and §§1–6 headers |
-| `#chapter-eight-part-a` through `#chapter-eight-part-e` | core_08 — legacy aliases on §§1–6 headers |
-| `#chapter-nine-part-a` through `#chapter-nine-part-e` | core_09 — legacy aliases on selected § headers |
+| `#chapter-nine-part-a-orientation` through `#chapter-six-part-e-accountability-measure` | core_06 — **legacy aliases** on reader guidance and §§2–4 headers (no `## PART` headings) |
+| `#chapter-eight-part-a` through `#chapter-eight-part-g` | core_07 — legacy aliases on reader guidance and §§1–6 headers |
+| `#chapter-nine-part-a` through `#chapter-nine-part-e` | core_08 — legacy aliases on §§1–6 headers |
+| `#chapter-ten-part-a` through `#chapter-ten-part-e` | core_09 — legacy aliases on selected § headers |
 
-**2026-06-19 follow-up:** Removed `## PART X —` heading band across Chapters Eight–Eleven. Triad / Aims band titles merged into operative `###` / `####` headers. Pipeline map table lists step, job, Triad legs, and aims only (no section index column).
+**2026-06-19 follow-up:** Removed `## PART X —` heading band across Chapters Nine–Twelve. Triad / Aims band titles merged into operative `###` / `####` headers. Pipeline map table lists step, job, Triad legs, and aims only (no section index column).
 
-## Chapter Eight — section map (section numbers unchanged)
+## Chapter Nine — section map (section numbers unchanged)
 
 | Band (former Part) | Triad / aim | Sections |
 |------|-------------|----------|
@@ -24,7 +24,7 @@
 | Flourishing measure | Flourishing | §4.0, Chapter One §8.1 (LEQU baseline), Chapter One §8.2 (primary category defaults) |
 | Accountability measure | Accountability | §3.3 |
 
-## Chapter Nine — section map
+## Chapter Ten — section map
 
 | Band (former Part) | Triad / aim | Sections |
 |------|-------------|----------|
@@ -34,9 +34,9 @@
 | Oversight vocabulary and attachments | Oversight | §2, §3 |
 | Integrative discipline | All three legs | §4 |
 | Continuity enforcement | Continuity aim | §5 |
-| Chapter Ten gateway | Continuity + Accountability | §6 |
+| Chapter Eleven gateway | Continuity + Accountability | §6 |
 
-### Chapter Nine §3 heading renumber (anchors preserved)
+### Chapter Ten §3 heading renumber (anchors preserved)
 
 | Old visible label | New visible label | Preserved anchors |
 |-------------------|-------------------|-------------------|
@@ -50,7 +50,7 @@
 | #### 3.8 Negligence… | #### 3.8 (unchanged) | `#412-negligence-and-neglect-as-violation-nature` |
 | #### 3.16 Stackable harm… | #### 3.9 Stackable harm… | `#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement` |
 
-## Chapter Ten — section map
+## Chapter Eleven — section map
 
 | Band (former Part) | Triad / aim | Sections |
 |------|-------------|----------|
@@ -60,7 +60,7 @@
 | Participation and pathway integrity | Participation | §6 (+ §11.1–6.9) |
 | Cross-chapter discipline | Integrative | §5 |
 
-## Chapter Eleven — section map (section numbers unchanged; trace fixed)
+## Chapter Twelve — section map (section numbers unchanged; trace fixed)
 
 | Band (former Part) | Triad / aim | Sections |
 |------|-------------|----------|
@@ -72,10 +72,10 @@
 
 ## Files touched
 
-- `core_08_standing_assessment.md`
-- `core_09_standing_integration.md`
-- `core_10_a_misconduct_designation.md`
-- `core_11_forum.md`
+- `core_09_standing_assessment.md`
+- `core_10_standing_integration.md`
+- `core_11_a_misconduct_designation.md`
+- `core_12_forum.md`
 - `core_00_preamble.md`
 - `core_05_band_accountability.md` (Chapter One §8.10 trace)
 - `README.md`

@@ -12,7 +12,7 @@
 >
 > **پچھلا (اس زبان میں):** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 >
-> **اگلا (ابھی انگریزی میں):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+> **اگلا (ابھی انگریزی میں):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 > **پڑھنے کا قوس:** دفعات XXIII–XXVI (انصاف اور ہنگامی حالات، آئینی ارتقا، منتقلی اور بنیاد کی دوبارہ ترتیب)
 
 </details>
@@ -79,7 +79,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: اصول: باب یکم [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، [باب یکم §6.1.5 حقوق تصادم طریقہ](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)، [باب یکم §9.6 انحطاط مخالف عمل](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) اور [§15 مربوط اطلاق](core_01_c_stewardship_capacity_principles.md#15-integrated-application)۔
-- زیریں: [باب نہم §4](../../core_09_standing_integration.md#4-violation-correction-and-prevention) (*خلاف ورزی، اصلاح، اور روک تھام*)؛ [دفعہ XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints)؛ [دفعہ XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule)۔
+- زیریں: [باب نہم §4](../../core_10_standing_integration.md#4-violation-correction-and-prevention) (*خلاف ورزی، اصلاح، اور روک تھام*)؛ [دفعہ XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints)؛ [دفعہ XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule)۔
 - ساتھ پڑھیں: [ظلم](core_05_band_accountability.md#cruelty) (*ظلم مخالف تہہ کے تکلیف بجائے خود انجام معیار کا باب پنجم گھر*)۔
 
 </details>
@@ -329,7 +329,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: اصول: باب یکم [§6.1.5 حقوق تصادم فیصلہ جانچ](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)، [§7 مطلق بالا دستی کی ممانعت](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override) اور [§15 مربوط اطلاق](core_01_c_stewardship_capacity_principles.md#15-integrated-application)۔
-- ساتھ پڑھیں: [باب نہم §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*رضاکارانہ عوامی جوابدہی اظہار*)؛ [باب دہم §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*رضاکارانہ عوامی جوابدہی اظہار (آئین مخالف)*)۔
+- ساتھ پڑھیں: [باب نہم §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*رضاکارانہ عوامی جوابدہی اظہار*)؛ [باب دہم §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*رضاکارانہ عوامی جوابدہی اظہار (آئین مخالف)*)۔
 
 </details>
 
@@ -358,7 +358,7 @@
     - جاری خطرہ؛
     - مادی طاقت کا عدمِ توازن؛
     - متاثر فریقوں کی عدمِ رضا۔
-- **رضاکارانہ عوامی جوابدہی اظہار:** عام طور پر [باب نہم §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*رضاکارانہ عوامی جوابدہی اظہار*) چلاتا ہے، اور تصدیق شدہ آئین مخالف بدسلوکی کے لیے [باب دہم §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*رضاکارانہ عوامی جوابدہی اظہار (آئین مخالف)*)، اس دفعہ کے حقوق تصادم اور بحالی ہم آہنگی قواعد کے تابع۔
+- **رضاکارانہ عوامی جوابدہی اظہار:** عام طور پر [باب نہم §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*رضاکارانہ عوامی جوابدہی اظہار*) چلاتا ہے، اور تصدیق شدہ آئین مخالف بدسلوکی کے لیے [باب دہم §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*رضاکارانہ عوامی جوابدہی اظہار (آئین مخالف)*)، اس دفعہ کے حقوق تصادم اور بحالی ہم آہنگی قواعد کے تابع۔
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### دفعہ XXIV-C: بروقت حل اور تاخیر مخالف تہہ
 <details>
@@ -394,7 +394,7 @@
 - **تین مشترکہ تقاضے:** مادی حل نامزد راستے ایک ساتھ **بروقت**، **کارآمد**، اور **منصفانہ** ہونے چاہییں:
   - **بروقت** — [مادی داؤ](core_00_preamble.md#material-stake) اور نقصان کی فوری ضرورت پر پیمانہ محدود گھڑیاں؛
   - **کارآمد** — [آئینی کارآمدگی](core_05_band_continuity.md#constitutional-efficiency) باب یکم [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) کے معنی میں — خرچ شدہ شعوری وقت اور مشترکہ محنت فی حقیقی آئینی نتیجہ، خام تھروپٹ یا فہرست خالی کرنا نہیں؛
-  - **منصفانہ** — **دفعہ XXIII-A** (*انصاف کا مقصد اور دائرہ*)، **دفعہ XXIII-B** (*غیر معمولی پابندی، تلافی، اور بحالی جوابدہی کی پابندیاں*) اور **دفعہ XXIII-C** (*کم سے کم پابندی والا اور وقتی حد والا قاعدہ*) پوری طرح لاگو رہتے ہیں؛ تیزی جانچی ہوئی حقیقت چھوڑنے کا بہانہ نہیں ([باب ہشتم §3.1](../../core_08_standing_assessment.md#verified-inputs-for-standing))، غلط فریق سزا دینے، نقصان سے نہ ملنے والی مرمت دینے، یا چیلنج اور اپیل کاٹنے کا۔
+  - **منصفانہ** — **دفعہ XXIII-A** (*انصاف کا مقصد اور دائرہ*)، **دفعہ XXIII-B** (*غیر معمولی پابندی، تلافی، اور بحالی جوابدہی کی پابندیاں*) اور **دفعہ XXIII-C** (*کم سے کم پابندی والا اور وقتی حد والا قاعدہ*) پوری طرح لاگو رہتے ہیں؛ تیزی جانچی ہوئی حقیقت چھوڑنے کا بہانہ نہیں ([باب ہشتم §3.1](../../core_09_standing_assessment.md#verified-inputs-for-standing))، غلط فریق سزا دینے، نقصان سے نہ ملنے والی مرمت دینے، یا چیلنج اور اپیل کاٹنے کا۔
 - **فورم اور زنجیر نگرانی:** **باب ہشتم تا یازدهم** سے راستہ دیے تنازعات کے لیے درج ذیل [باب یازدهم §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) چلاتا ہے، اس دفعہ کی بروقت، کارآمد، اور منصفانہ تہہ کے تابع:
   - مادیت درجے کی درجہ بندی؛
   - زنجیر مرحلہ سنگ میل؛
@@ -431,7 +431,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: [باب یکم §10.3 جاری جواز](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification)؛ باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) اور [§7 مطلق بالا دستی کی ممانعت](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)۔
+- بالائی: اصول: [باب یکم §10.3 جاری جواز](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification)؛ باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) اور [§7 مطلق بالا دستی کی ممانعت](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)۔
 
 </details>
 
@@ -461,7 +461,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) اور [§7 مطلق بالا دستی کی ممانعت](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)۔
+- بالائی: اصول: باب یکم [§3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) اور [§7 مطلق بالا دستی کی ممانعت](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)۔
 
 </details>
 
@@ -517,7 +517,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ [باب نہم §5.4](../../core_09_standing_integration.md#54-special-violation-rules) (*غیر ہم آہنگ انعام ضبطی اور رپورٹنگ اس دفعہ منتقلی کے دوران محدود کرتی ہے*)؛ [باب ہفتم — نظام ہم آہنگی سرٹیفیکیشن](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)۔
+- بالائی: اصول: باب یکم [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ [باب نہم §5.4](../../core_10_standing_integration.md#54-special-violation-rules) (*غیر ہم آہنگ انعام ضبطی اور رپورٹنگ اس دفعہ منتقلی کے دوران محدود کرتی ہے*)؛ [باب ہفتم — نظام ہم آہنگی سرٹیفیکیشن](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)۔
 
 </details>
 
@@ -554,7 +554,7 @@
   
   فرسودگی، ریٹائرمنٹ، واپسی، منتقلی، یا تبدیلی اس بلٹ کو حالت بردار اجزاء محفوظ کر کے پورا کرتی ہے **ثبوت کا تحفظ** اور **دفعہ VII-D** (*خاندان، نگہداشت تعلقات، تولیدی خود مختاری، اور عدمِ علیحدگی*) عدمِ علیحدگی ضبط کے تحت۔ یہ [باب یکم §6.1 طے شدہ عبوری وضع](core_01_b_interaction_interpretation.md#default-interim-posture) ہے — ناقابلِ واپسی قدم جماؤ — اس ایک ناقابلِ واپسی قدم پر جو ورثہ چلن معمول سمجھتا ہے۔ ذخیرہ لاگت، لائسنس سہولت، یا مصنوعات چکر فریم اس کے خلاف **ضرورت** پوری نہیں کرتے۔ جہاں رکھنا خود دستاویزی حفاظت خطرہ بنائے، کم سے کم پابندی والا موافق اقدام آزاد کنٹرول میں مہر بند حراست ہے، تباہی نہیں۔
 <a id="incentive-alignment-transition-carve-out"></a>
-- **محرکات ہم آہنگی منتقلی استثنا:** **دفعہ XXVI** (*منتقلی حکمرانی، استمرار، اور بنیاد کی دوبارہ ترتیب*) کے تحت منظور شدہ منتقلی مرحلوں میں، [باب ہفتم — نظام ہم آہنگی سرٹیفیکیشن](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) کے ساتھ پڑھیں۔ [باب نہم §5.4 رپورٹنگ فرض اور اخراج](../../core_09_standing_integration.md#54-special-violation-rules) اور [§5.4 ضبطی اور رکھ](../../core_09_standing_integration.md#54-special-violation-rules) مشترکہ نظاموں سے بہنے والے انعامات پر **لاگو نہیں** صرف اس لیے کہ وہ نظام **ابھی ہم آہنگی سرٹیفائیڈ نہیں** یا **ابھی پوری طرح ہم آہنگ نہیں**، بشرطیکہ:
+- **محرکات ہم آہنگی منتقلی استثنا:** **دفعہ XXVI** (*منتقلی حکمرانی، استمرار، اور بنیاد کی دوبارہ ترتیب*) کے تحت منظور شدہ منتقلی مرحلوں میں، [باب ہفتم — نظام ہم آہنگی سرٹیفیکیشن](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) کے ساتھ پڑھیں۔ [باب نہم §5.4 رپورٹنگ فرض اور اخراج](../../core_10_standing_integration.md#54-special-violation-rules) اور [§5.4 ضبطی اور رکھ](../../core_10_standing_integration.md#54-special-violation-rules) مشترکہ نظاموں سے بہنے والے انعامات پر **لاگو نہیں** صرف اس لیے کہ وہ نظام **ابھی ہم آہنگی سرٹیفائیڈ نہیں** یا **ابھی پوری طرح ہم آہنگ نہیں**، بشرطیکہ:
   - چلن **دفعہ XXVI** (*منتقلی حکمرانی، استمرار، اور بنیاد کی دوبارہ ترتیب*) کے تحت **دستاویزی منتقلی منصوبے** اور شائع گیٹ معیار کے اندر رہے؛
   - نظام شائع تال پر [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) کی طرف بڑھے، بشمول **مشروط** یا **ملتوی تسلیم** جہاں باب ہفتم اجازت دے؛ اور
   - چلانے والے اور فائدہ اٹھانے والے عدمِ ہم آہنگی **جان بوجھ کر نہ چھپائیں**، منظور شدہ منتقلی دائرے سے باہر نہ چلیں، یا منتقلی حیثیت سے سرٹیفیکیشن، اصلاح، یا محفوظ رپورٹنگ نہ بچیں۔
@@ -600,7 +600,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: اصول: باب یکم [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) اور [§15 مربوط اطلاق](core_01_c_stewardship_capacity_principles.md#15-integrated-application)۔
-- ساتھ پڑھیں: [باب ہفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*نظام ہم آہنگی سرٹیفیکیشن*)؛ [باب ہشتم تا یازدهم](../../README.md#standing-pipeline-and-forums) (*کیفیت زنجیر اور فورم نگرانی*)۔
+- ساتھ پڑھیں: [باب ہفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*نظام ہم آہنگی سرٹیفیکیشن*)؛ [باب ہشتم تا یازدهم](../../README.md#standing-pipeline-and-forums) (*کیفیت زنجیر اور فورم نگرانی*)۔
 
 </details>
 
@@ -624,7 +624,7 @@
   پیشگی متبادل نامزد راستے، جزوی واپسی معیار، اور بنیاد کی دوبارہ ترتیب طریقے [**CI-14**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*عبوری حکمرانی اور ادارہ جاتی ارتقا*) چلاتا ہے۔
   - ناکام یا گرے عبوری حالات صرف برقرار رہنے سے نئی بنیاد نہیں بنتے۔
 - **مادی بنیاد ری سیٹ:** مادی بنیاد ری سیٹ منتقلی سنگ میل، خطرے کی مفروضات، ملکیت، اور چلن منصوبے اپ ڈیٹ کرتی ہے جب گیٹ ہاریں یا منتقلی رکے۔ اسے آئینی طور پر جائز اختیار اور دستاویزی عوامی وجوہات چاہییں۔ اسے **حقوق کی تہہ کی کم از کم** بچانی چاہیے اور اس آئین کو جائز طور پر بدلنے کے قواعد کا بدل نہیں بن سکتی۔
-- **تصدیق صحت پیش شرط:** نظرثانی شدہ منتقلی بنیاد پر ری سیٹ یا استمرار عدمِ اطاعت ہے جہاں [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) [باب ہفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) کے تحت یا [باب ہشتم تا یازدهم](../../README.md#standing-pipeline-and-forums) کے تحت کیفیت زنجیر ڈھانچے میں ناقابلِ اعتماد ہو — مثلاً جہاں سرٹیفیکیشن باقاعدہ ان نظاموں کو برکت دے جو حقوق کی تہہ مادی طور پر ہرائیں، کیفیت پیمائش باقاعدہ تصدیق شدہ مادی حقیقت سے ہٹے، یا چیلنج اور جائزہ نامزد راستے مادیت پیمانہ وقت میں وہ خلا درست نہ کر سکیں۔ ان شرائط میں تصدیق اور پیمائش مشینری کی مرمت آرائشی دوبارہ منصوبہ بندی پر فوقیت رکھتی ہے۔
+- **تصدیق صحت پیش شرط:** نظرثانی شدہ منتقلی بنیاد پر ری سیٹ یا استمرار عدمِ اطاعت ہے جہاں [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) [باب ہفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) کے تحت یا [باب ہشتم تا یازدهم](../../README.md#standing-pipeline-and-forums) کے تحت کیفیت زنجیر ڈھانچے میں ناقابلِ اعتماد ہو — مثلاً جہاں سرٹیفیکیشن باقاعدہ ان نظاموں کو برکت دے جو حقوق کی تہہ مادی طور پر ہرائیں، کیفیت پیمائش باقاعدہ تصدیق شدہ مادی حقیقت سے ہٹے، یا چیلنج اور جائزہ نامزد راستے مادیت پیمانہ وقت میں وہ خلا درست نہ کر سکیں۔ ان شرائط میں تصدیق اور پیمائش مشینری کی مرمت آرائشی دوبارہ منصوبہ بندی پر فوقیت رکھتی ہے۔
 - **عوامی سراغ:** مادی منتقلی فیصلے، تاخیر، الٹ، اور بنیاد ری سیٹ تعین دلیل اور خطرے کے مضمرات کے ساتھ آڈٹ کے قابل رہیں۔
   - دستاویزات تنگ، جائز رازداری پابندیوں کے تابع رہتی ہیں۔
   - انہیں کافی عوامی وضاحت بچانی چاہیے تاکہ جانچا جا سکے کہ تاخیر، واپسی، یا استمرار آئینی طور پر جائز ہے۔
@@ -635,7 +635,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، [باب یکم §6.1.5 حقوق تصادم طریقہ](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
+- بالائی: اصول: باب یکم [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، [باب یکم §6.1.5 حقوق تصادم طریقہ](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
 - ساتھ پڑھیں: **دفعہ III-A** (*بقا*)؛ **دفعہ XII** (*قابلِ اعتماد اور معتبر نظاموں کا حق*)؛ **دفعہ X-B** (*اجتماعی نقصان کی سرحد اور نفاذ انٹرفیس*)؛ **باب ہشتم**؛ **باب یکم**، بشمول §6 حقوق تصادم طریقہ؛ باب ششم کے آغاز کا **طے شدہ پابندی ڈھیر** (*قبضہ اور اصلاح انٹرفیس*)؛ [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) تا **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*عبوری حکمرانی اور ادارہ جاتی ارتقا*)۔
 
 </details>
@@ -653,7 +653,7 @@
 
 *سادہ الفاظ میں: غیر مطابق نظام اور جائیداد منتقلی کے دوران اصلاح ہو سکتے ہیں — مگر صرف تنگ، دستاویزی، جائزے کے قابل عمل سے جو بنیادی حقوق بچائیں، بہانہ روکیں، اور انتقام یا سیاسی نشانہ نہ بنیں۔ ادارے اسے کیسے چلاتے ہیں — کردار، محرکات، حراست، اپیلیں، فنڈز، اور محرک میکانکس — **CI-14.1** تا **CI-14.3** میں رہتے ہیں؛ یہ دفعہ وہ آئینی تہہ بیان کرتی ہے جو وہ طریقے تنگ نہیں کر سکتے۔*
 
-- **قبضے کی تہہ:** اگر تم کچھ جائز طور پر مالک ہو یا استعمال کرو، منتقلی اسے من مانی نہیں چھین سکتی۔ مگر ملکیت ڈھال نہیں جب اس اثاثے کو چلتے رہنے دینا واضح طور پر معلوم، بڑے پیمانے کی آئینی خلاف ورزی چلاتا رہے — [باب ہشتم](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) کے ریکارڈ پر خلاف ورزی دستاویز کرنے کے بعد۔ اس صورت میں منتقلی نقصان روکنے کے لیے اب بھی عمل کر سکتی ہے، مگر صرف اس دفعہ اور **CI-14.1** تا **CI-14.3** کی ضمانتوں سے۔
+- **قبضے کی تہہ:** اگر تم کچھ جائز طور پر مالک ہو یا استعمال کرو، منتقلی اسے من مانی نہیں چھین سکتی۔ مگر ملکیت ڈھال نہیں جب اس اثاثے کو چلتے رہنے دینا واضح طور پر معلوم، بڑے پیمانے کی آئینی خلاف ورزی چلاتا رہے — [باب ہشتم](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) کے ریکارڈ پر خلاف ورزی دستاویز کرنے کے بعد۔ اس صورت میں منتقلی نقصان روکنے کے لیے اب بھی عمل کر سکتی ہے، مگر صرف اس دفعہ اور **CI-14.1** تا **CI-14.3** کی ضمانتوں سے۔
 - **منتقلی دائرہ اصلاح:** **دفعہ XXVI-A** (*مرحلہ وار اختیار اور حقوق کی تہہ کا استمرار*) کے تحت **دستاویزی منتقلی منصوبہ** صرف منتقلی کے دوران **مادی طور پر غیر مطابق** نظام یا جائیداد کی تیز اصلاح اجازت دے سکتا ہے۔ عملی دائرہ، جائز اقدامات، اور ادارہ جاتی طریقہ [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) تا **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*عبوری حکمرانی اور ادارہ جاتی ارتقا*) چلاتا ہے، جہاں لاگو ہو **CJS-3.6** (*جائیداد حراست اور محرک علیحدگی کنٹرول زنجیر*) اور **دفعہ XII-E** (*اعلیٰ خود مختاری نظام اور اوزار واسط عمل دیانت*) کے ساتھ پڑھا۔
 - **مطلوبہ ضمانتیں:** کوئی منتقلی دائرہ محرومی یا محرک پروگرام پورا کرے:
   - [**کم سے کم پابندی والی، وقتی حد والی، اور جائزے کے قابل پابندی کا اصول**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)، قابلِ نمایش **ضرورت** اور **تناسب** کے ساتھ؛
@@ -674,6 +674,6 @@
 
 **پچھلی فائل (اس زبان میں):** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 
-**اگلی فائل (ابھی انگریزی میں):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+**اگلی فائل (ابھی انگریزی میں):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 
 **پابند اصل:** [core_06_rights_part_d.md](../../core_06_rights_part_d.md)

@@ -6,7 +6,7 @@
 
 > Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nó không thêm, bớt hay thu hẹp nghĩa vụ ràng buộc ở tệp này hay ở các chương khác.
 >
-> Tệp này là một **thử nghiệm ngôn ngữ đọc** của [Chương Chín tiếng Anh](../../core_09_standing_integration.md). **Không** phải phần ràng buộc của Hiến pháp Hữu tri. **Không** phải một hiến pháp thứ hai. **Không** phải một ấn bản phát hành. Nó được **ghim** vào `SC-Corpus-2026.08.09`. Nếu bản dịch này và nguyên bản tiếng Anh có vẻ lệch nhau, tệp đánh số [`core_09_standing_integration.md`](../../core_09_standing_integration.md) thắng. Thứ tự đọc và siêu dữ liệu ấn bản được giữ ở [README.md](../../README.md). Phương pháp và bảng thuật ngữ: [translations/vi/README.md](README.md).
+> Tệp này là một **thử nghiệm ngôn ngữ đọc** của [Chương Chín tiếng Anh](../../core_10_standing_integration.md). **Không** phải phần ràng buộc của Hiến pháp Hữu tri. **Không** phải một hiến pháp thứ hai. **Không** phải một ấn bản phát hành. Nó được **ghim** vào `SC-Corpus-2026.08.09`. Nếu bản dịch này và nguyên bản tiếng Anh có vẻ lệch nhau, tệp đánh số [`core_09_standing_integration.md`](../../core_10_standing_integration.md) thắng. Thứ tự đọc và siêu dữ liệu ấn bản được giữ ở [README.md](../../README.md). Phương pháp và bảng thuật ngữ: [translations/vi/README.md](README.md).
 >
 > Nó chứa **Chương Chín**, tầng tích hợp và hệ quả của chuỗi quỹ đạo. [Chương Tám](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) độc quyền nắm sự kiện đã xác minh, hồ sơ quỹ đạo, đo lường quỹ đạo, và mọi ô Trục Đóng góp và Trục Vi phạm. Chương này nhận những đầu vào đó như cố định và trả lời Câu hỏi 3: điều gì xảy ra vì thế. [Chương Mười](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) chỉ quyết liệu một vi phạm đủ điều kiện `s = 7`, `s = 8`, hoặc `s = 9` nhận chỉ định hành vi sai phản hiến pháp khớp.
 
@@ -207,7 +207,7 @@ Một **khóa quỹ đạo** là biện pháp phòng và giảm rủi ro. Nó ch
 
 **Phân biệt đường dẫn — bỏ phiếu quản trị so với tham gia của bên bị ảnh hưởng:**
 
-- **bỏ phiếu quản trị** phủ tham gia bỏ phiếu quản trị và lựa chọn tập thể ràng buộc bằng cơ chế chính danh tương đương dưới [Chương Mười Hai §4.1](../../core_12_governance.md#41-entitlement-and-eligibility), kể cả **Lựa chọn Hiến pháp Nền tảng**. Nó **không** gồm tiếng nói trọng-lợi-hại bên trong một hệ thống, thể chế, hoặc miền quyết đã được ủy.
+- **bỏ phiếu quản trị** phủ tham gia bỏ phiếu quản trị và lựa chọn tập thể ràng buộc bằng cơ chế chính danh tương đương dưới [Chương Mười Hai §4.1](../../core_13_governance.md#41-entitlement-and-eligibility), kể cả **Lựa chọn Hiến pháp Nền tảng**. Nó **không** gồm tiếng nói trọng-lợi-hại bên trong một hệ thống, thể chế, hoặc miền quyết đã được ủy.
 - **tham gia của bên bị ảnh hưởng** phủ ảnh hưởng trọng-lợi-hại, lựa chọn ràng buộc của bên bị ảnh hưởng, và các đường Tham gia hệ thống của bên bị ảnh hưởng tương đương dưới [Trọng số bên bị ảnh hưởng](core_05_band_participation.md#stakeholder-weight) và [Lựa chọn ràng buộc của bên bị ảnh hưởng](core_05_band_participation.md#binding-stakeholder-choice-cluster). Nó **không** xóa chính trạng thái [Bên bị ảnh hưởng](core_05_band_participation.md#stakeholder), và **không** thế một khóa **bỏ phiếu quản trị**.
 
 Nơi tham nhũng đường dẫn bên bị ảnh hưởng đã xác minh, chiếm, lạm dụng lợi hại giả, hoặc chơi trọng-tham-gia cưỡng là cò, áp [Khóa quỹ đạo tham gia của bên bị ảnh hưởng](#55-special-locks) dưới [§5.5](#55-special-locks).
@@ -474,7 +474,7 @@ Những khóa này bắt buộc khi cò đã xác minh của chúng được th�
   - các đường Tham gia hệ thống của bên bị ảnh hưởng tương đương trong hệ thống, thể chế, hoặc miền quyết bị ảnh hưởng dưới [Trọng số bên bị ảnh hưởng](core_05_band_participation.md#stakeholder-weight) và [Lựa chọn ràng buộc của bên bị ảnh hưởng](core_05_band_participation.md#binding-stakeholder-choice-cluster).
 - **Tự nó không hạn:**
   - trạng thái [Bên bị ảnh hưởng](core_05_band_participation.md#stakeholder) hay ghi nhận rằng hữu tri bị ảnh hưởng có trọng;
-  - đường **bỏ phiếu quản trị**, **Lựa chọn Hiến pháp Nền tảng**, hoặc lựa chọn tập thể ràng buộc bằng cơ chế chính danh tương đương dưới [Chương Mười Hai §4.1](../../core_12_governance.md#41-entitlement-and-eligibility);
+  - đường **bỏ phiếu quản trị**, **Lựa chọn Hiến pháp Nền tảng**, hoặc lựa chọn tập thể ràng buộc bằng cơ chế chính danh tương đương dưới [Chương Mười Hai §4.1](../../core_13_governance.md#41-entitlement-and-eligibility);
   - tối thiểu Sàn Quyền, lối vào then chốt cho sinh tồn, hoặc đường kiểm toán, tranh biện, và biện pháp khắc phục hiến pháp đòi.
 - **Rủi ro:** chiếm hoặc méo tiếng nói bên bị ảnh hưởng tiếp, thống trị lợi hại giả, trọng tham gia bị cưỡng, và tái diễn lạm dụng đường dẫn bên bị ảnh hưởng trong cùng hoặc miền liên quan.
 - **Đối tượng hoặc lợi ích được bảo vệ:** bên bị ảnh hưởng, tính toàn vẹn của lựa chọn ràng buộc của bên bị ảnh hưởng, và không-chiếm của hệ thống, thể chế, hoặc miền quyết liên quan.
@@ -806,10 +806,10 @@ Những cái sau vi phạm quy tắc này nơi chúng thấy trước làm rỗn
 - phụ thuộc một văn phòng mong manh đơn; hay
 - thất mốc mãn.
 
-Thiếu bổ nhiệm ban diễn đàn **Toàn vẹn**, **Hiến pháp**, hoặc **Môi trường**, hoặc ban **Miền diễn đàn kỹ thuật** nghe phân xử trạng thái hữu tri, là thất bền dưới tiểu mục này, đọc cùng [Chương Mười Hai §1.2](../../core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums).
+Thiếu bổ nhiệm ban diễn đàn **Toàn vẹn**, **Hiến pháp**, hoặc **Môi trường**, hoặc ban **Miền diễn đàn kỹ thuật** nghe phân xử trạng thái hữu tri, là thất bền dưới tiểu mục này, đọc cùng [Chương Mười Hai §1.2](../../core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums).
 
 <a id="92-remedy-parity-funding-floor"></a>
-**Sàn tài trợ ngang hàng biện pháp khắc phục.** Với mỗi lớp hệ thống một bên tiếp nhận quản, năng lực được tài trợ cho biện pháp khắc phục, khôi phục, và tái đánh giá phải không ít hơn năng lực được tài trợ cho quản khóa, cưỡng chế, và áp bảo đảm trên cùng lớp. Tỷ lệ phải được công bố cùng số cò [§4.4](#44-remedy-parity-and-lock-preconditions). Một bên tiếp nhận lệch ngang hàng phải ghi lý do dưới [Chương Mười Hai §3.1](../../core_12_governance.md#31-stewardship-direction) và cho thấy, trên hồ sơ, rằng bắt biện pháp khắc phục và rà soát khôi phục vẫn đang thỏa đồng hồ bậc của chúng; ngang hàng ngân sách không bào chữa một cò [§4.4](#44-remedy-parity-and-lock-preconditions) đã kích, và một cò đã thỏa không bào chữa lệch ngang hàng lặng. Một bên tiếp nhận không thể tài trợ biện pháp khắc phục cho một lớp hệ thống không được dựng máy khóa cho lớp đó.
+**Sàn tài trợ ngang hàng biện pháp khắc phục.** Với mỗi lớp hệ thống một bên tiếp nhận quản, năng lực được tài trợ cho biện pháp khắc phục, khôi phục, và tái đánh giá phải không ít hơn năng lực được tài trợ cho quản khóa, cưỡng chế, và áp bảo đảm trên cùng lớp. Tỷ lệ phải được công bố cùng số cò [§4.4](#44-remedy-parity-and-lock-preconditions). Một bên tiếp nhận lệch ngang hàng phải ghi lý do dưới [Chương Mười Hai §3.1](../../core_13_governance.md#31-stewardship-direction) và cho thấy, trên hồ sơ, rằng bắt biện pháp khắc phục và rà soát khôi phục vẫn đang thỏa đồng hồ bậc của chúng; ngang hàng ngân sách không bào chữa một cò [§4.4](#44-remedy-parity-and-lock-preconditions) đã kích, và một cò đã thỏa không bào chữa lệch ngang hàng lặng. Một bên tiếp nhận không thể tài trợ biện pháp khắc phục cho một lớp hệ thống không được dựng máy khóa cho lớp đó.
 
 <a id="93-cross-jurisdiction-continuity"></a>
 #### 9.3 Liên tục xuyên thẩm quyền
@@ -837,7 +837,7 @@ Quyền và hệ quả quỹ đạo chỉ thật khi hữu tri có thể viện 
 
 - Thượng nguồn: [§1](#1-immutable-chapter-eight-inputs) đến [§9](#9-enforcement-realism) (*đầu vào Chương Tám không đổi đến thực tế cưỡng chế và hệ thống biện pháp khắc phục*).
 - Tiểu mục: [§10.1](#101-informal-ecological-stewardship-competency-clearance); [§10.2](#102-ecological-negligence-with-concealment); [§10.3](#103-forum-integrity-deception-or-recusal-failure); [§10.4](#104-recurrence-after-completed-restitution); [§10.5](#105-champion-repair-while-a-lock-remains-active); [§10.6](#106-institutional-vehicle-and-successor-evasion); [§10.7](#107-misaligned-reward-retention); [§10.8](#108-anti-constitutional-misconduct-allegation); [§10.9](#109-rights-floor-waiver-or-unconstitutional-contract-devices); [§10.10](#1010-contest-pathway-or-info-sphere-flooding); [§10.11](#1011-infrastructure-denial-or-dependency-cutoff); [§10.12](#1012-stakeholder-participation-corruption-or-false-stake-abuse); [§10.13](#1013-obstruction-of-accountability).
-- Đọc cùng: [Chương Tám §4.6](core_08_standing_assessment.md#46-question-2-measurement-illustrations) (*minh họa đo lường Câu hỏi 2*); [Vignette ứng dụng Chương Tám–Mười Một](../../core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes) (*đi bộ miền chuỗi đầy*); [Chương Mười §5](../../core_10_b_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing) (*định tuyến mẫu phía chỉ định — sinh đôi hai tầng; không phải mục lục loại khóa*).
+- Đọc cùng: [Chương Tám §4.6](core_08_standing_assessment.md#46-question-2-measurement-illustrations) (*minh họa đo lường Câu hỏi 2*); [Vignette ứng dụng Chương Tám–Mười Một](../../core_09-12_application_vignettes.md#chapters-eight-eleven-application-vignettes) (*đi bộ miền chuỗi đầy*); [Chương Mười §5](../../core_11_b_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing) (*định tuyến mẫu phía chỉ định — sinh đôi hai tầng; không phải mục lục loại khóa*).
 
 </details>
 
@@ -939,7 +939,7 @@ Các tiểu mục dưới cho thấy tình huống Câu hỏi 3 thường dùng 
   - [§4.2](#42-general-standing-locks) (*khóa quỹ đạo chung phạm vi các đường tin cậy, vai trò, tín, hoặc ảnh hưởng bị lạm dụng*);
   - [§5.1](#51-definition-and-attachment) (*trường gắn*); và
   - [§5.4](#54-special-violation-rules) (*Bổn phận chống lại* nơi công cụ đòi tuân trái pháp hoặc phản hiến pháp).
-- **Không thương lượng:** Tín hiệu này không tạo khóa đặc biệt dưới [§5.5](#55-special-locks). Vô hiệu điều khoản và tiêu chí chỉ định ở lại [Chương Mười §5.2](../../core_10_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms). Chương Chín gắn khóa đường dẫn được đặt tên thường từ hồ sơ đã xác minh; chỉ một chỉ định cuối kích Khóa Tin cậy Phản Hiến pháp dưới [§10.8](#108-anti-constitutional-misconduct-allegation).
+- **Không thương lượng:** Tín hiệu này không tạo khóa đặc biệt dưới [§5.5](#55-special-locks). Vô hiệu điều khoản và tiêu chí chỉ định ở lại [Chương Mười §5.2](../../core_11_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms). Chương Chín gắn khóa đường dẫn được đặt tên thường từ hồ sơ đã xác minh; chỉ một chỉ định cuối kích Khóa Tin cậy Phản Hiến pháp dưới [§10.8](#108-anti-constitutional-misconduct-allegation).
 
 <a id="1010-contest-pathway-or-info-sphere-flooding"></a>
 #### 10.10 Làm ngập đường tranh biện hoặc không gian thông tin
@@ -950,7 +950,7 @@ Các tiểu mục dưới cho thấy tình huống Câu hỏi 3 thường dùng 
   - [§4.2](#42-general-standing-locks) (*khóa đường dẫn được đặt tên bảo vệ trên đường định tuyến, nộp, hạng, lối vào, hoặc ảnh hưởng bị lạm dụng*);
   - [§5.1](#51-definition-and-attachment) và [§5.2](#52-proportionality-and-calibration) (*phạm vi cần, tương xứng, rà soát được*); và
   - [Chương Mười Một](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*phân loại tiếp nhận vận hành và chống chơi — giám sát mà không bịa hiệu ứng quỹ đạo*).
-- **Không thương lượng:** Tín hiệu này không tạo Khóa Làm ngập hay loại [§5.5](#55-special-locks) khác. Định tuyến tiêu chí phía chỉ định ở lại [Chương Mười §5.3](../../core_10_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) và [§5.4](../../core_10_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding). Khóa bảo vệ thường tiến từ hồ sơ cố định dù chỉ định sau có gắn hay không.
+- **Không thương lượng:** Tín hiệu này không tạo Khóa Làm ngập hay loại [§5.5](#55-special-locks) khác. Định tuyến tiêu chí phía chỉ định ở lại [Chương Mười §5.3](../../core_11_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) và [§5.4](../../core_11_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding). Khóa bảo vệ thường tiến từ hồ sơ cố định dù chỉ định sau có gắn hay không.
 
 <a id="1011-infrastructure-denial-or-dependency-cutoff"></a>
 #### 10.11 Từ chối hạ tầng hoặc cắt phụ thuộc
@@ -962,7 +962,7 @@ Các tiểu mục dưới cho thấy tình huống Câu hỏi 3 thường dùng 
   - [§5.1](#51-definition-and-attachment) (*kể cả cô lập khỏi mạng hoặc điểm kiểm tạo lại rủi ro cắt*);
   - [§5.4](#54-special-violation-rules) (*bảo đảm cưỡng hoặc hạn chế tự do chỉ nơi nguy đã xác minh nâng*); và
   - [§9](#9-enforcement-realism) (*bền hệ thống biện pháp khắc phục và chống lẩn tránh*).
-- **Không thương lượng:** Tín hiệu này không tạo Khóa Hạ tầng dưới [§5.5](#55-special-locks). Định tuyến tiêu chí phía chỉ định ở lại [Chương Mười §5.9](../../core_10_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct). Giới hạn không-hạn toàn cục dưới [§5.1](#51-definition-and-attachment) vẫn bảo vệ lời nói, kiến nghị, tham gia bên bị ảnh hưởng, Sàn Quyền, và lối vào then chốt cho sinh tồn mà khóa không được dập.
+- **Không thương lượng:** Tín hiệu này không tạo Khóa Hạ tầng dưới [§5.5](#55-special-locks). Định tuyến tiêu chí phía chỉ định ở lại [Chương Mười §5.9](../../core_11_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct). Giới hạn không-hạn toàn cục dưới [§5.1](#51-definition-and-attachment) vẫn bảo vệ lời nói, kiến nghị, tham gia bên bị ảnh hưởng, Sàn Quyền, và lối vào then chốt cho sinh tồn mà khóa không được dập.
 
 <a id="1012-stakeholder-participation-corruption-or-false-stake-abuse"></a>
 #### 10.12 Tham nhũng tham gia của bên bị ảnh hưởng hoặc lạm dụng lợi hại giả
@@ -984,7 +984,7 @@ Các tiểu mục dưới cho thấy tình huống Câu hỏi 3 thường dùng 
   - [§5.4](#54-special-violation-rules) (*định hình che giấu, lẩn tránh, lừa, và gắn bổn phận*);
   - [§5.5](#55-special-locks) (*Khóa quỹ đạo dịch vụ diễn đàn chỉ khi cò toàn vẹn diễn đàn / rút-lui-đòi được thỏa dưới [§10.3](#103-forum-integrity-deception-or-recusal-failure)*); và
   - [§10.8](#108-anti-constitutional-misconduct-allegation) (*cổng Chương Mười khi `s` = 7–9 và hành vi sai phản hiến pháp bị cáo có trọng*).
-- **Không thương lượng:** Tín hiệu này không tạo Khóa Cản hay loại [§5.5](#55-special-locks) khác. Tính chất cản không bao giờ dịch ô Trục Vi phạm. Khóa đường dẫn được đặt tên thường tiến từ hồ sơ cố định ở mọi ô. Định tuyến tiêu chí phía chỉ định ở lại [Chương Mười §5.11](../../core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction); chỉ một chỉ định cuối kích Khóa Tin cậy Phản Hiến pháp dưới [§10.8](#108-anti-constitutional-misconduct-allegation). Phân biệt hành vi cản đã xác minh với [Chiếm đường dẫn giải quyết](core_05_band_accountability.md#capture-of-resolution-pathways) như điều kiện cấu trúc.
+- **Không thương lượng:** Tín hiệu này không tạo Khóa Cản hay loại [§5.5](#55-special-locks) khác. Tính chất cản không bao giờ dịch ô Trục Vi phạm. Khóa đường dẫn được đặt tên thường tiến từ hồ sơ cố định ở mọi ô. Định tuyến tiêu chí phía chỉ định ở lại [Chương Mười §5.11](../../core_11_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction); chỉ một chỉ định cuối kích Khóa Tin cậy Phản Hiến pháp dưới [§10.8](#108-anti-constitutional-misconduct-allegation). Phân biệt hành vi cản đã xác minh với [Chiếm đường dẫn giải quyết](core_05_band_accountability.md#capture-of-resolution-pathways) như điều kiện cấu trúc.
 
 <a id="1014-verified-cruelty-character"></a>
 #### 10.14 Tính chất tàn nhẫn đã xác minh
@@ -1004,4 +1004,4 @@ Các tiểu mục dưới cho thấy tình huống Câu hỏi 3 thường dùng 
 
 **Tệp tiếp theo (ngôn ngữ này):** [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)
 
-**Nguyên bản ràng buộc:** [core_09_standing_integration.md](../../core_09_standing_integration.md)
+**Nguyên bản ràng buộc:** [core_09_standing_integration.md](../../core_10_standing_integration.md)

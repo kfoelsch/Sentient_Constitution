@@ -7,7 +7,7 @@
 
 > نیچے کا مواد **صرف قارئین کی رہنمائی** ہے۔ یہ اس فائل یا دیگر ابواب میں پابند فرائض نہیں بڑھاتا، گھٹاتا یا تنگ کرتا۔
 >
-> یہ فائل [انگریزی باب ہفتم، حصہ ب](../../core_07_b_system_alignment_certification_record_process.md) کا **قارئین کی زبان کا پائلٹ** ہے۔ یہ شعوری آئین کا **پابند حصہ نہیں**۔ یہ **دوسرا آئین نہیں**۔ یہ **ارسال ایڈیشن نہیں**۔ یہ `SC-Corpus-2026.08.09` پر **پن** ہے۔ اگر یہ ترجمہ اور انگریزی اصل میں اختلاف نظر آئے تو نمبر والی [`core_07_b_system_alignment_certification_record_process.md`](../../core_07_b_system_alignment_certification_record_process.md) جیتتی ہے۔ پڑھنے کا ترتیب اور ایڈیشن میٹاڈیٹا [README.md](../../README.md) میں رہتے ہیں۔ طریقہ اور لغت: [translations/ur/README.md](README.md)۔
+> یہ فائل [انگریزی باب ہفتم، حصہ ب](../../core_08_b_system_alignment_certification_record_process.md) کا **قارئین کی زبان کا پائلٹ** ہے۔ یہ شعوری آئین کا **پابند حصہ نہیں**۔ یہ **دوسرا آئین نہیں**۔ یہ **ارسال ایڈیشن نہیں**۔ یہ `SC-Corpus-2026.08.09` پر **پن** ہے۔ اگر یہ ترجمہ اور انگریزی اصل میں اختلاف نظر آئے تو نمبر والی [`core_07_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md) جیتتی ہے۔ پڑھنے کا ترتیب اور ایڈیشن میٹاڈیٹا [README.md](../../README.md) میں رہتے ہیں۔ طریقہ اور لغت: [translations/ur/README.md](README.md)۔
 >
 > اس میں **باب ہفتم، حصہ ب** ہے — سرٹیفیکیشن **ریکارڈ** کے مندرجات، شفافیت اور چیلنج پذیری، فورم جزو کے کردار، نگرانی کی ترتیب، کیفیت کا پل، اور دوبارہ کھولنا (**§11–§16**، حصہ الف §1–§10 سے جاری)۔ **حصہ الف** — جائزے کے تقاضے — [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md) میں ہے۔
 >
@@ -30,7 +30,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: [حصہ الف §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*سرٹیفیکیشن کا مقصد اور جائزے کا نقشہ*)؛ [حصہ الف §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) تا [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*ریکارڈ کے لیے جائزہ نتائج*)؛ [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad)؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)۔
-- زیریں: [§11](#11-certification-record) تا [§16](#16-reopening-drift-and-non-evasion)؛ [باب ہشتم](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)؛ [باب یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)۔
+- زیریں: [§11](#11-certification-record) تا [§16](#16-reopening-drift-and-non-evasion)؛ [باب ہشتم](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)؛ [باب یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)۔
 - ساتھ پڑھیں: [corpus_forum.md](../../corpus_forum.md)، **CF-5** اور **CF-7**۔
 
 </details>
@@ -392,7 +392,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: [§11](#11-certification-record) تا [§13](#13-forum-supervision-and-component-roles) (*سرٹیفیکیشن ریکارڈ اور فورم نگرانی*)؛ [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad)؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)؛ [کیفیت کے لیے تصدیق شدہ ان پٹ](core_05_band_accountability.md#verified-inputs-for-standing)۔
-- زیریں: [باب ہشتم](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*کیفیت ریکارڈ اور تصدیق شدہ ان پٹ دروازہ*)؛ [باب نہم](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*کیفیت اثرات اور انضمام*)۔
+- زیریں: [باب ہشتم](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*کیفیت ریکارڈ اور تصدیق شدہ ان پٹ دروازہ*)؛ [باب نہم](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*کیفیت اثرات اور انضمام*)۔
 - ساتھ پڑھیں: **دفعہ III-A** (*بقا کی ضروری رسائی جہاں سرٹیفیکیشن ترسیل گیٹ کرے*)۔
 
 </details>
@@ -450,8 +450,8 @@
 
 - سرٹیفیکیشن ریکارڈ کیفیت اثرات **لاگو نہیں** کرتا؛
 - یہ باب صرف **نظام ہم آہنگی سرٹیفیکیشن اور متعلقہ ریکارڈ** کا مالک ہے — دیکھیں [تمہید — مثبت مالک رجسٹر](core_00_preamble.md#4-principles-definitions-and-rights)، [اختیار کا ڈھیر اور داخلی مراتب](core_05_band_integrative.md#authority-stack) کے ساتھ پڑھا؛
-- [باب ہشتم](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) کیفیت ریکارڈ اور محور-خالص پیمائش کا مالک ہے؛
-- [باب نہم](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) کیفیت انضمام اور اثرات کا مالک ہے؛
+- [باب ہشتم](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) کیفیت ریکارڈ اور محور-خالص پیمائش کا مالک ہے؛
+- [باب نہم](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) کیفیت انضمام اور اثرات کا مالک ہے؛
 - یہ باب تصدیق شدہ ان پٹ صرف اوپر دروازے سے دے سکتا ہے؛
 - اسے باب ہشتم یا باب نہم کے مالک فرائض نگلنے، دوبارہ بیان، یا منتقل نہیں کرنے چاہئیں۔
 
@@ -466,7 +466,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*غلط درجہ بندی اور عدمِ ہم آہنگی*)؛ [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*خطرہ جائزہ اور خطرہ انکشاف نقائص*)؛ [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) (*نقش غلط بیانی اور عدمِ ہم آہنگی*)؛ [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) (*وسیلہ بہاؤ غلط بیانی، نکاس عدمِ ہم آہنگی، اور سہارا کی کمی*)؛ [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) (*امتیاز نمونے کی عدمِ ہم آہنگی اور متبادل فرار*)؛ [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) (*رسائی پذیری عدمِ ہم آہنگی اور صرف کاغذی سہولت*)؛ [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) (*جائزہ دھند عدمِ ہم آہنگی، سند گیٹ کیپنگ، اور مسلط فرسودگی عدمِ ہم آہنگی*)؛ [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*جھوٹا اعتماد عدمِ ہم آہنگی، بگڑا محرک عدمِ ہم آہنگی، اور بحالی دیانت عدمِ ہم آہنگی*)؛ [§12](#12-transparency-auditability-and-contestability) (*چیلنج پذیری*)؛ [§14](#14-supervisory-sequence-and-contestability-chain) (*معتبر چیلنج اور دوبارہ کھولنا*)؛ [باب سوم §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) اور [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*تعریف سالمیت اور فرار*)؛ [باب سوم §2.1 عام فرار نمونے](core_03_definition_integrity.md#21-common-evasion-patterns) (*دائرہ-اور-سرحد فرار*)؛ [منشور](core_05_band_continuity.md#charter) (*منشور–رویہ عدمِ میل اور تاخیر شدہ جائزہ*)۔
-- زیریں: [باب یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*دوبارہ کھلی فورم نگرانی*)؛ [باب ہشتم](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*تصدیق شدہ ان پٹ دروازہ جہاں حقائق منفی دریافت سہارا دیں*)۔
+- زیریں: [باب یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*دوبارہ کھلی فورم نگرانی*)؛ [باب ہشتم](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*تصدیق شدہ ان پٹ دروازہ جہاں حقائق منفی دریافت سہارا دیں*)۔
 - ساتھ پڑھیں: [corpus_systems.md](../../corpus_systems.md) (*شامل نظام عمل درآمد فرائض*)، بشمول وقفہ وار ڈیٹا-قسم دوبارہ جائزے کے لیے **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*دوبارہ درجہ بندی اور زندگی سائیکل حکمرانی*)، اور نظام کلاس دوبارہ جائزہ محرکات اور SAC تصدیق کے لیے **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*دوبارہ درجہ بندی کا تقاضا*)۔
 
 </details>
@@ -515,4 +515,4 @@
 
 **اگلی فائل (اس زبان میں):** [core_08_standing_assessment.md](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)
 
-**پابند اصل:** [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md)
+**پابند اصل:** [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md)

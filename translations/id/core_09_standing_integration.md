@@ -6,14 +6,14 @@
 
 > Isi berikut **hanya panduan pembaca**. Tidak menambah, mengurangi, atau mempersempit kewajiban yang mengikat di berkas ini atau di bab lain.
 >
-> Berkas ini adalah **uji coba bahasa pembaca** atas [Bab Sembilan bahasa Inggris](../../core_09_standing_integration.md). **Bukan** bagian mengikat Konstitusi Makhluk Sadar. **Bukan** konstitusi kedua. **Bukan** edisi kirim. **Disematkan** pada `SC-Corpus-2026.08.09`. Jika terjemahan ini dan sumber bahasa Inggris tampak berselisih, berkas bernomor [`core_09_standing_integration.md`](../../core_09_standing_integration.md) yang menang. Urutan baca dan metadata edisi tetap di [README.md](../../README.md). Metode dan glosarium: [translations/id/README.md](README.md).
+> Berkas ini adalah **uji coba bahasa pembaca** atas [Bab Sembilan bahasa Inggris](../../core_10_standing_integration.md). **Bukan** bagian mengikat Konstitusi Makhluk Sadar. **Bukan** konstitusi kedua. **Bukan** edisi kirim. **Disematkan** pada `SC-Corpus-2026.08.09`. Jika terjemahan ini dan sumber bahasa Inggris tampak berselisih, berkas bernomor [`core_09_standing_integration.md`](../../core_10_standing_integration.md) yang menang. Urutan baca dan metadata edisi tetap di [README.md](../../README.md). Metode dan glosarium: [translations/id/README.md](README.md).
 >
-> Berisi **Bab Sembilan**, lapisan integrasi dan akibat rantai jejak. [Bab Delapan](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) secara eksklusif memiliki fakta terverifikasi, catatan jejak, pengukuran jejak, dan setiap slot Sumbu Kontribusi serta Sumbu Pelanggaran. Bab ini menerima masukan itu sebagai tetap dan menjawab Pertanyaan 3: apa yang menyusul. [Bab Sepuluh](../../core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) memutuskan hanya apakah pelanggaran yang memenuhi syarat `s = 7`, `s = 8`, atau `s = 9` menerima penunjukan salah-laku-anti-konstitusi yang berpasangan.
+> Berisi **Bab Sembilan**, lapisan integrasi dan akibat rantai jejak. [Bab Delapan](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) secara eksklusif memiliki fakta terverifikasi, catatan jejak, pengukuran jejak, dan setiap slot Sumbu Kontribusi serta Sumbu Pelanggaran. Bab ini menerima masukan itu sebagai tetap dan menjawab Pertanyaan 3: apa yang menyusul. [Bab Sepuluh](../../core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) memutuskan hanya apakah pelanggaran yang memenuhi syarat `s = 7`, `s = 8`, atau `s = 9` menerima penunjukan salah-laku-anti-konstitusi yang berpasangan.
 
 >
 > **Sebelumnya (lokal ini):** [core_08_standing_assessment.md](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)
 >
-> **Berikutnya (masih bahasa Inggris):** [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)
+> **Berikutnya (masih bahasa Inggris):** [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct)
 > **Alur baca:** §1 masukan Bab Delapan → §2 catatan integrasi → §3 deskriptor → §4 pelanggaran/koreksi/pencegahan → §5 rancangan kunci → §6 akibat kontribusi → §7 akibat akhir → §8 restorasi → §9 realisme penegakan → §10 penerapan pola
 </details>
 
@@ -33,7 +33,7 @@
 
 - Hulu: [Bab Delapan](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*Pertanyaan 1 dan 2; catatan terverifikasi dan pengukuran jejak*).
 - Berkas ini: integrasi Pertanyaan 3, pemulihan, koreksi, kunci, ungkapan pertanggungjawaban publik sukarela, palang kompetensi dan izin kompetensi, akibat jejak akhir, restorasi, penilaian ulang, realisme penegakan, sistem pemulihan, dan penerapan pola / perutean Pertanyaan 3.
-- Hilir: [Bab Sepuluh](../../core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*penunjukan saja*); [Bab Sebelas](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*supervisi forum*); [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*implementasi sistem pemulihan*).
+- Hilir: [Bab Sepuluh](../../core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) (*penunjukan saja*); [Bab Sebelas](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*supervisi forum*); [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*implementasi sistem pemulihan*).
 
 </details>
 
@@ -129,7 +129,7 @@ Urutan pemrosesan berikut berlaku pada keputusan otomatis maupun manual:
 5. nyatakan satu akibat jejak akhir bagi setiap jalur bernama;
 6. nyatakan syarat restorasi dan penilaian ulang;
 7. verifikasi keberlakuan praktis; dan
-8. rute temuan slot 7–9 Sumbu Pelanggaran yang memenuhi syarat ke [Bab Sepuluh](../../core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) di mana penunjukan menjadi isu.
+8. rute temuan slot 7–9 Sumbu Pelanggaran yang memenuhi syarat ke [Bab Sepuluh](../../core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) di mana penunjukan menjadi isu.
 
 Setiap hasil otomatis atau manual harus melestarikan masukan, aturan, langkah antara, hasil, dan rute tinjauannya dalam bentuk yang dapat diperiksa dan digugat pihak terdampak serta peninjau berwenang.
 
@@ -207,7 +207,7 @@ Forum mengawasi implementasi yang sah, gugatan, keringanan sementara, dan perger
 
 **Pembedaan jalur — pemungutan-suara-tata-kelola vs partisipasi-pihak-terdampak:**
 
-- **pemungutan-suara-tata-kelola** mencakup partisipasi dalam pemungutan suara tata kelola dan pilihan kolektif mengikat mekanisme-keabsahan yang sebanding di bawah [Bab Dua Belas §4.1](../../core_12_governance.md#41-entitlement-and-eligibility), termasuk **Pilihan Konstitusional Dasar**. Ia **tidak** mencakup suara berbobot-taruhan di dalam sistem, lembaga, atau ranah keputusan terbatas yang sudah diizinkan.
+- **pemungutan-suara-tata-kelola** mencakup partisipasi dalam pemungutan suara tata kelola dan pilihan kolektif mengikat mekanisme-keabsahan yang sebanding di bawah [Bab Dua Belas §4.1](../../core_13_governance.md#41-entitlement-and-eligibility), termasuk **Pilihan Konstitusional Dasar**. Ia **tidak** mencakup suara berbobot-taruhan di dalam sistem, lembaga, atau ranah keputusan terbatas yang sudah diizinkan.
 - **partisipasi-pihak-terdampak** mencakup pengaruh berbobot-taruhan, pilihan pihak terdampak yang mengikat, dan jalur Partisipasi Sistemik Pihak Terdampak yang sebanding di bawah [Bobot pihak terdampak](core_05_band_participation.md#stakeholder-weight) dan [Pilihan mengikat pihak terdampak](core_05_band_participation.md#binding-stakeholder-choice-cluster). Ia **tidak** menghapus status [Pihak terdampak](core_05_band_participation.md#stakeholder) itu sendiri, dan ia **tidak** menggantikan kunci **pemungutan-suara-tata-kelola**.
 
 Di mana korupsi jalur-pihak-terdampak terverifikasi, penguasaan, penyalahgunaan taruhan-palsu, atau permainan bobot-partisipasi yang koersif adalah pemicu, terapkan [Kunci Jejak Partisipasi Pihak Terdampak](#55-special-locks) di bawah [§5.5](#55-special-locks).
@@ -244,7 +244,7 @@ Di mana jalur restoratif bagi pelanggaran terverifikasi mencakup pengakuan atau 
   - perendahan-diri yang dipaksa;
   - bahaya reputasi yang tidak dapat dibalik.
 
-Spesialisasi salah laku anti-konstitusi — termasuk aturan yang dipicu penunjukan dan akibat yang tertaut-penunjukan bagi ungkapan tidak autentik — diatur oleh [Bab Sepuluh §4.3](../../core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Ungkapan pertanggungjawaban publik sukarela (anti-konstitusi)*).
+Spesialisasi salah laku anti-konstitusi — termasuk aturan yang dipicu penunjukan dan akibat yang tertaut-penunjukan bagi ungkapan tidak autentik — diatur oleh [Bab Sepuluh §4.3](../../core_11_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Ungkapan pertanggungjawaban publik sukarela (anti-konstitusi)*).
 
 <a id="44-remedy-parity-and-lock-preconditions"></a>
 #### 4.4 Paritas pemulihan dan prasyarat kunci
@@ -474,7 +474,7 @@ Kunci ini wajib ketika pemicu terverifikasinya terpenuhi. Masing-masing harus di
   - jalur Partisipasi Sistemik Pihak Terdampak yang sebanding di dalam sistem, lembaga, atau ranah keputusan terbatas yang terdampak di bawah [Bobot pihak terdampak](core_05_band_participation.md#stakeholder-weight) dan [Pilihan mengikat pihak terdampak](core_05_band_participation.md#binding-stakeholder-choice-cluster).
 - **Tidak dengan sendirinya membatasi:**
   - status [Pihak terdampak](core_05_band_participation.md#stakeholder) atau pengakuan bahwa makhluk sadar terdampak secara material;
-  - jalur **pemungutan-suara-tata-kelola**, **Pilihan Konstitusional Dasar**, atau pilihan kolektif mengikat mekanisme-keabsahan yang sebanding di bawah [Bab Dua Belas §4.1](../../core_12_governance.md#41-entitlement-and-eligibility);
+  - jalur **pemungutan-suara-tata-kelola**, **Pilihan Konstitusional Dasar**, atau pilihan kolektif mengikat mekanisme-keabsahan yang sebanding di bawah [Bab Dua Belas §4.1](../../core_13_governance.md#41-entitlement-and-eligibility);
   - minimum Lantai Hak, akses kritis-kelangsungan-hidup, atau jalur audit, gugatan, dan pemulihan yang dituntut secara konstitusional.
 - **Risiko:** penguasaan atau distorsi suara pihak terdampak yang berlanjut, dominasi taruhan-palsu, bobot partisipasi yang dipaksa, dan pengulangan penyalahgunaan jalur-pihak-terdampak di ranah yang sama atau terkait.
 - **Subjek atau kepentingan dilindungi:** pihak terdampak, integritas pilihan pihak terdampak yang mengikat, dan non-penguasaan sistem, lembaga, atau ranah keputusan terbatas yang relevan.
@@ -527,7 +527,7 @@ Kunci ini wajib ketika pemicu terverifikasinya terpenuhi. Masing-masing harus di
 - **Titik penilaian ulang:**
   - Temuan restorasi atau pengembalian terbit di atas adalah pos pemeriksaan bagi setiap penyempitan atau pengangkatan.
   - Di bawah [§5.1](#51-definition-and-attachment), jaga makhluk sadar terisolasi dari jaringan proksi, entitas penerus, dan latar yang dibagi dengan pelanggar terkoordinasi selagi risiko tetap hidup.
-- **Baca bersama:** [Bab Sepuluh §4.2](../../core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Pencegahan — kunci anti-konstitusi*) bagi spesialisasi pembatasan-kebebasan dan pemenjaraan spesifik-ACM setelah penunjukan final; subbagian ini tetap teks Kunci Kepercayaan operatif.
+- **Baca bersama:** [Bab Sepuluh §4.2](../../core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Pencegahan — kunci anti-konstitusi*) bagi spesialisasi pembatasan-kebebasan dan pemenjaraan spesifik-ACM setelah penunjukan final; subbagian ini tetap teks Kunci Kepercayaan operatif.
 
 <a id="6-contribution-consequences-second"></a>
 ### 6. Akibat kontribusi kedua
@@ -696,7 +696,7 @@ Ia juga harus menyingkap masukan, bobot, aturan, dan rute tinjauan yang dipakai.
     - artefak sebanding;
   - memindahkan akibat ke jalur bernama yang tidak menghasilkannya; atau
   - menyimpulkan keterpercayaan, nilai, atau risiko umum dari himpunan akibat subjek.
-- **Pengecualian berbatas:** [Forum Integritas](core_11_forum.md#45-integrity-forums) yang memeriksa klaim penguasaan atau pola, tinjauan penunjukan [Bab Sepuluh](../../core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct), dan look-through [§9.4](#94-anti-evasion-and-look-through-authority) boleh melihat catatan lintas-jalur, di bawah aturan mundur dan jam [Bab Sebelas §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), untuk perkara itu saja. Rujukan-silang [Bab Delapan §3.2](core_08_standing_assessment.md#32-related-record-cross-references) antara catatan tertaut tetap; mereka adalah tautan catatan, bukan komposit.
+- **Pengecualian berbatas:** [Forum Integritas](core_11_forum.md#45-integrity-forums) yang memeriksa klaim penguasaan atau pola, tinjauan penunjukan [Bab Sepuluh](../../core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct), dan look-through [§9.4](#94-anti-evasion-and-look-through-authority) boleh melihat catatan lintas-jalur, di bawah aturan mundur dan jam [Bab Sebelas §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), untuk perkara itu saja. Rujukan-silang [Bab Delapan §3.2](core_08_standing_assessment.md#32-related-record-cross-references) antara catatan tertaut tetap; mereka adalah tautan catatan, bukan komposit.
 - **Tampilan LEQU publik:** Slot Sumbu Pelanggaran dan Sumbu Kontribusi tidak diterbitkan sebagai atribut umum makhluk sadar. Mereka muncul dalam catatan, dalam perkara forum, dan dalam pengungkapan kepada penjaga gerbang jalur bernama di mana slot adalah masukan sah bagi jalur bernama itu.
 
 <a id="72-plain-statement-of-effect-and-burden"></a>
@@ -806,10 +806,10 @@ Berikut melanggar aturan ini di mana mereka secara dapat diduga meniadakan gugat
 - ketergantungan pada satu kantor rapuh; atau
 - kegagalan tonggak kronis.
 
-Pengangkatan kurang atas panel forum **Integritas**, **Konstitusional**, atau **Lingkungan**, atau panel **Domain Forum Teknis** yang mendengar adjudikasi status-kesadaran, adalah kegagalan daya tahan di bawah subbagian ini, dibaca bersama [Bab Dua Belas §1.2](../../core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums).
+Pengangkatan kurang atas panel forum **Integritas**, **Konstitusional**, atau **Lingkungan**, atau panel **Domain Forum Teknis** yang mendengar adjudikasi status-kesadaran, adalah kegagalan daya tahan di bawah subbagian ini, dibaca bersama [Bab Dua Belas §1.2](../../core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums).
 
 <a id="92-remedy-parity-funding-floor"></a>
-**Lantai pendanaan paritas pemulihan.** Bagi setiap kelas sistem yang dikelola pihak yang mengadopsi, kapasitas yang didanai bagi pemulihan, restorasi, dan penilaian ulang tidak boleh kurang dari kapasitas yang didanai bagi administrasi kunci, penegakan, dan pembebanan pagar pengaman pada kelas yang sama. Rasio harus diterbitkan bersama angka pemicu [§4.4](#44-remedy-parity-and-lock-preconditions). Pihak yang mengadopsi yang menyimpang dari paritas harus mencatat alasan di bawah [Bab Dua Belas §3.1](../../core_12_governance.md#31-stewardship-direction) dan menunjukkan, pada catatan, bahwa dimulainya pemulihan dan tinjauan restorasi tetap memenuhi jam tingkat mereka; paritas anggaran tidak memaafkan pemicu [§4.4](#44-remedy-parity-and-lock-preconditions) yang terpicu, dan pemicu yang terpenuhi tidak memaafkan penyimpangan senyap dari paritas. Pihak yang mengadopsi yang tidak dapat mendanai pemulihan bagi suatu kelas sistem tidak boleh mendirikan mesin kunci bagi kelas itu.
+**Lantai pendanaan paritas pemulihan.** Bagi setiap kelas sistem yang dikelola pihak yang mengadopsi, kapasitas yang didanai bagi pemulihan, restorasi, dan penilaian ulang tidak boleh kurang dari kapasitas yang didanai bagi administrasi kunci, penegakan, dan pembebanan pagar pengaman pada kelas yang sama. Rasio harus diterbitkan bersama angka pemicu [§4.4](#44-remedy-parity-and-lock-preconditions). Pihak yang mengadopsi yang menyimpang dari paritas harus mencatat alasan di bawah [Bab Dua Belas §3.1](../../core_13_governance.md#31-stewardship-direction) dan menunjukkan, pada catatan, bahwa dimulainya pemulihan dan tinjauan restorasi tetap memenuhi jam tingkat mereka; paritas anggaran tidak memaafkan pemicu [§4.4](#44-remedy-parity-and-lock-preconditions) yang terpicu, dan pemicu yang terpenuhi tidak memaafkan penyimpangan senyap dari paritas. Pihak yang mengadopsi yang tidak dapat mendanai pemulihan bagi suatu kelas sistem tidak boleh mendirikan mesin kunci bagi kelas itu.
 
 <a id="93-cross-jurisdiction-continuity"></a>
 #### 9.3 Kesinambungan lintas-yurisdiksi
@@ -837,7 +837,7 @@ Hak dan akibat jejak nyata hanya ketika makhluk sadar dapat memanggilnya, memver
 
 - Hulu: [§1](#1-immutable-chapter-eight-inputs) sampai [§9](#9-enforcement-realism) (*masukan Bab Delapan yang tidak berubah sampai realisme penegakan dan sistem pemulihan*).
 - Subbagian: [§10.1](#101-informal-ecological-stewardship-competency-clearance); [§10.2](#102-ecological-negligence-with-concealment); [§10.3](#103-forum-integrity-deception-or-recusal-failure); [§10.4](#104-recurrence-after-completed-restitution); [§10.5](#105-champion-repair-while-a-lock-remains-active); [§10.6](#106-institutional-vehicle-and-successor-evasion); [§10.7](#107-misaligned-reward-retention); [§10.8](#108-anti-constitutional-misconduct-allegation); [§10.9](#109-rights-floor-waiver-or-unconstitutional-contract-devices); [§10.10](#1010-contest-pathway-or-info-sphere-flooding); [§10.11](#1011-infrastructure-denial-or-dependency-cutoff); [§10.12](#1012-stakeholder-participation-corruption-or-false-stake-abuse); [§10.13](#1013-obstruction-of-accountability).
-- Baca bersama: [Bab Delapan §4.6](core_08_standing_assessment.md#46-question-2-measurement-illustrations) (*ilustrasi pengukuran Pertanyaan 2*); [Vinyet penerapan Bab Delapan–Sebelas](../../core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes) (*jelajah ranah rantai penuh*); [Bab Sepuluh §5](../../core_10_b_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing) (*perutean pola sisi-penunjukan — kembar dua-lapisan; bukan katalog tipe-kunci*).
+- Baca bersama: [Bab Delapan §4.6](core_08_standing_assessment.md#46-question-2-measurement-illustrations) (*ilustrasi pengukuran Pertanyaan 2*); [Vinyet penerapan Bab Delapan–Sebelas](../../core_09-12_application_vignettes.md#chapters-eight-eleven-application-vignettes) (*jelajah ranah rantai penuh*); [Bab Sepuluh §5](../../core_11_b_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing) (*perutean pola sisi-penunjukan — kembar dua-lapisan; bukan katalog tipe-kunci*).
 
 </details>
 
@@ -845,7 +845,7 @@ Hak dan akibat jejak nyata hanya ketika makhluk sadar dapat memanggilnya, memver
 
 *Dalam bahasa sederhana: pola ini menunjukkan cara bentuk tepi Pertanyaan 3 yang berulang merute lewat aturan yang sudah dinyatakan di atas — mereka tidak mengada-adakan akibat baru atau tipe kunci khusus baru. Di mana isyarat mencerminkan keluarga serangan Bab Sepuluh §5, bagian ini menjawab pencegahan jalur bernama dari catatan terverifikasi; Bab Sepuluh secara terpisah menjawab perutean kriteria penunjukan.*
 
-Subbagian di bawah menunjukkan cara situasi Pertanyaan 3 yang umum memakai aturan yang sudah dinyatakan dalam bab ini. Mereka **tidak** mengada-adakan akibat baru, menciptakan tipe kunci khusus di bawah [§5.5](#55-special-locks), menciptakan pengecualian khusus, mengubah slot Bab Delapan, mengambil supervisi forum dari [Bab Sebelas](core_11_forum.md#chapter-eleven-forums-and-jurisdiction), atau mengambil keputusan penunjukan dari [Bab Sepuluh](../../core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct). Pembuat keputusan mengikuti urutan di [§2](#2-integration-record-and-decision-order) dan bagian yang dinamai setiap pola.
+Subbagian di bawah menunjukkan cara situasi Pertanyaan 3 yang umum memakai aturan yang sudah dinyatakan dalam bab ini. Mereka **tidak** mengada-adakan akibat baru, menciptakan tipe kunci khusus di bawah [§5.5](#55-special-locks), menciptakan pengecualian khusus, mengubah slot Bab Delapan, mengambil supervisi forum dari [Bab Sebelas](core_11_forum.md#chapter-eleven-forums-and-jurisdiction), atau mengambil keputusan penunjukan dari [Bab Sepuluh](../../core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct). Pembuat keputusan mengikuti urutan di [§2](#2-integration-record-and-decision-order) dan bagian yang dinamai setiap pola.
 
 <a id="101-informal-ecological-stewardship-competency-clearance"></a>
 <a id="101-informal-ecological-stewardship-competency-gate"></a>
@@ -927,7 +927,7 @@ Subbagian di bawah menunjukkan cara situasi Pertanyaan 3 yang umum memakai atura
   - [§2](#2-integration-record-and-decision-order) (*langkah urutan-pemrosesan 8 — gerbang Bab Sepuluh*);
   - [§4](#4-violation-correction-and-prevention) dan [§5](#5-lock-design-and-enforcement) (*pemulihan, koreksi, dan kunci pelindung biasa dari catatan tetap*);
   - [§5.5](#55-special-locks) (*Kunci Kepercayaan Anti-Konstitusi*); dan
-  - [Bab Sepuluh](../../core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*penunjukan saja*).
+  - [Bab Sepuluh](../../core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) (*penunjukan saja*).
 - **Tidak dapat ditawar:** Pemulihan, koreksi, dan kunci pelindung biasa Bab Sembilan berjalan dari catatan pelanggaran tetap. Bab Sepuluh secara terpisah memutuskan penunjukan. Hanya penunjukan final yang memicu Kunci Kepercayaan Anti-Konstitusi.
 
 <a id="109-rights-floor-waiver-or-unconstitutional-contract-devices"></a>
@@ -939,7 +939,7 @@ Subbagian di bawah menunjukkan cara situasi Pertanyaan 3 yang umum memakai atura
   - [§4.2](#42-general-standing-locks) (*kunci jejak umum berbatas pada jalur kepercayaan, peran, kredit, atau pengaruh yang disalahgunakan*);
   - [§5.1](#51-definition-and-attachment) (*kolom pelekatan*); dan
   - [§5.4](#54-special-violation-rules) (*Kewajiban Menolak* di mana instrumen menuntut kepatuhan tidak sah atau inkonstitusional).
-- **Tidak dapat ditawar:** Isyarat ini tidak menciptakan kunci khusus di bawah [§5.5](#55-special-locks). Kebatalan syarat dan kriteria penunjukan tetap di [Bab Sepuluh §5.2](../../core_10_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms). Bab Sembilan melekatkan kunci jalur bernama biasa dari catatan terverifikasi; hanya penunjukan final yang memicu Kunci Kepercayaan Anti-Konstitusi di bawah [§10.8](#108-anti-constitutional-misconduct-allegation).
+- **Tidak dapat ditawar:** Isyarat ini tidak menciptakan kunci khusus di bawah [§5.5](#55-special-locks). Kebatalan syarat dan kriteria penunjukan tetap di [Bab Sepuluh §5.2](../../core_11_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms). Bab Sembilan melekatkan kunci jalur bernama biasa dari catatan terverifikasi; hanya penunjukan final yang memicu Kunci Kepercayaan Anti-Konstitusi di bawah [§10.8](#108-anti-constitutional-misconduct-allegation).
 
 <a id="1010-contest-pathway-or-info-sphere-flooding"></a>
 #### 10.10 Pembanjiran jalur-gugatan atau infosfer
@@ -950,7 +950,7 @@ Subbagian di bawah menunjukkan cara situasi Pertanyaan 3 yang umum memakai atura
   - [§4.2](#42-general-standing-locks) (*kunci jalur bernama pelindung pada jalur perutean, pengajuan, peringkat, akses, atau pengaruh yang disalahgunakan*);
   - [§5.1](#51-definition-and-attachment) dan [§5.2](#52-proportionality-and-calibration) (*cakupan yang dibutuhkan, sepadan, dapat ditinjau*); dan
   - [Bab Sebelas](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*triase penerimaan operasional dan anti-permainan — supervisi tanpa mengada-adakan akibat jejak*).
-- **Tidak dapat ditawar:** Isyarat ini tidak menciptakan Kunci Pembanjiran atau tipe [§5.5](#55-special-locks) lain. Perutean kriteria sisi-penunjukan tetap di [Bab Sepuluh §5.3](../../core_10_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) dan [§5.4](../../core_10_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding). Kunci pelindung biasa berjalan dari catatan tetap apakah penunjukan kemudian melekat atau tidak.
+- **Tidak dapat ditawar:** Isyarat ini tidak menciptakan Kunci Pembanjiran atau tipe [§5.5](#55-special-locks) lain. Perutean kriteria sisi-penunjukan tetap di [Bab Sepuluh §5.3](../../core_11_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) dan [§5.4](../../core_11_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding). Kunci pelindung biasa berjalan dari catatan tetap apakah penunjukan kemudian melekat atau tidak.
 
 <a id="1011-infrastructure-denial-or-dependency-cutoff"></a>
 #### 10.11 Penolakan prasarana atau pemutusan ketergantungan
@@ -962,7 +962,7 @@ Subbagian di bawah menunjukkan cara situasi Pertanyaan 3 yang umum memakai atura
   - [§5.1](#51-definition-and-attachment) (*termasuk isolasi dari jaringan atau titik kontrol yang menciptakan ulang risiko pemutusan*);
   - [§5.4](#54-special-violation-rules) (*pagar pengaman koersif atau membatasi-kebebasan hanya di mana bahaya terverifikasi menjustifikasinya*); dan
   - [§9](#9-enforcement-realism) (*daya tahan sistem pemulihan dan anti-pengelakan*).
-- **Tidak dapat ditawar:** Isyarat ini tidak menciptakan Kunci Prasarana di bawah [§5.5](#55-special-locks). Perutean kriteria sisi-penunjukan tetap di [Bab Sepuluh §5.9](../../core_10_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct). Batas non-pembatasan global di bawah [§5.1](#51-definition-and-attachment) tetap melindungi ucapan, petisi, partisipasi pihak-terdampak, Lantai Hak, dan akses kritis-kelangsungan-hidup yang tidak boleh dipadamkan kunci.
+- **Tidak dapat ditawar:** Isyarat ini tidak menciptakan Kunci Prasarana di bawah [§5.5](#55-special-locks). Perutean kriteria sisi-penunjukan tetap di [Bab Sepuluh §5.9](../../core_11_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct). Batas non-pembatasan global di bawah [§5.1](#51-definition-and-attachment) tetap melindungi ucapan, petisi, partisipasi pihak-terdampak, Lantai Hak, dan akses kritis-kelangsungan-hidup yang tidak boleh dipadamkan kunci.
 
 <a id="1012-stakeholder-participation-corruption-or-false-stake-abuse"></a>
 #### 10.12 Korupsi partisipasi-pihak-terdampak atau penyalahgunaan taruhan-palsu
@@ -984,7 +984,7 @@ Subbagian di bawah menunjukkan cara situasi Pertanyaan 3 yang umum memakai atura
   - [§5.4](#54-special-violation-rules) (*pembentukan penyembunyian, pengelakan, penipuan, dan terkait-kewajiban*);
   - [§5.5](#55-special-locks) (*Kunci Jejak Layanan Forum hanya ketika pemicu integritas-forum / mundur-yang-dituntut terpenuhi di bawah [§10.3](#103-forum-integrity-deception-or-recusal-failure)*); dan
   - [§10.8](#108-anti-constitutional-misconduct-allegation) (*gerbang Bab Sepuluh ketika `s` = 7–9 dan salah laku anti-konstitusi dituduhkan secara material*).
-- **Tidak dapat ditawar:** Isyarat ini tidak menciptakan Kunci Penghambatan atau tipe [§5.5](#55-special-locks) lain. Karakter penghambatan tidak pernah menggeser slot Sumbu Pelanggaran. Kunci jalur bernama biasa berjalan dari catatan tetap pada slot mana pun. Perutean kriteria sisi-penunjukan tetap di [Bab Sepuluh §5.11](../../core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction); hanya penunjukan final yang memicu Kunci Kepercayaan Anti-Konstitusi di bawah [§10.8](#108-anti-constitutional-misconduct-allegation). Bedakan *perilaku* penghambatan terverifikasi dari [Penguasaan jalur resolusi](core_05_band_accountability.md#capture-of-resolution-pathways) sebagai syarat struktural.
+- **Tidak dapat ditawar:** Isyarat ini tidak menciptakan Kunci Penghambatan atau tipe [§5.5](#55-special-locks) lain. Karakter penghambatan tidak pernah menggeser slot Sumbu Pelanggaran. Kunci jalur bernama biasa berjalan dari catatan tetap pada slot mana pun. Perutean kriteria sisi-penunjukan tetap di [Bab Sepuluh §5.11](../../core_11_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction); hanya penunjukan final yang memicu Kunci Kepercayaan Anti-Konstitusi di bawah [§10.8](#108-anti-constitutional-misconduct-allegation). Bedakan *perilaku* penghambatan terverifikasi dari [Penguasaan jalur resolusi](core_05_band_accountability.md#capture-of-resolution-pathways) sebagai syarat struktural.
 
 <a id="1014-verified-cruelty-character"></a>
 #### 10.14 Karakter kekejaman terverifikasi
@@ -1002,6 +1002,6 @@ Subbagian di bawah menunjukkan cara situasi Pertanyaan 3 yang umum memakai atura
 
 **Berkas sebelumnya (lokal ini):** [core_08_standing_assessment.md](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)
 
-**Berkas berikutnya (masih bahasa Inggris):** [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)
+**Berkas berikutnya (masih bahasa Inggris):** [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct)
 
-**Sumber mengikat:** [core_09_standing_integration.md](../../core_09_standing_integration.md)
+**Sumber mengikat:** [core_09_standing_integration.md](../../core_10_standing_integration.md)

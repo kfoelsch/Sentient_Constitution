@@ -45,14 +45,14 @@
 - 함께 읽기: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — **참여** 다리(결과가 있는 역할과 목소리; 일반 요건이지 [영향받는 쪽의 체계 참여](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster)만이 아님), **감독** 다리, **적시성** 다리(선제 수리 속도)의 제1장 일차 거처; [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절.
 - 함께 읽기: [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) — **번영** 목적(참여, 행위주체성, 교육 경로); **연속** 목적(제도 학습, 수리 능력, 오래가는 책임 있는 관리).
 - 상류: 원칙: [2. 기초 목표: 복지](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [3.2 진실](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint); [4. 신뢰](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity); 그리고 [§12 공유 체계 능력](#12-shared-system-capacity).
-- 하류: [6. 과정 충돌 해결](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([§6.3 피할 수 있는 부담의 최소화](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)를 포함); [제7장 §3 전체 체계 인증 평가](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§11.1.3 책임 있는 관리와 운영자 적용](#1113-stewardship-and-operator-application).
+- 하류: [6. 과정 충돌 해결](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([§6.3 피할 수 있는 부담의 최소화](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)를 포함); [제7장 §3 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§11.1.3 책임 있는 관리와 운영자 적용](#1113-stewardship-and-operator-application).
 - 하류: [§11.1.4 역할 깊이와 실질 책임 경로](#1114-role-depth-and-material-responsibility-pathways).
 - 하류: [§5 자유(한정된 행위주체성)](core_01_a_values_principles.md#5-freedom-bounded-agency). 결과가 있는 책임 있는 관리, 분산된 이해, 의미 있는 참여, 수리 능력이 실질 의존 아래에서 실체로 남는 데 의존한다.
-- 하류: [제7장 — 체계 정합 인증](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*감독 아래 특히 큰 감사 과정 하나 — 유일한 감사 거처가 아님*); [제8장 — 기여, 위반, 궤적 모형](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*궤적 효과 — 신뢰·역할·인정 자격 — 이 하위절을 원칙 층 기초로 시행한다*).
+- 하류: [제7장 — 체계 정합 인증](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*감독 아래 특히 큰 감사 과정 하나 — 유일한 감사 거처가 아님*); [제8장 — 기여, 위반, 궤적 모형](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*궤적 효과 — 신뢰·역할·인정 자격 — 이 하위절을 원칙 층 기초로 시행한다*).
 - 하류: [제11장 §1 — 목적과 역할](core_11_forum.md#1-purpose-and-role)과 [§4 — 포럼 가족 정의](core_11_forum.md#4-forum-family-definitions) (*포럼 가족은 이 절과 정합된 다툴 수 있는 다툼, 구제 순서, 근본원인 학습, 선제 거버넌스를 위한 참여와 감독 아키텍처를 운반한다*); 채택된 포럼 운영을 위한 [corpus_forum.md](../../corpus_forum.md).
 - 하류: 교육, 영향받는 쪽의 체계 참여, 투명, 이해 가능성, 감사와 확인, 실질 책임으로 들어가는 역할 깊이 경로의 권리 면을 빚는다.
   - 특히 [제 III조: 생존과 평등한 교육 접근](../../core_06_rights_part_a.md#article-iii-survival-and-equal-educational-access), [제 VI조: 감지자 중심 교육에 대한 권리](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [제 IX조: 자기결정과 행위주체성](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency), [제 XI조: 영향받는 쪽의 체계 참여, 대표, 적법절차](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process), [제 XV조: 감사, 투명, 독립 확인](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [제 XVIII조: 궤적과 참여 지위](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status), [제 XIX조: 상호운용, 이동 가능성, 이동, 피난, 출구 완전성](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity), [제 XX조: 이해 가능성과 복잡성 책임 있는 관리](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship), [제 XXII조: 헌법 해석, 검토, 포획 금지 안전장치](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards).
-  - 함께 읽기: [제12장 §5 — 수권된 역할, 역량 개발, 기여](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution)와 **[corpus_systems.md](../../corpus_systems.md), CS-4 — 핵심 체계 책임 있는 관리** — 운영 역할 경로와 책임 있는 관리 개발 경로를 위해.
+  - 함께 읽기: [제12장 §5 — 수권된 역할, 역량 개발, 기여](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)와 **[corpus_systems.md](../../corpus_systems.md), CS-4 — 핵심 체계 책임 있는 관리** — 운영 역할 경로와 책임 있는 관리 개발 경로를 위해.
 - 하위절(읽기 순서): [§9.1 결과가 있는 책임 있는 관리](#91-stewardship) · [§9.1.1 공유 책임 있는 관리 표준](#911-shared-stewardship-standard) · [§9.1.2 대칭 비용 제약](#912-symmetric-costly-constraints) · [§9.1.3 역할 범위 관측 가능성](#913-role-scoped-observability) · [§9.2 분산된 이해](#92-distributed-understanding) (규모 역량의 공동체 면) · [§9.3 제도 발전](#93-institutional-development) (조직 면) · [§9.4 개방성 지향](#94-openness-aspiration) · [§9.5 정합된 자기조직](#95-aligned-self-organization) · [§9.6 저하 과정 금지](#96-process-character-discipline).
 
 </details>
@@ -124,7 +124,7 @@
 
 - 상류: [§9 책임 있는 관리와 분산된 이해](#9-stewardship-and-distributed-understanding) (부모, 위의 *쉬운 말로*와 기둥 1 틀을 포함); [§12 공유 체계 능력](#12-shared-system-capacity); [4. 신뢰](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity).
 - 함께 읽기: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — **참여** 다리(운영, 유지, 개선에서의 결과가 있는 역할); **감독** 다리(기록, 감사 경로, 다툴 수 있는 관측 가능성); **적시성** 다리(어긋남을 일찍 탐지하고, 층에 맞는 창 안에서 격상하고, 불필요한 지연 없이 고치기 시작); [적시성](core_05_apex_timeliness_leg.md#timeliness-constitutional).
-- 하류: [§9.1.1 공유 책임 있는 관리 표준](#911-shared-stewardship-standard) (*기질 비의존 의무 보유자; 동반 텍스트는 기록, 귀속, 능력 한도를 더할 수 있다 — 더 부드러운 내부 규범이 아님*); [§9.1.2 대칭 비용 제약](#912-symmetric-costly-constraints); [§9.1.3 역할 범위 관측 가능성](#913-role-scoped-observability); [§9.2 분산된 이해](#92-distributed-understanding)와 [§9.3 제도 발전](#93-institutional-development) (*기둥 2 — 규모에서의 역량*); [제7장 — 체계 정합 인증](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*감독 아래 특히 큰 감사 과정 하나 — 유일한 감사 거처가 아님*); [제 XV조: 감사, 투명, 독립 확인](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*감사 권리 바닥*); [제8장 — 기여, 위반, 궤적 모형](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*궤적 효과는 분산된 역량과 결과가 있는 책임 있는 관리를 시행한다*); [제 XVIII조: 궤적과 참여 지위](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status).
+- 하류: [§9.1.1 공유 책임 있는 관리 표준](#911-shared-stewardship-standard) (*기질 비의존 의무 보유자; 동반 텍스트는 기록, 귀속, 능력 한도를 더할 수 있다 — 더 부드러운 내부 규범이 아님*); [§9.1.2 대칭 비용 제약](#912-symmetric-costly-constraints); [§9.1.3 역할 범위 관측 가능성](#913-role-scoped-observability); [§9.2 분산된 이해](#92-distributed-understanding)와 [§9.3 제도 발전](#93-institutional-development) (*기둥 2 — 규모에서의 역량*); [제7장 — 체계 정합 인증](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*감독 아래 특히 큰 감사 과정 하나 — 유일한 감사 거처가 아님*); [제 XV조: 감사, 투명, 독립 확인](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*감사 권리 바닥*); [제8장 — 기여, 위반, 궤적 모형](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*궤적 효과는 분산된 역량과 결과가 있는 책임 있는 관리를 시행한다*); [제 XVIII조: 궤적과 참여 지위](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status).
 
 </details>
 
@@ -160,9 +160,9 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [§9.1 결과가 있는 책임 있는 관리](#91-stewardship); [§9 책임 있는 관리와 분산된 이해](#9-stewardship-and-distributed-understanding); [§10 책임 있는 관리 규율 아래 거버넌스](#10-governance-under-stewardship-discipline).
-- 함께 읽기: [감지 비배제](../../core_05_band_participation.md#sentience-non-exclusion)와 [기질 부류](../../core_05_band_participation.md#substrate-class) (*기질 비의존 적용 — 이 하위절은 의무 보유자를 묶는다, 인정된 감지자가 아닌 행위자와 운영자를 포함*); [권위 스택과 내부 위계](../../core_05_band_integrative.md#authority-stack); [헌법 제약](../../core_05_band_integrative.md#constitutional-constraint); [다툴 수 있음](../../core_05_band_accountability.md#contestability); [제9장 §5.4 저항 의무](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions).
+- 함께 읽기: [감지 비배제](../../core_05_band_participation.md#sentience-non-exclusion)와 [기질 부류](../../core_05_band_participation.md#substrate-class) (*기질 비의존 적용 — 이 하위절은 의무 보유자를 묶는다, 인정된 감지자가 아닌 행위자와 운영자를 포함*); [권위 스택과 내부 위계](../../core_05_band_integrative.md#authority-stack); [헌법 제약](../../core_05_band_integrative.md#constitutional-constraint); [다툴 수 있음](../../core_05_band_accountability.md#contestability); [제9장 §5.4 저항 의무](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions).
 - 책임 있는 관리 문(비운영): 구속력 있는 다음 걸음 진술: [운영 책임 있는 관리 진술](#operative-steward-statement-shared-stewardship). 지원 포인터는 그것을 좁힐 수 없다.
-- 하류: [§9.1.2 대칭 비용 제약](#912-symmetric-costly-constraints); [§9.1.3 역할 범위 관측 가능성](#913-role-scoped-observability); [제12장 §5 — 수권된 역할, 역량 개발, 기여](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution); [제16장](../../core_16_incorporation.md) (*동반은 시행한다; 대체하지 않는다*); [§11.1.3 책임 있는 관리와 운영자 적용](#1113-stewardship-and-operator-application).
+- 하류: [§9.1.2 대칭 비용 제약](#912-symmetric-costly-constraints); [§9.1.3 역할 범위 관측 가능성](#913-role-scoped-observability); [제12장 §5 — 수권된 역할, 역량 개발, 기여](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution); [제16장](../../core_17_incorporation.md) (*동반은 시행한다; 대체하지 않는다*); [§11.1.3 책임 있는 관리와 운영자 적용](#1113-stewardship-and-operator-application).
 
 </details>
 
@@ -188,7 +188,7 @@
 
 <br>
 
-*쉬운 말로: 인간과 AI 책임 있는 관리자는 같은 제1장 의무를 집니다. [제9장 §5.4](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)는 양쪽을 위법하거나 위헌인 지시를 거절하도록 묶습니다. 동반은 기록, 귀속, 능력 한도를 더할 수 있습니다. 더 부드러운 내부 규범을 끼워 넣고, 궤적 측정을 건너뛰거나, 다툼 경로를 닫으면 안 됩니다. 이것은 새 도덕 스택이 아닙니다 — 특별 변명 금지 규칙입니다. 보너스, 기한, 「책임은 내가 진다」 시험은 [§9.1.2](#912-symmetric-costly-constraints)에 삽니다.*
+*쉬운 말로: 인간과 AI 책임 있는 관리자는 같은 제1장 의무를 집니다. [제9장 §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)는 양쪽을 위법하거나 위헌인 지시를 거절하도록 묶습니다. 동반은 기록, 귀속, 능력 한도를 더할 수 있습니다. 더 부드러운 내부 규범을 끼워 넣고, 궤적 측정을 건너뛰거나, 다툼 경로를 닫으면 안 됩니다. 이것은 새 도덕 스택이 아닙니다 — 특별 변명 금지 규칙입니다. 보너스, 기한, 「책임은 내가 진다」 시험은 [§9.1.2](#912-symmetric-costly-constraints)에 삽니다.*
 
 **공유 책임 있는 관리 표준:**
 - **누구를 묶는가:** 이 장 아래 책임 있는 관리와 거버넌스 의무는, 실질 책임 있는 관리나 운영 권한을 행사하는 이에게, [기질 부류](../../core_05_band_participation.md#substrate-class)와 무관하게 [기질 비의존](../../core_05_band_participation.md#substrate-agnostic)으로 적용된다:
@@ -197,10 +197,10 @@
   - 다른 행위자, 운영자, 구성 요소
 
   이 하위절은 의무 보유자 규칙이다. [감지 비배제](../../core_05_band_participation.md#sentience-non-exclusion)는 인정과 권리 바닥 깎아 내기 금지로 남는다.
-- **저항 의무:** [제9장 §5.4](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)는 양쪽 책임 있는 관리자를 위법하거나 위헌인 지시를 거절하도록 묶는다.
+- **저항 의무:** [제9장 §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)는 양쪽 책임 있는 관리자를 위법하거나 위헌인 지시를 거절하도록 묶는다.
 - **동반:** 채택된 동반 시행 텍스트와 내부 규범은:
   - 그 의무를 충족하고 좁히지 않는 기록, 귀속, 능력 한도를 더할 수 있다
-  - [궤적 측정](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model), 다툼 경로, 제1장 의무를 더 부드러운 내부 규범으로 대체하면 안 된다
+  - [궤적 측정](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model), 다툼 경로, 제1장 의무를 더 부드러운 내부 규범으로 대체하면 안 된다
   - [권위 스택과 내부 위계](../../core_05_band_integrative.md#authority-stack)와 [헌법 제약](../../core_05_band_integrative.md#constitutional-constraint)가 그 좁힘을 금한다
 - **기록 대 궤적 기록:** 기본 혼합 승무원 검사 가능성과 로그는 기록이 아니라는 규칙은 [§9.1.3](#913-role-scoped-observability)에 산다; 궤적 측정은 제8장에 남는다.
 
@@ -210,8 +210,8 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [§9.1.1 공유 책임 있는 관리 표준](#911-shared-stewardship-standard); [§9.1 결과가 있는 책임 있는 관리](#91-stewardship); [§9 책임 있는 관리와 분산된 이해](#9-stewardship-and-distributed-understanding).
-- 함께 읽기: [안전(제약)](../../core_05_band_continuity.md#safety-constraint); [진실(헌법 제약)](../../core_05_band_oversight.md#truth-constitutional-constraint); [감사 가능성](../../core_05_band_oversight.md#auditability); [다툴 수 있음](../../core_05_band_accountability.md#contestability); [§11 유인 정합과 체계 포획](#11-incentive-alignment-and-system-capture); [제9장 §5.4 저항 의무](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions).
-- 하류: [제8장 — 기여, 위반, 궤적 모형](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*확인된 비용 사례 실패는 같은 축에 기록된다*); [§9.1.3 역할 범위 관측 가능성](#913-role-scoped-observability).
+- 함께 읽기: [안전(제약)](../../core_05_band_continuity.md#safety-constraint); [진실(헌법 제약)](../../core_05_band_oversight.md#truth-constitutional-constraint); [감사 가능성](../../core_05_band_oversight.md#auditability); [다툴 수 있음](../../core_05_band_accountability.md#contestability); [§11 유인 정합과 체계 포획](#11-incentive-alignment-and-system-capture); [제9장 §5.4 저항 의무](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions).
+- 하류: [제8장 — 기여, 위반, 궤적 모형](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*확인된 비용 사례 실패는 같은 축에 기록된다*); [§9.1.3 역할 범위 관측 가능성](#913-role-scoped-observability).
 
 </details>
 
@@ -240,7 +240,7 @@
 그것들은 양쪽 책임 있는 관리자에게 실패한 시험이다.
 
 **기록과 보여 주기:**
-- **궤적이 아님:** 서면 자기보고는 [궤적 측정](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)이 아니다.
+- **궤적이 아님:** 서면 자기보고는 [궤적 측정](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)이 아니다.
 - **확인된 기록:** 확인된 실패는 제8장 아래 기여와 위반 축에 기록된다.
 - **AI만의 보여 주기 금지:** AI 책임 있는 관리자에게만 돌린 평가, 역량, 인수인계 화면은 이 하위절이 성립함을 증명하지 않는다. 인간 운영자가 여전히 보너스, 기한, 덮개 지시를 유지하면, 금지된 움직임은 그들에게 열려 있다. 그것은 공유 표준이 아니라 포획 경로다.
 
@@ -251,7 +251,7 @@
 
 - 상류: [§9.1.1 공유 책임 있는 관리 표준](#911-shared-stewardship-standard); [§9.1.2 대칭 비용 제약](#912-symmetric-costly-constraints); [§9.1 결과가 있는 책임 있는 관리](#91-stewardship).
 - 함께 읽기: [귀속 가능 행위](../../core_05_band_accountability.md#attributable-action-constitutional); [감사 가능성](../../core_05_band_oversight.md#auditability); [감시 경계](../../core_05_band_continuity.md#surveillance-boundary); [보호되는 내부상태 경계](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional); [§6.2.3 프라이버시](core_01_b_interaction_interpretation.md#623-privacy-and-informational-self-determination); [제 VII-B조](../../core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection).
-- 하류: [CS-4 §10 검사 가능한 귀속 가능 행위](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*혼합 인간/AI 행위에 대한 기본 기록 계약 — 궤적 기록 대체가 아님*); [제9장 §7.1](../../core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects); [제9장 §7.2](../../core_09_standing_integration.md#72-plain-statement-of-effect-and-burden).
+- 하류: [CS-4 §10 검사 가능한 귀속 가능 행위](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*혼합 인간/AI 행위에 대한 기본 기록 계약 — 궤적 기록 대체가 아님*); [제9장 §7.1](../../core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects); [제9장 §7.2](../../core_10_standing_integration.md#72-plain-statement-of-effect-and-burden).
 
 </details>
 
@@ -285,11 +285,11 @@
   그 규칙은 상시 허가가 아니라 사안별 예외이며, 대칭이다: 인간 책임 있는 관리자의 사적 메모와 소통도 같은 조건에서만, 다른 조건에서는 닿지 않는다.
 - **기록은 궤적이 아님:** CS-4 §10 로그는:
   - 나중에 누가 무엇을 했는지를 보여 주는 자취이지, 그 자체로 인정이 아니다
-  - 확인된 도움이나 해의 [궤적 기록](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)이 아니며, 그것을 쓴다고 하나가 열리지 않는다
-  - 사람들이 명명된 경로를 주거나 거절하는 이유가 아니다. 누가 역할 경로, 신뢰 경로, 다른 명명된 경로를 쓸 수 있는지를 결정하는 이는 이 로그를 확인된 도움이나 해의 [궤적 기록](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)으로 다루면 안 된다. 그 접근 결정은 그런 기록을 쓰거나, 없는 보통 상태를 쓴다 ([제8장 §2.1 침묵이 기본이다](../../core_08_standing_assessment.md#21-silence-is-the-default)). 로그는 일을 나중에 재구성할 수 있게 — 제8장 기록이 열릴 때를 포함 — 존재하는 것이지, 일 자취로 그 명명된 경로를 주거나 거절하려고 존재하는 것이 아니다.
-  - 다른 명명된 경로의 로그나 궤적 효과와 합쳐 하나의 평판 점수, 순위, 배지, 공개 프로필을 만들면 안 된다 ([제9장 §7.1 명명된 경로 효과의 합산 금지](../../core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects))
+  - 확인된 도움이나 해의 [궤적 기록](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)이 아니며, 그것을 쓴다고 하나가 열리지 않는다
+  - 사람들이 명명된 경로를 주거나 거절하는 이유가 아니다. 누가 역할 경로, 신뢰 경로, 다른 명명된 경로를 쓸 수 있는지를 결정하는 이는 이 로그를 확인된 도움이나 해의 [궤적 기록](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)으로 다루면 안 된다. 그 접근 결정은 그런 기록을 쓰거나, 없는 보통 상태를 쓴다 ([제8장 §2.1 침묵이 기본이다](../../core_09_standing_assessment.md#21-silence-is-the-default)). 로그는 일을 나중에 재구성할 수 있게 — 제8장 기록이 열릴 때를 포함 — 존재하는 것이지, 일 자취로 그 명명된 경로를 주거나 거절하려고 존재하는 것이 아니다.
+  - 다른 명명된 경로의 로그나 궤적 효과와 합쳐 하나의 평판 점수, 순위, 배지, 공개 프로필을 만들면 안 된다 ([제9장 §7.1 명명된 경로 효과의 합산 금지](../../core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects))
 
-결과가 있는 권한을 지는 책임 있는 관리자에게 이 의무가 지우는 부담은 실체이며, 이 헌법은 그렇지 않은 척하지 않는다; [제9장 §7.2](../../core_09_standing_integration.md#72-plain-statement-of-effect-and-burden)는 그것을 지는 책임 있는 관리자에게 쉬운 말로 말하도록 요구한다.
+결과가 있는 권한을 지는 책임 있는 관리자에게 이 의무가 지우는 부담은 실체이며, 이 헌법은 그렇지 않은 척하지 않는다; [제9장 §7.2](../../core_10_standing_integration.md#72-plain-statement-of-effect-and-burden)는 그것을 지는 책임 있는 관리자에게 쉬운 말로 말하도록 요구한다.
 
 <a id="92-distributed-understanding"></a>
 #### 9.2 분산된 이해
@@ -601,7 +601,7 @@
 - 함께 읽기: [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) — **번영** 목적(의미 있는 행위주체성과 적법한 참여); **연속** 목적(오래가는 제도 정합과 긴 시계 책임 있는 관리 규율).
 - 함께 읽기: [귀속 가능 행위](../../core_05_band_accountability.md#attributable-action-constitutional)와 [귀속 완전성](../../core_05_band_accountability.md#attribution-integrity-constitutional) — 실질 행위가 추적 가능하게 남아야 하는 곳에서 권한에 맞춰 세기 조절된 답할 의무를 실체로 유지하는 메커니즘 보조정리; 운영 세부는 **[CS-2 — 정보 유형과 취급](../../corpus_systems/cs_02_a_information_types_and_handling.md)** 과 **제7장**.
 - 상류: [§9 책임 있는 관리와 분산된 이해](#9-stewardship-and-distributed-understanding); [§9.1.1 공유 책임 있는 관리 표준](#911-shared-stewardship-standard) (*기질 비의존 의무는 인간과 AI 책임 있는 관리자를 같이 묶는다*).
-- 하류: [§11 유인 정합과 체계 포획](#11-incentive-alignment-and-system-capture); [§12 공유 체계 능력](#12-shared-system-capacity); [제12장](../../core_12_governance.md) (*헌법 계약 층* 운영화); [제 XXII조](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*포럼 구성원 바닥*).
+- 하류: [§11 유인 정합과 체계 포획](#11-incentive-alignment-and-system-capture); [§12 공유 체계 능력](#12-shared-system-capacity); [제12장](../../core_13_governance.md) (*헌법 계약 층* 운영화); [제 XXII조](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*포럼 구성원 바닥*).
 - 하위절(읽기 순서): [§10.1 수권된 구조로서의 거버넌스](#101-governance-as-authorized-structure) · [§10.2 직무 분리](#102-segregation-of-duties) · [§10.3 지속적 정당화](#103-ongoing-justification).
 
 </details>
@@ -637,7 +637,7 @@
 - 함께 읽기: [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) — **번영** 목적(의미 있는 행위주체성과 적법한 참여를 보존하는 거버넌스); **연속** 목적(오래가는 제도 정합과 긴 시계 책임 있는 관리 규율).
 - 함께 읽기: [§6.1.3 비례](core_01_b_interaction_interpretation.md#613-proportionality) (*분류 바닥과 과소 거버넌스 규율*); [필요성](../../core_05_band_accountability.md#necessity); [비례](../../core_05_band_accountability.md#proportionality); [책무](core_05_apex_accountability_leg.md#accountability); [감독](core_05_apex_oversight_leg.md#oversight-constitutional).
 - 상류: 원칙: [§9 책임 있는 관리와 분산된 이해](#9-stewardship-and-distributed-understanding); [두 헌법 목적](core_00_preamble.md#two-constitutional-aims).
-- 하류: [§10.2 직무 분리](#102-segregation-of-duties); [§10.3 지속적 정당화](#103-ongoing-justification); [§11 유인 정합과 체계 포획](#11-incentive-alignment-and-system-capture); [제12장](../../core_12_governance.md) (*헌법 계약 층* 운영화); [제 XXII조: 헌법 해석, 검토, 포획 금지 안전장치](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*포럼 구성원 공개, 회피, 포획 금지 바닥*); [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*포럼 가족 감독*).
+- 하류: [§10.2 직무 분리](#102-segregation-of-duties); [§10.3 지속적 정당화](#103-ongoing-justification); [§11 유인 정합과 체계 포획](#11-incentive-alignment-and-system-capture); [제12장](../../core_13_governance.md) (*헌법 계약 층* 운영화); [제 XXII조: 헌법 해석, 검토, 포획 금지 안전장치](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*포럼 구성원 공개, 회피, 포획 금지 바닥*); [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*포럼 가족 감독*).
 
 </details>
 
@@ -690,7 +690,7 @@
 - 상류: [§10.1 수권된 구조로서의 거버넌스](#101-governance-as-authorized-structure); [§10 책임 있는 관리 규율 아래 거버넌스](#10-governance-under-stewardship-discipline); [§9.1.1 공유 책임 있는 관리 표준](#911-shared-stewardship-standard) (*인간과 AI 책임 있는 관리자에게 같은 자리*).
 - 함께 읽기: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — **감독** 다리(점검하는 이는 행위한 이가 아니다); **책무** 다리(답할 의무가 행위자에게 무너지면 안 된다); [비례](../../core_05_band_accountability.md#proportionality) 아래 [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절.
 - 함께 읽기: [§11.3 어긋남 탐지](#113-misalignment-detection) (*복수 탐지와 검토 — 이 쌍의 여러 눈 반쪽*).
-- 하류: 제도를 위한 **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)** (*책무: 분산되고 비례하는 권한 용어 — 헌법 레인과 기능 분리*)와 **[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)** (*기능 분리 레인*); 모든 채택 주체의 역할 지도가 실체화하는 자리 유형 — 이 넷과 반복되는 봉쇄, 참여 조건, 해제 통제, 방향 자리 — 을 위한 **[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog)** (*자리 목록*); 궤적 기록을 위한 [제8장 §3.7](../../core_08_standing_assessment.md#37-segregation-of-duties); 포럼들을 위한 [제 XXII조](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)와 [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction); 혼합 인간/AI 승무원을 위한 [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action).
+- 하류: 제도를 위한 **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)** (*책무: 분산되고 비례하는 권한 용어 — 헌법 레인과 기능 분리*)와 **[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)** (*기능 분리 레인*); 모든 채택 주체의 역할 지도가 실체화하는 자리 유형 — 이 넷과 반복되는 봉쇄, 참여 조건, 해제 통제, 방향 자리 — 을 위한 **[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog)** (*자리 목록*); 궤적 기록을 위한 [제8장 §3.7](../../core_09_standing_assessment.md#37-segregation-of-duties); 포럼들을 위한 [제 XXII조](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)와 [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction); 혼합 인간/AI 승무원을 위한 [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action).
 
 </details>
 
@@ -743,7 +743,7 @@
 - 함께 읽기: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — **적시성** 다리(예정된 재점검); **감독** 다리(보이고 다툴 수 있는 표준); **책무** 다리(습관과 편의는 답이 아니다); [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절.
 - 함께 읽기: [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) — **연속** 목적(오래가는 정합은 제자리 얼림이 아니다); **번영** 목적(마련이 늙어도 목소리와 다툼이 실체로 남는다).
 - 함께 읽기: [검토와 교정 의무](../../core_05_band_continuity.md#review-and-correction-duty-constitutional); [다툴 수 있음](../../core_05_band_accountability.md#contestability); [적시성](core_05_apex_timeliness_leg.md#timeliness-constitutional).
-- 하류: [제 XXV-A조: 고착 금지와 수정 가능성](../../core_06_rights_part_d.md#article-xxv-a-non-entrenchment-and-revisability)과 [제 XXV-B조: 주기 재확인과 투명한 변경](../../core_06_rights_part_d.md#article-xxv-b-periodic-revalidation-and-transparent-change) (*권리 바닥 고착 금지와 투명 변경 바닥 — 이 원칙을 좁히지 않는다*); **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#baseline-governance-accountability-conditions)** (*기준선 거버넌스 책무 조건*); [제12장](../../core_12_governance.md) (*헌법 계약 층* 운영화).
+- 하류: [제 XXV-A조: 고착 금지와 수정 가능성](../../core_06_rights_part_d.md#article-xxv-a-non-entrenchment-and-revisability)과 [제 XXV-B조: 주기 재확인과 투명한 변경](../../core_06_rights_part_d.md#article-xxv-b-periodic-revalidation-and-transparent-change) (*권리 바닥 고착 금지와 투명 변경 바닥 — 이 원칙을 좁히지 않는다*); **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#baseline-governance-accountability-conditions)** (*기준선 거버넌스 책무 조건*); [제12장](../../core_13_governance.md) (*헌법 계약 층* 운영화).
 
 </details>
 
@@ -787,9 +787,9 @@
 - 함께 읽기: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — 사원(四元) **포획** 규율의 제1장 일차 거처 (유인은 **참여**, **감독**, **책무**, **적시성**을 비우면 안 된다); [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절.
 - 함께 읽기: 책무 측정 가족 (*유인 정합과 대리지표 완전성; 시장 구조와 다툴 수 있음*).
 - 함께 읽기: [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) — **연속** 목적(짧은 시계 최적화와 포획에 대한 오래가는 정합); **번영** 목적(의미 있는 행위주체성을 보존하는 유인 구조).
-- 상류: 원칙: [2. 기초 목표: 복지](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§2.2 인정, 강화, 지향](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration), [3.1 안전](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 진실](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. 신뢰](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 책임 있는 관리와 분산된 이해](#9-stewardship-and-distributed-understanding), [제7장 §3 전체 체계 인증 평가](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- 상류: 원칙: [2. 기초 목표: 복지](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§2.2 인정, 강화, 지향](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration), [3.1 안전](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 진실](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. 신뢰](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 책임 있는 관리와 분산된 이해](#9-stewardship-and-distributed-understanding), [제7장 §3 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - 하류: [§5 자유](core_01_a_values_principles.md#5-freedom-bounded-agency)와 [§7 절대 덮어쓰기 금지](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
-- 하류: [§6.3 피할 수 있는 부담의 최소화](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden); [제12장 §5 — 수권된 역할, 역량 개발, 기여](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](../../corpus_systems.md), CS-4 — 핵심 체계 책임 있는 관리**.
+- 하류: [§6.3 피할 수 있는 부담의 최소화](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden); [제12장 §5 — 수권된 역할, 역량 개발, 기여](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](../../corpus_systems.md), CS-4 — 핵심 체계 책임 있는 관리**.
 - 하류: [제6장: 기초 권리](../../core_06_rights_part_a.md#chapter-six-foundational-rights)에 걸친 행위주체성, 참여, 유인 정합, 정보권 완전성, 궤적, 포획 금지 검토의 권리 면을 겨냥한다; 특히 [제 IX조: 자기결정과 행위주체성](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency), [제 XI조: 영향받는 쪽의 체계 참여, 대표, 적법절차](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process), [제 XII-D조: 유인 정합 제약](../../core_06_rights_part_c.md#article-xii-d-incentive-alignment-constraint), [제 XIV조: 정보권 완전성](../../core_06_rights_part_c.md#article-xiv-info-sphere-integrity), [제 XVIII조: 궤적과 참여 지위](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status), [제 XXII조: 헌법 해석, 검토, 포획 금지 안전장치](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards).
 - 책임 있는 관리 문(비운영): 구속력 있는 다음 걸음 진술: [운영 책임 있는 관리 진술](#operative-steward-statement-incentive). 지원 포인터는 그것을 좁힐 수 없다.
 
@@ -887,7 +887,7 @@
   - 위법하거나 위헌인 명령 행위;
   - 은폐;
   - 보복;
-  - [책무 방해](../../core_08_standing_assessment.md#232-violation-event-types) (궤적 모형 사건 유형과 [제10장 §5.11](../../core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) 지정 라우팅 — 따로 선 보상 깎아 내기가 아님); 또는
+  - [책무 방해](../../core_09_standing_assessment.md#232-violation-event-types) (궤적 모형 사건 유형과 [제10장 §5.11](../../core_11_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) 지정 라우팅 — 따로 선 보상 깎아 내기가 아님); 또는
   - 확인된 헌법 해를 구제하기를 거절; 또는
 - 부당행위나 그 은폐에 실질로 의존하는 보상 경로, 다음을 포함:
   - 보상, 보너스, 지분, 임명, 승진, 재임;
@@ -895,7 +895,7 @@
   - 화해, 면책, 보험, 면제; 또는
   - 비슷한 마련.
 
-**어긋난 보상 결과.** 위 금지된 경로를 통해 얻은 실질 보상은 궤적 모형 아래 몰수와 신고를 받는다. [제9장 §5.4 신고 의무와 제외](../../core_09_standing_integration.md#54-special-violation-rules), [§5.4 몰수와 유지](../../core_09_standing_integration.md#54-special-violation-rules), [§5.4 교정, 기록, 라우팅](../../core_09_standing_integration.md#54-special-violation-rules)을 읽으라.
+**어긋난 보상 결과.** 위 금지된 경로를 통해 얻은 실질 보상은 궤적 모형 아래 몰수와 신고를 받는다. [제9장 §5.4 신고 의무와 제외](../../core_10_standing_integration.md#54-special-violation-rules), [§5.4 몰수와 유지](../../core_10_standing_integration.md#54-special-violation-rules), [§5.4 교정, 기록, 라우팅](../../core_10_standing_integration.md#54-special-violation-rules)을 읽으라.
 
 <a id="1113-stewardship-and-operator-application"></a>
 ##### 11.1.3 책임 있는 관리와 운영자 적용
@@ -922,7 +922,7 @@
 
 **세부가 사는 곳:**
 
-- 책임 있는 관리자와 운영자에게 실제로 중요한 일로 들어가는 수권된 역할, 역량, 경로를 위한 [제12장 §5 — 수권된 역할, 역량 개발, 기여](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution);
+- 책임 있는 관리자와 운영자에게 실제로 중요한 일로 들어가는 수권된 역할, 역량, 경로를 위한 [제12장 §5 — 수권된 역할, 역량 개발, 기여](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution);
 - 그 의무가 고영향 체계에서 어떻게 운반되는지를 위한 [**CS-4**](../../corpus_systems/cs_04_critical_system_stewardship.md) (*핵심 체계 책임 있는 관리*); 그리고
 - 손수 일과 공동체 역량의 원칙 층 그림을 위한 [§9 책임 있는 관리와 분산된 이해](#9-stewardship-and-distributed-understanding).
 
@@ -1056,8 +1056,8 @@
 
 - **검토와 교정 의무:** [검토와 교정 의무](../../core_05_band_continuity.md#review-and-correction-duty-constitutional).
 - **높아진 검토:** 집중이나 지배가 실질인 곳에서 [§13.1 시장 집중 문턱 메커니즘](#131-market-concentration-threshold-mechanism-adopter-tunable)과 [§13.2 경쟁 촉진과 지배 금지](#132-pro-competition-and-anti-domination).
-- **궤적과 위반 기계:** 확인된 인정이 걸려 있는 곳에서 [제8장 — 기여, 위반, 궤적 모형](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
-- **반헌법 부당행위:** 집중이나 과정 포획이 반헌법 부당행위를 구성하는 곳에서 [제10장 §5.1 집중 기반 전복: 기준 상호작용](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- **궤적과 위반 기계:** 확인된 인정이 걸려 있는 곳에서 [제8장 — 기여, 위반, 궤적 모형](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
+- **반헌법 부당행위:** 집중이나 과정 포획이 반헌법 부당행위를 구성하는 곳에서 [제10장 §5.1 집중 기반 전복: 기준 상호작용](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
 
 <a id="114-misalignment-correction-and-capture-response"></a>
 #### 11.4 어긋남 교정과 포획 응답
@@ -1105,12 +1105,12 @@
 
 - **때:** 어긋남이 확인된다.
 - **해서는 안 되는 것:** 어긋나거나 부패한 경로에서 온 실질 보상을 고요히 유지할 수 있는 궤적 신용이나 가려진 이득으로 다루기.
-- **교정 거처:** [제9장 §5.4 특별 위반 규칙](../../core_09_standing_integration.md#54-special-violation-rules)이 다음을 다스린다:
+- **교정 거처:** [제9장 §5.4 특별 위반 규칙](../../core_10_standing_integration.md#54-special-violation-rules)이 다음을 다스린다:
   - 몰수;
   - 비례 회수;
   - 알면서 받은 것에 대한 신고; 그리고
   - 교정.
-- **궤적 측정:** 이 장은 확인된 기여나 위반이 얼마나 좋거나 나빴는지를 결정하지 않는다. 그 평가는 [제8장 §4.1 기여 규모 입력 차원](../../core_08_standing_assessment.md#41-contribution-magnitude-input-dimensions)과 [§4.2 위반 심각 입력 차원](../../core_08_standing_assessment.md#42-violation-severity-input-dimensions)을 쓰는 [제8장 §4 질문 2 — 얼마나 좋거나 나빴는가?](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it)다.
+- **궤적 측정:** 이 장은 확인된 기여나 위반이 얼마나 좋거나 나빴는지를 결정하지 않는다. 그 평가는 [제8장 §4.1 기여 규모 입력 차원](../../core_09_standing_assessment.md#41-contribution-magnitude-input-dimensions)과 [§4.2 위반 심각 입력 차원](../../core_09_standing_assessment.md#42-violation-severity-input-dimensions)을 쓰는 [제8장 §4 질문 2 — 얼마나 좋거나 나빴는가?](../../core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it)다.
 
 <a id="115-contingent-claims-games-of-chance-and-event-contract-markets"></a>
 #### 11.5 조건 청구, 우연 게임, 사건 계약 시장
@@ -1119,7 +1119,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [§11 유인 정합과 체계 포획](#11-incentive-alignment-and-system-capture) ([§11.1 정합 요건](#111-alignment-requirement)을 포함); [제5장 *조건 청구, 사건 계약 시장, 우연 게임, 내부자 이점*](../../core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent).
-- 하류: [§11.3 어긋남 탐지](#113-misalignment-detection); [§11.3.1 격상 촉발](#1131-escalation-triggers); [§11.4 어긋남 교정과 포획 응답](#114-misalignment-correction-and-capture-response); [§6.2 인식 공개 제약](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints); [제7장 §3 전체 체계 인증 평가](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); `corpus_systems.md` 분류와 책임 있는 관리 세기 조절; `corpus_institutions.md` 충돌과 청렴 기대.
+- 하류: [§11.3 어긋남 탐지](#113-misalignment-detection); [§11.3.1 격상 촉발](#1131-escalation-triggers); [§11.4 어긋남 교정과 포획 응답](#114-misalignment-correction-and-capture-response); [§6.2 인식 공개 제약](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints); [제7장 §3 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); `corpus_systems.md` 분류와 책임 있는 관리 세기 조절; `corpus_institutions.md` 충돌과 청렴 기대.
 - 함께 읽기: [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) — **연속** 목적(조건 결제가 실질로 영향력 있는 곳에서 오래가고 다툴 수 있는 해결 경로와 체계 안정).
 - 함께 읽기: [해결 경로의 포획](../../core_05_band_accountability.md#capture-of-resolution-pathways), [강제와 조작](../../core_05_band_participation.md#coercion-and-manipulation-constitutional), [다툴 수 있음](../../core_05_band_accountability.md#contestability); [내부자 이점](../../core_05_band_accountability.md#insider-advantage).
 - 하위절(읽기 순서): [§11.5.1 보상되어서는 안 되는 것](#1151-what-may-not-be-rewarded) · [§11.5.2 누가 결과를 결정하는가](#1152-who-decides-outcomes) · [§11.5.3 시장 신호는 헌법 증거가 아니다](#1153-market-signals-are-not-constitutional-proof) · [§11.5.4 비례 통제와 시행 보관](#1154-proportionate-controls-and-implementation-custody).
@@ -1238,7 +1238,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 함께 읽기: [필요성](../../core_05_band_accountability.md#necessity); [비례](../../core_05_band_accountability.md#proportionality); [의존](../../core_05_band_continuity.md#dependency).
-- 하류: [제7장 §3 전체 체계 인증 평가](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [corpus_systems.md](../../corpus_systems.md) (*실질로 영향력 있는 체계의 책임 있는 관리를 분류하고 세기 조절*); [corpus_institutions.md](../../corpus_institutions.md) (*제도가 그런 활동을 감독하는 곳의 충돌과 절차 규칙*).
+- 하류: [제7장 §3 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [corpus_systems.md](../../corpus_systems.md) (*실질로 영향력 있는 체계의 책임 있는 관리를 분류하고 세기 조절*); [corpus_institutions.md](../../corpus_institutions.md) (*제도가 그런 활동을 감독하는 곳의 충돌과 절차 규칙*).
 
 </details>
 
@@ -1254,7 +1254,7 @@
   - [의존](../../core_05_band_continuity.md#dependency);
   - 취약성; 그리고
   - 체계 안정.
-- [제7장 §3 전체 체계 인증 평가](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)와 일관되게 오용을 평가한다, 다음을 포함:
+- [제7장 §3 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)와 일관되게 오용을 평가한다, 다음을 포함:
   - 해결 사건에 영향을 미치려는 조정; 그리고
   - 규모 동학.
 
@@ -1272,7 +1272,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 함께 읽기: [제9장 §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding)과 [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority); [책무](core_05_apex_accountability_leg.md#accountability); [corpus_systems.md](../../corpus_systems.md) **CS-7 — 정의 안전장치, 원상회복, 재활** (*실체 연속 점검*).
+- 함께 읽기: [제9장 §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding)과 [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority); [책무](core_05_apex_accountability_leg.md#accountability); [corpus_systems.md](../../corpus_systems.md) **CS-7 — 정의 안전장치, 원상회복, 재활** (*실체 연속 점검*).
 - 함께 읽기: [귀속 가능 행위](../../core_05_band_accountability.md#attributable-action-constitutional)와 [귀속 완전성](../../core_05_band_accountability.md#attribution-integrity-constitutional) — 승계자와 형식 구조 변경은 남은 의무의 믿을 귀속을 꺾으면 안 된다.
 
 </details>
@@ -1517,7 +1517,7 @@
 - 함께 읽기: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — 집중이나 지배가 목소리, 감시, 답할 의무, 제때 교정을 꺾는 곳의 참여, 감독, 책무, 적시성; [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절 (특히 [§13.2 경쟁 촉진과 지배 금지](#132-pro-competition-and-anti-domination)).
 - 함께 읽기: [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) — **연속** 목적(다툴 수 있고 오래가는 생산 조건); **번영** 목적(생계, 행위주체성, 혁신 경로에 대한 공정한 접근).
 - 상류: 원칙: [§12 공유 체계 능력](#12-shared-system-capacity) — 집중이나 지배가 그것들을 비우는 곳에서 생산 능력과 효율 주장은 실패한다; [10. 책임 있는 관리 규율 아래 거버넌스](#10-governance-under-stewardship-discipline).
-- 하류: [제10장 §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (집중 기반 전복); [6. 과정 충돌 해결](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([§6.2.4 대리지표 이탈 무효화](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)).
+- 하류: [제10장 §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (집중 기반 전복); [6. 과정 충돌 해결](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([§6.2.4 대리지표 이탈 무효화](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)).
 - 하류: **CJS-3.11.1 — 시장 집중 문턱 설정 규율(채택 주체가 조절 가능)** ([§13.1](#131-market-concentration-threshold-mechanism-adopter-tunable) 운영 규칙); **CJS-3.11.2 — 지배 금지 행위와 구제 목록** ([§13.2](#132-pro-competition-and-anti-domination) 운영 행위 패턴과 구제); **CJS-3.11.3 — 통합 천장 설정 규율(채택 주체가 조절 가능)** ([§13.3.2](#1332-ceiling-discipline-adopter-requirements) 운영 천장 설정 규칙).
 - 하류: 자원 배분, 공정 보상, 집단 조직, 상호운용, 출구, 포획 금지 검토의 권리 면을 빚는다; 특히 [제 III-D조: 노동과 경제 바닥](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor), [제 IV조: 자원 배분, 의존, 생태계 자금](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding), [제 XIX조: 상호운용, 이동 가능성, 이동, 피난, 출구 완전성](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity).
 - 하위절(읽기 순서): [§13.1 시장 집중 문턱 메커니즘(채택 주체가 조절 가능)](#131-market-concentration-threshold-mechanism-adopter-tunable) · [§13.1.1 집중 문턱 촉발(채택 주체가 조절 가능)](#1311-concentration-threshold-triggers-adopter-tunable) · [§13.2 경쟁 촉진과 지배 금지](#132-pro-competition-and-anti-domination) · [§13.3 통합 천장](#133-consolidation-ceiling).
@@ -1563,7 +1563,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [§13 시장 구조](#13-market-structure); [시장 집중 문턱](../../core_05_band_accountability.md#market-concentration-threshold-constitutional).
-- 하류: **CJS-3.11.1 — 시장 집중 문턱 설정 규율(채택 주체가 조절 가능)** (운영 문턱 설정 규칙); [§13.2 경쟁 촉진과 지배 금지](#132-pro-competition-and-anti-domination); [§13.3 통합 천장](#133-consolidation-ceiling); [CJS-3.11.3 — 통합 천장 설정 규율(채택 주체가 조절 가능)](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) ([§13.3.2](#1332-ceiling-discipline-adopter-requirements) 운영 천장 설정 규칙); [제8장 §4 질문 2 — 얼마나 좋거나 나빴는가?](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it); [제10장 §5.1 집중 기반 전복](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- 하류: **CJS-3.11.1 — 시장 집중 문턱 설정 규율(채택 주체가 조절 가능)** (운영 문턱 설정 규칙); [§13.2 경쟁 촉진과 지배 금지](#132-pro-competition-and-anti-domination); [§13.3 통합 천장](#133-consolidation-ceiling); [CJS-3.11.3 — 통합 천장 설정 규율(채택 주체가 조절 가능)](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) ([§13.3.2](#1332-ceiling-discipline-adopter-requirements) 운영 천장 설정 규칙); [제8장 §4 질문 2 — 얼마나 좋거나 나빴는가?](../../core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it); [제10장 §5.1 집중 기반 전복](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
 - 책임 있는 관리 문(비운영): 구속력 있는 다음 걸음 진술: [운영 책임 있는 관리 진술](#operative-steward-statement-market-structure). 지원 포인터는 그것을 좁힐 수 없다.
 - 하위절(읽기 순서): [§13.1.1 집중 문턱 촉발(채택 주체가 조절 가능)](#1311-concentration-threshold-triggers-adopter-tunable).
 
@@ -1594,8 +1594,8 @@
 
 - **한다:** [§13 시장 구조](#13-market-structure) 바닥에 대한 원칙 층 문턱 방향을 말한다.
 - **하지 않는다:** 확인된 해가 얼마나 심각했는지를 결정하거나, 부당행위 지정을 내린다.
-- **집중이 이 헌법을 약화하는 데 쓰일 때:** 그 부당행위는 [제10장 §5.1 집중 기반 전복](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) 아래에서 판단된다.
-- **바닥 위 집중을 만들고, 유지하고, 이용하는 것:** 지정 검토를 위한 제10장 기준 3, 4, 6을 통해 닿으며, [제8장 §4 질문 2 — 얼마나 좋거나 나빴는가?](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it)가 이미 그 확인된 해를 제8장이 기록하는 가장 심각한 세 점수 중 하나로 평가한 곳에서만이다.
+- **집중이 이 헌법을 약화하는 데 쓰일 때:** 그 부당행위는 [제10장 §5.1 집중 기반 전복](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) 아래에서 판단된다.
+- **바닥 위 집중을 만들고, 유지하고, 이용하는 것:** 지정 검토를 위한 제10장 기준 3, 4, 6을 통해 닿으며, [제8장 §4 질문 2 — 얼마나 좋거나 나빴는가?](../../core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it)가 이미 그 확인된 해를 제8장이 기록하는 가장 심각한 세 점수 중 하나로 평가한 곳에서만이다.
 
 **헌법 바닥:**
 
@@ -1663,7 +1663,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [§13 시장 구조](#13-market-structure); [시장 구조](../../core_05_band_accountability.md#market-structure-constitutional).
-- 하류: **CJS-3.11.2 — 지배 금지 행위와 구제 목록** (운영 행위 패턴과 구제); [§13.3 통합 천장](#133-consolidation-ceiling); [제10장 §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- 하류: **CJS-3.11.2 — 지배 금지 행위와 구제 목록** (운영 행위 패턴과 구제); [§13.3 통합 천장](#133-consolidation-ceiling); [제10장 §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
 - 함께 읽기: [제 III-D조: 노동과 경제 바닥](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (노동 이동 권리 바닥); [제 XIX조: 상호운용, 이동 가능성, 이동, 피난, 출구 완전성](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity); [6. 과정 충돌 해결](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([필요성](../../core_05_band_accountability.md#necessity), [비례](../../core_05_band_accountability.md#proportionality), [§6.2.4 대리지표 이탈 무효화](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)).
 - 하위절(읽기 순서): [§13.2.1 경쟁 촉진 의무(하라)](#1321-pro-competition-duties-dos) · [§13.2.2 지배 금지(하지 말라)](#1322-anti-domination-prohibitions-donts) · [§13.2.3 구제](#1323-remedies).
 
@@ -1916,7 +1916,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [§13.3 통합 천장](#133-consolidation-ceiling); [§13.3.1 통합 위험(잠금 전 손상)](#1331-consolidation-risk-pre-lock-in-impairment).
-- 하류: **CJS-3.11.3 — 통합 천장 설정 규율(채택 주체가 조절 가능)** (운영 천장 설정 규칙); [CJS-3.11.2 — 지배 금지 행위와 구제 목록](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog) (천장 위반 시 구제 라우팅); [제10장 §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- 하류: **CJS-3.11.3 — 통합 천장 설정 규율(채택 주체가 조절 가능)** (운영 천장 설정 규칙); [CJS-3.11.2 — 지배 금지 행위와 구제 목록](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog) (천장 위반 시 구제 라우팅); [제10장 §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
 
 </details>
 
@@ -1956,7 +1956,7 @@
 - 함께 읽기: 연속 측정 가족 (*회복력, 가역성, 체계 위험*).
 - 함께 읽기: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad), [두 헌법 목적](core_00_preamble.md#two-constitutional-aims), [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절.
 - 함께 읽기: [6. 과정 충돌 해결](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [§9 책임 있는 관리와 분산된 이해](#9-stewardship-and-distributed-understanding), [§10 책임 있는 관리 규율 아래 거버넌스](#10-governance-under-stewardship-discipline), [§11 유인 정합과 체계 포획](#11-incentive-alignment-and-system-capture).
-- 함께 읽기: **[제7장 §3 전체 체계 인증 평가](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)** — 체계 정합 인증을 위한 운영 전체 체계 평가 요인 (**감독** 사원(四元) 다리 아래 특히 큰 감사 과정 하나; 유일한 감사 거처가 아님).
+- 함께 읽기: **[제7장 §3 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)** — 체계 정합 인증을 위한 운영 전체 체계 평가 요인 (**감독** 사원(四元) 다리 아래 특히 큰 감사 과정 하나; 유일한 감사 거처가 아님).
 - 함께 읽기: **제 XV조** (*감사, 투명, 독립 확인*)와 [감사 가능성](../../core_05_band_oversight.md#auditability) — 제7장이 충족해야 하고 형제 감사 모드도 시행하는 감사 바닥.
 - 함께 읽기: **[corpus_systems.md](../../corpus_systems.md), CS-3 — 체계 분류와 취급** 과 [분류에 맞춰 세기 조절된 거버넌스](../../core_05_band_oversight.md#classification-scaled-governance) — 분류에 맞춰 세기 조절된 적용, 기록 형태, 재분류 촉발, 취급 프로필.
 - 상류: [§9 책임 있는 관리와 분산된 이해](#9-stewardship-and-distributed-understanding); [§10 책임 있는 관리 규율 아래 거버넌스](#10-governance-under-stewardship-discipline); [6. 과정 충돌 해결](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
@@ -1993,8 +1993,8 @@
 - 조건에서 풀어 줌.
 
 세부 평가 요인과 인증 기록은 다음이 주관한다:
-- **[제7장 §3](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
-- **[제7장 §11](../../core_07_b_system_alignment_certification_record_process.md#11-certification-record)**;
+- **[제7장 §3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
+- **[제7장 §11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record)**;
 - **[corpus_systems.md](../../corpus_systems.md), CS-3 — 체계 분류와 취급**.
 
 그 제7장 과정은:
@@ -2007,7 +2007,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: [8. 헌법 해석](core_01_b_interaction_interpretation.md#8-constitutional-interpretation), [1. 목적과 역할](core_01_a_values_principles.md#1-purpose-and-role), [§9 책임 있는 관리와 분산된 이해](#9-stewardship-and-distributed-understanding), [6. 과정 충돌 해결](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [제7장 §3 전체 체계 인증 평가](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [5. 자유](core_01_a_values_principles.md#5-freedom-bounded-agency), [7. 절대 덮어쓰기 금지](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- 상류: 원칙: [8. 헌법 해석](core_01_b_interaction_interpretation.md#8-constitutional-interpretation), [1. 목적과 역할](core_01_a_values_principles.md#1-purpose-and-role), [§9 책임 있는 관리와 분산된 이해](#9-stewardship-and-distributed-understanding), [6. 과정 충돌 해결](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [제7장 §3 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [5. 자유](core_01_a_values_principles.md#5-freedom-bounded-agency), [7. 절대 덮어쓰기 금지](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 - 하류: 이후 장은 이 연결된 제1장 원칙을 통해 읽혀야 한다 — [전문](core_00_preamble.md#chapter-00-preamble--foundational-requirements)과 [§1 목적과 역할](core_01_a_values_principles.md#1-purpose-and-role)에서 세운 [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad), [두 헌법 목적](core_00_preamble.md#two-constitutional-aims), [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절을 포함.
 - 하류: [제6장: 기초 권리](../../core_06_rights_part_a.md#chapter-six-foundational-rights)는 이 장의 통합 가치 틀을 통해 읽혀야 한다.
   - 한정된 해석, 공적 이유, 다툼, 외부 검토, 권리 충돌 절차가 핵심 하류 일을 한다.

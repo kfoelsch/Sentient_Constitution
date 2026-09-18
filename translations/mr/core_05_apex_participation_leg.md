@@ -109,7 +109,7 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - पुढे: सहभाग मापन कुटुंब — फक्त-दुवा रोलअप; पदनिहाय स्तर पान-व्याख्यांवर राहतात — पहा [तत्त्वनिष्ठ न्याय्यपणा](../../core_05_band_participation.md#substantive-fairness-constitutional), [संरक्षित-वैशिष्ट्य प्रतिनिधी आणि असमान प्रभाव](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [सुलभता](../../core_05_band_participation.md#accessibility-constitutional), [शैक्षणिक कर्तृत्व](../../core_05_band_participation.md#educational-agency), [अर्थपूर्ण कर्तृत्व](../../core_05_band_participation.md#meaningful-agency), आणि सातत्य पट्ट्यातील [गोपनीयता (सूचनात्मक)](../../core_05_band_continuity.md#privacy-informational-cluster) समूह.
-- सोबत वाचा: अध्याय सहा, [अध्याय सात](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification), किंवा समाविष्ट साधने — बंधनकारक भेदभाव-निषेध, समायोजन, शिक्षण, किंवा गोपनीयता आवश्यकता तेव्हा उद्भवतात जेव्हा ती साधने त्या स्पष्ट मागतात.
+- सोबत वाचा: अध्याय सहा, [अध्याय सात](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification), किंवा समाविष्ट साधने — बंधनकारक भेदभाव-निषेध, समायोजन, शिक्षण, किंवा गोपनीयता आवश्यकता तेव्हा उद्भवतात जेव्हा ती साधने त्या स्पष्ट मागतात.
 
 </details>
 

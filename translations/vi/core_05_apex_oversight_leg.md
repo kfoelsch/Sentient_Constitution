@@ -119,7 +119,7 @@ Các **thuật ngữ độc lập** sống dưới [Giám sát: thuật ngữ đ
 | Sự thật và tính toàn vẹn nhận thức | Yêu sách, hồ sơ, và công bố có đủ trung thực cho quyết định an toàn không? | Bảo vệ tham gia có thông tin, khắc phục, và sửa chữa |
 | Đáng tin cậy | Sự dựa có chính đáng không, hay tin cậy đang bị suy giảm? | Bảo vệ các hữu tri khỏi tin cậy giả và sự dựa gây hiểu lầm |
 
-Các yêu cầu ràng buộc về độ tin cậy, kiểm toán, hoặc rà soát nảy sinh khi Chương Sáu, [Chương Bảy](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification), hoặc các văn kiện đã hợp nhất đòi chúng một cách rõ.
+Các yêu cầu ràng buộc về độ tin cậy, kiểm toán, hoặc rà soát nảy sinh khi Chương Sáu, [Chương Bảy](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification), hoặc các văn kiện đã hợp nhất đòi chúng một cách rõ.
 
 
 ---

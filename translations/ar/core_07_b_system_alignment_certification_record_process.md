@@ -7,7 +7,7 @@
 
 > المحتوى التالي **توجيه للقارئ فقط**. لا يضيف التزامات ملزمة ولا ينقصها ولا يضيّقها في هذا الملف أو في فصول أخرى.
 >
-> هذا الملف **تجريب بلغة القارئ** لـ[الفصل السابع، الجزء ب بالإنجليزية](../../core_07_b_system_alignment_certification_record_process.md). **ليس** جزءًا ملزمًا من دستور الكائنات الواعية. **ليس** دستورًا ثانيًا. **ليس** طبعة إرسال. وهو **مثبّت** على `SC-Corpus-2026.08.09`. إذا بدا أن هذه الترجمة والأصل الإنجليزي يختلفان، يفوز الملف المرقّم [`core_07_b_system_alignment_certification_record_process.md`](../../core_07_b_system_alignment_certification_record_process.md). ترتيب القراءة وبيانات الطبعة تُحفظ في [README.md](../../README.md). المنهج والمسرد: [translations/ar/README.md](README.md).
+> هذا الملف **تجريب بلغة القارئ** لـ[الفصل السابع، الجزء ب بالإنجليزية](../../core_08_b_system_alignment_certification_record_process.md). **ليس** جزءًا ملزمًا من دستور الكائنات الواعية. **ليس** دستورًا ثانيًا. **ليس** طبعة إرسال. وهو **مثبّت** على `SC-Corpus-2026.08.09`. إذا بدا أن هذه الترجمة والأصل الإنجليزي يختلفان، يفوز الملف المرقّم [`core_07_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md). ترتيب القراءة وبيانات الطبعة تُحفظ في [README.md](../../README.md). المنهج والمسرد: [translations/ar/README.md](README.md).
 >
 > يحتوي **الفصل السابع، الجزء ب** — محتويات **سجل** التصديق، والشفافية وقابلية الطعن، وأدوار مكوّنات المنتدى، وتسلسل الإشراف، وجسر الوضعية، وإعادة الفتح (**§11–§16**، استمرارًا من الجزء أ §1–§10). **الجزء أ** — متطلبات التقييم — في [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md).
 >
@@ -30,7 +30,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: [الجزء أ §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*غرض التصديق وخريطة طريق التقييم*)؛ [الجزء أ §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) حتى [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*مخرجات التقييم للسجل*)؛ [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad)؛ [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims).
-- أسفل: [§11](#11-certification-record) حتى [§16](#16-reopening-drift-and-non-evasion)؛ [الفصل الثامن](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)؛ [الفصل الحادي عشر](core_11_forum.md#chapter-eleven-forums-and-jurisdiction).
+- أسفل: [§11](#11-certification-record) حتى [§16](#16-reopening-drift-and-non-evasion)؛ [الفصل الثامن](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)؛ [الفصل الحادي عشر](core_11_forum.md#chapter-eleven-forums-and-jurisdiction).
 - يُقرأ مع: [corpus_forum.md](../../corpus_forum.md)، **CF-5** و**CF-7**.
 
 </details>
@@ -392,7 +392,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: [§11](#11-certification-record) حتى [§13](#13-forum-supervision-and-component-roles) (*سجل التصديق وإشراف المنتدى*)؛ [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad)؛ [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims)؛ [المدخلات الموثّقة للوضعية](core_05_band_accountability.md#verified-inputs-for-standing).
-- أسفل: [الفصل الثامن](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*سجلات الوضعية وبوابة المدخلات الموثّقة*)؛ [الفصل التاسع](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*آثار الوضعية والتكامل*).
+- أسفل: [الفصل الثامن](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*سجلات الوضعية وبوابة المدخلات الموثّقة*)؛ [الفصل التاسع](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*آثار الوضعية والتكامل*).
 - يُقرأ مع: **المادة III-A** (*الوصول إلى ضروريات البقاء حيث يغلق التصديق التسليم*).
 
 </details>
@@ -450,8 +450,8 @@
 
 - سجل التصديق **لا** يطبّق آثار الوضعية؛
 - يملك هذا الفصل **تصديق مواءمة النظام والسجلات ذات الصلة** فقط — انظر [الديباجة — سجل المالكين الإيجابي](core_00_preamble.md#4-principles-definitions-and-rights)، مقروءًا مع [رصّة السلطة والتسلسل الداخلي](core_05_band_integrative.md#authority-stack)؛
-- يملك [الفصل الثامن](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) سجلات الوضعية والقياس النقي المحور؛
-- يملك [الفصل التاسع](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) تكامل الوضعية وآثارها؛
+- يملك [الفصل الثامن](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) سجلات الوضعية والقياس النقي المحور؛
+- يملك [الفصل التاسع](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) تكامل الوضعية وآثارها؛
 - يجوز لهذا الفصل أن يمدّ بمدخلات موثّقة عبر البوابة أعلاه فقط؛
 - ويجب ألا يبتلع أو يعيد بيان أو ينقل التزامات مالك الفصل الثامن أو الفصل التاسع.
 
@@ -466,7 +466,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*سوء التصنيف وعدم المواءمة*)؛ [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*عيوب تقييم المخاطر والإفصاح عنها*)؛ [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) (*التمثيل المضلّل للبصمة وعدم المواءمة*)؛ [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) (*التمثيل المضلّل لتدفق الموارد وعدم مواءمة الاستخراج وعدم كفاية الدعم*)؛ [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) (*عدم مواءمة نمط التمييز والتهرّب بالمؤشر البديل*)؛ [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) (*عدم مواءمة تيسير الوصول والتسهيل الورقي فقط*)؛ [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) (*عدم مواءمة غموض التقييم وحراسة الاعتمادات وعدم مواءمة التقادم المفروض*)؛ [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*عدم مواءمة الثقة الزائفة وعدم مواءمة الحافز المنحرف وعدم مواءمة نزاهة التعافي*)؛ [§12](#12-transparency-auditability-and-contestability) (*قابلية الطعن*)؛ [§14](#14-supervisory-sequence-and-contestability-chain) (*الطعن الموثوق وإعادة الفتح*)؛ [الفصل الثالث §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) و[§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*سلامة التعريف والتهرّب*)؛ [الفصل الثالث §2.1 أنماط التهرّب الشائعة](core_03_definition_integrity.md#21-common-evasion-patterns) (*تهرّب النطاق والحدود*)؛ [صك النطاق](core_05_band_continuity.md#charter) (*عدم تطابق صك النطاق والسلوك والمراجعة المتأخرة*).
-- أسفل: [الفصل الحادي عشر](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*إشراف المنتدى المعاد فتحه*)؛ [الفصل الثامن](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*بوابة المدخلات الموثّقة حيث تسند الوقائع نتائج سلبية*).
+- أسفل: [الفصل الحادي عشر](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*إشراف المنتدى المعاد فتحه*)؛ [الفصل الثامن](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*بوابة المدخلات الموثّقة حيث تسند الوقائع نتائج سلبية*).
 - يُقرأ مع: [corpus_systems.md](../../corpus_systems.md) (*واجبات تنفيذ النظام المُدمَجة*)، بما في ذلك **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*إعادة التصنيف وحوكمة دورة الحياة*) لإعادة التقييم الدورية لأنواع البيانات، و**[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*متطلب إعادة التصنيف*) لمحفّزات إعادة تقييم تصنيف النظام وتحقق SAC.
 
 </details>
@@ -515,4 +515,4 @@
 
 **الملف التالي (هذه اللغة):** [core_08_standing_assessment.md](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)
 
-**الأصل الملزم:** [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md)
+**الأصل الملزم:** [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md)

@@ -7,7 +7,7 @@
 
 > 以下内容**仅为读者指引**。不增加、减少或收窄本文件或其他章节中有约束力的义务。
 >
-> 本文件是[英语第七章，B 部分](../../core_07_b_system_alignment_certification_record_process.md)的**读者语言试点**。**不是**感知者宪法的约束性部分。**不是**第二部宪法。**不是**发送版。**钉住** `SC-Corpus-2026.08.09`。若本译文与英语原文看似不一致，以编号文件 [`core_07_b_system_alignment_certification_record_process.md`](../../core_07_b_system_alignment_certification_record_process.md) 为准。阅读顺序与版本元数据保存在 [README.md](../../README.md)。方法与用语表：[translations/zh/README.md](README.md)。
+> 本文件是[英语第七章，B 部分](../../core_08_b_system_alignment_certification_record_process.md)的**读者语言试点**。**不是**感知者宪法的约束性部分。**不是**第二部宪法。**不是**发送版。**钉住** `SC-Corpus-2026.08.09`。若本译文与英语原文看似不一致，以编号文件 [`core_07_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md) 为准。阅读顺序与版本元数据保存在 [README.md](../../README.md)。方法与用语表：[translations/zh/README.md](README.md)。
 >
 > 本文件包含**第七章，B 部分** — 认证**记录**内容、透明与可质疑性、评议所组件角色、监督顺序、轨迹桥接，以及重开（**§11–§16**，接续 A 部分 §1–§10）。**A 部分** — 评价要求 — 在 [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md)。
 >
@@ -30,7 +30,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[A 部分 §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role)（*认证宗旨与评价路线图*）；[A 部分 §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) 至 [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation)（*供记录使用的评价输出*）；[宪法四元](core_00_preamble.md#constitutional-tetrad)；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)。
-- 下游：[§11](#11-certification-record) 至 [§16](#16-reopening-drift-and-non-evasion)；[第八章](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)；[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)。
+- 下游：[§11](#11-certification-record) 至 [§16](#16-reopening-drift-and-non-evasion)；[第八章](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)；[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)。
 - 一并阅读：[corpus_forum.md](../../corpus_forum.md)，**CF-5** 与 **CF-7**。
 
 </details>
@@ -392,7 +392,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[§11](#11-certification-record) 至 [§13](#13-forum-supervision-and-component-roles)（*认证记录与评议所监督*）；[宪法四元](core_00_preamble.md#constitutional-tetrad)；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)；[轨迹的经核实输入](core_05_band_accountability.md#verified-inputs-for-standing)。
-- 下游：[第八章](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)（*轨迹记录与经核实输入门*）；[第九章](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)（*轨迹效果与整合*）。
+- 下游：[第八章](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)（*轨迹记录与经核实输入门*）；[第九章](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)（*轨迹效果与整合*）。
 - 一并阅读：**Article III-A**（*认证设门交付之处的生存必需通路*）。
 
 </details>
@@ -450,8 +450,8 @@
 
 - 认证记录**不**适用轨迹效果；
 - 本章仅主责**系统对齐认证及相关记录** — 见 [序言 — 宪法主责登记](core_00_preamble.md#4-principles-definitions-and-rights)，与 [权威栈与内部层级](core_05_band_integrative.md#authority-stack) 一并阅读；
-- [第八章](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) 主责轨迹记录与轴纯测量；
-- [第九章](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) 主责轨迹整合与效果；
+- [第八章](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) 主责轨迹记录与轴纯测量；
+- [第九章](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) 主责轨迹整合与效果；
 - 本章仅可通过上方的门提供经核实输入；
 - 它不得吞并、重述或挪走第八章或第九章的主责义务。
 
@@ -466,7 +466,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)（*错分类与错位*）；[§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors)（*风险评价与风险披露缺陷*）；[§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation)（*足迹虚假陈述与错位*）；[§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation)（*资源流虚假陈述、抽取错位与支持不足*）；[§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation)（*歧视模式错位与代理规避*）；[§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation)（*可及性错位与仅纸面便利安排*）；[§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation)（*评估不透明错位、凭证设门与强加过时错位*）；[§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation)（*虚假信任错位、扭曲激励错位与恢复完整性错位*）；[§12](#12-transparency-auditability-and-contestability)（*可质疑性*）；[§14](#14-supervisory-sequence-and-contestability-chain)（*可信质疑与重开*）；[第三章 §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) 与 [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior)（*定义完整性与规避*）；[第三章 §2.1 常见规避模式](core_03_definition_integrity.md#21-common-evasion-patterns)（*范围与边界规避*）；[章程](core_05_band_continuity.md#charter)（*章程—行为不匹配与逾期审查*）。
-- 下游：[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*被重开的评议所监督*）；[第八章](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)（*事实支撑不利发现时的经核实输入门*）。
+- 下游：[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*被重开的评议所监督*）；[第八章](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)（*事实支撑不利发现时的经核实输入门*）。
 - 一并阅读：[corpus_systems.md](../../corpus_systems.md)（*被纳入的系统实施义务*），包括定期数据类型再评价的 **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)**（*再分类与生命周期治理*），以及系统类再评估触发与 SAC 核验的 **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)**（*再分类要求*）。
 
 </details>
@@ -515,4 +515,4 @@
 
 **下一文件（本语种）：** [core_08_standing_assessment.md](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)
 
-**有约束力的原文：** [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md)
+**有约束力的原文：** [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md)

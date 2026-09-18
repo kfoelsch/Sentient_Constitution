@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Split Chapter Seven into Part A (evaluation) and Part B (record/process)."""
+"""Split Chapter Eight into Part A (evaluation) and Part B (record/process)."""
 
 from __future__ import annotations
 
@@ -7,13 +7,13 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-OLD = ROOT / "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation"
-PART_A = ROOT / "core_07_a_system_alignment_certification_evaluation.md"
-PART_B = ROOT / "core_07_b_system_alignment_certification_record_process.md"
+OLD = ROOT / "core_08_a_system_alignment_certification_evaluation.md"
+PART_A = ROOT / "core_08_a_system_alignment_certification_evaluation.md"
+PART_B = ROOT / "core_08_b_system_alignment_certification_record_process.md"
 STUB = OLD
 
-PART_A_NAME = "core_07_a_system_alignment_certification_evaluation.md"
-PART_B_NAME = "core_07_b_system_alignment_certification_record_process.md"
+PART_A_NAME = "core_08_a_system_alignment_certification_evaluation.md"
+PART_B_NAME = "core_08_b_system_alignment_certification_record_process.md"
 
 SPLIT_MARKER = '<a id="11-certification-record"></a>'
 
@@ -55,59 +55,59 @@ def split_body(text: str) -> tuple[str, str]:
 
 
 def part_a_header_block() -> str:
-    return """<a id="chapter-seven-system-alignment-certification"></a>
-<a id="chapter-seven-system-alignment-certification-and-recognition"></a>
-<a id="chapter-seven-part-a-certification-evaluation"></a>
-# CHAPTER SEVEN, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION
+    return """<a id="chapter-eight-system-alignment-certification"></a>
+<a id="chapter-eight-system-alignment-certification-and-recognition"></a>
+<a id="chapter-eight-part-a-certification-evaluation"></a>
+# CHAPTER EIGHT, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Seven, Part A** — certification **evaluation** requirements (system class, whole-system factors, and domain evaluation hooks). **Part B** — certification record, forum process, standing bridge, and reopening — is in [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Eight, Part A** — certification **evaluation** requirements (system class, whole-system factors, and domain evaluation hooks). **Part B** — certification record, forum process, standing bridge, and reopening — is in [`core_08_b_system_alignment_certification_record_process.md`](core_08_b_system_alignment_certification_record_process.md).
 >
-> - **Constitutional owner (joint with Part B):** forum-supervised **system alignment certification and related records** — evaluation domains (Part A); certification-record duties, recognition outcomes, revalidation cadence, supervisory sequence, contestability chain, and verified-input bridge to Chapter Eight (Part B).
-> - **Verification substrate owner:** [Chapter Four — Burden of Proof, Traceability, and Verification](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) (within Chapters Two through Four) owns burden allocation, compliance evidence, definition traceability, observability, and security-constrained verification. Chapter Seven **applies** that discipline to system alignment certification records; it does **not** restate Chapter Four sections **1** through **5**.
-> - **Implementation owner:** system-class handling, CS-5, and forum-process detail in designated implementation files must remain consistent with Chapter Seven and may be stricter where the corpus already provides stricter-rule logic.
-> - **Anti-relocation rule:** Part A does not restate Chapter Five canonical definitions, Chapter Three anti-evasion discipline (see [Part B §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)), Chapter Eight contribution or standing classification, or Chapter Nine standing effects. **[Part B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing)** states the standing bridge boundary explicitly.
+> - **Constitutional owner (joint with Part B):** forum-supervised **system alignment certification and related records** — evaluation domains (Part A); certification-record duties, recognition outcomes, revalidation cadence, supervisory sequence, contestability chain, and verified-input bridge to Chapter Nine (Part B).
+> - **Verification substrate owner:** [Chapter Four — Burden of Proof, Traceability, and Verification](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) (within Chapters Two through Four) owns burden allocation, compliance evidence, definition traceability, observability, and security-constrained verification. Chapter Eight **applies** that discipline to system alignment certification records; it does **not** restate Chapter Four sections **1** through **5**.
+> - **Implementation owner:** system-class handling, CS-5, and forum-process detail in designated implementation files must remain consistent with Chapter Eight and may be stricter where the corpus already provides stricter-rule logic.
+> - **Anti-relocation rule:** Part A does not restate Chapter Five canonical definitions, Chapter Three anti-evasion discipline (see [Part B §16](core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)), Chapter Nine contribution or standing classification, or Chapter Ten standing effects. **[Part B §15](core_08_b_system_alignment_certification_record_process.md#15-relationship-to-standing)** states the standing bridge boundary explicitly.
 >
 > **Upstream:** Chapter Five definitions and Chapters Two through Four record, verification, burden, and tracing discipline.
-> **Downstream:** [Part B](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process) (*record, forum process, and standing bridge*); Chapter Eight standing records and verified inputs; Chapter Nine standing effects; Chapter Eleven forum supervision and system alignment certification pathways.
+> **Downstream:** [Part B](core_08_b_system_alignment_certification_record_process.md#chapter-eight-part-b-certification-record-and-process) (*record, forum process, and standing bridge*); Chapter Nine standing records and verified inputs; Chapter Ten standing effects; Chapter Twelve forum supervision and system alignment certification pathways.
 
 </details>
 
 <br>
 
-Chapter Seven, **Part A**, is the constitutional owner of **system alignment certification evaluation**. Record contents, forum supervision, contest paths, and the standing bridge are in **[Part B](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process)**.
+Chapter Eight, **Part A**, is the constitutional owner of **system alignment certification evaluation**. Record contents, forum supervision, contest paths, and the standing bridge are in **[Part B](core_08_b_system_alignment_certification_record_process.md#chapter-eight-part-b-certification-record-and-process)**.
 
 <br>
 """
 
 
 def part_b_header_block() -> str:
-    return """<a id="chapter-seven-part-b-certification-record-and-process"></a>
-# CHAPTER SEVEN, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS
+    return """<a id="chapter-eight-part-b-certification-record-and-process"></a>
+# CHAPTER EIGHT, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Seven, Part B** — certification **record** contents, transparency and contestability, forum component roles, supervisory sequence, standing bridge, and reopening. **Part A** — evaluation requirements — is in [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Eight, Part B** — certification **record** contents, transparency and contestability, forum component roles, supervisory sequence, standing bridge, and reopening. **Part A** — evaluation requirements — is in [`core_08_a_system_alignment_certification_evaluation.md`](core_08_a_system_alignment_certification_evaluation.md).
 >
 > - **Constitutional owner (joint with Part A):** forum-supervised **system alignment certification and related records**.
-> - **Evaluation inputs:** [Part A §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) supply evaluation outputs reflected on the certification record.
-> - **Anti-relocation rule:** Part B does not restate Part A evaluation mechanics, Chapter Five canonical definitions, Chapter Eight standing classification, or Chapter Nine standing effects. **§15** states the standing bridge boundary explicitly.
+> - **Evaluation inputs:** [Part A §2](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§10](core_08_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) supply evaluation outputs reflected on the certification record.
+> - **Anti-relocation rule:** Part B does not restate Part A evaluation mechanics, Chapter Five canonical definitions, Chapter Nine standing classification, or Chapter Ten standing effects. **§15** states the standing bridge boundary explicitly.
 >
-> **Upstream:** [Part A](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation); Chapter Eleven forum supervision; Chapters Two through Four verification discipline.
-> **Downstream:** Chapter Eight standing records and verified inputs; Chapter Nine standing effects.
+> **Upstream:** [Part A](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation); Chapter Twelve forum supervision; Chapters Two through Four verification discipline.
+> **Downstream:** Chapter Nine standing records and verified inputs; Chapter Ten standing effects.
 
 </details>
 
 <br>
 
-Chapter Seven, **Part B**, is the constitutional owner of the **certification record**, **forum-supervised process**, and **standing bridge** for system alignment certification. Evaluation requirements are in **[Part A](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)**.
+Chapter Eight, **Part B**, is the constitutional owner of the **certification record**, **forum-supervised process**, and **standing bridge** for system alignment certification. Evaluation requirements are in **[Part A](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)**.
 
 <br>
 
@@ -116,8 +116,8 @@ Chapter Seven, **Part B**, is the constitutional owner of the **certification re
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Part A §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*certification purpose and evaluation roadmap*); [Part A §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*evaluation outputs for the record*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
-- Downstream: [§11](#11-certification-record) through [§16](#16-reopening-drift-and-non-evasion); [Chapter Eight](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); [Chapter Eleven](core_11_forum.md#chapter-eleven-forums-and-jurisdiction).
+- Upstream: [Part A §1](core_08_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*certification purpose and evaluation roadmap*); [Part A §2](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§10](core_08_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*evaluation outputs for the record*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
+- Downstream: [§11](#11-certification-record) through [§16](#16-reopening-drift-and-non-evasion); [Chapter Nine](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model); [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction).
 - Read with: [corpus_forum.md](corpus_forum.md), **CF-5** and **CF-7**.
 
 </details>
@@ -126,29 +126,29 @@ Chapter Seven, **Part B**, is the constitutional owner of the **certification re
 
 *In plain terms: Part A says what must be **evaluated**. Part B says what must go **on the record**, how **forums** run the process, how people **challenge** outcomes, and how certification may feed **standing** — without letting certification substitute for standing classification or effects.*
 
-Forum-supervised certification must produce a bounded **System Certification Record** under [§11](#11-certification-record) that reflects Part A evaluation outputs, satisfies [§12](#12-transparency-auditability-and-contestability), follows the forum roles in [§13](#13-forum-supervision-and-component-roles) and supervisory sequence in [§14](#14-supervisory-sequence-and-contestability-chain), and may supply verified inputs to Chapter Eight only through [§15](#15-relationship-to-standing). Defective certification, misclassification, and evasion route under [§16](#16-reopening-drift-and-non-evasion).
+Forum-supervised certification must produce a bounded **System Certification Record** under [§11](#11-certification-record) that reflects Part A evaluation outputs, satisfies [§12](#12-transparency-auditability-and-contestability), follows the forum roles in [§13](#13-forum-supervision-and-component-roles) and supervisory sequence in [§14](#14-supervisory-sequence-and-contestability-chain), and may supply verified inputs to Chapter Nine only through [§15](#15-relationship-to-standing). Defective certification, misclassification, and evasion route under [§16](#16-reopening-drift-and-non-evasion).
 
 <br>
 """
 
 
 def stub_content() -> str:
-    return """<a id="chapter-seven-system-alignment-certification-index"></a>
-# CHAPTER SEVEN: SYSTEM ALIGNMENT CERTIFICATION (READING INDEX)
+    return """<a id="chapter-eight-system-alignment-certification-index"></a>
+# CHAPTER EIGHT: SYSTEM ALIGNMENT CERTIFICATION (READING INDEX)
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> **Chapter Seven** is split across two binding files read as one instrument:
+> **Chapter Eight** is split across two binding files read as one instrument:
 >
 > | Part | File | Owns |
 > |------|------|------|
-> | **Part A — Evaluation** | [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md) | §1–§10: purpose, system class, whole-system evaluation, domain evaluation hooks, illustrative class walkthroughs |
-> | **Part B — Record and process** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16: certification record, transparency/contestability, forum roles, supervisory sequence, standing bridge, reopening |
+> | **Part A — Evaluation** | [`core_08_a_system_alignment_certification_evaluation.md`](core_08_a_system_alignment_certification_evaluation.md) | §1–§10: purpose, system class, whole-system evaluation, domain evaluation hooks, illustrative class walkthroughs |
+> | **Part B — Record and process** | [`core_08_b_system_alignment_certification_record_process.md`](core_08_b_system_alignment_certification_record_process.md) | §11–§16: certification record, transparency/contestability, forum roles, supervisory sequence, standing bridge, reopening |
 >
-> Legacy anchors from the former single-file Chapter Seven are preserved on the Part A and Part B files. Generic **Chapter Seven** links in other files route to the appropriate part by section number.
+> Legacy anchors from the former single-file Chapter Eight are preserved on the Part A and Part B files. Generic **Chapter Eight** links in other files route to the appropriate part by section number.
 
 </details>
 
@@ -156,19 +156,19 @@ def stub_content() -> str:
 
 Read **Part A** first for evaluation requirements; **Part B** for record, forum process, and standing bridge.
 
-- [Chapter Seven, Part A — Evaluation](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
-- [Chapter Seven, Part B — Record and Process](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process)
+- [Chapter Eight, Part A — Evaluation](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
+- [Chapter Eight, Part B — Record and Process](core_08_b_system_alignment_certification_record_process.md#chapter-eight-part-b-certification-record-and-process)
 """
 
 
 def patch_part_a_body(body: str) -> str:
     # Remove old chapter header from split body (lines 1-26 approx)
     body = re.sub(
-        r"^<a id=\"chapter-seven-system-alignment-certification\"></a>\s*\n"
-        r"<a id=\"chapter-seven-system-alignment-certification-and-recognition\"></a>\s*\n"
-        r"# CHAPTER SEVEN: SYSTEM ALIGNMENT CERTIFICATION\s*\n"
+        r"^<a id=\"chapter-eight-system-alignment-certification\"></a>\s*\n"
+        r"<a id=\"chapter-eight-system-alignment-certification-and-recognition\"></a>\s*\n"
+        r"# CHAPTER EIGHT: SYSTEM ALIGNMENT CERTIFICATION\s*\n"
         r"<details>.*?</details>\s*\n<br>\s*\n"
-        r"Chapter Seven is the constitutional owner of \*\*system alignment certification and related records\*\*\.\s*\n<br>\s*\n",
+        r"Chapter Eight is the constitutional owner of \*\*system alignment certification and related records\*\*\.\s*\n<br>\s*\n",
         "",
         body,
         count=1,
@@ -213,7 +213,7 @@ def patch_part_a_body(body: str) -> str:
     footer = f"""
 <br>
 
-*Continue to record, forum process, and standing bridge:* [Chapter Seven, Part B — Record and Process]({PART_B_NAME}#chapter-seven-part-b-certification-record-and-process) ([§11]({PART_B_NAME}#11-certification-record) through [§16]({PART_B_NAME}#16-reopening-drift-and-non-evasion)).
+*Continue to record, forum process, and standing bridge:* [Chapter Eight, Part B — Record and Process]({PART_B_NAME}#chapter-eight-part-b-certification-record-and-process) ([§11]({PART_B_NAME}#11-certification-record) through [§16]({PART_B_NAME}#16-reopening-drift-and-non-evasion)).
 """
     return body.rstrip() + footer + "\n"
 
@@ -287,12 +287,12 @@ def anchor_target(anchor: str) -> str:
 
 
 def migrate_corpus_links(text: str) -> str:
-    old = "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation"
+    old = "core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation"
 
     def repl(m: re.Match[str]) -> str:
         anchor = m.group(1) or ""
         if not anchor:
-            return f"{PART_A_NAME}#chapter-seven-part-a-certification-evaluation"
+            return f"{PART_A_NAME}#chapter-eight-part-a-certification-evaluation"
         target = anchor_target(anchor)
         return f"{target}#{anchor}"
 
@@ -315,7 +315,7 @@ def main() -> None:
     PART_B.write_text(part_b, encoding="utf-8")
     STUB.write_text(stub_content(), encoding="utf-8")
 
-    # Migrate all markdown/json in repo (except the three ch7 files we just wrote)
+    # Migrate all markdown/json in repo (except the three ch8 files we just wrote)
     skip = {PART_A, PART_B, STUB}
     patterns = ["**/*.md", "**/*.json", "**/*.py", "**/*.csv"]
     changed: list[Path] = []
@@ -329,7 +329,7 @@ def main() -> None:
                 text = path.read_text(encoding="utf-8")
             except (UnicodeDecodeError, IsADirectoryError):
                 continue
-            if "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation" not in text:
+            if "core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation" not in text:
                 continue
             new_text = migrate_corpus_links(text)
             if new_text != text:
@@ -341,10 +341,10 @@ def main() -> None:
     cp_text = cp.read_text(encoding="utf-8")
     if PART_A_NAME not in cp_text:
         cp_text = cp_text.replace(
-            '    "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",',
-            '    "core_07_a_system_alignment_certification_evaluation.md",\n'
-            '    "core_07_b_system_alignment_certification_record_process.md",\n'
-            '    "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation",',
+            '    "core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation",',
+            '    "core_08_a_system_alignment_certification_evaluation.md",\n'
+            '    "core_08_b_system_alignment_certification_record_process.md",\n'
+            '    "core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation",',
         )
         cp.write_text(cp_text, encoding="utf-8")
         changed.append(cp)

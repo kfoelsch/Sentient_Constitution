@@ -6,15 +6,15 @@
 
 > El contenido siguiente es **solo orientación para quien lee**. No añade, quita ni estrecha obligaciones vinculantes en este archivo ni en otros capítulos.
 >
-> Este archivo es un **piloto de idioma de lectura** del [Capítulo Trece en inglés](../../core_13_non_regression.md). **No** es parte vinculante de la Constitución Senciente. **No** es una segunda constitución. **No** es una edición de envío. Está **fijado** a `SC-Corpus-2026.08.09`. Si esta traducción y el original en inglés parecen discrepar, gana el archivo numerado [`core_13_non_regression.md`](../../core_13_non_regression.md). El orden de lectura y los metadatos de edición se mantienen en [README.md](../../README.md). Método y glosario: [translations/es/README.md](README.md).
+> Este archivo es un **piloto de idioma de lectura** del [Capítulo Trece en inglés](../../core_14_non_regression.md). **No** es parte vinculante de la Constitución Senciente. **No** es una segunda constitución. **No** es una edición de envío. Está **fijado** a `SC-Corpus-2026.08.09`. Si esta traducción y el original en inglés parecen discrepar, gana el archivo numerado [`core_13_non_regression.md`](../../core_14_non_regression.md). El orden de lectura y los metadatos de edición se mantienen en [README.md](../../README.md). Método y glosario: [translations/es/README.md](README.md).
 >
-> Contiene el **Capítulo Trece**: no regresión sustantiva y validez sustantiva de la enmienda (Prueba 1). El **Capítulo Catorce** está en [`core_14_expansion_supremacy.md`](../../core_14_expansion_supremacy.md). El **Capítulo Quince** está en [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md). La validez de la enmienda debe preservar ambas [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims) — **Florecimiento** y **Continuidad** — y no debe vaciar la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad) por debajo de los requisitos de [enjuego material](core_00_preamble.md#material-stake). La numeración de capítulos y las referencias cruzadas coinciden con el instrumento integrado.
+> Contiene el **Capítulo Trece**: no regresión sustantiva y validez sustantiva de la enmienda (Prueba 1). El **Capítulo Catorce** está en [`core_14_expansion_supremacy.md`](../../core_15_expansion_supremacy.md). El **Capítulo Quince** está en [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md). La validez de la enmienda debe preservar ambas [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims) — **Florecimiento** y **Continuidad** — y no debe vaciar la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad) por debajo de los requisitos de [enjuego material](core_00_preamble.md#material-stake). La numeración de capítulos y las referencias cruzadas coinciden con el instrumento integrado.
 
 
 >
 > **Anterior (este idioma):** [core_12_governance.md](core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
 >
-> **Siguiente (aún en inglés):** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+> **Siguiente (aún en inglés):** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 > **Arco de lectura:** §1 piso de no regresión → §2 Prueba 1 → §3 antievasión y remisión → §4 alcance de capa
 </details>
 
@@ -37,7 +37,7 @@
 
 - Origen: [Capítulo Uno](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [Capítulos Dos a Cuatro](core_02_definition_structure.md) integridad y verificación; [Capítulo Seis](core_06_rights_part_a.md#chapter-six-foundational-rights) Piso de Derechos; [Capítulo Doce](core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) requisitos de legitimidad y de administración responsable.
 - Subsecciones: [§1](#1-non-regression-floor); [§2](#2-test-1-substantive-non-regression-validity); [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral); [§4](#4-layer-scope).
-- Destino: [Capítulo Catorce](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) expansión y supremacía; [Capítulo Quince](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) validez procedimental, ratificación y requisitos de enmienda; [Capítulo Ocho](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) y [Capítulo Diez](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) para la clasificación canónica donde enrutan los disparadores de remisión.
+- Destino: [Capítulo Catorce](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) expansión y supremacía; [Capítulo Quince](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) validez procedimental, ratificación y requisitos de enmienda; [Capítulo Ocho](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) y [Capítulo Diez](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) para la clasificación canónica donde enrutan los disparadores de remisión.
 - Leer con: [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) recorrido no operativo de los **Capítulos Once a Catorce** sobre el cambio constitucional y la incorporación.
 
 </details>
@@ -96,7 +96,7 @@ El debilitamiento material incluye el estrechamiento indirecto mediante:
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origen: [§1](#1-non-regression-floor) definición del piso de no regresión.
-- Destino: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) evasión y remisión de inconducta; [Capítulo Quince](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) Pruebas 2–4 y requisitos procedimentales (inválido si falla la Prueba 1 con independencia del procedimiento).
+- Destino: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) evasión y remisión de inconducta; [Capítulo Quince](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) Pruebas 2–4 y requisitos procedimentales (inválido si falla la Prueba 1 con independencia del procedimiento).
 - Leer con: [Capítulo Uno](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) restricciones de principio no negociables; [Capítulo Doce](core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) obligaciones de legitimidad.
 
 </details>
@@ -157,8 +157,8 @@ La inconducta **forzada** o de **nulificación** se enruta por los **criterios 5
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origen: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) disciplina solo de remisión; [Capítulo Ocho](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) y [Capítulo Diez](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) titulares canónicos.
-- Destino: [Capítulo Quince §12](../../core_15_amendment_ratification.md#12-layer-scope) disciplina espejada de capa procedimental; texto de implementación para la mecánica de ejecución de la revisión.
-- Leer con: [Pila de autoridad y jerarquía interna](core_05_band_integrative.md#owner-non-relocation) y el [Preámbulo — registro positivo de titulares](core_00_preamble.md#4-principles-definitions-and-rights); [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) sobre la vía de cambio y la incorporación; [Capítulo Quince](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) para las pruebas de validez que no duplican la taxonomía de clasificación de casilla.
+- Destino: [Capítulo Quince §12](../../core_16_amendment_ratification.md#12-layer-scope) disciplina espejada de capa procedimental; texto de implementación para la mecánica de ejecución de la revisión.
+- Leer con: [Pila de autoridad y jerarquía interna](core_05_band_integrative.md#owner-non-relocation) y el [Preámbulo — registro positivo de titulares](core_00_preamble.md#4-principles-definitions-and-rights); [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) sobre la vía de cambio y la incorporación; [Capítulo Quince](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) para las pruebas de validez que no duplican la taxonomía de clasificación de casilla.
 
 </details>
 
@@ -187,7 +187,7 @@ Las adiciones futuras que toquen lenguaje con sabor a ilícito, a sanción o a c
 > - **medición general de contribución y de violación** (Eje de Contribución / Eje de Violación) — **Capítulo Ocho** en [core_08_standing_assessment.md](core_08_standing_assessment.md); **efectos de trayectoria e integración** — **Capítulo Nueve** en [core_09_standing_integration.md](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration);
 > - **casillas numéricas del Eje de Contribución y del Eje de Violación** — la **escala unificada del Capítulo Ocho §7**, con registros separados y casillas de Violación controladas solo por el impacto verificado; y la **designación de inconducta anticonstitucional** emparejada para una casilla calificadora 7, 8 o 9 del Eje de Violación — **Capítulo Diez** en [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct);
 > - **flujo operativo de foro y procedimiento adjudicativo** — **Capítulo Once** y [corpus_forum.md](../../corpus_forum.md);
-> - **validez procedimental y de custodia** para la enmienda, la ratificación y la adopción — **Capítulo Quince** en [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity); y
+> - **validez procedimental y de custodia** para la enmienda, la ratificación y la adopción — **Capítulo Quince** en [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity); y
 > - **procedimiento institucional detallado, mecánica de dotación de personal e integración estructural conjunta entre implementaciones** para la ejecución de la revisión — texto de implementación designado y capítulos titulares nombrados en el [Preámbulo — registro positivo de titulares](core_00_preamble.md#4-principles-definitions-and-rights).
 >
 > Las capas titulares no deben leerse como si reubicaran los estándares de validez constitucional fuera de los **Capítulos Trece y Quince**, la autoridad de medición del Eje de Contribución / Eje de Violación fuera de la **escala unificada del Capítulo Ocho §7**, o la autoridad de designación de inconducta anticonstitucional fuera del **Capítulo Diez**. El Capítulo Diez no asigna la casilla numérica. Para un recorrido de arquitectura no operativo, véase [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md).
@@ -198,6 +198,6 @@ Las adiciones futuras que toquen lenguaje con sabor a ilícito, a sanción o a c
 
 **Archivo anterior:** [core_12_governance.md](core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
 
-**Siguiente archivo (aún en inglés):** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+**Siguiente archivo (aún en inglés):** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 
-**Original vinculante:** [core_13_non_regression.md](../../core_13_non_regression.md)
+**Original vinculante:** [core_13_non_regression.md](../../core_14_non_regression.md)

@@ -9,7 +9,7 @@
 
 > கீழே உள்ள உள்ளடக்கம் **வாசிப்பவருக்கான வழிகாட்டல் மட்டும்**. இது இந்தக் கோப்பிலோ பிற அத்தியாயங்களிலோ பிணைக்கும் கடமைகளைச் சேர்க்கவோ, குறைக்கவோ, சுருக்கவோ செய்யாது.
 >
-> இந்தக் கோப்பு [ஆங்கில அத்தியாயம் பத்து, பகுதி அவின்](../../core_10_a_misconduct_designation.md) **வாசிப்பு-மொழி முன்னோடி**. இது உணர்வுள்ளோர் அரசியலமைப்பின் **பிணைக்கும் பகுதி அல்ல**. இது **இரண்டாவது அரசியலமைப்பு அல்ல**. இது **அனுப்பும் பதிப்பு அல்ல**. இது `SC-Corpus-2026.08.09`-இல் **பொருத்தப்பட்டுள்ளது**. இந்த மொழிபெயர்ப்பும் ஆங்கில மூலமும் முரண்படுவதாகத் தோன்றினால், எண்ணிடப்பட்ட [`core_10_a_misconduct_designation.md`](../../core_10_a_misconduct_designation.md) வெல்லும். வாசிப்பு வரிசையும் பதிப்பு மீத்தரவும் [README.md](../../README.md)-இல் பேணப்படுகின்றன. முறையும் சொற்களஞ்சியமும்: [translations/ta/README.md](README.md).
+> இந்தக் கோப்பு [ஆங்கில அத்தியாயம் பத்து, பகுதி அவின்](../../core_11_a_misconduct_designation.md) **வாசிப்பு-மொழி முன்னோடி**. இது உணர்வுள்ளோர் அரசியலமைப்பின் **பிணைக்கும் பகுதி அல்ல**. இது **இரண்டாவது அரசியலமைப்பு அல்ல**. இது **அனுப்பும் பதிப்பு அல்ல**. இது `SC-Corpus-2026.08.09`-இல் **பொருத்தப்பட்டுள்ளது**. இந்த மொழிபெயர்ப்பும் ஆங்கில மூலமும் முரண்படுவதாகத் தோன்றினால், எண்ணிடப்பட்ட [`core_10_a_misconduct_designation.md`](../../core_11_a_misconduct_designation.md) வெல்லும். வாசிப்பு வரிசையும் பதிப்பு மீத்தரவும் [README.md](../../README.md)-இல் பேணப்படுகின்றன. முறையும் சொற்களஞ்சியமும்: [translations/ta/README.md](README.md).
 >
 > இது **அத்தியாயம் பத்து, பகுதி அவை** கொண்டுள்ளது — பெயரிடல் முடிவுச் சட்டகம், அளவுகோல் தொகுப்பு, மீறல் அச்சு `s = 7–9` பெயரிடல் இணைப்பு, முறையான நடைமுறைக் காப்புகள், நிவாரணம், தடுப்புப் பூட்டுகள், தன்னார்வ பொது பொறுப்புக்கூறல் வெளிப்பாடு. **பகுதி ஆ** — பெயரிடப்பட்ட பாங்கு பயன்பாடுகளும் அளவுகோல் வழிமாற்றமும் — [`core_10_b_misconduct_pattern_applications.md`](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)-இல் உள்ளது.
 >
@@ -17,7 +17,7 @@
 > - **அளவீட்டு எல்லை:** அத்தியாயம் எட்டு மட்டும் தன் ஒருங்கிணைந்த விகிதாசார LEQU அளவீட்டின் கீழ் எண் தாக்க இடத்தை ஒதுக்குகிறது. இந்த அத்தியாயம் அந்த அளவீட்டைப் **பதிலீடு செய்யாது** மாற்றாது.
 > - **இடம்மாற்றா விதி:** பகுதி அ பகுதி ஆ பாங்கு பட்டியல்களையோ, அத்தியாயம் ஒன்பது நிலைத்தடப் பூட்டுகளையோ, அத்தியாயங்கள் பதின்மூன்று முதல் பதினைந்து மாற்ற-பாதை செல்லுபடி விதிகளையோ மீண்டும் கூறாது.
 >
-> **s = 7, 8, அல்லது 9**-இல் அரசியலமைப்புக்கு எதிரான தவறான நடத்தை அளவில் **நான்மக் கைப்பற்றுதல்** — [இரண்டு அரசியலமைப்பு நோக்கங்களின்](core_00_preamble.md#two-constitutional-aims) கீழ் [தொடர்ச்சி நோக்குடன்](core_00_preamble.md#continuity) படியுங்கள். மாற்ற-பாதை செல்லுபடி இடைவினைகள் [அத்தியாயங்கள் பதின்மூன்று முதல் பதினைந்தில்](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) தொடர்கின்றன; நீதிக் கட்டுப்பாடுகள் [அத்தியாயம் ஆறு பகுதி இல்](core_06_rights_part_d.md) இருக்கின்றன.
+> **s = 7, 8, அல்லது 9**-இல் அரசியலமைப்புக்கு எதிரான தவறான நடத்தை அளவில் **நான்மக் கைப்பற்றுதல்** — [இரண்டு அரசியலமைப்பு நோக்கங்களின்](core_00_preamble.md#two-constitutional-aims) கீழ் [தொடர்ச்சி நோக்குடன்](core_00_preamble.md#continuity) படியுங்கள். மாற்ற-பாதை செல்லுபடி இடைவினைகள் [அத்தியாயங்கள் பதின்மூன்று முதல் பதினைந்தில்](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) தொடர்கின்றன; நீதிக் கட்டுப்பாடுகள் [அத்தியாயம் ஆறு பகுதி இல்](core_06_rights_part_d.md) இருக்கின்றன.
 >
 > **மேல்வழி:** அத்தியாயம் எட்டு நிலைத்தட அளவீடு; அத்தியாயம் ஒன்பது பெயரிடல் சுட்டி.
 > **கீழ்வழி:** [பகுதி ஆ](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications) (*பாங்கு பயன்பாடுகள்*); இறுதிப் பெயரிடலுக்குப் பின் அத்தியாயம் ஒன்பது நம்பிக்கைப் பூட்டும் நிலைத்தட-விளைவு ஒருங்கிணைப்பும்; அத்தியாயம் பதினொன்று மன்ற வழிமாற்றம்; அத்தியாயம் பன்னிரண்டு ஆட்சி நியாய விளைவுகள்.
@@ -73,8 +73,8 @@
 - மேல்வழி: [அத்தியாயம் எட்டு](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*கேள்விகள் 1 மற்றும் 2; சரிபார்க்கப்பட்ட பதிவுகளும் நிலைத்தட அளவீடும்*).
 - மேல்வழிச் சுட்டி: [அத்தியாயம் ஒன்பது §2](core_09_standing_integration.md#2-integration-record-and-decision-order) தகுதிபெறும் மீறல் அச்சு இடம் 7–9 கண்டுபிடிப்புகளைப் பெயரிடலுக்கு மட்டும் இங்கு வழிமாற்றுகிறது.
 - இந்தக் கோப்பு: மீறல் அச்சு `s` = 7–9-க்கு இறுதி அரசியலமைப்புக்கு எதிரான தவறான நடத்தைப் பெயரிடல்; பெயரிடல் அளவுகோல்கள்; முறையான நடைமுறைக் காப்புகள்; அத்தியாயங்கள் பதின்மூன்று முதல் பதினைந்து எல்லை. பெயரிடப்பட்ட-பாங்கு வழிமாற்றம் [பகுதி ஆவில்](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications) தொடர்கிறது.
-- கீழ்வழி: [அத்தியாயம் ஒன்பது](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*இறுதிப் பெயரிடலுக்குப் பின் நம்பிக்கைப் பூட்டும் நிலைத்தட-விளைவு ஒருங்கிணைப்பும்*); [அத்தியாயம் பதினொன்று](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*மன்ற வழிமாற்றமும் சான்றளிப்பும்*); [அத்தியாயம் பன்னிரண்டு](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) (*ஆட்சி நியாய விளைவுகள்*).
-- இதனுடன் படிக்க: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [அத்தியாயங்கள் பதின்மூன்று முதல் பதினைந்து](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) (*மாற்ற-பாதை நடத்தை அளவுகோல்கள் 1–4-ஐத் தொடலாம்*).
+- கீழ்வழி: [அத்தியாயம் ஒன்பது](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*இறுதிப் பெயரிடலுக்குப் பின் நம்பிக்கைப் பூட்டும் நிலைத்தட-விளைவு ஒருங்கிணைப்பும்*); [அத்தியாயம் பதினொன்று](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*மன்ற வழிமாற்றமும் சான்றளிப்பும்*); [அத்தியாயம் பன்னிரண்டு](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) (*ஆட்சி நியாய விளைவுகள்*).
+- இதனுடன் படிக்க: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [அத்தியாயங்கள் பதின்மூன்று முதல் பதினைந்து](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) (*மாற்ற-பாதை நடத்தை அளவுகோல்கள் 1–4-ஐத் தொடலாம்*).
 
 </details>
 
@@ -100,7 +100,7 @@
 - காப்புகளும் ஒழுக்கமும்: [§4](#4-due-process-safeguards-for-slot-assignment) (*முறையான நடைமுறைக் காப்புகள், நிவாரணம், தடுத்தல்*); [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*நிவாரணமும் திருத்தமும் (அரசியலமைப்புக்கு எதிரானது)*); [§4.2](#4-2-prevention-anti-constitutional-locks) (*தடுத்தல் — அரசியலமைப்புக்கு எதிரான பூட்டுகள்*); [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*தன்னார்வ பொது பொறுப்புக்கூறல் வெளிப்பாடு (அரசியலமைப்புக்கு எதிரானது)*).
 - பாங்கு பயன்பாடுகள்: [§5](core_10_b_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing) (*பெயரிடப்பட்ட பாங்குகள் அதே பெயரிடல் அளவுகோல்களுக்கு வழிமாற்றப்படுகின்றன*).
 - மாற்ற-பாதை எல்லை: [§1](#1-cross-chapter-discipline) (*அத்தியாயங்கள் பதின்மூன்று முதல் பதினைந்து எல்லை*).
-- இதனுடன் படிக்க: [அத்தியாயங்கள் பதின்மூன்று முதல் பதினைந்து](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) **பிற்போக்கு ஏமாற்று** மற்றும் மாற்ற-பாதை நடத்தை **அளவுகோல்கள் 1–4**-ஐத் தொடக்கூடிய இடத்தில்.
+- இதனுடன் படிக்க: [அத்தியாயங்கள் பதின்மூன்று முதல் பதினைந்து](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) **பிற்போக்கு ஏமாற்று** மற்றும் மாற்ற-பாதை நடத்தை **அளவுகோல்கள் 1–4**-ஐத் தொடக்கூடிய இடத்தில்.
 - நான்மக் கால்(கள்): **பங்கேற்பு**, **மேற்பார்வை**, **பொறுப்புக்கூறல்**, **காலந்தவறாமை** (அளவில் நான்மக் கைப்பற்றுதல்). முதன்மை நோக்கம்(ங்கள்): **தொடர்ச்சி** (முதன்மை), **செழிப்பு**. [பொருள் பங்கு](core_00_preamble.md#material-stake) அளவீடு காப்புகளுக்கும் தீவிரத்துக்கும் பொருந்தும்.
 
 </details>
@@ -432,4 +432,4 @@
 
 **அடுத்த கோப்பு (இந்த மொழியில்):** [core_10_b_misconduct_pattern_applications.md](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)
 
-**பிணைக்கும் மூலம்:** [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md)
+**பிணைக்கும் மூலம்:** [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md)

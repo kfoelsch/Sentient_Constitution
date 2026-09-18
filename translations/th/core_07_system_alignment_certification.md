@@ -7,7 +7,7 @@
 
 > เนื้อหาต่อไปนี้เป็น **แนวทางสำหรับผู้อ่านเท่านั้น** ไม่เพิ่ม ไม่ลด และไม่ทำให้ภาระผูกพันที่ใช้บังคับแคบลงในไฟล์นี้หรือในบทอื่น
 >
-> ไฟล์นี้เป็น **โครงการนำร่องด้านภาษาสำหรับผู้อ่าน** ของ [ดัชนีการอ่านบทที่เจ็ดภาษาอังกฤษ](../../core_07_system_alignment_certification.md) **ไม่ใช่** ส่วนที่มีผลผูกพันของรัฐธรรมนูญของผู้มีความรู้สึก **ไม่ใช่** รัฐธรรมนูญฉบับที่สอง **ไม่ใช่** ฉบับจัดส่ง **ตรึงไว้** กับ `SC-Corpus-2026.08.09` หากคำแปลนี้กับต้นฉบับภาษาอังกฤษดูเหมือนไม่ตรงกัน ให้ไฟล์ที่มีหมายเลข [`core_07_system_alignment_certification.md`](../../core_07_system_alignment_certification.md) เป็นฝ่ายชนะ ลำดับการอ่านและข้อมูลฉบับคงไว้ใน [README.md](../../README.md) วิธีทำและอภิธานศัพท์: [translations/th/README.md](README.md)
+> ไฟล์นี้เป็น **โครงการนำร่องด้านภาษาสำหรับผู้อ่าน** ของ [ดัชนีการอ่านบทที่เจ็ดภาษาอังกฤษ](../../core_08_system_alignment_certification.md) **ไม่ใช่** ส่วนที่มีผลผูกพันของรัฐธรรมนูญของผู้มีความรู้สึก **ไม่ใช่** รัฐธรรมนูญฉบับที่สอง **ไม่ใช่** ฉบับจัดส่ง **ตรึงไว้** กับ `SC-Corpus-2026.08.09` หากคำแปลนี้กับต้นฉบับภาษาอังกฤษดูเหมือนไม่ตรงกัน ให้ไฟล์ที่มีหมายเลข [`core_07_system_alignment_certification.md`](../../core_08_system_alignment_certification.md) เป็นฝ่ายชนะ ลำดับการอ่านและข้อมูลฉบับคงไว้ใน [README.md](../../README.md) วิธีทำและอภิธานศัพท์: [translations/th/README.md](README.md)
 >
 > **บทที่เจ็ด** แยกเป็นสองไฟล์ที่มีผลผูกพัน อ่านเป็นตราสารเดียว:
 >
@@ -41,4 +41,4 @@
 
 **ไฟล์ถัดไป (ภาษานี้):** [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
 
-**ต้นฉบับที่มีผลผูกพัน:** [core_07_system_alignment_certification.md](../../core_07_system_alignment_certification.md)
+**ต้นฉบับที่มีผลผูกพัน:** [core_07_system_alignment_certification.md](../../core_08_system_alignment_certification.md)

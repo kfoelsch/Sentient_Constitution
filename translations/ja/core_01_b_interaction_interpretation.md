@@ -75,7 +75,7 @@
 
 <br>
 
-*平たい言葉で言えば：価値と権利は衝突する — **安全**と**真理**が先である。その後、限度は比例的、必要、危害最小化、可能な限り軽くなければならない。快適さのために真理を隠してはならない。都合のためにプライバシーを剥いではならない。自由の限度は [§5.1](core_01_a_values_principles.md#51-limitation-discipline) のもとで適用される。権利衝突には文書化された決定試験が要る。遵守について嘘をつく指標は数えない。短い時間地平の最適化は、[第七章 §3.6 時間的一貫性の制約](../../core_07_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint)のもとでの評価を通れない。**§6.1–§6.3** が取引規則、開示とプライバシーの制約、権利衝突の手続を運ぶ。*
+*平たい言葉で言えば：価値と権利は衝突する — **安全**と**真理**が先である。その後、限度は比例的、必要、危害最小化、可能な限り軽くなければならない。快適さのために真理を隠してはならない。都合のためにプライバシーを剥いではならない。自由の限度は [§5.1](core_01_a_values_principles.md#51-limitation-discipline) のもとで適用される。権利衝突には文書化された決定試験が要る。遵守について嘘をつく指標は数えない。短い時間地平の最適化は、[第七章 §3.6 時間的一貫性の制約](../../core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint)のもとでの評価を通れない。**§6.1–§6.3** が取引規則、開示とプライバシーの制約、権利衝突の手続を運ぶ。*
 
 **安全**と**真理**は、それらを侵害せずに衝突を解決できないところで優先する。
 
@@ -183,7 +183,7 @@
 - 局所または即時の危害だけを最適化しつつ、より大きなシステム的、集計、または生態的危害をつくること
 - 特定された当事者にとって危害最小化に見えるように、生態系、特定されていない感知者、または他の数えられていない当事者へ危害を外部化すること
 
-**時間地平の規律。** 長期のシステム的費用を代償とする短期最適化は、この試験に失敗する。危害最小化は、[第七章 §3.6 時間的一貫性の制約](../../core_07_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint)を勘定に入れなければならない。現在の期間では危害最小化に見えても、関連する憲法上の時間地平を横断してより大きな危害を予見可能につくる決定は不遵守である。
+**時間地平の規律。** 長期のシステム的費用を代償とする短期最適化は、この試験に失敗する。危害最小化は、[第七章 §3.6 時間的一貫性の制約](../../core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint)を勘定に入れなければならない。現在の期間では危害最小化に見えても、関連する憲法上の時間地平を横断してより大きな危害を予見可能につくる決定は不遵守である。
 
 **憲法上の床との関係。** 危害最小化は、[§6.1.4](#614-constitutional-floors-safety-and-process-character-constraints) に述べられた憲法上の床の*上で*働く。それは決して次を授権しない：
 - 権利の床の最低限の永久消滅
@@ -610,7 +610,7 @@
 - 下流：[§8.1 憲法迂回禁止原則](#81-constitutional-no-bypass-principle)、[§8.2 定義層と必要な規律](#82-definitional-layer-and-required-disciplines)、[§8.3 曖昧さの解決](#83-ambiguity-resolution)、[§8.4 憲法上の意味衝突の解決](#84-constitutional-meaning-conflict-resolution)（[§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)）；[2. 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing) から [15. 統合適用](core_01_c_stewardship_capacity_principles.md#15-integrated-application)；価値衝突の手続としての [6. 過程衝突の解決](#6-process-conflict-resolution)；[第六章：基礎権利](../../core_06_rights_part_a.md#chapter-six-foundational-rights)の非収縮既定。
 - あわせて読む：[第二から第四章](core_02_definition_structure.md)と[第五章](core_05__definitions_home.md#chapter-five-foundational-definitions) — 本章のすべての用語の解釈および証拠層。
 - あわせて読む：[憲法四元](core_00_preamble.md#constitutional-tetrad)と[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — 統合価値枠組みの解釈背景。実質的に関連するところでは[実質的利害](core_00_preamble.md#material-stake)による尺度合わせ。
-- あわせて読む：[権限スタックと内部階層](../../core_05_band_integrative.md#authority-stack)（《源層の地位》）；[第十六章](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)（《保管、版、採択の枠組み》 — 第二の衝突順の本拠ではない）；[第十三章](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)と[第十四章](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)（《§8.4 のもとでの不後退と採択者階層の門》）。
+- あわせて読む：[権限スタックと内部階層](../../core_05_band_integrative.md#authority-stack)（《源層の地位》）；[第十六章](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)（《保管、版、採択の枠組み》 — 第二の衝突順の本拠ではない）；[第十三章](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)と[第十四章](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)（《§8.4 のもとでの不後退と採択者階層の門》）。
 - あわせて読む：制度的解釈の保障については [Article XXII：憲法解釈、審査、反捕捉保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)（本節の代わりではない）。
 
 </details>
@@ -737,7 +737,7 @@
   - 拘束力ある憲法源（統合された `core_*` 文書）の内側
   - **もっとも厳格** / **より厳格**な編入本文についての編入層
 - 源層の地位は、第五章の[権限スタックと内部階層](../../core_05_band_integrative.md#authority-stack)のもとで特定される。
-- [第十六章](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)は保管、版の固定、採択の枠組みを供給する。この手続を**再述しない**。
+- [第十六章](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)は保管、版の固定、採択の枠組みを供給する。この手続を**再述しない**。
 - **運用における価値と権利の衝突** — 本文層の優先ではない — については、**[§6 過程衝突の解決](#6-process-conflict-resolution)** を適用する。
 
 **操作性の系列。** 次を**この順で**適用する：
@@ -774,7 +774,7 @@
 <a id="843-incorporation-layer"></a>
 ##### 8.4.3 編入層
 
-**§8.4.1** と **§8.4.2** のもとでの憲法読解の後、採択された実施本文における**指定義務** — 採択が実際に効力に入れた指名された手順義務 — を適用する。**[第十六章](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** のもとでの**有効な採択と編入の範囲**の内側でのみ適用する（誰が記録を持つか、どの版が固定されているか、採択がどう枠づけられるか）。
+**§8.4.1** と **§8.4.2** のもとでの憲法読解の後、採択された実施本文における**指定義務** — 採択が実際に効力に入れた指名された手順義務 — を適用する。**[第十六章](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)** のもとでの**有効な採択と編入の範囲**の内側でのみ適用する（誰が記録を持つか、どの版が固定されているか、採択がどう枠づけられるか）。
 
 下記の規則が**もっとも厳格**または**より厳格**と言うとき、それらの語は **[§8.3](#83-ambiguity-resolution)** の**曖昧さ**規則と同じ意味を持つ。**統合された全体としてのもっとも十分な保護効果**であり、孤立した**最大制限**または**抽象的厳格さ**ではない。
 
@@ -789,7 +789,7 @@
   - これは**抽象的厳格さ**の選好による実質的憲法曖昧さの解決では**ない**。
 - **ファイル間ではより厳格なものが勝つ：** 二つ以上の採択された実施ファイルが、同一の意味ある範囲のリスクについて異なる標準を定めるところでは、上記の**適用上もっとも厳格**と**より厳格な、明確に採択された基準線**と整合して、より厳格な明確に採択された規則が制御する。
   - 源層の地位はなお[権限スタックと内部階層](../../core_05_band_integrative.md#authority-stack)のもとにある。
-  - 保管、版、採択の枠組みはなお **[第十六章](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** のもとにある。
+  - 保管、版、採択の枠組みはなお **[第十六章](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)** のもとにある。
   - 引用されたプロファイルと引用された実施ラベルがそのリスクについて衝突するように見えるときも、同じ規則が適用される。
 
 <a id="844-combined-satisfaction"></a>
@@ -801,7 +801,7 @@
 - 編入された共同構造本文における**単一**の運用クラスターの規則。そのクラスターの一部だけをすることは遵守として数えない — **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)**（《運用クラスター》）を見よ
 - **依存クラスター**定義がともに満たされなければならないという第五章の規則 — **[共同呼び出しと充足](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)** を見よ
 
-**本分節がいつ適用されるか。** これらの規則は、**[第十六章](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** のもとでの有効な採択と編入の範囲の内側で、次のいずれかの場合に適用される：
+**本分節がいつ適用されるか。** これらの規則は、**[第十六章](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)** のもとでの有効な採択と編入の範囲の内側で、次のいずれかの場合に適用される：
 
 1. **一つの状況、複数のファイル：** 事実が、複数の編入された実施ファイルを適用することを求める — たとえばシステム、制度、フォーラム、または共同構造本文。どのファイルが適用されるかは、採択範囲と、それらのファイルが事実について提供する主題経路づけによって決まり、いちばん満たしやすいファイルだけを選ぶことではない。
 2. **採択が共同構造の集合を効力に入れる：** 採択文書が、指定された共同構造実施本文（**CJS** フォルダと、採択鎖に列挙された他の共同構造ファイル）を採択者に適用する。

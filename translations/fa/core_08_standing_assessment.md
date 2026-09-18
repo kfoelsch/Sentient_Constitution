@@ -7,14 +7,14 @@
 
 > محتوای زیر **فقط راهنمای خواننده** است. تکالیف الزام‌آور را در این پرونده یا فصل‌های دیگر نمی‌افزاید، کم نمی‌کند و تنگ نمی‌کند.
 >
-> این پرونده **آزمایش زبان خواننده** برای [فصل هشتم به انگلیسی](../../core_08_standing_assessment.md) است. **بخش الزام‌آور قانون اساسی حس‌مندان نیست**. **قانون اساسی دوم نیست**. **ویرایش ارسال نیست**. روی `SC-Corpus-2026.08.09` **قفل** شده است. اگر این ترجمه و اصل انگلیسی ناسازگار به‌نظر برسند، پروندهٔ شماره‌دار [`core_08_standing_assessment.md`](../../core_08_standing_assessment.md) برنده است. ترتیب خواندن و فرادادهٔ ویرایش در [README.md](../../README.md) نگه داشته می‌شود. روش و واژه‌نامه: [translations/fa/README.md](README.md).
+> این پرونده **آزمایش زبان خواننده** برای [فصل هشتم به انگلیسی](../../core_09_standing_assessment.md) است. **بخش الزام‌آور قانون اساسی حس‌مندان نیست**. **قانون اساسی دوم نیست**. **ویرایش ارسال نیست**. روی `SC-Corpus-2026.08.09` **قفل** شده است. اگر این ترجمه و اصل انگلیسی ناسازگار به‌نظر برسند، پروندهٔ شماره‌دار [`core_08_standing_assessment.md`](../../core_09_standing_assessment.md) برنده است. ترتیب خواندن و فرادادهٔ ویرایش در [README.md](../../README.md) نگه داشته می‌شود. روش و واژه‌نامه: [translations/fa/README.md](README.md).
 >
-> سه پرسش زنجیرهٔ ردپا را معرفی می‌کند، به پرسش ۱ (*چه رخ داد؟*) پاسخ می‌دهد، و به پرسش ۲ (*چقدر خوب یا بد بود؟*) پاسخ می‌دهد. پرسش ۳ (*از آن چه پیش می‌آید؟*) در [فصل نهم](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) ادامه می‌یابد، با بازبینی فقط-تعیین در [فصل دهم](../../core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) برای یافته‌های واجد شرایط محور تخلف `s` = 7–9.
+> سه پرسش زنجیرهٔ ردپا را معرفی می‌کند، به پرسش ۱ (*چه رخ داد؟*) پاسخ می‌دهد، و به پرسش ۲ (*چقدر خوب یا بد بود؟*) پاسخ می‌دهد. پرسش ۳ (*از آن چه پیش می‌آید؟*) در [فصل نهم](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) ادامه می‌یابد، با بازبینی فقط-تعیین در [فصل دهم](../../core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) برای یافته‌های واجد شرایط محور تخلف `s` = 7–9.
 
 >
 > **قبلی (این زبان):** [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process)
 >
-> **بعدی (هنوز انگلیسی):** [core_09_standing_integration.md](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)
+> **بعدی (هنوز انگلیسی):** [core_09_standing_integration.md](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)
 > **قوس خواندن:** §1 سه پرسش → §2 سوابق → §3 راستی‌آزمایی → §4 اندازه‌گیری → §5 دستور زبان خانه → §6 ورودی‌های قانون اساسی → §7 مقیاس LEQU
 </details>
 
@@ -27,7 +27,7 @@
 > | --- | --- |
 > | **۱. چه رخ داد؟** | واقعیت‌های راستی‌آزمایی‌شده را در سابقه‌ای محدود و قابل‌اعتراض برقرار کنید. |
 > | **۲. چقدر خوب یا بد بود؟** | واقعیت‌های راستی‌آزمایی‌شده را بدون ادغام کمک و آسیب اندازه بگیرید. |
-> | **۳. از آن چه پیش می‌آید؟** | به [فصل نهم](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) ادامه دهید. |
+> | **۳. از آن چه پیش می‌آید؟** | به [فصل نهم](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) ادامه دهید. |
 >
 > اتهام‌ها، محبوبیت، و روایت‌های اختلاف پاسخ پرسش ۱ نیستند. رتبه‌ای مطلوب نمی‌تواند واقعیت‌های پرسش ۱ را تأمین کند، و پیامدی مطلوب نمی‌تواند رتبهٔ پرسش ۲ را تأمین کند.
 >
@@ -41,9 +41,9 @@
 - بالادست: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims)؛ [منافع مادی](core_00_preamble.md#material-stake)؛ [دیباچه §5 زنجیره‌های عملی فرایندهای کلیدی](core_00_preamble.md#5-key-practical-process-pipelines) (*زنجیرهٔ فصل‌های هفتم تا یازدهم*).
 - بالادست: [فصل یکم](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*دسترس‌پذیری زبان ساده* — مدیریت مسئولانه بازتاب‌یافته در شرح سطح بخش)؛ [فصل یکم §9 — مدیریت مسئولانه و فهم توزیع‌شده](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) (*بنیاد لایهٔ اصل برای ردپای ردگیری‌پذیرِ پیوسته به شایستگی — اعتماد، نقش‌ها، و بازشناسی*)؛ [فصل‌های دوم تا چهارم](core_02_definition_structure.md) (*یکپارچگی، سوابق، و راستی‌آزمایی*)؛ [فصل پنجم](core_05__definitions_home.md#chapter-five-foundational-definitions) (*تعریف‌ها و برتری خوانده‌شده با فصل‌های دوم تا چهارم*).
 - بالادست: [فصل هفتم](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*گواهی هم‌راستایی نظام*)؛ [بخش ب §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*پل ردپا — فقط ورودی‌های راستی‌آزمایی‌شدهٔ بالقوه*).
-- زنجیرهٔ ردپا: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)؛ [فصل هشتم — اندازه‌گیری](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*چارچوب سه پرسش، سوابق پرسش ۱، و اندازه‌گیری پرسش ۲ — بخش‌های **1–7***)؛ [فصل نهم — آثار ردپا و یکپارچه‌سازی](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*آثار پرسش ۳ و یکپارچه‌سازی*)؛ [فصل دهم](../../core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*تعیین فقط برای محور تخلف واجد شرایط s = 7–9*).
+- زنجیرهٔ ردپا: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)؛ [فصل هشتم — اندازه‌گیری](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*چارچوب سه پرسش، سوابق پرسش ۱، و اندازه‌گیری پرسش ۲ — بخش‌های **1–7***)؛ [فصل نهم — آثار ردپا و یکپارچه‌سازی](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*آثار پرسش ۳ و یکپارچه‌سازی*)؛ [فصل دهم](../../core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) (*تعیین فقط برای محور تخلف واجد شرایط s = 7–9*).
 - زیربخش‌های این پرونده: [§1](#1-the-three-questions) (*چارچوب سه پرسش و گستره*)؛ [§2](#2-standing-records) (*پرسش ۱ — واقعیت‌های راستی‌آزمایی‌شده و سوابق*)؛ [§3](#3-standing-record-operational-requirements) (*الزامات راستی‌آزمایی و سابقه*)؛ [§4](#4-standing-measurement-evaluation-dimensions) (*پرسش ۲ — ابعاد اندازه‌گیری*)؛ [§5](#5-slot-grammar-and-lequ-calibration) (*دستور زبان خانه و مقیاس‌بندی مشترک*)؛ [§6](#6-constitutional-inputs-to-axis-assignment) (*مسیرگذاری منبع قانون اساسی*)؛ [§7](#7-unified-proportional-lequ-scale) (*مقیاس متناسب یکپارچهٔ LEQU برای هر دو محور*).
-- پایین‌دست: [فصل دهم](../../core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*فقط تعیین — اندازه‌گیری پرسش ۲ را بازنمی‌گشاید*)؛ [فصل یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*نظارت مجمع و مسیرگذاری*)؛ [اصل XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*حل به‌هنگام*)؛ [اصل XXIII](core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*قیدهای عدالت*).
+- پایین‌دست: [فصل دهم](../../core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) (*فقط تعیین — اندازه‌گیری پرسش ۲ را بازنمی‌گشاید*)؛ [فصل یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*نظارت مجمع و مسیرگذاری*)؛ [اصل XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*حل به‌هنگام*)؛ [اصل XXIII](core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*قیدهای عدالت*).
 - خوانده شود با: [فصل پنجم *وضعیت ردپا، همیاری و تخلف*](core_05_band_accountability.md#standing-state-contribution-and-violation-cluster) (*مسیرگذاری تعریف کانونی*).
 - خوانده شود با: [README.md](../../README.md) (*ترتیب خواندن*)؛ [doc_architecture.md](../../doc_architecture.md) (*نقشه‌های ویراستاری غیرالزام‌آور مگر پذیرش*).
 
@@ -69,7 +69,7 @@
 | --- | --- | --- |
 | **۱. چه رخ داد؟** | کدام واقعیت‌ها راستی‌آزمایی شده‌اند، دربارهٔ که یا چه، در چه دوره، و با چه وضعیت سابقه و اعتراض؟ | [بخش 2](#2-standing-records) |
 | **۲. چقدر خوب یا بد بود؟** | آن واقعیت‌ها چه گونه و چه بزرگی از همیاری یا تخلف برقرار می‌کنند؟ | [بخش 4](#4-standing-measurement-evaluation-dimensions) |
-| **۳. از آن چه پیش می‌آید؟** | چه بازشناسی، آمادگی، جبران، ضمانت، محدودیت، یا پیامد دیگری در پی می‌آید؟ | [فصل نهم](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) |
+| **۳. از آن چه پیش می‌آید؟** | چه بازشناسی، آمادگی، جبران، ضمانت، محدودیت، یا پیامد دیگری در پی می‌آید؟ | [فصل نهم](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) |
 
 هر پرسش به پاسخ پیشین وابسته است:
 
@@ -94,7 +94,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری · تعریف‌ها · ارزیابی · انطباق</span></strong></summary>
 
 - بالادست: [فصل یکم §9 — مدیریت مسئولانه و فهم توزیع‌شده](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)؛ [فصل‌های دوم تا چهارم](core_02_definition_structure.md)؛ [فصل پنجم](core_05__definitions_home.md#chapter-five-foundational-definitions).
-- پایین‌دست: [§2](#2-standing-records) (*پرسش ۱*)؛ [§3](#3-standing-record-operational-requirements) (*الزامات راستی‌آزمایی و سابقه*)؛ [§4](#4-standing-measurement-evaluation-dimensions) (*اندازه‌گیری پرسش ۲*)؛ [§5](#5-slot-grammar-and-lequ-calibration) (*دستور زبان خانه و مقیاس‌بندی مشترک*)؛ [§6](#6-constitutional-inputs-to-axis-assignment) (*مسیرگذاری منبع قانون اساسی*)؛ [§7](#7-unified-proportional-lequ-scale) (*مقیاس متناسب یکپارچهٔ LEQU برای هر دو محور*)؛ [فصل نهم](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*پرسش ۳*).
+- پایین‌دست: [§2](#2-standing-records) (*پرسش ۱*)؛ [§3](#3-standing-record-operational-requirements) (*الزامات راستی‌آزمایی و سابقه*)؛ [§4](#4-standing-measurement-evaluation-dimensions) (*اندازه‌گیری پرسش ۲*)؛ [§5](#5-slot-grammar-and-lequ-calibration) (*دستور زبان خانه و مقیاس‌بندی مشترک*)؛ [§6](#6-constitutional-inputs-to-axis-assignment) (*مسیرگذاری منبع قانون اساسی*)؛ [§7](#7-unified-proportional-lequ-scale) (*مقیاس متناسب یکپارچهٔ LEQU برای هر دو محور*)؛ [فصل نهم](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*پرسش ۳*).
 - [تعیین اهمیت مادی](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [آسیب](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
 - [تناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
@@ -112,7 +112,7 @@
 
 - بالادست: [§1](#1-the-three-questions) (*چارچوب سه پرسش*)؛ [فصل‌های دوم تا چهارم](core_02_definition_structure.md) (*سابقه، راستی‌آزمایی، و ردگیری‌پذیری تعریف‌ها تا نتایج*).
 - پای چهارگانه: **مشارکت**؛ **نظارت** (قابلیت اعتراض و مسیرهای اعتراض). هدف(های) اصلی: **شکوفایی** و **پیوستگی** (سوابق ردگیری‌پذیر که یافته‌های جداگانهٔ همیاری و تخلف را برای اندازه‌گیری بعدی نگه می‌دارند).
-- پایین‌دست: [§2.2](#22-linked-records-and-no-offset-bridge) (*پل بی‌تراز سوابق پیوندخورده*)؛ [§2.3](#23-question-1-event-type-guide) (*راهنمای گونهٔ رویداد*)؛ [§3](#3-standing-record-operational-requirements) (*دروازهٔ ورودی راستی‌آزمایی‌شده و مرز مجمع*)؛ [§4](#4-standing-measurement-evaluation-dimensions) (*اندازه‌گیری پرسش ۲*)؛ [§5](#5-slot-grammar-and-lequ-calibration) (*دستور زبان خانه و مقیاس‌بندی مشترک*)؛ [§6](#6-constitutional-inputs-to-axis-assignment) (*مسیرگذاری منبع قانون اساسی*)؛ [§7](#7-unified-proportional-lequ-scale) (*مقیاس متناسب یکپارچهٔ LEQU برای هر دو محور*)؛ [فصل نهم](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*پرسش ۳*).
+- پایین‌دست: [§2.2](#22-linked-records-and-no-offset-bridge) (*پل بی‌تراز سوابق پیوندخورده*)؛ [§2.3](#23-question-1-event-type-guide) (*راهنمای گونهٔ رویداد*)؛ [§3](#3-standing-record-operational-requirements) (*دروازهٔ ورودی راستی‌آزمایی‌شده و مرز مجمع*)؛ [§4](#4-standing-measurement-evaluation-dimensions) (*اندازه‌گیری پرسش ۲*)؛ [§5](#5-slot-grammar-and-lequ-calibration) (*دستور زبان خانه و مقیاس‌بندی مشترک*)؛ [§6](#6-constitutional-inputs-to-axis-assignment) (*مسیرگذاری منبع قانون اساسی*)؛ [§7](#7-unified-proportional-lequ-scale) (*مقیاس متناسب یکپارچهٔ LEQU برای هر دو محور*)؛ [فصل نهم](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*پرسش ۳*).
 
 </details>
 
@@ -154,7 +154,7 @@
   - حمایت‌های **اصل III-D** (*کف کار و اقتصاد*)؛
   - بازرگانی عادی؛ یا
   - مشارکت به‌عنوان طرف اثرپذیر.
-  میله‌های شایستگی منتشرشده برای مسیرهای نام‌گذاری‌شدهٔ حساس‌به‌اعتماد خاص زیر [فصل نهم §6.2](../../core_09_standing_integration.md#62-competency-bars-and-clearances) استثنایند، و باید بگویند چرا آن مسیر نام‌گذاری‌شده حساس‌به‌اعتماد است.
+  میله‌های شایستگی منتشرشده برای مسیرهای نام‌گذاری‌شدهٔ حساس‌به‌اعتماد خاص زیر [فصل نهم §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) استثنایند، و باید بگویند چرا آن مسیر نام‌گذاری‌شده حساس‌به‌اعتماد است.
 - وقتی سابقه‌ای دربارهٔ موضوعی گشوده می‌شود، موضوع باید زیر **بخش 3** اخطار شود مگر نمایش مستند [حفظ شاهد](core_05_band_oversight.md#evidence-preservation) یا ایمنی تعویقی زمان‌بند را توجیه کند؛ سابقه‌ای که موضوع نتواند از آن آگاه باشد قابل‌اعتراض نیست.
 
 هر اثر ردپای بعدی به فصل نهم تعلق دارد و باید بدون آنکه بخشی از خود سابقه شود به سابقه یا سوابق ردپای مربوط ردگیری‌پذیر بماند.
@@ -167,8 +167,8 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: [§2.1](#21-standing-records-as-the-unit-of-application) (*سوابق جداگانهٔ همیاری و تخلف*).
-- پایین‌دست: [§3.1](#31-minimum-record-contents) (*دروازهٔ ورودی راستی‌آزمایی‌شده*)؛ [§3.2](#32-related-record-cross-references) (*ارجاع متقابل*)؛ [§3.6](#36-forum-boundary) (*مرز مجمع*)؛ [§4](#4-standing-measurement-evaluation-dimensions) (*اندازه‌گیری پرسش ۲*)؛ [§5](#5-slot-grammar-and-lequ-calibration) (*دستور زبان خانه و مقیاس‌بندی مشترک*)؛ [§6](#6-constitutional-inputs-to-axis-assignment) (*مسیرگذاری منبع قانون اساسی*)؛ [§7](#7-unified-proportional-lequ-scale) (*مقیاس متناسب یکپارچهٔ LEQU برای هر دو محور*)؛ [فصل نهم](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*پرسش ۳*).
-- خوانده شود با: [فصل نهم — یکپارچه‌سازی ردپا](../../core_09_standing_integration.md#2-integration-record-and-decision-order) (*منع چشم‌پوشی و یکپارچه‌سازی سوابق پیوندخورده*)؛ [فصل نهم §6.2 — میله‌های شایستگی و پروانه‌ها](../../core_09_standing_integration.md#62-competency-bars-and-clearances)؛ [فصل نهم §4.2 — قفل‌های ردپا](../../core_09_standing_integration.md#42-general-standing-locks).
+- پایین‌دست: [§3.1](#31-minimum-record-contents) (*دروازهٔ ورودی راستی‌آزمایی‌شده*)؛ [§3.2](#32-related-record-cross-references) (*ارجاع متقابل*)؛ [§3.6](#36-forum-boundary) (*مرز مجمع*)؛ [§4](#4-standing-measurement-evaluation-dimensions) (*اندازه‌گیری پرسش ۲*)؛ [§5](#5-slot-grammar-and-lequ-calibration) (*دستور زبان خانه و مقیاس‌بندی مشترک*)؛ [§6](#6-constitutional-inputs-to-axis-assignment) (*مسیرگذاری منبع قانون اساسی*)؛ [§7](#7-unified-proportional-lequ-scale) (*مقیاس متناسب یکپارچهٔ LEQU برای هر دو محور*)؛ [فصل نهم](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*پرسش ۳*).
+- خوانده شود با: [فصل نهم — یکپارچه‌سازی ردپا](../../core_10_standing_integration.md#2-integration-record-and-decision-order) (*منع چشم‌پوشی و یکپارچه‌سازی سوابق پیوندخورده*)؛ [فصل نهم §6.2 — میله‌های شایستگی و پروانه‌ها](../../core_10_standing_integration.md#62-competency-bars-and-clearances)؛ [فصل نهم §4.2 — قفل‌های ردپا](../../core_10_standing_integration.md#42-general-standing-locks).
 
 </details>
 
@@ -401,7 +401,7 @@
 یافته‌های واقعیتی راستی‌آزمایی‌شدهٔ مجمع می‌توانند مبنای واقعیتی سابقهٔ ردپای پرسش ۱ را تأمین کنند. **تعیین نمی‌کنند** اندازه‌گیری پرسش ۲ از اینکه همیاری یا تخلف راستی‌آزمایی‌شده چقدر خوب یا بد بود چیست. بر این اساس:
 
 - رسیدگی‌های مجمع نباید مواد همیاری و تخلف را در یک نمرهٔ خالص، پاسخ شایستگی آمیخته، یا برچسب ردپای تمایزنیافته **ادغام کنند**؛ سوابق پیوندخورده زیر **بخش‌های 2.1** و **2.2** جدا می‌مانند.
-- خروجی‌های مجمع نباید روایت‌های اختلاف، راحتی مسیرگذاری، یا ترجیح هیئت را جای ورودی‌های راستی‌آزمایی‌شدهٔ قابل‌نمایش، اندازه‌گیری جدا، یا مکانیک اثر ردپای متعلق به [فصل نهم](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) بگذارند.
+- خروجی‌های مجمع نباید روایت‌های اختلاف، راحتی مسیرگذاری، یا ترجیح هیئت را جای ورودی‌های راستی‌آزمایی‌شدهٔ قابل‌نمایش، اندازه‌گیری جدا، یا مکانیک اثر ردپای متعلق به [فصل نهم](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) بگذارند.
 
 این مرز اعتراض، جبران، امداد موقت، یا حمایت‌های رویه‌ای خواسته‌شده زیر [اصل XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*حق اعتراض، بازبینی و جبران*)، [فصل یازدهم §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)، [اصل XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*حل به‌هنگام و کف ضدتأخیر*)، یا اصول عدالت مرتبط را **کم نمی‌کند**. می‌خواهد یافته‌های راستی‌آزمایی‌شدهٔ مجمع از همان دروازهٔ ورودی‌های راستی‌آزمایی‌شدهٔ دیگر وارد ردپا شوند — نه از کنار آن.
 
@@ -414,8 +414,8 @@
 
 - بالادست: [فصل یکم §10.2 *تفکیک وظایف*](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties) (*کف لایهٔ اصل که این بخش بر سوابق ردپا اعمال می‌کند؛ اینجا تنگ نمی‌شود*)؛ [فصل یکم §11.3 *کشف و بازبینی جمع*](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection)؛ [§2.1](#21-silence-is-the-default) (*ماشهٔ راستی‌آزمایی‌شده؛ اخطار به موضوع*)؛ [§3.1](#31-minimum-record-contents) (*محتوای کمینه و دروازهٔ ورودی راستی‌آزمایی‌شده*)؛ [§3.4](#34-versioning) (*نسخه‌بندی*)؛ [§3.6](#36-forum-boundary) (*مجمع‌ها می‌توانند بگشایند، به‌روز کنند، تصحیح کنند، یا کنار بگذارند*)؛ [فصل‌های دوم تا چهارم](core_02_definition_structure.md) (*سابقه، راستی‌آزمایی، و ردگیری‌پذیری*)؛ [حفظ شاهد](core_05_band_oversight.md#evidence-preservation) (*زنجیرهٔ نگهداری شاهد*).
 - پای چهارگانه: **پاسخگویی** (کنشگر نام‌گذاری‌شده برای هر مدخل جواب می‌دهد)؛ **نظارت** (هیچ طرفی ادعای خودش را راستی‌آزمایی نمی‌کند). هدف(های) اصلی: **شکوفایی** و **پیوستگی**.
-- خوانده شود با: [فصل پنجم *منشور*](core_05_band_continuity.md#charter) (*ابزار گسترهٔ منتشرشده که مرجع گشایش سابقه و نگهدارنده را برای گسترهٔ منشور نام می‌برد یا به آن اشاره می‌کند*)؛ **CI-3.6** (*محتوای منشور — میدان نگهداری سابقهٔ ردپا*)؛ [**CJS-3.11** *لاین قانون اساسی و جدایی کارکردی*](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation) (*پنج لاینی که تکالیف سابقه در آن‌ها گذاشته می‌شوند؛ تفکیک وظایف*)؛ **CI-3.2** (*لاین‌های جدایی کارکردی — نقشهٔ لاین منتشرشده، پیش‌فرض وقتی منشور خاموش است*)؛ **CI-3.3** (*زنجیرهٔ اختیار و کنترل تفویض*)؛ **CI-4.6** (*فهرست صندلی — چهار صندلی سابقه به‌عنوان گونه‌های صندلی 1–4، با قاعدهٔ صندلی غلط*)؛ **CF-9.6** (*بدون خودتحقیقی*) و **CF-9.8** (*تحویل یافتهٔ راستی‌آزمایی‌شده*)؛ [فصل یازدهم §2.1](core_11_forum.md#21-lead-default-limits) (*پشتیبان ضدخودداوری*)؛ [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*چه کسی مجاز کرد؛ وقایع سابقه نیست*)؛ [فصل نهم §5.4](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*توقف، امتناع، مستندسازی، تشدید*)؛ [فصل چهارم §5](core_04_burden_traceability_verification.md#5-compliance-evidence-standard) (*استاندارد شاهدی که صندلی راستی‌آزمایی بر بیان‌های ثبت‌کننده و طرف اعمال می‌کند*)؛ [حسن نیت](core_05_band_accountability.md#good-faith) (*فرض صداقت، نه دقت*)؛ [قابلیت اعتراض](core_05_band_accountability.md#contestability) و [اصل XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*اعتراض مطرح‌شده روی سابقه پیش از هر ثبت ثبت و مسیر می‌گیرد*)؛ [فصل یازدهم §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests) (*اعتراض‌های سوابق ردپا وقتی به مجمع می‌رسند*).
-- پایین‌دست: [§4](#4-standing-measurement-evaluation-dimensions) (*پرسش ۲ فقط سوابق واردشده زیر این بخش را اندازه می‌گیرد*)؛ [فصل نهم](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*آثار پرسش ۳ به سابقهٔ منتسب ردگیری می‌شوند*).
+- خوانده شود با: [فصل پنجم *منشور*](core_05_band_continuity.md#charter) (*ابزار گسترهٔ منتشرشده که مرجع گشایش سابقه و نگهدارنده را برای گسترهٔ منشور نام می‌برد یا به آن اشاره می‌کند*)؛ **CI-3.6** (*محتوای منشور — میدان نگهداری سابقهٔ ردپا*)؛ [**CJS-3.11** *لاین قانون اساسی و جدایی کارکردی*](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation) (*پنج لاینی که تکالیف سابقه در آن‌ها گذاشته می‌شوند؛ تفکیک وظایف*)؛ **CI-3.2** (*لاین‌های جدایی کارکردی — نقشهٔ لاین منتشرشده، پیش‌فرض وقتی منشور خاموش است*)؛ **CI-3.3** (*زنجیرهٔ اختیار و کنترل تفویض*)؛ **CI-4.6** (*فهرست صندلی — چهار صندلی سابقه به‌عنوان گونه‌های صندلی 1–4، با قاعدهٔ صندلی غلط*)؛ **CF-9.6** (*بدون خودتحقیقی*) و **CF-9.8** (*تحویل یافتهٔ راستی‌آزمایی‌شده*)؛ [فصل یازدهم §2.1](core_11_forum.md#21-lead-default-limits) (*پشتیبان ضدخودداوری*)؛ [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*چه کسی مجاز کرد؛ وقایع سابقه نیست*)؛ [فصل نهم §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*توقف، امتناع، مستندسازی، تشدید*)؛ [فصل چهارم §5](core_04_burden_traceability_verification.md#5-compliance-evidence-standard) (*استاندارد شاهدی که صندلی راستی‌آزمایی بر بیان‌های ثبت‌کننده و طرف اعمال می‌کند*)؛ [حسن نیت](core_05_band_accountability.md#good-faith) (*فرض صداقت، نه دقت*)؛ [قابلیت اعتراض](core_05_band_accountability.md#contestability) و [اصل XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*اعتراض مطرح‌شده روی سابقه پیش از هر ثبت ثبت و مسیر می‌گیرد*)؛ [فصل یازدهم §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests) (*اعتراض‌های سوابق ردپا وقتی به مجمع می‌رسند*).
+- پایین‌دست: [§4](#4-standing-measurement-evaluation-dimensions) (*پرسش ۲ فقط سوابق واردشده زیر این بخش را اندازه می‌گیرد*)؛ [فصل نهم](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*آثار پرسش ۳ به سابقهٔ منتسب ردگیری می‌شوند*).
 
 </details>
 
@@ -442,18 +442,18 @@
 
 <a id="37-informal-and-small-scope-records"></a>
 
-**سوابق غیررسمی و گستره‌کوچک.** تفکیک وظایف با منافع مادی مقیاس می‌شود، نه با رسمیت ([فصل یکم §10.2 تفکیک وظایف](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties)). برای کار بی‌مزد، سازمان‌یافتهٔ همتا، همیاری متقابل، مراقبت، نگهداری، تعمیر، آموزش، و مدیریت مسئولانهٔ اجتماعی — که [فصل نهم §6 پیامدهای همیاری دوم](../../core_09_standing_integration.md#6-contribution-consequences-second) می‌خواهد با استانداردهای برابر بازشناسی شود — صندلی راستی‌آزمایی با **هر دفتر بی‌طرف دارای اختیار منتشرشده برای اتکا به سابقه** برآورده می‌شود، معمولاً نهادی که آن را به‌کار خواهد برد: شورای حوضه، نهاد تأمین یا پیوستگی، دفتر بازشناسی سوابق **CI-22** (*مشاعات، تعاونی‌ها، همیاری متقابل، و حکمرانی اجتماعی غیر بازاری*)، یا مجمع. با رسمیت نهاد راستی‌آزماینده برآورده نمی‌شود. روی چنین سابقه‌ای:
+**سوابق غیررسمی و گستره‌کوچک.** تفکیک وظایف با منافع مادی مقیاس می‌شود، نه با رسمیت ([فصل یکم §10.2 تفکیک وظایف](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties)). برای کار بی‌مزد، سازمان‌یافتهٔ همتا، همیاری متقابل، مراقبت، نگهداری، تعمیر، آموزش، و مدیریت مسئولانهٔ اجتماعی — که [فصل نهم §6 پیامدهای همیاری دوم](../../core_10_standing_integration.md#6-contribution-consequences-second) می‌خواهد با استانداردهای برابر بازشناسی شود — صندلی راستی‌آزمایی با **هر دفتر بی‌طرف دارای اختیار منتشرشده برای اتکا به سابقه** برآورده می‌شود، معمولاً نهادی که آن را به‌کار خواهد برد: شورای حوضه، نهاد تأمین یا پیوستگی، دفتر بازشناسی سوابق **CI-22** (*مشاعات، تعاونی‌ها، همیاری متقابل، و حکمرانی اجتماعی غیر بازاری*)، یا مجمع. با رسمیت نهاد راستی‌آزماینده برآورده نمی‌شود. روی چنین سابقه‌ای:
 
 - مشارکت‌کنندگان موضوع‌اند و، جایی که بازشناسی می‌جویند، مدعی؛ در سابقهٔ جمعی زیر **بخش 3.3** هر هم‌مشارکت‌کننده مدعی است، پس بیان عضو دربارهٔ سهم عضو دیگر ورودی است، هرگز راستی‌آزمایی نه؛
 - ذی‌نفعان، همسایگان، و دیگر غیرمشارکت‌کنندگان گواهی به‌عنوان مواد راستی‌آزمایی زیر **بخش 3.1** می‌دهند؛ حس‌مندی که وقایع خود گروه را نگه داشت ثبت‌کننده و شاهد است زیر *بیان‌های ثبت‌کننده ورودی‌اند* پایین؛
 - دفتر سوابق نهاد اتکاکننده نگهداری را دارد؛ برای گسترهٔ کوچک، راستی‌آزمایی و ورود-و-نگهداشت می‌تواند در آن یک دفتر زیر ضمانت افشاشده بنشیند، و هرگز با مدعی نمی‌نشیند؛
-- میله یا فرایندی که راستی‌آزمایی توسط نهاد رسمی‌ای را می‌خواهد که گروه غیررسمی به آن نمی‌رسد، جایی که نهاد اتکاکنندهٔ بی‌طرف در دسترس است، الگوی دربانی خودسرانهٔ [فصل نهم §6.2](../../core_09_standing_integration.md#62-competency-bars-and-clearances) است، نه تفکیک وظایف.
+- میله یا فرایندی که راستی‌آزمایی توسط نهاد رسمی‌ای را می‌خواهد که گروه غیررسمی به آن نمی‌رسد، جایی که نهاد اتکاکنندهٔ بی‌طرف در دسترس است، الگوی دربانی خودسرانهٔ [فصل نهم §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) است، نه تفکیک وظایف.
 
 هیچ‌کدام از این سابقه را الزامی نمی‌کند. **بخش 2.1** *سکوت پیش‌فرض است* حاکم است: کار غیررسمی چون می‌تواند ثبت شود ثبت نمی‌شود، و تفکیک وظایف فقط وقتی سابقه جسته شود می‌بندد.
 
 <a id="371-named-record-opening-authority"></a>
 
-**مرجع نام‌گذاری‌شدهٔ گشایش سابقه.** هر سابقهٔ ردپا توسط **مرجع گشایش سابقه** گشوده، تصحیح، منقضی، یا جایگزین می‌شود: نقش، دفتر، مجمع، یا نهادی که اختیار راستی‌آزمایی مبنای واقعیتی زیر فصل‌های دوم تا چهارم و ورود سابقه پیش از عمل منتشر شده است. جایی که سابقه به نظام، نهاد، یا کسب‌وکاری مربوط است که [منشور](core_05_band_continuity.md#charter) دارد، آن منشور مرجع گشایش سابقه و نگهدارندهٔ سابقه را برای سوابق مربوط به گسترهٔ منشورش نام می‌برد، یا به ابزار منتشرشده‌ای که آن‌ها را نام می‌برد اشاره می‌کند (**CI-3.6** (*محتوا، بازبینی، و قالب شکل‌گیری منشور*)). مجمع‌ها به‌عنوان مراجع گشایش سابقه بر شروط **بخش 3.6** عمل می‌کنند؛ مجمعی که سابقه‌ای را راستی‌آزمایی کرد اعتراض آن سابقه را نمی‌شنود، که به بازبینی ثانویه زیر [فصل یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) و **CF-6** (*مسیرهای نام‌گذاری‌شدهٔ تجدیدنظر، بازبینی ثانویه، و استیصال*) می‌رود. جایی که هیچ منشور یا تعیین مجمعی به سابقه نمی‌رسد، *پیش‌فرض وقتی منشور خاموش است* بالا اعمال می‌شود، و ابزار پذیرش زیر [فصل پانزدهم](../../core_15_amendment_ratification.md) یا قواعد منتشرشدهٔ نهادی که زنجیرهٔ ردپا را می‌گرداند سپس باید یکی را نام ببرد. مدخل بدون مرجع نام‌گذاری‌شده **موقت** علامت می‌خورد: شاهد و اخطار را زیر **بخش 2.1** حفظ می‌کند، اما تا مرجعی نام‌گذاری‌شده تأیید، تصحیح، یا کنارش بگذارد هیچ ورودی راستی‌آزمایی‌شده زیر **بخش 3.1** و هیچ اثر فصل نهمی تأمین نمی‌کند.
+**مرجع نام‌گذاری‌شدهٔ گشایش سابقه.** هر سابقهٔ ردپا توسط **مرجع گشایش سابقه** گشوده، تصحیح، منقضی، یا جایگزین می‌شود: نقش، دفتر، مجمع، یا نهادی که اختیار راستی‌آزمایی مبنای واقعیتی زیر فصل‌های دوم تا چهارم و ورود سابقه پیش از عمل منتشر شده است. جایی که سابقه به نظام، نهاد، یا کسب‌وکاری مربوط است که [منشور](core_05_band_continuity.md#charter) دارد، آن منشور مرجع گشایش سابقه و نگهدارندهٔ سابقه را برای سوابق مربوط به گسترهٔ منشورش نام می‌برد، یا به ابزار منتشرشده‌ای که آن‌ها را نام می‌برد اشاره می‌کند (**CI-3.6** (*محتوا، بازبینی، و قالب شکل‌گیری منشور*)). مجمع‌ها به‌عنوان مراجع گشایش سابقه بر شروط **بخش 3.6** عمل می‌کنند؛ مجمعی که سابقه‌ای را راستی‌آزمایی کرد اعتراض آن سابقه را نمی‌شنود، که به بازبینی ثانویه زیر [فصل یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) و **CF-6** (*مسیرهای نام‌گذاری‌شدهٔ تجدیدنظر، بازبینی ثانویه، و استیصال*) می‌رود. جایی که هیچ منشور یا تعیین مجمعی به سابقه نمی‌رسد، *پیش‌فرض وقتی منشور خاموش است* بالا اعمال می‌شود، و ابزار پذیرش زیر [فصل پانزدهم](../../core_16_amendment_ratification.md) یا قواعد منتشرشدهٔ نهادی که زنجیرهٔ ردپا را می‌گرداند سپس باید یکی را نام ببرد. مدخل بدون مرجع نام‌گذاری‌شده **موقت** علامت می‌خورد: شاهد و اخطار را زیر **بخش 2.1** حفظ می‌کند، اما تا مرجعی نام‌گذاری‌شده تأیید، تصحیح، یا کنارش بگذارد هیچ ورودی راستی‌آزمایی‌شده زیر **بخش 3.1** و هیچ اثر فصل نهمی تأمین نمی‌کند.
 
 <a id="372-record-custodian"></a>
 
@@ -461,7 +461,7 @@
 
 <a id="373-no-self-custody"></a>
 
-**بدون نگهداری خود.** اینان نمی‌توانند برای سابقه‌ای به‌عنوان مرجع گشایش سابقه یا نگهدارندهٔ سابقه عمل کنند: موضوع سابقه؛ طرف مدعی همیاری یا مدعی تخلف مربوط به سابقه؛ و هر دفتر در خط اختیاری که به‌طور مادی آن طرف‌ها را کنترل می‌کند یا به‌طور مادی توسط آن‌ها کنترل می‌شود. مدیر مسئول درون موضوع که مدیریت مسئولانهٔ نظام حیاتی یا اختیار عملیاتی مادی اعمال می‌کند هر تکلیف زیر [فصل نهم §5.4](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) و [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) را نگه می‌دارد — آنچه کنترل می‌کند متوقف کند، مجموعهٔ بازسازی‌پذیر را ثبت وقایع کند، شاهدی که دارد حفظ کند، اخطار دهد، و تشدید کند — و هیچ‌کدام از آن اعمال راستی‌آزمایی واقعیت‌ها یا ورود سابقه نیست. جایی که مرجع گشایش سابقهٔ عادی خودش موضوع است یا در خط کنترلش می‌نشیند، سابقه به راستی‌آزمایی مستقل مسیر می‌گیرد: مجمع زیر **بخش 3.6**، خدمت تحقیق مستقل زیر **CF-9.6** (*بدون خودتحقیقی*)، یا نهاد پشتیبان ازپیش‌تعیین‌شده با اختیار منتشرشده، هر کدام را که منشور یا تعیین نخست نام ببرد. غیاب هر چنین مسیری شکافی است که مدیر مسئول باید در وقایع نام ببرد، نه دلیلی برای ورود خود سابقه. این قاعده طرف‌ها را با نفعشان در سابقه کنار می‌گذارد؛ *تفکیک وظایف* بالا صندلی‌ها را با کارکرد جدا می‌کند. هر دو اعمال می‌شوند، و پاسخ تنگ‌تر حاکم است.
+**بدون نگهداری خود.** اینان نمی‌توانند برای سابقه‌ای به‌عنوان مرجع گشایش سابقه یا نگهدارندهٔ سابقه عمل کنند: موضوع سابقه؛ طرف مدعی همیاری یا مدعی تخلف مربوط به سابقه؛ و هر دفتر در خط اختیاری که به‌طور مادی آن طرف‌ها را کنترل می‌کند یا به‌طور مادی توسط آن‌ها کنترل می‌شود. مدیر مسئول درون موضوع که مدیریت مسئولانهٔ نظام حیاتی یا اختیار عملیاتی مادی اعمال می‌کند هر تکلیف زیر [فصل نهم §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) و [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) را نگه می‌دارد — آنچه کنترل می‌کند متوقف کند، مجموعهٔ بازسازی‌پذیر را ثبت وقایع کند، شاهدی که دارد حفظ کند، اخطار دهد، و تشدید کند — و هیچ‌کدام از آن اعمال راستی‌آزمایی واقعیت‌ها یا ورود سابقه نیست. جایی که مرجع گشایش سابقهٔ عادی خودش موضوع است یا در خط کنترلش می‌نشیند، سابقه به راستی‌آزمایی مستقل مسیر می‌گیرد: مجمع زیر **بخش 3.6**، خدمت تحقیق مستقل زیر **CF-9.6** (*بدون خودتحقیقی*)، یا نهاد پشتیبان ازپیش‌تعیین‌شده با اختیار منتشرشده، هر کدام را که منشور یا تعیین نخست نام ببرد. غیاب هر چنین مسیری شکافی است که مدیر مسئول باید در وقایع نام ببرد، نه دلیلی برای ورود خود سابقه. این قاعده طرف‌ها را با نفعشان در سابقه کنار می‌گذارد؛ *تفکیک وظایف* بالا صندلی‌ها را با کارکرد جدا می‌کند. هر دو اعمال می‌شوند، و پاسخ تنگ‌تر حاکم است.
 
 <a id="37-conflicted-custodian-on-a-single-record"></a>
 
@@ -496,7 +496,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: [§2](#2-standing-records) (*پرسش ۱ — سوابق ردپا و واقعیت‌های راستی‌آزمایی‌شده*)؛ [§3](#3-standing-record-operational-requirements) (*دروازهٔ ورودی راستی‌آزمایی‌شده و الزامات سابقه*)؛ [§1](#1-the-three-questions) (*چارچوب سه پرسش*).
-- پایین‌دست: [§5](#5-slot-grammar-and-lequ-calibration) (*دستور زبان خانه و مقیاس‌بندی مشترک*)؛ [§6](#6-constitutional-inputs-to-axis-assignment) (*مسیرگذاری منبع قانون اساسی*)؛ [§7](#7-unified-proportional-lequ-scale) (*گذاشتن محور همیاری و محور تخلف*)؛ [فصل نهم §6.2](../../core_09_standing_integration.md#62-competency-bars-and-clearances) (*پرسش ۳ همیاری — تفویض ایمن*)؛ [فصل نهم §4.2](../../core_09_standing_integration.md#42-general-standing-locks) (*قفل‌های پیشگیری*)؛ [فصل نهم §5](../../core_09_standing_integration.md#5-lock-design-and-enforcement) (*طراحی و اجرای قفل*).
+- پایین‌دست: [§5](#5-slot-grammar-and-lequ-calibration) (*دستور زبان خانه و مقیاس‌بندی مشترک*)؛ [§6](#6-constitutional-inputs-to-axis-assignment) (*مسیرگذاری منبع قانون اساسی*)؛ [§7](#7-unified-proportional-lequ-scale) (*گذاشتن محور همیاری و محور تخلف*)؛ [فصل نهم §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) (*پرسش ۳ همیاری — تفویض ایمن*)؛ [فصل نهم §4.2](../../core_10_standing_integration.md#42-general-standing-locks) (*قفل‌های پیشگیری*)؛ [فصل نهم §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement) (*طراحی و اجرای قفل*).
 - خوانده شود با: [§3.1](#31-minimum-record-contents) (*میدان‌های سابقهٔ راستی‌آزمایی‌شده؛ بدون آثار ردپا در فصل هشتم*).
 
 </details>
@@ -534,7 +534,7 @@
   - زیان قابلیت اعتراض؛ یا
   - تجمیع بازبینی‌ناپذیر.
 
-**فقط پرسش ۲.** از این ابعاد برای اندازه‌گیری واقعیت‌های راستی‌آزمایی‌شدهٔ برقرارشده زیر **بخش 2** و ثبت‌شده زیر **بخش 3** استفاده کنید. فهرست **مسیر-نفع** در **بخش 4.3** و فهرست **مسیر-آسیب** در **بخش 4.4** نام‌های هنجارشده برای گونه‌های کمک یا آسیب را می‌دهند و می‌گویند هر نام چگونه به *چقدر خوب* یا *چقدر بد* می‌شمرد. قواعد یکپارچه‌سازی و اتصال پرسش ۳ در [فصل نهم §3](../../core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization) است، با قواعد پیامد در [سوی نفع](../../core_09_standing_integration.md#62-competency-bars-and-clearances) و [سوی آسیب](../../core_09_standing_integration.md#42-general-standing-locks).
+**فقط پرسش ۲.** از این ابعاد برای اندازه‌گیری واقعیت‌های راستی‌آزمایی‌شدهٔ برقرارشده زیر **بخش 2** و ثبت‌شده زیر **بخش 3** استفاده کنید. فهرست **مسیر-نفع** در **بخش 4.3** و فهرست **مسیر-آسیب** در **بخش 4.4** نام‌های هنجارشده برای گونه‌های کمک یا آسیب را می‌دهند و می‌گویند هر نام چگونه به *چقدر خوب* یا *چقدر بد* می‌شمرد. قواعد یکپارچه‌سازی و اتصال پرسش ۳ در [فصل نهم §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization) است، با قواعد پیامد در [سوی نفع](../../core_10_standing_integration.md#62-competency-bars-and-clearances) و [سوی آسیب](../../core_10_standing_integration.md#42-general-standing-locks).
 
 <a id="41-magnitude-input-dimensions"></a>
 <a id="41-contribution-magnitude-input-dimensions"></a>
@@ -561,13 +561,13 @@
 - آسیب انباشته‌به‌بیرون یا بار پنهان نفع منتسب به مسیر نام‌گذاری‌شدهٔ محل نزاع را سقف می‌گذارد یا رد صلاحیت می‌کند؛
 - خطر تسخیر راستی‌آزمایی‌شده، وابستگی ساختاری، یا طراحی خروج / قفل‌در اعتبار مثبت مدیریت مسئولانه را محدود می‌کند؛
 - تعمیر دسترس‌پذیری یا مانع مشارکت راستی‌آزمایی‌شده می‌تواند اهمیت مادی را افزایش دهد و توصیف‌گر مسیر-نفع **دسترسی و شمول** زیر **بخش 4.3** را پشتیبانی کند؛ و
-- پاداش مادی حاصل از ساختار انگیزهٔ ناهم‌راستای قانون اساسی، رفتار ضدقانون‌اساسی، یا فرایند به‌طور مادی معیوب به‌طور پیش‌فرض نفع قابل‌شمارش نیست. [فصل نهم §5.4](../../core_09_standing_integration.md#54-special-violation-rules) و حد گذار در [اصل XXVI-A](core_06_rights_part_d.md#incentive-alignment-transition-carve-out) را اعمال کنید.
+- پاداش مادی حاصل از ساختار انگیزهٔ ناهم‌راستای قانون اساسی، رفتار ضدقانون‌اساسی، یا فرایند به‌طور مادی معیوب به‌طور پیش‌فرض نفع قابل‌شمارش نیست. [فصل نهم §5.4](../../core_10_standing_integration.md#54-special-violation-rules) و حد گذار در [اصل XXVI-A](core_06_rights_part_d.md#incentive-alignment-transition-carve-out) را اعمال کنید.
 
 **خروجی‌های پرسش ۲ (در سابقهٔ ردپای همیاری ثبت شود؛ آثار ردپا نیست):**
 
 - **خانهٔ محور همیاری** اعمال‌شدنی (`s` = 1–9) و باند اصلی (**C-BL**، **C-PC**، **C-SP**، یا **C-CH**)
 - **توصیف‌گرهای مسیر-نفع** انباشته
-- ورودی‌های جهت‌گیری بازشناسی پیش‌فرض زیر [فصل نهم §6](../../core_09_standing_integration.md#6-contribution-consequences-second)
+- ورودی‌های جهت‌گیری بازشناسی پیش‌فرض زیر [فصل نهم §6](../../core_10_standing_integration.md#6-contribution-consequences-second)
 
 LEQU را به نمره‌های نفع بوم‌شناختی، نظام، یا منبع موازی **تقسیم نکنید** مگر پیاده‌سازی پذیرفته به تجزیهٔ شفاف برای حسابرسی نیاز داشته باشد.
 
@@ -593,18 +593,18 @@ LEQU را به نمره‌های نفع بوم‌شناختی، نظام، یا 
 - **انسداد پاسخگویی** — مداخلهٔ راستی‌آزمایی‌شده در ماشین جواب‌دهی چون یکپارچگی شاهد، راستی‌آزمایی، فرایند مجمع، سوابق ردپا، ساعت‌های جبران، یا مسیرهای اعتراض و جبران — واقعیت خصلت رفتار جداگانه ثبت‌شده می‌ماند؛ هر زیان مسیر نام‌گذاری‌شدهٔ انباشته یک‌بار وارد برآورد LEQU می‌شود، در حالی که خود برچسب انسداد خانهٔ اثر را جابه‌جا نمی‌کند؛
 - فریب، پنهان‌کاری، گریز، تکرار پس از اخطار، بی‌اعتنایی بی‌پروا، توانمندسازی ساختاری، یا سوءاستفادهٔ مادی از عدم‌تقارن وابستگی واقعیت‌های خصلت رفتار جداگانه ثبت‌شده می‌مانند؛
 - خشونت، اجبار، دستکاری، یا خطر آزادی جداگانه ثبت می‌مانند و می‌توانند صرف‌نظر از خانه ضمانت‌های تشدیدی بخواهند؛
-- [قساوت](core_05_band_accountability.md#cruelty) — رنج راستی‌آزمایی‌شده به‌عنوان غایت فی‌نفسه، یا ایراد رایگان یا تحقیرآمیز فراتر از ضرورت و تناسب — واقعیت خصلت رفتار جداگانه ثبت‌شده می‌ماند؛ می‌تواند ضمانت‌های تشدیدی و قیدهای جبران غیرتحقیرآمیز زیر [فصل نهم §4](../../core_09_standing_integration.md#4-violation-correction-and-prevention) بخواهد، و خانهٔ اثر را جابه‌جا نمی‌کند؛
+- [قساوت](core_05_band_accountability.md#cruelty) — رنج راستی‌آزمایی‌شده به‌عنوان غایت فی‌نفسه، یا ایراد رایگان یا تحقیرآمیز فراتر از ضرورت و تناسب — واقعیت خصلت رفتار جداگانه ثبت‌شده می‌ماند؛ می‌تواند ضمانت‌های تشدیدی و قیدهای جبران غیرتحقیرآمیز زیر [فصل نهم §4](../../core_10_standing_integration.md#4-violation-correction-and-prevention) بخواهد، و خانهٔ اثر را جابه‌جا نمی‌کند؛
 - پخش‌شدگی به نقش علّی توزیع‌شده، اختیار، کنترل، پیش‌بینی‌پذیری، نفع، پنهان‌کاری، یا ظرفیت پیشگیری عملی مربوط است؛ بخشی از **گسترهٔ حس‌مند** نیست و سرزنش با عضویت گروهی را اجازه نمی‌دهد؛
 - مشارکت تسلیم‌آمیز یا شکست در مقاومت می‌تواند خصلت مبتنی‌بر‌تکلیف، تشدیدی، یا پاسخگویی جمعی را فقط وقتی پیوند کنشگر-ویژهٔ خواسته‌شدهٔ **بخش‌های 3.1 و 3.3** راستی‌آزمایی شده پشتیبانی کند؛ و
-- پذیرش یا نگهداشت آگاهانهٔ پاداش ناهم‌راستای مادی بدون گزارش محافظت‌شدهٔ به‌موقع زیر [فصل نهم §5.4](../../core_09_standing_integration.md#54-special-violation-rules) ثبت می‌شود، تابع [اصل XXVI-A](core_06_rights_part_d.md#incentive-alignment-transition-carve-out)؛ فقط زیان قانون اساسی راستی‌آزمایی‌شده‌اش بر خانه اثر می‌گذارد.
+- پذیرش یا نگهداشت آگاهانهٔ پاداش ناهم‌راستای مادی بدون گزارش محافظت‌شدهٔ به‌موقع زیر [فصل نهم §5.4](../../core_10_standing_integration.md#54-special-violation-rules) ثبت می‌شود، تابع [اصل XXVI-A](core_06_rights_part_d.md#incentive-alignment-transition-carve-out)؛ فقط زیان قانون اساسی راستی‌آزمایی‌شده‌اش بر خانه اثر می‌گذارد.
 
-**مرز پاداش ناهم‌راستا.** این فصل فقط اندازه می‌گیرد که پاداش ناهم‌راستای راستی‌آزمایی‌شده چگونه بر محور همیاری یا محور تخلف اثر می‌گذارد. [فصل نهم §5.4](../../core_09_standing_integration.md#54-special-violation-rules) تکلیف گزارش، استثناها، پیامدهای مصادره، تکالیف تصحیح، و قواعد مسیرگذاری را بیان می‌کند.
+**مرز پاداش ناهم‌راستا.** این فصل فقط اندازه می‌گیرد که پاداش ناهم‌راستای راستی‌آزمایی‌شده چگونه بر محور همیاری یا محور تخلف اثر می‌گذارد. [فصل نهم §5.4](../../core_10_standing_integration.md#54-special-violation-rules) تکلیف گزارش، استثناها، پیامدهای مصادره، تکالیف تصحیح، و قواعد مسیرگذاری را بیان می‌کند.
 
 **خروجی‌های پرسش ۲ (در سابقهٔ ردپای تخلف ثبت شود؛ آثار ردپا نیست):**
 
 - بالاترین **خانهٔ محور تخلف** اعمال‌شدنی (`s` = 1–9)
 - **توصیف‌گرهای مسیر-آسیب** انباشته
-- ورودی‌های جهت‌گیری باند قفل پیش‌فرض زیر [فصل نهم §5](../../core_09_standing_integration.md#5-lock-design-and-enforcement)
+- ورودی‌های جهت‌گیری باند قفل پیش‌فرض زیر [فصل نهم §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement)
 
 LEQU سوی تخلف را به نمره‌های آسیب بوم‌شناختی، آسیب نظام، یا زیان منبع موازی **تقسیم نکنید** مگر پیاده‌سازی پذیرفته به تجزیهٔ شفاف برای حسابرسی نیاز داشته باشد.
 
@@ -621,7 +621,7 @@ LEQU سوی تخلف را به نمره‌های آسیب بوم‌شناختی�
 
 **قاعدهٔ توصیف‌گر کانونی.** بخش‌های **4.3–4.4** فهرست توصیف‌گر هنجارشده را برای هر دو محور مالک‌اند. توصیف‌گرها پاسخ می‌دهند **چگونه** نفع یا آسیب راستی‌آزمایی‌شده رخ داد. انباشتنی، غیرانحصاری، و تابع خانهٔ اعمال‌شدنی‌اند؛ یک سابقه می‌تواند چند تا حمل کند جایی که واقعیت‌های راستی‌آزمایی‌شده روا می‌دارند. فهرست بنیاد است، فهرست بسته نه. پیاده‌سازی‌ها می‌توانند شناسه‌های پایدار نگاشته‌شده به آن به‌کار برند اما نباید طبقه‌بندی انحصاری متعارض بسازند. توصیف‌گرهای ادعایی می‌توانند حفظ قانونی، غربال، یا ضمانت‌های موقت را پشتیبانی کنند؛ فقط توصیف‌گرهای راستی‌آزمایی‌شده می‌توانند به‌عنوان خروجی پرسش ۲ ثبت شوند یا بر ردپا اثر بگذارند.
 
-**توصیف‌گرهای مسیر-نفع — نقش اندازه‌گیری پرسش ۲.** نقش تفویض ایمن پرسش ۳: [فصل نهم §6.2](../../core_09_standing_integration.md#62-competency-bars-and-clearances).
+**توصیف‌گرهای مسیر-نفع — نقش اندازه‌گیری پرسش ۲.** نقش تفویض ایمن پرسش ۳: [فصل نهم §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances).
 
 | **توصیف‌گر مسیر-نفع** | **حوزهٔ هنجارشده** | **پرسش ۲ (چقدر خوب؟)** |
 | --- | --- | --- |
@@ -646,7 +646,7 @@ LEQU سوی تخلف را به نمره‌های آسیب بوم‌شناختی�
 <a id="44-violation-route-descriptor-catalog-and-measurement-roles"></a>
 #### 4.4 فهرست توصیف‌گر مسیر تخلف و نقش‌های اندازه‌گیری
 
-**توصیف‌گرهای مسیر-آسیب — نقش اندازه‌گیری پرسش ۲.** قواعد یکپارچه‌سازی و اتصال پرسش ۳: [فصل نهم §3](../../core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization). طراحی پیشگیری و قفل پرسش ۳: [فصل نهم §4.2](../../core_09_standing_integration.md#42-general-standing-locks)؛ [فصل نهم §5](../../core_09_standing_integration.md#5-lock-design-and-enforcement).
+**توصیف‌گرهای مسیر-آسیب — نقش اندازه‌گیری پرسش ۲.** قواعد یکپارچه‌سازی و اتصال پرسش ۳: [فصل نهم §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization). طراحی پیشگیری و قفل پرسش ۳: [فصل نهم §4.2](../../core_10_standing_integration.md#42-general-standing-locks)؛ [فصل نهم §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement).
 
 | **توصیف‌گر مسیر-آسیب** | **حوزهٔ هنجارشده** | **پرسش ۲ (چقدر بد؟)** |
 | --- | --- | --- |
@@ -679,21 +679,21 @@ LEQU سوی تخلف را به نمره‌های آسیب بوم‌شناختی�
 
 | **ویژگی راستی‌آزمایی‌شده** | **مالک پرسش ۲ در این فصل** | **مالک یکپارچه‌سازی پرسش ۳** |
 | --- | --- | --- |
-| **آسیب انباشته‌به‌بیرون / بار پنهان** | اعمال کیفیت رفتار همیاری در **§4.1** | [فصل نهم §6.2](../../core_09_standing_integration.md#62-competency-bars-and-clearances) — می‌تواند پروانه را تا ترمیم مسدود یا تنگ کند |
-| **فریب / پنهان‌کاری / گریز** | اعمال خصلت رفتار تخلف در **§4.2** | [فصل نهم §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — قفل تشدیدی پنهان‌کاری / گریز |
-| **انسداد پاسخگویی** | اعمال خصلت رفتار تخلف در **§4.2** و **سوءرفتار انسداد پاسخگویی** در **§4.4** | [فصل نهم §4.2](../../core_09_standing_integration.md#42-general-standing-locks) و [§5.4](../../core_09_standing_integration.md#54-special-violation-rules) — قفل‌های محدود به مسیر نام‌گذاری‌شده؛ [فصل نهم §10.13](../../core_09_standing_integration.md#1013-obstruction-of-accountability) (*الگوی پرسش ۳*)؛ تعیین فصل دهم فقط از راه دروازهٔ بازبینی سوءرفتار ضدقانون‌اساسی زیر [فصل نهم §10.8](../../core_09_standing_integration.md#108-anti-constitutional-misconduct-allegation) |
-| **خشونت / اجبار / خطر آزادی** | اعمال خصلت رفتار تخلف در **§4.2** و **سوءرفتار خشونت‌آمیز** در **§4.4** | [فصل نهم §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — قفل‌های حفاظتی و ضمانت |
-| **قساوت** | اعمال خصلت رفتار تخلف در **§4.2**؛ [قساوت](core_05_band_accountability.md#cruelty) | [فصل نهم §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — قفل‌های حفاظتی و ضمانت؛ [فصل نهم §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) — بیان ترمیمی غیرتحقیرآمیز جایی که به‌کار رود |
-| **پایداری / الگو / بازگشت پس از اخطار** | اعمال خصلت رفتار تخلف در **§4.2** | [فصل نهم §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — قفل بازگشت-پایداری |
-| **آسیب یکپارچگی مجمع** | اعمال خصلت رفتار تخلف در **§4.2** | [فصل نهم §5.5](../../core_09_standing_integration.md#55-special-locks) — آثار قفل ردپای یکپارچگی مجمع |
-| **پخش‌شدگی مسئولیت یا کنترل** | اعمال خصلت رفتار تخلف در **§4.2**؛ پیوند کنشگر-ویژه زیر **§§3.1 و 3.3** | [فصل نهم §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — گسترهٔ مسیر نام‌گذاری‌شدهٔ وسیع‌تر یا ملاحظهٔ وسیلهٔ نهادی |
-| **توانمندسازی نظام / ساختاری** | اعمال کیفیت رفتار همیاری در **§4.1**؛ خصلت رفتار تخلف در **§4.2** و **سوءرفتار نظام** در **§4.4** | [فصل نهم §6.2](../../core_09_standing_integration.md#62-competency-bars-and-clearances) و [فصل نهم §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — ضمانت‌های تفویض یا قفل‌های وسیلهٔ نهادی |
-| **مشارکت تسلیم‌آمیز / شکست در مقاومت** | اعمال خصلت رفتار تخلف در **§4.2** | [فصل نهم §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — گسترهٔ مسیر نام‌گذاری‌شده و آثار بازگشت-پایداری |
-| **تعمیر دسترس‌پذیری / مانع مشارکت** | **دسترسی و شمول** در **§4.3** | [فصل نهم §6.2](../../core_09_standing_integration.md#62-competency-bars-and-clearances) — میلهٔ تجربهٔ فراگیر یا محدود به مسیر نام‌گذاری‌شده |
-| **شکست دسترس‌پذیری / آسیب مانع مشارکت** | **سوءرفتار مانع دسترس‌پذیری و مشارکت** در **§4.4** | [فصل نهم §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — مسدودهای مسیر نام‌گذاری‌شدهٔ مشارکت و دسترس‌پذیری |
-| **آسیب حریم خصوصی / خودمالکیت** | **سوءرفتار حریم خصوصی و خودمالکیت** در **§4.4** | [فصل نهم §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — مسدودهای مسیر نام‌گذاری‌شدهٔ داده، شمایل، انتشار، یا وضعیت درونی |
-| **خطر خروج / قفل‌در یا انسداد** | اعمال کیفیت رفتار همیاری در **§4.1**؛ **سوءرفتار خروج و قفل‌در** در **§4.4** | [فصل نهم §6.2](../../core_09_standing_integration.md#62-competency-bars-and-clearances) و [فصل نهم §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — ضمانت‌های تفویض یا مسدودهای مسیر خروج |
-| **پنهان‌کاری چرخهٔ عمر / برگشت‌ناپذیری** | **سوءرفتار چرخهٔ عمر و برگشت‌ناپذیری** در **§4.4** | [فصل نهم §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — مسدودهای اختیار استقرار و چرخهٔ عمر |
+| **آسیب انباشته‌به‌بیرون / بار پنهان** | اعمال کیفیت رفتار همیاری در **§4.1** | [فصل نهم §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) — می‌تواند پروانه را تا ترمیم مسدود یا تنگ کند |
+| **فریب / پنهان‌کاری / گریز** | اعمال خصلت رفتار تخلف در **§4.2** | [فصل نهم §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — قفل تشدیدی پنهان‌کاری / گریز |
+| **انسداد پاسخگویی** | اعمال خصلت رفتار تخلف در **§4.2** و **سوءرفتار انسداد پاسخگویی** در **§4.4** | [فصل نهم §4.2](../../core_10_standing_integration.md#42-general-standing-locks) و [§5.4](../../core_10_standing_integration.md#54-special-violation-rules) — قفل‌های محدود به مسیر نام‌گذاری‌شده؛ [فصل نهم §10.13](../../core_10_standing_integration.md#1013-obstruction-of-accountability) (*الگوی پرسش ۳*)؛ تعیین فصل دهم فقط از راه دروازهٔ بازبینی سوءرفتار ضدقانون‌اساسی زیر [فصل نهم §10.8](../../core_10_standing_integration.md#108-anti-constitutional-misconduct-allegation) |
+| **خشونت / اجبار / خطر آزادی** | اعمال خصلت رفتار تخلف در **§4.2** و **سوءرفتار خشونت‌آمیز** در **§4.4** | [فصل نهم §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — قفل‌های حفاظتی و ضمانت |
+| **قساوت** | اعمال خصلت رفتار تخلف در **§4.2**؛ [قساوت](core_05_band_accountability.md#cruelty) | [فصل نهم §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — قفل‌های حفاظتی و ضمانت؛ [فصل نهم §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) — بیان ترمیمی غیرتحقیرآمیز جایی که به‌کار رود |
+| **پایداری / الگو / بازگشت پس از اخطار** | اعمال خصلت رفتار تخلف در **§4.2** | [فصل نهم §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — قفل بازگشت-پایداری |
+| **آسیب یکپارچگی مجمع** | اعمال خصلت رفتار تخلف در **§4.2** | [فصل نهم §5.5](../../core_10_standing_integration.md#55-special-locks) — آثار قفل ردپای یکپارچگی مجمع |
+| **پخش‌شدگی مسئولیت یا کنترل** | اعمال خصلت رفتار تخلف در **§4.2**؛ پیوند کنشگر-ویژه زیر **§§3.1 و 3.3** | [فصل نهم §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — گسترهٔ مسیر نام‌گذاری‌شدهٔ وسیع‌تر یا ملاحظهٔ وسیلهٔ نهادی |
+| **توانمندسازی نظام / ساختاری** | اعمال کیفیت رفتار همیاری در **§4.1**؛ خصلت رفتار تخلف در **§4.2** و **سوءرفتار نظام** در **§4.4** | [فصل نهم §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) و [فصل نهم §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — ضمانت‌های تفویض یا قفل‌های وسیلهٔ نهادی |
+| **مشارکت تسلیم‌آمیز / شکست در مقاومت** | اعمال خصلت رفتار تخلف در **§4.2** | [فصل نهم §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — گسترهٔ مسیر نام‌گذاری‌شده و آثار بازگشت-پایداری |
+| **تعمیر دسترس‌پذیری / مانع مشارکت** | **دسترسی و شمول** در **§4.3** | [فصل نهم §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) — میلهٔ تجربهٔ فراگیر یا محدود به مسیر نام‌گذاری‌شده |
+| **شکست دسترس‌پذیری / آسیب مانع مشارکت** | **سوءرفتار مانع دسترس‌پذیری و مشارکت** در **§4.4** | [فصل نهم §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — مسدودهای مسیر نام‌گذاری‌شدهٔ مشارکت و دسترس‌پذیری |
+| **آسیب حریم خصوصی / خودمالکیت** | **سوءرفتار حریم خصوصی و خودمالکیت** در **§4.4** | [فصل نهم §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — مسدودهای مسیر نام‌گذاری‌شدهٔ داده، شمایل، انتشار، یا وضعیت درونی |
+| **خطر خروج / قفل‌در یا انسداد** | اعمال کیفیت رفتار همیاری در **§4.1**؛ **سوءرفتار خروج و قفل‌در** در **§4.4** | [فصل نهم §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) و [فصل نهم §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — ضمانت‌های تفویض یا مسدودهای مسیر خروج |
+| **پنهان‌کاری چرخهٔ عمر / برگشت‌ناپذیری** | **سوءرفتار چرخهٔ عمر و برگشت‌ناپذیری** در **§4.4** | [فصل نهم §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — مسدودهای اختیار استقرار و چرخهٔ عمر |
 
 <a id="451-similar-looking-facts-that-must-stay-separate"></a>
 
@@ -703,7 +703,7 @@ LEQU سوی تخلف را به نمره‌های آسیب بوم‌شناختی�
 
 | **واقعیت نخست** | **واقعیت متفاوت** | **چرا جدا می‌مانند** |
 | --- | --- | --- |
-| **تأخیر در پاسخ به مسئلهٔ اصلی یا تشدید آن** | **تأخیر در آغاز یا اجرای جبران** | اولی به اندازه‌گیری پرسش ۲ زیر **§§4.1–4.2** کمک می‌کند. دومی واقعیت بعدی پرسش ۳ زیر [فصل نهم §9.5](../../core_09_standing_integration.md#95-timely-implementation-and-reassessment) است. |
+| **تأخیر در پاسخ به مسئلهٔ اصلی یا تشدید آن** | **تأخیر در آغاز یا اجرای جبران** | اولی به اندازه‌گیری پرسش ۲ زیر **§§4.1–4.2** کمک می‌کند. دومی واقعیت بعدی پرسش ۳ زیر [فصل نهم §9.5](../../core_10_standing_integration.md#95-timely-implementation-and-reassessment) است. |
 | **شمار حس‌مندان اثرپذیر** | **چگونه مسئولیت یا کنترل میان کنشگران یا نظام‌ها پخش شد** | اولی به اندازه‌گیری بزرگی نفع یا آسیب زیر **§§4.1–4.2** کمک می‌کند. دومی به مسئولیت کنشگر-ویژه، پخش‌شدگی، و گسترهٔ ممکن مسیر نام‌گذاری‌شدهٔ پرسش ۳ مربوط است. |
 
 <a id="46-question-1-measurement-illustrations"></a>
@@ -713,7 +713,7 @@ LEQU سوی تخلف را به نمره‌های آسیب بوم‌شناختی�
 <a id="46-measurement-illustrations"></a>
 #### 4.6 نمونه‌های اندازه‌گیری
 
-*به زبان ساده: این نمونه‌ها با واقعیت‌های راستی‌آزمایی‌شدهٔ پرسش ۱ آغاز می‌شوند، سپس نشان می‌دهند **بخش 4** چگونه آن‌ها را اندازه می‌گیرد. خروجی‌های پرسش ۲ را ثبت می‌کنند — نه آثار ردپا. گذاشتن خانه از **بخش‌های 5–7** پیروی می‌کند؛ پرسش ۳ در [فصل نهم](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) پاسخ داده می‌شود. برای ادامهٔ پرسش ۳ مثال‌های ۱ و ۲ زیر، ببینید [فصل نهم §10.1](../../core_09_standing_integration.md#101-informal-ecological-stewardship-competency-clearance) و [§10.2](../../core_09_standing_integration.md#102-ecological-negligence-with-concealment).*
+*به زبان ساده: این نمونه‌ها با واقعیت‌های راستی‌آزمایی‌شدهٔ پرسش ۱ آغاز می‌شوند، سپس نشان می‌دهند **بخش 4** چگونه آن‌ها را اندازه می‌گیرد. خروجی‌های پرسش ۲ را ثبت می‌کنند — نه آثار ردپا. گذاشتن خانه از **بخش‌های 5–7** پیروی می‌کند؛ پرسش ۳ در [فصل نهم](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) پاسخ داده می‌شود. برای ادامهٔ پرسش ۳ مثال‌های ۱ و ۲ زیر، ببینید [فصل نهم §10.1](../../core_10_standing_integration.md#101-informal-ecological-stewardship-competency-clearance) و [§10.2](../../core_10_standing_integration.md#102-ecological-negligence-with-concealment).*
 
 **مثال ۱ — ترمیم تعاونی کرانهٔ رود (همیاری).**
 
@@ -798,7 +798,7 @@ LEQU سوی تخلف را به نمره‌های آسیب بوم‌شناختی�
 |    8 | **پیشگام ممتاز** | **اثر سنگین قانون اساسی** |
 |    9 | **پیشگام نمونه** | **اثر فاجعه‌بار قانون اساسی** |
 
-محور همیاری از برچسب‌های پایه، مثبت، مثبت مدیریت مسئولانه، و پیشگام استفاده می‌کند. محور تخلف در هر خانه برچسب‌های اثر خنثی به‌کار می‌برد. محورها جدا می‌مانند و نمرهٔ خالص نمی‌سازند و تراز میان سوابق همیاری و تخلف را اجازه نمی‌دهند. خانهٔ محور تخلف به‌تنهایی سوءرفتار ضدقانون‌اساسی را طبقه‌بندی نمی‌کند؛ [فصل دهم](../../core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) مستقلاً تعیین می‌کند آیا آن تعیین به تخلف راستی‌آزمایی‌شدهٔ `s` = 7–9 می‌چسبد.
+محور همیاری از برچسب‌های پایه، مثبت، مثبت مدیریت مسئولانه، و پیشگام استفاده می‌کند. محور تخلف در هر خانه برچسب‌های اثر خنثی به‌کار می‌برد. محورها جدا می‌مانند و نمرهٔ خالص نمی‌سازند و تراز میان سوابق همیاری و تخلف را اجازه نمی‌دهند. خانهٔ محور تخلف به‌تنهایی سوءرفتار ضدقانون‌اساسی را طبقه‌بندی نمی‌کند؛ [فصل دهم](../../core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) مستقلاً تعیین می‌کند آیا آن تعیین به تخلف راستی‌آزمایی‌شدهٔ `s` = 7–9 می‌چسبد.
 
 پیاده‌سازی‌ها می‌توانند واحدهای اندازه‌گیری، روش‌های شاهد، و نمونه‌ها را برای کمک به برآورد نفع یا زیان معادل‌عمر-کامل منتشر کنند. این مواد فقط راهنمایند و نمی‌توانند **بخش 7**، **فصل یکم**، یا کف حقوق **فصل ششم** را لغو کنند.
 
@@ -810,7 +810,7 @@ LEQU سوی تخلف را به نمره‌های آسیب بوم‌شناختی�
 - **کف برای عملکرد استاندارد است، سقف نه**: کاری که اثر راستی‌آزمایی‌شده‌اش از اثر مفروض استاندارد فراتر می‌رود — روش بهتر، نتیجهٔ ماندگارتر، بار انباشته‌به‌بیرون کمتر، نفع وسیع‌تر یا عمیق‌تر — بر اثر راستی‌آزمایی‌شدهٔ واقعی‌اش زیر **بخش 5.2** اندازه گرفته می‌شود، پس انگیزه برای بهتر از استاندارد انجام دادن کار زنده می‌ماند؛ کاری که به‌طور راستی‌آزمایی‌پذیر از گستره یا دوام مفروض استاندارد کوتاه می‌آید بر آنچه راستی‌آزمایی شد اندازه گرفته می‌شود، نه بر برچسب؛
 - **با آهنگ منتشرشده بازبینی و با بهبود کارایی بازخط‌پایه می‌شود**، پس استاندارد آنچه کار اکنون هزینه می‌کند و تولید می‌کند را دنبال می‌کند نه آنکه کوشش دیروز را به‌عنوان اعتبار امروز منجمد کند؛ بازنگری به‌جلو اعمال می‌شود، و سوابق ازپیش‌گشوده مبنای اندازه‌گیری‌شان را زیر **بخش 3.4** نگه می‌دارند مگر آن مبنا هنگام ثبت غلط بود؛
 - بازنگری باید شاهد-محور، منتشر، و قابل‌اعتراض باشد، و نباید برای سرکوب بازشناسی طبقه‌ای از کار، اجتماعی، یا گروهی، یا برای پایین کشیدن استاندارد سریع‌تر از نفع کارایی راستی‌آزمایی‌شده‌ای که بر آن استوار است به‌کار رود ([فصل یکم §11](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture))؛
-- استاندارد سهمیه، تکلیف انجام، یا میلهٔ شایستگی زیر [فصل نهم §6.2](../../core_09_standing_integration.md#62-competency-bars-and-clearances) نمی‌سازد؛ **بخش 2.1** *سکوت پیش‌فرض است* حاکم است، و حس‌مندی که هرگز کار استانداردی انجام ندهد به آن دلیل سابقه‌ای ندارد؛
+- استاندارد سهمیه، تکلیف انجام، یا میلهٔ شایستگی زیر [فصل نهم §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) نمی‌سازد؛ **بخش 2.1** *سکوت پیش‌فرض است* حاکم است، و حس‌مندی که هرگز کار استانداردی انجام ندهد به آن دلیل سابقه‌ای ندارد؛
 - دفتری که استاندارد را می‌گذارد یا بازنگری می‌کند صندلی جهت‌و‌سیاست را زیر **بخش 3.7** *تفکیک وظایف* دارد؛ دفتری که عملکرد را در برابر استاندارد راستی‌آزمایی می‌کند نیست، و هیچ‌کدام طرفی نیست که بازشناسی استاندارد اندازه می‌گیرد.
 
 استانداردها نمی‌توانند **بخش 7**، **فصل یکم**، یا کف حقوق **فصل ششم** را لغو کنند. روش مرجع و جدول کارشده در [LEQU_CALIBRATION_REFERENCE.md](../../implementation/LEQU_CALIBRATION_REFERENCE.md) می‌زید (*پشتیبانی فرایند؛ نمی‌تواند سابقهٔ زنده بگذارد*).
@@ -980,15 +980,15 @@ LEQU سوی تخلف را به نمره‌های آسیب بوم‌شناختی�
 
 ---
 
-**ادامه.** آثار ردپا و یکپارچه‌سازی در [فصل نهم](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) ادامه می‌یابد، آغاز با **بخش 1 — آثار ردپا**.
+**ادامه.** آثار ردپا و یکپارچه‌سازی در [فصل نهم](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) ادامه می‌یابد، آغاز با **بخش 1 — آثار ردپا**.
 
 ---
 
 **پروندهٔ قبلی (این زبان):** [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process)
 
-**پروندهٔ بعدی (هنوز انگلیسی):** [core_09_standing_integration.md](../../core_09_standing_integration.md)
+**پروندهٔ بعدی (هنوز انگلیسی):** [core_09_standing_integration.md](../../core_10_standing_integration.md)
 
-**اصل الزام‌آور:** [core_08_standing_assessment.md](../../core_08_standing_assessment.md)
+**اصل الزام‌آور:** [core_08_standing_assessment.md](../../core_09_standing_assessment.md)
 
 
 

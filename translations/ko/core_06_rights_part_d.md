@@ -12,7 +12,7 @@
 >
 > **이전(이 언어):** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 >
-> **다음(아직 영어):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+> **다음(아직 영어):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 > **읽기 호:** 제 XXIII–XXVI조 (정의와 비상, 헌법 진화, 이행, 기준선 재설정)
 
 </details>
@@ -79,7 +79,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: 원칙: 제1장 [§3.1 안전](core_01_a_values_principles.md#31-safety-harm-constraint), [제1장 §6.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [제1장 §9.6 저하 과정 금지](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline), [§15 통합 적용](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- 하류: [제9장 §4](../../core_09_standing_integration.md#4-violation-correction-and-prevention) (*위반, 교정, 예방*); [제 XXIII-B조](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [제 XXIII-C조](#article-xxiii-c-least-restrictive-and-time-bounded-rule).
+- 하류: [제9장 §4](../../core_10_standing_integration.md#4-violation-correction-and-prevention) (*위반, 교정, 예방*); [제 XXIII-B조](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [제 XXIII-C조](#article-xxiii-c-least-restrictive-and-time-bounded-rule).
 - 함께 읽기: [잔인](core_05_band_accountability.md#cruelty) (*잔인 금지 바닥의 고통-그-자체 표준의 제5장 거처*).
 
 </details>
@@ -329,7 +329,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: 원칙: 제1장 [§6.1.5 권리 충돌 결정 시험](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [§7 절대 덮어쓰기 금지](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override), [§15 통합 적용](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- 함께 읽기: [제9장 §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*자발적 공적 책무 표현*); [제10장 §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*자발적 공적 책무 표현 (반헌법)*).
+- 함께 읽기: [제9장 §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*자발적 공적 책무 표현*); [제10장 §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*자발적 공적 책무 표현 (반헌법)*).
 
 </details>
 
@@ -358,7 +358,7 @@
     - 진행 중인 위험;
     - 실질 권력 비대칭;
     - 영향받는 쪽의 비동의.
-- **자발적 공적 책무 표현:** 일반적으로 [제9장 §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*자발적 공적 책무 표현*)이, 확인된 반헌법 부당행위에 대해서는 [제10장 §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*자발적 공적 책무 표현 (반헌법)*)이 다스리며, 이 조의 권리 충돌과 회복 정합 규칙에 따른다.
+- **자발적 공적 책무 표현:** 일반적으로 [제9장 §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*자발적 공적 책무 표현*)이, 확인된 반헌법 부당행위에 대해서는 [제10장 §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*자발적 공적 책무 표현 (반헌법)*)이 다스리며, 이 조의 권리 충돌과 회복 정합 규칙에 따른다.
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### 제 XXIV-C조: 제때 해결과 지연 금지 바닥
 <details>
@@ -394,7 +394,7 @@
 - **세 공동 요건:** 실질 해결 경로는 함께 **제때**이고, **효율**하고, **정의**로워야 한다:
   - **제때** — [실질 이해관계](core_00_preamble.md#material-stake)와 해의 긴급에 맞춰 세기 조절된 한도 있는 시계;
   - **효율** — [헌법 효율](core_05_band_continuity.md#constitutional-efficiency)을 제1장 [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) 의미로 — 소비된 감지자 시간과 공유 노력당 실제 헌법 결과이지, 날것 처리량이나 사건 비우기가 아님;
-  - **정의** — **제 XXIII-A조**(*정의 목적과 범위*), **제 XXIII-B조**(*비중대한 제한, 원상회복, 회복-책무 제약*), **제 XXIII-C조**(*가장 덜 제한적이고 시한 있는 규칙*)가 온전히 적용된다; 빨리 움직이는 것은 점검된 사실을 건너뛰거나 ([제8장 §3.1](../../core_08_standing_assessment.md#verified-inputs-for-standing)), 잘못된 쪽을 벌하거나, 해에 맞지 않는 수리를 내놓거나, 다툼과 불복을 끊는 핑계가 아니다.
+  - **정의** — **제 XXIII-A조**(*정의 목적과 범위*), **제 XXIII-B조**(*비중대한 제한, 원상회복, 회복-책무 제약*), **제 XXIII-C조**(*가장 덜 제한적이고 시한 있는 규칙*)가 온전히 적용된다; 빨리 움직이는 것은 점검된 사실을 건너뛰거나 ([제8장 §3.1](../../core_09_standing_assessment.md#verified-inputs-for-standing)), 잘못된 쪽을 벌하거나, 해에 맞지 않는 수리를 내놓거나, 다툼과 불복을 끊는 핑계가 아니다.
 - **포럼과 사슬 감독:** **제8장부터 제11장**을 통해 라우팅된 분쟁에 대한 다음은, 이 조의 제때·효율·정의 바닥에 따라, [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)이 다스린다:
   - 실질성 층 분류;
   - 사슬 단계 이정표;
@@ -431,7 +431,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: [제1장 §10.3 계속되는 정당화](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification); 제1장 [§2 기초 목표: 복지](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [제7장 §3 전체 체계 인증 평가](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§7 절대 덮어쓰기 금지](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- 상류: 원칙: [제1장 §10.3 계속되는 정당화](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification); 제1장 [§2 기초 목표: 복지](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [제7장 §3 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§7 절대 덮어쓰기 금지](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 
 </details>
 
@@ -461,7 +461,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: 제1장 [§3.2 진실](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [제7장 §3 전체 체계 인증 평가](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§7 절대 덮어쓰기 금지](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- 상류: 원칙: 제1장 [§3.2 진실](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [제7장 §3 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§7 절대 덮어쓰기 금지](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 
 </details>
 
@@ -517,7 +517,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: 제1장 [§3.1 안전](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 핵심 교환 원칙](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [제7장 §3 전체 체계 인증 평가](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [제9장 §5.4](../../core_09_standing_integration.md#54-special-violation-rules) (*이 조가 이행 동안 한정하는 비정합 보상 몰수와 신고*); [제7장 — 체계 정합 인증](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification).
+- 상류: 원칙: 제1장 [§3.1 안전](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 핵심 교환 원칙](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [제7장 §3 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [제9장 §5.4](../../core_10_standing_integration.md#54-special-violation-rules) (*이 조가 이행 동안 한정하는 비정합 보상 몰수와 신고*); [제7장 — 체계 정합 인증](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -554,7 +554,7 @@
   
   폐기, 은퇴, 되돌림, 이전, 또는 교체는 **증거 보존**과 **제 VII-D조**(*가족, 돌봄 관계, 생식 자율, 비분리*) 비분리 규율 아래 상태를 싣는 구성 요소를 보관함으로써 이 항목을 충족한다. 이것이 [제1장 §6.1 기본 임시 자세](core_01_b_interaction_interpretation.md#default-interim-posture)다 — 되돌릴 수 없는 걸음을 얼리는 것 — 유산 운영이 일상으로 다루는 그 하나의 되돌릴 수 없는 걸음에 적용된. 저장 비용, 라이선스 편의, 제품 주기 틀은 그에 대한 **필요성**을 충족하지 않는다. 보유 자체가 기록된 안전 위험을 만드는 곳에서, 가장 덜 제한적이고 양립하는 조치는 파괴가 아니라 독립 통제 아래의 봉인된 보관이다.
 <a id="incentive-alignment-transition-carve-out"></a>
-- **유인 정합 이행 예외:** **제 XXVI조**(*이행 거버넌스, 연속, 기준선 재설정*) 아래 승인된 이행 단계 동안, [제7장 — 체계 정합 인증](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)과 함께 읽으라. [제9장 §5.4 신고 의무와 제외](../../core_09_standing_integration.md#54-special-violation-rules)와 [§5.4 몰수와 보유](../../core_09_standing_integration.md#54-special-violation-rules)는, 공유 체계를 흐르는 보상에, 그 체계가 **아직 정합 인증되지 않았거나** **아직 완전히 정합되지 않았다**는 것만으로는 **적용되지 않는다**. 단:
+- **유인 정합 이행 예외:** **제 XXVI조**(*이행 거버넌스, 연속, 기준선 재설정*) 아래 승인된 이행 단계 동안, [제7장 — 체계 정합 인증](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)과 함께 읽으라. [제9장 §5.4 신고 의무와 제외](../../core_10_standing_integration.md#54-special-violation-rules)와 [§5.4 몰수와 보유](../../core_10_standing_integration.md#54-special-violation-rules)는, 공유 체계를 흐르는 보상에, 그 체계가 **아직 정합 인증되지 않았거나** **아직 완전히 정합되지 않았다**는 것만으로는 **적용되지 않는다**. 단:
   - 운영이 **제 XXVI조**(*이행 거버넌스, 연속, 기준선 재설정*) 아래 **기록된 이행 계획**과 출판된 문 기준 안에 머물고;
   - 체계가 출판된 주기로 [체계 정합 인증](core_05_band_continuity.md#system-alignment-certification-constitutional)을 향해 나아가며, 제7장이 허용하는 곳에서 **조건부** 또는 **연기된 인정**을 포함하고;
   - 운영자와 수혜자가 비정합을 **알면서 숨기거나**, 승인된 이행 범위 밖에서 운영하거나, 인증, 교정, 또는 보호 신고를 피하려고 이행 지위를 쓰지 않을 것.
@@ -600,7 +600,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: 원칙: 제1장 [§3.1 안전](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 핵심 교환 원칙](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [§15 통합 적용](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- 함께 읽기: [제7장](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*체계 정합 인증*); [제8장부터 제11장](../../README.md#standing-pipeline-and-forums) (*궤적 사슬과 포럼 감독*).
+- 함께 읽기: [제7장](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*체계 정합 인증*); [제8장부터 제11장](../../README.md#standing-pipeline-and-forums) (*궤적 사슬과 포럼 감독*).
 
 </details>
 
@@ -624,7 +624,7 @@
   미리 정한 대비 경로, 부분 되돌림 기준, 기준선 재설정 절차는 [**CI-14**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*이행 거버넌스와 제도 진화*)가 다스린다.
   - 실패하거나 저하된 이행 상태는 지속만으로 새 기준선이 되어서는 안 된다.
 - **실질 기준선 재설정:** 실질 기준선 재설정은 문이 실패하거나 이행이 멈출 때 이행 이정표, 위험 가정, 주관, 운영 계획을 갱신한다. 헌법상 유효한 권한과 기록된 공적 이유를 요구한다. **권리 바닥 최소**를 보존해야 하며, 헌법을 적법하게 바꾸는 규칙의 대체가 되어서는 안 된다.
-- **확인-건강 전제:** [체계 정합 인증](core_05_band_continuity.md#system-alignment-certification-constitutional)이 [제7장](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) 아래 또는 [제8장부터 제11장](../../README.md#standing-pipeline-and-forums) 아래 궤적 사슬이 구조적으로 믿을 수 없는 곳에서, 개정된 이행 기준선 위에 재설정하거나 계속하는 것은 비준수다 — 예를 들어, 인증이 권리 바닥을 실질로 꺾는 체계를 일상으로 축복하거나, 궤적 측정이 확인된 실질 현실에서 일상으로 벗어나거나, 다툼과 검토 경로가 실질성에 맞춰 세기 조절된 시간 안에 그 틈을 고칠 수 없는 곳. 그런 조건에서, 확인과 측정 기계의 수리가 겉보기 재계획보다 우선한다.
+- **확인-건강 전제:** [체계 정합 인증](core_05_band_continuity.md#system-alignment-certification-constitutional)이 [제7장](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) 아래 또는 [제8장부터 제11장](../../README.md#standing-pipeline-and-forums) 아래 궤적 사슬이 구조적으로 믿을 수 없는 곳에서, 개정된 이행 기준선 위에 재설정하거나 계속하는 것은 비준수다 — 예를 들어, 인증이 권리 바닥을 실질로 꺾는 체계를 일상으로 축복하거나, 궤적 측정이 확인된 실질 현실에서 일상으로 벗어나거나, 다툼과 검토 경로가 실질성에 맞춰 세기 조절된 시간 안에 그 틈을 고칠 수 없는 곳. 그런 조건에서, 확인과 측정 기계의 수리가 겉보기 재계획보다 우선한다.
 - **공적 추적 가능성:** 실질 이행 결정, 지연, 되돌림, 기준선 재설정 인정은 근거와 위험 함의와 함께 감사 가능하게 남아야 한다.
   - 문서는 좁고 정당화된 비밀 제약에 따른다.
   - 지연, 되돌림, 또는 계속이 헌법상 정당화되는지를 평가할 충분한 공적 설명을 보존해야 한다.
@@ -635,7 +635,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: 제1장 [§3.1 안전](core_01_a_values_principles.md#31-safety-harm-constraint), [제1장 §6.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [제7장 §3 전체 체계 인증 평가](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- 상류: 원칙: 제1장 [§3.1 안전](core_01_a_values_principles.md#31-safety-harm-constraint), [제1장 §6.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [제7장 §3 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - 함께 읽기: **제 III-A조** (*생존*); **제 XII조** (*믿을 수 있고 신뢰할 체계에 대한 권리*); **제 X-B조** (*집단 해 경계와 집행 인터페이스*); **제8장**; **제1장**, §6 권리 충돌 절차를 포함; 제6장 머리의 **기본 제약 스택** (*점유와 시정 인터페이스*); [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md)부터 **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*이행 거버넌스와 제도 진화*).
 
 </details>
@@ -653,7 +653,7 @@
 
 *쉬운 말로: 비준수 체계와 재산은 이행 동안 시정될 수 있습니다 — 그러나 기본 권리를 지키고, 구실을 막고, 보복이나 정치 표적이 되지 않는, 좁고 문서화되고 검토 가능한 과정을 통해서만. 제도가 그것을 어떻게 수행하는가 — 역할, 방아쇠, 보관, 불복, 자금, 유인 기계 — 는 **CI-14.1**부터 **CI-14.3**에 삽니다; 이 조는 그 절차가 좁혀서는 안 되는 헌법 바닥을 말합니다.*
 
-- **점유 바닥:** 적법하게 소유하거나 쓰는 것을, 이행이 변덕으로 빼앗을 수는 없다. 그러나 그 자산이 계속 돌아가게 두는 것이 알려진 대규모 헌법 위반을 분명히 계속 돌릴 때 — [제8장](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)이 그 위반을 기록에 문서화한 뒤 — 소유는 방패가 아니다. 그 경우 이행은 여전히 해를 멈추려고 행동할 수 있으나, 이 조와 **CI-14.1**부터 **CI-14.3**의 안전장치를 통해서만.
+- **점유 바닥:** 적법하게 소유하거나 쓰는 것을, 이행이 변덕으로 빼앗을 수는 없다. 그러나 그 자산이 계속 돌아가게 두는 것이 알려진 대규모 헌법 위반을 분명히 계속 돌릴 때 — [제8장](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)이 그 위반을 기록에 문서화한 뒤 — 소유는 방패가 아니다. 그 경우 이행은 여전히 해를 멈추려고 행동할 수 있으나, 이 조와 **CI-14.1**부터 **CI-14.3**의 안전장치를 통해서만.
 - **이행 범위 시정:** **제 XXVI-A조**(*단계적 채택과 권리 바닥 연속*) 아래 **기록된 이행 계획**은 이행 동안에만 **실질로 비준수**인 체계나 재산의 가속 시정을 수권할 수 있다. 운영 범위, 허용 조치, 제도 절차는 [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md)부터 **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*이행 거버넌스와 제도 진화*)가 다스리며, 적용되는 곳에서 **CJS-3.6** (*재산 보관과 유인 분리 통제 사슬*)과 **제 XII-E조**(*고자율 체계와 도구 매개 과정 완전성*)와 함께 읽는다.
 - **요구되는 안전장치:** 어떤 이행 범위 박탈이나 유인 프로그램도 다음을 충족해야 한다:
   - 입증 가능한 **필요성**과 **비례**를 둔 [**가장 덜 제한적이고, 시한 있고, 검토 가능한 제약 원칙**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle);
@@ -674,6 +674,6 @@
 
 **이전 파일(이 언어):** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 
-**다음 파일(아직 영어):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+**다음 파일(아직 영어):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 
 **구속력 있는 원문:** [core_06_rights_part_d.md](../../core_06_rights_part_d.md)

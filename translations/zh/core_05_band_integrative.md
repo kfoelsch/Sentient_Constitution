@@ -53,7 +53,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[第二章 §1 — 宗旨与角色](core_02_definition_structure.md#1-purpose-and-role)；[第二章 §2 定义完整性要求](core_02_definition_structure.md#2-definition-integrity-requirement)；[第三章 §2 — 来自可观察系统行为的不合规](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior)。
-- 下游：[第四章 §§1 与 4 — 排他执行与负担分配；合规证据标准](core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)；[第八章 — 贡献、违规与轨迹模型](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)；[不合规认定画像](core_05_band_accountability.md#non-compliance-finding-profile)。
+- 下游：[第四章 §§1 与 4 — 排他执行与负担分配；合规证据标准](core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)；[第八章 — 贡献、违规与轨迹模型](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)；[不合规认定画像](core_05_band_accountability.md#non-compliance-finding-profile)。
 - 一并阅读：[第一章 §11.3 错位检测](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection) 与 [§11.4 错位纠正与俘获响应](core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response) — **宪法错位**是尽责管理与激励上的偏离；它不是**不合规**的替代标签；[剩余风险 / 错位](core_05_band_continuity.md#residual-risk--misalignment) — 缓解之后的有界剩余风险；[系统对齐认证](core_05_band_continuity.md#system-alignment-certification-constitutional) — 第七章中的认证桥，不是一般不合规裁决。
 
 </details>
@@ -102,7 +102,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 下游：原则：[序言 §3.3 治理层纪律](core_00_preamble.md#33-governance-layers)；[第一章 §5 自由](core_01_a_values_principles.md#5-freedom-bounded-agency)。
-- 主责底线：[第十二章：宪法契约、正当性、授权与尽责管理](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)；[Article IX-C：治理参与与投票权资格](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)。
+- 主责底线：[第十二章：宪法契约、正当性、授权与尽责管理](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)；[Article IX-C：治理参与与投票权资格](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)。
 - 簇组件：[*宪法契约层与基础宪法选择*](core_05_band_integrative.md#constitutional-contract-layer)
 - 一并阅读：[基础宪法选择](core_05_band_integrative.md#foundational-constitutional-choice)、[约束性受影响方选择](core_05_band_participation.md#binding-stakeholder-choice-cluster)、[受影响方地位与权重](core_05_band_participation.md#stakeholder-status-and-weight-cluster)、[治理](core_05_band_accountability.md#governance)。
 - 层：**宪法契约层（CCL）** — 谁可以治理、凭何种正当性机制、在何种持久条款之下。有别于**受影响方的系统参与（SSP）**。
@@ -121,16 +121,16 @@
 
     它包括：
     - [基础宪法选择](core_05_band_integrative.md#foundational-constitutional-choice)；
-    - [已记载正当性机制](../../core_12_governance.md#1-authorization-and-legitimacy-of-governing-authority)，于 [第十二章 §1.1](../../core_12_governance.md#11-mechanism-families-auditability-and-pluralism)；
-    - [采纳](../../core_15_amendment_ratification.md#10-ratification-and-adoption) 与 [再授权](../../core_12_governance.md#11-mechanism-families-auditability-and-pluralism) 规则（[第十二章 §1.3](../../core_12_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails)；[第十六章 §4](../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority)）；以及
-    - 构成或持久重组治理权威的[政治平等底线](../../core_12_governance.md#41-entitlement-and-eligibility) — 有资格的感知者在该层有平等声音（[Article IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)）。
+    - [已记载正当性机制](../../core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority)，于 [第十二章 §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism)；
+    - [采纳](../../core_16_amendment_ratification.md#10-ratification-and-adoption) 与 [再授权](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) 规则（[第十二章 §1.3](../../core_13_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails)；[第十六章 §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)）；以及
+    - 构成或持久重组治理权威的[政治平等底线](../../core_13_governance.md#41-entitlement-and-eligibility) — 有资格的感知者在该层有平等声音（[Article IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)）。
   - **范围外：**
     - 普通受影响方咨询；
     - 操作性参与；
     - 系统使用、品牌或市场存在本身；
     - 结构与过程已经获得授权之后的普通领域治理；以及
     - 普通[受影响方权重](core_05_band_participation.md#stakeholder-weight) — 给受影响更深者更多声音 — 被用来设定创立或再授权投票（[序言 §3.3 治理层纪律](core_00_preamble.md#33-governance-layers)）。
-  - **操作性家园：** [第十二章](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) 陈述本层有约束力的授权、正当性与尽责管理规则。
+  - **操作性家园：** [第十二章](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) 陈述本层有约束力的授权、正当性与尽责管理规则。
   - **权利底线：** [Article IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)（*治理参与与投票权资格*）陈述那些第十二章规则不得收窄的平等参与资格。
 <a id="constitutional-contract-layer-a"></a>
 - **如何测量与评估**
@@ -138,7 +138,7 @@
 
     **主要评估：**
     - 问一问该事项是否是宪法契约层问题：授权谁治理、凭何种正当性机制、在何种持久条款之下。那一功能标记本层 — 不是系统有多大、多吵或用得有多广。
-    - 核验该契约的宪法对齐：所主张的权威必须匹配一项[已记载正当性机制](../../core_12_governance.md#1-authorization-and-legitimacy-of-governing-authority)、基础选择适用之处的[政治平等底线](../../core_12_governance.md#41-entitlement-and-eligibility)，以及使治理权在本宪法下保持应答义务的尽责管理与权利底线义务（[第一章 §11.1 对齐要求](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement)）。
+    - 核验该契约的宪法对齐：所主张的权威必须匹配一项[已记载正当性机制](../../core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority)、基础选择适用之处的[政治平等底线](../../core_13_governance.md#41-entitlement-and-eligibility)，以及使治理权在本宪法下保持应答义务的尽责管理与权利底线义务（[第一章 §11.1 对齐要求](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement)）。
     - 适用[序言 §3.3 治理层纪律](core_00_preamble.md#33-governance-layers)：把创立授权与已获授权系统内部的普通受影响方参与分开。
     - 不得把沉默、仅仅使用一个系统、市场存在或品牌当作宪法契约，或当作被治理的同意。
 <a id="constitutional-contract-layer-c"></a>
@@ -158,7 +158,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 下游：原则：[第一章 §5 自由](core_01_a_values_principles.md#5-freedom-bounded-agency)；[6. 过程冲突解决](#6-process-conflict-resolution)。
-- 主责底线：[第十二章第一章 §4.1](../../core_12_governance.md#41-entitlement-and-eligibility)（*基础宪法选择的政治平等底线*；*持久政治声音底线*）；[Article IX-C：治理参与与投票权资格](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)。
+- 主责底线：[第十二章第一章 §4.1](../../core_13_governance.md#41-entitlement-and-eligibility)（*基础宪法选择的政治平等底线*；*持久政治声音底线*）；[Article IX-C：治理参与与投票权资格](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)。
 - 簇组件：[*宪法契约层与基础宪法选择*](core_05_band_integrative.md#constitutional-contract-layer)
 - 一并阅读：[宪法契约层](core_05_band_integrative.md#constitutional-contract-layer)、[受影响方代表与权重限度（约束性受影响方选择）](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice)、[约束性受影响方选择](core_05_band_participation.md#binding-stakeholder-choice-cluster)、[程序公平](core_05_band_participation.md#procedural-fairness-constitutional)。
 - 层：**宪法契约层（CCL）**。有别于已获授权系统内部的**受影响方的系统参与（SSP）**。
@@ -176,7 +176,7 @@
     - 该权威的范围与持久条款。
 
     这属于[宪法契约层](core_05_band_integrative.md#constitutional-contract-layer)。
-    - 主责：[第十二章第一章 §4.1](../../core_12_governance.md#41-entitlement-and-eligibility)。
+    - 主责：[第十二章第一章 §4.1](../../core_13_governance.md#41-entitlement-and-eligibility)。
     - 权利层指针：[Article IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)（*治理参与与投票权资格*）。
     - 在[感知性不排除](core_05_band_participation.md#sentience-non-exclusion)下适用。
   - **范围外：**
@@ -323,7 +323,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 下游：问责测量族（*激励对齐与替代指标完整性作为宪法测量*）；原则：[宪法四元](core_00_preamble.md#constitutional-tetrad)（[§10](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) 下的四元俘获纪律；按[实质利害](core_00_preamble.md#material-stake)缩放）；[第七章 §3 整系统认证评价](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) 与 [§10 尽责管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)。
+- 下游：问责测量族（*激励对齐与替代指标完整性作为宪法测量*）；原则：[宪法四元](core_00_preamble.md#constitutional-tetrad)（[§10](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) 下的四元俘获纪律；按[实质利害](core_00_preamble.md#material-stake)缩放）；[第七章 §3 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) 与 [§10 尽责管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)。
 - 原则层规则：[第一章 §11.1 对齐要求](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement) 与 [第一章 §11.2 图方便的替代指标与替代指标偏离](core_01_c_stewardship_capacity_principles.md#112-convenient-proxies-and-proxy-divergence)；尽责管理与运营者适用：[第一章 §11.1.3 尽责管理与运营者适用](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) 与 [§11.1.4 角色深度与实质责任路径](core_01_c_stewardship_capacity_principles.md#1114-role-depth-and-material-responsibility-pathways)。
 - 错位检测：[第一章 §11.3 错位检测](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection)。
 - 主动纠正与俘获升级：[第一章 §11.4 错位纠正与俘获响应](core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response)。
@@ -574,7 +574,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 下游：原则：[15. 整合适用](core_01_c_stewardship_capacity_principles.md#15-integrated-application)（文本库作为整合整体来阅读）；[宪法四元](core_00_preamble.md#constitutional-tetrad) — **监督**腿；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims) — 纳入与保管下的**延续**宗旨；[8. 宪法解释](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)（有约束力源的识别）。
-- 下游：[第十六章 — 纳入桥](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)（*哪份已采纳**实施文本**有约束力、版本钉住、保管链，以及反编辑错位纪律*）。
+- 下游：[第十六章 — 纳入桥](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)（*哪份已采纳**实施文本**有约束力、版本钉住、保管链，以及反编辑错位纪律*）。
 - 一并阅读：[权威栈与内部层级](core_05_band_integrative.md#authority-stack) 与 [宪法约束](core_05_band_integrative.md#constitutional-constraint)。
 - 一并阅读：[序言 — 正向主责登记](core_00_preamble.md#4-principles-definitions-and-rights)（*正向领域→主责地图*，第 4–7 节）。
 
@@ -618,8 +618,8 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 下游：原则：[8. 宪法解释](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)；[15. 整合适用](core_01_c_stewardship_capacity_principles.md#15-integrated-application)（权威栈对内部层级，与第一章一并阅读）。
-- 下游：[第一章 — §8 宪法解释](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)（整合阅读与兜底层级）；[第一章 §8.4 宪法含义冲突解决](core_01_b_interaction_interpretation.md#84-constitutional-meaning-conflict-resolution)（*单一冲突程序，包括纳入层*）；[第十四章 — 采纳者的内部层级](../../core_14_expansion_supremacy.md#31-internal-hierarchy-for-adopters)；[第十六章](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)（*纳入桥 — 保管、版本、采纳；不是第二个栈或冲突顺序家园*）。
-- 下游：[第六章 — 层范围](../../core_06_rights_part_a.md#12-layer-scope)；[第十三章 §4 层范围](../../core_13_non_regression.md#4-layer-scope) 与 [第十五章 §12 层范围](../../core_15_amendment_ratification.md#12-layer-scope)（*主责不挪位的本地适用*）；贯穿编号 `core_*` 文书的章节开篇主责声明。
+- 下游：[第一章 — §8 宪法解释](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)（整合阅读与兜底层级）；[第一章 §8.4 宪法含义冲突解决](core_01_b_interaction_interpretation.md#84-constitutional-meaning-conflict-resolution)（*单一冲突程序，包括纳入层*）；[第十四章 — 采纳者的内部层级](../../core_15_expansion_supremacy.md#31-internal-hierarchy-for-adopters)；[第十六章](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)（*纳入桥 — 保管、版本、采纳；不是第二个栈或冲突顺序家园*）。
+- 下游：[第六章 — 层范围](../../core_06_rights_part_a.md#12-layer-scope)；[第十三章 §4 层范围](../../core_14_non_regression.md#4-layer-scope) 与 [第十五章 §12 层范围](../../core_16_amendment_ratification.md#12-layer-scope)（*主责不挪位的本地适用*）；贯穿编号 `core_*` 文书的章节开篇主责声明。
 - 一并阅读：[文本库](core_05_band_integrative.md#corpus)；[序言 — 正向主责登记](core_00_preamble.md#4-principles-definitions-and-rights)（*正向领域→主责地图*，第 4–7 节）；[可审计性](core_05_band_oversight.md#auditability) 与 [可质疑性](core_05_band_accountability.md#contestability)（*有约束力主张的实务可执行性*）；[序言 §3.3](core_00_preamble.md#33-governance-layers) 与 [宪法契约层](core_05_band_integrative.md#constitutional-contract-layer)（*治理层反替换*）；[宪法约束](core_05_band_integrative.md#constitutional-constraint)；**CJS-0.1**（*实施主题路由器*）。
 
 </details>
@@ -631,7 +631,7 @@
 - **它是什么**
   - **范围内：** 成对规则：先决定哪一类源在说话、它是否有约束力，贯穿操作性[文本库](core_05_band_integrative.md#corpus) — 只有那时，若有约束力的宪法内部仍有真实冲突，才决定如何解决。源层包括：
     - **有约束力的宪法源** — [序言](core_00_preamble.md)、[第一章](core_01_a_values_principles.md) 与本宪法其他编号章节，一并作为单一文书阅读；
-    - **有约束力的已纳入实施源** — 已采纳实施文本中指定的义务，在[第十五章](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) 与 [第十六章](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) 下的有效采纳与纳入范围内；以及
+    - **有约束力的已纳入实施源** — 已采纳实施文本中指定的义务，在[第十五章](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) 与 [第十六章](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) 下的有效采纳与纳入范围内；以及
     - **过程与地图支持源** — 架构地图、工作清单，以及回归或证据记录（包括 [doc_architecture.md](../../doc_architecture.md)），除非一份有效采纳文书明示把它们纳入为有约束力。
 
     **权威栈：** 统管宪法解释、采纳效果与层地位、贯穿宪法层、已纳入层与支持层的有序权威源框架。
@@ -665,13 +665,13 @@
     <a id="supremacy-and-enforceability"></a>
     <a id="supremacy-and-enforceability-a"></a>
     <a id="supremacy-and-enforceability-c"></a>
-    - **至上性：** 文本库有约束力的义务在其有效的源、采纳与治理层范围内优先。该至上性效果，是把本条目与操作性[文本库](core_05_band_integrative.md#corpus) 以及可适用的采纳或纳入文书一并适用的结果 — 包括[第十四章](../../core_14_expansion_supremacy.md#3-supremacy-relative-to-other-binding-norms) 相对其他规范的至上性，以及[第十四章 §5](../../core_14_expansion_supremacy.md#5-relation-to-applicable-external-law) 对可适用外部法的不取代。实施、支持文本、私人安排、紧急框架或运营实践，不得在其有效范围内收窄那些有约束力的义务。
+    - **至上性：** 文本库有约束力的义务在其有效的源、采纳与治理层范围内优先。该至上性效果，是把本条目与操作性[文本库](core_05_band_integrative.md#corpus) 以及可适用的采纳或纳入文书一并适用的结果 — 包括[第十四章](../../core_15_expansion_supremacy.md#3-supremacy-relative-to-other-binding-norms) 相对其他规范的至上性，以及[第十四章 §5](../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law) 对可适用外部法的不取代。实施、支持文本、私人安排、紧急框架或运营实践，不得在其有效范围内收窄那些有约束力的义务。
 
     有约束力主张的实务可执行性 — 可观察、可质疑的合规，而不是纸面承诺 — 在[可审计性](core_05_band_oversight.md#auditability) 与 [可质疑性](core_05_band_accountability.md#contestability) 下评估。治理层反替换（宪法契约对受影响方的系统参与）住在[序言 §3.3](core_00_preamble.md#33-governance-layers) 与 [宪法契约层](core_05_band_integrative.md#constitutional-contract-layer) 之下。
 
-    对采纳者，**第十四章**中的[采纳者的内部层级](../../core_14_expansion_supremacy.md#31-internal-hierarchy-for-adopters) 在有约束力的宪法与已采纳实施文本之间的界线上适用同一成对规则：
+    对采纳者，**第十四章**中的[采纳者的内部层级](../../core_15_expansion_supremacy.md#31-internal-hierarchy-for-adopters) 在有约束力的宪法与已采纳实施文本之间的界线上适用同一成对规则：
     - 本宪法及其整合定义控制文本如何被阅读、什么算合规；以及
-    - 已采纳实施文本仅在实际被采纳的范围内适用，并且不能撤回[第十三章不倒退](../../core_13_non_regression.md) 或本条目所陈述的至上性效果。
+    - 已采纳实施文本仅在实际被采纳的范围内适用，并且不能撤回[第十三章不倒退](../../core_14_non_regression.md) 或本条目所陈述的至上性效果。
   - **范围外：** 支持文件注解、地图、工作清单或采纳品牌本身 — 那些不是权威栈的层；未被当作重排源优先顺序或取代有约束力义务而提出的可选指引。
 <a id="authority-stack-a"></a>
 - **如何测量与评估**
@@ -701,12 +701,12 @@
     - 用志向性语言或本地实践，在有效源与治理层范围内取代文本库有约束力的义务；
     - 在另一主责层内部实质性重述一层主责层的义务，包括把读者指引散文抬升为操作性效力；
     - 把效力或治理章节中的触发、移送或升级语言，当作最终分类或制裁法，而主责层把该权威保留给第八至十章；
-    - 用过程、治理或实施框架来收窄、重新定义或挪走[第六章](../../core_06_rights_part_a.md#chapter-six-foundational-rights) 权利底线，违反[第十三章](../../core_13_non_regression.md) 不倒退与第六章开篇契约；
+    - 用过程、治理或实施框架来收窄、重新定义或挪走[第六章](../../core_06_rights_part_a.md#chapter-six-foundational-rights) 权利底线，违反[第十三章](../../core_14_non_regression.md) 不倒退与第六章开篇契约；
     - 当[序言主责登记](core_00_preamble.md#4-principles-definitions-and-rights) 已经指定典范家园时，在非主责层发明平行分类或工作流；
     - 以颠倒既定源层级的方式主张至上性或合规，或让实施、支持文本、私人安排、紧急框架或运营实践在有效范围内取代文本库有约束力的义务；
     - 把内部层级当作捷径，去挑选更苛刻的读法、把[第六章](../../core_06_rights_part_a.md#chapter-six-foundational-rights) 权利底线保护收缩到[第一章](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) 明示允许之外，或在普通阅读中用一层源替换另一层；
     - 把第五章定义当作压过原则或条款的竞争法体（[第一章 — §8 宪法解释](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)）；或
-    - 对采纳者，把已采纳实施文本当作在采纳范围内压过本宪法，或当作放松[第十三章](../../core_13_non_regression.md) 不倒退底线（**第十四章**中的[采纳者的内部层级](../../core_14_expansion_supremacy.md#31-internal-hierarchy-for-adopters)）。
+    - 对采纳者，把已采纳实施文本当作在采纳范围内压过本宪法，或当作放松[第十三章](../../core_14_non_regression.md) 不倒退底线（**第十四章**中的[采纳者的内部层级](../../core_15_expansion_supremacy.md#31-internal-hierarchy-for-adopters)）。
 
 ---
 

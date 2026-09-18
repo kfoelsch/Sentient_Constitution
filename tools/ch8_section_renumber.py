@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Renumber Chapter Seven: §1A → §2; shift §2–§10 up by one (§2→§3 … §10→§11)."""
+"""Renumber Chapter Eight: §1A → §2; shift §2–§10 up by one (§2→§3 … §10→§11)."""
 
 from __future__ import annotations
 
@@ -7,7 +7,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-CH7 = ROOT / "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation"
+CH8 = ROOT / "core_08_a_system_alignment_certification_evaluation.md"
 
 ANCHOR_REMAP: dict[str, str] = {
     "1a-whole-system-certification-evaluation": "2-whole-system-certification-evaluation",
@@ -72,46 +72,46 @@ HEADING_REMAP: list[tuple[str, str]] = [
 
 # Prose / trace section refs — longest match first.
 SECTION_REF_REMAP: list[tuple[str, str]] = [
-    ("Chapter Seven §1A.7", "Chapter Seven §2.7"),
-    ("Chapter Seven §1A.6", "Chapter Seven §2.6"),
-    ("Chapter Seven §1A.5", "Chapter Seven §2.5"),
-    ("Chapter Seven §1A.4", "Chapter Seven §2.4"),
-    ("Chapter Seven §1A.3", "Chapter Seven §2.3"),
-    ("Chapter Seven §1A.2", "Chapter Seven §2.2"),
-    ("Chapter Seven §1A.1", "Chapter Seven §2.1"),
-    ("Chapter Seven §1A Whole-System Certification Evaluation", "Chapter Seven §2 Whole-System Certification Evaluation"),
-    ("Chapter Seven §1A", "Chapter Seven §2"),
-    ("Chapter Seven §10", "Chapter Seven §11"),
-    ("Chapter Seven §9", "Chapter Seven §10"),
-    ("Chapter Seven §8", "Chapter Seven §9"),
-    ("Chapter Seven §7.3", "Chapter Seven §8.3"),
-    ("Chapter Seven §7.2", "Chapter Seven §8.2"),
-    ("Chapter Seven §7.1", "Chapter Seven §8.1"),
-    ("Chapter Seven §7", "Chapter Seven §8"),
-    ("Chapter Seven §6", "Chapter Seven §7"),
-    ("Chapter Seven §5E", "Chapter Seven §6E"),
-    ("Chapter Seven §5D", "Chapter Seven §6D"),
-    ("Chapter Seven §5C", "Chapter Seven §6C"),
-    ("Chapter Seven §5B", "Chapter Seven §6B"),
-    ("Chapter Seven §5A", "Chapter Seven §6A"),
-    ("Chapter Seven §5", "Chapter Seven §6"),
-    ("Chapter Seven §4", "Chapter Seven §5"),
-    ("Chapter Seven §3.2", "Chapter Seven §4.2"),
-    ("Chapter Seven §3.1", "Chapter Seven §4.1"),
-    ("Chapter Seven §3", "Chapter Seven §4"),
-    ("Chapter Seven §2", "Chapter Seven §3"),
-    ("Chapter Seven — §10", "Chapter Seven — §11"),
-    ("Chapter Seven — §9", "Chapter Seven — §10"),
-    ("Chapter Seven — §8", "Chapter Seven — §9"),
-    ("Chapter Seven — §7", "Chapter Seven — §8"),
-    ("Chapter Seven — §6", "Chapter Seven — §7"),
-    ("Chapter Seven — §5", "Chapter Seven — §6"),
-    ("Chapter Seven — §4", "Chapter Seven — §5"),
-    ("Chapter Seven — §3", "Chapter Seven — §4"),
-    ("Chapter Seven — §2", "Chapter Seven — §3"),
+    ("Chapter Eight §1A.7", "Chapter Eight §2.7"),
+    ("Chapter Eight §1A.6", "Chapter Eight §2.6"),
+    ("Chapter Eight §1A.5", "Chapter Eight §2.5"),
+    ("Chapter Eight §1A.4", "Chapter Eight §2.4"),
+    ("Chapter Eight §1A.3", "Chapter Eight §2.3"),
+    ("Chapter Eight §1A.2", "Chapter Eight §2.2"),
+    ("Chapter Eight §1A.1", "Chapter Eight §2.1"),
+    ("Chapter Eight §1A Whole-System Certification Evaluation", "Chapter Eight §2 Whole-System Certification Evaluation"),
+    ("Chapter Eight §1A", "Chapter Eight §2"),
+    ("Chapter Eight §10", "Chapter Eight §11"),
+    ("Chapter Eight §9", "Chapter Eight §10"),
+    ("Chapter Eight §8", "Chapter Eight §9"),
+    ("Chapter Eight §7.3", "Chapter Eight §8.3"),
+    ("Chapter Eight §7.2", "Chapter Eight §8.2"),
+    ("Chapter Eight §7.1", "Chapter Eight §8.1"),
+    ("Chapter Eight §7", "Chapter Eight §8"),
+    ("Chapter Eight §6", "Chapter Eight §7"),
+    ("Chapter Eight §5E", "Chapter Eight §6E"),
+    ("Chapter Eight §5D", "Chapter Eight §6D"),
+    ("Chapter Eight §5C", "Chapter Eight §6C"),
+    ("Chapter Eight §5B", "Chapter Eight §6B"),
+    ("Chapter Eight §5A", "Chapter Eight §6A"),
+    ("Chapter Eight §5", "Chapter Eight §6"),
+    ("Chapter Eight §4", "Chapter Eight §5"),
+    ("Chapter Eight §3.2", "Chapter Eight §4.2"),
+    ("Chapter Eight §3.1", "Chapter Eight §4.1"),
+    ("Chapter Eight §3", "Chapter Eight §4"),
+    ("Chapter Eight §2", "Chapter Eight §3"),
+    ("Chapter Eight — §10", "Chapter Eight — §11"),
+    ("Chapter Eight — §9", "Chapter Eight — §10"),
+    ("Chapter Eight — §8", "Chapter Eight — §9"),
+    ("Chapter Eight — §7", "Chapter Eight — §8"),
+    ("Chapter Eight — §6", "Chapter Eight — §7"),
+    ("Chapter Eight — §5", "Chapter Eight — §6"),
+    ("Chapter Eight — §4", "Chapter Eight — §5"),
+    ("Chapter Eight — §3", "Chapter Eight — §4"),
+    ("Chapter Eight — §2", "Chapter Eight — §3"),
 ]
 
-# Internal [§…] links inside ch7 only — applied after headings/anchors.
+# Internal [§…] links inside ch8 only — applied after headings/anchors.
 INTERNAL_LINK_REMAP: list[tuple[str, str]] = [
     ("[§1A](#1a-whole-system-certification-evaluation)", "[§2](#2-whole-system-certification-evaluation)"),
     ("[§1A.1](#1a1-systemic-scope-and-risk-factors)", "[§2.1](#21-systemic-scope-and-risk-factors)"),
@@ -138,7 +138,7 @@ INTERNAL_LINK_REMAP: list[tuple[str, str]] = [
 ]
 
 INTERNAL_BARE_REF_REMAP: list[tuple[str, str]] = [
-    ("**Chapter Seven §3.1** and **§3.2**", "**Chapter Seven §4.1** and **§4.2**"),
+    ("**Chapter Eight §3.1** and **§3.2**", "**Chapter Eight §4.1** and **§4.2**"),
     ("under **§3**", "under **§4**"),
     ("under **§4**", "under **§5**"),
     ("under **§5**", "under **§6**"),
@@ -199,14 +199,14 @@ def apply_replacements(text: str, pairs: list[tuple[str, str]]) -> str:
 def remap_markdown_links(text: str) -> str:
     for old, new in ANCHOR_REMAP.items():
         text = text.replace(
-            f"core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation#{old}",
-            f"core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation#{new}",
+            f"core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation#{old}",
+            f"core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation#{new}",
         )
     return text
 
 
-def remap_bare_section_refs_in_ch7(text: str) -> str:
-    """Remap bare [§N] and section N prose inside ch7 after protected §1 / §1.1."""
+def remap_bare_section_refs_in_ch8(text: str) -> str:
+    """Remap bare [§N] and section N prose inside ch8 after protected §1 / §1.1."""
     # Protect §1 and §1.1 from numeric shifts.
     text = text.replace("[§1.1]", "⟦§1.1⟧")
     text = text.replace("[§1](#1-purpose-and-role)", "⟦§1-LINK⟧")
@@ -236,38 +236,38 @@ def remap_bare_section_refs_in_ch7(text: str) -> str:
     return text
 
 
-def process_ch7(text: str) -> str:
+def process_ch8(text: str) -> str:
     text = apply_replacements(text, HEADING_REMAP)
     text = remap_anchors(text)
-    text = remap_bare_section_refs_in_ch7(text)
-    text = process_ch7_self_refs(text)
+    text = remap_bare_section_refs_in_ch8(text)
+    text = process_ch8_self_refs(text)
     return text
 
 
 DOUBLE_SHIFT_FIXES: list[tuple[str, str]] = [
-    ("Chapter Seven §3 Whole-System Certification Evaluation", "Chapter Seven §2 Whole-System Certification Evaluation"),
-    ("Chapter Seven §3.7 ", "Chapter Seven §2.7 "),
-    ("Chapter Seven §3.6 ", "Chapter Seven §2.6 "),
-    ("Chapter Seven §3.5 ", "Chapter Seven §2.5 "),
-    ("Chapter Seven §3.4 ", "Chapter Seven §2.4 "),
-    ("Chapter Seven §3.3 ", "Chapter Seven §2.3 "),
-    ("Chapter Seven §3.2 ", "Chapter Seven §2.2 "),
-    ("Chapter Seven §3.1 ", "Chapter Seven §2.1 "),
-    ("Chapter Seven §3.6", "Chapter Seven §2.6"),
-    ("Chapter Seven §3.2", "Chapter Seven §2.2"),
-    ("under **Chapter Seven §3**", "under **Chapter Seven §2**"),
-    ("apply **Chapter Seven §3** evaluation", "apply **Chapter Seven §2** evaluation"),
+    ("Chapter Eight §3 Whole-System Certification Evaluation", "Chapter Eight §2 Whole-System Certification Evaluation"),
+    ("Chapter Eight §3.7 ", "Chapter Eight §2.7 "),
+    ("Chapter Eight §3.6 ", "Chapter Eight §2.6 "),
+    ("Chapter Eight §3.5 ", "Chapter Eight §2.5 "),
+    ("Chapter Eight §3.4 ", "Chapter Eight §2.4 "),
+    ("Chapter Eight §3.3 ", "Chapter Eight §2.3 "),
+    ("Chapter Eight §3.2 ", "Chapter Eight §2.2 "),
+    ("Chapter Eight §3.1 ", "Chapter Eight §2.1 "),
+    ("Chapter Eight §3.6", "Chapter Eight §2.6"),
+    ("Chapter Eight §3.2", "Chapter Eight §2.2"),
+    ("under **Chapter Eight §3**", "under **Chapter Eight §2**"),
+    ("apply **Chapter Eight §3** evaluation", "apply **Chapter Eight §2** evaluation"),
     (
-        "[Chapter Seven §3](core_07_a_system_alignment_certification_evaluation.md#2-whole-system-certification-evaluation)",
-        "[Chapter Seven §2](core_07_a_system_alignment_certification_evaluation.md#2-whole-system-certification-evaluation)",
+        "[Chapter Eight §3](core_08_a_system_alignment_certification_evaluation.md#2-whole-system-certification-evaluation)",
+        "[Chapter Eight §2](core_08_a_system_alignment_certification_evaluation.md#2-whole-system-certification-evaluation)",
     ),
 ]
 
 
-def process_ch7_self_refs(text: str) -> str:
+def process_ch8_self_refs(text: str) -> str:
     text = text.replace(
-        "[Chapter Seven §1A.2](core_07_a_system_alignment_certification_evaluation.md#1a2-accessibility-under-sentience-non-exclusion)",
-        "[Chapter Seven §2.2](core_07_a_system_alignment_certification_evaluation.md#22-accessibility-under-sentience-non-exclusion)",
+        "[Chapter Eight §1A.2](core_08_a_system_alignment_certification_evaluation.md#1a2-accessibility-under-sentience-non-exclusion)",
+        "[Chapter Eight §2.2](core_08_a_system_alignment_certification_evaluation.md#22-accessibility-under-sentience-non-exclusion)",
     )
     text = text.replace(
         "**§9** states the standing bridge boundary explicitly.",
@@ -286,14 +286,14 @@ def process_other_file(text: str) -> str:
 def main() -> None:
     changed: list[str] = []
 
-    ch7_text = CH7.read_text(encoding="utf-8")
-    new_ch7 = process_ch7(ch7_text)
-    if new_ch7 != ch7_text:
-        CH7.write_text(new_ch7, encoding="utf-8")
-        changed.append(CH7.relative_to(ROOT).as_posix())
+    ch8_text = CH8.read_text(encoding="utf-8")
+    new_ch8 = process_ch8(ch8_text)
+    if new_ch8 != ch8_text:
+        CH8.write_text(new_ch8, encoding="utf-8")
+        changed.append(CH8.relative_to(ROOT).as_posix())
 
     for path in iter_markdown_files():
-        if path == CH7:
+        if path == CH8:
             continue
         old = path.read_text(encoding="utf-8")
         new = process_other_file(old)

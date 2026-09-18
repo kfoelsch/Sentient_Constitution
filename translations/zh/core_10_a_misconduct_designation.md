@@ -9,7 +9,7 @@
 
 > 以下内容**仅为读者指引**。不增加、减少或收窄本文件或其他章节中有约束力的义务。
 >
-> 本文件是[英语第十章，A 部分](../../core_10_a_misconduct_designation.md)的**读者语言试点**。**不是**感知者宪法的约束性部分。**不是**第二部宪法。**不是**发送版。**钉住** `SC-Corpus-2026.08.09`。若本译文与英语原文看似不一致，以编号文件 [`core_10_a_misconduct_designation.md`](../../core_10_a_misconduct_designation.md) 为准。阅读顺序与版本元数据保存在 [README.md](../../README.md)。方法与用语表：[translations/zh/README.md](README.md)。
+> 本文件是[英语第十章，A 部分](../../core_11_a_misconduct_designation.md)的**读者语言试点**。**不是**感知者宪法的约束性部分。**不是**第二部宪法。**不是**发送版。**钉住** `SC-Corpus-2026.08.09`。若本译文与英语原文看似不一致，以编号文件 [`core_10_a_misconduct_designation.md`](../../core_11_a_misconduct_designation.md) 为准。阅读顺序与版本元数据保存在 [README.md](../../README.md)。方法与用语表：[translations/zh/README.md](README.md)。
 >
 > 本文件包含**第十章，A 部分** — 指定决定框架、标准集、违规轴 `s = 7–9` 指定附着、正当程序保障、救济、预防锁定，以及自愿公开问责表达。**B 部分** — 具名模式应用与标准路由 — 在 [`core_10_b_misconduct_pattern_applications.md`](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)。
 >
@@ -17,7 +17,7 @@
 > - **测量边界：** 只有第八章在其统一比例 LEQU 标尺下指派数字影响槽位。本章**不**取代或改变该项测量。
 > - **反挪位规则：** A 部分不重述 B 部分的模式目录、第九章轨迹锁定，或第十三至十五章变更路径有效性规则。
 >
-> **s = 7、8 或 9** 的反宪法不当行为是规模上的**四元俘获** — 与[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)下的[延续宗旨](core_00_preamble.md#continuity)一并阅读。变更路径有效性交互续见于[第十三至十五章](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)；正义约束仍在[第六章 D 部分](core_06_rights_part_d.md)。
+> **s = 7、8 或 9** 的反宪法不当行为是规模上的**四元俘获** — 与[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)下的[延续宗旨](core_00_preamble.md#continuity)一并阅读。变更路径有效性交互续见于[第十三至十五章](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)；正义约束仍在[第六章 D 部分](core_06_rights_part_d.md)。
 >
 > **上游：** 第八章轨迹测量；第九章指定指针。
 > **下游：** [B 部分](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)（*模式应用*）；最终指定后的第九章信任锁定与轨迹效果整合；第十一章评议所路由；第十二章治理正当性后果。
@@ -73,8 +73,8 @@
 - 上游：[第八章](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)（*问题 1 与问题 2；经核实记录与轨迹测量*）。
 - 上游指针：[第九章 §2](core_09_standing_integration.md#2-integration-record-and-decision-order) 把合格的违规轴槽位 7–9 认定路由到此处，仅供指定。
 - 本文件：对违规轴 `s` = 7–9 的最终反宪法不当行为指定；指定标准；正当程序保障；第十三至十五章边界。具名模式路由续见于 [B 部分](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)。
-- 下游：[第九章](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)（*最终指定后的信任锁定与轨迹效果整合*）；[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*评议所路由与认证*）；[第十二章](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)（*治理正当性后果*）。
-- 一并阅读：[README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)；[第十三至十五章](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)（*变更路径行为可能牵涉标准 1–4*）。
+- 下游：[第九章](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)（*最终指定后的信任锁定与轨迹效果整合*）；[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*评议所路由与认证*）；[第十二章](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)（*治理正当性后果*）。
+- 一并阅读：[README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)；[第十三至十五章](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)（*变更路径行为可能牵涉标准 1–4*）。
 
 </details>
 
@@ -100,7 +100,7 @@
 - 保障与纪律：[§4](#4-due-process-safeguards-for-slot-assignment)（*正当程序保障、救济与预防*）；[§4.1](#4-1-remedy-and-correction-anti-constitutional)（*救济与纠正（反宪法）*）；[§4.2](#4-2-prevention-anti-constitutional-locks)（*预防 — 反宪法锁定*）；[§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional)（*自愿公开问责表达（反宪法）*）。
 - 模式应用：[§5](core_10_b_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing)（*具名模式路由进同一指定标准*）。
 - 变更路径边界：[§1](#1-cross-chapter-discipline)（*第十三至十五章边界*）。
-- 一并阅读：[第十三至十五章](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)，凡**退步性欺骗**与变更路径行为可能牵涉**标准 1–4**之处。
+- 一并阅读：[第十三至十五章](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)，凡**退步性欺骗**与变更路径行为可能牵涉**标准 1–4**之处。
 - 四元腿：**参与**、**监督**、**问责**、**及时性**（规模上的四元俘获）。首要宗旨：**延续**（首要）、**繁盛**。[实质利害](core_00_preamble.md#material-stake)缩放适用于保障与严重性。
 
 </details>
@@ -432,4 +432,4 @@
 
 **下一文件（本语种）：** [core_10_b_misconduct_pattern_applications.md](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)
 
-**有约束力的原文：** [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md)
+**有约束力的原文：** [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md)

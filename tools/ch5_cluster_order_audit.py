@@ -68,6 +68,11 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
     ],
     "#### Governance architecture, decentralization, and concentration": [
         "Governance",
+        "Material Control Line",
+        "Initiating Seat",
+        "Verify-or-Authorize Seat",
+        "Record Seat",
+        "Contest Seat",
         "Decentralization",
         "Market Structure",
         "Market Concentration Threshold",
@@ -111,7 +116,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Binding Stakeholder Choice — Decision-Resolution Requirements",
         "Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)",
         "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
-        "Chapter Twelve §4.3",
+        "Chapter Thirteen §4.3",
     ],
     "#### Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying": [
         "Harm",

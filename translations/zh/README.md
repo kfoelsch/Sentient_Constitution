@@ -5,7 +5,7 @@
 
 > 以下内容**仅为读者指引**。不增加、减少或收窄有约束力的义务。
 >
-> 本文件夹是**读者语言试点**。**不是**感知者宪法。**不能**改动编号 `core_*` 文件。**不是**发送版。阅读它**不是**[采纳本宪法](../../core_15_amendment_ratification.md#10-ratification-and-adoption)。若译文与英语原文看似不一致，以英语编号 `core_*` 为准，直至日后版本另有规定。见 [Reader-language editions](../../doc_architecture.md#reader-language-editions)。
+> 本文件夹是**读者语言试点**。**不是**感知者宪法。**不能**改动编号 `core_*` 文件。**不是**发送版。阅读它**不是**[采纳本宪法](../../core_16_amendment_ratification.md#10-ratification-and-adoption)。若译文与英语原文看似不一致，以英语编号 `core_*` 为准，直至日后版本另有规定。见 [Reader-language editions](../../doc_architecture.md#reader-language-editions)。
 >
 > **钉住文本库版本：** `SC-Corpus-2026.08.09`（自 2026-08-09 起生效；[README.md](../../README.md)）。**预发布。**
 
@@ -39,14 +39,14 @@
 | [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md) | [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md) |
 | [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md) | [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md) |
 | [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md) | [core_05_apex_timeliness_leg.md](../../core_05_apex_timeliness_leg.md) |
-| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_07_system_alignment_certification.md) |
-| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md) |
-| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md) |
-| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_08_standing_assessment.md) |
-| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_09_standing_integration.md) |
-| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md) |
-| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_11_forum.md) |
-| [core_12_governance.md](core_12_governance.md) | [core_12_governance.md](../../core_12_governance.md) |
+| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_08_system_alignment_certification.md) |
+| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md) |
+| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_09_standing_assessment.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_10_standing_integration.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md) |
+| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_12_forum.md) |
+| [core_12_governance.md](core_12_governance.md) | [core_12_governance.md](../../core_13_governance.md) |
 
 试点中的链接指向尚未翻译的英语文件。HTML 锚点（`id`）从原文复制，以便逐段对照。
 

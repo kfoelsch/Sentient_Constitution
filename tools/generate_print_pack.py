@@ -75,7 +75,7 @@ def render_pack(root: Path) -> str:
         "",
         f"Corpus edition: `{edition}` · effective **{effective}**",
         "",
-        "> **Reader guidance (non-operative).** This pack is process support. It is **not** the Constitution. It **cannot narrow** numbered `core_*` files. Opening or printing it is not [Chapter Fifteen §10](../../core_15_amendment_ratification.md#10-ratification-and-adoption) adoption. It does **not** override local, national, or international law ([Chapter Fourteen §5](../../core_14_expansion_supremacy.md#5-relation-to-applicable-external-law)). The wall sheet is one sentence per Article; the numbered Chapter Six files bind. If this pack and a source file disagree, the source file wins.",
+        "> **Reader guidance (non-operative).** This pack is process support. It is **not** the Constitution. It **cannot narrow** numbered `core_*` files. Opening or printing it is not [Chapter Sixteen §10](../../core_16_amendment_ratification.md#10-ratification-and-adoption) adoption. It does **not** override local, national, or international law ([Chapter Fifteen §5](../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)). The wall sheet is one sentence per Article; the numbered Chapter Six files bind. If this pack and a source file disagree, the source file wins.",
         "",
         "Human door: [`implementation/PRINT_PACK.md`](../../implementation/PRINT_PACK.md).",
         "",

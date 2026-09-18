@@ -6,7 +6,7 @@
 
 > 以下内容**仅为读者指引**。不增加、减少或收窄本文件或其他章节中有约束力的义务。
 >
-> 本文件是[英语第九章](../../core_09_standing_integration.md)的**读者语言试点**。**不是**感知者宪法的约束性部分。**不是**第二部宪法。**不是**发送版。**钉住** `SC-Corpus-2026.08.09`。若本译文与英语原文看似不一致，以编号文件 [`core_09_standing_integration.md`](../../core_09_standing_integration.md) 为准。阅读顺序与版本元数据保存在 [README.md](../../README.md)。方法与用语表：[translations/zh/README.md](README.md)。
+> 本文件是[英语第九章](../../core_10_standing_integration.md)的**读者语言试点**。**不是**感知者宪法的约束性部分。**不是**第二部宪法。**不是**发送版。**钉住** `SC-Corpus-2026.08.09`。若本译文与英语原文看似不一致，以编号文件 [`core_09_standing_integration.md`](../../core_10_standing_integration.md) 为准。阅读顺序与版本元数据保存在 [README.md](../../README.md)。方法与用语表：[translations/zh/README.md](README.md)。
 >
 > 本文件包含**第九章**，即轨迹链的整合与后果层。[第八章](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)排他主责经核实事实、轨迹记录、轨迹测量，以及贡献轴与违规轴的每一个槽位。本章接受那些输入为固定，并回答问题 3：随之而来的是什么。[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)只决定一项合格的 `s = 7`、`s = 8` 或 `s = 9` 违规是否获得相匹配的反宪法不当行为指定。
 
@@ -207,7 +207,7 @@
 
 **路径区分 — 治理投票 vs 受影响方参与：**
 
-- **治理投票**覆盖在 [第十二章 §4.1](../../core_12_governance.md#41-entitlement-and-eligibility) 下参与治理投票与可比正当性机制约束性集体选择，包括**基础宪法选择**。它**不**包括已获授权系统、机构或有界决定域内部的按利害加权声音。
+- **治理投票**覆盖在 [第十二章 §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) 下参与治理投票与可比正当性机制约束性集体选择，包括**基础宪法选择**。它**不**包括已获授权系统、机构或有界决定域内部的按利害加权声音。
 - **受影响方参与**覆盖按利害加权的影响、约束性受影响方选择，以及 [受影响方权重](core_05_band_participation.md#stakeholder-weight) 与 [约束性受影响方选择](core_05_band_participation.md#binding-stakeholder-choice-cluster) 下可比的受影响方的系统参与路径。它**不**抹去[受影响方](core_05_band_participation.md#stakeholder)地位本身，也**不**替代一项**治理投票**锁定。
 
 凡经核实的受影响方路径腐败、俘获、虚假利害滥用或强制性参与权重博弈是触发之处，适用 [§5.5](#55-special-locks) 下的[受影响方参与轨迹锁定](#55-special-locks)。
@@ -474,7 +474,7 @@
   - 在受影响系统、机构或有界决定域内，[受影响方权重](core_05_band_participation.md#stakeholder-weight) 与 [约束性受影响方选择](core_05_band_participation.md#binding-stakeholder-choice-cluster) 下可比的受影响方的系统参与路径。
 - **本身不限制：**
   - [受影响方](core_05_band_participation.md#stakeholder)地位，或该感知者被实质影响的承认；
-  - **治理投票**路径、**基础宪法选择**，或 [第十二章 §4.1](../../core_12_governance.md#41-entitlement-and-eligibility) 下可比正当性机制约束性集体选择；
+  - **治理投票**路径、**基础宪法选择**，或 [第十二章 §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) 下可比正当性机制约束性集体选择；
   - 权利底线最低限度、生存关键通路，或宪法所要求的审计、质疑与救济路径。
 - **风险：** 继续俘获或扭曲受影响方声音、虚假利害主导、被强制的参与权重，以及在同一或相关域中受影响方路径滥用的复发。
 - **受保护对象或利益：** 受影响的受影响方、约束性受影响方选择的完整性，以及相关系统、机构或有界决定域的非俘获。
@@ -806,10 +806,10 @@
 - 依赖单一脆弱办公室；或
 - 长期里程碑失败。
 
-**廉正**、**宪法**或**环境**评议所席位，或审理感知地位裁断的**技术评议所领域**席位的任命不足，是本小节下的耐久失败，与[第十二章 §1.2](../../core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums)一并阅读。
+**廉正**、**宪法**或**环境**评议所席位，或审理感知地位裁断的**技术评议所领域**席位的任命不足，是本小节下的耐久失败，与[第十二章 §1.2](../../core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums)一并阅读。
 
 <a id="92-remedy-parity-funding-floor"></a>
-**救济对等资金底线。** 对采纳者所管理的每一系统类，为救济、恢复与再评估所资助的能力，不得少于为同一类锁定管理、执行与保障施加所资助的能力。该比率必须与 [§4.4](#44-remedy-parity-and-lock-preconditions) 绊索数字一并公布。偏离对等的采纳者必须在[第十二章 §3.1](../../core_12_governance.md#31-stewardship-direction) 下记录理由，并在记录上显示救济开始与恢复审查仍在满足其层级时钟；预算对等不免除已触发的 [§4.4](#44-remedy-parity-and-lock-preconditions) 绊索，已满足的绊索也不免除悄悄偏离对等。无法为一类系统资助救济的采纳者，不得为该类建立锁定机制。
+**救济对等资金底线。** 对采纳者所管理的每一系统类，为救济、恢复与再评估所资助的能力，不得少于为同一类锁定管理、执行与保障施加所资助的能力。该比率必须与 [§4.4](#44-remedy-parity-and-lock-preconditions) 绊索数字一并公布。偏离对等的采纳者必须在[第十二章 §3.1](../../core_13_governance.md#31-stewardship-direction) 下记录理由，并在记录上显示救济开始与恢复审查仍在满足其层级时钟；预算对等不免除已触发的 [§4.4](#44-remedy-parity-and-lock-preconditions) 绊索，已满足的绊索也不免除悄悄偏离对等。无法为一类系统资助救济的采纳者，不得为该类建立锁定机制。
 
 <a id="93-cross-jurisdiction-continuity"></a>
 #### 9.3 跨管辖连续性
@@ -837,7 +837,7 @@
 
 - 上游：[§1](#1-immutable-chapter-eight-inputs) 至 [§9](#9-enforcement-realism)（*不可更改的第八章输入，经执行现实性与救济系统*）。
 - 分节：[§10.1](#101-informal-ecological-stewardship-competency-clearance)；[§10.2](#102-ecological-negligence-with-concealment)；[§10.3](#103-forum-integrity-deception-or-recusal-failure)；[§10.4](#104-recurrence-after-completed-restitution)；[§10.5](#105-champion-repair-while-a-lock-remains-active)；[§10.6](#106-institutional-vehicle-and-successor-evasion)；[§10.7](#107-misaligned-reward-retention)；[§10.8](#108-anti-constitutional-misconduct-allegation)；[§10.9](#109-rights-floor-waiver-or-unconstitutional-contract-devices)；[§10.10](#1010-contest-pathway-or-info-sphere-flooding)；[§10.11](#1011-infrastructure-denial-or-dependency-cutoff)；[§10.12](#1012-stakeholder-participation-corruption-or-false-stake-abuse)；[§10.13](#1013-obstruction-of-accountability)。
-- 一并阅读：[第八章 §4.6](core_08_standing_assessment.md#46-question-2-measurement-illustrations)（*问题 2 测量例示*）；[第八至十一章应用小品](../../core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes)（*全流程链领域走读*）；[第十章 §5](../../core_10_b_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing)（*指定侧模式路由 — 双层孪生；不是锁定类型目录*）。
+- 一并阅读：[第八章 §4.6](core_08_standing_assessment.md#46-question-2-measurement-illustrations)（*问题 2 测量例示*）；[第八至十一章应用小品](../../core_09-12_application_vignettes.md#chapters-eight-eleven-application-vignettes)（*全流程链领域走读*）；[第十章 §5](../../core_11_b_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing)（*指定侧模式路由 — 双层孪生；不是锁定类型目录*）。
 
 </details>
 
@@ -939,7 +939,7 @@
   - [§4.2](#42-general-standing-locks)（*范围限于被滥用的信任、角色、信用或影响路径的一般轨迹锁定*）；
   - [§5.1](#51-definition-and-attachment)（*附着字段*）；以及
   - [§5.4](#54-special-violation-rules)（*抵抗义务*，凡该文书要求非法或违宪遵从之处）。
-- **不可协商：** 本线索不在 [§5.5](#55-special-locks) 下创造特殊锁定。条款无效与指定标准仍在[第十章 §5.2](../../core_10_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms)。第九章从经核实记录附着普通具名路径锁定；只有最终指定触发 [§10.8](#108-anti-constitutional-misconduct-allegation) 下的反宪法信任锁定。
+- **不可协商：** 本线索不在 [§5.5](#55-special-locks) 下创造特殊锁定。条款无效与指定标准仍在[第十章 §5.2](../../core_11_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms)。第九章从经核实记录附着普通具名路径锁定；只有最终指定触发 [§10.8](#108-anti-constitutional-misconduct-allegation) 下的反宪法信任锁定。
 
 <a id="1010-contest-pathway-or-info-sphere-flooding"></a>
 #### 10.10 质疑路径或信息圈灌水
@@ -950,7 +950,7 @@
   - [§4.2](#42-general-standing-locks)（*对被滥用的路由、提交、排名、通路或影响路径的保护性具名路径锁定*）；
   - [§5.1](#51-definition-and-attachment) 与 [§5.2](#52-proportionality-and-calibration)（*所需、相称、可审查的范围*）；以及
   - [第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*运营收件分诊与反博弈 — 监督而不发明轨迹效果*）。
-- **不可协商：** 本线索不创造灌水锁定或其他 [§5.5](#55-special-locks) 类型。指定侧标准路由仍在[第十章 §5.3](../../core_10_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) 与 [§5.4](../../core_10_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)。普通保护锁定从固定记录推进，无论指定日后是否附着。
+- **不可协商：** 本线索不创造灌水锁定或其他 [§5.5](#55-special-locks) 类型。指定侧标准路由仍在[第十章 §5.3](../../core_11_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) 与 [§5.4](../../core_11_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)。普通保护锁定从固定记录推进，无论指定日后是否附着。
 
 <a id="1011-infrastructure-denial-or-dependency-cutoff"></a>
 #### 10.11 基础设施拒绝或依赖切断
@@ -962,7 +962,7 @@
   - [§5.1](#51-definition-and-attachment)（*包括与再造切断风险的网络或控制点隔离*）；
   - [§5.4](#54-special-violation-rules)（*仅在经核实危险支持时的强制性或限制自由保障*）；以及
   - [§9](#9-enforcement-realism)（*救济系统耐久与反规避*）。
-- **不可协商：** 本线索不在 [§5.5](#55-special-locks) 下创造基础设施锁定。指定侧标准路由仍在[第十章 §5.9](../../core_10_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct)。[§5.1](#51-definition-and-attachment) 下的全局非限制限度仍保护言论、请愿、受影响方参与、权利底线，以及锁定不得消灭的生存关键通路。
+- **不可协商：** 本线索不在 [§5.5](#55-special-locks) 下创造基础设施锁定。指定侧标准路由仍在[第十章 §5.9](../../core_11_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct)。[§5.1](#51-definition-and-attachment) 下的全局非限制限度仍保护言论、请愿、受影响方参与、权利底线，以及锁定不得消灭的生存关键通路。
 
 <a id="1012-stakeholder-participation-corruption-or-false-stake-abuse"></a>
 #### 10.12 受影响方参与腐败或虚假利害滥用
@@ -984,7 +984,7 @@
   - [§5.4](#54-special-violation-rules)（*隐瞒、规避、欺骗与职责相关塑造*）；
   - [§5.5](#55-special-locks)（*仅当 [§10.3](#103-forum-integrity-deception-or-recusal-failure) 下评议所完整性 / 应回避触发被满足时的评议所服务轨迹锁定*）；以及
   - [§10.8](#108-anti-constitutional-misconduct-allegation)（*当 `s` = 7–9 且反宪法不当行为被实质指控时的第十章门户*）。
-- **不可协商：** 本线索不创造阻碍锁定或其他 [§5.5](#55-special-locks) 类型。阻碍品格从不移动违规轴槽位。普通具名路径锁定在任何槽位都从固定记录推进。指定侧标准路由仍在[第十章 §5.11](../../core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)；只有最终指定触发 [§10.8](#108-anti-constitutional-misconduct-allegation) 下的反宪法信任锁定。把经核实阻碍*行为*与作为结构条件的[解决路径俘获](core_05_band_accountability.md#capture-of-resolution-pathways)区分开。
+- **不可协商：** 本线索不创造阻碍锁定或其他 [§5.5](#55-special-locks) 类型。阻碍品格从不移动违规轴槽位。普通具名路径锁定在任何槽位都从固定记录推进。指定侧标准路由仍在[第十章 §5.11](../../core_11_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)；只有最终指定触发 [§10.8](#108-anti-constitutional-misconduct-allegation) 下的反宪法信任锁定。把经核实阻碍*行为*与作为结构条件的[解决路径俘获](core_05_band_accountability.md#capture-of-resolution-pathways)区分开。
 
 <a id="1014-verified-cruelty-character"></a>
 #### 10.14 经核实残忍品格
@@ -1004,4 +1004,4 @@
 
 **下一文件（本语种）：** [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)
 
-**有约束力的原文：** [core_09_standing_integration.md](../../core_09_standing_integration.md)
+**有约束力的原文：** [core_09_standing_integration.md](../../core_10_standing_integration.md)

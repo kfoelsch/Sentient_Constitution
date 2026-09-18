@@ -30,7 +30,7 @@ audits. It enforces two invariants:
 
 2. **D/A/C widget row-shape and anchor resolution.** Across the consumer core
    files (``core_00_preamble.md`, `core_01_a_values_principles.md`, and `core_01_c_stewardship_capacity_principles.md``, ``core_02_definition_structure.md``,
-   the four Chapter Eleven parts), every line inside a D/A/C widget that appears
+   the four Chapter Twelve parts), every line inside a D/A/C widget that appears
    to be a widget row must match the canonical shape:
 
        - [Name](core_05_band_accountability.md#slug) · [O](...) · [M](...) · [A](...) · [C](...)
@@ -93,10 +93,10 @@ CONSUMERS = [
     "core_01_c_stewardship_capacity_principles.md",
     "core_02_definition_structure.md",
     "core_03_definition_integrity.md",
-    "core_08_standing_assessment.md",
-    "core_09_standing_integration.md",
-    "core_10_a_misconduct_designation.md",
-    "core_10_b_misconduct_pattern_applications.md",
+    "core_09_standing_assessment.md",
+    "core_10_standing_integration.md",
+    "core_11_a_misconduct_designation.md",
+    "core_11_b_misconduct_pattern_applications.md",
     "core_06_rights_part_a.md",
     "core_06_rights_part_b.md",
     "core_06_rights_part_c.md",
@@ -240,7 +240,7 @@ def collect_all_ch5_anchors(root: Path) -> set[str]:
 
 
 def directory_slugs_from_part_a(root: Path) -> set[str]:
-    """Anchor fragments declared by the Chapter Seven-Z directory."""
+    """Anchor fragments declared by the Chapter Eight-Z directory."""
     path = root / CH5_PART_A
     if not path.exists():
         return set()

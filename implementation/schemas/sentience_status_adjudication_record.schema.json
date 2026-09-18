@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "sentience_status_adjudication_record.schema.json",
   "title": "Sentience-Status Adjudication Record",
-  "description": "Machine-checkable form of the Chapter Five Sentience-Status Adjudication Record. Binding homes: Article V-E (Sentience-Status Adjudication Floor); Def.P1 Sentience-Status Adjudication Record; Chapter Eleven §5 Sentience-status adjudication hook. Includes the independent-representative and intake-decline-log fields required by that hook. This file is a validating schema, not a standing record and not who-counts. This schema cannot decide who counts.",
+  "description": "Machine-checkable form of the Chapter Five Sentience-Status Adjudication Record. Binding homes: Article V-E (Sentience-Status Adjudication Floor); Def.P1 Sentience-Status Adjudication Record; Chapter Twelve §5 Sentience-status adjudication hook. Includes the independent-representative and intake-decline-log fields required by that hook. This file is a validating schema, not a standing record and not who-counts. This schema cannot decide who counts.",
   "type": "object",
   "additionalProperties": false,
   "required": [
@@ -11,7 +11,7 @@
     "subject_entity",
     "status_determination_or_live_contested_posture",
     "lead_forum_family",
-    "chapter_eleven_special_route",
+    "chapter_twelve_special_route",
     "indicators_and_expert_evidence",
     "interim_contested_sentient_life_treatment",
     "review_trigger",
@@ -69,9 +69,9 @@
         "Environment",
         "Sentient"
       ],
-      "description": "Lead forum family. Default under Chapter Eleven §5 is Technical Forum Domains."
+      "description": "Lead forum family. Default under Chapter Twelve §5 is Technical Forum Domains."
     },
-    "chapter_eleven_special_route": {
+    "chapter_twelve_special_route": {
       "type": "string",
       "enum": [
         "none",
@@ -79,7 +79,7 @@
         "Integrity",
         "Institutional"
       ],
-      "description": "Any Chapter Eleven–warranted special route actually used. Use none when the default Technical Forum Domains lead applies with no special route."
+      "description": "Any Chapter Twelve–warranted special route actually used. Use none when the default Technical Forum Domains lead applies with no special route."
     },
     "indicators_and_expert_evidence": {
       "type": "object",
@@ -161,7 +161,7 @@
     "independent_representative": {
       "type": "object",
       "additionalProperties": false,
-      "description": "Appointment path, conflict screen, and access terms for the entity's independent representative under Chapter Eleven §5. Appointment mechanics remain in CF-4; this object records the result. Not a standing record.",
+      "description": "Appointment path, conflict screen, and access terms for the entity's independent representative under Chapter Twelve §5. Appointment mechanics remain in CF-4; this object records the result. Not a standing record.",
       "required": [
         "appointed",
         "appointment_path",

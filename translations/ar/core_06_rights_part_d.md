@@ -12,7 +12,7 @@
 >
 > **السابق (هذه اللغة):** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 >
-> **التالي (ما زال بالإنجليزية):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+> **التالي (ما زال بالإنجليزية):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 > **قوس القراءة:** المواد XXIII–XXVI (العدل والطوارئ، والتطور الدستوري، والانتقال وإعادة خط الأساس)
 
 </details>
@@ -79,7 +79,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: المبادئ: الفصل الأول [§3.1 السلامة](core_01_a_values_principles.md#31-safety-harm-constraint)، و[الفصل الأول §6.1 انضباط سجل القرار](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)، و[الفصل الأول §9.6 منع الإجراء المهين](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline)، و[§15 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- أسفل: [الفصل التاسع §4](../../core_09_standing_integration.md#4-violation-correction-and-prevention) (*الانتهاك والتصحيح والمنع*)؛ [المادة XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints)؛ [المادة XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule).
+- أسفل: [الفصل التاسع §4](../../core_10_standing_integration.md#4-violation-correction-and-prevention) (*الانتهاك والتصحيح والمنع*)؛ [المادة XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints)؛ [المادة XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule).
 - يُقرأ مع: [القسوة](core_05_band_accountability.md#cruelty) (*موطن الفصل الخامس لمعيار المعاناة-غايةً لأرضية منع القسوة*).
 
 </details>
@@ -329,7 +329,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: المبادئ: الفصل الأول [§6.1 انضباط سجل القرار](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)، و[§7 حظر التجاوز المطلق](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)، و[§15 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- يُقرأ مع: [الفصل التاسع §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*التعبير العلني الطوعي عن المساءلة*)؛ [الفصل العاشر §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*التعبير العلني الطوعي عن المساءلة (المضاد للدستور)*).
+- يُقرأ مع: [الفصل التاسع §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*التعبير العلني الطوعي عن المساءلة*)؛ [الفصل العاشر §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*التعبير العلني الطوعي عن المساءلة (المضاد للدستور)*).
 
 </details>
 
@@ -358,7 +358,7 @@
     - مخاطر جارية؛
     - عدم تماثل قوة مادي؛
     - عدم موافقة الأطراف المتأثرة.
-- **التعبير العلني الطوعي عن المساءلة:** يحكمه [الفصل التاسع §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*التعبير العلني الطوعي عن المساءلة*) عمومًا، و[الفصل العاشر §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*التعبير العلني الطوعي عن المساءلة (المضاد للدستور)*) لسوء السلوك المضاد للدستور المتحقَّق، خاضعًا لقواعد تصادم الحقوق والمواءمة الاستعادية في هذه المادة.
+- **التعبير العلني الطوعي عن المساءلة:** يحكمه [الفصل التاسع §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*التعبير العلني الطوعي عن المساءلة*) عمومًا، و[الفصل العاشر §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*التعبير العلني الطوعي عن المساءلة (المضاد للدستور)*) لسوء السلوك المضاد للدستور المتحقَّق، خاضعًا لقواعد تصادم الحقوق والمواءمة الاستعادية في هذه المادة.
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### المادة XXIV-C: الحل في وقته وأرضية منع التأخير
 <details>
@@ -394,7 +394,7 @@
 - **ثلاثة متطلبات مشتركة:** يجب أن تكون مسارات الحل المادية **في وقتها** و**كفؤة** و**عادلة** معًا:
   - **في وقتها** — ساعات محدودة مقيسة على [الرهان المادي](core_00_preamble.md#material-stake) واستعجال الضرر؛
   - **كفؤة** — [الكفاءة الدستورية](core_05_band_continuity.md#constitutional-efficiency) بمعنى الفصل الأول [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) — ناتج دستوري حقيقي لكل وقت كائن واعٍ وجهد مشترك مستهلَكين، لا تدفقًا خامًا ولا تفريغ قائمة قضايا؛
-  - **عادلة** — تبقى **المادة XXIII-A** (*هدف العدل ونطاقه*) و**المادة XXIII-B** (*القيد غير التافه والاسترداد وقيود المساءلة الترميمية*) و**المادة XXIII-C** (*القاعدة الأقل تقييدًا والمحدودة زمنيًا*) منطبقة كاملة؛ الإسراع ليس عذرًا لتجاوز وقائع مفحوصة ([الفصل الثامن §3.1](../../core_08_standing_assessment.md#verified-inputs-for-standing)) أو معاقبة الطرف الخطأ أو عرض إصلاح لا يطابق الضرر أو قطع الطعن والاستئناف.
+  - **عادلة** — تبقى **المادة XXIII-A** (*هدف العدل ونطاقه*) و**المادة XXIII-B** (*القيد غير التافه والاسترداد وقيود المساءلة الترميمية*) و**المادة XXIII-C** (*القاعدة الأقل تقييدًا والمحدودة زمنيًا*) منطبقة كاملة؛ الإسراع ليس عذرًا لتجاوز وقائع مفحوصة ([الفصل الثامن §3.1](../../core_09_standing_assessment.md#verified-inputs-for-standing)) أو معاقبة الطرف الخطأ أو عرض إصلاح لا يطابق الضرر أو قطع الطعن والاستئناف.
 - **إشراف المنتدى والسلسلة:** الآتي، للنزاعات الموجَّهة عبر **الفصول من الثامن إلى الحادي عشر**، يحكمه [الفصل الحادي عشر §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)، خاضعًا لأرضية في وقتها وكفؤة وعادلة في هذه المادة:
   - تصنيف مستوى الأهمية المادية؛
   - معالم مرحلة السلسلة؛
@@ -431,7 +431,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: المبادئ: [الفصل الأول §10.3 التبرير المستمر](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification)؛ الفصل الأول [§2 الهدف التأسيسي: العافية](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، و[الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و[§7 حظر التجاوز المطلق](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- أعلى: المبادئ: [الفصل الأول §10.3 التبرير المستمر](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification)؛ الفصل الأول [§2 الهدف التأسيسي: العافية](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، و[الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و[§7 حظر التجاوز المطلق](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 
 </details>
 
@@ -461,7 +461,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: المبادئ: الفصل الأول [§3.2 الحقيقة](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، و[الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و[§7 حظر التجاوز المطلق](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- أعلى: المبادئ: الفصل الأول [§3.2 الحقيقة](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، و[الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و[§7 حظر التجاوز المطلق](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 
 </details>
 
@@ -517,7 +517,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: المبادئ: الفصل الأول [§3.1 السلامة](core_01_a_values_principles.md#31-safety-harm-constraint)، و[§6.1 مبادئ المقايضة الجوهرية](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، و[الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ [الفصل التاسع §5.4](../../core_09_standing_integration.md#54-special-violation-rules) (*مصادرة المكافأة غير الموائمة وواجب الإبلاغ محدودان أثناء الانتقال بهذه المادة*)؛ [الفصل السابع — تصديق مواءمة النظام](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification).
+- أعلى: المبادئ: الفصل الأول [§3.1 السلامة](core_01_a_values_principles.md#31-safety-harm-constraint)، و[§6.1 مبادئ المقايضة الجوهرية](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، و[الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ [الفصل التاسع §5.4](../../core_10_standing_integration.md#54-special-violation-rules) (*مصادرة المكافأة غير الموائمة وواجب الإبلاغ محدودان أثناء الانتقال بهذه المادة*)؛ [الفصل السابع — تصديق مواءمة النظام](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -554,7 +554,7 @@
   
   يستوفي الإهمال أو السحب أو التراجع أو الترحيل أو الاستبدال هذا البند بأرشفة المكوّنات الحاملة للحالة تحت **حفظ الدليل** وانضباط عدم الفصل في **المادة VII-D** (*الأسرة وعلاقات الرعاية والاستقلال الإنجابي وعدم الفصل*). هذه [الوضعية المؤقتة الافتراضية للفصل الأول §6.1](core_01_b_interaction_interpretation.md#default-interim-posture) — تجميد الخطوات غير القابلة للعكس — مطبَّقة على الخطوة غير القابلة للعكس الوحيدة التي يعاملها التشغيل الموروث روتينية. تكلفة التخزين أو ملاءمة الترخيص أو تأطير دورة المنتج لا تستوفي **الضرورة** ضدها. حيث يخلق الاحتفاظ ذاته مخاطر سلامة موثَّقة، التدبير المتوافق الأقل تقييدًا هو الحراسة المختومة تحت سيطرة مستقلة، لا التدمير.
 <a id="incentive-alignment-transition-carve-out"></a>
-- **استثناء انتقال مواءمة الحوافز:** أثناء مراحل انتقال موافق عليها تحت **المادة XXVI** (*حوكمة الانتقال والاستمرارية وإعادة خط الأساس*)، يُقرأ مع [الفصل السابع — تصديق مواءمة النظام](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification). [الفصل التاسع §5.4 واجب الإبلاغ والاستبعادات](../../core_09_standing_integration.md#54-special-violation-rules) و[§5.4 المصادرة والاحتفاظ](../../core_09_standing_integration.md#54-special-violation-rules) **لا** ينطبقان على مكافآت تجري عبر أنظمة مشتركة لمجرد أن تلك الأنظمة **ليست بعد مصدَّقة على المواءمة** أو **ليست بعد موائمة كاملة**، شريطة:
+- **استثناء انتقال مواءمة الحوافز:** أثناء مراحل انتقال موافق عليها تحت **المادة XXVI** (*حوكمة الانتقال والاستمرارية وإعادة خط الأساس*)، يُقرأ مع [الفصل السابع — تصديق مواءمة النظام](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification). [الفصل التاسع §5.4 واجب الإبلاغ والاستبعادات](../../core_10_standing_integration.md#54-special-violation-rules) و[§5.4 المصادرة والاحتفاظ](../../core_10_standing_integration.md#54-special-violation-rules) **لا** ينطبقان على مكافآت تجري عبر أنظمة مشتركة لمجرد أن تلك الأنظمة **ليست بعد مصدَّقة على المواءمة** أو **ليست بعد موائمة كاملة**، شريطة:
   - أن يبقى التشغيل داخل **خطة انتقال موثَّقة** ومعايير بوابة منشورة تحت **المادة XXVI** (*حوكمة الانتقال والاستمرارية وإعادة خط الأساس*)؛
   - أن يتقدم النظام نحو [تصديق مواءمة النظام](core_05_band_continuity.md#system-alignment-certification-constitutional) على إيقاع منشور، بما في ذلك **اعتراف مشروط** أو **مؤجَّل** حيث يأذن الفصل السابع؛ و
   - ألا يكون المشغّلون والمستفيدون **يخفون عن علم** عدم المواءمة، ولا يشغّلون خارج نطاق الانتقال الموافق عليه، ولا يستخدمون مركز الانتقال للتحايل على التصديق أو التصحيح أو الإبلاغ المحمي.
@@ -600,7 +600,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: المبادئ: الفصل الأول [§3.1 السلامة](core_01_a_values_principles.md#31-safety-harm-constraint)، و[§6.1 مبادئ المقايضة الجوهرية](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، و[§15 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- يُقرأ مع: [الفصل السابع](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*تصديق مواءمة النظام*)؛ [الفصول من الثامن إلى الحادي عشر](../../README.md#standing-pipeline-and-forums) (*سلسلة الوضعية وإشراف المنتدى*).
+- يُقرأ مع: [الفصل السابع](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*تصديق مواءمة النظام*)؛ [الفصول من الثامن إلى الحادي عشر](../../README.md#standing-pipeline-and-forums) (*سلسلة الوضعية وإشراف المنتدى*).
 
 </details>
 
@@ -624,7 +624,7 @@
   تحكم مسارات الاحتياط المحددة مسبقًا ومعايير التراجع الجزئي وإجراءات إعادة خط الأساس [**CI-14**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*الحوكمة الانتقالية والتطور المؤسسي*).
   - لا يجوز لحالات انتقالية فاشلة أو متدهورة أن تصبح خط أساس جديدًا بالمثابرة وحدها.
 - **إعادة ضبط خط الأساس المادي:** تحدّث إعادة ضبط خط أساس مادي معالم الانتقال وافتراضات المخاطر والملكية وخطط التشغيل حين تفشل البوابات أو يتعثر الانتقال. تطلب سلطة صحيحة دستوريًا وأسبابًا عامة موثَّقة. ويجب أن تحفظ **حدّ أدنى أرضية الحقوق** وألا تحل محل قواعد تغيير هذا الدستور على نحو مشروع.
-- **شرط صحة التحقق المسبق:** إعادة الضبط أو الاستمرار على خط أساس انتقال منقَّح عدم امتثال حيث يكون [تصديق مواءمة النظام](core_05_band_continuity.md#system-alignment-certification-constitutional) تحت [الفصل السابع](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) أو سلسلة الوضعية تحت [الفصول من الثامن إلى الحادي عشر](../../README.md#standing-pipeline-and-forums) غير موثوق بنيويًا — مثلًا حيث يبارك التصديق روتينيًا أنظمة تهزم أرضيات الحقوق ماديًا، أو ينحرف قياس الوضعية روتينيًا عن الواقع المادي المتحقَّق، أو لا تستطيع مسارات الطعن والمراجعة تصحيح تلك الفجوات داخل زمن مقيس على الأهمية المادية. في تلك الشروط، يتقدّم إصلاح آلة التحقق والقياس على إعادة التخطيط التجميلية.
+- **شرط صحة التحقق المسبق:** إعادة الضبط أو الاستمرار على خط أساس انتقال منقَّح عدم امتثال حيث يكون [تصديق مواءمة النظام](core_05_band_continuity.md#system-alignment-certification-constitutional) تحت [الفصل السابع](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) أو سلسلة الوضعية تحت [الفصول من الثامن إلى الحادي عشر](../../README.md#standing-pipeline-and-forums) غير موثوق بنيويًا — مثلًا حيث يبارك التصديق روتينيًا أنظمة تهزم أرضيات الحقوق ماديًا، أو ينحرف قياس الوضعية روتينيًا عن الواقع المادي المتحقَّق، أو لا تستطيع مسارات الطعن والمراجعة تصحيح تلك الفجوات داخل زمن مقيس على الأهمية المادية. في تلك الشروط، يتقدّم إصلاح آلة التحقق والقياس على إعادة التخطيط التجميلية.
 - **قابلية التتبع العامة:** يجب أن تبقى قرارات الانتقال المادية والتأخيرات والعكوس وتحديدات إعادة ضبط خط الأساس قابلة للتدقيق مع علة ودلالات مخاطر.
   - يبقى التوثيق خاضعًا لقيود سرية ضيقة ومبرَّرة.
   - ويجب أن يحفظ تفسيرًا عامًا كافيًا لتقييم هل التأخير أو التراجع أو الاستمرار مبرَّر دستوريًا.
@@ -635,7 +635,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: المبادئ: الفصل الأول [§3.1 السلامة](core_01_a_values_principles.md#31-safety-harm-constraint)، و[الفصل الأول §6.1 انضباط سجل القرار](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)، و[الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- أعلى: المبادئ: الفصل الأول [§3.1 السلامة](core_01_a_values_principles.md#31-safety-harm-constraint)، و[الفصل الأول §6.1 انضباط سجل القرار](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)، و[الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - يُقرأ مع: **المادة III-A** (*البقاء*)؛ **المادة XII** (*الحق في أنظمة موثوقة وجديرة بالثقة*)؛ **المادة X-B** (*حد الضرر الجماعي وواجهة الإنفاذ*)؛ **الفصل الثامن**؛ **الفصل الأول**، بما في ذلك إجراء تصادم الحقوق في §6؛ **رصّة القيد الافتراضية** عند افتتاح الفصل السادس (*واجهة الحيازة والمعالجة*)؛ [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) إلى **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*الحوكمة الانتقالية والتطور المؤسسي*).
 
 </details>
@@ -653,7 +653,7 @@
 
 *بعبارات بسيطة: يجوز معالجة الأنظمة والملكية غير الممتثلة أثناء الانتقال — لكن فقط عبر إجراءات ضيقة وموثَّقة وقابلة للمراجعة تحمي الحقوق الأساسية وتمنع الذريعة ولا تتحول انتقامًا ولا استهدافًا سياسيًا. كيف تنفّذ المؤسسات ذلك — الأدوار والمحفّزات والحراسة والاستئنافات والصناديق وميكانيكا الحوافز — يعيش في **CI-14.1** إلى **CI-14.3**؛ تبيّن هذه المادة الأرضية الدستورية التي لا يجوز لتلك الإجراءات تضييقها.*
 
-- **أرضية الحيازة:** إذا ملكتم أو استخدمتم شيئًا على نحو مشروع، لا يستطيع الانتقال نزعه عنكم نزوةً. لكن الملكية ليست درعًا حين يُبقي ترك ذلك الأصل يعمل انتهاكًا دستوريًا معروفًا وكبير النطاق جاريًا بوضوح — بعد أن وثّق [الفصل الثامن](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) الانتهاك في السجل. في تلك الحال، ما زال يجوز للانتقال أن يعمل لوقف الضرر، لكن فقط عبر ضمانات هذه المادة و**CI-14.1** إلى **CI-14.3**.
+- **أرضية الحيازة:** إذا ملكتم أو استخدمتم شيئًا على نحو مشروع، لا يستطيع الانتقال نزعه عنكم نزوةً. لكن الملكية ليست درعًا حين يُبقي ترك ذلك الأصل يعمل انتهاكًا دستوريًا معروفًا وكبير النطاق جاريًا بوضوح — بعد أن وثّق [الفصل الثامن](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) الانتهاك في السجل. في تلك الحال، ما زال يجوز للانتقال أن يعمل لوقف الضرر، لكن فقط عبر ضمانات هذه المادة و**CI-14.1** إلى **CI-14.3**.
 - **المعالجة ذات النطاق الانتقالي:** يجوز لـ**خطة انتقال موثَّقة** تحت **المادة XXVI-A** (*التبني المرحلي واستمرارية أرضية الحقوق*) أن ترخّص معالجة معجَّلة لأنظمة أو ملكية **غير ممتثلة ماديًا** أثناء الانتقال فقط. يحكم النطاق التشغيلي والتدابير المسموحة والإجراء المؤسسي [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) إلى **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*الحوكمة الانتقالية والتطور المؤسسي*)، مقروءًا مع **CJS-3.6** (*سلسلة ضبط حراسة الملكية وفصل الحوافز*) و**المادة XII-E** (*الأنظمة عالية الاستقلال ونزاهة الإجراء بوساطة الأدوات*) حيث ينطبق.
 - **الضمانات المطلوبة:** يجب أن يستوفي أي برنامج حرمان أو حافز ذي نطاق انتقالي:
   - [**مبدأ القيد الأقل تقييدًا والمحدود زمنيًا والقابل للمراجعة**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)، مع **ضرورة** و**تناسب** قابلين للإظهار؛
@@ -674,6 +674,6 @@
 
 **الملف السابق (هذه اللغة):** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 
-**الملف التالي (ما زال بالإنجليزية):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+**الملف التالي (ما زال بالإنجليزية):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 
 **الأصل الملزم:** [core_06_rights_part_d.md](../../core_06_rights_part_d.md)

@@ -41,7 +41,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：原則：[第二章、§1 — 目的と役割](core_02_definition_structure.md#1-purpose-and-role)；[第二章、§2 定義の誠実性要件](core_02_definition_structure.md#2-definition-integrity-requirement)。
-- 下流：[第三章、第 2 節 — 観察可能なシステム振る舞いからの不遵守](#2-non-compliance-from-observable-system-behavior)；[第四章、第 2 節 — 定義の追跡可能性要件](core_04_burden_traceability_verification.md#2-definition-traceability-requirement)；[第四章、第 5 節 — 遵守証拠の標準](core_04_burden_traceability_verification.md#5-compliance-evidence-standard)；[第八章 — 貢献、違反、軌跡モデル](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)。
+- 下流：[第三章、第 2 節 — 観察可能なシステム振る舞いからの不遵守](#2-non-compliance-from-observable-system-behavior)；[第四章、第 2 節 — 定義の追跡可能性要件](core_04_burden_traceability_verification.md#2-definition-traceability-requirement)；[第四章、第 5 節 — 遵守証拠の標準](core_04_burden_traceability_verification.md#5-compliance-evidence-standard)；[第八章 — 貢献、違反、軌跡モデル](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)。
 - あわせて読む：[第一章、第 4.2 節 — 真理（認識的誠実性の制約）](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) — 述べられた構造または意図ではなく観察可能な振る舞いに基づく解釈は、定義の誠実性の層において憲法上の真理制約を運用化する。
 
 </details>
@@ -93,7 +93,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：原則：[第三章、第 1 節 — 定義の誠実性と回避防止の制約](#1-definition-integrity-and-anti-evasion-constraints)；[第二章、§2 定義の誠実性要件](core_02_definition_structure.md#2-definition-integrity-requirement)；[第二章、§2.2 構造的または適用上の弱化による不遵守](core_02_definition_structure.md#22-non-compliance-by-structural-or-applied-weakening)。
-- 下流：第 [2.1](#21-common-evasion-patterns) 節から第 [2.6](#26-uncertainty-integrity-and-non-exploitation-constraint) 節までの類型カタログ；[3. 不遵守所見プロファイル](#3-non-compliance-finding-profiles)；[第四章、第 5 節 — 遵守証拠の標準](core_04_burden_traceability_verification.md#5-compliance-evidence-standard)；[第四章、第 3 節 — 追跡可能性の観測可能性要件](core_04_burden_traceability_verification.md#3-observability-of-traceability-requirement)；[第七章 §16](../../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)（*システム整合認証の再開と回避防止のポインタ*）；[第八章 — 貢献、違反、軌跡モデル](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)。
+- 下流：第 [2.1](#21-common-evasion-patterns) 節から第 [2.6](#26-uncertainty-integrity-and-non-exploitation-constraint) 節までの類型カタログ；[3. 不遵守所見プロファイル](#3-non-compliance-finding-profiles)；[第四章、第 5 節 — 遵守証拠の標準](core_04_burden_traceability_verification.md#5-compliance-evidence-standard)；[第四章、第 3 節 — 追跡可能性の観測可能性要件](core_04_burden_traceability_verification.md#3-observability-of-traceability-requirement)；[第七章 §16](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)（*システム整合認証の再開と回避防止のポインタ*）；[第八章 — 貢献、違反、軌跡モデル](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)。
 - あわせて読む：[第二章、§1 — 目的と役割](core_02_definition_structure.md#1-purpose-and-role) — 完全な機能システム条件のもとでの共同充足規則のため；[第二章、§2.4 曖昧さのもとでの解釈規則](core_02_definition_structure.md#24-interpretation-rule-under-ambiguity) — 保障を弱め、評価されなければならないものを縮め、または実世界の結果を悪化させる解釈は無効である；[第四章、第 5 節 — 遵守証拠の標準](core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — 証拠は本節の規則のもとでの遵守を示さなければならない；ここで不遵守となる証明は証明の負担に失敗する；[不遵守](../../core_05_band_integrative.md#non-compliance)。
 
 </details>
@@ -220,7 +220,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[第三章、第 2 節 — 観察可能なシステム振る舞いからの不遵守](#2-non-compliance-from-observable-system-behavior)；[第二章、§2 定義の誠実性要件](core_02_definition_structure.md#2-definition-integrity-requirement)。
-- 下流：[第四章、第 2 節 — 定義の追跡可能性要件](core_04_burden_traceability_verification.md#2-definition-traceability-requirement)；[第七章 — システム整合認証](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)；[第八章 — 貢献、違反、軌跡モデル](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)；[第九章 — 軌跡効果と統合](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)；[CJS-3.1 憲法の羅針とクラスター地図](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)。
+- 下流：[第四章、第 2 節 — 定義の追跡可能性要件](core_04_burden_traceability_verification.md#2-definition-traceability-requirement)；[第七章 — システム整合認証](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)；[第八章 — 貢献、違反、軌跡モデル](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)；[第九章 — 軌跡効果と統合](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)；[CJS-3.1 憲法の羅針とクラスター地図](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)。
 - あわせて読む：[不遵守所見プロファイル](../../core_05_band_accountability.md#non-compliance-finding-profile) — プロファイル欄の典範の O/M/A/C 本拠；[憲法四元](core_00_preamble.md#constitutional-tetrad)；[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)。
 
 </details>
@@ -234,19 +234,19 @@
 - 失敗をもっともよく記述する[憲法四元](core_00_preamble.md#constitutional-tetrad)の脚と[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)の向き — たとえば監督、参加、または説明責任が繁栄または継続と交差したもの — を名指してよい
 - 基礎となる定義が満たされるかを変えない
 - 第二の判定ラベルをつくらない
-- [第八章](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)の貢献または違反の測定を置き換えない
+- [第八章](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)の貢献または違反の測定を置き換えない
 
 軌跡効果は、誰が評価されているか、およびシステムがすでに認証されているかに依る。下記の分節がそれらの場合を定める。
 
 <a id="31-standing-effects-for-already-certified-systems"></a>
 #### 3.1 すでに認証されたシステムについての軌跡効果
 
-システムがすでに[システム整合認証](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)のもとで走っているなら — 承認、条件付き承認、または期限切れでない再検証を含む — そのシステムの機能範囲についての実質的な検証済み不遵守は、**そのシステム**についての[第八章](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)の軌跡測定に**入らなければならない**。[検証済み入力ゲート](../../core_08_standing_assessment.md#verified-inputs-for-standing)を通った事実だけが入ってよい。第八章と第九章のもとで軌跡を測定し適用せよ。再開、撤回、または他の認証の帰結は[第七章](../../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)のもとにとどまる。それらはそのシステムの軌跡記録を置き換えない。
+システムがすでに[システム整合認証](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)のもとで走っているなら — 承認、条件付き承認、または期限切れでない再検証を含む — そのシステムの機能範囲についての実質的な検証済み不遵守は、**そのシステム**についての[第八章](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)の軌跡測定に**入らなければならない**。[検証済み入力ゲート](../../core_09_standing_assessment.md#verified-inputs-for-standing)を通った事実だけが入ってよい。第八章と第九章のもとで軌跡を測定し適用せよ。再開、撤回、または他の認証の帰結は[第七章](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)のもとにとどまる。それらはそのシステムの軌跡記録を置き換えない。
 
 <a id="32-standing-effects-at-first-certification"></a>
 #### 3.2 最初の認証における軌跡効果
 
-システムがなお**最初の**[システム整合認証](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)にあり、まだ承認されていないなら — 承認が延期され、または拒否されるところを含む — 検証済み不遵守は、第一次には第七章のもとでの**認証の帰結**を決める。その帰結は、条件付き承認、承認の延期、非承認、または比較可能な結果でありうる。それらの認証記録は、事実が支えるときに、なお[第七章 §15](../../core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing)のもとで検証済み軌跡入力を供給してよい。本章は、すでに認証されて走っているシステムが受けなければならないのと同じ軌跡記録を求めない。
+システムがなお**最初の**[システム整合認証](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)にあり、まだ承認されていないなら — 承認が延期され、または拒否されるところを含む — 検証済み不遵守は、第一次には第七章のもとでの**認証の帰結**を決める。その帰結は、条件付き承認、承認の延期、非承認、または比較可能な結果でありうる。それらの認証記録は、事実が支えるときに、なお[第七章 §15](../../core_08_b_system_alignment_certification_record_process.md#15-relationship-to-standing)のもとで検証済み軌跡入力を供給してよい。本章は、すでに認証されて走っているシステムが受けなければならないのと同じ軌跡記録を求めない。
 
 <a id="33-standing-effects-for-sentients-and-institutions"></a>
 #### 3.3 感知者と制度についての軌跡効果
@@ -262,7 +262,7 @@
 - 隠蔽
 - 実行可能な予防能力
 
-制度の軌跡は、制度が評価されている対象であるとき、または不遵守パターンの担体として検証されるときに影響を受ける。制度の記録は、個々の感知者の記録から別個にたどれるままである。それらの場合は[第八章](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)および[第九章](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)のもとで適用せよ。所見プロファイルは経路づけと監査を助ける。それ自体は軌跡の帰結、スロット、ロック、ゲート、または救済を定めない。
+制度の軌跡は、制度が評価されている対象であるとき、または不遵守パターンの担体として検証されるときに影響を受ける。制度の記録は、個々の感知者の記録から別個にたどれるままである。それらの場合は[第八章](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)および[第九章](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)のもとで適用せよ。所見プロファイルは経路づけと監査を助ける。それ自体は軌跡の帰結、スロット、ロック、ゲート、または救済を定めない。
 
 <a id="34-operational-constraints"></a>
 #### 3.4 運用上の制約

@@ -2,7 +2,7 @@
 """Map prose section labels to resolved anchors and flag numbering divergences.
 
 When a Markdown link's text contains a section label (``§5.4``,
-``Chapter Nine §5.4 Duty to resist``), or is only a dotted number
+``Chapter Ten §5.4 Duty to resist``), or is only a dotted number
 (``4.1``), the resolved heading's current number must be that label or a
 dotted parent/child of it. The fragment must exist. When the numbers are
 related, the heading must carry a current-numbering id whose prefix

@@ -75,7 +75,7 @@
 
 <br>
 
-*用直白的话说：价值与权利会发生碰撞 — **安全**与**真理**优先。在此之后，限度必须相称、必要、伤害最小化，并尽可能轻。不能为了舒服而隐藏真理；不能为了方便而剥去隐私；自由限度按 [§5.1](core_01_a_values_principles.md#51-limitation-discipline) 适用；权利冲突需要有记录的决定检验；对遵从说谎的指标不算数。短时域优化不能通过 [第七章 §3.6 时间一致性约束](../../core_07_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint) 下的评价。**§6.1–§6.3** 承载权衡规则、披露与隐私约束，以及权利碰撞程序。*
+*用直白的话说：价值与权利会发生碰撞 — **安全**与**真理**优先。在此之后，限度必须相称、必要、伤害最小化，并尽可能轻。不能为了舒服而隐藏真理；不能为了方便而剥去隐私；自由限度按 [§5.1](core_01_a_values_principles.md#51-limitation-discipline) 适用；权利冲突需要有记录的决定检验；对遵从说谎的指标不算数。短时域优化不能通过 [第七章 §3.6 时间一致性约束](../../core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint) 下的评价。**§6.1–§6.3** 承载权衡规则、披露与隐私约束，以及权利碰撞程序。*
 
 **安全**与**真理**在冲突若不违反它们便无法解决之处优先。
 
@@ -183,7 +183,7 @@
 - 只优化局部或即时伤害，同时制造更大的系统性、汇总或生态伤害；
 - 为了让已识别各方看起来伤害最小化，而把伤害外部化到生态系统、未识别的感知者或其他未被计入的各方。
 
-**时域纪律。** 以长期系统成本为代价的短期优化，通不过此项检验。伤害最小化必须计入[第七章 §3.6 时间一致性约束](../../core_07_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint)：一项在当前时段看起来伤害最小化、却可预见地在相关宪法时域上造成更大伤害的决定，不合规。
+**时域纪律。** 以长期系统成本为代价的短期优化，通不过此项检验。伤害最小化必须计入[第七章 §3.6 时间一致性约束](../../core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint)：一项在当前时段看起来伤害最小化、却可预见地在相关宪法时域上造成更大伤害的决定，不合规。
 
 **与宪法底线的关系。** 伤害最小化在 [§6.1.4](#614-constitutional-floors-safety-and-process-character-constraints) 所述宪法底线*之上*运行。它绝不授权：
 - 永久消灭权利底线最低标准；
@@ -610,7 +610,7 @@
 - 下游：[§8.1 宪法不绕过原则](#81-constitutional-no-bypass-principle)、[§8.2 定义层与必要纪律](#82-definitional-layer-and-required-disciplines)、[§8.3 歧义解决](#83-ambiguity-resolution)、[§8.4 宪法含义冲突解决](#84-constitutional-meaning-conflict-resolution)（[§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)）；[2. 基础目标：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing) 至 [15. 综合适用](core_01_c_stewardship_capacity_principles.md#15-integrated-application)；[6. 过程冲突解决](#6-process-conflict-resolution)，用于价值碰撞程序；[第六章：基础权利](../../core_06_rights_part_a.md#chapter-six-foundational-rights)的不收缩默认。
 - 一并阅读：[第二至四章](core_02_definition_structure.md)与[第五章](core_05__definitions_home.md#chapter-five-foundational-definitions) — 本章每一用语的解释与证据层。
 - 一并阅读：[宪法四元](core_00_preamble.md#constitutional-tetrad)与[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims) — 整合价值框架的解释背景；凡具有实质相关性之处，[实质利害](core_00_preamble.md#material-stake)缩放。
-- 一并阅读：[权威栈与内部层级](../../core_05_band_integrative.md#authority-stack)（《源层地位》）；[第十六章](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)（《保管、版本与采纳框架》 — 不是第二冲突顺序家园）；[第十三章](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)与[第十四章](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)（§8.4 下的不回撤与采纳方层级门）。
+- 一并阅读：[权威栈与内部层级](../../core_05_band_integrative.md#authority-stack)（《源层地位》）；[第十六章](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)（《保管、版本与采纳框架》 — 不是第二冲突顺序家园）；[第十三章](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)与[第十四章](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)（§8.4 下的不回撤与采纳方层级门）。
 - 一并阅读：[Article XXII：宪法解释、审查与反俘获保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)，用于机构解释保障（不是本节的替代）。
 
 </details>
@@ -737,7 +737,7 @@
   - 有约束力的宪法源之内（作为一件文书一并阅读的 `core_*`）；以及
   - 纳入层，针对**最严** / **更严**的纳入文本。
 - 源层地位在第五章[权威栈与内部层级](../../core_05_band_integrative.md#authority-stack)下识别。
-- [第十六章](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)提供保管、版本钉住与采纳框架。它**不**重述本程序。
+- [第十六章](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)提供保管、版本钉住与采纳框架。它**不**重述本程序。
 - 对于**运行中的价值与权利碰撞** — 而不是文本层优先顺序 — 适用 **[§6 过程冲突解决](#6-process-conflict-resolution)**。
 
 **操作性顺序。** 按**此顺序**适用下列各项：
@@ -774,7 +774,7 @@
 <a id="843-incorporation-layer"></a>
 ##### 8.4.3 纳入层
 
-在 **§8.4.1** 与 **§8.4.2** 下的宪法阅读之后，适用已采纳实施文本中的**指定义务** — 该项采纳实际使之生效的具名操作办法义务。仅在 **[第十六章](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** 下的**有效采纳与纳入范围**之内适用它们（谁持有记录、钉住哪一版本，以及采纳如何被框定）。
+在 **§8.4.1** 与 **§8.4.2** 下的宪法阅读之后，适用已采纳实施文本中的**指定义务** — 该项采纳实际使之生效的具名操作办法义务。仅在 **[第十六章](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)** 下的**有效采纳与纳入范围**之内适用它们（谁持有记录、钉住哪一版本，以及采纳如何被框定）。
 
 当下列规则说**最严**或**更严**时，这些词与 **[§8.3](#83-ambiguity-resolution)** 中的**歧义**规则含义相同：作为整合整体的**最充分保护效果**，而不是孤立的**最大限制**或**抽象严格**。
 
@@ -789,7 +789,7 @@
   - 这**不是**靠偏好**抽象严格**来解决实质宪法歧义。
 - **跨文件更严者胜出：** 凡两份或更多已采纳实施文件对同一有意义范围的风险设定不同标准之处，更严的、清楚获采纳的规则控制，并与上文的**适用的最严者**和**更严的、清楚获采纳的基线**一致。
   - 源层地位仍在[权威栈与内部层级](../../core_05_band_integrative.md#authority-stack)下。
-  - 保管、版本与采纳框架仍在 **[第十六章](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** 下。
+  - 保管、版本与采纳框架仍在 **[第十六章](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)** 下。
   - 当被引用的画像与被引用的实施标签对该风险看似冲突时，同一规则适用。
 
 <a id="844-combined-satisfaction"></a>
@@ -801,7 +801,7 @@
 - 纳入的联合结构文本中**单一**操作簇的规则 — 只做该簇的一部分并不算遵从 — 见 **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)**（《操作簇》）；或
 - 第五章规则：**依赖簇**定义必须一并满足 — 见 **[联合调用与满足](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**。
 
-**本分节何时适用。** 这些规则在 **[第十六章](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** 下的有效采纳与纳入范围之内，于下列任一情形适用：
+**本分节何时适用。** 这些规则在 **[第十六章](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)** 下的有效采纳与纳入范围之内，于下列任一情形适用：
 
 1. **一种情形，不止一份文件：** 事实要求适用不止一份纳入的实施文件 — 例如系统、机构、评议所或联合结构文本。哪些文件适用，由采纳范围以及那些文件为该事实提供的主题路由决定，而不是只挑选最容易满足的那一份。
 2. **采纳使联合结构集合生效：** 采纳文书把指定的联合结构实施文本（**CJS** 文件夹以及采纳链中列出的任何其他联合结构文件）适用于采纳方。

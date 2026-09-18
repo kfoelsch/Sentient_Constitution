@@ -28,6 +28,7 @@ if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
 from corpus_paths import binding_corpus_scope  # noqa: E402
+from chapter_insertion_diff import is_insertion_only_change  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 RULE = "SECTION-CITE-NAME-01"
@@ -225,7 +226,15 @@ def scan_file(root: Path, rel_path: str) -> list[Finding]:
 
 def changed_markdown_findings(root: Path, allowed_scope: set[str]) -> list[Finding]:
     result = subprocess.run(
-        ["git", "diff", "--unified=0", "--diff-filter=ACM", "HEAD", "--", "*.md"],
+        [
+            "git",
+            "diff",
+            "--unified=0",
+            "--diff-filter=ACM",
+            "HEAD",
+            "--",
+            *sorted(allowed_scope),
+        ],
         cwd=root,
         check=True,
         capture_output=True,
@@ -234,6 +243,7 @@ def changed_markdown_findings(root: Path, allowed_scope: set[str]) -> list[Findi
     findings: list[Finding] = []
     rel_path: str | None = None
     new_line = 0
+    removed_lines: list[str] = []
     masked_by_file: dict[str, set[int]] = {}
     for line in result.stdout.splitlines():
         if line.startswith("+++ b/"):
@@ -242,10 +252,14 @@ def changed_markdown_findings(root: Path, allowed_scope: set[str]) -> list[Findi
         if line.startswith("@@"):
             match = re.search(r"\+(\d+)(?:,\d+)?", line)
             new_line = int(match.group(1)) if match else 0
+            removed_lines = []
             continue
         if rel_path is None or rel_path not in allowed_scope:
             continue
         if line.startswith("+") and not line.startswith("+++"):
+            if is_insertion_only_change(removed_lines, line[1:]):
+                new_line += 1
+                continue
             if rel_path not in masked_by_file:
                 path = root / rel_path
                 masked_by_file[rel_path] = (
@@ -256,6 +270,9 @@ def changed_markdown_findings(root: Path, allowed_scope: set[str]) -> list[Findi
             if new_line not in masked_by_file[rel_path]:
                 findings.extend(scan_line(rel_path, new_line, line[1:]))
             new_line += 1
+            continue
+        if line.startswith("-") and not line.startswith("---"):
+            removed_lines.append(line[1:])
             continue
         if not line.startswith("-"):
             new_line += 1

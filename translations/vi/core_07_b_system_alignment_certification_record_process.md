@@ -7,7 +7,7 @@
 
 > Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nó không thêm, bớt hay thu hẹp nghĩa vụ ràng buộc ở tệp này hay ở các chương khác.
 >
-> Tệp này là một **thử nghiệm ngôn ngữ đọc** của [Chương Bảy, Phần B tiếng Anh](../../core_07_b_system_alignment_certification_record_process.md). **Không** phải phần ràng buộc của Hiến pháp Hữu tri. **Không** phải một hiến pháp thứ hai. **Không** phải một ấn bản phát hành. Nó được **ghim** vào `SC-Corpus-2026.08.09`. Nếu bản dịch này và nguyên bản tiếng Anh có vẻ lệch nhau, tệp đánh số [`core_07_b_system_alignment_certification_record_process.md`](../../core_07_b_system_alignment_certification_record_process.md) thắng. Thứ tự đọc và siêu dữ liệu ấn bản được giữ ở [README.md](../../README.md). Phương pháp và bảng thuật ngữ: [translations/vi/README.md](README.md).
+> Tệp này là một **thử nghiệm ngôn ngữ đọc** của [Chương Bảy, Phần B tiếng Anh](../../core_08_b_system_alignment_certification_record_process.md). **Không** phải phần ràng buộc của Hiến pháp Hữu tri. **Không** phải một hiến pháp thứ hai. **Không** phải một ấn bản phát hành. Nó được **ghim** vào `SC-Corpus-2026.08.09`. Nếu bản dịch này và nguyên bản tiếng Anh có vẻ lệch nhau, tệp đánh số [`core_07_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md) thắng. Thứ tự đọc và siêu dữ liệu ấn bản được giữ ở [README.md](../../README.md). Phương pháp và bảng thuật ngữ: [translations/vi/README.md](README.md).
 >
 > Nó chứa **Chương Bảy, Phần B** — nội dung **hồ sơ** chứng nhận, minh bạch và khả năng tranh biện, vai trò thành phần của diễn đàn, trình tự giám sát, cầu quỹ đạo, và mở lại (**§11–§16**, tiếp từ Phần A §1–§10). **Phần A** — yêu cầu đánh giá — nằm ở [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md).
 >
@@ -30,7 +30,7 @@
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: [Phần A §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*mục đích chứng nhận và lộ trình đánh giá*); [Phần A §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) đến [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*đầu ra đánh giá cho hồ sơ*); [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad); [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims).
-- Hạ nguồn: [§11](#11-certification-record) đến [§16](#16-reopening-drift-and-non-evasion); [Chương Tám](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); [Chương Mười Một](core_11_forum.md#chapter-eleven-forums-and-jurisdiction).
+- Hạ nguồn: [§11](#11-certification-record) đến [§16](#16-reopening-drift-and-non-evasion); [Chương Tám](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model); [Chương Mười Một](core_11_forum.md#chapter-eleven-forums-and-jurisdiction).
 - Đọc cùng: [corpus_forum.md](../../corpus_forum.md), **CF-5** và **CF-7**.
 
 </details>
@@ -392,7 +392,7 @@ Khi tranh biện được diễn đàn giám sát là bắt buộc, rà nội b�
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: [§11](#11-certification-record) đến [§13](#13-forum-supervision-and-component-roles) (*hồ sơ chứng nhận và giám sát diễn đàn*); [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad); [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims); [Đầu vào đã xác minh cho quỹ đạo](core_05_band_accountability.md#verified-inputs-for-standing).
-- Hạ nguồn: [Chương Tám](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*hồ sơ quỹ đạo và cổng đầu vào đã xác minh*); [Chương Chín](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*hiệu ứng quỹ đạo và tích hợp*).
+- Hạ nguồn: [Chương Tám](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*hồ sơ quỹ đạo và cổng đầu vào đã xác minh*); [Chương Chín](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*hiệu ứng quỹ đạo và tích hợp*).
 - Đọc cùng: **Điều III-A** (*lối vào thiết yếu sống còn nơi chứng nhận cổng việc giao*).
 
 </details>
@@ -450,8 +450,8 @@ Khi tranh biện được diễn đàn giám sát là bắt buộc, rà nội b�
 
 - Hồ sơ chứng nhận **không** áp hiệu ứng quỹ đạo;
 - Chương này chỉ nắm **chứng nhận thẳng hàng hệ thống và hồ sơ liên quan** — xem [Lời nói đầu — sổ đăng ký chủ sở hữu dương](core_00_preamble.md#4-principles-definitions-and-rights), đọc cùng [Chồng thẩm quyền và thứ bậc nội bộ](core_05_band_integrative.md#authority-stack);
-- [Chương Tám](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) nắm hồ sơ quỹ đạo và đo thuần trục;
-- [Chương Chín](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) nắm tích hợp quỹ đạo và hiệu ứng;
+- [Chương Tám](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) nắm hồ sơ quỹ đạo và đo thuần trục;
+- [Chương Chín](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) nắm tích hợp quỹ đạo và hiệu ứng;
 - Chương này chỉ được cung đầu vào đã xác minh qua cổng trên;
 - Nó không được nuốt, nêu lại, hay dời nghĩa vụ chủ sở hữu Chương Tám hoặc Chương Chín.
 
@@ -466,7 +466,7 @@ Hồ sơ chứng nhận không phải xác định trạng thái hữu tri và k
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*phân loại sai và lệch lạc*); [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*khiếm khuyết đánh giá rủi ro và công bố rủi ro*); [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) (*trình bày sai dấu chân và lệch lạc*); [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) (*trình bày sai dòng tài nguyên, lệch lạc rút, và hỗ trợ không đủ*); [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) (*lệch lạc mẫu phân biệt và lẩn tránh qua chỉ số thay*); [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) (*lệch lạc khả năng tiếp cận và điều chỉnh chỉ-trên-giấy*); [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) (*lệch lạc mờ đánh giá, cổng giấy thông hành, và lệch lạc lỗi thời áp đặt*); [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*lệch lạc tin cậy giả, lệch lạc khuyến khích lệch, và lệch lạc tính toàn vẹn phục hồi*); [§12](#12-transparency-auditability-and-contestability) (*khả năng tranh biện*); [§14](#14-supervisory-sequence-and-contestability-chain) (*tranh biện đáng tin và mở lại*); [Chương Ba §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) và [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*tính toàn vẹn định nghĩa và lẩn tránh*); [Chương Ba §2.1 Mẫu lẩn tránh thường](core_03_definition_integrity.md#21-common-evasion-patterns) (*lẩn tránh phạm vi-và-ranh-giới*); [Điều lệ](core_05_band_continuity.md#charter) (*lệch Điều lệ–hành vi và rà quá hạn*).
-- Hạ nguồn: [Chương Mười Một](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*giám sát diễn đàn được mở lại*); [Chương Tám](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*cổng đầu vào đã xác minh nơi sự kiện nâng phát hiện bất lợi*).
+- Hạ nguồn: [Chương Mười Một](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*giám sát diễn đàn được mở lại*); [Chương Tám](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*cổng đầu vào đã xác minh nơi sự kiện nâng phát hiện bất lợi*).
 - Đọc cùng: [corpus_systems.md](../../corpus_systems.md) (*nghĩa vụ triển khai hệ thống đã hợp nhất*), kể cả **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Tái phân loại và quản trị vòng đời*) cho tái đánh giá loại dữ liệu định kỳ, và **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*Yêu cầu tái phân loại*) cho cò đánh giá lại lớp hệ thống và xác minh SAC.
 
 </details>
@@ -515,4 +515,4 @@ Một **Hồ sơ chứng nhận hệ thống** bị **buộc phạm vi** và **b
 
 **Tệp tiếp theo (ngôn ngữ này):** [core_08_standing_assessment.md](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)
 
-**Nguyên bản ràng buộc:** [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md)
+**Nguyên bản ràng buộc:** [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md)

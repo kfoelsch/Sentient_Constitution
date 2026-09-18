@@ -16,7 +16,7 @@ four duties — participation, oversight, accountability, and timeliness — sca
 
 ### 5. Key Practical Process Pipelines
 
-Chapters Seven through Eleven are one chain — certify the system, measure help and harm on two separate tracks, apply real effects and remedy, and keep forums from being the sole final home for a claim against themselves — so duties stay real in daily life.
+Chapter Seven supplies the separation-of-duties floor; Chapters Eight through Twelve then form one chain — certify the system, measure help and harm on two separate tracks, apply real effects and remedy, and keep forums from being the sole final home for a claim against themselves — so duties stay real in daily life.
 
 [Source](../../core_00_preamble.md#5-key-practical-process-pipelines)
 
@@ -28,7 +28,7 @@ when texts conflict, apply this order — Constitution and non-regression first,
 
 ### 9.1.1 Shared Stewardship Standard
 
-human and AI stewards owe the same Chapter One duties. [Chapter Nine §5.4](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) binds both to refuse unlawful or unconstitutional instructions. Companions may add logging, attribution, and capability limits. They may not swap in a softer internal code, skip standing measurement, or close contest pathways. This is not a new morals stack — it is the anti-special-pleading rule. The bonus, the deadline, and cover-instruction tests live in [§9.1.2](../../core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints).
+human and AI stewards owe the same Chapter One duties. [Chapter Ten §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) binds both to refuse unlawful or unconstitutional instructions. Companions may add logging, attribution, and capability limits. They may not swap in a softer internal code, skip standing measurement, or close contest pathways. This is not a new morals stack — it is the anti-special-pleading rule. The bonus, the deadline, and cover-instruction tests live in [§9.1.2](../../core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints).
 
 [Source](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)
 

@@ -355,7 +355,7 @@ Keep existing pre-elevation ids from L632–L657 **plus** all superseded primary
 **Principle hierarchy (Part B).** At principle layer:
 
 1. **Stewardship** ([Stewardship](core_05_band_continuity.md#stewardship-constitutional)) orients systems toward durable constitutional alignment over time, including the **Continuity** aim under the [Two Constitutional Aims](core_01_a_values_principles.md#two-constitutional-aims).
-2. **Governance** ([Governance](core_05_band_accountability.md#governance)) structures authorized decision-making, participation, and accountability. Where governance and stewardship conflict, stewardship discipline controls at principle layer unless **Necessity** and **Proportionality** expressly justify a bounded, time-limited exception with correction paths. Operative authorization and contract-layer requirements remain owned by **Chapter Twelve**.
+2. **Governance** ([Governance](core_05_band_accountability.md#governance)) structures authorized decision-making, participation, and accountability. Where governance and stewardship conflict, stewardship discipline controls at principle layer unless **Necessity** and **Proportionality** expressly justify a bounded, time-limited exception with correction paths. Operative authorization and contract-layer requirements remain owned by **Chapter Thirteen**.
 3. **Shared-System Capacity** ([Shared-System Capacity](core_05_band_continuity.md#shared-system-capacity-constitutional)) is the durable, contestable ability those jointly produce — an **instrumental outcome**, not a freestanding trump value.
 
 **Reading arc:** §6 stewardship → §7 governance discipline → §8 capacity → §9 tradeoffs → §10 whole-system evaluation → §§11–14 agency, integration, and override limits.
@@ -368,7 +368,7 @@ Keep existing pre-elevation ids from L632–L657 **plus** all superseded primary
 
 *In plain terms: governance tells you who may decide and how — but only counts when it stays under stewardship discipline and does not eat the future for today's metrics.*
 
-**Governance** at principle layer means the structures, rules, allocation of authority, and processes by which already-authorized systems and institutions are directed and held accountable — as defined in Chapter Five and operationalized under **Chapter Twelve** for the **Constitutional Contract Layer** and stakeholder participation layers stated in [Preamble](core_00_preamble.md#chapter-00-preamble--foundational-requirements).
+**Governance** at principle layer means the structures, rules, allocation of authority, and processes by which already-authorized systems and institutions are directed and held accountable — as defined in Chapter Five and operationalized under **Chapter Thirteen** for the **Constitutional Contract Layer** and stakeholder participation layers stated in [Preamble](core_00_preamble.md#chapter-00-preamble--foundational-requirements).
 
 Governance is **necessary** but **not sufficient**. It must remain subordinate to **Stewardship** where procedural regularity, short-horizon optimization, or institutional self-protection would otherwise defeat durable alignment, **Continuity**, or Rights-Floor integrity.
 ```
@@ -447,7 +447,7 @@ Replace "§§6–9" language with:
 
 **Add to O (end):**
 
-> At principle layer, **Governance** is subordinate to **Stewardship** where authorized structures, incentives, or procedures would otherwise permit foreseeable constitutional drift, Rights-Floor degradation, or short-horizon optimization that defeats durable alignment. Operative authorization requirements remain owned by **Chapter Twelve** and the **Constitutional Contract Layer**.
+> At principle layer, **Governance** is subordinate to **Stewardship** where authorized structures, incentives, or procedures would otherwise permit foreseeable constitutional drift, Rights-Floor degradation, or short-horizon optimization that defeats durable alignment. Operative authorization requirements remain owned by **Chapter Thirteen** and the **Constitutional Contract Layer**.
 
 **Add to E:**
 
@@ -509,7 +509,7 @@ Full mapping: generate from Chapter One §8.1 via script `tools/ch1_split_link_m
 
 - `core_05-05_definitions_*.md` (~280 refs)
 - `core_06_rights_part_*.md` (~315 refs)
-- `core_12_governance.md`
+- `core_13_governance.md`
 - `README.md`, `doc_architecture.md`
 - `ai_corpus/indexes/*.json`
 - `tools/corpus_paths.py`, `tools/generate_definition_registry.py`

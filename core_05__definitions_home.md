@@ -15,7 +15,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
 >
-> Plain-language reading note: Read **Chapter One** for high-level values and direction; **Chapters Two through Four** for definition structure, integrity, and verification mechanics; and **Chapter Six** for the foundational **rights** floor, then return to this chapter for term precision in interpretation, audit, and adjudication. (Other chapters, including **Chapter Ten** *Misconduct* and **Chapter Eight** *Standing*, apply on their own reading paths; they are not a substitute for the Rights Floor in Chapter Six or for definition mechanics in Chapters Two through Four.)
+> Plain-language reading note: Read **Chapter One** for high-level values and direction; **Chapters Two through Four** for definition structure, integrity, and verification mechanics; and **Chapter Six** for the foundational **rights** floor, then return to this chapter for term precision in interpretation, audit, and adjudication. (Other chapters, including **Chapter Eleven** *Misconduct* and **Chapter Nine** *Standing*, apply on their own reading paths; they are not a substitute for the Rights Floor in Chapter Six or for definition mechanics in Chapters Two through Four.)
 
 </details>
 
@@ -147,6 +147,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer)
 - [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency)
 - [Constitutional Emergency and Contingency](core_05_band_continuity.md#constitutional-emergency-and-contingency)
+- [Contest Seat](core_05_band_accountability.md#contest-seat)
 - [Contestability](core_05_band_accountability.md#contestability)
 - [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional)
 - [Contingent Claim](core_05_band_accountability.md#contingent-claim)
@@ -208,6 +209,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Incentive Alignment, Proxy Integrity, and Contingent Settlement](core_05_band_integrative.md#incentive-alignment-proxy-integrity-and-contingent-settlement)
 - [Indigenous Continuity](core_05_band_continuity.md#indigenous-continuity-constitutional)
 - [Info-Sphere](core_05_band_participation.md#info-sphere)
+- [Initiating Seat](core_05_band_accountability.md#initiating-seat)
 - [Innovation Reward and Anti-Enclosure](core_05_band_integrative.md#innovation-reward-and-anti-enclosure)
 - [Insider Advantage](core_05_band_accountability.md#insider-advantage)
 - [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional)
@@ -221,6 +223,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold-constitutional)
 - [Market Structure](core_05_band_accountability.md#market-structure-constitutional)
 - [Material](core_05_band_oversight.md#material)
+- [Material Control Line](core_05_band_accountability.md#material-control-line)
 - [Material Degradation](core_05_band_oversight.md#material-degradation)
 - [Material Impact](core_05_band_oversight.md#material-impact)
 - [Material Risk](core_05_band_oversight.md#material-risk)
@@ -262,6 +265,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure)
 - [Publication Truthfulness and Recklessness Floor](core_05_band_oversight.md#publication-truthfulness-and-recklessness-floor)
 - [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable)
+- [Record Seat](core_05_band_accountability.md#record-seat)
 - [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional)
 - [Refuge from Non-Compliance](core_05_band_participation.md#refuge-from-non-compliance-constitutional)
 - [Remedy System](core_05_band_accountability.md#remedy-system-constitutional)
@@ -327,6 +331,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Use of Force](core_05_band_accountability.md#use-of-force-constitutional)
 - [Verifiability](core_05_band_oversight.md#verifiability)
 - [Verified Inputs for Standing](core_05_band_accountability.md#verified-inputs-for-standing)
+- [Verify-or-Authorize Seat](core_05_band_accountability.md#verify-or-authorize-seat)
 - [Violation Nature](core_05_band_accountability.md#violation-nature-chapter-six)
 - [Volitional Integrity](core_05_band_participation.md#volitional-integrity)
 - [Voluntary Discontinuation](core_05_band_continuity.md#voluntary-discontinuation-constitutional)

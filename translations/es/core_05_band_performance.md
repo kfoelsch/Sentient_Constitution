@@ -12,7 +12,7 @@
 >
 > **Anterior (este idioma):** [core_05_band_participation.md](core_05_band_participation.md)
 >
-> **Siguiente (aún en inglés):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+> **Siguiente (aún en inglés):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 > **Arco de lectura:** hogar de familia de medición → enrutamiento de hojas en la banda Continuidad.
 
 </details>
@@ -58,12 +58,12 @@ Estas medidas transversales preguntan si los sistemas entregan resultados consti
 - Los niveles de medición operativos viven en los hogares de definición del Capítulo Cinco — véase [Eficiencia constitucional](core_05_band_continuity.md#constitutional-efficiency), [Carga evitable](core_05_band_continuity.md#avoidable-burden), [Capacidad productiva](core_05_band_continuity.md#productive-capacity-constitutional) y [Deber de reducción de carga](core_05_band_continuity.md#burden-reduction-duty-constitutional).
 - Las metas de desempeño, las recompensas y las medidas de recursos son válidas solo en la medida en que sigan siendo trazables a resultados constitucionales.
 - No pueden sustituir la Eficiencia constitucional, la [Capacidad productiva](core_05_band_continuity.md#productive-capacity-constitutional) ni el cumplimiento del Piso de Derechos.
-- Leer con [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) donde el desempeño del sistema entero esté materialmente en alcance.
+- Leer con [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) donde el desempeño del sistema entero esté materialmente en alcance.
 
 ---
 
 **Archivo anterior:** [core_05_band_participation.md](core_05_band_participation.md)
 
-**Siguiente archivo (aún en inglés):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+**Siguiente archivo (aún en inglés):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 
 **Original vinculante:** [core_05_band_performance.md](../../core_05_band_performance.md)

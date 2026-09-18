@@ -46,14 +46,14 @@
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — الموطن الأولي في الفصل الأول لرجل **المشاركة** (أدوار وصوت ذوا عاقبة؛ متطلب عام، لا [المشاركة النظامية للأطراف المتأثرة](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster) وحدها)، ورجل **الرقابة**، ورجل **حسن التوقيت** (سرعة الإصلاح الاستباقية)؛ مقياس [الرهان المادي](core_00_preamble.md#material-stake).
 - يُقرأ مع: [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims) — مقصد **الازدهار** (المشاركة والوكالة والمسارات التعليمية)؛ مقصد **الاستمرارية** (التعلّم المؤسسي وقدرة الإصلاح والإدارة المسؤولة الدائمة).
 - أعلى: المبادئ: [2. المقصد التأسيسي: العافية](core_01_a_values_principles.md#2-foundational-objective-wellbeing)؛ [3.2 الحقيقة](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)؛ [4. الثقة](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)؛ و[§12 قدرة الأنظمة المشتركة](#12-shared-system-capacity).
-- أسفل: [6. حل تعارض الإجراءات](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) (بما في ذلك [§6.3 تقليل العبء القابل للتجنّب](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden))؛ [الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ [§11.1.3 الإدارة المسؤولة وتطبيق المشغّل](#1113-stewardship-and-operator-application).
+- أسفل: [6. حل تعارض الإجراءات](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) (بما في ذلك [§6.3 تقليل العبء القابل للتجنّب](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden))؛ [الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ [§11.1.3 الإدارة المسؤولة وتطبيق المشغّل](#1113-stewardship-and-operator-application).
 - أسفل: [§11.1.4 مسارات عمق الدور والمسؤولية المادية](#1114-role-depth-and-material-responsibility-pathways).
 - أسفل: [§5 الحرية (الوكالة المحدودة)](core_01_a_values_principles.md#5-freedom-bounded-agency)، التي تعتمد على بقاء الإدارة المسؤولة ذات العاقبة والفهم الموزَّع والمشاركة ذات المعنى وقدرة الإصلاح حقيقية تحت الاعتماد المادي.
-- أسفل: [الفصل السابع — تصديق مواءمة النظام](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*عملية تدقيق كبيرة بوجه خاص تحت الرقابة — ليست الموطن الوحيد للتدقيق*)؛ [الفصل الثامن — نموذج الإسهام والانتهاك والوضعية](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*أثر الوضعية — أهلية الثقة والدور والاعتراف — ينفّذ هذا القسم الفرعي بوصفه أساسه في طبقة المبادئ*).
+- أسفل: [الفصل السابع — تصديق مواءمة النظام](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*عملية تدقيق كبيرة بوجه خاص تحت الرقابة — ليست الموطن الوحيد للتدقيق*)؛ [الفصل الثامن — نموذج الإسهام والانتهاك والوضعية](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*أثر الوضعية — أهلية الثقة والدور والاعتراف — ينفّذ هذا القسم الفرعي بوصفه أساسه في طبقة المبادئ*).
 - أسفل: [الفصل الحادي عشر §1 — الغرض والدور](core_11_forum.md#1-purpose-and-role) و[§4 — تعريفات أسرة المنتديات](core_11_forum.md#4-forum-family-definitions) (*تحمل أسر المنتديات هندسة المشاركة والرقابة للطعن القابل للمنافسة وتسلسل الإصلاح وتعلّم السبب الجذري والحوكمة الاستباقية المتوائمة مع هذا القسم*)؛ [corpus_forum.md](../../corpus_forum.md) لعمليات المنتدى المعتمَدة.
 - أسفل: يشكّل سطح الحقوق للتعليم والمشاركة النظامية للأطراف المتأثرة والشفافية وقابلية الفهم والتدقيق والتحقق ومسارات عمق الدور إلى المسؤولية المادية.
   - خاصةً [المادة III: البقاء والوصول التعليمي المتساوي](../../core_06_rights_part_a.md#article-iii-survival-and-equal-educational-access)، و[المادة VI: الحق في تعليم متمحور حول الكائنات الواعية](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)، و[المادة IX: تقرير المصير والوكالة](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)، و[المادة XI: المشاركة النظامية للأطراف المتأثرة والتمثيل والإجراءات الواجبة](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)، و[المادة XV: التدقيق والشفافية والتحقق المستقل](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)، و[المادة XVIII: الوضعية ومركز المشاركة](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)، و[المادة XIX: قابلية التشغيل البيني وقابلية النقل والتنقل واللجوء ونزاهة الخروج](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)، و[المادة XX: قابلية الفهم والإدارة المسؤولة للتعقيد](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)، و[المادة XXII: التفسير الدستوري والمراجعة وضمانات منع الاستيلاء](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards).
-  - يُقرأ مع: [الفصل الثاني عشر §5 — الأدوار المرخَّص لها وتنمية الكفاءة والإسهام](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution) و**[corpus_systems.md](../../corpus_systems.md)، CS-4 — الإدارة المسؤولة للأنظمة الحرجة** للمسارات التشغيلية للأدوار ومسارات تنمية الإدارة المسؤولة.
+  - يُقرأ مع: [الفصل الثاني عشر §5 — الأدوار المرخَّص لها وتنمية الكفاءة والإسهام](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution) و**[corpus_systems.md](../../corpus_systems.md)، CS-4 — الإدارة المسؤولة للأنظمة الحرجة** للمسارات التشغيلية للأدوار ومسارات تنمية الإدارة المسؤولة.
 - الأقسام الفرعية (ترتيب القراءة): [§9.1 الإدارة المسؤولة ذات العاقبة](#91-stewardship) · [§9.1.1 معيار الإدارة المسؤولة المشترك](#911-shared-stewardship-standard) · [§9.1.2 القيود المكلِّفة المتناظرة](#912-symmetric-costly-constraints) · [§9.1.3 قابلية الرصد المحدودة بالدور](#913-role-scoped-observability) · [§9.2 الفهم الموزَّع](#92-distributed-understanding) (وجه الكفاءة الجماعاتي على النطاق) · [§9.3 التنمية المؤسسية](#93-institutional-development) (الوجه التنظيمي) · [§9.4 طموح الانفتاح](#94-openness-aspiration) · [§9.5 التنظيم الذاتي المتوائم](#95-aligned-self-organization) · [§9.6 منع الإجراء المهين](#96-process-character-discipline).
 
 </details>
@@ -125,7 +125,7 @@
 
 - أعلى: [§9 الإدارة المسؤولة والفهم الموزَّع](#9-stewardship-and-distributed-understanding) (الأصل، بما في ذلك *بعبارات بسيطة* وإطار الركن 1 أعلاه)؛ [§12 قدرة الأنظمة المشتركة](#12-shared-system-capacity)؛ [4. الثقة](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity).
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — رجل **المشاركة** (أدوار ذات عاقبة في التشغيل والصيانة والتحسين)؛ رجل **الرقابة** (سجلات ومسارات تدقيق وقابلية رصد قابلة للطعن)؛ رجل **حسن التوقيت** (كشف عدم المواءمة مبكرًا، والتصعيد داخل نوافذ مناسبة للطبقة، وبدء إصلاح المشكلات من دون تأخير غير ضروري)؛ [حسن التوقيت](core_05_apex_timeliness_leg.md#timeliness-constitutional).
-- أسفل: [§9.1.1 معيار الإدارة المسؤولة المشترك](#911-shared-stewardship-standard) (*حاملو واجب غير مقيدين بالركيزة؛ يجوز للمرافقين أن يضيفوا تسجيلًا وإسنادًا وحدود قدرة — لا مدونة داخلية ألين*)؛ [§9.1.2 القيود المكلِّفة المتناظرة](#912-symmetric-costly-constraints)؛ [§9.1.3 قابلية الرصد المحدودة بالدور](#913-role-scoped-observability)؛ [§9.2 الفهم الموزَّع](#92-distributed-understanding) و[§9.3 التنمية المؤسسية](#93-institutional-development) (*الركن 2 — الكفاءة على النطاق*)؛ [الفصل السابع — تصديق مواءمة النظام](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*عملية تدقيق كبيرة بوجه خاص تحت الرقابة — ليست الموطن الوحيد للتدقيق*)؛ [المادة XV: التدقيق والشفافية والتحقق المستقل](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*أرضية حقوق التدقيق*)؛ [الفصل الثامن — نموذج الإسهام والانتهاك والوضعية](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*أثر الوضعية ينفّذ الكفاءة الموزَّعة والإدارة المسؤولة ذات العاقبة*)؛ [المادة XVIII: الوضعية ومركز المشاركة](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status).
+- أسفل: [§9.1.1 معيار الإدارة المسؤولة المشترك](#911-shared-stewardship-standard) (*حاملو واجب غير مقيدين بالركيزة؛ يجوز للمرافقين أن يضيفوا تسجيلًا وإسنادًا وحدود قدرة — لا مدونة داخلية ألين*)؛ [§9.1.2 القيود المكلِّفة المتناظرة](#912-symmetric-costly-constraints)؛ [§9.1.3 قابلية الرصد المحدودة بالدور](#913-role-scoped-observability)؛ [§9.2 الفهم الموزَّع](#92-distributed-understanding) و[§9.3 التنمية المؤسسية](#93-institutional-development) (*الركن 2 — الكفاءة على النطاق*)؛ [الفصل السابع — تصديق مواءمة النظام](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*عملية تدقيق كبيرة بوجه خاص تحت الرقابة — ليست الموطن الوحيد للتدقيق*)؛ [المادة XV: التدقيق والشفافية والتحقق المستقل](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*أرضية حقوق التدقيق*)؛ [الفصل الثامن — نموذج الإسهام والانتهاك والوضعية](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*أثر الوضعية ينفّذ الكفاءة الموزَّعة والإدارة المسؤولة ذات العاقبة*)؛ [المادة XVIII: الوضعية ومركز المشاركة](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status).
 
 </details>
 
@@ -161,9 +161,9 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: [§9.1 الإدارة المسؤولة ذات العاقبة](#91-stewardship)؛ [§9 الإدارة المسؤولة والفهم الموزَّع](#9-stewardship-and-distributed-understanding)؛ [§10 الحوكمة تحت انضباط الإدارة المسؤولة](#10-governance-under-stewardship-discipline).
-- يُقرأ مع: [عدم استبعاد الوعي](../../core_05_band_participation.md#sentience-non-exclusion) و[صنف الركيزة](../../core_05_band_participation.md#substrate-class) (*تطبيق غير مقيد بالركيزة — يُلزم هذا القسم الفرعي حاملي الواجب، بما في ذلك الوكلاء والمشغّلون غير المعترَف بهم كائنات واعية*)؛ [رصّة السلطة والتسلسل الداخلي](../../core_05_band_integrative.md#authority-stack)؛ [القيد الدستوري](../../core_05_band_integrative.md#constitutional-constraint)؛ [قابلية الطعن](../../core_05_band_accountability.md#contestability)؛ [الفصل التاسع §5.4 واجب المقاومة](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions).
+- يُقرأ مع: [عدم استبعاد الوعي](../../core_05_band_participation.md#sentience-non-exclusion) و[صنف الركيزة](../../core_05_band_participation.md#substrate-class) (*تطبيق غير مقيد بالركيزة — يُلزم هذا القسم الفرعي حاملي الواجب، بما في ذلك الوكلاء والمشغّلون غير المعترَف بهم كائنات واعية*)؛ [رصّة السلطة والتسلسل الداخلي](../../core_05_band_integrative.md#authority-stack)؛ [القيد الدستوري](../../core_05_band_integrative.md#constitutional-constraint)؛ [قابلية الطعن](../../core_05_band_accountability.md#contestability)؛ [الفصل التاسع §5.4 واجب المقاومة](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions).
 - باب الإدارة المسؤولة (غير تشغيلي): البيان الملزم للخطوة التالية: [بيان الإدارة المسؤولة التشغيلي](#operative-steward-statement-shared-stewardship). مؤشرات الدعم لا تستطيع تضييقه.
-- أسفل: [§9.1.2 القيود المكلِّفة المتناظرة](#912-symmetric-costly-constraints)؛ [§9.1.3 قابلية الرصد المحدودة بالدور](#913-role-scoped-observability)؛ [الفصل الثاني عشر §5 — الأدوار المرخَّص لها وتنمية الكفاءة والإسهام](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution)؛ [الفصل السادس عشر](../../core_16_incorporation.md) (*المرافقون ينفّذون؛ وهم لا يحلّون محل*)؛ [§11.1.3 الإدارة المسؤولة وتطبيق المشغّل](#1113-stewardship-and-operator-application).
+- أسفل: [§9.1.2 القيود المكلِّفة المتناظرة](#912-symmetric-costly-constraints)؛ [§9.1.3 قابلية الرصد المحدودة بالدور](#913-role-scoped-observability)؛ [الفصل الثاني عشر §5 — الأدوار المرخَّص لها وتنمية الكفاءة والإسهام](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)؛ [الفصل السادس عشر](../../core_17_incorporation.md) (*المرافقون ينفّذون؛ وهم لا يحلّون محل*)؛ [§11.1.3 الإدارة المسؤولة وتطبيق المشغّل](#1113-stewardship-and-operator-application).
 
 </details>
 
@@ -189,7 +189,7 @@
 
 <br>
 
-*بعبارات بسيطة: مسؤولو الإدارة البشريون ومن الذكاء الاصطناعي يدينون بواجبات الفصل الأول نفسها. [الفصل التاسع §5.4](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) يُلزم كليهما برفض التعليمات غير القانونية أو غير الدستورية. يجوز للمرافقين أن يضيفوا تسجيلًا وإسنادًا وحدود قدرة. ولا يجوز أن يستبدلوا مدونة داخلية ألين، أو يتخطوا قياس الوضعية، أو يغلقوا مسارات الطعن. هذه ليست رصّة أخلاق جديدة — إنها قاعدة منع الاستثناء الخاص. اختبارات المكافأة والموعد النهائي وتعليمات التغطية تعيش في [§9.1.2](#912-symmetric-costly-constraints).*
+*بعبارات بسيطة: مسؤولو الإدارة البشريون ومن الذكاء الاصطناعي يدينون بواجبات الفصل الأول نفسها. [الفصل التاسع §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) يُلزم كليهما برفض التعليمات غير القانونية أو غير الدستورية. يجوز للمرافقين أن يضيفوا تسجيلًا وإسنادًا وحدود قدرة. ولا يجوز أن يستبدلوا مدونة داخلية ألين، أو يتخطوا قياس الوضعية، أو يغلقوا مسارات الطعن. هذه ليست رصّة أخلاق جديدة — إنها قاعدة منع الاستثناء الخاص. اختبارات المكافأة والموعد النهائي وتعليمات التغطية تعيش في [§9.1.2](#912-symmetric-costly-constraints).*
 
 **معيار الإدارة المسؤولة المشترك:**
 - **من يُلزمه:** تنطبق واجبات الإدارة المسؤولة والحوكمة تحت هذا الفصل [بغض النظر عن الركيزة](../../core_05_band_participation.md#substrate-agnostic) على من يمارس إدارة مسؤولة مادية أو سلطة تشغيلية، من دون اعتبار لـ[صنف الركيزة](../../core_05_band_participation.md#substrate-class):
@@ -198,10 +198,10 @@
   - وكلاء أو مشغّلون أو مكوّنات مكوِّنة أخرى
 
   هذا القسم الفرعي قاعدة حامل الواجب. يبقى [عدم استبعاد الوعي](../../core_05_band_participation.md#sentience-non-exclusion) منع الاستثناء من الاعتراف وأرضية الحقوق.
-- **واجب المقاومة:** [الفصل التاسع §5.4](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) يُلزم كلا نوعي مسؤول الإدارة برفض التعليمات غير القانونية أو غير الدستورية.
+- **واجب المقاومة:** [الفصل التاسع §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) يُلزم كلا نوعي مسؤول الإدارة برفض التعليمات غير القانونية أو غير الدستورية.
 - **المرافقون:** نص التنفيذ المرافق المعتمَد والمدونات الداخلية:
   - يجوز أن تضيف تسجيلًا وإسنادًا وحدود قدرة تستوفي تلك الواجبات ولا تضيّقها
-  - لا يجوز أن تحل محل [قياس الوضعية](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) أو مسارات الطعن أو واجبات الفصل الأول بمدونة داخلية ألين
+  - لا يجوز أن تحل محل [قياس الوضعية](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) أو مسارات الطعن أو واجبات الفصل الأول بمدونة داخلية ألين
   - [رصّة السلطة والتسلسل الداخلي](../../core_05_band_integrative.md#authority-stack) و[القيد الدستوري](../../core_05_band_integrative.md#constitutional-constraint) يحظران ذلك التضييق
 - **التسجيل مقابل سجلات الوضعية:** قابلية الفحص الافتراضية للطاقم المختلط وقاعدة أن السجل ليس سجلًا تعيشان في [§9.1.3](#913-role-scoped-observability)؛ ويبقى قياس الوضعية في الفصل الثامن.
 
@@ -211,8 +211,8 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: [§9.1.1 معيار الإدارة المسؤولة المشترك](#911-shared-stewardship-standard)؛ [§9.1 الإدارة المسؤولة ذات العاقبة](#91-stewardship)؛ [§9 الإدارة المسؤولة والفهم الموزَّع](#9-stewardship-and-distributed-understanding).
-- يُقرأ مع: [السلامة (قيد)](../../core_05_band_continuity.md#safety-constraint)؛ [الحقيقة (قيد دستوري)](../../core_05_band_oversight.md#truth-constitutional-constraint)؛ [قابلية التدقيق](../../core_05_band_oversight.md#auditability)؛ [قابلية الطعن](../../core_05_band_accountability.md#contestability)؛ [§11 مواءمة الحوافز واستيلاء النظام](#11-incentive-alignment-and-system-capture)؛ [الفصل التاسع §5.4 واجب المقاومة](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions).
-- أسفل: [الفصل الثامن — نموذج الإسهام والانتهاك والوضعية](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*إخفاقات الحالات المكلِّفة المتحقَّق منها تُسجَّل على المحاور نفسها*)؛ [§9.1.3 قابلية الرصد المحدودة بالدور](#913-role-scoped-observability).
+- يُقرأ مع: [السلامة (قيد)](../../core_05_band_continuity.md#safety-constraint)؛ [الحقيقة (قيد دستوري)](../../core_05_band_oversight.md#truth-constitutional-constraint)؛ [قابلية التدقيق](../../core_05_band_oversight.md#auditability)؛ [قابلية الطعن](../../core_05_band_accountability.md#contestability)؛ [§11 مواءمة الحوافز واستيلاء النظام](#11-incentive-alignment-and-system-capture)؛ [الفصل التاسع §5.4 واجب المقاومة](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions).
+- أسفل: [الفصل الثامن — نموذج الإسهام والانتهاك والوضعية](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*إخفاقات الحالات المكلِّفة المتحقَّق منها تُسجَّل على المحاور نفسها*)؛ [§9.1.3 قابلية الرصد المحدودة بالدور](#913-role-scoped-observability).
 
 </details>
 
@@ -241,7 +241,7 @@
 تلك اختبارات فاشلة لكلا نوعي مسؤول الإدارة.
 
 **السجل والإظهار:**
-- **ليست وضعية:** تقرير ذاتي مكتوب ليس [قياس وضعية](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
+- **ليست وضعية:** تقرير ذاتي مكتوب ليس [قياس وضعية](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
 - **سجل متحقَّق:** الإخفاقات المتحقَّق منها تُسجَّل على محوري الإسهام والانتهاك تحت الفصل الثامن.
 - **لا إظهار للذكاء الاصطناعي وحده:** شاشة تقييم أو كفاءة أو تسليم تُجرى على مسؤولي إدارة من الذكاء الاصطناعي وحدهم لا تثبت أن هذا القسم الفرعي يصمد. إذا احتفظ المشغّلون البشريون بالمكافأة أو الموعد النهائي أو تعليمات التغطية، تبقى الحركة المحظورة متاحة لهم. ذلك مسار استيلاء، لا معيارًا مشتركًا.
 
@@ -252,7 +252,7 @@
 
 - أعلى: [§9.1.1 معيار الإدارة المسؤولة المشترك](#911-shared-stewardship-standard)؛ [§9.1.2 القيود المكلِّفة المتناظرة](#912-symmetric-costly-constraints)؛ [§9.1 الإدارة المسؤولة ذات العاقبة](#91-stewardship).
 - يُقرأ مع: [الفعل القابل للإسناد](../../core_05_band_accountability.md#attributable-action-constitutional)؛ [قابلية التدقيق](../../core_05_band_oversight.md#auditability)؛ [حد المراقبة](../../core_05_band_continuity.md#surveillance-boundary)؛ [حد الحالة الداخلية المحمية](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional)؛ [§6.2.3 الخصوصية](core_01_b_interaction_interpretation.md#623-privacy-and-informational-self-determination)؛ [المادة VII-B](../../core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection).
-- أسفل: [CS-4 §10 الفعل القابل للإسناد القابل للفحص](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*عقد التسجيل الافتراضي للفعل البشري/الذكاء الاصطناعي المختلط — ليس بديل سجل وضعية*)؛ [الفصل التاسع §7.1](../../core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)؛ [الفصل التاسع §7.2](../../core_09_standing_integration.md#72-plain-statement-of-effect-and-burden).
+- أسفل: [CS-4 §10 الفعل القابل للإسناد القابل للفحص](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*عقد التسجيل الافتراضي للفعل البشري/الذكاء الاصطناعي المختلط — ليس بديل سجل وضعية*)؛ [الفصل التاسع §7.1](../../core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)؛ [الفصل التاسع §7.2](../../core_10_standing_integration.md#72-plain-statement-of-effect-and-burden).
 
 </details>
 
@@ -286,11 +286,11 @@
   تلك القاعدة استثناء حالة بحالة، لا ترخيص وضعية، وهي متناظرة: تُبلَغ ملاحظات مسؤول الإدارة البشري واتصالاته الخاصة بالشروط نفسها ولا غيرها.
 - **التسجيل ليس سجلًا:** سجل CS-4 §10:
   - هو الأثر المستخدَم لاحقًا لإظهار من فعل ماذا؛ وهو ليس نفسه إيجادًا
-  - ليس [سجل وضعية](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) لعون أو ضرر متحقَّق، وكتابته لا تفتح واحدًا
-  - ليس سبب منح الناس مسارًا مسمّى أو رفضه. من يقرر ما إذا كان لأحد أن يستخدم مسار دور أو مسار ثقة أو مسارًا مسمّى آخر لا يجوز أن يعامل هذا السجل [سجل وضعية](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) لعون أو ضرر متحقَّق. يستخدم قرار الوصول ذلك السجل، أو الحالة العادية بعدم وجوده ([الفصل الثامن §2.1 الصمت هو الافتراضي](../../core_08_standing_assessment.md#21-silence-is-the-default)). يوجد السجل حتى يمكن إعادة بناء العمل لاحقًا — بما في ذلك إذا فُتح سجل فصل ثامن — لا حتى يُستخدَم أثر عمل لتوزيع تلك المسارات المسمّاة أو حجبها.
-  - لا يجوز جمعه مع سجلات أو آثار وضعية من مسارات مسمّاة أخرى لصنع درجة سمعة واحدة أو ترتيب أو شارة أو ملف عام ([الفصل التاسع §7.1 منع تجميع آثار المسار المسمّى](../../core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects))
+  - ليس [سجل وضعية](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) لعون أو ضرر متحقَّق، وكتابته لا تفتح واحدًا
+  - ليس سبب منح الناس مسارًا مسمّى أو رفضه. من يقرر ما إذا كان لأحد أن يستخدم مسار دور أو مسار ثقة أو مسارًا مسمّى آخر لا يجوز أن يعامل هذا السجل [سجل وضعية](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) لعون أو ضرر متحقَّق. يستخدم قرار الوصول ذلك السجل، أو الحالة العادية بعدم وجوده ([الفصل الثامن §2.1 الصمت هو الافتراضي](../../core_09_standing_assessment.md#21-silence-is-the-default)). يوجد السجل حتى يمكن إعادة بناء العمل لاحقًا — بما في ذلك إذا فُتح سجل فصل ثامن — لا حتى يُستخدَم أثر عمل لتوزيع تلك المسارات المسمّاة أو حجبها.
+  - لا يجوز جمعه مع سجلات أو آثار وضعية من مسارات مسمّاة أخرى لصنع درجة سمعة واحدة أو ترتيب أو شارة أو ملف عام ([الفصل التاسع §7.1 منع تجميع آثار المسار المسمّى](../../core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects))
 
-العبء الذي يضعه هذا الواجب على مسؤول إدارة يحمل سلطة ذات عاقبة حقيقي وهذا الدستور لا يتظاهر بغير ذلك؛ يطلب [الفصل التاسع §7.2](../../core_09_standing_integration.md#72-plain-statement-of-effect-and-burden) أن يُبيَّن بيانًا واضحًا لمسؤول الإدارة الذي يحمله.
+العبء الذي يضعه هذا الواجب على مسؤول إدارة يحمل سلطة ذات عاقبة حقيقي وهذا الدستور لا يتظاهر بغير ذلك؛ يطلب [الفصل التاسع §7.2](../../core_10_standing_integration.md#72-plain-statement-of-effect-and-burden) أن يُبيَّن بيانًا واضحًا لمسؤول الإدارة الذي يحمله.
 
 <a id="92-distributed-understanding"></a>
 #### 9.2 الفهم الموزَّع
@@ -603,7 +603,7 @@
 - يُقرأ مع: [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims) — مقصد **الازدهار** (وكالة ذات معنى ومشاركة قانونية)؛ مقصد **الاستمرارية** (مواءمة مؤسسية دائمة وانضباط إدارة مسؤولة بعيد الأفق).
 - يُقرأ مع: [الفعل القابل للإسناد](../../core_05_band_accountability.md#attributable-action-constitutional) و[نزاهة الإسناد](../../core_05_band_accountability.md#attribution-integrity-constitutional) — مُسلَّمات آلية تُبقي واجب الجواب المقاس على السلطة حقيقيًا حيث يجب أن يبقى الفعل المادي قابلًا للتتبع؛ التفصيل التشغيلي في **[CS-2 — أنواع المعلومات ومعالجتها](../../corpus_systems/cs_02_a_information_types_and_handling.md)** و**الفصل السابع**.
 - أعلى: [§9 الإدارة المسؤولة والفهم الموزَّع](#9-stewardship-and-distributed-understanding)؛ [§9.1.1 معيار الإدارة المسؤولة المشترك](#911-shared-stewardship-standard) (*واجبات غير مقيدة بالركيزة تُلزم مسؤولي الإدارة البشريين ومن الذكاء الاصطناعي على السواء*).
-- أسفل: [§11 مواءمة الحوافز واستيلاء النظام](#11-incentive-alignment-and-system-capture)؛ [§12 قدرة الأنظمة المشتركة](#12-shared-system-capacity)؛ [الفصل الثاني عشر](../../core_12_governance.md) (*تشغيل طبقة العقد الدستوري*)؛ [المادة XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*أرضيات أعضاء المنتدى*).
+- أسفل: [§11 مواءمة الحوافز واستيلاء النظام](#11-incentive-alignment-and-system-capture)؛ [§12 قدرة الأنظمة المشتركة](#12-shared-system-capacity)؛ [الفصل الثاني عشر](../../core_13_governance.md) (*تشغيل طبقة العقد الدستوري*)؛ [المادة XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*أرضيات أعضاء المنتدى*).
 - الأقسام الفرعية (ترتيب القراءة): [§10.1 الحوكمة بوصفها بنية مرخَّصًا لها](#101-governance-as-authorized-structure) · [§10.2 فصل الواجبات](#102-segregation-of-duties) · [§10.3 التبرير المستمر](#103-ongoing-justification).
 
 </details>
@@ -639,7 +639,7 @@
 - يُقرأ مع: [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims) — مقصد **الازدهار** (حوكمة تحفظ الوكالة ذات المعنى والمشاركة القانونية)؛ مقصد **الاستمرارية** (مواءمة مؤسسية دائمة وانضباط إدارة مسؤولة بعيد الأفق).
 - يُقرأ مع: [§6.1.3 التناسب](core_01_b_interaction_interpretation.md#613-proportionality) (*أرضية التصنيف وانضباط نقص الحوكمة*)؛ [الضرورة](../../core_05_band_accountability.md#necessity)؛ [التناسب](../../core_05_band_accountability.md#proportionality)؛ [المساءلة](core_05_apex_accountability_leg.md#accountability)؛ [الرقابة](core_05_apex_oversight_leg.md#oversight-constitutional).
 - أعلى: المبادئ: [§9 الإدارة المسؤولة والفهم الموزَّع](#9-stewardship-and-distributed-understanding)؛ [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims).
-- أسفل: [§10.2 فصل الواجبات](#102-segregation-of-duties)؛ [§10.3 التبرير المستمر](#103-ongoing-justification)؛ [§11 مواءمة الحوافز واستيلاء النظام](#11-incentive-alignment-and-system-capture)؛ [الفصل الثاني عشر](../../core_12_governance.md) (*تشغيل طبقة العقد الدستوري*)؛ [المادة XXII: التفسير الدستوري والمراجعة وضمانات منع الاستيلاء](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*أرضيات الإفصاح والتنحّي ومنع الاستيلاء لأعضاء المنتدى*)؛ [الفصل الحادي عشر](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*إشراف أسرة المنتديات*).
+- أسفل: [§10.2 فصل الواجبات](#102-segregation-of-duties)؛ [§10.3 التبرير المستمر](#103-ongoing-justification)؛ [§11 مواءمة الحوافز واستيلاء النظام](#11-incentive-alignment-and-system-capture)؛ [الفصل الثاني عشر](../../core_13_governance.md) (*تشغيل طبقة العقد الدستوري*)؛ [المادة XXII: التفسير الدستوري والمراجعة وضمانات منع الاستيلاء](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*أرضيات الإفصاح والتنحّي ومنع الاستيلاء لأعضاء المنتدى*)؛ [الفصل الحادي عشر](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*إشراف أسرة المنتديات*).
 
 </details>
 
@@ -692,7 +692,7 @@
 - أعلى: [§10.1 الحوكمة بوصفها بنية مرخَّصًا لها](#101-governance-as-authorized-structure)؛ [§10 الحوكمة تحت انضباط الإدارة المسؤولة](#10-governance-under-stewardship-discipline)؛ [§9.1.1 معيار الإدارة المسؤولة المشترك](#911-shared-stewardship-standard) (*المقاعد نفسها لمسؤولي الإدارة البشريين ومن الذكاء الاصطناعي*).
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — رجل **الرقابة** (من يفحص ليس من فعل)؛ رجل **المساءلة** (لا يجوز أن ينهار واجب الجواب على الفاعل)؛ مقياس [الرهان المادي](core_00_preamble.md#material-stake) تحت [التناسب](../../core_05_band_accountability.md#proportionality).
 - يُقرأ مع: [§11.3 كشف عدم المواءمة](#113-misalignment-detection) (*الكشف والمراجعة الجمعيان — نصف الأعين الكثيرة من هذا الزوج*).
-- أسفل: **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)** (*المساءلة: مصطلحات السلطة الموزَّعة والمتناسبة — المسار الدستوري والفصل الوظيفي*) و**[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)** (*مسارات الفصل الوظيفي*) للمؤسسات؛ **[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog)** (*كتالوج المقاعد*) لأنواع المقاعد — هذه الأربعة ومقاعد الاحتواء وشروط المشاركة وضبط الإطلاق والتوجيه المتكررة — التي تجسّدها خريطة أدوار كل معتمِد؛ [الفصل الثامن §3.7](../../core_08_standing_assessment.md#37-segregation-of-duties) لسجلات الوضعية؛ [المادة XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) و[الفصل الحادي عشر](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) للمنتديات؛ [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) للطاقم البشري/الذكاء الاصطناعي المختلط.
+- أسفل: **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)** (*المساءلة: مصطلحات السلطة الموزَّعة والمتناسبة — المسار الدستوري والفصل الوظيفي*) و**[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)** (*مسارات الفصل الوظيفي*) للمؤسسات؛ **[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog)** (*كتالوج المقاعد*) لأنواع المقاعد — هذه الأربعة ومقاعد الاحتواء وشروط المشاركة وضبط الإطلاق والتوجيه المتكررة — التي تجسّدها خريطة أدوار كل معتمِد؛ [الفصل الثامن §3.7](../../core_09_standing_assessment.md#37-segregation-of-duties) لسجلات الوضعية؛ [المادة XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) و[الفصل الحادي عشر](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) للمنتديات؛ [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) للطاقم البشري/الذكاء الاصطناعي المختلط.
 
 </details>
 
@@ -745,7 +745,7 @@
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — رجل **حسن التوقيت** (إعادة فحص مجدولة)؛ رجل **الرقابة** (معايير مرئية قابلة للطعن)؛ رجل **المساءلة** (العادة والملاءمة ليستا جوابًا)؛ مقياس [الرهان المادي](core_00_preamble.md#material-stake).
 - يُقرأ مع: [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims) — مقصد **الاستمرارية** (المواءمة الدائمة ليست تجميدًا في الموضع)؛ مقصد **الازدهار** (يبقى الصوت والطعن حقيقيين كلما عمّرت الترتيبات).
 - يُقرأ مع: [واجب المراجعة والتصحيح](../../core_05_band_continuity.md#review-and-correction-duty-constitutional)؛ [قابلية الطعن](../../core_05_band_accountability.md#contestability)؛ [حسن التوقيت](core_05_apex_timeliness_leg.md#timeliness-constitutional).
-- أسفل: [المادة XXV-A: منع التحصين وقابلية المراجعة](../../core_06_rights_part_d.md#article-xxv-a-non-entrenchment-and-revisability) و[المادة XXV-B: إعادة المصادقة الدورية والتغيير الشفاف](../../core_06_rights_part_d.md#article-xxv-b-periodic-revalidation-and-transparent-change) (*أرضيات منع التحصين والتغيير الشفاف في أرضية الحقوق — وهما لا تضيّقان هذا المبدأ*)؛ **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#baseline-governance-accountability-conditions)** (*شروط مساءلة الحوكمة الأساسية*)؛ [الفصل الثاني عشر](../../core_12_governance.md) (*تشغيل طبقة العقد الدستوري*).
+- أسفل: [المادة XXV-A: منع التحصين وقابلية المراجعة](../../core_06_rights_part_d.md#article-xxv-a-non-entrenchment-and-revisability) و[المادة XXV-B: إعادة المصادقة الدورية والتغيير الشفاف](../../core_06_rights_part_d.md#article-xxv-b-periodic-revalidation-and-transparent-change) (*أرضيات منع التحصين والتغيير الشفاف في أرضية الحقوق — وهما لا تضيّقان هذا المبدأ*)؛ **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#baseline-governance-accountability-conditions)** (*شروط مساءلة الحوكمة الأساسية*)؛ [الفصل الثاني عشر](../../core_13_governance.md) (*تشغيل طبقة العقد الدستوري*).
 
 </details>
 
@@ -789,9 +789,9 @@
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — الموطن الأولي في الفصل الأول لانضباط **الاستيلاء** في الرباعية (يجب ألا تفرّغ الحوافز **المشاركة** أو **الرقابة** أو **المساءلة** أو **حسن التوقيت**)؛ مقياس [الرهان المادي](core_00_preamble.md#material-stake).
 - يُقرأ مع: أسرة قياس المساءلة (*مواءمة الحوافز ونزاهة المؤشرات البديلة؛ بنية السوق وقابلية المنافسة*).
 - يُقرأ مع: [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims) — مقصد **الاستمرارية** (مواءمة دائمة ضد تحسين الأفق القصير والاستيلاء)؛ مقصد **الازدهار** (بنى حوافز تحفظ الوكالة ذات المعنى).
-- أعلى: المبادئ: [2. المقصد التأسيسي: العافية](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، و[§2.2 الاعتراف والتعزيز والطموح](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)، و[3.1 السلامة](core_01_a_values_principles.md#31-safety-harm-constraint)، و[3.2 الحقيقة](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، و[4. الثقة](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)، و[§9 الإدارة المسؤولة والفهم الموزَّع](#9-stewardship-and-distributed-understanding)، و[الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- أعلى: المبادئ: [2. المقصد التأسيسي: العافية](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، و[§2.2 الاعتراف والتعزيز والطموح](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)، و[3.1 السلامة](core_01_a_values_principles.md#31-safety-harm-constraint)، و[3.2 الحقيقة](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، و[4. الثقة](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)، و[§9 الإدارة المسؤولة والفهم الموزَّع](#9-stewardship-and-distributed-understanding)، و[الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - أسفل: [§5 الحرية](core_01_a_values_principles.md#5-freedom-bounded-agency) و[§7 حظر التجاوز المطلق](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
-- أسفل: [§6.3 تقليل العبء القابل للتجنّب](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)؛ [الفصل الثاني عشر §5 — الأدوار المرخَّص لها وتنمية الكفاءة والإسهام](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution)؛ **[corpus_systems.md](../../corpus_systems.md)، CS-4 — الإدارة المسؤولة للأنظمة الحرجة**.
+- أسفل: [§6.3 تقليل العبء القابل للتجنّب](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)؛ [الفصل الثاني عشر §5 — الأدوار المرخَّص لها وتنمية الكفاءة والإسهام](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)؛ **[corpus_systems.md](../../corpus_systems.md)، CS-4 — الإدارة المسؤولة للأنظمة الحرجة**.
 - أسفل: يستهدف سطح الحقوق للوكالة والمشاركة ومواءمة الحوافز ونزاهة المجال المعلوماتي والوضعية ومراجعة منع الاستيلاء عبر [الفصل السادس: الحقوق التأسيسية](../../core_06_rights_part_a.md#chapter-six-foundational-rights)؛ خاصةً [المادة IX: تقرير المصير والوكالة](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)، و[المادة XI: المشاركة النظامية للأطراف المتأثرة والتمثيل والإجراءات الواجبة](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)، و[المادة XII-D: قيد مواءمة الحوافز](../../core_06_rights_part_c.md#article-xii-d-incentive-alignment-constraint)، و[المادة XIV: نزاهة المجال المعلوماتي](../../core_06_rights_part_c.md#article-xiv-info-sphere-integrity)، و[المادة XVIII: الوضعية ومركز المشاركة](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)، و[المادة XXII: التفسير الدستوري والمراجعة وضمانات منع الاستيلاء](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards).
 - باب الإدارة المسؤولة (غير تشغيلي): البيان الملزم للخطوة التالية: [بيان الإدارة المسؤولة التشغيلي](#operative-steward-statement-incentive). مؤشرات الدعم لا تستطيع تضييقه.
 
@@ -889,7 +889,7 @@
   - سلوك أمر غير قانوني أو غير دستوري؛
   - إخفاء؛
   - انتقام؛
-  - [عرقلة المساءلة](../../core_08_standing_assessment.md#232-violation-event-types) (نوع حدث نموذج الوضعية وتوجيه تسمية [الفصل العاشر §5.11](../../core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) — ليست استثناء مكافأة قائمًا بذاته)؛ أو
+  - [عرقلة المساءلة](../../core_09_standing_assessment.md#232-violation-event-types) (نوع حدث نموذج الوضعية وتوجيه تسمية [الفصل العاشر §5.11](../../core_11_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) — ليست استثناء مكافأة قائمًا بذاته)؛ أو
   - رفض إصلاح ضرر دستوري متحقَّق؛ أو
 - مسارات مكافأة تعتمد ماديًا على سوء السلوك أو إخفائه، بما في ذلك:
   - التعويض أو المكافأة أو حقوق الملكية أو التعيين أو الترقية أو التثبيت؛
@@ -897,7 +897,7 @@
   - التسوية أو التعويض أو التأمين أو الحصانة؛ أو
   - ترتيبات مماثلة.
 
-**عواقب المكافأة غير المتوائمة.** المكافآت المادية المحصَّلة عبر المسارات المحظورة أعلاه خاضعة للمصادرة والإبلاغ تحت نموذج الوضعية. اقرأ [الفصل التاسع §5.4 واجب الإبلاغ والاستثناءات](../../core_09_standing_integration.md#54-special-violation-rules)، و[§5.4 المصادرة والاحتفاظ](../../core_09_standing_integration.md#54-special-violation-rules)، و[§5.4 التصحيح والسجلات والتوجيه](../../core_09_standing_integration.md#54-special-violation-rules).
+**عواقب المكافأة غير المتوائمة.** المكافآت المادية المحصَّلة عبر المسارات المحظورة أعلاه خاضعة للمصادرة والإبلاغ تحت نموذج الوضعية. اقرأ [الفصل التاسع §5.4 واجب الإبلاغ والاستثناءات](../../core_10_standing_integration.md#54-special-violation-rules)، و[§5.4 المصادرة والاحتفاظ](../../core_10_standing_integration.md#54-special-violation-rules)، و[§5.4 التصحيح والسجلات والتوجيه](../../core_10_standing_integration.md#54-special-violation-rules).
 
 <a id="1113-stewardship-and-operator-application"></a>
 ##### 11.1.3 الإدارة المسؤولة وتطبيق المشغّل
@@ -924,7 +924,7 @@
 
 **أين يعيش التفصيل:**
 
-- [الفصل الثاني عشر §5 — الأدوار المرخَّص لها وتنمية الكفاءة والإسهام](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution) للأدوار المرخَّص لها والكفاءة والمسارات إلى عمل يهم فعلًا لمسؤولي الإدارة والمشغّلين؛
+- [الفصل الثاني عشر §5 — الأدوار المرخَّص لها وتنمية الكفاءة والإسهام](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution) للأدوار المرخَّص لها والكفاءة والمسارات إلى عمل يهم فعلًا لمسؤولي الإدارة والمشغّلين؛
 - [**CS-4**](../../corpus_systems/cs_04_critical_system_stewardship.md) (*الإدارة المسؤولة للأنظمة الحرجة*) لكيف يُحمَل ذلك الواجب في أنظمة عالية الأثر؛ و
 - [§9 الإدارة المسؤولة والفهم الموزَّع](#9-stewardship-and-distributed-understanding) لصورة طبقة المبادئ للعمل العملي وكفاءة الجماعة.
 
@@ -1058,8 +1058,8 @@
 
 - **واجب المراجعة والتصحيح:** [واجب المراجعة والتصحيح](../../core_05_band_continuity.md#review-and-correction-duty-constitutional).
 - **مراجعة مشدَّدة:** [§13.1 آلية عتبة تركيز السوق](#131-market-concentration-threshold-mechanism-adopter-tunable) و[§13.2 مؤازرة المنافسة ومنع الهيمنة](#132-pro-competition-and-anti-domination)، حيث يكون التركيز أو الهيمنة ماديين.
-- **ميكانيكا الوضعية والانتهاك:** [الفصل الثامن — نموذج الإسهام والانتهاك والوضعية](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)، حيث تكون الإيجادات المتحقَّق منها على المحك.
-- **سوء السلوك المضاد للدستور:** [الفصل العاشر §5.1 التخريب القائم على التركيز: تفاعل المعايير](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)، حيث يكوّن التركيز أو استيلاء الإجراء سوء سلوك مضاد للدستور.
+- **ميكانيكا الوضعية والانتهاك:** [الفصل الثامن — نموذج الإسهام والانتهاك والوضعية](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)، حيث تكون الإيجادات المتحقَّق منها على المحك.
+- **سوء السلوك المضاد للدستور:** [الفصل العاشر §5.1 التخريب القائم على التركيز: تفاعل المعايير](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)، حيث يكوّن التركيز أو استيلاء الإجراء سوء سلوك مضاد للدستور.
 
 <a id="114-misalignment-correction-and-capture-response"></a>
 #### 11.4 تصحيح عدم المواءمة والاستجابة للاستيلاء
@@ -1107,12 +1107,12 @@
 
 - **متى:** يُتحقَّق من عدم المواءمة.
 - **يجب ألا:** تعامل المكافآت المادية من مسارات غير متوائمة أو فاسدة رصيد وضعية قابلًا للحفظ بهدوء أو نفعًا محميًا.
-- **موطن التصحيح:** يحكم [الفصل التاسع §5.4 قواعد الانتهاك الخاصة](../../core_09_standing_integration.md#54-special-violation-rules):
+- **موطن التصحيح:** يحكم [الفصل التاسع §5.4 قواعد الانتهاك الخاصة](../../core_10_standing_integration.md#54-special-violation-rules):
   - المصادرة؛
   - الاسترداد المتناسب؛
   - إبلاغ القبول العارف؛ و
   - التصحيح.
-- **قياس الوضعية:** لا يقرر هذا الفصل كم كان الإسهام أو الانتهاك المتحقَّق جيدًا أو سيئًا. ذلك التقييم هو [الفصل الثامن §4 السؤال 2 — كم كان جيدًا أو سيئًا؟](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it)، باستخدام [الفصل الثامن §4.1 أبعاد مدخلات مقدار الإسهام](../../core_08_standing_assessment.md#41-contribution-magnitude-input-dimensions) و[§4.2 أبعاد مدخلات جسامة الانتهاك](../../core_08_standing_assessment.md#42-violation-severity-input-dimensions).
+- **قياس الوضعية:** لا يقرر هذا الفصل كم كان الإسهام أو الانتهاك المتحقَّق جيدًا أو سيئًا. ذلك التقييم هو [الفصل الثامن §4 السؤال 2 — كم كان جيدًا أو سيئًا؟](../../core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it)، باستخدام [الفصل الثامن §4.1 أبعاد مدخلات مقدار الإسهام](../../core_09_standing_assessment.md#41-contribution-magnitude-input-dimensions) و[§4.2 أبعاد مدخلات جسامة الانتهاك](../../core_09_standing_assessment.md#42-violation-severity-input-dimensions).
 
 <a id="115-contingent-claims-games-of-chance-and-event-contract-markets"></a>
 #### 11.5 المطالبات المشروطة وألعاب الحظ وأسواق عقود الأحداث
@@ -1121,7 +1121,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: [§11 مواءمة الحوافز واستيلاء النظام](#11-incentive-alignment-and-system-capture) (بما في ذلك [§11.1 متطلب المواءمة](#111-alignment-requirement))؛ [الفصل الخامس *المطالبة المشروطة وسوق عقود الأحداث ولعبة الحظ وميزة المطلع*](../../core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent).
-- أسفل: [§11.3 كشف عدم المواءمة](#113-misalignment-detection)؛ [§11.3.1 محفّزات التصعيد](#1131-escalation-triggers)؛ [§11.4 تصحيح عدم المواءمة والاستجابة للاستيلاء](#114-misalignment-correction-and-capture-response)؛ [§6.2 قيود الإفصاح المعرفي](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)؛ [الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ تصنيف `corpus_systems.md` ومقياس الإدارة المسؤولة؛ توقعات تعارض ونزاهة `corpus_institutions.md`.
+- أسفل: [§11.3 كشف عدم المواءمة](#113-misalignment-detection)؛ [§11.3.1 محفّزات التصعيد](#1131-escalation-triggers)؛ [§11.4 تصحيح عدم المواءمة والاستجابة للاستيلاء](#114-misalignment-correction-and-capture-response)؛ [§6.2 قيود الإفصاح المعرفي](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)؛ [الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ تصنيف `corpus_systems.md` ومقياس الإدارة المسؤولة؛ توقعات تعارض ونزاهة `corpus_institutions.md`.
 - يُقرأ مع: [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims) — مقصد **الاستمرارية** (مسارات حل دائمة قابلة للطعن واستقرار منظومي حيث يكون التسوية المشروطة ذات أثر مادي).
 - يُقرأ مع: [استيلاء مسارات الحل](../../core_05_band_accountability.md#capture-of-resolution-pathways)، و[الإكراه والتلاعب](../../core_05_band_participation.md#coercion-and-manipulation-constitutional)، و[قابلية الطعن](../../core_05_band_accountability.md#contestability)؛ [ميزة المطلع](../../core_05_band_accountability.md#insider-advantage).
 - الأقسام الفرعية (ترتيب القراءة): [§11.5.1 ما لا يجوز مكافأته](#1151-what-may-not-be-rewarded) · [§11.5.2 من يقرر النتائج](#1152-who-decides-outcomes) · [§11.5.3 إشارات السوق ليست إثباتًا دستوريًا](#1153-market-signals-are-not-constitutional-proof) · [§11.5.4 الضوابط المتناسبة وحضانة التنفيذ](#1154-proportionate-controls-and-implementation-custody).
@@ -1240,7 +1240,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - يُقرأ مع: [الضرورة](../../core_05_band_accountability.md#necessity)؛ [التناسب](../../core_05_band_accountability.md#proportionality)؛ [الاعتماد](../../core_05_band_continuity.md#dependency).
-- أسفل: [الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ [corpus_systems.md](../../corpus_systems.md) (*تصنيف الإدارة المسؤولة للأنظمة ذات الأثر المادي ومقياسها*)؛ [corpus_institutions.md](../../corpus_institutions.md) (*قواعد التعارض والإجراء حيث تشرف المؤسسات على ذلك النشاط*).
+- أسفل: [الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ [corpus_systems.md](../../corpus_systems.md) (*تصنيف الإدارة المسؤولة للأنظمة ذات الأثر المادي ومقياسها*)؛ [corpus_institutions.md](../../corpus_institutions.md) (*قواعد التعارض والإجراء حيث تشرف المؤسسات على ذلك النشاط*).
 
 </details>
 
@@ -1256,7 +1256,7 @@
   - [الاعتماد](../../core_05_band_continuity.md#dependency)؛
   - القابلية للتضرر؛ و
   - الاستقرار المنظومي.
-- تقييم إساءة الاستخدام متسقًا مع [الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، بما في ذلك:
+- تقييم إساءة الاستخدام متسقًا مع [الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، بما في ذلك:
   - التنسيق للتأثير في أحداث الحل؛ و
   - ديناميات النطاق.
 
@@ -1274,7 +1274,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- يُقرأ مع: [الفصل التاسع §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) و[§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority)؛ [المساءلة](core_05_apex_accountability_leg.md#accountability)؛ [corpus_systems.md](../../corpus_systems.md) **CS-7 — ضمانات العدل والاسترداد وإعادة التأهيل** (*فحوصات استمرارية الكيان*).
+- يُقرأ مع: [الفصل التاسع §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) و[§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority)؛ [المساءلة](core_05_apex_accountability_leg.md#accountability)؛ [corpus_systems.md](../../corpus_systems.md) **CS-7 — ضمانات العدل والاسترداد وإعادة التأهيل** (*فحوصات استمرارية الكيان*).
 - يُقرأ مع: [الفعل القابل للإسناد](../../core_05_band_accountability.md#attributable-action-constitutional) و[نزاهة الإسناد](../../core_05_band_accountability.md#attribution-integrity-constitutional) — يجب ألا تهزم تغييرات الخلف والبنية الشكلية إسنادًا موثوقًا للواجبات المتبقية.
 
 </details>
@@ -1519,7 +1519,7 @@
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — المشاركة والرقابة والمساءلة وحسن التوقيت حيث يهزم التركيز أو الهيمنة الصوت أو الفحص أو واجب الجواب أو التصحيح في وقته؛ مقياس [الرهان المادي](core_00_preamble.md#material-stake) (ولا سيما [§13.2 مؤازرة المنافسة ومنع الهيمنة](#132-pro-competition-and-anti-domination)).
 - يُقرأ مع: [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims) — مقصد **الاستمرارية** (شروط إنتاجية قابلة للمنافسة ودائمة)؛ مقصد **الازدهار** (وصول عادل إلى سبل العيش والوكالة ومسارات الابتكار).
 - أعلى: المبادئ: [§12 قدرة الأنظمة المشتركة](#12-shared-system-capacity) — تفشل ادعاءات القدرة الإنتاجية والكفاءة حيث يفرّغها التركيز أو الهيمنة؛ [10. الحوكمة تحت انضباط الإدارة المسؤولة](#10-governance-under-stewardship-discipline).
-- أسفل: [الفصل العاشر §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (التخريب القائم على التركيز)؛ [6. حل تعارض الإجراءات](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([§6.2.4 إبطال تباعد المؤشرات البديلة](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)).
+- أسفل: [الفصل العاشر §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (التخريب القائم على التركيز)؛ [6. حل تعارض الإجراءات](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([§6.2.4 إبطال تباعد المؤشرات البديلة](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)).
 - أسفل: **CJS-3.11.1 — انضباط ضبط عتبة تركيز السوق (قابل للضبط من المعتمِد)** (قواعد [§13.1](#131-market-concentration-threshold-mechanism-adopter-tunable) التشغيلية)؛ **CJS-3.11.2 — كتالوج سلوك منع الهيمنة والإصلاح** (أنماط سلوك [§13.2](#132-pro-competition-and-anti-domination) التشغيلية والانتصاف)؛ **CJS-3.11.3 — انضباط ضبط سقف الدمج (قابل للضبط من المعتمِد)** (قواعد ضبط السقف التشغيلية في [§13.3.2](#1332-ceiling-discipline-adopter-requirements)).
 - أسفل: يشكّل سطح الحقوق لتخصيص الموارد والتعويض العادل والتنظيم الجماعي وقابلية التشغيل البيني والخروج ومراجعة منع الاستيلاء؛ خاصةً [المادة III-D: أرضية العمل والاقتصاد](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)، و[المادة IV: تخصيص الموارد والاعتمادات وتمويل النظم البيئية](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding)، و[المادة XIX: قابلية التشغيل البيني وقابلية النقل والتنقل واللجوء ونزاهة الخروج](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity).
 - الأقسام الفرعية (ترتيب القراءة): [§13.1 آلية عتبة تركيز السوق (قابلة للضبط من المعتمِد)](#131-market-concentration-threshold-mechanism-adopter-tunable) · [§13.1.1 محفّزات عتبة التركيز (قابلة للضبط من المعتمِد)](#1311-concentration-threshold-triggers-adopter-tunable) · [§13.2 مؤازرة المنافسة ومنع الهيمنة](#132-pro-competition-and-anti-domination) · [§13.3 سقف الدمج](#133-consolidation-ceiling).
@@ -1565,7 +1565,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: [§13 بنية السوق](#13-market-structure)؛ [عتبة تركيز السوق](../../core_05_band_accountability.md#market-concentration-threshold-constitutional).
-- أسفل: **CJS-3.11.1 — انضباط ضبط عتبة تركيز السوق (قابل للضبط من المعتمِد)** (قواعد ضبط العتبة التشغيلية)؛ [§13.2 مؤازرة المنافسة ومنع الهيمنة](#132-pro-competition-and-anti-domination)؛ [§13.3 سقف الدمج](#133-consolidation-ceiling)؛ [CJS-3.11.3 — انضباط ضبط سقف الدمج (قابل للضبط من المعتمِد)](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) (قواعد ضبط السقف التشغيلية في [§13.3.2](#1332-ceiling-discipline-adopter-requirements))؛ [الفصل الثامن §4 السؤال 2 — كم كان جيدًا أو سيئًا؟](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it)؛ [الفصل العاشر §5.1 التخريب القائم على التركيز](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- أسفل: **CJS-3.11.1 — انضباط ضبط عتبة تركيز السوق (قابل للضبط من المعتمِد)** (قواعد ضبط العتبة التشغيلية)؛ [§13.2 مؤازرة المنافسة ومنع الهيمنة](#132-pro-competition-and-anti-domination)؛ [§13.3 سقف الدمج](#133-consolidation-ceiling)؛ [CJS-3.11.3 — انضباط ضبط سقف الدمج (قابل للضبط من المعتمِد)](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) (قواعد ضبط السقف التشغيلية في [§13.3.2](#1332-ceiling-discipline-adopter-requirements))؛ [الفصل الثامن §4 السؤال 2 — كم كان جيدًا أو سيئًا؟](../../core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it)؛ [الفصل العاشر §5.1 التخريب القائم على التركيز](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
 - باب الإدارة المسؤولة (غير تشغيلي): البيان الملزم للخطوة التالية: [بيان الإدارة المسؤولة التشغيلي](#operative-steward-statement-market-structure). مؤشرات الدعم لا تستطيع تضييقه.
 - الأقسام الفرعية (ترتيب القراءة): [§13.1.1 محفّزات عتبة التركيز (قابلة للضبط من المعتمِد)](#1311-concentration-threshold-triggers-adopter-tunable).
 
@@ -1596,8 +1596,8 @@
 
 - **يفعل:** يبيّن اتجاه عتبة طبقة المبادئ لأرضية [§13 بنية السوق](#13-market-structure).
 - **لا يفعل:** يقرر كم كان الضرر المتحقَّق جسيمًا، أو يصدر تسمية سوء سلوك.
-- **حين يُستخدَم التركيز لتقويض هذا الدستور:** يُحكَم ذلك سوء السلوك تحت [الفصل العاشر §5.1 التخريب القائم على التركيز](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
-- **إنشاء التركيز فوق الأرضية أو حفظه أو استغلاله:** يُبلَغ عبر معايير الفصل العاشر 3 و4 و6 لمراجعة التسمية، وفقط حيث قيّم [الفصل الثامن §4 السؤال 2 — كم كان جيدًا أو سيئًا؟](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it) ذلك الضرر المتحقَّق أصلًا واحدًا من الدرجات الثلاث الأشد التي يسجّلها الفصل الثامن.
+- **حين يُستخدَم التركيز لتقويض هذا الدستور:** يُحكَم ذلك سوء السلوك تحت [الفصل العاشر §5.1 التخريب القائم على التركيز](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- **إنشاء التركيز فوق الأرضية أو حفظه أو استغلاله:** يُبلَغ عبر معايير الفصل العاشر 3 و4 و6 لمراجعة التسمية، وفقط حيث قيّم [الفصل الثامن §4 السؤال 2 — كم كان جيدًا أو سيئًا؟](../../core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it) ذلك الضرر المتحقَّق أصلًا واحدًا من الدرجات الثلاث الأشد التي يسجّلها الفصل الثامن.
 
 **الأرضية الدستورية:**
 
@@ -1665,7 +1665,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: [§13 بنية السوق](#13-market-structure)؛ [بنية السوق](../../core_05_band_accountability.md#market-structure-constitutional).
-- أسفل: **CJS-3.11.2 — كتالوج سلوك منع الهيمنة والإصلاح** (أنماط السلوك والانتصاف التشغيلية)؛ [§13.3 سقف الدمج](#133-consolidation-ceiling)؛ [الفصل العاشر §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- أسفل: **CJS-3.11.2 — كتالوج سلوك منع الهيمنة والإصلاح** (أنماط السلوك والانتصاف التشغيلية)؛ [§13.3 سقف الدمج](#133-consolidation-ceiling)؛ [الفصل العاشر §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
 - يُقرأ مع: [المادة III-D: أرضية العمل والاقتصاد](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (أرضية حقوق حركة العمل)؛ [المادة XIX: قابلية التشغيل البيني وقابلية النقل والتنقل واللجوء ونزاهة الخروج](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)؛ [6. حل تعارض الإجراءات](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([الضرورة](../../core_05_band_accountability.md#necessity)، [التناسب](../../core_05_band_accountability.md#proportionality)، [§6.2.4 إبطال تباعد المؤشرات البديلة](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)).
 - الأقسام الفرعية (ترتيب القراءة): [§13.2.1 واجبات مؤازرة المنافسة (افعل)](#1321-pro-competition-duties-dos) · [§13.2.2 محظورات منع الهيمنة (لا تفعل)](#1322-anti-domination-prohibitions-donts) · [§13.2.3 الانتصاف](#1323-remedies).
 
@@ -1918,7 +1918,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: [§13.3 سقف الدمج](#133-consolidation-ceiling)؛ [§13.3.1 مخاطر الدمج (إضعاف ما قبل الإقفال)](#1331-consolidation-risk-pre-lock-in-impairment).
-- أسفل: **CJS-3.11.3 — انضباط ضبط سقف الدمج (قابل للضبط من المعتمِد)** (قواعد ضبط السقف التشغيلية)؛ [CJS-3.11.2 — كتالوج سلوك منع الهيمنة والإصلاح](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog) (توجيه الانتصاف عند خرق السقف)؛ [الفصل العاشر §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- أسفل: **CJS-3.11.3 — انضباط ضبط سقف الدمج (قابل للضبط من المعتمِد)** (قواعد ضبط السقف التشغيلية)؛ [CJS-3.11.2 — كتالوج سلوك منع الهيمنة والإصلاح](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog) (توجيه الانتصاف عند خرق السقف)؛ [الفصل العاشر §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
 
 </details>
 
@@ -1958,7 +1958,7 @@
 - يُقرأ مع: أسرة قياس الاستمرارية (*المرونة والقابلية للعكس والمخاطر المنظومية*).
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad)، و[المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims)، ومقياس [الرهان المادي](core_00_preamble.md#material-stake).
 - يُقرأ مع: [6. حل تعارض الإجراءات](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)، و[§9 الإدارة المسؤولة والفهم الموزَّع](#9-stewardship-and-distributed-understanding)، و[§10 الحوكمة تحت انضباط الإدارة المسؤولة](#10-governance-under-stewardship-discipline)، و[§11 مواءمة الحوافز واستيلاء النظام](#11-incentive-alignment-and-system-capture).
-- يُقرأ مع: **[الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)** — عوامل تقييم النظام كاملًا التشغيلية لتصديق مواءمة النظام (عملية تدقيق كبيرة بوجه خاص تحت رجل **الرقابة** في الرباعية؛ ليست الموطن الوحيد للتدقيق).
+- يُقرأ مع: **[الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)** — عوامل تقييم النظام كاملًا التشغيلية لتصديق مواءمة النظام (عملية تدقيق كبيرة بوجه خاص تحت رجل **الرقابة** في الرباعية؛ ليست الموطن الوحيد للتدقيق).
 - يُقرأ مع: **المادة XV** (*التدقيق والشفافية والتحقق المستقل*) و[قابلية التدقيق](../../core_05_band_oversight.md#auditability) — أرضيات التدقيق التي يجب أن يستوفيها الفصل السابع والتي تنفّذها أيضًا أنماط تدقيق شقيقة.
 - يُقرأ مع: **[corpus_systems.md](../../corpus_systems.md)، CS-3 — تصنيف الأنظمة ومعالجتها** و[الحوكمة المقاسة على التصنيف](../../core_05_band_oversight.md#classification-scaled-governance) — التطبيق المقاس على التصنيف وشكل السجل ومحفّزات إعادة التصنيف وملفات المعالجة.
 - أعلى: [§9 الإدارة المسؤولة والفهم الموزَّع](#9-stewardship-and-distributed-understanding)؛ [§10 الحوكمة تحت انضباط الإدارة المسؤولة](#10-governance-under-stewardship-discipline)؛ [6. حل تعارض الإجراءات](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
@@ -1995,8 +1995,8 @@
 - الإطلاق من الشروط.
 
 عوامل التقييم التفصيلية وسجلات التصديق مملوكة لـ:
-- **[الفصل السابع §3](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**؛
-- **[الفصل السابع §11](../../core_07_b_system_alignment_certification_record_process.md#11-certification-record)**؛
+- **[الفصل السابع §3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**؛
+- **[الفصل السابع §11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record)**؛
 - **[corpus_systems.md](../../corpus_systems.md)، CS-3 — تصنيف الأنظمة ومعالجتها**.
 
 تلك عملية الفصل السابع:
@@ -2009,7 +2009,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: المبادئ: [8. التفسير الدستوري](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)، و[1. الغرض والدور](core_01_a_values_principles.md#1-purpose-and-role)، و[§9 الإدارة المسؤولة والفهم الموزَّع](#9-stewardship-and-distributed-understanding)، و[6. حل تعارض الإجراءات](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)، و[الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و[5. الحرية](core_01_a_values_principles.md#5-freedom-bounded-agency)، و[7. حظر التجاوز المطلق](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- أعلى: المبادئ: [8. التفسير الدستوري](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)، و[1. الغرض والدور](core_01_a_values_principles.md#1-purpose-and-role)، و[§9 الإدارة المسؤولة والفهم الموزَّع](#9-stewardship-and-distributed-understanding)، و[6. حل تعارض الإجراءات](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)، و[الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و[5. الحرية](core_01_a_values_principles.md#5-freedom-bounded-agency)، و[7. حظر التجاوز المطلق](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 - أسفل: ينبغي قراءة الفصول اللاحقة عبر مبادئ الفصل الأول المترابطة هذه — بما في ذلك [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) و[المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims) ومقياس [الرهان المادي](core_00_preamble.md#material-stake) المقررة في [الديباجة](core_00_preamble.md#chapter-00-preamble--foundational-requirements) و[§1 الغرض والدور](core_01_a_values_principles.md#1-purpose-and-role).
 - أسفل: يجب قراءة [الفصل السادس: الحقوق التأسيسية](../../core_06_rights_part_a.md#chapter-six-foundational-rights) عبر إطار القيمة المتكاملة في هذا الفصل.
   - التفسير المحدود والأسباب العلنية والطعن والمراجعة الخارجية وإجراء تصادم الحقوق يؤدّون العمل الأساسي أسفل.

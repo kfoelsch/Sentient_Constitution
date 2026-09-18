@@ -4,7 +4,7 @@
 The five-element set is the load-bearing artifact for costly cases.
 This tool asks a mechanical question: did the steward log the set, with
 required attributions, and with timestamps that match a published
-Chapter Eleven §6 / Article XXIV-C tier clock when a numeric bound applies?
+Chapter Twelve §6 / Article XXIV-C tier clock when a numeric bound applies?
 
 Same schema for human and AI stewards. The log is not a standing record.
 
@@ -280,7 +280,7 @@ def check_tier_clock(clock: object, bounds: dict[str, str]) -> list[str]:
     tier = clock.get("tier")
     if tier not in TIERS:
         errors.append(
-            f"tier_clock.tier: {tier!r} is not a published Chapter Eleven §6 "
+            f"tier_clock.tier: {tier!r} is not a published Chapter Twelve §6 "
             f"tier {list(TIERS)} (CS4-INSPECTABLE-LOG-01)"
         )
     elif tier not in bounds:
@@ -430,7 +430,7 @@ def main() -> int:
             return 1
         print(
             "PASS: CS-4 §10 inspectable-action log schema, fixtures, and "
-            "Chapter Eleven §6 tier-clock bounds."
+            "Chapter Twelve §6 tier-clock bounds."
         )
         return 0
     if args.log is None:

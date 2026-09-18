@@ -11,7 +11,7 @@
 > - **Corpus edition and effective date:** inherit from [README.md](../README.md). Do not stamp a second edition in this annex.
 >
 > **Status**
-> - This is **not** a core constitutional file. It is binding incorporated implementation text where [Chapter Five](../core_05_band_integrative.md#corpus) and [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) designate it.
+> - This is **not** a core constitutional file. It is binding incorporated implementation text where [Chapter Five](../core_05_band_integrative.md#corpus) and [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) designate it.
 > - Prefer the filename **`corpus_systems.md`** in cross-references; the bare phrase *Constitutional Systems* is not used in corpus body text (see [tools/architecture/lexical_guardrails.json](../tools/architecture/lexical_guardrails.json)).
 > - The CS folder is written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
 > - **Reader landing:** [corpus_systems.md](../corpus_systems.md) is the human start for this layer. This file is the registry and identifier annex, not a second front door.
@@ -40,16 +40,16 @@
 >
 > **CJS cluster mapping (routing only)**
 > - Technical requirements map primarily to **CJS-3.2–CJS-3.6** (*Oversight leg*), **CJS-3.7–CJS-3.10** (*Participation leg*), **CJS-3.16–CJS-3.21** (*Continuity aim*), and **CJS-3.22–CJS-3.23** (*Integrative cross-leg*).
-> - Governance, proportionality of authority, justification, challenge, and collective-choice processes map primarily to **CJS-3.11–CJS-3.15** (*Accountability leg*), together with Chapter Twelve decision-resolution requirements.
+> - Governance, proportionality of authority, justification, challenge, and collective-choice processes map primarily to **CJS-3.11–CJS-3.15** (*Accountability leg*), together with Chapter Thirteen decision-resolution requirements.
 >
 > **File-specific implementation anchors**
 > - **Taxonomy home:** data types, system classes/dependency types, and steward tiers are canonical in **CS-2–CS-4**; other corpus files reference these labels.
 > - **Chapter Six structure:** This folder implements Chapter Six themes operationally (challenge/redress via **Article XII-B** (*Right to Challenge, Review, and Redress*); auditability via **Article XV-A** (*Auditability and Observable Evidence*) with **Chapters Two through Four**; justice and emergencies via **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) with **Chapter One** section 6.4; info-sphere and publication via **Articles XIV** and **VIII-C** with Chapter Five clusters). It must not narrow those articles.
 > - **Intervention layering:** **CJS-3.23** (*intervention and override integrity terms*) and **CJS-3.14** (*intervention governance and override-authorization terms*) — jointly applicable where relevant.
-> - **Voting / crypto / roles:** Chapter Twelve section 4 (*Voting and Binding Collective Choice Protocols*); Chapter Four section 5.1.1 (*Cryptographic protection, credentials, and verification*); Chapter Twelve section 5.1 (*Authorized Roles, Competency Development, and Contribution*).
+> - **Voting / crypto / roles:** Chapter Thirteen section 4 (*Voting and Binding Collective Choice Protocols*); Chapter Four section 5.1.1 (*Cryptographic protection, credentials, and verification*); Chapter Thirteen section 5.1 (*Authorized Roles, Competency Development, and Contribution*).
 > - **Capital-markets scope:** specialist corporate-securities law remains outside dedicated implementation file coverage.
 > - **Joint implementation read:** where **CS-2/CS-3** intersect institutional governance, forum operations, or **CJS-3** clusters, read **CJS-0.1** and **CJS-1**. Systems-only topic ownership and domain reading order live in this file under [Systems domain routing (integrator annex)](#systems-domain-routing-integrator-annex).
-> - **Standing pipeline:** Chapter Eight owns Questions 1 and 2: verified standing records and Contribution Axis / Violation Axis measurement. **Forum** allegations and unadjudicated claims are not standing measurement inputs (**Chapter Eleven**). Chapter Nine owns Question 3 consequences; recency and currentness are gate/readiness inputs under [Chapter Nine §6.1](../core_09_standing_integration.md#61-recency-and-currentness) and must not alter the Chapter Eight contribution slot or LEQU measurement. Violation locks are decided before contribution gates under [Chapter Nine §2](../core_09_standing_integration.md#2-integration-record-and-decision-order). Numeric interoperability defaults: [implementation/CH06_NINE_SLOT_STANDING_SCALE.md](../implementation/CH06_NINE_SLOT_STANDING_SCALE.md). How-to-estimate (process support; cannot assign a live record): [implementation/LEQU_CALIBRATION_REFERENCE.md](../implementation/LEQU_CALIBRATION_REFERENCE.md).
+> - **Standing pipeline:** Chapter Nine owns Questions 1 and 2: verified standing records and Contribution Axis / Violation Axis measurement. **Forum** allegations and unadjudicated claims are not standing measurement inputs (**Chapter Twelve**). Chapter Ten owns Question 3 consequences; recency and currentness are gate/readiness inputs under [Chapter Ten §6.1](../core_10_standing_integration.md#61-recency-and-currentness) and must not alter the Chapter Nine contribution slot or LEQU measurement. Violation locks are decided before contribution gates under [Chapter Ten §2](../core_10_standing_integration.md#2-integration-record-and-decision-order). Numeric interoperability defaults: [implementation/CH06_NINE_SLOT_STANDING_SCALE.md](../implementation/CH06_NINE_SLOT_STANDING_SCALE.md). How-to-estimate (process support; cannot assign a live record): [implementation/LEQU_CALIBRATION_REFERENCE.md](../implementation/LEQU_CALIBRATION_REFERENCE.md).
 
 </details>
 
@@ -61,7 +61,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) section identifiers; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) section identifiers; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [Systems registry (stable section families)](#systems-registry-stable-section-families); [Systems domain routing (integrator annex)](#systems-domain-routing-integrator-annex).
 - Read with: **CS-1**; **CJS-1.1**.
 
@@ -93,7 +93,7 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [Systems domain routing (integrator annex)](#systems-domain-routing-integrator-annex).
 - Read with: **CS-1**; **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-5**.
 
@@ -111,7 +111,7 @@ Grouped family list: [corpus_systems.md](../corpus_systems.md). Former protocol-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [Domain topic owner map (CS-D)](#domain-topic-owner-map-cs-d); [Systems overlap discipline](#systems-overlap-discipline); [Systems read-with pointers](#systems-read-with-pointers).
 - Read with: [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-1.7**; **CJS-1.8**; [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); **CS-1**; **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-5**.
 
@@ -151,7 +151,7 @@ When a systems topic materially intersects **CI**, **CF**, or **CJS**, use [CJS-
 | **CS-D09** | Transition constitution and migration governance | **CS-10** | **CS-5**; **CS-11** where transition meets subversion or reconstitution |
 | **CS-D10** | Subversion response, replacement, and reconstitution | **CS-11** | **CS-5**; **CS-7**; **CS-10** |
 | **CS-D11** | Decentralized continuity and partition resilience | **CS-12** | **CS-5 §9**; **CS-4 — Critical system stewardship** where class scales continuity |
-| **CS-D12** | User-reachable capability surfaces | **CS-5, Part A** | **CS-2 — Information types and handling**; **CS-4** where inspectable action applies; **CS-6**; constitutional-operating owners remain Chapters Seven–Twelve, **CF**, and **CI** |
+| **CS-D12** | User-reachable capability surfaces | **CS-5, Part A** | **CS-2 — Information types and handling**; **CS-4** where inspectable action applies; **CS-6**; constitutional-operating owners remain Chapters Eight–Thirteen, **CF**, and **CI** |
 
 For **CS-D12**, the in-scope catalog is **CS-5, Part A**. Constitutional-operating surfaces (standing records, forum dockets, collective choice, remedy offices) stay with their existing owners. Coverage inventory (process support; cannot narrow; not a second **CF-15**): [`evidence/2026-09-10/cs_user_facing_software_audit.md`](../evidence/2026-09-10/cs_user_facing_software_audit.md).
 

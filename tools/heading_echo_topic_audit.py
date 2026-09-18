@@ -8,8 +8,8 @@ to the heading's own fragment.
 
 Unnumbered heading-echo run-ins (``**Symmetric costly constraints:**``)
 remain MD-LIST-INTRO-01's colon rule and are out of scope here.
-Cross-chapter cites that happen to share a number (``Chapter Nine §4.3``
-under Chapter Ten §4.3) are out of scope.
+Cross-chapter cites that happen to share a number (``Chapter Ten §4.3``
+under Chapter Eleven §4.3) are out of scope.
 
 Rule ID: MD-HEADING-TOPIC-01
 """

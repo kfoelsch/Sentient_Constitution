@@ -6,15 +6,15 @@
 
 > Aşağıdaki içerik **yalnızca okur rehberidir**. Bu dosyada ya da başka bölümlerde bağlayıcı yükümlülükleri eklemez, çıkarmaz ya da daraltmaz.
 >
-> Bu dosya, [İngilizce On Üçüncü Bölüm](../../core_13_non_regression.md)ün bir **okur-dili pilotudur**. Algılayanlar Anayasasının bağlayıcı bir parçası **değildir**. İkinci bir anayasa **değildir**. Bir gönderim baskısı **değildir**. `SC-Corpus-2026.08.09`a **sabitlenmiştir**. Bu çeviri ile İngilizce asıl görünür biçimde ayrışırsa, numaralı [`core_13_non_regression.md`](../../core_13_non_regression.md) kazanır. Okuma sırası ve baskı üstverisi [README.md](../../README.md)de tutulur. Yöntem ve sözlük: [translations/tr/README.md](README.md).
+> Bu dosya, [İngilizce On Üçüncü Bölüm](../../core_14_non_regression.md)ün bir **okur-dili pilotudur**. Algılayanlar Anayasasının bağlayıcı bir parçası **değildir**. İkinci bir anayasa **değildir**. Bir gönderim baskısı **değildir**. `SC-Corpus-2026.08.09`a **sabitlenmiştir**. Bu çeviri ile İngilizce asıl görünür biçimde ayrışırsa, numaralı [`core_13_non_regression.md`](../../core_14_non_regression.md) kazanır. Okuma sırası ve baskı üstverisi [README.md](../../README.md)de tutulur. Yöntem ve sözlük: [translations/tr/README.md](README.md).
 >
-> **On Üçüncü Bölüm**ü içerir: maddi gerilememe ve maddi değişiklik geçerliliği (Test 1). **On Dördüncü Bölüm** [`core_14_expansion_supremacy.md`](../../core_14_expansion_supremacy.md)dedir. **On Beşinci Bölüm** [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md)dedir. Değişiklik geçerliliği her iki [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims)ı — **Gelişim** ve **Süreklilik** — korumalı ve [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad)yü [maddi pay](core_00_preamble.md#material-stake) gereklerinin altına oyuklaştırmamalıdır. Bölüm numaralandırması ve çapraz atıflar bütünleşik araçla eşleşir.
+> **On Üçüncü Bölüm**ü içerir: maddi gerilememe ve maddi değişiklik geçerliliği (Test 1). **On Dördüncü Bölüm** [`core_14_expansion_supremacy.md`](../../core_15_expansion_supremacy.md)dedir. **On Beşinci Bölüm** [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md)dedir. Değişiklik geçerliliği her iki [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims)ı — **Gelişim** ve **Süreklilik** — korumalı ve [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad)yü [maddi pay](core_00_preamble.md#material-stake) gereklerinin altına oyuklaştırmamalıdır. Bölüm numaralandırması ve çapraz atıflar bütünleşik araçla eşleşir.
 
 
 >
-> **Önceki (hâlâ İngilizce):** [core_12_governance.md](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
+> **Önceki (hâlâ İngilizce):** [core_12_governance.md](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)
 >
-> **Sonraki (hâlâ İngilizce):** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+> **Sonraki (hâlâ İngilizce):** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 > **Okuma yayı:** §1 gerilememe tabanı → §2 Test 1 → §3 kaçınma karşıtı ve sevk → §4 katman kapsamı
 </details>
 
@@ -35,9 +35,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: [Birinci Bölüm](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [İkinci Bölümden Dördüncü Bölüme](core_02_definition_structure.md) bütünlük ve doğrulama; [Altıncı Bölüm](core_06_rights_part_a.md#chapter-six-foundational-rights) Hak Tabanı; [On İkinci Bölüm](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) meşruiyet ve sorumlu yönetim gerekleri.
+- Yukarı: [Birinci Bölüm](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [İkinci Bölümden Dördüncü Bölüme](core_02_definition_structure.md) bütünlük ve doğrulama; [Altıncı Bölüm](core_06_rights_part_a.md#chapter-six-foundational-rights) Hak Tabanı; [On İkinci Bölüm](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) meşruiyet ve sorumlu yönetim gerekleri.
 - Alt kesitler: [§1](#1-non-regression-floor); [§2](#2-test-1-substantive-non-regression-validity); [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral); [§4](#4-layer-scope).
-- Aşağı: [On Dördüncü Bölüm](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) genişleme ve üstünlük; [On Beşinci Bölüm](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) usul geçerliliği, onay ve değişiklik gerekleri; sevk tetiklerinin yönlendirdiği yerde kanonik sınıflandırma için [Sekizinci Bölüm](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) ve [Onuncu Bölüm](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct).
+- Aşağı: [On Dördüncü Bölüm](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) genişleme ve üstünlük; [On Beşinci Bölüm](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) usul geçerliliği, onay ve değişiklik gerekleri; sevk tetiklerinin yönlendirdiği yerde kanonik sınıflandırma için [Sekizinci Bölüm](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) ve [Onuncu Bölüm](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct).
 - Birlikte oku: [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) anayasal değişim ve içerme üzerine **On Birinci Bölümden On Dördüncü Bölüme** işlemsel olmayan yürüyüş.
 
 </details>
@@ -96,8 +96,8 @@ Maddi zayıflatma, şunlar yoluyla dolaylı daraltmayı içerir:
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: [§1](#1-non-regression-floor) gerilememe tabanı tanımı.
-- Aşağı: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) kaçınma ve kötü davranış sevki; [On Beşinci Bölüm](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) Test 2–4 ve usul gerekleri (Test 1 başarısız olursa usulden bağımsız geçersiz).
-- Birlikte oku: [Birinci Bölüm](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) pazarlığa kapalı ilke kısıtları; [On İkinci Bölüm](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) meşruiyet yükümlülükleri.
+- Aşağı: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) kaçınma ve kötü davranış sevki; [On Beşinci Bölüm](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) Test 2–4 ve usul gerekleri (Test 1 başarısız olursa usulden bağımsız geçersiz).
+- Birlikte oku: [Birinci Bölüm](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) pazarlığa kapalı ilke kısıtları; [On İkinci Bölüm](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) meşruiyet yükümlülükleri.
 
 </details>
 
@@ -157,8 +157,8 @@ Değişiklik ya da benimseme davranışı ciddi kötü davranış gösterdiğind
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) yalnızca-sevk disiplini; [Sekizinci Bölüm](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) ve [Onuncu Bölüm](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) kanonik sahipler.
-- Aşağı: [On Beşinci Bölüm §12](../../core_15_amendment_ratification.md#12-layer-scope) yansıtılmış usul-katmanı disiplini; inceleme yürütme mekaniği için uygulama metni.
-- Birlikte oku: [Yetki yığını ve iç hiyerarşi](core_05_band_integrative.md#owner-non-relocation) ve [Önsöz — olumlu sahip sicili](core_00_preamble.md#4-principles-definitions-and-rights); değişim yolu ve içerme üzerine [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md); yuva-sınıflandırma taksonomisini çoğaltmayan geçerlilik testleri için [On Beşinci Bölüm](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity).
+- Aşağı: [On Beşinci Bölüm §12](../../core_16_amendment_ratification.md#12-layer-scope) yansıtılmış usul-katmanı disiplini; inceleme yürütme mekaniği için uygulama metni.
+- Birlikte oku: [Yetki yığını ve iç hiyerarşi](core_05_band_integrative.md#owner-non-relocation) ve [Önsöz — olumlu sahip sicili](core_00_preamble.md#4-principles-definitions-and-rights); değişim yolu ve içerme üzerine [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md); yuva-sınıflandırma taksonomisini çoğaltmayan geçerlilik testleri için [On Beşinci Bölüm](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity).
 
 </details>
 
@@ -187,7 +187,7 @@ Suç-tatlı, yaptırım-tatlı ya da sınıflandırma-tatlı dile dokunan gelece
 > - **genel katkı ve ihlal ölçümü** (Katkı Ekseni / İhlal Ekseni) — [core_08_standing_assessment.md](core_08_standing_assessment.md)de **Sekizinci Bölüm**; **güzergâh etkileri ve bütünleştirme** — [core_09_standing_integration.md](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)de **Dokuzuncu Bölüm**;
 > - **sayısal Katkı ve İhlal Ekseni yuvaları** — **Sekizinci Bölüm §7 birleşik ölçeği**, ayrı kayıtlarla ve İhlal yuvaları yalnızca doğrulanmış etkiyle denetlenir; ve nitelikli bir İhlal Ekseni yuvası 7, 8 ya da 9 için karşılık gelen **anayasa karşıtı-kötü-davranış ataması** — [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)de **Onuncu Bölüm**;
 > - **forum-işlemsel iş akışı ve hükme bağlama usulü** — **On Birinci Bölüm** ve [corpus_forum.md](../../corpus_forum.md);
-> - değişiklik, onay ve benimseme için **usul ve emanet geçerliliği** — [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity)de **On Beşinci Bölüm**; ve
+> - değişiklik, onay ve benimseme için **usul ve emanet geçerliliği** — [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity)de **On Beşinci Bölüm**; ve
 > - inceleme yürütmesi için **ayrıntılı kurumsal usul, kadro mekaniği ve uygulamalar-arası ortak yapısal bütünleştirme** — belirlenmiş uygulama metni ve [Önsöz — olumlu sahip sicili](core_00_preamble.md#4-principles-definitions-and-rights)nde adlandırılmış sahip bölümler.
 >
 > Sahip katmanları, anayasal geçerlilik standartlarını **On Üçüncü ve On Beşinci Bölümlerin** dışına, Katkı Ekseni / İhlal Ekseni ölçüm yetkisini **Sekizinci Bölüm §7 birleşik ölçeğinin** dışına ya da anayasa karşıtı-kötü-davranış atama yetkisini **Onuncu Bölümün** dışına yer değiştiriyor diye okunmamalıdır. Onuncu Bölüm sayısal yuvayı atamaz. İşlemsel olmayan bir mimari yürüyüş için [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md)ye bakın.
@@ -196,8 +196,8 @@ Suç-tatlı, yaptırım-tatlı ya da sınıflandırma-tatlı dile dokunan gelece
 
 ---
 
-**Önceki dosya (hâlâ İngilizce):** [core_12_governance.md](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
+**Önceki dosya (hâlâ İngilizce):** [core_12_governance.md](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)
 
-**Sonraki dosya (hâlâ İngilizce):** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+**Sonraki dosya (hâlâ İngilizce):** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 
-**Bağlayıcı asıl:** [core_13_non_regression.md](../../core_13_non_regression.md)
+**Bağlayıcı asıl:** [core_13_non_regression.md](../../core_14_non_regression.md)

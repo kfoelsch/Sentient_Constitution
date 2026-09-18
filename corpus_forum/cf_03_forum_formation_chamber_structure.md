@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_forum.md`](../corpus_forum.md) is incorporated under [Chapter Sixteen](../core_16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CF-3** (*Forum formation, forum-structure mapping, and chamber structure*).
+> This file is **binding incorporated implementation text** where [`corpus_forum.md`](../corpus_forum.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CF-3** (*Forum formation, forum-structure mapping, and chamber structure*).
 >
 > Start at the [Forums landing page](../corpus_forum.md) for reading order, or the [forums registry](cf_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -14,10 +14,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum-family routing; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-3.1 Core structural rule](#cf-31-core-structural-rule); [CF-3.2 Family-to-forum-structure translation map](#cf-32-family-to-forum-structure-translation-map); [CF-3.3 Family distinction and non-collapse rule](#cf-33-family-distinction-and-non-collapse-rule); [CF-3.5 Chamber creation, identification, and family boundary](#cf-35-chamber-creation-identification-and-family-boundary).
 - Read with: **CF-3**; **CF-5**; **CF-16**; **CF-4**; **CF-11**; **CF-12**; **CF-13**; **CF-14**; **CF-3.1**.
-- Topic routing (primary owner): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Eleven famili…*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CJS-2.1**, **CJS-2.5**, **CJS-3.13**, **CI-9.3**.
+- Topic routing (primary owner): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Twelve famili…*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CJS-2.1**, **CJS-2.5**, **CJS-3.13**, **CI-9.3**.
 
 </details>
 
@@ -49,9 +49,9 @@
 
 This file is the forum implementation home for **CF-3** (*Forum formation, forum-structure mapping, and chamber structure*).
 
-*In plain terms: Chapter Eleven names the forum families; **CF-3** (*Forum formation and chamber structure*) is where an adopting entity turns those names into working benches, chambers, and support structures. It sets the minimum each family must actually staff and run, keeps families from quietly collapsing into one another, and states what a chamber may and may not decide.*
+*In plain terms: Chapter Twelve names the forum families; **CF-3** (*Forum formation and chamber structure*) is where an adopting entity turns those names into working benches, chambers, and support structures. It sets the minimum each family must actually staff and run, keeps families from quietly collapsing into one another, and states what a chamber may and may not decide.*
 
-This section governs how adopting entities convert the forum families recognized in `core_11_forum.md` **Chapter Eleven** into actual adjudicative bodies, benches, chambers, and support structures.
+This section governs how adopting entities convert the forum families recognized in `core_12_forum.md` **Chapter Twelve** into actual adjudicative bodies, benches, chambers, and support structures.
 It sets structural requirements for:
 - forum-structure mapping and public adjudicative architecture;
 - minimum availability of adjudicators and support sufficient to form lawful panels and preserve traceability;
@@ -72,21 +72,21 @@ This section does not itself govern panel assignment, recusal, lawful bench form
 *In plain terms: Every adopting entity must publish a real, working structure for each forum family — not a name on an organization chart. A filer must be able to tell which body handles what.*
 
 Every adopting entity must establish and maintain a published forum structure that:
-- gives operational effect to each forum family required by `core_11_forum.md` **Chapter Eleven**;
+- gives operational effect to each forum family required by `core_12_forum.md` **Chapter Twelve**;
 - makes family boundaries intelligible to filers, affected parties, and review bodies;
 - preserves independence, contestability, and traceability in actual forum design rather than by labels alone;
 - maintains enough qualified personnel and, as specified in **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*), reserve and substitute capacity to keep the forum families functional in ordinary and stress conditions.
 
-**Minimum family inventory.** Adopting instruments must maintain **at least** the following **distinct** forum families, **in** **the** **same** **order** as `core_11_forum.md` **Chapter Eleven**, **section 2**’s **default** **venue** **table**. This inventory implements that table and the family definitions in **Chapter Eleven**, **section 4**; it does **not** create families beyond those Chapter Eleven authorizes.
+**Minimum family inventory.** Adopting instruments must maintain **at least** the following **distinct** forum families, **in** **the** **same** **order** as `core_12_forum.md` **Chapter Twelve**, **section 2**’s **default** **venue** **table**. This inventory implements that table and the family definitions in **Chapter Twelve**, **section 4**; it does **not** create families beyond those Chapter Twelve authorizes.
 
 - **Sentient** forums.
-- **Technical** **Forum** **Domains** (including **specialized** **technical** **chambers** **or** **panels** **within** **other** **families**, as **Chapter Eleven**, **section 4.2** describes).
+- **Technical** **Forum** **Domains** (including **specialized** **technical** **chambers** **or** **panels** **within** **other** **families**, as **Chapter Twelve**, **section 4.2** describes).
 - **Institutional** forums.
 - **Environment** forums.
 - **Integrity** forums.
 - **Constitutional** forums.
 
-**Practical flexibility:** Local forum names, internal organization, and administrative detail may differ from any model structure, as long as filers and review bodies can still see and use **each** forum family **Chapter Eleven** requires—separate intake, panels where applicable, and appeal or review paths that match that family's role. **What is not allowed:** satisfying the rule only on paper—by renaming adjudicative bodies, redrawing chamber lines, or similar cosmetic moves—if the real effect is to merge or erase boundaries between families that the constitution treats as distinct. **Function** must not collapse one family into another; **CF-3.3** (*Family distinction and non-collapse rule*) states the non-compliant patterns.
+**Practical flexibility:** Local forum names, internal organization, and administrative detail may differ from any model structure, as long as filers and review bodies can still see and use **each** forum family **Chapter Twelve** requires—separate intake, panels where applicable, and appeal or review paths that match that family's role. **What is not allowed:** satisfying the rule only on paper—by renaming adjudicative bodies, redrawing chamber lines, or similar cosmetic moves—if the real effect is to merge or erase boundaries between families that the constitution treats as distinct. **Function** must not collapse one family into another; **CF-3.3** (*Family distinction and non-collapse rule*) states the non-compliant patterns.
 
 ## CF-3.2 Family-to-forum-structure translation map
 <details>
@@ -110,7 +110,7 @@ Each adopting entity must publish a forum-structure map that states, in plain la
 - the appeal or review path for each family and chamber configuration;
 - the backup or fallback forum used when an ordinary forum cannot lawfully act.
 
-The map must be current, publicly accessible, and cross-referenced to the primary-stakes routing rules in `core_11_forum.md` **Chapter Eleven**.
+The map must be current, publicly accessible, and cross-referenced to the primary-stakes routing rules in `core_12_forum.md` **Chapter Twelve**.
 
 ## CF-3.3 Family distinction and non-collapse rule
 
@@ -122,11 +122,11 @@ Adopting instruments must preserve the distinct constitutional functions of the 
 - a single chief administrator or budgeting authority serves multiple families;
 - a jurisdiction uses a unified judiciary for ordinary administration.
 
-The following patterns are non-compliant unless adopted through constitutional amendment that lawfully changes **Chapter Eleven** itself:
+The following patterns are non-compliant unless adopted through constitutional amendment that lawfully changes **Chapter Twelve** itself:
 - treating one family as a mere chamber of another where the result removes independent routing, review, or remedy authority;
 - giving one family routine authority to decide another family's primary questions merely by internal reassignment;
 - using emergency, specialization, efficiency, or caseload pressures as a standing justification for family merger;
-- creating technical, commercial, security, or other specialist forums that operate as de facto sovereign families outside the **Chapter Eleven** structure.
+- creating technical, commercial, security, or other specialist forums that operate as de facto sovereign families outside the **Chapter Twelve** structure.
 
 ## CF-3.4 Minimum structural availability by family
 <details>
@@ -168,7 +168,7 @@ Each chamber-creation instrument must state:
 - the chamber's subject-matter scope;
 - the competence profile expected for service in the chamber.
 
-Chambers must not be used to relabel one forum family as another, to erase family-level intake or review paths, or to create a parallel constitutional forum outside Chapter Eleven.
+Chambers must not be used to relabel one forum family as another, to erase family-level intake or review paths, or to create a parallel constitutional forum outside Chapter Twelve.
 
 ## CF-3.6 Chamber authority composition and service mechanics
 <details>
@@ -186,11 +186,11 @@ Chambers must not be used to relabel one forum family as another, to erase famil
 
 Chamber-creation instruments must also state:
 - the chamber's **institutional design class** under [**CI-9.3**](../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) (*Delegated subunits, institutional design class, and attachment discipline*), using the highest applicable [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md) class in governed scope: **Class A** (*absolute dependency*), **Class B** (*operational dependency*), or **Class C** (*coordination dependency*);
-- for every Chapter Eleven forum family, forum, adjudicative body, internal chamber, division, or designated panel, at least the **Class C** (*coordination dependency*) floor for institutional design class, even if other governed systems are labeled below Class C;
+- for every Chapter Twelve forum family, forum, adjudicative body, internal chamber, division, or designated panel, at least the **Class C** (*coordination dependency*) floor for institutional design class, even if other governed systems are labeled below Class C;
 - the attachment-publication requirements in **CJS-2.1.2**, with **one calendar year** treated as the ordinary **maximum** for a single rotating attachment spell unless the instrument publishes a longer ceiling and a brief justification;
 - any stricter **Class A** or **Class B** assurance, external-participation, or publication requirement that applies through that institutional-design-class discipline when the chamber's governed scope reaches **absolute dependency** or **operational dependency** stakes.
 
-**Forum-specific rule.** This chamber-authority rule remains operative for **Chapter Eleven** forum families and chambers. Where general delegated-subunit rules in **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*) and forum-specific chamber-authority duties in this section overlap, the **stricter** rule governs. Forum-specific continuity, fallback, and emergency-adjudication controls remain in **CF-12** (*Forum continuity*), **CF-13** (*Fallback operation*), and **CF-14** (*Emergency adjudication*).
+**Forum-specific rule.** This chamber-authority rule remains operative for **Chapter Twelve** forum families and chambers. Where general delegated-subunit rules in **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*) and forum-specific chamber-authority duties in this section overlap, the **stricter** rule governs. Forum-specific continuity, fallback, and emergency-adjudication controls remain in **CF-12** (*Forum continuity*), **CF-13** (*Fallback operation*), and **CF-14** (*Emergency adjudication*).
 
 ## CF-3.7 Chamber appeals, review, and routing limits
 <details>
@@ -204,11 +204,11 @@ Chamber-creation instruments must also state:
 
 *In plain terms: Each chamber must state up front how its rulings can be reviewed. A chamber may not rewrite routing by habit or quietly take work that belongs to another family.*
 
-Each chamber-creation instrument must state whether chamber rulings are appealable within the same family, directly to another family only on certified questions, or through another published review path consistent with **Chapter Eleven**.
+Each chamber-creation instrument must state whether chamber rulings are appealable within the same family, directly to another family only on certified questions, or through another published review path consistent with **Chapter Twelve**.
 
 Chambers must not:
 - rewrite family-level routing by internal practice;
-- make certification or transfer unnecessary where **Chapter Eleven** would otherwise require it;
+- make certification or transfer unnecessary where **Chapter Twelve** would otherwise require it;
 - hold themselves out as a separate constitutional forum family;
 - use specialization to reduce challenge rights, publication duties, or independence safeguards.
 

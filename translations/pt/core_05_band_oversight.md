@@ -126,7 +126,7 @@ Esta faixa sustenta definições sob a perna **Supervisão** da Tétrade — tra
 - Origem: Princípios: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — escalonamento pela [aposta material](core_00_preamble.md#material-stake).
 - Componente de aglomerado: [*Impacto material, determinação de materialidade, governança escalada à classificação, supervisão e exigência de capacidade*](core_05_band_oversight.md#materiality-semi-independent).
 - Ler com: [Dependência](core_05_band_continuity.md#dependency), [Impacto material](core_05_band_oversight.md#material-impact), [Risco](core_05_band_continuity.md#risk), [Integridade do limite do sistema](core_05_band_continuity.md#system-boundary-integrity) e [Supervisão](core_05_apex_oversight_leg.md#oversight-constitutional).
-- Destino: [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — dever de avaliação do sistema inteiro escalado à classe.
+- Destino: [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — dever de avaliação do sistema inteiro escalado à classe.
 
 </details>
 
@@ -148,7 +148,7 @@ Esta faixa sustenta definições sob a perna **Supervisão** da Tétrade — tra
 - **Como medir e avaliar**
   - **Medida primária:** [Família de medição Supervisão](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Podem os sencientes ver, verificar e confiar no que os sistemas representam?* Use-a aqui para perguntar se a profundidade de supervisão e a carga de verificação coincidem com a aposta, o impacto, a dependência e o risco reais do sistema — não com uma classe baixa autoatribuída.
 
-    **Avaliação primária:** Use a classe real sob as regras de implementação, lida com a [Determinação de materialidade](core_05_band_oversight.md#materiality-determination) e a [Integridade do limite do sistema](core_05_band_continuity.md#system-boundary-integrity). Uma classe baixa autoatribuída ou informal não basta quando os efeitos plenos do sistema pedem [Supervisão](core_05_apex_oversight_leg.md#oversight-constitutional) ou governança mais fortes. A revisão do sistema inteiro sob [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) escala por classe:
+    **Avaliação primária:** Use a classe real sob as regras de implementação, lida com a [Determinação de materialidade](core_05_band_oversight.md#materiality-determination) e a [Integridade do limite do sistema](core_05_band_continuity.md#system-boundary-integrity). Uma classe baixa autoatribuída ou informal não basta quando os efeitos plenos do sistema pedem [Supervisão](core_05_apex_oversight_leg.md#oversight-constitutional) ou governança mais fortes. A revisão do sistema inteiro sob [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) escala por classe:
     - **Class A**, **Class B** e **Class C** — profundidade plena, obrigatória;
     - **Class L** — obrigatória, mas dimensionada ao impacto; e
     - **Class P** — encorajada enquanto o sistema for validamente **Class P**.

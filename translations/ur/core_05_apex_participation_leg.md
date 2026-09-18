@@ -109,7 +109,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - زیریں: شرکت پیمائش خاندان — صرف لنک رول اپ؛ فی اصطلاح درجے برگ تعریفوں پر رہتے ہیں — دیکھیں [حقیقی انصاف](../../core_05_band_participation.md#substantive-fairness-constitutional)، [محفوظ خصوصیات کا متبادل استعمال اور غیر متناسب اثر](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact)، [رسائی پذیری](../../core_05_band_participation.md#accessibility-constitutional)، [تعلیمی فاعلیت](../../core_05_band_participation.md#educational-agency)، [بامعنی فاعلیت](../../core_05_band_participation.md#meaningful-agency)، اور [رازداری (معلوماتی)](../../core_05_band_continuity.md#privacy-informational-cluster) جھرمٹ استمرار پٹی میں۔
-- ساتھ پڑھیں: باب ششم، [باب ہفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)، یا شامل دستاویزات — عدمِ امتیاز، سہولت، تعلیم، یا رازداری کے پابند تقاضے تب اٹھتے ہیں جب وہ دستاویزات انہیں صریحاً چاہیں۔
+- ساتھ پڑھیں: باب ششم، [باب ہفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)، یا شامل دستاویزات — عدمِ امتیاز، سہولت، تعلیم، یا رازداری کے پابند تقاضے تب اٹھتے ہیں جب وہ دستاویزات انہیں صریحاً چاہیں۔
 
 </details>
 

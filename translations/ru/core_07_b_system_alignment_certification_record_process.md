@@ -7,7 +7,7 @@
 
 > Следующее содержание — **только ориентир для читателя**. Оно не добавляет, не снимает и не сужает связывающих обязанностей в этом файле или в других главах.
 >
-> Этот файл — **пилот читательского языка** [английской Главы седьмой, Части B](../../core_07_b_system_alignment_certification_record_process.md). **Не** является связывающей частью Конституции сентентов. **Не** является второй конституцией. **Не** является изданием к отправке. **Закреплён** за `SC-Corpus-2026.08.09`. Если этот перевод и английский оригинал кажутся расходящимися, побеждает нумерованный файл [`core_07_b_system_alignment_certification_record_process.md`](../../core_07_b_system_alignment_certification_record_process.md). Порядок чтения и метаданные издания ведутся в [README.md](../../README.md). Метод и глоссарий: [translations/ru/README.md](README.md).
+> Этот файл — **пилот читательского языка** [английской Главы седьмой, Части B](../../core_08_b_system_alignment_certification_record_process.md). **Не** является связывающей частью Конституции сентентов. **Не** является второй конституцией. **Не** является изданием к отправке. **Закреплён** за `SC-Corpus-2026.08.09`. Если этот перевод и английский оригинал кажутся расходящимися, побеждает нумерованный файл [`core_07_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md). Порядок чтения и метаданные издания ведутся в [README.md](../../README.md). Метод и глоссарий: [translations/ru/README.md](README.md).
 >
 > Он содержит **Главу седьмую, Часть B** — содержимое **записи** сертификации, прозрачность и оспоримость, ролей компонентов форума, последовательность надзора, мост траектории и повторное открытие (**§11–§16**, продолжая Часть A §1–§10). **Часть A** — требования оценки — в [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md).
 >
@@ -30,7 +30,7 @@
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Исход: [Часть A §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*цель сертификации и карта оценки*); [Часть A §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) по [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*выходы оценки для записи*); [Конституционная тетрада](core_00_preamble.md#constitutional-tetrad); [Две конституционные цели](core_00_preamble.md#two-constitutional-aims).
-- Назначение: [§11](#11-certification-record) по [§16](#16-reopening-drift-and-non-evasion); [Глава восьмая](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); [Глава одиннадцатая](core_11_forum.md#chapter-eleven-forums-and-jurisdiction).
+- Назначение: [§11](#11-certification-record) по [§16](#16-reopening-drift-and-non-evasion); [Глава восьмая](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model); [Глава одиннадцатая](core_11_forum.md#chapter-eleven-forums-and-jurisdiction).
 - Читать вместе с: [corpus_forum.md](../../corpus_forum.md), **CF-5** и **CF-7**.
 
 </details>
@@ -392,7 +392,7 @@
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Исход: [§11](#11-certification-record) по [§13](#13-forum-supervision-and-component-roles) (*запись сертификации и надзор форума*); [Конституционная тетрада](core_00_preamble.md#constitutional-tetrad); [Две конституционные цели](core_00_preamble.md#two-constitutional-aims); [Проверенные входные данные для траектории](core_05_band_accountability.md#verified-inputs-for-standing).
-- Назначение: [Глава восьмая](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*записи траектории и ворота проверенных входных данных*); [Глава девятая](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*эффекты траектории и интеграция*).
+- Назначение: [Глава восьмая](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*записи траектории и ворота проверенных входных данных*); [Глава девятая](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*эффекты траектории и интеграция*).
 - Читать вместе с: **Статья III-A** (*доступ к необходимому для выживания там, где сертификация воротит поставку*).
 
 </details>
@@ -450,8 +450,8 @@
 
 - Запись сертификации **не** применяет эффекты траектории;
 - Эта глава владеет только **сертификацией согласования системы и связанными записями** — см. [Преамбулу — позитивный реестр владельцев](core_00_preamble.md#4-principles-definitions-and-rights), читаемую с [Стеком власти и внутренней иерархией](core_05_band_integrative.md#authority-stack);
-- [Глава восьмая](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) владеет записями траектории и измерением, чистым по оси;
-- [Глава девятая](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) владеет интеграцией и эффектами траектории;
+- [Глава восьмая](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) владеет записями траектории и измерением, чистым по оси;
+- [Глава девятая](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) владеет интеграцией и эффектами траектории;
 - Эта глава может поставлять проверенные входные данные только через ворота выше;
 - Она не должна поглощать, излагать заново или переносить обязанности владельца Главы восьмой или Главы девятой.
 
@@ -466,7 +466,7 @@
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Исход: [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*ошибочная классификация и рассогласованность*); [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*дефекты оценки риска и раскрытия риска*); [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) (*искажение следа и рассогласованность*); [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) (*искажение потоков ресурсов, рассогласованность извлечения и недостаточность поддержки*); [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) (*рассогласованность паттерна дискриминации и уклонение через заменитель*); [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) (*рассогласованность доступности и приспособление только на бумаге*); [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) (*рассогласованность непрозрачности оценки, ворота удостоверений и рассогласованность навязанного устаревания*); [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*рассогласованность ложного доверия, рассогласованность извращённого стимула и рассогласованность целостности восстановления*); [§12](#12-transparency-auditability-and-contestability) (*оспоримость*); [§14](#14-supervisory-sequence-and-contestability-chain) (*достоверное оспаривание и повторное открытие*); [Глава третья §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) и [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*целостность определения и уклонение*); [Глава третья §2.1 Обычные паттерны уклонения](core_03_definition_integrity.md#21-common-evasion-patterns) (*уклонение охвата и границы*); [Хартия](core_05_band_continuity.md#charter) (*несовпадение хартия–поведение и запоздалый пересмотр*).
-- Назначение: [Глава одиннадцатая](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*повторно открытый надзор форума*); [Глава восьмая](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*ворота проверенных входных данных там, где факты поддерживают неблагоприятные находки*).
+- Назначение: [Глава одиннадцатая](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*повторно открытый надзор форума*); [Глава восьмая](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*ворота проверенных входных данных там, где факты поддерживают неблагоприятные находки*).
 - Читать вместе с: [corpus_systems.md](../../corpus_systems.md) (*инкорпорированные обязанности реализации системы*), включая **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Переклассификация и управление жизненным циклом*) для периодической переоценки типов данных и **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*Требование переклассификации*) для триггеров переоценки класса системы и верификации SAC.
 
 </details>
@@ -515,4 +515,4 @@
 
 **Следующий файл (на этом языке):** [core_08_standing_assessment.md](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)
 
-**Связывающий оригинал:** [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md)
+**Связывающий оригинал:** [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md)

@@ -4,7 +4,7 @@
 **Pinned to corpus edition:** `SC-Corpus-2026.08.09`  
 **Companion desk review:** [FINDINGS.md](FINDINGS.md) · [BIBLIOGRAPHY.md](BIBLIOGRAPHY.md)
 
-This TOR lets independent human reviewers reuse the same comparator set and six-factor rubric. It is not an appointment, not a forum proceeding, and not a Chapter Eight standing record.
+This TOR lets independent human reviewers reuse the same comparator set and six-factor rubric. It is not an appointment, not a forum proceeding, and not a Chapter Nine standing record.
 
 ## Purpose
 
@@ -38,7 +38,7 @@ Rules:
 - Do not treat ECHR Art. 53 or EU Charter Art. 53 as amendment non-regression; do not call South Africa s.1 unamendable; do not cite US Art. V for rights non-regression; do not cite a TEU “supremacy clause.”
 - Do not treat UDAW or the 1978 animal-rights declaration as UNESCO/UN law; do not treat the 2024 New York Declaration as municipal law; do not treat the EU AI Act or Chile neurorights as AI-as-rights-holder.
 - Do not treat India Ganges/Yamuna personhood as in force (stayed 2017); do not treat Magpie River as national statute; do not treat ecocide as a Rome Statute crime. See [BIBLIOGRAPHY.md](BIBLIOGRAPHY.md) accuracy flags.
-- [Chapter Sixteen §4](../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority) model-constitution caveat sits on every verdict: “better on paper” ≠ “better in force.”
+- [Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) model-constitution caveat sits on every verdict: “better on paper” ≠ “better in force.”
 - Pair every material finding with a corpus quote (file + heading) and a comparator quote from [BIBLIOGRAPHY.md](BIBLIOGRAPHY.md) or a newly cited **primary** text.
 - Steelman the weaker side on every Better or Mixed call.
 

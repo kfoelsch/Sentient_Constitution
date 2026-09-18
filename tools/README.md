@@ -31,18 +31,18 @@ Chapter Five and CJS-3 definition files use **one** `---` between reader units, 
 | Chapter Five alphabetical directory and section 1 order | `make ch5-alphabetical-directory-audit` |
 | Chapter Five nested-list readability candidates (advisory) | `make ch5-nested-list-candidates` |
 | Chapter Six nested-list readability candidates (advisory) | `make ch6-nested-list-candidates` |
-| Chapter Seven nested-list readability candidates (advisory) | `make ch7-nested-list-candidates` |
-| Chapter Eight nested-list readability candidates (advisory) | `make ch8-nested-list-candidates` |
-| Chapter Nine nested-list readability candidates (advisory) | `make ch9-nested-list-candidates` |
-| Chapter Ten nested-list readability candidates (advisory) | `make ch10-nested-list-candidates` |
-| Chapter Eleven nested-list readability candidates (advisory) | `make ch11-nested-list-candidates` |
-| Chapter Twelve nested-list readability candidates (advisory) | `make ch12-nested-list-candidates` |
-| Chapter Thirteen nested-list readability candidates (advisory) | `make ch13-nested-list-candidates` |
+| Chapter Eight nested-list readability candidates (advisory) | `make ch7-nested-list-candidates` |
+| Chapter Nine nested-list readability candidates (advisory) | `make ch8-nested-list-candidates` |
+| Chapter Ten nested-list readability candidates (advisory) | `make ch9-nested-list-candidates` |
+| Chapter Eleven nested-list readability candidates (advisory) | `make ch10-nested-list-candidates` |
+| Chapter Twelve nested-list readability candidates (advisory) | `make ch11-nested-list-candidates` |
+| Chapter Thirteen nested-list readability candidates (advisory) | `make ch12-nested-list-candidates` |
+| Chapter Fourteen nested-list readability candidates (advisory) | `make ch13-nested-list-candidates` |
 | Chapter One D/A/C functional ordering | `make ch1-dac-order-audit` |
 | Readability estimates | `make readability-audit` |
 | Plain-terms edition (generated, non-binding gloss digest of the core files) | `make plain-terms-edition` / `make plain-terms-edition-check` |
 | Plain-language jargon scan | `make plain-language-audit` |
-| Chapter Four ↔ Seven pointer discipline | `make ch4-ch7-pointer-audit` |
+| Chapter Four ↔ Seven pointer discipline | `make ch4-ch8-pointer-audit` |
 | Regression bundle plus readability gate | `make regression-full` |
 | Institutional benchmark review | `make best-practices-check` |
 | AI alignment eval (advisory; Layer A/B handoff + willingness) | `make ai-alignment-eval` / `make ai-alignment-eval-evidence` |
@@ -85,9 +85,9 @@ Machine-checkable editorial rules: [tools/architecture/rule_registry.json](tools
 
 `plain_language_audit.py` is an advisory checker for jargon-heavy reader notes and navigation prose. It flags exact phrases such as `extended narrative context` and `non-operative explanatory framing`, plus dense guidance sentences that stack abstract terms instead of plain words. Start by running it manually and tune the rule list before promoting it into a blocking bundle.
 
-`ch5_nested_list_candidate_audit.py` ranks packed list items that would scan better as nested grandchild lists. Chapter Five targets **In scope** / assessment / failure bullets; Chapters Six through Thirteen target labeled operative run-ins (`**Label:**` / `**Label** —`) and packed covers/includes lists. It is a candidate finder, not a regression gate: default exit is 0 even when candidates exist. Skip Trace widgets, **Primary measure** boilerplate, short Tetrad aim/leg glosses, and bullets that already have nested children. Limit with `--file` or `--chapter 5` / `--chapter 6` / `--chapter 7` / `--chapter 8` / `--chapter 9` / `--chapter 10` / `--chapter 11` / `--chapter 12` / `--chapter 13`, raise the floor with `--min-score`, and use `--strict` only if an operator wants a non-zero exit. Existing colon-parent nesting checks still lock lists that are already nested.
+`ch5_nested_list_candidate_audit.py` ranks packed list items that would scan better as nested grandchild lists. Chapter Five targets **In scope** / assessment / failure bullets; Chapters Six through Fourteen target labeled operative run-ins (`**Label:**` / `**Label** —`) and packed covers/includes lists. It is a candidate finder, not a regression gate: default exit is 0 even when candidates exist. Skip Trace widgets, **Primary measure** boilerplate, short Tetrad aim/leg glosses, and bullets that already have nested children. Limit with `--file` or `--chapter 5` / `--chapter 6` / `--chapter 8` / `--chapter 9` / `--chapter 10` / `--chapter 11` / `--chapter 12` / `--chapter 13` / `--chapter 14`, raise the floor with `--min-score`, and use `--strict` only if an operator wants a non-zero exit. Existing colon-parent nesting checks still lock lists that are already nested.
 
-`ch4_ch7_pointer_audit.py` is an advisory checker for Chapter Seven pointer discipline against Chapter Four. It flags operative restatements of Chapter Four verification-substrate rules (burden, trace artifact, security-constrained verification, and related phrases) without upstream citations to Chapters Two through Four, and verifies the corpus-placement reader guidance names Chapter Four as verification-substrate owner. Run after edits to [`core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation`](../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation) or [`core_04_burden_traceability_verification.md`](../core_04_burden_traceability_verification.md) Chapter Four §§1–6; use `--strict` to block on findings.
+`ch4_ch8_pointer_audit.py` is an advisory checker for Chapter Eight pointer discipline against Chapter Four. It flags operative restatements of Chapter Four verification-substrate rules (burden, trace artifact, security-constrained verification, and related phrases) without upstream citations to Chapters Two through Four, and verifies the corpus-placement reader guidance names Chapter Four as verification-substrate owner. Run after edits to [`core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation`](../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation) or [`core_04_burden_traceability_verification.md`](../core_04_burden_traceability_verification.md) Chapter Four §§1–6; use `--strict` to block on findings.
 
 ## Retired migration scripts
 

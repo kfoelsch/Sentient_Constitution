@@ -4,7 +4,7 @@
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-CH06 = ROOT / "core_08_standing_assessment.md"
+CH06 = ROOT / "core_09_standing_assessment.md"
 
 ANCHOR_REMAP = {
     "22-standing-record-operational-requirements": "23-standing-record-operational-requirements",
@@ -134,10 +134,10 @@ def main() -> None:
         updated = updated.replace("Chapter One §8.2.7", "Chapter One §8.3.7")
         updated = updated.replace("Chapter One §8.2.2", "§14.3.2")
         updated = updated.replace("Chapter One §8.2.1", "§14.3.1")
-        updated = updated.replace("Chapter Eight Chapter One §8.2 Standing Record operational requirements", "Chapter Eight Chapter One §8.3 Standing record operational requirements")
+        updated = updated.replace("Chapter Nine Chapter One §8.2 Standing Record operational requirements", "Chapter Nine Chapter One §8.3 Standing record operational requirements")
         updated = updated.replace("Chapter One §8.2 Standing Record operational requirements", "Chapter One §8.3 Standing record operational requirements")
-        updated = updated.replace("operational requirements in Chapter Eight Chapter One §8.2", "operational requirements in Chapter Eight Chapter One §8.3")
-        updated = updated.replace("Chapter Eight section 2.2", "Chapter Eight section 2.3")
+        updated = updated.replace("operational requirements in Chapter Nine Chapter One §8.2", "operational requirements in Chapter Nine Chapter One §8.3")
+        updated = updated.replace("Chapter Nine section 2.2", "Chapter Nine section 2.3")
         if updated != original:
             path.write_text(updated)
 

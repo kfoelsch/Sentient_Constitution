@@ -6,15 +6,15 @@
 
 > 以下内容**仅为读者指引**。不增加、减少或收窄本文件或其他章节中有约束力的义务。
 >
-> 本文件是[英语第十三章](../../core_13_non_regression.md)的**读者语言试点**。**不是**感知者宪法的约束性部分。**不是**第二部宪法。**不是**发送版。**钉住** `SC-Corpus-2026.08.09`。若本译文与英语原文看似不一致，以编号文件 [`core_13_non_regression.md`](../../core_13_non_regression.md) 为准。阅读顺序与版本元数据保存在 [README.md](../../README.md)。方法与用语表：[translations/zh/README.md](README.md)。
+> 本文件是[英语第十三章](../../core_14_non_regression.md)的**读者语言试点**。**不是**感知者宪法的约束性部分。**不是**第二部宪法。**不是**发送版。**钉住** `SC-Corpus-2026.08.09`。若本译文与英语原文看似不一致，以编号文件 [`core_13_non_regression.md`](../../core_14_non_regression.md) 为准。阅读顺序与版本元数据保存在 [README.md](../../README.md)。方法与用语表：[translations/zh/README.md](README.md)。
 >
-> 本文件包含**第十三章**：实质性不倒退与实质性修正有效性（检验 1）。**第十四章**在 [`core_14_expansion_supremacy.md`](../../core_14_expansion_supremacy.md)。**第十五章**在 [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md)。修正有效性必须保全[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)二者 — **繁盛**与**延续** — 并且不得把[宪法四元](core_00_preamble.md#constitutional-tetrad)掏空到[实质利害](core_00_preamble.md#material-stake)要求之下。章节编号与交叉引用匹配一体化文书。阅读顺序、约束性/支持性划分，以及文本库版本元数据，保存在 [README.md](../../README.md)。
+> 本文件包含**第十三章**：实质性不倒退与实质性修正有效性（检验 1）。**第十四章**在 [`core_14_expansion_supremacy.md`](../../core_15_expansion_supremacy.md)。**第十五章**在 [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md)。修正有效性必须保全[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)二者 — **繁盛**与**延续** — 并且不得把[宪法四元](core_00_preamble.md#constitutional-tetrad)掏空到[实质利害](core_00_preamble.md#material-stake)要求之下。章节编号与交叉引用匹配一体化文书。阅读顺序、约束性/支持性划分，以及文本库版本元数据，保存在 [README.md](../../README.md)。
 
 
 >
 > **上一篇（本语种）：** [core_12_governance.md](core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
 >
-> **下一篇（仍为英语）：** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+> **下一篇（仍为英语）：** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 > **阅读弧线：** §1 不倒退底线 → §2 检验 1 → §3 反规避与转介 → §4 层范围
 </details>
 
@@ -37,7 +37,7 @@
 
 - 上游：[第一章](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints)；[第二至四章](core_02_definition_structure.md)完整性与核验；[第六章](core_06_rights_part_a.md#chapter-six-foundational-rights)权利底线；[第十二章](core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)正当性与尽责管理要求。
 - 分节：[§1](#1-non-regression-floor)；[§2](#2-test-1-substantive-non-regression-validity)；[§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral)；[§4](#4-layer-scope)。
-- 下游：[第十四章](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)扩张与最高效力；[第十五章](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity)程序性有效性、批准与修正要求；[第八章](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)与[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)，用于转介触发所路由之处的典范分类。
+- 下游：[第十四章](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)扩张与最高效力；[第十五章](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity)程序性有效性、批准与修正要求；[第八章](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)与[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)，用于转介触发所路由之处的典范分类。
 - 一并阅读：[archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) 对**第十一至十四章**上宪法变更与纳入的非操作性走查。
 
 </details>
@@ -96,7 +96,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[§1](#1-non-regression-floor) 不倒退底线定义。
-- 下游：[§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) 规避与不当行为转介；[第十五章](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) 检验 2–4 与程序性要求（检验 1 失败则无论程序如何均无效）。
+- 下游：[§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) 规避与不当行为转介；[第十五章](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) 检验 2–4 与程序性要求（检验 1 失败则无论程序如何均无效）。
 - 一并阅读：[第一章](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints)不可妥协的原则约束；[第十二章](core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)正当性义务。
 
 </details>
@@ -157,8 +157,8 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) 仅转介纪律；[第八章](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)与[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)典范主责者。
-- 下游：[第十五章 §12](../../core_15_amendment_ratification.md#12-layer-scope) 镜像的程序层纪律；审查执行机制的实施文本。
-- 一并阅读：[权威栈与内部层级](core_05_band_integrative.md#owner-non-relocation)与[序言 — 正向主责登记](core_00_preamble.md#4-principles-definitions-and-rights)；[archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) 关于变更路径与纳入；[第十五章](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) 不复制槽位分类分类法的有效性检验。
+- 下游：[第十五章 §12](../../core_16_amendment_ratification.md#12-layer-scope) 镜像的程序层纪律；审查执行机制的实施文本。
+- 一并阅读：[权威栈与内部层级](core_05_band_integrative.md#owner-non-relocation)与[序言 — 正向主责登记](core_00_preamble.md#4-principles-definitions-and-rights)；[archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) 关于变更路径与纳入；[第十五章](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) 不复制槽位分类分类法的有效性检验。
 
 </details>
 
@@ -187,7 +187,7 @@
 > - **一般贡献与违规测量**（贡献轴 / 违规轴） — [core_08_standing_assessment.md](core_08_standing_assessment.md) 中的**第八章**；**轨迹效果与整合** — [core_09_standing_integration.md](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) 中的**第九章**；
 > - **数字贡献轴与违规轴槽位** — **第八章 §7 统一标尺**，记录分开，违规槽位仅由经核实影响控制；以及对合格违规轴槽位 7、8 或 9 的对应**反宪法不当行为指定** — [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) 中的**第十章**；
 > - **评议所运营工作流与裁决性程序** — **第十一章**与 [corpus_forum.md](../../corpus_forum.md)；
-> - 修正、批准与采纳的**程序性与保管有效性** — [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) 中的**第十五章**；以及
+> - 修正、批准与采纳的**程序性与保管有效性** — [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) 中的**第十五章**；以及
 > - 审查执行的**详细机构程序、人员配置机制，以及跨实施联合结构整合** — 指定实施文本与[序言 — 正向主责登记](core_00_preamble.md#4-principles-definitions-and-rights)中具名的主责章节。
 >
 > 主责层不得被读成把宪法有效性标准迁出**第十三章与第十五章**、把贡献轴 / 违规轴测量权威迁出**第八章 §7 统一标尺**，或把反宪法不当行为指定权威迁出**第十章**。第十章不指派数字槽位。非操作性架构走查，见 [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md)。
@@ -198,6 +198,6 @@
 
 **上一文件（本语种）：** [core_12_governance.md](core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
 
-**下一文件（仍为英语）：** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+**下一文件（仍为英语）：** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 
-**有约束力的原文：** [core_13_non_regression.md](../../core_13_non_regression.md)
+**有约束力的原文：** [core_13_non_regression.md](../../core_14_non_regression.md)

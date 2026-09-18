@@ -7,7 +7,7 @@
 
 > El contenido siguiente es **solo orientación para quien lee**. No añade, quita ni estrecha obligaciones vinculantes en este archivo ni en otros capítulos.
 >
-> Este archivo es un **piloto de idioma de lectura** del [Capítulo Siete, Parte B en inglés](../../core_07_b_system_alignment_certification_record_process.md). **No** es parte vinculante de la Constitución Senciente. **No** es una segunda constitución. **No** es una edición de envío. Está **fijado** a `SC-Corpus-2026.08.09`. Si esta traducción y el original en inglés parecen discrepar, gana el archivo numerado [`core_07_b_system_alignment_certification_record_process.md`](../../core_07_b_system_alignment_certification_record_process.md). El orden de lectura y los metadatos de edición se mantienen en [README.md](../../README.md). Método y glosario: [translations/es/README.md](README.md).
+> Este archivo es un **piloto de idioma de lectura** del [Capítulo Siete, Parte B en inglés](../../core_08_b_system_alignment_certification_record_process.md). **No** es parte vinculante de la Constitución Senciente. **No** es una segunda constitución. **No** es una edición de envío. Está **fijado** a `SC-Corpus-2026.08.09`. Si esta traducción y el original en inglés parecen discrepar, gana el archivo numerado [`core_07_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md). El orden de lectura y los metadatos de edición se mantienen en [README.md](../../README.md). Método y glosario: [translations/es/README.md](README.md).
 >
 > Contiene el **Capítulo Siete, Parte B** — contenidos del **registro** de certificación, transparencia e impugnabilidad, roles de componente de foro, secuencia de supervisión, puente de trayectoria y reapertura (**§11–§16**, continuando desde la Parte A §1–§10). **Parte A** — requisitos de evaluación — está en [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md).
 >
@@ -30,7 +30,7 @@
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origen: [Parte A §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*finalidad de certificación y hoja de ruta de evaluación*); [Parte A §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) a [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*salidas de evaluación para el registro*); [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad); [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims).
-- Destino: [§11](#11-certification-record) a [§16](#16-reopening-drift-and-non-evasion); [Capítulo Ocho](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); [Capítulo Once](core_11_forum.md#chapter-eleven-forums-and-jurisdiction).
+- Destino: [§11](#11-certification-record) a [§16](#16-reopening-drift-and-non-evasion); [Capítulo Ocho](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model); [Capítulo Once](core_11_forum.md#chapter-eleven-forums-and-jurisdiction).
 - Leer con: [corpus_forum.md](../../corpus_forum.md), **CF-5** y **CF-7**.
 
 </details>
@@ -392,7 +392,7 @@ Cuando se exige impugnación supervisada por foro, la revisión interna de opera
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origen: [§11](#11-certification-record) a [§13](#13-forum-supervision-and-component-roles) (*registro de certificación y supervisión de foro*); [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad); [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims); [Insumos verificados para trayectoria](core_05_band_accountability.md#verified-inputs-for-standing).
-- Destino: [Capítulo Ocho](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*registros de trayectoria y puerta de insumos verificados*); [Capítulo Nueve](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*efectos de trayectoria e integración*).
+- Destino: [Capítulo Ocho](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*registros de trayectoria y puerta de insumos verificados*); [Capítulo Nueve](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*efectos de trayectoria e integración*).
 - Leer con: **Artículo III-A** (*acceso esencial de supervivencia donde la certificación gobierna la entrega*).
 
 </details>
@@ -450,8 +450,8 @@ Cuando se exige impugnación supervisada por foro, la revisión interna de opera
 
 - Un registro de certificación **no** aplica efectos de trayectoria;
 - Este capítulo es titular solo de la **certificación de alineación del sistema y registros relacionados** — véase el [Preámbulo — registro positivo de titulares](core_00_preamble.md#4-principles-definitions-and-rights), leído con [Pila de autoridad y jerarquía interna](core_05_band_integrative.md#authority-stack);
-- El [Capítulo Ocho](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) es titular de los registros de trayectoria y de la medición de eje puro;
-- El [Capítulo Nueve](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) es titular de la integración y los efectos de trayectoria;
+- El [Capítulo Ocho](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) es titular de los registros de trayectoria y de la medición de eje puro;
+- El [Capítulo Nueve](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) es titular de la integración y los efectos de trayectoria;
 - Este capítulo puede suministrar insumos verificados solo a través de la puerta anterior;
 - No debe absorber, reenunciar ni reubicar las obligaciones de titular del Capítulo Ocho o del Capítulo Nueve.
 
@@ -466,7 +466,7 @@ Un registro de certificación no es una determinación de estatus de sentiencia 
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origen: [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*clasificación errónea y desalineación*); [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*defectos de evaluación de riesgo y de divulgación de riesgo*); [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) (*tergiversación de huella y desalineación*); [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) (*tergiversación de flujos de recursos, desalineación de extracción e insuficiencia de apoyo*); [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) (*desalineación de patrón de discriminación y evasión por proxy*); [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) (*desalineación de accesibilidad y acomodo solo en papel*); [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) (*desalineación de opacidad de la evaluación, control de credenciales y desalineación de obsolescencia impuesta*); [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*desalineación de falsa confianza, desalineación de incentivo perverso y desalineación de integridad de la recuperación*); [§12](#12-transparency-auditability-and-contestability) (*impugnabilidad*); [§14](#14-supervisory-sequence-and-contestability-chain) (*impugnación creíble y reapertura*); [Capítulo Tres §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) y [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*integridad de la definición y evasión*); [Capítulo Tres §2.1 Patrones comunes de evasión](core_03_definition_integrity.md#21-common-evasion-patterns) (*evasión de alcance y de límite*); [Carta](core_05_band_continuity.md#charter) (*desajuste Carta–conducta y revisión vencida*).
-- Destino: [Capítulo Once](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*supervisión de foro reabierta*); [Capítulo Ocho](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*puerta de insumos verificados donde los hechos sostengan hallazgos adversos*).
+- Destino: [Capítulo Once](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*supervisión de foro reabierta*); [Capítulo Ocho](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*puerta de insumos verificados donde los hechos sostengan hallazgos adversos*).
 - Leer con: [corpus_systems.md](../../corpus_systems.md) (*deberes de implementación de sistema incorporados*), incluidos **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclasificación y gobernanza del ciclo de vida*) para la reevaluación periódica de tipos de datos, y **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*Requisito de reclasificación*) para disparadores de reevaluación de clase del sistema y verificación SAC.
 
 </details>
@@ -515,4 +515,4 @@ Un **Registro de certificación del sistema** está **acotado en alcance** y **a
 
 **Siguiente archivo (este idioma):** [core_08_standing_assessment.md](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)
 
-**Original vinculante:** [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md)
+**Original vinculante:** [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md)

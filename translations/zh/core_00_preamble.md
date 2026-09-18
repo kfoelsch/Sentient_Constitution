@@ -93,11 +93,11 @@
 
 *用直白的话说：当文本有要求时，实质问题要经过认证、帮助与伤害的书面记录、纠正与救济，以及带时限的评议所审查 — 普通争议先走已公布的质疑路径；这些路径检验已获授权的治理；它们本身并不创建治理。*
 
-凡第六章、[第七章](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)、纳入文书或其他宪法规定明确要求之处，把实质宪法问题带入下列一条或多条路径。[关键实务流程链](#5-key-practical-process-pipelines)把测量转成记录、认证、经核实的输入、分类、评议所监督、纠正与及时救济 — 已获授权的治理在实践中如何被检验、被质疑、被修复。它们本身并不授权治理；它们使治理可审查、可质疑、可纠正、及时。[第 5.1 节](#51-how-the-full-chain-fits-together)完整陈述该链。
+凡第六章、[第七章](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)、纳入文书或其他宪法规定明确要求之处，把实质宪法问题带入下列一条或多条路径。[关键实务流程链](#5-key-practical-process-pipelines)把测量转成记录、认证、经核实的输入、分类、评议所监督、纠正与及时救济 — 已获授权的治理在实践中如何被检验、被质疑、被修复。它们本身并不授权治理；它们使治理可审查、可质疑、可纠正、及时。[第 5.1 节](#51-how-the-full-chain-fits-together)完整陈述该链。
 
-- **系统对齐认证**（[第七章](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)） — 在高影响系统被大规模信赖之前，收集并审查证据：现在依赖它在宪法上是否安全
-- **轨迹记录**（[第八章](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)） — 当行为或伤害在宪法上要紧时，把经核实的事实放入正式的贡献或违规案件档；传闻与名声不够
-- **纠正与救济**（[第九章 §4.1](../../core_09_standing_integration.md#41-remedy-and-correction)） — 修好底层失败，并向受伤害者提供相称的承认、修复、恢复或补偿
+- **系统对齐认证**（[第七章](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)） — 在高影响系统被大规模信赖之前，收集并审查证据：现在依赖它在宪法上是否安全
+- **轨迹记录**（[第八章](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)） — 当行为或伤害在宪法上要紧时，把经核实的事实放入正式的贡献或违规案件档；传闻与名声不够
+- **纠正与救济**（[第九章 §4.1](../../core_10_standing_integration.md#41-remedy-and-correction)） — 修好底层失败，并向受伤害者提供相称的承认、修复、恢复或补偿
 - **评议所审查**（[第十一章](core_11_forum.md#1-purpose-and-role)）
   - 已获授权系统内部的普通争议，先走[受影响方的系统参与](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster)已公布的质疑路径
   - 若该路径仍被争议、缺失、被俘获、或不能给予救济，则按首要利害经受监督的评议所路由
@@ -148,7 +148,7 @@
 **第四章 — 负担、可追溯性与核验**（[`core_02_definition_structure.md`](core_02_definition_structure.md)）
 
 - **其职掌：** 把证明负担放在主张合规的人身上；要求可追溯证据、可观察性，以及按[**实质利害**](#material-stake)缩放、并在实践中仍可质疑的核验。
-- **其产出：** 向[第八章](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)输送**经核实的输入**、向[第七章](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)输送系统对齐证据的核验链 — 而不取代轨迹测量本身。
+- **其产出：** 向[第八章](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)输送**经核实的输入**、向[第七章](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)输送系统对齐证据的核验链 — 而不取代轨迹测量本身。
 
 **第五章 — 基础定义**（[`core_05__definitions_home.md`](core_05__definitions_home.md#chapter-five-foundational-definitions)）
 
@@ -169,7 +169,7 @@
 
 下列每一步陈述该章掌管什么、产出什么。[整条链如何合在一起](#51-how-the-full-chain-fits-together)随后把这些主责显示为从系统核验到救济的一条路径。
 
-**系统对齐认证**（[第七章](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)）
+**系统对齐认证**（[第七章](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)）
 
 - **其职掌：** 确保有实质影响的系统保持宪法对齐。
   - 在实质影响感知者的系统可被承认或大规模依赖之前，在评议所监督下收集并审查证据
@@ -178,20 +178,20 @@
   - 高风险系统必须按定期日程重新认证；认证永不永久
 - **其产出：** **系统对齐认证记录** — 一个有界、可质疑的回答：该系统*现在*是否足够对齐，以被承认、继续依赖、部署或解除条件，在既定范围与时间窗内。
 
-**轨迹测量**（[第八章](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)）
+**轨迹测量**（[第八章](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)）
 
 - **其职掌：** 当行为在宪法上要紧时，传闻与名声不够。经核实的事实进入**轨迹记录**。**贡献**（朝向繁盛的帮助）与**违规**（问责失败与伤害）在**分开的轴**上测量 — 经核实的良好行为不抹去经核实的伤害，二者永不折成一个净分。
 - **其产出：** 贡献轴与违规轴上的已分类**轨迹记录**，仅基于**经核实的输入**与评议所监督下的认定 — 不是非正式打分，也不是争议叙事代替分类。
 
-**轨迹整合与效果**（[第九章](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)）
+**轨迹整合与效果**（[第九章](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)）
 
 - **其职掌：** 把经核实的分类整合为真实世界的**轨迹效果**，走分开的轨道 — 按[**实质利害**](#material-stake)缩放，不把贡献与违规折成一个净分，也不掏空参与、监督、问责或及时性。
   - **贡献轨道：** 经核实的正面分类产生实际上侧：
-    - [**能力许可**](../../core_09_standing_integration.md#62-competency-bars-and-clearances)可打开信任敏感角色、受托权威、监督准入，以及在对照已公布能力门槛证明能力、且无适用[轨迹锁定](../../core_09_standing_integration.md#42-general-standing-locks)阻断具名路径时，逐步加重后果的尽责管理
+    - [**能力许可**](../../core_10_standing_integration.md#62-competency-bars-and-clearances)可打开信任敏感角色、受托权威、监督准入，以及在对照已公布能力门槛证明能力、且无适用[轨迹锁定](../../core_10_standing_integration.md#42-general-standing-locks)阻断具名路径时，逐步加重后果的尽责管理
     - 对合法尽责管理与合作的相称承认与**实质奖赏**，如[第一章](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)所要求
     - 不是空夸奖。好处必须真实、有证据支撑、并开放质疑
   - **违规轨道：** 经核实的违规认定产生实际下侧：
-    - **轨迹锁定**、角色限制、补救令、[对受伤害者的救济](../../core_09_standing_integration.md#41-remedy-and-correction)、补充描述符与执行钩
+    - **轨迹锁定**、角色限制、补救令、[对受伤害者的救济](../../core_10_standing_integration.md#41-remedy-and-correction)、补充描述符与执行钩
     - 限制与所核实事项的严重程度相称
     - 未解决的违规保持有效
     - 对证明真诚返还者，相称的恢复轨迹路径仍然可用
@@ -219,11 +219,11 @@
 
 *用直白的话说：把它想成从系统核验到救济的一条路 — 评议所全程监督争议与轨迹步骤。*
 
-1. **影响足够严重时认证系统**（[第七章](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)） — 在高影响系统被大规模信赖之前，取得可质疑的对齐记录：*现在*依赖它在宪法上是否安全？
-2. **在分开的轨道上测量轨迹**（[第八章](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)） — 当良好行为或伤害严重到在宪法上要紧时，第八章打开正式案件档，只接纳**经核实的输入**（在该证据具实质性时包括第七章的系统对齐认证证据），并分类所核实者。传闻、名声与争议故事不够。
+1. **影响足够严重时认证系统**（[第七章](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)） — 在高影响系统被大规模信赖之前，取得可质疑的对齐记录：*现在*依赖它在宪法上是否安全？
+2. **在分开的轨道上测量轨迹**（[第八章](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)） — 当良好行为或伤害严重到在宪法上要紧时，第八章打开正式案件档，只接纳**经核实的输入**（在该证据具实质性时包括第七章的系统对齐认证证据），并分类所核实者。传闻、名声与争议故事不够。
    - **贡献性质：** 打开**贡献轨迹记录** — 朝向繁盛的经核实帮助的有界、可质疑案件档 — 并在贡献轴上分类**贡献性质**。
    - **违规性质：** 打开**违规轨迹记录** — 经核实伤害与问责失败的有界、可质疑案件档 — 并在违规轴上分类**违规性质**。善与伤害永不折成一个净分；关联记录交叉引用但保持分开。
-3. **在每条轨道上适用轨迹效果**（[第九章](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)） — 经核实的贡献可授予能力许可并支撑相称承认与实质奖赏；经核实的违规可触发轨迹锁定、纠正与[对受伤害者的救济](../../core_09_standing_integration.md#41-remedy-and-correction)。
+3. **在每条轨道上适用轨迹效果**（[第九章](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)） — 经核实的贡献可授予能力许可并支撑相称承认与实质奖赏；经核实的违规可触发轨迹锁定、纠正与[对受伤害者的救济](../../core_10_standing_integration.md#41-remedy-and-correction)。
 4. **反宪法指定审查**（[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)） — 若最高影响违规认定也可能满足反宪法标准，第十章决定是否附着相应指定。指定不改变第八章已经认定的伤害严重程度；第九章普通效果并行继续，直到最终指定触发反宪法信任锁定。
 5. **路由争议并保持救济及时**（[第十一章](core_11_forum.md#1-purpose-and-role)） — 评议所监督案件如何移动、由哪条轨道处理，以及 **第 XXIV-C 条**（《及时解决与反拖延底线》）下的时限是否满足，以免救济死于拖延。普通争议遵循[争议顺序](core_11_forum.md#dispute-sequencing)。评议所也将争议分为五个[实质性层级](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（A/B/C/L/P），镜像系统分类字母 — 从生存危急到私人/受控事项 — 当第十章最终指定是首要利害时，适用廉正族系默认路由。
 
@@ -238,27 +238,27 @@
 
 每一摘要陈述该章掌管什么、产出什么。
 
-**第十二章 — 宪法契约、正当性与尽责管理**（[`core_12_governance.md`](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)）
+**第十二章 — 宪法契约、正当性与尽责管理**（[`core_12_governance.md`](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)）
 
 - **其职掌：** 掌管[**宪法契约层**](../../core_05_band_integrative.md#constitutional-contract-layer) — 谁可以治理、凭何种正当性机制、在何种范围与持久条款之下，以及必须维持何种尽责管理品格。
 - **其产出：** 有别于已获授权系统中[**受影响方的系统参与**](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster)的授权与正当性要求 — 治理权威本身的规则，而不只是其内部的参与。
 
-**第十三章 — 不回退**（[`core_13_non_regression.md`](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)）
+**第十三章 — 不回退**（[`core_13_non_regression.md`](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)）
 
 - **其职掌：** 设定对抗回退变更的实质底线 — 修正与变通不能回撤核心保护、把四元掏空到实质利害以下，或把回退伪装成技术清理。
 - **其产出：** 对任何拟议变更的**第一条宪法护栏** — 不回退规则：若变更在实践中会削弱核心保护，则无效，哪怕程序看起来没问题。可疑变通或伪装回撤被拦住或送往正当审查路径，而不是悄悄溜过。
 
-**第十四章 — 最高效力与外部命令**（[`core_13_non_regression.md`](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)）
+**第十四章 — 最高效力与外部命令**（[`core_13_non_regression.md`](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)）
 
 - **其职掌：** 陈述本宪法与其他规范的关系 — 在合法处扩展保护、在其范围内最高、不以其自身之力取代可适用的外部法，以及与外部法律秩序有纪律地互动，而无声屈从或俘获。
 - **其产出：** 层级与冲突顺序规则，使公布或使用不被当作废止可适用的外部法，并使采纳方不能把纳入程序、更弱的外部规范或图方便的指标，当作在有效采纳范围内压过感知者宪法含义。
 
-**第十五章 — 修正、批准与采纳**（[`core_13_non_regression.md`](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity)）
+**第十五章 — 修正、批准与采纳**（[`core_13_non_regression.md`](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity)）
 
 - **其职掌：** 治理文书如何可以合法变更 — 修正程序、批准、采纳，以及跟随第十三章实质护栏的**程序护栏**：变更必须公开公布、可追溯到权威保管，并在要求之处保持有意义的可质疑性与独立审查。
 - **其产出：** 一条完整的合法变更路径 — 只有越过**不回退护栏**与**程序护栏**的修正与采纳，才算有效的宪法更新。
 
-**第十六章 — 纳入桥**（[`core_16_incorporation.md`](../../core_16_incorporation.md)）
+**第十六章 — 纳入桥**（[`core_16_incorporation.md`](../../core_17_incorporation.md)）
 
 - **其职掌：** 识别哪些实施文件在获采纳时算有约束力的纳入文本；钉住版本；维持保管链；并禁止宪法源与操作细节之间的无声错位。
 - **其产出：** 一条纳入边界 — 指定实施文本在获采纳时具约束力；配套文本库实施宪法，而不成为收窄它的第二源。[第 7 节](#7-companion-implementation-corpus)高层概述这些文本库。
@@ -275,7 +275,7 @@
 - **[corpus_institutions](../../corpus_institutions.md)** — 机构组建、治理、监督、相称性与解散纪律。
 - **[corpus_forum](../../corpus_forum.md)** — 评议所运作：小组组成、回避、审查通道、路由细节与取证支持。
 
-当采纳方在[第十六章](../../core_16_incorporation.md)下有效纳入它们时，这些文件在采纳范围内作为实施文本具约束力。感知者宪法含义仍然控制 — 它们**实施、不收窄**以上各章。版本钉住、保管链与无无声错位规则，使已采纳文本可追溯到实际批准的内容。典范清单与边界规则住在[第五章 — 文本库](../../core_05_band_integrative.md#corpus)。
+当采纳方在[第十六章](../../core_17_incorporation.md)下有效纳入它们时，这些文件在采纳范围内作为实施文本具约束力。感知者宪法含义仍然控制 — 它们**实施、不收窄**以上各章。版本钉住、保管链与无无声错位规则，使已采纳文本可追溯到实际批准的内容。典范清单与边界规则住在[第五章 — 文本库](../../core_05_band_integrative.md#corpus)。
 
 原则、定义、权利、流程链、治理、修正规则与纳入的实施必须一并阅读，以保全宪法的保护目的。
 

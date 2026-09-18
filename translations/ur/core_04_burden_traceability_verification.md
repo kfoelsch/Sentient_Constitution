@@ -24,7 +24,7 @@
 > - **چوکڑی نقشہ:** بوجھ کی تقسیم، ثبوت، سراغ، مشاہدہ پذیری، اور تصدیق [تمہید](core_00_preamble.md#chapter-00-preamble--foundational-requirements) میں قائم [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) کی **نگرانی** اور **جوابدہی** ٹانگیں عمل میں لاتے ہیں؛ **شرکت** جہاں قطعوں **3** اور **4** کے تحت عملی مشاہدہ پذیری اور آزاد چیلنج کے ذریعے مادی طور پر مطلوب ہو۔ تقاضے [مادی داؤ](core_00_preamble.md#material-stake) کے ساتھ پیمانہ ہوتے ہیں۔
 > - **آئینی مالک:** بوجھ کی تقسیم، اطاعت ثبوت، تعریف سراغ، مشاہدہ پذیری، اور سیکیورٹی محدود تصدیق۔ **باب ہشتم** اس باب کے ساتھ پڑھی جانے والی کیفیت کے ریکارڈ اور تصدیق شدہ ان پٹ ضبط کا مالک ہے۔
 > - **عمل درآمد مالک:** نامزد عمل درآمد فائلوں میں تعیناتی، ڈیٹا ہینڈلنگ، اور یقین دہانی کی میکانکس ان قواعد سے مطابق رہنی چاہیے اور وہاں سخت تر ہو سکتی ہے جہاں کارپس پہلے سے سخت تر قاعدہ منطق دیتا ہو۔
-> - **عدمِ منتقلی قاعدہ:** یہ باب صرف بوجھ، سراغ، مشاہدہ پذیری، سیکیورٹی حدوں، اور ثبوت پر حکمرانی کرتا ہے۔ یہ باب پنجم کی تعریفیں، **باب ہشتم** کی شراکت یا کیفیت کی پیمائش، یا باب دہم کے آئین مخالف بدسلوکی معیار دوبارہ بیان نہیں کرتا۔ کیفیت کی طرف تصدیق شدہ عدمِ اطاعت کا رخ [باب سوم §3 — عدمِ اطاعت دریافت پروفائلز](core_03_definition_integrity.md#3-non-compliance-finding-profiles) اور [باب ہشتم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) کے پاس ہے۔ **قطعہ 6** بیان کرتا ہے کہ باب دوم تا چہارم [باب ہفتم — نظام ہم آہنگی سرٹیفیکیشن](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) سے کیسے الگ ہیں۔
+> - **عدمِ منتقلی قاعدہ:** یہ باب صرف بوجھ، سراغ، مشاہدہ پذیری، سیکیورٹی حدوں، اور ثبوت پر حکمرانی کرتا ہے۔ یہ باب پنجم کی تعریفیں، **باب ہشتم** کی شراکت یا کیفیت کی پیمائش، یا باب دہم کے آئین مخالف بدسلوکی معیار دوبارہ بیان نہیں کرتا۔ کیفیت کی طرف تصدیق شدہ عدمِ اطاعت کا رخ [باب سوم §3 — عدمِ اطاعت دریافت پروفائلز](core_03_definition_integrity.md#3-non-compliance-finding-profiles) اور [باب ہشتم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) کے پاس ہے۔ **قطعہ 6** بیان کرتا ہے کہ باب دوم تا چہارم [باب ہفتم — نظام ہم آہنگی سرٹیفیکیشن](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) سے کیسے الگ ہیں۔
 
 </details>
 
@@ -161,7 +161,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: [باب چہارم، قطعے 1 تا 4](#1-exclusive-enforcement-and-burden-allocation)؛ [باب دوم، §1 — مقصد اور کردار](core_02_definition_structure.md#1-purpose-and-role)؛ [باب دوم، §2 تعریف کی سالمیت کا تقاضا](core_02_definition_structure.md#2-definition-integrity-requirement)؛ [باب دوم، §3 تعریف کے ڈھیر پار مطابقت](core_02_definition_structure.md#3-consistency-across-the-definition-stack)؛ [باب سوم، قطعہ 1 — تعریف کی سالمیت اور فرار مخالف پابندیاں](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)؛ [باب سوم، قطعہ 2 — قابلِ مشاہدہ نظامی رویے سے عدمِ اطاعت](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior)؛ [باب سوم، §2.6 عدمِ یقین سالمیت اور استحصال مخالف پابندی](core_03_definition_integrity.md#26-uncertainty-integrity-and-non-exploitation-constraint) — حقیقی تعریف اور عدمِ اطاعت قواعد؛ **§4** صرف ثبوت تہہ کے تقاضے بیان کرتا ہے اور وہ قواعد دوبارہ بیان نہیں کرتا۔
-- زیریں: [باب ہشتم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)۔
+- زیریں: [باب ہشتم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)۔
 - ساتھ پڑھیں: [باب چہارم، قطعہ 2 — تعریف سراغ کا تقاضا](#2-definition-traceability-requirement) — کسی بھی مادی طور پر مطلوب **باب پنجم** تعریف کو پکارنے یا درست لاگو کرنے میں ناکامی وابستہ جائزہ، ثبوت، اور اطاعت تعین پورا باطل کرتی ہے؛ [باب یکم، §6 — عمل تنازعے کا حل](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) جہاں پیمانہ شعوری وجود کی بہبود اور طویل افق استقرار کے سودوں کو متاثر کرے؛ [باب پنجم حفاظت (پابندی)](../../core_05_band_continuity.md#safety-constraint)، [باب پنجم سچائی (آئینی پابندی)](../../core_05_band_oversight.md#truth-constitutional-constraint)، اور [باب پنجم حقائق کی دیانت](../../core_05_band_oversight.md#epistemic-integrity) — تجرباتی، پیش گوئی، یا سبب دعووں کے لیے سائنس سے آگاہ ثبوت میل۔
 
 </details>
@@ -195,8 +195,8 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: [باب دوم — تعریف کی ساخت اور اجزا کے تقاضے](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements)؛ [باب سوم — تعریف کی سالمیت، فرار، اور عدمِ اطاعت](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)؛ [باب چہارم، قطعے 1 تا 5](#1-exclusive-enforcement-and-burden-allocation)۔
-- زیریں: [باب ہفتم — نظام ہم آہنگی سرٹیفیکیشن](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)؛ [باب ہشتم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)۔
-- ساتھ پڑھیں: [باب ہفتم §16 — دوبارہ کھولنا، عدمِ ہم آہنگی، اور فرار مخالف](../../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — باب دوم تا چہارم کے تحت تصدیق شدہ عدمِ اطاعت پہلے تسلیم سے قطع نظر سرٹیفیکیشن دوبارہ کھول یا ہرا سکتی ہے۔
+- زیریں: [باب ہفتم — نظام ہم آہنگی سرٹیفیکیشن](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)؛ [باب ہشتم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)۔
+- ساتھ پڑھیں: [باب ہفتم §16 — دوبارہ کھولنا، عدمِ ہم آہنگی، اور فرار مخالف](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — باب دوم تا چہارم کے تحت تصدیق شدہ عدمِ اطاعت پہلے تسلیم سے قطع نظر سرٹیفیکیشن دوبارہ کھول یا ہرا سکتی ہے۔
 
 </details>
 
@@ -213,7 +213,7 @@
 
 یہ جب بھی اطاعت کا جائزہ ہو لاگو ہوتے ہیں — سرٹیفیکیشن کے ساتھ یا بغیر۔
 
-**[باب ہفتم — نظام ہم آہنگی سرٹیفیکیشن](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)** جہاں مادی ہو فورم زیرِ نگرانی **سرٹیفیکیشن عمل** دیتا ہے: پورے نظام کے جائزہ دائرے، سرٹیفیکیشن ریکارڈ فرائض، تسلیم نتائج، دوبارہ توثیق کی تال، چیلنج پذیری زنجیر، اور باب ہشتم کی طرف تصدیق شدہ ان پٹ پل۔ یہ باب دوم تا چہارم **لاگو** کرتا ہے؛ انہیں دوبارہ بیان **نہیں** کرتا۔
+**[باب ہفتم — نظام ہم آہنگی سرٹیفیکیشن](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)** جہاں مادی ہو فورم زیرِ نگرانی **سرٹیفیکیشن عمل** دیتا ہے: پورے نظام کے جائزہ دائرے، سرٹیفیکیشن ریکارڈ فرائض، تسلیم نتائج، دوبارہ توثیق کی تال، چیلنج پذیری زنجیر، اور باب ہشتم کی طرف تصدیق شدہ ان پٹ پل۔ یہ باب دوم تا چہارم **لاگو** کرتا ہے؛ انہیں دوبارہ بیان **نہیں** کرتا۔
 
 قارئین کو یہ نہیں سمجھنا چاہیے:
 - **سرٹیفیکیشن ریکارڈ** کو باب دوم تا چہارم کے تحت جاری اطاعت کا بدل

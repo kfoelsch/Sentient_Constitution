@@ -126,7 +126,7 @@
 - ঊর্ধ্ব: নীতি: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — [বস্তুগত বাজি](core_00_preamble.md#material-stake) scaling.
 - গুচ্ছ উপাদান: [তাৎপর্য, প্রভাব, ঝুঁকি ও স্থলাভিষিক্ত সততা](core_05_band_oversight.md#materiality-semi-independent).
 - সঙ্গে পড়ুন: [নির্ভরতা](core_05_band_continuity.md#dependency), [বস্তুগত প্রভাব](core_05_band_oversight.md#material-impact), [ঝুঁকি](core_05_band_continuity.md#risk), [ব্যবস্থা সীমানা সততা](core_05_band_continuity.md#system-boundary-integrity), and [তত্ত্বাবধান](core_05_apex_oversight_leg.md#oversight-constitutional).
-- অধঃ: [§3](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — class-scaled whole-system evaluation duty.
+- অধঃ: [§3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — class-scaled whole-system evaluation duty.
 
 </details>
 
@@ -148,7 +148,7 @@
 - **কীভাবে পরিমাপ ও মূল্যায়ন করতে হয়**
   - **প্রাথমিক মাপ:** [তত্ত্বাবধান পরিমাপ পরিবার](core_05_apex_oversight_leg.md#oversight-measurement-family) — *সংজ্ঞ প্রাণী কি দেখতে, যাচাই করতে ও বিশ্বাস করতে পারে ব্যবস্থা কী দেখায়?* এখানে জিজ্ঞাসা করতে ব্যবহার করুন oversight depth and verification burden match the system's real stake, impact, dependency, and risk — not a self-assigned low class.
 
-    **প্রাথমিক মূল্যায়ন:** Use the real class under the implementation rules, read with [তাৎপর্য নির্ণয়](core_05_band_oversight.md#materiality-determination) and [ব্যবস্থা সীমানা সততা](core_05_band_continuity.md#system-boundary-integrity). A self-assigned or informal low class is not enough when the system's full effects call for stronger [তত্ত্বাবধান](core_05_apex_oversight_leg.md#oversight-constitutional) or governance. Whole-system review under [§3](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) scales by class:
+    **প্রাথমিক মূল্যায়ন:** Use the real class under the implementation rules, read with [তাৎপর্য নির্ণয়](core_05_band_oversight.md#materiality-determination) and [ব্যবস্থা সীমানা সততা](core_05_band_continuity.md#system-boundary-integrity). A self-assigned or informal low class is not enough when the system's full effects call for stronger [তত্ত্বাবধান](core_05_apex_oversight_leg.md#oversight-constitutional) or governance. Whole-system review under [§3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) scales by class:
     - **Class A**, **Class B**, and **Class C** — full depth, mandatory;
     - **Class L** — mandatory, but sized to the impact; and
     - **Class P** — encouraged while the system is validly **Class P**.
@@ -247,7 +247,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- অধঃ: সমন্বিত তাৎপর্য ([তাৎপর্য নির্ণয়](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); নীতি: [§3](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Materiality** DEC stack; evaluation completeness); [6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) (proportionality stack read with material effects).
+- অধঃ: সমন্বিত তাৎপর্য ([তাৎপর্য নির্ণয়](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); নীতি: [§3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Materiality** DEC stack; evaluation completeness); [6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) (proportionality stack read with material effects).
 - সঙ্গে পড়ুন: [বস্তুগত প্রভাব](core_05_band_oversight.md#material-impact), [বস্তুগত ঝুঁকি](core_05_band_oversight.md#material-risk), [ব্যবস্থাগত তাৎপর্য](core_05_band_accountability.md#systemic-materiality), and [শ্রেণিবিন্যাস-স্কেল করা শাসন](core_05_band_oversight.md#classification-scaled-governance).
 
 </details>
@@ -281,7 +281,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- অধঃ: সমন্বিত তাৎপর্য ([তাৎপর্য নির্ণয়](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); নীতি: [বস্তুগত বাজি](core_00_preamble.md#material-stake) scaling proxy; অধ্যায় এক surfaces this definition across **Safety** (**অধ্যায় এক §8.1**), **Truth** (**অধ্যায় এক §8.2**), **Trust** (**§12**), **§12** stewardship and openness passages, **§13.1**, **§13.2**, and **অধ্যায় এক §6.3.2** where **Materiality** appears in D/A/C widgets — see [§3](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) as the principal systems-evaluation home.
+- অধঃ: সমন্বিত তাৎপর্য ([তাৎপর্য নির্ণয়](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); নীতি: [বস্তুগত বাজি](core_00_preamble.md#material-stake) scaling proxy; অধ্যায় এক surfaces this definition across **Safety** (**অধ্যায় এক §8.1**), **Truth** (**অধ্যায় এক §8.2**), **Trust** (**§12**), **§12** stewardship and openness passages, **§13.1**, **§13.2**, and **অধ্যায় এক §6.3.2** where **Materiality** appears in D/A/C widgets — see [§3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) as the principal systems-evaluation home.
 - গুচ্ছ উপাদান: [তাৎপর্য, প্রভাব, ঝুঁকি ও স্থলাভিষিক্ত সততা](core_05_band_oversight.md#materiality-semi-independent).
 - সঙ্গে পড়ুন: [বস্তুগত প্রভাব](core_05_band_oversight.md#material-impact), [বস্তুগত ঝুঁকি](core_05_band_oversight.md#material-risk), [ব্যবস্থাগত তাৎপর্য](core_05_band_continuity.md#systemic-materiality), and [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#auditability).
 
@@ -353,7 +353,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- অধঃ: নীতি: [§3](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (aggregation and boundary integrity in evaluation); [§6.2.4 স্থলাভিষিক্ত-বিচ্যুতি বাতিলকরণ](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) (metric/reality gaps that can manipulate materiality).
+- অধঃ: নীতি: [§3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (aggregation and boundary integrity in evaluation); [§6.2.4 স্থলাভিষিক্ত-বিচ্যুতি বাতিলকরণ](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) (metric/reality gaps that can manipulate materiality).
 - সঙ্গে পড়ুন: [তাৎপর্য নির্ণয়](core_05_band_oversight.md#materiality-determination), [ব্যবস্থা সীমানা](core_05_band_continuity.md#system-boundaries), [ব্যবস্থা সীমানা সততা](core_05_band_continuity.md#system-boundary-integrity), [ব্যবস্থাগত তাৎপর্য](core_05_band_accountability.md#systemic-materiality), [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#auditability), and [জবাবদিহি](core_05_apex_accountability_leg.md#accountability).
 
 </details>
@@ -390,7 +390,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- অধঃ: সমন্বিত তাৎপর্য ([তাৎপর্য নির্ণয়](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); নীতি: [বস্তুগত বাজি](core_00_preamble.md#material-stake) scaling proxy; [§3](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§9.2 বণ্টিত বোঝাপড়া](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding) (understanding scales with **Materiality**); [6.1.3 সমানুপাত](core_01_b_interaction_interpretation.md#613-proportionality) (material impact in the tradeoff index).
+- অধঃ: সমন্বিত তাৎপর্য ([তাৎপর্য নির্ণয়](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); নীতি: [বস্তুগত বাজি](core_00_preamble.md#material-stake) scaling proxy; [§3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§9.2 বণ্টিত বোঝাপড়া](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding) (understanding scales with **Materiality**); [6.1.3 সমানুপাত](core_01_b_interaction_interpretation.md#613-proportionality) (material impact in the tradeoff index).
 - গুচ্ছ উপাদান: [তাৎপর্য, প্রভাব, ঝুঁকি ও স্থলাভিষিক্ত সততা](core_05_band_oversight.md#materiality-semi-independent).
 - সঙ্গে পড়ুন: [ক্ষতি](core_05_band_accountability.md#harm), [ঝুঁকি](core_05_band_continuity.md#risk), [ব্যবস্থাগত তাৎপর্য](core_05_band_accountability.md#systemic-materiality), [নির্ভরতা](core_05_band_continuity.md#dependency), [শ্রেণিবিন্যাস-স্কেল করা শাসন](core_05_band_oversight.md#classification-scaled-governance), [তত্ত্বাবধান](core_05_apex_oversight_leg.md#oversight-constitutional), and [স্বচ্ছতা](core_05_band_oversight.md#transparency).
 
@@ -438,7 +438,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- অধঃ: সমন্বিত তাৎপর্য ([তাৎপর্য নির্ণয়](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); নীতি: [§3](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (tail risks, existential risk posture); [6.1.3 সমানুপাত](core_01_b_interaction_interpretation.md#613-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
+- অধঃ: সমন্বিত তাৎপর্য ([তাৎপর্য নির্ণয়](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); নীতি: [§3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (tail risks, existential risk posture); [6.1.3 সমানুপাত](core_01_b_interaction_interpretation.md#613-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
 - সঙ্গে পড়ুন: [ক্ষতি](core_05_band_accountability.md#harm), [অপরিবর্তনীয় ক্ষতি](core_05_band_accountability.md#irreversible-harm), [ঝুঁকি](core_05_band_continuity.md#risk), [নিরাপত্তা (বন্ধন)](core_05_band_continuity.md#safety-constraint), and [শ্রেণিবিন্যাস-স্কেল করা শাসন](core_05_band_oversight.md#classification-scaled-governance).
 
 </details>
@@ -484,7 +484,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- অধঃ: নীতি: [6.1.3 সমানুপাত](core_01_b_interaction_interpretation.md#613-proportionality) (reversibility under uncertainty); [§3](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (precaution against omitted harms).
+- অধঃ: নীতি: [6.1.3 সমানুপাত](core_01_b_interaction_interpretation.md#613-proportionality) (reversibility under uncertainty); [§3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (precaution against omitted harms).
 - সঙ্গে পড়ুন: [বস্তুগত প্রভাব](core_05_band_oversight.md#material-impact), [বস্তুগত ঝুঁকি](core_05_band_oversight.md#material-risk), [অপরিবর্তনীয় ক্ষতি](core_05_band_accountability.md#irreversible-harm), [নিরাপত্তা (বন্ধন)](core_05_band_continuity.md#safety-constraint), and [শ্রেণিবিন্যাস-স্কেল করা শাসন](core_05_band_oversight.md#classification-scaled-governance).
 
 </details>
@@ -524,7 +524,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- অধঃ: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*); Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); নীতি: [§6.2.4 স্থলাভিষিক্ত-বিচ্যুতি বাতিলকরণ](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation), [§3](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [§10 দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- অধঃ: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*); Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); নীতি: [§6.2.4 স্থলাভিষিক্ত-বিচ্যুতি বাতিলকরণ](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation), [§3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [§10 দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - গুচ্ছ উপাদান: [তাৎপর্য, প্রভাব, ঝুঁকি ও স্থলাভিষিক্ত সততা](core_05_band_oversight.md#materiality-semi-independent).
 - সঙ্গে পড়ুন: [তাৎপর্য নির্ণয়](core_05_band_oversight.md#materiality-determination), [তাৎপর্য সততা বন্ধন](core_05_band_oversight.md#materiality-integrity-constraint), [ব্যবস্থা সীমানা সততা](core_05_band_continuity.md#system-boundary-integrity), [প্রণোদনা সারিবদ্ধতা](core_05_band_integrative.md#incentive-alignment), [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#auditability), and [সত্য (সাংবিধানিক বন্ধন)](core_05_band_oversight.md#truth-constitutional-constraint).
 
@@ -595,7 +595,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- অধঃ: নীতি: [§3](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [অধ্যায় এক §3 অ-আলোচনাযোগ্য বন্ধন: নিরাপত্তা ও সত্য](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) (**Safety** / **Truth** degradation paths).
+- অধঃ: নীতি: [§3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [অধ্যায় এক §3 অ-আলোচনাযোগ্য বন্ধন: নিরাপত্তা ও সত্য](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) (**Safety** / **Truth** degradation paths).
 - সঙ্গে পড়ুন: [তাৎপর্য নির্ণয়](core_05_band_oversight.md#materiality-determination), [ব্যবস্থাগত তাৎপর্য](core_05_band_accountability.md#systemic-materiality), [ঝুঁকি](core_05_band_continuity.md#risk), [নিরাপত্তা (বন্ধন)](core_05_band_continuity.md#safety-constraint), [জ্ঞানতাত্ত্বিক সততা](core_05_band_oversight.md#epistemic-integrity), and [অর্থপূর্ণ কর্তৃত্ব](core_05_band_participation.md#meaningful-agency).
 
 </details>
@@ -661,7 +661,7 @@ Outside that scope, individual entries may still apply on their own without impo
 
 Where admission scope is met, this cluster is the joint home for disclosure, audit, verification (including external detectability), and assurance depth when অধ্যায় দুই থেকে চার require traceable, challengeable evidence of what a system does and whether compliance claims hold.
 
-**তত্ত্বাবধান কাঠামো।** Under the [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XV** (*Audit, Transparency, and Independent Verification*). [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [অধ্যায় সাত](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
+**তত্ত্বাবধান কাঠামো।** Under the [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XV** (*Audit, Transparency, and Independent Verification*). [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [অধ্যায় সাত](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
 
 **ব্যবস্থা শ্রেণি ও সমানুপাত।** Transparency, auditability, and verification duties scale with system class under **[corpus_systems.md](../../corpus_systems.md), CS-3 — ব্যবস্থা শ্রেণিবিন্যাস ও হ্যান্ডলিং**, and with material impact, dependency, and risk. Higher-class systems (**Class A**, **B**, **C**) need more than lower-class systems (**Class L**, **P**), including:
 - গভীরতর নিশ্চয়তা;
@@ -757,7 +757,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - গুচ্ছ উপাদান: [Def.O1 স্বচ্ছতা, নিরীক্ষাযোগ্যতা ও যাচাই](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- অধঃ: **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](../../corpus_systems/cs_02_b_data_classifications.md#83-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [§4](../../core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [§11](../../core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*Certification record*); [§12](../../core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*Transparency, auditability, and contestability*).
+- অধঃ: **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](../../corpus_systems/cs_02_b_data_classifications.md#83-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [§4](../../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [§11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record) (*Certification record*); [§12](../../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*Transparency, auditability, and contestability*).
 - সঙ্গে পড়ুন: [স্বচ্ছতা](core_05_band_oversight.md#transparency), [চ্যালেঞ্জ-যোগ্যতা](core_05_band_accountability.md#contestability), [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#auditability), [ঝুঁকি প্রকাশ](core_05_band_oversight.md#risk-disclosure), [পরিসর সনদ](core_05_band_continuity.md#charter), [ব্যবস্থা সীমানা](core_05_band_continuity.md#system-boundaries), [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](core_05_band_continuity.md#system-alignment-certification-constitutional), [ব্যবস্থা প্রত্যয়ন নথি](core_05_band_continuity.md#system-certification-record-constitutional), [ব্যবস্থা শ্রেণিবিন্যাস নথি](core_05_band_continuity.md#system-classification-record-constitutional), [ব্যবস্থা তথ্য-প্রকার নথি](core_05_band_continuity.md#system-data-types-record-constitutional), [শ্রেণিবিন্যাস-স্কেল করা শাসন](core_05_band_oversight.md#classification-scaled-governance), and **[corpus_systems.md](../../corpus_systems.md), CS-2 — তথ্য প্রকার ও হ্যান্ডলিং** (**Type O**).
 
 </details>
@@ -837,7 +837,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - গুচ্ছ উপাদান: [Def.O1 স্বচ্ছতা, নিরীক্ষাযোগ্যতা ও যাচাই](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- অধঃ: Oversight measurement family (*disclosure and assurance as constitutional measurement*); নীতি: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [§3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint); [§3.1](../../core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*SAC evaluation-and-disclosure bridge*); [§11.1](../../core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents) (*findings on the System Certification Record — not a separate named risk-disclosure record*).
+- অধঃ: Oversight measurement family (*disclosure and assurance as constitutional measurement*); নীতি: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [§3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint); [§3.1](../../core_08_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*SAC evaluation-and-disclosure bridge*); [§11.1](../../core_08_b_system_alignment_certification_record_process.md#111-minimum-record-contents) (*findings on the System Certification Record — not a separate named risk-disclosure record*).
 - সঙ্গে পড়ুন: [ঝুঁকি মূল্যায়ন](core_05_band_continuity.md#risk-evaluation), [ঝুঁকি](core_05_band_continuity.md#risk), [স্বচ্ছতা](core_05_band_oversight.md#transparency), [সর্বজনীন তত্ত্বাবধান ভিত্তিরেখা প্রকাশ](core_05_band_oversight.md#public-oversight-baseline-disclosure), [নিরাপত্তা (বন্ধন)](core_05_band_continuity.md#safety-constraint), [চ্যালেঞ্জ-যোগ্যতা](core_05_band_accountability.md#contestability), [জ্ঞানতাত্ত্বিক সততা](core_05_band_oversight.md#epistemic-integrity), and [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](core_05_band_continuity.md#system-alignment-certification-constitutional).
 
 </details>
@@ -849,7 +849,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - **এটি কী**
   - **পরিসরে:** Communicating evaluated systemic [ঝুঁকি](core_05_band_continuity.md#risk) to those who need it so they can understand, challenge, and act.
     - **Ongoing duty:** The duty is not limited to certification cycles — it applies whenever [স্বচ্ছতা](core_05_band_oversight.md#transparency) or [নিরাপত্তা (বন্ধন)](core_05_band_continuity.md#safety-constraint) requires that evaluated risk reach the sentients who need it.
-    - **SAC verification:** Where [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](core_05_band_continuity.md#system-alignment-certification-constitutional) runs and systemic risk is in scope, this disclosure is part of what certification must verify under [§3.1](../../core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors); findings live on the [ব্যবস্থা প্রত্যয়ন নথি](core_05_band_continuity.md#system-certification-record-constitutional), not as a separate named risk-disclosure record.
+    - **SAC verification:** Where [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](core_05_band_continuity.md#system-alignment-certification-constitutional) runs and systemic risk is in scope, this disclosure is part of what certification must verify under [§3.1](../../core_08_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors); findings live on the [ব্যবস্থা প্রত্যয়ন নথি](core_05_band_continuity.md#system-certification-record-constitutional), not as a separate named risk-disclosure record.
   - **পরিসরের বাইরে:**
     - [ঝুঁকি মূল্যায়ন](core_05_band_continuity.md#risk-evaluation) itself — the duty to evaluate systemic risk;
     - [সর্বজনীন তত্ত্বাবধান ভিত্তিরেখা প্রকাশ](core_05_band_oversight.md#public-oversight-baseline-disclosure) as the broader public baseline floor; or
@@ -1012,7 +1012,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - গুচ্ছ উপাদান: [Def.O1 স্বচ্ছতা, নিরীক্ষাযোগ্যতা ও যাচাই](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- অধঃ: Oversight measurement family (*evaluation coverage as constitutional measurement*); [§3](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*SAC whole-system evaluation*); [§11.1](../../core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents) (*findings on the System Certification Record*); [CS-5 — Design, testing, verification, and deployment](../../corpus_systems/cs_05_design_testing_verification_deployment.md) (*testing, stress, and regression coverage*).
+- অধঃ: Oversight measurement family (*evaluation coverage as constitutional measurement*); [§3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*SAC whole-system evaluation*); [§11.1](../../core_08_b_system_alignment_certification_record_process.md#111-minimum-record-contents) (*findings on the System Certification Record*); [CS-5 — Design, testing, verification, and deployment](../../corpus_systems/cs_05_design_testing_verification_deployment.md) (*testing, stress, and regression coverage*).
 - সঙ্গে পড়ুন: [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#auditability), [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](core_05_band_continuity.md#system-alignment-certification-constitutional), [পরিসর সনদ](core_05_band_continuity.md#charter), [ব্যবস্থা সীমানা](core_05_band_continuity.md#system-boundaries), [ব্যবস্থা সীমানা সততা](core_05_band_continuity.md#system-boundary-integrity), [তাৎপর্য নির্ণয়](core_05_band_oversight.md#materiality-determination), [বিরোধী, স্কেল করা ও শোষিত শর্ত](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), [ব্যবস্থা সৃষ্টি](core_05_band_participation.md#system-creation-constitutional), and [ব্যবসা সৃষ্টি](core_05_band_participation.md#business-creation-constitutional).
 
 </details>
@@ -1029,7 +1029,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
     - adversarial pathways.
   - **Ongoing duty:** The constraint applies whenever operators, stewards, or reviewers claim constitutional compliance, readiness, or safe reliance from evaluation or assurance work — not only during certification cycles.
   - **Charter and scope process:** Where a governing [পরিসর সনদ](core_05_band_continuity.md#charter) (or equivalent published scope instrument) exists for a system, institution, business, or comparable stewarded form, evaluation must test chartered purpose and in-scope / out-of-scope limits against observed [ব্যবস্থা সীমানা](core_05_band_continuity.md#system-boundaries) and plausible pathways inside and at the edge of that scope. Charter text does not shrink the pathways that must be evaluated.
-  - **SAC verification:** Where [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, this constraint is part of what certification must verify under [§3](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — including chartered-scope-versus-functional-boundary checks under [§3.1](../../core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-5](../../corpus_systems/cs_05_design_testing_verification_deployment.md). Findings live on the [ব্যবস্থা প্রত্যয়ন নথি](core_05_band_continuity.md#system-certification-record-constitutional).
+  - **SAC verification:** Where [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, this constraint is part of what certification must verify under [§3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — including chartered-scope-versus-functional-boundary checks under [§3.1](../../core_08_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-5](../../corpus_systems/cs_05_design_testing_verification_deployment.md). Findings live on the [ব্যবস্থা প্রত্যয়ন নথি](core_05_band_continuity.md#system-certification-record-constitutional).
   - **পরিসরের বাইরে:**
     - [পরিসর সনদ](core_05_band_continuity.md#charter) text as a scope instrument alone — a Charter states intended scope; it is not itself evaluation coverage;
     - [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](core_05_band_continuity.md#system-alignment-certification-constitutional) process mechanics as such — certification may verify this constraint; it is not the only context in which the constraint applies; or
@@ -1045,7 +1045,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
     - [বিরোধী, স্কেল করা ও শোষিত শর্ত](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) where material.
     Also ask:
       - where a [পরিসর সনদ](core_05_band_continuity.md#charter) exists, whether evaluation tested chartered scope against observed boundaries rather than treating the Charter as a complete scenario list; and
-      - where [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, whether whole-system evaluation and record findings under [§3](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) reflect that coverage.
+      - where [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, whether whole-system evaluation and record findings under [§3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) reflect that coverage.
 <a id="evaluation-completeness-constraint-c"></a>
 - **যা ধরে রাখতে হবে**
   - **প্রাথমিক ব্যর্থতা:**

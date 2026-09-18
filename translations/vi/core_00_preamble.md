@@ -93,11 +93,11 @@ Quản trị có trách nhiệm hiến pháp bắt đầu bằng việc gọi t�
 
 *Nói thẳng: khi văn bản đòi, các vấn đề trọng yếu đi qua chứng nhận, hồ sơ viết về giúp và hại, sửa chữa và khắc phục, và rà soát diễn đàn có đồng hồ — tranh chấp thường dùng đường dẫn tranh biện đã công bố trước; những đường dẫn đó thử quản trị đã được ủy quyền; chúng không tự tạo ra quản trị.*
 
-Nơi Chương Sáu, [Chương Bảy](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification), các văn kiện đã hợp nhất, hoặc các điều khoản hiến pháp khác đòi rõ, hãy đưa các vấn đề hiến pháp trọng yếu vào một hay nhiều đường dẫn dưới đây. [Các chuỗi quy trình thực tiễn then chốt](#5-key-practical-process-pipelines) chuyển đo lường thành hồ sơ, chứng nhận, đầu vào đã xác minh, phân loại, giám sát diễn đàn, sửa chữa, và khắc phục kịp thời — cách quản trị đã được ủy quyền được thử, tranh biện, và sửa trong thực tế. Chúng không tự ủy quyền quản trị; chúng làm quản trị có thể rà soát, tranh biện, sửa, và kịp thời. [Mục 5.1](#51-how-the-full-chain-fits-together) nêu đầy đủ chuỗi đó.
+Nơi Chương Sáu, [Chương Bảy](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification), các văn kiện đã hợp nhất, hoặc các điều khoản hiến pháp khác đòi rõ, hãy đưa các vấn đề hiến pháp trọng yếu vào một hay nhiều đường dẫn dưới đây. [Các chuỗi quy trình thực tiễn then chốt](#5-key-practical-process-pipelines) chuyển đo lường thành hồ sơ, chứng nhận, đầu vào đã xác minh, phân loại, giám sát diễn đàn, sửa chữa, và khắc phục kịp thời — cách quản trị đã được ủy quyền được thử, tranh biện, và sửa trong thực tế. Chúng không tự ủy quyền quản trị; chúng làm quản trị có thể rà soát, tranh biện, sửa, và kịp thời. [Mục 5.1](#51-how-the-full-chain-fits-together) nêu đầy đủ chuỗi đó.
 
-- **Chứng nhận thẳng hàng hệ thống** ([Chương Bảy](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)) — trước khi tin một hệ thống tác động cao ở quy mô lớn, thu và rà soát bằng chứng về việc hiện giờ có an toàn hiến pháp để dựa vào nó không
-- **Hồ sơ quỹ đạo** ([Chương Tám](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)) — khi hành vi hoặc hại có ý nghĩa hiến pháp, đặt sự kiện đã xác minh vào hồ sơ vụ đóng góp hoặc vi phạm chính thức; tin đồn và danh tiếng không đủ
-- **Sửa chữa và khắc phục** ([Chương Chín §4.1](../../core_09_standing_integration.md#41-remedy-and-correction)) — sửa hỏng nền và cung cấp ghi nhận, sửa chữa, phục hồi, hoặc bồi thường tương xứng cho những ai bị hại
+- **Chứng nhận thẳng hàng hệ thống** ([Chương Bảy](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)) — trước khi tin một hệ thống tác động cao ở quy mô lớn, thu và rà soát bằng chứng về việc hiện giờ có an toàn hiến pháp để dựa vào nó không
+- **Hồ sơ quỹ đạo** ([Chương Tám](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)) — khi hành vi hoặc hại có ý nghĩa hiến pháp, đặt sự kiện đã xác minh vào hồ sơ vụ đóng góp hoặc vi phạm chính thức; tin đồn và danh tiếng không đủ
+- **Sửa chữa và khắc phục** ([Chương Chín §4.1](../../core_10_standing_integration.md#41-remedy-and-correction)) — sửa hỏng nền và cung cấp ghi nhận, sửa chữa, phục hồi, hoặc bồi thường tương xứng cho những ai bị hại
 - **Rà soát diễn đàn** ([Chương Mười Một](core_11_forum.md#1-purpose-and-role))
   - Tranh chấp thường bên trong hệ thống đã được ủy quyền dùng đường dẫn tranh biện đã công bố của [Tham gia hệ thống của bên bị ảnh hưởng](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster) trước
   - Nếu đường dẫn đó vẫn bị tranh, thiếu, bị chiếm, hoặc không thể cấp cứu trợ, định tuyến theo lợi hại chính qua các diễn đàn được giám sát
@@ -148,7 +148,7 @@ Mỗi tóm tắt nêu chương nắm gì và tạo ra gì.
 **Chương Bốn — Gánh, truy vết, và xác minh** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **Nội dung nắm giữ:** Đặt gánh chứng minh lên ai khẳng định tuân thủ; đòi bằng chứng truy được, khả năng quan sát, và xác minh chia tỷ lệ theo [**lợi hại vật chất**](#material-stake) và vẫn tranh biện được trong thực tế.
-- **Nội dung tạo ra:** Chuỗi xác minh nuôi **đầu vào đã xác minh** ở [Chương Tám](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) và bằng chứng thẳng hàng hệ thống ở [Chương Bảy](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) — mà không thay đo lường quỹ đạo tự nó.
+- **Nội dung tạo ra:** Chuỗi xác minh nuôi **đầu vào đã xác minh** ở [Chương Tám](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) và bằng chứng thẳng hàng hệ thống ở [Chương Bảy](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) — mà không thay đo lường quỹ đạo tự nó.
 
 **Chương Năm — Định nghĩa nền tảng** ([`core_05__definitions_home.md`](core_05__definitions_home.md#chapter-five-foundational-definitions))
 
@@ -169,7 +169,7 @@ Chương Bảy đến Mười Một nối thành một chuỗi thực tiễn —
 
 Mỗi bước dưới đây nêu chương nắm gì và tạo ra gì. [Chuỗi đầy đủ khớp nhau thế nào](#51-how-the-full-chain-fits-together) rồi cho thấy những chủ sở hữu đó như một đường từ kiểm hệ thống đến khắc phục.
 
-**Chứng nhận thẳng hàng hệ thống** ([Chương Bảy](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification))
+**Chứng nhận thẳng hàng hệ thống** ([Chương Bảy](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification))
 
 - **Nội dung nắm giữ:** Bảo đảm các hệ thống có tác động vật chất giữ thẳng hàng hiến pháp.
   - Trước khi một hệ thống tác động vật chất tới các hữu tri có thể được công nhận hoặc dựa vào ở quy mô lớn, bằng chứng được thu và rà soát dưới giám sát diễn đàn
@@ -178,20 +178,20 @@ Mỗi bước dưới đây nêu chương nắm gì và tạo ra gì. [Chuỗi �
   - Hệ thống rủi ro cao phải được chứng nhận lại theo lịch đều; chứng nhận không bao giờ vĩnh viễn
 - **Nội dung tạo ra:** Một **hồ sơ chứng nhận thẳng hàng hệ thống** — câu trả lời có giới hạn, tranh biện được về việc hệ thống đó có thẳng hàng đủ để công nhận, tiếp tục dựa, triển khai, hoặc giải phóng khỏi điều kiện *ngay lúc này*, trong một phạm vi và cửa sổ thời gian đã nêu.
 
-**Đo lường quỹ đạo** ([Chương Tám](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model))
+**Đo lường quỹ đạo** ([Chương Tám](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model))
 
 - **Nội dung nắm giữ:** Khi hành vi có ý nghĩa hiến pháp, tin đồn và danh tiếng không đủ. Sự kiện đã xác minh vào **hồ sơ quỹ đạo**. **Đóng góp** (giúp hướng tới hưng thịnh) và **vi phạm** (thất bại trách nhiệm giải trình và hại) được đo trên **các trục riêng** — hành vi tốt đã xác minh không xóa hại đã xác minh, và hai thứ không bao giờ gộp thành một điểm ròng.
 - **Nội dung tạo ra:** **Hồ sơ quỹ đạo** đã phân loại trên Trục Đóng góp và Trục Vi phạm, chỉ dựa trên **đầu vào đã xác minh** và các phát hiện được diễn đàn giám sát — không chấm điểm không chính thức hay câu chuyện tranh chấp đứng thay phân loại.
 
-**Tích hợp quỹ đạo và hiệu ứng** ([Chương Chín](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration))
+**Tích hợp quỹ đạo và hiệu ứng** ([Chương Chín](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration))
 
 - **Nội dung nắm giữ:** Tích hợp các phân loại đã xác minh thành **hiệu ứng quỹ đạo** đời thực trên các đường riêng — chia tỷ lệ theo [**lợi hại vật chất**](#material-stake), không gộp đóng góp và vi phạm thành một điểm ròng, và không làm rỗng tham gia, giám sát, trách nhiệm giải trình, hay kịp thời.
   - **Đường đóng góp:** Phân loại dương đã xác minh tạo lợi thực tế:
-    - [**Giấy thông hành năng lực**](../../core_09_standing_integration.md#62-competency-bars-and-clearances) có thể mở các vai trò nhạy tin cậy, thẩm quyền được ủy, tư cách giám sát, và quản trị có trách nhiệm có hệ quả tăng dần khi năng lực được chứng minh so với thanh năng lực đã công bố và không có [khóa quỹ đạo](../../core_09_standing_integration.md#42-general-standing-locks) áp dụng chặn đường dẫn được đặt tên
+    - [**Giấy thông hành năng lực**](../../core_10_standing_integration.md#62-competency-bars-and-clearances) có thể mở các vai trò nhạy tin cậy, thẩm quyền được ủy, tư cách giám sát, và quản trị có trách nhiệm có hệ quả tăng dần khi năng lực được chứng minh so với thanh năng lực đã công bố và không có [khóa quỹ đạo](../../core_10_standing_integration.md#42-general-standing-locks) áp dụng chặn đường dẫn được đặt tên
     - Ghi nhận tương xứng và **thưởng vật chất** cho quản trị có trách nhiệm hợp pháp và hợp tác như [Chương Một](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration) đòi
     - Không phải lời khen rỗng. Lợi ích phải thực, có bằng chứng chống lưng, và mở cho tranh biện
   - **Đường vi phạm:** Phát hiện vi phạm đã xác minh tạo hại thực tế:
-    - **Khóa quỹ đạo**, giới hạn vai trò, lệnh khắc phục, [khắc phục cho những ai bị hại](../../core_09_standing_integration.md#41-remedy-and-correction), mô tả bổ sung, và móc thi hành
+    - **Khóa quỹ đạo**, giới hạn vai trò, lệnh khắc phục, [khắc phục cho những ai bị hại](../../core_10_standing_integration.md#41-remedy-and-correction), mô tả bổ sung, và móc thi hành
     - Hạn chế khớp mức nghiêm của điều đã xác minh
     - Vi phạm chưa giải quyết vẫn sống
     - Các đường tương xứng để khôi phục quỹ đạo vẫn có cho ai chứng minh bồi hoàn chân thực
@@ -219,11 +219,11 @@ Mỗi bước dưới đây nêu chương nắm gì và tạo ra gì. [Chuỗi �
 
 *Nói thẳng: hãy nghĩ nó như một đường từ kiểm hệ thống đến khắc phục — với các diễn đàn giám sát tranh chấp và các bước quỹ đạo suốt đường.*
 
-1. **Chứng nhận hệ thống khi tác động đủ nghiêm** ([Chương Bảy](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)) — trước khi tin một hệ thống tác động cao ở quy mô lớn, lấy một hồ sơ thẳng hàng tranh biện được: hiện giờ có an toàn hiến pháp để dựa vào nó không?
-2. **Đo quỹ đạo trên các đường riêng** ([Chương Tám](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)) — khi hành vi tốt hoặc hại đủ nghiêm để có ý nghĩa hiến pháp, Chương Tám mở hồ sơ vụ chính thức, chỉ nhận **đầu vào đã xác minh** (kể cả bằng chứng chứng nhận thẳng hàng hệ thống từ Chương Bảy khi bằng chứng đó có trọng), và phân loại điều đã xác minh. Tin đồn, danh tiếng, và câu chuyện tranh chấp không đủ.
+1. **Chứng nhận hệ thống khi tác động đủ nghiêm** ([Chương Bảy](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)) — trước khi tin một hệ thống tác động cao ở quy mô lớn, lấy một hồ sơ thẳng hàng tranh biện được: hiện giờ có an toàn hiến pháp để dựa vào nó không?
+2. **Đo quỹ đạo trên các đường riêng** ([Chương Tám](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)) — khi hành vi tốt hoặc hại đủ nghiêm để có ý nghĩa hiến pháp, Chương Tám mở hồ sơ vụ chính thức, chỉ nhận **đầu vào đã xác minh** (kể cả bằng chứng chứng nhận thẳng hàng hệ thống từ Chương Bảy khi bằng chứng đó có trọng), và phân loại điều đã xác minh. Tin đồn, danh tiếng, và câu chuyện tranh chấp không đủ.
    - **Bản chất đóng góp:** Mở một **hồ sơ quỹ đạo đóng góp** — hồ sơ vụ có giới hạn, tranh biện được về giúp đã xác minh hướng tới hưng thịnh — và phân loại **bản chất đóng góp** trên Trục Đóng góp.
    - **Bản chất vi phạm:** Mở một **hồ sơ quỹ đạo vi phạm** — hồ sơ vụ có giới hạn, tranh biện được về hại đã xác minh và thất bại trách nhiệm giải trình — và phân loại **bản chất vi phạm** trên Trục Vi phạm. Tốt và hại không bao giờ gộp thành một điểm ròng; hồ sơ liên kết đối chiếu nhưng giữ riêng.
-3. **Áp hiệu ứng quỹ đạo trên mỗi đường** ([Chương Chín](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)) — đóng góp đã xác minh có thể cấp giấy thông hành năng lực và nâng đỡ ghi nhận tương xứng cùng thưởng vật chất; vi phạm đã xác minh có thể kích hoạt khóa quỹ đạo, sửa chữa, và [khắc phục cho những ai bị hại](../../core_09_standing_integration.md#41-remedy-and-correction).
+3. **Áp hiệu ứng quỹ đạo trên mỗi đường** ([Chương Chín](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)) — đóng góp đã xác minh có thể cấp giấy thông hành năng lực và nâng đỡ ghi nhận tương xứng cùng thưởng vật chất; vi phạm đã xác minh có thể kích hoạt khóa quỹ đạo, sửa chữa, và [khắc phục cho những ai bị hại](../../core_10_standing_integration.md#41-remedy-and-correction).
 4. **Rà soát chỉ định phản hiến pháp** ([Chương Mười](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)) — nếu một phát hiện vi phạm tác động cao nhất cũng có thể thỏa tiêu chí phản hiến pháp, Chương Mười quyết chỉ định tương ứng có gắn không. Chỉ định không đổi mức nghiêm mà Chương Tám đã tìm thấy; hiệu ứng thường Chương Chín tiếp tục song song cho đến khi một chỉ định cuối kích hoạt Khóa Tin cậy Phản Hiến pháp.
 5. **Định tuyến tranh chấp và giữ khắc phục kịp thời** ([Chương Mười Một](core_11_forum.md#1-purpose-and-role)) — các diễn đàn giám sát cách vụ di chuyển, đường nào xử chúng, và liệu đồng hồ dưới **Điều XXIV-C** (*Sàn Giải quyết kịp thời và Chống trì hoãn*) có được thỏa để khắc phục không chết trong trì hoãn. Tranh chấp thường theo [Trình tự tranh chấp](core_11_forum.md#dispute-sequencing). Các diễn đàn cũng phân loại tranh chấp thành năm [bậc trọng yếu](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) soi bảng chữ phân loại hệ thống — từ khẩn cấp sống còn đến việc tư/kín — và định tuyến mặc định họ Toàn vẹn áp dụng khi chỉ định cuối Chương Mười là lợi hại chính.
 
@@ -238,27 +238,27 @@ Chương **Mười Hai đến Mười Sáu** đóng văn kiện — và hoàn t�
 
 Mỗi tóm tắt nêu chương nắm gì và tạo ra gì.
 
-**Chương Mười Hai — Hợp đồng hiến pháp, tính chính danh, và quản trị có trách nhiệm** ([`core_12_governance.md`](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship))
+**Chương Mười Hai — Hợp đồng hiến pháp, tính chính danh, và quản trị có trách nhiệm** ([`core_12_governance.md`](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship))
 
 - **Nội dung nắm giữ:** Nắm [**Tầng Hợp đồng Hiến pháp**](../../core_05_band_integrative.md#constitutional-contract-layer) — ai được quản trị, bằng cơ chế chính danh nào, dưới phạm vi và điều khoản bền nào, và với tính cách quản trị có trách nhiệm nào phải được duy trì.
 - **Nội dung tạo ra:** Yêu cầu ủy quyền và chính danh riêng với [**Tham gia hệ thống của bên bị ảnh hưởng**](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster) trong hệ thống đã được ủy quyền — các quy tắc của chính quyền quản trị, không chỉ tham gia bên trong nó.
 
-**Chương Mười Ba — Không thoái lui** ([`core_13_non_regression.md`](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity))
+**Chương Mười Ba — Không thoái lui** ([`core_13_non_regression.md`](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity))
 
 - **Nội dung nắm giữ:** Đặt sàn nội dung chống thay đổi thoái lui — tu chính và đường vòng không thể cắt các bảo vệ cốt, làm rỗng Tứ diện dưới lợi hại vật chất, hoặc ngụy trang thoái lui thành dọn kỹ thuật.
 - **Nội dung tạo ra:** **Lan can hiến pháp đầu** trên mọi thay đổi đề xuất — quy tắc không thoái lui: nếu thay đổi sẽ làm yếu các bảo vệ cốt trong thực tế, nó không có hiệu lực, dù thủ tục trông ổn. Đường vòng bị nghi hoặc cắt giả trang bị dừng hoặc gửi tới đường rà soát đúng thay vì lọt thầm.
 
-**Chương Mười Bốn — Tối cao và trật tự bên ngoài** ([`core_13_non_regression.md`](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders))
+**Chương Mười Bốn — Tối cao và trật tự bên ngoài** ([`core_13_non_regression.md`](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders))
 
 - **Nội dung nắm giữ:** Nêu Hiến pháp này liên hệ thế nào với các chuẩn khác — mở rộng bảo vệ nơi hợp pháp, tối cao trong phạm vi của nó, không tự sức dời luật bên ngoài áp dụng, và tương tác có kỷ luật với các trật tự pháp bên ngoài mà không lệ thuộc thầm hay bị chiếm.
 - **Nội dung tạo ra:** Quy tắc thứ bậc và thứ tự xung đột để công bố hoặc dùng không bị coi là bãi luật bên ngoài áp dụng, và để bên tiếp nhận không coi thủ tục đã hợp nhất, chuẩn bên ngoài yếu hơn, hoặc chỉ số tiện là án ngữ nghĩa Hiến pháp Hữu tri trong phạm vi tiếp nhận hợp lệ.
 
-**Chương Mười Lăm — Tu chính, phê chuẩn, và tiếp nhận** ([`core_13_non_regression.md`](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity))
+**Chương Mười Lăm — Tu chính, phê chuẩn, và tiếp nhận** ([`core_13_non_regression.md`](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity))
 
 - **Nội dung nắm giữ:** Quản trị cách văn kiện có thể đổi hợp pháp — thủ tục tu chính, phê chuẩn, tiếp nhận, và các **lan can thủ tục** theo sau lan can nội dung của Chương Mười Ba: thay đổi phải được công bố mở, truy được tới lưu giữ có thẩm quyền, và vẫn tranh biện được có ý nghĩa, với rà soát độc lập nơi đòi.
 - **Nội dung tạo ra:** Một đường thay đổi hợp pháp đầy đủ — chỉ tu chính và tiếp nhận vượt **lan can không thoái lui** và các **lan can thủ tục** mới được tính là cập nhật hiến pháp hợp lệ.
 
-**Chương Mười Sáu — Cầu hợp nhất** ([`core_16_incorporation.md`](../../core_16_incorporation.md))
+**Chương Mười Sáu — Cầu hợp nhất** ([`core_16_incorporation.md`](../../core_17_incorporation.md))
 
 - **Nội dung nắm giữ:** Nhận diện tệp triển khai nào được tính là văn bản hợp nhất ràng buộc khi được tiếp nhận; ghim ấn bản; giữ chuỗi lưu giữ; và cấm lệch lạc thầm lặng giữa nguồn hiến pháp và chi tiết vận hành.
 - **Nội dung tạo ra:** Một biên hợp nhất duy nhất — văn bản triển khai được chỉ định ràng buộc khi được tiếp nhận; các kho kèm triển khai Hiến pháp mà không trở thành nguồn thứ hai thu hẹp nó. [Mục 7](#7-companion-implementation-corpus) tóm tắt những kho đó ở mức cao.
@@ -275,7 +275,7 @@ Ngoài các chương `core_*` đánh số, bốn kho kèm hoàn tất [sổ đă
 - **[corpus_institutions](../../corpus_institutions.md)** — hình thành thể chế, quản trị, giám sát, tính tương xứng, và kỷ luật giải thể.
 - **[corpus_forum](../../corpus_forum.md)** — vận hành diễn đàn: lập ban, xin rút, làn rà soát, chi tiết định tuyến, và hỗ trợ pháp y.
 
-Khi bên tiếp nhận hợp nhất chúng hợp lệ dưới [Chương Mười Sáu](../../core_16_incorporation.md), các tệp này ràng buộc như văn bản triển khai trong phạm vi tiếp nhận. Nghĩa Hiến pháp Hữu tri vẫn kiểm soát — chúng **triển khai, không thu hẹp**, các chương trên. Ghim ấn bản, chuỗi lưu giữ, và quy tắc không-lệch-thầm giữ văn bản đã tiếp nhận truy được tới điều thực sự đã được phê chuẩn. Danh sách chuẩn và quy tắc biên sống ở [Chương Năm — Kho văn bản](../../core_05_band_integrative.md#corpus).
+Khi bên tiếp nhận hợp nhất chúng hợp lệ dưới [Chương Mười Sáu](../../core_17_incorporation.md), các tệp này ràng buộc như văn bản triển khai trong phạm vi tiếp nhận. Nghĩa Hiến pháp Hữu tri vẫn kiểm soát — chúng **triển khai, không thu hẹp**, các chương trên. Ghim ấn bản, chuỗi lưu giữ, và quy tắc không-lệch-thầm giữ văn bản đã tiếp nhận truy được tới điều thực sự đã được phê chuẩn. Danh sách chuẩn và quy tắc biên sống ở [Chương Năm — Kho văn bản](../../core_05_band_integrative.md#corpus).
 
 Nguyên tắc, định nghĩa, quyền, chuỗi quy trình, quản trị, quy tắc tu chính, và triển khai đã hợp nhất phải được đọc cùng để giữ mục đích bảo vệ của Hiến pháp.
 

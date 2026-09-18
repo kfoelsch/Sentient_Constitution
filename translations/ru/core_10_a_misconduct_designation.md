@@ -9,7 +9,7 @@
 
 > Следующее содержание — **только ориентир для читателя**. Оно не добавляет, не снимает и не сужает связывающих обязанностей в этом файле или в других главах.
 >
-> Этот файл — **пилот читательского языка** [английской Главы десятой, Части A](../../core_10_a_misconduct_designation.md). **Не** является связывающей частью Конституции сентентов. **Не** является второй конституцией. **Не** является изданием к отправке. **Закреплён** за `SC-Corpus-2026.08.09`. Если этот перевод и английский оригинал кажутся расходящимися, побеждает нумерованный файл [`core_10_a_misconduct_designation.md`](../../core_10_a_misconduct_designation.md). Порядок чтения и метаданные издания ведутся в [README.md](../../README.md). Метод и глоссарий: [translations/ru/README.md](README.md).
+> Этот файл — **пилот читательского языка** [английской Главы десятой, Части A](../../core_11_a_misconduct_designation.md). **Не** является связывающей частью Конституции сентентов. **Не** является второй конституцией. **Не** является изданием к отправке. **Закреплён** за `SC-Corpus-2026.08.09`. Если этот перевод и английский оригинал кажутся расходящимися, побеждает нумерованный файл [`core_10_a_misconduct_designation.md`](../../core_11_a_misconduct_designation.md). Порядок чтения и метаданные издания ведутся в [README.md](../../README.md). Метод и глоссарий: [translations/ru/README.md](README.md).
 >
 > Он содержит **Главу десятую, Часть A** — рамку решения об обозначении, набор критериев, приложение обозначения Оси нарушения `s = 7–9`, гарантии надлежащей процедуры, средство защиты, замки предотвращения и добровольное публичное выражение подотчётности. **Часть B** — именованные применения паттерна и маршрутизация критериев — в [`core_10_b_misconduct_pattern_applications.md`](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications).
 >
@@ -17,7 +17,7 @@
 > - **Граница измерения:** Только Глава восьмая присваивает числовую ячейку воздействия под своей единой пропорциональной шкалой LEQU. Эта глава **не** заменяет и не изменяет это измерение.
 > - **Правило антипереноса:** Часть A не излагает заново каталоги паттернов Части B, замки траектории Главы девятой или правила действительности пути изменения Глав с тринадцатой по пятнадцатую.
 >
-> Антиконституционный проступок при **s = 7, 8 или 9** — это **захват тетрады** в масштабе — читайте вместе с [целью Преемственности](core_00_preamble.md#continuity) под [Двумя конституционными целями](core_00_preamble.md#two-constitutional-aims). Взаимодействия действительности пути изменения продолжаются в [Главах с тринадцатой по пятнадцатую](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity); ограничения правосудия остаются в [Части D Главы шестой](core_06_rights_part_d.md).
+> Антиконституционный проступок при **s = 7, 8 или 9** — это **захват тетрады** в масштабе — читайте вместе с [целью Преемственности](core_00_preamble.md#continuity) под [Двумя конституционными целями](core_00_preamble.md#two-constitutional-aims). Взаимодействия действительности пути изменения продолжаются в [Главах с тринадцатой по пятнадцатую](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity); ограничения правосудия остаются в [Части D Главы шестой](core_06_rights_part_d.md).
 >
 > **Исход:** измерение траектории Главы восьмой; указатель обозначения Главы девятой.
 > **Назначение:** [Часть B](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications) (*применения паттерна*); Замок доверия Главы девятой и интеграция эффектов траектории после окончательного обозначения; маршрутизация форума Главы одиннадцатой; последствия легитимности управления Главы двенадцатой.
@@ -73,8 +73,8 @@
 - Исход: [Глава восьмая](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*Вопросы 1 и 2; проверенные записи и измерение траектории*).
 - Указатель исхода: [Глава девятая §2](core_09_standing_integration.md#2-integration-record-and-decision-order) маршрутизирует сюда квалифицирующие находки ячейки 7–9 Оси нарушения только для обозначения.
 - Этот файл: окончательное обозначение антиконституционного проступка для Оси нарушения `s` = 7–9; критерии обозначения; гарантии надлежащей процедуры; граница Глав с тринадцатой по пятнадцатую. Маршрутизация именованных паттернов продолжается в [Части B](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications).
-- Назначение: [Глава девятая](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*Замок доверия и интеграция эффектов траектории после окончательного обозначения*); [Глава одиннадцатая](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*маршрутизация форума и сертификация*); [Глава двенадцатая](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) (*последствия легитимности управления*).
-- Читать вместе с: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [Главы с тринадцатой по пятнадцатую](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) (*поведение пути изменения может затрагивать критерии 1–4*).
+- Назначение: [Глава девятая](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*Замок доверия и интеграция эффектов траектории после окончательного обозначения*); [Глава одиннадцатая](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*маршрутизация форума и сертификация*); [Глава двенадцатая](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) (*последствия легитимности управления*).
+- Читать вместе с: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [Главы с тринадцатой по пятнадцатую](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) (*поведение пути изменения может затрагивать критерии 1–4*).
 
 </details>
 
@@ -100,7 +100,7 @@
 - Гарантии и дисциплина: [§4](#4-due-process-safeguards-for-slot-assignment) (*Гарантии надлежащей процедуры, средство защиты и предотвращение*); [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*Средство защиты и исправление (антиконституционное)*); [§4.2](#4-2-prevention-anti-constitutional-locks) (*Предотвращение — антиконституционные замки*); [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Добровольное публичное выражение подотчётности (антиконституционное)*).
 - Применения паттерна: [§5](core_10_b_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing) (*именованные паттерны маршрутизируются в те же критерии обозначения*).
 - Граница пути изменения: [§1](#1-cross-chapter-discipline) (*граница Глав с тринадцатой по пятнадцатую*).
-- Читать вместе с: [Главы с тринадцатой по пятнадцатую](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) там, где **регрессивный обман** и поведение пути изменения могут затрагивать **критерии 1–4**.
+- Читать вместе с: [Главы с тринадцатой по пятнадцатую](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) там, где **регрессивный обман** и поведение пути изменения могут затрагивать **критерии 1–4**.
 - Нога(и) Тетрады: **участие**, **надзор**, **подотчётность**, **своевременность** (захват тетрады в масштабе). Первичная(ые) цель(и): **Преемственность** (первичная), **Расцвет**. Масштабирование по [материальной ставке](core_00_preamble.md#material-stake) применяется к гарантиям и тяжести.
 
 </details>
@@ -432,4 +432,4 @@
 
 **Следующий файл (на этом языке):** [core_10_b_misconduct_pattern_applications.md](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)
 
-**Связывающий оригинал:** [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md)
+**Связывающий оригинал:** [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md)

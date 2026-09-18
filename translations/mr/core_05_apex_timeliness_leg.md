@@ -102,7 +102,7 @@
 
 - पुढे: समयबद्धता मापन कुटुंब — फक्त-दुवा रोलअप; पदनिहाय स्तर पान-व्याख्यांवर राहतात — पहा [समयबद्ध निराकरण](../../core_05_band_accountability.md#timely-resolution-constitutional), [निराकरण-मार्गांचा ताबा](../../core_05_band_accountability.md#capture-of-resolution-pathways) आणि [समयबद्धता](#timeliness-constitutional) (फक्त-दुवा पाया-शीर्ष रोलअप).
 - सोबत वाचा: [सहभाग](core_05_apex_participation_leg.md#participation-constitutional), [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional) आणि [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability) — समयबद्धता इतर तीन चतुष्क पायांतूनही जाते; ते पाया उपयुक्त राहण्यासाठी समयी घडायला हवेत.
-- सोबत वाचा: [अध्याय अकरा §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+- सोबत वाचा: [अध्याय अकरा §6](../../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 
 </details>
 

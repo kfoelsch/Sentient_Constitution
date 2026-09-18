@@ -5,7 +5,7 @@
 
 > নিচের বিষয়বস্তু **শুধু পাঠক নির্দেশনা**। এটি বাধ্যতামূলক কর্তব্য যোগ করে না, কমায় না, সংকুচিতও করে না।
 >
-> এই ফোল্ডার একটি **পাঠক-ভাষার পাইলট**। এটি **সংজ্ঞ সংবিধান নয়**। এটি ক্রমাঙ্কিত `core_*` ফাইল বদলাতে **পারে না**। এটি **প্রেরণ সংস্করণ নয়**। এটি পড়া [এই সংবিধান গ্রহণ](../../core_15_amendment_ratification.md#10-ratification-and-adoption) **নয়**। অনুবাদ ও ইংরেজি মূল যদি অমিল মনে হয়, ইংরেজি ক্রমাঙ্কিত `core_*` জিতবে যতক্ষণ না পরের কোনো সংস্করণ অন্য কথা বলে। দেখুন [Reader-language editions](../../doc_architecture.md#reader-language-editions)।
+> এই ফোল্ডার একটি **পাঠক-ভাষার পাইলট**। এটি **সংজ্ঞ সংবিধান নয়**। এটি ক্রমাঙ্কিত `core_*` ফাইল বদলাতে **পারে না**। এটি **প্রেরণ সংস্করণ নয়**। এটি পড়া [এই সংবিধান গ্রহণ](../../core_16_amendment_ratification.md#10-ratification-and-adoption) **নয়**। অনুবাদ ও ইংরেজি মূল যদি অমিল মনে হয়, ইংরেজি ক্রমাঙ্কিত `core_*` জিতবে যতক্ষণ না পরের কোনো সংস্করণ অন্য কথা বলে। দেখুন [Reader-language editions](../../doc_architecture.md#reader-language-editions)।
 >
 > **করপাস সংস্করণে পিন:** `SC-Corpus-2026.08.09` (কার্যকর ২০২৬-০৮-০৯; [README.md](../../README.md))। **প্রাক-প্রকাশ।**
 
@@ -37,13 +37,13 @@
 | [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md) | [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md) |
 | [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md) | [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md) |
 | [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md) | [core_05_apex_timeliness_leg.md](../../core_05_apex_timeliness_leg.md) |
-| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_07_system_alignment_certification.md) |
-| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md) |
-| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md) |
-| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_08_standing_assessment.md) |
-| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_09_standing_integration.md) |
-| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md) |
-| [core_12_governance.md](core_12_governance.md) | [core_12_governance.md](../../core_12_governance.md) |
+| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_08_system_alignment_certification.md) |
+| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md) |
+| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_09_standing_assessment.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_10_standing_integration.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md) |
+| [core_12_governance.md](core_12_governance.md) | [core_12_governance.md](../../core_13_governance.md) |
 
 পাইলটের লিঙ্ক এখনও অননুদিত ইংরেজি ফাইলের দিকে যায়। HTML নোঙর (`id`) মূল থেকে নকল, খণ্ডে খণ্ডে তুলনার জন্য।
 

@@ -9,7 +9,7 @@
 
 > 以下の内容は**読者向け案内にすぎない**。本ファイルまたは他の章にある拘束力のある義務を加え、除き、または狭めない。
 >
-> 本ファイルは[英語第十章、A部](../../core_10_a_misconduct_designation.md)の**読者言語パイロット**である。**感知者憲法の拘束力ある部分ではない**。**第二の憲法ではない**。**配布版ではない**。`SC-Corpus-2026.08.09` に**固定**されている。本訳文と英語原文が食い違って見える場合、番号付きファイル [`core_10_a_misconduct_designation.md`](../../core_10_a_misconduct_designation.md) が勝つ。読み順と版のメタデータは [README.md](../../README.md) に保たれる。方法と用語表：[translations/ja/README.md](README.md)。
+> 本ファイルは[英語第十章、A部](../../core_11_a_misconduct_designation.md)の**読者言語パイロット**である。**感知者憲法の拘束力ある部分ではない**。**第二の憲法ではない**。**配布版ではない**。`SC-Corpus-2026.08.09` に**固定**されている。本訳文と英語原文が食い違って見える場合、番号付きファイル [`core_10_a_misconduct_designation.md`](../../core_11_a_misconduct_designation.md) が勝つ。読み順と版のメタデータは [README.md](../../README.md) に保たれる。方法と用語表：[translations/ja/README.md](README.md)。
 >
 > **第十章、A部**を含む — 指定の決定枠、基準の集合、違反軸 `s = 7–9` の指定の付着、適正手続の保障、救済、予防ロック、および自発的な公開説明責任の表明。**B部** — 指名されたパターン適用と基準の経路づけ — は [`core_10_b_misconduct_pattern_applications.md`](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications) にある。
 >
@@ -17,7 +17,7 @@
 > - **測定の境界：** 第八章だけが、その統一比例 LEQU 尺度のもとで数値の影響箱を割り当てる。本章はその測定を**置き換えず、変えない**。
 > - **再配置禁止規則：** A部は、B部のパターン目録、第九章の軌跡ロック、または第十三章から第十五章の変更経路の有効性規則を再述しない。
 >
-> **s = 7、8、または 9** における反憲法的不正行為は、規模における**四元の捕捉**である — [二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)のもとでの[継続の目的](core_00_preamble.md#continuity)とあわせて読め。変更経路の有効性の相互作用は[第十三章から第十五章](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)に続く；正義の制約は[第六章 D部](core_06_rights_part_d.md)に残る。
+> **s = 7、8、または 9** における反憲法的不正行為は、規模における**四元の捕捉**である — [二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)のもとでの[継続の目的](core_00_preamble.md#continuity)とあわせて読め。変更経路の有効性の相互作用は[第十三章から第十五章](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)に続く；正義の制約は[第六章 D部](core_06_rights_part_d.md)に残る。
 >
 > **上流：** 第八章の軌跡測定；第九章の指定の指針。
 > **下流：** [B部](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)（*パターン適用*）；最終指定のあとの第九章の信頼ロックと軌跡効果の統合；第十一章のフォーラム経路づけ；第十二章の統治正当性の帰結。
@@ -73,8 +73,8 @@
 - 上流：[第八章](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)（*問い 1 と問い 2；検証済み記録と軌跡測定*）。
 - 上流の指針：[第九章 §2](core_09_standing_integration.md#2-integration-record-and-decision-order) は、適格な違反軸の箱 7–9 の認定を、指定のみのためにここへ経路づける。
 - 本ファイル：違反軸 `s` = 7–9 についての最終の反憲法的不正行為指定；指定基準；適正手続の保障；第十三章から第十五章の境界。指名されたパターンの経路づけは [B部](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications) に続く。
-- 下流：[第九章](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)（*最終指定のあとの信頼ロックと軌跡効果の統合*）；[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*フォーラム経路づけと認証*）；[第十二章](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)（*統治正当性の帰結*）。
-- あわせて読む：[README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)；[第十三章から第十五章](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)（*変更経路の行為は基準 1–4 に関わりうる*）。
+- 下流：[第九章](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)（*最終指定のあとの信頼ロックと軌跡効果の統合*）；[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*フォーラム経路づけと認証*）；[第十二章](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)（*統治正当性の帰結*）。
+- あわせて読む：[README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)；[第十三章から第十五章](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)（*変更経路の行為は基準 1–4 に関わりうる*）。
 
 </details>
 
@@ -100,7 +100,7 @@
 - 保障と規律：[§4](#4-due-process-safeguards-for-slot-assignment)（*適正手続の保障、救済、および予防*）；[§4.1](#4-1-remedy-and-correction-anti-constitutional)（*救済と是正（反憲法的）*）；[§4.2](#4-2-prevention-anti-constitutional-locks)（*予防 — 反憲法的ロック*）；[§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional)（*自発的な公開説明責任の表明（反憲法的）*）。
 - パターン適用：[§5](core_10_b_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing)（*指名されたパターンは同じ指定基準へ経路づける*）。
 - 変更経路の境界：[§1](#1-cross-chapter-discipline)（*第十三章から第十五章の境界*）。
-- あわせて読む：[第十三章から第十五章](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) — **退行的欺瞞**および変更経路の行為が**基準 1–4** に関わりうるところ。
+- あわせて読む：[第十三章から第十五章](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) — **退行的欺瞞**および変更経路の行為が**基準 1–4** に関わりうるところ。
 - 四元の脚：**参加**、**監督**、**説明責任**、**適時性**（規模における四元の捕捉）。第一次の目的：**継続**（第一次）、**繁栄**。[実質的利害](core_00_preamble.md#material-stake)による尺度合わせは、保障と重大さに適用される。
 
 </details>
@@ -432,4 +432,4 @@
 
 **次のファイル（本言語）：** [core_10_b_misconduct_pattern_applications.md](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)
 
-**拘束力ある原文：** [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md)
+**拘束力ある原文：** [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md)

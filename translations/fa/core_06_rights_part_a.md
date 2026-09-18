@@ -46,7 +46,7 @@
 - بالادست: [فصل یکم §6 حل تعارض فرایند](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)؛ [فصل یکم §6.1.5 آزمون تصمیم تصادم حقوق](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
 - بالادست: [فصل یکم §11 هم‌راستایی انگیزه و تسخیر نظام](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture).
 - بالادست: فصل‌های دوم تا چهارم؛ تعریف‌های فصل پنجم.
-- پایین‌دست: **بخش‌های الف تا د** این فصل؛ [گواهی هم‌راستایی نظام](core_05_band_continuity.md#system-alignment-certification-constitutional)؛ [فصل هفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification).
+- پایین‌دست: **بخش‌های الف تا د** این فصل؛ [گواهی هم‌راستایی نظام](core_05_band_continuity.md#system-alignment-certification-constitutional)؛ [فصل هفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 - پایین‌دست: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)؛ [§1.2 گسترهٔ لایه](#12-layer-scope).
 - خوانده شود با: [پشتهٔ اختیار و سلسله‌مراتب درونی](core_05_band_integrative.md#owner-non-relocation) و [دیباچه — فهرست مثبت مالکان](core_00_preamble.md#4-principles-definitions-and-rights)؛ [اصل XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*حق اعتراض، بازبینی و جبران*).
 - خوانده شود با: [اصل XV](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*حسابرسی، شفافیت و راستی‌آزمایی مستقل*).
@@ -87,13 +87,13 @@
 
 کف حقوق باید در عمل کار کند، نه فقط روی کاغذ. ضروریات بقا زیر **اصل III-A** (*بقا*) — غذا، آب، سرپناه، محیط عملیات، و ورودی‌های هم‌تراز بدون‌تمایز بستر — روشن‌ترین نمونه است. **شکوفایی** دسترسی واقعی به آن ضروریات را می‌خواهد. **پیوستگی** تأمین اعتمادپذیر و غیرپس‌رونده در طول زمان را می‌خواهد، به‌ویژه جایی که نظام‌های مشترک تحویل را کنترل می‌کنند.
 
-[گواهی هم‌راستایی نظام](core_05_band_continuity.md#system-alignment-certification-constitutional) و [فصل هفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) راستی‌آزمایی می‌کنند آیا نظام‌های اثرگذار مادی پیش از بازشناسی یا اتکا در مقیاس هم‌راستایند. فصل هفتم همچنین قابلیت اعتراض سابقهٔ گواهی، بازبینی طرف اثرپذیر و دسترس‌پذیری، توالی نظارت، و مسیرهای اعتراض برای تصمیم‌های هم‌راستایی نظام را می‌دهد. **اصل XII** (*حق نظام‌های قابل‌اتکا و اعتمادپذیر*) حقوق اعتراض و حسابرسی را می‌دهد. **اصل XVIII-B** (*قابلیت اعتراض و حدهای محدودیت متناسب*) نمی‌گذارد حدهای ردپا درِ پشتی دور دسترسی حیاتی بقا شوند. با هم، [فصل هفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) و [زنجیرهٔ ردپا و نظارت مجمع فصل‌های هشتم تا یازدهم](../../README.md#standing-pipeline-and-forums) زنجیره‌های عملی فرایندهای کلیدی را برای قابلیت اعتراض، طبقه‌بندی راستی‌آزمایی‌شده، نظارت مجمع، و جبران به‌هنگام می‌سازند. آن سازوکارها به اجرای فصل ششم کمک می‌کنند. حقوق بیان‌شده اینجا را جایگزین، تنگ، یا جابه‌جا نمی‌کنند.
+[گواهی هم‌راستایی نظام](core_05_band_continuity.md#system-alignment-certification-constitutional) و [فصل هفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) راستی‌آزمایی می‌کنند آیا نظام‌های اثرگذار مادی پیش از بازشناسی یا اتکا در مقیاس هم‌راستایند. فصل هفتم همچنین قابلیت اعتراض سابقهٔ گواهی، بازبینی طرف اثرپذیر و دسترس‌پذیری، توالی نظارت، و مسیرهای اعتراض برای تصمیم‌های هم‌راستایی نظام را می‌دهد. **اصل XII** (*حق نظام‌های قابل‌اتکا و اعتمادپذیر*) حقوق اعتراض و حسابرسی را می‌دهد. **اصل XVIII-B** (*قابلیت اعتراض و حدهای محدودیت متناسب*) نمی‌گذارد حدهای ردپا درِ پشتی دور دسترسی حیاتی بقا شوند. با هم، [فصل هفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) و [زنجیرهٔ ردپا و نظارت مجمع فصل‌های هشتم تا یازدهم](../../README.md#standing-pipeline-and-forums) زنجیره‌های عملی فرایندهای کلیدی را برای قابلیت اعتراض، طبقه‌بندی راستی‌آزمایی‌شده، نظارت مجمع، و جبران به‌هنگام می‌سازند. آن سازوکارها به اجرای فصل ششم کمک می‌کنند. حقوق بیان‌شده اینجا را جایگزین، تنگ، یا جابه‌جا نمی‌کنند.
 
 **قطب‌های تفسیری.** مگر اصل مشخص‌تری قاعدهٔ دیگری بدهد، مسئله‌های تکرارشونده از راه این لنگرها مسیر می‌گیرند:
 
 **کف‌های حقوق و تأمین**
 - **ضروریات بقا و دسترس‌پذیر نگه داشتنشان** — **اصل III-A** (*بقا*)؛ **اصل XVIII-B** (*قابلیت اعتراض و حدهای محدودیت متناسب*) تا حدهای ردپا نتوانند دسترسی را مسدود کنند؛ خوانده با **اصل XII-B** (*حق اعتراض، بازبینی و جبران*) و **اصل XV** (*حسابرسی، شفافیت و راستی‌آزمایی مستقل*) جایی که اعتراض یا حسابرسی اعمال می‌شود
-- **گواهی هم‌راستایی نظام** — [گواهی هم‌راستایی نظام](core_05_band_continuity.md#system-alignment-certification-constitutional)؛ [فصل هفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)
+- **گواهی هم‌راستایی نظام** — [گواهی هم‌راستایی نظام](core_05_band_continuity.md#system-alignment-certification-constitutional)؛ [فصل هفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)
 
 **راستی‌آزمایی و جبران**
 - **سوابق حسابرسی و راستی‌آزمایی مستقل** — **اصل XV** (*حسابرسی، شفافیت و راستی‌آزمایی مستقل*) با **فصل‌های دوم تا چهارم**
@@ -101,7 +101,7 @@
 
 **اختلاف‌ها و فرایند به‌هنگام**
 - **عدالت، استرداد، مرزهای محدودیت، اضطرار، و تصادم حقوق** — **اصل XXIII** (*حل تعارض، تشدید، و تناسب اضطراری*)؛ [فصل یکم §6.1.5 آزمون تصمیم تصادم حقوق](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)
-- **زنجیره‌های عملی فرایندهای کلیدی** — **اصل XXIV-C** (*حل به‌هنگام و کف ضدتأخیر*)؛ [فصل هفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)؛ [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
+- **زنجیره‌های عملی فرایندهای کلیدی** — **اصل XXIV-C** (*حل به‌هنگام و کف ضدتأخیر*)؛ [فصل هفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)؛ [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
 
 ارجاع‌های کوتاه‌تر به آن موضوع‌ها در جاهای دیگر این فصل این لنگرها را در خود می‌گنجانند.
 
@@ -153,7 +153,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§2 هدف بنیادین: بهزیستی](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§3.1 ایمنی](core_01_a_values_principles.md#31-safety-harm-constraint)، و [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: فصل یکم [§2 هدف بنیادین: بهزیستی](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§3.1 ایمنی](core_01_a_values_principles.md#31-safety-harm-constraint)، و [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -178,7 +178,7 @@
 - **پیش‌شرط‌ها، یکپارچگی، و پایداری:** **پیش‌شرط‌های محیطی**، **یکپارچگی بوم‌شناختی**، و **پایداری** در فصل پنجم زیر این اصل عملیاتی‌اند.
   - نظام‌های طبیعی پشتیبان حیات منافع پیوستگی و یکپارچگی از آنِ خود دارند. آن منافع تفسیر را در کنار منافع حس‌مندان شکل می‌دهند.
   - آسیب مادی که این اصل را نقض کند — داوری‌شده زیر **پیش‌شرط‌های محیطی**، **یکپارچگی بوم‌شناختی**، و **پایداری** — غیرمنطبق است.
-  - آسیبی که الزام‌های محیطی نام‌گذاری‌شده در [سند پذیرش](../../core_15_amendment_ratification.md#102-instrument-of-adoption) پذیرنده یا در متن پیاده‌سازی ادغام‌شده درون گسترهٔ پذیرش را نقض کند نیز غیرمنطبق است.
+  - آسیبی که الزام‌های محیطی نام‌گذاری‌شده در [سند پذیرش](../../core_16_amendment_ratification.md#102-instrument-of-adoption) پذیرنده یا در متن پیاده‌سازی ادغام‌شده درون گسترهٔ پذیرش را نقض کند نیز غیرمنطبق است.
 - **تعامل حیات جانوری:** [حیات جانوری](core_05_band_participation.md#animal-life-constitutional) حوزهٔ حفاظت رفاه را میان **ردپای نظام‌های طبیعی** و کف حقوق فصل ششم برای حس‌مندان اشغال می‌کند.
   - کف‌های حداقل قساوت و رفاه را برای حیات جانوری زیر **منع طرد حس‌مندی** برقرار می‌کند جایی که آسیب رفاه‌مانند از نظر مادی درگیر باشد.
   - جایگزین درمان ارتباطی ارتقایافته یا داوری وضعیت حس‌مندی نیست جایی که سابقه از نظر مادی آن پرسش‌ها را درگیر کند.
@@ -204,7 +204,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§3.2 حقیقت](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [§6.2 قیدهای افشای معرفتی](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)، و [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: فصل یکم [§3.2 حقیقت](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [§6.2 قیدهای افشای معرفتی](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)، و [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -299,7 +299,7 @@
   
   سوابق تصمیم باید عدم‌قطعیت، فرض‌ها، حدهای شاهد، اختلاف‌نظر، و شکاف‌های مادی را آشکارا بیان کنند.
 - **حد نفع حاضر:** نفع حاضر مواجههٔ نامتناسب حس‌مندان آینده، نظام‌های حیاتی برای بازیابی بوم‌شناختی، یا شرایط بوم‌شناختی پشتیبان حیات را با آسیب مقیاس‌تمدن یا حیاتی بقا توجیه نمی‌کند.
-- **تدابیر نام‌گذاری‌شده:** کنشگرانی که زیر این اصل مجوز، ادامه، یا گسترش می‌خواهند باید در [سند پذیرش](../../core_15_amendment_ratification.md#102-instrument-of-adoption) یا در متن پیاده‌سازی ادغام‌شده درون گسترهٔ پذیرش، تدابیر کاهش، سقف، یا قطع متناسب با مسیر را نام گذاشته باشند — از جمله آسیب به نظام اقلیم به‌عنوان عامل [پیش‌شرط‌های محیطی](core_05_band_continuity.md#environmental-preconditions-constitutional). این اصل همچنان هدف عددی نمی‌گذارد. **اصل I-B** (*ردپای بوم‌شناختی و شفافیت*) زیربخش انتساب ردپا می‌ماند و همچنان به‌تنهایی کاهش نمی‌خواهد. ادامه بدون آن تدابیر نام‌گذاری‌شده تا وقتی مسیر معتبری زیر این اصل باز بماند غیرمنطبق است.
+- **تدابیر نام‌گذاری‌شده:** کنشگرانی که زیر این اصل مجوز، ادامه، یا گسترش می‌خواهند باید در [سند پذیرش](../../core_16_amendment_ratification.md#102-instrument-of-adoption) یا در متن پیاده‌سازی ادغام‌شده درون گسترهٔ پذیرش، تدابیر کاهش، سقف، یا قطع متناسب با مسیر را نام گذاشته باشند — از جمله آسیب به نظام اقلیم به‌عنوان عامل [پیش‌شرط‌های محیطی](core_05_band_continuity.md#environmental-preconditions-constitutional). این اصل همچنان هدف عددی نمی‌گذارد. **اصل I-B** (*ردپای بوم‌شناختی و شفافیت*) زیربخش انتساب ردپا می‌ماند و همچنان به‌تنهایی کاهش نمی‌خواهد. ادامه بدون آن تدابیر نام‌گذاری‌شده تا وقتی مسیر معتبری زیر این اصل باز بماند غیرمنطبق است.
 
 <a id="article-ii-material-stewardship-and-durable-use-integrity"></a>
 ### اصل II: مدیریت مسئولانهٔ مادی و یکپارچگی استفادهٔ ماندگار
@@ -344,7 +344,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§3.2 حقیقت](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [§6.1 اصول اصلی بده‌بستان](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، و [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: فصل یکم [§3.2 حقیقت](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [§6.1 اصول اصلی بده‌بستان](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، و [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -473,8 +473,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§3.1 ایمنی](core_01_a_values_principles.md#31-safety-harm-constraint)، [§6.1 اصول اصلی بده‌بستان](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، و [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- خوانده شود با: [اصل XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*حقوق حمل‌پذیری*)؛ [corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**؛ **CJS-3.17** (*اصطلاحات هم‌کنش‌پذیری، حمل‌پذیری، و یکپارچگی خروج*) و **CJS-3.18** (*اصطلاحات نگهداشت داده و یکپارچگی چرخهٔ عمر*)؛ [فصل یکم §11.6 مسئولیت جانشین و عدم‌گریز ساختار صوری](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape)؛ [فصل نهم §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) و [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority).
+- بالادست: اصول: فصل یکم [§3.1 ایمنی](core_01_a_values_principles.md#31-safety-harm-constraint)، [§6.1 اصول اصلی بده‌بستان](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، و [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- خوانده شود با: [اصل XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*حقوق حمل‌پذیری*)؛ [corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**؛ **CJS-3.17** (*اصطلاحات هم‌کنش‌پذیری، حمل‌پذیری، و یکپارچگی خروج*) و **CJS-3.18** (*اصطلاحات نگهداشت داده و یکپارچگی چرخهٔ عمر*)؛ [فصل یکم §11.6 مسئولیت جانشین و عدم‌گریز ساختار صوری](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape)؛ [فصل نهم §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) و [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
 
@@ -515,7 +515,7 @@
   - صدور یا واگذاری قابل‌استفادهٔ دادهٔ حیاتی پیوستگی زیر مسیرهای صدور افشاشده، حفظ‌شده در سراسر پنجره‌های خاموشی و مهاجرت — نه صرفاً وعدهٔ اختیاری برای کوشش.
   
   اپراتورها همچنان می‌توانند به استانداردهای قانون اساسی پایبند نگه داشته شوند وقتی رفتارشان به‌عنوان **سهل‌انگاری** زیر فصل پنجم واجد شرایط باشد — از جمله آسیبی که در طول زمان انباشته شود چون تکالیف نگهداری، پشتیبانی، یا پیوستگی نادیده گرفته شدند.
-- **تکالیف جانشین و ساختار صوری:** بازساختار، فروش، قیمومت، یا ورشکستگی به‌تنهایی تکالیف پیوستگی بیان‌شده در این اصل را خاموش نمی‌کند. خوانده شود با [فصل یکم §11.6 مسئولیت جانشین و عدم‌گریز ساختار صوری](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape) و [فصل نهم §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority).
+- **تکالیف جانشین و ساختار صوری:** بازساختار، فروش، قیمومت، یا ورشکستگی به‌تنهایی تکالیف پیوستگی بیان‌شده در این اصل را خاموش نمی‌کند. خوانده شود با [فصل یکم §11.6 مسئولیت جانشین و عدم‌گریز ساختار صوری](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape) و [فصل نهم §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 *اصل‌های همسایه:* **ترمیم** برای **اصل II** (*مدیریت مسئولانهٔ مادی و یکپارچگی استفادهٔ ماندگار*) قطب‌های تفسیری بیان‌شده در گشایش این فصل را دنبال می‌کند (اعتراض و جبران؛ عدالت و تشدید).
 
@@ -550,7 +550,7 @@
 
 - بالادست: اصول: فصل یکم [§2 هدف بنیادین: بهزیستی](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§3.1 ایمنی](core_01_a_values_principles.md#31-safety-harm-constraint)، و [فصل یکم §5 آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency).
 - خوانده شود با: خانوادهٔ اندازه‌گیری شکوفایی (*دسترسی کف بقا به‌عنوان اندازه‌گیری قانون اساسی*)؛ [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — **مشارکت** در تخصیص و مسیرهای اعتراض، **نظارت** و حسابرسی، **پاسخگویی** و جبران، **به‌هنگامی** زیر **اصل XXIV-C** (*حل به‌هنگام و کف ضدتأخیر*)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — **شکوفایی** (دسترسی ضروری بقا) و **پیوستگی** (تأمین ماندگار و تحویل غیرپس‌رونده).
-- پایین‌دست: [گواهی هم‌راستایی نظام](core_05_band_continuity.md#system-alignment-certification-constitutional) و [فصل هفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) جایی که نظام‌ها تحویل را دروازه یا نگه دارند؛ **اصل XII-B** (*حق اعتراض، بازبینی و جبران*)؛ **اصل XVIII-B** (*قابلیت اعتراض و حدهای محدودیت متناسب*)؛ [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
+- پایین‌دست: [گواهی هم‌راستایی نظام](core_05_band_continuity.md#system-alignment-certification-constitutional) و [فصل هفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) جایی که نظام‌ها تحویل را دروازه یا نگه دارند؛ **اصل XII-B** (*حق اعتراض، بازبینی و جبران*)؛ **اصل XVIII-B** (*قابلیت اعتراض و حدهای محدودیت متناسب*)؛ [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
 
 </details>
 
@@ -591,7 +591,7 @@
   
   آن قواعد می‌توانند تحویل را ساختار دهند. نباید برای شکست دسترسی حداقل به ضروریات بقا یا تحمیل طرد کینه‌توزانه خلاف **اصل‌های III** و **V** به‌کار روند.
   - جهت‌گیری مالی تفصیلی — از جمله قاعده که کارمزدها و هزینه‌ها نباید دسترسی حداقل به ورودی‌های مربوط به بقا را تضعیف کنند — توسط [**CI-9**](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) (*تکالیف نهادی گره به طبقه‌بندی*)، **CI-10** (*درآمد عمومی، کارمزدها، هزینه‌های تکرارشونده، و یکپارچگی صورتحساب*)، و **CI-11** (*مدیریت مسئولانهٔ منابع و یکپارچگی انگیزه*) اداره می‌شود.
-  - وقتی نظام‌هایی که حس‌مندان از نظر مادی به آن‌ها وابسته‌اند دسترسی به ضروریات بقا را تأمین، توزیع، قیمت‌گذاری، میزبانی، یا قطع کنند، [گواهی هم‌راستایی نظام](core_05_band_continuity.md#system-alignment-certification-constitutional) زیر [فصل هفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) اعمال می‌شود — و فرایندهای آن نظام‌ها نمی‌توانند برای تنگ کردن حقوق بیان‌شده اینجا به‌کار روند.
+  - وقتی نظام‌هایی که حس‌مندان از نظر مادی به آن‌ها وابسته‌اند دسترسی به ضروریات بقا را تأمین، توزیع، قیمت‌گذاری، میزبانی، یا قطع کنند، [گواهی هم‌راستایی نظام](core_05_band_continuity.md#system-alignment-certification-constitutional) زیر [فصل هفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) اعمال می‌شود — و فرایندهای آن نظام‌ها نمی‌توانند برای تنگ کردن حقوق بیان‌شده اینجا به‌کار روند.
   - این اصل الگوی تأمین واحد تجویز نمی‌کند. اشتغال، کارآفرینی، مبادلهٔ داوطلبانه، و دیگر فعالیت اقتصادی قانونی بالای هر کف بقا مجاز می‌مانند، مشروط به فصل یکم، فصل ششم، و اسناد ادغام‌شده — از جمله `corpus_systems.md` جایی که نظام‌های ساختاربازار یا تجاری پُراثر اعمال شوند.
 
 ارجاع متقابل: **اصل XXVI-D** (*دارایی و نظام‌های نامنطبق؛ انگیزه‌های تحویل داوطلبانه*) انضباط مدیریت مسئولانهٔ گذار برای پیوستگی محیط ضروری در سراسر گذار — جزئیات عملیاتی در [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) تا **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives)؛ **فصل پنجم** [*پیوستگی سکونت*](core_05_band_continuity.md#occupancy-continuity-constitutional)، [*منع کالایی‌سازی محیط ضروری*](core_05_band_continuity.md#essential-environment-non-commodification-constitutional)، و خوشهٔ فراخوانی مشترک در [**§3.7** *دسترسی نگهداری بدنی، شرایط ایمن، پیوستگی سکونت، پیش‌شرط‌های محیطی، پیوستگی فرهنگی، استراحت، و کف ضدجابه‌جایی*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) جایی که اعمال‌شدنی است.
@@ -788,7 +788,7 @@
 
 *اصل‌های همسایه:*
 
-- **وقتی گواهی اعمال می‌شود:** وقتی نظام‌های اثرگذار مادی زیرساخت مشترک یا وابستگی‌های بنیادینی را که نظام‌ها یا حس‌مندان دیگر به آن‌ها اتکا دارند تخصیص، مسیر، تأمین، یا از آن استخراج کنند، [گواهی هم‌راستایی نظام](core_05_band_continuity.md#system-alignment-certification-constitutional) زیر [فصل هفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) اعمال می‌شود.
+- **وقتی گواهی اعمال می‌شود:** وقتی نظام‌های اثرگذار مادی زیرساخت مشترک یا وابستگی‌های بنیادینی را که نظام‌ها یا حس‌مندان دیگر به آن‌ها اتکا دارند تخصیص، مسیر، تأمین، یا از آن استخراج کنند، [گواهی هم‌راستایی نظام](core_05_band_continuity.md#system-alignment-certification-constitutional) زیر [فصل هفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) اعمال می‌شود.
 - **عدم‌جایگزینی:** بازشناسی یا ادامهٔ اتکا نمی‌تواند جای انطباق **اصل IV-A** (*نقشه‌برداری وابستگی و شفافیت جریان منابع*) یا **اصل IV-B** (*انصاف میان‌سیستمی و پایداری*) بنشیند یا آن کف‌ها را تنگ کند.
 
 <a id="article-iv-a-dependency-mapping-and-resource-flow-transparency"></a>
@@ -796,9 +796,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§3.2 حقیقت](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [§10 حکمرانی زیر انضباط مدیریت مسئولانه](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- بالادست: اصول: فصل یکم [§3.2 حقیقت](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [§10 حکمرانی زیر انضباط مدیریت مسئولانه](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - خوانده شود با: خانوادهٔ اندازه‌گیری پیوستگی (*وابستگی و جریان‌های منابع به‌عنوان اندازه‌گیری قانون اساسی*)؛ [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — **نظارت** از راه نقشه‌های شفاف وابستگی و سوابق حسابرسی‌پذیر جریان منابع، **مشارکت** در بازبینی قابل‌اعتراض زیر **اصل XV-A** (*قابلیت حسابرسی و شاهد مشاهده‌پذیر*)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — **شکوفایی** (تخصیص دیدنی هزینه و نفع) و **پیوستگی** (دیدنی ماندن وابستگی در سراسر نظام‌های درحال‌تغییر).
-- پایین‌دست: [گواهی هم‌راستایی نظام](core_05_band_continuity.md#system-alignment-certification-constitutional) و [فصل هفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) جایی که نظام‌ها زیرساخت مشترک یا وابستگی‌های بنیادین را تخصیص، مسیر، تأمین، یا از آن استخراج کنند؛ **[corpus_systems.md](../../corpus_systems.md)**، **CS-9** (*مدیریت مسئولانهٔ تخصیص منابع و تأمین*)، و **CS-8** (*پایداری سازگار و تاب‌آوری زیست‌بوم*).
+- پایین‌دست: [گواهی هم‌راستایی نظام](core_05_band_continuity.md#system-alignment-certification-constitutional) و [فصل هفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) جایی که نظام‌ها زیرساخت مشترک یا وابستگی‌های بنیادین را تخصیص، مسیر، تأمین، یا از آن استخراج کنند؛ **[corpus_systems.md](../../corpus_systems.md)**، **CS-9** (*مدیریت مسئولانهٔ تخصیص منابع و تأمین*)، و **CS-8** (*پایداری سازگار و تاب‌آوری زیست‌بوم*).
 
 </details>
 
@@ -820,7 +820,7 @@
   - جریان‌های منابع؛
   - روابط غیرشفاف یا نامتقارن جایی که از نظر مادی مربوط باشد.
   
-  به‌روزرسانی‌ها باید در فاصله‌های متناسب با تغییر و اهمیت رخ دهند. این بازنمایی‌ها باید برای حسابرسی زیر **اصل XV-A** (*قابلیت حسابرسی و شاهد مشاهده‌پذیر*) در دسترس باشند. جایی که نظام از نظر مادی زیرساخت مشترک یا وابستگی‌های بنیادین را تخصیص، مسیر، تأمین، یا از آن استخراج کند، [گواهی هم‌راستایی نظام](core_05_band_continuity.md#system-alignment-certification-constitutional) زیر [فصل هفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) باید ارزیابی کند آیا **اصل IV-A** (*نقشه‌برداری وابستگی و شفافیت جریان منابع*) را برآورده می‌کنند — روی **سابقهٔ گواهی نظام** قابل‌اعتراض، نه صرفاً بر ادعای اپراتور.
+  به‌روزرسانی‌ها باید در فاصله‌های متناسب با تغییر و اهمیت رخ دهند. این بازنمایی‌ها باید برای حسابرسی زیر **اصل XV-A** (*قابلیت حسابرسی و شاهد مشاهده‌پذیر*) در دسترس باشند. جایی که نظام از نظر مادی زیرساخت مشترک یا وابستگی‌های بنیادین را تخصیص، مسیر، تأمین، یا از آن استخراج کند، [گواهی هم‌راستایی نظام](core_05_band_continuity.md#system-alignment-certification-constitutional) زیر [فصل هفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) باید ارزیابی کند آیا **اصل IV-A** (*نقشه‌برداری وابستگی و شفافیت جریان منابع*) را برآورده می‌کنند — روی **سابقهٔ گواهی نظام** قابل‌اعتراض، نه صرفاً بر ادعای اپراتور.
   
   مکانیک عملیاتی — نقشه‌های نظام‌های وابسته، شفافیت جریان، مقوله‌های تخصیص، و تنظیم سازگار — زیر **[corpus_systems.md](../../corpus_systems.md)**، **CS-9** (*مدیریت مسئولانهٔ تخصیص منابع و تأمین*)، و **CS-8** (*پایداری سازگار و تاب‌آوری زیست‌بوم*) مسیر می‌گیرد. فصل هفتم بیان می‌کند گواهی چه باید راستی‌آزمایی و ثبت کند؛ آن متن‌های پیاده‌سازی این کف را پیاده می‌کنند و نباید تنگش کنند.
 <a id="article-iv-b-cross-system-fairness-and-sustainability"></a>
@@ -828,10 +828,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§2 هدف بنیادین: بهزیستی](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§6.1 اصول اصلی بده‌بستان](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، و [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: فصل یکم [§2 هدف بنیادین: بهزیستی](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§6.1 اصول اصلی بده‌بستان](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، و [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - خوانده شود با: [*معماری حکمرانی، نظارت، وابستگی، تمرکززدایی، تمرکز، ساختار بازار، و یکپارچگی مسیر خروج*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (فراخوانی مشترک جایی که تمرکز، نظارت، وابستگی، ساختار اختیار حکمران، یا مسیرگذاری انگیزه با **§5** / **§5** و انضباط *تعامل آستانهٔ تمرکز* در متن عملیاتی زیر تلاقی کنند).
 - خوانده شود با: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — **مشارکت** در مسیرهای اعتراض و قابلیت اعتراض، **نظارت** و حسابرسی، **پاسخگویی** و بازبینی اصلاحی، **به‌هنگامی** زیر **اصل XXIV-C** (*حل به‌هنگام و کف ضدتأخیر*)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — **شکوفایی** (انصاف میان‌سیستمی و عدم‌استخراج) و **پیوستگی** (پایداری بلندمدت و تأمین زیست‌بوم).
-- پایین‌دست: [گواهی هم‌راستایی نظام](core_05_band_continuity.md#system-alignment-certification-constitutional) و [فصل هفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) جایی که انصاف میان‌سیستمی، تأمین زیست‌بوم، یا استخراج ماندگار از زیرساخت مشترک از نظر مادی محل نزاع باشد.
+- پایین‌دست: [گواهی هم‌راستایی نظام](core_05_band_continuity.md#system-alignment-certification-constitutional) و [فصل هفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) جایی که انصاف میان‌سیستمی، تأمین زیست‌بوم، یا استخراج ماندگار از زیرساخت مشترک از نظر مادی محل نزاع باشد.
 - درِ مدیریت مسئولانه (غیرعملیاتی): بیان الزام‌آور گام بعدی: [بیان عملیاتی مدیریت مسئولانه](#operative-steward-statement-cross-system-contribution). اشاره‌گرهای پشتیبانی نمی‌توانند تنگش کنند.
 
 </details>
@@ -869,7 +869,7 @@
   - بازسرمایه‌گذاری زیست‌بوم برای زیرساخت مشترک و هم‌کنش‌پذیری که نظام استخراج‌کننده به آن‌ها اتکا دارد؛ و
   - جبران یا ترمیم بار بوم‌شناختی جایی که [ردپای بوم‌شناختی](core_05_band_continuity.md#ecological-footprint) مادی تحمیل شود و حکم قانون اساسی، پروندهٔ پیاده‌سازی، یا سند پذیرش دیگری کنش بخواهد.
   
-  ورودی‌ها و خروجی‌ها را روی نقشه‌های نظام‌های وابسته و سوابق حسابرسی‌پذیر جریان منابع زیر **اصل IV-A** (*نقشه‌برداری وابستگی و شفافیت جریان منابع*) مقایسه کنید. جایی که نظام‌های اثرگذار مادی زیرساخت مشترک را تخصیص، مسیر، تأمین، یا از آن استخراج کنند، کفایت را از راه [گواهی هم‌راستایی نظام](core_05_band_continuity.md#system-alignment-certification-constitutional) زیر [فصل هفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) ارزیابی کنید. مکانیک عملیاتی تخصیص زیر **[corpus_systems.md](../../corpus_systems.md)**، **CS-9** (*مدیریت مسئولانهٔ تخصیص منابع و تأمین*)، و **CS-8** (*پایداری سازگار و تاب‌آوری زیست‌بوم*) مسیر می‌گیرد؛ آن لایه‌ها این کف را پیاده می‌کنند و نباید تنگش کنند.
+  ورودی‌ها و خروجی‌ها را روی نقشه‌های نظام‌های وابسته و سوابق حسابرسی‌پذیر جریان منابع زیر **اصل IV-A** (*نقشه‌برداری وابستگی و شفافیت جریان منابع*) مقایسه کنید. جایی که نظام‌های اثرگذار مادی زیرساخت مشترک را تخصیص، مسیر، تأمین، یا از آن استخراج کنند، کفایت را از راه [گواهی هم‌راستایی نظام](core_05_band_continuity.md#system-alignment-certification-constitutional) زیر [فصل هفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) ارزیابی کنید. مکانیک عملیاتی تخصیص زیر **[corpus_systems.md](../../corpus_systems.md)**، **CS-9** (*مدیریت مسئولانهٔ تخصیص منابع و تأمین*)، و **CS-8** (*پایداری سازگار و تاب‌آوری زیست‌بوم*) مسیر می‌گیرد؛ آن لایه‌ها این کف را پیاده می‌کنند و نباید تنگش کنند.
   
   عدم‌توازن‌های ماندگار که هم‌راستایی قانون اساسی را از نظر مادی تهدید کنند مشمول حسابرسی، اعتراض، و بازبینی اصلاحی زیر **اصل‌های IX، XII، XIV، و XVII**اند.
 - **تعامل آستانهٔ تمرکز بازار:** ترتیبات تخصیص منابع که تمرکز ثروت، قدرت، کنترل، یا فرصت را به شیوه‌هایی تولید یا نگه دارند که به‌طور پیش‌بینی‌پذیر بهزیستی، عاملیت، کرامت، یا یکپارچگی بوم‌شناختی حس‌مندان دیگر را تخریب کنند این‌ها را درگیر می‌کنند:

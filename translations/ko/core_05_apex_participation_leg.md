@@ -109,7 +109,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 하류: 참여 측정 가족 — 링크만인 롤업; 용어별 단계는 잎 정의에 산다 — [실체 공정](../../core_05_band_participation.md#substantive-fairness-constitutional), [보호 특성 대리와 차별 영향](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [접근성](../../core_05_band_participation.md#accessibility-constitutional), [교육 행위주체성](../../core_05_band_participation.md#educational-agency), [의미 있는 행위주체성](../../core_05_band_participation.md#meaningful-agency), 그리고 연속 띠의 [프라이버시(정보)](../../core_05_band_continuity.md#privacy-informational-cluster) 무리를 보라.
-- 함께 읽기: 제6장, [제7장](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification), 또는 편입 문서 — 구속력 있는 차별 금지, 정당한 편의제공, 교육, 또는 프라이버시 요건은 그 문서가 명시로 요구할 때 생긴다.
+- 함께 읽기: 제6장, [제7장](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification), 또는 편입 문서 — 구속력 있는 차별 금지, 정당한 편의제공, 교육, 또는 프라이버시 요건은 그 문서가 명시로 요구할 때 생긴다.
 
 </details>
 

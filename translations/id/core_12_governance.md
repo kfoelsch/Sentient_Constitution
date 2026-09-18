@@ -6,15 +6,15 @@
 
 > Isi berikut **hanya panduan pembaca**. Tidak menambah, mengurangi, atau mempersempit kewajiban yang mengikat di berkas ini atau di bab lain.
 >
-> Berkas ini adalah **uji coba bahasa pembaca** atas [Bab Dua Belas bahasa Inggris](../../core_12_governance.md). **Bukan** bagian mengikat Konstitusi Makhluk Sadar. **Bukan** konstitusi kedua. **Bukan** edisi kirim. **Disematkan** pada `SC-Corpus-2026.08.09`. Jika terjemahan ini dan sumber bahasa Inggris tampak berselisih, berkas bernomor [`core_12_governance.md`](../../core_12_governance.md) yang menang. Urutan baca dan metadata edisi tetap di [README.md](../../README.md). Metode dan glosarium: [translations/id/README.md](README.md).
+> Berkas ini adalah **uji coba bahasa pembaca** atas [Bab Dua Belas bahasa Inggris](../../core_13_governance.md). **Bukan** bagian mengikat Konstitusi Makhluk Sadar. **Bukan** konstitusi kedua. **Bukan** edisi kirim. **Disematkan** pada `SC-Corpus-2026.08.09`. Jika terjemahan ini dan sumber bahasa Inggris tampak berselisih, berkas bernomor [`core_12_governance.md`](../../core_13_governance.md) yang menang. Urutan baca dan metadata edisi tetap di [README.md](../../README.md). Metode dan glosarium: [translations/id/README.md](README.md).
 >
-> Berisi **Bab Dua Belas**, **Lapisan Kontrak Konstitusional** — persyaratan keabsahan konstitusional dan pengelolaan bertanggung jawab bagi wewenang memerintah, berbeda dari **Partisipasi Sistemik Pihak Terdampak** di dalam sistem yang sudah diizinkan ([Pembukaan](core_00_preamble.md#chapter-00-preamble--foundational-requirements)). Kontrol keabsahan amandemen dan adopsi berlanjut di [Bab Tiga Belas sampai Lima Belas](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity). Penomoran bab dan rujukan silang cocok dengan instrumen terpadu.
+> Berisi **Bab Dua Belas**, **Lapisan Kontrak Konstitusional** — persyaratan keabsahan konstitusional dan pengelolaan bertanggung jawab bagi wewenang memerintah, berbeda dari **Partisipasi Sistemik Pihak Terdampak** di dalam sistem yang sudah diizinkan ([Pembukaan](core_00_preamble.md#chapter-00-preamble--foundational-requirements)). Kontrol keabsahan amandemen dan adopsi berlanjut di [Bab Tiga Belas sampai Lima Belas](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity). Penomoran bab dan rujukan silang cocok dengan instrumen terpadu.
 
 
 >
-> **Sebelumnya (masih bahasa Inggris):** [core_11_forum.md](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
+> **Sebelumnya (masih bahasa Inggris):** [core_11_forum.md](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction)
 >
-> **Berikutnya (masih bahasa Inggris):** [core_13_non_regression.md](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)
+> **Berikutnya (masih bahasa Inggris):** [core_13_non_regression.md](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)
 > **Alur baca:** §0 batas lapisan → §1 izin/keabsahan → §1.1 keluarga mekanisme → §1.2 kelayakan/minimum demokratis → §1.3 kelas-penarikan → §2 budaya integritas → §3 arah pengelolaan bertanggung jawab → §4 pemungutan suara/pilihan kolektif → §5 peran yang diizinkan
 </details>
 
@@ -65,7 +65,7 @@ Bab ini menyatakan **Lapisan Kontrak Konstitusional**: persyaratan keabsahan kon
 
 - Hulu: Prinsip: [Bab Satu §5 Kebebasan](core_01_a_values_principles.md#5-freedom-bounded-agency), [§9 Pengelolaan Bertanggung Jawab dan Pemahaman Terdistribusi](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [5. Penyelesaian Konflik Proses](#6-process-conflict-resolution); [Bab Dua Belas §0](#0-layer-boundary-for-this-chapter).
 - Subbagian: [§1.1](#11-mechanism-families-auditability-and-pluralism) (*Keluarga mekanisme, dapat diaudit, dan pluralisme*); [§1.2](#12-eligibility-contested-selection-and-democratic-minimums) (*Kelayakan, seleksi yang disengketakan, dan minimum demokratis*); [§1.3](#13-recall-class-pathways-and-mid-cycle-transfer-guardrails) (*Jalur bernama kelas-penarikan dan pagar pengaman pemindahan pertengahan-siklus*).
-- Hilir: Kewajiban integritas, strategi, pemungutan suara, dan peran di bawah [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale); adopsi dan ratifikasi di bawah [Bab Lima Belas](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity); keabsahan, partisipasi, dan dapat-digugat di Bab Enam — terutama [Pasal XI-C: Gerbang Keabsahan dan Anti-Partisipasi Token](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation), [Pasal XVIII: Jejak dan Status Partisipasi](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status), dan pasal ekspresi, berkumpul, serta keadilan prosedural yang dikunci di poin operatif di bawah.
+- Hilir: Kewajiban integritas, strategi, pemungutan suara, dan peran di bawah [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale); adopsi dan ratifikasi di bawah [Bab Lima Belas](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity); keabsahan, partisipasi, dan dapat-digugat di Bab Enam — terutama [Pasal XI-C: Gerbang Keabsahan dan Anti-Partisipasi Token](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation), [Pasal XVIII: Jejak dan Status Partisipasi](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status), dan pasal ekspresi, berkumpul, serta keadilan prosedural yang dikunci di poin operatif di bawah.
 - Baca bersama: kait **korpus** dan **[corpus_systems.md](../../corpus_systems.md)** yang ditunjuk di bagian ini ([corpus_systems.md](../../corpus_systems.md), [corpus_institutions.md](../../corpus_institutions.md)).
 
 </details>
@@ -176,7 +176,7 @@ Keluarga mekanisme, penerbitan, dapat-diaudit, dan pluralisme ditangani di **§1
 
 **Lantai independensi pengangkatan forum**
 
-- Forum [**Integritas**](../../core_11_forum.md#45-integrity-forums), [**Konstitusional**](../../core_11_forum.md#46-constitutional-forums), dan [**Lingkungan**](../../core_11_forum.md#44-environment-forums), serta [**Ranah Forum Teknis**](../../core_11_forum.md#42-technical-forum-domains) ketika mereka mendengar ajudikasi status-kesadaran, harus diisi lewat pengangkatan **terbit**, **disengketakan**, **dapat-dirotasi** atau pemeriksaan independensi setara (sortisi, penunjukan terfederasi, atau sebanding).
+- Forum [**Integritas**](../../core_12_forum.md#45-integrity-forums), [**Konstitusional**](../../core_12_forum.md#46-constitutional-forums), dan [**Lingkungan**](../../core_12_forum.md#44-environment-forums), serta [**Ranah Forum Teknis**](../../core_12_forum.md#42-technical-forum-domains) ketika mereka mendengar ajudikasi status-kesadaran, harus diisi lewat pengangkatan **terbit**, **disengketakan**, **dapat-dirotasi** atau pemeriksaan independensi setara (sortisi, penunjukan terfederasi, atau sebanding).
 - Lantai ini **netral-mekanisme**: ia tidak mewajibkan satu jenis poltas atau satu metode pengangkatan.
 - Kegagalan mengangkat atau mendanai majelis forum itu sampai lantai daya-tahan sistem-pemulihan [Bab Sembilan §9.2](core_09_standing_integration.md#92-remedy-system-durability) adalah kegagalan keabsahan dan pemulihan, bukan celah yang boleh dibiarkan terbuka oleh implementasi.
 - Mekanika pengangkatan, kompetensi, rotasi, dan pemindahan diatur oleh [**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Pengangkatan, kompetensi, rotasi, dan pemindahan*); **CI-4** tidak boleh mempersempit lantai ini.
@@ -303,7 +303,7 @@ Indikator proksi (keuangan atau lainnya) boleh menginformasikan keputusan hanya 
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hulu: mekanisme keabsahan terdokumentasi [§1](#1-authorization-and-legitimacy-of-governing-authority); keselarasan pengelolaan bertanggung jawab bagi keputusan kolektif [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
-- Hilir: Subbagian [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice); instrumen adopsi, supremasi, dan non-regresi di [Bab Tiga Belas sampai Lima Belas](../../core_13_non_regression.md) sebagaimana diringkas dalam catatan **Rujukan silang (Bab Dua Belas)** di akhir bagian ini.
+- Hilir: Subbagian [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice); instrumen adopsi, supremasi, dan non-regresi di [Bab Tiga Belas sampai Lima Belas](../../core_14_non_regression.md) sebagaimana diringkas dalam catatan **Rujukan silang (Bab Dua Belas)** di akhir bagian ini.
 - Baca bersama: [Bab Enam](core_06_rights_part_a.md#chapter-six-foundational-rights), terutama [Pasal XI: Partisipasi Sistemik Pihak Terdampak, Perwakilan, dan Proses yang Semestinya](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) dan subpasal terkait yang dikutip di §4.
 
 </details>
@@ -478,8 +478,8 @@ Pengelolaan bertanggung jawab dan operasi material menuntut **makhluk sadar** ya
 
 ---
 
-**Berkas sebelumnya (masih bahasa Inggris):** [core_11_forum.md](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
+**Berkas sebelumnya (masih bahasa Inggris):** [core_11_forum.md](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction)
 
-**Berkas berikutnya (masih bahasa Inggris):** [core_13_non_regression.md](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)
+**Berkas berikutnya (masih bahasa Inggris):** [core_13_non_regression.md](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)
 
-**Sumber mengikat:** [core_12_governance.md](../../core_12_governance.md)
+**Sumber mengikat:** [core_12_governance.md](../../core_13_governance.md)

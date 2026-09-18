@@ -6,15 +6,15 @@
 
 > Следующее содержание — **только ориентир для читателя**. Оно не добавляет, не снимает и не сужает связывающих обязанностей в этом файле или в других главах.
 >
-> Этот файл — **пилот читательского языка** [английской Главы двенадцатой](../../core_12_governance.md). **Не** является связывающей частью Конституции сентентов. **Не** является второй конституцией. **Не** является изданием к отправке. **Закреплён** за `SC-Corpus-2026.08.09`. Если этот перевод и английский оригинал кажутся расходящимися, побеждает нумерованный файл [`core_12_governance.md`](../../core_12_governance.md). Порядок чтения и метаданные издания ведутся в [README.md](../../README.md). Метод и глоссарий: [translations/ru/README.md](README.md).
+> Этот файл — **пилот читательского языка** [английской Главы двенадцатой](../../core_13_governance.md). **Не** является связывающей частью Конституции сентентов. **Не** является второй конституцией. **Не** является изданием к отправке. **Закреплён** за `SC-Corpus-2026.08.09`. Если этот перевод и английский оригинал кажутся расходящимися, побеждает нумерованный файл [`core_12_governance.md`](../../core_13_governance.md). Порядок чтения и метаданные издания ведутся в [README.md](../../README.md). Метод и глоссарий: [translations/ru/README.md](README.md).
 >
-> Он содержит **Главу двенадцатую**, **Слой конституционного договора** — требования конституционной легитимности и ответственного управления для управляющей власти, отличные от **Системного участия затрагиваемых сторон** внутри уже уполномоченных систем ([Преамбула](core_00_preamble.md#chapter-00-preamble--foundational-requirements)). Контроли действительности поправки и принятия продолжаются в [Главах с тринадцатой по пятнадцатую](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity). Нумерация глав и перекрёстные ссылки соответствуют интегрированному инструменту.
+> Он содержит **Главу двенадцатую**, **Слой конституционного договора** — требования конституционной легитимности и ответственного управления для управляющей власти, отличные от **Системного участия затрагиваемых сторон** внутри уже уполномоченных систем ([Преамбула](core_00_preamble.md#chapter-00-preamble--foundational-requirements)). Контроли действительности поправки и принятия продолжаются в [Главах с тринадцатой по пятнадцатую](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity). Нумерация глав и перекрёстные ссылки соответствуют интегрированному инструменту.
 
 
 >
 > **Предыдущий (этот язык):** [core_11_forum.md](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
 >
-> **Следующий (ещё на английском):** [core_13_non_regression.md](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)
+> **Следующий (ещё на английском):** [core_13_non_regression.md](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)
 > **Дуга чтения:** §0 граница слоя → §1 уполномочивание/легитимность → §1.1 семьи механизмов → §1.2 пригодность/демократические минимумы → §1.3 класс отзыва → §2 культура целостности → §3 направление ответственного управления → §4 голосование/коллективный выбор → §5 уполномоченные роли
 </details>
 
@@ -65,7 +65,7 @@
 
 - Исход: Принципы: [Глава первая §5 Свобода](core_01_a_values_principles.md#5-freedom-bounded-agency), [§9 Ответственное управление и распределённое понимание](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [5. Разрешение процессуальных конфликтов](#6-process-conflict-resolution); [Глава двенадцатая §0](#0-layer-boundary-for-this-chapter).
 - Подразделы: [§1.1](#11-mechanism-families-auditability-and-pluralism) (*Семьи механизмов, аудитируемость и плюрализм*); [§1.2](#12-eligibility-contested-selection-and-democratic-minimums) (*Пригодность, оспариваемый отбор и демократические минимумы*); [§1.3](#13-recall-class-pathways-and-mid-cycle-transfer-guardrails) (*Пути класса отзыва и ограждения передачи в середине цикла*).
-- Назначение: обязанности целостности, стратегии, голосования и роли под [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale); принятие и ратификация под [Главой пятнадцатой](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity); легитимность, участие и оспоримость в Главе шестой — особенно [Статья XI-C: Ворота легитимности и антитокенное участие](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation), [Статья XVIII: Траектория и статус участия](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status), и статьи выражения, собрания и процедурной справедливости, указанные в оперативных маркированных пунктах ниже.
+- Назначение: обязанности целостности, стратегии, голосования и роли под [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale); принятие и ратификация под [Главой пятнадцатой](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity); легитимность, участие и оспоримость в Главе шестой — особенно [Статья XI-C: Ворота легитимности и антитокенное участие](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation), [Статья XVIII: Траектория и статус участия](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status), и статьи выражения, собрания и процедурной справедливости, указанные в оперативных маркированных пунктах ниже.
 - Читать вместе с: назначенными крючками **корпуса** и **[corpus_systems.md](../../corpus_systems.md)**, названными в этом разделе ([corpus_systems.md](../../corpus_systems.md), [corpus_institutions.md](../../corpus_institutions.md)).
 
 </details>
@@ -303,7 +303,7 @@
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Исход: документированный механизм легитимности [§1](#1-authorization-and-legitimacy-of-governing-authority); согласование ответственного управления для коллективных решений [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
-- Назначение: Подразделы [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice); инструменты принятия, верховенства и нерегрессии в [Главах с тринадцатой по пятнадцатую](../../core_13_non_regression.md), как резюмировано в примечании **Перекрёстная ссылка (Глава двенадцатая)** в конце этого раздела.
+- Назначение: Подразделы [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice); инструменты принятия, верховенства и нерегрессии в [Главах с тринадцатой по пятнадцатую](../../core_14_non_regression.md), как резюмировано в примечании **Перекрёстная ссылка (Глава двенадцатая)** в конце этого раздела.
 - Читать вместе с: [Глава шестая](core_06_rights_part_a.md#chapter-six-foundational-rights), особенно [Статья XI: Системное участие затрагиваемых сторон, представительство и надлежащая процедура](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) и связанные подстатьи, цитируемые в §4.
 
 </details>
@@ -480,6 +480,6 @@
 
 **Предыдущий файл (этот язык):** [core_11_forum.md](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
 
-**Следующий файл (ещё на английском):** [core_13_non_regression.md](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)
+**Следующий файл (ещё на английском):** [core_13_non_regression.md](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)
 
-**Связывающий оригинал:** [core_12_governance.md](../../core_12_governance.md)
+**Связывающий оригинал:** [core_12_governance.md](../../core_13_governance.md)

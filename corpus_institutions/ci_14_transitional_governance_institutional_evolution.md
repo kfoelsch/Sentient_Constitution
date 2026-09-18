@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Sixteen](../core_16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-14** (*Transitional governance and institutional evolution*).
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-14** (*Transitional governance and institutional evolution*).
 >
 > Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-14.1: Interface — **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) (non-compliant property, seizure, voluntary incentives)](#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives); [CI-14.2: **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — trigger catalog, anti-abuse metrics, and publication requirements](#ci-142-article-xxvi-d-trigger-catalog-anti-abuse-metrics-and-publication-requirements); [CI-14.3: **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — operative transition-scoped remediation requirements](#ci-143-article-xxvi-d-operative-transition-scoped-remediation-requirements).
 - Read with: **CI-14**; **CI-14.1**; **CI-14.2**; **CI-14.3**; **CI-5**; **CI-11**; [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router.
 - Topic routing (mandatory read-with): **CJS-R11** (*Forum continuity*) in **CJS-0.1** (*Topic router*); primary owner **CF-12**.
@@ -123,7 +123,7 @@ For **Class A**, **Class B**, and **Critical System Steward** scope, connect to 
 
 Institutions must publish which of the following apply in scope, with local procedure links:
 
-- **Compliance-linked deprivation** — seizure, impoundment, quarantine, or disposition tied to a **Chapter Eight**-consistent or equivalent binding finding of non-compliance with applicable rules, with notice and contest paths as **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) requires.
+- **Compliance-linked deprivation** — seizure, impoundment, quarantine, or disposition tied to a **Chapter Nine**-consistent or equivalent binding finding of non-compliance with applicable rules, with notice and contest paths as **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) requires.
 - **Remedial containment** — proportionate holding or restriction to stop ongoing harm, preserve evidence under [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation), or prevent flight of assets, distinguished from retaliatory economic stripping.
 - **Voluntary turnover incentive** — time-bounded, published incentive for good-faith voluntary transfer or verified reporting that enables lawful remediation, with **Article XXVI-B** (*Transitional Authority Limits and Reauthorization*) reauthorization rules.
 
@@ -161,7 +161,7 @@ Institutions must publish or provide stakeholder-facing summaries on a fixed cad
 
 <br>
 
-*In plain terms: **CI-14.3** is the operational half of **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — what institutions actually do when transition plans touch non-compliant property or systems. The constitutional floor lives in **Chapter Six**; this subsection states scope, permitted measures, notice and contest mechanics, remedial standards, voluntary-program operation, and the custody items adopters must publish locally. It must not narrow **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*), **Chapter Eight**, or **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*).*
+*In plain terms: **CI-14.3** is the operational half of **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — what institutions actually do when transition plans touch non-compliant property or systems. The constitutional floor lives in **Chapter Six**; this subsection states scope, permitted measures, notice and contest mechanics, remedial standards, voluntary-program operation, and the custody items adopters must publish locally. It must not narrow **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*), **Chapter Nine**, or **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*).*
 
 **Constitutional home:** **Chapter Six**, **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*). This subsection is **implementation-only**; it does not restate the Rights Floor.
 
@@ -174,7 +174,7 @@ A **documented transition plan** under **Article XXVI-A** (*Phased Adoption and 
 - systems within **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*);
 - instrumentalities whose **predominant readily foreseeable use** sustains **known non-compliant** operation at material risk.
 
-**Permitted measures (only with procedural safeguards):** **Seizure**, **impoundment**, **quarantine from shared infrastructure**, or comparable **lawful custody transfer** is permitted **only** when procedural pathways satisfy **Article XI-A** (*Stakeholder System Participation and Representation*) and **Chapter Eight** where applicable.
+**Permitted measures (only with procedural safeguards):** **Seizure**, **impoundment**, **quarantine from shared infrastructure**, or comparable **lawful custody transfer** is permitted **only** when procedural pathways satisfy **Article XI-A** (*Stakeholder System Participation and Representation*) and **Chapter Nine** where applicable.
 
 **Necessity and proportionality:** **Necessity**, **Proportionality**, and the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](../core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) must be demonstrable, including:
 
@@ -212,7 +212,7 @@ Time-bounded, published incentives for **good-faith voluntary turnover** or **ve
 
 **Implementation custody (local publication required)**
 
-Each institution in scope must publish local procedures for the following, and must **not** narrow **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*), **Chapter Eight**, or **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) meaning:
+Each institution in scope must publish local procedures for the following, and must **not** narrow **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*), **Chapter Nine**, or **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) meaning:
 
 - triggers;
 - valuation;

@@ -6,7 +6,7 @@ Plain-language grouped index derived from [corpus_joint_structure/cjs_00_registr
 
 ## Forum operations
 
-- **Forum chambers, divisions, and designated panels (Chapter Eleven families)** — Start: [CF-3 — Forum formation, forum-structure mapping, and chamber structure](../../corpus_forum/cf_03_forum_formation_chamber_structure.md). Also read: **CJS-2.1**, **CJS-2.5**, **CJS-3.13**, **CI-9.3**.
+- **Forum chambers, divisions, and designated panels (Chapter Twelve families)** — Start: [CF-3 — Forum formation, forum-structure mapping, and chamber structure](../../corpus_forum/cf_03_forum_formation_chamber_structure.md). Also read: **CJS-2.1**, **CJS-2.5**, **CJS-3.13**, **CI-9.3**.
 - **Lawful panel formation, disclosure, recusal, substitution, inability-to-form** — Start: [CF-4 — Panel formation, disclosure, recusal, and lawful bench constitution](../../corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md). Also read: **CJS-2.5**, **CJS-3.13**, **CI-4**, **CI-5**.
 - **Routing, intake, transfer, certification, representative treatment** — Start: [CF-5 — Routing operations, transfer, certification, and representative treatment](../../corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md). Also read: **CJS-2.5**, **CJS-3.13**, **CI-8**.
 - **Appeal, secondary review, exhaustion** — Start: [CF-6 — Appeal, secondary review, and exhaustion pathways](../../corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md). Also read: **CI-6**, **CJS-3.13**.

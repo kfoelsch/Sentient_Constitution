@@ -7,7 +7,7 @@
 
 > नीचे की सामग्री **केवल पाठक मार्गदर्शन** है। यह इस फ़ाइल या अन्य अध्यायों में बाध्यकारी कर्तव्यों को जोड़ती, घटाती या संकीर्ण नहीं करती।
 >
-> यह फ़ाइल [अंग्रेज़ी अध्याय सात, भाग ख](../../core_07_b_system_alignment_certification_record_process.md) का **पाठक-भाषा पायलट** है। यह संज्ञ संविधान का **बाध्यकारी भाग नहीं** है। यह **दूसरा संविधान नहीं** है। यह **प्रेषण संस्करण नहीं** है। यह `SC-Corpus-2026.08.09` से **जुड़ी** है। यदि यह अनुवाद और अंग्रेज़ी मूल में अंतर दिखे, तो क्रमांकित [`core_07_b_system_alignment_certification_record_process.md`](../../core_07_b_system_alignment_certification_record_process.md) जीतता है। पढ़ने का क्रम और संस्करण मेटाडेटा [README.md](../../README.md) में रहते हैं। विधि और शब्द-सूची: [translations/hi/README.md](README.md)।
+> यह फ़ाइल [अंग्रेज़ी अध्याय सात, भाग ख](../../core_08_b_system_alignment_certification_record_process.md) का **पाठक-भाषा पायलट** है। यह संज्ञ संविधान का **बाध्यकारी भाग नहीं** है। यह **दूसरा संविधान नहीं** है। यह **प्रेषण संस्करण नहीं** है। यह `SC-Corpus-2026.08.09` से **जुड़ी** है। यदि यह अनुवाद और अंग्रेज़ी मूल में अंतर दिखे, तो क्रमांकित [`core_07_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md) जीतता है। पढ़ने का क्रम और संस्करण मेटाडेटा [README.md](../../README.md) में रहते हैं। विधि और शब्द-सूची: [translations/hi/README.md](README.md)।
 >
 > इसमें **अध्याय सात, भाग ख** है — प्रमाणन **अभिलेख** की अंतर्वस्तु, पारदर्शिता और चुनौती-योग्यता, मंच घटक भूमिकाएँ, पर्यवेक्षी क्रम, प्रस्थिति सेतु, और पुनर्खोल (**§11–§16**, भाग क §1–§10 से जारी)। **भाग क** — आकलन अपेक्षाएँ — [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md) में है।
 >
@@ -30,7 +30,7 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - ऊर्ध्व: [भाग क §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*प्रमाणन उद्देश्य और आकलन मार्गचित्र*); [भाग क §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) से [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*अभिलेख के लिए आकलन निर्गम*); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims)।
-- अधो: [§11](#11-certification-record) से [§16](#16-reopening-drift-and-non-evasion); [अध्याय आठ](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); [अध्याय ग्यारह](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)।
+- अधो: [§11](#11-certification-record) से [§16](#16-reopening-drift-and-non-evasion); [अध्याय आठ](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model); [अध्याय ग्यारह](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)।
 - साथ पढ़ें: [corpus_forum.md](../../corpus_forum.md), **CF-5** और **CF-7**।
 
 </details>
@@ -392,7 +392,7 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - ऊर्ध्व: [§11](#11-certification-record) से [§13](#13-forum-supervision-and-component-roles) (*प्रमाणन अभिलेख और मंच पर्यवेक्षण*); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims); [प्रस्थिति के लिए सत्यापित निवेश](core_05_band_accountability.md#verified-inputs-for-standing)।
-- अधो: [अध्याय आठ](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*प्रस्थिति अभिलेख और सत्यापित-निवेश द्वार*); [अध्याय नौ](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*प्रस्थिति प्रभाव और एकीकरण*)।
+- अधो: [अध्याय आठ](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*प्रस्थिति अभिलेख और सत्यापित-निवेश द्वार*); [अध्याय नौ](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*प्रस्थिति प्रभाव और एकीकरण*)।
 - साथ पढ़ें: **अनुच्छेद III-A** (*उत्तरजीविता-आवश्यक पहुँच जहाँ प्रमाणन वितरण द्वार लगाए*)।
 
 </details>
@@ -450,8 +450,8 @@
 
 - प्रमाणन अभिलेख प्रस्थिति प्रभाव **लागू नहीं** करता;
 - यह अध्याय केवल **प्रणाली-संरेखण प्रमाणन और संबंधित अभिलेख** का स्वामी है — देखें [प्रस्तावना — सकारात्मक स्वामी पंजी](core_00_preamble.md#4-principles-definitions-and-rights), [प्राधिकार ढेर और आंतरिक पदानुक्रम](core_05_band_integrative.md#authority-stack) के साथ पढ़ी;
-- [अध्याय आठ](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) प्रस्थिति अभिलेख और अक्ष-शुद्ध मापन का स्वामी है;
-- [अध्याय नौ](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) प्रस्थिति एकीकरण और प्रभाव का स्वामी है;
+- [अध्याय आठ](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) प्रस्थिति अभिलेख और अक्ष-शुद्ध मापन का स्वामी है;
+- [अध्याय नौ](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) प्रस्थिति एकीकरण और प्रभाव का स्वामी है;
 - यह अध्याय सत्यापित निवेश केवल ऊपर के द्वार से दे सकता है;
 - उसे अध्याय आठ या अध्याय नौ स्वामी कर्तव्य निगलने, पुनः कहने, या स्थानांतरित नहीं करने चाहिए।
 
@@ -466,7 +466,7 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - ऊर्ध्व: [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*गलत वर्गीकरण और विसंरेखण*); [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*जोखिम-आकलन और जोखिम-प्रकटीकरण दोष*); [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) (*पदचिह्न मिथ्याप्रस्तुति और विसंरेखण*); [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) (*संसाधन-प्रवाह मिथ्याप्रस्तुति, निष्कर्षण विसंरेखण, और समर्थन अपर्याप्तता*); [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) (*भेदभाव-पैटर्न विसंरेखण और स्थानापन्न बचाव*); [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) (*सुगम्यता विसंरेखण और केवल-कागज़ अनुकूलन*); [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) (*आकलन-अस्पष्टता विसंरेखण, प्रमाण द्वारपाल, और थोपी गई-अप्रचलन विसंरेखण*); [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*मिथ्या-विश्वास विसंरेखण, विकृत-प्रोत्साहन विसंरेखण, और पुनर्प्राप्ति-अखंडता विसंरेखण*); [§12](#12-transparency-auditability-and-contestability) (*चुनौती-योग्यता*); [§14](#14-supervisory-sequence-and-contestability-chain) (*विश्वसनीय चुनौती और पुनर्खोल*); [अध्याय तीन §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) और [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*परिभाषा अखंडता और बचाव*); [अध्याय तीन §2.1 सामान्य बचाव पैटर्न](core_03_definition_integrity.md#21-common-evasion-patterns) (*दायरा-और-सीमा बचाव*); [चार्टर](core_05_band_continuity.md#charter) (*चार्टर–आचरण बेमेल और अतिदेय समीक्षा*)।
-- अधो: [अध्याय ग्यारह](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*पुनर्खोला मंच पर्यवेक्षण*); [अध्याय आठ](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*सत्यापित-निवेश द्वार जहाँ तथ्य प्रतिकूल निष्कर्ष सहारा दें*)।
+- अधो: [अध्याय ग्यारह](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*पुनर्खोला मंच पर्यवेक्षण*); [अध्याय आठ](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*सत्यापित-निवेश द्वार जहाँ तथ्य प्रतिकूल निष्कर्ष सहारा दें*)।
 - साथ पढ़ें: [corpus_systems.md](../../corpus_systems.md) (*समाविष्ट प्रणाली कार्यान्वयन कर्तव्य*), सहित **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*पुनर्वर्गीकरण और जीवनचक्र शासन*) आवधिक डेटा-प्रकार पुनर्मूल्यांकन के लिए, और **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*पुनर्वर्गीकरण अपेक्षा*) प्रणाली-वर्ग पुनर्मूल्यांकन ट्रिगर और SAC सत्यापन के लिए।
 
 </details>
@@ -515,4 +515,4 @@
 
 **अगली फ़ाइल (इस भाषा में):** [core_08_standing_assessment.md](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)
 
-**बाध्यकारी मूल:** [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md)
+**बाध्यकारी मूल:** [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md)

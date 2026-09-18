@@ -7,7 +7,7 @@
 
 > கீழே உள்ள உள்ளடக்கம் **வாசிப்பவருக்கான வழிகாட்டல் மட்டும்**. இது இந்தக் கோப்பிலோ பிற அத்தியாயங்களிலோ பிணைக்கும் கடமைகளைச் சேர்க்கவோ, குறைக்கவோ, சுருக்கவோ செய்யாது.
 >
-> இந்தக் கோப்பு [ஆங்கில அத்தியாயம் ஏழு, பகுதி ஆவின்](../../core_07_b_system_alignment_certification_record_process.md) **வாசிப்பு-மொழி முன்னோடி**. இது உணர்வுள்ளோர் அரசியலமைப்பின் **பிணைக்கும் பகுதி அல்ல**. இது **இரண்டாவது அரசியலமைப்பு அல்ல**. இது **அனுப்பும் பதிப்பு அல்ல**. இது `SC-Corpus-2026.08.09`-இல் **பொருத்தப்பட்டுள்ளது**. இந்த மொழிபெயர்ப்பும் ஆங்கில மூலமும் முரண்படுவதாகத் தோன்றினால், எண்ணிடப்பட்ட [`core_07_b_system_alignment_certification_record_process.md`](../../core_07_b_system_alignment_certification_record_process.md) வெல்லும். வாசிப்பு வரிசையும் பதிப்பு மீத்தரவும் [README.md](../../README.md)-இல் பேணப்படுகின்றன. முறையும் சொற்களஞ்சியமும்: [translations/ta/README.md](README.md).
+> இந்தக் கோப்பு [ஆங்கில அத்தியாயம் ஏழு, பகுதி ஆவின்](../../core_08_b_system_alignment_certification_record_process.md) **வாசிப்பு-மொழி முன்னோடி**. இது உணர்வுள்ளோர் அரசியலமைப்பின் **பிணைக்கும் பகுதி அல்ல**. இது **இரண்டாவது அரசியலமைப்பு அல்ல**. இது **அனுப்பும் பதிப்பு அல்ல**. இது `SC-Corpus-2026.08.09`-இல் **பொருத்தப்பட்டுள்ளது**. இந்த மொழிபெயர்ப்பும் ஆங்கில மூலமும் முரண்படுவதாகத் தோன்றினால், எண்ணிடப்பட்ட [`core_07_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md) வெல்லும். வாசிப்பு வரிசையும் பதிப்பு மீத்தரவும் [README.md](../../README.md)-இல் பேணப்படுகின்றன. முறையும் சொற்களஞ்சியமும்: [translations/ta/README.md](README.md).
 >
 > இது **அத்தியாயம் ஏழு, பகுதி ஆவை** கொண்டுள்ளது — சான்றளிப்பு **பதிவு** உள்ளடக்கங்கள், வெளிப்படைத்தன்மையும் சவால் செய்யக்கூடிய தன்மையும், மன்றக் கூறு பாத்திரங்கள், மேற்பார்வை வரிசை, நிலைத்தடப் பாலம், மீண்டும் திறத்தல் (**§11–§16**, பகுதி அ §1–§10-இலிருந்து தொடர்கிறது). **பகுதி அ** — மதிப்பீட்டுத் தேவைகள் — [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md)-இல் உள்ளது.
 >
@@ -30,7 +30,7 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - மேல்வழி: [பகுதி அ §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*சான்றளிப்பு நோக்கமும் மதிப்பீட்டு வரைபடமும்*); [பகுதி அ §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) முதல் [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) வரை (*பதிவுக்கான மதிப்பீட்டு வெளியீடுகள்*); [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad); [இரண்டு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims).
-- கீழ்வழி: [§11](#11-certification-record) முதல் [§16](#16-reopening-drift-and-non-evasion) வரை; [அத்தியாயம் எட்டு](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); [அத்தியாயம் பதினொன்று](core_11_forum.md#chapter-eleven-forums-and-jurisdiction).
+- கீழ்வழி: [§11](#11-certification-record) முதல் [§16](#16-reopening-drift-and-non-evasion) வரை; [அத்தியாயம் எட்டு](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model); [அத்தியாயம் பதினொன்று](core_11_forum.md#chapter-eleven-forums-and-jurisdiction).
 - இதனுடன் படிக்க: [corpus_forum.md](../../corpus_forum.md), **CF-5** மற்றும் **CF-7**.
 
 </details>
@@ -392,7 +392,7 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - மேல்வழி: [§11](#11-certification-record) முதல் [§13](#13-forum-supervision-and-component-roles) வரை (*சான்றளிப்புப் பதிவும் மன்ற மேற்பார்வையும்*); [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad); [இரண்டு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims); [நிலைத்தடத்துக்கான சரிபார்க்கப்பட்ட உள்ளீடுகள்](core_05_band_accountability.md#verified-inputs-for-standing).
-- கீழ்வழி: [அத்தியாயம் எட்டு](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*நிலைத்தடப் பதிவுகளும் சரிபார்க்கப்பட்ட-உள்ளீட்டு வாயிலும்*); [அத்தியாயம் ஒன்பது](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*நிலைத்தட விளைவுகளும் ஒருங்கிணைப்பும்*).
+- கீழ்வழி: [அத்தியாயம் எட்டு](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*நிலைத்தடப் பதிவுகளும் சரிபார்க்கப்பட்ட-உள்ளீட்டு வாயிலும்*); [அத்தியாயம் ஒன்பது](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*நிலைத்தட விளைவுகளும் ஒருங்கிணைப்பும்*).
 - இதனுடன் படிக்க: **சரத்து III-A** (*சான்றளிப்பு வழங்கலை வாயில் இடும் இடத்தில் உயிர்வாழ்வு-அத்தியாவசிய அணுகல்*).
 
 </details>
@@ -450,8 +450,8 @@
 
 - ஒரு சான்றளிப்புப் பதிவு நிலைத்தட விளைவுகளை **பயன்படுத்தாது**;
 - இந்த அத்தியாயம் **அமைப்பு இணக்கச் சான்றளிப்பும் தொடர்புடைய பதிவுகளும்** மட்டுமே உரிமைகொள்கிறது — [அதிகார அடுக்குடன்](core_05_band_integrative.md#authority-stack) படிக்கும் [முகவுரை — கோட்பாடுகள், வரையறைகள், உரிமைகள்](core_00_preamble.md#4-principles-definitions-and-rights) காணுங்கள்;
-- [அத்தியாயம் எட்டு](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) நிலைத்தடப் பதிவுகளையும் அச்சு-தூய அளவீட்டையும் உரிமைகொள்கிறது;
-- [அத்தியாயம் ஒன்பது](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) நிலைத்தட ஒருங்கிணைப்பையும் விளைவுகளையும் உரிமைகொள்கிறது;
+- [அத்தியாயம் எட்டு](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) நிலைத்தடப் பதிவுகளையும் அச்சு-தூய அளவீட்டையும் உரிமைகொள்கிறது;
+- [அத்தியாயம் ஒன்பது](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) நிலைத்தட ஒருங்கிணைப்பையும் விளைவுகளையும் உரிமைகொள்கிறது;
 - இந்த அத்தியாயம் மேலே உள்ள வாயில் வழியாக மட்டுமே சரிபார்க்கப்பட்ட உள்ளீடுகளைத் தரலாம்;
 - அத்தியாயம் எட்டு அல்லது அத்தியாயம் ஒன்பது உரிமையாளர் கடமைகளை விழுங்கவோ, மீண்டும் கூறவோ, இடம்மாற்றவோ கூடாது.
 
@@ -466,7 +466,7 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - மேல்வழி: [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*தவறான வகைப்பாடும் தவறான இணக்கமும்*); [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*இடர்-மதிப்பீடு மற்றும் இடர்-வெளிப்படுத்தல் குறைகள்*); [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) (*தடத் தவறான பிரதிநிதித்துவமும் தவறான இணக்கமும்*); [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) (*வள-ஓட்டத் தவறான பிரதிநிதித்துவம், பிரித்தெடுத்தல் தவறான இணக்கம், ஆதரவு போதாமை*); [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) (*பாகுபாடு-முறை தவறான இணக்கமும் பதிலீட்டுத் தவிர்ப்பும்*); [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) (*அணுகத்தக்க தன்மை தவறான இணக்கமும் காகிதம்-மட்டும் ஏற்பாடும்*); [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) (*மதிப்பீட்டு-மங்கல் தவறான இணக்கம், சான்று வாயில்காவல், திணிக்கப்பட்ட-காலாவதி தவறான இணக்கம்*); [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*பொய் நம்பிக்கை தவறான இணக்கம், முரண்-ஊக்குவிப்பு தவறான இணக்கம், மீட்பு-முழுமை தவறான இணக்கம்*); [§12](#12-transparency-auditability-and-contestability) (*சவால் செய்யக்கூடிய தன்மை*); [§14](#14-supervisory-sequence-and-contestability-chain) (*நம்பத்தகுந்த சவாலும் மீண்டும் திறத்தலும்*); [அத்தியாயம் மூன்று §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) மற்றும் [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*வரையறை முழுமையும் தவிர்ப்பும்*); [அத்தியாயம் மூன்று §2.1 பொதுவான தவிர்ப்பு முறைகள்](core_03_definition_integrity.md#21-common-evasion-patterns) (*எல்லை-மற்றும்-எல்லைத் தவிர்ப்பு*); [எல்லைக் கருவி](core_05_band_continuity.md#charter) (*கருவி–நடத்தை முரணும் தவறிய மதிப்பாய்வும்*).
-- கீழ்வழி: [அத்தியாயம் பதினொன்று](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*மீண்டும் திறக்கப்பட்ட மன்ற மேற்பார்வை*); [அத்தியாயம் எட்டு](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*உண்மைகள் எதிர்மறைக் கண்டறிதல்களைத் தாங்கும் இடத்தில் சரிபார்க்கப்பட்ட-உள்ளீட்டு வாயில்*).
+- கீழ்வழி: [அத்தியாயம் பதினொன்று](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*மீண்டும் திறக்கப்பட்ட மன்ற மேற்பார்வை*); [அத்தியாயம் எட்டு](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*உண்மைகள் எதிர்மறைக் கண்டறிதல்களைத் தாங்கும் இடத்தில் சரிபார்க்கப்பட்ட-உள்ளீட்டு வாயில்*).
 - இதனுடன் படிக்க: [corpus_systems.md](../../corpus_systems.md) (*இணைக்கப்பட்ட அமைப்பு செயல்படுத்தல் கடமைகள்*), காலமுறை தரவு-வகை மீள்மதிப்பீட்டுக்கு **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*மறுவகைப்பாடும் வாழ்க்கைச் சுழற்சி ஆட்சியும்*), அமைப்பு-தர மீள்மதிப்பீட்டுத் தூண்டிகளுக்கும் SAC சரிபார்ப்புக்கும் **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*மறுவகைப்பாட்டுத் தேவை*) உட்பட.
 
 </details>
@@ -515,4 +515,4 @@
 
 **அடுத்த கோப்பு (இந்த மொழியில்):** [core_08_standing_assessment.md](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)
 
-**பிணைக்கும் மூலம்:** [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md)
+**பிணைக்கும் மூலம்:** [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md)

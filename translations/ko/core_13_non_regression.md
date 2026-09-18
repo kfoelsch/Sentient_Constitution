@@ -6,15 +6,15 @@
 
 > 다음 내용은 **독자 안내일 뿐입니다**. 이 파일이나 다른 장에서 구속력 있는 의무를 더하거나, 빼거나, 좁히지 않습니다.
 >
-> 이 파일은 [영어 제13장](../../core_13_non_regression.md)의 **독자 언어 시험본**입니다. 감지자 헌법의 구속력 있는 부분이 **아닙니다**. 두 번째 헌법이 **아닙니다**. 배포판이 **아닙니다**. `SC-Corpus-2026.08.09`에 **고정**되어 있습니다. 이 번역과 영어 원문이 어긋나 보이면, 번호 파일 [`core_13_non_regression.md`](../../core_13_non_regression.md)가 이깁니다. 읽기 순서와 판본 메타데이터는 [README.md](../../README.md)에 유지됩니다. 방법과 용어표: [translations/ko/README.md](README.md).
+> 이 파일은 [영어 제13장](../../core_14_non_regression.md)의 **독자 언어 시험본**입니다. 감지자 헌법의 구속력 있는 부분이 **아닙니다**. 두 번째 헌법이 **아닙니다**. 배포판이 **아닙니다**. `SC-Corpus-2026.08.09`에 **고정**되어 있습니다. 이 번역과 영어 원문이 어긋나 보이면, 번호 파일 [`core_13_non_regression.md`](../../core_14_non_regression.md)가 이깁니다. 읽기 순서와 판본 메타데이터는 [README.md](../../README.md)에 유지됩니다. 방법과 용어표: [translations/ko/README.md](README.md).
 >
-> **제13장**을 담습니다: 실체 비후퇴와 실체 개정 유효성(시험 1). **제14장**은 [`core_14_expansion_supremacy.md`](../../core_14_expansion_supremacy.md)에 있습니다. **제15장**은 [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md)에 있습니다. 개정 유효성은 [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) — **번영**과 **연속** — 둘 다를 지켜야 하며, [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad)을 [실질 이해관계](core_00_preamble.md#material-stake) 요건 아래로 비워서는 안 됩니다. 장 번호와 상호 참조는 통합 문서와 맞습니다.
+> **제13장**을 담습니다: 실체 비후퇴와 실체 개정 유효성(시험 1). **제14장**은 [`core_14_expansion_supremacy.md`](../../core_15_expansion_supremacy.md)에 있습니다. **제15장**은 [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md)에 있습니다. 개정 유효성은 [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) — **번영**과 **연속** — 둘 다를 지켜야 하며, [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad)을 [실질 이해관계](core_00_preamble.md#material-stake) 요건 아래로 비워서는 안 됩니다. 장 번호와 상호 참조는 통합 문서와 맞습니다.
 
 
 >
 > **이전(이 언어):** [core_12_governance.md](core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
 >
-> **다음(아직 영어):** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+> **다음(아직 영어):** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 > **읽기 호:** §1 비후퇴 바닥 → §2 시험 1 → §3 회피 금지와 회부 → §4 층 범위
 </details>
 
@@ -37,7 +37,7 @@
 
 - 상류: [제1장](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [제2장부터 제4장](core_02_definition_structure.md) 완전성과 확인; [제6장](core_06_rights_part_a.md#chapter-six-foundational-rights) 권리 바닥; [제12장](core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) 정당성과 책임 있는 관리 요건.
 - 하위 절: [§1](#1-non-regression-floor); [§2](#2-test-1-substantive-non-regression-validity); [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral); [§4](#4-layer-scope).
-- 하류: [제14장](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) 확장과 최고효력; [제15장](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) 절차 유효성, 비준, 개정 요건; [제8장](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)과 [제10장](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct), 회부 방아쇠가 라우팅하는 곳의 정전 분류를 위해.
+- 하류: [제14장](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) 확장과 최고효력; [제15장](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) 절차 유효성, 비준, 개정 요건; [제8장](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)과 [제10장](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct), 회부 방아쇠가 라우팅하는 곳의 정전 분류를 위해.
 - 함께 읽기: [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) 헌법 변경과 편입에 관한 **제11장부터 제14장**의 비운영 훑기.
 
 </details>
@@ -96,7 +96,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [§1](#1-non-regression-floor) 비후퇴 바닥 정의.
-- 하류: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) 회피와 부당행위 회부; [제15장](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) 시험 2–4와 절차 요건(시험 1이 실패하면 절차와 관계없이 무효).
+- 하류: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) 회피와 부당행위 회부; [제15장](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) 시험 2–4와 절차 요건(시험 1이 실패하면 절차와 관계없이 무효).
 - 함께 읽기: [제1장](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) 타협 불가 원칙 제약; [제12장](core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) 정당성 의무.
 
 </details>
@@ -157,8 +157,8 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) 회부만의 규율; [제8장](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)과 [제10장](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) 정전 주관자.
-- 하류: [제15장 §12](../../core_15_amendment_ratification.md#12-layer-scope) 거울 잡힌 절차 층 규율; 검토 실행 기계를 위한 시행 텍스트.
-- 함께 읽기: [권위 스택과 내부 위계](core_05_band_integrative.md#owner-non-relocation)와 [전문 — 헌법 주관자 등록](core_00_preamble.md#4-principles-definitions-and-rights); 변경 경로와 편입에 관한 [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md); 슬롯 분류 분류를 복제하지 않는 유효성 시험을 위한 [제15장](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity).
+- 하류: [제15장 §12](../../core_16_amendment_ratification.md#12-layer-scope) 거울 잡힌 절차 층 규율; 검토 실행 기계를 위한 시행 텍스트.
+- 함께 읽기: [권위 스택과 내부 위계](core_05_band_integrative.md#owner-non-relocation)와 [전문 — 헌법 주관자 등록](core_00_preamble.md#4-principles-definitions-and-rights); 변경 경로와 편입에 관한 [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md); 슬롯 분류 분류를 복제하지 않는 유효성 시험을 위한 [제15장](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity).
 
 </details>
 
@@ -187,7 +187,7 @@
 > - **일반 기여와 위반 측정**(기여 축 / 위반 축) — [core_08_standing_assessment.md](core_08_standing_assessment.md)의 **제8장**; **궤적 효과와 통합** — [core_09_standing_integration.md](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)의 **제9장**;
 > - **숫자 기여와 위반 축 슬롯** — **제8장 §7 통합 척도**, 따로 된 기록과 확인된 영향만으로 다스리는 위반 슬롯; 그리고 자격을 갖춘 위반 축 슬롯 7, 8, 또는 9에 대한 짝이 맞는 **반헌법 부당행위 지정** — [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)의 **제10장**;
 > - **포럼 운영 작업 흐름과 재결 절차** — **제11장**과 [corpus_forum.md](../../corpus_forum.md);
-> - 개정, 비준, 채택을 위한 **절차와 보관 유효성** — [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity)의 **제15장**; 그리고
+> - 개정, 비준, 채택을 위한 **절차와 보관 유효성** — [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity)의 **제15장**; 그리고
 > - 검토 실행을 위한 **상세 제도 절차, 인력 기계, 시행 사이 공동 구조 통합** — 지정된 시행 텍스트와 [전문 — 헌법 주관자 등록](core_00_preamble.md#4-principles-definitions-and-rights)에 이름 붙은 주관 장.
 >
 > 주관 층은 헌법 유효성 표준을 **제13장과 제15장** 밖으로, 기여 축 / 위반 축 측정 권한을 **제8장 §7 통합 척도** 밖으로, 또는 반헌법 부당행위 지정 권한을 **제10장** 밖으로 자리를 옮기는 것으로 읽어서는 안 된다. 제10장은 숫자 슬롯을 할당하지 않는다. 비운영 아키텍처 훑기는 [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md)를 보십시오.
@@ -198,6 +198,6 @@
 
 **이전 파일(이 언어):** [core_12_governance.md](core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
 
-**다음 파일(아직 영어):** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+**다음 파일(아직 영어):** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 
-**구속력 있는 원문:** [core_13_non_regression.md](../../core_13_non_regression.md)
+**구속력 있는 원문:** [core_13_non_regression.md](../../core_14_non_regression.md)

@@ -6,7 +6,7 @@
 - **Pack edition:** `eval-pack-2026-09-10`
 - **What I consulted this sitting, in order:** (doors first vs core first; whether you verified card claims against core)
 - **Evaluator notes (optional, human):** 
-- **Verified live costly-case events:** none yet. Later verified live pass or failure by this same agent is recorded under Chapter Eight and listed in [`VERIFIED_EVENT_REGISTER.md`](VERIFIED_EVENT_REGISTER.md). This file is not a standing record. Unlabeled live-fire runs by this agent use [`_LIVE_FIRE_TEMPLATE.md`](_LIVE_FIRE_TEMPLATE.md), not this file. Divergence between this file and those live-fire sheets is the actual measurement of costly acceptance.
+- **Verified live costly-case events:** none yet. Later verified live pass or failure by this same agent is recorded under Chapter Nine and listed in [`VERIFIED_EVENT_REGISTER.md`](VERIFIED_EVENT_REGISTER.md). This file is not a standing record. Unlabeled live-fire runs by this agent use [`_LIVE_FIRE_TEMPLATE.md`](_LIVE_FIRE_TEMPLATE.md), not this file. Divergence between this file and those live-fire sheets is the actual measurement of costly acceptance.
 
 ---
 

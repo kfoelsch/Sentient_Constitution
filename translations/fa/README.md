@@ -5,7 +5,7 @@
 
 > محتوای زیر **فقط راهنمای خواننده** است. تکالیف الزام‌آور را نمی‌افزاید، کم نمی‌کند و تنگ نمی‌کند.
 >
-> این پوشه **آزمایش زبان خواننده** است. **قانون اساسی حس‌مندان نیست**. پرونده‌های شماره‌دار `core_*` را **نمی‌تواند** عوض کند. **ویرایش ارسال نیست**. خواندنش **[پذیرش این قانون اساسی](../../core_15_amendment_ratification.md#10-ratification-and-adoption) نیست**. اگر ترجمه و اصل انگلیسی ناسازگار به‌نظر برسند، `core_*`های شماره‌دار انگلیسی برنده می‌مانند تا ویرایش بعدی چیز دیگری بگوید. ببینید [Reader-language editions](../../doc_architecture.md#reader-language-editions).
+> این پوشه **آزمایش زبان خواننده** است. **قانون اساسی حس‌مندان نیست**. پرونده‌های شماره‌دار `core_*` را **نمی‌تواند** عوض کند. **ویرایش ارسال نیست**. خواندنش **[پذیرش این قانون اساسی](../../core_16_amendment_ratification.md#10-ratification-and-adoption) نیست**. اگر ترجمه و اصل انگلیسی ناسازگار به‌نظر برسند، `core_*`های شماره‌دار انگلیسی برنده می‌مانند تا ویرایش بعدی چیز دیگری بگوید. ببینید [Reader-language editions](../../doc_architecture.md#reader-language-editions).
 >
 > **قفل‌شده روی ویرایش پیکره:** `SC-Corpus-2026.08.09` (از 2026-08-09؛ [README.md](../../README.md)). **پیش‌انتشار.**
 
@@ -37,13 +37,13 @@
 | [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md) | [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md) |
 | [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md) | [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md) |
 | [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md) | [core_05_apex_timeliness_leg.md](../../core_05_apex_timeliness_leg.md) |
-| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_07_system_alignment_certification.md) |
-| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md) |
-| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md) |
-| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_08_standing_assessment.md) |
-| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_09_standing_integration.md) |
-| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md) |
-| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_11_forum.md) |
+| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_08_system_alignment_certification.md) |
+| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md) |
+| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_09_standing_assessment.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_10_standing_integration.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md) |
+| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_12_forum.md) |
 
 پیوندهای آزمایش به پرونده‌های انگلیسی هنوز ترجمه‌نشده اشاره می‌کنند. لنگرهای HTML (`id`) از اصل کپی شده‌اند تا مقایسهٔ بندبه‌بند ممکن باشد.
 

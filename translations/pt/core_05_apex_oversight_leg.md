@@ -119,7 +119,7 @@ A *Materialidade* ([Determinação de materialidade](../../core_05_band_oversigh
 | Verdade e integridade epistêmica | As pretensões, os registros e as divulgações são honestos o bastante para decisões seguras? | Protege a participação informada, a reparação e a correção |
 | Confiabilidade | Está justificada a dependência, ou a confiança está sendo degradada? | Protege os sencientes da falsa confiança e da dependência enganosa |
 
-Os requisitos vinculantes de confiabilidade, auditoria ou revisão surgem quando o Capítulo Seis, o [Capítulo Sete](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification), ou os instrumentos incorporados os exigem de forma expressa.
+Os requisitos vinculantes de confiabilidade, auditoria ou revisão surgem quando o Capítulo Seis, o [Capítulo Sete](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification), ou os instrumentos incorporados os exigem de forma expressa.
 
 
 ---

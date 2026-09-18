@@ -6,15 +6,15 @@
 
 > கீழே உள்ள உள்ளடக்கம் **வாசிப்பவருக்கான வழிகாட்டல் மட்டும்**. இது இந்தக் கோப்பிலோ பிற அத்தியாயங்களிலோ பிணைக்கும் கடமைகளைச் சேர்க்கவோ, குறைக்கவோ, சுருக்கவோ செய்யாது.
 >
-> இந்தக் கோப்பு [ஆங்கில அத்தியாயம் பன்னிரண்டின்](../../core_12_governance.md) **வாசிப்பு-மொழி முன்னோடி**. இது உணர்வுள்ளோர் அரசியலமைப்பின் **பிணைக்கும் பகுதி அல்ல**. இது **இரண்டாவது அரசியலமைப்பு அல்ல**. இது **அனுப்பும் பதிப்பு அல்ல**. இது `SC-Corpus-2026.08.09`-இல் **பொருத்தப்பட்டுள்ளது**. இந்த மொழிபெயர்ப்பும் ஆங்கில மூலமும் முரண்படுவதாகத் தோன்றினால், எண்ணிடப்பட்ட [`core_12_governance.md`](../../core_12_governance.md) வெல்லும். வாசிப்பு வரிசையும் பதிப்பு மீத்தரவும் [README.md](../../README.md)-இல் பேணப்படுகின்றன. முறையும் சொற்களஞ்சியமும்: [translations/ta/README.md](README.md).
+> இந்தக் கோப்பு [ஆங்கில அத்தியாயம் பன்னிரண்டின்](../../core_13_governance.md) **வாசிப்பு-மொழி முன்னோடி**. இது உணர்வுள்ளோர் அரசியலமைப்பின் **பிணைக்கும் பகுதி அல்ல**. இது **இரண்டாவது அரசியலமைப்பு அல்ல**. இது **அனுப்பும் பதிப்பு அல்ல**. இது `SC-Corpus-2026.08.09`-இல் **பொருத்தப்பட்டுள்ளது**. இந்த மொழிபெயர்ப்பும் ஆங்கில மூலமும் முரண்படுவதாகத் தோன்றினால், எண்ணிடப்பட்ட [`core_12_governance.md`](../../core_13_governance.md) வெல்லும். வாசிப்பு வரிசையும் பதிப்பு மீத்தரவும் [README.md](../../README.md)-இல் பேணப்படுகின்றன. முறையும் சொற்களஞ்சியமும்: [translations/ta/README.md](README.md).
 >
-> இது **அத்தியாயம் பன்னிரண்டை**, **அரசியலமைப்பு ஒப்பந்த அடுக்கை** கொண்டுள்ளது — ஆளும் அதிகாரத்துக்கான அரசியலமைப்பு சட்டபூர்வத்தன்மை மற்றும் பொறுப்பான நிர்வாகத் தேவைகள், ஏற்கனவே அங்கீகரிக்கப்பட்ட அமைப்புகளில் **பாதிக்கப்படுவோரின் அமைப்புப் பங்கேற்பிலிருந்து** வேறுபட்டவை ([முகவுரை](core_00_preamble.md#chapter-00-preamble--foundational-requirements)). திருத்தம் மற்றும் ஏற்புச் செல்லுபடிக் கட்டுப்பாடுகள் [அத்தியாயங்கள் பதிமூன்று முதல் பதினைந்து](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)-இல் தொடர்கின்றன. அத்தியாய எண்ணிடலும் குறுக்குச் சுட்டுகளும் ஒருங்கிணைந்த கருவியுடன் பொருந்துகின்றன.
+> இது **அத்தியாயம் பன்னிரண்டை**, **அரசியலமைப்பு ஒப்பந்த அடுக்கை** கொண்டுள்ளது — ஆளும் அதிகாரத்துக்கான அரசியலமைப்பு சட்டபூர்வத்தன்மை மற்றும் பொறுப்பான நிர்வாகத் தேவைகள், ஏற்கனவே அங்கீகரிக்கப்பட்ட அமைப்புகளில் **பாதிக்கப்படுவோரின் அமைப்புப் பங்கேற்பிலிருந்து** வேறுபட்டவை ([முகவுரை](core_00_preamble.md#chapter-00-preamble--foundational-requirements)). திருத்தம் மற்றும் ஏற்புச் செல்லுபடிக் கட்டுப்பாடுகள் [அத்தியாயங்கள் பதிமூன்று முதல் பதினைந்து](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)-இல் தொடர்கின்றன. அத்தியாய எண்ணிடலும் குறுக்குச் சுட்டுகளும் ஒருங்கிணைந்த கருவியுடன் பொருந்துகின்றன.
 
 
 >
-> **முந்தையது (இன்னும் ஆங்கிலத்தில்):** [core_11_forum.md](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
+> **முந்தையது (இன்னும் ஆங்கிலத்தில்):** [core_11_forum.md](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction)
 >
-> **அடுத்தது (இன்னும் ஆங்கிலத்தில்):** [core_13_non_regression.md](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)
+> **அடுத்தது (இன்னும் ஆங்கிலத்தில்):** [core_13_non_regression.md](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)
 > **வாசிப்பு வளைவு:** §0 அடுக்கு எல்லை → §1 அங்கீகாரம்/சட்டபூர்வத்தன்மை → §1.1 இயங்கமைப்புக் குடும்பங்கள் → §1.2 தகுதி/சனநாயகக் குறைந்தபட்சங்கள் → §1.3 திரும்பப்பெறல்-வகுப்பு → §2 முழுமைப் பண்பாடு → §3 பொறுப்பான நிர்வாகத் திசை → §4 வாக்கு/கூட்டுத் தேர்வு → §5 அங்கீகரிக்கப்பட்ட பங்குகள்
 </details>
 
@@ -65,7 +65,7 @@
 
 - மேல்வழி: கோட்பாடுகள்: [அத்தியாயம் ஒன்று §5 சுதந்திரம்](core_01_a_values_principles.md#5-freedom-bounded-agency), [§9 பொறுப்பான நிர்வாகமும் பகிர்ந்த புரிதலும்](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [5. செயல்முறை முரண்பாட்டுத் தீர்வு](#6-process-conflict-resolution); [அத்தியாயம் பன்னிரண்டு §0](#0-layer-boundary-for-this-chapter).
 - துணைப்பிரிவுகள்: [§1.1](#11-mechanism-families-auditability-and-pluralism) (*இயங்கமைப்புக் குடும்பங்கள், தணிக்கைத்தன்மை, பன்மை*); [§1.2](#12-eligibility-contested-selection-and-democratic-minimums) (*தகுதி, போட்டித் தேர்வு, சனநாயகக் குறைந்தபட்சங்கள்*); [§1.3](#13-recall-class-pathways-and-mid-cycle-transfer-guardrails) (*திரும்பப்பெறல்-வகுப்பு பெயரிடப்பட்ட பாதைகளும் சுழற்சி-நடு இடமாற்றக் காவல்களும்*).
-- கீழ்வழி: [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale) கீழ் முழுமை, உத்தி, வாக்கு, பங்குக் கடமைகள்; [அத்தியாயம் பதினைந்து](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) கீழ் ஏற்பும் உறுதிப்படுத்தலும்; அத்தியாயம் ஆறில் சட்டபூர்வத்தன்மை, பங்கேற்பு, சவால் செய்யக்கூடிய தன்மை — குறிப்பாக [சரத்து XI-C: சட்டபூர்வ வாயிலும் போலிப் பங்கேற்பு எதிர்ப்பும்](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation), [சரத்து XVIII: நிலைத்தடமும் பங்கேற்பு நிலையும்](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status), மற்றும் கீழே செயல் புள்ளிகளில் சாவியிடப்பட்ட வெளிப்பாடு, கூட்டம், நடைமுறை-நியாயச் சரத்துகள்.
+- கீழ்வழி: [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale) கீழ் முழுமை, உத்தி, வாக்கு, பங்குக் கடமைகள்; [அத்தியாயம் பதினைந்து](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) கீழ் ஏற்பும் உறுதிப்படுத்தலும்; அத்தியாயம் ஆறில் சட்டபூர்வத்தன்மை, பங்கேற்பு, சவால் செய்யக்கூடிய தன்மை — குறிப்பாக [சரத்து XI-C: சட்டபூர்வ வாயிலும் போலிப் பங்கேற்பு எதிர்ப்பும்](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation), [சரத்து XVIII: நிலைத்தடமும் பங்கேற்பு நிலையும்](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status), மற்றும் கீழே செயல் புள்ளிகளில் சாவியிடப்பட்ட வெளிப்பாடு, கூட்டம், நடைமுறை-நியாயச் சரத்துகள்.
 - இதனுடன் படிக்க: இந்தப் பிரிவில் பெயரிடப்பட்ட **தொகுப்பு** மற்றும் **[corpus_systems.md](../../corpus_systems.md)** கொக்கிகள் ([corpus_systems.md](../../corpus_systems.md), [corpus_institutions.md](../../corpus_institutions.md)).
 
 </details>
@@ -176,7 +176,7 @@
 
 **மன்ற நியமன சுயாதீனத் தளம்**
 
-- [**முழுமை**](../../core_11_forum.md#45-integrity-forums), [**அரசியலமைப்பு**](../../core_11_forum.md#46-constitutional-forums), [**சூழல்**](../../core_11_forum.md#44-environment-forums) மன்றங்கள், மற்றும் உணர்வுள்ள-நிலைத் தீர்ப்பைக் கேட்கும்போது [**தொழில்நுட்ப மன்றக் களங்கள்**](../../core_11_forum.md#42-technical-forum-domains), **வெளியிடப்பட்ட**, **போட்டி**, **சுழற்றக்கூடிய** நியமனம் அல்லது சமமான சுயாதீனச் சோதனை (சீட்டு, கூட்டமைப்புப் பெயரிடல், அல்லது ஒப்பானது) வழியாகப் பணியமர்த்தப்பட வேண்டும்.
+- [**முழுமை**](../../core_12_forum.md#45-integrity-forums), [**அரசியலமைப்பு**](../../core_12_forum.md#46-constitutional-forums), [**சூழல்**](../../core_12_forum.md#44-environment-forums) மன்றங்கள், மற்றும் உணர்வுள்ள-நிலைத் தீர்ப்பைக் கேட்கும்போது [**தொழில்நுட்ப மன்றக் களங்கள்**](../../core_12_forum.md#42-technical-forum-domains), **வெளியிடப்பட்ட**, **போட்டி**, **சுழற்றக்கூடிய** நியமனம் அல்லது சமமான சுயாதீனச் சோதனை (சீட்டு, கூட்டமைப்புப் பெயரிடல், அல்லது ஒப்பானது) வழியாகப் பணியமர்த்தப்பட வேண்டும்.
 - இந்தத் தளம் **இயங்கமைப்பு-நடுநிலை**: ஒரே அரசியல் வகையையோ ஒரே நியமன முறையையோ கட்டாயப்படுத்தாது.
 - அந்த இருக்கைகளை [அத்தியாயம் ஒன்பது §9.2](core_09_standing_integration.md#92-remedy-system-durability) நிவாரண-அமைப்பு நீடிப்புத் தளத்துக்கு நியமிக்க அல்லது நிதியிடத் தவறுவது சட்டபூர்வத்தன்மை மற்றும் நிவாரணத் தோல்வி, செயல்படுத்தல் திறந்து வைக்கக்கூடிய இடைவெளி அல்ல.
 - நியமனம், திறன், சுழற்சி, நீக்க இயங்கமைப்பு [**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*நியமனம், திறன், சுழற்சி, நீக்கம்*) ஆல் ஆளப்படுகிறது; **CI-4** இந்தத் தளத்தைச் சுருக்கக்கூடாது.
@@ -303,7 +303,7 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - மேல்வழி: [§1](#1-authorization-and-legitimacy-of-governing-authority) ஆவணப்படுத்தப்பட்ட சட்டபூர்வ இயந்திரம்; [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate) கூட்டு முடிவுகளுக்குப் பொறுப்பான நிர்வாக இணக்கம்.
-- கீழ்வழி: துணைப்பிரிவுகள் [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice); இந்தப் பிரிவின் இறுதியில் **குறுக்குச் சுட்டு (அத்தியாயம் பன்னிரண்டு)** குறிப்பில் சுருக்கப்பட்ட [அத்தியாயங்கள் பதிமூன்று முதல் பதினைந்து](../../core_13_non_regression.md)-இல் ஏற்பு, மேலாண்மை, பின்னடைவு இன்மைக் கருவிகள்.
+- கீழ்வழி: துணைப்பிரிவுகள் [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice); இந்தப் பிரிவின் இறுதியில் **குறுக்குச் சுட்டு (அத்தியாயம் பன்னிரண்டு)** குறிப்பில் சுருக்கப்பட்ட [அத்தியாயங்கள் பதிமூன்று முதல் பதினைந்து](../../core_14_non_regression.md)-இல் ஏற்பு, மேலாண்மை, பின்னடைவு இன்மைக் கருவிகள்.
 - இதனுடன் படிக்க: [அத்தியாயம் ஆறு](core_06_rights_part_a.md#chapter-six-foundational-rights), குறிப்பாக [சரத்து XI: பாதிக்கப்படுவோரின் அமைப்புப் பங்கேற்பு, பிரதிநிதித்துவம், முறையான நடைமுறை](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) மற்றும் §4-இல் சுட்டப்பட்ட தொடர்புடைய துணைச் சரத்துகள்.
 
 </details>
@@ -478,8 +478,8 @@
 
 ---
 
-**முந்தைய கோப்பு (இன்னும் ஆங்கிலத்தில்):** [core_11_forum.md](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
+**முந்தைய கோப்பு (இன்னும் ஆங்கிலத்தில்):** [core_11_forum.md](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction)
 
-**அடுத்த கோப்பு (இன்னும் ஆங்கிலத்தில்):** [core_13_non_regression.md](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)
+**அடுத்த கோப்பு (இன்னும் ஆங்கிலத்தில்):** [core_13_non_regression.md](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)
 
-**பிணைக்கும் மூலம்:** [core_12_governance.md](../../core_12_governance.md)
+**பிணைக்கும் மூலம்:** [core_12_governance.md](../../core_13_governance.md)

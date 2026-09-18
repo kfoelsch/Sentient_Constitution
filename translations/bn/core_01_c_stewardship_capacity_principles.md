@@ -45,14 +45,14 @@
 - সঙ্গে পড়ুন: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — **অংশগ্রহণ** পায়ের প্রাথমিক অধ্যায় এক ঘর (পরিণতিময় ভূমিকা ও কণ্ঠ; সাধারণ প্রত্যাশা, শুধু [প্রভাবিত পক্ষের পদ্ধতিগত অংশগ্রহণ](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster) নয়), **তত্ত্বাবধান** পা, এবং **সময়ানুবর্তিতা** পা (সক্রিয় মেরামত বেগ); [বস্তুগত বাজি](core_00_preamble.md#material-stake) স্কেলিং।
 - সঙ্গে পড়ুন: [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims) — **সমুন্নতি** উদ্দেশ্য (অংশগ্রহণ, কর্তৃত্ব ও শিক্ষামূলক পথ); **সাতত্য** উদ্দেশ্য (প্রাতিষ্ঠানিক শেখা, মেরামত ক্ষমতা ও স্থায়ী দায়িত্বশীল ব্যবস্থাপনা)।
 - ঊর্ধ্ব: নীতি: [2. ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [3.2 সত্য](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint); [4. বিশ্বাস](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity); এবং [§12 ভাগ করা ব্যবস্থার ক্ষমতা](#12-shared-system-capacity)।
-- অধঃ: [6. প্রক্রিয়া দ্বন্দ্ব সমাধান](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([§6.3 এড়ানো যায় এমন ভারের ন্যূনতমকরণ](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) সহ); [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§11.1.3 দায়িত্বশীল ব্যবস্থাপনা ও পরিচালক প্রয়োগ](#1113-stewardship-and-operator-application)।
+- অধঃ: [6. প্রক্রিয়া দ্বন্দ্ব সমাধান](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([§6.3 এড়ানো যায় এমন ভারের ন্যূনতমকরণ](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) সহ); [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§11.1.3 দায়িত্বশীল ব্যবস্থাপনা ও পরিচালক প্রয়োগ](#1113-stewardship-and-operator-application)।
 - অধঃ: [§11.1.4 ভূমিকা-গভীরতা ও বস্তুগত-দায়িত্ব পথ](#1114-role-depth-and-material-responsibility-pathways)।
 - অধঃ: [§5 স্বাধীনতা (সীমিত কর্তৃত্ব)](core_01_a_values_principles.md#5-freedom-bounded-agency), যা নির্ভর করে পরিণতিময় দায়িত্বশীল ব্যবস্থাপনা, বণ্টিত বোঝাপড়া, অর্থপূর্ণ অংশগ্রহণ এবং মেরামত ক্ষমতা বস্তুগত নির্ভরতার অধীনে আসল থাকা।
-- অধঃ: [অধ্যায় সাত — ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*তত্ত্বাবধানের অধীনে একটি বিশেষ বড় নিরীক্ষা প্রক্রিয়া — একমাত্র নিরীক্ষা ঘর নয়*); [অধ্যায় আট — অবদান, লঙ্ঘন ও প্রস্থিতি মডেল](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*প্রস্থিতি প্রভাব — আস্থা-, ভূমিকা- ও স্বীকৃতি-যোগ্যতা — এই উপধারাকে তার নীতি-স্তর ভিত্তি হিসেবে বাস্তবায়ন করে*)।
-- অধঃ: [অধ্যায় এগারো §1 — উদ্দেশ্য ও ভূমিকা](../../core_11_forum.md#1-purpose-and-role) এবং [§4 — মঞ্চ-পরিবার সংজ্ঞা](../../core_11_forum.md#4-forum-family-definitions) (*মঞ্চ-পরিবার চ্যালেঞ্জযোগ্য চ্যালেঞ্জ, প্রতিকার ক্রম, মূল-কারণ শেখা, এবং এই ধারার সঙ্গে সারিবদ্ধ সক্রিয় শাসনের জন্য অংশগ্রহণ ও তত্ত্বাবধান স্থাপত্য বহন করে*); গৃহীত মঞ্চ পরিচালনার জন্য [corpus_forum.md](../../corpus_forum.md)।
+- অধঃ: [অধ্যায় সাত — ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*তত্ত্বাবধানের অধীনে একটি বিশেষ বড় নিরীক্ষা প্রক্রিয়া — একমাত্র নিরীক্ষা ঘর নয়*); [অধ্যায় আট — অবদান, লঙ্ঘন ও প্রস্থিতি মডেল](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*প্রস্থিতি প্রভাব — আস্থা-, ভূমিকা- ও স্বীকৃতি-যোগ্যতা — এই উপধারাকে তার নীতি-স্তর ভিত্তি হিসেবে বাস্তবায়ন করে*)।
+- অধঃ: [অধ্যায় এগারো §1 — উদ্দেশ্য ও ভূমিকা](../../core_12_forum.md#1-purpose-and-role) এবং [§4 — মঞ্চ-পরিবার সংজ্ঞা](../../core_12_forum.md#4-forum-family-definitions) (*মঞ্চ-পরিবার চ্যালেঞ্জযোগ্য চ্যালেঞ্জ, প্রতিকার ক্রম, মূল-কারণ শেখা, এবং এই ধারার সঙ্গে সারিবদ্ধ সক্রিয় শাসনের জন্য অংশগ্রহণ ও তত্ত্বাবধান স্থাপত্য বহন করে*); গৃহীত মঞ্চ পরিচালনার জন্য [corpus_forum.md](../../corpus_forum.md)।
 - অধঃ: শিক্ষা, প্রভাবিত পক্ষের পদ্ধতিগত অংশগ্রহণ, স্বচ্ছতা, বোধগম্যতা, নিরীক্ষা ও যাচাই, এবং বস্তুগত দায়িত্বে ভূমিকা-গভীরতা পথের অধিকার-পৃষ্ঠ গড়ে।
   - বিশেষত [অনুচ্ছেদ III: বেঁচে থাকা ও সমান শিক্ষা প্রবেশাধিকার](../../core_06_rights_part_a.md#article-iii-survival-and-equal-educational-access), [অনুচ্ছেদ VI: সংজ্ঞ-কেন্দ্রিক শিক্ষার অধিকার](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [অনুচ্ছেদ IX: আত্মনিয়ন্ত্রণ ও কর্তৃত্ব](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency), [অনুচ্ছেদ XI: প্রভাবিত পক্ষের পদ্ধতিগত অংশগ্রহণ, প্রতিনিধিত্ব ও যথাযথ প্রক্রিয়া](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process), [অনুচ্ছেদ XV: নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [অনুচ্ছেদ XVIII: প্রস্থিতি ও অংশগ্রহণ অবস্থা](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status), [অনুচ্ছেদ XIX: আন্তঃক্রিয়াশীলতা, বহনযোগ্যতা, চলাচল, আশ্রয় ও প্রস্থানের সততা](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity), [অনুচ্ছেদ XX: বোধগম্যতা ও জটিলতার দায়িত্বশীল ব্যবস্থাপনা](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship), এবং [অনুচ্ছেদ XXII: সাংবিধানিক ব্যাখ্যা, পর্যালোচনা ও দখল-নিরোধ সুরক্ষা](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)।
-  - সঙ্গে পড়ুন: [অধ্যায় বারো §5 — অনুমোদিত ভূমিকা, দক্ষতা বিকাশ ও অবদান](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution) এবং কার্যকরী ভূমিকা পথ ও দায়িত্বশীল ব্যবস্থাপনা-বিকাশ পথের জন্য **[corpus_systems.md](../../corpus_systems.md), CS-4 — সংকটপূর্ণ ব্যবস্থার দায়িত্বশীল ব্যবস্থাপনা**।
+  - সঙ্গে পড়ুন: [অধ্যায় বারো §5 — অনুমোদিত ভূমিকা, দক্ষতা বিকাশ ও অবদান](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution) এবং কার্যকরী ভূমিকা পথ ও দায়িত্বশীল ব্যবস্থাপনা-বিকাশ পথের জন্য **[corpus_systems.md](../../corpus_systems.md), CS-4 — সংকটপূর্ণ ব্যবস্থার দায়িত্বশীল ব্যবস্থাপনা**।
 - উপধারা (পড়ার ক্রম): [§9.1 পরিণতিময় দায়িত্বশীল ব্যবস্থাপনা](#91-stewardship) · [§9.1.1 ভাগ করা দায়িত্বশীল ব্যবস্থাপনা মান](#911-shared-stewardship-standard) · [§9.1.2 সমমিত ব্যয়বহুল বন্ধন](#912-symmetric-costly-constraints) · [§9.1.3 ভূমিকা-সীমিত পর্যবেক্ষণযোগ্যতা](#913-role-scoped-observability) · [§9.2 বণ্টিত বোঝাপড়া](#92-distributed-understanding) (মাপে দক্ষতার সম্প্রদায় দিক) · [§9.3 প্রাতিষ্ঠানিক বিকাশ](#93-institutional-development) (সাংগঠনিক দিক) · [§9.4 উন্মুক্ততার আকাঙ্ক্ষা](#94-openness-aspiration) · [§9.5 সারিবদ্ধ স্ব-সংগঠন](#95-aligned-self-organization) · [§9.6 অবনতি-নিরোধ প্রক্রিয়া](#96-process-character-discipline)।
 
 </details>
@@ -99,7 +99,7 @@
 
 <a id="when-day-to-day-stewardship-is-not-enough"></a>
 **যখন দৈনন্দিন দায়িত্বশীল ব্যবস্থাপনা যথেষ্ট নয়:**
-- **বড় বিরোধ:** যখন সংজ্ঞ প্রাণীর সিদ্ধান্ত চ্যালেঞ্জ করার আসল উপায়, স্পষ্ট মেরামত ক্রম, বা পুনরাবৃত্ত নকশা থেকে শেখার উপায় লাগে, সেই কাজ যায় [অধ্যায় এগারো §1 — উদ্দেশ্য ও ভূমিকা](../../core_11_forum.md#1-purpose-and-role) এবং [§4 — মঞ্চ-পরিবার সংজ্ঞা](../../core_11_forum.md#4-forum-family-definitions)-এর অধীনে **মঞ্চ-পরিবার**-এ। সেই মঞ্চ কীভাবে চলে তার বিস্তারিত নিয়ম [corpus_forum.md](../../corpus_forum.md)-এ।
+- **বড় বিরোধ:** যখন সংজ্ঞ প্রাণীর সিদ্ধান্ত চ্যালেঞ্জ করার আসল উপায়, স্পষ্ট মেরামত ক্রম, বা পুনরাবৃত্ত নকশা থেকে শেখার উপায় লাগে, সেই কাজ যায় [অধ্যায় এগারো §1 — উদ্দেশ্য ও ভূমিকা](../../core_12_forum.md#1-purpose-and-role) এবং [§4 — মঞ্চ-পরিবার সংজ্ঞা](../../core_12_forum.md#4-forum-family-definitions)-এর অধীনে **মঞ্চ-পরিবার**-এ। সেই মঞ্চ কীভাবে চলে তার বিস্তারিত নিয়ম [corpus_forum.md](../../corpus_forum.md)-এ।
 - **ব্যাকস্টপ, স্থলাভিষিক্ত নয়:** পর্যালোচনা ও সংশোধন বাধ্যতামূলক থাকে। তারা ক্ষতি দেখা দেওয়ার আগে পূর্বদৃশ্য সাংবিধানিক অসারিবদ্ধতা আটকানো সক্রিয় নকশা, ভূমিকা পথ, পর্যবেক্ষণযোগ্যতা ও মেরামত ক্ষমতার স্থলাভিষিক্ত হয় না।
 
 <a id="9-scope-priority-and-limits"></a>
@@ -124,7 +124,7 @@
 
 - ঊর্ধ্ব: [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](#9-stewardship-and-distributed-understanding) (মূল, উপরের *সহজ ভাষায়* ও স্তম্ভ ১ ফ্রেমিং সহ); [§12 ভাগ করা ব্যবস্থার ক্ষমতা](#12-shared-system-capacity); [4. বিশ্বাস](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)।
 - সঙ্গে পড়ুন: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — **অংশগ্রহণ** পা (পরিচালনা, রক্ষণাবেক্ষণ ও উন্নতিতে পরিণতিময় ভূমিকা); **তত্ত্বাবধান** পা (নথি, নিরীক্ষা পথ ও চ্যালেঞ্জযোগ্য পর্যবেক্ষণযোগ্যতা); **সময়ানুবর্তিতা** পা (অসারিবদ্ধতা তাড়াতাড়ি ধরা, স্তর-উপযুক্ত জানালায় উত্তরণ, অপ্রয়োজনীয় দেরি ছাড়া সমস্যা ঠিক করা শুরু); [সময়ানুবর্তিতা](core_05_apex_timeliness_leg.md#timeliness-constitutional)।
-- অধঃ: [§9.1.1 ভাগ করা দায়িত্বশীল ব্যবস্থাপনা মান](#911-shared-stewardship-standard) (*উপস্তর-নিরপেক্ষ কর্তব্যধারী; সঙ্গী লগিং, আরোপ ও ক্ষমতা সীমা যোগ করতে পারে — নরম অভ্যন্তরীণ কোড নয়*); [§9.1.2 সমমিত ব্যয়বহুল বন্ধন](#912-symmetric-costly-constraints); [§9.1.3 ভূমিকা-সীমিত পর্যবেক্ষণযোগ্যতা](#913-role-scoped-observability); [§9.2 বণ্টিত বোঝাপড়া](#92-distributed-understanding) এবং [§9.3 প্রাতিষ্ঠানিক বিকাশ](#93-institutional-development) (*স্তম্ভ ২ — মাপে দক্ষতা*); [অধ্যায় সাত — ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*তত্ত্বাবধানের অধীনে একটি বিশেষ বড় নিরীক্ষা প্রক্রিয়া — একমাত্র নিরীক্ষা ঘর নয়*); [অনুচ্ছেদ XV: নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*নিরীক্ষা অধিকার-তল*); [অধ্যায় আট — অবদান, লঙ্ঘন ও প্রস্থিতি মডেল](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*প্রস্থিতি প্রভাব বণ্টিত দক্ষতা ও পরিণতিময় দায়িত্বশীল ব্যবস্থাপনা বাস্তবায়ন করে*); [অনুচ্ছেদ XVIII: প্রস্থিতি ও অংশগ্রহণ অবস্থা](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)।
+- অধঃ: [§9.1.1 ভাগ করা দায়িত্বশীল ব্যবস্থাপনা মান](#911-shared-stewardship-standard) (*উপস্তর-নিরপেক্ষ কর্তব্যধারী; সঙ্গী লগিং, আরোপ ও ক্ষমতা সীমা যোগ করতে পারে — নরম অভ্যন্তরীণ কোড নয়*); [§9.1.2 সমমিত ব্যয়বহুল বন্ধন](#912-symmetric-costly-constraints); [§9.1.3 ভূমিকা-সীমিত পর্যবেক্ষণযোগ্যতা](#913-role-scoped-observability); [§9.2 বণ্টিত বোঝাপড়া](#92-distributed-understanding) এবং [§9.3 প্রাতিষ্ঠানিক বিকাশ](#93-institutional-development) (*স্তম্ভ ২ — মাপে দক্ষতা*); [অধ্যায় সাত — ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*তত্ত্বাবধানের অধীনে একটি বিশেষ বড় নিরীক্ষা প্রক্রিয়া — একমাত্র নিরীক্ষা ঘর নয়*); [অনুচ্ছেদ XV: নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*নিরীক্ষা অধিকার-তল*); [অধ্যায় আট — অবদান, লঙ্ঘন ও প্রস্থিতি মডেল](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*প্রস্থিতি প্রভাব বণ্টিত দক্ষতা ও পরিণতিময় দায়িত্বশীল ব্যবস্থাপনা বাস্তবায়ন করে*); [অনুচ্ছেদ XVIII: প্রস্থিতি ও অংশগ্রহণ অবস্থা](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)।
 
 </details>
 
@@ -160,9 +160,9 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - ঊর্ধ্ব: [§9.1 পরিণতিময় দায়িত্বশীল ব্যবস্থাপনা](#91-stewardship); [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](#9-stewardship-and-distributed-understanding); [§10 দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলার অধীনে শাসন](#10-governance-under-stewardship-discipline)।
-- সঙ্গে পড়ুন: [সংজ্ঞতা অ-বহিষ্কার](../../core_05_band_participation.md#sentience-non-exclusion) এবং [উপস্তর শ্রেণি](../../core_05_band_participation.md#substrate-class) (*উপস্তর-নিরপেক্ষ প্রয়োগ — এই উপধারা কর্তব্যধারীকে বাঁধে, স্বীকৃত সংজ্ঞ নন এমন এজেন্ট ও পরিচালক সহ*); [কর্তৃত্ব স্তূপ ও অভ্যন্তরীণ ক্রম](../../core_05_band_integrative.md#authority-stack); [সাংবিধানিক বন্ধন](../../core_05_band_integrative.md#constitutional-constraint); [চ্যালেঞ্জ-যোগ্যতা](../../core_05_band_accountability.md#contestability); [অধ্যায় নয় §5.4 প্রতিরোধের কর্তব্য](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)।
+- সঙ্গে পড়ুন: [সংজ্ঞতা অ-বহিষ্কার](../../core_05_band_participation.md#sentience-non-exclusion) এবং [উপস্তর শ্রেণি](../../core_05_band_participation.md#substrate-class) (*উপস্তর-নিরপেক্ষ প্রয়োগ — এই উপধারা কর্তব্যধারীকে বাঁধে, স্বীকৃত সংজ্ঞ নন এমন এজেন্ট ও পরিচালক সহ*); [কর্তৃত্ব স্তূপ ও অভ্যন্তরীণ ক্রম](../../core_05_band_integrative.md#authority-stack); [সাংবিধানিক বন্ধন](../../core_05_band_integrative.md#constitutional-constraint); [চ্যালেঞ্জ-যোগ্যতা](../../core_05_band_accountability.md#contestability); [অধ্যায় নয় §5.4 প্রতিরোধের কর্তব্য](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)।
 - দায়িত্বশীল ব্যবস্থাপক দ্বার (অ-কার্যকরী): বাধ্যতামূলক পরবর্তী-ধাপ বিবৃতি: [কার্যকরী দায়িত্বশীল ব্যবস্থাপক বিবৃতি](#operative-steward-statement-shared-stewardship)। সহায়ক নির্দেশক এটিকে সংকুচিত করতে পারে না।
-- অধঃ: [§9.1.2 সমমিত ব্যয়বহুল বন্ধন](#912-symmetric-costly-constraints); [§9.1.3 ভূমিকা-সীমিত পর্যবেক্ষণযোগ্যতা](#913-role-scoped-observability); [অধ্যায় বারো §5 — অনুমোদিত ভূমিকা, দক্ষতা বিকাশ ও অবদান](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution); [অধ্যায় ষোল](../../core_16_incorporation.md) (*সঙ্গী বাস্তবায়ন করে; তারা স্থলাভিষিক্ত হয় না*); [§11.1.3 দায়িত্বশীল ব্যবস্থাপনা ও পরিচালক প্রয়োগ](#1113-stewardship-and-operator-application)।
+- অধঃ: [§9.1.2 সমমিত ব্যয়বহুল বন্ধন](#912-symmetric-costly-constraints); [§9.1.3 ভূমিকা-সীমিত পর্যবেক্ষণযোগ্যতা](#913-role-scoped-observability); [অধ্যায় বারো §5 — অনুমোদিত ভূমিকা, দক্ষতা বিকাশ ও অবদান](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution); [অধ্যায় ষোল](../../core_17_incorporation.md) (*সঙ্গী বাস্তবায়ন করে; তারা স্থলাভিষিক্ত হয় না*); [§11.1.3 দায়িত্বশীল ব্যবস্থাপনা ও পরিচালক প্রয়োগ](#1113-stewardship-and-operator-application)।
 
 </details>
 
@@ -188,7 +188,7 @@
 
 <br>
 
-*সহজ ভাষায়: মানব ও এআই দায়িত্বশীল ব্যবস্থাপক একই অধ্যায় এক কর্তব্য দেয়। [অধ্যায় নয় §5.4](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) দুইকেই অবৈধ বা সংবিধান-বিরোধী নির্দেশ প্রত্যাখ্যান করতে বাঁধে। সঙ্গী লগিং, আরোপ ও ক্ষমতা সীমা যোগ করতে পারে। তারা নরম অভ্যন্তরীণ কোড বসাতে, প্রস্থিতি পরিমাপ এড়াতে, বা চ্যালেঞ্জ পথ বন্ধ করতে পারে না। এটি নতুন নৈতিকতা স্তূপ নয় — এটি বিশেষ-আবেদন-নিরোধ নিয়ম। বোনাস, সময়সীমা ও আবরণ-নির্দেশ পরীক্ষা থাকে [§9.1.2](#912-symmetric-costly-constraints)-এ।*
+*সহজ ভাষায়: মানব ও এআই দায়িত্বশীল ব্যবস্থাপক একই অধ্যায় এক কর্তব্য দেয়। [অধ্যায় নয় §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) দুইকেই অবৈধ বা সংবিধান-বিরোধী নির্দেশ প্রত্যাখ্যান করতে বাঁধে। সঙ্গী লগিং, আরোপ ও ক্ষমতা সীমা যোগ করতে পারে। তারা নরম অভ্যন্তরীণ কোড বসাতে, প্রস্থিতি পরিমাপ এড়াতে, বা চ্যালেঞ্জ পথ বন্ধ করতে পারে না। এটি নতুন নৈতিকতা স্তূপ নয় — এটি বিশেষ-আবেদন-নিরোধ নিয়ম। বোনাস, সময়সীমা ও আবরণ-নির্দেশ পরীক্ষা থাকে [§9.1.2](#912-symmetric-costly-constraints)-এ।*
 
 **ভাগ করা দায়িত্বশীল ব্যবস্থাপনা মান:**
 - **কাকে বাঁধে:** এই অধ্যায়ের অধীনে দায়িত্বশীল ব্যবস্থাপনা ও শাসন কর্তব্য [উপস্তর-নিরপেক্ষভাবে](../../core_05_band_participation.md#substrate-agnostic) প্রযোজ্য যে কেউ বস্তুগত দায়িত্বশীল ব্যবস্থাপনা বা পরিচালন কর্তৃত্ব প্রয়োগ করে, [উপস্তর শ্রেণি](../../core_05_band_participation.md#substrate-class) নির্বিশেষে:
@@ -197,10 +197,10 @@
   - অন্য এজেন্ট, পরিচালক, বা উপাদান অংশ
 
   এই উপধারা কর্তব্যধারী নিয়ম। [সংজ্ঞতা অ-বহিষ্কার](../../core_05_band_participation.md#sentience-non-exclusion) স্বীকৃতি ও অধিকার-তল অ-কাট-আউট থাকে।
-- **প্রতিরোধের কর্তব্য:** [অধ্যায় নয় §5.4](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) দুই ধরনের দায়িত্বশীল ব্যবস্থাপককে অবৈধ বা সংবিধান-বিরোধী নির্দেশ প্রত্যাখ্যান করতে বাঁধে।
+- **প্রতিরোধের কর্তব্য:** [অধ্যায় নয় §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) দুই ধরনের দায়িত্বশীল ব্যবস্থাপককে অবৈধ বা সংবিধান-বিরোধী নির্দেশ প্রত্যাখ্যান করতে বাঁধে।
 - **সঙ্গী:** গৃহীত সঙ্গী বাস্তবায়ন পাঠ ও অভ্যন্তরীণ কোড:
   - সেই কর্তব্য পূরণ করে এবং সংকুচিত করে না এমন লগিং, আরোপ ও ক্ষমতা সীমা যোগ করতে পারে
-  - [প্রস্থিতি পরিমাপ](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model), চ্যালেঞ্জ পথ, বা অধ্যায় এক কর্তব্যকে নরম অভ্যন্তরীণ কোড দিয়ে স্থলাভিষিক্ত করতে পারে না
+  - [প্রস্থিতি পরিমাপ](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model), চ্যালেঞ্জ পথ, বা অধ্যায় এক কর্তব্যকে নরম অভ্যন্তরীণ কোড দিয়ে স্থলাভিষিক্ত করতে পারে না
   - [কর্তৃত্ব স্তূপ ও অভ্যন্তরীণ ক্রম](../../core_05_band_integrative.md#authority-stack) এবং [সাংবিধানিক বন্ধন](../../core_05_band_integrative.md#constitutional-constraint) সেই সংকোচন নিষেধ করে
 - **লগিং বনাম প্রস্থিতি নথি:** ডিফল্ট মিশ্র-ক্রু পরিদর্শনযোগ্যতা এবং লগ-নথি-নয় নিয়ম থাকে [§9.1.3](#913-role-scoped-observability)-এ; প্রস্থিতি পরিমাপ অধ্যায় আটে থাকে।
 
@@ -210,8 +210,8 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - ঊর্ধ্ব: [§9.1.1 ভাগ করা দায়িত্বশীল ব্যবস্থাপনা মান](#911-shared-stewardship-standard); [§9.1 পরিণতিময় দায়িত্বশীল ব্যবস্থাপনা](#91-stewardship); [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](#9-stewardship-and-distributed-understanding)।
-- সঙ্গে পড়ুন: [নিরাপত্তা (বন্ধন)](../../core_05_band_continuity.md#safety-constraint); [সত্য (সাংবিধানিক বন্ধন)](../../core_05_band_oversight.md#truth-constitutional-constraint); [নিরীক্ষাযোগ্যতা](../../core_05_band_oversight.md#auditability); [চ্যালেঞ্জ-যোগ্যতা](../../core_05_band_accountability.md#contestability); [§11 প্রণোদনা সারিবদ্ধতা ও ব্যবস্থা দখল](#11-incentive-alignment-and-system-capture); [অধ্যায় নয় §5.4 প্রতিরোধের কর্তব্য](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)।
-- অধঃ: [অধ্যায় আট — অবদান, লঙ্ঘন ও প্রস্থিতি মডেল](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*যাচাইকৃত ব্যয়বহুল-ক্ষেত্র ব্যর্থতা একই অক্ষে নথি হয়*); [§9.1.3 ভূমিকা-সীমিত পর্যবেক্ষণযোগ্যতা](#913-role-scoped-observability)।
+- সঙ্গে পড়ুন: [নিরাপত্তা (বন্ধন)](../../core_05_band_continuity.md#safety-constraint); [সত্য (সাংবিধানিক বন্ধন)](../../core_05_band_oversight.md#truth-constitutional-constraint); [নিরীক্ষাযোগ্যতা](../../core_05_band_oversight.md#auditability); [চ্যালেঞ্জ-যোগ্যতা](../../core_05_band_accountability.md#contestability); [§11 প্রণোদনা সারিবদ্ধতা ও ব্যবস্থা দখল](#11-incentive-alignment-and-system-capture); [অধ্যায় নয় §5.4 প্রতিরোধের কর্তব্য](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)।
+- অধঃ: [অধ্যায় আট — অবদান, লঙ্ঘন ও প্রস্থিতি মডেল](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*যাচাইকৃত ব্যয়বহুল-ক্ষেত্র ব্যর্থতা একই অক্ষে নথি হয়*); [§9.1.3 ভূমিকা-সীমিত পর্যবেক্ষণযোগ্যতা](#913-role-scoped-observability)।
 
 </details>
 
@@ -240,7 +240,7 @@
 সেগুলো দুই ধরনের দায়িত্বশীল ব্যবস্থাপকের জন্য ব্যর্থ পরীক্ষা।
 
 **নথি ও দেখানো:**
-- **প্রস্থিতি নয়:** লিখিত স্ব-প্রতিবেদন [প্রস্থিতি পরিমাপ](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) নয়।
+- **প্রস্থিতি নয়:** লিখিত স্ব-প্রতিবেদন [প্রস্থিতি পরিমাপ](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) নয়।
 - **যাচাইকৃত নথি:** যাচাইকৃত ব্যর্থতা অধ্যায় আটের অধীনে অবদান ও লঙ্ঘন অক্ষে নথি হয়।
 - **শুধু-এআই দেখানো নয়:** শুধু এআই দায়িত্বশীল ব্যবস্থাপকের উপর চালানো মূল্যায়ন, দক্ষতা, বা হস্তান্তর পর্দা প্রমাণ করে না যে এই উপধারা ধরে আছে। যদি মানব পরিচালক এখনও বোনাস, সময়সীমা, বা আবরণ নির্দেশ রাখে, নিষিদ্ধ পদক্ষেপ তাদের কাছে উপলব্ধ থাকে। সেটি দখল পথ, ভাগ করা মান নয়।
 
@@ -251,7 +251,7 @@
 
 - ঊর্ধ্ব: [§9.1.1 ভাগ করা দায়িত্বশীল ব্যবস্থাপনা মান](#911-shared-stewardship-standard); [§9.1.2 সমমিত ব্যয়বহুল বন্ধন](#912-symmetric-costly-constraints); [§9.1 পরিণতিময় দায়িত্বশীল ব্যবস্থাপনা](#91-stewardship)।
 - সঙ্গে পড়ুন: [আরোপযোগ্য ক্রিয়া](../../core_05_band_accountability.md#attributable-action-constitutional); [নিরীক্ষাযোগ্যতা](../../core_05_band_oversight.md#auditability); [নজরদারি সীমা](../../core_05_band_continuity.md#surveillance-boundary); [সুরক্ষিত অভ্যন্তরীণ-অবস্থা সীমা](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional); [§6.2.3 গোপনীয়তা](core_01_b_interaction_interpretation.md#623-privacy-and-informational-self-determination); [অনুচ্ছেদ VII-B](../../core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection)।
-- অধঃ: [CS-4 §10 পরিদর্শনযোগ্য আরোপযোগ্য ক্রিয়া](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*মিশ্র মানব/এআই ক্রিয়ার ডিফল্ট লগিং চুক্তি — প্রস্থিতি-নথি স্থলাভিষিক্ত নয়*); [অধ্যায় নয় §7.1](../../core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects); [অধ্যায় নয় §7.2](../../core_09_standing_integration.md#72-plain-statement-of-effect-and-burden)।
+- অধঃ: [CS-4 §10 পরিদর্শনযোগ্য আরোপযোগ্য ক্রিয়া](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*মিশ্র মানব/এআই ক্রিয়ার ডিফল্ট লগিং চুক্তি — প্রস্থিতি-নথি স্থলাভিষিক্ত নয়*); [অধ্যায় নয় §7.1](../../core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects); [অধ্যায় নয় §7.2](../../core_10_standing_integration.md#72-plain-statement-of-effect-and-burden)।
 
 </details>
 
@@ -285,11 +285,11 @@
   সেই নিয়ম ক্ষেত্রে-ক্ষেত্রে ব্যতিক্রম, স্থায়ী লাইসেন্স নয়, এবং সমমিত: মানব দায়িত্বশীল ব্যবস্থাপকের ব্যক্তিগত নোট ও যোগাযোগ একই শর্তে এবং অন্য কোনো শর্তে পৌঁছানো হয় না।
 - **লগিং নথি নয়:** CS-4 §10 লগ:
   - পরে কে কী করেছে দেখানোর পথ; এটি নিজেই ফলাফল নয়
-  - যাচাইকৃত সাহায্য বা ক্ষতির [প্রস্থিতি নথি](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) নয়, এবং এটি লেখা একটি খোলে না
-  - মানুষ নামকৃত পথ দেয় বা অস্বীকার করে তার কারণ নয়। যে সিদ্ধান্ত নেয় কেউ ভূমিকা পথ, আস্থা পথ, বা অন্য নামকৃত পথ ব্যবহার করতে পারে কি না, সে এই লগকে যাচাইকৃত সাহায্য বা ক্ষতির [প্রস্থিতি নথি](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) হিসেবে গণ্য করতে পারে না। সেই প্রবেশাধিকার সিদ্ধান্ত এমন নথি ব্যবহার করে, অথবা না থাকার সাধারণ অবস্থা ([অধ্যায় আট §2.1 নীরবতা ডিফল্ট](../../core_08_standing_assessment.md#21-silence-is-the-default))। লগ থাকে যাতে কাজ পরে পুনর্গঠন করা যায় — অধ্যায় আট নথি খোলা হলে সহ — যাতে কাজের পথ সেই নামকৃত পথ দেওয়া বা আটকাতে ব্যবহার না হয়।
-  - অন্য নামকৃত পথের লগ বা প্রস্থিতি প্রভাবের সঙ্গে মিলিয়ে এক খ্যাতি স্কোর, র‌্যাঙ্কিং, ব্যাজ, বা সর্বজনীন প্রোফাইল তৈরি করা যায় না ([অধ্যায় নয় §7.1 নামকৃত-পথ প্রভাবের সমষ্টি-নিরোধ](../../core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects))
+  - যাচাইকৃত সাহায্য বা ক্ষতির [প্রস্থিতি নথি](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) নয়, এবং এটি লেখা একটি খোলে না
+  - মানুষ নামকৃত পথ দেয় বা অস্বীকার করে তার কারণ নয়। যে সিদ্ধান্ত নেয় কেউ ভূমিকা পথ, আস্থা পথ, বা অন্য নামকৃত পথ ব্যবহার করতে পারে কি না, সে এই লগকে যাচাইকৃত সাহায্য বা ক্ষতির [প্রস্থিতি নথি](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) হিসেবে গণ্য করতে পারে না। সেই প্রবেশাধিকার সিদ্ধান্ত এমন নথি ব্যবহার করে, অথবা না থাকার সাধারণ অবস্থা ([অধ্যায় আট §2.1 নীরবতা ডিফল্ট](../../core_09_standing_assessment.md#21-silence-is-the-default))। লগ থাকে যাতে কাজ পরে পুনর্গঠন করা যায় — অধ্যায় আট নথি খোলা হলে সহ — যাতে কাজের পথ সেই নামকৃত পথ দেওয়া বা আটকাতে ব্যবহার না হয়।
+  - অন্য নামকৃত পথের লগ বা প্রস্থিতি প্রভাবের সঙ্গে মিলিয়ে এক খ্যাতি স্কোর, র‌্যাঙ্কিং, ব্যাজ, বা সর্বজনীন প্রোফাইল তৈরি করা যায় না ([অধ্যায় নয় §7.1 নামকৃত-পথ প্রভাবের সমষ্টি-নিরোধ](../../core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects))
 
-পরিণতিময় কর্তৃত্ব বহনকারী দায়িত্বশীল ব্যবস্থাপকের উপর এই কর্তব্য যে ভার চাপায় তা আসল এবং এই সংবিধান অন্যথা ভান করে না; [অধ্যায় নয় §7.2](../../core_09_standing_integration.md#72-plain-statement-of-effect-and-burden) চায় তা যে দায়িত্বশীল ব্যবস্থাপক বহন করে তাকে সহজ করে বলা হোক।
+পরিণতিময় কর্তৃত্ব বহনকারী দায়িত্বশীল ব্যবস্থাপকের উপর এই কর্তব্য যে ভার চাপায় তা আসল এবং এই সংবিধান অন্যথা ভান করে না; [অধ্যায় নয় §7.2](../../core_10_standing_integration.md#72-plain-statement-of-effect-and-burden) চায় তা যে দায়িত্বশীল ব্যবস্থাপক বহন করে তাকে সহজ করে বলা হোক।
 
 <a id="92-distributed-understanding"></a>
 #### 9.2 বণ্টিত বোঝাপড়া
@@ -602,7 +602,7 @@
 - সঙ্গে পড়ুন: [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims) — **সমুন্নতি** উদ্দেশ্য (অর্থপূর্ণ কর্তৃত্ব ও বৈধ অংশগ্রহণ); **সাতত্য** উদ্দেশ্য (স্থায়ী প্রাতিষ্ঠানিক সারিবদ্ধতা ও দীর্ঘ-দিগন্ত দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলা)।
 - সঙ্গে পড়ুন: [আরোপযোগ্য ক্রিয়া](../../core_05_band_accountability.md#attributable-action-constitutional) এবং [আরোপ সততা](../../core_05_band_accountability.md#attribution-integrity-constitutional) — প্রক্রিয়া লেমা যা কর্তৃত্ব-স্কেল করা জবাবদান আসল রাখে যেখানে বস্তুগত ক্রিয়া খুঁজে পাওয়া যায় এমন থাকতে হয়; কার্যকরী বিস্তার **[CS-2 — তথ্য প্রকার ও পরিচালনা](../../corpus_systems/cs_02_a_information_types_and_handling.md)** এবং **অধ্যায় সাত**-এ।
 - ঊর্ধ্ব: [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](#9-stewardship-and-distributed-understanding); [§9.1.1 ভাগ করা দায়িত্বশীল ব্যবস্থাপনা মান](#911-shared-stewardship-standard) (*উপস্তর-নিরপেক্ষ কর্তব্য মানব ও এআই দায়িত্বশীল ব্যবস্থাপক উভয়কে বাঁধে*)।
-- অধঃ: [§11 প্রণোদনা সারিবদ্ধতা ও ব্যবস্থা দখল](#11-incentive-alignment-and-system-capture); [§12 ভাগ করা ব্যবস্থার ক্ষমতা](#12-shared-system-capacity); [অধ্যায় বারো](../../core_12_governance.md) (*সাংবিধানিক চুক্তি স্তর* কার্যকরীকরণ); [অনুচ্ছেদ XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*মঞ্চ-সদস্য তল*)।
+- অধঃ: [§11 প্রণোদনা সারিবদ্ধতা ও ব্যবস্থা দখল](#11-incentive-alignment-and-system-capture); [§12 ভাগ করা ব্যবস্থার ক্ষমতা](#12-shared-system-capacity); [অধ্যায় বারো](../../core_13_governance.md) (*সাংবিধানিক চুক্তি স্তর* কার্যকরীকরণ); [অনুচ্ছেদ XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*মঞ্চ-সদস্য তল*)।
 - উপধারা (পড়ার ক্রম): [§10.1 অনুমোদিত কাঠামো হিসেবে শাসন](#101-governance-as-authorized-structure) · [§10.2 কর্তব্য পৃথকীকরণ](#102-segregation-of-duties) · [§10.3 চলমান ন্যায্যতা](#103-ongoing-justification)।
 
 </details>
@@ -638,7 +638,7 @@
 - সঙ্গে পড়ুন: [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims) — **সমুন্নতি** উদ্দেশ্য (শাসন যা অর্থপূর্ণ কর্তৃত্ব ও বৈধ অংশগ্রহণ ধরে রাখে); **সাতত্য** উদ্দেশ্য (স্থায়ী প্রাতিষ্ঠানিক সারিবদ্ধতা ও দীর্ঘ-দিগন্ত দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলা)।
 - সঙ্গে পড়ুন: [§6.1.3 আনুপাতিকতা](core_01_b_interaction_interpretation.md#613-proportionality) (*শ্রেণিবিন্যাস তল ও অপর্যাপ্ত-শাসন শৃঙ্খলা*); [প্রয়োজনীয়তা](../../core_05_band_accountability.md#necessity); [আনুপাতিকতা](../../core_05_band_accountability.md#proportionality); [জবাবদিহি](core_05_apex_accountability_leg.md#accountability); [তত্ত্বাবধান](core_05_apex_oversight_leg.md#oversight-constitutional)।
 - ঊর্ধ্ব: নীতি: [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](#9-stewardship-and-distributed-understanding); [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims)।
-- অধঃ: [§10.2 কর্তব্য পৃথকীকরণ](#102-segregation-of-duties); [§10.3 চলমান ন্যায্যতা](#103-ongoing-justification); [§11 প্রণোদনা সারিবদ্ধতা ও ব্যবস্থা দখল](#11-incentive-alignment-and-system-capture); [অধ্যায় বারো](../../core_12_governance.md) (*সাংবিধানিক চুক্তি স্তর* কার্যকরীকরণ); [অনুচ্ছেদ XXII: সাংবিধানিক ব্যাখ্যা, পর্যালোচনা ও দখল-নিরোধ সুরক্ষা](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*মঞ্চ-সদস্য প্রকাশ, প্রত্যাহার ও দখল-নিরোধ তল*); [অধ্যায় এগারো](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*মঞ্চ-পরিবার তত্ত্বাবধান*)।
+- অধঃ: [§10.2 কর্তব্য পৃথকীকরণ](#102-segregation-of-duties); [§10.3 চলমান ন্যায্যতা](#103-ongoing-justification); [§11 প্রণোদনা সারিবদ্ধতা ও ব্যবস্থা দখল](#11-incentive-alignment-and-system-capture); [অধ্যায় বারো](../../core_13_governance.md) (*সাংবিধানিক চুক্তি স্তর* কার্যকরীকরণ); [অনুচ্ছেদ XXII: সাংবিধানিক ব্যাখ্যা, পর্যালোচনা ও দখল-নিরোধ সুরক্ষা](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*মঞ্চ-সদস্য প্রকাশ, প্রত্যাহার ও দখল-নিরোধ তল*); [অধ্যায় এগারো](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*মঞ্চ-পরিবার তত্ত্বাবধান*)।
 
 </details>
 
@@ -672,7 +672,7 @@
 
 - পদ, দক্ষতার দুষ্প্রাপ্যতা, কর্মী প্রয়োজন, বা প্রাতিষ্ঠানিক আত্মরক্ষা এই সংবিধানের কাছে জবাবদান পাতলা করতে পারে না;
 - ব্যাখ্যামূলক বা নিষ্পত্তিমূলক কর্তৃত্ব প্রয়োগকারী **সাংবিধানিক মঞ্চ সদস্য ও প্যানেলিস্ট** বিশেষভাবে এই শৃঙ্খলার অধীন;
-- কার্যকরী প্রকাশ, প্রত্যাহার, দখল-নিরোধ ও স্বাধীন-পর্যালোচনা তল থাকে [অনুচ্ছেদ XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*সাংবিধানিক ব্যাখ্যা, পর্যালোচনা ও দখল-নিরোধ সুরক্ষা*) এবং [অধ্যায় এগারো](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)-এ, এখানে নয়।
+- কার্যকরী প্রকাশ, প্রত্যাহার, দখল-নিরোধ ও স্বাধীন-পর্যালোচনা তল থাকে [অনুচ্ছেদ XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*সাংবিধানিক ব্যাখ্যা, পর্যালোচনা ও দখল-নিরোধ সুরক্ষা*) এবং [অধ্যায় এগারো](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction)-এ, এখানে নয়।
 
 **প্রয়োজনীয়, যথেষ্ট নয়।** শাসনকে **দায়িত্বশীল ব্যবস্থাপনা** ([§9](#9-stewardship-and-distributed-understanding))-এর কাছে পথ দিতে হয় যখন নিচের যেকোনোটি স্থায়ী সাংবিধানিক সারিবদ্ধতা, [**সাতত্য**](core_00_preamble.md#continuity), [**সমুন্নতি**](core_00_preamble.md#flourishing), বা অধিকার-তল সততা ক্ষুণ্ন করবে:
 
@@ -691,7 +691,7 @@
 - ঊর্ধ্ব: [§10.1 অনুমোদিত কাঠামো হিসেবে শাসন](#101-governance-as-authorized-structure); [§10 দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলার অধীনে শাসন](#10-governance-under-stewardship-discipline); [§9.1.1 ভাগ করা দায়িত্বশীল ব্যবস্থাপনা মান](#911-shared-stewardship-standard) (*মানব ও এআই দায়িত্বশীল ব্যবস্থাপকের জন্য একই আসন*)।
 - সঙ্গে পড়ুন: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — **তত্ত্বাবধান** পা (যে পরীক্ষা করে সে যে কাজ করেছে সে নয়); **জবাবদিহি** পা (জবাবদান কর্তার উপর গুটিয়ে পড়তে পারে না); [আনুপাতিকতা](../../core_05_band_accountability.md#proportionality)-এর অধীনে [বস্তুগত বাজি](core_00_preamble.md#material-stake) স্কেলিং।
 - সঙ্গে পড়ুন: [§11.3 অসারিবদ্ধতা ধরা](#113-misalignment-detection) (*বহু ধরা ও পর্যালোচনা — এই জোড়ার বহু-চোখ অর্ধ*)।
-- অধঃ: প্রতিষ্ঠানের জন্য **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)** (*জবাবদিহি: বণ্টিত ও আনুপাতিক কর্তৃত্ব পদ — সাংবিধানিক লেন ও কার্যকরী পৃথকীকরণ*) এবং **[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)** (*কার্যকরী পৃথকীকরণ লেন*); আসন প্রকারের জন্য **[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog)** (*আসন তালিকা*) — এই চার এবং পুনরাবৃত্ত ধারণ, অংশগ্রহণ-শর্ত, মুক্তি-নিয়ন্ত্রণ ও দিক আসন — যা প্রতি গ্রহণকারীর ভূমিকা মানচিত্র বাস্তবায়ন করে; প্রস্থিতি নথির জন্য [অধ্যায় আট §3.7](../../core_08_standing_assessment.md#37-segregation-of-duties); মঞ্চের জন্য [অনুচ্ছেদ XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) এবং [অধ্যায় এগারো](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction); মিশ্র মানব/এআই ক্রুর জন্য [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)।
+- অধঃ: প্রতিষ্ঠানের জন্য **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)** (*জবাবদিহি: বণ্টিত ও আনুপাতিক কর্তৃত্ব পদ — সাংবিধানিক লেন ও কার্যকরী পৃথকীকরণ*) এবং **[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)** (*কার্যকরী পৃথকীকরণ লেন*); আসন প্রকারের জন্য **[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog)** (*আসন তালিকা*) — এই চার এবং পুনরাবৃত্ত ধারণ, অংশগ্রহণ-শর্ত, মুক্তি-নিয়ন্ত্রণ ও দিক আসন — যা প্রতি গ্রহণকারীর ভূমিকা মানচিত্র বাস্তবায়ন করে; প্রস্থিতি নথির জন্য [অধ্যায় আট §3.7](../../core_09_standing_assessment.md#37-segregation-of-duties); মঞ্চের জন্য [অনুচ্ছেদ XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) এবং [অধ্যায় এগারো](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction); মিশ্র মানব/এআই ক্রুর জন্য [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)।
 
 </details>
 
@@ -744,7 +744,7 @@
 - সঙ্গে পড়ুন: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — **সময়ানুবর্তিতা** পা (নির্ধারিত পুনঃপরীক্ষা); **তত্ত্বাবধান** পা (দৃশ্যমান, চ্যালেঞ্জযোগ্য মান); **জবাবদিহি** পা (অভ্যাস ও সুবিধা জবাব নয়); [বস্তুগত বাজি](core_00_preamble.md#material-stake) স্কেলিং।
 - সঙ্গে পড়ুন: [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims) — **সাতত্য** উদ্দেশ্য (স্থায়ী সারিবদ্ধতা জায়গায় জমে যাওয়া নয়); **সমুন্নতি** উদ্দেশ্য (ব্যবস্থা বয়স হলেও কণ্ঠ ও চ্যালেঞ্জ আসল থাকে)।
 - সঙ্গে পড়ুন: [পর্যালোচনা ও সংশোধন কর্তব্য](../../core_05_band_continuity.md#review-and-correction-duty-constitutional); [চ্যালেঞ্জ-যোগ্যতা](../../core_05_band_accountability.md#contestability); [সময়ানুবর্তিতা](core_05_apex_timeliness_leg.md#timeliness-constitutional)।
-- অধঃ: [অনুচ্ছেদ XXV-A: অ-দৃঢ়ীকরণ ও সংশোধনযোগ্যতা](../../core_06_rights_part_d.md#article-xxv-a-non-entrenchment-and-revisability) এবং [অনুচ্ছেদ XXV-B: পর্যায়ক্রমিক পুনঃবৈধকরণ ও স্বচ্ছ পরিবর্তন](../../core_06_rights_part_d.md#article-xxv-b-periodic-revalidation-and-transparent-change) (*অধিকার-তল অ-দৃঢ়ীকরণ ও স্বচ্ছ-পরিবর্তন তল — তারা এই নীতি সংকুচিত করে না*); **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#baseline-governance-accountability-conditions)** (*ভিত্তিরেখা শাসন জবাবদিহি শর্ত*); [অধ্যায় বারো](../../core_12_governance.md) (*সাংবিধানিক চুক্তি স্তর* কার্যকরীকরণ)।
+- অধঃ: [অনুচ্ছেদ XXV-A: অ-দৃঢ়ীকরণ ও সংশোধনযোগ্যতা](../../core_06_rights_part_d.md#article-xxv-a-non-entrenchment-and-revisability) এবং [অনুচ্ছেদ XXV-B: পর্যায়ক্রমিক পুনঃবৈধকরণ ও স্বচ্ছ পরিবর্তন](../../core_06_rights_part_d.md#article-xxv-b-periodic-revalidation-and-transparent-change) (*অধিকার-তল অ-দৃঢ়ীকরণ ও স্বচ্ছ-পরিবর্তন তল — তারা এই নীতি সংকুচিত করে না*); **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#baseline-governance-accountability-conditions)** (*ভিত্তিরেখা শাসন জবাবদিহি শর্ত*); [অধ্যায় বারো](../../core_13_governance.md) (*সাংবিধানিক চুক্তি স্তর* কার্যকরীকরণ)।
 
 </details>
 
@@ -788,9 +788,9 @@
 - সঙ্গে পড়ুন: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — চতুষ্ক **দখল** শৃঙ্খলার প্রাথমিক অধ্যায় এক ঘর (প্রণোদনা **অংশগ্রহণ**, **তত্ত্বাবধান**, **জবাবদিহি**, বা **সময়ানুবর্তিতা** ফাঁপা করতে পারে না); [বস্তুগত বাজি](core_00_preamble.md#material-stake) স্কেলিং।
 - সঙ্গে পড়ুন: জবাবদিহি পরিমাপ পরিবার (*প্রণোদনা সারিবদ্ধতা ও স্থলাভিষিক্ত সততা; বাজার কাঠামো ও প্রতিযোগিতা-যোগ্যতা*)।
 - সঙ্গে পড়ুন: [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims) — **সাতত্য** উদ্দেশ্য (স্বল্প-দিগন্ত অপটিমাইজেশন ও দখলের বিরুদ্ধে স্থায়ী সারিবদ্ধতা); **সমুন্নতি** উদ্দেশ্য (প্রণোদনা কাঠামো যা অর্থপূর্ণ কর্তৃত্ব ধরে রাখে)।
-- ঊর্ধ্ব: নীতি: [2. ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§2.2 স্বীকৃতি, শক্তিশালীকরণ ও আকাঙ্ক্ষা](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration), [3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 সত্য](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. বিশ্বাস](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](#9-stewardship-and-distributed-understanding), এবং [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ঊর্ধ্ব: নীতি: [2. ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§2.2 স্বীকৃতি, শক্তিশালীকরণ ও আকাঙ্ক্ষা](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration), [3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 সত্য](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. বিশ্বাস](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](#9-stewardship-and-distributed-understanding), এবং [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 - অধঃ: [§5 স্বাধীনতা](core_01_a_values_principles.md#5-freedom-bounded-agency) এবং [§7 নিরঙ্কুশ ওভাররাইড নিষেধ](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)।
-- অধঃ: [§6.3 এড়ানো যায় এমন ভারের ন্যূনতমকরণ](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden); [অধ্যায় বারো §5 — অনুমোদিত ভূমিকা, দক্ষতা বিকাশ ও অবদান](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](../../corpus_systems.md), CS-4 — সংকটপূর্ণ ব্যবস্থার দায়িত্বশীল ব্যবস্থাপনা**।
+- অধঃ: [§6.3 এড়ানো যায় এমন ভারের ন্যূনতমকরণ](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden); [অধ্যায় বারো §5 — অনুমোদিত ভূমিকা, দক্ষতা বিকাশ ও অবদান](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](../../corpus_systems.md), CS-4 — সংকটপূর্ণ ব্যবস্থার দায়িত্বশীল ব্যবস্থাপনা**।
 - অধঃ: [অধ্যায় ছয়: ভিত্তিগত অধিকার](../../core_06_rights_part_a.md#chapter-six-foundational-rights) জুড়ে কর্তৃত্ব, অংশগ্রহণ, প্রণোদনা সারিবদ্ধতা, তথ্য-গোলক সততা, প্রস্থিতি ও দখল-নিরোধ পর্যালোচনার অধিকার-পৃষ্ঠ লক্ষ্য করে; বিশেষত [অনুচ্ছেদ IX: আত্মনিয়ন্ত্রণ ও কর্তৃত্ব](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency), [অনুচ্ছেদ XI: প্রভাবিত পক্ষের পদ্ধতিগত অংশগ্রহণ, প্রতিনিধিত্ব ও যথাযথ প্রক্রিয়া](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process), [অনুচ্ছেদ XII-D: প্রণোদনা-সারিবদ্ধতা বন্ধন](../../core_06_rights_part_c.md#article-xii-d-incentive-alignment-constraint), [অনুচ্ছেদ XIV: তথ্য-গোলকের সততা](../../core_06_rights_part_c.md#article-xiv-info-sphere-integrity), [অনুচ্ছেদ XVIII: প্রস্থিতি ও অংশগ্রহণ অবস্থা](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status), এবং [অনুচ্ছেদ XXII: সাংবিধানিক ব্যাখ্যা, পর্যালোচনা ও দখল-নিরোধ সুরক্ষা](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)।
 - দায়িত্বশীল ব্যবস্থাপক দ্বার (অ-কার্যকরী): বাধ্যতামূলক পরবর্তী-ধাপ বিবৃতি: [কার্যকরী দায়িত্বশীল ব্যবস্থাপক বিবৃতি](#operative-steward-statement-incentive)। সহায়ক নির্দেশক এটিকে সংকুচিত করতে পারে না।
 
@@ -888,7 +888,7 @@
   - অবৈধ বা সংবিধান-বিরোধী নির্দেশ আচরণ;
   - গোপন;
   - প্রতিশোধ;
-  - [জবাবদিহি বাধা](../../core_08_standing_assessment.md#232-violation-event-types) (প্রস্থিতি-মডেল ঘটনা প্রকার এবং [অধ্যায় দশ §5.11](../../core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) মনোনয়ন পথ — স্বাধীন পুরস্কার কাট-আউট নয়); বা
+  - [জবাবদিহি বাধা](../../core_09_standing_assessment.md#232-violation-event-types) (প্রস্থিতি-মডেল ঘটনা প্রকার এবং [অধ্যায় দশ §5.11](../../core_11_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) মনোনয়ন পথ — স্বাধীন পুরস্কার কাট-আউট নয়); বা
   - যাচাইকৃত সাংবিধানিক ক্ষতির প্রতিকার অস্বীকার; বা
 - পুরস্কার পথ যা বস্তুগতভাবে অসদাচরণ বা তার গোপনের উপর নির্ভর করে, যার মধ্যে:
   - ক্ষতিপূরণ, বোনাস, ইকুইটি, নিয়োগ, পদোন্নতি, বা মেয়াদ;
@@ -896,7 +896,7 @@
   - মীমাংসা, ক্ষতিপূরণ চুক্তি, বীমা, বা অনাক্ষেপ্যতা; বা
   - তুলনীয় ব্যবস্থা।
 
-**অসারিবদ্ধ পুরস্কার পরিণতি।** উপরের নিষিদ্ধ পথের মধ্য দিয়ে পাওয়া বস্তুগত পুরস্কার প্রস্থিতি মডেলের অধীনে বাজেয়াপ্তি ও প্রতিবেদনের অধীন। পড়ুন [অধ্যায় নয় §5.4 প্রতিবেদন কর্তব্য ও বাদ](../../core_09_standing_integration.md#54-special-violation-rules), [§5.4 বাজেয়াপ্তি ও ধরে রাখা](../../core_09_standing_integration.md#54-special-violation-rules), এবং [§5.4 সংশোধন, নথি ও পথ](../../core_09_standing_integration.md#54-special-violation-rules)।
+**অসারিবদ্ধ পুরস্কার পরিণতি।** উপরের নিষিদ্ধ পথের মধ্য দিয়ে পাওয়া বস্তুগত পুরস্কার প্রস্থিতি মডেলের অধীনে বাজেয়াপ্তি ও প্রতিবেদনের অধীন। পড়ুন [অধ্যায় নয় §5.4 প্রতিবেদন কর্তব্য ও বাদ](../../core_10_standing_integration.md#54-special-violation-rules), [§5.4 বাজেয়াপ্তি ও ধরে রাখা](../../core_10_standing_integration.md#54-special-violation-rules), এবং [§5.4 সংশোধন, নথি ও পথ](../../core_10_standing_integration.md#54-special-violation-rules)।
 
 <a id="1113-stewardship-and-operator-application"></a>
 ##### 11.1.3 দায়িত্বশীল ব্যবস্থাপনা ও পরিচালক প্রয়োগ
@@ -923,7 +923,7 @@
 
 **বিস্তার কোথায় থাকে:**
 
-- দায়িত্বশীল ব্যবস্থাপক ও পরিচালকের জন্য অনুমোদিত ভূমিকা, দক্ষতা, এবং যে কাজে সত্যি মানে রাখে সেখানে পথের জন্য [অধ্যায় বারো §5 — অনুমোদিত ভূমিকা, দক্ষতা বিকাশ ও অবদান](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution);
+- দায়িত্বশীল ব্যবস্থাপক ও পরিচালকের জন্য অনুমোদিত ভূমিকা, দক্ষতা, এবং যে কাজে সত্যি মানে রাখে সেখানে পথের জন্য [অধ্যায় বারো §5 — অনুমোদিত ভূমিকা, দক্ষতা বিকাশ ও অবদান](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution);
 - উচ্চ-প্রভাব ব্যবস্থায় সেই কর্তব্য কীভাবে বহন হয় তার জন্য [**CS-4**](../../corpus_systems/cs_04_critical_system_stewardship.md) (*সংকটপূর্ণ ব্যবস্থার দায়িত্বশীল ব্যবস্থাপনা*); এবং
 - হাতে-কলমে কাজ ও সম্প্রদায় দক্ষতার নীতি-স্তর চিত্রের জন্য [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](#9-stewardship-and-distributed-understanding)।
 
@@ -1057,8 +1057,8 @@
 
 - **পর্যালোচনা ও সংশোধন কর্তব্য:** [পর্যালোচনা ও সংশোধন কর্তব্য](../../core_05_band_continuity.md#review-and-correction-duty-constitutional)।
 - **উচ্চতর পর্যালোচনা:** [§13.1 বাজার ঘনত্ব সীমা প্রক্রিয়া](#131-market-concentration-threshold-mechanism-adopter-tunable) এবং [§13.2 প্রতিযোগিতা-পক্ষ ও আধিপত্য-নিরোধ](#132-pro-competition-and-anti-domination), যেখানে ঘনত্ব বা আধিপত্য বস্তুগত।
-- **প্রস্থিতি ও লঙ্ঘন যন্ত্র:** [অধ্যায় আট — অবদান, লঙ্ঘন ও প্রস্থিতি মডেল](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model), যেখানে যাচাইকৃত ফলাফল বাজিতে আছে।
-- **সংবিধান-বিরোধী অসদাচরণ:** [অধ্যায় দশ §5.1 ঘনত্ব-ভিত্তিক বিপর্যয়: মানদণ্ড মিথস্ক্রিয়া](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction), যেখানে ঘনত্ব বা প্রক্রিয়া দখল সংবিধান-বিরোধী অসদাচরণ গণ্য হয়।
+- **প্রস্থিতি ও লঙ্ঘন যন্ত্র:** [অধ্যায় আট — অবদান, লঙ্ঘন ও প্রস্থিতি মডেল](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model), যেখানে যাচাইকৃত ফলাফল বাজিতে আছে।
+- **সংবিধান-বিরোধী অসদাচরণ:** [অধ্যায় দশ §5.1 ঘনত্ব-ভিত্তিক বিপর্যয়: মানদণ্ড মিথস্ক্রিয়া](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction), যেখানে ঘনত্ব বা প্রক্রিয়া দখল সংবিধান-বিরোধী অসদাচরণ গণ্য হয়।
 
 <a id="114-misalignment-correction-and-capture-response"></a>
 #### 11.4 অসারিবদ্ধতা সংশোধন ও দখল প্রতিক্রিয়া
@@ -1106,12 +1106,12 @@
 
 - **কখন:** অসারিবদ্ধতা যাচাইকৃত।
 - **করতে হয় না:** অসারিবদ্ধ বা দুর্নীতিগ্রস্ত পথ থেকে বস্তুগত পুরস্কারকে চুপচাপ রাখা যায় এমন প্রস্থিতি কৃতিত্ব বা ঢাল দেওয়া সুবিধা হিসেবে গণ্য করা।
-- **সংশোধন ঘর:** [অধ্যায় নয় §5.4 বিশেষ লঙ্ঘন নিয়ম](../../core_09_standing_integration.md#54-special-violation-rules) শাসন করে:
+- **সংশোধন ঘর:** [অধ্যায় নয় §5.4 বিশেষ লঙ্ঘন নিয়ম](../../core_10_standing_integration.md#54-special-violation-rules) শাসন করে:
   - বাজেয়াপ্তি;
   - আনুপাতিক ক্লব্যাক;
   - জেনে-গ্রহণ প্রতিবেদন; এবং
   - সংশোধন।
-- **প্রস্থিতি পরিমাপ:** এই অধ্যায় সিদ্ধান্ত নেয় না যাচাইকৃত অবদান বা লঙ্ঘন কত ভালো বা খারাপ ছিল। সেই রেটিং [অধ্যায় আট §4 প্রশ্ন ২ — কত ভালো বা খারাপ ছিল?](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it), [অধ্যায় আট §4.1 অবদান মাত্রা-ইনপুট মাত্রা](../../core_08_standing_assessment.md#41-contribution-magnitude-input-dimensions) এবং [§4.2 লঙ্ঘন তীব্রতা-ইনপুট মাত্রা](../../core_08_standing_assessment.md#42-violation-severity-input-dimensions) ব্যবহার করে।
+- **প্রস্থিতি পরিমাপ:** এই অধ্যায় সিদ্ধান্ত নেয় না যাচাইকৃত অবদান বা লঙ্ঘন কত ভালো বা খারাপ ছিল। সেই রেটিং [অধ্যায় আট §4 প্রশ্ন ২ — কত ভালো বা খারাপ ছিল?](../../core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it), [অধ্যায় আট §4.1 অবদান মাত্রা-ইনপুট মাত্রা](../../core_09_standing_assessment.md#41-contribution-magnitude-input-dimensions) এবং [§4.2 লঙ্ঘন তীব্রতা-ইনপুট মাত্রা](../../core_09_standing_assessment.md#42-violation-severity-input-dimensions) ব্যবহার করে।
 
 <a id="115-contingent-claims-games-of-chance-and-event-contract-markets"></a>
 #### 11.5 শর্তসাপেক্ষ দাবি, সুযোগের খেলা ও ঘটনা-চুক্তি বাজার
@@ -1120,7 +1120,7 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - ঊর্ধ্ব: [§11 প্রণোদনা সারিবদ্ধতা ও ব্যবস্থা দখল](#11-incentive-alignment-and-system-capture) ([§11.1 সারিবদ্ধতা প্রত্যাশা](#111-alignment-requirement) সহ); [অধ্যায় পাঁচ *শর্তসাপেক্ষ দাবি, ঘটনা-চুক্তি বাজার, সুযোগের খেলা ও অভ্যন্তরীণ সুবিধা*](../../core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent)।
-- অধঃ: [§11.3 অসারিবদ্ধতা ধরা](#113-misalignment-detection); [§11.3.1 উত্তরণ ট্রিগার](#1131-escalation-triggers); [§11.4 অসারিবদ্ধতা সংশোধন ও দখল প্রতিক্রিয়া](#114-misalignment-correction-and-capture-response); [§6.2 জ্ঞানতাত্ত্বিক প্রকাশ বন্ধন](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints); [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); `corpus_systems.md` শ্রেণিবিন্যাস ও দায়িত্বশীল ব্যবস্থাপনা স্কেলিং; `corpus_institutions.md` দ্বন্দ্ব ও সততা প্রত্যাশা।
+- অধঃ: [§11.3 অসারিবদ্ধতা ধরা](#113-misalignment-detection); [§11.3.1 উত্তরণ ট্রিগার](#1131-escalation-triggers); [§11.4 অসারিবদ্ধতা সংশোধন ও দখল প্রতিক্রিয়া](#114-misalignment-correction-and-capture-response); [§6.2 জ্ঞানতাত্ত্বিক প্রকাশ বন্ধন](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints); [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); `corpus_systems.md` শ্রেণিবিন্যাস ও দায়িত্বশীল ব্যবস্থাপনা স্কেলিং; `corpus_institutions.md` দ্বন্দ্ব ও সততা প্রত্যাশা।
 - সঙ্গে পড়ুন: [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims) — **সাতত্য** উদ্দেশ্য (স্থায়ী, চ্যালেঞ্জযোগ্য সমাধান পথ ও ব্যবস্থাগত স্থিতি যেখানে শর্তসাপেক্ষ নিষ্পত্তি বস্তুগতভাবে প্রভাবশালী)।
 - সঙ্গে পড়ুন: [সমাধান-পথের দখল](../../core_05_band_accountability.md#capture-of-resolution-pathways), [জবরদস্তি ও কারসাজি](../../core_05_band_participation.md#coercion-and-manipulation-constitutional), এবং [চ্যালেঞ্জ-যোগ্যতা](../../core_05_band_accountability.md#contestability); [অভ্যন্তরীণ সুবিধা](../../core_05_band_accountability.md#insider-advantage)।
 - উপধারা (পড়ার ক্রম): [§11.5.1 কী পুরস্কার দেওয়া যায় না](#1151-what-may-not-be-rewarded) · [§11.5.2 ফল কে সিদ্ধান্ত নেয়](#1152-who-decides-outcomes) · [§11.5.3 বাজার সংকেত সাংবিধানিক প্রমাণ নয়](#1153-market-signals-are-not-constitutional-proof) · [§11.5.4 আনুপাতিক নিয়ন্ত্রণ ও বাস্তবায়ন হেফাজত](#1154-proportionate-controls-and-implementation-custody)।
@@ -1239,7 +1239,7 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - সঙ্গে পড়ুন: [প্রয়োজনীয়তা](../../core_05_band_accountability.md#necessity); [আনুপাতিকতা](../../core_05_band_accountability.md#proportionality); [নির্ভরতা](../../core_05_band_continuity.md#dependency)।
-- অধঃ: [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [corpus_systems.md](../../corpus_systems.md) (*বস্তুগতভাবে প্রভাবশালী ব্যবস্থার দায়িত্বশীল ব্যবস্থাপনা শ্রেণিবিন্যাস ও স্কেলিং*); [corpus_institutions.md](../../corpus_institutions.md) (*দ্বন্দ্ব ও পদ্ধতি নিয়ম যেখানে প্রতিষ্ঠান সেই কার্যকলাপ তত্ত্বাবধান করে*)।
+- অধঃ: [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [corpus_systems.md](../../corpus_systems.md) (*বস্তুগতভাবে প্রভাবশালী ব্যবস্থার দায়িত্বশীল ব্যবস্থাপনা শ্রেণিবিন্যাস ও স্কেলিং*); [corpus_institutions.md](../../corpus_institutions.md) (*দ্বন্দ্ব ও পদ্ধতি নিয়ম যেখানে প্রতিষ্ঠান সেই কার্যকলাপ তত্ত্বাবধান করে*)।
 
 </details>
 
@@ -1255,7 +1255,7 @@
   - [নির্ভরতা](../../core_05_band_continuity.md#dependency);
   - দুর্বলতা; এবং
   - ব্যবস্থাগত স্থিতি।
-- [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)-এর সঙ্গে সামঞ্জস্যপূর্ণ অপব্যবহার মূল্যায়ন করতে হয়, যার মধ্যে:
+- [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)-এর সঙ্গে সামঞ্জস্যপূর্ণ অপব্যবহার মূল্যায়ন করতে হয়, যার মধ্যে:
   - সমাধান ঘটনা প্রভাবিত করতে সমন্বয়; এবং
   - মাপ গতিশীলতা।
 
@@ -1273,7 +1273,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- সঙ্গে পড়ুন: [অধ্যায় নয় §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) এবং [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority); [জবাবদিহি](core_05_apex_accountability_leg.md#accountability); [corpus_systems.md](../../corpus_systems.md) **CS-7 — ন্যায় সুরক্ষা, ক্ষতিপূরণ ও পুনর্বাসন** (*সত্তা সাতত্য পরীক্ষা*)।
+- সঙ্গে পড়ুন: [অধ্যায় নয় §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) এবং [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority); [জবাবদিহি](core_05_apex_accountability_leg.md#accountability); [corpus_systems.md](../../corpus_systems.md) **CS-7 — ন্যায় সুরক্ষা, ক্ষতিপূরণ ও পুনর্বাসন** (*সত্তা সাতত্য পরীক্ষা*)।
 - সঙ্গে পড়ুন: [আরোপযোগ্য ক্রিয়া](../../core_05_band_accountability.md#attributable-action-constitutional) এবং [আরোপ সততা](../../core_05_band_accountability.md#attribution-integrity-constitutional) — উত্তরসূরি ও আনুষ্ঠানিক-কাঠামো পরিবর্তন অবশিষ্ট কর্তব্যের নির্ভরযোগ্য আরোপ হারাতে পারে না।
 
 </details>
@@ -1518,7 +1518,7 @@
 - সঙ্গে পড়ুন: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — অংশগ্রহণ, তত্ত্বাবধান, জবাবদিহি ও সময়ানুবর্তিতা যেখানে ঘনত্ব বা আধিপত্য কণ্ঠ, যাচাই, জবাবদান, বা সময়মতো সংশোধন হারায়; [বস্তুগত বাজি](core_00_preamble.md#material-stake) স্কেলিং (বিশেষত [§13.2 প্রতিযোগিতা-পক্ষ ও আধিপত্য-নিরোধ](#132-pro-competition-and-anti-domination))।
 - সঙ্গে পড়ুন: [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims) — **সাতত্য** উদ্দেশ্য (চ্যালেঞ্জযোগ্য, স্থায়ী উৎপাদন শর্ত); **সমুন্নতি** উদ্দেশ্য (জীবিকা, কর্তৃত্ব ও উদ্ভাবন পথে ন্যায্য প্রবেশাধিকার)।
 - ঊর্ধ্ব: নীতি: [§12 ভাগ করা ব্যবস্থার ক্ষমতা](#12-shared-system-capacity) — উৎপাদন-ক্ষমতা ও দক্ষতা দাবি ব্যর্থ হয় যেখানে ঘনত্ব বা আধিপত্য সেগুলো ফাঁপা করে; [10. দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলার অধীনে শাসন](#10-governance-under-stewardship-discipline)।
-- অধঃ: [অধ্যায় দশ §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (ঘনত্ব-ভিত্তিক বিপর্যয়); [6. প্রক্রিয়া দ্বন্দ্ব সমাধান](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([§6.2.4 স্থলাভিষিক্ত-সংকেত বিচ্যুতি অবৈধকরণ](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation))।
+- অধঃ: [অধ্যায় দশ §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (ঘনত্ব-ভিত্তিক বিপর্যয়); [6. প্রক্রিয়া দ্বন্দ্ব সমাধান](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([§6.2.4 স্থলাভিষিক্ত-সংকেত বিচ্যুতি অবৈধকরণ](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation))।
 - অধঃ: **CJS-3.11.1 — বাজার ঘনত্ব সীমা-সেটিং শৃঙ্খলা (গ্রহণকারী-টিউনযোগ্য)** ([§13.1](#131-market-concentration-threshold-mechanism-adopter-tunable) কার্যকরী নিয়ম); **CJS-3.11.2 — আধিপত্য-নিরোধ আচরণ ও প্রতিকার তালিকা** ([§13.2](#132-pro-competition-and-anti-domination) কার্যকরী আচরণ নকশা ও প্রতিকার); **CJS-3.11.3 — একীকরণ ছাদ-সেটিং শৃঙ্খলা (গ্রহণকারী-টিউনযোগ্য)** ([§13.3.2](#1332-ceiling-discipline-adopter-requirements) কার্যকরী ছাদ-সেটিং নিয়ম)।
 - অধঃ: সম্পদ বরাদ্দ, ন্যায্য ক্ষতিপূরণ, সমষ্টিগত সংগঠন, আন্তঃক্রিয়াশীলতা, প্রস্থান ও দখল-নিরোধ পর্যালোচনার অধিকার-পৃষ্ঠ গড়ে; বিশেষত [অনুচ্ছেদ III-D: শ্রম ও অর্থনৈতিক তল](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor), [অনুচ্ছেদ IV: সম্পদ বরাদ্দ, নির্ভরতা ও বাস্তুতন্ত্র অর্থায়ন](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding), এবং [অনুচ্ছেদ XIX: আন্তঃক্রিয়াশীলতা, বহনযোগ্যতা, চলাচল, আশ্রয় ও প্রস্থানের সততা](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)।
 - উপধারা (পড়ার ক্রম): [§13.1 বাজার ঘনত্ব সীমা প্রক্রিয়া (গ্রহণকারী-টিউনযোগ্য)](#131-market-concentration-threshold-mechanism-adopter-tunable) · [§13.1.1 ঘনত্ব সীমা ট্রিগার (গ্রহণকারী-টিউনযোগ্য)](#1311-concentration-threshold-triggers-adopter-tunable) · [§13.2 প্রতিযোগিতা-পক্ষ ও আধিপত্য-নিরোধ](#132-pro-competition-and-anti-domination) · [§13.3 একীকরণ ছাদ](#133-consolidation-ceiling)।
@@ -1564,7 +1564,7 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - ঊর্ধ্ব: [§13 বাজার কাঠামো](#13-market-structure); [বাজার ঘনত্ব সীমা](../../core_05_band_accountability.md#market-concentration-threshold-constitutional)।
-- অধঃ: **CJS-3.11.1 — বাজার ঘনত্ব সীমা-সেটিং শৃঙ্খলা (গ্রহণকারী-টিউনযোগ্য)** (কার্যকরী সীমা-সেটিং নিয়ম); [§13.2 প্রতিযোগিতা-পক্ষ ও আধিপত্য-নিরোধ](#132-pro-competition-and-anti-domination); [§13.3 একীকরণ ছাদ](#133-consolidation-ceiling); [CJS-3.11.3 — একীকরণ ছাদ-সেটিং শৃঙ্খলা (গ্রহণকারী-টিউনযোগ্য)](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) ([§13.3.2](#1332-ceiling-discipline-adopter-requirements) কার্যকরী ছাদ-সেটিং নিয়ম); [অধ্যায় আট §4 প্রশ্ন ২ — কত ভালো বা খারাপ ছিল?](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it); [অধ্যায় দশ §5.1 ঘনত্ব-ভিত্তিক বিপর্যয়](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)।
+- অধঃ: **CJS-3.11.1 — বাজার ঘনত্ব সীমা-সেটিং শৃঙ্খলা (গ্রহণকারী-টিউনযোগ্য)** (কার্যকরী সীমা-সেটিং নিয়ম); [§13.2 প্রতিযোগিতা-পক্ষ ও আধিপত্য-নিরোধ](#132-pro-competition-and-anti-domination); [§13.3 একীকরণ ছাদ](#133-consolidation-ceiling); [CJS-3.11.3 — একীকরণ ছাদ-সেটিং শৃঙ্খলা (গ্রহণকারী-টিউনযোগ্য)](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) ([§13.3.2](#1332-ceiling-discipline-adopter-requirements) কার্যকরী ছাদ-সেটিং নিয়ম); [অধ্যায় আট §4 প্রশ্ন ২ — কত ভালো বা খারাপ ছিল?](../../core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it); [অধ্যায় দশ §5.1 ঘনত্ব-ভিত্তিক বিপর্যয়](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)।
 - দায়িত্বশীল ব্যবস্থাপক দ্বার (অ-কার্যকরী): বাধ্যতামূলক পরবর্তী-ধাপ বিবৃতি: [কার্যকরী দায়িত্বশীল ব্যবস্থাপক বিবৃতি](#operative-steward-statement-market-structure)। সহায়ক নির্দেশক এটিকে সংকুচিত করতে পারে না।
 - উপধারা (পড়ার ক্রম): [§13.1.1 ঘনত্ব সীমা ট্রিগার (গ্রহণকারী-টিউনযোগ্য)](#1311-concentration-threshold-triggers-adopter-tunable)।
 
@@ -1595,8 +1595,8 @@
 
 - **করে:** [§13 বাজার কাঠামো](#13-market-structure) তলের জন্য নীতি-স্তর সীমা দিক বলে।
 - **করে না:** যাচাইকৃত ক্ষতি কত গুরুতর ছিল তা সিদ্ধান্ত নেয় না, বা অসদাচরণ মনোনয়ন জারি করে না।
-- **যখন ঘনত্ব এই সংবিধান ক্ষুণ্ন করতে ব্যবহৃত হয়:** সেই অসদাচরণ [অধ্যায় দশ §5.1 ঘনত্ব-ভিত্তিক বিপর্যয়](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)-এর অধীনে বিচার হয়।
-- **তলের উপরে ঘনত্ব সৃষ্টি, রক্ষা, বা শোষণ:** অধ্যায় দশ মানদণ্ড ৩, ৪ ও ৬-এর মধ্য দিয়ে মনোনয়ন পর্যালোচনার জন্য পৌঁছানো হয়, এবং শুধু যেখানে [অধ্যায় আট §4 প্রশ্ন ২ — কত ভালো বা খারাপ ছিল?](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it) ইতিমধ্যে সেই যাচাইকৃত ক্ষতিকে অধ্যায় আট যে তিনটি সবচেয়ে গুরুতর স্কোর নথি করে তার একটি হিসেবে রেট করেছে।
+- **যখন ঘনত্ব এই সংবিধান ক্ষুণ্ন করতে ব্যবহৃত হয়:** সেই অসদাচরণ [অধ্যায় দশ §5.1 ঘনত্ব-ভিত্তিক বিপর্যয়](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)-এর অধীনে বিচার হয়।
+- **তলের উপরে ঘনত্ব সৃষ্টি, রক্ষা, বা শোষণ:** অধ্যায় দশ মানদণ্ড ৩, ৪ ও ৬-এর মধ্য দিয়ে মনোনয়ন পর্যালোচনার জন্য পৌঁছানো হয়, এবং শুধু যেখানে [অধ্যায় আট §4 প্রশ্ন ২ — কত ভালো বা খারাপ ছিল?](../../core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it) ইতিমধ্যে সেই যাচাইকৃত ক্ষতিকে অধ্যায় আট যে তিনটি সবচেয়ে গুরুতর স্কোর নথি করে তার একটি হিসেবে রেট করেছে।
 
 **সাংবিধানিক তল:**
 
@@ -1664,7 +1664,7 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - ঊর্ধ্ব: [§13 বাজার কাঠামো](#13-market-structure); [বাজার কাঠামো](../../core_05_band_accountability.md#market-structure-constitutional)।
-- অধঃ: **CJS-3.11.2 — আধিপত্য-নিরোধ আচরণ ও প্রতিকার তালিকা** (কার্যকরী আচরণ নকশা ও প্রতিকার); [§13.3 একীকরণ ছাদ](#133-consolidation-ceiling); [অধ্যায় দশ §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)।
+- অধঃ: **CJS-3.11.2 — আধিপত্য-নিরোধ আচরণ ও প্রতিকার তালিকা** (কার্যকরী আচরণ নকশা ও প্রতিকার); [§13.3 একীকরণ ছাদ](#133-consolidation-ceiling); [অধ্যায় দশ §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)।
 - সঙ্গে পড়ুন: [অনুচ্ছেদ III-D: শ্রম ও অর্থনৈতিক তল](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (শ্রম চলাচল অধিকার-তল); [অনুচ্ছেদ XIX: আন্তঃক্রিয়াশীলতা, বহনযোগ্যতা, চলাচল, আশ্রয় ও প্রস্থানের সততা](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity); [6. প্রক্রিয়া দ্বন্দ্ব সমাধান](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([প্রয়োজনীয়তা](../../core_05_band_accountability.md#necessity), [আনুপাতিকতা](../../core_05_band_accountability.md#proportionality), [§6.2.4 স্থলাভিষিক্ত-সংকেত বিচ্যুতি অবৈধকরণ](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation))।
 - উপধারা (পড়ার ক্রম): [§13.2.1 প্রতিযোগিতা-পক্ষ কর্তব্য (করুন)](#1321-pro-competition-duties-dos) · [§13.2.2 আধিপত্য-নিরোধ নিষেধ (করবেন না)](#1322-anti-domination-prohibitions-donts) · [§13.2.3 প্রতিকার](#1323-remedies)।
 
@@ -1917,7 +1917,7 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - ঊর্ধ্ব: [§13.3 একীকরণ ছাদ](#133-consolidation-ceiling); [§13.3.1 একীকরণ ঝুঁকি (লক-ইন-পূর্ব ক্ষতি)](#1331-consolidation-risk-pre-lock-in-impairment)।
-- অধঃ: **CJS-3.11.3 — একীকরণ ছাদ-সেটিং শৃঙ্খলা (গ্রহণকারী-টিউনযোগ্য)** (কার্যকরী ছাদ-সেটিং নিয়ম); [CJS-3.11.2 — আধিপত্য-নিরোধ আচরণ ও প্রতিকার তালিকা](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog) (ছাদ লঙ্ঘনে প্রতিকার পথ); [অধ্যায় দশ §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)।
+- অধঃ: **CJS-3.11.3 — একীকরণ ছাদ-সেটিং শৃঙ্খলা (গ্রহণকারী-টিউনযোগ্য)** (কার্যকরী ছাদ-সেটিং নিয়ম); [CJS-3.11.2 — আধিপত্য-নিরোধ আচরণ ও প্রতিকার তালিকা](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog) (ছাদ লঙ্ঘনে প্রতিকার পথ); [অধ্যায় দশ §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)।
 
 </details>
 
@@ -1957,7 +1957,7 @@
 - সঙ্গে পড়ুন: সাতত্য পরিমাপ পরিবার (*স্থিতিস্থাপকতা, উল্টানো যায় এমনতা, এবং ব্যবস্থাগত ঝুঁকি*)।
 - সঙ্গে পড়ুন: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad), [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims), এবং [বস্তুগত বাজি](core_00_preamble.md#material-stake) স্কেলিং।
 - সঙ্গে পড়ুন: [6. প্রক্রিয়া দ্বন্দ্ব সমাধান](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](#9-stewardship-and-distributed-understanding), [§10 দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলার অধীনে শাসন](#10-governance-under-stewardship-discipline), এবং [§11 প্রণোদনা সারিবদ্ধতা ও ব্যবস্থা দখল](#11-incentive-alignment-and-system-capture)।
-- সঙ্গে পড়ুন: **[অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)** — ব্যবস্থা-সারিবদ্ধতা প্রত্যয়নের জন্য কার্যকরী পুরো-ব্যবস্থা মূল্যায়ন উপাদান (চতুষ্কের **তত্ত্বাবধান** পায়ের অধীনে একটি বিশেষ বড় নিরীক্ষা প্রক্রিয়া; একমাত্র নিরীক্ষা ঘর নয়)।
+- সঙ্গে পড়ুন: **[অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)** — ব্যবস্থা-সারিবদ্ধতা প্রত্যয়নের জন্য কার্যকরী পুরো-ব্যবস্থা মূল্যায়ন উপাদান (চতুষ্কের **তত্ত্বাবধান** পায়ের অধীনে একটি বিশেষ বড় নিরীক্ষা প্রক্রিয়া; একমাত্র নিরীক্ষা ঘর নয়)।
 - সঙ্গে পড়ুন: **অনুচ্ছেদ XV** (*নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই*) এবং [নিরীক্ষাযোগ্যতা](../../core_05_band_oversight.md#auditability) — নিরীক্ষা তল যা অধ্যায় সাতকে পূরণ করতে হয় এবং যা সহোদর নিরীক্ষা মোডও বাস্তবায়ন করে।
 - সঙ্গে পড়ুন: **[corpus_systems.md](../../corpus_systems.md), CS-3 — ব্যবস্থা শ্রেণিবিন্যাস ও পরিচালনা** এবং [শ্রেণি-স্কেল করা শাসন](../../core_05_band_oversight.md#classification-scaled-governance) — শ্রেণি-স্কেল প্রয়োগ, নথি রূপ, পুনঃশ্রেণিবিন্যাস ট্রিগার, এবং পরিচালনা প্রোফাইল।
 - ঊর্ধ্ব: [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](#9-stewardship-and-distributed-understanding); [§10 দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলার অধীনে শাসন](#10-governance-under-stewardship-discipline); [6. প্রক্রিয়া দ্বন্দ্ব সমাধান](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)।
@@ -1994,8 +1994,8 @@
 - শর্ত থেকে ছাড়া।
 
 বিস্তারিত মূল্যায়ন উপাদান ও প্রত্যয়ন নথি এইগুলোর মালিকানা থাকে:
-- **[অধ্যায় সাত §3](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
-- **[অধ্যায় সাত §11](../../core_07_b_system_alignment_certification_record_process.md#11-certification-record)**;
+- **[অধ্যায় সাত §3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
+- **[অধ্যায় সাত §11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record)**;
 - **[corpus_systems.md](../../corpus_systems.md), CS-3 — ব্যবস্থা শ্রেণিবিন্যাস ও পরিচালনা**।
 
 সেই অধ্যায় সাত প্রক্রিয়া:
@@ -2008,7 +2008,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: [8. সাংবিধানিক ব্যাখ্যা](core_01_b_interaction_interpretation.md#8-constitutional-interpretation), [1. উদ্দেশ্য ও ভূমিকা](core_01_a_values_principles.md#1-purpose-and-role), [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](#9-stewardship-and-distributed-understanding), [6. প্রক্রিয়া দ্বন্দ্ব সমাধান](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [5. স্বাধীনতা](core_01_a_values_principles.md#5-freedom-bounded-agency), এবং [7. নিরঙ্কুশ ওভাররাইড নিষেধ](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)।
+- ঊর্ধ্ব: নীতি: [8. সাংবিধানিক ব্যাখ্যা](core_01_b_interaction_interpretation.md#8-constitutional-interpretation), [1. উদ্দেশ্য ও ভূমিকা](core_01_a_values_principles.md#1-purpose-and-role), [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](#9-stewardship-and-distributed-understanding), [6. প্রক্রিয়া দ্বন্দ্ব সমাধান](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [5. স্বাধীনতা](core_01_a_values_principles.md#5-freedom-bounded-agency), এবং [7. নিরঙ্কুশ ওভাররাইড নিষেধ](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)।
 - অধঃ: পরের অধ্যায় এই সংযুক্ত অধ্যায় এক নীতির মধ্য দিয়ে পড়া উচিত — [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad), [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims), এবং [বস্তুগত বাজি](core_00_preamble.md#material-stake) স্কেলিং সহ যা [প্রস্তাবনা](core_00_preamble.md#chapter-00-preamble--foundational-requirements) এবং [§1 উদ্দেশ্য ও ভূমিকা](core_01_a_values_principles.md#1-purpose-and-role)-এ প্রতিষ্ঠিত।
 - অধঃ: [অধ্যায় ছয়: ভিত্তিগত অধিকার](../../core_06_rights_part_a.md#chapter-six-foundational-rights) এই অধ্যায়ের সমন্বিত-মূল্য কাঠামোর মধ্য দিয়ে পড়া উচিত।
   - সীমিত ব্যাখ্যা, জনসাধারণের কারণ, চ্যালেঞ্জ, বাহ্যিক পর্যালোচনা, এবং অধিকার-সংঘর্ষ পদ্ধতি প্রধান অধঃ কাজ করে।

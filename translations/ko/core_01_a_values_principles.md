@@ -184,8 +184,8 @@
 - 함께 읽기: [헌법 사원(四元)](../../core_00_preamble.md#constitutional-tetrad) — 명명된 인정, 칭송, 지향 경로가 목소리, 지위, 결과가 있는 역할에의 접근에 실질로 영향을 미치는 곳에서 **참여** 다리; **책무** 다리(배신, 은폐, 책무 회피에 대한 반보상); **감독** 다리(추적 가능하고 오도하지 않는 칭송).
 - 상류: 원칙: [§2 기초 목표: 복지](#2-foundational-objective-wellbeing) — [참여](core_05_apex_participation_leg.md#participation-constitutional)의 기초로서의 복지를 포함; [§2.1 공정](#21-fairness).
 - 하류: [4. 신뢰](#4-system-stability-enabler-trust-coordination-integrity); [§9 책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [§10 책임 있는 관리 규율 아래 거버넌스](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [§5 자유](#5-freedom-bounded-agency).
-- 함께 읽기: **영역 정합** 인정이나 비교 **기여 축 / 위반 축** 서술자 서사가 실질인 곳에서 [제8장 §§4.3–4.4 — 정규화 서술자 목록](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles).
-- 함께 읽기: 기여 성질과 인정 서사가 실질인 곳에서 [제8장 §4.3 — 기여 쪽 서술자](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles); 질문 3으로의 통합을 위해 [제9장 §3](../../core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization).
+- 함께 읽기: **영역 정합** 인정이나 비교 **기여 축 / 위반 축** 서술자 서사가 실질인 곳에서 [제8장 §§4.3–4.4 — 정규화 서술자 목록](../../core_09_standing_assessment.md#43-route-descriptor-measurement-roles).
+- 함께 읽기: 기여 성질과 인정 서사가 실질인 곳에서 [제8장 §4.3 — 기여 쪽 서술자](../../core_09_standing_assessment.md#43-route-descriptor-measurement-roles); 질문 3으로의 통합을 위해 [제9장 §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization).
 - 함께 읽기: 인정 형태, 가시성, 거부 선호가 실질인 곳에서 [제 IX조: 자기결정과 행위주체성](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency).
 - 하위절(읽기 순서): [§2.2.1](#221-recognition-and-reinforcement) · [§2.2.2](#222-celebration-of-success) · [§2.2.3](#223-aspiration) · [§2.2.4](#224-preference-aligned-recognition) · [§2.2.5](#225-aligned-recognition-pathways) · [§2.2.6](#226-anti-reward-for-anti-constitutional-conduct) · [§2.2.7](#227-implementation-layer).
 
@@ -297,7 +297,7 @@
 - 그 위반이 얼마나 심각하게 분류되는가
 - 어떤 결과가 붙는가
 
-[**제8장** 궤적 모형](../../core_08_standing_assessment.md)은 그 인정이 어떻게 분류되고, 확인되고, 적용되는지를 다스리며, 평가와 준수 요건은 [**제2장부터 제5장**](core_02_definition_structure.md)에서 가져온다.
+[**제8장** 궤적 모형](../../core_09_standing_assessment.md)은 그 인정이 어떻게 분류되고, 확인되고, 적용되는지를 다스리며, 평가와 준수 요건은 [**제2장부터 제5장**](core_02_definition_structure.md)에서 가져온다.
 
 <a id="31-safety-harm-constraint"></a>
 #### 3.1 안전(해 제약)
@@ -377,7 +377,7 @@
 - 함께 읽기: [헌법 사원(四元)](../../core_00_preamble.md#constitutional-tetrad) — 영향받는 쪽이 경험 주장을 이해하고 다투어야 하는 곳에서 **참여** 다리; **감독** 다리(독립 검토, 감사 가능성); [실질 이해관계](../../core_00_preamble.md#material-stake) 세기 조절.
 - 함께 읽기: [두 헌법 목적](../../core_00_preamble.md#two-constitutional-aims) — **번영** 목적(**안전**과 **진실**을 위한 정직한 증거); **연속** 목적(교정 가능하고 긴 시계의 경험적 책임 있는 관리).
 - 상류: 원칙: [§3.1 안전](#31-safety-harm-constraint)과 [§3.2 진실](#32-truth-epistemic-integrity-constraint); [두 헌법 목적](../../core_00_preamble.md#two-constitutional-aims).
-- 하류: [4. 신뢰](#4-system-stability-enabler-trust-coordination-integrity), [§9 책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6.2 인식 공개 제약](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), [제7장 §3 전체 체계 인증 평가](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§10 책임 있는 관리 규율 아래 거버넌스](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- 하류: [4. 신뢰](#4-system-stability-enabler-trust-coordination-integrity), [§9 책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6.2 인식 공개 제약](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), [제7장 §3 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§10 책임 있는 관리 규율 아래 거버넌스](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - 하류: 믿을 경험 증거, 전문가 증거 표준, 과학 출판과 재현 완전성, 독립 확인, 수명주기 시험, 근본원인 검토, 안전 민감 공개의 권리 면을 빚는다.
   - 특히 [제 XII조: 믿을 수 있고 신뢰할 체계에 대한 권리](../../core_06_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems), [제 XV조: 감사, 투명, 독립 확인](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [제 XVII-E조: 과학 출판, 검토, 재현 완전성](../../core_06_rights_part_c.md#article-xvii-e-scientific-publication-review-and-replication-integrity), [제 XXI조: 근본원인 분석과 적응 응답](../../core_06_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response), [제 XXIV-A조: 회고 검토와 공개](../../core_06_rights_part_d.md#article-xxiv-a-retrospective-review-and-disclosure).
 - 함께 읽기: 전문가 증거 표준, 인증된 기술 질문, 증거 책임 있는 관리 다툼이 실질인 곳에서 [제11장 §4.2 — 기술 포럼 영역](core_11_forum.md#42-technical-forum-domains)(*공유 표준과 자리 옮김 금지를 포함*); 채택된 전문 경로를 위해 [corpus_forum.md CF-10](../../corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md).
@@ -534,7 +534,7 @@
 - [**실질성**](../../core_05_band_oversight.md#materiality-determination)은 얼마나 보여 주고 설명해야 하는지를 정한다 — 체계에 기대는 감지자에게 이해관계가 높을수록, 그 체계는 더 공개하고 정당화해야 한다.
 - [**신뢰 저하와 오도하는 의존**](../../core_05_band_integrative.md#trust-degradation-and-misleading-reliance-constitutional)은 실패 양식을 이름 붙인다 — 체계가 헌법상 오도하는 방식으로 의존을 만들고, 보존하고, 채점할 때.
 
-의존이 억압, 기만, 숨은 위험 전가, 비슷한 수법으로 세워지거나 유지되면 — 감지자가 체계 위험을 발견하고 다툴 능력을 심각하게 약화시키는 어떤 관행이든 포함 — 신뢰는 실패한다. [제7장](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) 아래 [**체계 정합 인증**](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation) 과정은 체계가 신뢰 주장이 버티는지를 입증하는 곳이다: 인증은 체계의 실제 행위가 진술과 맞는지를, 다툴 수 있는 기록 위에서 확인해야 한다 — 운영자의 주장만으로는 아니다.
+의존이 억압, 기만, 숨은 위험 전가, 비슷한 수법으로 세워지거나 유지되면 — 감지자가 체계 위험을 발견하고 다툴 능력을 심각하게 약화시키는 어떤 관행이든 포함 — 신뢰는 실패한다. [제7장](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) 아래 [**체계 정합 인증**](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation) 과정은 체계가 신뢰 주장이 버티는지를 입증하는 곳이다: 인증은 체계의 실제 행위가 진술과 맞는지를, 다툴 수 있는 기록 위에서 확인해야 한다 — 운영자의 주장만으로는 아니다.
 
 <a id="41-resilience-and-self-healing-design"></a>
 #### 4.1 회복력과 자기치유 설계
@@ -544,7 +544,7 @@
 - 함께 읽기: [헌법 사원(四元)](../../core_00_preamble.md#constitutional-tetrad) — **감독**과 **책무** 다리; 회복과 감사 깊이를 위한 [실질 이해관계](../../core_00_preamble.md#material-stake) 세기 조절.
 - 함께 읽기: [두 헌법 목적](../../core_00_preamble.md#two-constitutional-aims) — **연속** 목적(회복력과 자기치유 규율); **번영** 목적(인식 저하 없는 신뢰할 회복).
 - 상류: 원칙: [전문 §1 모형](../../core_00_preamble.md#the-model); [두 헌법 목적](../../core_00_preamble.md#two-constitutional-aims); [3.1 안전](#31-safety-harm-constraint), [3.2 진실](#32-truth-epistemic-integrity-constraint), [§4 신뢰](#4-system-stability-enabler-trust-coordination-integrity).
-- 하류: [§9 책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [§6.3 피할 수 있는 부담의 최소화](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [제7장 §3 전체 체계 인증 평가](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§10 책임 있는 관리 규율 아래 거버넌스](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline), [7. 절대 덮어쓰기 금지](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- 하류: [§9 책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [§6.3 피할 수 있는 부담의 최소화](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [제7장 §3 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§10 책임 있는 관리 규율 아래 거버넌스](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline), [7. 절대 덮어쓰기 금지](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 - 하류: 회복이 있는 신뢰성, 근본원인 정직, 가역성, 저하되고 회복하는 상태의 이해 가능성의 권리 면을 빚는다.
   - 특히 [제 XII조: 믿을 수 있고 신뢰할 체계에 대한 권리](../../core_06_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems)(**제 XII-F조**(*회복력과 자기치유 기준선*)를 포함), [제 XV조: 감사, 투명, 독립 확인](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [제 XVI조: 체계 수명주기, 환경, 가역성](../../core_06_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility), [제 XX조: 이해 가능성과 복잡성의 책임 있는 관리](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship), [제 XXI조: 근본원인 분석과 적응 응답](../../core_06_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response).
 
@@ -587,7 +587,7 @@
 - 함께 읽기: [자발적 중단](../../core_05_band_continuity.md#voluntary-discontinuation-constitutional), 제5장 §2 *행위주체성, 동의, 강제 금지*, [집회, 집단 조직, 제도 형성](../../core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster).
 - 함께 읽기: [§9.1 책임 있는 관리](core_01_c_stewardship_capacity_principles.md#91-stewardship)와 [§11.1.4 역할 깊이와 실질 책임 경로](core_01_c_stewardship_capacity_principles.md#1114-role-depth-and-material-responsibility-pathways) — 역할 깊이, 역량, 실질 책임 경로; 의미 있는 행위주체성은 안전과 동의가 허용하는 곳에서 학습 역할, 운영, 결과가 있는 직무로 가는 실제 경로를 포함한다; 영향이 후자를 요구하는 곳에서 상징 참여가 결과가 있는 직무를 대체하면 안 된다.
 - 함께 읽기: [§13 시장 구조](core_01_c_stewardship_capacity_principles.md#13-market-structure), 특히 [§13.2 친경쟁과 지배 금지](core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination), 그리고 집중, 지배, 잠금이 행위주체성을 실질로 제한하는 곳에서 [제 XIX조: 상호운용, 이식, 이동, 피난, 출구 완전성](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) — 다툴 수 있는 시장, 출구 경로, 지배 금지 규율은 규모에서 행위주체성을 실제로 유지한다.
-- 함께 읽기: [§5.1 제한 규율](#51-limitation-discipline)과 [제7장 §3.6 시간 일관성 제약](../../core_07_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint) — 운영상의 자유 제한과 시간 일관성 평가 규율; 자유 한도가 다른 가치나 권리와 충돌할 때, **안전**과 **진실**이 충족된 뒤에 [§6.1](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)부터 [§6.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) 아래에서 해결하라.
+- 함께 읽기: [§5.1 제한 규율](#51-limitation-discipline)과 [제7장 §3.6 시간 일관성 제약](../../core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint) — 운영상의 자유 제한과 시간 일관성 평가 규율; 자유 한도가 다른 가치나 권리와 충돌할 때, **안전**과 **진실**이 충족된 뒤에 [§6.1](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)부터 [§6.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) 아래에서 해결하라.
 - 상류: 원칙: [§2.2 인정, 강화, 지향](#22-recognition-reinforcement-and-aspiration); [3.1 안전](#31-safety-harm-constraint); [3.2 진실](#32-truth-epistemic-integrity-constraint); [4. 신뢰](#4-system-stability-enabler-trust-coordination-integrity); [두 헌법 목적](../../core_00_preamble.md#two-constitutional-aims).
 - 하류: [§5.1 제한 규율](#51-limitation-discipline)부터 [§5.3 집회, 집단 조직, 제도 형성](#53-assembly-collective-organization-and-institutional-formation); [6. 과정 충돌 해결](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); [7. 절대 덮어쓰기 금지](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override); [§15 통합 적용](core_01_c_stewardship_capacity_principles.md#15-integrated-application); 구체 적용이 충돌 취급을 요구하는 곳에서 [§6.1 결정 기록 규율](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
 - 하류: 평등 지위, 교육, 자기소유, 출판과 초상 통제, 행위주체성, 협력 상호작용, 적법절차, 궤적, 포획 금지 검토의 권리 면을 틀 짓는다.
@@ -707,7 +707,7 @@
 - 성 동의
 - 상업 서비스
 
-전체 체계 평가는 인정 범위가 적용되는 곳에서 분류, 거버넌스, 제한, 준수 주장이 서기 전에 [제7장 §3.4 자발적 중단과 출구 권리](../../core_07_a_system_alignment_certification_evaluation.md#34-voluntary-discontinuation-and-exit-rights) 아래에서 이 조건을 시험해야 한다.
+전체 체계 평가는 인정 범위가 적용되는 곳에서 분류, 거버넌스, 제한, 준수 주장이 서기 전에 [제7장 §3.4 자발적 중단과 출구 권리](../../core_08_a_system_alignment_certification_evaluation.md#34-voluntary-discontinuation-and-exit-rights) 아래에서 이 조건을 시험해야 한다.
 
 #### 5.3 집회, 집단 조직, 제도 형성
 
@@ -750,7 +750,7 @@
 
 그 함께 읽기 범위 안의 사항은, 형식 접근은 보존하되 집회나 집단 조직 보호를 꺾도록, 따로 떨어진 시민 결사, 노동 조직, 플랫폼 접근, 수권 틀로 쪼개져서는 안 된다.
 
-전체 체계 평가는 온전한 정의 무리가 적용되는 곳에서 분류, 거버넌스, 준수 주장이 서기 전에 [제7장 §3.5 집회, 집단 조직, 제도 형성](../../core_07_a_system_alignment_certification_evaluation.md#35-assembly-collective-organization-and-institutional-formation) 아래에서 분할 금지를 시험해야 한다.
+전체 체계 평가는 온전한 정의 무리가 적용되는 곳에서 분류, 거버넌스, 준수 주장이 서기 전에 [제7장 §3.5 집회, 집단 조직, 제도 형성](../../core_08_a_system_alignment_certification_evaluation.md#35-assembly-collective-organization-and-institutional-formation) 아래에서 분할 금지를 시험해야 한다.
 
 ##### 5.3.1 정합된 자기조직
 <a id="531-aligned-self-organization"></a>

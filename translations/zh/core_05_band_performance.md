@@ -12,7 +12,7 @@
 >
 > **上一篇（本语种）：** [core_05_band_participation.md](core_05_band_participation.md)
 >
-> **下一篇（仍为英语）：** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+> **下一篇（仍为英语）：** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 > **阅读弧线：** 测量族家园 → 延续带叶路由。
 
 </details>
@@ -58,12 +58,12 @@
 - 操作性测量层级住在第五章定义家园上 — 见[宪法效率](core_05_band_continuity.md#constitutional-efficiency)、[可避免负担](core_05_band_continuity.md#avoidable-burden)、[生产能力](core_05_band_continuity.md#productive-capacity-constitutional)与[负担减轻义务](core_05_band_continuity.md#burden-reduction-duty-constitutional)。
 - 绩效目标、奖赏与资源测量仅在仍可追溯到宪法成果的限度内有效。
 - 它们不得替代宪法效率、[生产能力](core_05_band_continuity.md#productive-capacity-constitutional)或权利底线遵从。
-- 一并阅读[第七章 §3 整系统认证评价](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，凡整系统绩效具有实质性而在范围内。
+- 一并阅读[第七章 §3 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，凡整系统绩效具有实质性而在范围内。
 
 ---
 
 **上一文件（本语种）：** [core_05_band_participation.md](core_05_band_participation.md)
 
-**下一文件（仍为英语）：** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+**下一文件（仍为英语）：** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 
 **有约束力的原文：** [core_05_band_performance.md](../../core_05_band_performance.md)

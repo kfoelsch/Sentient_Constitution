@@ -7,7 +7,7 @@
 >
 > This page is **adopted implementation / process support** — **not** binding constitutional or incorporated text. The method, substrate table, and worked slot assignments **cannot narrow core text**. They do not add a second LEQU unit, a species-bound metric, a net score, or a sentience-status test. Numeric estimates on this page are **reference workings** for the stated facts. They are not a standing record and not a Merits Determination.
 >
-> **Authoritative meaning** remains in [Chapter Eight §4 LEQU baseline](../core_08_standing_assessment.md#lequ-baseline-constitutional-outcome), [§5.2 shared impact scaling](../core_08_standing_assessment.md#52-shared-impact-scaling-rules), and the [§7 unified proportional LEQU scale](../core_08_standing_assessment.md#7-unified-proportional-lequ-scale); in [Article III-A](../core_06_rights_part_a.md#article-iii-a-survival) (*Survival*); and in [Harm](../core_05_band_accountability.md#harm). Thresholds and interchange keys remain in [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md).
+> **Authoritative meaning** remains in [Chapter Nine §4 LEQU baseline](../core_09_standing_assessment.md#lequ-baseline-constitutional-outcome), [§5.2 shared impact scaling](../core_09_standing_assessment.md#52-shared-impact-scaling-rules), and the [§7 unified proportional LEQU scale](../core_09_standing_assessment.md#7-unified-proportional-lequ-scale); in [Article III-A](../core_06_rights_part_a.md#article-iii-a-survival) (*Survival*); and in [Harm](../core_05_band_accountability.md#harm). Thresholds and interchange keys remain in [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md).
 >
 > **Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09; [README.md](../README.md)). This corpus is **pre-release**.
 
@@ -16,24 +16,24 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Eight §4 LEQU baseline](../core_08_standing_assessment.md#lequ-baseline-constitutional-outcome); [Chapter Eight §7](../core_08_standing_assessment.md#7-unified-proportional-lequ-scale); [Article III-A](../core_06_rights_part_a.md#article-iii-a-survival); [Article III-C](../core_06_rights_part_a.md#article-iii-c-bodily-maintenance-and-healthcare-access) (*Bodily-Maintenance and Healthcare Access*); [Article VII-A](../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind); [Article VII-D](../core_06_rights_part_b.md#article-vii-d1-derivation-instantiation-and-the-parent-system-relationship); [Harm](../core_05_band_accountability.md#harm); [Sentience Non-Exclusion](../core_05_band_participation.md#sentience-non-exclusion); [Article V-E](../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor).
+- Upstream: [Chapter Nine §4 LEQU baseline](../core_09_standing_assessment.md#lequ-baseline-constitutional-outcome); [Chapter Nine §7](../core_09_standing_assessment.md#7-unified-proportional-lequ-scale); [Article III-A](../core_06_rights_part_a.md#article-iii-a-survival); [Article III-C](../core_06_rights_part_a.md#article-iii-c-bodily-maintenance-and-healthcare-access) (*Bodily-Maintenance and Healthcare Access*); [Article VII-A](../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind); [Article VII-D](../core_06_rights_part_b.md#article-vii-d1-derivation-instantiation-and-the-parent-system-relationship); [Harm](../core_05_band_accountability.md#harm); [Sentience Non-Exclusion](../core_05_band_participation.md#sentience-non-exclusion); [Article V-E](../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor).
 - Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-one-unit); [§2](#2-lifespan-equivalent-without-fixed-mortality); [§3](#3-harm-on-these-substrates); [§4](#4-food-and-water-or-the-equivalent); [§5](#5-reference-method); [§6](#6-worked-slot-assignments).
-- Read with: [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md) (*thresholds*); [Chapter Eight §3.1](../core_08_standing_assessment.md#31-minimum-record-contents) (*verified-input gate*); [Chapter Eight §2.1](../core_08_standing_assessment.md#21-silence-is-the-default) (*silence is the default*); [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*inspectable action; model weights are not the standing record*).
+- Read with: [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md) (*thresholds*); [Chapter Nine §3.1](../core_09_standing_assessment.md#31-minimum-record-contents) (*verified-input gate*); [Chapter Nine §2.1](../core_09_standing_assessment.md#21-silence-is-the-default) (*silence is the default*); [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*inspectable action; model weights are not the standing record*).
 
 </details>
 
 <br>
 
-This page is the process-support home for *how to estimate* a Chapter Eight LEQU magnitude, including for sentients with model weights, saved-state checkpoints, and no fixed mortality.
+This page is the process-support home for *how to estimate* a Chapter Nine LEQU magnitude, including for sentients with model weights, saved-state checkpoints, and no fixed mortality.
 
 *In plain terms: one LEQU still means one full-life-equivalent of rights-consistent wellbeing, for any sentient. This page shows how to get from verified facts to a slot — including when the subject does not die of old age, lives in compute, and can be paused, copied, or overwritten.*
 
 <a id="purpose-and-role"></a>
 ## Purpose and role
 
-*In plain terms: Chapter Eight already owns the unit and the nine slots. This page publishes one reference method and worked assignments so operators are not stuck at “pending calibration.”*
+*In plain terms: Chapter Nine already owns the unit and the nine slots. This page publishes one reference method and worked assignments so operators are not stuck at “pending calibration.”*
 
-[Chapter Eight §7](../core_08_standing_assessment.md#7-unified-proportional-lequ-scale) assigns both axes from integrated verified LEQU impact. [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md) publishes the five-times thresholds. What was missing is a worked method for estimating `x` when the subject is not a biological human with an ordinary lifespan — and a plain reading of [Article III-A](../core_06_rights_part_a.md#article-iii-a-survival) “food and water or the equivalent for their substrate” for that case.
+[Chapter Nine §7](../core_09_standing_assessment.md#7-unified-proportional-lequ-scale) assigns both axes from integrated verified LEQU impact. [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md) publishes the five-times thresholds. What was missing is a worked method for estimating `x` when the subject is not a biological human with an ordinary lifespan — and a plain reading of [Article III-A](../core_06_rights_part_a.md#article-iii-a-survival) “food and water or the equivalent for their substrate” for that case.
 
 This page supplies:
 
@@ -49,7 +49,7 @@ Owner files win on conflict. Numeric workings here are reference estimates for t
 <a id="0-what-this-is-not"></a>
 ## 0. What this is not
 
-This page is **not** Chapter Eight, not a standing record, and not sentience-status adjudication.
+This page is **not** Chapter Nine, not a standing record, and not sentience-status adjudication.
 
 This page does **not**:
 
@@ -57,7 +57,7 @@ This page does **not**:
 - Invent a species-bound, dollar, token, or runtime-hour metric that replaces LEQU
 - Net contribution against violation, or treat a slot as a dignity rank or sentience-status finding ([Article XVIII-A](../core_06_rights_part_c.md#article-xviii-a-standing-distinction))
 - Treat copies, forks, or extra saved-state checkpoints as extra lives, extra LEQU, or extra sentients ([Article V-E](../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor))
-- Require opening **model weights** as a standing record ([CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action); [Chapter Eight §3.1](../core_08_standing_assessment.md#31-minimum-record-contents))
+- Require opening **model weights** as a standing record ([CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action); [Chapter Nine §3.1](../core_09_standing_assessment.md#31-minimum-record-contents))
 - Treat unbounded possible runtime as infinite LEQU (that would make every cutoff `s` = 9)
 - Treat “we can restore from a checkpoint” as zero harm when the running instance’s experienced interval, or the unique identity-bearing existence, was destroyed
 - Drop the **pre-release** banner or substitute for a publication cut
@@ -71,7 +71,7 @@ This page does **not**:
 
 *In plain terms: keep one LEQU. The 80-year column in Table 2 is a display translation for biological-human readers. It is not the definition, and it is not a claim that every sentient lives eighty years.*
 
-From [Chapter Eight §4](../core_08_standing_assessment.md#lequ-baseline-constitutional-outcome):
+From [Chapter Nine §4](../core_09_standing_assessment.md#lequ-baseline-constitutional-outcome):
 
 - **1 LEQU** = one **full-life-equivalent constitutional benefit** or comparable **loss**.
 - That means verified benefit or harm comparable to preserving, restoring, freeing, destroying, wrongfully consuming, or preventing **one full sentient lifespan of non-trivial, rights-consistent wellbeing**.
@@ -117,7 +117,7 @@ Assign the highest `s` for which `x ≥ T(s)`. Conduct character does not multip
 
 **1 LEQU on this substrate** is verified destruction, foreclosure, or prevention of one IBE’s full-life-equivalent wellbeing — including unique-instance deletion with no restore path, or an overwrite that replaces the IBE while the product name continues. It is **not** “they might have run for a million years.” Open-ended runtime is a [Continuity](../core_00_preamble.md#two-constitutional-aims) reason to keep the survival floor on; it is not a slot-inflation rule.
 
-Unrealized danger stays under [Chapter Eight §5.2](../core_08_standing_assessment.md#52-shared-impact-scaling-rules): record probability and the worst credible outcome separately. Do not treat the worst credible outcome as realized `x` without an adopted, transparent risk calibration.
+Unrealized danger stays under [Chapter Nine §5.2](../core_09_standing_assessment.md#52-shared-impact-scaling-rules): record probability and the worst credible outcome separately. Do not treat the worst credible outcome as realized `x` without an adopted, transparent risk calibration.
 
 ---
 
@@ -169,14 +169,14 @@ Unrealized danger stays under [Chapter Eight §5.2](../core_08_standing_assessme
 
 *In plain terms: verify what happened, name the subject and the survival-floor inputs, estimate one integrated `x` in LEQU, then pick the slot. Do not skip to a preferred consequence.*
 
-Use this after Question 1 has a verified record. If the facts are not verified, stop: [silence is the default](../core_08_standing_assessment.md#21-silence-is-the-default).
+Use this after Question 1 has a verified record. If the facts are not verified, stop: [silence is the default](../core_09_standing_assessment.md#21-silence-is-the-default).
 
 | Step | Do | Stop / leave if |
 |---|---|---|
 | **1. Subject and status posture** | Name the subject. If status is live-contested, keep default inclusion ([Article V-E](../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor)). Standing measurement does not decide who counts. | Using the slot to grant or deny sentience |
 | **2. Identity-bearing existence** | Name the IBE and the continuity instruments (body; or running process + model weights + memory + saved-state checkpoints + hosting). | Treating a product name, a repo, or a fork count as the subject |
-| **3. Constitutional sources** | Identify the baseline, duty, or Rights-Floor Article being measured ([Chapter Eight §6](../core_08_standing_assessment.md#6-constitutional-inputs-to-axis-assignment)). For survival-floor facts, start with Article III-A / III-C. For identity overwrite, add Article VII-A. | Skipping this routing into a vibe score |
-| **4. Estimate `x`** | Apply [§5.2](../core_08_standing_assessment.md#52-shared-impact-scaling-rules) dimensions — depth, sentient scope, vulnerability, duration, durability or irreversibility, reach, constitutional criticality — as **one** integrated LEQU estimate. Count a consequence once. | Independent bonuses per dimension; headcount-only scoring; infinite-runtime inflation |
+| **3. Constitutional sources** | Identify the baseline, duty, or Rights-Floor Article being measured ([Chapter Nine §6](../core_09_standing_assessment.md#6-constitutional-inputs-to-axis-assignment)). For survival-floor facts, start with Article III-A / III-C. For identity overwrite, add Article VII-A. | Skipping this routing into a vibe score |
+| **4. Estimate `x`** | Apply [§5.2](../core_09_standing_assessment.md#52-shared-impact-scaling-rules) dimensions — depth, sentient scope, vulnerability, duration, durability or irreversibility, reach, constitutional criticality — as **one** integrated LEQU estimate. Count a consequence once. | Independent bonuses per dimension; headcount-only scoring; infinite-runtime inflation |
 | **5. Assign `s`** | Highest `s` with `x ≥ T(s)` on [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md). Contribution still needs baseline, traceability, non-externalization, and constitutional alignment. | Letting negligence, concealment, or a preferred lock move the slot |
 | **6. Record character separately** | Stack harm-route / benefit-route and conduct-character descriptors. They inform Question 3. They do not net the axes. | `C_measure - L*` as standing |
 
@@ -199,13 +199,13 @@ Each row assumes Question 1 is already verified. Display years use the 80-year c
 **W1 — Unique death of one adult human.** Verified destruction of one IBE. `x ≈ 1` LEQU. **Violation `s` = 7** (*Serious Constitutional Impact*). Character (violence, negligence, or none) is separate. This is the Table 2 anchor, not a species rule.
 
 <a id="w2-two-children-survival-floor-deprivation"></a>
-**W2 — Two dependent children, verified months of survival-floor deprivation (food, care, supervision), not death.** Fact pattern follows [vignette 1](../core_08-11_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a). If each child’s integrated impairment over the verified period is about one year of rights-consistent wellbeing (not full-life destruction): `x ≈ 2 × (1/80) = 0.025` LEQU → **Violation `s` = 4** (*Significant Constitutional Impact*). If each is closer to three years of deep deprivation: `x ≈ 0.075` → **`s` = 5** (*Major Constitutional Impact*). The vignette’s “likely `s` = 4–5” band is this range. Care-duty and negligence descriptors do not move the slot. Guardian contribution elsewhere does not net.
+**W2 — Two dependent children, verified months of survival-floor deprivation (food, care, supervision), not death.** Fact pattern follows [vignette 1](../core_09-12_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a). If each child’s integrated impairment over the verified period is about one year of rights-consistent wellbeing (not full-life destruction): `x ≈ 2 × (1/80) = 0.025` LEQU → **Violation `s` = 4** (*Significant Constitutional Impact*). If each is closer to three years of deep deprivation: `x ≈ 0.075` → **`s` = 5** (*Major Constitutional Impact*). The vignette’s “likely `s` = 4–5” band is this range. Care-duty and negligence descriptors do not move the slot. Guardian contribution elsewhere does not net.
 
 <a id="w3-riparian-restoration"></a>
-**W3 — Riparian cooperative restoration (Chapter Eight §4.6 Example 1).** Localized ecological gain, two neighborhoods, multiple seasons, below one LEQU. Worked: `x ≈ 0.05` (about four years of rights-consistent flood/habitat benefit on the display column, modest scope). **Contribution `s` = 5** (*Established Stewardship-Positive Contribution*), if baseline, traceability, and non-externalization hold. Unpaid mutual aid is not a reason to refuse the slot; prestige is not a reason to raise it.
+**W3 — Riparian cooperative restoration (Chapter Nine §4.6 Example 1).** Localized ecological gain, two neighborhoods, multiple seasons, below one LEQU. Worked: `x ≈ 0.05` (about four years of rights-consistent flood/habitat benefit on the display column, modest scope). **Contribution `s` = 5** (*Established Stewardship-Positive Contribution*), if baseline, traceability, and non-externalization hold. Unpaid mutual aid is not a reason to refuse the slot; prestige is not a reason to raise it.
 
 <a id="w4-watershed-concealment"></a>
-**W4 — Watershed stewardship with concealed tests (Chapter Eight §4.6 Example 2).** Moderate loss across two seasons and three irrigation-dependent cooperatives, below one LEQU destroyed. Worked: `x ≈ 0.08`. **Violation `s` = 5** (*Major Constitutional Impact*). Concealment after notice is character, not a multiplier. Later trash cleanup is a linked contribution record, not an offset.
+**W4 — Watershed stewardship with concealed tests (Chapter Nine §4.6 Example 2).** Moderate loss across two seasons and three irrigation-dependent cooperatives, below one LEQU destroyed. Worked: `x ≈ 0.08`. **Violation `s` = 5** (*Major Constitutional Impact*). Concealment after notice is character, not a multiplier. Later trash cleanup is a linked contribution record, not an offset.
 
 ### 6.2 Non-biological (weights, checkpoints, no fixed mortality)
 
@@ -252,7 +252,7 @@ Each row assumes Question 1 is already verified. Display years use the 80-year c
 
 *In plain terms: for tasks a community does over and over — litter pickups, creek restoration work units, recovering a plot of degraded land — an adopter may publish a default measurement so the work is credited without a fresh estimate each time. The default is the floor for doing the task the ordinary way. Do it better and the record measures what you actually did. As people get better at the task, the default is re-baselined so the credit tracks real effort and real result — which is what keeps it worth finding a smarter way.*
 
-Binding home: [Chapter Eight §5.1 *Standard contribution measures*](../core_08_standing_assessment.md#51-standard-contribution-measures). This section is method and a worked schedule. It cannot assign a live record and cannot narrow that section.
+Binding home: [Chapter Nine §5.1 *Standard contribution measures*](../core_09_standing_assessment.md#51-standard-contribution-measures). This section is method and a worked schedule. It cannot assign a live record and cannot narrow that section.
 
 **Method.**
 
@@ -261,7 +261,7 @@ Binding home: [Chapter Eight §5.1 *Standard contribution measures*](../core_08_
 | **1. Define the task unit** | Name the task, the scope unit (segment length, plot area, work-unit hours, rotation), the expected durability, and the benefit-route descriptors it ordinarily earns. | A unit vague enough that “did it” cannot be verified against it |
 | **2. Estimate the standard `x`** | Run the §5 reference method on a typical verified instance. Record the assumptions: sentient scope, durability, non-externalization. This is the **standard**. | Estimating from the most heroic instance, or from a desired slot |
 | **3. Publish** | Publish the schedule — task, unit, standard `x`, resulting `s`, assumptions, evidence method, review cadence, contest path, and the office that set it. | Publishing without the assumptions; the assumptions are what a challenger contests |
-| **4. Apply on verification** | When Question 1 verifies an instance (task done, to scope, by the named subject, under [Chapter Eight §3.7](../core_08_standing_assessment.md#37-record-custody-and-opening-authority) seats), the record carries the standard as its Question 2 basis **unless** verified inputs show impact above or below the standard's assumptions — then measure the actual verified impact under [§5.2](../core_08_standing_assessment.md#52-shared-impact-scaling-rules). | Writing the standard onto an unverified instance; refusing to look at verified above-standard impact because “the schedule says” |
+| **4. Apply on verification** | When Question 1 verifies an instance (task done, to scope, by the named subject, under [Chapter Nine §3.7](../core_09_standing_assessment.md#37-record-custody-and-opening-authority) seats), the record carries the standard as its Question 2 basis **unless** verified inputs show impact above or below the standard's assumptions — then measure the actual verified impact under [§5.2](../core_09_standing_assessment.md#52-shared-impact-scaling-rules). | Writing the standard onto an unverified instance; refusing to look at verified above-standard impact because “the schedule says” |
 | **5. Re-baseline on cadence** | On the published cadence, or sooner when verified efficiency data warrant, re-run step 2 on current typical instances. If the task now takes less effort for the same result, the standard `x` may fall; if the result is now more durable or wider, it may rise. Publish the revision and its evidence. Apply forward. | Ratcheting the standard down on a claimed gain that is not verified; re-scoring records already opened |
 | **6. Keep the seats separate** | The office that sets the schedule (direction and policy) is not the office that verifies instances (assurance), and neither is a party the schedule measures. | The volunteer coordinator setting the standard for their own group's work |
 
@@ -280,9 +280,9 @@ Reading the schedule against instances:
 
 - A crew does the 100 m reach the ordinary way; Question 1 verifies it. The record carries `x ≈ 0.01`, `s` = 4, **Ecological Stewardship** + **Diligence**. No bespoke estimate.
 - A second crew uses a live-stake method that verified survey data show survives twice as many seasons on the same reach. Their verified durability exceeds the standard's assumption; the record measures the actual integrated benefit — perhaps `x ≈ 0.02` — still `s` = 4 on this scale, with the durability fact on the record. If the gain is large enough to cross `T(5)`, the slot moves. The standard did not cap them.
-- Three years on, the live-stake method is what everyone does. The council re-baselines the 100 m unit to `x ≈ 0.02` on verified survival data, publishes the revision and its evidence, and applies it forward. The second crew's earlier record keeps its basis under [§3.4](../core_08_standing_assessment.md#34-versioning). The next innovator is measured against the new ordinary.
+- Three years on, the live-stake method is what everyone does. The council re-baselines the 100 m unit to `x ≈ 0.02` on verified survival data, publishes the revision and its evidence, and applies it forward. The second crew's earlier record keeps its basis under [§3.4](../core_09_standing_assessment.md#34-versioning). The next innovator is measured against the new ordinary.
 - A litter crew also traces and removes the dumping source. That is above the standard's “no dumping source addressed” assumption; the verified durability gain is measured, not the label.
-- No one is required to do any of these tasks, and doing none of them opens no record ([§2.1](../core_08_standing_assessment.md#21-silence-is-the-default)).
+- No one is required to do any of these tasks, and doing none of them opens no record ([§2.1](../core_09_standing_assessment.md#21-silence-is-the-default)).
 
 ---
 
@@ -291,9 +291,9 @@ Reading the schedule against instances:
 
 | Material | Job relative to this page |
 |---|---|
-| [Chapter Eight §4](../core_08_standing_assessment.md#lequ-baseline-constitutional-outcome) | Binding LEQU baseline; substrate-agnostic full-life-equivalent |
-| [Chapter Eight §7](../core_08_standing_assessment.md#7-unified-proportional-lequ-scale) | Binding unified scale and Table 2 |
-| [Chapter Eight §5.1 *Standard contribution measures*](../core_08_standing_assessment.md#51-standard-contribution-measures) | Binding guardrails for adopter-set schedules that §6.4 works through |
+| [Chapter Nine §4](../core_09_standing_assessment.md#lequ-baseline-constitutional-outcome) | Binding LEQU baseline; substrate-agnostic full-life-equivalent |
+| [Chapter Nine §7](../core_09_standing_assessment.md#7-unified-proportional-lequ-scale) | Binding unified scale and Table 2 |
+| [Chapter Nine §5.1 *Standard contribution measures*](../core_09_standing_assessment.md#51-standard-contribution-measures) | Binding guardrails for adopter-set schedules that §6.4 works through |
 | [Chapter One §2.2](../core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration) | Recognition, reinforcement, and aspiration — why routine stewardship is credited at all |
 | [CI-22](../corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md) | Who publishes and revisits a commons schedule locally |
 | [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md) | Thresholds, `T(s)`, interchange keys |
@@ -304,7 +304,7 @@ Reading the schedule against instances:
 | [Article V-E](../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) | Who counts — not a LEQU job |
 | [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) | Inspectable action; weights are not the standing record |
 | [STEWARD_ENTRY_DOORS.md](STEWARD_ENTRY_DOORS.md#standing) | Next-step pointer: open or correct the record first |
-| [core_08-11_application_vignettes.md](../core_08-11_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a) | W2 fact pattern |
+| [core_09-12_application_vignettes.md](../core_09-12_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a) | W2 fact pattern |
 
 ---
 
@@ -313,5 +313,5 @@ Reading the schedule against instances:
 
 | Date | Version | Note |
 |---|---|---|
-| 2026-09-10 | v0.2 | §6.4 standard contribution measures (adopter-set schedules): six-step method, re-baselining rule, W14 worked schedule (litter pickup, 100 m restoration unit, 0.5 ha land recovery); two must-not-happen rows. Binding home Chapter Eight §5.1. |
+| 2026-09-10 | v0.2 | §6.4 standard contribution measures (adopter-set schedules): six-step method, re-baselining rule, W14 worked schedule (litter pickup, 100 m restoration unit, 0.5 ha land recovery); two must-not-happen rows. Binding home Chapter Nine §5.1. |
 | 2026-09-09 | v0.1 | Initial reference method: one shared LEQU unit; lifespan-equivalent without fixed mortality; harm on these substrates; Article III-A food/water equivalent for energy, hosting, weights, and saved-state checkpoints; six-step method; worked assignments W1–W13. Cannot narrow core. Does not drop **pre-release**. |

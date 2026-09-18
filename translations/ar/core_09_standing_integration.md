@@ -6,7 +6,7 @@
 
 > المحتوى التالي **توجيه للقارئ فقط**. لا يضيف التزامات ملزمة ولا ينقصها ولا يضيّقها في هذا الملف أو في فصول أخرى.
 >
-> هذا الملف **تجريب بلغة القارئ** لـ[الفصل التاسع بالإنجليزية](../../core_09_standing_integration.md). **ليس** جزءًا ملزمًا من دستور الكائنات الواعية. **ليس** دستورًا ثانيًا. **ليس** طبعة إرسال. وهو **مثبّت** على `SC-Corpus-2026.08.09`. إذا بدا أن هذه الترجمة والأصل الإنجليزي يختلفان، يفوز الملف المرقّم [`core_09_standing_integration.md`](../../core_09_standing_integration.md). ترتيب القراءة وبيانات الطبعة تُحفظ في [README.md](../../README.md). المنهج والمسرد: [translations/ar/README.md](README.md).
+> هذا الملف **تجريب بلغة القارئ** لـ[الفصل التاسع بالإنجليزية](../../core_10_standing_integration.md). **ليس** جزءًا ملزمًا من دستور الكائنات الواعية. **ليس** دستورًا ثانيًا. **ليس** طبعة إرسال. وهو **مثبّت** على `SC-Corpus-2026.08.09`. إذا بدا أن هذه الترجمة والأصل الإنجليزي يختلفان، يفوز الملف المرقّم [`core_09_standing_integration.md`](../../core_10_standing_integration.md). ترتيب القراءة وبيانات الطبعة تُحفظ في [README.md](../../README.md). المنهج والمسرد: [translations/ar/README.md](README.md).
 >
 > يحتوي **الفصل التاسع**، طبقة تكامل سلسلة الوضعية وعواقبها. يملك [الفصل الثامن](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) حصرًا الوقائع الموثّقة وسجلات الوضعية وقياس الوضعية وكل خانة في محور الإسهام ومحور الانتهاك. يقبل هذا الفصل تلك المدخلات ثابتة ويجيب السؤال 3: ماذا يترتب. يقرر [الفصل العاشر](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) فقط ما إذا كان انتهاك مؤهِّل `s = 7` أو `s = 8` أو `s = 9` ينال تسمية سوء السلوك المضاد للدستور المطابقة.
 
@@ -207,7 +207,7 @@
 
 **تمييز المسار المسمّى — تصويت الحوكمة مقابل مشاركة الأطراف المتأثرة:**
 
-- يغطي **تصويت الحوكمة** المشاركة في تصويت الحوكمة والاختيار الجماعي الملزم المقارن لآلية الشرعية تحت [الفصل الثاني عشر §4.1](../../core_12_governance.md#41-entitlement-and-eligibility)، بما في ذلك **الاختيار الدستوري التأسيسي**. وهو **لا** يشمل الصوت الموزون بالأثر داخل نظام أو مؤسسة أو نطاق قرار محدود سبق الترخيص له.
+- يغطي **تصويت الحوكمة** المشاركة في تصويت الحوكمة والاختيار الجماعي الملزم المقارن لآلية الشرعية تحت [الفصل الثاني عشر §4.1](../../core_13_governance.md#41-entitlement-and-eligibility)، بما في ذلك **الاختيار الدستوري التأسيسي**. وهو **لا** يشمل الصوت الموزون بالأثر داخل نظام أو مؤسسة أو نطاق قرار محدود سبق الترخيص له.
 - تغطي **مشاركة الأطراف المتأثرة** التأثير الموزون بالأثر، والاختيار الملزم للأطراف المتأثرة، ومسارات المشاركة النظامية للأطراف المتأثرة المقارنة تحت [وزن الطرف المتأثر](core_05_band_participation.md#stakeholder-weight) و[الاختيار الملزم للأطراف المتأثرة](core_05_band_participation.md#binding-stakeholder-choice-cluster). وهي **لا** تمحو مركز [الطرف المتأثر](core_05_band_participation.md#stakeholder) ذاته، و**لا** تقوم مقام قفل **تصويت الحوكمة**.
 
 حيث يكون محفّز الأمر فساد مسار الأطراف المتأثرة الموثّق، أو الاستيلاء، أو إساءة الرهان الزائف، أو التلاعب القسري بوزن المشاركة، طبّق [قفل وضعية مشاركة الأطراف المتأثرة](#55-special-locks) تحت [§5.5](#55-special-locks).
@@ -474,7 +474,7 @@
   - مسارات المشاركة النظامية للأطراف المتأثرة المقارنة داخل النظام أو المؤسسة أو نطاق القرار المحدود المتأثر تحت [وزن الطرف المتأثر](core_05_band_participation.md#stakeholder-weight) و[الاختيار الملزم للأطراف المتأثرة](core_05_band_participation.md#binding-stakeholder-choice-cluster).
 - **لا يقيّد بذاته:**
   - مركز [الطرف المتأثر](core_05_band_participation.md#stakeholder) أو الاعتراف بأن الكائن الواعي متأثر ماديًا؛
-  - مسار **تصويت الحوكمة**، أو **الاختيار الدستوري التأسيسي**، أو الاختيار الجماعي الملزم المقارن لآلية الشرعية تحت [الفصل الثاني عشر §4.1](../../core_12_governance.md#41-entitlement-and-eligibility)؛
+  - مسار **تصويت الحوكمة**، أو **الاختيار الدستوري التأسيسي**، أو الاختيار الجماعي الملزم المقارن لآلية الشرعية تحت [الفصل الثاني عشر §4.1](../../core_13_governance.md#41-entitlement-and-eligibility)؛
   - حدود أرضية الحقوق الدنيا، أو الوصول الحرج للبقاء، أو مسارات التدقيق والطعن والانتصاف المطلوبة دستوريًا.
 - **المخاطر:** استمرار استيلاء صوت الأطراف المتأثرة أو تحريفه، وهيمنة الرهان الزائف، ووزن المشاركة المكرَه، وتكرار إساءة مسار الأطراف المتأثرة في المجالات نفسها أو المتصلة.
 - **الموضوعات أو المصالح المحمية:** الأطراف المتأثرة، ونزاهة الاختيار الملزم للأطراف المتأثرة، وعدم استيلاء النظام أو المؤسسة أو نطاق القرار المحدود ذي الصلة.
@@ -806,10 +806,10 @@
 - الاعتماد على مكتب هش واحد؛ أو
 - إخفاق المعالم المزمن.
 
-نقص تعيين هيئات منتدى **النزاهة** أو **الدستوري** أو **البيئة**، أو هيئات **مجالات المنتدى التقني** التي تسمع البتّ في مركز الوعي، إخفاق متانة تحت هذا القسم الفرعي، مقروءًا مع [الفصل الثاني عشر §1.2](../../core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums).
+نقص تعيين هيئات منتدى **النزاهة** أو **الدستوري** أو **البيئة**، أو هيئات **مجالات المنتدى التقني** التي تسمع البتّ في مركز الوعي، إخفاق متانة تحت هذا القسم الفرعي، مقروءًا مع [الفصل الثاني عشر §1.2](../../core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums).
 
 <a id="92-remedy-parity-funding-floor"></a>
-**أرضية تمويل تعادل الانتصاف.** لكل صنف أنظمة يديره معتمِد، يجب ألا تقل القدرة المموَّلة للانتصاف والاستعادة وإعادة التقييم عن القدرة المموَّلة لإدارة الأقفال والإنفاذ وفرض الضمانة على الصنف نفسه. يجب نشر النسبة مع أرقام زناد [§4.4](#44-remedy-parity-and-lock-preconditions). يجب على معتمِد يفارق التعادل أن يسجّل الأسباب تحت [الفصل الثاني عشر §3.1](../../core_12_governance.md#31-stewardship-direction) ويُظهر، على السجل، أن بدء الانتصاف ومراجعة الاستعادة يستوفيان مع ذلك ساعات درجتهما؛ تعادل الميزانية لا يعذر زناد [§4.4](#44-remedy-parity-and-lock-preconditions) المشغَّل، وزناد مستوفًى لا يعذر مفارقة صامتة للتعادل. معتمِد لا يستطيع تمويل انتصاف لصنف أنظمة يجب ألا يُقيم آلة أقفال لذلك الصنف.
+**أرضية تمويل تعادل الانتصاف.** لكل صنف أنظمة يديره معتمِد، يجب ألا تقل القدرة المموَّلة للانتصاف والاستعادة وإعادة التقييم عن القدرة المموَّلة لإدارة الأقفال والإنفاذ وفرض الضمانة على الصنف نفسه. يجب نشر النسبة مع أرقام زناد [§4.4](#44-remedy-parity-and-lock-preconditions). يجب على معتمِد يفارق التعادل أن يسجّل الأسباب تحت [الفصل الثاني عشر §3.1](../../core_13_governance.md#31-stewardship-direction) ويُظهر، على السجل، أن بدء الانتصاف ومراجعة الاستعادة يستوفيان مع ذلك ساعات درجتهما؛ تعادل الميزانية لا يعذر زناد [§4.4](#44-remedy-parity-and-lock-preconditions) المشغَّل، وزناد مستوفًى لا يعذر مفارقة صامتة للتعادل. معتمِد لا يستطيع تمويل انتصاف لصنف أنظمة يجب ألا يُقيم آلة أقفال لذلك الصنف.
 
 <a id="93-cross-jurisdiction-continuity"></a>
 #### 9.3 الاستمرارية عبر الولايات
@@ -837,7 +837,7 @@
 
 - أعلى: [§1](#1-immutable-chapter-eight-inputs) حتى [§9](#9-enforcement-realism) (*مدخلات الفصل الثامن غير القابلة للتغيير حتى واقعية الإنفاذ وأنظمة الانتصاف*).
 - الأقسام الفرعية: [§10.1](#101-informal-ecological-stewardship-competency-clearance)؛ [§10.2](#102-ecological-negligence-with-concealment)؛ [§10.3](#103-forum-integrity-deception-or-recusal-failure)؛ [§10.4](#104-recurrence-after-completed-restitution)؛ [§10.5](#105-champion-repair-while-a-lock-remains-active)؛ [§10.6](#106-institutional-vehicle-and-successor-evasion)؛ [§10.7](#107-misaligned-reward-retention)؛ [§10.8](#108-anti-constitutional-misconduct-allegation)؛ [§10.9](#109-rights-floor-waiver-or-unconstitutional-contract-devices)؛ [§10.10](#1010-contest-pathway-or-info-sphere-flooding)؛ [§10.11](#1011-infrastructure-denial-or-dependency-cutoff)؛ [§10.12](#1012-stakeholder-participation-corruption-or-false-stake-abuse)؛ [§10.13](#1013-obstruction-of-accountability).
-- يُقرأ مع: [الفصل الثامن §4.6](core_08_standing_assessment.md#46-question-2-measurement-illustrations) (*إيضاحات قياس السؤال 2*)؛ [مشاهد تطبيق الفصول الثامن–الحادي عشر](../../core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes) (*جولات مجال السلسلة كاملة*)؛ [الفصل العاشر §5](../../core_10_b_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing) (*توجيه نمط جانب التسمية — توأم الطبقة المزدوجة؛ ليس كتالوج أنواع أقفال*).
+- يُقرأ مع: [الفصل الثامن §4.6](core_08_standing_assessment.md#46-question-2-measurement-illustrations) (*إيضاحات قياس السؤال 2*)؛ [مشاهد تطبيق الفصول الثامن–الحادي عشر](../../core_09-12_application_vignettes.md#chapters-eight-eleven-application-vignettes) (*جولات مجال السلسلة كاملة*)؛ [الفصل العاشر §5](../../core_11_b_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing) (*توجيه نمط جانب التسمية — توأم الطبقة المزدوجة؛ ليس كتالوج أنواع أقفال*).
 
 </details>
 
@@ -939,7 +939,7 @@
   - [§4.2](#42-general-standing-locks) (*أقفال وضعية عامة محدودة بمسارات الثقة أو الدور أو الائتمان أو التأثير المُساء*)؛
   - [§5.1](#51-definition-and-attachment) (*حقول الإرفاق*)؛ و
   - [§5.4](#54-special-violation-rules) (*واجب المقاومة* حيث طلب الصك امتثالًا غير قانوني أو غير دستوري).
-- **غير قابل للتفاوض:** لا تنشئ هذه الإشارة قفلًا خاصًا تحت [§5.5](#55-special-locks). يبقى بطلان الشرط ومعايير التسمية في [الفصل العاشر §5.2](../../core_10_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms). يرفق الفصل التاسع أقفال مسار مسمّى عادية من السجل الموثّق؛ وتسمية نهائية وحدها تشغّل قفل الثقة المضاد للدستور تحت [§10.8](#108-anti-constitutional-misconduct-allegation).
+- **غير قابل للتفاوض:** لا تنشئ هذه الإشارة قفلًا خاصًا تحت [§5.5](#55-special-locks). يبقى بطلان الشرط ومعايير التسمية في [الفصل العاشر §5.2](../../core_11_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms). يرفق الفصل التاسع أقفال مسار مسمّى عادية من السجل الموثّق؛ وتسمية نهائية وحدها تشغّل قفل الثقة المضاد للدستور تحت [§10.8](#108-anti-constitutional-misconduct-allegation).
 
 <a id="1010-contest-pathway-or-info-sphere-flooding"></a>
 #### 10.10 إغراق مسار الطعن أو المجال المعلوماتي
@@ -950,7 +950,7 @@
   - [§4.2](#42-general-standing-locks) (*أقفال مسار مسمّى وقائية على مسارات التوجيه أو الإيداع أو الترتيب أو الوصول أو التأثير المُساء*)؛
   - [§5.1](#51-definition-and-attachment) و[§5.2](#52-proportionality-and-calibration) (*نطاق لازم ومتناسب وقابل للمراجعة*)؛ و
   - [الفصل الحادي عشر](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*فرز الاستقبال التشغيلي ومنع التلاعب — إشراف من دون اختراع آثار وضعية*).
-- **غير قابل للتفاوض:** لا تنشئ هذه الإشارة قفل إغراق أو نوع [§5.5](#55-special-locks) آخر. يبقى توجيه معايير جانب التسمية في [الفصل العاشر §5.3](../../core_10_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) و[§5.4](../../core_10_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding). تمضي الأقفال الوقائية العادية من السجل الثابت سواء أُرفقت تسمية لاحقًا أم لا.
+- **غير قابل للتفاوض:** لا تنشئ هذه الإشارة قفل إغراق أو نوع [§5.5](#55-special-locks) آخر. يبقى توجيه معايير جانب التسمية في [الفصل العاشر §5.3](../../core_11_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) و[§5.4](../../core_11_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding). تمضي الأقفال الوقائية العادية من السجل الثابت سواء أُرفقت تسمية لاحقًا أم لا.
 
 <a id="1011-infrastructure-denial-or-dependency-cutoff"></a>
 #### 10.11 حرمان البنية التحتية أو قطع الاعتماد
@@ -962,7 +962,7 @@
   - [§5.1](#51-definition-and-attachment) (*بما في ذلك العزل عن شبكات أو نقاط سيطرة تعيد صنع مخاطر القطع*)؛
   - [§5.4](#54-special-violation-rules) (*ضمانات قسرية أو مقيِّدة للحرية فقط حيث يسوّغ خطر موثّق*)؛ و
   - [§9](#9-enforcement-realism) (*متانة نظام الانتصاف ومنع التهرّب*).
-- **غير قابل للتفاوض:** لا تنشئ هذه الإشارة قفل بنية تحتية تحت [§5.5](#55-special-locks). يبقى توجيه معايير جانب التسمية في [الفصل العاشر §5.9](../../core_10_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct). ما زالت حدود عدم التقييد العامة تحت [§5.1](#51-definition-and-attachment) تحمي الكلام والالتماس ومشاركة الطرف المتأثر وأرضية الحقوق والوصول الحرج للبقاء الذي يجب ألا يطفئه القفل.
+- **غير قابل للتفاوض:** لا تنشئ هذه الإشارة قفل بنية تحتية تحت [§5.5](#55-special-locks). يبقى توجيه معايير جانب التسمية في [الفصل العاشر §5.9](../../core_11_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct). ما زالت حدود عدم التقييد العامة تحت [§5.1](#51-definition-and-attachment) تحمي الكلام والالتماس ومشاركة الطرف المتأثر وأرضية الحقوق والوصول الحرج للبقاء الذي يجب ألا يطفئه القفل.
 
 <a id="1012-stakeholder-participation-corruption-or-false-stake-abuse"></a>
 #### 10.12 فساد مشاركة الأطراف المتأثرة أو إساءة الرهان الزائف
@@ -984,7 +984,7 @@
   - [§5.4](#54-special-violation-rules) (*تشكيل الإخفاء والتهرّب والخداع والمتصل بالواجب*)؛
   - [§5.5](#55-special-locks) (*قفل وضعية خدمة المنتدى فقط حين يُستوفى محفّز نزاهة المنتدى / التنحّي المطلوب تحت [§10.3](#103-forum-integrity-deception-or-recusal-failure)*)؛ و
   - [§10.8](#108-anti-constitutional-misconduct-allegation) (*بوابة الفصل العاشر حين `s` = 7–9 ويُدعى سوء سلوك مضاد للدستور دعوى مادية*).
-- **غير قابل للتفاوض:** لا تنشئ هذه الإشارة قفل عرقلة أو نوع [§5.5](#55-special-locks) آخر. طابع العرقلة لا يحرّك خانة محور الانتهاك أبدًا. تمضي أقفال المسار المسمّى العادية من السجل الثابت عند أي خانة. يبقى توجيه معايير جانب التسمية في [الفصل العاشر §5.11](../../core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)؛ وتسمية نهائية وحدها تشغّل قفل الثقة المضاد للدستور تحت [§10.8](#108-anti-constitutional-misconduct-allegation). ميّز سلوك العرقلة الموثّق من [استيلاء مسارات الحل](core_05_band_accountability.md#capture-of-resolution-pathways) بوصفه شرطًا بنيويًا.
+- **غير قابل للتفاوض:** لا تنشئ هذه الإشارة قفل عرقلة أو نوع [§5.5](#55-special-locks) آخر. طابع العرقلة لا يحرّك خانة محور الانتهاك أبدًا. تمضي أقفال المسار المسمّى العادية من السجل الثابت عند أي خانة. يبقى توجيه معايير جانب التسمية في [الفصل العاشر §5.11](../../core_11_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)؛ وتسمية نهائية وحدها تشغّل قفل الثقة المضاد للدستور تحت [§10.8](#108-anti-constitutional-misconduct-allegation). ميّز سلوك العرقلة الموثّق من [استيلاء مسارات الحل](core_05_band_accountability.md#capture-of-resolution-pathways) بوصفه شرطًا بنيويًا.
 
 <a id="1014-verified-cruelty-character"></a>
 #### 10.14 طابع القسوة الموثّق
@@ -1004,4 +1004,4 @@
 
 **الملف التالي (هذه اللغة):** [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)
 
-**الأصل الملزم:** [core_09_standing_integration.md](../../core_09_standing_integration.md)
+**الأصل الملزم:** [core_09_standing_integration.md](../../core_10_standing_integration.md)

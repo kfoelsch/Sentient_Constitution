@@ -6,15 +6,15 @@
 
 > खालील मजकूर **फक्त वाचक मार्गदर्शन** आहे. तो या फाइलमध्ये किंवा इतर अध्यायांत बंधनकारक कर्तव्ये जोडत नाही, काढत नाही, किंवा आकुंचित करत नाही.
 >
-> ही फाइल [इंग्रजी अध्याय बारा](../../core_12_governance.md) चा **वाचक-भाषा पायलट** आहे. संज्ञ संविधानाचा **बंधनकारक भाग नाही**. **दुसरे संविधान नाही**. **प्रेषण आवृत्ती नाही**. `SC-Corpus-2026.08.09` ला **पिन** आहे. हा अनुवाद आणि इंग्रजी मूळ यात फरक दिसला, तर क्रमांकित [`core_12_governance.md`](../../core_12_governance.md) जिंकते. वाचन क्रम आणि आवृत्ती मेटाडेटा [README.md](../../README.md) मध्ये राहतात. पद्धत आणि शब्दसूची: [translations/mr/README.md](README.md).
+> ही फाइल [इंग्रजी अध्याय बारा](../../core_13_governance.md) चा **वाचक-भाषा पायलट** आहे. संज्ञ संविधानाचा **बंधनकारक भाग नाही**. **दुसरे संविधान नाही**. **प्रेषण आवृत्ती नाही**. `SC-Corpus-2026.08.09` ला **पिन** आहे. हा अनुवाद आणि इंग्रजी मूळ यात फरक दिसला, तर क्रमांकित [`core_12_governance.md`](../../core_13_governance.md) जिंकते. वाचन क्रम आणि आवृत्ती मेटाडेटा [README.md](../../README.md) मध्ये राहतात. पद्धत आणि शब्दसूची: [translations/mr/README.md](README.md).
 >
-> यात **अध्याय बारा** आहे — **संवैधानिक करार स्तर**. स्वतः शासन प्राधिकारासाठी संवैधानिक वैधता आणि उत्तरदायी-व्यवस्थापन अपेक्षा, आधीच अधिकृत प्रणालींतील **प्रभावित पक्षांचा प्रणालीगत सहभाग** पेक्षा वेगळ्या ([प्रस्तावना](core_00_preamble.md#chapter-00-preamble--foundational-requirements)). दुरुस्ती आणि अंगीकार वैधता नियंत्रणे [अध्याय तेरा ते पंधरा](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) मध्ये चालू राहतात. अध्याय क्रमांकन आणि परस्पर-संदर्भ एकत्रित साधनाशी जुळतात.
+> यात **अध्याय बारा** आहे — **संवैधानिक करार स्तर**. स्वतः शासन प्राधिकारासाठी संवैधानिक वैधता आणि उत्तरदायी-व्यवस्थापन अपेक्षा, आधीच अधिकृत प्रणालींतील **प्रभावित पक्षांचा प्रणालीगत सहभाग** पेक्षा वेगळ्या ([प्रस्तावना](core_00_preamble.md#chapter-00-preamble--foundational-requirements)). दुरुस्ती आणि अंगीकार वैधता नियंत्रणे [अध्याय तेरा ते पंधरा](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) मध्ये चालू राहतात. अध्याय क्रमांकन आणि परस्पर-संदर्भ एकत्रित साधनाशी जुळतात.
 
 
 >
-> **मागील (अजून इंग्रजीत):** [core_11_forum.md](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
+> **मागील (अजून इंग्रजीत):** [core_11_forum.md](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction)
 >
-> **पुढील (अजून इंग्रजीत):** [core_13_non_regression.md](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)
+> **पुढील (अजून इंग्रजीत):** [core_13_non_regression.md](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)
 > **वाचन चाप:** §0 स्तर सीमा → §1 प्राधिकार/वैधता → §1.1 यंत्रणा कुटुंबे → §1.2 पात्रता/लोकशाही किमान → §1.3 परतबोलावणी वर्ग → §2 सचोटी संस्कृती → §3 उत्तरदायी-व्यवस्थापन दिशा → §4 मतदान/सामूहिक निवड → §5 अधिकृत भूमिका
 </details>
 
@@ -65,7 +65,7 @@
 
 - वरून: तत्त्वे: [अध्याय एक §5 स्वातंत्र्य](core_01_a_values_principles.md#5-freedom-bounded-agency), [§9 उत्तरदायी व्यवस्थापन आणि वितरित समज](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [5. प्रक्रिया संघर्ष निराकरण](#6-process-conflict-resolution); [अध्याय बारा §0](#0-layer-boundary-for-this-chapter).
 - उपविभाग: [§1.1](#11-mechanism-families-auditability-and-pluralism) (*यंत्रणा कुटुंबे, लेखापरीक्षण-योग्यता, आणि बहुलवाद*); [§1.2](#12-eligibility-contested-selection-and-democratic-minimums) (*पात्रता, स्पर्धात्मक निवड, आणि लोकशाही किमान*); [§1.3](#13-recall-class-pathways-and-mid-cycle-transfer-guardrails) (*परतबोलावणी-वर्ग नामित मार्ग आणि चक्र-मध्य हस्तांतर रक्षकपट्ट्या*).
-- पुढे: [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale) खाली सचोटी, रणनीती, मतदान, आणि भूमिका कर्तव्ये; [अध्याय पंधरा](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) खाली अंगीकार आणि अनुमोदन; अध्याय सहातील वैधता, सहभाग, आणि आव्हानयोग्यता — विशेषतः [अनुच्छेद XI-C: वैधता द्वार आणि चिन्ह-सहभाग निरोध](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation), [अनुच्छेद XVIII: प्रस्थिति आणि सहभाग स्थिती](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status), आणि खालील संक्रियात्मक ठिपक्यांत की केलेले अभिव्यक्ती, सभा, आणि प्रक्रियात्मक-न्याय्यपणा अनुच्छेद.
+- पुढे: [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale) खाली सचोटी, रणनीती, मतदान, आणि भूमिका कर्तव्ये; [अध्याय पंधरा](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) खाली अंगीकार आणि अनुमोदन; अध्याय सहातील वैधता, सहभाग, आणि आव्हानयोग्यता — विशेषतः [अनुच्छेद XI-C: वैधता द्वार आणि चिन्ह-सहभाग निरोध](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation), [अनुच्छेद XVIII: प्रस्थिति आणि सहभाग स्थिती](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status), आणि खालील संक्रियात्मक ठिपक्यांत की केलेले अभिव्यक्ती, सभा, आणि प्रक्रियात्मक-न्याय्यपणा अनुच्छेद.
 - सोबत वाचा: या विभागात नामित नामित **संग्रह** आणि **[corpus_systems.md](../../corpus_systems.md)** हुक ([corpus_systems.md](../../corpus_systems.md), [corpus_institutions.md](../../corpus_institutions.md)).
 
 </details>
@@ -176,7 +176,7 @@
 
 **मंच नेमणूक स्वातंत्र्य तळ**
 
-- [**सचोटी**](../../core_11_forum.md#45-integrity-forums), [**संवैधानिक**](../../core_11_forum.md#46-constitutional-forums), आणि [**पर्यावरण**](../../core_11_forum.md#44-environment-forums) मंच, आणि संज्ञता-स्थिती न्यायनिर्णय ऐकताना [**तांत्रिक मंच क्षेत्रे**](../../core_11_forum.md#42-technical-forum-domains), **प्रकाशित**, **स्पर्धात्मक**, **फिरवता येणारी** नेमणूक किंवा समतुल्य स्वातंत्र्य तपासणी (चिठ्ठी-निवड, महासंघीय नामांकन, किंवा तुलनायोग्य) द्वारे कर्मचारी बसवायला हवेत.
+- [**सचोटी**](../../core_12_forum.md#45-integrity-forums), [**संवैधानिक**](../../core_12_forum.md#46-constitutional-forums), आणि [**पर्यावरण**](../../core_12_forum.md#44-environment-forums) मंच, आणि संज्ञता-स्थिती न्यायनिर्णय ऐकताना [**तांत्रिक मंच क्षेत्रे**](../../core_12_forum.md#42-technical-forum-domains), **प्रकाशित**, **स्पर्धात्मक**, **फिरवता येणारी** नेमणूक किंवा समतुल्य स्वातंत्र्य तपासणी (चिठ्ठी-निवड, महासंघीय नामांकन, किंवा तुलनायोग्य) द्वारे कर्मचारी बसवायला हवेत.
 - हा तळ **यंत्रणा-तटस्थ** आहे: एकच राज्य प्रकार किंवा एकच नेमणूक पद्धत आवश्यक करत नाही.
 - ती आसने [अध्याय नऊ §9.2](core_09_standing_integration.md#92-remedy-system-durability) उपचार-प्रणाली टिकाऊपणा तळापर्यंत नेमू न शकणे किंवा निधी न देणे वैधता आणि उपचार अपयश आहे, अंमलबजावणी उघडे ठेवू शकते असे अंतर नाही.
 - नेमणूक, क्षमता, फिरवणी, आणि काढणे यांत्रिकी [**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*नेमणूक, क्षमता, फिरवणी, आणि काढणे*) शासित करते; **CI-4** हा तळ आकुंचित करू नये.
@@ -303,7 +303,7 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - वरून: [§1](#1-authorization-and-legitimacy-of-governing-authority) दस्तऐवजीकृत वैधता यंत्रणा; [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate) सामूहिक निर्णयांसाठी उत्तरदायी-व्यवस्थापन संरेखन.
-- पुढे: उपविभाग [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice); या विभागाच्या शेवटी **परस्पर-संदर्भ (अध्याय बारा)** टिपेत सारांशित [अध्याय तेरा ते पंधरा](../../core_13_non_regression.md) मधील अंगीकार, सर्वोच्चता, आणि अप्रतिगमन साधने.
+- पुढे: उपविभाग [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice); या विभागाच्या शेवटी **परस्पर-संदर्भ (अध्याय बारा)** टिपेत सारांशित [अध्याय तेरा ते पंधरा](../../core_14_non_regression.md) मधील अंगीकार, सर्वोच्चता, आणि अप्रतिगमन साधने.
 - सोबत वाचा: [अध्याय सहा](core_06_rights_part_a.md#chapter-six-foundational-rights), विशेषतः [अनुच्छेद XI: प्रभावित पक्षांचा प्रणालीगत सहभाग, प्रतिनिधित्व, आणि योग्य प्रक्रिया](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) आणि §4 मध्ये उद्धृत संबंधित उपअनुच्छेद.
 
 </details>
@@ -478,8 +478,8 @@
 
 ---
 
-**मागील फाइल (अजून इंग्रजीत):** [core_11_forum.md](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
+**मागील फाइल (अजून इंग्रजीत):** [core_11_forum.md](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction)
 
-**पुढील फाइल (अजून इंग्रजीत):** [core_13_non_regression.md](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)
+**पुढील फाइल (अजून इंग्रजीत):** [core_13_non_regression.md](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)
 
-**बंधनकारक मूळ:** [core_12_governance.md](../../core_12_governance.md)
+**बंधनकारक मूळ:** [core_12_governance.md](../../core_13_governance.md)

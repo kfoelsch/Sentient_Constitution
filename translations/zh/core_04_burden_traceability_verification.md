@@ -24,7 +24,7 @@
 > - **四元地图：** 负担分配、证据、可追溯性、可观察性与核验，实施[序言](core_00_preamble.md#chapter-00-preamble--foundational-requirements)所确立的[宪法四元](core_00_preamble.md#constitutional-tetrad)**监督**与**问责**腿；凡具实质性要求之处，通过第 **3** 节与第 **4** 节下的实践可观察性与独立质疑实施**参与**。要求按[实质利害](core_00_preamble.md#material-stake)缩放。
 > - **宪法主责者：** 负担分配、合规证据、定义可追溯性、可观察性，以及受安全约束的核验。**第八章**主责与本章一并阅读的轨迹记录与经核实输入纪律。
 > - **实施主责者：** 指定实施文件中的部署、数据处理与保证机制必须与这些规则保持一致，并且凡文本库已提供更严规则逻辑之处可以更严。
-> - **反挪位规则：** 本章仅统管负担、追溯、可观察性、安全限度与证据。它不重述第五章定义、**第八章**贡献或轨迹测量，或第十章反宪法不当行为标准。经核实不合规向轨迹的路由，由[第三章 §3 — 不合规认定画像](core_03_definition_integrity.md#3-non-compliance-finding-profiles)与[第八章 — 贡献、违规与轨迹模型](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)统管。**第 6 节**陈述第二至四章如何有别于[第七章 — 系统对齐认证](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)。
+> - **反挪位规则：** 本章仅统管负担、追溯、可观察性、安全限度与证据。它不重述第五章定义、**第八章**贡献或轨迹测量，或第十章反宪法不当行为标准。经核实不合规向轨迹的路由，由[第三章 §3 — 不合规认定画像](core_03_definition_integrity.md#3-non-compliance-finding-profiles)与[第八章 — 贡献、违规与轨迹模型](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)统管。**第 6 节**陈述第二至四章如何有别于[第七章 — 系统对齐认证](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)。
 
 </details>
 
@@ -161,7 +161,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[第四章，第 1 节至第 4 节](#1-exclusive-enforcement-and-burden-allocation)；[第二章，§1 — 宗旨与角色](core_02_definition_structure.md#1-purpose-and-role)；[第二章，§2 定义完整性要求](core_02_definition_structure.md#2-definition-integrity-requirement)；[第二章，§3 跨定义栈的一致性](core_02_definition_structure.md#3-consistency-across-the-definition-stack)；[第三章，第 1 节 — 定义完整性与反规避约束](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)；[第三章，第 2 节 — 来自可观察系统行为的不合规](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior)；[第三章，§2.6 不确定性完整性与不利用约束](core_03_definition_integrity.md#26-uncertainty-integrity-and-non-exploitation-constraint) — 实质性定义与不合规规则；**§4** 仅陈述证据层要求，不重述那些规则。
-- 下游：[第八章 — 贡献、违规与轨迹模型](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)。
+- 下游：[第八章 — 贡献、违规与轨迹模型](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)。
 - 一并阅读：[第四章，第 2 节 — 定义可追溯性要求](#2-definition-traceability-requirement) — 未能调用或正确适用任何一项具实质性要求的**第五章**定义，使相关评价、证据与合规判定全部失效；[第一章，§6 — 过程冲突解决](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)，凡缩放影响感知者福祉与长时域稳定之间的权衡之处；[第五章 安全（约束）](../../core_05_band_continuity.md#safety-constraint)、[第五章 真理（宪法约束）](../../core_05_band_oversight.md#truth-constitutional-constraint)，以及[第五章 认识完整性](../../core_05_band_oversight.md#epistemic-integrity) — 对经验、预测或因果主张的科学知情证据对齐。
 
 </details>
@@ -195,8 +195,8 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[第二章 — 定义结构与组件要求](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements)；[第三章 — 定义完整性、规避与不合规](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)；[第四章，第 1 节至第 5 节](#1-exclusive-enforcement-and-burden-allocation)。
-- 下游：[第七章 — 系统对齐认证](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)；[第八章 — 贡献、违规与轨迹模型](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)。
-- 一并阅读：[第七章 §16 — 重开、错位与反规避](../../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — 第二至四章下的经核实不合规可以重开或击败认证，不论先前承认如何。
+- 下游：[第七章 — 系统对齐认证](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)；[第八章 — 贡献、违规与轨迹模型](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)。
+- 一并阅读：[第七章 §16 — 重开、错位与反规避](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — 第二至四章下的经核实不合规可以重开或击败认证，不论先前承认如何。
 
 </details>
 
@@ -213,7 +213,7 @@
 
 这些凡评价合规时即适用 — 不论有无认证。
 
-**[第七章 — 系统对齐认证](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)** 在具实质性之处提供评议所监督的**认证过程**：整系统评价域、认证记录义务、承认结果、再核验节奏、可质疑性链，以及通向第八章的经核实输入桥接。它**适用**第二至四章；它**不**重述它们。
+**[第七章 — 系统对齐认证](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)** 在具实质性之处提供评议所监督的**认证过程**：整系统评价域、认证记录义务、承认结果、再核验节奏、可质疑性链，以及通向第八章的经核实输入桥接。它**适用**第二至四章；它**不**重述它们。
 
 读者不得把以下各项当作：
 - 一份**认证记录**顶替第二至四章下的持续合规

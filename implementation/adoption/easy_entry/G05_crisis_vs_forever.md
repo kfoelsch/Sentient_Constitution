@@ -9,7 +9,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.08.09`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_15_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Fourteen §5](../../../core_14_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_16_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 
 </details>
 
@@ -53,7 +53,7 @@ See: [Emergency](../../STEWARD_ENTRY_DOORS.md#emergency).
 
 - A right to block a documented highest-urgency containment until a meeting is perfect.
 - A permanent extra rulebook that replaces ordinary rights because someone said “crisis.”
-- Enforcement against a body that has not agreed to follow this Constitution ([Chapter Sixteen §4](../../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority)).
+- Enforcement against a body that has not agreed to follow this Constitution ([Chapter Seventeen §4](../../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)).
 
 ## If you want to look further
 

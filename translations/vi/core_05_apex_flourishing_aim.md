@@ -96,7 +96,7 @@
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Hạ nguồn: gia đình đo lường Hưng thịnh — gộp chỉ-liên kết; các bậc theo thuật ngữ sống ở định nghĩa lá được liên kết trong bảng dưới.
-- Đọc cùng: [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) nơi hiệu ứng toàn hệ thống, giao sàn sống còn, hoặc **Điều kiện an toàn** đang trong phạm vi một cách vật chất.
+- Đọc cùng: [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) nơi hiệu ứng toàn hệ thống, giao sàn sống còn, hoặc **Điều kiện an toàn** đang trong phạm vi một cách vật chất.
 
 </details>
 

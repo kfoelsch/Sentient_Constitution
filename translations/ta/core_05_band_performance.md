@@ -12,7 +12,7 @@
 >
 > **முந்தையது (இந்த மொழியில்):** [core_05_band_participation.md](core_05_band_participation.md)
 >
-> **அடுத்தது (இன்னும் ஆங்கிலத்தில்):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+> **அடுத்தது (இன்னும் ஆங்கிலத்தில்):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 > **வாசிப்பு வளைவு:** அளவீட்டுக் குடும்ப இல்லம் → தொடர்ச்சிப் பட்டை இலை வழிமாற்றம்.
 
 </details>
@@ -58,12 +58,12 @@
 - செயல் அளவீட்டு அடுக்குகள் அத்தியாயம் ஐந்து வரையறை இல்லங்களில் வாழ்கின்றன — காண்க [அரசியலமைப்பு திறன்](core_05_band_continuity.md#constitutional-efficiency), [தவிர்க்கக்கூடிய சுமை](core_05_band_continuity.md#avoidable-burden), [உற்பத்தித் திறன்](core_05_band_continuity.md#productive-capacity-constitutional), மற்றும் [சுமை-குறைப்புக் கடமை](core_05_band_continuity.md#burden-reduction-duty-constitutional).
 - செயல்திறன் இலக்குகள், வெகுமதிகள், வள அளவீடுகள் அரசியலமைப்பு விளைவுகளுக்குத் தடமறியக்கூடியவையாக இருக்கும் அளவுக்கு மட்டுமே செல்லுபடியாகும்.
 - அவை அரசியலமைப்பு திறன், [உற்பத்தித் திறன்](core_05_band_continuity.md#productive-capacity-constitutional), அல்லது உரிமைத் தள இணக்கத்துக்குப் பதிலீடாக நிற்க முடியாது.
-- முழு-அமைப்பு செயல்திறன் பொருள்ரீதியாக எல்லையில் இருக்கும் இடத்தில் [அத்தியாயம் ஏழு §3 முழு-அமைப்புச் சான்றளிப்பு மதிப்பீடு](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) உடன் படிக்க.
+- முழு-அமைப்பு செயல்திறன் பொருள்ரீதியாக எல்லையில் இருக்கும் இடத்தில் [அத்தியாயம் ஏழு §3 முழு-அமைப்புச் சான்றளிப்பு மதிப்பீடு](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) உடன் படிக்க.
 
 ---
 
 **முந்தைய கோப்பு:** [core_05_band_participation.md](core_05_band_participation.md)
 
-**அடுத்த கோப்பு (இன்னும் ஆங்கிலத்தில்):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+**அடுத்த கோப்பு (இன்னும் ஆங்கிலத்தில்):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 
 **பிணைக்கும் மூலம்:** [core_05_band_performance.md](../../core_05_band_performance.md)

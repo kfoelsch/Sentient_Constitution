@@ -5,7 +5,7 @@
 
 > 以下の内容は**読者向け案内にすぎない**。拘束力のある義務を加え、除き、または狭めない。
 >
-> このフォルダは**読者言語パイロット**である。**感知者憲法ではない**。番号付き `core_*` ファイルを**変えることはできない**。**配布版ではない**。これを読むことは、[この憲法を採択すること](../../core_15_amendment_ratification.md#10-ratification-and-adoption)では**ない**。訳文と英語原文が食い違って見える場合、後日の版が別のことを言うまで、英語の番号付き `core_*` が勝つ。参照：[Reader-language editions](../../doc_architecture.md#reader-language-editions)。
+> このフォルダは**読者言語パイロット**である。**感知者憲法ではない**。番号付き `core_*` ファイルを**変えることはできない**。**配布版ではない**。これを読むことは、[この憲法を採択すること](../../core_16_amendment_ratification.md#10-ratification-and-adoption)では**ない**。訳文と英語原文が食い違って見える場合、後日の版が別のことを言うまで、英語の番号付き `core_*` が勝つ。参照：[Reader-language editions](../../doc_architecture.md#reader-language-editions)。
 >
 > **コーパス版に固定：** `SC-Corpus-2026.08.09`（効力発生 2026-08-09；[README.md](../../README.md)）。**プレリリース。**
 
@@ -37,13 +37,13 @@
 | [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md) | [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md) |
 | [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md) | [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md) |
 | [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md) | [core_05_apex_timeliness_leg.md](../../core_05_apex_timeliness_leg.md) |
-| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_07_system_alignment_certification.md) |
-| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md) |
-| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md) |
-| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_08_standing_assessment.md) |
-| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_09_standing_integration.md) |
-| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md) |
-| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_11_forum.md) |
+| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_08_system_alignment_certification.md) |
+| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md) |
+| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_09_standing_assessment.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_10_standing_integration.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md) |
+| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_12_forum.md) |
 
 パイロット内のリンクは、まだ訳のない英語ファイルへ向かう。HTML アンカー（`id`）は原文から複製し、区間ごとに対照できるようにする。
 

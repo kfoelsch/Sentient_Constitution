@@ -6,15 +6,15 @@
 
 > खालील मजकूर **फक्त वाचक मार्गदर्शन** आहे. तो या फाइलमध्ये किंवा इतर अध्यायांत बंधनकारक कर्तव्ये जोडत नाही, काढत नाही, किंवा आकुंचित करत नाही.
 >
-> ही फाइल [इंग्रजी अध्याय तेरा](../../core_13_non_regression.md) चा **वाचक-भाषा पायलट** आहे. संज्ञ संविधानाचा **बंधनकारक भाग नाही**. **दुसरे संविधान नाही**. **प्रेषण आवृत्ती नाही**. `SC-Corpus-2026.08.09` ला **पिन** आहे. हा अनुवाद आणि इंग्रजी मूळ यात फरक दिसला, तर क्रमांकित [`core_13_non_regression.md`](../../core_13_non_regression.md) जिंकते. वाचन क्रम आणि आवृत्ती मेटाडेटा [README.md](../../README.md) मध्ये राहतात. पद्धत आणि शब्दसूची: [translations/mr/README.md](README.md).
+> ही फाइल [इंग्रजी अध्याय तेरा](../../core_14_non_regression.md) चा **वाचक-भाषा पायलट** आहे. संज्ञ संविधानाचा **बंधनकारक भाग नाही**. **दुसरे संविधान नाही**. **प्रेषण आवृत्ती नाही**. `SC-Corpus-2026.08.09` ला **पिन** आहे. हा अनुवाद आणि इंग्रजी मूळ यात फरक दिसला, तर क्रमांकित [`core_13_non_regression.md`](../../core_14_non_regression.md) जिंकते. वाचन क्रम आणि आवृत्ती मेटाडेटा [README.md](../../README.md) मध्ये राहतात. पद्धत आणि शब्दसूची: [translations/mr/README.md](README.md).
 >
-> यात **अध्याय तेरा** आहे: मूळ अप्रतिगमन आणि दुरुस्तीची मूळ वैधता (चाचणी 1). **अध्याय चौदा** [`core_14_expansion_supremacy.md`](../../core_14_expansion_supremacy.md) मध्ये आहे. **अध्याय पंधरा** [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md) मध्ये आहे. दुरुस्तीची वैधता दोन्ही [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) — **समुन्नती** आणि **सातत्य** — जपायला हवी, आणि [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) [भौतिक दाव](core_00_preamble.md#material-stake) अपेक्षांखाली पोकळ करू नये. अध्याय क्रमांकन आणि परस्पर-संदर्भ एकत्रित साधनाशी जुळतात.
+> यात **अध्याय तेरा** आहे: मूळ अप्रतिगमन आणि दुरुस्तीची मूळ वैधता (चाचणी 1). **अध्याय चौदा** [`core_14_expansion_supremacy.md`](../../core_15_expansion_supremacy.md) मध्ये आहे. **अध्याय पंधरा** [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md) मध्ये आहे. दुरुस्तीची वैधता दोन्ही [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) — **समुन्नती** आणि **सातत्य** — जपायला हवी, आणि [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) [भौतिक दाव](core_00_preamble.md#material-stake) अपेक्षांखाली पोकळ करू नये. अध्याय क्रमांकन आणि परस्पर-संदर्भ एकत्रित साधनाशी जुळतात.
 
 
 >
-> **मागील (अजून इंग्रजीत):** [core_12_governance.md](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
+> **मागील (अजून इंग्रजीत):** [core_12_governance.md](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)
 >
-> **पुढील (अजून इंग्रजीत):** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+> **पुढील (अजून इंग्रजीत):** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 > **वाचन चाप:** §1 अप्रतिगमन तळ → §2 चाचणी 1 → §3 टाळाटाळ-निरोध आणि संदर्भ → §4 स्तर व्याप्ती
 </details>
 
@@ -35,9 +35,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: [अध्याय एक](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [अध्याय दोन ते चार](core_02_definition_structure.md) सचोटी आणि सत्यापन; [अध्याय सहा](core_06_rights_part_a.md#chapter-six-foundational-rights) अधिकार-तळ; [अध्याय बारा](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) वैधता आणि उत्तरदायी व्यवस्थापन अपेक्षा.
+- वरून: [अध्याय एक](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [अध्याय दोन ते चार](core_02_definition_structure.md) सचोटी आणि सत्यापन; [अध्याय सहा](core_06_rights_part_a.md#chapter-six-foundational-rights) अधिकार-तळ; [अध्याय बारा](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) वैधता आणि उत्तरदायी व्यवस्थापन अपेक्षा.
 - उपविभाग: [§1](#1-non-regression-floor); [§2](#2-test-1-substantive-non-regression-validity); [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral); [§4](#4-layer-scope).
-- पुढे: [अध्याय चौदा](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) विस्तार आणि सर्वोच्चता; [अध्याय पंधरा](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) प्रक्रियात्मक वैधता, अनुमोदन, आणि दुरुस्ती अपेक्षा; संदर्भ ट्रिगर मार्गनिर्देशित होतात तिथे प्रामाणिक वर्गीकरणासाठी [अध्याय आठ](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) आणि [अध्याय दहा](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct).
+- पुढे: [अध्याय चौदा](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) विस्तार आणि सर्वोच्चता; [अध्याय पंधरा](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) प्रक्रियात्मक वैधता, अनुमोदन, आणि दुरुस्ती अपेक्षा; संदर्भ ट्रिगर मार्गनिर्देशित होतात तिथे प्रामाणिक वर्गीकरणासाठी [अध्याय आठ](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) आणि [अध्याय दहा](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct).
 - सोबत वाचा: [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) संवैधानिक बदल आणि समावेशावर **अध्याय अकरा ते चौदा** यांचे असंक्रियात्मक चालण.
 
 </details>
@@ -96,8 +96,8 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - वरून: [§1](#1-non-regression-floor) अप्रतिगमन तळ व्याख्या.
-- पुढे: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) टाळाटाळ आणि दुराचरण संदर्भ; [अध्याय पंधरा](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) चाचणी 2–4 आणि प्रक्रियात्मक अपेक्षा (चाचणी 1 अपयशी झाली तर प्रक्रियेशिवाय अवैध).
-- सोबत वाचा: [अध्याय एक](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) अहस्तांतरणीय तत्त्व-बंधने; [अध्याय बारा](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) वैधता कर्तव्ये.
+- पुढे: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) टाळाटाळ आणि दुराचरण संदर्भ; [अध्याय पंधरा](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) चाचणी 2–4 आणि प्रक्रियात्मक अपेक्षा (चाचणी 1 अपयशी झाली तर प्रक्रियेशिवाय अवैध).
+- सोबत वाचा: [अध्याय एक](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) अहस्तांतरणीय तत्त्व-बंधने; [अध्याय बारा](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) वैधता कर्तव्ये.
 
 </details>
 
@@ -157,8 +157,8 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - वरून: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) फक्त-संदर्भ शिस्त; [अध्याय आठ](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) आणि [अध्याय दहा](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) प्रामाणिक मालक.
-- पुढे: [अध्याय पंधरा §12](../../core_15_amendment_ratification.md#12-layer-scope) आरसा प्रक्रिया-स्तर शिस्त; समीक्षा अंमल यांत्रिकीसाठी अंमलबजावणी पाठ.
-- सोबत वाचा: [प्राधिकार ढेर आणि अंतर्गत श्रेणीक्रम](core_05_band_integrative.md#owner-non-relocation) आणि [प्रस्तावना — सकारात्मक मालक नोंदणी](core_00_preamble.md#4-principles-definitions-and-rights); बदल-मार्ग आणि समावेशावर [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md); स्लॉट-वर्गीकरण वर्गीकरण न नकलणाऱ्या वैधता चाचण्यांसाठी [अध्याय पंधरा](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity).
+- पुढे: [अध्याय पंधरा §12](../../core_16_amendment_ratification.md#12-layer-scope) आरसा प्रक्रिया-स्तर शिस्त; समीक्षा अंमल यांत्रिकीसाठी अंमलबजावणी पाठ.
+- सोबत वाचा: [प्राधिकार ढेर आणि अंतर्गत श्रेणीक्रम](core_05_band_integrative.md#owner-non-relocation) आणि [प्रस्तावना — सकारात्मक मालक नोंदणी](core_00_preamble.md#4-principles-definitions-and-rights); बदल-मार्ग आणि समावेशावर [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md); स्लॉट-वर्गीकरण वर्गीकरण न नकलणाऱ्या वैधता चाचण्यांसाठी [अध्याय पंधरा](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity).
 
 </details>
 
@@ -187,7 +187,7 @@
 > - **सामान्य योगदान आणि उल्लंघन मापन** (योगदान अक्ष / उल्लंघन अक्ष) — [core_08_standing_assessment.md](core_08_standing_assessment.md) मधील **अध्याय आठ**; **प्रस्थिति परिणाम आणि एकत्रीकरण** — [core_09_standing_integration.md](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) मधील **अध्याय नऊ**;
 > - **अंकीय योगदान आणि उल्लंघन अक्ष स्लॉट** — **अध्याय आठ §7 एकीकृत प्रमाण**, वेगळ्या अभिलेखांसह आणि उल्लंघन स्लॉट फक्त सत्यापित परिणामाद्वारे नियंत्रित; आणि पात्र उल्लंघन अक्ष स्लॉट 7, 8, किंवा 9 साठी संबंधित **संविधान-विरोधी-दुराचरण नामांकन** — [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) मधील **अध्याय दहा**;
 > - **मंच-संक्रियात्मक कार्यप्रवाह आणि न्यायनिर्णयन प्रक्रिया** — **अध्याय अकरा** आणि [corpus_forum.md](../../corpus_forum.md);
-> - दुरुस्ती, अनुमोदन, आणि अंगीकारासाठी **प्रक्रियात्मक आणि अभिरक्षा वैधता** — [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) मधील **अध्याय पंधरा**; आणि
+> - दुरुस्ती, अनुमोदन, आणि अंगीकारासाठी **प्रक्रियात्मक आणि अभिरक्षा वैधता** — [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) मधील **अध्याय पंधरा**; आणि
 > - समीक्षा अंमलासाठी **तपशीलवार संस्थात्मक प्रक्रिया, कर्मचारी यांत्रिकी, आणि अंमलबजावणी-पार संयुक्त संरचनात्मक एकत्रीकरण** — नामित अंमलबजावणी पाठ आणि [प्रस्तावना — सकारात्मक मालक नोंदणी](core_00_preamble.md#4-principles-definitions-and-rights) मध्ये नामित मालक अध्याय.
 >
 > मालक स्तर संवैधानिक वैधता मानके **अध्याय तेरा आणि पंधरा**च्या बाहेर, योगदान अक्ष / उल्लंघन अक्ष मापन प्राधिकार **अध्याय आठ §7 एकीकृत प्रमाणाच्या** बाहेर, किंवा संविधान-विरोधी-दुराचरण नामांकन प्राधिकार **अध्याय दहाच्या** बाहेर स्थलांतरित करतात असे वाचू नयेत. अध्याय दहा अंकीय स्लॉट नेमत नाही. असंक्रियात्मक वास्तुकला चालणासाठी [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) पहा.
@@ -196,8 +196,8 @@
 
 ---
 
-**मागील फाइल (अजून इंग्रजीत):** [core_12_governance.md](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
+**मागील फाइल (अजून इंग्रजीत):** [core_12_governance.md](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)
 
-**पुढील फाइल (अजून इंग्रजीत):** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+**पुढील फाइल (अजून इंग्रजीत):** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 
-**बंधनकारक मूळ:** [core_13_non_regression.md](../../core_13_non_regression.md)
+**बंधनकारक मूळ:** [core_13_non_regression.md](../../core_14_non_regression.md)

@@ -6,15 +6,15 @@
 
 > 다음 내용은 **독자 안내일 뿐입니다**. 이 파일이나 다른 장에서 구속력 있는 의무를 더하거나, 빼거나, 좁히지 않습니다.
 >
-> 이 파일은 [영어 제11장](../../core_11_forum.md)의 **독자 언어 시험본**입니다. 감지자 헌법의 구속력 있는 부분이 **아닙니다**. 두 번째 헌법이 **아닙니다**. 배포판이 **아닙니다**. `SC-Corpus-2026.08.09`에 **고정**되어 있습니다. 이 번역과 영어 원문이 어긋나 보이면, 번호 파일 [`core_11_forum.md`](../../core_11_forum.md)가 이깁니다. 읽기 순서와 판본 메타데이터는 [README.md](../../README.md)에 유지됩니다. 방법과 용어표: [translations/ko/README.md](README.md).
+> 이 파일은 [영어 제11장](../../core_12_forum.md)의 **독자 언어 시험본**입니다. 감지자 헌법의 구속력 있는 부분이 **아닙니다**. 두 번째 헌법이 **아닙니다**. 배포판이 **아닙니다**. `SC-Corpus-2026.08.09`에 **고정**되어 있습니다. 이 번역과 영어 원문이 어긋나 보이면, 번호 파일 [`core_11_forum.md`](../../core_12_forum.md)가 이깁니다. 읽기 순서와 판본 메타데이터는 [README.md](../../README.md)에 유지됩니다. 방법과 용어표: [translations/ko/README.md](README.md).
 >
 > **제11장**을 담습니다: 포럼 가족, 기본 장소와 일차 이해관계 라우팅, 포렌식 받침, 접수 분류, 궤적 사슬과 권리 바닥 아래 분쟁의 관할. 포럼은 [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad)의 **참여**, **감독**, **적시성** 다리 아래, [실질 이해관계](core_00_preamble.md#material-stake)에 맞춰 세기 조절하여 분쟁 취급을 **감독**합니다. 사실이 확인되면 [제8장 §3](core_08_standing_assessment.md#3-standing-record-operational-requirements) 아래 궤적 기록을 **열거나, 갱신하거나, 고칠** 수 있습니다 — 또는 **다툼에서 나쁜 기록을 치울** 수 있습니다. 제기된 사건은 그 자체로 궤적이 아니며, 포럼 이야기는 제8장 궤적 측정을 대체해서는 안 됩니다([제8장 §3.6](core_08_standing_assessment.md#36-forum-boundary)). 사슬 안내는 [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)를 쓰십시오. 운영 포럼 기계는 지정된 시행 파일에 남습니다. 장 번호와 교차 참조는 통합 문서와 맞습니다.
 
 
 >
-> **이전(아직 영어):** [core_10_b_misconduct_pattern_applications.md](../../core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)
+> **이전(아직 영어):** [core_10_b_misconduct_pattern_applications.md](../../core_11_b_misconduct_pattern_applications.md#chapter-eleven-part-b-anti-constitutional-misconduct-pattern-applications)
 >
-> **다음(아직 영어):** [core_08-11_application_vignettes.md](../../core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes)
+> **다음(아직 영어):** [core_08-11_application_vignettes.md](../../core_09-12_application_vignettes.md#chapters-eight-eleven-application-vignettes)
 > **읽기 호:** §1 목적 → 다툼 순서 → §2 기본 장소와 접수 → §2.1–§2.3 주관 한도, 혼합 이해관계, 다툼 → §3 이전과 자기 심판 금지 → §4 가족 → §5 격상과 인증 → §6 층과 지연 금지 → §7 포럼 받침
 </details>
 
@@ -27,7 +27,7 @@
 > - **헌법 주관자:** **1절** (*목적* — 이 장이 배정하는 규범의 **일차 재결 적용**이며, 일상 **집행 행정**과 **구별됨**; 이미 수권된 체계 안 보통 분쟁을 위한 **다툼 순서**; **책무** 요건; **공표**되고 **예측 가능한** **문턱** 배치); **기본 출발 장소**, **일차 이해관계** 라우팅, **접수 분류 기관** (**첫 접촉 창구**), 혼합 이해관계, 비대칭, 궤적 기록 다툼, **선의의 성격 부여와 놀이 금지**, **감지자가 닿을 수 있는** **문턱** **접근** 기대 (**2절**, **`corpus_forum.md`**와 **함께 읽기**); **이전**, **병합**, **조정** (**3절**, **5절** 인증과 예비와 함께 읽기); **포럼 가족 정의**, **내부 분과**, **공유 표준**, **잠정 운영법** (감지자, 기술, 제도, 환경, 완전성, 헌법 — **4** **절**, **2** **절** **표**를 거울로 함); **격상**, **인증**, **잠정 보호** (**5절**); **제때 해결**과 **지연 금지** 규율 (**6절**); 검토 전·중·후의 **포럼 받침** (**7절**). 분류와 받침 역할이 **적법하게 구성된 본안 합의체**를 **대체하지 않도록** 시행합니다; **자기 심판 금지** 예비 라우팅; **제8장**, **제10장**, **제6장** 정의와 다툼 권리에 묶인 격상 고리.
 > - **사슬 안내:** [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums) — 이 파일의 [§§1–7](#1-purpose-and-role).
 > - **제8–9장 세 질문 사슬:** 제8장 **2–3절**은 확인된, 축-순수한 기록을 통해 질문 1(*무엇이 일어났는가?*)에 답합니다. [제8장 §4](core_08_standing_assessment.md#4-standing-measurement-evaluation-dimensions)와 [§7 통합 비례 LEQU 척도](core_08_standing_assessment.md#7-unified-proportional-lequ-scale)는 평가 차원, 공유 다섯 배 LEQU 띠, 공유 **s** = 1...9 문법으로 기여와 위반 기록을 따로 지키며 질문 2(*얼마나 좋거나 나빴는가?*)에 답합니다. [제9장](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)은 구제, 안전장치, 역량 문턱과 허가, 궤적 잠금을 통해 질문 3(*그 때문에 무엇이 일어나는가?*)에 답합니다. 위반 축 슬롯을 다스리는 것은 확인된 영향뿐입니다; 과실, 은폐, 강제, 응답, 견줄 성격 서술자는 그것을 움직이지 않습니다. [제10장](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)은 제8장 슬롯 7, 8, 또는 9 기록에 짝이 되는 반헌법 부당행위 지정을 더할 수 있으나 숫자 슬롯을 할당하지 않습니다.
-> - **포럼 (비운영 주):** 이 장 아래 **포럼 가족**은 [제8장](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) 분류를 구체 분쟁에 적용하는 일차 **포럼**입니다 — 따로 기록된 **기여 성격**, **위반 축 영향 슬롯**, 과정 / 응답 성격이 **함께 있고** **제8장** 공동 평가와 대체 금지 규율 아래 다루어져야 하는 일을 포함합니다. 재결 밖 **연구 자금**, **금융**, **유인** 기계는 채택된 시행과 **[corpus_systems.md](../../corpus_systems.md)**에 남습니다 (**제8장** 독자 안내를 보십시오); 예방과 뿌리 원인 탐구를 받칠 수 있으나 **문턱** 라우팅, **본안** 결정, 권한 있는 제8장 숫자 슬롯 할당, 짝이 되는 **제10장** 지정, 또는 **제 XXIII조** (*충돌 해결, 격상, 비상 비례*) 제약을 **대체해서는 안 됩니다**. **1절과 2절**은 **유인** 구조에 대한 **일차** 책임을 각 **가족** **영역** **안**에 **주로** 배정합니다 (세부는 **코퍼스**와 시행); 그 **배정**은 [제12장](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)과 **[corpus_systems.md](../../corpus_systems.md)**에 남겨진 **체계 전체** **예산** 또는 **거버넌스 규모** 선택을 **옮기지 않습니다**.
+> - **포럼 (비운영 주):** 이 장 아래 **포럼 가족**은 [제8장](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) 분류를 구체 분쟁에 적용하는 일차 **포럼**입니다 — 따로 기록된 **기여 성격**, **위반 축 영향 슬롯**, 과정 / 응답 성격이 **함께 있고** **제8장** 공동 평가와 대체 금지 규율 아래 다루어져야 하는 일을 포함합니다. 재결 밖 **연구 자금**, **금융**, **유인** 기계는 채택된 시행과 **[corpus_systems.md](../../corpus_systems.md)**에 남습니다 (**제8장** 독자 안내를 보십시오); 예방과 뿌리 원인 탐구를 받칠 수 있으나 **문턱** 라우팅, **본안** 결정, 권한 있는 제8장 숫자 슬롯 할당, 짝이 되는 **제10장** 지정, 또는 **제 XXIII조** (*충돌 해결, 격상, 비상 비례*) 제약을 **대체해서는 안 됩니다**. **1절과 2절**은 **유인** 구조에 대한 **일차** 책임을 각 **가족** **영역** **안**에 **주로** 배정합니다 (세부는 **코퍼스**와 시행); 그 **배정**은 [제12장](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)과 **[corpus_systems.md](../../corpus_systems.md)**에 남겨진 **체계 전체** **예산** 또는 **거버넌스 규모** 선택을 **옮기지 않습니다**.
 > - **시행 주관자:** 공표된 접수 **등급**, 일상 심리 규칙, 인력, 예산, 세밀 절차, 운영 격상 기계, 포럼 받침 운영 요건은 채택된 시행 텍스트와 **[corpus_forum.md](../../corpus_forum.md)**에 삽니다 (**CF-5** (*라우팅 운영, 이전, 인증, 대표 취급*), **CF-8** (*포럼 포렌식과 분석 받침*), **CF-9** (*독립 조사 서비스와 기소 인터페이스*), 관련 절); 그 층은 이 장을 **시행하고, 좁히지 않습니다**.
 > - **자리 옮김 금지 규칙:** 채택 기구는 서로 다른 포럼 기능을 접거나, **독립**이나 **실제 검토**를 벗기거나, 이 장이 유일한 최종 본안 거처로 금하는 같은 포획된 포럼으로 완전성 다툼을 되돌리는 절차로 이 장을 충족해서는 안 됩니다.
 >
@@ -41,7 +41,7 @@
 - 상류: [제8장](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*이 장이 라우팅하는 분쟁을 공급하는 질문 1 기록과 질문 2 측정*); [제8장 §5.1](core_08_standing_assessment.md#5-slot-grammar-and-display-labels) (*궤적 슬롯 문법*); [제8장 §7 통합 척도](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) (*공유 다섯 배 LEQU 띠와 따로 된 축 기록*); [제8장 §§4.3–4.4](core_08_standing_assessment.md#43-route-descriptor-measurement-roles) (*슬롯을 움직이지 않는 기여 축과 위반 축 서술자를 포함한 축 사이 정규화 서술자 목록*); [제10장](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*자격을 갖춘 제8장 슬롯 7–9에 대한 짝 반헌법 부당행위 지정*); [제2장부터 제4장](core_02_definition_structure.md) (*기록, 확인, 추적 기대*); [제5장](core_05__definitions_home.md#chapter-five-foundational-definitions) (*기초 정의*); [제1장](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*해석 제약*); [제6장 — 기초 권리](core_06_rights_part_a.md#chapter-six-foundational-rights)부터 [D부분](core_06_rights_part_d.md) (*다툼, 감사, 정의 조 고리*).
 - 하위 절: [§1](#1-purpose-and-role); [§2](#2-default-venue-and-primary-stakes); [§3](#3-transfer-consolidation-and-coordination); [§4](#4-forum-family-definitions); [§5](#5-escalation-and-certification); [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [§7](#7-forum-support-before-during-and-after-review).
 - 함께 읽기: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
-- 하류: [corpus_forum.md](../../corpus_forum.md) (*운영 포럼 교의*); 재결 역할과 거버넌스 정당성이 만나는 곳의 [제12장](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship); 채택된 절차 층을 위한 [제16장](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*편입 규율*).
+- 하류: [corpus_forum.md](../../corpus_forum.md) (*운영 포럼 교의*); 재결 역할과 거버넌스 정당성이 만나는 곳의 [제12장](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); 채택된 절차 층을 위한 [제16장](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*편입 규율*).
 - 함께 읽기: [제8장 §5.1](core_08_standing_assessment.md#5-slot-grammar-and-display-labels) (*궤적 슬롯 문법*); [제8장 §§4.3–4.4](core_08_standing_assessment.md#43-route-descriptor-measurement-roles) (*축 사이 정규화된 기여 축과 위반 축 서술자*).
 - 또한 함께 읽기: [제9장 §3](core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization) (*2절 일차 이해관계 라우팅과 함께 읽는 서술자 통합과 첨부 정규화*); [README.md](../../README.md) (*읽기 순서와 코퍼스 조직*); [doc_architecture.md](../../doc_architecture.md) (*채택되지 않는 한 구속력 없는 편집 지도*).
 
@@ -121,7 +121,7 @@ flowchart TD
 - **제2장부터 제4장**, 다툼과 시정이 걸리는 곳의 **제 XII-B조** (*다툼, 검토, 구제에 대한 권리*), 정의 제약이 다스리는 곳의 **제 XXIII조** (*충돌 해결, 격상, 비상 비례*)의 **독립**, **다툴 수 있음**, **추적** 기대를 충족해야 합니다.
 - 이 문서가 말한 가장 엄격한 절차와 완전성-책무 요건에 따릅니다. 공적 정당화, 추적 가능성, 기피와 합의체 규율, 이 장이 배정하는 곳의 포렌식과 분석 받침을 포함합니다
 - 자기 심판 금지 예비 라우팅을 요구합니다. 그 요건은 재결 독립을 정치 통제로 대체해서는 안 됩니다.
-- **완전성**, **헌법**, **환경** 포럼, 그리고 감지 지위 재결을 들을 때의 **기술 포럼 영역**은 [제12장 §1.2](../../core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums) 아래 **공표**되고, **다투어지며**, **교체 가능한** 임명 또는 동등한 독립 점검을 요구합니다. 그 석의 과소 임명이나 과소 자금은 [제9장 §9](core_09_standing_integration.md#9-enforcement-realism) 실패입니다.
+- **완전성**, **헌법**, **환경** 포럼, 그리고 감지 지위 재결을 들을 때의 **기술 포럼 영역**은 [제12장 §1.2](../../core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums) 아래 **공표**되고, **다투어지며**, **교체 가능한** 임명 또는 동등한 독립 점검을 요구합니다. 그 석의 과소 임명이나 과소 자금은 [제9장 §9](core_09_standing_integration.md#9-enforcement-realism) 실패입니다.
 
 각 **포럼 가족**은 주로 자기 영역 안 유인 구조에 대한 일차 책임을 집니다. 다음을 포함합니다:
 
@@ -129,7 +129,7 @@ flowchart TD
 - 비용, 제재, 다툼, 보고 명명된 경로의 검토
 - 시정 순서 고리, 견줄 재결 인접 정합.
 
-**체계 전체** 예산, 가로지르는 연구 자금, 거버넌스 규모 계획은 적용되는 곳에서 [제12장 — 거버넌스](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship), **[corpus_systems.md](../../corpus_systems.md)**, 다른 최상위 규칙에 남습니다. 보수, 비용 규칙, 비슷한 유인 도구는 다음을 **대체해서는 안 됩니다**:
+**체계 전체** 예산, 가로지르는 연구 자금, 거버넌스 규모 계획은 적용되는 곳에서 [제12장 — 거버넌스](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship), **[corpus_systems.md](../../corpus_systems.md)**, 다른 최상위 규칙에 남습니다. 보수, 비용 규칙, 비슷한 유인 도구는 다음을 **대체해서는 안 됩니다**:
 
 - 알맞은 포럼 라우팅
 - 적법하게 구성된 합의체의 실제 본안 결정
@@ -195,7 +195,7 @@ flowchart TD
      - 필요할 때의 **헌법** 인증;
      - 제도 당사자 규칙; 그리고
      - **2, 3, 5절** 아래 자기 심판 금지 예비.
-   - **포럼 편향 분쟁:** 싸움이 주로 물러났어야 할 합의체 구성원, 편향된 합의체 참여, 또는 견줄 포럼 완전성 침해 — **[제 XXII-B조](core_06_rights_part_c.md#article-xxii-b-composition-rotation-and-conflict-controls) (*구성, 교체, 이해충돌 통제*)** 아래 **헌법** 포럼 합의체에서의 것을 포함 — 에 관한 것이면, 먼저 **완전성** 포럼으로 라우팅하십시오. **3절** 아래 포럼은 자기 편향의 유일한 최종 판단자일 수 없습니다: **헌법** 포럼은 자기 합의체 구성원이 기피했어야 했는지를 정하는 유일한 최종 포럼일 수 없습니다. 궤적 잠금 규율: **[제9장 §5.5](core_09_standing_integration.md#55-special-locks)**. 명명된 부당행위 패턴: **[제10장 §5.10](../../core_10_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)**.
+   - **포럼 편향 분쟁:** 싸움이 주로 물러났어야 할 합의체 구성원, 편향된 합의체 참여, 또는 견줄 포럼 완전성 침해 — **[제 XXII-B조](core_06_rights_part_c.md#article-xxii-b-composition-rotation-and-conflict-controls) (*구성, 교체, 이해충돌 통제*)** 아래 **헌법** 포럼 합의체에서의 것을 포함 — 에 관한 것이면, 먼저 **완전성** 포럼으로 라우팅하십시오. **3절** 아래 포럼은 자기 편향의 유일한 최종 판단자일 수 없습니다: **헌법** 포럼은 자기 합의체 구성원이 기피했어야 했는지를 정하는 유일한 최종 포럼일 수 없습니다. 궤적 잠금 규율: **[제9장 §5.5](core_09_standing_integration.md#55-special-locks)**. 명명된 부당행위 패턴: **[제10장 §5.10](../../core_11_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)**.
    - **기술 방법 질문:** 명세, 방법, 측정, 시험, 전문가 증거 질문은 그것이 일차 이해관계이거나 인증된 구성 요소 질문일 때 **기술 포럼 영역**으로 갑니다.
    - **체계 정합 서명:**
      - 새 실질 영향 체계의 공식 **헌법 정합 인정**, 기존 것에 대한 **계속 정합 확인**은 주관으로 **완전성**에 기본합니다.
@@ -618,7 +618,7 @@ flowchart TD
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [§2](#2-default-venue-and-primary-stakes)와 [§3](#3-transfer-consolidation-and-coordination) (*기본 장소, 접수, 이전, 혼합 이해관계, 자기 심판 금지 예비*); [§4.6](#46-constitutional-forums)과 [§4.7](#47-provisional-implementation-operational-law) (*잠정법 처분과 발급*); [제8장 §7 통합 척도](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) (*숫자 영향 슬롯 할당*); [제10장](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*자격을 갖춘 슬롯 7–9에 대한 짝 반헌법 부당행위 지정*); [제1장](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*인증된 헌법 질문의 안전과 진실 고리*).
-- 하류: [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*실질성 층과 지연 금지 규율*); [§7](#7-forum-support-before-during-and-after-review) (*격상과 인증을 위한 다툴 수 있는 포럼 받침*); [제16장](../../core_16_incorporation.md) (***제 V-E조** (*감지 지위 재결 바닥*) 시행 설계를 위한 시행 라우팅*).
+- 하류: [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*실질성 층과 지연 금지 규율*); [§7](#7-forum-support-before-during-and-after-review) (*격상과 인증을 위한 다툴 수 있는 포럼 받침*); [제16장](../../core_17_incorporation.md) (***제 V-E조** (*감지 지위 재결 바닥*) 시행 설계를 위한 시행 라우팅*).
 - §5 안: [잠정 보호](#interim-protection) (*본안 대기 현상 유지와 여러 포럼 잠정 명령 충돌 조정*).
 - 함께 읽기: [제 V-E조: 감지 지위 재결 바닥](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor); [제5장 — 감지 지위 재결](core_05_band_participation.md#sentience-status-adjudication-constitutional); [제 XXIII-A조](core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*정의 목적과 범위*)부터 [제 XXIII-C조](core_06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) (*제10장 지정과 함께 참조되는 검토 안전장치*); [제 XII-B조](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*인증 — 정합 재결과 일반 교의*).
 
@@ -793,7 +793,7 @@ flowchart TD
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [제 XXIV-C조](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*제때, 효율, 정의로운 바닥*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [제 XII-B조](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*다툼과 시정 접근*); [제 XXIII-D조](core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*계속 규율*); [§5](#5-escalation-and-certification) (*격상과 인증 시계가 맞물림*).
-- 하류: [§7](#7-forum-support-before-during-and-after-review) (*점검, 포렌식, 추적 받침*); [§5](#interim-protection) (*잠정 보호*); [corpus_forum.md](../../corpus_forum.md) (**CF-11.3.1** (*목표 창과 시기 바닥*)); [corpus_institutions.md](../../corpus_institutions.md) (**CI-8** (*닿을 수 있는 경로*)); [제8–11장 적용 비네트](../../core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes); [제 XXIII-D조](core_06_rights_part_d.md#xxiii-d-restore-challenge-clocks) (*기본 회복-다툼 창과 같은 바깥 한도*).
+- 하류: [§7](#7-forum-support-before-during-and-after-review) (*점검, 포렌식, 추적 받침*); [§5](#interim-protection) (*잠정 보호*); [corpus_forum.md](../../corpus_forum.md) (**CF-11.3.1** (*목표 창과 시기 바닥*)); [corpus_institutions.md](../../corpus_institutions.md) (**CI-8** (*닿을 수 있는 경로*)); [제8–11장 적용 비네트](../../core_09-12_application_vignettes.md#chapters-eight-eleven-application-vignettes); [제 XXIII-D조](core_06_rights_part_d.md#xxiii-d-restore-challenge-clocks) (*기본 회복-다툼 창과 같은 바깥 한도*).
 - 사원(四元) 다리: **적시성** (가로지르는 집행); **참여**와 **감독** (닿을 수 있는 접수와 공표된 이정표). 일차 목적: **번영**과 **연속**.
 - 함께 읽기: 적시성 측정 가족 (*제때 해결과 지연 금지 및 해결 경로 규율*); [실질성 인정](core_05_band_oversight.md#materiality-determination); [제때 해결](core_05_band_accountability.md#timely-resolution-constitutional); [해결 경로의 포획](core_05_band_accountability.md#capture-of-resolution-pathways); [헌법 효율](core_05_band_continuity.md#constitutional-efficiency).
 - 책임 있는 관리 문(비운영): 구속력 있는 다음 걸음 진술: [운영 책임 있는 관리 진술 (제 XXIV-C조)](core_06_rights_part_d.md#operative-steward-statement-delay). 지원 포인터는 그것을 좁힐 수 없습니다.
@@ -924,9 +924,9 @@ flowchart TD
 
 ---
 
-**이전 파일(아직 영어):** [core_10_b_misconduct_pattern_applications.md](../../core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)
+**이전 파일(아직 영어):** [core_10_b_misconduct_pattern_applications.md](../../core_11_b_misconduct_pattern_applications.md#chapter-eleven-part-b-anti-constitutional-misconduct-pattern-applications)
 
-**다음 파일(아직 영어):** [core_08-11_application_vignettes.md](../../core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes)
+**다음 파일(아직 영어):** [core_08-11_application_vignettes.md](../../core_09-12_application_vignettes.md#chapters-eight-eleven-application-vignettes)
 
-**구속력 있는 원문:** [core_11_forum.md](../../core_11_forum.md)
+**구속력 있는 원문:** [core_11_forum.md](../../core_12_forum.md)
 

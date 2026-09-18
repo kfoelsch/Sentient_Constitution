@@ -5,7 +5,7 @@
 
 > 다음 내용은 **독자 안내일 뿐입니다**. 구속력 있는 의무를 더하거나, 빼거나, 좁히지 않습니다.
 >
-> 이 폴더는 **독자 언어 시험본**입니다. **감지자 헌법이 아닙니다**. 번호가 매겨진 `core_*` 파일을 바꿀 수 **없습니다**. **배포판이 아닙니다**. 읽는 것은 [이 헌법을 채택하는 것](../../core_15_amendment_ratification.md#10-ratification-and-adoption)이 **아닙니다**. 번역과 영어 원문이 어긋나 보이면, 이후 판이 달리 말할 때까지 영어 번호 `core_*`가 이깁니다. [Reader-language editions](../../doc_architecture.md#reader-language-editions)를 보십시오.
+> 이 폴더는 **독자 언어 시험본**입니다. **감지자 헌법이 아닙니다**. 번호가 매겨진 `core_*` 파일을 바꿀 수 **없습니다**. **배포판이 아닙니다**. 읽는 것은 [이 헌법을 채택하는 것](../../core_16_amendment_ratification.md#10-ratification-and-adoption)이 **아닙니다**. 번역과 영어 원문이 어긋나 보이면, 이후 판이 달리 말할 때까지 영어 번호 `core_*`가 이깁니다. [Reader-language editions](../../doc_architecture.md#reader-language-editions)를 보십시오.
 >
 > **코퍼스 판에 고정:** `SC-Corpus-2026.08.09`(2026-08-09부터 효력; [README.md](../../README.md)). **사전 공개.**
 
@@ -37,13 +37,13 @@
 | [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md) | [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md) |
 | [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md) | [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md) |
 | [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md) | [core_05_apex_timeliness_leg.md](../../core_05_apex_timeliness_leg.md) |
-| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_07_system_alignment_certification.md) |
-| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md) |
-| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md) |
-| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_08_standing_assessment.md) |
-| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_09_standing_integration.md) |
-| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md) |
-| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_11_forum.md) |
+| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_08_system_alignment_certification.md) |
+| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md) |
+| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_09_standing_assessment.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_10_standing_integration.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md) |
+| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_12_forum.md) |
 
 시험본의 링크는 아직 번역이 없는 영어 파일을 가리킨다. HTML 앵커(`id`)는 원문에서 복사해 단락마다 대조할 수 있게 한다.
 

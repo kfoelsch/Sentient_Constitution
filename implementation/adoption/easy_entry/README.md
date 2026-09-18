@@ -5,11 +5,11 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This page is a **reader handbook**. These briefs are **not** the Constitution itself and **cannot change** numbered `core_*` files. They do not add duties, new legal types, or a second morals stack that sorts readers into types. Reading a brief is not [adopting this Constitution](../../../core_15_amendment_ratification.md#10-ratification-and-adoption), not bringing it into a body's own rules ([Chapter Sixteen §4](../../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority)), and not an official record of verified help or harm.
+> This page is a **reader handbook**. These briefs are **not** the Constitution itself and **cannot change** numbered `core_*` files. They do not add duties, new legal types, or a second morals stack that sorts readers into types. Reading a brief is not [adopting this Constitution](../../../core_16_amendment_ratification.md#10-ratification-and-adoption), not bringing it into a body's own rules ([Chapter Seventeen §4](../../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)), and not an official record of verified help or harm.
 >
 > **Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09; [README.md](../../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
 >
-> **Pre-release.** Does **not** override local, national, or international law ([Chapter Fourteen §5](../../../core_14_expansion_supremacy.md#5-relation-to-applicable-external-law)). Core text controls: if a brief and a numbered `core_*` file disagree, the `core_*` file wins.
+> **Pre-release.** Does **not** override local, national, or international law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)). Core text controls: if a brief and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > Public door: [`../../../START_HERE.md`](../../../START_HERE.md). Fit map: [`../FIT_SITUATIONS.md`](../FIT_SITUATIONS.md). Lived-situation sitting (separate; sitters do not use these briefs as an answer key): [`../../../evaluation/lived_situations/`](../../../evaluation/lived_situations/).
 
@@ -18,7 +18,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Preamble §1](../../../core_00_preamble.md#constitutional-tetrad) (*Constitutional Tetrad*; [material stake](../../../core_00_preamble.md#material-stake)); [Chapter Sixteen §4](../../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority) (*model constitution; who may adopt*); [Chapter Fourteen §5](../../../core_14_expansion_supremacy.md#5-relation-to-applicable-external-law) (*non-displacement of applicable external law*).
+- Upstream: [Preamble §1](../../../core_00_preamble.md#constitutional-tetrad) (*Constitutional Tetrad*; [material stake](../../../core_00_preamble.md#material-stake)); [Chapter Seventeen §4](../../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) (*model constitution; who may adopt*); [Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law) (*non-displacement of applicable external law*).
 - Downstream: [Purpose and role](#purpose-and-role); [What this is not](#what-this-is-not); [Roster](#roster); [These situations are not a niche](#how-common); [Do not use in these briefs](#do-not-use-in-these-briefs).
 - Read with: [`../../../START_HERE.md`](../../../START_HERE.md); [`../ANNOUNCEMENT.md`](../ANNOUNCEMENT.md); [`../FIT_SITUATIONS.md`](../FIT_SITUATIONS.md); [`../../../evaluation/lived_situations/README.md`](../../../evaluation/lived_situations/README.md) (*scene source; separate sitting*).
 
@@ -43,9 +43,9 @@ The roster names **pages for situations**. It does not create legal types, trust
 These briefs are **not**:
 
 - The Constitution itself, or text written into a body's own rules
-- [Adopting this Constitution](../../../core_15_amendment_ratification.md#10-ratification-and-adoption) or [bringing it into a body's own rules](../../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority)
+- [Adopting this Constitution](../../../core_16_amendment_ratification.md#10-ratification-and-adoption) or [bringing it into a body's own rules](../../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)
 - A claim that this Constitution overrides applicable law, or that a hospital, platform, lab, or host product has adopted it
-- An official record of verified help or harm, a Chapter Seven check, or a finding that anyone was supported or denied in the world
+- An official record of verified help or harm, a Chapter Eight check, or a finding that anyone was supported or denied in the world
 - A second morals stack that sorts readers into types
 - The lived-situation sitting, the announced evaluation pack, or an answer key for either
 

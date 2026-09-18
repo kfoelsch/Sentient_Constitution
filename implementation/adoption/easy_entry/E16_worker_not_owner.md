@@ -9,7 +9,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.08.09`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_15_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Fourteen §5](../../../core_14_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_16_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -53,7 +53,7 @@ See: [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-bodily-main
 - **Today:** Asking why the portal failed, or why the cut happened, is logged as attitude. The next roster disappears.
 - **With this Constitution:** Retaliation against good-faith reports is in the challenge floor. A workplace note is not, by itself, an official record of verified help or harm.
 
-See: [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); [Chapter Eight §2.1](../../../core_08_standing_assessment.md#21-silence-is-the-default).
+See: [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); [Chapter Nine §2.1](../../../core_09_standing_assessment.md#21-silence-is-the-default).
 
 **Human and machine workers do not get two stacks.**
 - **Today:** The model is constrained; the human crew is told to skip the rule and “take responsibility.” Or the reverse: extra duties only the machine has to follow.
@@ -69,7 +69,7 @@ See: [Chapter One §9.1.1](../../../core_01_c_stewardship_capacity_principles.md
 
 - **“I want the shop.”** Owning the shop is not what this page is for. Starting a lawful shop is a different brief ([E08](E08_small_business_owner.md)). This page will not transfer title.
 
-- **“This isn’t labor law where I clock in.”** Correct. It does not override applicable employment or safety law ([Chapter Fourteen §5](../../../core_14_expansion_supremacy.md#5-relation-to-applicable-external-law)).
+- **“This isn’t labor law where I clock in.”** Correct. It does not override applicable employment or safety law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
 - **“I am not a ‘worker type.’”** You do not have to take that label to use this page. This brief is for someone who does the work while someone else holds the shop, the app, or the line. It does not change the Rights Floor that applies to you. When pay, rest, safety, organizing, or a schedule that blocks a clinic is actually at stake, those rules are located in the section on [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor).
 

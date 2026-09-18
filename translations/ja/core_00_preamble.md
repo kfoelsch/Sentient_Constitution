@@ -93,11 +93,11 @@
 
 *平たい言葉で言えば：本文が求めるとき、実質的な問題は認証、助けと危害の書面記録、是正と救済、時計付きのフォーラム審査を通る — 通常の紛争はまず公表された異議経路を用いる。それらの経路は授権された統治を試験する。それ自体が統治をつくりはしない。*
 
-第六章、[第七章](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)、編入された文書、または他の憲法規定が明示的に求めるところでは、実質的な憲法上の問題を、下記の経路の一つ以上に入れる。[主要な実務プロセスパイプライン](#5-key-practical-process-pipelines)は、測定を記録、認証、検証済み入力、分類、フォーラム監督、是正、適時の救済に翻訳する — 授権された統治が実務でどう試験され、争われ、修復されるかである。それ自体が統治を授権しない。統治を審査可能、争訟可能、是正可能、適時にする。[第 5.1 節](#51-how-the-full-chain-fits-together)がそのパイプラインを完全に述べる。
+第六章、[第七章](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)、編入された文書、または他の憲法規定が明示的に求めるところでは、実質的な憲法上の問題を、下記の経路の一つ以上に入れる。[主要な実務プロセスパイプライン](#5-key-practical-process-pipelines)は、測定を記録、認証、検証済み入力、分類、フォーラム監督、是正、適時の救済に翻訳する — 授権された統治が実務でどう試験され、争われ、修復されるかである。それ自体が統治を授権しない。統治を審査可能、争訟可能、是正可能、適時にする。[第 5.1 節](#51-how-the-full-chain-fits-together)がそのパイプラインを完全に述べる。
 
-- **システム整合認証**（[第七章](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)） — 高影響システムが大規模に信頼される前に、いまそれに依拠することが憲法上安全かどうかを、証拠を集め、審査する
-- **軌跡記録**（[第八章](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)） — 行為または危害が憲法上意味を持つとき、検証済みの事実を正式な貢献または違反の事件ファイルに入れる。噂と評判では足りない
-- **是正と救済**（[第九章 §4.1](../../core_09_standing_integration.md#41-remedy-and-correction)） — 根底の失敗を直し、危害を受けた者に、比例的な承認、修復、回復、または補償を提供する
+- **システム整合認証**（[第七章](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)） — 高影響システムが大規模に信頼される前に、いまそれに依拠することが憲法上安全かどうかを、証拠を集め、審査する
+- **軌跡記録**（[第八章](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)） — 行為または危害が憲法上意味を持つとき、検証済みの事実を正式な貢献または違反の事件ファイルに入れる。噂と評判では足りない
+- **是正と救済**（[第九章 §4.1](../../core_10_standing_integration.md#41-remedy-and-correction)） — 根底の失敗を直し、危害を受けた者に、比例的な承認、修復、回復、または補償を提供する
 - **フォーラム審査**（[第十一章](core_11_forum.md#1-purpose-and-role)）
   - すでに授権されたシステムの内部の通常の紛争は、まず公表された[影響を受ける側のシステム参加](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster)の異議経路を用いる
   - その経路がなお争われている、欠けている、捕捉されている、または救済を与えられない場合、第一次利害に従って監督されたフォーラムへ経路づける
@@ -148,7 +148,7 @@
 **第四章 — 負担、追跡可能性、検証**（[`core_02_definition_structure.md`](core_02_definition_structure.md)）
 
 - **その職掌：** 証明の負担を、遵守を主張する側に置く。たどれる証拠、観察可能性、および[**実質的利害**](#material-stake)に応じて尺度が合い、実務で争訟可能なままの検証を求める。
-- **その産出：** [第八章](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)へ**検証済み入力**を送り、[第七章](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)へシステム整合の証拠を送る検証パイプライン — 軌跡測定そのものを置き換えない。
+- **その産出：** [第八章](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)へ**検証済み入力**を送り、[第七章](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)へシステム整合の証拠を送る検証パイプライン — 軌跡測定そのものを置き換えない。
 
 **第五章 — 基礎定義**（[`core_05__definitions_home.md`](core_05__definitions_home.md#chapter-five-foundational-definitions)）
 
@@ -169,7 +169,7 @@
 
 下記の各段階は、その章が何を所管し、何を産出するかを述べる。[鎖全体がどう噛み合うか](#51-how-the-full-chain-fits-together)は、それらの所管を、システムの点検から救済までの一本の道として示す。
 
-**システム整合認証**（[第七章](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)）
+**システム整合認証**（[第七章](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)）
 
 - **その職掌：** 実質的影響を持つシステムが憲法上整合したままであることを確保する。
   - 感知者に実質的に影響するシステムが、大規模に認められ、または依拠される前に、フォーラム監督のもとで証拠が集められ、審査される
@@ -178,20 +178,20 @@
   - 高リスクシステムは定期日程で再認証されなければならない。認証は決して永続しない
 - **その産出：** **システム整合認証記録** — そのシステムが*いま*、述べられた範囲と時間窓の内側で、認める、依拠し続ける、配備する、または条件から解放するのに十分整合しているかという、有界で争訟可能な答え。
 
-**軌跡測定**（[第八章](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)）
+**軌跡測定**（[第八章](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)）
 
 - **その職掌：** 行為が憲法上意味を持つとき、噂と評判では足りない。検証済みの事実が**軌跡記録**に入る。**貢献**（繁栄へ向かう助け）と**違反**（説明責任の失敗と危害）は**別の軸**で測られる — 検証済みの良い行為は検証済みの危害を消さず、二つは決して一つの純得点に折り畳まれない。
 - **その産出：** 貢献軸と違反軸上の分類済み**軌跡記録**。**検証済み入力**とフォーラム監督下の認定のみに基づく — 非公式の採点でも、分類の代わりをする紛争物語でもない。
 
-**軌跡の統合と効果**（[第九章](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)）
+**軌跡の統合と効果**（[第九章](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)）
 
 - **その職掌：** 検証済み分類を、現実世界の**軌跡効果**に、別軌道で統合する — [**実質的利害**](#material-stake)に応じて尺度を合わせ、貢献と違反を一つの純得点に折り畳まず、参加、監督、説明責任、適時性を空洞化しない。
   - **貢献軌道：** 検証済みの肯定分類は、実務上の上側を生む：
-    - [**能力許可**](../../core_09_standing_integration.md#62-competency-bars-and-clearances)は、公表された能力の閾に照らして能力が示され、適用される[軌跡ロック](../../core_09_standing_integration.md#42-general-standing-locks)が指名された経路を塞がないとき、信頼に敏感な役割、委任された権限、監督適格、段階的に結果の伴う責務ある管理を開きうる
+    - [**能力許可**](../../core_10_standing_integration.md#62-competency-bars-and-clearances)は、公表された能力の閾に照らして能力が示され、適用される[軌跡ロック](../../core_10_standing_integration.md#42-general-standing-locks)が指名された経路を塞がないとき、信頼に敏感な役割、委任された権限、監督適格、段階的に結果の伴う責務ある管理を開きうる
     - [第一章](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)が求める、適法な責務ある管理と協力に対する比例的承認と**実質的報酬**
     - 空の称賛ではない。便益は実際であり、証拠に支えられ、異議に開かれていなければならない
   - **違反軌道：** 検証済みの違反認定は、実務上の下側を生む：
-    - **軌跡ロック**、役割の制限、是正命令、[危害を受けた者への救済](../../core_09_standing_integration.md#41-remedy-and-correction)、補充記述子、執行フック
+    - **軌跡ロック**、役割の制限、是正命令、[危害を受けた者への救済](../../core_10_standing_integration.md#41-remedy-and-correction)、補充記述子、執行フック
     - 制限は、検証されたことの重大さに合う
     - 未解決の違反は生きたまま残る
     - 真正な原状回復を示した者には、軌跡を回復する比例的な経路が残る
@@ -219,11 +219,11 @@
 
 *平たい言葉で言えば：システムの点検から救済までの道だと考えよ — フォーラムが紛争と軌跡の段階を通して監督する。*
 
-1. **影響が十分に重大なときにシステムを認証する**（[第七章](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)） — 高影響システムが大規模に信頼される前に、争訟可能な整合記録を得る。*いま*それに依拠することは憲法上安全か。
-2. **別軌道で軌跡を測る**（[第八章](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)） — 良い行為または危害が憲法上意味を持つほど重大なとき、第八章は正式な事件ファイルを開き、**検証済み入力**だけを受け入れ（その証拠が実質的であるときは第七章のシステム整合認証証拠を含む）、検証されたものを分類する。噂、評判、紛争物語では足りない。
+1. **影響が十分に重大なときにシステムを認証する**（[第七章](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)） — 高影響システムが大規模に信頼される前に、争訟可能な整合記録を得る。*いま*それに依拠することは憲法上安全か。
+2. **別軌道で軌跡を測る**（[第八章](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)） — 良い行為または危害が憲法上意味を持つほど重大なとき、第八章は正式な事件ファイルを開き、**検証済み入力**だけを受け入れ（その証拠が実質的であるときは第七章のシステム整合認証証拠を含む）、検証されたものを分類する。噂、評判、紛争物語では足りない。
    - **貢献の性質：** **貢献軌跡記録**を開く — 繁栄へ向かう検証済みの助けについての、有界で異議可能な事件ファイル — 貢献軸上で**貢献の性質**を分類する。
    - **違反の性質：** **違反軌跡記録**を開く — 検証済みの危害と説明責任の失敗についての、有界で異議可能な事件ファイル — 違反軸上で**違反の性質**を分類する。善と危害は決して一つの純得点に折り畳まれない。結びついた記録は相互参照するが、分かれたままである。
-3. **各軌道に軌跡効果を適用する**（[第九章](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)） — 検証済み貢献は能力許可を与え、比例的承認と実質的報酬を支えうる。検証済み違反は軌跡ロック、是正、[危害を受けた者への救済](../../core_09_standing_integration.md#41-remedy-and-correction)を引き起こしうる。
+3. **各軌道に軌跡効果を適用する**（[第九章](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)） — 検証済み貢献は能力許可を与え、比例的承認と実質的報酬を支えうる。検証済み違反は軌跡ロック、是正、[危害を受けた者への救済](../../core_10_standing_integration.md#41-remedy-and-correction)を引き起こしうる。
 4. **反憲法的指定の審査**（[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)） — 最高影響の違反認定が反憲法的基準も満たしうる場合、第十章は対応する指定が付着するかを決める。指定は、第八章がすでに認定した危害の重大さを変えない。第九章の通常効果は並行して続き、最終指定が反憲法的信頼ロックを引き起こすまで続く。
 5. **紛争を経路づけ、救済を適時に保つ**（[第十一章](core_11_forum.md#1-purpose-and-role)） — フォーラムは、事件がどう動くか、どの軌道が扱うか、**第 XXIV-C 条**（《適時解決と遅延防止の床》）のもとでの時計が満たされ、救済が遅れで死なないかを監督する。通常の紛争は[紛争の順序付け](core_11_forum.md#dispute-sequencing)に従う。フォーラムはまた、紛争を五つの[実質性階層](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（A/B/C/L/P）に分類する。システム分類の字母を鏡にする — 生存危機の緊急から私的/封じ込められた事項まで — 第十章の最終指定が第一次利害であるときは、誠実性ファミリーの既定経路づけが適用される。
 
@@ -238,27 +238,27 @@
 
 各要約は、その章が何を所管し、何を産出するかを述べる。
 
-**第十二章 — 憲法契約、正当性、責務ある管理**（[`core_12_governance.md`](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)）
+**第十二章 — 憲法契約、正当性、責務ある管理**（[`core_12_governance.md`](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)）
 
 - **その職掌：** [**憲法契約層**](../../core_05_band_integrative.md#constitutional-contract-layer)を所管する — 誰が統治してよいか、どの正当性の仕組みにより、どの範囲と持続する条件のもとでか、どのような責務ある管理の品格が維持されなければならないか。
 - **その産出：** すでに授権されたシステムにおける[**影響を受ける側のシステム参加**](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster)とは区別される、授権と正当性の要件 — 統治権限そのものの規則であり、その内部の参加だけではない。
 
-**第十三章 — 不後退**（[`core_13_non_regression.md`](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)）
+**第十三章 — 不後退**（[`core_13_non_regression.md`](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)）
 
 - **その職掌：** 後退的変更に対する実質の床を定める — 改正と抜け道は、中核保護を巻き戻し、四元を実質的利害より下まで空洞化し、後退を技術的な掃除として偽装することはできない。
 - **その産出：** 提案されたあらゆる変更に対する**第一の憲法上のガードレール** — 不後退規則。変更が実務で中核保護を弱めるなら、手続が見かけ上問題なくても無効である。疑わしい抜け道や偽装された巻き戻しは、静かに通り抜ける代わりに、止められるか、適切な審査経路へ送られる。
 
-**第十四章 — 最高性と外部命令**（[`core_13_non_regression.md`](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)）
+**第十四章 — 最高性と外部命令**（[`core_13_non_regression.md`](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)）
 
 - **その職掌：** この憲法が他の規範とどう関係するかを述べる — 適法なところでの保護の拡張、その範囲内での最高性、適用される外部法を自らの力で置き換えないこと、沈黙の従属や捕捉なしに外部の法秩序と規律ある相互作用をすること。
 - **その産出：** 階層と衝突順の規則。公表や使用が適用される外部法の廃止として扱われないようにし、採択者が、編入手続、より弱い外部規範、都合のよい指標を、有効な採択範囲内で感知者憲法の意味を上書きするものとして扱えないようにする。
 
-**第十五章 — 改正、批准、採択**（[`core_13_non_regression.md`](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity)）
+**第十五章 — 改正、批准、採択**（[`core_13_non_regression.md`](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity)）
 
 - **その職掌：** 文書が適法にどう変わりうるかを統治する — 改正手続、批准、採択、第十三章の実質ガードレールに続く**手続ガードレール**。変更は公開され、権威ある保管へたどれ、求められるところでは意味ある争訟可能性と独立審査を保たなければならない。
 - **その産出：** 完全な適法変更経路 — **不後退ガードレール**と**手続ガードレール**を越えた改正と採択だけが、有効な憲法更新として数える。
 
-**第十六章 — 編入の橋**（[`core_16_incorporation.md`](../../core_16_incorporation.md)）
+**第十六章 — 編入の橋**（[`core_16_incorporation.md`](../../core_17_incorporation.md)）
 
 - **その職掌：** どの実施ファイルが採択時に拘束力ある編入本文として数えるかを特定する。版を固定する。保管鎖を維持する。憲法源と運用細部のあいだの沈黙の不整合を禁じる。
 - **その産出：** 一つの編入境界 — 指定された実施本文は採択時に拘束する。付属コーパスは憲法を実施し、それを狭める第二の源にはならない。[第 7 節](#7-companion-implementation-corpus)はそれらのコーパスを高次で要約する。
@@ -275,7 +275,7 @@
 - **[corpus_institutions](../../corpus_institutions.md)** — 制度の形成、統治、監督、比例性、解散の規律。
 - **[corpus_forum](../../corpus_forum.md)** — フォーラム運用：パネル形成、回避、審査レーン、経路づけの細部、鑑識支援。
 
-採択者が[第十六章](../../core_16_incorporation.md)のもとでそれらを有効に編入するとき、これらのファイルは採択範囲内で実施本文として拘束する。感知者憲法の意味がなお制御する — それらは上の各章を**実施し、狭めない**。版の固定、保管鎖、沈黙の不整合を禁じる規則は、採択本文を実際に批准されたものへたどれるように保つ。典範の一覧と境界規則は[第五章 — コーパス](../../core_05_band_integrative.md#corpus)にある。
+採択者が[第十六章](../../core_17_incorporation.md)のもとでそれらを有効に編入するとき、これらのファイルは採択範囲内で実施本文として拘束する。感知者憲法の意味がなお制御する — それらは上の各章を**実施し、狭めない**。版の固定、保管鎖、沈黙の不整合を禁じる規則は、採択本文を実際に批准されたものへたどれるように保つ。典範の一覧と境界規則は[第五章 — コーパス](../../core_05_band_integrative.md#corpus)にある。
 
 原則、定義、権利、プロセスパイプライン、統治、改正規則、編入された実施は、憲法の保護目的を保つために、ともに読まれなければならない。
 

@@ -96,7 +96,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - پایین‌دست: خانوادهٔ اندازه‌گیری شکوفایی — تجمیع فقط‌پیوند؛ سطح‌های هر اصطلاح در تعریف‌های برگ پیوندخورده در جدول زیر زندگی می‌کنند.
-- خوانده شود با: [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) جایی که اثرهای کل‌نظام، تحویل کف بقا، یا **شرایط ایمن** از نظر مادی در گستره باشند.
+- خوانده شود با: [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) جایی که اثرهای کل‌نظام، تحویل کف بقا، یا **شرایط ایمن** از نظر مادی در گستره باشند.
 
 </details>
 

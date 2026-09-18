@@ -96,7 +96,7 @@ Definisi daun di bawah tujuan ini mewarisi cakupannya kecuali mereka secara tega
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hilir: keluarga pengukuran Berkembang — rollup hanya-tautan; tingkatan per istilah hidup pada definisi daun yang tertaut dalam tabel di bawah.
-- Baca bersama: [Bab Tujuh §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) di mana efek seluruh-sistem, penyerahan lantai kelangsungan hidup, atau **Kondisi aman** berada dalam cakupan secara material.
+- Baca bersama: [Bab Tujuh §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) di mana efek seluruh-sistem, penyerahan lantai kelangsungan hidup, atau **Kondisi aman** berada dalam cakupan secara material.
 
 </details>
 

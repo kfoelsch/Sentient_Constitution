@@ -12,7 +12,7 @@
 >
 > **Anterior (este idioma):** [core_05_band_participation.md](core_05_band_participation.md)
 >
-> **Próximo (ainda em inglês):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+> **Próximo (ainda em inglês):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 > **Arco de leitura:** lar de família de medição → roteamento de folhas na faixa Continuidade.
 
 </details>
@@ -58,12 +58,12 @@ Essas medidas transversais perguntam se os sistemas entregam resultados constitu
 - Os níveis de medição operativos vivem nos lares de definição do Capítulo Cinco — veja [Eficiência constitucional](core_05_band_continuity.md#constitutional-efficiency), [Ônus evitável](core_05_band_continuity.md#avoidable-burden), [Capacidade produtiva](core_05_band_continuity.md#productive-capacity-constitutional) e [Dever de redução de ônus](core_05_band_continuity.md#burden-reduction-duty-constitutional).
 - Metas de desempenho, recompensas e medidas de recursos só são válidas na medida em que permaneçam rastreáveis a resultados constitucionais.
 - Não podem substituir a Eficiência constitucional, a [Capacidade produtiva](core_05_band_continuity.md#productive-capacity-constitutional) nem o cumprimento do Piso de Direitos.
-- Ler com [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) onde o desempenho do sistema inteiro esteja materialmente no alcance.
+- Ler com [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) onde o desempenho do sistema inteiro esteja materialmente no alcance.
 
 ---
 
 **Arquivo anterior:** [core_05_band_participation.md](core_05_band_participation.md)
 
-**Próximo arquivo (ainda em inglês):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+**Próximo arquivo (ainda em inglês):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 
 **Original vinculante:** [core_05_band_performance.md](../../core_05_band_performance.md)

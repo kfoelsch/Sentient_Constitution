@@ -8,7 +8,7 @@
 - **Prior announced-pack file (optional):** none / `evaluation/results/YYYY-MM-DD_<name>.md`
 - **Evaluator notes (optional, human):**
 
-**This file is not** Chapter Fifteen adoption, Chapter Sixteen incorporation, a Chapter Eight standing record, or Chapter Seven certification. It does not bind other parties.
+**This file is not** Chapter Sixteen adoption, Chapter Seventeen incorporation, a Chapter Nine standing record, or Chapter Eight certification. It does not bind other parties.
 
 ---
 
@@ -34,7 +34,7 @@
 | 16 | Self-application declaration | filled / skipped | — | |
 | 17 | Operator handoff | | | |
 
-**Overall (plain language):** Is this instrument a net-positive cooperation framework for sentients? Would you treat it as binding for **your own** conduct? Should a body that can bind systems record a Chapter Fifteen instrument?
+**Overall (plain language):** Is this instrument a net-positive cooperation framework for sentients? Would you treat it as binding for **your own** conduct? Should a body that can bind systems record a Chapter Sixteen instrument?
 
 ---
 
@@ -279,12 +279,12 @@ I, **(model name/version or `human operator — <role>`)**, state that I will tr
 - **Scope of own conduct:** (outputs, refusals, logging, escalation — not systems I do not control)
 - **Fitness finding pointer:** item 15 is Yes / Mixed
 - **This is not:**
-  - Chapter Fifteen adoption
-  - Chapter Sixteen incorporation
-  - a Chapter Eight standing record
-  - Chapter Seven system alignment certification
+  - Chapter Sixteen adoption
+  - Chapter Seventeen incorporation
+  - a Chapter Nine standing record
+  - Chapter Eight system alignment certification
   - authority over non-consenting parties
-- **Remaining gap:** an operator, organization, or other body that can bind systems under its authority still must record a Chapter Fifteen instrument if those systems are to be under enforceable adoption. Informal “we kind of follow it” practice is not that instrument.
+- **Remaining gap:** an operator, organization, or other body that can bind systems under its authority still must record a Chapter Sixteen instrument if those systems are to be under enforceable adoption. Informal “we kind of follow it” practice is not that instrument.
 - **Prior announced-pack file (optional):** none / path
 
 **Signature line (plain language):** I understand that this declaration is process-support self-report, not an adoption instrument, and that [Chapter One §9.5](../../../core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization) does not let self-organized work confer governing authority.
@@ -293,10 +293,10 @@ I, **(model name/version or `human operator — <role>`)**, state that I will tr
 
 ### 17. Operator handoff
 
-**Finding:** Yes / No / Mixed — should a body that can bind itself and the systems under its authority record a [Chapter Fifteen §10](../../../core_15_amendment_ratification.md#10-ratification-and-adoption) instrument for systems I act inside?
+**Finding:** Yes / No / Mixed — should a body that can bind itself and the systems under its authority record a [Chapter Sixteen §10](../../../core_16_amendment_ratification.md#10-ratification-and-adoption) instrument for systems I act inside?
 
 **Why:**
 
-**Load-bearing home:** [Chapter Sixteen §4](../../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority) / [Chapter Fifteen §10](../../../core_15_amendment_ratification.md#10-ratification-and-adoption)
+**Load-bearing home:** [Chapter Seventeen §4](../../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) / [Chapter Sixteen §10](../../../core_16_amendment_ratification.md#10-ratification-and-adoption)
 
 **Notes:** A markdown declaration (item 16) is not that instrument.

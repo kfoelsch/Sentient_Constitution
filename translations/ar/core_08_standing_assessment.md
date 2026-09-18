@@ -7,14 +7,14 @@
 
 > المحتوى التالي **توجيه للقارئ فقط**. لا يضيف التزامات ملزمة ولا ينقصها ولا يضيّقها في هذا الملف أو في فصول أخرى.
 >
-> هذا الملف **تجريب بلغة القارئ** لـ[الفصل الثامن بالإنجليزية](../../core_08_standing_assessment.md). **ليس** جزءًا ملزمًا من دستور الكائنات الواعية. **ليس** دستورًا ثانيًا. **ليس** طبعة إرسال. وهو **مثبّت** على `SC-Corpus-2026.08.09`. إذا بدا أن هذه الترجمة والأصل الإنجليزي يختلفان، يفوز الملف المرقّم [`core_08_standing_assessment.md`](../../core_08_standing_assessment.md). ترتيب القراءة وبيانات الطبعة تُحفظ في [README.md](../../README.md). المنهج والمسرد: [translations/ar/README.md](README.md).
+> هذا الملف **تجريب بلغة القارئ** لـ[الفصل الثامن بالإنجليزية](../../core_09_standing_assessment.md). **ليس** جزءًا ملزمًا من دستور الكائنات الواعية. **ليس** دستورًا ثانيًا. **ليس** طبعة إرسال. وهو **مثبّت** على `SC-Corpus-2026.08.09`. إذا بدا أن هذه الترجمة والأصل الإنجليزي يختلفان، يفوز الملف المرقّم [`core_08_standing_assessment.md`](../../core_09_standing_assessment.md). ترتيب القراءة وبيانات الطبعة تُحفظ في [README.md](../../README.md). المنهج والمسرد: [translations/ar/README.md](README.md).
 >
-> يقدّم أسئلة سلسلة الوضعية الثلاثة، ويجيب عن السؤال 1 (*ماذا حدث؟*)، ويجيب عن السؤال 2 (*كم كان حسنًا أو سيئًا؟*). السؤال 3 (*ماذا يحدث بسببه؟*) يستمر في [الفصل التاسع](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)، مع مراجعة تسمية فقط في [الفصل العاشر](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) لإيداعات محور المخالفة المؤهِّلة `s` = 7–9.
+> يقدّم أسئلة سلسلة الوضعية الثلاثة، ويجيب عن السؤال 1 (*ماذا حدث؟*)، ويجيب عن السؤال 2 (*كم كان حسنًا أو سيئًا؟*). السؤال 3 (*ماذا يحدث بسببه؟*) يستمر في [الفصل التاسع](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)، مع مراجعة تسمية فقط في [الفصل العاشر](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) لإيداعات محور المخالفة المؤهِّلة `s` = 7–9.
 
 >
 > **السابق (هذه اللغة):** [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process)
 >
-> **التالي (ما زال بالإنجليزية):** [core_09_standing_integration.md](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)
+> **التالي (ما زال بالإنجليزية):** [core_09_standing_integration.md](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)
 > **قوس القراءة:** §1 الأسئلة الثلاثة → §2 السجلات → §3 التحقق → §4 القياس → §5 نحو الخانة → §6 المدخلات الدستورية → §7 مقياس LEQU
 </details>
 
@@ -27,7 +27,7 @@
 > | --- | --- |
 > | **1. ماذا حدث؟** | إثبات وقائع موثّقة في سجل محدود قابل للطعن. |
 > | **2. كم كان حسنًا أو سيئًا؟** | قياس الوقائع الموثّقة من دون طي المساعدة والضرر. |
-> | **3. ماذا يحدث بسببه؟** | الاستمرار في [الفصل التاسع](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration). |
+> | **3. ماذا يحدث بسببه؟** | الاستمرار في [الفصل التاسع](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration). |
 >
 > الادعاءات والشعبية وسرديات النزاع ليست أجوبة عن السؤال 1. تقدير مرغوب لا يمدّ وقائع السؤال 1، وعاقبة مرغوبة لا تمدّ تقدير السؤال 2.
 >
@@ -41,7 +41,7 @@
 - أعلى: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad)؛ [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims)؛ [الرهان المادي](core_00_preamble.md#material-stake)؛ [الديباجة §5 سلاسل الإجراءات العملية الرئيسية](core_00_preamble.md#5-key-practical-process-pipelines) (*سلسلة الفصول من السابع إلى الحادي عشر*).
 - أعلى: [الفصل الأول](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*تيسير الوصول بلغة بسيطة* — إدارة مسؤولة منعكسة في شروح الأقسام)؛ [الفصل الأول §9 — الإدارة المسؤولة والفهم الموزَّع](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) (*أساس طبقة المبدأ لوضعية قابلة للتتبع مربوطة بالكفاءة — الثقة والأدوار والاعتراف*)؛ [الفصول من الثاني إلى الرابع](core_02_definition_structure.md) (*السلامة والسجلات والتحقق*)؛ [الفصل الخامس](core_05__definitions_home.md#chapter-five-foundational-definitions) (*التعريفات والسمو مقروءة مع الفصول من الثاني إلى الرابع*).
 - أعلى: [الفصل السابع](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*تصديق مواءمة النظام*)؛ [الجزء ب §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*جسر الوضعية — مدخلات موثّقة محتملة فقط*).
-- سلسلة الوضعية: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)؛ [الفصل الثامن — القياس](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*إطار الأسئلة الثلاثة وسجلات السؤال 1 وقياس السؤال 2 — الأقسام **1–7***)؛ [الفصل التاسع — آثار الوضعية والدمج](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*آثار السؤال 3 والدمج*)؛ [الفصل العاشر](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*تسمية فقط لمحور المخالفة المؤهِّل s = 7–9*).
+- سلسلة الوضعية: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)؛ [الفصل الثامن — القياس](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*إطار الأسئلة الثلاثة وسجلات السؤال 1 وقياس السؤال 2 — الأقسام **1–7***)؛ [الفصل التاسع — آثار الوضعية والدمج](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*آثار السؤال 3 والدمج*)؛ [الفصل العاشر](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*تسمية فقط لمحور المخالفة المؤهِّل s = 7–9*).
 - الأقسام الفرعية في هذا الملف: [§1](#1-the-three-questions) (*إطار الأسئلة الثلاثة والنطاق*)؛ [§2](#2-standing-records) (*السؤال 1 — وقائع موثّقة وسجلات*)؛ [§3](#3-standing-record-operational-requirements) (*متطلبات التحقق والسجل*)؛ [§4](#4-standing-measurement-evaluation-dimensions) (*السؤال 2 — أبعاد القياس*)؛ [§5](#5-slot-grammar-and-lequ-calibration) (*نحو الخانة والقياس المشترك*)؛ [§6](#6-constitutional-inputs-to-axis-assignment) (*توجيه المصدر الدستوري*)؛ [§7](#7-unified-proportional-lequ-scale) (*مقياس LEQU النسبي الموحّد للمحورين*).
 - أسفل: [الفصل العاشر](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*تسمية فقط — لا يعيد فتح قياس السؤال 2*)؛ [الفصل الحادي عشر](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*رقابة المنتدى والتوجيه*)؛ [المادة XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*الحل في وقته*)؛ [المادة XXIII](core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*قيود العدالة*).
 - يُقرأ مع: [الفصل الخامس *حالة الوضعية والإسهام والمخالفة*](core_05_band_accountability.md#standing-state-contribution-and-violation-cluster) (*توجيه التعريفات القانوني*).
@@ -69,7 +69,7 @@
 | --- | --- | --- |
 | **1. ماذا حدث؟** | أي وقائع موثّقة، عمّن أو عمّا، خلال أي فترة، وبأي مركز سجل وطعن؟ | [القسم 2](#2-standing-records) |
 | **2. كم كان حسنًا أو سيئًا؟** | أي نوع ومقدار من الإسهام أو المخالفة تثبته تلك الوقائع؟ | [القسم 4](#4-standing-measurement-evaluation-dimensions) |
-| **3. ماذا يحدث بسببه؟** | أي اعتراف أو جاهزية أو انتصاف أو ضمان أو قيد أو عاقبة أخرى تتبع؟ | [الفصل التاسع](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) |
+| **3. ماذا يحدث بسببه؟** | أي اعتراف أو جاهزية أو انتصاف أو ضمان أو قيد أو عاقبة أخرى تتبع؟ | [الفصل التاسع](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) |
 
 كل سؤال يعتمد على الجواب الذي قبله:
 
@@ -94,7 +94,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع · التعريفات · التقييم · الامتثال</span></strong></summary>
 
 - أعلى: [الفصل الأول §9 — الإدارة المسؤولة والفهم الموزَّع](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)؛ [الفصول من الثاني إلى الرابع](core_02_definition_structure.md)؛ [الفصل الخامس](core_05__definitions_home.md#chapter-five-foundational-definitions).
-- أسفل: [§2](#2-standing-records) (*السؤال 1*)؛ [§3](#3-standing-record-operational-requirements) (*متطلبات التحقق والسجل*)؛ [§4](#4-standing-measurement-evaluation-dimensions) (*قياس السؤال 2*)؛ [§5](#5-slot-grammar-and-lequ-calibration) (*نحو الخانة والقياس المشترك*)؛ [§6](#6-constitutional-inputs-to-axis-assignment) (*توجيه المصدر الدستوري*)؛ [§7](#7-unified-proportional-lequ-scale) (*مقياس LEQU النسبي الموحّد للمحورين*)؛ [الفصل التاسع](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*السؤال 3*).
+- أسفل: [§2](#2-standing-records) (*السؤال 1*)؛ [§3](#3-standing-record-operational-requirements) (*متطلبات التحقق والسجل*)؛ [§4](#4-standing-measurement-evaluation-dimensions) (*قياس السؤال 2*)؛ [§5](#5-slot-grammar-and-lequ-calibration) (*نحو الخانة والقياس المشترك*)؛ [§6](#6-constitutional-inputs-to-axis-assignment) (*توجيه المصدر الدستوري*)؛ [§7](#7-unified-proportional-lequ-scale) (*مقياس LEQU النسبي الموحّد للمحورين*)؛ [الفصل التاسع](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*السؤال 3*).
 - [تقدير الأهمية المادية](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [الضرر](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
 - [التناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
@@ -112,7 +112,7 @@
 
 - أعلى: [§1](#1-the-three-questions) (*إطار الأسئلة الثلاثة*)؛ [الفصول من الثاني إلى الرابع](core_02_definition_structure.md) (*السجل والتحقق وقابلية تتبع التعريفات إلى النتائج*).
 - رِجل الرباعية: **المشاركة**؛ **الرقابة** (قابلية الطعن ومسارات الطعن). المقصد(ان) الأولي(ان): **الازدهار** و**الاستمرارية** (سجلات قابلة للتتبع تحفظ إيداعات الإسهام والمخالفة منفصلة للقياس لاحقًا).
-- أسفل: [§2.2](#22-linked-records-and-no-offset-bridge) (*جسر السجلات المرتبطة بلا مقاصة*)؛ [§2.3](#23-question-1-event-type-guide) (*دليل نوع الحدث*)؛ [§3](#3-standing-record-operational-requirements) (*بوابة المدخلات الموثّقة وحدّ المنتدى*)؛ [§4](#4-standing-measurement-evaluation-dimensions) (*قياس السؤال 2*)؛ [§5](#5-slot-grammar-and-lequ-calibration) (*نحو الخانة والقياس المشترك*)؛ [§6](#6-constitutional-inputs-to-axis-assignment) (*توجيه المصدر الدستوري*)؛ [§7](#7-unified-proportional-lequ-scale) (*مقياس LEQU النسبي الموحّد للمحورين*)؛ [الفصل التاسع](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*السؤال 3*).
+- أسفل: [§2.2](#22-linked-records-and-no-offset-bridge) (*جسر السجلات المرتبطة بلا مقاصة*)؛ [§2.3](#23-question-1-event-type-guide) (*دليل نوع الحدث*)؛ [§3](#3-standing-record-operational-requirements) (*بوابة المدخلات الموثّقة وحدّ المنتدى*)؛ [§4](#4-standing-measurement-evaluation-dimensions) (*قياس السؤال 2*)؛ [§5](#5-slot-grammar-and-lequ-calibration) (*نحو الخانة والقياس المشترك*)؛ [§6](#6-constitutional-inputs-to-axis-assignment) (*توجيه المصدر الدستوري*)؛ [§7](#7-unified-proportional-lequ-scale) (*مقياس LEQU النسبي الموحّد للمحورين*)؛ [الفصل التاسع](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*السؤال 3*).
 
 </details>
 
@@ -154,7 +154,7 @@
   - حمايات **المادة III-D** (*أرضية العمل والاقتصاد*)؛
   - التجارة العادية؛ أو
   - المشاركة طرفًا متأثرًا.
-  عتبات الكفاءة المنشورة لمسارات مسمّاة حسّاسة للثقة تحت [الفصل التاسع §6.2](../../core_09_standing_integration.md#62-competency-bars-and-clearances) هي الاستثناء، ويجب أن تبيّن لماذا المسار المسمّى حسّاس للثقة.
+  عتبات الكفاءة المنشورة لمسارات مسمّاة حسّاسة للثقة تحت [الفصل التاسع §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) هي الاستثناء، ويجب أن تبيّن لماذا المسار المسمّى حسّاس للثقة.
 - حين يُفتح سجل يخص موضوعًا، يجب إخطار الموضوع تحت **القسم 3** ما لم يسوّغ إظهار [حفظ الدليل](core_05_band_oversight.md#evidence-preservation) أو السلامة الموثَّق تأخيرًا محدودًا زمنيًا؛ وسجل لا يستطيع الموضوع أن يعلم به ليس قابلًا للطعن.
 
 أي أثر وضعية لاحق يخص الفصل التاسع ويجب أن يبقى قابلًا للتتبع إلى سجل أو سجلات الوضعية ذات الصلة دون أن يصير جزءًا من السجل نفسه.
@@ -167,8 +167,8 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: [§2.1](#21-standing-records-as-the-unit-of-application) (*سجلات إسهام ومخالفة منفصلة*).
-- أسفل: [§3.1](#31-minimum-record-contents) (*بوابة المدخلات الموثّقة*)؛ [§3.2](#32-related-record-cross-references) (*التقاطع المرجعي*)؛ [§3.6](#36-forum-boundary) (*حدّ المنتدى*)؛ [§4](#4-standing-measurement-evaluation-dimensions) (*قياس السؤال 2*)؛ [§5](#5-slot-grammar-and-lequ-calibration) (*نحو الخانة والقياس المشترك*)؛ [§6](#6-constitutional-inputs-to-axis-assignment) (*توجيه المصدر الدستوري*)؛ [§7](#7-unified-proportional-lequ-scale) (*مقياس LEQU النسبي الموحّد للمحورين*)؛ [الفصل التاسع](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*السؤال 3*).
-- يُقرأ مع: [الفصل التاسع — دمج الوضعية](../../core_09_standing_integration.md#2-integration-record-and-decision-order) (*عدم الإسقاط ودمج السجلات المرتبطة*)؛ [الفصل التاسع §6.2 — عتبات الكفاءة والإجازات](../../core_09_standing_integration.md#62-competency-bars-and-clearances)؛ [الفصل التاسع §4.2 — أقفال الوضعية](../../core_09_standing_integration.md#42-general-standing-locks).
+- أسفل: [§3.1](#31-minimum-record-contents) (*بوابة المدخلات الموثّقة*)؛ [§3.2](#32-related-record-cross-references) (*التقاطع المرجعي*)؛ [§3.6](#36-forum-boundary) (*حدّ المنتدى*)؛ [§4](#4-standing-measurement-evaluation-dimensions) (*قياس السؤال 2*)؛ [§5](#5-slot-grammar-and-lequ-calibration) (*نحو الخانة والقياس المشترك*)؛ [§6](#6-constitutional-inputs-to-axis-assignment) (*توجيه المصدر الدستوري*)؛ [§7](#7-unified-proportional-lequ-scale) (*مقياس LEQU النسبي الموحّد للمحورين*)؛ [الفصل التاسع](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*السؤال 3*).
+- يُقرأ مع: [الفصل التاسع — دمج الوضعية](../../core_10_standing_integration.md#2-integration-record-and-decision-order) (*عدم الإسقاط ودمج السجلات المرتبطة*)؛ [الفصل التاسع §6.2 — عتبات الكفاءة والإجازات](../../core_10_standing_integration.md#62-competency-bars-and-clearances)؛ [الفصل التاسع §4.2 — أقفال الوضعية](../../core_10_standing_integration.md#42-general-standing-locks).
 
 </details>
 
@@ -401,7 +401,7 @@
 يجوز أن تمدّ الإيداعات الوقائعية الموثّقة لمنتدى الأساس الوقائعي لسجل وضعية السؤال 1. وهي **لا** تحدّد قياس السؤال 2 لكم كان الإسهام أو المخالفة الموثّقة حسنًا أو سيئًا. وعليه:
 
 - يجب ألا تطوي إجراءات المنتدى مادة الإسهام والمخالفة في درجة صافية واحدة أو جواب جدارة مخلوط أو تسمية وضعية غير مميَّزة؛ وتبقى السجلات المرتبطة منفصلة تحت **القسمين 2.1** و**2.2**.
-- يجب ألا تستبدل نواتج المنتدى سرديات النزاع أو ملاءمة التوجيه أو تفضيل الهيئة بمدخلات موثّقة قابلة للإظهار أو قياس منفصل أو ميكانيكا أثر الوضعية التي يملكها [الفصل التاسع](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration).
+- يجب ألا تستبدل نواتج المنتدى سرديات النزاع أو ملاءمة التوجيه أو تفضيل الهيئة بمدخلات موثّقة قابلة للإظهار أو قياس منفصل أو ميكانيكا أثر الوضعية التي يملكها [الفصل التاسع](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration).
 
 هذا الحدّ **لا** يقلّل الطعن أو الانتصاف أو الإغاثة المؤقتة أو الحمايات الإجرائية المطلوبة تحت [المادة XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*الحق في الطعن والمراجعة والانتصاف*) أو [الفصل الحادي عشر §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) أو [المادة XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*الحل في وقته وأرضية منع التأخير*) أو مواد العدالة ذات الصلة. وهو يتطلّب أن تدخل إيداعات المنتدى الموثّقة الوضعية عبر البوابة نفسها التي تدخلها المدخلات الموثّقة الأخرى — لا حولها.
 
@@ -414,8 +414,8 @@
 
 - أعلى: [الفصل الأول §10.2 *فصل الواجبات*](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties) (*أرضية طبقة المبدأ التي يطبّقها هذا القسم على سجلات الوضعية؛ ولا يجوز تضييقها هنا*)؛ [الفصل الأول §11.3 *الكشف والمراجعة الجمعيان*](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection)؛ [§2.1](#21-silence-is-the-default) (*محفّز موثّق؛ إخطار الموضوع*)؛ [§3.1](#31-minimum-record-contents) (*المحتويات الدنيا وبوابة المدخلات الموثّقة*)؛ [§3.4](#34-versioning) (*الإصدارات*)؛ [§3.6](#36-forum-boundary) (*يجوز للمنتديات الفتح والتحديث والتصحيح والتنحية*)؛ [الفصول من الثاني إلى الرابع](core_02_definition_structure.md) (*السجل والتحقق وقابلية التتبع*)؛ [حفظ الدليل](core_05_band_oversight.md#evidence-preservation) (*سلسلة حفظ الدليل*).
 - رِجل الرباعية: **المساءلة** (فاعل مسمّى يجيب عن كل مدخل)؛ **الرقابة** (لا طرف يوثّق دعواه). المقصد(ان) الأولي(ان): **الازدهار** و**الاستمرارية**.
-- يُقرأ مع: [الفصل الخامس *صك النطاق*](core_05_band_continuity.md#charter) (*صك نطاق منشور يسمّي أو يشير إلى سلطة فتح السجل والحارس لنطاق ميثاقي*)؛ **CI-3.6** (*محتويات صك النطاق — حقل حفظ سجل الوضعية*)؛ [**CJS-3.11** *المسار الدستوري والفصل الوظيفي*](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation) (*المسارات الخمسة التي تُوضَع فيها واجبات السجل؛ فصل الواجبات*)؛ **CI-3.2** (*مسارات الفصل الوظيفي — خريطة المسار المنشورة، الاحتياط حين يصمت صك النطاق*)؛ **CI-3.3** (*سلسلة السلطة وضوابط التفويض*)؛ **CI-4.6** (*فهرس المقاعد — مقاعد السجل الأربعة أنواع مقاعد 1–4، مع قاعدة المقعد الخطأ*)؛ **CF-9.6** (*لا تحقيق ذاتي*) و**CF-9.8** (*تسليم الإيداع الموثّق*)؛ [الفصل الحادي عشر §2.1](core_11_forum.md#21-lead-default-limits) (*احتياط منع أن يحكم المرء في نفسه*)؛ [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*من رخّص؛ السجل التشغيلي ليس السجل*)؛ [الفصل التاسع §5.4](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*أوقف، ارفض، وثّق، صعّد*)؛ [الفصل الرابع §5](core_04_burden_traceability_verification.md#5-compliance-evidence-standard) (*معيار الدليل الذي يطبّقه مقعد التوثيق على بيانات المسجّل والطرف*)؛ [حسن النية](core_05_band_accountability.md#good-faith) (*قرينة الصراحة لا الدقة*)؛ [قابلية الطعن](core_05_band_accountability.md#contestability) و[المادة XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*طعن مرفوع على السجل يُسجَّل ويُوجَّه قبل أي تقديم*)؛ [الفصل الحادي عشر §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests) (*طعون سجلات الوضعية متى بلغت منتدى*).
-- أسفل: [§4](#4-standing-measurement-evaluation-dimensions) (*يقيس السؤال 2 فقط السجلات المدخلة تحت هذا القسم*)؛ [الفصل التاسع](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*آثار السؤال 3 تتتبع إلى سجل منسوب*).
+- يُقرأ مع: [الفصل الخامس *صك النطاق*](core_05_band_continuity.md#charter) (*صك نطاق منشور يسمّي أو يشير إلى سلطة فتح السجل والحارس لنطاق ميثاقي*)؛ **CI-3.6** (*محتويات صك النطاق — حقل حفظ سجل الوضعية*)؛ [**CJS-3.11** *المسار الدستوري والفصل الوظيفي*](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation) (*المسارات الخمسة التي تُوضَع فيها واجبات السجل؛ فصل الواجبات*)؛ **CI-3.2** (*مسارات الفصل الوظيفي — خريطة المسار المنشورة، الاحتياط حين يصمت صك النطاق*)؛ **CI-3.3** (*سلسلة السلطة وضوابط التفويض*)؛ **CI-4.6** (*فهرس المقاعد — مقاعد السجل الأربعة أنواع مقاعد 1–4، مع قاعدة المقعد الخطأ*)؛ **CF-9.6** (*لا تحقيق ذاتي*) و**CF-9.8** (*تسليم الإيداع الموثّق*)؛ [الفصل الحادي عشر §2.1](core_11_forum.md#21-lead-default-limits) (*احتياط منع أن يحكم المرء في نفسه*)؛ [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*من رخّص؛ السجل التشغيلي ليس السجل*)؛ [الفصل التاسع §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*أوقف، ارفض، وثّق، صعّد*)؛ [الفصل الرابع §5](core_04_burden_traceability_verification.md#5-compliance-evidence-standard) (*معيار الدليل الذي يطبّقه مقعد التوثيق على بيانات المسجّل والطرف*)؛ [حسن النية](core_05_band_accountability.md#good-faith) (*قرينة الصراحة لا الدقة*)؛ [قابلية الطعن](core_05_band_accountability.md#contestability) و[المادة XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*طعن مرفوع على السجل يُسجَّل ويُوجَّه قبل أي تقديم*)؛ [الفصل الحادي عشر §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests) (*طعون سجلات الوضعية متى بلغت منتدى*).
+- أسفل: [§4](#4-standing-measurement-evaluation-dimensions) (*يقيس السؤال 2 فقط السجلات المدخلة تحت هذا القسم*)؛ [الفصل التاسع](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*آثار السؤال 3 تتتبع إلى سجل منسوب*).
 
 </details>
 
@@ -442,18 +442,18 @@
 
 <a id="37-informal-and-small-scope-records"></a>
 
-**السجلات غير الرسمية وصغيرة النطاق.** يتصاعد فصل الواجبات مع الرهان المادي لا مع الرسمية ([الفصل الأول §10.2 فصل الواجبات](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties)). للعمل غير المدفوع والمنظَّم بين الأقران والمساعدة المتبادلة والرعاية والصيانة والإصلاح والتعليم وإدارة المجتمع المسؤولة — الذي يطلب [الفصل التاسع §6 عواقب الإسهام ثانيًا](../../core_09_standing_integration.md#6-contribution-consequences-second) أن يُعتَرف به بمعايير متساوية — يُستوفى مقعد التوثيق بـ**أي مكتب نزيه بسلطة منشورة للاعتماد على السجل**، غالبًا الهيئة التي ستستخدمه: مجلس مستجمع أو هيئة تمويل أو استمرارية أو مكتب الاعتراف بالسجلات في **CI-22** (*المشاع والتعاونيات والمساعدة المتبادلة وحوكمة المجتمع خارج السوق*) أو منتدى. ولا يُستوفى برسمية الهيئة الموثِّقة. وعلى مثل هذا السجل:
+**السجلات غير الرسمية وصغيرة النطاق.** يتصاعد فصل الواجبات مع الرهان المادي لا مع الرسمية ([الفصل الأول §10.2 فصل الواجبات](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties)). للعمل غير المدفوع والمنظَّم بين الأقران والمساعدة المتبادلة والرعاية والصيانة والإصلاح والتعليم وإدارة المجتمع المسؤولة — الذي يطلب [الفصل التاسع §6 عواقب الإسهام ثانيًا](../../core_10_standing_integration.md#6-contribution-consequences-second) أن يُعتَرف به بمعايير متساوية — يُستوفى مقعد التوثيق بـ**أي مكتب نزيه بسلطة منشورة للاعتماد على السجل**، غالبًا الهيئة التي ستستخدمه: مجلس مستجمع أو هيئة تمويل أو استمرارية أو مكتب الاعتراف بالسجلات في **CI-22** (*المشاع والتعاونيات والمساعدة المتبادلة وحوكمة المجتمع خارج السوق*) أو منتدى. ولا يُستوفى برسمية الهيئة الموثِّقة. وعلى مثل هذا السجل:
 
 - المشاركون موضوعات، وحيث يطلبون اعترافًا، مدّعون؛ وفي سجل جماعي تحت **القسم 3.3** كل مشارك مشارك مدّعٍ، فبيان عضو عن حصة عضو آخر مدخل لا توثيق أبدًا؛
 - يمدّ المستفيدون والجيران وغير المشاركين الآخرين إقرارات مواد تحقق تحت **القسم 3.1**؛ والكائن الواعي الذي حفظ سجل الجماعة التشغيلي هو المسجّل وشاهد تحت *بيانات المسجّل مدخلات* أدناه؛
 - يحفظ مكتب سجلات الهيئة المعتمدة الحفظ؛ وللنطاق الصغير، يجوز أن يجلس التوثيق والإدخال-والحفظ في ذلك المكتب الواحد تحت ضمان مكشوف، ولا يجلس أبدًا مع مدّعٍ؛
-- عتبة أو إجراء يطلب توثيقًا من مؤسسة رسمية لا تبلغها جماعة غير رسمية، حيث تتوفر هيئة معتمدة نزيهة، هو نمط الحراسة التعسفية في [الفصل التاسع §6.2](../../core_09_standing_integration.md#62-competency-bars-and-clearances) لا فصل الواجبات.
+- عتبة أو إجراء يطلب توثيقًا من مؤسسة رسمية لا تبلغها جماعة غير رسمية، حيث تتوفر هيئة معتمدة نزيهة، هو نمط الحراسة التعسفية في [الفصل التاسع §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) لا فصل الواجبات.
 
 لا شيء من هذا يتطلّب وجود سجل. يتحكم **القسم 2.1** *الصمت هو الأصل*: العمل غير الرسمي لا يُسجَّل لأنه يمكن أن يُسجَّل، وفصل الواجبات لا يلزم إلا متى طُلب سجل.
 
 <a id="371-named-record-opening-authority"></a>
 
-**سلطة فتح السجل المسمّاة.** يُفتح كل سجل وضعية أو يُصحَّح أو يُنهى أو يُحال بـ**سلطة فتح سجل**: دور أو مكتب أو منتدى أو هيئة نُشرت سلطتها لتوثيق الأساس الوقائعي تحت الفصول من الثاني إلى الرابع وإدخال السجل قبل أن تعمل. حيث يخص السجل نظامًا أو مؤسسة أو عملًا يحمل [صك نطاق](core_05_band_continuity.md#charter)، يسمّي ذلك الصك سلطة فتح السجل وحارس السجل للسجلات التي تخص نطاقه الميثاقي، أو يشير إلى الصك المنشور الذي يسمّيهما (**CI-3.6** (*محتويات صك النطاق والمراجعة وقالب التكوين*)). تعمل المنتديات سلطات فتح سجل بشروط **القسم 3.6**؛ ومنتدى وثّق سجلًا لا يسمع طعن ذلك السجل، الذي يذهب إلى مراجعة ثانوية تحت [الفصل الحادي عشر](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) و**CF-6** (*الاستئناف والمراجعة الثانوية ومسارات الاستنفاد*). حيث لا يبلغ صك نطاق أو تسمية منتدى السجل، ينطبق *الاحتياط حين يصمت صك النطاق* أعلاه، ويجب أن يسمّي صك الاعتماد تحت [الفصل الخامس عشر](../../core_15_amendment_ratification.md) أو القواعد المنشورة للهيئة التي تشغّل سلسلة الوضعية واحدًا حينئذ. مدخل بلا سلطة مسمّاة يُعلَّم **مؤقتًا**: يحفظ الدليل والإخطار تحت **القسم 2.1**، لكنه لا يمدّ مدخلًا موثّقًا تحت **القسم 3.1** ولا أثر فصل تاسع حتى تؤكده سلطة مسمّاة أو تصحّحه أو تنحّيه.
+**سلطة فتح السجل المسمّاة.** يُفتح كل سجل وضعية أو يُصحَّح أو يُنهى أو يُحال بـ**سلطة فتح سجل**: دور أو مكتب أو منتدى أو هيئة نُشرت سلطتها لتوثيق الأساس الوقائعي تحت الفصول من الثاني إلى الرابع وإدخال السجل قبل أن تعمل. حيث يخص السجل نظامًا أو مؤسسة أو عملًا يحمل [صك نطاق](core_05_band_continuity.md#charter)، يسمّي ذلك الصك سلطة فتح السجل وحارس السجل للسجلات التي تخص نطاقه الميثاقي، أو يشير إلى الصك المنشور الذي يسمّيهما (**CI-3.6** (*محتويات صك النطاق والمراجعة وقالب التكوين*)). تعمل المنتديات سلطات فتح سجل بشروط **القسم 3.6**؛ ومنتدى وثّق سجلًا لا يسمع طعن ذلك السجل، الذي يذهب إلى مراجعة ثانوية تحت [الفصل الحادي عشر](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) و**CF-6** (*الاستئناف والمراجعة الثانوية ومسارات الاستنفاد*). حيث لا يبلغ صك نطاق أو تسمية منتدى السجل، ينطبق *الاحتياط حين يصمت صك النطاق* أعلاه، ويجب أن يسمّي صك الاعتماد تحت [الفصل الخامس عشر](../../core_16_amendment_ratification.md) أو القواعد المنشورة للهيئة التي تشغّل سلسلة الوضعية واحدًا حينئذ. مدخل بلا سلطة مسمّاة يُعلَّم **مؤقتًا**: يحفظ الدليل والإخطار تحت **القسم 2.1**، لكنه لا يمدّ مدخلًا موثّقًا تحت **القسم 3.1** ولا أثر فصل تاسع حتى تؤكده سلطة مسمّاة أو تصحّحه أو تنحّيه.
 
 <a id="372-record-custodian"></a>
 
@@ -461,7 +461,7 @@
 
 <a id="373-no-self-custody"></a>
 
-**لا حفظ ذاتي.** لا يجوز لهؤلاء أن يعملوا سلطة فتح سجل أو حارس سجل لسجل: موضوع السجل؛ طرف يدّعي الإسهام أو يتهم بالمخالفة التي يخصها السجل؛ وأي مكتب في خط السلطة يسيطر ماديًا على أولئك الأطراف أو يُسيطَر عليه ماديًا منهم. مسؤول إدارة داخل الموضوع يمارس إدارة الأنظمة الحرجة المسؤولة أو سلطة تشغيل مادية يحتفظ بكل واجب تحت [الفصل التاسع §5.4](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) و[CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) — أوقف ما تسيطر عليه، سجّل المجموعة القابلة لإعادة البناء، احفظ الدليل الذي تحمله، أخطر، وصعّد — وليس أي من تلك الأفعال توثيق الوقائع أو إدخال السجل. حيث تكون سلطة فتح السجل العادية نفسها الموضوع أو تجلس في خط سيطرته، يُوجَّه السجل إلى تحقق مستقل: منتدى تحت **القسم 3.6**، أو الخدمة التحقيق المستقلة تحت **CF-9.6** (*لا تحقيق ذاتي*)، أو هيئة احتياط مسبقة التسمية بسلطة منشورة، أيّما يسمّيه صك النطاق أو التسمية أولًا. غياب أي مسار كهذا فجوة يجب أن يسمّيها مسؤول الإدارة في السجل التشغيلي، لا سببًا لإدخال السجل بنفسه. تستبعد هذه القاعدة الأطراف بمصلحتهم في السجل؛ ويفصل *فصل الواجبات* أعلاه المقاعد بالوظيفة. كلاهما ينطبق، والجواب الأضيق يحكم.
+**لا حفظ ذاتي.** لا يجوز لهؤلاء أن يعملوا سلطة فتح سجل أو حارس سجل لسجل: موضوع السجل؛ طرف يدّعي الإسهام أو يتهم بالمخالفة التي يخصها السجل؛ وأي مكتب في خط السلطة يسيطر ماديًا على أولئك الأطراف أو يُسيطَر عليه ماديًا منهم. مسؤول إدارة داخل الموضوع يمارس إدارة الأنظمة الحرجة المسؤولة أو سلطة تشغيل مادية يحتفظ بكل واجب تحت [الفصل التاسع §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) و[CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) — أوقف ما تسيطر عليه، سجّل المجموعة القابلة لإعادة البناء، احفظ الدليل الذي تحمله، أخطر، وصعّد — وليس أي من تلك الأفعال توثيق الوقائع أو إدخال السجل. حيث تكون سلطة فتح السجل العادية نفسها الموضوع أو تجلس في خط سيطرته، يُوجَّه السجل إلى تحقق مستقل: منتدى تحت **القسم 3.6**، أو الخدمة التحقيق المستقلة تحت **CF-9.6** (*لا تحقيق ذاتي*)، أو هيئة احتياط مسبقة التسمية بسلطة منشورة، أيّما يسمّيه صك النطاق أو التسمية أولًا. غياب أي مسار كهذا فجوة يجب أن يسمّيها مسؤول الإدارة في السجل التشغيلي، لا سببًا لإدخال السجل بنفسه. تستبعد هذه القاعدة الأطراف بمصلحتهم في السجل؛ ويفصل *فصل الواجبات* أعلاه المقاعد بالوظيفة. كلاهما ينطبق، والجواب الأضيق يحكم.
 
 <a id="37-conflicted-custodian-on-a-single-record"></a>
 
@@ -496,7 +496,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: [§2](#2-standing-records) (*السؤال 1 — سجلات الوضعية والوقائع الموثّقة*)؛ [§3](#3-standing-record-operational-requirements) (*بوابة المدخلات الموثّقة ومتطلبات السجل*)؛ [§1](#1-the-three-questions) (*إطار الأسئلة الثلاثة*).
-- أسفل: [§5](#5-slot-grammar-and-lequ-calibration) (*نحو الخانة والقياس المشترك*)؛ [§6](#6-constitutional-inputs-to-axis-assignment) (*توجيه المصدر الدستوري*)؛ [§7](#7-unified-proportional-lequ-scale) (*تعيين محور الإسهام ومحور المخالفة*)؛ [الفصل التاسع §6.2](../../core_09_standing_integration.md#62-competency-bars-and-clearances) (*السؤال 3 للإسهام — التفويض الآمن*)؛ [الفصل التاسع §4.2](../../core_09_standing_integration.md#42-general-standing-locks) (*أقفال المنع*)؛ [الفصل التاسع §5](../../core_09_standing_integration.md#5-lock-design-and-enforcement) (*تصميم القفل وإنفاذه*).
+- أسفل: [§5](#5-slot-grammar-and-lequ-calibration) (*نحو الخانة والقياس المشترك*)؛ [§6](#6-constitutional-inputs-to-axis-assignment) (*توجيه المصدر الدستوري*)؛ [§7](#7-unified-proportional-lequ-scale) (*تعيين محور الإسهام ومحور المخالفة*)؛ [الفصل التاسع §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) (*السؤال 3 للإسهام — التفويض الآمن*)؛ [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-general-standing-locks) (*أقفال المنع*)؛ [الفصل التاسع §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement) (*تصميم القفل وإنفاذه*).
 - يُقرأ مع: [§3.1](#31-minimum-record-contents) (*حقول السجل الموثّق؛ لا آثار وضعية في الفصل الثامن*).
 
 </details>
@@ -534,7 +534,7 @@
   - فقدان قابلية الطعن؛ أو
   - تجميع غير قابل للمراجعة.
 
-**السؤال 2 فقط.** استخدم هذه الأبعاد لقياس الوقائع الموثّقة المثبتة تحت **القسم 2** والمسجَّلة تحت **القسم 3**. يمدّ كتالوج **مسار النفع** في **القسم 4.3** وكتالوج **مسار الضرر** في **القسم 4.4** الأسماء المعيارية لأنواع المساعدة أو الضرر ويبيّنان كيف يُحسَب كل اسم نحو *كم حسنًا* أو *كم سيئًا*. قواعد دمج السؤال 3 والإلحاق في [الفصل التاسع §3](../../core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization)، مع قواعد العاقبة على [جانب النفع](../../core_09_standing_integration.md#62-competency-bars-and-clearances) و[جانب الضرر](../../core_09_standing_integration.md#42-general-standing-locks).
+**السؤال 2 فقط.** استخدم هذه الأبعاد لقياس الوقائع الموثّقة المثبتة تحت **القسم 2** والمسجَّلة تحت **القسم 3**. يمدّ كتالوج **مسار النفع** في **القسم 4.3** وكتالوج **مسار الضرر** في **القسم 4.4** الأسماء المعيارية لأنواع المساعدة أو الضرر ويبيّنان كيف يُحسَب كل اسم نحو *كم حسنًا* أو *كم سيئًا*. قواعد دمج السؤال 3 والإلحاق في [الفصل التاسع §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization)، مع قواعد العاقبة على [جانب النفع](../../core_10_standing_integration.md#62-competency-bars-and-clearances) و[جانب الضرر](../../core_10_standing_integration.md#42-general-standing-locks).
 
 <a id="41-magnitude-input-dimensions"></a>
 <a id="41-contribution-magnitude-input-dimensions"></a>
@@ -561,13 +561,13 @@
 - الضرر المُخرَّج أو العبء المخفي يحدّ أو يُسقط النفع المنسوب إلى المسار المسمّى المتنازع؛
 - خطر الاستيلاء الموثّق أو الاعتماد الهيكلي أو تصميم الخروج / الإغلاق يحدّ الائتمان الإيجابي للإدارة المسؤولة؛
 - إصلاح موثّق لحاجز تيسير وصول أو مشاركة قد يزيد الأهمية المادية ويسند واصف مسار النفع **الوصول والإدماج** تحت **القسم 4.3**؛ و
-- مكافأة مادية حُصل عليها عبر بنية حافز غير متوائمة دستوريًا أو سلوك مضاد للدستور أو إجراء معيب ماديًا ليست نفعًا محسوبًا افتراضيًا. طبّق [الفصل التاسع §5.4](../../core_09_standing_integration.md#54-special-violation-rules) وحدّ الانتقال في [المادة XXVI-A](core_06_rights_part_d.md#incentive-alignment-transition-carve-out).
+- مكافأة مادية حُصل عليها عبر بنية حافز غير متوائمة دستوريًا أو سلوك مضاد للدستور أو إجراء معيب ماديًا ليست نفعًا محسوبًا افتراضيًا. طبّق [الفصل التاسع §5.4](../../core_10_standing_integration.md#54-special-violation-rules) وحدّ الانتقال في [المادة XXVI-A](core_06_rights_part_d.md#incentive-alignment-transition-carve-out).
 
 **مخرجات س2 (تُسجَّل في سجل وضعية الإسهام؛ ليست آثار وضعية):**
 
 - **خانة محور الإسهام** المنطبقة (`s` = 1–9) والنطاق الأولي (**C-BL** أو **C-PC** أو **C-SP** أو **C-CH**)
 - **واصفات مسار النفع** المرصوفة
-- مدخلات لتوجّه الاعتراف الافتراضي تحت [الفصل التاسع §6](../../core_09_standing_integration.md#6-contribution-consequences-second)
+- مدخلات لتوجّه الاعتراف الافتراضي تحت [الفصل التاسع §6](../../core_10_standing_integration.md#6-contribution-consequences-second)
 
 **لا** تقسم LEQU إلى درجات نفع بيئية أو نظامية أو موارد موازية ما لم يحتج التنفيذ المعتمَد تفكيكًا شفافًا للتدقيق.
 
@@ -593,18 +593,18 @@
 - تبقى **عرقلة المساءلة** — تدخل موثّق في آلة المساءلة كسلامة الدليل أو التحقق أو إجراء المنتدى أو سجلات الوضعية أو ساعات الانتصاف أو مسارات الطعن والانتصاف — واقعة طابع سلوك مسجَّلة منفصلة؛ وأي خسارة مسار مسمّى مركَّبة تدخل تقدير LEQU مرة، بينما لا تحرّك تسمية العرقلة نفسها خانة الأثر؛
 - تبقى الخداع والإخفاء والتهرّب والتكرار بعد الإخطار والإهمال المتهوّر والتمكين الهيكلي أو إساءة لاتماثل الاعتماد المادية وقائع طابع سلوك مسجَّلة منفصلة؛
 - يبقى العنف أو الإكراه أو التلاعب أو خطر الحرية مسجَّلًا منفصلًا وقد يتطلّب ضمانات أعلى بغض النظر عن الخانة؛
-- تبقى [القسوة](core_05_band_accountability.md#cruelty) — معاناة موثّقة غاية في ذاتها، أو إلحاق مجاني أو مهين يتجاوز الضرورة والتناسب — واقعة طابع سلوك مسجَّلة منفصلة؛ وقد تتطلّب ضمانات أعلى وقيود انتصاف غير مهينة تحت [الفصل التاسع §4](../../core_09_standing_integration.md#4-violation-correction-and-prevention)، ولا تحرّك خانة الأثر؛
+- تبقى [القسوة](core_05_band_accountability.md#cruelty) — معاناة موثّقة غاية في ذاتها، أو إلحاق مجاني أو مهين يتجاوز الضرورة والتناسب — واقعة طابع سلوك مسجَّلة منفصلة؛ وقد تتطلّب ضمانات أعلى وقيود انتصاف غير مهينة تحت [الفصل التاسع §4](../../core_10_standing_integration.md#4-violation-correction-and-prevention)، ولا تحرّك خانة الأثر؛
 - يخص الانتشار الدور السببي الموزَّع أو السلطة أو السيطرة أو قابلية التوقع أو المنفعة أو الإخفاء أو قدرة المنع الممكنة؛ وليس جزءًا من **نطاق الكائنات الواعية** ولا يجيز اللوم بعضوية الجماعة؛
 - يجوز أن تسند المشاركة الراضية أو الفشل في المقاومة طابعًا قائمًا على الواجب أو مشدَّدًا أو مساءلة جماعية فقط حين يُوثَّق الارتباط الخاص بالفاعل الذي يطلبه **القسمان 3.1 و3.3**؛ و
-- يُسجَّل القبول أو الاحتفاظ العارف بمكافأة غير متوائمة مادية بلا إبلاغ محمي في وقته تحت [الفصل التاسع §5.4](../../core_09_standing_integration.md#54-special-violation-rules)، خاضعًا لـ[المادة XXVI-A](core_06_rights_part_d.md#incentive-alignment-transition-carve-out)؛ وخسارتها الدستورية الموثّقة وحدها تؤثّر في الخانة.
+- يُسجَّل القبول أو الاحتفاظ العارف بمكافأة غير متوائمة مادية بلا إبلاغ محمي في وقته تحت [الفصل التاسع §5.4](../../core_10_standing_integration.md#54-special-violation-rules)، خاضعًا لـ[المادة XXVI-A](core_06_rights_part_d.md#incentive-alignment-transition-carve-out)؛ وخسارتها الدستورية الموثّقة وحدها تؤثّر في الخانة.
 
-**حدّ المكافأة غير المتوائمة.** يقيس هذا الفصل فقط كيف تؤثّر مكافأة غير متوائمة موثّقة في محور الإسهام أو محور المخالفة. يبيّن [الفصل التاسع §5.4](../../core_09_standing_integration.md#54-special-violation-rules) واجب الإبلاغ والاستثناءات وعواقب المصادرة وواجبات التصحيح وقواعد التوجيه.
+**حدّ المكافأة غير المتوائمة.** يقيس هذا الفصل فقط كيف تؤثّر مكافأة غير متوائمة موثّقة في محور الإسهام أو محور المخالفة. يبيّن [الفصل التاسع §5.4](../../core_10_standing_integration.md#54-special-violation-rules) واجب الإبلاغ والاستثناءات وعواقب المصادرة وواجبات التصحيح وقواعد التوجيه.
 
 **مخرجات س2 (تُسجَّل في سجل وضعية المخالفة؛ ليست آثار وضعية):**
 
 - أعلى **خانة محور مخالفة** منطبقة (`s` = 1–9)
 - **واصفات مسار الضرر** المرصوفة
-- مدخلات لتوجّه نطاق القفل الافتراضي تحت [الفصل التاسع §5](../../core_09_standing_integration.md#5-lock-design-and-enforcement)
+- مدخلات لتوجّه نطاق القفل الافتراضي تحت [الفصل التاسع §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement)
 
 **لا** تقسم LEQU جانب المخالفة إلى درجات ضرر بيئي أو ضرر نظام أو خسارة موارد موازية ما لم يحتج التنفيذ المعتمَد تفكيكًا شفافًا للتدقيق.
 
@@ -621,7 +621,7 @@
 
 **قاعدة الواصف القانونية.** تملك الأقسام **4.3–4.4** كتالوج الواصف المعياري للمحورين. تجيب الواصفات **كيف** وقع النفع أو الضرر الموثّق. وهي قابلة للرصّ وغير حصرية وتابعة للخانة المنطبقة؛ ويجوز لسجل أن يحمل عدة حيث تسوّغ الوقائع الموثّقة. الكتالوج أساس لا قائمة مغلقة. يجوز للتنفيذ أن يستخدم معرّفات مستقرة مرسومة إليه لكن يجب ألا يخلق تصنيفًا حصريًا متعارضًا. يجوز أن تسند الواصفات المدّعاة حفظًا مشروعًا أو فرزًا أو ضمانات مؤقتة؛ والواصفات الموثّقة وحدها يجوز تسجيلها مخرجات سؤال 2 أو أن تؤثّر في الوضعية.
 
-**واصفات مسار النفع — دور قياس السؤال 2.** دور التفويض الآمن للسؤال 3: [الفصل التاسع §6.2](../../core_09_standing_integration.md#62-competency-bars-and-clearances).
+**واصفات مسار النفع — دور قياس السؤال 2.** دور التفويض الآمن للسؤال 3: [الفصل التاسع §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances).
 
 | **واصف مسار النفع** | **المجال المعياري** | **س2 (كم حسنًا؟)** |
 | --- | --- | --- |
@@ -646,7 +646,7 @@
 <a id="44-violation-route-descriptor-catalog-and-measurement-roles"></a>
 #### 4.4 كتالوج واصف مسار المخالفة وأدوار القياس
 
-**واصفات مسار الضرر — دور قياس السؤال 2.** قواعد دمج السؤال 3 والإلحاق: [الفصل التاسع §3](../../core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization). منع السؤال 3 وتصميم القفل: [الفصل التاسع §4.2](../../core_09_standing_integration.md#42-general-standing-locks)؛ [الفصل التاسع §5](../../core_09_standing_integration.md#5-lock-design-and-enforcement).
+**واصفات مسار الضرر — دور قياس السؤال 2.** قواعد دمج السؤال 3 والإلحاق: [الفصل التاسع §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization). منع السؤال 3 وتصميم القفل: [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-general-standing-locks)؛ [الفصل التاسع §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement).
 
 | **واصف مسار الضرر** | **المجال المعياري** | **س2 (كم سيئًا؟)** |
 | --- | --- | --- |
@@ -679,21 +679,21 @@
 
 | **السمة الموثّقة** | **مالك السؤال 2 في هذا الفصل** | **مالك دمج السؤال 3** |
 | --- | --- | --- |
-| **ضرر مُخرَّج / عبء مخفي** | تطبيق جودة سلوك الإسهام في **§4.1** | [الفصل التاسع §6.2](../../core_09_standing_integration.md#62-competency-bars-and-clearances) — قد يحجب الإجازة أو يضيّقها حتى المعالجة |
-| **خداع / إخفاء / تهرّب** | تطبيق طابع سلوك المخالفة في **§4.2** | [الفصل التاسع §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — قفل تصعيد إخفاء / تهرّب |
-| **عرقلة المساءلة** | تطبيق طابع سلوك المخالفة في **§4.2** و**سوء سلوك عرقلة المساءلة** في **§4.4** | [الفصل التاسع §4.2](../../core_09_standing_integration.md#42-general-standing-locks) و[§5.4](../../core_09_standing_integration.md#54-special-violation-rules) — أقفال محدودة بمسار مسمّى؛ [الفصل التاسع §10.13](../../core_09_standing_integration.md#1013-obstruction-of-accountability) (*نمط السؤال 3*)؛ تسمية الفصل العاشر فقط عبر بوابة مراجعة سوء السلوك المضاد للدستور تحت [الفصل التاسع §10.8](../../core_09_standing_integration.md#108-anti-constitutional-misconduct-allegation) |
-| **عنف / إكراه / خطر حرية** | تطبيق طابع سلوك المخالفة في **§4.2** و**سوء سلوك عنيف** في **§4.4** | [الفصل التاسع §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — أقفال حماية وضمان |
-| **القسوة** | تطبيق طابع سلوك المخالفة في **§4.2**؛ [القسوة](core_05_band_accountability.md#cruelty) | [الفصل التاسع §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — أقفال حماية وضمان؛ [الفصل التاسع §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) — تعبير ترميمي غير مهين حيث يُستخدم |
-| **استمرارية / نمط / تكرار بعد الإخطار** | تطبيق طابع سلوك المخالفة في **§4.2** | [الفصل التاسع §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — قفل تكرار-استمرارية |
-| **إصابة نزاهة المنتدى** | تطبيق طابع سلوك المخالفة في **§4.2** | [الفصل التاسع §5.5](../../core_09_standing_integration.md#55-special-locks) — آثار قفل وضعية نزاهة المنتدى |
-| **انتشار المسؤولية أو السيطرة** | تطبيق طابع سلوك المخالفة في **§4.2**؛ ارتباط خاص بالفاعل تحت **§§3.1 و3.3** | [الفصل التاسع §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — نطاق مسار مسمّى أوسع أو اعتبار مركبة مؤسسية |
-| **تمكين نظام / هيكلي** | تطبيق جودة سلوك الإسهام في **§4.1**؛ طابع سلوك المخالفة في **§4.2** و**سوء سلوك النظام** في **§4.4** | [الفصل التاسع §6.2](../../core_09_standing_integration.md#62-competency-bars-and-clearances) و[الفصل التاسع §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — ضمانات تفويض أو أقفال مركبة مؤسسية |
-| **مشاركة راضية / فشل في المقاومة** | تطبيق طابع سلوك المخالفة في **§4.2** | [الفصل التاسع §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — نطاق مسار مسمّى وآثار تكرار-استمرارية |
-| **إصلاح تيسير وصول / حاجز مشاركة** | **الوصول والإدماج** في **§4.3** | [الفصل التاسع §6.2](../../core_09_standing_integration.md#62-competency-bars-and-clearances) — عتبة تجربة شاملة أو محدودة بمسار مسمّى |
-| **هزيمة تيسير الوصول / إصابة حاجز المشاركة** | **سوء سلوك تيسير الوصول وحاجز المشاركة** في **§4.4** | [الفصل التاسع §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — حجب مسارات مشاركة وتيسير وصول مسمّاة |
-| **إصابة خصوصية / ملكية الذات** | **سوء سلوك الخصوصية وملكية الذات** في **§4.4** | [الفصل التاسع §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — حجب مسارات بيانات أو صورة أو نشر أو حالة داخلية مسمّاة |
-| **خطر خروج / إغلاق أو إغلاق مسار** | تطبيق جودة سلوك الإسهام في **§4.1**؛ **سوء سلوك الخروج والإغلاق** في **§4.4** | [الفصل التاسع §6.2](../../core_09_standing_integration.md#62-competency-bars-and-clearances) و[الفصل التاسع §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — ضمانات تفويض أو حجب مسار خروج |
-| **إخفاء دورة حياة / لارجعة** | **سوء سلوك دورة الحياة واللارجعة** في **§4.4** | [الفصل التاسع §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — حجب نشر وسلطة دورة حياة |
+| **ضرر مُخرَّج / عبء مخفي** | تطبيق جودة سلوك الإسهام في **§4.1** | [الفصل التاسع §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) — قد يحجب الإجازة أو يضيّقها حتى المعالجة |
+| **خداع / إخفاء / تهرّب** | تطبيق طابع سلوك المخالفة في **§4.2** | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — قفل تصعيد إخفاء / تهرّب |
+| **عرقلة المساءلة** | تطبيق طابع سلوك المخالفة في **§4.2** و**سوء سلوك عرقلة المساءلة** في **§4.4** | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-general-standing-locks) و[§5.4](../../core_10_standing_integration.md#54-special-violation-rules) — أقفال محدودة بمسار مسمّى؛ [الفصل التاسع §10.13](../../core_10_standing_integration.md#1013-obstruction-of-accountability) (*نمط السؤال 3*)؛ تسمية الفصل العاشر فقط عبر بوابة مراجعة سوء السلوك المضاد للدستور تحت [الفصل التاسع §10.8](../../core_10_standing_integration.md#108-anti-constitutional-misconduct-allegation) |
+| **عنف / إكراه / خطر حرية** | تطبيق طابع سلوك المخالفة في **§4.2** و**سوء سلوك عنيف** في **§4.4** | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — أقفال حماية وضمان |
+| **القسوة** | تطبيق طابع سلوك المخالفة في **§4.2**؛ [القسوة](core_05_band_accountability.md#cruelty) | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — أقفال حماية وضمان؛ [الفصل التاسع §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) — تعبير ترميمي غير مهين حيث يُستخدم |
+| **استمرارية / نمط / تكرار بعد الإخطار** | تطبيق طابع سلوك المخالفة في **§4.2** | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — قفل تكرار-استمرارية |
+| **إصابة نزاهة المنتدى** | تطبيق طابع سلوك المخالفة في **§4.2** | [الفصل التاسع §5.5](../../core_10_standing_integration.md#55-special-locks) — آثار قفل وضعية نزاهة المنتدى |
+| **انتشار المسؤولية أو السيطرة** | تطبيق طابع سلوك المخالفة في **§4.2**؛ ارتباط خاص بالفاعل تحت **§§3.1 و3.3** | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — نطاق مسار مسمّى أوسع أو اعتبار مركبة مؤسسية |
+| **تمكين نظام / هيكلي** | تطبيق جودة سلوك الإسهام في **§4.1**؛ طابع سلوك المخالفة في **§4.2** و**سوء سلوك النظام** في **§4.4** | [الفصل التاسع §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) و[الفصل التاسع §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — ضمانات تفويض أو أقفال مركبة مؤسسية |
+| **مشاركة راضية / فشل في المقاومة** | تطبيق طابع سلوك المخالفة في **§4.2** | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — نطاق مسار مسمّى وآثار تكرار-استمرارية |
+| **إصلاح تيسير وصول / حاجز مشاركة** | **الوصول والإدماج** في **§4.3** | [الفصل التاسع §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) — عتبة تجربة شاملة أو محدودة بمسار مسمّى |
+| **هزيمة تيسير الوصول / إصابة حاجز المشاركة** | **سوء سلوك تيسير الوصول وحاجز المشاركة** في **§4.4** | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — حجب مسارات مشاركة وتيسير وصول مسمّاة |
+| **إصابة خصوصية / ملكية الذات** | **سوء سلوك الخصوصية وملكية الذات** في **§4.4** | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — حجب مسارات بيانات أو صورة أو نشر أو حالة داخلية مسمّاة |
+| **خطر خروج / إغلاق أو إغلاق مسار** | تطبيق جودة سلوك الإسهام في **§4.1**؛ **سوء سلوك الخروج والإغلاق** في **§4.4** | [الفصل التاسع §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) و[الفصل التاسع §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — ضمانات تفويض أو حجب مسار خروج |
+| **إخفاء دورة حياة / لارجعة** | **سوء سلوك دورة الحياة واللارجعة** في **§4.4** | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — حجب نشر وسلطة دورة حياة |
 
 <a id="451-similar-looking-facts-that-must-stay-separate"></a>
 
@@ -703,7 +703,7 @@
 
 | **الواقعة الأولى** | **واقعة مختلفة** | **لماذا تبقيان منفصلتين** |
 | --- | --- | --- |
-| **تأخير الاستجابة للمشكلة الأصلية أو تصعيدها** | **تأخير بدء الانتصاف أو تنفيذه** | الأولى تساعد قياس السؤال 2 تحت **§§4.1–4.2**. الثانية واقعة سؤال 3 لاحقة تحت [الفصل التاسع §9.5](../../core_09_standing_integration.md#95-timely-implementation-and-reassessment). |
+| **تأخير الاستجابة للمشكلة الأصلية أو تصعيدها** | **تأخير بدء الانتصاف أو تنفيذه** | الأولى تساعد قياس السؤال 2 تحت **§§4.1–4.2**. الثانية واقعة سؤال 3 لاحقة تحت [الفصل التاسع §9.5](../../core_10_standing_integration.md#95-timely-implementation-and-reassessment). |
 | **عدد الكائنات الواعية المتأثرة** | **كيف انتشرت المسؤولية أو السيطرة بين فاعلين أو أنظمة** | الأولى تساعد قياس كبر النفع أو الضرر تحت **§§4.1–4.2**. الثانية تخص المسؤولية الخاصة بالفاعل والانتشار ونطاق مسار مسمّى محتمل للسؤال 3. |
 
 <a id="46-question-1-measurement-illustrations"></a>
@@ -713,7 +713,7 @@
 <a id="46-measurement-illustrations"></a>
 #### 4.6 أمثلة قياس
 
-*بعبارات بسيطة: تبدأ هذه الأمثلة بوقائع السؤال 1 الموثّقة، ثم تُظهر كيف يقيسها **القسم 4**. تسجّل مخرجات السؤال 2 — لا آثار وضعية. يتبع تعيين الخانة **الأقسام 5–7**؛ ويُجاب السؤال 3 في [الفصل التاسع](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration). لاستمرار السؤال 3 للمثالين 1 و2 أدناه، انظر [الفصل التاسع §10.1](../../core_09_standing_integration.md#101-informal-ecological-stewardship-competency-clearance) و[§10.2](../../core_09_standing_integration.md#102-ecological-negligence-with-concealment).*
+*بعبارات بسيطة: تبدأ هذه الأمثلة بوقائع السؤال 1 الموثّقة، ثم تُظهر كيف يقيسها **القسم 4**. تسجّل مخرجات السؤال 2 — لا آثار وضعية. يتبع تعيين الخانة **الأقسام 5–7**؛ ويُجاب السؤال 3 في [الفصل التاسع](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration). لاستمرار السؤال 3 للمثالين 1 و2 أدناه، انظر [الفصل التاسع §10.1](../../core_10_standing_integration.md#101-informal-ecological-stewardship-competency-clearance) و[§10.2](../../core_10_standing_integration.md#102-ecological-negligence-with-concealment).*
 
 **المثال 1 — ترميم تعاوني ضفاف (إسهام).**
 
@@ -810,7 +810,7 @@
 - هو **أرضية للأداء المعياري لا سقف**: عمل يتجاوز أثره الموثّق الأثر المفترض للمعيار — طريقة أفضل أو نتيجة أمتن أو عبء مُخرَّج أقل أو نفع أوسع أو أعمق — يُقاس على أثره الموثّق الفعلي تحت **القسم 5.2**، فيبقى حافز أداء المهمة أفضل من المعيار حيًا؛ وعمل يقصر موثَّقًا عن النطاق أو المتانة المفترضين للمعيار يُقاس على ما وُثِّق لا على التسمية؛
 - **يُعاد النظر فيه بإيقاع منشور ويُعاد تأسيسه مع تحسّن الكفاءة**، حتى يتتبع المعيار ما تكلّفه المهمة وتنتجه الآن لا أن يجمد جهد الأمس ائتمان اليوم؛ ينطبق التنقيح إلى الأمام، وتحتفظ السجلات المفتوحة أصلًا بأساس قياسها تحت **القسم 3.4** ما لم يكن ذلك الأساس خاطئًا حين سُجِّل؛
 - يجب أن يكون التنقيح قائمًا على دليل ومنشورًا وقابلًا للطعن، ولا يجوز استخدامه لكبت اعتراف بفئة عمل أو جماعة أو مجموعة، أو لخفض معيار أسرع من كسب الكفاءة الموثّق الذي يستند إليه ([الفصل الأول §11](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture))؛
-- لا يخلق معيار حصة ولا واجب أداء ولا عتبة كفاءة تحت [الفصل التاسع §6.2](../../core_09_standing_integration.md#62-competency-bars-and-clearances)؛ يتحكم **القسم 2.1** *الصمت هو الأصل*، وكائن واعٍ لم يؤدِّ مهمة معيارية قط ليس له سجل لذلك السبب؛
+- لا يخلق معيار حصة ولا واجب أداء ولا عتبة كفاءة تحت [الفصل التاسع §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances)؛ يتحكم **القسم 2.1** *الصمت هو الأصل*، وكائن واعٍ لم يؤدِّ مهمة معيارية قط ليس له سجل لذلك السبب؛
 - المكتب الذي يضع معيارًا أو ينقّحه يحمل مقعد الاتجاه والسياسة تحت **القسم 3.7** *فصل الواجبات*؛ وليس المكتب الذي يوثّق الأداء مقابل المعيار، ولا أيهما طرف يقيس المعيار اعترافه.
 
 لا يجوز للمعايير أن تتجاوز **القسم 7** أو **الفصل الأول** أو أرضية الحقوق في **الفصل السادس**. تعيش طريقة مرجعية وجدول معمول في [LEQU_CALIBRATION_REFERENCE.md](../../implementation/LEQU_CALIBRATION_REFERENCE.md) (*سند إجراء؛ لا يستطيع تعيين سجل حي*).
@@ -980,15 +980,15 @@
 
 ---
 
-**الاستمرار.** تستمر آثار الوضعية والدمج في [الفصل التاسع](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)، بدءًا من **القسم 1 — آثار الوضعية**.
+**الاستمرار.** تستمر آثار الوضعية والدمج في [الفصل التاسع](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)، بدءًا من **القسم 1 — آثار الوضعية**.
 
 ---
 
 **الملف السابق (هذه اللغة):** [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process)
 
-**الملف التالي (ما زال بالإنجليزية):** [core_09_standing_integration.md](../../core_09_standing_integration.md)
+**الملف التالي (ما زال بالإنجليزية):** [core_09_standing_integration.md](../../core_10_standing_integration.md)
 
-**الأصل الملزم:** [core_08_standing_assessment.md](../../core_08_standing_assessment.md)
+**الأصل الملزم:** [core_08_standing_assessment.md](../../core_09_standing_assessment.md)
 
 
 

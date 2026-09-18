@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Sixteen](../core_16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*).
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*).
 >
 > Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-5.1: Shared anti-capture floors](#ci-51-shared-anti-capture-floors); [CI-5.2: Institutional owner files and named routes](#ci-52-institutional-owner-files-and-named-routes); [CI-5.3: Integrity trigger taxonomy and cross-layer routing (control package)](#ci-53-integrity-trigger-taxonomy-and-cross-layer-routing-control-package).
 - Read with: **CI-5**; **CI-5.1**; **CI-5.2**; **CI-5.3**; **CI-7.2**; **CI-8**; **CI-11**; **CI-13**; **CI-6**.
 - Topic routing (mandatory read-with): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-0.1** (*Topic router*); primary owner **CF-4**.
@@ -99,7 +99,7 @@ Each institution must also name:
 
 <br>
 
-*In plain terms: institutions use a common set of trigger labels — corruption, fraud, self-dealing, procurement capture, and the rest — so training, control maps, and routing stay consistent. Shared cross-layer routing lives in **CJS-3.6** (*integrity assurance and resilience operations*); contribution, violation, and standing measurement stays in **Chapter Eight** and **Chapter Ten**.*
+*In plain terms: institutions use a common set of trigger labels — corruption, fraud, self-dealing, procurement capture, and the rest — so training, control maps, and routing stay consistent. Shared cross-layer routing lives in **CJS-3.6** (*integrity assurance and resilience operations*); contribution, violation, and standing measurement stays in **Chapter Nine** and **Chapter Eleven**.*
 
 This subsection names institutional trigger labels for **CI-5** control maps and training. Apply **CJS-3.6** **Integrity-trigger routing chain** for shared cross-layer traceability.
 
@@ -121,7 +121,7 @@ When a trigger fires, route it to the correct owner section — not every proble
 - applicable **CF** sections — forum-side support; and
 - **CI-11**, **CI-13** — sanctions where misconduct is confirmed.
 
-Contribution, violation, standing, and Violation Axis measurement remain under **Chapter Eight** and **Chapter Ten**.
+Contribution, violation, standing, and Violation Axis measurement remain under **Chapter Nine** and **Chapter Eleven**.
 
 ---
 

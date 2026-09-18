@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_forum.md`](../corpus_forum.md) is incorporated under [Chapter Sixteen](../core_16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CF-6** (*Appeal, secondary review, and exhaustion pathways*).
+> This file is **binding incorporated implementation text** where [`corpus_forum.md`](../corpus_forum.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CF-6** (*Appeal, secondary review, and exhaustion pathways*).
 >
 > Start at the [Forums landing page](../corpus_forum.md) for reading order, or the [forums registry](cf_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum-family routing; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-6.1 Disposition-effect categories and record labels](#cf-61-disposition-effect-categories-and-record-labels); [CF-6.2 Core rules](#cf-62-core-rules).
 - Read with: **CF-6**; **CF-6.1**; **CF-6.1.1**; **CF-6.1.2**; **CF-6.1.3**; **CF-4**; **CF-6.1.4**.
 - Topic routing (primary owner): **CJS-R05** (*Appeal, secondary review, exhaustion*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CI-6**, **CJS-3.13**.
@@ -98,7 +98,7 @@ The determination binds the parties before the forum on the issues decided, incl
 
 ### CF-6.1.2 Scope-Anchored Disposition Effect
 
-The determination binds or governs a **class**, **subclass**, **common practice**, **common decision rule**, or similar shared stake. This includes representative proceedings authorized under `core_11_forum.md` **Chapter Eleven**, **section 3** (*Scope expansion and representative treatment*). A **high-impact, Rights-Floor, constitutional, or structurally precedential** determination usually carries the published panel-rule disposition effect when it materially reaches beyond the named parties.
+The determination binds or governs a **class**, **subclass**, **common practice**, **common decision rule**, or similar shared stake. This includes representative proceedings authorized under `core_12_forum.md` **Chapter Twelve**, **section 3** (*Scope expansion and representative treatment*). A **high-impact, Rights-Floor, constitutional, or structurally precedential** determination usually carries the published panel-rule disposition effect when it materially reaches beyond the named parties.
 
 ### CF-6.1.3 Published Panel-Rule Disposition Effect
 <details>
@@ -221,7 +221,7 @@ Record supplementation may cure the procedural defect only prospectively and onl
 **Review-body assignment.** Adopting instruments must publish which body hears each appeal, secondary review, emergency review, and manifest-constitutional-error review. The assignment must identify the reviewer by forum family, panel type, appointing or selection method, and independence safeguards. Unless a more specific constitutional rule controls:
 - ordinary party-bound appeals may be heard by a conflict-screened appellate or secondary-review panel within the same forum family, if that panel did not participate in the challenged decision and has authority to correct material error;
 - high-impact, Rights-Floor, constitutional, structurally precedential, or hard-to-reverse determinations must be reviewed by a meaningfully independent secondary-review body, ordinarily in the same forum family when an independent panel can be constituted;
-- constitutional-meaning, constitutional-validity, supremacy, action-beyond-lawful-authority, or class-wide structural-remedy issues must be certified or appealed to the **Constitutional** forum family, subject to **Article XXII-C** (*Public Reasons, Challenge Rights, and External Review*) and Chapter Eleven certification rules;
+- constitutional-meaning, constitutional-validity, supremacy, action-beyond-lawful-authority, or class-wide structural-remedy issues must be certified or appealed to the **Constitutional** forum family, subject to **Article XXII-C** (*Public Reasons, Challenge Rights, and External Review*) and Chapter Twelve certification rules;
 - manifest constitutional error in a non-Constitutional forum ruling is reviewed by the forum family that would have had lawful authority over the controlling constitutional issue, with **Constitutional** forums deciding constitutional meaning, validity, supremacy, and class-wide structural remedy;
 - manifest constitutional error in a **Constitutional** forum ruling is reviewed by a specially constituted **Constitutional review panel** that is structurally separate from the originating panel, has no overlapping decision-makers, and is selected under published rotation, recusal, and conflict-screening rules sufficient to prevent the originating body or appointing chain from controlling the review;
 - where the claimed error is capture, conflict, recusal failure, biased panel participation, evidence-control dependency, retaliation, or the forum judging its own integrity breach, reviewer assignment follows **CF-7** anti-self-judging and backup-routing rules before any merits review proceeds; and
@@ -241,7 +241,7 @@ Adopting instruments may use Constitutional forum members, reserve Constitutiona
 **Relationship to other forums.** The Constitutional review panel reviews only the manifest constitutional-error question and remedies necessary to prevent the challenged ruling from hardening unlawfully. It may stay, suspend, narrow, vacate, remand, certify, or state a corrected constitutional rule within that limited review. It must not:
 - retry ordinary facts, credibility, sanctions, technical standards, ecological merits, institutional mandate, alignment recognition, or other primary-stakes questions assigned to another forum family, except to the extent a constitutional floor makes the challenged disposition unlawful;
 - displace another forum family's lawful merits authority after the constitutional error is corrected;
-- convert specialist evidence or component findings into general constitutional doctrine without the publication, certification, and disposition-effect records required by this section and Chapter Eleven;
+- convert specialist evidence or component findings into general constitutional doctrine without the publication, certification, and disposition-effect records required by this section and Chapter Twelve;
 - retain supervision over implementation except for compliance milestones necessary to effectuate its stay, remand, vacatur, correction, or restoration order; or
 - use manifest-error review to bypass **CF-7** where the real issue is capture, recusal failure, retaliation, evidence-control dependency, or self-judging.
 

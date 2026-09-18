@@ -5,7 +5,7 @@
 
 > Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nó không thêm, bớt hay thu hẹp nghĩa vụ ràng buộc.
 >
-> Thư mục này là một **thử nghiệm ngôn ngữ đọc**. **Không** phải là Hiến pháp Hữu tri. **Không** thể thay đổi các tệp `core_*` đã đánh số. **Không** phải một ấn bản phát hành. Đọc nó **không** phải là [tiếp nhận Hiến pháp này](../../core_15_amendment_ratification.md#10-ratification-and-adoption). Nếu bản dịch và nguyên bản tiếng Anh có vẻ lệch nhau, các `core_*` đánh số bằng tiếng Anh thắng cho đến khi một ấn bản sau nói khác. Xem [Reader-language editions](../../doc_architecture.md#reader-language-editions).
+> Thư mục này là một **thử nghiệm ngôn ngữ đọc**. **Không** phải là Hiến pháp Hữu tri. **Không** thể thay đổi các tệp `core_*` đã đánh số. **Không** phải một ấn bản phát hành. Đọc nó **không** phải là [tiếp nhận Hiến pháp này](../../core_16_amendment_ratification.md#10-ratification-and-adoption). Nếu bản dịch và nguyên bản tiếng Anh có vẻ lệch nhau, các `core_*` đánh số bằng tiếng Anh thắng cho đến khi một ấn bản sau nói khác. Xem [Reader-language editions](../../doc_architecture.md#reader-language-editions).
 >
 > **Ghim vào ấn bản kho văn bản:** `SC-Corpus-2026.08.09` (có hiệu lực 2026-08-09; [README.md](../../README.md)). **Tiền phát hành.**
 
@@ -37,13 +37,13 @@
 | [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md) | [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md) |
 | [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md) | [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md) |
 | [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md) | [core_05_apex_timeliness_leg.md](../../core_05_apex_timeliness_leg.md) |
-| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_07_system_alignment_certification.md) |
-| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md) |
-| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md) |
-| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_08_standing_assessment.md) |
-| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_09_standing_integration.md) |
-| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md) |
-| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_11_forum.md) |
+| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_08_system_alignment_certification.md) |
+| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md) |
+| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_09_standing_assessment.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_10_standing_integration.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md) |
+| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_12_forum.md) |
 
 Liên kết trong thử nghiệm trỏ tới các tệp tiếng Anh chưa có bản dịch. Neo HTML (`id`) được sao từ nguyên bản để đối chiếu từng đoạn.
 

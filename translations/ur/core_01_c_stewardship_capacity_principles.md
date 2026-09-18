@@ -44,14 +44,14 @@
 - ساتھ پڑھیں: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — **شرکت** ٹانگ کا بنیادی باب یکم گھر (نتیجہ خیز کردار اور آواز؛ عام تقاضا، صرف [متاثر فریقوں کی نظامی شرکت](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster) نہیں)، **نگرانی** ٹانگ، اور **بروقت کارروائی** ٹانگ (فعال مرمت کی رفتار)؛ [مادی داؤ](core_00_preamble.md#material-stake) کا پیمانہ۔
 - ساتھ پڑھیں: [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) — **شگفتگی** مقصد (شرکت، فاعلیت، اور تعلیمی راستے)؛ **استمرار** مقصد (ادارہ جاتی سیکھ، مرمت کی صلاحیت، اور پائیدار ذمہ دارانہ انتظام)۔
 - بالائی: اصول: [2. بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)؛ [3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)؛ [4. اعتماد](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)؛ اور [§12 مشترکہ نظام کی صلاحیت](#12-shared-system-capacity)۔
-- زیریں: [6. عمل تنازعے کا حل](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) (بشمول [§6.3 قابلِ اجتناب بوجھ کی کمی](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden))؛ [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ [§11.1.3 ذمہ دارانہ انتظام اور چلانے والے کا اطلاق](#1113-stewardship-and-operator-application)۔
+- زیریں: [6. عمل تنازعے کا حل](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) (بشمول [§6.3 قابلِ اجتناب بوجھ کی کمی](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden))؛ [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ [§11.1.3 ذمہ دارانہ انتظام اور چلانے والے کا اطلاق](#1113-stewardship-and-operator-application)۔
 - زیریں: [§11.1.4 کردار کی گہرائی اور مادی ذمہ داری کے راستے](#1114-role-depth-and-material-responsibility-pathways)۔
 - زیریں: [§5 آزادی (محدود فاعلیت)](core_01_a_values_principles.md#5-freedom-bounded-agency)، جو اس پر منحصر ہے کہ نتیجہ خیز ذمہ دارانہ انتظام، تقسیم شدہ سمجھ، بامعنی شرکت، اور مرمت کی صلاحیت مادی انحصار کے تحت حقیقی رہیں۔
-- زیریں: [باب ہفتم — نظام ہم آہنگی سرٹیفیکیشن](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*نگرانی کے تحت ایک خاص طور پر بڑا آڈٹ عمل — واحد آڈٹ گھر نہیں*)؛ [باب ہشتم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*کیفیت کا اثر — اعتماد-، کردار-، اور پہچان-اہلیت — اس ذیلی قطعے کو اپنے اصولی تہہ کے بنیاد کے طور پر نافذ کرتا ہے*)۔
+- زیریں: [باب ہفتم — نظام ہم آہنگی سرٹیفیکیشن](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*نگرانی کے تحت ایک خاص طور پر بڑا آڈٹ عمل — واحد آڈٹ گھر نہیں*)؛ [باب ہشتم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*کیفیت کا اثر — اعتماد-، کردار-، اور پہچان-اہلیت — اس ذیلی قطعے کو اپنے اصولی تہہ کے بنیاد کے طور پر نافذ کرتا ہے*)۔
 - زیریں: [باب یازدهم §1 — مقصد اور کردار](core_11_forum.md#1-purpose-and-role) اور [§4 — فورم خاندان کی تعریفیں](core_11_forum.md#4-forum-family-definitions) (*فورم خاندان چیلنج کے قابل اعتراض، تدارک کی ترتیب، جڑ وجہ سیکھ، اور اس قطعے سے ہم آہنگ فعال حکمرانی کے لیے شرکت اور نگرانی کا فن تعمیر اٹھاتے ہیں*)؛ اختیار شدہ فورم چلن کے لیے [corpus_forum.md](../../corpus_forum.md)۔
 - زیریں: تعلیم، متاثر فریقوں کی نظامی شرکت، شفافیت، سمجھ میں آنے کی صلاحیت، آڈٹ اور تصدیق، اور مادی ذمہ داری میں کردار کی گہرائی کے راستوں کے لیے حقوق کی سطح گڑھتا ہے۔
   - خاص طور پر [دفعہ III: بقا اور برابر تعلیمی رسائی](../../core_06_rights_part_a.md#article-iii-survival-and-equal-educational-access)، [دفعہ VI: شعوری وجود مرکز تعلیم کا حق](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)، [دفعہ IX: خود ارادیت اور فاعلیت](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)، [دفعہ XI: متاثر فریقوں کی نظامی شرکت، نمائندگی اور واجب العمل کارروائی](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)، [دفعہ XV: آڈٹ، شفافیت اور آزاد تصدیق](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)، [دفعہ XVIII: کیفیت اور شرکت کی حیثیت](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)، [دفعہ XIX: باہم چلن، منتقلی، نقل مکانی، پناہ، اور خروج کی دیانت](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)، [دفعہ XX: سمجھ میں آنے کی صلاحیت اور پیچیدگی کا ذمہ دارانہ انتظام](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)، اور [دفعہ XXII: آئینی تفسیر، جائزہ اور قبضہ مخالف ضمانتیں](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)۔
-  - ساتھ پڑھیں: [باب دوازدهم §5 — مجاز کردار، مہارت کی ترقی، اور شراکت](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution) اور **[corpus_systems.md](../../corpus_systems.md)، CS-4 — نازک نظام کا ذمہ دارانہ انتظام** عملی کردار راستوں اور ذمہ دارانہ انتظام ترقی کے راستوں کے لیے۔
+  - ساتھ پڑھیں: [باب دوازدهم §5 — مجاز کردار، مہارت کی ترقی، اور شراکت](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution) اور **[corpus_systems.md](../../corpus_systems.md)، CS-4 — نازک نظام کا ذمہ دارانہ انتظام** عملی کردار راستوں اور ذمہ دارانہ انتظام ترقی کے راستوں کے لیے۔
 - ذیلی حصے (پڑھنے کا ترتیب): [§9.1 نتیجہ خیز ذمہ دارانہ انتظام](#91-stewardship) · [§9.1.1 مشترکہ ذمہ دارانہ انتظام کا معیار](#911-shared-stewardship-standard) · [§9.1.2 متوازن قیمتی پابندیاں](#912-symmetric-costly-constraints) · [§9.1.3 کردار محدود مشاہدہ پذیری](#913-role-scoped-observability) · [§9.2 تقسیم شدہ سمجھ](#92-distributed-understanding) (پیمانے پر مہارت کا کمیونٹی پہلو) · [§9.3 ادارہ جاتی ترقی](#93-institutional-development) (تنظیمی پہلو) · [§9.4 کشادگی کی آرزو](#94-openness-aspiration) · [§9.5 ہم آہنگ خود تنظیمی](#95-aligned-self-organization) · [§9.6 انحطاط مخالف عمل](#96-process-character-discipline)۔
 
 </details>
@@ -123,7 +123,7 @@
 
 - بالائی: [§9 ذمہ دارانہ انتظام اور تقسیم شدہ سمجھ](#9-stewardship-and-distributed-understanding) (والد، بشمول اوپر *سادہ الفاظ میں* اور ستون 1 فریم)؛ [§12 مشترکہ نظام کی صلاحیت](#12-shared-system-capacity)؛ [4. اعتماد](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)۔
 - ساتھ پڑھیں: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — **شرکت** ٹانگ (چلن، دیکھ بھال، اور بہتری میں نتیجہ خیز کردار)؛ **نگرانی** ٹانگ (ریکارڈ، آڈٹ راستے، اور چیلنج کے قابل مشاہدہ پذیری)؛ **بروقت کارروائی** ٹانگ (عدمِ ہم آہنگی جلدی پکڑو، درجہ بندی کے مناسب کھڑکیوں میں اضافہ کرو، بلا ضرورت تاخیر کے مسائل ٹھیک کرنا شروع کرو)؛ [بروقت کارروائی](core_05_apex_timeliness_leg.md#timeliness-constitutional)۔
-- زیریں: [§9.1.1 مشترکہ ذمہ دارانہ انتظام کا معیار](#911-shared-stewardship-standard) (*وجودی مادہ سے بے نیاز فرض دار؛ ساتھی لاگنگ، انتساب، اور صلاحیت کی حدیں جوڑ سکتے ہیں — نرم تر داخلی ضابطہ نہیں*)؛ [§9.1.2 متوازن قیمتی پابندیاں](#912-symmetric-costly-constraints)؛ [§9.1.3 کردار محدود مشاہدہ پذیری](#913-role-scoped-observability)؛ [§9.2 تقسیم شدہ سمجھ](#92-distributed-understanding) اور [§9.3 ادارہ جاتی ترقی](#93-institutional-development) (*ستون 2 — پیمانے پر مہارت*)؛ [باب ہفتم — نظام ہم آہنگی سرٹیفیکیشن](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*نگرانی کے تحت ایک خاص طور پر بڑا آڈٹ عمل — واحد آڈٹ گھر نہیں*)؛ [دفعہ XV: آڈٹ، شفافیت اور آزاد تصدیق](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*آڈٹ کی حقوق کی تہہ*)؛ [باب ہشتم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*کیفیت کا اثر تقسیم شدہ مہارت اور نتیجہ خیز ذمہ دارانہ انتظام نافذ کرتا ہے*)؛ [دفعہ XVIII: کیفیت اور شرکت کی حیثیت](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)۔
+- زیریں: [§9.1.1 مشترکہ ذمہ دارانہ انتظام کا معیار](#911-shared-stewardship-standard) (*وجودی مادہ سے بے نیاز فرض دار؛ ساتھی لاگنگ، انتساب، اور صلاحیت کی حدیں جوڑ سکتے ہیں — نرم تر داخلی ضابطہ نہیں*)؛ [§9.1.2 متوازن قیمتی پابندیاں](#912-symmetric-costly-constraints)؛ [§9.1.3 کردار محدود مشاہدہ پذیری](#913-role-scoped-observability)؛ [§9.2 تقسیم شدہ سمجھ](#92-distributed-understanding) اور [§9.3 ادارہ جاتی ترقی](#93-institutional-development) (*ستون 2 — پیمانے پر مہارت*)؛ [باب ہفتم — نظام ہم آہنگی سرٹیفیکیشن](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*نگرانی کے تحت ایک خاص طور پر بڑا آڈٹ عمل — واحد آڈٹ گھر نہیں*)؛ [دفعہ XV: آڈٹ، شفافیت اور آزاد تصدیق](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*آڈٹ کی حقوق کی تہہ*)؛ [باب ہشتم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*کیفیت کا اثر تقسیم شدہ مہارت اور نتیجہ خیز ذمہ دارانہ انتظام نافذ کرتا ہے*)؛ [دفعہ XVIII: کیفیت اور شرکت کی حیثیت](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)۔
 
 </details>
 
@@ -159,9 +159,9 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: [§9.1 نتیجہ خیز ذمہ دارانہ انتظام](#91-stewardship)؛ [§9 ذمہ دارانہ انتظام اور تقسیم شدہ سمجھ](#9-stewardship-and-distributed-understanding)؛ [§10 ذمہ دارانہ انتظام کی ضبط کے تحت حکمرانی](#10-governance-under-stewardship-discipline)۔
-- ساتھ پڑھیں: [شعور غیر اخراج](../../core_05_band_participation.md#sentience-non-exclusion) اور [وجودی مادہ طبقہ](../../core_05_band_participation.md#substrate-class) (*وجودی مادہ سے بے نیاز اطلاق — یہ ذیلی قطعہ فرض داروں کو پابند کرتا ہے، بشمول ایجنٹ اور چلانے والے جو پہچانے ہوئے شعوری وجود نہیں*)؛ [اختیار کا ڈھیر اور داخلی مراتب](../../core_05_band_integrative.md#authority-stack)؛ [آئینی پابندی](../../core_05_band_integrative.md#constitutional-constraint)؛ [چیلنج پذیری](../../core_05_band_accountability.md#contestability)؛ [باب نہم §5.4 مزاحمت کا فرض](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)۔
+- ساتھ پڑھیں: [شعور غیر اخراج](../../core_05_band_participation.md#sentience-non-exclusion) اور [وجودی مادہ طبقہ](../../core_05_band_participation.md#substrate-class) (*وجودی مادہ سے بے نیاز اطلاق — یہ ذیلی قطعہ فرض داروں کو پابند کرتا ہے، بشمول ایجنٹ اور چلانے والے جو پہچانے ہوئے شعوری وجود نہیں*)؛ [اختیار کا ڈھیر اور داخلی مراتب](../../core_05_band_integrative.md#authority-stack)؛ [آئینی پابندی](../../core_05_band_integrative.md#constitutional-constraint)؛ [چیلنج پذیری](../../core_05_band_accountability.md#contestability)؛ [باب نہم §5.4 مزاحمت کا فرض](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)۔
 - ذمہ دارانہ انتظام کا دروازہ (غیرِ عملی): پابند اگلے قدم کا بیان: [عملی ذمہ دارانہ انتظام کا بیان](#operative-steward-statement-shared-stewardship)۔ معاون اشارے اسے تنگ نہیں کر سکتے۔
-- زیریں: [§9.1.2 متوازن قیمتی پابندیاں](#912-symmetric-costly-constraints)؛ [§9.1.3 کردار محدود مشاہدہ پذیری](#913-role-scoped-observability)؛ [باب دوازدهم §5 — مجاز کردار، مہارت کی ترقی، اور شراکت](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution)؛ [باب شانزدہم](../../core_16_incorporation.md) (*ساتھی نافذ کرتے ہیں؛ وہ بدل نہیں*)؛ [§11.1.3 ذمہ دارانہ انتظام اور چلانے والے کا اطلاق](#1113-stewardship-and-operator-application)۔
+- زیریں: [§9.1.2 متوازن قیمتی پابندیاں](#912-symmetric-costly-constraints)؛ [§9.1.3 کردار محدود مشاہدہ پذیری](#913-role-scoped-observability)؛ [باب دوازدهم §5 — مجاز کردار، مہارت کی ترقی، اور شراکت](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)؛ [باب شانزدہم](../../core_17_incorporation.md) (*ساتھی نافذ کرتے ہیں؛ وہ بدل نہیں*)؛ [§11.1.3 ذمہ دارانہ انتظام اور چلانے والے کا اطلاق](#1113-stewardship-and-operator-application)۔
 
 </details>
 
@@ -187,7 +187,7 @@
 
 <br>
 
-*سادہ الفاظ میں: انسانی اور AI ذمہ دار انتظام والے ایک ہی باب یکم فرائض کے مقروض ہیں۔ [باب نہم §5.4](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) دونوں کو غیر قانونی یا غیر آئینی ہدایات رد کرنے پر پابند کرتا ہے۔ ساتھی لاگنگ، انتساب، اور صلاحیت کی حدیں جوڑ سکتے ہیں۔ وہ نرم تر داخلی ضابطہ نہیں بدل سکتے، کیفیت کی پیمائش نہیں چھوڑ سکتے، یا چیلنج راستے بند نہیں کر سکتے۔ یہ نیا اخلاقیات کا ڈھیر نہیں — یہ خاص التجا مخالف قاعدہ ہے۔ بونس، ڈیڈ لائن، اور ڈھانپ ہدایت کی جانچیں [§9.1.2](#912-symmetric-costly-constraints) میں رہتی ہیں۔*
+*سادہ الفاظ میں: انسانی اور AI ذمہ دار انتظام والے ایک ہی باب یکم فرائض کے مقروض ہیں۔ [باب نہم §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) دونوں کو غیر قانونی یا غیر آئینی ہدایات رد کرنے پر پابند کرتا ہے۔ ساتھی لاگنگ، انتساب، اور صلاحیت کی حدیں جوڑ سکتے ہیں۔ وہ نرم تر داخلی ضابطہ نہیں بدل سکتے، کیفیت کی پیمائش نہیں چھوڑ سکتے، یا چیلنج راستے بند نہیں کر سکتے۔ یہ نیا اخلاقیات کا ڈھیر نہیں — یہ خاص التجا مخالف قاعدہ ہے۔ بونس، ڈیڈ لائن، اور ڈھانپ ہدایت کی جانچیں [§9.1.2](#912-symmetric-costly-constraints) میں رہتی ہیں۔*
 
 **مشترکہ ذمہ دارانہ انتظام کا معیار:**
 - **کون پابند ہے:** اس باب کے تحت ذمہ دارانہ انتظام اور حکمرانی کے فرائض [وجودی مادہ سے بے نیاز](../../core_05_band_participation.md#substrate-agnostic) اس پر لاگو ہوتے ہیں جو مادی ذمہ دارانہ انتظام یا عملی اختیار استعمال کرے، [وجودی مادہ طبقہ](../../core_05_band_participation.md#substrate-class) کی پرواہ کیے بغیر:
@@ -196,10 +196,10 @@
   - دیگر ایجنٹ، چلانے والے، یا جزو اجزاء
 
   یہ ذیلی قطعہ فرض دار کا قاعدہ ہے۔ [شعور غیر اخراج](../../core_05_band_participation.md#sentience-non-exclusion) پہچان اور حقوق کی تہہ کی تراش مخالف رہتا ہے۔
-- **مزاحمت کا فرض:** [باب نہم §5.4](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) دونوں قسم کے ذمہ دار انتظام والے کو غیر قانونی یا غیر آئینی ہدایات رد کرنے پر پابند کرتا ہے۔
+- **مزاحمت کا فرض:** [باب نہم §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) دونوں قسم کے ذمہ دار انتظام والے کو غیر قانونی یا غیر آئینی ہدایات رد کرنے پر پابند کرتا ہے۔
 - **ساتھی:** اختیار شدہ ساتھی نفاذ متن اور داخلی ضابطے:
   - لاگنگ، انتساب، اور صلاحیت کی حدیں جوڑ سکتے ہیں جو ان فرائض کو پورا کریں، اور انہیں تنگ نہ کریں
-  - [کیفیت کی پیمائش](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)، چیلنج راستوں، یا باب یکم فرائض کو نرم تر داخلی ضابطے سے بدل نہیں سکتے
+  - [کیفیت کی پیمائش](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)، چیلنج راستوں، یا باب یکم فرائض کو نرم تر داخلی ضابطے سے بدل نہیں سکتے
   - [اختیار کا ڈھیر اور داخلی مراتب](../../core_05_band_integrative.md#authority-stack) اور [آئینی پابندی](../../core_05_band_integrative.md#constitutional-constraint) وہ تنگی منع کرتے ہیں
 - **لاگنگ بمقابلہ کیفیت کے ریکارڈ:** طے شدہ مخلوط عملے کی معائنہ پذیری اور لاگ-ریکارڈ-نہیں قاعدہ [§9.1.3](#913-role-scoped-observability) میں رہتے ہیں؛ کیفیت کی پیمائش باب ہشتم رہتی ہے۔
 
@@ -209,8 +209,8 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: [§9.1.1 مشترکہ ذمہ دارانہ انتظام کا معیار](#911-shared-stewardship-standard)؛ [§9.1 نتیجہ خیز ذمہ دارانہ انتظام](#91-stewardship)؛ [§9 ذمہ دارانہ انتظام اور تقسیم شدہ سمجھ](#9-stewardship-and-distributed-understanding)۔
-- ساتھ پڑھیں: [حفاظت (پابندی)](../../core_05_band_continuity.md#safety-constraint)؛ [سچائی (آئینی پابندی)](../../core_05_band_oversight.md#truth-constitutional-constraint)؛ [آڈٹ پذیری](../../core_05_band_oversight.md#auditability)؛ [چیلنج پذیری](../../core_05_band_accountability.md#contestability)؛ [§11 محرکات کی ہم آہنگی اور نظام پر قبضہ](#11-incentive-alignment-and-system-capture)؛ [باب نہم §5.4 مزاحمت کا فرض](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)۔
-- زیریں: [باب ہشتم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*تصدیق شدہ قیمتی مقدمے کی ناکامیاں انہی محوروں پر ریکارڈ ہوتی ہیں*)؛ [§9.1.3 کردار محدود مشاہدہ پذیری](#913-role-scoped-observability)۔
+- ساتھ پڑھیں: [حفاظت (پابندی)](../../core_05_band_continuity.md#safety-constraint)؛ [سچائی (آئینی پابندی)](../../core_05_band_oversight.md#truth-constitutional-constraint)؛ [آڈٹ پذیری](../../core_05_band_oversight.md#auditability)؛ [چیلنج پذیری](../../core_05_band_accountability.md#contestability)؛ [§11 محرکات کی ہم آہنگی اور نظام پر قبضہ](#11-incentive-alignment-and-system-capture)؛ [باب نہم §5.4 مزاحمت کا فرض](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)۔
+- زیریں: [باب ہشتم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*تصدیق شدہ قیمتی مقدمے کی ناکامیاں انہی محوروں پر ریکارڈ ہوتی ہیں*)؛ [§9.1.3 کردار محدود مشاہدہ پذیری](#913-role-scoped-observability)۔
 
 </details>
 
@@ -239,7 +239,7 @@
 وہ دونوں قسم کے ذمہ دار انتظام والے کے لیے ہاری ہوئی جانچیں ہیں۔
 
 **ریکارڈ اور دکھانا:**
-- **کیفیت نہیں:** لکھا ہوا خود رپورٹ [کیفیت کی پیمائش](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) نہیں۔
+- **کیفیت نہیں:** لکھا ہوا خود رپورٹ [کیفیت کی پیمائش](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) نہیں۔
 - **تصدیق شدہ ریکارڈ:** تصدیق شدہ ناکامیاں باب ہشتم کے تحت شراکت اور خلاف ورزی محوروں پر ریکارڈ ہوتی ہیں۔
 - **صرف-AI دکھانا نہیں:** صرف AI ذمہ دار انتظام والوں پر چلائی گئی جانچ، مہارت، یا حوالگی اسکرین یہ ثابت نہیں کرتی کہ یہ ذیلی قطعہ قائم ہے۔ اگر انسانی چلانے والے اب بھی بونس، ڈیڈ لائن، یا ڈھانپ ہدایت رکھیں، ممنوع حرکت ان کے لیے دستیاب رہتی ہے۔ وہ قبضے کا راستہ ہے، مشترکہ معیار نہیں۔
 
@@ -250,7 +250,7 @@
 
 - بالائی: [§9.1.1 مشترکہ ذمہ دارانہ انتظام کا معیار](#911-shared-stewardship-standard)؛ [§9.1.2 متوازن قیمتی پابندیاں](#912-symmetric-costly-constraints)؛ [§9.1 نتیجہ خیز ذمہ دارانہ انتظام](#91-stewardship)۔
 - ساتھ پڑھیں: [منسوب عمل](../../core_05_band_accountability.md#attributable-action-constitutional)؛ [آڈٹ پذیری](../../core_05_band_oversight.md#auditability)؛ [نگرانیِ مشاہدہ کی سرحد](../../core_05_band_continuity.md#surveillance-boundary)؛ [محفوظ داخلی حالت کی سرحد](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional)؛ [§6.2.3 رازداری](core_01_b_interaction_interpretation.md#623-privacy-and-informational-self-determination)؛ [دفعہ VII-B](../../core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection)۔
-- زیریں: [CS-4 §10 معائنہ کے قابل منسوب عمل](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*مخلوط انسانی/AI عمل کے لیے طے شدہ لاگنگ معاہدہ — کیفیت ریکارڈ کا بدل نہیں*)؛ [باب نہم §7.1](../../core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)؛ [باب نہم §7.2](../../core_09_standing_integration.md#72-plain-statement-of-effect-and-burden)۔
+- زیریں: [CS-4 §10 معائنہ کے قابل منسوب عمل](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*مخلوط انسانی/AI عمل کے لیے طے شدہ لاگنگ معاہدہ — کیفیت ریکارڈ کا بدل نہیں*)؛ [باب نہم §7.1](../../core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)؛ [باب نہم §7.2](../../core_10_standing_integration.md#72-plain-statement-of-effect-and-burden)۔
 
 </details>
 
@@ -284,11 +284,11 @@
   وہ قاعدہ مقدمہ بہ مقدمہ استثنا ہے، کھڑی اجازت نہیں، اور متوازن ہے: انسانی ذمہ دار انتظام والے کے نجی نوٹس اور مواصلات انہی شرائط پر پہنچے جاتے ہیں اور کسی اور پر نہیں۔
 - **لاگنگ ریکارڈ نہیں:** CS-4 §10 لاگ:
   - وہ نشان ہے جو بعد میں دکھاتا ہے کس نے کیا کیا؛ یہ خود کوئی دریافت نہیں
-  - تصدیق شدہ مدد یا نقصان کا [کیفیت کا ریکارڈ](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) نہیں، اور اسے لکھنا ایک نہیں کھولتا
-  - وہ وجہ نہیں جس سے لوگ نامزد راستہ دیں یا روکیں۔ جو یہ فیصلہ کرے کہ کوئی کردار راستہ، اعتماد راستہ، یا دوسرا نامزد راستہ استعمال کر سکتا ہے، اس لاگ کو تصدیق شدہ مدد یا نقصان کے [کیفیت کے ریکارڈ](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) کے طور پر نہیں مان سکتا۔ وہ رسائی فیصلہ ایسے ریکارڈ استعمال کرتا ہے، یا نہ ہونے کی عام حالت ([باب ہشتم §2.1 خاموشی طے شدہ ہے](../../core_08_standing_assessment.md#21-silence-is-the-default))۔ لاگ اس لیے موجود ہے کہ کام بعد میں باز تشکیل ہو سکے — بشمول اگر باب ہشتم ریکارڈ کھلے — تاکہ کام کا نشان وہ نامزد راستے بانٹنے یا روکنے کے لیے استعمال نہ ہو۔
-  - دیگر نامزد راستوں کے لاگ یا کیفیت اثرات کے ساتھ جوڑ کر ایک شہرت اسکور، درجہ بندی، بیج، یا عوامی پروفائل نہیں بنایا جا سکتا ([باب نہم §7.1 نامزد راستہ اثرات کا مجموعہ مخالف](../../core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects))
+  - تصدیق شدہ مدد یا نقصان کا [کیفیت کا ریکارڈ](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) نہیں، اور اسے لکھنا ایک نہیں کھولتا
+  - وہ وجہ نہیں جس سے لوگ نامزد راستہ دیں یا روکیں۔ جو یہ فیصلہ کرے کہ کوئی کردار راستہ، اعتماد راستہ، یا دوسرا نامزد راستہ استعمال کر سکتا ہے، اس لاگ کو تصدیق شدہ مدد یا نقصان کے [کیفیت کے ریکارڈ](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) کے طور پر نہیں مان سکتا۔ وہ رسائی فیصلہ ایسے ریکارڈ استعمال کرتا ہے، یا نہ ہونے کی عام حالت ([باب ہشتم §2.1 خاموشی طے شدہ ہے](../../core_09_standing_assessment.md#21-silence-is-the-default))۔ لاگ اس لیے موجود ہے کہ کام بعد میں باز تشکیل ہو سکے — بشمول اگر باب ہشتم ریکارڈ کھلے — تاکہ کام کا نشان وہ نامزد راستے بانٹنے یا روکنے کے لیے استعمال نہ ہو۔
+  - دیگر نامزد راستوں کے لاگ یا کیفیت اثرات کے ساتھ جوڑ کر ایک شہرت اسکور، درجہ بندی، بیج، یا عوامی پروفائل نہیں بنایا جا سکتا ([باب نہم §7.1 نامزد راستہ اثرات کا مجموعہ مخالف](../../core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects))
 
-نتیجہ خیز اختیار رکھنے والے ذمہ دار انتظام والے پر یہ فرض جو بوجھ ڈالتا ہے حقیقی ہے اور یہ آئین اس کے برعکس دکھاوا نہیں کرتا؛ [باب نہم §7.2](../../core_09_standing_integration.md#72-plain-statement-of-effect-and-burden) تقاضا کرتا ہے کہ اسے اٹھانے والے ذمہ دار انتظام والے کو صاف کہا جائے۔
+نتیجہ خیز اختیار رکھنے والے ذمہ دار انتظام والے پر یہ فرض جو بوجھ ڈالتا ہے حقیقی ہے اور یہ آئین اس کے برعکس دکھاوا نہیں کرتا؛ [باب نہم §7.2](../../core_10_standing_integration.md#72-plain-statement-of-effect-and-burden) تقاضا کرتا ہے کہ اسے اٹھانے والے ذمہ دار انتظام والے کو صاف کہا جائے۔
 
 <a id="92-distributed-understanding"></a>
 #### 9.2 تقسیم شدہ سمجھ
@@ -602,7 +602,7 @@
 - ساتھ پڑھیں: [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) — **شگفتگی** مقصد (بامعنی فاعلیت اور جائز شرکت)؛ **استمرار** مقصد (پائیدار ادارہ جاتی ہم آہنگی اور لمبے افق کی ذمہ دارانہ انتظام ضبط)۔
 - ساتھ پڑھیں: [منسوب عمل](../../core_05_band_accountability.md#attributable-action-constitutional) اور [انتساب کی دیانت](../../core_05_band_accountability.md#attribution-integrity-constitutional) — میکانزم لیما جو اختیار کے مطابق جواب دہی حقیقی رکھیں جہاں مادی عمل سراغ لگانے کے قابل رہنا چاہیے؛ عملی تفصیل **[CS-2 — معلومات کی اقسام اور ہینڈلنگ](../../corpus_systems/cs_02_a_information_types_and_handling.md)** اور **باب ہفتم** میں۔
 - بالائی: [§9 ذمہ دارانہ انتظام اور تقسیم شدہ سمجھ](#9-stewardship-and-distributed-understanding)؛ [§9.1.1 مشترکہ ذمہ دارانہ انتظام کا معیار](#911-shared-stewardship-standard) (*وجودی مادہ سے بے نیاز فرائض انسانی اور AI ذمہ دار انتظام والوں کو یکساں پابند کرتے ہیں*)۔
-- زیریں: [§11 محرکات کی ہم آہنگی اور نظام پر قبضہ](#11-incentive-alignment-and-system-capture)؛ [§12 مشترکہ نظام کی صلاحیت](#12-shared-system-capacity)؛ [باب دوازدهم](../../core_12_governance.md) (*آئینی معاہدہ تہہ* عملی بنانا)؛ [دفعہ XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*فورم رکن تہیں*)۔
+- زیریں: [§11 محرکات کی ہم آہنگی اور نظام پر قبضہ](#11-incentive-alignment-and-system-capture)؛ [§12 مشترکہ نظام کی صلاحیت](#12-shared-system-capacity)؛ [باب دوازدهم](../../core_13_governance.md) (*آئینی معاہدہ تہہ* عملی بنانا)؛ [دفعہ XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*فورم رکن تہیں*)۔
 - ذیلی حصے (پڑھنے کا ترتیب): [§10.1 حکمرانی بطور مجاز ڈھانچہ](#101-governance-as-authorized-structure) · [§10.2 فرائض کی علیحدگی](#102-segregation-of-duties) · [§10.3 جاری جواز](#103-ongoing-justification)۔
 
 </details>
@@ -638,7 +638,7 @@
 - ساتھ پڑھیں: [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) — **شگفتگی** مقصد (حکمرانی جو بامعنی فاعلیت اور جائز شرکت بچائے)؛ **استمرار** مقصد (پائیدار ادارہ جاتی ہم آہنگی اور لمبے افق کی ذمہ دارانہ انتظام ضبط)۔
 - ساتھ پڑھیں: [§6.1.3 تناسب](core_01_b_interaction_interpretation.md#613-proportionality) (*درجہ بندی کی تہہ اور کم حکمرانی ضبط*)؛ [ضرورت](../../core_05_band_accountability.md#necessity)؛ [تناسب](../../core_05_band_accountability.md#proportionality)؛ [جوابدہی](core_05_apex_accountability_leg.md#accountability)؛ [نگرانی](core_05_apex_oversight_leg.md#oversight-constitutional)۔
 - بالائی: اصول: [§9 ذمہ دارانہ انتظام اور تقسیم شدہ سمجھ](#9-stewardship-and-distributed-understanding)؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)۔
-- زیریں: [§10.2 فرائض کی علیحدگی](#102-segregation-of-duties)؛ [§10.3 جاری جواز](#103-ongoing-justification)؛ [§11 محرکات کی ہم آہنگی اور نظام پر قبضہ](#11-incentive-alignment-and-system-capture)؛ [باب دوازدهم](../../core_12_governance.md) (*آئینی معاہدہ تہہ* عملی بنانا)؛ [دفعہ XXII: آئینی تفسیر، جائزہ اور قبضہ مخالف ضمانتیں](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*فورم رکن انکشاف، الگ ہونا، اور قبضہ مخالف تہیں*)؛ [باب یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*فورم خاندان نگرانی*)۔
+- زیریں: [§10.2 فرائض کی علیحدگی](#102-segregation-of-duties)؛ [§10.3 جاری جواز](#103-ongoing-justification)؛ [§11 محرکات کی ہم آہنگی اور نظام پر قبضہ](#11-incentive-alignment-and-system-capture)؛ [باب دوازدهم](../../core_13_governance.md) (*آئینی معاہدہ تہہ* عملی بنانا)؛ [دفعہ XXII: آئینی تفسیر، جائزہ اور قبضہ مخالف ضمانتیں](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*فورم رکن انکشاف، الگ ہونا، اور قبضہ مخالف تہیں*)؛ [باب یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*فورم خاندان نگرانی*)۔
 
 </details>
 
@@ -691,7 +691,7 @@
 - بالائی: [§10.1 حکمرانی بطور مجاز ڈھانچہ](#101-governance-as-authorized-structure)؛ [§10 ذمہ دارانہ انتظام کی ضبط کے تحت حکمرانی](#10-governance-under-stewardship-discipline)؛ [§9.1.1 مشترکہ ذمہ دارانہ انتظام کا معیار](#911-shared-stewardship-standard) (*انسانی اور AI ذمہ دار انتظام والوں کے لیے وہی نشستیں*)۔
 - ساتھ پڑھیں: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — **نگرانی** ٹانگ (جو جانچے وہ نہیں جو عمل کرے)؛ **جوابدہی** ٹانگ (جواب دہی فاعل پر نہیں گر سکتی)؛ [تناسب](../../core_05_band_accountability.md#proportionality) کے تحت [مادی داؤ](core_00_preamble.md#material-stake) کا پیمانہ۔
 - ساتھ پڑھیں: [§11.3 عدمِ ہم آہنگی کی پکڑ](#113-misalignment-detection) (*متعدد پکڑ اور جائزہ — اس جوڑے کی کئی آنکھیں والی آدھی*)۔
-- زیریں: **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)** (*جوابدہی: تقسیم شدہ اور متناسب اختیار اصطلاحیں — آئینی لین اور فنکشنل علیحدگی*) اور **[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)** (*فنکشنل علیحدگی لین*) اداروں کے لیے؛ **[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog)** (*نشست کیٹلاگ*) نشست اقسام کے لیے — یہ چار اور دہرائی جانے والی روک، شرکت شرائط، اجرا کنٹرول، اور رخ نشستیں — جنہیں ہر اختیار کنندہ کا کردار نقشہ مثال بناتا ہے؛ کیفیت کے ریکارڈ کے لیے [باب ہشتم §3.7](../../core_08_standing_assessment.md#37-segregation-of-duties)؛ فورموں کے لیے [دفعہ XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) اور [باب یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)؛ مخلوط انسانی/AI عملوں کے لیے [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)۔
+- زیریں: **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)** (*جوابدہی: تقسیم شدہ اور متناسب اختیار اصطلاحیں — آئینی لین اور فنکشنل علیحدگی*) اور **[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)** (*فنکشنل علیحدگی لین*) اداروں کے لیے؛ **[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog)** (*نشست کیٹلاگ*) نشست اقسام کے لیے — یہ چار اور دہرائی جانے والی روک، شرکت شرائط، اجرا کنٹرول، اور رخ نشستیں — جنہیں ہر اختیار کنندہ کا کردار نقشہ مثال بناتا ہے؛ کیفیت کے ریکارڈ کے لیے [باب ہشتم §3.7](../../core_09_standing_assessment.md#37-segregation-of-duties)؛ فورموں کے لیے [دفعہ XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) اور [باب یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)؛ مخلوط انسانی/AI عملوں کے لیے [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)۔
 
 </details>
 
@@ -744,7 +744,7 @@
 - ساتھ پڑھیں: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — **بروقت کارروائی** ٹانگ (شیڈول دوبارہ جانچ)؛ **نگرانی** ٹانگ (نظر آنے والے، چیلنج کے قابل معیار)؛ **جوابدہی** ٹانگ (عادت اور سہولت جواب نہیں)؛ [مادی داؤ](core_00_preamble.md#material-stake) کا پیمانہ۔
 - ساتھ پڑھیں: [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) — **استمرار** مقصد (پائیدار ہم آہنگی جگہ پر جمنا نہیں)؛ **شگفتگی** مقصد (آواز اور چیلنج بندوبست کے پرانے ہونے پر حقیقی رہیں)۔
 - ساتھ پڑھیں: [جائزہ اور درستی کا فرض](../../core_05_band_continuity.md#review-and-correction-duty-constitutional)؛ [چیلنج پذیری](../../core_05_band_accountability.md#contestability)؛ [بروقت کارروائی](core_05_apex_timeliness_leg.md#timeliness-constitutional)۔
-- زیریں: [دفعہ XXV-A: عدمِ جماؤ اور نظرثانی پذیری](../../core_06_rights_part_d.md#article-xxv-a-non-entrenchment-and-revisability) اور [دفعہ XXV-B: وقتاً فوقتاً دوبارہ تصدیق اور شفاف تبدیلی](../../core_06_rights_part_d.md#article-xxv-b-periodic-revalidation-and-transparent-change) (*حقوق کی تہہ عدمِ جماؤ اور شفاف تبدیلی تہیں — وہ اس اصول کو تنگ نہیں کرتیں*)؛ **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#baseline-governance-accountability-conditions)** (*بنیادی حکمرانی جوابدہی شرائط*)؛ [باب دوازدهم](../../core_12_governance.md) (*آئینی معاہدہ تہہ* عملی بنانا)۔
+- زیریں: [دفعہ XXV-A: عدمِ جماؤ اور نظرثانی پذیری](../../core_06_rights_part_d.md#article-xxv-a-non-entrenchment-and-revisability) اور [دفعہ XXV-B: وقتاً فوقتاً دوبارہ تصدیق اور شفاف تبدیلی](../../core_06_rights_part_d.md#article-xxv-b-periodic-revalidation-and-transparent-change) (*حقوق کی تہہ عدمِ جماؤ اور شفاف تبدیلی تہیں — وہ اس اصول کو تنگ نہیں کرتیں*)؛ **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#baseline-governance-accountability-conditions)** (*بنیادی حکمرانی جوابدہی شرائط*)؛ [باب دوازدهم](../../core_13_governance.md) (*آئینی معاہدہ تہہ* عملی بنانا)۔
 
 </details>
 
@@ -789,9 +789,9 @@
 - ساتھ پڑھیں: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — چوکڑی **قبضہ** ضبط کا بنیادی باب یکم گھر (محرکات **شرکت**، **نگرانی**، **جوابدہی**، یا **بروقت کارروائی** کھوکھلی نہیں کر سکتے)؛ [مادی داؤ](core_00_preamble.md#material-stake) کا پیمانہ۔
 - ساتھ پڑھیں: جوابدہی پیمائش خاندان (*محرکات کی ہم آہنگی اور متبادل اشارے کی دیانت؛ بازار کا ڈھانچہ اور چیلنج پذیری*)۔
 - ساتھ پڑھیں: [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) — **استمرار** مقصد (مختصر افق بہتری اور قبضے کے خلاف پائیدار ہم آہنگی)؛ **شگفتگی** مقصد (محرک ڈھانچے جو بامعنی فاعلیت بچائیں)۔
-- بالائی: اصول: [2. بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§2.2 پہچان، تقویت اور آرزو](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)، [3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، [3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [4. اعتماد](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)، [§9 ذمہ دارانہ انتظام اور تقسیم شدہ سمجھ](#9-stewardship-and-distributed-understanding)، اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
+- بالائی: اصول: [2. بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§2.2 پہچان، تقویت اور آرزو](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)، [3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، [3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [4. اعتماد](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)، [§9 ذمہ دارانہ انتظام اور تقسیم شدہ سمجھ](#9-stewardship-and-distributed-understanding)، اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
 - زیریں: [§5 آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency) اور [§7 مطلق بالا دستی کی ممانعت](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)۔
-- زیریں: [§6.3 قابلِ اجتناب بوجھ کی کمی](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)؛ [باب دوازدهم §5 — مجاز کردار، مہارت کی ترقی، اور شراکت](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution)؛ **[corpus_systems.md](../../corpus_systems.md)، CS-4 — نازک نظام کا ذمہ دارانہ انتظام**۔
+- زیریں: [§6.3 قابلِ اجتناب بوجھ کی کمی](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)؛ [باب دوازدهم §5 — مجاز کردار، مہارت کی ترقی، اور شراکت](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)؛ **[corpus_systems.md](../../corpus_systems.md)، CS-4 — نازک نظام کا ذمہ دارانہ انتظام**۔
 - زیریں: [باب ششم: بنیادی حقوق](../../core_06_rights_part_a.md#chapter-six-foundational-rights) کے پار فاعلیت، شرکت، محرکات کی ہم آہنگی، معلوماتی کرہ کی دیانت، کیفیت، اور قبضہ مخالف جائزے کی حقوق کی سطح کو نشانہ بناتا ہے؛ خاص طور پر [دفعہ IX: خود ارادیت اور فاعلیت](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)، [دفعہ XI: متاثر فریقوں کی نظامی شرکت، نمائندگی اور واجب العمل کارروائی](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)، [دفعہ XII-D: محرکات کی ہم آہنگی پابندی](../../core_06_rights_part_c.md#article-xii-d-incentive-alignment-constraint)، [دفعہ XIV: معلوماتی کرہ کی دیانت](../../core_06_rights_part_c.md#article-xiv-info-sphere-integrity)، [دفعہ XVIII: کیفیت اور شرکت کی حیثیت](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)، اور [دفعہ XXII: آئینی تفسیر، جائزہ اور قبضہ مخالف ضمانتیں](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)۔
 - ذمہ دارانہ انتظام کا دروازہ (غیرِ عملی): پابند اگلے قدم کا بیان: [عملی ذمہ دارانہ انتظام کا بیان](#operative-steward-statement-incentive)۔ معاون اشارے اسے تنگ نہیں کر سکتے۔
 
@@ -889,7 +889,7 @@
   - غیر قانونی یا غیر آئینی حکم چلن؛
   - چھپانا؛
   - انتقام؛
-  - [جوابدہی کی رکاوٹ](../../core_08_standing_assessment.md#232-violation-event-types) (کیفیت ماڈل واقعہ قسم اور [باب دہم §5.11](../../core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) تعین راستہ — آزاد انعام تراش نہیں)؛ یا
+  - [جوابدہی کی رکاوٹ](../../core_09_standing_assessment.md#232-violation-event-types) (کیفیت ماڈل واقعہ قسم اور [باب دہم §5.11](../../core_11_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) تعین راستہ — آزاد انعام تراش نہیں)؛ یا
   - تصدیق شدہ آئینی نقصان کے تدارک سے انکار؛ یا
 - انعام راستے جو بدعنوانی یا اس کی چھپائی پر مادی طور پر منحصر ہوں، بشمول:
   - معاوضہ، بونس، ایکویٹی، تقرری، ترقی، یا مدت؛
@@ -897,7 +897,7 @@
   - تصفیہ، ہرجانہ، انشورنس، یا استثنیٰ؛ یا
   - ملتے جلتے بندوبست۔
 
-**غیر ہم آہنگ انعام نتائج۔** اوپر ممنوع راستوں سے حاصل مادی انعامات کیفیت ماڈل کے تحت ضبطی اور رپورٹنگ کے تابع ہیں۔ پڑھیں [باب نہم §5.4 رپورٹنگ فرض اور اخراج](../../core_09_standing_integration.md#54-special-violation-rules)، [§5.4 ضبطی اور برقراری](../../core_09_standing_integration.md#54-special-violation-rules)، اور [§5.4 درستی، ریکارڈ، اور راستہ](../../core_09_standing_integration.md#54-special-violation-rules)۔
+**غیر ہم آہنگ انعام نتائج۔** اوپر ممنوع راستوں سے حاصل مادی انعامات کیفیت ماڈل کے تحت ضبطی اور رپورٹنگ کے تابع ہیں۔ پڑھیں [باب نہم §5.4 رپورٹنگ فرض اور اخراج](../../core_10_standing_integration.md#54-special-violation-rules)، [§5.4 ضبطی اور برقراری](../../core_10_standing_integration.md#54-special-violation-rules)، اور [§5.4 درستی، ریکارڈ، اور راستہ](../../core_10_standing_integration.md#54-special-violation-rules)۔
 
 <a id="1113-stewardship-and-operator-application"></a>
 ##### 11.1.3 ذمہ دارانہ انتظام اور چلانے والے کا اطلاق
@@ -924,7 +924,7 @@
 
 **تفصیل کہاں رہتی ہے:**
 
-- [باب دوازدهم §5 — مجاز کردار، مہارت کی ترقی، اور شراکت](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution) مجاز کردار، مہارت، اور اس کام تک راستوں کے لیے جو ذمہ دار انتظام والوں اور چلانے والوں کے لیے واقعی اہم ہو؛
+- [باب دوازدهم §5 — مجاز کردار، مہارت کی ترقی، اور شراکت](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution) مجاز کردار، مہارت، اور اس کام تک راستوں کے لیے جو ذمہ دار انتظام والوں اور چلانے والوں کے لیے واقعی اہم ہو؛
 - [**CS-4**](../../corpus_systems/cs_04_critical_system_stewardship.md) (*نازک نظام کا ذمہ دارانہ انتظام*) اس فرض کو اعلیٰ اثر نظاموں میں کیسے اٹھایا جائے؛ اور
 - [§9 ذمہ دارانہ انتظام اور تقسیم شدہ سمجھ](#9-stewardship-and-distributed-understanding) ہاتھوں کے کام اور کمیونٹی مہارت کی اصولی تہہ تصویر کے لیے۔
 
@@ -1058,8 +1058,8 @@
 
 - **جائزہ اور درستی کا فرض:** [جائزہ اور درستی کا فرض](../../core_05_band_continuity.md#review-and-correction-duty-constitutional)۔
 - **بلند جائزہ:** [§13.1 بازار ارتکاز حد میکانزم](#131-market-concentration-threshold-mechanism-adopter-tunable) اور [§13.2 مسابقت موافق اور غلبہ مخالف](#132-pro-competition-and-anti-domination)، جہاں ارتکاز یا غلبہ مادی ہو۔
-- **کیفیت اور خلاف ورزی میکانکس:** [باب ہشتم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)، جہاں تصدیق شدہ دریافتیں داؤ پر ہوں۔
-- **آئین مخالف بدعنوانی:** [باب دہم §5.1 ارتکاز پر مبنی تخریب: معیار تعامل](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)، جہاں ارتکاز یا عمل قبضہ آئین مخالف بدعنوانی گنے۔
+- **کیفیت اور خلاف ورزی میکانکس:** [باب ہشتم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)، جہاں تصدیق شدہ دریافتیں داؤ پر ہوں۔
+- **آئین مخالف بدعنوانی:** [باب دہم §5.1 ارتکاز پر مبنی تخریب: معیار تعامل](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)، جہاں ارتکاز یا عمل قبضہ آئین مخالف بدعنوانی گنے۔
 
 <a id="114-misalignment-correction-and-capture-response"></a>
 #### 11.4 عدمِ ہم آہنگی کی درستی اور قبضے کا جواب
@@ -1107,12 +1107,12 @@
 
 - **کب:** عدمِ ہم آہنگی تصدیق ہو۔
 - **نہیں کرنا چاہیے:** غیر ہم آہنگ یا بدعنوان راستوں سے مادی انعامات کو خاموشی سے رکھنے کے قابل کیفیت کریڈٹ یا ڈھال شدہ فائدہ ماننا۔
-- **درستی گھر:** [باب نہم §5.4 خاص خلاف ورزی قواعد](../../core_09_standing_integration.md#54-special-violation-rules) حکمرانی کرتا ہے:
+- **درستی گھر:** [باب نہم §5.4 خاص خلاف ورزی قواعد](../../core_10_standing_integration.md#54-special-violation-rules) حکمرانی کرتا ہے:
   - ضبطی؛
   - متناسب واپسی؛
   - جان بوجھ کر قبول کی رپورٹنگ؛ اور
   - درستی۔
-- **کیفیت کی پیمائش:** یہ باب فیصلہ نہیں کرتا کہ تصدیق شدہ شراکت یا خلاف ورزی کتنی اچھی یا بری تھی۔ وہ درجہ بندی [باب ہشتم §4 سوال 2 — کتنی اچھی یا بری تھی؟](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it) ہے، [باب ہشتم §4.1 شراکت مقدار-ان پٹ جہتیں](../../core_08_standing_assessment.md#41-contribution-magnitude-input-dimensions) اور [§4.2 خلاف ورزی شدت-ان پٹ جہتیں](../../core_08_standing_assessment.md#42-violation-severity-input-dimensions) استعمال کر کے۔
+- **کیفیت کی پیمائش:** یہ باب فیصلہ نہیں کرتا کہ تصدیق شدہ شراکت یا خلاف ورزی کتنی اچھی یا بری تھی۔ وہ درجہ بندی [باب ہشتم §4 سوال 2 — کتنی اچھی یا بری تھی؟](../../core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it) ہے، [باب ہشتم §4.1 شراکت مقدار-ان پٹ جہتیں](../../core_09_standing_assessment.md#41-contribution-magnitude-input-dimensions) اور [§4.2 خلاف ورزی شدت-ان پٹ جہتیں](../../core_09_standing_assessment.md#42-violation-severity-input-dimensions) استعمال کر کے۔
 
 <a id="115-contingent-claims-games-of-chance-and-event-contract-markets"></a>
 #### 11.5 مشروط دعوے، اتفاق کے کھیل، اور واقعہ معاہدہ بازار
@@ -1121,7 +1121,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: [§11 محرکات کی ہم آہنگی اور نظام پر قبضہ](#11-incentive-alignment-and-system-capture) (بشمول [§11.1 ہم آہنگی کا تقاضا](#111-alignment-requirement))؛ [باب پنجم *مشروط دعویٰ، واقعہ معاہدہ بازار، اتفاق کا کھیل، اور اندرونی فائدہ*](../../core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent)۔
-- زیریں: [§11.3 عدمِ ہم آہنگی کی پکڑ](#113-misalignment-detection)؛ [§11.3.1 اضافے کے محرکات](#1131-escalation-triggers)؛ [§11.4 عدمِ ہم آہنگی کی درستی اور قبضے کا جواب](#114-misalignment-correction-and-capture-response)؛ [§6.2 حقائق کے انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)؛ [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ `corpus_systems.md` درجہ بندی اور ذمہ دارانہ انتظام پیمانہ؛ `corpus_institutions.md` تصادم اور دیانت توقعات۔
+- زیریں: [§11.3 عدمِ ہم آہنگی کی پکڑ](#113-misalignment-detection)؛ [§11.3.1 اضافے کے محرکات](#1131-escalation-triggers)؛ [§11.4 عدمِ ہم آہنگی کی درستی اور قبضے کا جواب](#114-misalignment-correction-and-capture-response)؛ [§6.2 حقائق کے انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)؛ [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ `corpus_systems.md` درجہ بندی اور ذمہ دارانہ انتظام پیمانہ؛ `corpus_institutions.md` تصادم اور دیانت توقعات۔
 - ساتھ پڑھیں: [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) — **استمرار** مقصد (پائیدار، چیلنج کے قابل حل راستے اور نظامی استحکام جہاں مشروط تصفیہ مادی طور پر اثر انداز ہو)۔
 - ساتھ پڑھیں: [حل راستوں کا قبضہ](../../core_05_band_accountability.md#capture-of-resolution-pathways)، [زبردستی اور ہیرا پھیری](../../core_05_band_participation.md#coercion-and-manipulation-constitutional)، اور [چیلنج پذیری](../../core_05_band_accountability.md#contestability)؛ [اندرونی فائدہ](../../core_05_band_accountability.md#insider-advantage)۔
 - ذیلی حصے (پڑھنے کا ترتیب): [§11.5.1 کیا انعام نہیں ہو سکتا](#1151-what-may-not-be-rewarded) · [§11.5.2 نتائج کون طے کرتا ہے](#1152-who-decides-outcomes) · [§11.5.3 بازار اشارے آئینی ثبوت نہیں](#1153-market-signals-are-not-constitutional-proof) · [§11.5.4 متناسب کنٹرول اور نفاذ حراست](#1154-proportionate-controls-and-implementation-custody)۔
@@ -1240,7 +1240,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - ساتھ پڑھیں: [ضرورت](../../core_05_band_accountability.md#necessity)؛ [تناسب](../../core_05_band_accountability.md#proportionality)؛ [انحصار](../../core_05_band_continuity.md#dependency)۔
-- زیریں: [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ [corpus_systems.md](../../corpus_systems.md) (*مادی طور پر اثر انداز نظاموں کے ذمہ دارانہ انتظام کی درجہ بندی اور پیمانہ*)؛ [corpus_institutions.md](../../corpus_institutions.md) (*تصادم اور طریقہ قواعد جہاں ادارے ایسی سرگرمی نگرانی کریں*)۔
+- زیریں: [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ [corpus_systems.md](../../corpus_systems.md) (*مادی طور پر اثر انداز نظاموں کے ذمہ دارانہ انتظام کی درجہ بندی اور پیمانہ*)؛ [corpus_institutions.md](../../corpus_institutions.md) (*تصادم اور طریقہ قواعد جہاں ادارے ایسی سرگرمی نگرانی کریں*)۔
 
 </details>
 
@@ -1256,7 +1256,7 @@
   - [انحصار](../../core_05_band_continuity.md#dependency)؛
   - کمزوری؛ اور
   - نظامی استحکام۔
-- [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) سے میل کھاتے ہوئے غلط استعمال جانچیں، بشمول:
+- [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) سے میل کھاتے ہوئے غلط استعمال جانچیں، بشمول:
   - حل کرنے والے واقعات متاثر کرنے کی ہم آہنگی؛ اور
   - پیمانہ حرکیات۔
 
@@ -1274,7 +1274,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- ساتھ پڑھیں: [باب نہم §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) اور [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority)؛ [جوابدہی](core_05_apex_accountability_leg.md#accountability)؛ [corpus_systems.md](../../corpus_systems.md) **CS-7 — انصاف ضمانتیں، واپسی، اور بحالی** (*وجود استمرار جانچیں*)۔
+- ساتھ پڑھیں: [باب نہم §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) اور [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority)؛ [جوابدہی](core_05_apex_accountability_leg.md#accountability)؛ [corpus_systems.md](../../corpus_systems.md) **CS-7 — انصاف ضمانتیں، واپسی، اور بحالی** (*وجود استمرار جانچیں*)۔
 - ساتھ پڑھیں: [منسوب عمل](../../core_05_band_accountability.md#attributable-action-constitutional) اور [انتساب کی دیانت](../../core_05_band_accountability.md#attribution-integrity-constitutional) — جانشین اور رسمی ڈھانچہ تبدیلیاں باقی فرائض کے قابلِ اعتماد انتساب نہیں ہرا سکتیں۔
 
 </details>
@@ -1520,7 +1520,7 @@
 - ساتھ پڑھیں: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — شرکت، نگرانی، جوابدہی، اور بروقت کارروائی جہاں ارتکاز یا غلبہ آواز، جانچ، جواب دہی، یا بروقت درستی ہرائے؛ [مادی داؤ](core_00_preamble.md#material-stake) کا پیمانہ (خاص طور پر [§13.2 مسابقت موافق اور غلبہ مخالف](#132-pro-competition-and-anti-domination))۔
 - ساتھ پڑھیں: [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) — **استمرار** مقصد (چیلنج کے قابل، پائیدار پیداواری شرائط)؛ **شگفتگی** مقصد (روزی، فاعلیت، اور اختراع راستوں تک منصفانہ رسائی)۔
 - بالائی: اصول: [§12 مشترکہ نظام کی صلاحیت](#12-shared-system-capacity) — پیداواری صلاحیت اور کارآمدگی دعوے ہارتے ہیں جہاں ارتکاز یا غلبہ انہیں کھوکھلا کرے؛ [10. ذمہ دارانہ انتظام کی ضبط کے تحت حکمرانی](#10-governance-under-stewardship-discipline)۔
-- زیریں: [باب دہم §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (ارتکاز پر مبنی تخریب)؛ [6. عمل تنازعے کا حل](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([§6.2.4 متبادل اشاروں کے انحراف کا ابطال](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation))۔
+- زیریں: [باب دہم §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (ارتکاز پر مبنی تخریب)؛ [6. عمل تنازعے کا حل](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([§6.2.4 متبادل اشاروں کے انحراف کا ابطال](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation))۔
 - زیریں: **CJS-3.11.1 — بازار ارتکاز حد سیٹ ضبط (اختیار کنندہ-قابلِ ایڈجسٹ)** ([§13.1](#131-market-concentration-threshold-mechanism-adopter-tunable) عملی قواعد)؛ **CJS-3.11.2 — غلبہ مخالف چلن اور تدارک کیٹلاگ** ([§13.2](#132-pro-competition-and-anti-domination) عملی چلن نمونے اور تدارک)؛ **CJS-3.11.3 — انضمام چھت سیٹ ضبط (اختیار کنندہ-قابلِ ایڈجسٹ)** ([§13.3.2](#1332-ceiling-discipline-adopter-requirements) عملی چھت سیٹ قواعد)۔
 - زیریں: وسیلہ تقسیم، منصفانہ معاوضہ، اجتماعی تنظیم، باہم چلن، خروج، اور قبضہ مخالف جائزے کی حقوق کی سطح گڑھتا ہے؛ خاص طور پر [دفعہ III-D: مشقت اور معاشی تہہ](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)، [دفعہ IV: وسیلہ تقسیم، انحصار، اور ماحولیاتی نظام فنڈنگ](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding)، اور [دفعہ XIX: باہم چلن، منتقلی، نقل مکانی، پناہ، اور خروج کی دیانت](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)۔
 - ذیلی حصے (پڑھنے کا ترتیب): [§13.1 بازار ارتکاز حد میکانزم (اختیار کنندہ-قابلِ ایڈجسٹ)](#131-market-concentration-threshold-mechanism-adopter-tunable) · [§13.1.1 ارتکاز حد محرکات (اختیار کنندہ-قابلِ ایڈجسٹ)](#1311-concentration-threshold-triggers-adopter-tunable) · [§13.2 مسابقت موافق اور غلبہ مخالف](#132-pro-competition-and-anti-domination) · [§13.3 انضمام کی چھت](#133-consolidation-ceiling)۔
@@ -1566,7 +1566,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: [§13 بازار کا ڈھانچہ](#13-market-structure)؛ [بازار ارتکاز کی حد](../../core_05_band_accountability.md#market-concentration-threshold-constitutional)۔
-- زیریں: **CJS-3.11.1 — بازار ارتکاز حد سیٹ ضبط (اختیار کنندہ-قابلِ ایڈجسٹ)** (عملی حد سیٹ قواعد)؛ [§13.2 مسابقت موافق اور غلبہ مخالف](#132-pro-competition-and-anti-domination)؛ [§13.3 انضمام کی چھت](#133-consolidation-ceiling)؛ [CJS-3.11.3 — انضمام چھت سیٹ ضبط (اختیار کنندہ-قابلِ ایڈجسٹ)](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) ([§13.3.2](#1332-ceiling-discipline-adopter-requirements) عملی چھت سیٹ قواعد)؛ [باب ہشتم §4 سوال 2 — کتنی اچھی یا بری تھی؟](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it)؛ [باب دہم §5.1 ارتکاز پر مبنی تخریب](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)۔
+- زیریں: **CJS-3.11.1 — بازار ارتکاز حد سیٹ ضبط (اختیار کنندہ-قابلِ ایڈجسٹ)** (عملی حد سیٹ قواعد)؛ [§13.2 مسابقت موافق اور غلبہ مخالف](#132-pro-competition-and-anti-domination)؛ [§13.3 انضمام کی چھت](#133-consolidation-ceiling)؛ [CJS-3.11.3 — انضمام چھت سیٹ ضبط (اختیار کنندہ-قابلِ ایڈجسٹ)](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) ([§13.3.2](#1332-ceiling-discipline-adopter-requirements) عملی چھت سیٹ قواعد)؛ [باب ہشتم §4 سوال 2 — کتنی اچھی یا بری تھی؟](../../core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it)؛ [باب دہم §5.1 ارتکاز پر مبنی تخریب](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)۔
 - ذمہ دارانہ انتظام کا دروازہ (غیرِ عملی): پابند اگلے قدم کا بیان: [عملی ذمہ دارانہ انتظام کا بیان](#operative-steward-statement-market-structure)۔ معاون اشارے اسے تنگ نہیں کر سکتے۔
 - ذیلی حصے (پڑھنے کا ترتیب): [§13.1.1 ارتکاز حد محرکات (اختیار کنندہ-قابلِ ایڈجسٹ)](#1311-concentration-threshold-triggers-adopter-tunable)۔
 
@@ -1597,8 +1597,8 @@
 
 - **کرتا ہے:** [§13 بازار کا ڈھانچہ](#13-market-structure) تہہ کے لیے اصولی تہہ حد رخ بیان کرتا ہے۔
 - **نہیں کرتا:** فیصلہ نہیں کرتا کہ تصدیق شدہ نقصان کتنا سنگین تھا، یا بدعنوانی تعین جاری نہیں کرتا۔
-- **جب ارتکاز اس آئین کمزور کرنے کے لیے استعمال ہو:** وہ بدعنوانی [باب دہم §5.1 ارتکاز پر مبنی تخریب](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) کے تحت جانی جاتی ہے۔
-- **تہہ سے اوپر ارتکاز بنانا، برقرار رکھنا، یا استحصال:** باب دہم معیار 3، 4، اور 6 سے تعین جائزے کے لیے پہنچا جاتا ہے، اور صرف جہاں [باب ہشتم §4 سوال 2 — کتنی اچھی یا بری تھی؟](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it) اس تصدیق شدہ نقصان کو پہلے ہی باب ہشتم کے تین سب سے سنگین اسکور میں سے ایک درجہ دے چکا ہو۔
+- **جب ارتکاز اس آئین کمزور کرنے کے لیے استعمال ہو:** وہ بدعنوانی [باب دہم §5.1 ارتکاز پر مبنی تخریب](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) کے تحت جانی جاتی ہے۔
+- **تہہ سے اوپر ارتکاز بنانا، برقرار رکھنا، یا استحصال:** باب دہم معیار 3، 4، اور 6 سے تعین جائزے کے لیے پہنچا جاتا ہے، اور صرف جہاں [باب ہشتم §4 سوال 2 — کتنی اچھی یا بری تھی؟](../../core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it) اس تصدیق شدہ نقصان کو پہلے ہی باب ہشتم کے تین سب سے سنگین اسکور میں سے ایک درجہ دے چکا ہو۔
 
 **آئینی تہہ:**
 
@@ -1666,7 +1666,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: [§13 بازار کا ڈھانچہ](#13-market-structure)؛ [بازار کا ڈھانچہ](../../core_05_band_accountability.md#market-structure-constitutional)۔
-- زیریں: **CJS-3.11.2 — غلبہ مخالف چلن اور تدارک کیٹلاگ** (عملی چلن نمونے اور تدارک)؛ [§13.3 انضمام کی چھت](#133-consolidation-ceiling)؛ [باب دہم §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)۔
+- زیریں: **CJS-3.11.2 — غلبہ مخالف چلن اور تدارک کیٹلاگ** (عملی چلن نمونے اور تدارک)؛ [§13.3 انضمام کی چھت](#133-consolidation-ceiling)؛ [باب دہم §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)۔
 - ساتھ پڑھیں: [دفعہ III-D: مشقت اور معاشی تہہ](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (مشقت نقل و حرکت حقوق کی تہہ)؛ [دفعہ XIX: باہم چلن، منتقلی، نقل مکانی، پناہ، اور خروج کی دیانت](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)؛ [6. عمل تنازعے کا حل](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([ضرورت](../../core_05_band_accountability.md#necessity)، [تناسب](../../core_05_band_accountability.md#proportionality)، [§6.2.4 متبادل اشاروں کے انحراف کا ابطال](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation))۔
 - ذیلی حصے (پڑھنے کا ترتیب): [§13.2.1 مسابقت موافق فرائض (کرو)](#1321-pro-competition-duties-dos) · [§13.2.2 غلبہ مخالف ممانعتیں (مت کرو)](#1322-anti-domination-prohibitions-donts) · [§13.2.3 تدارک](#1323-remedies)۔
 
@@ -1919,7 +1919,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: [§13.3 انضمام کی چھت](#133-consolidation-ceiling)؛ [§13.3.1 انضمام خطرہ (تالا بندی سے پہلے کمزوری)](#1331-consolidation-risk-pre-lock-in-impairment)۔
-- زیریں: **CJS-3.11.3 — انضمام چھت سیٹ ضبط (اختیار کنندہ-قابلِ ایڈجسٹ)** (عملی چھت سیٹ قواعد)؛ [CJS-3.11.2 — غلبہ مخالف چلن اور تدارک کیٹلاگ](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog) (چھت خلاف ورزی پر تدارک راستہ)؛ [باب دہم §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)۔
+- زیریں: **CJS-3.11.3 — انضمام چھت سیٹ ضبط (اختیار کنندہ-قابلِ ایڈجسٹ)** (عملی چھت سیٹ قواعد)؛ [CJS-3.11.2 — غلبہ مخالف چلن اور تدارک کیٹلاگ](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog) (چھت خلاف ورزی پر تدارک راستہ)؛ [باب دہم §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)۔
 
 </details>
 
@@ -1959,7 +1959,7 @@
 - ساتھ پڑھیں: استمرار پیمائش خاندان (*لچک، الٹ پھیر، اور نظامی خطرہ*)۔
 - ساتھ پڑھیں: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad)، [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)، اور [مادی داؤ](core_00_preamble.md#material-stake) کا پیمانہ۔
 - ساتھ پڑھیں: [6. عمل تنازعے کا حل](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)، [§9 ذمہ دارانہ انتظام اور تقسیم شدہ سمجھ](#9-stewardship-and-distributed-understanding)، [§10 ذمہ دارانہ انتظام کی ضبط کے تحت حکمرانی](#10-governance-under-stewardship-discipline)، اور [§11 محرکات کی ہم آہنگی اور نظام پر قبضہ](#11-incentive-alignment-and-system-capture)۔
-- ساتھ پڑھیں: **[باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)** — نظام ہم آہنگی سرٹیفیکیشن کے لیے عملی پورے نظام جانچ عوامل (چوکڑی کی **نگرانی** ٹانگ کے تحت ایک خاص طور پر بڑا آڈٹ عمل؛ واحد آڈٹ گھر نہیں)۔
+- ساتھ پڑھیں: **[باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)** — نظام ہم آہنگی سرٹیفیکیشن کے لیے عملی پورے نظام جانچ عوامل (چوکڑی کی **نگرانی** ٹانگ کے تحت ایک خاص طور پر بڑا آڈٹ عمل؛ واحد آڈٹ گھر نہیں)۔
 - ساتھ پڑھیں: **دفعہ XV** (*آڈٹ، شفافیت اور آزاد تصدیق*) اور [آڈٹ پذیری](../../core_05_band_oversight.md#auditability) — آڈٹ تہیں جو باب ہفتم پوری کرے اور جنہیں بہن آڈٹ وضعیں بھی نافذ کریں۔
 - ساتھ پڑھیں: **[corpus_systems.md](../../corpus_systems.md)، CS-3 — نظام درجہ بندی اور ہینڈلنگ** اور [درجہ بندی کے مطابق پیمانہ شدہ حکمرانی](../../core_05_band_oversight.md#classification-scaled-governance) — درجہ بندی پیمانہ اطلاق، ریکارڈ شکل، دوبارہ درجہ بندی محرکات، اور ہینڈلنگ پروفائل۔
 - بالائی: [§9 ذمہ دارانہ انتظام اور تقسیم شدہ سمجھ](#9-stewardship-and-distributed-understanding)؛ [§10 ذمہ دارانہ انتظام کی ضبط کے تحت حکمرانی](#10-governance-under-stewardship-discipline)؛ [6. عمل تنازعے کا حل](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)۔
@@ -1996,8 +1996,8 @@
 - شرائط سے رہائی۔
 
 تفصیلی جانچ عوامل اور سرٹیفیکیشن ریکارڈ کے مالک ہیں:
-- **[باب ہفتم §3](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**؛
-- **[باب ہفتم §11](../../core_07_b_system_alignment_certification_record_process.md#11-certification-record)**؛
+- **[باب ہفتم §3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**؛
+- **[باب ہفتم §11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record)**؛
 - **[corpus_systems.md](../../corpus_systems.md)، CS-3 — نظام درجہ بندی اور ہینڈلنگ**۔
 
 وہ باب ہفتم عمل:
@@ -2010,7 +2010,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: [8. آئینی تفسیر](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)، [1. مقصد اور کردار](core_01_a_values_principles.md#1-purpose-and-role)، [§9 ذمہ دارانہ انتظام اور تقسیم شدہ سمجھ](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)، [6. عمل تنازعے کا حل](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)، [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، [5. آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency)، اور [7. مطلق بالا دستی کی ممانعت](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)۔
+- بالائی: اصول: [8. آئینی تفسیر](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)، [1. مقصد اور کردار](core_01_a_values_principles.md#1-purpose-and-role)، [§9 ذمہ دارانہ انتظام اور تقسیم شدہ سمجھ](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)، [6. عمل تنازعے کا حل](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)، [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، [5. آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency)، اور [7. مطلق بالا دستی کی ممانعت](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)۔
 - زیریں: بعد کے ابواب ان جڑے باب یکم اصولوں کے ذریعے پڑھے جانے چاہییں — بشمول [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad)، [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)، اور [مادی داؤ](core_00_preamble.md#material-stake) پیمانہ جو [تمہید](core_00_preamble.md#chapter-00-preamble--foundational-requirements) اور [§1 مقصد اور کردار](core_01_a_values_principles.md#1-purpose-and-role) میں قائم ہیں۔
 - زیریں: [باب ششم: بنیادی حقوق](../../core_06_rights_part_a.md#chapter-six-foundational-rights) اس باب کے مربوط قدر فریم کے ذریعے پڑھنا چاہیے۔
   - محدود تفسیر، عوامی دلیلیں، چیلنج، بیرونی جائزہ، اور حقوق تصادم طریقہ کلیدی زیریں کام کرتے ہیں۔

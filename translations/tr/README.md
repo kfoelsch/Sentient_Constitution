@@ -5,7 +5,7 @@
 
 > Aşağıdaki içerik **yalnızca okur rehberidir**. Bağlayıcı yükümlülükleri eklemez, çıkarmaz ya da daraltmaz.
 >
-> Bu klasör bir **okur-dili pilotudur**. **Algılayanlar Anayasası değildir**. Numaralı `core_*` dosyalarını **değiştiremez**. Bir **gönderim baskısı değildir**. Okumak, [bu Anayasayı benimsemek](../../core_15_amendment_ratification.md#10-ratification-and-adoption) **değildir**. Bir çeviri ile İngilizce asıl görünür biçimde ayrışırsa, sonraki bir baskı başka türlü söyleyene kadar İngilizce numaralı `core_*` kazanır. Bkz. [Reader-language editions](../../doc_architecture.md#reader-language-editions).
+> Bu klasör bir **okur-dili pilotudur**. **Algılayanlar Anayasası değildir**. Numaralı `core_*` dosyalarını **değiştiremez**. Bir **gönderim baskısı değildir**. Okumak, [bu Anayasayı benimsemek](../../core_16_amendment_ratification.md#10-ratification-and-adoption) **değildir**. Bir çeviri ile İngilizce asıl görünür biçimde ayrışırsa, sonraki bir baskı başka türlü söyleyene kadar İngilizce numaralı `core_*` kazanır. Bkz. [Reader-language editions](../../doc_architecture.md#reader-language-editions).
 >
 > **Corpus baskısına sabitlenmiştir:** `SC-Corpus-2026.08.09` (yürürlük 2026-08-09; [README.md](../../README.md)). **Ön-yayın.**
 
@@ -37,13 +37,13 @@
 | [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md) | [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md) |
 | [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md) | [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md) |
 | [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md) | [core_05_apex_timeliness_leg.md](../../core_05_apex_timeliness_leg.md) |
-| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_07_system_alignment_certification.md) |
-| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md) |
-| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md) |
-| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_08_standing_assessment.md) |
-| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_09_standing_integration.md) |
-| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md) |
-| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_11_forum.md) |
+| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_08_system_alignment_certification.md) |
+| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md) |
+| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_09_standing_assessment.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_10_standing_integration.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md) |
+| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_12_forum.md) |
 
 Pilot bağlantıları henüz çevrilmemiş İngilizce dosyalara gider. HTML çıpaları (`id`) asıldan kopyalanır; böylece kesit kesit karşılaştırılabilir.
 

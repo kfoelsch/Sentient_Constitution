@@ -11,13 +11,13 @@
 > - **Corpus edition and effective date:** inherit from [README.md](../README.md). Do not stamp a second edition in this annex.
 >
 > **Status**
-> - This is **not** a core constitutional file. It is binding incorporated implementation text where [Chapter Five](../core_05_band_integrative.md#corpus) and [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) designate it.
+> - This is **not** a core constitutional file. It is binding incorporated implementation text where [Chapter Five](../core_05_band_integrative.md#corpus) and [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) designate it.
 > - The CF folder is written in plain language with low jargon to improve accessibility, audit readability, and practical adoption testing.
 >
 > **Where this lives**
 > - **Navigation wrapper / reader landing:** [corpus_forum.md](../corpus_forum.md) indexes the `corpus_forum/` subfiles.
 > - **Reader landing:** [corpus_forum.md](../corpus_forum.md) is the human start for this layer. This file is the registry and identifier annex, not a second front door.
-> - **Constitutional owner:** [core_11_forum.md](../core_11_forum.md) **Chapter Eleven** owns forum-family routing and constitutional forum doctrine; this file operationalizes it and must not redefine it.
+> - **Constitutional owner:** [core_12_forum.md](../core_12_forum.md) **Chapter Twelve** owns forum-family routing and constitutional forum doctrine; this file operationalizes it and must not redefine it.
 > - **Shared contract:** **CJS-1.3** (*Shared implementation-corpus preamble contract*).
 >
 > **Implementation layer map**
@@ -29,16 +29,16 @@
 > - **CI** — [corpus_institutions.md](../corpus_institutions.md)
 > - **CF** — this folder (`corpus_forum/`)
 >
-> **CF** does not create new forum families beyond those authorized in **Chapter Eleven**. It does not redefine constitutional terms, Rights Floors, or offense taxonomy.
+> **CF** does not create new forum families beyond those authorized in **Chapter Twelve**. It does not redefine constitutional terms, Rights Floors, or offense taxonomy.
 >
 > Shared preamble contract: apply **CJS-1.3** (*Shared implementation-corpus preamble contract*).
 >
-> **Principle-layer routing:** Read with [Chapter One](../core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints), [README — Standing pipeline and forums](../README.md#standing-pipeline-and-forums), and [Chapter Eleven](../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) — forums implement [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad) **participation** and **oversight** legs, scaled to [material stake](../core_00_preamble.md#material-stake). Panel formation, recusal, and review lanes are primary operational homes in **CF-5** (*Routing operations, transfer, certification, and representative treatment*), **CF-7** (*Integrity safeguards and anti-self-judging*), and **CF-8** (*Forum forensic and analytical support*).
+> **Principle-layer routing:** Read with [Chapter One](../core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints), [README — Standing pipeline and forums](../README.md#standing-pipeline-and-forums), and [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) — forums implement [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad) **participation** and **oversight** legs, scaled to [material stake](../core_00_preamble.md#material-stake). Panel formation, recusal, and review lanes are primary operational homes in **CF-5** (*Routing operations, transfer, certification, and representative treatment*), **CF-7** (*Integrity safeguards and anti-self-judging*), and **CF-8** (*Forum forensic and analytical support*).
 >
 > **File-specific implementation anchors**
 > - **Operational home:** forum structure, forum independence safeguards, forum process governance, and forum continuity mechanics.
-> - **Boundary rule:** this file does **not** redefine constitutional terms, Rights Floors, offense taxonomy, or the constitutional routing logic owned by `core_11_forum.md` **Chapter Eleven**.
-> - **Forum-family limit:** this file does **not** create new forum families beyond those authorized in **Chapter Eleven**.
+> - **Boundary rule:** this file does **not** redefine constitutional terms, Rights Floors, offense taxonomy, or the constitutional routing logic owned by `core_12_forum.md` **Chapter Twelve**.
+> - **Forum-family limit:** this file does **not** create new forum families beyond those authorized in **Chapter Twelve**.
 > - **Chapter Six structure:** operationalizes challenge and redress through **Article XII-B** (*Right to Challenge, Review, and Redress*); auditability through **Article XV-A** (*Auditability and Observable Evidence*) with **Chapters Two through Four**; interpretation safeguards through **Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*); justice and emergency boundaries through **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*); transition-phase adjudication support as **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) references into this file and **`corpus_institutions.md`** **CI-14** (*Transitional governance and institutional evolution*).
 >
 > **Implementation cross-reference index (routing only):** Read with Chapter Five constitutional definitions and **CJS-3** (*Implementation and cross-implementation operational cluster library*) operational clusters where materially applicable. This index does not redefine owner-layer meaning. Forums-only overlap and read-with pointers live in this file under [Forums domain routing (integrator annex)](#forums-domain-routing-integrator-annex). Cross-layer mandatory read-with stays in **CJS-0.1**.
@@ -53,7 +53,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) section identifiers; [Chapter Eleven](../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) section identifiers; [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum-family routing; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [Forums registry (stable section families)](#forums-registry-stable-section-families); [Forums domain routing (integrator annex)](#forums-domain-routing-integrator-annex).
 - Read with: **CF-1**; **CJS-1.1**.
 
@@ -71,7 +71,7 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum-family routing; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [Forums domain routing (integrator annex)](#forums-domain-routing-integrator-annex).
 - Read with: **CF-1**; **CF-3**; **CF-4**; **CF-5**; **CF-6**; **CF-6.1**; **CF-6.1.1**.
 
@@ -101,7 +101,7 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Eleven](../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) forum-family routing; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum-family routing; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [Forums overlap discipline](#forums-overlap-discipline); [Forums read-with pointers](#forums-read-with-pointers).
 - Read with: [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-1.7**; **CJS-1.8**; [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); **CF-1**.
 

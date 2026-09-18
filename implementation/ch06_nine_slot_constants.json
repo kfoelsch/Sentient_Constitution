@@ -1,5 +1,5 @@
 {
-  "$comment": "Precomputed rows for the unified proportional LEQU scale. c_min_over_c_unit is the shared lower LEQU bound for both axes: 5^(s-7) for s=2..9, with slot 1 beginning at zero. Contribution requires the additional constitutional-alignment conditions in Chapter Eight section 7-8. Conduct character and Chapter Ten designation do not alter the impact slot. v_weight is retained only as deprecated legacy analytics and must not derive a slot.",
+  "$comment": "Precomputed rows for the unified proportional LEQU scale. c_min_over_c_unit is the shared lower LEQU bound for both axes: 5^(s-7) for s=2..9, with slot 1 beginning at zero. Contribution requires the additional constitutional-alignment conditions in Chapter Nine section 7-8. Conduct character and Chapter Eleven designation do not alter the impact slot. v_weight is retained only as deprecated legacy analytics and must not derive a slot.",
   "contribution_multiplier": 5,
   "contribution_anchor_slot": 7,
   "contribution_anchor_unit": "LEQU",

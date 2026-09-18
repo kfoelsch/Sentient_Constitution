@@ -126,7 +126,7 @@
 - ต้นทาง: หลักการ: [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — การปรับตาม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake)
 - องค์ประกอบกลุ่ม: [*ผลกระทบที่เป็นสาระ การกำหนดความเป็นสาระ การปกครองที่ปรับตามการจำแนก การกำกับดูแล ข้อกำหนดขีดความสามารถ*](core_05_band_oversight.md#materiality-semi-independent)
 - อ่านคู่กับ: [การพึ่งพา](core_05_band_continuity.md#dependency) [ผลกระทบที่เป็นสาระ](core_05_band_oversight.md#material-impact) [ความเสี่ยง](core_05_band_continuity.md#risk) [ความครบถ้วนของขอบเขตระบบ](core_05_band_continuity.md#system-boundary-integrity) และ [การกำกับดูแล](core_05_apex_oversight_leg.md#oversight-constitutional)
-- ปลายทาง: [บทที่เจ็ด §3 การประเมินการรับรองทั้งระบบ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — หน้าที่ประเมินทั้งระบบที่ปรับตามการจำแนก
+- ปลายทาง: [บทที่เจ็ด §3 การประเมินการรับรองทั้งระบบ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — หน้าที่ประเมินทั้งระบบที่ปรับตามการจำแนก
 
 </details>
 
@@ -148,7 +148,7 @@
 - **วิธีวัดและประเมิน**
   - **การวัดหลัก:** [ตระกูลการวัดการกำกับดูแล](core_05_apex_oversight_leg.md#oversight-measurement-family) — *ผู้มีความรู้สึกเห็น ตรวจสอบ และพึ่งสิ่งที่ระบบแสดงได้หรือไม่* ใช้ที่นี่เพื่อถามว่าความลึกของการกำกับดูแลและภาระการตรวจสอบตรงกับส่วนได้เสีย ผลกระทบ การพึ่งพา และความเสี่ยงจริงของระบบหรือไม่ — ไม่ใช่ชั้นต่ำที่กำหนดเอง
 
-    **การประเมินหลัก:** ใช้ชั้นจริงภายใต้กฎการนำไปใช้ อ่านคู่กับ [การกำหนดความเป็นสาระ](core_05_band_oversight.md#materiality-determination) กับ [ความครบถ้วนของขอบเขตระบบ](core_05_band_continuity.md#system-boundary-integrity) ชั้นต่ำที่กำหนดเองหรือไม่เป็นทางการไม่พอเมื่อผลลัพธ์เต็มของระบบขอ [การกำกับดูแล](core_05_apex_oversight_leg.md#oversight-constitutional) หรือการปกครองที่เข้มกว่า การทบทวนทั้งระบบภายใต้ [บทที่เจ็ด §3 การประเมินการรับรองทั้งระบบ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ถูกปรับตามชั้น:
+    **การประเมินหลัก:** ใช้ชั้นจริงภายใต้กฎการนำไปใช้ อ่านคู่กับ [การกำหนดความเป็นสาระ](core_05_band_oversight.md#materiality-determination) กับ [ความครบถ้วนของขอบเขตระบบ](core_05_band_continuity.md#system-boundary-integrity) ชั้นต่ำที่กำหนดเองหรือไม่เป็นทางการไม่พอเมื่อผลลัพธ์เต็มของระบบขอ [การกำกับดูแล](core_05_apex_oversight_leg.md#oversight-constitutional) หรือการปกครองที่เข้มกว่า การทบทวนทั้งระบบภายใต้ [บทที่เจ็ด §3 การประเมินการรับรองทั้งระบบ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ถูกปรับตามชั้น:
     - **Class A** **Class B** และ **Class C** — ความลึกเต็ม บังคับ;
     - **Class L** — บังคับ แต่ปรับตามผลกระทบ; และ
     - **Class P** — ถูกส่งเสริมตราบที่ระบบยังเป็น **Class P** อย่างชอบ
@@ -247,7 +247,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ปลายทาง: ความเป็นสาระเชิงบูรณาการ ([การกำหนดความเป็นสาระ](core_05_band_oversight.md#materiality-determination)) (*ความเป็นสาระในฐานะการวัดทางรัฐธรรมนูญ*); หลักการ: [บทที่เจ็ด §3 การประเมินการรับรองทั้งระบบ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (กอง DEC **ความเป็นสาระ**; ความครบถ้วนของการประเมิน); [10.1 หลักการแลกแกน](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) (กองสัดส่วนที่อ่านกับผลลัพธ์ที่เป็นสาระ)
+- ปลายทาง: ความเป็นสาระเชิงบูรณาการ ([การกำหนดความเป็นสาระ](core_05_band_oversight.md#materiality-determination)) (*ความเป็นสาระในฐานะการวัดทางรัฐธรรมนูญ*); หลักการ: [บทที่เจ็ด §3 การประเมินการรับรองทั้งระบบ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (กอง DEC **ความเป็นสาระ**; ความครบถ้วนของการประเมิน); [10.1 หลักการแลกแกน](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) (กองสัดส่วนที่อ่านกับผลลัพธ์ที่เป็นสาระ)
 - อ่านคู่กับ: [ผลกระทบที่เป็นสาระ](core_05_band_oversight.md#material-impact) [ความเสี่ยงที่เป็นสาระ](core_05_band_oversight.md#material-risk) [ความเป็นสาระเชิงระบบ](core_05_band_accountability.md#systemic-materiality) และ [การปกครองที่ปรับตามการจำแนก](core_05_band_oversight.md#classification-scaled-governance)
 
 </details>
@@ -281,7 +281,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ปลายทาง: ความเป็นสาระเชิงบูรณาการ ([การกำหนดความเป็นสาระ](core_05_band_oversight.md#materiality-determination)) (*ความเป็นสาระในฐานะการวัดทางรัฐธรรมนูญ*); หลักการ: ตัวแทนวัดการปรับความเข้ม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake); บทที่หนึ่งเปิดบทนิยามนี้ข้าม **ความปลอดภัย** (**บทที่หนึ่ง §8.1**) **ความจริง** (**บทที่หนึ่ง §8.2**) **ความไว้วางใจ** (**§12**) วลีการบริหารอย่างรับผิดชอบและการเปิดของ **§12** **§13.1** **§13.2** และ **บทที่หนึ่ง §6.3.2** ที่ **ความเป็นสาระ** ปรากฏบนวิดเจ็ต D/A/C — ดู [บทที่เจ็ด §3 การประเมินการรับรองทั้งระบบ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) เป็นบ้านประเมินระบบหลัก
+- ปลายทาง: ความเป็นสาระเชิงบูรณาการ ([การกำหนดความเป็นสาระ](core_05_band_oversight.md#materiality-determination)) (*ความเป็นสาระในฐานะการวัดทางรัฐธรรมนูญ*); หลักการ: ตัวแทนวัดการปรับความเข้ม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake); บทที่หนึ่งเปิดบทนิยามนี้ข้าม **ความปลอดภัย** (**บทที่หนึ่ง §8.1**) **ความจริง** (**บทที่หนึ่ง §8.2**) **ความไว้วางใจ** (**§12**) วลีการบริหารอย่างรับผิดชอบและการเปิดของ **§12** **§13.1** **§13.2** และ **บทที่หนึ่ง §6.3.2** ที่ **ความเป็นสาระ** ปรากฏบนวิดเจ็ต D/A/C — ดู [บทที่เจ็ด §3 การประเมินการรับรองทั้งระบบ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) เป็นบ้านประเมินระบบหลัก
 - องค์ประกอบกลุ่ม: [กลุ่มที่พึ่งพา *ผลกระทบที่เป็นสาระ การกำหนดความเป็นสาระ การปกครองที่ปรับตามการจำแนก การกำกับดูแล ข้อกำหนดขีดความสามารถ*](core_05_band_oversight.md#materiality-semi-independent)
 - อ่านคู่กับ: [ผลกระทบที่เป็นสาระ](core_05_band_oversight.md#material-impact) [ความเสี่ยงที่เป็นสาระ](core_05_band_oversight.md#material-risk) [ความเป็นสาระเชิงระบบ](core_05_band_continuity.md#systemic-materiality) และ [ความสามารถในการตรวจ](core_05_band_oversight.md#auditability)
 
@@ -354,7 +354,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ปลายทาง: หลักการ: [บทที่เจ็ด §3 การประเมินการรับรองทั้งระบบ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (การรวมและความครบถ้วนของขอบเขตในการประเมิน); [§6.2.4 การทำให้ความคลาดของตัวแทนวัดเป็นโมฆะ](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) (ช่องว่างมาตรวัด/ความจริงที่อาจเล่นความเป็นสาระ)
+- ปลายทาง: หลักการ: [บทที่เจ็ด §3 การประเมินการรับรองทั้งระบบ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (การรวมและความครบถ้วนของขอบเขตในการประเมิน); [§6.2.4 การทำให้ความคลาดของตัวแทนวัดเป็นโมฆะ](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) (ช่องว่างมาตรวัด/ความจริงที่อาจเล่นความเป็นสาระ)
 - อ่านคู่กับ: [การกำหนดความเป็นสาระ](core_05_band_oversight.md#materiality-determination) [ขอบเขตระบบ](core_05_band_continuity.md#system-boundaries) [ความครบถ้วนของขอบเขตระบบ](core_05_band_continuity.md#system-boundary-integrity) [ความเป็นสาระเชิงระบบ](core_05_band_accountability.md#systemic-materiality) [ความสามารถในการตรวจ](core_05_band_oversight.md#auditability) และ [ความรับผิดชอบ](core_05_apex_accountability_leg.md#accountability)
 
 </details>
@@ -391,7 +391,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ปลายทาง: ความเป็นสาระเชิงบูรณาการ ([การกำหนดความเป็นสาระ](core_05_band_oversight.md#materiality-determination)) (*ความเป็นสาระในฐานะการวัดทางรัฐธรรมนูญ*); หลักการ: ตัวแทนวัดการปรับความเข้ม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake); [บทที่เจ็ด §3 การประเมินการรับรองทั้งระบบ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§9 การบริหารอย่างรับผิดชอบและความเข้าใจที่กระจาย — §9.2 ความเข้าใจที่กระจาย](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding) (ความเข้าใจปรับตาม **ความเป็นสาระ**); [8.1.1 สัดส่วน](core_01_b_interaction_interpretation.md#613-proportionality) (ผลกระทบที่เป็นสาระในดัชนีแลก)
+- ปลายทาง: ความเป็นสาระเชิงบูรณาการ ([การกำหนดความเป็นสาระ](core_05_band_oversight.md#materiality-determination)) (*ความเป็นสาระในฐานะการวัดทางรัฐธรรมนูญ*); หลักการ: ตัวแทนวัดการปรับความเข้ม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake); [บทที่เจ็ด §3 การประเมินการรับรองทั้งระบบ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§9 การบริหารอย่างรับผิดชอบและความเข้าใจที่กระจาย — §9.2 ความเข้าใจที่กระจาย](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding) (ความเข้าใจปรับตาม **ความเป็นสาระ**); [8.1.1 สัดส่วน](core_01_b_interaction_interpretation.md#613-proportionality) (ผลกระทบที่เป็นสาระในดัชนีแลก)
 - องค์ประกอบกลุ่ม: [กลุ่มที่พึ่งพา *ผลกระทบที่เป็นสาระ การกำหนดความเป็นสาระ การปกครองที่ปรับตามการจำแนก การกำกับดูแล ข้อกำหนดขีดความสามารถ*](core_05_band_oversight.md#materiality-semi-independent)
 - อ่านคู่กับ: [ภัย](core_05_band_accountability.md#harm) [ความเสี่ยง](core_05_band_continuity.md#risk) [ความเป็นสาระเชิงระบบ](core_05_band_accountability.md#systemic-materiality) [การพึ่งพา](core_05_band_continuity.md#dependency) [การปกครองที่ปรับตามการจำแนก](core_05_band_oversight.md#classification-scaled-governance) [การกำกับดูแล](core_05_apex_oversight_leg.md#oversight-constitutional) และ [ความโปร่งใส](core_05_band_oversight.md#transparency)
 
@@ -439,7 +439,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ปลายทาง: ความเป็นสาระเชิงบูรณาการ ([การกำหนดความเป็นสาระ](core_05_band_oversight.md#materiality-determination)) (*ความเป็นสาระในฐานะการวัดทางรัฐธรรมนูญ*); หลักการ: [บทที่เจ็ด §3 การประเมินการรับรองทั้งระบบ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (ความเสี่ยงหาง ท่าทีความเสี่ยงดำรงอยู่); [8.1.1 สัดส่วน](core_01_b_interaction_interpretation.md#613-proportionality) (ดัชนี **ความเสี่ยง** **ภัยที่ไม่อาจย้อนกลับ** **ความเสี่ยงดำรงอยู่**)
+- ปลายทาง: ความเป็นสาระเชิงบูรณาการ ([การกำหนดความเป็นสาระ](core_05_band_oversight.md#materiality-determination)) (*ความเป็นสาระในฐานะการวัดทางรัฐธรรมนูญ*); หลักการ: [บทที่เจ็ด §3 การประเมินการรับรองทั้งระบบ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (ความเสี่ยงหาง ท่าทีความเสี่ยงดำรงอยู่); [8.1.1 สัดส่วน](core_01_b_interaction_interpretation.md#613-proportionality) (ดัชนี **ความเสี่ยง** **ภัยที่ไม่อาจย้อนกลับ** **ความเสี่ยงดำรงอยู่**)
 - อ่านคู่กับ: [ภัย](core_05_band_accountability.md#harm) [ภัยที่ไม่อาจย้อนกลับ](core_05_band_accountability.md#irreversible-harm) [ความเสี่ยง](core_05_band_continuity.md#risk) [ความปลอดภัย (ข้อจำกัด)](core_05_band_continuity.md#safety-constraint) และ [การปกครองที่ปรับตามการจำแนก](core_05_band_oversight.md#classification-scaled-governance)
 
 </details>
@@ -485,7 +485,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ปลายทาง: หลักการ: [8.1.1 สัดส่วน](core_01_b_interaction_interpretation.md#613-proportionality) (ความสามารถในการย้อนกลับภายใต้ความไม่แน่นอน); [บทที่เจ็ด §3 การประเมินการรับรองทั้งระบบ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (การป้องกันภัยที่พลาด)
+- ปลายทาง: หลักการ: [8.1.1 สัดส่วน](core_01_b_interaction_interpretation.md#613-proportionality) (ความสามารถในการย้อนกลับภายใต้ความไม่แน่นอน); [บทที่เจ็ด §3 การประเมินการรับรองทั้งระบบ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (การป้องกันภัยที่พลาด)
 - อ่านคู่กับ: [ผลกระทบที่เป็นสาระ](core_05_band_oversight.md#material-impact) [ความเสี่ยงที่เป็นสาระ](core_05_band_oversight.md#material-risk) [ภัยที่ไม่อาจย้อนกลับ](core_05_band_accountability.md#irreversible-harm) [ความปลอดภัย (ข้อจำกัด)](core_05_band_continuity.md#safety-constraint) และ [การปกครองที่ปรับตามการจำแนก](core_05_band_oversight.md#classification-scaled-governance)
 
 </details>
@@ -525,7 +525,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ปลายทาง: ตระกูลการวัดการกำกับดูแล (*ความจริงและความครบถ้วนของความรู้ในฐานะการวัดทางรัฐธรรมนูญ*); ตระกูลการวัดความรับผิดชอบ (*ความสอดคล้องของสิ่งจูงใจและความครบถ้วนของตัวแทนวัดในฐานะการวัดทางรัฐธรรมนูญ*); หลักการ: [§6.2.4 การทำให้ความคลาดของตัวแทนวัดเป็นโมฆะ](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) [บทที่เจ็ด §3 การประเมินการรับรองทั้งระบบ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) และ [§10 การปกครองภายใต้วินัยการบริหารอย่างรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)
+- ปลายทาง: ตระกูลการวัดการกำกับดูแล (*ความจริงและความครบถ้วนของความรู้ในฐานะการวัดทางรัฐธรรมนูญ*); ตระกูลการวัดความรับผิดชอบ (*ความสอดคล้องของสิ่งจูงใจและความครบถ้วนของตัวแทนวัดในฐานะการวัดทางรัฐธรรมนูญ*); หลักการ: [§6.2.4 การทำให้ความคลาดของตัวแทนวัดเป็นโมฆะ](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) [บทที่เจ็ด §3 การประเมินการรับรองทั้งระบบ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) และ [§10 การปกครองภายใต้วินัยการบริหารอย่างรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)
 - องค์ประกอบกลุ่ม: [กลุ่มที่พึ่งพา *ผลกระทบที่เป็นสาระ การกำหนดความเป็นสาระ การปกครองที่ปรับตามการจำแนก การกำกับดูแล ข้อกำหนดขีดความสามารถ*](core_05_band_oversight.md#materiality-semi-independent)
 - อ่านคู่กับ: [การกำหนดความเป็นสาระ](core_05_band_oversight.md#materiality-determination) [ข้อจำกัดความครบถ้วนของความเป็นสาระ](core_05_band_oversight.md#materiality-integrity-constraint) [ความครบถ้วนของขอบเขตระบบ](core_05_band_continuity.md#system-boundary-integrity) [ความสอดคล้องของสิ่งจูงใจ](core_05_band_integrative.md#incentive-alignment) [ความสามารถในการตรวจ](core_05_band_oversight.md#auditability) และ [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#truth-constitutional-constraint)
 
@@ -596,7 +596,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ปลายทาง: หลักการ: [บทที่เจ็ด §3 การประเมินการรับรองทั้งระบบ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [4. ข้อจำกัดที่ต่อรองไม่ได้: ความปลอดภัยและความจริง](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) (เส้นทางเสื่อม **ความปลอดภัย** / **ความจริง**)
+- ปลายทาง: หลักการ: [บทที่เจ็ด §3 การประเมินการรับรองทั้งระบบ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [4. ข้อจำกัดที่ต่อรองไม่ได้: ความปลอดภัยและความจริง](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) (เส้นทางเสื่อม **ความปลอดภัย** / **ความจริง**)
 - อ่านคู่กับ: [การกำหนดความเป็นสาระ](core_05_band_oversight.md#materiality-determination) [ความเป็นสาระเชิงระบบ](core_05_band_accountability.md#systemic-materiality) [ความเสี่ยง](core_05_band_continuity.md#risk) [ความปลอดภัย (ข้อจำกัด)](core_05_band_continuity.md#safety-constraint) [ความครบถ้วนของความรู้](core_05_band_oversight.md#epistemic-integrity) และ [พลังกระทำการที่มีความหมาย](core_05_band_participation.md#meaningful-agency)
 
 </details>
@@ -662,7 +662,7 @@
 
 ในที่ที่ขอบเขตการรับเข้าถูกสนอง กลุ่มนี้เป็นบ้านร่วมของการเปิดเผย การตรวจ การยืนยัน (รวมความสามารถรับรู้นอก) และความลึกของประกัน เมื่อบทที่สองถึงสี่ขอหลักฐานที่ตามรอยและโต้แย้งได้ว่าสิ่งที่ระบบทำและข้อกล่าวอ้างปฏิบัติตามยังยืน
 
-**กรอบการกำกับดูแล.** ภายใต้ขา **การกำกับดูแล** ของ [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) การกำกับดูแลขอการตรวจ — การสร้างสิ่งที่เกิดใหม่ การยืนยันอิสระ และการได้การเข้าถึงการตรวจ — ซึ่งถูกกำกับที่นี่และใน **มาตรา XV** (*การตรวจ ความโปร่งใส และการยืนยันอิสระ*) [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) เป็นกระบวนการตรวจที่ใหญ่และมีส่วนได้เสียสูงเป็นพิเศษในบรรดาอื่น (การทบทวนความสอดคล้องการกำกับดูแลของเวทีที่ผลิตผลการรับเข้าภายใต้ [บทที่เจ็ด](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)); มันไม่กลืนกลุ่มนี้หรือแทนวิธีตรวจพี่น้อง
+**กรอบการกำกับดูแล.** ภายใต้ขา **การกำกับดูแล** ของ [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) การกำกับดูแลขอการตรวจ — การสร้างสิ่งที่เกิดใหม่ การยืนยันอิสระ และการได้การเข้าถึงการตรวจ — ซึ่งถูกกำกับที่นี่และใน **มาตรา XV** (*การตรวจ ความโปร่งใส และการยืนยันอิสระ*) [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) เป็นกระบวนการตรวจที่ใหญ่และมีส่วนได้เสียสูงเป็นพิเศษในบรรดาอื่น (การทบทวนความสอดคล้องการกำกับดูแลของเวทีที่ผลิตผลการรับเข้าภายใต้ [บทที่เจ็ด](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)); มันไม่กลืนกลุ่มนี้หรือแทนวิธีตรวจพี่น้อง
 
 **ชั้นระบบและสัดส่วน.** หน้าที่ความโปร่งใส ความสามารถในการตรวจ และการยืนยันถูกปรับตามชั้นระบบภายใต้ **[corpus_systems.md](../../corpus_systems.md) CS-3 — การจำแนกและการปฏิบัติต่อระบบ** และตามผลกระทบที่เป็นสาระ การพึ่งพา ความเสี่ยง ระบบชั้นสูงกว่า (**Class A** **B** **C**) ต้องการมากกว่าชั้นต่ำกว่า (**Class L** **P**) รวม:
 - ประกันที่ลึกกว่า;
@@ -758,7 +758,7 @@
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
 - องค์ประกอบกลุ่ม: [Def.O1 *ความโปร่งใส ความสามารถในการตรวจ และการตรวจสอบ*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster)
-- ปลายทาง: **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** (*เส้นฐาน Type O สำหรับระบบ Class A/B/C*); **[CS-2 Part B — Type O](../../corpus_systems/cs_02_b_data_classifications.md#83-type-o-open-public-oversight-baseline-disclosure-data)** (*การจัดชนิดและความสัมพันธ์ O/E/G*); [บทที่เจ็ด §4](../../core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*การประเมินชนิดข้อมูลและการปฏิบัติ*); [บทที่เจ็ด ส่วน ข §11](../../core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*บันทึกการรับรอง*); [บทที่เจ็ด ส่วน ข §12](../../core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*ความโปร่งใส ความสามารถในการตรวจ ความสามารถในการโต้แย้ง*)
+- ปลายทาง: **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** (*เส้นฐาน Type O สำหรับระบบ Class A/B/C*); **[CS-2 Part B — Type O](../../corpus_systems/cs_02_b_data_classifications.md#83-type-o-open-public-oversight-baseline-disclosure-data)** (*การจัดชนิดและความสัมพันธ์ O/E/G*); [บทที่เจ็ด §4](../../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*การประเมินชนิดข้อมูลและการปฏิบัติ*); [บทที่เจ็ด ส่วน ข §11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record) (*บันทึกการรับรอง*); [บทที่เจ็ด ส่วน ข §12](../../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*ความโปร่งใส ความสามารถในการตรวจ ความสามารถในการโต้แย้ง*)
 - อ่านคู่กับ: [ความโปร่งใส](core_05_band_oversight.md#transparency) [ความสามารถในการโต้แย้ง](core_05_band_accountability.md#contestability) [ความสามารถในการตรวจ](core_05_band_oversight.md#auditability) [การเปิดเผยความเสี่ยง](core_05_band_oversight.md#risk-disclosure) [ตราสารกำหนดขอบเขต](core_05_band_continuity.md#charter) [ขอบเขตระบบ](core_05_band_continuity.md#system-boundaries) [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) [บันทึกการรับรองระบบ](core_05_band_continuity.md#system-certification-record-constitutional) [บันทึกการจำแนกระบบ](core_05_band_continuity.md#system-classification-record-constitutional) [บันทึกชนิดข้อมูลของระบบ](core_05_band_continuity.md#system-data-types-record-constitutional) [การปกครองที่ปรับตามการจำแนก](core_05_band_oversight.md#classification-scaled-governance) และ **[corpus_systems.md](../../corpus_systems.md) CS-2 — ชนิดข้อมูลและการปฏิบัติ** (**Type O**)
 
 </details>
@@ -838,7 +838,7 @@
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
 - องค์ประกอบกลุ่ม: [Def.O1 *ความโปร่งใส ความสามารถในการตรวจ และการตรวจสอบ*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster)
-- ปลายทาง: ตระกูลการวัดการกำกับดูแล (*การเปิดเผยและประกันในฐานะการวัดทางรัฐธรรมนูญ*); หลักการ: [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — ขา **การกำกับดูแล**; [4.1 ความปลอดภัย](core_01_a_values_principles.md#31-safety-harm-constraint); [บทที่เจ็ด §3.1 ขอบเขตเชิงระบบและปัจจัยความเสี่ยง](../../core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*ขาประเมิน·เปิดเผย SAC*); [บทที่เจ็ด ส่วน ข §11.1](../../core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents) (*ข้อค้นพบบนบันทึกการรับรองระบบ — ไม่ใช่บันทึกเปิดเผยความเสี่ยงที่ตั้งชื่อแยก*)
+- ปลายทาง: ตระกูลการวัดการกำกับดูแล (*การเปิดเผยและประกันในฐานะการวัดทางรัฐธรรมนูญ*); หลักการ: [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — ขา **การกำกับดูแล**; [4.1 ความปลอดภัย](core_01_a_values_principles.md#31-safety-harm-constraint); [บทที่เจ็ด §3.1 ขอบเขตเชิงระบบและปัจจัยความเสี่ยง](../../core_08_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*ขาประเมิน·เปิดเผย SAC*); [บทที่เจ็ด ส่วน ข §11.1](../../core_08_b_system_alignment_certification_record_process.md#111-minimum-record-contents) (*ข้อค้นพบบนบันทึกการรับรองระบบ — ไม่ใช่บันทึกเปิดเผยความเสี่ยงที่ตั้งชื่อแยก*)
 - อ่านคู่กับ: [การประเมินความเสี่ยง](core_05_band_continuity.md#risk-evaluation) [ความเสี่ยง](core_05_band_continuity.md#risk) [ความโปร่งใส](core_05_band_oversight.md#transparency) [การเปิดเผยเส้นฐานการกำกับดูแลสาธารณะ](core_05_band_oversight.md#public-oversight-baseline-disclosure) [ความปลอดภัย (ข้อจำกัด)](core_05_band_continuity.md#safety-constraint) [ความสามารถในการโต้แย้ง](core_05_band_accountability.md#contestability) [ความครบถ้วนของความรู้](core_05_band_oversight.md#epistemic-integrity) และ [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional)
 
 </details>
@@ -850,7 +850,7 @@
 - **มันคืออะไร**
   - **ในขอบเขต:** บอก [ความเสี่ยง](core_05_band_continuity.md#risk) ระบบที่ประเมินแล้วแก่ผู้ที่ต้องการมัน เพื่อให้เข้าใจ โต้แย้ง และกระทำการได้
     - **หน้าที่ต่อเนื่อง:** หน้าที่ไม่จำกัดวงรอบการรับรอง — ใช้ทุกที่ที่ [ความโปร่งใส](core_05_band_oversight.md#transparency) หรือ [ความปลอดภัย (ข้อจำกัด)](core_05_band_continuity.md#safety-constraint) ขอให้ความเสี่ยงที่ประเมินแล้วถึงผู้มีความรู้สึกที่ต้องการมัน
-    - **การยืนยัน SAC:** ในที่ที่ [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) เดินและความเสี่ยงระบบอยู่ในขอบเขต การเปิดเผยนี้เป็นส่วนที่การรับรองต้องยืนยันภายใต้ [บทที่เจ็ด §3.1](../../core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors); ข้อค้นพบบน [บันทึกการรับรองระบบ](core_05_band_continuity.md#system-certification-record-constitutional) ไม่ใช่บันทึกเปิดเผยความเสี่ยงที่ตั้งชื่อแยก
+    - **การยืนยัน SAC:** ในที่ที่ [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) เดินและความเสี่ยงระบบอยู่ในขอบเขต การเปิดเผยนี้เป็นส่วนที่การรับรองต้องยืนยันภายใต้ [บทที่เจ็ด §3.1](../../core_08_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors); ข้อค้นพบบน [บันทึกการรับรองระบบ](core_05_band_continuity.md#system-certification-record-constitutional) ไม่ใช่บันทึกเปิดเผยความเสี่ยงที่ตั้งชื่อแยก
   - **นอกขอบเขต:**
     - [การประเมินความเสี่ยง](core_05_band_continuity.md#risk-evaluation) เอง — หน้าที่ประเมินความเสี่ยงระบบ;
     - [การเปิดเผยเส้นฐานการกำกับดูแลสาธารณะ](core_05_band_oversight.md#public-oversight-baseline-disclosure) ในฐานะพื้นเส้นฐานสาธารณะที่กว้างกว่า; หรือ
@@ -1013,7 +1013,7 @@
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
 - องค์ประกอบกลุ่ม: [Def.O1 *ความโปร่งใส ความสามารถในการตรวจ และการตรวจสอบ*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster)
-- ปลายทาง: ตระกูลการวัดการกำกับดูแล (*การครอบการประเมินในฐานะการวัดทางรัฐธรรมนูญ*); [บทที่เจ็ด §3 การประเมินการรับรองทั้งระบบ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*การประเมินทั้งระบบ SAC*); [บทที่เจ็ด ส่วน ข §11.1](../../core_07_b_system_alignment_certification_record_process.md#111-minimum-record-contents) (*ข้อค้นพบบนบันทึกการรับรองระบบ*); [CS-5 — การออกแบบ การทดสอบ การตรวจสอบ และการนำไปใช้](../../corpus_systems/cs_05_design_testing_verification_deployment.md) (*การครอบทดสอบ ความกดดัน การถดถอย*)
+- ปลายทาง: ตระกูลการวัดการกำกับดูแล (*การครอบการประเมินในฐานะการวัดทางรัฐธรรมนูญ*); [บทที่เจ็ด §3 การประเมินการรับรองทั้งระบบ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*การประเมินทั้งระบบ SAC*); [บทที่เจ็ด ส่วน ข §11.1](../../core_08_b_system_alignment_certification_record_process.md#111-minimum-record-contents) (*ข้อค้นพบบนบันทึกการรับรองระบบ*); [CS-5 — การออกแบบ การทดสอบ การตรวจสอบ และการนำไปใช้](../../corpus_systems/cs_05_design_testing_verification_deployment.md) (*การครอบทดสอบ ความกดดัน การถดถอย*)
 - อ่านคู่กับ: [ความสามารถในการตรวจ](core_05_band_oversight.md#auditability) [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) [ตราสารกำหนดขอบเขต](core_05_band_continuity.md#charter) [ขอบเขตระบบ](core_05_band_continuity.md#system-boundaries) [ความครบถ้วนของขอบเขตระบบ](core_05_band_continuity.md#system-boundary-integrity) [การกำหนดความเป็นสาระ](core_05_band_oversight.md#materiality-determination) [เงื่อนไขเชิงปรปักษ์ ที่ถูกขยายขนาด และที่ถูกแสวงหาประโยชน์](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) [การสร้างระบบ](core_05_band_participation.md#system-creation-constitutional) และ [การสร้างกิจการ](core_05_band_participation.md#business-creation-constitutional)
 
 </details>
@@ -1030,7 +1030,7 @@
     - เส้นทางเชิงปรปักษ์
   - **หน้าที่ต่อเนื่อง:** ข้อจำกัดใช้ทุกที่ที่ผู้ดำเนินงาน ผู้บริหารอย่างรับผิดชอบ หรือผู้ทบทวนอ้างการปฏิบัติตามทางรัฐธรรมนูญ ความพร้อม หรือการพึ่งที่ปลอดภัยด้วยการประเมินหรืองานประกัน — ไม่ใช่เฉพาะระหว่างวงรอบการรับรอง
   - **ตราสารกำหนดขอบเขตและกระบวนการขอบเขต:** ในที่ที่มี [ตราสารกำหนดขอบเขต](core_05_band_continuity.md#charter) ที่กำกับ (หรือเครื่องมือขอบเขตสาธารณะที่เทียบ) สำหรับระบบ สถาบัน กิจการ หรือรูปการบริหารอย่างรับผิดชอบที่เทียบได้ การประเมินต้องทดสอบจุดประสงค์และขีดจำกัดใน/นอกขอบเขตที่ถูกตราสาร ต่อ [ขอบเขตระบบ](core_05_band_continuity.md#system-boundaries) ที่สังเกตและเส้นทางที่น่าเชื่อในและที่ขอบของขอบเขตนั้น ข้อความตราสารกำหนดขอบเขตไม่ลดเส้นทางที่ต้องประเมิน
-  - **การยืนยัน SAC:** ในที่ที่ [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) เดิน ข้อจำกัดนี้เป็นส่วนที่การรับรองต้องยืนยันภายใต้ [บทที่เจ็ด §3](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — รวมการตรวจขอบเขตที่ถูกตราสารเทียบขอบเขตหน้าที่ภายใต้ [§3.1](../../core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) และการครอบทดสอบ / ถดถอยที่ปรับตามชั้นภายใต้ [CS-5](../../corpus_systems/cs_05_design_testing_verification_deployment.md) ข้อค้นพบบน [บันทึกการรับรองระบบ](core_05_band_continuity.md#system-certification-record-constitutional)
+  - **การยืนยัน SAC:** ในที่ที่ [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) เดิน ข้อจำกัดนี้เป็นส่วนที่การรับรองต้องยืนยันภายใต้ [บทที่เจ็ด §3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — รวมการตรวจขอบเขตที่ถูกตราสารเทียบขอบเขตหน้าที่ภายใต้ [§3.1](../../core_08_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) และการครอบทดสอบ / ถดถอยที่ปรับตามชั้นภายใต้ [CS-5](../../corpus_systems/cs_05_design_testing_verification_deployment.md) ข้อค้นพบบน [บันทึกการรับรองระบบ](core_05_band_continuity.md#system-certification-record-constitutional)
   - **นอกขอบเขต:**
     - ข้อความ [ตราสารกำหนดขอบเขต](core_05_band_continuity.md#charter) อย่างเดียวในฐานะเครื่องมือขอบเขต — ตราสารกำหนดขอบเขตพูดขอบเขตที่ตั้งใจ; ไม่ใช่การครอบประเมินในตัวเอง;
     - เครื่องกระบวนการของ [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) ในตัวมันเอง — การรับรองอาจยืนยันข้อจำกัดนี้; ไม่ใช่บริบทเดียวที่ข้อจำกัดใช้; หรือ
@@ -1046,7 +1046,7 @@
     - [เงื่อนไขเชิงปรปักษ์ ที่ถูกขยายขนาด และที่ถูกแสวงหาประโยชน์](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) ในที่ที่เป็นสาระ
     และถาม:
       - ในที่ที่มี [ตราสารกำหนดขอบเขต](core_05_band_continuity.md#charter) การประเมินทดสอบขอบเขตที่ถูกตราสารต่อขอบเขตที่สังเกต โดยไม่ปฏิบัติต่อตราสารกำหนดขอบเขตว่าเป็นรายการสถานการณ์เต็มหรือไม่; และ
-      - ในที่ที่ [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) เดิน การประเมินทั้งระบบและข้อค้นพบบันทึกภายใต้ [บทที่เจ็ด §3](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) สะท้อนการครอบนั้นหรือไม่
+      - ในที่ที่ [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) เดิน การประเมินทั้งระบบและข้อค้นพบบันทึกภายใต้ [บทที่เจ็ด §3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) สะท้อนการครอบนั้นหรือไม่
 <a id="evaluation-completeness-constraint-c"></a>
 - **สิ่งที่ต้องคงอยู่**
   - **ความล้มเหลวหลัก:**

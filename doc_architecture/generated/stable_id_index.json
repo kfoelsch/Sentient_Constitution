@@ -101,47 +101,52 @@
       "status": "present"
     },
     {
-      "file": "core_07_a_system_alignment_certification_evaluation.md",
+      "file": "core_07_functional_independence_segregation_of_duties.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_07_b_system_alignment_certification_record_process.md",
+      "file": "core_08_a_system_alignment_certification_evaluation.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_07_system_alignment_certification.md",
+      "file": "core_08_b_system_alignment_certification_record_process.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_08_standing_assessment.md",
+      "file": "core_08_system_alignment_certification.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_09_standing_integration.md",
+      "file": "core_09_standing_assessment.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_10_a_misconduct_designation.md",
+      "file": "core_10_standing_integration.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_10_b_misconduct_pattern_applications.md",
+      "file": "core_11_a_misconduct_designation.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_11_forum.md",
+      "file": "core_11_b_misconduct_pattern_applications.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_08-11_application_vignettes.md",
+      "file": "core_12_forum.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_09-12_application_vignettes.md",
       "label": "core",
       "status": "present"
     },
@@ -166,27 +171,27 @@
       "status": "present"
     },
     {
-      "file": "core_12_governance.md",
+      "file": "core_13_governance.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_13_non_regression.md",
+      "file": "core_14_non_regression.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_14_expansion_supremacy.md",
+      "file": "core_15_expansion_supremacy.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_15_amendment_ratification.md",
+      "file": "core_16_amendment_ratification.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_16_incorporation.md",
+      "file": "core_17_incorporation.md",
       "label": "core",
       "status": "present"
     },
@@ -222,7 +227,7 @@
     },
     {
       "id": "CJS-R02",
-      "topic": "Forum chambers, divisions, and designated panels (Chapter Eleven families)",
+      "topic": "Forum chambers, divisions, and designated panels (Chapter Twelve families)",
       "primary_owner": "[**CF-3.5**\u2013**CF-3.8**](../corpus_forum/cf_03_forum_formation_chamber_structure.",
       "primary_attach": [
         "CF-3"

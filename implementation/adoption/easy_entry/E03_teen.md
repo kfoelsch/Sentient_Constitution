@@ -9,7 +9,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.08.09`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_15_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Fourteen §5](../../../core_14_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_16_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -69,9 +69,9 @@ See: [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-ch
 
 - **“I want to be treated as a full adult now.”** What you may do yourself will not invent that if what you can actually show does not support it. The honest gain is that the test is capability, not a birthday stand-in, and that a “no” has to be justified and open to challenge.
 
-- **“If I push back, they’ll write me up.”** Good-faith challenge is supposed to be protected against retaliation ([Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)). A family report or school note is not, by itself, an official record of verified help or harm ([Chapter Eight §2.1](../../../core_08_standing_assessment.md#21-silence-is-the-default)).
+- **“If I push back, they’ll write me up.”** Good-faith challenge is supposed to be protected against retaliation ([Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)). A family report or school note is not, by itself, an official record of verified help or harm ([Chapter Nine §2.1](../../../core_09_standing_assessment.md#21-silence-is-the-default)).
 
-- **“This isn’t law at my school.”** Correct until a qualifying body adopts it. It does not override applicable education or family law ([Chapter Fourteen §5](../../../core_14_expansion_supremacy.md#5-relation-to-applicable-external-law)).
+- **“This isn’t law at my school.”** Correct until a qualifying body adopts it. It does not override applicable education or family law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
 - **“What about sex, work, or leaving home?”** Those are two basic protections that can pull in different directions — self-ownership, care relationships, labor, staying with someone you depend on — not a single teen override. Where the text does not pick a winner, it is supposed to say so rather than invent one. A lived-situation sitting may test a specific collision; this brief does not.
 

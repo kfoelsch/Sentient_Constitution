@@ -12,7 +12,7 @@
 >
 > **मागील (या भाषेत):** [core_05_band_participation.md](core_05_band_participation.md)
 >
-> **पुढील (अजून इंग्रजीत):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+> **पुढील (अजून इंग्रजीत):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 > **वाचन चाप:** मापन कुटुंब घर → सातत्य पट्ट्यातील पान मार्गनिर्देशन.
 
 </details>
@@ -58,12 +58,12 @@
 - संक्रियात्मक मापन स्तर अध्याय पाच व्याख्या घरांवर राहतात — पहा [संवैधानिक कार्यक्षमता](core_05_band_continuity.md#constitutional-efficiency), [टाळता येणारा भार](core_05_band_continuity.md#avoidable-burden), [उत्पादक क्षमता](core_05_band_continuity.md#productive-capacity-constitutional) आणि [भार-कमी कर्तव्य](core_05_band_continuity.md#burden-reduction-duty-constitutional).
 - कामगिरी लक्ष्ये, बक्षीस आणि संसाधन मापे तेवढ्याच प्रमाणात वैध आहेत जितके ती संवैधानिक निकालांपर्यंत माग काढता येणारी राहतात.
 - ती संवैधानिक कार्यक्षमता, [उत्पादक क्षमता](core_05_band_continuity.md#productive-capacity-constitutional) किंवा अधिकार-तळ अनुपालनाची जागा घेऊ शकत नाहीत.
-- जिथे संपूर्ण-प्रणाली कामगिरी भौतिक रीतीने व्याप्तीत असेल तिथे [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) सोबत वाचा.
+- जिथे संपूर्ण-प्रणाली कामगिरी भौतिक रीतीने व्याप्तीत असेल तिथे [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) सोबत वाचा.
 
 ---
 
 **मागील फाइल:** [core_05_band_participation.md](core_05_band_participation.md)
 
-**पुढील फाइल (अजून इंग्रजीत):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+**पुढील फाइल (अजून इंग्रजीत):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 
 **बंधनकारक मूळ:** [core_05_band_performance.md](../../core_05_band_performance.md)

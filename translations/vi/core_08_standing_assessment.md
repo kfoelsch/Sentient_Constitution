@@ -7,14 +7,14 @@
 
 > Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nó không thêm, bớt hay thu hẹp nghĩa vụ ràng buộc ở tệp này hay ở các chương khác.
 >
-> Tệp này là một **thử nghiệm ngôn ngữ đọc** của [Chương Tám tiếng Anh](../../core_08_standing_assessment.md). **Không** phải phần ràng buộc của Hiến pháp Hữu tri. **Không** phải một hiến pháp thứ hai. **Không** phải một ấn bản phát hành. Nó được **ghim** vào `SC-Corpus-2026.08.09`. Nếu bản dịch này và nguyên bản tiếng Anh có vẻ lệch nhau, tệp đánh số [`core_08_standing_assessment.md`](../../core_08_standing_assessment.md) thắng. Thứ tự đọc và siêu dữ liệu ấn bản được giữ ở [README.md](../../README.md). Phương pháp và bảng thuật ngữ: [translations/vi/README.md](README.md).
+> Tệp này là một **thử nghiệm ngôn ngữ đọc** của [Chương Tám tiếng Anh](../../core_09_standing_assessment.md). **Không** phải phần ràng buộc của Hiến pháp Hữu tri. **Không** phải một hiến pháp thứ hai. **Không** phải một ấn bản phát hành. Nó được **ghim** vào `SC-Corpus-2026.08.09`. Nếu bản dịch này và nguyên bản tiếng Anh có vẻ lệch nhau, tệp đánh số [`core_08_standing_assessment.md`](../../core_09_standing_assessment.md) thắng. Thứ tự đọc và siêu dữ liệu ấn bản được giữ ở [README.md](../../README.md). Phương pháp và bảng thuật ngữ: [translations/vi/README.md](README.md).
 >
-> Nó giới thiệu ba câu hỏi của chuỗi quỹ đạo, trả lời Câu hỏi 1 (*điều gì đã xảy ra?*), và trả lời Câu hỏi 2 (*tốt hay xấu đến mức nào?*). Câu hỏi 3 (*điều gì xảy ra vì thế?*) tiếp ở [Chương Chín](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration), với rà soát chỉ-chỉ định ở [Chương Mười](../../core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) cho các phát hiện Trục Vi phạm đủ điều kiện `s` = 7–9.
+> Nó giới thiệu ba câu hỏi của chuỗi quỹ đạo, trả lời Câu hỏi 1 (*điều gì đã xảy ra?*), và trả lời Câu hỏi 2 (*tốt hay xấu đến mức nào?*). Câu hỏi 3 (*điều gì xảy ra vì thế?*) tiếp ở [Chương Chín](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration), với rà soát chỉ-chỉ định ở [Chương Mười](../../core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) cho các phát hiện Trục Vi phạm đủ điều kiện `s` = 7–9.
 
 >
 > **Trước (ngôn ngữ này):** [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process)
 >
-> **Tiếp theo (vẫn tiếng Anh):** [core_09_standing_integration.md](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)
+> **Tiếp theo (vẫn tiếng Anh):** [core_09_standing_integration.md](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)
 > **Cung đọc:** §1 ba câu hỏi → §2 hồ sơ → §3 xác minh → §4 đo lường → §5 ngữ pháp ô → §6 đầu vào hiến pháp → §7 thang LEQU
 </details>
 
@@ -27,7 +27,7 @@
 > | --- | --- |
 > | **1. Điều gì đã xảy ra?** | Lập sự kiện đã xác minh trong một hồ sơ có giới hạn, tranh biện được. |
 > | **2. Tốt hay xấu đến mức nào?** | Đo các sự kiện đã xác minh mà không gộp giúp và hại. |
-> | **3. Điều gì xảy ra vì thế?** | Tiếp sang [Chương Chín](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration). |
+> | **3. Điều gì xảy ra vì thế?** | Tiếp sang [Chương Chín](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration). |
 >
 > Cáo buộc, độ nổi tiếng, và tường thuật tranh chấp không phải câu trả lời cho Câu hỏi 1. Một xếp hạng mong muốn không thể cung cấp sự kiện cho Câu hỏi 1, và một hệ quả mong muốn không thể cung cấp xếp hạng cho Câu hỏi 2.
 >
@@ -41,9 +41,9 @@
 - Thượng nguồn: [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad); [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims); [lợi hại vật chất](core_00_preamble.md#material-stake); [Lời nói đầu §5 Các chuỗi quy trình thực tiễn then chốt](core_00_preamble.md#5-key-practical-process-pipelines) (*chuỗi Chương Bảy đến Mười Một*).
 - Thượng nguồn: [Chương Một](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*Khả năng tiếp cận ngôn ngữ thường* — quản trị có trách nhiệm phản ánh ở chú giải cấp mục); [Chương Một §9 — Quản trị có trách nhiệm và hiểu biết phân tán](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) (*nền tảng lớp nguyên tắc cho quỹ đạo truy vết được, gắn năng lực — tin cậy, vai trò, và ghi nhận*); [Chương Hai đến Bốn](core_02_definition_structure.md) (*toàn vẹn, hồ sơ, và xác minh*); [Chương Năm](core_05__definitions_home.md#chapter-five-foundational-definitions) (*định nghĩa và tối thượng đọc cùng Chương Hai đến Bốn*).
 - Thượng nguồn: [Chương Bảy](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*chứng nhận thẳng hàng hệ thống*); [Phần B §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*cầu quỹ đạo — chỉ đầu vào đã xác minh tiềm năng*).
-- Chuỗi quỹ đạo: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [Chương Tám — Đo lường](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*khung ba câu hỏi, hồ sơ Câu hỏi 1, và đo lường Câu hỏi 2 — các mục **1–7***); [Chương Chín — Hiệu ứng quỹ đạo và tích hợp](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*hiệu ứng Câu hỏi 3 và tích hợp*); [Chương Mười](../../core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*chỉ định chỉ cho Trục Vi phạm đủ điều kiện s = 7–9*).
+- Chuỗi quỹ đạo: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [Chương Tám — Đo lường](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*khung ba câu hỏi, hồ sơ Câu hỏi 1, và đo lường Câu hỏi 2 — các mục **1–7***); [Chương Chín — Hiệu ứng quỹ đạo và tích hợp](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*hiệu ứng Câu hỏi 3 và tích hợp*); [Chương Mười](../../core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) (*chỉ định chỉ cho Trục Vi phạm đủ điều kiện s = 7–9*).
 - Tiểu mục trong tệp này: [§1](#1-the-three-questions) (*khung ba câu hỏi và phạm vi*); [§2](#2-standing-records) (*Câu hỏi 1 — sự kiện đã xác minh và hồ sơ*); [§3](#3-standing-record-operational-requirements) (*yêu cầu xác minh và hồ sơ*); [§4](#4-standing-measurement-evaluation-dimensions) (*Câu hỏi 2 — chiều đo lường*); [§5](#5-slot-grammar-and-lequ-calibration) (*ngữ pháp ô và chia tỷ lệ chung*); [§6](#6-constitutional-inputs-to-axis-assignment) (*định tuyến nguồn hiến pháp*); [§7](#7-unified-proportional-lequ-scale) (*thang LEQU tỷ lệ thống nhất cho cả hai trục*).
-- Hạ nguồn: [Chương Mười](../../core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*chỉ chỉ định — không mở lại đo lường Câu hỏi 2*); [Chương Mười Một](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*giám sát diễn đàn và định tuyến*); [Điều XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*giải quyết kịp thời*); [Điều XXIII](core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*ràng buộc công lý*).
+- Hạ nguồn: [Chương Mười](../../core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) (*chỉ chỉ định — không mở lại đo lường Câu hỏi 2*); [Chương Mười Một](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*giám sát diễn đàn và định tuyến*); [Điều XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*giải quyết kịp thời*); [Điều XXIII](core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*ràng buộc công lý*).
 - Đọc cùng: [Chương Năm *Trạng thái quỹ đạo, đóng góp, và vi phạm*](core_05_band_accountability.md#standing-state-contribution-and-violation-cluster) (*định tuyến định nghĩa chuẩn*).
 - Đọc cùng: [README.md](../../README.md) (*thứ tự đọc*); [doc_architecture.md](../../doc_architecture.md) (*bản đồ biên tập không ràng buộc trừ khi được tiếp nhận*).
 
@@ -69,7 +69,7 @@ Chương Tám là chủ sở hữu của hồ sơ sự kiện đã xác minh cho
 | --- | --- | --- |
 | **1. Điều gì đã xảy ra?** | Sự kiện nào đã được xác minh, về ai hoặc cái gì, trong khoảng nào, và với trạng thái hồ sơ và tranh biện nào? | [Mục 2](#2-standing-records) |
 | **2. Tốt hay xấu đến mức nào?** | Loại và độ lớn đóng góp hoặc vi phạm nào những sự kiện đó lập? | [Mục 4](#4-standing-measurement-evaluation-dimensions) |
-| **3. Điều gì xảy ra vì thế?** | Ghi nhận, sẵn sàng, khắc phục, bảo vệ, hạn chế, hay hệ quả khác nào theo sau? | [Chương Chín](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) |
+| **3. Điều gì xảy ra vì thế?** | Ghi nhận, sẵn sàng, khắc phục, bảo vệ, hạn chế, hay hệ quả khác nào theo sau? | [Chương Chín](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) |
 
 Mỗi câu hỏi phụ thuộc câu trả lời trước nó:
 
@@ -94,7 +94,7 @@ Thủ tục hàng ngày, bước leo thang, vận hành bồi hoàn và sửa ch
 <summary><strong><span style="color: #2563eb;">Dấu vết · Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
 - Thượng nguồn: [Chương Một §9 — Quản trị có trách nhiệm và hiểu biết phân tán](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [Chương Hai đến Bốn](core_02_definition_structure.md); [Chương Năm](core_05__definitions_home.md#chapter-five-foundational-definitions).
-- Hạ nguồn: [§2](#2-standing-records) (*Câu hỏi 1*); [§3](#3-standing-record-operational-requirements) (*yêu cầu xác minh và hồ sơ*); [§4](#4-standing-measurement-evaluation-dimensions) (*đo lường Câu hỏi 2*); [§5](#5-slot-grammar-and-lequ-calibration) (*ngữ pháp ô và chia tỷ lệ chung*); [§6](#6-constitutional-inputs-to-axis-assignment) (*định tuyến nguồn hiến pháp*); [§7](#7-unified-proportional-lequ-scale) (*thang LEQU tỷ lệ thống nhất cho cả hai trục*); [Chương Chín](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*Câu hỏi 3*).
+- Hạ nguồn: [§2](#2-standing-records) (*Câu hỏi 1*); [§3](#3-standing-record-operational-requirements) (*yêu cầu xác minh và hồ sơ*); [§4](#4-standing-measurement-evaluation-dimensions) (*đo lường Câu hỏi 2*); [§5](#5-slot-grammar-and-lequ-calibration) (*ngữ pháp ô và chia tỷ lệ chung*); [§6](#6-constitutional-inputs-to-axis-assignment) (*định tuyến nguồn hiến pháp*); [§7](#7-unified-proportional-lequ-scale) (*thang LEQU tỷ lệ thống nhất cho cả hai trục*); [Chương Chín](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*Câu hỏi 3*).
 - [Xác định tính trọng yếu](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [Hại](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
 - [Tính tương xứng](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
@@ -112,7 +112,7 @@ Thủ tục hàng ngày, bước leo thang, vận hành bồi hoàn và sửa ch
 
 - Thượng nguồn: [§1](#1-the-three-questions) (*khung ba câu hỏi*); [Chương Hai đến Bốn](core_02_definition_structure.md) (*hồ sơ, xác minh, và truy vết định nghĩa tới kết quả*).
 - Trụ Tứ diện: **tham gia**; **giám sát** (khả năng tranh biện và đường tranh biện). Mục tiêu sơ cấp: **Hưng thịnh** và **Liên tục** (hồ sơ truy vết được giữ phát hiện đóng góp và vi phạm riêng cho đo lường sau).
-- Hạ nguồn: [§2.2](#22-linked-records-and-no-offset-bridge) (*cầu không-bù của hồ sơ liên kết*); [§2.3](#23-question-1-event-type-guide) (*hướng dẫn loại sự kiện*); [§3](#3-standing-record-operational-requirements) (*cổng đầu vào đã xác minh và ranh giới diễn đàn*); [§4](#4-standing-measurement-evaluation-dimensions) (*đo lường Câu hỏi 2*); [§5](#5-slot-grammar-and-lequ-calibration) (*ngữ pháp ô và chia tỷ lệ chung*); [§6](#6-constitutional-inputs-to-axis-assignment) (*định tuyến nguồn hiến pháp*); [§7](#7-unified-proportional-lequ-scale) (*thang LEQU tỷ lệ thống nhất cho cả hai trục*); [Chương Chín](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*Câu hỏi 3*).
+- Hạ nguồn: [§2.2](#22-linked-records-and-no-offset-bridge) (*cầu không-bù của hồ sơ liên kết*); [§2.3](#23-question-1-event-type-guide) (*hướng dẫn loại sự kiện*); [§3](#3-standing-record-operational-requirements) (*cổng đầu vào đã xác minh và ranh giới diễn đàn*); [§4](#4-standing-measurement-evaluation-dimensions) (*đo lường Câu hỏi 2*); [§5](#5-slot-grammar-and-lequ-calibration) (*ngữ pháp ô và chia tỷ lệ chung*); [§6](#6-constitutional-inputs-to-axis-assignment) (*định tuyến nguồn hiến pháp*); [§7](#7-unified-proportional-lequ-scale) (*thang LEQU tỷ lệ thống nhất cho cả hai trục*); [Chương Chín](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*Câu hỏi 3*).
 
 </details>
 
@@ -154,7 +154,7 @@ Câu hỏi 1 dùng một **hồ sơ quỹ đạo đóng góp** cho giúp đã x�
   - bảo vệ **Điều III-D** (*Sàn lao động và kinh tế*);
   - thương mại thường; hoặc
   - tham gia như bên bị ảnh hưởng.
-  Thanh năng lực đã công bố cho các đường dẫn được đặt tên nhạy-tin cậy cụ thể dưới [Chương Chín §6.2](../../core_09_standing_integration.md#62-competency-bars-and-clearances) là ngoại lệ, và chúng phải nêu vì sao đường dẫn được đặt tên đó nhạy-tin cậy.
+  Thanh năng lực đã công bố cho các đường dẫn được đặt tên nhạy-tin cậy cụ thể dưới [Chương Chín §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) là ngoại lệ, và chúng phải nêu vì sao đường dẫn được đặt tên đó nhạy-tin cậy.
 - Khi một hồ sơ về một đối tượng được mở, đối tượng phải được thông báo dưới **mục 3** trừ khi một chứng minh [Bảo toàn bằng chứng](core_05_band_oversight.md#evidence-preservation) hoặc An toàn có hồ sơ biện minh một hoãn có hạn thời gian; một hồ sơ đối tượng không thể biết thì không tranh biện được.
 
 Mọi hiệu ứng quỹ đạo sau thuộc Chương Chín và phải truy được về hồ sơ quỹ đạo liên quan mà không trở thành phần của chính hồ sơ.
@@ -167,8 +167,8 @@ Mọi hiệu ứng quỹ đạo sau thuộc Chương Chín và phải truy đư�
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: [§2.1](#21-standing-records-as-the-unit-of-application) (*hồ sơ đóng góp và vi phạm riêng*).
-- Hạ nguồn: [§3.1](#31-minimum-record-contents) (*cổng đầu vào đã xác minh*); [§3.2](#32-related-record-cross-references) (*tham chiếu chéo*); [§3.6](#36-forum-boundary) (*ranh giới diễn đàn*); [§4](#4-standing-measurement-evaluation-dimensions) (*đo lường Câu hỏi 2*); [§5](#5-slot-grammar-and-lequ-calibration) (*ngữ pháp ô và chia tỷ lệ chung*); [§6](#6-constitutional-inputs-to-axis-assignment) (*định tuyến nguồn hiến pháp*); [§7](#7-unified-proportional-lequ-scale) (*thang LEQU tỷ lệ thống nhất cho cả hai trục*); [Chương Chín](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*Câu hỏi 3*).
-- Đọc cùng: [Chương Chín — Tích hợp quỹ đạo](../../core_09_standing_integration.md#2-integration-record-and-decision-order) (*không-miễn và tích hợp hồ sơ liên kết*); [Chương Chín §6.2 — Thanh năng lực và giấy phép](../../core_09_standing_integration.md#62-competency-bars-and-clearances); [Chương Chín §4.2 — Khóa quỹ đạo](../../core_09_standing_integration.md#42-general-standing-locks).
+- Hạ nguồn: [§3.1](#31-minimum-record-contents) (*cổng đầu vào đã xác minh*); [§3.2](#32-related-record-cross-references) (*tham chiếu chéo*); [§3.6](#36-forum-boundary) (*ranh giới diễn đàn*); [§4](#4-standing-measurement-evaluation-dimensions) (*đo lường Câu hỏi 2*); [§5](#5-slot-grammar-and-lequ-calibration) (*ngữ pháp ô và chia tỷ lệ chung*); [§6](#6-constitutional-inputs-to-axis-assignment) (*định tuyến nguồn hiến pháp*); [§7](#7-unified-proportional-lequ-scale) (*thang LEQU tỷ lệ thống nhất cho cả hai trục*); [Chương Chín](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*Câu hỏi 3*).
+- Đọc cùng: [Chương Chín — Tích hợp quỹ đạo](../../core_10_standing_integration.md#2-integration-record-and-decision-order) (*không-miễn và tích hợp hồ sơ liên kết*); [Chương Chín §6.2 — Thanh năng lực và giấy phép](../../core_10_standing_integration.md#62-competency-bars-and-clearances); [Chương Chín §4.2 — Khóa quỹ đạo](../../core_10_standing_integration.md#42-general-standing-locks).
 
 </details>
 
@@ -401,7 +401,7 @@ Họ diễn đàn dưới [Chương Mười Một](core_11_forum.md#chapter-elev
 Phát hiện sự kiện đã xác minh của một diễn đàn có thể cung cấp cơ sở sự kiện cho một hồ sơ quỹ đạo Câu hỏi 1. Chúng **không** xác định đo lường Câu hỏi 2 về đóng góp hoặc vi phạm đã xác minh tốt hay xấu đến mức nào. Theo đó:
 
 - Thủ tục diễn đàn **không** được gộp tư liệu đóng góp và vi phạm thành một điểm ròng, câu trả lời công trạng hòa, hoặc nhãn quỹ đạo không phân biệt; hồ sơ liên kết vẫn riêng dưới **mục 2.1** và **2.2**.
-- Đầu ra diễn đàn **không** được thế tường thuật tranh chấp, tiện định tuyến, hoặc ưa thích của ban cho đầu vào đã xác minh chứng minh được, đo lường riêng, hoặc cơ chế hiệu ứng quỹ đạo thuộc [Chương Chín](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration).
+- Đầu ra diễn đàn **không** được thế tường thuật tranh chấp, tiện định tuyến, hoặc ưa thích của ban cho đầu vào đã xác minh chứng minh được, đo lường riêng, hoặc cơ chế hiệu ứng quỹ đạo thuộc [Chương Chín](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration).
 
 Ranh giới này **không** giảm tranh biện, khắc phục, cứu trợ tạm, hoặc bảo vệ thủ tục đòi dưới [Điều XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Quyền tranh biện, rà soát, và khắc phục*), [Chương Mười Một §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), [Điều XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Sàn Giải quyết kịp thời và Chống trì hoãn*), hoặc các điều công lý liên quan. Nó đòi phát hiện diễn đàn đã xác minh vào quỹ đạo qua cùng cổng như đầu vào đã xác minh khác — không vòng quanh nó.
 
@@ -414,8 +414,8 @@ Ranh giới này **không** giảm tranh biện, khắc phục, cứu trợ tạ
 
 - Thượng nguồn: [Chương Một §10.2 *Phân tách nhiệm vụ*](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties) (*sàn lớp nguyên tắc mục này áp cho hồ sơ quỹ đạo; không được thu hẹp ở đây*); [Chương Một §11.3 *Phát hiện và rà soát số nhiều*](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection); [§2.1](#21-silence-is-the-default) (*cò đã xác minh; thông báo đối tượng*); [§3.1](#31-minimum-record-contents) (*nội dung tối thiểu và cổng đầu vào đã xác minh*); [§3.4](#34-versioning) (*phiên bản*); [§3.6](#36-forum-boundary) (*diễn đàn có thể mở, cập nhật, sửa, hoặc gạt sang một bên*); [Chương Hai đến Bốn](core_02_definition_structure.md) (*hồ sơ, xác minh, và truy vết*); [Bảo toàn bằng chứng](core_05_band_oversight.md#evidence-preservation) (*chuỗi lưu giữ bằng chứng*).
 - Trụ Tứ diện: **trách nhiệm giải trình** (một tác nhân đã đặt tên trả lời cho mọi mục); **giám sát** (không bên nào xác minh tuyên của chính mình). Mục tiêu sơ cấp: **Hưng thịnh** và **Liên tục**.
-- Đọc cùng: [Chương Năm *Điều lệ*](core_05_band_continuity.md#charter) (*văn kiện phạm vi đã công bố đặt tên hoặc trỏ tới quyền mở hồ sơ và người lưu giữ cho một phạm vi đã điều lệ*); **CI-3.6** (*nội dung Điều lệ — trường lưu giữ hồ sơ quỹ đạo*); [**CJS-3.11** *Làn hiến pháp và tách chức năng*](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation) (*năm làn nhiệm vụ hồ sơ được đặt vào; phân tách nhiệm vụ*); **CI-3.2** (*Làn tách chức năng — bản đồ làn đã công bố, dự phòng khi Điều lệ im*); **CI-3.3** (*chuỗi thẩm quyền và kiểm ủy*); **CI-4.6** (*Mục lục ghế — bốn ghế hồ sơ như loại ghế 1–4, với quy tắc ghế sai*); **CF-9.6** (*không tự điều tra*) và **CF-9.8** (*bàn giao phát hiện đã xác minh*); [Chương Mười Một §2.1](core_11_forum.md#21-lead-default-limits) (*dự phòng chống tự xét*); [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*ai ủy; nhật ký không phải hồ sơ*); [Chương Chín §5.4](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*dừng, từ chối, ghi, leo thang*); [Chương Bốn §5](core_04_burden_traceability_verification.md#5-compliance-evidence-standard) (*chuẩn bằng chứng ghế xác minh áp cho tuyên người ghi và bên*); [Thiện chí](core_05_band_accountability.md#good-faith) (*giả định thẳng thắn, không phải đúng*); [Khả năng tranh biện](core_05_band_accountability.md#contestability) và [Điều XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*một tranh biện nêu trên hồ sơ được ghi và định tuyến trước mọi nộp*); [Chương Mười Một §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests) (*tranh biện hồ sơ quỹ đạo một khi chúng tới diễn đàn*).
-- Hạ nguồn: [§4](#4-standing-measurement-evaluation-dimensions) (*Câu hỏi 2 chỉ đo hồ sơ nhập dưới mục này*); [Chương Chín](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*hiệu ứng Câu hỏi 3 truy về một hồ sơ đã gán*).
+- Đọc cùng: [Chương Năm *Điều lệ*](core_05_band_continuity.md#charter) (*văn kiện phạm vi đã công bố đặt tên hoặc trỏ tới quyền mở hồ sơ và người lưu giữ cho một phạm vi đã điều lệ*); **CI-3.6** (*nội dung Điều lệ — trường lưu giữ hồ sơ quỹ đạo*); [**CJS-3.11** *Làn hiến pháp và tách chức năng*](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation) (*năm làn nhiệm vụ hồ sơ được đặt vào; phân tách nhiệm vụ*); **CI-3.2** (*Làn tách chức năng — bản đồ làn đã công bố, dự phòng khi Điều lệ im*); **CI-3.3** (*chuỗi thẩm quyền và kiểm ủy*); **CI-4.6** (*Mục lục ghế — bốn ghế hồ sơ như loại ghế 1–4, với quy tắc ghế sai*); **CF-9.6** (*không tự điều tra*) và **CF-9.8** (*bàn giao phát hiện đã xác minh*); [Chương Mười Một §2.1](core_11_forum.md#21-lead-default-limits) (*dự phòng chống tự xét*); [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*ai ủy; nhật ký không phải hồ sơ*); [Chương Chín §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*dừng, từ chối, ghi, leo thang*); [Chương Bốn §5](core_04_burden_traceability_verification.md#5-compliance-evidence-standard) (*chuẩn bằng chứng ghế xác minh áp cho tuyên người ghi và bên*); [Thiện chí](core_05_band_accountability.md#good-faith) (*giả định thẳng thắn, không phải đúng*); [Khả năng tranh biện](core_05_band_accountability.md#contestability) và [Điều XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*một tranh biện nêu trên hồ sơ được ghi và định tuyến trước mọi nộp*); [Chương Mười Một §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests) (*tranh biện hồ sơ quỹ đạo một khi chúng tới diễn đàn*).
+- Hạ nguồn: [§4](#4-standing-measurement-evaluation-dimensions) (*Câu hỏi 2 chỉ đo hồ sơ nhập dưới mục này*); [Chương Chín](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*hiệu ứng Câu hỏi 3 truy về một hồ sơ đã gán*).
 
 </details>
 
@@ -442,18 +442,18 @@ Không văn phòng nào giữ hai ghế này trên cùng hồ sơ trừ khi th�
 
 <a id="37-informal-and-small-scope-records"></a>
 
-**Hồ sơ không chính thức và phạm vi nhỏ.** Phân tách nhiệm vụ chia tỷ lệ theo lợi hại vật chất, không theo tính hình thức ([Chương Một §10.2 Phân tách nhiệm vụ](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties)). Với việc không lương, tổ chức đồng đẳng, tương trợ, chăm sóc, bảo trì, sửa, dạy, và quản trị có trách nhiệm cộng đồng — mà [Chương Chín §6 Hệ quả đóng góp thứ hai](../../core_09_standing_integration.md#6-contribution-consequences-second) đòi được ghi nhận trên chuẩn bình đẳng — ghế xác minh được thỏa bởi **mọi văn phòng vô tư có thẩm quyền đã công bố để dựa vào hồ sơ**, thường là thân sẽ dùng nó: hội đồng lưu vực, thân tài trợ hoặc liên tục, văn phòng ghi nhận hồ sơ **CI-22** (*Tài sản chung, hợp tác xã, tương trợ, và quản trị cộng đồng ngoài thị trường*), hoặc một diễn đàn. Nó không được thỏa bởi tính hình thức của thân xác minh. Trên hồ sơ đó:
+**Hồ sơ không chính thức và phạm vi nhỏ.** Phân tách nhiệm vụ chia tỷ lệ theo lợi hại vật chất, không theo tính hình thức ([Chương Một §10.2 Phân tách nhiệm vụ](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties)). Với việc không lương, tổ chức đồng đẳng, tương trợ, chăm sóc, bảo trì, sửa, dạy, và quản trị có trách nhiệm cộng đồng — mà [Chương Chín §6 Hệ quả đóng góp thứ hai](../../core_10_standing_integration.md#6-contribution-consequences-second) đòi được ghi nhận trên chuẩn bình đẳng — ghế xác minh được thỏa bởi **mọi văn phòng vô tư có thẩm quyền đã công bố để dựa vào hồ sơ**, thường là thân sẽ dùng nó: hội đồng lưu vực, thân tài trợ hoặc liên tục, văn phòng ghi nhận hồ sơ **CI-22** (*Tài sản chung, hợp tác xã, tương trợ, và quản trị cộng đồng ngoài thị trường*), hoặc một diễn đàn. Nó không được thỏa bởi tính hình thức của thân xác minh. Trên hồ sơ đó:
 
 - người tham gia là đối tượng và, nơi họ xin ghi nhận, bên tuyên; trong hồ sơ tập thể dưới **mục 3.3** mỗi đồng-tham-gia là bên tuyên, nên tuyên của một thành viên về phần của thành viên khác là đầu vào, không bao giờ xác minh;
 - người thụ, hàng xóm, và người không-tham-gia khác cung cấp chứng nhận như tư liệu xác minh dưới **mục 3.1**; hữu tri giữ nhật ký của nhóm là người ghi và nhân chứng dưới *Tuyên người ghi là đầu vào* dưới đây;
 - văn phòng hồ sơ của thân dựa vào giữ lưu giữ; với phạm vi nhỏ, xác minh và nhập-và-giữ có thể ngồi trong một văn phòng đó dưới một bảo vệ đã công bố, và nó không bao giờ ngồi với bên tuyên;
-- một thanh hoặc quy trình đòi xác minh bởi một thể chế hình thức nhóm không chính thức không với tới được, nơi một thân dựa vào vô tư có sẵn, là mẫu gác-cổng tùy tiện [Chương Chín §6.2](../../core_09_standing_integration.md#62-competency-bars-and-clearances), không phải phân tách nhiệm vụ.
+- một thanh hoặc quy trình đòi xác minh bởi một thể chế hình thức nhóm không chính thức không với tới được, nơi một thân dựa vào vô tư có sẵn, là mẫu gác-cổng tùy tiện [Chương Chín §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances), không phải phân tách nhiệm vụ.
 
 Không điều nào trong này đòi một hồ sơ tồn tại. **Mục 2.1** *Im lặng là mặc định* kiểm soát: việc không chính thức không được ghi vì nó có thể được ghi, và phân tách nhiệm vụ chỉ ràng một khi một hồ sơ được xin.
 
 <a id="371-named-record-opening-authority"></a>
 
-**Quyền mở hồ sơ đã đặt tên.** Mọi hồ sơ quỹ đạo được mở, sửa, hết hạn, hoặc thay bởi một **quyền mở hồ sơ**: một vai trò, văn phòng, diễn đàn, hoặc thân có thẩm quyền xác minh cơ sở sự kiện dưới Chương Hai đến Bốn và nhập hồ sơ được công bố trước khi nó hành. Nơi hồ sơ liên quan một hệ thống, thể chế, hoặc doanh nghiệp giữ một [Điều lệ](core_05_band_continuity.md#charter), Điều lệ đó đặt tên quyền mở hồ sơ và người lưu giữ hồ sơ cho hồ sơ liên quan phạm vi đã điều lệ của nó, hoặc trỏ tới văn kiện đã công bố đặt tên chúng (**CI-3.6** (*Nội dung, rà soát, và mẫu hình thành Điều lệ*)). Diễn đàn hành như quyền mở hồ sơ trên các điều khoản ở **mục 3.6**; một diễn đàn đã xác minh một hồ sơ không nghe tranh biện của hồ sơ đó, việc đó đi tới rà soát thứ cấp dưới [Chương Mười Một](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) và **CF-6** (*Đường dẫn kháng, rà soát thứ cấp, và cạn*). Nơi không Điều lệ hay chỉ định diễn đàn nào với tới hồ sơ, *Dự phòng khi Điều lệ im* trên áp, và văn kiện tiếp nhận dưới [Chương Mười Lăm](../../core_15_amendment_ratification.md) hoặc quy tắc đã công bố của thân vận hành chuỗi quỹ đạo phải rồi đặt tên một quyền. Một mục làm không có quyền đã đặt tên được đánh **tạm**: nó giữ bằng chứng và thông báo dưới **mục 2.1**, nhưng nó không cung cấp đầu vào đã xác minh dưới **mục 3.1** và không hiệu ứng Chương Chín cho đến khi một quyền đã đặt tên xác nhận, sửa, hoặc gạt nó sang một bên.
+**Quyền mở hồ sơ đã đặt tên.** Mọi hồ sơ quỹ đạo được mở, sửa, hết hạn, hoặc thay bởi một **quyền mở hồ sơ**: một vai trò, văn phòng, diễn đàn, hoặc thân có thẩm quyền xác minh cơ sở sự kiện dưới Chương Hai đến Bốn và nhập hồ sơ được công bố trước khi nó hành. Nơi hồ sơ liên quan một hệ thống, thể chế, hoặc doanh nghiệp giữ một [Điều lệ](core_05_band_continuity.md#charter), Điều lệ đó đặt tên quyền mở hồ sơ và người lưu giữ hồ sơ cho hồ sơ liên quan phạm vi đã điều lệ của nó, hoặc trỏ tới văn kiện đã công bố đặt tên chúng (**CI-3.6** (*Nội dung, rà soát, và mẫu hình thành Điều lệ*)). Diễn đàn hành như quyền mở hồ sơ trên các điều khoản ở **mục 3.6**; một diễn đàn đã xác minh một hồ sơ không nghe tranh biện của hồ sơ đó, việc đó đi tới rà soát thứ cấp dưới [Chương Mười Một](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) và **CF-6** (*Đường dẫn kháng, rà soát thứ cấp, và cạn*). Nơi không Điều lệ hay chỉ định diễn đàn nào với tới hồ sơ, *Dự phòng khi Điều lệ im* trên áp, và văn kiện tiếp nhận dưới [Chương Mười Lăm](../../core_16_amendment_ratification.md) hoặc quy tắc đã công bố của thân vận hành chuỗi quỹ đạo phải rồi đặt tên một quyền. Một mục làm không có quyền đã đặt tên được đánh **tạm**: nó giữ bằng chứng và thông báo dưới **mục 2.1**, nhưng nó không cung cấp đầu vào đã xác minh dưới **mục 3.1** và không hiệu ứng Chương Chín cho đến khi một quyền đã đặt tên xác nhận, sửa, hoặc gạt nó sang một bên.
 
 <a id="372-record-custodian"></a>
 
@@ -461,7 +461,7 @@ Không điều nào trong này đòi một hồ sơ tồn tại. **Mục 2.1** *
 
 <a id="373-no-self-custody"></a>
 
-**Không tự lưu giữ.** Những cái sau không được hành như quyền mở hồ sơ hoặc người lưu giữ hồ sơ cho một hồ sơ: đối tượng của hồ sơ; bên tuyên đóng góp hoặc cáo vi phạm hồ sơ liên quan; và mọi văn phòng trên đường thẩm quyền kiểm có trọng, hoặc bị kiểm có trọng bởi, những bên đó. Một người quản trị có trách nhiệm bên trong đối tượng thực hiện Quản trị có trách nhiệm Hệ thống Then chốt hoặc thẩm quyền vận hành có trọng giữ mọi bổn phận dưới [Chương Chín §5.4](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) và [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) — dừng điều họ kiểm, ghi bộ tái lập được, bảo toàn bằng chứng họ giữ, thông báo, và leo thang — và không hành động nào trong đó là xác minh sự kiện hay nhập hồ sơ. Nơi quyền mở hồ sơ thường tự là đối tượng hoặc ngồi trên đường kiểm soát của nó, hồ sơ định tuyến tới xác minh độc lập: một diễn đàn dưới **mục 3.6**, dịch vụ điều tra độc lập dưới **CF-9.6** (*Không tự điều tra*), hoặc một thân dự phòng chỉ định trước có thẩm quyền đã công bố, cái nào Điều lệ hoặc chỉ định đặt tên trước. Vắng mọi đường đó là khoảng trống người quản trị có trách nhiệm phải đặt tên trong nhật ký, không phải lý do tự nhập hồ sơ. Quy tắc này loại bên theo lợi trong hồ sơ; *Phân tách nhiệm vụ* trên tách ghế theo chức năng. Cả hai áp, và câu trả lời hẹp hơn kiểm soát.
+**Không tự lưu giữ.** Những cái sau không được hành như quyền mở hồ sơ hoặc người lưu giữ hồ sơ cho một hồ sơ: đối tượng của hồ sơ; bên tuyên đóng góp hoặc cáo vi phạm hồ sơ liên quan; và mọi văn phòng trên đường thẩm quyền kiểm có trọng, hoặc bị kiểm có trọng bởi, những bên đó. Một người quản trị có trách nhiệm bên trong đối tượng thực hiện Quản trị có trách nhiệm Hệ thống Then chốt hoặc thẩm quyền vận hành có trọng giữ mọi bổn phận dưới [Chương Chín §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) và [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) — dừng điều họ kiểm, ghi bộ tái lập được, bảo toàn bằng chứng họ giữ, thông báo, và leo thang — và không hành động nào trong đó là xác minh sự kiện hay nhập hồ sơ. Nơi quyền mở hồ sơ thường tự là đối tượng hoặc ngồi trên đường kiểm soát của nó, hồ sơ định tuyến tới xác minh độc lập: một diễn đàn dưới **mục 3.6**, dịch vụ điều tra độc lập dưới **CF-9.6** (*Không tự điều tra*), hoặc một thân dự phòng chỉ định trước có thẩm quyền đã công bố, cái nào Điều lệ hoặc chỉ định đặt tên trước. Vắng mọi đường đó là khoảng trống người quản trị có trách nhiệm phải đặt tên trong nhật ký, không phải lý do tự nhập hồ sơ. Quy tắc này loại bên theo lợi trong hồ sơ; *Phân tách nhiệm vụ* trên tách ghế theo chức năng. Cả hai áp, và câu trả lời hẹp hơn kiểm soát.
 
 <a id="37-conflicted-custodian-on-a-single-record"></a>
 
@@ -496,7 +496,7 @@ Tuyên người ghi nặng đến mức nào là câu hỏi Chương Hai đến 
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: [§2](#2-standing-records) (*Câu hỏi 1 — hồ sơ quỹ đạo và sự kiện đã xác minh*); [§3](#3-standing-record-operational-requirements) (*cổng đầu vào đã xác minh và yêu cầu hồ sơ*); [§1](#1-the-three-questions) (*khung ba câu hỏi*).
-- Hạ nguồn: [§5](#5-slot-grammar-and-lequ-calibration) (*ngữ pháp ô và chia tỷ lệ chung*); [§6](#6-constitutional-inputs-to-axis-assignment) (*định tuyến nguồn hiến pháp*); [§7](#7-unified-proportional-lequ-scale) (*gán Trục Đóng góp và Trục Vi phạm*); [Chương Chín §6.2](../../core_09_standing_integration.md#62-competency-bars-and-clearances) (*Câu hỏi 3 đóng góp — ủy thác an toàn*); [Chương Chín §4.2](../../core_09_standing_integration.md#42-general-standing-locks) (*khóa ngăn*); [Chương Chín §5](../../core_09_standing_integration.md#5-lock-design-and-enforcement) (*thiết kế và cưỡng khóa*).
+- Hạ nguồn: [§5](#5-slot-grammar-and-lequ-calibration) (*ngữ pháp ô và chia tỷ lệ chung*); [§6](#6-constitutional-inputs-to-axis-assignment) (*định tuyến nguồn hiến pháp*); [§7](#7-unified-proportional-lequ-scale) (*gán Trục Đóng góp và Trục Vi phạm*); [Chương Chín §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) (*Câu hỏi 3 đóng góp — ủy thác an toàn*); [Chương Chín §4.2](../../core_10_standing_integration.md#42-general-standing-locks) (*khóa ngăn*); [Chương Chín §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement) (*thiết kế và cưỡng khóa*).
 - Đọc cùng: [§3.1](#31-minimum-record-contents) (*trường hồ sơ đã xác minh; không hiệu ứng quỹ đạo trong Chương Tám*).
 
 </details>
@@ -534,7 +534,7 @@ Một **lợi hiến pháp tương đương cả đời** nghĩa là lợi đã 
   - mất khả năng tranh biện; hoặc
   - gộp không rà soát được.
 
-**Chỉ Câu hỏi 2.** Dùng những chiều này để đo sự kiện đã xác minh lập dưới **mục 2** và ghi dưới **mục 3**. Mục lục **đường-lợi** ở **mục 4.3** và mục lục **đường-hại** ở **mục 4.4** cung cấp tên chuẩn hóa cho loại giúp hoặc hại và nêu mỗi tên đếm thế nào vào *tốt đến mức nào* hoặc *xấu đến mức nào*. Quy tắc tích hợp và gắn Câu hỏi 3 nằm ở [Chương Chín §3](../../core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization), với quy tắc hệ quả ở [phía lợi](../../core_09_standing_integration.md#62-competency-bars-and-clearances) và [phía hại](../../core_09_standing_integration.md#42-general-standing-locks).
+**Chỉ Câu hỏi 2.** Dùng những chiều này để đo sự kiện đã xác minh lập dưới **mục 2** và ghi dưới **mục 3**. Mục lục **đường-lợi** ở **mục 4.3** và mục lục **đường-hại** ở **mục 4.4** cung cấp tên chuẩn hóa cho loại giúp hoặc hại và nêu mỗi tên đếm thế nào vào *tốt đến mức nào* hoặc *xấu đến mức nào*. Quy tắc tích hợp và gắn Câu hỏi 3 nằm ở [Chương Chín §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization), với quy tắc hệ quả ở [phía lợi](../../core_10_standing_integration.md#62-competency-bars-and-clearances) và [phía hại](../../core_10_standing_integration.md#42-general-standing-locks).
 
 <a id="41-magnitude-input-dimensions"></a>
 <a id="41-contribution-magnitude-input-dimensions"></a>
@@ -561,13 +561,13 @@ Một **lợi hiến pháp tương đương cả đời** nghĩa là lợi đã 
 - hại ngoại hóa hoặc gánh che trần hoặc loại lợi gán cho đường dẫn được đặt tên đang tranh;
 - rủi chiếm đã xác minh, phụ thuộc cấu trúc, hoặc thiết kế lối ra / khóa-trong hạn tín dụng dương quản trị có trách nhiệm;
 - sửa lối vào hoặc rào tham gia đã xác minh có thể tăng tính trọng yếu và nâng mô tả đường-lợi **Lối vào và hòa nhập** dưới **mục 4.3**; và
-- một thưởng có trọng nhận qua cấu trúc khuyến khích lệch hiến pháp, hành vi phản hiến pháp, hoặc quy trình khuyết có trọng mặc định không phải lợi đếm được. Áp [Chương Chín §5.4](../../core_09_standing_integration.md#54-special-violation-rules) và giới hạn chuyển ở [Điều XXVI-A](core_06_rights_part_d.md#incentive-alignment-transition-carve-out).
+- một thưởng có trọng nhận qua cấu trúc khuyến khích lệch hiến pháp, hành vi phản hiến pháp, hoặc quy trình khuyết có trọng mặc định không phải lợi đếm được. Áp [Chương Chín §5.4](../../core_10_standing_integration.md#54-special-violation-rules) và giới hạn chuyển ở [Điều XXVI-A](core_06_rights_part_d.md#incentive-alignment-transition-carve-out).
 
 **Đầu ra Câu hỏi 2 (ghi trong hồ sơ quỹ đạo đóng góp; không phải hiệu ứng quỹ đạo):**
 
 - **Ô Trục Đóng góp** áp dụng (`s` = 1–9) và dải sơ cấp (**C-BL**, **C-PC**, **C-SP**, hoặc **C-CH**)
 - **Mô tả đường-lợi** xếp chồng
-- Đầu vào định hướng ghi nhận mặc định dưới [Chương Chín §6](../../core_09_standing_integration.md#6-contribution-consequences-second)
+- Đầu vào định hướng ghi nhận mặc định dưới [Chương Chín §6](../../core_10_standing_integration.md#6-contribution-consequences-second)
 
 **Không** tách LEQU thành điểm lợi sinh thái, hệ thống, hoặc tài nguyên song song trừ khi triển khai đã tiếp nhận cần phân rã trong suốt cho kiểm toán.
 
@@ -593,18 +593,18 @@ Một **lợi hiến pháp tương đương cả đời** nghĩa là lợi đã 
 - **cản trở trách nhiệm giải trình** — can thiệp đã xác minh vào máy phải-trả-lời như toàn vẹn bằng chứng, xác minh, quy trình diễn đàn, hồ sơ quỹ đạo, đồng hồ khắc phục, hoặc đường tranh biện và khắc phục — vẫn là sự kiện tính chất hành vi ghi riêng; mọi mất đường dẫn được đặt tên cộng vào ước LEQU một lần, trong khi nhãn cản tự nó không dịch ô tác động;
 - lừa, che giấu, lẩn tránh, lặp sau thông báo, coi thường liều, mở đường cấu trúc, hoặc lạm bất đối xứng phụ thuộc có trọng vẫn là sự kiện tính chất hành vi ghi riêng;
 - bạo lực, cưỡng, thao túng, hoặc nguy tự do vẫn được ghi riêng và có thể đòi bảo vệ nâng bất kể ô;
-- [tàn nhẫn](core_05_band_accountability.md#cruelty) — khổ đã xác minh như mục đích tự nó, hoặc gây vô ích hay hạ phẩm vượt sự cần và tính tương xứng — vẫn là sự kiện tính chất hành vi ghi riêng; nó có thể đòi bảo vệ nâng và ràng khắc phục không hạ phẩm dưới [Chương Chín §4](../../core_09_standing_integration.md#4-violation-correction-and-prevention), và không dịch ô tác động;
+- [tàn nhẫn](core_05_band_accountability.md#cruelty) — khổ đã xác minh như mục đích tự nó, hoặc gây vô ích hay hạ phẩm vượt sự cần và tính tương xứng — vẫn là sự kiện tính chất hành vi ghi riêng; nó có thể đòi bảo vệ nâng và ràng khắc phục không hạ phẩm dưới [Chương Chín §4](../../core_10_standing_integration.md#4-violation-correction-and-prevention), và không dịch ô tác động;
 - khuếch tán liên quan vai trò nhân quả phân tán, thẩm quyền, kiểm soát, khả năng thấy trước, lợi, che giấu, hoặc năng lực ngăn khả thi; nó không phải phần của **phạm vi hữu tri** và không cho phép trách theo thành viên nhóm;
 - tham gia cam chịu hoặc thất kháng có thể nâng tính chất dựa-bổn-phận, tăng nặng, hoặc trách nhiệm giải trình tập thể chỉ khi liên kết riêng-tác nhân đòi bởi **mục 3.1 và 3.3** được xác minh; và
-- chấp nhận hoặc giữ có hiểu một thưởng lệch có trọng mà không báo cáo được bảo vệ kịp được ghi dưới [Chương Chín §5.4](../../core_09_standing_integration.md#54-special-violation-rules), chịu [Điều XXVI-A](core_06_rights_part_d.md#incentive-alignment-transition-carve-out); chỉ mất hiến pháp đã xác minh của nó ảnh hưởng ô.
+- chấp nhận hoặc giữ có hiểu một thưởng lệch có trọng mà không báo cáo được bảo vệ kịp được ghi dưới [Chương Chín §5.4](../../core_10_standing_integration.md#54-special-violation-rules), chịu [Điều XXVI-A](core_06_rights_part_d.md#incentive-alignment-transition-carve-out); chỉ mất hiến pháp đã xác minh của nó ảnh hưởng ô.
 
-**Ranh giới thưởng lệch.** Chương này chỉ đo một thưởng lệch đã xác minh ảnh hưởng Trục Đóng góp hoặc Trục Vi phạm thế nào. [Chương Chín §5.4](../../core_09_standing_integration.md#54-special-violation-rules) nêu bổn phận báo cáo, loại trừ, hệ quả tịch thu, bổn phận sửa, và quy tắc định tuyến.
+**Ranh giới thưởng lệch.** Chương này chỉ đo một thưởng lệch đã xác minh ảnh hưởng Trục Đóng góp hoặc Trục Vi phạm thế nào. [Chương Chín §5.4](../../core_10_standing_integration.md#54-special-violation-rules) nêu bổn phận báo cáo, loại trừ, hệ quả tịch thu, bổn phận sửa, và quy tắc định tuyến.
 
 **Đầu ra Câu hỏi 2 (ghi trong hồ sơ quỹ đạo vi phạm; không phải hiệu ứng quỹ đạo):**
 
 - **Ô Trục Vi phạm** áp dụng cao nhất (`s` = 1–9)
 - **Mô tả đường-hại** xếp chồng
-- Đầu vào định hướng dải khóa mặc định dưới [Chương Chín §5](../../core_09_standing_integration.md#5-lock-design-and-enforcement)
+- Đầu vào định hướng dải khóa mặc định dưới [Chương Chín §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement)
 
 **Không** tách LEQU phía vi phạm thành điểm hại sinh thái, hại hệ thống, hoặc mất tài nguyên song song trừ khi triển khai đã tiếp nhận cần phân rã trong suốt cho kiểm toán.
 
@@ -621,7 +621,7 @@ Một **lợi hiến pháp tương đương cả đời** nghĩa là lợi đã 
 
 **Quy tắc mô tả chuẩn.** Mục **4.3–4.4** sở hữu mục lục mô tả chuẩn hóa cho cả hai trục. Mô tả trả lời **cách** lợi hoặc hại đã xác minh xảy ra. Chúng xếp chồng được, không loại trừ, và phụ thuộc ô áp dụng; một hồ sơ có thể mang nhiều cái nơi sự kiện đã xác minh nâng. Mục lục là nền, không phải danh sách đóng. Triển khai có thể dùng định danh ổn định ánh xạ tới nó nhưng không được tạo một phân loại độc quyền xung đột. Mô tả cáo có thể nâng bảo toàn hợp pháp, phân loại, hoặc bảo vệ tạm; chỉ mô tả đã xác minh được ghi như đầu ra Câu hỏi 2 hoặc ảnh hưởng quỹ đạo.
 
-**Mô tả đường-lợi — vai trò đo lường Câu hỏi 2.** Vai trò ủy thác an toàn Câu hỏi 3: [Chương Chín §6.2](../../core_09_standing_integration.md#62-competency-bars-and-clearances).
+**Mô tả đường-lợi — vai trò đo lường Câu hỏi 2.** Vai trò ủy thác an toàn Câu hỏi 3: [Chương Chín §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances).
 
 | **Mô tả đường-lợi** | **Miền chuẩn hóa** | **Câu hỏi 2 (tốt đến mức nào?)** |
 | --- | --- | --- |
@@ -646,7 +646,7 @@ Một **lợi hiến pháp tương đương cả đời** nghĩa là lợi đã 
 <a id="44-violation-route-descriptor-catalog-and-measurement-roles"></a>
 #### 4.4 Mục lục mô tả đường vi phạm và vai trò đo lường
 
-**Mô tả đường-hại — vai trò đo lường Câu hỏi 2.** Quy tắc tích hợp và gắn Câu hỏi 3: [Chương Chín §3](../../core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization). Thiết kế ngăn và khóa Câu hỏi 3: [Chương Chín §4.2](../../core_09_standing_integration.md#42-general-standing-locks); [Chương Chín §5](../../core_09_standing_integration.md#5-lock-design-and-enforcement).
+**Mô tả đường-hại — vai trò đo lường Câu hỏi 2.** Quy tắc tích hợp và gắn Câu hỏi 3: [Chương Chín §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization). Thiết kế ngăn và khóa Câu hỏi 3: [Chương Chín §4.2](../../core_10_standing_integration.md#42-general-standing-locks); [Chương Chín §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement).
 
 | **Mô tả đường-hại** | **Miền chuẩn hóa** | **Câu hỏi 2 (xấu đến mức nào?)** |
 | --- | --- | --- |
@@ -679,21 +679,21 @@ Một **lợi hiến pháp tương đương cả đời** nghĩa là lợi đã 
 
 | **Đặc trưng đã xác minh** | **Chủ sở hữu Câu hỏi 2 trong chương này** | **Chủ sở hữu tích hợp Câu hỏi 3** |
 | --- | --- | --- |
-| **Hại ngoại hóa / gánh che** | Áp dụng chất lượng hành vi đóng góp ở **§4.1** | [Chương Chín §6.2](../../core_09_standing_integration.md#62-competency-bars-and-clearances) — có thể chặn hoặc thu hẹp giấy phép cho đến khi sửa |
-| **Lừa / che giấu / lẩn tránh** | Áp dụng tính chất hành vi vi phạm ở **§4.2** | [Chương Chín §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — khóa leo thang che giấu / lẩn tránh |
-| **Cản trở trách nhiệm giải trình** | Áp dụng tính chất hành vi vi phạm ở **§4.2** và **Hành vi sai cản trở trách nhiệm giải trình** ở **§4.4** | [Chương Chín §4.2](../../core_09_standing_integration.md#42-general-standing-locks) và [§5.4](../../core_09_standing_integration.md#54-special-violation-rules) — khóa phạm vi đường dẫn được đặt tên; [Chương Chín §10.13](../../core_09_standing_integration.md#1013-obstruction-of-accountability) (*mẫu Câu hỏi 3*); chỉ định Chương Mười chỉ qua cổng Rà soát hành vi sai phản hiến pháp dưới [Chương Chín §10.8](../../core_09_standing_integration.md#108-anti-constitutional-misconduct-allegation) |
-| **Bạo lực / cưỡng / nguy tự do** | Áp dụng tính chất hành vi vi phạm ở **§4.2** và **Hành vi sai bạo lực** ở **§4.4** | [Chương Chín §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — khóa bảo vệ và bảo đảm |
-| **Tàn nhẫn** | Áp dụng tính chất hành vi vi phạm ở **§4.2**; [Tàn nhẫn](core_05_band_accountability.md#cruelty) | [Chương Chín §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — khóa bảo vệ và bảo đảm; [Chương Chín §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) — biểu đạt phục hồi không hạ phẩm nơi dùng |
-| **Bền / mẫu / tái diễn sau thông báo** | Áp dụng tính chất hành vi vi phạm ở **§4.2** | [Chương Chín §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — khóa tái diễn-bền |
-| **Hại toàn vẹn diễn đàn** | Áp dụng tính chất hành vi vi phạm ở **§4.2** | [Chương Chín §5.5](../../core_09_standing_integration.md#55-special-locks) — hiệu ứng khóa quỹ đạo toàn vẹn diễn đàn |
-| **Khuếch tán trách nhiệm hoặc kiểm soát** | Áp dụng tính chất hành vi vi phạm ở **§4.2**; liên kết riêng-tác nhân dưới **§§3.1 và 3.3** | [Chương Chín §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — phạm vi đường dẫn được đặt tên rộng hơn hoặc xét phương tiện thể chế |
-| **Mở đường hệ thống / cấu trúc** | Áp dụng chất lượng hành vi đóng góp ở **§4.1**; tính chất hành vi vi phạm ở **§4.2** và **Hành vi sai hệ thống** ở **§4.4** | [Chương Chín §6.2](../../core_09_standing_integration.md#62-competency-bars-and-clearances) và [Chương Chín §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — bảo vệ ủy thác hoặc khóa phương tiện thể chế |
-| **Tham gia cam chịu / thất kháng** | Áp dụng tính chất hành vi vi phạm ở **§4.2** | [Chương Chín §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — phạm vi đường dẫn được đặt tên và hiệu ứng tái diễn-bền |
-| **Sửa lối vào / rào tham gia** | **Lối vào và hòa nhập** ở **§4.3** | [Chương Chín §6.2](../../core_09_standing_integration.md#62-competency-bars-and-clearances) — thanh trải nghiệm hòa nhập hoặc phạm vi đường dẫn được đặt tên |
-| **Đánh bại lối vào / hại rào tham gia** | **Hành vi sai rào lối vào và tham gia** ở **§4.4** | [Chương Chín §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — chặn đường dẫn tham gia và khả năng tiếp cận được đặt tên |
-| **Hại riêng tư / tự sở hữu** | **Hành vi sai riêng tư và tự sở hữu** ở **§4.4** | [Chương Chín §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — chặn đường dẫn dữ liệu, hình dạng, công bố, hoặc trạng thái nội bộ được đặt tên |
-| **Rủi lối ra / khóa-trong hoặc đóng cửa** | Áp dụng chất lượng hành vi đóng góp ở **§4.1**; **Hành vi sai lối ra và khóa-trong** ở **§4.4** | [Chương Chín §6.2](../../core_09_standing_integration.md#62-competency-bars-and-clearances) và [Chương Chín §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — bảo vệ ủy thác hoặc chặn đường lối ra |
-| **Che giấu vòng đời / không đảo ngược** | **Hành vi sai vòng đời và không đảo ngược** ở **§4.4** | [Chương Chín §4.2](../../core_09_standing_integration.md#42-general-standing-locks) — chặn thẩm quyền triển khai và vòng đời |
+| **Hại ngoại hóa / gánh che** | Áp dụng chất lượng hành vi đóng góp ở **§4.1** | [Chương Chín §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) — có thể chặn hoặc thu hẹp giấy phép cho đến khi sửa |
+| **Lừa / che giấu / lẩn tránh** | Áp dụng tính chất hành vi vi phạm ở **§4.2** | [Chương Chín §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — khóa leo thang che giấu / lẩn tránh |
+| **Cản trở trách nhiệm giải trình** | Áp dụng tính chất hành vi vi phạm ở **§4.2** và **Hành vi sai cản trở trách nhiệm giải trình** ở **§4.4** | [Chương Chín §4.2](../../core_10_standing_integration.md#42-general-standing-locks) và [§5.4](../../core_10_standing_integration.md#54-special-violation-rules) — khóa phạm vi đường dẫn được đặt tên; [Chương Chín §10.13](../../core_10_standing_integration.md#1013-obstruction-of-accountability) (*mẫu Câu hỏi 3*); chỉ định Chương Mười chỉ qua cổng Rà soát hành vi sai phản hiến pháp dưới [Chương Chín §10.8](../../core_10_standing_integration.md#108-anti-constitutional-misconduct-allegation) |
+| **Bạo lực / cưỡng / nguy tự do** | Áp dụng tính chất hành vi vi phạm ở **§4.2** và **Hành vi sai bạo lực** ở **§4.4** | [Chương Chín §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — khóa bảo vệ và bảo đảm |
+| **Tàn nhẫn** | Áp dụng tính chất hành vi vi phạm ở **§4.2**; [Tàn nhẫn](core_05_band_accountability.md#cruelty) | [Chương Chín §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — khóa bảo vệ và bảo đảm; [Chương Chín §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) — biểu đạt phục hồi không hạ phẩm nơi dùng |
+| **Bền / mẫu / tái diễn sau thông báo** | Áp dụng tính chất hành vi vi phạm ở **§4.2** | [Chương Chín §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — khóa tái diễn-bền |
+| **Hại toàn vẹn diễn đàn** | Áp dụng tính chất hành vi vi phạm ở **§4.2** | [Chương Chín §5.5](../../core_10_standing_integration.md#55-special-locks) — hiệu ứng khóa quỹ đạo toàn vẹn diễn đàn |
+| **Khuếch tán trách nhiệm hoặc kiểm soát** | Áp dụng tính chất hành vi vi phạm ở **§4.2**; liên kết riêng-tác nhân dưới **§§3.1 và 3.3** | [Chương Chín §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — phạm vi đường dẫn được đặt tên rộng hơn hoặc xét phương tiện thể chế |
+| **Mở đường hệ thống / cấu trúc** | Áp dụng chất lượng hành vi đóng góp ở **§4.1**; tính chất hành vi vi phạm ở **§4.2** và **Hành vi sai hệ thống** ở **§4.4** | [Chương Chín §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) và [Chương Chín §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — bảo vệ ủy thác hoặc khóa phương tiện thể chế |
+| **Tham gia cam chịu / thất kháng** | Áp dụng tính chất hành vi vi phạm ở **§4.2** | [Chương Chín §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — phạm vi đường dẫn được đặt tên và hiệu ứng tái diễn-bền |
+| **Sửa lối vào / rào tham gia** | **Lối vào và hòa nhập** ở **§4.3** | [Chương Chín §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) — thanh trải nghiệm hòa nhập hoặc phạm vi đường dẫn được đặt tên |
+| **Đánh bại lối vào / hại rào tham gia** | **Hành vi sai rào lối vào và tham gia** ở **§4.4** | [Chương Chín §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — chặn đường dẫn tham gia và khả năng tiếp cận được đặt tên |
+| **Hại riêng tư / tự sở hữu** | **Hành vi sai riêng tư và tự sở hữu** ở **§4.4** | [Chương Chín §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — chặn đường dẫn dữ liệu, hình dạng, công bố, hoặc trạng thái nội bộ được đặt tên |
+| **Rủi lối ra / khóa-trong hoặc đóng cửa** | Áp dụng chất lượng hành vi đóng góp ở **§4.1**; **Hành vi sai lối ra và khóa-trong** ở **§4.4** | [Chương Chín §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) và [Chương Chín §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — bảo vệ ủy thác hoặc chặn đường lối ra |
+| **Che giấu vòng đời / không đảo ngược** | **Hành vi sai vòng đời và không đảo ngược** ở **§4.4** | [Chương Chín §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — chặn thẩm quyền triển khai và vòng đời |
 
 <a id="451-similar-looking-facts-that-must-stay-separate"></a>
 
@@ -703,7 +703,7 @@ Một số sự kiện liên quan nhưng trả lời câu hỏi khác. Ghi chún
 
 | **Sự kiện thứ nhất** | **Sự kiện khác** | **Vì sao chúng ở lại riêng** |
 | --- | --- | --- |
-| **Trì đáp hoặc leo thang vấn đề gốc** | **Trì bắt đầu hoặc thực hiện khắc phục** | Cái thứ nhất giúp đo Câu hỏi 2 dưới **§§4.1–4.2**. Cái thứ hai là sự kiện Câu hỏi 3 sau dưới [Chương Chín §9.5](../../core_09_standing_integration.md#95-timely-implementation-and-reassessment). |
+| **Trì đáp hoặc leo thang vấn đề gốc** | **Trì bắt đầu hoặc thực hiện khắc phục** | Cái thứ nhất giúp đo Câu hỏi 2 dưới **§§4.1–4.2**. Cái thứ hai là sự kiện Câu hỏi 3 sau dưới [Chương Chín §9.5](../../core_10_standing_integration.md#95-timely-implementation-and-reassessment). |
 | **Số hữu tri bị ảnh hưởng** | **Trách nhiệm hoặc kiểm soát được trải giữa tác nhân hoặc hệ thống thế nào** | Cái thứ nhất giúp đo lợi hoặc hại lớn đến mức nào dưới **§§4.1–4.2**. Cái thứ hai liên quan trách nhiệm riêng-tác nhân, khuếch tán, và phạm vi đường dẫn được đặt tên Câu hỏi 3 có thể. |
 
 <a id="46-question-1-measurement-illustrations"></a>
@@ -713,7 +713,7 @@ Một số sự kiện liên quan nhưng trả lời câu hỏi khác. Ghi chún
 <a id="46-measurement-illustrations"></a>
 #### 4.6 Minh họa đo lường
 
-*Nói thẳng: những minh họa này bắt đầu với sự kiện đã xác minh của Câu hỏi 1, rồi cho thấy **mục 4** đo chúng thế nào. Chúng ghi đầu ra Câu hỏi 2 — không phải hiệu ứng quỹ đạo. Gán ô theo **mục 5–7**; Câu hỏi 3 được trả lời ở [Chương Chín](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration). Để tiếp Câu hỏi 3 của Ví dụ 1 và 2 dưới, xem [Chương Chín §10.1](../../core_09_standing_integration.md#101-informal-ecological-stewardship-competency-clearance) và [§10.2](../../core_09_standing_integration.md#102-ecological-negligence-with-concealment).*
+*Nói thẳng: những minh họa này bắt đầu với sự kiện đã xác minh của Câu hỏi 1, rồi cho thấy **mục 4** đo chúng thế nào. Chúng ghi đầu ra Câu hỏi 2 — không phải hiệu ứng quỹ đạo. Gán ô theo **mục 5–7**; Câu hỏi 3 được trả lời ở [Chương Chín](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration). Để tiếp Câu hỏi 3 của Ví dụ 1 và 2 dưới, xem [Chương Chín §10.1](../../core_10_standing_integration.md#101-informal-ecological-stewardship-competency-clearance) và [§10.2](../../core_10_standing_integration.md#102-ecological-negligence-with-concealment).*
 
 **Ví dụ 1 — Phục hồi hợp tác ven sông (đóng góp).**
 
@@ -798,7 +798,7 @@ Cùng số ô có thể xuất hiện trên cả hai trục, nhưng các trục 
 |    8 | **Nhà tiên phong xuất chúng** | **Tác động hiến pháp nặng** |
 |    9 | **Nhà tiên phong mẫu mực** | **Tác động hiến pháp thảm họa** |
 
-Trục Đóng góp dùng nhãn sàn, dương, dương quản trị có trách nhiệm, và tiên phong. Trục Vi phạm dùng nhãn tác động trung tính ở mọi ô. Các trục vẫn riêng và không tạo điểm ròng hay cho phép bù giữa hồ sơ đóng góp và vi phạm. Một ô Trục Vi phạm không tự phân loại hành vi sai phản hiến pháp; [Chương Mười](../../core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) độc lập quyết liệu chỉ định đó gắn vào một vi phạm `s` = 7–9 đã xác minh.
+Trục Đóng góp dùng nhãn sàn, dương, dương quản trị có trách nhiệm, và tiên phong. Trục Vi phạm dùng nhãn tác động trung tính ở mọi ô. Các trục vẫn riêng và không tạo điểm ròng hay cho phép bù giữa hồ sơ đóng góp và vi phạm. Một ô Trục Vi phạm không tự phân loại hành vi sai phản hiến pháp; [Chương Mười](../../core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) độc lập quyết liệu chỉ định đó gắn vào một vi phạm `s` = 7–9 đã xác minh.
 
 Triển khai có thể công bố đơn vị đo, phương pháp bằng chứng, và ví dụ để giúp ước lợi hoặc mất tương đương cả đời. Những tư liệu đó chỉ là hướng dẫn và không được ghi đè **mục 7**, **Chương Một**, hoặc Sàn Quyền **Chương Sáu**.
 
@@ -810,7 +810,7 @@ Triển khai có thể công bố đơn vị đo, phương pháp bằng chứng,
 - nó là **sàn cho hiệu năng chuẩn, không phải trần**: việc có tác động đã xác minh vượt tác động giả định của chuẩn — phương pháp tốt hơn, kết quả bền hơn, gánh ngoại hóa ít hơn, lợi rộng hơn hoặc sâu hơn — được đo trên tác động đã xác minh thực dưới **mục 5.2**, nên khuyến khích làm việc tốt hơn chuẩn vẫn sống; việc xác minh được là thiếu phạm vi hoặc độ bền giả định của chuẩn được đo trên điều đã xác minh, không trên nhãn;
 - nó được **xem lại theo nhịp đã công bố và đặt lại đường cơ sở khi hiệu quả cải**, nên chuẩn theo điều việc hiện tốn và sản chứ không đóng băng nỗ lực hôm qua thành tín dụng hôm nay; một sửa áp về phía trước, và hồ sơ đã mở giữ cơ sở đo lường dưới **mục 3.4** trừ khi cơ sở đó sai lúc ghi;
 - một sửa phải dựa bằng chứng, được công bố, và tranh biện được, và không được dùng để dập ghi nhận một lớp việc, một cộng đồng, hoặc một nhóm, hoặc siết chuẩn xuống nhanh hơn lợi hiệu quả đã xác minh nó tựa ([Chương Một §11](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture));
-- một chuẩn không tạo hạn ngạch, không bổn phận thực hiện, và không thanh năng lực dưới [Chương Chín §6.2](../../core_09_standing_integration.md#62-competency-bars-and-clearances); **mục 2.1** *Im lặng là mặc định* kiểm soát, và một hữu tri không bao giờ làm một việc chuẩn không có hồ sơ vì lý do đó;
+- một chuẩn không tạo hạn ngạch, không bổn phận thực hiện, và không thanh năng lực dưới [Chương Chín §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances); **mục 2.1** *Im lặng là mặc định* kiểm soát, và một hữu tri không bao giờ làm một việc chuẩn không có hồ sơ vì lý do đó;
 - văn phòng đặt hoặc sửa một chuẩn giữ ghế hướng-và-chính-sách dưới **mục 3.7** *Phân tách nhiệm vụ*; nó không phải văn phòng xác minh hiệu năng đối với chuẩn, và không cái nào là bên mà ghi nhận chuẩn đo.
 
 Chuẩn không được ghi đè **mục 7**, **Chương Một**, hoặc Sàn Quyền **Chương Sáu**. Một phương pháp tham chiếu và lịch đã làm nằm ở [LEQU_CALIBRATION_REFERENCE.md](../../implementation/LEQU_CALIBRATION_REFERENCE.md) (*hỗ trợ quy trình; không thể gán một hồ sơ sống*).
@@ -980,15 +980,15 @@ Triển khai đã tiếp nhận có thể công bố ước LEQU và nhãn hiể
 
 ---
 
-**Tiếp.** Hiệu ứng quỹ đạo và tích hợp tiếp ở [Chương Chín](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration), bắt đầu với **mục 1 — Hiệu ứng quỹ đạo**.
+**Tiếp.** Hiệu ứng quỹ đạo và tích hợp tiếp ở [Chương Chín](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration), bắt đầu với **mục 1 — Hiệu ứng quỹ đạo**.
 
 ---
 
 **Tệp trước (ngôn ngữ này):** [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process)
 
-**Tệp tiếp theo (vẫn tiếng Anh):** [core_09_standing_integration.md](../../core_09_standing_integration.md)
+**Tệp tiếp theo (vẫn tiếng Anh):** [core_09_standing_integration.md](../../core_10_standing_integration.md)
 
-**Nguyên bản ràng buộc:** [core_08_standing_assessment.md](../../core_08_standing_assessment.md)
+**Nguyên bản ràng buộc:** [core_08_standing_assessment.md](../../core_09_standing_assessment.md)
 
 
 

@@ -12,7 +12,7 @@
 >
 > **Sebelumnya (lokal ini):** [core_05_band_participation.md](core_05_band_participation.md)
 >
-> **Berikutnya (masih bahasa Inggris):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+> **Berikutnya (masih bahasa Inggris):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 > **Alur baca:** rumah keluarga pengukuran → perutean daun di pita Kesinambungan.
 
 </details>
@@ -58,12 +58,12 @@ Ukuran lintas-potong ini menanyakan apakah sistem menyampaikan hasil konstitusio
 - Tingkatan pengukuran operatif hidup pada rumah definisi Bab Lima — lihat [Efisiensi konstitusional](core_05_band_continuity.md#constitutional-efficiency), [Beban yang dapat dihindari](core_05_band_continuity.md#avoidable-burden), [Kapasitas produktif](core_05_band_continuity.md#productive-capacity-constitutional), dan [Kewajiban pengurangan beban](core_05_band_continuity.md#burden-reduction-duty-constitutional).
 - Target kinerja, imbalan, dan ukuran sumber daya sah hanya sejauh tetap tertelusuri ke hasil konstitusional.
 - Mereka tidak dapat menggantikan Efisiensi konstitusional, [Kapasitas produktif](core_05_band_continuity.md#productive-capacity-constitutional), atau kepatuhan Lantai Hak.
-- Baca bersama [Bab Tujuh §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) di mana kinerja seluruh-sistem secara material berada dalam cakupan.
+- Baca bersama [Bab Tujuh §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) di mana kinerja seluruh-sistem secara material berada dalam cakupan.
 
 ---
 
 **Berkas sebelumnya:** [core_05_band_participation.md](core_05_band_participation.md)
 
-**Berkas berikutnya (masih bahasa Inggris):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+**Berkas berikutnya (masih bahasa Inggris):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 
 **Sumber mengikat:** [core_05_band_performance.md](../../core_05_band_performance.md)

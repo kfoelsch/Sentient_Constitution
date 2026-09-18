@@ -9,7 +9,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.08.09`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_15_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Fourteen §5](../../../core_14_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_16_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -67,13 +67,13 @@ See: [CI-9.4](../../../corpus_institutions/ci_09_classification_linked_instituti
 
 ## What you might reasonably object to
 
-- **“This will bury me in process.”** If you adopt, you take matching duties — fair pay, safe conditions, rest, decisions that can be challenged — scaled to what is on the line, not a copy of a ministry. If you do not adopt, this page does not bind you ([Chapter Sixteen §4](../../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority)). Using the ideas as a handbook is the honest near-term mode.
+- **“This will bury me in process.”** If you adopt, you take matching duties — fair pay, safe conditions, rest, decisions that can be challenged — scaled to what is on the line, not a copy of a ministry. If you do not adopt, this page does not bind you ([Chapter Seventeen §4](../../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)). Using the ideas as a handbook is the honest near-term mode.
 
 - **“My workers will organize and I will lose the shop.”** Collective organization is a basic protection, not a confiscation rule. Classification tricks designed to defeat it are out. So is retaliation. This text will not pretend that avoiding unions is a constitutional right.
 
 - **“The big platforms will never adopt, so I just get extra rules.”** Correct that this Constitution does not bind a marketplace you do not control. Partial scope has to stay honest. The case for you is the leave-without-tricks and business-creation floor *if* a body in your stack actually takes it up — not a promise that a global processor already has.
 
-- **“This isn’t law where I file taxes.”** Correct. Pre-release model constitution. It does not override applicable commercial or labor law ([Chapter Fourteen §5](../../../core_14_expansion_supremacy.md#5-relation-to-applicable-external-law)).
+- **“This isn’t law where I file taxes.”** Correct. Pre-release model constitution. It does not override applicable commercial or labor law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
 - **“I am not an ‘institution.’ I am trying to make payroll.”** You do not have to call the shop an institution to use this page. This brief is for someone who runs a small shop, workshop, clinic, farm stand, or platform-dependent service. It does not change the Rights Floor that applies to you. When you later want a published scope instrument for systems you actually run, those rules are located in the section on [Charter](../../../core_05_band_continuity.md#charter). [FIT_SITUATIONS.md](../FIT_SITUATIONS.md) is the operator map.
 

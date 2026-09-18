@@ -75,7 +75,7 @@
 
 <br>
 
-*쉬운 말로: 가치와 권리는 충돌할 것입니다 — **안전**과 **진실**이 먼저입니다. 그다음, 한도는 비례하고, 필요하고, 해를 최소화하고, 가능한 한 가벼워야 합니다. 진실은 편의를 위해 숨길 수 없고; 프라이버시는 편의를 위해 벗길 수 없으며; 자유 한도는 [§5.1](core_01_a_values_principles.md#51-limitation-discipline) 아래에서 적용되고; 권리 충돌은 문서화된 결정 시험이 필요하며; 준수에 대해 거짓말하는 지표는 세지 않습니다. 짧은 시계 최적화는 [제7장 §3.6 시간 일관성 제약](../../core_07_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint) 아래 평가를 통과할 수 없습니다. **§6.1–§6.3**이 교환 규칙, 공개와 프라이버시 제약, 권리 충돌 절차를 실습니다.*
+*쉬운 말로: 가치와 권리는 충돌할 것입니다 — **안전**과 **진실**이 먼저입니다. 그다음, 한도는 비례하고, 필요하고, 해를 최소화하고, 가능한 한 가벼워야 합니다. 진실은 편의를 위해 숨길 수 없고; 프라이버시는 편의를 위해 벗길 수 없으며; 자유 한도는 [§5.1](core_01_a_values_principles.md#51-limitation-discipline) 아래에서 적용되고; 권리 충돌은 문서화된 결정 시험이 필요하며; 준수에 대해 거짓말하는 지표는 세지 않습니다. 짧은 시계 최적화는 [제7장 §3.6 시간 일관성 제약](../../core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint) 아래 평가를 통과할 수 없습니다. **§6.1–§6.3**이 교환 규칙, 공개와 프라이버시 제약, 권리 충돌 절차를 실습니다.*
 
 **안전**과 **진실**은 그것들을 위반하지 않고는 충돌을 해결할 수 없는 곳에서 우선한다.
 
@@ -183,7 +183,7 @@
 - 식별된 당사자에게는 해가 적어 보이게 하면서 더 큰 체계, 합산, 생태 해를 만드는 국소 또는 즉각 해만의 최적화;
 - 식별된 당사자에게 해가 적어 보이게 하려고 생태계, 식별되지 않은 감지자, 다른 세지 않은 당사자에게 해를 외부화하는 것.
 
-**시간 지평 규율.** 장기 체계 비용을 대가로 한 단기 최적화는 이 시험을 실패한다. 해 최소화는 [제7장 §3.6 시간 일관성 제약](../../core_07_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint)을 셈에 넣어야 한다: 현재 기간에는 해를 최소화하는 것처럼 보이지만 관련 헌법 시간 지평에 걸쳐 더 큰 해를 예견 가능하게 만드는 결정은 비준수다.
+**시간 지평 규율.** 장기 체계 비용을 대가로 한 단기 최적화는 이 시험을 실패한다. 해 최소화는 [제7장 §3.6 시간 일관성 제약](../../core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint)을 셈에 넣어야 한다: 현재 기간에는 해를 최소화하는 것처럼 보이지만 관련 헌법 시간 지평에 걸쳐 더 큰 해를 예견 가능하게 만드는 결정은 비준수다.
 
 **헌법 바닥과의 관계.** 해 최소화는 [§6.1.4](#614-constitutional-floors-safety-and-process-character-constraints)가 말한 헌법 바닥 *위에서* 작동한다. 그것은 다음을 수권하지 않는다:
 - 권리 바닥 최소의 영구 소멸;
@@ -610,7 +610,7 @@
 - 하류: [§8.1 헌법 우회 금지 원칙](#81-constitutional-no-bypass-principle), [§8.2 정의 층과 요구되는 규율](#82-definitional-layer-and-required-disciplines), [§8.3 모호성 해결](#83-ambiguity-resolution), [§8.4 헌법 의미 충돌 해결](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. 기초 목표: 복지](core_01_a_values_principles.md#2-foundational-objective-wellbeing)부터 [15. 통합 적용](core_01_c_stewardship_capacity_principles.md#15-integrated-application); 가치 충돌 절차를 위한 [6. 과정 충돌 해결](#6-process-conflict-resolution); [제6장: 기초 권리](../../core_06_rights_part_a.md#chapter-six-foundational-rights) 비축소 기본값.
 - 함께 읽기: [제2장부터 제4장](core_02_definition_structure.md)과 [제5장](core_05__definitions_home.md#chapter-five-foundational-definitions) — 이 장의 모든 용어의 해석·증거 층.
 - 함께 읽기: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad)과 [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) — 통합 가치 틀의 해석 배경; 실질로 관련된 곳에서 [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절.
-- 함께 읽기: [권위 스택과 내부 위계](../../core_05_band_integrative.md#authority-stack) (*원천 층 지위*); [제16장](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*보관, 판, 채택 틀* — 두 번째 충돌 순서 거처가 아님); [제13장](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)과 [제14장](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*§8.4 아래 비후퇴와 채택 주체 위계 문*).
+- 함께 읽기: [권위 스택과 내부 위계](../../core_05_band_integrative.md#authority-stack) (*원천 층 지위*); [제16장](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*보관, 판, 채택 틀* — 두 번째 충돌 순서 거처가 아님); [제13장](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)과 [제14장](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) (*§8.4 아래 비후퇴와 채택 주체 위계 문*).
 - 함께 읽기: 제도 해석 안전장치를 위한 [제 XXII조: 헌법 해석, 검토, 포획 금지 안전장치](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (이 절의 대체가 아님).
 
 </details>
@@ -737,7 +737,7 @@
   - 구속력 있는 헌법 원천 안(통합 `core_*` 도구); 그리고
   - 끌어들인 텍스트의 **적용 가능한 가장 엄격한 것** / **더 엄격한 것**을 위한 끌어들임 층에서.
 - 원천 층 지위는 제5장의 [권위 스택과 내부 위계](../../core_05_band_integrative.md#authority-stack) 아래에서 식별된다.
-- [제16장](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)은 보관, 판 고정, 채택 틀을 공급한다. 이 절차를 **다시 말하지 않는다**.
+- [제16장](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)은 보관, 판 고정, 채택 틀을 공급한다. 이 절차를 **다시 말하지 않는다**.
 - **운영에서의 가치와 권리 충돌** — 텍스트 층 선후가 아님 — 에는 **[§6 과정 충돌 해결](#6-process-conflict-resolution)**을 적용하라.
 
 **운영 순서.** 다음을 **이 순서로** 적용하라:
@@ -774,7 +774,7 @@
 <a id="843-incorporation-layer"></a>
 ##### 8.4.3 끌어들임 층
 
-**§8.4.1**과 **§8.4.2** 아래 헌법 읽기 뒤에, 채택된 시행 텍스트의 **지정된 의무** — 채택이 실제로 효력에 넣은 명명된 어떻게-하기 의무 — 를 적용하라. **[제16장](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** 아래 **유효한 채택과 끌어들임 범위** 안에서만 적용하라 (기록을 누가 쥐는지, 어느 판이 고정되었는지, 채택이 어떻게 틀 지어지는지).
+**§8.4.1**과 **§8.4.2** 아래 헌법 읽기 뒤에, 채택된 시행 텍스트의 **지정된 의무** — 채택이 실제로 효력에 넣은 명명된 어떻게-하기 의무 — 를 적용하라. **[제16장](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)** 아래 **유효한 채택과 끌어들임 범위** 안에서만 적용하라 (기록을 누가 쥐는지, 어느 판이 고정되었는지, 채택이 어떻게 틀 지어지는지).
 
 아래 규칙이 **적용 가능한 가장 엄격한 것**이나 **더 엄격한 것**이라고 말할 때, 그 말은 **[§8.3](#83-ambiguity-resolution)**의 **모호성** 규칙과 같은 뜻이다: **통합된 전체로서의 가장 충실한 보호 효과**, **최대 제한**이나 따로 떨어진 **추상 엄격**이 아님.
 
@@ -789,7 +789,7 @@
   - 이것은 **추상 엄격** 선호에 의한 실체 헌법 모호성 해결이 **아니다**.
 - **파일 사이 더 엄격한 것이 이김:** 둘 이상의 채택된 시행 파일이 같은 의미 있는 범위의 위험에 대해 다른 기준을 세우는 곳에서, 분명히 채택된 더 엄격한 규칙이 다스리며, 위의 **적용 가능한 가장 엄격한 것**과 **분명히 채택된 더 엄격한 기준선**과 일관된다.
   - 원천 층 지위는 [권위 스택과 내부 위계](../../core_05_band_integrative.md#authority-stack) 아래에 남는다.
-  - 보관, 판, 채택 틀은 **[제16장](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** 아래에 남는다.
+  - 보관, 판, 채택 틀은 **[제16장](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)** 아래에 남는다.
   - 인용된 프로필과 인용된 시행 꼬리표가 그 위험에 대해 충돌하는 것처럼 보일 때에도 같은 규칙이 적용된다.
 
 <a id="844-combined-satisfaction"></a>
@@ -801,7 +801,7 @@
 - 끌어들인 공동 구조 텍스트의 **단일** 운영 무리 규칙 — 그 무리의 일부만 하는 것은 준수로 세지 않는다 — **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*운영 무리*)를 보라; 또는
 - **의존 무리** 정의는 함께 충족되어야 한다는 제5장 규칙 — **[공동 호출과 충족](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**을 보라.
 
-**이 하위절이 적용되는 때.** 이 규칙은 **[제16장](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** 아래 유효한 채택과 끌어들임 범위 안에서, 다음 중 어느 경우에든 적용된다:
+**이 하위절이 적용되는 때.** 이 규칙은 **[제16장](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)** 아래 유효한 채택과 끌어들임 범위 안에서, 다음 중 어느 경우에든 적용된다:
 
 1. **한 상황, 둘 이상의 파일:** 사실이 끌어들인 시행 파일을 둘 이상 적용할 것을 요구한다 — 예를 들어 체계, 제도, 포럼들, 공동 구조 텍스트. 어느 파일이 적용되는지는, 충족하기 가장 쉬운 파일만 고르는 것이 아니라, 채택 범위와 그 파일이 사실에 대해 공급하는 주제 라우팅이 결정한다.
 2. **채택이 공동 구조 집합을 효력에 넣는다:** 채택 도구가 지정된 공동 구조 시행 텍스트(**CJS** 폴더와 채택 사슬에 열거된 다른 공동 구조 파일)를 채택 주체에게 적용한다.

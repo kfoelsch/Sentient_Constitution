@@ -7,7 +7,7 @@
 
 > Isi berikut **hanya panduan pembaca**. Tidak menambah, mengurangi, atau mempersempit kewajiban yang mengikat di berkas ini atau di bab lain.
 >
-> Berkas ini adalah **uji coba bahasa pembaca** atas [indeks baca Bab Tujuh bahasa Inggris](../../core_07_system_alignment_certification.md). **Bukan** bagian mengikat Konstitusi Makhluk Sadar. **Bukan** konstitusi kedua. **Bukan** edisi kirim. **Disematkan** pada `SC-Corpus-2026.08.09`. Jika terjemahan ini dan sumber bahasa Inggris tampak berselisih, berkas bernomor [`core_07_system_alignment_certification.md`](../../core_07_system_alignment_certification.md) yang menang. Urutan baca dan metadata edisi tetap di [README.md](../../README.md). Metode dan glosarium: [translations/id/README.md](README.md).
+> Berkas ini adalah **uji coba bahasa pembaca** atas [indeks baca Bab Tujuh bahasa Inggris](../../core_08_system_alignment_certification.md). **Bukan** bagian mengikat Konstitusi Makhluk Sadar. **Bukan** konstitusi kedua. **Bukan** edisi kirim. **Disematkan** pada `SC-Corpus-2026.08.09`. Jika terjemahan ini dan sumber bahasa Inggris tampak berselisih, berkas bernomor [`core_07_system_alignment_certification.md`](../../core_08_system_alignment_certification.md) yang menang. Urutan baca dan metadata edisi tetap di [README.md](../../README.md). Metode dan glosarium: [translations/id/README.md](README.md).
 >
 > **Bab Tujuh** terbagi di dua berkas mengikat yang dibaca sebagai satu instrumen:
 >
@@ -41,4 +41,4 @@ Di bawah kaki Tetrad **pengawasan**, pengawasan menuntut audit; Bab Tujuh adalah
 
 **Berkas berikutnya (bahasa ini):** [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
 
-**Sumber mengikat:** [core_07_system_alignment_certification.md](../../core_07_system_alignment_certification.md)
+**Sumber mengikat:** [core_07_system_alignment_certification.md](../../core_08_system_alignment_certification.md)

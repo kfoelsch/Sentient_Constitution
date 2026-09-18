@@ -5,7 +5,7 @@
 
 > نیچے کا مواد **صرف قارئین کی رہنمائی** ہے۔ یہ پابند فرائض نہیں بڑھاتا، گھٹاتا یا تنگ کرتا۔
 >
-> یہ فولڈر **قارئین کی زبان کا پائلٹ** ہے۔ یہ **شعوری آئین نہیں**۔ یہ نمبر والے `core_*` فائلیں بدل **نہیں** سکتا۔ یہ **ارسال ایڈیشن نہیں**۔ اسے پڑھنا [اس آئین کو اختیار کرنا](../../core_15_amendment_ratification.md#10-ratification-and-adoption) **نہیں** ہے۔ اگر ترجمہ اور انگریزی اصل میں اختلاف نظر آئے تو انگریزی نمبر والے `core_*` جیتتے ہیں جب تک بعد کا ایڈیشن اور نہ کہے۔ دیکھیں [Reader-language editions](../../doc_architecture.md#reader-language-editions)۔
+> یہ فولڈر **قارئین کی زبان کا پائلٹ** ہے۔ یہ **شعوری آئین نہیں**۔ یہ نمبر والے `core_*` فائلیں بدل **نہیں** سکتا۔ یہ **ارسال ایڈیشن نہیں**۔ اسے پڑھنا [اس آئین کو اختیار کرنا](../../core_16_amendment_ratification.md#10-ratification-and-adoption) **نہیں** ہے۔ اگر ترجمہ اور انگریزی اصل میں اختلاف نظر آئے تو انگریزی نمبر والے `core_*` جیتتے ہیں جب تک بعد کا ایڈیشن اور نہ کہے۔ دیکھیں [Reader-language editions](../../doc_architecture.md#reader-language-editions)۔
 >
 > **کارپس ایڈیشن پر پن:** `SC-Corpus-2026.08.09` (نافذ 2026-08-09؛ [README.md](../../README.md))۔ **قبل از اشاعت۔**
 
@@ -37,16 +37,16 @@
 | [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md) | [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md) |
 | [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md) | [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md) |
 | [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md) | [core_05_apex_timeliness_leg.md](../../core_05_apex_timeliness_leg.md) |
-| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_07_system_alignment_certification.md) |
-| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md) |
-| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md) |
-| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_08_standing_assessment.md) |
-| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_09_standing_integration.md) |
-| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md) |
-| [core_12_governance.md](core_12_governance.md) | [core_12_governance.md](../../core_12_governance.md) |
-| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_11_forum.md) |
-| [core_12_governance.md](core_12_governance.md) | [core_12_governance.md](../../core_12_governance.md) |
-| [core_13_non_regression.md](core_13_non_regression.md) | [core_13_non_regression.md](../../core_13_non_regression.md) |
+| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_08_system_alignment_certification.md) |
+| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md) |
+| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_09_standing_assessment.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_10_standing_integration.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md) |
+| [core_12_governance.md](core_12_governance.md) | [core_12_governance.md](../../core_13_governance.md) |
+| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_12_forum.md) |
+| [core_12_governance.md](core_12_governance.md) | [core_12_governance.md](../../core_13_governance.md) |
+| [core_13_non_regression.md](core_13_non_regression.md) | [core_13_non_regression.md](../../core_14_non_regression.md) |
 
 پائلٹ کے روابط ابھی غیر ترجمہ شدہ انگریزی فائلوں کی طرف ہیں۔ HTML لنگر (`id`) اصل سے نقل ہیں تاکہ ٹکڑے بہ ٹکڑا موازنہ ہو سکے۔
 

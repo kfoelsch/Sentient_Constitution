@@ -6,15 +6,15 @@
 
 > 다음 내용은 **독자 안내일 뿐입니다**. 이 파일이나 다른 장에서 구속력 있는 의무를 더하거나, 빼거나, 좁히지 않습니다.
 >
-> 이 파일은 [영어 제12장](../../core_12_governance.md)의 **독자 언어 시험본**입니다. 감지자 헌법의 구속력 있는 부분이 **아닙니다**. 두 번째 헌법이 **아닙니다**. 배포판이 **아닙니다**. `SC-Corpus-2026.08.09`에 **고정**되어 있습니다. 이 번역과 영어 원문이 어긋나 보이면, 번호 파일 [`core_12_governance.md`](../../core_12_governance.md)가 이깁니다. 읽기 순서와 판본 메타데이터는 [README.md](../../README.md)에 유지됩니다. 방법과 용어표: [translations/ko/README.md](README.md).
+> 이 파일은 [영어 제12장](../../core_13_governance.md)의 **독자 언어 시험본**입니다. 감지자 헌법의 구속력 있는 부분이 **아닙니다**. 두 번째 헌법이 **아닙니다**. 배포판이 **아닙니다**. `SC-Corpus-2026.08.09`에 **고정**되어 있습니다. 이 번역과 영어 원문이 어긋나 보이면, 번호 파일 [`core_12_governance.md`](../../core_13_governance.md)가 이깁니다. 읽기 순서와 판본 메타데이터는 [README.md](../../README.md)에 유지됩니다. 방법과 용어표: [translations/ko/README.md](README.md).
 >
-> **제12장**, **헌법 계약 층**을 담습니다 — 통치 권한에 대한 헌법 정당성과 책임 있는 관리 요건이며, 이미 수권된 체계 안의 **영향받는 쪽의 체계 참여**와 구별됩니다([전문](core_00_preamble.md#chapter-00-preamble--foundational-requirements)). 개정과 채택 유효성 통제는 [제13장부터 제15장](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)에서 이어집니다. 장 번호와 상호 참조는 통합 문서와 맞습니다.
+> **제12장**, **헌법 계약 층**을 담습니다 — 통치 권한에 대한 헌법 정당성과 책임 있는 관리 요건이며, 이미 수권된 체계 안의 **영향받는 쪽의 체계 참여**와 구별됩니다([전문](core_00_preamble.md#chapter-00-preamble--foundational-requirements)). 개정과 채택 유효성 통제는 [제13장부터 제15장](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)에서 이어집니다. 장 번호와 상호 참조는 통합 문서와 맞습니다.
 
 
 >
 > **이전(아직 영어):** [core_11_forum.md](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
 >
-> **다음(아직 영어):** [core_13_non_regression.md](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)
+> **다음(아직 영어):** [core_13_non_regression.md](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)
 > **읽기 호:** §0 층 경계 → §1 수권/정당성 → §1.1 메커니즘 가족 → §1.2 자격/민주 최소 → §1.3 소환-급 → §2 완전성 문화 → §3 책임 있는 관리 방향 → §4 투표/집단 선택 → §5 수권된 역할
 </details>
 
@@ -65,7 +65,7 @@
 
 - 상류: 원칙: [제1장 §5 자유](core_01_a_values_principles.md#5-freedom-bounded-agency), [§9 책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [5. 과정 충돌 해소](#6-process-conflict-resolution); [제12장 §0](#0-layer-boundary-for-this-chapter).
 - 하위절: [§1.1](#11-mechanism-families-auditability-and-pluralism) (*메커니즘 가족, 감사 가능성, 다원*); [§1.2](#12-eligibility-contested-selection-and-democratic-minimums) (*자격, 경합 선정, 민주 최소*); [§1.3](#13-recall-class-pathways-and-mid-cycle-transfer-guardrails) (*소환-급 명명된 경로와 주기 중 이전 난간*).
-- 하류: [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale) 아래 완전성, 전략, 투표, 역할 의무; [제15장](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) 아래 채택과 비준; 제6장의 정당성, 참여, 다툴 수 있음 — 특히 [제 XI-C조: 정당성 문과 토큰 참여 금지](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation), [제 XVIII조: 궤적과 참여 지위](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status), 그리고 아래 운영 글머리에 열쇠 달린 표현, 집회, 절차 공정 조.
+- 하류: [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale) 아래 완전성, 전략, 투표, 역할 의무; [제15장](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) 아래 채택과 비준; 제6장의 정당성, 참여, 다툴 수 있음 — 특히 [제 XI-C조: 정당성 문과 토큰 참여 금지](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation), [제 XVIII조: 궤적과 참여 지위](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status), 그리고 아래 운영 글머리에 열쇠 달린 표현, 집회, 절차 공정 조.
 - 함께 읽기: 이 절이 이름 붙인 지정 **코퍼스**와 **[corpus_systems.md](../../corpus_systems.md)** 고리([corpus_systems.md](../../corpus_systems.md), [corpus_institutions.md](../../corpus_institutions.md)).
 
 </details>
@@ -303,7 +303,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [§1](#1-authorization-and-legitimacy-of-governing-authority) 문서화된 정당성 메커니즘; [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate) 집단 결정을 위한 책임 있는 관리 정합.
-- 하류: 하위절 [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice); 이 절 끝의 **상호 참조 (제12장)** 주가 요약한 [제13장부터 제15장](../../core_13_non_regression.md)의 채택, 최고효력, 비후퇴 기구.
+- 하류: 하위절 [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice); 이 절 끝의 **상호 참조 (제12장)** 주가 요약한 [제13장부터 제15장](../../core_14_non_regression.md)의 채택, 최고효력, 비후퇴 기구.
 - 함께 읽기: [제6장](core_06_rights_part_a.md#chapter-six-foundational-rights), 특히 [제 XI조: 영향받는 쪽의 체계 참여, 대표, 적법절차](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)와 §4에 인용된 관련 부조.
 
 </details>
@@ -480,6 +480,6 @@
 
 **이전 파일(아직 영어):** [core_11_forum.md](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
 
-**다음 파일(아직 영어):** [core_13_non_regression.md](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)
+**다음 파일(아직 영어):** [core_13_non_regression.md](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)
 
-**구속력 있는 원문:** [core_12_governance.md](../../core_12_governance.md)
+**구속력 있는 원문:** [core_12_governance.md](../../core_13_governance.md)

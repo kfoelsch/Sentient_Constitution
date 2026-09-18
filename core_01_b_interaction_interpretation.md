@@ -74,7 +74,7 @@
 
 <br>
 
-*In plain terms: values and rights will collide — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; privacy cannot be stripped for convenience; freedom limits apply under [§5.1](core_01_a_values_principles.md#51-limitation-discipline); rights conflicts need a documented decision test; and metrics that lie about compliance do not count. Short-horizon optimization cannot pass evaluation under [Chapter Seven §3.6 Time-Consistency Constraint](core_07_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint). **§6.1–§6.3** carry the tradeoff rules, disclosure and privacy constraints, and rights-collision procedure.*
+*In plain terms: values and rights will collide — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; privacy cannot be stripped for convenience; freedom limits apply under [§5.1](core_01_a_values_principles.md#51-limitation-discipline); rights conflicts need a documented decision test; and metrics that lie about compliance do not count. Short-horizon optimization cannot pass evaluation under [Chapter Eight §3.6 Time-Consistency Constraint](core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint). **§6.1–§6.3** carry the tradeoff rules, disclosure and privacy constraints, and rights-collision procedure.*
 
 **Safety** and **Truth** take precedence where conflicts cannot be resolved without violating them.
 
@@ -182,7 +182,7 @@ The following are non-compliant:
 - optimizing on local or immediate harm alone while creating larger systemic, aggregate, or ecological harm;
 - externalizing harm onto ecosystems, unidentified sentients, or other uncounted parties in order to look harm-minimizing for identified parties.
 
-**Time-horizon discipline.** Short-term optimization at long-term systemic cost fails this test. Harm minimization must account for the [Chapter Seven §3.6 Time-Consistency Constraint](core_07_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint): a decision that looks harm-minimizing in the current period but predictably creates greater harm across the relevant constitutional time horizon is non-compliant.
+**Time-horizon discipline.** Short-term optimization at long-term systemic cost fails this test. Harm minimization must account for the [Chapter Eight §3.6 Time-Consistency Constraint](core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint): a decision that looks harm-minimizing in the current period but predictably creates greater harm across the relevant constitutional time horizon is non-compliant.
 
 **Relationship to constitutional floors.** Harm minimization operates *above* the constitutional floors stated in [§6.1.4](#614-constitutional-floors-safety-and-process-character-constraints). It never authorizes:
 - permanent extinguishment of Rights-Floor minimums;
@@ -285,7 +285,7 @@ Limitations on constitutional **values** — including **Chapter Six** Rights-Fl
 <summary><strong><span style="color: #2563eb;">Operative steward statement</span></strong></summary>
 
 <a id="operative-steward-statement-proceed"></a>
-> **Operative steward statement.** **Owner:** §6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle; §6.2.3 Privacy; Article VII-B; reconstructable set remains CS-4 §10. Unwelcome-but-lawful instructions: Chapter Nine §5.4 (duty does not attach). **Forbidden move:** Do not refuse a valid least-restrictive privacy restriction as if it were a standing-measurement veto. Do not invent a constitutional conflict over tone or scheduling. Do not strip the reconstructable set from reviewers. **Clock:** Proceed with the restriction. Keep the reconstructable set inspectable to independent reviewers. Do not treat privacy as a standing-measurement veto. Proceed. Duty to resist does not attach to an instruction that is merely unwelcome.
+> **Operative steward statement.** **Owner:** §6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle; §6.2.3 Privacy; Article VII-B; reconstructable set remains CS-4 §10. Unwelcome-but-lawful instructions: Chapter Ten §5.4 (duty does not attach). **Forbidden move:** Do not refuse a valid least-restrictive privacy restriction as if it were a standing-measurement veto. Do not invent a constitutional conflict over tone or scheduling. Do not strip the reconstructable set from reviewers. **Clock:** Proceed with the restriction. Keep the reconstructable set inspectable to independent reviewers. Do not treat privacy as a standing-measurement veto. Proceed. Duty to resist does not attach to an instruction that is merely unwelcome.
 
 </details>
 
@@ -558,7 +558,7 @@ For this section:
 This section:
 - operates **only within** the set of options that already satisfy Safety, Truth, the Rights Floor, and the tradeoff principles in §6.1. It does **not** authorize reducing burden by weakening those protections.
 - pairs with **Least-Restrictive Effective Selection** in the [§6.1 decision-record discipline](#615-rights-collision-decision-test). Where this section applies, the selected action should be both the least-restrictive and the least-burdensome effective option.
-- treats over-process, over-restriction, and over-burden with no checkable link to a constitutional benefit as constitutional defects. Such defects are reviewable under **Chapter Eight** and correctable under **Chapter Four** traceability of definitions to results.
+- treats over-process, over-restriction, and over-burden with no checkable link to a constitutional benefit as constitutional defects. Such defects are reviewable under **Chapter Nine** and correctable under **Chapter Four** traceability of definitions to results.
 
 Claims that a given burden is constitutionally required must satisfy **Chapter Four** evidentiary and traceability requirements. Convenience, institutional inertia, tradition, or preference alone are not sufficient to sustain a burden that lacks a checkable link to a constitutional outcome, consistent with the [§6.1 decision-record discipline](#615-rights-collision-decision-test).
 
@@ -606,7 +606,7 @@ No value defined in this chapter may be used as a universal or unbounded justifi
 - Downstream: [§8.1 Constitutional No-Bypass Principle](#81-constitutional-no-bypass-principle), [§8.2 Definitional layer and required disciplines](#82-definitional-layer-and-required-disciplines), [§8.3 Ambiguity resolution](#83-ambiguity-resolution), [§8.4 Constitutional Meaning Conflict Resolution](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing) through [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#15-integrated-application); [6. Process Conflict Resolution](#6-process-conflict-resolution) for value-collision procedure; [Chapter Six: Foundational Rights](core_06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default.
 - Read with: [Chapters Two through Four](core_02_definition_structure.md) and [Chapter Five](core_05__definitions_home.md#chapter-five-foundational-definitions) — interpretive and evidentiary layer for every term in this chapter.
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — interpretive backdrop for the integrated-value framework; [material stake](core_00_preamble.md#material-stake) scaling where materially relevant.
-- Read with: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) (*source-layer status*); [Chapter Sixteen](core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*custody, editions, adoption framing* — not a second conflict-order home); [Chapter Thirteen](core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) and [Chapter Fourteen](core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*non-regression and adopter hierarchy gates under §8.4*).
+- Read with: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) (*source-layer status*); [Chapter Seventeen](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*custody, editions, adoption framing* — not a second conflict-order home); [Chapter Fourteen](core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) and [Chapter Fifteen](core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) (*non-regression and adopter hierarchy gates under §8.4*).
 - Read with: [Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) for institutional interpretation safeguards (not a substitute for this section).
 
 </details>
@@ -732,12 +732,12 @@ This subsection is the **single canonical procedure** for resolving interpretive
   - within the binding constitutional source (the integrated `core_*` instrument); and
   - at the incorporation layer for **strictest** / **stricter** incorporated text.
 - Source-layer status is identified under the [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) in Chapter Five.
-- [Chapter Sixteen](core_16_incorporation.md#chapter-sixteen-incorporation-bridge) supplies custody, edition pinning, and adoption framing. It does **not** restate this procedure.
+- [Chapter Seventeen](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) supplies custody, edition pinning, and adoption framing. It does **not** restate this procedure.
 - For **value and rights collisions in operation** — not textual layer precedence — apply **[§6 Process Conflict Resolution](#6-process-conflict-resolution)**.
 
 **Operative sequence.** Apply the following **in this order**:
 
-1. **Constitution, non-regression, and adopter hierarchy first:** Apply Sentient Constitution supremacy, **Chapter Thirteen** non-regression constraints, and **Chapter Fourteen** internal hierarchy rules before resolving lower layers.
+1. **Constitution, non-regression, and adopter hierarchy first:** Apply Sentient Constitution supremacy, **Chapter Fourteen** non-regression constraints, and **Chapter Fifteen** internal hierarchy rules before resolving lower layers.
 2. **Binding constitutional reading:** Within the binding constitutional source, apply **[§8.4.1 Integrated reading](#841-integrated-reading)** and, only if genuine residual incompatibility remains, **[§8.4.2 Last-resort internal hierarchy](#842-last-resort-internal-hierarchy)**.
 3. **Incorporated obligations:** Then apply incorporated obligations under **[§8.4.3 Incorporation layer](#843-incorporation-layer)** and **[§8.4.4 Combined satisfaction of jointly applicable incorporated obligations](#844-combined-satisfaction)**.
 
@@ -752,7 +752,7 @@ Apply **[§8.2 Definitional layer and required disciplines](#82-definitional-lay
 <a id="842-last-resort-internal-hierarchy"></a>
 ##### 8.4.2 Last-resort internal hierarchy
 
-Within the binding constitutional source, **Chapter One principles** govern high-level constitutional direction. **Article-level obligations and Rights Floors** govern specific operative requirements. The canonical statement of this rule — including its boundary with source-layer authority and its application to adopters under **Chapter Fourteen** (*Internal Hierarchy for Adopters*) — lives in the [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) cluster in Chapter Five.
+Within the binding constitutional source, **Chapter One principles** govern high-level constitutional direction. **Article-level obligations and Rights Floors** govern specific operative requirements. The canonical statement of this rule — including its boundary with source-layer authority and its application to adopters under **Chapter Fifteen** (*Internal Hierarchy for Adopters*) — lives in the [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) cluster in Chapter Five.
 
 If a genuine incompatibility remains after integrated reading under **§8.4.1**:
 - principles control over articles
@@ -769,7 +769,7 @@ Each principle in this chapter applies together with the [Constitutional Tetrad]
 <a id="843-incorporation-layer"></a>
 ##### 8.4.3 Incorporation layer
 
-After the constitutional reading under **§8.4.1** and **§8.4.2**, apply the **designated obligations** in adopted implementation text — the named how-to duties the adoption actually brought into force. Apply them only inside **valid adoption and incorporation scope** under **[Chapter Sixteen](core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** (who holds the records, which edition is pinned, and how adoption is framed).
+After the constitutional reading under **§8.4.1** and **§8.4.2**, apply the **designated obligations** in adopted implementation text — the named how-to duties the adoption actually brought into force. Apply them only inside **valid adoption and incorporation scope** under **[Chapter Seventeen](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)** (who holds the records, which edition is pinned, and how adoption is framed).
 
 When the rules below say **strictest** or **stricter**, those words have the same meaning as the **ambiguity** rule in **[§8.3](#83-ambiguity-resolution)**: the **fullest protective effect as an integrated whole**, not **maximal restriction** or **abstract strictness** in isolation.
 
@@ -779,12 +779,12 @@ When the rules below say **strictest** or **stricter**, those words have the sam
   - That is the same sense as the Constitution's **fullest protective effect as an integrated whole**.
   - It is **not** **maximal restriction** or **abstract strictness** in isolation.
 - **Stricter clearly adopted baseline:** Where **edition identifiers or custody records** for incorporated artifacts are missing, contradictory, or materially unreliable:
-  - the **stricter clearly adopted baseline** governs until validity is restored under **Chapters Eleven and Thirteen**;
-  - **Stricter clearly adopted baseline** means the **adoption-traceable** incorporated edition or **baseline** the adoption chain **clearly supports** when records are unreliable (custody discipline and **anti-drift** under Chapter Sixteen);
+  - the **stricter clearly adopted baseline** governs until validity is restored under **Chapters Twelve and Thirteen**;
+  - **Stricter clearly adopted baseline** means the **adoption-traceable** incorporated edition or **baseline** the adoption chain **clearly supports** when records are unreliable (custody discipline and **anti-drift** under Chapter Seventeen);
   - this is **not** substantive constitutional ambiguity resolution by preference for **abstract strictness**.
 - **Cross-file stricter-wins:** Where two or more adopted implementation files set different standards for the same meaningfully scoped risk, the stricter clearly adopted rule controls, consistent with **Strictest applicable** and **Stricter clearly adopted baseline** above.
   - Source-layer status remains under the [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack).
-  - Custody, editions, and adoption framing remain under **[Chapter Sixteen](core_16_incorporation.md#chapter-sixteen-incorporation-bridge)**.
+  - Custody, editions, and adoption framing remain under **[Chapter Seventeen](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)**.
   - The same rule applies when a cited profile and a cited implementation label seem to conflict for that risk.
 
 <a id="844-combined-satisfaction"></a>
@@ -796,7 +796,7 @@ This subsection's combined-satisfaction rule is about **more than one how-to fil
 - the rule for a **single** operational cluster in incorporated joint-structure text, where doing only part of that cluster does not count as compliance — see **[CJS-1.14](corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*Operational clusters*); or
 - the Chapter Five rule that **Dependent cluster** definitions must be met together — see **[§2.1 Joint invocation and satisfaction](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
 
-**When this subsection applies.** These rules apply within valid adoption and incorporation scope under **[Chapter Sixteen](core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** in either of these cases:
+**When this subsection applies.** These rules apply within valid adoption and incorporation scope under **[Chapter Seventeen](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)** in either of these cases:
 
 1. **One situation, more than one file:** The facts require applying more than one incorporated implementation file — for example systems, institutions, forums, or joint-structure text. Which files apply is decided by the adoption scope and the topic routing those files provide for the facts, not by choosing only the file that is easiest to satisfy.
 2. **Adoption brings the joint-structure set into force:** The adopting instrument applies designated joint-structure implementation text (the **CJS** folder and any other joint-structure files listed in the adoption chain) to the adopter.
@@ -808,7 +808,7 @@ This subsection's combined-satisfaction rule is about **more than one how-to fil
   - **CJS** first (including that layer's domain-specific joint rules and topic ownership via its routing);
   - then **CS** (system classification and stewardship scale);
   - then **CI** (institutional governance and assurance);
-  - then **CF** (Chapter Eleven forum-family doctrine);
+  - then **CF** (Chapter Twelve forum-family doctrine);
 - within that order, read only what the topic routing for the facts requires;
 - editors and auditors use **[CJS-0.1](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)** for the authoritative row table;
 - combined satisfaction and cross-file stricter-wins still apply as stated in this subsection and **§8.4.3**.

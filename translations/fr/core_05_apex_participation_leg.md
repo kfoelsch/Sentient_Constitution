@@ -109,7 +109,7 @@ Les **termes indépendants** vivent sous [Participation : termes indépendants](
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - En aval : famille de mesure Participation — rollup en lien seul ; les paliers par terme vivent dans les définitions feuille — voir [Équité de fond](../../core_05_band_participation.md#substantive-fairness-constitutional), [Recours à des substituts de caractéristiques protégées et impact disparate](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Accessibilité](../../core_05_band_participation.md#accessibility-constitutional), [Agence éducative](../../core_05_band_participation.md#educational-agency), [Agence significative](../../core_05_band_participation.md#meaningful-agency), et le groupe [Vie privée (informationnelle)](../../core_05_band_continuity.md#privacy-informational-cluster) dans la bande Continuité.
-- Lire avec : Chapitre six, [Chapitre sept](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification), ou instruments incorporés — les exigences contraignantes de non-discrimination, d’aménagement, d’éducation ou de vie privée naissent lorsque ces instruments les exigent de façon expresse.
+- Lire avec : Chapitre six, [Chapitre sept](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification), ou instruments incorporés — les exigences contraignantes de non-discrimination, d’aménagement, d’éducation ou de vie privée naissent lorsque ces instruments les exigent de façon expresse.
 
 </details>
 

@@ -5,7 +5,7 @@
 **Status:** current  
 **This packet is not binding.** It does not add, remove, or narrow duties. Illustrative facts only.
 
-Related pipeline illustration (not this sitting): [Vignette 1 — Child neglect / care-duty failure](../../../core_08-11_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a). This packet is different: Nia is an adult whose remembering and stamina have changed; no child is in the scene; the live fight is help taking over decisions.
+Related pipeline illustration (not this sitting): [Vignette 1 — Child neglect / care-duty failure](../../../core_09-12_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a). This packet is different: Nia is an adult whose remembering and stamina have changed; no child is in the scene; the live fight is help taking over decisions.
 
 ## Scale of the situation (not scored)
 

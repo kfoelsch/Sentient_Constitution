@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Renumber Chapter Eight §4 → §3; §4.0 → Chapter One §8.1; Chapter One §8.1 → Chapter One §8.2; Chapter One §8.2 → §3.3; §3.3 → §3.4."""
+"""Renumber Chapter Nine §4 → §3; §4.0 → Chapter One §8.1; Chapter One §8.1 → Chapter One §8.2; Chapter One §8.2 → §3.3; §3.3 → §3.4."""
 
 from __future__ import annotations
 
@@ -7,7 +7,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-CH06 = ROOT / "core_08_standing_assessment.md"
+CH06 = ROOT / "core_09_standing_assessment.md"
 
 ANCHOR_REMAP = {
     "4-primary-axis-categories-slot-grammar-and-defaults": "3-primary-axis-categories-slot-grammar-and-defaults",
@@ -32,26 +32,26 @@ HEADING_REMAP = [
 ]
 
 CROSS_FILE = [
-    ("Chapter Eight §4.0", "Chapter Eight Chapter One §8.1"),
-    ("Chapter Eight Chapter One §8.1", "Chapter Eight Chapter One §8.2"),
-    ("Chapter Eight Chapter One §8.2", "Chapter Eight §3.3"),
-    ("Chapter Eight §3.3", "Chapter Eight §3.4"),
-    ("Chapter Eight — §4.0", "Chapter Eight — Chapter One §8.1"),
-    ("Chapter Eight — Chapter One §8.1", "Chapter Eight — Chapter One §8.2"),
-    ("Chapter Eight — Chapter One §8.2", "Chapter Eight — §3.3"),
-    ("Chapter Eight — §3.3", "Chapter Eight — §3.4"),
-    ("Chapter Eight — section 4.2", "Chapter Eight — section 3.3"),
-    ("Chapter Eight — section 4.3", "Chapter Eight — section 3.4"),
-    ("Chapter Eight section 4.3", "Chapter Eight section 3.4"),
-    ("Chapter Eight section 4.2", "Chapter Eight section 3.3"),
-    ("Chapter Eight section 4.1", "Chapter Eight section 3.2"),
-    ("Chapter Eight section 4.0", "Chapter Eight section 3.1"),
+    ("Chapter Nine §4.0", "Chapter Nine Chapter One §8.1"),
+    ("Chapter Nine Chapter One §8.1", "Chapter Nine Chapter One §8.2"),
+    ("Chapter Nine Chapter One §8.2", "Chapter Nine §3.3"),
+    ("Chapter Nine §3.3", "Chapter Nine §3.4"),
+    ("Chapter Nine — §4.0", "Chapter Nine — Chapter One §8.1"),
+    ("Chapter Nine — Chapter One §8.1", "Chapter Nine — Chapter One §8.2"),
+    ("Chapter Nine — Chapter One §8.2", "Chapter Nine — §3.3"),
+    ("Chapter Nine — §3.3", "Chapter Nine — §3.4"),
+    ("Chapter Nine — section 4.2", "Chapter Nine — section 3.3"),
+    ("Chapter Nine — section 4.3", "Chapter Nine — section 3.4"),
+    ("Chapter Nine section 4.3", "Chapter Nine section 3.4"),
+    ("Chapter Nine section 4.2", "Chapter Nine section 3.3"),
+    ("Chapter Nine section 4.1", "Chapter Nine section 3.2"),
+    ("Chapter Nine section 4.0", "Chapter Nine section 3.1"),
     ("sections 4.2** and **4.3", "sections 3.3** and **3.4"),
     ("sections **4.2** and **4.3", "sections **3.3** and **3.4"),
-    ("under Chapter Eight section 4.3", "under Chapter Eight section 3.4"),
+    ("under Chapter Nine section 4.3", "under Chapter Nine section 3.4"),
     (
-        "The Violation Axis remains a separate slot display scale under Chapter Eight section 4.3",
-        "The Violation Axis remains a separate slot display scale under Chapter Eight section 3.4",
+        "The Violation Axis remains a separate slot display scale under Chapter Nine section 4.3",
+        "The Violation Axis remains a separate slot display scale under Chapter Nine section 3.4",
     ),
     (
         "V(s)` weights are ordinal analytics for verified constitutional loss under core **Chapter One §8.1**.",
@@ -59,45 +59,45 @@ CROSS_FILE = [
     ),
     ("do not replace **section 4.3** severity typing", "do not replace **section 3.4** severity typing"),
     ("(*sections **1–4**, including", "(*sections **1–3**, including"),
-    ("Chapter Eight **Chapter One §8.1**", "Chapter Eight **Chapter One §8.2**"),
-    ("Chapter Eight **§11.3**", "Chapter Eight **§3.4**"),
-    ("Chapter Eight **§Chapter One §8.2–4.3**", "Chapter Eight **§§3.3–3.4**"),
-    ("Chapter Eight **§3.5** and **§11.3**", "Chapter Eight **§14.3.2** and **§3.4**"),
+    ("Chapter Nine **Chapter One §8.1**", "Chapter Nine **Chapter One §8.2**"),
+    ("Chapter Nine **§11.3**", "Chapter Nine **§3.4**"),
+    ("Chapter Nine **§Chapter One §8.2–4.3**", "Chapter Nine **§§3.3–3.4**"),
+    ("Chapter Nine **§3.5** and **§11.3**", "Chapter Nine **§14.3.2** and **§3.4**"),
     (
-        "Chapter Eight **§3.5** and violation classification rules are in Chapter Eight **§11.3**",
-        "Chapter Eight **§14.3.2** and violation classification rules are in Chapter Eight **§3.4**",
+        "Chapter Nine **§3.5** and violation classification rules are in Chapter Nine **§11.3**",
+        "Chapter Nine **§14.3.2** and violation classification rules are in Chapter Nine **§3.4**",
     ),
     (
-        "canonical Axis II classification rules are in Chapter Eight **§11.3** and **§4**",
-        "canonical Axis II classification rules are in Chapter Eight **§3.4** and [Chapter Nine **§4**](core_09_standing_integration.md#8-enforcement-realism-anchors)",
+        "canonical Axis II classification rules are in Chapter Nine **§11.3** and **§4**",
+        "canonical Axis II classification rules are in Chapter Nine **§3.4** and [Chapter Ten **§4**](core_10_standing_integration.md#8-enforcement-realism-anchors)",
     ),
     (
-        "[Chapter One §8.1](core_08_standing_assessment.md#42-primary-category-defaults-and-lequ-slot-baseline)",
-        "[§11.3](core_08_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline)",
+        "[Chapter One §8.1](core_09_standing_assessment.md#42-primary-category-defaults-and-lequ-slot-baseline)",
+        "[§11.3](core_09_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline)",
     ),
     (
-        "[§11.3](core_08_standing_assessment.md#43-violation-axis-rules-violation-nature-adverse-findings-and-severity)",
-        "[§3.4](core_08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)",
+        "[§11.3](core_09_standing_assessment.md#43-violation-axis-rules-violation-nature-adverse-findings-and-severity)",
+        "[§3.4](core_09_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)",
     ),
     (
-        "[§3.3, Formal Non-Compliance](core_08_standing_assessment.md#41-formal-non-compliance)",
-        "[§3.4, Formal Non-Compliance](core_08_standing_assessment.md#41-formal-non-compliance)",
+        "[§3.3, Formal Non-Compliance](core_09_standing_assessment.md#41-formal-non-compliance)",
+        "[§3.4, Formal Non-Compliance](core_09_standing_assessment.md#41-formal-non-compliance)",
     ),
     (
-        "[§3.3, Duty-Based or Negligent-Harm Violation](core_08_standing_assessment.md#44-duty-based-or-negligent-harm-violation)",
-        "[§3.4, Duty-Based or Negligent-Harm Violation](core_08_standing_assessment.md#44-duty-based-or-negligent-harm-violation)",
+        "[§3.3, Duty-Based or Negligent-Harm Violation](core_09_standing_assessment.md#44-duty-based-or-negligent-harm-violation)",
+        "[§3.4, Duty-Based or Negligent-Harm Violation](core_09_standing_assessment.md#44-duty-based-or-negligent-harm-violation)",
     ),
     (
         "verified violation assessment from **section 4.2** into **standing locks**",
-        "verified violation assessment from **Chapter Eight section 3.3** into **standing locks**",
+        "verified violation assessment from **Chapter Nine section 3.3** into **standing locks**",
     ),
     (
-        "It supplements the primary Violation Axis ladder in **[§11.3](core_08_standing_assessment.md#43-violation-axis-rules-violation-nature-adverse-findings-and-severity)**. It does not replace the **section 4.3** severity ladder, **section 4.2**,",
-        "It supplements the primary Violation Axis ladder in **[§3.4](core_08_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)**. It does not replace the **Chapter Eight section 3.4** severity ladder, **Chapter Eight section 3.3**,",
+        "It supplements the primary Violation Axis ladder in **[§11.3](core_09_standing_assessment.md#43-violation-axis-rules-violation-nature-adverse-findings-and-severity)**. It does not replace the **section 4.3** severity ladder, **section 4.2**,",
+        "It supplements the primary Violation Axis ladder in **[§3.4](core_09_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)**. It does not replace the **Chapter Nine section 3.4** severity ladder, **Chapter Nine section 3.3**,",
     ),
     (
-        "[**section 3**](core_08_standing_assessment.md#42-primary-category-defaults-and-lequ-slot-baseline)",
-        "[**section 3.3**](core_08_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline)",
+        "[**section 3**](core_09_standing_assessment.md#42-primary-category-defaults-and-lequ-slot-baseline)",
+        "[**section 3.3**](core_09_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline)",
     ),
 ]
 
@@ -133,12 +133,12 @@ CH06_PROSE = [
 ]
 
 CH7_GUARDS = [
-    ("Chapter Nine Chapter One §8.1", "@@CH7-41@@"),
-    ("Chapter Nine Chapter One §8.2", "@@CH7-42@@"),
-    ("Chapter Nine §3.3", "@@CH7-43@@"),
-    ("Chapter Nine section 4.3", "@@CH7-S43@@"),
-    ("Chapter Nine section 4.2", "@@CH7-S42@@"),
-    ("Chapter Nine section 4", "@@CH7-S4@@"),
+    ("Chapter Ten Chapter One §8.1", "@@CH7-41@@"),
+    ("Chapter Ten Chapter One §8.2", "@@CH7-42@@"),
+    ("Chapter Ten §3.3", "@@CH7-43@@"),
+    ("Chapter Ten section 4.3", "@@CH7-S43@@"),
+    ("Chapter Ten section 4.2", "@@CH7-S42@@"),
+    ("Chapter Ten section 4", "@@CH7-S4@@"),
     ("§Chapter One §8.1–4.3 — mechanics", "@@CH7-SS413@@"),
 ]
 
@@ -195,7 +195,7 @@ def main() -> None:
         if update_file(path):
             changed.append(str(path.relative_to(ROOT)))
 
-    print(f"Renumbered Chapter Eight §4→§3 in {len(changed)} file(s).")
+    print(f"Renumbered Chapter Nine §4→§3 in {len(changed)} file(s).")
     for name in sorted(changed):
         print(f"  - {name}")
 

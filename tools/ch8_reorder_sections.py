@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Reorder Chapter Seven sections and renumber (drop 6A–6E letter suffixes).
+"""Reorder Chapter Eight sections and renumber (drop 6A–6E letter suffixes).
 
 New order:
   1 Purpose | 2 System Class | 3 Whole-System | 4 Data | 5 Ecological |
@@ -14,7 +14,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-CH7 = ROOT / "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation"
+CH8 = ROOT / "core_08_a_system_alignment_certification_evaluation.md"
 
 # Section heading regex -> logical key (physical reorder uses these keys)
 SECTION_HEADING = re.compile(
@@ -144,7 +144,7 @@ SKIP_GLOBS = ("archive/", "evidence/")
 def split_sections(text: str) -> tuple[str, dict[str, str]]:
     matches = list(SECTION_HEADING.finditer(text))
     if not matches:
-        raise RuntimeError("No Chapter Seven sections found")
+        raise RuntimeError("No Chapter Eight sections found")
     preamble = text[: matches[0].start()]
     sections: dict[str, str] = {}
     for i, m in enumerate(matches):
@@ -211,11 +211,11 @@ def build_section_ref_table() -> list[tuple[str, str]]:
         pairs.append((old, new))
 
     # Letter sections (before bare numbers)
-    add("Chapter Seven §6E", "Chapter Seven §10")
-    add("Chapter Seven §6D", "Chapter Seven §9")
-    add("Chapter Seven §6C", "Chapter Seven §8")
-    add("Chapter Seven §6B", "Chapter Seven §7")
-    add("Chapter Seven §6A", "Chapter Seven §6")
+    add("Chapter Eight §6E", "Chapter Eight §10")
+    add("Chapter Eight §6D", "Chapter Eight §9")
+    add("Chapter Eight §6C", "Chapter Eight §8")
+    add("Chapter Eight §6B", "Chapter Eight §7")
+    add("Chapter Eight §6A", "Chapter Eight §6")
     add("[§6E]", "[§10]")
     add("[§6D]", "[§9]")
     add("[§6C]", "[§8]")
@@ -234,19 +234,19 @@ def build_section_ref_table() -> list[tuple[str, str]]:
 
     # Subsections — whole-system 2.x -> 3.x
     for i in range(7, 0, -1):
-        add(f"Chapter Seven §2.{i}", f"Chapter Seven §3.{i}")
+        add(f"Chapter Eight §2.{i}", f"Chapter Eight §3.{i}")
         add(f"**§2.{i}**", f"**§3.{i}**")
         add(f"[§2.{i}]", f"[§3.{i}]")
 
     # Record 3.x -> 11.x (after 2.x to avoid collision)
     for i in range(3, 0, -1):
-        add(f"Chapter Seven §3.{i}", f"Chapter Seven §11.{i}")
+        add(f"Chapter Eight §3.{i}", f"Chapter Eight §11.{i}")
         add(f"**§3.{i}**", f"**§11.{i}**")
         add(f"[§3.{i}]", f"[§11.{i}]")
 
     # Supervisory 8.x -> 14.x
     for i in range(3, 0, -1):
-        add(f"Chapter Seven §8.{i}", f"Chapter Seven §14.{i}")
+        add(f"Chapter Eight §8.{i}", f"Chapter Eight §14.{i}")
         add(f"**§8.{i}**", f"**§14.{i}**")
         add(f"[§8.{i}]", f"[§14.{i}]")
 
@@ -264,53 +264,53 @@ def build_section_ref_table() -> list[tuple[str, str]]:
         ("2", "⟦3⟧"),
     ]
     for old, ph in section_map:
-        add(f"Chapter Seven §{old} ", f"Chapter Seven {ph} ")
-        add(f"Chapter Seven §{old}.", f"Chapter Seven {ph}.")
-        add(f"Chapter Seven §{old},", f"Chapter Seven {ph},")
-        add(f"Chapter Seven §{old})", f"Chapter Seven {ph})")
-        add(f"Chapter Seven §{old}—", f"Chapter Seven {ph}—")
-        add(f"Chapter Seven §{old}\n", f"Chapter Seven {ph}\n")
-        add(f"Chapter Seven §{old}", f"Chapter Seven {ph}")
+        add(f"Chapter Eight §{old} ", f"Chapter Eight {ph} ")
+        add(f"Chapter Eight §{old}.", f"Chapter Eight {ph}.")
+        add(f"Chapter Eight §{old},", f"Chapter Eight {ph},")
+        add(f"Chapter Eight §{old})", f"Chapter Eight {ph})")
+        add(f"Chapter Eight §{old}—", f"Chapter Eight {ph}—")
+        add(f"Chapter Eight §{old}\n", f"Chapter Eight {ph}\n")
+        add(f"Chapter Eight §{old}", f"Chapter Eight {ph}")
         add(f"[§{old}]", f"[{ph}]")
         add(f"**§{old}**", f"**{ph}**")
         add(f"under **§{old}**", f"under **{ph}**")
         add(f"through [§{old}]", f"through [{ph}]")
 
-    # Named section titles in Chapter Seven §N Title form
+    # Named section titles in Chapter Eight §N Title form
     title_map = [
-        ("Chapter Seven §2 Whole-System Certification Evaluation", "Chapter Seven §3 Whole-System Certification Evaluation"),
-        ("Chapter Seven §4 System Class Evaluation", "Chapter Seven §2 System Class Evaluation"),
-        ("Chapter Seven §3 Certification Record", "Chapter Seven §11 System Certification Record"),
-        ("Chapter Seven §5 Data Types and Handling Evaluation", "Chapter Seven §4 Data Types and Handling Evaluation"),
-        ("Chapter Seven §6 Ecological Footprint Evaluation", "Chapter Seven §5 Ecological Footprint Evaluation"),
+        ("Chapter Eight §2 Whole-System Certification Evaluation", "Chapter Eight §3 Whole-System Certification Evaluation"),
+        ("Chapter Eight §4 System Class Evaluation", "Chapter Eight §2 System Class Evaluation"),
+        ("Chapter Eight §3 Certification Record", "Chapter Eight §11 System Certification Record"),
+        ("Chapter Eight §5 Data Types and Handling Evaluation", "Chapter Eight §4 Data Types and Handling Evaluation"),
+        ("Chapter Eight §6 Ecological Footprint Evaluation", "Chapter Eight §5 Ecological Footprint Evaluation"),
         (
-            "Chapter Seven §6A Proportionate Cross-System Support Evaluation",
-            "Chapter Seven §6 Proportionate Cross-System Support Evaluation",
+            "Chapter Eight §6A Proportionate Cross-System Support Evaluation",
+            "Chapter Eight §6 Proportionate Cross-System Support Evaluation",
         ),
-        ("Chapter Seven §6B Nondiscrimination Evaluation", "Chapter Seven §7 Nondiscrimination Evaluation"),
-        ("Chapter Seven §6C Accessibility Evaluation", "Chapter Seven §8 Accessibility Evaluation"),
+        ("Chapter Eight §6B Nondiscrimination Evaluation", "Chapter Eight §7 Nondiscrimination Evaluation"),
+        ("Chapter Eight §6C Accessibility Evaluation", "Chapter Eight §8 Accessibility Evaluation"),
         (
-            "Chapter Seven §6D Educational Capability and Learning-System Integrity Evaluation",
-            "Chapter Seven §9 Educational Capability and Learning-System Integrity Evaluation",
-        ),
-        (
-            "Chapter Seven §6E Trustworthiness and System-Reliance Integrity Evaluation",
-            "Chapter Seven §10 Trustworthiness and System-Reliance Integrity Evaluation",
+            "Chapter Eight §6D Educational Capability and Learning-System Integrity Evaluation",
+            "Chapter Eight §9 Educational Capability and Learning-System Integrity Evaluation",
         ),
         (
-            "Chapter Seven §7 Transparency, Auditability, and Contestability",
-            "Chapter Seven §12 Transparency, Auditability, and Contestability",
+            "Chapter Eight §6E Trustworthiness and System-Reliance Integrity Evaluation",
+            "Chapter Eight §10 Trustworthiness and System-Reliance Integrity Evaluation",
         ),
         (
-            "Chapter Seven §9 Forum Supervision and Component Roles",
-            "Chapter Seven §13 Forum Supervision and Component Roles",
+            "Chapter Eight §7 Transparency, Auditability, and Contestability",
+            "Chapter Eight §12 Transparency, Auditability, and Contestability",
         ),
         (
-            "Chapter Seven §8 Supervisory Sequence and Contestability Chain",
-            "Chapter Seven §14 Supervisory Sequence and Contestability Chain",
+            "Chapter Eight §9 Forum Supervision and Component Roles",
+            "Chapter Eight §13 Forum Supervision and Component Roles",
         ),
-        ("Chapter Seven §10 Relationship to Standing", "Chapter Seven §15 Relationship to Standing"),
-        ("Chapter Seven §11 Reopening", "Chapter Seven §16 Reopening"),
+        (
+            "Chapter Eight §8 Supervisory Sequence and Contestability Chain",
+            "Chapter Eight §14 Supervisory Sequence and Contestability Chain",
+        ),
+        ("Chapter Eight §10 Relationship to Standing", "Chapter Eight §15 Relationship to Standing"),
+        ("Chapter Eight §11 Reopening", "Chapter Eight §16 Reopening"),
     ]
     for old, new in title_map:
         add(old, new)
@@ -340,8 +340,8 @@ def build_link_ref_table() -> list[tuple[str, str]]:
     for old, new in ANCHOR_PRIMARY.items():
         pairs.append(
             (
-                f"core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation#{old}",
-                f"core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation#{new}",
+                f"core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation#{old}",
+                f"core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation#{new}",
             )
         )
     # Legacy §5B style links still pointing at old slugs
@@ -378,8 +378,8 @@ def build_link_ref_table() -> list[tuple[str, str]]:
     for old, new in legacy:
         pairs.append(
             (
-                f"core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation{old}",
-                f"core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation{new}",
+                f"core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation{old}",
+                f"core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation{new}",
             )
         )
     pairs.sort(key=lambda x: len(x[0]), reverse=True)
@@ -387,12 +387,12 @@ def build_link_ref_table() -> list[tuple[str, str]]:
 
 
 INTERNAL_LINK_REMAP = [
-    # Built dynamically after we know anchors — see remap_ch7_internal_links
+    # Built dynamically after we know anchors — see remap_ch8_internal_links
 ]
 
 
-def remap_ch7_internal_links(text: str) -> str:
-    """Remap [§N](#anchor) inside ch7."""
+def remap_ch8_internal_links(text: str) -> str:
+    """Remap [§N](#anchor) inside ch8."""
     protect = {
         "[§1.1]": "⟦P11⟧",
         "[§1](#1-purpose-and-role)": "⟦P1⟧",
@@ -514,8 +514,8 @@ def iter_files() -> list[Path]:
     return sorted(set(files))
 
 
-def rebuild_ch7() -> str:
-    raw = CH7.read_text(encoding="utf-8")
+def rebuild_ch8() -> str:
+    raw = CH8.read_text(encoding="utf-8")
     preamble, sections = split_sections(raw)
     parts = [preamble.rstrip(), ""]
     for key in NEW_ORDER:
@@ -524,7 +524,7 @@ def rebuild_ch7() -> str:
         parts.append("")
     text = "\n".join(parts).rstrip() + "\n"
     text = update_primary_anchors(text)
-    text = remap_ch7_internal_links(text)
+    text = remap_ch8_internal_links(text)
     # Corpus placement anti-relocation pointer
     text = text.replace(
         "**§10** states the standing bridge boundary explicitly.",
@@ -538,14 +538,14 @@ def main() -> None:
     link_pairs = build_link_ref_table()
     changed: list[str] = []
 
-    new_ch7 = rebuild_ch7()
-    old_ch7 = CH7.read_text(encoding="utf-8")
-    if new_ch7 != old_ch7:
-        CH7.write_text(new_ch7, encoding="utf-8")
-        changed.append(CH7.name)
+    new_ch8 = rebuild_ch8()
+    old_ch8 = CH8.read_text(encoding="utf-8")
+    if new_ch8 != old_ch8:
+        CH8.write_text(new_ch8, encoding="utf-8")
+        changed.append(CH8.name)
 
     for path in iter_files():
-        if path == CH7:
+        if path == CH8:
             continue
         old = path.read_text(encoding="utf-8")
         new = apply_pairs(old, link_pairs)

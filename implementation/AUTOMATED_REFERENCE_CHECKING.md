@@ -82,18 +82,18 @@ Load-bearing count: 17 targets (plus their tests). If only those pass, citations
 | `ch0-nested-list-candidates` through `ch4-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 0..4` | CH0-NEST-CANDIDATE through CH4-NEST-CANDIDATE | Ranked Preamble / Chapters One–Four packed-list rewrite candidates; advisory; `--strict` to block |
 | `ch5-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py` | CH5-NEST-CANDIDATE | Ranked packed-list rewrite candidates; advisory; `--strict` to block |
 | `ch6-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 6` | CH6-NEST-CANDIDATE | Ranked Chapter Six packed-list rewrite candidates; advisory; `--strict` to block |
-| `ch7-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 7` | CH7-NEST-CANDIDATE | Ranked Chapter Seven packed-list rewrite candidates; advisory; `--strict` to block |
-| `ch8-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 8` | CH8-NEST-CANDIDATE | Ranked Chapter Eight packed-list rewrite candidates; advisory; `--strict` to block |
-| `ch9-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 9` | CH9-NEST-CANDIDATE | Ranked Chapter Nine packed-list rewrite candidates; advisory; `--strict` to block |
-| `ch10-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 10` | CH10-NEST-CANDIDATE | Ranked Chapter Ten packed-list rewrite candidates; advisory; `--strict` to block |
-| `ch11-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 11` | CH11-NEST-CANDIDATE | Ranked Chapter Eleven packed-list rewrite candidates; advisory; `--strict` to block |
-| `ch12-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 12` | CH12-NEST-CANDIDATE | Ranked Chapter Twelve packed-list rewrite candidates; advisory; `--strict` to block |
-| `ch13-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 13` | CH13-NEST-CANDIDATE | Ranked Chapter Thirteen packed-list rewrite candidates; advisory; `--strict` to block |
-| `ch14-nested-list-candidates` through `ch16-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 14..16` | CH14-NEST-CANDIDATE through CH16-NEST-CANDIDATE | Ranked Chapters Fourteen–Sixteen packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch7-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 8` | CH7-NEST-CANDIDATE | Ranked Chapter Eight packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch8-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 9` | CH8-NEST-CANDIDATE | Ranked Chapter Nine packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch9-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 10` | CH9-NEST-CANDIDATE | Ranked Chapter Ten packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch10-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 11` | CH10-NEST-CANDIDATE | Ranked Chapter Eleven packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch11-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 12` | CH11-NEST-CANDIDATE | Ranked Chapter Twelve packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch12-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 13` | CH12-NEST-CANDIDATE | Ranked Chapter Thirteen packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch13-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 14` | CH13-NEST-CANDIDATE | Ranked Chapter Fourteen packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch14-nested-list-candidates` through `ch16-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 15..16` | CH14-NEST-CANDIDATE through CH16-NEST-CANDIDATE | Ranked Chapters Fifteen–Sixteen packed-list rewrite candidates; advisory; `--strict` to block |
 | `subarticle-gloss-audit` | `tools/subarticle_gloss_audit.py` | GLOSS-SUBARTICLE | Chapter Six `*In plain terms:*` on `#### Article` |
 | `readability-audit` | `tools/readability_audit.py` | — | `make regression-full`; optional `--with-subarticle-gloss` |
 | `owner-discipline-audit` | `tools/owner_discipline_audit.py` | OWNER-SINGLE-HOME | Heuristic O/M/A/C outside Ch5; use `--strict` to block |
-| `ch4-ch7-pointer-audit` | `tools/ch4_ch7_pointer_audit.py` | CH4-CH7-POINTER | Ch7 must cite Ch2–4 for verification substrate; use `--strict` to block |
+| `ch4-ch8-pointer-audit` | `tools/ch4_ch8_pointer_audit.py` | CH4-CH7-POINTER | Ch7 must cite Ch2–4 for verification substrate; use `--strict` to block |
 | `ch5-cross-file-link-audit` | `tools/ch5_cross_file_link_audit.py` | — | Promote when clean |
 | `ci-cjs-relocation-audit` | `tools/ci_cjs_relocation_audit.py` | — | Relocation drift evidence |
 | `definition-appropriateness-audit` | `tools/definition_appropriateness_audit.py` | DEF-APPROPRIATENESS | Unified core vs CJS-3 placement; advisory by default; `--strict` to block |

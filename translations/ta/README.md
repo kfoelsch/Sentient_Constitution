@@ -5,7 +5,7 @@
 
 > கீழே உள்ள உள்ளடக்கம் **வாசிப்பவருக்கான வழிகாட்டல் மட்டும்**. இது பிணைக்கும் கடமைகளைச் சேர்க்கவோ, குறைக்கவோ, சுருக்கவோ செய்யாது.
 >
-> இந்தக் கோப்புறை ஒரு **வாசிப்பு-மொழி முன்னோடி**. இது **உணர்வுள்ளோர் அரசியலமைப்பு அல்ல**. இது எண்ணிடப்பட்ட `core_*` கோப்புகளை மாற்ற **முடியாது**. இது **அனுப்பும் பதிப்பு அல்ல**. இதைப் படிப்பது [இந்த அரசியலமைப்பை ஏற்றுக்கொள்வது](../../core_15_amendment_ratification.md#10-ratification-and-adoption) **அல்ல**. மொழிபெயர்ப்பும் ஆங்கில மூலமும் முரண்படுவதாகத் தோன்றினால், பிற்காலப் பதிப்பு வேறு சொல்லும் வரை ஆங்கில எண்ணிடப்பட்ட `core_*` வெல்லும். காண்க [Reader-language editions](../../doc_architecture.md#reader-language-editions).
+> இந்தக் கோப்புறை ஒரு **வாசிப்பு-மொழி முன்னோடி**. இது **உணர்வுள்ளோர் அரசியலமைப்பு அல்ல**. இது எண்ணிடப்பட்ட `core_*` கோப்புகளை மாற்ற **முடியாது**. இது **அனுப்பும் பதிப்பு அல்ல**. இதைப் படிப்பது [இந்த அரசியலமைப்பை ஏற்றுக்கொள்வது](../../core_16_amendment_ratification.md#10-ratification-and-adoption) **அல்ல**. மொழிபெயர்ப்பும் ஆங்கில மூலமும் முரண்படுவதாகத் தோன்றினால், பிற்காலப் பதிப்பு வேறு சொல்லும் வரை ஆங்கில எண்ணிடப்பட்ட `core_*` வெல்லும். காண்க [Reader-language editions](../../doc_architecture.md#reader-language-editions).
 >
 > **தொகுப்புப் பதிப்பில் பொருத்தப்பட்டது:** `SC-Corpus-2026.08.09` (நடைமுறை 2026-08-09; [README.md](../../README.md)). **முன்-வெளியீடு.**
 
@@ -37,13 +37,13 @@
 | [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md) | [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md) |
 | [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md) | [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md) |
 | [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md) | [core_05_apex_timeliness_leg.md](../../core_05_apex_timeliness_leg.md) |
-| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_07_system_alignment_certification.md) |
-| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md) |
-| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md) |
-| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_08_standing_assessment.md) |
-| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_09_standing_integration.md) |
-| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md) |
-| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_11_forum.md) |
+| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_08_system_alignment_certification.md) |
+| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md) |
+| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_09_standing_assessment.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_10_standing_integration.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md) |
+| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_12_forum.md) |
 
 முன்னோடியின் இணைப்புகள் இன்னும் மொழிபெயர்க்கப்படாத ஆங்கிலக் கோப்புகளையே சுட்டுகின்றன. HTML நங்கூரங்கள் (`id`) மூலத்திலிருந்து நகலெடுக்கப்பட்டவை, பகுதிக்குப் பகுதி ஒப்பீடு செய்ய.
 

@@ -6,15 +6,15 @@
 
 > 以下内容**仅为读者指引**。不增加、减少或收窄本文件或其他章节中有约束力的义务。
 >
-> 本文件是[英语第十二章](../../core_12_governance.md)的**读者语言试点**。**不是**感知者宪法的约束性部分。**不是**第二部宪法。**不是**发送版。**钉住** `SC-Corpus-2026.08.09`。若本译文与英语原文看似不一致，以编号文件 [`core_12_governance.md`](../../core_12_governance.md) 为准。阅读顺序与版本元数据保存在 [README.md](../../README.md)。方法与用语表：[translations/zh/README.md](README.md)。
+> 本文件是[英语第十二章](../../core_13_governance.md)的**读者语言试点**。**不是**感知者宪法的约束性部分。**不是**第二部宪法。**不是**发送版。**钉住** `SC-Corpus-2026.08.09`。若本译文与英语原文看似不一致，以编号文件 [`core_12_governance.md`](../../core_13_governance.md) 为准。阅读顺序与版本元数据保存在 [README.md](../../README.md)。方法与用语表：[translations/zh/README.md](README.md)。
 >
-> 本文件包含**第十二章**，即**宪法契约层** — 治理权威本身的宪法正当性与尽责管理要求，有别于已获授权系统中的**受影响方的系统参与**（[序言](core_00_preamble.md#chapter-00-preamble--foundational-requirements)）。修正与采纳有效性控制续见于[第十三至十五章](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)。章节编号与交叉引用匹配一体化文书。
+> 本文件包含**第十二章**，即**宪法契约层** — 治理权威本身的宪法正当性与尽责管理要求，有别于已获授权系统中的**受影响方的系统参与**（[序言](core_00_preamble.md#chapter-00-preamble--foundational-requirements)）。修正与采纳有效性控制续见于[第十三至十五章](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)。章节编号与交叉引用匹配一体化文书。
 
 
 >
 > **上一篇（仍为英语）：** [core_11_forum.md](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
 >
-> **下一篇（仍为英语）：** [core_13_non_regression.md](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)
+> **下一篇（仍为英语）：** [core_13_non_regression.md](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)
 > **阅读弧线：** §0 层边界 → §1 授权/正当性 → §1.1 机制族 → §1.2 资格/民主最低限度 → §1.3 召回类 → §2 廉正文化 → §3 尽责管理方向 → §4 投票/集体选择 → §5 获授权角色
 </details>
 
@@ -65,7 +65,7 @@
 
 - 上游：原则：[第一章 §5 自由](core_01_a_values_principles.md#5-freedom-bounded-agency)、[§9 尽责管理与分布式理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)、[5. 过程冲突解决](#6-process-conflict-resolution)；[第十二章 §0](#0-layer-boundary-for-this-chapter)。
 - 分节：[§1.1](#11-mechanism-families-auditability-and-pluralism)（*机制族、可审计性与多元*）；[§1.2](#12-eligibility-contested-selection-and-democratic-minimums)（*资格、可争议选拔与民主最低限度*）；[§1.3](#13-recall-class-pathways-and-mid-cycle-transfer-guardrails)（*召回类路径与周期中移交护栏*）。
-- 下游：[§§ 2–5](#2-ethical-culture-and-integrity-federated-scale)下的廉正、策略、投票与角色义务；[第十五章](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity)下的采纳与批准；第六章中的正当性、参与与可质疑性 — 尤其是 [Article XI-C：正当性门与反象征参与](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation)、[Article XVIII：轨迹与参与地位](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)，以及下方操作性要点中所键入的表达、集会与程序公平条款。
+- 下游：[§§ 2–5](#2-ethical-culture-and-integrity-federated-scale)下的廉正、策略、投票与角色义务；[第十五章](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity)下的采纳与批准；第六章中的正当性、参与与可质疑性 — 尤其是 [Article XI-C：正当性门与反象征参与](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation)、[Article XVIII：轨迹与参与地位](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)，以及下方操作性要点中所键入的表达、集会与程序公平条款。
 - 一并阅读：本节所具名的指定**文本库**与 **[corpus_systems.md](../../corpus_systems.md)** 挂钩（[corpus_systems.md](../../corpus_systems.md)、[corpus_institutions.md](../../corpus_institutions.md)）。
 
 </details>
@@ -303,7 +303,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[§1](#1-authorization-and-legitimacy-of-governing-authority)已记载正当性机制；[§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate)集体决定的尽责管理对齐。
-- 下游：分节 [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice)；[第十三至十五章](../../core_13_non_regression.md)中的采纳、最高效力与不回退文书，如本节末**交叉引用（第十二章）**注所概述。
+- 下游：分节 [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice)；[第十三至十五章](../../core_14_non_regression.md)中的采纳、最高效力与不回退文书，如本节末**交叉引用（第十二章）**注所概述。
 - 一并阅读：[第六章](core_06_rights_part_a.md#chapter-six-foundational-rights)，尤其是 [Article XI：受影响方的系统参与、代表与正当程序](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) 以及 §4 中所引用的相关分条。
 
 </details>
@@ -480,6 +480,6 @@
 
 **上一文件（仍为英语）：** [core_11_forum.md](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
 
-**下一文件（仍为英语）：** [core_13_non_regression.md](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)
+**下一文件（仍为英语）：** [core_13_non_regression.md](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)
 
-**有约束力的原文：** [core_12_governance.md](../../core_12_governance.md)
+**有约束力的原文：** [core_12_governance.md](../../core_13_governance.md)

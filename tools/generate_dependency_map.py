@@ -17,8 +17,14 @@ GROUPS = (
     ("Definition mechanics (Chapters Two–Four)", ("core_02", "core_04")),
     ("Chapter Five definition stack", ("core_05",)),
     ("Chapter Six Rights Floor", ("core_06",)),
-    ("Chapters Seven–Eleven pipelines", ("core_07", "core_08", "core_09", "core_10", "core_11")),
-    ("Chapters Twelve–Sixteen", ("core_12", "core_13", "core_16")),
+    (
+        "Chapter Seven independence and Chapters Eight–Twelve pipelines",
+        ("core_07", "core_08", "core_09", "core_10", "core_11", "core_12"),
+    ),
+    (
+        "Chapters Thirteen–Seventeen",
+        ("core_13", "core_14", "core_15", "core_16", "core_17"),
+    ),
 )
 
 

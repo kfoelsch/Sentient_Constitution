@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-09-17T21:56:03+00:00
+Generated: 2026-09-18T21:51:31+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **223/223** terms pass tier audit.
+Approved progress: **228/228** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -195,6 +195,7 @@ Approved progress: **223/223** terms pass tier audit.
 | Competency Clearance | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Constitutional Constraint | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
 | Constitutional Contract Layer | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
+| Contest Seat | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Contestability | approved | full | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Contingent Claim | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Contribution Nature | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
@@ -220,10 +221,12 @@ Approved progress: **223/223** terms pass tier audit.
 | Incentive Alignment — contingent claims, games of chance, and event-contract markets | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
 | Incentive Alignment — strategic, scaled, and adversarial evaluation | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
 | Incentive Alignment, Proxy Integrity, and Contingent Settlement | approved | primary_secondary | cluster_member | `core_05_band_integrative.md` | yes | pass |
+| Initiating Seat | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Innovation Reward and Anti-Enclosure | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
 | Insider Advantage | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Market Concentration Threshold | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Market Structure | approved | full | cluster_member | `core_05_band_accountability.md` | yes | pass |
+| Material Control Line | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Merits Determination | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Necessity | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Negligence | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
@@ -234,6 +237,7 @@ Approved progress: **223/223** terms pass tier audit.
 | Proportionality | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Protected Reporting (Whistleblowing) | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Protected Reporting Retaliation and Access Interference | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |
+| Record Seat | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Redress and Remediation | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Remedy System | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Restorative Justice | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
@@ -246,6 +250,7 @@ Approved progress: **223/223** terms pass tier audit.
 | Unified Incident | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Unified Incident Record | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Verified Inputs for Standing | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
+| Verify-or-Authorize Seat | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Violation Nature | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 
 ## 3.7 Timeliness

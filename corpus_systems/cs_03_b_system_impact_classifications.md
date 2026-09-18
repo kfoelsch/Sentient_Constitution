@@ -28,7 +28,7 @@
 - Read with: [Material Impact](../core_05_band_oversight.md#material-impact); [Materiality Determination](../core_05_band_oversight.md#materiality-determination); [Classification-Scaled Governance](../core_05_band_oversight.md#classification-scaled-governance).
 - Read with: [Dependency](../core_05_band_continuity.md#dependency); [Risk](../core_05_band_continuity.md#risk); [Cascading Failure](../core_05_band_continuity.md#cascading-failure); [Existential Risk](../core_05_band_continuity.md#existential-risk).
 - Read with: [Systemic](../core_05_band_continuity.md#systemic); [Systemic Materiality](../core_05_band_continuity.md#systemic-materiality); [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional).
-- Read with: [Chapter Eleven §6](../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*forum materiality tiers A/B/C/L/P — alphabet mirror only*).
+- Read with: [Chapter Twelve §6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*forum materiality tiers A/B/C/L/P — alphabet mirror only*).
 - Read with: [CS-4 §2](cs_04_critical_system_stewardship.md#cs-4-2-classification-as-steward) (*Classification as steward* — CSS follows impact class and Dep-A / Dep-B; Class C gated).
 
 </details>
@@ -53,7 +53,7 @@ Duty intensity is scaled by [Materiality Determination](../core_05_band_oversigh
 **CS-local “systemic” (classification posture):** In this Part B catalog, **“systemic”** denotes capacity for cross-domain [Cascading Failure](../core_05_band_continuity.md#cascading-failure) across dependents — not merely large-scale or widespread impact. That posture language is **distinct from** two other things:
 
 - Continuity [Systemic](../core_05_band_continuity.md#systemic) and [Systemic Materiality](../core_05_band_continuity.md#systemic-materiality), which carry interaction and amplification meanings;
-- the Chapter Eleven **Tier A/B/C/L/P** dispute clocks ([§6](../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)), which mirror the alphabet only.
+- the Chapter Twelve **Tier A/B/C/L/P** dispute clocks ([§6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)), which mirror the alphabet only.
 
 **Class posture strip (one-line differentials):**
 
@@ -324,7 +324,7 @@ A matching letter is never enough by itself. Record **both** the impact class an
 | **Class A** | Foundational survival infrastructure; continuous reliable operation is a prerequisite for wellbeing and societal continuity; failures are immediate existential or large-scale survival-risk events | Requirements maximal, non-negotiable, continuously enforced and validated; extreme reliability, resilience, and integrity under all reasonably foreseeable and adversarial conditions including degraded states; operator discretion minimal and limited to preserving survival, safety, and system integrity |
 | **Class B** | Infrastructure-dependency layer; failure propagates through dependency chains; may produce broad cascading destabilization, including indirect harm to survival-critical systems and large populations | Requirements strict, enforceable, continuously validated; high reliability, accountability, and integrity under normal and adversarial conditions; operator discretion limited where it could materially affect dependent populations or systems |
 | **Class C** | Large-scale coordination and meaningful dependency in an influential ecosystem layer; failures can disrupt significantly but stay non-critical to immediate survival | Requirements fully applicable and enforceable; proportional to impact and dependency; robust accountability, transparency, and fairness; operator flexibility allowed with accountability for external effects, shared use, and dependency formation |
-| **Class L** | Shared use and external effects beyond private scope, with limited scale, dependency, and constitutional burden | Requirements applicable and enforceable, scaled to limited impact and dependency; basic accountability, transparency, fairness, and correction; substantial operator flexibility; whole-system evaluation under **Chapter Seven §3** is **mandatory** before classification, governance, limitation, or compliance claims stand; evaluation depth, record form, and re-evaluation cadence remain **proportionate** to Class L |
+| **Class L** | Shared use and external effects beyond private scope, with limited scale, dependency, and constitutional burden | Requirements applicable and enforceable, scaled to limited impact and dependency; basic accountability, transparency, fairness, and correction; substantial operator flexibility; whole-system evaluation under **Chapter Eight §3** is **mandatory** before classification, governance, limitation, or compliance claims stand; evaluation depth, record form, and re-evaluation cadence remain **proportionate** to Class L |
 | **Class P** | Containment and private risk-bearing; substantial flexibility while conditions hold | Constitutional requirements function primarily as guidance for operators and voluntary participants rather than fully externalized compliance; broad operator discretion while Class P holds; no formal external governance, oversight, or compliance structures until effects extend beyond Class P; containment includes informational and behavioral dimensions so outputs, data, or effects do not indirectly propagate into broader systems |
 
 **Class L classification reminders:** **Local or regional scope alone** does not govern classification. **Non-local coordination**, **cross-domain dependencies**, or **persistent population-wide reliance** → evaluate as **Class C**.
@@ -428,7 +428,7 @@ See **§8.5** (*Reclassification edges*) — **Into A** row.
 
 *In plain terms: dependents cannot keep core function without this system, but survival is not immediately lost if it fails and substitution remains possible within survival-relevant time — still strict, continuously validated duties.*
 
-For classification purposes, **"systemic"** in this Class B catalog uses the [§8 CS-local “systemic”](#cs-local-systemic-classification-language) posture (cross-domain [Cascading Failure](../core_05_band_continuity.md#cascading-failure) capacity across dependents), not Continuity [Systemic](../core_05_band_continuity.md#systemic) / [Systemic Materiality](../core_05_band_continuity.md#systemic-materiality) alone and not Chapter Eleven forum tiers.
+For classification purposes, **"systemic"** in this Class B catalog uses the [§8 CS-local “systemic”](#cs-local-systemic-classification-language) posture (cross-domain [Cascading Failure](../core_05_band_continuity.md#cascading-failure) capacity across dependents), not Continuity [Systemic](../core_05_band_continuity.md#systemic) / [Systemic Materiality](../core_05_band_continuity.md#systemic-materiality) alone and not Chapter Twelve forum tiers.
 
 Comparative home: [§8.1](#81-eligibility-and-threshold-differentials)–[§8.6](#86-scaled-duties-intensity) (Class B columns).
 
@@ -574,7 +574,7 @@ See **§8.5** (*Reclassification edges*) — **L → C or higher** row.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#cs-3-2-classification-dimensions-and-real-world-application) (*Classification dimensions and real-world application*).
-- Topic routing (mandatory read-with): [Part A §3.5](cs_03_a_system_classification_machinery.md#35-reclassification-requirement) (*Reclassification requirement* — proportionate Chapter Seven §3 evaluation).
+- Topic routing (mandatory read-with): [Part A §3.5](cs_03_a_system_classification_machinery.md#35-reclassification-requirement) (*Reclassification requirement* — proportionate Chapter Eight §3 evaluation).
 - Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#cs-3-4-dependency-types-dep-a-p) (*Dependency types* — Limited dependency often coincides).
 - Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#cs-3-7-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
 - Read with: [CS-6](cs_06_comprehensibility_complexity_stewardship.md); **Article XX** (*Comprehensibility and Complexity Stewardship*); **CJS-3.8**–**CJS-3.10**, **CJS-3.16**, **CJS-3.19**, **CJS-3.21**.

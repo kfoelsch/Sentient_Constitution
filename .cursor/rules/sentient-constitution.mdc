@@ -46,14 +46,14 @@ Cross-file topics: `topic-route` (CJS-0.1 rows). Human map: [topic-router reader
 | Do not use | Use instead |
 |------------|-------------|
 | `court` / `courts` (institutional / adjudicative sense) | `forums`, `forum family` for routing, or `adjudicative body` where a generic label is still needed |
-| `tribunal` / `tribunals` (internal Chapter Nine / forum-governance sense) | `forum` / `forums`, `forum family`, `panel`, `bench`, or `adjudicative body` as context requires |
+| `tribunal` / `tribunals` (internal Chapter Ten / forum-governance sense) | `forum` / `forums`, `forum family`, `panel`, `bench`, or `adjudicative body` as context requires |
 | `Router read` (body-prose label for CJS-2.1 routing) | `- Topic routing (primary owner):` or `- Topic routing (mandatory read-with):` bullets inside the Trace `<details>` block |
-| `standing calculus` / `standing-calculus` (undefined jargon for Chapter Eight standing measurement) | `standing measurement` under Chapter Eight; `measure standing records` on the Contribution and Violation axes |
+| `standing calculus` / `standing-calculus` (undefined jargon for Chapter Nine standing measurement) | `standing measurement` under Chapter Nine; `measure standing records` on the Contribution and Violation axes |
 | `filed claim is not standing` (forum/standing boundary slogan) | `filed case is not standing by itself`; keep `claim` for *unadjudicated claims* and other established senses |
 | `drift` (bare; stewardship / governance / incentive / alignment sense) | `misalignment` or `constitutional misalignment` at principle layer |
-| `charter` (bare; Corpus / this Constitution sense) | distinguish: Chapter Five **Charter** (scope instrument); Chapter Twelve **treaty, compact, or charter**; verb **hold a charter over** — never bare *charter* for the Constitution itself |
+| `charter` (bare; Corpus / this Constitution sense) | distinguish: Chapter Five **Charter** (scope instrument); Chapter Thirteen **treaty, compact, or charter**; verb **hold a charter over** — never bare *charter* for the Constitution itself |
 | `Chapter Zero` / `Chapter 00` (prose label for `core_00_preamble.md`) | `Preamble` (e.g. **Preamble §2**, **Preamble measurement family**) |
-| `pathway` / `pathways` (bare; standing / privilege / lock / clearance object) | `named pathway`, `named privilege pathway`, or a Chapter Nine §4.2 type prefix (`trust pathway`, `role pathway`, `governance-voting pathway`, etc.) — never invent `clearance pathway` or `lock pathway` as house terms |
+| `pathway` / `pathways` (bare; standing / privilege / lock / clearance object) | `named pathway`, `named privilege pathway`, or a Chapter Ten §4.2 type prefix (`trust pathway`, `role pathway`, `governance-voting pathway`, etc.) — never invent `clearance pathway` or `lock pathway` as house terms |
 | `stakeholder governance` / `constitutional governance` / `governance layer mechanism` / `stakeholder-layer` (layer labels) | **Constitutional Contract Layer** (who may govern, by what **legitimacy mechanism**, on what durable terms) vs **Stakeholder System Participation** (voice inside already-authorized systems). Cite [Preamble §3.3](core_00_preamble.md#33-governance-layers). Do not invent `constitutional governance layer` or `stakeholder governance layer`. Keep `CCL` / `SSP` / `INT` as finding-profile codes only. |
 | `right` / `rights` (when referring to the generic constitutional baseline protections that Chapter Six establishes; not specific named rights such as "Right to Challenge, Review, and Redress", "right to privacy", or "challenge rights") | `Rights Floor` / `Rights Floors` |
 

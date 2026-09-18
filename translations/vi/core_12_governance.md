@@ -6,15 +6,15 @@
 
 > Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nó không thêm, bớt hay thu hẹp nghĩa vụ ràng buộc ở tệp này hay ở các chương khác.
 >
-> Tệp này là một **thử nghiệm ngôn ngữ đọc** của [Chương Mười Hai tiếng Anh](../../core_12_governance.md). **Không** phải phần ràng buộc của Hiến pháp Hữu tri. **Không** phải một hiến pháp thứ hai. **Không** phải một ấn bản phát hành. Nó được **ghim** vào `SC-Corpus-2026.08.09`. Nếu bản dịch này và nguyên bản tiếng Anh có vẻ lệch nhau, tệp đánh số [`core_12_governance.md`](../../core_12_governance.md) thắng. Thứ tự đọc và siêu dữ liệu ấn bản được giữ ở [README.md](../../README.md). Phương pháp và bảng thuật ngữ: [translations/vi/README.md](README.md).
+> Tệp này là một **thử nghiệm ngôn ngữ đọc** của [Chương Mười Hai tiếng Anh](../../core_13_governance.md). **Không** phải phần ràng buộc của Hiến pháp Hữu tri. **Không** phải một hiến pháp thứ hai. **Không** phải một ấn bản phát hành. Nó được **ghim** vào `SC-Corpus-2026.08.09`. Nếu bản dịch này và nguyên bản tiếng Anh có vẻ lệch nhau, tệp đánh số [`core_12_governance.md`](../../core_13_governance.md) thắng. Thứ tự đọc và siêu dữ liệu ấn bản được giữ ở [README.md](../../README.md). Phương pháp và bảng thuật ngữ: [translations/vi/README.md](README.md).
 >
-> Nó chứa **Chương Mười Hai**, **Tầng Hợp đồng Hiến pháp** — yêu cầu tính chính danh hiến pháp và quản trị có trách nhiệm đối với quyền quản trị, khác **Tham gia hệ thống của bên bị ảnh hưởng** trong hệ thống đã được ủy quyền ([Lời nói đầu](core_00_preamble.md#chapter-00-preamble--foundational-requirements)). Kiểm hiệu lực tu chính và tiếp nhận tiếp ở [Chương Mười Ba đến Mười Lăm](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity). Đánh số chương và tham chiếu chéo khớp văn kiện tích hợp.
+> Nó chứa **Chương Mười Hai**, **Tầng Hợp đồng Hiến pháp** — yêu cầu tính chính danh hiến pháp và quản trị có trách nhiệm đối với quyền quản trị, khác **Tham gia hệ thống của bên bị ảnh hưởng** trong hệ thống đã được ủy quyền ([Lời nói đầu](core_00_preamble.md#chapter-00-preamble--foundational-requirements)). Kiểm hiệu lực tu chính và tiếp nhận tiếp ở [Chương Mười Ba đến Mười Lăm](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity). Đánh số chương và tham chiếu chéo khớp văn kiện tích hợp.
 
 
 >
 > **Trước (vẫn tiếng Anh):** [core_11_forum.md](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
 >
-> **Tiếp theo (vẫn tiếng Anh):** [core_13_non_regression.md](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)
+> **Tiếp theo (vẫn tiếng Anh):** [core_13_non_regression.md](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)
 > **Cung đọc:** §0 ranh giới tầng → §1 ủy quyền/tính chính danh → §1.1 họ cơ chế → §1.2 điều kiện/sàn dân chủ → §1.3 lớp thu hồi → §2 văn hóa toàn vẹn → §3 hướng quản trị có trách nhiệm → §4 bỏ phiếu/lựa chọn tập thể → §5 vai trò được ủy
 </details>
 
@@ -65,7 +65,7 @@ Chương này nêu **Tầng Hợp đồng Hiến pháp**: yêu cầu tính chín
 
 - Thượng nguồn: Nguyên tắc: [Chương Một §5 Tự do](core_01_a_values_principles.md#5-freedom-bounded-agency), [§9 Quản trị có trách nhiệm và hiểu biết phân tán](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [5. Giải quyết xung đột quy trình](#6-process-conflict-resolution); [Chương Mười Hai §0](#0-layer-boundary-for-this-chapter).
 - Tiểu mục: [§1.1](#11-mechanism-families-auditability-and-pluralism) (*Họ cơ chế, khả năng kiểm toán, và chủ nghĩa đa nguyên*); [§1.2](#12-eligibility-contested-selection-and-democratic-minimums) (*Điều kiện, lựa chọn có tranh, và sàn dân chủ*); [§1.3](#13-recall-class-pathways-and-mid-cycle-transfer-guardrails) (*Đường dẫn lớp thu hồi và lan can chuyển giữa chu kỳ*).
-- Hạ nguồn: Nghĩa vụ toàn vẹn, chiến lược, bỏ phiếu, và vai trò dưới [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale); tiếp nhận và phê chuẩn dưới [Chương Mười Lăm](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity); tính chính danh, tham gia, và khả năng tranh biện ở Chương Sáu — đặc biệt [Điều XI-C: Cổng chính danh và chống tham gia tượng trưng](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation), [Điều XVIII: Quỹ đạo và trạng thái tham gia](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status), và các điều biểu đạt, tụ họp, và công bằng thủ tục được khóa ở các gạch vận hành dưới đây.
+- Hạ nguồn: Nghĩa vụ toàn vẹn, chiến lược, bỏ phiếu, và vai trò dưới [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale); tiếp nhận và phê chuẩn dưới [Chương Mười Lăm](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity); tính chính danh, tham gia, và khả năng tranh biện ở Chương Sáu — đặc biệt [Điều XI-C: Cổng chính danh và chống tham gia tượng trưng](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation), [Điều XVIII: Quỹ đạo và trạng thái tham gia](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status), và các điều biểu đạt, tụ họp, và công bằng thủ tục được khóa ở các gạch vận hành dưới đây.
 - Đọc cùng: Các móc **kho văn bản** và **[corpus_systems.md](../../corpus_systems.md)** được chỉ định nêu trong mục này ([corpus_systems.md](../../corpus_systems.md), [corpus_institutions.md](../../corpus_institutions.md)).
 
 </details>
@@ -303,7 +303,7 @@ Chỉ số ủy nhiệm (tài chính hay khác) có thể thông tin quyết đ�
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: cơ chế chính danh đã ghi [§1](#1-authorization-and-legitimacy-of-governing-authority); thẳng hàng quản trị có trách nhiệm cho quyết định tập thể [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
-- Hạ nguồn: Tiểu mục [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice); công cụ tiếp nhận, tối cao, và không thoái lui ở [Chương Mười Ba đến Mười Lăm](../../core_13_non_regression.md) như tóm ở chú **Tham chiếu chéo (Chương Mười Hai)** cuối mục này.
+- Hạ nguồn: Tiểu mục [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice); công cụ tiếp nhận, tối cao, và không thoái lui ở [Chương Mười Ba đến Mười Lăm](../../core_14_non_regression.md) như tóm ở chú **Tham chiếu chéo (Chương Mười Hai)** cuối mục này.
 - Đọc cùng: [Chương Sáu](core_06_rights_part_a.md#chapter-six-foundational-rights), đặc biệt [Điều XI: Tham gia hệ thống của bên bị ảnh hưởng, đại diện, và thủ tục đúng đắn](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) và các tiểu điều liên quan viện ở §4.
 
 </details>
@@ -480,6 +480,6 @@ Quản trị có trách nhiệm và vận hành có trọng đòi **hữu tri** 
 
 **Tệp trước (vẫn tiếng Anh):** [core_11_forum.md](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
 
-**Tệp tiếp theo (vẫn tiếng Anh):** [core_13_non_regression.md](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)
+**Tệp tiếp theo (vẫn tiếng Anh):** [core_13_non_regression.md](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)
 
-**Nguyên bản ràng buộc:** [core_12_governance.md](../../core_12_governance.md)
+**Nguyên bản ràng buộc:** [core_12_governance.md](../../core_13_governance.md)

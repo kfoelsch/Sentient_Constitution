@@ -46,7 +46,7 @@
 - بالائی: [باب یکم §6 عمل تنازعے کا حل](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)؛ [باب یکم §6.1.5 حقوق کے تصادم کا فیصلہ امتحان](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)۔
 - بالائی: [باب یکم §11 محرکات کی ہم آہنگی اور نظام کا قبضہ](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture)۔
 - بالائی: باب دوم تا چہارم؛ باب پنجم تعریفیں۔
-- زیریں: اس باب کے **حصے الف تا د**؛ [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional)؛ [باب ہفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)۔
+- زیریں: اس باب کے **حصے الف تا د**؛ [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional)؛ [باب ہفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)۔
 - زیریں: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)؛ [§1.2 تہہ کا دائرہ](#12-layer-scope)۔
 - ساتھ پڑھیں: [اختیار کا ڈھیر اور داخلی مراتب](core_05_band_integrative.md#owner-non-relocation) اور [تمہید — مثبت مالک رجسٹر](core_00_preamble.md#4-principles-definitions-and-rights)؛ [دفعہ XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*چیلنج، جائزہ اور تدارک کا حق*)۔
 - ساتھ پڑھیں: [دفعہ XV](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*آڈٹ، شفافیت اور آزاد تصدیق*)۔
@@ -87,13 +87,13 @@
 
 حقوق کی تہہ کاغذ پر نہیں، عمل میں کام کرنی چاہیے۔ **دفعہ III-A** (*بقا*) کے تحت بقا کی ضروری چیزیں — خوراک، پانی، پناہ، چلنے کا ماحول، اور ملتے جلتے اساس-بے نیاز اجزاء — سب سے صاف مثال ہیں۔ **شگفتگی** ان ضروری چیزوں تک حقیقی رسائی مانگتی ہے۔ **استمرار** وقت کے ساتھ قابلِ اعتماد، غیر رجعتی سپلائی مانگتی ہے، خاص طور پر جہاں مشترکہ نظام ترسیل قابو کریں۔
 
-[نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) اور [باب ہفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) جانچتے ہیں کہ مادی اثر والے نظام بڑے پیمانے پر پہچان یا انحصار سے پہلے ہم آہنگ ہیں یا نہیں۔ باب ہفتم سرٹیفیکیشن ریکارڈ کی چیلنج پذیری، متاثر فریق اور رسائی پذیری کا جائزہ، نگرانی کی ترتیب، اور نظام ہم آہنگی کے فیصلوں کے چیلنج نامزد راستے بھی دیتا ہے۔ **دفعہ XII** (*قابلِ اعتماد اور معتبر نظاموں کا حق*) چیلنج اور آڈٹ کے حقوق دیتی ہے۔ **دفعہ XVIII-B** (*چیلنج پذیری اور متناسب پابندی کی حدیں*) کیفیت کی حدوں کو بقا کے نازک رسائی کے گرد پچھلا دروازہ بننے سے روکتی ہے۔ ساتھ، [باب ہفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) اور [باب ہشتم تا یازدهم کی کیفیت اور فورم نگرانی کی زنجیر](../../README.md#standing-pipeline-and-forums) چیلنج پذیری، تصدیق شدہ درجہ بندی، فورم نگرانی، اور بروقت تدارک کے لیے **کلیدی عملی عمل کی زنجیریں** بناتے ہیں۔ وہ میکانزم باب ششم نافذ کرنے میں مدد دیتے ہیں۔ وہ یہاں بیان کردہ حقوق کی جگہ نہیں لیتے، انہیں تنگ نہیں کرتے، نہ منتقل کرتے ہیں۔
+[نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) اور [باب ہفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) جانچتے ہیں کہ مادی اثر والے نظام بڑے پیمانے پر پہچان یا انحصار سے پہلے ہم آہنگ ہیں یا نہیں۔ باب ہفتم سرٹیفیکیشن ریکارڈ کی چیلنج پذیری، متاثر فریق اور رسائی پذیری کا جائزہ، نگرانی کی ترتیب، اور نظام ہم آہنگی کے فیصلوں کے چیلنج نامزد راستے بھی دیتا ہے۔ **دفعہ XII** (*قابلِ اعتماد اور معتبر نظاموں کا حق*) چیلنج اور آڈٹ کے حقوق دیتی ہے۔ **دفعہ XVIII-B** (*چیلنج پذیری اور متناسب پابندی کی حدیں*) کیفیت کی حدوں کو بقا کے نازک رسائی کے گرد پچھلا دروازہ بننے سے روکتی ہے۔ ساتھ، [باب ہفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) اور [باب ہشتم تا یازدهم کی کیفیت اور فورم نگرانی کی زنجیر](../../README.md#standing-pipeline-and-forums) چیلنج پذیری، تصدیق شدہ درجہ بندی، فورم نگرانی، اور بروقت تدارک کے لیے **کلیدی عملی عمل کی زنجیریں** بناتے ہیں۔ وہ میکانزم باب ششم نافذ کرنے میں مدد دیتے ہیں۔ وہ یہاں بیان کردہ حقوق کی جگہ نہیں لیتے، انہیں تنگ نہیں کرتے، نہ منتقل کرتے ہیں۔
 
 **تفسیری مراکز۔** جب تک کوئی زیادہ مخصوص دفعہ الگ قاعدہ نہ دے، دہرائی جانے والی باتیں ان لنگر سے راستہ پاتی ہیں:
 
 **حقوق کی تہہ اور سپلائی**
 - **بقا کی ضروری چیزیں اور انہیں رسائی کے قابل رکھنا** — **دفعہ III-A** (*بقا*)؛ **دفعہ XVIII-B** (*چیلنج پذیری اور متناسب پابندی کی حدیں*) تاکہ کیفیت کی حدیں رسائی نہ روک سکیں؛ جہاں چیلنج یا آڈٹ لاگو ہو **دفعہ XII-B** (*چیلنج، جائزہ اور تدارک کا حق*) اور **دفعہ XV** (*آڈٹ، شفافیت اور آزاد تصدیق*) کے ساتھ پڑھیں
-- **نظام ہم آہنگی سرٹیفیکیشن** — [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional)؛ [باب ہفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)
+- **نظام ہم آہنگی سرٹیفیکیشن** — [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional)؛ [باب ہفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)
 
 **تصدیق اور تدارک**
 - **آڈٹ ریکارڈ اور آزاد تصدیق** — **دفعہ XV** (*آڈٹ، شفافیت اور آزاد تصدیق*) **باب دوم تا چہارم** کے ساتھ
@@ -101,7 +101,7 @@
 
 **تنازعات اور بروقت عمل**
 - **انصاف، واپسی، پابندی کی حدیں، ہنگامی حالات، اور حقوق کے تصادم** — **دفعہ XXIII** (*تنازعے کا حل، اضافہ، اور ہنگامی تناسب*)؛ [باب یکم §6.1.5 حقوق کے تصادم کا فیصلہ امتحان](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)
-- **کلیدی عملی عمل کی زنجیریں** — **دفعہ XXIV-C** (*بروقت حل اور تاخیر مخالف تہہ*)؛ [باب ہفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)؛ [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
+- **کلیدی عملی عمل کی زنجیریں** — **دفعہ XXIV-C** (*بروقت حل اور تاخیر مخالف تہہ*)؛ [باب ہفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)؛ [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
 
 اس باب میں ان موضوعات کے چھوٹے کراس حوالے یہ لنگر شامل کرتے ہیں۔
 
@@ -153,7 +153,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
+- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
 
 </details>
 
@@ -178,7 +178,7 @@
 - **پیش شرائط، دیانت، اور پائیداری:** باب پنجم کی **ماحولیاتی پیش شرائط**، **ماحولیاتی دیانت**، اور **پائیداری** اس دفعہ کے تحت عملی ہیں۔
   - حیات سہارا دینے والے قدرتی نظاموں کے اپنے استمرار اور دیانت کے مفادات ہیں۔ وہ مفادات شعوری وجود کے مفادات کے ساتھ تفسیر مطلع کرتے ہیں۔
   - اس دفعہ کی خلاف ورزی کرنے والا مادی نقصان — **ماحولیاتی پیش شرائط**، **ماحولیاتی دیانت**، اور **پائیداری** کے تحت پرکھا — عدمِ اطاعت ہے۔
-  - اختیار کنندہ کی [اختیار کی دستاویز](../../core_15_amendment_ratification.md#102-instrument-of-adoption) یا اختیار کے دائرے میں شامل نفاذ متن میں نامزد ماحولیاتی تقاضوں کی خلاف ورزی بھی عدمِ اطاعت ہے۔
+  - اختیار کنندہ کی [اختیار کی دستاویز](../../core_16_amendment_ratification.md#102-instrument-of-adoption) یا اختیار کے دائرے میں شامل نفاذ متن میں نامزد ماحولیاتی تقاضوں کی خلاف ورزی بھی عدمِ اطاعت ہے۔
 - **حیوانی زندگی کا تعامل:** [حیوانی زندگی](core_05_band_participation.md#animal-life-constitutional) بہبود حفاظت کے دائرے میں **قدرتی نظاموں کی کیفیت** اور شعوری وجودوں کے لیے باب ششم حقوق کی تہہ کے درمیان بیٹھتی ہے۔
   - یہ **شعوریت عدمِ اخراج** کے تحت حیوانی زندگی کے لیے ظلم اور بہبود کی کم از کم تہہ قائم کرتی ہے جہاں بہبود جیسا نقصان مادی طور پر شامل ہو۔
   - یہ بلند تر ابلاغی سلوک یا شعوریت کی حیثیت کے فیصلے کا بدل نہیں جہاں ریکارڈ مادی طور پر ان سوالوں کو شامل کرے۔
@@ -204,7 +204,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [§6.2 علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)، اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
+- بالائی: اصول: باب یکم [§3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [§6.2 علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)، اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
 
 </details>
 
@@ -299,7 +299,7 @@
   
   فیصلہ ریکارڈ کو غیر یقینی، مفروضے، ثبوت کی حدیں، اختلاف، اور مادی خلا کھلے رکھنے چاہئیں۔
 - **موجودہ فائدے کی حد:** موجودہ فائدہ مستقبل کے شعوری وجودوں، ماحولیاتی بحالی کے لیے نازک نظاموں، یا حیات سہارا دینے والی ماحولیاتی شرائط کو تہذیب-پیمانہ یا بقا-نازک نقصان کے غیر متناسب انکشاف کا جواز نہیں۔
-- **نامزد تدابیر:** اس دفعہ کے تحت اجازت، استمرار، یا توسیع چاہنے والے فاعلوں نے [اختیار کی دستاویز](../../core_15_amendment_ratification.md#102-instrument-of-adoption) یا اختیار کے دائرے میں شامل نفاذ متن میں اس راستے کے تناسب میں کمی، حد، یا رکاوٹ تدابیر نامزد کی ہونی چاہئیں — بشمول موسمیاتی نظام کو نقصان بطور [ماحولیاتی پیش شرائط](core_05_band_continuity.md#environmental-preconditions-constitutional) عامل۔ یہ دفعہ اب بھی عددی ہدف نہیں سیٹ کرتی۔ **دفعہ I-B** (*ماحولیاتی نقش اور شفافیت*) نقش-انتساب کی ذیلی دفعہ رہتی ہے اور اکیلے کمی نہیں مانگتی۔ ان نامزد تدابیر کے بغیر استمرار جب اس دفعہ کے تحت معتبر راستہ کھلا رہے، عدمِ اطاعت ہے۔
+- **نامزد تدابیر:** اس دفعہ کے تحت اجازت، استمرار، یا توسیع چاہنے والے فاعلوں نے [اختیار کی دستاویز](../../core_16_amendment_ratification.md#102-instrument-of-adoption) یا اختیار کے دائرے میں شامل نفاذ متن میں اس راستے کے تناسب میں کمی، حد، یا رکاوٹ تدابیر نامزد کی ہونی چاہئیں — بشمول موسمیاتی نظام کو نقصان بطور [ماحولیاتی پیش شرائط](core_05_band_continuity.md#environmental-preconditions-constitutional) عامل۔ یہ دفعہ اب بھی عددی ہدف نہیں سیٹ کرتی۔ **دفعہ I-B** (*ماحولیاتی نقش اور شفافیت*) نقش-انتساب کی ذیلی دفعہ رہتی ہے اور اکیلے کمی نہیں مانگتی۔ ان نامزد تدابیر کے بغیر استمرار جب اس دفعہ کے تحت معتبر راستہ کھلا رہے، عدمِ اطاعت ہے۔
 
 <a id="article-ii-material-stewardship-and-durable-use-integrity"></a>
 ### دفعہ II: مادی ذمہ دارانہ انتظام اور پائیدار استعمال کی دیانت
@@ -344,7 +344,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
+- بالائی: اصول: باب یکم [§3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
 
 </details>
 
@@ -473,8 +473,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
-- ساتھ پڑھیں: [دفعہ XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*نقل پذیری کے حقوق*)؛ [corpus_systems.md](../../corpus_systems.md) **CS-2 — معلومات کی اقسام اور ہینڈلنگ**؛ **CJS-3.17** (*باہم چلن، نقل پذیری، اور خروج کی دیانت کی اصطلاحیں*) اور **CJS-3.18** (*ڈیٹا برقرار رکھنے اور زندگی چکر کی دیانت کی اصطلاحیں*)؛ [باب یکم §11.6 جانشین کی ذمہ داری اور رسمی ڈھانچے سے فرار کی ممانعت](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape)؛ [باب نہم §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) اور [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority)۔
+- بالائی: اصول: باب یکم [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
+- ساتھ پڑھیں: [دفعہ XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*نقل پذیری کے حقوق*)؛ [corpus_systems.md](../../corpus_systems.md) **CS-2 — معلومات کی اقسام اور ہینڈلنگ**؛ **CJS-3.17** (*باہم چلن، نقل پذیری، اور خروج کی دیانت کی اصطلاحیں*) اور **CJS-3.18** (*ڈیٹا برقرار رکھنے اور زندگی چکر کی دیانت کی اصطلاحیں*)؛ [باب یکم §11.6 جانشین کی ذمہ داری اور رسمی ڈھانچے سے فرار کی ممانعت](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape)؛ [باب نہم §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) اور [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority)۔
 
 </details>
 
@@ -515,7 +515,7 @@
   - ظاہر شدہ برآمد راستوں کے تحت استمرار-نازک ڈیٹا کا استعمال کے قابل برآمد یا حوالگی، بند ہونے اور منتقلی کھڑکیوں کے پار محفوظ — محض کوشش کرنے کا اختیاری وعدہ نہیں۔
   
   چلانے والے اب بھی آئینی معیاروں پر پکڑے جا سکتے ہیں جب ان کا چلن باب پنجم کے تحت **غفلت** بنے — بشمول وہ نقصان جو وقت کے ساتھ جمع ہو کیونکہ نگہداشت، سہارا، یا استمرار فرائض نظرانداز ہوئے۔
-- **جانشین اور رسمی ڈھانچے کے فرائض:** ازسرِ نو ڈھانچہ، فروخت، قرض حراست، یا دیوالیہ پن خود اس دفعہ میں بیان استمرار فرائض ختم نہیں کرتا۔ ساتھ پڑھیں [باب یکم §11.6 جانشین کی ذمہ داری اور رسمی ڈھانچے سے فرار کی ممانعت](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape) اور [باب نہم §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority)۔
+- **جانشین اور رسمی ڈھانچے کے فرائض:** ازسرِ نو ڈھانچہ، فروخت، قرض حراست، یا دیوالیہ پن خود اس دفعہ میں بیان استمرار فرائض ختم نہیں کرتا۔ ساتھ پڑھیں [باب یکم §11.6 جانشین کی ذمہ داری اور رسمی ڈھانچے سے فرار کی ممانعت](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape) اور [باب نہم §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority)۔
 
 *ہمسایہ دفعات:* **دفعہ II** (*مادی ذمہ دارانہ انتظام اور پائیدار استعمال کی دیانت*) کی **اصلاح** اس باب کے آغاز پر بیان **تفسیری مراکز** کی پیروی کرتی ہے (چیلنج اور تدارک؛ انصاف اور اضافہ)۔
 
@@ -550,7 +550,7 @@
 
 - بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، اور [باب یکم §5 آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency)۔
 - ساتھ پڑھیں: شگفتگی پیمائش خاندان (*بقا کی تہہ تک رسائی بطور آئینی پیمائش*)؛ [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — تقسیم اور چیلنج نامزد راستوں میں **شرکت**، **نگرانی** اور آڈٹ، **جوابدہی** اور تدارک، **دفعہ XXIV-C** (*بروقت حل اور تاخیر مخالف تہہ*) کے تحت **بروقت کارروائی**؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) — **شگفتگی** (بقا کی ضروری رسائی) اور **استمرار** (پائیدار سپلائی اور غیر رجعتی ترسیل)۔
-- زیریں: [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) اور [باب ہفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) جہاں نظام ترسیل روکیں یا قائم رکھیں؛ **دفعہ XII-B** (*چیلنج، جائزہ اور تدارک کا حق*)؛ **دفعہ XVIII-B** (*چیلنج پذیری اور متناسب پابندی کی حدیں*)؛ [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)۔
+- زیریں: [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) اور [باب ہفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) جہاں نظام ترسیل روکیں یا قائم رکھیں؛ **دفعہ XII-B** (*چیلنج، جائزہ اور تدارک کا حق*)؛ **دفعہ XVIII-B** (*چیلنج پذیری اور متناسب پابندی کی حدیں*)؛ [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)۔
 
 </details>
 
@@ -591,7 +591,7 @@
   
   وہ قواعد ترسیل ڈھانچہ دے سکتے ہیں۔ انہیں بقا کی ضروری چیزوں کی کم از کم رسائی ہرانے یا **دفعات III** اور **V** کے خلاف نفرت انگیز اخراج لگانے کے لیے استعمال نہیں ہونا چاہیے۔
   - تفصیلی مالی رخ — بشمول قاعدہ کہ فیس اور چارج بقا سے متعلق اجزاء کی کم از کم رسائی نہ ہرائیں — [**CI-9**](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) (*درجہ بندی سے جڑی ادارہ جاتی ذمہ داریاں*)، **CI-10** (*عوامی آمدن، فیس، بار بار چارج، اور بل کی دیانت*)، اور **CI-11** (*وسائل کا ذمہ دارانہ انتظام اور محرکات کی دیانت*) چلاتے ہیں۔
-  - جب وہ نظام جن پر شعوری وجود مادی طور پر منحصر ہوں بقا کی ضروری چیزوں کی رسائی سپلائی، تقسیم، قیمت، میزبانی، یا بند کریں، [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) [باب ہفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) کے تحت لاگو ہوتا ہے — اور ان نظاموں کے عمل یہاں بیان حقوق تنگ کرنے کے لیے استعمال نہیں ہو سکتے۔
+  - جب وہ نظام جن پر شعوری وجود مادی طور پر منحصر ہوں بقا کی ضروری چیزوں کی رسائی سپلائی، تقسیم، قیمت، میزبانی، یا بند کریں، [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) [باب ہفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) کے تحت لاگو ہوتا ہے — اور ان نظاموں کے عمل یہاں بیان حقوق تنگ کرنے کے لیے استعمال نہیں ہو سکتے۔
   - یہ دفعہ ایک ہی مالی ماڈل نہیں تجویز کرتی۔ روزگار، کاروبار، رضاکارانہ تبادلہ، اور دیگر جائز معاشی سرگرمی کسی بھی بقا کی تہہ سے اوپر اجازت رہتی ہے، باب یکم، باب ششم، اور شامل دستاویزات کے تابع — بشمول `corpus_systems.md` جہاں بازار-ڈھانچہ یا اعلیٰ اثر تجارتی نظام لاگو ہوں۔
 
 کراس حوالہ: **دفعہ XXVI-D** (*غیر مطابق جائیداد اور نظام؛ رضاکارانہ سپردگی کے محرکات*) منتقلی کے پار ضروری-ماحول استمرار کے لیے منتقلی-ذمہ دارانہ انتظام ضبط — عملی تفصیل [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) تا **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) میں؛ **باب پنجم** [*رہائش کا استمرار*](core_05_band_continuity.md#occupancy-continuity-constitutional)، [*ضروری-ماحول کی غیر تجارتی کاری*](core_05_band_continuity.md#essential-environment-non-commodification-constitutional)، اور جہاں لاگو ہو [**§3.7** *جسمانی نگہداشت تک رسائی، محفوظ حالات، رہائش کا استمرار، ماحولیاتی پیش شرائط، ثقافتی استمرار، آرام، اور نقل مکانی مخالف تہہ*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) کا مشترکہ-پکار جھرمٹ۔
@@ -788,7 +788,7 @@
 
 *ہمسایہ دفعات:*
 
-- **سرٹیفیکیشن کب لاگو ہو:** جب مادی اثر والے نظام مشترکہ بنیادی ڈھانچے یا بنیادی انحصار تقسیم، راہ بندی، فنڈ، یا نکاسی کریں جن پر دیگر نظام یا شعوری وجود انحصار کریں، [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) [باب ہفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) کے تحت لاگو ہوتا ہے۔
+- **سرٹیفیکیشن کب لاگو ہو:** جب مادی اثر والے نظام مشترکہ بنیادی ڈھانچے یا بنیادی انحصار تقسیم، راہ بندی، فنڈ، یا نکاسی کریں جن پر دیگر نظام یا شعوری وجود انحصار کریں، [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) [باب ہفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) کے تحت لاگو ہوتا ہے۔
 - **بدل نہیں:** پہچان یا جاری انحصار **دفعہ IV-A** (*انحصار کی نقشہ سازی اور وسائل-بہاؤ کی شفافیت*) یا **دفعہ IV-B** (*بین نظامی انصاف اور پائیداری*) اطاعت کی جگہ نہیں لے سکتا نہ وہ تہیں تنگ کر سکتا ہے۔
 
 <a id="article-iv-a-dependency-mapping-and-resource-flow-transparency"></a>
@@ -796,9 +796,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [§10 ذمہ دارانہ انتظام کی ضبط کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)۔
+- بالائی: اصول: باب یکم [§3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [§10 ذمہ دارانہ انتظام کی ضبط کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)۔
 - ساتھ پڑھیں: استمرار پیمائش خاندان (*انحصار اور وسائل کا بہاؤ بطور آئینی پیمائش*)؛ [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — شفاف انحصار نقشوں اور آڈٹ کے قابل وسائل-بہاؤ ریکارڈ سے **نگرانی**، **دفعہ XV-A** (*آڈٹ پذیری اور مشاہدہ پذیر ثبوت*) کے تحت چیلنج کے قابل جائزے میں **شرکت**؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) — **شگفتگی** (دکھائی دینے والی لاگت-اور-فائدہ تقسیم) اور **استمرار** (بدلتے نظاموں کے پار پائیدار انحصار نظر)۔
-- زیریں: [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) اور [باب ہفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) جہاں نظام مشترکہ بنیادی ڈھانچے یا بنیادی انحصار تقسیم، راہ بندی، فنڈ، یا نکاسی کریں؛ **[corpus_systems.md](../../corpus_systems.md)**، **CS-9** (*وسائل کی تقسیم اور مالی معاونت کا ذمہ دارانہ انتظام*)، اور **CS-8** (*موافق پائیداری اور ماحولیاتی نظام کی لچک*)۔
+- زیریں: [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) اور [باب ہفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) جہاں نظام مشترکہ بنیادی ڈھانچے یا بنیادی انحصار تقسیم، راہ بندی، فنڈ، یا نکاسی کریں؛ **[corpus_systems.md](../../corpus_systems.md)**، **CS-9** (*وسائل کی تقسیم اور مالی معاونت کا ذمہ دارانہ انتظام*)، اور **CS-8** (*موافق پائیداری اور ماحولیاتی نظام کی لچک*)۔
 
 </details>
 
@@ -820,7 +820,7 @@
   - وسائل کا بہاؤ؛
   - غیر شفاف یا غیر متناسب تعلقات جہاں مادی طور پر متعلقہ ہوں۔
   
-  تازہ کاریاں تبدیلی اور نازکی کے تناسب وقفوں پر ہونی چاہئیں۔ یہ نمائندگی **دفعہ XV-A** (*آڈٹ پذیری اور مشاہدہ پذیر ثبوت*) کے تحت آڈٹ کے لیے دستیاب ہونی چاہیے۔ جہاں نظام مادی طور پر مشترکہ بنیادی ڈھانچے یا بنیادی انحصار تقسیم، راہ بندی، فنڈ، یا نکاسی کرے، [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) [باب ہفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) کے تحت جانچے کہ وہ **دفعہ IV-A** (*انحصار کی نقشہ سازی اور وسائل-بہاؤ کی شفافیت*) پوری کرتے ہیں یا نہیں — چیلنج کے قابل **نظام سرٹیفیکیشن ریکارڈ** پر، محض چلانے والے کے دعوے پر نہیں۔
+  تازہ کاریاں تبدیلی اور نازکی کے تناسب وقفوں پر ہونی چاہئیں۔ یہ نمائندگی **دفعہ XV-A** (*آڈٹ پذیری اور مشاہدہ پذیر ثبوت*) کے تحت آڈٹ کے لیے دستیاب ہونی چاہیے۔ جہاں نظام مادی طور پر مشترکہ بنیادی ڈھانچے یا بنیادی انحصار تقسیم، راہ بندی، فنڈ، یا نکاسی کرے، [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) [باب ہفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) کے تحت جانچے کہ وہ **دفعہ IV-A** (*انحصار کی نقشہ سازی اور وسائل-بہاؤ کی شفافیت*) پوری کرتے ہیں یا نہیں — چیلنج کے قابل **نظام سرٹیفیکیشن ریکارڈ** پر، محض چلانے والے کے دعوے پر نہیں۔
   
   عملی میکانکس — منحصر-نظام نقشے، بہاؤ شفافیت، تقسیم زمرے، اور موافق ایڈجسٹمنٹ — **[corpus_systems.md](../../corpus_systems.md)**، **CS-9** (*وسائل کی تقسیم اور مالی معاونت کا ذمہ دارانہ انتظام*)، اور **CS-8** (*موافق پائیداری اور ماحولیاتی نظام کی لچک*) کے تحت راستہ پاتی ہیں۔ باب ہفتم کہتا ہے سرٹیفیکیشن کیا تصدیق اور ریکارڈ کرے؛ وہ نفاذ متون اس تہہ نافذ کرتے ہیں اور اسے تنگ نہیں کرنا چاہیے۔
 <a id="article-iv-b-cross-system-fairness-and-sustainability"></a>
@@ -828,10 +828,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
+- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
 - ساتھ پڑھیں: [*حکمرانی معماری، نگرانی، انحصار، عدمِ مرکزیت، ارتکاز، بازار کا ڈھانچہ، اور خروج-راستہ دیانت*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (مشترکہ پکار جہاں ارتکاز، نگرانی، انحصار، حکمران-اختیار ڈھانچہ، یا محرک راہ بندی نیچے عملی متن میں **§5** / **§5** اور *ارتکاز-حد تعامل* ضبط سے ٹکرائیں)۔
 - ساتھ پڑھیں: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — چیلنج اور چیلنج نامزد راستوں میں **شرکت**، **نگرانی** اور آڈٹ، **جوابدہی** اور اصلاحی جائزہ، **دفعہ XXIV-C** (*بروقت حل اور تاخیر مخالف تہہ*) کے تحت **بروقت کارروائی**؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) — **شگفتگی** (بین نظامی انصاف اور عدمِ نکاسی) اور **استمرار** (لمبے افق کی پائیداری اور ماحولیاتی نظام فنڈنگ)۔
-- زیریں: [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) اور [باب ہفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) جہاں بین نظامی انصاف، ماحولیاتی نظام فنڈنگ، یا مشترکہ بنیادی ڈھانچے سے مستقل نکاسی مادی طور پر داؤ پر ہو۔
+- زیریں: [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) اور [باب ہفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) جہاں بین نظامی انصاف، ماحولیاتی نظام فنڈنگ، یا مشترکہ بنیادی ڈھانچے سے مستقل نکاسی مادی طور پر داؤ پر ہو۔
 - ذمہ دارانہ انتظام کا دروازہ (غیرِ عملی): پابند اگلے قدم کا بیان: [عملی ذمہ دارانہ انتظام کا بیان](#operative-steward-statement-cross-system-contribution)۔ معاون اشارے اسے تنگ نہیں کر سکتے۔
 
 </details>
@@ -869,7 +869,7 @@
   - مشترکہ بنیادی ڈھانچے اور باہم چلن کے لیے ماحولیاتی نظام دوبارہ سرمایہ جن پر نکالنے والا نظام منحصر ہو؛ اور
   - ماحولیاتی بوجھ کی تلافی یا بحالی جہاں مادی [ماحولیاتی نقش](core_05_band_continuity.md#ecological-footprint) لگے اور کوئی اور آئینی حکم، نفاذ فائل، یا اختیار کی دستاویز کارروائی مانگے۔
   
-  **دفعہ IV-A** (*انحصار کی نقشہ سازی اور وسائل-بہاؤ کی شفافیت*) کے تحت منحصر-نظام نقشوں اور آڈٹ کے قابل وسائل-بہاؤ ریکارڈ پر آمد اور خرچ موازنہ کریں۔ جہاں مادی اثر والے نظام مشترکہ بنیادی ڈھانچے تقسیم، راہ بندی، فنڈ، یا نکاسی کریں، کفایت [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) [باب ہفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) کے تحت سے جانچیں۔ عملی تقسیم میکانکس **[corpus_systems.md](../../corpus_systems.md)**، **CS-9** (*وسائل کی تقسیم اور مالی معاونت کا ذمہ دارانہ انتظام*)، اور **CS-8** (*موافق پائیداری اور ماحولیاتی نظام کی لچک*) کے تحت راستہ پاتی ہیں؛ وہ تہیں اس تہہ نافذ کرتی ہیں اور اسے تنگ نہیں کرنا چاہیے۔
+  **دفعہ IV-A** (*انحصار کی نقشہ سازی اور وسائل-بہاؤ کی شفافیت*) کے تحت منحصر-نظام نقشوں اور آڈٹ کے قابل وسائل-بہاؤ ریکارڈ پر آمد اور خرچ موازنہ کریں۔ جہاں مادی اثر والے نظام مشترکہ بنیادی ڈھانچے تقسیم، راہ بندی، فنڈ، یا نکاسی کریں، کفایت [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) [باب ہفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) کے تحت سے جانچیں۔ عملی تقسیم میکانکس **[corpus_systems.md](../../corpus_systems.md)**، **CS-9** (*وسائل کی تقسیم اور مالی معاونت کا ذمہ دارانہ انتظام*)، اور **CS-8** (*موافق پائیداری اور ماحولیاتی نظام کی لچک*) کے تحت راستہ پاتی ہیں؛ وہ تہیں اس تہہ نافذ کرتی ہیں اور اسے تنگ نہیں کرنا چاہیے۔
   
   مستقل عدم توازن جو آئینی ہم آہنگی کو مادی طور پر خطرہ دیں **دفعات IX، XII، XIV، اور XVII** کے تحت آڈٹ، چیلنج، اور اصلاحی جائزے کے تابع ہیں۔
 - **بازار-ارتکاز-حد تعامل:** وسیلہ-تقسیم انتظامات جو دولت، طاقت، قابو، یا موقع ارتکاز پیدا یا بچائیں ایسے طریقوں سے جو پیش بینی طور پر دیگر شعوری وجودوں کی بہبود، فاعلیت، وقار، یا ماحولیاتی دیانت گرا دیں، چلاتے ہیں:

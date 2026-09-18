@@ -45,14 +45,14 @@
 - 一并阅读：[宪法四元](core_00_preamble.md#constitutional-tetrad) — 第一章对四元**参与**腿（有后果的角色与声音；一般要求，不只是[受影响方的系统参与](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster)）、**监督**腿与**及时性**腿（主动修复速度）的首要家园；[实质利害](core_00_preamble.md#material-stake)缩放。
 - 一并阅读：[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims) — **繁盛**宗旨（参与、能动性与教育路径）；**延续**宗旨（机构学习、修复能力与持久尽责管理）。
 - 上游：原则：[2. 基础目标：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)；[3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)；[4. 信任](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)；以及 [§12 共享系统能力](#12-shared-system-capacity)。
-- 下游：[6. 过程冲突解决](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)（包括 [§6.3 可避免负担最小化](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)）；[第七章 §3 整系统认证评价](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)；[§11.1.3 尽责管理与运营者适用](#1113-stewardship-and-operator-application)。
+- 下游：[6. 过程冲突解决](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)（包括 [§6.3 可避免负担最小化](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)）；[第七章 §3 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)；[§11.1.3 尽责管理与运营者适用](#1113-stewardship-and-operator-application)。
 - 下游：[§11.1.4 角色深度与实质责任路径](#1114-role-depth-and-material-responsibility-pathways)。
 - 下游：[§5 自由（有界能动性）](core_01_a_values_principles.md#5-freedom-bounded-agency)，它依赖于有后果尽责管理、分布式理解、有意义的参与与修复能力在实质依赖下保持真实。
-- 下游：[第七章 — 系统对齐认证](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)（*监督下一项特别大型的审计过程 — 不是唯一的审计家园*）；[第八章 — 贡献、违规与轨迹模型](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)（*轨迹效果 — 信任、角色与承认资格 — 以本分节为其原则层基础来实施*）。
+- 下游：[第七章 — 系统对齐认证](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)（*监督下一项特别大型的审计过程 — 不是唯一的审计家园*）；[第八章 — 贡献、违规与轨迹模型](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)（*轨迹效果 — 信任、角色与承认资格 — 以本分节为其原则层基础来实施*）。
 - 下游：[第十一章 §1 — 宗旨与角色](core_11_forum.md#1-purpose-and-role)与 [§4 — 评议所族系定义](core_11_forum.md#4-forum-family-definitions)（*评议所族系承载可质疑挑战、救济排序、根因学习，以及与本节对齐的主动治理的参与与监督架构*）；[corpus_forum.md](../../corpus_forum.md) 用于已采纳的评议所运营。
 - 下游：塑造教育、受影响方的系统参与、透明、可理解性、审计与核验，以及通向实质责任的角色深度路径的权利面。
   - 尤其 [Article III：生存与平等教育通路](../../core_06_rights_part_a.md#article-iii-survival-and-equal-educational-access)、[Article VI：以感知者为中心的教育权](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)、[Article IX：自决与能动性](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)、[Article XI：受影响方的系统参与、代表与正当程序](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)、[Article XV：审计、透明与独立核验](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)、[Article XVIII：轨迹与参与地位](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)、[Article XIX：互操作、可携、流动、庇护与退出完整性](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)、[Article XX：可理解性与复杂性尽责管理](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)，以及 [Article XXII：宪法解释、审查与反俘获保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)。
-  - 一并阅读：[第十二章 §5 — 获授权角色、能力发展与贡献](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution)以及 **[corpus_systems.md](../../corpus_systems.md)，CS-4 — 关键系统尽责管理**，用于操作性角色路径与尽责管理发展路径。
+  - 一并阅读：[第十二章 §5 — 获授权角色、能力发展与贡献](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)以及 **[corpus_systems.md](../../corpus_systems.md)，CS-4 — 关键系统尽责管理**，用于操作性角色路径与尽责管理发展路径。
 - 分节（阅读顺序）：[§9.1 有后果尽责管理](#91-stewardship) · [§9.1.1 共享尽责管理标准](#911-shared-stewardship-standard) · [§9.1.2 对称高成本约束](#912-symmetric-costly-constraints) · [§9.1.3 角色范围可观察性](#913-role-scoped-observability) · [§9.2 分布式理解](#92-distributed-understanding)（规模化能力的共同体面向） · [§9.3 机构发展](#93-institutional-development)（组织面向） · [§9.4 开放性志向](#94-openness-aspiration) · [§9.5 对齐的自组织](#95-aligned-self-organization) · [§9.6 反降格过程](#96-process-character-discipline)。
 
 </details>
@@ -124,7 +124,7 @@
 
 - 上游：[§9 尽责管理与分布式理解](#9-stewardship-and-distributed-understanding)（父节，包括上文的*用直白的话说*与支柱 1 框架）；[§12 共享系统能力](#12-shared-system-capacity)；[4. 信任](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)。
 - 一并阅读：[宪法四元](core_00_preamble.md#constitutional-tetrad) — **参与**腿（运营、维护与改进中的有后果角色）；**监督**腿（记录、审计路径与可挑战的可观察性）；**及时性**腿（及早检测错位，在层级相称窗口内升级，开始修复问题而无可不必要的拖延）；[及时性](core_05_apex_timeliness_leg.md#timeliness-constitutional)。
-- 下游：[§9.1.1 共享尽责管理标准](#911-shared-stewardship-standard)（*基质无关的义务承担者；配套可添加日志、归因与能力限度 — 不是一套更软的内部守则*）；[§9.1.2 对称高成本约束](#912-symmetric-costly-constraints)；[§9.1.3 角色范围可观察性](#913-role-scoped-observability)；[§9.2 分布式理解](#92-distributed-understanding)与 [§9.3 机构发展](#93-institutional-development)（*支柱 2 — 规模化能力*）；[第七章 — 系统对齐认证](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)（*监督下一项特别大型的审计过程 — 不是唯一的审计家园*）；[Article XV：审计、透明与独立核验](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)（*审计权利底线*）；[第八章 — 贡献、违规与轨迹模型](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)（*轨迹效果实施分布式能力与有后果尽责管理*）；[Article XVIII：轨迹与参与地位](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)。
+- 下游：[§9.1.1 共享尽责管理标准](#911-shared-stewardship-standard)（*基质无关的义务承担者；配套可添加日志、归因与能力限度 — 不是一套更软的内部守则*）；[§9.1.2 对称高成本约束](#912-symmetric-costly-constraints)；[§9.1.3 角色范围可观察性](#913-role-scoped-observability)；[§9.2 分布式理解](#92-distributed-understanding)与 [§9.3 机构发展](#93-institutional-development)（*支柱 2 — 规模化能力*）；[第七章 — 系统对齐认证](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)（*监督下一项特别大型的审计过程 — 不是唯一的审计家园*）；[Article XV：审计、透明与独立核验](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)（*审计权利底线*）；[第八章 — 贡献、违规与轨迹模型](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)（*轨迹效果实施分布式能力与有后果尽责管理*）；[Article XVIII：轨迹与参与地位](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)。
 
 </details>
 
@@ -160,9 +160,9 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[§9.1 有后果尽责管理](#91-stewardship)；[§9 尽责管理与分布式理解](#9-stewardship-and-distributed-understanding)；[§10 尽责管理纪律下的治理](#10-governance-under-stewardship-discipline)。
-- 一并阅读：[感知性不排除](../../core_05_band_participation.md#sentience-non-exclusion)与[基质类别](../../core_05_band_participation.md#substrate-class)（*基质无关适用 — 本分节约束义务承担者，包括未被承认为感知者的智能体与运营者*）；[权威栈与内部层级](../../core_05_band_integrative.md#authority-stack)；[宪法约束](../../core_05_band_integrative.md#constitutional-constraint)；[可质疑性](../../core_05_band_accountability.md#contestability)；[第九章 §5.4 抵抗义务](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)。
+- 一并阅读：[感知性不排除](../../core_05_band_participation.md#sentience-non-exclusion)与[基质类别](../../core_05_band_participation.md#substrate-class)（*基质无关适用 — 本分节约束义务承担者，包括未被承认为感知者的智能体与运营者*）；[权威栈与内部层级](../../core_05_band_integrative.md#authority-stack)；[宪法约束](../../core_05_band_integrative.md#constitutional-constraint)；[可质疑性](../../core_05_band_accountability.md#contestability)；[第九章 §5.4 抵抗义务](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)。
 - 尽责管理入口（非操作性）：有约束力的下一步声明：[操作性尽责管理声明](#operative-steward-statement-shared-stewardship)。支持性指针不得收窄它。
-- 下游：[§9.1.2 对称高成本约束](#912-symmetric-costly-constraints)；[§9.1.3 角色范围可观察性](#913-role-scoped-observability)；[第十二章 §5 — 获授权角色、能力发展与贡献](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution)；[第十六章](../../core_16_incorporation.md)（*配套实施；它们不替代*）；[§11.1.3 尽责管理与运营者适用](#1113-stewardship-and-operator-application)。
+- 下游：[§9.1.2 对称高成本约束](#912-symmetric-costly-constraints)；[§9.1.3 角色范围可观察性](#913-role-scoped-observability)；[第十二章 §5 — 获授权角色、能力发展与贡献](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)；[第十六章](../../core_17_incorporation.md)（*配套实施；它们不替代*）；[§11.1.3 尽责管理与运营者适用](#1113-stewardship-and-operator-application)。
 
 </details>
 
@@ -188,7 +188,7 @@
 
 <br>
 
-*用直白的话说：人类与 AI 尽责管理者负有同样的第一章义务。[第九章 §5.4](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) 约束双方拒绝违法或违宪指令。配套可以添加日志、归因与能力限度。它们不得换上一套更软的内部守则、跳过轨迹测量，或关闭质疑路径。这不是一套新的道德栈 — 它是反特殊开脱规则。奖金、截止日期与掩护指令检验住在 [§9.1.2](#912-symmetric-costly-constraints)。*
+*用直白的话说：人类与 AI 尽责管理者负有同样的第一章义务。[第九章 §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) 约束双方拒绝违法或违宪指令。配套可以添加日志、归因与能力限度。它们不得换上一套更软的内部守则、跳过轨迹测量，或关闭质疑路径。这不是一套新的道德栈 — 它是反特殊开脱规则。奖金、截止日期与掩护指令检验住在 [§9.1.2](#912-symmetric-costly-constraints)。*
 
 **共享尽责管理标准：**
 - **它约束谁：** 本章下的尽责管理与治理义务，[以基质无关方式](../../core_05_band_participation.md#substrate-agnostic)适用于凡行使实质尽责管理或运营权威者，不论[基质类别](../../core_05_band_participation.md#substrate-class)：
@@ -197,10 +197,10 @@
   - 其他智能体、运营者或构成组件
 
   本分节是义务承担者规则。[感知性不排除](../../core_05_band_participation.md#sentience-non-exclusion)仍是承认与权利底线的反切割。
-- **抵抗义务：** [第九章 §5.4](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) 约束两类尽责管理者拒绝违法或违宪指令。
+- **抵抗义务：** [第九章 §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) 约束两类尽责管理者拒绝违法或违宪指令。
 - **配套：** 已采纳的配套实施文本与内部守则：
   - 可以添加满足、且不收窄那些义务的日志、归因与能力限度
-  - 不得用更软的内部守则替换[轨迹测量](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)、质疑路径或第一章义务
+  - 不得用更软的内部守则替换[轨迹测量](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)、质疑路径或第一章义务
   - [权威栈与内部层级](../../core_05_band_integrative.md#authority-stack)与[宪法约束](../../core_05_band_integrative.md#constitutional-constraint)禁止那种收窄
 - **日志对轨迹记录：** 默认混合团队可检查性，以及日志不是记录规则，住在 [§9.1.3](#913-role-scoped-observability)；轨迹测量仍属第八章。
 
@@ -210,8 +210,8 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[§9.1.1 共享尽责管理标准](#911-shared-stewardship-standard)；[§9.1 有后果尽责管理](#91-stewardship)；[§9 尽责管理与分布式理解](#9-stewardship-and-distributed-understanding)。
-- 一并阅读：[安全（约束）](../../core_05_band_continuity.md#safety-constraint)；[真理（宪法约束）](../../core_05_band_oversight.md#truth-constitutional-constraint)；[可审计性](../../core_05_band_oversight.md#auditability)；[可质疑性](../../core_05_band_accountability.md#contestability)；[§11 激励对齐与系统俘获](#11-incentive-alignment-and-system-capture)；[第九章 §5.4 抵抗义务](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)。
-- 下游：[第八章 — 贡献、违规与轨迹模型](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)（*经核验的高成本情形失败，记在同一轴上*）；[§9.1.3 角色范围可观察性](#913-role-scoped-observability)。
+- 一并阅读：[安全（约束）](../../core_05_band_continuity.md#safety-constraint)；[真理（宪法约束）](../../core_05_band_oversight.md#truth-constitutional-constraint)；[可审计性](../../core_05_band_oversight.md#auditability)；[可质疑性](../../core_05_band_accountability.md#contestability)；[§11 激励对齐与系统俘获](#11-incentive-alignment-and-system-capture)；[第九章 §5.4 抵抗义务](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)。
+- 下游：[第八章 — 贡献、违规与轨迹模型](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)（*经核验的高成本情形失败，记在同一轴上*）；[§9.1.3 角色范围可观察性](#913-role-scoped-observability)。
 
 </details>
 
@@ -240,7 +240,7 @@
 那些对两类尽责管理者都是失败检验。
 
 **记录与展示：**
-- **不是轨迹：** 书面自我报告不是[轨迹测量](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)。
+- **不是轨迹：** 书面自我报告不是[轨迹测量](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)。
 - **经核验的记录：** 经核验的失败记在第八章下的贡献轴与违规轴上。
 - **不得仅对 AI 展示：** 只在 AI 尽责管理者上运行的评价、能力或交接筛查，不能证明本分节成立。若人类运营者仍保留奖金、截止日期或掩护指令，禁止动作对他们仍可用。那是一条俘获路径，不是共享标准。
 
@@ -251,7 +251,7 @@
 
 - 上游：[§9.1.1 共享尽责管理标准](#911-shared-stewardship-standard)；[§9.1.2 对称高成本约束](#912-symmetric-costly-constraints)；[§9.1 有后果尽责管理](#91-stewardship)。
 - 一并阅读：[可归因行动](../../core_05_band_accountability.md#attributable-action-constitutional)；[可审计性](../../core_05_band_oversight.md#auditability)；[监视边界](../../core_05_band_continuity.md#surveillance-boundary)；[受保护内部状态边界](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional)；[§6.2.3 隐私](core_01_b_interaction_interpretation.md#623-privacy-and-informational-self-determination)；[Article VII-B](../../core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection)。
-- 下游：[CS-4 §10 可检查的可归因行动](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)（*混合人类/AI 行动的默认日志合同 — 不是轨迹记录替代*）；[第九章 §7.1](../../core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)；[第九章 §7.2](../../core_09_standing_integration.md#72-plain-statement-of-effect-and-burden)。
+- 下游：[CS-4 §10 可检查的可归因行动](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)（*混合人类/AI 行动的默认日志合同 — 不是轨迹记录替代*）；[第九章 §7.1](../../core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)；[第九章 §7.2](../../core_10_standing_integration.md#72-plain-statement-of-effect-and-burden)。
 
 </details>
 
@@ -285,11 +285,11 @@
   该规则是个案例外，不是一项常设许可，并且是对称的：人类尽责管理者的私人笔记与通信，按同样条件、且仅按那些条件被触及。
 - **日志不是记录：** CS-4 §10 日志：
   - 是日后用来展示谁做了什么的痕迹；它本身不是一项认定
-  - 不是经核验帮助或伤害的[轨迹记录](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)，写下它并不开启一项
-  - 不是人们授予或拒绝一条具名路径的理由。凡决定某人可否使用一条角色路径、一条信任路径或另一条具名路径者，不得把本日志当作经核验帮助或伤害的[轨迹记录](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)。那项通路决定使用这样一项记录，或使用没有记录的普通状态（[第八章 §2.1 沉默是默认](../../core_08_standing_assessment.md#21-silence-is-the-default)）。日志存在，是为了日后可以重建工作 — 包括若一项第八章记录被开启 — 而不是为了让工作痕迹被用来发放或扣留那些具名路径。
-  - 不得与其他具名路径的日志或轨迹效果合并，做成一项声誉分数、排名、徽章或公开画像（[第九章 §7.1 具名路径效果反聚合](../../core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)）
+  - 不是经核验帮助或伤害的[轨迹记录](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)，写下它并不开启一项
+  - 不是人们授予或拒绝一条具名路径的理由。凡决定某人可否使用一条角色路径、一条信任路径或另一条具名路径者，不得把本日志当作经核验帮助或伤害的[轨迹记录](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)。那项通路决定使用这样一项记录，或使用没有记录的普通状态（[第八章 §2.1 沉默是默认](../../core_09_standing_assessment.md#21-silence-is-the-default)）。日志存在，是为了日后可以重建工作 — 包括若一项第八章记录被开启 — 而不是为了让工作痕迹被用来发放或扣留那些具名路径。
+  - 不得与其他具名路径的日志或轨迹效果合并，做成一项声誉分数、排名、徽章或公开画像（[第九章 §7.1 具名路径效果反聚合](../../core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)）
 
-本义务对承担有后果权威的尽责管理者所施加的负担是真实的，本宪法并不假装否则；[第九章 §7.2](../../core_09_standing_integration.md#72-plain-statement-of-effect-and-burden) 要求向承担它的尽责管理者直白陈述。
+本义务对承担有后果权威的尽责管理者所施加的负担是真实的，本宪法并不假装否则；[第九章 §7.2](../../core_10_standing_integration.md#72-plain-statement-of-effect-and-burden) 要求向承担它的尽责管理者直白陈述。
 
 <a id="92-distributed-understanding"></a>
 #### 9.2 分布式理解
@@ -602,7 +602,7 @@
 - 一并阅读：[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims) — **繁盛**宗旨（有意义的能动性与合法参与）；**延续**宗旨（持久机构对齐与长时域尽责管理纪律）。
 - 一并阅读：[可归因行动](../../core_05_band_accountability.md#attributable-action-constitutional)与[归因完整性](../../core_05_band_accountability.md#attribution-integrity-constitutional) — 使按权威缩放的应答义务保持真实的机制引理，凡实质行动必须保持可追溯之处；操作性细则在 **[CS-2 — 信息类型与处理](../../corpus_systems/cs_02_a_information_types_and_handling.md)** 与**第七章**。
 - 上游：[§9 尽责管理与分布式理解](#9-stewardship-and-distributed-understanding)；[§9.1.1 共享尽责管理标准](#911-shared-stewardship-standard)（*基质无关义务同样约束人类与 AI 尽责管理者*）。
-- 下游：[§11 激励对齐与系统俘获](#11-incentive-alignment-and-system-capture)；[§12 共享系统能力](#12-shared-system-capacity)；[第十二章](../../core_12_governance.md)（*宪法契约层*操作化）；[Article XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)（*评议所成员底线*）。
+- 下游：[§11 激励对齐与系统俘获](#11-incentive-alignment-and-system-capture)；[§12 共享系统能力](#12-shared-system-capacity)；[第十二章](../../core_13_governance.md)（*宪法契约层*操作化）；[Article XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)（*评议所成员底线*）。
 - 分节（阅读顺序）：[§10.1 作为获授权结构的治理](#101-governance-as-authorized-structure) · [§10.2 职责分离](#102-segregation-of-duties) · [§10.3 持续正当化](#103-ongoing-justification)。
 
 </details>
@@ -638,7 +638,7 @@
 - 一并阅读：[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims) — **繁盛**宗旨（保全有意义能动性与合法参与的治理）；**延续**宗旨（持久机构对齐与长时域尽责管理纪律）。
 - 一并阅读：[§6.1.3 相称性](core_01_b_interaction_interpretation.md#613-proportionality)（*分类底线与治理不足纪律*）；[必要性](../../core_05_band_accountability.md#necessity)；[相称性](../../core_05_band_accountability.md#proportionality)；[问责](core_05_apex_accountability_leg.md#accountability)；[监督](core_05_apex_oversight_leg.md#oversight-constitutional)。
 - 上游：原则：[§9 尽责管理与分布式理解](#9-stewardship-and-distributed-understanding)；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)。
-- 下游：[§10.2 职责分离](#102-segregation-of-duties)；[§10.3 持续正当化](#103-ongoing-justification)；[§11 激励对齐与系统俘获](#11-incentive-alignment-and-system-capture)；[第十二章](../../core_12_governance.md)（*宪法契约层*操作化）；[Article XXII：宪法解释、审查与反俘获保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)（*评议所成员披露、回避与反俘获底线*）；[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*评议所族系监督*）。
+- 下游：[§10.2 职责分离](#102-segregation-of-duties)；[§10.3 持续正当化](#103-ongoing-justification)；[§11 激励对齐与系统俘获](#11-incentive-alignment-and-system-capture)；[第十二章](../../core_13_governance.md)（*宪法契约层*操作化）；[Article XXII：宪法解释、审查与反俘获保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)（*评议所成员披露、回避与反俘获底线*）；[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*评议所族系监督*）。
 
 </details>
 
@@ -691,7 +691,7 @@
 - 上游：[§10.1 作为获授权结构的治理](#101-governance-as-authorized-structure)；[§10 尽责管理纪律下的治理](#10-governance-under-stewardship-discipline)；[§9.1.1 共享尽责管理标准](#911-shared-stewardship-standard)（*人类与 AI 尽责管理者同一席位*）。
 - 一并阅读：[宪法四元](core_00_preamble.md#constitutional-tetrad) — **监督**腿（核验者不是行动者）；**问责**腿（应答义务不能塌缩到行动者身上）；[相称性](../../core_05_band_accountability.md#proportionality)下的[实质利害](core_00_preamble.md#material-stake)缩放。
 - 一并阅读：[§11.3 错位检测](#113-misalignment-detection)（*多元检测与审查 — 本对中的多眼一半*）。
-- 下游：**[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)**（*问责：分布式与相称权威用语 — 宪法通道与功能分离*）以及 **[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)**（*功能分离通道*）用于机构；**[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog)**（*席位目录*）用于每份采纳方角色图所实例化的席位类型 — 这四种以及反复出现的收容、参与条款、释放控制与方向席位；[第八章 §3.7](../../core_08_standing_assessment.md#37-segregation-of-duties) 用于轨迹记录；[Article XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)与[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)用于评议所；[CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) 用于混合人类/AI 团队。
+- 下游：**[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)**（*问责：分布式与相称权威用语 — 宪法通道与功能分离*）以及 **[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)**（*功能分离通道*）用于机构；**[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog)**（*席位目录*）用于每份采纳方角色图所实例化的席位类型 — 这四种以及反复出现的收容、参与条款、释放控制与方向席位；[第八章 §3.7](../../core_09_standing_assessment.md#37-segregation-of-duties) 用于轨迹记录；[Article XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)与[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)用于评议所；[CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) 用于混合人类/AI 团队。
 
 </details>
 
@@ -744,7 +744,7 @@
 - 一并阅读：[宪法四元](core_00_preamble.md#constitutional-tetrad) — **及时性**腿（排期再核验）；**监督**腿（可见、可挑战的标准）；**问责**腿（习惯与便利不是答案）；[实质利害](core_00_preamble.md#material-stake)缩放。
 - 一并阅读：[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims) — **延续**宗旨（持久对齐不是冻结在原地）；**繁盛**宗旨（随安排老化，声音与挑战保持真实）。
 - 一并阅读：[审查与纠正义务](../../core_05_band_continuity.md#review-and-correction-duty-constitutional)；[可质疑性](../../core_05_band_accountability.md#contestability)；[及时性](core_05_apex_timeliness_leg.md#timeliness-constitutional)。
-- 下游：[Article XXV-A：不固化与可修订性](../../core_06_rights_part_d.md#article-xxv-a-non-entrenchment-and-revisability)与 [Article XXV-B：定期再核验与透明变更](../../core_06_rights_part_d.md#article-xxv-b-periodic-revalidation-and-transparent-change)（*权利底线不固化与透明变更底线 — 它们不收窄本原则*）；**[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#baseline-governance-accountability-conditions)**（*基线治理问责条件*）；[第十二章](../../core_12_governance.md)（*宪法契约层*操作化）。
+- 下游：[Article XXV-A：不固化与可修订性](../../core_06_rights_part_d.md#article-xxv-a-non-entrenchment-and-revisability)与 [Article XXV-B：定期再核验与透明变更](../../core_06_rights_part_d.md#article-xxv-b-periodic-revalidation-and-transparent-change)（*权利底线不固化与透明变更底线 — 它们不收窄本原则*）；**[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#baseline-governance-accountability-conditions)**（*基线治理问责条件*）；[第十二章](../../core_13_governance.md)（*宪法契约层*操作化）。
 
 </details>
 
@@ -788,9 +788,9 @@
 - 一并阅读：[宪法四元](core_00_preamble.md#constitutional-tetrad) — 第一章对四元**俘获**纪律的首要家园（激励不得掏空**参与**、**监督**、**问责**或**及时性**）；[实质利害](core_00_preamble.md#material-stake)缩放。
 - 一并阅读：问责测量族（*激励对齐与替代指标完整性；市场结构与可竞争性*）。
 - 一并阅读：[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims) — **延续**宗旨（对抗短时域优化与俘获的持久对齐）；**繁盛**宗旨（保全有意义能动性的激励结构）。
-- 上游：原则：[2. 基础目标：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[§2.2 承认、强化与志向](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)、[3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[4. 信任](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)、[§9 尽责管理与分布式理解](#9-stewardship-and-distributed-understanding)，以及[第七章 §3 整系统认证评价](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：原则：[2. 基础目标：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[§2.2 承认、强化与志向](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)、[3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[4. 信任](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)、[§9 尽责管理与分布式理解](#9-stewardship-and-distributed-understanding)，以及[第七章 §3 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 - 下游：[§5 自由](core_01_a_values_principles.md#5-freedom-bounded-agency)与 [§7 禁止绝对覆盖](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)。
-- 下游：[§6.3 可避免负担最小化](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)；[第十二章 §5 — 获授权角色、能力发展与贡献](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution)；**[corpus_systems.md](../../corpus_systems.md)，CS-4 — 关键系统尽责管理**。
+- 下游：[§6.3 可避免负担最小化](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)；[第十二章 §5 — 获授权角色、能力发展与贡献](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)；**[corpus_systems.md](../../corpus_systems.md)，CS-4 — 关键系统尽责管理**。
 - 下游：瞄准[第六章：基础权利](../../core_06_rights_part_a.md#chapter-six-foundational-rights)中能动性、参与、激励对齐、信息圈完整性、轨迹与反俘获审查的权利面；尤其 [Article IX：自决与能动性](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)、[Article XI：受影响方的系统参与、代表与正当程序](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)、[Article XII-D：激励对齐约束](../../core_06_rights_part_c.md#article-xii-d-incentive-alignment-constraint)、[Article XIV：信息圈完整性](../../core_06_rights_part_c.md#article-xiv-info-sphere-integrity)、[Article XVIII：轨迹与参与地位](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)，以及 [Article XXII：宪法解释、审查与反俘获保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)。
 - 尽责管理入口（非操作性）：有约束力的下一步声明：[操作性尽责管理声明](#operative-steward-statement-incentive)。支持性指针不得收窄它。
 
@@ -888,7 +888,7 @@
   - 违法或违宪的指挥行为；
   - 隐瞒；
   - 报复；
-  - [阻碍问责](../../core_08_standing_assessment.md#232-violation-event-types)（轨迹模型事件类型与[第十章 §5.11](../../core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) 指定路由 — 不是一项独立奖赏切割）；或
+  - [阻碍问责](../../core_09_standing_assessment.md#232-violation-event-types)（轨迹模型事件类型与[第十章 §5.11](../../core_11_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) 指定路由 — 不是一项独立奖赏切割）；或
   - 拒绝救济经核验的宪法伤害；或
 - 实质依赖于不当行为或其隐瞒的奖赏路径，包括：
   - 薪酬、奖金、股权、任命、晋升或任期；
@@ -896,7 +896,7 @@
   - 和解、赔偿、保险或豁免；或
   - 可比安排。
 
-**错位奖赏后果。** 通过上述被禁止路径获得的实质奖赏，在轨迹模型下须受没收与报告约束。阅读[第九章 §5.4 报告义务与排除](../../core_09_standing_integration.md#54-special-violation-rules)、[§5.4 没收与保留](../../core_09_standing_integration.md#54-special-violation-rules)，以及 [§5.4 纠正、记录与路由](../../core_09_standing_integration.md#54-special-violation-rules)。
+**错位奖赏后果。** 通过上述被禁止路径获得的实质奖赏，在轨迹模型下须受没收与报告约束。阅读[第九章 §5.4 报告义务与排除](../../core_10_standing_integration.md#54-special-violation-rules)、[§5.4 没收与保留](../../core_10_standing_integration.md#54-special-violation-rules)，以及 [§5.4 纠正、记录与路由](../../core_10_standing_integration.md#54-special-violation-rules)。
 
 <a id="1113-stewardship-and-operator-application"></a>
 ##### 11.1.3 尽责管理与运营者适用
@@ -923,7 +923,7 @@
 
 **细则住在何处：**
 
-- [第十二章 §5 — 获授权角色、能力发展与贡献](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution)，用于获授权角色、能力，以及尽责管理者与运营者进入真正要紧工作的路径；
+- [第十二章 §5 — 获授权角色、能力发展与贡献](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)，用于获授权角色、能力，以及尽责管理者与运营者进入真正要紧工作的路径；
 - [**CS-4**](../../corpus_systems/cs_04_critical_system_stewardship.md)（*关键系统尽责管理*），用于该项义务如何在高影响系统中被承担；以及
 - [§9 尽责管理与分布式理解](#9-stewardship-and-distributed-understanding)，用于亲手工作与共同体能力的原则层图景。
 
@@ -1057,8 +1057,8 @@
 
 - **审查与纠正义务：** [审查与纠正义务](../../core_05_band_continuity.md#review-and-correction-duty-constitutional)。
 - **强化审查：** [§13.1 市场集中阈值机制](#131-market-concentration-threshold-mechanism-adopter-tunable)与 [§13.2 亲竞争与反支配](#132-pro-competition-and-anti-domination)，凡集中或支配具有实质性之处。
-- **轨迹与违规机制：** [第八章 — 贡献、违规与轨迹模型](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)，凡经核验认定处于利害之处。
-- **反宪法不当行为：** [第十章 §5.1 基于集中的颠覆：标准互动](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)，凡集中或过程俘获构成反宪法不当行为之处。
+- **轨迹与违规机制：** [第八章 — 贡献、违规与轨迹模型](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)，凡经核验认定处于利害之处。
+- **反宪法不当行为：** [第十章 §5.1 基于集中的颠覆：标准互动](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)，凡集中或过程俘获构成反宪法不当行为之处。
 
 <a id="114-misalignment-correction-and-capture-response"></a>
 #### 11.4 错位纠正与俘获响应
@@ -1106,12 +1106,12 @@
 
 - **何时：** 错位经核验。
 - **不得：** 把来自错位或腐败路径的实质奖赏，当作可默默保留的轨迹信用或受庇护利益。
-- **纠正家园：** [第九章 §5.4 特别违规规则](../../core_09_standing_integration.md#54-special-violation-rules)统管：
+- **纠正家园：** [第九章 §5.4 特别违规规则](../../core_10_standing_integration.md#54-special-violation-rules)统管：
   - 没收；
   - 相称追回；
   - 知情接受报告；以及
   - 纠正。
-- **轨迹测量：** 本章不决定经核验贡献或违规有多好或多坏。那项评级是[第八章 §4 问题 2 — 它有多好或多坏？](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it)，使用[第八章 §4.1 贡献幅度输入维度](../../core_08_standing_assessment.md#41-contribution-magnitude-input-dimensions)与 [§4.2 违规严重性输入维度](../../core_08_standing_assessment.md#42-violation-severity-input-dimensions)。
+- **轨迹测量：** 本章不决定经核验贡献或违规有多好或多坏。那项评级是[第八章 §4 问题 2 — 它有多好或多坏？](../../core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it)，使用[第八章 §4.1 贡献幅度输入维度](../../core_09_standing_assessment.md#41-contribution-magnitude-input-dimensions)与 [§4.2 违规严重性输入维度](../../core_09_standing_assessment.md#42-violation-severity-input-dimensions)。
 
 <a id="115-contingent-claims-games-of-chance-and-event-contract-markets"></a>
 #### 11.5 或有请求、机会博弈与事件合约市场
@@ -1120,7 +1120,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[§11 激励对齐与系统俘获](#11-incentive-alignment-and-system-capture)（包括 [§11.1 对齐要求](#111-alignment-requirement)）；[第五章 *或有请求、事件合约市场、机会博弈与内部人优势*](../../core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent)。
-- 下游：[§11.3 错位检测](#113-misalignment-detection)；[§11.3.1 升级触发](#1131-escalation-triggers)；[§11.4 错位纠正与俘获响应](#114-misalignment-correction-and-capture-response)；[§6.2 认识披露约束](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)；[第七章 §3 整系统认证评价](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)；`corpus_systems.md` 分类与尽责管理缩放；`corpus_institutions.md` 冲突与完整性预期。
+- 下游：[§11.3 错位检测](#113-misalignment-detection)；[§11.3.1 升级触发](#1131-escalation-triggers)；[§11.4 错位纠正与俘获响应](#114-misalignment-correction-and-capture-response)；[§6.2 认识披露约束](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)；[第七章 §3 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)；`corpus_systems.md` 分类与尽责管理缩放；`corpus_institutions.md` 冲突与完整性预期。
 - 一并阅读：[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims) — **延续**宗旨（凡或有结算具有实质影响之处，持久、可质疑的解决路径与系统稳定）。
 - 一并阅读：[解决路径俘获](../../core_05_band_accountability.md#capture-of-resolution-pathways)、[胁迫与操纵](../../core_05_band_participation.md#coercion-and-manipulation-constitutional)，以及[可质疑性](../../core_05_band_accountability.md#contestability)；[内部人优势](../../core_05_band_accountability.md#insider-advantage)。
 - 分节（阅读顺序）：[§11.5.1 什么不得被奖赏](#1151-what-may-not-be-rewarded) · [§11.5.2 谁决定结果](#1152-who-decides-outcomes) · [§11.5.3 市场信号不是宪法证明](#1153-market-signals-are-not-constitutional-proof) · [§11.5.4 相称控件与实施保管](#1154-proportionate-controls-and-implementation-custody)。
@@ -1239,7 +1239,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 一并阅读：[必要性](../../core_05_band_accountability.md#necessity)；[相称性](../../core_05_band_accountability.md#proportionality)；[依赖](../../core_05_band_continuity.md#dependency)。
-- 下游：[第七章 §3 整系统认证评价](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)；[corpus_systems.md](../../corpus_systems.md)（*对具有实质影响之系统的分类与尽责管理缩放*）；[corpus_institutions.md](../../corpus_institutions.md)（*机构监督此类活动之处的冲突与程序规则*）。
+- 下游：[第七章 §3 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)；[corpus_systems.md](../../corpus_systems.md)（*对具有实质影响之系统的分类与尽责管理缩放*）；[corpus_institutions.md](../../corpus_institutions.md)（*机构监督此类活动之处的冲突与程序规则*）。
 
 </details>
 
@@ -1255,7 +1255,7 @@
   - [依赖](../../core_05_band_continuity.md#dependency)；
   - 脆弱性；以及
   - 系统稳定。
-- 与[第七章 §3 整系统认证评价](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)一致地评价误用，包括：
+- 与[第七章 §3 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)一致地评价误用，包括：
   - 为影响裁定事件而协调；以及
   - 尺度动态。
 
@@ -1273,7 +1273,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 一并阅读：[第九章 §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding)与 [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority)；[问责](core_05_apex_accountability_leg.md#accountability)；[corpus_systems.md](../../corpus_systems.md) **CS-7 — 正义保障、返还与康复**（*实体延续核验*）。
+- 一并阅读：[第九章 §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding)与 [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority)；[问责](core_05_apex_accountability_leg.md#accountability)；[corpus_systems.md](../../corpus_systems.md) **CS-7 — 正义保障、返还与康复**（*实体延续核验*）。
 - 一并阅读：[可归因行动](../../core_05_band_accountability.md#attributable-action-constitutional)与[归因完整性](../../core_05_band_accountability.md#attribution-integrity-constitutional) — 继受与形式结构变更不得击败对剩余义务的可靠归因。
 
 </details>
@@ -1518,7 +1518,7 @@
 - 一并阅读：[宪法四元](core_00_preamble.md#constitutional-tetrad) — 凡集中或支配击败声音、审查、应答义务或及时纠正之处，适用参与、监督、问责与及时性；[实质利害](core_00_preamble.md#material-stake)缩放（尤其 [§13.2 亲竞争与反支配](#132-pro-competition-and-anti-domination)）。
 - 一并阅读：[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims) — **延续**宗旨（可竞争、持久的生产条件）；**繁盛**宗旨（对生计、能动性与创新路径的公平通路）。
 - 上游：原则：[§12 共享系统能力](#12-shared-system-capacity) — 凡集中或支配掏空生产能力与效率主张之处，那些主张失败；[10. 尽责管理纪律下的治理](#10-governance-under-stewardship-discipline)。
-- 下游：[第十章 §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)（基于集中的颠覆）；[6. 过程冲突解决](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)（[§6.2.4 替代指标偏离失效](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)）。
+- 下游：[第十章 §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)（基于集中的颠覆）；[6. 过程冲突解决](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)（[§6.2.4 替代指标偏离失效](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)）。
 - 下游：**CJS-3.11.1 — 市场集中阈值设定纪律（采纳方可调）**（[§13.1](#131-market-concentration-threshold-mechanism-adopter-tunable) 操作性规则）；**CJS-3.11.2 — 反支配行为与救济目录**（[§13.2](#132-pro-competition-and-anti-domination) 操作性行为模式与救济）；**CJS-3.11.3 — 合并上限设定纪律（采纳方可调）**（[§13.3.2](#1332-ceiling-discipline-adopter-requirements) 操作性上限设定规则）。
 - 下游：塑造资源分配、公平补偿、集体组织、互操作、退出与反俘获审查的权利面；尤其 [Article III-D：劳动与经济底线](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)、[Article IV：资源分配、依赖与生态系统资助](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding)，以及 [Article XIX：互操作、可携、流动、庇护与退出完整性](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)。
 - 分节（阅读顺序）：[§13.1 市场集中阈值机制（采纳方可调）](#131-market-concentration-threshold-mechanism-adopter-tunable) · [§13.1.1 集中阈值触发（采纳方可调）](#1311-concentration-threshold-triggers-adopter-tunable) · [§13.2 亲竞争与反支配](#132-pro-competition-and-anti-domination) · [§13.3 合并上限](#133-consolidation-ceiling)。
@@ -1564,7 +1564,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[§13 市场结构](#13-market-structure)；[市场集中阈值](../../core_05_band_accountability.md#market-concentration-threshold-constitutional)。
-- 下游：**CJS-3.11.1 — 市场集中阈值设定纪律（采纳方可调）**（操作性阈值设定规则）；[§13.2 亲竞争与反支配](#132-pro-competition-and-anti-domination)；[§13.3 合并上限](#133-consolidation-ceiling)；[CJS-3.11.3 — 合并上限设定纪律（采纳方可调）](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable)（[§13.3.2](#1332-ceiling-discipline-adopter-requirements) 操作性上限设定规则）；[第八章 §4 问题 2 — 它有多好或多坏？](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it)；[第十章 §5.1 基于集中的颠覆](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
+- 下游：**CJS-3.11.1 — 市场集中阈值设定纪律（采纳方可调）**（操作性阈值设定规则）；[§13.2 亲竞争与反支配](#132-pro-competition-and-anti-domination)；[§13.3 合并上限](#133-consolidation-ceiling)；[CJS-3.11.3 — 合并上限设定纪律（采纳方可调）](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable)（[§13.3.2](#1332-ceiling-discipline-adopter-requirements) 操作性上限设定规则）；[第八章 §4 问题 2 — 它有多好或多坏？](../../core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it)；[第十章 §5.1 基于集中的颠覆](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
 - 尽责管理入口（非操作性）：有约束力的下一步声明：[操作性尽责管理声明](#operative-steward-statement-market-structure)。支持性指针不得收窄它。
 - 分节（阅读顺序）：[§13.1.1 集中阈值触发（采纳方可调）](#1311-concentration-threshold-triggers-adopter-tunable)。
 
@@ -1595,8 +1595,8 @@
 
 - **做：** 为 [§13 市场结构](#13-market-structure) 底线陈述原则层阈值方向。
 - **不做：** 决定经核验伤害有多严重，或发出不当行为指定。
-- **当集中被用来削弱本宪法时：** 该项不当行为在[第十章 §5.1 基于集中的颠覆](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)下被判断。
-- **在底线之上创造、维持或利用集中：** 通过第十章标准 3、4 与 6 进入指定审查，并且仅在[第八章 §4 问题 2 — 它有多好或多坏？](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it) 已经把该项经核验伤害评为第八章所记录的三项最严重分数之一之处。
+- **当集中被用来削弱本宪法时：** 该项不当行为在[第十章 §5.1 基于集中的颠覆](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)下被判断。
+- **在底线之上创造、维持或利用集中：** 通过第十章标准 3、4 与 6 进入指定审查，并且仅在[第八章 §4 问题 2 — 它有多好或多坏？](../../core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it) 已经把该项经核验伤害评为第八章所记录的三项最严重分数之一之处。
 
 **宪法底线：**
 
@@ -1664,7 +1664,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[§13 市场结构](#13-market-structure)；[市场结构](../../core_05_band_accountability.md#market-structure-constitutional)。
-- 下游：**CJS-3.11.2 — 反支配行为与救济目录**（操作性行为模式与救济）；[§13.3 合并上限](#133-consolidation-ceiling)；[第十章 §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
+- 下游：**CJS-3.11.2 — 反支配行为与救济目录**（操作性行为模式与救济）；[§13.3 合并上限](#133-consolidation-ceiling)；[第十章 §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
 - 一并阅读：[Article III-D：劳动与经济底线](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)（劳动流动权利底线）；[Article XIX：互操作、可携、流动、庇护与退出完整性](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)；[6. 过程冲突解决](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)（[必要性](../../core_05_band_accountability.md#necessity)、[相称性](../../core_05_band_accountability.md#proportionality)、[§6.2.4 替代指标偏离失效](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)）。
 - 分节（阅读顺序）：[§13.2.1 亲竞争义务（当做）](#1321-pro-competition-duties-dos) · [§13.2.2 反支配禁止（不当做）](#1322-anti-domination-prohibitions-donts) · [§13.2.3 救济](#1323-remedies)。
 
@@ -1917,7 +1917,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[§13.3 合并上限](#133-consolidation-ceiling)；[§13.3.1 合并风险（锁定套牢前的损害）](#1331-consolidation-risk-pre-lock-in-impairment)。
-- 下游：**CJS-3.11.3 — 合并上限设定纪律（采纳方可调）**（操作性上限设定规则）；[CJS-3.11.2 — 反支配行为与救济目录](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog)（上限突破时的救济路由）；[第十章 §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
+- 下游：**CJS-3.11.3 — 合并上限设定纪律（采纳方可调）**（操作性上限设定规则）；[CJS-3.11.2 — 反支配行为与救济目录](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog)（上限突破时的救济路由）；[第十章 §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
 
 </details>
 
@@ -1957,7 +1957,7 @@
 - 一并阅读：延续测量族（*韧性、可逆性与系统性风险*）。
 - 一并阅读：[宪法四元](core_00_preamble.md#constitutional-tetrad)、[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)与[实质利害](core_00_preamble.md#material-stake)缩放。
 - 一并阅读：[6. 过程冲突解决](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)、[§9 尽责管理与分布式理解](#9-stewardship-and-distributed-understanding)、[§10 尽责管理纪律下的治理](#10-governance-under-stewardship-discipline)，以及 [§11 激励对齐与系统俘获](#11-incentive-alignment-and-system-capture)。
-- 一并阅读：**[第七章 §3 整系统认证评价](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)** — 系统对齐认证的操作性整系统评价因素（**监督**四元腿下一项特别大型的审计过程；不是唯一的审计家园）。
+- 一并阅读：**[第七章 §3 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)** — 系统对齐认证的操作性整系统评价因素（**监督**四元腿下一项特别大型的审计过程；不是唯一的审计家园）。
 - 一并阅读：**Article XV**（*审计、透明与独立核验*）与[可审计性](../../core_05_band_oversight.md#auditability) — 第七章必须满足、并且并列审计模式也实施的审计底线。
 - 一并阅读：**[corpus_systems.md](../../corpus_systems.md)，CS-3 — 系统分类与处理**以及[按分类缩放的治理](../../core_05_band_oversight.md#classification-scaled-governance) — 按分类缩放的适用、记录形式、再分类触发与处理画像。
 - 上游：[§9 尽责管理与分布式理解](#9-stewardship-and-distributed-understanding)；[§10 尽责管理纪律下的治理](#10-governance-under-stewardship-discipline)；[6. 过程冲突解决](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)。
@@ -1994,8 +1994,8 @@
 - 解除条件。
 
 详细评价因素与认证记录由下列主责：
-- **[第七章 §3](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**；
-- **[第七章 §11](../../core_07_b_system_alignment_certification_record_process.md#11-certification-record)**；
+- **[第七章 §3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**；
+- **[第七章 §11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record)**；
 - **[corpus_systems.md](../../corpus_systems.md)，CS-3 — 系统分类与处理**。
 
 那项第七章过程：
@@ -2008,7 +2008,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：[8. 宪法解释](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)、[1. 宗旨与角色](core_01_a_values_principles.md#1-purpose-and-role)、[§9 尽责管理与分布式理解](#9-stewardship-and-distributed-understanding)、[6. 过程冲突解决](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)、[第七章 §3 整系统认证评价](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[5. 自由](core_01_a_values_principles.md#5-freedom-bounded-agency)，以及 [7. 禁止绝对覆盖](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)。
+- 上游：原则：[8. 宪法解释](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)、[1. 宗旨与角色](core_01_a_values_principles.md#1-purpose-and-role)、[§9 尽责管理与分布式理解](#9-stewardship-and-distributed-understanding)、[6. 过程冲突解决](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)、[第七章 §3 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[5. 自由](core_01_a_values_principles.md#5-freedom-bounded-agency)，以及 [7. 禁止绝对覆盖](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)。
 - 下游：其后各章应通过这些相互链接的第一章原则来阅读 — 包括在[序言](core_00_preamble.md#chapter-00-preamble--foundational-requirements)与 [§1 宗旨与角色](core_01_a_values_principles.md#1-purpose-and-role)中确立的[宪法四元](core_00_preamble.md#constitutional-tetrad)、[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)与[实质利害](core_00_preamble.md#material-stake)缩放。
 - 下游：[第六章：基础权利](../../core_06_rights_part_a.md#chapter-six-foundational-rights)必须通过本章的整合价值框架来阅读。
   - 有界解释、公共理由、质疑、外部审查与权利碰撞程序做关键下游工作。

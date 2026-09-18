@@ -9,7 +9,7 @@
 
 > Aşağıdaki içerik **yalnızca okur rehberidir**. Bu dosyada ya da başka bölümlerde bağlayıcı yükümlülükleri eklemez, çıkarmaz ya da daraltmaz.
 >
-> Bu dosya, [İngilizce Onuncu Bölüm, A Kısmı](../../core_10_a_misconduct_designation.md)nın bir **okur-dili pilotudur**. Algılayanlar Anayasasının bağlayıcı bir parçası **değildir**. İkinci bir anayasa **değildir**. Bir gönderim baskısı **değildir**. `SC-Corpus-2026.08.09`a **sabitlenmiştir**. Bu çeviri ile İngilizce asıl görünür biçimde ayrışırsa, numaralı [`core_10_a_misconduct_designation.md`](../../core_10_a_misconduct_designation.md) kazanır. Okuma sırası ve baskı üstverisi [README.md](../../README.md)de tutulur. Yöntem ve sözlük: [translations/tr/README.md](README.md).
+> Bu dosya, [İngilizce Onuncu Bölüm, A Kısmı](../../core_11_a_misconduct_designation.md)nın bir **okur-dili pilotudur**. Algılayanlar Anayasasının bağlayıcı bir parçası **değildir**. İkinci bir anayasa **değildir**. Bir gönderim baskısı **değildir**. `SC-Corpus-2026.08.09`a **sabitlenmiştir**. Bu çeviri ile İngilizce asıl görünür biçimde ayrışırsa, numaralı [`core_10_a_misconduct_designation.md`](../../core_11_a_misconduct_designation.md) kazanır. Okuma sırası ve baskı üstverisi [README.md](../../README.md)de tutulur. Yöntem ve sözlük: [translations/tr/README.md](README.md).
 >
 > **Onuncu Bölüm, A Kısmı**nı içerir — atama karar çerçevesi, ölçüt kümesi, İhlal Ekseni `s = 7–9` atama iliştirmesi, usul güvencesi korumaları, çare, önleme kilitleri ve gönüllü kamusal hesap verebilirlik ifadesi. **B Kısmı** — adlandırılmış örüntü uygulamaları ve ölçüt yönlendirmesi — [`core_10_b_misconduct_pattern_applications.md`](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)dedir.
 >
@@ -17,7 +17,7 @@
 > - **Ölçüm sınırı:** Yalnızca Sekizinci Bölüm birleşik orantılı LEQU ölçeği altında sayısal etki yuvasını atar. Bu bölüm o ölçümü **yerine koymaz** ya da değiştirmez.
 > - **Yer-değiştirmeme kuralı:** A Kısmı, B Kısmı örüntü kataloglarını, Dokuzuncu Bölüm güzergâh kilitlerini ya da On Üçüncü Bölümden On Beşinci Bölüme değişim-yolu geçerlilik kurallarını yeniden belirtmez.
 >
-> **s = 7, 8 ya da 9**daki anayasa karşıtı kötü davranış ölçekte **dörtlü ele geçirme**dir — [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims) altında [Süreklilik amacı](core_00_preamble.md#continuity) ile okuyun. Değişim-yolu geçerlilik etkileşimleri [On Üçüncü Bölümden On Beşinci Bölüme](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) sürer; adalet kısıtları [Altıncı Bölüm D Kısmı](core_06_rights_part_d.md)nda kalır.
+> **s = 7, 8 ya da 9**daki anayasa karşıtı kötü davranış ölçekte **dörtlü ele geçirme**dir — [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims) altında [Süreklilik amacı](core_00_preamble.md#continuity) ile okuyun. Değişim-yolu geçerlilik etkileşimleri [On Üçüncü Bölümden On Beşinci Bölüme](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) sürer; adalet kısıtları [Altıncı Bölüm D Kısmı](core_06_rights_part_d.md)nda kalır.
 >
 > **Yukarı:** Sekizinci Bölüm güzergâh ölçümü; Dokuzuncu Bölüm atama işaretçisi.
 > **Aşağı:** [B Kısmı](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications) (*örüntü uygulamaları*); son atamadan sonra Dokuzuncu Bölüm Güven Kilidi ve güzergâh-etki bütünleştirmesi; On Birinci Bölüm forum yönlendirmesi; On İkinci Bölüm yönetişim meşruiyeti sonuçları.
@@ -73,8 +73,8 @@
 - Yukarı: [Sekizinci Bölüm](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*Sorular 1 ve 2; doğrulanmış kayıtlar ve güzergâh ölçümü*).
 - Yukarı işaretçi: [Dokuzuncu Bölüm §2](core_09_standing_integration.md#2-integration-record-and-decision-order) nitelikli İhlal Ekseni yuvası 7–9 bulgularını yalnızca atama için buraya yönlendirir.
 - Bu dosya: İhlal Ekseni `s` = 7–9 için son anayasa karşıtı-kötü-davranış ataması; atama ölçütleri; usul güvencesi korumaları; On Üçüncü Bölümden On Beşinci Bölüme sınır. Adlandırılmış-örüntü yönlendirmesi [B Kısmı](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)nda sürer.
-- Aşağı: [Dokuzuncu Bölüm](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*son atamadan sonra Güven Kilidi ve güzergâh-etki bütünleştirmesi*); [On Birinci Bölüm](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum yönlendirmesi ve belgelendirme*); [On İkinci Bölüm](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) (*yönetişim meşruiyeti sonuçları*).
-- Birlikte oku: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [On Üçüncü Bölümden On Beşinci Bölüme](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) (*değişim-yolu davranışı ölçüt 1–4ü ima edebilir*).
+- Aşağı: [Dokuzuncu Bölüm](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*son atamadan sonra Güven Kilidi ve güzergâh-etki bütünleştirmesi*); [On Birinci Bölüm](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*forum yönlendirmesi ve belgelendirme*); [On İkinci Bölüm](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) (*yönetişim meşruiyeti sonuçları*).
+- Birlikte oku: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [On Üçüncü Bölümden On Beşinci Bölüme](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) (*değişim-yolu davranışı ölçüt 1–4ü ima edebilir*).
 
 </details>
 
@@ -100,7 +100,7 @@ Bu bölüm yalnızca doğrulanmış bir ihlal zaten İhlal Ekseni `s` = 7, 8 ya 
 - Korumalar ve disiplin: [§4](#4-due-process-safeguards-for-slot-assignment) (*Usul güvencesi korumaları, çare ve önleme*); [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*Çare ve düzeltme (anayasa karşıtı)*); [§4.2](#4-2-prevention-anti-constitutional-locks) (*Önleme — anayasa karşıtı kilitler*); [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Gönüllü kamusal hesap verebilirlik ifadesi (anayasa karşıtı)*).
 - Örüntü uygulamaları: [§5](core_10_b_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing) (*adlandırılmış örüntüler aynı atama ölçütlerine yönlenir*).
 - Değişim-yolu sınırı: [§1](#1-cross-chapter-discipline) (*On Üçüncü Bölümden On Beşinci Bölüme sınır*).
-- Birlikte oku: **geriletici aldatma** ve değişim-yolu davranışının **ölçüt 1–4**ü ima edebildiği yerde [On Üçüncü Bölümden On Beşinci Bölüme](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity).
+- Birlikte oku: **geriletici aldatma** ve değişim-yolu davranışının **ölçüt 1–4**ü ima edebildiği yerde [On Üçüncü Bölümden On Beşinci Bölüme](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity).
 - Dörtlü bacağı(ları): **katılım**, **gözetim**, **hesap verebilirlik**, **zamanındalık** (ölçekte dörtlü ele geçirme). Birincil amaç(lar): **Süreklilik** (birincil), **Gelişim**. Korumalara ve ağırlığa [maddi pay](core_00_preamble.md#material-stake) ölçeklemesi uygulanır.
 
 </details>
@@ -432,4 +432,4 @@ Nedeni düzeltmek, zarar görenleri onarma ödevini iptal etmez. Zarar görenler
 
 **Sonraki dosya (bu dilde):** [core_10_b_misconduct_pattern_applications.md](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)
 
-**Bağlayıcı asıl:** [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md)
+**Bağlayıcı asıl:** [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md)

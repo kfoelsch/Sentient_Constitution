@@ -6,15 +6,15 @@
 
 > محتوای زیر **فقط راهنمای خواننده** است. تکالیف الزام‌آور را در این پرونده یا فصل‌های دیگر نمی‌افزاید، کم نمی‌کند و تنگ نمی‌کند.
 >
-> این پرونده **آزمایش زبان خواننده** برای [فصل دوازدهم به انگلیسی](../../core_12_governance.md) است. **بخش الزام‌آور قانون اساسی حس‌مندان نیست**. **قانون اساسی دوم نیست**. **ویرایش ارسال نیست**. روی `SC-Corpus-2026.08.09` **قفل** شده است. اگر این ترجمه و اصل انگلیسی ناسازگار به‌نظر برسند، پروندهٔ شماره‌دار [`core_12_governance.md`](../../core_12_governance.md) برنده است. ترتیب خواندن و فرادادهٔ ویرایش در [README.md](../../README.md) نگه داشته می‌شود. روش و واژه‌نامه: [translations/fa/README.md](README.md).
+> این پرونده **آزمایش زبان خواننده** برای [فصل دوازدهم به انگلیسی](../../core_13_governance.md) است. **بخش الزام‌آور قانون اساسی حس‌مندان نیست**. **قانون اساسی دوم نیست**. **ویرایش ارسال نیست**. روی `SC-Corpus-2026.08.09` **قفل** شده است. اگر این ترجمه و اصل انگلیسی ناسازگار به‌نظر برسند، پروندهٔ شماره‌دار [`core_12_governance.md`](../../core_13_governance.md) برنده است. ترتیب خواندن و فرادادهٔ ویرایش در [README.md](../../README.md) نگه داشته می‌شود. روش و واژه‌نامه: [translations/fa/README.md](README.md).
 >
-> **فصل دوازدهم** را در بر دارد، **لایهٔ قرارداد قانون اساسی** — الزام‌های مشروعیت قانون اساسی و مدیریت مسئولانه برای اختیار حکمرانی، متمایز از **مشارکت سیستمی طرف‌های اثرپذیر** در نظام‌های ازپیش‌مجاز ([دیباچه](core_00_preamble.md#chapter-00-preamble--foundational-requirements)). کنترل‌های اعتبار اصلاح و پذیرش در [فصل‌های سیزدهم تا پانزدهم](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) ادامه می‌یابد. شماره‌گذاری فصل و ارجاع‌های متقابل با ابزار یکپارچه جور است.
+> **فصل دوازدهم** را در بر دارد، **لایهٔ قرارداد قانون اساسی** — الزام‌های مشروعیت قانون اساسی و مدیریت مسئولانه برای اختیار حکمرانی، متمایز از **مشارکت سیستمی طرف‌های اثرپذیر** در نظام‌های ازپیش‌مجاز ([دیباچه](core_00_preamble.md#chapter-00-preamble--foundational-requirements)). کنترل‌های اعتبار اصلاح و پذیرش در [فصل‌های سیزدهم تا پانزدهم](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) ادامه می‌یابد. شماره‌گذاری فصل و ارجاع‌های متقابل با ابزار یکپارچه جور است.
 
 
 >
 > **قبلی (این زبان):** [core_11_forum.md](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
 >
-> **بعدی (هنوز انگلیسی):** [core_13_non_regression.md](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)
+> **بعدی (هنوز انگلیسی):** [core_13_non_regression.md](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)
 > **قوس خواندن:** §0 مرز لایه → §1 مجوز/مشروعیت → §1.1 خانواده‌های سازوکار → §1.2 صلاحیت/کف‌های دموکراتیک → §1.3 طبقهٔ عزل → §2 فرهنگ یکپارچگی → §3 جهت مدیریت مسئولانه → §4 رأی/انتخاب جمعی → §5 نقش‌های مجاز
 </details>
 
@@ -65,7 +65,7 @@
 
 - بالادست: اصول: [فصل یکم §5 آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency)، [§9 مدیریت مسئولانه و فهم توزیع‌شده](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)، [5. حل تعارض فرایند](#6-process-conflict-resolution)؛ [فصل دوازدهم §0](#0-layer-boundary-for-this-chapter).
 - زیربخش‌ها: [§1.1](#11-mechanism-families-auditability-and-pluralism) (*خانواده‌های سازوکار، قابلیت حسابرسی، و کثرت‌گرایی*)؛ [§1.2](#12-eligibility-contested-selection-and-democratic-minimums) (*صلاحیت، انتخاب محل‌نزاع، و کف‌های دموکراتیک*)؛ [§1.3](#13-recall-class-pathways-and-mid-cycle-transfer-guardrails) (*مسیرهای طبقهٔ عزل و نرده‌های انتقال میان‌چرخه*).
-- پایین‌دست: تکالیف یکپارچگی، راهبرد، رأی، و نقش زیر [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale)؛ پذیرش و تصویب زیر [فصل پانزدهم](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity)؛ مشروعیت، مشارکت، و قابلیت اعتراض در فصل ششم — به‌ویژه [اصل XI-C: دروازهٔ مشروعیت و مشارکت ضدرمزی](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation)، [اصل XVIII: وضعیت ردپا و مشارکت](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)، و اصل‌های بیان، اجتماع، و انصاف رویه‌ای قفل‌شده در گلوله‌های عملیاتی زیر.
+- پایین‌دست: تکالیف یکپارچگی، راهبرد، رأی، و نقش زیر [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale)؛ پذیرش و تصویب زیر [فصل پانزدهم](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity)؛ مشروعیت، مشارکت، و قابلیت اعتراض در فصل ششم — به‌ویژه [اصل XI-C: دروازهٔ مشروعیت و مشارکت ضدرمزی](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation)، [اصل XVIII: وضعیت ردپا و مشارکت](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)، و اصل‌های بیان، اجتماع، و انصاف رویه‌ای قفل‌شده در گلوله‌های عملیاتی زیر.
 - خوانده شود با: قلاب‌های **پیکره** و **[corpus_systems.md](../../corpus_systems.md)** نام‌گذاری‌شده در این بخش ([corpus_systems.md](../../corpus_systems.md)، [corpus_institutions.md](../../corpus_institutions.md)).
 
 </details>
@@ -303,7 +303,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: سازوکار مشروعیت مستند [§1](#1-authorization-and-legitimacy-of-governing-authority)؛ هم‌راستایی مدیریت مسئولانه برای تصمیم‌های جمعی [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
-- پایین‌دست: زیربخش‌های [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice)؛ ابزارهای پذیرش، برتری، و عدم‌عقب‌گرد در [فصل‌های سیزدهم تا پانزدهم](../../core_13_non_regression.md) چنان‌که در یادداشت **ارجاع متقابل (فصل دوازدهم)** در پایان این بخش خلاصه شده.
+- پایین‌دست: زیربخش‌های [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice)؛ ابزارهای پذیرش، برتری، و عدم‌عقب‌گرد در [فصل‌های سیزدهم تا پانزدهم](../../core_14_non_regression.md) چنان‌که در یادداشت **ارجاع متقابل (فصل دوازدهم)** در پایان این بخش خلاصه شده.
 - خوانده شود با: [فصل ششم](core_06_rights_part_a.md#chapter-six-foundational-rights)، به‌ویژه [اصل XI: مشارکت سیستمی طرف‌های اثرپذیر، نمایندگی، و فرایند عادلانه](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) و زیراصل‌های وابستهٔ ارجاع‌شده در §4.
 
 </details>
@@ -480,6 +480,6 @@
 
 **پروندهٔ قبلی (این زبان):** [core_11_forum.md](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
 
-**پروندهٔ بعدی (هنوز انگلیسی):** [core_13_non_regression.md](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)
+**پروندهٔ بعدی (هنوز انگلیسی):** [core_13_non_regression.md](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)
 
-**اصل الزام‌آور:** [core_12_governance.md](../../core_12_governance.md)
+**اصل الزام‌آور:** [core_12_governance.md](../../core_13_governance.md)

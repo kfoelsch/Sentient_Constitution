@@ -9,7 +9,7 @@
 
 > المحتوى التالي **توجيه للقارئ فقط**. لا يضيف التزامات ملزمة ولا ينقصها ولا يضيّقها في هذا الملف أو في فصول أخرى.
 >
-> هذا الملف **تجريب بلغة القارئ** لـ[الفصل العاشر، الجزء أ بالإنجليزية](../../core_10_a_misconduct_designation.md). **ليس** جزءًا ملزمًا من دستور الكائنات الواعية. **ليس** دستورًا ثانيًا. **ليس** طبعة إرسال. وهو **مثبّت** على `SC-Corpus-2026.08.09`. إذا بدا أن هذه الترجمة والأصل الإنجليزي يختلفان، يفوز الملف المرقّم [`core_10_a_misconduct_designation.md`](../../core_10_a_misconduct_designation.md). ترتيب القراءة وبيانات الطبعة تُحفظ في [README.md](../../README.md). المنهج والمسرد: [translations/ar/README.md](README.md).
+> هذا الملف **تجريب بلغة القارئ** لـ[الفصل العاشر، الجزء أ بالإنجليزية](../../core_11_a_misconduct_designation.md). **ليس** جزءًا ملزمًا من دستور الكائنات الواعية. **ليس** دستورًا ثانيًا. **ليس** طبعة إرسال. وهو **مثبّت** على `SC-Corpus-2026.08.09`. إذا بدا أن هذه الترجمة والأصل الإنجليزي يختلفان، يفوز الملف المرقّم [`core_10_a_misconduct_designation.md`](../../core_11_a_misconduct_designation.md). ترتيب القراءة وبيانات الطبعة تُحفظ في [README.md](../../README.md). المنهج والمسرد: [translations/ar/README.md](README.md).
 >
 > يحتوي **الفصل العاشر، الجزء أ** — إطار قرار التسمية، ومجموعة المعايير، وإرفاق تسمية محور المخالفة `s = 7–9`، وضمانات الإجراءات الواجبة، والانتصاف، وأقفال المنع، والتعبير العلني الطوعي عن المساءلة. **الجزء ب** — تطبيقات النمط المسمّاة وتوجيه المعايير — في [`core_10_b_misconduct_pattern_applications.md`](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications).
 >
@@ -17,7 +17,7 @@
 > - **حدّ القياس:** الفصل الثامن وحده يعيّن خانة الأثر العددية تحت مقياسه LEQU النسبي الموحّد. هذا الفصل **لا** يحل محل ذلك القياس ولا يغيّره.
 > - **قاعدة منع النقل:** لا يعيد الجزء أ بيان فهارس نمط الجزء ب، ولا أقفال الوضعية في الفصل التاسع، ولا قواعد صحة مسار التغيير في الفصول من الثالث عشر إلى الخامس عشر.
 >
-> سوء السلوك المضاد للدستور عند **s = 7 أو 8 أو 9** هو **استيلاء الرباعية** على نطاق واسع — يُقرأ مع [مقصد الاستمرارية](core_00_preamble.md#continuity) تحت [المقصدين الدستوريين](core_00_preamble.md#two-constitutional-aims). تستمر تفاعلات صحة مسار التغيير في [الفصول من الثالث عشر إلى الخامس عشر](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)؛ وتبقى قيود العدل في [الفصل السادس، الجزء د](core_06_rights_part_d.md).
+> سوء السلوك المضاد للدستور عند **s = 7 أو 8 أو 9** هو **استيلاء الرباعية** على نطاق واسع — يُقرأ مع [مقصد الاستمرارية](core_00_preamble.md#continuity) تحت [المقصدين الدستوريين](core_00_preamble.md#two-constitutional-aims). تستمر تفاعلات صحة مسار التغيير في [الفصول من الثالث عشر إلى الخامس عشر](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)؛ وتبقى قيود العدل في [الفصل السادس، الجزء د](core_06_rights_part_d.md).
 >
 > **أعلى:** قياس الوضعية في الفصل الثامن؛ مؤشر التسمية في الفصل التاسع.
 > **أسفل:** [الجزء ب](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications) (*تطبيقات النمط*)؛ قفل الثقة في الفصل التاسع ودمج آثار الوضعية بعد التسمية النهائية؛ توجيه المنتدى في الفصل الحادي عشر؛ عواقب شرعية الحوكمة في الفصل الثاني عشر.
@@ -73,8 +73,8 @@
 - أعلى: [الفصل الثامن](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*السؤالان 1 و2؛ السجلات الموثّقة وقياس الوضعية*).
 - مؤشر أعلى: [الفصل التاسع §2](core_09_standing_integration.md#2-integration-record-and-decision-order) يوجّه إلى هنا إيجادات خانة 7–9 المؤهِّلة في محور المخالفة للتسمية فقط.
 - هذا الملف: التسمية النهائية لسوء السلوك المضاد للدستور لمحور المخالفة `s` = 7–9؛ معايير التسمية؛ ضمانات الإجراءات الواجبة؛ حدّ الفصول من الثالث عشر إلى الخامس عشر. يستمر توجيه النمط المسمّى في [الجزء ب](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications).
-- أسفل: [الفصل التاسع](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*قفل الثقة ودمج آثار الوضعية بعد التسمية النهائية*)؛ [الفصل الحادي عشر](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*توجيه المنتدى والتصديق*)؛ [الفصل الثاني عشر](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) (*عواقب شرعية الحوكمة*).
-- يُقرأ مع: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)؛ [الفصول من الثالث عشر إلى الخامس عشر](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) (*يجوز لسلوك مسار التغيير أن يستدعي المعايير 1–4*).
+- أسفل: [الفصل التاسع](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*قفل الثقة ودمج آثار الوضعية بعد التسمية النهائية*)؛ [الفصل الحادي عشر](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*توجيه المنتدى والتصديق*)؛ [الفصل الثاني عشر](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) (*عواقب شرعية الحوكمة*).
+- يُقرأ مع: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)؛ [الفصول من الثالث عشر إلى الخامس عشر](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) (*يجوز لسلوك مسار التغيير أن يستدعي المعايير 1–4*).
 
 </details>
 
@@ -100,7 +100,7 @@
 - الضمانات والانضباط: [§4](#4-due-process-safeguards-for-slot-assignment) (*ضمانات الإجراءات الواجبة والانتصاف والمنع*)؛ [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*الانتصاف والتصحيح (المضاد للدستور)*)؛ [§4.2](#4-2-prevention-anti-constitutional-locks) (*المنع — الأقفال المضادة للدستور*)؛ [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*التعبير العلني الطوعي عن المساءلة (المضاد للدستور)*).
 - تطبيقات النمط: [§5](core_10_b_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing) (*توجّه الأنماط المسمّاة إلى معايير التسمية نفسها*).
 - حدّ مسار التغيير: [§1](#1-cross-chapter-discipline) (*حدّ الفصول من الثالث عشر إلى الخامس عشر*).
-- يُقرأ مع: [الفصول من الثالث عشر إلى الخامس عشر](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) حيث يجوز أن يستدعي **الخداع التراجعي** وسلوك مسار التغيير **المعايير 1–4**.
+- يُقرأ مع: [الفصول من الثالث عشر إلى الخامس عشر](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) حيث يجوز أن يستدعي **الخداع التراجعي** وسلوك مسار التغيير **المعايير 1–4**.
 - رِجل الرباعية: **المشاركة**، **الرقابة**، **المساءلة**، **حسن التوقيت** (استيلاء الرباعية على نطاق واسع). المقصد(ان) الأولي(ان): **الاستمرارية** (أولي)، **الازدهار**. ينطبق قياس [الرهان المادي](core_00_preamble.md#material-stake) على الضمانات والجسامة.
 
 </details>
@@ -432,4 +432,4 @@
 
 **الملف التالي (هذه اللغة):** [core_10_b_misconduct_pattern_applications.md](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)
 
-**الأصل الملزم:** [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md)
+**الأصل الملزم:** [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md)

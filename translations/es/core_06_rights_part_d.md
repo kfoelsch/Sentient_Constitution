@@ -12,7 +12,7 @@
 >
 > **Anterior (este idioma):** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 >
-> **Siguiente (aún en inglés):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+> **Siguiente (aún en inglés):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 > **Arco de lectura:** Artículos XXIII–XXVI (justicia y emergencias, evolución constitucional, transición y rebasado de línea de base)
 
 </details>
@@ -79,7 +79,7 @@ La implementación de gobernanza adoptada provee escalamiento, proporcionalidad 
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origen: Principios: Capítulo Uno [§3.1 Seguridad](core_01_a_values_principles.md#31-safety-harm-constraint), [Capítulo Uno §6.1.5 Procedimiento de colisión de derechos](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [Capítulo Uno §9.6 Proceso antidegradante](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) y [§15 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- Destino: [Capítulo Nueve §4](../../core_09_standing_integration.md#4-violation-correction-and-prevention) (*Violación, corrección y prevención*); [Artículo XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Artículo XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule).
+- Destino: [Capítulo Nueve §4](../../core_10_standing_integration.md#4-violation-correction-and-prevention) (*Violación, corrección y prevención*); [Artículo XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Artículo XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule).
 - Leer con: [Crueldad](core_05_band_accountability.md#cruelty) (*hogar del Capítulo Cinco para el estándar de sufrimiento-como-fin del piso anticrueldad*).
 
 </details>
@@ -329,7 +329,7 @@ La [Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-constitutiona
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origen: Principios: Capítulo Uno [§6.1.5 Prueba de decisión de colisión de derechos](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [§7 Prohibición de anulación absoluta](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override) y [§15 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- Leer con: [Capítulo Nueve §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Expresión pública voluntaria de rendición de cuentas*); [Capítulo Diez §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Expresión pública voluntaria de rendición de cuentas (anticonstitucional)*).
+- Leer con: [Capítulo Nueve §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*Expresión pública voluntaria de rendición de cuentas*); [Capítulo Diez §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Expresión pública voluntaria de rendición de cuentas (anticonstitucional)*).
 
 </details>
 
@@ -358,7 +358,7 @@ La [Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-constitutiona
     - riesgo en curso;
     - asimetría material de poder;
     - falta de consentimiento de las partes afectadas.
-- **Expresión pública voluntaria de rendición de cuentas:** Se gobierna por el [Capítulo Nueve §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Expresión pública voluntaria de rendición de cuentas*) en general, y por el [Capítulo Diez §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Expresión pública voluntaria de rendición de cuentas (anticonstitucional)*) para la inconducta anticonstitucional verificada, sujeta a las reglas de colisión de derechos y de alineación restaurativa de este Artículo.
+- **Expresión pública voluntaria de rendición de cuentas:** Se gobierna por el [Capítulo Nueve §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*Expresión pública voluntaria de rendición de cuentas*) en general, y por el [Capítulo Diez §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Expresión pública voluntaria de rendición de cuentas (anticonstitucional)*) para la inconducta anticonstitucional verificada, sujeta a las reglas de colisión de derechos y de alineación restaurativa de este Artículo.
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### Artículo XXIV-C: Resolución oportuna y piso contra la demora
 <details>
@@ -394,7 +394,7 @@ La [Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-constitutiona
 - **Tres requisitos conjuntos:** Las vías materiales de resolución deben ser **oportunas**, **eficientes** y **justas** a la vez:
   - **Oportunas** — relojes acotados escalados al [enjuego material](core_00_preamble.md#material-stake) y a la urgencia del daño;
   - **Eficientes** — [Eficiencia constitucional](core_05_band_continuity.md#constitutional-efficiency) en el sentido del Capítulo Uno [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) — resultado constitucional real por tiempo senciente y esfuerzo compartido consumidos, no caudal bruto ni despeje de la lista de asuntos;
-  - **Justas** — el **Artículo XXIII-A** (*Objetivo y alcance de la justicia*), el **Artículo XXIII-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*) y el **Artículo XXIII-C** (*Regla menos restrictiva y acotada en el tiempo*) siguen aplicando por completo; moverse rápido no es una disculpa para omitir hechos comprobados ([Capítulo Ocho §3.1](../../core_08_standing_assessment.md#verified-inputs-for-standing)), castigar a la parte equivocada, ofrecer una reparación que no encaja con el daño, o cortar la impugnación y la apelación.
+  - **Justas** — el **Artículo XXIII-A** (*Objetivo y alcance de la justicia*), el **Artículo XXIII-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*) y el **Artículo XXIII-C** (*Regla menos restrictiva y acotada en el tiempo*) siguen aplicando por completo; moverse rápido no es una disculpa para omitir hechos comprobados ([Capítulo Ocho §3.1](../../core_09_standing_assessment.md#verified-inputs-for-standing)), castigar a la parte equivocada, ofrecer una reparación que no encaja con el daño, o cortar la impugnación y la apelación.
 - **Supervisión de foro y de cadena:** Lo siguiente, para las disputas enrutadas a través de los **capítulos Ocho a Once**, se gobierna por el [Capítulo Once §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), sujeto al piso oportuno, eficiente y justo de este Artículo:
   - clasificación de nivel de materialidad;
   - hitos de etapa de cadena;
@@ -431,7 +431,7 @@ Las reglas de gobernanza, los mecanismos de participación, los modelos de ponde
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origen: Principios: [Capítulo Uno §10.3 Justificación continua](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification); Capítulo Uno [§2 Objetivo fundacional: bienestar](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) y [§7 Prohibición de anulación absoluta](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- Origen: Principios: [Capítulo Uno §10.3 Justificación continua](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification); Capítulo Uno [§2 Objetivo fundacional: bienestar](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) y [§7 Prohibición de anulación absoluta](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 
 </details>
 
@@ -461,7 +461,7 @@ Las reglas de gobernanza, los mecanismos de participación, los modelos de ponde
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origen: Principios: Capítulo Uno [§3.2 Verdad](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) y [§7 Prohibición de anulación absoluta](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- Origen: Principios: Capítulo Uno [§3.2 Verdad](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) y [§7 Prohibición de anulación absoluta](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 
 </details>
 
@@ -517,7 +517,7 @@ La gobernanza transitoria existe para asegurar Continuidad y no regresión. **No
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origen: Principios: Capítulo Uno [§3.1 Seguridad](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Principios centrales de compensación](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) y [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Capítulo Nueve §5.4](../../core_09_standing_integration.md#54-special-violation-rules) (*decomiso de recompensa desalineada y deber de informe limitados durante la transición por este Artículo*); [Capítulo Siete — Certificación de alineación del sistema](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification).
+- Origen: Principios: Capítulo Uno [§3.1 Seguridad](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Principios centrales de compensación](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) y [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Capítulo Nueve §5.4](../../core_10_standing_integration.md#54-special-violation-rules) (*decomiso de recompensa desalineada y deber de informe limitados durante la transición por este Artículo*); [Capítulo Siete — Certificación de alineación del sistema](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -554,7 +554,7 @@ La gobernanza transitoria existe para asegurar Continuidad y no regresión. **No
   
   La deprecación, la retirada, la reversión, la migración o el reemplazo satisfacen esta viñeta archivando los componentes portadores de estado bajo **Preservación de evidencia** y la disciplina de no separación del **Artículo VII-D** (*Familia, relaciones de cuidado, autonomía reproductiva y no separación*). Esta es la [postura interina por defecto del Capítulo Uno §6.1](core_01_b_interaction_interpretation.md#default-interim-posture) — congelar los pasos irreversibles — aplicada al único paso irreversible que la operación heredada trata como rutinario. El costo de almacenamiento, la conveniencia de licenciamiento o el encuadre de ciclo de producto no satisfacen la **Necesidad** en su contra. Donde la retención misma cree un riesgo documentado de Seguridad, la medida compatible menos restrictiva es la custodia sellada bajo control independiente, no la destrucción.
 <a id="incentive-alignment-transition-carve-out"></a>
-- **Excepción transitoria de alineación de incentivos:** Durante las fases de transición aprobadas bajo el **Artículo XXVI** (*Gobernanza de transición, Continuidad y rebasado de línea de base*), leer con [Capítulo Siete — Certificación de alineación del sistema](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification). El [Capítulo Nueve §5.4 Deber de informe y exclusiones](../../core_09_standing_integration.md#54-special-violation-rules) y el [§5.4 Decomiso y retención](../../core_09_standing_integration.md#54-special-violation-rules) **no** aplican a las recompensas que fluyen a través de sistemas compartidos solo porque esos sistemas **aún no están certificados en alineación** o **aún no están plenamente alineados**, siempre que:
+- **Excepción transitoria de alineación de incentivos:** Durante las fases de transición aprobadas bajo el **Artículo XXVI** (*Gobernanza de transición, Continuidad y rebasado de línea de base*), leer con [Capítulo Siete — Certificación de alineación del sistema](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification). El [Capítulo Nueve §5.4 Deber de informe y exclusiones](../../core_10_standing_integration.md#54-special-violation-rules) y el [§5.4 Decomiso y retención](../../core_10_standing_integration.md#54-special-violation-rules) **no** aplican a las recompensas que fluyen a través de sistemas compartidos solo porque esos sistemas **aún no están certificados en alineación** o **aún no están plenamente alineados**, siempre que:
   - la operación se mantenga dentro de un **plan de transición documentado** y de criterios de puerta publicados bajo el **Artículo XXVI** (*Gobernanza de transición, Continuidad y rebasado de línea de base*);
   - el sistema avance hacia la [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) en una cadencia publicada, incluido el **reconocimiento condicional** o **diferido** donde el Capítulo Siete lo permita; y
   - los operadores y los beneficiarios no estén **ocultando a sabiendas** la desalineación, operando fuera del alcance de transición aprobado, ni usando el estatus de transición para eludir la certificación, la corrección o el informe protegido.
@@ -600,7 +600,7 @@ La gobernanza transitoria existe para asegurar Continuidad y no regresión. **No
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origen: Principios: Capítulo Uno [§3.1 Seguridad](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Principios centrales de compensación](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) y [§15 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- Leer con: [Capítulo Siete](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*certificación de alineación del sistema*); [capítulos Ocho a Once](../../README.md#standing-pipeline-and-forums) (*cadena de trayectoria y supervisión de foro*).
+- Leer con: [Capítulo Siete](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*certificación de alineación del sistema*); [capítulos Ocho a Once](../../README.md#standing-pipeline-and-forums) (*cadena de trayectoria y supervisión de foro*).
 
 </details>
 
@@ -624,7 +624,7 @@ La gobernanza transitoria existe para asegurar Continuidad y no regresión. **No
   Las vías de respaldo predefinidas, los criterios de reversión parcial y los procedimientos de rebasado de línea de base se gobiernan por [**CI-14**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*Gobernanza transitoria y evolución institucional*).
   - Los estados transitorios fallidos o degradados no deben convertirse en una nueva línea de base por persistencia sola.
 - **Reinicio material de línea de base:** Un reinicio material de línea de base actualiza hitos de transición, supuestos de riesgo, titularidad y planes de operación cuando fallan las puertas o la transición se estanca. Exige autoridad constitucionalmente válida y razones públicas documentadas. Debe preservar los **mínimos del Piso de Derechos** y no debe sustituir las reglas para cambiar lícitamente esta Constitución.
-- **Precondición de salud de verificación:** Reiniciar o continuar sobre una línea de base de transición revisada es incumplidor donde la [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) bajo el [Capítulo Siete](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) o la cadena de trayectoria bajo los [capítulos Ocho a Once](../../README.md#standing-pipeline-and-forums) es estructuralmente poco fiable — por ejemplo, donde la certificación bendice de forma rutinaria sistemas que derrotan de forma material los Pisos de Derechos, la medición de trayectoria diverge de forma rutinaria de la realidad material verificada, o las vías de impugnación y revisión no pueden corregir esas brechas dentro de un tiempo escalado por materialidad. En esas condiciones, la reparación de la maquinaria de verificación y medición tiene prioridad sobre la replanificación cosmética.
+- **Precondición de salud de verificación:** Reiniciar o continuar sobre una línea de base de transición revisada es incumplidor donde la [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) bajo el [Capítulo Siete](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) o la cadena de trayectoria bajo los [capítulos Ocho a Once](../../README.md#standing-pipeline-and-forums) es estructuralmente poco fiable — por ejemplo, donde la certificación bendice de forma rutinaria sistemas que derrotan de forma material los Pisos de Derechos, la medición de trayectoria diverge de forma rutinaria de la realidad material verificada, o las vías de impugnación y revisión no pueden corregir esas brechas dentro de un tiempo escalado por materialidad. En esas condiciones, la reparación de la maquinaria de verificación y medición tiene prioridad sobre la replanificación cosmética.
 - **Trazabilidad pública:** Las decisiones materiales de transición, las demoras, las reversiones y las determinaciones de reinicio de línea de base deben seguir siendo auditables con razón e implicaciones de riesgo.
   - La documentación sigue sujeta a restricciones de confidencialidad estrechas y justificadas.
   - Debe preservar explicación pública suficiente para evaluar si la demora, la reversión o la continuación está constitucionalmente justificada.
@@ -635,7 +635,7 @@ La gobernanza transitoria existe para asegurar Continuidad y no regresión. **No
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origen: Principios: Capítulo Uno [§3.1 Seguridad](core_01_a_values_principles.md#31-safety-harm-constraint), [Capítulo Uno §6.1.5 Procedimiento de colisión de derechos](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) y [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Origen: Principios: Capítulo Uno [§3.1 Seguridad](core_01_a_values_principles.md#31-safety-harm-constraint), [Capítulo Uno §6.1.5 Procedimiento de colisión de derechos](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) y [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Leer con: el **Artículo III-A** (*Supervivencia*); el **Artículo XII** (*Derecho a sistemas fiables y confiables*); el **Artículo X-B** (*Límite de daño colectivo e interfaz de ejecución*); el **Capítulo Ocho**; el **Capítulo Uno**, incluido el procedimiento de colisión de derechos del §6; la **pila de restricciones por defecto** en la apertura del Capítulo Seis (*interfaz de posesión y remediación*); [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) a **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*Gobernanza transitoria y evolución institucional*).
 
 </details>
@@ -653,7 +653,7 @@ La gobernanza transitoria existe para asegurar Continuidad y no regresión. **No
 
 *En términos sencillos: los sistemas y bienes incumplidores pueden remediarse durante la transición — pero solo a través de procesos estrechos, documentados y revisables que protegen los derechos básicos, barran el pretexto y no se convierten en represalia ni en señalamiento político. Cómo lo llevan a cabo las instituciones — roles, disparadores, custodia, apelaciones, fondos y mecánica de incentivos — vive en **CI-14.1** a **CI-14.3**; este artículo enuncia el piso constitucional que esos procedimientos no deben estrechar.*
 
-- **Piso de posesión:** Si ustedes poseen o usan algo de forma lícita, la transición no puede quitárselo por capricho. Pero la propiedad no es un escudo cuando dejar que ese activo siga operando mantiene claramente en marcha una violación constitucional conocida y de gran escala — después de que el [Capítulo Ocho](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) ha documentado la violación en el registro. En ese caso, la transición aún puede actuar para detener el daño, pero solo a través de las salvaguardas de este Artículo y de **CI-14.1** a **CI-14.3**.
+- **Piso de posesión:** Si ustedes poseen o usan algo de forma lícita, la transición no puede quitárselo por capricho. Pero la propiedad no es un escudo cuando dejar que ese activo siga operando mantiene claramente en marcha una violación constitucional conocida y de gran escala — después de que el [Capítulo Ocho](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) ha documentado la violación en el registro. En ese caso, la transición aún puede actuar para detener el daño, pero solo a través de las salvaguardas de este Artículo y de **CI-14.1** a **CI-14.3**.
 - **Remediación de alcance transitorio:** Un **plan de transición documentado** bajo el **Artículo XXVI-A** (*Adopción por fases y continuidad del Piso de Derechos*) puede autorizar la remediación acelerada de sistemas o bienes **materialmente incumplidores** solo durante la transición. El alcance operativo, las medidas permitidas y el procedimiento institucional se gobiernan por [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) a **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*Gobernanza transitoria y evolución institucional*), leídos con **CJS-3.6** (*cadena de control de custodia de bienes y de separación de incentivos*) y el **Artículo XII-E** (*Sistemas de alta autonomía e integridad de proceso mediada por herramientas*) donde aplique.
 - **Salvaguardas exigidas:** Cualquier programa de privación o de incentivo de alcance transitorio debe satisfacer:
   - el [**Principio de restricción menos restrictiva, acotada en el tiempo y revisable**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle), con **Necesidad** y **Proporcionalidad** demostrables;
@@ -674,6 +674,6 @@ La gobernanza transitoria existe para asegurar Continuidad y no regresión. **No
 
 **Archivo anterior:** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 
-**Siguiente archivo (aún en inglés):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+**Siguiente archivo (aún en inglés):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 
 **Original vinculante:** [core_06_rights_part_d.md](../../core_06_rights_part_d.md)

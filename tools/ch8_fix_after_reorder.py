@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fix Chapter Seven anchors after § reorder and update corpus cross-references."""
+"""Fix Chapter Eight anchors after § reorder and update corpus cross-references."""
 
 from __future__ import annotations
 
@@ -7,7 +7,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-CH7 = ROOT / "core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation"
+CH8 = ROOT / "core_08_a_system_alignment_certification_evaluation.md"
 
 HEADING_ANCHORS: list[tuple[str, list[str]]] = [
     (
@@ -105,17 +105,17 @@ ANCHOR_LINE = re.compile(r'^<a id="[^"]+"></a>\s*$', re.MULTILINE)
 # Longest-first explicit replacements for corpus-wide refs (old committed -> new).
 CORPUS_REPLACEMENTS: list[tuple[str, str]] = [
     # Fix double-remap errors from partial migration
-    ("Chapter Seven §11 Whole-System Certification Evaluation", "Chapter Seven §3 Whole-System Certification Evaluation"),
-    ("Chapter Seven §3 System Class Evaluation", "Chapter Seven §2 System Class Evaluation"),
-    ("Chapter Seven §16 Certification Record", "Chapter Seven §11 System Certification Record"),
-    ("Chapter Seven §16.2", "Chapter Seven §3.2"),
-    ("Chapter Seven §16.1", "Chapter Seven §3.1"),
+    ("Chapter Eight §11 Whole-System Certification Evaluation", "Chapter Eight §3 Whole-System Certification Evaluation"),
+    ("Chapter Eight §3 System Class Evaluation", "Chapter Eight §2 System Class Evaluation"),
+    ("Chapter Eight §16 Certification Record", "Chapter Eight §11 System Certification Record"),
+    ("Chapter Eight §16.2", "Chapter Eight §3.2"),
+    ("Chapter Eight §16.1", "Chapter Eight §3.1"),
     # Letter sections
-    ("Chapter Seven §6E", "Chapter Seven §10"),
-    ("Chapter Seven §6D", "Chapter Seven §9"),
-    ("Chapter Seven §6C", "Chapter Seven §8"),
-    ("Chapter Seven §6B", "Chapter Seven §7"),
-    ("Chapter Seven §6A", "Chapter Seven §6"),
+    ("Chapter Eight §6E", "Chapter Eight §10"),
+    ("Chapter Eight §6D", "Chapter Eight §9"),
+    ("Chapter Eight §6C", "Chapter Eight §8"),
+    ("Chapter Eight §6B", "Chapter Eight §7"),
+    ("Chapter Eight §6A", "Chapter Eight §6"),
     ("[§6E]", "[§10]"),
     ("[§6D]", "[§9]"),
     ("[§6C]", "[§8]"),
@@ -137,37 +137,37 @@ CORPUS_REPLACEMENTS: list[tuple[str, str]] = [
     ("[§5B]", "[§7]"),
     ("[§5A]", "[§6]"),
     # Named titles (old numbering)
-    ("Chapter Seven §11 Reopening", "Chapter Seven §16 Reopening"),
-    ("Chapter Seven §10 Relationship to Standing", "Chapter Seven §15 Relationship to Standing"),
-    ("Chapter Seven §9 Forum Supervision", "Chapter Seven §13 Forum Supervision"),
-    ("Chapter Seven §8 Supervisory Sequence", "Chapter Seven §14 Supervisory Sequence"),
-    ("Chapter Seven §7 Transparency", "Chapter Seven §12 Transparency"),
-    ("Chapter Seven §3 Certification Record", "Chapter Seven §11 System Certification Record"),
-    ("Chapter Seven §2 Whole-System Certification Evaluation", "Chapter Seven §3 Whole-System Certification Evaluation"),
-    ("Chapter Seven §4 System Class Evaluation", "Chapter Seven §2 System Class Evaluation"),
-    ("Chapter Seven §5 Data Types", "Chapter Seven §4 Data Types"),
-    ("Chapter Seven §6 Ecological Footprint", "Chapter Seven §5 Ecological Footprint"),
-    ("Chapter Seven §6A Proportionate Cross-System", "Chapter Seven §6 Proportionate Cross-System"),
-    ("Chapter Seven §6B Nondiscrimination", "Chapter Seven §7 Nondiscrimination"),
-    ("Chapter Seven §6C Accessibility", "Chapter Seven §8 Accessibility"),
-    ("Chapter Seven §6D Educational", "Chapter Seven §9 Educational"),
-    ("Chapter Seven §6E Trustworthiness", "Chapter Seven §10 Trustworthiness"),
+    ("Chapter Eight §11 Reopening", "Chapter Eight §16 Reopening"),
+    ("Chapter Eight §10 Relationship to Standing", "Chapter Eight §15 Relationship to Standing"),
+    ("Chapter Eight §9 Forum Supervision", "Chapter Eight §13 Forum Supervision"),
+    ("Chapter Eight §8 Supervisory Sequence", "Chapter Eight §14 Supervisory Sequence"),
+    ("Chapter Eight §7 Transparency", "Chapter Eight §12 Transparency"),
+    ("Chapter Eight §3 Certification Record", "Chapter Eight §11 System Certification Record"),
+    ("Chapter Eight §2 Whole-System Certification Evaluation", "Chapter Eight §3 Whole-System Certification Evaluation"),
+    ("Chapter Eight §4 System Class Evaluation", "Chapter Eight §2 System Class Evaluation"),
+    ("Chapter Eight §5 Data Types", "Chapter Eight §4 Data Types"),
+    ("Chapter Eight §6 Ecological Footprint", "Chapter Eight §5 Ecological Footprint"),
+    ("Chapter Eight §6A Proportionate Cross-System", "Chapter Eight §6 Proportionate Cross-System"),
+    ("Chapter Eight §6B Nondiscrimination", "Chapter Eight §7 Nondiscrimination"),
+    ("Chapter Eight §6C Accessibility", "Chapter Eight §8 Accessibility"),
+    ("Chapter Eight §6D Educational", "Chapter Eight §9 Educational"),
+    ("Chapter Eight §6E Trustworthiness", "Chapter Eight §10 Trustworthiness"),
     # Subsections whole-system 2.x -> 3.x
-    ("Chapter Seven §2.7", "Chapter Seven §3.7"),
-    ("Chapter Seven §2.6", "Chapter Seven §3.6"),
-    ("Chapter Seven §2.5", "Chapter Seven §3.5"),
-    ("Chapter Seven §2.4", "Chapter Seven §3.4"),
-    ("Chapter Seven §2.3", "Chapter Seven §3.3"),
-    ("Chapter Seven §2.2", "Chapter Seven §3.2"),
-    ("Chapter Seven §2.1", "Chapter Seven §3.1"),
+    ("Chapter Eight §2.7", "Chapter Eight §3.7"),
+    ("Chapter Eight §2.6", "Chapter Eight §3.6"),
+    ("Chapter Eight §2.5", "Chapter Eight §3.5"),
+    ("Chapter Eight §2.4", "Chapter Eight §3.4"),
+    ("Chapter Eight §2.3", "Chapter Eight §3.3"),
+    ("Chapter Eight §2.2", "Chapter Eight §3.2"),
+    ("Chapter Eight §2.1", "Chapter Eight §3.1"),
     # Record 3.x -> 11.x
-    ("Chapter Seven §3.3", "Chapter Seven §11.3"),
-    ("Chapter Seven §3.2", "Chapter Seven §11.2"),
-    ("Chapter Seven §3.1", "Chapter Seven §11.1"),
+    ("Chapter Eight §3.3", "Chapter Eight §11.3"),
+    ("Chapter Eight §3.2", "Chapter Eight §11.2"),
+    ("Chapter Eight §3.1", "Chapter Eight §11.1"),
     # Supervisory 8.x -> 14.x
-    ("Chapter Seven §8.3", "Chapter Seven §14.3"),
-    ("Chapter Seven §8.2", "Chapter Seven §14.2"),
-    ("Chapter Seven §8.1", "Chapter Seven §14.1"),
+    ("Chapter Eight §8.3", "Chapter Eight §14.3"),
+    ("Chapter Eight §8.2", "Chapter Eight §14.2"),
+    ("Chapter Eight §8.1", "Chapter Eight §14.1"),
     # Anchors in links
     ("#6e-trustworthiness-and-system-reliance-integrity-evaluation", "#10-trustworthiness-and-system-reliance-integrity-evaluation"),
     ("#6d-educational-capability-and-learning-system-integrity-evaluation", "#9-educational-capability-and-learning-system-integrity-evaluation"),
@@ -211,26 +211,26 @@ CORPUS_REPLACEMENTS: list[tuple[str, str]] = [
     ("#82-contestability-chain", "#142-contestability-chain"),
     ("#83-anti-bypass", "#143-anti-bypass"),
     # Bare section numbers via placeholders (old HEAD -> new)
-    ("Chapter Seven §11", "Chapter Seven ⟦S16⟧"),
-    ("Chapter Seven §10", "Chapter Seven ⟦S15⟧"),
-    ("Chapter Seven §9", "Chapter Seven ⟦S13⟧"),
-    ("Chapter Seven §8", "Chapter Seven ⟦S14⟧"),
-    ("Chapter Seven §7", "Chapter Seven ⟦S12⟧"),
-    ("Chapter Seven §6", "Chapter Seven ⟦S5⟧"),
-    ("Chapter Seven §5", "Chapter Seven ⟦S4⟧"),
-    ("Chapter Seven §4", "Chapter Seven ⟦S2⟧"),
-    ("Chapter Seven §3", "Chapter Seven ⟦S11⟧"),
-    ("Chapter Seven §2", "Chapter Seven ⟦S3⟧"),
-    ("⟦S16⟧", "Chapter Seven §16"),
-    ("⟦S15⟧", "Chapter Seven §15"),
-    ("⟦S13⟧", "Chapter Seven §13"),
-    ("⟦S14⟧", "Chapter Seven §14"),
-    ("⟦S12⟧", "Chapter Seven §12"),
-    ("⟦S5⟧", "Chapter Seven §5"),
-    ("⟦S4⟧", "Chapter Seven §4"),
-    ("⟦S2⟧", "Chapter Seven §2"),
-    ("⟦S11⟧", "Chapter Seven §11"),
-    ("⟦S3⟧", "Chapter Seven §3"),
+    ("Chapter Eight §11", "Chapter Eight ⟦S16⟧"),
+    ("Chapter Eight §10", "Chapter Eight ⟦S15⟧"),
+    ("Chapter Eight §9", "Chapter Eight ⟦S13⟧"),
+    ("Chapter Eight §8", "Chapter Eight ⟦S14⟧"),
+    ("Chapter Eight §7", "Chapter Eight ⟦S12⟧"),
+    ("Chapter Eight §6", "Chapter Eight ⟦S5⟧"),
+    ("Chapter Eight §5", "Chapter Eight ⟦S4⟧"),
+    ("Chapter Eight §4", "Chapter Eight ⟦S2⟧"),
+    ("Chapter Eight §3", "Chapter Eight ⟦S11⟧"),
+    ("Chapter Eight §2", "Chapter Eight ⟦S3⟧"),
+    ("⟦S16⟧", "Chapter Eight §16"),
+    ("⟦S15⟧", "Chapter Eight §15"),
+    ("⟦S13⟧", "Chapter Eight §13"),
+    ("⟦S14⟧", "Chapter Eight §14"),
+    ("⟦S12⟧", "Chapter Eight §12"),
+    ("⟦S5⟧", "Chapter Eight §5"),
+    ("⟦S4⟧", "Chapter Eight §4"),
+    ("⟦S2⟧", "Chapter Eight §2"),
+    ("⟦S11⟧", "Chapter Eight §11"),
+    ("⟦S3⟧", "Chapter Eight §3"),
 ]
 
 CORPUS_REPLACEMENTS.sort(key=lambda x: len(x[0]), reverse=True)
@@ -255,7 +255,7 @@ def insert_anchors_before_heading(text: str, heading_pattern: str, anchor_ids: l
     return pat.sub(rf"{block}\1", text, count=1)
 
 
-def fix_ch7_anchors(text: str) -> str:
+def fix_ch8_anchors(text: str) -> str:
     for heading_pat, anchors in HEADING_ANCHORS:
         text = strip_orphan_anchors_before_heading(text, heading_pat)
         text = insert_anchors_before_heading(text, heading_pat, anchors)
@@ -299,7 +299,7 @@ def iter_md_json() -> list[Path]:
         rel = path.relative_to(ROOT).as_posix()
         if rel.startswith("archive/") or rel.startswith("evidence/"):
             continue
-        if path.name == "ch7_fix_after_reorder.py":
+        if path.name == "ch8_fix_after_reorder.py":
             continue
         out.append(path)
     return sorted(out)
@@ -308,15 +308,15 @@ def iter_md_json() -> list[Path]:
 def main() -> None:
     changed: list[str] = []
 
-    ch7 = CH7.read_text(encoding="utf-8")
-    fixed = fix_ch7_anchors(ch7)
+    ch8 = CH8.read_text(encoding="utf-8")
+    fixed = fix_ch8_anchors(ch8)
     fixed = apply_replacements(fixed)
-    if fixed != ch7:
-        CH7.write_text(fixed, encoding="utf-8")
-        changed.append(CH7.name)
+    if fixed != ch8:
+        CH8.write_text(fixed, encoding="utf-8")
+        changed.append(CH8.name)
 
     for path in iter_md_json():
-        if path == CH7:
+        if path == CH8:
             continue
         old = path.read_text(encoding="utf-8")
         new = apply_replacements(old)

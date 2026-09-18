@@ -90,7 +90,7 @@ Leaf definitions under this aim inherit its scope unless they expressly narrow o
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Flourishing measurement family — link-only rollup; per-term tiers live on leaf definitions linked in the table below.
-- Read with: [Chapter Seven §3 Whole-System Certification Evaluation](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) where whole-system effects, survival-floor delivery, or **Safe Conditions** are materially in scope.
+- Read with: [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) where whole-system effects, survival-floor delivery, or **Safe Conditions** are materially in scope.
 
 </details>
 

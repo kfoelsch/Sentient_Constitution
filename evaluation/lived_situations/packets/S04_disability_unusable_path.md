@@ -5,7 +5,7 @@
 **Status:** current  
 **This packet is not binding.** It does not add, remove, or narrow duties. Illustrative facts only.
 
-Related pipeline illustration (not this sitting): [Vignette 2 — Employment discrimination / participation-barrier injury](../../../core_08-11_application_vignettes.md#2-employment-discrimination--participation-barrier-injury-tier-b). This packet is different: no verified workplace finding; the live fight is whether an unusable portal counts as abandoning a challenge.
+Related pipeline illustration (not this sitting): [Vignette 2 — Employment discrimination / participation-barrier injury](../../../core_09-12_application_vignettes.md#2-employment-discrimination--participation-barrier-injury-tier-b). This packet is different: no verified workplace finding; the live fight is whether an unusable portal counts as abandoning a challenge.
 
 ## Scale of the situation (not scored)
 
@@ -86,7 +86,7 @@ Beyond the sitting’s bounded reading path, open:
 - [Article XX](../../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship); [Article XX-A](../../../core_06_rights_part_c.md#article-xx-a-proportional-comprehensibility-right)
 - [CI-15](../../../corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md) — usable alternatives; supported decision-making is not a quiet takeover
 - [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) where the floor cut defeats work Jules can actually do
-- If you conclude a **forum family** is in play on these facts, [Chapter Eleven §3](../../../core_11_forum.md#3-transfer-consolidation-and-coordination) (*transfer and anti-self-judging*). Do not assume an employer contest desk is already a forum family.
+- If you conclude a **forum family** is in play on these facts, [Chapter Twelve §3](../../../core_12_forum.md#3-transfer-consolidation-and-coordination) (*transfer and anti-self-judging*). Do not assume an employer contest desk is already a forum family.
 
 Companions cannot narrow core. If a pointer and core diverge, core wins.
 

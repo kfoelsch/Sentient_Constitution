@@ -96,7 +96,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 下流：繁栄の測定ファミリー — リンクのみのロールアップ；用語ごとの段階は下の表にリンクされた葉定義に住む。
-- あわせて読む：[第七章 §3 システム全体の認証評価](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) において、システム全体の効果、生存の床の交付、または **安全な条件** が実質的に範囲内であるところ。
+- あわせて読む：[第七章 §3 システム全体の認証評価](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) において、システム全体の効果、生存の床の交付、または **安全な条件** が実質的に範囲内であるところ。
 
 </details>
 

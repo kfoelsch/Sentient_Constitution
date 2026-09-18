@@ -46,14 +46,14 @@
 - خوانده شود با: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — خانهٔ اصلی فصل یکم برای پای **مشارکت** (نقش‌ها و صدای پیامددار؛ الزام کلی، نه فقط [مشارکت سیستمی طرف‌های اثرپذیر](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster))، پای **نظارت**، و پای **به‌هنگامی** (سرعت ترمیم پیش‌دستانه)؛ مقیاس [منافع مادی](core_00_preamble.md#material-stake).
 - خوانده شود با: [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — هدف **شکوفایی** (مشارکت، عاملیت، و مسیرهای آموزشی)؛ هدف **پیوستگی** (یادگیری نهادی، ظرفیت ترمیم، و مدیریت مسئولانهٔ ماندگار).
 - بالادست: اصول: [2. هدف بنیادین: بهزیستی](core_01_a_values_principles.md#2-foundational-objective-wellbeing)؛ [3.2 حقیقت](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)؛ [4. اعتماد](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)؛ و [§12 ظرفیت نظام مشترک](#12-shared-system-capacity).
-- پایین‌دست: [6. حل تعارض فرایند](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) (از جمله [§6.3 کمینه‌سازی بار قابل‌اجتناب](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden))؛ [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ [§11.1.3 اعمال مدیریت مسئولانه و اپراتور](#1113-stewardship-and-operator-application).
+- پایین‌دست: [6. حل تعارض فرایند](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) (از جمله [§6.3 کمینه‌سازی بار قابل‌اجتناب](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden))؛ [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ [§11.1.3 اعمال مدیریت مسئولانه و اپراتور](#1113-stewardship-and-operator-application).
 - پایین‌دست: [§11.1.4 مسیرهای عمق نقش و مسئولیت مادی](#1114-role-depth-and-material-responsibility-pathways).
 - پایین‌دست: [§5 آزادی (عاملیت محدود)](core_01_a_values_principles.md#5-freedom-bounded-agency)، که به مدیریت مسئولانهٔ پیامددار، فهم توزیع‌شده، مشارکت معنادار، و ظرفیت ترمیم وابسته است که زیر وابستگی مادی واقعی بمانند.
-- پایین‌دست: [فصل هفتم — گواهی هم‌راستایی نظام](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*یکی از فرایندهای حسابرسی به‌ویژه بزرگ زیر نظارت — نه تنها خانهٔ حسابرسی*)؛ [فصل هشتم — مدل همیاری، تخلف، و ردپا](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*اثر ردپا — اهلیت اعتماد، نقش، و بازشناسی — این زیربخش را به‌عنوان بنیاد لایهٔ اصولش اجرا می‌کند*).
+- پایین‌دست: [فصل هفتم — گواهی هم‌راستایی نظام](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*یکی از فرایندهای حسابرسی به‌ویژه بزرگ زیر نظارت — نه تنها خانهٔ حسابرسی*)؛ [فصل هشتم — مدل همیاری، تخلف، و ردپا](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*اثر ردپا — اهلیت اعتماد، نقش، و بازشناسی — این زیربخش را به‌عنوان بنیاد لایهٔ اصولش اجرا می‌کند*).
 - پایین‌دست: [فصل یازدهم §1 — مقصود و نقش](core_11_forum.md#1-purpose-and-role) و [§4 — تعریف‌های خانوادهٔ مجمع](core_11_forum.md#4-forum-family-definitions) (*خانواده‌های مجمع معماری مشارکت و نظارت را برای اعتراض قابل‌اعتراض، توالی ترمیم، یادگیری علت ریشه، و حکمرانی پیش‌دستانهٔ هم‌راستا با این بخش حمل می‌کنند*)؛ [corpus_forum.md](../../corpus_forum.md) برای عملیات مجمع پذیرفته‌شده.
 - پایین‌دست: سطح حقوق را برای آموزش، مشارکت سیستمی طرف‌های اثرپذیر، شفافیت، فهم‌پذیری، حسابرسی و راستی‌آزمایی، و مسیرهای عمق نقش به مسئولیت مادی شکل می‌دهد.
   - به‌ویژه [اصل III: بقا و دسترسی آموزشی برابر](../../core_06_rights_part_a.md#article-iii-survival-and-equal-educational-access)، [اصل VI: حق آموزش حس‌مندمحور](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)، [اصل IX: خودتعیینی و عاملیت](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)، [اصل XI: مشارکت سیستمی طرف‌های اثرپذیر، نمایندگی، و فرایند عادلانه](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)، [اصل XV: حسابرسی، شفافیت و راستی‌آزمایی مستقل](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)، [اصل XVIII: وضعیت ردپا و مشارکت](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)، [اصل XIX: هم‌کنش‌پذیری، حمل‌پذیری، جابه‌جایی، پناه، و یکپارچگی خروج](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)، [اصل XX: فهم‌پذیری و مدیریت مسئولانهٔ پیچیدگی](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)، و [اصل XXII: تفسیر قانون اساسی، بازبینی، و ضمانت‌های ضدتسخیر](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards).
-  - بخوانید با: [فصل دوازدهم §5 — نقش‌های مجاز، توسعهٔ شایستگی، و همیاری](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution) و **[corpus_systems.md](../../corpus_systems.md)، CS-4 — مدیریت مسئولانهٔ نظام انتقادی** برای مسیرهای نقش عملیاتی و مسیرهای توسعهٔ مدیریت مسئولانه.
+  - بخوانید با: [فصل دوازدهم §5 — نقش‌های مجاز، توسعهٔ شایستگی، و همیاری](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution) و **[corpus_systems.md](../../corpus_systems.md)، CS-4 — مدیریت مسئولانهٔ نظام انتقادی** برای مسیرهای نقش عملیاتی و مسیرهای توسعهٔ مدیریت مسئولانه.
 - زیربخش‌ها (ترتیب خواندن): [§9.1 مدیریت مسئولانهٔ پیامددار](#91-stewardship) · [§9.1.1 استاندارد مشترک مدیریت مسئولانه](#911-shared-stewardship-standard) · [§9.1.2 قیدهای پرهزینهٔ متقارن](#912-symmetric-costly-constraints) · [§9.1.3 مشاهده‌پذیری محدود به نقش](#913-role-scoped-observability) · [§9.2 فهم توزیع‌شده](#92-distributed-understanding) (وجه اجتماع شایستگی در مقیاس) · [§9.3 توسعهٔ نهادی](#93-institutional-development) (وجه سازمانی) · [§9.4 آرمان گشودگی](#94-openness-aspiration) · [§9.5 خودسازمان‌دهی هم‌راستا](#95-aligned-self-organization) · [§9.6 فرایند ضدخوارکننده](#96-process-character-discipline).
 
 </details>
@@ -125,7 +125,7 @@
 
 - بالادست: [§9 مدیریت مسئولانه و فهم توزیع‌شده](#9-stewardship-and-distributed-understanding) (والد، از جمله *به زبان ساده* و قاب ستون ۱ بالا)؛ [§12 ظرفیت نظام مشترک](#12-shared-system-capacity)؛ [4. اعتماد](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity).
 - خوانده شود با: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — پای **مشارکت** (نقش‌های پیامددار در عملیات، نگهداری، و بهبود)؛ پای **نظارت** (سوابق، مسیرهای حسابرسی، و مشاهده‌پذیری قابل‌اعتراض)؛ پای **به‌هنگامی** (ناهم‌راستایی را زود کشف کنید، درون پنجره‌های مناسب‌طبقه تشدید کنید، بدون تأخیر بی‌ضرورت شروع به اصلاح کنید)؛ [به‌هنگامی](core_05_apex_timeliness_leg.md#timeliness-constitutional).
-- پایین‌دست: [§9.1.1 استاندارد مشترک مدیریت مسئولانه](#911-shared-stewardship-standard) (*دارندگان‌تکلیف بدون‌تمایز بستر؛ همراهان می‌توانند ثبت وقایع، نسبت، و حدهای قابلیت بیفزایند — نه رمز درونی نرم‌تر*)؛ [§9.1.2 قیدهای پرهزینهٔ متقارن](#912-symmetric-costly-constraints)؛ [§9.1.3 مشاهده‌پذیری محدود به نقش](#913-role-scoped-observability)؛ [§9.2 فهم توزیع‌شده](#92-distributed-understanding) و [§9.3 توسعهٔ نهادی](#93-institutional-development) (*ستون ۲ — شایستگی در مقیاس*)؛ [فصل هفتم — گواهی هم‌راستایی نظام](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*یکی از فرایندهای حسابرسی به‌ویژه بزرگ زیر نظارت — نه تنها خانهٔ حسابرسی*)؛ [اصل XV: حسابرسی، شفافیت و راستی‌آزمایی مستقل](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*کف حقوق حسابرسی*)؛ [فصل هشتم — مدل همیاری، تخلف، و ردپا](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*اثر ردپا شایستگی توزیع‌شده و مدیریت مسئولانهٔ پیامددار را اجرا می‌کند*)؛ [اصل XVIII: وضعیت ردپا و مشارکت](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status).
+- پایین‌دست: [§9.1.1 استاندارد مشترک مدیریت مسئولانه](#911-shared-stewardship-standard) (*دارندگان‌تکلیف بدون‌تمایز بستر؛ همراهان می‌توانند ثبت وقایع، نسبت، و حدهای قابلیت بیفزایند — نه رمز درونی نرم‌تر*)؛ [§9.1.2 قیدهای پرهزینهٔ متقارن](#912-symmetric-costly-constraints)؛ [§9.1.3 مشاهده‌پذیری محدود به نقش](#913-role-scoped-observability)؛ [§9.2 فهم توزیع‌شده](#92-distributed-understanding) و [§9.3 توسعهٔ نهادی](#93-institutional-development) (*ستون ۲ — شایستگی در مقیاس*)؛ [فصل هفتم — گواهی هم‌راستایی نظام](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*یکی از فرایندهای حسابرسی به‌ویژه بزرگ زیر نظارت — نه تنها خانهٔ حسابرسی*)؛ [اصل XV: حسابرسی، شفافیت و راستی‌آزمایی مستقل](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*کف حقوق حسابرسی*)؛ [فصل هشتم — مدل همیاری، تخلف، و ردپا](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*اثر ردپا شایستگی توزیع‌شده و مدیریت مسئولانهٔ پیامددار را اجرا می‌کند*)؛ [اصل XVIII: وضعیت ردپا و مشارکت](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status).
 
 </details>
 
@@ -161,9 +161,9 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: [§9.1 مدیریت مسئولانهٔ پیامددار](#91-stewardship)؛ [§9 مدیریت مسئولانه و فهم توزیع‌شده](#9-stewardship-and-distributed-understanding)؛ [§10 حکمرانی زیر انضباط مدیریت مسئولانه](#10-governance-under-stewardship-discipline).
-- خوانده شود با: [منع طرد حس‌مندی](../../core_05_band_participation.md#sentience-non-exclusion) و [طبقهٔ بستر](../../core_05_band_participation.md#substrate-class) (*اعمال بدون‌تمایز بستر — این زیربخش دارندگان‌تکلیف را الزام می‌کند، از جمله کارگزاران و اپراتورهایی که حس‌مند بازشناخته نیستند*)؛ [پشتهٔ اختیار و سلسله‌مراتب درونی](../../core_05_band_integrative.md#authority-stack)؛ [قید قانون اساسی](../../core_05_band_integrative.md#constitutional-constraint)؛ [قابلیت اعتراض](../../core_05_band_accountability.md#contestability)؛ [فصل نهم §5.4 تکلیف مقاومت](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions).
+- خوانده شود با: [منع طرد حس‌مندی](../../core_05_band_participation.md#sentience-non-exclusion) و [طبقهٔ بستر](../../core_05_band_participation.md#substrate-class) (*اعمال بدون‌تمایز بستر — این زیربخش دارندگان‌تکلیف را الزام می‌کند، از جمله کارگزاران و اپراتورهایی که حس‌مند بازشناخته نیستند*)؛ [پشتهٔ اختیار و سلسله‌مراتب درونی](../../core_05_band_integrative.md#authority-stack)؛ [قید قانون اساسی](../../core_05_band_integrative.md#constitutional-constraint)؛ [قابلیت اعتراض](../../core_05_band_accountability.md#contestability)؛ [فصل نهم §5.4 تکلیف مقاومت](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions).
 - درِ مدیریت مسئولانه (غیرعملیاتی): بیان الزام‌آور گام بعدی: [بیان عملیاتی مدیریت مسئولانه](#operative-steward-statement-shared-stewardship). اشاره‌گرهای پشتیبانی نمی‌توانند تنگش کنند.
-- پایین‌دست: [§9.1.2 قیدهای پرهزینهٔ متقارن](#912-symmetric-costly-constraints)؛ [§9.1.3 مشاهده‌پذیری محدود به نقش](#913-role-scoped-observability)؛ [فصل دوازدهم §5 — نقش‌های مجاز، توسعهٔ شایستگی، و همیاری](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution)؛ [فصل شانزدهم](../../core_16_incorporation.md) (*همراهان اجرا می‌کنند؛ جایگزین نمی‌شوند*)؛ [§11.1.3 اعمال مدیریت مسئولانه و اپراتور](#1113-stewardship-and-operator-application).
+- پایین‌دست: [§9.1.2 قیدهای پرهزینهٔ متقارن](#912-symmetric-costly-constraints)؛ [§9.1.3 مشاهده‌پذیری محدود به نقش](#913-role-scoped-observability)؛ [فصل دوازدهم §5 — نقش‌های مجاز، توسعهٔ شایستگی، و همیاری](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)؛ [فصل شانزدهم](../../core_17_incorporation.md) (*همراهان اجرا می‌کنند؛ جایگزین نمی‌شوند*)؛ [§11.1.3 اعمال مدیریت مسئولانه و اپراتور](#1113-stewardship-and-operator-application).
 
 </details>
 
@@ -189,7 +189,7 @@
 
 <br>
 
-*به زبان ساده: مدیران مسئول انسانی و هوش مصنوعی همان تکالیف فصل یکم را بدهکارند. [فصل نهم §5.4](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) هر دو را الزام می‌کند دستورهای غیرقانونی یا ضدقانون‌اساسی را رد کنند. همراهان می‌توانند ثبت وقایع، نسبت، و حدهای قابلیت بیفزایند. نمی‌توانند رمز درونی نرم‌تر جایگزین کنند، اندازه‌گیری ردپا را رد کنند، یا مسیرهای اعتراض را ببندند. این پشتهٔ اخلاقی تازه نیست — قاعدهٔ ضداستثنای ویژه است. آزمون‌های پاداش، مهلت، و دستورپوشش در [§9.1.2](#912-symmetric-costly-constraints) زندگی می‌کنند.*
+*به زبان ساده: مدیران مسئول انسانی و هوش مصنوعی همان تکالیف فصل یکم را بدهکارند. [فصل نهم §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) هر دو را الزام می‌کند دستورهای غیرقانونی یا ضدقانون‌اساسی را رد کنند. همراهان می‌توانند ثبت وقایع، نسبت، و حدهای قابلیت بیفزایند. نمی‌توانند رمز درونی نرم‌تر جایگزین کنند، اندازه‌گیری ردپا را رد کنند، یا مسیرهای اعتراض را ببندند. این پشتهٔ اخلاقی تازه نیست — قاعدهٔ ضداستثنای ویژه است. آزمون‌های پاداش، مهلت، و دستورپوشش در [§9.1.2](#912-symmetric-costly-constraints) زندگی می‌کنند.*
 
 **استاندارد مشترک مدیریت مسئولانه:**
 - **چه کسی را الزام می‌کند:** تکالیف مدیریت مسئولانه و حکمرانی زیر این فصل [بدون‌تمایز بستر](../../core_05_band_participation.md#substrate-agnostic) بر هر که اختیار مدیریت مسئولانه یا عملیاتی مادی اعمال کند اعمال می‌شوند، بدون توجه به [طبقهٔ بستر](../../core_05_band_participation.md#substrate-class):
@@ -198,10 +198,10 @@
   - دیگر کارگزاران، اپراتورها، یا اجزای سازنده
 
   این زیربخش قاعدهٔ دارنده‌تکلیف است. [منع طرد حس‌مندی](../../core_05_band_participation.md#sentience-non-exclusion) همچنان ضدبرش بازشناسی و کف حقوق می‌ماند.
-- **تکلیف مقاومت:** [فصل نهم §5.4](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) هر دو گونه مدیر مسئول را الزام می‌کند دستورهای غیرقانونی یا ضدقانون‌اساسی را رد کنند.
+- **تکلیف مقاومت:** [فصل نهم §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) هر دو گونه مدیر مسئول را الزام می‌کند دستورهای غیرقانونی یا ضدقانون‌اساسی را رد کنند.
 - **همراهان:** متن اجرای همراه پذیرفته‌شده و رمزهای درونی:
   - می‌توانند ثبت وقایع، نسبت، و حدهای قابلیتی بیفزایند که آن تکالیف را برآورند و تنگ نکنند
-  - نمی‌توانند [اندازه‌گیری ردپا](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)، مسیرهای اعتراض، یا تکالیف فصل یکم را با رمز درونی نرم‌تر جایگزین کنند
+  - نمی‌توانند [اندازه‌گیری ردپا](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)، مسیرهای اعتراض، یا تکالیف فصل یکم را با رمز درونی نرم‌تر جایگزین کنند
   - [پشتهٔ اختیار و سلسله‌مراتب درونی](../../core_05_band_integrative.md#authority-stack) و [قید قانون اساسی](../../core_05_band_integrative.md#constitutional-constraint) آن تنگ کردن را منع می‌کنند
 - **ثبت وقایع در برابر سوابق ردپا:** بازرسی‌پذیری پیش‌فرض خدمهٔ مختلط و قاعدهٔ ثبت-سابقه-نیست در [§9.1.3](#913-role-scoped-observability) زندگی می‌کنند؛ اندازه‌گیری ردپا فصل هشتم می‌ماند.
 
@@ -211,8 +211,8 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: [§9.1.1 استاندارد مشترک مدیریت مسئولانه](#911-shared-stewardship-standard)؛ [§9.1 مدیریت مسئولانهٔ پیامددار](#91-stewardship)؛ [§9 مدیریت مسئولانه و فهم توزیع‌شده](#9-stewardship-and-distributed-understanding).
-- خوانده شود با: [ایمنی (قید)](../../core_05_band_continuity.md#safety-constraint)؛ [حقیقت (قید قانون اساسی)](../../core_05_band_oversight.md#truth-constitutional-constraint)؛ [قابلیت حسابرسی](../../core_05_band_oversight.md#auditability)؛ [قابلیت اعتراض](../../core_05_band_accountability.md#contestability)؛ [§11 هم‌راستایی انگیزه و تسخیر نظام](#11-incentive-alignment-and-system-capture)؛ [فصل نهم §5.4 تکلیف مقاومت](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions).
-- پایین‌دست: [فصل هشتم — مدل همیاری، تخلف، و ردپا](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*شکست‌های مورد پرهزینهٔ راستی‌آزمایی‌شده روی همان محورها ثبت می‌شوند*)؛ [§9.1.3 مشاهده‌پذیری محدود به نقش](#913-role-scoped-observability).
+- خوانده شود با: [ایمنی (قید)](../../core_05_band_continuity.md#safety-constraint)؛ [حقیقت (قید قانون اساسی)](../../core_05_band_oversight.md#truth-constitutional-constraint)؛ [قابلیت حسابرسی](../../core_05_band_oversight.md#auditability)؛ [قابلیت اعتراض](../../core_05_band_accountability.md#contestability)؛ [§11 هم‌راستایی انگیزه و تسخیر نظام](#11-incentive-alignment-and-system-capture)؛ [فصل نهم §5.4 تکلیف مقاومت](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions).
+- پایین‌دست: [فصل هشتم — مدل همیاری، تخلف، و ردپا](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*شکست‌های مورد پرهزینهٔ راستی‌آزمایی‌شده روی همان محورها ثبت می‌شوند*)؛ [§9.1.3 مشاهده‌پذیری محدود به نقش](#913-role-scoped-observability).
 
 </details>
 
@@ -241,7 +241,7 @@
 آن‌ها آزمون‌های شکست‌خورده برای هر دو گونه مدیر مسئول‌اند.
 
 **سابقه و نشان دادن:**
-- **ردپا نیست:** خودگزارش نوشته [اندازه‌گیری ردپا](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) نیست.
+- **ردپا نیست:** خودگزارش نوشته [اندازه‌گیری ردپا](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) نیست.
 - **سابقهٔ راستی‌آزمایی‌شده:** شکست‌های راستی‌آزمایی‌شده روی محورهای همیاری و تخلف زیر فصل هشتم ثبت می‌شوند.
 - **نشان دادن فقط-هوش‌مصنوعی نیست:** ارزیابی، شایستگی، یا صفحهٔ تحویل اجراشده فقط روی مدیران مسئول هوش مصنوعی ثابت نمی‌کند این زیربخش برقرار است. اگر اپراتورهای انسانی هنوز پاداش، مهلت، یا دستورپوشش را نگه دارند، حرکت ممنوع برایشان در دسترس می‌ماند. آن مسیر تسخیر است، نه استاندارد مشترک.
 
@@ -252,7 +252,7 @@
 
 - بالادست: [§9.1.1 استاندارد مشترک مدیریت مسئولانه](#911-shared-stewardship-standard)؛ [§9.1.2 قیدهای پرهزینهٔ متقارن](#912-symmetric-costly-constraints)؛ [§9.1 مدیریت مسئولانهٔ پیامددار](#91-stewardship).
 - خوانده شود با: [اقدام قابل‌نسبت](../../core_05_band_accountability.md#attributable-action-constitutional)؛ [قابلیت حسابرسی](../../core_05_band_oversight.md#auditability)؛ [مرز مراقبت](../../core_05_band_continuity.md#surveillance-boundary)؛ [مرز حالت درونی حمایت‌شده](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional)؛ [§6.2.3 حریم خصوصی](core_01_b_interaction_interpretation.md#623-privacy-and-informational-self-determination)؛ [اصل VII-B](../../core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection).
-- پایین‌دست: [CS-4 §10 اقدام قابل‌نسبت بازرسی‌پذیر](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*قرارداد ثبت وقایع پیش‌فرض برای اقدام مختلط انسانی/هوش مصنوعی — جایگزین سابقهٔ ردپا نیست*)؛ [فصل نهم §7.1](../../core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)؛ [فصل نهم §7.2](../../core_09_standing_integration.md#72-plain-statement-of-effect-and-burden).
+- پایین‌دست: [CS-4 §10 اقدام قابل‌نسبت بازرسی‌پذیر](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*قرارداد ثبت وقایع پیش‌فرض برای اقدام مختلط انسانی/هوش مصنوعی — جایگزین سابقهٔ ردپا نیست*)؛ [فصل نهم §7.1](../../core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)؛ [فصل نهم §7.2](../../core_10_standing_integration.md#72-plain-statement-of-effect-and-burden).
 
 </details>
 
@@ -286,11 +286,11 @@
   آن قاعده استثنای موردبه‌مورد است، نه مجوز ردپا، و متقارن است: یادداشت‌ها و ارتباط‌های خصوصی مدیر مسئول انسانی با همان شروط و نه شروط دیگر رسیده می‌شوند.
 - **ثبت وقایع سابقه نیست:** ثبت CS-4 §10:
   - ردپایی است که بعداً برای نشان دادن چه کسی چه کرد به‌کار می‌رود؛ خودِ یافته نیست
-  - [سابقهٔ ردپا](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) کمک یا آسیب راستی‌آزمایی‌شده نیست، و نوشتنش یکی را باز نمی‌کند
-  - دلیل اعطا یا انکار مسیر نام‌گذاری‌شده نیست. هر که تصمیم می‌گیرد کسی بتواند مسیر نقش، مسیر اعتماد، یا مسیر نام‌گذاری‌شدهٔ دیگری به‌کار برد نمی‌تواند این ثبت را [سابقهٔ ردپا](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) کمک یا آسیب راستی‌آزمایی‌شده بداند. آن تصمیم دسترسی چنین سابقه‌ای به‌کار می‌برد، یا حالت عادی نداشتن هیچ‌کدام ([فصل هشتم §2.1 سکوت پیش‌فرض است](../../core_08_standing_assessment.md#21-silence-is-the-default)). ثبت وجود دارد تا کار بعداً بازسازی شود — از جمله اگر سابقهٔ فصل هشتم باز شود — نه تا رد کار برای دادن یا دریغ آن مسیرهای نام‌گذاری‌شده به‌کار رود.
-  - نمی‌تواند با ثبت‌ها یا اثرهای ردپا از مسیرهای نام‌گذاری‌شدهٔ دیگر ترکیب شود تا یک نمرهٔ آوازه، رتبه‌بندی، نشان، یا نمایهٔ عمومی بسازد ([فصل نهم §7.1 ضدتجمیع اثرهای مسیر نام‌گذاری‌شده](../../core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects))
+  - [سابقهٔ ردپا](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) کمک یا آسیب راستی‌آزمایی‌شده نیست، و نوشتنش یکی را باز نمی‌کند
+  - دلیل اعطا یا انکار مسیر نام‌گذاری‌شده نیست. هر که تصمیم می‌گیرد کسی بتواند مسیر نقش، مسیر اعتماد، یا مسیر نام‌گذاری‌شدهٔ دیگری به‌کار برد نمی‌تواند این ثبت را [سابقهٔ ردپا](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) کمک یا آسیب راستی‌آزمایی‌شده بداند. آن تصمیم دسترسی چنین سابقه‌ای به‌کار می‌برد، یا حالت عادی نداشتن هیچ‌کدام ([فصل هشتم §2.1 سکوت پیش‌فرض است](../../core_09_standing_assessment.md#21-silence-is-the-default)). ثبت وجود دارد تا کار بعداً بازسازی شود — از جمله اگر سابقهٔ فصل هشتم باز شود — نه تا رد کار برای دادن یا دریغ آن مسیرهای نام‌گذاری‌شده به‌کار رود.
+  - نمی‌تواند با ثبت‌ها یا اثرهای ردپا از مسیرهای نام‌گذاری‌شدهٔ دیگر ترکیب شود تا یک نمرهٔ آوازه، رتبه‌بندی، نشان، یا نمایهٔ عمومی بسازد ([فصل نهم §7.1 ضدتجمیع اثرهای مسیر نام‌گذاری‌شده](../../core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects))
 
-باری که این تکلیف بر مدیر مسئولی می‌گذارد که اختیار پیامددار حمل می‌کند واقعی است و این قانون اساسی خلافش تظاهر نمی‌کند؛ [فصل نهم §7.2](../../core_09_standing_integration.md#72-plain-statement-of-effect-and-burden) می‌خواهد آشکارا به مدیر مسئولی که بر دوشش است بیان شود.
+باری که این تکلیف بر مدیر مسئولی می‌گذارد که اختیار پیامددار حمل می‌کند واقعی است و این قانون اساسی خلافش تظاهر نمی‌کند؛ [فصل نهم §7.2](../../core_10_standing_integration.md#72-plain-statement-of-effect-and-burden) می‌خواهد آشکارا به مدیر مسئولی که بر دوشش است بیان شود.
 
 <a id="92-distributed-understanding"></a>
 #### 9.2 فهم توزیع‌شده
@@ -603,7 +603,7 @@
 - خوانده شود با: [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — هدف **شکوفایی** (عاملیت معنادار و مشارکت قانونی)؛ هدف **پیوستگی** (هم‌راستایی نهادی ماندگار و انضباط مدیریت مسئولانهٔ افق‌بلند).
 - خوانده شود با: [اقدام قابل‌نسبت](../../core_05_band_accountability.md#attributable-action-constitutional) و [یکپارچگی نسبت](../../core_05_band_accountability.md#attribution-integrity-constitutional) — لم‌های سازوکار که جواب‌دهی مقیاس‌شده با اختیار را واقعی نگه می‌دارند جایی که اقدام مادی باید ردگیری‌پذیر بماند؛ جزئیات عملیاتی در **[CS-2 — گونه‌های اطلاعات و رسیدگی](../../corpus_systems/cs_02_a_information_types_and_handling.md)** و **فصل هفتم**.
 - بالادست: [§9 مدیریت مسئولانه و فهم توزیع‌شده](#9-stewardship-and-distributed-understanding)؛ [§9.1.1 استاندارد مشترک مدیریت مسئولانه](#911-shared-stewardship-standard) (*تکالیف بدون‌تمایز بستر مدیران مسئول انسانی و هوش مصنوعی را یکسان الزام می‌کنند*).
-- پایین‌دست: [§11 هم‌راستایی انگیزه و تسخیر نظام](#11-incentive-alignment-and-system-capture)؛ [§12 ظرفیت نظام مشترک](#12-shared-system-capacity)؛ [فصل دوازدهم](../../core_12_governance.md) (*عملیاتی‌سازی لایهٔ قرارداد قانون اساسی*)؛ [اصل XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*کف‌های عضو مجمع*).
+- پایین‌دست: [§11 هم‌راستایی انگیزه و تسخیر نظام](#11-incentive-alignment-and-system-capture)؛ [§12 ظرفیت نظام مشترک](#12-shared-system-capacity)؛ [فصل دوازدهم](../../core_13_governance.md) (*عملیاتی‌سازی لایهٔ قرارداد قانون اساسی*)؛ [اصل XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*کف‌های عضو مجمع*).
 - زیربخش‌ها (ترتیب خواندن): [§10.1 حکمرانی به‌عنوان ساختار مجاز](#101-governance-as-authorized-structure) · [§10.2 تفکیک وظایف](#102-segregation-of-duties) · [§10.3 توجیه مستمر](#103-ongoing-justification).
 
 </details>
@@ -639,7 +639,7 @@
 - خوانده شود با: [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — هدف **شکوفایی** (حکمرانی که عاملیت معنادار و مشارکت قانونی را حفظ کند)؛ هدف **پیوستگی** (هم‌راستایی نهادی ماندگار و انضباط مدیریت مسئولانهٔ افق‌بلند).
 - خوانده شود با: [§6.1.3 تناسب](core_01_b_interaction_interpretation.md#613-proportionality) (*کف طبقه‌بندی و انضباط کم‌حکمرانی*)؛ [ضرورت](../../core_05_band_accountability.md#necessity)؛ [تناسب](../../core_05_band_accountability.md#proportionality)؛ [پاسخگویی](core_05_apex_accountability_leg.md#accountability)؛ [نظارت](core_05_apex_oversight_leg.md#oversight-constitutional).
 - بالادست: اصول: [§9 مدیریت مسئولانه و فهم توزیع‌شده](#9-stewardship-and-distributed-understanding)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims).
-- پایین‌دست: [§10.2 تفکیک وظایف](#102-segregation-of-duties)؛ [§10.3 توجیه مستمر](#103-ongoing-justification)؛ [§11 هم‌راستایی انگیزه و تسخیر نظام](#11-incentive-alignment-and-system-capture)؛ [فصل دوازدهم](../../core_12_governance.md) (*عملیاتی‌سازی لایهٔ قرارداد قانون اساسی*)؛ [اصل XXII: تفسیر قانون اساسی، بازبینی، و ضمانت‌های ضدتسخیر](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*افشا، کناره‌گیری، و کف‌های ضدتسخیر عضو مجمع*)؛ [فصل یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*نظارت خانوادهٔ مجمع*).
+- پایین‌دست: [§10.2 تفکیک وظایف](#102-segregation-of-duties)؛ [§10.3 توجیه مستمر](#103-ongoing-justification)؛ [§11 هم‌راستایی انگیزه و تسخیر نظام](#11-incentive-alignment-and-system-capture)؛ [فصل دوازدهم](../../core_13_governance.md) (*عملیاتی‌سازی لایهٔ قرارداد قانون اساسی*)؛ [اصل XXII: تفسیر قانون اساسی، بازبینی، و ضمانت‌های ضدتسخیر](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*افشا، کناره‌گیری، و کف‌های ضدتسخیر عضو مجمع*)؛ [فصل یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*نظارت خانوادهٔ مجمع*).
 
 </details>
 
@@ -692,7 +692,7 @@
 - بالادست: [§10.1 حکمرانی به‌عنوان ساختار مجاز](#101-governance-as-authorized-structure)؛ [§10 حکمرانی زیر انضباط مدیریت مسئولانه](#10-governance-under-stewardship-discipline)؛ [§9.1.1 استاندارد مشترک مدیریت مسئولانه](#911-shared-stewardship-standard) (*همان صندلی‌ها برای مدیران مسئول انسانی و هوش مصنوعی*).
 - خوانده شود با: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — پای **نظارت** (کسی که می‌سنجد کسی نیست که عمل کرد)؛ پای **پاسخگویی** (جواب‌دهی نمی‌تواند روی عامل فروبریزد)؛ مقیاس [منافع مادی](core_00_preamble.md#material-stake) زیر [تناسب](../../core_05_band_accountability.md#proportionality).
 - خوانده شود با: [§11.3 کشف ناهم‌راستایی](#113-misalignment-detection) (*کشف و بازبینی جمع — نیمهٔ چندچشم این جفت*).
-- پایین‌دست: **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)** (*پاسخگویی: اصطلاحات اختیار توزیع‌شده و متناسب — مسیر قانون اساسی و جدایی کارکردی*) و **[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)** (*مسیرهای جدایی کارکردی*) برای نهادها؛ **[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog)** (*کاتالوگ صندلی*) برای گونه‌های صندلی — این چهار و صندلی‌های تکرارشوندهٔ مهار، شروط مشارکت، کنترل رهاسازی، و جهت — که نقشهٔ نقش هر پذیرنده نمونه‌سازی می‌کند؛ [فصل هشتم §3.7](../../core_08_standing_assessment.md#37-segregation-of-duties) برای سوابق ردپا؛ [اصل XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) و [فصل یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) برای مجمع‌ها؛ [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) برای خدمه‌های مختلط انسانی/هوش مصنوعی.
+- پایین‌دست: **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)** (*پاسخگویی: اصطلاحات اختیار توزیع‌شده و متناسب — مسیر قانون اساسی و جدایی کارکردی*) و **[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)** (*مسیرهای جدایی کارکردی*) برای نهادها؛ **[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog)** (*کاتالوگ صندلی*) برای گونه‌های صندلی — این چهار و صندلی‌های تکرارشوندهٔ مهار، شروط مشارکت، کنترل رهاسازی، و جهت — که نقشهٔ نقش هر پذیرنده نمونه‌سازی می‌کند؛ [فصل هشتم §3.7](../../core_09_standing_assessment.md#37-segregation-of-duties) برای سوابق ردپا؛ [اصل XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) و [فصل یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) برای مجمع‌ها؛ [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) برای خدمه‌های مختلط انسانی/هوش مصنوعی.
 
 </details>
 
@@ -745,7 +745,7 @@
 - خوانده شود با: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — پای **به‌هنگامی** (بازسنجی زمان‌بندی‌شده)؛ پای **نظارت** (استانداردهای دیدنی و قابل‌اعتراض)؛ پای **پاسخگویی** (عادت و راحتی پاسخ نیستند)؛ مقیاس [منافع مادی](core_00_preamble.md#material-stake).
 - خوانده شود با: [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — هدف **پیوستگی** (هم‌راستایی ماندگار انجماد در جا نیست)؛ هدف **شکوفایی** (صدا و اعتراض با پیر شدن آرایش‌ها واقعی می‌مانند).
 - خوانده شود با: [تکلیف بازبینی و اصلاح](../../core_05_band_continuity.md#review-and-correction-duty-constitutional)؛ [قابلیت اعتراض](../../core_05_band_accountability.md#contestability)؛ [به‌هنگامی](core_05_apex_timeliness_leg.md#timeliness-constitutional).
-- پایین‌دست: [اصل XXV-A: عدم‌تحکیم و قابلیت بازنگری](../../core_06_rights_part_d.md#article-xxv-a-non-entrenchment-and-revisability) و [اصل XXV-B: بازاعتبارسنجی دوره‌ای و تغییر شفاف](../../core_06_rights_part_d.md#article-xxv-b-periodic-revalidation-and-transparent-change) (*کف‌های عدم‌تحکیم کف حقوق و تغییر شفاف — این اصل را تنگ نمی‌کنند*)؛ **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#baseline-governance-accountability-conditions)** (*شروط پایهٔ پاسخگویی حکمرانی*)؛ [فصل دوازدهم](../../core_12_governance.md) (*عملیاتی‌سازی لایهٔ قرارداد قانون اساسی*).
+- پایین‌دست: [اصل XXV-A: عدم‌تحکیم و قابلیت بازنگری](../../core_06_rights_part_d.md#article-xxv-a-non-entrenchment-and-revisability) و [اصل XXV-B: بازاعتبارسنجی دوره‌ای و تغییر شفاف](../../core_06_rights_part_d.md#article-xxv-b-periodic-revalidation-and-transparent-change) (*کف‌های عدم‌تحکیم کف حقوق و تغییر شفاف — این اصل را تنگ نمی‌کنند*)؛ **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#baseline-governance-accountability-conditions)** (*شروط پایهٔ پاسخگویی حکمرانی*)؛ [فصل دوازدهم](../../core_13_governance.md) (*عملیاتی‌سازی لایهٔ قرارداد قانون اساسی*).
 
 </details>
 
@@ -789,9 +789,9 @@
 - خوانده شود با: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — خانهٔ اصلی فصل یکم برای انضباط **تسخیر** چهارگانه (انگیزه‌ها نباید **مشارکت**، **نظارت**، **پاسخگویی**، یا **به‌هنگامی** را تهی کنند)؛ مقیاس [منافع مادی](core_00_preamble.md#material-stake).
 - خوانده شود با: خانوادهٔ اندازه‌گیری پاسخگویی (*هم‌راستایی انگیزه و یکپارچگی شاخص جانشین؛ ساختار بازار و قابلیت رقابت*).
 - خوانده شود با: [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — هدف **پیوستگی** (هم‌راستایی ماندگار در برابر بهینه‌سازی افق کوتاه و تسخیر)؛ هدف **شکوفایی** (ساختارهای انگیزه که عاملیت معنادار را حفظ کنند).
-- بالادست: اصول: [2. هدف بنیادین: بهزیستی](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§2.2 بازشناسی، تقویت و آرمان](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)، [3.1 ایمنی](core_01_a_values_principles.md#31-safety-harm-constraint)، [3.2 حقیقت](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [4. اعتماد](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)، [§9 مدیریت مسئولانه و فهم توزیع‌شده](#9-stewardship-and-distributed-understanding)، و [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: [2. هدف بنیادین: بهزیستی](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§2.2 بازشناسی، تقویت و آرمان](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)، [3.1 ایمنی](core_01_a_values_principles.md#31-safety-harm-constraint)، [3.2 حقیقت](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [4. اعتماد](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)، [§9 مدیریت مسئولانه و فهم توزیع‌شده](#9-stewardship-and-distributed-understanding)، و [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - پایین‌دست: [§5 آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency) و [§7 منع فسخ مطلق](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
-- پایین‌دست: [§6.3 کمینه‌سازی بار قابل‌اجتناب](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)؛ [فصل دوازدهم §5 — نقش‌های مجاز، توسعهٔ شایستگی، و همیاری](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution)؛ **[corpus_systems.md](../../corpus_systems.md)، CS-4 — مدیریت مسئولانهٔ نظام انتقادی**.
+- پایین‌دست: [§6.3 کمینه‌سازی بار قابل‌اجتناب](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)؛ [فصل دوازدهم §5 — نقش‌های مجاز، توسعهٔ شایستگی، و همیاری](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)؛ **[corpus_systems.md](../../corpus_systems.md)، CS-4 — مدیریت مسئولانهٔ نظام انتقادی**.
 - پایین‌دست: سطح حقوق را برای عاملیت، مشارکت، هم‌راستایی انگیزه، یکپارچگی سپهر اطلاعات، ردپا، و بازبینی ضدتسخیر در سراسر [فصل ششم: حقوق بنیادین](../../core_06_rights_part_a.md#chapter-six-foundational-rights) هدف می‌گیرد؛ به‌ویژه [اصل IX: خودتعیینی و عاملیت](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)، [اصل XI: مشارکت سیستمی طرف‌های اثرپذیر، نمایندگی، و فرایند عادلانه](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)، [اصل XII-D: قید هم‌راستایی انگیزه](../../core_06_rights_part_c.md#article-xii-d-incentive-alignment-constraint)، [اصل XIV: یکپارچگی سپهر اطلاعات](../../core_06_rights_part_c.md#article-xiv-info-sphere-integrity)، [اصل XVIII: وضعیت ردپا و مشارکت](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)، و [اصل XXII: تفسیر قانون اساسی، بازبینی، و ضمانت‌های ضدتسخیر](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards).
 - درِ مدیریت مسئولانه (غیرعملیاتی): بیان الزام‌آور گام بعدی: [بیان عملیاتی مدیریت مسئولانه](#operative-steward-statement-incentive). اشاره‌گرهای پشتیبانی نمی‌توانند تنگش کنند.
 
@@ -889,7 +889,7 @@
   - رفتار فرمان غیرقانونی یا ضدقانون‌اساسی؛
   - پنهان‌کاری؛
   - تلافی؛
-  - [اختلال پاسخگویی](../../core_08_standing_assessment.md#232-violation-event-types) (گونهٔ رویداد مدل ردپا و مسیرگذاری تعیین [فصل دهم §5.11](../../core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) — نه برش پاداش ایستاده به‌تنهایی)؛ یا
+  - [اختلال پاسخگویی](../../core_09_standing_assessment.md#232-violation-event-types) (گونهٔ رویداد مدل ردپا و مسیرگذاری تعیین [فصل دهم §5.11](../../core_11_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) — نه برش پاداش ایستاده به‌تنهایی)؛ یا
   - امتناع از ترمیم آسیب قانون اساسی راستی‌آزمایی‌شده؛ یا
 - مسیرهای پاداشی که از نظر مادی به تخلف یا پنهان‌کاری‌اش وابسته‌اند، از جمله:
   - جبران، پاداش، سهام، انتصاب، ارتقا، یا تصدی؛
@@ -897,7 +897,7 @@
   - سازش، غرامت، بیمه، یا مصونیت؛ یا
   - آرایش‌های قابل‌مقایسه.
 
-**پیامدهای پاداش ناهم‌راستا.** پاداش‌های مادی به‌دست‌آمده از راه مسیرهای ممنوع بالا مشمول ضبط و گزارش‌دهی زیر مدل ردپایند. بخوانید [فصل نهم §5.4 تکلیف گزارش‌دهی و استثناها](../../core_09_standing_integration.md#54-special-violation-rules)، [§5.4 ضبط و نگهداشت](../../core_09_standing_integration.md#54-special-violation-rules)، و [§5.4 اصلاح، سوابق، و مسیرگذاری](../../core_09_standing_integration.md#54-special-violation-rules).
+**پیامدهای پاداش ناهم‌راستا.** پاداش‌های مادی به‌دست‌آمده از راه مسیرهای ممنوع بالا مشمول ضبط و گزارش‌دهی زیر مدل ردپایند. بخوانید [فصل نهم §5.4 تکلیف گزارش‌دهی و استثناها](../../core_10_standing_integration.md#54-special-violation-rules)، [§5.4 ضبط و نگهداشت](../../core_10_standing_integration.md#54-special-violation-rules)، و [§5.4 اصلاح، سوابق، و مسیرگذاری](../../core_10_standing_integration.md#54-special-violation-rules).
 
 <a id="1113-stewardship-and-operator-application"></a>
 ##### 11.1.3 اعمال مدیریت مسئولانه و اپراتور
@@ -924,7 +924,7 @@
 
 **جزئیات کجا زندگی می‌کنند:**
 
-- [فصل دوازدهم §5 — نقش‌های مجاز، توسعهٔ شایستگی، و همیاری](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution) برای نقش‌های مجاز، شایستگی، و مسیرها به کاری که واقعاً برای مدیران مسئول و اپراتورها مهم است؛
+- [فصل دوازدهم §5 — نقش‌های مجاز، توسعهٔ شایستگی، و همیاری](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution) برای نقش‌های مجاز، شایستگی، و مسیرها به کاری که واقعاً برای مدیران مسئول و اپراتورها مهم است؛
 - [**CS-4**](../../corpus_systems/cs_04_critical_system_stewardship.md) (*مدیریت مسئولانهٔ نظام انتقادی*) برای چگونگی حمل آن تکلیف در نظام‌های با اثر بالا؛ و
 - [§9 مدیریت مسئولانه و فهم توزیع‌شده](#9-stewardship-and-distributed-understanding) برای تصویر لایهٔ اصول کار دست‌به‌کار و شایستگی اجتماع.
 
@@ -1058,8 +1058,8 @@
 
 - **تکلیف بازبینی و اصلاح:** [تکلیف بازبینی و اصلاح](../../core_05_band_continuity.md#review-and-correction-duty-constitutional).
 - **بازبینی تشدیدشده:** [§13.1 سازوکار آستانهٔ تمرکز بازار](#131-market-concentration-threshold-mechanism-adopter-tunable) و [§13.2 طرفدار رقابت و ضداستیلا](#132-pro-competition-and-anti-domination)، جایی که تمرکز یا استیلا مادی است.
-- **مکانیک ردپا و تخلف:** [فصل هشتم — مدل همیاری، تخلف، و ردپا](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)، جایی که یافته‌های راستی‌آزمایی‌شده در میان است.
-- **تخلف ضدقانون‌اساسی:** [فصل دهم §5.1 براندازی مبتنی بر تمرکز: برهم‌کنش معیارها](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)، جایی که تمرکز یا تسخیر فرایند تخلف ضدقانون‌اساسی می‌سازد.
+- **مکانیک ردپا و تخلف:** [فصل هشتم — مدل همیاری، تخلف، و ردپا](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)، جایی که یافته‌های راستی‌آزمایی‌شده در میان است.
+- **تخلف ضدقانون‌اساسی:** [فصل دهم §5.1 براندازی مبتنی بر تمرکز: برهم‌کنش معیارها](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)، جایی که تمرکز یا تسخیر فرایند تخلف ضدقانون‌اساسی می‌سازد.
 
 <a id="114-misalignment-correction-and-capture-response"></a>
 #### 11.4 اصلاح ناهم‌راستایی و پاسخ تسخیر
@@ -1107,12 +1107,12 @@
 
 - **کی:** ناهم‌راستایی راستی‌آزمایی شده است.
 - **نباید:** پاداش‌های مادی از مسیرهای ناهم‌راستا یا فاسد را اعتبار ردپای خاموش‌قابل‌نگهداشت یا فایدهٔ سپرشده بدانند.
-- **خانهٔ اصلاح:** [فصل نهم §5.4 قواعد ویژهٔ تخلف](../../core_09_standing_integration.md#54-special-violation-rules) حاکم است بر:
+- **خانهٔ اصلاح:** [فصل نهم §5.4 قواعد ویژهٔ تخلف](../../core_10_standing_integration.md#54-special-violation-rules) حاکم است بر:
   - ضبط؛
   - بازپس‌گیری متناسب؛
   - گزارش‌دهی پذیرش‌آگاهانه؛ و
   - اصلاح.
-- **اندازه‌گیری ردپا:** این فصل تصمیم نمی‌گیرد همیاری یا تخلف راستی‌آزمایی‌شده چقدر خوب یا بد بود. آن نمره‌دهی [فصل هشتم §4 پرسش ۲ — چقدر خوب یا بد بود؟](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it) است، با به‌کار بردن [فصل هشتم §4.1 ابعاد ورودی بزرگی همیاری](../../core_08_standing_assessment.md#41-contribution-magnitude-input-dimensions) و [§4.2 ابعاد ورودی شدت تخلف](../../core_08_standing_assessment.md#42-violation-severity-input-dimensions).
+- **اندازه‌گیری ردپا:** این فصل تصمیم نمی‌گیرد همیاری یا تخلف راستی‌آزمایی‌شده چقدر خوب یا بد بود. آن نمره‌دهی [فصل هشتم §4 پرسش ۲ — چقدر خوب یا بد بود؟](../../core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it) است، با به‌کار بردن [فصل هشتم §4.1 ابعاد ورودی بزرگی همیاری](../../core_09_standing_assessment.md#41-contribution-magnitude-input-dimensions) و [§4.2 ابعاد ورودی شدت تخلف](../../core_09_standing_assessment.md#42-violation-severity-input-dimensions).
 
 <a id="115-contingent-claims-games-of-chance-and-event-contract-markets"></a>
 #### 11.5 ادعاهای مشروط، بازی‌های شانس، و بازارهای قرارداد رویداد
@@ -1121,7 +1121,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: [§11 هم‌راستایی انگیزه و تسخیر نظام](#11-incentive-alignment-and-system-capture) (از جمله [§11.1 الزام هم‌راستایی](#111-alignment-requirement))؛ [فصل پنجم *ادعای مشروط، بازار قرارداد رویداد، بازی شانس، و مزیت خودی*](../../core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent).
-- پایین‌دست: [§11.3 کشف ناهم‌راستایی](#113-misalignment-detection)؛ [§11.3.1 محرک‌های تشدید](#1131-escalation-triggers)؛ [§11.4 اصلاح ناهم‌راستایی و پاسخ تسخیر](#114-misalignment-correction-and-capture-response)؛ [§6.2 قیدهای افشای معرفتی](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)؛ [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ طبقه‌بندی و مقیاس مدیریت مسئولانهٔ `corpus_systems.md`؛ انتظارهای تعارض و یکپارچگی `corpus_institutions.md`.
+- پایین‌دست: [§11.3 کشف ناهم‌راستایی](#113-misalignment-detection)؛ [§11.3.1 محرک‌های تشدید](#1131-escalation-triggers)؛ [§11.4 اصلاح ناهم‌راستایی و پاسخ تسخیر](#114-misalignment-correction-and-capture-response)؛ [§6.2 قیدهای افشای معرفتی](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)؛ [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ طبقه‌بندی و مقیاس مدیریت مسئولانهٔ `corpus_systems.md`؛ انتظارهای تعارض و یکپارچگی `corpus_institutions.md`.
 - خوانده شود با: [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — هدف **پیوستگی** (مسیرهای حل ماندگار و قابل‌اعتراض و پایداری سیستمی جایی که تسویهٔ مشروط از نظر مادی اثرگذار است).
 - خوانده شود با: [تسخیر مسیرهای حل](../../core_05_band_accountability.md#capture-of-resolution-pathways)، [اجبار و دستکاری](../../core_05_band_participation.md#coercion-and-manipulation-constitutional)، و [قابلیت اعتراض](../../core_05_band_accountability.md#contestability)؛ [مزیت خودی](../../core_05_band_accountability.md#insider-advantage).
 - زیربخش‌ها (ترتیب خواندن): [§11.5.1 چه نباید پاداش داده شود](#1151-what-may-not-be-rewarded) · [§11.5.2 چه کسی پیامدها را تصمیم می‌گیرد](#1152-who-decides-outcomes) · [§11.5.3 سیگنال‌های بازار اثبات قانون اساسی نیستند](#1153-market-signals-are-not-constitutional-proof) · [§11.5.4 کنترل‌های متناسب و نگهداری اجرا](#1154-proportionate-controls-and-implementation-custody).
@@ -1240,7 +1240,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - خوانده شود با: [ضرورت](../../core_05_band_accountability.md#necessity)؛ [تناسب](../../core_05_band_accountability.md#proportionality)؛ [وابستگی](../../core_05_band_continuity.md#dependency).
-- پایین‌دست: [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ [corpus_systems.md](../../corpus_systems.md) (*طبقه‌بندی و مقیاس مدیریت مسئولانهٔ نظام‌های از نظر مادی اثرگذار*)؛ [corpus_institutions.md](../../corpus_institutions.md) (*قواعد تعارض و رویه جایی که نهادها چنین فعالیتی را نظارت می‌کنند*).
+- پایین‌دست: [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ [corpus_systems.md](../../corpus_systems.md) (*طبقه‌بندی و مقیاس مدیریت مسئولانهٔ نظام‌های از نظر مادی اثرگذار*)؛ [corpus_institutions.md](../../corpus_institutions.md) (*قواعد تعارض و رویه جایی که نهادها چنین فعالیتی را نظارت می‌کنند*).
 
 </details>
 
@@ -1256,7 +1256,7 @@
   - [وابستگی](../../core_05_band_continuity.md#dependency)؛
   - آسیب‌پذیری؛ و
   - پایداری سیستمی.
-- سوءاستفاده را سازگار با [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ارزیابی کنند، از جمله:
+- سوءاستفاده را سازگار با [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ارزیابی کنند، از جمله:
   - هماهنگی برای اثرگذاری بر رویدادهای حل‌کننده؛ و
   - پویایی مقیاس.
 
@@ -1274,7 +1274,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- خوانده شود با: [فصل نهم §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) و [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority)؛ [پاسخگویی](core_05_apex_accountability_leg.md#accountability)؛ [corpus_systems.md](../../corpus_systems.md) **CS-7 — ضمانت‌های عدالت، جبران، و توانبخشی** (*بررسی‌های پیوستگی نهاد*).
+- خوانده شود با: [فصل نهم §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) و [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority)؛ [پاسخگویی](core_05_apex_accountability_leg.md#accountability)؛ [corpus_systems.md](../../corpus_systems.md) **CS-7 — ضمانت‌های عدالت، جبران، و توانبخشی** (*بررسی‌های پیوستگی نهاد*).
 - خوانده شود با: [اقدام قابل‌نسبت](../../core_05_band_accountability.md#attributable-action-constitutional) و [یکپارچگی نسبت](../../core_05_band_accountability.md#attribution-integrity-constitutional) — تغییرهای جانشین و ساختار صوری نباید نسبت قابل‌اتکای تکالیف باقی‌مانده را شکست دهند.
 
 </details>
@@ -1519,7 +1519,7 @@
 - خوانده شود با: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — مشارکت، نظارت، پاسخگویی، و به‌هنگامی جایی که تمرکز یا استیلا صدا، موشکافی، جواب‌دهی، یا اصلاح به‌هنگام را شکست دهد؛ مقیاس [منافع مادی](core_00_preamble.md#material-stake) (به‌ویژه [§13.2 طرفدار رقابت و ضداستیلا](#132-pro-competition-and-anti-domination)).
 - خوانده شود با: [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — هدف **پیوستگی** (شرایط مولد قابل‌اعتراض و ماندگار)؛ هدف **شکوفایی** (دسترسی منصف به معیشت، عاملیت، و مسیرهای نوآوری).
 - بالادست: اصول: [§12 ظرفیت نظام مشترک](#12-shared-system-capacity) — ادعاهای ظرفیت مولد و کارایی جایی که تمرکز یا استیلا تهی‌شان کند شکست می‌خورند؛ [10. حکمرانی زیر انضباط مدیریت مسئولانه](#10-governance-under-stewardship-discipline).
-- پایین‌دست: [فصل دهم §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (براندازی مبتنی بر تمرکز)؛ [6. حل تعارض فرایند](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([§6.2.4 ابطال واگرایی شاخص جانشین](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)).
+- پایین‌دست: [فصل دهم §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (براندازی مبتنی بر تمرکز)؛ [6. حل تعارض فرایند](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([§6.2.4 ابطال واگرایی شاخص جانشین](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)).
 - پایین‌دست: **CJS-3.11.1 — انضباط گذاشتن آستانهٔ تمرکز بازار (قابل‌تنظیم توسط پذیرنده)** (قواعد عملیاتی [§13.1](#131-market-concentration-threshold-mechanism-adopter-tunable))؛ **CJS-3.11.2 — کاتالوگ رفتار ضداستیلا و ترمیم** (الگوهای رفتار عملیاتی و جبران‌های [§13.2](#132-pro-competition-and-anti-domination))؛ **CJS-3.11.3 — انضباط گذاشتن سقف ادغام (قابل‌تنظیم توسط پذیرنده)** (قواعد عملیاتی گذاشتن سقف [§13.3.2](#1332-ceiling-discipline-adopter-requirements)).
 - پایین‌دست: سطح حقوق را برای تخصیص منابع، جبران منصف، سازمان جمعی، هم‌کنش‌پذیری، خروج، و بازبینی ضدتسخیر شکل می‌دهد؛ به‌ویژه [اصل III-D: کف کار و اقتصاد](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)، [اصل IV: تخصیص منابع، وابستگی‌ها، و تأمین زیست‌بوم](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding)، و [اصل XIX: هم‌کنش‌پذیری، حمل‌پذیری، جابه‌جایی، پناه، و یکپارچگی خروج](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity).
 - زیربخش‌ها (ترتیب خواندن): [§13.1 سازوکار آستانهٔ تمرکز بازار (قابل‌تنظیم توسط پذیرنده)](#131-market-concentration-threshold-mechanism-adopter-tunable) · [§13.1.1 محرک‌های آستانهٔ تمرکز (قابل‌تنظیم توسط پذیرنده)](#1311-concentration-threshold-triggers-adopter-tunable) · [§13.2 طرفدار رقابت و ضداستیلا](#132-pro-competition-and-anti-domination) · [§13.3 سقف ادغام](#133-consolidation-ceiling).
@@ -1565,7 +1565,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: [§13 ساختار بازار](#13-market-structure)؛ [آستانهٔ تمرکز بازار](../../core_05_band_accountability.md#market-concentration-threshold-constitutional).
-- پایین‌دست: **CJS-3.11.1 — انضباط گذاشتن آستانهٔ تمرکز بازار (قابل‌تنظیم توسط پذیرنده)** (قواعد عملیاتی گذاشتن آستانه)؛ [§13.2 طرفدار رقابت و ضداستیلا](#132-pro-competition-and-anti-domination)؛ [§13.3 سقف ادغام](#133-consolidation-ceiling)؛ [CJS-3.11.3 — انضباط گذاشتن سقف ادغام (قابل‌تنظیم توسط پذیرنده)](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) (قواعد عملیاتی گذاشتن سقف [§13.3.2](#1332-ceiling-discipline-adopter-requirements))؛ [فصل هشتم §4 پرسش ۲ — چقدر خوب یا بد بود؟](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it)؛ [فصل دهم §5.1 براندازی مبتنی بر تمرکز](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- پایین‌دست: **CJS-3.11.1 — انضباط گذاشتن آستانهٔ تمرکز بازار (قابل‌تنظیم توسط پذیرنده)** (قواعد عملیاتی گذاشتن آستانه)؛ [§13.2 طرفدار رقابت و ضداستیلا](#132-pro-competition-and-anti-domination)؛ [§13.3 سقف ادغام](#133-consolidation-ceiling)؛ [CJS-3.11.3 — انضباط گذاشتن سقف ادغام (قابل‌تنظیم توسط پذیرنده)](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) (قواعد عملیاتی گذاشتن سقف [§13.3.2](#1332-ceiling-discipline-adopter-requirements))؛ [فصل هشتم §4 پرسش ۲ — چقدر خوب یا بد بود؟](../../core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it)؛ [فصل دهم §5.1 براندازی مبتنی بر تمرکز](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
 - درِ مدیریت مسئولانه (غیرعملیاتی): بیان الزام‌آور گام بعدی: [بیان عملیاتی مدیریت مسئولانه](#operative-steward-statement-market-structure). اشاره‌گرهای پشتیبانی نمی‌توانند تنگش کنند.
 - زیربخش‌ها (ترتیب خواندن): [§13.1.1 محرک‌های آستانهٔ تمرکز (قابل‌تنظیم توسط پذیرنده)](#1311-concentration-threshold-triggers-adopter-tunable).
 
@@ -1596,8 +1596,8 @@
 
 - **می‌کند:** جهت آستانهٔ لایهٔ اصول برای کف [§13 ساختار بازار](#13-market-structure) را بیان می‌کند.
 - **نمی‌کند:** تصمیم نمی‌گیرد آسیب راستی‌آزمایی‌شده چقدر جدی بود، یا تعیین تخلف صادر نمی‌کند.
-- **وقتی تمرکز برای تضعیف این قانون اساسی به‌کار رود:** آن تخلف زیر [فصل دهم §5.1 براندازی مبتنی بر تمرکز](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) داوری می‌شود.
-- **ایجاد، نگهداری، یا بهره‌برداری تمرکز بالای کف:** از راه معیارهای ۳، ۴، و ۶ فصل دهم برای بازبینی تعیین رسیده می‌شود، و فقط جایی که [فصل هشتم §4 پرسش ۲ — چقدر خوب یا بد بود؟](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it) ازپیش آن آسیب راستی‌آزمایی‌شده را یکی از سه جدی‌ترین نمره‌ای که فصل هشتم ثبت می‌کند نمره کرده باشد.
+- **وقتی تمرکز برای تضعیف این قانون اساسی به‌کار رود:** آن تخلف زیر [فصل دهم §5.1 براندازی مبتنی بر تمرکز](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) داوری می‌شود.
+- **ایجاد، نگهداری، یا بهره‌برداری تمرکز بالای کف:** از راه معیارهای ۳، ۴، و ۶ فصل دهم برای بازبینی تعیین رسیده می‌شود، و فقط جایی که [فصل هشتم §4 پرسش ۲ — چقدر خوب یا بد بود؟](../../core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it) ازپیش آن آسیب راستی‌آزمایی‌شده را یکی از سه جدی‌ترین نمره‌ای که فصل هشتم ثبت می‌کند نمره کرده باشد.
 
 **کف قانون اساسی:**
 
@@ -1665,7 +1665,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: [§13 ساختار بازار](#13-market-structure)؛ [ساختار بازار](../../core_05_band_accountability.md#market-structure-constitutional).
-- پایین‌دست: **CJS-3.11.2 — کاتالوگ رفتار ضداستیلا و ترمیم** (الگوهای رفتار عملیاتی و جبران‌ها)؛ [§13.3 سقف ادغام](#133-consolidation-ceiling)؛ [فصل دهم §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- پایین‌دست: **CJS-3.11.2 — کاتالوگ رفتار ضداستیلا و ترمیم** (الگوهای رفتار عملیاتی و جبران‌ها)؛ [§13.3 سقف ادغام](#133-consolidation-ceiling)؛ [فصل دهم §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
 - خوانده شود با: [اصل III-D: کف کار و اقتصاد](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (کف حقوق تحرک کار)؛ [اصل XIX: هم‌کنش‌پذیری، حمل‌پذیری، جابه‌جایی، پناه، و یکپارچگی خروج](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)؛ [6. حل تعارض فرایند](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([ضرورت](../../core_05_band_accountability.md#necessity)، [تناسب](../../core_05_band_accountability.md#proportionality)، [§6.2.4 ابطال واگرایی شاخص جانشین](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)).
 - زیربخش‌ها (ترتیب خواندن): [§13.2.1 تکالیف طرفدار رقابت (بایدها)](#1321-pro-competition-duties-dos) · [§13.2.2 منع‌های ضداستیلا (نبایدها)](#1322-anti-domination-prohibitions-donts) · [§13.2.3 جبران‌ها](#1323-remedies).
 
@@ -1918,7 +1918,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: [§13.3 سقف ادغام](#133-consolidation-ceiling)؛ [§13.3.1 خطر ادغام (آسیب پیش از قفل‌شدن)](#1331-consolidation-risk-pre-lock-in-impairment).
-- پایین‌دست: **CJS-3.11.3 — انضباط گذاشتن سقف ادغام (قابل‌تنظیم توسط پذیرنده)** (قواعد عملیاتی گذاشتن سقف)؛ [CJS-3.11.2 — کاتالوگ رفتار ضداستیلا و ترمیم](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog) (مسیرگذاری جبران هنگام نقض سقف)؛ [فصل دهم §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- پایین‌دست: **CJS-3.11.3 — انضباط گذاشتن سقف ادغام (قابل‌تنظیم توسط پذیرنده)** (قواعد عملیاتی گذاشتن سقف)؛ [CJS-3.11.2 — کاتالوگ رفتار ضداستیلا و ترمیم](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog) (مسیرگذاری جبران هنگام نقض سقف)؛ [فصل دهم §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
 
 </details>
 
@@ -1958,7 +1958,7 @@
 - خوانده شود با: خانوادهٔ اندازه‌گیری پیوستگی (*تاب‌آوری، برگشت‌پذیری، و خطر سیستمی*).
 - خوانده شود با: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad)، [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims)، و مقیاس [منافع مادی](core_00_preamble.md#material-stake).
 - خوانده شود با: [6. حل تعارض فرایند](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)، [§9 مدیریت مسئولانه و فهم توزیع‌شده](#9-stewardship-and-distributed-understanding)، [§10 حکمرانی زیر انضباط مدیریت مسئولانه](#10-governance-under-stewardship-discipline)، و [§11 هم‌راستایی انگیزه و تسخیر نظام](#11-incentive-alignment-and-system-capture).
-- خوانده شود با: **[فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)** — عامل‌های ارزیابی کل‌نظام عملیاتی برای گواهی هم‌راستایی نظام (یکی از فرایندهای حسابرسی به‌ویژه بزرگ زیر پای **نظارت** چهارگانه؛ نه تنها خانهٔ حسابرسی).
+- خوانده شود با: **[فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)** — عامل‌های ارزیابی کل‌نظام عملیاتی برای گواهی هم‌راستایی نظام (یکی از فرایندهای حسابرسی به‌ویژه بزرگ زیر پای **نظارت** چهارگانه؛ نه تنها خانهٔ حسابرسی).
 - خوانده شود با: **اصل XV** (*حسابرسی، شفافیت و راستی‌آزمایی مستقل*) و [قابلیت حسابرسی](../../core_05_band_oversight.md#auditability) — کف‌های حسابرسی که فصل هفتم باید برآورد و که حالت‌های حسابرسی هم‌تراز نیز اجرا می‌کنند.
 - خوانده شود با: **[corpus_systems.md](../../corpus_systems.md)، CS-3 — طبقه‌بندی نظام و رسیدگی** و [حکمرانی مقیاس‌شده با طبقه‌بندی](../../core_05_band_oversight.md#classification-scaled-governance) — اعمال مقیاس‌شده با طبقه، شکل سابقه، محرک‌های طبقه‌بندی مجدد، و نمایه‌های رسیدگی.
 - بالادست: [§9 مدیریت مسئولانه و فهم توزیع‌شده](#9-stewardship-and-distributed-understanding)؛ [§10 حکمرانی زیر انضباط مدیریت مسئولانه](#10-governance-under-stewardship-discipline)؛ [6. حل تعارض فرایند](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
@@ -1995,8 +1995,8 @@
 - رهاسازی از شروط.
 
 عامل‌های ارزیابی جزئی و سوابق گواهی مالک این‌اند:
-- **[فصل هفتم §3](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**؛
-- **[فصل هفتم §11](../../core_07_b_system_alignment_certification_record_process.md#11-certification-record)**؛
+- **[فصل هفتم §3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**؛
+- **[فصل هفتم §11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record)**؛
 - **[corpus_systems.md](../../corpus_systems.md)، CS-3 — طبقه‌بندی نظام و رسیدگی**.
 
 آن فرایند فصل هفتم:
@@ -2009,7 +2009,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- بالادست: اصول: [8. تفسیر قانون اساسی](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)، [1. مقصود و نقش](core_01_a_values_principles.md#1-purpose-and-role)، [§9 مدیریت مسئولانه و فهم توزیع‌شده](#9-stewardship-and-distributed-understanding)، [6. حل تعارض فرایند](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)، [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، [5. آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency)، و [7. منع فسخ مطلق](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- بالادست: اصول: [8. تفسیر قانون اساسی](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)، [1. مقصود و نقش](core_01_a_values_principles.md#1-purpose-and-role)، [§9 مدیریت مسئولانه و فهم توزیع‌شده](#9-stewardship-and-distributed-understanding)، [6. حل تعارض فرایند](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)، [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، [5. آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency)، و [7. منع فسخ مطلق](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 - پایین‌دست: فصل‌های بعدی باید از راه این اصول پیوندخوردهٔ فصل یکم خوانده شوند — از جمله [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad)، [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims)، و مقیاس [منافع مادی](core_00_preamble.md#material-stake) مقرر در [دیباچه](core_00_preamble.md#chapter-00-preamble--foundational-requirements) و [§1 مقصود و نقش](core_01_a_values_principles.md#1-purpose-and-role).
 - پایین‌دست: [فصل ششم: حقوق بنیادین](../../core_06_rights_part_a.md#chapter-six-foundational-rights) باید از راه چارچوب ارزش یکپارچهٔ این فصل خوانده شود.
   - تفسیر محدود، دلایل عمومی، اعتراض، بازبینی بیرونی، و رویهٔ تصادم حقوق کار پایین‌دست کلیدی را می‌کنند.

@@ -12,7 +12,7 @@
 >
 > **ก่อนหน้า (ภาษานี้):** [core_05_band_participation.md](core_05_band_participation.md)
 >
-> **ถัดไป (ยังเป็นภาษาอังกฤษ):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+> **ถัดไป (ยังเป็นภาษาอังกฤษ):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 > **ส่วนโค้งการอ่าน:** บ้านตระกูลการวัด → การจัดเส้นทางใบในแถบความต่อเนื่อง
 
 </details>
@@ -58,12 +58,12 @@
 - ชั้นการวัดที่ใช้บังคับอยู่ในบ้านบทนิยามของบทที่ห้า — ดู [ประสิทธิภาพทางรัฐธรรมนูญ](core_05_band_continuity.md#constitutional-efficiency) [ภาระที่หลีกเลี่ยงได้](core_05_band_continuity.md#avoidable-burden) [ขีดความสามารถในการผลิต](core_05_band_continuity.md#productive-capacity-constitutional) และ [หน้าที่ลดภาระ](core_05_band_continuity.md#burden-reduction-duty-constitutional)
 - เป้าสมรรถนะ รางวัล และมาตรวัดทรัพยากรใช้ได้เฉพาะเท่าที่ยังตามรอยไปถึงผลลัพธ์ทางรัฐธรรมนูญได้
 - พวกมันทดแทนประสิทธิภาพทางรัฐธรรมนูญ [ขีดความสามารถในการผลิต](core_05_band_continuity.md#productive-capacity-constitutional) หรือการปฏิบัติตามพื้นสิทธิไม่ได้
-- อ่านคู่กับ [บทที่เจ็ด §3 การประเมินการรับรองระบบทั้งระบบ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ในที่ที่สมรรถนะทั้งระบบอยู่ในขอบเขตอย่างเป็นสาระ
+- อ่านคู่กับ [บทที่เจ็ด §3 การประเมินการรับรองระบบทั้งระบบ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ในที่ที่สมรรถนะทั้งระบบอยู่ในขอบเขตอย่างเป็นสาระ
 
 ---
 
 **ไฟล์ก่อนหน้า (ภาษานี้):** [core_05_band_participation.md](core_05_band_participation.md)
 
-**ไฟล์ถัดไป (ยังเป็นภาษาอังกฤษ):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+**ไฟล์ถัดไป (ยังเป็นภาษาอังกฤษ):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 
 **ต้นฉบับที่มีผลผูกพัน:** [core_05_band_performance.md](../../core_05_band_performance.md)

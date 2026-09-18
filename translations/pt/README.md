@@ -5,7 +5,7 @@
 
 > O conteúdo a seguir é **apenas orientação para quem lê**. Não acrescenta, retira nem estreita obrigações vinculantes.
 >
-> Esta pasta é um **piloto de idioma de leitura**. **Não** é a Constituição Senciente. **Não** pode alterar os arquivos numerados `core_*`. **Não** é uma edição de envio. Lê-la **não** é [adotar esta Constituição](../../core_15_amendment_ratification.md#10-ratification-and-adoption). Se uma tradução e o original em inglês parecerem discordar, ganham os `core_*` numerados em inglês até que uma edição posterior diga o contrário. Veja [Reader-language editions](../../doc_architecture.md#reader-language-editions).
+> Esta pasta é um **piloto de idioma de leitura**. **Não** é a Constituição Senciente. **Não** pode alterar os arquivos numerados `core_*`. **Não** é uma edição de envio. Lê-la **não** é [adotar esta Constituição](../../core_16_amendment_ratification.md#10-ratification-and-adoption). Se uma tradução e o original em inglês parecerem discordar, ganham os `core_*` numerados em inglês até que uma edição posterior diga o contrário. Veja [Reader-language editions](../../doc_architecture.md#reader-language-editions).
 >
 > **Fixado à edição do corpus:** `SC-Corpus-2026.08.09` (vigente em 2026-08-09; [README.md](../../README.md)). **Pré-lançamento.**
 
@@ -37,14 +37,14 @@
 | [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md) | [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md) |
 | [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md) | [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md) |
 | [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md) | [core_05_apex_timeliness_leg.md](../../core_05_apex_timeliness_leg.md) |
-| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_07_system_alignment_certification.md) |
-| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md) |
-| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md) |
-| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_08_standing_assessment.md) |
-| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_09_standing_integration.md) |
-| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md) |
-| [core_12_governance.md](core_12_governance.md) | [core_12_governance.md](../../core_12_governance.md) |
-| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_11_forum.md) |
+| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_08_system_alignment_certification.md) |
+| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md) |
+| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_09_standing_assessment.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_10_standing_integration.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md) |
+| [core_12_governance.md](core_12_governance.md) | [core_12_governance.md](../../core_13_governance.md) |
+| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_12_forum.md) |
 
 Os links do piloto apontam para arquivos em inglês ainda sem tradução. As âncoras HTML (`id`) são copiadas do original para comparar trecho a trecho.
 

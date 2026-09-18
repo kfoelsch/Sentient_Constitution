@@ -24,8 +24,8 @@
       "query": "Flourishing",
       "file": "core_05_apex_flourishing_aim.md",
       "anchor": "#flourishing-constitutional",
-      "title": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
-      "plain_terms": "protect and improve how well sentients actually live — truth, safety, trustworthiness, and a real ability to choose and act, kept together — not by chasing one of those as far as it will go while emptying out the others.",
+      "title": "Flourishing",
+      "plain_terms": null,
       "href": "../../core_05_apex_flourishing_aim.md#flourishing-constitutional"
     },
     {
@@ -40,32 +40,32 @@
       "query": "Participation",
       "file": "core_05_apex_participation_leg.md",
       "anchor": "#participation-constitutional",
-      "title": "CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)",
-      "plain_terms": "give affected sentients real voice in systems that affect them — scaled to how much is on the line, not token consultation.",
+      "title": "Participation",
+      "plain_terms": null,
       "href": "../../core_05_apex_participation_leg.md#participation-constitutional"
     },
     {
       "query": "Oversight",
       "file": "core_05_apex_oversight_leg.md",
       "anchor": "#oversight-constitutional",
-      "title": "CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)",
-      "plain_terms": "watch systems, check them, and keep them within bounds — oversight has to be able to see problems and change outcomes, not just hold a ceremony.",
+      "title": "Oversight",
+      "plain_terms": null,
       "href": "../../core_05_apex_oversight_leg.md#oversight-constitutional"
     },
     {
       "query": "Accountability",
       "file": "core_05_apex_accountability_leg.md",
       "anchor": "#accountability",
-      "title": "CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)",
-      "plain_terms": "hold actors answerable — attribution, records, and real recourse have to work, not just ceremonies on paper.",
+      "title": "Accountability",
+      "plain_terms": null,
       "href": "../../core_05_apex_accountability_leg.md#accountability"
     },
     {
       "query": "Timeliness",
       "file": "core_05_apex_timeliness_leg.md",
       "anchor": "#timeliness-constitutional",
-      "title": "CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)",
-      "plain_terms": "move problems through detection, challenge, resolution, and repair in time — published clocks that leave harm compounding are not timeliness.",
+      "title": "Timeliness",
+      "plain_terms": null,
       "href": "../../core_05_apex_timeliness_leg.md#timeliness-constitutional"
     },
     {
@@ -110,14 +110,14 @@
     },
     {
       "query": "independent review",
-      "file": "core_11_forum.md",
-      "anchor": "#chapter-eleven-forums-and-jurisdiction",
-      "title": "CHAPTER ELEVEN: FORUMS AND JURISDICTION",
-      "plain_terms": "Under the [Constitutional Tetrad](../../core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](../../core_00_preamble.md#two-constitutional-aims), this chapter **supervises** how disputes move through the Chapters Eight–Ten standing pipeline — routing, independence, forensic support, remediation sequencing, and tier-default clocks under **section 6** and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Forum families answer which track handles which dispute, where a case ordinarily starts, and how mixed-stakes matters coordinate. They supply **participation** (accessible challenge) and **oversight** (traceable merits review). When the facts are verified, they may **open, update, or correct** standing records — or **set a bad record aside on challenge**. They do **not** run a second, separate decision track beside the standing pipeline. Filing a case alone has no immediate impact on standing. Day-to-day trial rules, budgets, and staffing manuals live in implementation layers and must **implement, not narrow**, this chapter or **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*).",
-      "href": "../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction"
+      "file": "core_12_forum.md",
+      "anchor": "#chapter-twelve-forums-and-jurisdiction",
+      "title": "CHAPTER TWELVE: FORUMS AND JURISDICTION",
+      "plain_terms": "Under the [Constitutional Tetrad](../../core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](../../core_00_preamble.md#two-constitutional-aims), this chapter **supervises** how disputes move through the Chapters Nine–Eleven standing pipeline — routing, independence, forensic support, remediation sequencing, and tier-default clocks under **section 6** and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Forum families answer which track handles which dispute, where a case ordinarily starts, and how mixed-stakes matters coordinate. They supply **participation** (accessible challenge) and **oversight** (traceable merits review). When the facts are verified, they may **open, update, or correct** standing records — or **set a bad record aside on challenge**. They do **not** run a second, separate decision track beside the standing pipeline. Filing a case alone has no immediate impact on standing. Day-to-day trial rules, budgets, and staffing manuals live in implementation layers and must **implement, not narrow**, this chapter or **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*).",
+      "href": "../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction"
     }
   ],
-  "term_count": 224,
+  "term_count": 230,
   "terms": [
     {
       "term": "Accessibility",
@@ -125,6 +125,13 @@
       "anchor": "#accessibility-constitutional",
       "plain_terms": "access must work in real life — not only on paper. If someone cannot actually take part because of how they sense, think, move, communicate, or interface with a system, the system fails this test.",
       "href": "../../core_05_band_participation.md#accessibility-constitutional"
+    },
+    {
+      "term": "Accountability",
+      "file": "core_05_apex_accountability_leg.md",
+      "anchor": "#accountability",
+      "plain_terms": null,
+      "href": "../../core_05_apex_accountability_leg.md#accountability"
     },
     {
       "term": "Adjudication and Dispute Resolution",
@@ -632,6 +639,13 @@
     },
     {
       "term": "Flourishing",
+      "file": "core_05_apex_flourishing_aim.md",
+      "anchor": "#flourishing-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_apex_flourishing_aim.md#flourishing-constitutional"
+    },
+    {
+      "term": "Flourishing (principle layer)",
       "file": "core_01_a_values_principles.md",
       "anchor": "#flourishing",
       "plain_terms": null,
@@ -886,7 +900,7 @@
       "term": "Lifespan Equivalent Unit (LEQU)",
       "file": "core_05_band_participation.md",
       "anchor": "#lifespan-equivalent-unit-lequ",
-      "plain_terms": "a shared unit for expressing full-life-equivalent benefit or loss when Chapter Eight standing measurement calibrates Contribution and Violation records on one scale — not ordinary calendar years or species-only averages.",
+      "plain_terms": "a shared unit for expressing full-life-equivalent benefit or loss when Chapter Nine standing measurement calibrates Contribution and Violation records on one scale — not ordinary calendar years or species-only averages.",
       "href": "../../core_05_band_participation.md#lifespan-equivalent-unit-lequ"
     },
     {
@@ -916,6 +930,13 @@
       "anchor": "#material",
       "plain_terms": "big enough to matter — not trivia, cosmetics, or paperwork that changes nothing real.",
       "href": "../../core_05_band_oversight.md#material"
+    },
+    {
+      "term": "Material Control Line",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#material-control-line",
+      "plain_terms": "a Material Control Line is the real chain of power around a particular act. It includes the sentients, offices, or systems that can meaningfully direct, overrule, reward, punish, remove, delay, or suppress the work, even when an organization chart calls the seat independent.",
+      "href": "../../core_05_band_accountability.md#material-control-line"
     },
     {
       "term": "Material Degradation",
@@ -1051,6 +1072,13 @@
       "href": "../../core_05_band_continuity.md#occupancy-continuity-constitutional"
     },
     {
+      "term": "Oversight",
+      "file": "core_05_apex_oversight_leg.md",
+      "anchor": "#oversight-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_apex_oversight_leg.md#oversight-constitutional"
+    },
+    {
       "term": "Parent-System Relationship",
       "file": "core_05_band_participation.md",
       "anchor": "#parent-system-relationship-constitutional",
@@ -1063,6 +1091,13 @@
       "anchor": "#participant-standing-constitutional",
       "plain_terms": "Participant Standing says whether a sentient currently qualifies to participate or hold a role under valid, contestable rules. It is not dignity, reputation, popularity, or proof that a sentient is a stakeholder. Opening a trust-sensitive named pathway requires meeting its competency bar and holding competency clearance; closing a privilege requires a standing lock on that named pathway — not a vague status label.",
       "href": "../../core_05_band_accountability.md#participant-standing-constitutional"
+    },
+    {
+      "term": "Participation",
+      "file": "core_05_apex_participation_leg.md",
+      "anchor": "#participation-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_apex_participation_leg.md#participation-constitutional"
     },
     {
       "term": "Press and Journalistic Activity",
@@ -1474,7 +1509,7 @@
       "term": "Sustained High-Gravity Pattern",
       "file": "core_05_band_accountability.md",
       "anchor": "#sustained-high-gravity-pattern",
-      "plain_terms": "a Sustained High-Gravity Pattern is connected, continuing or repeated conduct whose combined verified impact reaches Chapter Eight slot 7, 8, or 9, even without one catastrophic moment.",
+      "plain_terms": "a Sustained High-Gravity Pattern is connected, continuing or repeated conduct whose combined verified impact reaches Chapter Nine slot 7, 8, or 9, even without one catastrophic moment.",
       "href": "../../core_05_band_accountability.md#sustained-high-gravity-pattern"
     },
     {
@@ -1560,6 +1595,13 @@
       "anchor": "#systemic-materiality",
       "plain_terms": "when interactions make the total impact bigger than adding up each piece on its own — so looking only at parts understates what is at stake.",
       "href": "../../core_05_band_continuity.md#systemic-materiality"
+    },
+    {
+      "term": "Timeliness",
+      "file": "core_05_apex_timeliness_leg.md",
+      "anchor": "#timeliness-constitutional",
+      "plain_terms": null,
+      "href": "../../core_05_apex_timeliness_leg.md#timeliness-constitutional"
     },
     {
       "term": "Timely Resolution",
@@ -1656,7 +1698,7 @@
       "term": "Violation Nature",
       "file": "core_05_band_accountability.md",
       "anchor": "#violation-nature-chapter-six",
-      "plain_terms": "Violation Nature is the Axis II classification of a verified adverse outcome, applied only from auditable, contestable verified violation findings. Chapter Eight assigns the numeric slot from verified impact; descriptors such as intent, coercion, concealment, or response do not move that slot. An allegation, intake label, routing choice, or provisional case narrative is not enough.",
+      "plain_terms": "Violation Nature is the Axis II classification of a verified adverse outcome, applied only from auditable, contestable verified violation findings. Chapter Nine assigns the numeric slot from verified impact; descriptors such as intent, coercion, concealment, or response do not move that slot. An allegation, intake label, routing choice, or provisional case narrative is not enough.",
       "href": "../../core_05_band_accountability.md#violation-nature-chapter-six"
     },
     {

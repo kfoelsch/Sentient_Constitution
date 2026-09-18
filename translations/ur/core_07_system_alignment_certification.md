@@ -7,7 +7,7 @@
 
 > نیچے کا مواد **صرف قارئین کی رہنمائی** ہے۔ یہ اس فائل یا دیگر ابواب میں پابند فرائض نہیں بڑھاتا، گھٹاتا یا تنگ کرتا۔
 >
-> یہ فائل [انگریزی باب ہفتم کے پڑھنے کے اشاریے](../../core_07_system_alignment_certification.md) کا **قارئین کی زبان کا پائلٹ** ہے۔ یہ شعوری آئین کا **پابند حصہ نہیں**۔ یہ **دوسرا آئین نہیں**۔ یہ **ارسال ایڈیشن نہیں**۔ یہ `SC-Corpus-2026.08.09` پر **پن** ہے۔ اگر یہ ترجمہ اور انگریزی اصل میں اختلاف نظر آئے تو نمبر والی [`core_07_system_alignment_certification.md`](../../core_07_system_alignment_certification.md) جیتتی ہے۔ پڑھنے کا ترتیب اور ایڈیشن میٹاڈیٹا [README.md](../../README.md) میں رہتے ہیں۔ طریقہ اور لغت: [translations/ur/README.md](README.md)۔
+> یہ فائل [انگریزی باب ہفتم کے پڑھنے کے اشاریے](../../core_08_system_alignment_certification.md) کا **قارئین کی زبان کا پائلٹ** ہے۔ یہ شعوری آئین کا **پابند حصہ نہیں**۔ یہ **دوسرا آئین نہیں**۔ یہ **ارسال ایڈیشن نہیں**۔ یہ `SC-Corpus-2026.08.09` پر **پن** ہے۔ اگر یہ ترجمہ اور انگریزی اصل میں اختلاف نظر آئے تو نمبر والی [`core_07_system_alignment_certification.md`](../../core_08_system_alignment_certification.md) جیتتی ہے۔ پڑھنے کا ترتیب اور ایڈیشن میٹاڈیٹا [README.md](../../README.md) میں رہتے ہیں۔ طریقہ اور لغت: [translations/ur/README.md](README.md)۔
 >
 > **باب ہفتم** دو پابند فائلوں میں بٹا ہے جنہیں ایک ہی آلہ کی طرح پڑھا جاتا ہے:
 >
@@ -41,4 +41,4 @@
 
 **اگلی فائل (اس زبان میں):** [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
 
-**پابند اصل:** [core_07_system_alignment_certification.md](../../core_07_system_alignment_certification.md)
+**پابند اصل:** [core_07_system_alignment_certification.md](../../core_08_system_alignment_certification.md)

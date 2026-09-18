@@ -5,7 +5,7 @@
 
 > खालील मजकूर **फक्त वाचक मार्गदर्शन** आहे. तो बंधनकारक कर्तव्ये जोडत नाही, काढत नाही, किंवा आकुंचित करत नाही.
 >
-> ही फोल्डर एक **वाचक-भाषा पायलट** आहे. हे **संज्ञ संविधान नाही**. क्रमांकित `core_*` फाइल बदलू **शकत नाही**. ही **प्रेषण आवृत्ती नाही**. हे वाचणे [हे संविधान अंगीकारणे](../../core_15_amendment_ratification.md#10-ratification-and-adoption) **नाही**. अनुवाद आणि इंग्रजी मूळ यात फरक दिसला, तर इंग्रजी क्रमांकित `core_*` जिंकतात — जोपर्यंत नंतरची आवृत्ती वेगळे सांगत नाही. पहा [Reader-language editions](../../doc_architecture.md#reader-language-editions).
+> ही फोल्डर एक **वाचक-भाषा पायलट** आहे. हे **संज्ञ संविधान नाही**. क्रमांकित `core_*` फाइल बदलू **शकत नाही**. ही **प्रेषण आवृत्ती नाही**. हे वाचणे [हे संविधान अंगीकारणे](../../core_16_amendment_ratification.md#10-ratification-and-adoption) **नाही**. अनुवाद आणि इंग्रजी मूळ यात फरक दिसला, तर इंग्रजी क्रमांकित `core_*` जिंकतात — जोपर्यंत नंतरची आवृत्ती वेगळे सांगत नाही. पहा [Reader-language editions](../../doc_architecture.md#reader-language-editions).
 >
 > **संग्रह आवृत्तीला पिन:** `SC-Corpus-2026.08.09` (प्रभावी 2026-08-09; [README.md](../../README.md)). **पूर्व-प्रकाशन.**
 
@@ -37,12 +37,12 @@
 | [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md) | [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md) |
 | [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md) | [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md) |
 | [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md) | [core_05_apex_timeliness_leg.md](../../core_05_apex_timeliness_leg.md) |
-| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_07_system_alignment_certification.md) |
-| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md) |
-| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md) |
-| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_08_standing_assessment.md) |
-| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_09_standing_integration.md) |
-| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md) |
+| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_08_system_alignment_certification.md) |
+| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md) |
+| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_09_standing_assessment.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_10_standing_integration.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md) |
 
 पायलटच्या दुव्या अजून अननुवादित इंग्रजी फाइलकडे जातात. HTML अँकर (`id`) मूळापासून नकल आहेत, जेणेकरून खंड-खंड तुलना करता येईल.
 

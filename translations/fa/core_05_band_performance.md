@@ -12,7 +12,7 @@
 >
 > **قبلی (این زبان):** [core_05_band_participation.md](core_05_band_participation.md)
 >
-> **بعدی (هنوز انگلیسی):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+> **بعدی (هنوز انگلیسی):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 > **قوس خواندن:** خانهٔ خانوادهٔ اندازه‌گیری → مسیرگذاری برگ در نوار پیوستگی.
 
 </details>
@@ -58,12 +58,12 @@
 - سطح‌های عملیاتی اندازه‌گیری در خانه‌های تعریف فصل پنجم زندگی می‌کنند — ببینید [کارایی قانون اساسی](core_05_band_continuity.md#constitutional-efficiency)، [بار قابل‌اجتناب](core_05_band_continuity.md#avoidable-burden)، [ظرفیت مولد](core_05_band_continuity.md#productive-capacity-constitutional) و [تکلیف کاهش بار](core_05_band_continuity.md#burden-reduction-duty-constitutional).
 - هدف‌های عملکرد، پاداش‌ها و سنجه‌های منابع فقط تا جایی معتبرند که به پیامدهای قانون اساسی ردگیری‌پذیر بمانند.
 - نمی‌توانند جای کارایی قانون اساسی، [ظرفیت مولد](core_05_band_continuity.md#productive-capacity-constitutional) یا پایبندی به کف حقوق را بگیرند.
-- خوانده شود با [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) جایی که عملکرد کل‌نظام از نظر مادی در گستره است.
+- خوانده شود با [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) جایی که عملکرد کل‌نظام از نظر مادی در گستره است.
 
 ---
 
 **پروندهٔ قبلی:** [core_05_band_participation.md](core_05_band_participation.md)
 
-**پروندهٔ بعدی (هنوز انگلیسی):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+**پروندهٔ بعدی (هنوز انگلیسی):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 
 **اصل الزام‌آور:** [core_05_band_performance.md](../../core_05_band_performance.md)

@@ -93,11 +93,11 @@ A administração responsável constitucional começa por nomear o problema e a 
 
 *Em termos simples: quando o texto exige, as questões materiais passam por certificação, registros escritos de ajuda e dano, correção e remédio, e revisão de fórum com prazos — as controvérsias ordinárias usam primeiro a via de impugnação publicada; essas vias testam a governança autorizada; não a criam sozinhas.*
 
-Onde o Capítulo Seis, o [Capítulo Sete](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification), os instrumentos incorporados ou outras disposições constitucionais o exigem de forma expressa, leve as questões constitucionais materiais a um ou mais dos caminhos abaixo. As [Cadeias práticas de processo-chave](#5-key-practical-process-pipelines) traduzem a medição em registros, certificação, insumos verificados, classificação, supervisão de fórum, correção e remédio oportuno — como a governança autorizada é testada, impugnada e reparada na prática. Não autorizam a governança sozinhas; tornam a governança revisável, impugnável, corrigível e em tempo. A [seção 5.1](#51-how-the-full-chain-fits-together) enuncia essa cadeia completa.
+Onde o Capítulo Seis, o [Capítulo Sete](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification), os instrumentos incorporados ou outras disposições constitucionais o exigem de forma expressa, leve as questões constitucionais materiais a um ou mais dos caminhos abaixo. As [Cadeias práticas de processo-chave](#5-key-practical-process-pipelines) traduzem a medição em registros, certificação, insumos verificados, classificação, supervisão de fórum, correção e remédio oportuno — como a governança autorizada é testada, impugnada e reparada na prática. Não autorizam a governança sozinhas; tornam a governança revisável, impugnável, corrigível e em tempo. A [seção 5.1](#51-how-the-full-chain-fits-together) enuncia essa cadeia completa.
 
-- **Certificação de alinhamento do sistema** ([Capítulo Sete](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)) — antes de confiar em escala em um sistema de alto impacto, reúna e revise evidência sobre se é constitucionalmente seguro apoiar-se nele agora
-- **Registros de trajetória** ([Capítulo Oito](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)) — quando a conduta ou o dano importa constitucionalmente, coloque fatos verificados em autos formais de contribuição ou de infração; rumores e reputação não bastam
-- **Correção e remédio** ([Capítulo Nove §4.1](../../core_09_standing_integration.md#41-remedy-and-correction)) — conserte a falha de fundo e ofereça reconhecimento, reparo, restauração ou compensação proporcionais a quem foi prejudicado
+- **Certificação de alinhamento do sistema** ([Capítulo Sete](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)) — antes de confiar em escala em um sistema de alto impacto, reúna e revise evidência sobre se é constitucionalmente seguro apoiar-se nele agora
+- **Registros de trajetória** ([Capítulo Oito](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)) — quando a conduta ou o dano importa constitucionalmente, coloque fatos verificados em autos formais de contribuição ou de infração; rumores e reputação não bastam
+- **Correção e remédio** ([Capítulo Nove §4.1](../../core_10_standing_integration.md#41-remedy-and-correction)) — conserte a falha de fundo e ofereça reconhecimento, reparo, restauração ou compensação proporcionais a quem foi prejudicado
 - **Revisão de fórum** ([Capítulo Onze](core_11_forum.md#1-purpose-and-role))
   - As controvérsias ordinárias dentro de sistemas já autorizados usam primeiro a via de impugnação publicada da [Participação Sistêmica das Partes Afetadas](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster)
   - Se essa via ainda está contestada, falta, está capturada ou não pode conceder alívio, roteie segundo a aposta primária por fóruns supervisionados
@@ -148,7 +148,7 @@ Cada resumo enuncia o que cabe ao capítulo e o que ele produz.
 **Capítulo Quatro — Ônus, rastreabilidade e verificação** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
 
 - **O que lhe cabe:** Põe o ônus da prova em quem afirma a conformidade; exige evidência rastreável, observabilidade e verificação que se escalam à [**aposta material**](#material-stake) e permanecem impugnáveis na prática.
-- **O que produz:** A cadeia de verificação que alimenta os **insumos verificados** no [Capítulo Oito](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) e a evidência de alinhamento do sistema no [Capítulo Sete](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) — sem substituir a medição de trajetória em si.
+- **O que produz:** A cadeia de verificação que alimenta os **insumos verificados** no [Capítulo Oito](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) e a evidência de alinhamento do sistema no [Capítulo Sete](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) — sem substituir a medição de trajetória em si.
 
 **Capítulo Cinco — Definições fundacionais** ([`core_05__definitions_home.md`](core_05__definitions_home.md#chapter-five-foundational-definitions))
 
@@ -169,7 +169,7 @@ Os Capítulos Sete a Onze se ligam em uma só cadeia prática — e, dentro do [
 
 Cada passo abaixo enuncia o que cabe ao capítulo e o que ele produz. [Como a cadeia completa se encaixa](#51-how-the-full-chain-fits-together) então mostra esses titulares como um só caminho da conferência do sistema ao remédio.
 
-**Certificação de alinhamento do sistema** ([Capítulo Sete](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification))
+**Certificação de alinhamento do sistema** ([Capítulo Sete](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification))
 
 - **O que lhe cabe:** Assegura que sistemas com impacto material permaneçam alinhados constitucionalmente.
   - Antes que um sistema que afeta de forma material os sencientes possa ser reconhecido ou que se possa confiar nele em escala, evidência é reunida e revisada sob supervisão de fórum
@@ -178,20 +178,20 @@ Cada passo abaixo enuncia o que cabe ao capítulo e o que ele produz. [Como a ca
   - Sistemas de alto risco devem ser recertificados em calendário regular; a certificação nunca é permanente
 - **O que produz:** Um **registro de certificação de alinhamento do sistema** — uma resposta limitada e impugnável a se aquele sistema está alinhado o bastante para reconhecê-lo, continuar confiando nele, implantá-lo ou libertá-lo de condições *agora*, dentro de um alcance e uma janela de tempo enunciados.
 
-**Medição de trajetória** ([Capítulo Oito](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model))
+**Medição de trajetória** ([Capítulo Oito](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model))
 
 - **O que lhe cabe:** Quando a conduta importa constitucionalmente, rumores e reputações não bastam. Fatos verificados entram em **registros de trajetória**. A **contribuição** (ajuda rumo ao florescimento) e a **infração** (falhas de prestação de contas e dano) são medidas em **eixos separados** — a conduta boa verificada não apaga o dano verificado, e os dois nunca se dobram em uma só pontuação líquida.
 - **O que produz:** **Registros de trajetória** classificados no Eixo de Contribuição e no Eixo de Infração, baseados só em **insumos verificados** e em achados supervisionados por fórum — não em pontuação informal nem em narrativas de controvérsia no lugar da classificação.
 
-**Integração de trajetória e efeitos** ([Capítulo Nove](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration))
+**Integração de trajetória e efeitos** ([Capítulo Nove](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration))
 
 - **O que lhe cabe:** Integra as classificações verificadas em **efeitos de trajetória** do mundo real em pistas separadas — escalados à [**aposta material**](#material-stake), sem dobrar contribuição e infração em uma só pontuação líquida, e sem esvaziar a participação, a supervisão, a prestação de contas ou a atuação em tempo.
   - **Pista de contribuição:** A classificação positiva verificada produz um ganho prático:
-    - [**Habilitações de competência**](../../core_09_standing_integration.md#62-competency-bars-and-clearances) que podem abrir papéis sensíveis à confiança, autoridade delegada, elegibilidade de supervisão e administração responsável de consequência progressiva quando a competência é demonstrada contra a barra de competência publicada e nenhuma [trava de trajetória](../../core_09_standing_integration.md#42-general-standing-locks) aplicável fecha a via nomeada
+    - [**Habilitações de competência**](../../core_10_standing_integration.md#62-competency-bars-and-clearances) que podem abrir papéis sensíveis à confiança, autoridade delegada, elegibilidade de supervisão e administração responsável de consequência progressiva quando a competência é demonstrada contra a barra de competência publicada e nenhuma [trava de trajetória](../../core_10_standing_integration.md#42-general-standing-locks) aplicável fecha a via nomeada
     - Reconhecimento proporcional e **recompensas materiais** pela administração responsável lícita e a cooperação, como exige o [Capítulo Um](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)
     - Não é elogio vazio. Os benefícios têm de ser reais, respaldados por evidência e abertos a impugnação
   - **Pista de infração:** Os achados de infração verificados produzem uma perda prática:
-    - **Travas de trajetória**, limites de papel, ordens de remediação, [remédio para quem foi prejudicado](../../core_09_standing_integration.md#41-remedy-and-correction), descritores suplementares e ganchos de execução
+    - **Travas de trajetória**, limites de papel, ordens de remediação, [remédio para quem foi prejudicado](../../core_10_standing_integration.md#41-remedy-and-correction), descritores suplementares e ganchos de execução
     - As restrições se ajustam à gravidade do que foi verificado
     - Infrações não resolvidas permanecem vivas
     - Permanecem disponíveis vias proporcionais para restaurar a trajetória de quem demonstra restituição autêntica
@@ -219,11 +219,11 @@ Cada passo abaixo enuncia o que cabe ao capítulo e o que ele produz. [Como a ca
 
 *Em termos simples: pense nela como um caminho da conferência do sistema ao remédio — com os fóruns supervisionando a controvérsia e os passos de trajetória ao longo de todo o percurso.*
 
-1. **Certifique o sistema quando o impacto é sério o bastante** ([Capítulo Sete](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)) — antes de confiar em escala em um sistema de alto impacto, obtenha um registro de alinhamento impugnável: é constitucionalmente seguro apoiar-se nele *agora*?
-2. **Meça a trajetória em pistas separadas** ([Capítulo Oito](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)) — quando a boa conduta ou o dano é sério o bastante para importar constitucionalmente, o Capítulo Oito abre autos formais, admite só **insumos verificados** (inclusive a evidência de certificação de alinhamento do sistema do Capítulo Sete quando essa evidência é material) e classifica o que foi verificado. Rumores, reputações e relatos de controvérsia não bastam.
+1. **Certifique o sistema quando o impacto é sério o bastante** ([Capítulo Sete](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)) — antes de confiar em escala em um sistema de alto impacto, obtenha um registro de alinhamento impugnável: é constitucionalmente seguro apoiar-se nele *agora*?
+2. **Meça a trajetória em pistas separadas** ([Capítulo Oito](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)) — quando a boa conduta ou o dano é sério o bastante para importar constitucionalmente, o Capítulo Oito abre autos formais, admite só **insumos verificados** (inclusive a evidência de certificação de alinhamento do sistema do Capítulo Sete quando essa evidência é material) e classifica o que foi verificado. Rumores, reputações e relatos de controvérsia não bastam.
    - **Natureza da contribuição:** Abra um **registro de trajetória de contribuição** — um auto limitado e impugnável de ajuda verificada rumo ao florescimento — e classifique a **natureza da contribuição** no Eixo de Contribuição.
    - **Natureza da infração:** Abra um **registro de trajetória de infração** — um auto limitado e impugnável de dano verificado e falhas de prestação de contas — e classifique a **natureza da infração** no Eixo de Infração. O bom e o dano nunca se dobram em uma só pontuação líquida; os registros vinculados se cruzam por referência mas permanecem separados.
-3. **Aplique efeitos de trajetória em cada pista** ([Capítulo Nove](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)) — a contribuição verificada pode conceder habilitação de competência e sustentar reconhecimento proporcional e recompensas materiais; a infração verificada pode disparar travas de trajetória, correção e [remédio para quem foi prejudicado](../../core_09_standing_integration.md#41-remedy-and-correction).
+3. **Aplique efeitos de trajetória em cada pista** ([Capítulo Nove](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)) — a contribuição verificada pode conceder habilitação de competência e sustentar reconhecimento proporcional e recompensas materiais; a infração verificada pode disparar travas de trajetória, correção e [remédio para quem foi prejudicado](../../core_10_standing_integration.md#41-remedy-and-correction).
 4. **Revisão de designação anticonstitucional** ([Capítulo Dez](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)) — se um achado de infração de máximo impacto também pode satisfazer critérios anticonstitucionais, o Capítulo Dez decide se a designação correspondente se anexa. A designação não muda quão grave o Capítulo Oito já achou o dano; os efeitos ordinários do Capítulo Nove continuam em paralelo até que uma designação final dispare a Trava de Confiança Anticonstitucional.
 5. **Roteie as controvérsias e mantenha o remédio em tempo** ([Capítulo Onze](core_11_forum.md#1-purpose-and-role)) — os fóruns supervisionam como os casos se movem, qual pista os trata, e se os prazos sob o **Artigo XXIV-C** (*Resolução oportuna e piso contra o atraso*) são cumpridos para que o remédio não morra no atraso. As controvérsias ordinárias seguem a [sequência de controvérsias](core_11_forum.md#dispute-sequencing). Os fóruns também classificam as controvérsias em cinco [níveis de materialidade](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) que espelham o alfabeto de classificação de sistemas — da urgência crítica para a sobrevivência até assuntos privados/contidos — e o roteamento padrão da família de Integridade se aplica quando a designação final do Capítulo Dez é a aposta primária.
 
@@ -238,27 +238,27 @@ Os Capítulos **Doze a Dezesseis** fecham o instrumento — e completam o [regis
 
 Cada resumo enuncia o que cabe ao capítulo e o que ele produz.
 
-**Capítulo Doze — Contrato constitucional, legitimidade e administração responsável** ([`core_12_governance.md`](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship))
+**Capítulo Doze — Contrato constitucional, legitimidade e administração responsável** ([`core_12_governance.md`](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship))
 
 - **O que lhe cabe:** Tem a seu cargo a [**Camada do Contrato Constitucional**](../../core_05_band_integrative.md#constitutional-contract-layer) — quem pode governar, por qual mecanismo de legitimidade, sob qual alcance e termos duráveis, e com qual caráter de administração responsável deve ser mantido.
 - **O que produz:** Requisitos de autorização e legitimidade distintos da [**Participação Sistêmica das Partes Afetadas**](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster) em sistemas já autorizados — as regras da autoridade de governo em si, não só a participação dentro dela.
 
-**Capítulo Treze — Não regressão** ([`core_13_non_regression.md`](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity))
+**Capítulo Treze — Não regressão** ([`core_13_non_regression.md`](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity))
 
 - **O que lhe cabe:** Fixa o piso substantivo contra a mudança regressiva — emendas e atalhos não podem recortar as proteções centrais, esvaziar a Tétrade abaixo da aposta material, nem disfarçar a regressão como limpeza técnica.
 - **O que produz:** A **primeira trava constitucional** sobre qualquer mudança proposta — a regra de não regressão: se a mudança enfraqueceria na prática as proteções centrais, não é válida, ainda que o procedimento pareça correto. Atalhos suspeitos ou recortes disfarçados são detidos ou enviados às vias de revisão próprias em vez de se colarem em silêncio.
 
-**Capítulo Quatorze — Supremacia e ordens externas** ([`core_13_non_regression.md`](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders))
+**Capítulo Quatorze — Supremacia e ordens externas** ([`core_13_non_regression.md`](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders))
 
 - **O que lhe cabe:** Enuncia como esta Constituição se relaciona com outras normas — expansão da proteção onde é lícita, supremacia dentro de seu alcance, não deslocamento por força própria do direito externo aplicável, e interação disciplinada com ordens jurídicas externas sem subordinação silenciosa nem captura.
 - **O que produz:** Regras de hierarquia e de ordem de conflito para que a publicação ou o uso não sejam tratados como revogação do direito externo aplicável, e para que quem adota não trate o procedimento incorporado, normas externas mais fracas ou métricas de conveniência como se anulassem o significado da Constituição Senciente dentro do alcance válido de adoção.
 
-**Capítulo Quinze — Emenda, ratificação e adoção** ([`core_13_non_regression.md`](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity))
+**Capítulo Quinze — Emenda, ratificação e adoção** ([`core_13_non_regression.md`](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity))
 
 - **O que lhe cabe:** Governa como o instrumento pode mudar de forma lícita — procedimento de emenda, ratificação, adoção e as **travas procedimentais** que seguem a substantiva do Capítulo Treze: as mudanças devem ser publicadas de forma aberta, rastreáveis a uma custódia autoritativa e permanecer impugnáveis de forma significativa, com revisão independente onde se exige.
 - **O que produz:** Uma via de mudança lícita completa — só as emendas e as adoções que superam a **trava de não regressão** e as **travas procedimentais** contam como atualizações constitucionais válidas.
 
-**Capítulo Dezesseis — Ponte de incorporação** ([`core_16_incorporation.md`](../../core_16_incorporation.md))
+**Capítulo Dezesseis — Ponte de incorporação** ([`core_16_incorporation.md`](../../core_17_incorporation.md))
 
 - **O que lhe cabe:** Identifica quais arquivos de implementação contam como texto incorporado vinculante quando adotados; fixa edições; mantém cadeias de custódia; e proíbe o desalinhamento silencioso entre a fonte constitucional e o detalhe operacional.
 - **O que produz:** Uma só fronteira de incorporação — o texto de implementação designado vincula quando adotado; os corpora companheiros implementam a Constituição sem se tornarem uma segunda fonte que a estreite. A [seção 7](#7-companion-implementation-corpus) resume esses corpora em alto nível.
@@ -275,7 +275,7 @@ Além dos capítulos numerados `core_*`, quatro corpora companheiros completam o
 - **[corpus_institutions](../../corpus_institutions.md)** — formação institucional, governança, supervisão, proporcionalidade e disciplina de dissolução.
 - **[corpus_forum](../../corpus_forum.md)** — operações de fórum: formação de painéis, suspeição, faixas de revisão, detalhe de roteamento e apoio forense.
 
-Quando quem adota os incorpora validamente sob o [Capítulo Dezesseis](../../core_16_incorporation.md), esses arquivos vinculam como texto de implementação dentro do alcance de adoção. O significado da Constituição Senciente continua controlando — eles **implementam, não estreitam**, os capítulos acima. A fixação de edição, as cadeias de custódia e a regra de não desalinhamento silencioso mantêm o texto adotado rastreável ao que de fato foi ratificado. A lista canônica e as regras de fronteira vivem em [Capítulo Cinco — Corpus](../../core_05_band_integrative.md#corpus).
+Quando quem adota os incorpora validamente sob o [Capítulo Dezesseis](../../core_17_incorporation.md), esses arquivos vinculam como texto de implementação dentro do alcance de adoção. O significado da Constituição Senciente continua controlando — eles **implementam, não estreitam**, os capítulos acima. A fixação de edição, as cadeias de custódia e a regra de não desalinhamento silencioso mantêm o texto adotado rastreável ao que de fato foi ratificado. A lista canônica e as regras de fronteira vivem em [Capítulo Cinco — Corpus](../../core_05_band_integrative.md#corpus).
 
 Os princípios, as definições, os direitos, as cadeias de processo, a governança, as regras de emenda e a implementação incorporada devem ser lidos juntos para preservar o propósito protetor da Constituição.
 

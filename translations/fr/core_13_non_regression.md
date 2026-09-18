@@ -6,15 +6,15 @@
 
 > Le contenu ci-dessous est **uniquement un guide de lecture**. Il n’ajoute, n’ôte ni ne resserre d’obligations contraignantes dans ce fichier ni dans d’autres chapitres.
 >
-> Ce fichier est un **pilote de langue de lecture** du [Chapitre treize en anglais](../../core_13_non_regression.md). **Ce n’est pas** une partie contraignante de la Constitution sentiente. **Ce n’est pas** une seconde constitution. **Ce n’est pas** une édition d’envoi. Il est **épinglé** à `SC-Corpus-2026.08.09`. Si cette traduction et la source anglaise semblent diverger, le fichier numéroté [`core_13_non_regression.md`](../../core_13_non_regression.md) l’emporte. L’ordre de lecture et les métadonnées d’édition restent dans [README.md](../../README.md). Méthode et glossaire : [translations/fr/README.md](README.md).
+> Ce fichier est un **pilote de langue de lecture** du [Chapitre treize en anglais](../../core_14_non_regression.md). **Ce n’est pas** une partie contraignante de la Constitution sentiente. **Ce n’est pas** une seconde constitution. **Ce n’est pas** une édition d’envoi. Il est **épinglé** à `SC-Corpus-2026.08.09`. Si cette traduction et la source anglaise semblent diverger, le fichier numéroté [`core_13_non_regression.md`](../../core_14_non_regression.md) l’emporte. L’ordre de lecture et les métadonnées d’édition restent dans [README.md](../../README.md). Méthode et glossaire : [translations/fr/README.md](README.md).
 >
-> Il contient le **Chapitre treize** : non-régression substantielle et validité substantielle de l’amendement (Test 1). Le **Chapitre quatorze** est dans [`core_14_expansion_supremacy.md`](../../core_14_expansion_supremacy.md). Le **Chapitre quinze** est dans [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md). La validité de l’amendement doit préserver les deux [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) — **Épanouissement** et **Continuité** — et ne doit pas vider la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) en deçà des exigences d’[enjeu matériel](core_00_preamble.md#material-stake). La numérotation des chapitres et les renvois correspondent à l’instrument intégré.
+> Il contient le **Chapitre treize** : non-régression substantielle et validité substantielle de l’amendement (Test 1). Le **Chapitre quatorze** est dans [`core_14_expansion_supremacy.md`](../../core_15_expansion_supremacy.md). Le **Chapitre quinze** est dans [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md). La validité de l’amendement doit préserver les deux [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) — **Épanouissement** et **Continuité** — et ne doit pas vider la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) en deçà des exigences d’[enjeu matériel](core_00_preamble.md#material-stake). La numérotation des chapitres et les renvois correspondent à l’instrument intégré.
 
 
 >
 > **Précédent (cette langue) :** [core_12_governance.md](core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
 >
-> **Suivant (encore en anglais) :** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+> **Suivant (encore en anglais) :** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 > **Arc de lecture :** §1 plancher de non-régression → §2 Test 1 → §3 anti-contournement et renvoi → §4 portée de couche
 </details>
 
@@ -37,7 +37,7 @@
 
 - En amont : [Chapitre un](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) ; [Chapitres deux à quatre](core_02_definition_structure.md) intégrité et vérification ; [Chapitre six](core_06_rights_part_a.md#chapter-six-foundational-rights) Plancher des droits ; [Chapitre douze](core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) exigences de légitimité et d’administration responsable.
 - Sous-sections : [§1](#1-non-regression-floor) ; [§2](#2-test-1-substantive-non-regression-validity) ; [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) ; [§4](#4-layer-scope).
-- En aval : [Chapitre quatorze](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) expansion et suprématie ; [Chapitre quinze](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) validité procédurale, ratification et exigences d’amendement ; [Chapitre huit](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) et [Chapitre dix](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) pour la classification canonique là où les déclencheurs de renvoi routent.
+- En aval : [Chapitre quatorze](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) expansion et suprématie ; [Chapitre quinze](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) validité procédurale, ratification et exigences d’amendement ; [Chapitre huit](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) et [Chapitre dix](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) pour la classification canonique là où les déclencheurs de renvoi routent.
 - Lire avec : [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) parcours non opératoire des **Chapitres onze à quatorze** sur le changement constitutionnel et l’incorporation.
 
 </details>
@@ -96,7 +96,7 @@ L’affaiblissement matériel comprend le resserrement indirect par :
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - En amont : [§1](#1-non-regression-floor) définition du plancher de non-régression.
-- En aval : [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) contournement et renvoi d’inconduite ; [Chapitre quinze](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) Tests 2–4 et exigences procédurales (invalide si le Test 1 échoue, indépendamment de la procédure).
+- En aval : [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) contournement et renvoi d’inconduite ; [Chapitre quinze](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) Tests 2–4 et exigences procédurales (invalide si le Test 1 échoue, indépendamment de la procédure).
 - Lire avec : [Chapitre un](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) contraintes de principe non négociables ; [Chapitre douze](core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) obligations de légitimité.
 
 </details>
@@ -157,8 +157,8 @@ L’inconduite **forcée** ou de **nullification** se route par les **critères 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - En amont : [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) discipline de renvoi seulement ; [Chapitre huit](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) et [Chapitre dix](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) titulaires canoniques.
-- En aval : [Chapitre quinze §12](../../core_15_amendment_ratification.md#12-layer-scope) discipline miroir de couche procédurale ; texte de mise en œuvre pour la mécanique d’exécution de l’examen.
-- Lire avec : [Pile d’autorité et hiérarchie interne](core_05_band_integrative.md#owner-non-relocation) et le [Préambule — registre positif des titulaires](core_00_preamble.md#4-principles-definitions-and-rights) ; [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) sur la voie de changement et l’incorporation ; [Chapitre quinze](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) pour les tests de validité qui ne dupliquent pas la taxonomie de classification de créneau.
+- En aval : [Chapitre quinze §12](../../core_16_amendment_ratification.md#12-layer-scope) discipline miroir de couche procédurale ; texte de mise en œuvre pour la mécanique d’exécution de l’examen.
+- Lire avec : [Pile d’autorité et hiérarchie interne](core_05_band_integrative.md#owner-non-relocation) et le [Préambule — registre positif des titulaires](core_00_preamble.md#4-principles-definitions-and-rights) ; [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) sur la voie de changement et l’incorporation ; [Chapitre quinze](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) pour les tests de validité qui ne dupliquent pas la taxonomie de classification de créneau.
 
 </details>
 
@@ -187,7 +187,7 @@ Les ajouts futurs qui touchent un langage à saveur d’infraction, de sanction 
 > - **mesure générale de contribution et d’infraction** (Axe de contribution / Axe d’infraction) — **Chapitre huit** dans [core_08_standing_assessment.md](core_08_standing_assessment.md) ; **effets de trajectoire et intégration** — **Chapitre neuf** dans [core_09_standing_integration.md](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) ;
 > - **créneaux numériques de l’Axe de contribution et de l’Axe d’infraction** — l’**échelle unifiée du Chapitre huit §7**, avec des registres séparés et des créneaux d’infraction contrôlés seulement par l’impact vérifié ; et la **désignation d’inconduite anticonstitutionnelle** correspondante pour un créneau qualificatif 7, 8 ou 9 de l’Axe d’infraction — **Chapitre dix** dans [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) ;
 > - **flux opératoire de forum et procédure adjudicative** — **Chapitre onze** et [corpus_forum.md](../../corpus_forum.md) ;
-> - **validité procédurale et de garde** pour l’amendement, la ratification et l’adoption — **Chapitre quinze** dans [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) ; et
+> - **validité procédurale et de garde** pour l’amendement, la ratification et l’adoption — **Chapitre quinze** dans [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) ; et
 > - **procédure institutionnelle détaillée, mécanique de dotation en personnel et intégration structurelle conjointe inter-mises en œuvre** pour l’exécution de l’examen — texte de mise en œuvre désigné et chapitres titulaires nommés dans le [Préambule — registre positif des titulaires](core_00_preamble.md#4-principles-definitions-and-rights).
 >
 > Les couches titulaires ne doivent pas être lues comme relocalisant les normes de validité constitutionnelle hors des **Chapitres treize et quinze**, l’autorité de mesure de l’Axe de contribution / Axe d’infraction hors de l’**échelle unifiée du Chapitre huit §7**, ou l’autorité de désignation d’inconduite anticonstitutionnelle hors du **Chapitre dix**. Le Chapitre dix n’assigne pas le créneau numérique. Pour un parcours d’architecture non opératoire, voir [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md).
@@ -198,6 +198,6 @@ Les ajouts futurs qui touchent un langage à saveur d’infraction, de sanction 
 
 **Fichier précédent :** [core_12_governance.md](core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
 
-**Fichier suivant (encore en anglais) :** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+**Fichier suivant (encore en anglais) :** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 
-**Original contraignant :** [core_13_non_regression.md](../../core_13_non_regression.md)
+**Original contraignant :** [core_13_non_regression.md](../../core_14_non_regression.md)

@@ -96,7 +96,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 하류: 번영 측정 가족 — 링크만인 롤업; 용어별 단계는 아래 표에 연결된 잎 정의에 산다.
-- 함께 읽기: [제7장 §3 전체 체계 인증 평가](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)에서 전체 체계 효과, 생존 바닥 전달, 또는 **안전 조건**이 실질로 범위에 있을 때.
+- 함께 읽기: [제7장 §3 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)에서 전체 체계 효과, 생존 바닥 전달, 또는 **안전 조건**이 실질로 범위에 있을 때.
 
 </details>
 

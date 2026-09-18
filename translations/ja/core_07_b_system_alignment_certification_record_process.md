@@ -7,7 +7,7 @@
 
 > 以下の内容は**読者向け案内にすぎない**。本ファイルまたは他の章にある拘束力のある義務を加え、除き、または狭めない。
 >
-> 本ファイルは[英語第七章、B部](../../core_07_b_system_alignment_certification_record_process.md)の**読者言語パイロット**である。**感知者憲法の拘束力ある部分ではない**。**第二の憲法ではない**。**配布版ではない**。`SC-Corpus-2026.08.09` に**固定**されている。本訳文と英語原文が食い違って見える場合、番号付きファイル [`core_07_b_system_alignment_certification_record_process.md`](../../core_07_b_system_alignment_certification_record_process.md) が勝つ。読み順と版のメタデータは [README.md](../../README.md) に保たれる。方法と用語表：[translations/ja/README.md](README.md)。
+> 本ファイルは[英語第七章、B部](../../core_08_b_system_alignment_certification_record_process.md)の**読者言語パイロット**である。**感知者憲法の拘束力ある部分ではない**。**第二の憲法ではない**。**配布版ではない**。`SC-Corpus-2026.08.09` に**固定**されている。本訳文と英語原文が食い違って見える場合、番号付きファイル [`core_07_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md) が勝つ。読み順と版のメタデータは [README.md](../../README.md) に保たれる。方法と用語表：[translations/ja/README.md](README.md)。
 >
 > **第七章、B部**を含む — 認証**記録**の内容、透明性と争訟可能性、フォーラム構成要素の役割、監督の順序、軌跡の橋、および再開（**§11–§16**、A部 §1–§10 からの続き）。**A部** — 評価の要件 — は [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md) にある。
 >
@@ -30,7 +30,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流： [A部 §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*認証の目的と評価の道筋*)； [A部 §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) から [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*記録のための評価出力*)； [憲法四元](core_00_preamble.md#constitutional-tetrad)； [二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)。
-- 下流： [§11](#11-certification-record) から [§16](#16-reopening-drift-and-non-evasion)； [第八章](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)； [第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)。
+- 下流： [§11](#11-certification-record) から [§16](#16-reopening-drift-and-non-evasion)； [第八章](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)； [第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)。
 - あわせて読む： [corpus_forum.md](../../corpus_forum.md)、**CF-5** および **CF-7**。
 
 </details>
@@ -392,7 +392,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流： [§11](#11-certification-record) から [§13](#13-forum-supervision-and-component-roles) (*認証記録とフォーラム監督*)； [憲法四元](core_00_preamble.md#constitutional-tetrad)； [二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)； [軌跡のための検証済み入力](core_05_band_accountability.md#verified-inputs-for-standing)。
-- 下流： [第八章](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*軌跡記録と検証済み入力の門*)； [第九章](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*軌跡効果と統合*)。
+- 下流： [第八章](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*軌跡記録と検証済み入力の門*)； [第九章](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*軌跡効果と統合*)。
 - あわせて読む： **第 III-A 条** (*認証が供給を門戸するところでの生存必需へのアクセス*)。
 
 </details>
@@ -450,8 +450,8 @@
 
 - 認証記録は軌跡効果を**適用しない**；
 - 本章は **システム整合認証および関連記録** のみを所管する — [前文 — 憲法上の所管登録](core_00_preamble.md#4-principles-definitions-and-rights) を見よ。[権限スタックと内部階層](core_05_band_integrative.md#authority-stack) とあわせて読む；
-- [第八章](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) は軌跡記録と軸に純な測定を所管する；
-- [第九章](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) は軌跡の統合と効果を所管する；
+- [第八章](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) は軌跡記録と軸に純な測定を所管する；
+- [第九章](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) は軌跡の統合と効果を所管する；
 - 本章は上記の門を通じてのみ検証済み入力を供給してよい；
 - 第八章または第九章の所管義務を吸収、再述、または移してはならない。
 
@@ -466,7 +466,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流： [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*誤分類と不整合*)； [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*リスク評価とリスク開示の欠陥*)； [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) (*足跡の誤表示と不整合*)； [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) (*資源流の誤表示、抽出の不整合、および支えの不足*)； [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) (*差別パターンの不整合と代理による回避*)； [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) (*アクセシビリティの不整合と紙だけの配慮*)； [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) (*評価の不透明さの不整合、資格による門戸、および押しつけられた陳腐化の不整合*)； [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*偽りの信頼の不整合、歪んだ誘因の不整合、および回復の誠実性の不整合*)； [§12](#12-transparency-auditability-and-contestability) (*争訟可能性*)； [§14](#14-supervisory-sequence-and-contestability-chain) (*信頼できる異議と再開*)； [第三章 §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) および [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*定義の誠実性と回避*)； [第三章 §2.1 よくある回避パターン](core_03_definition_integrity.md#21-common-evasion-patterns) (*範囲と境界の回避*)； [チャーター](core_05_band_continuity.md#charter) (*チャーターと振る舞いの不一致、および期限切れの審査*)。
-- 下流： [第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*再開されたフォーラム監督*)； [第八章](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*事実が不利な所見を支えるところでの検証済み入力の門*)。
+- 下流： [第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*再開されたフォーラム監督*)； [第八章](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*事実が不利な所見を支えるところでの検証済み入力の門*)。
 - あわせて読む： [corpus_systems.md](../../corpus_systems.md) (*編入されたシステム実施義務*)。定期的データ種類再評価についての **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*再分類とライフサイクル統治*)、およびシステムクラス再評価の引き金と SAC 検証についての **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*再分類要件*) を含む。
 
 </details>
@@ -515,4 +515,4 @@
 
 **次のファイル（本言語）：** [core_08_standing_assessment.md](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)
 
-**拘束力ある原文：** [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md)
+**拘束力ある原文：** [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md)

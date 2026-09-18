@@ -6,15 +6,15 @@
 
 > 以下の内容は**読者向け案内にすぎない**。本ファイルまたは他の章にある拘束力のある義務を加え、除き、または狭めない。
 >
-> 本ファイルは[英語第十一章](../../core_11_forum.md)の**読者言語パイロット**である。**感知者憲法の拘束力ある部分ではない**。**第二の憲法ではない**。**配布版ではない**。`SC-Corpus-2026.08.09` に**固定**されている。本訳文と英語原文が食い違って見える場合、番号付きファイル [`core_11_forum.md`](../../core_11_forum.md) が勝つ。読み順と版のメタデータは [README.md](../../README.md) に保たれる。方法と用語表：[translations/ja/README.md](README.md)。
+> 本ファイルは[英語第十一章](../../core_12_forum.md)の**読者言語パイロット**である。**感知者憲法の拘束力ある部分ではない**。**第二の憲法ではない**。**配布版ではない**。`SC-Corpus-2026.08.09` に**固定**されている。本訳文と英語原文が食い違って見える場合、番号付きファイル [`core_11_forum.md`](../../core_12_forum.md) が勝つ。読み順と版のメタデータは [README.md](../../README.md) に保たれる。方法と用語表：[translations/ja/README.md](README.md)。
 >
 > **第十一章**を含む：フォーラム群、既定会場と第一次利害の経路づけ、鑑識の支え、受付仕分け、および軌跡の鎖と権利の床のもとでの紛争の管轄。フォーラムは、[憲法四元](core_00_preamble.md#constitutional-tetrad)の**参加**、**監督**、および**適時性**の脚のもとで、[実質的利害](core_00_preamble.md#material-stake)に応じて尺度を合わせ、紛争の取扱いを**監督**する。事実が検証されたとき、[第八章 §3](core_08_standing_assessment.md#3-standing-record-operational-requirements)のもとで軌跡記録を**開き、更新し、または訂正**してよい — または**異議において悪い記録を脇へ置く**。申し立てられた事件はそれ自体では軌跡ではなく、フォーラム物語は第八章の軌跡測定の代わりになってはならない（[第八章 §3.6](core_08_standing_assessment.md#36-forum-boundary)）。鎖の案内には [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums) を用いよ。運用上のフォーラムの仕組みは指定された実施ファイルに残る。章番号と相互参照は統合された文書と一致する。
 
 
 >
-> **前（なお英語）：** [core_10_b_misconduct_pattern_applications.md](../../core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)
+> **前（なお英語）：** [core_10_b_misconduct_pattern_applications.md](../../core_11_b_misconduct_pattern_applications.md#chapter-eleven-part-b-anti-constitutional-misconduct-pattern-applications)
 >
-> **次（なお英語）：** [core_08-11_application_vignettes.md](../../core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes)
+> **次（なお英語）：** [core_08-11_application_vignettes.md](../../core_09-12_application_vignettes.md#chapters-eight-eleven-application-vignettes)
 > **読みの弧：** §1 目的 → 紛争の順序づけ → §2 既定会場と受付 → §2.1–§2.3 主導の限度、混合利害、異議 → §3 移送と自己審判防止 → §4 群 → §5 拡大と認証 → §6 段階と遅延防止 → §7 フォーラムの支え
 </details>
 
@@ -27,7 +27,7 @@
 > - **憲法上の所管者：** **第 1 節**（*目的* — 本章が割り当てる規範の**第一次の裁定適用**であり、日常の**執行管理**とは**区別される**；すでに授権されたシステムの内側の通常の紛争についての**紛争の順序づけ**；**説明責任**の要件；**公表**され**予測可能**な**閾**の配置）；**既定の出発会場**、**第一次利害**の経路づけ、**受付仕分け機関**（**第一接触窓口**）、混合利害、非対称、軌跡記録への異議、**誠実な性格付けと弄り防止**、および**感知者に到達可能な** **閾** **アクセス**の期待（**第 2 節**、**`corpus_forum.md`** と**あわせて読む**）；**移送**、**併合**、および**調整**（**第 3 節**、**第 5 節**の認証と予備とあわせて読む）；**フォーラム群の定義**、**内部部局**、**共有標準**、および**暫定運用法**（感知者、技術、制度、環境、誠実性、憲法 — **第** **4** **節**、**第** **2** **節**の**表**を鏡にする）；**拡大**、**認証**、および**暫定保護**（**第 5 節**）；**適時の解決**と**遅延防止**の規律（**第 6 節**）；審査の前・中・後の**フォーラムの支え**（**第 7 節**）。仕分けと支えの役割が**適法に構成された本案合議体**の**代わりにならない**ように実施する；**自己審判防止**の予備経路づけ；**第八章**、**第十章**、および**第六章**の正義と異議の権利に結ばれた拡大のフック。
 > - **鎖の案内：** [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums) — 本ファイルの [§§1–7](#1-purpose-and-role)。
 > - **第八–第九章の三つの問いの鎖：** 第八章の**第 2–3 節**は、検証済みの軸純粋な記録を通じて問い 1（*何が起きたか？*）に答える。[第八章 §4](core_08_standing_assessment.md#4-standing-measurement-evaluation-dimensions) と [§7 の統一比例 LEQU 尺度](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) は、評価の次元、共有の五倍 LEQU 帯、および共有の **s** = 1...9 の文法を通じ、貢献記録と違反記録を別に保ちつつ、問い 2（*どれほど良いか、または悪いか？*）に答える。[第九章](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) は、救済、保障、能力の閾と許可、および軌跡ロックを通じて問い 3（*そのために何が起きるか？*）に答える。違反軸の箱を制御するのは検証済み影響だけである；過失、隠蔽、強制、応答、および比較可能な性格の記述子はそれを動かさない。[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) は、第八章の箱 7、8、または 9 の記録に対応する反憲法的不正行為の指定を加えてよいが、数値の箱は割り当てない。
-> - **フォーラム（非操作性の注）：** 本章のもとでの**フォーラム群**は、[第八章](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) の分類を具体的紛争へ適用する第一次の**フォーラム**である — 別に記録された**貢献の性質**、**違反軸の影響箱**、および過程／応答の性格が**共在**し、**第八章**の共同評価と非置換の規律のもとで扱われなければならない事案を含む。裁定の外の**研究資金**、**融資**、および**誘因**の仕組みは、採択された実施および **[corpus_systems.md](../../corpus_systems.md)** に残る（**第八章**の読者案内を見よ）；予防と根本原因の探究を支えてよいが、**閾**の経路づけ、**本案**の決定、権限ある第八章の数値箱の割当、対応する**第十章**指定、または **Article XXIII**（《衝突解決、段階的拡大、緊急の比例性》）の制約の**代わりになってはならない**。**第 1 節と第 2 節**は、**誘因**構造についての**第一次**の責任を、各**群**の**領域**の**内側**に**主として**割り当てる（細目は**コーパス**と実施）；その**割当**は、[第十二章](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) および **[corpus_systems.md](../../corpus_systems.md)** に留保された**システム全体**の**予算**または**統治規模**の選択を**移さない**。
+> - **フォーラム（非操作性の注）：** 本章のもとでの**フォーラム群**は、[第八章](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) の分類を具体的紛争へ適用する第一次の**フォーラム**である — 別に記録された**貢献の性質**、**違反軸の影響箱**、および過程／応答の性格が**共在**し、**第八章**の共同評価と非置換の規律のもとで扱われなければならない事案を含む。裁定の外の**研究資金**、**融資**、および**誘因**の仕組みは、採択された実施および **[corpus_systems.md](../../corpus_systems.md)** に残る（**第八章**の読者案内を見よ）；予防と根本原因の探究を支えてよいが、**閾**の経路づけ、**本案**の決定、権限ある第八章の数値箱の割当、対応する**第十章**指定、または **Article XXIII**（《衝突解決、段階的拡大、緊急の比例性》）の制約の**代わりになってはならない**。**第 1 節と第 2 節**は、**誘因**構造についての**第一次**の責任を、各**群**の**領域**の**内側**に**主として**割り当てる（細目は**コーパス**と実施）；その**割当**は、[第十二章](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) および **[corpus_systems.md](../../corpus_systems.md)** に留保された**システム全体**の**予算**または**統治規模**の選択を**移さない**。
 > - **実施の所管者：** 公表された受付**クラス**、日常の審理規則、人員、予算、細かな手続、運用上の拡大の仕組み、およびフォーラム支えの運用要件は、採択された実施本文および **[corpus_forum.md](../../corpus_forum.md)** に住む（**CF-5**（《経路づけの運用、移管、認証、代表的取扱い》）、**CF-8**（《フォーラムの鑑識と分析の支え》）、**CF-9**（《独立調査サービスと訴追のインタフェース》）、および関連節）；それらの層は本章を**実施し、狭めない**。
 > - **再配置禁止規則：** 採択文書は、別個のフォーラム機能を折り畳み、**独立**または**本物の審査**を剥ぎ、または本章が唯一の最終本案の本拠として禁じる同一の捕捉されたフォーラムへ誠実性の異議を戻す手続によって、本章を満たしてはならない。
 >
@@ -41,7 +41,7 @@
 - 上流：[第八章](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)（*本章が経路づける紛争を供給する問い 1 の記録と問い 2 の測定*）；[第八章 §5.1](core_08_standing_assessment.md#5-slot-grammar-and-display-labels)（*軌跡箱の文法*）；[第八章 §7 統一尺度](core_08_standing_assessment.md#7-unified-proportional-lequ-scale)（*共有の五倍 LEQU 帯と別々の軸記録*）；[第八章 §§4.3–4.4](core_08_standing_assessment.md#43-route-descriptor-measurement-roles)（*軸横断の正規化記述子カタログ。箱を動かさない貢献軸および違反軸の記述子を含む*）；[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)（*適格な第八章の箱 7–9 についての対応する反憲法的不正行為の指定*）；[第二章から第四章](core_02_definition_structure.md)（*記録、検証、および追跡の期待*）；[第五章](core_05__definitions_home.md#chapter-five-foundational-definitions)（*基礎定義*）；[第一章](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints)（*解釈の制約*）；[第六章 — 基礎的権利](core_06_rights_part_a.md#chapter-six-foundational-rights) から [D部](core_06_rights_part_d.md)（*異議、監査、および正義の条のフック*）。
 - 下位節：[§1](#1-purpose-and-role)；[§2](#2-default-venue-and-primary-stakes)；[§3](#3-transfer-consolidation-and-coordination)；[§4](#4-forum-family-definitions)；[§5](#5-escalation-and-certification)；[§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)；[§7](#7-forum-support-before-during-and-after-review)。
 - あわせて読む：[README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)。
-- 下流：[corpus_forum.md](../../corpus_forum.md)（*運用上のフォーラム教義*）；裁定の役割と統治正当性が交わるところでの [第十二章](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)；採択された手続層についての [第十六章](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)（*編入の規律*）。
+- 下流：[corpus_forum.md](../../corpus_forum.md)（*運用上のフォーラム教義*）；裁定の役割と統治正当性が交わるところでの [第十二章](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)；採択された手続層についての [第十六章](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)（*編入の規律*）。
 - あわせて読む：[第八章 §5.1](core_08_standing_assessment.md#5-slot-grammar-and-display-labels)（*軌跡箱の文法*）；[第八章 §§4.3–4.4](core_08_standing_assessment.md#43-route-descriptor-measurement-roles)（*軸横断の正規化された貢献軸および違反軸の記述子*）。
 - あわせて読む（追加）：[第九章 §3](core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization)（*第 2 節の第一次利害の経路づけとあわせて読む記述子の統合と添付の正規化*）；[README.md](../../README.md)（*読み順とコーパスの組織*）；[doc_architecture.md](../../doc_architecture.md)（*採択されない限り拘束力のない編集地図*）。
 
@@ -121,7 +121,7 @@ flowchart TD
 - **第二章から第四章**、異議と是正が関わるところでの **Article XII-B**（《異議申立て、審査、救済への権利》）、および正義の制約が統治するところでの **Article XXIII**（《衝突解決、段階的拡大、緊急の比例性》）における**独立**、**争訟可能性**、および**追跡**の期待を満たさなければならない。
 - この文書が述べるもっとも厳格な手続および誠実性・説明責任の要件に服する。公の正当化、追跡可能性、忌避と合議体の規律、本章が割り当てるところでの鑑識と分析の支えを含む
 - 自己審判防止の予備経路づけを要する。それらの要件は、裁定の独立を政治的制御で置き換えてはならない。
-- **誠実性**、**憲法**、および**環境**フォーラム、ならびに感知性地位の裁定を聴くときの**技術フォーラム領域**は、[第十二章 §1.2](../../core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums) のもとで**公表**され、**争われ**、**交替可能**な任命または同等の独立点検を要する。それらの合議体の任命不足または資金不足は、[第九章 §9](core_09_standing_integration.md#9-enforcement-realism) の失敗である。
+- **誠実性**、**憲法**、および**環境**フォーラム、ならびに感知性地位の裁定を聴くときの**技術フォーラム領域**は、[第十二章 §1.2](../../core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums) のもとで**公表**され、**争われ**、**交替可能**な任命または同等の独立点検を要する。それらの合議体の任命不足または資金不足は、[第九章 §9](core_09_standing_integration.md#9-enforcement-realism) の失敗である。
 
 各**フォーラム群**は、主として自らの領域内の誘因構造について第一次の責任を負う。これには次を含む：
 
@@ -129,7 +129,7 @@ flowchart TD
 - 費用、制裁、異議、および報告の指名された経路の審査
 - 是正の順序づけのフック、および比較可能な裁定隣接の整合。
 
-**システム全体**の予算、横断する研究資金、および統治規模の計画は、適用されるところで [第十二章 — 統治](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)、**[corpus_systems.md](../../corpus_systems.md)**、および他の最高性規則に服したままである。報酬、費用規則、および同様の誘因の道具は、次の**代わりになってはならない**：
+**システム全体**の予算、横断する研究資金、および統治規模の計画は、適用されるところで [第十二章 — 統治](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)、**[corpus_systems.md](../../corpus_systems.md)**、および他の最高性規則に服したままである。報酬、費用規則、および同様の誘因の道具は、次の**代わりになってはならない**：
 
 - 適正なフォーラムの経路づけ
 - 適法に構成された合議体による本物の本案決定
@@ -195,7 +195,7 @@ flowchart TD
      - 求められるところでの**憲法**認証；
      - 制度当事者の規則；および
      - **第 2、3、および 5 節**のもとでの自己審判防止の予備。
-   - **フォーラム偏りの紛争：** 争いが主として、脇へ退くべき合議体構成員、偏った合議体参加、または比較可能なフォーラム誠実性の侵害 — **[Article XXII-B](core_06_rights_part_c.md#article-xxii-b-composition-rotation-and-conflict-controls)（《構成、交替、および利害衝突の制御》）** のもとでの**憲法**フォーラム合議体におけるものを含む — についてのものであるなら、まず**誠実性**フォーラムへ経路づけよ。**第 3 節**のもとで、フォーラムは自らの偏りの唯一の最終判定者であってはならない：**憲法**フォーラムは、自らの合議体構成員が忌避すべきだったかどうかを決める唯一の最終フォーラムであってはならない。軌跡ロックの規律：**[第九章 §5.5](core_09_standing_integration.md#55-special-locks)**。指名された不正行為のパターン：**[第十章 §5.10](../../core_10_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)**。
+   - **フォーラム偏りの紛争：** 争いが主として、脇へ退くべき合議体構成員、偏った合議体参加、または比較可能なフォーラム誠実性の侵害 — **[Article XXII-B](core_06_rights_part_c.md#article-xxii-b-composition-rotation-and-conflict-controls)（《構成、交替、および利害衝突の制御》）** のもとでの**憲法**フォーラム合議体におけるものを含む — についてのものであるなら、まず**誠実性**フォーラムへ経路づけよ。**第 3 節**のもとで、フォーラムは自らの偏りの唯一の最終判定者であってはならない：**憲法**フォーラムは、自らの合議体構成員が忌避すべきだったかどうかを決める唯一の最終フォーラムであってはならない。軌跡ロックの規律：**[第九章 §5.5](core_09_standing_integration.md#55-special-locks)**。指名された不正行為のパターン：**[第十章 §5.10](../../core_11_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)**。
    - **技術の仕方の問い：** 仕様、方法、測定、試験、および専門家証拠の問いは、それらが第一次利害または認証された構成要素の問いであるとき、**技術フォーラム領域**へ行く。
    - **システム整合の承認印：**
      - 新たな実質的影響システムの公式の**憲法整合認定**、および既存のものについての**継続整合検証**は、主導として**誠実性**に既定する。
@@ -618,7 +618,7 @@ flowchart TD
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[§2](#2-default-venue-and-primary-stakes) および [§3](#3-transfer-consolidation-and-coordination)（*既定会場、受付、移送、混合利害、および自己審判防止の予備*）；[§4.6](#46-constitutional-forums) および [§4.7](#47-provisional-implementation-operational-law)（*暫定法の処分と発出*）；[第八章 §7 統一尺度](core_08_standing_assessment.md#7-unified-proportional-lequ-scale)（*数値の影響箱の割当*）；[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)（*適格な箱 7–9 についての対応する反憲法的不正行為の指定*）；[第一章](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints)（*認証された憲法上の問いにおける安全と真理のフック*）。
-- 下流：[§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（*実質性段階と遅延防止の規律*）；[§7](#7-forum-support-before-during-and-after-review)（*拡大と認証についての争訟可能なフォーラムの支え*）；[第十六章](../../core_16_incorporation.md)（***Article V-E**（《感知性地位の裁定の床》）実施設計についての実施経路づけ*）。
+- 下流：[§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（*実質性段階と遅延防止の規律*）；[§7](#7-forum-support-before-during-and-after-review)（*拡大と認証についての争訟可能なフォーラムの支え*）；[第十六章](../../core_17_incorporation.md)（***Article V-E**（《感知性地位の裁定の床》）実施設計についての実施経路づけ*）。
 - §5 の内側：[暫定保護](#interim-protection)（*本案待ちの現状と複数フォーラムの暫定命令の衝突調整*）。
 - あわせて読む：[Article V-E：感知性地位の裁定の床](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor)；[第五章 — 感知性地位の裁定](core_05_band_participation.md#sentience-status-adjudication-constitutional)；[Article XXIII-A](core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope)（《正義の目的と範囲》）から [Article XXIII-C](core_06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule)（*第十章指定とあわせて参照される審査保障*）；[Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)（*認証 — 整合裁定と一般教義*）。
 
@@ -793,7 +793,7 @@ flowchart TD
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor)（*適時、効率的、かつ公正な床*）；[README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)；[Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)（*異議と是正へのアクセス*）；[Article XXIII-D](core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden)（*継続の規律*）；[§5](#5-escalation-and-certification)（*拡大と認証の時計が相互作用する*）。
-- 下流：[§7](#7-forum-support-before-during-and-after-review)（*点検、鑑識、および追跡の支え*）；[§5](#interim-protection)（*暫定保護*）；[corpus_forum.md](../../corpus_forum.md)（**CF-11.3.1**（《目標窓と時期の床》））；[corpus_institutions.md](../../corpus_institutions.md)（**CI-8**（《到達可能な経路》））；[第八–第十一章の適用ヴィニエット](../../core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes)；[Article XXIII-D](core_06_rights_part_d.md#xxiii-d-restore-challenge-clocks)（*既定の修復・異議窓と同一の外縁*）。
+- 下流：[§7](#7-forum-support-before-during-and-after-review)（*点検、鑑識、および追跡の支え*）；[§5](#interim-protection)（*暫定保護*）；[corpus_forum.md](../../corpus_forum.md)（**CF-11.3.1**（《目標窓と時期の床》））；[corpus_institutions.md](../../corpus_institutions.md)（**CI-8**（《到達可能な経路》））；[第八–第十一章の適用ヴィニエット](../../core_09-12_application_vignettes.md#chapters-eight-eleven-application-vignettes)；[Article XXIII-D](core_06_rights_part_d.md#xxiii-d-restore-challenge-clocks)（*既定の修復・異議窓と同一の外縁*）。
 - 四元の脚：**適時性**（横断する執行）；**参加**と**監督**（到達可能な受付と公表された里程標）。第一次の目的：**繁栄**と**継続**。
 - あわせて読む：適時性の測定ファミリー（《適時の解決と遅延防止および解決経路の規律》）；[実質性の判定](core_05_band_oversight.md#materiality-determination)；[適時の解決](core_05_band_accountability.md#timely-resolution-constitutional)；[解決経路の捕捉](core_05_band_accountability.md#capture-of-resolution-pathways)；[憲法上の効率](core_05_band_continuity.md#constitutional-efficiency)。
 - 責務ある管理の入口（非操作性）：拘束力ある次の一歩の声明：[操作性の責務ある管理の声明（Article XXIV-C）](core_06_rights_part_d.md#operative-steward-statement-delay)。支援ポインタはそれを狭められない。
@@ -924,9 +924,9 @@ flowchart TD
 
 ---
 
-**前のファイル（なお英語）：** [core_10_b_misconduct_pattern_applications.md](../../core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)
+**前のファイル（なお英語）：** [core_10_b_misconduct_pattern_applications.md](../../core_11_b_misconduct_pattern_applications.md#chapter-eleven-part-b-anti-constitutional-misconduct-pattern-applications)
 
-**次のファイル（なお英語）：** [core_08-11_application_vignettes.md](../../core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes)
+**次のファイル（なお英語）：** [core_08-11_application_vignettes.md](../../core_09-12_application_vignettes.md#chapters-eight-eleven-application-vignettes)
 
-**拘束力ある原文：** [core_11_forum.md](../../core_11_forum.md)
+**拘束力ある原文：** [core_11_forum.md](../../core_12_forum.md)
 

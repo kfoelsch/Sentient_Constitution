@@ -6,15 +6,15 @@
 
 > নিচের বিষয়বস্তু **শুধু পাঠক নির্দেশনা**। এটি এই ফাইল বা অন্য অধ্যায়ে বাধ্যতামূলক কর্তব্য যোগ করে না, কমায় না, সংকুচিতও করে না।
 >
-> এই ফাইল [ইংরেজি অধ্যায় বারো](../../core_12_governance.md)-এর **পাঠক-ভাষার পাইলট**। এটি সংজ্ঞ সংবিধানের **বাধ্যতামূলক অংশ নয়**। এটি **দ্বিতীয় সংবিধান নয়**। এটি **প্রেরণ সংস্করণ নয়**। এটি `SC-Corpus-2026.08.09`-এ **পিন**। অনুবাদ ও ইংরেজি মূল যদি অমিল মনে হয়, ক্রমাঙ্কিত [`core_12_governance.md`](../../core_12_governance.md) জিতবে। পড়ার ক্রম ও সংস্করণ মেটাডেটা [README.md](../../README.md)-এ থাকে। পদ্ধতি ও শব্দতালিকা: [translations/bn/README.md](README.md)।
+> এই ফাইল [ইংরেজি অধ্যায় বারো](../../core_13_governance.md)-এর **পাঠক-ভাষার পাইলট**। এটি সংজ্ঞ সংবিধানের **বাধ্যতামূলক অংশ নয়**। এটি **দ্বিতীয় সংবিধান নয়**। এটি **প্রেরণ সংস্করণ নয়**। এটি `SC-Corpus-2026.08.09`-এ **পিন**। অনুবাদ ও ইংরেজি মূল যদি অমিল মনে হয়, ক্রমাঙ্কিত [`core_12_governance.md`](../../core_13_governance.md) জিতবে। পড়ার ক্রম ও সংস্করণ মেটাডেটা [README.md](../../README.md)-এ থাকে। পদ্ধতি ও শব্দতালিকা: [translations/bn/README.md](README.md)।
 >
-> এতে আছে **অধ্যায় বারো**, **সাংবিধানিক চুক্তি স্তর** — শাসন-কর্তৃত্বের জন্য সাংবিধানিক বৈধতা ও দায়িত্বশীল ব্যবস্থাপনা প্রয়োজনীয়তা, ইতিমধ্যে অনুমোদিত ব্যবস্থায় **প্রভাবিত পক্ষের পদ্ধতিগত অংশগ্রহণ** থেকে আলাদা ([প্রস্তাবনা](core_00_preamble.md#chapter-00-preamble--foundational-requirements))। সংশোধন ও গ্রহণ বৈধতা নিয়ন্ত্রণ চলে [অধ্যায় তেরো থেকে পনেরো](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)-তে। অধ্যায় ক্রমাঙ্কন ও ক্রস-রেফারেন্স সমন্বিত দলিলের সঙ্গে মেলে।
+> এতে আছে **অধ্যায় বারো**, **সাংবিধানিক চুক্তি স্তর** — শাসন-কর্তৃত্বের জন্য সাংবিধানিক বৈধতা ও দায়িত্বশীল ব্যবস্থাপনা প্রয়োজনীয়তা, ইতিমধ্যে অনুমোদিত ব্যবস্থায় **প্রভাবিত পক্ষের পদ্ধতিগত অংশগ্রহণ** থেকে আলাদা ([প্রস্তাবনা](core_00_preamble.md#chapter-00-preamble--foundational-requirements))। সংশোধন ও গ্রহণ বৈধতা নিয়ন্ত্রণ চলে [অধ্যায় তেরো থেকে পনেরো](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)-তে। অধ্যায় ক্রমাঙ্কন ও ক্রস-রেফারেন্স সমন্বিত দলিলের সঙ্গে মেলে।
 
 
 >
-> **আগেরটি (এখনও ইংরেজিতে):** [core_11_forum.md](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
+> **আগেরটি (এখনও ইংরেজিতে):** [core_11_forum.md](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction)
 >
-> **পরেরটি (এখনও ইংরেজিতে):** [core_13_non_regression.md](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)
+> **পরেরটি (এখনও ইংরেজিতে):** [core_13_non_regression.md](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)
 > **পড়ার আর্ক:** §0 স্তর সীমানা → §1 অনুমোদন/বৈধতা → §1.1 যন্ত্র পরিবার → §1.2 যোগ্যতা/গণতান্ত্রিক ন্যূনতম → §1.3 প্রত্যাহার-শ্রেণি → §2 অখণ্ডতা সংস্কৃতি → §3 দায়িত্বশীল ব্যবস্থাপনার দিক → §4 ভোট/সমষ্টিগত পছন্দ → §5 অনুমোদিত ভূমিকা
 </details>
 
@@ -65,7 +65,7 @@
 
 - ঊর্ধ্ব: নীতি: [অধ্যায় এক §5 স্বাধীনতা](core_01_a_values_principles.md#5-freedom-bounded-agency), [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [5. প্রক্রিয়া দ্বন্দ্ব নিষ্পত্তি](#6-process-conflict-resolution); [অধ্যায় বারো §0](#0-layer-boundary-for-this-chapter)।
 - উপধারা: [§1.1](#11-mechanism-families-auditability-and-pluralism) (*যন্ত্র পরিবার, নিরীক্ষাযোগ্যতা ও বহুত্ব*); [§1.2](#12-eligibility-contested-selection-and-democratic-minimums) (*যোগ্যতা, প্রতিদ্বন্দ্বিতামূলক নির্বাচন ও গণতান্ত্রিক ন্যূনতম*); [§1.3](#13-recall-class-pathways-and-mid-cycle-transfer-guardrails) (*প্রত্যাহার-শ্রেণি পথ ও চক্র-মধ্যে হস্তান্তর রক্ষাকবচ*)।
-- অধঃ: [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale)-এর অধীনে অখণ্ডতা, কৌশল, ভোট ও ভূমিকা কর্তব্য; [অধ্যায় পনেরো](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity)-এর অধীনে গ্রহণ ও অনুমোদন; অধ্যায় ছয়ে বৈধতা, অংশগ্রহণ ও চ্যালেঞ্জ-যোগ্যতা — বিশেষত [অনুচ্ছেদ XI-C: বৈধতা ফটক ও প্রতীক-নিরোধ অংশগ্রহণ](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation), [অনুচ্ছেদ XVIII: প্রস্থিতি ও অংশগ্রহণ অবস্থা](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status), এবং নিচের কার্যকরী বুলেটে চাবি-দেওয়া অভিব্যক্তি, সমাবেশ ও প্রক্রিয়াগত-ন্যায্যতা অনুচ্ছেদ।
+- অধঃ: [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale)-এর অধীনে অখণ্ডতা, কৌশল, ভোট ও ভূমিকা কর্তব্য; [অধ্যায় পনেরো](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity)-এর অধীনে গ্রহণ ও অনুমোদন; অধ্যায় ছয়ে বৈধতা, অংশগ্রহণ ও চ্যালেঞ্জ-যোগ্যতা — বিশেষত [অনুচ্ছেদ XI-C: বৈধতা ফটক ও প্রতীক-নিরোধ অংশগ্রহণ](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation), [অনুচ্ছেদ XVIII: প্রস্থিতি ও অংশগ্রহণ অবস্থা](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status), এবং নিচের কার্যকরী বুলেটে চাবি-দেওয়া অভিব্যক্তি, সমাবেশ ও প্রক্রিয়াগত-ন্যায্যতা অনুচ্ছেদ।
 - সঙ্গে পড়ুন: এই ধারায় নামকৃত নির্ধারিত **করপাস** ও **[corpus_systems.md](../../corpus_systems.md)** হুক ([corpus_systems.md](../../corpus_systems.md), [corpus_institutions.md](../../corpus_institutions.md))।
 
 </details>
@@ -176,7 +176,7 @@
 
 **মঞ্চ নিয়োগ স্বাধীনতা তল**
 
-- [**অখণ্ডতা**](../../core_11_forum.md#45-integrity-forums), [**সাংবিধানিক**](../../core_11_forum.md#46-constitutional-forums), এবং [**পরিবেশ**](../../core_11_forum.md#44-environment-forums) মঞ্চ, এবং সংজ্ঞ-অবস্থা নিষ্পত্তি শোনে যখন [**কারিগরি মঞ্চ ক্ষেত্র**](../../core_11_forum.md#42-technical-forum-domains), **প্রকাশিত**, **প্রতিদ্বন্দ্বিতামূলক**, **আবর্তনযোগ্য** নিয়োগ বা সমতুল্য স্বাধীনতা পরীক্ষা (সর্টিশন, যুক্তরাষ্ট্রীয় মনোনয়ন, বা তুলনীয়) দিয়ে কর্মী পূরণ করতে হয়।
+- [**অখণ্ডতা**](../../core_12_forum.md#45-integrity-forums), [**সাংবিধানিক**](../../core_12_forum.md#46-constitutional-forums), এবং [**পরিবেশ**](../../core_12_forum.md#44-environment-forums) মঞ্চ, এবং সংজ্ঞ-অবস্থা নিষ্পত্তি শোনে যখন [**কারিগরি মঞ্চ ক্ষেত্র**](../../core_12_forum.md#42-technical-forum-domains), **প্রকাশিত**, **প্রতিদ্বন্দ্বিতামূলক**, **আবর্তনযোগ্য** নিয়োগ বা সমতুল্য স্বাধীনতা পরীক্ষা (সর্টিশন, যুক্তরাষ্ট্রীয় মনোনয়ন, বা তুলনীয়) দিয়ে কর্মী পূরণ করতে হয়।
 - এই তল **যন্ত্র-নিরপেক্ষ**: এটি একক রাষ্ট্রকাঠামো বা একক নিয়োগ পদ্ধতি চাপিয়ে দেয় না।
 - [অধ্যায় নয় §9.2](core_09_standing_integration.md#92-remedy-system-durability) প্রতিকার-ব্যবস্থা স্থায়িত্ব তল পর্যন্ত সেই বেঞ্চ নিয়োগ বা অর্থায়ন না করা বৈধতা ও প্রতিকার ব্যর্থতা, বাস্তবায়ন খোলা রাখতে পারে এমন ফাঁক নয়।
 - নিয়োগ, দক্ষতা, আবর্তন ও অপসারণ যন্ত্রপাতি [**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*নিয়োগ, দক্ষতা, আবর্তন ও অপসারণ*) দ্বারা শাসিত; **CI-4** এই তল সংকুচিত করতে পারে না।
@@ -303,7 +303,7 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - ঊর্ধ্ব: [§1](#1-authorization-and-legitimacy-of-governing-authority) নথিভুক্ত বৈধতা যন্ত্র; [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate) সমষ্টিগত সিদ্ধান্তের দায়িত্বশীল ব্যবস্থাপনা সারিবদ্ধতা।
-- অধঃ: উপধারা [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice); [অধ্যায় তেরো থেকে পনেরো](../../core_13_non_regression.md)-তে গ্রহণ, সর্বোচ্চতা ও অ-পশ্চাদগমন দলিল, এই ধারার শেষে **ক্রস-রেফারেন্স (অধ্যায় বারো)** টীকায় সারসংক্ষেপ অনুসারে।
+- অধঃ: উপধারা [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice); [অধ্যায় তেরো থেকে পনেরো](../../core_14_non_regression.md)-তে গ্রহণ, সর্বোচ্চতা ও অ-পশ্চাদগমন দলিল, এই ধারার শেষে **ক্রস-রেফারেন্স (অধ্যায় বারো)** টীকায় সারসংক্ষেপ অনুসারে।
 - সঙ্গে পড়ুন: [অধ্যায় ছয়](core_06_rights_part_a.md#chapter-six-foundational-rights), বিশেষত [অনুচ্ছেদ XI: প্রভাবিত পক্ষের পদ্ধতিগত অংশগ্রহণ, প্রতিনিধিত্ব ও যথাযথ প্রক্রিয়া](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) এবং §4-এ উদ্ধৃত সংশ্লিষ্ট উপঅনুচ্ছেদ।
 
 </details>
@@ -478,8 +478,8 @@
 
 ---
 
-**আগের ফাইল (এখনও ইংরেজিতে):** [core_11_forum.md](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
+**আগের ফাইল (এখনও ইংরেজিতে):** [core_11_forum.md](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction)
 
-**পরের ফাইল (এখনও ইংরেজিতে):** [core_13_non_regression.md](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)
+**পরের ফাইল (এখনও ইংরেজিতে):** [core_13_non_regression.md](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)
 
-**বাধ্যতামূলক মূল:** [core_12_governance.md](../../core_12_governance.md)
+**বাধ্যতামূলক মূল:** [core_12_governance.md](../../core_13_governance.md)

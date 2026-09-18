@@ -6,15 +6,15 @@
 
 > Aşağıdaki içerik **yalnızca okur rehberidir**. Bu dosyada ya da başka bölümlerde bağlayıcı yükümlülükleri eklemez, çıkarmaz ya da daraltmaz.
 >
-> Bu dosya, [İngilizce On İkinci Bölüm](../../core_12_governance.md)ün bir **okur-dili pilotudur**. Algılayanlar Anayasasının bağlayıcı bir parçası **değildir**. İkinci bir anayasa **değildir**. Bir gönderim baskısı **değildir**. `SC-Corpus-2026.08.09`a **sabitlenmiştir**. Bu çeviri ile İngilizce asıl görünür biçimde ayrışırsa, numaralı [`core_12_governance.md`](../../core_12_governance.md) kazanır. Okuma sırası ve baskı üstverisi [README.md](../../README.md)de tutulur. Yöntem ve sözlük: [translations/tr/README.md](README.md).
+> Bu dosya, [İngilizce On İkinci Bölüm](../../core_13_governance.md)ün bir **okur-dili pilotudur**. Algılayanlar Anayasasının bağlayıcı bir parçası **değildir**. İkinci bir anayasa **değildir**. Bir gönderim baskısı **değildir**. `SC-Corpus-2026.08.09`a **sabitlenmiştir**. Bu çeviri ile İngilizce asıl görünür biçimde ayrışırsa, numaralı [`core_12_governance.md`](../../core_13_governance.md) kazanır. Okuma sırası ve baskı üstverisi [README.md](../../README.md)de tutulur. Yöntem ve sözlük: [translations/tr/README.md](README.md).
 >
-> **On İkinci Bölüm**ü içerir — **Anayasal Sözleşme Katmanı**. Yönetme yetkisinin kendisi için anayasal meşruiyet ve sorumlu yönetim gerekleri; zaten yetkilendirilmiş sistemlerdeki **Etkilenen Tarafların Sistem Katılımı**ndan ayrıdır ([Önsöz](core_00_preamble.md#chapter-00-preamble--foundational-requirements)). Değişiklik ve benimseme geçerlilik denetimleri [On Üçüncü Bölümden On Beşinci Bölüme](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) sürer. Bölüm numaralandırması ve çapraz gönderimler bütünleşik belgelerle örtüşür.
+> **On İkinci Bölüm**ü içerir — **Anayasal Sözleşme Katmanı**. Yönetme yetkisinin kendisi için anayasal meşruiyet ve sorumlu yönetim gerekleri; zaten yetkilendirilmiş sistemlerdeki **Etkilenen Tarafların Sistem Katılımı**ndan ayrıdır ([Önsöz](core_00_preamble.md#chapter-00-preamble--foundational-requirements)). Değişiklik ve benimseme geçerlilik denetimleri [On Üçüncü Bölümden On Beşinci Bölüme](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) sürer. Bölüm numaralandırması ve çapraz gönderimler bütünleşik belgelerle örtüşür.
 
 
 >
 > **Önceki (hâlâ İngilizce):** [core_11_forum.md](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
 >
-> **Sonraki (hâlâ İngilizce):** [core_13_non_regression.md](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)
+> **Sonraki (hâlâ İngilizce):** [core_13_non_regression.md](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)
 > **Okuma yayı:** §0 katman sınırı → §1 yetkilendirme/meşruiyet → §1.1 düzenek aileleri → §1.2 elverişlilik/demokratik asgariler → §1.3 geri çağırma sınıfı → §2 bütünlük kültürü → §3 sorumlu yönetim yönü → §4 oylama/kolektif seçim → §5 yetkilendirilmiş roller
 </details>
 
@@ -65,7 +65,7 @@ Bu bölüm **Anayasal Sözleşme Katmanı**nı belirtir: yönetme yetkisinin ken
 
 - Yukarı: İlkeler: [Birinci Bölüm §5 Özgürlük](core_01_a_values_principles.md#5-freedom-bounded-agency), [§9 Sorumlu yönetim ve dağıtılmış anlayış](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [5. Süreç çatışması çözümü](#6-process-conflict-resolution); [On İkinci Bölüm §0](#0-layer-boundary-for-this-chapter).
 - Alt kesitler: [§1.1](#11-mechanism-families-auditability-and-pluralism) (*Düzenek aileleri, denetlenebilirlik ve çoğulculuk*); [§1.2](#12-eligibility-contested-selection-and-democratic-minimums) (*Elverişlilik, yarışmalı seçim ve demokratik asgariler*); [§1.3](#13-recall-class-pathways-and-mid-cycle-transfer-guardrails) (*Geri çağırma sınıfı adlandırılmış yollar ve dönem-içi devir korkulukları*).
-- Aşağı: [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale) altında bütünlük, strateji, oylama ve rol ödevleri; [On Beşinci Bölüm](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) altında benimseme ve onaylama; Altıncı Bölümde meşruiyet, katılım ve itiraz edilebilirlik — özellikle [Madde XI-C: Meşruiyet kapısı ve simgesel katılım karşıtı](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation), [Madde XVIII: Güzergâh ve katılım statüsü](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status) ve aşağıdaki işlemsel maddelerde anahtarlanan ifade, toplanma ve usul adilliği maddeleri.
+- Aşağı: [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale) altında bütünlük, strateji, oylama ve rol ödevleri; [On Beşinci Bölüm](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) altında benimseme ve onaylama; Altıncı Bölümde meşruiyet, katılım ve itiraz edilebilirlik — özellikle [Madde XI-C: Meşruiyet kapısı ve simgesel katılım karşıtı](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation), [Madde XVIII: Güzergâh ve katılım statüsü](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status) ve aşağıdaki işlemsel maddelerde anahtarlanan ifade, toplanma ve usul adilliği maddeleri.
 - Birlikte oku: Bu kesitte adlandırılan belirlenmiş **corpus** ve **[corpus_systems.md](../../corpus_systems.md)** kancaları ([corpus_systems.md](../../corpus_systems.md), [corpus_institutions.md](../../corpus_institutions.md)).
 
 </details>
@@ -303,7 +303,7 @@ Vekil göstergeler (finansal ya da başka) yalnızca bu sonuçlara izlenebilir k
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: [§1](#1-authorization-and-legitimacy-of-governing-authority) belgelenmiş meşruiyet düzeneği; [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate) kolektif kararlar için sorumlu yönetim hizalaması.
-- Aşağı: Alt kesitler [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice); bu kesitin sonundaki **Çapraz gönderim (On İkinci Bölüm)** notunda özetlenen [On Üçüncü Bölümden On Beşinci Bölüme](../../core_13_non_regression.md) benimseme, üstünlük ve gerilememe belgeler.
+- Aşağı: Alt kesitler [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice); bu kesitin sonundaki **Çapraz gönderim (On İkinci Bölüm)** notunda özetlenen [On Üçüncü Bölümden On Beşinci Bölüme](../../core_14_non_regression.md) benimseme, üstünlük ve gerilememe belgeler.
 - Birlikte oku: [Altıncı Bölüm](core_06_rights_part_a.md#chapter-six-foundational-rights), özellikle [Madde XI: Etkilenen Tarafların Sistem Katılımı, temsili ve usul güvencesi](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) ve §4te anılan ilgili alt maddeler.
 
 </details>
@@ -480,6 +480,6 @@ Maddi sorumlu yönetim ve işletim, onu kâğıtta dağıtan **yapılardan** de�
 
 **Önceki dosya (hâlâ İngilizce):** [core_11_forum.md](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
 
-**Sonraki dosya (hâlâ İngilizce):** [core_13_non_regression.md](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)
+**Sonraki dosya (hâlâ İngilizce):** [core_13_non_regression.md](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)
 
-**Bağlayıcı asıl:** [core_12_governance.md](../../core_12_governance.md)
+**Bağlayıcı asıl:** [core_12_governance.md](../../core_13_governance.md)

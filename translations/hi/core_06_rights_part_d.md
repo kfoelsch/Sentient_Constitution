@@ -12,7 +12,7 @@
 >
 > **पिछला (इस भाषा में):** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 >
-> **अगला (अभी अंग्रेज़ी में):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+> **अगला (अभी अंग्रेज़ी में):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 > **पढ़ने का चाप:** अनुच्छेद XXIII–XXVI (न्याय और आपात, संवैधानिक विकास, संक्रमण और आधार-रेखा पुनःस्थापन)
 
 </details>
@@ -79,7 +79,7 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - ऊर्ध्व: सिद्धांत: अध्याय एक [§3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), [अध्याय एक §6.1 निर्णय-अभिलेख अनुशासन](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [अध्याय एक §9.6 प्रक्रिया-अवनति-निषेध](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) और [§15 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#15-integrated-application)।
-- अधो: [अध्याय नौ §4](../../core_09_standing_integration.md#4-violation-correction-and-prevention) (*उल्लंघन, सुधार और निवारण*); [अनुच्छेद XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [अनुच्छेद XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule)।
+- अधो: [अध्याय नौ §4](../../core_10_standing_integration.md#4-violation-correction-and-prevention) (*उल्लंघन, सुधार और निवारण*); [अनुच्छेद XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [अनुच्छेद XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule)।
 - साथ पढ़ें: [क्रूरता](core_05_band_accountability.md#cruelty) (*क्रूरता-निषेध तल के दुख-को-उद्देश्य मानक का अध्याय पाँच घर*)।
 
 </details>
@@ -329,7 +329,7 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - ऊर्ध्व: सिद्धांत: अध्याय एक [§6.1 निर्णय-अभिलेख अनुशासन](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [§7 पूर्ण अध्यारोहण का निषेध](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override) और [§15 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#15-integrated-application)।
-- साथ पढ़ें: [अध्याय नौ §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*स्वैच्छिक सार्वजनिक जवाबदेही अभिव्यक्ति*); [अध्याय दस §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*स्वैच्छिक सार्वजनिक जवाबदेही अभिव्यक्ति (संविधान-विरोधी)*)।
+- साथ पढ़ें: [अध्याय नौ §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*स्वैच्छिक सार्वजनिक जवाबदेही अभिव्यक्ति*); [अध्याय दस §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*स्वैच्छिक सार्वजनिक जवाबदेही अभिव्यक्ति (संविधान-विरोधी)*)।
 
 </details>
 
@@ -358,7 +358,7 @@
     - चालू जोखिम;
     - तात्विक शक्ति असमानता;
     - प्रभावित पक्षों की सहमति का अभाव।
-- **स्वैच्छिक सार्वजनिक जवाबदेही अभिव्यक्ति:** सामान्यतः [अध्याय नौ §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*स्वैच्छिक सार्वजनिक जवाबदेही अभिव्यक्ति*) से, और सत्यापित संविधान-विरोधी दुराचरण के लिए [अध्याय दस §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*स्वैच्छिक सार्वजनिक जवाबदेही अभिव्यक्ति (संविधान-विरोधी)*) से शासित, इस अनुच्छेद के अधिकार-टकराव और पुनर्स्थापना-संरेखण नियमों के अधीन।
+- **स्वैच्छिक सार्वजनिक जवाबदेही अभिव्यक्ति:** सामान्यतः [अध्याय नौ §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*स्वैच्छिक सार्वजनिक जवाबदेही अभिव्यक्ति*) से, और सत्यापित संविधान-विरोधी दुराचरण के लिए [अध्याय दस §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*स्वैच्छिक सार्वजनिक जवाबदेही अभिव्यक्ति (संविधान-विरोधी)*) से शासित, इस अनुच्छेद के अधिकार-टकराव और पुनर्स्थापना-संरेखण नियमों के अधीन।
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### अनुच्छेद XXIV-C: समयबद्ध समाधान और देरी-निरोध तल
 <details>
@@ -394,7 +394,7 @@
 - **तीन संयुक्त अपेक्षाएँ:** तात्विक समाधान-मार्ग एक साथ **समयबद्ध**, **कुशल** और **निष्पक्ष** होने चाहिए:
   - **समयबद्ध** — [भौतिक दाँव](core_00_preamble.md#material-stake) और हानि की तात्कालिकता से स्केल सीमाबद्ध घड़ियाँ;
   - **कुशल** — [संवैधानिक दक्षता](core_05_band_continuity.md#constitutional-efficiency) अध्याय एक [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) के अर्थ में — खपत संज्ञ समय और साझा प्रयास पर वास्तविक संवैधानिक परिणाम, कच्चा प्रवाह या मुद्दा-सूची सफ़ाई नहीं;
-  - **निष्पक्ष** — **अनुच्छेद XXIII-A** (*न्याय का उद्देश्य और दायरा*), **अनुच्छेद XXIII-B** (*अतुच्छ प्रतिबंध, प्रत्यास्थापन, और पुनर्स्थापनात्मक-जवाबदेही बंधन*) और **अनुच्छेद XXIII-C** (*न्यूनतम-प्रतिबंधक और समय-सीमित नियम*) पूरे लागू रहते हैं; तेज़ी सत्यापित तथ्य छोड़ने ([अध्याय आठ §3.1](../../core_08_standing_assessment.md#verified-inputs-for-standing)), गलत पक्ष दंड देने, हानि से न मेल खाने वाला उपचार देने, या चुनौती और अपील काटने का बहाना नहीं है।
+  - **निष्पक्ष** — **अनुच्छेद XXIII-A** (*न्याय का उद्देश्य और दायरा*), **अनुच्छेद XXIII-B** (*अतुच्छ प्रतिबंध, प्रत्यास्थापन, और पुनर्स्थापनात्मक-जवाबदेही बंधन*) और **अनुच्छेद XXIII-C** (*न्यूनतम-प्रतिबंधक और समय-सीमित नियम*) पूरे लागू रहते हैं; तेज़ी सत्यापित तथ्य छोड़ने ([अध्याय आठ §3.1](../../core_09_standing_assessment.md#verified-inputs-for-standing)), गलत पक्ष दंड देने, हानि से न मेल खाने वाला उपचार देने, या चुनौती और अपील काटने का बहाना नहीं है।
 - **मंच और शृंखला पर्यवेक्षण:** **अध्याय आठ से ग्यारह** से मार्गित विवादों के लिए निम्नलिखित [अध्याय ग्यारह §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) से शासित है, इस अनुच्छेद के समयबद्ध, कुशल और निष्पक्ष तल के अधीन:
   - तात्विकता-स्तर वर्गीकरण;
   - शृंखला-चरण मीलपत्थर;
@@ -431,7 +431,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- ऊर्ध्व: सिद्धांत: [अध्याय एक §10.3 सतत औचित्य](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification); अध्याय एक [§2 आधारभूत उद्देश्य: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) और [§7 पूर्ण अध्यारोहण का निषेध](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)।
+- ऊर्ध्व: सिद्धांत: [अध्याय एक §10.3 सतत औचित्य](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification); अध्याय एक [§2 आधारभूत उद्देश्य: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) और [§7 पूर्ण अध्यारोहण का निषेध](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)।
 
 </details>
 
@@ -461,7 +461,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- ऊर्ध्व: सिद्धांत: अध्याय एक [§3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) और [§7 पूर्ण अध्यारोहण का निषेध](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)।
+- ऊर्ध्व: सिद्धांत: अध्याय एक [§3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) और [§7 पूर्ण अध्यारोहण का निषेध](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)।
 
 </details>
 
@@ -517,7 +517,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- ऊर्ध्व: सिद्धांत: अध्याय एक [§3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 मूल व्यापार सिद्धांत](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) और [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [अध्याय नौ §5.4](../../core_09_standing_integration.md#54-special-violation-rules) (*इस अनुच्छेद द्वारा संक्रमण के दौरान सीमित विसंरेखित-पुरस्कार जब्ती और रिपोर्ट कर्तव्य*); [अध्याय सात — प्रणाली-संरेखण प्रमाणन](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)।
+- ऊर्ध्व: सिद्धांत: अध्याय एक [§3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 मूल व्यापार सिद्धांत](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) और [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [अध्याय नौ §5.4](../../core_10_standing_integration.md#54-special-violation-rules) (*इस अनुच्छेद द्वारा संक्रमण के दौरान सीमित विसंरेखित-पुरस्कार जब्ती और रिपोर्ट कर्तव्य*); [अध्याय सात — प्रणाली-संरेखण प्रमाणन](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)।
 
 </details>
 
@@ -554,7 +554,7 @@
   
   अवमूल्यन, वापसी, उत्क्रमण, प्रवास या प्रतिस्थापन अवस्था-वाहक घटक **साक्ष्य संरक्षण** और **अनुच्छेद VII-D** (*परिवार, देखभाल संबंध, प्रजनन स्वायत्तता, और अपृथक्करण*) के अपृथक्करण अनुशासन के अधीन अभिलेखित करके इस बिंदु को पूरा करते हैं। यह [अध्याय एक §6.1 की डिफ़ॉल्ट अंतरिम मुद्रा](core_01_b_interaction_interpretation.md#default-interim-posture) है — अपरिवर्तनीय कदम जमा दें — विरासत संचालन जिसे नियमित मानता है उस एकमात्र अपरिवर्तनीय कदम पर लागू। भंडारण लागत, लाइसेंस सुविधा या उत्पाद-चक्र फ्रेमिंग इसके विरुद्ध **आवश्यकता** पूरी नहीं करते। जहाँ प्रतिधारण स्वयं प्रलेखित सुरक्षा जोखिम बनाए, अनुपालक न्यूनतम-प्रतिबंधक उपाय स्वतंत्र नियंत्रण के अधीन सील अभिरक्षा है, विनाश नहीं।
 <a id="incentive-alignment-transition-carve-out"></a>
-- **प्रोत्साहन-संरेखण संक्रमण अपवाद:** **अनुच्छेद XXVI** (*संक्रमण शासन, सातत्य, और आधार-रेखा पुनःस्थापन*) के अधीन अनुमोदित संक्रमण चरणों के दौरान, [अध्याय सात — प्रणाली-संरेखण प्रमाणन](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) के साथ पढ़ें। [अध्याय नौ §5.4 रिपोर्ट कर्तव्य और बहिष्कार](../../core_09_standing_integration.md#54-special-violation-rules) और [§5.4 जब्ती और प्रतिधारण](../../core_09_standing_integration.md#54-special-violation-rules) साझा प्रणालियों से बहने वाले पुरस्कारों पर **केवल इसलिए लागू नहीं** होते कि वे प्रणालियाँ **अभी संरेखण-प्रमाणित नहीं** या **अभी पूर्ण संरेखित नहीं**, बशर्ते:
+- **प्रोत्साहन-संरेखण संक्रमण अपवाद:** **अनुच्छेद XXVI** (*संक्रमण शासन, सातत्य, और आधार-रेखा पुनःस्थापन*) के अधीन अनुमोदित संक्रमण चरणों के दौरान, [अध्याय सात — प्रणाली-संरेखण प्रमाणन](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) के साथ पढ़ें। [अध्याय नौ §5.4 रिपोर्ट कर्तव्य और बहिष्कार](../../core_10_standing_integration.md#54-special-violation-rules) और [§5.4 जब्ती और प्रतिधारण](../../core_10_standing_integration.md#54-special-violation-rules) साझा प्रणालियों से बहने वाले पुरस्कारों पर **केवल इसलिए लागू नहीं** होते कि वे प्रणालियाँ **अभी संरेखण-प्रमाणित नहीं** या **अभी पूर्ण संरेखित नहीं**, बशर्ते:
   - संचालन **अनुच्छेद XXVI** (*संक्रमण शासन, सातत्य, और आधार-रेखा पुनःस्थापन*) के अधीन **प्रलेखित संक्रमण योजना** और प्रकाशित द्वार मानदंड के भीतर रहे;
   - प्रणाली प्रकाशित लय पर [प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) की ओर बढ़े, **सशर्त** या **आस्थगित** मान्यता सहित जहाँ अध्याय सात अनुमति दे; और
   - संचालक और लाभार्थी विसंरेखण **जानबूझकर न छिपा रहे** हों, अनुमोदित संक्रमण दायरे से बाहर संचालन न कर रहे हों, न संक्रमण स्थिति का इस्तेमाल प्रमाणन, सुधार या सुरक्षित रिपोर्ट से बचने के लिए कर रहे हों।
@@ -600,7 +600,7 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - ऊर्ध्व: सिद्धांत: अध्याय एक [§3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 मूल व्यापार सिद्धांत](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) और [§15 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#15-integrated-application)।
-- साथ पढ़ें: [अध्याय सात](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*प्रणाली-संरेखण प्रमाणन*); [अध्याय आठ से ग्यारह](../../README.md#standing-pipeline-and-forums) (*प्रस्थिति शृंखला और मंच पर्यवेक्षण*)।
+- साथ पढ़ें: [अध्याय सात](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*प्रणाली-संरेखण प्रमाणन*); [अध्याय आठ से ग्यारह](../../README.md#standing-pipeline-and-forums) (*प्रस्थिति शृंखला और मंच पर्यवेक्षण*)।
 
 </details>
 
@@ -624,7 +624,7 @@
   पूर्वनिर्धारित बैकअप मार्ग, आंशिक उत्क्रमण मानदंड और आधार-रेखा पुनःस्थापन प्रक्रियाएँ [**CI-14**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*संक्रमणकालीन शासन और संस्थागत विकास*) से शासित हैं।
   - विफल या क्षीण संक्रमण अवस्थाएँ केवल बने रहने से नई आधार-रेखा नहीं बन सकतीं।
 - **तात्विक आधार-रेखा रीसेट:** तात्विक आधार-रेखा रीसेट द्वार विफल होने या संक्रमण अटकने पर संक्रमण मीलपत्थर, जोखिम धारणाएँ, स्वामित्व और संचालन योजनाएँ अद्यतन करता है। इसे संवैधानिक रूप से वैध प्राधिकार और प्रलेखित सार्वजनिक कारण चाहिए। इसे **अधिकार-तल न्यूनतम** सुरक्षित रखने चाहिए और इस संविधान को विधिवत बदलने के नियमों का स्थानापन्न नहीं बनना चाहिए।
-- **सत्यापन-स्वास्थ्य पूर्वापेक्षा:** संशोधित संक्रमण आधार-रेखा पर रीसेट या जारी रखना गैर-अनुपालक है जहाँ [प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) [अध्याय सात](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) के अधीन या [अध्याय आठ से ग्यारह](../../README.md#standing-pipeline-and-forums) के अधीन प्रस्थिति शृंखला संरचनात्मक रूप से अविश्वसनीय हो — उदाहरण के लिए जहाँ प्रमाणन नियमित रूप से उन प्रणालियों को आशीर्वाद दे जो अधिकार-तल तात्विक रूप से हराती हैं, प्रस्थिति मापन सत्यापित तात्विक वास्तविकता से नियमित रूप से विचलित हो, या चुनौती और समीक्षा मार्ग तात्विकता-स्केल समय में उन अंतरों को सुधार न सकें। उन शर्तों में सत्यापन और मापन मशीनरी की मरम्मत सौंदर्य पुनर्योजना पर प्राथमिकता लेती है।
+- **सत्यापन-स्वास्थ्य पूर्वापेक्षा:** संशोधित संक्रमण आधार-रेखा पर रीसेट या जारी रखना गैर-अनुपालक है जहाँ [प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) [अध्याय सात](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) के अधीन या [अध्याय आठ से ग्यारह](../../README.md#standing-pipeline-and-forums) के अधीन प्रस्थिति शृंखला संरचनात्मक रूप से अविश्वसनीय हो — उदाहरण के लिए जहाँ प्रमाणन नियमित रूप से उन प्रणालियों को आशीर्वाद दे जो अधिकार-तल तात्विक रूप से हराती हैं, प्रस्थिति मापन सत्यापित तात्विक वास्तविकता से नियमित रूप से विचलित हो, या चुनौती और समीक्षा मार्ग तात्विकता-स्केल समय में उन अंतरों को सुधार न सकें। उन शर्तों में सत्यापन और मापन मशीनरी की मरम्मत सौंदर्य पुनर्योजना पर प्राथमिकता लेती है।
 - **सार्वजनिक पता-योग्यता:** तात्विक संक्रमण निर्णय, देरी, उत्क्रमण और आधार-रेखा-रीसेट निर्धारण कारण और जोखिम निहितार्थ के साथ लेखापरीक्षा-योग्य रहने चाहिए।
   - दस्तावेज़ीकरण संकीर्ण और न्यायोचित गोपनीयता बंधनों के अधीन रहता है।
   - पर्याप्त सार्वजनिक व्याख्या सुरक्षित रखनी चाहिए कि देरी, उत्क्रमण या निरंतरता संवैधानिक रूप से न्यायोचित है या नहीं, यह आंकने के लिए।
@@ -635,7 +635,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- ऊर्ध्व: सिद्धांत: अध्याय एक [§3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), [अध्याय एक §6.1 निर्णय-अभिलेख अनुशासन](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) और [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ऊर्ध्व: सिद्धांत: अध्याय एक [§3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), [अध्याय एक §6.1 निर्णय-अभिलेख अनुशासन](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) और [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 - साथ पढ़ें: **अनुच्छेद III-A** (*उत्तरजीविता*); **अनुच्छेद XII** (*विश्वसनीय और भरोसेमंद प्रणालियों का अधिकार*); **अनुच्छेद X-B** (*सामूहिक हानि सीमा और प्रवर्तन इंटरफ़ेस*); **अध्याय आठ**; **अध्याय एक**, §6 की अधिकार-टकराव प्रक्रिया सहित; अध्याय छह के आरंभ में **तयशुदा बंधन ढेर** (*कब्ज़ा और उपचार इंटरफ़ेस*); [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) से **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*संक्रमणकालीन शासन और संस्थागत विकास*)।
 
 </details>
@@ -653,7 +653,7 @@
 
 *साधारण शब्दों में: गैर-अनुपालक प्रणालियाँ और संपत्ति संक्रमण के दौरान उपचारित हो सकती हैं — पर केवल संकीर्ण, प्रलेखित और समीक्षा-योग्य प्रक्रियाओं से जो मूल अधिकार सुरक्षित रखें, बहाना साफ़ करें, और प्रतिशोध या राजनीतिक निशाना न बनें। संस्थाएँ इसे कैसे चलाती हैं — भूमिकाएँ, चालक, अभिरक्षा, अपील, निधि और प्रोत्साहन यांत्रिकी — **CI-14.1** से **CI-14.3** में रहती हैं; यह अनुच्छेद वह संवैधानिक तल कहता है जिसे वे प्रक्रियाएँ संकीर्ण नहीं कर सकतीं।*
 
-- **कब्ज़ा तल:** यदि आप कुछ विधिवत रखते या इस्तेमाल करते हैं, संक्रमण उसे मनमाने ढंग से नहीं छीन सकता। पर संपत्ति ढाल नहीं है जब उस परिसंपत्ति को चालू रहने देना ज्ञात बड़े पैमाने की संवैधानिक उल्लंघन स्पष्ट रूप से चालू रखे — [अध्याय आठ](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) के अभिलेख पर उल्लंघन दस्तावेज़ करने के बाद। उस स्थिति में संक्रमण अभी भी हानि रोकने के लिए कार्य कर सकता है, पर केवल इस अनुच्छेद और **CI-14.1** से **CI-14.3** की सुरक्षाओं से।
+- **कब्ज़ा तल:** यदि आप कुछ विधिवत रखते या इस्तेमाल करते हैं, संक्रमण उसे मनमाने ढंग से नहीं छीन सकता। पर संपत्ति ढाल नहीं है जब उस परिसंपत्ति को चालू रहने देना ज्ञात बड़े पैमाने की संवैधानिक उल्लंघन स्पष्ट रूप से चालू रखे — [अध्याय आठ](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) के अभिलेख पर उल्लंघन दस्तावेज़ करने के बाद। उस स्थिति में संक्रमण अभी भी हानि रोकने के लिए कार्य कर सकता है, पर केवल इस अनुच्छेद और **CI-14.1** से **CI-14.3** की सुरक्षाओं से।
 - **संक्रमण-दायरा उपचार:** **अनुच्छेद XXVI-A** (*चरणबद्ध अंगीकार और अधिकार-तल सातत्य*) के अधीन **प्रलेखित संक्रमण योजना** केवल संक्रमण के दौरान **तात्विक रूप से गैर-अनुपालक** प्रणालियों या संपत्ति का त्वरित उपचार प्राधिकृत कर सकती है। संक्रियात्मक दायरा, अनुमत उपाय और संस्थागत प्रक्रिया [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) से **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*संक्रमणकालीन शासन और संस्थागत विकास*) से शासित हैं, **CJS-3.6** (*संपत्ति अभिरक्षा नियंत्रण शृंखला और प्रोत्साहन पृथक्करण*) और जहाँ लागू हो **अनुच्छेद XII-E** (*उच्च-स्वायत्तता प्रणालियाँ और उपकरण-मध्यस्थ प्रक्रिया अखंडता*) के साथ पढ़े।
 - **अपेक्षित सुरक्षाएँ:** किसी भी संक्रमण-दायरा वंचन या प्रोत्साहन कार्यक्रम को पूरा करना चाहिए:
   - [**न्यूनतम-प्रतिबंधक, समय-सीमित और समीक्षा-योग्य बंधन सिद्धांत**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle), प्रदर्शनीय **आवश्यकता** और **आनुपातिकता** के साथ;
@@ -674,6 +674,6 @@
 
 **पिछली फ़ाइल:** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 
-**अगली फ़ाइल (अभी अंग्रेज़ी में):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+**अगली फ़ाइल (अभी अंग्रेज़ी में):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 
 **बाध्यकारी मूल:** [core_06_rights_part_d.md](../../core_06_rights_part_d.md)

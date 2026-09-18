@@ -4,20 +4,21 @@
 Chapter Five: In-scope / assessment / failure bullets (and unlabeled
 assessment continuation lines). Chapter Six: labeled operative run-ins
 (``**Label:**`` / ``**Label** —``) and packed covers/includes lists.
-Chapter Seven: labeled walkthrough and record bullets (same packing
-signals as Chapter Six). Chapter Eight: labeled record, custody, and
-measurement bullets (same packing signals as Chapters Six and Seven).
-Chapter Nine: labeled integration, lock, remedy, and routing bullets
-(same packing signals as Chapters Six through Eight). Chapter Ten:
+Chapter Seven: cross-process functional-independence and seat rules.
+Chapter Eight: labeled walkthrough and record bullets (same packing
+signals as Chapter Six). Chapter Nine: labeled record, custody, and
+measurement bullets (same packing signals as Chapters Six and Eight).
+Chapter Ten: labeled integration, lock, remedy, and routing bullets
+(same packing signals as Chapters Six through Nine). Chapter Eleven:
 labeled designation, safeguard, and named-pattern bullets (same packing
-signals as Chapters Six through Nine). Chapter Eleven: labeled routing,
+signals as Chapters Six through Ten). Chapter Twelve: labeled routing,
 forum-family, escalation, and support bullets (same packing signals as
-Chapters Six through Ten). Chapter Twelve: labeled legitimacy,
+Chapters Six through Eleven). Chapter Thirteen: labeled legitimacy,
 stewardship, collective-choice, and role bullets (same packing signals as
-Chapters Six through Eleven). Chapter Thirteen: labeled non-regression,
+Chapters Six through Twelve). Chapter Fourteen: labeled non-regression,
 amendment-validity, anti-evasion, and layer-scope bullets (same packing
-signals as Chapters Six through Twelve). The Preamble and Chapters One
-through Four, Fourteen, Fifteen, and Sixteen use the same conservative
+signals as Chapters Six through Thirteen). The Preamble and Chapters One
+through Four, Fifteen, Sixteen, and Seventeen use the same conservative
 packing signals over their numbered source files.
 
 Finds items that pack a parallel list into one sentence and have no nested
@@ -28,7 +29,7 @@ This is a candidate finder, not a duty. Existing nesting gates
 (``corpus_markdown_audit.check_oec_intro_sublist_nesting``, Article IX in
 ``prose_continuity_audit``) still lock lists that are already nested.
 
-Rules: CH0-NEST-CANDIDATE through CH16-NEST-CANDIDATE (by selected
+Rules: CH0-NEST-CANDIDATE through CH17-NEST-CANDIDATE (by selected
 chapter) in
 tools/architecture/rule_registry.json.
 Legacy chapter-specific names: CH5-NEST-CANDIDATE / CH6-NEST-CANDIDATE /
@@ -51,7 +52,8 @@ Run:
     make ch14-nested-list-candidates
     make ch15-nested-list-candidates
     make ch16-nested-list-candidates
-    python3 tools/ch5_nested_list_candidate_audit.py --root . --chapter 16
+    make ch17-nested-list-candidates
+    python3 tools/ch5_nested_list_candidate_audit.py --root . --chapter 17
     python3 tools/ch5_nested_list_candidate_audit.py --root . --file core_05_band_accountability.md
 """
 
@@ -92,34 +94,38 @@ CH6_RIGHTS: tuple[str, ...] = (
 )
 
 CH7_PARTS: tuple[str, ...] = (
-    "core_07_a_system_alignment_certification_evaluation.md",
-    "core_07_b_system_alignment_certification_record_process.md",
+    "core_07_functional_independence_segregation_of_duties.md",
 )
 
-CH8_PARTS: tuple[str, ...] = ("core_08_standing_assessment.md",)
-
-CH9_PARTS: tuple[str, ...] = ("core_09_standing_integration.md",)
-
-CH10_PARTS: tuple[str, ...] = (
-    "core_10_a_misconduct_designation.md",
-    "core_10_b_misconduct_pattern_applications.md",
+CH8_PARTS: tuple[str, ...] = (
+    "core_08_a_system_alignment_certification_evaluation.md",
+    "core_08_b_system_alignment_certification_record_process.md",
 )
 
-CH11_PARTS: tuple[str, ...] = ("core_11_forum.md",)
+CH9_PARTS: tuple[str, ...] = ("core_09_standing_assessment.md",)
 
-CH12_PARTS: tuple[str, ...] = ("core_12_governance.md",)
+CH10_PARTS: tuple[str, ...] = ("core_10_standing_integration.md",)
 
-CH13_PARTS: tuple[str, ...] = ("core_13_non_regression.md",)
+CH11_PARTS: tuple[str, ...] = (
+    "core_11_a_misconduct_designation.md",
+    "core_11_b_misconduct_pattern_applications.md",
+)
 
-CH14_PARTS: tuple[str, ...] = ("core_14_expansion_supremacy.md",)
+CH12_PARTS: tuple[str, ...] = ("core_12_forum.md",)
 
-CH15_PARTS: tuple[str, ...] = ("core_15_amendment_ratification.md",)
+CH13_PARTS: tuple[str, ...] = ("core_13_governance.md",)
 
-CH16_PARTS: tuple[str, ...] = ("core_16_incorporation.md",)
+CH14_PARTS: tuple[str, ...] = ("core_14_non_regression.md",)
 
-SUPPORTED_CHAPTERS: tuple[int, ...] = tuple(range(17))
+CH15_PARTS: tuple[str, ...] = ("core_15_expansion_supremacy.md",)
+
+CH16_PARTS: tuple[str, ...] = ("core_16_amendment_ratification.md",)
+
+CH17_PARTS: tuple[str, ...] = ("core_17_incorporation.md",)
+
+SUPPORTED_CHAPTERS: tuple[int, ...] = tuple(range(18))
 WORDS_ONLY_SKIP_CHAPTERS: frozenset[int] = frozenset(
-    set(range(17)) - {5}
+    set(range(18)) - {5}
 )
 
 LIST_RE = re.compile(r"^([ \t]*)([-*]|\d+\.)\s+(.*)$")
@@ -404,6 +410,7 @@ RULE_ID_BY_CHAPTER: dict[int, str] = {
     14: "CH14-NEST-CANDIDATE",
     15: "CH15-NEST-CANDIDATE",
     16: "CH16-NEST-CANDIDATE",
+    17: "CH17-NEST-CANDIDATE",
 }
 
 
@@ -765,6 +772,7 @@ def resolve_targets(root: Path, args: argparse.Namespace) -> list[Path]:
             14: CH14_PARTS,
             15: CH15_PARTS,
             16: CH16_PARTS,
+            17: CH17_PARTS,
         }
         for chapter in chapters:
             names_list.extend(chapter_parts.get(chapter, ()))

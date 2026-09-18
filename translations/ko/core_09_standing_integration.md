@@ -6,7 +6,7 @@
 
 > 다음 내용은 **독자 안내일 뿐입니다**. 이 파일이나 다른 장에서 구속력 있는 의무를 더하거나, 빼거나, 좁히지 않습니다.
 >
-> 이 파일은 [영어 제9장](../../core_09_standing_integration.md)의 **독자 언어 시험본**입니다. 감지자 헌법의 구속력 있는 부분이 **아닙니다**. 두 번째 헌법이 **아닙니다**. 배포판이 **아닙니다**. `SC-Corpus-2026.08.09`에 **고정**되어 있습니다. 이 번역과 영어 원문이 어긋나 보이면, 번호 파일 [`core_09_standing_integration.md`](../../core_09_standing_integration.md)가 이깁니다. 읽기 순서와 판본 메타데이터는 [README.md](../../README.md)에 유지됩니다. 방법과 용어표: [translations/ko/README.md](README.md).
+> 이 파일은 [영어 제9장](../../core_10_standing_integration.md)의 **독자 언어 시험본**입니다. 감지자 헌법의 구속력 있는 부분이 **아닙니다**. 두 번째 헌법이 **아닙니다**. 배포판이 **아닙니다**. `SC-Corpus-2026.08.09`에 **고정**되어 있습니다. 이 번역과 영어 원문이 어긋나 보이면, 번호 파일 [`core_09_standing_integration.md`](../../core_10_standing_integration.md)가 이깁니다. 읽기 순서와 판본 메타데이터는 [README.md](../../README.md)에 유지됩니다. 방법과 용어표: [translations/ko/README.md](README.md).
 >
 > **제9장**을 담습니다 — 궤적 사슬의 통합과 결과 층. [제8장](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)이 확인된 사실, 궤적 기록, 궤적 측정, 기여 축과 위반 축의 모든 슬롯을 전속으로 주관합니다. 이 장은 그 입력을 고정된 것으로 받아들이고 질문 3에 답합니다: 무엇이 따르는가. [제10장](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)은 자격을 갖춘 `s = 7`, `s = 8`, 또는 `s = 9` 위반이 짝이 맞는 반헌법 부당행위 지정을 받는지만 결정합니다.
 
@@ -207,7 +207,7 @@
 
 **경로 구별 — governance-voting 대 stakeholder-participation:**
 
-- **governance-voting**은 [제12장 §4.1](../../core_12_governance.md#41-entitlement-and-eligibility) 아래 거버넌스 투표와 견줄 만한 정당성 메커니즘의 구속력 있는 집단 선택 참여를 덮으며, **기초 헌법 선택**을 포함한다. 이미 수권된 체계, 제도, 또는 한정된 결정 영역 안의 이해관계에 맞춰 무게를 둔 목소리는 **포함하지 않는다**.
+- **governance-voting**은 [제12장 §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) 아래 거버넌스 투표와 견줄 만한 정당성 메커니즘의 구속력 있는 집단 선택 참여를 덮으며, **기초 헌법 선택**을 포함한다. 이미 수권된 체계, 제도, 또는 한정된 결정 영역 안의 이해관계에 맞춰 무게를 둔 목소리는 **포함하지 않는다**.
 - **stakeholder-participation**은 [영향받는 쪽 무게](core_05_band_participation.md#stakeholder-weight)와 [구속력 있는 영향받는 쪽 선택](core_05_band_participation.md#binding-stakeholder-choice-cluster) 아래 이해관계에 맞춰 무게를 둔 영향, 구속력 있는 영향받는 쪽 선택, 견줄 만한 영향받는 쪽의 체계 참여 경로를 덮는다. [영향받는 쪽](core_05_band_participation.md#stakeholder) 지위 자체를 **지우지 않으며**, **governance-voting** 잠금을 **대신하지 않는다**.
 
 확인된 영향받는 쪽 경로 부패, 포획, 거짓 이해관계 남용, 또는 강제적 참여 무게 게임이 방아쇠인 곳, [§5.5](#55-special-locks) 아래 [영향받는 쪽 참여 궤적 잠금](#55-special-locks)을 적용하라.
@@ -474,7 +474,7 @@
   - [영향받는 쪽 무게](core_05_band_participation.md#stakeholder-weight)와 [구속력 있는 영향받는 쪽 선택](core_05_band_participation.md#binding-stakeholder-choice-cluster) 아래 영향받는 체계, 제도, 또는 한정된 결정 영역 안의 견줄 만한 영향받는 쪽의 체계 참여 경로.
 - **그 자체로 제한하지 않는 것:**
   - [영향받는 쪽](core_05_band_participation.md#stakeholder) 지위 또는 감지자가 실질로 영향받는다는 인정;
-  - [제12장 §4.1](../../core_12_governance.md#41-entitlement-and-eligibility) 아래 **governance-voting** 경로, **기초 헌법 선택**, 또는 견줄 만한 정당성 메커니즘의 구속력 있는 집단 선택;
+  - [제12장 §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) 아래 **governance-voting** 경로, **기초 헌법 선택**, 또는 견줄 만한 정당성 메커니즘의 구속력 있는 집단 선택;
   - 권리 바닥 최소, 생존 필수 접근, 또는 헌법상 요구되는 감사, 다툼, 구제 경로.
 - **위험:** 영향받는 쪽 목소리의 계속된 포획이나 왜곡, 거짓 이해관계 지배, 강제된 참여 무게, 같은 또는 관련 영역에서의 영향받는 쪽 경로 남용 재발.
 - **보호되는 주체나 이해관계:** 해를 입은 영향받는 쪽, 구속력 있는 영향받는 쪽 선택의 완전성, 관련 체계·제도·한정된 결정 영역의 비포획.
@@ -806,10 +806,10 @@
 - 하나의 약한 사무소에의 의존; 또는
 - 만성 이정표 실패.
 
-**완전성**, **헌법**, 또는 **환경** 포럼 석의 과소 임명, 또는 감지 지위 재결을 듣는 **기술 포럼 영역** 석의 과소 임명은, [제12장 §1.2](../../core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums)와 함께 읽는 이 하위절 아래 내구성 실패다.
+**완전성**, **헌법**, 또는 **환경** 포럼 석의 과소 임명, 또는 감지 지위 재결을 듣는 **기술 포럼 영역** 석의 과소 임명은, [제12장 §1.2](../../core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums)와 함께 읽는 이 하위절 아래 내구성 실패다.
 
 <a id="92-remedy-parity-funding-floor"></a>
-**구제 균등 자금 바닥.** 채택하는 이가 운영하는 각 체계 등급에 대해, 구제, 복원, 재평가에 자금이 대진 능력은 같은 등급의 잠금 운영, 집행, 안전장치 부과에 자금이 대진 능력보다 적어서는 안 된다. 그 비는 [§4.4](#44-remedy-parity-and-lock-preconditions) 방아쇠 숫자와 함께 공표되어야 한다. 균등에서 벗어나는 채택하는 이는 [제12장 §3.1](../../core_12_governance.md#31-stewardship-direction) 아래 이유를 기록하고, 기록 위에서 구제 시작과 복원 검토가 그럼에도 층 시계를 맞추고 있음을 보여야 한다; 예산 균등이 건드린 [§4.4](#44-remedy-parity-and-lock-preconditions) 방아쇠를 면제하지 않으며, 맞춘 방아쇠가 균등에서의 고요한 이탈을 면제하지 않는다. 어떤 체계 등급의 구제에 자금을 댈 수 없는 채택하는 이는 그 등급의 잠금 기계를 세워서는 안 된다.
+**구제 균등 자금 바닥.** 채택하는 이가 운영하는 각 체계 등급에 대해, 구제, 복원, 재평가에 자금이 대진 능력은 같은 등급의 잠금 운영, 집행, 안전장치 부과에 자금이 대진 능력보다 적어서는 안 된다. 그 비는 [§4.4](#44-remedy-parity-and-lock-preconditions) 방아쇠 숫자와 함께 공표되어야 한다. 균등에서 벗어나는 채택하는 이는 [제12장 §3.1](../../core_13_governance.md#31-stewardship-direction) 아래 이유를 기록하고, 기록 위에서 구제 시작과 복원 검토가 그럼에도 층 시계를 맞추고 있음을 보여야 한다; 예산 균등이 건드린 [§4.4](#44-remedy-parity-and-lock-preconditions) 방아쇠를 면제하지 않으며, 맞춘 방아쇠가 균등에서의 고요한 이탈을 면제하지 않는다. 어떤 체계 등급의 구제에 자금을 댈 수 없는 채택하는 이는 그 등급의 잠금 기계를 세워서는 안 된다.
 
 <a id="93-cross-jurisdiction-continuity"></a>
 #### 9.3 관할을 가로지른 연속
@@ -837,7 +837,7 @@
 
 - 상류: [§1](#1-immutable-chapter-eight-inputs)부터 [§9](#9-enforcement-realism)까지 (*바뀌지 않는 제8장 입력부터 집행 현실성과 구제 체계까지*).
 - 하위절: [§10.1](#101-informal-ecological-stewardship-competency-clearance); [§10.2](#102-ecological-negligence-with-concealment); [§10.3](#103-forum-integrity-deception-or-recusal-failure); [§10.4](#104-recurrence-after-completed-restitution); [§10.5](#105-champion-repair-while-a-lock-remains-active); [§10.6](#106-institutional-vehicle-and-successor-evasion); [§10.7](#107-misaligned-reward-retention); [§10.8](#108-anti-constitutional-misconduct-allegation); [§10.9](#109-rights-floor-waiver-or-unconstitutional-contract-devices); [§10.10](#1010-contest-pathway-or-info-sphere-flooding); [§10.11](#1011-infrastructure-denial-or-dependency-cutoff); [§10.12](#1012-stakeholder-participation-corruption-or-false-stake-abuse); [§10.13](#1013-obstruction-of-accountability).
-- 함께 읽기: [제8장 §4.6](core_08_standing_assessment.md#46-question-2-measurement-illustrations) (*질문 2 측정 보기*); [제8장–제11장 적용 삽화](../../core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes) (*온전한 사슬 영역 걸음*); [제10장 §5](../../core_10_b_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing) (*지정 쪽 패턴 라우팅 — 이중 층 쌍; 잠금 유형 목록이 아님*).
+- 함께 읽기: [제8장 §4.6](core_08_standing_assessment.md#46-question-2-measurement-illustrations) (*질문 2 측정 보기*); [제8장–제11장 적용 삽화](../../core_09-12_application_vignettes.md#chapters-eight-eleven-application-vignettes) (*온전한 사슬 영역 걸음*); [제10장 §5](../../core_11_b_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing) (*지정 쪽 패턴 라우팅 — 이중 층 쌍; 잠금 유형 목록이 아님*).
 
 </details>
 
@@ -939,7 +939,7 @@
   - [§4.2](#42-general-standing-locks) (*남용된 신뢰, 역할, 신용, 또는 영향 경로에 범위가 잡힌 일반 궤적 잠금*);
   - [§5.1](#51-definition-and-attachment) (*첨부 칸*); 그리고
   - [§5.4](#54-special-violation-rules) (*저항 의무* — 기구가 위법하거나 위헌인 준수를 요구한 곳).
-- **타협 불가:** 이 단서는 [§5.5](#55-special-locks) 아래 특별 잠금을 만들지 않는다. 조항 무효와 지정 기준은 [제10장 §5.2](../../core_10_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms)에 남는다. 제9장은 확인된 기록에서 보통 명명된 경로 잠금을 붙인다; 최종 지정만이 [§10.8](#108-anti-constitutional-misconduct-allegation) 아래 반헌법 신뢰 잠금을 방아쇠 한다.
+- **타협 불가:** 이 단서는 [§5.5](#55-special-locks) 아래 특별 잠금을 만들지 않는다. 조항 무효와 지정 기준은 [제10장 §5.2](../../core_11_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms)에 남는다. 제9장은 확인된 기록에서 보통 명명된 경로 잠금을 붙인다; 최종 지정만이 [§10.8](#108-anti-constitutional-misconduct-allegation) 아래 반헌법 신뢰 잠금을 방아쇠 한다.
 
 <a id="1010-contest-pathway-or-info-sphere-flooding"></a>
 #### 10.10 다툼 경로 또는 정보권 쇄도
@@ -950,7 +950,7 @@
   - [§4.2](#42-general-standing-locks) (*남용된 라우팅, 제출, 순위, 접근, 또는 영향 경로에 대한 보호 명명된 경로 잠금*);
   - [§5.1](#51-definition-and-attachment)와 [§5.2](#52-proportionality-and-calibration) (*필요하고, 비례하고, 검토 가능한 범위*); 그리고
   - [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*운영 접수 선별과 게임 금지 — 궤적 효과를 지어내지 않는 감독*).
-- **타협 불가:** 이 단서는 쇄도 잠금이나 다른 [§5.5](#55-special-locks) 유형을 만들지 않는다. 지정 쪽 기준 라우팅은 [제10장 §5.3](../../core_10_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)과 [§5.4](../../core_10_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)에 남는다. 보통 보호 잠금은 지정이 나중에 붙든 아니든 고정된 기록에서 진행한다.
+- **타협 불가:** 이 단서는 쇄도 잠금이나 다른 [§5.5](#55-special-locks) 유형을 만들지 않는다. 지정 쪽 기준 라우팅은 [제10장 §5.3](../../core_11_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)과 [§5.4](../../core_11_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)에 남는다. 보통 보호 잠금은 지정이 나중에 붙든 아니든 고정된 기록에서 진행한다.
 
 <a id="1011-infrastructure-denial-or-dependency-cutoff"></a>
 #### 10.11 기반시설 거부 또는 의존 차단
@@ -962,7 +962,7 @@
   - [§5.1](#51-definition-and-attachment) (*차단 위험을 다시 만드는 네트워크나 통제 지점으로부터의 격리를 포함*);
   - [§5.4](#54-special-violation-rules) (*확인된 위험이 뒷받침하는 곳에서만의 강제적 또는 자유를 제한하는 안전장치*); 그리고
   - [§9](#9-enforcement-realism) (*구제 체계 내구성과 회피 금지*).
-- **타협 불가:** 이 단서는 [§5.5](#55-special-locks) 아래 기반시설 잠금을 만들지 않는다. 지정 쪽 기준 라우팅은 [제10장 §5.9](../../core_10_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct)에 남는다. [§5.1](#51-definition-and-attachment) 아래 전역 비제한 한도는 여전히 발언, 청원, 영향받는 쪽 참여, 권리 바닥, 생존 필수 접근을 지키며, 잠금이 그것들을 소멸시켜서는 안 된다.
+- **타협 불가:** 이 단서는 [§5.5](#55-special-locks) 아래 기반시설 잠금을 만들지 않는다. 지정 쪽 기준 라우팅은 [제10장 §5.9](../../core_11_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct)에 남는다. [§5.1](#51-definition-and-attachment) 아래 전역 비제한 한도는 여전히 발언, 청원, 영향받는 쪽 참여, 권리 바닥, 생존 필수 접근을 지키며, 잠금이 그것들을 소멸시켜서는 안 된다.
 
 <a id="1012-stakeholder-participation-corruption-or-false-stake-abuse"></a>
 #### 10.12 영향받는 쪽 참여 부패 또는 거짓 이해관계 남용
@@ -984,7 +984,7 @@
   - [§5.4](#54-special-violation-rules) (*은폐, 회피, 기만, 의무 관련 빚음*);
   - [§5.5](#55-special-locks) (*[§10.3](#103-forum-integrity-deception-or-recusal-failure) 아래 포럼 완전성 / 요구-제척 방아쇠가 충족될 때만의 포럼 직무 궤적 잠금*); 그리고
   - [§10.8](#108-anti-constitutional-misconduct-allegation) (`s` = 7–9이고 반헌법 부당행위가 실질로 주장될 때의 제10장 관문).
-- **타협 불가:** 이 단서는 방해 잠금이나 다른 [§5.5](#55-special-locks) 유형을 만들지 않는다. 방해 성격은 위반 축 슬롯을 옮기지 않는다. 보통 명명된 경로 잠금은 어떤 슬롯에서든 고정된 기록에서 진행한다. 지정 쪽 기준 라우팅은 [제10장 §5.11](../../core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)에 남는다; 최종 지정만이 [§10.8](#108-anti-constitutional-misconduct-allegation) 아래 반헌법 신뢰 잠금을 방아쇠 한다. 확인된 방해 *행위*를 구조 조건으로서의 [해결 경로의 포획](core_05_band_accountability.md#capture-of-resolution-pathways)과 구별하라.
+- **타협 불가:** 이 단서는 방해 잠금이나 다른 [§5.5](#55-special-locks) 유형을 만들지 않는다. 방해 성격은 위반 축 슬롯을 옮기지 않는다. 보통 명명된 경로 잠금은 어떤 슬롯에서든 고정된 기록에서 진행한다. 지정 쪽 기준 라우팅은 [제10장 §5.11](../../core_11_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)에 남는다; 최종 지정만이 [§10.8](#108-anti-constitutional-misconduct-allegation) 아래 반헌법 신뢰 잠금을 방아쇠 한다. 확인된 방해 *행위*를 구조 조건으로서의 [해결 경로의 포획](core_05_band_accountability.md#capture-of-resolution-pathways)과 구별하라.
 
 <a id="1014-verified-cruelty-character"></a>
 #### 10.14 확인된 잔인 성격
@@ -1004,4 +1004,4 @@
 
 **다음 파일(이 언어):** [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)
 
-**구속력 있는 원문:** [core_09_standing_integration.md](../../core_09_standing_integration.md)
+**구속력 있는 원문:** [core_09_standing_integration.md](../../core_10_standing_integration.md)

@@ -12,7 +12,7 @@
 >
 > **上一篇（本语种）：** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 >
-> **下一篇（仍为英语）：** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+> **下一篇（仍为英语）：** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 > **阅读弧线：** Article XXIII–XXVI（正义与紧急、宪法演进、过渡与再定基线）
 
 </details>
@@ -79,7 +79,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：原则：第一章 [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[第一章 §6.1.5 决定记录纪律](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)、[第一章 §9.6 反降格过程](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline)，以及[§15 综合适用](core_01_c_stewardship_capacity_principles.md#15-integrated-application)。
-- 下游：[第九章 §4](../../core_09_standing_integration.md#4-violation-correction-and-prevention)（*违规、纠正与预防*）；[Article XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints)；[Article XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule)。
+- 下游：[第九章 §4](../../core_10_standing_integration.md#4-violation-correction-and-prevention)（*违规、纠正与预防*）；[Article XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints)；[Article XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule)。
 - 一并阅读：[残忍](core_05_band_accountability.md#cruelty)（*反残忍底线之受苦即目的标准的第五章家园*）。
 
 </details>
@@ -329,7 +329,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：原则：第一章 [§6.1.5 决定记录纪律](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)、[§7 禁止绝对覆盖](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)，以及[§15 综合适用](core_01_c_stewardship_capacity_principles.md#15-integrated-application)。
-- 一并阅读：[第九章 §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression)（*自愿公开问责表达*）；[第十章 §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional)（*自愿公开问责表达（反宪法）*）。
+- 一并阅读：[第九章 §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression)（*自愿公开问责表达*）；[第十章 §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional)（*自愿公开问责表达（反宪法）*）。
 
 </details>
 
@@ -358,7 +358,7 @@
     - 进行中的风险；
     - 实质权力不对称；
     - 受影响方不同意。
-- **自愿公开问责表达：** 一般由[第九章 §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression)（*自愿公开问责表达*）统管，对经核实的反宪法不当行为由[第十章 §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional)（*自愿公开问责表达（反宪法）*）统管，并受本条权利碰撞与修复性对齐规则约束。
+- **自愿公开问责表达：** 一般由[第九章 §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression)（*自愿公开问责表达*）统管，对经核实的反宪法不当行为由[第十章 §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional)（*自愿公开问责表达（反宪法）*）统管，并受本条权利碰撞与修复性对齐规则约束。
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### Article XXIV-C：及时解决与反拖延底线
 <details>
@@ -394,7 +394,7 @@
 - **三项联合要求：** 实质解决路径必须同时**及时**、**高效**且**公正**：
   - **及时** — 按[实质利害](core_00_preamble.md#material-stake)与伤害紧急缩放的有界时钟；
   - **高效** — [宪法效率](core_05_band_continuity.md#constitutional-efficiency) 在第一章 [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) 的意义上 — 按所消耗的感知者时间与共享努力计的真实宪法结果，不是原始吞吐量或清案；
-  - **公正** — **Article XXIII-A**（《正义目的与范围》）、**Article XXIII-B**（《非琐细限制、返还与修复性问责约束》）与 **Article XXIII-C**（《限制最少且有时限的规则》）仍完全适用；快速移动不是跳过经核对事实（[第八章 §3.1](../../core_08_standing_assessment.md#verified-inputs-for-standing)）、惩罚错误一方、提供与伤害不匹配的修复，或切断质疑与上诉的借口。
+  - **公正** — **Article XXIII-A**（《正义目的与范围》）、**Article XXIII-B**（《非琐细限制、返还与修复性问责约束》）与 **Article XXIII-C**（《限制最少且有时限的规则》）仍完全适用；快速移动不是跳过经核对事实（[第八章 §3.1](../../core_09_standing_assessment.md#verified-inputs-for-standing)）、惩罚错误一方、提供与伤害不匹配的修复，或切断质疑与上诉的借口。
 - **评议所与链条监督：** 经**第八至十一章**路由的争议，其下列事项由[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)统管，并受本条及时、高效且公正底线约束：
   - 实质性层级分类；
   - 链条阶段里程碑；
@@ -431,7 +431,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：[第一章 §10.3 持续正当化](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification)；第一章 [§2 基础目标：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[第七章 §3 整系统认证评价](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[§7 禁止绝对覆盖](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)。
+- 上游：原则：[第一章 §10.3 持续正当化](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification)；第一章 [§2 基础目标：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[第七章 §3 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[§7 禁止绝对覆盖](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)。
 
 </details>
 
@@ -461,7 +461,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：第一章 [§3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[第七章 §3 整系统认证评价](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[§7 禁止绝对覆盖](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)。
+- 上游：原则：第一章 [§3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[第七章 §3 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[§7 禁止绝对覆盖](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)。
 
 </details>
 
@@ -517,7 +517,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：第一章 [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[§6.1 核心权衡原则](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)，以及[第七章 §3 整系统认证评价](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)；[第九章 §5.4](../../core_09_standing_integration.md#54-special-violation-rules)（*错位奖赏没收与报告由本条在过渡期间限定*）；[第七章 — 系统对齐认证](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)。
+- 上游：原则：第一章 [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[§6.1 核心权衡原则](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)，以及[第七章 §3 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)；[第九章 §5.4](../../core_10_standing_integration.md#54-special-violation-rules)（*错位奖赏没收与报告由本条在过渡期间限定*）；[第七章 — 系统对齐认证](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)。
 
 </details>
 
@@ -554,7 +554,7 @@
   
   弃用、退役、回滚、迁移或替换通过在**证据保全**与 **Article VII-D**（《家庭、照料关系、生殖自主与不分离》）不分离纪律下归档承载状态组件来满足本项。这是[第一章 §6.1 默认临时姿态](core_01_b_interaction_interpretation.md#default-interim-posture) — 冻结不可逆步骤 — 适用于既有运营当作例行的那一个不可逆步骤。存储成本、许可便利或产品周期框架，不满足反对它的**必要性**。凡保留本身造成有记录的安全风险之处，限制最少的兼容措施是独立控制下的密封保管，不是销毁。
 <a id="incentive-alignment-transition-carve-out"></a>
-- **激励对齐过渡例外：** 在 **Article XXVI**（《过渡治理、延续与再定基线》）下获批的过渡阶段期间，一并阅读[第七章 — 系统对齐认证](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)。[第九章 §5.4 报告义务与排除](../../core_09_standing_integration.md#54-special-violation-rules)与[§5.4 没收与扣留](../../core_09_standing_integration.md#54-special-violation-rules)**不**仅因那些系统**尚未获对齐认证**或**尚未完全对齐**而适用于经共享系统流动的奖赏，前提是：
+- **激励对齐过渡例外：** 在 **Article XXVI**（《过渡治理、延续与再定基线》）下获批的过渡阶段期间，一并阅读[第七章 — 系统对齐认证](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)。[第九章 §5.4 报告义务与排除](../../core_10_standing_integration.md#54-special-violation-rules)与[§5.4 没收与扣留](../../core_10_standing_integration.md#54-special-violation-rules)**不**仅因那些系统**尚未获对齐认证**或**尚未完全对齐**而适用于经共享系统流动的奖赏，前提是：
   - 运营保持在 **Article XXVI**（《过渡治理、延续与再定基线》）下的**有记录过渡计划**与已公布闸门标准之内；
   - 该系统按已公布节奏走向[系统对齐认证](core_05_band_continuity.md#system-alignment-certification-constitutional)，包括第七章允许之处的**有条件**或**推迟承认**；并且
   - 运营者与受益人没有**明知隐瞒**错位、在获批过渡范围之外运营，或用过渡地位规避认证、纠正或受保护报告。
@@ -600,7 +600,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：原则：第一章 [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[§6.1 核心权衡原则](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)，以及[§15 综合适用](core_01_c_stewardship_capacity_principles.md#15-integrated-application)。
-- 一并阅读：[第七章](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)（*系统对齐认证*）；[第八至十一章](../../README.md#standing-pipeline-and-forums)（*轨迹链与评议所监督*）。
+- 一并阅读：[第七章](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)（*系统对齐认证*）；[第八至十一章](../../README.md#standing-pipeline-and-forums)（*轨迹链与评议所监督*）。
 
 </details>
 
@@ -624,7 +624,7 @@
   预先确定的回退路径、部分回滚标准与再定基线程序，由 [**CI-14**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md)（*过渡治理与机构演进*）统管。
   - 失败或降格的过渡状态不得仅因持续而成为新基线。
 - **实质基线重置：** 实质基线重置在闸门失败或过渡停滞时更新过渡里程碑、风险假定、主责与运营计划。它要求宪法上有效的权威与有记录的公开理由。它必须保全**权利底线最低标准**，并且不得替代合法变更本宪法的规则。
-- **核验健康先决条件：** 凡[系统对齐认证](core_05_band_continuity.md#system-alignment-certification-constitutional)在[第七章](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)下，或[第八至十一章](../../README.md#standing-pipeline-and-forums)下的轨迹链，在结构上不可靠之处，在修订后的过渡基线上重置或继续均为不合规定 — 例如，认证例行祝福实质击败权利底线的系统，轨迹测量例行偏离经核实的实质现实，或质疑与审查路径不能在按实质性缩放的时间内纠正那些缺口。在那些条件下，核验与测量机器的修复优先于表面再规划。
+- **核验健康先决条件：** 凡[系统对齐认证](core_05_band_continuity.md#system-alignment-certification-constitutional)在[第七章](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)下，或[第八至十一章](../../README.md#standing-pipeline-and-forums)下的轨迹链，在结构上不可靠之处，在修订后的过渡基线上重置或继续均为不合规定 — 例如，认证例行祝福实质击败权利底线的系统，轨迹测量例行偏离经核实的实质现实，或质疑与审查路径不能在按实质性缩放的时间内纠正那些缺口。在那些条件下，核验与测量机器的修复优先于表面再规划。
 - **公开可追溯性：** 实质过渡决定、拖延、撤销与基线重置认定，必须连同理由与风险含义保持可审计。
   - 文件仍受狭窄、经正当化的保密约束。
   - 它必须保全足够的公开解释，以评估拖延、回滚或继续是否在宪法上被正当化。
@@ -635,7 +635,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：第一章 [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[第一章 §6.1.5 决定记录纪律](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)，以及[第七章 §3 整系统认证评价](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：原则：第一章 [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[第一章 §6.1.5 决定记录纪律](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)，以及[第七章 §3 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 - 一并阅读：**Article III-A**（《生存》）；**Article XII**（《可靠可信系统权》）；**Article X-B**（《集体伤害边界与执行接口》）；**第八章**；**第一章**，包括 §6 权利碰撞程序；第六章开篇的**默认约束栈**（*占有与补救接口*）；[[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) through **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives)（*过渡治理与机构演进*）。
 
 </details>
@@ -653,7 +653,7 @@
 
 *用直白的话说：不合规定系统与财产可以在过渡期间被补救 — 但只能经由狭窄、有记录、可审查的过程，这些过程保护基本权利、禁止借口，并且不变成报复或政治点名。机构如何落实 — 角色、触发、保管、上诉、资金与激励机制 — 住在 **CI-14.1** 至 **CI-14.3**；本条陈述那些程序不得收窄的宪法底线。*
 
-- **占有底线：** 若你合法拥有或使用某物，过渡不能凭一时兴起把它从你处拿走。但当让该资产继续运行会清楚维持一项已知的大规模宪法违规 — 在[第八章](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)已把该违规记入记录之后 — 所有权不是盾牌。在那种情形下，过渡仍可行动以停止伤害，但只能经由本条与 **CI-14.1** 至 **CI-14.3** 中的保障。
+- **占有底线：** 若你合法拥有或使用某物，过渡不能凭一时兴起把它从你处拿走。但当让该资产继续运行会清楚维持一项已知的大规模宪法违规 — 在[第八章](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)已把该违规记入记录之后 — 所有权不是盾牌。在那种情形下，过渡仍可行动以停止伤害，但只能经由本条与 **CI-14.1** 至 **CI-14.3** 中的保障。
 - **过渡范围补救：** **Article XXVI-A**（《分阶段采纳与权利底线延续》）下的**有记录过渡计划**可以仅在过渡期间授权对**实质不合规定**系统或财产的加速补救。操作性范围、被允许措施与机构程序，由 [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) through **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives)（*过渡治理与机构演进*）统管，并与 **CJS-3.6**（*财产保管与激励分离控制链*）以及凡适用时的 **Article XII-E**（《高自主系统与工具中介过程完整性》）一并阅读。
 - **所要求的保障：** 任何过渡范围的剥夺或激励计划必须满足：
   - [**限制最少、有时限且可审查的约束原则**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)，并带有可展示的**必要性**与**相称性**；
@@ -674,6 +674,6 @@
 
 **上一文件（本语种）：** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 
-**下一文件（仍为英语）：** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+**下一文件（仍为英语）：** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 
 **有约束力的原文：** [core_06_rights_part_d.md](../../core_06_rights_part_d.md)

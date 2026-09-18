@@ -109,7 +109,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أسفل: أسرة قياس المشاركة — تجميع بروابط فقط؛ تعيش المستويات لكل مصطلح في التعريفات الطرفية — انظر [الإنصاف الموضوعي](../../core_05_band_participation.md#substantive-fairness-constitutional)، [الوكالة عن الخصائص المحمية والأثر المتفاوت](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact)، [تيسير الوصول](../../core_05_band_participation.md#accessibility-constitutional)، [الوكالة التعليمية](../../core_05_band_participation.md#educational-agency)، [الوكالة ذات المعنى](../../core_05_band_participation.md#meaningful-agency)، وعنقود [الخصوصية (معلوماتية)](../../core_05_band_continuity.md#privacy-informational-cluster) في نطاق الاستمرارية.
-- يُقرأ مع: الفصل السادس، [الفصل السابع](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)، أو الصكوك المُدمَجة — تنشأ متطلبات عدم التمييز والتيسير والتعليم أو الخصوصية الملزمة عندما تطلبها تلك الصكوك صراحة.
+- يُقرأ مع: الفصل السادس، [الفصل السابع](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)، أو الصكوك المُدمَجة — تنشأ متطلبات عدم التمييز والتيسير والتعليم أو الخصوصية الملزمة عندما تطلبها تلك الصكوك صراحة.
 
 </details>
 

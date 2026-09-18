@@ -7,7 +7,7 @@
 
 > नीचे की सामग्री **केवल पाठक मार्गदर्शन** है। यह इस फ़ाइल या अन्य अध्यायों में बाध्यकारी कर्तव्यों को जोड़ती, घटाती या संकीर्ण नहीं करती।
 >
-> यह फ़ाइल [अंग्रेज़ी अध्याय सात पठन अनुक्रमणिका](../../core_07_system_alignment_certification.md) का **पाठक-भाषा पायलट** है। यह संज्ञ संविधान का **बाध्यकारी भाग नहीं** है। यह **दूसरा संविधान नहीं** है। यह **प्रेषण संस्करण नहीं** है। यह `SC-Corpus-2026.08.09` से **जुड़ी** है। यदि यह अनुवाद और अंग्रेज़ी मूल में अंतर दिखे, तो क्रमांकित [`core_07_system_alignment_certification.md`](../../core_07_system_alignment_certification.md) जीतता है। पढ़ने का क्रम और संस्करण मेटाडेटा [README.md](../../README.md) में रहते हैं। विधि और शब्द-सूची: [translations/hi/README.md](README.md)।
+> यह फ़ाइल [अंग्रेज़ी अध्याय सात पठन अनुक्रमणिका](../../core_08_system_alignment_certification.md) का **पाठक-भाषा पायलट** है। यह संज्ञ संविधान का **बाध्यकारी भाग नहीं** है। यह **दूसरा संविधान नहीं** है। यह **प्रेषण संस्करण नहीं** है। यह `SC-Corpus-2026.08.09` से **जुड़ी** है। यदि यह अनुवाद और अंग्रेज़ी मूल में अंतर दिखे, तो क्रमांकित [`core_07_system_alignment_certification.md`](../../core_08_system_alignment_certification.md) जीतता है। पढ़ने का क्रम और संस्करण मेटाडेटा [README.md](../../README.md) में रहते हैं। विधि और शब्द-सूची: [translations/hi/README.md](README.md)।
 >
 > **अध्याय सात** दो बाध्यकारी फ़ाइलों में बँटा है जो एक लिखत के रूप में पढ़ी जाती हैं:
 >
@@ -41,4 +41,4 @@
 
 **अगली फ़ाइल (इस भाषा में):** [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
 
-**बाध्यकारी मूल:** [core_07_system_alignment_certification.md](../../core_07_system_alignment_certification.md)
+**बाध्यकारी मूल:** [core_07_system_alignment_certification.md](../../core_08_system_alignment_certification.md)

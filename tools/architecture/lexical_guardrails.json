@@ -118,19 +118,19 @@
     },
     {
       "avoid": "standing calculus",
-      "prefer": "standing measurement under Chapter Eight; measure standing records on the Contribution and Violation axes"
+      "prefer": "standing measurement under Chapter Nine; measure standing records on the Contribution and Violation axes"
     },
     {
       "avoid": "standing-calculus",
-      "prefer": "standing measurement under Chapter Eight"
+      "prefer": "standing measurement under Chapter Nine"
     },
     {
       "avoid": "standing classification",
-      "prefer": "standing measurement under Chapter Eight (reserve classification for CS-3 system classification)"
+      "prefer": "standing measurement under Chapter Nine (reserve classification for CS-3 system classification)"
     },
     {
       "avoid": "standing-record classification",
-      "prefer": "standing measurement under Chapter Eight"
+      "prefer": "standing measurement under Chapter Nine"
     },
     {
       "avoid": "filed claim is not standing",
@@ -138,11 +138,11 @@
     },
     {
       "avoid": "drift",
-      "prefer": "misalignment or constitutional misalignment (stewardship, governance, incentive, and alignment sense); retain anti-drift, classification drift, version drift, editorial drift, cross-layer drift, Misclassification and misalignment, and other established custody compounds; prefer Defects and misalignment in Chapter Seven evaluation sections"
+      "prefer": "misalignment or constitutional misalignment (stewardship, governance, incentive, and alignment sense); retain anti-drift, classification drift, version drift, editorial drift, cross-layer drift, Misclassification and misalignment, and other established custody compounds; prefer Defects and misalignment in Chapter Eight evaluation sections"
     },
     {
       "avoid": "bare charter (Corpus/Constitution sense)",
-      "prefer": "distinguish: (1) Chapter Five Charter — scope instrument for a system/institution/business (core_05_band_continuity.md#charter); (2) Chapter Twelve treaty/compact/charter authorization-mechanism family; (3) verb hold a charter over / supervise, charter, or … — do not use bare charter for this Constitution or the Corpus"
+      "prefer": "distinguish: (1) Chapter Five Charter — scope instrument for a system/institution/business (core_05_band_continuity.md#charter); (2) Chapter Thirteen treaty/compact/charter authorization-mechanism family; (3) verb hold a charter over / supervise, charter, or … — do not use bare charter for this Constitution or the Corpus"
     },
     {
       "avoid": "Chapter Zero",
@@ -154,7 +154,7 @@
     },
     {
       "avoid": "pathway (bare; standing/privilege/lock/clearance object)",
-      "prefer": "named pathway, named privilege pathway, or a Chapter Nine §4.2 type prefix (trust, role, authority, credit, oversight, recognition, stewardship, governance-voting, stakeholder-participation); do not invent clearance pathway or lock pathway as house terms"
+      "prefer": "named pathway, named privilege pathway, or a Chapter Ten §4.2 type prefix (trust, role, authority, credit, oversight, recognition, stewardship, governance-voting, stakeholder-participation); do not invent clearance pathway or lock pathway as house terms"
     },
     {
       "avoid": "pathways (bare; standing/privilege/lock/clearance object)",
@@ -178,11 +178,11 @@
     },
     {
       "avoid": "governance layer mechanism",
-      "prefer": "legitimacy mechanism (Chapter Twelve); do not use governance-layer mechanism as a synonym for the two-layer split"
+      "prefer": "legitimacy mechanism (Chapter Thirteen); do not use governance-layer mechanism as a synonym for the two-layer split"
     },
     {
       "avoid": "governance-layer mechanism",
-      "prefer": "legitimacy mechanism (Chapter Twelve)"
+      "prefer": "legitimacy mechanism (Chapter Thirteen)"
     },
     {
       "avoid": "stakeholder-layer",

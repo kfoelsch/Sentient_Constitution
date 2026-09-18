@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Tests for the Chapter Five through Chapter Thirteen nested-list candidate finder."""
+"""Tests for the Chapter Five through Chapter Fourteen nested-list candidate finder."""
 
 from __future__ import annotations
 
@@ -160,7 +160,7 @@ class NestedListCandidateTests(unittest.TestCase):
         text = """#### Standing Record
 
 - **What it is**
-  - Chapter Five pointer; canonical concept: Chapter Eight §2.1; operational requirements: Chapter Eight §3.
+  - Chapter Five pointer; canonical concept: Chapter Nine §2.1; operational requirements: Chapter Nine §3.
 """
         self.assertEqual(scan_text(text), [])
 
@@ -317,7 +317,7 @@ class NestedListCandidateTests(unittest.TestCase):
         text = text.replace("without packing", filler + " without packing")
         self.assertEqual(scan_text(text, chapter=7), [])
 
-    def test_main_chapter_seven_advisory_exit_zero(self) -> None:
+    def test_main_chapter_eight_advisory_exit_zero(self) -> None:
         buf = StringIO()
         with patch("sys.stdout", buf):
             code = main(
@@ -327,7 +327,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "7",
                     "--file",
-                    "core_07_a_system_alignment_certification_evaluation.md",
+                    "core_08_a_system_alignment_certification_evaluation.md",
                     "--top",
                     "3",
                 ]
@@ -340,7 +340,7 @@ class NestedListCandidateTests(unittest.TestCase):
     def test_ch8_labeled_semicolon_list_is_flagged(self) -> None:
         text = """#### 3.1 Minimum record contents
 
-- **Violation standing records must also state:** the Question 2 violation measurement; shared-violation actor-specific basis; forum-disclosure omission basis; and the measurement basis later Chapter Nine effects must use.
+- **Violation standing records must also state:** the Question 2 violation measurement; shared-violation actor-specific basis; forum-disclosure omission basis; and the measurement basis later Chapter Ten effects must use.
 """
         hits = scan_text(text, chapter=8)
         self.assertEqual(self._lines(text, min_score=8), [3])
@@ -353,7 +353,7 @@ class NestedListCandidateTests(unittest.TestCase):
 - **Contribution standing records must also state:**
   - the Question 2 contribution measurement;
   - how shared credit was allocated; and
-  - the measurement basis later Chapter Nine effects must use.
+  - the measurement basis later Chapter Ten effects must use.
 """
         self.assertEqual(scan_text(text, chapter=8), [])
 
@@ -366,7 +366,7 @@ class NestedListCandidateTests(unittest.TestCase):
         text = text.replace("without packing", filler + " without packing")
         self.assertEqual(scan_text(text, chapter=8), [])
 
-    def test_main_chapter_eight_advisory_exit_zero(self) -> None:
+    def test_main_chapter_nine_advisory_exit_zero(self) -> None:
         buf = StringIO()
         with patch("sys.stdout", buf):
             code = main(
@@ -376,7 +376,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "8",
                     "--file",
-                    "core_08_standing_assessment.md",
+                    "core_09_standing_assessment.md",
                     "--top",
                     "3",
                 ]
@@ -417,7 +417,7 @@ class NestedListCandidateTests(unittest.TestCase):
         text = text.replace("without packing", filler + " without packing")
         self.assertEqual(scan_text(text, chapter=9), [])
 
-    def test_main_chapter_nine_advisory_exit_zero(self) -> None:
+    def test_main_chapter_ten_advisory_exit_zero(self) -> None:
         buf = StringIO()
         with patch("sys.stdout", buf):
             code = main(
@@ -427,7 +427,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "9",
                     "--file",
-                    "core_09_standing_integration.md",
+                    "core_10_standing_integration.md",
                     "--top",
                     "3",
                 ]
@@ -469,7 +469,7 @@ class NestedListCandidateTests(unittest.TestCase):
         text = text.replace("without packing", filler + " without packing")
         self.assertEqual(scan_text(text, chapter=10), [])
 
-    def test_main_chapter_ten_advisory_exit_zero(self) -> None:
+    def test_main_chapter_eleven_advisory_exit_zero(self) -> None:
         buf = StringIO()
         with patch("sys.stdout", buf):
             code = main(
@@ -479,7 +479,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "10",
                     "--file",
-                    "core_10_a_misconduct_designation.md",
+                    "core_11_a_misconduct_designation.md",
                     "--top",
                     "3",
                 ]
@@ -521,7 +521,7 @@ class NestedListCandidateTests(unittest.TestCase):
         text = text.replace("without packing", filler + " without packing")
         self.assertEqual(scan_text(text, chapter=11), [])
 
-    def test_main_chapter_eleven_advisory_exit_zero(self) -> None:
+    def test_main_chapter_twelve_advisory_exit_zero(self) -> None:
         buf = StringIO()
         with patch("sys.stdout", buf):
             code = main(
@@ -531,7 +531,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "11",
                     "--file",
-                    "core_11_forum.md",
+                    "core_12_forum.md",
                     "--top",
                     "3",
                 ]
@@ -574,7 +574,7 @@ class NestedListCandidateTests(unittest.TestCase):
         text = text.replace("without packing", filler + " without packing")
         self.assertEqual(scan_text(text, chapter=12), [])
 
-    def test_main_chapter_twelve_advisory_exit_zero(self) -> None:
+    def test_main_chapter_thirteen_advisory_exit_zero(self) -> None:
         buf = StringIO()
         with patch("sys.stdout", buf):
             code = main(
@@ -584,7 +584,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "12",
                     "--file",
-                    "core_12_governance.md",
+                    "core_13_governance.md",
                     "--top",
                     "3",
                 ]
@@ -628,7 +628,7 @@ class NestedListCandidateTests(unittest.TestCase):
         text = text.replace("without packing", filler + " without packing")
         self.assertEqual(scan_text(text, chapter=13), [])
 
-    def test_main_chapter_thirteen_advisory_exit_zero(self) -> None:
+    def test_main_chapter_fourteen_advisory_exit_zero(self) -> None:
         buf = StringIO()
         with patch("sys.stdout", buf):
             code = main(
@@ -638,7 +638,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "13",
                     "--file",
-                    "core_13_non_regression.md",
+                    "core_14_non_regression.md",
                     "--top",
                     "3",
                 ]

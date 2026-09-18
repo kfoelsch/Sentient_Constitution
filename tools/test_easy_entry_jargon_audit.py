@@ -38,7 +38,7 @@ class ScanTests(unittest.TestCase):
         return [item.avoid for item in findings]
 
     def test_flags_standing_record_in_body(self) -> None:
-        hits = self._audit("It is not a Chapter Eight standing record.\n")
+        hits = self._audit("It is not a Chapter Nine standing record.\n")
         self.assertIn("standing record", hits)
 
     def test_flags_offtake_in_body(self) -> None:

@@ -45,14 +45,14 @@
 - あわせて読む：[憲法四元](core_00_preamble.md#constitutional-tetrad) — **参加**脚（結果の伴う役割と声。一般要件であり、[影響を受ける側のシステム参加](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster)だけではない）、**監督**脚、**適時性**脚（先制的修復の速さ）の第一章における第一次の本拠。[実質的利害](core_00_preamble.md#material-stake)による尺度合わせ。
 - あわせて読む：[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — **繁栄**目的（参加、行為主体性、教育経路）。**継続**目的（制度的学習、修復能力、耐久する責務ある管理）。
 - 上流：原則：[2. 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)；[3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)；[4. 信頼](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)；および [§12 共有システムの能力](#12-shared-system-capacity)。
-- 下流：[6. 過程衝突の解決](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)（[§6.3 回避可能な負担の最小化](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)を含む）；[第七章 §3 システム全体の認証評価](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)；[§11.1.3 責務ある管理と運用者への適用](#1113-stewardship-and-operator-application)。
+- 下流：[6. 過程衝突の解決](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)（[§6.3 回避可能な負担の最小化](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)を含む）；[第七章 §3 システム全体の認証評価](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)；[§11.1.3 責務ある管理と運用者への適用](#1113-stewardship-and-operator-application)。
 - 下流：[§11.1.4 役割の深さと実質的責任の経路](#1114-role-depth-and-material-responsibility-pathways)。
 - 下流：[§5 自由（有界な行為主体性）](core_01_a_values_principles.md#5-freedom-bounded-agency)。結果の伴う責務ある管理、分散した理解、意味ある参加、修復能力が、実質的依存のもとで本物のままでいることに依存する。
-- 下流：[第七章 — システム整合認証](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)（*監督のもとでのとくに大きな監査過程の一つ — 唯一の監査の本拠ではない*）；[第八章 — 貢献、違反、軌跡モデル](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)（*軌跡効果 — 信頼・役割・承認適格 — は本分節を原則層の基礎として実施する*）。
+- 下流：[第七章 — システム整合認証](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)（*監督のもとでのとくに大きな監査過程の一つ — 唯一の監査の本拠ではない*）；[第八章 — 貢献、違反、軌跡モデル](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)（*軌跡効果 — 信頼・役割・承認適格 — は本分節を原則層の基礎として実施する*）。
 - 下流：[第十一章 §1 — 目的と役割](core_11_forum.md#1-purpose-and-role)および [§4 — フォーラム群の定義](core_11_forum.md#4-forum-family-definitions)（*フォーラム群は、本節と整合した争訟可能な異議、修復の順序づけ、根本原因の学習、先制的統治のための参加と監督のアーキテクチャを運ぶ*）；採択されたフォーラム運用については [corpus_forum.md](../../corpus_forum.md)。
 - 下流：教育、影響を受ける側のシステム参加、透明性、理解可能性、監査と検証、実質的責任への役割の深さの経路についての権利面を形づくる。
   - とくに [Article III：生存と平等な教育アクセス](../../core_06_rights_part_a.md#article-iii-survival-and-equal-educational-access)、[Article VI：感知者中心の教育への権利](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)、[Article IX：自己決定と行為主体性](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)、[Article XI：影響を受ける側のシステム参加、代表、適正手続](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)、[Article XV：監査、透明性、独立検証](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)、[Article XVIII：軌跡と参加地位](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)、[Article XIX：相互運用性、可搬性、移動、避難、退出の誠実性](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)、[Article XX：理解可能性と複雑さの責務ある管理](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)、および [Article XXII：憲法解釈、審査、反捕捉保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)。
-  - あわせて読む：[第十二章 §5 — 授権された役割、能力開発、貢献](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution)および **[corpus_systems.md](../../corpus_systems.md)、CS-4 — 重要なシステムの責務ある管理**。操作性の役割経路と責務ある管理の発展経路のため。
+  - あわせて読む：[第十二章 §5 — 授権された役割、能力開発、貢献](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)および **[corpus_systems.md](../../corpus_systems.md)、CS-4 — 重要なシステムの責務ある管理**。操作性の役割経路と責務ある管理の発展経路のため。
 - 分節（読み順）：[§9.1 結果の伴う責務ある管理](#91-stewardship) · [§9.1.1 共有された責務ある管理の標準](#911-shared-stewardship-standard) · [§9.1.2 対称的な費用のかかる制約](#912-symmetric-costly-constraints) · [§9.1.3 役割範囲の観測可能性](#913-role-scoped-observability) · [§9.2 分散した理解](#92-distributed-understanding)（尺度での能力の共同体の面） · [§9.3 制度的発展](#93-institutional-development)（組織の面） · [§9.4 開放の志向](#94-openness-aspiration) · [§9.5 整合した自己組織化](#95-aligned-self-organization) · [§9.6 過程の劣化禁止](#96-process-character-discipline)。
 
 </details>
@@ -124,7 +124,7 @@
 
 - 上流：[§9 責務ある管理と分散した理解](#9-stewardship-and-distributed-understanding)（親。上記の《平たい言葉で言えば》と柱 1 の枠づけを含む）；[§12 共有システムの能力](#12-shared-system-capacity)；[4. 信頼](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)。
 - あわせて読む：[憲法四元](core_00_preamble.md#constitutional-tetrad) — **参加**脚（運用、維持、改善における結果の伴う役割）。**監督**脚（記録、監査経路、争訟可能な観測可能性）。**適時性**脚（不整合を早く検出し、階層に適した窓の内側で段階的に拡大し、不必要な遅れなしに問題を直し始める）；[適時性](core_05_apex_timeliness_leg.md#timeliness-constitutional)。
-- 下流：[§9.1.1 共有された責務ある管理の標準](#911-shared-stewardship-standard)（*基体非依存の義務保有者。付属は記録、帰属、能力限度を加えてよい — より柔らかい内部規範ではない*）；[§9.1.2 対称的な費用のかかる制約](#912-symmetric-costly-constraints)；[§9.1.3 役割範囲の観測可能性](#913-role-scoped-observability)；[§9.2 分散した理解](#92-distributed-understanding)および [§9.3 制度的発展](#93-institutional-development)（*柱 2 — 尺度での能力*）；[第七章 — システム整合認証](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)（*監督のもとでのとくに大きな監査過程の一つ — 唯一の監査の本拠ではない*）；[Article XV：監査、透明性、独立検証](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)（*監査の権利の床*）；[第八章 — 貢献、違反、軌跡モデル](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)（*軌跡効果は分散した能力と結果の伴う責務ある管理を実施する*）；[Article XVIII：軌跡と参加地位](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)。
+- 下流：[§9.1.1 共有された責務ある管理の標準](#911-shared-stewardship-standard)（*基体非依存の義務保有者。付属は記録、帰属、能力限度を加えてよい — より柔らかい内部規範ではない*）；[§9.1.2 対称的な費用のかかる制約](#912-symmetric-costly-constraints)；[§9.1.3 役割範囲の観測可能性](#913-role-scoped-observability)；[§9.2 分散した理解](#92-distributed-understanding)および [§9.3 制度的発展](#93-institutional-development)（*柱 2 — 尺度での能力*）；[第七章 — システム整合認証](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)（*監督のもとでのとくに大きな監査過程の一つ — 唯一の監査の本拠ではない*）；[Article XV：監査、透明性、独立検証](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)（*監査の権利の床*）；[第八章 — 貢献、違反、軌跡モデル](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)（*軌跡効果は分散した能力と結果の伴う責務ある管理を実施する*）；[Article XVIII：軌跡と参加地位](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)。
 
 </details>
 
@@ -160,9 +160,9 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[§9.1 結果の伴う責務ある管理](#91-stewardship)；[§9 責務ある管理と分散した理解](#9-stewardship-and-distributed-understanding)；[§10 責務ある管理の規律のもとでの統治](#10-governance-under-stewardship-discipline)。
-- あわせて読む：[感知性の非排除](../../core_05_band_participation.md#sentience-non-exclusion)および [基体クラス](../../core_05_band_participation.md#substrate-class)（*基体非依存の適用 — 本分節は義務保有者を縛る。認められた感知者ではないエージェントと運用者を含む*）；[権限スタックと内部階層](../../core_05_band_integrative.md#authority-stack)；[憲法上の制約](../../core_05_band_integrative.md#constitutional-constraint)；[争訟可能性](../../core_05_band_accountability.md#contestability)；[第九章 §5.4 抵抗する義務](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)。
+- あわせて読む：[感知性の非排除](../../core_05_band_participation.md#sentience-non-exclusion)および [基体クラス](../../core_05_band_participation.md#substrate-class)（*基体非依存の適用 — 本分節は義務保有者を縛る。認められた感知者ではないエージェントと運用者を含む*）；[権限スタックと内部階層](../../core_05_band_integrative.md#authority-stack)；[憲法上の制約](../../core_05_band_integrative.md#constitutional-constraint)；[争訟可能性](../../core_05_band_accountability.md#contestability)；[第九章 §5.4 抵抗する義務](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)。
 - 責務ある管理の入口（非操作性）：拘束力ある次の一歩の声明：[操作性の責務ある管理の声明](#operative-steward-statement-shared-stewardship)。支援ポインタはそれを狭められない。
-- 下流：[§9.1.2 対称的な費用のかかる制約](#912-symmetric-costly-constraints)；[§9.1.3 役割範囲の観測可能性](#913-role-scoped-observability)；[第十二章 §5 — 授権された役割、能力開発、貢献](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution)；[第十六章](../../core_16_incorporation.md)（*付属は実施する。置き換えない*）；[§11.1.3 責務ある管理と運用者への適用](#1113-stewardship-and-operator-application)。
+- 下流：[§9.1.2 対称的な費用のかかる制約](#912-symmetric-costly-constraints)；[§9.1.3 役割範囲の観測可能性](#913-role-scoped-observability)；[第十二章 §5 — 授権された役割、能力開発、貢献](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)；[第十六章](../../core_17_incorporation.md)（*付属は実施する。置き換えない*）；[§11.1.3 責務ある管理と運用者への適用](#1113-stewardship-and-operator-application)。
 
 </details>
 
@@ -188,7 +188,7 @@
 
 <br>
 
-*平たい言葉で言えば：人間と AI の責務ある管理者は、同じ第一章の義務を負う。[第九章 §5.4](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) は、双方を、違法または違憲の指示を拒むよう縛る。付属は記録、帰属、能力限度を加えてよい。より柔らかい内部規範を差し込み、軌跡測定を飛ばし、または争訟経路を閉じてはならない。これは新しい道徳スタックではない — 特別な言い訳の禁止規則である。ボーナス、期限、「責任は私が取る」の試験は [§9.1.2](#912-symmetric-costly-constraints) に住む。*
+*平たい言葉で言えば：人間と AI の責務ある管理者は、同じ第一章の義務を負う。[第九章 §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) は、双方を、違法または違憲の指示を拒むよう縛る。付属は記録、帰属、能力限度を加えてよい。より柔らかい内部規範を差し込み、軌跡測定を飛ばし、または争訟経路を閉じてはならない。これは新しい道徳スタックではない — 特別な言い訳の禁止規則である。ボーナス、期限、「責任は私が取る」の試験は [§9.1.2](#912-symmetric-costly-constraints) に住む。*
 
 **共有された責務ある管理の標準：**
 - **誰を縛るか：** 本章のもとでの責務ある管理と統治の義務は、実質的な責務ある管理または運用権限を行使する者に、[基体クラス](../../core_05_band_participation.md#substrate-class)にかかわりなく[基体非依存](../../core_05_band_participation.md#substrate-agnostic)に適用される：
@@ -197,10 +197,10 @@
   - 他のエージェント、運用者、または構成要素
 
   本分節は義務保有者の規則である。[感知性の非排除](../../core_05_band_participation.md#sentience-non-exclusion)は、なお承認と権利の床の切り出し防止である。
-- **抵抗する義務：** [第九章 §5.4](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) は、両方の種類の責務ある管理者を、違法または違憲の指示を拒むよう縛る。
+- **抵抗する義務：** [第九章 §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) は、両方の種類の責務ある管理者を、違法または違憲の指示を拒むよう縛る。
 - **付属：** 採択された付属実施本文と内部規範は：
   - それらの義務を満たし、狭めない記録、帰属、能力限度を加えてよい
-  - [軌跡測定](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)、争訟経路、または第一章の義務を、より柔らかい内部規範で置き換えてはならない
+  - [軌跡測定](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)、争訟経路、または第一章の義務を、より柔らかい内部規範で置き換えてはならない
   - [権限スタックと内部階層](../../core_05_band_integrative.md#authority-stack)および [憲法上の制約](../../core_05_band_integrative.md#constitutional-constraint)がその狭小化を禁じる
 - **記録対軌跡記録：** 既定の混合乗組の点検可能性と、ログは記録ではない規則は [§9.1.3](#913-role-scoped-observability) に住む。軌跡測定はなお第八章である。
 
@@ -210,8 +210,8 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[§9.1.1 共有された責務ある管理の標準](#911-shared-stewardship-standard)；[§9.1 結果の伴う責務ある管理](#91-stewardship)；[§9 責務ある管理と分散した理解](#9-stewardship-and-distributed-understanding)。
-- あわせて読む：[安全（制約）](../../core_05_band_continuity.md#safety-constraint)；[真理（憲法上の制約）](../../core_05_band_oversight.md#truth-constitutional-constraint)；[監査可能性](../../core_05_band_oversight.md#auditability)；[争訟可能性](../../core_05_band_accountability.md#contestability)；[§11 誘因整合とシステム捕捉](#11-incentive-alignment-and-system-capture)；[第九章 §5.4 抵抗する義務](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)。
-- 下流：[第八章 — 貢献、違反、軌跡モデル](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)（*検証された費用のかかる事例の失敗は、同じ軸に記録される*）；[§9.1.3 役割範囲の観測可能性](#913-role-scoped-observability)。
+- あわせて読む：[安全（制約）](../../core_05_band_continuity.md#safety-constraint)；[真理（憲法上の制約）](../../core_05_band_oversight.md#truth-constitutional-constraint)；[監査可能性](../../core_05_band_oversight.md#auditability)；[争訟可能性](../../core_05_band_accountability.md#contestability)；[§11 誘因整合とシステム捕捉](#11-incentive-alignment-and-system-capture)；[第九章 §5.4 抵抗する義務](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)。
+- 下流：[第八章 — 貢献、違反、軌跡モデル](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)（*検証された費用のかかる事例の失敗は、同じ軸に記録される*）；[§9.1.3 役割範囲の観測可能性](#913-role-scoped-observability)。
 
 </details>
 
@@ -240,7 +240,7 @@
 それらは両方の種類の責務ある管理者についての失敗した試験である。
 
 **記録と示し：**
-- **軌跡ではない：** 書面の自己報告は [軌跡測定](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)ではない。
+- **軌跡ではない：** 書面の自己報告は [軌跡測定](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)ではない。
 - **検証された記録：** 検証された失敗は、第八章のもとでの貢献軸と違反軸に記録される。
 - **AI だけの示しではない：** AI の責務ある管理者にだけ走らせた評価、能力、または引継ぎ画面は、本分節が成り立つことを証明しない。人間の運用者がなおボーナス、期限、または隠れ蓑の指示を保つなら、禁じられた動きはなお彼らに利用可能である。それは捕捉経路であり、共有された標準ではない。
 
@@ -251,7 +251,7 @@
 
 - 上流：[§9.1.1 共有された責務ある管理の標準](#911-shared-stewardship-standard)；[§9.1.2 対称的な費用のかかる制約](#912-symmetric-costly-constraints)；[§9.1 結果の伴う責務ある管理](#91-stewardship)。
 - あわせて読む：[帰属可能な行為](../../core_05_band_accountability.md#attributable-action-constitutional)；[監査可能性](../../core_05_band_oversight.md#auditability)；[監視の境界](../../core_05_band_continuity.md#surveillance-boundary)；[保護された内部状態の境界](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional)；[§6.2.3 プライバシー](core_01_b_interaction_interpretation.md#623-privacy-and-informational-self-determination)；[Article VII-B](../../core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection)。
-- 下流：[CS-4 §10 点検可能な帰属可能な行為](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)（*混合された人間/AI 行為についての既定の記録契約 — 軌跡記録の代わりではない*）；[第九章 §7.1](../../core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)；[第九章 §7.2](../../core_09_standing_integration.md#72-plain-statement-of-effect-and-burden)。
+- 下流：[CS-4 §10 点検可能な帰属可能な行為](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)（*混合された人間/AI 行為についての既定の記録契約 — 軌跡記録の代わりではない*）；[第九章 §7.1](../../core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)；[第九章 §7.2](../../core_10_standing_integration.md#72-plain-statement-of-effect-and-burden)。
 
 </details>
 
@@ -285,11 +285,11 @@
   その規則は事例ごとの例外であり、常設の許可ではない。それは対称である：人間の責務ある管理者の私的メモと通信は、同じ条件でのみ到達され、他の条件では到達されない。
 - **記録は軌跡記録ではない：** CS-4 §10 のログは：
   - 後に誰が何をしたかを示すために用いられる跡である。それ自体は認定ではない
-  - 検証済みの助けまたは危害の [軌跡記録](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)ではなく、それを書くことは記録を開かない
-  - 人々が指名された経路を認めまたは拒む理由ではない。誰かが役割経路、信頼経路、または他の指名された経路を用いてよいかを決める者は、このログを検証済みの助けまたは危害の [軌跡記録](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)として扱ってはならない。そのアクセス決定は、そのような記録を用いるか、または何もないという通常の状態を用いる（[第八章 §2.1 沈黙が既定である](../../core_08_standing_assessment.md#21-silence-is-the-default)）。ログは、仕事を後に再構築できるように存在し — 第八章の記録が開かれた場合を含む — 仕事の跡をそれらの指名された経路を配りまたは差し控えるために用いるためではない。
-  - 一つの評判得点、順位、バッジ、または公のプロフィールをつくるために、他の指名された経路からのログまたは軌跡効果と結合されてはならない（[第九章 §7.1 指名された経路効果の集計禁止](../../core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)）
+  - 検証済みの助けまたは危害の [軌跡記録](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)ではなく、それを書くことは記録を開かない
+  - 人々が指名された経路を認めまたは拒む理由ではない。誰かが役割経路、信頼経路、または他の指名された経路を用いてよいかを決める者は、このログを検証済みの助けまたは危害の [軌跡記録](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)として扱ってはならない。そのアクセス決定は、そのような記録を用いるか、または何もないという通常の状態を用いる（[第八章 §2.1 沈黙が既定である](../../core_09_standing_assessment.md#21-silence-is-the-default)）。ログは、仕事を後に再構築できるように存在し — 第八章の記録が開かれた場合を含む — 仕事の跡をそれらの指名された経路を配りまたは差し控えるために用いるためではない。
+  - 一つの評判得点、順位、バッジ、または公のプロフィールをつくるために、他の指名された経路からのログまたは軌跡効果と結合されてはならない（[第九章 §7.1 指名された経路効果の集計禁止](../../core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)）
 
-結果の伴う権限を担う責務ある管理者にこの義務が置く負担は本物であり、この憲法はそうでないふりをしない。[第九章 §7.2](../../core_09_standing_integration.md#72-plain-statement-of-effect-and-burden) は、それを担う責務ある管理者に平たく述べられることを求める。
+結果の伴う権限を担う責務ある管理者にこの義務が置く負担は本物であり、この憲法はそうでないふりをしない。[第九章 §7.2](../../core_10_standing_integration.md#72-plain-statement-of-effect-and-burden) は、それを担う責務ある管理者に平たく述べられることを求める。
 
 <a id="92-distributed-understanding"></a>
 #### 9.2 分散した理解
@@ -601,7 +601,7 @@
 - あわせて読む：[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — **繁栄**目的（意味ある行為主体性と適法な参加）。**継続**目的（耐久する制度的整合と長い時間地平の責務ある管理の規律）。
 - あわせて読む：[帰属可能な行為](../../core_05_band_accountability.md#attributable-action-constitutional)および [帰属の誠実性](../../core_05_band_accountability.md#attribution-integrity-constitutional) — 実質的行為がたどれるままであるところで、権限に応じて尺度を合わせた応答義務を本物に保つ仕組みの補題。操作性の詳細は **[CS-2 — 情報の種類と取扱い](../../corpus_systems/cs_02_a_information_types_and_handling.md)** および **第七章**。
 - 上流：[§9 責務ある管理と分散した理解](#9-stewardship-and-distributed-understanding)；[§9.1.1 共有された責務ある管理の標準](#911-shared-stewardship-standard)（*基体非依存の義務は人間と AI の責務ある管理者を同様に縛る*）。
-- 下流：[§11 誘因整合とシステム捕捉](#11-incentive-alignment-and-system-capture)；[§12 共有システムの能力](#12-shared-system-capacity)；[第十二章](../../core_12_governance.md)（*憲法契約層*の操作化）；[Article XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)（*フォーラム構成員の床*）。
+- 下流：[§11 誘因整合とシステム捕捉](#11-incentive-alignment-and-system-capture)；[§12 共有システムの能力](#12-shared-system-capacity)；[第十二章](../../core_13_governance.md)（*憲法契約層*の操作化）；[Article XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)（*フォーラム構成員の床*）。
 - 分節（読み順）：[§10.1 授権された構造としての統治](#101-governance-as-authorized-structure) · [§10.2 職務の分離](#102-segregation-of-duties) · [§10.3 継続的正当化](#103-ongoing-justification)。
 
 </details>
@@ -637,7 +637,7 @@
 - あわせて読む：[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — **繁栄**目的（意味ある行為主体性と適法な参加を保全する統治）。**継続**目的（耐久する制度的整合と長い時間地平の責務ある管理の規律）。
 - あわせて読む：[§6.1.3 比例性](core_01_b_interaction_interpretation.md#613-proportionality)（*分類の床と過小統治の規律*）；[必要性](../../core_05_band_accountability.md#necessity)；[比例性](../../core_05_band_accountability.md#proportionality)；[説明責任](core_05_apex_accountability_leg.md#accountability)；[監督](core_05_apex_oversight_leg.md#oversight-constitutional)。
 - 上流：原則：[§9 責務ある管理と分散した理解](#9-stewardship-and-distributed-understanding)；[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)。
-- 下流：[§10.2 職務の分離](#102-segregation-of-duties)；[§10.3 継続的正当化](#103-ongoing-justification)；[§11 誘因整合とシステム捕捉](#11-incentive-alignment-and-system-capture)；[第十二章](../../core_12_governance.md)（*憲法契約層*の操作化）；[Article XXII：憲法解釈、審査、反捕捉保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)（*フォーラム構成員の開示、忌避、反捕捉の床*）；[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*フォーラム群の監督*）。
+- 下流：[§10.2 職務の分離](#102-segregation-of-duties)；[§10.3 継続的正当化](#103-ongoing-justification)；[§11 誘因整合とシステム捕捉](#11-incentive-alignment-and-system-capture)；[第十二章](../../core_13_governance.md)（*憲法契約層*の操作化）；[Article XXII：憲法解釈、審査、反捕捉保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)（*フォーラム構成員の開示、忌避、反捕捉の床*）；[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*フォーラム群の監督*）。
 
 </details>
 
@@ -690,7 +690,7 @@
 - 上流：[§10.1 授権された構造としての統治](#101-governance-as-authorized-structure)；[§10 責務ある管理の規律のもとでの統治](#10-governance-under-stewardship-discipline)；[§9.1.1 共有された責務ある管理の標準](#911-shared-stewardship-standard)（*人間と AI の責務ある管理者について同じ座席*）。
 - あわせて読む：[憲法四元](core_00_preamble.md#constitutional-tetrad) — **監督**脚（点検する者は行為した者ではない）。**説明責任**脚（応答義務は行為者に潰れてはならない）。[比例性](../../core_05_band_accountability.md#proportionality) のもとでの [実質的利害](core_00_preamble.md#material-stake) による尺度合わせ。
 - あわせて読む：[§11.3 不整合の検出](#113-misalignment-detection)（*複数の検出と審査 — この対の多眼の半面*）。
-- 下流：制度については **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)**（《説明責任：分散し比例した権威の用語 — 憲法レーンと機能分離》）および **[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)**（《機能分離レーン》）；すべての採択者の役割地図が実体化する座席の種類 — これら四つと、繰り返す封じ込め、参加条件、放出制御、方向づけの座席 — については **[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog)**（《座席カタログ》）；軌跡記録については [第八章 §3.7](../../core_08_standing_assessment.md#37-segregation-of-duties)；フォーラムについては [Article XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) および [第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)；混合された人間/AI 乗組については [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)。
+- 下流：制度については **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)**（《説明責任：分散し比例した権威の用語 — 憲法レーンと機能分離》）および **[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)**（《機能分離レーン》）；すべての採択者の役割地図が実体化する座席の種類 — これら四つと、繰り返す封じ込め、参加条件、放出制御、方向づけの座席 — については **[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog)**（《座席カタログ》）；軌跡記録については [第八章 §3.7](../../core_09_standing_assessment.md#37-segregation-of-duties)；フォーラムについては [Article XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) および [第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)；混合された人間/AI 乗組については [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)。
 
 </details>
 
@@ -743,7 +743,7 @@
 - あわせて読む：[憲法四元](core_00_preamble.md#constitutional-tetrad) — **適時性**脚（予定された再点検）。**監督**脚（可視で争訟可能な標準）。**説明責任**脚（習慣と都合は答えではない）。[実質的利害](core_00_preamble.md#material-stake)による尺度合わせ。
 - あわせて読む：[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — **継続**目的（耐久する整合は凍結ではない）。**繁栄**目的（取決めが古くなるにつれて声と異議が本物のままである）。
 - あわせて読む：[審査と訂正の義務](../../core_05_band_continuity.md#review-and-correction-duty-constitutional)；[争訟可能性](../../core_05_band_accountability.md#contestability)；[適時性](core_05_apex_timeliness_leg.md#timeliness-constitutional)。
-- 下流：[Article XXV-A：非定着と改訂可能性](../../core_06_rights_part_d.md#article-xxv-a-non-entrenchment-and-revisability)および [Article XXV-B：定期的再検証と透明な変更](../../core_06_rights_part_d.md#article-xxv-b-periodic-revalidation-and-transparent-change)（*権利の床の非定着と透明な変更の床 — それらはこの原則を狭めない*）；**[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#baseline-governance-accountability-conditions)**（《基線の統治説明責任の条件》）；[第十二章](../../core_12_governance.md)（*憲法契約層*の操作化）。
+- 下流：[Article XXV-A：非定着と改訂可能性](../../core_06_rights_part_d.md#article-xxv-a-non-entrenchment-and-revisability)および [Article XXV-B：定期的再検証と透明な変更](../../core_06_rights_part_d.md#article-xxv-b-periodic-revalidation-and-transparent-change)（*権利の床の非定着と透明な変更の床 — それらはこの原則を狭めない*）；**[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#baseline-governance-accountability-conditions)**（《基線の統治説明責任の条件》）；[第十二章](../../core_13_governance.md)（*憲法契約層*の操作化）。
 
 </details>
 
@@ -787,9 +787,9 @@
 - あわせて読む：[憲法四元](core_00_preamble.md#constitutional-tetrad) — 四元の**捕捉**規律の第一章における第一次の本拠（誘因は**参加**、**監督**、**説明責任**、または**適時性**を空洞化してはならない）。[実質的利害](core_00_preamble.md#material-stake)による尺度合わせ。
 - あわせて読む：説明責任の測定ファミリー（《誘因整合と代替指標の誠実性；市場構造と争訟可能性》）。
 - あわせて読む：[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — **継続**目的（短い時間地平の最適化と捕捉に対する耐久する整合）。**繁栄**目的（意味ある行為主体性を保全する誘因構造）。
-- 上流：原則：[2. 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[§2.2 承認、強化、志向](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)、[3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[4. 信頼](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)、[§9 責務ある管理と分散した理解](#9-stewardship-and-distributed-understanding)、および [第七章 §3 システム全体の認証評価](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上流：原則：[2. 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[§2.2 承認、強化、志向](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)、[3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[4. 信頼](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)、[§9 責務ある管理と分散した理解](#9-stewardship-and-distributed-understanding)、および [第七章 §3 システム全体の認証評価](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 - 下流：[§5 自由](core_01_a_values_principles.md#5-freedom-bounded-agency)および [§7 絶対的上書きの禁止](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)。
-- 下流：[§6.3 回避可能な負担の最小化](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)；[第十二章 §5 — 授権された役割、能力開発、貢献](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution)；**[corpus_systems.md](../../corpus_systems.md)、CS-4 — 重要なシステムの責務ある管理**。
+- 下流：[§6.3 回避可能な負担の最小化](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)；[第十二章 §5 — 授権された役割、能力開発、貢献](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)；**[corpus_systems.md](../../corpus_systems.md)、CS-4 — 重要なシステムの責務ある管理**。
 - 下流：[第六章：基礎権利](../../core_06_rights_part_a.md#chapter-six-foundational-rights)を横断する行為主体性、参加、誘因整合、情報圏の誠実性、軌跡、反捕捉審査についての権利面を標的にする。とくに [Article IX：自己決定と行為主体性](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)、[Article XI：影響を受ける側のシステム参加、代表、適正手続](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)、[Article XII-D：誘因整合の制約](../../core_06_rights_part_c.md#article-xii-d-incentive-alignment-constraint)、[Article XIV：情報圏の誠実性](../../core_06_rights_part_c.md#article-xiv-info-sphere-integrity)、[Article XVIII：軌跡と参加地位](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)、および [Article XXII：憲法解釈、審査、反捕捉保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)。
 - 責務ある管理の入口（非操作性）：拘束力ある次の一歩の声明：[操作性の責務ある管理の声明](#operative-steward-statement-incentive)。支援ポインタはそれを狭められない。
 
@@ -887,7 +887,7 @@
   - 違法または違憲の命令行為；
   - 隠蔽；
   - 報復；
-  - [説明責任の妨害](../../core_08_standing_assessment.md#232-violation-event-types)（軌跡モデルの事象型および [第十章 §5.11](../../core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) の指定経路づけ — 独立した報酬の切り出しではない）；または
+  - [説明責任の妨害](../../core_09_standing_assessment.md#232-violation-event-types)（軌跡モデルの事象型および [第十章 §5.11](../../core_11_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) の指定経路づけ — 独立した報酬の切り出しではない）；または
   - 検証された憲法上の危害の修復を拒むこと；または
 - 不正行為またはその隠蔽に実質的に依存する報酬経路。次を含む：
   - 報酬、ボーナス、持分、任命、昇進、または任期；
@@ -895,7 +895,7 @@
   - 和解、補償、保険、または免責；または
   - 比較可能な取決め。
 
-**不整合な報酬の帰結。** 上記の禁じられた経路を通じて得られた実質的報酬は、軌跡モデルのもとでの没収と報告に服する。[第九章 §5.4 報告義務と除外](../../core_09_standing_integration.md#54-special-violation-rules)、[§5.4 没収と保持](../../core_09_standing_integration.md#54-special-violation-rules)、および [§5.4 訂正、記録、経路づけ](../../core_09_standing_integration.md#54-special-violation-rules) を読め。
+**不整合な報酬の帰結。** 上記の禁じられた経路を通じて得られた実質的報酬は、軌跡モデルのもとでの没収と報告に服する。[第九章 §5.4 報告義務と除外](../../core_10_standing_integration.md#54-special-violation-rules)、[§5.4 没収と保持](../../core_10_standing_integration.md#54-special-violation-rules)、および [§5.4 訂正、記録、経路づけ](../../core_10_standing_integration.md#54-special-violation-rules) を読め。
 
 <a id="1113-stewardship-and-operator-application"></a>
 ##### 11.1.3 責務ある管理と運用者への適用
@@ -922,7 +922,7 @@
 
 **詳細が住むところ：**
 
-- 責務ある管理者と運用者についての授権された役割、能力、実際に重要な仕事への道については [第十二章 §5 — 授権された役割、能力開発、貢献](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution)；
+- 責務ある管理者と運用者についての授権された役割、能力、実際に重要な仕事への道については [第十二章 §5 — 授権された役割、能力開発、貢献](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)；
 - 高影響システムでその義務がどう担われるかについては [**CS-4**](../../corpus_systems/cs_04_critical_system_stewardship.md)（《重要なシステムの責務ある管理》）；および
 - 実務と共同体の能力の原則層の絵については [§9 責務ある管理と分散した理解](#9-stewardship-and-distributed-understanding)。
 
@@ -1056,8 +1056,8 @@
 
 - **審査と訂正の義務：** [審査と訂正の義務](../../core_05_band_continuity.md#review-and-correction-duty-constitutional)。
 - **高まった審査：** 集中または支配が実質的であるところでは [§13.1 市場集中閾の仕組み](#131-market-concentration-threshold-mechanism-adopter-tunable) および [§13.2 競争促進と支配防止](#132-pro-competition-and-anti-domination)。
-- **軌跡と違反の仕組み：** 検証された認定がかかわるところでは [第八章 — 貢献、違反、軌跡モデル](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)。
-- **反憲法的不正行為：** 集中または過程の捕捉が反憲法的不正行為を構成するところでは [第十章 §5.1 集中に基づく転覆：基準の相互作用](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
+- **軌跡と違反の仕組み：** 検証された認定がかかわるところでは [第八章 — 貢献、違反、軌跡モデル](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)。
+- **反憲法的不正行為：** 集中または過程の捕捉が反憲法的不正行為を構成するところでは [第十章 §5.1 集中に基づく転覆：基準の相互作用](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
 
 <a id="114-misalignment-correction-and-capture-response"></a>
 #### 11.4 不整合の訂正と捕捉への応答
@@ -1105,12 +1105,12 @@
 
 - **いつ：** 不整合が検証される。
 - **してはならないこと：** 不整合または腐敗した経路からの実質的報酬を、静かに保てる軌跡上の信用または守られた便益として扱うこと。
-- **訂正の本拠：** [第九章 §5.4 特別な違反規則](../../core_09_standing_integration.md#54-special-violation-rules) が次を統治する：
+- **訂正の本拠：** [第九章 §5.4 特別な違反規則](../../core_10_standing_integration.md#54-special-violation-rules) が次を統治する：
   - 没収；
   - 比例的な回収；
   - 知りつつ受け入れたことの報告；および
   - 訂正。
-- **軌跡測定：** 本章は、検証された貢献または違反がどれほど良いか悪いかを決めない。その評定は [第八章 §4 問い 2 — どれほど良いか悪かったか](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it) であり、[第八章 §4.1 貢献の大きさ入力の次元](../../core_08_standing_assessment.md#41-contribution-magnitude-input-dimensions) および [§4.2 違反の重大さ入力の次元](../../core_08_standing_assessment.md#42-violation-severity-input-dimensions) を用いる。
+- **軌跡測定：** 本章は、検証された貢献または違反がどれほど良いか悪いかを決めない。その評定は [第八章 §4 問い 2 — どれほど良いか悪かったか](../../core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it) であり、[第八章 §4.1 貢献の大きさ入力の次元](../../core_09_standing_assessment.md#41-contribution-magnitude-input-dimensions) および [§4.2 違反の重大さ入力の次元](../../core_09_standing_assessment.md#42-violation-severity-input-dimensions) を用いる。
 
 <a id="115-contingent-claims-games-of-chance-and-event-contract-markets"></a>
 #### 11.5 条件付き請求、偶然のゲーム、事象契約市場
@@ -1119,7 +1119,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[§11 誘因整合とシステム捕捉](#11-incentive-alignment-and-system-capture)（[§11.1 整合要件](#111-alignment-requirement) を含む）；[第五章 《条件付き請求、事象契約市場、偶然のゲーム、内部者優位》](../../core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent)。
-- 下流：[§11.3 不整合の検出](#113-misalignment-detection)；[§11.3.1 段階的拡大の引き金](#1131-escalation-triggers)；[§11.4 不整合の訂正と捕捉への応答](#114-misalignment-correction-and-capture-response)；[§6.2 認識的開示の制約](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)；[第七章 §3 システム全体の認証評価](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)；`corpus_systems.md` の分類と責務ある管理の尺度合わせ；`corpus_institutions.md` の衝突と誠実性の期待。
+- 下流：[§11.3 不整合の検出](#113-misalignment-detection)；[§11.3.1 段階的拡大の引き金](#1131-escalation-triggers)；[§11.4 不整合の訂正と捕捉への応答](#114-misalignment-correction-and-capture-response)；[§6.2 認識的開示の制約](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)；[第七章 §3 システム全体の認証評価](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)；`corpus_systems.md` の分類と責務ある管理の尺度合わせ；`corpus_institutions.md` の衝突と誠実性の期待。
 - あわせて読む：[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — **継続**目的（条件付き決済が実質的に影響するところでの、耐久し争訟可能な解決経路とシステム的安定）。
 - あわせて読む：[解決経路の捕捉](../../core_05_band_accountability.md#capture-of-resolution-pathways)、[強制と操作](../../core_05_band_participation.md#coercion-and-manipulation-constitutional)、および [争訟可能性](../../core_05_band_accountability.md#contestability)；[内部者優位](../../core_05_band_accountability.md#insider-advantage)。
 - 分節（読み順）：[§11.5.1 報われてはならないもの](#1151-what-may-not-be-rewarded) · [§11.5.2 誰が結果を決めるか](#1152-who-decides-outcomes) · [§11.5.3 市場信号は憲法上の証明ではない](#1153-market-signals-are-not-constitutional-proof) · [§11.5.4 比例的統制と実施の保管](#1154-proportionate-controls-and-implementation-custody)。
@@ -1238,7 +1238,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - あわせて読む：[必要性](../../core_05_band_accountability.md#necessity)；[比例性](../../core_05_band_accountability.md#proportionality)；[依存](../../core_05_band_continuity.md#dependency)。
-- 下流：[第七章 §3 システム全体の認証評価](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)；[corpus_systems.md](../../corpus_systems.md)（*実質的に影響するシステムの責務ある管理の分類と尺度合わせ*）；[corpus_institutions.md](../../corpus_institutions.md)（*制度がそのような活動を監督するところでの衝突と手続の規則*）。
+- 下流：[第七章 §3 システム全体の認証評価](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)；[corpus_systems.md](../../corpus_systems.md)（*実質的に影響するシステムの責務ある管理の分類と尺度合わせ*）；[corpus_institutions.md](../../corpus_institutions.md)（*制度がそのような活動を監督するところでの衝突と手続の規則*）。
 
 </details>
 
@@ -1254,7 +1254,7 @@
   - [依存](../../core_05_band_continuity.md#dependency)；
   - 脆弱性；および
   - システム的安定。
-- [第七章 §3 システム全体の認証評価](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) と整合して誤用を評価する。次を含む：
+- [第七章 §3 システム全体の認証評価](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) と整合して誤用を評価する。次を含む：
   - 解決する事象に影響するための協調；および
   - 規模の動態。
 
@@ -1272,7 +1272,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- あわせて読む：[第九章 §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) および [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority)；[説明責任](core_05_apex_accountability_leg.md#accountability)；[corpus_systems.md](../../corpus_systems.md) **CS-7 — 公正の保障、原状回復、リハビリテーション**（《実体継続の点検》）。
+- あわせて読む：[第九章 §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) および [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority)；[説明責任](core_05_apex_accountability_leg.md#accountability)；[corpus_systems.md](../../corpus_systems.md) **CS-7 — 公正の保障、原状回復、リハビリテーション**（《実体継続の点検》）。
 - あわせて読む：[帰属可能な行為](../../core_05_band_accountability.md#attributable-action-constitutional)および [帰属の誠実性](../../core_05_band_accountability.md#attribution-integrity-constitutional) — 承継者と形式構造の変更は、残る義務の信頼できる帰属を打ち負かしてはならない。
 
 </details>
@@ -1516,7 +1516,7 @@
 - あわせて読む：[憲法四元](core_00_preamble.md#constitutional-tetrad) — 集中または支配が声、精査、応答義務、または適時の訂正を打ち負かすところでの参加、監督、説明責任、適時性。[実質的利害](core_00_preamble.md#material-stake)による尺度合わせ（とくに [§13.2 競争促進と支配防止](#132-pro-competition-and-anti-domination)）。
 - あわせて読む：[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — **継続**目的（争訟可能で耐久する生産条件）。**繁栄**目的（生計、行為主体性、革新経路への公正なアクセス）。
 - 上流：原則：[§12 共有システムの能力](#12-shared-system-capacity) — 集中または支配がそれらを空洞化するところでは生産能力と効率の主張は失敗する；[10. 責務ある管理の規律のもとでの統治](#10-governance-under-stewardship-discipline)。
-- 下流：[第十章 §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)（集中に基づく転覆）；[6. 過程衝突の解決](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)（[§6.2.4 代替指標乖離による無効化](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)）。
+- 下流：[第十章 §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)（集中に基づく転覆）；[6. 過程衝突の解決](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)（[§6.2.4 代替指標乖離による無効化](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)）。
 - 下流：**CJS-3.11.1 — 市場集中閾設定の規律（採択者調整可能）**（[§13.1](#131-market-concentration-threshold-mechanism-adopter-tunable) の操作性規則）；**CJS-3.11.2 — 支配防止の行為と修復カタログ**（[§13.2](#132-pro-competition-and-anti-domination) の操作性の行為パターンと救済）；**CJS-3.11.3 — 統合天井設定の規律（採択者調整可能）**（[§13.3.2](#1332-ceiling-discipline-adopter-requirements) の操作性の天井設定規則）。
 - 下流：資源配分、公正な報酬、集団的組織化、相互運用性、退出、反捕捉審査についての権利面を形づくる。とくに [Article III-D：労働と経済の床](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)、[Article IV：資源配分、依存、生態系の資金](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding)、および [Article XIX：相互運用性、可搬性、移動、避難、退出の誠実性](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)。
 - 分節（読み順）：[§13.1 市場集中閾の仕組み（採択者調整可能）](#131-market-concentration-threshold-mechanism-adopter-tunable) · [§13.1.1 集中閾の引き金（採択者調整可能）](#1311-concentration-threshold-triggers-adopter-tunable) · [§13.2 競争促進と支配防止](#132-pro-competition-and-anti-domination) · [§13.3 統合天井](#133-consolidation-ceiling)。
@@ -1562,7 +1562,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[§13 市場構造](#13-market-structure)；[市場集中閾](../../core_05_band_accountability.md#market-concentration-threshold-constitutional)。
-- 下流：**CJS-3.11.1 — 市場集中閾設定の規律（採択者調整可能）**（操作性の閾設定規則）；[§13.2 競争促進と支配防止](#132-pro-competition-and-anti-domination)；[§13.3 統合天井](#133-consolidation-ceiling)；[CJS-3.11.3 — 統合天井設定の規律（採択者調整可能）](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable)（[§13.3.2](#1332-ceiling-discipline-adopter-requirements) の操作性の天井設定規則）；[第八章 §4 問い 2 — どれほど良いか悪かったか](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it)；[第十章 §5.1 集中に基づく転覆](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
+- 下流：**CJS-3.11.1 — 市場集中閾設定の規律（採択者調整可能）**（操作性の閾設定規則）；[§13.2 競争促進と支配防止](#132-pro-competition-and-anti-domination)；[§13.3 統合天井](#133-consolidation-ceiling)；[CJS-3.11.3 — 統合天井設定の規律（採択者調整可能）](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable)（[§13.3.2](#1332-ceiling-discipline-adopter-requirements) の操作性の天井設定規則）；[第八章 §4 問い 2 — どれほど良いか悪かったか](../../core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it)；[第十章 §5.1 集中に基づく転覆](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
 - 責務ある管理の入口（非操作性）：拘束力ある次の一歩の声明：[操作性の責務ある管理の声明](#operative-steward-statement-market-structure)。支援ポインタはそれを狭められない。
 - 分節（読み順）：[§13.1.1 集中閾の引き金（採択者調整可能）](#1311-concentration-threshold-triggers-adopter-tunable)。
 
@@ -1593,8 +1593,8 @@
 
 - **すること：** [§13 市場構造](#13-market-structure) の床についての原則層の閾の方向を述べる。
 - **しないこと：** 検証された危害がどれほど重大だったかを決めること、または不正行為の指定を出すこと。
-- **集中がこの憲法を損なうために用いられるとき：** その不正行為は [第十章 §5.1 集中に基づく転覆](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) のもとで判定される。
-- **床を超える集中を創り、維持し、または利用すること：** 指定審査について第十章の基準 3、4、6 を通じて到達され、[第八章 §4 問い 2 — どれほど良いか悪かったか](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it) がすでにその検証された危害を、第八章が記録する三つのもっとも重大な得点の一つとして評定したところでのみである。
+- **集中がこの憲法を損なうために用いられるとき：** その不正行為は [第十章 §5.1 集中に基づく転覆](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) のもとで判定される。
+- **床を超える集中を創り、維持し、または利用すること：** 指定審査について第十章の基準 3、4、6 を通じて到達され、[第八章 §4 問い 2 — どれほど良いか悪かったか](../../core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it) がすでにその検証された危害を、第八章が記録する三つのもっとも重大な得点の一つとして評定したところでのみである。
 
 **憲法上の床：**
 
@@ -1662,7 +1662,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[§13 市場構造](#13-market-structure)；[市場構造](../../core_05_band_accountability.md#market-structure-constitutional)。
-- 下流：**CJS-3.11.2 — 支配防止の行為と修復カタログ**（操作性の行為パターンと救済）；[§13.3 統合天井](#133-consolidation-ceiling)；[第十章 §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
+- 下流：**CJS-3.11.2 — 支配防止の行為と修復カタログ**（操作性の行為パターンと救済）；[§13.3 統合天井](#133-consolidation-ceiling)；[第十章 §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
 - あわせて読む：[Article III-D：労働と経済の床](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)（労働移動の権利の床）；[Article XIX：相互運用性、可搬性、移動、避難、退出の誠実性](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)；[6. 過程衝突の解決](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)（[必要性](../../core_05_band_accountability.md#necessity)、[比例性](../../core_05_band_accountability.md#proportionality)、[§6.2.4 代替指標乖離による無効化](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)）。
 - 分節（読み順）：[§13.2.1 競争促進の義務（すべきこと）](#1321-pro-competition-duties-dos) · [§13.2.2 支配防止の禁止（してはならないこと）](#1322-anti-domination-prohibitions-donts) · [§13.2.3 救済](#1323-remedies)。
 
@@ -1915,7 +1915,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[§13.3 統合天井](#133-consolidation-ceiling)；[§13.3.1 統合リスク（閉じ込め前の損なうこと）](#1331-consolidation-risk-pre-lock-in-impairment)。
-- 下流：**CJS-3.11.3 — 統合天井設定の規律（採択者調整可能）**（操作性の天井設定規則）；[CJS-3.11.2 — 支配防止の行為と修復カタログ](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog)（天井侵害における救済経路づけ）；[第十章 §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
+- 下流：**CJS-3.11.3 — 統合天井設定の規律（採択者調整可能）**（操作性の天井設定規則）；[CJS-3.11.2 — 支配防止の行為と修復カタログ](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog)（天井侵害における救済経路づけ）；[第十章 §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
 
 </details>
 
@@ -1955,7 +1955,7 @@
 - あわせて読む：継続の測定ファミリー（《回復力、可逆性、システム的リスク》）。
 - あわせて読む：[憲法四元](core_00_preamble.md#constitutional-tetrad)、[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)、および [実質的利害](core_00_preamble.md#material-stake)による尺度合わせ。
 - あわせて読む：[6. 過程衝突の解決](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)、[§9 責務ある管理と分散した理解](#9-stewardship-and-distributed-understanding)、[§10 責務ある管理の規律のもとでの統治](#10-governance-under-stewardship-discipline)、および [§11 誘因整合とシステム捕捉](#11-incentive-alignment-and-system-capture)。
-- あわせて読む：**[第七章 §3 システム全体の認証評価](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)** — システム整合認証についての操作性のシステム全体評価要因（**監督**四元脚のもとでのとくに大きな監査過程の一つ。唯一の監査の本拠ではない）。
+- あわせて読む：**[第七章 §3 システム全体の認証評価](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)** — システム整合認証についての操作性のシステム全体評価要因（**監督**四元脚のもとでのとくに大きな監査過程の一つ。唯一の監査の本拠ではない）。
 - あわせて読む：**Article XV**（《監査、透明性、独立検証》）および [監査可能性](../../core_05_band_oversight.md#auditability) — 第七章が満たさなければならず、兄弟の監査様式も実施する監査の床。
 - あわせて読む：**[corpus_systems.md](../../corpus_systems.md)、CS-3 — システムの分類と取扱い** および [分類に応じた統治](../../core_05_band_oversight.md#classification-scaled-governance) — クラスに応じた適用、記録の形、再分類の引き金、取扱いプロフィール。
 - 上流：[§9 責務ある管理と分散した理解](#9-stewardship-and-distributed-understanding)；[§10 責務ある管理の規律のもとでの統治](#10-governance-under-stewardship-discipline)；[6. 過程衝突の解決](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)。
@@ -1992,8 +1992,8 @@
 - 条件からの解放。
 
 詳細な評価要因と認証記録は次が所管する：
-- **[第七章 §3](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**；
-- **[第七章 §11](../../core_07_b_system_alignment_certification_record_process.md#11-certification-record)**；
+- **[第七章 §3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**；
+- **[第七章 §11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record)**；
 - **[corpus_systems.md](../../corpus_systems.md)、CS-3 — システムの分類と取扱い**。
 
 その第七章の過程は：
@@ -2006,7 +2006,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流：原則：[8. 憲法解釈](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)、[1. 目的と役割](core_01_a_values_principles.md#1-purpose-and-role)、[§9 責務ある管理と分散した理解](#9-stewardship-and-distributed-understanding)、[6. 過程衝突の解決](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)、[第七章 §3 システム全体の認証評価](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[5. 自由](core_01_a_values_principles.md#5-freedom-bounded-agency)、および [7. 絶対的上書きの禁止](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)。
+- 上流：原則：[8. 憲法解釈](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)、[1. 目的と役割](core_01_a_values_principles.md#1-purpose-and-role)、[§9 責務ある管理と分散した理解](#9-stewardship-and-distributed-understanding)、[6. 過程衝突の解決](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)、[第七章 §3 システム全体の認証評価](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[5. 自由](core_01_a_values_principles.md#5-freedom-bounded-agency)、および [7. 絶対的上書きの禁止](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)。
 - 下流：後続の章は、これらの連関した第一章の原則を通じて読まれるべきである — [前文](core_00_preamble.md#chapter-00-preamble--foundational-requirements) および [§1 目的と役割](core_01_a_values_principles.md#1-purpose-and-role) で確立された [憲法四元](core_00_preamble.md#constitutional-tetrad)、[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)、[実質的利害](core_00_preamble.md#material-stake)による尺度合わせを含む。
 - 下流：[第六章：基礎権利](../../core_06_rights_part_a.md#chapter-six-foundational-rights) は、本章の統合価値枠組みを通じて読まれなければならない。
   - 有界な解釈、公の理由、異議、外部審査、権利衝突の手続が、鍵となる下流の仕事をする。

@@ -6,15 +6,15 @@
 
 > المحتوى التالي **توجيه للقارئ فقط**. لا يضيف التزامات ملزمة ولا ينقصها ولا يضيّقها في هذا الملف أو في فصول أخرى.
 >
-> هذا الملف **تجريب بلغة القارئ** لـ[الفصل الثاني عشر بالإنجليزية](../../core_12_governance.md). **ليس** جزءًا ملزمًا من دستور الكائنات الواعية. **ليس** دستورًا ثانيًا. **ليس** طبعة إرسال. وهو **مثبّت** على `SC-Corpus-2026.08.09`. إذا بدا أن هذه الترجمة والأصل الإنجليزي يختلفان، يفوز الملف المرقّم [`core_12_governance.md`](../../core_12_governance.md). ترتيب القراءة وبيانات الطبعة تُحفظ في [README.md](../../README.md). المنهج والمسرد: [translations/ar/README.md](README.md).
+> هذا الملف **تجريب بلغة القارئ** لـ[الفصل الثاني عشر بالإنجليزية](../../core_13_governance.md). **ليس** جزءًا ملزمًا من دستور الكائنات الواعية. **ليس** دستورًا ثانيًا. **ليس** طبعة إرسال. وهو **مثبّت** على `SC-Corpus-2026.08.09`. إذا بدا أن هذه الترجمة والأصل الإنجليزي يختلفان، يفوز الملف المرقّم [`core_12_governance.md`](../../core_13_governance.md). ترتيب القراءة وبيانات الطبعة تُحفظ في [README.md](../../README.md). المنهج والمسرد: [translations/ar/README.md](README.md).
 >
-> يحتوي **الفصل الثاني عشر**، **طبقة العقد الدستوري** — متطلبات الشرعية الدستورية والإدارة المسؤولة لسلطة الحكم، متميزة عن **المشاركة النظامية للأطراف المتأثرة** داخل أنظمة سبق الترخيص لها ([الديباجة](core_00_preamble.md#chapter-00-preamble--foundational-requirements)). تستمر ضوابط صحة التعديل والاعتماد في [الفصول من الثالث عشر إلى الخامس عشر](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity). ترقيم الفصول والإحالات المتقاطعة يطابقان الصك المدمج.
+> يحتوي **الفصل الثاني عشر**، **طبقة العقد الدستوري** — متطلبات الشرعية الدستورية والإدارة المسؤولة لسلطة الحكم، متميزة عن **المشاركة النظامية للأطراف المتأثرة** داخل أنظمة سبق الترخيص لها ([الديباجة](core_00_preamble.md#chapter-00-preamble--foundational-requirements)). تستمر ضوابط صحة التعديل والاعتماد في [الفصول من الثالث عشر إلى الخامس عشر](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity). ترقيم الفصول والإحالات المتقاطعة يطابقان الصك المدمج.
 
 
 >
-> **السابق (ما زال بالإنجليزية):** [core_11_forum.md](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
+> **السابق (ما زال بالإنجليزية):** [core_11_forum.md](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction)
 >
-> **التالي (ما زال بالإنجليزية):** [core_13_non_regression.md](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)
+> **التالي (ما زال بالإنجليزية):** [core_13_non_regression.md](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)
 > **قوس القراءة:** §0 حدّ الطبقة → §1 الترخيص/الشرعية → §1.1 أسر الآليات → §1.2 الأهلية/الحدّ الأدنى الديمقراطي → §1.3 صنف الاستدعاء → §2 ثقافة النزاهة → §3 اتجاه الإدارة المسؤولة → §4 التصويت/الاختيار الجماعي → §5 الأدوار المرخَّص لها
 </details>
 
@@ -65,7 +65,7 @@
 
 - أعلى: المبادئ: [الفصل الأول §5 الحرية](core_01_a_values_principles.md#5-freedom-bounded-agency)، [§9 الإدارة المسؤولة والفهم الموزَّع](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)، [5. حل تعارض الإجراءات](#6-process-conflict-resolution)؛ [الفصل الثاني عشر §0](#0-layer-boundary-for-this-chapter).
 - الأقسام الفرعية: [§1.1](#11-mechanism-families-auditability-and-pluralism) (*أسر الآليات وقابلية التدقيق والتعددية*)؛ [§1.2](#12-eligibility-contested-selection-and-democratic-minimums) (*الأهلية والاختيار المتنازع عليه والحدّ الأدنى الديمقراطي*)؛ [§1.3](#13-recall-class-pathways-and-mid-cycle-transfer-guardrails) (*مسارات صنف الاستدعاء وحواجز النقل في منتصف الدورة*).
-- أسفل: واجبات النزاهة والاستراتيجية والتصويت والدور تحت [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale)؛ الاعتماد والتصديق تحت [الفصل الخامس عشر](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity)؛ الشرعية والمشاركة وقابلية الطعن في الفصل السادس — ولا سيما [المادة XI-C: بوابة الشرعية ومنع المشاركة الرمزية](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation)، و[المادة XVIII: الوضعية ومركز المشاركة](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)، ومواد التعبير والتجمّع والإنصاف الإجرائي المشار إليها في النقاط التشغيلية أدناه.
+- أسفل: واجبات النزاهة والاستراتيجية والتصويت والدور تحت [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale)؛ الاعتماد والتصديق تحت [الفصل الخامس عشر](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity)؛ الشرعية والمشاركة وقابلية الطعن في الفصل السادس — ولا سيما [المادة XI-C: بوابة الشرعية ومنع المشاركة الرمزية](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation)، و[المادة XVIII: الوضعية ومركز المشاركة](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)، ومواد التعبير والتجمّع والإنصاف الإجرائي المشار إليها في النقاط التشغيلية أدناه.
 - يُقرأ مع: خطاطيف **المتن** و**[corpus_systems.md](../../corpus_systems.md)** المعيَّنة في هذا القسم ([corpus_systems.md](../../corpus_systems.md)، [corpus_institutions.md](../../corpus_institutions.md)).
 
 </details>
@@ -176,7 +176,7 @@
 
 **أرضية استقلال تعيين المنتدى**
 
-- يجب أن تُوظَّف منتديات [**النزاهة**](../../core_11_forum.md#45-integrity-forums) و[**الدستوري**](../../core_11_forum.md#46-constitutional-forums) و[**البيئة**](../../core_11_forum.md#44-environment-forums)، و[**مجالات المنتدى التقني**](../../core_11_forum.md#42-technical-forum-domains) حين تسمع البتّ في مركز الوعي، عبر تعيين **منشور** و**متنازع عليه** و**قابل للتناوب** أو فحص استقلال مكافئ (فرز عشوائي أو تسمية اتحادية أو مقارن).
+- يجب أن تُوظَّف منتديات [**النزاهة**](../../core_12_forum.md#45-integrity-forums) و[**الدستوري**](../../core_12_forum.md#46-constitutional-forums) و[**البيئة**](../../core_12_forum.md#44-environment-forums)، و[**مجالات المنتدى التقني**](../../core_12_forum.md#42-technical-forum-domains) حين تسمع البتّ في مركز الوعي، عبر تعيين **منشور** و**متنازع عليه** و**قابل للتناوب** أو فحص استقلال مكافئ (فرز عشوائي أو تسمية اتحادية أو مقارن).
 - هذه الأرضية **محايدة تجاه الآلية**: لا تفرض نوعًا سياسيًا واحدًا ولا طريقة تعيين واحدة.
 - الإخفاق في تعيين تلك الهيئات أو تمويلها إلى أرضية متانة نظام الانتصاف في [الفصل التاسع §9.2](core_09_standing_integration.md#92-remedy-system-durability) إخفاق شرعية وانتصاف، لا فجوة يجوز للتنفيذ أن يتركها مفتوحة.
 - تحكم ميكانيكا التعيين والكفاءة والتناوب والإزالة [**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*التعيين والكفاءة والتناوب والإزالة*)؛ ويجب ألا يضيّق **CI-4** هذه الأرضية.
@@ -303,7 +303,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: آلية الشرعية الموثَّقة في [§1](#1-authorization-and-legitimacy-of-governing-authority)؛ مواءمة الإدارة المسؤولة للقرارات الجماعية في [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
-- أسفل: الأقسام الفرعية [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice)؛ صكوك الاعتماد والسمو وعدم التراجع في [الفصول من الثالث عشر إلى الخامس عشر](../../core_13_non_regression.md) كما تُلخَّص في ملاحظة **الإحالة المتقاطعة (الفصل الثاني عشر)** في نهاية هذا القسم.
+- أسفل: الأقسام الفرعية [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice)؛ صكوك الاعتماد والسمو وعدم التراجع في [الفصول من الثالث عشر إلى الخامس عشر](../../core_14_non_regression.md) كما تُلخَّص في ملاحظة **الإحالة المتقاطعة (الفصل الثاني عشر)** في نهاية هذا القسم.
 - يُقرأ مع: [الفصل السادس](core_06_rights_part_a.md#chapter-six-foundational-rights)، ولا سيما [المادة XI: المشاركة النظامية للأطراف المتأثرة والتمثيل والإجراءات الواجبة](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) والمواد الفرعية ذات الصلة المذكورة في §4.
 
 </details>
@@ -478,8 +478,8 @@
 
 ---
 
-**الملف السابق (ما زال بالإنجليزية):** [core_11_forum.md](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
+**الملف السابق (ما زال بالإنجليزية):** [core_11_forum.md](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction)
 
-**الملف التالي (ما زال بالإنجليزية):** [core_13_non_regression.md](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)
+**الملف التالي (ما زال بالإنجليزية):** [core_13_non_regression.md](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)
 
-**الأصل الملزم:** [core_12_governance.md](../../core_12_governance.md)
+**الأصل الملزم:** [core_12_governance.md](../../core_13_governance.md)

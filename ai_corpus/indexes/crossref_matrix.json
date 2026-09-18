@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-17T21:56:01+00:00",
+  "generated_at": "2026-09-18T21:56:45+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -85,39 +85,43 @@
         "type": "core"
       },
       {
-        "id": "core_07_a_system_alignment_certification_evaluation.md",
+        "id": "core_07_functional_independence_segregation_of_duties.md",
         "type": "core"
       },
       {
-        "id": "core_07_b_system_alignment_certification_record_process.md",
+        "id": "core_08_a_system_alignment_certification_evaluation.md",
         "type": "core"
       },
       {
-        "id": "core_07_system_alignment_certification.md",
+        "id": "core_08_b_system_alignment_certification_record_process.md",
         "type": "core"
       },
       {
-        "id": "core_08_standing_assessment.md",
+        "id": "core_08_system_alignment_certification.md",
         "type": "core"
       },
       {
-        "id": "core_09_standing_integration.md",
+        "id": "core_09_standing_assessment.md",
         "type": "core"
       },
       {
-        "id": "core_10_a_misconduct_designation.md",
+        "id": "core_10_standing_integration.md",
         "type": "core"
       },
       {
-        "id": "core_10_b_misconduct_pattern_applications.md",
+        "id": "core_11_a_misconduct_designation.md",
         "type": "core"
       },
       {
-        "id": "core_11_forum.md",
+        "id": "core_11_b_misconduct_pattern_applications.md",
         "type": "core"
       },
       {
-        "id": "core_08-11_application_vignettes.md",
+        "id": "core_12_forum.md",
+        "type": "core"
+      },
+      {
+        "id": "core_09-12_application_vignettes.md",
         "type": "core"
       },
       {
@@ -137,23 +141,23 @@
         "type": "core"
       },
       {
-        "id": "core_12_governance.md",
+        "id": "core_13_governance.md",
         "type": "core"
       },
       {
-        "id": "core_13_non_regression.md",
+        "id": "core_14_non_regression.md",
         "type": "core"
       },
       {
-        "id": "core_14_expansion_supremacy.md",
+        "id": "core_15_expansion_supremacy.md",
         "type": "core"
       },
       {
-        "id": "core_15_amendment_ratification.md",
+        "id": "core_16_amendment_ratification.md",
         "type": "core"
       },
       {
-        "id": "core_16_incorporation.md",
+        "id": "core_17_incorporation.md",
         "type": "core"
       },
       {
@@ -572,12 +576,13 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 7,
+            "count": 8,
             "anchors": [
               "#capture-of-resolution-pathways",
               "#contestability",
               "#due-process-constitutional",
               "#market-structure-constitutional",
+              "#material-control-line",
               "#timely-resolution-constitutional"
             ]
           },
@@ -653,78 +658,86 @@
             "anchors": []
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
-            "count": 5,
-            "anchors": [
-              "#chapter-seven-system-alignment-certification"
-            ]
-          },
-          {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_07_functional_independence_segregation_of_duties.md",
             "count": 4,
             "anchors": [
-              "#chapter-eight-compliance-violation-and-standing-model"
+              "#2-four-seat-constitutional-floor",
+              "#chapter-seven-functional-independence-and-segregation-of-duties"
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
+            "count": 5,
+            "anchors": [
+              "#chapter-eight-system-alignment-certification"
+            ]
+          },
+          {
+            "file": "core_09_standing_assessment.md",
+            "count": 4,
+            "anchors": [
+              "#chapter-nine-compliance-violation-and-standing-model"
+            ]
+          },
+          {
+            "file": "core_10_standing_integration.md",
             "count": 7,
             "anchors": [
               "#41-remedy-and-correction",
               "#42-general-standing-locks",
               "#62-competency-bars-and-clearances",
-              "#chapter-nine-standing-effects-and-integration"
+              "#chapter-ten-standing-effects-and-integration"
             ]
           },
           {
-            "file": "core_10_a_misconduct_designation.md",
+            "file": "core_11_a_misconduct_designation.md",
             "count": 2,
             "anchors": [
-              "#chapter-ten-anti-constitutional-misconduct"
+              "#chapter-eleven-anti-constitutional-misconduct"
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 10,
             "anchors": [
               "#1-purpose-and-role",
               "#42-shared-standards-and-anti-displacement",
               "#42-technical-forum-domains",
               "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
-              "#chapter-eleven-forums-and-jurisdiction",
+              "#chapter-twelve-forums-and-jurisdiction",
               "#dispute-sequencing"
             ]
           },
           {
-            "file": "core_12_governance.md",
+            "file": "core_13_governance.md",
             "count": 1,
             "anchors": [
-              "#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship"
+              "#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship"
             ]
           },
           {
-            "file": "core_13_non_regression.md",
+            "file": "core_14_non_regression.md",
             "count": 1,
             "anchors": [
-              "#chapter-thirteen-non-regression-and-substantive-amendment-validity"
+              "#chapter-fourteen-non-regression-and-substantive-amendment-validity"
             ]
           },
           {
-            "file": "core_14_expansion_supremacy.md",
+            "file": "core_15_expansion_supremacy.md",
             "count": 1,
             "anchors": [
-              "#chapter-fourteen-expansion-supremacy-and-external-legal-orders"
+              "#chapter-fifteen-expansion-supremacy-and-external-legal-orders"
             ]
           },
           {
-            "file": "core_15_amendment_ratification.md",
+            "file": "core_16_amendment_ratification.md",
             "count": 1,
             "anchors": [
-              "#chapter-fifteen-amendment-ratification-and-procedural-validity"
+              "#chapter-sixteen-amendment-ratification-and-procedural-validity"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": []
           },
@@ -1064,40 +1077,40 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 7,
             "anchors": [
               "#3-whole-system-certification-evaluation",
               "#34-voluntary-discontinuation-and-exit-rights",
               "#35-assembly-collective-organization-and-institutional-formation",
               "#36-time-consistency-constraint",
-              "#chapter-seven-part-a-certification-evaluation",
-              "#chapter-seven-system-alignment-certification"
+              "#chapter-eight-part-a-certification-evaluation",
+              "#chapter-eight-system-alignment-certification"
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 3,
             "anchors": [
               "#43-route-descriptor-measurement-roles"
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 1,
             "anchors": [
               "#3-descriptor-integration-and-attachment-normalization"
             ]
           },
           {
-            "file": "core_10_a_misconduct_designation.md",
+            "file": "core_11_a_misconduct_designation.md",
             "count": 1,
             "anchors": [
               "#4-due-process-safeguards-for-slot-assignment"
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 2,
             "anchors": [
               "#42-technical-forum-domains"
@@ -1387,31 +1400,31 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 2,
             "anchors": [
               "#36-time-consistency-constraint"
             ]
           },
           {
-            "file": "core_13_non_regression.md",
+            "file": "core_14_non_regression.md",
             "count": 1,
             "anchors": [
-              "#chapter-thirteen-non-regression-and-substantive-amendment-validity"
+              "#chapter-fourteen-non-regression-and-substantive-amendment-validity"
             ]
           },
           {
-            "file": "core_14_expansion_supremacy.md",
+            "file": "core_15_expansion_supremacy.md",
             "count": 1,
             "anchors": [
-              "#chapter-fourteen-expansion-supremacy-and-external-legal-orders"
+              "#chapter-fifteen-expansion-supremacy-and-external-legal-orders"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 5,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -1447,7 +1460,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 100,
+            "count": 99,
             "anchors": [
               "#chapter-00-preamble--foundational-requirements",
               "#constitutional-tetrad",
@@ -1512,7 +1525,7 @@
           },
           {
             "file": "core_05_apex_accountability_leg.md",
-            "count": 39,
+            "count": 40,
             "anchors": [
               "#accountability",
               "#accountability-a",
@@ -1552,7 +1565,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 380,
+            "count": 379,
             "anchors": [
               "#attributable-action-constitutional",
               "#attributable-action-constitutional-a",
@@ -1804,7 +1817,7 @@
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 31,
+            "count": 30,
             "anchors": [
               "#article-xii-d-incentive-alignment-constraint",
               "#article-xiv-info-sphere-integrity",
@@ -1831,35 +1844,41 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
-            "count": 10,
+            "file": "core_07_functional_independence_segregation_of_duties.md",
+            "count": 2,
             "anchors": [
-              "#3-whole-system-certification-evaluation",
-              "#chapter-seven-system-alignment-certification"
+              "#chapter-seven-functional-independence-and-segregation-of-duties"
             ]
           },
           {
-            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
+            "count": 10,
+            "anchors": [
+              "#3-whole-system-certification-evaluation",
+              "#chapter-eight-system-alignment-certification"
+            ]
+          },
+          {
+            "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 1,
             "anchors": [
               "#11-certification-record"
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
-            "count": 16,
+            "file": "core_09_standing_assessment.md",
+            "count": 15,
             "anchors": [
               "#21-silence-is-the-default",
               "#232-violation-event-types",
-              "#37-segregation-of-duties",
               "#4-question-2-how-good-or-bad-was-it",
               "#41-contribution-magnitude-input-dimensions",
               "#42-violation-severity-input-dimensions",
-              "#chapter-eight-compliance-violation-and-standing-model"
+              "#chapter-nine-compliance-violation-and-standing-model"
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 14,
             "anchors": [
               "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
@@ -1871,7 +1890,7 @@
             ]
           },
           {
-            "file": "core_10_b_misconduct_pattern_applications.md",
+            "file": "core_11_b_misconduct_pattern_applications.md",
             "count": 7,
             "anchors": [
               "#51-concentration-based-subversion-criteria-interaction",
@@ -1879,23 +1898,23 @@
             ]
           },
           {
-            "file": "core_11_forum.md",
-            "count": 7,
+            "file": "core_12_forum.md",
+            "count": 6,
             "anchors": [
               "#1-purpose-and-role",
               "#4-forum-family-definitions",
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_12_governance.md",
+            "file": "core_13_governance.md",
             "count": 7,
             "anchors": [
               "#5-authorized-roles-competency-development-and-contribution"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 1,
             "anchors": []
           },
@@ -1910,28 +1929,13 @@
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
-            "count": 1,
-            "anchors": [
-              "#ci-32-functional-separation-lanes"
-            ]
-          },
-          {
-            "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-            "count": 1,
-            "anchors": [
-              "#ci-46-seat-catalog"
-            ]
-          },
-          {
             "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
-            "count": 5,
+            "count": 4,
             "anchors": [
               "#baseline-governance-accountability-conditions",
               "#cjs-3111-market-concentration-threshold-setting-discipline-adopter-tunable",
               "#cjs-3112-anti-domination-conduct-and-remediation-catalog",
-              "#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable",
-              "#constitutional-lane-and-functional-separation"
+              "#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable"
             ]
           },
           {
@@ -1946,7 +1950,7 @@
           },
           {
             "file": "corpus_systems/cs_04_critical_system_stewardship.md",
-            "count": 4,
+            "count": 3,
             "anchors": [
               "#10-inspectable-attributable-action"
             ]
@@ -2133,14 +2137,14 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 3,
             "anchors": [
-              "#chapter-seven-system-alignment-certification"
+              "#chapter-eight-system-alignment-certification"
             ]
           },
           {
-            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 3,
             "anchors": [
               "#15-relationship-to-standing",
@@ -2148,18 +2152,18 @@
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 7,
             "anchors": [
-              "#chapter-eight-compliance-violation-and-standing-model",
+              "#chapter-nine-compliance-violation-and-standing-model",
               "#verified-inputs-for-standing"
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 2,
             "anchors": [
-              "#chapter-nine-standing-effects-and-integration"
+              "#chapter-ten-standing-effects-and-integration"
             ]
           },
           {
@@ -2266,24 +2270,24 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 4,
             "anchors": [
-              "#chapter-seven-system-alignment-certification"
+              "#chapter-eight-system-alignment-certification"
             ]
           },
           {
-            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 1,
             "anchors": [
               "#16-reopening-drift-and-non-evasion"
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 4,
             "anchors": [
-              "#chapter-eight-compliance-violation-and-standing-model"
+              "#chapter-nine-compliance-violation-and-standing-model"
             ]
           },
           {
@@ -2363,7 +2367,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 76,
+            "count": 81,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#anti-constitutional-misconduct-review",
@@ -2378,6 +2382,7 @@
               "#combatant-non-combatant-distinction-constitutional",
               "#competency-bar",
               "#competency-clearance",
+              "#contest-seat",
               "#contestability",
               "#contingent-claim",
               "#contribution-nature",
@@ -2401,11 +2406,13 @@
               "#harassment-and-bullying",
               "#harm",
               "#harm-minimization-tradeoff-selection",
+              "#initiating-seat",
               "#insider-advantage",
               "#irreversible-deprivation-measure-constitutional",
               "#irreversible-harm",
               "#market-concentration-threshold-constitutional",
               "#market-structure-constitutional",
+              "#material-control-line",
               "#merits-determination",
               "#necessity",
               "#negligence",
@@ -2416,6 +2423,7 @@
               "#protected-reporting-retaliation-and-access-interference",
               "#protected-reporting-whistleblowing",
               "#psychological-harm",
+              "#record-seat",
               "#redress-and-remediation-constitutional",
               "#remedy-system-constitutional",
               "#restorative-justice",
@@ -2432,6 +2440,7 @@
               "#use-of-force-autonomous-coercion-and-mass-harm-cluster",
               "#use-of-force-constitutional",
               "#verified-inputs-for-standing",
+              "#verify-or-authorize-seat",
               "#violation-nature-chapter-six",
               "#weapons-of-mass-harm-constitutional"
             ]
@@ -2720,14 +2729,14 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 1,
             "anchors": [
               "#37-governance-incentive-and-contestability-discipline"
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 2,
             "anchors": [
               "#91-remediation-capacity-and-funding",
@@ -2948,7 +2957,7 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 1,
             "anchors": [
               "#3-whole-system-certification-evaluation"
@@ -3045,10 +3054,10 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 1,
             "anchors": [
-              "#chapter-seven-system-alignment-certification"
+              "#chapter-eight-system-alignment-certification"
             ]
           }
         ]
@@ -3146,10 +3155,10 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 1,
             "anchors": [
-              "#chapter-seven-system-alignment-certification"
+              "#chapter-eight-system-alignment-certification"
             ]
           }
         ]
@@ -3221,7 +3230,7 @@
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 1,
             "anchors": [
               "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
@@ -3234,7 +3243,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 11,
+            "count": 16,
             "anchors": [
               "#33-governance-layers",
               "#constitutional-tetrad",
@@ -3308,7 +3317,7 @@
           },
           {
             "file": "core_05_apex_accountability_leg.md",
-            "count": 108,
+            "count": 116,
             "anchors": [
               "#6-process-conflict-resolution",
               "#7-prohibition-on-absolute-override",
@@ -3334,7 +3343,7 @@
           },
           {
             "file": "core_05_apex_oversight_leg.md",
-            "count": 16,
+            "count": 22,
             "anchors": [
               "#oversight-constitutional",
               "#oversight-measurement-family"
@@ -3342,7 +3351,7 @@
           },
           {
             "file": "core_05_apex_timeliness_leg.md",
-            "count": 51,
+            "count": 52,
             "anchors": [
               "#timeliness-constitutional",
               "#timeliness-measurement-family"
@@ -3350,7 +3359,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 528,
+            "count": 577,
             "anchors": [
               "#accountability-contestability-semi-independent",
               "#adjudication-and-dispute-resolution-constitutional",
@@ -3366,6 +3375,7 @@
               "#combatant-non-combatant-distinction-constitutional",
               "#competency-bar",
               "#competency-clearance",
+              "#contest-seat",
               "#contestability",
               "#contingent-claim",
               "#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent",
@@ -3388,11 +3398,13 @@
               "#harassment-and-bullying",
               "#harm",
               "#harm-minimization-tradeoff-selection",
+              "#initiating-seat",
               "#insider-advantage",
               "#irreversible-deprivation-measure-constitutional",
               "#irreversible-harm",
               "#market-concentration-threshold-constitutional",
               "#market-structure-constitutional",
+              "#material-control-line",
               "#merits-determination",
               "#necessity",
               "#negligence",
@@ -3403,6 +3415,7 @@
               "#protected-reporting-semi-independent",
               "#protected-reporting-whistleblowing",
               "#psychological-harm",
+              "#record-seat",
               "#redress-and-remediation-constitutional",
               "#remedy-system-constitutional",
               "#restorative-justice",
@@ -3419,13 +3432,14 @@
               "#use-of-force-autonomous-coercion-and-mass-harm-cluster",
               "#use-of-force-constitutional",
               "#verified-inputs-for-standing",
+              "#verify-or-authorize-seat",
               "#violation-nature-chapter-six",
               "#weapons-of-mass-harm-constitutional"
             ]
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 135,
+            "count": 139,
             "anchors": [
               "#anti-capture",
               "#avoidable-burden",
@@ -3473,7 +3487,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 129,
+            "count": 141,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -3562,7 +3576,15 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_07_functional_independence_segregation_of_duties.md",
+            "count": 9,
+            "anchors": [
+              "#2-four-seat-constitutional-floor",
+              "#3-independence-conflict-and-control-lines"
+            ]
+          },
+          {
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 9,
             "anchors": [
               "#3-whole-system-certification-evaluation",
@@ -3570,7 +3592,7 @@
             ]
           },
           {
-            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 3,
             "anchors": [
               "#11-certification-record",
@@ -3578,8 +3600,8 @@
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
-            "count": 35,
+            "file": "core_09_standing_assessment.md",
+            "count": 40,
             "anchors": [
               "#1-the-three-questions",
               "#2-standing-records",
@@ -3592,16 +3614,16 @@
               "#44-violation-route-descriptor-measurement-roles",
               "#5-slot-grammar-and-display-labels",
               "#7-unified-proportional-lequ-scale",
-              "#chapter-eight-compliance-violation-and-standing-model",
+              "#chapter-nine-compliance-violation-and-standing-model",
               "#lequ-baseline-constitutional-outcome",
               "#verified-inputs-for-standing"
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 19,
             "anchors": [
-              "#1-immutable-chapter-eight-inputs",
+              "#1-immutable-chapter-nine-inputs",
               "#3-descriptor-integration-and-attachment-normalization",
               "#42-general-standing-locks",
               "#5-lock-design-and-enforcement",
@@ -3609,30 +3631,30 @@
               "#62-competency-bars-and-clearances",
               "#9-enforcement-realism",
               "#92-remedy-system-durability",
-              "#chapter-nine-standing-effects-and-integration"
+              "#chapter-ten-standing-effects-and-integration"
             ]
           },
           {
-            "file": "core_10_a_misconduct_designation.md",
+            "file": "core_11_a_misconduct_designation.md",
             "count": 15,
             "anchors": [
               "#1-decision-framework-scope-and-authority",
               "#2-criteria-set-for-slot-assignment",
               "#3-violation-axis-s-7-9-slot-assignment-incident-gravity",
               "#4-due-process-safeguards-for-slot-assignment",
-              "#chapter-ten-anti-constitutional-misconduct"
+              "#chapter-eleven-anti-constitutional-misconduct"
             ]
           },
           {
-            "file": "core_10_b_misconduct_pattern_applications.md",
+            "file": "core_11_b_misconduct_pattern_applications.md",
             "count": 1,
             "anchors": [
               "#54-info-sphere-zone-flooding"
             ]
           },
           {
-            "file": "core_11_forum.md",
-            "count": 24,
+            "file": "core_12_forum.md",
+            "count": 25,
             "anchors": [
               "#2-default-venue-and-primary-stakes",
               "#22-mixed-stakes-and-routing-asymmetry",
@@ -3646,7 +3668,7 @@
               "#46-constitutional-forums",
               "#5-escalation-and-certification",
               "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
-              "#chapter-eleven-forums-and-jurisdiction",
+              "#chapter-twelve-forums-and-jurisdiction",
               "#dispute-sequencing"
             ]
           },
@@ -3736,10 +3758,9 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 47,
+            "count": 45,
             "anchors": [
               "#10-governance-under-stewardship-discipline",
-              "#102-segregation-of-duties",
               "#11-incentive-alignment-and-system-capture",
               "#111-alignment-requirement",
               "#1113-stewardship-and-operator-application",
@@ -3815,7 +3836,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 203,
+            "count": 204,
             "anchors": [
               "#accountability-contestability-semi-independent",
               "#attributable-action-constitutional",
@@ -3833,6 +3854,7 @@
               "#irreversible-deprivation-measure-constitutional",
               "#irreversible-harm",
               "#market-concentration-threshold-constitutional",
+              "#material-control-line",
               "#necessity",
               "#participant-standing-constitutional",
               "#privacy-informational-cluster",
@@ -4055,7 +4077,14 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_07_functional_independence_segregation_of_duties.md",
+            "count": 2,
+            "anchors": [
+              "#2-four-seat-constitutional-floor"
+            ]
+          },
+          {
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 39,
             "anchors": [
               "#2-system-class-evaluation",
@@ -4065,11 +4094,11 @@
               "#4-data-types-and-handling-evaluation",
               "#5-ecological-footprint-evaluation",
               "#6-proportionate-cross-system-support-evaluation",
-              "#chapter-seven-system-alignment-certification"
+              "#chapter-eight-system-alignment-certification"
             ]
           },
           {
-            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 15,
             "anchors": [
               "#11-certification-record",
@@ -4083,25 +4112,25 @@
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 9,
             "anchors": [
               "#2-standing-records",
               "#37-record-custody-and-opening-authority",
-              "#chapter-eight-compliance-violation-and-standing-model"
+              "#chapter-nine-compliance-violation-and-standing-model"
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 7,
             "anchors": [
               "#43-institutional-forums",
-              "#chapter-eleven-forums-and-jurisdiction",
+              "#chapter-twelve-forums-and-jurisdiction",
               "#dispute-sequencing"
             ]
           },
           {
-            "file": "core_12_governance.md",
+            "file": "core_13_governance.md",
             "count": 9,
             "anchors": [
               "#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate",
@@ -4109,12 +4138,12 @@
             ]
           },
           {
-            "file": "core_13_non_regression.md",
+            "file": "core_14_non_regression.md",
             "count": 2,
             "anchors": []
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 5,
             "anchors": [
               "#3-safeguards"
@@ -4349,39 +4378,39 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 1,
             "anchors": [
               "#3-whole-system-certification-evaluation"
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 1,
             "anchors": [
-              "#chapter-eight-compliance-violation-and-standing-model"
+              "#chapter-nine-compliance-violation-and-standing-model"
             ]
           },
           {
-            "file": "core_12_governance.md",
+            "file": "core_13_governance.md",
             "count": 11,
             "anchors": [
               "#1-authorization-and-legitimacy-of-governing-authority",
               "#11-mechanism-families-auditability-and-pluralism",
               "#13-recall-class-pathways-and-mid-cycle-transfer-guardrails",
               "#41-entitlement-and-eligibility",
-              "#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship"
+              "#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship"
             ]
           },
           {
-            "file": "core_13_non_regression.md",
+            "file": "core_14_non_regression.md",
             "count": 4,
             "anchors": [
               "#4-layer-scope"
             ]
           },
           {
-            "file": "core_14_expansion_supremacy.md",
+            "file": "core_15_expansion_supremacy.md",
             "count": 5,
             "anchors": [
               "#3-supremacy-relative-to-other-binding-norms",
@@ -4390,20 +4419,20 @@
             ]
           },
           {
-            "file": "core_15_amendment_ratification.md",
+            "file": "core_16_amendment_ratification.md",
             "count": 3,
             "anchors": [
               "#10-ratification-and-adoption",
               "#12-layer-scope",
-              "#chapter-fifteen-amendment-ratification-and-procedural-validity"
+              "#chapter-sixteen-amendment-ratification-and-procedural-validity"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 4,
             "anchors": [
               "#4-adoption-framing-and-scope-of-authority",
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -4601,17 +4630,17 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 18,
             "anchors": [
               "#3-whole-system-certification-evaluation",
               "#31-systemic-scope-and-risk-factors",
               "#4-data-types-and-handling-evaluation",
-              "#chapter-seven-system-alignment-certification"
+              "#chapter-eight-system-alignment-certification"
             ]
           },
           {
-            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 4,
             "anchors": [
               "#11-certification-record",
@@ -4937,7 +4966,7 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 11,
             "anchors": [
               "#3-whole-system-certification-evaluation",
@@ -4946,7 +4975,7 @@
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 3,
             "anchors": [
               "#7-unified-proportional-lequ-scale",
@@ -4954,21 +4983,21 @@
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 1,
             "anchors": [
               "#55-special-locks"
             ]
           },
           {
-            "file": "core_10_a_misconduct_designation.md",
+            "file": "core_11_a_misconduct_designation.md",
             "count": 1,
             "anchors": [
-              "#chapter-ten-anti-constitutional-misconduct"
+              "#chapter-eleven-anti-constitutional-misconduct"
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 13,
             "anchors": [
               "#42-technical-forum-domains",
@@ -4977,7 +5006,7 @@
             ]
           },
           {
-            "file": "core_12_governance.md",
+            "file": "core_13_governance.md",
             "count": 6,
             "anchors": [
               "#41-entitlement-and-eligibility",
@@ -4985,7 +5014,7 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 5,
             "anchors": []
           },
@@ -5057,17 +5086,250 @@
             "anchors": []
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
-            "count": 2,
+            "file": "core_07_functional_independence_segregation_of_duties.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
+            "count": 1,
             "anchors": [
-              "#3-whole-system-certification-evaluation",
-              "#chapter-seven-part-a-certification-evaluation"
+              "#3-whole-system-certification-evaluation"
             ]
           }
         ]
       },
       {
-        "source": "core_07_a_system_alignment_certification_evaluation.md",
+        "source": "core_07_functional_independence_segregation_of_duties.md",
+        "targets": [
+          {
+            "file": "core_00_preamble.md",
+            "count": 4,
+            "anchors": [
+              "#4-principles-definitions-and-rights",
+              "#constitutional-tetrad",
+              "#material-stake"
+            ]
+          },
+          {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 1,
+            "anchors": [
+              "#default-interim-posture"
+            ]
+          },
+          {
+            "file": "core_01_c_stewardship_capacity_principles.md",
+            "count": 9,
+            "anchors": [
+              "#10-governance-under-stewardship-discipline",
+              "#101-governance-as-authorized-structure",
+              "#102-segregation-of-duties",
+              "#113-misalignment-detection",
+              "#911-shared-stewardship-standard",
+              "#96-process-character-discipline"
+            ]
+          },
+          {
+            "file": "core_04_burden_traceability_verification.md",
+            "count": 2,
+            "anchors": [
+              "#5-compliance-evidence-standard",
+              "#chapter-four-burden-of-proof-traceability-and-verification"
+            ]
+          },
+          {
+            "file": "core_05_apex_accountability_leg.md",
+            "count": 1,
+            "anchors": [
+              "#accountability"
+            ]
+          },
+          {
+            "file": "core_05_apex_oversight_leg.md",
+            "count": 1,
+            "anchors": [
+              "#oversight-constitutional"
+            ]
+          },
+          {
+            "file": "core_05_apex_timeliness_leg.md",
+            "count": 1,
+            "anchors": [
+              "#timeliness-constitutional"
+            ]
+          },
+          {
+            "file": "core_05_band_accountability.md",
+            "count": 18,
+            "anchors": [
+              "#attributable-action-constitutional",
+              "#attribution-integrity-constitutional",
+              "#contest-seat",
+              "#contestability",
+              "#initiating-seat",
+              "#material-control-line",
+              "#necessity",
+              "#proportionality",
+              "#record-seat",
+              "#verify-or-authorize-seat"
+            ]
+          },
+          {
+            "file": "core_05_band_continuity.md",
+            "count": 2,
+            "anchors": [
+              "#avoidable-burden",
+              "#charter"
+            ]
+          },
+          {
+            "file": "core_05_band_integrative.md",
+            "count": 2,
+            "anchors": [
+              "#constitutional-contract-layer",
+              "#owner-non-relocation"
+            ]
+          },
+          {
+            "file": "core_05_band_oversight.md",
+            "count": 4,
+            "anchors": [
+              "#auditability",
+              "#evidence-preservation",
+              "#transparency"
+            ]
+          },
+          {
+            "file": "core_05_band_participation.md",
+            "count": 1,
+            "anchors": [
+              "#stakeholder-status-and-weight-cluster"
+            ]
+          },
+          {
+            "file": "core_05_band_performance.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "core_06_rights_part_c.md",
+            "count": 4,
+            "anchors": [
+              "#article-xii-b-right-to-challenge-review-and-redress",
+              "#article-xv-audit-transparency-and-independent-verification",
+              "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards"
+            ]
+          },
+          {
+            "file": "core_06_rights_part_d.md",
+            "count": 1,
+            "anchors": [
+              "#article-xxiii-d-emergency-measures-and-continuation-burden"
+            ]
+          },
+          {
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-eight-part-a-certification-evaluation"
+            ]
+          },
+          {
+            "file": "core_08_system_alignment_certification.md",
+            "count": 3,
+            "anchors": [
+              "#chapter-eight-system-alignment-certification-index"
+            ]
+          },
+          {
+            "file": "core_09_standing_assessment.md",
+            "count": 4,
+            "anchors": [
+              "#37-informal-and-small-scope-records",
+              "#37-segregation-of-duties",
+              "#chapter-nine-compliance-violation-and-standing-model"
+            ]
+          },
+          {
+            "file": "core_10_standing_integration.md",
+            "count": 1,
+            "anchors": [
+              "#54-duty-to-resist-unlawful-or-unconstitutional-instructions"
+            ]
+          },
+          {
+            "file": "core_12_forum.md",
+            "count": 2,
+            "anchors": [
+              "#chapter-twelve-forums-and-jurisdiction"
+            ]
+          },
+          {
+            "file": "core_13_governance.md",
+            "count": 3,
+            "anchors": [
+              "#5-authorized-roles-competency-development-and-contribution",
+              "#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship"
+            ]
+          },
+          {
+            "file": "corpus_forum.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
+            "count": 3,
+            "anchors": [
+              "#ci-32-functional-separation-lanes"
+            ]
+          },
+          {
+            "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+            "count": 5,
+            "anchors": [
+              "#ci-45-authorized-roles-and-accountability-chains",
+              "#ci-46-seat-catalog",
+              "#ci-46-seat-containment",
+              "#ci-46-shared-seat-rules"
+            ]
+          },
+          {
+            "file": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
+            "count": 1,
+            "anchors": [
+              "#cjs-24-class-scaled-lane-staffing-and-competency-redundancy"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
+            "count": 1,
+            "anchors": [
+              "#constitutional-lane-and-functional-separation"
+            ]
+          },
+          {
+            "file": "corpus_systems/cs_04_critical_system_stewardship.md",
+            "count": 1,
+            "anchors": [
+              "#10-inspectable-attributable-action"
+            ]
+          }
+        ]
+      },
+      {
+        "source": "core_08_a_system_alignment_certification_evaluation.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -5228,14 +5490,22 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_07_functional_independence_segregation_of_duties.md",
+            "count": 2,
+            "anchors": [
+              "#2-four-seat-constitutional-floor",
+              "#chapter-seven-functional-independence-and-segregation-of-duties"
+            ]
+          },
+          {
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 1,
             "anchors": [
               "#32-accessibility-under-sentience-non-exclusion"
             ]
           },
           {
-            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 76,
             "anchors": [
               "#11-certification-record",
@@ -5245,32 +5515,32 @@
               "#14-supervisory-sequence-and-contestability-chain",
               "#15-relationship-to-standing",
               "#16-reopening-drift-and-non-evasion",
-              "#chapter-seven-part-b-certification-record-and-process"
+              "#chapter-eight-part-b-certification-record-and-process"
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 2,
             "anchors": [
-              "#chapter-eight-compliance-violation-and-standing-model"
+              "#chapter-nine-compliance-violation-and-standing-model"
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 1,
             "anchors": [
-              "#chapter-nine-standing-effects-and-integration"
+              "#chapter-ten-standing-effects-and-integration"
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 1,
             "anchors": [
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_12_governance.md",
+            "file": "core_13_governance.md",
             "count": 1,
             "anchors": [
               "#5-authorized-roles-competency-development-and-contribution"
@@ -5323,7 +5593,7 @@
         ]
       },
       {
-        "source": "core_07_b_system_alignment_certification_record_process.md",
+        "source": "core_08_b_system_alignment_certification_record_process.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -5435,7 +5705,15 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_07_functional_independence_segregation_of_duties.md",
+            "count": 4,
+            "anchors": [
+              "#2-four-seat-constitutional-floor",
+              "#chapter-seven-functional-independence-and-segregation-of-duties"
+            ]
+          },
+          {
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 85,
             "anchors": [
               "#1-purpose-and-role",
@@ -5450,25 +5728,25 @@
               "#7-nondiscrimination-evaluation",
               "#8-accessibility-evaluation",
               "#9-educational-capability-and-learning-system-integrity-evaluation",
-              "#chapter-seven-part-a-certification-evaluation"
+              "#chapter-eight-part-a-certification-evaluation"
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 5,
             "anchors": [
-              "#chapter-eight-compliance-violation-and-standing-model"
+              "#chapter-nine-compliance-violation-and-standing-model"
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 2,
             "anchors": [
-              "#chapter-nine-standing-effects-and-integration"
+              "#chapter-ten-standing-effects-and-integration"
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 17,
             "anchors": [
               "#23-forum-records-standing-records-and-contests",
@@ -5476,7 +5754,7 @@
               "#4-forum-family-definitions",
               "#42-technical-forum-domains",
               "#5-escalation-and-certification",
-              "#chapter-eleven-forums-and-jurisdiction",
+              "#chapter-twelve-forums-and-jurisdiction",
               "#dispute-sequencing"
             ]
           },
@@ -5508,7 +5786,7 @@
         ]
       },
       {
-        "source": "core_07_system_alignment_certification.md",
+        "source": "core_08_system_alignment_certification.md",
         "targets": [
           {
             "file": "core_05_band_continuity.md",
@@ -5525,17 +5803,17 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 2,
             "anchors": [
-              "#chapter-seven-part-a-certification-evaluation"
+              "#chapter-eight-part-a-certification-evaluation"
             ]
           },
           {
-            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 2,
             "anchors": [
-              "#chapter-seven-part-b-certification-record-and-process"
+              "#chapter-eight-part-b-certification-record-and-process"
             ]
           },
           {
@@ -5546,7 +5824,7 @@
         ]
       },
       {
-        "source": "core_08_standing_assessment.md",
+        "source": "core_09_standing_assessment.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -5578,10 +5856,9 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 10,
+            "count": 7,
             "anchors": [
               "#10-governance-under-stewardship-discipline",
-              "#102-segregation-of-duties",
               "#11-incentive-alignment-and-system-capture",
               "#113-misalignment-detection",
               "#9-stewardship-and-distributed-understanding",
@@ -5616,7 +5893,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 24,
+            "count": 26,
             "anchors": [
               "#contestability",
               "#contribution-nature",
@@ -5626,6 +5903,7 @@
               "#harm",
               "#harm-a",
               "#harm-c",
+              "#material-control-line",
               "#proportionality",
               "#proportionality-a",
               "#proportionality-c",
@@ -5706,29 +5984,36 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
-            "count": 1,
+            "file": "core_07_functional_independence_segregation_of_duties.md",
+            "count": 3,
             "anchors": [
-              "#chapter-seven-system-alignment-certification"
+              "#2-four-seat-constitutional-floor"
             ]
           },
           {
-            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-eight-system-alignment-certification"
+            ]
+          },
+          {
+            "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 2,
             "anchors": [
               "#15-relationship-to-standing",
-              "#chapter-seven-part-b-certification-record-and-process"
+              "#chapter-eight-part-b-certification-record-and-process"
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 1,
             "anchors": [
-              "#chapter-eight-compliance-violation-and-standing-model"
+              "#chapter-nine-compliance-violation-and-standing-model"
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 61,
             "anchors": [
               "#101-informal-ecological-stewardship-competency-clearance",
@@ -5747,29 +6032,29 @@
               "#6-contribution-consequences-second",
               "#62-competency-bars-and-clearances",
               "#95-timely-implementation-and-reassessment",
-              "#chapter-nine-standing-effects-and-integration"
+              "#chapter-ten-standing-effects-and-integration"
             ]
           },
           {
-            "file": "core_10_a_misconduct_designation.md",
+            "file": "core_11_a_misconduct_designation.md",
             "count": 4,
             "anchors": [
-              "#chapter-ten-anti-constitutional-misconduct"
+              "#chapter-eleven-anti-constitutional-misconduct"
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 12,
             "anchors": [
               "#21-lead-default-limits",
               "#23-forum-records-standing-records-and-contests",
               "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
-              "#chapter-eleven-forums-and-jurisdiction",
+              "#chapter-twelve-forums-and-jurisdiction",
               "#dispute-sequencing"
             ]
           },
           {
-            "file": "core_15_amendment_ratification.md",
+            "file": "core_16_amendment_ratification.md",
             "count": 1,
             "anchors": []
           },
@@ -5795,7 +6080,7 @@
         ]
       },
       {
-        "source": "core_09_standing_integration.md",
+        "source": "core_10_standing_integration.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -5822,9 +6107,8 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 2,
+            "count": 1,
             "anchors": [
-              "#102-segregation-of-duties",
               "#911-shared-stewardship-standard"
             ]
           },
@@ -5899,14 +6183,21 @@
             ]
           },
           {
-            "file": "core_08-11_application_vignettes.md",
+            "file": "core_07_functional_independence_segregation_of_duties.md",
+            "count": 1,
+            "anchors": [
+              "#2-four-seat-constitutional-floor"
+            ]
+          },
+          {
+            "file": "core_09-12_application_vignettes.md",
             "count": 1,
             "anchors": [
               "#chapters-eight-eleven-application-vignettes"
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 19,
             "anchors": [
               "#21-standing-records-as-the-unit-of-application",
@@ -5917,20 +6208,20 @@
               "#42-violation-severity-input-dimensions",
               "#43-route-descriptor-measurement-roles",
               "#46-question-2-measurement-illustrations",
-              "#chapter-eight-compliance-violation-and-standing-model"
+              "#chapter-nine-compliance-violation-and-standing-model"
             ]
           },
           {
-            "file": "core_10_a_misconduct_designation.md",
+            "file": "core_11_a_misconduct_designation.md",
             "count": 9,
             "anchors": [
               "#4-2-prevention-anti-constitutional-locks",
               "#4-3-voluntary-public-accountability-expression-anti-constitutional",
-              "#chapter-ten-anti-constitutional-misconduct"
+              "#chapter-eleven-anti-constitutional-misconduct"
             ]
           },
           {
-            "file": "core_10_b_misconduct_pattern_applications.md",
+            "file": "core_11_b_misconduct_pattern_applications.md",
             "count": 6,
             "anchors": [
               "#5-criteria-interactions-and-named-pattern-routing",
@@ -5942,7 +6233,7 @@
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 16,
             "anchors": [
               "#2-default-venue-and-primary-stakes",
@@ -5951,12 +6242,12 @@
               "#43-institutional-forums",
               "#45-integrity-forums",
               "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
-              "#chapter-eleven-forums-and-jurisdiction",
+              "#chapter-twelve-forums-and-jurisdiction",
               "#interim-protection"
             ]
           },
           {
-            "file": "core_12_governance.md",
+            "file": "core_13_governance.md",
             "count": 4,
             "anchors": [
               "#12-eligibility-contested-selection-and-democratic-minimums",
@@ -5979,7 +6270,7 @@
         ]
       },
       {
-        "source": "core_10_a_misconduct_designation.md",
+        "source": "core_11_a_misconduct_designation.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -6051,15 +6342,15 @@
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 5,
             "anchors": [
               "#5-slot-grammar-and-display-labels",
-              "#chapter-eight-compliance-violation-and-standing-model"
+              "#chapter-nine-compliance-violation-and-standing-model"
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 19,
             "anchors": [
               "#2-integration-record-and-decision-order",
@@ -6071,11 +6362,11 @@
               "#51-definition-and-attachment",
               "#54-special-violation-rules",
               "#55-special-locks",
-              "#chapter-nine-standing-effects-and-integration"
+              "#chapter-ten-standing-effects-and-integration"
             ]
           },
           {
-            "file": "core_10_b_misconduct_pattern_applications.md",
+            "file": "core_11_b_misconduct_pattern_applications.md",
             "count": 39,
             "anchors": [
               "#5-pattern-applications-and-criteria-routing",
@@ -6090,36 +6381,36 @@
               "#57-reward-protection-or-normalization-of-anti-constitutional-conduct",
               "#58-enforcement-refusal-suppression-or-non-prosecution-conduct",
               "#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct",
-              "#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications"
+              "#chapter-eleven-part-b-anti-constitutional-misconduct-pattern-applications"
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 7,
             "anchors": [
               "#2-default-venue-and-primary-stakes",
               "#5-escalation-and-certification",
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_12_governance.md",
+            "file": "core_13_governance.md",
             "count": 1,
             "anchors": [
-              "#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship"
+              "#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship"
             ]
           },
           {
-            "file": "core_13_non_regression.md",
+            "file": "core_14_non_regression.md",
             "count": 3,
             "anchors": [
-              "#chapter-thirteen-non-regression-and-substantive-amendment-validity"
+              "#chapter-fourteen-non-regression-and-substantive-amendment-validity"
             ]
           }
         ]
       },
       {
-        "source": "core_10_b_misconduct_pattern_applications.md",
+        "source": "core_11_b_misconduct_pattern_applications.md",
         "targets": [
           {
             "file": "core_01_a_values_principles.md",
@@ -6316,7 +6607,7 @@
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 4,
             "anchors": [
               "#232-violation-event-types",
@@ -6326,7 +6617,7 @@
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 21,
             "anchors": [
               "#10-pattern-applications-and-question-3-routing",
@@ -6339,11 +6630,11 @@
               "#42-general-standing-locks",
               "#54-special-violation-rules",
               "#55-special-locks",
-              "#chapter-nine-standing-effects-and-integration"
+              "#chapter-ten-standing-effects-and-integration"
             ]
           },
           {
-            "file": "core_10_a_misconduct_designation.md",
+            "file": "core_11_a_misconduct_designation.md",
             "count": 36,
             "anchors": [
               "#1-cross-chapter-discipline",
@@ -6351,30 +6642,30 @@
               "#3-violation-axis-s-7-9-slot-assignment-incident-gravity",
               "#4-2-prevention-anti-constitutional-locks",
               "#4-due-process-safeguards-for-slot-assignment",
-              "#chapter-ten-part-a-anti-constitutional-misconduct-designation"
+              "#chapter-eleven-part-a-anti-constitutional-misconduct-designation"
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 9,
             "anchors": [
               "#2-default-venue-and-primary-stakes",
               "#3-transfer-consolidation-and-coordination",
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_12_governance.md",
+            "file": "core_13_governance.md",
             "count": 2,
             "anchors": [
-              "#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship"
+              "#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship"
             ]
           },
           {
-            "file": "core_15_amendment_ratification.md",
+            "file": "core_16_amendment_ratification.md",
             "count": 1,
             "anchors": [
-              "#chapter-fifteen-amendment-ratification-and-procedural-validity"
+              "#chapter-sixteen-amendment-ratification-and-procedural-validity"
             ]
           },
           {
@@ -6395,7 +6686,7 @@
         ]
       },
       {
-        "source": "core_11_forum.md",
+        "source": "core_12_forum.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -6523,30 +6814,30 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 2,
             "anchors": [
-              "#chapter-seven-system-alignment-certification"
+              "#chapter-eight-system-alignment-certification"
             ]
           },
           {
-            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 6,
             "anchors": [
               "#13-forum-supervision-and-component-roles",
               "#15-relationship-to-standing",
-              "#chapter-seven-part-b-certification-record-and-process"
+              "#chapter-eight-part-b-certification-record-and-process"
             ]
           },
           {
-            "file": "core_08-11_application_vignettes.md",
+            "file": "core_09-12_application_vignettes.md",
             "count": 2,
             "anchors": [
               "#chapters-eight-eleven-application-vignettes"
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 21,
             "anchors": [
               "#2-standing-records",
@@ -6557,12 +6848,12 @@
               "#43-route-descriptor-measurement-roles",
               "#5-slot-grammar-and-display-labels",
               "#7-unified-proportional-lequ-scale",
-              "#chapter-eight-compliance-violation-and-standing-model",
+              "#chapter-nine-compliance-violation-and-standing-model",
               "#verified-inputs-for-standing"
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 10,
             "anchors": [
               "#2-integration-record-and-decision-order",
@@ -6571,38 +6862,38 @@
               "#55-special-locks",
               "#9-enforcement-realism",
               "#92-remedy-system-durability",
-              "#chapter-nine-standing-effects-and-integration"
+              "#chapter-ten-standing-effects-and-integration"
             ]
           },
           {
-            "file": "core_10_a_misconduct_designation.md",
+            "file": "core_11_a_misconduct_designation.md",
             "count": 6,
             "anchors": [
               "#3-violation-axis-s-7-9-slot-assignment-incident-gravity",
               "#4-due-process-safeguards-for-slot-assignment",
-              "#chapter-ten-anti-constitutional-misconduct"
+              "#chapter-eleven-anti-constitutional-misconduct"
             ]
           },
           {
-            "file": "core_10_b_misconduct_pattern_applications.md",
+            "file": "core_11_b_misconduct_pattern_applications.md",
             "count": 2,
             "anchors": [
               "#510-forum-recusal-failure-and-biased-panel-participation"
             ]
           },
           {
-            "file": "core_12_governance.md",
+            "file": "core_13_governance.md",
             "count": 4,
             "anchors": [
               "#12-eligibility-contested-selection-and-democratic-minimums",
-              "#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship"
+              "#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -6635,7 +6926,7 @@
         ]
       },
       {
-        "source": "core_08-11_application_vignettes.md",
+        "source": "core_09-12_application_vignettes.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -6725,7 +7016,7 @@
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 22,
             "anchors": [
               "#2-standing-records",
@@ -6744,7 +7035,7 @@
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 19,
             "anchors": [
               "#10-pattern-applications-and-question-3-routing",
@@ -6760,28 +7051,28 @@
             ]
           },
           {
-            "file": "core_10_a_misconduct_designation.md",
+            "file": "core_11_a_misconduct_designation.md",
             "count": 1,
             "anchors": [
-              "#chapter-ten-anti-constitutional-misconduct"
+              "#chapter-eleven-anti-constitutional-misconduct"
             ]
           },
           {
-            "file": "core_10_b_misconduct_pattern_applications.md",
+            "file": "core_11_b_misconduct_pattern_applications.md",
             "count": 1,
             "anchors": [
               "#561-follower-and-implementer-accountability"
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 16,
             "anchors": [
               "#2-default-venue-and-primary-stakes",
               "#5-escalation-and-certification",
               "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#capacity-failure-routing",
-              "#chapter-eleven-forums-and-jurisdiction",
+              "#chapter-twelve-forums-and-jurisdiction",
               "#interim-protection",
               "#urgency-classification-and-time-scale"
             ]
@@ -7065,20 +7356,20 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 17,
             "anchors": [
               "#3-whole-system-certification-evaluation",
-              "#chapter-seven-system-alignment-certification"
+              "#chapter-eight-system-alignment-certification"
             ]
           },
           {
-            "file": "core_08-11_application_vignettes.md",
+            "file": "core_09-12_application_vignettes.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 4,
             "anchors": [
               "#91-remediation-capacity-and-funding",
@@ -7086,7 +7377,7 @@
             ]
           },
           {
-            "file": "core_15_amendment_ratification.md",
+            "file": "core_16_amendment_ratification.md",
             "count": 2,
             "anchors": [
               "#102-instrument-of-adoption"
@@ -7463,24 +7754,24 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 13,
             "anchors": [
               "#3-whole-system-certification-evaluation",
               "#7-nondiscrimination-evaluation",
               "#8-accessibility-evaluation",
-              "#chapter-seven-system-alignment-certification"
+              "#chapter-eight-system-alignment-certification"
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 1,
             "anchors": [
               "#55-special-locks"
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 8,
             "anchors": [
               "#42-technical-forum-domains",
@@ -7489,7 +7780,7 @@
             ]
           },
           {
-            "file": "core_12_governance.md",
+            "file": "core_13_governance.md",
             "count": 5,
             "anchors": [
               "#41-entitlement-and-eligibility"
@@ -7834,16 +8125,16 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 24,
             "anchors": [
               "#10-trustworthiness-and-system-reliance-integrity-evaluation",
               "#3-whole-system-certification-evaluation",
-              "#chapter-seven-system-alignment-certification"
+              "#chapter-eight-system-alignment-certification"
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 11,
             "anchors": [
               "#2-standing-records",
@@ -7851,12 +8142,12 @@
               "#31-minimum-record-contents",
               "#36-forum-boundary",
               "#7-unified-proportional-lequ-scale",
-              "#chapter-eight-compliance-violation-and-standing-model",
+              "#chapter-nine-compliance-violation-and-standing-model",
               "#verified-inputs-for-standing"
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 25,
             "anchors": [
               "#42-general-standing-locks",
@@ -7866,28 +8157,28 @@
               "#71-anti-aggregation-of-named-pathway-effects",
               "#8-restoration-and-reassessment",
               "#9-enforcement-realism",
-              "#chapter-nine-standing-effects-and-integration"
+              "#chapter-ten-standing-effects-and-integration"
             ]
           },
           {
-            "file": "core_10_b_misconduct_pattern_applications.md",
+            "file": "core_11_b_misconduct_pattern_applications.md",
             "count": 1,
             "anchors": [
               "#510-forum-recusal-failure-and-biased-panel-participation"
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 8,
             "anchors": [
               "#2-default-venue-and-primary-stakes",
               "#3-transfer-consolidation-and-coordination",
               "#5-escalation-and-certification",
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_12_governance.md",
+            "file": "core_13_governance.md",
             "count": 5,
             "anchors": [
               "#41-entitlement-and-eligibility"
@@ -8117,23 +8408,23 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 8,
             "anchors": [
               "#3-whole-system-certification-evaluation",
-              "#chapter-seven-system-alignment-certification"
+              "#chapter-eight-system-alignment-certification"
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 2,
             "anchors": [
-              "#chapter-eight-compliance-violation-and-standing-model",
+              "#chapter-nine-compliance-violation-and-standing-model",
               "#verified-inputs-for-standing"
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 6,
             "anchors": [
               "#4-violation-correction-and-prevention",
@@ -8142,7 +8433,7 @@
             ]
           },
           {
-            "file": "core_10_a_misconduct_designation.md",
+            "file": "core_11_a_misconduct_designation.md",
             "count": 4,
             "anchors": [
               "#4-2-prevention-anti-constitutional-locks",
@@ -8150,14 +8441,14 @@
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 6,
             "anchors": [
               "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
             ]
           },
           {
-            "file": "core_12_governance.md",
+            "file": "core_13_governance.md",
             "count": 1,
             "anchors": []
           },
@@ -8183,7 +8474,7 @@
         ]
       },
       {
-        "source": "core_12_governance.md",
+        "source": "core_13_governance.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -8211,9 +8502,8 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 8,
+            "count": 7,
             "anchors": [
-              "#102-segregation-of-duties",
               "#121-productive-capacity-instrumental-good",
               "#9-stewardship-and-distributed-understanding",
               "#911-shared-stewardship-standard",
@@ -8329,14 +8619,21 @@
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
-            "count": 3,
+            "file": "core_07_functional_independence_segregation_of_duties.md",
+            "count": 1,
             "anchors": [
-              "#chapter-eight-compliance-violation-and-standing-model"
+              "#2-four-seat-constitutional-floor"
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_09_standing_assessment.md",
+            "count": 3,
+            "anchors": [
+              "#chapter-nine-compliance-violation-and-standing-model"
+            ]
+          },
+          {
+            "file": "core_10_standing_integration.md",
             "count": 7,
             "anchors": [
               "#42-general-standing-locks",
@@ -8347,14 +8644,14 @@
             ]
           },
           {
-            "file": "core_10_a_misconduct_designation.md",
+            "file": "core_11_a_misconduct_designation.md",
             "count": 2,
             "anchors": [
-              "#chapter-ten-anti-constitutional-misconduct"
+              "#chapter-eleven-anti-constitutional-misconduct"
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 4,
             "anchors": [
               "#42-technical-forum-domains",
@@ -8364,17 +8661,17 @@
             ]
           },
           {
-            "file": "core_13_non_regression.md",
+            "file": "core_14_non_regression.md",
             "count": 3,
             "anchors": [
-              "#chapter-thirteen-non-regression-and-substantive-amendment-validity"
+              "#chapter-fourteen-non-regression-and-substantive-amendment-validity"
             ]
           },
           {
-            "file": "core_15_amendment_ratification.md",
+            "file": "core_16_amendment_ratification.md",
             "count": 1,
             "anchors": [
-              "#chapter-fifteen-amendment-ratification-and-procedural-validity"
+              "#chapter-sixteen-amendment-ratification-and-procedural-validity"
             ]
           },
           {
@@ -8400,7 +8697,7 @@
         ]
       },
       {
-        "source": "core_13_non_regression.md",
+        "source": "core_14_non_regression.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -8471,50 +8768,50 @@
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 8,
             "anchors": [
               "#5-slot-grammar-and-display-labels",
               "#7-unified-proportional-lequ-scale",
-              "#chapter-eight-compliance-violation-and-standing-model"
+              "#chapter-nine-compliance-violation-and-standing-model"
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 4,
             "anchors": [
               "#2-integration-record-and-decision-order",
-              "#chapter-nine-standing-effects-and-integration"
+              "#chapter-ten-standing-effects-and-integration"
             ]
           },
           {
-            "file": "core_10_a_misconduct_designation.md",
+            "file": "core_11_a_misconduct_designation.md",
             "count": 7,
             "anchors": [
               "#2-criteria-set-for-slot-assignment",
-              "#chapter-ten-anti-constitutional-misconduct"
+              "#chapter-eleven-anti-constitutional-misconduct"
             ]
           },
           {
-            "file": "core_12_governance.md",
+            "file": "core_13_governance.md",
             "count": 3,
             "anchors": [
-              "#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship"
+              "#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship"
             ]
           },
           {
-            "file": "core_14_expansion_supremacy.md",
+            "file": "core_15_expansion_supremacy.md",
             "count": 3,
             "anchors": [
-              "#chapter-fourteen-expansion-supremacy-and-external-legal-orders"
+              "#chapter-fifteen-expansion-supremacy-and-external-legal-orders"
             ]
           },
           {
-            "file": "core_15_amendment_ratification.md",
+            "file": "core_16_amendment_ratification.md",
             "count": 6,
             "anchors": [
               "#12-layer-scope",
-              "#chapter-fifteen-amendment-ratification-and-procedural-validity"
+              "#chapter-sixteen-amendment-ratification-and-procedural-validity"
             ]
           },
           {
@@ -8525,7 +8822,7 @@
         ]
       },
       {
-        "source": "core_14_expansion_supremacy.md",
+        "source": "core_15_expansion_supremacy.md",
         "targets": [
           {
             "file": "core_01_a_values_principles.md",
@@ -8575,39 +8872,39 @@
             "anchors": []
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 3,
             "anchors": [
               "#9-enforcement-realism"
             ]
           },
           {
-            "file": "core_10_b_misconduct_pattern_applications.md",
+            "file": "core_11_b_misconduct_pattern_applications.md",
             "count": 3,
             "anchors": [
               "#52-rights-floor-waivers-and-unconstitutional-contract-terms"
             ]
           },
           {
-            "file": "core_13_non_regression.md",
+            "file": "core_14_non_regression.md",
             "count": 5,
             "anchors": [
-              "#chapter-thirteen-non-regression-and-substantive-amendment-validity"
+              "#chapter-fourteen-non-regression-and-substantive-amendment-validity"
             ]
           },
           {
-            "file": "core_15_amendment_ratification.md",
+            "file": "core_16_amendment_ratification.md",
             "count": 10,
             "anchors": [
               "#10-ratification-and-adoption",
               "#101-deliberate-adoption",
               "#102-instrument-of-adoption",
               "#8-provisional-effect-rule",
-              "#chapter-fifteen-amendment-ratification-and-procedural-validity"
+              "#chapter-sixteen-amendment-ratification-and-procedural-validity"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 4,
             "anchors": [
               "#4-adoption-framing-and-scope-of-authority"
@@ -8621,7 +8918,7 @@
         ]
       },
       {
-        "source": "core_15_amendment_ratification.md",
+        "source": "core_16_amendment_ratification.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -8685,63 +8982,63 @@
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 4,
             "anchors": [
               "#7-unified-proportional-lequ-scale",
-              "#chapter-eight-compliance-violation-and-standing-model"
+              "#chapter-nine-compliance-violation-and-standing-model"
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 3,
             "anchors": [
               "#7-final-standing-effect",
-              "#chapter-nine-standing-effects-and-integration"
+              "#chapter-ten-standing-effects-and-integration"
             ]
           },
           {
-            "file": "core_10_a_misconduct_designation.md",
+            "file": "core_11_a_misconduct_designation.md",
             "count": 2,
             "anchors": [
-              "#chapter-ten-anti-constitutional-misconduct"
+              "#chapter-eleven-anti-constitutional-misconduct"
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 1,
             "anchors": [
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_12_governance.md",
+            "file": "core_13_governance.md",
             "count": 3,
             "anchors": [
               "#1-authorization-and-legitimacy-of-governing-authority",
               "#12-eligibility-contested-selection-and-democratic-minimums",
-              "#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship"
+              "#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship"
             ]
           },
           {
-            "file": "core_13_non_regression.md",
+            "file": "core_14_non_regression.md",
             "count": 7,
             "anchors": [
               "#4-layer-scope",
-              "#chapter-thirteen-non-regression-and-substantive-amendment-validity"
+              "#chapter-fourteen-non-regression-and-substantive-amendment-validity"
             ]
           },
           {
-            "file": "core_14_expansion_supremacy.md",
+            "file": "core_15_expansion_supremacy.md",
             "count": 5,
             "anchors": [
               "#2-continuity-of-supremacy-and-challenge-rights-during-amendment",
               "#31-internal-hierarchy-for-adopters",
-              "#chapter-fourteen-expansion-supremacy-and-external-legal-orders"
+              "#chapter-fifteen-expansion-supremacy-and-external-legal-orders"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 3,
             "anchors": [
               "#4-adoption-framing-and-scope-of-authority"
@@ -8755,7 +9052,7 @@
         ]
       },
       {
-        "source": "core_16_incorporation.md",
+        "source": "core_17_incorporation.md",
         "targets": [
           {
             "file": "core_00_preamble.md",
@@ -8843,57 +9140,57 @@
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 2,
             "anchors": [
-              "#chapter-eight-compliance-violation-and-standing-model"
+              "#chapter-nine-compliance-violation-and-standing-model"
             ]
           },
           {
-            "file": "core_10_a_misconduct_designation.md",
+            "file": "core_11_a_misconduct_designation.md",
             "count": 1,
             "anchors": [
-              "#chapter-ten-anti-constitutional-misconduct"
+              "#chapter-eleven-anti-constitutional-misconduct"
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 2,
             "anchors": [
               "#5-escalation-and-certification",
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_12_governance.md",
+            "file": "core_13_governance.md",
             "count": 2,
             "anchors": [
               "#1-authorization-and-legitimacy-of-governing-authority",
-              "#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship"
+              "#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship"
             ]
           },
           {
-            "file": "core_13_non_regression.md",
+            "file": "core_14_non_regression.md",
             "count": 6,
             "anchors": [
               "#3-anti-evasion-clause-and-constitutional-misconduct-referral",
-              "#chapter-thirteen-non-regression-and-substantive-amendment-validity"
+              "#chapter-fourteen-non-regression-and-substantive-amendment-validity"
             ]
           },
           {
-            "file": "core_14_expansion_supremacy.md",
+            "file": "core_15_expansion_supremacy.md",
             "count": 4,
             "anchors": [
               "#5-relation-to-applicable-external-law",
-              "#chapter-fourteen-expansion-supremacy-and-external-legal-orders"
+              "#chapter-fifteen-expansion-supremacy-and-external-legal-orders"
             ]
           },
           {
-            "file": "core_15_amendment_ratification.md",
+            "file": "core_16_amendment_ratification.md",
             "count": 5,
             "anchors": [
               "#10-ratification-and-adoption",
-              "#chapter-fifteen-amendment-ratification-and-procedural-validity"
+              "#chapter-sixteen-amendment-ratification-and-procedural-validity"
             ]
           },
           {
@@ -8956,12 +9253,12 @@
             ]
           },
           {
-            "file": "core_07_system_alignment_certification.md",
+            "file": "core_08_system_alignment_certification.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 1,
             "anchors": []
           },
@@ -9088,17 +9385,17 @@
             "anchors": []
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "core_12_governance.md",
+            "file": "core_13_governance.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 1,
             "anchors": []
           },
@@ -9282,12 +9579,12 @@
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 3,
             "anchors": []
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 1,
             "anchors": []
           },
@@ -9429,12 +9726,12 @@
             "anchors": []
           },
           {
-            "file": "core_12_governance.md",
+            "file": "core_13_governance.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": []
           },
@@ -9591,10 +9888,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 5,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -9924,10 +10221,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 7,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -10116,7 +10413,7 @@
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 3,
             "anchors": [
               "#42-general-standing-locks",
@@ -10125,24 +10422,24 @@
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 1,
             "anchors": [
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_12_governance.md",
+            "file": "core_13_governance.md",
             "count": 2,
             "anchors": [
-              "#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship"
+              "#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 3,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -10317,14 +10614,14 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 1,
             "anchors": [
-              "#chapter-seven-system-alignment-certification"
+              "#chapter-eight-system-alignment-certification"
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 6,
             "anchors": [
               "#42-general-standing-locks",
@@ -10333,10 +10630,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -10441,9 +10738,8 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 14,
+            "count": 13,
             "anchors": [
-              "#102-segregation-of-duties",
               "#13-market-structure",
               "#131-market-concentration-threshold-mechanism-adopter-tunable",
               "#132-pro-competition-and-anti-domination",
@@ -10576,21 +10872,28 @@
             ]
           },
           {
-            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "file": "core_07_functional_independence_segregation_of_duties.md",
+            "count": 1,
+            "anchors": [
+              "#2-four-seat-constitutional-floor"
+            ]
+          },
+          {
+            "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 1,
             "anchors": [
               "#16-reopening-drift-and-non-evasion"
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 1,
             "anchors": [
               "#37-segregation-of-duties"
             ]
           },
           {
-            "file": "core_10_b_misconduct_pattern_applications.md",
+            "file": "core_11_b_misconduct_pattern_applications.md",
             "count": 5,
             "anchors": [
               "#51-concentration-based-subversion-criteria-interaction",
@@ -10598,10 +10901,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -10789,10 +11092,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -10950,10 +11253,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -11115,17 +11418,17 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 1,
             "anchors": [
-              "#chapter-seven-system-alignment-certification"
+              "#chapter-eight-system-alignment-certification"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -11317,10 +11620,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -11451,17 +11754,17 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 1,
             "anchors": [
-              "#chapter-seven-system-alignment-certification"
+              "#chapter-eight-system-alignment-certification"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -11526,10 +11829,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -11617,10 +11920,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 4,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -11694,17 +11997,17 @@
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 1,
             "anchors": [
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -11755,7 +12058,7 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 1,
             "anchors": []
           },
@@ -11882,7 +12185,7 @@
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 2,
             "anchors": [
               "#2-integration-record-and-decision-order",
@@ -11890,10 +12193,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 4,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -12033,18 +12336,18 @@
             ]
           },
           {
-            "file": "core_15_amendment_ratification.md",
+            "file": "core_16_amendment_ratification.md",
             "count": 1,
             "anchors": [
               "#10-ratification-and-adoption"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 5,
             "anchors": [
               "#4-adoption-framing-and-scope-of-authority",
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -12119,14 +12422,14 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 8,
             "anchors": [
               "#4-data-types-and-handling-evaluation"
             ]
           },
           {
-            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 13,
             "anchors": [
               "#11-certification-record",
@@ -12212,14 +12515,14 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 1,
             "anchors": [
               "#4-data-types-and-handling-evaluation"
             ]
           },
           {
-            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 1,
             "anchors": [
               "#11-certification-record"
@@ -12282,7 +12585,7 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 10,
             "anchors": [
               "#2-system-class-evaluation",
@@ -12290,7 +12593,7 @@
             ]
           },
           {
-            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 17,
             "anchors": [
               "#111-minimum-record-contents",
@@ -12301,10 +12604,10 @@
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 1,
             "anchors": [
-              "#chapter-eight-compliance-violation-and-standing-model"
+              "#chapter-nine-compliance-violation-and-standing-model"
             ]
           },
           {
@@ -12410,7 +12713,7 @@
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 2,
             "anchors": [
               "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
@@ -12494,13 +12797,14 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 7,
+            "count": 8,
             "anchors": [
               "#attributable-action-constitutional",
               "#attribution-integrity-constitutional",
               "#governance",
               "#governance-a",
-              "#governance-c"
+              "#governance-c",
+              "#material-control-line"
             ]
           },
           {
@@ -12549,16 +12853,16 @@
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 4,
             "anchors": [
               "#21-silence-is-the-default",
               "#37-record-custody-and-opening-authority",
-              "#chapter-eight-compliance-violation-and-standing-model"
+              "#chapter-nine-compliance-violation-and-standing-model"
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 3,
             "anchors": [
               "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
@@ -12567,17 +12871,17 @@
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 1,
             "anchors": [
               "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -12746,7 +13050,7 @@
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 2,
             "anchors": [
               "#21-silence-is-the-default",
@@ -12754,10 +13058,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -12908,24 +13212,24 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 1,
             "anchors": [
               "#2-system-class-evaluation"
             ]
           },
           {
-            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 1,
             "anchors": [
               "#11-certification-record"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -12998,10 +13302,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -13083,17 +13387,17 @@
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 1,
             "anchors": [
-              "#chapter-eight-compliance-violation-and-standing-model"
+              "#chapter-nine-compliance-violation-and-standing-model"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -13188,10 +13492,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -13276,10 +13580,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -13355,17 +13659,17 @@
             ]
           },
           {
-            "file": "core_15_amendment_ratification.md",
+            "file": "core_16_amendment_ratification.md",
             "count": 1,
             "anchors": [
               "#10-ratification-and-adoption"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -13431,10 +13735,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -13530,10 +13834,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -13606,10 +13910,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 4,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -13766,29 +14070,29 @@
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 1,
             "anchors": [
-              "#chapter-eight-compliance-violation-and-standing-model"
+              "#chapter-nine-compliance-violation-and-standing-model"
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "core_10_a_misconduct_designation.md",
+            "file": "core_11_a_misconduct_designation.md",
             "count": 2,
             "anchors": [
-              "#chapter-ten-anti-constitutional-misconduct"
+              "#chapter-eleven-anti-constitutional-misconduct"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -13839,13 +14143,6 @@
             ]
           },
           {
-            "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 1,
-            "anchors": [
-              "#102-segregation-of-duties"
-            ]
-          },
-          {
             "file": "core_05__definitions_home.md",
             "count": 2,
             "anchors": [
@@ -13874,7 +14171,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 27,
+            "count": 28,
             "anchors": [
               "#contestability",
               "#contestability-a",
@@ -13885,6 +14182,7 @@
               "#market-concentration-threshold-constitutional",
               "#market-concentration-threshold-constitutional-a",
               "#market-concentration-threshold-constitutional-c",
+              "#material-control-line",
               "#necessity",
               "#necessity-a",
               "#necessity-c",
@@ -13974,14 +14272,21 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_07_functional_independence_segregation_of_duties.md",
             "count": 1,
             "anchors": [
-              "#chapter-seven-system-alignment-certification"
+              "#2-four-seat-constitutional-floor"
             ]
           },
           {
-            "file": "core_07_b_system_alignment_certification_record_process.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-eight-system-alignment-certification"
+            ]
+          },
+          {
+            "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 2,
             "anchors": [
               "#111-minimum-record-contents",
@@ -13989,7 +14294,7 @@
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 8,
             "anchors": [
               "#36-forum-boundary",
@@ -14000,24 +14305,24 @@
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 1,
             "anchors": [
               "#43-institutional-forums"
             ]
           },
           {
-            "file": "core_12_governance.md",
+            "file": "core_13_governance.md",
             "count": 1,
             "anchors": [
               "#43-decision-resolution-requirements-for-binding-collective-choice"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 3,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -14078,9 +14383,8 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 7,
+            "count": 5,
             "anchors": [
-              "#102-segregation-of-duties",
               "#14-systemic-evaluation-requirement",
               "#911-shared-stewardship-standard",
               "#912-symmetric-costly-constraints",
@@ -14114,7 +14418,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 20,
+            "count": 25,
             "anchors": [
               "#competency-bar",
               "#competency-bar-a",
@@ -14122,12 +14426,17 @@
               "#competency-clearance",
               "#competency-clearance-a",
               "#competency-clearance-c",
+              "#contest-seat",
               "#contestability",
               "#contestability-a",
               "#contestability-c",
               "#governance",
               "#governance-a",
-              "#governance-c"
+              "#governance-c",
+              "#initiating-seat",
+              "#material-control-line",
+              "#record-seat",
+              "#verify-or-authorize-seat"
             ]
           },
           {
@@ -14207,12 +14516,19 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_07_functional_independence_segregation_of_duties.md",
+            "count": 2,
+            "anchors": [
+              "#2-four-seat-constitutional-floor"
+            ]
+          },
+          {
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 7,
             "anchors": [
               "#36-forum-boundary",
@@ -14224,7 +14540,7 @@
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 15,
             "anchors": [
               "#42-general-standing-locks",
@@ -14234,30 +14550,30 @@
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 3,
             "anchors": [
               "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_12_governance.md",
+            "file": "core_13_governance.md",
             "count": 2,
             "anchors": [
               "#5-authorized-roles-competency-development-and-contribution"
             ]
           },
           {
-            "file": "core_14_expansion_supremacy.md",
+            "file": "core_15_expansion_supremacy.md",
             "count": 1,
             "anchors": []
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 8,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -14390,10 +14706,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -14509,10 +14825,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -14639,10 +14955,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -14797,17 +15113,17 @@
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 1,
             "anchors": [
               "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -14974,10 +15290,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -15103,10 +15419,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -15208,10 +15524,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -15327,10 +15643,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -15440,10 +15756,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -15599,10 +15915,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -15703,10 +16019,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -15753,13 +16069,6 @@
       {
         "source": "corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md",
         "targets": [
-          {
-            "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 1,
-            "anchors": [
-              "#102-segregation-of-duties"
-            ]
-          },
           {
             "file": "core_05__definitions_home.md",
             "count": 1,
@@ -15820,18 +16129,25 @@
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
-            "count": 2,
+            "file": "core_07_functional_independence_segregation_of_duties.md",
+            "count": 1,
             "anchors": [
-              "#37-informal-and-small-scope-records",
-              "#chapter-eight-compliance-violation-and-standing-model"
+              "#2-four-seat-constitutional-floor"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_09_standing_assessment.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#37-informal-and-small-scope-records",
+              "#chapter-nine-compliance-violation-and-standing-model"
+            ]
+          },
+          {
+            "file": "core_17_incorporation.md",
+            "count": 2,
+            "anchors": [
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -15938,10 +16254,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -16055,10 +16371,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -16159,10 +16475,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -16275,10 +16591,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -16388,10 +16704,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -16438,13 +16754,6 @@
       {
         "source": "corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md",
         "targets": [
-          {
-            "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 1,
-            "anchors": [
-              "#102-segregation-of-duties"
-            ]
-          },
           {
             "file": "core_05__definitions_home.md",
             "count": 1,
@@ -16505,19 +16814,26 @@
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_07_functional_independence_segregation_of_duties.md",
+            "count": 1,
+            "anchors": [
+              "#2-four-seat-constitutional-floor"
+            ]
+          },
+          {
+            "file": "core_09_standing_assessment.md",
             "count": 3,
             "anchors": [
               "#37-informal-and-small-scope-records",
               "#51-standard-contribution-measures",
-              "#chapter-eight-compliance-violation-and-standing-model"
+              "#chapter-nine-compliance-violation-and-standing-model"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -16625,10 +16941,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -16729,10 +17045,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -16838,10 +17154,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -16962,10 +17278,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -17068,7 +17384,7 @@
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 10,
             "anchors": [
               "#41-remedy-and-correction",
@@ -17080,7 +17396,7 @@
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 8,
             "anchors": [
               "#2-default-venue-and-primary-stakes",
@@ -17093,10 +17409,10 @@
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -17208,17 +17524,17 @@
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 5,
             "anchors": [
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 4,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -17316,17 +17632,17 @@
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 2,
             "anchors": [
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -17463,17 +17779,17 @@
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 1,
             "anchors": [
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -17642,7 +17958,7 @@
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 5,
             "anchors": [
               "#55-special-locks",
@@ -17650,25 +17966,25 @@
             ]
           },
           {
-            "file": "core_10_a_misconduct_designation.md",
+            "file": "core_11_a_misconduct_designation.md",
             "count": 2,
             "anchors": [
               "#2-criteria-set-for-slot-assignment"
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 6,
             "anchors": [
               "#5-escalation-and-certification",
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -17793,7 +18109,7 @@
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 2,
             "anchors": [
               "#44-remedy-parity-and-lock-preconditions",
@@ -17801,21 +18117,21 @@
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 7,
             "anchors": [
               "#3-transfer-consolidation-and-coordination",
               "#44-environment-forums",
               "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#capacity-failure-routing",
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -17963,17 +18279,17 @@
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 1,
             "anchors": [
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -18146,17 +18462,17 @@
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 1,
             "anchors": [
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -18307,25 +18623,25 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 1,
             "anchors": [
-              "#chapter-seven-system-alignment-certification"
+              "#chapter-eight-system-alignment-certification"
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 7,
             "anchors": [
               "#7-forum-support-before-during-and-after-review",
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 8,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -18406,7 +18722,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 47,
+            "count": 48,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#adjudication-and-dispute-resolution-constitutional-a",
@@ -18423,6 +18739,7 @@
               "#forum-family-technical",
               "#forum-family-technical-a",
               "#forum-family-technical-c",
+              "#material-control-line",
               "#necessity",
               "#necessity-a",
               "#necessity-c",
@@ -18498,7 +18815,7 @@
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 3,
             "anchors": [
               "#31-minimum-record-contents",
@@ -18506,18 +18823,18 @@
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 11,
             "anchors": [
               "#7-forum-support-before-during-and-after-review",
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 12,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -18693,17 +19010,17 @@
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 1,
             "anchors": [
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -18890,21 +19207,21 @@
             ]
           },
           {
-            "file": "core_07_a_system_alignment_certification_evaluation.md",
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 1,
             "anchors": [
-              "#chapter-seven-system-alignment-certification"
+              "#chapter-eight-system-alignment-certification"
             ]
           },
           {
-            "file": "core_08-11_application_vignettes.md",
+            "file": "core_09-12_application_vignettes.md",
             "count": 1,
             "anchors": [
               "#chapters-eight-eleven-application-vignettes"
             ]
           },
           {
-            "file": "core_08_standing_assessment.md",
+            "file": "core_09_standing_assessment.md",
             "count": 2,
             "anchors": [
               "#2-standing-records",
@@ -18912,27 +19229,27 @@
             ]
           },
           {
-            "file": "core_09_standing_integration.md",
+            "file": "core_10_standing_integration.md",
             "count": 6,
             "anchors": [
               "#44-remedy-parity-and-lock-preconditions",
               "#92-remedy-system-durability",
-              "#chapter-nine-standing-effects-and-integration"
+              "#chapter-ten-standing-effects-and-integration"
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 4,
             "anchors": [
               "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 3,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -19075,17 +19392,17 @@
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 1,
             "anchors": [
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -19218,17 +19535,17 @@
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 1,
             "anchors": [
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -19349,17 +19666,17 @@
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 1,
             "anchors": [
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -19502,17 +19819,17 @@
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 1,
             "anchors": [
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -19677,24 +19994,24 @@
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 2,
             "anchors": [
-              "#chapter-eleven-forums-and-jurisdiction"
+              "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
           {
-            "file": "core_12_governance.md",
+            "file": "core_13_governance.md",
             "count": 1,
             "anchors": [
               "#5-authorized-roles-competency-development-and-contribution"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -19794,17 +20111,17 @@
             ]
           },
           {
-            "file": "core_11_forum.md",
+            "file": "core_12_forum.md",
             "count": 4,
             "anchors": [
               "#5-escalation-and-certification"
             ]
           },
           {
-            "file": "core_16_incorporation.md",
+            "file": "core_17_incorporation.md",
             "count": 2,
             "anchors": [
-              "#chapter-sixteen-incorporation-bridge"
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {

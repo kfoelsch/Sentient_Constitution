@@ -7,7 +7,7 @@
 
 > खालील मजकूर **फक्त वाचक मार्गदर्शन** आहे. तो या फाइलमध्ये किंवा इतर अध्यायांत बंधनकारक कर्तव्ये जोडत नाही, काढत नाही, किंवा आकुंचित करत नाही.
 >
-> ही फाइल [इंग्रजी अध्याय सात, भाग ब](../../core_07_b_system_alignment_certification_record_process.md) चा **वाचक-भाषा पायलट** आहे. संज्ञ संविधानाचा **बंधनकारक भाग नाही**. **दुसरे संविधान नाही**. **प्रेषण आवृत्ती नाही**. `SC-Corpus-2026.08.09` ला **पिन** आहे. हा अनुवाद आणि इंग्रजी मूळ यात फरक दिसला, तर क्रमांकित [`core_07_b_system_alignment_certification_record_process.md`](../../core_07_b_system_alignment_certification_record_process.md) जिंकते. वाचन क्रम आणि आवृत्ती मेटाडेटा [README.md](../../README.md) मध्ये राहतात. पद्धत आणि शब्दसूची: [translations/mr/README.md](README.md).
+> ही फाइल [इंग्रजी अध्याय सात, भाग ब](../../core_08_b_system_alignment_certification_record_process.md) चा **वाचक-भाषा पायलट** आहे. संज्ञ संविधानाचा **बंधनकारक भाग नाही**. **दुसरे संविधान नाही**. **प्रेषण आवृत्ती नाही**. `SC-Corpus-2026.08.09` ला **पिन** आहे. हा अनुवाद आणि इंग्रजी मूळ यात फरक दिसला, तर क्रमांकित [`core_07_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md) जिंकते. वाचन क्रम आणि आवृत्ती मेटाडेटा [README.md](../../README.md) मध्ये राहतात. पद्धत आणि शब्दसूची: [translations/mr/README.md](README.md).
 >
 > **अध्याय सात, भाग ब** समाविष्ट करते — प्रमाणन **अभिलेखाचे** आशय, पारदर्शकता आणि आव्हानयोग्यता, मंच-घटक भूमिका, देखरेख क्रम, प्रस्थिति पूल, आणि पुनर्उघडणे (**§11–§16**, भाग अ §1–§10 पासून पुढे). **भाग अ** — मूल्यमापन अपेक्षा — [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md) मध्ये आहे.
 >
@@ -30,7 +30,7 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - वरून: [भाग अ §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*प्रमाणन उद्दिष्ट आणि मूल्यमापन मार्गदर्शक*); [भाग अ §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) ते [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*अभिलेखासाठी मूल्यमापन निर्गम*); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims).
-- पुढे: [§11](#11-certification-record) ते [§16](#16-reopening-drift-and-non-evasion); [अध्याय आठ](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); [अध्याय अकरा](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction).
+- पुढे: [§11](#11-certification-record) ते [§16](#16-reopening-drift-and-non-evasion); [अध्याय आठ](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model); [अध्याय अकरा](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction).
 - सोबत वाचा: [corpus_forum.md](../../corpus_forum.md), **CF-5** आणि **CF-7**.
 
 </details>
@@ -51,7 +51,7 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - वरून: [भाग अ §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*प्रमाणन उद्दिष्ट*); [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*संपूर्ण-प्रणाली मूल्यमापन घटक*); [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) ते [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*अभिलेखावर प्रतिबिंबित क्षेत्र मूल्यमापन निर्गम*); [प्रणाली प्रमाणन अभिलेख](core_05_band_continuity.md#system-certification-record-constitutional) (*अध्याय पाच अर्थ*); [§12](#12-transparency-auditability-and-contestability) (*पारदर्शकता, लेखापरीक्षण-योग्यता आणि आव्हानयोग्यता*); [§14](#14-supervisory-sequence-and-contestability-chain) (*देखरेख क्रम आणि आव्हानयोग्यता शृंखला*).
-- पुढे: [§15](#15-relationship-to-standing) (*सत्यापित-इनपुट द्वार*); [अध्याय अकरा](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*मंच-देखरेखीखालील प्रमाणन प्रक्रिया*).
+- पुढे: [§15](#15-relationship-to-standing) (*सत्यापित-इनपुट द्वार*); [अध्याय अकरा](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*मंच-देखरेखीखालील प्रमाणन प्रक्रिया*).
 - उपविभाग: [§11.1](#111-minimum-record-contents) (*किमान अभिलेख आशय*); [§11.2](#112-cross-section-record-requirements) (*विभागांतील अभिलेख अपेक्षा*); [§11.3](#113-rights-floor-record-evaluation-non-substitution) (*अधिकार-तळ अभिलेख मूल्यमापन — पर्याय नाही*).
 
 </details>
@@ -161,7 +161,7 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - वरून: [§11](#11-certification-record) (*अभिलेख आशय*); [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation), [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation), [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation), [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation), [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation), [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation), [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation), आणि [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*वर्ग, डेटा, पदचिन्ह, आंतर-प्रणाली आधार, भेदभाव-निषेध, सुलभता, शैक्षणिक-क्षमता, आणि विश्वासार्हता मूल्यमापन इनपुट*); देखरेख मापन कुटुंब (*संवैधानिक मापन म्हणून सत्य आणि ज्ञानविषयक अखंडता*); समयबद्धता मापन कुटुंब (*समयबद्ध निराकरण आणि विलंब-निरोध शिस्त*); अध्याय दोन ते चार (*भार, माग, सत्यापन, आणि पुरावा संरक्षण*); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **देखरेख**, **उत्तरदायित्व**, **सहभाग**, आणि **समयबद्धता**; [**Def.O1** *पारदर्शकता, लेखापरीक्षण-योग्यता, आणि सत्यापन*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster); [आव्हानयोग्यता](core_05_band_accountability.md#contestability).
-- पुढे: [§14](#14-supervisory-sequence-and-contestability-chain) (*देखरेख क्रम आणि आव्हानयोग्यता शृंखला*); [§15](#15-relationship-to-standing) (*सत्यापित-इनपुट द्वार*); [अध्याय अकरा §2.3](../../core_11_forum.md#23-forum-records-standing-records-and-contests) (*मंच घटना अभिलेख, प्रस्थिति-अभिलेख आव्हाने*); [अध्याय अकरा §5](../../core_11_forum.md#5-escalation-and-certification) (*अधिरोहण आणि प्रमाणन तपशील*).
+- पुढे: [§14](#14-supervisory-sequence-and-contestability-chain) (*देखरेख क्रम आणि आव्हानयोग्यता शृंखला*); [§15](#15-relationship-to-standing) (*सत्यापित-इनपुट द्वार*); [अध्याय अकरा §2.3](../../core_12_forum.md#23-forum-records-standing-records-and-contests) (*मंच घटना अभिलेख, प्रस्थिति-अभिलेख आव्हाने*); [अध्याय अकरा §5](../../core_12_forum.md#5-escalation-and-certification) (*अधिरोहण आणि प्रमाणन तपशील*).
 - सोबत वाचा: [अनुच्छेद XV: लेखापरीक्षण, पारदर्शकता, आणि स्वतंत्र सत्यापन](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification); [अनुच्छेद XII-B: आव्हान, समीक्षा, आणि निवारणाचा अधिकार](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); [पुरावा संरक्षण](core_05_band_oversight.md#evidence-preservation); [corpus_systems.md](../../corpus_systems.md), **CS-2 — माहिती प्रकार आणि हाताळणी** आणि **CS-3 — प्रणाली वर्गीकरण आणि हाताळणी**; **CJS-3.4** (*स्तरीय पारदर्शकता आणि लेखापरीक्षण-प्रवेश अटी*).
 
 </details>
@@ -239,7 +239,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: [§11](#11-certification-record) (*प्रमाणन अभिलेख आशय*); [§12](#12-transparency-auditability-and-contestability) (*अभिलेख सचोटी अपेक्षा*); [अध्याय अकरा §4](../../core_11_forum.md#4-forum-family-definitions) (*मंच-कुटुंबे आणि संरेखन मान्यता*).
+- वरून: [§11](#11-certification-record) (*प्रमाणन अभिलेख आशय*); [§12](#12-transparency-auditability-and-contestability) (*अभिलेख सचोटी अपेक्षा*); [अध्याय अकरा §4](../../core_12_forum.md#4-forum-family-definitions) (*मंच-कुटुंबे आणि संरेखन मान्यता*).
 - पुढे: [§14](#14-supervisory-sequence-and-contestability-chain) (*देखरेख क्रम आणि आव्हानयोग्यता शृंखला*); [§15](#15-relationship-to-standing) (*प्रस्थिति-अभिलेख पूल*).
 - सोबत वाचा: [corpus_forum.md](../../corpus_forum.md), **CF-7** (*सचोटी रक्षक आणि संरेखन समन्वय*) आणि **CF-10** (*तांत्रिक विशेषज्ञ मंच आणि विशेषज्ञ कक्ष*).
 
@@ -249,7 +249,7 @@
 
 *सोप्या भाषेत: प्रणाली संवैधानिक संरेखन पूर्ण करते हे प्रमाणित करणे एका व्यक्तीचे किंवा एका विभागाचे काम नाही. वेगवेगळी मंच-कुटुंबे त्या कामाचा निश्चित तुकडा हाताळतात. तांत्रिक समीक्षा किंवा सचोटी समन्वयही, कोणतेही एक विशेषज्ञ ज्ञान प्रक्रिया एकटी चालवू शकत नाही.*
 
-हा विभाग **प्रणाली-संरेखन प्रमाणन** आत मंच-कुटुंब **घटक भूमिका** नेमतो — [§11](#11-certification-record) खाली वैधता, पुनर्वैधता, मागे घेणे, अमान्यता, आणि संबंधित अभिलेख. त्या भूमिका [§14](#14-supervisory-sequence-and-contestability-chain) मधील देखरेख क्रमात खाद्य देतात. पूर्ण मंच व्याख्या आणि मार्गनिर्देशन तपशील [अध्याय अकरा](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) आणि [corpus_forum.md](../../corpus_forum.md) मध्ये राहतात. येथे प्रत्येक कुटुंबाला प्रमाणन अभिलेख तयार करणे, देखरेख करणे, किंवा आव्हान देण्यात फक्त त्याची सीमाबद्ध भूमिका मिळते.
+हा विभाग **प्रणाली-संरेखन प्रमाणन** आत मंच-कुटुंब **घटक भूमिका** नेमतो — [§11](#11-certification-record) खाली वैधता, पुनर्वैधता, मागे घेणे, अमान्यता, आणि संबंधित अभिलेख. त्या भूमिका [§14](#14-supervisory-sequence-and-contestability-chain) मधील देखरेख क्रमात खाद्य देतात. पूर्ण मंच व्याख्या आणि मार्गनिर्देशन तपशील [अध्याय अकरा](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) आणि [corpus_forum.md](../../corpus_forum.md) मध्ये राहतात. येथे प्रत्येक कुटुंबाला प्रमाणन अभिलेख तयार करणे, देखरेख करणे, किंवा आव्हान देण्यात फक्त त्याची सीमाबद्ध भूमिका मिळते.
 
 - **हा विभाग काय करतो:**
   - कोणते मंच-कुटुंब प्रमाणन कामाचा कोणता तुकडा मालकीने धरते ते नाव देतो;
@@ -263,7 +263,7 @@
 - **तांत्रिक मंच** — तांत्रिक तुकडा:
   - कायदेशीर व्याप्तीत तांत्रिक तपशील, मापन पद्धती, चाचणी प्रोटोकॉल, विशेषज्ञ-पुरावा मानके, अनिश्चितता-कमी पद्धती, आणि तांत्रिक पर्याप्तता निष्कर्ष राखतात आणि लागू करतात;
   - प्रमाणन अभिलेखासाठी **घटक निष्कर्ष** पुरवतात, [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) आणि [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) खाली वर्ग-प्रमाणित आश्वासन आणि डेटा-हाताळणी पायाभूत निष्कर्ष धरून;
-  - प्रमाणन अधिकार, प्रस्थिति, किंवा संरक्षण हेतूंसाठी कोण **संज्ञ** म्हणून मोजले जाते याला भौतिक रीतीने स्पर्श करते तेव्हा [संज्ञता-स्थिती न्यायनिर्णय](core_05_band_participation.md#sentience-status-adjudication-constitutional) घटक भूमिका धरतात — निर्देशक मूल्यमापन, विशेषज्ञ पुरावा, आणि सीमाबद्ध अनिश्चितता — [अनुच्छेद V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*संज्ञता-स्थिती न्यायनिर्णय तळ*) आणि [अध्याय अकरा §4.2](../../core_11_forum.md#42-technical-forum-domains) / [§5](../../core_11_forum.md#5-escalation-and-certification) (*संज्ञता-स्थिती न्यायनिर्णय* हुक) शी सुसंगत पूर्वनिर्धारित अग्रणी म्हणून; अध्याय अकरा मागतो तेव्हा त्या हुकाखाली सचोटी, संस्थात्मक, किंवा संवैधानिक विशेष मार्गांकडे संदर्भ देतात.
+  - प्रमाणन अधिकार, प्रस्थिति, किंवा संरक्षण हेतूंसाठी कोण **संज्ञ** म्हणून मोजले जाते याला भौतिक रीतीने स्पर्श करते तेव्हा [संज्ञता-स्थिती न्यायनिर्णय](core_05_band_participation.md#sentience-status-adjudication-constitutional) घटक भूमिका धरतात — निर्देशक मूल्यमापन, विशेषज्ञ पुरावा, आणि सीमाबद्ध अनिश्चितता — [अनुच्छेद V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*संज्ञता-स्थिती न्यायनिर्णय तळ*) आणि [अध्याय अकरा §4.2](../../core_12_forum.md#42-technical-forum-domains) / [§5](../../core_12_forum.md#5-escalation-and-certification) (*संज्ञता-स्थिती न्यायनिर्णय* हुक) शी सुसंगत पूर्वनिर्धारित अग्रणी म्हणून; अध्याय अकरा मागतो तेव्हा त्या हुकाखाली सचोटी, संस्थात्मक, किंवा संवैधानिक विशेष मार्गांकडे संदर्भ देतात.
 - **सचोटी मंच** — पूर्वनिर्धारित अग्रणी समन्वय:
   - अध्याय अकरा वेगळा प्राथमिक दाव नेमत नाही तोपर्यंत अधिकृत संवैधानिक संरेखन मान्यता आणि चालू संरेखन वैधतेचे नेतृत्व करतात;
   - तांत्रिक-मंच मानके भौतिक रीतीने लागू होतात तिथे वापरतात;
@@ -297,9 +297,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: [§11](#11-certification-record) (*अभिलेख आशय*); [§12](#12-transparency-auditability-and-contestability) (*अभिलेख सचोटी अपेक्षा*); [§13](#13-forum-supervision-and-component-roles) (*घटक भूमिका नेमणुका*); समयबद्धता मापन कुटुंब (*समयबद्ध निराकरण आणि विलंब-निरोध शिस्त*); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **सहभाग**, **देखरेख**, **उत्तरदायित्व**, आणि **समयबद्धता**; [अध्याय अकरा §4](../../core_11_forum.md#4-forum-family-definitions) (*सचोटी-अग्रणी संरेखन मान्यता, घटक संदर्भ, आणि वैधता*); [अध्याय अकरा §3](../../core_11_forum.md#3-transfer-consolidation-and-coordination) (*सचोटी-अग्रणी संरेखन समन्वय आणि स्व-न्यायनिषेध*).
-- पुढे: [§15](#15-relationship-to-standing) (*सत्यापित-इनपुट द्वार*); [§16](#16-reopening-drift-and-non-evasion) (*पुनर्उघडणे चालक*); [अध्याय अकरा §5](../../core_11_forum.md#5-escalation-and-certification) (*कुटुंब-ते-कुटुंब अधिरोहण आणि संवैधानिक प्रमाणन*).
-- सोबत वाचा: अध्याय अकरा §1 खाली [विवाद क्रम](../../core_11_forum.md#dispute-sequencing); [प्रस्तावना §3.3](core_00_preamble.md#33-governance-layers); [corpus_forum.md](../../corpus_forum.md), **CF-5** आणि **CF-7**; [अनुच्छेद XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*आव्हान, समीक्षा, आणि निवारणाचा अधिकार*).
+- वरून: [§11](#11-certification-record) (*अभिलेख आशय*); [§12](#12-transparency-auditability-and-contestability) (*अभिलेख सचोटी अपेक्षा*); [§13](#13-forum-supervision-and-component-roles) (*घटक भूमिका नेमणुका*); समयबद्धता मापन कुटुंब (*समयबद्ध निराकरण आणि विलंब-निरोध शिस्त*); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **सहभाग**, **देखरेख**, **उत्तरदायित्व**, आणि **समयबद्धता**; [अध्याय अकरा §4](../../core_12_forum.md#4-forum-family-definitions) (*सचोटी-अग्रणी संरेखन मान्यता, घटक संदर्भ, आणि वैधता*); [अध्याय अकरा §3](../../core_12_forum.md#3-transfer-consolidation-and-coordination) (*सचोटी-अग्रणी संरेखन समन्वय आणि स्व-न्यायनिषेध*).
+- पुढे: [§15](#15-relationship-to-standing) (*सत्यापित-इनपुट द्वार*); [§16](#16-reopening-drift-and-non-evasion) (*पुनर्उघडणे चालक*); [अध्याय अकरा §5](../../core_12_forum.md#5-escalation-and-certification) (*कुटुंब-ते-कुटुंब अधिरोहण आणि संवैधानिक प्रमाणन*).
+- सोबत वाचा: अध्याय अकरा §1 खाली [विवाद क्रम](../../core_12_forum.md#dispute-sequencing); [प्रस्तावना §3.3](core_00_preamble.md#33-governance-layers); [corpus_forum.md](../../corpus_forum.md), **CF-5** आणि **CF-7**; [अनुच्छेद XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*आव्हान, समीक्षा, आणि निवारणाचा अधिकार*).
 
 </details>
 
@@ -315,7 +315,7 @@
 - **मागे घेणे**;
 - **अमान्यता**.
 
-हा विभाग प्रमाणन अभिलेखांसाठी संवैधानिक **देखरेख क्रम** आणि **आव्हानयोग्यता शृंखला** सांगतो. मंच-प्रक्रिया तपशील **मंच आणि अधिकारक्षेत्र** मालक स्तरावर राहतो ([अध्याय अकरा](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)); संक्रियात्मक तपशील [प्रस्तावना — संवैधानिक मालक नोंदणी](core_00_preamble.md#4-principles-definitions-and-rights) आणि [प्राधिकार ढेर आणि अंतर्गत श्रेणीक्रम](core_05_band_integrative.md#owner-non-relocation) नुसार [corpus_systems.md](../../corpus_systems.md) कडे मार्गनिर्देशित होतो. [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) खाली:
+हा विभाग प्रमाणन अभिलेखांसाठी संवैधानिक **देखरेख क्रम** आणि **आव्हानयोग्यता शृंखला** सांगतो. मंच-प्रक्रिया तपशील **मंच आणि अधिकारक्षेत्र** मालक स्तरावर राहतो ([अध्याय अकरा](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction)); संक्रियात्मक तपशील [प्रस्तावना — संवैधानिक मालक नोंदणी](core_00_preamble.md#4-principles-definitions-and-rights) आणि [प्राधिकार ढेर आणि अंतर्गत श्रेणीक्रम](core_05_band_integrative.md#owner-non-relocation) नुसार [corpus_systems.md](../../corpus_systems.md) कडे मार्गनिर्देशित होतो. [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) खाली:
 
 - देखरेख क्रम मंच-कुटुंबांमध्ये **देखरेख** आणि **उत्तरदायित्व** अंमलात आणतो;
 - आव्हानयोग्यता शृंखला **सहभाग** आणि **समयबद्धता** अंमलात आणते जेणेकरून प्रभावित संज्ञ प्राणी जीवित आवश्यक, शिक्षण, किंवा सुरक्षा द्वार करणाऱ्या प्रणालींवरील अपरिवर्तनीय अवलंबापूर्वी प्रमाणनाला आव्हान देऊ शकतील.
@@ -349,7 +349,7 @@
 
 #### 14.2 आव्हानयोग्यता शृंखला
 
-**आव्हानयोग्यता शृंखला** देखरेख क्रमाचा कायदेशीर आरसा आहे. त्याने प्रभावित पक्षांना विवाद खरे कुठे राहतो त्या स्तरावर प्रमाणन अभिलेखाला आव्हान देऊ दिले पाहिजे. अध्याय अकरा §1 खाली [विवाद क्रम](../../core_11_forum.md#dispute-sequencing) सामान्य पहिली पायरी आणि मंच मार्गनिर्देशन कधी हाती घेते ते शासित करतो. अध्याय अकरा स्थानांतर, प्रमाणन, राखीव मार्गनिर्देशन, आणि कुटुंब-ते-कुटुंब अधिरोहण हवे तेव्हा उपलब्ध राहतात — ते सुटका द्वार आहेत, सामान्य पहिली पायरी नाही.
+**आव्हानयोग्यता शृंखला** देखरेख क्रमाचा कायदेशीर आरसा आहे. त्याने प्रभावित पक्षांना विवाद खरे कुठे राहतो त्या स्तरावर प्रमाणन अभिलेखाला आव्हान देऊ दिले पाहिजे. अध्याय अकरा §1 खाली [विवाद क्रम](../../core_12_forum.md#dispute-sequencing) सामान्य पहिली पायरी आणि मंच मार्गनिर्देशन कधी हाती घेते ते शासित करतो. अध्याय अकरा स्थानांतर, प्रमाणन, राखीव मार्गनिर्देशन, आणि कुटुंब-ते-कुटुंब अधिरोहण हवे तेव्हा उपलब्ध राहतात — ते सुटका द्वार आहेत, सामान्य पहिली पायरी नाही.
 
 <a id="142-contestability-paths"></a>
 **आव्हानयोग्यता मार्ग.** प्रणाली प्रमाणन अभिलेखाने हे आव्हान मार्ग नावाने सांगितले पाहिजेत. ते प्रमाणन अभिलेखांसाठी विवाद क्रम अंमलात आणतात. ते मंच-कुटुंब नाहीत आणि अध्याय अकरा मार्गनिर्देशनाची जागा घेत नाहीत.
@@ -370,7 +370,7 @@
 
 1. **अभिलेख आव्हान** (प्रकाशित अभिलेख आव्हान मार्ग). प्रभावित पक्ष [§12](#12-transparency-auditability-and-contestability) खाली प्रमाणन-अभिलेख आशय, व्याप्ती, वर्गीकरण गृहीते, पुरावा अवलंब, निकाल, अवलंब मर्यादा, किंवा देखरेख सचोटीला आव्हान देऊ शकतात. तो मार्ग अजून वादग्रस्त, गहाळ, ताब्यात, किंवा हवे निवारण देऊ शकत नसेल, तर अध्याय अकरा प्राथमिक दावानुसार मार्गनिर्देशित करतो.
 2. **घटक आव्हान** (घटक मंच मार्ग). घटक निष्कर्षापुरते मर्यादित आव्हान त्या घटकावर गुणवत्ता प्राधिकार असलेल्या मंच-कुटुंबाकडे मार्गनिर्देशित होते. अग्रणी मंच समयी समीक्षा होईपर्यंत आव्हानित घटकावरील अवलंब [स्थगित](core_05_band_accountability.md#stay) करू शकतो.
-3. **अग्रणी-समन्वय आव्हान** (अग्रणी-सचोटी मार्ग). अग्रणी मंचाने प्रक्रिया कशी चालवली याबद्दलचे आव्हान [अध्याय अकरा](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) सचोटी आणि स्व-न्यायनिषेध नियमांखाली मार्गनिर्देशित होते. ताबा, लपविलेली माहिती, स्व-समीक्षा, दुरुपयोगी पायरी-क्रम, प्रमाणन लवकर संपले म्हणणे, किंवा इतर अग्रणी-मंच सचोटी समस्या यात येतात. आव्हान त्या अग्रणी मंचाच्या स्वतःच्या पक्षपाताला, ताब्याला, हितसंघर्षाला, किंवा प्रक्रिया दुरुपयोगाला लक्ष्य करते तेव्हा, समीक्षा त्याच अग्रणी मंचापुरती बंद पडू नये म्हणून त्या नियमांखालील राखीव मार्गनिर्देशन लागू होते.
+3. **अग्रणी-समन्वय आव्हान** (अग्रणी-सचोटी मार्ग). अग्रणी मंचाने प्रक्रिया कशी चालवली याबद्दलचे आव्हान [अध्याय अकरा](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) सचोटी आणि स्व-न्यायनिषेध नियमांखाली मार्गनिर्देशित होते. ताबा, लपविलेली माहिती, स्व-समीक्षा, दुरुपयोगी पायरी-क्रम, प्रमाणन लवकर संपले म्हणणे, किंवा इतर अग्रणी-मंच सचोटी समस्या यात येतात. आव्हान त्या अग्रणी मंचाच्या स्वतःच्या पक्षपाताला, ताब्याला, हितसंघर्षाला, किंवा प्रक्रिया दुरुपयोगाला लक्ष्य करते तेव्हा, समीक्षा त्याच अग्रणी मंचापुरती बंद पडू नये म्हणून त्या नियमांखालील राखीव मार्गनिर्देशन लागू होते.
 4. **अधिरोहण आणि प्रमाणन** (अधिरोहण मार्ग). प्राथमिक दाव, संवैधानिक वैधता, संरचनात्मक निवारण, कुटुंब गतिरोध, किंवा स्व-न्यायनिषेध रक्षण मागत असेल तिथे, आव्हान मार्गनिर्देशन अध्याय अकरा स्थानांतर, प्रमाणन, राखीव मार्गनिर्देशन, आणि कुटुंब-ते-कुटुंब अधिरोहणांतून पुढे चालते.
 5. **आव्हानादरम्यान अवलंब मर्यादा:** भौतिक आणि समयी आव्हान अपेक्षित हानी रोखण्यासाठी, पुरावा राखण्यासाठी, किंवा आव्हानित निष्कर्षावरील अपरिवर्तनीय अवलंब रोखण्यासाठी आवश्यक प्रमाणात प्रमाणन अभिलेखावरील अवलंब मर्यादित किंवा विरामित करू शकते, [अनुच्छेद XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*समयबद्ध निराकरण आणि विलंब-निरोध तळ*) खाली तातडीच्या समीक्षेच्या अधीन.
 
@@ -382,7 +382,7 @@
 
 कर्त्यांनी एक प्रमाणन लपविलेल्या उप-अभिलेखांत विभागून, आव्हाने फक्त ताब्यात असलेल्या अंतर्गत संस्थांकडे मार्गनिर्देशित करून, आव्हान फक्त सर्वात खालच्या प्रशासकीय स्तरावर संपवून, किंवा हवा घटक निष्कर्ष कधीच कायदेशीर जारी न झाला असेल तिथे घटक मौन अंतिम मंजुरी मानून देखरेख क्रम किंवा आव्हानयोग्यता शृंखला हरवू नये.
 
-मंच-देखरेखीखालील आव्हान हवे असेल तेव्हा अंतर्गत चालक समीक्षा, विक्रेता साक्ष, किंवा तांत्रिक सही त्याची जागा घेऊ शकत नाही. प्रभावित पक्षांकडे अजून [विवाद क्रम](../../core_11_forum.md#dispute-sequencing) आणि नामित [आव्हानयोग्यता मार्ग](#142-contestability-paths) खाली खरा मंच मार्ग हवा.
+मंच-देखरेखीखालील आव्हान हवे असेल तेव्हा अंतर्गत चालक समीक्षा, विक्रेता साक्ष, किंवा तांत्रिक सही त्याची जागा घेऊ शकत नाही. प्रभावित पक्षांकडे अजून [विवाद क्रम](../../core_12_forum.md#dispute-sequencing) आणि नामित [आव्हानयोग्यता मार्ग](#142-contestability-paths) खाली खरा मंच मार्ग हवा.
 
 <a id="15-relationship-to-standing"></a>
 
@@ -392,7 +392,7 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - वरून: [§11](#11-certification-record) ते [§13](#13-forum-supervision-and-component-roles) (*प्रमाणन अभिलेख आणि मंच देखरेख*); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims); [प्रस्थितिसाठी सत्यापित इनपुट](core_05_band_accountability.md#verified-inputs-for-standing).
-- पुढे: [अध्याय आठ](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*प्रस्थिति अभिलेख आणि सत्यापित-इनपुट द्वार*); [अध्याय नऊ](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*प्रस्थिति परिणाम आणि एकत्रीकरण*).
+- पुढे: [अध्याय आठ](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*प्रस्थिति अभिलेख आणि सत्यापित-इनपुट द्वार*); [अध्याय नऊ](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*प्रस्थिति परिणाम आणि एकत्रीकरण*).
 - सोबत वाचा: **अनुच्छेद III-A** (*प्रमाणन पुरवठा द्वार करते तिथे जीवित-आवश्यक प्रवेश*).
 
 </details>
@@ -450,8 +450,8 @@
 
 - प्रमाणन अभिलेख प्रस्थिति परिणाम **लागू करत नाही**;
 - हा अध्याय फक्त **प्रणाली-संरेखन प्रमाणन आणि संबंधित अभिलेख** मालकीने धरतो — [प्रस्तावना — संवैधानिक मालक नोंदणी](core_00_preamble.md#4-principles-definitions-and-rights) पहा, [प्राधिकार ढेर आणि अंतर्गत श्रेणीक्रम](core_05_band_integrative.md#authority-stack) सोबत वाचा;
-- [अध्याय आठ](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) प्रस्थिति अभिलेख आणि अक्ष-शुद्ध मापन मालकीने धरतो;
-- [अध्याय नऊ](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) प्रस्थिति एकत्रीकरण आणि परिणाम मालकीने धरतो;
+- [अध्याय आठ](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) प्रस्थिति अभिलेख आणि अक्ष-शुद्ध मापन मालकीने धरतो;
+- [अध्याय नऊ](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) प्रस्थिति एकत्रीकरण आणि परिणाम मालकीने धरतो;
 - हा अध्याय सत्यापित इनपुट फक्त वरील द्वाराद्वारे पुरवू शकतो;
 - त्याने अध्याय आठ किंवा अध्याय नऊ मालक कर्तव्ये शोषू नयेत, पुनर्उक्ती करू नये, किंवा स्थलांतरित करू नये.
 
@@ -466,7 +466,7 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - वरून: [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*चुकीचे वर्गीकरण आणि विसंरेखन*); [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*धोका-मूल्यमापन आणि धोका-प्रकटीकरण दोष*); [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) (*पदचिन्ह चुकीचे चित्रण आणि विसंरेखन*); [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) (*संसाधन-प्रवाह चुकीचे चित्रण, काढणी विसंरेखन, आणि आधार अपुरेपणा*); [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) (*भेदभाव-नमुना विसंरेखन आणि प्रतिनिधी टाळाटाळ*); [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) (*सुलभता विसंरेखन आणि फक्त-कागदी सोय*); [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) (*मूल्यमापन-अपारदर्शकता विसंरेखन, ओळखपत्र द्वार, आणि लादलेली-कालबाह्यता विसंरेखन*); [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*खोटा-विश्वास विसंरेखन, विकृत-प्रोत्साहन विसंरेखन, आणि पुनर्प्राप्ती-सचोटी विसंरेखन*); [§12](#12-transparency-auditability-and-contestability) (*आव्हानयोग्यता*); [§14](#14-supervisory-sequence-and-contestability-chain) (*विश्वासार्ह आव्हान आणि पुनर्उघडणे*); [अध्याय तीन §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) आणि [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*व्याख्या सचोटी आणि टाळाटाळ*); [अध्याय तीन §2.1 सामान्य टाळाटाळ नमुने](core_03_definition_integrity.md#21-common-evasion-patterns) (*व्याप्ती-आणि-सीमा टाळाटाळ*); [व्याप्ती-सनद](core_05_band_continuity.md#charter) (*सनद–वर्तन असंतुलन आणि उशीर झालेली समीक्षा*).
-- पुढे: [अध्याय अकरा](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*पुनर्उघडलेली मंच देखरेख*); [अध्याय आठ](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*तथ्ये प्रतिकूल निष्कर्ष आधार देतात तिथे सत्यापित-इनपुट द्वार*).
+- पुढे: [अध्याय अकरा](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*पुनर्उघडलेली मंच देखरेख*); [अध्याय आठ](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*तथ्ये प्रतिकूल निष्कर्ष आधार देतात तिथे सत्यापित-इनपुट द्वार*).
 - सोबत वाचा: [corpus_systems.md](../../corpus_systems.md) (*समाविष्ट प्रणाली अंमलबजावणी कर्तव्ये*), नियतकालिक डेटा-प्रकार पुनर्मूल्यमापनासाठी **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*पुनर्वर्गीकरण आणि जीवनचक्र शासन*), आणि प्रणाली-वर्ग पुनर्मूल्यमापन चालक व SAC सत्यापनासाठी **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*पुनर्वर्गीकरण अपेक्षा*) धरून.
 
 </details>
@@ -515,4 +515,4 @@
 
 **पुढील फाइल (या भाषेत):** [core_08_standing_assessment.md](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)
 
-**बंधनकारक मूळ:** [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md)
+**बंधनकारक मूळ:** [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md)

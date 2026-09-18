@@ -24,7 +24,7 @@
 > - **四元の地図：** 負担の割当、証拠、追跡可能性、観測可能性、および検証は、[前文](core_00_preamble.md#chapter-00-preamble--foundational-requirements)で確立された[憲法四元](core_00_preamble.md#constitutional-tetrad)の**監督**脚と**説明責任**脚を実施する；**参加**は、第 **3** 節および第 **4** 節のもとでの実務上の観測可能性と独立した異議申し立てを通じて、実質的に求められるところで。要件は[実質的利害](core_00_preamble.md#material-stake)に応じて尺度を合わせる。
 > - **憲法上の所管者：** 負担の割当、遵守証拠、定義の追跡可能性、観測可能性、および安全保障に制約された検証。**第八章**は、本章とあわせて読む軌跡記録と検証済み入力の規律を所管する。
 > - **実施の所管者：** 指名された実施ファイルにおける配備、データ取扱い、および保証の仕組みは、これらの規則と一貫したままでなければならず、コーパスがすでに、より厳しい規則の論理を提供するところでは、より厳しくてよい。
-> - **再配置禁止規則：** 本章は負担、追跡、観測可能性、安全限度、および証拠のみを統治する。第五章の定義、**第八章**の貢献または軌跡測定、または第十章の反憲法的不正行為の基準を再述しない。軌跡への検証済み不遵守の経路づけは、[第三章 §3 — 不遵守所見プロファイル](core_03_definition_integrity.md#3-non-compliance-finding-profiles)および[第八章 — 貢献、違反、軌跡モデル](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)が統治する。**第 6 節**は、第二から第四章が[第七章 — システム整合認証](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)とどう異なるかを述べる。
+> - **再配置禁止規則：** 本章は負担、追跡、観測可能性、安全限度、および証拠のみを統治する。第五章の定義、**第八章**の貢献または軌跡測定、または第十章の反憲法的不正行為の基準を再述しない。軌跡への検証済み不遵守の経路づけは、[第三章 §3 — 不遵守所見プロファイル](core_03_definition_integrity.md#3-non-compliance-finding-profiles)および[第八章 — 貢献、違反、軌跡モデル](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)が統治する。**第 6 節**は、第二から第四章が[第七章 — システム整合認証](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)とどう異なるかを述べる。
 
 </details>
 
@@ -161,7 +161,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[第四章、第 1 節から第 4 節](#1-exclusive-enforcement-and-burden-allocation)；[第二章、§1 — 目的と役割](core_02_definition_structure.md#1-purpose-and-role)；[第二章、§2 定義の誠実性要件](core_02_definition_structure.md#2-definition-integrity-requirement)；[第二章、§3 定義スタックを通じた一貫性](core_02_definition_structure.md#3-consistency-across-the-definition-stack)；[第三章、第 1 節 — 定義の誠実性と回避防止の制約](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)；[第三章、第 2 節 — 観察可能なシステム振る舞いからの不遵守](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior)；[第三章、§2.6 不確実性の誠実性と非搾取の制約](core_03_definition_integrity.md#26-uncertainty-integrity-and-non-exploitation-constraint) — 実体的な定義と不遵守の規則；**§4** は証拠層の要件のみを述べ、それらの規則を再述しない。
-- 下流：[第八章 — 貢献、違反、軌跡モデル](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)。
+- 下流：[第八章 — 貢献、違反、軌跡モデル](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)。
 - あわせて読む：[第四章、第 2 節 — 定義の追跡可能性要件](#2-definition-traceability-requirement) — 実質的に求められるいかなる**第五章**定義の呼び出しまたは正しい適用の失敗も、関連する評価、証拠、および遵守判定を全面的に無効にする；[第一章、§6 — 過程衝突の解決](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)；尺度合わせが感知者の福祉と長期地平の安定のあいだの取引に影響するところでは[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)；[第五章 安全（制約）](../../core_05_band_continuity.md#safety-constraint)、[第五章 真理（憲法上の制約）](../../core_05_band_oversight.md#truth-constitutional-constraint)、および[第五章 認識的誠実性](../../core_05_band_oversight.md#epistemic-integrity) — 経験的、予測的、または因果的主張についての科学に基づく証拠の整合。
 
 </details>
@@ -195,8 +195,8 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[第二章 — 定義の構造と構成要素の要件](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements)；[第三章 — 定義の誠実性、回避、不遵守](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)；[第四章、第 1 節から第 5 節](#1-exclusive-enforcement-and-burden-allocation)。
-- 下流：[第七章 — システム整合認証](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)；[第八章 — 貢献、違反、軌跡モデル](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)。
-- あわせて読む：[第七章 §16 — 再開、不整合、回避防止](../../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — 第二から第四章のもとでの検証済み不遵守は、以前の承認にかかわらず、認証を再開し、または打ち負かすことができる。
+- 下流：[第七章 — システム整合認証](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)；[第八章 — 貢献、違反、軌跡モデル](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)。
+- あわせて読む：[第七章 §16 — 再開、不整合、回避防止](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — 第二から第四章のもとでの検証済み不遵守は、以前の承認にかかわらず、認証を再開し、または打ち負かすことができる。
 
 </details>
 
@@ -213,7 +213,7 @@
 
 これらは、遵守が評価されるときにはいつでも適用される — 認証の有無を問わず。
 
-**[第七章 — システム整合認証](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)** は、実質的なところでフォーラム監督の**認証過程**を供給する：システム全体の評価領域、認証記録の義務、承認の帰結、再検証の周期、争訟可能性の鎖、および第八章への検証済み入力の橋。それは第二から第四章を**適用する**；それらを**再述しない**。
+**[第七章 — システム整合認証](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)** は、実質的なところでフォーラム監督の**認証過程**を供給する：システム全体の評価領域、認証記録の義務、承認の帰結、再検証の周期、争訟可能性の鎖、および第八章への検証済み入力の橋。それは第二から第四章を**適用する**；それらを**再述しない**。
 
 読者は次のように扱ってはならない：
 - **認証記録**を、第二から第四章のもとでの継続する遵守の代替として

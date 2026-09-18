@@ -6,15 +6,15 @@
 
 > نیچے کا مواد **صرف قارئین کی رہنمائی** ہے۔ یہ اس فائل یا دیگر ابواب میں پابند فرائض نہیں بڑھاتا، گھٹاتا یا تنگ کرتا۔
 >
-> یہ فائل [انگریزی باب سیزدہم](../../core_13_non_regression.md) کا **قارئین کی زبان کا پائلٹ** ہے۔ یہ شعوری آئین کا **پابند حصہ نہیں**۔ یہ **دوسرا آئین نہیں**۔ یہ **ارسال ایڈیشن نہیں**۔ یہ `SC-Corpus-2026.08.09` پر **پن** ہے۔ اگر یہ ترجمہ اور انگریزی اصل میں اختلاف نظر آئے تو نمبر والی [`core_13_non_regression.md`](../../core_13_non_regression.md) جیتتی ہے۔ پڑھنے کا ترتیب اور ایڈیشن میٹاڈیٹا [README.md](../../README.md) میں رہتے ہیں۔ طریقہ اور لغت: [translations/ur/README.md](README.md)۔
+> یہ فائل [انگریزی باب سیزدہم](../../core_14_non_regression.md) کا **قارئین کی زبان کا پائلٹ** ہے۔ یہ شعوری آئین کا **پابند حصہ نہیں**۔ یہ **دوسرا آئین نہیں**۔ یہ **ارسال ایڈیشن نہیں**۔ یہ `SC-Corpus-2026.08.09` پر **پن** ہے۔ اگر یہ ترجمہ اور انگریزی اصل میں اختلاف نظر آئے تو نمبر والی [`core_13_non_regression.md`](../../core_14_non_regression.md) جیتتی ہے۔ پڑھنے کا ترتیب اور ایڈیشن میٹاڈیٹا [README.md](../../README.md) میں رہتے ہیں۔ طریقہ اور لغت: [translations/ur/README.md](README.md)۔
 >
-> اس میں **باب سیزدہم** ہے: مضمونی عدمِ رجعت اور ترمیم کی مضمونی صحت (ٹیسٹ 1)۔ **باب چہاردہم** [`core_14_expansion_supremacy.md`](../../core_14_expansion_supremacy.md) میں ہے۔ **باب پانزدہم** [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md) میں ہے۔ ترمیم کی صحت دونوں [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) — **شگفتگی** اور **استمرار** — قائم رکھنی چاہیے، اور [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) کو [مادی داؤ](core_00_preamble.md#material-stake) تقاضوں سے نیچے کھوکھلا نہیں کرنا چاہیے۔ ابواب کی نمبرنگ اور کراس حوالے مربوط دستاویز سے میل کھاتے ہیں۔
+> اس میں **باب سیزدہم** ہے: مضمونی عدمِ رجعت اور ترمیم کی مضمونی صحت (ٹیسٹ 1)۔ **باب چہاردہم** [`core_14_expansion_supremacy.md`](../../core_15_expansion_supremacy.md) میں ہے۔ **باب پانزدہم** [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md) میں ہے۔ ترمیم کی صحت دونوں [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) — **شگفتگی** اور **استمرار** — قائم رکھنی چاہیے، اور [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) کو [مادی داؤ](core_00_preamble.md#material-stake) تقاضوں سے نیچے کھوکھلا نہیں کرنا چاہیے۔ ابواب کی نمبرنگ اور کراس حوالے مربوط دستاویز سے میل کھاتے ہیں۔
 
 
 >
 > **پچھلا (اس زبان میں):** [core_12_governance.md](core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
 >
-> **اگلا (ابھی انگریزی میں):** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+> **اگلا (ابھی انگریزی میں):** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 > **پڑھنے کا قوس:** §1 عدمِ رجعت کی تہہ → §2 ٹیسٹ 1 → §3 گریز مخالف اور حوالگی → §4 تہہ کا دائرہ
 </details>
 
@@ -37,7 +37,7 @@
 
 - بالائی: [باب یکم](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints)؛ [باب دوم تا چہارم](core_02_definition_structure.md) سالمیت اور تصدیق؛ [باب ششم](core_06_rights_part_a.md#chapter-six-foundational-rights) حقوق کی تہہ؛ [باب دوازدہم](core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) مشروعیت اور ذمہ دارانہ انتظام تقاضے۔
 - ذیلی قطعے: [§1](#1-non-regression-floor)؛ [§2](#2-test-1-substantive-non-regression-validity)؛ [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral)؛ [§4](#4-layer-scope)۔
-- زیریں: [باب چہاردہم](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) توسیع اور بالادستی؛ [باب پانزدہم](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) طریقہ کار صحت، توثیق، اور ترمیم تقاضے؛ [باب ہشتم](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) اور [باب دہم](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) مستند درجہ بندی کے لیے جہاں حوالگی محرکات رخ دیں۔
+- زیریں: [باب چہاردہم](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) توسیع اور بالادستی؛ [باب پانزدہم](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) طریقہ کار صحت، توثیق، اور ترمیم تقاضے؛ [باب ہشتم](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) اور [باب دہم](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) مستند درجہ بندی کے لیے جہاں حوالگی محرکات رخ دیں۔
 - ساتھ پڑھیں: [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) آئینی تبدیلی اور شمولیت پر **باب یازدهم تا چہاردہم** کا غیرِ عملی چکر۔
 
 </details>
@@ -96,7 +96,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: [§1](#1-non-regression-floor) عدمِ رجعت تہہ تعریف۔
-- زیریں: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) گریز اور بدسلوکی حوالگی؛ [باب پانزدہم](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) ٹیسٹ 2–4 اور طریقہ کار تقاضے (ٹیسٹ 1 ہارے تو طریقہ کار سے قطع نظر باطل)۔
+- زیریں: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) گریز اور بدسلوکی حوالگی؛ [باب پانزدہم](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) ٹیسٹ 2–4 اور طریقہ کار تقاضے (ٹیسٹ 1 ہارے تو طریقہ کار سے قطع نظر باطل)۔
 - ساتھ پڑھیں: [باب یکم](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) ناقابلِ سمجھوتہ اصولی پابندیاں؛ [باب دوازدہم](core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) مشروعیت فرائض۔
 
 </details>
@@ -157,8 +157,8 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) صرف-حوالگی ضبط؛ [باب ہشتم](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) اور [باب دہم](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) مستند مالک۔
-- زیریں: [باب پانزدہم §12](../../core_15_amendment_ratification.md#12-layer-scope) عکس شدہ طریقہ کار تہہ ضبط؛ جائزہ اجرا میکانکس کے لیے عمل درآمد متن۔
-- ساتھ پڑھیں: [اختیار کا ڈھیر اور داخلی مراتب](core_05_band_integrative.md#owner-non-relocation) اور [تمہید — مثبت مالک رجسٹر](core_00_preamble.md#4-principles-definitions-and-rights)؛ تبدیلی-راستہ اور شمولیت پر [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md)؛ صحت ٹیسٹوں کے لیے [باب پانزدہم](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) جو خانہ-درجہ بندی کی درجہ بندی نہیں دہراتے۔
+- زیریں: [باب پانزدہم §12](../../core_16_amendment_ratification.md#12-layer-scope) عکس شدہ طریقہ کار تہہ ضبط؛ جائزہ اجرا میکانکس کے لیے عمل درآمد متن۔
+- ساتھ پڑھیں: [اختیار کا ڈھیر اور داخلی مراتب](core_05_band_integrative.md#owner-non-relocation) اور [تمہید — مثبت مالک رجسٹر](core_00_preamble.md#4-principles-definitions-and-rights)؛ تبدیلی-راستہ اور شمولیت پر [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md)؛ صحت ٹیسٹوں کے لیے [باب پانزدہم](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) جو خانہ-درجہ بندی کی درجہ بندی نہیں دہراتے۔
 
 </details>
 
@@ -187,7 +187,7 @@
 > - **عمومی شراکت اور خلاف ورزی پیمائش** (شراکت محور / خلاف ورزی محور) — [core_08_standing_assessment.md](core_08_standing_assessment.md) میں **باب ہشتم**؛ **کیفیت اثرات اور انضمام** — [core_09_standing_integration.md](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) میں **باب نہم**؛
 > - **شراکت محور اور خلاف ورزی محور کے عددی خانے** — **باب ہشتم §7 متحد پیمانہ**، الگ ریکارڈ اور خلاف ورزی خانے صرف تصدیق شدہ اثر سے کنٹرول؛ اور اہل خلاف ورزی محور خانہ 7، 8، یا 9 کے لیے مماثل **آئین مخالف-بدسلوکی نامزدگی** — [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) میں **باب دہم**؛
 > - **فورم عملی کام کا بہاؤ اور فیصلہ جاتی طریقہ کار** — **باب یازدهم** اور [corpus_forum.md](../../corpus_forum.md)؛
-> - ترمیم، توثیق، اور اختیار کے لیے **طریقہ کار اور حراست صحت** — [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) میں **باب پانزدہم**؛ اور
+> - ترمیم، توثیق، اور اختیار کے لیے **طریقہ کار اور حراست صحت** — [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) میں **باب پانزدہم**؛ اور
 > - جائزہ اجرا کے لیے **تفصیلی ادارہ جاتی طریقہ کار، عملہ میکانکس، اور بینِ عمل درآمد مشترکہ ساختی انضمام** — نامزد عمل درآمد متن اور [تمہید — مثبت مالک رجسٹر](core_00_preamble.md#4-principles-definitions-and-rights) میں نامزد مالک ابواب۔
 >
 > مالک تہوں کو یوں نہیں پڑھنا چاہیے کہ وہ آئینی صحت معیار **باب سیزدہم اور پانزدہم** سے باہر، شراکت محور / خلاف ورزی محور پیمائش اختیار **باب ہشتم §7 متحد پیمانے** سے باہر، یا آئین مخالف-بدسلوکی نامزدگی اختیار **باب دہم** سے باہر منتقل کر دیں۔ باب دہم عددی خانہ تفویض نہیں کرتا۔ غیرِ عملی تعمیر چکر کے لیے دیکھیں [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md)۔
@@ -198,6 +198,6 @@
 
 **پچھلی فائل:** [core_12_governance.md](core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
 
-**اگلی فائل (ابھی انگریزی میں):** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+**اگلی فائل (ابھی انگریزی میں):** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 
-**پابند اصل:** [core_13_non_regression.md](../../core_13_non_regression.md)
+**پابند اصل:** [core_13_non_regression.md](../../core_14_non_regression.md)

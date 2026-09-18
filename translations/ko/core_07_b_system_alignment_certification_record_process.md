@@ -7,7 +7,7 @@
 
 > 다음 내용은 **독자 안내일 뿐입니다**. 이 파일이나 다른 장에서 구속력 있는 의무를 더하거나, 빼거나, 좁히지 않습니다.
 >
-> 이 파일은 [영어 제7장 B부분](../../core_07_b_system_alignment_certification_record_process.md)의 **독자 언어 시험본**입니다. 감지자 헌법의 구속력 있는 부분이 **아닙니다**. 두 번째 헌법이 **아닙니다**. 배포판이 **아닙니다**. `SC-Corpus-2026.08.09`에 **고정**되어 있습니다. 이 번역과 영어 원문이 어긋나 보이면, 번호 파일 [`core_07_b_system_alignment_certification_record_process.md`](../../core_07_b_system_alignment_certification_record_process.md)가 이깁니다. 읽기 순서와 판본 메타데이터는 [README.md](../../README.md)에 유지됩니다. 방법과 용어표: [translations/ko/README.md](README.md).
+> 이 파일은 [영어 제7장 B부분](../../core_08_b_system_alignment_certification_record_process.md)의 **독자 언어 시험본**입니다. 감지자 헌법의 구속력 있는 부분이 **아닙니다**. 두 번째 헌법이 **아닙니다**. 배포판이 **아닙니다**. `SC-Corpus-2026.08.09`에 **고정**되어 있습니다. 이 번역과 영어 원문이 어긋나 보이면, 번호 파일 [`core_07_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md)가 이깁니다. 읽기 순서와 판본 메타데이터는 [README.md](../../README.md)에 유지됩니다. 방법과 용어표: [translations/ko/README.md](README.md).
 >
 > **제7장, B부분**을 담습니다 — 인증 **기록** 내용, 투명과 다툴 수 있음, 포럼 구성 요소 역할, 감독 순서, 궤적 다리, 재개방 (**§11–§16**, A부분 §1–§10에서 이어짐). **A부분** — 평가 요건 — 은 [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md)에 있습니다.
 >
@@ -30,7 +30,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [A부분 §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*인증 목적과 평가 지도*); [A부분 §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)부터 [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation)까지 (*기록을 위한 평가 산출*); [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad); [두 헌법 목적](core_00_preamble.md#two-constitutional-aims).
-- 하류: [§11](#11-certification-record)부터 [§16](#16-reopening-drift-and-non-evasion)까지; [제8장](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction).
+- 하류: [§11](#11-certification-record)부터 [§16](#16-reopening-drift-and-non-evasion)까지; [제8장](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model); [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction).
 - 함께 읽기: [corpus_forum.md](../../corpus_forum.md), **CF-5**와 **CF-7**.
 
 </details>
@@ -392,7 +392,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [§11](#11-certification-record)부터 [§13](#13-forum-supervision-and-component-roles)까지 (*인증 기록과 포럼 감독*); [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad); [두 헌법 목적](core_00_preamble.md#two-constitutional-aims); [궤적을 위한 확인된 입력](core_05_band_accountability.md#verified-inputs-for-standing).
-- 하류: [제8장](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*궤적 기록과 확인된 입력 게이트*); [제9장](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*궤적 효과와 통합*).
+- 하류: [제8장](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*궤적 기록과 확인된 입력 게이트*); [제9장](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*궤적 효과와 통합*).
 - 함께 읽기: **제 III-A조** (*인증이 전달을 문 닫는 곳의 생존 필수 접근*).
 
 </details>
@@ -450,8 +450,8 @@
 
 - 인증 기록은 궤적 효과를 **적용하지 않습니다**;
 - 이 장은 **체계 정합 인증과 관련 기록**만 주관합니다 — [권위 스택](core_05_band_integrative.md#authority-stack)과 함께 읽는 [전문 — 원칙, 정의, 권리](core_00_preamble.md#4-principles-definitions-and-rights)를 보십시오;
-- [제8장](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)이 궤적 기록과 축 순수 측정을 주관합니다;
-- [제9장](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)이 궤적 통합과 효과를 주관합니다;
+- [제8장](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)이 궤적 기록과 축 순수 측정을 주관합니다;
+- [제9장](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)이 궤적 통합과 효과를 주관합니다;
 - 이 장은 위 게이트를 통해서만 확인된 입력을 공급할 수 있습니다;
 - 제8장 또는 제9장 주관 의무를 삼키거나, 다시 말하거나, 옮겨서는 안 됩니다.
 
@@ -466,7 +466,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*잘못된 분류와 어긋남*); [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*위험 평가와 위험 공개 결함*); [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) (*발자국 왜곡과 어긋남*); [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) (*자원 흐름 왜곡, 추출 어긋남, 지원 부족*); [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) (*차별 패턴 어긋남과 대리 회피*); [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) (*접근성 어긋남과 종이뿐인 편의*); [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) (*평가 불투명 어긋남, 자격 증명 문지기, 부과된 진부화 어긋남*); [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*거짓 신뢰 어긋남, 왜곡된 유인 어긋남, 회복 완전성 어긋남*); [§12](#12-transparency-auditability-and-contestability) (*다툴 수 있음*); [§14](#14-supervisory-sequence-and-contestability-chain) (*믿을 다툼과 재개방*); [제3장 §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)과 [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*정의 완전성과 회피*); [제3장 §2.1 흔한 회피 패턴](core_03_definition_integrity.md#21-common-evasion-patterns) (*범위와 경계 회피*); [범위 증서](core_05_band_continuity.md#charter) (*증서–행위 불일치와 기한 지난 검토*).
-- 하류: [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*재개방된 포럼 감독*); [제8장](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*사실이 불리한 소견을 받치는 곳의 확인된 입력 게이트*).
+- 하류: [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*재개방된 포럼 감독*); [제8장](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*사실이 불리한 소견을 받치는 곳의 확인된 입력 게이트*).
 - 함께 읽기: [corpus_systems.md](../../corpus_systems.md) (*편입된 체계 시행 의무*), 주기적 데이터 유형 재평가를 위한 **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*재분류와 수명주기 거버넌스*), 체계 등급 재평가 방아쇠와 SAC 확인을 위한 **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*재분류 요건*)를 포함.
 
 </details>
@@ -515,4 +515,4 @@
 
 **다음 파일(이 언어):** [core_08_standing_assessment.md](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)
 
-**구속력 있는 원문:** [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md)
+**구속력 있는 원문:** [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md)

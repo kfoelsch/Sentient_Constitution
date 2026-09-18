@@ -7,7 +7,7 @@
 
 > محتوای زیر **فقط راهنمای خواننده** است. تکالیف الزام‌آور را در این پرونده یا فصل‌های دیگر نمی‌افزاید، کم نمی‌کند و تنگ نمی‌کند.
 >
-> این پرونده **آزمایش زبان خواننده** برای [فصل هفتم، بخش ب به انگلیسی](../../core_07_b_system_alignment_certification_record_process.md) است. **بخش الزام‌آور قانون اساسی حس‌مندان نیست**. **قانون اساسی دوم نیست**. **ویرایش ارسال نیست**. روی `SC-Corpus-2026.08.09` **قفل** شده است. اگر این ترجمه و اصل انگلیسی ناسازگار به‌نظر برسند، پروندهٔ شماره‌دار [`core_07_b_system_alignment_certification_record_process.md`](../../core_07_b_system_alignment_certification_record_process.md) برنده است. ترتیب خواندن و فرادادهٔ ویرایش در [README.md](../../README.md) نگه داشته می‌شود. روش و واژه‌نامه: [translations/fa/README.md](README.md).
+> این پرونده **آزمایش زبان خواننده** برای [فصل هفتم، بخش ب به انگلیسی](../../core_08_b_system_alignment_certification_record_process.md) است. **بخش الزام‌آور قانون اساسی حس‌مندان نیست**. **قانون اساسی دوم نیست**. **ویرایش ارسال نیست**. روی `SC-Corpus-2026.08.09` **قفل** شده است. اگر این ترجمه و اصل انگلیسی ناسازگار به‌نظر برسند، پروندهٔ شماره‌دار [`core_07_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md) برنده است. ترتیب خواندن و فرادادهٔ ویرایش در [README.md](../../README.md) نگه داشته می‌شود. روش و واژه‌نامه: [translations/fa/README.md](README.md).
 >
 > **فصل هفتم، بخش ب** را در بر دارد — محتوای **سابقه** گواهی، شفافیت و قابلیت اعتراض، نقش‌های مؤلفهٔ مجمع، توالی نظارت، پل ردپا، و بازگشایی (**§11–§16**، ادامه از بخش الف §1–§10). **بخش الف** — الزامات ارزیابی — در [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md) است.
 >
@@ -30,7 +30,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: [بخش الف §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*مقصود گواهی و نقشهٔ راه ارزیابی*)؛ [بخش الف §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) تا [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*خروجی‌های ارزیابی برای سابقه*)؛ [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims).
-- پایین‌دست: [§11](#11-certification-record) تا [§16](#16-reopening-drift-and-non-evasion)؛ [فصل هشتم](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)؛ [فصل یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction).
+- پایین‌دست: [§11](#11-certification-record) تا [§16](#16-reopening-drift-and-non-evasion)؛ [فصل هشتم](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)؛ [فصل یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction).
 - خوانده شود با: [corpus_forum.md](../../corpus_forum.md)، **CF-5** و **CF-7**.
 
 </details>
@@ -392,7 +392,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: [§11](#11-certification-record) تا [§13](#13-forum-supervision-and-component-roles) (*سابقهٔ گواهی و نظارت مجمع*)؛ [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims)؛ [ورودی‌های راستی‌آزمایی‌شده برای ردپا](core_05_band_accountability.md#verified-inputs-for-standing).
-- پایین‌دست: [فصل هشتم](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*سوابق ردپا و دروازهٔ ورودی راستی‌آزمایی‌شده*)؛ [فصل نهم](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*آثار ردپا و ادغام*).
+- پایین‌دست: [فصل هشتم](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*سوابق ردپا و دروازهٔ ورودی راستی‌آزمایی‌شده*)؛ [فصل نهم](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*آثار ردپا و ادغام*).
 - خوانده شود با: **اصل III-A** (*دسترسی ضروری بقا جایی که گواهی تحویل را دروازه می‌کند*).
 
 </details>
@@ -450,8 +450,8 @@
 
 - سابقهٔ گواهی آثار ردپا را **اعمال نمی‌کند**؛
 - این فصل فقط **گواهی هم‌راستایی نظام و سوابق وابسته** را مالک است — ببینید [دیباچه — فهرست مثبت مالکان](core_00_preamble.md#4-principles-definitions-and-rights)، خوانده با [پشتهٔ اختیار و سلسله‌مراتب درونی](core_05_band_integrative.md#authority-stack)؛
-- [فصل هشتم](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) سوابق ردپا و اندازه‌گیری خالص‌محور را مالک است؛
-- [فصل نهم](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) ادغام ردپا و آثار را مالک است؛
+- [فصل هشتم](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) سوابق ردپا و اندازه‌گیری خالص‌محور را مالک است؛
+- [فصل نهم](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) ادغام ردپا و آثار را مالک است؛
 - این فصل فقط از راه دروازهٔ بالا می‌تواند ورودی راستی‌آزمایی‌شده بدهد؛
 - نباید تکالیف مالک فصل هشتم یا فصل نهم را ببلعد، بازبیان کند، یا جابه‌جا کند.
 
@@ -466,7 +466,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*طبقه‌بندی نادرست و ناهم‌راستایی*)؛ [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*نقص‌های ارزیابی خطر و افشای خطر*)؛ [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) (*بازنمایی نادرست ردپا و ناهم‌راستایی*)؛ [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) (*بازنمایی نادرست جریان منابع، ناهم‌راستایی استخراج، و ناکافی بودن پشتیبانی*)؛ [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) (*ناهم‌راستایی الگوی تبعیض و گریز با شاخص جانشین*)؛ [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) (*ناهم‌راستایی دسترس‌پذیری و تطبیق فقط‌کاغذی*)؛ [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) (*ناهم‌راستایی تیرگی سنجش، دروازه‌بانی اعتبارنامه، و ناهم‌راستایی کهنگی تحمیلی*)؛ [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*ناهم‌راستایی اعتماد کاذب، ناهم‌راستایی انگیزهٔ کژ، و ناهم‌راستایی یکپارچگی بازیابی*)؛ [§12](#12-transparency-auditability-and-contestability) (*قابلیت اعتراض*)؛ [§14](#14-supervisory-sequence-and-contestability-chain) (*اعتراض معتبر و بازگشایی*)؛ [فصل سوم §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) و [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*یکپارچگی تعریف و گریز*)؛ [فصل سوم §2.1 الگوهای رایج گریز](core_03_definition_integrity.md#21-common-evasion-patterns) (*گریز گستره-و-مرز*)؛ [منشور](core_05_band_continuity.md#charter) (*ناسازگاری منشور–رفتار و بازبینی دیرهنگام*).
-- پایین‌دست: [فصل یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*نظارت مجمع بازگشوده*)؛ [فصل هشتم](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*دروازهٔ ورودی راستی‌آزمایی‌شده جایی که واقعیت‌ها یافته‌های نامساعد را پشتیبانی می‌کنند*).
+- پایین‌دست: [فصل یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*نظارت مجمع بازگشوده*)؛ [فصل هشتم](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*دروازهٔ ورودی راستی‌آزمایی‌شده جایی که واقعیت‌ها یافته‌های نامساعد را پشتیبانی می‌کنند*).
 - خوانده شود با: [corpus_systems.md](../../corpus_systems.md) (*تکالیف پیاده‌سازی نظام ادغام‌شده*)، از جمله **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*طبقه‌بندی مجدد و حکمرانی چرخهٔ عمر*) برای ارزیابی مجدد دوره‌ای نوع داده، و **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*الزام طبقه‌بندی مجدد*) برای ماشه‌های ارزیابی مجدد طبقهٔ نظام و راستی‌آزمایی SAC.
 
 </details>
@@ -515,4 +515,4 @@
 
 **پروندهٔ بعدی (این زبان):** [core_08_standing_assessment.md](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)
 
-**اصل الزام‌آور:** [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md)
+**اصل الزام‌آور:** [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md)

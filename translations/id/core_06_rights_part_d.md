@@ -12,7 +12,7 @@
 >
 > **Sebelumnya (bahasa ini):** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 >
-> **Berikutnya (masih bahasa Inggris):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+> **Berikutnya (masih bahasa Inggris):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 > **Alur baca:** Pasal XXIII–XXVI (keadilan dan darurat, evolusi konstitusional, transisi, dan penetapan-ulang garis dasar)
 
 </details>
@@ -79,7 +79,7 @@ Implementasi tata kelola yang diadopsi menyediakan eskalasi, proporsionalitas in
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hulu: Prinsip: Bab Satu [§3.1 Keselamatan](core_01_a_values_principles.md#31-safety-harm-constraint), [Bab Satu §6.1.5 disiplin catatan keputusan](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [Bab Satu §9.6 Proses Anti-Degradasi](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline), dan [§15 Penerapan Terpadu](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- Hilir: [Bab Sembilan §4](../../core_09_standing_integration.md#4-violation-correction-and-prevention) (*Pelanggaran, koreksi, dan pencegahan*); [Pasal XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Pasal XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule).
+- Hilir: [Bab Sembilan §4](../../core_10_standing_integration.md#4-violation-correction-and-prevention) (*Pelanggaran, koreksi, dan pencegahan*); [Pasal XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Pasal XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule).
 - Baca bersama: [Kekejaman](core_05_band_accountability.md#cruelty) (*rumah Bab Lima bagi standar penderitaan-sebagai-tujuan lantai anti-kekejaman*).
 
 </details>
@@ -329,7 +329,7 @@ Pasal ini menerapkan [Tetrad Konstitusional](core_00_preamble.md#constitutional-
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hulu: Prinsip: Bab Satu [§6.1.5 disiplin catatan keputusan](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [§7 Larangan Penimpaan Mutlak](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override), dan [§15 Penerapan Terpadu](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- Baca bersama: [Bab Sembilan §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Ungkapan pertanggungjawaban publik sukarela*); [Bab Sepuluh §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Ungkapan pertanggungjawaban publik sukarela (anti-konstitusi)*).
+- Baca bersama: [Bab Sembilan §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*Ungkapan pertanggungjawaban publik sukarela*); [Bab Sepuluh §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Ungkapan pertanggungjawaban publik sukarela (anti-konstitusi)*).
 
 </details>
 
@@ -358,7 +358,7 @@ Pasal ini menerapkan [Tetrad Konstitusional](core_00_preamble.md#constitutional-
     - risiko yang sedang berjalan;
     - asimetri kuasa material;
     - ketidaksetujuan pihak terdampak.
-- **Ungkapan pertanggungjawaban publik sukarela:** Diatur oleh [Bab Sembilan §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Ungkapan pertanggungjawaban publik sukarela*) secara umum, dan oleh [Bab Sepuluh §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Ungkapan pertanggungjawaban publik sukarela (anti-konstitusi)*) bagi salah laku anti-konstitusi terverifikasi, tunduk pada aturan tabrakan hak dan keselarasan restoratif dalam pasal ini.
+- **Ungkapan pertanggungjawaban publik sukarela:** Diatur oleh [Bab Sembilan §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*Ungkapan pertanggungjawaban publik sukarela*) secara umum, dan oleh [Bab Sepuluh §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Ungkapan pertanggungjawaban publik sukarela (anti-konstitusi)*) bagi salah laku anti-konstitusi terverifikasi, tunduk pada aturan tabrakan hak dan keselarasan restoratif dalam pasal ini.
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### Pasal XXIV-C: Penyelesaian tepat waktu dan lantai anti-tunda
 <details>
@@ -394,7 +394,7 @@ Pasal ini menerapkan [Tetrad Konstitusional](core_00_preamble.md#constitutional-
 - **Tiga persyaratan bersama:** Jalur penyelesaian material harus **tepat waktu**, **efisien**, dan **adil** sekaligus:
   - **Tepat waktu** — jam berbatas yang diskalakan ke [taruhan material](core_00_preamble.md#material-stake) dan urgensi bahaya;
   - **Efisien** — [Efisiensi konstitusional](core_05_band_continuity.md#constitutional-efficiency) dalam arti Bab Satu [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) — hasil konstitusional nyata per waktu makhluk sadar dan usaha bersama yang dikonsumsi, bukan throughput mentah atau pengosongan daftar perkara;
-  - **Adil** — **Pasal XXIII-A** (*Tujuan dan Lingkup Keadilan*), **Pasal XXIII-B** (*Pembatasan Non-Trivial, Restitusi, dan Batasan Pertanggungjawaban Restoratif*), dan **Pasal XXIII-C** (*Aturan Paling Longgar dan Berbatas Waktu*) tetap berlaku penuh; bergerak cepat bukan alasan untuk melewatkan fakta yang diperiksa ([Bab Delapan §3.1](../../core_08_standing_assessment.md#verified-inputs-for-standing)), menghukum pihak yang salah, menawarkan perbaikan yang tidak cocok dengan bahaya, atau memotong gugatan dan banding.
+  - **Adil** — **Pasal XXIII-A** (*Tujuan dan Lingkup Keadilan*), **Pasal XXIII-B** (*Pembatasan Non-Trivial, Restitusi, dan Batasan Pertanggungjawaban Restoratif*), dan **Pasal XXIII-C** (*Aturan Paling Longgar dan Berbatas Waktu*) tetap berlaku penuh; bergerak cepat bukan alasan untuk melewatkan fakta yang diperiksa ([Bab Delapan §3.1](../../core_09_standing_assessment.md#verified-inputs-for-standing)), menghukum pihak yang salah, menawarkan perbaikan yang tidak cocok dengan bahaya, atau memotong gugatan dan banding.
 - **Pengawasan forum dan rantai:** Yang berikut, bagi sengketa yang dirutekan melalui **Bab Delapan sampai Sebelas**, diatur oleh [Bab Sebelas §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), tunduk pada lantai tepat waktu, efisien, dan adil pasal ini:
   - klasifikasi tingkat materialitas;
   - tonggak tahap rantai;
@@ -431,7 +431,7 @@ Aturan tata kelola, mekanisme partisipasi, model penimbangan, dan struktur penda
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: [Bab Satu §10.3 Justifikasi Berkelanjutan](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification); Bab Satu [§2 Tujuan Dasar: Kesejahteraan](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Bab Tujuh §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), dan [§7 Larangan Penimpaan Mutlak](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- Hulu: Prinsip: [Bab Satu §10.3 Justifikasi Berkelanjutan](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification); Bab Satu [§2 Tujuan Dasar: Kesejahteraan](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Bab Tujuh §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), dan [§7 Larangan Penimpaan Mutlak](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 
 </details>
 
@@ -461,7 +461,7 @@ Aturan tata kelola, mekanisme partisipasi, model penimbangan, dan struktur penda
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§3.2 Kebenaran](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Bab Tujuh §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), dan [§7 Larangan Penimpaan Mutlak](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- Hulu: Prinsip: Bab Satu [§3.2 Kebenaran](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Bab Tujuh §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), dan [§7 Larangan Penimpaan Mutlak](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 
 </details>
 
@@ -517,7 +517,7 @@ Tata kelola transisional ada untuk mengamankan Kesinambungan dan non-regresi. Ia
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§3.1 Keselamatan](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Prinsip Tukar-Guling Inti](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), dan [Bab Tujuh §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Bab Sembilan §5.4](../../core_09_standing_integration.md#54-special-violation-rules) (*perampasan imbalan tidak selaras dan kewajiban laporan dibatasi selama transisi oleh pasal ini*); [Bab Tujuh — Sertifikasi Keselarasan Sistem](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification).
+- Hulu: Prinsip: Bab Satu [§3.1 Keselamatan](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Prinsip Tukar-Guling Inti](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), dan [Bab Tujuh §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Bab Sembilan §5.4](../../core_10_standing_integration.md#54-special-violation-rules) (*perampasan imbalan tidak selaras dan kewajiban laporan dibatasi selama transisi oleh pasal ini*); [Bab Tujuh — Sertifikasi Keselarasan Sistem](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -554,7 +554,7 @@ Tata kelola transisional ada untuk mengamankan Kesinambungan dan non-regresi. Ia
   
   Depresiasi, penarikan, pembalikan, migrasi, atau penggantian memenuhi butir ini dengan mengarsipkan komponen pembawa-keadaan di bawah **Pelestarian Bukti** dan disiplin non-pemisahan **Pasal VII-D** (*Keluarga, Hubungan Perawatan, Otonomi Reproduktif, dan Non-Pemisahan*). Ini adalah [postur sementara bawaan Bab Satu §6.1](core_01_b_interaction_interpretation.md#default-interim-posture) — bekukan langkah yang tidak dapat dibalik — diterapkan pada satu-satunya langkah tidak-dapat-dibalik yang operasi warisan perlakukan sebagai rutin. Biaya penyimpanan, kenyamanan lisensi, atau bingkai siklus produk tidak memenuhi **Keperluan** menentangnya. Di mana retensi itu sendiri menciptakan risiko Keselamatan yang terdokumentasi, ukuran kompatibel paling longgar adalah kustodi tersegel di bawah kendali independen, bukan penghancuran.
 <a id="incentive-alignment-transition-carve-out"></a>
-- **Pengecualian transisi keselarasan insentif:** Selama fase transisi yang disetujui di bawah **Pasal XXVI** (*Tata Kelola Transisi, Kesinambungan, dan Penetapan-ulang Garis Dasar*), baca bersama [Bab Tujuh — Sertifikasi Keselarasan Sistem](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification). [Bab Sembilan §5.4 Kewajiban laporan dan pengecualian](../../core_09_standing_integration.md#54-special-violation-rules) dan [§5.4 Perampasan dan penahanan](../../core_09_standing_integration.md#54-special-violation-rules) **tidak** berlaku bagi imbalan yang mengalir melalui sistem bersama semata karena sistem itu **belum tersertifikasi keselarasan** atau **belum sepenuhnya selaras**, asalkan:
+- **Pengecualian transisi keselarasan insentif:** Selama fase transisi yang disetujui di bawah **Pasal XXVI** (*Tata Kelola Transisi, Kesinambungan, dan Penetapan-ulang Garis Dasar*), baca bersama [Bab Tujuh — Sertifikasi Keselarasan Sistem](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification). [Bab Sembilan §5.4 Kewajiban laporan dan pengecualian](../../core_10_standing_integration.md#54-special-violation-rules) dan [§5.4 Perampasan dan penahanan](../../core_10_standing_integration.md#54-special-violation-rules) **tidak** berlaku bagi imbalan yang mengalir melalui sistem bersama semata karena sistem itu **belum tersertifikasi keselarasan** atau **belum sepenuhnya selaras**, asalkan:
   - operasi tetap di dalam **rencana transisi terdokumentasi** dan kriteria gerbang yang diterbitkan di bawah **Pasal XXVI** (*Tata Kelola Transisi, Kesinambungan, dan Penetapan-ulang Garis Dasar*);
   - sistem maju menuju [Sertifikasi Keselarasan Sistem](core_05_band_continuity.md#system-alignment-certification-constitutional) pada irama yang diterbitkan, termasuk **pengakuan bersyarat** atau **tertunda** di mana Bab Tujuh mengizinkan; dan
   - operator dan penerima manfaat tidak **sengaja menyembunyikan** ketidakselarasan, beroperasi di luar lingkup transisi yang disetujui, atau memakai status transisi untuk mengelak sertifikasi, koreksi, atau pelaporan dilindungi.
@@ -600,7 +600,7 @@ Tata kelola transisional ada untuk mengamankan Kesinambungan dan non-regresi. Ia
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hulu: Prinsip: Bab Satu [§3.1 Keselamatan](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Prinsip Tukar-Guling Inti](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), dan [§15 Penerapan Terpadu](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- Baca bersama: [Bab Tujuh](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*sertifikasi keselarasan sistem*); [Bab Delapan sampai Sebelas](../../README.md#standing-pipeline-and-forums) (*rantai jejak dan pengawasan forum*).
+- Baca bersama: [Bab Tujuh](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*sertifikasi keselarasan sistem*); [Bab Delapan sampai Sebelas](../../README.md#standing-pipeline-and-forums) (*rantai jejak dan pengawasan forum*).
 
 </details>
 
@@ -624,7 +624,7 @@ Tata kelola transisional ada untuk mengamankan Kesinambungan dan non-regresi. Ia
   Jalur cadangan yang sudah ditetapkan, kriteria pembalikan sebagian, dan prosedur penetapan-ulang garis dasar diatur oleh [**CI-14**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*Tata kelola transisional dan evolusi kelembagaan*).
   - Keadaan transisional yang gagal atau terdegradasi tidak boleh menjadi garis dasar baru semata karena bertahan.
 - **Penetapan-ulang garis dasar material:** Penetapan-ulang garis dasar material memperbarui tonggak transisi, asumsi risiko, kepemilikan, dan rencana operasi ketika gerbang gagal atau transisi mandek. Ia menuntut wewenang yang sah secara konstitusional dan alasan publik terdokumentasi. Ia harus melestarikan **minimum Lantai Hak** dan tidak boleh menggantikan aturan untuk mengubah Konstitusi ini secara sah.
-- **Prasyarat kesehatan verifikasi:** Menetapkan-ulang atau melanjutkan pada garis dasar transisi yang direvisi adalah tidak patuh di mana [Sertifikasi Keselarasan Sistem](core_05_band_continuity.md#system-alignment-certification-constitutional) di bawah [Bab Tujuh](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) atau rantai jejak di bawah [Bab Delapan sampai Sebelas](../../README.md#standing-pipeline-and-forums) secara struktural tidak andal — misalnya, di mana sertifikasi secara rutin memberkati sistem yang secara material mengalahkan Lantai Hak, pengukuran jejak secara rutin menyimpang dari realitas material terverifikasi, atau jalur gugatan dan tinjauan tidak dapat mengoreksi celah itu dalam waktu yang diskalakan-materialitas. Dalam kondisi itu, perbaikan mesin verifikasi dan pengukuran didahulukan atas perencana-ulang kosmetik.
+- **Prasyarat kesehatan verifikasi:** Menetapkan-ulang atau melanjutkan pada garis dasar transisi yang direvisi adalah tidak patuh di mana [Sertifikasi Keselarasan Sistem](core_05_band_continuity.md#system-alignment-certification-constitutional) di bawah [Bab Tujuh](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) atau rantai jejak di bawah [Bab Delapan sampai Sebelas](../../README.md#standing-pipeline-and-forums) secara struktural tidak andal — misalnya, di mana sertifikasi secara rutin memberkati sistem yang secara material mengalahkan Lantai Hak, pengukuran jejak secara rutin menyimpang dari realitas material terverifikasi, atau jalur gugatan dan tinjauan tidak dapat mengoreksi celah itu dalam waktu yang diskalakan-materialitas. Dalam kondisi itu, perbaikan mesin verifikasi dan pengukuran didahulukan atas perencana-ulang kosmetik.
 - **Ketertelusuran publik:** Keputusan transisi material, tunda, pembalikan, dan penentuan penetapan-ulang garis dasar harus tetap dapat diaudit dengan rasional dan implikasi risiko.
   - Dokumentasi tetap tunduk pada batasan kerahasiaan yang sempit dan beralasan.
   - Ia harus melestarikan penjelasan publik yang cukup untuk menilai apakah tunda, pembalikan, atau kelanjutan berjustifikasi secara konstitusional.
@@ -635,7 +635,7 @@ Tata kelola transisional ada untuk mengamankan Kesinambungan dan non-regresi. Ia
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§3.1 Keselamatan](core_01_a_values_principles.md#31-safety-harm-constraint), [Bab Satu §6.1.5 disiplin catatan keputusan](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), dan [Bab Tujuh §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Hulu: Prinsip: Bab Satu [§3.1 Keselamatan](core_01_a_values_principles.md#31-safety-harm-constraint), [Bab Satu §6.1.5 disiplin catatan keputusan](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), dan [Bab Tujuh §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Baca bersama: **Pasal III-A** (*Kelangsungan Hidup*); **Pasal XII** (*Hak atas Sistem yang Andal dan Terpercaya*); **Pasal X-B** (*Batas Bahaya Kolektif dan Antarmuka Penegakan*); **Bab Delapan**; **Bab Satu**, termasuk prosedur tabrakan hak §6; **tumpukan batasan bawaan** di pembukaan Bab Enam (*antarmuka kepemilikan dan remediasi*); [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) sampai **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*Tata kelola transisional dan evolusi kelembagaan*).
 
 </details>
@@ -653,7 +653,7 @@ Tata kelola transisional ada untuk mengamankan Kesinambungan dan non-regresi. Ia
 
 *Dalam bahasa sederhana: sistem dan properti tidak patuh dapat diremediasi selama transisi — tetapi hanya melalui proses yang sempit, terdokumentasi, dan dapat ditinjau yang melindungi hak dasar, menghalangi dalih, dan tidak menjadi pembalasan atau penargetan politik. Bagaimana lembaga menjalankannya — peran, pemicu, kustodi, banding, dana, dan mekanika insentif — hidup di **CI-14.1** sampai **CI-14.3**; pasal ini menyatakan lantai konstitusional yang prosedur itu tidak boleh persempit.*
 
-- **Lantai kepemilikan:** Jika Anda secara sah memiliki atau memakai sesuatu, transisi tidak dapat mengambilnya semata karena kehendak. Tetapi kepemilikan bukan perisai ketika membiarkan aset itu terus beroperasi secara jelas menjaga pelanggaran konstitusional yang diketahui dan berskala besar tetap berjalan — setelah [Bab Delapan](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) mendokumentasikan pelanggaran di catatan. Dalam hal itu, transisi masih boleh bertindak untuk menghentikan bahaya, tetapi hanya melalui pagar pengaman dalam pasal ini dan **CI-14.1** sampai **CI-14.3**.
+- **Lantai kepemilikan:** Jika Anda secara sah memiliki atau memakai sesuatu, transisi tidak dapat mengambilnya semata karena kehendak. Tetapi kepemilikan bukan perisai ketika membiarkan aset itu terus beroperasi secara jelas menjaga pelanggaran konstitusional yang diketahui dan berskala besar tetap berjalan — setelah [Bab Delapan](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) mendokumentasikan pelanggaran di catatan. Dalam hal itu, transisi masih boleh bertindak untuk menghentikan bahaya, tetapi hanya melalui pagar pengaman dalam pasal ini dan **CI-14.1** sampai **CI-14.3**.
 - **Remediasi berlingkup transisi:** **Rencana transisi terdokumentasi** di bawah **Pasal XXVI-A** (*Adopsi Bertahap dan Kesinambungan Lantai Hak*) boleh mengizinkan remediasi dipercepat atas sistem atau properti **yang secara material tidak patuh** hanya selama transisi. Lingkup operatif, ukuran yang diizinkan, dan prosedur kelembagaan diatur oleh [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) sampai **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*Tata kelola transisional dan evolusi kelembagaan*), dibaca bersama **CJS-3.6** (*rantai kendali kustodi properti dan pemisahan insentif*) dan **Pasal XII-E** (*Sistem Otonomi Tinggi dan Integritas Proses yang Dimediasi Alat*) di mana berlaku.
 - **Pagar pengaman yang dituntut:** Setiap program pencabutan atau insentif berlingkup transisi harus memenuhi:
   - [**Prinsip Batasan Paling Longgar, Berbatas Waktu, dan Dapat Ditinjau**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle), dengan **Keperluan** dan **Proporsionalitas** yang dapat ditunjukkan;
@@ -674,6 +674,6 @@ Tata kelola transisional ada untuk mengamankan Kesinambungan dan non-regresi. Ia
 
 **Berkas sebelumnya:** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 
-**Berkas berikutnya (masih bahasa Inggris):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+**Berkas berikutnya (masih bahasa Inggris):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 
 **Sumber mengikat:** [core_06_rights_part_d.md](../../core_06_rights_part_d.md)

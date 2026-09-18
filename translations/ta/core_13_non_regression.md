@@ -6,15 +6,15 @@
 
 > கீழே உள்ள உள்ளடக்கம் **வாசிப்பவருக்கான வழிகாட்டல் மட்டும்**. இது இந்தக் கோப்பிலோ பிற அத்தியாயங்களிலோ பிணைக்கும் கடமைகளைச் சேர்க்கவோ, குறைக்கவோ, சுருக்கவோ செய்யாது.
 >
-> இந்தக் கோப்பு [ஆங்கில அத்தியாயம் பதின்மூன்றின்](../../core_13_non_regression.md) **வாசிப்பு-மொழி முன்னோடி**. இது உணர்வுள்ளோர் அரசியலமைப்பின் **பிணைக்கும் பகுதி அல்ல**. இது **இரண்டாவது அரசியலமைப்பு அல்ல**. இது **அனுப்பும் பதிப்பு அல்ல**. இது `SC-Corpus-2026.08.09`-இல் **பொருத்தப்பட்டுள்ளது**. இந்த மொழிபெயர்ப்பும் ஆங்கில மூலமும் முரண்படுவதாகத் தோன்றினால், எண்ணிடப்பட்ட [`core_13_non_regression.md`](../../core_13_non_regression.md) வெல்லும். வாசிப்பு வரிசையும் பதிப்பு மீத்தரவும் [README.md](../../README.md)-இல் பேணப்படுகின்றன. முறையும் சொற்களஞ்சியமும்: [translations/ta/README.md](README.md).
+> இந்தக் கோப்பு [ஆங்கில அத்தியாயம் பதின்மூன்றின்](../../core_14_non_regression.md) **வாசிப்பு-மொழி முன்னோடி**. இது உணர்வுள்ளோர் அரசியலமைப்பின் **பிணைக்கும் பகுதி அல்ல**. இது **இரண்டாவது அரசியலமைப்பு அல்ல**. இது **அனுப்பும் பதிப்பு அல்ல**. இது `SC-Corpus-2026.08.09`-இல் **பொருத்தப்பட்டுள்ளது**. இந்த மொழிபெயர்ப்பும் ஆங்கில மூலமும் முரண்படுவதாகத் தோன்றினால், எண்ணிடப்பட்ட [`core_13_non_regression.md`](../../core_14_non_regression.md) வெல்லும். வாசிப்பு வரிசையும் பதிப்பு மீத்தரவும் [README.md](../../README.md)-இல் பேணப்படுகின்றன. முறையும் சொற்களஞ்சியமும்: [translations/ta/README.md](README.md).
 >
-> இது **அத்தியாயம் பதின்மூன்றை** கொண்டுள்ளது: உள்ளடக்கப் பின்னடைவு இன்மையும் உள்ளடக்கத் திருத்தச் செல்லுபடியும் (சோதனை 1). **அத்தியாயம் பதினான்கு** [`core_14_expansion_supremacy.md`](../../core_14_expansion_supremacy.md)-இல் உள்ளது. **அத்தியாயம் பதினைந்து** [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md)-இல் உள்ளது. திருத்தச் செல்லுபடி [இரண்டு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims) — **செழிப்பு** மற்றும் **தொடர்ச்சி** — இரண்டையும் பேண வேண்டும், [அரசியலமைப்பு நான்மத்தை](core_00_preamble.md#constitutional-tetrad) [பொருள் பங்கு](core_00_preamble.md#material-stake) தேவைகளுக்குக் கீழே வெறுமையாக்கக் கூடாது. அத்தியாய எண்ணிடலும் குறுக்குச் சுட்டுகளும் ஒருங்கிணைந்த ஆவணத்துடன் பொருந்துகின்றன.
+> இது **அத்தியாயம் பதின்மூன்றை** கொண்டுள்ளது: உள்ளடக்கப் பின்னடைவு இன்மையும் உள்ளடக்கத் திருத்தச் செல்லுபடியும் (சோதனை 1). **அத்தியாயம் பதினான்கு** [`core_14_expansion_supremacy.md`](../../core_15_expansion_supremacy.md)-இல் உள்ளது. **அத்தியாயம் பதினைந்து** [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md)-இல் உள்ளது. திருத்தச் செல்லுபடி [இரண்டு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims) — **செழிப்பு** மற்றும் **தொடர்ச்சி** — இரண்டையும் பேண வேண்டும், [அரசியலமைப்பு நான்மத்தை](core_00_preamble.md#constitutional-tetrad) [பொருள் பங்கு](core_00_preamble.md#material-stake) தேவைகளுக்குக் கீழே வெறுமையாக்கக் கூடாது. அத்தியாய எண்ணிடலும் குறுக்குச் சுட்டுகளும் ஒருங்கிணைந்த ஆவணத்துடன் பொருந்துகின்றன.
 
 
 >
-> **முந்தையது (இன்னும் ஆங்கிலத்தில்):** [core_12_governance.md](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
+> **முந்தையது (இன்னும் ஆங்கிலத்தில்):** [core_12_governance.md](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)
 >
-> **அடுத்தது (இன்னும் ஆங்கிலத்தில்):** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+> **அடுத்தது (இன்னும் ஆங்கிலத்தில்):** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 > **வாசிப்பு வளைவு:** §1 பின்னடைவு இன்மைத் தளம் → §2 சோதனை 1 → §3 தவிர்ப்பு-எதிர்ப்பும் பரிந்துரையும் → §4 அடுக்கு எல்லை
 </details>
 
@@ -35,9 +35,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்வழி: [அத்தியாயம் ஒன்று](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [அத்தியாயங்கள் இரண்டு முதல் நான்கு](core_02_definition_structure.md) முழுமையும் சரிபார்ப்பும்; [அத்தியாயம் ஆறு](core_06_rights_part_a.md#chapter-six-foundational-rights) உரிமைத் தளம்; [அத்தியாயம் பன்னிரண்டு](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) சட்டபூர்வத்தன்மை மற்றும் பொறுப்பான நிர்வாகத் தேவைகள்.
+- மேல்வழி: [அத்தியாயம் ஒன்று](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [அத்தியாயங்கள் இரண்டு முதல் நான்கு](core_02_definition_structure.md) முழுமையும் சரிபார்ப்பும்; [அத்தியாயம் ஆறு](core_06_rights_part_a.md#chapter-six-foundational-rights) உரிமைத் தளம்; [அத்தியாயம் பன்னிரண்டு](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) சட்டபூர்வத்தன்மை மற்றும் பொறுப்பான நிர்வாகத் தேவைகள்.
 - துணைப்பிரிவுகள்: [§1](#1-non-regression-floor); [§2](#2-test-1-substantive-non-regression-validity); [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral); [§4](#4-layer-scope).
-- கீழ்வழி: [அத்தியாயம் பதினான்கு](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) விரிவாக்கமும் மேலாண்மையும்; [அத்தியாயம் பதினைந்து](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) நடைமுறைச் செல்லுபடி, உறுதிப்படுத்தல், திருத்தத் தேவைகள்; பரிந்துரைத் தூண்டல்கள் வழிமாற்றும் இடத்தில் நியம வகைப்பாட்டுக்கு [அத்தியாயம் எட்டு](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) மற்றும் [அத்தியாயம் பத்து](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct).
+- கீழ்வழி: [அத்தியாயம் பதினான்கு](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) விரிவாக்கமும் மேலாண்மையும்; [அத்தியாயம் பதினைந்து](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) நடைமுறைச் செல்லுபடி, உறுதிப்படுத்தல், திருத்தத் தேவைகள்; பரிந்துரைத் தூண்டல்கள் வழிமாற்றும் இடத்தில் நியம வகைப்பாட்டுக்கு [அத்தியாயம் எட்டு](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) மற்றும் [அத்தியாயம் பத்து](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct).
 - இதனுடன் படிக்க: [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) அரசியலமைப்பு மாற்றம் மற்றும் இணைப்பு குறித்த **அத்தியாயங்கள் பதினொன்று முதல் பதினான்கு** செயல்படாத நடை.
 
 </details>
@@ -96,8 +96,8 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - மேல்வழி: [§1](#1-non-regression-floor) பின்னடைவு இன்மைத் தள வரையறை.
-- கீழ்வழி: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) தவிர்ப்பும் தவறான நடத்தைப் பரிந்துரையும்; [அத்தியாயம் பதினைந்து](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) சோதனைகள் 2–4 மற்றும் நடைமுறைத் தேவைகள் (சோதனை 1 தோற்றால் நடைமுறையைப் பொருட்படுத்தாமல் செல்லாது).
-- இதனுடன் படிக்க: [அத்தியாயம் ஒன்று](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) பேச்சுவார்த்தைக்கு உட்படாத கோட்பாட்டுக் கட்டுப்பாடுகள்; [அத்தியாயம் பன்னிரண்டு](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) சட்டபூர்வக் கடமைகள்.
+- கீழ்வழி: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) தவிர்ப்பும் தவறான நடத்தைப் பரிந்துரையும்; [அத்தியாயம் பதினைந்து](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) சோதனைகள் 2–4 மற்றும் நடைமுறைத் தேவைகள் (சோதனை 1 தோற்றால் நடைமுறையைப் பொருட்படுத்தாமல் செல்லாது).
+- இதனுடன் படிக்க: [அத்தியாயம் ஒன்று](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) பேச்சுவார்த்தைக்கு உட்படாத கோட்பாட்டுக் கட்டுப்பாடுகள்; [அத்தியாயம் பன்னிரண்டு](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) சட்டபூர்வக் கடமைகள்.
 
 </details>
 
@@ -157,8 +157,8 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - மேல்வழி: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) பரிந்துரை-மட்டும் ஒழுக்கம்; [அத்தியாயம் எட்டு](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) மற்றும் [அத்தியாயம் பத்து](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) நியம உரிமையாளர்கள்.
-- கீழ்வழி: [அத்தியாயம் பதினைந்து §12](../../core_15_amendment_ratification.md#12-layer-scope) கண்ணாடி நடைமுறை-அடுக்கு ஒழுக்கம்; மதிப்பாய்வு நிறைவேற்ற இயங்கமைப்புக்கான செயல்படுத்தல் உரை.
-- இதனுடன் படிக்க: [அதிகார அடுக்கும் உள் படிநிலையும்](core_05_band_integrative.md#owner-non-relocation) மற்றும் [முகவுரை — நேர்மறை உரிமையாளர் பதிவேடு](core_00_preamble.md#4-principles-definitions-and-rights); மாற்றப் பாதை மற்றும் இணைப்பு குறித்து [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md); இட-வகைப்பாட்டு வகைப்பாட்டை நகலாக்காத செல்லுபடிச் சோதனைகளுக்கு [அத்தியாயம் பதினைந்து](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity).
+- கீழ்வழி: [அத்தியாயம் பதினைந்து §12](../../core_16_amendment_ratification.md#12-layer-scope) கண்ணாடி நடைமுறை-அடுக்கு ஒழுக்கம்; மதிப்பாய்வு நிறைவேற்ற இயங்கமைப்புக்கான செயல்படுத்தல் உரை.
+- இதனுடன் படிக்க: [அதிகார அடுக்கும் உள் படிநிலையும்](core_05_band_integrative.md#owner-non-relocation) மற்றும் [முகவுரை — நேர்மறை உரிமையாளர் பதிவேடு](core_00_preamble.md#4-principles-definitions-and-rights); மாற்றப் பாதை மற்றும் இணைப்பு குறித்து [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md); இட-வகைப்பாட்டு வகைப்பாட்டை நகலாக்காத செல்லுபடிச் சோதனைகளுக்கு [அத்தியாயம் பதினைந்து](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity).
 
 </details>
 
@@ -187,7 +187,7 @@
 > - **பொது பங்களிப்பு மற்றும் மீறல் அளவீடு** (பங்களிப்பு அச்சு / மீறல் அச்சு) — [core_08_standing_assessment.md](core_08_standing_assessment.md)-இல் **அத்தியாயம் எட்டு**; **நிலைத்தட விளைவுகளும் ஒருங்கிணைப்பும்** — [core_09_standing_integration.md](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)-இல் **அத்தியாயம் ஒன்பது**;
 > - **எண் பங்களிப்பு மற்றும் மீறல் அச்சு இடங்கள்** — **அத்தியாயம் எட்டு §7 ஒருங்கிணைந்த அளவுகோல்**, தனிப் பதிவுகளுடன் மீறல் இடங்கள் சரிபார்க்கப்பட்ட தாக்கத்தால் மட்டுமே கட்டுப்படுத்தப்படுகின்றன; தகுதிபெறும் மீறல் அச்சு இடம் 7, 8, அல்லது 9-க்குப் பொருந்தும் **அரசியலமைப்புக்கு எதிரான-தவறான நடத்தைப் பெயரிடல்** — [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)-இல் **அத்தியாயம் பத்து**;
 > - **மன்ற இயக்கப் பணிப்பாய்வும் தீர்ப்பு நடைமுறையும்** — **அத்தியாயம் பதினொன்று** மற்றும் [corpus_forum.md](../../corpus_forum.md);
-> - திருத்தம், உறுதிப்படுத்தல், ஏற்புக்கான **நடைமுறை மற்றும் காவல் செல்லுபடி** — [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity)-இல் **அத்தியாயம் பதினைந்து**; மற்றும்
+> - திருத்தம், உறுதிப்படுத்தல், ஏற்புக்கான **நடைமுறை மற்றும் காவல் செல்லுபடி** — [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity)-இல் **அத்தியாயம் பதினைந்து**; மற்றும்
 > - மதிப்பாய்வு நிறைவேற்றத்துக்கான **விரிவான நிறுவன நடைமுறை, பணியாளர் இயங்கமைப்பு, குறுக்கு-செயல்படுத்தல் கூட்டு அமைப்பு ஒருங்கிணைப்பு** — பெயரிடப்பட்ட செயல்படுத்தல் உரையும் [முகவுரை — நேர்மறை உரிமையாளர் பதிவேட்டில்](core_00_preamble.md#4-principles-definitions-and-rights) பெயரிடப்பட்ட உரிமையாளர் அத்தியாயங்களும்.
 >
 > உரிமையாளர் அடுக்குகள் அரசியலமைப்புச் செல்லுபடி நியமங்களை **அத்தியாயங்கள் பதின்மூன்று மற்றும் பதினைந்துக்கு** வெளியே, பங்களிப்பு அச்சு / மீறல் அச்சு அளவீட்டு அதிகாரத்தை **அத்தியாயம் எட்டு §7 ஒருங்கிணைந்த அளவுகோலுக்கு** வெளியே, அல்லது அரசியலமைப்புக்கு எதிரான-தவறான நடத்தைப் பெயரிடல் அதிகாரத்தை **அத்தியாயம் பத்துக்கு** வெளியே இடம்மாற்றுவதாகப் படிக்கப்படக் கூடாது. அத்தியாயம் பத்து எண் இடத்தை ஒதுக்காது. செயல்படாத கட்டமைப்பு நடைக்கு, காண்க [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md).
@@ -196,8 +196,8 @@
 
 ---
 
-**முந்தைய கோப்பு (இன்னும் ஆங்கிலத்தில்):** [core_12_governance.md](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
+**முந்தைய கோப்பு (இன்னும் ஆங்கிலத்தில்):** [core_12_governance.md](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)
 
-**அடுத்த கோப்பு (இன்னும் ஆங்கிலத்தில்):** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+**அடுத்த கோப்பு (இன்னும் ஆங்கிலத்தில்):** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 
-**பிணைக்கும் மூலம்:** [core_13_non_regression.md](../../core_13_non_regression.md)
+**பிணைக்கும் மூலம்:** [core_13_non_regression.md](../../core_14_non_regression.md)

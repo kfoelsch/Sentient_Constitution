@@ -41,7 +41,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: 원칙: [제2장, §1 — 목적과 역할](core_02_definition_structure.md#1-purpose-and-role); [제2장, §2 정의 완전성 요건](core_02_definition_structure.md#2-definition-integrity-requirement).
-- 하류: [제3장, 2절 — 관찰 가능한 체계 행위에서 오는 비준수](#2-non-compliance-from-observable-system-behavior); [제4장, 2절 — 정의 추적 가능성 요건](core_04_burden_traceability_verification.md#2-definition-traceability-requirement); [제4장, 5절 — 준수 증거 표준](core_04_burden_traceability_verification.md#5-compliance-evidence-standard); [제8장 — 기여, 위반, 궤적 모형](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
+- 하류: [제3장, 2절 — 관찰 가능한 체계 행위에서 오는 비준수](#2-non-compliance-from-observable-system-behavior); [제4장, 2절 — 정의 추적 가능성 요건](core_04_burden_traceability_verification.md#2-definition-traceability-requirement); [제4장, 5절 — 준수 증거 표준](core_04_burden_traceability_verification.md#5-compliance-evidence-standard); [제8장 — 기여, 위반, 궤적 모형](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
 - 함께 읽기: [제1장, 4.2절 — 진실 (인식 완전성 제약)](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) — 말해진 구조나 의도가 아니라 관찰 가능한 행위에 기초한 해석은, 정의 완전성 층에서 헌법 진실 제약을 운영화한다.
 
 </details>
@@ -93,7 +93,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: 원칙: [제3장, 1절 — 정의 완전성과 회피 금지 제약](#1-definition-integrity-and-anti-evasion-constraints); [제2장, §2 정의 완전성 요건](core_02_definition_structure.md#2-definition-integrity-requirement); [제2장, §2.2 구조 또는 적용 약화에 의한 비준수](core_02_definition_structure.md#22-non-compliance-by-structural-or-applied-weakening).
-- 하류: [2.1](#21-common-evasion-patterns) 절부터 [2.6](#26-uncertainty-integrity-and-non-exploitation-constraint) 절까지의 유형 목록; [3. 비준수 소견 프로필](#3-non-compliance-finding-profiles); [제4장, 5절 — 준수 증거 표준](core_04_burden_traceability_verification.md#5-compliance-evidence-standard); [제4장, 3절 — 추적 가능성의 관찰 가능성 요건](core_04_burden_traceability_verification.md#3-observability-of-traceability-requirement); [제7장 §16](../../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*체계 정합 인증 재개방과 회피 금지 포인터*); [제8장 — 기여, 위반, 궤적 모형](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
+- 하류: [2.1](#21-common-evasion-patterns) 절부터 [2.6](#26-uncertainty-integrity-and-non-exploitation-constraint) 절까지의 유형 목록; [3. 비준수 소견 프로필](#3-non-compliance-finding-profiles); [제4장, 5절 — 준수 증거 표준](core_04_burden_traceability_verification.md#5-compliance-evidence-standard); [제4장, 3절 — 추적 가능성의 관찰 가능성 요건](core_04_burden_traceability_verification.md#3-observability-of-traceability-requirement); [제7장 §16](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*체계 정합 인증 재개방과 회피 금지 포인터*); [제8장 — 기여, 위반, 궤적 모형](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
 - 함께 읽기: [제2장, §1 — 목적과 역할](core_02_definition_structure.md#1-purpose-and-role) — 전체 기능 체계 조건 아래의 공동 충족 규칙; [제2장, §2.4 모호성 아래의 해석 규칙](core_02_definition_structure.md#24-interpretation-rule-under-ambiguity) — 안전장치를 약화하거나, 평가되어야 할 것을 줄이거나, 실세계 결과를 나쁘게 만드는 해석은 무효다; [제4장, 5절 — 준수 증거 표준](core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — 증거는 이 절의 규칙 아래의 준수를 보여야 한다; 여기서 비준수가 될 증명은 증명 부담에 실패한다; [비준수](../../core_05_band_integrative.md#non-compliance).
 
 </details>
@@ -220,7 +220,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [제3장, 2절 — 관찰 가능한 체계 행위에서 오는 비준수](#2-non-compliance-from-observable-system-behavior); [제2장, §2 정의 완전성 요건](core_02_definition_structure.md#2-definition-integrity-requirement).
-- 하류: [제4장, 2절 — 정의 추적 가능성 요건](core_04_burden_traceability_verification.md#2-definition-traceability-requirement); [제7장 — 체계 정합 인증](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification); [제8장 — 기여, 위반, 궤적 모형](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); [제9장 — 궤적 효과와 통합](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration); [CJS-3.1 헌법 나침반과 무리 지도](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+- 하류: [제4장, 2절 — 정의 추적 가능성 요건](core_04_burden_traceability_verification.md#2-definition-traceability-requirement); [제7장 — 체계 정합 인증](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [제8장 — 기여, 위반, 궤적 모형](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model); [제9장 — 궤적 효과와 통합](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration); [CJS-3.1 헌법 나침반과 무리 지도](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 - 함께 읽기: [비준수 소견 프로필](../../core_05_band_accountability.md#non-compliance-finding-profile) — 프로필 필드의 정전 O/M/A/C 거처; [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad); [두 헌법 목적](core_00_preamble.md#two-constitutional-aims).
 
 </details>
@@ -234,19 +234,19 @@
 - 실패를 가장 잘 기술하는 [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) 다리와 [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) 지향을 이름 붙일 수 있다 — 예를 들어 감독, 참여, 또는 책무가 번영 또는 연속과 교차한 것
 - 바탕 정의가 충족되는지를 바꾸지 않는다
 - 두 번째 판정 꼬리표를 만들지 않는다
-- [제8장](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) 기여 또는 위반 측정을 대체하지 않는다
+- [제8장](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) 기여 또는 위반 측정을 대체하지 않는다
 
 궤적 효과는 누가 평가되고 있는지, 그리고 체계가 이미 인증되었는지에 달렸다. 아래 하위절이 그 경우를 정한다.
 
 <a id="31-standing-effects-for-already-certified-systems"></a>
 #### 3.1 이미 인증된 체계에 대한 궤적 효과
 
-체계가 이미 [체계 정합 인증](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) 아래에서 돌아가고 있다면 — 인정, 조건부 인정, 또는 만료되지 않은 재확인을 포함 — 그 체계의 기능 범위에 대한 실질 확인된 비준수는 **그 체계**에 대한 [제8장](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) 궤적 측정에 **들어가야 한다**. [확인된 입력 게이트](../../core_08_standing_assessment.md#verified-inputs-for-standing)를 통과한 사실만 들어갈 수 있다. 제8장과 제9장 아래에서 궤적을 측정하고 적용하라. 재개방, 철회, 또는 다른 인증 결과는 [제7장](../../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) 아래에 남는다. 그것들은 그 체계의 궤적 기록을 대체하지 않는다.
+체계가 이미 [체계 정합 인증](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) 아래에서 돌아가고 있다면 — 인정, 조건부 인정, 또는 만료되지 않은 재확인을 포함 — 그 체계의 기능 범위에 대한 실질 확인된 비준수는 **그 체계**에 대한 [제8장](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) 궤적 측정에 **들어가야 한다**. [확인된 입력 게이트](../../core_09_standing_assessment.md#verified-inputs-for-standing)를 통과한 사실만 들어갈 수 있다. 제8장과 제9장 아래에서 궤적을 측정하고 적용하라. 재개방, 철회, 또는 다른 인증 결과는 [제7장](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) 아래에 남는다. 그것들은 그 체계의 궤적 기록을 대체하지 않는다.
 
 <a id="32-standing-effects-at-first-certification"></a>
 #### 3.2 첫 인증에서의 궤적 효과
 
-체계가 아직 **첫** [체계 정합 인증](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)에 있고 아직 인정되지 않았다면 — 인정이 미뤄지거나 거절되는 곳을 포함 — 확인된 비준수는 일차로 제7장 아래의 **인증 결과**를 정한다. 그 결과는 조건부 인정, 미룬 인정, 비인정, 또는 견줄 수 있는 결과일 수 있다. 그 인증 기록은 사실이 받칠 때, 여전히 [제7장 §15](../../core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) 아래 확인된 궤적 입력을 공급할 수 있다. 이 장은 이미 인증되어 돌아가는 체계가 받아야 하는 것과 같은 궤적 기록을 요구하지 않는다.
+체계가 아직 **첫** [체계 정합 인증](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)에 있고 아직 인정되지 않았다면 — 인정이 미뤄지거나 거절되는 곳을 포함 — 확인된 비준수는 일차로 제7장 아래의 **인증 결과**를 정한다. 그 결과는 조건부 인정, 미룬 인정, 비인정, 또는 견줄 수 있는 결과일 수 있다. 그 인증 기록은 사실이 받칠 때, 여전히 [제7장 §15](../../core_08_b_system_alignment_certification_record_process.md#15-relationship-to-standing) 아래 확인된 궤적 입력을 공급할 수 있다. 이 장은 이미 인증되어 돌아가는 체계가 받아야 하는 것과 같은 궤적 기록을 요구하지 않는다.
 
 <a id="33-standing-effects-for-sentients-and-institutions"></a>
 #### 3.3 감지자와 제도에 대한 궤적 효과
@@ -262,7 +262,7 @@
 - 은폐
 - 실행 가능한 예방 역량
 
-제도의 궤적은 제도가 평가되는 대상일 때, 또는 비준수 패턴의 운반체로 확인될 때 영향을 받는다. 제도 기록은 개별 감지자 기록과 따로 추적 가능하게 남는다. 그 경우는 [제8장](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)과 [제9장](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) 아래에서 적용하라. 소견 프로필은 라우팅과 감사를 돕는다. 그것 자체가 궤적 결과, 슬롯, 잠금, 게이트, 또는 구제를 정하지 않는다.
+제도의 궤적은 제도가 평가되는 대상일 때, 또는 비준수 패턴의 운반체로 확인될 때 영향을 받는다. 제도 기록은 개별 감지자 기록과 따로 추적 가능하게 남는다. 그 경우는 [제8장](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)과 [제9장](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) 아래에서 적용하라. 소견 프로필은 라우팅과 감사를 돕는다. 그것 자체가 궤적 결과, 슬롯, 잠금, 게이트, 또는 구제를 정하지 않는다.
 
 <a id="34-operational-constraints"></a>
 #### 3.4 운영 제약

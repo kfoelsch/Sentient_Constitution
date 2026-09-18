@@ -5,7 +5,7 @@
 
 > เนื้อหาต่อไปนี้เป็น **แนวทางสำหรับผู้อ่านเท่านั้น** ไม่เพิ่ม ไม่ลด และไม่ทำให้ภาระผูกพันที่ใช้บังคับแคบลง
 >
-> โฟลเดอร์นี้เป็น **โครงการนำร่องด้านภาษาสำหรับผู้อ่าน** **ไม่ใช่** รัฐธรรมนูญของผู้มีความรู้สึก **ไม่สามารถ** เปลี่ยนไฟล์ `core_*` ที่มีหมายเลขได้ **ไม่ใช่** ฉบับจัดส่ง การอ่านไฟล์นี้ **ไม่ใช่** [การรับรัฐธรรมนูญนี้เป็นของตน](../../core_15_amendment_ratification.md#10-ratification-and-adoption) หากคำแปลกับต้นฉบับภาษาอังกฤษดูเหมือนไม่ตรงกัน ให้ไฟล์ `core_*` ที่มีหมายเลขในภาษาอังกฤษเป็นฝ่ายชนะ จนกว่าฉบับหลังจะกล่าวเป็นอย่างอื่น ดู [Reader-language editions](../../doc_architecture.md#reader-language-editions)
+> โฟลเดอร์นี้เป็น **โครงการนำร่องด้านภาษาสำหรับผู้อ่าน** **ไม่ใช่** รัฐธรรมนูญของผู้มีความรู้สึก **ไม่สามารถ** เปลี่ยนไฟล์ `core_*` ที่มีหมายเลขได้ **ไม่ใช่** ฉบับจัดส่ง การอ่านไฟล์นี้ **ไม่ใช่** [การรับรัฐธรรมนูญนี้เป็นของตน](../../core_16_amendment_ratification.md#10-ratification-and-adoption) หากคำแปลกับต้นฉบับภาษาอังกฤษดูเหมือนไม่ตรงกัน ให้ไฟล์ `core_*` ที่มีหมายเลขในภาษาอังกฤษเป็นฝ่ายชนะ จนกว่าฉบับหลังจะกล่าวเป็นอย่างอื่น ดู [Reader-language editions](../../doc_architecture.md#reader-language-editions)
 >
 > **ตรึงไว้กับฉบับคลังข้อความ:** `SC-Corpus-2026.08.09` (มีผล 2026-08-09; [README.md](../../README.md)) **ก่อนเผยแพร่**
 
@@ -37,13 +37,13 @@
 | [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md) | [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md) |
 | [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md) | [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md) |
 | [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md) | [core_05_apex_timeliness_leg.md](../../core_05_apex_timeliness_leg.md) |
-| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_07_system_alignment_certification.md) |
-| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md) |
-| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md) |
-| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_08_standing_assessment.md) |
-| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_09_standing_integration.md) |
-| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md) |
-| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_11_forum.md) |
+| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_08_system_alignment_certification.md) |
+| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md) |
+| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_09_standing_assessment.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_10_standing_integration.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md) |
+| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_12_forum.md) |
 
 ลิงก์ในโครงการนำร่องชี้ไปยังไฟล์ภาษาอังกฤษที่ยังไม่มีคำแปล สมอ HTML (`id`) คัดลอกจากต้นฉบับเพื่อให้เทียบได้ทีละช่วง
 

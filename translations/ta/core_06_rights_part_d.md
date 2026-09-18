@@ -12,7 +12,7 @@
 >
 > **முந்தையது (இந்த மொழியில்):** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 >
-> **அடுத்தது (இன்னும் ஆங்கிலத்தில்):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+> **அடுத்தது (இன்னும் ஆங்கிலத்தில்):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 > **வாசிப்பு வளைவு:** சரத்துகள் XXIII–XXVI (நீதியும் அவசரங்களும், அரசியலமைப்புப் பரிணாமம், மாற்றம், அடிப்படை மீள்நிறுவல்)
 
 </details>
@@ -79,7 +79,7 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - மேல்வழி: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [அத்தியாயம் ஒன்று §6.1.5 உரிமை-மோதல் நடைமுறை](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [அத்தியாயம் ஒன்று §9.6 சீரழிவு-எதிர்ப்பு நடைமுறை](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline), [§15 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- கீழ்வழி: [அத்தியாயம் ஒன்பது §4](../../core_09_standing_integration.md#4-violation-correction-and-prevention) (*மீறல், திருத்தம், தடுத்தல்*); [சரத்து XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [சரத்து XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule).
+- கீழ்வழி: [அத்தியாயம் ஒன்பது §4](../../core_10_standing_integration.md#4-violation-correction-and-prevention) (*மீறல், திருத்தம், தடுத்தல்*); [சரத்து XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [சரத்து XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule).
 - இதனுடன் படிக்க: [கொடுமை](core_05_band_accountability.md#cruelty) (*கொடுமை-எதிர்ப்புத் தளத்தின் துன்பம்-இலக்காக நியமத்தின் அத்தியாயம் ஐந்து இல்லம்*).
 
 </details>
@@ -329,7 +329,7 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - மேல்வழி: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§6.1.5 உரிமை-மோதல் முடிவுச் சோதனை](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [§7 முழு மேலெழுதல் தடை](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override), [§15 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- இதனுடன் படிக்க: [அத்தியாயம் ஒன்பது §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*தன்னார்வ பொதுப் பொறுப்புக்கூறல் வெளிப்பாடு*); [அத்தியாயம் பத்து §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*தன்னார்வ பொதுப் பொறுப்புக்கூறல் வெளிப்பாடு (அரசியலமைப்புக்கு-எதிரான)*).
+- இதனுடன் படிக்க: [அத்தியாயம் ஒன்பது §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*தன்னார்வ பொதுப் பொறுப்புக்கூறல் வெளிப்பாடு*); [அத்தியாயம் பத்து §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*தன்னார்வ பொதுப் பொறுப்புக்கூறல் வெளிப்பாடு (அரசியலமைப்புக்கு-எதிரான)*).
 
 </details>
 
@@ -358,7 +358,7 @@
     - நடந்துகொண்டிருக்கும் இடர்;
     - பொருள் அதிகார சமமின்மை;
     - பாதிக்கப்பட்ட தரப்பினரின் சம்மதமின்மை.
-- **தன்னார்வ பொதுப் பொறுப்புக்கூறல் வெளிப்பாடு:** பொதுவாக [அத்தியாயம் ஒன்பது §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*தன்னார்வ பொதுப் பொறுப்புக்கூறல் வெளிப்பாடு*) ஆல், சரிபார்க்கப்பட்ட அரசியலமைப்புக்கு-எதிரான தவறான நடத்தைக்கு [அத்தியாயம் பத்து §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*தன்னார்வ பொதுப் பொறுப்புக்கூறல் வெளிப்பாடு (அரசியலமைப்புக்கு-எதிரான)*) ஆல் ஆளப்படுகிறது, இந்தச் சரத்தின் உரிமை-மோதல் மற்றும் மீட்டெடுக்கும்-இணக்க விதிகளுக்கு உட்பட்டு.
+- **தன்னார்வ பொதுப் பொறுப்புக்கூறல் வெளிப்பாடு:** பொதுவாக [அத்தியாயம் ஒன்பது §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*தன்னார்வ பொதுப் பொறுப்புக்கூறல் வெளிப்பாடு*) ஆல், சரிபார்க்கப்பட்ட அரசியலமைப்புக்கு-எதிரான தவறான நடத்தைக்கு [அத்தியாயம் பத்து §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*தன்னார்வ பொதுப் பொறுப்புக்கூறல் வெளிப்பாடு (அரசியலமைப்புக்கு-எதிரான)*) ஆல் ஆளப்படுகிறது, இந்தச் சரத்தின் உரிமை-மோதல் மற்றும் மீட்டெடுக்கும்-இணக்க விதிகளுக்கு உட்பட்டு.
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### சரத்து XXIV-C: காலந்தவறாத் தீர்வும் தாமத எதிர்ப்புத் தளமும்
 <details>
@@ -394,7 +394,7 @@
 - **மூன்று கூட்டுத் தேவைகள்:** பொருள் தீர்வுப் பாதைகள் ஒன்றாக **காலந்தவறாததாகவும்**, **திறனானதாகவும்**, **நியாயமானதாகவும்** இருக்க வேண்டும்:
   - **காலந்தவறாதது** — [பொருள் பங்கிற்கும்](core_00_preamble.md#material-stake) தீங்கு அவசரத்துக்கும் அளவிடப்பட்ட வரம்புடைய கடிகாரங்கள்;
   - **திறனானது** — [அரசியலமைப்பு திறன்](core_05_band_continuity.md#constitutional-efficiency) அத்தியாயம் ஒன்று [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) அர்த்தத்தில் — நுகரப்பட்ட உணர்வுள்ளோர் நேரமும் பகிர்ந்த முயற்சியும் ஒன்றுக்கு உண்மையான அரசியலமைப்பு விளைவு, மூல செயல்திறன் அல்லது வழக்கு காலிசெய்தல் அல்ல;
-  - **நியாயமானது** — **சரத்து XXIII-A** (*நீதி நோக்கமும் எல்லையும்*), **சரத்து XXIII-B** (*அற்பமல்லாக் கட்டுப்பாடு, மீட்டளிப்பு, மீட்டெடுக்கும்-பொறுப்புக்கூறல் கட்டுப்பாடுகள்*), **சரத்து XXIII-C** (*குறைவாகக் கட்டுப்படுத்தும் மற்றும் கால-வரம்புடைய விதி*) முழுமையாகப் பொருந்தும்; விரைவாக நகர்வது சோதிக்கப்பட்ட உண்மைகளைத் தவிர்க்கவோ ([அத்தியாயம் எட்டு §3.1](../../core_08_standing_assessment.md#verified-inputs-for-standing)), தவறான தரப்பினரைத் தண்டிக்கவோ, தீங்குக்குப் பொருந்தாத சரிசெய்யலை வழங்கவோ, சவாலையும் மேல்முறையீட்டையும் வெட்டவோ சாக்கு அல்ல.
+  - **நியாயமானது** — **சரத்து XXIII-A** (*நீதி நோக்கமும் எல்லையும்*), **சரத்து XXIII-B** (*அற்பமல்லாக் கட்டுப்பாடு, மீட்டளிப்பு, மீட்டெடுக்கும்-பொறுப்புக்கூறல் கட்டுப்பாடுகள்*), **சரத்து XXIII-C** (*குறைவாகக் கட்டுப்படுத்தும் மற்றும் கால-வரம்புடைய விதி*) முழுமையாகப் பொருந்தும்; விரைவாக நகர்வது சோதிக்கப்பட்ட உண்மைகளைத் தவிர்க்கவோ ([அத்தியாயம் எட்டு §3.1](../../core_09_standing_assessment.md#verified-inputs-for-standing)), தவறான தரப்பினரைத் தண்டிக்கவோ, தீங்குக்குப் பொருந்தாத சரிசெய்யலை வழங்கவோ, சவாலையும் மேல்முறையீட்டையும் வெட்டவோ சாக்கு அல்ல.
 - **மன்றமும் தொடர் மேற்பார்வையும்:** **அத்தியாயங்கள் எட்டு முதல் பதினொன்று** வழியாக வழிமாற்றப்பட்ட தகராறுகளுக்குப் பின்வருவன, இந்தச் சரத்தின் காலந்தவறா, திறன், நியாயத் தளத்துக்கு உட்பட்டு [அத்தியாயம் பதினொன்று §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) ஆல் ஆளப்படுகின்றன:
   - பொருண்மை-நிலை வகைப்பாடு;
   - தொடர்-நிலை மைல்கற்கள்;
@@ -431,7 +431,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்வழி: கோட்பாடுகள்: [அத்தியாயம் ஒன்று §10.3 தொடர் நியாயப்படுத்தல்](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification); அத்தியாயம் ஒன்று [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§7 முழு மேலெழுதல் தடை](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- மேல்வழி: கோட்பாடுகள்: [அத்தியாயம் ஒன்று §10.3 தொடர் நியாயப்படுத்தல்](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification); அத்தியாயம் ஒன்று [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§7 முழு மேலெழுதல் தடை](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 
 </details>
 
@@ -461,7 +461,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்வழி: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§3.2 உண்மை](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§7 முழு மேலெழுதல் தடை](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- மேல்வழி: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§3.2 உண்மை](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§7 முழு மேலெழுதல் தடை](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 
 </details>
 
@@ -517,7 +517,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்வழி: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 மையப் பரிமாற்றக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [அத்தியாயம் ஒன்பது §5.4](../../core_09_standing_integration.md#54-special-violation-rules) (*இந்தச் சரத்தால் மாற்றத்தின் போது வரம்பிடப்படும் இணக்கமற்ற-வெகுமதி பறிமுதலும் புகாரும்*); [அத்தியாயம் ஏழு — அமைப்பு இணக்கச் சான்றளிப்பு](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification).
+- மேல்வழி: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 மையப் பரிமாற்றக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [அத்தியாயம் ஒன்பது §5.4](../../core_10_standing_integration.md#54-special-violation-rules) (*இந்தச் சரத்தால் மாற்றத்தின் போது வரம்பிடப்படும் இணக்கமற்ற-வெகுமதி பறிமுதலும் புகாரும்*); [அத்தியாயம் ஏழு — அமைப்பு இணக்கச் சான்றளிப்பு](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -554,7 +554,7 @@
   
   நீக்கம், ஓய்வு, பின்னிழுப்பு, இடமாற்றம், அல்லது மாற்றீடு **சான்றுப் பேணல்** மற்றும் **சரத்து VII-D** (*குடும்பம், பராமரிப்பு உறவுகள், இனப்பெருக்கத் தன்னாட்சி, பிரிப்பின்மை*) பிரிப்பின்மைக் கட்டுப்பாட்டின் கீழ் நிலை-சுமக்கும் கூறுகளைப் பதிவு செய்வதால் இந்தப் புள்ளியை நிறைவேற்றுகிறது. இது [அத்தியாயம் ஒன்று §6.1 இயல்புநிலை இடைக்கால நிலை](core_01_b_interaction_interpretation.md#default-interim-posture) — மீளமுடியாத படிகளை உறைய வைத்தல் — மரபு இயக்கம் வழக்கமாக நடத்தும் ஒரே மீளமுடியாத படிக்குப் பயன்படுத்தப்பட்டது. சேமிப்புச் செலவு, உரிம வசதி, அல்லது தயாரிப்பு-சுழற்சி கட்டமைப்பு அதற்கு எதிராக **தேவையை** நிறைவேற்றாது. தக்கவைப்பே ஆவணப்படுத்தப்பட்ட பாதுகாப்பு இடரை உருவாக்கும் இடத்தில், குறைவாகக் கட்டுப்படுத்தும் இணக்க நடவடிக்கை அழிப்பு அல்ல, சுயாதீன கட்டுப்பாட்டின் கீழ் முத்திரையிடப்பட்ட காவல்.
 <a id="incentive-alignment-transition-carve-out"></a>
-- **ஊக்குவிப்பு-இணக்க மாற்ற விதிவிலக்கு:** **சரத்து XXVI** (*மாற்ற ஆட்சி, தொடர்ச்சி, அடிப்படை மீள்நிறுவல்*) கீழ் அங்கீகரிக்கப்பட்ட மாற்றக் கட்டங்களின் போது, [அத்தியாயம் ஏழு — அமைப்பு இணக்கச் சான்றளிப்பு](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) உடன் படியுங்கள். [அத்தியாயம் ஒன்பது §5.4 புகார் கடமையும் விலக்குகளும்](../../core_09_standing_integration.md#54-special-violation-rules) மற்றும் [§5.4 பறிமுதலும் தக்கவைப்பும்](../../core_09_standing_integration.md#54-special-violation-rules) பகிர்ந்த அமைப்புகள் வழியாக ஓடும் வெகுமதிகளுக்கு, அந்த அமைப்புகள் **இன்னும் இணக்க-சான்றளிக்கப்படவில்லை** அல்லது **இன்னும் முழுமையாக இணக்கப்படவில்லை** என்பதால் மட்டும் **பொருந்தா**, வழங்கப்பட்டால்:
+- **ஊக்குவிப்பு-இணக்க மாற்ற விதிவிலக்கு:** **சரத்து XXVI** (*மாற்ற ஆட்சி, தொடர்ச்சி, அடிப்படை மீள்நிறுவல்*) கீழ் அங்கீகரிக்கப்பட்ட மாற்றக் கட்டங்களின் போது, [அத்தியாயம் ஏழு — அமைப்பு இணக்கச் சான்றளிப்பு](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) உடன் படியுங்கள். [அத்தியாயம் ஒன்பது §5.4 புகார் கடமையும் விலக்குகளும்](../../core_10_standing_integration.md#54-special-violation-rules) மற்றும் [§5.4 பறிமுதலும் தக்கவைப்பும்](../../core_10_standing_integration.md#54-special-violation-rules) பகிர்ந்த அமைப்புகள் வழியாக ஓடும் வெகுமதிகளுக்கு, அந்த அமைப்புகள் **இன்னும் இணக்க-சான்றளிக்கப்படவில்லை** அல்லது **இன்னும் முழுமையாக இணக்கப்படவில்லை** என்பதால் மட்டும் **பொருந்தா**, வழங்கப்பட்டால்:
   - இயக்கம் **சரத்து XXVI** (*மாற்ற ஆட்சி, தொடர்ச்சி, அடிப்படை மீள்நிறுவல்*) கீழ் **ஆவணப்படுத்தப்பட்ட மாற்றத் திட்டம்** மற்றும் வெளியிடப்பட்ட வாயில் அளவுகோல்களுக்குள் இருக்கும்;
   - அமைப்பு வெளியிடப்பட்ட தாளத்தில் [அமைப்பு இணக்கச் சான்றளிப்பை](core_05_band_continuity.md#system-alignment-certification-constitutional) நோக்கிச் செல்கிறது, அத்தியாயம் ஏழு அனுமதிக்கும் இடத்தில் **நிபந்தனை** அல்லது **தாமத அங்கீகாரம்** உட்பட; மற்றும்
   - இயக்குநர்களும் பயனாளிகளும் இணக்கமின்மையை **அறிந்து மறைக்கவோ**, அங்கீகரிக்கப்பட்ட மாற்ற எல்லைக்கு வெளியே இயக்கவோ, அல்லது சான்றளிப்பு, திருத்தம், அல்லது பாதுகாக்கப்பட்ட புகாரைத் தவிர்க்க மாற்ற நிலையைப் பயன்படுத்தவோ இல்லை.
@@ -600,7 +600,7 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - மேல்வழி: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 மையப் பரிமாற்றக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [§15 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- இதனுடன் படிக்க: [அத்தியாயம் ஏழு](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*அமைப்பு இணக்கச் சான்றளிப்பு*); [அத்தியாயங்கள் எட்டு முதல் பதினொன்று](../../README.md#standing-pipeline-and-forums) (*நிலைத்தடத் தொடரும் மன்ற மேற்பார்வையும்*).
+- இதனுடன் படிக்க: [அத்தியாயம் ஏழு](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*அமைப்பு இணக்கச் சான்றளிப்பு*); [அத்தியாயங்கள் எட்டு முதல் பதினொன்று](../../README.md#standing-pipeline-and-forums) (*நிலைத்தடத் தொடரும் மன்ற மேற்பார்வையும்*).
 
 </details>
 
@@ -624,7 +624,7 @@
   முன்வரையறுக்கப்பட்ட காப்புப் பாதைகள், பகுதி பின்னிழுப்பு அளவுகோல்கள், அடிப்படை மீள்நிறுவல் நடைமுறைகள் [**CI-14**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*மாற்ற ஆட்சியும் நிறுவனப் பரிணாமமும்*) ஆல் ஆளப்படுகின்றன.
   - தோல்வியடைந்த அல்லது சீரழிந்த மாற்ற நிலைகள் நிலைப்பு மட்டும் கொண்டு புதிய அடிப்படையாக ஆகக்கூடாது.
 - **பொருள் அடிப்படை மீள்அமைப்பு:** பொருள் அடிப்படை மீள்அமைப்பு வாயில்கள் தோல்வியடையும் அல்லது மாற்றம் நிற்கும்போது மாற்ற மைல்கற்கள், இடர் அனுமானங்கள், உரிமையாளர், இயக்கத் திட்டங்களைப் புதுப்பிக்கிறது. அரசியலமைப்புச் செல்லுபடியான அதிகாரம் மற்றும் ஆவணப்படுத்தப்பட்ட பொதுக் காரணங்களைக் கேட்கிறது. **உரிமைத் தளக் குறைந்தபட்சங்களை** பேண வேண்டும், அரசியலமைப்பைச் சட்டபூர்வமாக மாற்றும் விதிகளுக்குப் பதிலீடாக ஆகக்கூடாது.
-- **சரிபார்ப்பு-ஆரோக்கிய முன்நிபந்தனை:** [அமைப்பு இணக்கச் சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional) [அத்தியாயம் ஏழு](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) கீழ் அல்லது [அத்தியாயங்கள் எட்டு முதல் பதினொன்று](../../README.md#standing-pipeline-and-forums) கீழ் நிலைத்தடத் தொடர் கட்டமைப்பாக நம்பகமற்ற இடத்தில் திருத்தப்பட்ட மாற்ற அடிப்படையில் மீள்அமைப்பது அல்லது தொடர்வது இணக்கமற்றது — எடுத்துக்காட்டாக, சான்றளிப்பு உரிமைத் தளங்களைப் பொருளுள்ள விதத்தில் தோற்கடிக்கும் அமைப்புகளை வழக்கமாக ஆசீர்வதிக்கும் இடத்தில், நிலைத்தட அளவீடு சரிபார்க்கப்பட்ட பொருள் யதார்த்தத்திலிருந்து வழக்கமாக விலகும் இடத்தில், அல்லது சவால் மற்றும் மதிப்பாய்வுப் பாதைகள் பொருண்மை-அளவிடப்பட்ட நேரத்துக்குள் அந்த இடைவெளிகளைச் சரிசெய்ய முடியாத இடத்தில். அந்த நிபந்தனைகளில், சரிபார்ப்பு மற்றும் அளவீட்டு இயந்திரத்தின் பழுதுபார்ப்பு அலங்கார மீள்திட்டமிடலுக்கு முன்னுரிமை பெறுகிறது.
+- **சரிபார்ப்பு-ஆரோக்கிய முன்நிபந்தனை:** [அமைப்பு இணக்கச் சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional) [அத்தியாயம் ஏழு](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) கீழ் அல்லது [அத்தியாயங்கள் எட்டு முதல் பதினொன்று](../../README.md#standing-pipeline-and-forums) கீழ் நிலைத்தடத் தொடர் கட்டமைப்பாக நம்பகமற்ற இடத்தில் திருத்தப்பட்ட மாற்ற அடிப்படையில் மீள்அமைப்பது அல்லது தொடர்வது இணக்கமற்றது — எடுத்துக்காட்டாக, சான்றளிப்பு உரிமைத் தளங்களைப் பொருளுள்ள விதத்தில் தோற்கடிக்கும் அமைப்புகளை வழக்கமாக ஆசீர்வதிக்கும் இடத்தில், நிலைத்தட அளவீடு சரிபார்க்கப்பட்ட பொருள் யதார்த்தத்திலிருந்து வழக்கமாக விலகும் இடத்தில், அல்லது சவால் மற்றும் மதிப்பாய்வுப் பாதைகள் பொருண்மை-அளவிடப்பட்ட நேரத்துக்குள் அந்த இடைவெளிகளைச் சரிசெய்ய முடியாத இடத்தில். அந்த நிபந்தனைகளில், சரிபார்ப்பு மற்றும் அளவீட்டு இயந்திரத்தின் பழுதுபார்ப்பு அலங்கார மீள்திட்டமிடலுக்கு முன்னுரிமை பெறுகிறது.
 - **பொதுத் தடமறியக்கூடிய தன்மை:** பொருள் மாற்ற முடிவுகள், தாமதங்கள், மீள்திருப்பங்கள், அடிப்படை-மீள்அமைப்புத் தீர்மானங்கள் நியாயத்துடனும் இடர் தாக்கங்களுடனும் தணிக்கை செய்யக்கூடியதாக இருக்க வேண்டும்.
   - ஆவணப்படுத்தல் குறுகிய, நியாயப்படுத்தப்பட்ட இரகசியக் கட்டுப்பாடுகளுக்கு உட்பட்டது.
   - தாமதம், பின்னிழுப்பு, அல்லது தொடர்ச்சி அரசியலமைப்புரீதியாக நியாயப்படுத்தப்பட்டதா என்பதை மதிப்பிடப் போதுமான பொது விளக்கத்தைப் பேண வேண்டும்.
@@ -635,7 +635,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்வழி: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [அத்தியாயம் ஒன்று §6.1.5 உரிமை-மோதல் நடைமுறை](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- மேல்வழி: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [அத்தியாயம் ஒன்று §6.1.5 உரிமை-மோதல் நடைமுறை](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - இதனுடன் படிக்க: **சரத்து III-A** (*உயிர்வாழ்வு*); **சரத்து XII** (*நம்பகமான மற்றும் நம்பத்தகுந்த அமைப்புகளுக்கான உரிமை*); **சரத்து X-B** (*கூட்டுத் தீங்கு எல்லையும் அமலாக்க இடைமுகமும்*); **அத்தியாயம் எட்டு**; **அத்தியாயம் ஒன்று**, §6 உரிமை-மோதல் நடைமுறை உட்பட; அத்தியாயம் ஆறு தொடக்கத்தில் **இயல்புநிலைக் கட்டுப்பாட்டு அடுக்கு** (*உடைமை மற்றும் சரிசெய்தல் இடைமுகம்*); [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) முதல் **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*மாற்ற ஆட்சியும் நிறுவனப் பரிணாமமும்*).
 
 </details>
@@ -653,7 +653,7 @@
 
 *எளிய சொற்களில்: இணக்கமற்ற அமைப்புகளும் சொத்தும் மாற்றத்தின் போது சரிசெய்யப்படலாம் — ஆனால் அடிப்படை உரிமைகளைப் பாதுகாக்கும், சாக்குப்போக்கைத் தடுக்கும், பழிவாங்கல் அல்லது அரசியல் இலக்காகாத குறுகிய, ஆவணப்படுத்தப்பட்ட, மதிப்பாய்வு செய்யக்கூடிய நடைமுறைகள் வழியாக மட்டும். நிறுவனங்கள் அதை எப்படிச் செய்கின்றன — பங்குகள், தூண்டல்கள், காவல், மேல்முறையீடுகள், நிதிகள், ஊக்குவிப்பு இயங்கமைப்பு — **CI-14.1** முதல் **CI-14.3** வரை வாழ்கிறது; இந்தச் சரத்து அந்த நடைமுறைகள் சுருக்கக்கூடாத அரசியலமைப்புத் தளத்தைக் கூறுகிறது.*
 
-- **உடைமைத் தளம்:** நீங்கள் சட்டபூர்வமாக ஏதோவொன்றை உடைமையாக வைத்திருந்தால் அல்லது பயன்படுத்தினால், மாற்றம் விருப்பப்படி அதை உங்களிடமிருந்து எடுக்க முடியாது. ஆனால் அந்தச் சொத்து தொடர்ந்து இயங்க அனுமதிப்பது அறியப்பட்ட, பெரிய-அளவு அரசியலமைப்பு மீறலைத் தெளிவாகத் தொடர வைக்கும்போது உடைமை கேடயம் அல்ல — [அத்தியாயம் எட்டு](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) மீறலைப் பதிவில் ஆவணப்படுத்திய பிறகு. அந்த இடத்தில், மாற்றம் இன்னும் தீங்கை நிறுத்தச் செயல்படலாம், ஆனால் இந்தச் சரத்து மற்றும் **CI-14.1** முதல் **CI-14.3** காப்புகள் வழியாக மட்டும்.
+- **உடைமைத் தளம்:** நீங்கள் சட்டபூர்வமாக ஏதோவொன்றை உடைமையாக வைத்திருந்தால் அல்லது பயன்படுத்தினால், மாற்றம் விருப்பப்படி அதை உங்களிடமிருந்து எடுக்க முடியாது. ஆனால் அந்தச் சொத்து தொடர்ந்து இயங்க அனுமதிப்பது அறியப்பட்ட, பெரிய-அளவு அரசியலமைப்பு மீறலைத் தெளிவாகத் தொடர வைக்கும்போது உடைமை கேடயம் அல்ல — [அத்தியாயம் எட்டு](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) மீறலைப் பதிவில் ஆவணப்படுத்திய பிறகு. அந்த இடத்தில், மாற்றம் இன்னும் தீங்கை நிறுத்தச் செயல்படலாம், ஆனால் இந்தச் சரத்து மற்றும் **CI-14.1** முதல் **CI-14.3** காப்புகள் வழியாக மட்டும்.
 - **மாற்ற-எல்லை சரிசெய்தல்:** **சரத்து XXVI-A** (*கட்டம் கட்டமான ஏற்பும் உரிமைத் தளத் தொடர்ச்சியும்*) கீழ் **ஆவணப்படுத்தப்பட்ட மாற்றத் திட்டம்** மாற்றத்தின் போது மட்டும் **பொருளுள்ள விதத்தில் இணக்கமற்ற** அமைப்புகள் அல்லது சொத்தின் முடுக்கப்பட்ட சரிசெய்தலை அங்கீகரிக்கலாம். செயல் எல்லை, அனுமதிக்கப்பட்ட நடவடிக்கைகள், நிறுவன நடைமுறை [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) முதல் **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*மாற்ற ஆட்சியும் நிறுவனப் பரிணாமமும்*) ஆல் ஆளப்படுகின்றன, **CJS-3.6** (*சொத்து-காவல் மற்றும் ஊக்குவிப்பு-பிரிப்புக் கட்டுப்பாட்டுத் தொடர்*) மற்றும் பொருந்தும் இடத்தில் **சரத்து XII-E** (*உயர்-தன்னாட்சி அமைப்புகளும் கருவி-மத்தியஸ்த நடைமுறை முழுமையும்*) உடன் படித்து.
 - **தேவைப்படும் காப்புகள்:** எந்த மாற்ற-எல்லைப் பறிப்பும் அல்லது ஊக்குவிப்புத் திட்டமும் நிறைவேற்ற வேண்டும்:
   - நிரூபிக்கக்கூடிய **தேவை** மற்றும் **விகிதாசாரத்துடன்** [**குறைவாகக் கட்டுப்படுத்தும், கால-வரம்புடைய, மதிப்பாய்வு செய்யக்கூடிய கட்டுப்பாட்டுக் கோட்பாடு**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle);
@@ -674,6 +674,6 @@
 
 **முந்தைய கோப்பு (இந்த மொழியில்):** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 
-**அடுத்த கோப்பு (இன்னும் ஆங்கிலத்தில்):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+**அடுத்த கோப்பு (இன்னும் ஆங்கிலத்தில்):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 
 **பிணைக்கும் மூலம்:** [core_06_rights_part_d.md](../../core_06_rights_part_d.md)

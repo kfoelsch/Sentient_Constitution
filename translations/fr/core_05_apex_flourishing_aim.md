@@ -96,7 +96,7 @@ Les définitions feuille sous cette fin héritent de sa portée à moins qu’el
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - En aval : famille de mesure Épanouissement — rollup en lien seul ; les paliers par terme vivent dans les définitions feuille liées dans le tableau ci-dessous.
-- Lire avec : [Chapitre sept §3 Évaluation de certification du système entier](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) où les effets de système entier, la livraison du plancher de survie ou les **Conditions sûres** sont matériellement dans la portée.
+- Lire avec : [Chapitre sept §3 Évaluation de certification du système entier](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) où les effets de système entier, la livraison du plancher de survie ou les **Conditions sûres** sont matériellement dans la portée.
 
 </details>
 

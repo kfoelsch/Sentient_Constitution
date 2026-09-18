@@ -7,7 +7,7 @@
 
 > 다음 내용은 **독자 안내일 뿐입니다**. 이 파일이나 다른 장에서 구속력 있는 의무를 더하거나, 빼거나, 좁히지 않습니다.
 >
-> 이 파일은 [영어 제7장 읽기 색인](../../core_07_system_alignment_certification.md)의 **독자 언어 시험본**입니다. 감지자 헌법의 구속력 있는 부분이 **아닙니다**. 두 번째 헌법이 **아닙니다**. 배포판이 **아닙니다**. `SC-Corpus-2026.08.09`에 **고정**되어 있습니다. 이 번역과 영어 원문이 어긋나 보이면, 번호 파일 [`core_07_system_alignment_certification.md`](../../core_07_system_alignment_certification.md)가 이깁니다. 읽기 순서와 판본 메타데이터는 [README.md](../../README.md)에 유지됩니다. 방법과 용어표: [translations/ko/README.md](README.md).
+> 이 파일은 [영어 제7장 읽기 색인](../../core_08_system_alignment_certification.md)의 **독자 언어 시험본**입니다. 감지자 헌법의 구속력 있는 부분이 **아닙니다**. 두 번째 헌법이 **아닙니다**. 배포판이 **아닙니다**. `SC-Corpus-2026.08.09`에 **고정**되어 있습니다. 이 번역과 영어 원문이 어긋나 보이면, 번호 파일 [`core_07_system_alignment_certification.md`](../../core_08_system_alignment_certification.md)가 이깁니다. 읽기 순서와 판본 메타데이터는 [README.md](../../README.md)에 유지됩니다. 방법과 용어표: [translations/ko/README.md](README.md).
 >
 > **제7장**은 하나의 문서로 읽는 두 구속력 있는 파일로 나뉩니다:
 >
@@ -41,4 +41,4 @@
 
 **다음 파일(이 언어):** [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
 
-**구속력 있는 원문:** [core_07_system_alignment_certification.md](../../core_07_system_alignment_certification.md)
+**구속력 있는 원문:** [core_07_system_alignment_certification.md](../../core_08_system_alignment_certification.md)

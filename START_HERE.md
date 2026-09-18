@@ -1,13 +1,13 @@
 # Sentient Constitution — start here
 
-This page is the public front door. It is **process / operations-guide support** — **not** binding constitutional or incorporated text. It **cannot narrow core text**. Opening this page, this repository, or a kit is not [Chapter Fifteen §10](core_15_amendment_ratification.md#10-ratification-and-adoption) adoption.
+This page is the public front door. It is **process / operations-guide support** — **not** binding constitutional or incorporated text. It **cannot narrow core text**. Opening this page, this repository, or a kit is not [Chapter Sixteen §10](core_16_amendment_ratification.md#10-ratification-and-adoption) adoption.
 
 > **Start with the conceptual map:** [How the Sentient Constitution holds together](CONCEPTUAL_OVERVIEW.md) explains the aims, principles, Rights Floor, definitions, data and system classifications, processes, forums, governance, and corpus relationships in one reader-oriented view. It is non-operative support; reading it is not adoption.
 
 <a id="what-it-is"></a>
 ## 1. What it is
 
-This Sentient Constitution is a **model constitution**. In its own terms, it speaks to systems that materially affect sentients. It becomes **enforceable** for a particular body only after valid adoption under [Chapter Fifteen](core_15_amendment_ratification.md#10-ratification-and-adoption) and [Chapter Sixteen §4](core_16_incorporation.md#4-adoption-framing-and-scope-of-authority). Until then it may guide, inform, or serve as a reference. It has no independent power to enforce against non-adopters. It does not supersede local, national, or international law. Where it is used inside an existing legal framework, its processes and participation must stay consistent with that framework ([Chapter Fourteen §5](core_14_expansion_supremacy.md#5-relation-to-applicable-external-law)).
+This Sentient Constitution is a **model constitution**. In its own terms, it speaks to systems that materially affect sentients. It becomes **enforceable** for a particular body only after valid adoption under [Chapter Sixteen](core_16_amendment_ratification.md#10-ratification-and-adoption) and [Chapter Seventeen §4](core_17_incorporation.md#4-adoption-framing-and-scope-of-authority). Until then it may guide, inform, or serve as a reference. It has no independent power to enforce against non-adopters. It does not supersede local, national, or international law. Where it is used inside an existing legal framework, its processes and participation must stay consistent with that framework ([Chapter Fifteen §5](core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
 Four duties — **participation**, **oversight**, **accountability**, and **timeliness** — scale with [material stake](core_00_preamble.md#material-stake) ([Preamble §1](core_00_preamble.md#constitutional-tetrad)). Human and AI stewards share one standard ([Chapter One §9.1.1](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)). Do not invent an AI-only overlay. Do not exempt humans.
 
@@ -63,7 +63,7 @@ Named in [PRE_PUBLICATION_SPEC.md](implementation/PRE_PUBLICATION_SPEC.md) §3.1
 | Mode | What it is | When “adoption” language is honest |
 |---|---|---|
 | **Operations-guide use** | Pick up stacks for real-world problem solving without claiming full constitutional adoption | It is not. Attach the [non-adoption banner](implementation/adoption/FIRST_ADOPTER_KIT.md#6-non-adoption-banner) when that is the actual situation |
-| **Full adoption** | A qualifying body records a Chapter Fifteen instrument, with Chapter Sixteen custody | Only after that instrument exists in **that body’s** custody |
+| **Full adoption** | A qualifying body records a Chapter Sixteen instrument, with Chapter Seventeen custody | Only after that instrument exists in **that body’s** custody |
 
 <a id="three-doors"></a>
 ## 6. Start here (doors)
@@ -91,7 +91,7 @@ If you cannot bind the systems or name independent review that is not the foundi
 You do not have to read the whole instrument. These paths are process support. They cannot narrow core.
 
 - **15 minutes** — this page §§1–2 and §7; [Preamble §1 The Model](core_00_preamble.md#the-model) (four duties and two aims); one [easy-entry brief](implementation/adoption/easy_entry/README.md#roster) that sounds like your situation.
-- **45 minutes** — the 15-minute path, then the [Rights Floor wall sheet](doc_architecture/generated/rights_floor_sheet.md), [PROCESS_PIPELINES_READER.md](implementation/PROCESS_PIPELINES_READER.md), one [process guide](implementation/adoption/easy_entry/README.md#process-guides), and one [pipeline vignette](core_08-11_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a).
+- **45 minutes** — the 15-minute path, then the [Rights Floor wall sheet](doc_architecture/generated/rights_floor_sheet.md), [Chapter Seven’s functional-independence floor](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor), [PROCESS_PIPELINES_READER.md](implementation/PROCESS_PIPELINES_READER.md), one [process guide](implementation/adoption/easy_entry/README.md#process-guides), and one [pipeline vignette](core_09-12_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a).
 - **2 hours** — the 45-minute path, then the [Preamble](core_00_preamble.md) through [§5](core_00_preamble.md#5-key-practical-process-pipelines), [Chapter One, Part A](core_01_a_values_principles.md), and the Chapter Six articles named in the brief or guide you opened.
 
 Sequential chapter reading (editor map): [README.md](README.md).
@@ -102,15 +102,15 @@ Sequential chapter reading (editor map): [README.md](README.md).
 Same list as [FIT_SITUATIONS.md §5](implementation/adoption/FIT_SITUATIONS.md#5-honest-non-fits):
 
 - Retrofitting an existing national constitution as drop-in law.
-- Claiming this Constitution supersedes local, national, or international law, or that operations-guide use displaces a regulator ([Chapter Fourteen §5](core_14_expansion_supremacy.md#5-relation-to-applicable-external-law)).
-- Marketing “we follow it” while dodging matching obligations ([Chapter Sixteen §4](core_16_incorporation.md#4-adoption-framing-and-scope-of-authority)).
+- Claiming this Constitution supersedes local, national, or international law, or that operations-guide use displaces a regulator ([Chapter Fifteen §5](core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
+- Marketing “we follow it” while dodging matching obligations ([Chapter Seventeen §4](core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)).
 - Two chat partners, or a markdown working group, claiming adoption or calling themselves the oversight body ([Chapter One §9.5](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization)).
 - Binding host products, vendors, or platforms the crew does not control.
 - An AI-only overlay ([§9.1.1](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)), or a human exemption from costly cases ([§9.1.2](core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints)).
 - Treating a participation vote, token vote, or standing score as authorization — or as sentience status ([Preamble §3.3](core_00_preamble.md#33-governance-layers); [Article XVIII-A](core_06_rights_part_c.md#article-xviii-a-standing-distinction)).
-- Founding Chapter Eleven forum families from the cooperating crew and calling that independent review ([FORUM_FOUNDATION_KIT.md](implementation/adoption/FORUM_FOUNDATION_KIT.md)).
+- Founding Chapter Twelve forum families from the cooperating crew and calling that independent review ([FORUM_FOUNDATION_KIT.md](implementation/adoption/FORUM_FOUNDATION_KIT.md)).
 
-If any “cannot bind” row in the first-adopter kit’s [scope honesty](implementation/adoption/FIRST_ADOPTER_KIT.md#3-scope-honesty) block is the actual situation, do not claim Chapter Fifteen adoption.
+If any “cannot bind” row in the first-adopter kit’s [scope honesty](implementation/adoption/FIRST_ADOPTER_KIT.md#3-scope-honesty) block is the actual situation, do not claim Chapter Sixteen adoption.
 
 <a id="canonical"></a>
 ## 8. Canonical home, edition, license

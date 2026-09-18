@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Sixteen](../core_16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-1** (*Scope, purpose, and legitimacy interface*).
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-1** (*Scope, purpose, and legitimacy interface*).
 >
 > Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -27,7 +27,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer) purpose of the joint-structure layer; [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) combined satisfaction and default reading stack; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) section identifiers and **Def.*** / **oDef** homes; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer) purpose of the joint-structure layer; [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) combined satisfaction and default reading stack; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) section identifiers and **Def.*** / **oDef** homes; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-1.1: Anti-constitutional misconduct usage](#ci-11-anti-constitutional-misconduct-usage); [CI-1.2: Proportionality rule](#ci-12-proportionality-rule).
 - Read with: **CI-1**; [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer); [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-3**.
 
@@ -74,14 +74,14 @@ This file is the institutional implementation home for **CI-1** (*Scope, purpose
 - joint operational definitions, and joint cross-layer interfaces — those belong to **CJS** (reusable joint operational definitions in **CJS-3** (*operational cluster library*));
 - Rights Floors — those remain in Chapter Six;
 - system-class and steward taxonomies — those belong to **CS**;
-- forum-family operational doctrine under Chapter Eleven — those belong to **CF**;
-- anti-constitutional-misconduct designation — that remains in Chapter Ten (see **CI-1.1** for how this layer uses the label).
+- forum-family operational doctrine under Chapter Twelve — those belong to **CF**;
+- anti-constitutional-misconduct designation — that remains in Chapter Eleven (see **CI-1.1** for how this layer uses the label).
 
 ## CI-1.1: Anti-constitutional misconduct usage
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) combined satisfaction and default reading stack; [Chapter Ten](../core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) designation; [Chapter Eight](../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) standing measurement; and [Chapter Nine](../core_09_standing_integration.md) standing integration.
+- Upstream: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) combined satisfaction and default reading stack; [Chapter Eleven](../core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) designation; [Chapter Nine](../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) standing measurement; and [Chapter Ten](../core_10_standing_integration.md) standing integration.
 - Read with: **CI-1.1**; **CI-13**; **CI-27**.
 
 </details>
@@ -90,14 +90,14 @@ This file is the institutional implementation home for **CI-1** (*Scope, purpose
 
 *In plain terms: when this layer mentions **anti-constitutional misconduct**, that is a pointer to the constitutional pipeline — not a separate offense list here.*
 
-References in this folder to **anti-constitutional misconduct** are routing shorthand only. Facts and measurement remain governed by **Sentient Constitution Chapters Two through Eight** and adopting instruments where they apply; Chapter Nine supplies standing effects, and Chapter Ten supplies designation.
+References in this folder to **anti-constitutional misconduct** are routing shorthand only. Facts and measurement remain governed by **Sentient Constitution Chapters Two through Nine** and adopting instruments where they apply; Chapter Ten supplies standing effects, and Chapter Eleven supplies designation.
 
-**Chapter Ten** (*Anti-Constitutional Misconduct*) in [core_10_a_misconduct_designation.md](../core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) decides only whether the corresponding designation attaches to a fixed **Chapter Eight Violation Axis s = 7, 8, or 9** finding.
+**Chapter Eleven** (*Anti-Constitutional Misconduct*) in [core_11_a_misconduct_designation.md](../core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) decides only whether the corresponding designation attaches to a fixed **Chapter Nine Violation Axis s = 7, 8, or 9** finding.
 
 This layer does **not**:
 
 - create a parallel offense taxonomy, or
-- substitute labels for **Chapter Ten**.
+- substitute labels for **Chapter Eleven**.
 
 ## CI-1.2: Proportionality rule
 <details>

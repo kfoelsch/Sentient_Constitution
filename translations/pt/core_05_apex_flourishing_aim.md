@@ -96,7 +96,7 @@ As definições-folha sob este fim herdam o seu âmbito a menos que o estreitem 
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: família de medição Florescimento — rollup só-enlace; os níveis por termo vivem nas definições-folha ligadas na tabela abaixo.
-- Ler com: [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) onde os efeitos de sistema inteiro, a entrega do piso de sobrevivência ou as **Condições seguras** estejam materialmente no âmbito.
+- Ler com: [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) onde os efeitos de sistema inteiro, a entrega do piso de sobrevivência ou as **Condições seguras** estejam materialmente no âmbito.
 
 </details>
 

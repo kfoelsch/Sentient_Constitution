@@ -33,6 +33,31 @@
       "status": "approved",
       "ch00_category": "3.5 Oversight"
     },
+    "Material Control Line": {
+      "tier_depth": "primary_secondary",
+      "status": "approved",
+      "ch00_category": "3.6 Accountability"
+    },
+    "Initiating Seat": {
+      "tier_depth": "primary_secondary",
+      "status": "approved",
+      "ch00_category": "3.6 Accountability"
+    },
+    "Verify-or-Authorize Seat": {
+      "tier_depth": "primary_secondary",
+      "status": "approved",
+      "ch00_category": "3.6 Accountability"
+    },
+    "Record Seat": {
+      "tier_depth": "primary_secondary",
+      "status": "approved",
+      "ch00_category": "3.6 Accountability"
+    },
+    "Contest Seat": {
+      "tier_depth": "primary_secondary",
+      "status": "approved",
+      "ch00_category": "3.6 Accountability"
+    },
     "Material Impact": {
       "tier_depth": "primary_secondary",
       "status": "approved",

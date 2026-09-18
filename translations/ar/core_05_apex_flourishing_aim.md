@@ -96,7 +96,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أسفل: أسرة قياس الازدهار — تجميع بروابط فقط؛ تعيش المستويات لكل مصطلح في التعريفات الطرفية المرتبطة في الجدول أدناه.
-- يُقرأ مع: [الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) حيث تكون آثار النظام كاملًا أو تسليم أرضية البقاء أو **الشروط الآمنة** داخلة ماديًا في النطاق.
+- يُقرأ مع: [الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) حيث تكون آثار النظام كاملًا أو تسليم أرضية البقاء أو **الشروط الآمنة** داخلة ماديًا في النطاق.
 
 </details>
 

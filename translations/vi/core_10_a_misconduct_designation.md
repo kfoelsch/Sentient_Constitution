@@ -9,7 +9,7 @@
 
 > Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nó không thêm, bớt hay thu hẹp nghĩa vụ ràng buộc ở tệp này hay ở các chương khác.
 >
-> Tệp này là một **thử nghiệm ngôn ngữ đọc** của [Chương Mười, Phần A tiếng Anh](../../core_10_a_misconduct_designation.md). **Không** phải phần ràng buộc của Hiến pháp Hữu tri. **Không** phải một hiến pháp thứ hai. **Không** phải một ấn bản phát hành. Nó được **ghim** vào `SC-Corpus-2026.08.09`. Nếu bản dịch này và nguyên bản tiếng Anh có vẻ lệch nhau, tệp đánh số [`core_10_a_misconduct_designation.md`](../../core_10_a_misconduct_designation.md) thắng. Thứ tự đọc và siêu dữ liệu ấn bản được giữ ở [README.md](../../README.md). Phương pháp và bảng thuật ngữ: [translations/vi/README.md](README.md).
+> Tệp này là một **thử nghiệm ngôn ngữ đọc** của [Chương Mười, Phần A tiếng Anh](../../core_11_a_misconduct_designation.md). **Không** phải phần ràng buộc của Hiến pháp Hữu tri. **Không** phải một hiến pháp thứ hai. **Không** phải một ấn bản phát hành. Nó được **ghim** vào `SC-Corpus-2026.08.09`. Nếu bản dịch này và nguyên bản tiếng Anh có vẻ lệch nhau, tệp đánh số [`core_10_a_misconduct_designation.md`](../../core_11_a_misconduct_designation.md) thắng. Thứ tự đọc và siêu dữ liệu ấn bản được giữ ở [README.md](../../README.md). Phương pháp và bảng thuật ngữ: [translations/vi/README.md](README.md).
 >
 > Nó chứa **Chương Mười, Phần A** — khung quyết định chỉ định, bộ tiêu chí, gắn chỉ định Trục Vi phạm `s = 7–9`, bảo vệ thủ tục đúng đắn, biện pháp khắc phục, khóa phòng, và biểu đạt trách nhiệm giải trình công tự nguyện. **Phần B** — ứng dụng mẫu đã đặt tên và định tuyến tiêu chí — nằm ở [`core_10_b_misconduct_pattern_applications.md`](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications).
 >
@@ -17,7 +17,7 @@
 > - **Ranh giới đo lường:** Chỉ Chương Tám gán ô tác động số dưới thang LEQU tỷ lệ thống nhất của nó. Chương này **không** thay hay đổi đo lường đó.
 > - **Quy tắc chống dời chỗ:** Phần A không nêu lại mục lục mẫu của Phần B, khóa quỹ đạo Chương Chín, hay quy tắc hiệu lực đường thay đổi của Chương Mười Ba đến Mười Lăm.
 >
-> Hành vi sai phản hiến pháp ở **s = 7, 8, hoặc 9** là **chiếm Tứ diện** ở quy mô — đọc cùng [mục tiêu Liên tục](core_00_preamble.md#continuity) dưới [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims). Tương tác hiệu lực đường thay đổi tiếp ở [Chương Mười Ba đến Mười Lăm](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity); ràng buộc công lý vẫn ở [Chương Sáu Phần D](core_06_rights_part_d.md).
+> Hành vi sai phản hiến pháp ở **s = 7, 8, hoặc 9** là **chiếm Tứ diện** ở quy mô — đọc cùng [mục tiêu Liên tục](core_00_preamble.md#continuity) dưới [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims). Tương tác hiệu lực đường thay đổi tiếp ở [Chương Mười Ba đến Mười Lăm](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity); ràng buộc công lý vẫn ở [Chương Sáu Phần D](core_06_rights_part_d.md).
 >
 > **Thượng nguồn:** đo lường quỹ đạo Chương Tám; con trỏ chỉ định Chương Chín.
 > **Hạ nguồn:** [Phần B](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications) (*ứng dụng mẫu*); Khóa Tin cậy Chương Chín và tích hợp hiệu ứng quỹ đạo sau chỉ định cuối; định tuyến diễn đàn Chương Mười Một; hệ quả tính chính đáng quản trị Chương Mười Hai.
@@ -73,8 +73,8 @@
 - Thượng nguồn: [Chương Tám](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*Câu hỏi 1 và 2; hồ sơ đã xác minh và đo lường quỹ đạo*).
 - Con trỏ thượng nguồn: [Chương Chín §2](core_09_standing_integration.md#2-integration-record-and-decision-order) định tuyến các phát hiện ô Trục Vi phạm 7–9 đủ điều kiện tới đây chỉ để chỉ định.
 - Tệp này: chỉ định hành vi sai phản hiến pháp cuối cho Trục Vi phạm `s` = 7–9; tiêu chí chỉ định; bảo vệ thủ tục đúng đắn; ranh giới Chương Mười Ba đến Mười Lăm. Định tuyến mẫu đã đặt tên tiếp ở [Phần B](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications).
-- Hạ nguồn: [Chương Chín](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*Khóa Tin cậy và tích hợp hiệu ứng quỹ đạo sau chỉ định cuối*); [Chương Mười Một](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*định tuyến diễn đàn và chứng nhận*); [Chương Mười Hai](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) (*hệ quả tính chính đáng quản trị*).
-- Đọc cùng: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [Chương Mười Ba đến Mười Lăm](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) (*hành vi đường thay đổi có thể liên lụy tiêu chí 1–4*).
+- Hạ nguồn: [Chương Chín](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*Khóa Tin cậy và tích hợp hiệu ứng quỹ đạo sau chỉ định cuối*); [Chương Mười Một](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*định tuyến diễn đàn và chứng nhận*); [Chương Mười Hai](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) (*hệ quả tính chính đáng quản trị*).
+- Đọc cùng: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [Chương Mười Ba đến Mười Lăm](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) (*hành vi đường thay đổi có thể liên lụy tiêu chí 1–4*).
 
 </details>
 
@@ -100,7 +100,7 @@ Chương này chỉ được dùng khi một vi phạm đã xác minh đã chi�
 - Bảo vệ và kỷ luật: [§4](#4-due-process-safeguards-for-slot-assignment) (*Bảo vệ thủ tục đúng đắn, biện pháp khắc phục, và phòng*); [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*Biện pháp khắc phục và sửa (phản hiến pháp)*); [§4.2](#4-2-prevention-anti-constitutional-locks) (*Phòng — khóa phản hiến pháp*); [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Biểu đạt trách nhiệm giải trình công tự nguyện (phản hiến pháp)*).
 - Ứng dụng mẫu: [§5](core_10_b_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing) (*mẫu đã đặt tên định tuyến vào cùng tiêu chí chỉ định*).
 - Ranh giới đường thay đổi: [§1](#1-cross-chapter-discipline) (*ranh giới Chương Mười Ba đến Mười Lăm*).
-- Đọc cùng: [Chương Mười Ba đến Mười Lăm](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) nơi **lừa thoái lui** và hành vi đường thay đổi có thể liên lụy **tiêu chí 1–4**.
+- Đọc cùng: [Chương Mười Ba đến Mười Lăm](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) nơi **lừa thoái lui** và hành vi đường thay đổi có thể liên lụy **tiêu chí 1–4**.
 - Trụ Tứ diện: **tham gia**, **giám sát**, **trách nhiệm giải trình**, **kịp thời** (chiếm Tứ diện ở quy mô). Mục tiêu sơ cấp: **Liên tục** (sơ cấp), **Hưng thịnh**. Chia tỷ lệ [lợi hại vật chất](core_00_preamble.md#material-stake) áp cho bảo vệ và mức nghiêm.
 
 </details>
@@ -432,4 +432,4 @@ Sau chỉ định cuối dưới **mục 3** với bảo vệ **mục 4** đư�
 
 **Tệp tiếp theo (ngôn ngữ này):** [core_10_b_misconduct_pattern_applications.md](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)
 
-**Nguyên bản ràng buộc:** [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md)
+**Nguyên bản ràng buộc:** [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md)

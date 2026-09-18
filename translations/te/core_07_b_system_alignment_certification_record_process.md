@@ -7,7 +7,7 @@
 
 > కింది విషయం **కేవలం పాఠక మార్గదర్శకం**. ఇది ఈ ఫైల్‌లో లేదా ఇతర అధ్యాయాల్లో బంధనీయ కర్తవ్యాలను జోడించదు, తగ్గించదు, సంకుచితం చేయదు.
 >
-> ఈ ఫైల్ [ఆంగ్ల అధ్యాయం ఏడు, భాగం బి](../../core_07_b_system_alignment_certification_record_process.md)కు **పాఠక-భాష పైలట్**. ఇది సంజ్ఞ రాజ్యాంగంలో **బంధనీయ భాగం కాదు**. ఇది **రెండో రాజ్యాంగం కాదు**. ఇది **పంపిణీ సంచిక కాదు**. ఇది `SC-Corpus-2026.08.09`కు **పిన్**. ఈ అనువాదం, ఆంగ్ల మూలం వేరుగా కనిపిస్తే, సంఖ్యాత్మక [`core_07_b_system_alignment_certification_record_process.md`](../../core_07_b_system_alignment_certification_record_process.md) గెలుస్తుంది. చదివే క్రమం, సంచిక మెటాడేటా [README.md](../../README.md)లో ఉంటాయి. పద్ధతి, పదకోశం: [translations/te/README.md](README.md).
+> ఈ ఫైల్ [ఆంగ్ల అధ్యాయం ఏడు, భాగం బి](../../core_08_b_system_alignment_certification_record_process.md)కు **పాఠక-భాష పైలట్**. ఇది సంజ్ఞ రాజ్యాంగంలో **బంధనీయ భాగం కాదు**. ఇది **రెండో రాజ్యాంగం కాదు**. ఇది **పంపిణీ సంచిక కాదు**. ఇది `SC-Corpus-2026.08.09`కు **పిన్**. ఈ అనువాదం, ఆంగ్ల మూలం వేరుగా కనిపిస్తే, సంఖ్యాత్మక [`core_07_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md) గెలుస్తుంది. చదివే క్రమం, సంచిక మెటాడేటా [README.md](../../README.md)లో ఉంటాయి. పద్ధతి, పదకోశం: [translations/te/README.md](README.md).
 >
 > ఇది **అధ్యాయం ఏడు, భాగం బి**ను కలిగి ఉంది — ధృవీకరణ **రికార్డు** విషయాలు, పారదర్శకత మరియు సవాలు-యోగ్యత, వేదిక భాగ పాత్రలు, పర్యవేక్షణ క్రమం, ప్రస్థితి వంతెన, మరియు తిరిగి తెరవడం (**§11–§16**, భాగం ఎ §1–§10 నుండి కొనసాగుతూ). **భాగం ఎ** — అంచనా అవసరాలు — [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md)లో ఉంది.
 >
@@ -30,7 +30,7 @@
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - మూలం: [భాగం ఎ §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*ధృవీకరణ ఉద్దేశం మరియు అంచనా మార్గపటం*); [భాగం ఎ §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) నుండి [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*రికార్డుకు అంచనా అవుట్‌పుట్‌లు*); [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad); [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims).
-- గమ్యం: [§11](#11-certification-record) నుండి [§16](#16-reopening-drift-and-non-evasion); [అధ్యాయం ఎనిమిది](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); [అధ్యాయం పదకొండు](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction).
+- గమ్యం: [§11](#11-certification-record) నుండి [§16](#16-reopening-drift-and-non-evasion); [అధ్యాయం ఎనిమిది](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model); [అధ్యాయం పదకొండు](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction).
 - దీనితో చదవండి: [corpus_forum.md](../../corpus_forum.md), **CF-5** మరియు **CF-7**.
 
 </details>
@@ -51,7 +51,7 @@
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - మూలం: [భాగం ఎ §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*ధృవీకరణ ఉద్దేశం*); [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*మొత్తం-వ్యవస్థ అంచనా కారకాలు*); [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) నుండి [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*రికార్డుపై ప్రతిబింబించే డొమైన్ అంచనా అవుట్‌పుట్‌లు*); [వ్యవస్థ ధృవీకరణ రికార్డు](core_05_band_continuity.md#system-certification-record-constitutional) (*అధ్యాయం ఐదు అర్థం*); [§12](#12-transparency-auditability-and-contestability) (*పారదర్శకత, ఆడిట్-యోగ్యత, సవాలు-యోగ్యత*); [§14](#14-supervisory-sequence-and-contestability-chain) (*పర్యవేక్షణ క్రమం మరియు సవాలు-యోగ్యత గొలుసు*).
-- గమ్యం: [§15](#15-relationship-to-standing) (*ధృవీకరించిన-ఇన్‌పుట్ గేట్*); [అధ్యాయం పదకొండు](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*వేదిక-పర్యవేక్షిత ధృవీకరణ ప్రక్రియ*).
+- గమ్యం: [§15](#15-relationship-to-standing) (*ధృవీకరించిన-ఇన్‌పుట్ గేట్*); [అధ్యాయం పదకొండు](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*వేదిక-పర్యవేక్షిత ధృవీకరణ ప్రక్రియ*).
 - ఉపవిభాగాలు: [§11.1](#111-minimum-record-contents) (*కనీస రికార్డు విషయాలు*); [§11.2](#112-cross-section-record-requirements) (*క్రాస్-విభాగ రికార్డు అవసరాలు*); [§11.3](#113-rights-floor-record-evaluation-non-substitution) (*హక్కుల-నేల రికార్డు అంచనా — ప్రత్యామ్నాయం-కాదు*).
 
 </details>
@@ -161,7 +161,7 @@
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - మూలం: [§11](#11-certification-record) (*రికార్డు విషయాలు*); [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation), [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation), [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation), [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation), [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation), [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation), [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation), మరియు [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*వర్గం, డేటా, పాదముద్ర, వ్యవస్థల-మధ్య మద్దతు, వివక్షా నిషేధం, ప్రవేశ్యత, విద్యా-సామర్థ్యం, నమ్మదగినతనం అంచనా ఇన్‌పుట్‌లు*); పర్యవేక్షణ కొలత కుటుంబం (*రాజ్యాంగ కొలతగా సత్యం మరియు జ్ఞాన సమగ్రత*); సమయబద్ధత కొలత కుటుంబం (*సమయానుకూల పరిష్కారం మరియు ఆలస్య-నిరోధ క్రమశిక్షణ*); అధ్యాయాలు రెండు నుండి నాలుగు (*భారం, జాడ, ధృవీకరణ, సాక్ష్యం సంరక్షణ*); [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **పర్యవేక్షణ**, **జవాబుదారీతనం**, **పాల్గొనడం**, మరియు **సమయబద్ధత**; [**Def.O1** *పారదర్శకత, ఆడిట్-యోగ్యత, మరియు ధృవీకరణ*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster); [సవాలు-యోగ్యత](core_05_band_accountability.md#contestability).
-- గమ్యం: [§14](#14-supervisory-sequence-and-contestability-chain) (*పర్యవేక్షణ క్రమం మరియు సవాలు-యోగ్యత గొలుసు*); [§15](#15-relationship-to-standing) (*ధృవీకరించిన-ఇన్‌పుట్ గేట్*); [అధ్యాయం పదకొండు §2.3](../../core_11_forum.md#23-forum-records-standing-records-and-contests) (*వేదిక కేసు రికార్డులు, ప్రస్థితి-రికార్డు సవాళ్ళు*); [అధ్యాయం పదకొండు §5](../../core_11_forum.md#5-escalation-and-certification) (*ఎస్కలేషన్ మరియు ధృవీకరణ వివరం*).
+- గమ్యం: [§14](#14-supervisory-sequence-and-contestability-chain) (*పర్యవేక్షణ క్రమం మరియు సవాలు-యోగ్యత గొలుసు*); [§15](#15-relationship-to-standing) (*ధృవీకరించిన-ఇన్‌పుట్ గేట్*); [అధ్యాయం పదకొండు §2.3](../../core_12_forum.md#23-forum-records-standing-records-and-contests) (*వేదిక కేసు రికార్డులు, ప్రస్థితి-రికార్డు సవాళ్ళు*); [అధ్యాయం పదకొండు §5](../../core_12_forum.md#5-escalation-and-certification) (*ఎస్కలేషన్ మరియు ధృవీకరణ వివరం*).
 - దీనితో చదవండి: [అనుచ్ఛేదం XV: ఆడిట్, పారదర్శకత, స్వతంత్ర ధృవీకరణ](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification); [అనుచ్ఛేదం XII-B: సవాలు, సమీక్ష, పరిహారం హక్కు](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); [సాక్ష్యం సంరక్షణ](core_05_band_oversight.md#evidence-preservation); [corpus_systems.md](../../corpus_systems.md), **CS-2 — సమాచార రకాలు మరియు నిర్వహణ** మరియు **CS-3 — వ్యవస్థ వర్గీకరణ మరియు నిర్వహణ**; **CJS-3.4** (*పొరల పారదర్శకత మరియు ఆడిట్-ప్రవేశ నిబంధనలు*).
 
 </details>
@@ -239,7 +239,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: [§11](#11-certification-record) (*ధృవీకరణ రికార్డు విషయాలు*); [§12](#12-transparency-auditability-and-contestability) (*రికార్డు సమగ్రత అవసరాలు*); [అధ్యాయం పదకొండు §4](../../core_11_forum.md#4-forum-family-definitions) (*వేదిక కుటుంబాలు మరియు అనుగుణత గుర్తింపు*).
+- మూలం: [§11](#11-certification-record) (*ధృవీకరణ రికార్డు విషయాలు*); [§12](#12-transparency-auditability-and-contestability) (*రికార్డు సమగ్రత అవసరాలు*); [అధ్యాయం పదకొండు §4](../../core_12_forum.md#4-forum-family-definitions) (*వేదిక కుటుంబాలు మరియు అనుగుణత గుర్తింపు*).
 - గమ్యం: [§14](#14-supervisory-sequence-and-contestability-chain) (*పర్యవేక్షణ క్రమం మరియు సవాలు-యోగ్యత గొలుసు*); [§15](#15-relationship-to-standing) (*ప్రస్థితి-రికార్డు వంతెన*).
 - దీనితో చదవండి: [corpus_forum.md](../../corpus_forum.md), **CF-7** (*సమగ్రత రక్షణలు మరియు అనుగుణత సమన్వయం*) మరియు **CF-10** (*సాంకేతిక నిపుణ వేదికలు మరియు నిపుణ గదులు*).
 
@@ -249,7 +249,7 @@
 
 *సాధారణ మాటల్లో: వ్యవస్థ రాజ్యాంగ అనుగుణతను తీరుస్తుందని ధృవీకరించడం ఒక వ్యక్తి లేదా ఒక విభాగం పని కాదు. వేరు వేదిక కుటుంబాలు ఆ పనిలో నిర్వచించిన ముక్కను చూస్తాయి. ఏ ఒక్క నైపుణ్యం — సాంకేతిక సమీక్ష లేదా సమగ్రత సమన్వయం కూడా — మొత్తం ప్రక్రియను ఒంటరిగా నడపలేదు.*
 
-ఈ విభాగం **వ్యవస్థ అనుగుణత ధృవీకరణ**లో వేదిక-కుటుంబ **భాగ పాత్రలు** కేటాయిస్తుంది — [§11](#11-certification-record) కింద చెల్లుబాటు, పునఃచెల్లుబాటు, ఉపసంహరణ, గుర్తింపు-లేదు, సంబంధిత రికార్డులు. ఆ పాత్రలు [§14](#14-supervisory-sequence-and-contestability-chain)లోని పర్యవేక్షణ క్రమాన్ని పోషిస్తాయి. పూర్తి వేదిక నిర్వచనాలు మరియు మార్గ వివరం [అధ్యాయం పదకొండు](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) మరియు [corpus_forum.md](../../corpus_forum.md)లో ఉంటాయి. ఇక్కడ, ప్రతి కుటుంబం ధృవీకరణ రికార్డును ఉత్పత్తి, పర్యవేక్షణ, లేదా సవాలు చేయడంలో తన పరిమిత పాత్ర మాత్రమే పొందుతుంది.
+ఈ విభాగం **వ్యవస్థ అనుగుణత ధృవీకరణ**లో వేదిక-కుటుంబ **భాగ పాత్రలు** కేటాయిస్తుంది — [§11](#11-certification-record) కింద చెల్లుబాటు, పునఃచెల్లుబాటు, ఉపసంహరణ, గుర్తింపు-లేదు, సంబంధిత రికార్డులు. ఆ పాత్రలు [§14](#14-supervisory-sequence-and-contestability-chain)లోని పర్యవేక్షణ క్రమాన్ని పోషిస్తాయి. పూర్తి వేదిక నిర్వచనాలు మరియు మార్గ వివరం [అధ్యాయం పదకొండు](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) మరియు [corpus_forum.md](../../corpus_forum.md)లో ఉంటాయి. ఇక్కడ, ప్రతి కుటుంబం ధృవీకరణ రికార్డును ఉత్పత్తి, పర్యవేక్షణ, లేదా సవాలు చేయడంలో తన పరిమిత పాత్ర మాత్రమే పొందుతుంది.
 
 - **ఈ విభాగం చేసేది:**
   - ఏ వేదిక కుటుంబం ధృవీకరణ పనిలో ఏ ముక్కను సొంతం చేసుకుంటుందో పేరుపెడుతుంది;
@@ -263,7 +263,7 @@
 - **సాంకేతిక వేదికలు** — సాంకేతిక ముక్క:
   - తమ చట్టబద్ధ పరిధిలో సాంకేతిక స్పెసిఫికేషన్లు, కొలత పద్ధతులు, పరీక్ష ప్రోటోకాల్స్, నిపుణ-సాక్ష్య ప్రమాణాలు, అనిశ్చితి-తగ్గింపు పద్ధతులు, సాంకేతిక సమృద్ధి కనుగొనడాలు నిర్వహించి వర్తింపజేస్తాయి;
   - ధృవీకరణ రికార్డుకు **భాగ కనుగొనడాలు** ఇస్తాయి, [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) మరియు [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) కింద వర్గ-స్కేల్ హామీ మరియు డేటా-నిర్వహణ మౌలిక కనుగొనడాలు సహా;
-  - ధృవీకరణ హక్కులు, ప్రస్థితి, లేదా రక్షణ ప్రయోజనాలకు ఎవరు **సంజ్ఞ**గా లెక్క అవుతారో భౌతికంగా తాకిన చోట [సంజ్ఞత స్థితి తీర్పు](core_05_band_participation.md#sentience-status-adjudication-constitutional) భాగ పాత్రను పట్టుకుంటాయి — సూచిక అంచనా, నిపుణ సాక్ష్యం, పరిమిత అనిశ్చితి — [అనుచ్ఛేదం V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*సంజ్ఞత-స్థితి తీర్పు నేల*) మరియు [అధ్యాయం పదకొండు §4.2](../../core_11_forum.md#42-technical-forum-domains) / [§5](../../core_11_forum.md#5-escalation-and-certification) (*సంజ్ఞత-స్థితి తీర్పు* హుక్)తో సంగతంగా డిఫాల్ట్ నాయకత్వంగా; అధ్యాయం పదకొండు కోరినప్పుడు ఆ హుక్ కింద సమగ్రత, సంస్థాగత, లేదా రాజ్యాంగ ప్రత్యేక మార్గాలు పంపుతాయి.
+  - ధృవీకరణ హక్కులు, ప్రస్థితి, లేదా రక్షణ ప్రయోజనాలకు ఎవరు **సంజ్ఞ**గా లెక్క అవుతారో భౌతికంగా తాకిన చోట [సంజ్ఞత స్థితి తీర్పు](core_05_band_participation.md#sentience-status-adjudication-constitutional) భాగ పాత్రను పట్టుకుంటాయి — సూచిక అంచనా, నిపుణ సాక్ష్యం, పరిమిత అనిశ్చితి — [అనుచ్ఛేదం V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*సంజ్ఞత-స్థితి తీర్పు నేల*) మరియు [అధ్యాయం పదకొండు §4.2](../../core_12_forum.md#42-technical-forum-domains) / [§5](../../core_12_forum.md#5-escalation-and-certification) (*సంజ్ఞత-స్థితి తీర్పు* హుక్)తో సంగతంగా డిఫాల్ట్ నాయకత్వంగా; అధ్యాయం పదకొండు కోరినప్పుడు ఆ హుక్ కింద సమగ్రత, సంస్థాగత, లేదా రాజ్యాంగ ప్రత్యేక మార్గాలు పంపుతాయి.
 - **సమగ్రత వేదికలు** — డిఫాల్ట్ నాయక సమన్వయం:
   - అధ్యాయం పదకొండు వేరు ప్రాథమిక పందెం కేటాయించనంతవరకు అధికారిక రాజ్యాంగ అనుగుణత గుర్తింపు మరియు నడుస్తున్న అనుగుణత చెల్లుబాటును నడిపిస్తాయి;
   - సాంకేతిక-వేదిక ప్రమాణాలు భౌతికంగా వర్తించే చోట వాడతాయి;
@@ -297,9 +297,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: [§11](#11-certification-record) (*రికార్డు విషయాలు*); [§12](#12-transparency-auditability-and-contestability) (*రికార్డు సమగ్రత అవసరాలు*); [§13](#13-forum-supervision-and-component-roles) (*భాగ పాత్ర కేటాయింపులు*); సమయబద్ధత కొలత కుటుంబం (*సమయానుకూల పరిష్కారం మరియు ఆలస్య-నిరోధ క్రమశిక్షణ*); [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **పాల్గొనడం**, **పర్యవేక్షణ**, **జవాబుదారీతనం**, మరియు **సమయబద్ధత**; [అధ్యాయం పదకొండు §4](../../core_11_forum.md#4-forum-family-definitions) (*సమగ్రత-నాయక అనుగుణత గుర్తింపు, భాగ రిఫరల్, చెల్లుబాటు*); [అధ్యాయం పదకొండు §3](../../core_11_forum.md#3-transfer-consolidation-and-coordination) (*సమగ్రత-నాయక అనుగుణత సమన్వయం మరియు స్వయం-తీర్పు నిషేధం*).
-- గమ్యం: [§15](#15-relationship-to-standing) (*ధృవీకరించిన-ఇన్‌పుట్ గేట్*); [§16](#16-reopening-drift-and-non-evasion) (*తిరిగి తెరిచే ట్రిగర్లు*); [అధ్యాయం పదకొండు §5](../../core_11_forum.md#5-escalation-and-certification) (*కుటుంబం-నుండి-కుటుంబం ఎస్కలేషన్ మరియు రాజ్యాంగ ధృవీకరణ*).
-- దీనితో చదవండి: అధ్యాయం పదకొండు §1 కింద [వివాద క్రమం](../../core_11_forum.md#dispute-sequencing); [ప్రస్తావన §3.3](core_00_preamble.md#33-governance-layers); [corpus_forum.md](../../corpus_forum.md), **CF-5** మరియు **CF-7**; [అనుచ్ఛేదం XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*సవాలు, సమీక్ష, పరిహారం హక్కు*).
+- మూలం: [§11](#11-certification-record) (*రికార్డు విషయాలు*); [§12](#12-transparency-auditability-and-contestability) (*రికార్డు సమగ్రత అవసరాలు*); [§13](#13-forum-supervision-and-component-roles) (*భాగ పాత్ర కేటాయింపులు*); సమయబద్ధత కొలత కుటుంబం (*సమయానుకూల పరిష్కారం మరియు ఆలస్య-నిరోధ క్రమశిక్షణ*); [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **పాల్గొనడం**, **పర్యవేక్షణ**, **జవాబుదారీతనం**, మరియు **సమయబద్ధత**; [అధ్యాయం పదకొండు §4](../../core_12_forum.md#4-forum-family-definitions) (*సమగ్రత-నాయక అనుగుణత గుర్తింపు, భాగ రిఫరల్, చెల్లుబాటు*); [అధ్యాయం పదకొండు §3](../../core_12_forum.md#3-transfer-consolidation-and-coordination) (*సమగ్రత-నాయక అనుగుణత సమన్వయం మరియు స్వయం-తీర్పు నిషేధం*).
+- గమ్యం: [§15](#15-relationship-to-standing) (*ధృవీకరించిన-ఇన్‌పుట్ గేట్*); [§16](#16-reopening-drift-and-non-evasion) (*తిరిగి తెరిచే ట్రిగర్లు*); [అధ్యాయం పదకొండు §5](../../core_12_forum.md#5-escalation-and-certification) (*కుటుంబం-నుండి-కుటుంబం ఎస్కలేషన్ మరియు రాజ్యాంగ ధృవీకరణ*).
+- దీనితో చదవండి: అధ్యాయం పదకొండు §1 కింద [వివాద క్రమం](../../core_12_forum.md#dispute-sequencing); [ప్రస్తావన §3.3](core_00_preamble.md#33-governance-layers); [corpus_forum.md](../../corpus_forum.md), **CF-5** మరియు **CF-7**; [అనుచ్ఛేదం XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*సవాలు, సమీక్ష, పరిహారం హక్కు*).
 
 </details>
 
@@ -315,7 +315,7 @@
 - **ఉపసంహరణ**;
 - **గుర్తింపు-లేదు**.
 
-ఈ విభాగం ధృవీకరణ రికార్డులకు రాజ్యాంగ **పర్యవేక్షణ క్రమం** మరియు **సవాలు-యోగ్యత గొలుసు** చెబుతుంది. వేదిక-ప్రక్రియ వివరం **వేదికలు మరియు మార్గాధికారం** యజమాని పొర ([అధ్యాయం పదకొండు](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction))తో ఉంటుంది; సంచాలక వివరం [ప్రస్తావన — సానుకూల యజమాని నమోదు](core_00_preamble.md#4-principles-definitions-and-rights) మరియు [అధికార స్టాక్ మరియు అంతర్గత క్రమానుగతం](core_05_band_integrative.md#owner-non-relocation) ప్రకారం [corpus_systems.md](../../corpus_systems.md) కింద మార్గం పొందుతుంది. [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) కింద:
+ఈ విభాగం ధృవీకరణ రికార్డులకు రాజ్యాంగ **పర్యవేక్షణ క్రమం** మరియు **సవాలు-యోగ్యత గొలుసు** చెబుతుంది. వేదిక-ప్రక్రియ వివరం **వేదికలు మరియు మార్గాధికారం** యజమాని పొర ([అధ్యాయం పదకొండు](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction))తో ఉంటుంది; సంచాలక వివరం [ప్రస్తావన — సానుకూల యజమాని నమోదు](core_00_preamble.md#4-principles-definitions-and-rights) మరియు [అధికార స్టాక్ మరియు అంతర్గత క్రమానుగతం](core_05_band_integrative.md#owner-non-relocation) ప్రకారం [corpus_systems.md](../../corpus_systems.md) కింద మార్గం పొందుతుంది. [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) కింద:
 
 - పర్యవేక్షణ క్రమం వేదిక కుటుంబాల అంతటా **పర్యవేక్షణ** మరియు **జవాబుదారీతనం**ను అమలు చేస్తుంది;
 - సవాలు-యోగ్యత గొలుసు **పాల్గొనడం** మరియు **సమయబద్ధత**ను అమలు చేస్తుంది కాబట్టి ప్రభావిత సంజ్ఞ ప్రాణులు మనుగడ ఆవశ్యకాలు, విద్య, లేదా భద్రతను గేట్ చేసే వ్యవస్థలపై తిరుగులేని ఆధారపడటం ముందు ధృవీకరణను సవాలు చేయగలరు.
@@ -349,7 +349,7 @@
 
 #### 14.2 సవాలు-యోగ్యత గొలుసు
 
-**సవాలు-యోగ్యత గొలుసు** పర్యవేక్షణ క్రమం చట్టబద్ధ అద్దం. ఇది ప్రభావిత పక్షాలు ధృవీకరణ రికార్డును వివాదం నిజంగా ఉన్న స్థాయిలో సవాలు చేయనివ్వాలి. అధ్యాయం పదకొండు §1 కింద [వివాద క్రమం](../../core_11_forum.md#dispute-sequencing) సాధారణ మొదటి అడుగు మరియు వేదిక మార్గం ఎప్పుడు తీసుకుంటుందో పాలిస్తుంది. అధ్యాయం పదకొండు బదిలీ, ధృవీకరణ, బ్యాకప్ మార్గం, కుటుంబం-నుండి-కుటుంబం ఎస్కలేషన్ అవసరమైనప్పుడు అందుబాటులో ఉంటాయి — అవి తప్పించుకునే మార్గం, సాధారణ మొదటి అడుగు కాదు.
+**సవాలు-యోగ్యత గొలుసు** పర్యవేక్షణ క్రమం చట్టబద్ధ అద్దం. ఇది ప్రభావిత పక్షాలు ధృవీకరణ రికార్డును వివాదం నిజంగా ఉన్న స్థాయిలో సవాలు చేయనివ్వాలి. అధ్యాయం పదకొండు §1 కింద [వివాద క్రమం](../../core_12_forum.md#dispute-sequencing) సాధారణ మొదటి అడుగు మరియు వేదిక మార్గం ఎప్పుడు తీసుకుంటుందో పాలిస్తుంది. అధ్యాయం పదకొండు బదిలీ, ధృవీకరణ, బ్యాకప్ మార్గం, కుటుంబం-నుండి-కుటుంబం ఎస్కలేషన్ అవసరమైనప్పుడు అందుబాటులో ఉంటాయి — అవి తప్పించుకునే మార్గం, సాధారణ మొదటి అడుగు కాదు.
 
 <a id="142-contestability-paths"></a>
 **సవాలు-యోగ్యత మార్గాలు.** వ్యవస్థ ధృవీకరణ రికార్డు ఈ సవాలు మార్గాలను పేరుపెట్టాలి. అవి ధృవీకరణ రికార్డులకు వివాద క్రమం అమలు చేస్తాయి. అవి వేదిక కుటుంబం కావు, అధ్యాయం పదకొండు మార్గాన్ని భర్తీ చేయవు.
@@ -370,7 +370,7 @@
 
 1. **రికార్డు సవాలు** (ప్రచురించిన రికార్డు సవాలు మార్గం). ప్రభావిత పక్షాలు [§12](#12-transparency-auditability-and-contestability) కింద ధృవీకరణ-రికార్డు విషయం, పరిధి, వర్గీకరణ అంచనాలు, సాక్ష్య ఆధారపడటం, ఫలితం, ఆధారపడటం పరిమితులు, లేదా పర్యవేక్షణ సమగ్రతను సవాలు చేయవచ్చు. ఆ మార్గం ఇంకా సవాలులో ఉంటే, లేకపోతే, స్వాధీనమైతే, లేదా అవసరమైన ఉపశమనం ఇవ్వలేకపోతే, అధ్యాయం పదకొండు ప్రాథమిక పందెం ప్రకారం మార్గం పెడుతుంది.
 2. **భాగ సవాలు** (భాగ వేదిక మార్గం). భాగ కనుగొనడానికి పరిమిత సవాలు ఆ భాగంపై మెరిట్ అధికారం ఉన్న వేదిక కుటుంబానికి మార్గం పొందుతుంది. నాయక వేదిక సమయానుకూల సమీక్ష వేచి సవాలు చేయబడిన భాగంపై ఆధారపడటాన్ని [నిలుపవచ్చు](core_05_band_accountability.md#stay).
-3. **నాయక-సమన్వయ సవాలు** (నాయక-సమగ్రత మార్గం). నాయక వేదిక ప్రక్రియను ఎలా నడిపిందో గురించిన సవాలు [అధ్యాయం పదకొండు](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) సమగ్రత మరియు స్వయం-తీర్పు నిషేధ నియమాల కింద మార్గం పొందుతుంది. ఇందులో స్వాధీనం, దాచిన సమాచారం, స్వయం-సమీక్ష, దుర్వినియోగ అడుగు-క్రమం, ధృవీకరణను చాలా తొందరగా పూర్తయిందని చెప్పడం, లేదా ఇతర నాయక-వేదిక సమగ్రత సమస్యలు ఉంటాయి. సవాలు ఆ నాయక వేదిక స్వంత పక్షపాతం, స్వాధీనం, సంఘర్షణ, లేదా ప్రక్రియ దుర్వినియోగం లక్ష్యం చేసినప్పుడు, సమీక్ష అదే నాయక వేదికకు పరిమితం కాకుండా ఆ నియమాల కింద బ్యాకప్ మార్గం వర్తిస్తుంది.
+3. **నాయక-సమన్వయ సవాలు** (నాయక-సమగ్రత మార్గం). నాయక వేదిక ప్రక్రియను ఎలా నడిపిందో గురించిన సవాలు [అధ్యాయం పదకొండు](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) సమగ్రత మరియు స్వయం-తీర్పు నిషేధ నియమాల కింద మార్గం పొందుతుంది. ఇందులో స్వాధీనం, దాచిన సమాచారం, స్వయం-సమీక్ష, దుర్వినియోగ అడుగు-క్రమం, ధృవీకరణను చాలా తొందరగా పూర్తయిందని చెప్పడం, లేదా ఇతర నాయక-వేదిక సమగ్రత సమస్యలు ఉంటాయి. సవాలు ఆ నాయక వేదిక స్వంత పక్షపాతం, స్వాధీనం, సంఘర్షణ, లేదా ప్రక్రియ దుర్వినియోగం లక్ష్యం చేసినప్పుడు, సమీక్ష అదే నాయక వేదికకు పరిమితం కాకుండా ఆ నియమాల కింద బ్యాకప్ మార్గం వర్తిస్తుంది.
 4. **ఎస్కలేషన్ మరియు ధృవీకరణ** (ఎస్కలేషన్ మార్గం). ప్రాథమిక పందెాలు, రాజ్యాంగ చెల్లుబాటు, నిర్మాణ పరిహారం, కుటుంబం డెడ్‌లాక్, లేదా స్వయం-తీర్పు నిషేధ రక్షణ కోరిన చోట, సవాలు మార్గం అధ్యాయం పదకొండు బదిలీ, ధృవీకరణ, బ్యాకప్ మార్గం, కుటుంబం-నుండి-కుటుంబం ఎస్కలేషన్ ద్వారా కొనసాగుతుంది.
 5. **సవాలు సమయంలో ఆధారపడటం పరిమితులు:** భౌతిక మరియు సమయానుకూల సవాలు అంచనా వేయదగిన హాని నివారించడానికి, సాక్ష్యం కాపాడడానికి, లేదా సవాలులో ఉన్న కనుగొనడంపై తిరుగులేని ఆధారపడటం నివారించడానికి అవసరమైనంతవరకు ధృవీకరణ రికార్డుపై ఆధారపడటాన్ని పరిమితం లేదా నిలుపవచ్చు, [అనుచ్ఛేదం XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*సమయానుకూల పరిష్కారం మరియు ఆలస్య-నిరోధ నేల*) కింద త్వరిత సమీక్షకు లోబడి.
 
@@ -382,7 +382,7 @@
 
 నటులు ఒక ధృవీకరణను దాచిన ఉప-రికార్డులుగా చీల్చి, సవాళ్ళను స్వాధీనమైన అంతర్గత శరీరాలకు మాత్రమే మార్గం పెట్టి, సవాలును అతి తక్కువ పరిపాలన పొర వద్ద మాత్రమే అయిపోయినట్టు చేసి, లేదా అవసరమైన భాగ కనుగొనడం ఎన్నడూ చట్టబద్ధంగా జారీ కాకపోయిన చోట భాగ నిశ్శబ్దాన్ని తుది ఆమోదంగా పరిగణించి పర్యవేక్షణ క్రమం లేదా సవాలు-యోగ్యత గొలుసును ఓడించకూడదు.
 
-వేదిక-పర్యవేక్షిత సవాలు అవసరమైనప్పుడు, అంతర్గత ఆపరేటర్ సమీక్ష, విక్రేత ధృవీకరణ, లేదా సాంకేతిక సంతకం దానికి ప్రత్యామ్నాయం కావు. ప్రభావిత పక్షాలకు ఇంకా [వివాద క్రమం](../../core_11_forum.md#dispute-sequencing) మరియు పేరుపెట్టిన [సవాలు-యోగ్యత మార్గాలు](#142-contestability-paths) కింద నిజమైన వేదిక మార్గం ఉండాలి.
+వేదిక-పర్యవేక్షిత సవాలు అవసరమైనప్పుడు, అంతర్గత ఆపరేటర్ సమీక్ష, విక్రేత ధృవీకరణ, లేదా సాంకేతిక సంతకం దానికి ప్రత్యామ్నాయం కావు. ప్రభావిత పక్షాలకు ఇంకా [వివాద క్రమం](../../core_12_forum.md#dispute-sequencing) మరియు పేరుపెట్టిన [సవాలు-యోగ్యత మార్గాలు](#142-contestability-paths) కింద నిజమైన వేదిక మార్గం ఉండాలి.
 
 <a id="15-relationship-to-standing"></a>
 
@@ -392,7 +392,7 @@
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - మూలం: [§11](#11-certification-record) నుండి [§13](#13-forum-supervision-and-component-roles) (*ధృవీకరణ రికార్డు మరియు వేదిక పర్యవేక్షణ*); [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad); [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims); [ప్రస్థితికి ధృవీకరించిన ఇన్‌పుట్లు](core_05_band_accountability.md#verified-inputs-for-standing).
-- గమ్యం: [అధ్యాయం ఎనిమిది](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*ప్రస్థితి రికార్డులు మరియు ధృవీకరించిన-ఇన్‌పుట్ గేట్*); [అధ్యాయం తొమ్మిది](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*ప్రస్థితి ప్రభావాలు మరియు సమావేశీకరణ*).
+- గమ్యం: [అధ్యాయం ఎనిమిది](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*ప్రస్థితి రికార్డులు మరియు ధృవీకరించిన-ఇన్‌పుట్ గేట్*); [అధ్యాయం తొమ్మిది](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*ప్రస్థితి ప్రభావాలు మరియు సమావేశీకరణ*).
 - దీనితో చదవండి: **అనుచ్ఛేదం III-A** (*ధృవీకరణ అందింపును గేట్ చేసే చోట మనుగడ-ఆవశ్యక ప్రవేశం*).
 
 </details>
@@ -450,8 +450,8 @@
 
 - ధృవీకరణ రికార్డు ప్రస్థితి ప్రభావాలు **వర్తింపజేయదు**;
 - ఈ అధ్యాయం **వ్యవస్థ అనుగుణత ధృవీకరణ మరియు సంబంధిత రికార్డులు** మాత్రమే సొంతం చేసుకుంటుంది — [ప్రస్తావన — సానుకూల యజమాని నమోదు](core_00_preamble.md#4-principles-definitions-and-rights) చూడండి, [అధికార స్టాక్ మరియు అంతర్గత క్రమానుగతం](core_05_band_integrative.md#authority-stack)తో చదవండి;
-- [అధ్యాయం ఎనిమిది](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) ప్రస్థితి రికార్డులు మరియు అక్షం-శుద్ధ కొలత సొంతం చేసుకుంటుంది;
-- [అధ్యాయం తొమ్మిది](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) ప్రస్థితి సమావేశీకరణ మరియు ప్రభావాలు సొంతం చేసుకుంటుంది;
+- [అధ్యాయం ఎనిమిది](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) ప్రస్థితి రికార్డులు మరియు అక్షం-శుద్ధ కొలత సొంతం చేసుకుంటుంది;
+- [అధ్యాయం తొమ్మిది](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) ప్రస్థితి సమావేశీకరణ మరియు ప్రభావాలు సొంతం చేసుకుంటుంది;
 - ఈ అధ్యాయం పై గేట్ ద్వారా మాత్రమే ధృవీకరించిన ఇన్‌పుట్‌లు ఇవ్వగలదు;
 - ఇది అధ్యాయం ఎనిమిది లేదా అధ్యాయం తొమ్మిది యజమాని కర్తవ్యాలను మింగకూడదు, తిరిగి చెప్పకూడదు, తరలించకూడదు.
 
@@ -466,7 +466,7 @@
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - మూలం: [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*తప్పు వర్గీకరణ మరియు అసమతుల్యత*); [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*ప్రమాద-అంచనా మరియు ప్రమాద-బహిర్గత లోపాలు*); [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) (*పాదముద్ర తప్పుడు ప్రాతినిధ్యం మరియు అసమతుల్యత*); [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) (*వనరు-ప్రవాహ తప్పుడు ప్రాతినిధ్యం, తీసివేత అసమతుల్యత, మద్దతు అసమృద్ధి*); [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) (*వివక్ష-నమూనా అసమతుల్యత మరియు ప్రతినిధి తప్పించుకోవడం*); [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) (*ప్రవేశ్యత అసమతుల్యత మరియు కాగితం-మాత్రమే సదుపాయం*); [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) (*అంచనా-అస్పష్టత అసమతుల్యత, ఆధార గేట్‌కీపింగ్, బలవంతపు-వాడుకలేకపోవడం అసమతుల్యత*); [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*తప్పుడు-విశ్వాసం అసమతుల్యత, విపరీత-ప్రోత్సాహకం అసమతుల్యత, పునరుద్ధరణ-సమగ్రత అసమతుల్యత*); [§12](#12-transparency-auditability-and-contestability) (*సవాలు-యోగ్యత*); [§14](#14-supervisory-sequence-and-contestability-chain) (*నమ్మదగిన సవాలు మరియు తిరిగి తెరవడం*); [అధ్యాయం మూడు §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) మరియు [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*నిర్వచన సమగ్రత మరియు తప్పించుకోవడం*); [అధ్యాయం మూడు §2.1 సాధారణ తప్పించుకోవడం నమూనాలు](core_03_definition_integrity.md#21-common-evasion-patterns) (*పరిధి-మరియు-సరిహద్దు తప్పించుకోవడం*); [పరిధి పత్రం](core_05_band_continuity.md#charter) (*పరిధి పత్రం–ప్రవర్తన అసంగతి మరియు ఆలస్య సమీక్ష*).
-- గమ్యం: [అధ్యాయం పదకొండు](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*తిరిగి తెరిచిన వేదిక పర్యవేక్షణ*); [అధ్యాయం ఎనిమిది](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*వాస్తవాలు ప్రతికూల కనుగొనడాలకు మద్దతు ఇచ్చే చోట ధృవీకరించిన-ఇన్‌పుట్ గేట్*).
+- గమ్యం: [అధ్యాయం పదకొండు](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*తిరిగి తెరిచిన వేదిక పర్యవేక్షణ*); [అధ్యాయం ఎనిమిది](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*వాస్తవాలు ప్రతికూల కనుగొనడాలకు మద్దతు ఇచ్చే చోట ధృవీకరించిన-ఇన్‌పుట్ గేట్*).
 - దీనితో చదవండి: [corpus_systems.md](../../corpus_systems.md) (*సమావేశీకరించిన వ్యవస్థ అమలు కర్తవ్యాలు*), ఆవర్తన డేటా-రకం పునఃఅంచనాకు **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*పునఃవర్గీకరణ మరియు జీవితచక్ర పాలన*) సహా, మరియు వ్యవస్థ-వర్గ పునఃఅంచనా ట్రిగర్లు మరియు SAC ధృవీకరణకు **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*పునఃవర్గీకరణ అవసరం*).
 
 </details>
@@ -515,4 +515,4 @@
 
 **తదుపరి ఫైల్ (ఈ భాషలో):** [core_08_standing_assessment.md](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)
 
-**బంధనీయ మూలం:** [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md)
+**బంధనీయ మూలం:** [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md)

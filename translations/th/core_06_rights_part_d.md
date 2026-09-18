@@ -12,7 +12,7 @@
 >
 > **ก่อนหน้า (ภาษานี้):** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 >
-> **ถัดไป (ยังเป็นภาษาอังกฤษ):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+> **ถัดไป (ยังเป็นภาษาอังกฤษ):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 > **ส่วนโค้งการอ่าน:** มาตรา XXIII–XXVI (ความยุติธรรมและภาวะฉุกเฉิน วิวัฒนาการทางรัฐธรรมนูญ การเปลี่ยนผ่าน และการตั้งเส้นฐานใหม่)
 
 </details>
@@ -79,7 +79,7 @@
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
 - ต้นทาง: หลักการ: บทที่หนึ่ง [§3.1 ความปลอดภัย](core_01_a_values_principles.md#31-safety-harm-constraint) [บทที่หนึ่ง §6.1.5 วิธีดำเนินการการชนของสิทธิ](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) [บทที่หนึ่ง §9.6 กระบวนการต้านการทำให้เสื่อม](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) และ [§15 การใช้แบบรวม](core_01_c_stewardship_capacity_principles.md#15-integrated-application)
-- ปลายทาง: [บทที่เก้า §4](../../core_09_standing_integration.md#4-violation-correction-and-prevention) (*การละเมิด การแก้ไข และการป้องกัน*); [มาตรา XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [มาตรา XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule)
+- ปลายทาง: [บทที่เก้า §4](../../core_10_standing_integration.md#4-violation-correction-and-prevention) (*การละเมิด การแก้ไข และการป้องกัน*); [มาตรา XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [มาตรา XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule)
 - อ่านคู่กับ: [ความโหดร้าย](core_05_band_accountability.md#cruelty) (*บ้านบทที่ห้าของมาตรฐานความทุกข์เป็นจุดหมายของพื้นต้านความโหดร้าย*)
 
 </details>
@@ -329,7 +329,7 @@
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
 - ต้นทาง: หลักการ: บทที่หนึ่ง [§6.1.5 การทดสอบคำตัดสินการชนของสิทธิ](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) [§7 ข้อห้ามการลบล้างสัมบูรณ์](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override) และ [§15 การใช้แบบรวม](core_01_c_stewardship_capacity_principles.md#15-integrated-application)
-- อ่านคู่กับ: [บทที่เก้า §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*การแสดงความรับผิดชอบสาธารณะโดยสมัครใจ*); [บทที่สิบ §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*การแสดงความรับผิดชอบสาธารณะโดยสมัครใจ (ต่อต้านรัฐธรรมนูญ)*)
+- อ่านคู่กับ: [บทที่เก้า §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*การแสดงความรับผิดชอบสาธารณะโดยสมัครใจ*); [บทที่สิบ §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*การแสดงความรับผิดชอบสาธารณะโดยสมัครใจ (ต่อต้านรัฐธรรมนูญ)*)
 
 </details>
 
@@ -358,7 +358,7 @@
     - ความเสี่ยงที่กำลังดำเนิน;
     - ความไม่สมมาตรของอำนาจที่เป็นสาระ;
     - การไม่ยินยอมของฝ่ายที่ได้รับผลกระทบ
-- **การแสดงความรับผิดชอบสาธารณะโดยสมัครใจ:** ถูกกำกับโดย [บทที่เก้า §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*การแสดงความรับผิดชอบสาธารณะโดยสมัครใจ*) โดยทั่วไป และโดย [บทที่สิบ §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*การแสดงความรับผิดชอบสาธารณะโดยสมัครใจ (ต่อต้านรัฐธรรมนูญ)*) สำหรับความประพฤติมิชอบที่ต่อต้านรัฐธรรมนูญที่ตรวจสอบแล้ว ภายใต้กฎการชนของสิทธิและความสอดคล้องที่คืนในมาตรานี้
+- **การแสดงความรับผิดชอบสาธารณะโดยสมัครใจ:** ถูกกำกับโดย [บทที่เก้า §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*การแสดงความรับผิดชอบสาธารณะโดยสมัครใจ*) โดยทั่วไป และโดย [บทที่สิบ §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*การแสดงความรับผิดชอบสาธารณะโดยสมัครใจ (ต่อต้านรัฐธรรมนูญ)*) สำหรับความประพฤติมิชอบที่ต่อต้านรัฐธรรมนูญที่ตรวจสอบแล้ว ภายใต้กฎการชนของสิทธิและความสอดคล้องที่คืนในมาตรานี้
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### มาตรา XXIV-C: พื้นการยุติที่ทันเวลาและต้านความล่าช้า
 <details>
@@ -394,7 +394,7 @@
 - **สามข้อกำหนดร่วม:** เส้นทางการยุติที่เป็นสาระต้อง **ทันเวลา** **มีประสิทธิภาพ** และ **ยุติธรรม** พร้อมกัน:
   - **ทันเวลา** — นาฬิกาที่มีขอบปรับตาม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) และความเร่งด่วนของภัย;
   - **มีประสิทธิภาพ** — [ประสิทธิภาพทางรัฐธรรมนูญ](core_05_band_continuity.md#constitutional-efficiency) ในความหมายของบทที่หนึ่ง [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) — ผลทางรัฐธรรมนูญจริงต่อเวลาของผู้มีความรู้สึกและความพยายามร่วมที่บริโภค ไม่ใช่ปริมาณดิบหรือการเคลียร์สำนวน;
-  - **ยุติธรรม** — **มาตรา XXIII-A** (*จุดประสงค์และขอบเขตแห่งความยุติธรรม*) **มาตรา XXIII-B** (*ข้อจำกัดที่ไม่เล็กน้อย การคืน และการจำกัดความรับผิดชอบที่คืนสภาพ*) และ **มาตรา XXIII-C** (*กฎที่จำกัดน้อยที่สุดและมีขอบเขตเวลา*) ยังใช้เต็ม; การเคลื่อนเร็วไม่ใช่ข้ออ้างให้ข้ามข้อเท็จจริงที่ตรวจแล้ว ([บทที่แปด §3.1](../../core_08_standing_assessment.md#verified-inputs-for-standing)) ลงโทษฝ่ายผิด เสนอการซ่อมที่ไม่ตรงภัย หรือตัดการโต้แย้งและการอุทธรณ์
+  - **ยุติธรรม** — **มาตรา XXIII-A** (*จุดประสงค์และขอบเขตแห่งความยุติธรรม*) **มาตรา XXIII-B** (*ข้อจำกัดที่ไม่เล็กน้อย การคืน และการจำกัดความรับผิดชอบที่คืนสภาพ*) และ **มาตรา XXIII-C** (*กฎที่จำกัดน้อยที่สุดและมีขอบเขตเวลา*) ยังใช้เต็ม; การเคลื่อนเร็วไม่ใช่ข้ออ้างให้ข้ามข้อเท็จจริงที่ตรวจแล้ว ([บทที่แปด §3.1](../../core_09_standing_assessment.md#verified-inputs-for-standing)) ลงโทษฝ่ายผิด เสนอการซ่อมที่ไม่ตรงภัย หรือตัดการโต้แย้งและการอุทธรณ์
 - **การกำกับเวทีและสาย:** สิ่งต่อไปนี้สำหรับข้อพิพาทที่ถูกจัดเส้นทางผ่าน **บทที่แปดถึงสิบเอ็ด** ถูกกำกับโดย [บทที่สิบเอ็ด §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) ภายใต้พื้นทันเวลา มีประสิทธิภาพ และยุติธรรมของมาตรานี้:
   - การจำแนกชั้นความเป็นสาระ;
   - หลักไมล์ขั้นสาย;
@@ -431,7 +431,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: หลักการ: [บทที่หนึ่ง §10.3 เหตุผลต่อเนื่อง](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification); บทที่หนึ่ง [§2 จุดประสงค์พื้นฐาน: ความผาสุก](core_01_a_values_principles.md#2-foundational-objective-wellbeing) [บทที่เจ็ด §3 การประเมินการรับรองระบบทั้งระบบ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) และ [§7 ข้อห้ามการลบล้างสัมบูรณ์](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)
+- ต้นทาง: หลักการ: [บทที่หนึ่ง §10.3 เหตุผลต่อเนื่อง](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification); บทที่หนึ่ง [§2 จุดประสงค์พื้นฐาน: ความผาสุก](core_01_a_values_principles.md#2-foundational-objective-wellbeing) [บทที่เจ็ด §3 การประเมินการรับรองระบบทั้งระบบ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) และ [§7 ข้อห้ามการลบล้างสัมบูรณ์](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)
 
 </details>
 
@@ -461,7 +461,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.2 ความจริง](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) [บทที่เจ็ด §3 การประเมินการรับรองระบบทั้งระบบ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) และ [§7 ข้อห้ามการลบล้างสัมบูรณ์](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.2 ความจริง](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) [บทที่เจ็ด §3 การประเมินการรับรองระบบทั้งระบบ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) และ [§7 ข้อห้ามการลบล้างสัมบูรณ์](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)
 
 </details>
 
@@ -517,7 +517,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.1 ความปลอดภัย](core_01_a_values_principles.md#31-safety-harm-constraint) [§6.1 หลักการแลกหลัก](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) และ [บทที่เจ็ด §3 การประเมินการรับรองระบบทั้งระบบ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [บทที่เก้า §5.4](../../core_09_standing_integration.md#54-special-violation-rules) (*การริบรางวัลที่ไม่สอดคล้องและหน้าที่รายงานถูกจำกัดระหว่างการเปลี่ยนผ่านโดยมาตรานี้*); [บทที่เจ็ด — การรับรองความสอดคล้องของระบบ](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.1 ความปลอดภัย](core_01_a_values_principles.md#31-safety-harm-constraint) [§6.1 หลักการแลกหลัก](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) และ [บทที่เจ็ด §3 การประเมินการรับรองระบบทั้งระบบ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [บทที่เก้า §5.4](../../core_10_standing_integration.md#54-special-violation-rules) (*การริบรางวัลที่ไม่สอดคล้องและหน้าที่รายงานถูกจำกัดระหว่างการเปลี่ยนผ่านโดยมาตรานี้*); [บทที่เจ็ด — การรับรองความสอดคล้องของระบบ](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)
 
 </details>
 
@@ -554,7 +554,7 @@
   
   การเลิกใช้ การเกษียณ การย้อนกลับ การย้าย หรือการแทนที่สนองหัวข้อนี้ด้วยการเก็บส่วนประกอบที่บรรทุกสถานะภายใต้ **การรักษาหลักฐาน** และวินัยการไม่แยกของ **มาตรา VII-D** (*ครอบครัว ความสัมพันธ์การดูแล อำนาจการสืบพันธุ์ และการไม่แยก*) นี่คือ [ท่าทางระหว่างกาลปริยายของบทที่หนึ่ง §6.1](core_01_b_interaction_interpretation.md#default-interim-posture) — แช่ก้าวที่ไม่อาจย้อนกลับ — ใช้กับก้าวที่ไม่อาจย้อนกลับหนึ่งที่การดำเนินงานมรดกถือเป็นงานประจำ ต้นทุนเก็บ ความสะดวกใบอนุญาต หรือกรอบวงจรผลิตภัณฑ์ไม่สนอง **ความจำเป็น** ต่อมัน ในที่ที่การเก็บเองสร้างความเสี่ยงความปลอดภัยที่ถูกบันทึก มาตรการที่เข้ากันได้ที่จำกัดน้อยที่สุดคือการพิทักษ์ผนึกภายใต้การควบคุมอิสระ ไม่ใช่การทำลาย
 <a id="incentive-alignment-transition-carve-out"></a>
-- **ข้อยกเว้นเปลี่ยนผ่านของความสอดคล้องของสิ่งจูงใจ:** ระหว่างระยะเปลี่ยนผ่านที่อนุมัติภายใต้ **มาตรา XXVI** (*การปกครองการเปลี่ยนผ่าน ความต่อเนื่อง และการตั้งเส้นฐานใหม่*) อ่านคู่กับ [บทที่เจ็ด — การรับรองความสอดคล้องของระบบ](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) [บทที่เก้า §5.4 หน้าที่รายงานและข้อยกเว้น](../../core_09_standing_integration.md#54-special-violation-rules) และ [§5.4 การริบและการเก็บรักษา](../../core_09_standing_integration.md#54-special-violation-rules) **ไม่** ใช้กับรางวัลที่ไหลผ่านระบบร่วมเพียงเพราะระบบเหล่านั้น **ยังไม่ได้รับการรับรองความสอดคล้อง** หรือ **ยังไม่สอดคล้องเต็ม** โดยมีเงื่อนไข:
+- **ข้อยกเว้นเปลี่ยนผ่านของความสอดคล้องของสิ่งจูงใจ:** ระหว่างระยะเปลี่ยนผ่านที่อนุมัติภายใต้ **มาตรา XXVI** (*การปกครองการเปลี่ยนผ่าน ความต่อเนื่อง และการตั้งเส้นฐานใหม่*) อ่านคู่กับ [บทที่เจ็ด — การรับรองความสอดคล้องของระบบ](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) [บทที่เก้า §5.4 หน้าที่รายงานและข้อยกเว้น](../../core_10_standing_integration.md#54-special-violation-rules) และ [§5.4 การริบและการเก็บรักษา](../../core_10_standing_integration.md#54-special-violation-rules) **ไม่** ใช้กับรางวัลที่ไหลผ่านระบบร่วมเพียงเพราะระบบเหล่านั้น **ยังไม่ได้รับการรับรองความสอดคล้อง** หรือ **ยังไม่สอดคล้องเต็ม** โดยมีเงื่อนไข:
   - การดำเนินงานคงอยู่ใน **แผนเปลี่ยนผ่านที่ถูกบันทึก** และเกณฑ์ธรณีประตูที่เผยแพร่ภายใต้ **มาตรา XXVI** (*การปกครองการเปลี่ยนผ่าน ความต่อเนื่อง และการตั้งเส้นฐานใหม่*);
   - ระบบกำลังเดินสู่ [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) ตามจังหวะที่เผยแพร่ รวม **การรับรู้มีเงื่อนไข** หรือ **การรับรู้ที่เลื่อน** ในที่ที่บทที่เจ็ดอนุญาต; และ
   - ผู้ดำเนินและผู้รับประโยชน์ไม่ได้ **ปิดบังโดยรู้** ความไม่สอดคล้อง ดำเนินงานนอกขอบเขตเปลี่ยนผ่านที่อนุมัติ หรือใช้สถานะเปลี่ยนผ่านเพื่อเลี่ยงการรับรอง การแก้ไข หรือการรายงานที่คุ้มครอง
@@ -600,7 +600,7 @@
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
 - ต้นทาง: หลักการ: บทที่หนึ่ง [§3.1 ความปลอดภัย](core_01_a_values_principles.md#31-safety-harm-constraint) [§6.1 หลักการแลกหลัก](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) และ [§15 การใช้แบบรวม](core_01_c_stewardship_capacity_principles.md#15-integrated-application)
-- อ่านคู่กับ: [บทที่เจ็ด](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*การรับรองความสอดคล้องของระบบ*); [บทที่แปดถึงสิบเอ็ด](../../README.md#standing-pipeline-and-forums) (*สายร่องรอยและการกำกับเวที*)
+- อ่านคู่กับ: [บทที่เจ็ด](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*การรับรองความสอดคล้องของระบบ*); [บทที่แปดถึงสิบเอ็ด](../../README.md#standing-pipeline-and-forums) (*สายร่องรอยและการกำกับเวที*)
 
 </details>
 
@@ -624,7 +624,7 @@
   เส้นทางสำรองที่กำหนดล่วงหน้า เกณฑ์การย้อนกลับบางส่วน และวิธีดำเนินการตั้งเส้นฐานใหม่ถูกกำกับโดย [**CI-14**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*การปกครองช่วงเปลี่ยนผ่านและวิวัฒนาการของสถาบัน*)
   - สถานะเปลี่ยนผ่านที่ล้มหรือเสื่อมต้องไม่กลายเป็นเส้นฐานใหม่ด้วยการคงอยู่เพียงอย่างเดียว
 - **การตั้งเส้นฐานใหม่ที่เป็นสาระ:** การตั้งเส้นฐานใหม่ที่เป็นสาระอัปเดตหลักไมล์เปลี่ยนผ่าน สมมติฐานความเสี่ยง เจ้าของ และแผนดำเนินงานเมื่อธรณีประตูล้มหรือการเปลี่ยนผ่านค้าง มันต้องการอำนาจที่ชอบด้วยรัฐธรรมนูญและเหตุผลสาธารณะที่ถูกบันทึก มันต้องรักษา **พื้นขั้นต่ำของพื้นสิทธิ** และต้องไม่แทนกฎการเปลี่ยนรัฐธรรมนูญโดยชอบด้วยกฎหมาย
-- **เงื่อนไขสุขภาพการตรวจสอบ:** การตั้งใหม่หรือการต่อเนื่องบนเส้นฐานเปลี่ยนผ่านที่แก้แล้วไม่ปฏิบัติตามในที่ที่ [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) ภายใต้ [บทที่เจ็ด](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) หรือสายร่องรอยภายใต้ [บทที่แปดถึงสิบเอ็ด](../../README.md#standing-pipeline-and-forums) ไม่น่าเชื่อถือเชิงโครงสร้าง — ตัวอย่างเช่น ในที่ที่การรับรองอวยพรระบบที่ทำลายพื้นสิทธิอย่างเป็นสาระเป็นประจำ การวัดร่องรอยคลาดจากความเป็นจริงที่เป็นสาระที่ตรวจสอบแล้วเป็นประจำ หรือเส้นทางโต้แย้งและทบทวนแก้ช่องว่างเหล่านั้นภายในเวลาที่ปรับตามความเป็นสาระไม่ได้ ในเงื่อนไขเหล่านั้น การซ่อมเครื่องจักรการตรวจสอบและการวัดมาก่อนการวางแผนใหม่ที่เป็นเครื่องสำอาง
+- **เงื่อนไขสุขภาพการตรวจสอบ:** การตั้งใหม่หรือการต่อเนื่องบนเส้นฐานเปลี่ยนผ่านที่แก้แล้วไม่ปฏิบัติตามในที่ที่ [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) ภายใต้ [บทที่เจ็ด](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) หรือสายร่องรอยภายใต้ [บทที่แปดถึงสิบเอ็ด](../../README.md#standing-pipeline-and-forums) ไม่น่าเชื่อถือเชิงโครงสร้าง — ตัวอย่างเช่น ในที่ที่การรับรองอวยพรระบบที่ทำลายพื้นสิทธิอย่างเป็นสาระเป็นประจำ การวัดร่องรอยคลาดจากความเป็นจริงที่เป็นสาระที่ตรวจสอบแล้วเป็นประจำ หรือเส้นทางโต้แย้งและทบทวนแก้ช่องว่างเหล่านั้นภายในเวลาที่ปรับตามความเป็นสาระไม่ได้ ในเงื่อนไขเหล่านั้น การซ่อมเครื่องจักรการตรวจสอบและการวัดมาก่อนการวางแผนใหม่ที่เป็นเครื่องสำอาง
 - **ความสามารถในการตามรอยสาธารณะ:** คำตัดสินเปลี่ยนผ่านที่เป็นสาระ ความล่าช้า การย้อนกลับ และการกำหนดตั้งเส้นฐานใหม่ต้องคงตรวจได้พร้อมเหตุผลและนัยความเสี่ยง
   - เอกสารยังอยู่ภายใต้ข้อจำกัดความลับที่แคบและมีเหตุ
   - มันต้องรักษาคำอธิบายสาธารณะพอประเมินว่าความล่าช้า การย้อนกลับ หรือการต่อเนื่องมีเหตุทางรัฐธรรมนูญหรือไม่
@@ -635,7 +635,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.1 ความปลอดภัย](core_01_a_values_principles.md#31-safety-harm-constraint) [บทที่หนึ่ง §6.1.5 วิธีดำเนินการการชนของสิทธิ](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) และ [บทที่เจ็ด §3 การประเมินการรับรองระบบทั้งระบบ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.1 ความปลอดภัย](core_01_a_values_principles.md#31-safety-harm-constraint) [บทที่หนึ่ง §6.1.5 วิธีดำเนินการการชนของสิทธิ](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) และ [บทที่เจ็ด §3 การประเมินการรับรองระบบทั้งระบบ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
 - อ่านคู่กับ: **มาตรา III-A** (*การอยู่รอด*); **มาตรา XII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*); **มาตรา X-B** (*ขอบเขตภัยร่วมและส่วนต่อประสานการบังคับใช้*); **บทที่แปด**; **บทที่หนึ่ง** รวมวิธีดำเนินการการชนของสิทธิของ §6; **กองข้อจำกัดปริยาย** ที่เปิดบทที่หก (*ส่วนต่อประสานการครอบครองและการแก้ไข*); [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) ถึง **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*การปกครองช่วงเปลี่ยนผ่านและวิวัฒนาการของสถาบัน*)
 
 </details>
@@ -653,7 +653,7 @@
 
 *พูดแบบตรง ๆ: ระบบและทรัพย์สินที่ไม่ปฏิบัติตามอาจถูกแก้ไขระหว่างการเปลี่ยนผ่าน — แต่เฉพาะผ่านกระบวนการแคบ ที่ถูกบันทึก และทบทวนได้ ซึ่งคุ้มครองสิทธิพื้นฐาน กั้นข้ออ้างลวง และไม่กลายเป็นการแก้แค้นหรือการเล็งเป้าทางการเมือง วิธีที่สถาบันทำให้ — บทบาท ตัวกระตุ้น การพิทักษ์ การอุทธรณ์ กองทุน และกลไกสิ่งจูงใจ — อยู่ใน **CI-14.1** ถึง **CI-14.3**; มาตรานี้กล่าวพื้นทางรัฐธรรมนูญที่วิธีดำเนินการเหล่านั้นต้องไม่ทำให้แคบลง*
 
-- **พื้นการครอบครอง:** หากคุณเป็นเจ้าของหรือใช้สิ่งใดโดยชอบด้วยกฎหมาย การเปลี่ยนผ่านจะเอาไปตามอำเภอใจไม่ได้ แต่ความเป็นเจ้าของไม่ใช่โล่เมื่อปล่อยสินทรัพย์นั้นเดินต่อชัดเจนว่าคงการละเมิดทางรัฐธรรมนูญที่รู้และขนาดใหญ่ — หลังจาก [บทที่แปด](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) ได้บันทึกการละเมิดบนบันทึกแล้ว ในกรณีนั้น การเปลี่ยนผ่านยังอาจกระทำเพื่อหยุดภัย แต่เฉพาะผ่านการคุ้มกันในมาตรานี้และ **CI-14.1** ถึง **CI-14.3**
+- **พื้นการครอบครอง:** หากคุณเป็นเจ้าของหรือใช้สิ่งใดโดยชอบด้วยกฎหมาย การเปลี่ยนผ่านจะเอาไปตามอำเภอใจไม่ได้ แต่ความเป็นเจ้าของไม่ใช่โล่เมื่อปล่อยสินทรัพย์นั้นเดินต่อชัดเจนว่าคงการละเมิดทางรัฐธรรมนูญที่รู้และขนาดใหญ่ — หลังจาก [บทที่แปด](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) ได้บันทึกการละเมิดบนบันทึกแล้ว ในกรณีนั้น การเปลี่ยนผ่านยังอาจกระทำเพื่อหยุดภัย แต่เฉพาะผ่านการคุ้มกันในมาตรานี้และ **CI-14.1** ถึง **CI-14.3**
 - **การแก้ไขที่มีขอบเขตเปลี่ยนผ่าน:** **แผนเปลี่ยนผ่านที่ถูกบันทึก** ภายใต้ **มาตรา XXVI-A** (*การรับเป็นของตนเป็นระยะและความต่อเนื่องของพื้นสิทธิ*) อาจให้อำนาจการแก้ไขเร่งของระบบหรือทรัพย์สินที่ **ไม่ปฏิบัติตามอย่างเป็นสาระ** ระหว่างการเปลี่ยนผ่านเท่านั้น ขอบเขตที่ใช้บังคับ มาตรการที่อนุญาต และวิธีดำเนินการของสถาบันถูกกำกับโดย [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) ถึง **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*การปกครองช่วงเปลี่ยนผ่านและวิวัฒนาการของสถาบัน*) อ่านคู่กับ **CJS-3.6** (*สายควบคุมการพิทักษ์ทรัพย์สินและการแยกสิ่งจูงใจ*) และ **มาตรา XII-E** (*ระบบอัตโนมัติสูงและความครบถ้วนของกระบวนการที่เครื่องมือเป็นสื่อ*) ในที่ที่ใช้
 - **การคุ้มกันที่กำหนด:** โปรแกรมการพรากหรือสิ่งจูงใจที่มีขอบเขตเปลี่ยนผ่านใดต้องสนอง:
   - [**หลักการข้อจำกัดที่จำกัดน้อยที่สุด มีขอบเขตเวลา และทบทวนได้**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) พร้อม **ความจำเป็น** และ **สัดส่วน** ที่แสดงได้;
@@ -674,6 +674,6 @@
 
 **ไฟล์ก่อนหน้า (ภาษานี้):** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 
-**ไฟล์ถัดไป (ยังเป็นภาษาอังกฤษ):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+**ไฟล์ถัดไป (ยังเป็นภาษาอังกฤษ):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 
 **ต้นฉบับที่มีผลผูกพัน:** [core_06_rights_part_d.md](../../core_06_rights_part_d.md)

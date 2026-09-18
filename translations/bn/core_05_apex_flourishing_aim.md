@@ -96,7 +96,7 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - অধঃ: সমুন্নতি পরিমাপ পরিবার — শুধু-লিঙ্ক রোলআপ; পদ অনুসারে স্তর নিচের সারণিতে লিঙ্ক করা পাতা সংজ্ঞায় থাকে।
-- সঙ্গে পড়ুন: [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) যেখানে পুরো-ব্যবস্থা প্রভাব, বেঁচে থাকার তল পৌঁছানো, বা **নিরাপদ শর্ত** বস্তুগতভাবে পরিসরে।
+- সঙ্গে পড়ুন: [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) যেখানে পুরো-ব্যবস্থা প্রভাব, বেঁচে থাকার তল পৌঁছানো, বা **নিরাপদ শর্ত** বস্তুগতভাবে পরিসরে।
 
 </details>
 

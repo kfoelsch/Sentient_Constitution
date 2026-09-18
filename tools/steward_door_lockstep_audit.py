@@ -814,7 +814,7 @@ def audit(root: Path) -> list[str]:
         )
     if "54-duty-to-resist" not in screen:
         errors.append(
-            f"{CARDS_REL} #{SHARED_SCREEN_TITLE}: must point at Chapter Nine "
+            f"{CARDS_REL} #{SHARED_SCREEN_TITLE}: must point at Chapter Ten "
             "§5.4 (STEWARD-DOOR-LOCKSTEP-01)"
         )
     if "10-inspectable-attributable-action" not in screen:

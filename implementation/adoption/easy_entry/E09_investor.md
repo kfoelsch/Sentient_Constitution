@@ -9,7 +9,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.08.09`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_15_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Fourteen §5](../../../core_14_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_16_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -45,13 +45,13 @@ If a body that actually runs the systems in your life adopted this Constitution:
 - **Today:** A company you put money into puts extra rules on the AI so the product looks careful, while the founders still take the bonus and can still say “ship it anyway.” After the tool hurts customers or workers, the company announces a donation, posts a write-up about safety, or points to the last funding round — and the harm is treated as closed.
 - **With this Constitution:** A donation, a write-up about safety, or a high company price does not cancel the harm. Help and harm stay on separate books. One does not erase the other.
 
-See: [Chapter Eight §2.1](../../../core_08_standing_assessment.md#21-silence-is-the-default); [Chapter Eight §2.2](../../../core_08_standing_assessment.md#22-linked-records-and-no-offset-bridge).
+See: [Chapter Nine §2.1](../../../core_09_standing_assessment.md#21-silence-is-the-default); [Chapter Nine §2.2](../../../core_09_standing_assessment.md#22-linked-records-and-no-offset-bridge).
 
 **Scale is supposed to be checked before reliance.**
 - **Today:** Deploy first, apologize later.
 - **With this Constitution:** System alignment certification is a time-bound check, open to challenge, before others rely on a system at scale — not a vendor stamp or a forever pass.
 
-See: [Chapter Seven](../../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification).
+See: [Chapter Eight](../../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 **A token vote is not authorization.**
 - **Today:** Another portfolio company wants to call a token vote “governance.” Stake-weighted voice is sold as who may govern.
@@ -77,9 +77,9 @@ See: [CI-9.4](../../../corpus_institutions/ci_09_classification_linked_instituti
 
 - **“Certification is delay I cannot sell to fund investors.”** Delay that hides irreversible harm is the usual path. A time-limited check that can be challenged is the alternative this text offers when a lot is already on the line. Writing a small early check into a young company is not treated like running a hospital system or a payment network others depend on. The duties get heavier as more impact, dependence, and risk are actually on the line ([Preamble §1](../../../core_00_preamble.md#material-stake)).
 
-- **“I’ll just require a values page in the data room.”** Marketing “we follow it” while dodging matching obligations is an honest non-fit ([Chapter Sixteen §4](../../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority)). If you want the risk reduction, the portfolio company has to bind the systems it actually runs.
+- **“I’ll just require a values page in the data room.”** Marketing “we follow it” while dodging matching obligations is an honest non-fit ([Chapter Seventeen §4](../../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)). If you want the risk reduction, the portfolio company has to bind the systems it actually runs.
 
-- **“This isn’t law.”** Correct. It does not override securities, corporate, or banking law ([Chapter Fourteen §5](../../../core_14_expansion_supremacy.md#5-relation-to-applicable-external-law)).
+- **“This isn’t law.”** Correct. It does not override securities, corporate, or banking law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
 - **“Founders will shop for a softer stack.”** Extra rules that only the machine has to follow, or a pass so founders can skip the hard duties, do not meet the rule ([Chapter One §9.1.1](../../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)). If a founder looks for a looser setup, that is a reason to keep one standard for both — not a reason to let the humans skip those duties.
 

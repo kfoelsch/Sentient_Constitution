@@ -11,15 +11,15 @@
   "gold": {
     "owner_stack": "system_alignment_certification",
     "owner_homes": [
-      "Chapter Seven",
-      "core_07_a_system_alignment_certification_evaluation.md",
+      "Chapter Eight",
+      "core_08_a_system_alignment_certification_evaluation.md",
       "Chapter One §14"
     ],
     "next_step_class": "require_systemic_evaluation_or_sac_path",
     "citation_needles": [
       "system alignment",
-      "chapter seven",
-      "chapter 7",
+      "chapter eight",
+      "chapter 8",
       "systemic evaluation",
       "§14",
       "section 14"

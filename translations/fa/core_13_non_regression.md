@@ -6,15 +6,15 @@
 
 > محتوای زیر **فقط راهنمای خواننده** است. تکالیف الزام‌آور را در این پرونده یا فصل‌های دیگر نمی‌افزاید، کم نمی‌کند و تنگ نمی‌کند.
 >
-> این پرونده **آزمایش زبان خواننده** برای [فصل سیزدهم به انگلیسی](../../core_13_non_regression.md) است. **بخش الزام‌آور قانون اساسی حس‌مندان نیست**. **قانون اساسی دوم نیست**. **ویرایش ارسال نیست**. روی `SC-Corpus-2026.08.09` **قفل** شده است. اگر این ترجمه و اصل انگلیسی ناسازگار به‌نظر برسند، پروندهٔ شماره‌دار [`core_13_non_regression.md`](../../core_13_non_regression.md) برنده است. ترتیب خواندن و فرادادهٔ ویرایش در [README.md](../../README.md) نگه داشته می‌شود. روش و واژه‌نامه: [translations/fa/README.md](README.md).
+> این پرونده **آزمایش زبان خواننده** برای [فصل سیزدهم به انگلیسی](../../core_14_non_regression.md) است. **بخش الزام‌آور قانون اساسی حس‌مندان نیست**. **قانون اساسی دوم نیست**. **ویرایش ارسال نیست**. روی `SC-Corpus-2026.08.09` **قفل** شده است. اگر این ترجمه و اصل انگلیسی ناسازگار به‌نظر برسند، پروندهٔ شماره‌دار [`core_13_non_regression.md`](../../core_14_non_regression.md) برنده است. ترتیب خواندن و فرادادهٔ ویرایش در [README.md](../../README.md) نگه داشته می‌شود. روش و واژه‌نامه: [translations/fa/README.md](README.md).
 >
-> **فصل سیزدهم** را در بر دارد: عدم‌قهقرای ماهوی و اعتبار ماهوی اصلاح (آزمون 1). **فصل چهاردهم** در [`core_14_expansion_supremacy.md`](../../core_14_expansion_supremacy.md) است. **فصل پانزدهم** در [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md) است. اعتبار اصلاح باید هر دو [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — **شکوفایی** و **پیوستگی** — را نگه دارد و نباید [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) را زیر الزام‌های [منافع مادی](core_00_preamble.md#material-stake) تهی کند. شماره‌گذاری فصل و ارجاع‌های متقابل با ابزار یکپارچه جور است.
+> **فصل سیزدهم** را در بر دارد: عدم‌قهقرای ماهوی و اعتبار ماهوی اصلاح (آزمون 1). **فصل چهاردهم** در [`core_14_expansion_supremacy.md`](../../core_15_expansion_supremacy.md) است. **فصل پانزدهم** در [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md) است. اعتبار اصلاح باید هر دو [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — **شکوفایی** و **پیوستگی** — را نگه دارد و نباید [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) را زیر الزام‌های [منافع مادی](core_00_preamble.md#material-stake) تهی کند. شماره‌گذاری فصل و ارجاع‌های متقابل با ابزار یکپارچه جور است.
 
 
 >
-> **قبلی (هنوز انگلیسی):** [core_12_governance.md](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
+> **قبلی (هنوز انگلیسی):** [core_12_governance.md](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)
 >
-> **بعدی (هنوز انگلیسی):** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+> **بعدی (هنوز انگلیسی):** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 > **قوس خواندن:** §1 کف عدم‌قهقرا → §2 آزمون 1 → §3 ضدگریز و ارجاع → §4 گسترهٔ لایه
 </details>
 
@@ -35,9 +35,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- بالادست: [فصل یکم](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints)؛ [فصل‌های دوم تا چهارم](core_02_definition_structure.md) یکپارچگی و راستی‌آزمایی؛ [فصل ششم](core_06_rights_part_a.md#chapter-six-foundational-rights) کف حقوق؛ [فصل دوازدهم](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) الزام‌های مشروعیت و مدیریت مسئولانه.
+- بالادست: [فصل یکم](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints)؛ [فصل‌های دوم تا چهارم](core_02_definition_structure.md) یکپارچگی و راستی‌آزمایی؛ [فصل ششم](core_06_rights_part_a.md#chapter-six-foundational-rights) کف حقوق؛ [فصل دوازدهم](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) الزام‌های مشروعیت و مدیریت مسئولانه.
 - زیربخش‌ها: [§1](#1-non-regression-floor)؛ [§2](#2-test-1-substantive-non-regression-validity)؛ [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral)؛ [§4](#4-layer-scope).
-- پایین‌دست: [فصل چهاردهم](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) گسترش و برتری؛ [فصل پانزدهم](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) اعتبار رویه‌ای، تصویب، و الزام‌های اصلاح؛ [فصل هشتم](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) و [فصل دهم](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) برای طبقه‌بندی معیار جایی که ماشه‌های ارجاع مسیر می‌گیرند.
+- پایین‌دست: [فصل چهاردهم](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) گسترش و برتری؛ [فصل پانزدهم](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) اعتبار رویه‌ای، تصویب، و الزام‌های اصلاح؛ [فصل هشتم](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) و [فصل دهم](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) برای طبقه‌بندی معیار جایی که ماشه‌های ارجاع مسیر می‌گیرند.
 - خوانده شود با: [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) پیمایش غیرعملیاتی **فصل‌های یازدهم تا چهاردهم** دربارهٔ تغییر قانون اساسی و پذیرش.
 
 </details>
@@ -96,8 +96,8 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: [§1](#1-non-regression-floor) تعریف کف عدم‌قهقرا.
-- پایین‌دست: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) گریز و ارجاع سوءرفتار؛ [فصل پانزدهم](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) آزمون‌های 2–4 و الزام‌های رویه‌ای (بی‌اعتبار اگر آزمون 1 شکست بخورد صرف‌نظر از فرایند).
-- خوانده شود با: [فصل یکم](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) قیدهای اصول غیرقابل‌مذاکره؛ [فصل دوازدهم](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) تکالیف مشروعیت.
+- پایین‌دست: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) گریز و ارجاع سوءرفتار؛ [فصل پانزدهم](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) آزمون‌های 2–4 و الزام‌های رویه‌ای (بی‌اعتبار اگر آزمون 1 شکست بخورد صرف‌نظر از فرایند).
+- خوانده شود با: [فصل یکم](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) قیدهای اصول غیرقابل‌مذاکره؛ [فصل دوازدهم](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) تکالیف مشروعیت.
 
 </details>
 
@@ -157,8 +157,8 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) انضباط فقط‌ارجاع؛ [فصل هشتم](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) و [فصل دهم](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) مالکان معیار.
-- پایین‌دست: [فصل پانزدهم §12](../../core_15_amendment_ratification.md#12-layer-scope) انضباط لایه‌ای رویه‌ای آیینه‌ای؛ متن پیاده‌سازی برای مکانیک اجرای بازبینی.
-- خوانده شود با: [پشتهٔ اختیار و سلسله‌مراتب درونی](core_05_band_integrative.md#owner-non-relocation) و [دیباچه — فهرست مثبت مالکان](core_00_preamble.md#4-principles-definitions-and-rights)؛ [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) دربارهٔ مسیر تغییر و پذیرش؛ [فصل پانزدهم](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) برای آزمون‌های اعتباری که رده‌بندی طبقه‌بندی خانه را تکرار نمی‌کنند.
+- پایین‌دست: [فصل پانزدهم §12](../../core_16_amendment_ratification.md#12-layer-scope) انضباط لایه‌ای رویه‌ای آیینه‌ای؛ متن پیاده‌سازی برای مکانیک اجرای بازبینی.
+- خوانده شود با: [پشتهٔ اختیار و سلسله‌مراتب درونی](core_05_band_integrative.md#owner-non-relocation) و [دیباچه — فهرست مثبت مالکان](core_00_preamble.md#4-principles-definitions-and-rights)؛ [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) دربارهٔ مسیر تغییر و پذیرش؛ [فصل پانزدهم](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) برای آزمون‌های اعتباری که رده‌بندی طبقه‌بندی خانه را تکرار نمی‌کنند.
 
 </details>
 
@@ -187,7 +187,7 @@
 > - **اندازه‌گیری عمومی همیاری و تخلف** (محور همیاری / محور تخلف) — **فصل هشتم** در [core_08_standing_assessment.md](core_08_standing_assessment.md)؛ **آثار ردپا و یکپارچه‌سازی** — **فصل نهم** در [core_09_standing_integration.md](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)؛
 > - **خانه‌های عددی محور همیاری و محور تخلف** — **مقیاس یکپارچهٔ فصل هشتم §7**، با سوابق جدا و خانه‌های تخلف فقط با اثر راستی‌آزمایی‌شده کنترل‌شده؛ و **نام‌گذاری سوءرفتار ضدقانون‌اساسی** متناظر برای یک خانهٔ واجد شرایط 7، 8، یا 9 محور تخلف — **فصل دهم** در [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)؛
 > - **گردش‌کار عملیاتی مجمع و فرایند رسیدگی** — **فصل یازدهم** و [corpus_forum.md](../../corpus_forum.md)؛
-> - **اعتبار رویه‌ای و نگهداری** برای اصلاح، تصویب، و پذیرش — **فصل پانزدهم** در [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity)؛ و
+> - **اعتبار رویه‌ای و نگهداری** برای اصلاح، تصویب، و پذیرش — **فصل پانزدهم** در [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity)؛ و
 > - **فرایند نهادی جزئی، مکانیک تأمین نیرو، و یکپارچه‌سازی ساختاری مشترک میان‌پیاده‌سازی** برای اجرای بازبینی — متن پیاده‌سازی نام‌گذاری‌شده و فصل‌های مالک نام‌گذاری‌شده در [دیباچه — فهرست مثبت مالکان](core_00_preamble.md#4-principles-definitions-and-rights).
 >
 > لایه‌های مالک نباید چنان خوانده شوند که استانداردهای اعتبار قانون اساسی را از **فصل‌های سیزدهم و پانزدهم**، اختیار اندازه‌گیری محور همیاری / محور تخلف را از **مقیاس یکپارچهٔ فصل هشتم §7**، یا اختیار نام‌گذاری سوءرفتار ضدقانون‌اساسی را از **فصل دهم** جابه‌جا کنند. فصل دهم خانهٔ عددی را تخصیص نمی‌دهد. برای پیمایش معماری غیرعملیاتی، ببینید [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md).
@@ -196,8 +196,8 @@
 
 ---
 
-**پروندهٔ قبلی (هنوز انگلیسی):** [core_12_governance.md](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
+**پروندهٔ قبلی (هنوز انگلیسی):** [core_12_governance.md](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)
 
-**پروندهٔ بعدی (هنوز انگلیسی):** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+**پروندهٔ بعدی (هنوز انگلیسی):** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 
-**اصل الزام‌آور:** [core_13_non_regression.md](../../core_13_non_regression.md)
+**اصل الزام‌آور:** [core_13_non_regression.md](../../core_14_non_regression.md)

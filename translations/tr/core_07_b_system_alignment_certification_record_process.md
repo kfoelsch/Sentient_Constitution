@@ -7,7 +7,7 @@
 
 > Aşağıdaki içerik **yalnızca okur rehberidir**. Bu dosyada ya da başka bölümlerde bağlayıcı yükümlülükleri eklemez, çıkarmaz ya da daraltmaz.
 >
-> Bu dosya, [İngilizce Yedinci Bölüm, B Kısmı](../../core_07_b_system_alignment_certification_record_process.md)nın bir **okur-dili pilotudur**. Algılayanlar Anayasasının bağlayıcı bir parçası **değildir**. İkinci bir anayasa **değildir**. Bir gönderim baskısı **değildir**. `SC-Corpus-2026.08.09`a **sabitlenmiştir**. Bu çeviri ile İngilizce asıl görünür biçimde ayrışırsa, numaralı [`core_07_b_system_alignment_certification_record_process.md`](../../core_07_b_system_alignment_certification_record_process.md) kazanır. Okuma sırası ve baskı üstverisi [README.md](../../README.md)de tutulur. Yöntem ve sözlük: [translations/tr/README.md](README.md).
+> Bu dosya, [İngilizce Yedinci Bölüm, B Kısmı](../../core_08_b_system_alignment_certification_record_process.md)nın bir **okur-dili pilotudur**. Algılayanlar Anayasasının bağlayıcı bir parçası **değildir**. İkinci bir anayasa **değildir**. Bir gönderim baskısı **değildir**. `SC-Corpus-2026.08.09`a **sabitlenmiştir**. Bu çeviri ile İngilizce asıl görünür biçimde ayrışırsa, numaralı [`core_07_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md) kazanır. Okuma sırası ve baskı üstverisi [README.md](../../README.md)de tutulur. Yöntem ve sözlük: [translations/tr/README.md](README.md).
 >
 > **Yedinci Bölüm, B Kısmı**nı içerir — belgelendirme **kaydı** içerikleri, şeffaflık ve itiraz edilebilirlik, forum bileşen rolleri, gözetim sırası, güzergâh köprüsü ve yeniden açma (**§11–§16**, A Kısmı §1–§10dan devam). **A Kısmı** — değerlendirme gerekleri — [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md)dedir.
 >
@@ -30,7 +30,7 @@
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: [A Kısmı §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*belgelendirme amacı ve değerlendirme yol haritası*); [A Kısmı §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) ile [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*kayıt için değerlendirme çıktıları*); [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad); [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims).
-- Aşağı: [§11](#11-certification-record) ile [§16](#16-reopening-drift-and-non-evasion); [Sekizinci Bölüm](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); [On Birinci Bölüm](core_11_forum.md#chapter-eleven-forums-and-jurisdiction).
+- Aşağı: [§11](#11-certification-record) ile [§16](#16-reopening-drift-and-non-evasion); [Sekizinci Bölüm](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model); [On Birinci Bölüm](core_11_forum.md#chapter-eleven-forums-and-jurisdiction).
 - Birlikte oku: [corpus_forum.md](../../corpus_forum.md), **CF-5** ve **CF-7**.
 
 </details>
@@ -392,7 +392,7 @@ Forum-gözetimli itiraz gerektiğinde iç işletici incelemesi, satıcı beyanı
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: [§11](#11-certification-record) ile [§13](#13-forum-supervision-and-component-roles) (*belgelendirme kaydı ve forum gözetimi*); [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad); [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims); [Güzergâh için doğrulanmış girdiler](core_05_band_accountability.md#verified-inputs-for-standing).
-- Aşağı: [Sekizinci Bölüm](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*güzergâh kayıtları ve doğrulanmış-girdi kapısı*); [Dokuzuncu Bölüm](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*güzergâh etkileri ve bütünleştirme*).
+- Aşağı: [Sekizinci Bölüm](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*güzergâh kayıtları ve doğrulanmış-girdi kapısı*); [Dokuzuncu Bölüm](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*güzergâh etkileri ve bütünleştirme*).
 - Birlikte oku: **Madde III-A** (*belgelendirme teslimi kapıladığında hayatta kalma-esası erişimi*).
 
 </details>
@@ -450,8 +450,8 @@ Forum-gözetimli itiraz gerektiğinde iç işletici incelemesi, satıcı beyanı
 
 - Bir belgelendirme kaydı güzergâh etkilerini **uygulamaz**;
 - Bu bölüm yalnızca **sistem hizalama belgelendirmesi ve ilgili kayıtları** sahiplenir — [Önsöz — anayasal sahip sicili](core_00_preamble.md#4-principles-definitions-and-rights)ne bakın, [Yetki yığını ve iç hiyerarşi](core_05_band_integrative.md#authority-stack) ile birlikte okuyun;
-- [Sekizinci Bölüm](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) güzergâh kayıtlarını ve eksene-saf ölçümü sahiplenir;
-- [Dokuzuncu Bölüm](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) güzergâh bütünleştirmesini ve etkilerini sahiplenir;
+- [Sekizinci Bölüm](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) güzergâh kayıtlarını ve eksene-saf ölçümü sahiplenir;
+- [Dokuzuncu Bölüm](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) güzergâh bütünleştirmesini ve etkilerini sahiplenir;
 - Bu bölüm doğrulanmış girdileri yalnızca yukarıdaki kapı üzerinden sağlayabilir;
 - Sekizinci ya da Dokuzuncu Bölüm sahip yükümlülüklerini soğurmamalı, yeniden belirtmemeli ya da yerini değiştirmemelidir.
 
@@ -466,7 +466,7 @@ Bir belgelendirme kaydı bir algılama-statüsü belirlemesi değildir ve algıl
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*yanlış sınıflama ve yanlış hizalanma*); [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*risk-değerlendirme ve risk-açıklama kusurları*); [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) (*ayak izi yanlış temsili ve yanlış hizalanma*); [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) (*kaynak-akışı yanlış temsili, çıkarma yanlış hizalanması ve destek yetersizliği*); [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) (*ayrımcılık-örüntüsü yanlış hizalanması ve vekil kaçınma*); [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) (*erişilebilirlik yanlış hizalanması ve yalnızca-kâğıt uyarlama*); [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) (*değerlendirme-opasitesi yanlış hizalanması, kimlik kapılama ve dayatılmış-eskiyiş yanlış hizalanması*); [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*sahte-güven yanlış hizalanması, sapkın-teşvik yanlış hizalanması ve onarım-bütünlüğü yanlış hizalanması*); [§12](#12-transparency-auditability-and-contestability) (*itiraz edilebilirlik*); [§14](#14-supervisory-sequence-and-contestability-chain) (*inandırıcı itiraz ve yeniden açma*); [Üçüncü Bölüm §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) ve [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*tanım bütünlüğü ve kaçınma*); [Üçüncü Bölüm §2.1 Yaygın kaçınma örüntüleri](core_03_definition_integrity.md#21-common-evasion-patterns) (*kapsam-ve-sınır kaçınması*); [Kapsam belgesi](core_05_band_continuity.md#charter) (*kapsam belgesi–davranış uyumsuzluğu ve gecikmiş inceleme*).
-- Aşağı: [On Birinci Bölüm](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*yeniden açılmış forum gözetimi*); [Sekizinci Bölüm](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*olgular olumsuz bulguları desteklediğinde doğrulanmış-girdi kapısı*).
+- Aşağı: [On Birinci Bölüm](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*yeniden açılmış forum gözetimi*); [Sekizinci Bölüm](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*olgular olumsuz bulguları desteklediğinde doğrulanmış-girdi kapısı*).
 - Birlikte oku: [corpus_systems.md](../../corpus_systems.md) (*içerilmiş sistem uygulama ödevleri*), periyodik veri-türü yeniden değerlendirmesi için **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Yeniden sınıflama ve yaşam döngüsü yönetişimi*), ve sistem-sınıfı yeniden değerlendirme tetikleyicileri ile SAC doğrulaması için **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*Yeniden sınıflama gereği*) dahil.
 
 </details>
@@ -515,4 +515,4 @@ Bir **Sistem belgelendirme kaydı** **kapsama-sınırlı** ve **zamana-sınırl�
 
 **Sonraki dosya (bu dil):** [core_08_standing_assessment.md](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)
 
-**Bağlayıcı asıl:** [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md)
+**Bağlayıcı asıl:** [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md)

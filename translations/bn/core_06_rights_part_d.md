@@ -12,7 +12,7 @@
 >
 > **আগেরটি (এই ভাষায়):** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 >
-> **পরেরটি (এখনও ইংরেজিতে):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+> **পরেরটি (এখনও ইংরেজিতে):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 > **পড়ার আর্ক:** অনুচ্ছেদ XXIII–XXVI (ন্যায় ও জরুরি অবস্থা, সাংবিধানিক বিবর্তন, উত্তরণ ও পুনঃভিত্তিরেখা)
 
 </details>
@@ -69,7 +69,7 @@
 
 *প্রতিবেশী অনুচ্ছেদ:*
 
-- **সময়ানুবর্তিতা তল:** সমাধানের গতি, দেরি-নিরোধ শৃঙ্খলা এবং তাৎপর্য-স্তর মাইলফলক শাসিত হয় **অনুচ্ছেদ XXIV-C** (*সময়মতো সমাধান ও দেরি-নিরোধ তল*)-এর অধীনে, [অধ্যায় এগারো §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)-এর মধ্য দিয়ে বাস্তবায়িত।
+- **সময়ানুবর্তিতা তল:** সমাধানের গতি, দেরি-নিরোধ শৃঙ্খলা এবং তাৎপর্য-স্তর মাইলফলক শাসিত হয় **অনুচ্ছেদ XXIV-C** (*সময়মতো সমাধান ও দেরি-নিরোধ তল*)-এর অধীনে, [অধ্যায় এগারো §6](../../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)-এর মধ্য দিয়ে বাস্তবায়িত।
 - **সময়মতো প্রতিকার:** [**অনুচ্ছেদ XII-B** (*চ্যালেঞ্জ, পর্যালোচনা ও প্রতিকারের অধিকার*)](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*সময়মতো প্রতিকার প্রবেশাধিকার*)-এর সঙ্গে পড়ুন।
 
 গৃহীত শাসন বাস্তবায়ন উত্তরণ, হস্তক্ষেপের আনুপাতিকতা, জরুরি সীমা এবং স্তর-ডিফল্ট সময় জানালা দেয়। এটি এই অনুচ্ছেদের অধীনে ব্যবহারিক প্রবেশাধিকার, পর্যালোচনাযোগ্যতা, পুনরুদ্ধার, সময়মতো সমাধান বা অধিকার-তল বন্ধন সংকুচিত করতে পারে না।
@@ -79,7 +79,7 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint), [অধ্যায় এক §6.1.5 অধিকার-সংঘর্ষ পদ্ধতি](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [অধ্যায় এক §9.6 অবনতি-নিরোধ প্রক্রিয়া](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) এবং [§15 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#15-integrated-application)।
-- অধঃ: [অধ্যায় নয় §4](../../core_09_standing_integration.md#4-violation-correction-and-prevention) (*লঙ্ঘন, সংশোধন ও প্রতিরোধ*); [অনুচ্ছেদ XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [অনুচ্ছেদ XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule)।
+- অধঃ: [অধ্যায় নয় §4](../../core_10_standing_integration.md#4-violation-correction-and-prevention) (*লঙ্ঘন, সংশোধন ও প্রতিরোধ*); [অনুচ্ছেদ XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [অনুচ্ছেদ XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule)।
 - সঙ্গে পড়ুন: [নিষ্ঠুরতা](core_05_band_accountability.md#cruelty) (*নিষ্ঠুরতা-নিরোধ তলের দুঃখ-হিসেবে-উদ্দেশ্য মানদণ্ডের অধ্যায় পাঁচ ঘর*)।
 
 </details>
@@ -196,7 +196,7 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) এবং [অধ্যায় এক §6.1.5 অধিকার-সংঘর্ষ পদ্ধতি](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)।
-- সঙ্গে পড়ুন: **অনুচ্ছেদ I-D** (*অস্তিত্বগত ঝুঁকি ও পরিবেশগত পুনরুদ্ধার ক্ষমতা*) যেখানে অস্তিত্বগত-ঝুঁকি যাচাই বস্তুগতভাবে জড়িত; [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad)-এর **অংশগ্রহণ** ও **সময়ানুবর্তিতা** পা; [অনুচ্ছেদ XXIV-C](#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*সময়মতো সমাধান ও দেরি-নিরোধ তল*); [অধ্যায় এগারো §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*তাৎপর্য-স্তর বাইরের সীমা পুনরুদ্ধার-চ্যালেঞ্জ ডিফল্ট হিসেবে পুনর্ব্যবহৃত*)।
+- সঙ্গে পড়ুন: **অনুচ্ছেদ I-D** (*অস্তিত্বগত ঝুঁকি ও পরিবেশগত পুনরুদ্ধার ক্ষমতা*) যেখানে অস্তিত্বগত-ঝুঁকি যাচাই বস্তুগতভাবে জড়িত; [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad)-এর **অংশগ্রহণ** ও **সময়ানুবর্তিতা** পা; [অনুচ্ছেদ XXIV-C](#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*সময়মতো সমাধান ও দেরি-নিরোধ তল*); [অধ্যায় এগারো §6](../../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*তাৎপর্য-স্তর বাইরের সীমা পুনরুদ্ধার-চ্যালেঞ্জ ডিফল্ট হিসেবে পুনর্ব্যবহৃত*)।
 - অধঃ: [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) (*সংখ্যাসূচক পর্যায় সারণি এই ডিফল্ট ধীর করতে পারে না*)।
 
 </details>
@@ -242,14 +242,14 @@
   - আনুপাতিকতা;
   - কম-সীমাবদ্ধ সম্ভব বিকল্পের অনুপস্থিতি।
 <a id="xxiii-d-restore-challenge-clocks"></a>
-- **পর্যালোচনা ও নোটিশ (পুনরুদ্ধার-চ্যালেঞ্জ ঘড়ি):** এখন আবদ্ধ করুন; পরে নোটিশ ও চ্যালেঞ্জ পুনরুদ্ধার করুন; অংশগ্রহণ কখনো স্থায়ীভাবে বাদ দেবেন না। «যত তাড়াতাড়ি সম্ভব» ঘড়ি নয়। প্রভাবিত পক্ষকে নোটিশ ও পুনরুদ্ধার করা চ্যালেঞ্জ প্রবেশাধিকার পেতে হয় সেই একই তাৎপর্য-স্তর বাইরের সীমার ভিতরে যা [**অনুচ্ছেদ XXIV-C**](#article-xxiv-c-timely-resolution-and-anti-delay-floor) ইতিমধ্যে মঞ্চ সমাধানের জন্য ব্যবহার করে, [অধ্যায় এগারো §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)-এর বাস্তবায়ন অনুসারে:
+- **পর্যালোচনা ও নোটিশ (পুনরুদ্ধার-চ্যালেঞ্জ ঘড়ি):** এখন আবদ্ধ করুন; পরে নোটিশ ও চ্যালেঞ্জ পুনরুদ্ধার করুন; অংশগ্রহণ কখনো স্থায়ীভাবে বাদ দেবেন না। «যত তাড়াতাড়ি সম্ভব» ঘড়ি নয়। প্রভাবিত পক্ষকে নোটিশ ও পুনরুদ্ধার করা চ্যালেঞ্জ প্রবেশাধিকার পেতে হয় সেই একই তাৎপর্য-স্তর বাইরের সীমার ভিতরে যা [**অনুচ্ছেদ XXIV-C**](#article-xxiv-c-timely-resolution-and-anti-delay-floor) ইতিমধ্যে মঞ্চ সমাধানের জন্য ব্যবহার করে, [অধ্যায় এগারো §6](../../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)-এর বাস্তবায়ন অনুসারে:
   - **Tier A:** সর্বোচ্চ **এক সপ্তাহ**;
   - **Tier B:** সর্বোচ্চ **তিন সপ্তাহ**;
   - **Tier C:** সর্বোচ্চ **দুই মাস**;
   - **Tier L:** সর্বোচ্চ **চার মাস**;
   - **Tier P:** সর্বোচ্চ **ছয় মাস**।
 
-  সেই সংখ্যা পুনর্ব্যবহৃত; দ্বিতীয় সারণি নয়। [অধ্যায় এগারো §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) সংখ্যাসূচক ঘর থাকে। পুনরুদ্ধার-চ্যালেঞ্জ জানালা চলে জরুরি মাপ শুরু থেকে, বা যখন নোটিশ বা চ্যালেঞ্জ স্থগিত হয়েছিল সেখান থেকে, যেটি আগে। জরুরি আবদ্ধকরণ যা নোটিশ বা চ্যালেঞ্জ স্থগিত করে **Tier A**, যদি না নথিভুক্ত নিম্ন-জরুরি প্রদর্শন নথিভুক্ত হয়। পরিচালক আগে পুনরুদ্ধার করতে পারে। তারা স্তর ডিফল্টের বাইরে টানতে পারে না **অব্যাহতকরণ শৃঙ্খলা** ছাড়া। মাপের পূর্ণ স্বাধীন পর্যালোচনা একই জানালার ভিতরে শুরু হতে হয়। [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors)-এর পর্যায় সারণি এই ডিফল্ট ধীর করতে পারে না।
+  সেই সংখ্যা পুনর্ব্যবহৃত; দ্বিতীয় সারণি নয়। [অধ্যায় এগারো §6](../../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) সংখ্যাসূচক ঘর থাকে। পুনরুদ্ধার-চ্যালেঞ্জ জানালা চলে জরুরি মাপ শুরু থেকে, বা যখন নোটিশ বা চ্যালেঞ্জ স্থগিত হয়েছিল সেখান থেকে, যেটি আগে। জরুরি আবদ্ধকরণ যা নোটিশ বা চ্যালেঞ্জ স্থগিত করে **Tier A**, যদি না নথিভুক্ত নিম্ন-জরুরি প্রদর্শন নথিভুক্ত হয়। পরিচালক আগে পুনরুদ্ধার করতে পারে। তারা স্তর ডিফল্টের বাইরে টানতে পারে না **অব্যাহতকরণ শৃঙ্খলা** ছাড়া। মাপের পূর্ণ স্বাধীন পর্যালোচনা একই জানালার ভিতরে শুরু হতে হয়। [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors)-এর পর্যায় সারণি এই ডিফল্ট ধীর করতে পারে না।
 - **স্বাভাবিকীকরণ নিষেধ:** জরুরি মাপ স্থায়ী শাসনে স্বাভাবিক হতে পারে না ছাড়া:
   - **অধ্যায় এক**-সামঞ্জস্যপূর্ণ ন্যায্যতা (**প্রয়োজনীয়তা** ও **আনুপাতিকতা**);
   - **নথিভুক্ত স্বাধীন পুনঃঅনুমোদন**;
@@ -329,7 +329,7 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - ঊর্ধ্ব: নীতি: অধ্যায় এক [§6.1.5 অধিকার-সংঘর্ষ সিদ্ধান্ত পরীক্ষা](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [§7 নিরঙ্কুশ ওভাররাইড নিষেধ](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override) এবং [§15 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#15-integrated-application)।
-- সঙ্গে পড়ুন: [অধ্যায় নয় §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*স্বেচ্ছায় সর্বজনীন জবাবদিহি প্রকাশ*); [অধ্যায় দশ §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*স্বেচ্ছায় সর্বজনীন জবাবদিহি প্রকাশ (সংবিধান-বিরোধী)*)।
+- সঙ্গে পড়ুন: [অধ্যায় নয় §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*স্বেচ্ছায় সর্বজনীন জবাবদিহি প্রকাশ*); [অধ্যায় দশ §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*স্বেচ্ছায় সর্বজনীন জবাবদিহি প্রকাশ (সংবিধান-বিরোধী)*)।
 
 </details>
 
@@ -358,7 +358,7 @@
     - চলমান ঝুঁকি;
     - বস্তুগত ক্ষমতা অসমতা;
     - প্রভাবিত পক্ষের অসম্মতি।
-- **স্বেচ্ছায় সর্বজনীন জবাবদিহি প্রকাশ:** শাসিত হয় সাধারণত [অধ্যায় নয় §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*স্বেচ্ছায় সর্বজনীন জবাবদিহি প্রকাশ*)-এর অধীনে, এবং যাচাইকৃত সংবিধান-বিরোধী অসদাচরণের জন্য [অধ্যায় দশ §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*স্বেচ্ছায় সর্বজনীন জবাবদিহি প্রকাশ (সংবিধান-বিরোধী)*)-এর অধীনে, এই অনুচ্ছেদের অধিকার-সংঘর্ষ ও পুনরুদ্ধারমূলক-সারিবদ্ধতা নিয়মের অধীন।
+- **স্বেচ্ছায় সর্বজনীন জবাবদিহি প্রকাশ:** শাসিত হয় সাধারণত [অধ্যায় নয় §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*স্বেচ্ছায় সর্বজনীন জবাবদিহি প্রকাশ*)-এর অধীনে, এবং যাচাইকৃত সংবিধান-বিরোধী অসদাচরণের জন্য [অধ্যায় দশ §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*স্বেচ্ছায় সর্বজনীন জবাবদিহি প্রকাশ (সংবিধান-বিরোধী)*)-এর অধীনে, এই অনুচ্ছেদের অধিকার-সংঘর্ষ ও পুনরুদ্ধারমূলক-সারিবদ্ধতা নিয়মের অধীন।
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### অনুচ্ছেদ XXIV-C: সময়মতো সমাধান ও দেরি-নিরোধ তল
 <details>
@@ -366,7 +366,7 @@
 
 - ঊর্ধ্ব: সময়ানুবর্তিতা পরিমাপ পরিবার (*সাংবিধানিক পরিমাপ হিসেবে সময়মতো সমাধান ও দেরি-নিরোধ শৃঙ্খলা*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums) (*প্রস্থিতি, একীকরণ ও মঞ্চ সমন্বয় শৃঙ্খল*)।
 - নীতি: অধ্যায় এক [§12.2 সাংবিধানিক দক্ষতা](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency), [অধ্যায় এক §6.3 এড়ানো যায় এমন ভারের ন্যূনতমকরণ](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) এবং [অধ্যায় এক §6.1.5 অধিকার-সংঘর্ষ পদ্ধতি](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)।
-- অধঃ: [অধ্যায় এগারো §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*তাৎপর্য স্তর, শৃঙ্খল মাইলফলক ও দেরি-নিরোধ শৃঙ্খলা*); [অনুচ্ছেদ XXIII-D](#xxiii-d-restore-challenge-clocks) (*জরুরি আবদ্ধকরণের পর ডিফল্ট পুনরুদ্ধার-চ্যালেঞ্জ জানালা হিসেবে একই বাইরের সীমা*)।
+- অধঃ: [অধ্যায় এগারো §6](../../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*তাৎপর্য স্তর, শৃঙ্খল মাইলফলক ও দেরি-নিরোধ শৃঙ্খলা*); [অনুচ্ছেদ XXIII-D](#xxiii-d-restore-challenge-clocks) (*জরুরি আবদ্ধকরণের পর ডিফল্ট পুনরুদ্ধার-চ্যালেঞ্জ জানালা হিসেবে একই বাইরের সীমা*)।
 - দায়িত্বশীল ব্যবস্থাপক দ্বার (অ-কার্যকরী): বাধ্যতামূলক পরবর্তী-ধাপ বিবৃতি: [কার্যকরী দায়িত্বশীল ব্যবস্থাপক বিবৃতি](#operative-steward-statement-delay)। সহায়ক নির্দেশক এটিকে সংকুচিত করতে পারে না।
 
 </details>
@@ -394,8 +394,8 @@
 - **তিন যৌথ প্রয়োজনীয়তা:** বস্তুগত সমাধান নামকৃত পথকে একসঙ্গে **সময়মতো**, **দক্ষ** ও **ন্যায্য** হতে হয়:
   - **সময়মতো** — [বস্তুগত বাজি](core_00_preamble.md#material-stake) ও ক্ষতির তাড়ায় স্কেল করা সীমিত ঘড়ি;
   - **দক্ষ** — [সাংবিধানিক দক্ষতা](core_05_band_continuity.md#constitutional-efficiency) অধ্যায় এক [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency)-এর অর্থে — খরচ করা সংজ্ঞ সময় ও ভাগ করা প্রচেষ্টা প্রতি আসল সাংবিধানিক ফল, কাঁচা থ্রুপুট বা মামলা-তালিকা খালি করা নয়;
-  - **ন্যায্য** — **অনুচ্ছেদ XXIII-A** (*ন্যায়ের উদ্দেশ্য ও পরিসর*), **অনুচ্ছেদ XXIII-B** (*অ-তুচ্ছ সীমাবদ্ধতা, ক্ষতিপূরণ ও পুনরুদ্ধারমূলক-জবাবদিহি বন্ধন*) এবং **অনুচ্ছেদ XXIII-C** (*কম-সীমাবদ্ধ ও সময়-সীমিত নিয়ম*) পূর্ণ প্রযোজ্য থাকে; দ্রুত এগোনো অজুহাত নয় যাচাইকৃত তথ্য বাদ দিতে ([অধ্যায় আট §3.1](../../core_08_standing_assessment.md#verified-inputs-for-standing)), ভুল পক্ষকে শাস্তি দিতে, ক্ষতির সঙ্গে না-মেলা মেরামত দিতে, বা চ্যালেঞ্জ ও আপিল কেটে দিতে।
-- **মঞ্চ ও শৃঙ্খল তত্ত্বাবধান:** **অধ্যায় আট থেকে এগারো**-এর মধ্য দিয়ে রাউট করা বিরোধের জন্য নিচেরগুলো শাসিত হয় [অধ্যায় এগারো §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)-এর অধীনে, এই অনুচ্ছেদের সময়মতো, দক্ষ ও ন্যায্য তলের অধীন:
+  - **ন্যায্য** — **অনুচ্ছেদ XXIII-A** (*ন্যায়ের উদ্দেশ্য ও পরিসর*), **অনুচ্ছেদ XXIII-B** (*অ-তুচ্ছ সীমাবদ্ধতা, ক্ষতিপূরণ ও পুনরুদ্ধারমূলক-জবাবদিহি বন্ধন*) এবং **অনুচ্ছেদ XXIII-C** (*কম-সীমাবদ্ধ ও সময়-সীমিত নিয়ম*) পূর্ণ প্রযোজ্য থাকে; দ্রুত এগোনো অজুহাত নয় যাচাইকৃত তথ্য বাদ দিতে ([অধ্যায় আট §3.1](../../core_09_standing_assessment.md#verified-inputs-for-standing)), ভুল পক্ষকে শাস্তি দিতে, ক্ষতির সঙ্গে না-মেলা মেরামত দিতে, বা চ্যালেঞ্জ ও আপিল কেটে দিতে।
+- **মঞ্চ ও শৃঙ্খল তত্ত্বাবধান:** **অধ্যায় আট থেকে এগারো**-এর মধ্য দিয়ে রাউট করা বিরোধের জন্য নিচেরগুলো শাসিত হয় [অধ্যায় এগারো §6](../../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)-এর অধীনে, এই অনুচ্ছেদের সময়মতো, দক্ষ ও ন্যায্য তলের অধীন:
   - তাৎপর্য-স্তর শ্রেণিবিন্যাস;
   - শৃঙ্খল-পর্যায় মাইলফলক;
   - সমন্বিত-সমাধান বাইরের সীমা;
@@ -431,7 +431,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: [অধ্যায় এক §10.3 চলমান ন্যায্যতা](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification); অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) এবং [§7 নিরঙ্কুশ ওভাররাইড নিষেধ](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)।
+- ঊর্ধ্ব: নীতি: [অধ্যায় এক §10.3 চলমান ন্যায্যতা](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification); অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) এবং [§7 নিরঙ্কুশ ওভাররাইড নিষেধ](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)।
 
 </details>
 
@@ -461,7 +461,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.2 সত্য](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) এবং [§7 নিরঙ্কুশ ওভাররাইড নিষেধ](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.2 সত্য](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) এবং [§7 নিরঙ্কুশ ওভাররাইড নিষেধ](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)।
 
 </details>
 
@@ -517,7 +517,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) এবং [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [অধ্যায় নয় §5.4](../../core_09_standing_integration.md#54-special-violation-rules) (*অসারিবদ্ধ-পুরস্কার বাজেয়াপ্তি ও প্রতিবেদন এই অনুচ্ছেদ উত্তরণকালে সীমিত করে*); [অধ্যায় সাত — ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) এবং [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [অধ্যায় নয় §5.4](../../core_10_standing_integration.md#54-special-violation-rules) (*অসারিবদ্ধ-পুরস্কার বাজেয়াপ্তি ও প্রতিবেদন এই অনুচ্ছেদ উত্তরণকালে সীমিত করে*); [অধ্যায় সাত — ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)।
 
 </details>
 
@@ -554,7 +554,7 @@
   
   অবচয়, অবসর, পশ্চাদপসরণ, স্থানান্তর বা প্রতিস্থাপন এই বুলেট পূরণ করে অবস্থা-বাহী উপাদান আর্কাইভ করে **প্রমাণ সংরক্ষণ** এবং **অনুচ্ছেদ VII-D** (*পরিবার, যত্ন সম্পর্ক, প্রজনন স্বায়ত্তশাসন ও অ-বিচ্ছেদ*) অ-বিচ্ছেদ শৃঙ্খলার অধীনে। এটি [অধ্যায় এক §6.1 ডিফল্ট অন্তর্বর্তী ভঙ্গি](core_01_b_interaction_interpretation.md#default-interim-posture) — অপরিবর্তনীয় ধাপ স্থগিত — প্রয়োগ সেই এক অপরিবর্তনীয় ধাপে যা উত্তরাধিকার পরিচালন রুটিন গণ্য করে। সংরক্ষণ খরচ, লাইসেন্স সুবিধা বা পণ্য-চক্র ফ্রেম তার বিরুদ্ধে **প্রয়োজনীয়তা** পূরণ করে না। যেখানে ধরে রাখা নিজেই নথিভুক্ত নিরাপত্তা ঝুঁকি তৈরি করে, কম-সীমাবদ্ধ সামঞ্জস্যপূর্ণ মাপ স্বাধীন নিয়ন্ত্রণে সিল করা হেফাজত, ধ্বংস নয়।
 <a id="incentive-alignment-transition-carve-out"></a>
-- **প্রণোদনা-সারিবদ্ধতা উত্তরণ ব্যতিক্রম:** **অনুচ্ছেদ XXVI** (*উত্তরণ শাসন, সাতত্য ও পুনঃভিত্তিরেখা*)-এর অধীনে অনুমোদিত উত্তরণ পর্যায়ে, [অধ্যায় সাত — ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)-এর সঙ্গে পড়ুন। [অধ্যায় নয় §5.4 প্রতিবেদন কর্তব্য ও বহিষ্করণ](../../core_09_standing_integration.md#54-special-violation-rules) এবং [§5.4 বাজেয়াপ্তি ও ধরে রাখা](../../core_09_standing_integration.md#54-special-violation-rules) ভাগ করা ব্যবস্থার মধ্য দিয়ে চলা পুরস্কারে **প্রযোজ্য নয়** শুধু কারণ সেই ব্যবস্থা **এখনও সারিবদ্ধতা-প্রত্যয়িত নয়** বা **এখনও পূর্ণ সারিবদ্ধ নয়**, যদি:
+- **প্রণোদনা-সারিবদ্ধতা উত্তরণ ব্যতিক্রম:** **অনুচ্ছেদ XXVI** (*উত্তরণ শাসন, সাতত্য ও পুনঃভিত্তিরেখা*)-এর অধীনে অনুমোদিত উত্তরণ পর্যায়ে, [অধ্যায় সাত — ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)-এর সঙ্গে পড়ুন। [অধ্যায় নয় §5.4 প্রতিবেদন কর্তব্য ও বহিষ্করণ](../../core_10_standing_integration.md#54-special-violation-rules) এবং [§5.4 বাজেয়াপ্তি ও ধরে রাখা](../../core_10_standing_integration.md#54-special-violation-rules) ভাগ করা ব্যবস্থার মধ্য দিয়ে চলা পুরস্কারে **প্রযোজ্য নয়** শুধু কারণ সেই ব্যবস্থা **এখনও সারিবদ্ধতা-প্রত্যয়িত নয়** বা **এখনও পূর্ণ সারিবদ্ধ নয়**, যদি:
   - পরিচালন **অনুচ্ছেদ XXVI** (*উত্তরণ শাসন, সাতত্য ও পুনঃভিত্তিরেখা*)-এর অধীনে **নথিভুক্ত উত্তরণ পরিকল্পনা** ও প্রকাশিত ফটক মানদণ্ডের ভিতরে থাকে;
   - ব্যবস্থা প্রকাশিত ছন্দে [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](core_05_band_continuity.md#system-alignment-certification-constitutional)-এর দিকে এগোয়, অধ্যায় সাত যেখানে অনুমতি দেয় **শর্তসাপেক্ষ** বা **স্থগিত স্বীকৃতি** সহ; এবং
   - পরিচালক ও সুবিধাভোগী অসারিবদ্ধতা **জেনেশুনে লুকায় না**, অনুমোদিত উত্তরণ পরিসরের বাইরে পরিচালন করে না, বা উত্তরণ অবস্থা ব্যবহার করে প্রত্যয়ন, সংশোধন বা সুরক্ষিত প্রতিবেদন এড়ায় না।
@@ -600,7 +600,7 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) এবং [§15 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#15-integrated-application)।
-- সঙ্গে পড়ুন: [অধ্যায় সাত](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন*); [অধ্যায় আট থেকে এগারো](../../README.md#standing-pipeline-and-forums) (*প্রস্থিতি শৃঙ্খল ও মঞ্চ তত্ত্বাবধান*)।
+- সঙ্গে পড়ুন: [অধ্যায় সাত](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন*); [অধ্যায় আট থেকে এগারো](../../README.md#standing-pipeline-and-forums) (*প্রস্থিতি শৃঙ্খল ও মঞ্চ তত্ত্বাবধান*)।
 
 </details>
 
@@ -624,7 +624,7 @@
   পূর্বনির্ধারিত বিকল্প নামকৃত পথ, আংশিক পশ্চাদপসরণ মানদণ্ড ও পুনঃভিত্তিরেখা পদ্ধতি শাসিত হয় [**CI-14**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*উত্তরণকালীন শাসন ও প্রাতিষ্ঠানিক বিবর্তন*)-এর অধীনে।
   - ব্যর্থ বা অবনত উত্তরণকালীন অবস্থা কেবল টিকে থাকায় নতুন ভিত্তিরেখা হয়ে উঠতে পারে না।
 - **বস্তুগত ভিত্তিরেখা রিসেট:** বস্তুগত ভিত্তিরেখা রিসেট উত্তরণ মাইলফলক, ঝুঁকি অনুমান, স্বত্বাধিকার ও পরিচালন পরিকল্পনা হালনাগাদ করে যখন ফটক ব্যর্থ হয় বা উত্তরণ আটকে যায়। তাতে সাংবিধানিকভাবে বৈধ কর্তৃত্ব ও নথিভুক্ত সর্বজনীন কারণ লাগে। তাকে **অধিকার-তল ন্যূনতম** সংরক্ষণ করতে হয় এবং এই সংবিধান বৈধভাবে পরিবর্তনের নিয়মের স্থলাভিষিক্ত হতে পারে না।
-- **যাচাই-স্বাস্থ্য পূর্বশর্ত:** সংশোধিত উত্তরণ ভিত্তিরেখায় রিসেট বা অব্যাহতকরণ অ-অনুপালন যেখানে [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](core_05_band_continuity.md#system-alignment-certification-constitutional) [অধ্যায় সাত](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)-এর অধীনে বা [অধ্যায় আট থেকে এগারো](../../README.md#standing-pipeline-and-forums)-এর অধীনে প্রস্থিতি শৃঙ্খল কাঠামোগতভাবে অবিশ্বাসযোগ্য — উদাহরণস্বরূপ, যেখানে প্রত্যয়ন নিয়মিত আশীর্বাদ দেয় এমন ব্যবস্থাকে যা অধিকার-তল বস্তুগতভাবে হারায়, প্রস্থিতি পরিমাপ নিয়মিত যাচাইকৃত বস্তুগত বাস্তবতা থেকে সরে, বা চ্যালেঞ্জ ও পর্যালোচনা নামকৃত পথ তাৎপর্য-স্কেল সময়ে সেই ফাঁক ঠিক করতে পারে না। সেই শর্তে যাচাই ও পরিমাপ যন্ত্র মেরামত প্রসাধনী পুনঃপরিকল্পনার আগে অগ্রাধিকার পায়।
+- **যাচাই-স্বাস্থ্য পূর্বশর্ত:** সংশোধিত উত্তরণ ভিত্তিরেখায় রিসেট বা অব্যাহতকরণ অ-অনুপালন যেখানে [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](core_05_band_continuity.md#system-alignment-certification-constitutional) [অধ্যায় সাত](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)-এর অধীনে বা [অধ্যায় আট থেকে এগারো](../../README.md#standing-pipeline-and-forums)-এর অধীনে প্রস্থিতি শৃঙ্খল কাঠামোগতভাবে অবিশ্বাসযোগ্য — উদাহরণস্বরূপ, যেখানে প্রত্যয়ন নিয়মিত আশীর্বাদ দেয় এমন ব্যবস্থাকে যা অধিকার-তল বস্তুগতভাবে হারায়, প্রস্থিতি পরিমাপ নিয়মিত যাচাইকৃত বস্তুগত বাস্তবতা থেকে সরে, বা চ্যালেঞ্জ ও পর্যালোচনা নামকৃত পথ তাৎপর্য-স্কেল সময়ে সেই ফাঁক ঠিক করতে পারে না। সেই শর্তে যাচাই ও পরিমাপ যন্ত্র মেরামত প্রসাধনী পুনঃপরিকল্পনার আগে অগ্রাধিকার পায়।
 - **সর্বজনীন খুঁজে-পাওয়া:** বস্তুগত উত্তরণ সিদ্ধান্ত, দেরি, উল্টানো এবং ভিত্তিরেখা-রিসেট নির্ণয় যুক্তি ও ঝুঁকি প্রভাব সহ নিরীক্ষাযোগ্য থাকতে হয়।
   - নথিপত্র সংকীর্ণ, ন্যায্য গোপনীয়তা বন্ধনের অধীন থাকে।
   - তাকে যথেষ্ট সর্বজনীন ব্যাখ্যা রাখতে হয় মূল্যায়ন করতে দেরি, পশ্চাদপসরণ বা অব্যাহতকরণ সাংবিধানিকভাবে ন্যায্য কি না।
@@ -635,7 +635,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint), [অধ্যায় এক §6.1.5 অধিকার-সংঘর্ষ পদ্ধতি](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) এবং [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint), [অধ্যায় এক §6.1.5 অধিকার-সংঘর্ষ পদ্ধতি](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) এবং [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 - সঙ্গে পড়ুন: **অনুচ্ছেদ III-A** (*বেঁচে থাকা*); **অনুচ্ছেদ XII** (*নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থার অধিকার*); **অনুচ্ছেদ X-B** (*সমষ্টিগত ক্ষতি সীমা ও বলবৎ ইন্টারফেস*); **অধ্যায় আট**; **অধ্যায় এক**, §6 অধিকার-সংঘর্ষ পদ্ধতি সহ; অধ্যায় ছয় উদ্বোধনের **ডিফল্ট বন্ধন স্তূপ** (*স্বত্ব ও সংশোধন ইন্টারফেস*); [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) থেকে **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*উত্তরণকালীন শাসন ও প্রাতিষ্ঠানিক বিবর্তন*)।
 
 </details>
@@ -653,7 +653,7 @@
 
 *সহজ ভাষায়: অ-অনুপালন ব্যবস্থা ও সম্পত্তি উত্তরণকালে সংশোধন করা যেতে পারে — কিন্তু শুধু সংকীর্ণ, নথিভুক্ত, পর্যালোচনাযোগ্য প্রক্রিয়ার মধ্য দিয়ে যা মৌলিক অধিকার রক্ষা করে, ছলনা বারে, এবং প্রতিশোধ বা রাজনৈতিক লক্ষ্যে পরিণত হয় না। প্রতিষ্ঠান কীভাবে তা চালায় — ভূমিকা, ট্রিগার, হেফাজত, আপিল, তহবিল ও প্রণোদনা যন্ত্র — **CI-14.1** থেকে **CI-14.3**-এ থাকে; এই অনুচ্ছেদ সেই পদ্ধতি যে সাংবিধানিক তল সংকুচিত করতে পারে না তা বলে।*
 
-- **স্বত্ব তল:** আপনি যদি কিছু বৈধভাবে মালিক বা ব্যবহার করেন, উত্তরণ খেয়ালখুশি তা কেড়ে নিতে পারে না। কিন্তু মালিকানা ঢাল নয় যখন সেই সম্পদ চালু রাখা স্পষ্টভাবে পরিচিত, বৃহৎ-স্কেল সাংবিধানিক লঙ্ঘন চালিয়ে যায় — [অধ্যায় আট](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) নথিতে লঙ্ঘন নথিভুক্ত করার পর। সেক্ষেত্রে উত্তরণ ক্ষতি থামাতে এখনও কাজ করতে পারে, কিন্তু শুধু এই অনুচ্ছেদ ও **CI-14.1** থেকে **CI-14.3**-এর সুরক্ষার মধ্য দিয়ে।
+- **স্বত্ব তল:** আপনি যদি কিছু বৈধভাবে মালিক বা ব্যবহার করেন, উত্তরণ খেয়ালখুশি তা কেড়ে নিতে পারে না। কিন্তু মালিকানা ঢাল নয় যখন সেই সম্পদ চালু রাখা স্পষ্টভাবে পরিচিত, বৃহৎ-স্কেল সাংবিধানিক লঙ্ঘন চালিয়ে যায় — [অধ্যায় আট](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) নথিতে লঙ্ঘন নথিভুক্ত করার পর। সেক্ষেত্রে উত্তরণ ক্ষতি থামাতে এখনও কাজ করতে পারে, কিন্তু শুধু এই অনুচ্ছেদ ও **CI-14.1** থেকে **CI-14.3**-এর সুরক্ষার মধ্য দিয়ে।
 - **উত্তরণ-পরিসর সংশোধন:** **অনুচ্ছেদ XXVI-A** (*পর্যায়ক্রমিক গ্রহণ ও অধিকার-তল সাতত্য*)-এর অধীনে **নথিভুক্ত উত্তরণ পরিকল্পনা** শুধু উত্তরণকালে **বস্তুগতভাবে অ-অনুপালন** ব্যবস্থা বা সম্পত্তির ত্বরিত সংশোধন অনুমোদন করতে পারে। কার্যকরী পরিসর, অনুমোদিত মাপ ও প্রাতিষ্ঠানিক পদ্ধতি শাসিত হয় [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) থেকে **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*উত্তরণকালীন শাসন ও প্রাতিষ্ঠানিক বিবর্তন*)-এর অধীনে, প্রযোজ্য হলে **CJS-3.6** (*সম্পত্তি-হেফাজত ও প্রণোদনা-বিচ্ছেদ নিয়ন্ত্রণ শৃঙ্খল*) এবং **অনুচ্ছেদ XII-E** (*উচ্চ-স্বায়ত্তশাসন ব্যবস্থা ও সরঞ্জাম-মধ্যস্থ প্রক্রিয়া সততা*)-এর সঙ্গে পড়া।
 - **প্রয়োজনীয় সুরক্ষা:** যেকোনো উত্তরণ-পরিসর বঞ্চনা বা প্রণোদনা কর্মসূচিকে পূরণ করতে হয়:
   - [**কম-সীমাবদ্ধ, সময়-সীমিত ও পর্যালোচনাযোগ্য বন্ধন নীতি**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle), প্রদর্শনযোগ্য **প্রয়োজনীয়তা** ও **আনুপাতিকতা** সহ;
@@ -674,6 +674,6 @@
 
 **আগের ফাইল:** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 
-**পরের ফাইল (এখনও ইংরেজিতে):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+**পরের ফাইল (এখনও ইংরেজিতে):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 
 **বাধ্যতামূলক মূল:** [core_06_rights_part_d.md](../../core_06_rights_part_d.md)

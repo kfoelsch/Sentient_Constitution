@@ -108,7 +108,7 @@ Leaf definitions under this leg inherit its scope unless they expressly narrow o
 | Truth and epistemic integrity | Are claims, records, and disclosures honest enough for safe decisions? | Protects informed participation, remedy, and correction |
 | Trustworthiness | Is reliance justified, or is trust being degraded? | Protects sentients from false confidence and misleading reliance |
 
-Binding reliability, audit, or review requirements arise when Chapter Six, [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification), or incorporated instruments expressly require them.
+Binding reliability, audit, or review requirements arise when Chapter Six, [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification), or incorporated instruments expressly require them.
 
 
 ---

@@ -109,7 +109,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 下游：参与测量族 — 仅链接汇总；各用语层级住在叶定义上 — 见[实质公平](../../core_05_band_participation.md#substantive-fairness-constitutional)、[受保护特征代理与差别影响](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact)、[可及性](../../core_05_band_participation.md#accessibility-constitutional)、[教育能动性](../../core_05_band_participation.md#educational-agency)、[有意义的能动性](../../core_05_band_participation.md#meaningful-agency)，以及延续带的[隐私（信息）](../../core_05_band_continuity.md#privacy-informational-cluster)簇。
-- 一并阅读：第六章、[第七章](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)，或并入文书 — 有约束力的不歧视、合理便利、教育或隐私要求，在那些文书明文要求时产生。
+- 一并阅读：第六章、[第七章](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)，或并入文书 — 有约束力的不歧视、合理便利、教育或隐私要求，在那些文书明文要求时产生。
 
 </details>
 

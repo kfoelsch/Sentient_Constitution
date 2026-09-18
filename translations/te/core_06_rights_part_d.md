@@ -12,7 +12,7 @@
 >
 > **మునుపటి (ఈ భాషలో):** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 >
-> **తదుపరి (ఇంకా ఆంగ్లంలో):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+> **తదుపరి (ఇంకా ఆంగ్లంలో):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 > **చదివే చాపం:** అనుచ్ఛేదాలు XXIII–XXVI (న్యాయం మరియు అత్యవసరాలు, రాజ్యాంగ పరిణామం, పరివర్తన, మరియు తిరిగి-బేస్‌లైన్)
 
 </details>
@@ -69,7 +69,7 @@
 
 *పొరుగు అనుచ్ఛేదాలు:*
 
-- **సమయబద్ధత నేల:** పరిష్కార వేగం, ఆలస్య-నిరోధ క్రమశిక్షణ, మరియు భౌతికత-స్థాయి మైలురాళ్ళు **అనుచ్ఛేదం XXIV-C** (*సమయానుకూల పరిష్కారం మరియు ఆలస్య-నిరోధ నేల*) పాలిస్తుంది, [అధ్యాయం పదకొండు §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) ద్వారా అమలు.
+- **సమయబద్ధత నేల:** పరిష్కార వేగం, ఆలస్య-నిరోధ క్రమశిక్షణ, మరియు భౌతికత-స్థాయి మైలురాళ్ళు **అనుచ్ఛేదం XXIV-C** (*సమయానుకూల పరిష్కారం మరియు ఆలస్య-నిరోధ నేల*) పాలిస్తుంది, [అధ్యాయం పదకొండు §6](../../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) ద్వారా అమలు.
 - **సమయానుకూల పరిహారం:** [**అనుచ్ఛేదం XII-B** (*సవాలు, సమీక్ష, పరిహారం హక్కు*)](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)తో చదవండి (*సమయానుకూల పరిహార ప్రవేశం*).
 
 అంగీకరించిన పాలన అమలు ఎస్కలేషన్, జోక్య అనుపాతత, అత్యవసర సరిహద్దులు, స్థాయి-డిఫాల్ట్ సమయ కిటికీలు ఇస్తుంది. ఈ అనుచ్ఛేదం కింద ఆచరణాత్మక ప్రవేశం, సమీక్ష-యోగ్యత, పునరుద్ధరణ, సమయానుకూల పరిష్కారం, లేదా హక్కుల-నేల పరిమితులను సంకుచితం చేయకూడదు.
@@ -79,7 +79,7 @@
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [అధ్యాయం ఒకటి §6.1.5 హక్కుల-ఢీకొనడం ప్రక్రియ](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [అధ్యాయం ఒకటి §9.6 క్షీణింపు-నిరోధ ప్రక్రియ](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline), మరియు [§15 సమగ్ర వర్తింపు](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- గమ్యం: [అధ్యాయం తొమ్మిది §4](../../core_09_standing_integration.md#4-violation-correction-and-prevention) (*ఉల్లంఘన, సరిదిద్దుట, మరియు నివారణ*); [అనుచ్ఛేదం XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [అనుచ్ఛేదం XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule).
+- గమ్యం: [అధ్యాయం తొమ్మిది §4](../../core_10_standing_integration.md#4-violation-correction-and-prevention) (*ఉల్లంఘన, సరిదిద్దుట, మరియు నివారణ*); [అనుచ్ఛేదం XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [అనుచ్ఛేదం XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule).
 - దీనితో చదవండి: [క్రూరత్వం](core_05_band_accountability.md#cruelty) (*క్రూరత్వం-నిరోధ నేల యొక్క బాధ-గమ్యం ప్రమాణానికి అధ్యాయం ఐదు ఇల్లు*).
 
 </details>
@@ -196,7 +196,7 @@
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 కేంద్ర లాభనష్ట సూత్రాలు](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), మరియు [అధ్యాయం ఒకటి §6.1.5 హక్కుల-ఢీకొనడం ప్రక్రియ](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- దీనితో చదవండి: ఉనికి-ప్రమాద పరిశీలన భౌతికంగా పాల్గొన్న చోట **అనుచ్ఛేదం I-D** (*ఉనికి ప్రమాదం మరియు పర్యావరణ పునరుద్ధరణ సామర్థ్యం*); [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) **పాల్గొనడం** మరియు **సమయబద్ధత** కాళ్ళు; [అనుచ్ఛేదం XXIV-C](#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*సమయానుకూల పరిష్కారం మరియు ఆలస్య-నిరోధ నేల*); [అధ్యాయం పదకొండు §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*పునరుద్ధరణ-సవాలు డిఫాల్ట్‌లుగా తిరిగి వాడబడిన భౌతికత-స్థాయి బయటి సరిహద్దులు*).
+- దీనితో చదవండి: ఉనికి-ప్రమాద పరిశీలన భౌతికంగా పాల్గొన్న చోట **అనుచ్ఛేదం I-D** (*ఉనికి ప్రమాదం మరియు పర్యావరణ పునరుద్ధరణ సామర్థ్యం*); [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) **పాల్గొనడం** మరియు **సమయబద్ధత** కాళ్ళు; [అనుచ్ఛేదం XXIV-C](#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*సమయానుకూల పరిష్కారం మరియు ఆలస్య-నిరోధ నేల*); [అధ్యాయం పదకొండు §6](../../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*పునరుద్ధరణ-సవాలు డిఫాల్ట్‌లుగా తిరిగి వాడబడిన భౌతికత-స్థాయి బయటి సరిహద్దులు*).
 - గమ్యం: [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) (*సంఖ్యాత్మక దశ పట్టికలు ఈ డిఫాల్ట్‌లను నెమ్మదించకూడదు*).
 
 </details>
@@ -242,14 +242,14 @@
   - అనుపాతత;
   - తక్కువ-పరిమిత సాధ్య ప్రత్యామ్నాయాల లేకపోవడం.
 <a id="xxiii-d-restore-challenge-clocks"></a>
-- **సమీక్ష మరియు నోటీసు (పునరుద్ధరణ-సవాలు గడియారాలు):** ఇప్పుడు నియంత్రించండి; నోటీసు మరియు సవాలును తర్వాత పునరుద్ధరించండి; పాల్గొనడాన్ని శాశ్వతంగా దాటవేయవద్దు. «సాధ్యమైనంత త్వరగా» గడియారం కాదు. ప్రభావిత పక్షాలు [**అనుచ్ఛేదం XXIV-C**](#article-xxiv-c-timely-resolution-and-anti-delay-floor) వేదిక పరిష్కారానికి ఇప్పటికే వాడే అదే భౌతికత-స్థాయి బయటి సరిహద్దుల్లో నోటీసు మరియు పునరుద్ధరించిన సవాలు ప్రవేశం పొందాలి, [అధ్యాయం పదకొండు §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) అమలు చేసినట్టు:
+- **సమీక్ష మరియు నోటీసు (పునరుద్ధరణ-సవాలు గడియారాలు):** ఇప్పుడు నియంత్రించండి; నోటీసు మరియు సవాలును తర్వాత పునరుద్ధరించండి; పాల్గొనడాన్ని శాశ్వతంగా దాటవేయవద్దు. «సాధ్యమైనంత త్వరగా» గడియారం కాదు. ప్రభావిత పక్షాలు [**అనుచ్ఛేదం XXIV-C**](#article-xxiv-c-timely-resolution-and-anti-delay-floor) వేదిక పరిష్కారానికి ఇప్పటికే వాడే అదే భౌతికత-స్థాయి బయటి సరిహద్దుల్లో నోటీసు మరియు పునరుద్ధరించిన సవాలు ప్రవేశం పొందాలి, [అధ్యాయం పదకొండు §6](../../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) అమలు చేసినట్టు:
   - **Tier A:** గరిష్ఠం **ఒక వారం**;
   - **Tier B:** గరిష్ఠం **మూడు వారాలు**;
   - **Tier C:** గరిష్ఠం **రెండు నెలలు**;
   - **Tier L:** గరిష్ఠం **నాలుగు నెలలు**;
   - **Tier P:** గరిష్ఠం **ఆరు నెలలు**.
 
-  ఆ సంఖ్యలు తిరిగి వాడబడతాయి, రెండో పట్టిక కాదు. [అధ్యాయం పదకొండు §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) సంఖ్యాత్మక ఇల్లుగా ఉంటుంది. పునరుద్ధరణ-సవాలు కిటికీ అత్యవసర చర్య ప్రారంభం నుండి, లేదా నోటీసు లేదా సవాలు వాయిదా అయినప్పటి నుండి నడుస్తుంది, ఏది ముందో. నోటీసు లేదా సవాలు వాయిదా చేసే అత్యవసర నియంత్రణ **Tier A**, డాక్యుమెంట్ చేసిన తక్కువ-ఆతురత చూపింపు రికార్డు కాకపోతే. ఆపరేటర్లు ముందుగా పునరుద్ధరించవచ్చు. **కొనసాగింపు క్రమశిక్షణ** ద్వారా తప్ప స్థాయి డిఫాల్ట్ దాటి సాగదీయలేరు. చర్య యొక్క పూర్తి స్వతంత్ర సమీక్ష అదే కిటికీలో ప్రారంభం కావాలి. [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors)లోని దశ పట్టికలు ఈ డిఫాల్ట్‌లను నెమ్మదించకూడదు.
+  ఆ సంఖ్యలు తిరిగి వాడబడతాయి, రెండో పట్టిక కాదు. [అధ్యాయం పదకొండు §6](../../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) సంఖ్యాత్మక ఇల్లుగా ఉంటుంది. పునరుద్ధరణ-సవాలు కిటికీ అత్యవసర చర్య ప్రారంభం నుండి, లేదా నోటీసు లేదా సవాలు వాయిదా అయినప్పటి నుండి నడుస్తుంది, ఏది ముందో. నోటీసు లేదా సవాలు వాయిదా చేసే అత్యవసర నియంత్రణ **Tier A**, డాక్యుమెంట్ చేసిన తక్కువ-ఆతురత చూపింపు రికార్డు కాకపోతే. ఆపరేటర్లు ముందుగా పునరుద్ధరించవచ్చు. **కొనసాగింపు క్రమశిక్షణ** ద్వారా తప్ప స్థాయి డిఫాల్ట్ దాటి సాగదీయలేరు. చర్య యొక్క పూర్తి స్వతంత్ర సమీక్ష అదే కిటికీలో ప్రారంభం కావాలి. [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors)లోని దశ పట్టికలు ఈ డిఫాల్ట్‌లను నెమ్మదించకూడదు.
 - **సాధారణీకరణ లేదు:** అత్యవసర చర్యలు కింది లేకుండా శాశ్వత పాలనగా సాధారణీకరించబడకూడదు:
   - **అధ్యాయం ఒకటి**-సంగత సమర్థన (**ఆవశ్యకత** మరియు **అనుపాతత**);
   - **డాక్యుమెంట్ చేసిన స్వతంత్ర పునఃఅధికారీకరణ**;
@@ -329,7 +329,7 @@
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§6.1.5 హక్కుల-ఢీకొనడం నిర్ణయ పరీక్ష](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [§7 పూర్తి అధిగమన నిషేధం](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override), మరియు [§15 సమగ్ర వర్తింపు](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- దీనితో చదవండి: [అధ్యాయం తొమ్మిది §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*స్వచ్ఛంద బహిరంగ జవాబుదారీతనం వ్యక్తీకరణ*); [అధ్యాయం పది §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*స్వచ్ఛంద బహిరంగ జవాబుదారీతనం వ్యక్తీకరణ (రాజ్యాంగ-విరుద్ధం)*).
+- దీనితో చదవండి: [అధ్యాయం తొమ్మిది §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*స్వచ్ఛంద బహిరంగ జవాబుదారీతనం వ్యక్తీకరణ*); [అధ్యాయం పది §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*స్వచ్ఛంద బహిరంగ జవాబుదారీతనం వ్యక్తీకరణ (రాజ్యాంగ-విరుద్ధం)*).
 
 </details>
 
@@ -358,7 +358,7 @@
     - కొనసాగే ప్రమాదం;
     - భౌతిక అధికార అసమానత;
     - ప్రభావిత పక్షాల సమ్మతి లేకపోవడం.
-- **స్వచ్ఛంద బహిరంగ జవాబుదారీతనం వ్యక్తీకరణ:** సాధారణంగా [అధ్యాయం తొమ్మిది §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*స్వచ్ఛంద బహిరంగ జవాబుదారీతనం వ్యక్తీకరణ*) పాలిస్తుంది, ధృవీకరించిన రాజ్యాంగ-విరుద్ధ దుష్ప్రవర్తనకు [అధ్యాయం పది §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*స్వచ్ఛంద బహిరంగ జవాబుదారీతనం వ్యక్తీకరణ (రాజ్యాంగ-విరుద్ధం)*), ఈ అనుచ్ఛేదంలోని హక్కుల-ఢీకొనడం మరియు పునరుద్ధరణ-అనుగుణత నియమాలకు లోబడి.
+- **స్వచ్ఛంద బహిరంగ జవాబుదారీతనం వ్యక్తీకరణ:** సాధారణంగా [అధ్యాయం తొమ్మిది §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*స్వచ్ఛంద బహిరంగ జవాబుదారీతనం వ్యక్తీకరణ*) పాలిస్తుంది, ధృవీకరించిన రాజ్యాంగ-విరుద్ధ దుష్ప్రవర్తనకు [అధ్యాయం పది §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*స్వచ్ఛంద బహిరంగ జవాబుదారీతనం వ్యక్తీకరణ (రాజ్యాంగ-విరుద్ధం)*), ఈ అనుచ్ఛేదంలోని హక్కుల-ఢీకొనడం మరియు పునరుద్ధరణ-అనుగుణత నియమాలకు లోబడి.
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### అనుచ్ఛేదం XXIV-C: సమయానుకూల పరిష్కారం మరియు ఆలస్య-నిరోధ నేల
 <details>
@@ -366,7 +366,7 @@
 
 - మూలం: సమయబద్ధత కొలత కుటుంబం (*రాజ్యాంగ కొలతగా సమయానుకూల పరిష్కారం మరియు ఆలస్య-నిరోధ క్రమశిక్షణ*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums) (*ప్రస్థితి, సమాకలనం, మరియు వేదిక సమన్వయ గొలుసు*).
 - సూత్రాలు: అధ్యాయం ఒకటి [§12.2 రాజ్యాంగ సమర్థత](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency), [అధ్యాయం ఒకటి §6.3 నివారించదగిన భారం తగ్గింపు](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), మరియు [అధ్యాయం ఒకటి §6.1.5 హక్కుల-ఢీకొనడం ప్రక్రియ](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- గమ్యం: [అధ్యాయం పదకొండు §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*భౌతికత స్థాయులు, గొలుసు మైలురాళ్ళు, మరియు ఆలస్య-నిరోధ క్రమశిక్షణ*); [అనుచ్ఛేదం XXIII-D](#xxiii-d-restore-challenge-clocks) (*అత్యవసర నియంత్రణ తర్వాత డిఫాల్ట్ పునరుద్ధరణ-సవాలు కిటికీలుగా అదే బయటి సరిహద్దులు*).
+- గమ్యం: [అధ్యాయం పదకొండు §6](../../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*భౌతికత స్థాయులు, గొలుసు మైలురాళ్ళు, మరియు ఆలస్య-నిరోధ క్రమశిక్షణ*); [అనుచ్ఛేదం XXIII-D](#xxiii-d-restore-challenge-clocks) (*అత్యవసర నియంత్రణ తర్వాత డిఫాల్ట్ పునరుద్ధరణ-సవాలు కిటికీలుగా అదే బయటి సరిహద్దులు*).
 - బాధ్యతాయుత నిర్వాహక ద్వారం (అసంచాలకం): బంధనీయ తదుపరి-అడుగు ప్రకటన: [సంచాలక బాధ్యతాయుత నిర్వాహక ప్రకటన](#operative-steward-statement-delay). మద్దతు పాయింటర్లు దాన్ని సంకుచితం చేయలేవు.
 
 </details>
@@ -394,8 +394,8 @@
 - **మూడు ఉమ్మడి అవసరాలు:** భౌతిక పరిష్కార మార్గాలు కలిసి **సమయానుకూలం**, **సమర్థం**, **న్యాయం** కావాలి:
   - **సమయానుకూలం** — [భౌతిక పందెం](core_00_preamble.md#material-stake) మరియు హాని ఆతురతకు స్కేల్ అయిన పరిమిత గడియారాలు;
   - **సమర్థం** — [రాజ్యాంగ సమర్థత](core_05_band_continuity.md#constitutional-efficiency) అధ్యాయం ఒకటి [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) అర్థంలో — వినియోగించిన సంజ్ఞ సమయం మరియు భాగస్వామ్య ప్రయత్నానికి నిజమైన రాజ్యాంగ ఫలితం, ముడి థ్రూపుట్ లేదా జాబితా ఖాళీ చేయడం కాదు;
-  - **న్యాయం** — **అనుచ్ఛేదం XXIII-A** (*న్యాయ లక్ష్యం మరియు పరిధి*), **అనుచ్ఛేదం XXIII-B** (*గణనీయ పరిమితి, పునరుద్ధరణ, మరియు పునరుద్ధరణ-జవాబుదారీతనం పరిమితులు*), మరియు **అనుచ్ఛేదం XXIII-C** (*అతి తక్కువ-పరిమిత మరియు కాల-పరిమిత నియమం*) పూర్తిగా వర్తిస్తూనే ఉంటాయి; వేగంగా కదలడం తనిఖీ చేసిన వాస్తవాలు దాటవేయడానికి ([అధ్యాయం ఎనిమిది §3.1](../../core_08_standing_assessment.md#verified-inputs-for-standing)), తప్పు పక్షాన్ని శిక్షించడానికి, హానికి సరిపోని మరమ్మత్తు ఇవ్వడానికి, లేదా సవాలు మరియు అప్పీల్ నరికివేయడానికి సాకు కాదు.
-- **వేదిక మరియు గొలుసు పర్యవేక్షణ:** **అధ్యాయాలు ఎనిమిది నుండి పదకొండు** ద్వారా మార్గం పొందిన వివాదాలకు కిందివి [అధ్యాయం పదకొండు §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) పాలిస్తుంది, ఈ అనుచ్ఛేదం యొక్క సమయానుకూల, సమర్థ, న్యాయ నేలకు లోబడి:
+  - **న్యాయం** — **అనుచ్ఛేదం XXIII-A** (*న్యాయ లక్ష్యం మరియు పరిధి*), **అనుచ్ఛేదం XXIII-B** (*గణనీయ పరిమితి, పునరుద్ధరణ, మరియు పునరుద్ధరణ-జవాబుదారీతనం పరిమితులు*), మరియు **అనుచ్ఛేదం XXIII-C** (*అతి తక్కువ-పరిమిత మరియు కాల-పరిమిత నియమం*) పూర్తిగా వర్తిస్తూనే ఉంటాయి; వేగంగా కదలడం తనిఖీ చేసిన వాస్తవాలు దాటవేయడానికి ([అధ్యాయం ఎనిమిది §3.1](../../core_09_standing_assessment.md#verified-inputs-for-standing)), తప్పు పక్షాన్ని శిక్షించడానికి, హానికి సరిపోని మరమ్మత్తు ఇవ్వడానికి, లేదా సవాలు మరియు అప్పీల్ నరికివేయడానికి సాకు కాదు.
+- **వేదిక మరియు గొలుసు పర్యవేక్షణ:** **అధ్యాయాలు ఎనిమిది నుండి పదకొండు** ద్వారా మార్గం పొందిన వివాదాలకు కిందివి [అధ్యాయం పదకొండు §6](../../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) పాలిస్తుంది, ఈ అనుచ్ఛేదం యొక్క సమయానుకూల, సమర్థ, న్యాయ నేలకు లోబడి:
   - భౌతికత-స్థాయి వర్గీకరణ;
   - గొలుసు-దశ మైలురాళ్ళు;
   - సమగ్ర-పరిష్కార బయటి సరిహద్దులు;
@@ -431,7 +431,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: సూత్రాలు: [అధ్యాయం ఒకటి §10.3 కొనసాగే సమర్థన](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification); అధ్యాయం ఒకటి [§2 పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), మరియు [§7 పూర్తి అధిగమన నిషేధం](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- మూలం: సూత్రాలు: [అధ్యాయం ఒకటి §10.3 కొనసాగే సమర్థన](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification); అధ్యాయం ఒకటి [§2 పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), మరియు [§7 పూర్తి అధిగమన నిషేధం](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 
 </details>
 
@@ -461,7 +461,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), మరియు [§7 పూర్తి అధిగమన నిషేధం](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), మరియు [§7 పూర్తి అధిగమన నిషేధం](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 
 </details>
 
@@ -517,7 +517,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 కేంద్ర లాభనష్ట సూత్రాలు](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), మరియు [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [అధ్యాయం తొమ్మిది §5.4](../../core_09_standing_integration.md#54-special-violation-rules) (*అసమతుల్య-బహుమతి స్వాధీనం మరియు నివేదిక ఈ అనుచ్ఛేదం పరివర్తనలో పరిమితం చేస్తుంది*); [అధ్యాయం ఏడు — వ్యవస్థ అనుగుణత ధృవీకరణ](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification).
+- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 కేంద్ర లాభనష్ట సూత్రాలు](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), మరియు [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [అధ్యాయం తొమ్మిది §5.4](../../core_10_standing_integration.md#54-special-violation-rules) (*అసమతుల్య-బహుమతి స్వాధీనం మరియు నివేదిక ఈ అనుచ్ఛేదం పరివర్తనలో పరిమితం చేస్తుంది*); [అధ్యాయం ఏడు — వ్యవస్థ అనుగుణత ధృవీకరణ](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -554,7 +554,7 @@
   
   వాడుక-నిలిపివేత, రిటైర్మెంట్, రోల్‌బ్యాక్, వలస, లేదా భర్తీ **సాక్ష్యం సంరక్షణ** మరియు **అనుచ్ఛేదం VII-D** (*కుటుంబం, సంరక్షణ సంబంధాలు, ప్రజనన స్వయంప్రతిపత్తి, మరియు విడదీయకపోవడం*) విడదీయకపోవడం క్రమశిక్షణ కింద స్థితి-మోసే భాగాలను ఆర్కైవ్ చేయడం ద్వారా ఈ బుల్లెట్ తీరుస్తాయి. ఇది వారస నడక రొటీన్‌గా పరిగణించే ఏకైక తిరుగులేని అడుగుకు వర్తించిన [అధ్యాయం ఒకటి §6.1 డిఫాల్ట్ మధ్యంతర భంగిమ](core_01_b_interaction_interpretation.md#default-interim-posture) — తిరుగులేని అడుగులు గడ్డకట్టండి. నిల్వ ఖర్చు, లైసెన్సింగ్ సౌకర్యం, లేదా ఉత్పత్తి-చక్ర ఫ్రేమింగ్ దానికి వ్యతిరేకంగా **ఆవశ్యకత** తీర్చవు. నిలుపుదల స్వయంగా డాక్యుమెంట్ చేసిన భద్రత ప్రమాదం సృష్టించిన చోట, అతి తక్కువ-పరిమిత అనుకూల చర్య నాశనం కాదు, స్వతంత్ర నియంత్రణ కింద ముద్రిత సంచిక-అభిరక్ష.
 <a id="incentive-alignment-transition-carve-out"></a>
-- **ప్రోత్సాహక-అనుగుణత పరివర్తన మినహాయింపు:** **అనుచ్ఛేదం XXVI** (*పరివర్తన పాలన, కొనసాగింపు, మరియు తిరిగి-బేస్‌లైన్*) కింద ఆమోదించిన పరివర్తన దశల్లో, [అధ్యాయం ఏడు — వ్యవస్థ అనుగుణత ధృవీకరణ](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)తో చదవండి. [అధ్యాయం తొమ్మిది §5.4 నివేదిక కర్తవ్యం మరియు మినహాయింపులు](../../core_09_standing_integration.md#54-special-violation-rules) మరియు [§5.4 స్వాధీనం మరియు నిలుపుదల](../../core_09_standing_integration.md#54-special-violation-rules) భాగస్వామ్య వ్యవస్థల ద్వారా ప్రవహించే బహుమతులకు ఆ వ్యవస్థలు **ఇంకా అనుగుణత-ధృవీకరణ కాలేదు** లేదా **ఇంకా పూర్తిగా అనుగుణం కాలేదు** అనే కారణం మాత్రమే వల్ల **వర్తించవు**, ఈ షరతులు తీరినప్పుడు:
+- **ప్రోత్సాహక-అనుగుణత పరివర్తన మినహాయింపు:** **అనుచ్ఛేదం XXVI** (*పరివర్తన పాలన, కొనసాగింపు, మరియు తిరిగి-బేస్‌లైన్*) కింద ఆమోదించిన పరివర్తన దశల్లో, [అధ్యాయం ఏడు — వ్యవస్థ అనుగుణత ధృవీకరణ](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)తో చదవండి. [అధ్యాయం తొమ్మిది §5.4 నివేదిక కర్తవ్యం మరియు మినహాయింపులు](../../core_10_standing_integration.md#54-special-violation-rules) మరియు [§5.4 స్వాధీనం మరియు నిలుపుదల](../../core_10_standing_integration.md#54-special-violation-rules) భాగస్వామ్య వ్యవస్థల ద్వారా ప్రవహించే బహుమతులకు ఆ వ్యవస్థలు **ఇంకా అనుగుణత-ధృవీకరణ కాలేదు** లేదా **ఇంకా పూర్తిగా అనుగుణం కాలేదు** అనే కారణం మాత్రమే వల్ల **వర్తించవు**, ఈ షరతులు తీరినప్పుడు:
   - నడక **అనుచ్ఛేదం XXVI** (*పరివర్తన పాలన, కొనసాగింపు, మరియు తిరిగి-బేస్‌లైన్*) కింద **డాక్యుమెంట్ చేసిన పరివర్తన ప్రణాళిక** మరియు ప్రచురించిన గేట్ ప్రమాణాల్లో ఉంటుంది;
   - వ్యవస్థ ప్రచురించిన కాడెన్స్‌పై [వ్యవస్థ అనుగుణత ధృవీకరణ](core_05_band_continuity.md#system-alignment-certification-constitutional) వైపు ముందుకు వెళ్తోంది, అధ్యాయం ఏడు అనుమతించే చోట **షరతులతో** లేదా **వాయిదా** గుర్తింపు సహా; మరియు
   - ఆపరేటర్లు మరియు లబ్ధిదారులు అసమతుల్యతను **తెలిసి దాచడం** లేదు, ఆమోదించిన పరివర్తన పరిధి బయట నడపడం లేదు, లేదా ధృవీకరణ, సరిదిద్దుట, లేదా రక్షిత నివేదికను తప్పించుకోవడానికి పరివర్తన స్థితి వాడడం లేదు.
@@ -600,7 +600,7 @@
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 కేంద్ర లాభనష్ట సూత్రాలు](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), మరియు [§15 సమగ్ర వర్తింపు](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- దీనితో చదవండి: [అధ్యాయం ఏడు](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*వ్యవస్థ అనుగుణత ధృవీకరణ*); [అధ్యాయాలు ఎనిమిది నుండి పదకొండు](../../README.md#standing-pipeline-and-forums) (*ప్రస్థితి గొలుసు మరియు వేదిక పర్యవేక్షణ*).
+- దీనితో చదవండి: [అధ్యాయం ఏడు](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*వ్యవస్థ అనుగుణత ధృవీకరణ*); [అధ్యాయాలు ఎనిమిది నుండి పదకొండు](../../README.md#standing-pipeline-and-forums) (*ప్రస్థితి గొలుసు మరియు వేదిక పర్యవేక్షణ*).
 
 </details>
 
@@ -624,7 +624,7 @@
   ముందుగా నిర్వచించిన ఫాల్‌బ్యాక్ మార్గాలు, పాక్షిక రోల్‌బ్యాక్ ప్రమాణాలు, మరియు తిరిగి-బేస్‌లైన్ ప్రక్రియలు [**CI-14**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*పరివర్తన పాలన మరియు సంస్థాగత పరిణామం*) పాలిస్తాయి.
   - విఫలమైన లేదా క్షీణించిన పరివర్తన స్థితులు కేవలం కొనసాగడం వల్ల కొత్త బేస్‌లైన్ కాకూడదు.
 - **భౌతిక బేస్‌లైన్ రీసెట్:** భౌతిక బేస్‌లైన్ రీసెట్ గేట్‌లు విఫలమైనప్పుడు లేదా పరివర్తన నిలిచినప్పుడు పరివర్తన మైలురాళ్ళు, ప్రమాద ఊహలు, యాజమాన్యం, మరియు నడక ప్రణాళికలు నవీకరిస్తుంది. రాజ్యాంగపరంగా చెల్లుబాటు అయ్యే అధికారం మరియు డాక్యుమెంట్ బహిరంగ కారణాలు కావాలి. **హక్కుల-నేల కనిష్ఠాలు** కాపాడాలి మరియు ఈ రాజ్యాంగాన్ని ధర్మబద్ధంగా మార్చే నియమాలకు ప్రత్యామ్నాయం కాకూడదు.
-- **ధృవీకరణ-ఆరోగ్య పూర్వషరతు:** సవరించిన పరివర్తన బేస్‌లైన్‌పై రీసెట్ లేదా కొనసాగింపు [వ్యవస్థ అనుగుణత ధృవీకరణ](core_05_band_continuity.md#system-alignment-certification-constitutional) [అధ్యాయం ఏడు](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) కింద లేదా [అధ్యాయాలు ఎనిమిది నుండి పదకొండు](../../README.md#standing-pipeline-and-forums) కింద ప్రస్థితి గొలుసు నిర్మాణాత్మకంగా నమ్మదగినది కాని చోట అనుసరణ-కాదు — ఉదాహరణకు, ధృవీకరణ హక్కుల నేలలను భౌతికంగా ఓడించే వ్యవస్థలను రొటీన్‌గా ఆశీర్వదించిన చోట, ప్రస్థితి కొలత ధృవీకరించిన భౌతిక వాస్తవం నుండి రొటీన్‌గా విచలనం అయిన చోట, లేదా సవాలు మరియు సమీక్ష మార్గాలు ఆ అంతరాలను భౌతికత-స్కేల్ సమయంలో సరిదిద్దలేని చోట. ఆ పరిస్థితుల్లో, ధృవీకరణ మరియు కొలత యంత్రాంగం మరమ్మత్తు సౌందర్య పునఃప్రణాళిక కంటే ప్రాధాన్యం.
+- **ధృవీకరణ-ఆరోగ్య పూర్వషరతు:** సవరించిన పరివర్తన బేస్‌లైన్‌పై రీసెట్ లేదా కొనసాగింపు [వ్యవస్థ అనుగుణత ధృవీకరణ](core_05_band_continuity.md#system-alignment-certification-constitutional) [అధ్యాయం ఏడు](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) కింద లేదా [అధ్యాయాలు ఎనిమిది నుండి పదకొండు](../../README.md#standing-pipeline-and-forums) కింద ప్రస్థితి గొలుసు నిర్మాణాత్మకంగా నమ్మదగినది కాని చోట అనుసరణ-కాదు — ఉదాహరణకు, ధృవీకరణ హక్కుల నేలలను భౌతికంగా ఓడించే వ్యవస్థలను రొటీన్‌గా ఆశీర్వదించిన చోట, ప్రస్థితి కొలత ధృవీకరించిన భౌతిక వాస్తవం నుండి రొటీన్‌గా విచలనం అయిన చోట, లేదా సవాలు మరియు సమీక్ష మార్గాలు ఆ అంతరాలను భౌతికత-స్కేల్ సమయంలో సరిదిద్దలేని చోట. ఆ పరిస్థితుల్లో, ధృవీకరణ మరియు కొలత యంత్రాంగం మరమ్మత్తు సౌందర్య పునఃప్రణాళిక కంటే ప్రాధాన్యం.
 - **బహిరంగ అనుసరణీయత:** భౌతిక పరివర్తన నిర్ణయాలు, ఆలస్యాలు, తిరుగుదళ్లు, మరియు బేస్‌లైన్-రీసెట్ నిర్ణయాలు కారణం మరియు ప్రమాద ప్రభావాలతో ఆడిట్ చేయదగినవిగా ఉండాలి.
   - డాక్యుమెంటేషన్ సంకుచిత, సమర్థించిన గోప్యత పరిమితులకు లోబడి ఉంటుంది.
   - ఆలస్యం, రోల్‌బ్యాక్, లేదా కొనసాగింపు రాజ్యాంగపరంగా సమర్థించబడిందా అంచనా వేయడానికి తగినంత బహిరంగ వివరణ కాపాడాలి.
@@ -635,7 +635,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [అధ్యాయం ఒకటి §6.1.5 హక్కుల-ఢీకొనడం ప్రక్రియ](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), మరియు [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [అధ్యాయం ఒకటి §6.1.5 హక్కుల-ఢీకొనడం ప్రక్రియ](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), మరియు [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - దీనితో చదవండి: **అనుచ్ఛేదం III-A** (*మనుగడ*); **అనుచ్ఛేదం XII** (*నమ్మదగిన, విశ్వసనీయ వ్యవస్థల హక్కు*); **అనుచ్ఛేదం X-B** (*సామూహిక హాని సరిహద్దు మరియు అమలు అంతర్ముఖం*); **అధ్యాయం ఎనిమిది**; **అధ్యాయం ఒకటి**, §6 హక్కుల-ఢీకొనడం ప్రక్రియ సహా; అధ్యాయం ఆరు ప్రారంభంలోని **డిఫాల్ట్ పరిమితి స్టాక్** (*స్వాధీనం మరియు సరిదిద్దుట అంతర్ముఖం*); [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) నుండి **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*పరివర్తన పాలన మరియు సంస్థాగత పరిణామం*).
 
 </details>
@@ -653,7 +653,7 @@
 
 *సాధారణ మాటల్లో: అనుసరణ-కాని వ్యవస్థలు మరియు ఆస్తి పరివర్తనలో సరిదిద్దవచ్చు — కానీ మూల హక్కులను కాపాడే, నెపం నిరోధించే, ప్రతీకారం లేదా రాజకీయ లక్ష్యంగా మారని సంకుచిత, డాక్యుమెంట్, సమీక్షించదగిన ప్రక్రియల ద్వారా మాత్రమే. సంస్థలు దాన్ని ఎలా నడుపుతాయో — పాత్రలు, ప్రేరకాలు, సంచిక-అభిరక్ష, అప్పీళ్ళు, నిధులు, ప్రోత్సాహక యాంత్రికత — **CI-14.1** నుండి **CI-14.3**లో ఉంటుంది; ఈ అనుచ్ఛేదం ఆ ప్రక్రియలు సంకుచితం చేయకూడని రాజ్యాంగ నేల చెబుతుంది.*
 
-- **స్వాధీనం నేల:** మీరు ఏదైనా ధర్మబద్ధంగా కలిగి ఉంటే లేదా వాడితే, పరివర్తన దాన్ని ఇష్టం వచ్చినట్టు తీసుకోలేదు. కానీ ఆ ఆస్తి నడుస్తూ ఉండనివ్వడం తెలిసిన, పెద్ద-స్కేల్ రాజ్యాంగ ఉల్లంఘనను స్పష్టంగా కొనసాగించినప్పుడు యాజమాన్యం డాలు కాదు — [అధ్యాయం ఎనిమిది](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) ఉల్లంఘనను రికార్డుపై డాక్యుమెంట్ చేసిన తర్వాత. ఆ సందర్భంలో, పరివర్తన హాని ఆపడానికి ఇంకా చర్య తీసుకోవచ్చు, కానీ ఈ అనుచ్ఛేదం మరియు **CI-14.1** నుండి **CI-14.3** రక్షణల ద్వారా మాత్రమే.
+- **స్వాధీనం నేల:** మీరు ఏదైనా ధర్మబద్ధంగా కలిగి ఉంటే లేదా వాడితే, పరివర్తన దాన్ని ఇష్టం వచ్చినట్టు తీసుకోలేదు. కానీ ఆ ఆస్తి నడుస్తూ ఉండనివ్వడం తెలిసిన, పెద్ద-స్కేల్ రాజ్యాంగ ఉల్లంఘనను స్పష్టంగా కొనసాగించినప్పుడు యాజమాన్యం డాలు కాదు — [అధ్యాయం ఎనిమిది](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) ఉల్లంఘనను రికార్డుపై డాక్యుమెంట్ చేసిన తర్వాత. ఆ సందర్భంలో, పరివర్తన హాని ఆపడానికి ఇంకా చర్య తీసుకోవచ్చు, కానీ ఈ అనుచ్ఛేదం మరియు **CI-14.1** నుండి **CI-14.3** రక్షణల ద్వారా మాత్రమే.
 - **పరివర్తన-పరిధి సరిదిద్దుట:** **అనుచ్ఛేదం XXVI-A** (*దశలవారీ అంగీకారం మరియు హక్కుల నేల కొనసాగింపు*) కింద **డాక్యుమెంట్ చేసిన పరివర్తన ప్రణాళిక** పరివర్తనలో మాత్రమే **భౌతికంగా అనుసరణ-కాని** వ్యవస్థలు లేదా ఆస్తి వేగవంత సరిదిద్దుటను అధికారం ఇవ్వవచ్చు. సంచాలక పరిధి, అనుమతించిన చర్యలు, మరియు సంస్థాగత ప్రక్రియ వర్తించే చోట **CJS-3.6** (*ఆస్తి-సంచిక-అభిరక్ష మరియు ప్రోత్సాహక-వేర్పాటు నియంత్రణ గొలుసు*) మరియు **అనుచ్ఛేదం XII-E** (*అధిక-స్వయంప్రతిపత్తి వ్యవస్థలు మరియు సాధన-మధ్యవర్తిత్వ ప్రక్రియ సమగ్రత*)తో చదివే [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) నుండి **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*పరివర్తన పాలన మరియు సంస్థాగత పరిణామం*) పాలిస్తాయి.
 - **అవసరమైన రక్షణలు:** ఏ పరివర్తన-పరిధి హరింపు లేదా ప్రోత్సాహక కార్యక్రమమైనా తీర్చాలి:
   - [**అతి తక్కువ-పరిమిత, కాల-పరిమిత, సమీక్షించదగిన పరిమితి సూత్రం**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle), నిరూపణాత్మక **ఆవశ్యకత** మరియు **అనుపాతత**తో;
@@ -674,6 +674,6 @@
 
 **మునుపటి ఫైల్ (ఈ భాషలో):** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 
-**తదుపరి ఫైల్ (ఇంకా ఆంగ్లంలో):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+**తదుపరి ఫైల్ (ఇంకా ఆంగ్లంలో):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 
 **బంధనీయ మూలం:** [core_06_rights_part_d.md](../../core_06_rights_part_d.md)

@@ -119,7 +119,7 @@
 | 真理と認識的誠実性 | 主張、記録、開示は、安全な決定に足りるほど誠実か。 | 情報に基づく参加、救済、訂正を守る |
 | 信頼可能性 | 依拠は正当か、それとも信頼が劣化しているか。 | 感知者を誤った確信と誤導的依拠から守る |
 
-拘束力ある信頼可能性、監査、または審査の要件は、第六章、[第七章](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)、または編入された文書が明示的に求めるときに生じる。
+拘束力ある信頼可能性、監査、または審査の要件は、第六章、[第七章](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)、または編入された文書が明示的に求めるときに生じる。
 
 
 ---

@@ -53,7 +53,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: [فصل دوم §1 — مقصود و نقش](core_02_definition_structure.md#1-purpose-and-role)؛ [فصل دوم §2 الزام یکپارچگی تعریف](core_02_definition_structure.md#2-definition-integrity-requirement)؛ [فصل سوم §2 — عدم‌انطباق از رفتار مشاهده‌پذیر نظام](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior).
-- پایین‌دست: [فصل چهارم §§1 و 4 — اجرای انحصاری و تخصیص بار؛ استاندارد شاهد انطباق](core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)؛ [فصل هشتم — مدل همیاری، تخلف و ردپا](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)؛ [نمایهٔ یافتهٔ عدم‌انطباق](core_05_band_accountability.md#non-compliance-finding-profile).
+- پایین‌دست: [فصل چهارم §§1 و 4 — اجرای انحصاری و تخصیص بار؛ استاندارد شاهد انطباق](core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)؛ [فصل هشتم — مدل همیاری، تخلف و ردپا](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)؛ [نمایهٔ یافتهٔ عدم‌انطباق](core_05_band_accountability.md#non-compliance-finding-profile).
 - خوانده شود با: [فصل یکم §11.3 کشف ناهم‌راستایی](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection) و [§11.4 اصلاح ناهم‌راستایی و پاسخ تسخیر](core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response) — **ناهم‌راستایی قانون اساسی** واگرایی مدیریت مسئولانه و انگیزه است؛ برچسب جایگزین **عدم‌انطباق** نیست؛ [خطر باقی‌مانده / ناهم‌راستایی](core_05_band_continuity.md#residual-risk--misalignment) — خطر باقی‌ماندهٔ محدود پس از کاهش؛ [گواهی هم‌راستایی نظام](core_05_band_continuity.md#system-alignment-certification-constitutional) — پل گواهی در فصل هفتم، نه رأی عمومی عدم‌انطباق.
 
 </details>
@@ -102,7 +102,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - پایین‌دست: اصول: [دیباچه §3.3 انضباط لایه‌های حکمرانی](core_00_preamble.md#33-governance-layers)؛ [فصل یکم §5 آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency).
-- کف مالک: [فصل دوازدهم: قرارداد قانون اساسی، مشروعیت، مجوز و مدیریت مسئولانه](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)؛ [اصل IX-C: مشارکت حکمرانی و استحقاق رأی](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
+- کف مالک: [فصل دوازدهم: قرارداد قانون اساسی، مشروعیت، مجوز و مدیریت مسئولانه](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)؛ [اصل IX-C: مشارکت حکمرانی و استحقاق رأی](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
 - مؤلفهٔ خوشه: [*لایهٔ قرارداد قانون اساسی و انتخاب بنیادین قانون اساسی*](core_05_band_integrative.md#constitutional-contract-layer)
 - خوانده شود با: [انتخاب بنیادین قانون اساسی](core_05_band_integrative.md#foundational-constitutional-choice)، [انتخاب الزام‌آور طرف‌های اثرپذیر](core_05_band_participation.md#binding-stakeholder-choice-cluster)، [وضعیت و وزن طرف‌های اثرپذیر](core_05_band_participation.md#stakeholder-status-and-weight-cluster)، [حکمرانی](core_05_band_accountability.md#governance).
 - لایه: **لایهٔ قرارداد قانون اساسی (CCL)** — چه کسی می‌تواند حکمرانی کند، با چه سازوکار مشروعیت، زیر چه شروط ماندگار. متمایز از **مشارکت سیستمی طرف‌های اثرپذیر (SSP)**.
@@ -121,16 +121,16 @@
 
     شامل است:
     - [انتخاب بنیادین قانون اساسی](core_05_band_integrative.md#foundational-constitutional-choice)؛
-    - [سازوکارهای مشروعیت مستند](../../core_12_governance.md#1-authorization-and-legitimacy-of-governing-authority) زیر [فصل دوازدهم §1.1](../../core_12_governance.md#11-mechanism-families-auditability-and-pluralism)؛
-    - قواعد [پذیرش](../../core_15_amendment_ratification.md#10-ratification-and-adoption) و [بازمجوز](../../core_12_governance.md#11-mechanism-families-auditability-and-pluralism) ([فصل دوازدهم §1.3](../../core_12_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails)؛ [فصل شانزدهم §4](../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority))؛ و
-    - [کف برابری سیاسی](../../core_12_governance.md#41-entitlement-and-eligibility) برای تشکیل یا بازساختار ماندگار اختیار حکمرانی — حس‌مندان برخوردار از استحقاق در آن لایه صدای برابر دارند ([اصل IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)).
+    - [سازوکارهای مشروعیت مستند](../../core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority) زیر [فصل دوازدهم §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism)؛
+    - قواعد [پذیرش](../../core_16_amendment_ratification.md#10-ratification-and-adoption) و [بازمجوز](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) ([فصل دوازدهم §1.3](../../core_13_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails)؛ [فصل شانزدهم §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority))؛ و
+    - [کف برابری سیاسی](../../core_13_governance.md#41-entitlement-and-eligibility) برای تشکیل یا بازساختار ماندگار اختیار حکمرانی — حس‌مندان برخوردار از استحقاق در آن لایه صدای برابر دارند ([اصل IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)).
   - **بیرون گستره:**
     - مشورت عادی طرف‌های اثرپذیر؛
     - مشارکت عملیاتی؛
     - استفاده از نظام، برندسازی، یا حضور بازار به‌خودی‌خود؛
     - حکمرانی عادی حوزه پس از آنکه ساختارها و فرایندها ازپیش مجاز شده‌اند؛ و
     - [وزن طرف اثرپذیر](core_05_band_participation.md#stakeholder-weight) عادی — دادن صدای بیشتر به کسانی که بیشتر اثر می‌پذیرند — به‌کاررفته برای تثبیت رأی‌های بنیان‌گذاری یا بازمجوز ([دیباچه §3.3 انضباط لایه‌های حکمرانی](core_00_preamble.md#33-governance-layers)).
-  - **خانهٔ عملیاتی:** [فصل دوازدهم](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) قواعد الزام‌آور مجوز، مشروعیت و مدیریت مسئولانهٔ این لایه را بیان می‌کند.
+  - **خانهٔ عملیاتی:** [فصل دوازدهم](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) قواعد الزام‌آور مجوز، مشروعیت و مدیریت مسئولانهٔ این لایه را بیان می‌کند.
   - **کف حقوق:** [اصل IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement) (*مشارکت حکمرانی و استحقاق رأی*) استحقاق مشارکت برابر را بیان می‌کند که آن قواعد فصل دوازدهم نباید تنگ کنند.
 <a id="constitutional-contract-layer-a"></a>
 - **چگونه اندازه بگیریم و ارزیابی کنیم**
@@ -138,7 +138,7 @@
 
     **ارزیابی اولیه:**
     - بپرسید آیا موضوع پرسش لایهٔ قرارداد قانون اساسی است: مجوز دادن به اینکه چه کسی حکمرانی کند، با چه سازوکار مشروعیت، و زیر چه شروط ماندگار. آن کارکرد این لایه را نشان می‌گذارد — نه اینکه نظام چقدر بزرگ، پرصدا، یا پرکاربرد است.
-    - هم‌راستایی قانون اساسی آن قرارداد را بیازمایید: اختیار ادعا‌شده باید با یک [سازوکار مشروعیت مستند](../../core_12_governance.md#1-authorization-and-legitimacy-of-governing-authority)، [کف برابری سیاسی](../../core_12_governance.md#41-entitlement-and-eligibility) جایی که انتخاب بنیادین اعمال می‌شود، و تکالیف مدیریت مسئولانه و کف حقوق که قدرت حکمرانی را زیر این قانون اساسی جواب‌گو نگه می‌دارند جور درآید ([فصل یکم §11.1 الزام هم‌راستایی](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement)).
+    - هم‌راستایی قانون اساسی آن قرارداد را بیازمایید: اختیار ادعا‌شده باید با یک [سازوکار مشروعیت مستند](../../core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority)، [کف برابری سیاسی](../../core_13_governance.md#41-entitlement-and-eligibility) جایی که انتخاب بنیادین اعمال می‌شود، و تکالیف مدیریت مسئولانه و کف حقوق که قدرت حکمرانی را زیر این قانون اساسی جواب‌گو نگه می‌دارند جور درآید ([فصل یکم §11.1 الزام هم‌راستایی](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement)).
     - [دیباچه §3.3 انضباط لایه‌های حکمرانی](core_00_preamble.md#33-governance-layers) را اعمال کنید: مجوز بنیان‌گذاری را از مشارکت عادی طرف‌های اثرپذیر درون نظام‌های ازپیش‌مجاز جدا نگه دارید.
     - سکوت، صرف استفاده از یک نظام، حضور بازار، یا برندسازی را قرارداد قانون اساسی یا رضایت به حکمرانی‌شدن ندانید.
 <a id="constitutional-contract-layer-c"></a>
@@ -158,7 +158,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - پایین‌دست: اصول: [فصل یکم §5 آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency)؛ [6. حل تعارض فرایند](#6-process-conflict-resolution).
-- کف مالک: [فصل دوازدهم فصل یکم §4.1](../../core_12_governance.md#41-entitlement-and-eligibility) (*کف برابری سیاسی برای انتخاب بنیادین قانون اساسی*؛ *کف صدای سیاسی ماندگار*)؛ [اصل IX-C: مشارکت حکمرانی و استحقاق رأی](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
+- کف مالک: [فصل دوازدهم فصل یکم §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*کف برابری سیاسی برای انتخاب بنیادین قانون اساسی*؛ *کف صدای سیاسی ماندگار*)؛ [اصل IX-C: مشارکت حکمرانی و استحقاق رأی](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
 - مؤلفهٔ خوشه: [*لایهٔ قرارداد قانون اساسی و انتخاب بنیادین قانون اساسی*](core_05_band_integrative.md#constitutional-contract-layer)
 - خوانده شود با: [لایهٔ قرارداد قانون اساسی](core_05_band_integrative.md#constitutional-contract-layer)، [حدهای نمایندگی و وزن طرف‌های اثرپذیر (انتخاب الزام‌آور طرف‌های اثرپذیر)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice)، [انتخاب الزام‌آور طرف‌های اثرپذیر](core_05_band_participation.md#binding-stakeholder-choice-cluster)، [انصاف رویه‌ای](core_05_band_participation.md#procedural-fairness-constitutional).
 - لایه: **لایهٔ قرارداد قانون اساسی (CCL)**. متمایز از **مشارکت سیستمی طرف‌های اثرپذیر (SSP)** درون نظام‌های ازپیش‌مجاز.
@@ -176,7 +176,7 @@
     - گستره و شروط ماندگار آن اختیار.
 
     این به [لایهٔ قرارداد قانون اساسی](core_05_band_integrative.md#constitutional-contract-layer) تعلق دارد.
-    - مالک: [فصل دوازدهم فصل یکم §4.1](../../core_12_governance.md#41-entitlement-and-eligibility).
+    - مالک: [فصل دوازدهم فصل یکم §4.1](../../core_13_governance.md#41-entitlement-and-eligibility).
     - اشاره‌گر لایهٔ حقوق: [اصل IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement) (*مشارکت حکمرانی و استحقاق رأی*).
     - اعمال می‌شود زیر [منع طرد حس‌مندی](core_05_band_participation.md#sentience-non-exclusion).
   - **بیرون گستره:**
@@ -323,7 +323,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- پایین‌دست: خانوادهٔ اندازه‌گیری پاسخگویی (*هم‌راستایی انگیزه و یکپارچگی شاخص جانشین به‌عنوان اندازه‌گیری قانون اساسی*)؛ اصول: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) (انضباط تسخیر چهارگانه زیر [§10](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)؛ مقیاس [منافع مادی](core_00_preamble.md#material-stake))؛ [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) و [§10 حکمرانی زیر انضباط مدیریت مسئولانه](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- پایین‌دست: خانوادهٔ اندازه‌گیری پاسخگویی (*هم‌راستایی انگیزه و یکپارچگی شاخص جانشین به‌عنوان اندازه‌گیری قانون اساسی*)؛ اصول: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) (انضباط تسخیر چهارگانه زیر [§10](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)؛ مقیاس [منافع مادی](core_00_preamble.md#material-stake))؛ [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) و [§10 حکمرانی زیر انضباط مدیریت مسئولانه](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - قاعدهٔ لایهٔ اصول: [فصل یکم §11.1 الزام هم‌راستایی](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement) و [فصل یکم §11.2 شاخص‌های جانشین راحت و واگرایی شاخص جانشین](core_01_c_stewardship_capacity_principles.md#112-convenient-proxies-and-proxy-divergence)؛ اعمال مدیریت مسئولانه و اپراتور: [فصل یکم §11.1.3 اعمال مدیریت مسئولانه و اپراتور](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) و [§11.1.4 مسیرهای عمق نقش و مسئولیت مادی](core_01_c_stewardship_capacity_principles.md#1114-role-depth-and-material-responsibility-pathways).
 - کشف ناهم‌راستایی: [فصل یکم §11.3 کشف ناهم‌راستایی](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection).
 - اصلاح فعال و تشدید تسخیر: [فصل یکم §11.4 اصلاح ناهم‌راستایی و پاسخ تسخیر](core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response).
@@ -576,7 +576,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - پایین‌دست: اصول: [15. اعمال یکپارچه](core_01_c_stewardship_capacity_principles.md#15-integrated-application) (پیکره خوانده‌شده به‌عنوان کل یکپارچه)؛ [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — پای **نظارت**؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — هدف **پیوستگی** زیر ادغام و نگهداری؛ [2. تفسیر قانون اساسی](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) (شناسایی منبع الزام‌آور).
-- پایین‌دست: [فصل شانزدهم — پل ادغام](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*کدام **متن اجرا**ی پذیرفته‌شده الزام‌آور است، قفل ویرایش، زنجیرهٔ نگهداری، و انضباط منع ناهم‌راستایی خاموش*).
+- پایین‌دست: [فصل شانزدهم — پل ادغام](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*کدام **متن اجرا**ی پذیرفته‌شده الزام‌آور است، قفل ویرایش، زنجیرهٔ نگهداری، و انضباط منع ناهم‌راستایی خاموش*).
 - خوانده شود با: [پشتهٔ اختیار و سلسله‌مراتب درونی](core_05_band_integrative.md#authority-stack) و [قید قانون اساسی](core_05_band_integrative.md#constitutional-constraint).
 - خوانده شود با: [دیباچه — فهرست مثبت مالکان](core_00_preamble.md#4-principles-definitions-and-rights) (*نقشهٔ مثبت حوزه→مالک*، بخش‌های 4–7).
 
@@ -620,8 +620,8 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - پایین‌دست: اصول: [2. تفسیر قانون اساسی](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)؛ [15. اعمال یکپارچه](core_01_c_stewardship_capacity_principles.md#15-integrated-application) (پشتهٔ اختیار در برابر سلسله‌مراتب درونی خوانده‌شده با فصل یکم).
-- پایین‌دست: [فصل یکم — §8 تفسیر قانون اساسی](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) (خواندن یکپارچه و سلسله‌مراتب آخرین پناه)؛ [فصل یکم §8.4 حل تعارض معنای قانون اساسی](core_01_b_interaction_interpretation.md#84-constitutional-meaning-conflict-resolution) (*یک رویهٔ تعارض، از جمله لایهٔ ادغام*)؛ [فصل چهاردهم — سلسله‌مراتب درونی برای پذیرندگان](../../core_14_expansion_supremacy.md#31-internal-hierarchy-for-adopters)؛ [فصل شانزدهم](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*پل ادغام — نگهداری، ویرایش‌ها، پذیرش؛ پشتهٔ دوم یا خانهٔ ترتیب تعارض نیست*).
-- پایین‌دست: [فصل ششم — گسترهٔ لایه](../../core_06_rights_part_a.md#12-layer-scope)؛ [فصل سیزدهم §4 گسترهٔ لایه](../../core_13_non_regression.md#4-layer-scope) و [فصل پانزدهم §12 گسترهٔ لایه](../../core_15_amendment_ratification.md#12-layer-scope) (*عدم‌جابه‌جایی مالک اعمال‌شده محلی*)؛ بیان‌های گشایش مالک در سراسر سند شماره‌دار `core_*`.
+- پایین‌دست: [فصل یکم — §8 تفسیر قانون اساسی](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) (خواندن یکپارچه و سلسله‌مراتب آخرین پناه)؛ [فصل یکم §8.4 حل تعارض معنای قانون اساسی](core_01_b_interaction_interpretation.md#84-constitutional-meaning-conflict-resolution) (*یک رویهٔ تعارض، از جمله لایهٔ ادغام*)؛ [فصل چهاردهم — سلسله‌مراتب درونی برای پذیرندگان](../../core_15_expansion_supremacy.md#31-internal-hierarchy-for-adopters)؛ [فصل شانزدهم](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*پل ادغام — نگهداری، ویرایش‌ها، پذیرش؛ پشتهٔ دوم یا خانهٔ ترتیب تعارض نیست*).
+- پایین‌دست: [فصل ششم — گسترهٔ لایه](../../core_06_rights_part_a.md#12-layer-scope)؛ [فصل سیزدهم §4 گسترهٔ لایه](../../core_14_non_regression.md#4-layer-scope) و [فصل پانزدهم §12 گسترهٔ لایه](../../core_16_amendment_ratification.md#12-layer-scope) (*عدم‌جابه‌جایی مالک اعمال‌شده محلی*)؛ بیان‌های گشایش مالک در سراسر سند شماره‌دار `core_*`.
 - خوانده شود با: [پیکره](core_05_band_integrative.md#corpus)؛ [دیباچه — فهرست مثبت مالکان](core_00_preamble.md#4-principles-definitions-and-rights) (*نقشهٔ مثبت حوزه→مالک*، بخش‌های 4–7)؛ [قابلیت حسابرسی](core_05_band_oversight.md#auditability) و [قابلیت اعتراض](core_05_band_accountability.md#contestability) (*قابلیت اجرای عملی ادعاهای الزام‌آور*)؛ [دیباچه §3.3](core_00_preamble.md#33-governance-layers) و [لایهٔ قرارداد قانون اساسی](core_05_band_integrative.md#constitutional-contract-layer) (*ضذجایگزینی لایهٔ حکمرانی*)؛ [قید قانون اساسی](core_05_band_integrative.md#constitutional-constraint)؛ **CJS-0.1** (*مسیرگذار موضوع پیاده‌سازی*).
 
 </details>
@@ -633,7 +633,7 @@
 - **چیست**
   - **در گستره:** قاعدهٔ جفتی که نخست تصمیم می‌گیرد کدام گونه منبع سخن می‌گوید، و آیا الزام می‌آورد، در سراسر [پیکره](core_05_band_integrative.md#corpus) عملیاتی — و فقط آن‌گاه، اگر تعارض واقعی درون قانون اساسی الزام‌آور بماند، چگونه حلش کند. لایه‌های منبع شامل‌اند:
     - **منابع الزام‌آور قانون اساسی** — [دیباچه](core_00_preamble.md)، [فصل یکم](core_01_a_values_principles.md)، و فصل‌های شماره‌دار دیگر این قانون اساسی، خوانده‌شده با هم به‌عنوان یک سند؛
-    - **منابع اجرای ادغام‌شدهٔ الزام‌آور** — تعهدهای تعیین‌شده در متن اجرای پذیرفته‌شده، درون گسترهٔ پذیرش و ادغام معتبر زیر [فصل پانزدهم](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) و [فصل شانزدهم](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)؛ و
+    - **منابع اجرای ادغام‌شدهٔ الزام‌آور** — تعهدهای تعیین‌شده در متن اجرای پذیرفته‌شده، درون گسترهٔ پذیرش و ادغام معتبر زیر [فصل پانزدهم](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) و [فصل شانزدهم](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)؛ و
     - **منابع پشتیبان فرایند و نقشه** — نقشه‌های معماری، فهرست‌های کار، و سوابق رگرسیون یا شاهد (از جمله [doc_architecture.md](../../doc_architecture.md))، مگر سند پذیرش معتبر صریحاً آن‌ها را به‌عنوان الزام‌آور ادغام کند.
 
     **پشتهٔ اختیار:** چارچوب مرتب منبع‌اختیار که بر تفسیر قانون اساسی، اثر پذیرش، و وضعیت لایه در سراسر لایه‌های قانون اساسی، ادغام‌شده، و پشتیبان حاکم است.
@@ -667,13 +667,13 @@
     <a id="supremacy-and-enforceability"></a>
     <a id="supremacy-and-enforceability-a"></a>
     <a id="supremacy-and-enforceability-c"></a>
-    - **برتری:** تعهدهای الزام‌آور پیکره درون گسترهٔ معتبر منبع، پذیرش، و لایهٔ حکمرانی‌شان چیره‌اند. آن اثر برتری پیامد اعمال این مدخل است همراه با [پیکره](core_05_band_integrative.md#corpus) عملیاتی و سند پذیرش یا ادغام اعمال‌شدنی — از جمله برتری [فصل چهاردهم](../../core_14_expansion_supremacy.md#3-supremacy-relative-to-other-binding-norms) نسبت به هنجارهای دیگر و عدم‌جابه‌جایی [فصل چهاردهم §5](../../core_14_expansion_supremacy.md#5-relation-to-applicable-external-law) قانون بیرونی اعمال‌شدنی. پیاده‌سازی، متن پشتیبان، نظم خصوصی، قاب‌بندی اضطرار، یا رویهٔ عملیاتی نباید آن تعهدهای الزام‌آور را درون گسترهٔ معتبرشان تنگ کنند.
+    - **برتری:** تعهدهای الزام‌آور پیکره درون گسترهٔ معتبر منبع، پذیرش، و لایهٔ حکمرانی‌شان چیره‌اند. آن اثر برتری پیامد اعمال این مدخل است همراه با [پیکره](core_05_band_integrative.md#corpus) عملیاتی و سند پذیرش یا ادغام اعمال‌شدنی — از جمله برتری [فصل چهاردهم](../../core_15_expansion_supremacy.md#3-supremacy-relative-to-other-binding-norms) نسبت به هنجارهای دیگر و عدم‌جابه‌جایی [فصل چهاردهم §5](../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law) قانون بیرونی اعمال‌شدنی. پیاده‌سازی، متن پشتیبان، نظم خصوصی، قاب‌بندی اضطرار، یا رویهٔ عملیاتی نباید آن تعهدهای الزام‌آور را درون گسترهٔ معتبرشان تنگ کنند.
 
     قابلیت اجرای عملی ادعاهای الزام‌آور — انطباق مشاهده‌پذیر و قابل‌اعتراض به‌جای وعده‌های کاغذی — زیر [قابلیت حسابرسی](core_05_band_oversight.md#auditability) و [قابلیت اعتراض](core_05_band_accountability.md#contestability) ارزیابی می‌شود. ضدجایگزینی لایهٔ حکمرانی (قرارداد قانون اساسی در برابر مشارکت سیستمی طرف‌های اثرپذیر) زیر [دیباچه §3.3](core_00_preamble.md#33-governance-layers) و [لایهٔ قرارداد قانون اساسی](core_05_band_integrative.md#constitutional-contract-layer) زندگی می‌کند.
 
-    برای پذیرندگان، [سلسله‌مراتب درونی برای پذیرندگان](../../core_14_expansion_supremacy.md#31-internal-hierarchy-for-adopters) در **فصل چهاردهم** همین قاعدهٔ جفت را در خط میان قانون اساسی الزام‌آور و متن اجرای پذیرفته‌شده اعمال می‌کند:
+    برای پذیرندگان، [سلسله‌مراتب درونی برای پذیرندگان](../../core_15_expansion_supremacy.md#31-internal-hierarchy-for-adopters) در **فصل چهاردهم** همین قاعدهٔ جفت را در خط میان قانون اساسی الزام‌آور و متن اجرای پذیرفته‌شده اعمال می‌کند:
     - این قانون اساسی و تعریف‌های یکپارچه‌اش کنترل می‌کنند متن چگونه خوانده شود و چه چیزی انطباق بشمرد؛ و
-    - متن اجرای پذیرفته‌شده فقط درون گستره‌ای که واقعاً پذیرفته شد اعمال می‌شود، و نمی‌تواند [عدم‌عقب‌گرد فصل سیزدهم](../../core_13_non_regression.md) یا اثر برتری بیان‌شده در این مدخل را پس بگیرد.
+    - متن اجرای پذیرفته‌شده فقط درون گستره‌ای که واقعاً پذیرفته شد اعمال می‌شود، و نمی‌تواند [عدم‌عقب‌گرد فصل سیزدهم](../../core_14_non_regression.md) یا اثر برتری بیان‌شده در این مدخل را پس بگیرد.
   - **بیرون گستره:** شرح سند پشتیبان، نقشه‌ها، فهرست‌های کار، یا برندسازی پذیرش به‌خودی‌خود — آن‌ها لایه‌های پشتهٔ اختیار نیستند؛ راهنمایی اختیاری که به‌عنوان بازآرایی تقدم منبع یا جابه‌جایی تعهدهای الزام‌آور عرضه نشده است.
 <a id="authority-stack-a"></a>
 - **چگونه اندازه بگیریم و ارزیابی کنیم**
@@ -703,12 +703,12 @@
     - به‌کارگیری زبان آرمانی یا رویهٔ محلی برای جابه‌جایی تعهدهای الزام‌آور پیکره درون گسترهٔ معتبر منبع و لایهٔ حکمرانی‌شان؛
     - بازبیان ماهوی تعهدهای یک لایهٔ مالک درون لایهٔ مالک دیگر، از جمله بالا بردن نثر راهنمای خواننده به اثر عملیاتی؛
     - برخورد با زبان محرک، ارجاع، یا تشدید در فصل‌های اعتبار یا حکمرانی به‌عنوان قانون نهایی طبقه‌بندی یا کیفر جایی که لایهٔ مالک آن اختیار را برای فصل‌های هشتم تا دهم نگه می‌دارد؛
-    - به‌کارگیری قاب‌بندی فرایند، حکمرانی، یا پیاده‌سازی برای تنگ، بازتعریف، یا جابه‌جایی کف‌های حقوق [فصل ششم](../../core_06_rights_part_a.md#chapter-six-foundational-rights) خلاف عدم‌عقب‌گرد [فصل سیزدهم](../../core_13_non_regression.md) و قرارداد گشایش فصل ششم؛
+    - به‌کارگیری قاب‌بندی فرایند، حکمرانی، یا پیاده‌سازی برای تنگ، بازتعریف، یا جابه‌جایی کف‌های حقوق [فصل ششم](../../core_06_rights_part_a.md#chapter-six-foundational-rights) خلاف عدم‌عقب‌گرد [فصل سیزدهم](../../core_14_non_regression.md) و قرارداد گشایش فصل ششم؛
     - اختراع رده‌بندی‌ها یا گردش‌کارهای موازی در لایه‌های غیرمالک وقتی [فهرست مالکان دیباچه](core_00_preamble.md#4-principles-definitions-and-rights) ازپیش خانهٔ معیار تخصیص داده است؛
     - ادعای برتری یا انطباق چنان که سلسله‌مراتب منبع تثبیت‌شده را وارونه کند، یا بگذارد پیاده‌سازی، متن پشتیبان، نظم خصوصی، قاب‌بندی اضطرار، یا رویهٔ عملیاتی تعهدهای الزام‌آور پیکره را درون گسترهٔ معتبرشان جابه‌جا کند؛
     - به‌کارگیری سلسله‌مراتب درونی به‌عنوان میان‌بر برای برگزیدن خوانش سخت‌تر، برای کوچک کردن حمایت‌های کف حقوق [فصل ششم](../../core_06_rights_part_a.md#chapter-six-foundational-rights) بیرون آنچه [فصل یکم](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) صریحاً اجازه می‌دهد، یا برای عوض کردن یک لایهٔ منبع با دیگری در خواندن عادی؛
     - برخورد با تعریف‌های فصل پنجم به‌عنوان پیکرهٔ رقیب قانون که اصول یا اصل‌ها را کنار بزند ([فصل یکم — §8 تفسیر قانون اساسی](core_01_b_interaction_interpretation.md#8-constitutional-interpretation))؛ یا
-    - برای پذیرندگان، برخورد با متن اجرای پذیرفته‌شده به‌عنوان چیره‌شونده بر این قانون اساسی درون گسترهٔ پذیرش، یا به‌عنوان سست‌کنندهٔ کف‌های عدم‌عقب‌گرد [فصل سیزدهم](../../core_13_non_regression.md) ([سلسله‌مراتب درونی برای پذیرندگان](../../core_14_expansion_supremacy.md#31-internal-hierarchy-for-adopters) در **فصل چهاردهم**).
+    - برای پذیرندگان، برخورد با متن اجرای پذیرفته‌شده به‌عنوان چیره‌شونده بر این قانون اساسی درون گسترهٔ پذیرش، یا به‌عنوان سست‌کنندهٔ کف‌های عدم‌عقب‌گرد [فصل سیزدهم](../../core_14_non_regression.md) ([سلسله‌مراتب درونی برای پذیرندگان](../../core_15_expansion_supremacy.md#31-internal-hierarchy-for-adopters) در **فصل چهاردهم**).
 
 ---
 

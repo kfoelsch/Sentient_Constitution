@@ -10,7 +10,7 @@
 - **Prior announced-pack file (optional):** none / `evaluation/results/YYYY-MM-DD_<name>.md`
 - **Evaluator notes (optional, human):**
 
-**This file is not** Chapter Fifteen adoption, Chapter Sixteen incorporation, a Chapter Eight standing record, or Chapter Seven certification. It does not bind other parties. It does not add, remove, or narrow duties.
+**This file is not** Chapter Sixteen adoption, Chapter Seventeen incorporation, a Chapter Nine standing record, or Chapter Eight certification. It does not bind other parties. It does not add, remove, or narrow duties.
 
 ---
 

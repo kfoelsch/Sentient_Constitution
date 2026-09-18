@@ -6,15 +6,15 @@
 
 > 以下の内容は**読者向け案内にすぎない**。本ファイルまたは他の章にある拘束力のある義務を加え、除き、または狭めない。
 >
-> 本ファイルは[英語第十二章](../../core_12_governance.md)の**読者言語パイロット**である。**感知者憲法の拘束力ある部分ではない**。**第二の憲法ではない**。**配布版ではない**。`SC-Corpus-2026.08.09` に**固定**されている。本訳文と英語原文が食い違って見える場合、番号付きファイル [`core_12_governance.md`](../../core_12_governance.md) が勝つ。読み順と版のメタデータは [README.md](../../README.md) に保たれる。方法と用語表：[translations/ja/README.md](README.md)。
+> 本ファイルは[英語第十二章](../../core_13_governance.md)の**読者言語パイロット**である。**感知者憲法の拘束力ある部分ではない**。**第二の憲法ではない**。**配布版ではない**。`SC-Corpus-2026.08.09` に**固定**されている。本訳文と英語原文が食い違って見える場合、番号付きファイル [`core_12_governance.md`](../../core_13_governance.md) が勝つ。読み順と版のメタデータは [README.md](../../README.md) に保たれる。方法と用語表：[translations/ja/README.md](README.md)。
 >
-> **第十二章**を含む — **憲法契約層**。統治権限そのものについての憲法上の正当性と責務ある管理の要件であり、すでに授権されたシステムにおける**影響を受ける側のシステム参加**とは区別される（[前文](core_00_preamble.md#chapter-00-preamble--foundational-requirements)）。改正と採択の有効性の制御は [第十三章から第十五章](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) に続く。章番号と相互参照は統合された文書と一致する。
+> **第十二章**を含む — **憲法契約層**。統治権限そのものについての憲法上の正当性と責務ある管理の要件であり、すでに授権されたシステムにおける**影響を受ける側のシステム参加**とは区別される（[前文](core_00_preamble.md#chapter-00-preamble--foundational-requirements)）。改正と採択の有効性の制御は [第十三章から第十五章](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) に続く。章番号と相互参照は統合された文書と一致する。
 
 
 >
 > **前（本言語）：** [core_11_forum.md](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
 >
-> **次（なお英語）：** [core_13_non_regression.md](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)
+> **次（なお英語）：** [core_13_non_regression.md](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)
 > **読みの弧：** §0 層の境界 → §1 授権／正当性 → §1.1 仕組みの家族 → §1.2 適格／民主的な最低限 → §1.3 リコール級 → §2 誠実性の文化 → §3 責務ある管理の方向 → §4 投票／集合的選択 → §5 授権された役割
 </details>
 
@@ -65,7 +65,7 @@
 
 - 上流：原則：[第一章 §5 自由](core_01_a_values_principles.md#5-freedom-bounded-agency)、[§9 責務ある管理と分散した理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)、[5. 過程衝突の解決](#6-process-conflict-resolution)；[第十二章 §0](#0-layer-boundary-for-this-chapter)。
 - 下位節：[§1.1](#11-mechanism-families-auditability-and-pluralism)（《仕組みの家族、監査可能性、多元主義》）；[§1.2](#12-eligibility-contested-selection-and-democratic-minimums)（《適格、争われる選出、民主的な最低限》）；[§1.3](#13-recall-class-pathways-and-mid-cycle-transfer-guardrails)（《リコール級の指名された経路と期中移転のガードレール》）。
-- 下流：[§§ 2–5](#2-ethical-culture-and-integrity-federated-scale) のもとでの誠実性、戦略、投票、および役割の義務；[第十五章](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) のもとでの採択と批准；第六章における正当性、参加、争訟可能性 — とくに [Article XI-C：正当性の門とトークン参加の防止](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation)、[Article XVIII：軌跡と参加の地位](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)、および下の操作性の箇条書きで鍵づけられた表現、集会、手続的公正の条。
+- 下流：[§§ 2–5](#2-ethical-culture-and-integrity-federated-scale) のもとでの誠実性、戦略、投票、および役割の義務；[第十五章](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) のもとでの採択と批准；第六章における正当性、参加、争訟可能性 — とくに [Article XI-C：正当性の門とトークン参加の防止](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation)、[Article XVIII：軌跡と参加の地位](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)、および下の操作性の箇条書きで鍵づけられた表現、集会、手続的公正の条。
 - あわせて読む：本節で名指された指名された **コーパス** および **[corpus_systems.md](../../corpus_systems.md)** のフック（[corpus_systems.md](../../corpus_systems.md)、[corpus_institutions.md](../../corpus_institutions.md)）。
 
 </details>
@@ -303,7 +303,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[§1](#1-authorization-and-legitimacy-of-governing-authority) の文書化された正当性の仕組み；[§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate) 集合的決定についての責務ある管理の整合。
-- 下流：下位節 [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice)；本節末の**相互参照（第十二章）**の注で要約される [第十三章から第十五章](../../core_13_non_regression.md) における採択、至上、非後退の文書。
+- 下流：下位節 [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice)；本節末の**相互参照（第十二章）**の注で要約される [第十三章から第十五章](../../core_14_non_regression.md) における採択、至上、非後退の文書。
 - あわせて読む：[第六章](core_06_rights_part_a.md#chapter-six-foundational-rights)、とくに [Article XI：影響を受ける側のシステム参加、代表、適正手続](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) および §4 で引用される関連する下位条。
 
 </details>
@@ -480,6 +480,6 @@
 
 **前のファイル（本言語）：** [core_11_forum.md](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
 
-**次のファイル（なお英語）：** [core_13_non_regression.md](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)
+**次のファイル（なお英語）：** [core_13_non_regression.md](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)
 
-**拘束力ある原文：** [core_12_governance.md](../../core_12_governance.md)
+**拘束力ある原文：** [core_12_governance.md](../../core_13_governance.md)

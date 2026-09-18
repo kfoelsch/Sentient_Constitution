@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://constitution.sentient/schemas/ch06_assessment.schema.json",
   "title": "ch06_assessment",
-  "description": "Logical Chapter Eight measurement snapshot; semantic meaning and obligations are in core_08_standing_assessment.md and core_09_standing_integration.md. Snapshots that drive standing effect must reflect verified standing inputs only (demonstrable Contribution Axis; verified violation findings for the Violation Axis per Chapter Eight Verified inputs for standing and Chapter Five Violation Nature); allegations and forum-phase material are not standing inputs. Chapter Nine recency/currentness is a Question 3 gate/readiness input only and must not alter this snapshot's Contribution Axis slot or LEQU measurement. Chapter Nine decides violation locks before contribution gates. Cross-field and decision-order rules may require validators beyond this schema or custom assertions.",
+  "description": "Logical Chapter Nine measurement snapshot; semantic meaning and obligations are in core_09_standing_assessment.md and core_10_standing_integration.md. Snapshots that drive standing effect must reflect verified standing inputs only (demonstrable Contribution Axis; verified violation findings for the Violation Axis per Chapter Nine Verified inputs for standing and Chapter Five Violation Nature); allegations and forum-phase material are not standing inputs. Chapter Ten recency/currentness is a Question 3 gate/readiness input only and must not alter this snapshot's Contribution Axis slot or LEQU measurement. Chapter Ten decides violation locks before contribution gates. Cross-field and decision-order rules may require validators beyond this schema or custom assertions.",
   "type": "object",
   "additionalProperties": false,
   "required": [
@@ -63,7 +63,7 @@
       }
     },
     "axis_two": {
-      "description": "Omit or null only when the record asserts no adverse Chapter Eight violation typing for the declared scope.",
+      "description": "Omit or null only when the record asserts no adverse Chapter Nine violation typing for the declared scope.",
       "oneOf": [
         {
           "type": "null"
@@ -106,18 +106,18 @@
         }
       }
     },
-    "chapter_seven": {
+    "chapter_eight": {
       "type": "object",
       "additionalProperties": false,
-      "description": "Legacy property name for optional Chapter Ten designation data. Chapter Eight supplies the fixed impact slot; Chapter Ten may attach the corresponding anti-constitutional-misconduct designation without changing it.",
+      "description": "Legacy property name for optional Chapter Eleven designation data. Chapter Nine supplies the fixed impact slot; Chapter Eleven may attach the corresponding anti-constitutional-misconduct designation without changing it.",
       "properties": {
         "slot": {
           "$ref": "#/$defs/chapterSevenSlot",
-          "description": "Existing Chapter Eight impact slot to which the Chapter Ten designation attaches; Chapter Ten does not assign this number."
+          "description": "Existing Chapter Nine impact slot to which the Chapter Eleven designation attaches; Chapter Eleven does not assign this number."
         },
         "label": {
           "$ref": "#/$defs/chapterSevenLabel",
-          "description": "Canonical Chapter Ten anti-constitutional-misconduct designation."
+          "description": "Canonical Chapter Eleven anti-constitutional-misconduct designation."
         },
         "tier": {
           "$ref": "#/$defs/chapterSevenTier",
@@ -133,7 +133,7 @@
     "nine_slot": {
       "type": "object",
       "additionalProperties": false,
-      "description": "Optional numeric layer for the unified Chapter Eight proportional LEQU scale: nine shared 5x impact bands on each separate axis, anchored at s=7 = 1 LEQU. Conduct character, Chapter Nine recency/currentness, and Chapter Ten designation do not change the slot. Contribution also requires its constitutional-alignment conditions. No netting is permitted.",
+      "description": "Optional numeric layer for the unified Chapter Nine proportional LEQU scale: nine shared 5x impact bands on each separate axis, anchored at s=7 = 1 LEQU. Conduct character, Chapter Ten recency/currentness, and Chapter Eleven designation do not change the slot. Contribution also requires its constitutional-alignment conditions. No netting is permitted.",
       "properties": {
         "c_unit": {
           "type": "number",
@@ -143,11 +143,11 @@
         "c_star_cumulative": {
           "type": "number",
           "minimum": 0,
-          "description": "Legacy interoperability field. Historical records may contain a recency-weighted contribution sum, but this value must not derive, raise, or lower a Chapter Eight Contribution Axis slot or LEQU measurement; Chapter Nine recency/currentness is for Question 3 gate/readiness decisions only."
+          "description": "Legacy interoperability field. Historical records may contain a recency-weighted contribution sum, but this value must not derive, raise, or lower a Chapter Nine Contribution Axis slot or LEQU measurement; Chapter Ten recency/currentness is for Question 3 gate/readiness decisions only."
         },
         "contribution_slot": {
           "$ref": "#/$defs/nineSlotIndex",
-          "description": "Contribution impact slot under the shared Chapter Eight LEQU bands after applicable contribution conditions are satisfied; must not be derived from Chapter Nine recency/currentness or a legacy recency-weighted c_star_cumulative value."
+          "description": "Contribution impact slot under the shared Chapter Nine LEQU bands after applicable contribution conditions are satisfied; must not be derived from Chapter Ten recency/currentness or a legacy recency-weighted c_star_cumulative value."
         },
         "violation_lequ_loss": {
           "type": "number",
@@ -156,7 +156,7 @@
         },
         "violation_slot": {
           "$ref": "#/$defs/nineSlotIndex",
-          "description": "Violation impact slot assigned from violation_lequ_loss under the shared Chapter Eight bands."
+          "description": "Violation impact slot assigned from violation_lequ_loss under the shared Chapter Nine bands."
         },
         "highest_finding_slot": {
           "$ref": "#/$defs/nineSlotIndex",

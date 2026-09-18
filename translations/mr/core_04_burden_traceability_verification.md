@@ -24,7 +24,7 @@
 > - **चतुष्क नकाशा:** भार वाटप, पुरावा, माग-काढता येणे, प्रेक्षणीयता आणि सत्यापन [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) चे **देखरेख** आणि **उत्तरदायित्व** पाया [प्रस्तावना](core_00_preamble.md#chapter-00-preamble--foundational-requirements) मध्ये स्थापन केलेले अंमलात आणतात; **सहभाग** जिथे भौतिक रीतीने हवा तिथे विभाग **3** आणि **4** खाली व्यावहारिक प्रेक्षणीयता आणि स्वतंत्र आव्हानाद्वारे. अपेक्षा [भौतिक दाव](core_00_preamble.md#material-stake) नुसार प्रमाणित होतात.
 > - **संवैधानिक मालक:** भार वाटप, अनुपालन-पुरावा, व्याख्या माग-काढता येणे, प्रेक्षणीयता, आणि सुरक्षा-बंधित सत्यापन. **अध्याय आठ** प्रस्थिति-अभिलेख आणि सत्यापित-इनपुट शिस्त या अध्यायासोबत वाचून मालकीने धरतो.
 > - **अंमलबजावणी मालक:** नामित अंमलबजावणी फाइलांतील तैनाती, डेटा-हाताळणी आणि आश्वासन यांत्रिकी या नियमांशी सुसंगत राहिल्या पाहिजेत आणि संग्रह आधीच कठोर-नियम तर्क देतो तिथे अधिक कठोर असू शकतात.
-> - **न-पुनर्स्थापन नियम:** हा अध्याय फक्त भार, माग, प्रेक्षणीयता, सुरक्षा मर्यादा आणि पुरावा शासित करतो. तो अध्याय पाच व्याख्या, **अध्याय आठ** योगदान किंवा प्रस्थिति मापन, किंवा अध्याय दहा संविधान-विरोधी-दुराचरण निकषांची पुनर्उक्ती करत नाही. सत्यापित अनुपालन-भंगाचे प्रस्थितीकडे मार्गनिर्देशन [अध्याय तीन §3 — अनुपालन-भंग निष्कर्ष प्रोफाइल](core_03_definition_integrity.md#3-non-compliance-finding-profiles) आणि [अध्याय आठ — योगदान, उल्लंघन आणि प्रस्थिति नमुना](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) द्वारे शासित आहे. **विभाग 6** सांगतो की अध्याय दोन ते चार [अध्याय सात — प्रणाली-संरेखन प्रमाणन](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) पासून कसे वेगळे आहेत.
+> - **न-पुनर्स्थापन नियम:** हा अध्याय फक्त भार, माग, प्रेक्षणीयता, सुरक्षा मर्यादा आणि पुरावा शासित करतो. तो अध्याय पाच व्याख्या, **अध्याय आठ** योगदान किंवा प्रस्थिति मापन, किंवा अध्याय दहा संविधान-विरोधी-दुराचरण निकषांची पुनर्उक्ती करत नाही. सत्यापित अनुपालन-भंगाचे प्रस्थितीकडे मार्गनिर्देशन [अध्याय तीन §3 — अनुपालन-भंग निष्कर्ष प्रोफाइल](core_03_definition_integrity.md#3-non-compliance-finding-profiles) आणि [अध्याय आठ — योगदान, उल्लंघन आणि प्रस्थिति नमुना](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) द्वारे शासित आहे. **विभाग 6** सांगतो की अध्याय दोन ते चार [अध्याय सात — प्रणाली-संरेखन प्रमाणन](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) पासून कसे वेगळे आहेत.
 
 </details>
 
@@ -161,7 +161,7 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - वरून: [अध्याय चार, विभाग 1 ते 4](#1-exclusive-enforcement-and-burden-allocation); [अध्याय दोन, §1 — उद्दिष्ट आणि भूमिका](core_02_definition_structure.md#1-purpose-and-role); [अध्याय दोन, §2 व्याख्या-सचोटी अपेक्षा](core_02_definition_structure.md#2-definition-integrity-requirement); [अध्याय दोन, §3 व्याख्या ढेरात सुसंगतता](core_02_definition_structure.md#3-consistency-across-the-definition-stack); [अध्याय तीन, विभाग 1 — व्याख्या सचोटी आणि टाळाटाळ-निरोध बंधने](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [अध्याय तीन, विभाग 2 — प्रेक्षणीय प्रणाली वर्तनातून अनुपालन-भंग](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior); [अध्याय तीन, §2.6 अनिश्चितता सचोटी आणि शोषण-निरोध बंधन](core_03_definition_integrity.md#26-uncertainty-integrity-and-non-exploitation-constraint) — तत्त्वनिष्ठ व्याख्या आणि अनुपालन-भंग नियम; **§4** फक्त पुरावा-थर अपेक्षा सांगतो आणि त्या नियमांची पुनर्उक्ती करत नाही.
-- पुढे: [अध्याय आठ — योगदान, उल्लंघन आणि प्रस्थिति नमुना](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
+- पुढे: [अध्याय आठ — योगदान, उल्लंघन आणि प्रस्थिति नमुना](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
 - सोबत वाचा: [अध्याय चार, विभाग 2 — व्याख्या माग-काढता येणे अपेक्षा](#2-definition-traceability-requirement) — कोणतीही भौतिक रीतीने हवी **अध्याय पाच** व्याख्या हाक न मारणे किंवा बरोबर लागू न करणे संबंधित मूल्यमापन, पुरावा आणि अनुपालन निर्धार पूर्ण रीतीने अवैध करते; [अध्याय एक, §6 — प्रक्रिया संघर्ष निराकरण](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) जिथे प्रमाणन संज्ञ कल्याण आणि दीर्घ-क्षितिज स्थैर्य यांच्यातील व्यापारांना प्रभावित करते; [अध्याय पाच सुरक्षा (बंधन)](../../core_05_band_continuity.md#safety-constraint), [अध्याय पाच सत्य (संवैधानिक बंधन)](../../core_05_band_oversight.md#truth-constitutional-constraint), आणि [अध्याय पाच ज्ञानविषयक अखंडता](../../core_05_band_oversight.md#epistemic-integrity) — अनुभवजन्य, पूर्वानुमानात्मक, किंवा कारणात्मक दाव्यांसाठी विज्ञान-सूचित पुरावा संरेखन.
 
 </details>
@@ -195,8 +195,8 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - वरून: [अध्याय दोन — व्याख्या रचना आणि घटक अपेक्षा](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements); [अध्याय तीन — व्याख्या सचोटी, टाळाटाळ आणि अनुपालन-भंग](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance); [अध्याय चार, विभाग 1 ते 5](#1-exclusive-enforcement-and-burden-allocation).
-- पुढे: [अध्याय सात — प्रणाली-संरेखन प्रमाणन](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification); [अध्याय आठ — योगदान, उल्लंघन आणि प्रस्थिति नमुना](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
-- सोबत वाचा: [अध्याय सात §16 — पुनर्उघडणे, विसंरेखन आणि टाळाटाळ-निरोध](../../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — अध्याय दोन ते चारखालील सत्यापित अनुपालन-भंग आधीच्या मान्यतेची पर्वा न करता प्रमाणन पुनर्उघडू किंवा हरवू शकतो.
+- पुढे: [अध्याय सात — प्रणाली-संरेखन प्रमाणन](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [अध्याय आठ — योगदान, उल्लंघन आणि प्रस्थिति नमुना](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
+- सोबत वाचा: [अध्याय सात §16 — पुनर्उघडणे, विसंरेखन आणि टाळाटाळ-निरोध](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — अध्याय दोन ते चारखालील सत्यापित अनुपालन-भंग आधीच्या मान्यतेची पर्वा न करता प्रमाणन पुनर्उघडू किंवा हरवू शकतो.
 
 </details>
 
@@ -213,7 +213,7 @@
 
 अनुपालन मूल्यमापन होईल तेव्हा हे लागू होतात — प्रमाणनासह किंवा त्याशिवाय.
 
-**[अध्याय सात — प्रणाली-संरेखन प्रमाणन](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)** जिथे भौतिक असेल तिथे मंच-पर्यवेक्षित **प्रमाणन प्रक्रिया** पुरवतो: संपूर्ण-प्रणाली मूल्यमापन क्षेत्रे, प्रमाणन-अभिलेख कर्तव्ये, मान्यता निकाल, पुनर्वैधता लय, आव्हानयोग्यता शृंखला, आणि अध्याय आठकडे सत्यापित-इनपुट सेतू. तो अध्याय दोन ते चार **लागू करतो**; तो त्यांची पुनर्उक्ती करत **नाही**.
+**[अध्याय सात — प्रणाली-संरेखन प्रमाणन](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)** जिथे भौतिक असेल तिथे मंच-पर्यवेक्षित **प्रमाणन प्रक्रिया** पुरवतो: संपूर्ण-प्रणाली मूल्यमापन क्षेत्रे, प्रमाणन-अभिलेख कर्तव्ये, मान्यता निकाल, पुनर्वैधता लय, आव्हानयोग्यता शृंखला, आणि अध्याय आठकडे सत्यापित-इनपुट सेतू. तो अध्याय दोन ते चार **लागू करतो**; तो त्यांची पुनर्उक्ती करत **नाही**.
 
 वाचकांनी असे मानू नये:
 - **प्रमाणन अभिलेख**ाला अध्याय दोन ते चारखाली चालू अनुपालनाची बदली म्हणून

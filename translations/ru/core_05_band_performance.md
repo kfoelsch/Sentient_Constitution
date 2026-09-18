@@ -12,7 +12,7 @@
 >
 > **Предыдущий (этот язык):** [core_05_band_participation.md](core_05_band_participation.md)
 >
-> **Следующий (ещё на английском):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+> **Следующий (ещё на английском):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 > **Дуга чтения:** дом семьи измерений → маршрутизация листьев полосы Преемственности.
 
 </details>
@@ -58,12 +58,12 @@
 - Оперативные ярусы измерения живут на домах определений Главы пятой — см. [Конституционная эффективность](core_05_band_continuity.md#constitutional-efficiency), [Избежимая нагрузка](core_05_band_continuity.md#avoidable-burden), [Производительная способность](core_05_band_continuity.md#productive-capacity-constitutional) и [Обязанность снижения нагрузки](core_05_band_continuity.md#burden-reduction-duty-constitutional).
 - Цели результативности, вознаграждения и меры ресурсов действительны только в той мере, в какой они остаются прослеживаемыми к конституционным исходам.
 - Они не могут подменять Конституционную эффективность, [Производительную способность](core_05_band_continuity.md#productive-capacity-constitutional) или соответствие Полу прав.
-- Читать вместе с [Глава седьмая §3 Оценка сертификации целой системы](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), где результативность целой системы материально в охвате.
+- Читать вместе с [Глава седьмая §3 Оценка сертификации целой системы](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), где результативность целой системы материально в охвате.
 
 ---
 
 **Предыдущий файл:** [core_05_band_participation.md](core_05_band_participation.md)
 
-**Следующий файл (ещё на английском):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+**Следующий файл (ещё на английском):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 
 **Связывающий оригинал:** [core_05_band_performance.md](../../core_05_band_performance.md)

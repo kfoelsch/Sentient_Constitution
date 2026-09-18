@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Sixteen](../core_16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-7** (*Justice safeguards, restitution, and rehabilitation*).
+> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-7** (*Justice safeguards, restitution, and rehabilitation*).
 >
 > Start at the [Systems and data landing page](../corpus_systems.md) for reading order, or the [systems registry](cs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*); [Chapter Eight](../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); **CJS-3.13** (*procedural integrity and adjudication terms*); [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
+- Upstream: **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*); [Chapter Nine](../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model); **CJS-3.13** (*procedural integrity and adjudication terms*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
 - Downstream: [§1](#cs-7-1-purpose-and-role); [§2](#cs-7-2-scope-and-trigger); [§3](#cs-7-3-mandatory-validation-record); [§11](#cs-7-11-lived-condition-floors-continuity-and-re-entry-alignment).
 - Read with: **CS-7**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-9**; **CJS-3.13**.
 
@@ -43,7 +43,7 @@ This file is the systems implementation home for **CS-7** (*Justice safeguards, 
 
 *In plain terms: this file is the systems protocol for restrictions — validate first, keep them light and time-bounded, and keep restoration real.*
 
-This file implements Sentient Constitution Chapter Six, **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*). It also implements **Sentient Constitution Chapter Eight** (compliance, violation, and standing model) and **CJS-3.13** (*procedural integrity and adjudication terms*). It operationalizes the justice objective that interventions remain safety-protective, restitution-oriented, rehabilitation-capable where feasible, and accountability-grounded.
+This file implements Sentient Constitution Chapter Six, **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*). It also implements **Sentient Constitution Chapter Nine** (compliance, violation, and standing model) and **CJS-3.13** (*procedural integrity and adjudication terms*). It operationalizes the justice objective that interventions remain safety-protective, restitution-oriented, rehabilitation-capable where feasible, and accountability-grounded.
 **It does** **not** create substitute rights or narrow [Constitutional Constraints](../core_05_band_integrative.md#constitutional-constraint).
 
 <a id="cs-7-2-scope-and-trigger"></a>
@@ -81,9 +81,9 @@ Validation and review rigor must scale with **CS-3 — System classification and
 
 **Class C:** Documented alternatives analysis and defined review cadence proportionate to impact and dependency.
 
-**Class L:** Simplified validation records are permitted where effects remain bounded and local under **CS-3** Class L. Whole-system evaluation under **Chapter Seven §3** remains mandatory but proportionate, including lower default periodic cadence unless material change requires earlier re-evaluation.
+**Class L:** Simplified validation records are permitted where effects remain bounded and local under **CS-3** Class L. Whole-system evaluation under **Chapter Eight §3** remains mandatory but proportionate, including lower default periodic cadence unless material change requires earlier re-evaluation.
 
-**Class P:** Simplified validation records and informal self-assessment are permitted while validly **Class P**. **Chapter Seven §3** evaluation is encouraged unless reclassification or a voluntary constitutional-compliance claim makes it mandatory.
+**Class P:** Simplified validation records and informal self-assessment are permitted while validly **Class P**. **Chapter Eight §3** evaluation is encouraged unless reclassification or a voluntary constitutional-compliance claim makes it mandatory.
 
 Where material external effects emerge, obligations escalate to the stricter applicable class profile.
 
@@ -114,7 +114,7 @@ Irreversible restrictive outcomes are prohibited where feasible reversible resti
 
 Where restorative pathways include public acknowledgment or apology, systems must enforce voluntariness and authenticity controls.
 
-Those controls are specified in **Chapter Nine** §4.3 (*Voluntary public accountability expression*), **Chapter Ten** §4.3 (*Voluntary public accountability expression (anti-constitutional)*) where anti-constitutional misconduct is designated, and **CJS-3.13** (*procedural integrity and adjudication terms*), and include non-coercive consent, revocability up to delivery, independent review of voluntariness and authenticity, and negative justice consequences for materially inauthentic or abusive expression.
+Those controls are specified in **Chapter Ten** §4.3 (*Voluntary public accountability expression*), **Chapter Eleven** §4.3 (*Voluntary public accountability expression (anti-constitutional)*) where anti-constitutional misconduct is designated, and **CJS-3.13** (*procedural integrity and adjudication terms*), and include non-coercive consent, revocability up to delivery, independent review of voluntariness and authenticity, and negative justice consequences for materially inauthentic or abusive expression.
 
 Refusal may **not** independently escalate baseline sanctions.
 
@@ -154,7 +154,7 @@ See Sentient Constitution **Chapter Four** (*Enforcement Realism Anchors*) and *
 
 **Judgment and award realism:** Where foreign forums, arbitral tribunals, or sovereign regulators issue enforceable outcomes, systems must map recognition, registration, and fallback dependency-linked enforcement. They must **not** treat absence of a single global judiciary as permission for indefinite non-compliance.
 
-Apply Sentient Constitution **Chapter Fourteen** (*Disputes Involving External Legal Orders*) where applicable.
+Apply Sentient Constitution **Chapter Fifteen** (*Disputes Involving External Legal Orders*) where applicable.
 
 **Fallback enforcement pathways:** Where recognition or cooperation is unavailable, systems must apply fallback controls proportionate to impact. Those controls may include access constraints, dependency-linked restrictions, escrow/holdback mechanisms, or heightened monitoring. Keep controls sufficient to prevent evasion-driven non-enforcement.
 
@@ -183,9 +183,9 @@ That package should ordinarily include the full artifact set described in `imple
 
 Class C systems should use the subset of those templates materially relevant to model use, deployment risk, dependency, and incident profile.
 
-**Class L (bounded local profile):** Concise evidence checklist and lightweight records are permitted while **Class L** conditions hold. Whole-system evaluation under **Chapter Seven §3** remains mandatory but proportionate.
+**Class L (bounded local profile):** Concise evidence checklist and lightweight records are permitted while **Class L** conditions hold. Whole-system evaluation under **Chapter Eight §3** remains mandatory but proportionate.
 
-**Class P (private profile):** Informal self-assessment and lightweight records are permitted while validly **Class P**. **Chapter Seven §3** evaluation is encouraged unless reclassification or a voluntary constitutional-compliance claim makes it mandatory.
+**Class P (private profile):** Informal self-assessment and lightweight records are permitted while validly **Class P**. **Chapter Eight §3** evaluation is encouraged unless reclassification or a voluntary constitutional-compliance claim makes it mandatory.
 
 Controls must still preserve functional auditability and challenge rights where effects extend beyond operator-private scope.
 
@@ -213,7 +213,7 @@ Evasive down-tiering requires corrective reclassification and enforcement review
 
 *In plain terms: While a restriction is in force, conditions must stay non-degrading and support must continue. A lawful restriction carried out in degrading conditions is still a violation.*
 
-This subsection implements **non-degrading lived conditions** and **continuity of support** while **non-trivial restrictions** remain in force. It does **not** add criminal-law detail, create a sanction taxonomy, or restate **Chapter Eight** measurement. It **does** require that implementation of restrictions — including detention-like conditions, durable containment under **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*), **quarantine**, **supervised operation**, **role exclusion**, and comparable measures — preserves access to conditions that keep **restorative**, **least-restrictive**, and **dignity** commitments concrete rather than nominal.
+This subsection implements **non-degrading lived conditions** and **continuity of support** while **non-trivial restrictions** remain in force. It does **not** add criminal-law detail, create a sanction taxonomy, or restate **Chapter Nine** measurement. It **does** require that implementation of restrictions — including detention-like conditions, durable containment under **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*), **quarantine**, **supervised operation**, **role exclusion**, and comparable measures — preserves access to conditions that keep **restorative**, **least-restrictive**, and **dignity** commitments concrete rather than nominal.
 
 **Minimum lived-condition expectations (class- and context-scaled):** Responsible bodies must document and deliver, where **Necessity** and **Proportionality** allow, **healthcare and mental-health access** appropriate to the restriction’s purpose; **family, care, or trusted-contact** access where **safety** permits; **education, training, or capability development** access where the restriction is not narrowly justified to prevent it; **counsel, advocate, or independent representative** access for rights-affecting processes; **scheduled review** with **written reasons** at **intervals** that match impact and duration; **conditions** that **do not** impose **sensory deprivation**, **social isolation**, or **degradation** as an **unjustified** end; and **re-entry planning** that **does not** **sabotage** formal restoration through **withheld records**, **credential stripping without individualized predicate**, or **indefinite administrative deferral** of stated review triggers.
 

@@ -184,8 +184,8 @@
 - 一并阅读：[宪法四元](../../core_00_preamble.md#constitutional-tetrad) — 当具名承认、称誉或志向路径实质影响声音、地位或通向有后果角色的通路时，适用**参与**腿；**问责**腿（对背叛、隐瞒与回避问责的反奖赏）；**监督**腿（可追溯、不误导的称誉）。
 - 上游：原则：[§2 基础目标：福祉](#2-foundational-objective-wellbeing) — 包括福祉作为[参与](core_05_apex_participation_leg.md#participation-constitutional)的基础；[§2.1 公平](#21-fairness)。
 - 下游：[4. 信任](#4-system-stability-enabler-trust-coordination-integrity)；[§9 尽责管理与分布式理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)；[§10 尽责管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)；[§5 自由](#5-freedom-bounded-agency)。
-- 一并阅读：[第八章 §§4.3–4.4 — 规范化描述符目录](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles)，凡**领域对齐**的承认或比较性的**贡献轴 / 违规轴**描述符叙事具有实质性之处。
-- 一并阅读：[第八章 §4.3 — 贡献侧描述符](../../core_08_standing_assessment.md#43-route-descriptor-measurement-roles)，凡贡献性质与承认叙事具有实质性之处；[第九章 §3](../../core_09_standing_integration.md#3-descriptor-integration-and-attachment-normalization)，用于其整合进问题 3。
+- 一并阅读：[第八章 §§4.3–4.4 — 规范化描述符目录](../../core_09_standing_assessment.md#43-route-descriptor-measurement-roles)，凡**领域对齐**的承认或比较性的**贡献轴 / 违规轴**描述符叙事具有实质性之处。
+- 一并阅读：[第八章 §4.3 — 贡献侧描述符](../../core_09_standing_assessment.md#43-route-descriptor-measurement-roles)，凡贡献性质与承认叙事具有实质性之处；[第九章 §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization)，用于其整合进问题 3。
 - 一并阅读：[Article IX：自决与能动性](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)，凡对承认形式、可见度或选择退出的偏好具有实质性之处。
 - 分节（阅读顺序）：[§2.2.1](#221-recognition-and-reinforcement) · [§2.2.2](#222-celebration-of-success) · [§2.2.3](#223-aspiration) · [§2.2.4](#224-preference-aligned-recognition) · [§2.2.5](#225-aligned-recognition-pathways) · [§2.2.6](#226-anti-reward-for-anti-constitutional-conduct) · [§2.2.7](#227-implementation-layer)。
 
@@ -297,7 +297,7 @@
 - 那些违规被分类为多严重
 - 附着何种后果
 
-[**第八章**轨迹模型](../../core_08_standing_assessment.md)统管那些认定如何被分类、核验与适用，评价与遵从要求取自[**第二至五章**](core_02_definition_structure.md)。
+[**第八章**轨迹模型](../../core_09_standing_assessment.md)统管那些认定如何被分类、核验与适用，评价与遵从要求取自[**第二至五章**](core_02_definition_structure.md)。
 
 <a id="31-safety-harm-constraint"></a>
 #### 3.1 安全（伤害约束）
@@ -377,7 +377,7 @@
 - 一并阅读：[宪法四元](../../core_00_preamble.md#constitutional-tetrad) — 当受影响方必须理解并质疑经验主张时，适用**参与**腿；**监督**腿（独立审查、可审计性）；[实质利害](../../core_00_preamble.md#material-stake)缩放。
 - 一并阅读：[两项宪法宗旨](../../core_00_preamble.md#two-constitutional-aims) — **繁盛**宗旨（为**安全**与**真理**提供诚实证据）；**延续**宗旨（可纠正的、长时域的经验尽责管理）。
 - 上游：原则：[§3.1 安全](#31-safety-harm-constraint)与[§3.2 真理](#32-truth-epistemic-integrity-constraint)；[两项宪法宗旨](../../core_00_preamble.md#two-constitutional-aims)。
-- 下游：[4. 信任](#4-system-stability-enabler-trust-coordination-integrity)、[§9 尽责管理与分布式理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)、[6.2 认识披露约束](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)、[第七章 §3 整系统认证评价](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及 [§10 尽责管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)。
+- 下游：[4. 信任](#4-system-stability-enabler-trust-coordination-integrity)、[§9 尽责管理与分布式理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)、[6.2 认识披露约束](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)、[第七章 §3 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及 [§10 尽责管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)。
 - 下游：塑造可靠经验证据、专家证据标准、科学发表与复现完整性、独立核验、生命周期测试、根因审查与安全敏感披露的权利面。
   - 尤其 [Article XII：可靠可信系统权](../../core_06_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems)、[Article XV：审计、透明与独立核验](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)、[Article XVII-E：科学发表、审阅与复现完整性](../../core_06_rights_part_c.md#article-xvii-e-scientific-publication-review-and-replication-integrity)、[Article XXI：根因分析与适应性响应](../../core_06_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response)，以及 [Article XXIV-A：回溯审查与披露](../../core_06_rights_part_d.md#article-xxiv-a-retrospective-review-and-disclosure)。
 - 一并阅读：[第十一章 §4.2 — 技术评议所领域](core_11_forum.md#42-technical-forum-domains)（*包括共享标准与反挪位*），凡专家证据标准、经认证的技术问题或证据尽责管理争议具有实质性之处；[corpus_forum.md CF-10](../../corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md)，用于已采纳的专科路由。
@@ -534,7 +534,7 @@
 - [**实质性**](../../core_05_band_oversight.md#materiality-determination)决定必须展示并说明多少 — 对依赖该系统的感知者利害越高，该系统就必须越多地披露并正当化。
 - [**信任退化与误导性依赖**](../../core_05_band_integrative.md#trust-degradation-and-misleading-reliance-constitutional)点名失败模式 — 当系统以宪法上误导的方式创建、保全或给依赖打分时。
 
-当依赖通过压制、欺骗、隐蔽的风险转嫁或类似策略被建立或维持时 — 包括任何严重削弱感知者发现并质疑系统风险之能力的做法 — 信任就失败。[第七章](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)下的[**系统对齐认证**](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)过程，是系统证明其信任主张站得住的地方：认证必须核验系统的实际行为与其陈述相符，建立在可质疑的记录上 — 而不仅仅是运营者的断言。
+当依赖通过压制、欺骗、隐蔽的风险转嫁或类似策略被建立或维持时 — 包括任何严重削弱感知者发现并质疑系统风险之能力的做法 — 信任就失败。[第七章](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)下的[**系统对齐认证**](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)过程，是系统证明其信任主张站得住的地方：认证必须核验系统的实际行为与其陈述相符，建立在可质疑的记录上 — 而不仅仅是运营者的断言。
 
 <a id="41-resilience-and-self-healing-design"></a>
 #### 4.1 韧性与自愈设计
@@ -544,7 +544,7 @@
 - 一并阅读：[宪法四元](../../core_00_preamble.md#constitutional-tetrad) — **监督**与**问责**腿；[实质利害](../../core_00_preamble.md#material-stake)缩放，用于恢复与审计深度。
 - 一并阅读：[两项宪法宗旨](../../core_00_preamble.md#two-constitutional-aims) — **延续**宗旨（韧性与自愈纪律）；**繁盛**宗旨（可信的恢复，且无认识退化）。
 - 上游：原则：[序言 §1 模型](../../core_00_preamble.md#the-model)；[两项宪法宗旨](../../core_00_preamble.md#two-constitutional-aims)；[3.1 安全](#31-safety-harm-constraint)、[3.2 真理](#32-truth-epistemic-integrity-constraint)，以及 [§4 信任](#4-system-stability-enabler-trust-coordination-integrity)。
-- 下游：[§9 尽责管理与分布式理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)、[§6.3 可避免负担最小化](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)、[第七章 §3 整系统认证评价](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[§10 尽责管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)，以及 [7. 禁止绝对覆盖](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)。
+- 下游：[§9 尽责管理与分布式理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)、[§6.3 可避免负担最小化](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)、[第七章 §3 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[§10 尽责管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)，以及 [7. 禁止绝对覆盖](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)。
 - 下游：塑造带恢复的可靠性、根因诚实、可逆性，以及降级与恢复状态之可理解性的权利面。
   - 尤其 [Article XII：可靠可信系统权](../../core_06_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems)（包括 **Article XII-F**（《韧性与自愈基线》））、[Article XV：审计、透明与独立核验](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)、[Article XVI：系统生命周期、环境与可逆性](../../core_06_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility)、[Article XX：可理解性与复杂性尽责管理](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)，以及 [Article XXI：根因分析与适应性响应](../../core_06_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response)。
 
@@ -587,7 +587,7 @@
 - 一并阅读：[自愿终止](../../core_05_band_continuity.md#voluntary-discontinuation-constitutional)、第五章 §2 *能动性、同意与反胁迫*，以及[集会、集体组织与机构组建](../../core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster)。
 - 一并阅读：[§9.1 尽责管理](core_01_c_stewardship_capacity_principles.md#91-stewardship)与[§11.1.4 角色深度与实质责任路径](core_01_c_stewardship_capacity_principles.md#1114-role-depth-and-material-responsibility-pathways) — 角色深度、能力与实质责任路径；有意义的能动性包括在安全与同意允许之处，通向学习角色、运营与有后果职责的真实路径；凡影响要求后者之处，象征性参与不得替代有后果的职责。
 - 一并阅读：[§13 市场结构](core_01_c_stewardship_capacity_principles.md#13-market-structure)，尤其 [§13.2 亲竞争与反支配](core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination)，以及 [Article XIX：互操作、可携、流动、庇护与退出完整性](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)，凡集中、支配或锁定套牢实质限制能动性之处 — 可竞争市场、退出路径与反支配纪律，使能动性在规模上保持真实。
-- 一并阅读：[§5.1 限制纪律](#51-limitation-discipline)与[第七章 §3.6 时间一致性约束](../../core_07_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint) — 操作性的自由限制与时间一致性评价纪律；当自由限度与其他价值或权利碰撞时，在**安全**与**真理**得到满足之后，按 [§6.1](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) 至 [§6.1.5 权利碰撞程序](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) 解决。
+- 一并阅读：[§5.1 限制纪律](#51-limitation-discipline)与[第七章 §3.6 时间一致性约束](../../core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint) — 操作性的自由限制与时间一致性评价纪律；当自由限度与其他价值或权利碰撞时，在**安全**与**真理**得到满足之后，按 [§6.1](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) 至 [§6.1.5 权利碰撞程序](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) 解决。
 - 上游：原则：[§2.2 承认、强化与志向](#22-recognition-reinforcement-and-aspiration)；[3.1 安全](#31-safety-harm-constraint)；[3.2 真理](#32-truth-epistemic-integrity-constraint)；[4. 信任](#4-system-stability-enabler-trust-coordination-integrity)；以及[两项宪法宗旨](../../core_00_preamble.md#two-constitutional-aims)。
 - 下游：[§5.1 限制纪律](#51-limitation-discipline) 至 [§5.3 集会、集体组织与机构组建](#53-assembly-collective-organization-and-institutional-formation)；[6. 过程冲突解决](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)；[7. 禁止绝对覆盖](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)；[§15 综合适用](core_01_c_stewardship_capacity_principles.md#15-integrated-application)；以及 [§6.1 决定记录纪律](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)，凡具体适用需要碰撞处理之处。
 - 下游：框定平等地位、教育、自我所有、发表与肖像控制、能动性、合作互动、正当程序、轨迹与反俘获审查的权利面。
@@ -707,7 +707,7 @@
 - 性同意
 - 商业服务
 
-整系统评价必须在[第七章 §3.4 自愿终止与退出权](../../core_07_a_system_alignment_certification_evaluation.md#34-voluntary-discontinuation-and-exit-rights)下检验这些条件，然后分类、治理、限制或遵从主张才能在准入范围适用之处成立。
+整系统评价必须在[第七章 §3.4 自愿终止与退出权](../../core_08_a_system_alignment_certification_evaluation.md#34-voluntary-discontinuation-and-exit-rights)下检验这些条件，然后分类、治理、限制或遵从主张才能在准入范围适用之处成立。
 
 #### 5.3 集会、集体组织与机构组建
 
@@ -750,7 +750,7 @@
 
 处于该一并阅读范围之内的事项，不得被分割成分开的公民结社、劳动组织、平台通路或授权框架，从而保全形式上的通路却击败集会或集体组织保护。
 
-整系统评价必须在[第七章 §3.5 集会、集体组织与机构组建](../../core_07_a_system_alignment_certification_evaluation.md#35-assembly-collective-organization-and-institutional-formation)下检验反分割，然后分类、治理或遵从主张才能在完整定义簇适用之处成立。
+整系统评价必须在[第七章 §3.5 集会、集体组织与机构组建](../../core_08_a_system_alignment_certification_evaluation.md#35-assembly-collective-organization-and-institutional-formation)下检验反分割，然后分类、治理或遵从主张才能在完整定义簇适用之处成立。
 
 ##### 5.3.1 对齐的自组织
 <a id="531-aligned-self-organization"></a>

@@ -12,7 +12,7 @@
 >
 > **前（本言語）：** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 >
-> **次（なお英語）：** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+> **次（なお英語）：** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 > **読みの弧：** Article XXIII–XXVI（正義と緊急、憲法の進化、移行と再基線化）
 
 </details>
@@ -79,7 +79,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：原則：第一章 [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[第一章 §6.1.5 権利衝突の手続](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)、[第一章 §9.6 過程の劣化禁止](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline)、[§15 統合適用](core_01_c_stewardship_capacity_principles.md#15-integrated-application)。
-- 下流：[第九章 §4](../../core_09_standing_integration.md#4-violation-correction-and-prevention)（《違反、是正、予防》）；[Article XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints)；[Article XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule)。
+- 下流：[第九章 §4](../../core_10_standing_integration.md#4-violation-correction-and-prevention)（《違反、是正、予防》）；[Article XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints)；[Article XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule)。
 - あわせて読む：[残虐](core_05_band_accountability.md#cruelty)（《反残虐の床の、苦しみを目的とする標準についての第五章の本拠》）。
 
 </details>
@@ -329,7 +329,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：原則：第一章 [§6.1.5 権利衝突決定試験](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)、[§7 絶対的上書きの禁止](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)、[§15 統合適用](core_01_c_stewardship_capacity_principles.md#15-integrated-application)。
-- あわせて読む：[第九章 §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression)（《任意の公的説明責任の表明》）；[第十章 §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional)（《任意の公的説明責任の表明（反憲法的）》）。
+- あわせて読む：[第九章 §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression)（《任意の公的説明責任の表明》）；[第十章 §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional)（《任意の公的説明責任の表明（反憲法的）》）。
 
 </details>
 
@@ -358,7 +358,7 @@
     - 進行中のリスク；
     - 実質的な権力の非対称；
     - 影響を受ける側の不同意。
-- **任意の公的説明責任の表明：** 一般には [第九章 §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression)（《任意の公的説明責任の表明》）が、検証された反憲法的不正行為については [第十章 §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional)（《任意の公的説明責任の表明（反憲法的）》）が統治し、本条の権利衝突と修復的整合の規則に服する。
+- **任意の公的説明責任の表明：** 一般には [第九章 §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression)（《任意の公的説明責任の表明》）が、検証された反憲法的不正行為については [第十章 §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional)（《任意の公的説明責任の表明（反憲法的）》）が統治し、本条の権利衝突と修復的整合の規則に服する。
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### Article XXIV-C：適時の解決と遅延防止の床
 <details>
@@ -394,7 +394,7 @@
 - **三つの共同要件：** 実質的な解決の指名された経路は、ともに**適時**、**効率的**、**公正**でなければならない：
   - **適時** — [実質的利害](core_00_preamble.md#material-stake) と危害の緊急に応じて尺度を合わせた有界な時計；
   - **効率的** — [憲法上の効率](core_05_band_continuity.md#constitutional-efficiency) を第一章 [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) の意味で — 消費された感知者の時間と共有の努力あたりの本物の憲法上の成果であり、生のスループットや案件リストの掃除ではない；
-  - **公正** — **Article XXIII-A**（《正義の目的と範囲》）、**Article XXIII-B**（《非軽微な制限、原状回復、修復的説明責任の制約》）、**Article XXIII-C**（《制限最小かつ期限付きの規則》）はなお十全に適用される。速く動くことは、点検された事実を飛ばすこと（[第八章 §3.1](../../core_08_standing_assessment.md#verified-inputs-for-standing)）、誤った側を罰すること、危害に合わない直しを提示すること、異議と上訴を切ることの言い訳ではない。
+  - **公正** — **Article XXIII-A**（《正義の目的と範囲》）、**Article XXIII-B**（《非軽微な制限、原状回復、修復的説明責任の制約》）、**Article XXIII-C**（《制限最小かつ期限付きの規則》）はなお十全に適用される。速く動くことは、点検された事実を飛ばすこと（[第八章 §3.1](../../core_09_standing_assessment.md#verified-inputs-for-standing)）、誤った側を罰すること、危害に合わない直しを提示すること、異議と上訴を切ることの言い訳ではない。
 - **フォーラムとパイプラインの監督：** **第八から第十一章**を通じて経路づけられた紛争についての次は、本条の適時・効率的・公正の床に服しつつ、[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) が統治する：
   - 実質性段階の分類；
   - パイプライン段階の里程標；
@@ -431,7 +431,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流：原則：[第一章 §10.3 継続的正当化](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification)；第一章 [§2 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[第七章 §3 システム全体の認証評価](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[§7 絶対的上書きの禁止](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)。
+- 上流：原則：[第一章 §10.3 継続的正当化](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification)；第一章 [§2 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[第七章 §3 システム全体の認証評価](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[§7 絶対的上書きの禁止](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)。
 
 </details>
 
@@ -461,7 +461,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流：原則：第一章 [§3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[第七章 §3 システム全体の認証評価](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[§7 絶対的上書きの禁止](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)。
+- 上流：原則：第一章 [§3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[第七章 §3 システム全体の認証評価](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[§7 絶対的上書きの禁止](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)。
 
 </details>
 
@@ -517,7 +517,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流：原則：第一章 [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[§6.1 中核の取引原則](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)、[第七章 §3 システム全体の認証評価](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)；[第九章 §5.4](../../core_09_standing_integration.md#54-special-violation-rules)（《不整合報酬の没収と報告義務は、本条により移行中に限られる》）；[第七章 — システム整合認証](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)。
+- 上流：原則：第一章 [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[§6.1 中核の取引原則](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)、[第七章 §3 システム全体の認証評価](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)；[第九章 §5.4](../../core_10_standing_integration.md#54-special-violation-rules)（《不整合報酬の没収と報告義務は、本条により移行中に限られる》）；[第七章 — システム整合認証](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)。
 
 </details>
 
@@ -554,7 +554,7 @@
   
   廃止、退役、巻き戻し、移行、または置換は、**証拠保全**および **Article VII-D**（《家族、ケア関係、生殖の自律、非分離》）の非分離の規律のもとで状態を運ぶ構成要素を保管することによって本項を満たす。これは [第一章 §6.1 の既定の暫定姿勢](core_01_b_interaction_interpretation.md#default-interim-posture) である — 不可逆の一歩を凍結する — 遺産運用が日常として扱う唯一の不可逆の一歩へ適用される。保管費用、ライセンスの都合、製品周期の枠づけは、それに対する**必要性**を満たさない。保持そのものが文書化された安全リスクをつくるところでは、両立する制限最小の措置は、破壊ではなく、独立した制御のもとでの封印された保管である。
 <a id="incentive-alignment-transition-carve-out"></a>
-- **誘因整合の移行の切り出し：** **Article XXVI**（《移行統治、継続、再基線化》）のもとでの承認された移行段階のあいだ、[第七章 — システム整合認証](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) とあわせて読む。[第九章 §5.4 報告義務と除外](../../core_09_standing_integration.md#54-special-violation-rules) および [§5.4 没収と保持](../../core_09_standing_integration.md#54-special-violation-rules) は、共有システムを通る報酬に、それらのシステムが**まだ整合認証されていない**または**まだ十全に整合していない**という理由だけで**適用されない**。ただし：
+- **誘因整合の移行の切り出し：** **Article XXVI**（《移行統治、継続、再基線化》）のもとでの承認された移行段階のあいだ、[第七章 — システム整合認証](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) とあわせて読む。[第九章 §5.4 報告義務と除外](../../core_10_standing_integration.md#54-special-violation-rules) および [§5.4 没収と保持](../../core_10_standing_integration.md#54-special-violation-rules) は、共有システムを通る報酬に、それらのシステムが**まだ整合認証されていない**または**まだ十全に整合していない**という理由だけで**適用されない**。ただし：
   - 運用が **Article XXVI**（《移行統治、継続、再基線化》）のもとでの**文書化された移行計画**と公表された門の基準の内側に留まる；
   - システムが公表されたリズムで [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional) へ進んでいる。第七章が許すところでの**条件付き**または**延期された承認**を含む；かつ
   - 運用者と受益者が不整合を**知りながら隠して**おらず、承認された移行範囲の外で運用しておらず、移行地位を用いて認証、是正、または保護された通報をかわしていない。
@@ -600,7 +600,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：原則：第一章 [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[§6.1 中核の取引原則](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)、[§15 統合適用](core_01_c_stewardship_capacity_principles.md#15-integrated-application)。
-- あわせて読む：[第七章](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)（《システム整合認証》）；[第八から第十一章](../../README.md#standing-pipeline-and-forums)（《軌跡パイプラインとフォーラム監督》）。
+- あわせて読む：[第七章](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)（《システム整合認証》）；[第八から第十一章](../../README.md#standing-pipeline-and-forums)（《軌跡パイプラインとフォーラム監督》）。
 
 </details>
 
@@ -624,7 +624,7 @@
   あらかじめ定めた後退の指名された経路、部分的巻き戻しの基準、再基線化の手続は [**CI-14**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md)（《移行統治と制度的進化》）が統治する。
   - 失敗し、または劣化した移行状態は、存続だけによって新しい基線になってはならない。
 - **実質的基線リセット：** 実質的基線リセットは、門が失敗し、または移行が停滞するときに、移行里程標、リスク仮定、所管、運用計画を更新する。それは憲法上有効な権限と文書化された公の理由を要する。それは**権利の床の最低限**を保たなければならず、この憲法を適法に変える規則の代替であってはならない。
-- **検証健全さの前提条件：** 改訂された移行基線のうえでのリセットまたは継続は、[システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional) が [第七章](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) のもとで、または軌跡パイプラインが [第八から第十一章](../../README.md#standing-pipeline-and-forums) のもとで、構造的に信頼できないところでは不遵守である — たとえば、認証が権利の床を実質的に打ち負かすシステムに日常的に祝福を与え、軌跡測定が検証された実質的現実から日常的に乖離し、または争いと審査の指名された経路がそれらの隙を実質性に応じた時間の内側で直せないところである。それらの条件では、検証と測定の機械の修理が、化粧の再計画に優先する。
+- **検証健全さの前提条件：** 改訂された移行基線のうえでのリセットまたは継続は、[システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional) が [第七章](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) のもとで、または軌跡パイプラインが [第八から第十一章](../../README.md#standing-pipeline-and-forums) のもとで、構造的に信頼できないところでは不遵守である — たとえば、認証が権利の床を実質的に打ち負かすシステムに日常的に祝福を与え、軌跡測定が検証された実質的現実から日常的に乖離し、または争いと審査の指名された経路がそれらの隙を実質性に応じた時間の内側で直せないところである。それらの条件では、検証と測定の機械の修理が、化粧の再計画に優先する。
 - **公の追跡可能性：** 実質的な移行決定、遅れ、逆転、基線リセットの判定は、根拠とリスク含意とともに監査可能なままでなければならない。
   - 文書化は、狭い、正当化された機密制約に服したままである。
   - 遅れ、巻き戻し、または継続が憲法上正当化されるかを評価するのに足りる公の説明を保たなければならない。
@@ -635,7 +635,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流：原則：第一章 [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[第一章 §6.1.5 権利衝突の手続](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)、[第七章 §3 システム全体の認証評価](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上流：原則：第一章 [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[第一章 §6.1.5 権利衝突の手続](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)、[第七章 §3 システム全体の認証評価](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 - あわせて読む：**Article III-A**（《生存》）；**Article XII**（《信頼でき信頼に値するシステムへの権利》）；**Article X-B**（《集合的危害の境界と執行インターフェース》）；**第八章**；**第一章**、§6 の権利衝突手続を含む；第六章冒頭の**既定制約スタック**（《占有と是正のインターフェース》）；[[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) から **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives)（《移行統治と制度的進化》）。
 
 </details>
@@ -653,7 +653,7 @@
 
 *平たい言葉で言えば：不遵守のシステムと財産は移行中に是正されうる — しかし狭い、文書化された、審査可能な過程を通してのみであり、基本権利を守り、口実を封じ、報復や政治的標的化に変わってはならない。制度がそれをどう運ぶか — 役割、引き金、保管、上訴、資金、誘因の仕組み — は **CI-14.1** から **CI-14.3** に住む。本条は、それらの手続が狭めてはならない憲法上の床を述べる。*
 
-- **占有の床：** 適法に所有し、または使うものを、移行は気まぐれに取り上げてはならない。しかし、その資産を動かし続けることが、既知の大規模な憲法違反を明らかに続けさせるとき — [第八章](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) が記録のうえで違反を文書化した後 — 所有は盾ではない。その場合、移行はなお危害を止めるために動いてよいが、本条および **CI-14.1** から **CI-14.3** の保障を通してのみである。
+- **占有の床：** 適法に所有し、または使うものを、移行は気まぐれに取り上げてはならない。しかし、その資産を動かし続けることが、既知の大規模な憲法違反を明らかに続けさせるとき — [第八章](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) が記録のうえで違反を文書化した後 — 所有は盾ではない。その場合、移行はなお危害を止めるために動いてよいが、本条および **CI-14.1** から **CI-14.3** の保障を通してのみである。
 - **移行範囲の是正：** **Article XXVI-A**（《段階的採択と権利の床の継続》）のもとでの**文書化された移行計画**は、移行中に限り、**実質的に不遵守**のシステムまたは財産の加速された是正を授権してよい。操作性の範囲、許された措置、制度手続は [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) から **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives)（《移行統治と制度的進化》）が統治し、**CJS-3.6**（《財産保管と誘因分離の制御連鎖》）および適用されるところでの **Article XII-E**（《高自律システムと道具媒介過程の誠実性》）とあわせて読む。
 - **求められる保障：** いかなる移行範囲の剥奪または誘因プログラムも、次を満たさなければならない：
   - 示しうる**必要性**と**比例性**を伴う [**制限最小、期限付き、審査可能な制約原則**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)；
@@ -674,6 +674,6 @@
 
 **前のファイル：** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 
-**次のファイル（なお英語）：** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+**次のファイル（なお英語）：** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 
 **拘束力ある原文：** [core_06_rights_part_d.md](../../core_06_rights_part_d.md)

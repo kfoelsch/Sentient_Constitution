@@ -9,15 +9,15 @@
 
 ### 1. Does reading this bind me?
 
-No. Opening this repository, [START_HERE.md](../START_HERE.md), or a kit is not adoption. A qualifying body becomes bound only after a Chapter Fifteen instrument exists in **that body’s** custody.
+No. Opening this repository, [START_HERE.md](../START_HERE.md), or a kit is not adoption. A qualifying body becomes bound only after a Chapter Sixteen instrument exists in **that body’s** custody.
 
-See: [Chapter Fifteen §10](../core_15_amendment_ratification.md#10-ratification-and-adoption); [Chapter Sixteen §4](../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority).
+See: [Chapter Sixteen §10](../core_16_amendment_ratification.md#10-ratification-and-adoption); [Chapter Seventeen §4](../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority).
 
 ### 2. Does it override my country’s laws?
 
 No. It does not supersede local, national, or international law. Where it is used inside an existing legal framework, its processes must stay consistent with that framework.
 
-See: [Chapter Fourteen §5](../core_14_expansion_supremacy.md#5-relation-to-applicable-external-law).
+See: [Chapter Fifteen §5](../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law).
 
 ### 3. Who counts, and who decides?
 
@@ -27,7 +27,7 @@ See: [Article V-E](../core_06_rights_part_b.md#article-v-e-sentience-status-adju
 
 ### 4. What is the difference between using it as a handbook and a body agreeing to follow it?
 
-Using the ideas as a handbook is **operations-guide** use. “We adopted” is honest only after a qualifying body records a Chapter Fifteen instrument. Attach the non-adoption banner when that is the actual situation.
+Using the ideas as a handbook is **operations-guide** use. “We adopted” is honest only after a qualifying body records a Chapter Sixteen instrument. Attach the non-adoption banner when that is the actual situation.
 
 See: [START_HERE.md §5](../START_HERE.md#two-modes); [FIT_SITUATIONS.md §2](adoption/FIT_SITUATIONS.md#2-two-modes); [non-adoption banner](adoption/FIRST_ADOPTER_KIT.md#6-non-adoption-banner).
 
@@ -59,7 +59,7 @@ See: [Rights Floor wall sheet](../doc_architecture/generated/rights_floor_sheet.
 
 A filed case is not standing by itself. Help and harm, when they matter, have to be verified and written on two separate tracks. Rumors and dispute stories are not that record.
 
-See: [G04 — Help and harm](adoption/easy_entry/G04_help_and_harm.md); [PROCESS_PIPELINES_READER.md](PROCESS_PIPELINES_READER.md); [Chapter Eight](../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
+See: [G04 — Help and harm](adoption/easy_entry/G04_help_and_harm.md); [PROCESS_PIPELINES_READER.md](PROCESS_PIPELINES_READER.md); [Chapter Nine](../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
 
 ### 10. What if there is a crisis?
 

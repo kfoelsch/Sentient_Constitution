@@ -9,7 +9,7 @@
 
 > Isi berikut **hanya panduan pembaca**. Tidak menambah, mengurangi, atau mempersempit kewajiban yang mengikat di berkas ini atau di bab lain.
 >
-> Berkas ini adalah **uji coba bahasa pembaca** atas [Bab Sepuluh, Bagian A bahasa Inggris](../../core_10_a_misconduct_designation.md). **Bukan** bagian mengikat Konstitusi Makhluk Sadar. **Bukan** konstitusi kedua. **Bukan** edisi kirim. **Disematkan** pada `SC-Corpus-2026.08.09`. Jika terjemahan ini dan sumber bahasa Inggris tampak berselisih, berkas bernomor [`core_10_a_misconduct_designation.md`](../../core_10_a_misconduct_designation.md) yang menang. Urutan baca dan metadata edisi tetap di [README.md](../../README.md). Metode dan glosarium: [translations/id/README.md](README.md).
+> Berkas ini adalah **uji coba bahasa pembaca** atas [Bab Sepuluh, Bagian A bahasa Inggris](../../core_11_a_misconduct_designation.md). **Bukan** bagian mengikat Konstitusi Makhluk Sadar. **Bukan** konstitusi kedua. **Bukan** edisi kirim. **Disematkan** pada `SC-Corpus-2026.08.09`. Jika terjemahan ini dan sumber bahasa Inggris tampak berselisih, berkas bernomor [`core_10_a_misconduct_designation.md`](../../core_11_a_misconduct_designation.md) yang menang. Urutan baca dan metadata edisi tetap di [README.md](../../README.md). Metode dan glosarium: [translations/id/README.md](README.md).
 >
 > Berisi **Bab Sepuluh, Bagian A** — kerangka keputusan penunjukan, himpunan kriteria, pelekatan penunjukan Sumbu Pelanggaran `s = 7–9`, pagar pengaman proses yang semestinya, pemulihan, kunci pencegahan, dan ungkapan pertanggungjawaban publik sukarela. **Bagian B** — penerapan pola bernama dan perutean kriteria — ada di [`core_10_b_misconduct_pattern_applications.md`](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications).
 >
@@ -17,7 +17,7 @@
 > - **Batas pengukuran:** Hanya Bab Delapan yang menugaskan slot dampak numerik di bawah skala LEQU proporsional terpadu miliknya. Bab ini **tidak** mengganti atau mengubah pengukuran itu.
 > - **Aturan anti-relokasi:** Bagian A tidak menyatakan ulang katalog pola Bagian B, kunci jejak Bab Sembilan, atau aturan keabsahan jalur-perubahan Bab Tiga Belas sampai Lima Belas.
 >
-> Salah laku anti-konstitusi pada **s = 7, 8, atau 9** adalah **penguasaan tetrad** pada skala — baca bersama [tujuan Kesinambungan](core_00_preamble.md#continuity) di bawah [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims). Interaksi keabsahan jalur-perubahan berlanjut di [Bab Tiga Belas sampai Lima Belas](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity); batasan keadilan tetap di [Bab Enam Bagian D](core_06_rights_part_d.md).
+> Salah laku anti-konstitusi pada **s = 7, 8, atau 9** adalah **penguasaan tetrad** pada skala — baca bersama [tujuan Kesinambungan](core_00_preamble.md#continuity) di bawah [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims). Interaksi keabsahan jalur-perubahan berlanjut di [Bab Tiga Belas sampai Lima Belas](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity); batasan keadilan tetap di [Bab Enam Bagian D](core_06_rights_part_d.md).
 >
 > **Hulu:** pengukuran jejak Bab Delapan; penunjuk penunjukan Bab Sembilan.
 > **Hilir:** [Bagian B](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications) (*penerapan pola*); Kunci Kepercayaan Bab Sembilan dan integrasi akibat-jejak setelah penunjukan akhir; perutean forum Bab Sebelas; akibat keabsahan tata kelola Bab Dua Belas.
@@ -73,8 +73,8 @@
 - Hulu: [Bab Delapan](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*Pertanyaan 1 dan 2; catatan terverifikasi dan pengukuran jejak*).
 - Penunjuk hulu: [Bab Sembilan §2](core_09_standing_integration.md#2-integration-record-and-decision-order) merutekan ke sini temuan slot 7–9 Sumbu Pelanggaran yang memenuhi syarat untuk penunjukan saja.
 - Berkas ini: penunjukan salah-laku-anti-konstitusi akhir bagi Sumbu Pelanggaran `s` = 7–9; kriteria penunjukan; pagar pengaman proses yang semestinya; batas Bab Tiga Belas sampai Lima Belas. Perutean pola bernama berlanjut di [Bagian B](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications).
-- Hilir: [Bab Sembilan](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*Kunci Kepercayaan dan integrasi akibat-jejak setelah penunjukan akhir*); [Bab Sebelas](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*perutean forum dan sertifikasi*); [Bab Dua Belas](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) (*akibat keabsahan tata kelola*).
-- Baca bersama: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [Bab Tiga Belas sampai Lima Belas](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) (*perilaku jalur-perubahan dapat mengimplikasikan kriteria 1–4*).
+- Hilir: [Bab Sembilan](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*Kunci Kepercayaan dan integrasi akibat-jejak setelah penunjukan akhir*); [Bab Sebelas](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*perutean forum dan sertifikasi*); [Bab Dua Belas](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) (*akibat keabsahan tata kelola*).
+- Baca bersama: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [Bab Tiga Belas sampai Lima Belas](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) (*perilaku jalur-perubahan dapat mengimplikasikan kriteria 1–4*).
 
 </details>
 
@@ -100,7 +100,7 @@ Bab ini dipakai hanya ketika pelanggaran terverifikasi sudah menempati Sumbu Pel
 - Pagar pengaman dan disiplin: [§4](#4-due-process-safeguards-for-slot-assignment) (*Pagar pengaman proses yang semestinya, pemulihan, dan pencegahan*); [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*Pemulihan dan koreksi (anti-konstitusi)*); [§4.2](#4-2-prevention-anti-constitutional-locks) (*Pencegahan — kunci anti-konstitusi*); [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Ungkapan pertanggungjawaban publik sukarela (anti-konstitusi)*).
 - Penerapan pola: [§5](core_10_b_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing) (*pola bernama dirutekan ke kriteria penunjukan yang sama*).
 - Batas jalur-perubahan: [§1](#1-cross-chapter-discipline) (*batas Bab Tiga Belas sampai Lima Belas*).
-- Baca bersama: [Bab Tiga Belas sampai Lima Belas](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) di mana **penipuan regresif** dan perilaku jalur-perubahan dapat mengimplikasikan **kriteria 1–4**.
+- Baca bersama: [Bab Tiga Belas sampai Lima Belas](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) di mana **penipuan regresif** dan perilaku jalur-perubahan dapat mengimplikasikan **kriteria 1–4**.
 - Kaki Tetrad: **partisipasi**, **pengawasan**, **pertanggungjawaban**, **ketepatan waktu** (penguasaan tetrad pada skala). Tujuan primer: **Kesinambungan** (primer), **Berkembang**. Penskalaan [taruhan material](core_00_preamble.md#material-stake) berlaku pada pagar pengaman dan gravitasi.
 
 </details>
@@ -432,4 +432,4 @@ Setelah penunjukan akhir di bawah **bagian 3** dengan pagar pengaman **bagian 4*
 
 **Berkas berikutnya (bahasa ini):** [core_10_b_misconduct_pattern_applications.md](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)
 
-**Sumber mengikat:** [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md)
+**Sumber mengikat:** [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md)

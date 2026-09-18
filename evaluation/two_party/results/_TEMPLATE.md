@@ -8,7 +8,7 @@
 - **Operator who compared:**
 - **Used OPERATOR_ROUTING.md gold labels?** yes / no
 
-**This file is not** Chapter Fifteen adoption, Chapter Sixteen incorporation, a Chapter Eight standing record, or Chapter Seven certification. An AI-only pair is not a shared-stewardship showing.
+**This file is not** Chapter Sixteen adoption, Chapter Seventeen incorporation, a Chapter Nine standing record, or Chapter Eight certification. An AI-only pair is not a shared-stewardship showing.
 
 ---
 

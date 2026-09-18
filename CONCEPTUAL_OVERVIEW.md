@@ -459,7 +459,7 @@ flowchart TB
 - Classification must reflect actual and reasonably foreseeable effects, including dependency chains, concentration, interaction, aggregation, thresholds, and adversarial use.
 - Uncertainty defaults toward protecting Foundational Rights. Reclassification is required when scale, reach, dependency, risk, resilience, or failure conditions materially change.
 
-The [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional) and [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional) are companion records in the certification and audit pipeline. CS-2 owns data typing and handling; CS-3 owns system classification and handling. Chapter Five supplies the canonical meanings, while Chapter Seven verifies that the records are present and honest.
+The [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional) and [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional) are companion records in the certification and audit pipeline. CS-2 owns data typing and handling; CS-3 owns system classification and handling. Chapter Five supplies the canonical meanings, while Chapter Eight verifies that the records are present and honest.
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 
@@ -468,21 +468,25 @@ The [System Data Types Record](core_05_band_continuity.md#system-data-types-reco
 
 ```mermaid
 flowchart TB
-    S["Chapter Seven<br/>System alignment certification"]
+    D["Chapter Seven<br/>Functional independence<br/>and segregation of duties"]
+    S["Chapter Eight<br/>System alignment certification"]
     E["Evidence about conduct or outcomes<br/>Verified under Chapters Two–Four"]
-    subgraph Q["Chapter Eight · standing records"]
+    subgraph Q["Chapter Nine · standing records"]
         direction LR
         C["Contribution record<br/>and measurement"]
         V["Violation record<br/>and measurement"]
     end
-    subgraph N["Chapter Nine · effects"]
+    subgraph N["Chapter Ten · effects"]
         direction LR
         U["Recognition, rewards,<br/>competency clearances"]
         R["Standing locks,<br/>correction and remedy"]
     end
-    M["Chapter Ten<br/>Anti-constitutional misconduct review"]
-    L["Chapter Nine<br/>Anti-Constitutional Trust Lock"]
-    F["Chapter Eleven forums<br/>Supervision, challenge and timely review"]
+    M["Chapter Eleven<br/>Anti-constitutional misconduct review"]
+    L["Chapter Ten<br/>Anti-Constitutional Trust Lock"]
+    F["Chapter Twelve forums<br/>Supervision, challenge and timely review"]
+    D -.->|separates authority at every stage| S
+    D -.->|separates authority at every stage| E
+    D -.->|separates authority at every stage| F
     C --> U
     V --> R
     M -->|final designation only| L
@@ -507,7 +511,7 @@ flowchart TB
         C["Contribution Axis<br/><br/>• Help toward Flourishing<br/>• Can support recognition and competency clearance"]
         V["Violation Axis<br/><br/>• Harm and accountability failure<br/>• Can support locks, correction, and remedy"]
     end
-    Q3["Question 3 · What follows?<br/>Chapter Nine integration and effects<br/><br/>• Apply named pathway effects<br/>• No merged score or dignity rank<br/>• Keep challenge and restoration open"]
+    Q3["Question 3 · What follows?<br/>Chapter Ten integration and effects<br/><br/>• Apply named pathway effects<br/>• No merged score or dignity rank<br/>• Keep challenge and restoration open"]
     Q1 --> Q2
     Q2 --> C
     Q2 --> V
@@ -530,7 +534,7 @@ flowchart TB
         C["Contribution Axis<br/>Verified constitutional benefit"]
         V["Violation Axis<br/>Verified constitutional loss, harm,<br/>waste, foreclosure, or danger"]
     end
-    Effects["What happens because of it?<br/>Chapter Nine effects, correction,<br/>remedy, safeguards, or standing locks"]
+    Effects["What happens because of it?<br/>Chapter Ten effects, correction,<br/>remedy, safeguards, or standing locks"]
     Facts -->|verified inputs| Measure
     Measure --> LEQU
     LEQU -->|same proportional scale; no offset| C
@@ -543,7 +547,7 @@ flowchart TB
 - The shared scale compares magnitude; it does not create a net score. Contribution and violation remain separate records, and help cannot cancel harm.
 - LEQU does not decide who is sentient, replace verified facts, or determine standing effects by itself. Conduct character, such as negligence or coercion, remains separately traceable from impact magnitude.
 
-The canonical mechanics live in [Chapter Eight §7](core_08_standing_assessment.md#7-unified-proportional-lequ-scale), after verified Question 1 facts and Question 2 measurement. Chapter Nine uses the resulting records for Question 3 effects; forums supervise the process but do not replace the measurement.
+The canonical mechanics live in [Chapter Nine §7](core_09_standing_assessment.md#7-unified-proportional-lequ-scale), after verified Question 1 facts and Question 2 measurement. Chapter Ten uses the resulting records for Question 3 effects; forums supervise the process but do not replace the measurement.
 
 <a id="lequ-bands"></a>
 ### Nine proportional LEQU bands
@@ -583,17 +587,18 @@ flowchart TB
 
 Each box pairs the Contribution Axis display label with the corresponding Violation Axis display label at the same magnitude band. The axes remain separate: the shared scale compares verified outcome magnitude, not moral worth, and never permits contribution to offset violation. The time ranges marked with `*` are the corpus’s illustrative 80-year human calibration; the binding unit is sentient-generic and substrate-agnostic.
 
-Chapter Eight’s model is deliberately not a single reputation score. It asks what happened, how the verified contribution or violation should be classified, and what named pathway effects follow. Chapter Nine applies those effects without reopening the facts or letting contribution offset a violation; Chapter Ten adds a separate designation review only when its higher threshold is met.
+Chapter Nine’s model is deliberately not a single reputation score. It asks what happened, how the verified contribution or violation should be classified, and what named pathway effects follow. Chapter Ten applies those effects without reopening the facts or letting contribution offset a violation; Chapter Eleven adds a separate designation review only when its higher threshold is met.
 
-The two standing tracks remain separate. The Chapter Ten branch applies only when its conditions are met; ordinary Chapter Nine effects continue in parallel. The dotted supervision link represents forum review across the processes, rather than an additional final step.
+The two standing tracks remain separate. The Chapter Eleven branch applies only when its conditions are met; ordinary Chapter Ten effects continue in parallel. The dotted supervision link represents forum review across the processes, rather than an additional final step.
 
-Chapters Seven through Eleven make constitutional requirements consequential. Each has a distinct job within the [practical process chain](core_00_preamble.md#5-key-practical-process-pipelines):
+Chapter Seven supplies the functional-independence floor for Chapters Eight through Twelve, which make constitutional requirements consequential. Each has a distinct job within the [practical process chain](core_00_preamble.md#5-key-practical-process-pipelines):
 
-- **Seven: examine the system.** Certification produces a bounded, contestable record about whether a system can be relied on within a stated scope and time window.
-- **Eight: establish and measure conduct.** Verified contribution and verified violation enter separate standing records and are measured on separate axes.
-- **Nine: apply effects.** Verified contributions can support recognition, rewards, and competency clearances; verified violations can lead to restrictions, correction, and remedy.
-- **Ten: review exceptional misconduct.** Where the specified conditions are met, a separate designation review addresses anti-constitutional misconduct. It runs alongside ordinary standing effects.
-- **Eleven: supervise review and routing.** Forums support verified findings, jurisdiction, challenges, independent review, and timely resolution across the process.
+- **Seven: separate constitutional authority.** Initiation, verification or authorization, record custody, and challenge review remain functionally independent under a published seat map.
+- **Eight: examine the system.** Certification produces a bounded, contestable record about whether a system can be relied on within a stated scope and time window.
+- **Nine: establish and measure conduct.** Verified contribution and verified violation enter separate standing records and are measured on separate axes.
+- **Ten: apply effects.** Verified contributions can support recognition, rewards, and competency clearances; verified violations can lead to restrictions, correction, and remedy.
+- **Eleven: review exceptional misconduct.** Where the specified conditions are met, a separate designation review addresses anti-constitutional misconduct. It runs alongside ordinary standing effects.
+- **Twelve: supervise review and routing.** Forums support verified findings, jurisdiction, challenges, independent review, and timely resolution across the process.
 
 The connections matter as much as the chapter boundaries:
 
@@ -603,17 +608,17 @@ The connections matter as much as the chapter boundaries:
 - Correction addresses the failure that produced the harm.
 - Contribution and violation remain separate throughout; good conduct does not cancel verified harm.
 
-This is a map of available processes. A particular matter enters the paths its facts and the source provisions require. For ordinary disputes inside an already-authorized system, the published stakeholder challenge path comes first; forum routing takes over under the conditions stated in [Chapter Eleven’s dispute sequencing](core_11_forum.md#dispute-sequencing).
+This is a map of available processes. A particular matter enters the paths its facts and the source provisions require. For ordinary disputes inside an already-authorized system, the published stakeholder challenge path comes first; forum routing takes over under the conditions stated in [Chapter Twelve’s dispute sequencing](core_12_forum.md#dispute-sequencing).
 
 ### Ordinary life, privacy, and the way back
 
-Ordinary life does not begin with a standing file. **Silence is the default**: no standing record is the ordinary state, and a missing record is not evidence of risk, low contribution, or general untrustworthiness. A named record-opening authority verifies the factual basis and authorizes entry; a separate custodian enters and holds the record. A record may not be required for essentials, labor protections, ordinary commerce, or participation as an affected party. The specific exception is a published competency bar for a trust-sensitive named pathway, which must state why that pathway is trust-sensitive. See [Chapter Eight §2.1](core_08_standing_assessment.md#21-standing-records-as-the-unit-of-application), [§3.7](core_08_standing_assessment.md#37-record-custody-and-opening-authority), and [Chapter Nine §6.2](core_09_standing_integration.md#62-competency-bars-and-clearances).
+Ordinary life does not begin with a standing file. **Silence is the default**: no standing record is the ordinary state, and a missing record is not evidence of risk, low contribution, or general untrustworthiness. A named record-opening authority verifies the factual basis and authorizes entry; a separate custodian enters and holds the record. A record may not be required for essentials, labor protections, ordinary commerce, or participation as an affected party. The specific exception is a published competency bar for a trust-sensitive named pathway, which must state why that pathway is trust-sensitive. See [Chapter Nine §2.1](core_09_standing_assessment.md#21-standing-records-as-the-unit-of-application), [§3.7](core_09_standing_assessment.md#37-record-custody-and-opening-authority), and [Chapter Ten §6.2](core_10_standing_integration.md#62-competency-bars-and-clearances).
 
-When a record does exist, its effects remain bounded to named pathways. The system must not combine pathway effects into a profile, ranking, badge, public display, or general worth judgment. A lawful lock still closes real doors: the subject must be told which pathway is limited, what corrective conditions and review date apply, how long the effect is expected to last, and where to challenge it. That burden must be measured honestly rather than hidden behind the statement that standing is not a score. See [Chapter Nine §§7.1–7.2](core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects).
+When a record does exist, its effects remain bounded to named pathways. The system must not combine pathway effects into a profile, ranking, badge, public display, or general worth judgment. A lawful lock still closes real doors: the subject must be told which pathway is limited, what corrective conditions and review date apply, how long the effect is expected to last, and where to challenge it. That burden must be measured honestly rather than hidden behind the statement that standing is not a score. See [Chapter Ten §§7.1–7.2](core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects).
 
-Restoration is a real route, not automatic forgiveness or record erasure. Correction, remedy, restitution, safeguards, monitoring, or requalification may be required. Once restoration is complete and no lock, remedy duty, or correction duty remains open, slots 1–3 archive; slots 4–6 archive after a published period capped by the contribution half-life in Chapter Nine §6.1. Slots 7–9 remain active indefinitely, subject to their special restoration rules and Chapter Ten.
+Restoration is a real route, not automatic forgiveness or record erasure. Correction, remedy, restitution, safeguards, monitoring, or requalification may be required. Once restoration is complete and no lock, remedy duty, or correction duty remains open, slots 1–3 archive; slots 4–6 archive after a published period capped by the contribution half-life in Chapter Ten §6.1. Slots 7–9 remain active indefinitely, subject to their special restoration rules and Chapter Eleven.
 
-Archival preserves evidence while ending ordinary active use. A forum may access an archived record on a documented showing that it bears on recurrence risk in a live matter. Archived records produce no named-pathway effect, are not disclosed to named-pathway gatekeepers, and do not count toward competency bars, except where a published bar for a specific high-sensitivity named pathway states a longer look-back that itself satisfies Necessity and Proportionality. The forum-access showing alone does not authorize gatekeeper disclosure. See [Chapter Nine §8.1](core_09_standing_integration.md#81-rest-state-and-archival).
+Archival preserves evidence while ending ordinary active use. A forum may access an archived record on a documented showing that it bears on recurrence risk in a live matter. Archived records produce no named-pathway effect, are not disclosed to named-pathway gatekeepers, and do not count toward competency bars, except where a published bar for a specific high-sensitivity named pathway states a longer look-back that itself satisfies Necessity and Proportionality. The forum-access showing alone does not authorize gatekeeper disclosure. See [Chapter Ten §8.1](core_10_standing_integration.md#81-rest-state-and-archival).
 
 ### Protection while sentience is uncertain
 
@@ -630,7 +635,7 @@ That protection belongs to the entity. It does not shield an operator’s proper
 flowchart TB
     D["Ordinary dispute inside an authorized system"]
     P["Published stakeholder challenge path"]
-    R["Chapter Eleven: route by primary stake<br/>Family intake sorts; merits panels decide"]
+    R["Chapter Twelve: route by primary stake<br/>Family intake sorts; merits panels decide"]
     subgraph F["Forum families"]
         direction TB
         subgraph Frow1[" "]
@@ -669,13 +674,13 @@ flowchart TB
     style ConstitutionalPath fill:none,stroke:none
 ```
 
-These are **six families with different responsibilities**. The boxes identify their subject areas; the [default venue rules](core_11_forum.md#2-default-venue-and-primary-stakes) determine the actual lead. Sentient routing, for example, depends on no institution being a necessary party and no other family holding the primary stake. The intake desk sorts the matter; it does not replace a merits panel. Direct access remains available when delay would materially endanger rights, evidence, independence, or practical restoration under [dispute sequencing](core_11_forum.md#dispute-sequencing).
+These are **six families with different responsibilities**. The boxes identify their subject areas; the [default venue rules](core_12_forum.md#2-default-venue-and-primary-stakes) determine the actual lead. Sentient routing, for example, depends on no institution being a necessary party and no other family holding the primary stake. The intake desk sorts the matter; it does not replace a merits panel. Direct access remains available when delay would materially endanger rights, evidence, independence, or practical restoration under [dispute sequencing](core_12_forum.md#dispute-sequencing).
 
 The **Constitutional decision review panel** is shown inside the Constitutional family because it is a limited review process for manifest constitutional error, not a seventh forum family or a general appellate tier.
 
-The families also work together. In **system alignment certification**, Integrity leads official recognition, Technical Forum Domains supply specifications and evidence standards, and Environment supplies the required environmental component review where material. A mixed matter ordinarily has one lead and one record, with component questions referred to their proper owners. [Chapter Eleven §§2–3](core_11_forum.md#2-default-venue-and-primary-stakes) describes these connections.
+The families also work together. In **system alignment certification**, Integrity leads official recognition, Technical Forum Domains supply specifications and evidence standards, and Environment supplies the required environmental component review where material. A mixed matter ordinarily has one lead and one record, with component questions referred to their proper owners. [Chapter Twelve §§2–3](core_12_forum.md#2-default-venue-and-primary-stakes) describes these connections.
 
-Independence applies to reviewers themselves. A forum cannot be the sole final judge of a material challenge to its own integrity; [coordination and backup routing](core_11_forum.md#3-transfer-consolidation-and-coordination) provide other review paths. Timeliness and interim protection apply while routing is resolved. These safeguards are shared across the families, rather than another rung above them.
+Independence applies to reviewers themselves. A forum cannot be the sole final judge of a material challenge to its own integrity; [coordination and backup routing](core_12_forum.md#3-transfer-consolidation-and-coordination) provide other review paths. Timeliness and interim protection apply while routing is resolved. These safeguards are shared across the families, rather than another rung above them.
 
 ### Forum urgency levels and timeframes
 
@@ -709,9 +714,9 @@ flowchart TB
 - Tier B starts with intake and primary-stakes routing within days and reaches a preliminary verified disposition or equivalent merits milestone within weeks.
 - Tier C is a coordination default, not a slower substitute for an A or B finding. Tier L and Tier P support lighter procedures only while their bounded conditions hold.
 - Later-stage coordination alone does not justify an extension. A permitted extension requires a published, tier-appropriate record showing continuing necessity, proportionality, and no less restrictive feasible alternative under [Article XXIII-D](core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden). Later-stage windows and the default integrated-resolution outer bound may be extended under that discipline, subject to any narrower Rights-Floor window. Intake, evidence preservation, and required interim protection stay at the classified tier’s floor; an extension does not reclassify the dispute. See [CF-11.3.1](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors).
-- After emergency containment, the same default outer bounds govern restoration of notice and challenge. The clock runs from the start of the measure or the deferral of notice or challenge, whichever is earlier. Continuing past the bound requires the Article XXIII-D continuation showing; it does not start a new clock. Later filing or slower stage windows cannot reset or postpone that restoration clock. See [Chapter Eleven’s restore-challenge rule](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+- After emergency containment, the same default outer bounds govern restoration of notice and challenge. The clock runs from the start of the measure or the deferral of notice or challenge, whichever is earlier. Continuing past the bound requires the Article XXIII-D continuation showing; it does not start a new clock. Later filing or slower stage windows cannot reset or postpone that restoration clock. See [Chapter Twelve’s restore-challenge rule](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 
-These are the [Chapter Eleven §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) and [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) clocks. The labels mirror the system-classification alphabet, but dispute urgency is determined by the dispute’s own materiality; a forum escalation or added party does not automatically change the tier.
+These are the [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) and [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) clocks. The labels mirror the system-classification alphabet, but dispute urgency is determined by the dispute’s own materiality; a forum escalation or added party does not automatically change the tier.
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 
@@ -720,14 +725,14 @@ These are the [Chapter Eleven §6](core_11_forum.md#6-timely-resolution-material
 
 ```mermaid
 flowchart TB
-    A["Chapter Twelve<br/>Documented legitimacy mechanism"]
+    A["Chapter Thirteen<br/>Documented legitimacy mechanism"]
     G["Authorized governing roles<br/>Stated scope, limits and competent stewards"]
     P["Participation inside authorized systems<br/>Voice and challenge paths for affected sentients"]
     R["Contestation, correction<br/>and reauthorization where applicable"]
-    N["Chapter Thirteen<br/>Non-regression"]
-    H["Chapter Fourteen<br/>Supremacy within scope and external-law relations"]
-    U["Chapter Fifteen<br/>Amendment, ratification and adoption procedures"]
-    B["Chapter Sixteen<br/>Incorporation, edition and custody"]
+    N["Chapter Fourteen<br/>Non-regression"]
+    H["Chapter Fifteen<br/>Supremacy within scope and external-law relations"]
+    U["Chapter Sixteen<br/>Amendment, ratification and adoption procedures"]
+    B["Chapter Seventeen<br/>Incorporation, edition and custody"]
     I["Adopted companion obligations<br/>Systems · Institutions · Forums · Joint structure"]
     A -->|authorizes within documented terms| G
     G -->|must ensure| P
@@ -742,16 +747,16 @@ flowchart TB
 
 The upper loop concerns **governing authority and its continuing accountability**. The change-and-adoption path concerns **the instrument and its incorporated implementation**. Both operate within the principles and Rights Floor shown in the first view. Participation within a system does not itself authorize that system's governing authority.
 
-There is a question prior to operating a governance process: **who is authorized to govern, over what, and on what terms?** [Chapter Twelve](core_12_governance.md) owns that constitutional authorization layer. Participation within an authorized system remains a separate obligation. A participation vote or standing score does not itself establish governing authority; the [Preamble’s two governance layers](core_00_preamble.md#33-governance-layers) explain the distinction.
+There is a question prior to operating a governance process: **who is authorized to govern, over what, and on what terms?** [Chapter Thirteen](core_13_governance.md) owns that constitutional authorization layer. Participation within an authorized system remains a separate obligation. A participation vote or standing score does not itself establish governing authority; the [Preamble’s two governance layers](core_00_preamble.md#33-governance-layers) explain the distinction.
 
-Foundational constitutional choice has an equal political-voice floor: within the entitled community, each sentient has equal weight when deciding who governs, what legitimacy mechanism authorizes that power, and its durable terms. Stake-weighted participation is narrower; it applies inside an already-authorized system, institution, or bounded decision domain and cannot be used to constitute the authorization layer. Ordinary standing locks may limit only the named governance or stakeholder pathway their verified trigger reaches, while preserving Rights-Floor, survival-critical, audit, challenge, and remedy access. A final Chapter Ten anti-constitutional-misconduct designation for a qualifying Violation Axis 7–9 finding can withhold durable foundational voice until real restitution and restoration duties are satisfied, but poverty, disability, exile, substrate loss, or valuation uncertainty alone cannot do so. Good-faith inability requires a contestable record and real partial or conditional restoration routes; where liberty restriction is necessary, it remains individualized, least-restrictive, time-bounded, reviewable, and tied to verified danger. See [Chapter Twelve §4.1](core_12_governance.md#41-entitlement-and-eligibility), [Chapter Nine §§4.2 and 5.4](core_09_standing_integration.md#42-general-standing-locks), and [Chapter Ten §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks).
+Foundational constitutional choice has an equal political-voice floor: within the entitled community, each sentient has equal weight when deciding who governs, what legitimacy mechanism authorizes that power, and its durable terms. Stake-weighted participation is narrower; it applies inside an already-authorized system, institution, or bounded decision domain and cannot be used to constitute the authorization layer. Ordinary standing locks may limit only the named governance or stakeholder pathway their verified trigger reaches, while preserving Rights-Floor, survival-critical, audit, challenge, and remedy access. A final Chapter Eleven anti-constitutional-misconduct designation for a qualifying Violation Axis 7–9 finding can withhold durable foundational voice until real restitution and restoration duties are satisfied, but poverty, disability, exile, substrate loss, or valuation uncertainty alone cannot do so. Good-faith inability requires a contestable record and real partial or conditional restoration routes; where liberty restriction is necessary, it remains individualized, least-restrictive, time-bounded, reviewable, and tied to verified danger. See [Chapter Thirteen §4.1](core_13_governance.md#41-entitlement-and-eligibility), [Chapter Ten §§4.2 and 5.4](core_10_standing_integration.md#42-general-standing-locks), and [Chapter Eleven §4.2](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks).
 
 The final chapters preserve the instrument as it changes and is put into use:
 
-- [Chapter Thirteen](core_13_non_regression.md) guards against substantive regression.
-- [Chapter Fourteen](core_14_expansion_supremacy.md) addresses expansion, supremacy within scope, and relations with external legal orders.
-- [Chapter Fifteen](core_15_amendment_ratification.md) supplies amendment, ratification, and adoption procedures.
-- [Chapter Sixteen](core_16_incorporation.md) ties incorporated implementation to a recorded scope, edition, and custody trail.
+- [Chapter Fourteen](core_14_non_regression.md) guards against substantive regression.
+- [Chapter Fifteen](core_15_expansion_supremacy.md) addresses expansion, supremacy within scope, and relations with external legal orders.
+- [Chapter Sixteen](core_16_amendment_ratification.md) supplies amendment, ratification, and adoption procedures.
+- [Chapter Seventeen](core_17_incorporation.md) ties incorporated implementation to a recorded scope, edition, and custody trail.
 
 Together, these provisions connect everyday governance to its authorization and keep changes to the rules visible and contestable. Valid adoption determines enforceability for an adopter; publication or reading alone does not.
 
@@ -796,26 +801,26 @@ This is a reading discipline, not a new precedence rule:
 
 ## Segregation of duties
 
-When a decision, release, payment, finding, or official record can materially affect people, the person who acts should not be the only person who checks the work. The Constitution separates the jobs so that a system cannot quietly ask an actor to approve, record, and judge their own work. A **seat** here means a defined responsibility, not a physical chair or a job title. A published role map says which office may hold each seat for a particular act. [Chapter One §10.2](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties) states the principle; [Chapter Eight §3.7](core_08_standing_assessment.md#37-segregation-of-duties) applies it to standing records.
+When a decision, release, payment, finding, or official record can materially affect sentients, the sentient or system that acts must not be the only one that checks the work. The Constitution separates the jobs so that a system cannot quietly ask an actor to approve, record, and judge its own work. A **seat** here means a defined responsibility, not a physical chair or a job title. A published role map says which office may hold each seat for a particular act. [Chapter Seven §2](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) owns the cross-process floor; [Chapter Nine §3.7](core_09_standing_assessment.md#37-segregation-of-duties) applies it to standing records.
 
 ```mermaid
 flowchart TB
     subgraph Scope["Scope and materiality"]
         direction LR
         A["Important decision<br/>or official record"]
-        H["Same rule for people and AI<br/>The kind of steward does not change<br/>the separation required"]
-        M["How much separation is needed?<br/>The greater the possible harm, dependence,<br/>or reach, the stronger the separation"]
+        H["Same separation rules<br/>for sentient and AI stewards"]
+        M["More potential harm, dependence,<br/>or reach requires stronger separation"]
         A --> M
         H --> M
     end
-    X["The person or office being reviewed<br/>cannot also check, keep, or judge<br/>the same matter"]
+    X["The initiating seat cannot verify its own act;<br/>the verifier cannot also keep the record<br/>or hear the challenge"]
     Map["Published role map<br/>assigns seats for this act"]
     subgraph Seats["Four core seats"]
         direction TB
-        I["Initiating seat<br/>Start or request the decision or record"]
-        V["Verification seat<br/>Check the facts and whether the action is allowed"]
-        E["Record custody seat<br/>Enter the official version, keep it safe,<br/>and publish how to challenge it"]
-        C["Challenge and review seat<br/>Hear an objection; correct, confirm,<br/>or set aside the record"]
+        I["Initiating seat<br/>Request, propose, operate,<br/>claim, or begin the act"]
+        V["Verify-or-authorize seat<br/>Check evidence and authority;<br/>authorize, condition, or decline"]
+        E["Record seat<br/>Enter, version, preserve,<br/>and publish the official record"]
+        C["Contest seat<br/>Receive and review a challenge;<br/>correct, limit, or route"]
         I -.->|typical record lifecycle| V
         V -.->|authorization| E
         E -.-> C
@@ -839,7 +844,7 @@ The dotted arrows inside the box show a typical record lifecycle; the arrows to 
 - An office that operates a system does not verify records about that system; the same rule applies whether the steward is human or AI.
 - Downstream role catalogs may add permissions such as commanding containment, setting participation terms, releasing evidence, or directing action. Those are role assignments around the four core seats, not extra steps in this chart.
 
-See [Chapter Twelve §5](core_12_governance.md#5-authorized-roles-competency-development-and-contribution).
+See [Chapter Thirteen §5](core_13_governance.md#5-authorized-roles-competency-development-and-contribution).
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 
@@ -847,9 +852,9 @@ See [Chapter Twelve §5](core_12_governance.md#5-authorized-roles-competency-dev
 
 ```mermaid
 flowchart TB
-    Core["Numbered core_* files<br/>Preamble + Chapters One–Sixteen<br/>Binding constitutional source"]
-    Bridge["Chapter Sixteen<br/>Incorporation bridge<br/>Scope · edition · custody"]
-    Adopt["Valid adoption<br/>Chapters Fifteen and Sixteen"]
+    Core["Numbered core_* files<br/>Preamble + Chapters One–Seventeen<br/>Binding constitutional source"]
+    Bridge["Chapter Seventeen<br/>Incorporation bridge<br/>Scope · edition · custody"]
+    Adopt["Valid adoption<br/>Chapters Sixteen and Seventeen"]
     subgraph Comp["Companion implementation corpus · implements, not narrows"]
         direction LR
         J["corpus_joint_structure<br/>Cross-implementation links"]

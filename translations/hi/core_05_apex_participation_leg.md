@@ -109,7 +109,7 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - अधो: सहभागिता मापन परिवार — केवल-कड़ी रोलअप; प्रति-पद स्तर पत्ती परिभाषाओं पर रहते हैं — देखें [सारभूत निष्पक्षता](../../core_05_band_participation.md#substantive-fairness-constitutional), [संरक्षित-विशेषता स्थानापन्न और असमान प्रभाव](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [सुगम्यता](../../core_05_band_participation.md#accessibility-constitutional), [शैक्षिक अभिकर्तृत्व](../../core_05_band_participation.md#educational-agency), [अर्थपूर्ण अभिकर्तृत्व](../../core_05_band_participation.md#meaningful-agency), और सातत्य पट्टी में [निजता (सूचनात्मक)](../../core_05_band_continuity.md#privacy-informational-cluster) समूह।
-- साथ पढ़ें: अध्याय छह, [अध्याय सात](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification), या समाविष्ट लिखत — बाध्यकारी गैर-भेदभाव, समायोजन, शिक्षा, या निजता अपेक्षाएँ तब उत्पन्न होती हैं जब वे लिखत उन्हें स्पष्ट रूप से अपेक्षित करें।
+- साथ पढ़ें: अध्याय छह, [अध्याय सात](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification), या समाविष्ट लिखत — बाध्यकारी गैर-भेदभाव, समायोजन, शिक्षा, या निजता अपेक्षाएँ तब उत्पन्न होती हैं जब वे लिखत उन्हें स्पष्ट रूप से अपेक्षित करें।
 
 </details>
 

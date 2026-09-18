@@ -6,15 +6,15 @@
 
 > Isi berikut **hanya panduan pembaca**. Tidak menambah, mengurangi, atau mempersempit kewajiban yang mengikat di berkas ini atau di bab lain.
 >
-> Berkas ini adalah **uji coba bahasa pembaca** atas [Bab Tiga Belas bahasa Inggris](../../core_13_non_regression.md). **Bukan** bagian mengikat Konstitusi Makhluk Sadar. **Bukan** konstitusi kedua. **Bukan** edisi kirim. **Disematkan** pada `SC-Corpus-2026.08.09`. Jika terjemahan ini dan sumber bahasa Inggris tampak berselisih, berkas bernomor [`core_13_non_regression.md`](../../core_13_non_regression.md) yang menang. Urutan baca dan metadata edisi tetap di [README.md](../../README.md). Metode dan glosarium: [translations/id/README.md](README.md).
+> Berkas ini adalah **uji coba bahasa pembaca** atas [Bab Tiga Belas bahasa Inggris](../../core_14_non_regression.md). **Bukan** bagian mengikat Konstitusi Makhluk Sadar. **Bukan** konstitusi kedua. **Bukan** edisi kirim. **Disematkan** pada `SC-Corpus-2026.08.09`. Jika terjemahan ini dan sumber bahasa Inggris tampak berselisih, berkas bernomor [`core_13_non_regression.md`](../../core_14_non_regression.md) yang menang. Urutan baca dan metadata edisi tetap di [README.md](../../README.md). Metode dan glosarium: [translations/id/README.md](README.md).
 >
-> Berisi **Bab Tiga Belas**: non-regresi substantif dan keabsahan amandemen substantif (Uji 1). **Bab Empat Belas** ada di [`core_14_expansion_supremacy.md`](../../core_14_expansion_supremacy.md). **Bab Lima Belas** ada di [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md). Keabsahan amandemen harus menjaga kedua [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) — **Berkembang** dan **Kesinambungan** — dan tidak boleh mengosongkan [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) di bawah persyaratan [taruhan material](core_00_preamble.md#material-stake). Penomoran bab dan rujukan silang cocok dengan instrumen terpadu.
+> Berisi **Bab Tiga Belas**: non-regresi substantif dan keabsahan amandemen substantif (Uji 1). **Bab Empat Belas** ada di [`core_14_expansion_supremacy.md`](../../core_15_expansion_supremacy.md). **Bab Lima Belas** ada di [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md). Keabsahan amandemen harus menjaga kedua [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) — **Berkembang** dan **Kesinambungan** — dan tidak boleh mengosongkan [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) di bawah persyaratan [taruhan material](core_00_preamble.md#material-stake). Penomoran bab dan rujukan silang cocok dengan instrumen terpadu.
 
 
 >
-> **Sebelumnya (masih bahasa Inggris):** [core_12_governance.md](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
+> **Sebelumnya (masih bahasa Inggris):** [core_12_governance.md](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)
 >
-> **Berikutnya (masih bahasa Inggris):** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+> **Berikutnya (masih bahasa Inggris):** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 > **Alur baca:** §1 lantai non-regresi → §2 Uji 1 → §3 anti-pengelakan dan rujukan → §4 lingkup lapisan
 </details>
 
@@ -35,9 +35,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: [Bab Satu](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [Bab Dua sampai Empat](core_02_definition_structure.md) integritas dan verifikasi; [Bab Enam](core_06_rights_part_a.md#chapter-six-foundational-rights) Lantai Hak; [Bab Dua Belas](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) persyaratan legitimasi dan pengelolaan bertanggung jawab.
+- Hulu: [Bab Satu](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [Bab Dua sampai Empat](core_02_definition_structure.md) integritas dan verifikasi; [Bab Enam](core_06_rights_part_a.md#chapter-six-foundational-rights) Lantai Hak; [Bab Dua Belas](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) persyaratan legitimasi dan pengelolaan bertanggung jawab.
 - Subbagian: [§1](#1-non-regression-floor); [§2](#2-test-1-substantive-non-regression-validity); [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral); [§4](#4-layer-scope).
-- Hilir: [Bab Empat Belas](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) perluasan dan keunggulan; [Bab Lima Belas](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) keabsahan prosedural, ratifikasi, dan persyaratan amandemen; [Bab Delapan](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) dan [Bab Sepuluh](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) bagi klasifikasi kanonik di mana pemicu rujukan merute.
+- Hilir: [Bab Empat Belas](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) perluasan dan keunggulan; [Bab Lima Belas](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) keabsahan prosedural, ratifikasi, dan persyaratan amandemen; [Bab Delapan](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) dan [Bab Sepuluh](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) bagi klasifikasi kanonik di mana pemicu rujukan merute.
 - Baca bersama: [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) penelusuran non-operatif bagi **Bab Sebelas sampai Empat Belas** tentang perubahan konstitusional dan inkorporasi.
 
 </details>
@@ -96,8 +96,8 @@ Pelemahan material mencakup penyempitan tidak langsung lewat:
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hulu: [§1](#1-non-regression-floor) definisi lantai non-regresi.
-- Hilir: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) pengelakan dan rujukan salah laku; [Bab Lima Belas](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) Uji 2–4 dan persyaratan prosedural (tidak sah jika Uji 1 gagal terlepas dari prosedur).
-- Baca bersama: [Bab Satu](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) batasan prinsip yang tidak bisa ditawar; [Bab Dua Belas](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) kewajiban legitimasi.
+- Hilir: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) pengelakan dan rujukan salah laku; [Bab Lima Belas](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) Uji 2–4 dan persyaratan prosedural (tidak sah jika Uji 1 gagal terlepas dari prosedur).
+- Baca bersama: [Bab Satu](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) batasan prinsip yang tidak bisa ditawar; [Bab Dua Belas](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) kewajiban legitimasi.
 
 </details>
 
@@ -157,8 +157,8 @@ Salah laku **paksa** atau **peniadaan** dirutekan lewat **kriteria 5** dan **6**
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hulu: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) disiplin hanya-rujukan; [Bab Delapan](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) dan [Bab Sepuluh](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) pemilik kanonik.
-- Hilir: [Bab Lima Belas §12](../../core_15_amendment_ratification.md#12-layer-scope) disiplin lapisan prosedural yang dicerminkan; teks implementasi bagi mekanika pelaksanaan tinjauan.
-- Baca bersama: [Tumpukan wewenang dan hierarki internal](core_05_band_integrative.md#owner-non-relocation) dan [Pembukaan — daftar pemilik positif](core_00_preamble.md#4-principles-definitions-and-rights); [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) tentang jalur-perubahan dan inkorporasi; [Bab Lima Belas](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) bagi uji keabsahan yang tidak menggandakan taksonomi klasifikasi-slot.
+- Hilir: [Bab Lima Belas §12](../../core_16_amendment_ratification.md#12-layer-scope) disiplin lapisan prosedural yang dicerminkan; teks implementasi bagi mekanika pelaksanaan tinjauan.
+- Baca bersama: [Tumpukan wewenang dan hierarki internal](core_05_band_integrative.md#owner-non-relocation) dan [Pembukaan — daftar pemilik positif](core_00_preamble.md#4-principles-definitions-and-rights); [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) tentang jalur-perubahan dan inkorporasi; [Bab Lima Belas](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) bagi uji keabsahan yang tidak menggandakan taksonomi klasifikasi-slot.
 
 </details>
 
@@ -187,7 +187,7 @@ Penambahan masa depan yang menyentuh bahasa beraroma-pelanggaran, beraroma-sanks
 > - **pengukuran kontribusi dan pelanggaran umum** (Sumbu Kontribusi / Sumbu Pelanggaran) — **Bab Delapan** dalam [core_08_standing_assessment.md](core_08_standing_assessment.md); **akibat jejak dan integrasi** — **Bab Sembilan** dalam [core_09_standing_integration.md](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration);
 > - **slot Sumbu Kontribusi dan Sumbu Pelanggaran numerik** — **skala terpadu Bab Delapan §7**, dengan catatan terpisah dan slot Pelanggaran dikendalikan hanya oleh dampak terverifikasi; dan **penunjukan salah-laku-anti-konstitusi** yang berpasangan bagi slot 7, 8, atau 9 Sumbu Pelanggaran yang memenuhi syarat — **Bab Sepuluh** dalam [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct);
 > - **alur kerja operasional-forum dan prosedur adjudikatif** — **Bab Sebelas** dan [corpus_forum.md](../../corpus_forum.md);
-> - **keabsahan prosedural dan kustodi** bagi amandemen, ratifikasi, dan adopsi — **Bab Lima Belas** dalam [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity); dan
+> - **keabsahan prosedural dan kustodi** bagi amandemen, ratifikasi, dan adopsi — **Bab Lima Belas** dalam [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity); dan
 > - **prosedur kelembagaan rinci, mekanika kepegawaian, dan integrasi struktural bersama lintas-implementasi** bagi pelaksanaan tinjauan — teks implementasi yang ditunjuk dan bab pemilik yang dinamai dalam [Pembukaan — daftar pemilik positif](core_00_preamble.md#4-principles-definitions-and-rights).
 >
 > Lapisan pemilik tidak boleh dibaca sebagai memindahkan standar keabsahan konstitusional keluar dari **Bab Tiga Belas dan Lima Belas**, wewenang pengukuran Sumbu Kontribusi / Sumbu Pelanggaran keluar dari **skala terpadu Bab Delapan §7**, atau wewenang penunjukan salah-laku-anti-konstitusi keluar dari **Bab Sepuluh**. Bab Sepuluh tidak menugaskan slot numerik. Bagi penelusuran arsitektur non-operatif, lihat [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md).
@@ -196,8 +196,8 @@ Penambahan masa depan yang menyentuh bahasa beraroma-pelanggaran, beraroma-sanks
 
 ---
 
-**Berkas sebelumnya (masih bahasa Inggris):** [core_12_governance.md](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
+**Berkas sebelumnya (masih bahasa Inggris):** [core_12_governance.md](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)
 
-**Berkas berikutnya (masih bahasa Inggris):** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+**Berkas berikutnya (masih bahasa Inggris):** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 
-**Sumber mengikat:** [core_13_non_regression.md](../../core_13_non_regression.md)
+**Sumber mengikat:** [core_13_non_regression.md](../../core_14_non_regression.md)

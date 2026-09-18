@@ -6,15 +6,15 @@
 
 > 以下の内容は**読者向け案内にすぎない**。本ファイルまたは他の章にある拘束力のある義務を加え、除き、または狭めない。
 >
-> 本ファイルは[英語第十三章](../../core_13_non_regression.md)の**読者言語パイロット**である。**感知者憲法の拘束力ある部分ではない**。**第二の憲法ではない**。**配布版ではない**。`SC-Corpus-2026.08.09` に**固定**されている。本訳文と英語原文が食い違って見える場合、番号付きファイル [`core_13_non_regression.md`](../../core_13_non_regression.md) が勝つ。読み順と版のメタデータは [README.md](../../README.md) に保たれる。方法と用語表：[translations/ja/README.md](README.md)。
+> 本ファイルは[英語第十三章](../../core_14_non_regression.md)の**読者言語パイロット**である。**感知者憲法の拘束力ある部分ではない**。**第二の憲法ではない**。**配布版ではない**。`SC-Corpus-2026.08.09` に**固定**されている。本訳文と英語原文が食い違って見える場合、番号付きファイル [`core_13_non_regression.md`](../../core_14_non_regression.md) が勝つ。読み順と版のメタデータは [README.md](../../README.md) に保たれる。方法と用語表：[translations/ja/README.md](README.md)。
 >
-> **第十三章**を含む：実体的な不後退と改正の実体的有効性（試験 1）。**第十四章**は [`core_14_expansion_supremacy.md`](../../core_14_expansion_supremacy.md) にある。**第十五章**は [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md) にある。改正の有効性は、[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — **繁栄**と**継続** — の両方を保たなければならず、[憲法四元](core_00_preamble.md#constitutional-tetrad) を[実質的利害](core_00_preamble.md#material-stake)の要件より下まで空洞化してはならない。章番号と相互参照は統合された文書と一致する。
+> **第十三章**を含む：実体的な不後退と改正の実体的有効性（試験 1）。**第十四章**は [`core_14_expansion_supremacy.md`](../../core_15_expansion_supremacy.md) にある。**第十五章**は [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md) にある。改正の有効性は、[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — **繁栄**と**継続** — の両方を保たなければならず、[憲法四元](core_00_preamble.md#constitutional-tetrad) を[実質的利害](core_00_preamble.md#material-stake)の要件より下まで空洞化してはならない。章番号と相互参照は統合された文書と一致する。
 
 
 >
-> **前（なお英語）：** [core_12_governance.md](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
+> **前（なお英語）：** [core_12_governance.md](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)
 >
-> **次（なお英語）：** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+> **次（なお英語）：** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 > **読みの弧：** §1 不後退の床 → §2 試験 1 → §3 回避防止と付託 → §4 層の範囲
 </details>
 
@@ -35,9 +35,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流：[第一章](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints)；[第二章から第四章](core_02_definition_structure.md) 誠実性と検証；[第六章](core_06_rights_part_a.md#chapter-six-foundational-rights) 権利の床；[第十二章](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) 正当性と責務ある管理の要件。
+- 上流：[第一章](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints)；[第二章から第四章](core_02_definition_structure.md) 誠実性と検証；[第六章](core_06_rights_part_a.md#chapter-six-foundational-rights) 権利の床；[第十二章](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) 正当性と責務ある管理の要件。
 - 下位節：[§1](#1-non-regression-floor)；[§2](#2-test-1-substantive-non-regression-validity)；[§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral)；[§4](#4-layer-scope)。
-- 下流：[第十四章](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) 拡張と最高性；[第十五章](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) 手続の有効性、批准、および改正の要件；[第八章](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) および [第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) は、付託の引き金が経路づけるところでの典範分類のため。
+- 下流：[第十四章](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) 拡張と最高性；[第十五章](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) 手続の有効性、批准、および改正の要件；[第八章](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) および [第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) は、付託の引き金が経路づけるところでの典範分類のため。
 - あわせて読む：[archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) **第十一章から第十四章**についての、憲法上の変更と編入の非操作性の通し読み。
 
 </details>
@@ -96,8 +96,8 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[§1](#1-non-regression-floor) 不後退の床の定義。
-- 下流：[§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) 回避と不正行為の付託；[第十五章](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) 試験 2–4 および手続要件（試験 1 が失敗すれば、手続にかかわらず無効）。
-- あわせて読む：[第一章](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) 交渉不能の原則制約；[第十二章](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) 正当性の義務。
+- 下流：[§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) 回避と不正行為の付託；[第十五章](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) 試験 2–4 および手続要件（試験 1 が失敗すれば、手続にかかわらず無効）。
+- あわせて読む：[第一章](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) 交渉不能の原則制約；[第十二章](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) 正当性の義務。
 
 </details>
 
@@ -157,8 +157,8 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) 付託のみの規律；[第八章](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) および [第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) 典範の所管者。
-- 下流：[第十五章 §12](../../core_15_amendment_ratification.md#12-layer-scope) 鏡された手続層の規律；審査実行の仕組みについての実施本文。
-- あわせて読む：[権限スタックと内部階層](core_05_band_integrative.md#owner-non-relocation) および [前文 — 積極的所管登録](core_00_preamble.md#4-principles-definitions-and-rights)；[archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) 変更経路と編入について；[第十五章](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) 箱分類の分類体系を複製しない有効性試験について。
+- 下流：[第十五章 §12](../../core_16_amendment_ratification.md#12-layer-scope) 鏡された手続層の規律；審査実行の仕組みについての実施本文。
+- あわせて読む：[権限スタックと内部階層](core_05_band_integrative.md#owner-non-relocation) および [前文 — 積極的所管登録](core_00_preamble.md#4-principles-definitions-and-rights)；[archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) 変更経路と編入について；[第十五章](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) 箱分類の分類体系を複製しない有効性試験について。
 
 </details>
 
@@ -187,7 +187,7 @@
 > - **一般の貢献および違反の測定**（貢献軸 / 違反軸） — [core_08_standing_assessment.md](core_08_standing_assessment.md) の**第八章**；**軌跡効果と統合** — [core_09_standing_integration.md](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) の**第九章**；
 > - **貢献軸および違反軸の数値箱** — **第八章 §7 統一尺度**。別々の記録と、検証済み影響のみによって制御される違反の箱；および適格な違反軸の箱 7、8、または 9 についての対応する**反憲法的不正行為の指定** — [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) の**第十章**；
 > - **フォーラム運用の作業流れと裁定手続** — **第十一章**および [corpus_forum.md](../../corpus_forum.md)；
-> - 改正、批准、および採択についての**手続および保管の有効性** — [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) の**第十五章**；および
+> - 改正、批准、および採択についての**手続および保管の有効性** — [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) の**第十五章**；および
 > - 審査実行についての**詳細な制度手続、人員の仕組み、および実施横断の共同構造の統合** — 指名された実施本文および [前文 — 積極的所管登録](core_00_preamble.md#4-principles-definitions-and-rights) に名指された所管章。
 >
 > 所管層は、憲法上の有効性標準を**第十三章と第十五章**の外へ移すものとして、貢献軸 / 違反軸の測定権限を**第八章 §7 統一尺度**の外へ移すものとして、または反憲法的不正行為の指定権限を**第十章**の外へ移すものとして読まれてはならない。第十章は数値箱を割り当てない。非操作性のアーキテクチャの通し読みは、[archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) を見よ。
@@ -196,8 +196,8 @@
 
 ---
 
-**前のファイル（なお英語）：** [core_12_governance.md](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
+**前のファイル（なお英語）：** [core_12_governance.md](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)
 
-**次のファイル（なお英語）：** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+**次のファイル（なお英語）：** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 
-**拘束力ある原文：** [core_13_non_regression.md](../../core_13_non_regression.md)
+**拘束力ある原文：** [core_13_non_regression.md](../../core_14_non_regression.md)

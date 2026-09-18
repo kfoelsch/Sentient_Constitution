@@ -451,7 +451,7 @@ def extract_direct_ch1_refs(
         label = match.group(1)
         section_match = re.search(r"§\s*([0-9]+(?:\.[0-9]+)*)", label)
         refs.add(section_match.group(1) if section_match else "linked")
-    # Ignore the fossil nickname "Chapter Twelve Chapter One §N".
+    # Ignore the fossil nickname "Chapter Thirteen Chapter One §N".
     for match in re.finditer(r"(?<!Twelve )Chapter One\s+§+\s*([0-9]+(?:\.[0-9]+)*)", text):
         num = match.group(1)
         if live_sections is not None and num not in live_sections:

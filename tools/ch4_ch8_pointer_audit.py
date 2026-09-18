@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Chapter Four ↔ Chapter Seven pointer discipline audit (advisory by default).
+"""Chapter Four ↔ Chapter Eight pointer discipline audit (advisory by default).
 
-Flags Chapter Seven sections that restate Chapter Four verification-substrate
+Flags Chapter Eight sections that restate Chapter Four verification-substrate
 rules without upstream citations to Chapters Two through Four.
 
-Rule: CH4-CH7-POINTER in tools/architecture/rule_registry.json.
+Rule: CH4-CH8-POINTER in tools/architecture/rule_registry.json.
 """
 
 from __future__ import annotations
@@ -18,12 +18,12 @@ _TOOLS = Path(__file__).resolve().parent
 if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
-CH7_PART_A = "core_07_a_system_alignment_certification_evaluation.md"
-CH7_PART_B = "core_07_b_system_alignment_certification_record_process.md"
-CH7_FILES = (CH7_PART_A, CH7_PART_B)
+CH8_PART_A = "core_08_a_system_alignment_certification_evaluation.md"
+CH8_PART_B = "core_08_b_system_alignment_certification_record_process.md"
+CH8_FILES = (CH8_PART_A, CH8_PART_B)
 CH4_FILE = "core_04_burden_traceability_verification.md"
 
-# Operative phrases owned by Chapter Four §§1–6; Ch7 should cite upstream, not restate.
+# Operative phrases owned by Chapter Four §§1–6; Ch8 should cite upstream, not restate.
 CH4_EXCLUSIVE_PATTERNS: list[tuple[str, re.Pattern[str]]] = [
     ("burden-allocation", re.compile(r"burden of (?:demonstrating )?compliance", re.I)),
     ("trace-artifact", re.compile(r"\btrace artifact\b", re.I)),
@@ -139,13 +139,13 @@ def _section_has_upstream_pointer(section_text: str) -> bool:
     return False
 
 
-def scan_ch7(root: Path) -> list[str]:
+def scan_ch8(root: Path) -> list[str]:
     findings: list[str] = []
 
-    for ch7_file in CH7_FILES:
-        path = root / ch7_file
+    for ch8_file in CH8_FILES:
+        path = root / ch8_file
         if not path.is_file():
-            findings.append(f"{ch7_file}: missing Chapter Seven file")
+            findings.append(f"{ch8_file}: missing Chapter Eight file")
             continue
 
         content = path.read_text(encoding="utf-8")
@@ -158,16 +158,16 @@ def scan_ch7(root: Path) -> list[str]:
         )
         if placement_match:
             placement = placement_match.group(1)
-            if "Verification substrate owner" not in placement and ch7_file == CH7_PART_A:
+            if "Verification substrate owner" not in placement and ch8_file == CH8_PART_A:
                 findings.append(
-                    f"{ch7_file}: corpus placement missing Verification substrate owner bullet"
+                    f"{ch8_file}: corpus placement missing Verification substrate owner bullet"
                 )
-            if not UPSTREAM_POINTER_RE.search(placement) and ch7_file == CH7_PART_A:
+            if not UPSTREAM_POINTER_RE.search(placement) and ch8_file == CH8_PART_A:
                 findings.append(
-                    f"{ch7_file}: corpus placement missing Chapters Two through Four upstream pointer"
+                    f"{ch8_file}: corpus placement missing Chapters Two through Four upstream pointer"
                 )
-        elif ch7_file == CH7_PART_A:
-            findings.append(f"{ch7_file}: corpus placement reader-guidance block not found")
+        elif ch8_file == CH8_PART_A:
+            findings.append(f"{ch8_file}: corpus placement reader-guidance block not found")
 
         for title, start_line, section_text in _split_sections(content):
             title_key = title.lower()
@@ -178,7 +178,7 @@ def scan_ch7(root: Path) -> list[str]:
                     section_text
                 ):
                     findings.append(
-                        f"{ch7_file}:{start_line}: §{title} restates Chapter Four "
+                        f"{ch8_file}:{start_line}: §{title} restates Chapter Four "
                         f"substrate ({label}) without upstream pointer to Chapters Two through Four"
                     )
 
@@ -187,7 +187,7 @@ def scan_ch7(root: Path) -> list[str]:
                     section_text
                 ):
                     findings.append(
-                        f"{ch7_file}:{start_line}: §{title} high-coupling verification language "
+                        f"{ch8_file}:{start_line}: §{title} high-coupling verification language "
                         "without upstream pointer to Chapters Two through Four"
                     )
 
@@ -205,9 +205,9 @@ def main() -> int:
     args = parser.parse_args()
     root = Path(args.root).resolve()
 
-    findings = scan_ch7(root)
+    findings = scan_ch8(root)
 
-    print("Chapter Four ↔ Chapter Seven pointer discipline audit:")
+    print("Chapter Four ↔ Chapter Eight pointer discipline audit:")
     if findings:
         print("- Result: FAIL" if args.strict else "- Result: ADVISORY")
         for item in findings:

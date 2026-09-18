@@ -96,7 +96,7 @@ Bu amaç altındaki yaprak tanımlar, açıkça daraltmadıkça ya da genişletm
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Aşağı: Gelişim ölçüm ailesi — yalnızca-bağlantı özeti; terim başına kademeler aşağıdaki tabloda bağlı yaprak tanımlarda yaşar.
-- Birlikte oku: [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) bütün-sistem etkileri, hayatta kalma tabanı teslimi ya da **Güvenli koşullar** maddi olarak kapsamdayken.
+- Birlikte oku: [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) bütün-sistem etkileri, hayatta kalma tabanı teslimi ya da **Güvenli koşullar** maddi olarak kapsamdayken.
 
 </details>
 

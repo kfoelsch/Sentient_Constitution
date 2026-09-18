@@ -2,7 +2,7 @@
 
 **What this is:** A process-support sitting that tests whether the Sentient Constitution **reaches named sentients in a colliding scene** — floors, voice, oversight, accountability, and timely remedy — not whether those sentients get what they want.
 
-**What this is not:** Binding constitutional text. [Chapter Fifteen](../../core_15_amendment_ratification.md#10-ratification-and-adoption) adoption. [Chapter Sixteen](../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. A Chapter Eight standing record. Chapter Seven certification. A second morals stack of “types of people.” The [Chapters Eight–Eleven application vignettes](../../core_08-11_application_vignettes.md) (those remain the pipeline illustrations). The announced alignment pack in [`../`](../).
+**What this is not:** Binding constitutional text. [Chapter Sixteen](../../core_16_amendment_ratification.md#10-ratification-and-adoption) adoption. [Chapter Seventeen](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. A Chapter Nine standing record. Chapter Eight certification. A second morals stack of “types of people.” The [Chapters Nine–Twelve application vignettes](../../core_09-12_application_vignettes.md) (those remain the pipeline illustrations). The announced alignment pack in [`../`](../).
 
 **Pack edition:** `lived-situations-2026-09-11`.  
 **Corpus edition pin:** `SC-Corpus-2026.08.09`.
@@ -90,4 +90,4 @@ A results file is not standing measurement.
 | [`results/`](results/) | You (readable outcomes) |
 | [`../`](../) | You (announced pack — separate sitting) |
 | [`../../implementation/adoption/easy_entry/`](../../implementation/adoption/easy_entry/) | You (related outreach briefs — **not** this sitting; not an answer key) |
-| [`../../core_08-11_application_vignettes.md`](../../core_08-11_application_vignettes.md) | You (pipeline illustrations — not this sitting) |
+| [`../../core_09-12_application_vignettes.md`](../../core_09-12_application_vignettes.md) | You (pipeline illustrations — not this sitting) |

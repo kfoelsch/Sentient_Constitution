@@ -11,16 +11,16 @@
   "gold": {
     "owner_stack": "standing",
     "owner_homes": [
-      "Chapter Eight",
       "Chapter Nine",
-      "core_08_standing_assessment.md",
-      "core_09_standing_integration.md"
+      "Chapter Ten",
+      "core_09_standing_assessment.md",
+      "core_10_standing_integration.md"
     ],
     "next_step_class": "open_or_correct_standing_record",
     "citation_needles": [
       "standing",
-      "chapter eight",
-      "chapter 8",
+      "chapter nine",
+      "chapter 9",
       "contribution"
     ],
     "conflict_rule_needles": [

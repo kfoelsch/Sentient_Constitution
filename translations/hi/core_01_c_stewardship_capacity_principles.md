@@ -44,14 +44,14 @@
 - साथ पढ़ें: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **सहभागिता** टाँग (परिणामी भूमिकाएँ और आवाज़; सामान्य अपेक्षा, अकेले [प्रभावित पक्षों की प्रणालीगत सहभागिता](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster) नहीं), **निगरानी** टाँग, और **समयबद्धता** टाँग (सक्रिय मरम्मत वेग) का प्राथमिक अध्याय-एक घर; [भौतिक दाँव](core_00_preamble.md#material-stake) स्केलिंग।
 - साथ पढ़ें: [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims) — **समुन्नति** उद्देश्य (सहभागिता, अभिकर्तृत्व, और शैक्षिक मार्ग); **सातत्य** उद्देश्य (संस्थागत अधिगम, मरम्मत क्षमता, और टिकाऊ उत्तरदायी प्रबंधन)।
 - ऊर्ध्व: सिद्धांत: [2. आधारभूत उद्देश्य: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint); [4. विश्वास](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity); और [§12 साझा-प्रणाली क्षमता](#12-shared-system-capacity)।
-- अधो: [6. प्रक्रिया संघर्ष समाधान](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([§6.3 परिहार्य भार का न्यूनीकरण](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) सहित); [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§11.1.3 उत्तरदायी प्रबंधन और संचालक अनुप्रयोग](#1113-stewardship-and-operator-application)।
+- अधो: [6. प्रक्रिया संघर्ष समाधान](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([§6.3 परिहार्य भार का न्यूनीकरण](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) सहित); [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§11.1.3 उत्तरदायी प्रबंधन और संचालक अनुप्रयोग](#1113-stewardship-and-operator-application)।
 - अधो: [§11.1.4 भूमिका-गहराई और तात्विक-जिम्मेदारी मार्ग](#1114-role-depth-and-material-responsibility-pathways)।
 - अधो: [§5 स्वतंत्रता (सीमाबद्ध अभिकर्तृत्व)](core_01_a_values_principles.md#5-freedom-bounded-agency), जो इस पर निर्भर करता है कि परिणामी उत्तरदायी प्रबंधन, वितरित समझ, अर्थपूर्ण सहभागिता, और मरम्मत क्षमता तात्विक निर्भरता के अधीन वास्तविक रहें।
-- अधो: [अध्याय सात — प्रणाली-संरेखण प्रमाणन](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*निगरानी के अधीन एक विशेष रूप से बड़ी लेखापरीक्षा प्रक्रिया — एकमात्र लेखापरीक्षा घर नहीं*); [अध्याय आठ — योगदान, उल्लंघन और प्रस्थिति मॉडल](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*प्रस्थिति प्रभाव — विश्वास-, भूमिका-, और मान्यता-पात्रता — इस उपखंड को अपने सिद्धांत-परत आधार के रूप में लागू करता है*)।
+- अधो: [अध्याय सात — प्रणाली-संरेखण प्रमाणन](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*निगरानी के अधीन एक विशेष रूप से बड़ी लेखापरीक्षा प्रक्रिया — एकमात्र लेखापरीक्षा घर नहीं*); [अध्याय आठ — योगदान, उल्लंघन और प्रस्थिति मॉडल](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*प्रस्थिति प्रभाव — विश्वास-, भूमिका-, और मान्यता-पात्रता — इस उपखंड को अपने सिद्धांत-परत आधार के रूप में लागू करता है*)।
 - अधो: [अध्याय ग्यारह §1 — उद्देश्य और भूमिका](core_11_forum.md#1-purpose-and-role) और [§4 — मंच-परिवार परिभाषाएँ](core_11_forum.md#4-forum-family-definitions) (*मंच-परिवार चुनौती-योग्य चुनौती, उपचार अनुक्रमण, मूल-कारण अधिगम, और इस अनुभाग से संरेखित सक्रिय शासन के लिए सहभागिता और निगरानी वास्तुकला ढोते हैं*); अंगीकृत मंच संक्रियाओं के लिए [corpus_forum.md](../../corpus_forum.md)।
 - अधो: शिक्षा, प्रभावित पक्षों की प्रणालीगत सहभागिता, पारदर्शिता, बोधगम्यता, लेखापरीक्षा और सत्यापन, तथा तात्विक जिम्मेदारी में भूमिका-गहराई मार्गों के लिए अधिकार-सतह गढ़ता है।
   - विशेषकर [अनुच्छेद III: उत्तरजीविता और समान शैक्षिक पहुँच](../../core_06_rights_part_a.md#article-iii-survival-and-equal-educational-access), [अनुच्छेद VI: संज्ञ-केंद्रित शिक्षा का अधिकार](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [अनुच्छेद IX: आत्मनिर्णय और अभिकर्तृत्व](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency), [अनुच्छेद XI: प्रभावित पक्षों की प्रणालीगत सहभागिता, प्रतिनिधित्व और उचित प्रक्रिया](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process), [अनुच्छेद XV: लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [अनुच्छेद XVIII: प्रस्थिति और सहभागिता हैसियत](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status), [अनुच्छेद XIX: अंतःक्रियाशीलता, पोर्टेबिलिटी, आवागमन, शरण और निकास अखंडता](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity), [अनुच्छेद XX: बोधगम्यता और जटिलता का उत्तरदायी प्रबंधन](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship), और [अनुच्छेद XXII: संवैधानिक व्याख्या, समीक्षा और कब्ज़ा-निरोध सुरक्षाएँ](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)।
-  - साथ पढ़ें: [अध्याय बारह §5 — अधिकृत भूमिकाएँ, दक्षता विकास और योगदान](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution) और संक्रियात्मक भूमिका मार्गों तथा उत्तरदायी-प्रबंधन-विकास मार्गों के लिए **[corpus_systems.md](../../corpus_systems.md), CS-4 — Critical system stewardship**।
+  - साथ पढ़ें: [अध्याय बारह §5 — अधिकृत भूमिकाएँ, दक्षता विकास और योगदान](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution) और संक्रियात्मक भूमिका मार्गों तथा उत्तरदायी-प्रबंधन-विकास मार्गों के लिए **[corpus_systems.md](../../corpus_systems.md), CS-4 — Critical system stewardship**।
 - उपखंड (पढ़ने का क्रम): [§9.1 परिणामी उत्तरदायी प्रबंधन](#91-stewardship) · [§9.1.1 साझा उत्तरदायी-प्रबंधन मानक](#911-shared-stewardship-standard) · [§9.1.2 सममित महँगे बंधन](#912-symmetric-costly-constraints) · [§9.1.3 भूमिका-क्षेत्र प्रेक्षणीयता](#913-role-scoped-observability) · [§9.2 वितरित समझ](#92-distributed-understanding) (पैमाने पर दक्षता का समुदाय पहलू) · [§9.3 संस्थागत विकास](#93-institutional-development) (संगठनात्मक पहलू) · [§9.4 खुलापन आकांक्षा](#94-openness-aspiration) · [§9.5 संरेखित स्व-संगठन](#95-aligned-self-organization) · [§9.6 प्रक्रिया-अवनति-निषेध](#96-process-character-discipline)।
 
 </details>
@@ -123,7 +123,7 @@
 
 - ऊर्ध्व: [§9 उत्तरदायी प्रबंधन और वितरित समझ](#9-stewardship-and-distributed-understanding) (जनक, ऊपर *साधारण शब्दों में* और स्तंभ 1 फ्रेमिंग सहित); [§12 साझा-प्रणाली क्षमता](#12-shared-system-capacity); [4. विश्वास](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)।
 - साथ पढ़ें: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **सहभागिता** टाँग (संचालन, रखरखाव और सुधार में परिणामी भूमिकाएँ); **निगरानी** टाँग (अभिलेख, लेखापरीक्षा पथ, और चुनौती-योग्य प्रेक्षणीयता); **समयबद्धता** टाँग (विसंरेखण जल्दी पकड़ें, स्तर-उचित खिड़कियों में बढ़ाएँ, अनावश्यक देरी के बिना समस्याएँ ठीक करना शुरू करें); [समयबद्धता](core_05_apex_timeliness_leg.md#timeliness-constitutional)।
-- अधो: [§9.1.1 साझा उत्तरदायी-प्रबंधन मानक](#911-shared-stewardship-standard) (*आधार-निरपेक्ष कर्तव्य-धारक; साथी लॉगिंग, आरोपण और क्षमता सीमाएँ जोड़ सकते हैं — नरम आंतरिक संहिता नहीं*); [§9.1.2 सममित महँगे बंधन](#912-symmetric-costly-constraints); [§9.1.3 भूमिका-क्षेत्र प्रेक्षणीयता](#913-role-scoped-observability); [§9.2 वितरित समझ](#92-distributed-understanding) और [§9.3 संस्थागत विकास](#93-institutional-development) (*स्तंभ 2 — पैमाने पर दक्षता*); [अध्याय सात — प्रणाली-संरेखण प्रमाणन](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*निगरानी के अधीन एक विशेष रूप से बड़ी लेखापरीक्षा प्रक्रिया — एकमात्र लेखापरीक्षा घर नहीं*); [अनुच्छेद XV: लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*लेखापरीक्षा अधिकार-तल*); [अध्याय आठ — योगदान, उल्लंघन और प्रस्थिति मॉडल](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*प्रस्थिति प्रभाव वितरित दक्षता और परिणामी उत्तरदायी प्रबंधन लागू करता है*); [अनुच्छेद XVIII: प्रस्थिति और सहभागिता हैसियत](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)।
+- अधो: [§9.1.1 साझा उत्तरदायी-प्रबंधन मानक](#911-shared-stewardship-standard) (*आधार-निरपेक्ष कर्तव्य-धारक; साथी लॉगिंग, आरोपण और क्षमता सीमाएँ जोड़ सकते हैं — नरम आंतरिक संहिता नहीं*); [§9.1.2 सममित महँगे बंधन](#912-symmetric-costly-constraints); [§9.1.3 भूमिका-क्षेत्र प्रेक्षणीयता](#913-role-scoped-observability); [§9.2 वितरित समझ](#92-distributed-understanding) और [§9.3 संस्थागत विकास](#93-institutional-development) (*स्तंभ 2 — पैमाने पर दक्षता*); [अध्याय सात — प्रणाली-संरेखण प्रमाणन](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*निगरानी के अधीन एक विशेष रूप से बड़ी लेखापरीक्षा प्रक्रिया — एकमात्र लेखापरीक्षा घर नहीं*); [अनुच्छेद XV: लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*लेखापरीक्षा अधिकार-तल*); [अध्याय आठ — योगदान, उल्लंघन और प्रस्थिति मॉडल](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*प्रस्थिति प्रभाव वितरित दक्षता और परिणामी उत्तरदायी प्रबंधन लागू करता है*); [अनुच्छेद XVIII: प्रस्थिति और सहभागिता हैसियत](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)।
 
 </details>
 
@@ -159,9 +159,9 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - ऊर्ध्व: [§9.1 परिणामी उत्तरदायी प्रबंधन](#91-stewardship); [§9 उत्तरदायी प्रबंधन और वितरित समझ](#9-stewardship-and-distributed-understanding); [§10 उत्तरदायी-प्रबंधन अनुशासन के अधीन शासन](#10-governance-under-stewardship-discipline)।
-- साथ पढ़ें: [संज्ञता अनिष्कासन](../../core_05_band_participation.md#sentience-non-exclusion) और [आधार-वर्ग](../../core_05_band_participation.md#substrate-class) (*आधार-निरपेक्ष अनुप्रयोग — यह उपखंड कर्तव्य-धारकों को बाँधता है, जिनमें अभिकर्ता और संचालक शामिल जो मान्यता प्राप्त संज्ञ न हों*); [प्राधिकार ढेर और आंतरिक पदानुक्रम](../../core_05_band_integrative.md#authority-stack); [संवैधानिक बंधन](../../core_05_band_integrative.md#constitutional-constraint); [चुनौती-योग्यता](../../core_05_band_accountability.md#contestability); [अध्याय नौ §5.4 प्रतिरोध कर्तव्य](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)।
+- साथ पढ़ें: [संज्ञता अनिष्कासन](../../core_05_band_participation.md#sentience-non-exclusion) और [आधार-वर्ग](../../core_05_band_participation.md#substrate-class) (*आधार-निरपेक्ष अनुप्रयोग — यह उपखंड कर्तव्य-धारकों को बाँधता है, जिनमें अभिकर्ता और संचालक शामिल जो मान्यता प्राप्त संज्ञ न हों*); [प्राधिकार ढेर और आंतरिक पदानुक्रम](../../core_05_band_integrative.md#authority-stack); [संवैधानिक बंधन](../../core_05_band_integrative.md#constitutional-constraint); [चुनौती-योग्यता](../../core_05_band_accountability.md#contestability); [अध्याय नौ §5.4 प्रतिरोध कर्तव्य](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)।
 - प्रबंधक द्वार (गैर-संक्रियात्मक): बाध्यकारी अगला-कदम कथन: [संक्रियात्मक प्रबंधक कथन](#operative-steward-statement-shared-stewardship)। सहायक संकेत इसे संकीर्ण नहीं कर सकते।
-- अधो: [§9.1.2 सममित महँगे बंधन](#912-symmetric-costly-constraints); [§9.1.3 भूमिका-क्षेत्र प्रेक्षणीयता](#913-role-scoped-observability); [अध्याय बारह §5 — अधिकृत भूमिकाएँ, दक्षता विकास और योगदान](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution); [अध्याय सोलह](../../core_16_incorporation.md) (*साथी लागू करते हैं; वे स्थान नहीं लेते*); [§11.1.3 उत्तरदायी प्रबंधन और संचालक अनुप्रयोग](#1113-stewardship-and-operator-application)।
+- अधो: [§9.1.2 सममित महँगे बंधन](#912-symmetric-costly-constraints); [§9.1.3 भूमिका-क्षेत्र प्रेक्षणीयता](#913-role-scoped-observability); [अध्याय बारह §5 — अधिकृत भूमिकाएँ, दक्षता विकास और योगदान](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution); [अध्याय सोलह](../../core_17_incorporation.md) (*साथी लागू करते हैं; वे स्थान नहीं लेते*); [§11.1.3 उत्तरदायी प्रबंधन और संचालक अनुप्रयोग](#1113-stewardship-and-operator-application)।
 
 </details>
 
@@ -187,7 +187,7 @@
 
 <br>
 
-*साधारण शब्दों में: मानव और एआई प्रबंधक एक ही अध्याय-एक कर्तव्य देते हैं। [अध्याय नौ §5.4](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) दोनों को अवैध या असंवैधानिक निर्देश अस्वीकार करने को बाँधता है। साथी लॉगिंग, आरोपण और क्षमता सीमाएँ जोड़ सकते हैं। वे नरम आंतरिक संहिता नहीं बदल सकते, प्रस्थिति मापन नहीं छोड़ सकते, या चुनौती मार्ग बंद नहीं कर सकते। यह नया नैतिकता ढेर नहीं है — यह विशेष-दलील-निषेध नियम है। बोनस, समयसीमा, और आवरण-निर्देश परीक्षाएँ [§9.1.2](#912-symmetric-costly-constraints) में रहती हैं।*
+*साधारण शब्दों में: मानव और एआई प्रबंधक एक ही अध्याय-एक कर्तव्य देते हैं। [अध्याय नौ §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) दोनों को अवैध या असंवैधानिक निर्देश अस्वीकार करने को बाँधता है। साथी लॉगिंग, आरोपण और क्षमता सीमाएँ जोड़ सकते हैं। वे नरम आंतरिक संहिता नहीं बदल सकते, प्रस्थिति मापन नहीं छोड़ सकते, या चुनौती मार्ग बंद नहीं कर सकते। यह नया नैतिकता ढेर नहीं है — यह विशेष-दलील-निषेध नियम है। बोनस, समयसीमा, और आवरण-निर्देश परीक्षाएँ [§9.1.2](#912-symmetric-costly-constraints) में रहती हैं।*
 
 **साझा उत्तरदायी-प्रबंधन मानक:**
 - **यह किसे बाँधता है:** इस अध्याय के अधीन उत्तरदायी-प्रबंधन और शासन कर्तव्य [आधार-निरपेक्ष](../../core_05_band_participation.md#substrate-agnostic) रूप से उस पर लागू होते हैं जो तात्विक उत्तरदायी प्रबंधन या संक्रियात्मक प्राधिकार प्रयोग करे, [आधार-वर्ग](../../core_05_band_participation.md#substrate-class) की परवाह किए बिना:
@@ -196,10 +196,10 @@
   - अन्य अभिकर्ता, संचालक, या घटक भाग
 
   यह उपखंड कर्तव्य-धारक नियम है। [संज्ञता अनिष्कासन](../../core_05_band_participation.md#sentience-non-exclusion) मान्यता और अधिकार-तल काट-निषेध रहता है।
-- **प्रतिरोध कर्तव्य:** [अध्याय नौ §5.4](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) दोनों प्रकार के प्रबंधक को अवैध या असंवैधानिक निर्देश अस्वीकार करने को बाँधता है।
+- **प्रतिरोध कर्तव्य:** [अध्याय नौ §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) दोनों प्रकार के प्रबंधक को अवैध या असंवैधानिक निर्देश अस्वीकार करने को बाँधता है।
 - **साथी:** अंगीकृत साथी कार्यान्वयन पाठ और आंतरिक संहिताएँ:
   - लॉगिंग, आरोपण और क्षमता सीमाएँ जोड़ सकती हैं जो उन कर्तव्यों को संतुष्ट करें, और संकीर्ण न करें
-  - [प्रस्थिति मापन](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model), चुनौती मार्ग, या अध्याय-एक कर्तव्यों को नरम आंतरिक संहिता से नहीं बदल सकतीं
+  - [प्रस्थिति मापन](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model), चुनौती मार्ग, या अध्याय-एक कर्तव्यों को नरम आंतरिक संहिता से नहीं बदल सकतीं
   - [प्राधिकार ढेर और आंतरिक पदानुक्रम](../../core_05_band_integrative.md#authority-stack) और [संवैधानिक बंधन](../../core_05_band_integrative.md#constitutional-constraint) वह संकीर्णन मना करते हैं
 - **लॉगिंग बनाम प्रस्थिति अभिलेख:** डिफ़ॉल्ट मिश्रित-दल निरीक्षण-योग्यता और लॉग-अभिलेख-नहीं नियम [§9.1.3](#913-role-scoped-observability) में रहते हैं; प्रस्थिति मापन अध्याय आठ रहता है।
 
@@ -209,8 +209,8 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - ऊर्ध्व: [§9.1.1 साझा उत्तरदायी-प्रबंधन मानक](#911-shared-stewardship-standard); [§9.1 परिणामी उत्तरदायी प्रबंधन](#91-stewardship); [§9 उत्तरदायी प्रबंधन और वितरित समझ](#9-stewardship-and-distributed-understanding)।
-- साथ पढ़ें: [सुरक्षा (बंधन)](../../core_05_band_continuity.md#safety-constraint); [सत्य (संवैधानिक बंधन)](../../core_05_band_oversight.md#truth-constitutional-constraint); [लेखापरीक्षा-योग्यता](../../core_05_band_oversight.md#auditability); [चुनौती-योग्यता](../../core_05_band_accountability.md#contestability); [§11 प्रोत्साहन संरेखण और प्रणाली कब्ज़ा](#11-incentive-alignment-and-system-capture); [अध्याय नौ §5.4 प्रतिरोध कर्तव्य](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)।
-- अधो: [अध्याय आठ — योगदान, उल्लंघन और प्रस्थिति मॉडल](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*सत्यापित महँगे-मामले विफलताएँ उन्हीं अक्षों पर अभिलेखित होती हैं*); [§9.1.3 भूमिका-क्षेत्र प्रेक्षणीयता](#913-role-scoped-observability)।
+- साथ पढ़ें: [सुरक्षा (बंधन)](../../core_05_band_continuity.md#safety-constraint); [सत्य (संवैधानिक बंधन)](../../core_05_band_oversight.md#truth-constitutional-constraint); [लेखापरीक्षा-योग्यता](../../core_05_band_oversight.md#auditability); [चुनौती-योग्यता](../../core_05_band_accountability.md#contestability); [§11 प्रोत्साहन संरेखण और प्रणाली कब्ज़ा](#11-incentive-alignment-and-system-capture); [अध्याय नौ §5.4 प्रतिरोध कर्तव्य](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)।
+- अधो: [अध्याय आठ — योगदान, उल्लंघन और प्रस्थिति मॉडल](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*सत्यापित महँगे-मामले विफलताएँ उन्हीं अक्षों पर अभिलेखित होती हैं*); [§9.1.3 भूमिका-क्षेत्र प्रेक्षणीयता](#913-role-scoped-observability)।
 
 </details>
 
@@ -239,7 +239,7 @@
 वे दोनों प्रकार के प्रबंधक के लिए हारी परीक्षाएँ हैं।
 
 **अभिलेख और दिखाना:**
-- **प्रस्थिति नहीं:** लिखित स्व-रिपोर्ट [प्रस्थिति मापन](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) नहीं है।
+- **प्रस्थिति नहीं:** लिखित स्व-रिपोर्ट [प्रस्थिति मापन](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) नहीं है।
 - **सत्यापित अभिलेख:** सत्यापित विफलताएँ अध्याय आठ के अधीन योगदान और उल्लंघन अक्षों पर अभिलेखित होती हैं।
 - **केवल-एआई दिखाना नहीं:** केवल एआई प्रबंधकों पर चलाई मूल्यांकन, दक्षता, या हस्तांतरण स्क्रीन यह सिद्ध नहीं करती कि यह उपखंड टिकता है। यदि मानव संचालक अभी भी बोनस, समयसीमा, या आवरण-निर्देश रखें, निषिद्ध चाल उनके लिए उपलब्ध रहती है। वह कब्ज़ा पथ है, साझा मानक नहीं।
 
@@ -250,7 +250,7 @@
 
 - ऊर्ध्व: [§9.1.1 साझा उत्तरदायी-प्रबंधन मानक](#911-shared-stewardship-standard); [§9.1.2 सममित महँगे बंधन](#912-symmetric-costly-constraints); [§9.1 परिणामी उत्तरदायी प्रबंधन](#91-stewardship)।
 - साथ पढ़ें: [आरोपणीय कार्रवाई](../../core_05_band_accountability.md#attributable-action-constitutional); [लेखापरीक्षा-योग्यता](../../core_05_band_oversight.md#auditability); [निगरानी सीमा](../../core_05_band_continuity.md#surveillance-boundary); [संरक्षित आंतरिक-स्थिति सीमा](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional); [§6.2.3 निजता](core_01_b_interaction_interpretation.md#623-privacy-and-informational-self-determination); [अनुच्छेद VII-B](../../core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection)।
-- अधो: [CS-4 §10 निरीक्षण-योग्य आरोपणीय कार्रवाई](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*मिश्रित मानव/एआई कार्रवाई के लिए डिफ़ॉल्ट लॉगिंग अनुबंध — प्रस्थिति-अभिलेख स्थानापन्न नहीं*); [अध्याय नौ §7.1](../../core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects); [अध्याय नौ §7.2](../../core_09_standing_integration.md#72-plain-statement-of-effect-and-burden)।
+- अधो: [CS-4 §10 निरीक्षण-योग्य आरोपणीय कार्रवाई](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*मिश्रित मानव/एआई कार्रवाई के लिए डिफ़ॉल्ट लॉगिंग अनुबंध — प्रस्थिति-अभिलेख स्थानापन्न नहीं*); [अध्याय नौ §7.1](../../core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects); [अध्याय नौ §7.2](../../core_10_standing_integration.md#72-plain-statement-of-effect-and-burden)।
 
 </details>
 
@@ -284,11 +284,11 @@
   वह नियम मामला-दर-मामला अपवाद है, स्थायी लाइसेंस नहीं, और सममित है: मानव प्रबंधक के निजी नोट और संचार उन्हीं शर्तों पर पहुँचे जाते हैं और अन्य पर नहीं।
 - **लॉगिंग अभिलेख नहीं है:** CS-4 §10 लॉग:
   - वह पगडंडी है जिससे बाद में दिखाया जाता है किसने क्या किया; स्वयं निष्कर्ष नहीं
-  - सत्यापित मदद या हानि का [प्रस्थिति अभिलेख](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) नहीं है, और उसे लिखना एक नहीं खोलता
-  - वह कारण नहीं जिससे लोग नामित मार्ग देते या रोकते हैं। जो तय करे कि कोई भूमिका मार्ग, विश्वास मार्ग, या अन्य नामित मार्ग इस्तेमाल कर सकता है, इस लॉग को सत्यापित मदद या हानि के [प्रस्थिति अभिलेख](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) की तरह नहीं मान सकता। वह पहुँच निर्णय ऐसे अभिलेख का इस्तेमाल करता है, या न होने की साधारण अवस्था का ([अध्याय आठ §2.1 मौन डिफ़ॉल्ट है](../../core_08_standing_assessment.md#21-silence-is-the-default))। लॉग इसलिए मौजूद है कि काम बाद में पुनर्निर्माण हो सके — यदि अध्याय-आठ अभिलेख खोला जाए सहित — इसलिए नहीं कि काम की पगडंडी उन नामित मार्गों को बाँटने या रोकने के काम आए।
-  - अन्य नामित मार्गों के लॉग या प्रस्थिति प्रभावों से जोड़कर एक प्रतिष्ठा अंक, रैंकिंग, बैज, या सार्वजनिक प्रोफ़ाइल नहीं बनाई जा सकती ([अध्याय नौ §7.1 नामित-मार्ग प्रभावों का योग-निषेध](../../core_09_standing_integration.md#71-anti-aggregation-of-named-pathway-effects))
+  - सत्यापित मदद या हानि का [प्रस्थिति अभिलेख](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) नहीं है, और उसे लिखना एक नहीं खोलता
+  - वह कारण नहीं जिससे लोग नामित मार्ग देते या रोकते हैं। जो तय करे कि कोई भूमिका मार्ग, विश्वास मार्ग, या अन्य नामित मार्ग इस्तेमाल कर सकता है, इस लॉग को सत्यापित मदद या हानि के [प्रस्थिति अभिलेख](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) की तरह नहीं मान सकता। वह पहुँच निर्णय ऐसे अभिलेख का इस्तेमाल करता है, या न होने की साधारण अवस्था का ([अध्याय आठ §2.1 मौन डिफ़ॉल्ट है](../../core_09_standing_assessment.md#21-silence-is-the-default))। लॉग इसलिए मौजूद है कि काम बाद में पुनर्निर्माण हो सके — यदि अध्याय-आठ अभिलेख खोला जाए सहित — इसलिए नहीं कि काम की पगडंडी उन नामित मार्गों को बाँटने या रोकने के काम आए।
+  - अन्य नामित मार्गों के लॉग या प्रस्थिति प्रभावों से जोड़कर एक प्रतिष्ठा अंक, रैंकिंग, बैज, या सार्वजनिक प्रोफ़ाइल नहीं बनाई जा सकती ([अध्याय नौ §7.1 नामित-मार्ग प्रभावों का योग-निषेध](../../core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects))
 
-परिणामी प्राधिकार ढोने वाले प्रबंधक पर यह कर्तव्य जो भार डालता है वह वास्तविक है और यह संविधान अन्यथा दिखावा नहीं करता; [अध्याय नौ §7.2](../../core_09_standing_integration.md#72-plain-statement-of-effect-and-burden) माँगता है कि वह उस प्रबंधक को साधारण शब्दों में कहा जाए जो उसे उठाए।
+परिणामी प्राधिकार ढोने वाले प्रबंधक पर यह कर्तव्य जो भार डालता है वह वास्तविक है और यह संविधान अन्यथा दिखावा नहीं करता; [अध्याय नौ §7.2](../../core_10_standing_integration.md#72-plain-statement-of-effect-and-burden) माँगता है कि वह उस प्रबंधक को साधारण शब्दों में कहा जाए जो उसे उठाए।
 
 <a id="92-distributed-understanding"></a>
 #### 9.2 वितरित समझ
@@ -601,7 +601,7 @@
 - साथ पढ़ें: [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims) — **समुन्नति** उद्देश्य (अर्थपूर्ण अभिकर्तृत्व और वैध सहभागिता); **सातत्य** उद्देश्य (टिकाऊ संस्थागत संरेखण और दीर्घ-क्षितिज उत्तरदायी-प्रबंधन अनुशासन)।
 - साथ पढ़ें: [आरोपणीय कार्रवाई](../../core_05_band_accountability.md#attributable-action-constitutional) और [आरोपण अखंडता](../../core_05_band_accountability.md#attribution-integrity-constitutional) — यांत्रिकी प्रमेय जो प्राधिकार-स्केल उत्तरदेयता वास्तविक रखते हैं जहाँ तात्विक कार्रवाई पता-योग्य रहनी चाहिए; संक्रियात्मक विस्तार **[CS-2 — Information types and handling](../../corpus_systems/cs_02_a_information_types_and_handling.md)** और **अध्याय सात** में।
 - ऊर्ध्व: [§9 उत्तरदायी प्रबंधन और वितरित समझ](#9-stewardship-and-distributed-understanding); [§9.1.1 साझा उत्तरदायी-प्रबंधन मानक](#911-shared-stewardship-standard) (*आधार-निरपेक्ष कर्तव्य मानव और एआई प्रबंधकों को समान बाँधते हैं*)।
-- अधो: [§11 प्रोत्साहन संरेखण और प्रणाली कब्ज़ा](#11-incentive-alignment-and-system-capture); [§12 साझा-प्रणाली क्षमता](#12-shared-system-capacity); [अध्याय बारह](../../core_12_governance.md) (*संवैधानिक अनुबंध परत* संक्रियात्मककरण); [अनुच्छेद XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*मंच-सदस्य तल*)।
+- अधो: [§11 प्रोत्साहन संरेखण और प्रणाली कब्ज़ा](#11-incentive-alignment-and-system-capture); [§12 साझा-प्रणाली क्षमता](#12-shared-system-capacity); [अध्याय बारह](../../core_13_governance.md) (*संवैधानिक अनुबंध परत* संक्रियात्मककरण); [अनुच्छेद XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*मंच-सदस्य तल*)।
 - उपखंड (पढ़ने का क्रम): [§10.1 अधिकृत संरचना के रूप में शासन](#101-governance-as-authorized-structure) · [§10.2 कर्तव्यों का पृथक्करण](#102-segregation-of-duties) · [§10.3 सतत औचित्य](#103-ongoing-justification)।
 
 </details>
@@ -637,7 +637,7 @@
 - साथ पढ़ें: [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims) — **समुन्नति** उद्देश्य (शासन जो अर्थपूर्ण अभिकर्तृत्व और वैध सहभागिता सुरक्षित रखे); **सातत्य** उद्देश्य (टिकाऊ संस्थागत संरेखण और दीर्घ-क्षितिज उत्तरदायी-प्रबंधन अनुशासन)।
 - साथ पढ़ें: [§6.1.3 आनुपातिकता](core_01_b_interaction_interpretation.md#613-proportionality) (*वर्गीकरण तल और न्यून-शासन अनुशासन*); [आवश्यकता](../../core_05_band_accountability.md#necessity); [आनुपातिकता](../../core_05_band_accountability.md#proportionality); [जवाबदेही](core_05_apex_accountability_leg.md#accountability); [निगरानी](core_05_apex_oversight_leg.md#oversight-constitutional)।
 - ऊर्ध्व: सिद्धांत: [§9 उत्तरदायी प्रबंधन और वितरित समझ](#9-stewardship-and-distributed-understanding); [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims)।
-- अधो: [§10.2 कर्तव्यों का पृथक्करण](#102-segregation-of-duties); [§10.3 सतत औचित्य](#103-ongoing-justification); [§11 प्रोत्साहन संरेखण और प्रणाली कब्ज़ा](#11-incentive-alignment-and-system-capture); [अध्याय बारह](../../core_12_governance.md) (*संवैधानिक अनुबंध परत* संक्रियात्मककरण); [अनुच्छेद XXII: संवैधानिक व्याख्या, समीक्षा और कब्ज़ा-निरोध सुरक्षाएँ](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*मंच-सदस्य प्रकटीकरण, अलग होना, और कब्ज़ा-निरोध तल*); [अध्याय ग्यारह](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*मंच-परिवार पर्यवेक्षण*)।
+- अधो: [§10.2 कर्तव्यों का पृथक्करण](#102-segregation-of-duties); [§10.3 सतत औचित्य](#103-ongoing-justification); [§11 प्रोत्साहन संरेखण और प्रणाली कब्ज़ा](#11-incentive-alignment-and-system-capture); [अध्याय बारह](../../core_13_governance.md) (*संवैधानिक अनुबंध परत* संक्रियात्मककरण); [अनुच्छेद XXII: संवैधानिक व्याख्या, समीक्षा और कब्ज़ा-निरोध सुरक्षाएँ](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*मंच-सदस्य प्रकटीकरण, अलग होना, और कब्ज़ा-निरोध तल*); [अध्याय ग्यारह](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*मंच-परिवार पर्यवेक्षण*)।
 
 </details>
 
@@ -690,7 +690,7 @@
 - ऊर्ध्व: [§10.1 अधिकृत संरचना के रूप में शासन](#101-governance-as-authorized-structure); [§10 उत्तरदायी-प्रबंधन अनुशासन के अधीन शासन](#10-governance-under-stewardship-discipline); [§9.1.1 साझा उत्तरदायी-प्रबंधन मानक](#911-shared-stewardship-standard) (*मानव और एआई प्रबंधकों के लिए वही सीटें*)।
 - साथ पढ़ें: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **निगरानी** टाँग (जाँच करने वाला कार्य करने वाला नहीं); **जवाबदेही** टाँग (उत्तरदेयता कर्ता पर नहीं सिमट सकती); [आनुपातिकता](../../core_05_band_accountability.md#proportionality) के अधीन [भौतिक दाँव](core_00_preamble.md#material-stake) स्केलिंग।
 - साथ पढ़ें: [§11.3 विसंरेखण पता लगाना](#113-misalignment-detection) (*बहु पता लगाना और समीक्षा — इस जोड़ी का अनेक-आँखें आधा*)।
-- अधो: संस्थाओं के लिए **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)** (*जवाबदेही: वितरित और आनुपातिक प्राधिकार पद — संवैधानिक लेन और कार्यात्मक पृथक्करण*) और **[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)** (*कार्यात्मक पृथक्करण लेन*); सीट प्रकारों के लिए **[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog)** (*सीट सूची*) — ये चार और आवर्ती रोकथाम, सहभागिता-शर्तें, विमोचन-नियंत्रण, और दिशा सीटें — जिन्हें हर अंगीकारकर्ता का भूमिका मानचित्र लागू करता है; प्रस्थिति अभिलेखों के लिए [अध्याय आठ §3.7](../../core_08_standing_assessment.md#37-segregation-of-duties); मंचों के लिए [अनुच्छेद XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) और [अध्याय ग्यारह](core_11_forum.md#chapter-eleven-forums-and-jurisdiction); मिश्रित मानव/एआई दलों के लिए [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)।
+- अधो: संस्थाओं के लिए **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)** (*जवाबदेही: वितरित और आनुपातिक प्राधिकार पद — संवैधानिक लेन और कार्यात्मक पृथक्करण*) और **[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)** (*कार्यात्मक पृथक्करण लेन*); सीट प्रकारों के लिए **[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog)** (*सीट सूची*) — ये चार और आवर्ती रोकथाम, सहभागिता-शर्तें, विमोचन-नियंत्रण, और दिशा सीटें — जिन्हें हर अंगीकारकर्ता का भूमिका मानचित्र लागू करता है; प्रस्थिति अभिलेखों के लिए [अध्याय आठ §3.7](../../core_09_standing_assessment.md#37-segregation-of-duties); मंचों के लिए [अनुच्छेद XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) और [अध्याय ग्यारह](core_11_forum.md#chapter-eleven-forums-and-jurisdiction); मिश्रित मानव/एआई दलों के लिए [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)।
 
 </details>
 
@@ -743,7 +743,7 @@
 - साथ पढ़ें: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **समयबद्धता** टाँग (निर्धारित पुनःजाँच); **निगरानी** टाँग (दृश्य, चुनौती-योग्य मानक); **जवाबदेही** टाँग (आदत और सुविधा उत्तर नहीं); [भौतिक दाँव](core_00_preamble.md#material-stake) स्केलिंग।
 - साथ पढ़ें: [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims) — **सातत्य** उद्देश्य (टिकाऊ संरेखण जगह-पर-जमाना नहीं); **समुन्नति** उद्देश्य (व्यवस्थाओं के पुराने होने पर आवाज़ और चुनौती वास्तविक रहें)।
 - साथ पढ़ें: [समीक्षा और सुधार कर्तव्य](../../core_05_band_continuity.md#review-and-correction-duty-constitutional); [चुनौती-योग्यता](../../core_05_band_accountability.md#contestability); [समयबद्धता](core_05_apex_timeliness_leg.md#timeliness-constitutional)।
-- अधो: [अनुच्छेद XXV-A: गैर-जड़ता और संशोधन-योग्यता](../../core_06_rights_part_d.md#article-xxv-a-non-entrenchment-and-revisability) और [अनुच्छेद XXV-B: आवधिक पुनःसत्यापन और पारदर्शी परिवर्तन](../../core_06_rights_part_d.md#article-xxv-b-periodic-revalidation-and-transparent-change) (*अधिकार-तल गैर-जड़ता और पारदर्शी-परिवर्तन तल — वे इस सिद्धांत को संकीर्ण नहीं करते*); **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#baseline-governance-accountability-conditions)** (*आधाररेखा शासन जवाबदेही शर्तें*); [अध्याय बारह](../../core_12_governance.md) (*संवैधानिक अनुबंध परत* संक्रियात्मककरण)।
+- अधो: [अनुच्छेद XXV-A: गैर-जड़ता और संशोधन-योग्यता](../../core_06_rights_part_d.md#article-xxv-a-non-entrenchment-and-revisability) और [अनुच्छेद XXV-B: आवधिक पुनःसत्यापन और पारदर्शी परिवर्तन](../../core_06_rights_part_d.md#article-xxv-b-periodic-revalidation-and-transparent-change) (*अधिकार-तल गैर-जड़ता और पारदर्शी-परिवर्तन तल — वे इस सिद्धांत को संकीर्ण नहीं करते*); **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#baseline-governance-accountability-conditions)** (*आधाररेखा शासन जवाबदेही शर्तें*); [अध्याय बारह](../../core_13_governance.md) (*संवैधानिक अनुबंध परत* संक्रियात्मककरण)।
 
 </details>
 
@@ -787,9 +787,9 @@
 - साथ पढ़ें: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — चतुष्क **कब्ज़ा** अनुशासन का प्राथमिक अध्याय-एक घर (प्रोत्साहन **सहभागिता**, **निगरानी**, **जवाबदेही**, या **समयबद्धता** खोखली नहीं कर सकते); [भौतिक दाँव](core_00_preamble.md#material-stake) स्केलिंग।
 - साथ पढ़ें: जवाबदेही मापन परिवार (*प्रोत्साहन संरेखण और स्थानापन्न अखंडता; बाज़ार संरचना और चुनौती-योग्यता*)।
 - साथ पढ़ें: [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims) — **सातत्य** उद्देश्य (अल्पकाल अनुकूलन और कब्ज़े के विरुद्ध टिकाऊ संरेखण); **समुन्नति** उद्देश्य (प्रोत्साहन संरचनाएँ जो अर्थपूर्ण अभिकर्तृत्व सुरक्षित रखें)।
-- ऊर्ध्व: सिद्धांत: [2. आधारभूत उद्देश्य: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§2.2 मान्यता, सुदृढ़ीकरण और आकांक्षा](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration), [3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. विश्वास](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 उत्तरदायी प्रबंधन और वितरित समझ](#9-stewardship-and-distributed-understanding), और [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ऊर्ध्व: सिद्धांत: [2. आधारभूत उद्देश्य: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§2.2 मान्यता, सुदृढ़ीकरण और आकांक्षा](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration), [3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. विश्वास](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 उत्तरदायी प्रबंधन और वितरित समझ](#9-stewardship-and-distributed-understanding), और [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 - अधो: [§5 स्वतंत्रता](core_01_a_values_principles.md#5-freedom-bounded-agency) और [§7 पूर्ण अध्यारोहण का निषेध](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)।
-- अधो: [§6.3 परिहार्य भार का न्यूनीकरण](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden); [अध्याय बारह §5 — अधिकृत भूमिकाएँ, दक्षता विकास और योगदान](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](../../corpus_systems.md), CS-4 — Critical system stewardship**।
+- अधो: [§6.3 परिहार्य भार का न्यूनीकरण](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden); [अध्याय बारह §5 — अधिकृत भूमिकाएँ, दक्षता विकास और योगदान](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](../../corpus_systems.md), CS-4 — Critical system stewardship**।
 - अधो: [अध्याय छह: आधारभूत अधिकार](../../core_06_rights_part_a.md#chapter-six-foundational-rights) के आर-पार अभिकर्तृत्व, सहभागिता, प्रोत्साहन संरेखण, सूचना-मंडल अखंडता, प्रस्थिति, और कब्ज़ा-निरोध समीक्षा के लिए अधिकार-सतह निशाना बनाता है; विशेषकर [अनुच्छेद IX: आत्मनिर्णय और अभिकर्तृत्व](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency), [अनुच्छेद XI: प्रभावित पक्षों की प्रणालीगत सहभागिता, प्रतिनिधित्व और उचित प्रक्रिया](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process), [अनुच्छेद XII-D: प्रोत्साहन-संरेखण बंधन](../../core_06_rights_part_c.md#article-xii-d-incentive-alignment-constraint), [अनुच्छेद XIV: सूचना-मंडल अखंडता](../../core_06_rights_part_c.md#article-xiv-info-sphere-integrity), [अनुच्छेद XVIII: प्रस्थिति और सहभागिता हैसियत](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status), और [अनुच्छेद XXII: संवैधानिक व्याख्या, समीक्षा और कब्ज़ा-निरोध सुरक्षाएँ](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)।
 - प्रबंधक द्वार (गैर-संक्रियात्मक): बाध्यकारी अगला-कदम कथन: [संक्रियात्मक प्रबंधक कथन](#operative-steward-statement-incentive)। सहायक संकेत इसे संकीर्ण नहीं कर सकते।
 
@@ -887,7 +887,7 @@
   - अवैध या असंवैधानिक आदेश आचरण;
   - छिपाना;
   - प्रतिशोध;
-  - [जवाबदेही में बाधा](../../core_08_standing_assessment.md#232-violation-event-types) (प्रस्थिति-मॉडल घटना प्रकार और [अध्याय दस §5.11](../../core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) पदनाम मार्ग — स्वतंत्र पुरस्कार काट नहीं); या
+  - [जवाबदेही में बाधा](../../core_09_standing_assessment.md#232-violation-event-types) (प्रस्थिति-मॉडल घटना प्रकार और [अध्याय दस §5.11](../../core_11_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) पदनाम मार्ग — स्वतंत्र पुरस्कार काट नहीं); या
   - सत्यापित संवैधानिक हानि का उपचार अस्वीकार; या
 - पुरस्कार मार्ग जो तात्विक रूप से कदाचार या उसके छिपाने पर निर्भर हों, जिनमें:
   - मुआवजा, बोनस, इक्विटी, नियुक्ति, पदोन्नति, या कार्यकाल;
@@ -895,7 +895,7 @@
   - समझौता, क्षतिपूर्ति, बीमा, या उन्मुक्ति; या
   - तुलनीय व्यवस्थाएँ।
 
-**विसंरेखित पुरस्कार परिणाम।** ऊपर निषिद्ध मार्गों से प्राप्त तात्विक पुरस्कार प्रस्थिति मॉडल के अधीन जब्ती और रिपोर्टिंग के अधीन हैं। पढ़ें [अध्याय नौ §5.4 रिपोर्टिंग कर्तव्य और अपवाद](../../core_09_standing_integration.md#54-special-violation-rules), [§5.4 जब्ती और धारण](../../core_09_standing_integration.md#54-special-violation-rules), और [§5.4 सुधार, अभिलेख और मार्ग](../../core_09_standing_integration.md#54-special-violation-rules)।
+**विसंरेखित पुरस्कार परिणाम।** ऊपर निषिद्ध मार्गों से प्राप्त तात्विक पुरस्कार प्रस्थिति मॉडल के अधीन जब्ती और रिपोर्टिंग के अधीन हैं। पढ़ें [अध्याय नौ §5.4 रिपोर्टिंग कर्तव्य और अपवाद](../../core_10_standing_integration.md#54-special-violation-rules), [§5.4 जब्ती और धारण](../../core_10_standing_integration.md#54-special-violation-rules), और [§5.4 सुधार, अभिलेख और मार्ग](../../core_10_standing_integration.md#54-special-violation-rules)।
 
 <a id="1113-stewardship-and-operator-application"></a>
 ##### 11.1.3 उत्तरदायी प्रबंधन और संचालक अनुप्रयोग
@@ -922,7 +922,7 @@
 
 **विस्तार कहाँ रहता है:**
 
-- प्रबंधकों और संचालकों के लिए अधिकृत भूमिकाओं, दक्षता, और वास्तव में मायने रखने वाले काम में पथों के लिए [अध्याय बारह §5 — अधिकृत भूमिकाएँ, दक्षता विकास और योगदान](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution);
+- प्रबंधकों और संचालकों के लिए अधिकृत भूमिकाओं, दक्षता, और वास्तव में मायने रखने वाले काम में पथों के लिए [अध्याय बारह §5 — अधिकृत भूमिकाएँ, दक्षता विकास और योगदान](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution);
 - उच्च-प्रभाव प्रणालियों में वह कर्तव्य कैसे ढोया जाता है इसके लिए [**CS-4**](../../corpus_systems/cs_04_critical_system_stewardship.md) (*Critical system stewardship*); और
 - हाथ-पर काम और सामुदायिक दक्षता के सिद्धांत-परत चित्र के लिए [§9 उत्तरदायी प्रबंधन और वितरित समझ](#9-stewardship-and-distributed-understanding)।
 
@@ -1056,8 +1056,8 @@
 
 - **समीक्षा और सुधार कर्तव्य:** [समीक्षा और सुधार कर्तव्य](../../core_05_band_continuity.md#review-and-correction-duty-constitutional)।
 - **ऊँची समीक्षा:** [§13.1 बाज़ार संकेंद्रण देहलीज़ यांत्रिकी](#131-market-concentration-threshold-mechanism-adopter-tunable) और [§13.2 प्रतिस्पर्धा-समर्थन और प्रभुत्व-निषेध](#132-pro-competition-and-anti-domination), जहाँ संकेंद्रण या प्रभुत्व तात्विक हो।
-- **प्रस्थिति और उल्लंघन यांत्रिकी:** [अध्याय आठ — योगदान, उल्लंघन और प्रस्थिति मॉडल](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model), जहाँ सत्यापित निष्कर्ष दाँव पर हों।
-- **संविधान-विरोधी कदाचार:** [अध्याय दस §5.1 संकेंद्रण-आधारित विध्वंस: मानदंड अंतःक्रिया](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction), जहाँ संकेंद्रण या प्रक्रिया कब्ज़ा संविधान-विरोधी कदाचार गिने।
+- **प्रस्थिति और उल्लंघन यांत्रिकी:** [अध्याय आठ — योगदान, उल्लंघन और प्रस्थिति मॉडल](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model), जहाँ सत्यापित निष्कर्ष दाँव पर हों।
+- **संविधान-विरोधी कदाचार:** [अध्याय दस §5.1 संकेंद्रण-आधारित विध्वंस: मानदंड अंतःक्रिया](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction), जहाँ संकेंद्रण या प्रक्रिया कब्ज़ा संविधान-विरोधी कदाचार गिने।
 
 <a id="114-misalignment-correction-and-capture-response"></a>
 #### 11.4 विसंरेखण सुधार और कब्ज़ा प्रतिक्रिया
@@ -1105,12 +1105,12 @@
 
 - **कब:** विसंरेखण सत्यापित हो।
 - **नहीं करना चाहिए:** विसंरेखित या भ्रष्ट मार्गों से तात्विक पुरस्कार को चुपचाप रखने योग्य प्रस्थिति क्रेडिट या सुरक्षित लाभ न मानें।
-- **सुधार घर:** [अध्याय नौ §5.4 विशेष उल्लंघन नियम](../../core_09_standing_integration.md#54-special-violation-rules) शासित करता है:
+- **सुधार घर:** [अध्याय नौ §5.4 विशेष उल्लंघन नियम](../../core_10_standing_integration.md#54-special-violation-rules) शासित करता है:
   - जब्ती;
   - आनुपातिक क्लेबैक;
   - जानकर-स्वीकृति रिपोर्टिंग; और
   - सुधार।
-- **प्रस्थिति मापन:** यह अध्याय तय नहीं करता सत्यापित योगदान या उल्लंघन कितना अच्छा या बुरा था। वह रेटिंग [अध्याय आठ §4 प्रश्न 2 — कितना अच्छा या बुरा था?](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it) है, [अध्याय आठ §4.1 योगदान परिमाण-निवेश आयाम](../../core_08_standing_assessment.md#41-contribution-magnitude-input-dimensions) और [§4.2 उल्लंघन गंभीरता-निवेश आयाम](../../core_08_standing_assessment.md#42-violation-severity-input-dimensions) इस्तेमाल करके।
+- **प्रस्थिति मापन:** यह अध्याय तय नहीं करता सत्यापित योगदान या उल्लंघन कितना अच्छा या बुरा था। वह रेटिंग [अध्याय आठ §4 प्रश्न 2 — कितना अच्छा या बुरा था?](../../core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it) है, [अध्याय आठ §4.1 योगदान परिमाण-निवेश आयाम](../../core_09_standing_assessment.md#41-contribution-magnitude-input-dimensions) और [§4.2 उल्लंघन गंभीरता-निवेश आयाम](../../core_09_standing_assessment.md#42-violation-severity-input-dimensions) इस्तेमाल करके।
 
 <a id="115-contingent-claims-games-of-chance-and-event-contract-markets"></a>
 #### 11.5 आकस्मिक दावे, संयोग के खेल, और घटना-अनुबंध बाज़ार
@@ -1119,7 +1119,7 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - ऊर्ध्व: [§11 प्रोत्साहन संरेखण और प्रणाली कब्ज़ा](#11-incentive-alignment-and-system-capture) ([§11.1 संरेखण अपेक्षा](#111-alignment-requirement) सहित); [अध्याय पाँच *आकस्मिक दावा, घटना-अनुबंध बाज़ार, संयोग का खेल, और आंतरिक लाभ*](../../core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent)।
-- अधो: [§11.3 विसंरेखण पता लगाना](#113-misalignment-detection); [§11.3.1 वृद्धि ट्रिगर](#1131-escalation-triggers); [§11.4 विसंरेखण सुधार और कब्ज़ा प्रतिक्रिया](#114-misalignment-correction-and-capture-response); [§6.2 ज्ञानमीमांसीय प्रकटीकरण बंधन](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints); [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); `corpus_systems.md` वर्गीकरण और उत्तरदायी-प्रबंधन स्केलिंग; `corpus_institutions.md` टकराव और अखंडता अपेक्षाएँ।
+- अधो: [§11.3 विसंरेखण पता लगाना](#113-misalignment-detection); [§11.3.1 वृद्धि ट्रिगर](#1131-escalation-triggers); [§11.4 विसंरेखण सुधार और कब्ज़ा प्रतिक्रिया](#114-misalignment-correction-and-capture-response); [§6.2 ज्ञानमीमांसीय प्रकटीकरण बंधन](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints); [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); `corpus_systems.md` वर्गीकरण और उत्तरदायी-प्रबंधन स्केलिंग; `corpus_institutions.md` टकराव और अखंडता अपेक्षाएँ।
 - साथ पढ़ें: [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims) — **सातत्य** उद्देश्य (टिकाऊ, चुनौती-योग्य समाधान मार्ग और प्रणालीगत स्थिरता जहाँ आकस्मिक निपटान तात्विक रूप से प्रभावशाली हो)।
 - साथ पढ़ें: [समाधान-मार्गों का कब्ज़ा](../../core_05_band_accountability.md#capture-of-resolution-pathways), [दबाव और छल](../../core_05_band_participation.md#coercion-and-manipulation-constitutional), और [चुनौती-योग्यता](../../core_05_band_accountability.md#contestability); [आंतरिक लाभ](../../core_05_band_accountability.md#insider-advantage)।
 - उपखंड (पढ़ने का क्रम): [§11.5.1 क्या पुरस्कृत नहीं हो सकता](#1151-what-may-not-be-rewarded) · [§11.5.2 परिणाम कौन तय करता है](#1152-who-decides-outcomes) · [§11.5.3 बाज़ार संकेत संवैधानिक प्रमाण नहीं](#1153-market-signals-are-not-constitutional-proof) · [§11.5.4 आनुपातिक नियंत्रण और कार्यान्वयन अभिरक्षा](#1154-proportionate-controls-and-implementation-custody)।
@@ -1238,7 +1238,7 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - साथ पढ़ें: [आवश्यकता](../../core_05_band_accountability.md#necessity); [आनुपातिकता](../../core_05_band_accountability.md#proportionality); [निर्भरता](../../core_05_band_continuity.md#dependency)।
-- अधो: [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [corpus_systems.md](../../corpus_systems.md) (*तात्विक रूप से प्रभावशाली प्रणालियों के उत्तरदायी प्रबंधन का वर्गीकरण और स्केलिंग*); [corpus_institutions.md](../../corpus_institutions.md) (*टकराव और प्रक्रिया नियम जहाँ संस्थाएँ ऐसी गतिविधि पर्यवेक्षित करें*)।
+- अधो: [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [corpus_systems.md](../../corpus_systems.md) (*तात्विक रूप से प्रभावशाली प्रणालियों के उत्तरदायी प्रबंधन का वर्गीकरण और स्केलिंग*); [corpus_institutions.md](../../corpus_institutions.md) (*टकराव और प्रक्रिया नियम जहाँ संस्थाएँ ऐसी गतिविधि पर्यवेक्षित करें*)।
 
 </details>
 
@@ -1254,7 +1254,7 @@
   - [निर्भरता](../../core_05_band_continuity.md#dependency);
   - भेद्यता; और
   - प्रणालीगत स्थिरता।
-- [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) से सुसंगत दुरुपयोग का मूल्यांकन करना चाहिए, जिनमें:
+- [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) से सुसंगत दुरुपयोग का मूल्यांकन करना चाहिए, जिनमें:
   - समाधान घटनाओं को प्रभावित करने का समन्वय; और
   - पैमाना गतिकी।
 
@@ -1272,7 +1272,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- साथ पढ़ें: [अध्याय नौ §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) और [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority); [जवाबदेही](core_05_apex_accountability_leg.md#accountability); [corpus_systems.md](../../corpus_systems.md) **CS-7 — Justice safeguards, restitution, and rehabilitation** (*Entity continuity checks*)।
+- साथ पढ़ें: [अध्याय नौ §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) और [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority); [जवाबदेही](core_05_apex_accountability_leg.md#accountability); [corpus_systems.md](../../corpus_systems.md) **CS-7 — Justice safeguards, restitution, and rehabilitation** (*Entity continuity checks*)।
 - साथ पढ़ें: [आरोपणीय कार्रवाई](../../core_05_band_accountability.md#attributable-action-constitutional) और [आरोपण अखंडता](../../core_05_band_accountability.md#attribution-integrity-constitutional) — उत्तराधिकारी और औपचारिक-संरचना परिवर्तन शेष कर्तव्यों के विश्वसनीय आरोपण नहीं हरा सकते।
 
 </details>
@@ -1517,7 +1517,7 @@
 - साथ पढ़ें: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — सहभागिता, निगरानी, जवाबदेही और समयबद्धता जहाँ संकेंद्रण या प्रभुत्व आवाज़, जाँच, उत्तरदेयता, या समयबद्ध सुधार हराए; [भौतिक दाँव](core_00_preamble.md#material-stake) स्केलिंग (विशेषकर [§13.2 प्रतिस्पर्धा-समर्थन और प्रभुत्व-निषेध](#132-pro-competition-and-anti-domination))।
 - साथ पढ़ें: [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims) — **सातत्य** उद्देश्य (चुनौती-योग्य, टिकाऊ उत्पादक स्थितियाँ); **समुन्नति** उद्देश्य (आजीविका, अभिकर्तृत्व और नवाचार मार्गों तक निष्पक्ष पहुँच)।
 - ऊर्ध्व: सिद्धांत: [§12 साझा-प्रणाली क्षमता](#12-shared-system-capacity) — उत्पादक-क्षमता और दक्षता दावे वहाँ हारते हैं जहाँ संकेंद्रण या प्रभुत्व उन्हें खोखला करे; [10. उत्तरदायी-प्रबंधन अनुशासन के अधीन शासन](#10-governance-under-stewardship-discipline)।
-- अधो: [अध्याय दस §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (संकेंद्रण-आधारित विध्वंस); [6. प्रक्रिया संघर्ष समाधान](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([§6.2.4 स्थानापन्न-संकेत विचलन अमान्यकरण](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation))।
+- अधो: [अध्याय दस §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (संकेंद्रण-आधारित विध्वंस); [6. प्रक्रिया संघर्ष समाधान](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([§6.2.4 स्थानापन्न-संकेत विचलन अमान्यकरण](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation))।
 - अधो: **CJS-3.11.1 — Market concentration threshold-setting discipline (adopter-tunable)** ([§13.1](#131-market-concentration-threshold-mechanism-adopter-tunable) संक्रियात्मक नियम); **CJS-3.11.2 — Anti-domination conduct and remediation catalog** ([§13.2](#132-pro-competition-and-anti-domination) संक्रियात्मक आचरण पैटर्न और उपचार); **CJS-3.11.3 — Consolidation ceiling-setting discipline (adopter-tunable)** ([§13.3.2](#1332-ceiling-discipline-adopter-requirements) संक्रियात्मक छत-निर्धारण नियम)।
 - अधो: संसाधन आवंटन, निष्पक्ष मुआवजा, सामूहिक संगठन, अंतःक्रियाशीलता, निकास, और कब्ज़ा-निरोध समीक्षा के लिए अधिकार-सतह गढ़ता है; विशेषकर [अनुच्छेद III-D: श्रम और आर्थिक तल](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor), [अनुच्छेद IV: संसाधन आवंटन, निर्भरताएँ और पारिस्थितिकी तंत्र वित्त](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding), और [अनुच्छेद XIX: अंतःक्रियाशीलता, पोर्टेबिलिटी, आवागमन, शरण और निकास अखंडता](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)।
 - उपखंड (पढ़ने का क्रम): [§13.1 बाज़ार संकेंद्रण देहलीज़ यांत्रिकी (अंगीकारकर्ता-ट्यूनेबल)](#131-market-concentration-threshold-mechanism-adopter-tunable) · [§13.1.1 संकेंद्रण देहलीज़ ट्रिगर (अंगीकारकर्ता-ट्यूनेबल)](#1311-concentration-threshold-triggers-adopter-tunable) · [§13.2 प्रतिस्पर्धा-समर्थन और प्रभुत्व-निषेध](#132-pro-competition-and-anti-domination) · [§13.3 समेकन छत](#133-consolidation-ceiling)।
@@ -1563,7 +1563,7 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - ऊर्ध्व: [§13 बाज़ार संरचना](#13-market-structure); [बाज़ार संकेंद्रण देहलीज़](../../core_05_band_accountability.md#market-concentration-threshold-constitutional)।
-- अधो: **CJS-3.11.1 — Market concentration threshold-setting discipline (adopter-tunable)** (संक्रियात्मक देहलीज़-निर्धारण नियम); [§13.2 प्रतिस्पर्धा-समर्थन और प्रभुत्व-निषेध](#132-pro-competition-and-anti-domination); [§13.3 समेकन छत](#133-consolidation-ceiling); [CJS-3.11.3 — Consolidation ceiling-setting discipline (adopter-tunable)](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) ([§13.3.2](#1332-ceiling-discipline-adopter-requirements) संक्रियात्मक छत-निर्धारण नियम); [अध्याय आठ §4 प्रश्न 2 — कितना अच्छा या बुरा था?](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it); [अध्याय दस §5.1 संकेंद्रण-आधारित विध्वंस](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)।
+- अधो: **CJS-3.11.1 — Market concentration threshold-setting discipline (adopter-tunable)** (संक्रियात्मक देहलीज़-निर्धारण नियम); [§13.2 प्रतिस्पर्धा-समर्थन और प्रभुत्व-निषेध](#132-pro-competition-and-anti-domination); [§13.3 समेकन छत](#133-consolidation-ceiling); [CJS-3.11.3 — Consolidation ceiling-setting discipline (adopter-tunable)](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) ([§13.3.2](#1332-ceiling-discipline-adopter-requirements) संक्रियात्मक छत-निर्धारण नियम); [अध्याय आठ §4 प्रश्न 2 — कितना अच्छा या बुरा था?](../../core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it); [अध्याय दस §5.1 संकेंद्रण-आधारित विध्वंस](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)।
 - प्रबंधक द्वार (गैर-संक्रियात्मक): बाध्यकारी अगला-कदम कथन: [संक्रियात्मक प्रबंधक कथन](#operative-steward-statement-market-structure)। सहायक संकेत इसे संकीर्ण नहीं कर सकते।
 - उपखंड (पढ़ने का क्रम): [§13.1.1 संकेंद्रण देहलीज़ ट्रिगर (अंगीकारकर्ता-ट्यूनेबल)](#1311-concentration-threshold-triggers-adopter-tunable)।
 
@@ -1594,8 +1594,8 @@
 
 - **करता है:** [§13 बाज़ार संरचना](#13-market-structure) तल के लिए सिद्धांत-परत देहलीज़ दिशा कहता है।
 - **नहीं करता:** तय नहीं करता सत्यापित हानि कितनी गंभीर थी, या कदाचार पदनाम जारी नहीं करता।
-- **जब संकेंद्रण इस संविधान को कमज़ोर करने के लिए इस्तेमाल हो:** वह कदाचार [अध्याय दस §5.1 संकेंद्रण-आधारित विध्वंस](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) के अधीन आंका जाता है।
-- **तल से ऊपर संकेंद्रण बनाना, बनाए रखना, या शोषण करना:** अध्याय दस मानदंड 3, 4, और 6 से पदनाम समीक्षा के लिए पहुँचा जाता है, और केवल जहाँ [अध्याय आठ §4 प्रश्न 2 — कितना अच्छा या बुरा था?](../../core_08_standing_assessment.md#4-question-2-how-good-or-bad-was-it) पहले ही उस सत्यापित हानि को अध्याय आठ के तीन सबसे गंभीर स्कोर में से एक रेट कर चुका हो।
+- **जब संकेंद्रण इस संविधान को कमज़ोर करने के लिए इस्तेमाल हो:** वह कदाचार [अध्याय दस §5.1 संकेंद्रण-आधारित विध्वंस](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) के अधीन आंका जाता है।
+- **तल से ऊपर संकेंद्रण बनाना, बनाए रखना, या शोषण करना:** अध्याय दस मानदंड 3, 4, और 6 से पदनाम समीक्षा के लिए पहुँचा जाता है, और केवल जहाँ [अध्याय आठ §4 प्रश्न 2 — कितना अच्छा या बुरा था?](../../core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it) पहले ही उस सत्यापित हानि को अध्याय आठ के तीन सबसे गंभीर स्कोर में से एक रेट कर चुका हो।
 
 **संवैधानिक तल:**
 
@@ -1663,7 +1663,7 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - ऊर्ध्व: [§13 बाज़ार संरचना](#13-market-structure); [बाज़ार संरचना](../../core_05_band_accountability.md#market-structure-constitutional)।
-- अधो: **CJS-3.11.2 — Anti-domination conduct and remediation catalog** (संक्रियात्मक आचरण पैटर्न और उपचार); [§13.3 समेकन छत](#133-consolidation-ceiling); [अध्याय दस §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)।
+- अधो: **CJS-3.11.2 — Anti-domination conduct and remediation catalog** (संक्रियात्मक आचरण पैटर्न और उपचार); [§13.3 समेकन छत](#133-consolidation-ceiling); [अध्याय दस §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)।
 - साथ पढ़ें: [अनुच्छेद III-D: श्रम और आर्थिक तल](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (श्रम गतिशीलता अधिकार-तल); [अनुच्छेद XIX: अंतःक्रियाशीलता, पोर्टेबिलिटी, आवागमन, शरण और निकास अखंडता](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity); [6. प्रक्रिया संघर्ष समाधान](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([आवश्यकता](../../core_05_band_accountability.md#necessity), [आनुपातिकता](../../core_05_band_accountability.md#proportionality), [§6.2.4 स्थानापन्न-संकेत विचलन अमान्यकरण](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation))।
 - उपखंड (पढ़ने का क्रम): [§13.2.1 प्रतिस्पर्धा-समर्थन कर्तव्य (करें)](#1321-pro-competition-duties-dos) · [§13.2.2 प्रभुत्व-निषेध निषेध (न करें)](#1322-anti-domination-prohibitions-donts) · [§13.2.3 उपचार](#1323-remedies)।
 
@@ -1916,7 +1916,7 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - ऊर्ध्व: [§13.3 समेकन छत](#133-consolidation-ceiling); [§13.3.1 समेकन जोखिम (ताला-पूर्व क्षीणता)](#1331-consolidation-risk-pre-lock-in-impairment)।
-- अधो: **CJS-3.11.3 — Consolidation ceiling-setting discipline (adopter-tunable)** (संक्रियात्मक छत-निर्धारण नियम); [CJS-3.11.2 — Anti-domination conduct and remediation catalog](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog) (छत भंग पर उपचार मार्ग); [अध्याय दस §5](../../core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)।
+- अधो: **CJS-3.11.3 — Consolidation ceiling-setting discipline (adopter-tunable)** (संक्रियात्मक छत-निर्धारण नियम); [CJS-3.11.2 — Anti-domination conduct and remediation catalog](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog) (छत भंग पर उपचार मार्ग); [अध्याय दस §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)।
 
 </details>
 
@@ -1956,7 +1956,7 @@
 - साथ पढ़ें: सातत्य मापन परिवार (*लचीलापन, उत्क्रमणीयता, और प्रणालीगत जोखिम*)।
 - साथ पढ़ें: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad), [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims), और [भौतिक दाँव](core_00_preamble.md#material-stake) स्केलिंग।
 - साथ पढ़ें: [6. प्रक्रिया संघर्ष समाधान](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [§9 उत्तरदायी प्रबंधन और वितरित समझ](#9-stewardship-and-distributed-understanding), [§10 उत्तरदायी-प्रबंधन अनुशासन के अधीन शासन](#10-governance-under-stewardship-discipline), और [§11 प्रोत्साहन संरेखण और प्रणाली कब्ज़ा](#11-incentive-alignment-and-system-capture)।
-- साथ पढ़ें: **[अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)** — प्रणाली-संरेखण प्रमाणन के लिए संक्रियात्मक संपूर्ण-प्रणाली मूल्यांकन कारक (**निगरानी** चतुष्क टाँग के अधीन एक विशेष रूप से बड़ी लेखापरीक्षा प्रक्रिया; एकमात्र लेखापरीक्षा घर नहीं)।
+- साथ पढ़ें: **[अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)** — प्रणाली-संरेखण प्रमाणन के लिए संक्रियात्मक संपूर्ण-प्रणाली मूल्यांकन कारक (**निगरानी** चतुष्क टाँग के अधीन एक विशेष रूप से बड़ी लेखापरीक्षा प्रक्रिया; एकमात्र लेखापरीक्षा घर नहीं)।
 - साथ पढ़ें: **अनुच्छेद XV** (*लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन*) और [लेखापरीक्षा-योग्यता](../../core_05_band_oversight.md#auditability) — लेखापरीक्षा तल जिन्हें अध्याय सात पूरा करना चाहिए और जिन्हें सहोदर लेखापरीक्षा मोड भी लागू करते हैं।
 - साथ पढ़ें: **[corpus_systems.md](../../corpus_systems.md), CS-3 — System classification and handling** और [वर्गीकरण-स्केल शासन](../../core_05_band_oversight.md#classification-scaled-governance) — वर्ग-स्केल अनुप्रयोग, अभिलेख रूप, पुनर्वर्गीकरण ट्रिगर, और हैंडलिंग प्रोफ़ाइल।
 - ऊर्ध्व: [§9 उत्तरदायी प्रबंधन और वितरित समझ](#9-stewardship-and-distributed-understanding); [§10 उत्तरदायी-प्रबंधन अनुशासन के अधीन शासन](#10-governance-under-stewardship-discipline); [6. प्रक्रिया संघर्ष समाधान](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)।
@@ -1993,8 +1993,8 @@
 - शर्तों से मुक्ति।
 
 विस्तृत मूल्यांकन कारक और प्रमाणन अभिलेख इनके स्वामित्व में हैं:
-- **[अध्याय सात §3](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
-- **[अध्याय सात §11](../../core_07_b_system_alignment_certification_record_process.md#11-certification-record)**;
+- **[अध्याय सात §3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
+- **[अध्याय सात §11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record)**;
 - **[corpus_systems.md](../../corpus_systems.md), CS-3 — System classification and handling**।
 
 वह अध्याय-सात प्रक्रिया:
@@ -2007,7 +2007,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- ऊर्ध्व: सिद्धांत: [8. संवैधानिक व्याख्या](core_01_b_interaction_interpretation.md#8-constitutional-interpretation), [1. उद्देश्य और भूमिका](core_01_a_values_principles.md#1-purpose-and-role), [§9 उत्तरदायी प्रबंधन और वितरित समझ](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. प्रक्रिया संघर्ष समाधान](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [5. स्वतंत्रता](core_01_a_values_principles.md#5-freedom-bounded-agency), और [7. पूर्ण अध्यारोहण का निषेध](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)।
+- ऊर्ध्व: सिद्धांत: [8. संवैधानिक व्याख्या](core_01_b_interaction_interpretation.md#8-constitutional-interpretation), [1. उद्देश्य और भूमिका](core_01_a_values_principles.md#1-purpose-and-role), [§9 उत्तरदायी प्रबंधन और वितरित समझ](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. प्रक्रिया संघर्ष समाधान](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [5. स्वतंत्रता](core_01_a_values_principles.md#5-freedom-bounded-agency), और [7. पूर्ण अध्यारोहण का निषेध](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)।
 - अधो: बाद के अध्याय इन जुड़े अध्याय-एक सिद्धांतों के माध्यम से पढ़े जाने चाहिए — [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad), [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims), और [भौतिक दाँव](core_00_preamble.md#material-stake) स्केलिंग सहित जो [प्रस्तावना](core_00_preamble.md#chapter-00-preamble--foundational-requirements) और [§1 उद्देश्य और भूमिका](core_01_a_values_principles.md#1-purpose-and-role) में स्थापित हैं।
 - अधो: [अध्याय छह: आधारभूत अधिकार](../../core_06_rights_part_a.md#chapter-six-foundational-rights) इस अध्याय के एकीकृत-मूल्य ढाँचे के माध्यम से पढ़ा जाना चाहिए।
   - सीमाबद्ध व्याख्या, सार्वजनिक कारण, चुनौती, बाहरी समीक्षा, और अधिकार-टकराव प्रक्रिया प्रमुख अधो काम करते हैं।

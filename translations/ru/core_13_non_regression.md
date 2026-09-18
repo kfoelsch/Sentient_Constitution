@@ -6,15 +6,15 @@
 
 > Следующее содержание — **только ориентир для читателя**. Оно не добавляет, не снимает и не сужает связывающих обязанностей в этом файле или в других главах.
 >
-> Этот файл — **пилот читательского языка** [английской Главы тринадцатой](../../core_13_non_regression.md). **Не** является связывающей частью Конституции сентентов. **Не** является второй конституцией. **Не** является изданием к отправке. **Закреплён** за `SC-Corpus-2026.08.09`. Если этот перевод и английский оригинал кажутся расходящимися, побеждает нумерованный файл [`core_13_non_regression.md`](../../core_13_non_regression.md). Порядок чтения и метаданные издания ведутся в [README.md](../../README.md). Метод и глоссарий: [translations/ru/README.md](README.md).
+> Этот файл — **пилот читательского языка** [английской Главы тринадцатой](../../core_14_non_regression.md). **Не** является связывающей частью Конституции сентентов. **Не** является второй конституцией. **Не** является изданием к отправке. **Закреплён** за `SC-Corpus-2026.08.09`. Если этот перевод и английский оригинал кажутся расходящимися, побеждает нумерованный файл [`core_13_non_regression.md`](../../core_14_non_regression.md). Порядок чтения и метаданные издания ведутся в [README.md](../../README.md). Метод и глоссарий: [translations/ru/README.md](README.md).
 >
-> Он содержит **Главу тринадцатую**: содержательную нерегрессию и содержательную действительность поправки (Тест 1). **Глава четырнадцатая** — в [`core_14_expansion_supremacy.md`](../../core_14_expansion_supremacy.md). **Глава пятнадцатая** — в [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md). Действительность поправки должна сохранять обе [Две конституционные цели](core_00_preamble.md#two-constitutional-aims) — **Расцвет** и **Преемственность** — и не должна выхолащивать [Конституционную тетраду](core_00_preamble.md#constitutional-tetrad) ниже требований [материальной ставки](core_00_preamble.md#material-stake). Нумерация глав и перекрёстные ссылки совпадают с интегрированным инструментом.
+> Он содержит **Главу тринадцатую**: содержательную нерегрессию и содержательную действительность поправки (Тест 1). **Глава четырнадцатая** — в [`core_14_expansion_supremacy.md`](../../core_15_expansion_supremacy.md). **Глава пятнадцатая** — в [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md). Действительность поправки должна сохранять обе [Две конституционные цели](core_00_preamble.md#two-constitutional-aims) — **Расцвет** и **Преемственность** — и не должна выхолащивать [Конституционную тетраду](core_00_preamble.md#constitutional-tetrad) ниже требований [материальной ставки](core_00_preamble.md#material-stake). Нумерация глав и перекрёстные ссылки совпадают с интегрированным инструментом.
 
 
 >
-> **Предыдущий (ещё на английском):** [core_12_governance.md](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
+> **Предыдущий (ещё на английском):** [core_12_governance.md](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)
 >
-> **Следующий (ещё на английском):** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+> **Следующий (ещё на английском):** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 > **Дуга чтения:** §1 пол нерегрессии → §2 Тест 1 → §3 антиуклонение и направление → §4 охват слоя
 </details>
 
@@ -35,9 +35,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Исход: [Глава первая](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [Главы со второй по четвёртую](core_02_definition_structure.md) целостность и верификация; [Глава шестая](core_06_rights_part_a.md#chapter-six-foundational-rights) Пол прав; [Глава двенадцатая](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) требования легитимности и ответственного управления.
+- Исход: [Глава первая](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [Главы со второй по четвёртую](core_02_definition_structure.md) целостность и верификация; [Глава шестая](core_06_rights_part_a.md#chapter-six-foundational-rights) Пол прав; [Глава двенадцатая](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) требования легитимности и ответственного управления.
 - Подразделы: [§1](#1-non-regression-floor); [§2](#2-test-1-substantive-non-regression-validity); [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral); [§4](#4-layer-scope).
-- Назначение: [Глава четырнадцатая](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) расширение и верховенство; [Глава пятнадцатая](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) процедурная действительность, ратификация и требования поправки; [Глава восьмая](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) и [Глава десятая](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) для канонической классификации там, куда маршрутизируют триггеры направления.
+- Назначение: [Глава четырнадцатая](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) расширение и верховенство; [Глава пятнадцатая](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) процедурная действительность, ратификация и требования поправки; [Глава восьмая](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) и [Глава десятая](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) для канонической классификации там, куда маршрутизируют триггеры направления.
 - Читать вместе с: [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) неоперативный обход **Глав с одиннадцатой по четырнадцатую** о конституционном изменении и инкорпорации.
 
 </details>
@@ -96,8 +96,8 @@
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Исход: [§1](#1-non-regression-floor) определение пола нерегрессии.
-- Назначение: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) уклонение и направление проступка; [Глава пятнадцатая](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) Тесты 2–4 и процедурные требования (недействительно, если Тест 1 провален, независимо от процедуры).
-- Читать вместе с: [Глава первая](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) не подлежащие переговору ограничения принципа; [Глава двенадцатая](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) обязанности легитимности.
+- Назначение: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) уклонение и направление проступка; [Глава пятнадцатая](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) Тесты 2–4 и процедурные требования (недействительно, если Тест 1 провален, независимо от процедуры).
+- Читать вместе с: [Глава первая](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) не подлежащие переговору ограничения принципа; [Глава двенадцатая](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) обязанности легитимности.
 
 </details>
 
@@ -157,8 +157,8 @@
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Исход: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) дисциплина только направления; [Глава восьмая](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) и [Глава десятая](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) канонические владельцы.
-- Назначение: [Глава пятнадцатая §12](../../core_15_amendment_ratification.md#12-layer-scope) зеркальная дисциплина процедурного слоя; текст реализации для механики исполнения пересмотра.
-- Читать вместе с: [Стек власти и внутренняя иерархия](core_05_band_integrative.md#owner-non-relocation) и [Преамбула — позитивный реестр владельцев](core_00_preamble.md#4-principles-definitions-and-rights); [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) о пути изменения и инкорпорации; [Глава пятнадцатая](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) для тестов действительности, которые не дублируют таксономию классификации ячеек.
+- Назначение: [Глава пятнадцатая §12](../../core_16_amendment_ratification.md#12-layer-scope) зеркальная дисциплина процедурного слоя; текст реализации для механики исполнения пересмотра.
+- Читать вместе с: [Стек власти и внутренняя иерархия](core_05_band_integrative.md#owner-non-relocation) и [Преамбула — позитивный реестр владельцев](core_00_preamble.md#4-principles-definitions-and-rights); [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) о пути изменения и инкорпорации; [Глава пятнадцатая](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) для тестов действительности, которые не дублируют таксономию классификации ячеек.
 
 </details>
 
@@ -187,7 +187,7 @@
 > - **общее измерение вклада и нарушения** (Ось вклада / Ось нарушения) — **Глава восьмая** в [core_08_standing_assessment.md](core_08_standing_assessment.md); **эффекты траектории и интеграция** — **Глава девятая** в [core_09_standing_integration.md](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration);
 > - **числовые ячейки Оси вклада и Оси нарушения** — **единая шкала Главы восьмой §7**, с раздельными записями и ячейками Нарушения, контролируемыми только проверенным воздействием; и соответствующее **обозначение антиконституционного проступка** для квалифицирующей ячейки 7, 8 или 9 Оси нарушения — **Глава десятая** в [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct);
 > - **операционный поток форума и адъюдикативная процедура** — **Глава одиннадцатая** и [corpus_forum.md](../../corpus_forum.md);
-> - **процедурная действительность и действительность хранения** для поправки, ратификации и принятия — **Глава пятнадцатая** в [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity); и
+> - **процедурная действительность и действительность хранения** для поправки, ратификации и принятия — **Глава пятнадцатая** в [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity); и
 > - **подробная институциональная процедура, механика комплектования и совместная структурная интеграция между реализациями** для исполнения пересмотра — назначенный текст реализации и главы-владельцы, названные в [Преамбуле — позитивном реестре владельцев](core_00_preamble.md#4-principles-definitions-and-rights).
 >
 > Слои владельцев не должны читаться как переносящие стандарты конституционной действительности из **Глав тринадцатой и пятнадцатой**, власть измерения Оси вклада / Оси нарушения из **единой шкалы Главы восьмой §7** или власть обозначения антиконституционного проступка из **Главы десятой**. Глава десятая не присваивает числовую ячейку. Для неоперативного архитектурного обхода см. [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md).
@@ -196,8 +196,8 @@
 
 ---
 
-**Предыдущий файл (ещё на английском):** [core_12_governance.md](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
+**Предыдущий файл (ещё на английском):** [core_12_governance.md](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)
 
-**Следующий файл (ещё на английском):** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+**Следующий файл (ещё на английском):** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 
-**Связывающий оригинал:** [core_13_non_regression.md](../../core_13_non_regression.md)
+**Связывающий оригинал:** [core_13_non_regression.md](../../core_14_non_regression.md)

@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This entire file is **reader guidance only**. It is not binding incorporated implementation text. It does not add, remove, or narrow duties under [Chapter Sixteen](../core_16_incorporation.md). Binding homes remain **CJS-1.0** (*Purpose of this layer*), **CJS-1.1**, **CJS-1.3**, **CJS-1.13**–**CJS-1.14**, **CJS-2**, and **CJS-3**.
+> This entire file is **reader guidance only**. It is not binding incorporated implementation text. It does not add, remove, or narrow duties under [Chapter Seventeen](../core_17_incorporation.md). Binding homes remain **CJS-1.0** (*Purpose of this layer*), **CJS-1.1**, **CJS-1.3**, **CJS-1.13**–**CJS-1.14**, **CJS-2**, and **CJS-3**.
 >
 > The [Joint structure landing page](../corpus_joint_structure.md) remains the layer landing. This file is the human how-to-read annex — not a second front door.
 
@@ -50,7 +50,7 @@ Labels tell you which book and which shelf. Constitutional dictionary entries (*
 
 | Label family | Example headers | What they are |
 |---|---|---|
-| **Core** (Sentient Constitution) | **Chapter One §1**, **Chapter One §8.4.4**, **Chapter Eleven §7** | Chapters and sections in the numbered constitutional files |
+| **Core** (Sentient Constitution) | **Chapter One §1**, **Chapter One §8.4.4**, **Chapter Twelve §7** | Chapters and sections in the numbered constitutional files |
 | **Preamble** | **Preamble §2** | Foundational requirements that open the Constitution |
 | **Constitutional Tetrad** | **Participation**, **Oversight**, **Accountability**, **Timeliness** | The four scaling principles in the Preamble |
 | **Two Constitutional Aims** | **Flourishing**, **Continuity** | The two aims in the Preamble |

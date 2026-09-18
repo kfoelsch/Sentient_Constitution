@@ -7,7 +7,7 @@
 
 > Le contenu ci-dessous est **uniquement un guide de lecture**. Il n’ajoute, n’ôte ni ne resserre d’obligations contraignantes dans ce fichier ni dans d’autres chapitres.
 >
-> Ce fichier est un **pilote de langue de lecture** de l’[index de lecture du Chapitre sept en anglais](../../core_07_system_alignment_certification.md). **Ce n’est pas** une partie contraignante de la Constitution sentiente. **Ce n’est pas** une seconde constitution. **Ce n’est pas** une édition d’envoi. Il est **épinglé** à `SC-Corpus-2026.08.09`. Si cette traduction et la source anglaise semblent diverger, le fichier numéroté [`core_07_system_alignment_certification.md`](../../core_07_system_alignment_certification.md) l’emporte. L’ordre de lecture et les métadonnées d’édition restent dans [README.md](../../README.md). Méthode et glossaire : [translations/fr/README.md](README.md).
+> Ce fichier est un **pilote de langue de lecture** de l’[index de lecture du Chapitre sept en anglais](../../core_08_system_alignment_certification.md). **Ce n’est pas** une partie contraignante de la Constitution sentiente. **Ce n’est pas** une seconde constitution. **Ce n’est pas** une édition d’envoi. Il est **épinglé** à `SC-Corpus-2026.08.09`. Si cette traduction et la source anglaise semblent diverger, le fichier numéroté [`core_07_system_alignment_certification.md`](../../core_08_system_alignment_certification.md) l’emporte. L’ordre de lecture et les métadonnées d’édition restent dans [README.md](../../README.md). Méthode et glossaire : [translations/fr/README.md](README.md).
 >
 > Le **Chapitre sept** est réparti en deux fichiers contraignants lus comme un seul instrument :
 >
@@ -41,4 +41,4 @@ Sous la jambe **supervision** de la Tétrade, la supervision exige l’audit ; l
 
 **Fichier suivant (cette langue) :** [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
 
-**Original contraignant :** [core_07_system_alignment_certification.md](../../core_07_system_alignment_certification.md)
+**Original contraignant :** [core_07_system_alignment_certification.md](../../core_08_system_alignment_certification.md)

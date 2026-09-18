@@ -96,7 +96,7 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - अधो: समुन्नति मापन परिवार — केवल-कड़ी रोलअप; प्रति-पद स्तर नीचे की तालिका में जुड़ी पत्ती परिभाषाओं पर रहते हैं।
-- साथ पढ़ें: [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) जहाँ संपूर्ण-प्रणाली प्रभाव, उत्तरजीविता-तल की आपूर्ति या **सुरक्षित स्थितियाँ** तात्विक रूप से दायरे में हों।
+- साथ पढ़ें: [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) जहाँ संपूर्ण-प्रणाली प्रभाव, उत्तरजीविता-तल की आपूर्ति या **सुरक्षित स्थितियाँ** तात्विक रूप से दायरे में हों।
 
 </details>
 

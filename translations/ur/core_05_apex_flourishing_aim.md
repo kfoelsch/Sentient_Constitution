@@ -96,7 +96,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - زیریں: شگفتگی پیمائش خاندان — صرف لنک رول اپ؛ فی اصطلاح درجے نیچے جدول میں جڑی برگ تعریفوں پر رہتے ہیں۔
-- ساتھ پڑھیں: [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) جہاں پورے نظام کے اثرات، بقا کی تہہ کی فراہمی، یا **محفوظ حالات** مادی طور پر دائرے میں ہوں۔
+- ساتھ پڑھیں: [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) جہاں پورے نظام کے اثرات، بقا کی تہہ کی فراہمی، یا **محفوظ حالات** مادی طور پر دائرے میں ہوں۔
 
 </details>
 

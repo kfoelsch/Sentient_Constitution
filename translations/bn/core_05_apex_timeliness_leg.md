@@ -102,7 +102,7 @@
 
 - অধঃ: সময়ানুবর্তিতা পরিমাপ পরিবার — শুধু-লিঙ্ক রোলআপ; পদ অনুসারে স্তর পাতা সংজ্ঞায় থাকে — দেখুন [সময়মতো সমাধান](../../core_05_band_accountability.md#timely-resolution-constitutional), [সমাধান-পথের দখল](../../core_05_band_accountability.md#capture-of-resolution-pathways) এবং [সময়ানুবর্তিতা](#timeliness-constitutional) (শুধু-লিঙ্ক পা-প্রধান রোলআপ)।
 - সঙ্গে পড়ুন: [অংশগ্রহণ](core_05_apex_participation_leg.md#participation-constitutional), [তত্ত্বাবধান](core_05_apex_oversight_leg.md#oversight-constitutional) এবং [জবাবদিহি](core_05_apex_accountability_leg.md#accountability) — সময়ানুবর্তিতা অন্য তিন চতুষ্কের পা দিয়েও চলে; সেই পাগুলো কাজে লাগতে সময়মতো ঘটতে হবে।
-- সঙ্গে পড়ুন: [অধ্যায় এগারো §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)।
+- সঙ্গে পড়ুন: [অধ্যায় এগারো §6](../../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)।
 
 </details>
 

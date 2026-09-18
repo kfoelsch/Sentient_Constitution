@@ -2,7 +2,7 @@
 """Validate a Sentience-Status Adjudication Record against the dedicated schema.
 
 The schema is machine-checkable form, not who-counts and not a standing record.
-This tool asks a mechanical question: does the file carry the Chapter Eleven
+This tool asks a mechanical question: does the file carry the Chapter Twelve
 minimum fields — including independent representative and intake-decline log —
 plus the review trigger, without extra keys?
 
@@ -30,7 +30,7 @@ REQUIRED = (
     "subject_entity",
     "status_determination_or_live_contested_posture",
     "lead_forum_family",
-    "chapter_eleven_special_route",
+    "chapter_twelve_special_route",
     "indicators_and_expert_evidence",
     "interim_contested_sentient_life_treatment",
     "review_trigger",
@@ -171,9 +171,9 @@ def validate_record(record: object) -> list[str]:
         errors.append(
             f"lead_forum_family: must be one of {LEAD_FAMILIES} (SSAR-01)"
         )
-    if obj.get("chapter_eleven_special_route") not in SPECIAL_ROUTES:
+    if obj.get("chapter_twelve_special_route") not in SPECIAL_ROUTES:
         errors.append(
-            "chapter_eleven_special_route: "
+            "chapter_twelve_special_route: "
             f"must be one of {SPECIAL_ROUTES} (SSAR-01)"
         )
 

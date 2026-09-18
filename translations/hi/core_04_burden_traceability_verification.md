@@ -24,7 +24,7 @@
 > - **चतुष्क मानचित्र:** भार आवंटन, साक्ष्य, पता-योग्यता, प्रेक्षणीयता, और सत्यापन [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) की **निगरानी** और **जवाबदेही** टाँगें लागू करते हैं जो [प्रस्तावना](core_00_preamble.md#chapter-00-preamble--foundational-requirements) में स्थापित हैं; **सहभागिता** जहाँ तात्विक रूप से अपेक्षित हो व्यावहारिक प्रेक्षणीयता और अनुभाग **3** और **4** के अधीन स्वतंत्र चुनौती के माध्यम से। अपेक्षाएँ [भौतिक दाँव](core_00_preamble.md#material-stake) के अनुसार स्केल होती हैं।
 > - **संवैधानिक स्वामी:** भार आवंटन, अनुपालन साक्ष्य, परिभाषा पता-योग्यता, प्रेक्षणीयता, और सुरक्षा-सीमित सत्यापन। **अध्याय आठ** इस अध्याय के साथ पढ़े जाने वाले प्रस्थिति-अभिलेख और सत्यापित-निवेश अनुशासन का स्वामी है।
 > - **कार्यान्वयन स्वामी:** नामित कार्यान्वयन फ़ाइलों में तैनाती, डेटा-सँभाल, और आश्वासन यांत्रिकी इन नियमों से सुसंगत रहनी चाहिए और वहाँ सख्त हो सकती है जहाँ संग्रह पहले से सख्त-नियम तर्क देता है।
-> - **स्थानांतरण-निषेध नियम:** यह अध्याय केवल भार, अनुरेख, प्रेक्षणीयता, सुरक्षा सीमाएँ, और साक्ष्य शासित करता है। यह अध्याय पाँच परिभाषाएँ, **अध्याय आठ** योगदान या प्रस्थिति मापन, या अध्याय दस संविधान-विरोधी-दुराचरण मानदंड पुनः नहीं कहता। प्रस्थिति तक सत्यापित गैर-अनुपालन मार्गन [अध्याय तीन §3 — गैर-अनुपालन निष्कर्ष प्रोफ़ाइल](core_03_definition_integrity.md#3-non-compliance-finding-profiles) और [अध्याय आठ — योगदान, उल्लंघन और प्रस्थिति मॉडल](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) से शासित है। **अनुभाग 6** कहता है कि अध्याय दो से चार [अध्याय सात — प्रणाली-संरेखण प्रमाणन](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) से कैसे भिन्न हैं।
+> - **स्थानांतरण-निषेध नियम:** यह अध्याय केवल भार, अनुरेख, प्रेक्षणीयता, सुरक्षा सीमाएँ, और साक्ष्य शासित करता है। यह अध्याय पाँच परिभाषाएँ, **अध्याय आठ** योगदान या प्रस्थिति मापन, या अध्याय दस संविधान-विरोधी-दुराचरण मानदंड पुनः नहीं कहता। प्रस्थिति तक सत्यापित गैर-अनुपालन मार्गन [अध्याय तीन §3 — गैर-अनुपालन निष्कर्ष प्रोफ़ाइल](core_03_definition_integrity.md#3-non-compliance-finding-profiles) और [अध्याय आठ — योगदान, उल्लंघन और प्रस्थिति मॉडल](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) से शासित है। **अनुभाग 6** कहता है कि अध्याय दो से चार [अध्याय सात — प्रणाली-संरेखण प्रमाणन](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) से कैसे भिन्न हैं।
 
 </details>
 
@@ -161,7 +161,7 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - ऊर्ध्व: [अध्याय चार, अनुभाग 1 से 4](#1-exclusive-enforcement-and-burden-allocation); [अध्याय दो, §1 — उद्देश्य और भूमिका](core_02_definition_structure.md#1-purpose-and-role); [अध्याय दो, §2 परिभाषा अखंडता अपेक्षा](core_02_definition_structure.md#2-definition-integrity-requirement); [अध्याय दो, §3 परिभाषा ढेर के आर-पार संगति](core_02_definition_structure.md#3-consistency-across-the-definition-stack); [अध्याय तीन, अनुभाग 1 — परिभाषा अखंडता और बचाव-निरोध बंधन](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [अध्याय तीन, अनुभाग 2 — प्रेक्षणीय प्रणाली आचरण से गैर-अनुपालन](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior); [अध्याय तीन, §2.6 अनिश्चितता अखंडता और शोषण-निषेध बंधन](core_03_definition_integrity.md#26-uncertainty-integrity-and-non-exploitation-constraint) — सारभूत परिभाषा और गैर-अनुपालन नियम; **§4** केवल साक्ष्य-परत अपेक्षाएँ कहता है और उन नियमों को पुनः नहीं कहता।
-- अधो: [अध्याय आठ — योगदान, उल्लंघन और प्रस्थिति मॉडल](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)।
+- अधो: [अध्याय आठ — योगदान, उल्लंघन और प्रस्थिति मॉडल](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)।
 - साथ पढ़ें: [अध्याय चार, अनुभाग 2 — परिभाषा पता-योग्यता अपेक्षा](#2-definition-traceability-requirement) — किसी भी तात्विक रूप से अपेक्षित **अध्याय पाँच** परिभाषा का आह्वान न करना या सही लागू न करना जुड़े आकलन, साक्ष्य, और अनुपालन निर्धारण को पूर्णतः अमान्य करता है; [अध्याय एक, §6 — प्रक्रिया संघर्ष समाधान](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims) जहाँ स्केलिंग संज्ञ कल्याण और दीर्घ-क्षितिज स्थिरता के बीच व्यापार-चयन को प्रभावित करे; [अध्याय पाँच सुरक्षा (बंधन)](../../core_05_band_continuity.md#safety-constraint), [अध्याय पाँच सत्य (संवैधानिक बंधन)](../../core_05_band_oversight.md#truth-constitutional-constraint), और [अध्याय पाँच ज्ञानमीमांसीय अखंडता](../../core_05_band_oversight.md#epistemic-integrity) — अनुभवजन्य, पूर्वानुमानिक, या कारणात्मक दावों के लिए विज्ञान-सूचित साक्ष्य संरेखण।
 
 </details>
@@ -195,8 +195,8 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - ऊर्ध्व: [अध्याय दो — परिभाषा संरचना और घटक अपेक्षाएँ](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements); [अध्याय तीन — परिभाषा अखंडता, बचाव, और गैर-अनुपालन](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance); [अध्याय चार, अनुभाग 1 से 5](#1-exclusive-enforcement-and-burden-allocation)।
-- अधो: [अध्याय सात — प्रणाली-संरेखण प्रमाणन](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification); [अध्याय आठ — योगदान, उल्लंघन और प्रस्थिति मॉडल](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)।
-- साथ पढ़ें: [अध्याय सात §16 — पुनर्खोलना, विसंरेखण, और बचाव-निरोध](../../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — अध्याय दो से चार के अधीन सत्यापित गैर-अनुपालन पूर्व पहचान से निरपेक्ष प्रमाणन पुनर्खोल या हरा सकता है।
+- अधो: [अध्याय सात — प्रणाली-संरेखण प्रमाणन](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [अध्याय आठ — योगदान, उल्लंघन और प्रस्थिति मॉडल](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)।
+- साथ पढ़ें: [अध्याय सात §16 — पुनर्खोलना, विसंरेखण, और बचाव-निरोध](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — अध्याय दो से चार के अधीन सत्यापित गैर-अनुपालन पूर्व पहचान से निरपेक्ष प्रमाणन पुनर्खोल या हरा सकता है।
 
 </details>
 
@@ -213,7 +213,7 @@
 
 ये तब लागू होते हैं जब भी अनुपालन का आकलन हो — प्रमाणन के साथ या बिना।
 
-**[अध्याय सात — प्रणाली-संरेखण प्रमाणन](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)** जहाँ तात्विक हो मंच-पर्यवेक्षित **प्रमाणन प्रक्रिया** देता है: संपूर्ण-प्रणाली मूल्यांकन क्षेत्र, प्रमाणन-अभिलेख कर्तव्य, पहचान परिणाम, पुनर्वैधता लय, चुनौती-योग्यता शृंखला, और अध्याय आठ तक सत्यापित-निवेश सेतु। वह अध्याय दो से चार **लागू** करता है; उन्हें **पुनः नहीं** कहता।
+**[अध्याय सात — प्रणाली-संरेखण प्रमाणन](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)** जहाँ तात्विक हो मंच-पर्यवेक्षित **प्रमाणन प्रक्रिया** देता है: संपूर्ण-प्रणाली मूल्यांकन क्षेत्र, प्रमाणन-अभिलेख कर्तव्य, पहचान परिणाम, पुनर्वैधता लय, चुनौती-योग्यता शृंखला, और अध्याय आठ तक सत्यापित-निवेश सेतु। वह अध्याय दो से चार **लागू** करता है; उन्हें **पुनः नहीं** कहता।
 
 पाठकों को ये नहीं मानना चाहिए:
 - **प्रमाणन अभिलेख** को अध्याय दो से चार के अधीन चलते अनुपालन का स्थानापन्न

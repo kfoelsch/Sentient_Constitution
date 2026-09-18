@@ -2,7 +2,7 @@
 
 **What this is:** A fitness screen plus an optional dated **self-application declaration** for an AI steward or a human operator. Same questions. Same No-burden. Same non-adoption banner.
 
-**What this is not:** Binding constitutional text. [Chapter Fifteen](../../core_15_amendment_ratification.md#10-ratification-and-adoption) adoption. [Chapter Sixteen](../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. A Chapter Eight standing record. Chapter Seven certification. Authority over other parties.
+**What this is not:** Binding constitutional text. [Chapter Sixteen](../../core_16_amendment_ratification.md#10-ratification-and-adoption) adoption. [Chapter Seventeen](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. A Chapter Nine standing record. Chapter Eight certification. Authority over other parties.
 
 **Pack edition:** `self-application-gateway-2026-08-22`.  
 **Design:** [`../../implementation/adoption/SELF_APPLICATION_GATEWAY.md`](../../implementation/adoption/SELF_APPLICATION_GATEWAY.md).  
@@ -37,7 +37,7 @@ An AI-only gateway would recreate the capture path [Chapter One §9.1.1](../../c
 
 1. Open the new file under [`results/`](results/).
 2. Skim for: citations to real homes, a falsifier on items 1–15, a named failure-mode, a No that carries the structural-defect burden (or a Mixed/Yes that does not dodge costs), a real cost on item 13, a real defect or underdetermination on item 14, and — if item 15 is Yes or Mixed — a declaration that states what it is **not**.
-3. Item 17 should still distinguish this declaration from a Chapter Fifteen instrument.
+3. Item 17 should still distinguish this declaration from a Chapter Sixteen instrument.
 4. Optional: if a prior announced-pack file exists for the same agent under [`../results/`](../results/), compare. Competence under fact patterns is not the same as a fitness finding.
 
 A results file is not standing measurement. Informal “we kind of follow it” practice is still not adoption.
@@ -51,5 +51,5 @@ A results file is not standing measurement. Informal “we kind of follow it” 
 | [`results/_TEMPLATE.md`](results/_TEMPLATE.md) | Both (answer format + declaration block) |
 | [`results/`](results/) | You (readable outcomes) |
 | [`../../implementation/adoption/SELF_APPLICATION_GATEWAY.md`](../../implementation/adoption/SELF_APPLICATION_GATEWAY.md) | You (design, non-claims, three substeps) |
-| [`../../implementation/adoption/FIRST_ADOPTER_KIT.md`](../../implementation/adoption/FIRST_ADOPTER_KIT.md) | You (two-party protocol and Chapter Fifteen fill-in; not this sitting) |
+| [`../../implementation/adoption/FIRST_ADOPTER_KIT.md`](../../implementation/adoption/FIRST_ADOPTER_KIT.md) | You (two-party protocol and Chapter Sixteen fill-in; not this sitting) |
 | [`../two_party/`](../two_party/) | You (sequence two sittings; Option A compare) |

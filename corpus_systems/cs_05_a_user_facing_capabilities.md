@@ -6,7 +6,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other CS-5 parts.
 >
-> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Sixteen](../core_16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-5, Part A** (*User-facing capability surfaces*). Lifecycle engineering (**CS-5** §§1–10) remains in [`cs_05_design_testing_verification_deployment.md`](cs_05_design_testing_verification_deployment.md).
+> This file is **binding incorporated implementation text** where [`corpus_systems.md`](../corpus_systems.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CS-5, Part A** (*User-facing capability surfaces*). Lifecycle engineering (**CS-5** §§1–10) remains in [`cs_05_design_testing_verification_deployment.md`](cs_05_design_testing_verification_deployment.md).
 >
 > Start at the [Systems and data landing page](../corpus_systems.md) for reading order, or the [systems registry](cs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -15,7 +15,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Article XII-B](../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*); [Article XVI](../core_06_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*); [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure); [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [Article XII-B](../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*); [Article XVI](../core_06_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*); [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [§11](#cs-5-11-purpose-and-role); [§12](#cs-5-12-in-scope-catalog); [§13](#cs-5-13-analog-digital-and-channel-class); [§14](#cs-5-14-what-this-file-does-not-own).
 - Read with: **CS-5**; **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-6**; **CJS-3.8**; **CJS-3.17**; **CI-8.3**.
 
@@ -46,7 +46,7 @@ This file is the systems implementation home for **CS-5, Part A** (*User-facing 
 
 - the systems-layer catalog of **user-reachable capability surfaces** for in-scope systems — who can do or inspect a named act, and which owner already states the duty;
 - the channel-class rule in [§13](#cs-5-13-analog-digital-and-channel-class): analog remains lawful unless the cited owner already requires a digital or machine-usable channel;
-- the negative duties in [§14](#cs-5-14-what-this-file-does-not-own): do not invent a standing portal, a federated Type O directory, or a unified subject-access product that defeats Chapter Eight silence.
+- the negative duties in [§14](#cs-5-14-what-this-file-does-not-own): do not invent a standing portal, a federated Type O directory, or a unified subject-access product that defeats Chapter Nine silence.
 
 **What this file does not own**
 
@@ -57,7 +57,7 @@ This file is the systems implementation home for **CS-5, Part A** (*User-facing 
 - comprehensibility and complexity stewardship in **CS-6**;
 - shared digital self-service and exit-integrity terms in **CJS-3.17** and institutional supervision in **CI-8.3**;
 - the challenge, review, and redress floor in **Article XII-B**;
-- standing records, forum dockets, collective choice, and remedy offices — those remain in Chapters Seven through Twelve, **CF**, and **CI**.
+- standing records, forum dockets, collective choice, and remedy offices — those remain in Chapters Eight through Thirteen, **CF**, and **CI**.
 
 This file implements the **CS-5.1** rule that the constitution defines required capabilities and outcomes, and that specific technical implementations may evolve, provided they remain auditable. It is a catalog of surfaces, not a software list and not a second home for **CF-15** or **CJS-3.17**.
 
@@ -106,11 +106,11 @@ Do not treat “user-facing” as “must be an app.”
 
 *In plain terms: standing, forum dockets, voting, and remedy stay where they already live; do not build a portal that quietly opens a standing record or pretends to be a second forms book.*
 
-**Constitutional-operating surfaces** — standing records, forum intake and standard records, collective choice, seat catalogs, and remedy offices — are **not** owned here. They remain with Chapters Seven through Twelve, **CF**, and **CI**. Integrator inventory of those surfaces (process support; cannot narrow; not a second **CF-15**): [`evidence/2026-09-10/cs_user_facing_software_audit.md`](../evidence/2026-09-10/cs_user_facing_software_audit.md).
+**Constitutional-operating surfaces** — standing records, forum intake and standard records, collective choice, seat catalogs, and remedy offices — are **not** owned here. They remain with Chapters Eight through Thirteen, **CF**, and **CI**. Integrator inventory of those surfaces (process support; cannot narrow; not a second **CF-15**): [`evidence/2026-09-10/cs_user_facing_software_audit.md`](../evidence/2026-09-10/cs_user_facing_software_audit.md).
 
-**Silence default.** Do not invent a standing portal for everyone. [Chapter Eight §2.1](../core_08_standing_assessment.md#21-silence-is-the-default) — silence is the default; most sentients never have a standing record. A filed case is not standing by itself. Tools under [Chapter Eight §3.5](../core_08_standing_assessment.md#35-implementation-tools) are optional and must not bury required fields in a score.
+**Silence default.** Do not invent a standing portal for everyone. [Chapter Nine §2.1](../core_09_standing_assessment.md#21-silence-is-the-default) — silence is the default; most sentients never have a standing record. A filed case is not standing by itself. Tools under [Chapter Nine §3.5](../core_09_standing_assessment.md#35-implementation-tools) are optional and must not bury required fields in a score.
 
-**No unified subject-access product.** Integrators may compose existing surfaces (identity control, inspect-if-open standing records, **Article VIII-B** experiential and derived data). Composition must **not** defeat the Chapter Eight silence default.
+**No unified subject-access product.** Integrators may compose existing surfaces (identity control, inspect-if-open standing records, **Article VIII-B** experiential and derived data). Composition must **not** defeat the Chapter Nine silence default.
 
 **No CS-13.** User-reachable in-scope surfaces stay in this Part A catalog. Constitutional-operating surfaces stay with their existing owners. Do not mint a “required software” family.
 

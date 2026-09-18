@@ -23,7 +23,7 @@
 - 上流：[第五章の羅針](core_05__definitions_home.md#chapter-five-compass-and-definition-map)；[憲法四元](core_00_preamble.md#constitutional-tetrad)（説明責任脚；[実質的利害](core_00_preamble.md#material-stake)による尺度合わせ）；[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)；第一次の目的 [繁栄](core_00_preamble.md#flourishing)。
 - 下流：原則：[§10 責務ある管理の規律のもとでの統治](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)；[第一章 §11.6 承継者の責任と形式構造による逃避の禁止](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape)；[四元脚の分解](#accountability-tetrad-leg-decomposition)；説明責任帯の葉定義は [core_05_band_accountability.md](../../core_05_band_accountability.md)。
 - 四元の兄弟脚：[適時性](core_05_apex_timeliness_leg.md#timeliness-constitutional)。
-- あわせて読む：[説明責任、争訟可能性、裁定と紛争解決、集合的説明責任の失敗、および不可抗力のクラスター](../../core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster)、[争訟可能性](../../core_05_band_accountability.md#contestability)、[監査可能性](../../core_05_band_oversight.md#auditability)、[帰属可能な行為](../../core_05_band_accountability.md#attributable-action-constitutional)、[帰属の誠実性](../../core_05_band_accountability.md#attribution-integrity-constitutional)、[第一章 §11.6](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape)、[第三章 §2.1.1 形式的ラベルと表示の弄り](core_03_definition_integrity.md#211-formal-label-and-representation-gaming)、および [第九章 §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority)。
+- あわせて読む：[説明責任、争訟可能性、裁定と紛争解決、集合的説明責任の失敗、および不可抗力のクラスター](../../core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster)、[争訟可能性](../../core_05_band_accountability.md#contestability)、[監査可能性](../../core_05_band_oversight.md#auditability)、[帰属可能な行為](../../core_05_band_accountability.md#attributable-action-constitutional)、[帰属の誠実性](../../core_05_band_accountability.md#attribution-integrity-constitutional)、[第一章 §11.6](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape)、[第三章 §2.1.1 形式的ラベルと表示の弄り](core_03_definition_integrity.md#211-formal-label-and-representation-gaming)、および [第九章 §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority)。
 
 </details>
 
@@ -83,7 +83,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- あわせて読む：[第一章 §11 誘因整合とシステム捕捉](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture)、[§13 市場構造](core_01_c_stewardship_capacity_principles.md#13-market-structure)、および [第七章 §3.7 統治、誘因、争訟可能性の規律](../../core_07_a_system_alignment_certification_evaluation.md#37-governance-incentive-and-contestability-discipline)。
+- あわせて読む：[第一章 §11 誘因整合とシステム捕捉](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture)、[§13 市場構造](core_01_c_stewardship_capacity_principles.md#13-market-structure)、および [第七章 §3.7 統治、誘因、争訟可能性の規律](../../core_08_a_system_alignment_certification_evaluation.md#37-governance-incentive-and-contestability-discipline)。
 
 </details>
 

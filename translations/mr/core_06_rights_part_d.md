@@ -12,7 +12,7 @@
 >
 > **मागील (या भाषेत):** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 >
-> **पुढील (अजून इंग्रजीत):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+> **पुढील (अजून इंग्रजीत):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 > **वाचन चाप:** अनुच्छेद XXIII–XXVI (न्याय आणि आणीबाणी, संवैधानिक उत्क्रांती, संक्रमण, आणि पुनर्आधाररेषा)
 
 </details>
@@ -69,7 +69,7 @@
 
 *शेजारी अनुच्छेद:*
 
-- **समयबद्धता तळ:** निराकरण वेग, विलंब-विरोधी शिस्त, आणि भौतिकता-स्तराचे टप्पे **अनुच्छेद XXIV-C** (*समयबद्ध निराकरण आणि विलंब-विरोधी तळ*) शासित करतो, [अध्याय अकरा §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) द्वारे अंमलात.
+- **समयबद्धता तळ:** निराकरण वेग, विलंब-विरोधी शिस्त, आणि भौतिकता-स्तराचे टप्पे **अनुच्छेद XXIV-C** (*समयबद्ध निराकरण आणि विलंब-विरोधी तळ*) शासित करतो, [अध्याय अकरा §6](../../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) द्वारे अंमलात.
 - **समयबद्ध निवारण:** [**अनुच्छेद XII-B** (*आव्हान, समीक्षा, आणि निवारणाचा अधिकार*)](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*समयबद्ध निवारण पोहोच*) सोबत वाचा.
 
 अंगिकृत शासन अंमलबजावणी तीव्रता, हस्तक्षेपाची प्रमाणबद्धता, आणीबाणी सीमा, आणि स्तर-पूर्वनिर्धारित वेळ खिडक्या पुरवते. तिने या अनुच्छेदाखाली व्यावहारिक पोहोच, समीक्षायोग्यता, पुनर्स्थापना, समयबद्ध निराकरण, किंवा अधिकार-तळ बंधने आकुंचित करू नयेत.
@@ -79,7 +79,7 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - वरून: तत्त्वे: अध्याय एक [§3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), [अध्याय एक §6.1.5 अधिकार-टक्कर प्रक्रिया](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [अध्याय एक §9.6 अवनती-निरोध प्रक्रिया](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline), आणि [§15 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- पुढे: [अध्याय नऊ §4](../../core_09_standing_integration.md#4-violation-correction-and-prevention) (*उल्लंघन, सुधारणा, आणि प्रतिबंध*); [अनुच्छेद XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [अनुच्छेद XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule).
+- पुढे: [अध्याय नऊ §4](../../core_10_standing_integration.md#4-violation-correction-and-prevention) (*उल्लंघन, सुधारणा, आणि प्रतिबंध*); [अनुच्छेद XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [अनुच्छेद XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule).
 - सोबत वाचा: [क्रूरता](core_05_band_accountability.md#cruelty) (*क्रूरता-निरोध तळाच्या दुःख-म्हणून-साध्य मानकाचे अध्याय पाच घर*).
 
 </details>
@@ -196,7 +196,7 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - वरून: तत्त्वे: अध्याय एक [§3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 मूल व्यापार तत्त्व](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), आणि [अध्याय एक §6.1.5 अधिकार-टक्कर प्रक्रिया](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- सोबत वाचा: अस्तित्वगत-धोका छाननी भौतिक रीतीने संबंधित असेल तिथे **अनुच्छेद I-D** (*अस्तित्वगत धोका आणि पारिस्थितिक पुनर्प्राप्ती क्षमता*); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) चे **सहभाग** आणि **समयबद्धता** पाया; [अनुच्छेद XXIV-C](#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*समयबद्ध निराकरण आणि विलंब-विरोधी तळ*); [अध्याय अकरा §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*पुनर्स्थापना-आव्हान पूर्वनिर्धारित म्हणून पुनर्वापरलेल्या भौतिकता-स्तर बाह्य सीमा*).
+- सोबत वाचा: अस्तित्वगत-धोका छाननी भौतिक रीतीने संबंधित असेल तिथे **अनुच्छेद I-D** (*अस्तित्वगत धोका आणि पारिस्थितिक पुनर्प्राप्ती क्षमता*); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) चे **सहभाग** आणि **समयबद्धता** पाया; [अनुच्छेद XXIV-C](#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*समयबद्ध निराकरण आणि विलंब-विरोधी तळ*); [अध्याय अकरा §6](../../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*पुनर्स्थापना-आव्हान पूर्वनिर्धारित म्हणून पुनर्वापरलेल्या भौतिकता-स्तर बाह्य सीमा*).
 - पुढे: [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) (*आकडी टप्पा तक्त्यांनी हे पूर्वनिर्धारित मंद करू नयेत*).
 
 </details>
@@ -242,14 +242,14 @@
   - प्रमाणबद्धता;
   - कमी-प्रतिबंधक व्यवहार्य पर्यायांची अनुपस्थिती.
 <a id="xxiii-d-restore-challenge-clocks"></a>
-- **समीक्षा आणि सूचना (पुनर्स्थापना-आव्हान घड्याळे):** आत्ता आटोक्यात ठेवा; सूचना आणि आव्हान नंतर पुनर्स्थापित करा; सहभाग कधीही कायमचा वगळू नका. «व्यवहार्य होताच» हे घड्याळ नाही. प्रभावित पक्षांना [**अनुच्छेद XXIV-C**](#article-xxiv-c-timely-resolution-and-anti-delay-floor) मंच निराकरणासाठी आधीच वापरतो त्याच भौतिकता-स्तर बाह्य सीमांत सूचना आणि पुनर्स्थापित आव्हान पोहोच मिळायला हवी, [अध्याय अकरा §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) अंमलात आणतो त्यानुसार:
+- **समीक्षा आणि सूचना (पुनर्स्थापना-आव्हान घड्याळे):** आत्ता आटोक्यात ठेवा; सूचना आणि आव्हान नंतर पुनर्स्थापित करा; सहभाग कधीही कायमचा वगळू नका. «व्यवहार्य होताच» हे घड्याळ नाही. प्रभावित पक्षांना [**अनुच्छेद XXIV-C**](#article-xxiv-c-timely-resolution-and-anti-delay-floor) मंच निराकरणासाठी आधीच वापरतो त्याच भौतिकता-स्तर बाह्य सीमांत सूचना आणि पुनर्स्थापित आव्हान पोहोच मिळायला हवी, [अध्याय अकरा §6](../../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) अंमलात आणतो त्यानुसार:
   - **Tier A:** जास्तीत जास्त **एक आठवडा**;
   - **Tier B:** जास्तीत जास्त **तीन आठवडे**;
   - **Tier C:** जास्तीत जास्त **दोन महिने**;
   - **Tier L:** जास्तीत जास्त **चार महिने**;
   - **Tier P:** जास्तीत जास्त **सहा महिने**.
 
-  ती संख्या पुनर्वापरली जाते; दुसरा तक्ता नाही. [अध्याय अकरा §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) आकडी घर राहतो. पुनर्स्थापना-आव्हान खिडकी आणीबाणी उपाय सुरू झाल्यापासून, किंवा सूचना किंवा आव्हान स्थगित झाल्यापासून चालते — जे आधी घडेल. सूचना किंवा आव्हान स्थगित करणारे आणीबाणी आटोक्यात ठेवणे **Tier A** आहे, जोपर्यंत दस्तऐवजीकृत निम्न-तातडीचा दाखला नोंदला जात नाही. चालक आधी पुनर्स्थापित करू शकतात. **निरंतरता शिस्त** शिवाय ते स्तर-पूर्वनिर्धारितपलीकडे ताणू शकत नाहीत. उपायाची पूर्ण स्वतंत्र समीक्षा त्याच खिडकीत सुरू व्हायला हवी. [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) मधील टप्पा तक्त्यांनी हे पूर्वनिर्धारित मंद करू नयेत.
+  ती संख्या पुनर्वापरली जाते; दुसरा तक्ता नाही. [अध्याय अकरा §6](../../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) आकडी घर राहतो. पुनर्स्थापना-आव्हान खिडकी आणीबाणी उपाय सुरू झाल्यापासून, किंवा सूचना किंवा आव्हान स्थगित झाल्यापासून चालते — जे आधी घडेल. सूचना किंवा आव्हान स्थगित करणारे आणीबाणी आटोक्यात ठेवणे **Tier A** आहे, जोपर्यंत दस्तऐवजीकृत निम्न-तातडीचा दाखला नोंदला जात नाही. चालक आधी पुनर्स्थापित करू शकतात. **निरंतरता शिस्त** शिवाय ते स्तर-पूर्वनिर्धारितपलीकडे ताणू शकत नाहीत. उपायाची पूर्ण स्वतंत्र समीक्षा त्याच खिडकीत सुरू व्हायला हवी. [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) मधील टप्पा तक्त्यांनी हे पूर्वनिर्धारित मंद करू नयेत.
 - **सामान्यीकरण नाही:** आणीबाणी उपाय कायम शासनात सामान्य होता कामा नयेत, याशिवाय:
   - **अध्याय एक**-सुसंगत न्यायोचिती (**आवश्यकता** आणि **प्रमाणबद्धता**);
   - **दस्तऐवजीकृत स्वतंत्र पुनर्अधिकार**;
@@ -329,7 +329,7 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - वरून: तत्त्वे: अध्याय एक [§6.1.5 अधिकार-टक्कर निर्णय परीक्षा](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [§7 निरपवाद अधिरोहणाचा निषेध](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override), आणि [§15 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- सोबत वाचा: [अध्याय नऊ §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*स्वैच्छिक सार्वजनिक उत्तरदायित्व अभिव्यक्ती*); [अध्याय दहा §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*स्वैच्छिक सार्वजनिक उत्तरदायित्व अभिव्यक्ती (संविधान-विरोधी)*).
+- सोबत वाचा: [अध्याय नऊ §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*स्वैच्छिक सार्वजनिक उत्तरदायित्व अभिव्यक्ती*); [अध्याय दहा §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*स्वैच्छिक सार्वजनिक उत्तरदायित्व अभिव्यक्ती (संविधान-विरोधी)*).
 
 </details>
 
@@ -358,7 +358,7 @@
     - चालू धोका;
     - भौतिक शक्ती असममितता;
     - प्रभावित पक्षांची असंमती.
-- **स्वैच्छिक सार्वजनिक उत्तरदायित्व अभिव्यक्ती:** सामान्यतः [अध्याय नऊ §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*स्वैच्छिक सार्वजनिक उत्तरदायित्व अभिव्यक्ती*) शासित करतो, आणि सत्यापित संविधान-विरोधी दुराचरणासाठी [अध्याय दहा §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*स्वैच्छिक सार्वजनिक उत्तरदायित्व अभिव्यक्ती (संविधान-विरोधी)*), या अनुच्छेदातील अधिकार-टक्कर आणि पुनर्स्थापना-संरेखन नियमांच्या अधीन.
+- **स्वैच्छिक सार्वजनिक उत्तरदायित्व अभिव्यक्ती:** सामान्यतः [अध्याय नऊ §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*स्वैच्छिक सार्वजनिक उत्तरदायित्व अभिव्यक्ती*) शासित करतो, आणि सत्यापित संविधान-विरोधी दुराचरणासाठी [अध्याय दहा §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*स्वैच्छिक सार्वजनिक उत्तरदायित्व अभिव्यक्ती (संविधान-विरोधी)*), या अनुच्छेदातील अधिकार-टक्कर आणि पुनर्स्थापना-संरेखन नियमांच्या अधीन.
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### अनुच्छेद XXIV-C: समयबद्ध निराकरण आणि विलंब-विरोधी तळ
 <details>
@@ -366,7 +366,7 @@
 
 - वरून: समयबद्धता मापन कुटुंब (*संवैधानिक मापन म्हणून समयबद्ध निराकरण आणि विलंब-विरोधी शिस्त*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums) (*प्रस्थिति, एकत्रीकरण, आणि मंच समन्वय शृंखला*).
 - तत्त्वे: अध्याय एक [§12.2 संवैधानिक कार्यक्षमता](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency), [अध्याय एक §6.3 टाळता येणाऱ्या भाराचे न्यूनीकरण](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), आणि [अध्याय एक §6.1.5 अधिकार-टक्कर प्रक्रिया](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- पुढे: [अध्याय अकरा §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*भौतिकता स्तर, शृंखला टप्पे, आणि विलंब-विरोधी शिस्त*); [अनुच्छेद XXIII-D](#xxiii-d-restore-challenge-clocks) (*आणीबाणी आटोक्यात ठेवण्यानंतर पूर्वनिर्धारित पुनर्स्थापना-आव्हान खिडक्या म्हणून त्याच बाह्य सीमा*).
+- पुढे: [अध्याय अकरा §6](../../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*भौतिकता स्तर, शृंखला टप्पे, आणि विलंब-विरोधी शिस्त*); [अनुच्छेद XXIII-D](#xxiii-d-restore-challenge-clocks) (*आणीबाणी आटोक्यात ठेवण्यानंतर पूर्वनिर्धारित पुनर्स्थापना-आव्हान खिडक्या म्हणून त्याच बाह्य सीमा*).
 - व्यवस्थापक द्वार (असंक्रियात्मक): बंधनकारक पुढील-पाऊल विधान: [संक्रियात्मक व्यवस्थापक विधान](#operative-steward-statement-delay). सहायक संकेत त्याला आकुंचित करू शकत नाहीत.
 
 </details>
@@ -394,8 +394,8 @@
 - **तीन संयुक्त अपेक्षा:** भौतिक निराकरण नामित मार्ग एकत्र **समयबद्ध**, **कार्यक्षम**, आणि **न्याय्य** हवेत:
   - **समयबद्ध** — [भौतिक दाव](core_00_preamble.md#material-stake) आणि हानी तातडीनुसार प्रमाणित सीमाबद्ध घड्याळे;
   - **कार्यक्षम** — [संवैधानिक कार्यक्षमता](core_05_band_continuity.md#constitutional-efficiency) अध्याय एक [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) च्या अर्थाने — वापरलेल्या संज्ञ वेळ आणि सामायिक प्रयत्नामागे खरा संवैधानिक निकाल, कच्चा थ्रूपुट किंवा यादी साफ करणे नाही;
-  - **न्याय्य** — **अनुच्छेद XXIII-A** (*न्यायाचे उद्दिष्ट आणि व्याप्ती*), **अनुच्छेद XXIII-B** (*अतुच्छ प्रतिबंध, परतफेड, आणि पुनर्स्थापना-उत्तरदायित्व बंधने*), आणि **अनुच्छेद XXIII-C** (*न्यूनतम-प्रतिबंधक आणि समय-सीमित नियम*) पूर्ण लागू राहतात; जलद पुढे जाणे तपासलेली वस्तुस्थिती वगळण्याचे ([अध्याय आठ §3.1](../../core_08_standing_assessment.md#verified-inputs-for-standing)), चुकीच्या पक्षाला शिक्षा देण्याचे, हानीशी न जुळणारी दुरुस्ती देण्याचे, किंवा आव्हान आणि अपील कापण्याचे निमित्त नाही.
-- **मंच आणि शृंखला पर्यवेक्षण:** **अध्याय आठ ते अकरा** द्वारे मार्गनिर्देशित विवादांसाठी खालील [अध्याय अकरा §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) शासित करतो, या अनुच्छेदाच्या समयबद्ध, कार्यक्षम, आणि न्याय्य तळाच्या अधीन:
+  - **न्याय्य** — **अनुच्छेद XXIII-A** (*न्यायाचे उद्दिष्ट आणि व्याप्ती*), **अनुच्छेद XXIII-B** (*अतुच्छ प्रतिबंध, परतफेड, आणि पुनर्स्थापना-उत्तरदायित्व बंधने*), आणि **अनुच्छेद XXIII-C** (*न्यूनतम-प्रतिबंधक आणि समय-सीमित नियम*) पूर्ण लागू राहतात; जलद पुढे जाणे तपासलेली वस्तुस्थिती वगळण्याचे ([अध्याय आठ §3.1](../../core_09_standing_assessment.md#verified-inputs-for-standing)), चुकीच्या पक्षाला शिक्षा देण्याचे, हानीशी न जुळणारी दुरुस्ती देण्याचे, किंवा आव्हान आणि अपील कापण्याचे निमित्त नाही.
+- **मंच आणि शृंखला पर्यवेक्षण:** **अध्याय आठ ते अकरा** द्वारे मार्गनिर्देशित विवादांसाठी खालील [अध्याय अकरा §6](../../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) शासित करतो, या अनुच्छेदाच्या समयबद्ध, कार्यक्षम, आणि न्याय्य तळाच्या अधीन:
   - भौतिकता-स्तर वर्गीकरण;
   - शृंखला-टप्पा टप्पे;
   - एकत्रित-निराकरण बाह्य सीमा;
@@ -431,7 +431,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: तत्त्वे: [अध्याय एक §10.3 चालू न्यायोचिती](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification); अध्याय एक [§2 पायाभूत उद्दिष्ट: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), आणि [§7 निरपवाद अधिरोहणाचा निषेध](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- वरून: तत्त्वे: [अध्याय एक §10.3 चालू न्यायोचिती](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification); अध्याय एक [§2 पायाभूत उद्दिष्ट: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), आणि [§7 निरपवाद अधिरोहणाचा निषेध](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 
 </details>
 
@@ -461,7 +461,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: तत्त्वे: अध्याय एक [§3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), आणि [§7 निरपवाद अधिरोहणाचा निषेध](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- वरून: तत्त्वे: अध्याय एक [§3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), आणि [§7 निरपवाद अधिरोहणाचा निषेध](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 
 </details>
 
@@ -517,7 +517,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: तत्त्वे: अध्याय एक [§3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 मूल व्यापार तत्त्व](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), आणि [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [अध्याय नऊ §5.4](../../core_09_standing_integration.md#54-special-violation-rules) (*असंरेखित-बक्षीस जप्ती आणि अहवाल कर्तव्य या अनुच्छेदाने संक्रमणकाळात मर्यादित*); [अध्याय सात — प्रणाली-संरेखन प्रमाणन](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification).
+- वरून: तत्त्वे: अध्याय एक [§3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 मूल व्यापार तत्त्व](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), आणि [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [अध्याय नऊ §5.4](../../core_10_standing_integration.md#54-special-violation-rules) (*असंरेखित-बक्षीस जप्ती आणि अहवाल कर्तव्य या अनुच्छेदाने संक्रमणकाळात मर्यादित*); [अध्याय सात — प्रणाली-संरेखन प्रमाणन](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -554,7 +554,7 @@
   
   अवमूल्यन, निवृत्ती, मागे-घेणे, स्थलांतर, किंवा बदल **पुरावा संरक्षण** आणि **अनुच्छेद VII-D** (*कुटुंब, देखभाल नाते, प्रजनन स्वायत्तता, आणि अ-विभक्ती*) अ-विभक्ती शिस्तीखाली अवस्था-वाहक घटक संग्रहित करून हा मुद्दा पूर्ण करतो. हे [अध्याय एक §6.1 पूर्वनिर्धारित अंतरिम मुद्रा](core_01_b_interaction_interpretation.md#default-interim-posture) आहे — अपरिवर्तनीय पावले गोठवा — वारसा चालन नित्य मानतो त्या एका अपरिवर्तनीय पावलावर लागू. साठवण खर्च, परवाना सोय, किंवा उत्पादन-चक्र चौकट त्याच्याविरुद्ध **आवश्यकता** पूर्ण करत नाही. जिथे धारण स्वतः दस्तऐवजीकृत सुरक्षा धोका निर्माण करते, न्यूनतम-प्रतिबंधक सुसंगत उपाय विनाश नाही तर स्वतंत्र नियंत्रणाखालील सीलबंद अभिरक्षा आहे.
 <a id="incentive-alignment-transition-carve-out"></a>
-- **प्रोत्साहन-संरेखन संक्रमण अपवाद:** **अनुच्छेद XXVI** (*संक्रमण शासन, सातत्य, आणि पुनर्आधाररेषा*) खालील मंजूर संक्रमण टप्प्यांत, [अध्याय सात — प्रणाली-संरेखन प्रमाणन](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) सोबत वाचा. [अध्याय नऊ §5.4 अहवाल कर्तव्य आणि वगळणी](../../core_09_standing_integration.md#54-special-violation-rules) आणि [§5.4 जप्ती आणि धारण](../../core_09_standing_integration.md#54-special-violation-rules) सामायिक प्रणालींतून वाहणाऱ्या बक्षिसांना **फक्त** त्या प्रणाली **अजून संरेखन-प्रमाणित नाहीत** किंवा **अजून पूर्ण संरेखित नाहीत** म्हणून लागू **होत नाहीत**, जर:
+- **प्रोत्साहन-संरेखन संक्रमण अपवाद:** **अनुच्छेद XXVI** (*संक्रमण शासन, सातत्य, आणि पुनर्आधाररेषा*) खालील मंजूर संक्रमण टप्प्यांत, [अध्याय सात — प्रणाली-संरेखन प्रमाणन](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) सोबत वाचा. [अध्याय नऊ §5.4 अहवाल कर्तव्य आणि वगळणी](../../core_10_standing_integration.md#54-special-violation-rules) आणि [§5.4 जप्ती आणि धारण](../../core_10_standing_integration.md#54-special-violation-rules) सामायिक प्रणालींतून वाहणाऱ्या बक्षिसांना **फक्त** त्या प्रणाली **अजून संरेखन-प्रमाणित नाहीत** किंवा **अजून पूर्ण संरेखित नाहीत** म्हणून लागू **होत नाहीत**, जर:
   - चालन **अनुच्छेद XXVI** (*संक्रमण शासन, सातत्य, आणि पुनर्आधाररेषा*) खाली **दस्तऐवजीकृत संक्रमण योजना** आणि प्रकाशित द्वार निकषांत राहील;
   - प्रणाली प्रकाशित तालावर [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) कडे पुढे जात असेल, अध्याय सात परवानगी देईल तिथे **सशर्त** किंवा **स्थगित मान्यता** धरून; आणि
   - चालक आणि लाभार्थी असंरेखन **जाणूनबुजून लपत नसतील**, मंजूर संक्रमण व्याप्तीबाहेर चालवत नसतील, किंवा प्रमाणन, सुधारणा, किंवा संरक्षित अहवाल टाळण्यासाठी संक्रमण स्थिती वापरत नसतील.
@@ -600,7 +600,7 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - वरून: तत्त्वे: अध्याय एक [§3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 मूल व्यापार तत्त्व](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), आणि [§15 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- सोबत वाचा: [अध्याय सात](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*प्रणाली-संरेखन प्रमाणन*); [अध्याय आठ ते अकरा](../../README.md#standing-pipeline-and-forums) (*प्रस्थिति शृंखला आणि मंच पर्यवेक्षण*).
+- सोबत वाचा: [अध्याय सात](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*प्रणाली-संरेखन प्रमाणन*); [अध्याय आठ ते अकरा](../../README.md#standing-pipeline-and-forums) (*प्रस्थिति शृंखला आणि मंच पर्यवेक्षण*).
 
 </details>
 
@@ -624,7 +624,7 @@
   पूर्वनिर्धारित पर्यायी नामित मार्ग, आंशिक मागे-घेण्याचे निकष, आणि पुनर्आधाररेषा प्रक्रिया [**CI-14**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*संक्रमण शासन आणि संस्थात्मक उत्क्रांती*) शासित करतो.
   - अपयशी किंवा अवनत संक्रमण अवस्था फक्त टिकून राहिल्याने नवी आधाररेषा बनू नयेत.
 - **भौतिक आधाररेषा पुनर्रचना:** भौतिक आधाररेषा पुनर्रचना द्वारे अपयशी होतील किंवा संक्रमण अडकेल तेव्हा संक्रमण टप्पे, धोका गृहीते, मालकी, आणि चालन योजना अद्ययावत करते. तिला संवैधानिक रीतीने वैध प्राधिकार आणि दस्तऐवजीकृत सार्वजनिक कारणे हवीत. तिने **अधिकार-तळ न्यूनतम** राखायला हवेत आणि संविधान कायदेशीर रीतीने बदलण्याच्या नियमांचा पर्याय होता कामा नये.
-- **सत्यापन-आरोग्य पूर्वअट:** सुधारित संक्रमण आधाररेषेवर पुनर्रचना किंवा चालू ठेवणे अनुपालन-भंग आहे जिथे [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) [अध्याय सात](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) खाली किंवा [अध्याय आठ ते अकरा](../../README.md#standing-pipeline-and-forums) खालील प्रस्थिति शृंखला संरचनात्मक रीतीने अविश्वसनीय आहे — उदाहरणार्थ, जिथे प्रमाणन अधिकार-तळ भौतिक रीतीने पराभूत करणाऱ्या प्रणालींना नियमित आशीर्वाद देते, प्रस्थिति मापन सत्यापित भौतिक वास्तवापासून नियमित विचलित होते, किंवा आव्हान आणि समीक्षा नामित मार्ग त्या दरी भौतिकता-प्रमाणित वेळेत दुरुस्त करू शकत नाहीत. त्या स्थितींत सत्यापन आणि मापन यंत्रणेची दुरुस्ती सौंदर्य पुनर्नियोजनापेक्षा पूर्वक्रम घेते.
+- **सत्यापन-आरोग्य पूर्वअट:** सुधारित संक्रमण आधाररेषेवर पुनर्रचना किंवा चालू ठेवणे अनुपालन-भंग आहे जिथे [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) [अध्याय सात](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) खाली किंवा [अध्याय आठ ते अकरा](../../README.md#standing-pipeline-and-forums) खालील प्रस्थिति शृंखला संरचनात्मक रीतीने अविश्वसनीय आहे — उदाहरणार्थ, जिथे प्रमाणन अधिकार-तळ भौतिक रीतीने पराभूत करणाऱ्या प्रणालींना नियमित आशीर्वाद देते, प्रस्थिति मापन सत्यापित भौतिक वास्तवापासून नियमित विचलित होते, किंवा आव्हान आणि समीक्षा नामित मार्ग त्या दरी भौतिकता-प्रमाणित वेळेत दुरुस्त करू शकत नाहीत. त्या स्थितींत सत्यापन आणि मापन यंत्रणेची दुरुस्ती सौंदर्य पुनर्नियोजनापेक्षा पूर्वक्रम घेते.
 - **सार्वजनिक माग-काढता येणे:** भौतिक संक्रमण निर्णय, विलंब, उलट, आणि आधाररेषा-पुनर्रचना निर्धार कारण आणि धोका परिणामांसह लेखापरीक्षण-योग्य राहायला हवेत.
   - दस्तऐवजीकरण संकुचित, न्याय्य गोपनीयता बंधनांच्या अधीन राहते.
   - विलंब, मागे-घेणे, किंवा चालू ठेवणे संवैधानिक रीतीने न्याय्य आहे का हे मूल्यमापन करण्याइतके सार्वजनिक स्पष्टीकरण राखायला हवे.
@@ -635,7 +635,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: तत्त्वे: अध्याय एक [§3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), [अध्याय एक §6.1.5 अधिकार-टक्कर प्रक्रिया](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), आणि [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- वरून: तत्त्वे: अध्याय एक [§3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), [अध्याय एक §6.1.5 अधिकार-टक्कर प्रक्रिया](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), आणि [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - सोबत वाचा: **अनुच्छेद III-A** (*जीवनरक्षा*); **अनुच्छेद XII** (*विश्वसनीय आणि विश्वासार्ह प्रणालींचा अधिकार*); **अनुच्छेद X-B** (*सामूहिक हानी सीमा आणि अंमलबजावणी आंतरपृष्ठ*); **अध्याय आठ**; **अध्याय एक**, §6 अधिकार-टक्कर प्रक्रिया धरून; अध्याय सहाच्या सुरुवातीतील **पूर्वनिर्धारित बंधन-स्तूप** (*धारकता आणि सुधारणा आंतरपृष्ठ*); [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) ते **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*संक्रमण शासन आणि संस्थात्मक उत्क्रांती*).
 
 </details>
@@ -653,7 +653,7 @@
 
 *सोप्या भाषेत: अनुपालन-भंग प्रणाली आणि मालमत्ता संक्रमणकाळात सुधारता येतील — पण फक्त संकुचित, दस्तऐवजीकृत, समीक्षा-योग्य प्रक्रियांद्वारे ज्या मूल अधिकार रक्षतात, निमित्त अडवतात, आणि प्रतिशोध किंवा राजकीय लक्ष्यीकरण बनत नाहीत. संस्था ते कसे पार पाडतात — भूमिका, ट्रिगर, अभिरक्षा, अपील, निधी, आणि प्रोत्साहन यांत्रिकी — **CI-14.1** ते **CI-14.3** मध्ये राहते; हा अनुच्छेद तो संवैधानिक तळ सांगतो जो त्या प्रक्रिया आकुंचित करू नयेत.*
 
-- **धारकता तळ:** तुम्ही कायदेशीर रीतीने काही मालकीचे किंवा वापरत असाल, तर संक्रमण ते मनमानीने काढू शकत नाही. पण मालकी ढाल नाही जेव्हा ती संपत्ती चालू ठेवणे ज्ञात, मोठ्या-प्रमाणातील संवैधानिक उल्लंघन स्पष्टपणे चालू ठेवते — [अध्याय आठ](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) ने उल्लंघन अभिलेखावर दस्तऐवजीकृत केल्यानंतर. त्या स्थितीत संक्रमण हानी थांबवण्यासाठी अजून कृती करू शकते, पण फक्त या अनुच्छेदातील आणि **CI-14.1** ते **CI-14.3** मधील रक्षक उपायांद्वारे.
+- **धारकता तळ:** तुम्ही कायदेशीर रीतीने काही मालकीचे किंवा वापरत असाल, तर संक्रमण ते मनमानीने काढू शकत नाही. पण मालकी ढाल नाही जेव्हा ती संपत्ती चालू ठेवणे ज्ञात, मोठ्या-प्रमाणातील संवैधानिक उल्लंघन स्पष्टपणे चालू ठेवते — [अध्याय आठ](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) ने उल्लंघन अभिलेखावर दस्तऐवजीकृत केल्यानंतर. त्या स्थितीत संक्रमण हानी थांबवण्यासाठी अजून कृती करू शकते, पण फक्त या अनुच्छेदातील आणि **CI-14.1** ते **CI-14.3** मधील रक्षक उपायांद्वारे.
 - **संक्रमण-व्याप्ती सुधारणा:** **अनुच्छेद XXVI-A** (*टप्प्याटप्प्याने अंगीकार आणि अधिकार-तळ सातत्य*) खालील **दस्तऐवजीकृत संक्रमण योजना** फक्त संक्रमणकाळात **भौतिक रीतीने अनुपालन-भंग** प्रणाली किंवा मालमत्तेची वेगवान सुधारणा अधिकृत करू शकते. संक्रियात्मक व्याप्ती, अनुमत उपाय, आणि संस्थात्मक प्रक्रिया [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) ते **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*संक्रमण शासन आणि संस्थात्मक उत्क्रांती*) शासित करतो, लागू असेल तिथे **CJS-3.6** (*मालमत्ता-अभिरक्षा आणि प्रोत्साहन-विभाजन नियंत्रण शृंखला*) आणि **अनुच्छेद XII-E** (*उच्च-स्वायत्तता प्रणाली आणि साधन-मध्यस्थ प्रक्रिया अखंडता*) सोबत वाचून.
 - **हव्या असलेल्या रक्षक उपाय:** कोणत्याही संक्रमण-व्याप्ती वंचितता किंवा प्रोत्साहन कार्यक्रमाला पूर्ण करायला हवे:
   - [**न्यूनतम-प्रतिबंधक, समय-सीमित आणि समीक्षा-योग्य बंधन तत्त्व**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle), प्रदर्शनीय **आवश्यकता** आणि **प्रमाणबद्धता** सह;
@@ -674,6 +674,6 @@
 
 **मागील फाइल (या भाषेत):** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 
-**पुढील फाइल (अजून इंग्रजीत):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+**पुढील फाइल (अजून इंग्रजीत):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 
 **बंधनकारक मूळ:** [core_06_rights_part_d.md](../../core_06_rights_part_d.md)

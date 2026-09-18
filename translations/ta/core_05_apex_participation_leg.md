@@ -109,7 +109,7 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - கீழ்வழி: பங்கேற்பு அளவீட்டுக் குடும்பம் — இணைப்பு-மட்டும் சுருக்குதல்; சொல்வழி அடுக்குகள் இலை வரையறைகளில் வாழ்கின்றன — காண்க [அடிப்படை நியாயம்](../../core_05_band_participation.md#substantive-fairness-constitutional), [பாதுகாக்கப்பட்ட-பண்பு பதிலீடும் சமமற்ற தாக்கமும்](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [அணுகத்தக்க தன்மை](../../core_05_band_participation.md#accessibility-constitutional), [கல்விச் செயல்திறன்](../../core_05_band_participation.md#educational-agency), [பொருளுள்ள செயல்திறன்](../../core_05_band_participation.md#meaningful-agency), மற்றும் தொடர்ச்சிப் பட்டையில் [தனியுரிமை (தகவல்)](../../core_05_band_continuity.md#privacy-informational-cluster) தொகுதி.
-- இதனுடன் படிக்க: அத்தியாயம் ஆறு, [அத்தியாயம் ஏழு](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification), அல்லது இணைக்கப்பட்ட கருவிகள் — பிணைக்கும் பாகுபாடின்மை, இடமளிப்பு, கல்வி, அல்லது தனியுரிமைத் தேவைகள் அந்தக் கருவிகள் வெளிப்படையாகக் கேட்கும்போது எழுகின்றன.
+- இதனுடன் படிக்க: அத்தியாயம் ஆறு, [அத்தியாயம் ஏழு](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification), அல்லது இணைக்கப்பட்ட கருவிகள் — பிணைக்கும் பாகுபாடின்மை, இடமளிப்பு, கல்வி, அல்லது தனியுரிமைத் தேவைகள் அந்தக் கருவிகள் வெளிப்படையாகக் கேட்கும்போது எழுகின்றன.
 
 </details>
 

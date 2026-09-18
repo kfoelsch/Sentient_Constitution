@@ -12,7 +12,7 @@
 >
 > **Önceki (bu dil):** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 >
-> **Sonraki (hâlâ İngilizce):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+> **Sonraki (hâlâ İngilizce):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 > **Okuma yayı:** Maddeler XXIII–XXVI (adalet ve acil durumlar, anayasal evrim, geçiş ve tabanın yeniden kurulması)
 
 </details>
@@ -79,7 +79,7 @@ Benimsenmiş yönetişim uygulaması yükseltme, müdahale orantılılığı, ac
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: İlkeler: Birinci Bölüm [§3.1 Güvenlik](core_01_a_values_principles.md#31-safety-harm-constraint), [Birinci Bölüm §6.1.5 Hak-çarpışması usulü](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [Birinci Bölüm §9.6 Aşağılayıcı-süreç karşıtı](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) ve [§15 Bütünleşik uygulama](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- Aşağı: [Dokuzuncu Bölüm §4](../../core_09_standing_integration.md#4-violation-correction-and-prevention) (*İhlal, düzeltme ve önleme*); [Madde XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Madde XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule).
+- Aşağı: [Dokuzuncu Bölüm §4](../../core_10_standing_integration.md#4-violation-correction-and-prevention) (*İhlal, düzeltme ve önleme*); [Madde XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Madde XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule).
 - Birlikte oku: [Zulüm](core_05_band_accountability.md#cruelty) (*zulüm karşıtı tabanın acı-amaç standardı için Beşinci Bölüm evi*).
 
 </details>
@@ -329,7 +329,7 @@ Bu Madde, [İki Anayasal Amaç](core_00_preamble.md#constitutional-tetrad) — *
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: İlkeler: Birinci Bölüm [§6.1.5 Hak-çarpışması karar testi](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [§7 Mutlak geçersiz kılma yasağı](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override) ve [§15 Bütünleşik uygulama](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- Birlikte oku: [Dokuzuncu Bölüm §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Gönüllü kamusal hesap verebilirlik ifadesi*); [Onuncu Bölüm §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Gönüllü kamusal hesap verebilirlik ifadesi (anayasa karşıtı)*).
+- Birlikte oku: [Dokuzuncu Bölüm §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*Gönüllü kamusal hesap verebilirlik ifadesi*); [Onuncu Bölüm §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Gönüllü kamusal hesap verebilirlik ifadesi (anayasa karşıtı)*).
 
 </details>
 
@@ -358,7 +358,7 @@ Bu Madde, [İki Anayasal Amaç](core_00_preamble.md#constitutional-tetrad) — *
     - süregelen risk;
     - maddi güç asimetrisi;
     - etkilenen tarafların rızasının yokluğu.
-- **Gönüllü kamusal hesap verebilirlik ifadesi:** Genel olarak [Dokuzuncu Bölüm §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Gönüllü kamusal hesap verebilirlik ifadesi*), doğrulanmış anayasa karşıtı kötü davranış için [Onuncu Bölüm §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Gönüllü kamusal hesap verebilirlik ifadesi (anayasa karşıtı)*) tarafından yönetilir; bu Maddedeki hak-çarpışması ve onarıcı-hizalama kurallarına tabidir.
+- **Gönüllü kamusal hesap verebilirlik ifadesi:** Genel olarak [Dokuzuncu Bölüm §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*Gönüllü kamusal hesap verebilirlik ifadesi*), doğrulanmış anayasa karşıtı kötü davranış için [Onuncu Bölüm §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Gönüllü kamusal hesap verebilirlik ifadesi (anayasa karşıtı)*) tarafından yönetilir; bu Maddedeki hak-çarpışması ve onarıcı-hizalama kurallarına tabidir.
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### Madde XXIV-C: Zamanında çözüm ve gecikme karşıtı taban
 <details>
@@ -394,7 +394,7 @@ Bu Madde, [İki Anayasal Amaç](core_00_preamble.md#constitutional-tetrad) — *
 - **Üç ortak gerek:** Maddi çözüm adlandırılmış yolları birlikte **zamanında**, **verimli** ve **adil** olmalıdır:
   - **Zamanında** — [maddi pay](core_00_preamble.md#material-stake) ve zarar ivediliğine ölçeklenmiş sınırlı saatler;
   - **Verimli** — Birinci Bölüm [§12.2](core_05_band_continuity.md#constitutional-efficiency) anlamında [Anayasal verimlilik](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) — ham çıktı ya da dosya temizleme değil, tüketilen algılayan zamanı ve paylaşılan çaba başına gerçek anayasal sonuç;
-  - **Adil** — **Madde XXIII-A** (*Adalet amacı ve kapsamı*), **Madde XXIII-B** (*Önemsiz olmayan kısıtlama, iade ve onarıcı-hesap verebilirlik kısıtları*) ve **Madde XXIII-C** (*En az kısıtlayıcı ve zaman-sınırlı kural*) tam uygulanır kalır; hızlı ilerlemek, kontrol edilmiş olguları atlamak ([Sekizinci Bölüm §3.1](../../core_08_standing_assessment.md#verified-inputs-for-standing)), yanlış tarafı cezalandırmak, zarara uymayan bir onarım sunmak ya da itiraz ve temyizi kesmek için bahane değildir.
+  - **Adil** — **Madde XXIII-A** (*Adalet amacı ve kapsamı*), **Madde XXIII-B** (*Önemsiz olmayan kısıtlama, iade ve onarıcı-hesap verebilirlik kısıtları*) ve **Madde XXIII-C** (*En az kısıtlayıcı ve zaman-sınırlı kural*) tam uygulanır kalır; hızlı ilerlemek, kontrol edilmiş olguları atlamak ([Sekizinci Bölüm §3.1](../../core_09_standing_assessment.md#verified-inputs-for-standing)), yanlış tarafı cezalandırmak, zarara uymayan bir onarım sunmak ya da itiraz ve temyizi kesmek için bahane değildir.
 - **Forum ve zincir gözetimi:** **Sekizinci Bölümden On Birinci Bölüme** yönlendirilen uyuşmazlıklar için aşağıdakiler, bu Maddenin zamanında, verimli ve adil tabanına tabi olarak [On Birinci Bölüm §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tarafından yönetilir:
   - maddilik-kademesi sınıflaması;
   - zincir-aşaması kilometre taşları;
@@ -431,7 +431,7 @@ Yönetişim kuralları, katılım mekanizmaları, ağırlıklandırma modelleri 
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: İlkeler: [Birinci Bölüm §10.3 Süregelen gerekçe](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification); Birinci Bölüm [§2 Temel hedef: Esenlik](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [§7 Mutlak geçersiz kılma yasağı](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- Yukarı: İlkeler: [Birinci Bölüm §10.3 Süregelen gerekçe](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification); Birinci Bölüm [§2 Temel hedef: Esenlik](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [§7 Mutlak geçersiz kılma yasağı](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 
 </details>
 
@@ -461,7 +461,7 @@ Yönetişim kuralları, katılım mekanizmaları, ağırlıklandırma modelleri 
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: İlkeler: Birinci Bölüm [§3.2 Doğruluk](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [§7 Mutlak geçersiz kılma yasağı](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- Yukarı: İlkeler: Birinci Bölüm [§3.2 Doğruluk](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [§7 Mutlak geçersiz kılma yasağı](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 
 </details>
 
@@ -517,7 +517,7 @@ Geçiş yönetişimi sürekliliği ve gerilememeği güvenceye almak için vard�
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: İlkeler: Birinci Bölüm [§3.1 Güvenlik](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Çekirdek ödün ilkeleri](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) ve [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Dokuzuncu Bölüm §5.4](../../core_09_standing_integration.md#54-special-violation-rules) (*yanlış hizalanmış-ödül mahrumiyeti ve bildirim bu Madde tarafından geçiş sırasında sınırlanır*); [Yedinci Bölüm — Sistem hizalama belgelendirmesi](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification).
+- Yukarı: İlkeler: Birinci Bölüm [§3.1 Güvenlik](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Çekirdek ödün ilkeleri](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) ve [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Dokuzuncu Bölüm §5.4](../../core_10_standing_integration.md#54-special-violation-rules) (*yanlış hizalanmış-ödül mahrumiyeti ve bildirim bu Madde tarafından geçiş sırasında sınırlanır*); [Yedinci Bölüm — Sistem hizalama belgelendirmesi](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -554,7 +554,7 @@ Geçiş yönetişimi sürekliliği ve gerilememeği güvenceye almak için vard�
   
   Kullanımdan kaldırma, emeklilik, geri alma, göç ya da değiştirme, **Kanıt koruma** ve **Madde VII-D** (*Aile, bakım ilişkileri, üreme özerkliği ve ayırmama*) ayırmama disiplini altında durum-taşıyan bileşenleri arşivleyerek bu maddeyi karşılar. Bu, miras işleyişin rutin saydığı tek geri döndürülemez adıma uygulanan [Birinci Bölüm §6.1 varsayılan ara duruş](core_01_b_interaction_interpretation.md#default-interim-posture)tur — geri döndürülemez adımları dondur. Depolama maliyeti, lisans elverişliliği ya da ürün-döngüsü çerçevelemesi ona karşı **Gereklilik** karşılamaz. Tutmanın kendisi belgelenmiş bir Güvenlik riski yarattığında en az kısıtlayıcı uyumlu önlem yok etme değil, bağımsız denetim altında mühürlü emanettir.
 <a id="incentive-alignment-transition-carve-out"></a>
-- **Teşvik-hizalama geçiş istisnası:** **Madde XXVI** (*Geçiş yönetişimi, Süreklilik ve tabanın yeniden kurulması*) altında onaylanmış geçiş evrelerinde, [Yedinci Bölüm — Sistem hizalama belgelendirmesi](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) ile birlikte okuyun. [Dokuzuncu Bölüm §5.4 Bildirim ödevi ve dışlamalar](../../core_09_standing_integration.md#54-special-violation-rules) ve [§5.4 Mahrumiyet ve tutma](../../core_09_standing_integration.md#54-special-violation-rules), paylaşılan sistemlerden akan ödüllere yalnızca o sistemler **henüz hizalama-belgelendirmeli değil** ya da **henüz tam hizalı değil** diye **uygulanmaz**, yeter ki:
+- **Teşvik-hizalama geçiş istisnası:** **Madde XXVI** (*Geçiş yönetişimi, Süreklilik ve tabanın yeniden kurulması*) altında onaylanmış geçiş evrelerinde, [Yedinci Bölüm — Sistem hizalama belgelendirmesi](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) ile birlikte okuyun. [Dokuzuncu Bölüm §5.4 Bildirim ödevi ve dışlamalar](../../core_10_standing_integration.md#54-special-violation-rules) ve [§5.4 Mahrumiyet ve tutma](../../core_10_standing_integration.md#54-special-violation-rules), paylaşılan sistemlerden akan ödüllere yalnızca o sistemler **henüz hizalama-belgelendirmeli değil** ya da **henüz tam hizalı değil** diye **uygulanmaz**, yeter ki:
   - işleyiş **Madde XXVI** (*Geçiş yönetişimi, Süreklilik ve tabanın yeniden kurulması*) altında bir **belgelenmiş geçiş planı** ve yayımlanmış kapı ölçütleri içinde kalsın;
   - sistem, Yedinci Bölümün izin verdiği yerde **koşullu** ya da **ertelenmiş tanıma** dahil yayımlanmış bir ritimde [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional)ne doğru ilerliyor olsun; ve
   - işleticiler ve yararlananlar yanlış hizalanmayı **bilerek gizlemiyor**, onaylanmış geçiş kapsamı dışında işlendirmiyor ya da geçiş statüsünü belgelendirme, düzeltme ya da korumalı bildirimi atlamak için kullanmıyor olsun.
@@ -600,7 +600,7 @@ Geçiş yönetişimi sürekliliği ve gerilememeği güvenceye almak için vard�
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: İlkeler: Birinci Bölüm [§3.1 Güvenlik](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Çekirdek ödün ilkeleri](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) ve [§15 Bütünleşik uygulama](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- Birlikte oku: [Yedinci Bölüm](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*sistem hizalama belgelendirmesi*); [Sekizinci Bölümden On Birinci Bölüme](../../README.md#standing-pipeline-and-forums) (*güzergâh zinciri ve forum gözetimi*).
+- Birlikte oku: [Yedinci Bölüm](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*sistem hizalama belgelendirmesi*); [Sekizinci Bölümden On Birinci Bölüme](../../README.md#standing-pipeline-and-forums) (*güzergâh zinciri ve forum gözetimi*).
 
 </details>
 
@@ -624,7 +624,7 @@ Geçiş yönetişimi sürekliliği ve gerilememeği güvenceye almak için vard�
   Önceden tanımlanmış yedek adlandırılmış yollar, kısmi geri alma ölçütleri ve tabanı yeniden kurma usulleri [**CI-14**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*Geçiş yönetişimi ve kurumsal evrim*) tarafından yönetilir.
   - Başarısız ya da bozulmuş geçiş durumları yalnızca kalıcılıkla yeni bir taban olmamalıdır.
 - **Maddi taban sıfırlama:** Maddi bir taban sıfırlama, kapılar başarısız olduğunda ya da geçiş takıldığında geçiş kilometre taşlarını, risk varsayımlarını, sahipliği ve işleyiş planlarını günceller. Anayasal olarak geçerli yetki ve belgelenmiş kamusal nedenler ister. **Hak Tabanı asgarilerini** korumalı ve bu Anayasayı yasal olarak değiştirme kurallarının yerini almamalıdır.
-- **Doğrulama-sağlığı önkoşulu:** Gözden geçirilmiş bir geçiş tabanında sıfırlamak ya da sürdürmek, [Yedinci Bölüm](core_05_band_continuity.md#system-alignment-certification-constitutional) altında [Sistem hizalama belgelendirmesi](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) ya da [Sekizinci Bölümden On Birinci Bölüme](../../README.md#standing-pipeline-and-forums) altındaki güzergâh zinciri yapısal olarak güvenilmez olduğunda uyumsuzdur — örneğin belgelendirme rutin olarak Hak Tabanlarını maddi olarak yenen sistemleri kutsadığında, güzergâh ölçümü rutin olarak doğrulanmış maddi gerçeklikten sapıldığında ya da itiraz ve inceleme adlandırılmış yolları o boşlukları maddiliğe ölçeklenmiş sürede düzeltemediğinde. O koşullarda doğrulama ve ölçüm makinesinin onarımı kozmetik yeniden planlamadan önceliklidir.
+- **Doğrulama-sağlığı önkoşulu:** Gözden geçirilmiş bir geçiş tabanında sıfırlamak ya da sürdürmek, [Yedinci Bölüm](core_05_band_continuity.md#system-alignment-certification-constitutional) altında [Sistem hizalama belgelendirmesi](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) ya da [Sekizinci Bölümden On Birinci Bölüme](../../README.md#standing-pipeline-and-forums) altındaki güzergâh zinciri yapısal olarak güvenilmez olduğunda uyumsuzdur — örneğin belgelendirme rutin olarak Hak Tabanlarını maddi olarak yenen sistemleri kutsadığında, güzergâh ölçümü rutin olarak doğrulanmış maddi gerçeklikten sapıldığında ya da itiraz ve inceleme adlandırılmış yolları o boşlukları maddiliğe ölçeklenmiş sürede düzeltemediğinde. O koşullarda doğrulama ve ölçüm makinesinin onarımı kozmetik yeniden planlamadan önceliklidir.
 - **Kamusal izlenebilirlik:** Maddi geçiş kararları, gecikmeler, geri almalar ve taban-sıfırlama belirlemeleri gerekçe ve risk sonuçlarıyla denetlenebilir kalmalıdır.
   - Belgeleme dar, haklı gizlilik kısıtlarına tabi kalır.
   - Gecikmenin, geri almanın ya da sürdürmenin anayasal olarak haklı olup olmadığını değerlendirmek için yeterli kamusal açıklama korumalıdır.
@@ -635,7 +635,7 @@ Geçiş yönetişimi sürekliliği ve gerilememeği güvenceye almak için vard�
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: İlkeler: Birinci Bölüm [§3.1 Güvenlik](core_01_a_values_principles.md#31-safety-harm-constraint), [Birinci Bölüm §6.1.5 Hak-çarpışması usulü](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) ve [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Yukarı: İlkeler: Birinci Bölüm [§3.1 Güvenlik](core_01_a_values_principles.md#31-safety-harm-constraint), [Birinci Bölüm §6.1.5 Hak-çarpışması usulü](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) ve [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Birlikte oku: **Madde III-A** (*Hayatta kalma*); **Madde XII** (*Sağlam ve güvenilir sistemlere hak*); **Madde X-B** (*Kolektif zarar sınırı ve yaptırım arayüzü*); **Sekizinci Bölüm**; **Birinci Bölüm**, §6 hak-çarpışması usulü dahil; Altıncı Bölümün açılışındaki **varsayılan kısıt yığını** (*mülkiyet ve giderme arayüzü*); [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) ile **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*Geçiş yönetişimi ve kurumsal evrim*).
 
 </details>
@@ -653,7 +653,7 @@ Geçiş yönetişimi sürekliliği ve gerilememeği güvenceye almak için vard�
 
 *Yalın dille: uyumsuz sistemler ve mülk geçiş sırasında giderilebilir — ama yalnızca temel hakları koruyan, bahaneyi yasaklayan ve misilleme ya da siyasi hedefe dönüşmeyen dar, belgelenmiş, incelenebilir süreçlerle. Kurumların bunu nasıl yürüttüğü — roller, tetikleyiciler, emanet, itirazlar, fonlar ve teşvik mekaniği — **CI-14.1** ile **CI-14.3**te yaşar; bu madde o usullerin daraltmaması gereken anayasal tabanı belirtir.*
 
-- **Mülkiyet tabanı:** Bir şeye yasal olarak sahipseniz ya da onu kullanıyorsanız geçiş onu kaprisle alamaz. Ama [Sekizinci Bölüm](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) ihlali kayıtta belgelendikten sonra o varlığın işlemeye devam etmesi bilinen, büyük ölçekli bir anayasal ihlali açıkça sürdürdüğünde sahiplik kalkan değildir. O durumda geçiş zararı durdurmak için hâlâ eyleyebilir, ama yalnızca bu Maddenin ve **CI-14.1** ile **CI-14.3**ün korumaları aracılığıyla.
+- **Mülkiyet tabanı:** Bir şeye yasal olarak sahipseniz ya da onu kullanıyorsanız geçiş onu kaprisle alamaz. Ama [Sekizinci Bölüm](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) ihlali kayıtta belgelendikten sonra o varlığın işlemeye devam etmesi bilinen, büyük ölçekli bir anayasal ihlali açıkça sürdürdüğünde sahiplik kalkan değildir. O durumda geçiş zararı durdurmak için hâlâ eyleyebilir, ama yalnızca bu Maddenin ve **CI-14.1** ile **CI-14.3**ün korumaları aracılığıyla.
 - **Geçiş-kapsamlı giderme:** **Madde XXVI-A** (*Aşamalı benimseme ve Hak Tabanı sürekliliği*) altında bir **belgelenmiş geçiş planı**, yalnızca geçiş sırasında **maddi olarak uyumsuz** sistemlerin ya da mülkün hızlandırılmış giderilmesini yetkilendirebilir. İşlemsel kapsam, izinli önlemler ve kurumsal usul, uygulandığı yerde **CJS-3.6** (*mülk-emanet ve teşvik-ayırma denetim zinciri*) ve **Madde XII-E** (*Yüksek-özerklik sistemleri ve araç-aracılı süreç bütünlüğü*) ile birlikte okunan [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) ile **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*Geçiş yönetişimi ve kurumsal evrim*) tarafından yönetilir.
 - **Gereken korumalar:** Herhangi bir geçiş-kapsamlı yoksunluk ya da teşvik programı şunları karşılamalıdır:
   - gösterilebilir **Gereklilik** ve **Orantılılık** ile [**En az kısıtlayıcı, zaman-sınırlı ve incelenebilir kısıt ilkesi**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle);
@@ -674,6 +674,6 @@ Geçiş yönetişimi sürekliliği ve gerilememeği güvenceye almak için vard�
 
 **Önceki dosya (bu dil):** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 
-**Sonraki dosya (hâlâ İngilizce):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+**Sonraki dosya (hâlâ İngilizce):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 
 **Bağlayıcı asıl:** [core_06_rights_part_d.md](../../core_06_rights_part_d.md)

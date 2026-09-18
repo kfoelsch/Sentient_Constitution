@@ -6,15 +6,15 @@
 
 > Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nó không thêm, bớt hay thu hẹp nghĩa vụ ràng buộc ở tệp này hay ở các chương khác.
 >
-> Tệp này là một **thử nghiệm ngôn ngữ đọc** của [Chương Mười Ba tiếng Anh](../../core_13_non_regression.md). **Không** phải phần ràng buộc của Hiến pháp Hữu tri. **Không** phải một hiến pháp thứ hai. **Không** phải một ấn bản phát hành. Nó được **ghim** vào `SC-Corpus-2026.08.09`. Nếu bản dịch này và nguyên bản tiếng Anh có vẻ lệch nhau, tệp đánh số [`core_13_non_regression.md`](../../core_13_non_regression.md) thắng. Thứ tự đọc và siêu dữ liệu ấn bản được giữ ở [README.md](../../README.md). Phương pháp và bảng thuật ngữ: [translations/vi/README.md](README.md).
+> Tệp này là một **thử nghiệm ngôn ngữ đọc** của [Chương Mười Ba tiếng Anh](../../core_14_non_regression.md). **Không** phải phần ràng buộc của Hiến pháp Hữu tri. **Không** phải một hiến pháp thứ hai. **Không** phải một ấn bản phát hành. Nó được **ghim** vào `SC-Corpus-2026.08.09`. Nếu bản dịch này và nguyên bản tiếng Anh có vẻ lệch nhau, tệp đánh số [`core_13_non_regression.md`](../../core_14_non_regression.md) thắng. Thứ tự đọc và siêu dữ liệu ấn bản được giữ ở [README.md](../../README.md). Phương pháp và bảng thuật ngữ: [translations/vi/README.md](README.md).
 >
-> Nó chứa **Chương Mười Ba**: không thoái lui nội dung và hiệu lực nội dung của sửa đổi (Thử 1). **Chương Mười Bốn** nằm ở [`core_14_expansion_supremacy.md`](../../core_14_expansion_supremacy.md). **Chương Mười Lăm** nằm ở [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md). Hiệu lực sửa đổi phải giữ cả [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims) — **Hưng thịnh** và **Liên tục** — và không được làm rỗng [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) xuống dưới yêu cầu [lợi hại vật chất](core_00_preamble.md#material-stake). Đánh số chương và tham chiếu chéo khớp văn kiện tích hợp.
+> Nó chứa **Chương Mười Ba**: không thoái lui nội dung và hiệu lực nội dung của sửa đổi (Thử 1). **Chương Mười Bốn** nằm ở [`core_14_expansion_supremacy.md`](../../core_15_expansion_supremacy.md). **Chương Mười Lăm** nằm ở [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md). Hiệu lực sửa đổi phải giữ cả [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims) — **Hưng thịnh** và **Liên tục** — và không được làm rỗng [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) xuống dưới yêu cầu [lợi hại vật chất](core_00_preamble.md#material-stake). Đánh số chương và tham chiếu chéo khớp văn kiện tích hợp.
 
 
 >
-> **Trước (vẫn tiếng Anh):** [core_12_governance.md](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
+> **Trước (vẫn tiếng Anh):** [core_12_governance.md](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)
 >
-> **Tiếp theo (vẫn tiếng Anh):** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+> **Tiếp theo (vẫn tiếng Anh):** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 > **Cung đọc:** §1 sàn không thoái lui → §2 Thử 1 → §3 chống lẩn tránh và chuyển → §4 phạm vi tầng
 </details>
 
@@ -35,9 +35,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: [Chương Một](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [Chương Hai đến Bốn](core_02_definition_structure.md) tính toàn vẹn và xác minh; [Chương Sáu](core_06_rights_part_a.md#chapter-six-foundational-rights) Sàn Quyền; [Chương Mười Hai](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) yêu cầu chính danh và quản trị có trách nhiệm.
+- Thượng nguồn: [Chương Một](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [Chương Hai đến Bốn](core_02_definition_structure.md) tính toàn vẹn và xác minh; [Chương Sáu](core_06_rights_part_a.md#chapter-six-foundational-rights) Sàn Quyền; [Chương Mười Hai](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) yêu cầu chính danh và quản trị có trách nhiệm.
 - Tiểu mục: [§1](#1-non-regression-floor); [§2](#2-test-1-substantive-non-regression-validity); [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral); [§4](#4-layer-scope).
-- Hạ nguồn: [Chương Mười Bốn](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) mở rộng và tối thượng; [Chương Mười Lăm](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) hiệu lực thủ tục, phê chuẩn, và yêu cầu sửa đổi; [Chương Tám](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) và [Chương Mười](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) cho phân loại chuẩn nơi cò chuyển định tuyến.
+- Hạ nguồn: [Chương Mười Bốn](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) mở rộng và tối thượng; [Chương Mười Lăm](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) hiệu lực thủ tục, phê chuẩn, và yêu cầu sửa đổi; [Chương Tám](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) và [Chương Mười](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) cho phân loại chuẩn nơi cò chuyển định tuyến.
 - Đọc cùng: [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) đi bộ không vận hành cho **Chương Mười Một đến Mười Bốn** về đổi hiến pháp và tiếp nhận.
 
 </details>
@@ -96,8 +96,8 @@ Làm yếu có trọng gồm thu hẹp gián tiếp qua:
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: [§1](#1-non-regression-floor) định nghĩa sàn không thoái lui.
-- Hạ nguồn: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) lẩn tránh và chuyển hành vi sai; [Chương Mười Lăm](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) Thử 2–4 và yêu cầu thủ tục (vô hiệu nếu Thử 1 thất bất kể thủ tục).
-- Đọc cùng: [Chương Một](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) ràng buộc nguyên tắc không thương lượng; [Chương Mười Hai](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) nghĩa vụ chính danh.
+- Hạ nguồn: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) lẩn tránh và chuyển hành vi sai; [Chương Mười Lăm](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) Thử 2–4 và yêu cầu thủ tục (vô hiệu nếu Thử 1 thất bất kể thủ tục).
+- Đọc cùng: [Chương Một](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) ràng buộc nguyên tắc không thương lượng; [Chương Mười Hai](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) nghĩa vụ chính danh.
 
 </details>
 
@@ -157,8 +157,8 @@ Hành vi sai **cưỡng** hoặc **vô hiệu hóa vận hành** định tuyến
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) kỷ luật chỉ-chuyển; [Chương Tám](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) và [Chương Mười](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) chủ sở hữu chuẩn.
-- Hạ nguồn: [Chương Mười Lăm §12](../../core_15_amendment_ratification.md#12-layer-scope) kỷ luật tầng thủ tục gương; văn bản triển khai cho cơ học thực thi rà soát.
-- Đọc cùng: [Chồng thẩm quyền và thứ bậc nội bộ](core_05_band_integrative.md#owner-non-relocation) và [Lời nói đầu — sổ đăng ký chủ sở hữu hiến pháp](core_00_preamble.md#4-principles-definitions-and-rights); [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) về đường dẫn đổi và tiếp nhận; [Chương Mười Lăm](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) cho các thử hiệu lực không trùng phân loại ô.
+- Hạ nguồn: [Chương Mười Lăm §12](../../core_16_amendment_ratification.md#12-layer-scope) kỷ luật tầng thủ tục gương; văn bản triển khai cho cơ học thực thi rà soát.
+- Đọc cùng: [Chồng thẩm quyền và thứ bậc nội bộ](core_05_band_integrative.md#owner-non-relocation) và [Lời nói đầu — sổ đăng ký chủ sở hữu hiến pháp](core_00_preamble.md#4-principles-definitions-and-rights); [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) về đường dẫn đổi và tiếp nhận; [Chương Mười Lăm](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) cho các thử hiệu lực không trùng phân loại ô.
 
 </details>
 
@@ -187,7 +187,7 @@ Các bổ sung tương lai chạm ngôn ngữ kiểu tội, kiểu chế tài, h
 > - **đo lường đóng góp và vi phạm chung** (Trục Đóng góp / Trục Vi phạm) — **Chương Tám** trong [core_08_standing_assessment.md](core_08_standing_assessment.md); **hiệu ứng quỹ đạo và tích hợp** — **Chương Chín** trong [core_09_standing_integration.md](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration);
 > - **ô số Trục Đóng góp và Trục Vi phạm** — **thang thống nhất Chương Tám §7**, với hồ sơ riêng và ô Vi phạm chỉ bị kiểm soát bởi tác động đã xác minh; và **chỉ định hành vi sai phản hiến pháp** khớp cho một ô Trục Vi phạm 7, 8, hoặc 9 đủ điều kiện — **Chương Mười** trong [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct);
 > - **luồng vận hành diễn đàn và thủ tục phân xử** — **Chương Mười Một** và [corpus_forum.md](../../corpus_forum.md);
-> - **hiệu lực thủ tục và lưu giữ** cho sửa đổi, phê chuẩn, và tiếp nhận — **Chương Mười Lăm** trong [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity); và
+> - **hiệu lực thủ tục và lưu giữ** cho sửa đổi, phê chuẩn, và tiếp nhận — **Chương Mười Lăm** trong [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity); và
 > - **quy trình thể chế chi tiết, cơ học nhân sự, và tích hợp cấu trúc chung xuyên triển khai** cho thực thi rà soát — văn bản triển khai được chỉ định và các chương chủ sở hữu được đặt tên trong [Lời nói đầu — sổ đăng ký chủ sở hữu hiến pháp](core_00_preamble.md#4-principles-definitions-and-rights).
 >
 > Các tầng chủ sở hữu không được đọc như dời chuẩn hiệu lực hiến pháp ra khỏi **Chương Mười Ba và Mười Lăm**, thẩm quyền đo Trục Đóng góp / Trục Vi phạm ra khỏi **thang thống nhất Chương Tám §7**, hay thẩm quyền chỉ định hành vi sai phản hiến pháp ra khỏi **Chương Mười**. Chương Mười không gán ô số. Để đi bộ kiến trúc không vận hành, xem [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md).
@@ -196,8 +196,8 @@ Các bổ sung tương lai chạm ngôn ngữ kiểu tội, kiểu chế tài, h
 
 ---
 
-**Tệp trước (vẫn tiếng Anh):** [core_12_governance.md](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
+**Tệp trước (vẫn tiếng Anh):** [core_12_governance.md](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)
 
-**Tệp tiếp theo (vẫn tiếng Anh):** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+**Tệp tiếp theo (vẫn tiếng Anh):** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 
-**Nguyên bản ràng buộc:** [core_13_non_regression.md](../../core_13_non_regression.md)
+**Nguyên bản ràng buộc:** [core_13_non_regression.md](../../core_14_non_regression.md)

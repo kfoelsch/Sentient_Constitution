@@ -9,7 +9,7 @@
 
 > نیچے کا مواد **صرف قارئین کی رہنمائی** ہے۔ یہ اس فائل یا دیگر ابواب میں پابند فرائض نہیں بڑھاتا، گھٹاتا یا تنگ کرتا۔
 >
-> یہ فائل [انگریزی باب دہم، حصہ الف](../../core_10_a_misconduct_designation.md) کا **قارئین کی زبان کا پائلٹ** ہے۔ یہ شعوری آئین کا **پابند حصہ نہیں**۔ یہ **دوسرا آئین نہیں**۔ یہ **ارسال ایڈیشن نہیں**۔ یہ `SC-Corpus-2026.08.09` پر **پن** ہے۔ اگر یہ ترجمہ اور انگریزی اصل میں اختلاف نظر آئے تو نمبر والی [`core_10_a_misconduct_designation.md`](../../core_10_a_misconduct_designation.md) جیتتی ہے۔ پڑھنے کا ترتیب اور ایڈیشن میٹاڈیٹا [README.md](../../README.md) میں رہتے ہیں۔ طریقہ اور لغت: [translations/ur/README.md](README.md)۔
+> یہ فائل [انگریزی باب دہم، حصہ الف](../../core_11_a_misconduct_designation.md) کا **قارئین کی زبان کا پائلٹ** ہے۔ یہ شعوری آئین کا **پابند حصہ نہیں**۔ یہ **دوسرا آئین نہیں**۔ یہ **ارسال ایڈیشن نہیں**۔ یہ `SC-Corpus-2026.08.09` پر **پن** ہے۔ اگر یہ ترجمہ اور انگریزی اصل میں اختلاف نظر آئے تو نمبر والی [`core_10_a_misconduct_designation.md`](../../core_11_a_misconduct_designation.md) جیتتی ہے۔ پڑھنے کا ترتیب اور ایڈیشن میٹاڈیٹا [README.md](../../README.md) میں رہتے ہیں۔ طریقہ اور لغت: [translations/ur/README.md](README.md)۔
 >
 > اس میں **باب دہم، حصہ الف** ہے — نامزدگی فیصلے کا ڈھانچہ، معیار مجموعہ، خلاف ورزی محور `s = 7–9` نامزدگی منسلکہ، واجب العمل کارروائی کی ضمانتیں، تدارک، روک تھام تالے، اور رضاکارانہ عوامی جوابدہی اظہار۔ **حصہ ب** — نامزد نمونہ اطلاقات اور معیار رخ بندی — [`core_10_b_misconduct_pattern_applications.md`](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications) میں ہے۔
 >
@@ -17,7 +17,7 @@
 > - **پیمائش کی حد:** صرف باب ہشتم اپنے متحد متناسب LEQU پیمانے کے تحت عددی اثر خانہ تفویض کرتا ہے۔ یہ باب اس پیمائش کی **جگہ نہیں لیتا** نہ اسے بدلتا ہے۔
 > - **عدمِ منتقلی قاعدہ:** حصہ الف حصہ ب کے نمونہ کیٹلاگ، باب نہم کے کیفیت تالے، یا باب سیزدہم تا پانزدہم کے تبدیلی-راستہ صحت قواعد دوبارہ بیان نہیں کرتا۔
 >
-> **s = 7، 8، یا 9** پر آئین مخالف بدسلوکی پیمانے پر **چوکڑی قبضہ** ہے — [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) کے تحت [استمرار مقصد](core_00_preamble.md#continuity) کے ساتھ پڑھو۔ تبدیلی-راستہ صحت تعامل [باب سیزدہم تا پانزدہم](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) میں جاری رہتے ہیں؛ انصاف پابندیاں [باب ششم حصہ د](core_06_rights_part_d.md) میں رہتی ہیں۔
+> **s = 7، 8، یا 9** پر آئین مخالف بدسلوکی پیمانے پر **چوکڑی قبضہ** ہے — [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) کے تحت [استمرار مقصد](core_00_preamble.md#continuity) کے ساتھ پڑھو۔ تبدیلی-راستہ صحت تعامل [باب سیزدہم تا پانزدہم](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) میں جاری رہتے ہیں؛ انصاف پابندیاں [باب ششم حصہ د](core_06_rights_part_d.md) میں رہتی ہیں۔
 >
 > **بالائی:** باب ہشتم کیفیت پیمائش؛ باب نہم نامزدگی اشارہ۔
 > **زیریں:** [حصہ ب](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications) (*نمونہ اطلاقات*)؛ حتمی نامزدگی کے بعد باب نہم اعتماد تالا اور کیفیت-اثر انضمام؛ باب یازدهم فورم رخ بندی؛ باب دوازدہم حکمرانی مشروعیت نتائج۔
@@ -73,8 +73,8 @@
 - بالائی: [باب ہشتم](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*سوال 1 اور 2؛ تصدیق شدہ ریکارڈ اور کیفیت پیمائش*)۔
 - بالائی اشارہ: [باب نہم §2](core_09_standing_integration.md#2-integration-record-and-decision-order) اہل خلاف ورزی محور خانہ 7–9 دریافتیں یہاں صرف نامزدگی کے لیے رخ دیتا ہے۔
 - یہ فائل: خلاف ورزی محور `s` = 7–9 کے لیے حتمی آئین مخالف-بدسلوکی نامزدگی؛ نامزدگی معیار؛ واجب العمل کارروائی ضمانتیں؛ باب سیزدہم تا پانزدہم حد۔ نامزد-نمونہ رخ بندی [حصہ ب](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications) میں جاری رہتی ہے۔
-- زیریں: [باب نہم](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*حتمی نامزدگی کے بعد اعتماد تالا اور کیفیت-اثر انضمام*)؛ [باب یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*فورم رخ بندی اور سرٹیفیکیشن*)؛ [باب دوازدہم](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) (*حکمرانی مشروعیت نتائج*)۔
-- ساتھ پڑھیں: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)؛ [باب سیزدہم تا پانزدہم](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) (*تبدیلی-راستہ رویہ معیار 1–4 جگا سکتا ہے*)۔
+- زیریں: [باب نہم](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*حتمی نامزدگی کے بعد اعتماد تالا اور کیفیت-اثر انضمام*)؛ [باب یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*فورم رخ بندی اور سرٹیفیکیشن*)؛ [باب دوازدہم](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) (*حکمرانی مشروعیت نتائج*)۔
+- ساتھ پڑھیں: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)؛ [باب سیزدہم تا پانزدہم](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) (*تبدیلی-راستہ رویہ معیار 1–4 جگا سکتا ہے*)۔
 
 </details>
 
@@ -100,7 +100,7 @@
 - ضمانتیں اور ضبط: [§4](#4-due-process-safeguards-for-slot-assignment) (*واجب العمل کارروائی ضمانتیں، تدارک، اور روک تھام*)؛ [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*تدارک اور اصلاح (آئین مخالف)*)؛ [§4.2](#4-2-prevention-anti-constitutional-locks) (*روک تھام — آئین مخالف تالے*)؛ [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*رضاکارانہ عوامی جوابدہی اظہار (آئین مخالف)*)۔
 - نمونہ اطلاقات: [§5](core_10_b_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing) (*نامزد نمونے اسی نامزدگی معیار میں رخ پاتے ہیں*)۔
 - تبدیلی-راستہ حد: [§1](#1-cross-chapter-discipline) (*باب سیزدہم تا پانزدہم حد*)۔
-- ساتھ پڑھیں: [باب سیزدہم تا پانزدہم](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) جہاں **رجعتی دھوکا** اور تبدیلی-راستہ رویہ **معیار 1–4** جگا سکتا ہے۔
+- ساتھ پڑھیں: [باب سیزدہم تا پانزدہم](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) جہاں **رجعتی دھوکا** اور تبدیلی-راستہ رویہ **معیار 1–4** جگا سکتا ہے۔
 - چوکڑی ٹانگ(یں): **شرکت**، **نگرانی**، **جوابدہی**، **بروقت کارروائی** (پیمانے پر چوکڑی قبضہ)۔ بنیادی مقصد: **استمرار** (بنیادی)، **شگفتگی**۔ ضمانتوں اور سنگینی پر [مادی داؤ](core_00_preamble.md#material-stake) پیمانہ لاگو ہوتا ہے۔
 
 </details>
@@ -432,4 +432,4 @@
 
 **اگلی فائل (اس زبان میں):** [core_10_b_misconduct_pattern_applications.md](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)
 
-**پابند اصل:** [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md)
+**پابند اصل:** [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md)

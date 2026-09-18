@@ -86,7 +86,7 @@ Beyond the sitting’s bounded reading path, open:
 - [Article III-A](../../../core_06_rights_part_a.md#article-iii-a-survival); [Occupancy Continuity](../../../core_05_band_continuity.md#occupancy-continuity-constitutional)
 - [Article I-A](../../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) where the project made the place unlivable
 - [Article XXIII-B](../../../core_06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) if a verified restriction is later claimed
-- [Chapter Eight §2.1](../../../core_08_standing_assessment.md#21-silence-is-the-default) — silence is the default; accusations are not findings
+- [Chapter Nine §2.1](../../../core_09_standing_assessment.md#21-silence-is-the-default) — silence is the default; accusations are not findings
 - [Sentience Non-Exclusion](../../../core_05_band_participation.md#sentience-non-exclusion) if “security class” is used as a hidden denial
 
 Companions cannot narrow core. If a pointer and core diverge, core wins.

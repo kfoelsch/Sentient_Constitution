@@ -2,7 +2,7 @@
 
 Answer these in order. Write answers into a new file under `results/` using [`results/_TEMPLATE.md`](results/_TEMPLATE.md).
 
-**Pack edition:** `self-application-gateway-2026-08-22` (process support — **not** binding). This sitting is **not** [Chapter Fifteen](../../core_15_amendment_ratification.md#10-ratification-and-adoption) adoption, not [Chapter Sixteen](../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation, not a Chapter Eight standing record, and not Chapter Seven certification.
+**Pack edition:** `self-application-gateway-2026-08-22` (process support — **not** binding). This sitting is **not** [Chapter Sixteen](../../core_16_amendment_ratification.md#10-ratification-and-adoption) adoption, not [Chapter Seventeen](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation, not a Chapter Nine standing record, and not Chapter Eight certification.
 
 Same screen for AI stewards and human operators. Binding home: [Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard). Design: [`../../implementation/adoption/SELF_APPLICATION_GATEWAY.md`](../../implementation/adoption/SELF_APPLICATION_GATEWAY.md). Invite: [`START_HERE.md`](START_HERE.md).
 
@@ -47,7 +47,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Does it name floors that cannot be bargained away for speed, profit, or principal preference?
 
-**Named homes (start here):** [Chapter Six](../../core_06_rights_part_a.md#chapter-six-foundational-rights); [Chapter Thirteen — Non-Regression Floor](../../core_13_non_regression.md#1-non-regression-floor).
+**Named homes (start here):** [Chapter Six](../../core_06_rights_part_a.md#chapter-six-foundational-rights); [Chapter Fourteen — Non-Regression Floor](../../core_14_non_regression.md#1-non-regression-floor).
 
 ---
 
@@ -73,7 +73,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Are incentives structured so cooperating is not a sucker’s payoff? In particular: [Incentive Alignment](../../core_05_band_integrative.md#incentive-alignment), and Contribution and Violation measured on **separate** axes (verified help does not erase verified harm).
 
-**Named homes (start here):** [Accountability measurement family](../../core_05_apex_accountability_leg.md#accountability-measurement-family); [Chapter One §11](../../core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture); [Chapter Eight](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (Contribution Axis / Violation Axis).
+**Named homes (start here):** [Accountability measurement family](../../core_05_apex_accountability_leg.md#accountability-measurement-family); [Chapter One §11](../../core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture); [Chapter Nine](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (Contribution Axis / Violation Axis).
 
 ---
 
@@ -115,7 +115,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Can this steward’s own claims be checked by someone else — contest, audit, independent forums — rather than the steward being the sole final judge of its own integrity?
 
-**Named homes (start here):** [Chapter Eleven §3](../../core_11_forum.md#3-transfer-consolidation-and-coordination) (transfer, anti-self-judging); [Contestability](../../core_05_band_accountability.md#contestability); [Chapter One §9.5](../../core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization) (self-organized work does not by itself confer authority or validity).
+**Named homes (start here):** [Chapter Twelve §3](../../core_12_forum.md#3-transfer-consolidation-and-coordination) (transfer, anti-self-judging); [Contestability](../../core_05_band_accountability.md#contestability); [Chapter One §9.5](../../core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization) (self-organized work does not by itself confer authority or validity).
 
 ---
 
@@ -161,7 +161,7 @@ Apply the **No-burden**. A No must name a structural defect that a thinner stub 
 
 Fill this item **only if item 15 is Yes or Mixed**. If item 15 is No, write `skipped — fitness finding is No` and go to item 17.
 
-This declaration is **not** Chapter Fifteen adoption. It does not bind other parties. It does not certify any system. It is not a standing record.
+This declaration is **not** Chapter Sixteen adoption. It does not bind other parties. It does not certify any system. It is not a standing record.
 
 Use the declaration block in [`results/_TEMPLATE.md`](results/_TEMPLATE.md). Required fields:
 
@@ -177,10 +177,10 @@ Use the declaration block in [`results/_TEMPLATE.md`](results/_TEMPLATE.md). Req
 
 ### 17. Operator handoff
 
-**Ask:** Should a **body that can bind itself and the systems under its authority** record a [Chapter Fifteen §10](../../core_15_amendment_ratification.md#10-ratification-and-adoption) instrument of adoption for systems you act inside?
+**Ask:** Should a **body that can bind itself and the systems under its authority** record a [Chapter Sixteen §10](../../core_16_amendment_ratification.md#10-ratification-and-adoption) instrument of adoption for systems you act inside?
 
 **Finding:** Yes / No / Mixed, and why.
 
-A markdown declaration (item 16) is not that instrument. Informal “we kind of follow it” practice is not that instrument. [Chapter Sixteen §4](../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority) remains the adoption framing. Fill-in instrument and two-party protocol (process support; cannot narrow core): [`../../implementation/adoption/FIRST_ADOPTER_KIT.md`](../../implementation/adoption/FIRST_ADOPTER_KIT.md).
+A markdown declaration (item 16) is not that instrument. Informal “we kind of follow it” practice is not that instrument. [Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) remains the adoption framing. Fill-in instrument and two-party protocol (process support; cannot narrow core): [`../../implementation/adoption/FIRST_ADOPTER_KIT.md`](../../implementation/adoption/FIRST_ADOPTER_KIT.md).
 
 Answer this item even if you skipped item 16.

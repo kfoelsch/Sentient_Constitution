@@ -75,7 +75,7 @@
 
 <br>
 
-*Nói thẳng: giá trị và quyền sẽ va — **An toàn** và **Sự thật** đi trước. Sau đó, giới hạn phải tương xứng, cần thiết, giảm hại, và nhẹ hết mức có thể. Sự thật không thể giấu vì dễ chịu; quyền riêng tư không thể lột vì tiện; giới hạn tự do áp dụng dưới [§5.1](core_01_a_values_principles.md#51-limitation-discipline); xung đột quyền cần một thử quyết định có hồ sơ; và chỉ số nói dối về tuân thủ không được tính. Tối ưu tầm ngắn không thể qua đánh giá dưới [Chương Bảy §3.6 Ràng buộc nhất quán thời gian](../../core_07_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint). **§6.1–§6.3** mang quy tắc đánh đổi, ràng buộc công bố và quyền riêng tư, và thủ tục va chạm quyền.*
+*Nói thẳng: giá trị và quyền sẽ va — **An toàn** và **Sự thật** đi trước. Sau đó, giới hạn phải tương xứng, cần thiết, giảm hại, và nhẹ hết mức có thể. Sự thật không thể giấu vì dễ chịu; quyền riêng tư không thể lột vì tiện; giới hạn tự do áp dụng dưới [§5.1](core_01_a_values_principles.md#51-limitation-discipline); xung đột quyền cần một thử quyết định có hồ sơ; và chỉ số nói dối về tuân thủ không được tính. Tối ưu tầm ngắn không thể qua đánh giá dưới [Chương Bảy §3.6 Ràng buộc nhất quán thời gian](../../core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint). **§6.1–§6.3** mang quy tắc đánh đổi, ràng buộc công bố và quyền riêng tư, và thủ tục va chạm quyền.*
 
 **An toàn** và **Sự thật** chiếm ưu tiên nơi xung đột không thể giải mà không vi phạm chúng.
 
@@ -183,7 +183,7 @@ Những điều sau không tuân thủ:
 - tối ưu chỉ trên hại cục bộ hoặc tức thì trong khi tạo hại hệ thống, tổng, hoặc sinh thái lớn hơn;
 - ngoại hóa hại lên hệ sinh thái, hữu tri chưa nhận diện, hoặc bên không được đếm để trông giảm hại đối với bên đã nhận diện.
 
-**Kỷ luật tầm thời gian.** Tối ưu ngắn hạn với giá hệ thống dài hạn thất bại thử này. Giảm thiểu hại phải tính [Chương Bảy §3.6 Ràng buộc nhất quán thời gian](../../core_07_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint): quyết định trông giảm hại ở kỳ hiện tại nhưng thấy trước tạo hại lớn hơn trên tầm thời gian hiến pháp liên quan thì không tuân thủ.
+**Kỷ luật tầm thời gian.** Tối ưu ngắn hạn với giá hệ thống dài hạn thất bại thử này. Giảm thiểu hại phải tính [Chương Bảy §3.6 Ràng buộc nhất quán thời gian](../../core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint): quyết định trông giảm hại ở kỳ hiện tại nhưng thấy trước tạo hại lớn hơn trên tầm thời gian hiến pháp liên quan thì không tuân thủ.
 
 **Quan hệ với sàn hiến pháp.** Giảm thiểu hại vận hành *trên* các sàn hiến pháp nêu ở [§6.1.4](#614-constitutional-floors-safety-and-process-character-constraints). Nó không bao giờ ủy quyền:
 - dập tắt vĩnh viễn các sàn Sàn Quyền tối thiểu;
@@ -610,7 +610,7 @@ Không giá trị định nghĩa trong chương này được dùng như biện 
 - Hạ nguồn: [§8.1 Nguyên tắc hiến pháp không lách](#81-constitutional-no-bypass-principle), [§8.2 Tầng định nghĩa và kỷ luật đòi](#82-definitional-layer-and-required-disciplines), [§8.3 Giải sự mơ hồ](#83-ambiguity-resolution), [§8.4 Giải xung đột nghĩa hiến pháp](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. Mục tiêu nền tảng: phúc lợi](core_01_a_values_principles.md#2-foundational-objective-wellbeing) đến [15. Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#15-integrated-application); [6. Giải quyết xung đột quy trình](#6-process-conflict-resolution) cho thủ tục va chạm giá trị; [Chương Sáu: Quyền nền tảng](../../core_06_rights_part_a.md#chapter-six-foundational-rights) mặc định không thu hẹp.
 - Đọc cùng: [Chương Hai đến Bốn](core_02_definition_structure.md) và [Chương Năm](core_05__definitions_home.md#chapter-five-foundational-definitions) — tầng diễn giải và bằng chứng cho mọi thuật ngữ trong chương này.
 - Đọc cùng: [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) và [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims) — phông diễn giải cho khung giá trị tích hợp; chia tỷ lệ theo [lợi hại vật chất](core_00_preamble.md#material-stake) nơi liên quan vật chất.
-- Đọc cùng: [Chồng thẩm quyền và thứ bậc nội bộ](../../core_05_band_integrative.md#authority-stack) (*trạng thái tầng nguồn*); [Chương Mười Sáu](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*lưu giữ, ấn bản, khung tiếp nhận* — không phải nhà thứ tự xung đột thứ hai); [Chương Mười Ba](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) và [Chương Mười Bốn](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*không thoái lui và cổng thứ bậc bên tiếp nhận dưới §8.4*).
+- Đọc cùng: [Chồng thẩm quyền và thứ bậc nội bộ](../../core_05_band_integrative.md#authority-stack) (*trạng thái tầng nguồn*); [Chương Mười Sáu](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*lưu giữ, ấn bản, khung tiếp nhận* — không phải nhà thứ tự xung đột thứ hai); [Chương Mười Ba](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) và [Chương Mười Bốn](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) (*không thoái lui và cổng thứ bậc bên tiếp nhận dưới §8.4*).
 - Đọc cùng: [Điều XXII: Diễn giải hiến pháp, rà soát, và bảo vệ chống chiếm](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) cho bảo vệ diễn giải thể chế (không phải vật thay mục này).
 
 </details>
@@ -737,7 +737,7 @@ Tiểu mục này là **thủ tục chuẩn duy nhất** để giải căng th�
   - trong nguồn hiến pháp ràng buộc (văn kiện `core_*` tích hợp); và
   - ở tầng hợp nhất cho văn bản đã hợp nhất **chặt nhất** / **chặt hơn**.
 - Trạng thái tầng nguồn được nhận diện dưới [Chồng thẩm quyền và thứ bậc nội bộ](../../core_05_band_integrative.md#authority-stack) ở Chương Năm.
-- [Chương Mười Sáu](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) cung cấp lưu giữ, ghim ấn bản, và khung tiếp nhận. Nó **không** nhắc lại thủ tục này.
+- [Chương Mười Sáu](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) cung cấp lưu giữ, ghim ấn bản, và khung tiếp nhận. Nó **không** nhắc lại thủ tục này.
 - Với **va chạm giá trị và quyền trong vận hành** — không phải thứ tự tầng văn bản — áp dụng **[§6 Giải quyết xung đột quy trình](#6-process-conflict-resolution)**.
 
 **Chuỗi vận hành.** Áp dụng những điều sau **theo thứ tự này**:
@@ -774,7 +774,7 @@ Mỗi nguyên tắc trong chương này áp dụng cùng [Tứ diện Hiến ph�
 <a id="843-incorporation-layer"></a>
 ##### 8.4.3 Tầng hợp nhất
 
-Sau đọc hiến pháp dưới **§8.4.1** và **§8.4.2**, áp dụng các **nghĩa vụ được chỉ định** trong văn bản triển khai đã tiếp nhận — các nghĩa vụ hướng dẫn được đặt tên mà việc tiếp nhận thực sự đưa vào hiệu lực. Áp dụng chúng chỉ trong **phạm vi tiếp nhận và hợp nhất hợp lệ** dưới **[Chương Mười Sáu](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** (ai giữ hồ sơ, ấn bản nào được ghim, và tiếp nhận được khung thế nào).
+Sau đọc hiến pháp dưới **§8.4.1** và **§8.4.2**, áp dụng các **nghĩa vụ được chỉ định** trong văn bản triển khai đã tiếp nhận — các nghĩa vụ hướng dẫn được đặt tên mà việc tiếp nhận thực sự đưa vào hiệu lực. Áp dụng chúng chỉ trong **phạm vi tiếp nhận và hợp nhất hợp lệ** dưới **[Chương Mười Sáu](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)** (ai giữ hồ sơ, ấn bản nào được ghim, và tiếp nhận được khung thế nào).
 
 Khi các quy tắc dưới đây nói **chặt nhất** hoặc **chặt hơn**, những từ đó có cùng nghĩa với quy tắc **sự mơ hồ** ở **[§8.3](#83-ambiguity-resolution)**: **hiệu ứng bảo vệ đầy đủ nhất như một toàn thể tích hợp**, không **hạn chế tối đa** hoặc **chặt trừu tượng** tách rời.
 
@@ -789,7 +789,7 @@ Khi các quy tắc dưới đây nói **chặt nhất** hoặc **chặt hơn**, 
   - đây **không** phải giải sự mơ hồ hiến pháp nội dung bằng ưa **chặt trừu tượng**.
 - **Chặt hơn thắng xuyên tệp:** Nơi hai hay nhiều tệp triển khai đã tiếp nhận đặt chuẩn khác cho cùng rủi ro phạm vi có ý nghĩa, quy tắc đã tiếp nhận rõ chặt hơn kiểm soát, nhất quán với **Chặt nhất áp dụng** và **Sàn đã tiếp nhận rõ chặt hơn** trên.
   - Trạng thái tầng nguồn vẫn dưới [Chồng thẩm quyền và thứ bậc nội bộ](../../core_05_band_integrative.md#authority-stack).
-  - Lưu giữ, ấn bản, và khung tiếp nhận vẫn dưới **[Chương Mười Sáu](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)**.
+  - Lưu giữ, ấn bản, và khung tiếp nhận vẫn dưới **[Chương Mười Sáu](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)**.
   - Cùng quy tắc áp dụng khi hồ sơ được trích và nhãn triển khai được trích có vẻ xung đột cho rủi ro đó.
 
 <a id="844-combined-satisfaction"></a>
@@ -801,7 +801,7 @@ Quy tắc thỏa kết hợp của tiểu mục này là về **hơn một tệp
 - quy tắc cho một cụm vận hành **đơn** trong văn bản cấu trúc chung đã hợp nhất, nơi chỉ làm một phần cụm đó không được tính là tuân thủ — xem **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*Cụm vận hành*); hoặc
 - quy tắc Chương Năm rằng định nghĩa **Cụm phụ thuộc** phải được thỏa cùng nhau — xem **[Viện chung và thỏa](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
 
-**Khi tiểu mục này áp dụng.** Các quy tắc này áp dụng trong phạm vi tiếp nhận và hợp nhất hợp lệ dưới **[Chương Mười Sáu](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** ở một trong các trường hợp này:
+**Khi tiểu mục này áp dụng.** Các quy tắc này áp dụng trong phạm vi tiếp nhận và hợp nhất hợp lệ dưới **[Chương Mười Sáu](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)** ở một trong các trường hợp này:
 
 1. **Một tình huống, hơn một tệp:** Sự kiện đòi áp dụng hơn một tệp triển khai đã hợp nhất — ví dụ hệ thống, thể chế, diễn đàn, hoặc văn bản cấu trúc chung. Tệp nào áp dụng do phạm vi tiếp nhận và định tuyến chủ đề những tệp đó cung cấp cho sự kiện quyết, không bằng chỉ chọn tệp dễ thỏa nhất.
 2. **Tiếp nhận đưa bộ cấu trúc chung vào hiệu lực:** Văn kiện tiếp nhận áp dụng văn bản triển khai cấu trúc chung được chỉ định (thư mục **CJS** và mọi tệp cấu trúc chung khác liệt kê trong chuỗi tiếp nhận) cho bên tiếp nhận.

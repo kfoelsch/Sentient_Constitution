@@ -75,7 +75,7 @@
 
 <br>
 
-*En términos sencillos: los valores y los derechos van a colisionar — la **Seguridad** y la **Verdad** van primero. Después, los límites deben ser proporcionales, necesarios, minimizadores del daño y tan ligeros como sea posible. La verdad no puede ocultarse por comodidad; la privacidad no puede despojarse por conveniencia; los límites de libertad se aplican bajo el [§5.1](core_01_a_values_principles.md#51-limitation-discipline); los conflictos de derechos necesitan una prueba de decisión documentada; y las métricas que mienten sobre el cumplimiento no cuentan. La optimización de horizonte corto no puede pasar la evaluación bajo [Capítulo Siete §3.6 Restricción de consistencia temporal](../../core_07_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint). Los **§6.1–§6.3** llevan las reglas de compensación, las restricciones de divulgación y de privacidad, y el procedimiento de colisión de derechos.*
+*En términos sencillos: los valores y los derechos van a colisionar — la **Seguridad** y la **Verdad** van primero. Después, los límites deben ser proporcionales, necesarios, minimizadores del daño y tan ligeros como sea posible. La verdad no puede ocultarse por comodidad; la privacidad no puede despojarse por conveniencia; los límites de libertad se aplican bajo el [§5.1](core_01_a_values_principles.md#51-limitation-discipline); los conflictos de derechos necesitan una prueba de decisión documentada; y las métricas que mienten sobre el cumplimiento no cuentan. La optimización de horizonte corto no puede pasar la evaluación bajo [Capítulo Siete §3.6 Restricción de consistencia temporal](../../core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint). Los **§6.1–§6.3** llevan las reglas de compensación, las restricciones de divulgación y de privacidad, y el procedimiento de colisión de derechos.*
 
 La **Seguridad** y la **Verdad** tienen precedencia donde los conflictos no puedan resolverse sin violarlas.
 
@@ -183,7 +183,7 @@ Son incumplidores:
 - optimizar solo sobre el daño local o inmediato mientras se crea un daño sistémico, agregado o ecológico mayor;
 - externalizar el daño hacia ecosistemas, sencientes no identificados u otras partes no contadas para parecer minimizador del daño respecto de las partes identificadas.
 
-**Disciplina de horizonte temporal.** La optimización de corto plazo a costo sistémico de largo plazo falla esta prueba. La minimización del daño debe dar cuenta de la [Capítulo Siete §3.6 Restricción de consistencia temporal](../../core_07_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint): una decisión que parece minimizadora del daño en el período actual pero que de forma previsible crea mayor daño a lo largo del horizonte temporal constitucional pertinente es incumplidora.
+**Disciplina de horizonte temporal.** La optimización de corto plazo a costo sistémico de largo plazo falla esta prueba. La minimización del daño debe dar cuenta de la [Capítulo Siete §3.6 Restricción de consistencia temporal](../../core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint): una decisión que parece minimizadora del daño en el período actual pero que de forma previsible crea mayor daño a lo largo del horizonte temporal constitucional pertinente es incumplidora.
 
 **Relación con los pisos constitucionales.** La minimización del daño opera *por encima* de los pisos constitucionales enunciados en el [§6.1.4](#614-constitutional-floors-safety-and-process-character-constraints). Nunca autoriza:
 - la extinción permanente de los mínimos del Piso de Derechos;
@@ -610,7 +610,7 @@ Ningún valor definido en este capítulo puede usarse como justificación univer
 - Destino: [§8.1 Principio constitucional de no elusión](#81-constitutional-no-bypass-principle), [§8.2 Capa definicional y disciplinas exigidas](#82-definitional-layer-and-required-disciplines), [§8.3 Resolución de ambigüedad](#83-ambiguity-resolution), [§8.4 Resolución de conflictos de significado constitucional](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. Objetivo fundacional: bienestar](core_01_a_values_principles.md#2-foundational-objective-wellbeing) hasta [15. Aplicación integrada](core_01_c_stewardship_capacity_principles.md#15-integrated-application); [6. Resolución de conflictos de proceso](#6-process-conflict-resolution) para el procedimiento de colisión de valores; [Capítulo Seis: Derechos fundacionales](../../core_06_rights_part_a.md#chapter-six-foundational-rights) defecto de no contracción.
 - Leer con: [Capítulos Dos a Cuatro](core_02_definition_structure.md) y [Capítulo Cinco](core_05__definitions_home.md#chapter-five-foundational-definitions) — capa interpretativa y de evidencia de cada término de este capítulo.
 - Leer con: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad) y [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims) — telón de fondo interpretativo del marco de valores integrados; escalamiento por [enjuego material](core_00_preamble.md#material-stake) donde sea materialmente pertinente.
-- Leer con: [Pila de autoridad y jerarquía interna](../../core_05_band_integrative.md#authority-stack) (*estatus de capa de fuente*); [Capítulo Dieciséis](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*custodia, ediciones, encuadre de adopción* — no es un segundo hogar de orden de conflictos); [Capítulo Trece](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) y [Capítulo Catorce](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) (*no regresión y compuertas de jerarquía de quienes adoptan bajo el §8.4*).
+- Leer con: [Pila de autoridad y jerarquía interna](../../core_05_band_integrative.md#authority-stack) (*estatus de capa de fuente*); [Capítulo Dieciséis](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*custodia, ediciones, encuadre de adopción* — no es un segundo hogar de orden de conflictos); [Capítulo Trece](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) y [Capítulo Catorce](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) (*no regresión y compuertas de jerarquía de quienes adoptan bajo el §8.4*).
 - Leer con: [Artículo XXII: Interpretación constitucional, revisión y salvaguardas anticaptura](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) para las salvaguardas de interpretación institucional (no es un sustituto de esta sección).
 
 </details>
@@ -737,7 +737,7 @@ Esta subsección es el **único procedimiento canónico** para resolver la tensi
   - dentro de la fuente constitucional vinculante (el instrumento integrado `core_*`); y
   - en la capa de incorporación para el texto incorporado **el más estricto** / **más estricto**.
 - El estatus de capa de fuente se identifica bajo la [Pila de autoridad y jerarquía interna](../../core_05_band_integrative.md#authority-stack) en el Capítulo Cinco.
-- El [Capítulo Dieciséis](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) suministra la custodia, el fijado de edición y el encuadre de adopción. **No** reenuncia este procedimiento.
+- El [Capítulo Dieciséis](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) suministra la custodia, el fijado de edición y el encuadre de adopción. **No** reenuncia este procedimiento.
 - Para las **colisiones de valores y de derechos en la operación** — no la precedencia de capa textual — apliquen el **[§6 Resolución de conflictos de proceso](#6-process-conflict-resolution)**.
 
 **Secuencia operativa.** Apliquen lo siguiente **en este orden**:
@@ -774,7 +774,7 @@ Cada principio de este capítulo se aplica junto con la [Tétrada Constitucional
 <a id="843-incorporation-layer"></a>
 ##### 8.4.3 Capa de incorporación
 
-Después de la lectura constitucional bajo el **§8.4.1** y el **§8.4.2**, apliquen las **obligaciones designadas** en el texto de implementación adoptado — los deberes nominados de cómo-hacer que la adopción de hecho puso en vigor. Aplíquenlos solo dentro del **alcance válido de adopción e incorporación** bajo el **[Capítulo Dieciséis](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** (quién sostiene los registros, qué edición está fijada y cómo se encuadra la adopción).
+Después de la lectura constitucional bajo el **§8.4.1** y el **§8.4.2**, apliquen las **obligaciones designadas** en el texto de implementación adoptado — los deberes nominados de cómo-hacer que la adopción de hecho puso en vigor. Aplíquenlos solo dentro del **alcance válido de adopción e incorporación** bajo el **[Capítulo Dieciséis](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)** (quién sostiene los registros, qué edición está fijada y cómo se encuadra la adopción).
 
 Cuando las reglas de abajo digan **más estricto** o **más estricta**, esas palabras tienen el mismo significado que la regla de **ambigüedad** en el **[§8.3](#83-ambiguity-resolution)**: el **efecto protector más pleno como un todo integrado**, no la **restricción máxima** ni la **estrictedad abstracta** de forma aislada.
 
@@ -789,7 +789,7 @@ Cuando las reglas de abajo digan **más estricto** o **más estricta**, esas pal
   - esto **no** es resolución de ambigüedad constitucional sustantiva por preferencia de **estrictedad abstracta**.
 - **Gana la más estricta entre archivos:** Donde dos o más archivos de implementación adoptados fijen estándares distintos para el mismo riesgo de alcance significativo, controla la regla claramente adoptada más estricta, de forma consistente con **El más estricto aplicable** y **Línea de base claramente adoptada más estricta** de arriba.
   - El estatus de capa de fuente sigue bajo la [Pila de autoridad y jerarquía interna](../../core_05_band_integrative.md#authority-stack).
-  - La custodia, las ediciones y el encuadre de adopción siguen bajo el **[Capítulo Dieciséis](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)**.
+  - La custodia, las ediciones y el encuadre de adopción siguen bajo el **[Capítulo Dieciséis](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)**.
   - La misma regla se aplica cuando un perfil citado y una etiqueta de implementación citada parezcan entrar en conflicto para ese riesgo.
 
 <a id="844-combined-satisfaction"></a>
@@ -801,7 +801,7 @@ La regla de satisfacción combinada de esta subsección trata de que **más de u
 - la regla de un clúster operativo **único** en el texto de estructura conjunta incorporado, donde hacer solo una parte de ese clúster no cuenta como cumplimiento — véase **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*Clústeres operativos*); o
 - la regla del Capítulo Cinco de que las definiciones de **Clúster dependiente** deben satisfacerse juntas — véase **[Invocación conjunta y satisfacción](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
 
-**Cuándo se aplica esta subsección.** Estas reglas se aplican dentro del alcance válido de adopción e incorporación bajo el **[Capítulo Dieciséis](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge)** en cualquiera de estos casos:
+**Cuándo se aplica esta subsección.** Estas reglas se aplican dentro del alcance válido de adopción e incorporación bajo el **[Capítulo Dieciséis](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)** en cualquiera de estos casos:
 
 1. **Una situación, más de un archivo:** Los hechos exigen aplicar más de un archivo de implementación incorporado — por ejemplo sistemas, instituciones, foros o texto de estructura conjunta. Qué archivos se aplican lo decide el alcance de adopción y el enrutamiento de temas que esos archivos suministran para los hechos, no eligiendo solo el archivo más fácil de satisfacer.
 2. **La adopción pone en vigor el conjunto de estructura conjunta:** El instrumento que adopta aplica texto de implementación de estructura conjunta designado (la carpeta **CJS** y cualesquiera otros archivos de estructura conjunta listados en la cadena de adopción) a quien adopta.

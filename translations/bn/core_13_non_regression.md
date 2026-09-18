@@ -6,15 +6,15 @@
 
 > নিচের বিষয়বস্তু **শুধু পাঠক নির্দেশনা**। এটি এই ফাইল বা অন্য অধ্যায়ে বাধ্যতামূলক কর্তব্য যোগ করে না, কমায় না, সংকুচিতও করে না।
 >
-> এই ফাইল [ইংরেজি অধ্যায় তেরো](../../core_13_non_regression.md)-এর **পাঠক-ভাষার পাইলট**। এটি সংজ্ঞ সংবিধানের **বাধ্যতামূলক অংশ নয়**। এটি **দ্বিতীয় সংবিধান নয়**। এটি **প্রেরণ সংস্করণ নয়**। এটি `SC-Corpus-2026.08.09`-এ **পিন**। অনুবাদ ও ইংরেজি মূল যদি অমিল মনে হয়, ক্রমাঙ্কিত [`core_13_non_regression.md`](../../core_13_non_regression.md) জিতবে। পড়ার ক্রম ও সংস্করণ মেটাডেটা [README.md](../../README.md)-এ থাকে। পদ্ধতি ও শব্দতালিকা: [translations/bn/README.md](README.md)।
+> এই ফাইল [ইংরেজি অধ্যায় তেরো](../../core_14_non_regression.md)-এর **পাঠক-ভাষার পাইলট**। এটি সংজ্ঞ সংবিধানের **বাধ্যতামূলক অংশ নয়**। এটি **দ্বিতীয় সংবিধান নয়**। এটি **প্রেরণ সংস্করণ নয়**। এটি `SC-Corpus-2026.08.09`-এ **পিন**। অনুবাদ ও ইংরেজি মূল যদি অমিল মনে হয়, ক্রমাঙ্কিত [`core_13_non_regression.md`](../../core_14_non_regression.md) জিতবে। পড়ার ক্রম ও সংস্করণ মেটাডেটা [README.md](../../README.md)-এ থাকে। পদ্ধতি ও শব্দতালিকা: [translations/bn/README.md](README.md)।
 >
-> এতে আছে **অধ্যায় তেরো**: সারবস্তুগত অ-পশ্চাদগমন ও সারবস্তুগত সংশোধন বৈধতা (পরীক্ষা 1)। **অধ্যায় চোদ্দ** আছে [`core_14_expansion_supremacy.md`](../../core_14_expansion_supremacy.md)-এ। **অধ্যায় পনেরো** আছে [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md)-এ। সংশোধন বৈধতাকে [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims) দুইটিই ধরে রাখতে হয় — **সমুন্নতি** ও **সাতত্য** — এবং [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad)-কে [বস্তুগত বাজি](core_00_preamble.md#material-stake) প্রয়োজনীয়তার নিচে খালি করতে পারে না। অধ্যায় ক্রমাঙ্কন ও ক্রস-রেফারেন্স সমন্বিত দলিলের সঙ্গে মিলে।
+> এতে আছে **অধ্যায় তেরো**: সারবস্তুগত অ-পশ্চাদগমন ও সারবস্তুগত সংশোধন বৈধতা (পরীক্ষা 1)। **অধ্যায় চোদ্দ** আছে [`core_14_expansion_supremacy.md`](../../core_15_expansion_supremacy.md)-এ। **অধ্যায় পনেরো** আছে [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md)-এ। সংশোধন বৈধতাকে [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims) দুইটিই ধরে রাখতে হয় — **সমুন্নতি** ও **সাতত্য** — এবং [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad)-কে [বস্তুগত বাজি](core_00_preamble.md#material-stake) প্রয়োজনীয়তার নিচে খালি করতে পারে না। অধ্যায় ক্রমাঙ্কন ও ক্রস-রেফারেন্স সমন্বিত দলিলের সঙ্গে মিলে।
 
 
 >
-> **আগেরটি (এখনও ইংরেজিতে):** [core_12_governance.md](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
+> **আগেরটি (এখনও ইংরেজিতে):** [core_12_governance.md](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)
 >
-> **পরেরটি (এখনও ইংরেজিতে):** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+> **পরেরটি (এখনও ইংরেজিতে):** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 > **পড়ার আর্ক:** §1 অ-পশ্চাদগমন তল → §2 পরীক্ষা 1 → §3 এড়ানো-নিরোধ ও প্রেরণ → §4 স্তরের পরিসর
 </details>
 
@@ -35,9 +35,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: [অধ্যায় এক](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [অধ্যায় দুই থেকে চার](core_02_definition_structure.md) অখণ্ডতা ও যাচাই; [অধ্যায় ছয়](core_06_rights_part_a.md#chapter-six-foundational-rights) অধিকার-তল; [অধ্যায় বারো](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) বৈধতা ও দায়িত্বশীল ব্যবস্থাপনা প্রয়োজনীয়তা।
+- ঊর্ধ্ব: [অধ্যায় এক](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [অধ্যায় দুই থেকে চার](core_02_definition_structure.md) অখণ্ডতা ও যাচাই; [অধ্যায় ছয়](core_06_rights_part_a.md#chapter-six-foundational-rights) অধিকার-তল; [অধ্যায় বারো](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) বৈধতা ও দায়িত্বশীল ব্যবস্থাপনা প্রয়োজনীয়তা।
 - উপধারা: [§1](#1-non-regression-floor); [§2](#2-test-1-substantive-non-regression-validity); [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral); [§4](#4-layer-scope)।
-- অধঃ: [অধ্যায় চোদ্দ](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) সম্প্রসারণ ও সর্বোচ্চতা; [অধ্যায় পনেরো](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) পদ্ধতিগত বৈধতা, অনুমোদন ও সংশোধন প্রয়োজনীয়তা; [অধ্যায় আট](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) ও [অধ্যায় দশ](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) প্রামাণিক শ্রেণিবিন্যাসের জন্য যেখানে প্রেরণ ট্রিগার রাউট হয়।
+- অধঃ: [অধ্যায় চোদ্দ](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) সম্প্রসারণ ও সর্বোচ্চতা; [অধ্যায় পনেরো](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) পদ্ধতিগত বৈধতা, অনুমোদন ও সংশোধন প্রয়োজনীয়তা; [অধ্যায় আট](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) ও [অধ্যায় দশ](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) প্রামাণিক শ্রেণিবিন্যাসের জন্য যেখানে প্রেরণ ট্রিগার রাউট হয়।
 - সঙ্গে পড়ুন: [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) সাংবিধানিক পরিবর্তন ও অন্তর্ভুক্তির উপর **অধ্যায় এগারো থেকে চোদ্দ**-এর অ-কার্যকরী হাঁটা।
 
 </details>
@@ -96,8 +96,8 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - ঊর্ধ্ব: [§1](#1-non-regression-floor) অ-পশ্চাদগমন তল সংজ্ঞা।
-- অধঃ: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) এড়ানো ও অসদাচরণ প্রেরণ; [অধ্যায় পনেরো](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) পরীক্ষা 2–4 ও পদ্ধতিগত প্রয়োজনীয়তা (পরীক্ষা 1 ব্যর্থ হলে প্রক্রিয়া যাই হোক অবৈধ)।
-- সঙ্গে পড়ুন: [অধ্যায় এক](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) অনতিক্রম্য নীতি বন্ধন; [অধ্যায় বারো](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) বৈধতা কর্তব্য।
+- অধঃ: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) এড়ানো ও অসদাচরণ প্রেরণ; [অধ্যায় পনেরো](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) পরীক্ষা 2–4 ও পদ্ধতিগত প্রয়োজনীয়তা (পরীক্ষা 1 ব্যর্থ হলে প্রক্রিয়া যাই হোক অবৈধ)।
+- সঙ্গে পড়ুন: [অধ্যায় এক](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) অনতিক্রম্য নীতি বন্ধন; [অধ্যায় বারো](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) বৈধতা কর্তব্য।
 
 </details>
 
@@ -157,8 +157,8 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - ঊর্ধ্ব: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) শুধু-প্রেরণ শৃঙ্খলা; [অধ্যায় আট](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) ও [অধ্যায় দশ](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) প্রামাণিক মালিক।
-- অধঃ: [অধ্যায় পনেরো §12](../../core_15_amendment_ratification.md#12-layer-scope) প্রতিবিম্বিত পদ্ধতি-স্তর শৃঙ্খলা; পর্যালোচনা নিষ্পাদন যন্ত্রপাতির বাস্তবায়ন পাঠ।
-- সঙ্গে পড়ুন: [কর্তৃত্ব স্তূপ ও অভ্যন্তরীণ ক্রম](core_05_band_integrative.md#owner-non-relocation) এবং [প্রস্তাবনা — ধনাত্মক স্বত্বাধিকারী পঞ্জি](core_00_preamble.md#4-principles-definitions-and-rights); পরিবর্তন-পথ ও অন্তর্ভুক্তির উপর [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md); স্লট-শ্রেণিবিন্যাস শ্রেণিবিন্যাস নকল করে না এমন বৈধতা পরীক্ষার জন্য [অধ্যায় পনেরো](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity)।
+- অধঃ: [অধ্যায় পনেরো §12](../../core_16_amendment_ratification.md#12-layer-scope) প্রতিবিম্বিত পদ্ধতি-স্তর শৃঙ্খলা; পর্যালোচনা নিষ্পাদন যন্ত্রপাতির বাস্তবায়ন পাঠ।
+- সঙ্গে পড়ুন: [কর্তৃত্ব স্তূপ ও অভ্যন্তরীণ ক্রম](core_05_band_integrative.md#owner-non-relocation) এবং [প্রস্তাবনা — ধনাত্মক স্বত্বাধিকারী পঞ্জি](core_00_preamble.md#4-principles-definitions-and-rights); পরিবর্তন-পথ ও অন্তর্ভুক্তির উপর [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md); স্লট-শ্রেণিবিন্যাস শ্রেণিবিন্যাস নকল করে না এমন বৈধতা পরীক্ষার জন্য [অধ্যায় পনেরো](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity)।
 
 </details>
 
@@ -187,7 +187,7 @@
 > - **সাধারণ অবদান ও লঙ্ঘন পরিমাপ** (অবদান অক্ষ / লঙ্ঘন অক্ষ) — [core_08_standing_assessment.md](core_08_standing_assessment.md)-এ **অধ্যায় আট**; **প্রস্থিতি প্রভাব ও একীকরণ** — [core_09_standing_integration.md](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)-এ **অধ্যায় নয়**;
 > - **অবদান অক্ষ ও লঙ্ঘন অক্ষের সংখ্যাসূচক স্লট** — **অধ্যায় আট §7 একীভূত মাপকাঠি**, আলাদা নথি সহ এবং লঙ্ঘন স্লট শুধু যাচাইকৃত প্রভাব দ্বারা নিয়ন্ত্রিত; এবং যোগ্য লঙ্ঘন অক্ষ স্লট 7, 8, বা 9-এর সংশ্লিষ্ট **সংবিধান-বিরোধী-অসদাচরণ নামকরণ** — [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)-এ **অধ্যায় দশ**;
 > - **মঞ্চ-পরিচালন কর্মপ্রবাহ ও নিষ্পত্তি প্রক্রিয়া** — **অধ্যায় এগারো** ও [corpus_forum.md](../../corpus_forum.md);
-> - সংশোধন, অনুমোদন ও গ্রহণের **পদ্ধতিগত ও হেফাজত বৈধতা** — [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity)-এ **অধ্যায় পনেরো**; এবং
+> - সংশোধন, অনুমোদন ও গ্রহণের **পদ্ধতিগত ও হেফাজত বৈধতা** — [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity)-এ **অধ্যায় পনেরো**; এবং
 > - পর্যালোচনা নিষ্পাদনের **বিস্তারিত প্রাতিষ্ঠানিক প্রক্রিয়া, কর্মী যন্ত্রপাতি, ও আন্তঃবাস্তবায়ন যৌথ কাঠামোগত একীকরণ** — নির্ধারিত বাস্তবায়ন পাঠ ও [প্রস্তাবনা — ধনাত্মক স্বত্বাধিকারী পঞ্জি](core_00_preamble.md#4-principles-definitions-and-rights)-তে নামকৃত মালিক অধ্যায়।
 >
 > মালিক স্তরকে **অধ্যায় তেরো ও পনেরো** থেকে সাংবিধানিক বৈধতা মান, **অধ্যায় আট §7 একীভূত মাপকাঠি** থেকে অবদান অক্ষ / লঙ্ঘন অক্ষ পরিমাপ কর্তৃত্ব, বা **অধ্যায় দশ** থেকে সংবিধান-বিরোধী-অসদাচরণ নামকরণ কর্তৃত্ব স্থানান্তর করা হিসেবে পড়া চলবে না। অধ্যায় দশ সংখ্যাসূচক স্লট বরাদ্দ করে না। অ-কার্যকরী স্থাপত্য হাঁটার জন্য দেখুন [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md)।
@@ -196,8 +196,8 @@
 
 ---
 
-**আগের ফাইল (এখনও ইংরেজিতে):** [core_12_governance.md](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
+**আগের ফাইল (এখনও ইংরেজিতে):** [core_12_governance.md](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)
 
-**পরের ফাইল (এখনও ইংরেজিতে):** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+**পরের ফাইল (এখনও ইংরেজিতে):** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 
-**বাধ্যতামূলক মূল:** [core_13_non_regression.md](../../core_13_non_regression.md)
+**বাধ্যতামূলক মূল:** [core_13_non_regression.md](../../core_14_non_regression.md)

@@ -7,7 +7,7 @@
 
 > Aşağıdaki içerik **yalnızca okur rehberidir**. Bu dosyada ya da başka bölümlerde bağlayıcı yükümlülükleri eklemez, çıkarmaz ya da daraltmaz.
 >
-> Bu dosya, [İngilizce Yedinci Bölüm okuma dizini](../../core_07_system_alignment_certification.md)nin bir **okur-dili pilotudur**. Algılayanlar Anayasasının bağlayıcı bir parçası **değildir**. İkinci bir anayasa **değildir**. Bir gönderim baskısı **değildir**. `SC-Corpus-2026.08.09`a **sabitlenmiştir**. Bu çeviri ile İngilizce asıl görünür biçimde ayrışırsa, numaralı [`core_07_system_alignment_certification.md`](../../core_07_system_alignment_certification.md) kazanır. Okuma sırası ve baskı üstverisi [README.md](../../README.md)de tutulur. Yöntem ve sözlük: [translations/tr/README.md](README.md).
+> Bu dosya, [İngilizce Yedinci Bölüm okuma dizini](../../core_08_system_alignment_certification.md)nin bir **okur-dili pilotudur**. Algılayanlar Anayasasının bağlayıcı bir parçası **değildir**. İkinci bir anayasa **değildir**. Bir gönderim baskısı **değildir**. `SC-Corpus-2026.08.09`a **sabitlenmiştir**. Bu çeviri ile İngilizce asıl görünür biçimde ayrışırsa, numaralı [`core_07_system_alignment_certification.md`](../../core_08_system_alignment_certification.md) kazanır. Okuma sırası ve baskı üstverisi [README.md](../../README.md)de tutulur. Yöntem ve sözlük: [translations/tr/README.md](README.md).
 >
 > **Yedinci Bölüm** tek bir araç olarak okunan iki bağlayıcı dosyaya bölünmüştür:
 >
@@ -41,4 +41,4 @@ Dörtlünün **gözetim** bacağı altında gözetim denetim ister; Yedinci Böl
 
 **Sonraki dosya (bu dilde):** [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
 
-**Bağlayıcı asıl:** [core_07_system_alignment_certification.md](../../core_07_system_alignment_certification.md)
+**Bağlayıcı asıl:** [core_07_system_alignment_certification.md](../../core_08_system_alignment_certification.md)

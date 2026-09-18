@@ -12,7 +12,7 @@
 >
 > **قبلی (این زبان):** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 >
-> **بعدی (هنوز انگلیسی):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+> **بعدی (هنوز انگلیسی):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 > **قوس خواندن:** اصل‌های XXIII–XXVI (عدالت و اضطرار، تکامل قانون اساسی، گذار، و بازپایه‌گذاری)
 
 </details>
@@ -79,7 +79,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: اصول: فصل یکم [§3.1 ایمنی](core_01_a_values_principles.md#31-safety-harm-constraint)، [فصل یکم §6.1.5 رویهٔ تصادم حقوق](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)، [فصل یکم §9.6 فرایند ضدخوارکننده](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline)، و [§15 اعمال یکپارچه](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- پایین‌دست: [فصل نهم §4](../../core_09_standing_integration.md#4-violation-correction-and-prevention) (*تخلف، اصلاح، و پیشگیری*)؛ [اصل XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints)؛ [اصل XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule).
+- پایین‌دست: [فصل نهم §4](../../core_10_standing_integration.md#4-violation-correction-and-prevention) (*تخلف، اصلاح، و پیشگیری*)؛ [اصل XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints)؛ [اصل XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule).
 - خوانده شود با: [قساوت](core_05_band_accountability.md#cruelty) (*خانهٔ فصل پنجم برای استاندارد رنج‌به‌عنوان‌غایتِ کف ضدقساوت*).
 
 </details>
@@ -329,7 +329,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: اصول: فصل یکم [§6.1.5 آزمون تصمیم تصادم حقوق](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)، [§7 منع فسخ مطلق](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)، و [§15 اعمال یکپارچه](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- خوانده شود با: [فصل نهم §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*بیان داوطلبانهٔ پاسخگویی عمومی*)؛ [فصل دهم §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*بیان داوطلبانهٔ پاسخگویی عمومی (ضدقانون‌اساسی)*).
+- خوانده شود با: [فصل نهم §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*بیان داوطلبانهٔ پاسخگویی عمومی*)؛ [فصل دهم §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*بیان داوطلبانهٔ پاسخگویی عمومی (ضدقانون‌اساسی)*).
 
 </details>
 
@@ -358,7 +358,7 @@
     - خطر جاری؛
     - عدم‌تقارن قدرت مادی؛
     - عدم‌رضایت طرف‌های اثرپذیر.
-- **بیان داوطلبانهٔ پاسخگویی عمومی:** اداره می‌شود عموماً با [فصل نهم §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*بیان داوطلبانهٔ پاسخگویی عمومی*)، و برای سوءرفتار ضدقانون‌اساسی راستی‌آزمایی‌شده با [فصل دهم §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*بیان داوطلبانهٔ پاسخگویی عمومی (ضدقانون‌اساسی)*)، تابع قواعد تصادم حقوق و هم‌راستایی ترمیمی در این اصل.
+- **بیان داوطلبانهٔ پاسخگویی عمومی:** اداره می‌شود عموماً با [فصل نهم §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*بیان داوطلبانهٔ پاسخگویی عمومی*)، و برای سوءرفتار ضدقانون‌اساسی راستی‌آزمایی‌شده با [فصل دهم §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*بیان داوطلبانهٔ پاسخگویی عمومی (ضدقانون‌اساسی)*)، تابع قواعد تصادم حقوق و هم‌راستایی ترمیمی در این اصل.
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### اصل XXIV-C: حل به‌هنگام و کف ضدتأخیر
 <details>
@@ -394,7 +394,7 @@
 - **سه الزام مشترک:** مسیرهای حل مادی باید با هم **به‌هنگام**، **کارا**، و **عادلانه** باشند:
   - **به‌هنگام** — ساعت‌های محدود مقیاس‌شده با [منافع مادی](core_00_preamble.md#material-stake) و فوریت آسیب؛
   - **کارا** — [کارایی قانون اساسی](core_05_band_continuity.md#constitutional-efficiency) به معنای فصل یکم [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) — پیامد واقعی قانون اساسی به‌ازای زمان حس‌مند و تلاش مشترک مصرف‌شده، نه خروجی خام یا خالی کردن فهرست پرونده؛
-  - **عادلانه** — **اصل XXIII-A** (*هدف و گسترهٔ عدالت*)، **اصل XXIII-B** (*محدودیت نابدیهی، استرداد، و قیدهای پاسخگویی ترمیمی*)، و **اصل XXIII-C** (*قاعدهٔ کم‌محدودکننده و زمان‌مند*) کاملاً اعمال‌شدنی می‌مانند؛ سریع حرکت کردن بهانه نیست برای پریدن از واقعیت‌های بررسی‌شده ([فصل هشتم §3.1](../../core_08_standing_assessment.md#verified-inputs-for-standing))، کیفر طرف غلط، عرضهٔ اصلاحی که با آسیب جور نیست، یا قطع اعتراض و تجدیدنظر.
+  - **عادلانه** — **اصل XXIII-A** (*هدف و گسترهٔ عدالت*)، **اصل XXIII-B** (*محدودیت نابدیهی، استرداد، و قیدهای پاسخگویی ترمیمی*)، و **اصل XXIII-C** (*قاعدهٔ کم‌محدودکننده و زمان‌مند*) کاملاً اعمال‌شدنی می‌مانند؛ سریع حرکت کردن بهانه نیست برای پریدن از واقعیت‌های بررسی‌شده ([فصل هشتم §3.1](../../core_09_standing_assessment.md#verified-inputs-for-standing))، کیفر طرف غلط، عرضهٔ اصلاحی که با آسیب جور نیست، یا قطع اعتراض و تجدیدنظر.
 - **نظارت مجمع و زنجیره:** موارد زیر برای اختلاف‌های مسیرگرفته از راه **فصل‌های هشتم تا یازدهم** زیر [فصل یازدهم §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) اداره می‌شوند، تابع کف به‌هنگام، کارا، و عادلانهٔ این اصل:
   - طبقه‌بندی طبقهٔ اهمیت مادی؛
   - نقاط عطف مرحلهٔ زنجیره؛
@@ -431,7 +431,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- بالادست: اصول: [فصل یکم §10.3 توجیه مستمر](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification)؛ فصل یکم [§2 هدف بنیادین: بهزیستی](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [§7 منع فسخ مطلق](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- بالادست: اصول: [فصل یکم §10.3 توجیه مستمر](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification)؛ فصل یکم [§2 هدف بنیادین: بهزیستی](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [§7 منع فسخ مطلق](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 
 </details>
 
@@ -461,7 +461,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§3.2 حقیقت](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [§7 منع فسخ مطلق](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- بالادست: اصول: فصل یکم [§3.2 حقیقت](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [§7 منع فسخ مطلق](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 
 </details>
 
@@ -517,7 +517,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§3.1 ایمنی](core_01_a_values_principles.md#31-safety-harm-constraint)، [§6.1 اصول اصلی بده‌بستان](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، و [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ [فصل نهم §5.4](../../core_09_standing_integration.md#54-special-violation-rules) (*مصادرهٔ پاداش ناهم‌راستا و گزارش‌دهی محدود در گذار با این اصل*)؛ [فصل هفتم — گواهی هم‌راستایی نظام](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification).
+- بالادست: اصول: فصل یکم [§3.1 ایمنی](core_01_a_values_principles.md#31-safety-harm-constraint)، [§6.1 اصول اصلی بده‌بستان](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، و [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ [فصل نهم §5.4](../../core_10_standing_integration.md#54-special-violation-rules) (*مصادرهٔ پاداش ناهم‌راستا و گزارش‌دهی محدود در گذار با این اصل*)؛ [فصل هفتم — گواهی هم‌راستایی نظام](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -554,7 +554,7 @@
   
   منسوخ‌سازی، بازنشستگی، برگشت، مهاجرت، یا جایگزینی این گلوله را با بایگانی مؤلفه‌های حامل‌حالت زیر **حفظ شاهد** و انضباط منع جدایی **اصل VII-D** (*خانواده، روابط مراقبت، خودمختاری باروری، و منع جدایی*) برآورده می‌کند. این [وضعیت موقت پیش‌فرض فصل یکم §6.1](core_01_b_interaction_interpretation.md#default-interim-posture) است — گام‌های برگشت‌ناپذیر را منجمد کنید — اعمال‌شده بر همان یک گام برگشت‌ناپذیری که عملیات میراث آن را عادی می‌داند. هزینهٔ ذخیره، راحتی مجوز، یا قاب‌بندی چرخهٔ محصول **ضرورت** را در برابرش برآورده نمی‌کند. جایی که خود نگهداشت خطر ایمنی مستند بسازد، تدبیر سازگار کم‌محدودکننده حضانت مُهرشده زیر کنترل مستقل است، نه نابودی.
 <a id="incentive-alignment-transition-carve-out"></a>
-- **کنارگذاری گذار هم‌راستایی انگیزه:** در فازهای گذار تصویب‌شده زیر **اصل XXVI** (*حکمرانی گذار، پیوستگی، و بازپایه‌گذاری*)، بخوانید با [فصل هفتم — گواهی هم‌راستایی نظام](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification). [فصل نهم §5.4 تکلیف گزارش‌دهی و استثناها](../../core_09_standing_integration.md#54-special-violation-rules) و [§5.4 مصادره و نگهداشت](../../core_09_standing_integration.md#54-special-violation-rules) بر پاداش‌هایی که از راه نظام‌های مشترک جریان می‌یابند **اعمال نمی‌شوند** صرفاً چون آن نظام‌ها **هنوز گواهی هم‌راستایی نشده‌اند** یا **هنوز کاملاً هم‌راستا نیستند**، مشروط بر اینکه:
+- **کنارگذاری گذار هم‌راستایی انگیزه:** در فازهای گذار تصویب‌شده زیر **اصل XXVI** (*حکمرانی گذار، پیوستگی، و بازپایه‌گذاری*)، بخوانید با [فصل هفتم — گواهی هم‌راستایی نظام](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification). [فصل نهم §5.4 تکلیف گزارش‌دهی و استثناها](../../core_10_standing_integration.md#54-special-violation-rules) و [§5.4 مصادره و نگهداشت](../../core_10_standing_integration.md#54-special-violation-rules) بر پاداش‌هایی که از راه نظام‌های مشترک جریان می‌یابند **اعمال نمی‌شوند** صرفاً چون آن نظام‌ها **هنوز گواهی هم‌راستایی نشده‌اند** یا **هنوز کاملاً هم‌راستا نیستند**، مشروط بر اینکه:
   - عملیات درون یک **برنامهٔ گذار مستند** و معیارهای دروازهٔ منتشرشده زیر **اصل XXVI** (*حکمرانی گذار، پیوستگی، و بازپایه‌گذاری*) بماند؛
   - نظام به‌سوی [گواهی هم‌راستایی نظام](core_05_band_continuity.md#system-alignment-certification-constitutional) روی آهنگی منتشرشده پیش رود، از جمله **بازشناسی مشروط** یا **معوق** جایی که فصل هفتم اجازه دهد؛ و
   - اپراتورها و ذی‌نفعان ناهم‌راستایی را **آگاهانه پنهان نکنند**، بیرون گسترهٔ گذار تصویب‌شده عمل نکنند، یا وضعیت گذار را برای گریز از گواهی، اصلاح، یا گزارش‌دهی حمایت‌شده به‌کار نبرند.
@@ -600,7 +600,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: اصول: فصل یکم [§3.1 ایمنی](core_01_a_values_principles.md#31-safety-harm-constraint)، [§6.1 اصول اصلی بده‌بستان](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، و [§15 اعمال یکپارچه](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- خوانده شود با: [فصل هفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*گواهی هم‌راستایی نظام*)؛ [فصل‌های هشتم تا یازدهم](../../README.md#standing-pipeline-and-forums) (*زنجیرهٔ ردپا و نظارت مجمع*).
+- خوانده شود با: [فصل هفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*گواهی هم‌راستایی نظام*)؛ [فصل‌های هشتم تا یازدهم](../../README.md#standing-pipeline-and-forums) (*زنجیرهٔ ردپا و نظارت مجمع*).
 
 </details>
 
@@ -624,7 +624,7 @@
   مسیرهای نام‌گذاری‌شدهٔ عقب‌نشینی ازپیش‌تعریف‌شده، معیارهای برگشت جزئی، و رویه‌های بازپایه‌گذاری زیر [**CI-14**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*حکمرانی گذار و تکامل نهادی*) اداره می‌شوند.
   - وضعیت‌های گذار شکست‌خورده یا فرسوده‌شده نباید تنها با ماندگاری به خط پایهٔ تازه بدل شوند.
 - **بازنشانی خط پایهٔ مادی:** بازنشانی خط پایهٔ مادی نقاط عطف گذار، فرض‌های خطر، مالکیت، و برنامه‌های عملیاتی را وقتی دروازه‌ها شکست می‌خورند یا گذار متوقف می‌شود به‌روز می‌کند. اختیار معتبر قانون اساسی و دلایل عمومی مستند می‌خواهد. باید **حداقل‌های کف حقوق** را نگه دارد و نباید جای قواعد تغییر قانونی این قانون اساسی بنشیند.
-- **پیش‌شرط سلامت راستی‌آزمایی:** بازنشانی یا ادامه روی خط پایهٔ گذار بازنگری‌شده غیرمنطبق است جایی که [گواهی هم‌راستایی نظام](core_05_band_continuity.md#system-alignment-certification-constitutional) زیر [فصل هفتم](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) یا زنجیرهٔ ردپا زیر [فصل‌های هشتم تا یازدهم](../../README.md#standing-pipeline-and-forums) از نظر ساختاری غیرقابل‌اتکا باشد — برای مثال جایی که گواهی به‌طور روتین نظام‌هایی را تبرک کند که کف‌های حقوق را از نظر مادی شکست می‌دهند، اندازه‌گیری ردپا به‌طور روتین از واقعیت مادی راستی‌آزمایی‌شده واگرا شود، یا مسیرهای اعتراض و بازبینی نتوانند آن شکاف‌ها را در زمان مقیاس‌شده با اهمیت مادی درست کنند. در آن شرایط، تعمیر ماشین راستی‌آزمایی و اندازه‌گیری بر بازبرنامه‌ریزی نمایشی اولویت دارد.
+- **پیش‌شرط سلامت راستی‌آزمایی:** بازنشانی یا ادامه روی خط پایهٔ گذار بازنگری‌شده غیرمنطبق است جایی که [گواهی هم‌راستایی نظام](core_05_band_continuity.md#system-alignment-certification-constitutional) زیر [فصل هفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) یا زنجیرهٔ ردپا زیر [فصل‌های هشتم تا یازدهم](../../README.md#standing-pipeline-and-forums) از نظر ساختاری غیرقابل‌اتکا باشد — برای مثال جایی که گواهی به‌طور روتین نظام‌هایی را تبرک کند که کف‌های حقوق را از نظر مادی شکست می‌دهند، اندازه‌گیری ردپا به‌طور روتین از واقعیت مادی راستی‌آزمایی‌شده واگرا شود، یا مسیرهای اعتراض و بازبینی نتوانند آن شکاف‌ها را در زمان مقیاس‌شده با اهمیت مادی درست کنند. در آن شرایط، تعمیر ماشین راستی‌آزمایی و اندازه‌گیری بر بازبرنامه‌ریزی نمایشی اولویت دارد.
 - **ردگیری‌پذیری عمومی:** تصمیم‌های مادی گذار، تأخیرها، برگشت‌ها، و تعیین‌های بازنشانی خط پایه باید با توجیه و دلالت‌های خطر قابل‌حسابرسی بمانند.
   - مستندسازی تابع قیدهای محرمانگی باریک و توجیه‌شده می‌ماند.
   - باید توضیح عمومی کافی نگه دارد تا ارزیابی شود آیا تأخیر، برگشت، یا ادامه از نظر قانون اساسی توجیه دارد.
@@ -635,7 +635,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§3.1 ایمنی](core_01_a_values_principles.md#31-safety-harm-constraint)، [فصل یکم §6.1.5 رویهٔ تصادم حقوق](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)، و [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: فصل یکم [§3.1 ایمنی](core_01_a_values_principles.md#31-safety-harm-constraint)، [فصل یکم §6.1.5 رویهٔ تصادم حقوق](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)، و [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - خوانده شود با: **اصل III-A** (*بقا*)؛ **اصل XII** (*حق نظام‌های قابل‌اتکا و اعتمادپذیر*)؛ **اصل X-B** (*مرز آسیب جمعی و واسط اجرا*)؛ **فصل هشتم**؛ **فصل یکم**، از جمله رویهٔ تصادم حقوق §6؛ **پشتهٔ قید پیش‌فرض** در گشایش فصل ششم (*واسط تصرف و اصلاح*)؛ [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) تا **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*حکمرانی گذار و تکامل نهادی*).
 
 </details>
@@ -653,7 +653,7 @@
 
 *به زبان ساده: نظام‌ها و دارایی نامنطبق می‌توانند در گذار اصلاح شوند — اما فقط از راه فرایندهای باریک، مستند، و قابل‌بازبینی که از حقوق پایه پاسداری کنند، بهانه را ببندند، و به تلافی یا هدف‌گیری سیاسی بدل نشوند. چگونه نهادها آن را اجرا می‌کنند — نقش‌ها، ماشه‌ها، حضانت، اعتراض‌ها، صندوق‌ها، و مکانیک انگیزه — در **CI-14.1** تا **CI-14.3** زندگی می‌کند؛ این اصل کف قانون اساسی‌ای را بیان می‌کند که آن رویه‌ها نباید تنگش کنند.*
 
-- **کف تصرف:** اگر چیزی را قانونی مالکید یا به‌کار می‌برید، گذار نمی‌تواند آن را از روی هوس از شما بگیرد. اما مالکیت سپر نیست وقتی گذاشتن آن دارایی در کار آشکارا یک تخلف شناخته‌شدهٔ قانون اساسی در مقیاس بزرگ را ادامه می‌دهد — پس از آنکه [فصل هشتم](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) تخلف را روی سابقه مستند کرده باشد. در آن صورت، گذار همچنان می‌تواند برای توقف آسیب عمل کند، اما فقط از راه ضمانت‌های این اصل و **CI-14.1** تا **CI-14.3**.
+- **کف تصرف:** اگر چیزی را قانونی مالکید یا به‌کار می‌برید، گذار نمی‌تواند آن را از روی هوس از شما بگیرد. اما مالکیت سپر نیست وقتی گذاشتن آن دارایی در کار آشکارا یک تخلف شناخته‌شدهٔ قانون اساسی در مقیاس بزرگ را ادامه می‌دهد — پس از آنکه [فصل هشتم](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) تخلف را روی سابقه مستند کرده باشد. در آن صورت، گذار همچنان می‌تواند برای توقف آسیب عمل کند، اما فقط از راه ضمانت‌های این اصل و **CI-14.1** تا **CI-14.3**.
 - **اصلاح در گسترهٔ گذار:** یک **برنامهٔ گذار مستند** زیر **اصل XXVI-A** (*پذیرش مرحله‌ای و پیوستگی کف حقوق*) می‌تواند اصلاح شتاب‌گرفتهٔ نظام‌ها یا دارایی **از نظر مادی نامنطبق** را فقط در گذار مجاز کند. گسترهٔ عملیاتی، تدابیر مجاز، و رویهٔ نهادی زیر [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) تا **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*حکمرانی گذار و تکامل نهادی*) اداره می‌شوند، خوانده با **CJS-3.6** (*زنجیرهٔ کنترل حضانت دارایی و جدایی انگیزه*) و **اصل XII-E** (*نظام‌های با خودمختاری بالا و یکپارچگی فرایند ابزارمیانجی*) جایی که اعمال‌شدنی است.
 - **ضمانت‌های لازم:** هر برنامهٔ محرومیت یا انگیزه در گسترهٔ گذار باید این‌ها را برآورد:
   - [**اصل قید کم‌محدودکننده، زمان‌مند، و قابل‌بازبینی**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)، با **ضرورت** و **تناسب** قابل‌نمایش؛
@@ -674,6 +674,6 @@
 
 **پروندهٔ قبلی (این زبان):** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 
-**پروندهٔ بعدی (هنوز انگلیسی):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+**پروندهٔ بعدی (هنوز انگلیسی):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 
 **اصل الزام‌آور:** [core_06_rights_part_d.md](../../core_06_rights_part_d.md)

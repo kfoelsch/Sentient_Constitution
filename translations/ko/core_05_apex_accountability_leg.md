@@ -23,7 +23,7 @@
 - 상류: [제5장 나침반](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) (책무 다리; [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절); [두 헌법 목적](core_00_preamble.md#two-constitutional-aims); 일차 목적 [번영](core_00_preamble.md#flourishing).
 - 하류: 원칙: [§10 책임 있는 관리 규율 아래 거버넌스](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [제1장 §11.6 승계 책임과 형식 구조 비탈출](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [사원(四元) 다리 분해](#accountability-tetrad-leg-decomposition); [core_05_band_accountability.md](../../core_05_band_accountability.md)의 책무 띠 잎 정의.
 - 사원(四元) 형제 다리: [적시성](core_05_apex_timeliness_leg.md#timeliness-constitutional).
-- 함께 읽기: [책무, 다툴 수 있음, 재결과 분쟁 해결, 집단 책무 실패, 불가항력 무리](../../core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster), [다툴 수 있음](../../core_05_band_accountability.md#contestability), [감사 가능성](../../core_05_band_oversight.md#auditability), [귀속 가능 행위](../../core_05_band_accountability.md#attributable-action-constitutional), [귀속 완전성](../../core_05_band_accountability.md#attribution-integrity-constitutional), [제1장 §11.6](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape), [제3장 §2.1.1 형식 꼬리표와 표상 농락](core_03_definition_integrity.md#211-formal-label-and-representation-gaming), 그리고 [제9장 §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority).
+- 함께 읽기: [책무, 다툴 수 있음, 재결과 분쟁 해결, 집단 책무 실패, 불가항력 무리](../../core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster), [다툴 수 있음](../../core_05_band_accountability.md#contestability), [감사 가능성](../../core_05_band_oversight.md#auditability), [귀속 가능 행위](../../core_05_band_accountability.md#attributable-action-constitutional), [귀속 완전성](../../core_05_band_accountability.md#attribution-integrity-constitutional), [제1장 §11.6](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape), [제3장 §2.1.1 형식 꼬리표와 표상 농락](core_03_definition_integrity.md#211-formal-label-and-representation-gaming), 그리고 [제9장 §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
 
@@ -83,7 +83,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 함께 읽기: [제1장 §11 유인 정합과 체계 포획](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture), [§13 시장 구조](core_01_c_stewardship_capacity_principles.md#13-market-structure), 그리고 [제7장 §3.7 거버넌스, 유인, 다툴 수 있음 규율](../../core_07_a_system_alignment_certification_evaluation.md#37-governance-incentive-and-contestability-discipline).
+- 함께 읽기: [제1장 §11 유인 정합과 체계 포획](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture), [§13 시장 구조](core_01_c_stewardship_capacity_principles.md#13-market-structure), 그리고 [제7장 §3.7 거버넌스, 유인, 다툴 수 있음 규율](../../core_08_a_system_alignment_certification_evaluation.md#37-governance-incentive-and-contestability-discipline).
 
 </details>
 

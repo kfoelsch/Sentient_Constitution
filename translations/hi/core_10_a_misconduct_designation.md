@@ -9,7 +9,7 @@
 
 > नीचे की सामग्री **केवल पाठक मार्गदर्शन** है। यह इस फ़ाइल या अन्य अध्यायों में बाध्यकारी कर्तव्यों को जोड़ती, घटाती या संकीर्ण नहीं करती।
 >
-> यह फ़ाइल [अंग्रेज़ी अध्याय दस, भाग क](../../core_10_a_misconduct_designation.md) की **पाठक-भाषा पायलट** है। यह संज्ञ संविधान का **बाध्यकारी भाग नहीं** है। यह **दूसरा संविधान नहीं** है। यह **प्रेषण संस्करण नहीं** है। यह `SC-Corpus-2026.08.09` से **जुड़ी** है। यदि यह अनुवाद और अंग्रेज़ी मूल में अंतर दिखे, तो क्रमांकित [`core_10_a_misconduct_designation.md`](../../core_10_a_misconduct_designation.md) जीतता है। पढ़ने का क्रम और संस्करण मेटाडेटा [README.md](../../README.md) में रहते हैं। विधि और शब्द-सूची: [translations/hi/README.md](README.md)।
+> यह फ़ाइल [अंग्रेज़ी अध्याय दस, भाग क](../../core_11_a_misconduct_designation.md) की **पाठक-भाषा पायलट** है। यह संज्ञ संविधान का **बाध्यकारी भाग नहीं** है। यह **दूसरा संविधान नहीं** है। यह **प्रेषण संस्करण नहीं** है। यह `SC-Corpus-2026.08.09` से **जुड़ी** है। यदि यह अनुवाद और अंग्रेज़ी मूल में अंतर दिखे, तो क्रमांकित [`core_10_a_misconduct_designation.md`](../../core_11_a_misconduct_designation.md) जीतता है। पढ़ने का क्रम और संस्करण मेटाडेटा [README.md](../../README.md) में रहते हैं। विधि और शब्द-सूची: [translations/hi/README.md](README.md)।
 >
 > इसमें **अध्याय दस, भाग क** है — नामांकन निर्णय ढाँचा, मानदंड समुच्चय, उल्लंघन अक्ष `s = 7–9` नामांकन संलग्नक, उचित-प्रक्रिया रक्षोपाय, उपचार, रोकथाम ताले, और स्वैच्छिक सार्वजनिक जवाबदेही अभिव्यक्ति। **भाग ख** — नामित पैटर्न अनुप्रयोग और मानदंड मार्गन — [`core_10_b_misconduct_pattern_applications.md`](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications) में है।
 >
@@ -17,7 +17,7 @@
 > - **मापन सीमा:** केवल अध्याय आठ अपनी एकीकृत आनुपातिक LEQU मापनी के अधीन संख्यात्मक प्रभाव स्लॉट आवंटित करता है। यह अध्याय उस मापन का **स्थानापन्न नहीं** है और उसे बदलता नहीं।
 > - **स्थानांतरण-निषेध नियम:** भाग क भाग ख के पैटर्न सूचीपत्र, अध्याय नौ के प्रस्थिति ताले, या अध्याय तेरह से पंद्रह की परिवर्तन-पथ वैधता नियम पुनः नहीं कहता।
 >
-> **s = 7, 8, या 9** पर संविधान-विरोधी दुराचरण पैमाने पर **चतुष्क-कब्ज़ा** है — इसे [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims) के अधीन [सातत्य उद्देश्य](core_00_preamble.md#continuity) के साथ पढ़ें। परिवर्तन-पथ वैधता अंतःक्रियाएँ [अध्याय तेरह से पंद्रह](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) में जारी रहती हैं; न्याय बंधन [अध्याय छह भाग घ](core_06_rights_part_d.md) में रहते हैं।
+> **s = 7, 8, या 9** पर संविधान-विरोधी दुराचरण पैमाने पर **चतुष्क-कब्ज़ा** है — इसे [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims) के अधीन [सातत्य उद्देश्य](core_00_preamble.md#continuity) के साथ पढ़ें। परिवर्तन-पथ वैधता अंतःक्रियाएँ [अध्याय तेरह से पंद्रह](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) में जारी रहती हैं; न्याय बंधन [अध्याय छह भाग घ](core_06_rights_part_d.md) में रहते हैं।
 >
 > **ऊर्ध्व:** अध्याय आठ प्रस्थिति मापन; अध्याय नौ नामांकन संकेत।
 > **अधो:** [भाग ख](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications) (*पैटर्न अनुप्रयोग*); अध्याय नौ विश्वास ताला और अंतिम नामांकन के बाद प्रस्थिति-प्रभाव एकीकरण; अध्याय ग्यारह मंच मार्गन; अध्याय बारह शासन वैधता परिणाम।
@@ -73,8 +73,8 @@
 - ऊर्ध्व: [अध्याय आठ](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*प्रश्न 1 और 2; सत्यापित अभिलेख और प्रस्थिति मापन*)।
 - ऊर्ध्व संकेत: [अध्याय नौ §2](core_09_standing_integration.md#2-integration-record-and-decision-order) योग्य उल्लंघन अक्ष स्लॉट 7–9 निष्कर्ष केवल नामांकन के लिए यहाँ मार्गित करता है।
 - यह फ़ाइल: उल्लंघन अक्ष `s` = 7–9 के लिए अंतिम संविधान-विरोधी-दुराचरण नामांकन; नामांकन मानदंड; उचित-प्रक्रिया रक्षोपाय; अध्याय तेरह से पंद्रह सीमा। नामित-पैटर्न मार्गन [भाग ख](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications) में जारी रहता है।
-- अधो: [अध्याय नौ](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*विश्वास ताला और अंतिम नामांकन के बाद प्रस्थिति-प्रभाव एकीकरण*); [अध्याय ग्यारह](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*मंच मार्गन और प्रमाणन*); [अध्याय बारह](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) (*शासन वैधता परिणाम*)।
-- साथ पढ़ें: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [अध्याय तेरह से पंद्रह](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) (*परिवर्तन-पथ आचरण मानदंड 1–4 निहित कर सकता है*)।
+- अधो: [अध्याय नौ](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*विश्वास ताला और अंतिम नामांकन के बाद प्रस्थिति-प्रभाव एकीकरण*); [अध्याय ग्यारह](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*मंच मार्गन और प्रमाणन*); [अध्याय बारह](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) (*शासन वैधता परिणाम*)।
+- साथ पढ़ें: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [अध्याय तेरह से पंद्रह](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) (*परिवर्तन-पथ आचरण मानदंड 1–4 निहित कर सकता है*)।
 
 </details>
 
@@ -100,7 +100,7 @@
 - रक्षोपाय और अनुशासन: [§4](#4-due-process-safeguards-for-slot-assignment) (*उचित-प्रक्रिया रक्षोपाय, उपचार, और रोकथाम*); [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*उपचार और सुधार (संविधान-विरोधी)*); [§4.2](#4-2-prevention-anti-constitutional-locks) (*रोकथाम — संविधान-विरोधी ताले*); [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*स्वैच्छिक सार्वजनिक जवाबदेही अभिव्यक्ति (संविधान-विरोधी)*)।
 - पैटर्न अनुप्रयोग: [§5](core_10_b_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing) (*नामित पैटर्न उन्हीं नामांकन मानदंडों में मार्गित होते हैं*)।
 - परिवर्तन-पथ सीमा: [§1](#1-cross-chapter-discipline) (*अध्याय तेरह से पंद्रह सीमा*)।
-- साथ पढ़ें: [अध्याय तेरह से पंद्रह](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) जहाँ **प्रतिगामी छल** और परिवर्तन-पथ आचरण **मानदंड 1–4** निहित कर सकते हैं।
+- साथ पढ़ें: [अध्याय तेरह से पंद्रह](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) जहाँ **प्रतिगामी छल** और परिवर्तन-पथ आचरण **मानदंड 1–4** निहित कर सकते हैं।
 - चतुष्क टाँग(ें): **सहभागिता**, **निगरानी**, **जवाबदेही**, **समयबद्धता** (पैमाने पर चतुष्क-कब्ज़ा)। प्राथमिक उद्देश्य: **सातत्य** (प्राथमिक), **समुन्नति**। रक्षोपाय और गुरुत्व पर [भौतिक दाँव](core_00_preamble.md#material-stake) स्केलिंग लागू होती है।
 
 </details>
@@ -432,4 +432,4 @@
 
 **अगली फ़ाइल (इस भाषा में):** [core_10_b_misconduct_pattern_applications.md](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)
 
-**बाध्यकारी मूल:** [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md)
+**बाध्यकारी मूल:** [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md)

@@ -119,7 +119,7 @@
 | 진실과 인식 완전성 | 주장, 기록, 공개는 안전한 결정에 충분할 만큼 정직한가? | 정보에 입각한 참여, 구제, 교정을 보호한다 |
 | 신뢰성 | 의존은 정당한가, 아니면 신뢰가 저하되고 있는가? | 감지자를 거짓 확신과 오도하는 의존에서 보호한다 |
 
-구속력 있는 신뢰성, 감사, 또는 검토 요건은 제6장, [제7장](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification), 또는 편입 문서가 명시로 요구할 때 생긴다.
+구속력 있는 신뢰성, 감사, 또는 검토 요건은 제6장, [제7장](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification), 또는 편입 문서가 명시로 요구할 때 생긴다.
 
 
 ---

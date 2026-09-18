@@ -102,7 +102,7 @@
 
 - గమ్యం: సమయబద్ధత కొలత కుటుంబం — లింక్-మాత్రం రోలప్; పదం-వారీ స్థాయిలు ఆకు నిర్వచనాలపై ఉంటాయి — చూడండి [సమయానుకూల పరిష్కారం](../../core_05_band_accountability.md#timely-resolution-constitutional), [పరిష్కార మార్గాల స్వాధీనం](../../core_05_band_accountability.md#capture-of-resolution-pathways), మరియు [సమయబద్ధత](#timeliness-constitutional) (లింక్-మాత్రం కాలు-తల రోలప్).
 - దీనితో చదవండి: [పాల్గొనడం](core_05_apex_participation_leg.md#participation-constitutional), [పర్యవేక్షణ](core_05_apex_oversight_leg.md#oversight-constitutional), మరియు [జవాబుదారీతనం](core_05_apex_accountability_leg.md#accountability) — సమయబద్ధత మిగిలిన మూడు చతుష్టయం కాళ్ళ గుండా కూడా నడుస్తుంది; ఆ కాళ్ళు ఉపయోగకరంగా ఉండాలంటే సమయానికి జరగాలి.
-- దీనితో చదవండి: [అధ్యాయం పదకొండు §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+- దీనితో చదవండి: [అధ్యాయం పదకొండు §6](../../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 
 </details>
 

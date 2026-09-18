@@ -7,11 +7,11 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-CH06 = ROOT / "core_08_standing_assessment.md"
+CH06 = ROOT / "core_09_standing_assessment.md"
 
 KEEP = {
-    "chapter-eight-compliance-violation-and-standing-model",
-    "chapter-eight-part-a-orientation",
+    "chapter-nine-compliance-violation-and-standing-model",
+    "chapter-nine-part-a-orientation",
     "2-purpose-and-role",
     "2-standing-records",
     "chapter-six-part-b-oversight-foundation",
@@ -175,8 +175,8 @@ def prune_ch06(text: str) -> str:
 
 def update_links(text: str) -> str:
     for old, new in sorted(REDIRECT.items(), key=lambda x: -len(x[0])):
-        text = text.replace(f"core_08_standing_assessment.md#{old}", f"core_08_standing_assessment.md#{new}")
-        text = text.replace(f"core_08_standing_assessment.md##{old}", f"core_08_standing_assessment.md#{new}")
+        text = text.replace(f"core_09_standing_assessment.md#{old}", f"core_09_standing_assessment.md#{new}")
+        text = text.replace(f"core_09_standing_assessment.md##{old}", f"core_09_standing_assessment.md#{new}")
         # same-file anchors
         text = re.sub(rf"\(#{re.escape(old)}\)", f"(#{new})", text)
         text = re.sub(rf"\(#{re.escape(old)}-", f"(#{new}-", text)

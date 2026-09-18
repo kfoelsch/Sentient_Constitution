@@ -9,7 +9,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.08.09`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_15_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Fourteen §5](../../../core_14_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_16_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 
 </details>
 
@@ -39,7 +39,7 @@ See: [Article XII-B](../../../core_06_rights_part_c.md#operative-steward-stateme
 - **Today:** There is an inbox and a policy page. Nobody can actually restore the water, the pay, or the record.
 - **With this Constitution:** The path has to have real capacity to deliver, not only a form.
 
-See: [Chapter Nine §4.1](../../../core_09_standing_integration.md#41-remedy-and-correction); [Remedy](../../../core_09_standing_integration.md#operative-steward-statement-remedy).
+See: [Chapter Ten §4.1](../../../core_10_standing_integration.md#41-remedy-and-correction); [Remedy](../../../core_10_standing_integration.md#operative-steward-statement-remedy).
 
 ## What to open next
 
@@ -52,9 +52,9 @@ See: [Chapter Nine §4.1](../../../core_09_standing_integration.md#41-remedy-and
 
 ## What this will not pretend to give you
 
-- Enforcement against a hospital, platform, lab, or host that has not agreed to follow this Constitution ([Chapter Sixteen §4](../../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority)).
+- Enforcement against a hospital, platform, lab, or host that has not agreed to follow this Constitution ([Chapter Seventeen §4](../../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)).
 - An instant win, or a promise that every challenge is correct.
-- A substitute for ordinary local, national, or international law ([Chapter Fourteen §5](../../../core_14_expansion_supremacy.md#5-relation-to-applicable-external-law)).
+- A substitute for ordinary local, national, or international law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
 ## If you want to look further
 

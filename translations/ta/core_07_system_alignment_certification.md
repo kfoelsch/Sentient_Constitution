@@ -7,7 +7,7 @@
 
 > கீழே உள்ள உள்ளடக்கம் **வாசிப்பவருக்கான வழிகாட்டல் மட்டும்**. இது இந்தக் கோப்பிலோ பிற அத்தியாயங்களிலோ பிணைக்கும் கடமைகளைச் சேர்க்கவோ, குறைக்கவோ, சுருக்கவோ செய்யாது.
 >
-> இந்தக் கோப்பு [ஆங்கில அத்தியாயம் ஏழு வாசிப்பு அட்டவணையின்](../../core_07_system_alignment_certification.md) **வாசிப்பு-மொழி முன்னோடி**. இது உணர்வுள்ளோர் அரசியலமைப்பின் **பிணைக்கும் பகுதி அல்ல**. இது **இரண்டாவது அரசியலமைப்பு அல்ல**. இது **அனுப்பும் பதிப்பு அல்ல**. இது `SC-Corpus-2026.08.09`-இல் **பொருத்தப்பட்டுள்ளது**. இந்த மொழிபெயர்ப்பும் ஆங்கில மூலமும் முரண்படுவதாகத் தோன்றினால், எண்ணிடப்பட்ட [`core_07_system_alignment_certification.md`](../../core_07_system_alignment_certification.md) வெல்லும். வாசிப்பு வரிசையும் பதிப்பு மீத்தரவும் [README.md](../../README.md)-இல் பேணப்படுகின்றன. முறையும் சொற்களஞ்சியமும்: [translations/ta/README.md](README.md).
+> இந்தக் கோப்பு [ஆங்கில அத்தியாயம் ஏழு வாசிப்பு அட்டவணையின்](../../core_08_system_alignment_certification.md) **வாசிப்பு-மொழி முன்னோடி**. இது உணர்வுள்ளோர் அரசியலமைப்பின் **பிணைக்கும் பகுதி அல்ல**. இது **இரண்டாவது அரசியலமைப்பு அல்ல**. இது **அனுப்பும் பதிப்பு அல்ல**. இது `SC-Corpus-2026.08.09`-இல் **பொருத்தப்பட்டுள்ளது**. இந்த மொழிபெயர்ப்பும் ஆங்கில மூலமும் முரண்படுவதாகத் தோன்றினால், எண்ணிடப்பட்ட [`core_07_system_alignment_certification.md`](../../core_08_system_alignment_certification.md) வெல்லும். வாசிப்பு வரிசையும் பதிப்பு மீத்தரவும் [README.md](../../README.md)-இல் பேணப்படுகின்றன. முறையும் சொற்களஞ்சியமும்: [translations/ta/README.md](README.md).
 >
 > **அத்தியாயம் ஏழு** ஒரே கருவியாகப் படிக்கப்படும் இரண்டு பிணைக்கும் கோப்புகளாகப் பிரிக்கப்பட்டுள்ளது:
 >
@@ -41,4 +41,4 @@
 
 **அடுத்த கோப்பு (இந்த மொழியில்):** [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
 
-**பிணைக்கும் மூலம்:** [core_07_system_alignment_certification.md](../../core_07_system_alignment_certification.md)
+**பிணைக்கும் மூலம்:** [core_07_system_alignment_certification.md](../../core_08_system_alignment_certification.md)

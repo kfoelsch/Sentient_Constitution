@@ -12,7 +12,7 @@
 >
 > **Предыдущий (этот язык):** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 >
-> **Следующий (ещё на английском):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+> **Следующий (ещё на английском):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 > **Дуга чтения:** Статьи XXIII–XXVI (правосудие и чрезвычайные ситуации, конституционная эволюция, переход и перебазирование)
 
 </details>
@@ -79,7 +79,7 @@
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Исход: Принципы: Глава первая [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [Глава первая §6.1.5 Процедура столкновения прав](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [Глава первая §9.6 Антидеградирующий процесс](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) и [§15 Интегрированное применение](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- Назначение: [Глава девятая §4](../../core_09_standing_integration.md#4-violation-correction-and-prevention) (*Нарушение, исправление и предотвращение*); [Статья XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Статья XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule).
+- Назначение: [Глава девятая §4](../../core_10_standing_integration.md#4-violation-correction-and-prevention) (*Нарушение, исправление и предотвращение*); [Статья XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Статья XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule).
 - Читать вместе с: [Жестокость](core_05_band_accountability.md#cruelty) (*дом Главы пятой для стандарта страдания-как-цели пола против жестокости*).
 
 </details>
@@ -329,7 +329,7 @@
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Исход: Принципы: Глава первая [§6.1.5 Тест решения столкновения прав](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [§7 Запрет абсолютной отмены](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override) и [§15 Интегрированное применение](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- Читать вместе с: [Глава девятая §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Добровольное публичное выражение подотчётности*); [Глава десятая §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Добровольное публичное выражение подотчётности (антиконституционное)*).
+- Читать вместе с: [Глава девятая §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*Добровольное публичное выражение подотчётности*); [Глава десятая §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Добровольное публичное выражение подотчётности (антиконституционное)*).
 
 </details>
 
@@ -358,7 +358,7 @@
     - продолжающийся риск;
     - материальная асимметрия власти;
     - несогласие затронутых сторон.
-- **Добровольное публичное выражение подотчётности:** Управляется [Главой девятой §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Добровольное публичное выражение подотчётности*) в общем и [Главой десятой §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Добровольное публичное выражение подотчётности (антиконституционное)*) для проверенного антиконституционного проступка, при условии правил столкновения прав и восстановительного согласования этой Статьи.
+- **Добровольное публичное выражение подотчётности:** Управляется [Главой девятой §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*Добровольное публичное выражение подотчётности*) в общем и [Главой десятой §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Добровольное публичное выражение подотчётности (антиконституционное)*) для проверенного антиконституционного проступка, при условии правил столкновения прав и восстановительного согласования этой Статьи.
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### Статья XXIV-C: Своевременное разрешение и пол против промедления
 <details>
@@ -394,7 +394,7 @@
 - **Три совместных требования:** Материальные именованные пути разрешения должны быть **своевременными**, **эффективными** и **справедливыми** вместе:
   - **Своевременные** — ограниченные сроки, масштабированные к [материальной ставке](core_00_preamble.md#material-stake) и срочности вреда;
   - **Эффективные** — [Конституционная эффективность](core_05_band_continuity.md#constitutional-efficiency) в смысле Главы первой [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) — реальный конституционный исход на время сентента и общее усилие, потреблённые, не сырая пропускная способность и не очистка списка дел;
-  - **Справедливые** — **Статья XXIII-A** (*Цель и охват правосудия*), **Статья XXIII-B** (*Нетривиальное ограничение, реституция и ограничения восстановительной подотчётности*) и **Статья XXIII-C** (*Правило наименее ограничительного и ограниченного по времени ограничения*) остаются полностью применимыми; двигаться быстро — не оправдание пропустить проверенные факты ([Глава восьмая §3.1](../../core_08_standing_assessment.md#verified-inputs-for-standing)), наказать не ту сторону, предложить починку, которая не соответствует вреду, или отрезать оспаривание и апелляцию.
+  - **Справедливые** — **Статья XXIII-A** (*Цель и охват правосудия*), **Статья XXIII-B** (*Нетривиальное ограничение, реституция и ограничения восстановительной подотчётности*) и **Статья XXIII-C** (*Правило наименее ограничительного и ограниченного по времени ограничения*) остаются полностью применимыми; двигаться быстро — не оправдание пропустить проверенные факты ([Глава восьмая §3.1](../../core_09_standing_assessment.md#verified-inputs-for-standing)), наказать не ту сторону, предложить починку, которая не соответствует вреду, или отрезать оспаривание и апелляцию.
 - **Надзор форума и цепочки:** Следующее для споров, маршрутизированных через **Главы с восьмой по одиннадцатую**, управляется [Главой одиннадцатой §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), при условии своевременного, эффективного и справедливого пола этой Статьи:
   - классификация уровня материальности;
   - вехи стадий цепочки;
@@ -431,7 +431,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Исход: Принципы: [Глава первая §10.3 Длящееся оправдание](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification); Глава первая [§2 Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Глава седьмая §3 Оценка сертификации всей системы](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и [§7 Запрет абсолютной отмены](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- Исход: Принципы: [Глава первая §10.3 Длящееся оправдание](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification); Глава первая [§2 Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Глава седьмая §3 Оценка сертификации всей системы](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и [§7 Запрет абсолютной отмены](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 
 </details>
 
@@ -461,7 +461,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Исход: Принципы: Глава первая [§3.2 Истина](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Глава седьмая §3 Оценка сертификации всей системы](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и [§7 Запрет абсолютной отмены](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- Исход: Принципы: Глава первая [§3.2 Истина](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Глава седьмая §3 Оценка сертификации всей системы](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и [§7 Запрет абсолютной отмены](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 
 </details>
 
@@ -517,7 +517,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Исход: Принципы: Глава первая [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) и [Глава седьмая §3 Оценка сертификации всей системы](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Глава девятая §5.4](../../core_09_standing_integration.md#54-special-violation-rules) (*конфискация рассогласованного вознаграждения и обязанность сообщения, ограниченные во время перехода этой Статьёй*); [Глава седьмая — Сертификация согласования системы](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification).
+- Исход: Принципы: Глава первая [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) и [Глава седьмая §3 Оценка сертификации всей системы](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Глава девятая §5.4](../../core_10_standing_integration.md#54-special-violation-rules) (*конфискация рассогласованного вознаграждения и обязанность сообщения, ограниченные во время перехода этой Статьёй*); [Глава седьмая — Сертификация согласования системы](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -554,7 +554,7 @@
   
   Вывод из употребления, вывод из работы, откат, миграция или замена удовлетворяют этот пункт архивированием компонентов, несущих состояние, под **Сохранением доказательств** и дисциплиной неразделения **Статьи VII-D** (*Семья, отношения заботы, репродуктивная автономия и неразделение*). Это [промежуточная поза по умолчанию Главы первой §6.1](core_01_b_interaction_interpretation.md#default-interim-posture) — заморозить необратимые шаги — применённая к единственному необратимому шагу, который унаследованная работа трактует как рутину. Стоимость хранения, удобство лицензии или кадрирование продуктового цикла не удовлетворяют **Необходимость** против этого. Там, где само удержание создаёт задокументированный риск Безопасности, наименее ограничительная совместимая мера — запечатанное хранение под независимым контролем, а не уничтожение.
 <a id="incentive-alignment-transition-carve-out"></a>
-- **Переходное исключение согласования стимулов:** Во время утверждённых фаз перехода под **Статьёй XXVI** (*Управление переходом, Преемственность и перебазирование*) читать вместе с [Главой седьмой — Сертификация согласования системы](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification). [Глава девятая §5.4 Обязанность сообщения и исключения](../../core_09_standing_integration.md#54-special-violation-rules) и [§5.4 Конфискация и удержание](../../core_09_standing_integration.md#54-special-violation-rules) **не** применяются к вознаграждениям, текущим через общие системы, только потому что эти системы **ещё не сертифицированы по согласованию** или **ещё не полностью согласованы**, при условии что:
+- **Переходное исключение согласования стимулов:** Во время утверждённых фаз перехода под **Статьёй XXVI** (*Управление переходом, Преемственность и перебазирование*) читать вместе с [Главой седьмой — Сертификация согласования системы](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification). [Глава девятая §5.4 Обязанность сообщения и исключения](../../core_10_standing_integration.md#54-special-violation-rules) и [§5.4 Конфискация и удержание](../../core_10_standing_integration.md#54-special-violation-rules) **не** применяются к вознаграждениям, текущим через общие системы, только потому что эти системы **ещё не сертифицированы по согласованию** или **ещё не полностью согласованы**, при условии что:
   - работа остаётся внутри **задокументированного плана перехода** и опубликованных критериев ворот под **Статьёй XXVI** (*Управление переходом, Преемственность и перебазирование*);
   - система продвигается к [Сертификации согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional) на опубликованной каденции, включая **условное** или **отложенное признание** там, где Глава седьмая позволяет; и
   - операторы и выгодополучатели не **сознательно скрывают** рассогласование, не работают вне утверждённого охвата перехода и не используют статус перехода, чтобы уклониться от сертификации, исправления или защищённого сообщения.
@@ -600,7 +600,7 @@
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Исход: Принципы: Глава первая [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) и [§15 Интегрированное применение](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- Читать вместе с: [Главой седьмой](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*сертификация согласования системы*); [Главами с восьмой по одиннадцатую](../../README.md#standing-pipeline-and-forums) (*цепочка траектории и надзор форума*).
+- Читать вместе с: [Главой седьмой](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*сертификация согласования системы*); [Главами с восьмой по одиннадцатую](../../README.md#standing-pipeline-and-forums) (*цепочка траектории и надзор форума*).
 
 </details>
 
@@ -624,7 +624,7 @@
   Предопределённые именованные пути отступления, критерии частичного отката и процедуры перебазирования управляются [**CI-14**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*Переходное управление и институциональная эволюция*).
   - Проваленные или деградировавшие переходные состояния не должны становиться новой базовой линией одним только упорством.
 - **Материальный сброс базовой линии:** Материальный сброс базовой линии обновляет вехи перехода, допущения риска, владельца и операционные планы, когда ворота проваливаются или переход застревает. Он требует конституционно действительной власти и задокументированных публичных причин. Он должен сохранять **минимумы Пола прав** и не должен заменять правила законного изменения этой Конституции.
-- **Предусловие здоровья проверки:** Сброс или продолжение на пересмотренной переходной базовой линии несоответствующее там, где [Сертификация согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional) под [Главой седьмой](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) или цепочка траектории под [Главами с восьмой по одиннадцатую](../../README.md#standing-pipeline-and-forums) структурно ненадёжна — например, где сертификация рутинно благословляет системы, которые материально побеждают Полы прав, измерение траектории рутинно расходится с проверенной материальной реальностью или именованные пути оспаривания и пересмотра не могут исправить эти разрывы во времени, масштабированном по материальности. В этих условиях ремонт машины проверки и измерения имеет приоритет над косметическим перепланированием.
+- **Предусловие здоровья проверки:** Сброс или продолжение на пересмотренной переходной базовой линии несоответствующее там, где [Сертификация согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional) под [Главой седьмой](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) или цепочка траектории под [Главами с восьмой по одиннадцатую](../../README.md#standing-pipeline-and-forums) структурно ненадёжна — например, где сертификация рутинно благословляет системы, которые материально побеждают Полы прав, измерение траектории рутинно расходится с проверенной материальной реальностью или именованные пути оспаривания и пересмотра не могут исправить эти разрывы во времени, масштабированном по материальности. В этих условиях ремонт машины проверки и измерения имеет приоритет над косметическим перепланированием.
 - **Публичная прослеживаемость:** Материальные переходные решения, задержки, обращения и определения сброса базовой линии должны оставаться аудитируемыми с обоснованием и следствиями риска.
   - Документация остаётся предметом узких, оправданных ограничений конфиденциальности.
   - Она должна сохранять достаточно публичного объяснения, чтобы оценить, оправданы ли задержка, откат или продолжение конституционно.
@@ -635,7 +635,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Исход: Принципы: Глава первая [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [Глава первая §6.1.5 Процедура столкновения прав](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) и [Глава седьмая §3 Оценка сертификации всей системы](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Исход: Принципы: Глава первая [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [Глава первая §6.1.5 Процедура столкновения прав](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) и [Глава седьмая §3 Оценка сертификации всей системы](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Читать вместе с: **Статьёй III-A** (*Выживание*); **Статьёй XII** (*Право на надёжные и заслуживающие доверия системы*); **Статьёй X-B** (*Граница коллективного вреда и интерфейс исполнения*); **Главой восьмой**; **Главой первой**, включая процедуру столкновения прав §6; **стеком ограничений по умолчанию** в открытии Главы шестой (*интерфейс владения и устранения*); [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) через **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*Переходное управление и институциональная эволюция*).
 
 </details>
@@ -653,7 +653,7 @@
 
 *Простыми словами: несоответствующие системы и имущество могут быть устранены во время перехода — но только через узкие, задокументированные, подлежащие пересмотру процессы, которые защищают базовые права, закрывают предлог и не превращаются в месть или политическое нацеливание. Как институты это несут — роли, триггеры, хранение, апелляции, фонды и механика стимулов — живёт в **CI-14.1** через **CI-14.3**; эта статья излагает конституционный пол, который эти процедуры не должны сужать.*
 
-- **Пол владения:** Если вы законно владеете или используете что-то, переход не может забрать это у вас по капризу. Но владение — не щит, когда позволение этому активу продолжать работу явно держит известное крупномасштабное конституционное нарушение в ходе — после того как [Глава восьмая](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) задокументировала нарушение в записи. В этом случае переход всё ещё может действовать, чтобы остановить вред, но только через гарантии этой Статьи и **CI-14.1** через **CI-14.3**.
+- **Пол владения:** Если вы законно владеете или используете что-то, переход не может забрать это у вас по капризу. Но владение — не щит, когда позволение этому активу продолжать работу явно держит известное крупномасштабное конституционное нарушение в ходе — после того как [Глава восьмая](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) задокументировала нарушение в записи. В этом случае переход всё ещё может действовать, чтобы остановить вред, но только через гарантии этой Статьи и **CI-14.1** через **CI-14.3**.
 - **Устранение в охвате перехода:** **Задокументированный план перехода** под **Статьёй XXVI-A** (*Поэтапное принятие и преемственность Пола прав*) может уполномочить ускоренное устранение **материально несоответствующих** систем или имущества только во время перехода. Оперативный охват, разрешённые меры и институциональная процедура управляются [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) через **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*Переходное управление и институциональная эволюция*), читаемыми вместе с **CJS-3.6** (*цепочка контроля хранения имущества и отделения стимулов*) и **Статьёй XII-E** (*Системы высокой автономии и целостность процесса, опосредованного инструментами*) там, где это применяется.
 - **Требуемые гарантии:** Любая программа лишения или стимулов в охвате перехода должна удовлетворять:
   - [**Принципу наименее ограничительного, ограниченного по времени и подлежащего пересмотру ограничения**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle), с демонстрируемыми **Необходимостью** и **Соразмерностью**;
@@ -674,6 +674,6 @@
 
 **Предыдущий файл:** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 
-**Следующий файл (ещё на английском):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+**Следующий файл (ещё на английском):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 
 **Связывающий оригинал:** [core_06_rights_part_d.md](../../core_06_rights_part_d.md)

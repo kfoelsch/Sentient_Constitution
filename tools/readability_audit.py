@@ -143,7 +143,7 @@ def parse_args() -> argparse.Namespace:
         "--with-subarticle-gloss",
         action="store_true",
         help=(
-            "After the readability scan, run the Chapter Eleven sub-article plain-terms "
+            "After the readability scan, run the Chapter Twelve sub-article plain-terms "
             "gate (same logic as tools/subarticle_gloss_audit.py) and append results."
         ),
     )

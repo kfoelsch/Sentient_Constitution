@@ -96,7 +96,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 下游：繁盛测量族 — 仅链接汇总；各用语层级住在下表所链叶定义上。
-- 一并阅读：[第七章 §3 整系统认证评价](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，在整系统效果、生存底线交付或**安全条件**具有实质范围之处。
+- 一并阅读：[第七章 §3 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，在整系统效果、生存底线交付或**安全条件**具有实质范围之处。
 
 </details>
 

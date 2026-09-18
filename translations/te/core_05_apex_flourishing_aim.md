@@ -96,7 +96,7 @@
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - గమ్యం: సమున్నతి కొలత కుటుంబం — లింక్-మాత్రం రోలప్; పదం-వారీ స్థాయిలు కింది పట్టికలో లింక్ చేసిన ఆకు నిర్వచనాల్లో ఉంటాయి.
-- దీనితో చదవండి: [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) మొత్తం-వ్యవస్థ ప్రభావాలు, మనుగడ-నేల అందింపు, లేదా **సురక్షిత షరతులు** భౌతికంగా పరిధిలో ఉన్న చోట.
+- దీనితో చదవండి: [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) మొత్తం-వ్యవస్థ ప్రభావాలు, మనుగడ-నేల అందింపు, లేదా **సురక్షిత షరతులు** భౌతికంగా పరిధిలో ఉన్న చోట.
 
 </details>
 

@@ -6,15 +6,15 @@
 
 > కింది విషయం **కేవలం పాఠక మార్గదర్శకం**. ఇది ఈ ఫైల్‌లో లేదా ఇతర అధ్యాయాల్లో బంధనీయ కర్తవ్యాలను జోడించదు, తగ్గించదు, సంకుచితం చేయదు.
 >
-> ఈ ఫైల్ [ఆంగ్ల అధ్యాయం పదమూడు](../../core_13_non_regression.md)కు **పాఠక-భాష పైలట్**. ఇది సంజ్ఞ రాజ్యాంగంలో **బంధనీయ భాగం కాదు**. ఇది **రెండో రాజ్యాంగం కాదు**. ఇది **పంపిణీ సంచిక కాదు**. ఇది `SC-Corpus-2026.08.09`కు **పిన్**. ఈ అనువాదం, ఆంగ్ల మూలం వేరుగా కనిపిస్తే, సంఖ్యాత్మక [`core_13_non_regression.md`](../../core_13_non_regression.md) గెలుస్తుంది. చదివే క్రమం, సంచిక మెటాడేటా [README.md](../../README.md)లో ఉంటాయి. పద్ధతి, పదకోశం: [translations/te/README.md](README.md).
+> ఈ ఫైల్ [ఆంగ్ల అధ్యాయం పదమూడు](../../core_14_non_regression.md)కు **పాఠక-భాష పైలట్**. ఇది సంజ్ఞ రాజ్యాంగంలో **బంధనీయ భాగం కాదు**. ఇది **రెండో రాజ్యాంగం కాదు**. ఇది **పంపిణీ సంచిక కాదు**. ఇది `SC-Corpus-2026.08.09`కు **పిన్**. ఈ అనువాదం, ఆంగ్ల మూలం వేరుగా కనిపిస్తే, సంఖ్యాత్మక [`core_13_non_regression.md`](../../core_14_non_regression.md) గెలుస్తుంది. చదివే క్రమం, సంచిక మెటాడేటా [README.md](../../README.md)లో ఉంటాయి. పద్ధతి, పదకోశం: [translations/te/README.md](README.md).
 >
-> ఇది **అధ్యాయం పదమూడు**ను కలిగి ఉంది: సారభూత తిరోగమన-నిషేధం మరియు సవరణ సారభూత చెల్లుబాటు (పరీక్ష 1). **అధ్యాయం పద్నాలుగు** [`core_14_expansion_supremacy.md`](../../core_14_expansion_supremacy.md)లో ఉంది. **అధ్యాయం పదిహేను** [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md)లో ఉంది. సవరణ చెల్లుబాటు రెండు [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) — **సమున్నతి** మరియు **కొనసాగింపు** —ను కాపాడాలి మరియు [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad)ను [భౌతిక పందెం](core_00_preamble.md#material-stake) అవసరాల కింద ఖాళీ చేయకూడదు. అధ్యాయ సంఖ్యాంకనం మరియు క్రాస్-రిఫరెన్సులు అనుసంధాన పత్రంతో సరిపోతాయి.
+> ఇది **అధ్యాయం పదమూడు**ను కలిగి ఉంది: సారభూత తిరోగమన-నిషేధం మరియు సవరణ సారభూత చెల్లుబాటు (పరీక్ష 1). **అధ్యాయం పద్నాలుగు** [`core_14_expansion_supremacy.md`](../../core_15_expansion_supremacy.md)లో ఉంది. **అధ్యాయం పదిహేను** [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md)లో ఉంది. సవరణ చెల్లుబాటు రెండు [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) — **సమున్నతి** మరియు **కొనసాగింపు** —ను కాపాడాలి మరియు [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad)ను [భౌతిక పందెం](core_00_preamble.md#material-stake) అవసరాల కింద ఖాళీ చేయకూడదు. అధ్యాయ సంఖ్యాంకనం మరియు క్రాస్-రిఫరెన్సులు అనుసంధాన పత్రంతో సరిపోతాయి.
 
 
 >
-> **మునుపటి (ఇంకా ఆంగ్లంలో):** [core_12_governance.md](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
+> **మునుపటి (ఇంకా ఆంగ్లంలో):** [core_12_governance.md](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)
 >
-> **తదుపరి (ఇంకా ఆంగ్లంలో):** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+> **తదుపరి (ఇంకా ఆంగ్లంలో):** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 > **చదివే చాపం:** §1 తిరోగమన-నిషేధ నేల → §2 పరీక్ష 1 → §3 తప్పించుకోవడం-నిరోధం మరియు పంపు → §4 పొర పరిధి
 </details>
 
@@ -35,9 +35,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: [అధ్యాయం ఒకటి](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [అధ్యాయాలు రెండు నుండి నాలుగు](core_02_definition_structure.md) సమగ్రత మరియు ధృవీకరణ; [అధ్యాయం ఆరు](core_06_rights_part_a.md#chapter-six-foundational-rights) హక్కుల నేల; [అధ్యాయం పన్నెండు](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) ధర్మబద్ధత మరియు బాధ్యతాయుత నిర్వహణ అవసరాలు.
+- మూలం: [అధ్యాయం ఒకటి](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [అధ్యాయాలు రెండు నుండి నాలుగు](core_02_definition_structure.md) సమగ్రత మరియు ధృవీకరణ; [అధ్యాయం ఆరు](core_06_rights_part_a.md#chapter-six-foundational-rights) హక్కుల నేల; [అధ్యాయం పన్నెండు](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) ధర్మబద్ధత మరియు బాధ్యతాయుత నిర్వహణ అవసరాలు.
 - ఉపవిభాగాలు: [§1](#1-non-regression-floor); [§2](#2-test-1-substantive-non-regression-validity); [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral); [§4](#4-layer-scope).
-- గమ్యం: [అధ్యాయం పద్నాలుగు](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders) విస్తరణ మరియు ఆధిపత్యం; [అధ్యాయం పదిహేను](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) ప్రక్రియ చెల్లుబాటు, అంగీకారం, మరియు సవరణ అవసరాలు; [అధ్యాయం ఎనిమిది](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) మరియు [అధ్యాయం పది](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) పంపు ప్రేరకాలు మార్గం పెట్టే చోట ప్రామాణిక వర్గీకరణకు.
+- గమ్యం: [అధ్యాయం పద్నాలుగు](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) విస్తరణ మరియు ఆధిపత్యం; [అధ్యాయం పదిహేను](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) ప్రక్రియ చెల్లుబాటు, అంగీకారం, మరియు సవరణ అవసరాలు; [అధ్యాయం ఎనిమిది](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) మరియు [అధ్యాయం పది](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) పంపు ప్రేరకాలు మార్గం పెట్టే చోట ప్రామాణిక వర్గీకరణకు.
 - దీనితో చదవండి: [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) రాజ్యాంగ మార్పు మరియు అంగీకారంపై **అధ్యాయాలు పదకొండు నుండి పద్నాలుగు**కు అసంచాలక పర్యటన.
 
 </details>
@@ -96,8 +96,8 @@
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - మూలం: [§1](#1-non-regression-floor) తిరోగమన-నిషేధ నేల నిర్వచనం.
-- గమ్యం: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) తప్పించుకోవడం మరియు దుష్ప్రవర్తన పంపు; [అధ్యాయం పదిహేను](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) పరీక్షలు 2–4 మరియు ప్రక్రియ అవసరాలు (ప్రక్రియతో సంబంధం లేకుండా పరీక్ష 1 విఫలమైతే చెల్లుబాటు-కాదు).
-- దీనితో చదవండి: [అధ్యాయం ఒకటి](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) రాజీలేని సూత్ర పరిమితులు; [అధ్యాయం పన్నెండు](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) ధర్మబద్ధత కర్తవ్యాలు.
+- గమ్యం: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) తప్పించుకోవడం మరియు దుష్ప్రవర్తన పంపు; [అధ్యాయం పదిహేను](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) పరీక్షలు 2–4 మరియు ప్రక్రియ అవసరాలు (ప్రక్రియతో సంబంధం లేకుండా పరీక్ష 1 విఫలమైతే చెల్లుబాటు-కాదు).
+- దీనితో చదవండి: [అధ్యాయం ఒకటి](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) రాజీలేని సూత్ర పరిమితులు; [అధ్యాయం పన్నెండు](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) ధర్మబద్ధత కర్తవ్యాలు.
 
 </details>
 
@@ -157,8 +157,8 @@
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - మూలం: [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) పంపు-మాత్రమే క్రమశిక్షణ; [అధ్యాయం ఎనిమిది](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) మరియు [అధ్యాయం పది](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) ప్రామాణిక యజమానులు.
-- గమ్యం: [అధ్యాయం పదిహేను §12](../../core_15_amendment_ratification.md#12-layer-scope) అద్దం ప్రక్రియ-పొర క్రమశిక్షణ; సమీక్ష అమలు యంత్రాంగానికి అమలు పాఠం.
-- దీనితో చదవండి: [అధికార స్టాక్ మరియు అంతర్గత క్రమానుగతం](core_05_band_integrative.md#owner-non-relocation) మరియు [ప్రస్తావన — సానుకూల యజమాని నమోదు](core_00_preamble.md#4-principles-definitions-and-rights); మార్పు-మార్గం మరియు అంగీకారంపై [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md); స్లాట్-వర్గీకరణ వర్గీకరణను నకిలీ చేయని చెల్లుబాటు పరీక్షలకు [అధ్యాయం పదిహేను](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity).
+- గమ్యం: [అధ్యాయం పదిహేను §12](../../core_16_amendment_ratification.md#12-layer-scope) అద్దం ప్రక్రియ-పొర క్రమశిక్షణ; సమీక్ష అమలు యంత్రాంగానికి అమలు పాఠం.
+- దీనితో చదవండి: [అధికార స్టాక్ మరియు అంతర్గత క్రమానుగతం](core_05_band_integrative.md#owner-non-relocation) మరియు [ప్రస్తావన — సానుకూల యజమాని నమోదు](core_00_preamble.md#4-principles-definitions-and-rights); మార్పు-మార్గం మరియు అంగీకారంపై [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md); స్లాట్-వర్గీకరణ వర్గీకరణను నకిలీ చేయని చెల్లుబాటు పరీక్షలకు [అధ్యాయం పదిహేను](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity).
 
 </details>
 
@@ -187,7 +187,7 @@
 > - **సాధారణ సహకారం మరియు ఉల్లంఘన కొలత** (సహకార అక్షం / ఉల్లంఘన అక్షం) — [core_08_standing_assessment.md](core_08_standing_assessment.md)లో **అధ్యాయం ఎనిమిది**; **ప్రస్థితి ప్రభావాలు మరియు సమావేశీకరణ** — [core_09_standing_integration.md](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)లో **అధ్యాయం తొమ్మిది**;
 > - **సంఖ్యాత్మక సహకార అక్షం మరియు ఉల్లంఘన అక్షం స్లాట్లు** — **అధ్యాయం ఎనిమిది §7 ఏకీకృత స్కేల్**, వేరు రికార్డులతో మరియు ఉల్లంఘన స్లాట్లు ధృవీకరించిన ప్రభావం మాత్రమే నియంత్రించేవి; మరియు అర్హత ఉన్న ఉల్లంఘన అక్షం స్లాట్ 7, 8, లేదా 9కు సంబంధిత **రాజ్యాంగ-విరుద్ధ-దుష్ప్రవర్తన నియామకం** — [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)లో **అధ్యాయం పది**;
 > - **వేదిక-సంచాలక కార్యప్రవాహం మరియు తీర్పు ప్రక్రియ** — **అధ్యాయం పదకొండు** మరియు [corpus_forum.md](../../corpus_forum.md);
-> - సవరణ, అంగీకారం, మరియు స్వీకరణకు **ప్రక్రియ మరియు సంరక్షణ చెల్లుబాటు** — [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity)లో **అధ్యాయం పదిహేను**; మరియు
+> - సవరణ, అంగీకారం, మరియు స్వీకరణకు **ప్రక్రియ మరియు సంరక్షణ చెల్లుబాటు** — [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity)లో **అధ్యాయం పదిహేను**; మరియు
 > - సమీక్ష అమలుకు **వివరణాత్మక సంస్థాగత ప్రక్రియ, సిబ్బంది యంత్రాంగం, మరియు అమలుల-మధ్య ఉమ్మడి నిర్మాణ సమావేశీకరణ** — పేరుపెట్టిన అమలు పాఠం మరియు [ప్రస్తావన — సానుకూల యజమాని నమోదు](core_00_preamble.md#4-principles-definitions-and-rights)లో పేరుపెట్టిన యజమాని అధ్యాయాలు.
 >
 > యజమాని పొరలు రాజ్యాంగ చెల్లుబాటు ప్రమాణాలను **అధ్యాయాలు పదమూడు మరియు పదిహేను** నుండి, సహకార అక్షం / ఉల్లంఘన అక్షం కొలత అధికారాన్ని **అధ్యాయం ఎనిమిది §7 ఏకీకృత స్కేల్** నుండి, లేదా రాజ్యాంగ-విరుద్ధ-దుష్ప్రవర్తన నియామక అధికారాన్ని **అధ్యాయం పది** నుండి తరలించేవిగా చదవకూడదు. అధ్యాయం పది సంఖ్యాత్మక స్లాట్ కేటాయించదు. అసంచాలక నిర్మాణ పర్యటనకు [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](../../archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) చూడండి.
@@ -196,8 +196,8 @@
 
 ---
 
-**మునుపటి ఫైల్ (ఇంకా ఆంగ్లంలో):** [core_12_governance.md](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship)
+**మునుపటి ఫైల్ (ఇంకా ఆంగ్లంలో):** [core_12_governance.md](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)
 
-**తదుపరి ఫైల్ (ఇంకా ఆంగ్లంలో):** [core_14_expansion_supremacy.md](../../core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)
+**తదుపరి ఫైల్ (ఇంకా ఆంగ్లంలో):** [core_14_expansion_supremacy.md](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)
 
-**బంధనీయ మూలం:** [core_13_non_regression.md](../../core_13_non_regression.md)
+**బంధనీయ మూలం:** [core_13_non_regression.md](../../core_14_non_regression.md)

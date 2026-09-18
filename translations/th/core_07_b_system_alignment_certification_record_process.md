@@ -7,7 +7,7 @@
 
 > เนื้อหาต่อไปนี้เป็น **แนวทางสำหรับผู้อ่านเท่านั้น** ไม่เพิ่ม ไม่ลด และไม่ทำให้ภาระผูกพันที่ใช้บังคับแคบลงในไฟล์นี้หรือในบทอื่น
 >
-> ไฟล์นี้เป็น **โครงการนำร่องด้านภาษาสำหรับผู้อ่าน** ของ [บทที่เจ็ด ส่วน ข ภาษาอังกฤษ](../../core_07_b_system_alignment_certification_record_process.md) **ไม่ใช่** ส่วนที่มีผลผูกพันของรัฐธรรมนูญของผู้มีความรู้สึก **ไม่ใช่** รัฐธรรมนูญฉบับที่สอง **ไม่ใช่** ฉบับจัดส่ง **ตรึงไว้** กับ `SC-Corpus-2026.08.09` หากคำแปลนี้กับต้นฉบับภาษาอังกฤษดูเหมือนไม่ตรงกัน ให้ไฟล์ที่มีหมายเลข [`core_07_b_system_alignment_certification_record_process.md`](../../core_07_b_system_alignment_certification_record_process.md) เป็นฝ่ายชนะ ลำดับการอ่านและข้อมูลฉบับคงไว้ใน [README.md](../../README.md) วิธีทำและอภิธานศัพท์: [translations/th/README.md](README.md)
+> ไฟล์นี้เป็น **โครงการนำร่องด้านภาษาสำหรับผู้อ่าน** ของ [บทที่เจ็ด ส่วน ข ภาษาอังกฤษ](../../core_08_b_system_alignment_certification_record_process.md) **ไม่ใช่** ส่วนที่มีผลผูกพันของรัฐธรรมนูญของผู้มีความรู้สึก **ไม่ใช่** รัฐธรรมนูญฉบับที่สอง **ไม่ใช่** ฉบับจัดส่ง **ตรึงไว้** กับ `SC-Corpus-2026.08.09` หากคำแปลนี้กับต้นฉบับภาษาอังกฤษดูเหมือนไม่ตรงกัน ให้ไฟล์ที่มีหมายเลข [`core_07_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md) เป็นฝ่ายชนะ ลำดับการอ่านและข้อมูลฉบับคงไว้ใน [README.md](../../README.md) วิธีทำและอภิธานศัพท์: [translations/th/README.md](README.md)
 >
 > มี **บทที่เจ็ด ส่วน ข** — เนื้อหา **บันทึก** การรับรอง ความโปร่งใสและความสามารถในการโต้แย้ง บทบาทส่วนประกอบของเวที ลำดับการกำกับ สะพานร่องรอย และการเปิดใหม่ (**§11–§16** ต่อจากส่วน ก §1–§10) **ส่วน ก** — ข้อกำหนดการประเมิน — อยู่ใน [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md)
 >
@@ -30,7 +30,7 @@
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
 - ต้นทาง: [ส่วน ก §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*จุดประสงค์การรับรองและแผนที่การประเมิน*); [ส่วน ก §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) ถึง [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*ผลลัพธ์การประเมินสำหรับบันทึก*); [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad); [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims)
-- ปลายทาง: [§11](#11-certification-record) ถึง [§16](#16-reopening-drift-and-non-evasion); [บทที่แปด](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); [บทที่สิบเอ็ด](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
+- ปลายทาง: [§11](#11-certification-record) ถึง [§16](#16-reopening-drift-and-non-evasion); [บทที่แปด](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model); [บทที่สิบเอ็ด](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
 - อ่านคู่กับ: [corpus_forum.md](../../corpus_forum.md) **CF-5** และ **CF-7**
 
 </details>
@@ -392,7 +392,7 @@
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
 - ต้นทาง: [§11](#11-certification-record) ถึง [§13](#13-forum-supervision-and-component-roles) (*บันทึกการรับรองและการกำกับของเวที*); [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad); [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims); [ข้อมูลเข้าที่ตรวจสอบแล้วสำหรับร่องรอย](core_05_band_accountability.md#verified-inputs-for-standing)
-- ปลายทาง: [บทที่แปด](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*บันทึกร่องรอยและประตูข้อมูลเข้าที่ตรวจสอบแล้ว*); [บทที่เก้า](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*ผลของร่องรอยและการบูรณาการ*)
+- ปลายทาง: [บทที่แปด](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*บันทึกร่องรอยและประตูข้อมูลเข้าที่ตรวจสอบแล้ว*); [บทที่เก้า](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*ผลของร่องรอยและการบูรณาการ*)
 - อ่านคู่กับ: **มาตรา III-A** (*การเข้าถึงสิ่งจำเป็นต่อการอยู่รอดในที่ที่การรับรองกั้นการส่งมอบ*)
 
 </details>
@@ -450,8 +450,8 @@
 
 - บันทึกการรับรอง **ไม่** ใช้ผลของร่องรอย;
 - บทนี้เป็นเจ้าของ **การรับรองความสอดคล้องของระบบและบันทึกที่เกี่ยวข้อง** เท่านั้น — ดู [คำปรารภ — หลักการ บทนิยาม และสิทธิ](core_00_preamble.md#4-principles-definitions-and-rights) อ่านคู่กับ [กองอำนาจ](core_05_band_integrative.md#authority-stack);
-- [บทที่แปด](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) เป็นเจ้าของบันทึกร่องรอยและการวัดแกนบริสุทธิ์;
-- [บทที่เก้า](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) เป็นเจ้าของการบูรณาการและผลของร่องรอย;
+- [บทที่แปด](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) เป็นเจ้าของบันทึกร่องรอยและการวัดแกนบริสุทธิ์;
+- [บทที่เก้า](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) เป็นเจ้าของการบูรณาการและผลของร่องรอย;
 - บทนี้อาจจัดหาข้อมูลเข้าที่ตรวจสอบแล้วเฉพาะผ่านประตูข้างบน;
 - มันต้องไม่กลืน กล่าวซ้ำ หรือย้ายหน้าที่เจ้าของของบทที่แปดหรือบทที่เก้า
 
@@ -466,7 +466,7 @@
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
 - ต้นทาง: [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*การจำแนกผิดและความไม่สอดคล้อง*); [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*ข้อบกพร่องการประเมินความเสี่ยงและการเปิดเผยความเสี่ยง*); [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) (*การแสดงรอยเท้าผิดและความไม่สอดคล้อง*); [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) (*การแสดงกระแสทรัพยากรผิด ความไม่สอดคล้องของการสกัด และความไม่พอของการสนับสนุน*); [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) (*ความไม่สอดคล้องแบบการเลือกปฏิบัติและการเลี่ยงโดยตัวแทน*); [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) (*ความไม่สอดคล้องของการเข้าถึงได้และการอำนวยบนกระดาษอย่างเดียว*); [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) (*ความไม่สอดคล้องความทึบของการประเมิน การเฝ้าประตูหลักฐาน และความไม่สอดคล้องความล้าสมัยที่ถูกบังคับ*); [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*ความไม่สอดคล้องความไว้วางใจเท็จ ความไม่สอดคล้องสิ่งจูงใจบิดเบี้ยว และความไม่สอดคล้องความครบถ้วนของการฟื้น*); [§12](#12-transparency-auditability-and-contestability) (*ความสามารถในการโต้แย้ง*); [§14](#14-supervisory-sequence-and-contestability-chain) (*การโต้แย้งที่น่าเชื่อและการเปิดใหม่*); [บทที่สาม §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) และ [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*ความครบถ้วนของบทนิยามและการเลี่ยง*); [บทที่สาม §2.1 แบบการเลี่ยงที่พบบ่อย](core_03_definition_integrity.md#21-common-evasion-patterns) (*การเลี่ยงขอบเขตและขอบ*); [ตราสารกำหนดขอบเขต](core_05_band_continuity.md#charter) (*ความไม่ตรงตราสาร–ความประพฤติและการทบทวนที่เลยกำหนด*)
-- ปลายทาง: [บทที่สิบเอ็ด](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*การกำกับของเวทีที่เปิดใหม่*); [บทที่แปด](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*ประตูข้อมูลเข้าที่ตรวจสอบแล้วในที่ที่ข้อเท็จจริงรองรับข้อค้นพบที่ไม่เป็นคุณ*)
+- ปลายทาง: [บทที่สิบเอ็ด](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*การกำกับของเวทีที่เปิดใหม่*); [บทที่แปด](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*ประตูข้อมูลเข้าที่ตรวจสอบแล้วในที่ที่ข้อเท็จจริงรองรับข้อค้นพบที่ไม่เป็นคุณ*)
 - อ่านคู่กับ: [corpus_systems.md](../../corpus_systems.md) (*หน้าที่นำไปใช้ระบบที่นำเข้า*) รวม **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*ข้อกำหนดการจำแนกใหม่และการปกครองวงชีวิต*) สำหรับการประเมินชนิดข้อมูลเป็นระยะ และ **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*ข้อกำหนดการจำแนกใหม่*) สำหรับตัวกระตุ้นการประเมินชั้นระบบใหม่และการยืนยัน SAC
 
 </details>
@@ -515,4 +515,4 @@
 
 **ไฟล์ถัดไป (ภาษานี้):** [core_08_standing_assessment.md](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)
 
-**ต้นฉบับที่มีผลผูกพัน:** [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md)
+**ต้นฉบับที่มีผลผูกพัน:** [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md)

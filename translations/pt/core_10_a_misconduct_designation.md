@@ -9,7 +9,7 @@
 
 > O conteúdo a seguir é **apenas orientação para quem lê**. Não acrescenta, retira nem estreita obrigações vinculantes neste arquivo nem em outros capítulos.
 >
-> Este arquivo é um **piloto de idioma de leitura** do [Capítulo Dez, Parte A em inglês](../../core_10_a_misconduct_designation.md). **Não** é parte vinculante da Constituição Senciente. **Não** é uma segunda constituição. **Não** é uma edição de envio. Está **fixado** a `SC-Corpus-2026.08.09`. Se esta tradução e o original em inglês parecerem discordar, ganha o arquivo numerado [`core_10_a_misconduct_designation.md`](../../core_10_a_misconduct_designation.md). A ordem de leitura e os metadados de edição ficam em [README.md](../../README.md). Método e glossário: [translations/pt/README.md](README.md).
+> Este arquivo é um **piloto de idioma de leitura** do [Capítulo Dez, Parte A em inglês](../../core_11_a_misconduct_designation.md). **Não** é parte vinculante da Constituição Senciente. **Não** é uma segunda constituição. **Não** é uma edição de envio. Está **fixado** a `SC-Corpus-2026.08.09`. Se esta tradução e o original em inglês parecerem discordar, ganha o arquivo numerado [`core_10_a_misconduct_designation.md`](../../core_11_a_misconduct_designation.md). A ordem de leitura e os metadados de edição ficam em [README.md](../../README.md). Método e glossário: [translations/pt/README.md](README.md).
 >
 > Contém o **Capítulo Dez, Parte A** — quadro de decisão de designação, conjunto de critérios, anexo de designação do Eixo de Infração `s = 7–9`, salvaguardas de devido processo, remédio, travas de prevenção e expressão pública voluntária de prestação de contas. A **Parte B** — aplicações de padrão nomeadas e roteamento de critérios — está em [`core_10_b_misconduct_pattern_applications.md`](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications).
 >
@@ -17,7 +17,7 @@
 > - **Fronteira de medição:** Só o Capítulo Oito atribui a vaga numérica de impacto sob a sua escala LEQU proporcional unificada. Este capítulo **não** substitui nem altera essa medição.
 > - **Regra antirrealocação:** a Parte A não reitera os catálogos de padrão da Parte B, as travas de trajetória do Capítulo Nove nem as regras de validade de via de mudança dos Capítulos Treze a Quinze.
 >
-> Má conduta anticonstitucional em **s = 7, 8 ou 9** é **captura da tétrade** em escala — leia com o [fim de Continuidade](core_00_preamble.md#continuity) sob os [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims). As interações de validade de via de mudança continuam nos [Capítulos Treze a Quinze](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity); as restrições de justiça permanecem na [Parte D do Capítulo Seis](core_06_rights_part_d.md).
+> Má conduta anticonstitucional em **s = 7, 8 ou 9** é **captura da tétrade** em escala — leia com o [fim de Continuidade](core_00_preamble.md#continuity) sob os [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims). As interações de validade de via de mudança continuam nos [Capítulos Treze a Quinze](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity); as restrições de justiça permanecem na [Parte D do Capítulo Seis](core_06_rights_part_d.md).
 >
 > **Origem:** medição de trajetória do Capítulo Oito; ponteiro de designação do Capítulo Nove.
 > **Destino:** [Parte B](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications) (*aplicações de padrão*); Trava de Confiança do Capítulo Nove e integração de efeitos de trajetória após a designação final; roteamento de fórum do Capítulo Onze; consequências de legitimidade de governança do Capítulo Doze.
@@ -73,8 +73,8 @@
 - Origem: [Capítulo Oito](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*Perguntas 1 e 2; registros verificados e medição de trajetória*).
 - Ponteiro de origem: [Capítulo Nove §2](core_09_standing_integration.md#2-integration-record-and-decision-order) roteia para cá os achados qualificadores de vaga 7–9 do Eixo de Infração só para designação.
 - Este arquivo: designação final de má conduta anticonstitucional para o Eixo de Infração `s` = 7–9; critérios de designação; salvaguardas de devido processo; fronteira dos Capítulos Treze a Quinze. O roteamento de padrões nomeados continua na [Parte B](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications).
-- Destino: [Capítulo Nove](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*Trava de Confiança e integração de efeitos de trajetória após a designação final*); [Capítulo Onze](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*roteamento de fórum e certificação*); [Capítulo Doze](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) (*consequências de legitimidade de governança*).
-- Ler com: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [Capítulos Treze a Quinze](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) (*conduta de via de mudança pode implicar os critérios 1–4*).
+- Destino: [Capítulo Nove](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*Trava de Confiança e integração de efeitos de trajetória após a designação final*); [Capítulo Onze](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*roteamento de fórum e certificação*); [Capítulo Doze](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) (*consequências de legitimidade de governança*).
+- Ler com: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [Capítulos Treze a Quinze](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) (*conduta de via de mudança pode implicar os critérios 1–4*).
 
 </details>
 
@@ -100,7 +100,7 @@ Este capítulo é usado só quando uma infração verificada já ocupa o Eixo de
 - Salvaguardas e disciplina: [§4](#4-due-process-safeguards-for-slot-assignment) (*Salvaguardas de devido processo, remédio e prevenção*); [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*Remédio e correção (anticonstitucional)*); [§4.2](#4-2-prevention-anti-constitutional-locks) (*Prevenção — travas anticonstitucionais*); [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Expressão pública voluntária de prestação de contas (anticonstitucional)*).
 - Aplicações de padrão: [§5](core_10_b_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing) (*padrões nomeados roteiam-se para os mesmos critérios de designação*).
 - Fronteira de via de mudança: [§1](#1-cross-chapter-discipline) (*fronteira dos Capítulos Treze a Quinze*).
-- Ler com: [Capítulos Treze a Quinze](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) onde o **engano regressivo** e a conduta de via de mudança podem implicar os **critérios 1–4**.
+- Ler com: [Capítulos Treze a Quinze](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) onde o **engano regressivo** e a conduta de via de mudança podem implicar os **critérios 1–4**.
 - Perna(s) da Tétrade: **participação**, **supervisão**, **prestação de contas**, **atuação em tempo** (captura da tétrade em escala). Fim(ns) primário(s): **Continuidade** (primária), **Florescimento**. A escala por [aposta material](core_00_preamble.md#material-stake) aplica-se às salvaguardas e à gravidade.
 
 </details>
@@ -432,4 +432,4 @@ O [Capítulo Nove §4.3](core_09_standing_integration.md#43-voluntary-public-acc
 
 **Próximo arquivo (este idioma):** [core_10_b_misconduct_pattern_applications.md](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)
 
-**Original vinculante:** [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md)
+**Original vinculante:** [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md)

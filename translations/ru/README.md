@@ -5,7 +5,7 @@
 
 > Следующее содержание — **только ориентир для читателя**. Оно не добавляет, не снимает и не сужает связывающих обязанностей.
 >
-> Эта папка — **пилот читательского языка**. **Не** является Конституцией сентентов. **Не** может менять нумерованные файлы `core_*`. **Не** является изданием к отправке. Читать её **не** значит [принять эту Конституцию](../../core_15_amendment_ratification.md#10-ratification-and-adoption). Если перевод и английский оригинал кажутся расходящимися, побеждают нумерованные английские `core_*`, пока последующее издание не скажет иное. См. [Reader-language editions](../../doc_architecture.md#reader-language-editions).
+> Эта папка — **пилот читательского языка**. **Не** является Конституцией сентентов. **Не** может менять нумерованные файлы `core_*`. **Не** является изданием к отправке. Читать её **не** значит [принять эту Конституцию](../../core_16_amendment_ratification.md#10-ratification-and-adoption). Если перевод и английский оригинал кажутся расходящимися, побеждают нумерованные английские `core_*`, пока последующее издание не скажет иное. См. [Reader-language editions](../../doc_architecture.md#reader-language-editions).
 >
 > **Закреплено за изданием корпуса:** `SC-Corpus-2026.08.09` (действует с 2026-08-09; [README.md](../../README.md)). **Предвыпуск.**
 
@@ -37,14 +37,14 @@
 | [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md) | [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md) |
 | [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md) | [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md) |
 | [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md) | [core_05_apex_timeliness_leg.md](../../core_05_apex_timeliness_leg.md) |
-| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_07_system_alignment_certification.md) |
-| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md) |
-| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md) |
-| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_08_standing_assessment.md) |
-| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_09_standing_integration.md) |
-| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md) |
-| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_11_forum.md) |
-| [core_13_non_regression.md](core_13_non_regression.md) | [core_13_non_regression.md](../../core_13_non_regression.md) |
+| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_08_system_alignment_certification.md) |
+| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md) |
+| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_09_standing_assessment.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_10_standing_integration.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md) |
+| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_12_forum.md) |
+| [core_13_non_regression.md](core_13_non_regression.md) | [core_13_non_regression.md](../../core_14_non_regression.md) |
 
 Ссылки пилота ведут к английским файлам, которые ещё не переведены. HTML-якоря (`id`) копируются из оригинала, чтобы сравнивать отрезок за отрезком.
 

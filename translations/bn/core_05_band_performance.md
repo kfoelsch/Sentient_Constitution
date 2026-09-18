@@ -12,7 +12,7 @@
 >
 > **আগেরটি (এই ভাষায়):** [core_05_band_participation.md](core_05_band_participation.md)
 >
-> **পরেরটি (এখনও ইংরেজিতে):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+> **পরেরটি (এখনও ইংরেজিতে):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 > **পড়ার আর্ক:** পরিমাপ-পরিবার ঘর → সাতত্য পটির পাতা রাউটিং।
 
 </details>
@@ -58,12 +58,12 @@
 - কার্যকরী পরিমাপ স্তর অধ্যায় পাঁচের সংজ্ঞা ঘরে থাকে — দেখুন [সাংবিধানিক দক্ষতা](core_05_band_continuity.md#constitutional-efficiency), [এড়ানো যায় এমন ভার](core_05_band_continuity.md#avoidable-burden), [উৎপাদন ক্ষমতা](core_05_band_continuity.md#productive-capacity-constitutional) এবং [ভার-হ্রাস কর্তব্য](core_05_band_continuity.md#burden-reduction-duty-constitutional)।
 - কর্মক্ষমতার লক্ষ্য, পুরস্কার ও সম্পদ-মাপ বৈধ শুধু ততদূর যতদূর সেগুলো সাংবিধানিক ফলে খুঁজে পাওয়া যায়।
 - সেগুলো সাংবিধানিক দক্ষতা, [উৎপাদন ক্ষমতা](core_05_band_continuity.md#productive-capacity-constitutional), বা অধিকার-তল অনুপালনের স্থলাভিষিক্ত হতে পারে না।
-- সঙ্গে পড়ুন [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) যেখানে পুরো-ব্যবস্থা কর্মক্ষমতা বস্তুগতভাবে পরিসরে।
+- সঙ্গে পড়ুন [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) যেখানে পুরো-ব্যবস্থা কর্মক্ষমতা বস্তুগতভাবে পরিসরে।
 
 ---
 
 **আগের ফাইল:** [core_05_band_participation.md](core_05_band_participation.md)
 
-**পরের ফাইল (এখনও ইংরেজিতে):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+**পরের ফাইল (এখনও ইংরেজিতে):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 
 **বাধ্যতামূলক মূল:** [core_05_band_performance.md](../../core_05_band_performance.md)

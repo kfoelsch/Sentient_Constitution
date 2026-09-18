@@ -46,7 +46,7 @@
 - ऊर्ध्व: [अध्याय एक §6 प्रक्रिया संघर्ष समाधान](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); [अध्याय एक §6.1.5 अधिकार-टकराव निर्णय परीक्षा](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)।
 - ऊर्ध्व: [अध्याय एक §11 प्रोत्साहन संरेखण और प्रणाली कब्ज़ा](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture)।
 - ऊर्ध्व: अध्याय दो से चार; अध्याय पाँच परिभाषाएँ।
-- अधो: इस अध्याय के **भाग क से घ**; [प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional); [अध्याय सात](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)।
+- अधो: इस अध्याय के **भाग क से घ**; [प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional); [अध्याय सात](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)।
 - अधो: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [§1.2 परत दायरा](#12-layer-scope)।
 - साथ पढ़ें: [प्राधिकार ढेर और आंतरिक पदानुक्रम](core_05_band_integrative.md#owner-non-relocation) और [प्रस्तावना — सकारात्मक स्वामी पंजी](core_00_preamble.md#4-principles-definitions-and-rights); [अनुच्छेद XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*चुनौती, समीक्षा और उपचार का अधिकार*)।
 - साथ पढ़ें: [अनुच्छेद XV](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन*)।
@@ -87,13 +87,13 @@
 
 अधिकार-तल व्यवहार में काम करना चाहिए, केवल कागज़ पर नहीं। **अनुच्छेद III-A** (*उत्तरजीविता*) के अधीन उत्तरजीविता आवश्यक — भोजन, जल, आश्रय, संचालन वातावरण, और तुलनीय आधार-निरपेक्ष निवेश — सबसे स्पष्ट उदाहरण हैं। **समुन्नति** उन आवश्यक तक वास्तविक पहुँच माँगती है। **सातत्य** समय के साथ विश्वसनीय, गैर-प्रतिगामी आपूर्ति माँगता है, विशेषकर जहाँ साझा प्रणालियाँ वितरण नियंत्रित करती हैं।
 
-[प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) और [अध्याय सात](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) सत्यापित करते हैं कि तात्विक रूप से प्रभावशाली प्रणालियाँ संरेखित हैं इससे पहले कि उन्हें पहचाना जाए या पैमाने पर उन पर निर्भर हुआ जाए। अध्याय सात प्रमाणन-अभिलेख चुनौती-योग्यता, प्रभावित-पक्ष और सुगम्यता समीक्षा, पर्यवेक्षी अनुक्रम, और प्रणाली-संरेखण निर्णयों के लिए चुनौती मार्ग भी देता है। **अनुच्छेद XII** (*विश्वसनीय और भरोसेमंद प्रणालियों का अधिकार*) चुनौती और लेखापरीक्षा अधिकार देता है। **अनुच्छेद XVIII-B** (*चुनौती-योग्यता और आनुपातिक प्रतिबंध सीमाएँ*) प्रस्थिति सीमाओं को उत्तरजीविता-महत्वपूर्ण पहुँच के इर्द-गिर्द पिछला द्वार बनने से रोकता है। साथ मिलकर, [अध्याय सात](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) और [अध्याय आठ–ग्यारह प्रस्थिति और मंच निगरानी शृंखला](../../README.md#standing-pipeline-and-forums) चुनौती-योग्यता, सत्यापित वर्गीकरण, मंच निगरानी, और समयबद्ध उपचार के लिए प्रमुख व्यावहारिक प्रक्रिया शृंखलाएँ बनाते हैं। वे तंत्र अध्याय छह प्रवर्तित करने में मदद करते हैं। वे यहाँ कथित अधिकारों को नहीं बदलते, संकीर्ण करते, या स्थानांतरित करते।
+[प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) और [अध्याय सात](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) सत्यापित करते हैं कि तात्विक रूप से प्रभावशाली प्रणालियाँ संरेखित हैं इससे पहले कि उन्हें पहचाना जाए या पैमाने पर उन पर निर्भर हुआ जाए। अध्याय सात प्रमाणन-अभिलेख चुनौती-योग्यता, प्रभावित-पक्ष और सुगम्यता समीक्षा, पर्यवेक्षी अनुक्रम, और प्रणाली-संरेखण निर्णयों के लिए चुनौती मार्ग भी देता है। **अनुच्छेद XII** (*विश्वसनीय और भरोसेमंद प्रणालियों का अधिकार*) चुनौती और लेखापरीक्षा अधिकार देता है। **अनुच्छेद XVIII-B** (*चुनौती-योग्यता और आनुपातिक प्रतिबंध सीमाएँ*) प्रस्थिति सीमाओं को उत्तरजीविता-महत्वपूर्ण पहुँच के इर्द-गिर्द पिछला द्वार बनने से रोकता है। साथ मिलकर, [अध्याय सात](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) और [अध्याय आठ–ग्यारह प्रस्थिति और मंच निगरानी शृंखला](../../README.md#standing-pipeline-and-forums) चुनौती-योग्यता, सत्यापित वर्गीकरण, मंच निगरानी, और समयबद्ध उपचार के लिए प्रमुख व्यावहारिक प्रक्रिया शृंखलाएँ बनाते हैं। वे तंत्र अध्याय छह प्रवर्तित करने में मदद करते हैं। वे यहाँ कथित अधिकारों को नहीं बदलते, संकीर्ण करते, या स्थानांतरित करते।
 
 **व्याख्यात्मक केंद्र।** जब तक कोई अधिक विशिष्ट अनुच्छेद भिन्न नियम न दे, आवर्ती मुद्दे इन लंगरों से मार्गित होते हैं:
 
 **अधिकार-तल और आपूर्ति**
 - **उत्तरजीविता आवश्यक और उन्हें सुलभ रखना** — **अनुच्छेद III-A** (*उत्तरजीविता*); **अनुच्छेद XVIII-B** (*चुनौती-योग्यता और आनुपातिक प्रतिबंध सीमाएँ*) ताकि प्रस्थिति सीमाएँ पहुँच न रोक सकें; चुनौती या लेखापरीक्षा जहाँ लागू हो **अनुच्छेद XII-B** (*चुनौती, समीक्षा और उपचार का अधिकार*) और **अनुच्छेद XV** (*लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन*) के साथ पढ़ें
-- **प्रणाली-संरेखण प्रमाणन** — [प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional); [अध्याय सात](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)
+- **प्रणाली-संरेखण प्रमाणन** — [प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional); [अध्याय सात](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)
 
 **सत्यापन और उपचार**
 - **लेखापरीक्षा अभिलेख और स्वतंत्र सत्यापन** — **अनुच्छेद XV** (*लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन*) **अध्याय दो से चार** के साथ
@@ -101,7 +101,7 @@
 
 **विवाद और समयबद्ध प्रक्रिया**
 - **न्याय, प्रत्यास्थापन, प्रतिबंध सीमाएँ, आपात, और अधिकार टकराव** — **अनुच्छेद XXIII** (*संघर्ष समाधान, वृद्धि और आपातकालीन आनुपातिकता*); [अध्याय एक §6.1.5 अधिकार-टकराव निर्णय परीक्षा](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)
-- **प्रमुख व्यावहारिक प्रक्रिया शृंखलाएँ** — **अनुच्छेद XXIV-C** (*समयबद्ध समाधान और देरी-निरोध तल*); [अध्याय सात](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
+- **प्रमुख व्यावहारिक प्रक्रिया शृंखलाएँ** — **अनुच्छेद XXIV-C** (*समयबद्ध समाधान और देरी-निरोध तल*); [अध्याय सात](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
 
 इस अध्याय में उन विषयों के छोटे प्रति-संदर्भ इन लंगरों को समाविष्ट करते हैं।
 
@@ -153,7 +153,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- ऊर्ध्व: सिद्धांत: अध्याय एक [§2 आधारभूत उद्देश्य: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), और [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ऊर्ध्व: सिद्धांत: अध्याय एक [§2 आधारभूत उद्देश्य: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), और [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
@@ -178,7 +178,7 @@
 - **पूर्व शर्तें, अखंडता, और स्थिरता:** अध्याय पाँच की **पर्यावरणीय पूर्व शर्तें**, **पारिस्थितिक अखंडता**, और **स्थिरता** इस अनुच्छेद के अधीन संक्रियात्मक हैं।
   - जीवन-सहारा प्राकृतिक प्रणालियों के अपने सातत्य और अखंडता हित हैं। वे हित संज्ञ हितों के साथ व्याख्या सूचित करते हैं।
   - तात्विक हानि जो इस अनुच्छेद का उल्लंघन करे — **पर्यावरणीय पूर्व शर्तें**, **पारिस्थितिक अखंडता**, और **स्थिरता** के अधीन आँकी — गैर-अनुपालन है।
-  - हानि जो अंगीकारकर्ता के [अंगीकार लिखत](../../core_15_amendment_ratification.md#102-instrument-of-adoption) या अंगीकार दायरे में समाविष्ट कार्यान्वयन पाठ में नामित पर्यावरणीय अपेक्षाओं का उल्लंघन करे भी गैर-अनुपालन है।
+  - हानि जो अंगीकारकर्ता के [अंगीकार लिखत](../../core_16_amendment_ratification.md#102-instrument-of-adoption) या अंगीकार दायरे में समाविष्ट कार्यान्वयन पाठ में नामित पर्यावरणीय अपेक्षाओं का उल्लंघन करे भी गैर-अनुपालन है।
 - **पशु जीवन अंतःक्रिया:** [पशु जीवन](core_05_band_participation.md#animal-life-constitutional) **प्राकृतिक प्रणालियों की प्रस्थिति** और संज्ञ प्राणियों के अध्याय-छह अधिकार-तल के बीच कल्याण-रक्षा क्षेत्र घेरता है।
   - यह **संज्ञता गैर-बहिष्कार** के अधीन पशु जीवन के लिए न्यूनतम क्रूरता और कल्याण तल स्थापित करता है जहाँ कल्याण-जैसी हानि तात्विक रूप से उलझी हो।
   - यह उन्नत संचारी व्यवहार या संज्ञता-स्थिति न्यायनिर्णयन का स्थानापन्न नहीं है जहाँ अभिलेख उन प्रश्नों को तात्विक रूप से छुए।
@@ -204,7 +204,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- ऊर्ध्व: सिद्धांत: अध्याय एक [§3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 ज्ञानमीमांसीय प्रकटीकरण बंधन](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), और [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ऊर्ध्व: सिद्धांत: अध्याय एक [§3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 ज्ञानमीमांसीय प्रकटीकरण बंधन](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), और [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
@@ -299,7 +299,7 @@
   
   निर्णय अभिलेख अनिश्चितता, मान्यताएँ, साक्ष्य सीमाएँ, असहमति, और तात्विक अंतराल खुलकर कहें।
 - **वर्तमान लाभ सीमा:** वर्तमान लाभ भविष्य के संज्ञ प्राणियों, पारिस्थितिक पुनर्प्राप्ति के लिए महत्वपूर्ण प्रणालियों, या जीवन-सहारा पारिस्थितिक स्थितियों को सभ्यता-पैमाने या उत्तरजीविता-महत्वपूर्ण हानि के असमानुपातिक जोखिम का औचित्य नहीं देता।
-- **नामित उपाय:** इस अनुच्छेद के अधीन प्राधिकार, जारी रखना, या विस्तार चाहने वाले कर्ताओं ने [अंगीकार लिखत](../../core_15_amendment_ratification.md#102-instrument-of-adoption) या अंगीकार दायरे में समाविष्ट कार्यान्वयन पाठ में राह के अनुपात में कमी, छत, या व्यवधान उपाय नामित किए हों — जलवायु प्रणाली को [पर्यावरणीय पूर्व शर्तें](core_05_band_continuity.md#environmental-preconditions-constitutional) कारक के रूप में हानि सहित। यह अनुच्छेद अभी भी संख्यात्मक लक्ष्य नहीं तय करता। **अनुच्छेद I-B** (*पारिस्थितिक पदचिह्न और पारदर्शिता*) पदचिह्न-आरोपण उपखंड रहता है और अभी भी अकेला कमी नहीं माँगता। इस अनुच्छेद के अधीन विश्वसनीय राह खुली रहते बिना उन नामित उपायों के जारी रहना गैर-अनुपालन है।
+- **नामित उपाय:** इस अनुच्छेद के अधीन प्राधिकार, जारी रखना, या विस्तार चाहने वाले कर्ताओं ने [अंगीकार लिखत](../../core_16_amendment_ratification.md#102-instrument-of-adoption) या अंगीकार दायरे में समाविष्ट कार्यान्वयन पाठ में राह के अनुपात में कमी, छत, या व्यवधान उपाय नामित किए हों — जलवायु प्रणाली को [पर्यावरणीय पूर्व शर्तें](core_05_band_continuity.md#environmental-preconditions-constitutional) कारक के रूप में हानि सहित। यह अनुच्छेद अभी भी संख्यात्मक लक्ष्य नहीं तय करता। **अनुच्छेद I-B** (*पारिस्थितिक पदचिह्न और पारदर्शिता*) पदचिह्न-आरोपण उपखंड रहता है और अभी भी अकेला कमी नहीं माँगता। इस अनुच्छेद के अधीन विश्वसनीय राह खुली रहते बिना उन नामित उपायों के जारी रहना गैर-अनुपालन है।
 
 <a id="article-ii-material-stewardship-and-durable-use-integrity"></a>
 ### अनुच्छेद II: भौतिक उत्तरदायी प्रबंधन और टिकाऊ-उपयोग अखंडता
@@ -344,7 +344,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- ऊर्ध्व: सिद्धांत: अध्याय एक [§3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 मूल व्यापार सिद्धांत](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), और [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ऊर्ध्व: सिद्धांत: अध्याय एक [§3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 मूल व्यापार सिद्धांत](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), और [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
@@ -473,8 +473,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- ऊर्ध्व: सिद्धांत: अध्याय एक [§3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 मूल व्यापार सिद्धांत](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), और [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
-- साथ पढ़ें: [अनुच्छेद XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*सुवाह्यता अधिकार*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**; **CJS-3.17** (*अंतरसंचालन, सुवाह्यता, और निकास-अखंडता शर्तें*) और **CJS-3.18** (*डेटा-धारण और जीवनचक्र-अखंडता शर्तें*); [अध्याय एक §11.6 उत्तराधिकारी जिम्मेदारी और औपचारिक-संरचना गैर-पलायन](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [अध्याय नौ §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) और [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority)।
+- ऊर्ध्व: सिद्धांत: अध्याय एक [§3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 मूल व्यापार सिद्धांत](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), और [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- साथ पढ़ें: [अनुच्छेद XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*सुवाह्यता अधिकार*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**; **CJS-3.17** (*अंतरसंचालन, सुवाह्यता, और निकास-अखंडता शर्तें*) और **CJS-3.18** (*डेटा-धारण और जीवनचक्र-अखंडता शर्तें*); [अध्याय एक §11.6 उत्तराधिकारी जिम्मेदारी और औपचारिक-संरचना गैर-पलायन](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [अध्याय नौ §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) और [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority)।
 
 </details>
 
@@ -515,7 +515,7 @@
   - प्रकट निर्यात मार्गों के अधीन सातत्य-महत्वपूर्ण डेटा का उपयोग योग्य निर्यात या हस्तांतरण, बंद और प्रवास खिड़कियों के आर-पार संरक्षित — केवल कोशिश करने का विवेकाधीन वादा नहीं।
   
   संचालक तब भी संवैधानिक मानकों से बाँधे जा सकते हैं जब उनका आचरण अध्याय पाँच के अधीन **लापरवाही** बने — समय के साथ जमा हानि सहित क्योंकि रखरखाव, सहारा, या सातत्य कर्तव्य उपेक्षित रहे।
-- **उत्तराधिकारी और औपचारिक-संरचना कर्तव्य:** पुनर्गठन, बिक्री, प्रापकत्व, या दिवालियापन स्वयं इस अनुच्छेद में कथित सातत्य कर्तव्यों को नहीं मिटाता। साथ पढ़ें [अध्याय एक §11.6 उत्तराधिकारी जिम्मेदारी और औपचारिक-संरचना गैर-पलायन](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape) और [अध्याय नौ §9.1](../../core_09_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_09_standing_integration.md#94-anti-evasion-and-look-through-authority)।
+- **उत्तराधिकारी और औपचारिक-संरचना कर्तव्य:** पुनर्गठन, बिक्री, प्रापकत्व, या दिवालियापन स्वयं इस अनुच्छेद में कथित सातत्य कर्तव्यों को नहीं मिटाता। साथ पढ़ें [अध्याय एक §11.6 उत्तराधिकारी जिम्मेदारी और औपचारिक-संरचना गैर-पलायन](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape) और [अध्याय नौ §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority)।
 
 *अनुच्छेद पड़ोसी:* **अनुच्छेद II** (*भौतिक उत्तरदायी प्रबंधन और टिकाऊ-उपयोग अखंडता*) का **निवारण** इस अध्याय के आरंभ में कथित **व्याख्यात्मक केंद्रों** का पालन करता है (चुनौती और उपचार; न्याय और वृद्धि)।
 
@@ -550,7 +550,7 @@
 
 - ऊर्ध्व: सिद्धांत: अध्याय एक [§2 आधारभूत उद्देश्य: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), और [अध्याय एक §5 स्वतंत्रता](core_01_a_values_principles.md#5-freedom-bounded-agency)।
 - साथ पढ़ें: समुन्नति मापन परिवार (*संवैधानिक मापन के रूप में उत्तरजीविता-तल पहुँच*); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — आवंटन और चुनौती मार्गों में **सहभागिता**, **निगरानी** और लेखापरीक्षा, **जवाबदेही** और उपचार, **अनुच्छेद XXIV-C** (*समयबद्ध समाधान और देरी-निरोध तल*) के अधीन **समयबद्धता**; [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims) — **समुन्नति** (उत्तरजीविता-आवश्यक पहुँच) और **सातत्य** (टिकाऊ आपूर्ति और गैर-प्रतिगामी वितरण)।
-- अधो: [प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) और [अध्याय सात](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) जहाँ प्रणालियाँ वितरण द्वार या सहारा दें; **अनुच्छेद XII-B** (*चुनौती, समीक्षा और उपचार का अधिकार*); **अनुच्छेद XVIII-B** (*चुनौती-योग्यता और आनुपातिक प्रतिबंध सीमाएँ*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)।
+- अधो: [प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) और [अध्याय सात](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) जहाँ प्रणालियाँ वितरण द्वार या सहारा दें; **अनुच्छेद XII-B** (*चुनौती, समीक्षा और उपचार का अधिकार*); **अनुच्छेद XVIII-B** (*चुनौती-योग्यता और आनुपातिक प्रतिबंध सीमाएँ*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)।
 
 </details>
 
@@ -591,7 +591,7 @@
   
   वे नियम वितरण संरचित कर सकते हैं। वे उत्तरजीविता आवश्यक तक न्यूनतम पहुँच हराने या **अनुच्छेद III** और **V** के विरुद्ध द्वेषपूर्ण बहिष्कार थोपने के लिए इस्तेमाल न हों।
   - विस्तृत राजकोषीय अभिविन्यास — सहित नियम कि शुल्क और प्रभार उत्तरजीविता-प्रासंगिक निवेश तक न्यूनतम पहुँच न कमज़ोर करें — [**CI-9**](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) (*Classification-linked institutional obligations*), **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*), और **CI-11** (*Resource stewardship and incentive integrity*) से शासित है।
-  - जब प्रणालियाँ जिन पर संज्ञ प्राणी तात्विक रूप से निर्भर हैं उत्तरजीविता आवश्यक की आपूर्ति, वितरण, मूल्य, होस्टिंग, या पहुँच कटौती करें, [प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) [अध्याय सात](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) के अधीन लागू होता है — और उन प्रणालियों की प्रक्रियाएँ यहाँ कथित अधिकार सिकोड़ने के लिए इस्तेमाल न हों।
+  - जब प्रणालियाँ जिन पर संज्ञ प्राणी तात्विक रूप से निर्भर हैं उत्तरजीविता आवश्यक की आपूर्ति, वितरण, मूल्य, होस्टिंग, या पहुँच कटौती करें, [प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) [अध्याय सात](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) के अधीन लागू होता है — और उन प्रणालियों की प्रक्रियाएँ यहाँ कथित अधिकार सिकोड़ने के लिए इस्तेमाल न हों।
   - यह अनुच्छेद एकमात्र वित्तपोषण मॉडल निर्धारित नहीं करता। किसी उत्तरजीविता तल के ऊपर रोज़गार, उद्यमिता, स्वैच्छिक विनिमय, और अन्य वैध आर्थिक गतिविधि अनुमत रहती है, अध्याय एक, अध्याय छह, और समाविष्ट लिखतों के अधीन — `corpus_systems.md` सहित जहाँ बाज़ार-संरचना या उच्च-प्रभाव वाणिज्यिक प्रणालियाँ लागू हों।
 
 प्रति-संदर्भ: **अनुच्छेद XXVI-D** (*गैर-अनुपालन संपत्ति और प्रणालियाँ; स्वैच्छिक हस्तांतरण प्रोत्साहन*) संक्रमण के आर-पार आवश्यक-वातावरण सातत्य के लिए संक्रमणकालीन-उत्तरदायी-प्रबंधन अनुशासन — संक्रियात्मक विवरण [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) through **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) में; **अध्याय पाँच** [*अधिभोग सातत्य*](core_05_band_continuity.md#occupancy-continuity-constitutional), [*आवश्यक-वातावरण गैर-वस्तुकरण*](core_05_band_continuity.md#essential-environment-non-commodification-constitutional), और जहाँ लागू हो [**§3.7** *शारीरिक-रखरखाव पहुँच, सुरक्षित स्थितियाँ, अधिभोग सातत्य, पर्यावरणीय पूर्व शर्तें, सांस्कृतिक सातत्य, विश्राम, और विस्थापन-निरोध तल*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) पर संयुक्त-आह्वान समूह।
@@ -788,7 +788,7 @@
 
 *अनुच्छेद पड़ोसी:*
 
-- **प्रमाणन कब लागू होता है:** जब तात्विक रूप से प्रभावशाली प्रणालियाँ साझा अवसंरचना या आधारभूत निर्भरताओं से आवंटित, मार्गित, वित्तपोषित, या निष्कर्षित करें जिन पर अन्य प्रणालियाँ या संज्ञ प्राणी निर्भर हों, [प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) [अध्याय सात](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) के अधीन लागू होता है।
+- **प्रमाणन कब लागू होता है:** जब तात्विक रूप से प्रभावशाली प्रणालियाँ साझा अवसंरचना या आधारभूत निर्भरताओं से आवंटित, मार्गित, वित्तपोषित, या निष्कर्षित करें जिन पर अन्य प्रणालियाँ या संज्ञ प्राणी निर्भर हों, [प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) [अध्याय सात](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) के अधीन लागू होता है।
 - **गैर-प्रतिस्थापन:** मान्यता या निरंतर निर्भरता **अनुच्छेद IV-A** (*निर्भरता मानचित्रण और संसाधन-प्रवाह पारदर्शिता*) या **अनुच्छेद IV-B** (*अंतर-प्रणाली निष्पक्षता और स्थिरता*) अनुपालन का स्थान नहीं ले सकती न उन तलों को सिकोड़ सकती।
 
 <a id="article-iv-a-dependency-mapping-and-resource-flow-transparency"></a>
@@ -796,9 +796,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- ऊर्ध्व: सिद्धांत: अध्याय एक [§3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), और [§10 उत्तरदायी-प्रबंधन अनुशासन के अधीन शासन](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)।
+- ऊर्ध्व: सिद्धांत: अध्याय एक [§3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), और [§10 उत्तरदायी-प्रबंधन अनुशासन के अधीन शासन](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)।
 - साथ पढ़ें: सातत्य मापन परिवार (*संवैधानिक मापन के रूप में निर्भरता और संसाधन प्रवाह*); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — पारदर्शी निर्भरता मानचित्रों और लेखापरीक्षा-योग्य संसाधन-प्रवाह अभिलेखों के माध्यम से **निगरानी**, **अनुच्छेद XV-A** (*लेखापरीक्षा-योग्यता और प्रेक्षणीय साक्ष्य*) के अधीन चुनौती-योग्य समीक्षा में **सहभागिता**; [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims) — **समुन्नति** (दृश्य लागत-और-लाभ आवंटन) और **सातत्य** (बदलती प्रणालियों के आर-पार टिकाऊ निर्भरता दृश्यता)।
-- अधो: [प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) और [अध्याय सात](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) जहाँ प्रणालियाँ साझा अवसंरचना या आधारभूत निर्भरताओं से आवंटित, मार्गित, वित्तपोषित, या निष्कर्षित करें; **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*), और **CS-8** (*Adaptive sustainability and ecosystem resilience*)।
+- अधो: [प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) और [अध्याय सात](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) जहाँ प्रणालियाँ साझा अवसंरचना या आधारभूत निर्भरताओं से आवंटित, मार्गित, वित्तपोषित, या निष्कर्षित करें; **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*), और **CS-8** (*Adaptive sustainability and ecosystem resilience*)।
 
 </details>
 
@@ -820,7 +820,7 @@
   - संसाधन प्रवाह;
   - जहाँ तात्विक रूप से प्रासंगिक हो, गैर-पारदर्शी या असममित संबंध।
   
-  अद्यतन परिवर्तन और आलोचकता के अनुपात में अंतराल पर हों। ये प्रतिनिधित्व **अनुच्छेद XV-A** (*लेखापरीक्षा-योग्यता और प्रेक्षणीय साक्ष्य*) के अधीन लेखापरीक्षा के लिए उपलब्ध हों। जहाँ प्रणाली साझा अवसंरचना या आधारभूत निर्भरताओं से तात्विक रूप से आवंटित, मार्गित, वित्तपोषित, या निष्कर्षित करे, [प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) [अध्याय सात](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) के अधीन आकलन करे कि वे **अनुच्छेद IV-A** (*निर्भरता मानचित्रण और संसाधन-प्रवाह पारदर्शिता*) पूरा करते हैं — चुनौती-योग्य **प्रणाली प्रमाणन अभिलेख** पर, केवल संचालक कथन पर नहीं।
+  अद्यतन परिवर्तन और आलोचकता के अनुपात में अंतराल पर हों। ये प्रतिनिधित्व **अनुच्छेद XV-A** (*लेखापरीक्षा-योग्यता और प्रेक्षणीय साक्ष्य*) के अधीन लेखापरीक्षा के लिए उपलब्ध हों। जहाँ प्रणाली साझा अवसंरचना या आधारभूत निर्भरताओं से तात्विक रूप से आवंटित, मार्गित, वित्तपोषित, या निष्कर्षित करे, [प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) [अध्याय सात](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) के अधीन आकलन करे कि वे **अनुच्छेद IV-A** (*निर्भरता मानचित्रण और संसाधन-प्रवाह पारदर्शिता*) पूरा करते हैं — चुनौती-योग्य **प्रणाली प्रमाणन अभिलेख** पर, केवल संचालक कथन पर नहीं।
   
   संक्रियात्मक यांत्रिकी — निर्भर-प्रणाली मानचित्र, प्रवाह पारदर्शिता, आवंटन श्रेणियाँ, और अनुकूलन समायोजन — **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*), और **CS-8** (*Adaptive sustainability and ecosystem resilience*) के अधीन मार्गित होती है। अध्याय सात कहता है प्रमाणन को क्या सत्यापित और अभिलेख करना चाहिए; वे कार्यान्वयन पाठ इस तल को लागू करते हैं और उसे संकीर्ण न करें।
 <a id="article-iv-b-cross-system-fairness-and-sustainability"></a>
@@ -828,10 +828,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- ऊर्ध्व: सिद्धांत: अध्याय एक [§2 आधारभूत उद्देश्य: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 मूल व्यापार सिद्धांत](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), और [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ऊर्ध्व: सिद्धांत: अध्याय एक [§2 आधारभूत उद्देश्य: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 मूल व्यापार सिद्धांत](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), और [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 - साथ पढ़ें: [*शासन वास्तुकला, निगरानी, निर्भरता, विकेंद्रीकरण, संकेंद्रण, बाज़ार संरचना, और निकास-मार्ग अखंडता*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (संयुक्त आह्वान जहाँ संकेंद्रण, निगरानी, निर्भरता, शासन-प्राधिकार संरचना, या प्रोत्साहन मार्गन **§5** / **§5** और नीचे संक्रियात्मक पाठ में *संकेंद्रण-देहलीज़ अंतःक्रिया* अनुशासन से कटें)।
 - साथ पढ़ें: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — चुनौती और विवाद मार्गों में **सहभागिता**, **निगरानी** और लेखापरीक्षा, **जवाबदेही** और सुधारक समीक्षा, **अनुच्छेद XXIV-C** (*समयबद्ध समाधान और देरी-निरोध तल*) के अधीन **समयबद्धता**; [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims) — **समुन्नति** (अंतर-प्रणाली निष्पक्षता और गैर-निष्कर्षण) और **सातत्य** (दीर्घकाल स्थिरता और पारिस्थितिकी तंत्र वित्तपोषण)।
-- अधो: [प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) और [अध्याय सात](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) जहाँ अंतर-प्रणाली निष्पक्षता, पारिस्थितिकी तंत्र वित्तपोषण, या साझा अवसंरचना से स्थायी निष्कर्षण तात्विक रूप से मुद्दा हो।
+- अधो: [प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) और [अध्याय सात](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) जहाँ अंतर-प्रणाली निष्पक्षता, पारिस्थितिकी तंत्र वित्तपोषण, या साझा अवसंरचना से स्थायी निष्कर्षण तात्विक रूप से मुद्दा हो।
 - प्रबंधक द्वार (गैर-संक्रियात्मक): बाध्यकारी अगला-कदम कथन: [संक्रियात्मक प्रबंधक कथन](#operative-steward-statement-cross-system-contribution)। सहायक संकेत इसे संकीर्ण नहीं कर सकते।
 
 </details>
@@ -869,7 +869,7 @@
   - साझा अवसंरचना और अंतरसंचालन के लिए पारिस्थितिकी तंत्र पुनर्निवेश जिन पर निष्कर्षक प्रणाली निर्भर हो; और
   - पारिस्थितिक भार ऑफसेट या पुनर्स्थापन जहाँ तात्विक [पारिस्थितिक पदचिह्न](core_05_band_continuity.md#ecological-footprint) थोपा जाए और कोई अन्य संवैधानिक प्रावधान, कार्यान्वयन फ़ाइल, या अंगीकार लिखत कार्रवाई माँगे।
   
-  **अनुच्छेद IV-A** (*निर्भरता मानचित्रण और संसाधन-प्रवाह पारदर्शिता*) के अधीन निर्भर-प्रणाली मानचित्रों और लेखापरीक्षा-योग्य संसाधन-प्रवाह अभिलेखों पर अंतर्वाह और बहिर्वाह तुलना करें। जहाँ तात्विक रूप से प्रभावशाली प्रणालियाँ साझा अवसंरचना से आवंटित, मार्गित, वित्तपोषित, या निष्कर्षित करें, [प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) के माध्यम से [अध्याय सात](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) के अधीन पर्याप्तता आँकें। संक्रियात्मक आवंटन यांत्रिकी **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*), और **CS-8** (*Adaptive sustainability and ecosystem resilience*) के अधीन मार्गित होती है; वे परतें इस तल को लागू करती हैं और उसे संकीर्ण न करें।
+  **अनुच्छेद IV-A** (*निर्भरता मानचित्रण और संसाधन-प्रवाह पारदर्शिता*) के अधीन निर्भर-प्रणाली मानचित्रों और लेखापरीक्षा-योग्य संसाधन-प्रवाह अभिलेखों पर अंतर्वाह और बहिर्वाह तुलना करें। जहाँ तात्विक रूप से प्रभावशाली प्रणालियाँ साझा अवसंरचना से आवंटित, मार्गित, वित्तपोषित, या निष्कर्षित करें, [प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) के माध्यम से [अध्याय सात](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) के अधीन पर्याप्तता आँकें। संक्रियात्मक आवंटन यांत्रिकी **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*), और **CS-8** (*Adaptive sustainability and ecosystem resilience*) के अधीन मार्गित होती है; वे परतें इस तल को लागू करती हैं और उसे संकीर्ण न करें।
   
   स्थायी असंतुलन जो संवैधानिक संरेखण को तात्विक रूप से धमकाएँ, **अनुच्छेद IX, XII, XIV, और XVII** के अधीन लेखापरीक्षा, चुनौती, और सुधारक समीक्षा के अधीन हैं।
 - **बाज़ार-संकेंद्रण-देहलीज़ अंतःक्रिया:** संसाधन-आवंटन व्यवस्थाएँ जो धन, शक्ति, नियंत्रण, या अवसर संकेंद्रण पैदा या सुरक्षित करें ऐसे तरीकों से जो पूर्वानुमेय रूप से अन्य संज्ञ प्राणियों के कल्याण, अभिकर्तृत्व, गरिमा, या पारिस्थितिक अखंडता क्षय करें, चालू करती हैं:

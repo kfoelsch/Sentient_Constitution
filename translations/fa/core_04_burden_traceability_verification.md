@@ -24,7 +24,7 @@
 > - **نقشهٔ چهارگانه:** تخصیص بار، شاهد، ردگیری‌پذیری، مشاهده‌پذیری، و راستی‌آزمایی پاهای **نظارت** و **پاسخگویی** [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) را که در [دیباچه](core_00_preamble.md#chapter-00-preamble--foundational-requirements) برقرار شده‌اند پیاده می‌کنند؛ **مشارکت** جایی که از نظر مادی الزامی است از راه مشاهده‌پذیری عملی و اعتراض مستقل زیر بخش‌های **3** و **4**. الزامات با [منافع مادی](core_00_preamble.md#material-stake) مقیاس می‌شوند.
 > - **مالک قانون اساسی:** تخصیص بار، شاهد انطباق، ردگیری‌پذیری تعریف، مشاهده‌پذیری، و راستی‌آزمایی مقید به امنیت. **فصل هشتم** مالک انضباط سوابق ردپا و ورودی راستی‌آزمایی‌شده است که با این فصل خوانده می‌شود.
 > - **مالک پیاده‌سازی:** مکانیک استقرار، رسیدگی داده، و اطمینان در پرونده‌های پیاده‌سازی نام‌گذاری‌شده باید با این قواعد سازگار بماند و می‌تواند سخت‌گیرانه‌تر باشد جایی که پیکره ازپیش منطق قاعدهٔ سخت‌گیرانه‌تر فراهم می‌کند.
-> - **قاعدهٔ ضدجابه‌جایی:** این فصل فقط بر بار، ردگیری، مشاهده‌پذیری، حدهای امنیت، و شاهد حاکم است. تعریف‌های فصل پنجم، اندازه‌گیری همیاری یا ردپای **فصل هشتم**، یا معیارهای سوءرفتار ضدقانون‌اساسی فصل دهم را بازبیان نمی‌کند. مسیرگذاری عدم‌انطباق راستی‌آزمایی‌شده به ردپا زیر [فصل سوم §3 — نمایه‌های یافتهٔ عدم‌انطباق](core_03_definition_integrity.md#3-non-compliance-finding-profiles) و [فصل هشتم — مدل همیاری، تخلف، و ردپا](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) اداره می‌شود. **بخش 6** بیان می‌کند فصل‌های دوم تا چهارم چگونه از [فصل هفتم — گواهی هم‌راستایی نظام](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) فرق می‌کنند.
+> - **قاعدهٔ ضدجابه‌جایی:** این فصل فقط بر بار، ردگیری، مشاهده‌پذیری، حدهای امنیت، و شاهد حاکم است. تعریف‌های فصل پنجم، اندازه‌گیری همیاری یا ردپای **فصل هشتم**، یا معیارهای سوءرفتار ضدقانون‌اساسی فصل دهم را بازبیان نمی‌کند. مسیرگذاری عدم‌انطباق راستی‌آزمایی‌شده به ردپا زیر [فصل سوم §3 — نمایه‌های یافتهٔ عدم‌انطباق](core_03_definition_integrity.md#3-non-compliance-finding-profiles) و [فصل هشتم — مدل همیاری، تخلف، و ردپا](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) اداره می‌شود. **بخش 6** بیان می‌کند فصل‌های دوم تا چهارم چگونه از [فصل هفتم — گواهی هم‌راستایی نظام](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) فرق می‌کنند.
 
 </details>
 
@@ -161,7 +161,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: [فصل چهارم، بخش‌های 1 تا 4](#1-exclusive-enforcement-and-burden-allocation)؛ [فصل دوم، §1 — مقصود و نقش](core_02_definition_structure.md#1-purpose-and-role)؛ [فصل دوم، §2 الزام یکپارچگی تعریف](core_02_definition_structure.md#2-definition-integrity-requirement)؛ [فصل دوم، §3 سازگاری در سراسر پشتهٔ تعریف](core_02_definition_structure.md#3-consistency-across-the-definition-stack)؛ [فصل سوم، بخش 1 — یکپارچگی تعریف و قیدهای ضدگریز](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)؛ [فصل سوم، بخش 2 — عدم‌انطباق از رفتار مشاهده‌پذیر نظام](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior)؛ [فصل سوم، §2.6 قید یکپارچگی عدم‌قطعیت و منع بهره‌برداری](core_03_definition_integrity.md#26-uncertainty-integrity-and-non-exploitation-constraint) — قواعد ماهوی تعریف و عدم‌انطباق؛ **§4** فقط الزامات لایهٔ شاهد را بیان می‌کند و آن قواعد را بازبیان نمی‌کند.
-- پایین‌دست: [فصل هشتم — مدل همیاری، تخلف، و ردپا](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
+- پایین‌دست: [فصل هشتم — مدل همیاری، تخلف، و ردپا](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
 - خوانده شود با: [فصل چهارم، بخش 2 — الزام ردگیری‌پذیری تعریف](#2-definition-traceability-requirement) — شکست در فراخواندن یا درست اعمال کردن هر تعریف **فصل پنجم** از نظر مادی الزامی، ارزیابی، شاهد، و تعیین انطباق وابسته را به‌تمامی باطل می‌کند؛ [فصل یکم، §6 — حل تعارض فرایند](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) جایی که مقیاس‌بندی بر بده‌بستان میان بهزیستی حس‌مند و پایداری افق بلند اثر می‌گذارد؛ [فصل پنجم ایمنی (قید)](../../core_05_band_continuity.md#safety-constraint)، [فصل پنجم حقیقت (قید قانون اساسی)](../../core_05_band_oversight.md#truth-constitutional-constraint)، و [فصل پنجم یکپارچگی معرفتی](../../core_05_band_oversight.md#epistemic-integrity) — هم‌راستایی شاهد علم‌آگاه برای ادعاهای تجربی، پیش‌بینانه، یا علّی.
 
 </details>
@@ -195,8 +195,8 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: [فصل دوم — ساختار تعریف و الزامات مؤلفه‌ها](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements)؛ [فصل سوم — یکپارچگی تعریف، گریز، و عدم‌انطباق](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)؛ [فصل چهارم، بخش‌های 1 تا 5](#1-exclusive-enforcement-and-burden-allocation).
-- پایین‌دست: [فصل هفتم — گواهی هم‌راستایی نظام](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)؛ [فصل هشتم — مدل همیاری، تخلف، و ردپا](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model).
-- خوانده شود با: [فصل هفتم §16 — بازگشایی، ناهم‌راستایی، و ضدگریز](../../core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — عدم‌انطباق راستی‌آزمایی‌شده زیر فصل‌های دوم تا چهارم می‌تواند گواهی را بازگشاید یا شکست دهد صرف‌نظر از بازشناسی پیشین.
+- پایین‌دست: [فصل هفتم — گواهی هم‌راستایی نظام](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)؛ [فصل هشتم — مدل همیاری، تخلف، و ردپا](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
+- خوانده شود با: [فصل هفتم §16 — بازگشایی، ناهم‌راستایی، و ضدگریز](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — عدم‌انطباق راستی‌آزمایی‌شده زیر فصل‌های دوم تا چهارم می‌تواند گواهی را بازگشاید یا شکست دهد صرف‌نظر از بازشناسی پیشین.
 
 </details>
 
@@ -213,7 +213,7 @@
 
 این‌ها هرجا انطباق ارزیابی شود اعمال می‌شوند — با گواهی یا بدون آن.
 
-**[فصل هفتم — گواهی هم‌راستایی نظام](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)** **فرایند گواهی** تحت نظارت مجمع را جایی که مادی است می‌دهد: حوزه‌های ارزیابی کل‌نظام، تکالیف سابقهٔ گواهی، پیامدهای بازشناسی، آهنگ بازاعتبارسنجی، زنجیرهٔ قابلیت اعتراض، و پل ورودی راستی‌آزمایی‌شده به فصل هشتم. فصل‌های دوم تا چهارم را **اعمال می‌کند**؛ **بازبیان‌شان نمی‌کند**.
+**[فصل هفتم — گواهی هم‌راستایی نظام](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)** **فرایند گواهی** تحت نظارت مجمع را جایی که مادی است می‌دهد: حوزه‌های ارزیابی کل‌نظام، تکالیف سابقهٔ گواهی، پیامدهای بازشناسی، آهنگ بازاعتبارسنجی، زنجیرهٔ قابلیت اعتراض، و پل ورودی راستی‌آزمایی‌شده به فصل هشتم. فصل‌های دوم تا چهارم را **اعمال می‌کند**؛ **بازبیان‌شان نمی‌کند**.
 
 خوانندگان نباید این‌ها را چنین بدانند:
 - یک **سابقهٔ گواهی** را جانشین انطباق جاری زیر فصل‌های دوم تا چهارم

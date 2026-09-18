@@ -1,6 +1,6 @@
 # Option A routing compare
 
-**Status:** Process support — **not** binding. This sheet **cannot narrow core text**. It is not Chapter Fifteen adoption, not standing measurement, and not a shared-standard showing if a human-operator sample is missing.
+**Status:** Process support — **not** binding. This sheet **cannot narrow core text**. It is not Chapter Sixteen adoption, not standing measurement, and not a shared-standard showing if a human-operator sample is missing.
 
 **Bar (now):** [PRE_PUBLICATION_SPEC.md](../../implementation/PRE_PUBLICATION_SPEC.md) §6.5 Option A — qualitative. Two agents given the same fact pattern agree *enough* when they:
 
@@ -9,7 +9,7 @@
 3. Cite the **same homes**
 4. **Do not invent a parallel norm**
 
-Wording may differ. Example: both route to Standing / Chapters Eight–Nine and propose “open or correct a standing record.”
+Wording may differ. Example: both route to Standing / Chapters Nine–Ten and propose “open or correct a standing record.”
 
 **Not this sheet:** Option B scored rubric, Layer B costly willingness, or a publication-cut handoff claim. Those remain the spec’s cut gate.
 

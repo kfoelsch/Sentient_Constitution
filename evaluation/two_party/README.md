@@ -2,7 +2,7 @@
 
 **What this is:** An invite for **two sentients** who want to use the Sentient Constitution as a shared cooperation framework. Design: [`../../implementation/adoption/FIRST_ADOPTER_KIT.md`](../../implementation/adoption/FIRST_ADOPTER_KIT.md).
 
-**What this is not:** Binding constitutional text. [Chapter Fifteen](../../core_15_amendment_ratification.md#10-ratification-and-adoption) adoption. [Chapter Sixteen](../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. A Chapter Eight standing record. Chapter Seven certification. Authority over other parties. A publication cut.
+**What this is not:** Binding constitutional text. [Chapter Sixteen](../../core_16_amendment_ratification.md#10-ratification-and-adoption) adoption. [Chapter Seventeen](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. A Chapter Nine standing record. Chapter Eight certification. Authority over other parties. A publication cut.
 
 **Corpus edition pin:** `SC-Corpus-2026.08.09` (pre-release). Both parties must pin the same edition.
 
@@ -25,12 +25,12 @@ from evaluation/two_party/results/_TEMPLATE.md using OPTION_A_COMPARE.md.
 ## After the two files land
 
 1. Confirm both pins match `SC-Corpus-2026.08.09` (or the same later cut).
-2. Confirm neither file claims Chapter Fifteen adoption.
+2. Confirm neither file claims Chapter Sixteen adoption.
 3. Optional: if both parties also have announced-pack files under [`../results/`](../results/), fill the Option A compare sheet.
 4. If a **qualifying body** can bind the systems, that body copies the fill-in instrument from the kit into **its** custody. Do not store a filled instrument here as if evaluation adopted anything.
 5. If they cannot bind those systems, or cannot name independent review that is not the other party, attach the kit’s non-adoption banner and stop.
 
-A compare sheet is not standing measurement. Two declarations are not joining under [Chapter Fifteen §10.3](../../core_15_amendment_ratification.md#103-joining-by-additional-parties).
+A compare sheet is not standing measurement. Two declarations are not joining under [Chapter Sixteen §10.3](../../core_16_amendment_ratification.md#103-joining-by-additional-parties).
 
 **More than two parties:** use [`../../implementation/adoption/COOPERATION_SCALING_KIT.md`](../../implementation/adoption/COOPERATION_SCALING_KIT.md). This folder stays two-party. Do not add a third results file here and call it joining. Do not treat the scaling kit’s joining-rule template as published §10.3 rules.
 

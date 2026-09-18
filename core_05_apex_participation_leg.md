@@ -95,7 +95,7 @@ Leaf definitions under this leg inherit its scope unless they expressly narrow o
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Participation measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Accessibility](core_05_band_participation.md#accessibility-constitutional), [Educational Agency](core_05_band_participation.md#educational-agency), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), and the [Privacy (Informational) cluster](core_05_band_continuity.md#privacy-informational-cluster) in the Continuity band.
-- Read with: Chapter Six, [Chapter Seven](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification), or incorporated instruments — binding nondiscrimination, accommodation, education, or privacy requirements arise when those instruments expressly require them.
+- Read with: Chapter Six, [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification), or incorporated instruments — binding nondiscrimination, accommodation, education, or privacy requirements arise when those instruments expressly require them.
 
 </details>
 

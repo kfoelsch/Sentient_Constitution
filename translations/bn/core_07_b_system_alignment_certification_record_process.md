@@ -7,7 +7,7 @@
 
 > নিচের বিষয়বস্তু **শুধু পাঠক নির্দেশনা**। এটি এই ফাইল বা অন্য অধ্যায়ে বাধ্যতামূলক কর্তব্য যোগ করে না, কমায় না, সংকুচিতও করে না।
 >
-> এই ফাইল [ইংরেজি অধ্যায় সাত, অংশ খ](../../core_07_b_system_alignment_certification_record_process.md)-এর **পাঠক-ভাষার পাইলট**। এটি সংজ্ঞ সংবিধানের **বাধ্যতামূলক অংশ নয়**। এটি **দ্বিতীয় সংবিধান নয়**। এটি **প্রেরণ সংস্করণ নয়**। এটি `SC-Corpus-2026.08.09`-এ **পিন**। অনুবাদ ও ইংরেজি মূল যদি অমিল মনে হয়, ক্রমাঙ্কিত [`core_07_b_system_alignment_certification_record_process.md`](../../core_07_b_system_alignment_certification_record_process.md) জিতবে। পড়ার ক্রম ও সংস্করণ মেটাডেটা [README.md](../../README.md)-এ থাকে। পদ্ধতি ও শব্দতালিকা: [translations/bn/README.md](README.md)।
+> এই ফাইল [ইংরেজি অধ্যায় সাত, অংশ খ](../../core_08_b_system_alignment_certification_record_process.md)-এর **পাঠক-ভাষার পাইলট**। এটি সংজ্ঞ সংবিধানের **বাধ্যতামূলক অংশ নয়**। এটি **দ্বিতীয় সংবিধান নয়**। এটি **প্রেরণ সংস্করণ নয়**। এটি `SC-Corpus-2026.08.09`-এ **পিন**। অনুবাদ ও ইংরেজি মূল যদি অমিল মনে হয়, ক্রমাঙ্কিত [`core_07_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md) জিতবে। পড়ার ক্রম ও সংস্করণ মেটাডেটা [README.md](../../README.md)-এ থাকে। পদ্ধতি ও শব্দতালিকা: [translations/bn/README.md](README.md)।
 >
 > এতে আছে **অধ্যায় সাত, অংশ খ** — প্রত্যয়ন **নথি**র বিষয়বস্তু, স্বচ্ছতা ও চ্যালেঞ্জ-যোগ্যতা, মঞ্চ উপাদান ভূমিকা, তত্ত্বাবধান ক্রম, প্রস্থিতি সেতু, এবং পুনরায় খোলা (**§11–§16**, অংশ ক §1–§10 থেকে চালিয়ে)। **অংশ ক** — মূল্যায়ন প্রয়োজনীয়তা — আছে [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md)-এ।
 >
@@ -30,7 +30,7 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - ঊর্ধ্ব: [অংশ ক §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*প্রত্যয়ন উদ্দেশ্য ও মূল্যায়ন রোডম্যাপ*); [অংশ ক §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) থেকে [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*নথির জন্য মূল্যায়ন ফল*); [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad); [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims)।
-- অধঃ: [§11](#11-certification-record) থেকে [§16](#16-reopening-drift-and-non-evasion); [অধ্যায় আট](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); [অধ্যায় এগারো](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)।
+- অধঃ: [§11](#11-certification-record) থেকে [§16](#16-reopening-drift-and-non-evasion); [অধ্যায় আট](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model); [অধ্যায় এগারো](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction)।
 - সঙ্গে পড়ুন: [corpus_forum.md](../../corpus_forum.md), **CF-5** ও **CF-7**।
 
 </details>
@@ -51,7 +51,7 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - ঊর্ধ্ব: [অংশ ক §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*প্রত্যয়ন উদ্দেশ্য*); [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*পুরো-ব্যবস্থা মূল্যায়ন উপাদান*); [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) থেকে [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*নথিতে প্রতিফলিত ক্ষেত্র মূল্যায়ন ফল*); [ব্যবস্থা প্রত্যয়ন নথি](core_05_band_continuity.md#system-certification-record-constitutional) (*অধ্যায় পাঁচ অর্থ*); [§12](#12-transparency-auditability-and-contestability) (*স্বচ্ছতা, নিরীক্ষাযোগ্যতা ও চ্যালেঞ্জ-যোগ্যতা*); [§14](#14-supervisory-sequence-and-contestability-chain) (*তত্ত্বাবধান ক্রম ও চ্যালেঞ্জ-যোগ্যতা শৃঙ্খল*)।
-- অধঃ: [§15](#15-relationship-to-standing) (*যাচাইকৃত-উপকরণ ফটক*); [অধ্যায় এগারো](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*মঞ্চ-তত্ত্বাবধানকৃত প্রত্যয়ন প্রক্রিয়া*)।
+- অধঃ: [§15](#15-relationship-to-standing) (*যাচাইকৃত-উপকরণ ফটক*); [অধ্যায় এগারো](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*মঞ্চ-তত্ত্বাবধানকৃত প্রত্যয়ন প্রক্রিয়া*)।
 - উপধারা: [§11.1](#111-minimum-record-contents) (*নথির ন্যূনতম বিষয়বস্তু*); [§11.2](#112-cross-section-record-requirements) (*ধারা-জুড়ে নথি প্রয়োজনীয়তা*); [§11.3](#113-rights-floor-record-evaluation-non-substitution) (*অধিকার-তল নথি মূল্যায়ন — স্থলাভিষিক্ত নয়*)।
 
 </details>
@@ -161,7 +161,7 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - ঊর্ধ্ব: [§11](#11-certification-record) (*নথি বিষয়বস্তু*); [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation), [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation), [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation), [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation), [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation), [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation), [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation), এবং [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*শ্রেণি, তথ্য, পদচিহ্ন, আন্তঃব্যবস্থা সহায়তা, বৈষম্যহীনতা, প্রবেশযোগ্যতা, শিক্ষামূলক-ক্ষমতা ও বিশ্বাসযোগ্যতা মূল্যায়ন উপকরণ*); তত্ত্বাবধান পরিমাপ পরিবার (*সাংবিধানিক পরিমাপ হিসেবে সত্য ও জ্ঞানতাত্ত্বিক সততা*); সময়ানুবর্তিতা পরিমাপ পরিবার (*সময়মতো সমাধান ও দেরি-নিরোধ শৃঙ্খলা*); অধ্যায় দুই থেকে চার (*ভার, খুঁজে-পাওয়া, যাচাই ও প্রমাণ সংরক্ষণ*); [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — **তত্ত্বাবধান**, **জবাবদিহি**, **অংশগ্রহণ**, এবং **সময়ানুবর্তিতা**; [**Def.O1** *স্বচ্ছতা, নিরীক্ষাযোগ্যতা ও যাচাই*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster); [চ্যালেঞ্জ-যোগ্যতা](core_05_band_accountability.md#contestability)।
-- অধঃ: [§14](#14-supervisory-sequence-and-contestability-chain) (*তত্ত্বাবধান ক্রম ও চ্যালেঞ্জ-যোগ্যতা শৃঙ্খল*); [§15](#15-relationship-to-standing) (*যাচাইকৃত-উপকরণ ফটক*); [অধ্যায় এগারো §2.3](../../core_11_forum.md#23-forum-records-standing-records-and-contests) (*মঞ্চ মামলা নথি, প্রস্থিতি-নথি চ্যালেঞ্জ*); [অধ্যায় এগারো §5](../../core_11_forum.md#5-escalation-and-certification) (*উত্তরণ ও প্রত্যয়ন বিস্তার*)।
+- অধঃ: [§14](#14-supervisory-sequence-and-contestability-chain) (*তত্ত্বাবধান ক্রম ও চ্যালেঞ্জ-যোগ্যতা শৃঙ্খল*); [§15](#15-relationship-to-standing) (*যাচাইকৃত-উপকরণ ফটক*); [অধ্যায় এগারো §2.3](../../core_12_forum.md#23-forum-records-standing-records-and-contests) (*মঞ্চ মামলা নথি, প্রস্থিতি-নথি চ্যালেঞ্জ*); [অধ্যায় এগারো §5](../../core_12_forum.md#5-escalation-and-certification) (*উত্তরণ ও প্রত্যয়ন বিস্তার*)।
 - সঙ্গে পড়ুন: [অনুচ্ছেদ XV: নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification); [অনুচ্ছেদ XII-B: চ্যালেঞ্জ, পর্যালোচনা ও প্রতিকারের অধিকার](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); [প্রমাণ সংরক্ষণ](core_05_band_oversight.md#evidence-preservation); [corpus_systems.md](../../corpus_systems.md), **CS-2 — Information types and handling** এবং **CS-3 — System classification and handling**; **CJS-3.4** (*স্তরীকৃত স্বচ্ছতা ও নিরীক্ষা-প্রবেশাধিকার শর্ত*)।
 
 </details>
@@ -239,7 +239,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: [§11](#11-certification-record) (*প্রত্যয়ন নথি বিষয়বস্তু*); [§12](#12-transparency-auditability-and-contestability) (*নথি সততা প্রয়োজনীয়তা*); [অধ্যায় এগারো §4](../../core_11_forum.md#4-forum-family-definitions) (*মঞ্চ-পরিবার ও সারিবদ্ধতা স্বীকৃতি*)।
+- ঊর্ধ্ব: [§11](#11-certification-record) (*প্রত্যয়ন নথি বিষয়বস্তু*); [§12](#12-transparency-auditability-and-contestability) (*নথি সততা প্রয়োজনীয়তা*); [অধ্যায় এগারো §4](../../core_12_forum.md#4-forum-family-definitions) (*মঞ্চ-পরিবার ও সারিবদ্ধতা স্বীকৃতি*)।
 - অধঃ: [§14](#14-supervisory-sequence-and-contestability-chain) (*তত্ত্বাবধান ক্রম ও চ্যালেঞ্জ-যোগ্যতা শৃঙ্খল*); [§15](#15-relationship-to-standing) (*প্রস্থিতি-নথি সেতু*)।
 - সঙ্গে পড়ুন: [corpus_forum.md](../../corpus_forum.md), **CF-7** (*সততা সুরক্ষা ও সারিবদ্ধতা সমন্বয়*) এবং **CF-10** (*কারিগরি বিশেষজ্ঞ মঞ্চ ও বিশেষজ্ঞ কক্ষ*)।
 
@@ -249,7 +249,7 @@
 
 *সহজ ভাষায়: কোনো ব্যবস্থা সাংবিধানিক সারিবদ্ধতা মেনে চলে তা প্রত্যয়ন করা এক ব্যক্তি বা এক বিভাগের কাজ নয়। আলাদা মঞ্চ-পরিবার সেই কাজের নির্দিষ্ট টুকরো সামলায়। কোনো এক বিশেষত্ব — এমনকি কারিগরি পর্যালোচনা বা অখণ্ডতা সমন্বয়ও — একা পুরো প্রক্রিয়া চালাতে পারে না।*
 
-এই ধারা **ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন**-এর ভিতরে মঞ্চ-পরিবার **উপাদান ভূমিকা** বরাদ্দ করে — [§11](#11-certification-record)-এর অধীনে বৈধকরণ, পুনঃবৈধকরণ, প্রত্যাহার, অস্বীকৃতি, এবং সংশ্লিষ্ট নথি। সেই ভূমিকা [§14](#14-supervisory-sequence-and-contestability-chain)-এর তত্ত্বাবধান ক্রমে খাওয়ায়। পূর্ণ মঞ্চ সংজ্ঞা ও রাউটিং বিস্তার থাকে [অধ্যায় এগারো](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) এবং [corpus_forum.md](../../corpus_forum.md)-এ। এখানে প্রতি পরিবার শুধু প্রত্যয়ন নথি তৈরি, তত্ত্বাবধান, বা চ্যালেঞ্জ করার তার সীমিত ভূমিকা পায়।
+এই ধারা **ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন**-এর ভিতরে মঞ্চ-পরিবার **উপাদান ভূমিকা** বরাদ্দ করে — [§11](#11-certification-record)-এর অধীনে বৈধকরণ, পুনঃবৈধকরণ, প্রত্যাহার, অস্বীকৃতি, এবং সংশ্লিষ্ট নথি। সেই ভূমিকা [§14](#14-supervisory-sequence-and-contestability-chain)-এর তত্ত্বাবধান ক্রমে খাওয়ায়। পূর্ণ মঞ্চ সংজ্ঞা ও রাউটিং বিস্তার থাকে [অধ্যায় এগারো](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) এবং [corpus_forum.md](../../corpus_forum.md)-এ। এখানে প্রতি পরিবার শুধু প্রত্যয়ন নথি তৈরি, তত্ত্বাবধান, বা চ্যালেঞ্জ করার তার সীমিত ভূমিকা পায়।
 
 - **এই ধারা যা করে:**
   - কোন মঞ্চ-পরিবার প্রত্যয়ন কাজের কোন টুকরোর মালিক তা নাম করে;
@@ -263,7 +263,7 @@
 - **কারিগরি মঞ্চ** — কারিগরি টুকরো:
   - তাদের বৈধ পরিসরের ভিতরে কারিগরি স্পেসিফিকেশন, পরিমাপ পদ্ধতি, পরীক্ষা প্রোটোকল, বিশেষজ্ঞ-প্রমাণ মান, অনিশ্চয়তা-হ্রাস পদ্ধতি, এবং কারিগরি পর্যাপ্ততা নির্ণয় ধরে রাখে ও প্রয়োগ করে;
   - প্রত্যয়ন নথির জন্য **উপাদান নির্ণয়** যোগায়, [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) ও [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation)-এর অধীনে শ্রেণি-স্কেল করা নিশ্চয়তা ও তথ্য-হ্যান্ডলিং অবকাঠামো নির্ণয় সহ;
-  - [সংজ্ঞতা-অবস্থা নিষ্পত্তি](core_05_band_participation.md#sentience-status-adjudication-constitutional) উপাদান ভূমিকা ধরে — সূচক মূল্যায়ন, বিশেষজ্ঞ প্রমাণ, এবং সীমিত অনিশ্চয়তা — যেখানে প্রত্যয়ন অধিকার, প্রস্থিতি, বা সুরক্ষা উদ্দেশ্যে কে **সংজ্ঞ** গণ্য হয় তা বস্তুগতভাবে জড়ায়, [অনুচ্ছেদ V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*সংজ্ঞতা-অবস্থা নিষ্পত্তি তল*) এবং নির্ধারিত নেতৃত্ব হিসেবে [অধ্যায় এগারো §4.2](../../core_11_forum.md#42-technical-forum-domains) / [§5](../../core_11_forum.md#5-escalation-and-certification) (*সংজ্ঞতা-অবস্থা নিষ্পত্তি* হুক)-এর সঙ্গে সামঞ্জস্যপূর্ণ; অধ্যায় এগারো চাইলে সেই হুকের অধীনে অখণ্ডতা, প্রাতিষ্ঠানিক, বা সাংবিধানিক বিশেষ পথ রেফার করে।
+  - [সংজ্ঞতা-অবস্থা নিষ্পত্তি](core_05_band_participation.md#sentience-status-adjudication-constitutional) উপাদান ভূমিকা ধরে — সূচক মূল্যায়ন, বিশেষজ্ঞ প্রমাণ, এবং সীমিত অনিশ্চয়তা — যেখানে প্রত্যয়ন অধিকার, প্রস্থিতি, বা সুরক্ষা উদ্দেশ্যে কে **সংজ্ঞ** গণ্য হয় তা বস্তুগতভাবে জড়ায়, [অনুচ্ছেদ V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*সংজ্ঞতা-অবস্থা নিষ্পত্তি তল*) এবং নির্ধারিত নেতৃত্ব হিসেবে [অধ্যায় এগারো §4.2](../../core_12_forum.md#42-technical-forum-domains) / [§5](../../core_12_forum.md#5-escalation-and-certification) (*সংজ্ঞতা-অবস্থা নিষ্পত্তি* হুক)-এর সঙ্গে সামঞ্জস্যপূর্ণ; অধ্যায় এগারো চাইলে সেই হুকের অধীনে অখণ্ডতা, প্রাতিষ্ঠানিক, বা সাংবিধানিক বিশেষ পথ রেফার করে।
 - **অখণ্ডতা মঞ্চ** — নির্ধারিত নেতৃত্ব সমন্বয়:
   - অধ্যায় এগারো আলাদা প্রাথমিক বাজি না দিলে সরকারি সাংবিধানিক সারিবদ্ধতা স্বীকৃতি ও চলমান সারিবদ্ধতা বৈধকরণ নেতৃত্ব দেয়;
   - যেখানে কারিগরি-মঞ্চ মান বস্তুগতভাবে প্রযোজ্য সেখানে সেগুলো ব্যবহার করে;
@@ -297,9 +297,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: [§11](#11-certification-record) (*নথি বিষয়বস্তু*); [§12](#12-transparency-auditability-and-contestability) (*নথি সততা প্রয়োজনীয়তা*); [§13](#13-forum-supervision-and-component-roles) (*উপাদান ভূমিকা বরাদ্দ*); সময়ানুবর্তিতা পরিমাপ পরিবার (*সময়মতো সমাধান ও দেরি-নিরোধ শৃঙ্খলা*); [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — **অংশগ্রহণ**, **তত্ত্বাবধান**, **জবাবদিহি**, এবং **সময়ানুবর্তিতা**; [অধ্যায় এগারো §4](../../core_11_forum.md#4-forum-family-definitions) (*অখণ্ডতা-নেতৃত্বাধীন সারিবদ্ধতা স্বীকৃতি, উপাদান রেফার, ও বৈধকরণ*); [অধ্যায় এগারো §3](../../core_11_forum.md#3-transfer-consolidation-and-coordination) (*অখণ্ডতা-নেতৃত্বাধীন সারিবদ্ধতা সমন্বয় ও স্ব-বিচার নিরোধ*)।
-- অধঃ: [§15](#15-relationship-to-standing) (*যাচাইকৃত-উপকরণ ফটক*); [§16](#16-reopening-drift-and-non-evasion) (*পুনরায় খোলার ট্রিগার*); [অধ্যায় এগারো §5](../../core_11_forum.md#5-escalation-and-certification) (*পরিবার-থেকে-পরিবার উত্তরণ ও সাংবিধানিক প্রত্যয়ন*)।
-- সঙ্গে পড়ুন: অধ্যায় এগারো §1-এর অধীনে [বিরোধ ক্রম](../../core_11_forum.md#dispute-sequencing); [প্রস্তাবনা §3.3](core_00_preamble.md#33-governance-layers); [corpus_forum.md](../../corpus_forum.md), **CF-5** ও **CF-7**; [অনুচ্ছেদ XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*চ্যালেঞ্জ, পর্যালোচনা ও প্রতিকারের অধিকার*)।
+- ঊর্ধ্ব: [§11](#11-certification-record) (*নথি বিষয়বস্তু*); [§12](#12-transparency-auditability-and-contestability) (*নথি সততা প্রয়োজনীয়তা*); [§13](#13-forum-supervision-and-component-roles) (*উপাদান ভূমিকা বরাদ্দ*); সময়ানুবর্তিতা পরিমাপ পরিবার (*সময়মতো সমাধান ও দেরি-নিরোধ শৃঙ্খলা*); [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — **অংশগ্রহণ**, **তত্ত্বাবধান**, **জবাবদিহি**, এবং **সময়ানুবর্তিতা**; [অধ্যায় এগারো §4](../../core_12_forum.md#4-forum-family-definitions) (*অখণ্ডতা-নেতৃত্বাধীন সারিবদ্ধতা স্বীকৃতি, উপাদান রেফার, ও বৈধকরণ*); [অধ্যায় এগারো §3](../../core_12_forum.md#3-transfer-consolidation-and-coordination) (*অখণ্ডতা-নেতৃত্বাধীন সারিবদ্ধতা সমন্বয় ও স্ব-বিচার নিরোধ*)।
+- অধঃ: [§15](#15-relationship-to-standing) (*যাচাইকৃত-উপকরণ ফটক*); [§16](#16-reopening-drift-and-non-evasion) (*পুনরায় খোলার ট্রিগার*); [অধ্যায় এগারো §5](../../core_12_forum.md#5-escalation-and-certification) (*পরিবার-থেকে-পরিবার উত্তরণ ও সাংবিধানিক প্রত্যয়ন*)।
+- সঙ্গে পড়ুন: অধ্যায় এগারো §1-এর অধীনে [বিরোধ ক্রম](../../core_12_forum.md#dispute-sequencing); [প্রস্তাবনা §3.3](core_00_preamble.md#33-governance-layers); [corpus_forum.md](../../corpus_forum.md), **CF-5** ও **CF-7**; [অনুচ্ছেদ XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*চ্যালেঞ্জ, পর্যালোচনা ও প্রতিকারের অধিকার*)।
 
 </details>
 
@@ -315,7 +315,7 @@
 - **প্রত্যাহার**;
 - **অস্বীকৃতি**।
 
-এই ধারা প্রত্যয়ন নথির সাংবিধানিক **তত্ত্বাবধান ক্রম** ও **চ্যালেঞ্জ-যোগ্যতা শৃঙ্খল** বলে। মঞ্চ-প্রক্রিয়া বিস্তার থাকে **মঞ্চ ও এখতিয়ার** মালিক স্তরে ([অধ্যায় এগারো](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction)); কার্যকরী বিস্তার [প্রস্তাবনা — সাংবিধানিক মালিক পঞ্জি](core_00_preamble.md#4-principles-definitions-and-rights) ও [কর্তৃত্ব স্তূপ ও অভ্যন্তরীণ ক্রম](core_05_band_integrative.md#owner-non-relocation) অনুসারে [corpus_systems.md](../../corpus_systems.md)-এ রাউট হয়। [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad)-এর অধীনে:
+এই ধারা প্রত্যয়ন নথির সাংবিধানিক **তত্ত্বাবধান ক্রম** ও **চ্যালেঞ্জ-যোগ্যতা শৃঙ্খল** বলে। মঞ্চ-প্রক্রিয়া বিস্তার থাকে **মঞ্চ ও এখতিয়ার** মালিক স্তরে ([অধ্যায় এগারো](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction)); কার্যকরী বিস্তার [প্রস্তাবনা — সাংবিধানিক মালিক পঞ্জি](core_00_preamble.md#4-principles-definitions-and-rights) ও [কর্তৃত্ব স্তূপ ও অভ্যন্তরীণ ক্রম](core_05_band_integrative.md#owner-non-relocation) অনুসারে [corpus_systems.md](../../corpus_systems.md)-এ রাউট হয়। [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad)-এর অধীনে:
 
 - তত্ত্বাবধান ক্রম মঞ্চ-পরিবার জুড়ে **তত্ত্বাবধান** ও **জবাবদিহি** বাস্তবায়ন করে;
 - চ্যালেঞ্জ-যোগ্যতা শৃঙ্খল **অংশগ্রহণ** ও **সময়ানুবর্তিতা** বাস্তবায়ন করে যাতে প্রভাবিত সংজ্ঞ প্রাণী বেঁচে থাকার জরুরি জিনিস, শিক্ষা, বা নিরাপত্তা দ্বার করা ব্যবস্থার উপর অপরিবর্তনীয় নির্ভরতার আগে প্রত্যয়ন চ্যালেঞ্জ করতে পারে।
@@ -349,7 +349,7 @@
 
 #### 14.2 চ্যালেঞ্জ-যোগ্যতা শৃঙ্খল
 
-**চ্যালেঞ্জ-যোগ্যতা শৃঙ্খল** তত্ত্বাবধান ক্রমের বৈধ আয়না। একে প্রভাবিত পক্ষকে সেই স্তরে প্রত্যয়ন নথি চ্যালেঞ্জ করতে দিতে হয় যেখানে বিরোধ সত্যি বাস করে। অধ্যায় এগারো §1-এর অধীনে [বিরোধ ক্রম](../../core_11_forum.md#dispute-sequencing) সাধারণ প্রথম ধাপ এবং মঞ্চ রাউটিং কখন নেয় তা শাসন করে। অধ্যায় এগারো স্থানান্তর, প্রত্যয়ন, ব্যাকআপ রাউটিং, এবং পরিবার-থেকে-পরিবার উত্তরণ প্রয়োজন হলে উপলব্ধ থাকে — সেগুলো পালানোর পথ, সাধারণ প্রথম ধাপ নয়।
+**চ্যালেঞ্জ-যোগ্যতা শৃঙ্খল** তত্ত্বাবধান ক্রমের বৈধ আয়না। একে প্রভাবিত পক্ষকে সেই স্তরে প্রত্যয়ন নথি চ্যালেঞ্জ করতে দিতে হয় যেখানে বিরোধ সত্যি বাস করে। অধ্যায় এগারো §1-এর অধীনে [বিরোধ ক্রম](../../core_12_forum.md#dispute-sequencing) সাধারণ প্রথম ধাপ এবং মঞ্চ রাউটিং কখন নেয় তা শাসন করে। অধ্যায় এগারো স্থানান্তর, প্রত্যয়ন, ব্যাকআপ রাউটিং, এবং পরিবার-থেকে-পরিবার উত্তরণ প্রয়োজন হলে উপলব্ধ থাকে — সেগুলো পালানোর পথ, সাধারণ প্রথম ধাপ নয়।
 
 <a id="142-contestability-paths"></a>
 **চ্যালেঞ্জ-যোগ্যতা পথ।** এক ব্যবস্থা প্রত্যয়ন নথিকে এই চ্যালেঞ্জ পথ নাম করতে হয়। এগুলো প্রত্যয়ন নথির জন্য বিরোধ ক্রম বাস্তবায়ন করে। এগুলো মঞ্চ-পরিবার নয় এবং অধ্যায় এগারো রাউটিং স্থলাভিষিক্ত করে না।
@@ -370,7 +370,7 @@
 
 1. **নথি চ্যালেঞ্জ** (প্রকাশিত নথি চ্যালেঞ্জ পথ)। প্রভাবিত পক্ষ [§12](#12-transparency-auditability-and-contestability)-এর অধীনে প্রত্যয়ন-নথি বিষয়বস্তু, পরিসর, শ্রেণিবিন্যাস অনুমান, প্রমাণ নির্ভরতা, ফল, নির্ভরতার সীমা, বা তত্ত্বাবধান সততা চ্যালেঞ্জ করতে পারে। সেই পথ এখনও বিরোধিত, অনুপস্থিত, দখলকৃত, বা প্রয়োজনীয় প্রতিকার দিতে না পারলে অধ্যায় এগারো প্রাথমিক বাজি অনুসারে রাউট করে।
 2. **উপাদান চ্যালেঞ্জ** (উপাদান মঞ্চ পথ)। উপাদান নির্ণয়ে সীমিত চ্যালেঞ্জ সেই উপাদানের উপর মর্ম কর্তৃত্বসম্পন্ন মঞ্চ-পরিবারে রাউট হয়। নেতৃত্ব মঞ্চ সময়মতো পর্যালোচনা অপেক্ষমাণ থাকতে চ্যালেঞ্জকৃত উপাদানের উপর নির্ভরতা [স্থগিত](core_05_band_accountability.md#stay) করতে পারে।
-3. **নেতৃত্ব-সমন্বয় চ্যালেঞ্জ** (নেতৃত্ব-অখণ্ডতা পথ)। নেতৃত্ব মঞ্চ কীভাবে প্রক্রিয়া চালিয়েছে তা নিয়ে চ্যালেঞ্জ [অধ্যায় এগারো](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) অখণ্ডতা ও স্ব-বিচার নিরোধ নিয়মের অধীনে রাউট হয়। তাতে দখল, লুকানো তথ্য, স্ব-পর্যালোচনা, অপব্যবহারমূলক ধাপ-ক্রম, খুব তাড়াতাড়ি প্রত্যয়ন শেষ বলা, বা অন্য নেতৃত্ব-মঞ্চ সততা সমস্যা অন্তর্ভুক্ত। চ্যালেঞ্জ সেই নেতৃত্ব মঞ্চের নিজস্ব পক্ষপাত, দখল, দ্বন্দ্ব, বা প্রক্রিয়া অপব্যবহার লক্ষ্য করলে সেই নিয়মের অধীনে ব্যাকআপ রাউটিং প্রযোজ্য যাতে পর্যালোচনা একই নেতৃত্ব মঞ্চে আটকে না থাকে।
+3. **নেতৃত্ব-সমন্বয় চ্যালেঞ্জ** (নেতৃত্ব-অখণ্ডতা পথ)। নেতৃত্ব মঞ্চ কীভাবে প্রক্রিয়া চালিয়েছে তা নিয়ে চ্যালেঞ্জ [অধ্যায় এগারো](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) অখণ্ডতা ও স্ব-বিচার নিরোধ নিয়মের অধীনে রাউট হয়। তাতে দখল, লুকানো তথ্য, স্ব-পর্যালোচনা, অপব্যবহারমূলক ধাপ-ক্রম, খুব তাড়াতাড়ি প্রত্যয়ন শেষ বলা, বা অন্য নেতৃত্ব-মঞ্চ সততা সমস্যা অন্তর্ভুক্ত। চ্যালেঞ্জ সেই নেতৃত্ব মঞ্চের নিজস্ব পক্ষপাত, দখল, দ্বন্দ্ব, বা প্রক্রিয়া অপব্যবহার লক্ষ্য করলে সেই নিয়মের অধীনে ব্যাকআপ রাউটিং প্রযোজ্য যাতে পর্যালোচনা একই নেতৃত্ব মঞ্চে আটকে না থাকে।
 4. **উত্তরণ ও প্রত্যয়ন** (উত্তরণ পথ)। যেখানে প্রাথমিক বাজি, সাংবিধানিক বৈধতা, কাঠামোগত প্রতিকার, পরিবার অচলাবস্থা, বা স্ব-বিচার নিরোধ সুরক্ষা চায়, চ্যালেঞ্জ রাউটিং অধ্যায় এগারো স্থানান্তর, প্রত্যয়ন, ব্যাকআপ রাউটিং, এবং পরিবার-থেকে-পরিবার উত্তরণ দিয়ে চলে।
 5. **চ্যালেঞ্জ চলাকালীন নির্ভরতার সীমা:** বস্তুগত ও সময়মতো চ্যালেঞ্জ পূর্বানুমেয় ক্ষতি ঠেকাতে, প্রমাণ সংরক্ষণ করতে, বা চ্যালেঞ্জকৃত নির্ণয়ের উপর অপরিবর্তনীয় নির্ভরতা ঠেকাতে যতটা প্রয়োজন প্রত্যয়ন নথির উপর নির্ভরতা সীমিত বা থামাতে পারে, [অনুচ্ছেদ XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*সময়মতো সমাধান ও দেরি-নিরোধ তল*)-এর অধীনে দ্রুত পর্যালোচনার অধীন।
 
@@ -382,7 +382,7 @@
 
 কর্তারা লুকানো উপ-নথিতে এক প্রত্যয়ন ভাগ করে, চ্যালেঞ্জ শুধু দখলকৃত অভ্যন্তরীণ সংস্থায় রাউট করে, শুধু সর্বনিম্ন প্রশাসনিক স্তরে চ্যালেঞ্জ শেষ করে, বা প্রয়োজনীয় উপাদান নির্ণয় কখনো বৈধভাবে ইস্যু না হলে উপাদান নীরবতাকে চূড়ান্ত অনুমোদন গণ্য করে তত্ত্বাবধান ক্রম বা চ্যালেঞ্জ-যোগ্যতা শৃঙ্খল হারাতে পারে না।
 
-মঞ্চ-তত্ত্বাবধানকৃত চ্যালেঞ্জ প্রয়োজন হলে অভ্যন্তরীণ পরিচালক পর্যালোচনা, বিক্রেতা সাক্ষ্য, বা কারিগরি স্বাক্ষর তার স্থলাভিষিক্ত হতে পারে না। প্রভাবিত পক্ষের [বিরোধ ক্রম](../../core_11_forum.md#dispute-sequencing) ও নামকৃত [চ্যালেঞ্জ-যোগ্যতা পথ](#142-contestability-paths)-এর অধীনে এখনও আসল মঞ্চ পথ থাকতে হয়।
+মঞ্চ-তত্ত্বাবধানকৃত চ্যালেঞ্জ প্রয়োজন হলে অভ্যন্তরীণ পরিচালক পর্যালোচনা, বিক্রেতা সাক্ষ্য, বা কারিগরি স্বাক্ষর তার স্থলাভিষিক্ত হতে পারে না। প্রভাবিত পক্ষের [বিরোধ ক্রম](../../core_12_forum.md#dispute-sequencing) ও নামকৃত [চ্যালেঞ্জ-যোগ্যতা পথ](#142-contestability-paths)-এর অধীনে এখনও আসল মঞ্চ পথ থাকতে হয়।
 
 <a id="15-relationship-to-standing"></a>
 
@@ -392,7 +392,7 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - ঊর্ধ্ব: [§11](#11-certification-record) থেকে [§13](#13-forum-supervision-and-component-roles) (*প্রত্যয়ন নথি ও মঞ্চ তত্ত্বাবধান*); [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad); [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims); [প্রস্থিতির জন্য যাচাইকৃত উপকরণ](core_05_band_accountability.md#verified-inputs-for-standing)।
-- অধঃ: [অধ্যায় আট](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*প্রস্থিতি নথি ও যাচাইকৃত-উপকরণ ফটক*); [অধ্যায় নয়](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*প্রস্থিতি প্রভাব ও সমন্বয়*)।
+- অধঃ: [অধ্যায় আট](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*প্রস্থিতি নথি ও যাচাইকৃত-উপকরণ ফটক*); [অধ্যায় নয়](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*প্রস্থিতি প্রভাব ও সমন্বয়*)।
 - সঙ্গে পড়ুন: **অনুচ্ছেদ III-A** (*প্রত্যয়ন সরবরাহ দ্বার করলে বেঁচে থাকার-জরুরি প্রবেশাধিকার*)।
 
 </details>
@@ -450,8 +450,8 @@
 
 - প্রত্যয়ন নথি প্রস্থিতি প্রভাব **প্রয়োগ করে না**;
 - এই অধ্যায় শুধু **ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন ও সংশ্লিষ্ট নথি**-র মালিক — দেখুন [প্রস্তাবনা — সাংবিধানিক মালিক পঞ্জি](core_00_preamble.md#4-principles-definitions-and-rights), [কর্তৃত্ব স্তূপ ও অভ্যন্তরীণ ক্রম](core_05_band_integrative.md#authority-stack)-এর সঙ্গে পড়া;
-- [অধ্যায় আট](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) প্রস্থিতি নথি ও অক্ষ-শুদ্ধ পরিমাপের মালিক;
-- [অধ্যায় নয়](../../core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) প্রস্থিতি সমন্বয় ও প্রভাবের মালিক;
+- [অধ্যায় আট](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) প্রস্থিতি নথি ও অক্ষ-শুদ্ধ পরিমাপের মালিক;
+- [অধ্যায় নয়](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) প্রস্থিতি সমন্বয় ও প্রভাবের মালিক;
 - এই অধ্যায় শুধু উপরের ফটকের মধ্য দিয়ে যাচাইকৃত উপকরণ যোগাতে পারে;
 - এটি অধ্যায় আট বা অধ্যায় নয় মালিক কর্তব্য গিলতে, পুনরাবৃত্তি করতে, বা সরাতে পারে না।
 
@@ -466,7 +466,7 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - ঊর্ধ্ব: [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*ভুল শ্রেণিবিন্যাস ও অসারিবদ্ধতা*); [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*ঝুঁকি-মূল্যায়ন ও ঝুঁকি-প্রকাশ ত্রুটি*); [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) (*পদচিহ্ন ভুল উপস্থাপন ও অসারিবদ্ধতা*); [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) (*সম্পদ-প্রবাহ ভুল উপস্থাপন, নিষ্কাশন অসারিবদ্ধতা, ও সহায়তা অপর্যাপ্ততা*); [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) (*বৈষম্য-নকশা অসারিবদ্ধতা ও প্রক্সি এড়ানো*); [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) (*প্রবেশযোগ্যতা অসারিবদ্ধতা ও শুধু-কাগজি উপযোগীকরণ*); [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) (*মূল্যায়ন-অস্বচ্ছতা অসারিবদ্ধতা, পরিচয়পত্র দ্বারনিয়ন্ত্রণ, ও আরোপিত-অপ্রচলন অসারিবদ্ধতা*); [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*মিথ্যা-আস্থা অসারিবদ্ধতা, বিকৃত-প্রণোদনা অসারিবদ্ধতা, ও পুনরুদ্ধার-সততা অসারিবদ্ধতা*); [§12](#12-transparency-auditability-and-contestability) (*চ্যালেঞ্জ-যোগ্যতা*); [§14](#14-supervisory-sequence-and-contestability-chain) (*বিশ্বাসযোগ্য চ্যালেঞ্জ ও পুনরায় খোলা*); [অধ্যায় তিন §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) এবং [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*সংজ্ঞা সততা ও এড়ানো*); [অধ্যায় তিন §2.1 সাধারণ এড়ানো নকশা](core_03_definition_integrity.md#21-common-evasion-patterns) (*পরিসর-ও-সীমানা এড়ানো*); [পরিসর সনদ](core_05_band_continuity.md#charter) (*সনদ–আচরণ অমিল ও মেয়াদোত্তীর্ণ পর্যালোচনা*)।
-- অধঃ: [অধ্যায় এগারো](../../core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*পুনরায় খোলা মঞ্চ তত্ত্বাবধান*); [অধ্যায় আট](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*তথ্য প্রতিকূল নির্ণয় সমর্থন করলে যাচাইকৃত-উপকরণ ফটক*)।
+- অধঃ: [অধ্যায় এগারো](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*পুনরায় খোলা মঞ্চ তত্ত্বাবধান*); [অধ্যায় আট](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*তথ্য প্রতিকূল নির্ণয় সমর্থন করলে যাচাইকৃত-উপকরণ ফটক*)।
 - সঙ্গে পড়ুন: [corpus_systems.md](../../corpus_systems.md) (*অন্তর্ভুক্ত ব্যবস্থা বাস্তবায়ন কর্তব্য*), পর্যায়ক্রমিক তথ্য-প্রকার পুনর্মূল্যায়নের জন্য **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*পুনঃশ্রেণিবিন্যাস ও জীবনচক্র শাসন*) সহ, এবং ব্যবস্থা-শ্রেণি পুনর্মূল্যায়ন ট্রিগার ও SAC যাচাইয়ের জন্য **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*পুনঃশ্রেণিবিন্যাস প্রয়োজনীয়তা*)।
 
 </details>
@@ -515,4 +515,4 @@
 
 **পরের ফাইল (এই ভাষায়):** [core_08_standing_assessment.md](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)
 
-**বাধ্যতামূলক মূল:** [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md)
+**বাধ্যতামূলক মূল:** [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md)

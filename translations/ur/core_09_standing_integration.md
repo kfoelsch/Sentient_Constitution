@@ -6,7 +6,7 @@
 
 > نیچے کا مواد **صرف قارئین کی رہنمائی** ہے۔ یہ اس فائل یا دیگر ابواب میں پابند فرائض نہیں بڑھاتا، گھٹاتا یا تنگ کرتا۔
 >
-> یہ فائل [انگریزی باب نہم](../../core_09_standing_integration.md) کا **قارئین کی زبان کا پائلٹ** ہے۔ یہ شعوری آئین کا **پابند حصہ نہیں**۔ یہ **دوسرا آئین نہیں**۔ یہ **ارسال ایڈیشن نہیں**۔ یہ `SC-Corpus-2026.08.09` پر **پن** ہے۔ اگر یہ ترجمہ اور انگریزی اصل میں اختلاف نظر آئے تو نمبر والی [`core_09_standing_integration.md`](../../core_09_standing_integration.md) جیتتی ہے۔ پڑھنے کا ترتیب اور ایڈیشن میٹاڈیٹا [README.md](../../README.md) میں رہتے ہیں۔ طریقہ اور لغت: [translations/ur/README.md](README.md)۔
+> یہ فائل [انگریزی باب نہم](../../core_10_standing_integration.md) کا **قارئین کی زبان کا پائلٹ** ہے۔ یہ شعوری آئین کا **پابند حصہ نہیں**۔ یہ **دوسرا آئین نہیں**۔ یہ **ارسال ایڈیشن نہیں**۔ یہ `SC-Corpus-2026.08.09` پر **پن** ہے۔ اگر یہ ترجمہ اور انگریزی اصل میں اختلاف نظر آئے تو نمبر والی [`core_09_standing_integration.md`](../../core_10_standing_integration.md) جیتتی ہے۔ پڑھنے کا ترتیب اور ایڈیشن میٹاڈیٹا [README.md](../../README.md) میں رہتے ہیں۔ طریقہ اور لغت: [translations/ur/README.md](README.md)۔
 >
 > اس میں **باب نہم** ہے، کیفیت زنجیر کا انضمام اور نتیجہ تہہ۔ [باب ہشتم](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) منفرد طور پر تصدیق شدہ حقائق، کیفیت کے ریکارڈ، کیفیت کی پیمائش، اور شراکت محور و خلاف ورزی محور کے ہر خانے کا مالک ہے۔ یہ باب ان ان پٹ کو ثابت مانتا ہے اور سوال 3 کا جواب دیتا ہے: آگے کیا ہوتا ہے۔ [باب دہم](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) صرف یہ فیصلہ کرتا ہے کہ اہل `s = 7`، `s = 8`، یا `s = 9` خلاف ورزی کو مماثل آئین مخالف بدسلوکی نامزدگی ملتی ہے یا نہیں۔
 
@@ -208,7 +208,7 @@
 
 **راستے کا امتیاز — حکمرانی-ووٹ بمقابل متاثر فریق-شرکت:**
 
-- **حکمرانی-ووٹ** حکمرانی ووٹ میں شرکت اور [باب دوازدهم §4.1](../../core_12_governance.md#41-entitlement-and-eligibility) کے تحت ملتے جلتے جواز طریقے کی پابند اجتماعی پسند گھیرتا ہے، بشمول **بنیادی آئینی انتخاب**۔ اس میں پہلے سے مجاز نظام، ادارہ، یا محدود فیصلہ دائرے کے اندر داؤ-وزن آواز شامل **نہیں**۔
+- **حکمرانی-ووٹ** حکمرانی ووٹ میں شرکت اور [باب دوازدهم §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) کے تحت ملتے جلتے جواز طریقے کی پابند اجتماعی پسند گھیرتا ہے، بشمول **بنیادی آئینی انتخاب**۔ اس میں پہلے سے مجاز نظام، ادارہ، یا محدود فیصلہ دائرے کے اندر داؤ-وزن آواز شامل **نہیں**۔
 - **متاثر فریق-شرکت** داؤ-وزن اثر، پابند متاثر فریق انتخاب، اور [متاثر فریق وزن](core_05_band_participation.md#stakeholder-weight) و [پابند متاثر فریق انتخاب](core_05_band_participation.md#binding-stakeholder-choice-cluster) کے تحت ملتے جلتے متاثر فریقوں کی نظامی شرکت راستے گھیرتی ہے۔ یہ خود [متاثر فریق](core_05_band_participation.md#stakeholder) حیثیت مٹا **نہیں** سکتی، اور **حکمرانی-ووٹ** تالے کا بدل **نہیں**۔
 
 جہاں تصدیق شدہ متاثر فریق-راستہ بگاڑ، قبضہ، جھوٹے داؤ کا غلط استعمال، یا جبری شرکت-وزن کھیل محرک ہو، [§5.5](#55-special-locks) کے تحت [متاثر فریق-شرکت کیفیت تالا](#55-special-locks) لاگو کرو۔
@@ -475,7 +475,7 @@
   - [متاثر فریق وزن](core_05_band_participation.md#stakeholder-weight) اور [پابند متاثر فریق انتخاب](core_05_band_participation.md#binding-stakeholder-choice-cluster) کے تحت متاثر نظام، ادارہ، یا محدود فیصلہ دائرے کے اندر ملتے جلتے متاثر فریقوں کی نظامی شرکت راستے۔
 - **بذاتِ خود محدود نہیں کرتا:**
   - [متاثر فریق](core_05_band_participation.md#stakeholder) حیثیت یا یہ پہچان کہ شعوری وجود مادی طور پر متاثر ہے؛
-  - **حکمرانی-ووٹ** راستہ، **بنیادی آئینی انتخاب**، یا [باب دوازدهم §4.1](../../core_12_governance.md#41-entitlement-and-eligibility) کے تحت ملتے جلتے جواز طریقے کی پابند اجتماعی پسند؛
+  - **حکمرانی-ووٹ** راستہ، **بنیادی آئینی انتخاب**، یا [باب دوازدهم §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) کے تحت ملتے جلتے جواز طریقے کی پابند اجتماعی پسند؛
   - حقوق کی تہہ کم از کم، بقا-نازک رسائی، یا آئینی طور پر مطلوب آڈٹ، چیلنج، اور تدارک راستے۔
 - **خطرہ:** متاثر فریق آواز کا جاری قبضہ یا بگاڑ، جھوٹے داؤ کی بالادستی، مجبور شرکت وزن، اور اسی یا متعلقہ دائروں میں متاثر فریق-راستہ غلط استعمال کی تکرار۔
 - **محفوظ موضوع یا مفادات:** متاثر متاثر فریق، پابند متاثر فریق انتخاب کی سالمیت، اور متعلقہ نظام، ادارہ، یا محدود فیصلہ دائرے کا غیر-قبضہ۔
@@ -807,10 +807,10 @@
 - ایک کمزور دفتر پر انحصار؛ یا
 - دائمی سنگ میل ناکامی۔
 
-**سالمیت**، **آئینی**، یا **ماحولیاتی** فورم بینچ، یا **تکنیکی فورم دائرے** بینچ جو شعوریت-حیثیت فیصلہ سنیں، کی کم تقرری اس ذیلی قطعے کے تحت پائیداری ناکامی ہے، [باب دوازدهم §1.2](../../core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums) کے ساتھ پڑھی۔
+**سالمیت**، **آئینی**، یا **ماحولیاتی** فورم بینچ، یا **تکنیکی فورم دائرے** بینچ جو شعوریت-حیثیت فیصلہ سنیں، کی کم تقرری اس ذیلی قطعے کے تحت پائیداری ناکامی ہے، [باب دوازدهم §1.2](../../core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums) کے ساتھ پڑھی۔
 
 <a id="92-remedy-parity-funding-floor"></a>
-**تدارک-برابری فنڈنگ تہہ۔** ہر نظام طبقے کے لیے جو اختیار کنندہ چلاتا ہے، تدارک، بحالی، اور دوبارہ جائزے کے لیے فنڈ شدہ صلاحیت اسی طبقے پر تالہ انتظام، نفاذ، اور ضمانت مسلط کرنے کے لیے فنڈ شدہ صلاحیت سے کم نہیں ہونی چاہیے۔ تناسب [§4.4](#44-remedy-parity-and-lock-preconditions) ٹرپ وائر اعداد کے ساتھ شائع ہونا چاہیے۔ اختیار کنندہ جو برابری سے ہٹے اسے [باب دوازدهم §3.1](../../core_12_governance.md#31-stewardship-direction) کے تحت وجوہات ریکارڈ کرنی چاہییں اور ریکارڈ پر دکھانا چاہیے کہ تدارک آغاز اور بحالی جائزہ پھر بھی اپنی درجہ گھڑیاں پوری کر رہے ہیں؛ بجٹ برابری چلے [§4.4](#44-remedy-parity-and-lock-preconditions) ٹرپ وائر کو معاف نہیں کرتی، اور پورا ٹرپ وائر برابری سے خاموش انحراف معاف نہیں کرتا۔ اختیار کنندہ جو نظام طبقے کے لیے تدارک فنڈ نہ کر سکے اس طبقے کے لیے تالہ مشینری کھڑی نہیں کر سکتا۔
+**تدارک-برابری فنڈنگ تہہ۔** ہر نظام طبقے کے لیے جو اختیار کنندہ چلاتا ہے، تدارک، بحالی، اور دوبارہ جائزے کے لیے فنڈ شدہ صلاحیت اسی طبقے پر تالہ انتظام، نفاذ، اور ضمانت مسلط کرنے کے لیے فنڈ شدہ صلاحیت سے کم نہیں ہونی چاہیے۔ تناسب [§4.4](#44-remedy-parity-and-lock-preconditions) ٹرپ وائر اعداد کے ساتھ شائع ہونا چاہیے۔ اختیار کنندہ جو برابری سے ہٹے اسے [باب دوازدهم §3.1](../../core_13_governance.md#31-stewardship-direction) کے تحت وجوہات ریکارڈ کرنی چاہییں اور ریکارڈ پر دکھانا چاہیے کہ تدارک آغاز اور بحالی جائزہ پھر بھی اپنی درجہ گھڑیاں پوری کر رہے ہیں؛ بجٹ برابری چلے [§4.4](#44-remedy-parity-and-lock-preconditions) ٹرپ وائر کو معاف نہیں کرتی، اور پورا ٹرپ وائر برابری سے خاموش انحراف معاف نہیں کرتا۔ اختیار کنندہ جو نظام طبقے کے لیے تدارک فنڈ نہ کر سکے اس طبقے کے لیے تالہ مشینری کھڑی نہیں کر سکتا۔
 
 <a id="93-cross-jurisdiction-continuity"></a>
 #### 9.3 دائرہ پار استمرار
@@ -838,7 +838,7 @@
 
 - بالائی: [§1](#1-immutable-chapter-eight-inputs) تا [§9](#9-enforcement-realism) (*باب ہشتم کے ناقابلِ تبدیلی ان پٹ سے نفاذ کی حقیقت پسندی اور تدارک کے نظام تک*)۔
 - ذیلی حصے: [§10.1](#101-informal-ecological-stewardship-competency-clearance)؛ [§10.2](#102-ecological-negligence-with-concealment)؛ [§10.3](#103-forum-integrity-deception-or-recusal-failure)؛ [§10.4](#104-recurrence-after-completed-restitution)؛ [§10.5](#105-champion-repair-while-a-lock-remains-active)؛ [§10.6](#106-institutional-vehicle-and-successor-evasion)؛ [§10.7](#107-misaligned-reward-retention)؛ [§10.8](#108-anti-constitutional-misconduct-allegation)؛ [§10.9](#109-rights-floor-waiver-or-unconstitutional-contract-devices)؛ [§10.10](#1010-contest-pathway-or-info-sphere-flooding)؛ [§10.11](#1011-infrastructure-denial-or-dependency-cutoff)؛ [§10.12](#1012-stakeholder-participation-corruption-or-false-stake-abuse)؛ [§10.13](#1013-obstruction-of-accountability)۔
-- ساتھ پڑھیں: [باب ہشتم §4.6](core_08_standing_assessment.md#46-question-2-measurement-illustrations) (*سوال 2 پیمائش مثالیں*)؛ [باب ہشتم–یازدهم اطلاق منظر](../../core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes) (*پوری زنجیر دائرہ واک تھرو*)؛ [باب دہم §5](../../core_10_b_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing) (*نامزدگی رخ نمونہ رخ — دو تہہ جڑواں؛ تالہ-قسم کیٹلاگ نہیں*)۔
+- ساتھ پڑھیں: [باب ہشتم §4.6](core_08_standing_assessment.md#46-question-2-measurement-illustrations) (*سوال 2 پیمائش مثالیں*)؛ [باب ہشتم–یازدهم اطلاق منظر](../../core_09-12_application_vignettes.md#chapters-eight-eleven-application-vignettes) (*پوری زنجیر دائرہ واک تھرو*)؛ [باب دہم §5](../../core_11_b_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing) (*نامزدگی رخ نمونہ رخ — دو تہہ جڑواں؛ تالہ-قسم کیٹلاگ نہیں*)۔
 
 </details>
 
@@ -940,7 +940,7 @@
   - [§4.2](#42-general-standing-locks) (*غلط استعمال شدہ اعتماد، کردار، کریڈٹ، یا اثر راستوں تک محدود عمومی کیفیت تالے*)؛
   - [§5.1](#51-definition-and-attachment) (*منسلکہ خانے*)؛ اور
   - [§5.4](#54-special-violation-rules) (*مزاحمت کا فرض* جہاں آلہ غیر قانونی یا آئین مخالف اطاعت مانگے)۔
-- **غیر قابلِ سودا:** یہ اشارہ [§5.5](#55-special-locks) کے تحت خاص تالا نہیں بناتا۔ شرط بطلان اور نامزدگی معیار [باب دہم §5.2](../../core_10_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms) میں رہتے ہیں۔ باب نہم تصدیق شدہ ریکارڈ سے عام نامزد راستہ تالے جوڑتا ہے؛ صرف حتمی نامزدگی [§10.8](#108-anti-constitutional-misconduct-allegation) کے تحت آئین مخالف اعتماد تالا چلاتی ہے۔
+- **غیر قابلِ سودا:** یہ اشارہ [§5.5](#55-special-locks) کے تحت خاص تالا نہیں بناتا۔ شرط بطلان اور نامزدگی معیار [باب دہم §5.2](../../core_11_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms) میں رہتے ہیں۔ باب نہم تصدیق شدہ ریکارڈ سے عام نامزد راستہ تالے جوڑتا ہے؛ صرف حتمی نامزدگی [§10.8](#108-anti-constitutional-misconduct-allegation) کے تحت آئین مخالف اعتماد تالا چلاتی ہے۔
 
 <a id="1010-contest-pathway-or-info-sphere-flooding"></a>
 #### 10.10 چیلنج-راستہ یا info-sphere بھر مار
@@ -951,7 +951,7 @@
   - [§4.2](#42-general-standing-locks) (*غلط استعمال شدہ رخ، دائر، درجہ بندی، رسائی، یا اثر راستوں پر حفاظتی نامزد راستہ تالے*)؛
   - [§5.1](#51-definition-and-attachment) اور [§5.2](#52-proportionality-and-calibration) (*ضروری، متناسب، جائزے کے قابل دائرہ*)؛ اور
   - [باب یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*عملی داخلہ چھانٹی اور کھیل مخالف — نگرانی بغیر کیفیت اثرات ایجاد کیے*)۔
-- **غیر قابلِ سودا:** یہ اشارہ بھر مار تالا یا دوسری [§5.5](#55-special-locks) قسم نہیں بناتا۔ نامزدگی رخ معیار رخ [باب دہم §5.3](../../core_10_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) اور [§5.4](../../core_10_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding) میں رہتا ہے۔ عام حفاظتی تالے ثابت ریکارڈ سے آگے بڑھتے ہیں خواہ نامزدگی بعد میں جڑے یا نہیں۔
+- **غیر قابلِ سودا:** یہ اشارہ بھر مار تالا یا دوسری [§5.5](#55-special-locks) قسم نہیں بناتا۔ نامزدگی رخ معیار رخ [باب دہم §5.3](../../core_11_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) اور [§5.4](../../core_11_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding) میں رہتا ہے۔ عام حفاظتی تالے ثابت ریکارڈ سے آگے بڑھتے ہیں خواہ نامزدگی بعد میں جڑے یا نہیں۔
 
 <a id="1011-infrastructure-denial-or-dependency-cutoff"></a>
 #### 10.11 بنیادی ڈھانچہ انکار یا انحصار کٹ آف
@@ -963,7 +963,7 @@
   - [§5.1](#51-definition-and-attachment) (*بشمول نیٹ ورک یا کنٹرول پوائنٹس سے علیحدگی جو کٹ آف خطرہ دوبارہ بنائیں*)؛
   - [§5.4](#54-special-violation-rules) (*جبری یا آزادی محدود کرنے والی ضمانتیں صرف جہاں تصدیق شدہ خطرہ جواز دے*)؛ اور
   - [§9](#9-enforcement-realism) (*تدارک نظام پائیداری اور فرار مخالف*)۔
-- **غیر قابلِ سودا:** یہ اشارہ [§5.5](#55-special-locks) کے تحت بنیادی ڈھانچہ تالا نہیں بناتا۔ نامزدگی رخ معیار رخ [باب دہم §5.9](../../core_10_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct) میں رہتا ہے۔ [§5.1](#51-definition-and-attachment) کے تحت عالمی غیر-پابندی حدیں اب بھی تقریر، عرضداشت، متاثر فریق شرکت، حقوق کی تہہ، اور بقا-نازک رسائی بچاتی ہیں جنہیں تالا مٹا نہیں سکتا۔
+- **غیر قابلِ سودا:** یہ اشارہ [§5.5](#55-special-locks) کے تحت بنیادی ڈھانچہ تالا نہیں بناتا۔ نامزدگی رخ معیار رخ [باب دہم §5.9](../../core_11_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct) میں رہتا ہے۔ [§5.1](#51-definition-and-attachment) کے تحت عالمی غیر-پابندی حدیں اب بھی تقریر، عرضداشت، متاثر فریق شرکت، حقوق کی تہہ، اور بقا-نازک رسائی بچاتی ہیں جنہیں تالا مٹا نہیں سکتا۔
 
 <a id="1012-stakeholder-participation-corruption-or-false-stake-abuse"></a>
 #### 10.12 متاثر فریق-شرکت بگاڑ یا جھوٹے داؤ کا غلط استعمال
@@ -985,7 +985,7 @@
   - [§5.4](#54-special-violation-rules) (*چھپاؤ، فرار، دھوکا، اور فرض سے جڑی شکل*)؛
   - [§5.5](#55-special-locks) (*فورم-خدمت کیفیت تالا صرف جب فورم-سالمیت / مطلوب-دستبرداری محرک [§10.3](#103-forum-integrity-deception-or-recusal-failure) کے تحت پورا ہو*)؛ اور
   - [§10.8](#108-anti-constitutional-misconduct-allegation) (*باب دہم گیٹ وے جب `s` = 7–9 اور آئین مخالف بدسلوکی مادی طور پر الزام ہو*)۔
-- **غیر قابلِ سودا:** یہ اشارہ رکاوٹ تالا یا دوسری [§5.5](#55-special-locks) قسم نہیں بناتا۔ رکاوٹ کردار کبھی خلاف ورزی محور خانہ نہیں ہلاتا۔ عام نامزد راستہ تالے کسی بھی خانے پر ثابت ریکارڈ سے آگے بڑھتے ہیں۔ نامزدگی رخ معیار رخ [باب دہم §5.11](../../core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) میں رہتا ہے؛ صرف حتمی نامزدگی [§10.8](#108-anti-constitutional-misconduct-allegation) کے تحت آئین مخالف اعتماد تالا چلاتی ہے۔ تصدیق شدہ رکاوٹ *رویے* کو ساختی حالت کے طور پر [حل راستوں کی ضبط](core_05_band_accountability.md#capture-of-resolution-pathways) سے الگ رکھو۔
+- **غیر قابلِ سودا:** یہ اشارہ رکاوٹ تالا یا دوسری [§5.5](#55-special-locks) قسم نہیں بناتا۔ رکاوٹ کردار کبھی خلاف ورزی محور خانہ نہیں ہلاتا۔ عام نامزد راستہ تالے کسی بھی خانے پر ثابت ریکارڈ سے آگے بڑھتے ہیں۔ نامزدگی رخ معیار رخ [باب دہم §5.11](../../core_11_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) میں رہتا ہے؛ صرف حتمی نامزدگی [§10.8](#108-anti-constitutional-misconduct-allegation) کے تحت آئین مخالف اعتماد تالا چلاتی ہے۔ تصدیق شدہ رکاوٹ *رویے* کو ساختی حالت کے طور پر [حل راستوں کی ضبط](core_05_band_accountability.md#capture-of-resolution-pathways) سے الگ رکھو۔
 
 <a id="1014-verified-cruelty-character"></a>
 #### 10.14 تصدیق شدہ ظلم کردار
@@ -1005,4 +1005,4 @@
 
 **اگلی فائل (اس زبان میں):** [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)
 
-**پابند اصل:** [core_09_standing_integration.md](../../core_09_standing_integration.md)
+**پابند اصل:** [core_09_standing_integration.md](../../core_10_standing_integration.md)

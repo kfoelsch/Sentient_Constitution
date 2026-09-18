@@ -53,7 +53,7 @@ Dải này giữ các định nghĩa **Tích hợp** cắt ngang trụ — các 
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: [Chương Hai §1 — Mục đích và vai trò](core_02_definition_structure.md#1-purpose-and-role); [Chương Hai §2 Yêu cầu tính toàn vẹn định nghĩa](core_02_definition_structure.md#2-definition-integrity-requirement); [Chương Ba §2 — Không tuân thủ từ hành vi hệ thống quan sát được](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior).
-- Hạ nguồn: [Chương Bốn §§1 và 4 — Cưỡng chế độc quyền và phân bổ gánh; Chuẩn bằng chứng tuân thủ](core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [Chương Tám — Mô hình đóng góp, vi phạm, và quỹ đạo](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); [Hồ sơ phát hiện không tuân thủ](core_05_band_accountability.md#non-compliance-finding-profile).
+- Hạ nguồn: [Chương Bốn §§1 và 4 — Cưỡng chế độc quyền và phân bổ gánh; Chuẩn bằng chứng tuân thủ](core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [Chương Tám — Mô hình đóng góp, vi phạm, và quỹ đạo](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model); [Hồ sơ phát hiện không tuân thủ](core_05_band_accountability.md#non-compliance-finding-profile).
 - Đọc cùng: [Chương Một §11.3 Phát hiện lệch lạc](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection) và [§11.4 Sửa lệch lạc và đáp ứng chiếm](core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response) — **lệch thẳng hàng hiến pháp** là phân kỳ quản trị có trách nhiệm và khuyến khích; nó không phải nhãn thay cho **không tuân thủ**; [Rủi ro dư / lệch thẳng hàng](core_05_band_continuity.md#residual-risk--misalignment) — rủi ro dư có giới hạn sau giảm thiểu; [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) — cầu chứng nhận ở Chương Bảy, không phải phán không tuân thủ chung.
 
 </details>
@@ -102,7 +102,7 @@ Dải này giữ các định nghĩa **Tích hợp** cắt ngang trụ — các 
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Hạ nguồn: Nguyên tắc: [Lời nói đầu §3.3 kỷ luật tầng quản trị](core_00_preamble.md#33-governance-layers); [Chương Một §5 Tự do](core_01_a_values_principles.md#5-freedom-bounded-agency).
-- Sàn chủ sở hữu: [Chương Mười Hai: Hợp đồng Hiến pháp, tính chính danh, ủy quyền, và quản trị có trách nhiệm](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship); [Điều IX-C: Tham gia quản trị và quyền phiếu](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
+- Sàn chủ sở hữu: [Chương Mười Hai: Hợp đồng Hiến pháp, tính chính danh, ủy quyền, và quản trị có trách nhiệm](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); [Điều IX-C: Tham gia quản trị và quyền phiếu](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
 - Thành phần cụm: [*Tầng Hợp đồng Hiến pháp và Lựa chọn hiến pháp nền tảng*](core_05_band_integrative.md#constitutional-contract-layer)
 - Đọc cùng: [Lựa chọn hiến pháp nền tảng](core_05_band_integrative.md#foundational-constitutional-choice), [Lựa chọn ràng buộc của bên bị ảnh hưởng](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Tư cách và trọng số bên bị ảnh hưởng](core_05_band_participation.md#stakeholder-status-and-weight-cluster), [Quản trị](core_05_band_accountability.md#governance).
 - Tầng: **Tầng Hợp đồng Hiến pháp (CCL)** — ai được quản trị, bằng cơ chế chính danh nào, trên điều khoản bền nào. Khác **Tham gia hệ thống của bên bị ảnh hưởng (SSP)**.
@@ -121,16 +121,16 @@ Dải này giữ các định nghĩa **Tích hợp** cắt ngang trụ — các 
 
     Nó gồm:
     - [Lựa chọn hiến pháp nền tảng](core_05_band_integrative.md#foundational-constitutional-choice);
-    - [cơ chế chính danh đã ghi](../../core_12_governance.md#1-authorization-and-legitimacy-of-governing-authority) dưới [Chương Mười Hai §1.1](../../core_12_governance.md#11-mechanism-families-auditability-and-pluralism);
-    - quy tắc [tiếp nhận](../../core_15_amendment_ratification.md#10-ratification-and-adoption) và [tái ủy quyền](../../core_12_governance.md#11-mechanism-families-auditability-and-pluralism) ([Chương Mười Hai §1.3](../../core_12_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails); [Chương Mười Sáu §4](../../core_16_incorporation.md#4-adoption-framing-and-scope-of-authority)); và
-    - [sàn bình đẳng chính trị](../../core_12_governance.md#41-entitlement-and-eligibility) để cấu thành hoặc tái cấu trúc bền quyền quản trị — các hữu tri có quyền có tiếng nói bằng nhau ở tầng đó ([Điều IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)).
+    - [cơ chế chính danh đã ghi](../../core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority) dưới [Chương Mười Hai §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism);
+    - quy tắc [tiếp nhận](../../core_16_amendment_ratification.md#10-ratification-and-adoption) và [tái ủy quyền](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) ([Chương Mười Hai §1.3](../../core_13_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails); [Chương Mười Sáu §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)); và
+    - [sàn bình đẳng chính trị](../../core_13_governance.md#41-entitlement-and-eligibility) để cấu thành hoặc tái cấu trúc bền quyền quản trị — các hữu tri có quyền có tiếng nói bằng nhau ở tầng đó ([Điều IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)).
   - **Ngoài phạm vi:**
     - tham vấn bên bị ảnh hưởng thường;
     - tham gia vận hành;
     - dùng hệ thống, gắn thương hiệu, hoặc hiện diện thị trường như vậy;
     - quản trị lĩnh vực thường sau khi cấu trúc và quy trình đã được ủy quyền; và
     - [Trọng số bên bị ảnh hưởng](core_05_band_participation.md#stakeholder-weight) thường — cho thêm tiếng nói cho những ai bị ảnh hưởng nhiều hơn — dùng để đặt phiếu thành lập hoặc tái ủy quyền ([Lời nói đầu §3.3 kỷ luật tầng quản trị](core_00_preamble.md#33-governance-layers)).
-  - **Nhà vận hành:** [Chương Mười Hai](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) nêu các quy tắc ủy quyền, tính chính danh, và quản trị có trách nhiệm ràng buộc cho tầng này.
+  - **Nhà vận hành:** [Chương Mười Hai](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) nêu các quy tắc ủy quyền, tính chính danh, và quản trị có trách nhiệm ràng buộc cho tầng này.
   - **Sàn Quyền:** [Điều IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement) (*Tham gia quản trị và quyền phiếu*) nêu quyền tham gia bằng nhau mà những quy tắc Chương Mười Hai đó không được thu hẹp.
 <a id="constitutional-contract-layer-a"></a>
 - **Cách đo và đánh giá**
@@ -138,7 +138,7 @@ Dải này giữ các định nghĩa **Tích hợp** cắt ngang trụ — các 
 
     **Đánh giá sơ cấp:**
     - Hỏi liệu vấn đề có phải câu hỏi Tầng Hợp đồng Hiến pháp: ủy quyền ai quản trị, bằng cơ chế chính danh nào, và trên điều khoản bền nào. Chức năng đó đánh dấu tầng này — không phải hệ thống lớn, ồn, hay được dùng rộng thế nào.
-    - Kiểm thẳng hàng hiến pháp của hợp đồng đó: thẩm quyền được tuyên phải khớp một [cơ chế chính danh đã ghi](../../core_12_governance.md#1-authorization-and-legitimacy-of-governing-authority), [sàn bình đẳng chính trị](../../core_12_governance.md#41-entitlement-and-eligibility) nơi lựa chọn nền tảng áp dụng, và các nghĩa vụ quản trị có trách nhiệm cùng Sàn Quyền giữ quyền quản trị phải trả lời dưới Hiến pháp này ([Chương Một §11.1 Yêu cầu thẳng hàng](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement)).
+    - Kiểm thẳng hàng hiến pháp của hợp đồng đó: thẩm quyền được tuyên phải khớp một [cơ chế chính danh đã ghi](../../core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority), [sàn bình đẳng chính trị](../../core_13_governance.md#41-entitlement-and-eligibility) nơi lựa chọn nền tảng áp dụng, và các nghĩa vụ quản trị có trách nhiệm cùng Sàn Quyền giữ quyền quản trị phải trả lời dưới Hiến pháp này ([Chương Một §11.1 Yêu cầu thẳng hàng](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement)).
     - Áp dụng [Lời nói đầu §3.3 kỷ luật tầng quản trị](core_00_preamble.md#33-governance-layers): giữ ủy quyền thành lập tách khỏi tham gia bên bị ảnh hưởng thường bên trong hệ thống đã được ủy quyền.
     - Đừng đối xử im lặng, chỉ dùng một hệ thống, hiện diện thị trường, hoặc gắn thương hiệu như Hợp đồng Hiến pháp hoặc như đồng thuận để bị quản trị.
 <a id="constitutional-contract-layer-c"></a>
@@ -158,7 +158,7 @@ Dải này giữ các định nghĩa **Tích hợp** cắt ngang trụ — các 
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Hạ nguồn: Nguyên tắc: [Chương Một §5 Tự do](core_01_a_values_principles.md#5-freedom-bounded-agency); [6. Giải quyết xung đột quy trình](#6-process-conflict-resolution).
-- Sàn chủ sở hữu: [Chương Mười Hai Chương Một §4.1](../../core_12_governance.md#41-entitlement-and-eligibility) (*Sàn bình đẳng chính trị cho lựa chọn hiến pháp nền tảng*; *Sàn tiếng nói chính trị bền*); [Điều IX-C: Tham gia quản trị và quyền phiếu](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
+- Sàn chủ sở hữu: [Chương Mười Hai Chương Một §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*Sàn bình đẳng chính trị cho lựa chọn hiến pháp nền tảng*; *Sàn tiếng nói chính trị bền*); [Điều IX-C: Tham gia quản trị và quyền phiếu](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
 - Thành phần cụm: [*Tầng Hợp đồng Hiến pháp và Lựa chọn hiến pháp nền tảng*](core_05_band_integrative.md#constitutional-contract-layer)
 - Đọc cùng: [Tầng Hợp đồng Hiến pháp](core_05_band_integrative.md#constitutional-contract-layer), [Giới hạn đại diện và trọng số bên bị ảnh hưởng (Lựa chọn ràng buộc của bên bị ảnh hưởng)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), [Lựa chọn ràng buộc của bên bị ảnh hưởng](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Công bằng thủ tục](core_05_band_participation.md#procedural-fairness-constitutional).
 - Tầng: **Tầng Hợp đồng Hiến pháp (CCL)**. Khác **Tham gia hệ thống của bên bị ảnh hưởng (SSP)** bên trong hệ thống đã được ủy quyền.
@@ -176,7 +176,7 @@ Dải này giữ các định nghĩa **Tích hợp** cắt ngang trụ — các 
     - phạm vi và điều khoản bền của quyền đó.
 
     Điều này thuộc [Tầng Hợp đồng Hiến pháp](core_05_band_integrative.md#constitutional-contract-layer).
-    - Chủ sở hữu: [Chương Mười Hai Chương Một §4.1](../../core_12_governance.md#41-entitlement-and-eligibility).
+    - Chủ sở hữu: [Chương Mười Hai Chương Một §4.1](../../core_13_governance.md#41-entitlement-and-eligibility).
     - Con trỏ tầng quyền: [Điều IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement) (*Tham gia quản trị và quyền phiếu*).
     - Áp dụng dưới [Không loại trừ hữu tri](core_05_band_participation.md#sentience-non-exclusion).
   - **Ngoài phạm vi:**
@@ -323,7 +323,7 @@ Dải này giữ các định nghĩa **Tích hợp** cắt ngang trụ — các 
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Hạ nguồn: Gia đình đo lường Trách nhiệm giải trình (*Thẳng hàng khuyến khích và tính toàn vẹn chỉ số thay thế như đo lường hiến pháp*); Nguyên tắc: [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) (kỷ luật chiếm Tứ diện dưới [§10](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); chia tỷ lệ theo [lợi hại vật chất](core_00_preamble.md#material-stake)); [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) và [§10 Quản trị dưới kỷ luật quản trị có trách nhiệm](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Hạ nguồn: Gia đình đo lường Trách nhiệm giải trình (*Thẳng hàng khuyến khích và tính toàn vẹn chỉ số thay thế như đo lường hiến pháp*); Nguyên tắc: [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) (kỷ luật chiếm Tứ diện dưới [§10](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); chia tỷ lệ theo [lợi hại vật chất](core_00_preamble.md#material-stake)); [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) và [§10 Quản trị dưới kỷ luật quản trị có trách nhiệm](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - Quy tắc tầng nguyên tắc: [Chương Một §11.1 Yêu cầu thẳng hàng](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement) và [Chương Một §11.2 Chỉ số thay thế tiện và lệch chỉ số thay thế](core_01_c_stewardship_capacity_principles.md#112-convenient-proxies-and-proxy-divergence); áp dụng quản trị có trách nhiệm và người vận hành: [Chương Một §11.1.3 Áp dụng quản trị có trách nhiệm và người vận hành](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) và [§11.1.4 Đường dẫn độ sâu vai trò và trách nhiệm vật chất](core_01_c_stewardship_capacity_principles.md#1114-role-depth-and-material-responsibility-pathways).
 - Phát hiện lệch lạc: [Chương Một §11.3 Phát hiện lệch lạc](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection).
 - Sửa chủ động và leo thang chiếm: [Chương Một §11.4 Sửa lệch lạc và đáp ứng chiếm](core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response).
@@ -576,7 +576,7 @@ Xem **Viện chung và thỏa**.
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Hạ nguồn: Nguyên tắc: [15. Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#15-integrated-application) (kho văn bản đọc như toàn thể tích hợp); [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) — trụ **giám sát**; [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims) — mục tiêu **Liên tục** dưới hợp nhất và lưu giữ; [2. Diễn giải hiến pháp](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) (nhận diện nguồn ràng buộc).
-- Hạ nguồn: [Chương Mười Sáu — Cầu hợp nhất](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*văn bản **triển khai** nào đã tiếp nhận là ràng buộc, ghim ấn bản, chuỗi lưu giữ, và kỷ luật chống lệch ấn bản*).
+- Hạ nguồn: [Chương Mười Sáu — Cầu hợp nhất](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*văn bản **triển khai** nào đã tiếp nhận là ràng buộc, ghim ấn bản, chuỗi lưu giữ, và kỷ luật chống lệch ấn bản*).
 - Đọc cùng: [Chồng thẩm quyền và thứ bậc nội bộ](core_05_band_integrative.md#authority-stack) và [Ràng buộc hiến pháp](core_05_band_integrative.md#constitutional-constraint).
 - Đọc cùng: [Lời nói đầu — sổ đăng ký chủ sở hữu hiến pháp](core_00_preamble.md#4-principles-definitions-and-rights) (*bản đồ dương lĩnh vực→chủ sở hữu*, các mục 4–7).
 
@@ -620,8 +620,8 @@ Xem **Viện chung và thỏa**.
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Hạ nguồn: Nguyên tắc: [2. Diễn giải hiến pháp](core_01_b_interaction_interpretation.md#8-constitutional-interpretation); [15. Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#15-integrated-application) (Chồng thẩm quyền đối Thứ bậc nội bộ đọc-cùng Chương Một).
-- Hạ nguồn: [Chương Một — §8 Diễn giải hiến pháp](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) (đọc tích hợp và thứ bậc phương sách cuối); [Chương Một §8.4 Giải xung đột nghĩa hiến pháp](core_01_b_interaction_interpretation.md#84-constitutional-meaning-conflict-resolution) (*một thủ tục xung đột đơn, kể cả tầng hợp nhất*); [Chương Mười Bốn — Thứ bậc nội bộ cho bên tiếp nhận](../../core_14_expansion_supremacy.md#31-internal-hierarchy-for-adopters); [Chương Mười Sáu](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) (*cầu hợp nhất — lưu giữ, ấn bản, tiếp nhận; không phải nhà chồng thứ hai hay thứ tự xung đột*).
-- Hạ nguồn: [Chương Sáu — Phạm vi tầng](../../core_06_rights_part_a.md#12-layer-scope); [Chương Mười Ba §4 Phạm vi tầng](../../core_13_non_regression.md#4-layer-scope) và [Chương Mười Lăm §12 Phạm vi tầng](../../core_15_amendment_ratification.md#12-layer-scope) (*không-dời chủ sở hữu áp dụng địa phương*); tuyên bố chủ sở hữu mở chương xuyên văn kiện `core_*` đánh số.
+- Hạ nguồn: [Chương Một — §8 Diễn giải hiến pháp](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) (đọc tích hợp và thứ bậc phương sách cuối); [Chương Một §8.4 Giải xung đột nghĩa hiến pháp](core_01_b_interaction_interpretation.md#84-constitutional-meaning-conflict-resolution) (*một thủ tục xung đột đơn, kể cả tầng hợp nhất*); [Chương Mười Bốn — Thứ bậc nội bộ cho bên tiếp nhận](../../core_15_expansion_supremacy.md#31-internal-hierarchy-for-adopters); [Chương Mười Sáu](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*cầu hợp nhất — lưu giữ, ấn bản, tiếp nhận; không phải nhà chồng thứ hai hay thứ tự xung đột*).
+- Hạ nguồn: [Chương Sáu — Phạm vi tầng](../../core_06_rights_part_a.md#12-layer-scope); [Chương Mười Ba §4 Phạm vi tầng](../../core_14_non_regression.md#4-layer-scope) và [Chương Mười Lăm §12 Phạm vi tầng](../../core_16_amendment_ratification.md#12-layer-scope) (*không-dời chủ sở hữu áp dụng địa phương*); tuyên bố chủ sở hữu mở chương xuyên văn kiện `core_*` đánh số.
 - Đọc cùng: [Kho văn bản](core_05_band_integrative.md#corpus); [Lời nói đầu — sổ đăng ký chủ sở hữu hiến pháp](core_00_preamble.md#4-principles-definitions-and-rights) (*bản đồ dương lĩnh vực→chủ sở hữu*, các mục 4–7); [Khả năng kiểm toán](core_05_band_oversight.md#auditability) và [Khả năng tranh biện](core_05_band_accountability.md#contestability) (*khả năng cưỡng chế thực tiễn của tuyên ràng buộc*); [Lời nói đầu §3.3](core_00_preamble.md#33-governance-layers) và [Tầng Hợp đồng Hiến pháp](core_05_band_integrative.md#constitutional-contract-layer) (*chống thay tầng quản trị*); [Ràng buộc hiến pháp](core_05_band_integrative.md#constitutional-constraint); **CJS-0.1** (*bộ định tuyến chủ đề triển khai*).
 
 </details>
@@ -633,7 +633,7 @@ Xem **Viện chung và thỏa**.
 - **Nó là gì**
   - **Trong phạm vi:** Quy tắc cặp trước hết quyết loại nguồn nào đang nói, và liệu nó ràng buộc, xuyên [Kho văn bản](core_05_band_integrative.md#corpus) vận hành — và chỉ rồi, nếu một xung đột thực còn lại bên trong Hiến pháp ràng buộc, cách giải nó. Các tầng nguồn gồm:
     - **nguồn hiến pháp ràng buộc** — [Lời nói đầu](core_00_preamble.md), [Chương Một](core_01_a_values_principles.md), và các chương đánh số khác của Hiến pháp này, đọc cùng như một văn kiện;
-    - **nguồn triển khai đã hợp nhất ràng buộc** — nghĩa vụ được chỉ định trong văn bản triển khai đã tiếp nhận, trong phạm vi tiếp nhận và hợp nhất hợp lệ dưới [Chương Mười Lăm](../../core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity) và [Chương Mười Sáu](../../core_16_incorporation.md#chapter-sixteen-incorporation-bridge); và
+    - **nguồn triển khai đã hợp nhất ràng buộc** — nghĩa vụ được chỉ định trong văn bản triển khai đã tiếp nhận, trong phạm vi tiếp nhận và hợp nhất hợp lệ dưới [Chương Mười Lăm](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) và [Chương Mười Sáu](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge); và
     - **nguồn hỗ trợ quy trình và bản đồ** — bản đồ kiến trúc, danh sách việc, và hồ sơ hồi quy hoặc bằng chứng (kể cả [doc_architecture.md](../../doc_architecture.md)), trừ khi một văn kiện tiếp nhận hợp lệ hợp nhất chúng rõ như ràng buộc.
 
     **Chồng thẩm quyền:** khung nguồn-thẩm-quyền đã xếp quản trị diễn giải hiến pháp, hiệu ứng tiếp nhận, và trạng thái tầng xuyên tầng hiến pháp, đã hợp nhất, và hỗ trợ.
@@ -667,13 +667,13 @@ Xem **Viện chung và thỏa**.
     <a id="supremacy-and-enforceability"></a>
     <a id="supremacy-and-enforceability-a"></a>
     <a id="supremacy-and-enforceability-c"></a>
-    - **Tối cao:** Nghĩa vụ kho văn bản ràng buộc thắng trong phạm vi nguồn, tiếp nhận, và tầng quản trị hợp lệ của chúng. Hiệu ứng tối cao đó là kết quả của áp dụng mục này cùng [Kho văn bản](core_05_band_integrative.md#corpus) vận hành và văn kiện tiếp nhận hoặc hợp nhất áp dụng — kể cả tối cao [Chương Mười Bốn](../../core_14_expansion_supremacy.md#3-supremacy-relative-to-other-binding-norms) đối với chuẩn khác và không-dời luật bên ngoài áp dụng của [Chương Mười Bốn §5](../../core_14_expansion_supremacy.md#5-relation-to-applicable-external-law). Triển khai, văn bản hỗ trợ, trật tự tư nhân, khung khẩn cấp, hoặc thực hành vận hành không được thu hẹp những nghĩa vụ ràng buộc đó trong phạm vi hợp lệ của chúng.
+    - **Tối cao:** Nghĩa vụ kho văn bản ràng buộc thắng trong phạm vi nguồn, tiếp nhận, và tầng quản trị hợp lệ của chúng. Hiệu ứng tối cao đó là kết quả của áp dụng mục này cùng [Kho văn bản](core_05_band_integrative.md#corpus) vận hành và văn kiện tiếp nhận hoặc hợp nhất áp dụng — kể cả tối cao [Chương Mười Bốn](../../core_15_expansion_supremacy.md#3-supremacy-relative-to-other-binding-norms) đối với chuẩn khác và không-dời luật bên ngoài áp dụng của [Chương Mười Bốn §5](../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law). Triển khai, văn bản hỗ trợ, trật tự tư nhân, khung khẩn cấp, hoặc thực hành vận hành không được thu hẹp những nghĩa vụ ràng buộc đó trong phạm vi hợp lệ của chúng.
 
     Khả năng cưỡng chế thực tiễn của tuyên ràng buộc — tuân thủ quan sát được, tranh biện được hơn là hứa trên giấy — được đánh giá dưới [Khả năng kiểm toán](core_05_band_oversight.md#auditability) và [Khả năng tranh biện](core_05_band_accountability.md#contestability). Chống thay tầng quản trị (Hợp đồng Hiến pháp đối Tham gia hệ thống của bên bị ảnh hưởng) sống dưới [Lời nói đầu §3.3](core_00_preamble.md#33-governance-layers) và [Tầng Hợp đồng Hiến pháp](core_05_band_integrative.md#constitutional-contract-layer).
 
-    Với bên tiếp nhận, [Thứ bậc nội bộ cho bên tiếp nhận](../../core_14_expansion_supremacy.md#31-internal-hierarchy-for-adopters) ở **Chương Mười Bốn** áp dụng cùng quy tắc cặp này tại đường giữa Hiến pháp ràng buộc và văn bản triển khai đã tiếp nhận:
+    Với bên tiếp nhận, [Thứ bậc nội bộ cho bên tiếp nhận](../../core_15_expansion_supremacy.md#31-internal-hierarchy-for-adopters) ở **Chương Mười Bốn** áp dụng cùng quy tắc cặp này tại đường giữa Hiến pháp ràng buộc và văn bản triển khai đã tiếp nhận:
     - Hiến pháp này và các định nghĩa tích hợp của nó kiểm cách văn bản được đọc và điều gì đếm là tuân thủ; và
-    - văn bản triển khai đã tiếp nhận chỉ áp dụng trong phạm vi thực sự đã được tiếp nhận, và không thể đi lùi [không-thoái-bộ Chương Mười Ba](../../core_13_non_regression.md) hoặc hiệu ứng tối cao nêu trong mục này.
+    - văn bản triển khai đã tiếp nhận chỉ áp dụng trong phạm vi thực sự đã được tiếp nhận, và không thể đi lùi [không-thoái-bộ Chương Mười Ba](../../core_14_non_regression.md) hoặc hiệu ứng tối cao nêu trong mục này.
   - **Ngoài phạm vi:** chú giải tài liệu hỗ trợ, bản đồ, danh sách việc, hoặc gắn thương hiệu tiếp nhận như vậy — những cái đó không phải tầng Chồng thẩm quyền; hướng dẫn tùy chọn không được đưa ra như sắp lại thứ tự nguồn hoặc dời nghĩa vụ ràng buộc.
 <a id="authority-stack-a"></a>
 - **Cách đo và đánh giá**
@@ -703,12 +703,12 @@ Xem **Viện chung và thỏa**.
     - dùng ngôn ngữ khát vọng hoặc thực hành địa phương để dời nghĩa vụ kho văn bản ràng buộc trong phạm vi nguồn và tầng quản trị hợp lệ của chúng;
     - nêu lại thực chất nghĩa vụ của một tầng chủ sở hữu bên trong tầng chủ sở hữu khác, kể cả nâng văn xuôi hướng dẫn người đọc lên hiệu lực vận hành;
     - đối xử ngôn ngữ kích, chuyển, hoặc leo thang trong chương hiệu lực hoặc quản trị như luật phân loại hoặc trừng cuối nơi tầng chủ sở hữu dành thẩm quyền đó cho Chương Tám đến Mười;
-    - dùng khung quy trình, quản trị, hoặc triển khai để thu hẹp, định nghĩa lại, hoặc dời Sàn Quyền [Chương Sáu](../../core_06_rights_part_a.md#chapter-six-foundational-rights) trái không-thoái-bộ [Chương Mười Ba](../../core_13_non_regression.md) và hợp đồng mở Chương Sáu;
+    - dùng khung quy trình, quản trị, hoặc triển khai để thu hẹp, định nghĩa lại, hoặc dời Sàn Quyền [Chương Sáu](../../core_06_rights_part_a.md#chapter-six-foundational-rights) trái không-thoái-bộ [Chương Mười Ba](../../core_14_non_regression.md) và hợp đồng mở Chương Sáu;
     - bịa phân loại hoặc luồng việc song song ở tầng không-chủ-sở-hữu khi [sổ đăng ký chủ sở hữu Lời nói đầu](core_00_preamble.md#4-principles-definitions-and-rights) đã gán một nhà chuẩn;
     - tuyên tối cao hoặc tuân thủ theo cách đảo thứ bậc nguồn đã lập, hoặc để triển khai, văn bản hỗ trợ, trật tự tư nhân, khung khẩn cấp, hoặc thực hành vận hành dời nghĩa vụ kho văn bản ràng buộc trong phạm vi hợp lệ của chúng;
     - dùng Thứ bậc nội bộ như lối tắt để chọn đọc khắc nghiệt hơn, để thu Sàn Quyền [Chương Sáu](../../core_06_rights_part_a.md#chapter-six-foundational-rights) ngoài điều [Chương Một](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) cho phép rõ, hoặc để đổi một tầng nguồn lấy tầng khác trong đọc thường;
     - đối xử định nghĩa Chương Năm như một thân luật đối địch ghi đè nguyên tắc hoặc điều ([Chương Một — §8 Diễn giải hiến pháp](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)); hoặc
-    - với bên tiếp nhận, đối xử văn bản triển khai đã tiếp nhận như ghi đè Hiến pháp này trong phạm vi tiếp nhận, hoặc như nới sàn không-thoái-bộ [Chương Mười Ba](../../core_13_non_regression.md) ([Thứ bậc nội bộ cho bên tiếp nhận](../../core_14_expansion_supremacy.md#31-internal-hierarchy-for-adopters) ở **Chương Mười Bốn**).
+    - với bên tiếp nhận, đối xử văn bản triển khai đã tiếp nhận như ghi đè Hiến pháp này trong phạm vi tiếp nhận, hoặc như nới sàn không-thoái-bộ [Chương Mười Ba](../../core_14_non_regression.md) ([Thứ bậc nội bộ cho bên tiếp nhận](../../core_15_expansion_supremacy.md#31-internal-hierarchy-for-adopters) ở **Chương Mười Bốn**).
 
 ---
 

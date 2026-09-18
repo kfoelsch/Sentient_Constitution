@@ -5,7 +5,7 @@
 
 > కింది విషయం **కేవలం పాఠక మార్గదర్శకం**. ఇది బంధనీయ కర్తవ్యాలను జోడించదు, తగ్గించదు, సంకుచితం చేయదు.
 >
-> ఈ ఫోల్డర్ ఒక **పాఠక-భాష పైలట్**. ఇది **సంజ్ఞ రాజ్యాంగం కాదు**. ఇది సంఖ్యాత్మక `core_*` ఫైళ్ళను మార్చ **లేదు**. ఇది **పంపిణీ సంచిక కాదు**. దీన్ని చదవడం [ఈ రాజ్యాంగాన్ని అంగీకరించడం](../../core_15_amendment_ratification.md#10-ratification-and-adoption) **కాదు**. అనువాదం, ఆంగ్ల మూలం వేరుగా కనిపిస్తే, తరువాతి సంచిక వేరే విధంగా చెప్పేంతవరకు ఆంగ్ల సంఖ్యాత్మక `core_*` గెలుస్తాయి. చూడండి [Reader-language editions](../../doc_architecture.md#reader-language-editions).
+> ఈ ఫోల్డర్ ఒక **పాఠక-భాష పైలట్**. ఇది **సంజ్ఞ రాజ్యాంగం కాదు**. ఇది సంఖ్యాత్మక `core_*` ఫైళ్ళను మార్చ **లేదు**. ఇది **పంపిణీ సంచిక కాదు**. దీన్ని చదవడం [ఈ రాజ్యాంగాన్ని అంగీకరించడం](../../core_16_amendment_ratification.md#10-ratification-and-adoption) **కాదు**. అనువాదం, ఆంగ్ల మూలం వేరుగా కనిపిస్తే, తరువాతి సంచిక వేరే విధంగా చెప్పేంతవరకు ఆంగ్ల సంఖ్యాత్మక `core_*` గెలుస్తాయి. చూడండి [Reader-language editions](../../doc_architecture.md#reader-language-editions).
 >
 > **సంకలన సంచికకు పిన్:** `SC-Corpus-2026.08.09` (అమలు 2026-08-09; [README.md](../../README.md)). **ముందస్తు-విడుదల.**
 
@@ -37,12 +37,12 @@
 | [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md) | [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md) |
 | [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md) | [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md) |
 | [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md) | [core_05_apex_timeliness_leg.md](../../core_05_apex_timeliness_leg.md) |
-| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_07_system_alignment_certification.md) |
-| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md) |
-| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_07_b_system_alignment_certification_record_process.md) |
-| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_08_standing_assessment.md) |
-| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_09_standing_integration.md) |
-| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md) |
+| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_08_system_alignment_certification.md) |
+| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md) |
+| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_08_b_system_alignment_certification_record_process.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_09_standing_assessment.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_10_standing_integration.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md) |
 
 పైలట్ లింకులు ఇంకా అనువాదం కాని ఆంగ్ల ఫైళ్ళ వైపు వెళ్తాయి. HTML లంగరులు (`id`) మూలం నుండి నకలు, ఖండం-వారీ పోలికకు.
 

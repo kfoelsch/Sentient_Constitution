@@ -9,7 +9,7 @@
 
 > 다음 내용은 **독자 안내일 뿐입니다**. 이 파일이나 다른 장에서 구속력 있는 의무를 더하거나, 빼거나, 좁히지 않습니다.
 >
-> 이 파일은 [영어 제10장, A부분](../../core_10_a_misconduct_designation.md)의 **독자 언어 시험본**입니다. 감지자 헌법의 구속력 있는 부분이 **아닙니다**. 두 번째 헌법이 **아닙니다**. 배포판이 **아닙니다**. `SC-Corpus-2026.08.09`에 **고정**되어 있습니다. 이 번역과 영어 원문이 어긋나 보이면, 번호 파일 [`core_10_a_misconduct_designation.md`](../../core_10_a_misconduct_designation.md)가 이깁니다. 읽기 순서와 판본 메타데이터는 [README.md](../../README.md)에 유지됩니다. 방법과 용어표: [translations/ko/README.md](README.md).
+> 이 파일은 [영어 제10장, A부분](../../core_11_a_misconduct_designation.md)의 **독자 언어 시험본**입니다. 감지자 헌법의 구속력 있는 부분이 **아닙니다**. 두 번째 헌법이 **아닙니다**. 배포판이 **아닙니다**. `SC-Corpus-2026.08.09`에 **고정**되어 있습니다. 이 번역과 영어 원문이 어긋나 보이면, 번호 파일 [`core_10_a_misconduct_designation.md`](../../core_11_a_misconduct_designation.md)가 이깁니다. 읽기 순서와 판본 메타데이터는 [README.md](../../README.md)에 유지됩니다. 방법과 용어표: [translations/ko/README.md](README.md).
 >
 > **제10장, A부분**을 담습니다 — 지정 결정 틀, 기준 집합, 위반 축 `s = 7–9` 지정 첨부, 적법절차 안전장치, 구제, 예방 잠금, 자발적 공적 책무 표현. **B부분** — 명명된 패턴 적용과 기준 라우팅 — 은 [`core_10_b_misconduct_pattern_applications.md`](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)에 있습니다.
 >
@@ -17,7 +17,7 @@
 > - **측정 경계:** 제8장만이 통합 비례 LEQU 척도 아래 숫자 영향 슬롯을 할당합니다. 이 장은 그 측정을 **대체하거나 바꾸지 않습니다**.
 > - **자리 옮김 금지 규칙:** A부분은 B부분 패턴 목록, 제9장 궤적 잠금, 또는 제13장부터 제15장 변경 경로 유효성 규칙을 다시 말하지 않습니다.
 >
-> **s = 7, 8, 또는 9**에서의 반헌법 부당행위는 규모에서의 **사원(四元) 포획**입니다 — [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) 아래 [연속 목적](core_00_preamble.md#continuity)과 함께 읽으십시오. 변경 경로 유효성 상호작용은 [제13장부터 제15장](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity)에서 이어집니다; 정의 제약은 [제6장 D부분](core_06_rights_part_d.md)에 남습니다.
+> **s = 7, 8, 또는 9**에서의 반헌법 부당행위는 규모에서의 **사원(四元) 포획**입니다 — [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) 아래 [연속 목적](core_00_preamble.md#continuity)과 함께 읽으십시오. 변경 경로 유효성 상호작용은 [제13장부터 제15장](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)에서 이어집니다; 정의 제약은 [제6장 D부분](core_06_rights_part_d.md)에 남습니다.
 >
 > **상류:** 제8장 궤적 측정; 제9장 지정 포인터.
 > **하류:** [B부분](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications) (*패턴 적용*); 최종 지정 뒤 제9장 신뢰 잠금과 궤적 효과 통합; 제11장 포럼 라우팅; 제12장 거버넌스 정당성 결과.
@@ -73,8 +73,8 @@
 - 상류: [제8장](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*질문 1과 2; 확인된 기록과 궤적 측정*).
 - 상류 포인터: [제9장 §2](core_09_standing_integration.md#2-integration-record-and-decision-order)가 자격을 갖춘 위반 축 슬롯 7–9 소견을 지정만을 위해 여기로 라우팅합니다.
 - 이 파일: 위반 축 `s` = 7–9에 대한 최종 반헌법 부당행위 지정; 지정 기준; 적법절차 안전장치; 제13장부터 제15장 경계. 명명된 패턴 라우팅은 [B부분](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)에서 이어집니다.
-- 하류: [제9장](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*최종 지정 뒤 신뢰 잠금과 궤적 효과 통합*); [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*포럼 라우팅과 인증*); [제12장](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) (*거버넌스 정당성 결과*).
-- 함께 읽기: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [제13장부터 제15장](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) (*변경 경로 행위가 기준 1–4를 연루할 수 있음*).
+- 하류: [제9장](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*최종 지정 뒤 신뢰 잠금과 궤적 효과 통합*); [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*포럼 라우팅과 인증*); [제12장](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) (*거버넌스 정당성 결과*).
+- 함께 읽기: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [제13장부터 제15장](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) (*변경 경로 행위가 기준 1–4를 연루할 수 있음*).
 
 </details>
 
@@ -100,7 +100,7 @@
 - 안전장치와 규율: [§4](#4-due-process-safeguards-for-slot-assignment) (*적법절차 안전장치, 구제, 예방*); [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*구제와 교정 (반헌법)*); [§4.2](#4-2-prevention-anti-constitutional-locks) (*예방 — 반헌법 잠금*); [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*자발적 공적 책무 표현 (반헌법)*).
 - 패턴 적용: [§5](core_10_b_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing) (*명명된 패턴이 같은 지정 기준으로 라우팅됨*).
 - 변경 경로 경계: [§1](#1-cross-chapter-discipline) (*제13장부터 제15장 경계*).
-- 함께 읽기: [제13장부터 제15장](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) — **퇴행적 기만**과 변경 경로 행위가 **기준 1–4**를 연루할 수 있는 곳.
+- 함께 읽기: [제13장부터 제15장](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) — **퇴행적 기만**과 변경 경로 행위가 **기준 1–4**를 연루할 수 있는 곳.
 - 사원(四元) 다리: **참여**, **감독**, **책무**, **적시성** (규모에서의 사원(四元) 포획). 일차 목적: **연속** (일차), **번영**. [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절이 안전장치와 심각도에 적용됩니다.
 
 </details>
@@ -432,4 +432,4 @@
 
 **다음 파일(이 언어):** [core_10_b_misconduct_pattern_applications.md](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)
 
-**구속력 있는 원문:** [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md)
+**구속력 있는 원문:** [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md)

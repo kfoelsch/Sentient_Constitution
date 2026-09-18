@@ -6,18 +6,18 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Sixteen](../core_16_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-3.3** (*Audit process home*) / **oDef.3**.
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-3.3** (*Audit process home*) / **oDef.3**.
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 >
-> **Steward door (non-operative):** This file is layer 3 (how/when). Layer 1 is **Article XV**; layer 2 is Chapter Five [Auditability](../core_05_band_oversight.md#auditability). Binding next-step statement: [Operative steward statement (Article XV)](../core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Article XV](../core_06_rights_part_c.md#audit-three-layers). Do not treat this file, Chapter Seven, or an OP annex as a fifth audit home.
+> **Steward door (non-operative):** This file is layer 3 (how/when). Layer 1 is **Article XV**; layer 2 is Chapter Five [Auditability](../core_05_band_oversight.md#auditability). Binding next-step statement: [Operative steward statement (Article XV)](../core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Article XV](../core_06_rights_part_c.md#audit-three-layers). Do not treat this file, Chapter Eight, or an OP annex as a fifth audit home.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Sixteen](../core_16_incorporation.md#chapter-sixteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this file's **audit process home** (what / why / how / when / sibling modes); machine-facing OP annexes in [cjs_03o_oversight_operations.md](cjs_03o_oversight_operations.md) (**CJS-3.3** auditability terms, **CJS-3.4**, **CJS-3.5**).
 - Read with: **CJS-3.3**; **CJS-3.4**; **CJS-3.5**; **CJS-3.10**.
 - Read with: **Article XV** (*Audit, Transparency, and Independent Verification*) and **Article XV-A** (*Auditability and Observable Evidence*) — Rights Floor; this file owns cross-implementation *how* / *when*
@@ -26,7 +26,7 @@
 - Read with: **CJS-3.10 — Transparency and Disclosure**
 - Read with: **Article VII-B** (*Internal-State Boundary and Type-N Protection*)
 - Read with: **`corpus_systems.md` CS-2 — Information types and handling** (**Type O**, **Type G**, access-posture bands)
-- Read with: [Chapter Seven](../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*System Alignment Certification* — one especially large sibling audit mode; not the sole auditing home)
+- Read with: [Chapter Eight](../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*System Alignment Certification* — one especially large sibling audit mode; not the sole auditing home)
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Chapter One basis: §8.2, §4, §12.1, §12.2 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3**.
@@ -56,7 +56,7 @@ This file is the joint-structure implementation home for **CJS-3.3** (*Audit pro
 
 **Cluster identity.** Stable citation **CJS-3.3** names this process home. The guidepost **oDef** auditability and reconstructability checklist remains in [cjs_03o_oversight_operations.md](cjs_03o_oversight_operations.md#cjs-33-auditability-annex) under the same cluster ID — annex, not the front door.
 Use this file whenever someone needs to understand or run auditing across **CS**, **CI**, and **CF** — or whenever records, access pathways, or verification design depend on standalone or combined system, institution, forum, dependency, or implementation-layer behavior.
-**Oversight frame.** Under the Constitutional Tetrad **oversight** leg, oversight requires auditing. [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional) (Chapter Seven) is one especially large, high-stakes audit process among others. This file is the cross-implementation process home; it does not relocate **Article XV** floors into Chapter Seven or into any single CS / CI / CF file.
+**Oversight frame.** Under the Constitutional Tetrad **oversight** leg, oversight requires auditing. [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional) (Chapter Eight) is one especially large, high-stakes audit process among others. This file is the cross-implementation process home; it does not relocate **Article XV** floors into Chapter Eight or into any single CS / CI / CF file.
 
 <a id="cjs-33-what-auditing-is"></a>
 
@@ -139,7 +139,7 @@ Audit when any of the following applies (often more than one):
 | Mode | Owner (do not restate doctrine here) |
 |---|---|
 | Rights Floor — audit, transparency, independent verification | **Article XV** (XV-A / XV-B / XV-C) |
-| System Alignment Certification (large, forum-supervised, recognition-bearing) | **Chapter Seven** |
+| System Alignment Certification (large, forum-supervised, recognition-bearing) | **Chapter Eight** |
 | System Classification Record audit | **CS-3** §7.3 |
 | System Data Types Record audit | **CS-2** §8.3 |
 | Data typing and access-posture for audit outputs | **CS-2** (Type O / Type G / bands); output-tier preference in **CJS-3.4** |

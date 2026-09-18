@@ -96,7 +96,7 @@ Las definiciones hoja bajo esta finalidad heredan su alcance a menos que lo estr
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: familia de medición Florecimiento — rollup solo-enlace; los niveles por término viven en las definiciones hoja enlazadas en la tabla de abajo.
-- Leer con: [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) donde los efectos de sistema entero, la entrega del piso de supervivencia o las **Condiciones seguras** estén materialmente en alcance.
+- Leer con: [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) donde los efectos de sistema entero, la entrega del piso de supervivencia o las **Condiciones seguras** estén materialmente en alcance.
 
 </details>
 

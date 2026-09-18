@@ -37,7 +37,7 @@ class ListIntroColonTests(unittest.TestCase):
             "**Duty to resist.**",
             "",
             "<a id=\"operative-steward-statement-unlawful-instruction\"></a>",
-            "> **Operative steward statement.** **Owner:** Chapter Nine §5.4.",
+            "> **Operative steward statement.** **Owner:** Chapter Ten §5.4.",
         ]
         self.assertEqual(check_list_intro_colon(lines, "core_example.md"), [])
 

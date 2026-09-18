@@ -9,7 +9,7 @@
 
 > เนื้อหาต่อไปนี้เป็น **แนวทางสำหรับผู้อ่านเท่านั้น** ไม่เพิ่ม ไม่ลด และไม่ทำให้ภาระผูกพันที่ใช้บังคับแคบลงในไฟล์นี้หรือในบทอื่น
 >
-> ไฟล์นี้เป็น **โครงการนำร่องด้านภาษาสำหรับผู้อ่าน** ของ [บทที่สิบ ส่วน ก ภาษาอังกฤษ](../../core_10_a_misconduct_designation.md) **ไม่ใช่** ส่วนที่มีผลผูกพันของรัฐธรรมนูญของผู้มีความรู้สึก **ไม่ใช่** รัฐธรรมนูญฉบับที่สอง **ไม่ใช่** ฉบับจัดส่ง **ตรึงไว้** กับ `SC-Corpus-2026.08.09` หากคำแปลนี้กับต้นฉบับภาษาอังกฤษดูเหมือนไม่ตรงกัน ให้ไฟล์ที่มีหมายเลข [`core_10_a_misconduct_designation.md`](../../core_10_a_misconduct_designation.md) เป็นฝ่ายชนะ ลำดับการอ่านและข้อมูลฉบับคงไว้ใน [README.md](../../README.md) วิธีทำและอภิธานศัพท์: [translations/th/README.md](README.md)
+> ไฟล์นี้เป็น **โครงการนำร่องด้านภาษาสำหรับผู้อ่าน** ของ [บทที่สิบ ส่วน ก ภาษาอังกฤษ](../../core_11_a_misconduct_designation.md) **ไม่ใช่** ส่วนที่มีผลผูกพันของรัฐธรรมนูญของผู้มีความรู้สึก **ไม่ใช่** รัฐธรรมนูญฉบับที่สอง **ไม่ใช่** ฉบับจัดส่ง **ตรึงไว้** กับ `SC-Corpus-2026.08.09` หากคำแปลนี้กับต้นฉบับภาษาอังกฤษดูเหมือนไม่ตรงกัน ให้ไฟล์ที่มีหมายเลข [`core_10_a_misconduct_designation.md`](../../core_11_a_misconduct_designation.md) เป็นฝ่ายชนะ ลำดับการอ่านและข้อมูลฉบับคงไว้ใน [README.md](../../README.md) วิธีทำและอภิธานศัพท์: [translations/th/README.md](README.md)
 >
 > มี **บทที่สิบ ส่วน ก** — กรอบการตัดสินการกำหนดสถานะ ชุดเกณฑ์ ส่วนแนบการกำหนดสถานะของแกนการละเมิด `s = 7–9` การคุ้มครองของกระบวนการที่ชอบธรรม การเยียวยา กุญแจป้องกัน และการแสดงความรับผิดชอบต่อสาธารณะโดยสมัครใจ **ส่วน ข** — การประยุกต์แบบแผนที่มีชื่อและการจัดเส้นทางเกณฑ์ — อยู่ใน [`core_10_b_misconduct_pattern_applications.md`](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)
 >
@@ -17,7 +17,7 @@
 > - **ขอบเขตการวัด:** บทที่แปดเพียงบทเดียวกำหนดช่องผลกระทบที่เป็นตัวเลขภายใต้มาตราส่วน LEQU ตามสัดส่วนที่เป็นหนึ่งเดียว บทนี้ **ไม่** แทนหรือเปลี่ยนการวัดนั้น
 > - **กฎต้านการย้าย:** ส่วน กไม่กล่าวซ้ำบัญชีแบบแผนของส่วน ข กุญแจร่องรอยของบทที่เก้า หรือกฎความชอบด้วยกฎหมายของเส้นทางการเปลี่ยนของบทที่สิบสามถึงสิบห้า
 >
-> ความประพฤติมิชอบที่ต่อต้านรัฐธรรมนูญที่ **s = 7, 8 หรือ 9** คือ **การยึดจตุรภาค** ในระดับใหญ่ — อ่านคู่กับ [เป้าประสงค์ความต่อเนื่อง](core_00_preamble.md#continuity) ภายใต้ [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims) ปฏิสัมพันธ์ความชอบด้วยกฎหมายของเส้นทางการเปลี่ยนดำเนินต่อใน [บทที่สิบสามถึงสิบห้า](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) ข้อจำกัดความยุติธรรมคงอยู่ใน [บทที่หก ส่วน ง](core_06_rights_part_d.md)
+> ความประพฤติมิชอบที่ต่อต้านรัฐธรรมนูญที่ **s = 7, 8 หรือ 9** คือ **การยึดจตุรภาค** ในระดับใหญ่ — อ่านคู่กับ [เป้าประสงค์ความต่อเนื่อง](core_00_preamble.md#continuity) ภายใต้ [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims) ปฏิสัมพันธ์ความชอบด้วยกฎหมายของเส้นทางการเปลี่ยนดำเนินต่อใน [บทที่สิบสามถึงสิบห้า](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) ข้อจำกัดความยุติธรรมคงอยู่ใน [บทที่หก ส่วน ง](core_06_rights_part_d.md)
 >
 > **ต้นทาง:** การวัดร่องรอยของบทที่แปด ตัวชี้การกำหนดสถานะของบทที่เก้า
 > **ปลายทาง:** [ส่วน ข](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications) (*การประยุกต์แบบแผน*); กุญแจความไว้วางใจของบทที่เก้าและการบูรณาการผลของร่องรอยหลังการกำหนดสถานะขั้นสุดท้าย การจัดเส้นทางเวทีของบทที่สิบเอ็ด ผลสืบเนื่องความชอบธรรมของการปกครองของบทที่สิบสอง
@@ -73,8 +73,8 @@
 - ต้นทาง: [บทที่แปด](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*คำถาม 1 และ 2; บันทึกที่ตรวจสอบแล้วและการวัดร่องรอย*)
 - ตัวชี้ต้นทาง: [บทที่เก้า §2](core_09_standing_integration.md#2-integration-record-and-decision-order) จัดเส้นทางข้อค้นพบช่องแกนการละเมิด 7–9 ที่เข้าเกณฑ์มายังที่นี่เพื่อการกำหนดสถานะเท่านั้น
 - ไฟล์นี้: การกำหนดสถานะความประพฤติมิชอบที่ต่อต้านรัฐธรรมนูญขั้นสุดท้ายสำหรับแกนการละเมิด `s` = 7–9 เกณฑ์การกำหนดสถานะ การคุ้มครองของกระบวนการที่ชอบธรรม ขอบบทที่สิบสามถึงสิบห้า การจัดเส้นทางแบบแผนที่มีชื่อดำเนินต่อใน [ส่วน ข](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)
-- ปลายทาง: [บทที่เก้า](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*กุญแจความไว้วางใจและการบูรณาการผลของร่องรอยหลังการกำหนดสถานะขั้นสุดท้าย*); [บทที่สิบเอ็ด](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*การจัดเส้นทางเวทีและการรับรอง*); [บทที่สิบสอง](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) (*ผลสืบเนื่องความชอบธรรมของการปกครอง*)
-- อ่านคู่กับ: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [บทที่สิบสามถึงสิบห้า](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) (*ความประพฤติเส้นทางการเปลี่ยนอาจพาดพิงเกณฑ์ 1–4*)
+- ปลายทาง: [บทที่เก้า](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*กุญแจความไว้วางใจและการบูรณาการผลของร่องรอยหลังการกำหนดสถานะขั้นสุดท้าย*); [บทที่สิบเอ็ด](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*การจัดเส้นทางเวทีและการรับรอง*); [บทที่สิบสอง](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) (*ผลสืบเนื่องความชอบธรรมของการปกครอง*)
+- อ่านคู่กับ: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [บทที่สิบสามถึงสิบห้า](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) (*ความประพฤติเส้นทางการเปลี่ยนอาจพาดพิงเกณฑ์ 1–4*)
 
 </details>
 
@@ -100,7 +100,7 @@
 - การคุ้มครองและวินัย: [§4](#4-due-process-safeguards-for-slot-assignment) (*การคุ้มครองของกระบวนการที่ชอบธรรม การเยียวยา และการป้องกัน*); [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*การเยียวยาและการแก้ไข (ที่ต่อต้านรัฐธรรมนูญ)*); [§4.2](#4-2-prevention-anti-constitutional-locks) (*การป้องกัน — กุญแจที่ต่อต้านรัฐธรรมนูญ*); [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*การแสดงความรับผิดชอบต่อสาธารณะโดยสมัครใจ (ที่ต่อต้านรัฐธรรมนูญ)*)
 - การประยุกต์แบบแผน: [§5](core_10_b_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing) (*แบบแผนที่มีชื่อจัดเส้นทางเข้าสู่เกณฑ์การกำหนดสถานะเดียวกัน*)
 - ขอบเส้นทางการเปลี่ยน: [§1](#1-cross-chapter-discipline) (*ขอบบทที่สิบสามถึงสิบห้า*)
-- อ่านคู่กับ: [บทที่สิบสามถึงสิบห้า](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) ในที่ที่ **การหลอกลวงถดถอย** และความประพฤติเส้นทางการเปลี่ยนอาจพาดพิง **เกณฑ์ 1–4**
+- อ่านคู่กับ: [บทที่สิบสามถึงสิบห้า](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) ในที่ที่ **การหลอกลวงถดถอย** และความประพฤติเส้นทางการเปลี่ยนอาจพาดพิง **เกณฑ์ 1–4**
 - ขาของจตุรภาค: **การมีส่วนร่วม** **การกำกับดูแล** **ความรับผิดชอบ** **ความทันเวลา** (การยึดจตุรภาคในระดับใหญ่) เป้าประสงค์หลัก: **ความต่อเนื่อง** (หลัก) **ความเจริญงอกงาม** การปรับตาม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) ใช้กับการคุ้มครองและความรุนแรง
 
 </details>
@@ -432,4 +432,4 @@
 
 **ไฟล์ถัดไป (ภาษานี้):** [core_10_b_misconduct_pattern_applications.md](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)
 
-**ต้นฉบับที่มีผลผูกพัน:** [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md)
+**ต้นฉบับที่มีผลผูกพัน:** [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md)

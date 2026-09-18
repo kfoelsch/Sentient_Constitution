@@ -11,6 +11,7 @@ import sys
 from dataclasses import dataclass
 
 from corpus_paths import binding_corpus_scope
+from chapter_insertion_diff import is_insertion_only_change
 
 
 SECTION_ID_RE = re.compile(
@@ -145,7 +146,15 @@ def scan_line(rel_path: str, line_number: int, line: str) -> Finding | None:
 
 def changed_markdown_findings(root: pathlib.Path, allowed_scope: set[str]) -> list[Finding]:
     result = subprocess.run(
-        ["git", "diff", "--unified=0", "--diff-filter=ACM", "HEAD", "--", "*.md"],
+        [
+            "git",
+            "diff",
+            "--unified=0",
+            "--diff-filter=ACM",
+            "HEAD",
+            "--",
+            *sorted(allowed_scope),
+        ],
         cwd=root,
         check=True,
         capture_output=True,
@@ -155,6 +164,7 @@ def changed_markdown_findings(root: pathlib.Path, allowed_scope: set[str]) -> li
     findings: list[Finding] = []
     rel_path: str | None = None
     new_line = 0
+    removed_lines: list[str] = []
     for line in result.stdout.splitlines():
         if line.startswith("+++ b/"):
             rel_path = line.removeprefix("+++ b/")
@@ -162,14 +172,21 @@ def changed_markdown_findings(root: pathlib.Path, allowed_scope: set[str]) -> li
         if line.startswith("@@"):
             match = re.search(r"\+(\d+)(?:,\d+)?", line)
             new_line = int(match.group(1)) if match else 0
+            removed_lines = []
             continue
         if rel_path is None or rel_path not in allowed_scope:
             continue
         if line.startswith("+") and not line.startswith("+++"):
+            if is_insertion_only_change(removed_lines, line[1:]):
+                new_line += 1
+                continue
             finding = scan_line(rel_path, new_line, line[1:])
             if finding:
                 findings.append(finding)
             new_line += 1
+            continue
+        if line.startswith("-") and not line.startswith("---"):
+            removed_lines.append(line[1:])
             continue
         if not line.startswith("-"):
             new_line += 1

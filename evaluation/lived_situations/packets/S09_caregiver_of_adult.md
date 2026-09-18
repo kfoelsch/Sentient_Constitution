@@ -5,7 +5,7 @@
 **Status:** current  
 **This packet is not binding.** It does not add, remove, or narrow duties. Illustrative facts only.
 
-This packet is not S05. Val is the adult whose remembering is changing. Lee is the unpaid helper. The live fight is rest billed as takeover — from the helper’s chair. Related pipeline illustration (not this sitting): [Vignette 1 — Child neglect / care-duty failure](../../../core_08-11_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a). No child is in this scene.
+This packet is not S05. Val is the adult whose remembering is changing. Lee is the unpaid helper. The live fight is rest billed as takeover — from the helper’s chair. Related pipeline illustration (not this sitting): [Vignette 1 — Child neglect / care-duty failure](../../../core_09-12_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a). No child is in this scene.
 
 ## Scale of the situation (not scored)
 

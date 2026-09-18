@@ -122,8 +122,8 @@ OWNER_PATTERNS = [
     r"Chapter Five",
     r"Core definitions",
     r"\bArticle\s+[IVX]+(?:-[A-Z])?\b",
-    r"Chapter Nine",
-    r"Chapter Twelve",
+    r"Chapter Ten",
+    r"Chapter Thirteen",
 ]
 
 

@@ -9,7 +9,7 @@
 
 > محتوای زیر **فقط راهنمای خواننده** است. تکالیف الزام‌آور را در این پرونده یا فصل‌های دیگر نمی‌افزاید، کم نمی‌کند و تنگ نمی‌کند.
 >
-> این پرونده **آزمایش زبان خواننده** برای [فصل دهم، بخش الف به انگلیسی](../../core_10_a_misconduct_designation.md) است. **بخش الزام‌آور قانون اساسی حس‌مندان نیست**. **قانون اساسی دوم نیست**. **ویرایش ارسال نیست**. روی `SC-Corpus-2026.08.09` **قفل** شده است. اگر این ترجمه و اصل انگلیسی ناسازگار به‌نظر برسند، پروندهٔ شماره‌دار [`core_10_a_misconduct_designation.md`](../../core_10_a_misconduct_designation.md) برنده است. ترتیب خواندن و فرادادهٔ ویرایش در [README.md](../../README.md) نگه داشته می‌شود. روش و واژه‌نامه: [translations/fa/README.md](README.md).
+> این پرونده **آزمایش زبان خواننده** برای [فصل دهم، بخش الف به انگلیسی](../../core_11_a_misconduct_designation.md) است. **بخش الزام‌آور قانون اساسی حس‌مندان نیست**. **قانون اساسی دوم نیست**. **ویرایش ارسال نیست**. روی `SC-Corpus-2026.08.09` **قفل** شده است. اگر این ترجمه و اصل انگلیسی ناسازگار به‌نظر برسند، پروندهٔ شماره‌دار [`core_10_a_misconduct_designation.md`](../../core_11_a_misconduct_designation.md) برنده است. ترتیب خواندن و فرادادهٔ ویرایش در [README.md](../../README.md) نگه داشته می‌شود. روش و واژه‌نامه: [translations/fa/README.md](README.md).
 >
 > **فصل دهم، بخش الف** را در بر دارد — چارچوب تصمیم نام‌گذاری، مجموعهٔ معیارها، چسبیدن نام‌گذاری محور تخلف `s = 7–9`، ضمانت‌های فرایند عادلانه، جبران، قفل‌های پیشگیری، و بیان عمومی داوطلبانهٔ پاسخگویی. **بخش ب** — کاربردهای الگوی نام‌گذاری‌شده و مسیرگذاری معیارها — در [`core_10_b_misconduct_pattern_applications.md`](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications) است.
 >
@@ -17,7 +17,7 @@
 > - **مرز اندازه‌گیری:** فقط فصل هشتم خانهٔ عددی اثر را زیر مقیاس LEQU متناسب یکپارچه‌اش می‌گذارد. این فصل آن اندازه‌گیری را **جایگزین یا عوض نمی‌کند**.
 > - **قاعدهٔ ضدجابه‌جایی:** بخش الف فهرست‌های الگوی بخش ب، قفل‌های ردپای فصل نهم، یا قواعد اعتبار مسیر تغییر فصل‌های سیزدهم تا پانزدهم را بازبیان نمی‌کند.
 >
-> سوءرفتار ضدقانون‌اساسی در **s = 7، 8، یا 9** **تسخیر چهارگانه** در مقیاس است — با [هدف پیوستگی](core_00_preamble.md#continuity) زیر [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) بخوانید. تعامل‌های اعتبار مسیر تغییر در [فصل‌های سیزدهم تا پانزدهم](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) ادامه می‌یابد؛ قیدهای عدالت در [فصل ششم، بخش د](core_06_rights_part_d.md) می‌مانند.
+> سوءرفتار ضدقانون‌اساسی در **s = 7، 8، یا 9** **تسخیر چهارگانه** در مقیاس است — با [هدف پیوستگی](core_00_preamble.md#continuity) زیر [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) بخوانید. تعامل‌های اعتبار مسیر تغییر در [فصل‌های سیزدهم تا پانزدهم](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) ادامه می‌یابد؛ قیدهای عدالت در [فصل ششم، بخش د](core_06_rights_part_d.md) می‌مانند.
 >
 > **بالادست:** اندازه‌گیری ردپای فصل هشتم؛ اشاره‌گر نام‌گذاری فصل نهم.
 > **پایین‌دست:** [بخش ب](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications) (*کاربردهای الگو*)؛ قفل اعتماد فصل نهم و یکپارچه‌سازی آثار ردپا پس از نام‌گذاری نهایی؛ مسیرگذاری مجمع فصل یازدهم؛ پیامدهای مشروعیت حکمرانی فصل دوازدهم.
@@ -73,8 +73,8 @@
 - بالادست: [فصل هشتم](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*پرسش‌های 1 و 2؛ سوابق راستی‌آزمایی‌شده و اندازه‌گیری ردپا*).
 - اشاره‌گر بالادست: [فصل نهم §2](core_09_standing_integration.md#2-integration-record-and-decision-order) یافته‌های واجد شرایط خانهٔ 7–9 محور تخلف را فقط برای نام‌گذاری به اینجا مسیر می‌دهد.
 - این پرونده: نام‌گذاری نهایی سوءرفتار ضدقانون‌اساسی برای محور تخلف `s` = 7–9؛ معیارهای نام‌گذاری؛ ضمانت‌های فرایند عادلانه؛ مرز فصل‌های سیزدهم تا پانزدهم. مسیرگذاری الگوی نام‌گذاری‌شده در [بخش ب](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications) ادامه می‌یابد.
-- پایین‌دست: [فصل نهم](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*قفل اعتماد و یکپارچه‌سازی آثار ردپا پس از نام‌گذاری نهایی*)؛ [فصل یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*مسیرگذاری مجمع و گواهی*)؛ [فصل دوازدهم](../../core_12_governance.md#chapter-twelve-constitutional-contract-legitimacy-authorization-and-stewardship) (*پیامدهای مشروعیت حکمرانی*).
-- خوانده شود با: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)؛ [فصل‌های سیزدهم تا پانزدهم](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) (*رفتار مسیر تغییر می‌تواند معیارهای 1–4 را درگیر کند*).
+- پایین‌دست: [فصل نهم](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*قفل اعتماد و یکپارچه‌سازی آثار ردپا پس از نام‌گذاری نهایی*)؛ [فصل یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*مسیرگذاری مجمع و گواهی*)؛ [فصل دوازدهم](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) (*پیامدهای مشروعیت حکمرانی*).
+- خوانده شود با: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)؛ [فصل‌های سیزدهم تا پانزدهم](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) (*رفتار مسیر تغییر می‌تواند معیارهای 1–4 را درگیر کند*).
 
 </details>
 
@@ -100,7 +100,7 @@
 - ضمانت‌ها و انضباط: [§4](#4-due-process-safeguards-for-slot-assignment) (*ضمانت‌های فرایند عادلانه، جبران، و پیشگیری*)؛ [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*جبران و اصلاح (ضدقانون‌اساسی)*)؛ [§4.2](#4-2-prevention-anti-constitutional-locks) (*پیشگیری — قفل‌های ضدقانون‌اساسی*)؛ [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*بیان عمومی داوطلبانهٔ پاسخگویی (ضدقانون‌اساسی)*).
 - کاربردهای الگو: [§5](core_10_b_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing) (*الگوهای نام‌گذاری‌شده به همان معیارهای نام‌گذاری مسیر می‌گیرند*).
 - مرز مسیر تغییر: [§1](#1-cross-chapter-discipline) (*مرز فصل‌های سیزدهم تا پانزدهم*).
-- خوانده شود با: [فصل‌های سیزدهم تا پانزدهم](../../core_13_non_regression.md#chapter-thirteen-non-regression-and-substantive-amendment-validity) جایی که **فریب قهقرایی** و رفتار مسیر تغییر می‌توانند **معیارهای 1–4** را درگیر کنند.
+- خوانده شود با: [فصل‌های سیزدهم تا پانزدهم](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) جایی که **فریب قهقرایی** و رفتار مسیر تغییر می‌توانند **معیارهای 1–4** را درگیر کنند.
 - پای چهارگانه: **مشارکت**، **نظارت**، **پاسخگویی**، **به‌هنگامی** (تسخیر چهارگانه در مقیاس). هدف(های) اصلی: **پیوستگی** (اصلی)، **شکوفایی**. مقیاس‌بندی [منافع مادی](core_00_preamble.md#material-stake) بر ضمانت‌ها و شدت اعمال می‌شود.
 
 </details>
@@ -432,4 +432,4 @@
 
 **پروندهٔ بعدی (این زبان):** [core_10_b_misconduct_pattern_applications.md](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)
 
-**اصل الزام‌آور:** [core_10_a_misconduct_designation.md](../../core_10_a_misconduct_designation.md)
+**اصل الزام‌آور:** [core_10_a_misconduct_designation.md](../../core_11_a_misconduct_designation.md)

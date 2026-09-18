@@ -12,7 +12,7 @@
 >
 > **Trước (ngôn ngữ này):** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 >
-> **Tiếp theo (vẫn tiếng Anh):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+> **Tiếp theo (vẫn tiếng Anh):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 > **Cung đọc:** Điều XXIII–XXVI (công lý và khẩn cấp, tiến hóa hiến pháp, chuyển tiếp, và đặt lại đường cơ sở)
 
 </details>
@@ -79,7 +79,7 @@ Triển khai quản trị đã tiếp nhận cung cấp leo thang, tính tương
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: Nguyên tắc: Chương Một [§3.1 An toàn](core_01_a_values_principles.md#31-safety-harm-constraint), [Chương Một §6.1.5 Thủ tục va chạm quyền](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [Chương Một §9.6 Quy trình chống làm suy](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline), và [§15 Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- Hạ nguồn: [Chương Chín §4](../../core_09_standing_integration.md#4-violation-correction-and-prevention) (*Vi phạm, sửa, và phòng*); [Điều XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Điều XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule).
+- Hạ nguồn: [Chương Chín §4](../../core_10_standing_integration.md#4-violation-correction-and-prevention) (*Vi phạm, sửa, và phòng*); [Điều XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Điều XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule).
 - Đọc cùng: [Tàn nhẫn](core_05_band_accountability.md#cruelty) (*nhà Chương Năm cho chuẩn khổ-như-mục-đích của sàn chống tàn nhẫn*).
 
 </details>
@@ -329,7 +329,7 @@ Triển khai quản trị đã tiếp nhận cung cấp leo thang, tính tương
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: Nguyên tắc: Chương Một [§6.1.5 Thử quyết định va chạm quyền](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [§7 Cấm phủ quyết tuyệt đối](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override), và [§15 Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- Đọc cùng: [Chương Chín §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Biểu đạt trách nhiệm giải trình công tự nguyện*); [Chương Mười §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Biểu đạt trách nhiệm giải trình công tự nguyện (phản hiến pháp)*).
+- Đọc cùng: [Chương Chín §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*Biểu đạt trách nhiệm giải trình công tự nguyện*); [Chương Mười §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Biểu đạt trách nhiệm giải trình công tự nguyện (phản hiến pháp)*).
 
 </details>
 
@@ -358,7 +358,7 @@ Triển khai quản trị đã tiếp nhận cung cấp leo thang, tính tương
     - rủi ro đang diễn;
     - bất đối xứng quyền lực có trọng;
     - không đồng thuận của bên bị ảnh hưởng.
-- **Biểu đạt trách nhiệm giải trình công tự nguyện:** Do [Chương Chín §4.3](../../core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Biểu đạt trách nhiệm giải trình công tự nguyện*) quản trị nói chung, và do [Chương Mười §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Biểu đạt trách nhiệm giải trình công tự nguyện (phản hiến pháp)*) cho hành vi sai phản hiến pháp đã xác minh, chịu quy tắc va chạm quyền và thẳng hàng phục hồi trong Điều này.
+- **Biểu đạt trách nhiệm giải trình công tự nguyện:** Do [Chương Chín §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*Biểu đạt trách nhiệm giải trình công tự nguyện*) quản trị nói chung, và do [Chương Mười §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Biểu đạt trách nhiệm giải trình công tự nguyện (phản hiến pháp)*) cho hành vi sai phản hiến pháp đã xác minh, chịu quy tắc va chạm quyền và thẳng hàng phục hồi trong Điều này.
 <a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
 #### Điều XXIV-C: Giải quyết kịp thời và sàn chống trì hoãn
 <details>
@@ -394,7 +394,7 @@ Triển khai quản trị đã tiếp nhận cung cấp leo thang, tính tương
 - **Ba yêu cầu đồng thời:** Đường dẫn được đặt tên giải quyết có trọng phải **kịp thời**, **hiệu quả**, và **công** cùng lúc:
   - **Kịp thời** — đồng hồ có biên chia tỷ lệ theo [lợi hại vật chất](core_00_preamble.md#material-stake) và độ khẩn của hại;
   - **Hiệu quả** — [Hiệu quả hiến pháp](core_05_band_continuity.md#constitutional-efficiency) theo nghĩa Chương Một [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) — kết cục hiến pháp thật trên thời hữu tri và nỗ lực chung tiêu thụ, không thông lượng thô hay xóa danh;
-  - **Công** — **Điều XXIII-A** (*Mục tiêu và phạm vi công lý*), **Điều XXIII-B** (*Hạn chế không tầm thường, hoàn trả, và ràng buộc trách nhiệm giải trình phục hồi*), và **Điều XXIII-C** (*Quy tắc hạn chế nhẹ nhất và có hạn thời gian*) vẫn áp đầy; chuyển nhanh không phải cớ để bỏ sự thật đã kiểm ([Chương Tám §3.1](../../core_08_standing_assessment.md#verified-inputs-for-standing)), phạt bên sai, đưa sửa không khớp hại, hoặc cắt tranh biện và kháng.
+  - **Công** — **Điều XXIII-A** (*Mục tiêu và phạm vi công lý*), **Điều XXIII-B** (*Hạn chế không tầm thường, hoàn trả, và ràng buộc trách nhiệm giải trình phục hồi*), và **Điều XXIII-C** (*Quy tắc hạn chế nhẹ nhất và có hạn thời gian*) vẫn áp đầy; chuyển nhanh không phải cớ để bỏ sự thật đã kiểm ([Chương Tám §3.1](../../core_09_standing_assessment.md#verified-inputs-for-standing)), phạt bên sai, đưa sửa không khớp hại, hoặc cắt tranh biện và kháng.
 - **Giám sát diễn đàn và chuỗi:** Các điều sau, với tranh chấp định tuyến qua **Chương Tám đến Mười Một**, do [Chương Mười Một §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) quản trị, chịu sàn kịp thời, hiệu quả, và công của Điều này:
   - phân loại bậc tính trọng yếu;
   - mốc giai đoạn chuỗi;
@@ -431,7 +431,7 @@ Quy tắc quản trị, cơ chế tham gia, mô hình cân, và cấu trúc tài
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: [Chương Một §10.3 Biện minh liên tục](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification); Chương Một [§2 Mục tiêu nền tảng: phúc lợi](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), và [§7 Cấm phủ quyết tuyệt đối](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- Thượng nguồn: Nguyên tắc: [Chương Một §10.3 Biện minh liên tục](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification); Chương Một [§2 Mục tiêu nền tảng: phúc lợi](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), và [§7 Cấm phủ quyết tuyệt đối](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 
 </details>
 
@@ -461,7 +461,7 @@ Quy tắc quản trị, cơ chế tham gia, mô hình cân, và cấu trúc tài
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§3.2 Sự thật](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), và [§7 Cấm phủ quyết tuyệt đối](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- Thượng nguồn: Nguyên tắc: Chương Một [§3.2 Sự thật](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), và [§7 Cấm phủ quyết tuyệt đối](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 
 </details>
 
@@ -517,7 +517,7 @@ Quản trị chuyển tiếp tồn tại để bảo đảm liên tục và khô
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§3.1 An toàn](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Nguyên tắc đánh đổi cốt](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), và [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Chương Chín §5.4](../../core_09_standing_integration.md#54-special-violation-rules) (*tịch thu thưởng lệch hàng và nghĩa vụ báo cáo bị hạn trong chuyển tiếp bởi Điều này*); [Chương Bảy — Chứng nhận thẳng hàng hệ thống](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification).
+- Thượng nguồn: Nguyên tắc: Chương Một [§3.1 An toàn](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Nguyên tắc đánh đổi cốt](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), và [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Chương Chín §5.4](../../core_10_standing_integration.md#54-special-violation-rules) (*tịch thu thưởng lệch hàng và nghĩa vụ báo cáo bị hạn trong chuyển tiếp bởi Điều này*); [Chương Bảy — Chứng nhận thẳng hàng hệ thống](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -554,7 +554,7 @@ Quản trị chuyển tiếp tồn tại để bảo đảm liên tục và khô
   
   Ngừng dùng, nghỉ, hoàn, di trú, hoặc thay thỏa mục này bằng lưu trữ thành phần mang trạng thái dưới **Bảo tồn bằng chứng** và kỷ luật không tách **Điều VII-D** (*Gia đình, quan hệ chăm sóc, tự chủ sinh sản, và không tách*). Đây là [tư thế tạm mặc định Chương Một §6.1](core_01_b_interaction_interpretation.md#default-interim-posture) — đóng băng bước không đảo ngược — áp cho bước không đảo ngược duy nhất mà vận hành kế thừa coi là thường lệ. Chi phí lưu, tiện giấy phép, hoặc khung chu kỳ sản phẩm không thỏa **Sự cần thiết** chống nó. Nơi giữ chính tạo rủi ro An toàn có hồ sơ, biện pháp tương thích hạn chế nhẹ nhất là lưu giữ niêm dưới kiểm soát độc lập, không phá hủy.
 <a id="incentive-alignment-transition-carve-out"></a>
-- **Ngoại lệ chuyển tiếp thẳng hàng khuyến khích:** Trong pha chuyển tiếp đã duyệt dưới **Điều XXVI** (*Quản trị chuyển tiếp, Liên tục, và đặt lại đường cơ sở*), đọc cùng [Chương Bảy — Chứng nhận thẳng hàng hệ thống](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification). [Chương Chín §5.4 Nghĩa vụ báo cáo và loại trừ](../../core_09_standing_integration.md#54-special-violation-rules) và [§5.4 Tịch thu và giữ](../../core_09_standing_integration.md#54-special-violation-rules) **không** áp cho thưởng chảy qua hệ thống chung chỉ vì những hệ thống đó **chưa được chứng nhận thẳng hàng** hoặc **chưa thẳng hàng đầy**, miễn:
+- **Ngoại lệ chuyển tiếp thẳng hàng khuyến khích:** Trong pha chuyển tiếp đã duyệt dưới **Điều XXVI** (*Quản trị chuyển tiếp, Liên tục, và đặt lại đường cơ sở*), đọc cùng [Chương Bảy — Chứng nhận thẳng hàng hệ thống](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification). [Chương Chín §5.4 Nghĩa vụ báo cáo và loại trừ](../../core_10_standing_integration.md#54-special-violation-rules) và [§5.4 Tịch thu và giữ](../../core_10_standing_integration.md#54-special-violation-rules) **không** áp cho thưởng chảy qua hệ thống chung chỉ vì những hệ thống đó **chưa được chứng nhận thẳng hàng** hoặc **chưa thẳng hàng đầy**, miễn:
   - vận hành ở trong một **kế hoạch chuyển tiếp có hồ sơ** và tiêu chí cổng đã công bố dưới **Điều XXVI** (*Quản trị chuyển tiếp, Liên tục, và đặt lại đường cơ sở*);
   - hệ thống đang tiến tới [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) theo nhịp đã công bố, kể cả **ghi nhận có điều kiện** hoặc **hoãn** nơi Chương Bảy cho phép; và
   - người vận hành và người hưởng không **cố ý che** lệch hàng, vận hành ngoài phạm vi chuyển tiếp đã duyệt, hoặc dùng trạng thái chuyển tiếp để lách chứng nhận, sửa, hoặc báo cáo được bảo vệ.
@@ -600,7 +600,7 @@ Quản trị chuyển tiếp tồn tại để bảo đảm liên tục và khô
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: Nguyên tắc: Chương Một [§3.1 An toàn](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Nguyên tắc đánh đổi cốt](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), và [§15 Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- Đọc cùng: [Chương Bảy](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) (*chứng nhận thẳng hàng hệ thống*); [Chương Tám đến Mười Một](../../README.md#standing-pipeline-and-forums) (*chuỗi quỹ đạo và giám sát diễn đàn*).
+- Đọc cùng: [Chương Bảy](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*chứng nhận thẳng hàng hệ thống*); [Chương Tám đến Mười Một](../../README.md#standing-pipeline-and-forums) (*chuỗi quỹ đạo và giám sát diễn đàn*).
 
 </details>
 
@@ -624,7 +624,7 @@ Quản trị chuyển tiếp tồn tại để bảo đảm liên tục và khô
   Đường dẫn được đặt tên dự phòng định trước, tiêu chí hoàn từng phần, và thủ tục đặt lại đường cơ sở do [**CI-14**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*Quản trị chuyển tiếp và tiến hóa thể chế*) quản trị.
   - Trạng thái chuyển tiếp thất hoặc suy không được thành đường cơ sở mới chỉ vì tồn tại dai.
 - **Đặt lại đường cơ sở có trọng:** Một lần đặt lại đường cơ sở có trọng cập nhật mốc chuyển tiếp, giả định rủi ro, chủ trì, và kế hoạch vận hành khi cổng thất hoặc chuyển tiếp đứng. Nó đòi thẩm quyền hiến pháp hợp lệ và lý do công có hồ sơ. Nó phải giữ **tối thiểu Sàn Quyền** và không được thay quy tắc đổi Hiến pháp này hợp pháp.
-- **Điều kiện sức khỏe xác minh:** Đặt lại hoặc tiếp tục trên đường cơ sở chuyển tiếp đã sửa là không tuân thủ nơi [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) dưới [Chương Bảy](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification) hoặc chuỗi quỹ đạo dưới [Chương Tám đến Mười Một](../../README.md#standing-pipeline-and-forums) cấu trúc không tin được — ví dụ nơi chứng nhận thường xuyên ban phước hệ thống đánh bại Sàn Quyền có trọng, đo quỹ đạo thường xuyên lệch thực tại vật chất đã xác minh, hoặc đường dẫn được đặt tên tranh biện và rà soát không sửa được những khoảng đó trong thời chia tỷ lệ theo tính trọng yếu. Trong những điều kiện đó, sửa máy xác minh và đo ưu tiên hơn hoạch lại mỹ miều.
+- **Điều kiện sức khỏe xác minh:** Đặt lại hoặc tiếp tục trên đường cơ sở chuyển tiếp đã sửa là không tuân thủ nơi [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) dưới [Chương Bảy](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) hoặc chuỗi quỹ đạo dưới [Chương Tám đến Mười Một](../../README.md#standing-pipeline-and-forums) cấu trúc không tin được — ví dụ nơi chứng nhận thường xuyên ban phước hệ thống đánh bại Sàn Quyền có trọng, đo quỹ đạo thường xuyên lệch thực tại vật chất đã xác minh, hoặc đường dẫn được đặt tên tranh biện và rà soát không sửa được những khoảng đó trong thời chia tỷ lệ theo tính trọng yếu. Trong những điều kiện đó, sửa máy xác minh và đo ưu tiên hơn hoạch lại mỹ miều.
 - **Truy vết công:** Quyết định chuyển tiếp có trọng, trì hoãn, đảo, và xác định đặt lại đường cơ sở phải còn kiểm được với lý do và hệ quả rủi ro.
   - Tài liệu vẫn chịu ràng buộc bí mật hẹp, có biện minh.
   - Nó phải giữ đủ giải thích công để đánh giá liệu trì hoãn, hoàn, hay tiếp tục có biện minh hiến pháp không.
@@ -635,7 +635,7 @@ Quản trị chuyển tiếp tồn tại để bảo đảm liên tục và khô
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§3.1 An toàn](core_01_a_values_principles.md#31-safety-harm-constraint), [Chương Một §6.1.5 Thủ tục va chạm quyền](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), và [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§3.1 An toàn](core_01_a_values_principles.md#31-safety-harm-constraint), [Chương Một §6.1.5 Thủ tục va chạm quyền](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), và [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Đọc cùng: **Điều III-A** (*Sống còn*); **Điều XII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*); **Điều X-B** (*Biên hại tập thể và giao diện cưỡng chế*); **Chương Tám**; **Chương Một**, kể cả thủ tục va chạm quyền §6; **chồng ràng buộc mặc định** ở đầu Chương Sáu (*giao diện chiếm hữu và sửa chữa*); [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) đến **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*Quản trị chuyển tiếp và tiến hóa thể chế*).
 
 </details>
@@ -653,7 +653,7 @@ Quản trị chuyển tiếp tồn tại để bảo đảm liên tục và khô
 
 *Nói thẳng: hệ thống và tài sản không tuân thủ có thể được sửa chữa trong chuyển tiếp — nhưng chỉ qua quy trình hẹp, có hồ sơ, rà soát được bảo vệ quyền cơ bản, chặn cớ, và không biến thành trả đũa hay nhắm chính trị. Cách thể chế làm — vai trò, cò, lưu giữ, kháng, quỹ, và cơ chế khuyến khích — sống ở **CI-14.1** đến **CI-14.3**; điều này nêu sàn hiến pháp những thủ tục đó không được thu hẹp.*
 
-- **Sàn chiếm hữu:** Nếu bạn sở hữu hoặc dùng điều gì hợp pháp, chuyển tiếp không thể lấy nó vì ý thích. Nhưng sở hữu không phải khiên khi để tài sản đó chạy tiếp rõ ràng giữ một vi phạm hiến pháp đã biết, quy mô lớn đang chạy — sau khi [Chương Tám](../../core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) đã ghi vi phạm trên hồ sơ. Trong trường hợp đó, chuyển tiếp vẫn có thể hành để dừng hại, nhưng chỉ qua bảo vệ của Điều này và **CI-14.1** đến **CI-14.3**.
+- **Sàn chiếm hữu:** Nếu bạn sở hữu hoặc dùng điều gì hợp pháp, chuyển tiếp không thể lấy nó vì ý thích. Nhưng sở hữu không phải khiên khi để tài sản đó chạy tiếp rõ ràng giữ một vi phạm hiến pháp đã biết, quy mô lớn đang chạy — sau khi [Chương Tám](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) đã ghi vi phạm trên hồ sơ. Trong trường hợp đó, chuyển tiếp vẫn có thể hành để dừng hại, nhưng chỉ qua bảo vệ của Điều này và **CI-14.1** đến **CI-14.3**.
 - **Sửa chữa phạm vi chuyển tiếp:** Một **kế hoạch chuyển tiếp có hồ sơ** dưới **Điều XXVI-A** (*Tiếp nhận theo pha và liên tục Sàn Quyền*) có thể ủy sửa chữa tăng tốc hệ thống hoặc tài sản **không tuân thủ có trọng** chỉ trong chuyển tiếp. Phạm vi vận hành, biện pháp phép, và thủ tục thể chế do [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) đến **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*Quản trị chuyển tiếp và tiến hóa thể chế*) quản trị, đọc cùng **CJS-3.6** (*chuỗi kiểm soát lưu giữ tài sản và tách khuyến khích*) và **Điều XII-E** (*Hệ thống tự chủ cao và tính toàn vẹn quy trình qua công cụ*) nơi áp.
 - **Bảo vệ đòi:** Mọi chương trình tước hoặc khuyến khích phạm vi chuyển tiếp phải thỏa:
   - [**Nguyên tắc ràng buộc hạn chế nhẹ nhất, có hạn thời gian, và rà soát được**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle), với **Sự cần thiết** và **Tính tương xứng** chứng minh được;
@@ -674,6 +674,6 @@ Quản trị chuyển tiếp tồn tại để bảo đảm liên tục và khô
 
 **Tệp trước:** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 
-**Tệp tiếp theo (vẫn tiếng Anh):** [core_07_a_system_alignment_certification_evaluation.md](../../core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
+**Tệp tiếp theo (vẫn tiếng Anh):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 
 **Nguyên bản ràng buộc:** [core_06_rights_part_d.md](../../core_06_rights_part_d.md)
