@@ -1,92 +1,92 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-09-17T13:14:44+00:00",
+  "generated_at": "2026-09-17T21:56:01+00:00",
   "files": {
     "core_00_preamble.md": {
-      "total_lines": 291,
+      "total_lines": 314,
       "sections": [
         {
           "header": "PREAMBLE / FOUNDATIONAL REQUIREMENTS",
           "level": 1,
           "line_start": 2,
-          "line_end": 291,
+          "line_end": 314,
           "anchor": "#chapter-00-preamble--foundational-requirements"
         },
         {
           "header": "1. The Model",
           "level": 3,
           "line_start": 27,
-          "line_end": 47,
+          "line_end": 68,
           "anchor": "#complexity-orientation"
         },
         {
           "header": "2. Measurements Overview",
           "level": 3,
-          "line_start": 48,
-          "line_end": 73,
+          "line_start": 69,
+          "line_end": 96,
           "anchor": "#2-the-measurements"
         },
         {
           "header": "3. Governance and Stewardship",
           "level": 3,
-          "line_start": 74,
-          "line_end": 122,
+          "line_start": 97,
+          "line_end": 145,
           "anchor": null
         },
         {
           "header": "3.1 Using Measurements in Governance",
           "level": 4,
-          "line_start": 83,
-          "line_end": 91,
+          "line_start": 106,
+          "line_end": 114,
           "anchor": "#31-using-measurements-in-governance"
         },
         {
           "header": "3.2 Key Governance Processes",
           "level": 4,
-          "line_start": 92,
-          "line_end": 106,
+          "line_start": 115,
+          "line_end": 129,
           "anchor": "#32-key-governance-processes"
         },
         {
           "header": "3.3 Governance Layers",
           "level": 4,
-          "line_start": 107,
-          "line_end": 122,
+          "line_start": 130,
+          "line_end": 145,
           "anchor": "#33-governance-layers"
         },
         {
           "header": "4. Principles, Definitions, and Rights",
           "level": 3,
-          "line_start": 123,
-          "line_end": 163,
+          "line_start": 146,
+          "line_end": 186,
           "anchor": "#4-principles-definitions-and-rights"
         },
         {
           "header": "5. Key Practical Process Pipelines",
           "level": 3,
-          "line_start": 164,
-          "line_end": 237,
+          "line_start": 187,
+          "line_end": 260,
           "anchor": "#5-key-practical-process-pipelines"
         },
         {
           "header": "5.1 How the full chain fits together",
           "level": 4,
-          "line_start": 223,
-          "line_end": 237,
+          "line_start": 246,
+          "line_end": 260,
           "anchor": "#51-how-the-full-chain-fits-together"
         },
         {
           "header": "6. Governance, Change, and Incorporation",
           "level": 3,
-          "line_start": 238,
-          "line_end": 271,
+          "line_start": 261,
+          "line_end": 294,
           "anchor": "#6-governance-change-and-incorporation"
         },
         {
           "header": "7. Companion Implementation Corpus",
           "level": 3,
-          "line_start": 272,
-          "line_end": 291,
+          "line_start": 295,
+          "line_end": 314,
           "anchor": "#7-companion-implementation-corpus"
         }
       ]

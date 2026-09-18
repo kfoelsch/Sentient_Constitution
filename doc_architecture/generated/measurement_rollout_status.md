@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-09-10T13:35:33+00:00
+Generated: 2026-09-17T21:56:03+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **222/222** terms pass tier audit.
+Approved progress: **223/223** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -44,6 +44,7 @@ Approved progress: **222/222** terms pass tier audit.
 
 | Term | Status | Tier depth | Aim role | File | Has measurements | Audit |
 | --- | --- | --- | --- | --- | --- | --- |
+| Anti-Capture | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Cascading Failure | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Charter | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Constitutional Emergency and Contingency | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
