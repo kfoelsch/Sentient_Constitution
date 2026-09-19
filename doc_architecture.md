@@ -110,6 +110,7 @@ Keep constitutional concept + O/M/A/C boundary only; cite owner homes for instit
 | MD-LIST-INTRO-01 | Bold list-intro lead-in ends with `:` not `.`: standalone (`**Record and showing:**`), heading-echo run-in (`**Symmetric costly constraints:**`), or list-item label (`- **Not standing:**`). Ordinary non-echo run-ins (`**Admission scope.**`) are out of scope. | `make corpus-markdown-audit` |
 | MD-HEADING-TOPIC-01 | Numbered section's first body-prose line (after widgets and `*In plain terms*` gloss) must not restate that heading as a topic sentence (`**[§13.2 Title](#…):**`). Unnumbered heading-echo run-ins stay under MD-LIST-INTRO-01. | `make heading-echo-topic-audit` |
 | VIS-CHART-READABILITY-01 | Mermaid chart boxes with a title and explanatory content use `<br/><br/>` between the title and content for a blank visual line. | Manual (see **Chart readability standard** below) |
+| VIS-CHART-THEME-02 | Reader-facing Mermaid nodes use transparent fills, white labels, and the shared semantic-outline palette; do not rely on renderer-default label colors. | Manual (see **Chart color and theme standard** below) |
 | OWNER-OPENING-01 | Binding constitutional-owner opening statement | Manual (see **section 4**) |
 | LINK-IN-PARA-14 | Load-bearing in-paragraph links | `make in-paragraph-link-audit` |
 | CH5-GRAVITY | Chapter Five admission / de-bundling | `make ch5-definitions-gravity-audit` |
@@ -145,6 +146,34 @@ Enforced (with **NAV-WIDGET-TOP-01**) by `make widget-top-placement-audit`: chap
 ### Chart readability standard
 
 Mermaid chart boxes that contain a title and explanatory content must separate them with a blank visual line: use two HTML line breaks (`<br/><br/>`) after the title before the content. This is a presentation standard for readability; it does not change the chart's relationships or authority. Example: `A["Title<br/><br/>Content"]`.
+
+### Chart color and theme standard (VIS-CHART-THEME-02)
+
+Reader-facing Mermaid diagrams use **unfilled nodes with white text and explicit colored outlines**. Do not rely on a renderer's default text color: theme defaults can produce white text over a pale fill or black text over a dark canvas.
+
+**Shared semantic-outline palette:**
+
+- **Neutral / input / context** — slate `#64748b`
+- **Authority / source / official record** — blue `#2563eb`
+- **Participation / affected sentients** — teal `#0f766e`
+- **Systems / certification / operational implementation** — green `#16a34a`
+- **Verification / contest / forum review** — orange `#ea580c`
+- **Standing / accountability finding / misconduct** — rose `#db2777`
+- **Effect / remedy / restoration / constitutional change** — purple `#9333ea`
+
+Assign a node by its primary role in the diagram. Color is a reusable visual cue, not a claim of authority, severity, sequence, or normative priority; relationship labels and nearby prose continue to carry that meaning. Nodes without a clear semantic role use slate. Subgraph containers remain unfilled and unstyled unless their boundary itself needs explanation.
+
+Use an explicit style on every colored node, with `fill:none`, `color:#ffffff`, and the palette's outline color. Example:
+
+```mermaid
+flowchart LR
+    A["Source record"] --> B["Review route"] --> C["Named effect"]
+    style A fill:none,stroke:#2563eb,color:#ffffff
+    style B fill:none,stroke:#ea580c,color:#ffffff
+    style C fill:none,stroke:#9333ea,color:#ffffff
+```
+
+Before publishing a diagram to a different rendering surface, visually confirm that its canvas is dark enough for white labels; if it is not, choose an explicitly contrasting label/fill pair rather than depending on theme defaults.
 
 ### Constitutional owner opening statement (OWNER-OPENING-01)
 
@@ -502,7 +531,7 @@ CS-5–CS-12 and CF specialist / continuity files use a lighter version of the s
 <a id="plain-language-vocabulary-guardrails"></a>
 ### Plain-Language Vocabulary Guardrails
 
-Capitalize **Constitutional Tetrad**, **Two Constitutional Aims**, **Flourishing**, **Continuity** (constitutional aim sense), **material stake**, **Wellbeing**, **Safety**, **Truth**, **Rights Floor**, **Foundational Rights**, **Constitutional Contract Layer**, and **Stakeholder System Participation** when they name constitutional layers. Avoid bare **drift** for stewardship, governance, incentive, or alignment divergence — prefer **misalignment** or **constitutional misalignment**; retain **anti-drift**, **classification drift**, **version drift**, and other established custody or certification compounds. Forum/standing boundary gloss: a **filed case** is not standing by itself — prefer **case** over **claim** in that contrast. **Charter** polysemy: (1) Chapter Five **Charter** — published scope instrument for a system, institution, or business ([core_05_band_continuity.md#charter](core_05_band_continuity.md#charter)); (2) Chapter Thirteen **treaty, compact, or charter** — polity-authorization pathway; (3) verb forms such as **hold a charter over** / legacy **supervise, charter, or …** — authorizing control. Do not use bare **charter** for the Constitution or Corpus itself. Prefer **Preamble** over **Chapter Zero** / **Chapter 00** when naming [`core_00_preamble.md`](core_00_preamble.md). Avoid bare **pathway** / **pathways** in the standing/privilege sense — prefer **named pathway**, **named privilege pathway**, or a type prefix from Chapter Ten §4.2 (`trust`, `role`, `authority`, `credit`, `oversight`, `recognition`, `stewardship`, `governance-voting`, `stakeholder-participation`). Do **not** invent **clearance pathway** or **lock pathway** as house terms (clearance and locks open or close a named pathway). Leave already-qualified families alone: **Capture of Resolution Pathways**; challenge / review / appeal / remedy / redress / contest pathways; restorative / restoration pathways; causal or system compounds (`harm pathway`, `reward pathway`, and similar); and established titles such as **Role-Depth and Material-Responsibility Pathways**. **Governance layers:** name **Constitutional Contract Layer** (who may govern, by what **legitimacy mechanism**, on what durable terms) vs **Stakeholder System Participation** (voice inside already-authorized systems). Canonical split: [Preamble §3.3](core_00_preamble.md#33-governance-layers). Avoid **stakeholder governance**, **constitutional governance** as layer labels, **governance layer mechanism**, and **stakeholder-layer**. Keep finding-profile codes **CCL** / **SSP** / **INT** as audit shorthand; keep **governance-layer discipline** as the Preamble §3.3 nickname. Full tables: [tools/architecture/lexical_guardrails.json](tools/architecture/lexical_guardrails.json). Forum vocabulary: [.cursor/rules/sentient-constitution.mdc](.cursor/rules/sentient-constitution.mdc). Reader briefs in [`implementation/adoption/easy_entry/`](implementation/adoption/easy_entry/) have a **scoped** jargon list (`easy_entry_jargon` in that JSON; `make easy-entry-jargon-audit`); do not import those terms into the global vocabulary table.
+Capitalize **Constitutional Tetrad**, **Two Constitutional Aims**, **Flourishing**, **Continuity** (constitutional aim sense), **material stake**, **Wellbeing**, **Safety**, **Truth**, **Rights Floor**, **Foundational Rights**, **Constitutional Contract Layer**, and **Stakeholder System Participation** when they name constitutional layers. Avoid bare **drift** for stewardship, governance, incentive, or alignment divergence — prefer **misalignment** or **constitutional misalignment**; retain **anti-drift**, **classification drift**, **version drift**, and other established custody or certification compounds. Forum/standing boundary gloss: a **filed case** is not standing by itself — prefer **case** over **claim** in that contrast. **Charter** polysemy: (1) Chapter Five **Charter** — published scope instrument for a system, institution, or business ([core_05_band_continuity.md#charter](core_05_band_continuity.md#charter)); (2) Chapter Thirteen **treaty, compact, or charter** — polity-authorization pathway; (3) verb forms such as **hold a charter over** / legacy **supervise, charter, or …** — authorizing control. Do not use bare **charter** for the Constitution or Corpus itself. Prefer **Preamble** over **Chapter Zero** / **Chapter 00** when naming [`core_00_preamble.md`](core_00_preamble.md). Avoid bare **pathway** / **pathways** in the standing/privilege sense — prefer **named pathway**, **named privilege pathway**, or a type prefix from Chapter Ten §4.2 (`trust`, `role`, `authority`, `credit`, `oversight`, `recognition`, `stewardship`, `governance-voting`, `stakeholder-participation`). Do **not** invent **clearance pathway** or **lock pathway** as house terms (clearance and locks open or close a named pathway). Avoid **named-pathway result**: state whether a **specific role, authority, or access** is open, limited, or blocked, and name the **verified reason**. Leave already-qualified families alone: **Capture of Resolution Pathways**; challenge / review / appeal / remedy / redress / contest pathways; restorative / restoration pathways; causal or system compounds (`harm pathway`, `reward pathway`, and similar); and established titles such as **Role-Depth and Material-Responsibility Pathways**. **Governance layers:** name **Constitutional Contract Layer** (who may govern, by what **legitimacy mechanism**, on what durable terms) vs **Stakeholder System Participation** (voice inside already-authorized systems). Canonical split: [Preamble §3.3](core_00_preamble.md#33-governance-layers). Avoid **stakeholder governance**, **constitutional governance** as layer labels, **governance layer mechanism**, and **stakeholder-layer**. Keep finding-profile codes **CCL** / **SSP** / **INT** as audit shorthand; keep **governance-layer discipline** as the Preamble §3.3 nickname. Full tables: [tools/architecture/lexical_guardrails.json](tools/architecture/lexical_guardrails.json). Forum vocabulary: [.cursor/rules/sentient-constitution.mdc](.cursor/rules/sentient-constitution.mdc). Reader briefs in [`implementation/adoption/easy_entry/`](implementation/adoption/easy_entry/) have a **scoped** jargon list (`easy_entry_jargon` in that JSON; `make easy-entry-jargon-audit`); do not import those terms into the global vocabulary table.
 
 ### Order and single-home discipline
 
@@ -668,6 +697,18 @@ flowchart TB
   end
   sc --> cjs --> impl
   sc --> impl
+  style C1 fill:none,stroke:#2563eb,color:#ffffff
+  style C5 fill:none,stroke:#2563eb,color:#ffffff
+  style C6 fill:none,stroke:#2563eb,color:#ffffff
+  style C7 fill:none,stroke:#16a34a,color:#ffffff
+  style C8 fill:none,stroke:#db2777,color:#ffffff
+  style C9 fill:none,stroke:#9333ea,color:#ffffff
+  style C10 fill:none,stroke:#db2777,color:#ffffff
+  style C11 fill:none,stroke:#ea580c,color:#ffffff
+  style C16 fill:none,stroke:#9333ea,color:#ffffff
+  style R fill:none,stroke:#2563eb,color:#ffffff
+  style P fill:none,stroke:#16a34a,color:#ffffff
+  style OPS fill:none,stroke:#16a34a,color:#ffffff
 ```
 
 ---

@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-19T00:44:41+00:00",
+  "generated_at": "2026-09-19T21:48:44+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 14788,
+  "edge_count": 14776,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -338,62 +338,6 @@
       "source_file": "core_00_preamble.md",
       "source_header": "4. Principles, Definitions, and Rights",
       "source_anchor": "#4-principles-definitions-and-rights",
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#2-foundational-objective-wellbeing",
-      "count": 1
-    },
-    {
-      "source_file": "core_00_preamble.md",
-      "source_header": "4. Principles, Definitions, and Rights",
-      "source_anchor": "#4-principles-definitions-and-rights",
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#chapter-01-part-b-interaction-and-interpretation",
-      "count": 1
-    },
-    {
-      "source_file": "core_00_preamble.md",
-      "source_header": "4. Principles, Definitions, and Rights",
-      "source_anchor": "#4-principles-definitions-and-rights",
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#chapter-01-part-c-stewardship-and-governance",
-      "count": 1
-    },
-    {
-      "source_file": "core_00_preamble.md",
-      "source_header": "4. Principles, Definitions, and Rights",
-      "source_anchor": "#4-principles-definitions-and-rights",
-      "target_file": "core_02_definition_structure.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_00_preamble.md",
-      "source_header": "4. Principles, Definitions, and Rights",
-      "source_anchor": "#4-principles-definitions-and-rights",
-      "target_file": "core_03_definition_integrity.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_00_preamble.md",
-      "source_header": "4. Principles, Definitions, and Rights",
-      "source_anchor": "#4-principles-definitions-and-rights",
-      "target_file": "core_04_burden_traceability_verification.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_00_preamble.md",
-      "source_header": "4. Principles, Definitions, and Rights",
-      "source_anchor": "#4-principles-definitions-and-rights",
-      "target_file": "core_05__definitions_home.md",
-      "target_anchor": "#chapter-five-foundational-definitions",
-      "count": 1
-    },
-    {
-      "source_file": "core_00_preamble.md",
-      "source_header": "4. Principles, Definitions, and Rights",
-      "source_anchor": "#4-principles-definitions-and-rights",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#materially-binding-act-record",
       "count": 1
@@ -420,46 +364,6 @@
       "source_anchor": "#4-principles-definitions-and-rights",
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#corpus",
-      "count": 1
-    },
-    {
-      "source_file": "core_00_preamble.md",
-      "source_header": "4. Principles, Definitions, and Rights",
-      "source_anchor": "#4-principles-definitions-and-rights",
-      "target_file": "core_06_rights_part_a.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_00_preamble.md",
-      "source_header": "4. Principles, Definitions, and Rights",
-      "source_anchor": "#4-principles-definitions-and-rights",
-      "target_file": "core_06_rights_part_b.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_00_preamble.md",
-      "source_header": "4. Principles, Definitions, and Rights",
-      "source_anchor": "#4-principles-definitions-and-rights",
-      "target_file": "core_06_rights_part_c.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_00_preamble.md",
-      "source_header": "4. Principles, Definitions, and Rights",
-      "source_anchor": "#4-principles-definitions-and-rights",
-      "target_file": "core_06_rights_part_d.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_00_preamble.md",
-      "source_header": "4. Principles, Definitions, and Rights",
-      "source_anchor": "#4-principles-definitions-and-rights",
-      "target_file": "core_07_functional_independence_segregation_of_duties.md",
-      "target_anchor": "#chapter-seven-functional-independence-and-segregation-of-duties",
       "count": 1
     },
     {

@@ -102,6 +102,12 @@ flowchart TD
   ch11 --> lead
   dispute --> direct
   direct --> ch11
+  style dispute fill:none,stroke:#64748b,color:#ffffff
+  style challengePath fill:none,stroke:#0f766e,color:#ffffff
+  style stillOpen fill:none,stroke:#ea580c,color:#ffffff
+  style ch11 fill:none,stroke:#ea580c,color:#ffffff
+  style lead fill:none,stroke:#ea580c,color:#ffffff
+  style direct fill:none,stroke:#ea580c,color:#ffffff
 ```
 
 *Reader map only. It does not add, remove, or narrow the Dispute sequencing paragraph.*

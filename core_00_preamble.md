@@ -51,6 +51,10 @@ flowchart TB
     M -->|scales the demands of| T
     A -->|pursued within| R
     T -->|operates within| R
+    style A fill:none,stroke:#16a34a,color:#ffffff
+    style T fill:none,stroke:#2563eb,color:#ffffff
+    style M fill:none,stroke:#64748b,color:#ffffff
+    style R fill:none,stroke:#2563eb,color:#ffffff
 ```
 
 - **participation** — affected sentients get a real voice, fair representation, a fair chance to challenge decisions, and access to consequential roles in proportion to the stake
@@ -150,46 +154,80 @@ Conversely, constitutional authorization does not erase duties owed under the [S
 
 *In plain terms: Chapters One through Six own values, how words are built and checked, the dictionary, and the Rights Floor; later chapters must respect those homes, not quietly move them.*
 
-Sections **4 through 7** are this Constitution's **positive owner register**: each block names the substantive domain its chapter (or companion corpus) owns and what it produces. Binding one-line owner claims also appear at each numbered chapter opening. Other layers may point to an owner — they must not quietly rewrite or relocate it; that non-relocation discipline lives under [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack).
+Sections **4 through 7** are this Constitution's **positive owner register**. Each block names the substantive domain its chapter (or companion corpus) owns and what it produces. Binding one-line owner claims also appear at each numbered chapter opening. Other layers may point to an owner, but they must not quietly rewrite or relocate it; that non-relocation discipline lives under [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack).
 
-Chapters **One through Six** supply the values, vocabulary, verification machinery, and Rights Floor that everything later must respect — including the [Key Practical Process Pipelines](#5-key-practical-process-pipelines) in Section 5, the governance and change-path chapters in Section 6, and the [companion implementation corpus](#7-companion-implementation-corpus) in Section 7.
+Chapters **One through Six** supply the values, vocabulary, verification machinery, and Rights Floor. Everything later must respect those values, vocabulary, verification machinery, and Rights Floor. This includes the [Key Practical Process Pipelines](#5-key-practical-process-pipelines) in Section 5, the governance and change-path chapters in Section 6, and the [companion implementation corpus](#7-companion-implementation-corpus) in Section 7.
 
 Each summary states what the chapter owns and what it produces.
 
-**Chapter One — Values, principles, and stewardship** ([Part A](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [Part B](core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [Part C](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
+**Chapter One — Values, principles, and stewardship**
 
-- **What it owns:** States the Constitution's guiding values and constraints — wellbeing, fairness, Safety, Truth, Trust, bounded freedom, recognition and proportional reward for lawful contribution, conflict resolution among principles, and stewardship duties including distributed understanding, systemic evaluation, and governance discipline.
-- **What it produces:** The interpretive foundation for every later chapter — the rules that turn high-level aims into operative requirements when systems, rights, definitions, or process pipelines must be read and applied.
+- **What it owns:** States the Constitution's guiding values and constraints, including:
+  - wellbeing, fairness, Safety, Truth, Trust, and bounded freedom;
+  - recognition and proportional reward for lawful contribution;
+  - conflict resolution among principles; and
+  - stewardship duties, including distributed understanding, systemic evaluation, and governance discipline.
+- **What it produces:** The interpretive foundation for every later chapter. These are the rules that turn high-level aims into operative requirements when systems, rights, definitions, or process pipelines must be read and applied.
 
-**Chapter Two — Definition structure** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
+**Chapter Two — Definition structure**
 
-- **What it owns:** Defines how constitutional terms are built — the Ontological/Measurement/Assessment/Compliance (O/M/A/C) component structure, alignment requirements, and component rules that keep definitions precise and usable across the corpus.
+- **What it owns:** Defines how constitutional terms are built through:
+  - the Ontological/Measurement/Assessment/Compliance (O/M/A/C) component structure;
+  - alignment requirements; and
+  - component rules that keep definitions precise and usable across the corpus.
 - **What it produces:** A shared grammar for definitions so later chapters do not fall into vague labels, hidden assumptions, or incompatible term shapes.
 
-**Chapter Three — Definition integrity** ([`core_03_definition_integrity.md`](core_03_definition_integrity.md))
+**Chapter Three — Definition integrity**
 
-- **What it owns:** Guards against evasion, scope-shifting, redefinition games, and non-compliance tricks that would hollow definitions on paper while defeating them in practice.
+- **What it owns:** Guards against:
+  - evasion and scope-shifting;
+  - redefinition games; and
+  - non-compliance tricks that would hollow definitions on paper while defeating them in practice.
 - **What it produces:** Anti-evasion discipline and non-compliance orientation metadata — including routing hooks toward standing and misconduct review where evasion is substantiated.
 
-**Chapter Four — Burden, traceability, and verification** ([`core_04_burden_traceability_verification.md`](core_04_burden_traceability_verification.md))
+**Chapter Four — Burden, traceability, and verification**
 
-- **What it owns:** Puts the proof burden on whoever claims compliance; requires traceable evidence, observability, and verification that scale to [**material stake**](#material-stake) and remain practically challengeable.
-- **What it produces:** The verification pipeline that feeds **verified inputs** in [Chapter Nine](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) and system-alignment evidence in [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) — without replacing standing measurement itself.
+- **What it owns:**
+  - puts the proof burden on whoever claims compliance; and
+  - requires traceable evidence, observability, and verification that scale to [**material stake**](#material-stake) and remain practically challengeable.
+- **What it produces:** The verification pipeline that feeds **verified inputs** in [Chapter Nine](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) and system-alignment evidence in [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification). It does not replace standing measurement itself.
 
-**Chapter Five — Foundational definitions** ([`core_05__definitions_home.md`](core_05__definitions_home.md#chapter-five-foundational-definitions))
+**Chapter Five — Foundational definitions**
 
-- **What it owns:** Supplies the canonical definition stack — Oversight, Participation, Accountability, Continuity, and Integrative bands — plus [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack), [Corpus](core_05_band_integrative.md#corpus), and related boundary rules.
-- **What it produces:** Precise constitutional vocabulary for interpretation, audit, and adjudication. It is the **definition stack**, not the Rights Floor; binding Rights Floors live in Chapter Six. Owner-domain routing for the instrument as a whole lives in this Preamble register (sections 4–7).
+- **What it owns:** Supplies:
+  - the canonical definition stack: Oversight, Participation, Accountability, Continuity, and Integrative bands;
+  - [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack);
+  - [Corpus](core_05_band_integrative.md#corpus); and
+  - related boundary rules.
+- **What it produces:** Precise constitutional vocabulary for interpretation, audit, and adjudication. It is the **definition stack**, not the Rights Floor. Binding Rights Floors live in Chapter Six. Owner-domain routing for the instrument as a whole lives in this Preamble register (sections 4–7).
 
-**Chapter Six — Foundational Rights** ([Part A](core_06_rights_part_a.md) · [Part B](core_06_rights_part_b.md) · [Part C](core_06_rights_part_c.md) · [Part D](core_06_rights_part_d.md))
+**Chapter Six — Foundational Rights**
 
-- **What it owns:** States the Rights Floor in Articles **I–XXVI** — survival essentials, resource allocation and dependency stewardship, dignity, agency, participation, challenge and remedy, justice constraints, timeliness under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*), and transition rules — organized for planet-first reading across four parts.
-- **What it produces:** Non-negotiable rights protections and remedy hooks that Chapters Seven through Twelve, forums, governance, and amendment rules must respect — not narrow, bypass, or hollow through procedure or proxy metrics.
+- **What it owns:** States the Rights Floor in Articles **I–XXVI**, covering:
+  - survival essentials;
+  - resource allocation and dependency stewardship;
+  - dignity, agency, and participation;
+  - challenge and remedy;
+  - justice constraints;
+  - timeliness under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*); and
+  - transition rules.
+  The four parts organize these protections for planet-first reading.
+- **What it produces:** Non-negotiable rights protections and remedy hooks that Chapters Seven through Twelve, forums, governance, and amendment rules must respect and not narrow, bypass, or hollow through procedure or proxy metrics.
 
-**Chapter Seven — Functional independence and segregation of duties** ([`core_07_functional_independence_segregation_of_duties.md`](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties))
+**Chapter Seven — Functional independence and segregation of duties**
 
-- **What it owns:** The cross-process floor that separates initiation, verification or authorization, official record custody, and review of challenges on every materially binding act — including the universal minimum contents of each [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record), independence from the actor's [Material Control Line](core_05_band_accountability.md#material-control-line), published placement, substitutes, proportionate merged hosting, emergency bounds, attributable handoffs, and wrong-seat routing.
-- **What it produces:** A reusable four-seat and Act Record architecture that every later certification, standing, forum, governance, and incorporated implementation process must instantiate before its result can count as independently checked, reliably recorded, and genuinely contestable.
+- **What it owns:** The cross-process floor requiring every **Materially Binding Act** to assign four functions separately:
+  - initiation;
+  - verification or authorization;
+  - official record custody; and
+  - review of challenges.
+  It includes:
+  - the universal minimum contents of each [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record);
+  - independence from the actor's [Material Control Line](core_05_band_accountability.md#material-control-line);
+  - published placement and substitutes;
+  - proportionate merged hosting and emergency bounds; and
+  - attributable handoffs and wrong-seat routing.
+- **What it produces:** A reusable four-seat and Act Record architecture. Every later certification, standing, forum, governance, and incorporated implementation process must instantiate it before its result can count as independently checked, reliably recorded, and genuinely contestable.
 
 <a id="5-key-practical-process-pipelines"></a>
 ### 5. Key Practical Process Pipelines

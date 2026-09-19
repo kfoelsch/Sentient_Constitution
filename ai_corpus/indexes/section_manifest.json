@@ -1,92 +1,92 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-09-19T00:44:39+00:00",
+  "generated_at": "2026-09-19T21:48:42+00:00",
   "files": {
     "core_00_preamble.md": {
-      "total_lines": 323,
+      "total_lines": 361,
       "sections": [
         {
           "header": "PREAMBLE / FOUNDATIONAL REQUIREMENTS",
           "level": 1,
           "line_start": 2,
-          "line_end": 323,
+          "line_end": 361,
           "anchor": "#chapter-00-preamble--foundational-requirements"
         },
         {
           "header": "1. The Model",
           "level": 3,
           "line_start": 27,
-          "line_end": 70,
+          "line_end": 74,
           "anchor": "#complexity-orientation"
         },
         {
           "header": "2. Measurements Overview",
           "level": 3,
-          "line_start": 71,
-          "line_end": 98,
+          "line_start": 75,
+          "line_end": 102,
           "anchor": "#2-the-measurements"
         },
         {
           "header": "3. Governance and Stewardship",
           "level": 3,
-          "line_start": 99,
-          "line_end": 148,
+          "line_start": 103,
+          "line_end": 152,
           "anchor": null
         },
         {
           "header": "3.1 Using Measurements in Governance",
           "level": 4,
-          "line_start": 108,
-          "line_end": 116,
+          "line_start": 112,
+          "line_end": 120,
           "anchor": "#31-using-measurements-in-governance"
         },
         {
           "header": "3.2 Key Governance Processes",
           "level": 4,
-          "line_start": 117,
-          "line_end": 132,
+          "line_start": 121,
+          "line_end": 136,
           "anchor": "#32-key-governance-processes"
         },
         {
           "header": "3.3 Governance Layers",
           "level": 4,
-          "line_start": 133,
-          "line_end": 148,
+          "line_start": 137,
+          "line_end": 152,
           "anchor": "#33-governance-layers"
         },
         {
           "header": "4. Principles, Definitions, and Rights",
           "level": 3,
-          "line_start": 149,
-          "line_end": 194,
+          "line_start": 153,
+          "line_end": 232,
           "anchor": "#4-principles-definitions-and-rights"
         },
         {
           "header": "5. Key Practical Process Pipelines",
           "level": 3,
-          "line_start": 195,
-          "line_end": 269,
+          "line_start": 233,
+          "line_end": 307,
           "anchor": "#5-key-practical-process-pipelines"
         },
         {
           "header": "5.1 How the full chain fits together",
           "level": 4,
-          "line_start": 254,
-          "line_end": 269,
+          "line_start": 292,
+          "line_end": 307,
           "anchor": "#51-how-the-full-chain-fits-together"
         },
         {
           "header": "6. Governance, Change, and Incorporation",
           "level": 3,
-          "line_start": 270,
-          "line_end": 303,
+          "line_start": 308,
+          "line_end": 341,
           "anchor": "#6-governance-change-and-incorporation"
         },
         {
           "header": "7. Companion Implementation Corpus",
           "level": 3,
-          "line_start": 304,
-          "line_end": 323,
+          "line_start": 342,
+          "line_end": 361,
           "anchor": "#7-companion-implementation-corpus"
         }
       ]
@@ -3414,13 +3414,13 @@
       ]
     },
     "core_07_functional_independence_segregation_of_duties.md": {
-      "total_lines": 363,
+      "total_lines": 383,
       "sections": [
         {
           "header": "CHAPTER SEVEN: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES",
           "level": 1,
           "line_start": 2,
-          "line_end": 363,
+          "line_end": 383,
           "anchor": "#chapter-seven-functional-independence-and-segregation-of-duties"
         },
         {
@@ -3434,49 +3434,49 @@
           "header": "2. Four-Seat Constitutional Floor",
           "level": 3,
           "line_start": 79,
-          "line_end": 160,
+          "line_end": 170,
           "anchor": "#2-four-seat-constitutional-floor"
         },
         {
           "header": "3. Independence, Conflict, and Control Lines",
           "level": 3,
-          "line_start": 161,
-          "line_end": 187,
+          "line_start": 171,
+          "line_end": 197,
           "anchor": "#3-independence-conflict-and-control-lines"
         },
         {
           "header": "4. Published Placement, Vacancy, and Substitution",
           "level": 3,
-          "line_start": 188,
-          "line_end": 215,
+          "line_start": 198,
+          "line_end": 225,
           "anchor": "#4-published-placement-vacancy-and-substitution"
         },
         {
           "header": "5. Proportional Scaling and Merged Hosting",
           "level": 3,
-          "line_start": 216,
-          "line_end": 252,
+          "line_start": 226,
+          "line_end": 262,
           "anchor": "#5-proportional-scaling-and-merged-hosting"
         },
         {
           "header": "6. Emergency and Urgent Action",
           "level": 3,
-          "line_start": 253,
-          "line_end": 291,
+          "line_start": 263,
+          "line_end": 301,
           "anchor": "#6-emergency-and-urgent-action"
         },
         {
           "header": "7. Act Records, Attributable Handoffs, and Wrong-Seat Routing",
           "level": 3,
-          "line_start": 292,
-          "line_end": 334,
+          "line_start": 302,
+          "line_end": 347,
           "anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing"
         },
         {
           "header": "8. Relationship to Later Processes",
           "level": 3,
-          "line_start": 335,
-          "line_end": 363,
+          "line_start": 348,
+          "line_end": 383,
           "anchor": "#8-relationship-to-later-processes"
         }
       ]
@@ -4497,195 +4497,195 @@
       ]
     },
     "core_12_forum.md": {
-      "total_lines": 908,
+      "total_lines": 914,
       "sections": [
         {
           "header": "CHAPTER TWELVE: FORUMS AND JURISDICTION",
           "level": 1,
           "line_start": 2,
-          "line_end": 908,
+          "line_end": 914,
           "anchor": "#chapter-twelve-forums-and-jurisdiction"
         },
         {
           "header": "1. Purpose and role — participation architecture",
           "level": 3,
           "line_start": 50,
-          "line_end": 136,
+          "line_end": 142,
           "anchor": "#1-purpose-and-role"
         },
         {
           "header": "2. Default venue and primary stakes",
           "level": 3,
-          "line_start": 137,
-          "line_end": 281,
+          "line_start": 143,
+          "line_end": 287,
           "anchor": "#2-default-venue-and-primary-stakes"
         },
         {
           "header": "2.1 Lead-default limits",
           "level": 4,
-          "line_start": 210,
-          "line_end": 220,
+          "line_start": 216,
+          "line_end": 226,
           "anchor": "#21-lead-default-limits"
         },
         {
           "header": "2.2 Mixed stakes and routing asymmetry",
           "level": 4,
-          "line_start": 221,
-          "line_end": 231,
+          "line_start": 227,
+          "line_end": 237,
           "anchor": "#22-mixed-stakes-and-routing-asymmetry"
         },
         {
           "header": "2.3 Forum case records, standing records, and contests",
           "level": 4,
-          "line_start": 232,
-          "line_end": 281,
+          "line_start": 238,
+          "line_end": 287,
           "anchor": "#23-forum-records-standing-records-and-contests"
         },
         {
           "header": "3. Transfer, consolidation, and coordination — continuity and anti-capture",
           "level": 3,
-          "line_start": 282,
-          "line_end": 348,
+          "line_start": 288,
+          "line_end": 354,
           "anchor": "#3-transfer-consolidation-and-coordination"
         },
         {
           "header": "4. Forum family definitions — accountability through adjudication",
           "level": 3,
-          "line_start": 349,
-          "line_end": 601,
+          "line_start": 355,
+          "line_end": 607,
           "anchor": "#4-forum-family-definitions"
         },
         {
           "header": "4.1 Sentient forums",
           "level": 4,
-          "line_start": 374,
-          "line_end": 399,
+          "line_start": 380,
+          "line_end": 405,
           "anchor": "#41-sentient-forums"
         },
         {
           "header": "4.2 Technical Forum Domains",
           "level": 4,
-          "line_start": 400,
-          "line_end": 436,
+          "line_start": 406,
+          "line_end": 442,
           "anchor": "#42-technical-forum-domains"
         },
         {
           "header": "4.3 Institutional forums",
           "level": 4,
-          "line_start": 437,
-          "line_end": 468,
+          "line_start": 443,
+          "line_end": 474,
           "anchor": "#43-institutional-forums"
         },
         {
           "header": "4.4 Environment forums",
           "level": 4,
-          "line_start": 469,
-          "line_end": 504,
+          "line_start": 475,
+          "line_end": 510,
           "anchor": "#44-environment-forums"
         },
         {
           "header": "4.5 Integrity forums",
           "level": 4,
-          "line_start": 505,
-          "line_end": 562,
+          "line_start": 511,
+          "line_end": 568,
           "anchor": "#45-integrity-forums"
         },
         {
           "header": "4.6 Constitutional forums",
           "level": 4,
-          "line_start": 563,
-          "line_end": 585,
+          "line_start": 569,
+          "line_end": 591,
           "anchor": "#46-constitutional-forums"
         },
         {
           "header": "4.7 Provisional implementation operational law",
           "level": 4,
-          "line_start": 586,
-          "line_end": 601,
+          "line_start": 592,
+          "line_end": 607,
           "anchor": "#47-provisional-implementation-operational-law"
         },
         {
           "header": "5. Escalation and certification",
           "level": 3,
-          "line_start": 602,
-          "line_end": 766,
+          "line_start": 608,
+          "line_end": 772,
           "anchor": "#5-escalation-and-certification"
         },
         {
           "header": "Family-to-family escalation",
           "level": 4,
-          "line_start": 619,
-          "line_end": 642,
+          "line_start": 625,
+          "line_end": 648,
           "anchor": "#7-escalation-and-certification"
         },
         {
           "header": "Existential risk and uncertainty on the record",
           "level": 4,
-          "line_start": 643,
-          "line_end": 647,
+          "line_start": 649,
+          "line_end": 653,
           "anchor": null
         },
         {
           "header": "Certification to **Constitutional** forums",
           "level": 4,
-          "line_start": 648,
-          "line_end": 663,
+          "line_start": 654,
+          "line_end": 669,
           "anchor": null
         },
         {
           "header": "Technical support and preserved **Integrity** escalation",
           "level": 4,
-          "line_start": 664,
-          "line_end": 674,
+          "line_start": 670,
+          "line_end": 680,
           "anchor": null
         },
         {
           "header": "Interim protection",
           "level": 4,
-          "line_start": 675,
-          "line_end": 685,
+          "line_start": 681,
+          "line_end": 691,
           "anchor": "#interim-protection"
         },
         {
           "header": "Backup routing under the anti-self-judging rule",
           "level": 4,
-          "line_start": 686,
-          "line_end": 703,
+          "line_start": 692,
+          "line_end": 709,
           "anchor": null
         },
         {
           "header": "Sentience-status adjudication (**Article V-E** (*Sentience-Status Adjudication Floor*) implementation hook)",
           "level": 4,
-          "line_start": 704,
-          "line_end": 753,
+          "line_start": 710,
+          "line_end": 759,
           "anchor": null
         },
         {
           "header": "Referral distinguished from expansion",
           "level": 4,
-          "line_start": 754,
-          "line_end": 759,
+          "line_start": 760,
+          "line_end": 765,
           "anchor": null
         },
         {
           "header": "Chapter Eleven designation and independent review",
           "level": 4,
-          "line_start": 760,
-          "line_end": 766,
+          "line_start": 766,
+          "line_end": 772,
           "anchor": null
         },
         {
           "header": "6. Timely resolution, materiality tiers, and anti-delay discipline",
           "level": 3,
-          "line_start": 767,
-          "line_end": 873,
+          "line_start": 773,
+          "line_end": 879,
           "anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
         },
         {
           "header": "7. Forum support before, during, and after review — oversight architecture",
           "level": 3,
-          "line_start": 874,
-          "line_end": 908,
+          "line_start": 880,
+          "line_end": 914,
           "anchor": "#7-forum-support-before-during-and-after-review"
         }
       ]

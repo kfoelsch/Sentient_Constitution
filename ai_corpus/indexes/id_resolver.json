@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-09-19T00:44:42+00:00",
+  "generated_at": "2026-09-19T21:48:44+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -5813,6 +5813,10 @@
       {
         "avoid": "pathways (bare; standing/privilege/lock/clearance object)",
         "prefer": "named pathways, named privilege pathways, or type-prefixed privilege pathways; retain Capture of Resolution Pathways, challenge/review/appeal/remedy/redress/contest pathways, restorative/restoration pathways, causal/system compounds, and established titles"
+      },
+      {
+        "avoid": "named-pathway result / named-pathway results",
+        "prefer": "state whether a specific role, authority, or access is open, limited, or blocked, and name the verified reason"
       },
       {
         "avoid": "stakeholder governance",

@@ -139,6 +139,15 @@ flowchart LR
   Review -->|changes requested| Edit
   Review -->|accepted| Merge[Merge]
   Merge --> Log[Spec change log and evidence link]
+  style Issue fill:none,stroke:#64748b,color:#ffffff
+  style Branch fill:none,stroke:#2563eb,color:#ffffff
+  style Edit fill:none,stroke:#16a34a,color:#ffffff
+  style Regen fill:none,stroke:#16a34a,color:#ffffff
+  style Gate fill:none,stroke:#ea580c,color:#ffffff
+  style PR fill:none,stroke:#2563eb,color:#ffffff
+  style Review fill:none,stroke:#ea580c,color:#ffffff
+  style Merge fill:none,stroke:#9333ea,color:#ffffff
+  style Log fill:none,stroke:#2563eb,color:#ffffff
 ```
 
 1. **Open an issue** for anything beyond a trivial fix (Lanes C and D always). Use the templates under `.github/ISSUE_TEMPLATE/`.

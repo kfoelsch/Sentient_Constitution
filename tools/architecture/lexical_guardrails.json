@@ -161,6 +161,10 @@
       "prefer": "named pathways, named privilege pathways, or type-prefixed privilege pathways; retain Capture of Resolution Pathways, challenge/review/appeal/remedy/redress/contest pathways, restorative/restoration pathways, causal/system compounds, and established titles"
     },
     {
+      "avoid": "named-pathway result / named-pathway results",
+      "prefer": "state whether a specific role, authority, or access is open, limited, or blocked, and name the verified reason"
+    },
+    {
       "avoid": "stakeholder governance",
       "prefer": "Stakeholder System Participation (voice inside already-authorized systems); Article XI by name when the Rights Floor is the point; Preamble §3.3"
     },

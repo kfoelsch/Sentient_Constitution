@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-19T00:44:40+00:00",
+  "generated_at": "2026-09-19T21:48:43+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -479,9 +479,8 @@
         "targets": [
           {
             "file": "core_01_a_values_principles.md",
-            "count": 8,
+            "count": 7,
             "anchors": [
-              "#2-foundational-objective-wellbeing",
               "#22-recognition-reinforcement-and-aspiration",
               "#31-safety-harm-constraint",
               "#32-truth-epistemic-integrity-constraint",
@@ -490,39 +489,15 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 2,
-            "anchors": [
-              "#63-minimization-of-avoidable-burden",
-              "#chapter-01-part-b-interaction-and-interpretation"
-            ]
-          },
-          {
-            "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 1,
             "anchors": [
-              "#chapter-01-part-c-stewardship-and-governance"
+              "#63-minimization-of-avoidable-burden"
             ]
-          },
-          {
-            "file": "core_02_definition_structure.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "core_03_definition_integrity.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "core_04_burden_traceability_verification.md",
-            "count": 1,
-            "anchors": []
           },
           {
             "file": "core_05__definitions_home.md",
-            "count": 2,
+            "count": 1,
             "anchors": [
-              "#chapter-five-foundational-definitions",
               "#chapter-five-measurement-crosswalk"
             ]
           },
@@ -639,28 +614,8 @@
             ]
           },
           {
-            "file": "core_06_rights_part_a.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "core_06_rights_part_b.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "core_06_rights_part_c.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "core_06_rights_part_d.md",
-            "count": 1,
-            "anchors": []
-          },
-          {
             "file": "core_07_functional_independence_segregation_of_duties.md",
-            "count": 4,
+            "count": 3,
             "anchors": [
               "#2-four-seat-constitutional-floor",
               "#chapter-seven-functional-independence-and-segregation-of-duties"

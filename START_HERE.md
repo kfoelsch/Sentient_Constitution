@@ -4,6 +4,8 @@ This page is the public front door. It is **process / operations-guide support**
 
 > **Start with the conceptual map:** [How the Sentient Constitution holds together](CONCEPTUAL_OVERVIEW.md) explains the aims, principles, Rights Floor, definitions, data and system classifications, processes, forums, governance, and corpus relationships in one reader-oriented view. It is non-operative support; reading it is not adoption.
 
+> **Use the record map for traceability:** [How constitutional records hold action accountable](RECORD_OVERVIEW.md) distinguishes record families, evidence, effects, custody, and challenge routes. It is non-operative support; reading it is not adoption.
+
 <a id="what-it-is"></a>
 ## 1. What it is
 

@@ -106,25 +106,25 @@ This chapter states the cross-process segregation-of-duties floor. It does not r
 flowchart TB
     subgraph Scope["Scope and materiality"]
         direction LR
-        A["Important decision<br/>or official record"]
-        H["Same separation rules<br/>for sentient and AI stewards"]
-        M["More potential harm, dependence,<br/>or reach requires stronger separation"]
+        A["Important decision<br/><br/>or official record"]
+        H["Same separation rules<br/><br/>for sentient and AI stewards"]
+        M["More potential harm, dependence,<br/><br/>or reach requires stronger separation"]
         A --> M
         H --> M
     end
-    X["The initiating seat cannot verify its own act;<br/>the verifier cannot also keep the record<br/>or hear the challenge"]
-    Map["Published role map<br/>assigns seats for this act"]
+    X["The initiating seat cannot verify its own act;<br/><br/>the verifier cannot also keep the record<br/>or hear the challenge"]
+    Map["Published role map<br/><br/>assigns seats for this act"]
     subgraph Seats["Four core seats"]
         direction TB
-        I["Initiating seat<br/>Request, propose, operate,<br/>claim, or begin the act"]
-        V["Verify-or-authorize seat<br/>Check evidence and authority;<br/>authorize, condition, or decline"]
-        E["Record seat<br/>Enter, version, preserve,<br/>and publish the official record"]
-        C["Contest seat<br/>Receive and review a challenge;<br/>correct, limit, or route"]
+        I["Initiating seat<br/><br/>Request, propose, operate,<br/>claim, or begin the act"]
+        V["Verify-or-authorize seat<br/><br/>Check evidence and authority;<br/>authorize, condition, or decline"]
+        E["Record seat<br/><br/>Enter, version, preserve,<br/>and publish the official record"]
+        C["Contest seat<br/><br/>Receive and review a challenge;<br/>correct, limit, or route"]
         I -.->|typical record lifecycle| V
         V -.->|authorization| E
         E -.-> C
     end
-    Act["Implement or apply<br/>the authorized decision"]
+    Act["Implement or apply<br/><br/>the authorized decision"]
     M --> X
     X --> Map
     Map --> I
@@ -133,6 +133,16 @@ flowchart TB
     Map --> C
     E -.->|recorded scope| Act
     C -.->|confirmed or corrected outcome| Act
+    style A fill:none,stroke:#64748b,color:#ffffff
+    style H fill:none,stroke:#0f766e,color:#ffffff
+    style M fill:none,stroke:#64748b,color:#ffffff
+    style X fill:none,stroke:#ea580c,color:#ffffff
+    style Map fill:none,stroke:#2563eb,color:#ffffff
+    style I fill:none,stroke:#64748b,color:#ffffff
+    style V fill:none,stroke:#ea580c,color:#ffffff
+    style E fill:none,stroke:#2563eb,color:#ffffff
+    style C fill:none,stroke:#ea580c,color:#ffffff
+    style Act fill:none,stroke:#9333ea,color:#ffffff
 ```
 
 The dotted arrows inside the seat box show a typical record lifecycle. The arrows to implementation are trace links, not a mandatory wait-for-review sequence.

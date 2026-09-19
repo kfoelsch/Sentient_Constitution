@@ -76,6 +76,10 @@ flowchart TB
     M -->|scales the demands of| T
     A -->|pursued within| R
     T -->|operates within| R
+    style A fill:none,stroke:#16a34a,color:#ffffff
+    style T fill:none,stroke:#2563eb,color:#ffffff
+    style M fill:none,stroke:#64748b,color:#ffffff
+    style R fill:none,stroke:#2563eb,color:#ffffff
 ```
 
 - **participation** — affected sentients get a real voice, fair representation, a fair chance to challenge decisions, and access to consequential roles in proportion to the stake
@@ -520,10 +524,14 @@ Think of a path from system check to remedy. **Forums supervise throughout.** Th
 
 ```mermaid
 flowchart LR
-  C[Certify the system<br/>Chapter Eight] --> S[Measure help and harm<br/>two tracks, never one net score<br/>Chapter Nine]
-  S --> E[Effects and remedy<br/>Chapter Ten]
-  E --> F[Forum families<br/>Chapter Twelve]
+  C[Certify the system<br/><br/>Chapter Eight] --> S[Measure help and harm<br/><br/>two tracks, never one net score<br/>Chapter Nine]
+  S --> E[Effects and remedy<br/><br/>Chapter Ten]
+  E --> F[Forum families<br/><br/>Chapter Twelve]
   F -.-> C
+  style C fill:none,stroke:#16a34a,color:#ffffff
+  style S fill:none,stroke:#db2777,color:#ffffff
+  style E fill:none,stroke:#9333ea,color:#ffffff
+  style F fill:none,stroke:#ea580c,color:#ffffff
 ```
 
 *Caption: forums supervise the chain; a filed case is not standing by itself.*

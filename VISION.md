@@ -69,6 +69,13 @@ flowchart LR
   L3 --> L4[L4 apply-tested]
   L4 --> L5[L5 field-used]
   L5 --> L6[L6 publication cut]
+  style L0 fill:none,stroke:#64748b,color:#ffffff
+  style L1 fill:none,stroke:#16a34a,color:#ffffff
+  style L2 fill:none,stroke:#2563eb,color:#ffffff
+  style L3 fill:none,stroke:#0f766e,color:#ffffff
+  style L4 fill:none,stroke:#ea580c,color:#ffffff
+  style L5 fill:none,stroke:#9333ea,color:#ffffff
+  style L6 fill:none,stroke:#9333ea,color:#ffffff
 ```
 
 **Current placement.** Core: L2 to L3 — alignment audits pass, readability passes are landed for Chapter Five and Chapter One, and the spine lock (step 1) is still not formally closed. CJS: L2, with the reader path demoted and the operator path intact. CS, CI, CF: L1 — they pass the blocking bundle and carry no stubs or placeholders, but the full readability and owner-fit passes have not been run and no apply-test has been sat against them. Process support: L3 for the doors and kits themselves, lockstep-audited against core. Evaluation: partway into L4 for AI stewards only; L4 cannot be claimed until human operators sit the same pack. Nothing is at L5.

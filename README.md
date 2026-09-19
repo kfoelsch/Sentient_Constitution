@@ -10,6 +10,8 @@ This page is the editor map. Sequential chapter reading starts at the [Preamble]
 
 > **Start with the conceptual map:** [How the Sentient Constitution holds together](CONCEPTUAL_OVERVIEW.md) gives a reader-oriented view of the aims, principles, Rights Floor, definitions, data and system classifications, processes, forums, governance, and corpus relationships before the chapter-by-chapter reading path. It is non-operative support; reading it is not adoption.
 
+> **Then use the record map when traceability matters:** [How constitutional records hold action accountable](RECORD_OVERVIEW.md) distinguishes record families, evidence, effects, custody, and challenge routes. It is non-operative support; reading it is not adoption.
+
 ---
 
 # Constitution Corpus README

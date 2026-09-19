@@ -58,12 +58,12 @@ When provisions appear to pull in different directions, readers use integrated i
 
 ```mermaid
 flowchart TB
-    A["Two aims<br/>Flourishing and Continuity"]
-    T["Constitutional Tetrad<br/>Participation · Oversight<br/>Accountability · Timeliness<br/>Scaled to material stake"]
-    P["Chapter One: principles<br/>Values, constraints and interpretation"]
-    R["Chapter Six: rights articles<br/>Protections that must remain usable"]
-    D["Chapter Five: definitions<br/>Shared constitutional meanings"]
-    V["Chapters Two–Four<br/>Definition structure, integrity and verification"]
+    A["Two aims<br/><br/>Flourishing and Continuity"]
+    T["Constitutional Tetrad<br/><br/>Participation · Oversight<br/>Accountability · Timeliness<br/>Scaled to material stake"]
+    P["Chapter One: principles<br/><br/>Values, constraints and interpretation"]
+    R["Chapter Six: rights articles<br/><br/>Protections that must remain usable"]
+    D["Chapter Five: definitions<br/><br/>Shared constitutional meanings"]
+    V["Chapters Two–Four<br/><br/>Definition structure, integrity and verification"]
     X["Application to a real system or decision"]
     A -->|pursued through| T
     P -->|develops and constrains pursuit of| A
@@ -74,6 +74,13 @@ flowchart TB
     T -->|duties apply to| X
     R -->|protect affected sentients in| X
     D -->|makes claims testable in| X
+    style A fill:none,stroke:#16a34a,color:#ffffff
+    style T fill:none,stroke:#2563eb,color:#ffffff
+    style P fill:none,stroke:#2563eb,color:#ffffff
+    style R fill:none,stroke:#2563eb,color:#ffffff
+    style D fill:none,stroke:#2563eb,color:#ffffff
+    style V fill:none,stroke:#ea580c,color:#ffffff
+    style X fill:none,stroke:#64748b,color:#ffffff
 ```
 
 Read this as a relationship between **direction, protection, and precision**. Principles guide choices; articles state rights; definitions let readers assess claims using the same meanings. Chapters Two through Four keep those meanings connected to verifiable behavior.
@@ -118,6 +125,12 @@ flowchart TB
     style AimRow fill:none,stroke:none
     style TetradRow1 fill:none,stroke:none
     style TetradRow2 fill:none,stroke:none
+    style F fill:none,stroke:#16a34a,color:#ffffff
+    style C fill:none,stroke:#16a34a,color:#ffffff
+    style P fill:none,stroke:#0f766e,color:#ffffff
+    style O fill:none,stroke:#ea580c,color:#ffffff
+    style A fill:none,stroke:#db2777,color:#ffffff
+    style T fill:none,stroke:#9333ea,color:#ffffff
 ```
 
 The aims describe what shared systems must pursue; the Tetrad describes the duties that keep that pursuit legitimate. All four duties scale with [material stake](core_00_preamble.md#material-stake), and both aims remain bounded by the Rights Floor.
@@ -138,16 +151,16 @@ The rights themselves span the conditions that make agency possible:
 
 ```mermaid
 flowchart TB
-    T["Constitutional Tetrad<br/>Two Constitutional Aims<br/>Scaled to material stake"]
-    R["Chapter Six<br/>Foundational Rights Floor"]
+    T["Constitutional Tetrad<br/><br/>Two Constitutional Aims<br/>Scaled to material stake"]
+    R["Chapter Six<br/><br/>Foundational Rights Floor"]
     subgraph Parts["Chapter Six source parts"]
         direction TB
-        A["Part A · Articles I–IV<br/>Planetary conditions, material stewardship,<br/>survival, education access, shared resources"]
-        B["Part B · Articles V–XI<br/>Equal standing, education, self-ownership,<br/>data, agency, cooperation, stakeholder participation"]
-        C["Part C · Articles XII–XXII<br/>Trustworthy systems, security, information,<br/>audit, lifecycle, innovation, standing, review"]
-        D["Part D · Articles XXIII–XXVI<br/>Justice, emergency and conflict resolution,<br/>review, constitutional evolution, transition"]
+        A["Part A · Articles I–IV<br/><br/>Planetary conditions, material stewardship,<br/>survival, education access, shared resources"]
+        B["Part B · Articles V–XI<br/><br/>Equal standing, education, self-ownership,<br/>data, agency, cooperation, stakeholder participation"]
+        C["Part C · Articles XII–XXII<br/><br/>Trustworthy systems, security, information,<br/>audit, lifecycle, innovation, standing, review"]
+        D["Part D · Articles XXIII–XXVI<br/><br/>Justice, emergency and conflict resolution,<br/>review, constitutional evolution, transition"]
     end
-    P["Later governance, measurement, certification,<br/>forums, remedy, and implementation<br/>must respect the Rights Floor"]
+    P["Later governance, measurement, certification,<br/><br/>forums, remedy, and implementation<br/>must respect the Rights Floor"]
     T -->|rights are read with| R
     R --> A
     R --> B
@@ -157,6 +170,13 @@ flowchart TB
     B --> P
     C --> P
     D --> P
+    style T fill:none,stroke:#2563eb,color:#ffffff
+    style R fill:none,stroke:#2563eb,color:#ffffff
+    style A fill:none,stroke:#16a34a,color:#ffffff
+    style B fill:none,stroke:#0f766e,color:#ffffff
+    style C fill:none,stroke:#ea580c,color:#ffffff
+    style D fill:none,stroke:#9333ea,color:#ffffff
+    style P fill:none,stroke:#2563eb,color:#ffffff
 ```
 
 The four parts are different reading paths through the same floor:
@@ -176,7 +196,7 @@ The following four maps open that structure one level further. Each Part box sit
 
 ```mermaid
 flowchart TB
-    A0["Part A<br/>Planetary preconditions, material stewardship,<br/>survival, equal educational access, and shared resources"]
+    A0["Part A<br/><br/>Planetary preconditions, material stewardship,<br/>survival, equal educational access, and shared resources"]
     subgraph Agrid[" "]
         direction TB
         subgraph Arow1["Articles I–II"]
@@ -194,6 +214,11 @@ flowchart TB
     style Agrid fill:none,stroke:none
     style Arow1 fill:none,stroke:none
     style Arow2 fill:none,stroke:none
+    style A0 fill:none,stroke:#2563eb,color:#ffffff
+    style A1 fill:none,stroke:#16a34a,color:#ffffff
+    style A2 fill:none,stroke:#16a34a,color:#ffffff
+    style A3 fill:none,stroke:#16a34a,color:#ffffff
+    style A4 fill:none,stroke:#16a34a,color:#ffffff
 ```
 
 #### Part B · Personhood, agency, and participation
@@ -202,7 +227,7 @@ flowchart TB
 
 ```mermaid
 flowchart TB
-    B0["Part B<br/>Personhood, education capability, agency,<br/>cooperation, and stakeholder system participation"]
+    B0["Part B<br/><br/>Personhood, education capability, agency,<br/>cooperation, and stakeholder system participation"]
     subgraph Bgrid[" "]
         direction TB
         subgraph Brow1["Articles V–VI"]
@@ -231,6 +256,14 @@ flowchart TB
     style Brow2 fill:none,stroke:none
     style Brow3 fill:none,stroke:none
     style Brow4 fill:none,stroke:none
+    style B0 fill:none,stroke:#2563eb,color:#ffffff
+    style B1 fill:none,stroke:#0f766e,color:#ffffff
+    style B2 fill:none,stroke:#0f766e,color:#ffffff
+    style B3 fill:none,stroke:#0f766e,color:#ffffff
+    style B4 fill:none,stroke:#0f766e,color:#ffffff
+    style B5 fill:none,stroke:#0f766e,color:#ffffff
+    style B6 fill:none,stroke:#0f766e,color:#ffffff
+    style B7 fill:none,stroke:#0f766e,color:#ffffff
 ```
 
 #### Part C · Trustworthy systems, verification, and resilience
@@ -239,7 +272,7 @@ flowchart TB
 
 ```mermaid
 flowchart TB
-    C0["Part C<br/>Trustworthy systems, security and force limits,<br/>information integrity, verification, lifecycle, and resilience"]
+    C0["Part C<br/><br/>Trustworthy systems, security and force limits,<br/>information integrity, verification, lifecycle, and resilience"]
     subgraph Cgrid[" "]
         direction TB
         subgraph Crow1["Articles XII–XIII"]
@@ -280,6 +313,18 @@ flowchart TB
     style Crow4 fill:none,stroke:none
     style Crow5 fill:none,stroke:none
     style Crow6 fill:none,stroke:none
+    style C0 fill:none,stroke:#2563eb,color:#ffffff
+    style C1 fill:none,stroke:#16a34a,color:#ffffff
+    style C2 fill:none,stroke:#db2777,color:#ffffff
+    style C3 fill:none,stroke:#ea580c,color:#ffffff
+    style C4 fill:none,stroke:#ea580c,color:#ffffff
+    style C5 fill:none,stroke:#16a34a,color:#ffffff
+    style C6 fill:none,stroke:#16a34a,color:#ffffff
+    style C7 fill:none,stroke:#0f766e,color:#ffffff
+    style C8 fill:none,stroke:#0f766e,color:#ffffff
+    style C9 fill:none,stroke:#2563eb,color:#ffffff
+    style C10 fill:none,stroke:#ea580c,color:#ffffff
+    style C11 fill:none,stroke:#ea580c,color:#ffffff
 ```
 
 #### Part D · Justice, review, evolution, and transition
@@ -288,7 +333,7 @@ flowchart TB
 
 ```mermaid
 flowchart TB
-    D0["Part D<br/>Justice, constitutional review, evolution, and transition"]
+    D0["Part D<br/><br/>Justice, constitutional review, evolution, and transition"]
     subgraph Dgrid[" "]
         direction TB
         subgraph Drow1["Articles XXIII–XXIV"]
@@ -306,6 +351,11 @@ flowchart TB
     style Dgrid fill:none,stroke:none
     style Drow1 fill:none,stroke:none
     style Drow2 fill:none,stroke:none
+    style D0 fill:none,stroke:#2563eb,color:#ffffff
+    style D1 fill:none,stroke:#ea580c,color:#ffffff
+    style D2 fill:none,stroke:#ea580c,color:#ffffff
+    style D3 fill:none,stroke:#9333ea,color:#ffffff
+    style D4 fill:none,stroke:#9333ea,color:#ffffff
 ```
 
 ### Definitions connect promises to evidence
@@ -330,7 +380,7 @@ Chapter Five’s many files are a reference structure. Its [compass](core_05__de
 
 ```mermaid
 flowchart TB
-    D0["Chapter Five<br/>Canonical definition categories<br/>Aims · Tetrad legs · cross-cutting homes"]
+    D0["Chapter Five<br/><br/>Canonical definition categories<br/>Aims · Tetrad legs · cross-cutting homes"]
     subgraph Dgrid[" "]
         direction TB
         subgraph Drow1["Constitutional aims"]
@@ -360,6 +410,15 @@ flowchart TB
     style Drow2 fill:none,stroke:none
     style Drow3 fill:none,stroke:none
     style Drow4 fill:none,stroke:none
+    style D0 fill:none,stroke:#2563eb,color:#ffffff
+    style F fill:none,stroke:#16a34a,color:#ffffff
+    style C fill:none,stroke:#16a34a,color:#ffffff
+    style O fill:none,stroke:#ea580c,color:#ffffff
+    style P fill:none,stroke:#0f766e,color:#ffffff
+    style A fill:none,stroke:#db2777,color:#ffffff
+    style T fill:none,stroke:#9333ea,color:#ffffff
+    style K fill:none,stroke:#16a34a,color:#ffffff
+    style I fill:none,stroke:#2563eb,color:#ffffff
 ```
 
 The chart distinguishes the two constitutional aims from the four Tetrad legs and from the Continuity and Integrative source bands. It also makes the current Timeliness routing visible: Timeliness remains a constitutional leg even though its implementing leaf definitions currently live in the Accountability band. The category map is reader guidance; the canonical definitions and dependent-cluster rules remain in [Chapter Five](core_05__definitions_home.md).
@@ -377,27 +436,35 @@ Information and systems are classified because their risks differ. The classific
 
 ```mermaid
 flowchart TB
-    R["System Data Types Record<br/>Every materially impactful system"]
+    R["System Data Types Record<br/><br/>Every materially impactful system"]
     subgraph TypeGrid[" "]
         direction TB
         subgraph TypeRow1["Public, accessible by default, or audit-accessible"]
             direction LR
-            E["Type E<br/>Environmental, emergency,<br/>and survival-coordination data"]
-            O["Type O<br/>Public oversight baseline<br/>disclosure data"]
-            G["Type G<br/>Governance and operational source data<br/>Audit-accessible; not public by default"]
+            E["Type E<br/><br/>Environmental, emergency,<br/>and survival-coordination data"]
+            O["Type O<br/><br/>Public oversight baseline<br/>disclosure data"]
+            G["Type G<br/><br/>Governance and operational source data<br/>Audit-accessible; not public by default"]
         end
         subgraph TypeRow2["Restricted or protected by default"]
             direction LR
-            H["Type H<br/>Historical, relational,<br/>transactional, and participation data"]
-            I["Type I<br/>Identity and attribution data"]
-            S["Type S<br/>Safety, security, and restricted<br/>investigation data; time-bound"]
-            N["Type N<br/>Neurocognitive and internal data<br/>Non-accessible by default"]
+            H["Type H<br/><br/>Historical, relational,<br/>transactional, and participation data"]
+            I["Type I<br/><br/>Identity and attribution data"]
+            S["Type S<br/><br/>Safety, security, and restricted<br/>investigation data; time-bound"]
+            N["Type N<br/><br/>Neurocognitive and internal data<br/>Non-accessible by default"]
         end
     end
     R ~~~ TypeGrid
     style TypeGrid fill:none,stroke:none
     style TypeRow1 fill:none,stroke:none
     style TypeRow2 fill:none,stroke:none
+    style R fill:none,stroke:#2563eb,color:#ffffff
+    style E fill:none,stroke:#64748b,color:#ffffff
+    style O fill:none,stroke:#64748b,color:#ffffff
+    style G fill:none,stroke:#64748b,color:#ffffff
+    style H fill:none,stroke:#64748b,color:#ffffff
+    style I fill:none,stroke:#64748b,color:#ffffff
+    style S fill:none,stroke:#64748b,color:#ffffff
+    style N fill:none,stroke:#64748b,color:#ffffff
 ```
 
 - CS-2 assigns a type by functional content and handling need, not by label, file format, or pipeline stage.
@@ -411,47 +478,60 @@ flowchart TB
 
 ```mermaid
 flowchart TB
-    R["System Classification Record<br/>Mandatory for every materially impactful system"]
-    Assess["Assess together<br/>Impact · dependency · risk<br/>Boundaries · timeframes · scale<br/>Normal · degraded · adversarial conditions"]
-    Outcome["Highest applicable classification governs<br/>Duties, evidence, oversight, and revalidation scale with it"]
+    R["System Classification Record<br/><br/>Mandatory for every materially impactful system"]
+    Assess["Assess together<br/><br/>Impact · dependency · risk<br/>Boundaries · timeframes · scale<br/>Normal · degraded · adversarial conditions"]
+    Outcome["Highest applicable classification governs<br/><br/>Duties, evidence, oversight, and revalidation scale with it"]
     subgraph ImpactBand["Impact Class"]
         direction TB
         subgraph ImpactRow1["Higher impact or wider reach"]
             direction LR
-            A["Class A<br/>Survival-critical, foundational,<br/>and irreplaceable"]
-            B["Class B<br/>Critical, high-dependency,<br/>systemically significant"]
-            C["Class C<br/>Coordinated, high-dependency,<br/>non-critical"]
+            A["Class A<br/><br/>Survival-critical, foundational,<br/>and irreplaceable"]
+            B["Class B<br/><br/>Critical, high-dependency,<br/>systemically significant"]
+            C["Class C<br/><br/>Coordinated, high-dependency,<br/>non-critical"]
         end
         subgraph ImpactRow2["Bounded impact"]
             direction LR
-            L["Class L<br/>Local, limited-impact,<br/>non-critical"]
-            P["Class P<br/>Personal, private-use,<br/>isolated, or experimental"]
+            L["Class L<br/><br/>Local, limited-impact,<br/>non-critical"]
+            P["Class P<br/><br/>Personal, private-use,<br/>isolated, or experimental"]
         end
     end
     subgraph Dependency["Dependency Type"]
         direction TB
         subgraph DependencyRow1["Stronger reliance"]
             direction LR
-            DA["Dep-A<br/>Absolute dependency"]
-            DB["Dep-B<br/>Operational dependency"]
-            DC["Dep-C<br/>Coordination dependency"]
+            DA["Dep-A<br/><br/>Absolute dependency"]
+            DB["Dep-B<br/><br/>Operational dependency"]
+            DC["Dep-C<br/><br/>Coordination dependency"]
         end
         subgraph DependencyRow2["Bounded or no external reliance"]
             direction LR
-            DL["Dep-L<br/>Limited dependency"]
-            DP["Dep-P<br/>No meaningful external dependency"]
+            DL["Dep-L<br/><br/>Limited dependency"]
+            DP["Dep-P<br/><br/>No meaningful external dependency"]
         end
     end
     R --> Assess
     Assess -->|sets the applicable level| Outcome
     Outcome ~~~ ImpactBand
     ImpactBand ~~~ Dependency
-    style ImpactBand fill:transparent,stroke:#94a3b8,stroke-width:2px,color:#cbd5e1
-    style Dependency fill:transparent,stroke:#94a3b8,stroke-width:2px,color:#cbd5e1
-    style ImpactRow1 fill:none,stroke:none,color:#cbd5e1
-    style ImpactRow2 fill:none,stroke:none,color:#cbd5e1
-    style DependencyRow1 fill:none,stroke:none,color:#cbd5e1
-    style DependencyRow2 fill:none,stroke:none,color:#cbd5e1
+    style ImpactBand fill:none,stroke:#64748b,stroke-width:2px,color:#ffffff
+    style Dependency fill:none,stroke:#64748b,stroke-width:2px,color:#ffffff
+    style ImpactRow1 fill:none,stroke:none,color:#ffffff
+    style ImpactRow2 fill:none,stroke:none,color:#ffffff
+    style DependencyRow1 fill:none,stroke:none,color:#ffffff
+    style DependencyRow2 fill:none,stroke:none,color:#ffffff
+    style R fill:none,stroke:#2563eb,color:#ffffff
+    style Assess fill:none,stroke:#ea580c,color:#ffffff
+    style Outcome fill:none,stroke:#9333ea,color:#ffffff
+    style A fill:none,stroke:#16a34a,color:#ffffff
+    style B fill:none,stroke:#16a34a,color:#ffffff
+    style C fill:none,stroke:#16a34a,color:#ffffff
+    style L fill:none,stroke:#16a34a,color:#ffffff
+    style P fill:none,stroke:#16a34a,color:#ffffff
+    style DA fill:none,stroke:#16a34a,color:#ffffff
+    style DB fill:none,stroke:#16a34a,color:#ffffff
+    style DC fill:none,stroke:#16a34a,color:#ffffff
+    style DL fill:none,stroke:#16a34a,color:#ffffff
+    style DP fill:none,stroke:#16a34a,color:#ffffff
 ```
 
 - Impact class and dependency type are separate findings. Matching letters do not collapse them into one score.
@@ -468,22 +548,22 @@ The [System Data Types Record](core_05_band_continuity.md#system-data-types-reco
 
 ```mermaid
 flowchart TB
-    D["Chapter Seven<br/>Functional independence<br/>and segregation of duties"]
-    S["Chapter Eight<br/>System alignment certification"]
-    E["Evidence about conduct or outcomes<br/>Verified under Chapters Two–Four"]
+    D["Chapter Seven<br/><br/>Functional independence<br/>and segregation of duties"]
+    S["Chapter Eight<br/><br/>System alignment certification"]
+    E["Evidence about conduct or outcomes<br/><br/>Verified under Chapters Two–Four"]
     subgraph Q["Chapter Nine · standing records"]
         direction LR
-        C["Contribution record<br/>and measurement"]
-        V["Violation record<br/>and measurement"]
+        C["Contribution record<br/><br/>and measurement"]
+        V["Violation record<br/><br/>and measurement"]
     end
     subgraph N["Chapter Ten · effects"]
         direction LR
-        U["Recognition, rewards,<br/>competency clearances"]
-        R["Standing locks,<br/>correction and remedy"]
+        U["Recognition, rewards,<br/><br/>competency clearances"]
+        R["Standing locks,<br/><br/>correction and remedy"]
     end
-    M["Chapter Eleven<br/>Anti-constitutional misconduct review"]
-    L["Chapter Ten<br/>Anti-Constitutional Trust Lock"]
-    F["Chapter Twelve forums<br/>Supervision, challenge and timely review"]
+    M["Chapter Eleven<br/><br/>Anti-constitutional misconduct review"]
+    L["Chapter Ten<br/><br/>Anti-Constitutional Trust Lock"]
+    F["Chapter Twelve forums<br/><br/>Supervision, challenge and timely review"]
     D -.->|separates authority at every stage| S
     D -.->|separates authority at every stage| E
     D -.->|separates authority at every stage| F
@@ -495,6 +575,16 @@ flowchart TB
     E -->|verified contribution| C
     E -->|verified violation| V
     F -.->|supervises all stages| E
+    style D fill:none,stroke:#2563eb,color:#ffffff
+    style S fill:none,stroke:#16a34a,color:#ffffff
+    style E fill:none,stroke:#64748b,color:#ffffff
+    style C fill:none,stroke:#db2777,color:#ffffff
+    style V fill:none,stroke:#db2777,color:#ffffff
+    style U fill:none,stroke:#9333ea,color:#ffffff
+    style R fill:none,stroke:#9333ea,color:#ffffff
+    style M fill:none,stroke:#db2777,color:#ffffff
+    style L fill:none,stroke:#9333ea,color:#ffffff
+    style F fill:none,stroke:#ea580c,color:#ffffff
 ```
 
 <a id="standing-model"></a>
@@ -511,12 +601,17 @@ flowchart TB
         C["Contribution Axis<br/><br/>• Help toward Flourishing<br/>• Can support recognition and competency clearance"]
         V["Violation Axis<br/><br/>• Harm and accountability failure<br/>• Can support locks, correction, and remedy"]
     end
-    Q3["Question 3 · What follows?<br/>Chapter Ten integration and effects<br/><br/>• Apply named pathway effects<br/>• No merged score or dignity rank<br/>• Keep challenge and restoration open"]
+    Q3["Question 3 · What follows?<br/><br/>Chapter Ten integration and effects<br/><br/>• Apply named pathway effects<br/>• No merged score or dignity rank<br/>• Keep challenge and restoration open"]
     Q1 --> Q2
     Q2 --> C
     Q2 --> V
     C --> Q3
     V --> Q3
+    style Q1 fill:none,stroke:#ea580c,color:#ffffff
+    style Q2 fill:none,stroke:#ea580c,color:#ffffff
+    style C fill:none,stroke:#db2777,color:#ffffff
+    style V fill:none,stroke:#db2777,color:#ffffff
+    style Q3 fill:none,stroke:#9333ea,color:#ffffff
 ```
 
 <a id="lequ"></a>
@@ -526,21 +621,27 @@ flowchart TB
 
 ```mermaid
 flowchart TB
-    Facts["What happened?<br/>Verify facts and preserve the record"]
-    Measure["How good or bad was it?<br/>Measure the verified outcome"]
-    LEQU["LEQU<br/>Lifespan Equivalent Unit<br/>Lifespan-equivalent benefit or loss"]
+    Facts["What happened?<br/><br/>Verify facts and preserve the record"]
+    Measure["How good or bad was it?<br/><br/>Measure the verified outcome"]
+    LEQU["LEQU<br/><br/>Lifespan Equivalent Unit<br/>Lifespan-equivalent benefit or loss"]
     subgraph Axes["Separate standing axes"]
         direction LR
-        C["Contribution Axis<br/>Verified constitutional benefit"]
-        V["Violation Axis<br/>Verified constitutional loss, harm,<br/>waste, foreclosure, or danger"]
+        C["Contribution Axis<br/><br/>Verified constitutional benefit"]
+        V["Violation Axis<br/><br/>Verified constitutional loss, harm,<br/>waste, foreclosure, or danger"]
     end
-    Effects["What happens because of it?<br/>Chapter Ten effects, correction,<br/>remedy, safeguards, or standing locks"]
+    Effects["What happens because of it?<br/><br/>Chapter Ten effects, correction,<br/>remedy, safeguards, or standing locks"]
     Facts -->|verified inputs| Measure
     Measure --> LEQU
     LEQU -->|same proportional scale; no offset| C
     LEQU -->|same proportional scale; no offset| V
     C --> Effects
     V --> Effects
+    style Facts fill:none,stroke:#64748b,color:#ffffff
+    style Measure fill:none,stroke:#ea580c,color:#ffffff
+    style LEQU fill:none,stroke:#2563eb,color:#ffffff
+    style C fill:none,stroke:#db2777,color:#ffffff
+    style V fill:none,stroke:#db2777,color:#ffffff
+    style Effects fill:none,stroke:#9333ea,color:#ffffff
 ```
 
 - One LEQU roughly expresses saving or destroying one sentient lifetime of rights-consistent wellbeing. It is sentient-generic, not a species-bound lifespan or ordinary calendar-year count.
@@ -556,26 +657,26 @@ The canonical mechanics live in [Chapter Nine §7](core_09_standing_assessment.m
 
 ```mermaid
 flowchart TB
-    Scale["Shared five-times progression<br/>s = 7 anchors one LEQU"]
+    Scale["Shared five-times progression<br/><br/>s = 7 anchors one LEQU"]
     subgraph BandGrid[" "]
         direction TB
         subgraph BandRow1["Lower magnitude"]
             direction LR
-            S1["s = 1<br/>Basic Baseline / Minimal Impact<br/><br/>Below 9 days*"]
-            S2["s = 2<br/>Strengthened Baseline / Limited Impact<br/><br/>About 9–47 days*"]
-            S3["s = 3<br/>Verified Positive / Material Impact<br/><br/>About 47 days–8 months*"]
+            S1["s = 1<br/><br/>Basic Baseline / Minimal Impact<br/><br/>Below 9 days*"]
+            S2["s = 2<br/><br/>Strengthened Baseline / Limited Impact<br/><br/>About 9–47 days*"]
+            S3["s = 3<br/><br/>Verified Positive / Material Impact<br/><br/>About 47 days–8 months*"]
         end
         subgraph BandRow2["Material and major magnitude"]
             direction LR
-            S4["s = 4<br/>Material Positive / Significant Impact<br/><br/>About 8 months–3.2 years*"]
-            S5["s = 5<br/>Established Stewardship / Major Impact<br/><br/>About 3.2–16 years*"]
-            S6["s = 6<br/>Major Stewardship / Severe Impact<br/><br/>About 16–80 years*"]
+            S4["s = 4<br/><br/>Material Positive / Significant Impact<br/><br/>About 8 months–3.2 years*"]
+            S5["s = 5<br/><br/>Established Stewardship / Major Impact<br/><br/>About 3.2–16 years*"]
+            S6["s = 6<br/><br/>Major Stewardship / Severe Impact<br/><br/>About 16–80 years*"]
         end
         subgraph BandRow3["One LEQU and above"]
             direction LR
-            S7["s = 7<br/>Recognized Champion / Serious Impact<br/><br/>About 1–5 lifetimes*"]
-            S8["s = 8<br/>Distinguished Champion / Grave Impact<br/><br/>About 5–25 lifetimes*"]
-            S9["s = 9<br/>Exemplary Champion / Catastrophic Impact<br/><br/>At least 25 lifetimes*"]
+            S7["s = 7<br/><br/>Recognized Champion / Serious Impact<br/><br/>About 1–5 lifetimes*"]
+            S8["s = 8<br/><br/>Distinguished Champion / Grave Impact<br/><br/>About 5–25 lifetimes*"]
+            S9["s = 9<br/><br/>Exemplary Champion / Catastrophic Impact<br/><br/>At least 25 lifetimes*"]
         end
     end
     Scale ~~~ BandGrid
@@ -583,6 +684,16 @@ flowchart TB
     style BandRow1 fill:none,stroke:none
     style BandRow2 fill:none,stroke:none
     style BandRow3 fill:none,stroke:none
+    style Scale fill:none,stroke:#2563eb,color:#ffffff
+    style S1 fill:none,stroke:#db2777,color:#ffffff
+    style S2 fill:none,stroke:#db2777,color:#ffffff
+    style S3 fill:none,stroke:#db2777,color:#ffffff
+    style S4 fill:none,stroke:#db2777,color:#ffffff
+    style S5 fill:none,stroke:#db2777,color:#ffffff
+    style S6 fill:none,stroke:#db2777,color:#ffffff
+    style S7 fill:none,stroke:#db2777,color:#ffffff
+    style S8 fill:none,stroke:#db2777,color:#ffffff
+    style S9 fill:none,stroke:#db2777,color:#ffffff
 ```
 
 Each box pairs the Contribution Axis display label with the corresponding Violation Axis display label at the same magnitude band. The axes remain separate: the shared scale compares verified outcome magnitude, not moral worth, and never permits contribution to offset violation. The time ranges marked with `*` are the corpus’s illustrative 80-year human calibration; the binding unit is sentient-generic and substrate-agnostic.
@@ -635,23 +746,23 @@ That protection belongs to the entity. It does not shield an operator’s proper
 flowchart TB
     D["Ordinary dispute inside an authorized system"]
     P["Published stakeholder challenge path"]
-    R["Chapter Twelve: route by primary stake<br/>Family intake sorts; merits panels decide"]
+    R["Chapter Twelve: route by primary stake<br/><br/>Family intake sorts; merits panels decide"]
     subgraph F["Forum families"]
         direction TB
         subgraph Frow1[" "]
             direction LR
-            S["Sentient<br/>Private and community"]
-            T["Technical<br/>Methods, standards, evidence"]
-            E["Environment<br/>Ecology and restoration"]
+            S["Sentient<br/><br/>Private and community"]
+            T["Technical<br/><br/>Methods, standards, evidence"]
+            E["Environment<br/><br/>Ecology and restoration"]
         end
         subgraph Frow2[" "]
             direction LR
-            I["Institutional<br/>Authority and duties"]
-            G["Integrity<br/>Process, capture, alignment"]
+            I["Institutional<br/><br/>Authority and duties"]
+            G["Integrity<br/><br/>Process, capture, alignment"]
             subgraph ConstitutionalPath[" "]
                 direction TB
-                C["Constitutional forum<br/>Meaning, validity, structural remedy"]
-                CR["Constitutional review panel<br/>Manifest-error review"]
+                C["Constitutional forum<br/><br/>Meaning, validity, structural remedy"]
+                CR["Constitutional review panel<br/><br/>Manifest-error review"]
             end
         end
     end
@@ -672,6 +783,16 @@ flowchart TB
     style Frow1 fill:none,stroke:none
     style Frow2 fill:none,stroke:none
     style ConstitutionalPath fill:none,stroke:none
+    style D fill:none,stroke:#64748b,color:#ffffff
+    style P fill:none,stroke:#0f766e,color:#ffffff
+    style R fill:none,stroke:#ea580c,color:#ffffff
+    style S fill:none,stroke:#ea580c,color:#ffffff
+    style T fill:none,stroke:#ea580c,color:#ffffff
+    style E fill:none,stroke:#ea580c,color:#ffffff
+    style I fill:none,stroke:#ea580c,color:#ffffff
+    style G fill:none,stroke:#ea580c,color:#ffffff
+    style C fill:none,stroke:#ea580c,color:#ffffff
+    style CR fill:none,stroke:#ea580c,color:#ffffff
 ```
 
 These are **six families with different responsibilities**. The boxes identify their subject areas; the [default venue rules](core_12_forum.md#2-default-venue-and-primary-stakes) determine the actual lead. Sentient routing, for example, depends on no institution being a necessary party and no other family holding the primary stake. The intake desk sorts the matter; it does not replace a merits panel. Direct access remains available when delay would materially endanger rights, evidence, independence, or practical restoration under [dispute sequencing](core_12_forum.md#dispute-sequencing).
@@ -688,16 +809,16 @@ Independence applies to reviewers themselves. A forum cannot be the sole final j
 
 ```mermaid
 flowchart TB
-    M["Materiality determination<br/>Classify urgency from harm, dependency,<br/>rights impact, and coordination burden"]
+    M["Materiality determination<br/><br/>Classify urgency from harm, dependency,<br/>rights impact, and coordination burden"]
     subgraph Tiers["Forum urgency tiers · outer bound for integrated resolution"]
         direction TB
-        A["Tier A · imminent or dependency-vulnerable harm,<br/>or final high-impact review<br/>Outer bound: at most 1 week"]
-        B["Tier B · material rights, standing, or institutional injury<br/>that is not yet acute ongoing harm<br/>Outer bound: at most 3 weeks"]
-        C["Tier C · coordination-complexity default<br/>only when A or B does not independently apply<br/>Outer bound: at most 2 months"]
-        L["Tier L · bounded constitutional significance<br/>Limited external impact or dependency<br/>Outer bound: at most 4 months"]
-        P["Tier P · private or contained matter<br/>Minimal external constitutional impact<br/>Outer bound: at most 6 months"]
+        A["Tier A · imminent or dependency-vulnerable harm,<br/><br/>or final high-impact review<br/>Outer bound: at most 1 week"]
+        B["Tier B · material rights, standing, or institutional injury<br/><br/>that is not yet acute ongoing harm<br/>Outer bound: at most 3 weeks"]
+        C["Tier C · coordination-complexity default<br/><br/>only when A or B does not independently apply<br/>Outer bound: at most 2 months"]
+        L["Tier L · bounded constitutional significance<br/><br/>Limited external impact or dependency<br/>Outer bound: at most 4 months"]
+        P["Tier P · private or contained matter<br/><br/>Minimal external constitutional impact<br/>Outer bound: at most 6 months"]
     end
-    Clock["Published stage clocks<br/>Intake · evidence preservation · verified finding<br/>measurement · integration · remedy commencement"]
+    Clock["Published stage clocks<br/><br/>Intake · evidence preservation · verified finding<br/>measurement · integration · remedy commencement"]
     M --> A
     M --> B
     M --> C
@@ -708,6 +829,13 @@ flowchart TB
     C --> Clock
     L --> Clock
     P --> Clock
+    style M fill:none,stroke:#ea580c,color:#ffffff
+    style A fill:none,stroke:#ea580c,color:#ffffff
+    style B fill:none,stroke:#ea580c,color:#ffffff
+    style C fill:none,stroke:#ea580c,color:#ffffff
+    style L fill:none,stroke:#ea580c,color:#ffffff
+    style P fill:none,stroke:#ea580c,color:#ffffff
+    style Clock fill:none,stroke:#9333ea,color:#ffffff
 ```
 
 - Tier A requires immediate attention, interim protection where needed, and intake, acknowledgment, and evidence preservation within days. Emergency deferral of notice or challenge starts at Tier A unless a lower-urgency showing is documented.
@@ -725,15 +853,15 @@ These are the [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-material
 
 ```mermaid
 flowchart TB
-    A["Chapter Thirteen<br/>Documented legitimacy mechanism"]
-    G["Authorized governing roles<br/>Stated scope, limits and competent stewards"]
-    P["Participation inside authorized systems<br/>Voice and challenge paths for affected sentients"]
-    R["Contestation, correction<br/>and reauthorization where applicable"]
-    N["Chapter Fourteen<br/>Non-regression"]
-    H["Chapter Fifteen<br/>Supremacy within scope and external-law relations"]
-    U["Chapter Sixteen<br/>Amendment, ratification and adoption procedures"]
-    B["Chapter Seventeen<br/>Incorporation, edition and custody"]
-    I["Adopted companion obligations<br/>Systems · Institutions · Forums · Joint structure"]
+    A["Chapter Thirteen<br/><br/>Documented legitimacy mechanism"]
+    G["Authorized governing roles<br/><br/>Stated scope, limits and competent stewards"]
+    P["Participation inside authorized systems<br/><br/>Voice and challenge paths for affected sentients"]
+    R["Contestation, correction<br/><br/>and reauthorization where applicable"]
+    N["Chapter Fourteen<br/><br/>Non-regression"]
+    H["Chapter Fifteen<br/><br/>Supremacy within scope and external-law relations"]
+    U["Chapter Sixteen<br/><br/>Amendment, ratification and adoption procedures"]
+    B["Chapter Seventeen<br/><br/>Incorporation, edition and custody"]
+    I["Adopted companion obligations<br/><br/>Systems · Institutions · Forums · Joint structure"]
     A -->|authorizes within documented terms| G
     G -->|must ensure| P
     G -->|remains subject to| R
@@ -743,6 +871,15 @@ flowchart TB
     U -->|valid adoption supplies recorded scope for| B
     B -->|identifies binding implementation| I
     I -->|implements core requirements in| G
+    style A fill:none,stroke:#2563eb,color:#ffffff
+    style G fill:none,stroke:#2563eb,color:#ffffff
+    style P fill:none,stroke:#0f766e,color:#ffffff
+    style R fill:none,stroke:#ea580c,color:#ffffff
+    style N fill:none,stroke:#2563eb,color:#ffffff
+    style H fill:none,stroke:#2563eb,color:#ffffff
+    style U fill:none,stroke:#9333ea,color:#ffffff
+    style B fill:none,stroke:#9333ea,color:#ffffff
+    style I fill:none,stroke:#16a34a,color:#ffffff
 ```
 
 The upper loop concerns **governing authority and its continuing accountability**. The change-and-adoption path concerns **the instrument and its incorporated implementation**. Both operate within the principles and Rights Floor shown in the first view. Participation within a system does not itself authorize that system's governing authority.
@@ -768,15 +905,15 @@ Together, these provisions connect everyday governance to its authorization and 
 ```mermaid
 flowchart TB
     subgraph Status["Source status"]
-        Core["Numbered core_* files<br/>One integrated constitutional source"]
-        Impl["Designated incorporated implementation<br/>Binding only within valid adoption scope"]
-        Support["Indexes, maps, lookup, and reader guidance<br/>Point to source; do not bind"]
+        Core["Numbered core_* files<br/><br/>One integrated constitutional source"]
+        Impl["Designated incorporated implementation<br/><br/>Binding only within valid adoption scope"]
+        Support["Indexes, maps, lookup, and reader guidance<br/><br/>Point to source; do not bind"]
     end
-    Owner["Find the substantive owner<br/>Preamble register + chapter opening claim"]
-    Defs["Use canonical definitions<br/>Chapter Five owns term meaning"]
-    Rules["Read the integrated Constitution<br/>Principles, Rights Floor, non-regression,<br/>and no-bypass rules"]
-    H["Internal Hierarchy<br/>Last-resort residual conflict rule"]
-    Result["Result<br/>Owner-correct, bounded, contestable reading<br/>within valid source, adoption, and governance scope"]
+    Owner["Find the substantive owner<br/><br/>Preamble register + chapter opening claim"]
+    Defs["Use canonical definitions<br/><br/>Chapter Five owns term meaning"]
+    Rules["Read the integrated Constitution<br/><br/>Principles, Rights Floor, non-regression,<br/>and no-bypass rules"]
+    H["Internal Hierarchy<br/><br/>Last-resort residual conflict rule"]
+    Result["Result<br/><br/>Owner-correct, bounded, contestable reading<br/>within valid source, adoption, and governance scope"]
 
     Core --> Owner
     Impl --> Rules
@@ -787,6 +924,14 @@ flowchart TB
     Rules -.->|only if genuine residual incompatibility remains| H
     Rules --> Result
     H --> Result
+    style Core fill:none,stroke:#2563eb,color:#ffffff
+    style Impl fill:none,stroke:#16a34a,color:#ffffff
+    style Support fill:none,stroke:#64748b,color:#ffffff
+    style Owner fill:none,stroke:#2563eb,color:#ffffff
+    style Defs fill:none,stroke:#2563eb,color:#ffffff
+    style Rules fill:none,stroke:#2563eb,color:#ffffff
+    style H fill:none,stroke:#ea580c,color:#ffffff
+    style Result fill:none,stroke:#9333ea,color:#ffffff
 ```
 
 This is a reading discipline, not a new precedence rule:
@@ -807,25 +952,25 @@ When a decision, release, payment, finding, or official record can materially af
 flowchart TB
     subgraph Scope["Scope and materiality"]
         direction LR
-        A["Important decision<br/>or official record"]
-        H["Same separation rules<br/>for sentient and AI stewards"]
-        M["More potential harm, dependence,<br/>or reach requires stronger separation"]
+        A["Important decision<br/><br/>or official record"]
+        H["Same separation rules<br/><br/>for sentient and AI stewards"]
+        M["More potential harm, dependence,<br/><br/>or reach requires stronger separation"]
         A --> M
         H --> M
     end
-    X["The initiating seat cannot verify its own act;<br/>the verifier cannot also keep the record<br/>or hear the challenge"]
-    Map["Published role map<br/>assigns seats for this act"]
+    X["The initiating seat cannot verify its own act;<br/><br/>the verifier cannot also keep the record<br/>or hear the challenge"]
+    Map["Published role map<br/><br/>assigns seats for this act"]
     subgraph Seats["Four core seats"]
         direction TB
-        I["Initiating seat<br/>Request, propose, operate,<br/>claim, or begin the act"]
-        V["Verify-or-authorize seat<br/>Check evidence and authority;<br/>authorize, condition, or decline"]
-        E["Record seat<br/>Enter, version, preserve,<br/>and publish the official record"]
-        C["Contest seat<br/>Receive and review a challenge;<br/>correct, limit, or route"]
+        I["Initiating seat<br/><br/>Request, propose, operate,<br/>claim, or begin the act"]
+        V["Verify-or-authorize seat<br/><br/>Check evidence and authority;<br/>authorize, condition, or decline"]
+        E["Record seat<br/><br/>Enter, version, preserve,<br/>and publish the official record"]
+        C["Contest seat<br/><br/>Receive and review a challenge;<br/>correct, limit, or route"]
         I -.->|typical record lifecycle| V
         V -.->|authorization| E
         E -.-> C
     end
-    Act["Implement or apply<br/>the authorized decision"]
+    Act["Implement or apply<br/><br/>the authorized decision"]
     M --> X
     X --> Map
     Map --> I
@@ -834,6 +979,16 @@ flowchart TB
     Map --> C
     E -.->|recorded scope| Act
     C -.->|confirmed or corrected outcome| Act
+    style A fill:none,stroke:#64748b,color:#ffffff
+    style H fill:none,stroke:#0f766e,color:#ffffff
+    style M fill:none,stroke:#64748b,color:#ffffff
+    style X fill:none,stroke:#ea580c,color:#ffffff
+    style Map fill:none,stroke:#2563eb,color:#ffffff
+    style I fill:none,stroke:#64748b,color:#ffffff
+    style V fill:none,stroke:#ea580c,color:#ffffff
+    style E fill:none,stroke:#2563eb,color:#ffffff
+    style C fill:none,stroke:#ea580c,color:#ffffff
+    style Act fill:none,stroke:#9333ea,color:#ffffff
 ```
 
 The dotted arrows inside the box show a typical record lifecycle; the arrows to implementation are trace links, not a mandatory wait-for-review sequence.
@@ -852,17 +1007,17 @@ See [Chapter Thirteen §5](core_13_governance.md#5-authorized-roles-competency-d
 
 ```mermaid
 flowchart TB
-    Core["Numbered core_* files<br/>Preamble + Chapters One–Seventeen<br/>Binding constitutional source"]
-    Bridge["Chapter Seventeen<br/>Incorporation bridge<br/>Scope · edition · custody"]
-    Adopt["Valid adoption<br/>Chapters Sixteen and Seventeen"]
+    Core["Numbered core_* files<br/><br/>Preamble + Chapters One–Seventeen<br/>Binding constitutional source"]
+    Bridge["Chapter Seventeen<br/><br/>Incorporation bridge<br/>Scope · edition · custody"]
+    Adopt["Valid adoption<br/><br/>Chapters Sixteen and Seventeen"]
     subgraph Comp["Companion implementation corpus · implements, not narrows"]
         direction LR
-        J["corpus_joint_structure<br/>Cross-implementation links"]
-        S["corpus_systems<br/>System classifications and protocols"]
-        I["corpus_institutions<br/>Institutional governance"]
-        F["corpus_forum<br/>Forum operations"]
+        J["corpus_joint_structure<br/><br/>Cross-implementation links"]
+        S["corpus_systems<br/><br/>System classifications and protocols"]
+        I["corpus_institutions<br/><br/>Institutional governance"]
+        F["corpus_forum<br/><br/>Forum operations"]
     end
-    Support["Process and map support<br/>README · START_HERE · lookup guides"]
+    Support["Process and map support<br/><br/>README · START_HERE · lookup guides"]
     Core --> Bridge
     Adopt -->|activates recorded scope| Bridge
     Bridge -->|designates incorporated text| J
@@ -870,6 +1025,14 @@ flowchart TB
     Bridge -->|designates incorporated text| I
     Bridge -->|designates incorporated text| F
     Support -.->|points readers to the source| Core
+    style Core fill:none,stroke:#2563eb,color:#ffffff
+    style Bridge fill:none,stroke:#9333ea,color:#ffffff
+    style Adopt fill:none,stroke:#9333ea,color:#ffffff
+    style J fill:none,stroke:#16a34a,color:#ffffff
+    style S fill:none,stroke:#16a34a,color:#ffffff
+    style I fill:none,stroke:#16a34a,color:#ffffff
+    style F fill:none,stroke:#ea580c,color:#ffffff
+    style Support fill:none,stroke:#64748b,color:#ffffff
 ```
 
 The four companions divide implementation work:
