@@ -117,7 +117,7 @@
       "href": "../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction"
     }
   ],
-  "term_count": 230,
+  "term_count": 235,
   "terms": [
     {
       "term": "Accessibility",
@@ -405,6 +405,13 @@
       "anchor": "#constitutional-tetrad",
       "plain_terms": null,
       "href": "../../core_00_preamble.md#constitutional-tetrad"
+    },
+    {
+      "term": "Contest Seat",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#contest-seat",
+      "plain_terms": "the Contest Seat is the role that receives and reviews a challenge to a particular act or its record, orders correction or limits where authorized, and sends any issue it cannot decide to the proper independent path. Receiving a complaint is not enough if the recipient cannot review or route it.",
+      "href": "../../core_05_band_accountability.md#contest-seat"
     },
     {
       "term": "Contestability",
@@ -841,6 +848,13 @@
       "href": "../../core_05_band_participation.md#info-sphere"
     },
     {
+      "term": "Initiating Seat",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#initiating-seat",
+      "plain_terms": "the Initiating Seat is the role that starts a particular act. It belongs to the sentient, office, or system seeking, proposing, operating, claiming, or otherwise setting that act in motion—even when a tool, agent, or intermediary transmits the request.",
+      "href": "../../core_05_band_accountability.md#initiating-seat"
+    },
+    {
       "term": "Innovation Reward and Anti-Enclosure",
       "file": "core_05_band_integrative.md",
       "anchor": "#innovation-reward-and-anti-enclosure",
@@ -986,6 +1000,13 @@
       "anchor": "#materiality-under-uncertainty",
       "plain_terms": "when you are not sure whether something is material, default to the safer (higher) classification — do not wait for certainty or hope for a low label.",
       "href": "../../core_05_band_oversight.md#materiality-under-uncertainty"
+    },
+    {
+      "term": "Materially Binding Act Record",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#materially-binding-act-record",
+      "plain_terms": null,
+      "href": "../../core_05_band_accountability.md#materially-binding-act-record"
     },
     {
       "term": "Meaningful Agency",
@@ -1231,6 +1252,13 @@
       "anchor": "#reasonably-foreseeable",
       "plain_terms": "outcomes a careful analyst using known methods could identify before acting — including under adversarial and scaled conditions — not every conceivable outcome or pure hindsight.",
       "href": "../../core_05_band_oversight.md#reasonably-foreseeable"
+    },
+    {
+      "term": "Record Seat",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#record-seat",
+      "plain_terms": "the Record Seat is the role that makes and keeps the official record of what the Verify-or-Authorize Seat determined. It records the determination; it does not create or independently verify that determination.",
+      "href": "../../core_05_band_accountability.md#record-seat"
     },
     {
       "term": "Redress and Remediation",
@@ -1693,6 +1721,13 @@
       "anchor": "#verified-inputs-for-standing",
       "plain_terms": "only verified, reviewable contribution records and violation findings may affect standing. Allegations, complaints, intake labels, routing choices, reputation, and provisional case material are not verified inputs by themselves.",
       "href": "../../core_05_band_accountability.md#verified-inputs-for-standing"
+    },
+    {
+      "term": "Verify-or-Authorize Seat",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#verify-or-authorize-seat",
+      "plain_terms": "the Verify-or-Authorize Seat is the role that independently checks the evidence and authority for a particular act against the governing standard, then verifies, authorizes, declines, or conditions the act. A signature, checklist, or automated test is not this seat unless it carries that real checking and decision authority.",
+      "href": "../../core_05_band_accountability.md#verify-or-authorize-seat"
     },
     {
       "term": "Violation Nature",

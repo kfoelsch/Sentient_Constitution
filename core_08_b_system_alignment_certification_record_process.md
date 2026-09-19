@@ -56,6 +56,8 @@ A **System Certification Record** is a bounded, reviewable record concerning a p
 
 #### 11.1 Minimum record contents
 
+For the materially binding certification act, the System Certification Record satisfies and extends the [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) requirements and [Chapter Seven §7 Act Records, Attributable Handoffs, and Wrong-Seat Routing](core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing). It may carry those elements directly or preserve attributable, integrity-protected links to them; it does not require a duplicate parallel record.
+
 The record must identify, at minimum:
 
 - **System identity, scope, and status:** the system, version, operator or steward, scope, governing [Charter](core_05_band_continuity.md#charter) or equivalent published scope instrument (or reasoned absence where immaterial), affected communities, dependencies, and review status — including whether certified scope matches the Charter's stated scope where a Charter exists;

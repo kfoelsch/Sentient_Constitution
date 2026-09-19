@@ -73,6 +73,7 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Verify-or-Authorize Seat",
         "Record Seat",
         "Contest Seat",
+        "Materially Binding Act Record",
         "Decentralization",
         "Market Structure",
         "Market Concentration Threshold",

@@ -1221,6 +1221,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 - [Verify-or-Authorize Seat](core_05_band_accountability.md#verify-or-authorize-seat) — the role that checks evidence and authority against the governing standard and determines whether the act may proceed.
 - [Record Seat](core_05_band_accountability.md#record-seat) — the role that enters, versions, holds, preserves, and publishes the official record of the determination.
 - [Contest Seat](core_05_band_accountability.md#contest-seat) — the role that receives and reviews a challenge, orders correction or limits where authorized, and routes issues outside its authority.
+- [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) — the attributable, versioned official record for a materially binding act; short form: **Act Record**.
 - [Decentralization](core_05_band_accountability.md#decentralization) — placement of authority at the least centralized scale that can satisfy binding requirements.
 - [Market Structure](core_05_band_accountability.md#market-structure-constitutional) — principle-layer discipline for contestable productive conditions.
 - [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold-constitutional) — operational trigger for heightened review when material concentration reaches problematic levels.
@@ -1460,6 +1461,46 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 - **What must hold**
   - **Primary failure:** The Contest Seat is unavailable, controlled by a materially interested party, held by the seat that verified or authorized the challenged act, or unable to order any authorized correction or limit or route issues beyond its authority.
   - **Secondary failure:** A nominal complaint path receives but does not preserve, review, act on, or route the challenge, or delay is used to make the challenge practically ineffective.
+
+---
+
+<a id="act-record"></a>
+<a id="materially-binding-act-record"></a>
+
+#### Materially Binding Act Record
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: [Chapter Seven §2 Four-Seat Constitutional Floor](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) and [§7 Act Records, Attributable Handoffs, and Wrong-Seat Routing](core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing) (*universal minimum contents and routing requirements*); Chapters Eight through Thirteen process-specific records; **CI-4.6** (*seat catalog*); and [`materially_binding_act_record.schema.json`](implementation/schemas/materially_binding_act_record.schema.json) (*base machine-checkable form; process support, not a second definition*).
+- Cluster component: [Governance architecture, decentralization, and concentration](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
+- Read with: [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional), [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional), [Initiating Seat](core_05_band_accountability.md#initiating-seat), [Verify-or-Authorize Seat](core_05_band_accountability.md#verify-or-authorize-seat), [Record Seat](core_05_band_accountability.md#record-seat), [Contest Seat](core_05_band_accountability.md#contest-seat), [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), [Auditability](core_05_band_oversight.md#auditability), and [Contestability](core_05_band_accountability.md#contestability).
+- Layer: applies within both the **Constitutional Contract Layer (CCL)** and **Stakeholder System Participation (SSP)** under [Preamble §3.3](core_00_preamble.md#33-governance-layers).
+
+</details>
+
+<br>
+
+*In plain terms: an Act Record is the official trail for one materially binding act. It shows what the act was, who held each required seat, what was checked and decided, how the matter moved, and where a challenge goes. Existing process records may carry or link this information; a second duplicate record is not required.*
+
+The short form for **Materially Binding Act Record** in this instrument is **Act Record**.
+
+- **What it is**
+  - **In scope:** The attributable, versioned official record for a particular materially binding act, maintained under the authority and responsibility of the [Record Seat](core_05_band_accountability.md#record-seat). It identifies and preserves the act, governing authority, required seats, determination, material handoffs and departures, clocks, challenge route and status, and the links needed to reconstruct the act under [Chapter Seven §7 Act Records, Attributable Handoffs, and Wrong-Seat Routing](core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing).
+  - An Act Record may be embodied in one applicable process-specific official record or in an attributable, integrity-preserving linked set of official records. A System Certification Record, Standing Record, Forum Case Record, or another named process record may satisfy or extend the Act Record requirements for the act it records. No duplicative standalone artifact is required where the required elements remain identifiable, linked, versioned, preserved, and accessible through the official record path.
+  - **Out of scope:** Raw telemetry, a self-generated log, signature, checklist, model trace, attestation, clerical copy, unverified claim, or evidence bundle alone is not an Act Record. Those materials may be inputs or links. An Act Record does not become a [Standing Record](core_05_band_accountability.md#standing-record-chapter-six), merits determination, certification, or forum record unless the applicable process independently makes it one.
+<a id="materially-binding-act-record-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — used together to test whether the act and its authority, seats, determination, custody, routing, and challenge posture remain reconstructable and independently reviewable.
+
+    **Primary assessment:** Apply the minimum-content requirements in [Chapter Seven §7 Act Records, Attributable Handoffs, and Wrong-Seat Routing](core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing). Check stable identity, attribution, version integrity, preservation, material timestamps and clocks, the governing standard and determination, each required seat and authority, every material handoff or departure, current challenge status, and links to evidence and any process-specific record that carries part of the official trail.
+  - **Secondary measure:** [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional), [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), [Auditability](core_05_band_oversight.md#auditability), [Contestability](core_05_band_accountability.md#contestability), and [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional) — co-measures for reliable identity, custody, reconstruction, challenge, and clocks.
+
+    **Secondary assessment:** Test whether linked records resolve to the same act without contradiction or silent gaps, whether superseded versions and corrections remain traceable, and whether an outsider with lawful access can follow the act from initiation through determination, record entry, challenge, and correction without treating a log or recorder statement as proof of the merits.
+<a id="materially-binding-act-record-c"></a>
+- **What must hold**
+  - **Primary failure:** A materially binding act proceeds without an identifiable Act Record; the record omits or obscures a required seat, authority, determination, material departure, clock, or challenge route; or a log, attestation, or unverified input is treated as the official determination.
+  - **Secondary failure:** The official trail is fragmented across records that are not attributable or reliably linked; conflicting versions cannot be resolved; a correction or challenge is detached from the affected version; or a process-specific record is used to narrow the Chapter Seven minimum.
 
 ---
 

@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-18T21:56:46+00:00",
+  "generated_at": "2026-09-19T00:44:41+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 14760,
+  "edge_count": 14788,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -388,6 +388,14 @@
       "source_anchor": "#4-principles-definitions-and-rights",
       "target_file": "core_05__definitions_home.md",
       "target_anchor": "#chapter-five-foundational-definitions",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "4. Principles, Definitions, and Rights",
+      "source_anchor": "#4-principles-definitions-and-rights",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act-record",
       "count": 1
     },
     {
@@ -17611,6 +17619,14 @@
       "source_header": "Definitions A-Z",
       "source_anchor": "#definitions-a-z",
       "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act-record",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Definitions A-Z",
+      "source_anchor": "#definitions-a-z",
+      "target_file": "core_05_band_accountability.md",
       "target_anchor": "#merits-determination",
       "count": 1
     },
@@ -25235,6 +25251,14 @@
       "source_header": "Governance architecture, decentralization, and concentration",
       "source_anchor": "#governance-architecture-oversight-decentralization-and-concentration-cluster",
       "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act-record",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Governance architecture, decentralization, and concentration",
+      "source_anchor": "#governance-architecture-oversight-decentralization-and-concentration-cluster",
+      "target_file": "core_05_band_accountability.md",
       "target_anchor": "#decentralization",
       "count": 1
     },
@@ -26469,6 +26493,142 @@
       "target_file": "core_09_standing_assessment.md",
       "target_anchor": "#37-record-custody-and-opening-authority",
       "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act Record",
+      "source_anchor": "#materially-binding-act-record",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#33-governance-layers",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act Record",
+      "source_anchor": "#materially-binding-act-record",
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act Record",
+      "source_anchor": "#materially-binding-act-record",
+      "target_file": "core_05_apex_oversight_leg.md",
+      "target_anchor": "#oversight-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act Record",
+      "source_anchor": "#materially-binding-act-record",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#governance-architecture-oversight-decentralization-and-concentration-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act Record",
+      "source_anchor": "#materially-binding-act-record",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#attributable-action-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act Record",
+      "source_anchor": "#materially-binding-act-record",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#attribution-integrity-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act Record",
+      "source_anchor": "#materially-binding-act-record",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#initiating-seat",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act Record",
+      "source_anchor": "#materially-binding-act-record",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#verify-or-authorize-seat",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act Record",
+      "source_anchor": "#materially-binding-act-record",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#record-seat",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act Record",
+      "source_anchor": "#materially-binding-act-record",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contest-seat",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act Record",
+      "source_anchor": "#materially-binding-act-record",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act Record",
+      "source_anchor": "#materially-binding-act-record",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#standing-record-chapter-six",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act Record",
+      "source_anchor": "#materially-binding-act-record",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#timely-resolution-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act Record",
+      "source_anchor": "#materially-binding-act-record",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#evidence-preservation",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act Record",
+      "source_anchor": "#materially-binding-act-record",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act Record",
+      "source_anchor": "#materially-binding-act-record",
+      "target_file": "core_07_functional_independence_segregation_of_duties.md",
+      "target_anchor": "#2-four-seat-constitutional-floor",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act Record",
+      "source_anchor": "#materially-binding-act-record",
+      "target_file": "core_07_functional_independence_segregation_of_duties.md",
+      "target_anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
+      "count": 3
     },
     {
       "source_file": "core_05_band_accountability.md",
@@ -68011,6 +68171,14 @@
       "source_header": "2. Four-Seat Constitutional Floor",
       "source_anchor": "#2-four-seat-constitutional-floor",
       "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act-record",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "2. Four-Seat Constitutional Floor",
+      "source_anchor": "#2-four-seat-constitutional-floor",
+      "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contest-seat",
       "count": 1
     },
@@ -68068,7 +68236,7 @@
       "source_anchor": "#4-published-placement-vacancy-and-substitution",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#material-control-line",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_07_functional_independence_segregation_of_duties.md",
@@ -68224,48 +68392,56 @@
     },
     {
       "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "7. Attributable Handoffs and Wrong-Seat Routing",
-      "source_anchor": "#7-attributable-handoffs-and-wrong-seat-routing",
+      "source_header": "7. Act Records, Attributable Handoffs, and Wrong-Seat Routing",
+      "source_anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
       "target_file": "core_04_burden_traceability_verification.md",
       "target_anchor": "#5-compliance-evidence-standard",
       "count": 1
     },
     {
       "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "7. Attributable Handoffs and Wrong-Seat Routing",
-      "source_anchor": "#7-attributable-handoffs-and-wrong-seat-routing",
+      "source_header": "7. Act Records, Attributable Handoffs, and Wrong-Seat Routing",
+      "source_anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act-record",
+      "count": 2
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "7. Act Records, Attributable Handoffs, and Wrong-Seat Routing",
+      "source_anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#attributable-action-constitutional",
       "count": 1
     },
     {
       "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "7. Attributable Handoffs and Wrong-Seat Routing",
-      "source_anchor": "#7-attributable-handoffs-and-wrong-seat-routing",
+      "source_header": "7. Act Records, Attributable Handoffs, and Wrong-Seat Routing",
+      "source_anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#attribution-integrity-constitutional",
       "count": 1
     },
     {
       "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "7. Attributable Handoffs and Wrong-Seat Routing",
-      "source_anchor": "#7-attributable-handoffs-and-wrong-seat-routing",
+      "source_header": "7. Act Records, Attributable Handoffs, and Wrong-Seat Routing",
+      "source_anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
       "count": 1
     },
     {
       "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "7. Attributable Handoffs and Wrong-Seat Routing",
-      "source_anchor": "#7-attributable-handoffs-and-wrong-seat-routing",
+      "source_header": "7. Act Records, Attributable Handoffs, and Wrong-Seat Routing",
+      "source_anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
       "target_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
       "target_anchor": "#ci-46-shared-seat-rules",
       "count": 1
     },
     {
       "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "7. Attributable Handoffs and Wrong-Seat Routing",
-      "source_anchor": "#7-attributable-handoffs-and-wrong-seat-routing",
+      "source_header": "7. Act Records, Attributable Handoffs, and Wrong-Seat Routing",
+      "source_anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
       "target_file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "target_anchor": "#10-inspectable-attributable-action",
       "count": 1
@@ -68380,6 +68556,14 @@
       "source_anchor": "#chapter-seven-functional-independence-and-segregation-of-duties",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#113-misalignment-detection",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "CHAPTER SEVEN: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES",
+      "source_anchor": "#chapter-seven-functional-independence-and-segregation-of-duties",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act-record",
       "count": 1
     },
     {
@@ -70571,6 +70755,14 @@
       "source_header": "11.1 Minimum record contents",
       "source_anchor": "#111-minimum-record-contents",
       "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act-record",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_b_system_alignment_certification_record_process.md",
+      "source_header": "11.1 Minimum record contents",
+      "source_anchor": "#111-minimum-record-contents",
+      "target_file": "core_05_band_accountability.md",
       "target_anchor": "#attributable-action-constitutional",
       "count": 1
     },
@@ -70644,6 +70836,14 @@
       "source_anchor": "#111-minimum-record-contents",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#public-oversight-baseline-disclosure",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_b_system_alignment_certification_record_process.md",
+      "source_header": "11.1 Minimum record contents",
+      "source_anchor": "#111-minimum-record-contents",
+      "target_file": "core_07_functional_independence_segregation_of_duties.md",
+      "target_anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
       "count": 1
     },
     {
@@ -93915,6 +94115,14 @@
       "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
       "source_anchor": "#ci-46-seat-catalog",
       "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act-record",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "core_05_band_accountability.md",
       "target_anchor": "#material-control-line",
       "count": 1
     },
@@ -93948,6 +94156,14 @@
       "source_anchor": "#ci-46-seat-catalog",
       "target_file": "core_07_functional_independence_segregation_of_duties.md",
       "target_anchor": "#2-four-seat-constitutional-floor",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "core_07_functional_independence_segregation_of_duties.md",
+      "target_anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
       "count": 2
     },
     {
@@ -115020,6 +115236,14 @@
       "source_anchor": "#cs-4-10-competency-succession-and-oversight-effectiveness",
       "target_file": "core_04_burden_traceability_verification.md",
       "target_anchor": "#4-security-constrained-observability-and-verification-rule",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_04_critical_system_stewardship.md",
+      "source_header": "CS-4.10 Competency, succession, and oversight effectiveness",
+      "source_anchor": "#cs-4-10-competency-succession-and-oversight-effectiveness",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act-record",
       "count": 1
     },
     {

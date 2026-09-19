@@ -110,7 +110,7 @@ The corpus is written in plain language with low jargon to improve accessibility
 ## Common lookups
 
 - Burden of proof, traceability, verification → **Chapter Four**
-- Functional independence, the four seats, prohibited combinations, substitutes, and wrong-seat routing → **Chapter Seven**
+- Functional independence, the four seats, Materially Binding Act Records, prohibited combinations, substitutes, and wrong-seat routing → **Chapter Seven**
 - Constitutional Tetrad, Two Constitutional Aims, material stake → **Preamble §1 The Model**; Chapter One develops the aims into operative principles
 - Auditing / auditability / independent verification → **Article XV** is the floor; Chapter Five [Auditability](core_05_band_oversight.md#auditability) is the property; **[CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** is how/when. **Chapter Eight** is one large process that uses that stack — not the home
 - System alignment certification records → **Chapter Eight**

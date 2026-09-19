@@ -188,8 +188,8 @@ Each summary states what the chapter owns and what it produces.
 
 **Chapter Seven — Functional independence and segregation of duties** ([`core_07_functional_independence_segregation_of_duties.md`](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties))
 
-- **What it owns:** The cross-process floor that separates initiation, verification or authorization, official record custody, and review of challenges on every materially binding act — including independence from the actor's [Material Control Line](core_05_band_accountability.md#material-control-line), published placement, substitutes, proportionate merged hosting, emergency bounds, attributable handoffs, and wrong-seat routing.
-- **What it produces:** A reusable four-seat architecture that every later certification, standing, forum, governance, and incorporated implementation process must instantiate before its result can count as independently checked, reliably recorded, and genuinely contestable.
+- **What it owns:** The cross-process floor that separates initiation, verification or authorization, official record custody, and review of challenges on every materially binding act — including the universal minimum contents of each [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record), independence from the actor's [Material Control Line](core_05_band_accountability.md#material-control-line), published placement, substitutes, proportionate merged hosting, emergency bounds, attributable handoffs, and wrong-seat routing.
+- **What it produces:** A reusable four-seat and Act Record architecture that every later certification, standing, forum, governance, and incorporated implementation process must instantiate before its result can count as independently checked, reliably recorded, and genuinely contestable.
 
 <a id="5-key-practical-process-pipelines"></a>
 ### 5. Key Practical Process Pipelines

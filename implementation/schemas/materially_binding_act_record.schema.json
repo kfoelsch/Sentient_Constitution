@@ -1,0 +1,318 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "materially_binding_act_record.schema.json",
+  "title": "Materially Binding Act Record (Act Record)",
+  "description": "Base machine-checkable form for the Chapter Five Materially Binding Act Record and Chapter Seven §7 minimum. A process-specific official record or attributable linked set may satisfy or extend this form. This schema is process support, not a second definition and not authority to narrow the binding sources.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_id",
+    "schema_version",
+    "record_id",
+    "record_version",
+    "recorded_at",
+    "updated_at",
+    "act",
+    "seats",
+    "determination",
+    "custody",
+    "contest",
+    "events",
+    "clocks",
+    "links"
+  ],
+  "properties": {
+    "schema_id": {
+      "type": "string",
+      "const": "materially_binding_act_record"
+    },
+    "schema_version": {
+      "type": "string",
+      "const": "1"
+    },
+    "record_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "record_version": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "previous_version": {
+      "type": ["string", "null"],
+      "description": "Identifier of the immediately superseded version, or null for the first version."
+    },
+    "recorded_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "act": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "act_id",
+        "description",
+        "material_scope",
+        "status",
+        "governing_authority"
+      ],
+      "properties": {
+        "act_id": { "type": "string", "minLength": 1 },
+        "description": { "type": "string", "minLength": 1 },
+        "material_scope": { "type": "string", "minLength": 1 },
+        "status": {
+          "type": "string",
+          "enum": [
+            "initiated",
+            "pending_verification",
+            "authorized",
+            "conditioned",
+            "declined",
+            "implemented",
+            "suspended",
+            "superseded",
+            "emergency_pending_review",
+            "closed"
+          ]
+        },
+        "governing_authority": { "type": "string", "minLength": 1 },
+        "classification": { "type": "string" },
+        "material_stake": { "type": "string" }
+      }
+    },
+    "seats": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "initiating",
+        "verify_or_authorize",
+        "record",
+        "contest"
+      ],
+      "properties": {
+        "initiating": { "$ref": "#/$defs/seat_assignment" },
+        "verify_or_authorize": { "$ref": "#/$defs/seat_assignment" },
+        "record": { "$ref": "#/$defs/seat_assignment" },
+        "contest": { "$ref": "#/$defs/seat_assignment" }
+      }
+    },
+    "determination": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "status",
+        "standard_applied",
+        "determined_by",
+        "determined_at",
+        "reasons",
+        "conditions"
+      ],
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": [
+            "pending",
+            "verified",
+            "authorized",
+            "conditioned",
+            "declined",
+            "emergency_pending_review"
+          ]
+        },
+        "standard_applied": { "type": "string", "minLength": 1 },
+        "determined_by": { "type": ["string", "null"] },
+        "determined_at": {
+          "type": ["string", "null"],
+          "format": "date-time"
+        },
+        "reasons": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "conditions": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 }
+        }
+      }
+    },
+    "custody": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "entered_by",
+        "custody_authority",
+        "version_entered",
+        "entered_at"
+      ],
+      "properties": {
+        "entered_by": { "type": "string", "minLength": 1 },
+        "custody_authority": { "type": "string", "minLength": 1 },
+        "version_entered": { "type": "integer", "minimum": 1 },
+        "entered_at": { "type": "string", "format": "date-time" },
+        "preservation_location": { "type": "string" }
+      }
+    },
+    "contest": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["route", "status"],
+      "properties": {
+        "route": { "type": "string", "minLength": 1 },
+        "status": {
+          "type": "string",
+          "enum": [
+            "none_received",
+            "open",
+            "routed",
+            "resolved",
+            "correction_required"
+          ]
+        },
+        "challenge_received_at": {
+          "type": ["string", "null"],
+          "format": "date-time"
+        },
+        "current_disposition": { "type": "string" }
+      }
+    },
+    "events": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/material_event" }
+    },
+    "clocks": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/clock" }
+    },
+    "links": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "evidence",
+        "source_logs",
+        "process_records",
+        "superseded_versions",
+        "corrections"
+      ],
+      "properties": {
+        "evidence": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/reference" }
+        },
+        "source_logs": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/reference" }
+        },
+        "process_records": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/reference" }
+        },
+        "superseded_versions": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/reference" }
+        },
+        "corrections": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/reference" }
+        }
+      }
+    },
+    "extensions": {
+      "type": "object",
+      "description": "Process-specific fields that extend, and may not narrow, the Chapter Seven §7 minimum.",
+      "additionalProperties": true
+    }
+  },
+  "$defs": {
+    "seat_assignment": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["placement_status", "holder_or_route", "authority"],
+      "properties": {
+        "placement_status": {
+          "type": "string",
+          "enum": [
+            "held",
+            "substitute",
+            "permitted_merged_hosting",
+            "vacant_routed",
+            "conflicted_routed",
+            "unplaced_gap"
+          ]
+        },
+        "holder_or_route": { "type": "string", "minLength": 1 },
+        "authority": { "type": "string", "minLength": 1 },
+        "material_control_line": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 }
+        }
+      }
+    },
+    "material_event": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["event_type", "at", "actor", "description"],
+      "properties": {
+        "event_type": {
+          "type": "string",
+          "enum": [
+            "initiation",
+            "determination",
+            "record_entry",
+            "handoff",
+            "delegation",
+            "recusal",
+            "substitution",
+            "permitted_merger",
+            "emergency_departure",
+            "refusal",
+            "condition",
+            "objection",
+            "challenge",
+            "routing",
+            "correction",
+            "supersession",
+            "implementation",
+            "suspension",
+            "closure"
+          ]
+        },
+        "at": { "type": "string", "format": "date-time" },
+        "actor": { "type": "string", "minLength": 1 },
+        "from_seat": { "type": "string" },
+        "to_seat": { "type": "string" },
+        "description": { "type": "string", "minLength": 1 }
+      }
+    },
+    "clock": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["clock_id", "authority", "status", "started_at"],
+      "properties": {
+        "clock_id": { "type": "string", "minLength": 1 },
+        "authority": { "type": "string", "minLength": 1 },
+        "status": {
+          "type": "string",
+          "enum": ["running", "paused", "satisfied", "expired", "not_applicable"]
+        },
+        "started_at": { "type": ["string", "null"], "format": "date-time" },
+        "deadline_at": { "type": ["string", "null"], "format": "date-time" },
+        "satisfied_at": { "type": ["string", "null"], "format": "date-time" }
+      }
+    },
+    "reference": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "relation"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "relation": { "type": "string", "minLength": 1 },
+        "uri": { "type": "string" },
+        "integrity": { "type": "string" }
+      }
+    }
+  }
+}

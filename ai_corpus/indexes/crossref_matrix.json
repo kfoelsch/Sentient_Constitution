@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-18T21:56:45+00:00",
+  "generated_at": "2026-09-19T00:44:40+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -576,13 +576,14 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 8,
+            "count": 9,
             "anchors": [
               "#capture-of-resolution-pathways",
               "#contestability",
               "#due-process-constitutional",
               "#market-structure-constitutional",
               "#material-control-line",
+              "#materially-binding-act-record",
               "#timely-resolution-constitutional"
             ]
           },
@@ -2367,7 +2368,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 81,
+            "count": 82,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#anti-constitutional-misconduct-review",
@@ -2413,6 +2414,7 @@
               "#market-concentration-threshold-constitutional",
               "#market-structure-constitutional",
               "#material-control-line",
+              "#materially-binding-act-record",
               "#merits-determination",
               "#necessity",
               "#negligence",
@@ -3243,7 +3245,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 16,
+            "count": 17,
             "anchors": [
               "#33-governance-layers",
               "#constitutional-tetrad",
@@ -3317,7 +3319,7 @@
           },
           {
             "file": "core_05_apex_accountability_leg.md",
-            "count": 116,
+            "count": 117,
             "anchors": [
               "#6-process-conflict-resolution",
               "#7-prohibition-on-absolute-override",
@@ -3343,7 +3345,7 @@
           },
           {
             "file": "core_05_apex_oversight_leg.md",
-            "count": 22,
+            "count": 23,
             "anchors": [
               "#oversight-constitutional",
               "#oversight-measurement-family"
@@ -3359,7 +3361,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 577,
+            "count": 591,
             "anchors": [
               "#accountability-contestability-semi-independent",
               "#adjudication-and-dispute-resolution-constitutional",
@@ -3405,6 +3407,7 @@
               "#market-concentration-threshold-constitutional",
               "#market-structure-constitutional",
               "#material-control-line",
+              "#materially-binding-act-record",
               "#merits-determination",
               "#necessity",
               "#negligence",
@@ -3487,7 +3490,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 141,
+            "count": 145,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -3577,10 +3580,11 @@
           },
           {
             "file": "core_07_functional_independence_segregation_of_duties.md",
-            "count": 9,
+            "count": 13,
             "anchors": [
               "#2-four-seat-constitutional-floor",
-              "#3-independence-conflict-and-control-lines"
+              "#3-independence-conflict-and-control-lines",
+              "#7-act-records-attributable-handoffs-and-wrong-seat-routing"
             ]
           },
           {
@@ -5161,7 +5165,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 18,
+            "count": 23,
             "anchors": [
               "#attributable-action-constitutional",
               "#attribution-integrity-constitutional",
@@ -5169,6 +5173,7 @@
               "#contestability",
               "#initiating-seat",
               "#material-control-line",
+              "#materially-binding-act-record",
               "#necessity",
               "#proportionality",
               "#record-seat",
@@ -5624,13 +5629,14 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 15,
+            "count": 16,
             "anchors": [
               "#attributable-action-constitutional",
               "#attribution-integrity-constitutional",
               "#contestability",
               "#contestability-a",
               "#contestability-c",
+              "#materially-binding-act-record",
               "#stay",
               "#verified-inputs-for-standing"
             ]
@@ -5706,9 +5712,10 @@
           },
           {
             "file": "core_07_functional_independence_segregation_of_duties.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
               "#2-four-seat-constitutional-floor",
+              "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
               "#chapter-seven-functional-independence-and-segregation-of-duties"
             ]
           },
@@ -12797,14 +12804,15 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 8,
+            "count": 9,
             "anchors": [
               "#attributable-action-constitutional",
               "#attribution-integrity-constitutional",
               "#governance",
               "#governance-a",
               "#governance-c",
-              "#material-control-line"
+              "#material-control-line",
+              "#materially-binding-act-record"
             ]
           },
           {
@@ -14418,7 +14426,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 25,
+            "count": 27,
             "anchors": [
               "#competency-bar",
               "#competency-bar-a",
@@ -14435,6 +14443,7 @@
               "#governance-c",
               "#initiating-seat",
               "#material-control-line",
+              "#materially-binding-act-record",
               "#record-seat",
               "#verify-or-authorize-seat"
             ]
@@ -14517,9 +14526,10 @@
           },
           {
             "file": "core_07_functional_independence_segregation_of_duties.md",
-            "count": 2,
+            "count": 4,
             "anchors": [
-              "#2-four-seat-constitutional-floor"
+              "#2-four-seat-constitutional-floor",
+              "#7-act-records-attributable-handoffs-and-wrong-seat-routing"
             ]
           },
           {

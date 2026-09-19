@@ -45,6 +45,11 @@
       "type": "string",
       "description": "Optional steward_owner_clock_index.json case id."
     },
+    "act_record_id": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Optional pointer to the Materially Binding Act Record this log feeds. The pointer does not make this log the official record or verify its contents."
+    },
     "elements": {
       "type": "object",
       "additionalProperties": false,

@@ -26,6 +26,7 @@ Chapter Five and CJS-3 definition files use **one** `---` between reader units, 
 | File-top Corpus placement widget | `make file-top-placement-audit` |
 | CJS-0.1 topic-router bidirectional read-with links | `make router-bidirectional-audit` |
 | Binding corpus must not depend on `doc_architecture` for meaning/routing | `make support-doc-pointer-audit` |
+| Materially Binding Act Record base schema and fixtures | `make materially-binding-act-record-validate` / `make materially-binding-act-record-validate-test` |
 | Chapter Five compound heading/member order | `make ch5-cluster-order-audit` |
 | Chapter Five single-definition and owner-roster rule | `make ch5-single-definition-audit` |
 | Chapter Five alphabetical directory and section 1 order | `make ch5-alphabetical-directory-audit` |

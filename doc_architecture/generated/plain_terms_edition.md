@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **606** of **870** headings carry a gloss (70%).
+Coverage: **611** of **875** headings carry a gloss (70%).
 
 ## Contents
 
@@ -24,7 +24,7 @@ Coverage: **606** of **870** headings carry a gloss (70%).
 - [CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)](#chapter-five-definitions-oversight-tetrad-leg) — `core_05_apex_oversight_leg.md` (3/4 glossed)
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05_apex_participation_leg.md` (3/4 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05_apex_timeliness_leg.md` (3/4 glossed)
-- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (66/78 glossed)
+- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (71/83 glossed)
 - [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (23/83 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (12/17 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (26/36 glossed)
@@ -1128,7 +1128,7 @@ these questions ask whether problems actually move in time — not whether a das
 
 ## Accountability Constitutional Definitions
 
-Source file: [`core_05_band_accountability.md`](../../core_05_band_accountability.md) · 66/78 headings glossed
+Source file: [`core_05_band_accountability.md`](../../core_05_band_accountability.md) · 71/83 headings glossed
 
 #### Accountability: Independent terms
 
@@ -1333,6 +1333,36 @@ Governance is how a system assigns and limits power, makes decisions, changes ov
 a Material Control Line is the real chain of power around a particular act. It includes the sentients, offices, or systems that can meaningfully direct, overrule, reward, punish, remove, delay, or suppress the work, even when an organization chart calls the seat independent.
 
 [Source](../../core_05_band_accountability.md#material-control-line)
+
+##### Initiating Seat
+
+the Initiating Seat is the role that starts a particular act. It belongs to the sentient, office, or system seeking, proposing, operating, claiming, or otherwise setting that act in motion—even when a tool, agent, or intermediary transmits the request.
+
+[Source](../../core_05_band_accountability.md#initiating-seat)
+
+##### Verify-or-Authorize Seat
+
+the Verify-or-Authorize Seat is the role that independently checks the evidence and authority for a particular act against the governing standard, then verifies, authorizes, declines, or conditions the act. A signature, checklist, or automated test is not this seat unless it carries that real checking and decision authority.
+
+[Source](../../core_05_band_accountability.md#verify-or-authorize-seat)
+
+##### Record Seat
+
+the Record Seat is the role that makes and keeps the official record of what the Verify-or-Authorize Seat determined. It records the determination; it does not create or independently verify that determination.
+
+[Source](../../core_05_band_accountability.md#record-seat)
+
+##### Contest Seat
+
+the Contest Seat is the role that receives and reviews a challenge to a particular act or its record, orders correction or limits where authorized, and sends any issue it cannot decide to the proper independent path. Receiving a complaint is not enough if the recipient cannot review or route it.
+
+[Source](../../core_05_band_accountability.md#contest-seat)
+
+##### Materially Binding Act Record
+
+an Act Record is the official trail for one materially binding act. It shows what the act was, who held each required seat, what was checked and decided, how the matter moved, and where a challenge goes. Existing process records may carry or link this information; a second duplicate record is not required.
+
+[Source](../../core_05_band_accountability.md#act-record)
 
 ##### Decentralization
 
@@ -2842,15 +2872,15 @@ small and informal groups do not need four large departments. They do need a rea
 
 #### 6. Emergency and Urgent Action
 
-a real emergency may justify acting before the ordinary check finishes. It does not let the actor certify its own continuation, erase the trail, or become the final reviewer afterward.
+a real emergency may justify acting before the ordinary check finishes. It changes sequence, not seat ownership or the class-scaled separation posture. It does not let the actor certify its own continuation, erase the trail, or become the final reviewer afterward.
 
 [Source](../../core_07_functional_independence_segregation_of_duties.md#6-emergency-and-urgent-action)
 
-#### 7. Attributable Handoffs and Wrong-Seat Routing
+#### 7. Act Records, Attributable Handoffs, and Wrong-Seat Routing
 
-when a step is not yours, do not silently take it and do not simply walk away. Say which seat must act, preserve what arrived, log the gap, and pass the matter to the right place.
+every materially binding act has an Act Record showing what happened, who held each seat, what was decided, and where a challenge goes. When a step is not yours, do not silently take it and do not simply walk away. Record the gap and pass the matter to the right place.
 
-[Source](../../core_07_functional_independence_segregation_of_duties.md#7-attributable-handoffs-and-wrong-seat-routing)
+[Source](../../core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing)
 
 #### 8. Relationship to Later Processes
 

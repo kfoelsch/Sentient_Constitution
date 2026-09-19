@@ -230,6 +230,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Materiality Determination](core_05_band_oversight.md#materiality-determination)
 - [Materiality Integrity Constraint](core_05_band_oversight.md#materiality-integrity-constraint)
 - [Materiality Under Uncertainty](core_05_band_oversight.md#materiality-under-uncertainty)
+- [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record)
 - [Meaningful Agency](core_05_band_participation.md#meaningful-agency)
 - [Merits Determination](core_05_band_accountability.md#merits-determination)
 - [Movement and Relocation](core_05_band_participation.md#movement-and-relocation-constitutional)
