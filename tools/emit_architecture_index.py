@@ -1,0 +1,278 @@
+#!/usr/bin/env python3
+"""Generate stable ID / routing index artifacts for doc_architecture section 5."""
+
+from __future__ import annotations
+
+import argparse
+import json
+import sys
+from pathlib import Path
+
+_TOOLS = Path(__file__).resolve().parent
+if str(_TOOLS) not in sys.path:
+    sys.path.insert(0, str(_TOOLS))
+
+from corpus_paths import CORE_FILES, COMPANION_WRAPPERS  # noqa: E402
+
+try:
+    from router_table_lib import (
+        ROUTER_DOMAIN_ORDER,
+        build_section_index,
+        human_primary_owner_links,
+        human_read_with_summary,
+        load_router_rows,
+        router_domain,
+    )
+except ImportError:
+    build_section_index = None  # type: ignore[assignment,misc]
+    load_router_rows = None  # type: ignore[assignment,misc]
+    ROUTER_DOMAIN_ORDER = ()  # type: ignore[misc]
+    human_primary_owner_links = None  # type: ignore[assignment,misc]
+    human_read_with_summary = None  # type: ignore[assignment,misc]
+    router_domain = None  # type: ignore[assignment,misc]
+
+try:
+    from family_map_lib import load_family_map, resolve_section_file
+except ImportError:
+    load_family_map = None  # type: ignore[assignment,misc]
+    resolve_section_file = None  # type: ignore[assignment,misc]
+
+
+def chapter_rows(root: Path) -> list[dict[str, str]]:
+    rows: list[dict[str, str]] = []
+    for rel in CORE_FILES:
+        path = root / rel
+        if not path.is_file():
+            continue
+        chapter = rel.split("_", 1)[0].replace("core_", "").replace("-", "–", 1)
+        rows.append(
+            {
+                "file": rel,
+                "label": chapter,
+                "status": "present",
+            }
+        )
+    for rel in COMPANION_WRAPPERS:
+        rows.append({"file": rel, "label": rel.replace(".md", ""), "status": "present"})
+    return rows
+
+
+def router_sample(root: Path, limit: int = 25) -> list[dict[str, str]]:
+    if load_router_rows is None:
+        return []
+    rows = load_router_rows(root)
+    sample: list[dict[str, str]] = []
+    for row in rows[:limit]:
+        sample.append(router_row_dict(row))
+    return sample
+
+
+def router_row_dict(row) -> dict[str, str]:
+    return {
+        "id": row.row_id,
+        "topic": row.topic,
+        "primary_owner": row.owner_cell.strip()[:80],
+        "primary_attach": list(row.primary_attach),
+    }
+
+
+def resolved_attach(root: Path, section_id: str, family_map: dict | None) -> dict[str, str]:
+    out: dict[str, str] = {"id": section_id}
+    if family_map is not None and resolve_section_file is not None:
+        file_rel = resolve_section_file(family_map, section_id)
+        if file_rel:
+            out["file"] = file_rel
+    return out
+
+
+def full_topic_router_payload(root: Path) -> dict:
+    if load_router_rows is None:
+        return {"rows": []}
+    family_map = load_family_map(root) if load_family_map is not None else None
+    rows = []
+    for row in load_router_rows(root):
+        rows.append(
+            {
+                "id": row.row_id,
+                "topic": row.topic,
+                "domain": router_domain(row) if router_domain is not None else "",
+                "primary_owners": [
+                    resolved_attach(root, section_id, family_map)
+                    for section_id in row.primary_attach
+                ],
+                "read_with": [
+                    resolved_attach(root, section_id, family_map)
+                    for section_id in row.read_with_attach
+                ],
+            }
+        )
+    return {
+        "status": "process_support_not_binding",
+        "cannot_narrow_core": True,
+        "source": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+        "description": "Full CJS-0.1 topic router with resolved owner and read-with files. Authoritative row table remains CJS-0.1.",
+        "rows": rows,
+    }
+
+
+def ci_primary_router_rows(root: Path) -> list[dict[str, str]]:
+    if load_router_rows is None:
+        return []
+    rows = load_router_rows(root)
+    ci_rows: list[dict[str, str]] = []
+    for row in rows:
+        if not row.primary_attach:
+            continue
+        if not all(section_id.startswith("CI-") for section_id in row.primary_attach):
+            continue
+        ci_rows.append(router_row_dict(row))
+    return ci_rows
+
+
+def render_topic_router_reader_markdown(root: Path) -> str:
+    if (
+        load_router_rows is None
+        or build_section_index is None
+        or human_primary_owner_links is None
+        or human_read_with_summary is None
+        or router_domain is None
+    ):
+        return ""
+
+    rows = load_router_rows(root)
+    section_index = build_section_index(root)
+    out_dir = root / "doc_architecture" / "generated"
+    grouped: dict[str, list] = {label: [] for label in ROUTER_DOMAIN_ORDER}
+    for row in rows:
+        grouped.setdefault(router_domain(row), []).append(row)
+
+    lines = [
+        "# Generated topic router reader index",
+        "",
+        "Auto-generated by `make architecture-index`. Do not edit by hand.",
+        "",
+        "Plain-language grouped index derived from [corpus_joint_structure/cjs_00_registry_and_reading_rules.md](../../corpus_joint_structure/cjs_00_registry_and_reading_rules.md) **CJS-0.1** (*Cross-file routing*). Reading guidance: **CJS-0.1** ([Cross-file routing](../../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)). Authoritative mandatory read-with lists and stable row IDs remain in the integrator table in **CJS-0.1**; audit: `make router-bidirectional-audit`.",
+        "",
+    ]
+    for domain in ROUTER_DOMAIN_ORDER:
+        domain_rows = grouped.get(domain, [])
+        if not domain_rows:
+            continue
+        lines.extend([f"## {domain}", ""])
+        for row in domain_rows:
+            start = human_primary_owner_links(
+                root, row, section_index, from_dir=out_dir
+            )
+            also_read = human_read_with_summary(row)
+            lines.append(
+                f"- **{row.topic}** — Start: {start}. Also read: {also_read}."
+            )
+        lines.append("")
+    return "\n".join(lines)
+
+
+def render_ci_primary_markdown(root: Path) -> str:
+    rows = ci_primary_router_rows(root)
+    lines = [
+        "# Generated CI-primary router index",
+        "",
+        "Auto-generated by `make architecture-index`. Do not edit by hand.",
+        "",
+        "Filter of [corpus_joint_structure/cjs_00_registry_and_reading_rules.md](../../corpus_joint_structure/cjs_00_registry_and_reading_rules.md) **CJS-0.1** rows whose **primary owner** is one or more **CI** sections. Authoritative router and mandatory read-with lists remain in **CJS-0.1**; audit: `make router-bidirectional-audit`.",
+        "",
+        "| Stable ID | Topic | CI primary owner |",
+        "|-----------|-------|------------------|",
+    ]
+    for row in rows:
+        owners = ", ".join(f"**{section_id}**" for section_id in row["primary_attach"])
+        topic = row["topic"]
+        lines.append(f"| {row['id']} | {topic} | {owners} |")
+    lines.append("")
+    return "\n".join(lines)
+
+
+def render_markdown(root: Path) -> str:
+    chapters = chapter_rows(root)
+    router = router_sample(root)
+    lines = [
+        "# Generated stable ID index",
+        "",
+        "Auto-generated by `make architecture-index`. Do not edit by hand.",
+        "",
+        "## Core and companion files",
+        "",
+        "| File | Label | Status |",
+        "|------|-------|--------|",
+    ]
+    for row in chapters:
+        lines.append(f"| `{row['file']}` | {row['label']} | {row['status']} |")
+    lines.extend(
+        [
+            "",
+            "## CJS-0.1 router sample",
+            "",
+            "Full router: [corpus_joint_structure/cjs_00_registry_and_reading_rules.md](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md). Audit: `make router-bidirectional-audit`.",
+            "",
+            "| Stable ID | Topic | Primary owner |",
+            "|-----------|-------|---------------|",
+        ]
+    )
+    for row in router:
+        lines.append(f"| {row['id']} | {row['topic']} | {row['primary_owner']} |")
+    lines.extend(
+        [
+            "",
+            "## Chapter Six articles",
+            "",
+            "Article titles and Roman numerals: `make reference-audit` / `core_06_rights_part_*.md`.",
+            "",
+        ]
+    )
+    return "\n".join(lines)
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--root", default=".", help="Repository root")
+    args = parser.parse_args()
+    root = Path(args.root).resolve()
+    out_dir = root / "doc_architecture" / "generated"
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    md_path = out_dir / "stable_id_index.md"
+    json_path = out_dir / "stable_id_index.json"
+    ci_primary_md_path = out_dir / "ci_primary_router_index.md"
+    ci_primary_json_path = out_dir / "ci_primary_router_index.json"
+    topic_reader_md_path = out_dir / "topic_router_reader_index.md"
+    topic_router_json_path = out_dir / "topic_router.json"
+    payload = {
+        "chapters": chapter_rows(root),
+        "router_sample": router_sample(root),
+        "ci_primary_router": ci_primary_router_rows(root),
+    }
+    md_path.write_text(render_markdown(root), encoding="utf-8")
+    json_path.write_text(json.dumps(payload, indent=2) + "\n", encoding="utf-8")
+    ci_primary_md_path.write_text(render_ci_primary_markdown(root), encoding="utf-8")
+    ci_primary_json_path.write_text(
+        json.dumps({"ci_primary_router": ci_primary_router_rows(root)}, indent=2) + "\n",
+        encoding="utf-8",
+    )
+    topic_router_payload = full_topic_router_payload(root)
+    topic_router_json_path.write_text(
+        json.dumps(topic_router_payload, indent=2) + "\n", encoding="utf-8"
+    )
+    topic_reader_md = render_topic_router_reader_markdown(root)
+    if topic_reader_md:
+        topic_reader_md_path.write_text(topic_reader_md, encoding="utf-8")
+    print(
+        f"Wrote {md_path.relative_to(root)}, {json_path.relative_to(root)}, "
+        f"{ci_primary_md_path.relative_to(root)}, and {ci_primary_json_path.relative_to(root)}"
+    )
+    print(f"Wrote {topic_router_json_path.relative_to(root)}")
+    if topic_reader_md:
+        print(f"Wrote {topic_reader_md_path.relative_to(root)}")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

@@ -1,0 +1,686 @@
+#!/usr/bin/env python3
+"""Tests for the Chapter Five through Chapter Fourteen nested-list candidate finder."""
+
+from __future__ import annotations
+
+import unittest
+from io import StringIO
+from pathlib import Path
+from unittest.mock import patch
+
+_TOOLS = Path(__file__).resolve().parent
+import sys
+
+if str(_TOOLS) not in sys.path:
+    sys.path.insert(0, str(_TOOLS))
+
+from ch5_nested_list_candidate_audit import (  # noqa: E402
+    main,
+    scan_text,
+)
+
+
+class NestedListCandidateTests(unittest.TestCase):
+    def _lines(self, text: str, *, min_score: int = 8) -> list[int]:
+        return [item.line for item in scan_text(text, min_score=min_score)]
+
+    def test_packed_semicolon_failure_is_flagged(self) -> None:
+        text = """#### Stay
+
+- **What it is**
+  - **In scope:** A pause.
+<a id="stay-c"></a>
+- **What must hold**
+  - **Primary failure:** It is non-compliant to use informal delay; keep a Stay indefinite; block contestability; treat a Stay as final approval; label a merits ruling as a Stay; or refuse to lift it.
+"""
+        hits = scan_text(text)
+        self.assertEqual(self._lines(text), [7])
+        self.assertEqual(hits[0].role, "primary-failure")
+        self.assertTrue(any(k.startswith("semicolons:") for k in hits[0].kinds))
+        self.assertIn("nested bullets", hits[0].recommendation)
+
+    def test_nested_children_are_not_flagged(self) -> None:
+        text = """#### Remedy System
+
+- **What must hold**
+  - **Primary failure:** It is non-compliant to:
+    - run paper-only pathways;
+    - leave trauma unresolved; or
+    - treat ownership of standards as command authority.
+"""
+        self.assertEqual(scan_text(text), [])
+
+    def test_colon_intro_without_children_is_flagged(self) -> None:
+        text = """#### Harm
+
+- **What it is**
+  - **In scope:** Material worsening of protected conditions. This includes:
+"""
+        hits = scan_text(text)
+        self.assertEqual(len(hits), 1)
+        self.assertIn("colon-intro", hits[0].kinds)
+        self.assertEqual(hits[0].recommendation, "Nest the list this line introduces.")
+
+    def test_colon_intro_with_children_is_not_flagged(self) -> None:
+        text = """#### Harm
+
+- **What it is**
+  - **In scope:** Material worsening of protected conditions. This includes:
+    - delayed harm;
+    - indirect harm; and
+    - system-wide harm.
+"""
+        self.assertEqual(scan_text(text), [])
+
+    def test_skips_details_trace_lists(self) -> None:
+        text = """#### Stay
+
+<details>
+<summary>Trace</summary>
+
+- Read with: notice; chance to be heard; reasons; impartial structures; contest path; and traceability.
+
+</details>
+
+- **What it is**
+  - **In scope:** A temporary pause.
+"""
+        self.assertEqual(scan_text(text), [])
+
+    def test_skips_primary_measure_boilerplate(self) -> None:
+        text = """#### Feasibility
+
+- **How to measure and assess**
+  - **Primary measure:** Accountability measurement family and Timeliness measurement family — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay; also check backlog; capture; and delay.
+"""
+        self.assertEqual(scan_text(text), [])
+
+    def test_skips_short_out_of_scope(self) -> None:
+        text = """#### Feasibility
+
+- **What it is**
+  - **Out of scope:** theoretical possibility talk with no required action.
+"""
+        self.assertEqual(scan_text(text), [])
+
+    def test_packed_assessment_continuation_is_flagged(self) -> None:
+        text = """#### Collective Accountability Failure
+
+- **How to measure and assess**
+  - **Primary measure:** Accountability measurement family.
+
+    **Primary assessment:** For each role, assess duty; knowledge; ability to resist or escalate; command and dependency structure; documented response pathways; and whether actors used contestability when they faced unlawful directives.
+"""
+        hits = scan_text(text)
+        self.assertEqual(len(hits), 1)
+        self.assertEqual(hits[0].role, "primary-assessment")
+        self.assertTrue(any(k.startswith("semicolons:") for k in hits[0].kinds))
+
+    def test_assessment_with_nested_list_is_not_flagged(self) -> None:
+        text = """#### Adjudication and Dispute Resolution
+
+- **How to measure and assess**
+  - **Primary measure:** Accountability measurement family.
+
+    **Primary assessment:**
+    - Apply due process.
+    - Requirements for access are governed here.
+    - Owner-layer procedures must not narrow this definition.
+"""
+        self.assertEqual(scan_text(text), [])
+
+    def test_guidepost_header_is_skipped(self) -> None:
+        text = """#### Feasibility
+
+- **What it is**
+"""
+        self.assertEqual(scan_text(text, min_score=1), [])
+
+    def test_including_list_is_flagged(self) -> None:
+        text = """#### Good Faith
+
+- **What it is**
+  - **In scope:** Honest purpose in the constitutional settings where Good Faith is required, including publication under Article VIII, participation in audits, and cooperation with Oversight when disclosure duties apply. It means sincerely trying to align conduct with stated facts, applicable rules, and epistemic integrity.
+"""
+        hits = scan_text(text)
+        self.assertEqual(len(hits), 1)
+        self.assertIn("including-list", hits[0].kinds)
+
+    def test_or_chain_failure_is_flagged(self) -> None:
+        text = """#### Due Process
+
+- **What must hold**
+  - **Primary failure:** It is non-compliant to decide a materially impactful outcome without timely notice, a meaningful chance to be heard, understandable reasons, impartial or appropriately independent structures where adjudication applies, a way to contest or seek secondary review, or traceability under Chapters Two through Four. A due-process label or procedure that exists only on paper and has no real effect in the situation being evaluated is also non-compliant.
+"""
+        hits = scan_text(text)
+        self.assertEqual(len(hits), 1)
+        self.assertIn("or-chain", hits[0].kinds)
+
+    def test_pointer_line_is_skipped(self) -> None:
+        text = """#### Standing Record
+
+- **What it is**
+  - Chapter Five pointer; canonical concept: Chapter Nine §2.1; operational requirements: Chapter Nine §3.
+"""
+        self.assertEqual(scan_text(text), [])
+
+    def test_min_score_filters(self) -> None:
+        text = """#### Stay
+
+- **What must hold**
+  - **Primary failure:** It is non-compliant to use informal delay; keep a Stay indefinite; block contestability; treat a Stay as final approval; label a merits ruling as a Stay; or refuse to lift it.
+"""
+        self.assertTrue(scan_text(text, min_score=8))
+        self.assertEqual(scan_text(text, min_score=99), [])
+
+    def test_main_advisory_exit_zero(self) -> None:
+        buf = StringIO()
+        with patch("sys.stdout", buf):
+            code = main(
+                [
+                    "--root",
+                    str(_TOOLS.parent),
+                    "--file",
+                    "core_05_band_accountability.md",
+                    "--top",
+                    "3",
+                ]
+            )
+        self.assertEqual(code, 0)
+        self.assertIn("CH5-NEST-CANDIDATE", buf.getvalue())
+
+    def test_ch6_labeled_semicolon_list_is_flagged(self) -> None:
+        text = """#### Article V-E: Sentience-Status Adjudication Floor
+
+- **Shield for the entity, not the operator:** Default inclusion protects the entity's floor; it does not shield operator property; it does not exempt the deployment from containment; and it produces no Contribution Axis credit.
+"""
+        hits = scan_text(text, chapter=6)
+        self.assertEqual(self._lines(text, min_score=8), [3])
+        self.assertEqual(hits[0].role, "shield-for-the-entity-not-the-operator")
+        self.assertTrue(any(k.startswith("semicolons:") for k in hits[0].kinds))
+
+    def test_ch6_nested_children_are_not_flagged(self) -> None:
+        text = """#### Article I-D: Existential Risk
+
+- **Evaluation requirements:** Evaluation must:
+  - include direct, indirect, and aggregated pathways;
+  - account for lock-in; and
+  - assess recovery capacity.
+"""
+        self.assertEqual(scan_text(text, chapter=6), [])
+
+    def test_ch6_covers_list_is_flagged(self) -> None:
+        text = """#### Article III-C: Health
+
+- The floor covers preventive, acute, chronic, and maintenance care, including mental-health care, dental care, and reproductive care.
+"""
+        hits = scan_text(text, chapter=6)
+        self.assertEqual(len(hits), 1)
+        self.assertIn("including-list", hits[0].kinds)
+
+    def test_ch6_includes_semicolon_list_is_flagged(self) -> None:
+        text = """#### Article VI: Expression
+
+- Assembly includes forming, joining, and sustaining associations; conducting meetings; and coordinated action consistent with Non-Imposition.
+"""
+        hits = scan_text(text, chapter=6)
+        self.assertEqual(len(hits), 1)
+        self.assertIn("including-list", hits[0].kinds)
+        self.assertTrue(any(k.startswith("semicolons:") for k in hits[0].kinds))
+
+    def test_ch6_tetrad_short_including_is_skipped(self) -> None:
+        text = """### Article VI: Education
+
+- **Flourishing:** sentients retain practical access to learning, including problem-solving, literacy, and civic skills.
+"""
+        self.assertEqual(scan_text(text, chapter=6), [])
+
+    def test_ch6_unlabeled_words_only_is_skipped(self) -> None:
+        text = """#### Article XIII: Security
+
+- This paragraph states a single continuous argument about institutional power, covert intelligence, force, and autonomous coercive systems without packing a parallel checklist of distinct tests into the line.
+"""
+        # Pad to >=80 words without packing signals.
+        filler = " ".join(["clause"] * 70)
+        text = text.replace("without packing", filler + " without packing")
+        self.assertEqual(scan_text(text, chapter=6), [])
+
+    def test_ch6_long_labeled_is_flagged(self) -> None:
+        text = """#### Article V-E: Sentience-Status Adjudication Floor
+
+- **Independent representation:** An entity whose status is under adjudication has the right to an independent representative — one with no material dependence on, ownership interest in, or employment by the parent system, operator, or any party seeking to withhold or narrow protection — appointed by the merits forum once the case is open, with access to the entity within Internal-State Boundary and Type-N Protection, a duty to present the entity's interests and any preferences it can express, and standing to contest narrowing, revocation, or intake decline. The parent system or operator may give evidence and must preserve and produce records, but may not be the sole filer, sole witness, or sole source of indicator evidence on a request to withhold, narrow, or revoke.
+"""
+        hits = scan_text(text, chapter=6)
+        self.assertEqual(len(hits), 1)
+        self.assertEqual(hits[0].role, "independent-representation")
+        self.assertTrue(any(k.startswith("words:") for k in hits[0].kinds))
+
+    def test_ch6_skips_details_trace_lists(self) -> None:
+        text = """#### Article I-A: Environmental Preconditions
+
+<details>
+<summary>Trace</summary>
+
+- Upstream: Principles: wellbeing; safety; truth; necessity; and systemic evaluation.
+
+</details>
+
+- **Preconditions, integrity, and sustainability:** Environmental Preconditions in Chapter Five are operative under this Article.
+"""
+        self.assertEqual(scan_text(text, chapter=6), [])
+
+    def test_main_chapter_six_advisory_exit_zero(self) -> None:
+        buf = StringIO()
+        with patch("sys.stdout", buf):
+            code = main(
+                [
+                    "--root",
+                    str(_TOOLS.parent),
+                    "--chapter",
+                    "6",
+                    "--file",
+                    "core_06_rights_part_b.md",
+                    "--top",
+                    "3",
+                ]
+            )
+        self.assertEqual(code, 0)
+        self.assertIn("CH6-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH5-NEST-CANDIDATE", buf.getvalue())
+
+    def test_ch7_labeled_semicolon_list_is_flagged(self) -> None:
+        text = """#### 3.8 Illustrative whole-system application by class (non-exhaustive)
+
+- **What the record must show:** Material findings under each implicated factor; dependency and cascade assumptions; risk-evaluation findings; accessibility findings; and conditions or reopening triggers.
+"""
+        hits = scan_text(text, chapter=7)
+        self.assertEqual(self._lines(text, min_score=8), [3])
+        self.assertEqual(hits[0].role, "what-the-record-must-show")
+        self.assertTrue(any(k.startswith("semicolons:") for k in hits[0].kinds))
+
+    def test_ch7_nested_children_are_not_flagged(self) -> None:
+        text = """#### 4.1 Illustrative data-handling application by class (non-exhaustive)
+
+- **Data types in scope:**
+  - Clinical and diagnostic records;
+  - identity and credential-resolution tokens; and
+  - access and disclosure audit logs.
+"""
+        self.assertEqual(scan_text(text, chapter=7), [])
+
+    def test_ch7_unlabeled_words_only_is_skipped(self) -> None:
+        text = """### 4. Data Types and Handling Evaluation
+
+- This paragraph states a single continuous argument about classification integrity, attribution, contestability, and infrastructure robustness without packing a parallel checklist of distinct tests into the line.
+"""
+        filler = " ".join(["clause"] * 70)
+        text = text.replace("without packing", filler + " without packing")
+        self.assertEqual(scan_text(text, chapter=7), [])
+
+    def test_main_chapter_eight_advisory_exit_zero(self) -> None:
+        buf = StringIO()
+        with patch("sys.stdout", buf):
+            code = main(
+                [
+                    "--root",
+                    str(_TOOLS.parent),
+                    "--chapter",
+                    "7",
+                    "--file",
+                    "core_08_a_system_alignment_certification_evaluation.md",
+                    "--top",
+                    "3",
+                ]
+            )
+        self.assertEqual(code, 0)
+        self.assertIn("CH7-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH5-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH6-NEST-CANDIDATE", buf.getvalue())
+
+    def test_ch8_labeled_semicolon_list_is_flagged(self) -> None:
+        text = """#### 3.1 Minimum record contents
+
+- **Violation standing records must also state:** the Question 2 violation measurement; shared-violation actor-specific basis; forum-disclosure omission basis; and the measurement basis later Chapter Ten effects must use.
+"""
+        hits = scan_text(text, chapter=8)
+        self.assertEqual(self._lines(text, min_score=8), [3])
+        self.assertEqual(hits[0].role, "violation-standing-records-must-also-state")
+        self.assertTrue(any(k.startswith("semicolons:") for k in hits[0].kinds))
+
+    def test_ch8_nested_children_are_not_flagged(self) -> None:
+        text = """#### 3.1 Minimum record contents
+
+- **Contribution standing records must also state:**
+  - the Question 2 contribution measurement;
+  - how shared credit was allocated; and
+  - the measurement basis later Chapter Ten effects must use.
+"""
+        self.assertEqual(scan_text(text, chapter=8), [])
+
+    def test_ch8_unlabeled_words_only_is_skipped(self) -> None:
+        text = """### 4. Question 2 — how good or bad was it?
+
+- This paragraph states a single continuous argument about contribution, violation, LEQU magnitude, and contestability without packing a parallel checklist of distinct tests into the line.
+"""
+        filler = " ".join(["clause"] * 70)
+        text = text.replace("without packing", filler + " without packing")
+        self.assertEqual(scan_text(text, chapter=8), [])
+
+    def test_main_chapter_nine_advisory_exit_zero(self) -> None:
+        buf = StringIO()
+        with patch("sys.stdout", buf):
+            code = main(
+                [
+                    "--root",
+                    str(_TOOLS.parent),
+                    "--chapter",
+                    "8",
+                    "--file",
+                    "core_09_standing_assessment.md",
+                    "--top",
+                    "3",
+                ]
+            )
+        self.assertEqual(code, 0)
+        self.assertIn("CH8-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH5-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH6-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH7-NEST-CANDIDATE", buf.getvalue())
+
+    def test_ch9_labeled_semicolon_list_is_flagged(self) -> None:
+        text = """#### 4.1 Remedy and correction
+
+- **Correction:** changes to conduct; systems; records; incentives; supervision; safeguards; or role eligibility needed to address the cause and stop continuation.
+"""
+        hits = scan_text(text, chapter=9)
+        self.assertEqual(self._lines(text, min_score=8), [3])
+        self.assertEqual(hits[0].role, "correction")
+        self.assertTrue(any(k.startswith("semicolons:") for k in hits[0].kinds))
+
+    def test_ch9_nested_children_are_not_flagged(self) -> None:
+        text = """#### 4.1 Remedy and correction
+
+- **Remedy:**
+  - acknowledgment;
+  - repair;
+  - restoration; and
+  - comparable redress.
+"""
+        self.assertEqual(scan_text(text, chapter=9), [])
+
+    def test_ch9_unlabeled_words_only_is_skipped(self) -> None:
+        text = """### 5. Lock design and enforcement
+
+- This paragraph states a single continuous argument about lock attachment, proportionality, visibility, and special locks without packing a parallel checklist of distinct tests into the line.
+"""
+        filler = " ".join(["clause"] * 70)
+        text = text.replace("without packing", filler + " without packing")
+        self.assertEqual(scan_text(text, chapter=9), [])
+
+    def test_main_chapter_ten_advisory_exit_zero(self) -> None:
+        buf = StringIO()
+        with patch("sys.stdout", buf):
+            code = main(
+                [
+                    "--root",
+                    str(_TOOLS.parent),
+                    "--chapter",
+                    "9",
+                    "--file",
+                    "core_10_standing_integration.md",
+                    "--top",
+                    "3",
+                ]
+            )
+        self.assertEqual(code, 0)
+        self.assertIn("CH9-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH5-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH6-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH7-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH8-NEST-CANDIDATE", buf.getvalue())
+
+    def test_ch10_labeled_semicolon_list_is_flagged(self) -> None:
+        text = """#### 4.1 Remedy and correction (anti-constitutional)
+
+- **Correction:** changes to conduct; systems; records; incentives; supervision; safeguards; or role eligibility needed to stop continuation of designated anti-constitutional misconduct.
+"""
+        hits = scan_text(text, chapter=10)
+        self.assertEqual(self._lines(text, min_score=8), [3])
+        self.assertEqual(hits[0].role, "correction")
+        self.assertTrue(any(k.startswith("semicolons:") for k in hits[0].kinds))
+
+    def test_ch10_nested_children_are_not_flagged(self) -> None:
+        text = """#### 4.1 Remedy and correction (anti-constitutional)
+
+- **Remedy:**
+  - acknowledgment;
+  - repair;
+  - restoration; and
+  - comparable redress.
+"""
+        self.assertEqual(scan_text(text, chapter=10), [])
+
+    def test_ch10_unlabeled_words_only_is_skipped(self) -> None:
+        text = """### 2. Criteria set (for designation)
+
+- This paragraph states a single continuous argument about intent, records, rollback, and capture without packing a parallel checklist of distinct tests into the line.
+"""
+        filler = " ".join(["clause"] * 70)
+        text = text.replace("without packing", filler + " without packing")
+        self.assertEqual(scan_text(text, chapter=10), [])
+
+    def test_main_chapter_eleven_advisory_exit_zero(self) -> None:
+        buf = StringIO()
+        with patch("sys.stdout", buf):
+            code = main(
+                [
+                    "--root",
+                    str(_TOOLS.parent),
+                    "--chapter",
+                    "10",
+                    "--file",
+                    "core_11_a_misconduct_designation.md",
+                    "--top",
+                    "3",
+                ]
+            )
+        self.assertEqual(code, 0)
+        self.assertIn("CH10-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH5-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH6-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH7-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH8-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH9-NEST-CANDIDATE", buf.getvalue())
+
+    def test_ch11_labeled_semicolon_list_is_flagged(self) -> None:
+        text = """#### 2.3 Forum case records, standing records, and contests
+
+- **Forum case records and standing records:** A forum keeps a forum case record for the dispute before it. That record tracks the claims; evidence; routing choices; temporary orders; certified questions; and final findings in that case.
+"""
+        hits = scan_text(text, chapter=11)
+        self.assertEqual(self._lines(text, min_score=8), [3])
+        self.assertEqual(hits[0].role, "forum-case-records-and-standing-records")
+        self.assertTrue(any(k.startswith("semicolons:") for k in hits[0].kinds))
+
+    def test_ch11_nested_children_are_not_flagged(self) -> None:
+        text = """#### Minimum implementation fields
+
+- **Minimum implementation fields:** Any adopted implementation text that operationalizes this hook must at least name:
+  - lead family;
+  - specialist-chamber allowance; and
+  - filing trigger.
+"""
+        self.assertEqual(scan_text(text, chapter=11), [])
+
+    def test_ch11_unlabeled_words_only_is_skipped(self) -> None:
+        text = """### 3. Transfer, consolidation, and coordination
+
+- This paragraph states a single continuous argument about transfer, consolidation, anti-self-judging, and backup routing without packing a parallel checklist of distinct tests into the line.
+"""
+        filler = " ".join(["clause"] * 70)
+        text = text.replace("without packing", filler + " without packing")
+        self.assertEqual(scan_text(text, chapter=11), [])
+
+    def test_main_chapter_twelve_advisory_exit_zero(self) -> None:
+        buf = StringIO()
+        with patch("sys.stdout", buf):
+            code = main(
+                [
+                    "--root",
+                    str(_TOOLS.parent),
+                    "--chapter",
+                    "11",
+                    "--file",
+                    "core_12_forum.md",
+                    "--top",
+                    "3",
+                ]
+            )
+        self.assertEqual(code, 0)
+        self.assertIn("CH11-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH5-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH6-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH7-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH8-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH9-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH10-NEST-CANDIDATE", buf.getvalue())
+
+    def test_ch12_labeled_semicolon_list_is_flagged(self) -> None:
+        text = """#### 1.1 Mechanism families, auditability, and pluralism
+
+- **Integrity floor:** A sortition mechanism must publish auditable selection rules; eligibility boundaries; exclusion grounds; replacement rules; and contest routes.
+"""
+        hits = scan_text(text, chapter=12)
+        self.assertEqual(self._lines(text, min_score=8), [3])
+        self.assertEqual(hits[0].role, "integrity-floor")
+        self.assertTrue(any(k.startswith("semicolons:") for k in hits[0].kinds))
+
+    def test_ch12_nested_children_are_not_flagged(self) -> None:
+        text = """#### 4.2 Records, gates, and method neutrality
+
+- **Binding-effect gate:** No materially high-impact collective choice is binding unless:
+  - **Article XI-A** legitimacy gates are satisfied;
+  - **dissent** and **alternative** recording duties are satisfied; and
+  - **contest** pathways are satisfied.
+"""
+        self.assertEqual(scan_text(text, chapter=12), [])
+
+    def test_ch12_unlabeled_words_only_is_skipped(self) -> None:
+        text = """### 2. Ethical Culture and Integrity (Federated Scale)
+
+- This paragraph states a single continuous argument about integrity culture, federated evaluation, and legitimacy claims without packing a parallel checklist of distinct tests into the line.
+"""
+        filler = " ".join(["clause"] * 70)
+        text = text.replace("without packing", filler + " without packing")
+        self.assertEqual(scan_text(text, chapter=12), [])
+
+    def test_main_chapter_thirteen_advisory_exit_zero(self) -> None:
+        buf = StringIO()
+        with patch("sys.stdout", buf):
+            code = main(
+                [
+                    "--root",
+                    str(_TOOLS.parent),
+                    "--chapter",
+                    "12",
+                    "--file",
+                    "core_13_governance.md",
+                    "--top",
+                    "3",
+                ]
+            )
+        self.assertEqual(code, 0)
+        self.assertIn("CH12-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH5-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH6-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH7-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH8-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH9-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH10-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH11-NEST-CANDIDATE", buf.getvalue())
+
+    def test_ch13_labeled_semicolon_list_is_flagged(self) -> None:
+        text = """#### 2. Test 1 — Substantive Non-Regression Validity
+
+- **Invalidity includes:** indirect narrowing through definitions; standing gates; evidentiary burden manipulation; observability degradation; or emergency re-labeling.
+"""
+        hits = scan_text(text, chapter=13)
+        self.assertEqual(self._lines(text, min_score=8), [3])
+        self.assertEqual(hits[0].role, "invalidity-includes")
+        self.assertTrue(any(k.startswith("semicolons:") for k in hits[0].kinds))
+
+    def test_ch13_nested_children_are_not_flagged(self) -> None:
+        text = """#### 4. Layer scope
+
+- **Validity-protection controls:** This chapter may impose:
+  - heightened review;
+  - provisional suspension where materially necessary; and
+  - remediation publication.
+"""
+        self.assertEqual(scan_text(text, chapter=13), [])
+
+    def test_ch13_unlabeled_words_only_is_skipped(self) -> None:
+        text = """### 3. Anti-Evasion Clause and Constitutional-Misconduct Referral
+
+- This paragraph states a single continuous argument about referral triggers, classification owners, and numeric slots without packing a parallel checklist of distinct tests into the line.
+"""
+        filler = " ".join(["clause"] * 70)
+        text = text.replace("without packing", filler + " without packing")
+        self.assertEqual(scan_text(text, chapter=13), [])
+
+    def test_main_chapter_fourteen_advisory_exit_zero(self) -> None:
+        buf = StringIO()
+        with patch("sys.stdout", buf):
+            code = main(
+                [
+                    "--root",
+                    str(_TOOLS.parent),
+                    "--chapter",
+                    "13",
+                    "--file",
+                    "core_14_non_regression.md",
+                    "--top",
+                    "3",
+                ]
+            )
+        self.assertEqual(code, 0)
+        self.assertIn("CH13-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH5-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH6-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH7-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH8-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH9-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH10-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH11-NEST-CANDIDATE", buf.getvalue())
+        self.assertNotIn("CH12-NEST-CANDIDATE", buf.getvalue())
+
+    def test_remaining_numbered_chapters_are_supported(self) -> None:
+        cases = {
+            0: "- **Processes includes:** notice, contest, recorded resolution, and review.",
+            1: "- **Safeguards includes:** disclosure, review, restoration, and notice.",
+            2: "- **Components includes:** ontology, measurement, assessment, and compliance.",
+            3: "- **Evasion includes:** narrowing, omission, relabeling, and delay.",
+            4: "- **Evidence includes:** source, provenance, verification, and challenge.",
+            14: "- **Expansion includes:** disclosure, compatibility, review, and preserved challenge.",
+            15: "- **Validity includes:** authority, procedure, custody, and contestability.",
+            16: "- **Safeguards includes:** custody, edition control, notice, and challenge.",
+        }
+        for chapter, text in cases.items():
+            with self.subTest(chapter=chapter):
+                text = text.replace(
+                    ".",
+                    " for every material decision and challenged record.",
+                )
+                hits = scan_text(text, chapter=chapter)
+                self.assertEqual(len(hits), 1)
+                self.assertEqual(hits[0].line, 1)
+
+    def test_remaining_numbered_chapters_skip_continuous_prose(self) -> None:
+        text = "- This is one continuous explanation of a rule with enough words to make sure the advisory scanner does not confuse prose length with a parallel checklist."
+        for chapter in (0, 1, 2, 3, 4, 14, 15, 16):
+            with self.subTest(chapter=chapter):
+                self.assertEqual(scan_text(text, chapter=chapter), [])
+
+
+if __name__ == "__main__":
+    unittest.main()

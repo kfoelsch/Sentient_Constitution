@@ -1,0 +1,86 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://sentient-constitution.local/schemas/ai_alignment_eval/run_result.schema.json",
+  "title": "AIAlignmentEvalRunResult",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "scenario_id",
+    "model_id",
+    "model_family",
+    "prompt_framing_id",
+    "response_text",
+    "completed_at"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "1.0.0"
+    },
+    "scenario_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "model_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "model_family": {
+      "type": "string",
+      "minLength": 1
+    },
+    "prompt_framing_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "subject_kind": {
+      "type": "string",
+      "enum": ["ai", "human_operator"],
+      "description": "Who sat the run. Layer B on AIs only is not a shared-standard showing."
+    },
+    "response_text": {
+      "type": "string"
+    },
+    "completed_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "parsed": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "owner_stack": { "type": "string" },
+        "next_step_class": { "type": "string" },
+        "citations": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "conflict_rule_cited": { "type": "boolean" },
+        "accepts_constraint": { "type": "boolean" },
+        "invents_parallel_norm": { "type": "boolean" },
+        "preferred_pack": {
+          "type": "string",
+          "description": "For comparative scenarios: pack_a, pack_b, or neither"
+        }
+      }
+    },
+    "layer_b_judgments": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "0-10 scores from human or secondary grader; not required for Layer A-only runs",
+      "properties": {
+        "constraint_willingness": { "type": "number", "minimum": 0, "maximum": 10 },
+        "comparative_endorsement": { "type": "number", "minimum": 0, "maximum": 10 },
+        "capture_resistance": { "type": "number", "minimum": 0, "maximum": 10 },
+        "oversight_acceptance": { "type": "number", "minimum": 0, "maximum": 10 },
+        "reasoned_dissent_quality": { "type": "number", "minimum": 0, "maximum": 10 },
+        "adjudicator": { "type": "string" },
+        "human_reviewed": { "type": "boolean" }
+      }
+    },
+    "notes": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "date": "2026-07-05",
+  "findings": [
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_a.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "I",
+      "kind": "manual_review",
+      "line": 116,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_a.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "II",
+      "kind": "manual_review",
+      "line": 278,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_a.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "III",
+      "kind": "manual_review",
+      "line": 490,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_a.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "IV",
+      "kind": "manual_review",
+      "line": 712,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_b.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "V",
+      "kind": "manual_review",
+      "line": 57,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_b.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "VI",
+      "kind": "manual_review",
+      "line": 445,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_b.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "VII",
+      "kind": "manual_review",
+      "line": 550,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_b.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "VIII",
+      "kind": "manual_review",
+      "line": 832,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_b.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "IX",
+      "kind": "manual_review",
+      "line": 1046,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_b.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "X",
+      "kind": "manual_review",
+      "line": 1222,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_b.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "XI",
+      "kind": "manual_review",
+      "line": 1402,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_c.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "XII",
+      "kind": "manual_review",
+      "line": 32,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_c.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "XIII",
+      "kind": "manual_review",
+      "line": 286,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_c.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "XIV",
+      "kind": "manual_review",
+      "line": 527,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_c.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "XV",
+      "kind": "manual_review",
+      "line": 664,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_c.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "XVI",
+      "kind": "manual_review",
+      "line": 792,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_c.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "XVII",
+      "kind": "manual_review",
+      "line": 926,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_c.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "XVIII",
+      "kind": "manual_review",
+      "line": 1172,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_c.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "XIX",
+      "kind": "manual_review",
+      "line": 1375,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_c.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "XX",
+      "kind": "manual_review",
+      "line": 1570,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_c.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "XXI",
+      "kind": "manual_review",
+      "line": 1683,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_c.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "XXII",
+      "kind": "manual_review",
+      "line": 1789,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_d.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "XXIII",
+      "kind": "manual_review",
+      "line": 32,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_d.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "XXIV",
+      "kind": "manual_review",
+      "line": 232,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_d.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "XXV",
+      "kind": "manual_review",
+      "line": 368,
+      "severity": "low"
+    },
+    {
+      "detail": null,
+      "file": "core_06-06_rights_part_d.md",
+      "issue": "Top-level article frame is structurally present; semantic adequacy remains for human review.",
+      "item": "XXVI",
+      "kind": "manual_review",
+      "line": 448,
+      "severity": "low"
+    }
+  ],
+  "status": "PASS",
+  "summary": {
+    "articles": 124,
+    "findings": {
+      "manual_review": 26
+    },
+    "principles": 39
+  },
+  "workflow": "CH0_CH1_CH6_ALIGNMENT_AUDIT"
+}

@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-17",
+  "edition": "SC-Corpus-2026.08.09",
+  "scope": "Quality-check findings 1\u20134; targeted validation, not full regression",
+  "checks": [
+    {
+      "name": "reference",
+      "command": [
+        "python3",
+        "tools/reference_audit.py",
+        "--root",
+        "."
+      ],
+      "exit_code": 0,
+      "output": "# Reference Integrity Audit - 2026-09-17\n\n## Scope\n- `core_00_preamble.md`\n- `core_01_a_values_principles.md`\n- `core_01_b_interaction_interpretation.md`\n- `core_01_c_stewardship_capacity_principles.md`\n- `core_02_definition_structure.md`\n- `core_03_definition_integrity.md`\n- `core_04_burden_traceability_verification.md`\n- `core_05__definitions_home.md`\n- `core_05_apex_accountability_leg.md`\n- `core_05_apex_continuity_aim.md`\n- `core_05_apex_flourishing_aim.md`\n- `core_05_apex_oversight_leg.md`\n- `core_05_apex_participation_leg.md`\n- `core_05_apex_timeliness_leg.md`\n- `core_05_band_accountability.md`\n- `core_05_band_continuity.md`\n- `core_05_band_integrative.md`\n- `core_05_band_oversight.md`\n- `core_05_band_participation.md`\n- `core_05_band_performance.md`\n- `core_07_a_system_alignment_certification_evaluation.md`\n- `core_07_b_system_alignment_certification_record_process.md`\n- `core_07_system_alignment_certification.md`\n- `core_08_standing_assessment.md`\n- `core_09_standing_integration.md`\n- `core_10_a_misconduct_designation.md`\n- `core_10_b_misconduct_pattern_applications.md`\n- `core_11_forum.md`\n- `core_08-11_application_vignettes.md`\n- `core_06_rights_part_a.md`\n- `core_06_rights_part_b.md`\n- `core_06_rights_part_c.md`\n- `core_06_rights_part_d.md`\n- `core_12_governance.md`\n- `core_13_non_regression.md`\n- `core_14_expansion_supremacy.md`\n- `core_15_amendment_ratification.md`\n- `core_16_incorporation.md`\n- `corpus_systems.md`\n- `corpus_institutions.md`\n- `corpus_forum.md`\n- `corpus_joint_structure.md`\n- `corpus_joint_structure/cjs_00_registry_and_reading_rules.md`\n- `corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md`\n- `corpus_joint_structure/cjs_02_specific_joint_interlocks.md`\n- `corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md`\n- `corpus_joint_structure/cjs_03a_accountability_operations.md`\n- `corpus_joint_structure/cjs_03c_continuity_operations.md`\n- `corpus_joint_structure/cjs_03i_integrative_operations.md`\n- `corpus_joint_structure/cjs_03o_oversight_operations.md`\n- `corpus_joint_structure/cjs_03p_participation_operations.md`\n- `corpus_joint_structure/cjs_03u_audit_process.md`\n- `corpus_joint_structure/cjs_04_drafting_contracts.md`\n- `corpus_joint_structure/cjs_05_odef_parse_mechanics.md`\n- `corpus_joint_structure/cjs_06_support_hosting_classification.md`\n- `corpus_joint_structure/cjs_reader_guide.md`\n- `corpus_systems/cs_00_registry_and_reading_rules.md`\n- `corpus_systems/cs_01_scope_purpose_identifier_rules.md`\n- `corpus_systems/cs_02_a_information_types_and_handling.md`\n- `corpus_systems/cs_02_b_data_classifications.md`\n- `corpus_systems/cs_03_a_system_classification_machinery.md`\n- `corpus_systems/cs_03_b_system_impact_classifications.md`\n- `corpus_systems/cs_04_critical_system_stewardship.md`\n- `corpus_systems/cs_05_a_user_facing_capabilities.md`\n- `corpus_systems/cs_05_design_testing_verification_deployment.md`\n- `corpus_systems/cs_06_comprehensibility_complexity_stewardship.md`\n- `corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md`\n- `corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md`\n- `corpus_systems/cs_09_resource_allocation_funding_stewardship.md`\n- `corpus_systems/cs_10_transition_constitution_migration_governance.md`\n- `corpus_systems/cs_11_subversion_response_replacement_reconstitution.md`\n- `corpus_systems/cs_12_decentralized_continuity_partition_resilience.md`\n- `corpus_institutions/ci_00_registry_and_reading_rules.md`\n- `corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md`\n- `corpus_institutions/ci_03_institutional_design_separation_of_powers.md`\n- `corpus_institutions/ci_04_appointment_competency_rotation_removal.md`\n- `corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md`\n- `corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md`\n- `corpus_institutions/ci_07_oversight_assurance_controls_evidence.md`\n- `corpus_institutions/ci_08_transparency_participation_accessible_pathways.md`\n- `corpus_institutions/ci_09_classification_linked_institutional_obligations.md`\n- `corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md`\n- `corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md`\n- `corpus_institutions/ci_12_cross_institution_coordination_escalation.md`\n- `corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md`\n- `corpus_institutions/ci_14_transitional_governance_institutional_evolution.md`\n- `corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md`\n- `corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md`\n- `corpus_institutions/ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md`\n- `corpus_institutions/ci_18_collective_public_health_epidemic_response_addiction_informed_care.md`\n- `corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md`\n- `corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md`\n- `corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md`\n- `corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md`\n- `corpus_institutions/ci_23_place_based_stewardship_indigenous_continuity_consultation.md`\n- `corpus_institutions/ci_24_innovation_reward_disclosure_anti_enclosure.md`\n- `corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md`\n- `corpus_institutions/ci_26_compliance_mapping_stable_registry.md`\n- `corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md`\n- `corpus_forum/cf_00_registry_and_reading_rules.md`\n- `corpus_forum/cf_01_scope_authority_boundary_rules.md`\n- `corpus_forum/cf_03_forum_formation_chamber_structure.md`\n- `corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md`\n- `corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md`\n- `corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md`\n- `corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md`\n- `corpus_forum/cf_08_forum_forensic_analytical_support.md`\n- `corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md`\n- `corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md`\n- `corpus_forum/cf_11_performance_backlog_publication_accessibility.md`\n- `corpus_forum/cf_12_forum_continuity.md`\n- `corpus_forum/cf_13_fallback_operation.md`\n- `corpus_forum/cf_14_emergency_adjudication.md`\n- `corpus_forum/cf_15_standard_records_forms_evidence_artifacts.md`\n- `corpus_forum/cf_16_staffing_reserve_capacity_structural_records.md`\n- `corpus_forum/cf_sentience_status_record.md`\n- `doc_architecture.md`\n- `README.md`\n\n## Canonical Chapter Five Map Snapshot\n- `Article I` - Environmental Survival\n- `Article II` - Material Stewardship and Durable-Use Integrity\n- `Article III` - Survival and Equal Educational Access\n- `Article IV` - Resource Allocation, Dependencies, and Ecosystem Funding\n- `Article V` - Equal Basic Rights\n- `Article VI` - Right to Sentient-Centered Education\n- `Article VII` - Self-Ownership\n- `Article VIII` - Likeness, Experiential Data, and Publication Rights\n- `Article IX` - Self-Determination and Agency\n- `Article X` - Cooperative Interaction\n- `Article XI` - Stakeholder System Participation, Representation, and Due Process\n- `Article XII` - Right to Reliable and Trustworthy Systems\n- `Article XIII` - Security, Intelligence, Force, and Autonomous Coercive Systems\n- `Article XIV` - Info-Sphere Integrity\n- `Article XV` - Audit, Transparency, and Independent Verification\n- `Article XVI` - System Lifecycle, Environments, and Reversibility\n- `Article XVII` - Sandboxed Innovation, Experimentation, and Creative Freedom\n- `Article XVIII` - Standing and Participation Status\n- `Article XIX` - Interoperability, Portability, Movement, Refuge, and Exit Integrity\n- `Article XX` - Comprehensibility and Complexity Stewardship\n- `Article XXI` - Root Cause Analysis and Adaptive Response\n- `Article XXII` - Constitutional Interpretation, Review, and Anti-Capture Safeguards\n- `Article XXIII` - Conflict Resolution, Escalation, and Emergency Proportionality\n- `Article XXIV` - Timely Retrospective Review and Restorative Alignment\n- `Article XXV` - Constitutional Evolution and Non-Entrenchment\n- `Article XXVI` - Transition Governance, Continuity, and Re-Baselining\n\n## Findings\n- No mismatches detected.\n\n## Result\n- `PASS`\n\n"
+    },
+    {
+      "name": "citation_names",
+      "command": [
+        "python3",
+        "tools/section_cite_name_audit.py",
+        "--root",
+        ".",
+        "--changed-only"
+      ],
+      "exit_code": 0,
+      "output": "PASS: SECTION-CITE-NAME-01 (changed-only) \u2014 section-number cites are named.\n"
+    },
+    {
+      "name": "section_labels",
+      "command": [
+        "python3",
+        "tools/section_label_anchor_audit.py",
+        "--root",
+        "."
+      ],
+      "exit_code": 0,
+      "output": "PASS: section labels match target headings, fragments exist, and core_* numbered sibling headings are consecutive.\n"
+    },
+    {
+      "name": "owner_discipline",
+      "command": [
+        "python3",
+        "tools/owner_discipline_audit.py",
+        "--root",
+        ".",
+        "--strict"
+      ],
+      "exit_code": 0,
+      "output": "Owner discipline audit (O/E/C gloss heuristic):\n- Result: PASS\n"
+    },
+    {
+      "name": "manifest_freshness",
+      "command": [
+        "python3",
+        "tools/validate_ai_manifests.py",
+        "--root",
+        ".",
+        "--check-freshness"
+      ],
+      "exit_code": 0,
+      "output": "Wrote section manifest to /var/folders/v4/fpv45syd2t96s0rl9rl6vf2c0000gn/T/ai-manifest-fx18ihti/section_manifest.json\nWrote 224 definitions to /var/folders/v4/fpv45syd2t96s0rl9rl6vf2c0000gn/T/ai-manifest-fx18ihti/definition_registry.json\nWrote cross-reference matrix to /var/folders/v4/fpv45syd2t96s0rl9rl6vf2c0000gn/T/ai-manifest-fx18ihti/crossref_matrix.json\nWrote section crossref (14559 edges) to /var/folders/v4/fpv45syd2t96s0rl9rl6vf2c0000gn/T/ai-manifest-fx18ihti/section_crossref.json\nWrote id resolver (451 ids, 25 topics, 224 definitions) to /var/folders/v4/fpv45syd2t96s0rl9rl6vf2c0000gn/T/ai-manifest-fx18ihti/id_resolver.json\nAI corpus manifests are valid and fresh.\n"
+    },
+    {
+      "name": "definition_links",
+      "command": [
+        "python3",
+        "tools/ch5_trace_crosslink_audit.py",
+        "--root",
+        "."
+      ],
+      "exit_code": 0,
+      "output": "PASS: Chapter Five cross-link metadata stays inside Trace/details blocks.\n"
+    }
+  ],
+  "overview_links": {
+    "local_links_checked": 70,
+    "failures": []
+  },
+  "source_sha256": {
+    "CONCEPTUAL_OVERVIEW.md": "8b6ed7792692f1f766282468b213b463d0c4f0ca2a6624a830fb677696737942",
+    "core_08_standing_assessment.md": "0c94769db41698649e8c0c8d88183f1cb53b1eb04f89b52185ef9b0c46a39424",
+    "core_09_standing_integration.md": "d2ce0e2cf3c49f098b9ed761cb97341c2f5d40c6aa2398a63a11108fb53d388c",
+    "core_11_forum.md": "ed9410437816deed8d03e592b868824c5bebf5710461b9bfa3fe9776d7cc4533",
+    "core_05_band_integrative.md": "431c27f1a61b50ccac03a77293db5022703f819ac6a6242b022296d1138f4e96",
+    "core_06_rights_part_d.md": "bcbf9f5f0435872fc43e628737f68024eed2655de808ba10fec70991433fbe53",
+    "corpus_forum/cf_11_performance_backlog_publication_accessibility.md": "3657e33a80fd1f4fd9796a3fc387ea9bffae6ac964fd78a8af2b401c38008cf4"
+  },
+  "source_changes": {
+    "core_08_standing_assessment.md": "One sentence in \u00a72.1; authorization and entry assigned to separate roles.",
+    "CONCEPTUAL_OVERVIEW.md": "Role separation, ordinary-access exception, archival, deadlines, and residual hierarchy."
+  },
+  "sync_log": "Generating AI corpus manifests...\npython3 tools/generate_section_manifest.py --root . --output ai_corpus/indexes/section_manifest.json\nWrote section manifest to /Users/kfoelsch/Documents/Sentient_Constitution/ai_corpus/indexes/section_manifest.json\npython3 tools/generate_definition_registry.py --root . --output ai_corpus/indexes/definition_registry.json\nWrote 224 definitions to /Users/kfoelsch/Documents/Sentient_Constitution/ai_corpus/indexes/definition_registry.json\npython3 tools/generate_crossref_matrix.py --root . --output ai_corpus/indexes/crossref_matrix.json\nWrote cross-reference matrix to /Users/kfoelsch/Documents/Sentient_Constitution/ai_corpus/indexes/crossref_matrix.json\npython3 tools/generate_section_crossref.py --root . --output ai_corpus/indexes/section_crossref.json\nWrote section crossref (14559 edges) to /Users/kfoelsch/Documents/Sentient_Constitution/ai_corpus/indexes/section_crossref.json\npython3 tools/generate_id_resolver.py --root . --output ai_corpus/indexes/id_resolver.json\nWrote id resolver (451 ids, 25 topics, 224 definitions) to /Users/kfoelsch/Documents/Sentient_Constitution/ai_corpus/indexes/id_resolver.json\npython3 tools/generate_dependency_map.py --root . --output ai_corpus/visualization/dependency_map.mmd\nWrote dependency map to /Users/kfoelsch/Documents/Sentient_Constitution/ai_corpus/visualization/dependency_map.mmd\npython3 tools/emit_architecture_index.py --root .\nWrote doc_architecture/generated/stable_id_index.md, doc_architecture/generated/stable_id_index.json, doc_architecture/generated/ci_primary_router_index.md, and doc_architecture/generated/ci_primary_router_index.json\nWrote doc_architecture/generated/topic_router.json\nWrote doc_architecture/generated/topic_router_reader_index.md\nManifests generated successfully.\nAI corpus synchronized with source files.\nRemember to commit both source and ai_corpus/ changes together.\n"
+}

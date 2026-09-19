@@ -1,0 +1,55 @@
+{
+  "schema_id": "materially_binding_act_record",
+  "schema_version": "1",
+  "record_id": "",
+  "record_version": 2,
+  "recorded_at": "not-a-time",
+  "updated_at": "2026-09-18T13:00:00-05:00",
+  "act": {
+    "act_id": "release-authorization-42",
+    "description": "Authorize a release.",
+    "material_scope": "Class B deployment",
+    "status": "conditioned",
+    "governing_authority": "System Charter §6"
+  },
+  "seats": {
+    "initiating": {
+      "placement_status": "held",
+      "holder_or_route": "Release Operations",
+      "authority": "System Charter §6.1"
+    },
+    "verify_or_authorize": {
+      "placement_status": "held",
+      "holder_or_route": "Release Operations",
+      "authority": "System Charter §6.1"
+    },
+    "record": {
+      "placement_status": "held",
+      "holder_or_route": "Records Office",
+      "authority": "System Charter §6.3"
+    }
+  },
+  "determination": {
+    "status": "conditioned",
+    "standard_applied": "System Charter §6",
+    "determined_by": null,
+    "determined_at": null,
+    "reasons": [],
+    "conditions": []
+  },
+  "custody": {
+    "entered_by": "Records Office",
+    "custody_authority": "System Charter §6.3",
+    "version_entered": 1,
+    "entered_at": "2026-09-18T15:20:00-05:00"
+  },
+  "events": [],
+  "clocks": [],
+  "links": {
+    "evidence": [],
+    "source_logs": [],
+    "process_records": [],
+    "superseded_versions": [],
+    "corrections": []
+  }
+}

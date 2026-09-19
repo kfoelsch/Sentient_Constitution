@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Require an *In plain terms* line in each Chapter Ten `#### Article …` sub-article.
+"""Require an *In plain terms* line in each Chapter Six `#### Article …` sub-article.
 
-Operates on `core_10-10_rights_part_*.md`. Stops a sub-article block at the next
+Operates on `core_06_rights_part_*.md`. Stops a sub-article block at the next
 `####` sub-article, or at a `###` / `##` section boundary. Optional `--root`
 matches other corpus tools.
 """
@@ -24,7 +24,7 @@ def parse_args() -> argparse.Namespace:
 
 def subarticle_gloss_errors(root: pathlib.Path) -> list[str]:
     """Return one error string per failed sub-article (standalone API for wrappers)."""
-    parts = sorted(root.glob("core_10-10_rights_part_*.md"))
+    parts = sorted(root.glob("core_06_rights_part_*.md"))
     all_err: list[str] = []
     for path in parts:
         all_err.extend(scan_file(path))
@@ -64,14 +64,14 @@ def scan_file(path: pathlib.Path) -> list[str]:
 def main() -> int:
     args = parse_args()
     root = pathlib.Path(args.root).resolve()
-    parts = sorted(root.glob("core_10-10_rights_part_*.md"))
+    parts = sorted(root.glob("core_06_rights_part_*.md"))
     if not parts:
-        print("subarticle-gloss audit: no core_10-10_rights_part_*.md under --root")
+        print("subarticle-gloss audit: no core_06_rights_part_*.md under --root")
         return 1
 
     all_err = subarticle_gloss_errors(root)
 
-    print("Subarticle plain-terms audit (Chapter Ten):")
+    print("Subarticle plain-terms audit (Chapter Six):")
     print("- Scope: " + ", ".join(p.name for p in parts))
     if all_err:
         print("- Result: FAIL")

@@ -1,0 +1,136 @@
+{
+  "schema_id": "materially_binding_act_record",
+  "schema_version": "1",
+  "record_id": "MAR-2026-09-18-0042",
+  "record_version": 2,
+  "previous_version": "MAR-2026-09-18-0042:v1",
+  "recorded_at": "2026-09-18T14:05:00-05:00",
+  "updated_at": "2026-09-18T15:20:00-05:00",
+  "act": {
+    "act_id": "release-authorization-42",
+    "description": "Authorize a bounded Class B system release after independent verification.",
+    "material_scope": "Class B deployment to the named production region",
+    "status": "conditioned",
+    "governing_authority": "System Charter §6 and Chapter Eight certification requirements",
+    "classification": "B",
+    "material_stake": "high"
+  },
+  "seats": {
+    "initiating": {
+      "placement_status": "held",
+      "holder_or_route": "Release Operations",
+      "authority": "System Charter §6.1"
+    },
+    "verify_or_authorize": {
+      "placement_status": "held",
+      "holder_or_route": "Independent Assurance Office",
+      "authority": "System Charter §6.2"
+    },
+    "record": {
+      "placement_status": "held",
+      "holder_or_route": "Certification Records Office",
+      "authority": "System Charter §6.3"
+    },
+    "contest": {
+      "placement_status": "held",
+      "holder_or_route": "Published Review Panel",
+      "authority": "System Charter §6.4"
+    }
+  },
+  "determination": {
+    "status": "conditioned",
+    "standard_applied": "Chapter Eight certification standard and the bounded-release conditions",
+    "determined_by": "Independent Assurance Office",
+    "determined_at": "2026-09-18T15:02:00-05:00",
+    "reasons": [
+      "The submitted evidence satisfies the bounded-release standard."
+    ],
+    "conditions": [
+      "Keep rollback available throughout the release window."
+    ]
+  },
+  "custody": {
+    "entered_by": "Certification Records Office",
+    "custody_authority": "System Charter §6.3",
+    "version_entered": 2,
+    "entered_at": "2026-09-18T15:20:00-05:00",
+    "preservation_location": "official certification record store"
+  },
+  "contest": {
+    "route": "Published Review Panel intake CR-12",
+    "status": "none_received",
+    "challenge_received_at": null,
+    "current_disposition": "No challenge received."
+  },
+  "events": [
+    {
+      "event_type": "initiation",
+      "at": "2026-09-18T14:00:00-05:00",
+      "actor": "Release Operations",
+      "from_seat": "initiating",
+      "to_seat": "verify_or_authorize",
+      "description": "Submitted the bounded-release request and evidence."
+    },
+    {
+      "event_type": "determination",
+      "at": "2026-09-18T15:02:00-05:00",
+      "actor": "Independent Assurance Office",
+      "from_seat": "verify_or_authorize",
+      "to_seat": "record",
+      "description": "Authorized the release subject to a rollback condition."
+    },
+    {
+      "event_type": "record_entry",
+      "at": "2026-09-18T15:20:00-05:00",
+      "actor": "Certification Records Office",
+      "from_seat": "record",
+      "description": "Entered version 2 and preserved version 1 as superseded."
+    }
+  ],
+  "clocks": [
+    {
+      "clock_id": "release-window-42",
+      "authority": "Bounded-release condition",
+      "status": "running",
+      "started_at": "2026-09-18T15:02:00-05:00",
+      "deadline_at": "2026-09-19T15:02:00-05:00",
+      "satisfied_at": null
+    }
+  ],
+  "links": {
+    "evidence": [
+      {
+        "id": "evidence-pack-42",
+        "relation": "verification input",
+        "uri": "records:evidence-pack-42",
+        "integrity": "sha256:example"
+      }
+    ],
+    "source_logs": [
+      {
+        "id": "cs4-log-42",
+        "relation": "attributable-action input",
+        "uri": "records:cs4-log-42"
+      }
+    ],
+    "process_records": [
+      {
+        "id": "system-certification-record-42",
+        "relation": "embodies this Act Record",
+        "uri": "records:system-certification-record-42"
+      }
+    ],
+    "superseded_versions": [
+      {
+        "id": "MAR-2026-09-18-0042:v1",
+        "relation": "immediately superseded version"
+      }
+    ],
+    "corrections": []
+  },
+  "extensions": {
+    "system_certification_record": {
+      "certification_scope": "bounded regional release"
+    }
+  }
+}
