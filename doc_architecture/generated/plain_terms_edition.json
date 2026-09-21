@@ -3,14 +3,14 @@
   "effective_date": "2026-08-09",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
-  "heading_count": 878,
-  "glossed_count": 612,
+  "heading_count": 879,
+  "glossed_count": 613,
   "files": [
     {
       "file": "core_00_preamble.md",
       "title": "PREAMBLE / FOUNDATIONAL REQUIREMENTS",
-      "heading_count": 15,
-      "glossed_count": 13,
+      "heading_count": 16,
+      "glossed_count": 14,
       "sections": [
         {
           "file": "core_00_preamble.md",
@@ -125,27 +125,36 @@
           "level": 4,
           "title": "6.2 How the full chain fits together",
           "anchor": "62-how-the-full-chain-fits-together",
-          "line": 394,
+          "line": 342,
           "gloss": "first separate the seats. Then follow the path from system check to remedy, with forums supervising the dispute and standing steps throughout.",
-          "gloss_line": 396
+          "gloss_line": 344
         },
         {
           "file": "core_00_preamble.md",
           "level": 3,
-          "title": "7. Governance, Change, and Incorporation",
-          "anchor": "7-governance-change-and-incorporation",
-          "line": 410,
+          "title": "7. Process Ownership and Outputs",
+          "anchor": "7-process-ownership-and-outputs",
+          "line": 358,
+          "gloss": "the process map and [how the full chain fits together](#62-how-the-full-chain-fits-together) show the chain; this section names the owner and output of each stage, so no stage quietly takes over another's job.",
+          "gloss_line": 360
+        },
+        {
+          "file": "core_00_preamble.md",
+          "level": 3,
+          "title": "8. Governance, Change, and Incorporation",
+          "anchor": "8-governance-change-and-incorporation",
+          "line": 415,
           "gloss": "Chapters Thirteen through Seventeen close the instrument: who may govern, how the text may change without rolling back protections, how it relates to other law, and how adopted how-to files stay bound to this source.",
-          "gloss_line": 412
+          "gloss_line": 417
         },
         {
           "file": "core_00_preamble.md",
           "level": 3,
-          "title": "8. Companion Implementation Corpus",
-          "anchor": "8-companion-implementation-corpus",
-          "line": 444,
+          "title": "9. Companion Implementation Corpus",
+          "anchor": "9-companion-implementation-corpus",
+          "line": 449,
           "gloss": "four companion corpora (joint structure, systems, institutions, and forum operations) spell out how to carry out what the chapters already require; they bind when validly adopted, and they may not shrink those duties.",
-          "gloss_line": 446
+          "gloss_line": 451
         }
       ]
     },

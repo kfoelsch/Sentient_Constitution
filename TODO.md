@@ -72,6 +72,12 @@ Same nest-or-leave method as Chapter Five and Chapter Six: extend `tools/ch5_nes
 
   **Closure (2026-09-17):** Added chapter-specific advisory targets/rules for Chapters 0–4 and 14–16; nested the clear parallel checklists in the Preamble and Chapter Seventeen; re-scanned after nesting; left compact legal prose and single-clause “including” glosses unchanged.
 
+### 2026-09-21 — Translation resync after cleanup
+
+Preamble §6/§7 renumbering landed 2026-09-21 (§7.1 *How the full chain fits together* moved to §6.2, immediately after the §6.1 process map; see `core_00_preamble.md` and `implementation/PROCESS_PIPELINES_READER.md`). The `translations/` reader-language pilots (`tr`, `ur`, `vi`, `zh`, and any others carrying a `core_00_preamble.md`) are non-binding and English-source-wins per README, so they were left as-is rather than hand-patched, but they now reflect the pre-move section numbering and cross-references.
+
+- [ ] **Retranslate after cleanup.** Once the pre-release cleanup pass on the English source is finished (so translators aren't chasing a moving target), regenerate/resync all `translations/*/core_00_preamble.md` files — and any other translated chapter files touched by the same cleanup — against current English source. Re-run whatever translation/sync tooling exists (see `translations/` and `tools/`) and confirm anchors match the renumbered §6.1/§6.2/§7 structure.
+
 ### P1 — Regression And Evidence
 
 - [x] **P1 — Validate regression scenarios and evidence workflow:** reconcile the present `CONSTITUTIONAL_REGRESSION_SCENARIOS.md` file with the `evidence/<YYYY-MM-DD>/` workflow so matrix integrity, snapshot validation, and dated artifact recording resume as an active process.

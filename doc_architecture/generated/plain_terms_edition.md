@@ -6,11 +6,11 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **612** of **878** headings carry a gloss (70%).
+Coverage: **613** of **879** headings carry a gloss (70%).
 
 ## Contents
 
-- [PREAMBLE / FOUNDATIONAL REQUIREMENTS](#preamble--foundational-requirements) — `core_00_preamble.md` (13/15 glossed)
+- [PREAMBLE / FOUNDATIONAL REQUIREMENTS](#preamble--foundational-requirements) — `core_00_preamble.md` (14/16 glossed)
 - [CHAPTER 01, PART A: VALUES PRINCIPLES](#chapter-01-part-a-values-principles) — `core_01_a_values_principles.md` (16/33 glossed)
 - [CHAPTER 01, PART B: INTERACTION AND INTERPRETATION](#chapter-01-part-b-interaction-and-interpretation) — `core_01_b_interaction_interpretation.md` (17/24 glossed)
 - [CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE](#chapter-01-part-c-stewardship-and-governance) — `core_01_c_stewardship_capacity_principles.md` (41/48 glossed)
@@ -52,7 +52,7 @@ Coverage: **612** of **878** headings carry a gloss (70%).
 
 ## PREAMBLE / FOUNDATIONAL REQUIREMENTS
 
-Source file: [`core_00_preamble.md`](../../core_00_preamble.md) · 13/15 headings glossed
+Source file: [`core_00_preamble.md`](../../core_00_preamble.md) · 14/16 headings glossed
 
 #### 1. The Model
 
@@ -126,17 +126,23 @@ first separate the seats. Then follow the path from system check to remedy, with
 
 [Source](../../core_00_preamble.md#62-how-the-full-chain-fits-together)
 
-#### 7. Governance, Change, and Incorporation
+#### 7. Process Ownership and Outputs
+
+the process map and [how the full chain fits together](../../core_00_preamble.md#62-how-the-full-chain-fits-together) show the chain; this section names the owner and output of each stage, so no stage quietly takes over another's job.
+
+[Source](../../core_00_preamble.md#7-process-ownership-and-outputs)
+
+#### 8. Governance, Change, and Incorporation
 
 Chapters Thirteen through Seventeen close the instrument: who may govern, how the text may change without rolling back protections, how it relates to other law, and how adopted how-to files stay bound to this source.
 
-[Source](../../core_00_preamble.md#7-governance-change-and-incorporation)
+[Source](../../core_00_preamble.md#8-governance-change-and-incorporation)
 
-#### 8. Companion Implementation Corpus
+#### 9. Companion Implementation Corpus
 
 four companion corpora (joint structure, systems, institutions, and forum operations) spell out how to carry out what the chapters already require; they bind when validly adopted, and they may not shrink those duties.
 
-[Source](../../core_00_preamble.md#8-companion-implementation-corpus)
+[Source](../../core_00_preamble.md#9-companion-implementation-corpus)
 
 ## CHAPTER 01, PART A: VALUES PRINCIPLES
 
