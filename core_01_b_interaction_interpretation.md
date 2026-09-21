@@ -19,7 +19,7 @@
 
 <a id="chapter-one-part-a-chapter-five-vocabulary-anchor"></a>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters. Per-section **Trace** and **Definitions · Assessment · Compliance** widgets carry routing and O/M/A/C links at the point each § materially invokes a term; this block is a chapter-level crosswalk for readers finishing Part A.
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters. Per-section **Trace** and **Definitions · Assessment · Compliance** widgets carry routing and O/M/A/C links at the point each § materially invokes a term. This block, by contrast, is a chapter-level crosswalk for readers finishing Part A.
 
 **Principle-layer vocabulary** (canonical homes in Chapter One (Parts A and B)):
 
@@ -40,7 +40,7 @@
 - [Corpus and Authority Stack](core_05_band_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster)
 - [Accountability, Contestability, and Collective Accountability Failure](core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster)
 
-**CJS-3** (*Implementation and cross-implementation operational cluster library*) operational cluster compass (cross-implementation joint operational terms — read with this chapter's Tetrad, Aims, and material-stake scaling):
+**CJS-3** (*Implementation and cross-implementation operational cluster library*) — the operational cluster compass for cross-implementation joint operational terms; read together with this chapter's Tetrad, Aims, and material-stake scaling:
 
 - [CJS-3.1 Constitutional compass and cluster map](corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — primary entry for **CJS-3.2–CJS-3.23** clusters organized by Tetrad leg, Continuity aim, and integrative cross-leg bands
 
@@ -481,7 +481,7 @@ Availability, observability, prior publication, platform possession, or technica
 
 **Data-classification integration.** The operational layer for these disciplines is the data type system in **[CS-2 — Information types and handling](corpus_systems/cs_02_a_information_types_and_handling.md)**. That system assigns each category of information (coordination, governance, identity, interaction, internal-cognitive, and system-operational data) its own protection level, access default, and handling constraints. The collection, retention, and use disciplines above apply *at the level required by the most restrictive applicable data classification* — not at a generic baseline. Where data may be reconstructed, transformed, or aggregated into a more sensitive classification, the more sensitive classification's protections apply. Misclassification, evasive structuring, or functional circumvention of data-type protections violates this principle.
 
-**Surveillance and monitoring.** Monitoring, observation, logging, and inference systems that materially affect sentient agency, association, or expression must satisfy the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle). Do not watch everyone, watch in secret, watch with no end date, or make watching a condition of using a system sentients depend on, when a milder method would work. That watching is not allowed if it makes sentients afraid to speak, gather, or otherwise use freedoms this Constitution protects.
+**Surveillance and monitoring.** Monitoring, observation, logging, and inference systems that materially affect sentient agency, association, or expression must satisfy the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle). Monitoring must not be indiscriminate, covert, open-ended, or made a condition of using a system sentients depend on, where a milder method would work. It is not permitted if it discourages sentients from speaking, gathering, or otherwise exercising freedoms this Constitution protects.
 
 **Privacy in collision with other interests.** Privacy may be limited where it materially collides with **Safety**, **Truth**, transparency and audit duties, accountability obligations, or another constitutional interest of equal or greater weight.
 - Such limitations must follow the [§6.1 decision-record discipline](#615-rights-collision-decision-test), including:
@@ -608,6 +608,7 @@ No value defined in this chapter may be used as a universal or unbounded justifi
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — interpretive backdrop for the integrated-value framework; [material stake](core_00_preamble.md#material-stake) scaling where materially relevant.
 - Read with: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) (*source-layer status*); [Chapter Seventeen](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*custody, editions, adoption framing* — not a second conflict-order home); [Chapter Fourteen](core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) and [Chapter Fifteen](core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) (*non-regression and adopter hierarchy gates under §8.4*).
 - Read with: [Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) for institutional interpretation safeguards (not a substitute for this section).
+- Read with: [Chapter Seven: Functional Independence and Segregation of Duties](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties) — the seat-architecture floor that §8.1's anti-bypass list protects (not restated here).
 
 </details>
 
@@ -664,7 +665,8 @@ It must not be used to bypass:
 - ordinary scrutiny;
 - contestability;
 - auditability;
-- public-reason duties; or
+- public-reason duties;
+- functional independence and segregation of duties ([Chapter Seven](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)); or
 - accountability.
 
 <a id="82-definitional-layer-and-required-disciplines"></a>
@@ -682,6 +684,39 @@ It must not be used to bypass:
 <br>
 
 **Chapters Two through Five** govern the meaning, evaluation, and satisfaction conditions of all terms and constraints used in Chapter One. They state how to read those terms and what counts as evidence. They are not a second rulebook that can compete with Chapter One.
+
+**Diagram: Principles, articles, and definitions**
+
+<hr style="border: 0; border-top: 1px solid currentColor;">
+
+```mermaid
+flowchart TB
+    A["Two aims<br/><br/>Flourishing and Continuity"]
+    T["Constitutional Tetrad<br/><br/>Participation · Oversight<br/>Accountability · Timeliness<br/>Scaled to material stake"]
+    P["Chapter One: principles<br/><br/>Values, constraints and interpretation"]
+    R["Chapter Six: rights articles<br/><br/>Protections that must remain usable"]
+    D["Chapter Five: definitions<br/><br/>Shared constitutional meanings"]
+    V["Chapters Two–Four<br/><br/>Definition structure, integrity and verification"]
+    X["Application to a real system or decision"]
+    A -->|pursued through| T
+    P -->|develops and constrains pursuit of| A
+    P -->|read together with| R
+    D -->|gives precision to terms in| P
+    D -->|gives precision to terms in| R
+    V -->|govern structure and testing of| D
+    T -->|duties apply to| X
+    R -->|protect affected sentients in| X
+    D -->|makes claims testable in| X
+    style A fill:none,stroke:#16a34a,color:#ffffff
+    style T fill:none,stroke:#2563eb,color:#ffffff
+    style P fill:none,stroke:#2563eb,color:#ffffff
+    style R fill:none,stroke:#2563eb,color:#ffffff
+    style D fill:none,stroke:#2563eb,color:#ffffff
+    style V fill:none,stroke:#ea580c,color:#ffffff
+    style X fill:none,stroke:#64748b,color:#ffffff
+```
+
+*Definitions give precision to Chapter One's principles and Chapter Six's rights; Chapters Two through Four govern the structure, integrity, and verification of those definitions. Neither layer competes with Chapter One — precision and testability serve the principles, they do not substitute for them. Reproduced from the [Conceptual Overview](CONCEPTUAL_OVERVIEW.md#principles-articles-and-definitions).*
 
 No interpretation of Chapter One is valid outside the definitions and evaluation constraints established in **Chapters Two through Five**. Every application must also preserve and apply:
 - **proportionality**, **necessity**, and **systemic evaluation**
