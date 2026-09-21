@@ -6,11 +6,11 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **611** of **875** headings carry a gloss (70%).
+Coverage: **612** of **878** headings carry a gloss (70%).
 
 ## Contents
 
-- [PREAMBLE / FOUNDATIONAL REQUIREMENTS](#preamble--foundational-requirements) — `core_00_preamble.md` (12/12 glossed)
+- [PREAMBLE / FOUNDATIONAL REQUIREMENTS](#preamble--foundational-requirements) — `core_00_preamble.md` (13/15 glossed)
 - [CHAPTER 01, PART A: VALUES PRINCIPLES](#chapter-01-part-a-values-principles) — `core_01_a_values_principles.md` (16/33 glossed)
 - [CHAPTER 01, PART B: INTERACTION AND INTERPRETATION](#chapter-01-part-b-interaction-and-interpretation) — `core_01_b_interaction_interpretation.md` (17/24 glossed)
 - [CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE](#chapter-01-part-c-stewardship-and-governance) — `core_01_c_stewardship_capacity_principles.md` (41/48 glossed)
@@ -52,7 +52,7 @@ Coverage: **611** of **875** headings carry a gloss (70%).
 
 ## PREAMBLE / FOUNDATIONAL REQUIREMENTS
 
-Source file: [`core_00_preamble.md`](../../core_00_preamble.md) · 12/12 headings glossed
+Source file: [`core_00_preamble.md`](../../core_00_preamble.md) · 13/15 headings glossed
 
 #### 1. The Model
 
@@ -96,29 +96,47 @@ Chapters One through Six own values, how words are built and checked, the dictio
 
 [Source](../../core_00_preamble.md#4-principles-definitions-and-rights)
 
-#### 5. Key Practical Process Pipelines
+#### 5. Functional Independence and Segregation of Duties
 
-Chapter Seven supplies the separation-of-duties floor; Chapters Eight through Twelve then form one chain — certify the system, measure help and harm on two separate tracks, apply real effects and remedy, and keep forums from being the sole final home for a claim against themselves — so duties stay real in daily life.
+before a materially binding act moves, separate who starts it, who checks or authorizes it, who holds the official record, and who reviews a challenge. The roles may scale to the setting, but the same actor and its control line cannot quietly occupy the checks on its own act.
 
-[Source](../../core_00_preamble.md#5-key-practical-process-pipelines)
+[Source](../../core_00_preamble.md#5-functional-independence-and-segregation-of-duties)
 
-##### 5.1 How the full chain fits together
+##### 5.1 Four-seat separation map
 
-first separate the seats; then follow the path from system check to remedy — with forums supervising the dispute and standing steps throughout.
+*(no plain-terms gloss in source)*
 
-[Source](../../core_00_preamble.md#51-how-the-full-chain-fits-together)
+[Source](../../core_00_preamble.md#51-four-seat-separation-map)
 
-#### 6. Governance, Change, and Incorporation
+#### 6. Key Practical Process Pipelines
+
+Chapters Eight through Twelve apply Chapter Seven's separation-of-duties floor in one chain: certify the system, measure help and harm on two separate tracks, apply real effects and remedy, and prevent a forum from being the sole final home for a claim against itself. The chain keeps constitutional duties real in daily life.
+
+[Source](../../core_00_preamble.md#6-key-practical-process-pipelines)
+
+##### 6.1 Process map
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_00_preamble.md#61-process-map)
+
+##### 6.2 How the full chain fits together
+
+first separate the seats. Then follow the path from system check to remedy, with forums supervising the dispute and standing steps throughout.
+
+[Source](../../core_00_preamble.md#62-how-the-full-chain-fits-together)
+
+#### 7. Governance, Change, and Incorporation
 
 Chapters Thirteen through Seventeen close the instrument: who may govern, how the text may change without rolling back protections, how it relates to other law, and how adopted how-to files stay bound to this source.
 
-[Source](../../core_00_preamble.md#6-governance-change-and-incorporation)
+[Source](../../core_00_preamble.md#7-governance-change-and-incorporation)
 
-#### 7. Companion Implementation Corpus
+#### 8. Companion Implementation Corpus
 
 four companion corpora (joint structure, systems, institutions, and forum operations) spell out how to carry out what the chapters already require; they bind when validly adopted, and they may not shrink those duties.
 
-[Source](../../core_00_preamble.md#7-companion-implementation-corpus)
+[Source](../../core_00_preamble.md#8-companion-implementation-corpus)
 
 ## CHAPTER 01, PART A: VALUES PRINCIPLES
 

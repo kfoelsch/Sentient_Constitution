@@ -94,7 +94,7 @@ You do not have to read the whole instrument. These paths are process support. T
 
 - **15 minutes** — this page §§1–2 and §7; [Preamble §1 The Model](core_00_preamble.md#the-model) (four duties and two aims); one [easy-entry brief](implementation/adoption/easy_entry/README.md#roster) that sounds like your situation.
 - **45 minutes** — the 15-minute path, then the [Rights Floor wall sheet](doc_architecture/generated/rights_floor_sheet.md), [Chapter Seven’s functional-independence floor](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor), [PROCESS_PIPELINES_READER.md](implementation/PROCESS_PIPELINES_READER.md), one [process guide](implementation/adoption/easy_entry/README.md#process-guides), and one [pipeline vignette](core_09-12_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a).
-- **2 hours** — the 45-minute path, then the [Preamble](core_00_preamble.md) through [§5](core_00_preamble.md#5-key-practical-process-pipelines), [Chapter One, Part A](core_01_a_values_principles.md), and the Chapter Six articles named in the brief or guide you opened.
+- **2 hours** — the 45-minute path, then the [Preamble](core_00_preamble.md) through [§6](core_00_preamble.md#6-key-practical-process-pipelines), [Chapter One, Part A](core_01_a_values_principles.md), and the Chapter Six articles named in the brief or guide you opened.
 
 Sequential chapter reading (editor map): [README.md](README.md).
 

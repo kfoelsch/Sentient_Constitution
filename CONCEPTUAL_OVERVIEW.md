@@ -550,9 +550,9 @@ The [System Data Types Record](core_05_band_continuity.md#system-data-types-reco
 flowchart TB
     D["Chapter Seven<br/><br/>Functional independence<br/>and segregation of duties"]
     S["Chapter Eight<br/><br/>System alignment certification"]
-    E["Evidence about conduct or outcomes<br/><br/>Verified under Chapters Two–Four"]
     subgraph Q["Chapter Nine · standing records"]
         direction LR
+        E["Evidence about conduct or outcomes<br/><br/>Verified under Chapters Two–Four"]
         C["Contribution record<br/><br/>and measurement"]
         V["Violation record<br/><br/>and measurement"]
     end
@@ -702,7 +702,7 @@ Chapter Nine’s model is deliberately not a single reputation score. It asks wh
 
 The two standing tracks remain separate. The Chapter Eleven branch applies only when its conditions are met; ordinary Chapter Ten effects continue in parallel. The dotted supervision link represents forum review across the processes, rather than an additional final step.
 
-Chapter Seven supplies the functional-independence floor for Chapters Eight through Twelve, which make constitutional requirements consequential. Each has a distinct job within the [practical process chain](core_00_preamble.md#5-key-practical-process-pipelines):
+Chapter Seven supplies the functional-independence floor for Chapters Eight through Twelve, which make constitutional requirements consequential. Each has a distinct job within the [practical process chain](core_00_preamble.md#6-key-practical-process-pipelines):
 
 - **Seven: separate constitutional authority.** Initiation, verification or authorization, record custody, and challenge review remain functionally independent under a published seat map.
 - **Eight: examine the system.** Certification produces a bounded, contestable record about whether a system can be relied on within a stated scope and time window.
@@ -1042,7 +1042,7 @@ The four companions divide implementation work:
 - [Forums](corpus_forum.md) covers review operations.
 - [Joint structure](corpus_joint_structure.md) connects their shared procedures and interfaces.
 
-Designated companion obligations bind within valid incorporation and adoption scope. They apply the core’s meanings and protections. Navigation pages, indexes, lookup tools, and this overview help readers reach that text. The [Preamble’s companion map](core_00_preamble.md#7-companion-implementation-corpus) and [README’s source-layer distinction](README.md#binding-vs-support) explain these relationships. Companion and process-support material is still less mature than the numbered core.
+Designated companion obligations bind within valid incorporation and adoption scope. They apply the core’s meanings and protections. Navigation pages, indexes, lookup tools, and this overview help readers reach that text. The [Preamble’s companion map](core_00_preamble.md#9-companion-implementation-corpus) and [README’s source-layer distinction](README.md#binding-vs-support) explain these relationships. Companion and process-support material is still less mature than the numbered core.
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 

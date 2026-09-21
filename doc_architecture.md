@@ -34,7 +34,7 @@ Filename renames require: reference audit, same-change link updates, dated evide
 
 **Numbering note:** When a passage says only “Chapter Thirteen,” disambiguate by filename — see [README.md](README.md).
 
-**Constitutional owner layers:** canonical positive register — [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights) (sections 4–7). The table below is the editorial mirror; substantive owner non-relocation discipline lives under [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack). **Binding owner claims** at chapter openings follow **OWNER-OPENING-01** in **section 4**.
+**Constitutional owner layers:** canonical positive register — [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights) (sections 4–9). The table below is the editorial mirror; substantive owner non-relocation discipline lives under [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack). **Binding owner claims** at chapter openings follow **OWNER-OPENING-01** in **section 4**.
 
 | Layer | Primary home | Routing |
 |--------|--------------|---------|
@@ -179,7 +179,7 @@ Before publishing a diagram to a different rendering surface, visually confirm t
 
 Each numbered owner-layer chapter states **who owns what** in one binding operative sentence at the chapter opening — not inside collapsed widgets and not buried in **§1 Purpose and Role**.
 
-**Canonical register:** substantive owner homes live in the [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights) (sections 4–7); non-relocation discipline lives under [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack). The opening sentence is the chapter's positive owner claim; the Preamble register is the cross-chapter index.
+**Canonical register:** substantive owner homes live in the [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights) (sections 4–9); non-relocation discipline lives under [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack). The opening sentence is the chapter's positive owner claim; the Preamble register is the cross-chapter index.
 
 **Placement rule (stack order):**
 

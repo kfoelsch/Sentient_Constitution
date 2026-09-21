@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-19T21:48:43+00:00",
+  "generated_at": "2026-09-20T12:11:10+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -551,7 +551,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 9,
+            "count": 10,
             "anchors": [
               "#capture-of-resolution-pathways",
               "#contestability",
@@ -5792,7 +5792,7 @@
             "file": "core_00_preamble.md",
             "count": 7,
             "anchors": [
-              "#5-key-practical-process-pipelines",
+              "#6-key-practical-process-pipelines",
               "#constitutional-tetrad",
               "#material-stake",
               "#two-constitutional-aims"
@@ -10266,7 +10266,7 @@
             "count": 3,
             "anchors": [
               "#4-principles-definitions-and-rights",
-              "#7-companion-implementation-corpus"
+              "#8-companion-implementation-corpus"
             ]
           },
           {

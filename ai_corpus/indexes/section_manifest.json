@@ -1,15 +1,15 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-09-19T21:48:42+00:00",
+  "generated_at": "2026-09-20T12:11:08+00:00",
   "files": {
     "core_00_preamble.md": {
-      "total_lines": 361,
+      "total_lines": 463,
       "sections": [
         {
           "header": "PREAMBLE / FOUNDATIONAL REQUIREMENTS",
           "level": 1,
           "line_start": 2,
-          "line_end": 361,
+          "line_end": 463,
           "anchor": "#chapter-00-preamble--foundational-requirements"
         },
         {
@@ -58,36 +58,57 @@
           "header": "4. Principles, Definitions, and Rights",
           "level": 3,
           "line_start": 153,
-          "line_end": 232,
+          "line_end": 217,
           "anchor": "#4-principles-definitions-and-rights"
         },
         {
-          "header": "5. Key Practical Process Pipelines",
+          "header": "5. Functional Independence and Segregation of Duties",
           "level": 3,
-          "line_start": 233,
-          "line_end": 307,
-          "anchor": "#5-key-practical-process-pipelines"
+          "line_start": 218,
+          "line_end": 269,
+          "anchor": "#5-functional-independence-and-segregation-of-duties"
         },
         {
-          "header": "5.1 How the full chain fits together",
+          "header": "5.1 Four-seat separation map",
           "level": 4,
-          "line_start": 292,
-          "line_end": 307,
-          "anchor": "#51-how-the-full-chain-fits-together"
+          "line_start": 237,
+          "line_end": 269,
+          "anchor": null
         },
         {
-          "header": "6. Governance, Change, and Incorporation",
+          "header": "6. Key Practical Process Pipelines",
           "level": 3,
-          "line_start": 308,
-          "line_end": 341,
-          "anchor": "#6-governance-change-and-incorporation"
+          "line_start": 270,
+          "line_end": 409,
+          "anchor": "#6-key-practical-process-pipelines"
         },
         {
-          "header": "7. Companion Implementation Corpus",
+          "header": "6.1 Process map",
+          "level": 4,
+          "line_start": 290,
+          "line_end": 393,
+          "anchor": null
+        },
+        {
+          "header": "6.2 How the full chain fits together",
+          "level": 4,
+          "line_start": 394,
+          "line_end": 409,
+          "anchor": "#62-how-the-full-chain-fits-together"
+        },
+        {
+          "header": "7. Governance, Change, and Incorporation",
           "level": 3,
-          "line_start": 342,
-          "line_end": 361,
-          "anchor": "#7-companion-implementation-corpus"
+          "line_start": 410,
+          "line_end": 443,
+          "anchor": "#7-governance-change-and-incorporation"
+        },
+        {
+          "header": "8. Companion Implementation Corpus",
+          "level": 3,
+          "line_start": 444,
+          "line_end": 463,
+          "anchor": "#8-companion-implementation-corpus"
         }
       ]
     },
