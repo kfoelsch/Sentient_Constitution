@@ -105,28 +105,28 @@
   },
   "expected_cluster_ids": [
     "CJS-5.0",
-    "CJS-5A.1",
-    "CJS-5A.2",
-    "CJS-5A.3",
-    "CJS-5A.4",
-    "CJS-5A.5",
-    "CJS-5A.6",
-    "CJS-5B.1",
-    "CJS-5B.2",
-    "CJS-5B.3",
-    "CJS-5B.4",
-    "CJS-5C.1",
-    "CJS-5C.2",
-    "CJS-5C.3",
-    "CJS-5C.4",
-    "CJS-5D.1",
-    "CJS-5D.2",
-    "CJS-5D.3",
-    "CJS-5E.1",
-    "CJS-5E.2",
-    "CJS-5E.3",
-    "CJS-5E.4",
-    "CJS-5E.5"
+    "CJS-5.5",
+    "CJS-5.9",
+    "CJS-5.11",
+    "CJS-5.7",
+    "CJS-5.21",
+    "CJS-5.8",
+    "CJS-5.22",
+    "CJS-5.14",
+    "CJS-5.2",
+    "CJS-5.12",
+    "CJS-5.13",
+    "CJS-5.6",
+    "CJS-5.3",
+    "CJS-5.4",
+    "CJS-5.16",
+    "CJS-5.17",
+    "CJS-5.18",
+    "CJS-5.19",
+    "CJS-5.50",
+    "CJS-5.51",
+    "CJS-5.52",
+    "CJS-5.53"
   ],
   "clusters": [
     {
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "cluster_id": "CJS-5A.1",
+      "cluster_id": "CJS-5.5",
       "title": "Implementation and cross-implementation distributed and proportional authority terms",
       "file": "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md",
       "start_line": 16,
@@ -254,7 +254,7 @@
         "**PRIM9 \u2014 Auditability**",
         "**PRIM15 \u2014 Evolution, Revalidation, and Non-Entrenchment**",
         "**PROT6 \u2014 Procedural Integrity and Adjudication**",
-        "`corpus_systems.md` **Chapter S3**"
+        "`corpus_systems.md` **CS-5**"
       ],
       "direct_ch1_refs": [],
       "inferred_principles": [
@@ -352,7 +352,7 @@
       ]
     },
     {
-      "cluster_id": "CJS-5A.2",
+      "cluster_id": "CJS-5.9",
       "title": "Implementation and cross-implementation intervention governance and override-authorization terms",
       "file": "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md",
       "start_line": 74,
@@ -447,7 +447,7 @@
       ]
     },
     {
-      "cluster_id": "CJS-5A.3",
+      "cluster_id": "CJS-5.11",
       "title": "Implementation and cross-implementation reflexive transparency and accountability terms",
       "file": "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md",
       "start_line": 123,
@@ -563,7 +563,7 @@
       ]
     },
     {
-      "cluster_id": "CJS-5A.4",
+      "cluster_id": "CJS-5.7",
       "title": "Implementation and cross-implementation burden-of-justification and constraint terms",
       "file": "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md",
       "start_line": 185,
@@ -576,7 +576,7 @@
         "**PRIM9 \u2014 Auditability**",
         "**PRIM15 \u2014 Evolution, Revalidation, and Non-Entrenchment**",
         "**Chapter One \u00a76.4.1 \u2014 Rights-Collision Decision Test**",
-        "**`corpus_forum.md` CF-11 \u2014 Forum continuity, fallback operation, and emergency adjudication**",
+        "**`corpus_forum.md` CF-12 \u2014 Forum continuity, fallback operation, and emergency adjudication**",
         "Core definitions for necessity, proportionality, materiality, burden, and anti-enclosure."
       ],
       "direct_ch1_refs": [
@@ -664,7 +664,7 @@
       ]
     },
     {
-      "cluster_id": "CJS-5A.5",
+      "cluster_id": "CJS-5.21",
       "title": "Implementation and cross-implementation constrained-secrecy and protected-investigation terms",
       "file": "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md",
       "start_line": 236,
@@ -753,7 +753,7 @@
       ]
     },
     {
-      "cluster_id": "CJS-5A.6",
+      "cluster_id": "CJS-5.8",
       "title": "Implementation and cross-implementation procedural integrity and adjudication terms",
       "file": "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md",
       "start_line": 281,
@@ -763,7 +763,7 @@
         "**PROT4 \u2014 Burden of Justification and Constraint**",
         "**PROT3 \u2014 Reflexive Transparency and Accountability**",
         "**PROT2 \u2014 Intervention and Override Rights**",
-        "`corpus_systems.md` **Chapter S1** and **Chapter S2**",
+        "`corpus_systems.md` **CS-3** and **CS-4**",
         "`corpus_institutions.md`",
         "`corpus_forum.md`"
       ],
@@ -888,7 +888,7 @@
       ]
     },
     {
-      "cluster_id": "CJS-5B.1",
+      "cluster_id": "CJS-5.22",
       "title": "Implementation and cross-implementation integrity assurance and resilience operations",
       "file": "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md",
       "start_line": 14,
@@ -954,7 +954,7 @@
       ]
     },
     {
-      "cluster_id": "CJS-5B.2",
+      "cluster_id": "CJS-5.14",
       "title": "Implementation and cross-implementation auditability and reconstructability terms",
       "file": "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md",
       "start_line": 47,
@@ -1027,7 +1027,7 @@
       ]
     },
     {
-      "cluster_id": "CJS-5B.3",
+      "cluster_id": "CJS-5.2",
       "title": "Implementation and cross-implementation tiered transparency and audit-access terms",
       "file": "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md",
       "start_line": 84,
@@ -1037,7 +1037,7 @@
         "**PRIM9 \u2014 Auditability**",
         "**PRIM12 \u2014 Reversibility and Containment**",
         "**Chapter One \u00a76.4.1 \u2014 Rights-Collision Decision Test**",
-        "**`corpus_forum.md` CF-11 \u2014 Forum continuity, fallback operation, and emergency adjudication**",
+        "**`corpus_forum.md` CF-12 \u2014 Forum continuity, fallback operation, and emergency adjudication**",
         "**Article XV-A**",
         "**Article VII-B**"
       ],
@@ -1124,7 +1124,7 @@
       ]
     },
     {
-      "cluster_id": "CJS-5B.4",
+      "cluster_id": "CJS-5.12",
       "title": "Implementation and cross-implementation independent verification and claim-integrity terms",
       "file": "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md",
       "start_line": 133,
@@ -1195,7 +1195,7 @@
       ]
     },
     {
-      "cluster_id": "CJS-5C.1",
+      "cluster_id": "CJS-5.13",
       "title": "Implementation and cross-implementation quorum and participatory legitimacy terms",
       "file": "corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md",
       "start_line": 14,
@@ -1311,7 +1311,7 @@
       ]
     },
     {
-      "cluster_id": "CJS-5C.2",
+      "cluster_id": "CJS-5.6",
       "title": "Implementation and cross-implementation comprehensibility and cognitive accessibility terms",
       "file": "corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md",
       "start_line": 75,
@@ -1410,7 +1410,7 @@
       ]
     },
     {
-      "cluster_id": "CJS-5C.3",
+      "cluster_id": "CJS-5.3",
       "title": "Implementation and cross-implementation salience integrity and attention-allocation terms",
       "file": "corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md",
       "start_line": 129,
@@ -1524,7 +1524,7 @@
       ]
     },
     {
-      "cluster_id": "CJS-5C.4",
+      "cluster_id": "CJS-5.4",
       "title": "Implementation and cross-implementation disclosure sufficiency and observability terms",
       "file": "corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md",
       "start_line": 191,
@@ -1595,7 +1595,7 @@
       ]
     },
     {
-      "cluster_id": "CJS-5D.1",
+      "cluster_id": "CJS-5.16",
       "title": "Implementation and cross-implementation dependency integrity and disclosure terms",
       "file": "corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md",
       "start_line": 13,
@@ -1689,7 +1689,7 @@
       ]
     },
     {
-      "cluster_id": "CJS-5D.2",
+      "cluster_id": "CJS-5.17",
       "title": "Implementation and cross-implementation interoperability, portability, and exit-integrity terms",
       "file": "corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md",
       "start_line": 62,
@@ -1698,9 +1698,9 @@
         "**PRIM7 \u2014 Interoperability, Portability, and Exit Integrity**",
         "**PRIM5 \u2014 Dependency Awareness, Disclosure, and Risk Integrity**",
         "**PRIM4 \u2014 Transparency and Disclosure**",
-        "`corpus_systems.md` **Chapter S1 \u2014 Information Types and Handling**",
-        "`corpus_systems.md` **Chapter S2 \u2014 System Classification and Handling**",
-        "`corpus_systems.md` **Chapter S3 \u2014 Critical System Stewardship**",
+        "`corpus_systems.md` **CS-3 \u2014 Information Types and Handling**",
+        "`corpus_systems.md` **CS-4 \u2014 System Classification and Handling**",
+        "`corpus_systems.md` **CS-5 \u2014 Critical System Stewardship**",
         "**Article XIX**",
         "**Article XV-A**"
       ],
@@ -1808,7 +1808,7 @@
       ]
     },
     {
-      "cluster_id": "CJS-5D.3",
+      "cluster_id": "CJS-5.18",
       "title": "Implementation and cross-implementation data-retention and lifecycle-integrity terms",
       "file": "corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md",
       "start_line": 127,
@@ -1819,7 +1819,7 @@
         "**PRIM11 \u2014 Independent Verification and Integrity of Claims**",
         "**PRIM12 \u2014 Reversibility and Containment**",
         "**PRIM15 \u2014 Evolution, Revalidation, and Non-Entrenchment**",
-        "`corpus_systems.md` **Chapter S1 \u2014 Information Types and Handling**, including Types **C**, **G**, **H**, **I**, **N**, and **S**",
+        "`corpus_systems.md` **CS-3 \u2014 Information Types and Handling**, including Types **C**, **G**, **H**, **I**, **N**, and **S**",
         "**CJS-3.5 \u2014 Classification alignment for supervised scope**"
       ],
       "direct_ch1_refs": [],
@@ -1925,7 +1925,7 @@
       ]
     },
     {
-      "cluster_id": "CJS-5E.1",
+      "cluster_id": "CJS-5.19",
       "title": "Implementation and cross-implementation graceful degradation and failure-mode integrity terms",
       "file": "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md",
       "start_line": 15,
@@ -2034,7 +2034,7 @@
       ]
     },
     {
-      "cluster_id": "CJS-5E.2",
+      "cluster_id": "CJS-5.50",
       "title": "Implementation and cross-implementation intervention and override integrity terms",
       "file": "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md",
       "start_line": 73,
@@ -2047,7 +2047,7 @@
         "**PRIM15 \u2014 Evolution, Revalidation, and Non-Entrenchment**",
         "**PROT2 \u2014 Intervention and Override Rights**",
         "**Chapter One \u00a76.4.1 \u2014 Rights-Collision Decision Test**",
-        "**`corpus_forum.md` CF-11 \u2014 Forum continuity, fallback operation, and emergency adjudication**",
+        "**`corpus_forum.md` CF-12 \u2014 Forum continuity, fallback operation, and emergency adjudication**",
         "Constitutional hooks in **Articles IX, XII, and XIII**"
       ],
       "direct_ch1_refs": [
@@ -2157,7 +2157,7 @@
       ]
     },
     {
-      "cluster_id": "CJS-5E.3",
+      "cluster_id": "CJS-5.51",
       "title": "Implementation and cross-implementation reversibility and containment terms",
       "file": "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md",
       "start_line": 139,
@@ -2233,7 +2233,7 @@
       ]
     },
     {
-      "cluster_id": "CJS-5E.4",
+      "cluster_id": "CJS-5.52",
       "title": "Implementation and cross-implementation adversarial robustness and abuse-resistance terms",
       "file": "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md",
       "start_line": 177,
@@ -2384,7 +2384,7 @@
       ]
     },
     {
-      "cluster_id": "CJS-5E.5",
+      "cluster_id": "CJS-5.53",
       "title": "Implementation and cross-implementation structural review, correction urgency, and disclosure terms",
       "file": "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md",
       "start_line": 260,
@@ -2395,7 +2395,7 @@
         "**PRIM12 \u2014 Reversibility and Containment**",
         "**PRIM15 \u2014 Evolution, Revalidation, and Non-Entrenchment**",
         "**PROT3 \u2014 Reflexive Transparency and Accountability**",
-        "`corpus_systems.md` **Chapter S1** and **Chapter S2**",
+        "`corpus_systems.md` **CS-3** and **CS-4**",
         "Owner-layer-specific monitoring or publication duties."
       ],
       "direct_ch1_refs": [],
@@ -2489,7 +2489,7 @@
         ]
       },
       {
-        "cluster_id": "CJS-5A.1",
+        "cluster_id": "CJS-5.5",
         "title": "Implementation and cross-implementation distributed and proportional authority terms",
         "file": "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md",
         "line": 16,
@@ -2503,7 +2503,7 @@
         ]
       },
       {
-        "cluster_id": "CJS-5A.2",
+        "cluster_id": "CJS-5.9",
         "title": "Implementation and cross-implementation intervention governance and override-authorization terms",
         "file": "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md",
         "line": 74,
@@ -2517,7 +2517,7 @@
         ]
       },
       {
-        "cluster_id": "CJS-5A.3",
+        "cluster_id": "CJS-5.11",
         "title": "Implementation and cross-implementation reflexive transparency and accountability terms",
         "file": "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md",
         "line": 123,
@@ -2531,7 +2531,7 @@
         ]
       },
       {
-        "cluster_id": "CJS-5A.5",
+        "cluster_id": "CJS-5.21",
         "title": "Implementation and cross-implementation constrained-secrecy and protected-investigation terms",
         "file": "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md",
         "line": 236,
@@ -2546,7 +2546,7 @@
         ]
       },
       {
-        "cluster_id": "CJS-5A.6",
+        "cluster_id": "CJS-5.8",
         "title": "Implementation and cross-implementation procedural integrity and adjudication terms",
         "file": "corpus_joint_structure/cjs_05a_00_authority_constraint_secrecy_procedure.md",
         "line": 281,
@@ -2561,7 +2561,7 @@
         ]
       },
       {
-        "cluster_id": "CJS-5B.1",
+        "cluster_id": "CJS-5.22",
         "title": "Implementation and cross-implementation integrity assurance and resilience operations",
         "file": "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md",
         "line": 14,
@@ -2575,7 +2575,7 @@
         ]
       },
       {
-        "cluster_id": "CJS-5B.2",
+        "cluster_id": "CJS-5.14",
         "title": "Implementation and cross-implementation auditability and reconstructability terms",
         "file": "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md",
         "line": 47,
@@ -2588,7 +2588,7 @@
         ]
       },
       {
-        "cluster_id": "CJS-5B.4",
+        "cluster_id": "CJS-5.12",
         "title": "Implementation and cross-implementation independent verification and claim-integrity terms",
         "file": "corpus_joint_structure/cjs_05b_00_evidence_audit_claim_integrity.md",
         "line": 133,
@@ -2602,7 +2602,7 @@
         ]
       },
       {
-        "cluster_id": "CJS-5C.1",
+        "cluster_id": "CJS-5.13",
         "title": "Implementation and cross-implementation quorum and participatory legitimacy terms",
         "file": "corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md",
         "line": 14,
@@ -2617,7 +2617,7 @@
         ]
       },
       {
-        "cluster_id": "CJS-5C.2",
+        "cluster_id": "CJS-5.6",
         "title": "Implementation and cross-implementation comprehensibility and cognitive accessibility terms",
         "file": "corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md",
         "line": 75,
@@ -2630,7 +2630,7 @@
         ]
       },
       {
-        "cluster_id": "CJS-5C.3",
+        "cluster_id": "CJS-5.3",
         "title": "Implementation and cross-implementation salience integrity and attention-allocation terms",
         "file": "corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md",
         "line": 129,
@@ -2644,7 +2644,7 @@
         ]
       },
       {
-        "cluster_id": "CJS-5C.4",
+        "cluster_id": "CJS-5.4",
         "title": "Implementation and cross-implementation disclosure sufficiency and observability terms",
         "file": "corpus_joint_structure/cjs_05c_00_participation_comprehension_disclosure.md",
         "line": 191,
@@ -2657,7 +2657,7 @@
         ]
       },
       {
-        "cluster_id": "CJS-5D.1",
+        "cluster_id": "CJS-5.16",
         "title": "Implementation and cross-implementation dependency integrity and disclosure terms",
         "file": "corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md",
         "line": 13,
@@ -2671,7 +2671,7 @@
         ]
       },
       {
-        "cluster_id": "CJS-5D.2",
+        "cluster_id": "CJS-5.17",
         "title": "Implementation and cross-implementation interoperability, portability, and exit-integrity terms",
         "file": "corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md",
         "line": 62,
@@ -2685,7 +2685,7 @@
         ]
       },
       {
-        "cluster_id": "CJS-5D.3",
+        "cluster_id": "CJS-5.18",
         "title": "Implementation and cross-implementation data-retention and lifecycle-integrity terms",
         "file": "corpus_joint_structure/cjs_05d_00_dependency_exit_lifecycle_integrity.md",
         "line": 127,
@@ -2699,7 +2699,7 @@
         ]
       },
       {
-        "cluster_id": "CJS-5E.1",
+        "cluster_id": "CJS-5.19",
         "title": "Implementation and cross-implementation graceful degradation and failure-mode integrity terms",
         "file": "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md",
         "line": 15,
@@ -2714,7 +2714,7 @@
         ]
       },
       {
-        "cluster_id": "CJS-5E.3",
+        "cluster_id": "CJS-5.51",
         "title": "Implementation and cross-implementation reversibility and containment terms",
         "file": "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md",
         "line": 139,
@@ -2728,7 +2728,7 @@
         ]
       },
       {
-        "cluster_id": "CJS-5E.4",
+        "cluster_id": "CJS-5.52",
         "title": "Implementation and cross-implementation adversarial robustness and abuse-resistance terms",
         "file": "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md",
         "line": 177,
@@ -2743,7 +2743,7 @@
         ]
       },
       {
-        "cluster_id": "CJS-5E.5",
+        "cluster_id": "CJS-5.53",
         "title": "Implementation and cross-implementation structural review, correction urgency, and disclosure terms",
         "file": "corpus_joint_structure/cjs_05e_00_failure_robustness_intervention_correction.md",
         "line": 260,

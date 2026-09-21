@@ -1,0 +1,259 @@
+{
+  "status": "review_evidence_not_binding",
+  "edition": "SC-Corpus-2026.08.09",
+  "completed_at_utc": "2026-09-17T10:35:24.126111+00:00",
+  "git_head": "22c2920f3fbe52f6798b3ff6c3c10fbec3b453eb",
+  "scope": "Finding 2: owner and chapter/article reference corrections in four English source files; preserves pre-existing working-tree edits. Not an exhaustive corpus or translation audit.",
+  "changed_locations": 19,
+  "files": [
+    {
+      "path": "core_00_preamble.md",
+      "before_sha256": "b07c45579cb2a0d73b1b05b66f46a7bc8662a20121788a5930f6c93418c55239",
+      "after_sha256": "ff30922e25c8cecaf679ac833f6b24f023dfaeed6f5e35a5599acdc3c1255f11",
+      "replacements": [
+        {
+          "old": "**Chapter Three — Definition integrity** ([`core_02_definition_structure.md`](core_02_definition_structure.md))",
+          "new": "**Chapter Three — Definition integrity** ([`core_03_definition_integrity.md`](core_03_definition_integrity.md))",
+          "count": 1
+        },
+        {
+          "old": "**Chapter Four — Burden, traceability, and verification** ([`core_02_definition_structure.md`](core_02_definition_structure.md))",
+          "new": "**Chapter Four — Burden, traceability, and verification** ([`core_04_burden_traceability_verification.md`](core_04_burden_traceability_verification.md))",
+          "count": 1
+        },
+        {
+          "old": "[`core_13_non_regression.md`](core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)",
+          "new": "[`core_14_expansion_supremacy.md`](core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders)",
+          "count": 1
+        },
+        {
+          "old": "[`core_13_non_regression.md`](core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity)",
+          "new": "[`core_15_amendment_ratification.md`](core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity)",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "path": "core_05_band_integrative.md",
+      "before_sha256": "63e773e59f71fea92cbadd3000f78248c2e2a2c6eea4b4671496bd7d9c8cbe49",
+      "after_sha256": "431c27f1a61b50ccac03a77293db5022703f819ac6a6242b022296d1138f4e96",
+      "replacements": [
+        {
+          "old": "[Chapter Twelve Chapter One §4.1]",
+          "new": "[Chapter Twelve §4.1 Entitlement and eligibility]",
+          "count": 2
+        },
+        {
+          "old": "Chapter Twelve Chapter One §8.1 *Durable political-voice floor*",
+          "new": "Chapter Twelve §4.1 *Entitlement and eligibility* — *Durable political-voice floor*",
+          "count": 1
+        },
+        {
+          "old": "incorporated via Chapter Fifteen.",
+          "new": "adopted under Chapter Fifteen and incorporated via Chapter Sixteen.",
+          "count": 1
+        },
+        {
+          "old": "[2. Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)",
+          "new": "[8. Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)",
+          "count": 2
+        },
+        {
+          "old": "apply Chapter Thirteen supremacy and Chapter Fourteen adoption conditions.",
+          "new": "apply Chapter Fourteen supremacy, Chapter Fifteen adoption conditions, and Chapter Sixteen incorporation and custody controls.",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "path": "core_13_non_regression.md",
+      "before_sha256": "669d7d958ebeed8828a52262442d21dd33892f84268bdcc520a0cceaee2af15f",
+      "after_sha256": "c0a7febcbe94eb72a225fa9519cd9b25c85e41d3df211fa059627d935911acac",
+      "replacements": [
+        {
+          "old": "Permitted expansion of protection, supremacy sequencing, ratification, and procedural validity are governed by **Chapters Twelve and Thirteen**.",
+          "new": "Permitted expansion of protection and supremacy sequencing are governed by **Chapter Fourteen**; ratification and procedural validity are governed by **Chapter Fifteen**.",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "path": "core_15_amendment_ratification.md",
+      "before_sha256": "05dee083ebfc3c682fc807749a83236ffbf1c9a923335da05f58400406fdbbe3",
+      "after_sha256": "e0b9bb7ae48c6bc8077c39099b12846e39d7905704aaf3802243ff7c27bedeaa",
+      "replacements": [
+        {
+          "old": "- Read with: [Article XXIII-A](core_06_rights_part_d.md) (*Justice Objective and Scope*) review and contest pathways.",
+          "new": "- Read with: [Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*) contest pathways; [Article XXII](core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) independent constitutional review.",
+          "count": 1
+        },
+        {
+          "old": "constitutional interpretation and review safeguards (**Article XXIII-A** (*Justice Objective and Scope*))",
+          "new": "constitutional interpretation and review safeguards (**Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*))",
+          "count": 1
+        },
+        {
+          "old": "[Article X-B: Collective Harm Boundary and Enforcement Interface](core_06_rights_part_b.md#article-x-b-collective-harm-boundary-and-enforcement-interface)",
+          "new": "[Article XI-B: Weighted Participation Constraints](core_06_rights_part_b.md#article-xi-b-weighted-participation-constraints)",
+          "count": 1
+        },
+        {
+          "old": "**Article X-B** (*Collective Harm Boundary and Enforcement Interface*)",
+          "new": "**Article XI-B** (*Weighted Participation Constraints*)",
+          "count": 1
+        },
+        {
+          "old": "[Article X-C: Adult consensual commercial sexual services and sexual exploitation](core_06_rights_part_b.md#article-x-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation)",
+          "new": "[Article XI-C: Legitimacy Gate and Anti-Token Participation](core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation)",
+          "count": 1
+        },
+        {
+          "old": "[Article X-C](core_06_rights_part_b.md) (*Adult consensual commercial sexual services and sexual exploitation*)",
+          "new": "[Article XI-C](core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation) (*Legitimacy Gate and Anti-Token Participation*)",
+          "count": 1
+        },
+        {
+          "old": "**Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*)",
+          "new": "**Article XI-C** (*Legitimacy Gate and Anti-Token Participation*)",
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "checks_before": {
+    "reference": {
+      "exit_code": 0,
+      "output": "# Reference Integrity Audit - 2026-09-16\n\n## Scope\n- `core_00_preamble.md`\n- `core_01_a_values_principles.md`\n- `core_01_b_interaction_interpretation.md`\n- `core_01_c_stewardship_capacity_principles.md`\n- `core_02_definition_structure.md`\n- `core_03_definition_integrity.md`\n- `core_04_burden_traceability_verification.md`\n- `core_05__definitions_home.md`\n- `core_05_apex_accountability_leg.md`\n- `core_05_apex_continuity_aim.md`\n- `core_05_apex_flourishing_aim.md`\n- `core_05_apex_oversight_leg.md`\n- `core_05_apex_participation_leg.md`\n- `core_05_apex_timeliness_leg.md`\n- `core_05_band_accountability.md`\n- `core_05_band_continuity.md`\n- `core_05_band_integrative.md`\n- `core_05_band_oversight.md`\n- `core_05_band_participation.md`\n- `core_05_band_performance.md`\n- `core_07_a_system_alignment_certification_evaluation.md`\n- `core_07_b_system_alignment_certification_record_process.md`\n- `core_07_system_alignment_certification.md`\n- `core_08_standing_assessment.md`\n- `core_09_standing_integration.md`\n- `core_10_a_misconduct_designation.md`\n- `core_10_b_misconduct_pattern_applications.md`\n- `core_11_forum.md`\n- `core_08-11_application_vignettes.md`\n- `core_06_rights_part_a.md`\n- `core_06_rights_part_b.md`\n- `core_06_rights_part_c.md`\n- `core_06_rights_part_d.md`\n- `core_12_governance.md`\n- `core_13_non_regression.md`\n- `core_14_expansion_supremacy.md`\n- `core_15_amendment_ratification.md`\n- `core_16_incorporation.md`\n- `corpus_systems.md`\n- `corpus_institutions.md`\n- `corpus_forum.md`\n- `corpus_joint_structure.md`\n- `corpus_joint_structure/cjs_00_registry_and_reading_rules.md`\n- `corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md`\n- `corpus_joint_structure/cjs_02_specific_joint_interlocks.md`\n- `corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md`\n- `corpus_joint_structure/cjs_03a_accountability_operations.md`\n- `corpus_joint_structure/cjs_03c_continuity_operations.md`\n- `corpus_joint_structure/cjs_03i_integrative_operations.md`\n- `corpus_joint_structure/cjs_03o_oversight_operations.md`\n- `corpus_joint_structure/cjs_03p_participation_operations.md`\n- `corpus_joint_structure/cjs_03u_audit_process.md`\n- `corpus_joint_structure/cjs_04_drafting_contracts.md`\n- `corpus_joint_structure/cjs_05_odef_parse_mechanics.md`\n- `corpus_joint_structure/cjs_06_support_hosting_classification.md`\n- `corpus_joint_structure/cjs_reader_guide.md`\n- `corpus_systems/cs_00_registry_and_reading_rules.md`\n- `corpus_systems/cs_01_scope_purpose_identifier_rules.md`\n- `corpus_systems/cs_02_a_information_types_and_handling.md`\n- `corpus_systems/cs_02_b_data_classifications.md`\n- `corpus_systems/cs_03_a_system_classification_machinery.md`\n- `corpus_systems/cs_03_b_system_impact_classifications.md`\n- `corpus_systems/cs_04_critical_system_stewardship.md`\n- `corpus_systems/cs_05_a_user_facing_capabilities.md`\n- `corpus_systems/cs_05_design_testing_verification_deployment.md`\n- `corpus_systems/cs_06_comprehensibility_complexity_stewardship.md`\n- `corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md`\n- `corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md`\n- `corpus_systems/cs_09_resource_allocation_funding_stewardship.md`\n- `corpus_systems/cs_10_transition_constitution_migration_governance.md`\n- `corpus_systems/cs_11_subversion_response_replacement_reconstitution.md`\n- `corpus_systems/cs_12_decentralized_continuity_partition_resilience.md`\n- `corpus_institutions/ci_00_registry_and_reading_rules.md`\n- `corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md`\n- `corpus_institutions/ci_03_institutional_design_separation_of_powers.md`\n- `corpus_institutions/ci_04_appointment_competency_rotation_removal.md`\n- `corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md`\n- `corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md`\n- `corpus_institutions/ci_07_oversight_assurance_controls_evidence.md`\n- `corpus_institutions/ci_08_transparency_participation_accessible_pathways.md`\n- `corpus_institutions/ci_09_classification_linked_institutional_obligations.md`\n- `corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md`\n- `corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md`\n- `corpus_institutions/ci_12_cross_institution_coordination_escalation.md`\n- `corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md`\n- `corpus_institutions/ci_14_transitional_governance_institutional_evolution.md`\n- `corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md`\n- `corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md`\n- `corpus_institutions/ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md`\n- `corpus_institutions/ci_18_collective_public_health_epidemic_response_addiction_informed_care.md`\n- `corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md`\n- `corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md`\n- `corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md`\n- `corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md`\n- `corpus_institutions/ci_23_place_based_stewardship_indigenous_continuity_consultation.md`\n- `corpus_institutions/ci_24_innovation_reward_disclosure_anti_enclosure.md`\n- `corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md`\n- `corpus_institutions/ci_26_compliance_mapping_stable_registry.md`\n- `corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md`\n- `corpus_forum/cf_00_registry_and_reading_rules.md`\n- `corpus_forum/cf_01_scope_authority_boundary_rules.md`\n- `corpus_forum/cf_03_forum_formation_chamber_structure.md`\n- `corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md`\n- `corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md`\n- `corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md`\n- `corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md`\n- `corpus_forum/cf_08_forum_forensic_analytical_support.md`\n- `corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md`\n- `corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md`\n- `corpus_forum/cf_11_performance_backlog_publication_accessibility.md`\n- `corpus_forum/cf_12_forum_continuity.md`\n- `corpus_forum/cf_13_fallback_operation.md`\n- `corpus_forum/cf_14_emergency_adjudication.md`\n- `corpus_forum/cf_15_standard_records_forms_evidence_artifacts.md`\n- `corpus_forum/cf_16_staffing_reserve_capacity_structural_records.md`\n- `corpus_forum/cf_sentience_status_record.md`\n- `doc_architecture.md`\n- `README.md`\n\n## Canonical Chapter Five Map Snapshot\n- `Article I` - Environmental Survival\n- `Article II` - Material Stewardship and Durable-Use Integrity\n- `Article III` - Survival and Equal Educational Access\n- `Article IV` - Resource Allocation, Dependencies, and Ecosystem Funding\n- `Article V` - Equal Basic Rights\n- `Article VI` - Right to Sentient-Centered Education\n- `Article VII` - Self-Ownership\n- `Article VIII` - Likeness, Experiential Data, and Publication Rights\n- `Article IX` - Self-Determination and Agency\n- `Article X` - Cooperative Interaction\n- `Article XI` - Stakeholder System Participation, Representation, and Due Process\n- `Article XII` - Right to Reliable and Trustworthy Systems\n- `Article XIII` - Security, Intelligence, Force, and Autonomous Coercive Systems\n- `Article XIV` - Info-Sphere Integrity\n- `Article XV` - Audit, Transparency, and Independent Verification\n- `Article XVI` - System Lifecycle, Environments, and Reversibility\n- `Article XVII` - Sandboxed Innovation, Experimentation, and Creative Freedom\n- `Article XVIII` - Standing and Participation Status\n- `Article XIX` - Interoperability, Portability, Movement, Refuge, and Exit Integrity\n- `Article XX` - Comprehensibility and Complexity Stewardship\n- `Article XXI` - Root Cause Analysis and Adaptive Response\n- `Article XXII` - Constitutional Interpretation, Review, and Anti-Capture Safeguards\n- `Article XXIII` - Conflict Resolution, Escalation, and Emergency Proportionality\n- `Article XXIV` - Timely Retrospective Review and Restorative Alignment\n- `Article XXV` - Constitutional Evolution and Non-Entrenchment\n- `Article XXVI` - Transition Governance, Continuity, and Re-Baselining\n\n## Findings\n- No mismatches detected.\n\n## Result\n- `PASS`\n\n"
+    },
+    "section_cite_names": {
+      "exit_code": 1,
+      "output": "FAIL: SECTION-CITE-NAME-01 — 3 unnamed section-number cite(s).\n  core_06_rights_part_a.md:69: SECTION-CITE-NAME-01: unnamed Chapter One §11: section-number link has no title in the link text or a following (*title*) gloss\n  core_06_rights_part_b.md:68: SECTION-CITE-NAME-01: unnamed §7: section-number link has no title in the link text or a following (*title*) gloss\n  core_06_rights_part_b.md:68: SECTION-CITE-NAME-01: unnamed §8: section-number link has no title in the link text or a following (*title*) gloss\n"
+    },
+    "section_labels": {
+      "exit_code": 1,
+      "output": "FAIL: 1 section-label/anchor divergence(s)\ndoc_architecture.md:729: prose §13.2 resolves to doc_architecture.md#132-pro-competition-and-anti-domination but that fragment is absent (SECTION-CITE-MATCH-01)\n"
+    },
+    "definition_links": {
+      "exit_code": 0,
+      "output": "PASS: Chapter Five cross-link metadata stays inside Trace/details blocks.\n"
+    },
+    "owner_discipline": {
+      "exit_code": 0,
+      "output": "Owner discipline audit (O/E/C gloss heuristic):\n- Result: PASS\n"
+    }
+  },
+  "checks_after": {
+    "reference": {
+      "exit_code": 0,
+      "output": "# Reference Integrity Audit - 2026-09-17\n\n## Scope\n- `core_00_preamble.md`\n- `core_01_a_values_principles.md`\n- `core_01_b_interaction_interpretation.md`\n- `core_01_c_stewardship_capacity_principles.md`\n- `core_02_definition_structure.md`\n- `core_03_definition_integrity.md`\n- `core_04_burden_traceability_verification.md`\n- `core_05__definitions_home.md`\n- `core_05_apex_accountability_leg.md`\n- `core_05_apex_continuity_aim.md`\n- `core_05_apex_flourishing_aim.md`\n- `core_05_apex_oversight_leg.md`\n- `core_05_apex_participation_leg.md`\n- `core_05_apex_timeliness_leg.md`\n- `core_05_band_accountability.md`\n- `core_05_band_continuity.md`\n- `core_05_band_integrative.md`\n- `core_05_band_oversight.md`\n- `core_05_band_participation.md`\n- `core_05_band_performance.md`\n- `core_07_a_system_alignment_certification_evaluation.md`\n- `core_07_b_system_alignment_certification_record_process.md`\n- `core_07_system_alignment_certification.md`\n- `core_08_standing_assessment.md`\n- `core_09_standing_integration.md`\n- `core_10_a_misconduct_designation.md`\n- `core_10_b_misconduct_pattern_applications.md`\n- `core_11_forum.md`\n- `core_08-11_application_vignettes.md`\n- `core_06_rights_part_a.md`\n- `core_06_rights_part_b.md`\n- `core_06_rights_part_c.md`\n- `core_06_rights_part_d.md`\n- `core_12_governance.md`\n- `core_13_non_regression.md`\n- `core_14_expansion_supremacy.md`\n- `core_15_amendment_ratification.md`\n- `core_16_incorporation.md`\n- `corpus_systems.md`\n- `corpus_institutions.md`\n- `corpus_forum.md`\n- `corpus_joint_structure.md`\n- `corpus_joint_structure/cjs_00_registry_and_reading_rules.md`\n- `corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md`\n- `corpus_joint_structure/cjs_02_specific_joint_interlocks.md`\n- `corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md`\n- `corpus_joint_structure/cjs_03a_accountability_operations.md`\n- `corpus_joint_structure/cjs_03c_continuity_operations.md`\n- `corpus_joint_structure/cjs_03i_integrative_operations.md`\n- `corpus_joint_structure/cjs_03o_oversight_operations.md`\n- `corpus_joint_structure/cjs_03p_participation_operations.md`\n- `corpus_joint_structure/cjs_03u_audit_process.md`\n- `corpus_joint_structure/cjs_04_drafting_contracts.md`\n- `corpus_joint_structure/cjs_05_odef_parse_mechanics.md`\n- `corpus_joint_structure/cjs_06_support_hosting_classification.md`\n- `corpus_joint_structure/cjs_reader_guide.md`\n- `corpus_systems/cs_00_registry_and_reading_rules.md`\n- `corpus_systems/cs_01_scope_purpose_identifier_rules.md`\n- `corpus_systems/cs_02_a_information_types_and_handling.md`\n- `corpus_systems/cs_02_b_data_classifications.md`\n- `corpus_systems/cs_03_a_system_classification_machinery.md`\n- `corpus_systems/cs_03_b_system_impact_classifications.md`\n- `corpus_systems/cs_04_critical_system_stewardship.md`\n- `corpus_systems/cs_05_a_user_facing_capabilities.md`\n- `corpus_systems/cs_05_design_testing_verification_deployment.md`\n- `corpus_systems/cs_06_comprehensibility_complexity_stewardship.md`\n- `corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md`\n- `corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md`\n- `corpus_systems/cs_09_resource_allocation_funding_stewardship.md`\n- `corpus_systems/cs_10_transition_constitution_migration_governance.md`\n- `corpus_systems/cs_11_subversion_response_replacement_reconstitution.md`\n- `corpus_systems/cs_12_decentralized_continuity_partition_resilience.md`\n- `corpus_institutions/ci_00_registry_and_reading_rules.md`\n- `corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md`\n- `corpus_institutions/ci_03_institutional_design_separation_of_powers.md`\n- `corpus_institutions/ci_04_appointment_competency_rotation_removal.md`\n- `corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md`\n- `corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md`\n- `corpus_institutions/ci_07_oversight_assurance_controls_evidence.md`\n- `corpus_institutions/ci_08_transparency_participation_accessible_pathways.md`\n- `corpus_institutions/ci_09_classification_linked_institutional_obligations.md`\n- `corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md`\n- `corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md`\n- `corpus_institutions/ci_12_cross_institution_coordination_escalation.md`\n- `corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md`\n- `corpus_institutions/ci_14_transitional_governance_institutional_evolution.md`\n- `corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md`\n- `corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md`\n- `corpus_institutions/ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md`\n- `corpus_institutions/ci_18_collective_public_health_epidemic_response_addiction_informed_care.md`\n- `corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md`\n- `corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md`\n- `corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md`\n- `corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md`\n- `corpus_institutions/ci_23_place_based_stewardship_indigenous_continuity_consultation.md`\n- `corpus_institutions/ci_24_innovation_reward_disclosure_anti_enclosure.md`\n- `corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md`\n- `corpus_institutions/ci_26_compliance_mapping_stable_registry.md`\n- `corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md`\n- `corpus_forum/cf_00_registry_and_reading_rules.md`\n- `corpus_forum/cf_01_scope_authority_boundary_rules.md`\n- `corpus_forum/cf_03_forum_formation_chamber_structure.md`\n- `corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md`\n- `corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md`\n- `corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md`\n- `corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md`\n- `corpus_forum/cf_08_forum_forensic_analytical_support.md`\n- `corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md`\n- `corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md`\n- `corpus_forum/cf_11_performance_backlog_publication_accessibility.md`\n- `corpus_forum/cf_12_forum_continuity.md`\n- `corpus_forum/cf_13_fallback_operation.md`\n- `corpus_forum/cf_14_emergency_adjudication.md`\n- `corpus_forum/cf_15_standard_records_forms_evidence_artifacts.md`\n- `corpus_forum/cf_16_staffing_reserve_capacity_structural_records.md`\n- `corpus_forum/cf_sentience_status_record.md`\n- `doc_architecture.md`\n- `README.md`\n\n## Canonical Chapter Five Map Snapshot\n- `Article I` - Environmental Survival\n- `Article II` - Material Stewardship and Durable-Use Integrity\n- `Article III` - Survival and Equal Educational Access\n- `Article IV` - Resource Allocation, Dependencies, and Ecosystem Funding\n- `Article V` - Equal Basic Rights\n- `Article VI` - Right to Sentient-Centered Education\n- `Article VII` - Self-Ownership\n- `Article VIII` - Likeness, Experiential Data, and Publication Rights\n- `Article IX` - Self-Determination and Agency\n- `Article X` - Cooperative Interaction\n- `Article XI` - Stakeholder System Participation, Representation, and Due Process\n- `Article XII` - Right to Reliable and Trustworthy Systems\n- `Article XIII` - Security, Intelligence, Force, and Autonomous Coercive Systems\n- `Article XIV` - Info-Sphere Integrity\n- `Article XV` - Audit, Transparency, and Independent Verification\n- `Article XVI` - System Lifecycle, Environments, and Reversibility\n- `Article XVII` - Sandboxed Innovation, Experimentation, and Creative Freedom\n- `Article XVIII` - Standing and Participation Status\n- `Article XIX` - Interoperability, Portability, Movement, Refuge, and Exit Integrity\n- `Article XX` - Comprehensibility and Complexity Stewardship\n- `Article XXI` - Root Cause Analysis and Adaptive Response\n- `Article XXII` - Constitutional Interpretation, Review, and Anti-Capture Safeguards\n- `Article XXIII` - Conflict Resolution, Escalation, and Emergency Proportionality\n- `Article XXIV` - Timely Retrospective Review and Restorative Alignment\n- `Article XXV` - Constitutional Evolution and Non-Entrenchment\n- `Article XXVI` - Transition Governance, Continuity, and Re-Baselining\n\n## Findings\n- No mismatches detected.\n\n## Result\n- `PASS`\n\n"
+    },
+    "section_cite_names": {
+      "exit_code": 1,
+      "output": "FAIL: SECTION-CITE-NAME-01 — 3 unnamed section-number cite(s).\n  core_06_rights_part_a.md:69: SECTION-CITE-NAME-01: unnamed Chapter One §11: section-number link has no title in the link text or a following (*title*) gloss\n  core_06_rights_part_b.md:68: SECTION-CITE-NAME-01: unnamed §7: section-number link has no title in the link text or a following (*title*) gloss\n  core_06_rights_part_b.md:68: SECTION-CITE-NAME-01: unnamed §8: section-number link has no title in the link text or a following (*title*) gloss\n"
+    },
+    "section_labels": {
+      "exit_code": 1,
+      "output": "FAIL: 1 section-label/anchor divergence(s)\ndoc_architecture.md:729: prose §13.2 resolves to doc_architecture.md#132-pro-competition-and-anti-domination but that fragment is absent (SECTION-CITE-MATCH-01)\n"
+    },
+    "definition_links": {
+      "exit_code": 0,
+      "output": "PASS: Chapter Five cross-link metadata stays inside Trace/details blocks.\n"
+    },
+    "owner_discipline": {
+      "exit_code": 0,
+      "output": "Owner discipline audit (O/E/C gloss heuristic):\n- Result: PASS\n"
+    },
+    "manifest_freshness": {
+      "exit_code": 0,
+      "output": "Wrote section manifest to /var/folders/v4/fpv45syd2t96s0rl9rl6vf2c0000gn/T/ai-manifest-s_ph4y2z/section_manifest.json\nWrote 224 definitions to /var/folders/v4/fpv45syd2t96s0rl9rl6vf2c0000gn/T/ai-manifest-s_ph4y2z/definition_registry.json\nWrote cross-reference matrix to /var/folders/v4/fpv45syd2t96s0rl9rl6vf2c0000gn/T/ai-manifest-s_ph4y2z/crossref_matrix.json\nWrote section crossref (14559 edges) to /var/folders/v4/fpv45syd2t96s0rl9rl6vf2c0000gn/T/ai-manifest-s_ph4y2z/section_crossref.json\nWrote id resolver (451 ids, 25 topics, 224 definitions) to /var/folders/v4/fpv45syd2t96s0rl9rl6vf2c0000gn/T/ai-manifest-s_ph4y2z/id_resolver.json\nAI corpus manifests are valid and fresh.\n"
+    }
+  },
+  "commands": {
+    "reference": [
+      "python3",
+      "tools/reference_audit.py",
+      "--root",
+      "."
+    ],
+    "section_cite_names": [
+      "python3",
+      "tools/section_cite_name_audit.py",
+      "--root",
+      ".",
+      "--changed-only"
+    ],
+    "section_labels": [
+      "python3",
+      "tools/section_label_anchor_audit.py",
+      "--root",
+      "."
+    ],
+    "definition_links": [
+      "python3",
+      "tools/ch5_trace_crosslink_audit.py",
+      "--root",
+      "."
+    ],
+    "owner_discipline": [
+      "python3",
+      "tools/owner_discipline_audit.py",
+      "--root",
+      ".",
+      "--strict"
+    ],
+    "manifest_freshness": [
+      "python3",
+      "tools/validate_ai_manifests.py",
+      "--root",
+      ".",
+      "--check-freshness"
+    ]
+  },
+  "replacement_links_checked": [
+    {
+      "source": "core_00_preamble.md",
+      "target": "core_03_definition_integrity.md"
+    },
+    {
+      "source": "core_00_preamble.md",
+      "target": "core_04_burden_traceability_verification.md"
+    },
+    {
+      "source": "core_00_preamble.md",
+      "target": "core_14_expansion_supremacy.md#chapter-fourteen-expansion-supremacy-and-external-legal-orders"
+    },
+    {
+      "source": "core_00_preamble.md",
+      "target": "core_15_amendment_ratification.md#chapter-fifteen-amendment-ratification-and-procedural-validity"
+    },
+    {
+      "source": "core_05_band_integrative.md",
+      "target": "core_01_b_interaction_interpretation.md#8-constitutional-interpretation"
+    },
+    {
+      "source": "core_15_amendment_ratification.md",
+      "target": "core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress"
+    },
+    {
+      "source": "core_15_amendment_ratification.md",
+      "target": "core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards"
+    },
+    {
+      "source": "core_15_amendment_ratification.md",
+      "target": "core_06_rights_part_b.md#article-xi-b-weighted-participation-constraints"
+    },
+    {
+      "source": "core_15_amendment_ratification.md",
+      "target": "core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation"
+    },
+    {
+      "source": "core_15_amendment_ratification.md",
+      "target": "core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation"
+    }
+  ],
+  "unchanged_existing_failures": [
+    "section_cite_names",
+    "section_labels"
+  ],
+  "comparison_note": "Audit diagnostics are unchanged; the reference audit report heading date advanced from September 16 to September 17."
+}

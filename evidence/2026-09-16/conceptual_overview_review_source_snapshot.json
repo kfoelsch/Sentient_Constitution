@@ -1,0 +1,235 @@
+{
+  "status": "review_evidence_not_binding",
+  "edition": "SC-Corpus-2026.08.09",
+  "effective_date": "2026-08-09",
+  "captured_at_utc": "2026-09-16T22:23:35.779583+00:00",
+  "git_head": "22c2920f3fbe52f6798b3ff6c3c10fbec3b453eb",
+  "scope": "Files cited by the review and overview; hashes identify working-tree bytes, not an exhaustive reading or compliance certification.",
+  "link_check_method": "Existing local files, explicit HTML anchors, and generated Markdown heading slugs. No rendering or semantic validation implied.",
+  "link_checks": [
+    {
+      "file": "CONCEPTUAL_OVERVIEW.md",
+      "local_link_count": 57,
+      "errors": []
+    },
+    {
+      "file": "evidence/2026-09-16/conceptual_overview_corpus_alignment_review.md",
+      "local_link_count": 69,
+      "errors": []
+    }
+  ],
+  "files": [
+    {
+      "path": "CONCEPTUAL_OVERVIEW.md",
+      "sha256": "4c4c263a7a332b459b9448e3109796d725bc6e2cf6bfc114cf303da74f7dc6d9"
+    },
+    {
+      "path": "README.md",
+      "sha256": "b4675bc6d9363a025f44bfa3b7f644b504aac53f35e06ce8c19c59214d8957de"
+    },
+    {
+      "path": "ai_corpus/AI_NAVIGATION_GUIDE.md",
+      "sha256": "8fe12f5f4c68d2d67e84da99c713bbfd18b427179e0ee5ad63c90d1ac273d6ba"
+    },
+    {
+      "path": "core_00_preamble.md",
+      "sha256": "b07c45579cb2a0d73b1b05b66f46a7bc8662a20121788a5930f6c93418c55239"
+    },
+    {
+      "path": "core_01_a_values_principles.md",
+      "sha256": "a39180c8a5b2c404765bce9b35684625f60c86e473931c4f73903d9e6c7dbabf"
+    },
+    {
+      "path": "core_01_b_interaction_interpretation.md",
+      "sha256": "58f1e0dc628b0b619805b774fdc9c4314cea8237f8ee78123b841aa4651248f3"
+    },
+    {
+      "path": "core_01_c_stewardship_capacity_principles.md",
+      "sha256": "c0b5ec0dca49582affaa9e4640c8b97f1a2e2bfdcd14603999d7b5401b670eca"
+    },
+    {
+      "path": "core_02_definition_structure.md",
+      "sha256": "3eb5262d7d5ae9aa824abfe5fa3913317fd16082aa3166df7320b1d4b80e763b"
+    },
+    {
+      "path": "core_03_definition_integrity.md",
+      "sha256": "f669ee8370f182386d26ebbac6e2edc25996e35dd23507fed88f5c61f03ba533"
+    },
+    {
+      "path": "core_04_burden_traceability_verification.md",
+      "sha256": "6af5ac23bf14b7878fb155a9cd94d27a9a17603d184964f4226c3a72d7e00474"
+    },
+    {
+      "path": "core_05__definitions_home.md",
+      "sha256": "d90da5cfb98ed37b56096e720224d95ea3f0eb12df61c41cf8b9a1544415f338"
+    },
+    {
+      "path": "core_05_apex_continuity_aim.md",
+      "sha256": "97265bfc735459a315016ce01fe21181a528afd0f3780c7a9c600677e97ca807"
+    },
+    {
+      "path": "core_05_band_continuity.md",
+      "sha256": "18ec7dcceb5524d02c987c5f84794c891242590c4ff8d4534578178e552b4f21"
+    },
+    {
+      "path": "core_05_band_integrative.md",
+      "sha256": "63e773e59f71fea92cbadd3000f78248c2e2a2c6eea4b4671496bd7d9c8cbe49"
+    },
+    {
+      "path": "core_05_band_participation.md",
+      "sha256": "a2f76a853631ec2ad73c8d7844015112d673f33cfac6f8b319f0cef361513d9c"
+    },
+    {
+      "path": "core_06_rights_part_a.md",
+      "sha256": "0d24db0dbef20c6b9fc24423d3e8d12ad0c6bc4d8ab08b79182ee5ebe8cdc2b2"
+    },
+    {
+      "path": "core_06_rights_part_b.md",
+      "sha256": "b7417bd42f80772154b2ee8d10bd817337f18ef690c651025217c47048e243d8"
+    },
+    {
+      "path": "core_06_rights_part_c.md",
+      "sha256": "04a6914655bfe46fec19fa5c1bf7d932c6d95b8be42e6d5cbc872cdf3567c26a"
+    },
+    {
+      "path": "core_06_rights_part_d.md",
+      "sha256": "bcbf9f5f0435872fc43e628737f68024eed2655de808ba10fec70991433fbe53"
+    },
+    {
+      "path": "core_07_a_system_alignment_certification_evaluation.md",
+      "sha256": "3badbcbe53d4de7fe0338b0cd121fb186ebc571fcb999ec22e496d15dfb214fc"
+    },
+    {
+      "path": "core_08_standing_assessment.md",
+      "sha256": "48f0ed4ad30a84f7970016452aca96b729d3bcbd660c55f452c4a276817b13ad"
+    },
+    {
+      "path": "core_09_standing_integration.md",
+      "sha256": "d2ce0e2cf3c49f098b9ed761cb97341c2f5d40c6aa2398a63a11108fb53d388c"
+    },
+    {
+      "path": "core_10_a_misconduct_designation.md",
+      "sha256": "30943a2d3acd03ec0e86d53e9c7318b1acc88a906f9c1913be464d2cb8de15b5"
+    },
+    {
+      "path": "core_10_b_misconduct_pattern_applications.md",
+      "sha256": "ca0e7a832546f9b2c178ffcd3f76f0a10677ca4c7edc8f5cd7664e28a8c77400"
+    },
+    {
+      "path": "core_11_forum.md",
+      "sha256": "ed9410437816deed8d03e592b868824c5bebf5710461b9bfa3fe9776d7cc4533"
+    },
+    {
+      "path": "core_12_governance.md",
+      "sha256": "1ae1be566ea0e3e699e8036f0b34cbee1e1ab0e5d8f5d834036551109c0c17dc"
+    },
+    {
+      "path": "core_13_non_regression.md",
+      "sha256": "669d7d958ebeed8828a52262442d21dd33892f84268bdcc520a0cceaee2af15f"
+    },
+    {
+      "path": "core_14_expansion_supremacy.md",
+      "sha256": "f3c85374215faa0b16a5db5eeb76f7ace1f4b90d68156800208d4f192d084feb"
+    },
+    {
+      "path": "core_15_amendment_ratification.md",
+      "sha256": "05dee083ebfc3c682fc807749a83236ffbf1c9a923335da05f58400406fdbbe3"
+    },
+    {
+      "path": "core_16_incorporation.md",
+      "sha256": "fef5ba72c0600248f7ff51994caaa27f6ec623c8c679335d2394cb219f039d36"
+    },
+    {
+      "path": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
+      "sha256": "6e76133661e5e5f5b9b30d1a35364bbb37413eb55a8830172b03c1dab5d6d2d0"
+    },
+    {
+      "path": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
+      "sha256": "3657e33a80fd1f4fd9796a3fc387ea9bffae6ac964fd78a8af2b401c38008cf4"
+    },
+    {
+      "path": "corpus_forum.md",
+      "sha256": "36eb002cc3f2acc60f697601fb18af94d84e477786cf490d07589d8ea189ed24"
+    },
+    {
+      "path": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
+      "sha256": "db6c7c70e81133db348ca146083b5f71d6ace498d449334487d8c379f04992c6"
+    },
+    {
+      "path": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "sha256": "380b603fac4937de9fc275c668216873e3cb568107f87db403732d756f42910d"
+    },
+    {
+      "path": "corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md",
+      "sha256": "0f0338f8f8199826c94f48a298f4716c18bfbbe2ecbd3f64d62a5f64e40e8c81"
+    },
+    {
+      "path": "corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md",
+      "sha256": "727dcbf5a469064091b32e115c8c97f8d1449628b5430be9ddcb5bb880f3ef61"
+    },
+    {
+      "path": "corpus_institutions/ci_26_compliance_mapping_stable_registry.md",
+      "sha256": "ef45101297d90f944d768d8d689afc203fdd9f7318677427635ad6b65016855b"
+    },
+    {
+      "path": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+      "sha256": "39c7c5ab024afa78a4b02ed10355483669246d0e518095043f4cc412868d18fa"
+    },
+    {
+      "path": "corpus_institutions.md",
+      "sha256": "75f80a4c719f94362e8b0e8e625ad7174c1e4cfe3a57f4b5808a5af43b0112d4"
+    },
+    {
+      "path": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+      "sha256": "25ed10373f7b8fd3c96d2562e948ff761d5f22b5e8a5a12a91736c64042f29aa"
+    },
+    {
+      "path": "corpus_joint_structure/cjs_03a_accountability_operations.md",
+      "sha256": "b24ac76faece2f7f7725265ec3d8284302acc5e7130d7cab408c2091d4c82fc6"
+    },
+    {
+      "path": "corpus_joint_structure/cjs_03i_integrative_operations.md",
+      "sha256": "6375566f05d75315b04a39d99b2b8f3a2ae4ef89e25ac84770a66cffcc13dbce"
+    },
+    {
+      "path": "corpus_joint_structure/cjs_03p_participation_operations.md",
+      "sha256": "6318c464e6da8692925d1f9811bb2a9aa4b0a9853e31f1efe73443b2e608ab8e"
+    },
+    {
+      "path": "corpus_joint_structure.md",
+      "sha256": "c512af85f2cfcf0272fce731d1e42c934c5964be47f97b947632e5ace37604f9"
+    },
+    {
+      "path": "corpus_systems/cs_02_b_data_classifications.md",
+      "sha256": "6e4ffb0ab6772f0db7fd269f8cbfdfdad172ac7980dbe26539732d3be69bec51"
+    },
+    {
+      "path": "corpus_systems/cs_03_a_system_classification_machinery.md",
+      "sha256": "ea3928ad5bd4fd87559c92fefbd798968420e60ad482e72860d397d6f57efa6e"
+    },
+    {
+      "path": "corpus_systems/cs_06_comprehensibility_complexity_stewardship.md",
+      "sha256": "836dd48f5e18417432453eb7d9c5d0445c35d21ab81ada975484c24ae39028f8"
+    },
+    {
+      "path": "corpus_systems/cs_12_decentralized_continuity_partition_resilience.md",
+      "sha256": "e8da9e6b3069b7772ac718bbb530c440f7a4c8e82d9e2e1c6ced8183ca4dc7be"
+    },
+    {
+      "path": "corpus_systems.md",
+      "sha256": "1ddafcfb34423abc9dc0fe2851572404be91fe245079a8f04ba5f7d6d6ab6b08"
+    },
+    {
+      "path": "evidence/2026-09-16/conceptual_overview_corpus_alignment_review.md",
+      "sha256": "9af83e556f39d040f3abcbf800725ecc5d27df299eb8e5e283846ef7e5e7e5ad"
+    },
+    {
+      "path": "implementation/LEQU_CALIBRATION_REFERENCE.md",
+      "sha256": "2d09e833f5fb7d3525a3f8ab7b1fe4e643ddaf94da78d199323e6657072d45ac"
+    },
+    {
+      "path": "implementation/adoption/easy_entry/README.md",
+      "sha256": "c97aa8d7ee081a267130d0edcc30d18d1e8e45e4729b9f29d943d4880ce130dd"
+    }
+  ]
+}

@@ -2,11 +2,11 @@
 """Cross-file Markdown link resolution for Chapter Five fragment targets.
 
 Validates every ``](core_05-05_definitions_*.md#…)`` link in the corpus scope
-against the same merged anchor model as ``ch5_dec_widget_audit`` (explicit
+against the same merged anchor model as ``ch5_dac_widget_audit`` (explicit
 ``<a id>`` tags, heading auto-slugs, and Part A unified A–Z directory slugs).
 
 This closes the gap left by ``reference_audit.py`` (Article Roman numerals only)
-and complements ``ch5_dec_widget_audit.py`` (D/E/C widget rows only): inline
+and complements ``ch5_dac_widget_audit.py`` (D/A/C widget rows only): inline
 prose links, Trace blocks, and cluster cross-links are checked here.
 
 Run: ``make ch5-cross-file-link-audit`` or ``python3 tools/ch5_cross_file_link_audit.py --root .``
@@ -23,7 +23,7 @@ _TOOLS = Path(__file__).resolve().parent
 if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
-from ch5_dec_widget_audit import (  # noqa: E402
+from ch5_dac_widget_audit import (  # noqa: E402
     anchor_resolves_for_widget,
     collect_all_ch5_anchors,
 )
@@ -31,7 +31,7 @@ from ch5_paths import CH5_ALL  # noqa: E402
 from corpus_paths import binding_corpus_scope  # noqa: E402
 
 CH5_FILE_PATTERN = re.compile(
-    r"\]\((core_05-05_definitions_(?:a_independent|b_semi_independent|c_dependent_clusters)\.md)#([^)]+)\)"
+    r"\]\((core_05(?:-05_definitions_a_independent|o_oversight_definitions|p_participation_definitions|a_accountability_definitions|c_continuity_definitions|i_integrative_definitions)\.md)#([^)]+)\)"
 )
 
 def parse_args() -> argparse.Namespace:

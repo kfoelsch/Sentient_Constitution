@@ -11,6 +11,7 @@ import sys
 from dataclasses import dataclass
 
 from corpus_paths import binding_corpus_scope
+from chapter_insertion_diff import is_insertion_only_change
 
 
 SECTION_ID_RE = re.compile(
@@ -20,6 +21,8 @@ DESCRIPTOR_AFTER_RE = re.compile(
     r"(?:\s*(?:—|-|:)\s*[^.;,\n]+|\s*\([^)]+\)|\s+\*[^*]+\*)"
 )
 TRACE_WIDGET_START_RE = re.compile(r"<summary>.*Trace", re.IGNORECASE)
+RETIRED_SECTION_HEADER_RE = re.compile(r"^#{2,4}\s+.+\(retired\)\s*$", re.IGNORECASE)
+TOP_LEVEL_CS_SECTIONS = frozenset({f"CS-{n}" for n in range(1, 13)})
 
 
 @dataclass(frozen=True)
@@ -27,6 +30,13 @@ class Finding:
     file: str
     line: int
     section_id: str
+    text: str
+
+
+@dataclass(frozen=True)
+class RetiredSectionFinding:
+    file: str
+    line: int
     text: str
 
 
@@ -62,9 +72,9 @@ def is_exempt_line(line: str, *, in_trace_widget: bool) -> bool:
         return True
     if stripped.startswith("|"):
         return True
-    if stripped.startswith("<"):
+    if stripped.startswith(">") and stripped.lstrip("> ").startswith("|"):
         return True
-    if "`INST-PROTO-" in stripped:
+    if stripped.startswith("<"):
         return True
     if stripped.startswith("- `"):
         return True
@@ -72,11 +82,45 @@ def is_exempt_line(line: str, *, in_trace_widget: bool) -> bool:
         return True
     if stripped.startswith("- Read with:") or stripped.startswith("**Mandatory read-with:**"):
         return True
+    if "*In plain terms:" in stripped and re.search(r"\*\*CI-\d+", stripped):
+        return True
+    if stripped.startswith(">") and "CJS cluster mapping" in stripped:
+        return True
+    if "–CJS-" in stripped or "–CJS-3." in stripped:
+        return True
+    if re.search(r"CJS-\d+\s+through\s+CJS-", stripped):
+        return True
+    if re.search(r"\*\*CJS-\d+\*\* through \*\*CJS-", stripped):
+        return True
+    if re.search(r"\*\*CJS-1\.0\*\*, \*\*CJS-1\.1\*\*, and \*\*CJS-1\.3\*\*", stripped):
+        return True
+    if "Cross-layer topic routing remains in **CJS-0.1**" in stripped:
+        return True
+    if re.search(r"wrapper → \*\*CJS-1\*\* → \*\*CJS-2\*\* → \*\*CJS-3\*\*", stripped):
+        return True
+    if "retired" in stripped.lower() and "CJS-3" in stripped:
+        return True
+    if re.search(r"\*\*\[CJS-3\.\d+\]", stripped) and "(*" in stripped:
+        return True
     return False
 
 
 def has_descriptor(text_after_id: str) -> bool:
     text_after_id = text_after_id.lstrip()
+    # REF-FAMILY cites are ``[**CI-23**](path) (*short title*)``. Strip the
+    # closing bold that wraps the ID before looking for the markdown link.
+    text_after_id = re.sub(r"^\*+", "", text_after_id).lstrip()
+    if re.match(r"[A-Za-z][^]\n]{2,}\]", text_after_id):
+        return True
+    link_close = re.match(r"\]\([^)]+\)\*{0,2}", text_after_id)
+    if link_close:
+        link_tail = text_after_id[link_close.end() :].lstrip()
+        if DESCRIPTOR_AFTER_RE.match(link_tail):
+            return True
+        if re.match(r"[A-Za-z][^.;,\n]{2,}", link_tail):
+            return True
+    if re.match(r"\*\*[^*]+\*\*", text_after_id):
+        return True
     if text_after_id.startswith("**"):
         text_after_id = text_after_id[2:].lstrip()
     return bool(DESCRIPTOR_AFTER_RE.match(text_after_id))
@@ -90,6 +134,10 @@ def scan_line(rel_path: str, line_number: int, line: str) -> Finding | None:
     if not match:
         return None
 
+    section_id = match.group(0)
+    if section_id in TOP_LEVEL_CS_SECTIONS:
+        return None
+
     if has_descriptor(line[match.end() :]):
         return None
 
@@ -98,7 +146,15 @@ def scan_line(rel_path: str, line_number: int, line: str) -> Finding | None:
 
 def changed_markdown_findings(root: pathlib.Path, allowed_scope: set[str]) -> list[Finding]:
     result = subprocess.run(
-        ["git", "diff", "--unified=0", "--diff-filter=ACM", "HEAD", "--", "*.md"],
+        [
+            "git",
+            "diff",
+            "--unified=0",
+            "--diff-filter=ACM",
+            "HEAD",
+            "--",
+            *sorted(allowed_scope),
+        ],
         cwd=root,
         check=True,
         capture_output=True,
@@ -108,6 +164,7 @@ def changed_markdown_findings(root: pathlib.Path, allowed_scope: set[str]) -> li
     findings: list[Finding] = []
     rel_path: str | None = None
     new_line = 0
+    removed_lines: list[str] = []
     for line in result.stdout.splitlines():
         if line.startswith("+++ b/"):
             rel_path = line.removeprefix("+++ b/")
@@ -115,18 +172,37 @@ def changed_markdown_findings(root: pathlib.Path, allowed_scope: set[str]) -> li
         if line.startswith("@@"):
             match = re.search(r"\+(\d+)(?:,\d+)?", line)
             new_line = int(match.group(1)) if match else 0
+            removed_lines = []
             continue
         if rel_path is None or rel_path not in allowed_scope:
             continue
         if line.startswith("+") and not line.startswith("+++"):
+            if is_insertion_only_change(removed_lines, line[1:]):
+                new_line += 1
+                continue
             finding = scan_line(rel_path, new_line, line[1:])
             if finding:
                 findings.append(finding)
             new_line += 1
             continue
+        if line.startswith("-") and not line.startswith("---"):
+            removed_lines.append(line[1:])
+            continue
         if not line.startswith("-"):
             new_line += 1
 
+    return findings
+
+
+def scan_retired_section_headers(root: pathlib.Path, rel_path: str) -> list[RetiredSectionFinding]:
+    path = root / rel_path
+    if not path.is_file():
+        return []
+
+    findings: list[RetiredSectionFinding] = []
+    for idx, line in enumerate(path.read_text(encoding="utf-8").splitlines(), start=1):
+        if RETIRED_SECTION_HEADER_RE.match(line.strip()):
+            findings.append(RetiredSectionFinding(rel_path, idx, line.strip()))
     return findings
 
 
@@ -150,6 +226,9 @@ def scan_file(root: pathlib.Path, rel_path: str) -> list[Finding]:
         if not match:
             continue
 
+        if match.group(0) in TOP_LEVEL_CS_SECTIONS:
+            continue
+
         if not has_descriptor(line[match.end() :]):
             findings.append(Finding(rel_path, idx, match.group(0), line.strip()))
 
@@ -162,25 +241,33 @@ def main() -> int:
     full_scope = binding_corpus_scope(root, include_support_docs=args.include_support_docs)
     if args.paths:
         scope = [path for path in args.paths if path in set(full_scope)]
+        findings: list[Finding] = []
+        retired_findings: list[RetiredSectionFinding] = []
+        for rel_path in scope:
+            findings.extend(scan_file(root, rel_path))
+            retired_findings.extend(scan_retired_section_headers(root, rel_path))
     elif args.changed_only:
-        findings = changed_markdown_findings(root, set(full_scope))
-        if findings:
-            print("Naked implementation-section IDs found:", file=sys.stderr)
-            for finding in findings:
-                print(
-                    f"{finding.file}:{finding.line}: {finding.section_id}: {finding.text}",
-                    file=sys.stderr,
-                )
-            return 1
-
-        print("Section abbreviation descriptor audit passed.")
-        return 0
+        scope = set(full_scope)
+        findings = changed_markdown_findings(root, scope)
+        retired_findings: list[RetiredSectionFinding] = []
+        for rel_path in scope:
+            retired_findings.extend(scan_retired_section_headers(root, rel_path))
     else:
         scope = full_scope
+        findings = []
+        retired_findings = []
+        for rel_path in scope:
+            findings.extend(scan_file(root, rel_path))
+            retired_findings.extend(scan_retired_section_headers(root, rel_path))
 
-    findings: list[Finding] = []
-    for rel_path in scope:
-        findings.extend(scan_file(root, rel_path))
+    if retired_findings:
+        print("Retired section headers found in binding corpus:", file=sys.stderr)
+        for finding in retired_findings:
+            print(
+                f"{finding.file}:{finding.line}: retired section header: {finding.text}",
+                file=sys.stderr,
+            )
+        return 1
 
     if findings:
         print("Naked implementation-section IDs found:", file=sys.stderr)

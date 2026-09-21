@@ -1,117 +1,55 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "edition": "SC-Corpus-2026.04.32",
-  "generated_at": "2026-05-07T15:57:00Z",
+  "edition": "SC-Corpus-2026.04.33",
+  "generated_at": "2026-06-16T14:00:00Z",
   "files": {
-    "core_00-01_principles.md": {
-      "total_lines": 1422,
+    "core_00_preamble.md": {
+      "total_lines": 52,
       "sections": [
         {
           "id": "preamble",
-          "header": "CHAPTER 00: PREAMBLE / FOUNDATIONAL REQUIREMENTS",
+          "header": "PREAMBLE / FOUNDATIONAL REQUIREMENTS",
           "level": 2,
-          "line_start": 6,
-          "line_end": 33,
-          "anchor": null,
+          "line_start": 9,
+          "line_end": 48,
+          "anchor": "#chapter-00-preamble--foundational-requirements",
           "contains_definitions": false
-        },
+        }
+      ]
+    },
+    "core_01_a_values_principles.md": {
+      "total_lines": 595,
+      "sections": [
         {
-          "id": "chapter-01",
-          "header": "CHAPTER 01: PRINCIPLES AND CONSTRAINTS",
+          "id": "chapter-01-part-a",
+          "header": "CHAPTER 01, PART A: VALUES PRINCIPLES",
           "level": 2,
-          "line_start": 35,
-          "line_end": 1422,
+          "line_start": 9,
+          "line_end": 595,
           "anchor": null,
           "contains_definitions": false,
           "subsections": [
             {
-              "id": "interpretive-constraints",
-              "header": "Interpretive Constraints",
-              "level": 3,
-              "line_start": 37,
-              "line_end": 69,
-              "anchor": null
-            },
-            {
               "id": "purpose-and-role",
               "header": "1. Purpose and Role",
               "level": 3,
-              "line_start": 70,
-              "line_end": 105,
-              "anchor": null
+              "line_start": 22,
+              "line_end": 67,
+              "anchor": "#1-purpose-and-role"
             },
             {
-              "id": "foundational-objective",
-              "header": "2. Foundational Objective: Wellbeing",
+              "id": "interpretive-constraints",
+              "header": "2. Constitutional Interpretation",
               "level": 3,
-              "line_start": 106,
-              "line_end": 215,
-              "anchor": null,
-              "subsections": [
-                {
-                  "id": "fairness",
-                  "header": "2.1 Fairness",
-                  "level": 4,
-                  "line_start": 145,
-                  "line_end": 176,
-                  "anchor": null
-                },
-                {
-                  "id": "recognition-reinforcement",
-                  "header": "2.2 Recognition, Reinforcement, and Aspiration",
-                  "level": 4,
-                  "line_start": 177,
-                  "line_end": 215,
-                  "anchor": null
-                }
-              ]
-            },
-            {
-              "id": "non-negotiable-constraints",
-              "header": "3. Non-Negotiable Constraints: Safety and Truth",
-              "level": 3,
-              "line_start": 216,
-              "line_end": 400,
-              "subsections": [
-                {
-                  "id": "safety",
-                  "header": "3.1 Safety (Harm Constraint)",
-                  "level": 4,
-                  "line_start": 218,
-                  "line_end": 253,
-                  "anchor": null
-                },
-                {
-                  "id": "truth",
-                  "header": "3.2 Truth (Epistemic Integrity Constraint)",
-                  "level": 4,
-                  "line_start": 254,
-                  "line_end": 290,
-                  "anchor": null
-                },
-                {
-                  "id": "science-informed",
-                  "header": "3.3 Science-Informed Inquiry and Decision Support",
-                  "level": 4,
-                  "line_start": 291,
-                  "line_end": 337,
-                  "anchor": null
-                },
-                {
-                  "id": "plain-language",
-                  "header": "3.4 Plain-Language Accessibility (Stewardship Duty)",
-                  "level": 4,
-                  "line_start": 338,
-                  "line_end": 400,
-                  "anchor": null
-                }
-              ]
+              "line_start": 68,
+              "line_end": 153,
+              "anchor": "#8-constitutional-interpretation"
             }
           ]
         }
       ]
     },
-    "core_05-05_definitions_a_independent.md": {
+    "core_05__definitions_home.md": {
       "total_lines": 1275,
       "sections": [
         {

@@ -233,5 +233,5 @@ No remediation is required. The alignment plan has been successfully implemented
 ---
 
 *Analysis generated: 2026-05-11*  
-*Alignment Plan: plans/CH1_CH5_ALIGNMENT_CHECK_PLAN.md*  
+*Alignment Plan: archive/plans_retired/CH1_CH5_ALIGNMENT_CHECK_PLAN.md*  
 *Audit Log: evidence/2026-05-11/ch1_ch5_audit_log_2026-05-11.json*

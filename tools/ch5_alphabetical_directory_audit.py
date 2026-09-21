@@ -2,7 +2,7 @@
 """Audit Chapter Five alphabetical directory and section 1 order.
 
 Checks the non-operative Definitions A-Z / Clusters A-Z directory in
-``core_05-05_definitions_a_independent.md`` and preserves the older section 1
+``core_05__definitions_home.md`` and preserves the older section 1
 Independent Definitions heading-order check.
 """
 
@@ -20,7 +20,9 @@ from ch5_single_definition_audit import (
     sorted_violations,
 )
 
-CH5_FILE_PATTERN = re.compile(r"^core_05-05_definitions_.*\.md$")
+CH5_FILE_PATTERN = re.compile(
+    r"^core_05(?:-05_definitions_a_independent|_apex_[a-z_]+|_band_[a-z]+|__definitions_home)\.md$"
+)
 SECTION1_HEADING = "### 1. Independent Definitions"
 HEADING_RE = re.compile(r"^####\s+(.+)$")
 
@@ -79,11 +81,13 @@ def collect_section1_headings(lines: list[str]) -> list[tuple[int, str]]:
         line = lines[i].strip()
         if not line:
             continue
+        # Stop at the next H3 (section 2+); do not scan the alphabetical directory.
+        if line.startswith("### ") and not line.startswith("#### "):
+            break
         match = HEADING_RE.match(line)
         if match:
             headings.append((i + 1, match.group(1).strip()))
-    if not headings:
-        raise ValueError("Unable to parse any section 1 headings after the section heading.")
+    # Section 1 may be meta-only (no #### children); directory order is audited separately.
     return headings
 
 
@@ -107,13 +111,14 @@ def audit_file(path: pathlib.Path) -> list[str]:
     lines = raw.splitlines()
 
     violations: list[str] = []
-    try:
-        section1_headings = collect_section1_headings(lines)
-    except ValueError as exc:
-        violations.append(str(exc))
-    else:
-        for violation in find_order_violations(section1_headings):
-            violations.append(f"{path}:{violation}")
+    if SECTION1_HEADING in raw:
+        try:
+            section1_headings = collect_section1_headings(lines)
+        except ValueError as exc:
+            violations.append(str(exc))
+        else:
+            for violation in find_order_violations(section1_headings):
+                violations.append(f"{path}:{violation}")
 
     return violations
 
@@ -143,13 +148,21 @@ def audit_directory(root: pathlib.Path) -> list[str]:
     actual_defs = {
         (row.label, row.href) for row in rows if row.list_name == "Definitions A-Z"
     }
+    from ch5_paths import CH5_APEX
+
+    apex_prefix = tuple(f"{name}#" for name in CH5_APEX)
+    actual_defs_leaves = {
+        (label, href)
+        for label, href in actual_defs
+        if not href.startswith(apex_prefix)
+    }
     expected_clusters = {(cluster.label, cluster.href) for cluster in clusters}
     actual_clusters = {
         (row.label, row.href) for row in rows if row.list_name == "Clusters A-Z"
     }
     for label, href in sorted(expected_defs - actual_defs):
         violations.append(f"{root / CH5_PART_A}: missing definition directory row [{label}]({href})")
-    for label, href in sorted(actual_defs - expected_defs):
+    for label, href in sorted(actual_defs_leaves - expected_defs):
         violations.append(f"{root / CH5_PART_A}: extra definition directory row [{label}]({href})")
     for label, href in sorted(expected_clusters - actual_clusters):
         violations.append(f"{root / CH5_PART_A}: missing cluster directory row [{label}]({href})")

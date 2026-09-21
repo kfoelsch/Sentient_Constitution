@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Start here (public door)
+    url: https://github.com/kfoelsch/Sentient_Constitution/blob/main/START_HERE.md
+    about: What the Sentient Constitution is, pre-release status, fit tests, and the three doors. Reading it is not adoption.
+  - name: How to contribute
+    url: https://github.com/kfoelsch/Sentient_Constitution/blob/main/CONTRIBUTING.md
+    about: Contribution lanes, gates, workflow, and roles for human and AI contributors.
+  - name: Vision and maturity path
+    url: https://github.com/kfoelsch/Sentient_Constitution/blob/main/VISION.md
+    about: Where the corpus stands, what mature means for each layer, and the path to a publication cut.
