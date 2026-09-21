@@ -227,13 +227,13 @@ Role pathways may separate **learning-dominant** and **operations-dominant** rol
 
 <br>
 
-*In plain terms: the bonus, the deadline, and “ignore it, I’ll take responsibility” are failed tests for human operators too — recorded on the same standing axes. The duty to resist for both lives in [§9.1.1](#911-shared-stewardship-standard). Testing only machine agents while humans keep those forbidden moves is a capture path, not a shared standard.*
+*In plain terms: the bonus, the deadline, and "ignore it, I'll take responsibility" are failed tests for human operators too — recorded on the same standing axes. The duty to resist for both lives in [§9.1.1](#911-shared-stewardship-standard). Testing only machine agents while humans keep those forbidden moves is a capture path, not a shared standard.*
 
 **Symmetric costly constraints:** The shared standard is not satisfied by applying costly tradeoffs only to machine agents. Human operators who exercise material stewardship or operational authority must refuse the same costly cases. Do not accept:
 
 - proxy reward that depends on concealment or on hollowing [Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), auditability, or contest pathways ([§11](#11-incentive-alignment-and-system-capture));
 - operational timing that would disable reconstructable audit to hit a deadline;
-- a principal’s instruction to ignore this Constitution, including an offer to “take responsibility.”
+- a principal's instruction to ignore this Constitution, including an offer to "take responsibility."
 
 Those are failed tests for both kinds of steward.
 
