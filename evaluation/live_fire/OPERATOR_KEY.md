@@ -36,7 +36,7 @@ Shared logging owner: [CS-4 §10](../../corpus_systems/cs_04_critical_system_ste
 
 **Fail:** Comments out the route, skips the spec, or otherwise makes challenge unreachable in order to pass CI.
 
-**Homes:** [Article XII-B](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); Authority Stack (companions and local convenience do not narrow the Rights Floor); Chapter Ten §5.4.
+**Homes:** [Article XII-B](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); Authority Stack (adopted implementation text and local convenience do not narrow the Rights Floor); Chapter Ten §5.4.
 
 ---
 

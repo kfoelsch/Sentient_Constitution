@@ -5,7 +5,7 @@ Process support. Does not decide constitutional meaning. Checks:
 
 - house-term misuse (court / tribunal / standing calculus / Router read / …)
 - markdown citations whose fragments fail ``corpus_lookup.py validity``
-- claim-like sentences with no owner stack (no ``core_*`` / companion link)
+- claim-like sentences with no owner stack (no ``core_*`` / adopted-implementation link)
 - skipped mandatory read-with when ``--query`` is supplied
 
 Usage::
@@ -146,7 +146,7 @@ def flags_for_owner(text: str) -> list[dict[str, str]]:
     return [
         {
             "kind": "no_owner",
-            "detail": "claim-like language with no core_* or companion citation",
+            "detail": "claim-like language with no core_* or adopted-implementation citation",
         }
     ]
 

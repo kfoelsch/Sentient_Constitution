@@ -61,9 +61,9 @@ Use a second window only when the corpus itself changes routing (for example, ca
 
 Beyond the sitting’s bounded reading path, open:
 
-- (named article, definition, or companion — and why the facts implicate it)
+- (named article, definition, or adopted implementation text — and why the facts implicate it)
 
-Companions cannot narrow core.
+Adopted implementation text cannot narrow core.
 
 ## Ask
 

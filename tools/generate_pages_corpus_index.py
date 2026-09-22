@@ -67,7 +67,7 @@ def render(root: Path) -> str:
     lines.extend(
         [
             "",
-            "## First-hour companions (process support)",
+            "## First-hour adopted implementation texts (process support)",
             "",
             f"- [START_HERE.md]({BLOB}START_HERE.md)",
             f"- [Rights Floor wall sheet]({BLOB}doc_architecture/generated/rights_floor_sheet.md)",

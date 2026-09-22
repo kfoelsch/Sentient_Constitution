@@ -5,7 +5,7 @@
 <!-- Keep one. -->
 - [ ] A — Finding (defect fix, no change of meaning)
 - [ ] B — Evaluation result (new results file only)
-- [ ] C — Companion maturation (CS / CI / CF / CJS / Remedy / Emergency)
+- [ ] C — Adopted implementation maturation (CS / CI / CF / CJS / Remedy / Emergency)
 - [ ] D — Core text proposal (numbered `core_*` file) — linked Proposal issue: #
 - [ ] E — Tooling and audits
 
@@ -31,7 +31,7 @@ lane-specific targets    →  (steward-door-lockstep-audit, obligation-diff, ali
 
 ## Checklist
 
-- [ ] Core meaning not narrowed; no conflict resolved by bending a `core_*` file toward a companion
+- [ ] Core meaning not narrowed; no conflict resolved by bending a `core_*` file toward adopted implementation text
 - [ ] No duplicate definition or restated obligation; pointers used instead
 - [ ] Vocabulary guardrails followed (`doc_architecture.md` § Plain-Language Vocabulary Guardrails)
 - [ ] Derived artifacts regenerated and committed with the source change, or none affected

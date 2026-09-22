@@ -138,7 +138,7 @@ When a systems topic materially intersects **CI**, **CF**, or **CJS**, use [CJS-
 
 <br>
 
-| CS-D row | Topic (short) | CS primary owner | Companion read-with (systems-local) |
+| CS-D row | Topic (short) | CS primary owner | Adopted implementation text read-with (systems-local) |
 |----------|---------------|------------------|-------------------------------------|
 | **CS-D01** | Information types and handling taxonomy | **CS-2 — Information types and handling** | **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship** where classification scales handling |
 | **CS-D02** | System classification and dependency typing | **CS-3 — System classification and handling** | **CS-2 — Information types and handling**; **CS-4 — Critical system stewardship** where class scales stewardship |
@@ -173,7 +173,7 @@ For **CS-D12**, the in-scope catalog is **CS-5, Part A**. Constitutional-operati
 Some systems topics are **deliberately** split — for example taxonomy (**CS-2 — Information types and handling**), classification (**CS-3 — System classification and handling**), stewardship (**CS-4 — Critical system stewardship**), lifecycle engineering (**CS-5**), and user-reachable in-scope surfaces (**CS-5, Part A**). For those splits:
 
 - the **primary owner** named in the [Domain topic owner map (CS-D)](#domain-topic-owner-map-cs-d) states the **full operative** rules for its assigned scope;
-- companion **CS-5–CS-12** families specialize without redefining **CS-2–CS-4** taxonomy labels;
+- adopted implementation text **CS-5–CS-12** families specialize without redefining **CS-2–CS-4** taxonomy labels;
 - do **not** restate **CJS-3** operational clusters or **CI**/**CF** checklists except in brief pointer form when needed for coherence.
 
 For cross-layer overlap discipline, apply [CJS-1.7](../corpus_joint_structure/cjs_04_drafting_contracts.md#cjs-17-intentional-overlap-non-duplication-discipline) (*Intentional overlap (non-duplication discipline)*).

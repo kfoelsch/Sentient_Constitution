@@ -1,6 +1,6 @@
 ---
 name: Finding
-about: Report a defect — dead link, core/companion conflict, guardrail hit, unreadable passage, stale door or pin (Lane A)
+about: Report a defect — dead link, core/adopted-implementation conflict, guardrail hit, unreadable passage, stale door or pin (Lane A)
 title: "[Finding] "
 labels: ["lane-a-finding"]
 ---
@@ -21,12 +21,12 @@ labels: ["lane-a-finding"]
 
 ## Which layer wins
 
-<!-- If two files disagree, name both and say which one controls. Core (`core_*`) controls over companions and process pages. -->
+<!-- If two files disagree, name both and say which one controls. Core (`core_*`) controls over adopted implementation text and process pages. -->
 
 ## Kind
 
 - [ ] Dead or wrong link / anchor
-- [ ] Companion or process page contradicts a `core_*` file
+- [ ] Adopted implementation text or process page contradicts a `core_*` file
 - [ ] Vocabulary guardrail hit
 - [ ] Readability — an ordinary reader cannot follow it
 - [ ] Steward door or card out of lockstep with its core box

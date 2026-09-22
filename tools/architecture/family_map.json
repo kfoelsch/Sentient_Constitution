@@ -1,5 +1,5 @@
 {
-  "description": "Single source for companion family indexes (CJS / CS / CI / CF). Wrappers are generated from this map; *_00 annexes must not duplicate the full TOC.",
+  "description": "Single source for adopted-implementation family indexes (CJS / CS / CI / CF). Wrappers are generated from this map; *_00 annexes must not duplicate the full TOC.",
   "cjs3_cluster_homes": {
     "3.0": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
     "3.1": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",

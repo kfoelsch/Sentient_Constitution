@@ -2,7 +2,7 @@
 
 **Purpose:** Enable token-efficient AI access to the constitutional corpus while preserving human readability.
 
-**Authority:** These indexes are **derived locators**. Numbered `core_*` files and incorporated companions bind. On conflict, source text wins. Indexes cannot narrow core meaning.
+**Authority:** These indexes are **derived locators**. Numbered `core_*` files and incorporated adopted implementation text bind. On conflict, source text wins. Indexes cannot narrow core meaning.
 
 ---
 
@@ -125,14 +125,14 @@ python3 tools/corpus_lookup.py validity --file FILE --anchor '#fragment'
 
 ### Tier 3: Binding source
 
-7. Named `core_*` file or companion subfile from the locator
+7. Named `core_*` file or adopted implementation subfile from the locator
 8. Mandatory read-with files from the topic row
 
 ---
 
 ## Current corpus shape (do not use retired filenames)
 
-Chapter Five lives in **band and apex files** (`core_05_band_*.md`, `core_05_apex_*.md`), with Part A compass in `core_05__definitions_home.md`. Companions are **folders** (`corpus_systems/`, `corpus_institutions/`, `corpus_forum/`, `corpus_joint_structure/`) plus root wrappers. Rights Floor is **Chapter Six** (`core_06_rights_part_*.md`). Standing measurement is **Chapter Eight**; standing effects are **Chapter Nine**.
+Chapter Five lives in **band and apex files** (`core_05_band_*.md`, `core_05_apex_*.md`), with Part A compass in `core_05__definitions_home.md`. Adopted implementation text lives in **folders** (`corpus_systems/`, `corpus_institutions/`, `corpus_forum/`, `corpus_joint_structure/`) plus root wrappers. Rights Floor is **Chapter Six** (`core_06_rights_part_*.md`). Standing measurement is **Chapter Eight**; standing effects are **Chapter Nine**.
 
 Inventory of current files: `ai_corpus/visualization/dependency_map.mmd` (generated file list, not a citation-weight graph). Citation edges: `crossref_matrix.json` and `section_crossref.json`.
 

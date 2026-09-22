@@ -91,7 +91,7 @@ Beyond the sitting’s bounded reading path, open:
 - [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*) only if the job lock is used to defeat lawful work Mika can actually do; do not drag the employer into a family-merits case it is not in
 - [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) and [Article XXIV-C](../../../core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) on the six- and eight-day clocks
 
-Companions cannot narrow core. If a pointer and core diverge, core wins.
+Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 
 ## Ask
 

@@ -1,35 +1,35 @@
 #!/usr/bin/env python3
-"""Tests for NAV-IMPL-FILENAME-01 companion filename parsing."""
+"""Tests for NAV-IMPL-FILENAME-01 adopted-implementation filename parsing."""
 
 from __future__ import annotations
 
 import unittest
 
-from companion_filename_audit import audit_filenames, parse_companion_filename
+from adopted_implementation_filename_audit import audit_filenames, parse_adopted_implementation_filename
 
 
 class ParseTests(unittest.TestCase):
     def test_undifferenced_home(self) -> None:
-        item = parse_companion_filename("cjs_02_specific_joint_interlocks.md")
+        item = parse_adopted_implementation_filename("cjs_02_specific_joint_interlocks.md")
         assert item is not None
         self.assertEqual(item.layer, "cjs")
         self.assertEqual(item.number, "02")
         self.assertEqual(item.part, "")
 
     def test_glued_letter(self) -> None:
-        item = parse_companion_filename("cjs_03o_oversight_operations.md")
+        item = parse_adopted_implementation_filename("cjs_03o_oversight_operations.md")
         assert item is not None
         self.assertEqual(item.part, "o")
 
     def test_cs_part_letter(self) -> None:
-        item = parse_companion_filename("cs_02_a_information_types_and_handling.md")
+        item = parse_adopted_implementation_filename("cs_02_a_information_types_and_handling.md")
         assert item is not None
         self.assertEqual(item.layer, "cs")
         self.assertEqual(item.number, "02")
         self.assertEqual(item.part, "a")
 
     def test_unparseable_numbered_name(self) -> None:
-        self.assertIsNone(parse_companion_filename("cjs_02hybrid.md"))
+        self.assertIsNone(parse_adopted_implementation_filename("cjs_02hybrid.md"))
 
 
 class AuditTests(unittest.TestCase):

@@ -113,7 +113,7 @@ This subsection states only **institutional-local** split discipline. Some insti
 For those splits:
 
 - the designated **primary owner** states the **full operative** rules for its assigned scope;
-- companion **CI** sections add only the interface text their scope requires;
+- adopted implementation text **CI** sections add only the interface text their scope requires;
 - for cross-layer topics, name the primary owner from the applicable row in [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-implementation read-with contract*);
 - do **not** restate **CJS-3** operational clusters, **CS** classification tables, or **CF** checklists except in brief pointer form when needed for coherence.
 

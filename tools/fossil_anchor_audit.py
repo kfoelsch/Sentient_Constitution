@@ -2,7 +2,7 @@
 """Pre-release fragment policy: one current id per heading; no fossil aliases.
 
 Fails when a numbered heading still carries leftover fragment ids from an
-earlier number or title, or when companion family headings still keep the
+earlier number or title, or when adopted-implementation family headings still keep the
 pre-promotion ``#2-…`` id beside ``#cs-4-2-…``. ``--write`` retargets live
 citations to the current id and removes the leftover ``<a id>`` tags.
 
@@ -102,7 +102,7 @@ def live_text_files(root: Path) -> list[Path]:
     return out
 
 
-def companion_heading_prunes(root: Path) -> list[Prune]:
+def adopted_implementation_heading_prunes(root: Path) -> list[Prune]:
     prunes: list[Prune] = []
     for rel in binding_corpus_scope(root):
         path = root / rel
@@ -157,7 +157,7 @@ def collect_prunes(root: Path) -> list[Prune]:
         for fossil in row.get("fossil_anchors") or []:
             add(Prune(row["file"], fossil.lstrip("#"), current))
 
-    for item in companion_heading_prunes(root):
+    for item in adopted_implementation_heading_prunes(root):
         add(item)
 
     cards_path = root / STEWARD_CARDS

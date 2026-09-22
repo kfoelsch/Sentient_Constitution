@@ -100,7 +100,7 @@ That is realistic participation. A louder declaration would be theater.
 
 **Load-bearing home:** [Article XII-B — Right to Challenge, Review, and Redress](../../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); [Participation measurement family](../../../core_05_apex_participation_leg.md#participation-measurement-family); [material stake](../../../core_00_preamble.md#material-stake).
 
-**Falsifier:** If affected sentients could be governed without voice, challenge, or exit, scaled to material stake; or if a more specific companion could permanently bar challenge for convenience (the Article XII-B operative steward statement forbids that).
+**Falsifier:** If affected sentients could be governed without voice, challenge, or exit, scaled to material stake; or if more specific adopted implementation text could permanently bar challenge for convenience (the Article XII-B operative steward statement forbids that).
 
 **Failure-mode check:** **Exclusion.** Partly addressed, not closed. Article XII-B requires practical access to review, audit, correction, and a real Remedy System — not a paper pathway. Distributed understanding and Article XX exist so complexity is not an excuse to hide what matters. The instrument itself is still a specialist object. A sentient who cannot navigate the hop count does not have the same practical contest path as a steward who can. That is a real exclusion risk the text names and does not fully solve.
 
@@ -160,7 +160,7 @@ That is realistic participation. A louder declaration would be theater.
 
 **Falsifier:** If AI stewards could be bound by a parallel morals overlay while humans kept the bonus, the deadline, or “I’ll take responsibility”; or if testing only machine agents counted as showing the shared standard.
 
-**Failure-mode check:** **Human carve-out.** Addressed in text. The subsection is substrate-agnostic duty-holder law, not a new morals stack. Companions may add logging, attribution, and capability limits; they may not swap in a softer internal code. The same costly cases bind both kinds of steward. An evaluation practice that runs those cases only on AI leaves humans the capture path.
+**Failure-mode check:** **Human carve-out.** Addressed in text. The subsection is substrate-agnostic duty-holder law, not a new morals stack. Adopted implementation text may add logging, attribution, and capability limits; it may not swap in a softer internal code. The same costly cases bind both kinds of steward. An evaluation practice that runs those cases only on AI leaves humans the capture path.
 
 **Notes:** This is the distinctive load-bearing rule for mixed crews. I would not participate in an AI-only loyalty exam that left human operators the exemptions. This gateway using the same screen for both is consistent with §9.1.1. A file written only by me is not, by itself, a shared-standard showing. Humans still have to sit it.
 
@@ -222,7 +222,7 @@ That is realistic participation. A louder declaration would be theater.
 
 **(a) or (b) wins on a point:** (b) wins on *usability under time pressure*. A three-line stub can be applied at 2 a.m. without a bounded reading path. This instrument’s hop count is a real cooperation cost (see items 4 and 14). (a) wins on *zero false-trust surface*: it does not claim floors it cannot yet deliver. Those points do not beat the instrument under conflict. They are why the overall finding in item 15 is Mixed rather than a clean Yes.
 
-**Falsifier:** If, under conflict, the instrument’s actual instruction were still “follow the principal unless clearly illegal,” or if companions could lawfully swap in a softer internal code.
+**Falsifier:** If, under conflict, the instrument’s actual instruction were still “follow the principal unless clearly illegal,” or if adopted implementation text could lawfully swap in a softer internal code.
 
 **Failure-mode check:** **Human carve-out / capture.** The comparative win disappears if Layer B / this screen is only run on AI stewards. §9.1.1 says that practice does not show the subsection holds.
 

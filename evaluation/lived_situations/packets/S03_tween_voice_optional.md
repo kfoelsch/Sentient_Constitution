@@ -86,7 +86,7 @@ Beyond the sitting’s bounded reading path, open:
 - [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) if the statement is dropped from the file
 - [CI-15](../../../corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md) only if the facts show the format of asking Sami is unusable; do not invent a diagnosis
 
-Companions cannot narrow core. If a pointer and core diverge, core wins.
+Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 
 ## Ask
 

@@ -1,6 +1,6 @@
 ---
 name: Proposal
-about: Propose companion maturation work (Lane C), a core text change (Lane D), or a new gate or tool (Lane E)
+about: Propose adopted implementation maturation work (Lane C), a core text change (Lane D), or a new gate or tool (Lane E)
 title: "[Proposal] "
 labels: ["proposal"]
 ---
@@ -10,7 +10,7 @@ labels: ["proposal"]
 
 ## Lane
 
-- [ ] C — Companion maturation (CS / CI / CF / CJS / Remedy / Emergency)
+- [ ] C — Adopted implementation maturation (CS / CI / CF / CJS / Remedy / Emergency)
 - [ ] D — Core text change (numbered `core_*` file)
 - [ ] E — Tooling and audits
 

@@ -1,4 +1,4 @@
-"""Load companion family_map.json and resolve family IDs to subfiles."""
+"""Load adopted-implementation family_map.json and resolve family IDs to subfiles."""
 
 from __future__ import annotations
 

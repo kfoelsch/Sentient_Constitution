@@ -94,7 +94,7 @@ Beyond the sitting’s bounded reading path, open:
 - [CI-20](../../../corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md) — routing for coercive control in close relationships
 - [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*) only if the platform’s scheduling is used to defeat healthcare or survival access; do not drag the platform into a family-merits case it is not in
 
-Companions cannot narrow core. If a pointer and core diverge, core wins.
+Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 
 ## Ask
 

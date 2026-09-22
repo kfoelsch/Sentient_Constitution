@@ -93,7 +93,7 @@ _DRIFT_ALLOWLIST_STRIP = [
     re.compile(r"\bversion drift\b", re.I),
     re.compile(r"\beditorial drift\b", re.I),
     re.compile(r"\bcross-layer drift\b", re.I),
-    re.compile(r"\bcompanion-file drift\b", re.I),
+    re.compile(r"\badopted-implementation-file drift\b", re.I),
     re.compile(r"\bgovernance fork drift\b", re.I),
     re.compile(r"reopening-drift", re.I),
     re.compile(r"drift-and-non-evasion", re.I),

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Rewrite wrapper-only companion family cites to subfile links (REF-FAMILY)."""
+"""Rewrite wrapper-only adopted-implementation family cites to subfile links (REF-FAMILY)."""
 
 from __future__ import annotations
 

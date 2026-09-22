@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Delete content-free navigation scaffolding from companion implementation files.
+"""Delete content-free navigation scaffolding from adopted-implementation files.
 
 Only lines that carry no routing a reader could not already derive are removed:
 
@@ -23,7 +23,7 @@ import re
 import sys
 from pathlib import Path
 
-from corpus_paths import COMPANION_SUBDIRS
+from corpus_paths import ADOPTED_IMPLEMENTATION_SUBDIRS
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -171,7 +171,7 @@ def prune_file(path: Path) -> tuple[str, dict[str, int]]:
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--root", type=Path, default=ROOT)
-    parser.add_argument("--layer", help="Restrict to one companion subdirectory.")
+    parser.add_argument("--layer", help="Restrict to one adopted-implementation subdirectory.")
     parser.add_argument("--write", action="store_true", help="Apply changes to disk.")
     return parser.parse_args()
 
@@ -179,7 +179,7 @@ def parse_args() -> argparse.Namespace:
 def main() -> int:
     args = parse_args()
     root = args.root.resolve()
-    subdirs = [args.layer] if args.layer else list(COMPANION_SUBDIRS)
+    subdirs = [args.layer] if args.layer else list(ADOPTED_IMPLEMENTATION_SUBDIRS)
 
     totals = {"downstream": 0, "read_with": 0, "upstream": 0, "trace": 0, "dac": 0}
     changed = 0

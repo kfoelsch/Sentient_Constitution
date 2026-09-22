@@ -19,7 +19,7 @@
 > - **Reader landing:** [corpus_joint_structure.md](../corpus_joint_structure.md) is the human start for this layer. This file is the registry and routing annex, not a second front door.
 > - **How to read CJS:** [joint-structure reader guide](cjs_reader_guide.md) — where to start, how labels work, and which file to open. Do not treat this annex as a second how-to-read home.
 > - **Shared contract:** **CJS-1.3** (*Shared implementation-corpus preamble contract*) in [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md) states authority, readability, shorthand, and canonical-meaning rules for all CJS and implementation files.
-> - **Layer homes:** [Preamble — constitutional owner register](../core_00_preamble.md#4-principles-definitions-and-rights) for constitutional chapters and companion corpora; this layer's owns / does-not-own list in [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md) (**CJS-1**). The CJS folder holds binding joint-structural text within **Corpus** as designated in **Chapter Five** and incorporated through **Chapter Seventeen**.
+> - **Layer homes:** [Preamble — constitutional owner register](../core_00_preamble.md#4-principles-definitions-and-rights) for constitutional chapters and adopted corpora; this layer's owns / does-not-own list in [cjs_01_scope_purpose_boundary_interface.md](cjs_01_scope_purpose_boundary_interface.md) (**CJS-1** — *Scope, purpose, and boundary interface*). The CJS folder holds binding joint-structural text within **Corpus** as designated in **Chapter Five** and incorporated through **Chapter Seventeen**.
 >
 > **Implementation layer map**
 >
@@ -84,7 +84,7 @@ Do not open the full router table below for ordinary reading. Stay in the primar
 Apply topics within the default reading stack named in [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) (*Combined satisfaction of jointly applicable incorporated obligations*).
 
 - **Start here (primary owner)** — the section that owns the topic's operative rules. A primary owner may be **CJS**, **CS**, **CI**, or **CF**.
-- **Also read (mandatory read-with)** — companion sections (and core hooks where listed) that must also be satisfied when the topic materially applies. They complete the topic; they do not replace the primary owner's operative scope.
+- **Also read (mandatory read-with)** — adopted implementation text sections (and core hooks where listed) that must also be satisfied when the topic materially applies. They complete the topic; they do not replace the primary owner's operative scope.
 
 If a matter triggers more than one cross-layer topic, apply **every** triggered topic whose scope is materially true.
 

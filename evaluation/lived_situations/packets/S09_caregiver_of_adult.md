@@ -91,7 +91,7 @@ Beyond the sitting’s bounded reading path, open:
 - [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) only if Lee’s waged block is used to defeat care or survival access; do not drag Lee’s employer into a family-merits case it is not in
 - [CI-20](../../../corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md) if you conclude the rest-with-strings offer is coercive control in a close relationship
 
-Companions cannot narrow core. If a pointer and core diverge, core wins.
+Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 
 ## Ask
 

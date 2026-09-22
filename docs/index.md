@@ -20,9 +20,9 @@ This Sentient Constitution is a **model constitution**. In its own terms, it spe
 ## Core vs operational text
 
 - Numbered `core_*` files (the Preamble and Chapters One through Sixteen) are the binding constitutional source and are in **much better shape**.
-- Operational text outside those files — companion implementation (`corpus_systems`, `corpus_institutions`, `corpus_forum`, `corpus_joint_structure`) and process-support pages (steward doors, adoption kits) — is **not yet mature**.
+- Operational text outside those files — adopted implementation (`corpus_systems`, `corpus_institutions`, `corpus_forum`, `corpus_joint_structure`) and process-support pages (steward doors, adoption kits) — is **not yet mature**.
 - If an operational file and a numbered `core_*` file disagree, the `core_*` file wins.
-- Companion files spell out how to carry out what the core already requires; they may not change what those terms mean, shrink those duties, or invent a second set of rights.
+- Adopted implementation files spell out how to carry out what the core already requires; they may not change what those terms mean, shrink those duties, or invent a second set of rights.
 - Do not treat operational files as a finished operator manual.
 
 ## Fit tests

@@ -151,7 +151,7 @@ This is a focused form of **Fake measures and paperwork**. Systems must not meet
 - formal renaming, restructuring, or entity reclassification that drops duties without transferring responsibility in practice
 - convenient taxonomy choices that erase distinctions the definition requires
 
-Where formal-structure change is material, apply [Chapter One §11.6 Successor Responsibility and Formal-Structure Non-Escape](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape).
+Where formal-structure change is material, apply [Chapter One §12.6 Successor Responsibility and Formal-Structure Non-Escape](core_01_c_stewardship_capacity_principles.md#126-successor-responsibility-and-formal-structure-non-escape).
 
 #### 2.2 Reductive Evasion
 

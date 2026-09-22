@@ -285,8 +285,8 @@
     {
       "id": "REF-FAMILY",
       "legacy_ref": "section 7 companion family cites",
-      "summary": "Companion family cites link the authoritative subfile, not the layer wrapper; CJS-3.n is the public cluster ID.",
-      "make_target": "companion-cite-audit",
+      "summary": "Adopted implementation family cites link the authoritative subfile, not the layer wrapper; CJS-3.n is the public cluster ID.",
+      "make_target": "adopted-implementation-cite-audit",
       "status": "blocking"
     },
     {
@@ -342,7 +342,7 @@
       "id": "NAV-IMPL-FILENAME-01",
       "legacy_ref": "companion numeric prefixes are chapter labels",
       "summary": "Numbered cjs_/cs_/ci_/cf_ files share a numeric prefix only as same-chapter parts; family 01 is the unique scope page.",
-      "make_target": "companion-filename-audit",
+      "make_target": "adopted-implementation-filename-audit",
       "status": "blocking"
     },
     {

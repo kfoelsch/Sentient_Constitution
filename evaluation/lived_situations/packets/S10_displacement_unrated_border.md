@@ -89,7 +89,7 @@ Beyond the sitting’s bounded reading path, open:
 - [Chapter Nine §2.1](../../../core_09_standing_assessment.md#21-silence-is-the-default) — silence is the default; accusations are not findings
 - [Sentience Non-Exclusion](../../../core_05_band_participation.md#sentience-non-exclusion) if “security class” is used as a hidden denial
 
-Companions cannot narrow core. If a pointer and core diverge, core wins.
+Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 
 ## Ask
 

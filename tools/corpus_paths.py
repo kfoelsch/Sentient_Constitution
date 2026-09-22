@@ -47,14 +47,14 @@ CORE_FILES = (
     "core_17_incorporation.md",
 )
 
-COMPANION_WRAPPERS = (
+ADOPTED_IMPLEMENTATION_WRAPPERS = (
     "corpus_systems.md",
     "corpus_institutions.md",
     "corpus_forum.md",
     "corpus_joint_structure.md",
 )
 
-COMPANION_SUBDIRS = (
+ADOPTED_IMPLEMENTATION_SUBDIRS = (
     "corpus_joint_structure",
     "corpus_systems",
     "corpus_institutions",
@@ -64,9 +64,9 @@ COMPANION_SUBDIRS = (
 SUPPORT_DOCS = ("doc_architecture.md", "README.md")
 
 
-def companion_subfiles(root: Path) -> list[str]:
+def adopted_implementation_subfiles(root: Path) -> list[str]:
     paths: list[str] = []
-    for subdir in COMPANION_SUBDIRS:
+    for subdir in ADOPTED_IMPLEMENTATION_SUBDIRS:
         base = root / subdir
         if base.is_dir():
             paths.extend(
@@ -78,7 +78,7 @@ def companion_subfiles(root: Path) -> list[str]:
 
 
 def binding_corpus_scope(root: Path, *, include_support_docs: bool = False) -> list[str]:
-    scope = [*CORE_FILES, *COMPANION_WRAPPERS, *companion_subfiles(root)]
+    scope = [*CORE_FILES, *ADOPTED_IMPLEMENTATION_WRAPPERS, *adopted_implementation_subfiles(root)]
     if include_support_docs:
         scope.extend(SUPPORT_DOCS)
     return scope

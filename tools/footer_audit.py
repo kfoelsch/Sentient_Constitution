@@ -204,7 +204,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--repair",
         action="store_true",
-        help="Rewrite footers to the canonical template (companion subfiles only).",
+        help="Rewrite footers to the canonical template (adopted-implementation subfiles only).",
     )
     return parser.parse_args()
 

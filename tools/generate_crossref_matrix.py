@@ -33,7 +33,7 @@ def main() -> int:
     nodes = [
         {
             "id": path.relative_to(root).as_posix(),
-            "type": "core" if path.name.startswith("core_") else "companion",
+            "type": "core" if path.name.startswith("core_") else "adopted-implementation",
         }
         for path in sources
     ]

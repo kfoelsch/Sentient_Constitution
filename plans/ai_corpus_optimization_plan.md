@@ -8,7 +8,7 @@
 
 ## Executive Summary
 
-The active corpus scope includes the numbered core constitutional files, companion root files, and companion subfiles discovered by `tools/corpus_paths.py`, totaling 15,000+ lines of interconnected legal-technical text. Current challenges include:
+The active corpus scope includes the numbered core constitutional files, adopted implementation root files, and adopted implementation subfiles discovered by `tools/corpus_paths.py`, totaling 15,000+ lines of interconnected legal-technical text. Current challenges include:
 
 - **File sizes range from 400 to 2,500+ lines**, making full-file context expensive
 - **Dense cross-references** create dependency chains requiring multiple file reads
@@ -55,10 +55,10 @@ The older per-definition JSON files under `ai_corpus/definitions/` are retained 
 | `core_13_governance.md` | ~330 | Core | Chapter 11 (constitutional contract) |
 | `core_14_non_regression.md` | ~640 | Core | Chapters 12-13 (non-regression, amendment) |
 | `core_17_incorporation.md` | ~160 | Core | Chapter 15 (incorporation bridge) |
-| `corpus_systems.md` | ~2,170 | Companion | Systems companion (CS-2–CS-4, Protocols A, B, S4, S5) |
-| `corpus_institutions.md` | ~940 | Companion | Institutional governance (CI-1 to CI-26) |
-| `corpus_forum.md` | ~1,150 | Companion | Forum operations |
-| `corpus_joint_structure.md` | ~1,730 | Companion | Cross-domain implementation layer |
+| `corpus_systems.md` | ~2,170 | Adopted | Systems adopted implementation text (CS-2–CS-4, Protocols A, B, S4, S5) |
+| `corpus_institutions.md` | ~940 | Adopted | Institutional governance (CI-1 to CI-26) |
+| `corpus_forum.md` | ~1,150 | Adopted | Forum operations |
+| `corpus_joint_structure.md` | ~1,730 | Adopted | Cross-domain implementation layer |
 
 ### 1.2 Cross-Reference Density Analysis
 
@@ -87,7 +87,7 @@ When editing content that uses defined terms:
 For Chapter 10 rights editing:
 1. Read the specific Article from core_06_rights_part_*.md
 2. Read doc_architecture.md section 2 for corpus role mapping
-3. Read relevant implementation companion sections only if operational detail needed
+3. Read relevant adopted implementation text sections only if operational detail needed
 ```
 
 **Pattern C: Minimal Viable Context**
@@ -172,7 +172,7 @@ Directed graph of file-to-file Markdown references:
 
 Mermaid diagram showing:
 - Core constitutional files as primary nodes
-- Companion files as secondary nodes
+- Adopted implementation files as secondary nodes
 - Cross-reference edges with thickness indicating density
 - Color-coding for dependency direction
 

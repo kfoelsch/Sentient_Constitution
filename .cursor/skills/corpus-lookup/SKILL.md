@@ -1,6 +1,6 @@
 ---
 name: corpus-lookup
-description: Resolves Sentient Constitution IDs, Chapter Five terms, CJS-0.1 topics, and steward doors through tools/corpus_lookup.py, then hydrates authentic source spans. Use when looking up CF-10, Def.P1, CJS-R09, core_* citations, companion sections, steward entry doors, or when citing constitutional text.
+description: Resolves Sentient Constitution IDs, Chapter Five terms, CJS-0.1 topics, and steward doors through tools/corpus_lookup.py, then hydrates authentic source spans. Use when looking up CF-10, Def.P1, CJS-R09, core_* citations, adopted implementation text sections, steward entry doors, or when citing constitutional text.
 ---
 
 # Corpus lookup

@@ -1,7 +1,7 @@
 # AI-Optimized Corpus Mirror
 
 **Status:** Derived locators. Not binding.
-**Source of Truth:** The numbered `core_*.md` files and incorporated companion corpus files remain authoritative. The root `corpus_joint_structure.md` file is a compatibility wrapper whose substantive text is in `corpus_joint_structure/` subfiles.
+**Source of Truth:** The numbered `core_*.md` files and incorporated adopted corpus files remain authoritative. The root `corpus_joint_structure.md` file is a compatibility wrapper whose substantive text is in `corpus_joint_structure/` subfiles.
 
 ## Purpose
 
@@ -16,7 +16,7 @@ Indexes **point**. They do not restate duties. On conflict, root source files al
 
 ## Authority Stack
 
-1. **Authoritative:** Numbered `core_*.md` files, companion root files, and companion subfiles
+1. **Authoritative:** Numbered `core_*.md` files, adopted implementation root files, and adopted implementation subfiles
 2. **Derived (this directory):** AI locators and indexes
 3. **On conflict:** Root directory files always prevail
 
@@ -44,7 +44,7 @@ ai_corpus/
 
 When source files change:
 
-1. Edit authoritative source files (`core_*.md`, companion root files, or companion subfiles)
+1. Edit authoritative source files (`core_*.md`, adopted implementation root files, or adopted implementation subfiles)
 2. Run: `make ai-corpus-sync` (regenerates this directory)
 3. Commit both source and derived files together
 4. Never edit this directory directly — always regenerate from source

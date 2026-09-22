@@ -15,7 +15,7 @@ import re
 import sys
 from pathlib import Path
 
-from corpus_paths import COMPANION_WRAPPERS, binding_corpus_scope
+from corpus_paths import ADOPTED_IMPLEMENTATION_WRAPPERS, binding_corpus_scope
 from widget_top_placement_audit import (
     DEC_SUMMARY,
     PLACEMENT_SUMMARY,
@@ -29,7 +29,7 @@ from widget_top_placement_audit import (
 )
 
 ROOT = Path(__file__).resolve().parents[1]
-WRAPPER_NAMES = set(COMPANION_WRAPPERS)
+WRAPPER_NAMES = set(ADOPTED_IMPLEMENTATION_WRAPPERS)
 STACK_KINDS = {"placement", "reader", "trace", "dac"}
 PLAIN_TERMS_RE = re.compile(r"^\*In plain terms[:,]")
 NON_OPERATIVE_SUBTITLE_RE = re.compile(r"^\*Non-operative subtitle:")

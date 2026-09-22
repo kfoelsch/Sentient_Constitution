@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Flag wrapper-only companion family cites that should point at subfiles.
+"""Flag wrapper-only adopted-implementation family cites that should point at subfiles.
 
 REF-FAMILY: when a family file exists, cite the subfile (and optional anchor),
 not the layer wrapper. ``oDef.*n*`` remains an alias of **CJS-3.*n***.
@@ -17,7 +17,7 @@ if str(_TOOLS) not in sys.path:
 
 from corpus_paths import binding_corpus_scope  # noqa: E402
 from family_map_lib import load_family_map, resolve_section_file  # noqa: E402
-from rewrite_companion_cites import WRAPPER_BOLD_RE, WRAPPER_LINK_RE, family_token  # noqa: E402
+from rewrite_adopted_implementation_cites import WRAPPER_BOLD_RE, WRAPPER_LINK_RE, family_token  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -55,11 +55,11 @@ def main() -> int:
                     f"— use the subfile for {token}"
                 )
     if findings:
-        print("Companion cite audit failures:", file=sys.stderr)
+        print("Adopted implementation cite audit failures:", file=sys.stderr)
         for item in findings:
             print(f"  - {item}", file=sys.stderr)
         return 1
-    print("Companion cite audit OK (no wrapper-only family cites).")
+    print("Adopted implementation cite audit OK (no wrapper-only family cites).")
     return 0
 
 

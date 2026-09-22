@@ -33,7 +33,7 @@ REGISTRY_GLOBS = (
 )
 # There are no live redirect stubs in the normalized CJS family.
 PLACEMENT_EXEMPT: set[str] = set()
-COMPANION_GLOBS = (
+ADOPTED_IMPLEMENTATION_GLOBS = (
     "corpus_joint_structure/*.md",
     "corpus_systems/*.md",
     "corpus_institutions/*.md",
@@ -45,10 +45,10 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--root", type=Path, default=ROOT)
     parser.add_argument(
-        "--include-companions",
+        "--include-adopted-implementation",
         action="store_true",
         help=(
-            "Apply placement-widget discipline to every companion subfile, not "
+            "Apply placement-widget discipline to every adopted-implementation subfile, not "
             "only the *_00 registry annexes."
         ),
     )
@@ -186,8 +186,8 @@ def audit_registry(path: Path, root: Path) -> list[str]:
     return findings
 
 
-def audit_companion(path: Path, root: Path) -> list[str]:
-    """Placement discipline for substantive companion subfiles.
+def audit_adopted_implementation(path: Path, root: Path) -> list[str]:
+    """Placement discipline for substantive adopted-implementation subfiles.
 
     Looser than the ``*_00`` registry annexes in two ways, matching how the
     numbered ``core_*`` files already read: a visible **Quick orientation**
@@ -225,11 +225,11 @@ def main() -> int:
     for path in sorted(registry_paths):
         all_findings.extend(audit_registry(path, root))
 
-    if args.include_companions:
-        for pattern in COMPANION_GLOBS:
+    if args.include_adopted_implementation:
+        for pattern in ADOPTED_IMPLEMENTATION_GLOBS:
             for path in sorted(root.glob(pattern)):
                 if path.is_file() and path not in registry_paths:
-                    all_findings.extend(audit_companion(path, root))
+                    all_findings.extend(audit_adopted_implementation(path, root))
 
     if all_findings:
         print("File-top placement audit failures:", file=sys.stderr)

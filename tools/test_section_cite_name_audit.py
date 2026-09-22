@@ -92,7 +92,7 @@ class SectionCiteNameTests(unittest.TestCase):
             [],
         )
 
-    def test_skips_companion_family_section_tokens(self) -> None:
+    def test_skips_adopted_implementation_family_section_tokens(self) -> None:
         self.assertEqual(
             self._cites("The CS-4 §10 log is not itself a finding."),
             [],

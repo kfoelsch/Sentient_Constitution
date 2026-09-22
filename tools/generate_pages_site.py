@@ -26,9 +26,9 @@ if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
 from corpus_paths import (  # noqa: E402
-    COMPANION_WRAPPERS,
+    ADOPTED_IMPLEMENTATION_WRAPPERS,
     CORE_FILES,
-    companion_subfiles,
+    adopted_implementation_subfiles,
 )
 from generate_pages_corpus_index import first_heading  # noqa: E402
 from generate_plain_terms_edition import read_edition  # noqa: E402
@@ -99,9 +99,9 @@ def publish_list(root: Path) -> list[str]:
 
     for rel in CORE_FILES:
         add(rel)
-    for rel in COMPANION_WRAPPERS:
+    for rel in ADOPTED_IMPLEMENTATION_WRAPPERS:
         add(rel)
-    for rel in companion_subfiles(root):
+    for rel in adopted_implementation_subfiles(root):
         add(rel)
     for rel in FIXED_SUPPORT:
         add(rel)
@@ -174,7 +174,7 @@ def render_corpus_index(root: Path, published: list[str]) -> str:
     lines.extend(
         [
             "",
-            "## First-hour companions (process support)",
+            "## First-hour adopted implementation texts (process support)",
             "",
             "- [START_HERE.md](START_HERE.md)",
             "- [Rights Floor wall sheet](doc_architecture/generated/rights_floor_sheet.md)",

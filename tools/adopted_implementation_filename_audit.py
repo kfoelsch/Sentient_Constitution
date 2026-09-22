@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""NAV-IMPL-FILENAME-01: companion files share a numeric prefix only as chapter parts.
+"""NAV-IMPL-FILENAME-01: adopted-implementation files share a numeric prefix only as chapter parts.
 
 Undifferenced ``cjs_02_foo.md`` and ``cjs_02_bar.md`` are not parts of one chapter.
 Same-chapter extras need a discriminator: glued letter (``cjs_03o_``) or CS-style
@@ -17,7 +17,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 
-COMPANION_DIRS = (
+ADOPTED_IMPLEMENTATION_DIRS = (
     "corpus_joint_structure",
     "corpus_systems",
     "corpus_institutions",
@@ -25,7 +25,7 @@ COMPANION_DIRS = (
 )
 
 NUMBERED_PREFIX_RE = re.compile(r"^(cjs|cs|ci|cf)_\d", re.I)
-COMPANION_FILE_RE = re.compile(
+ADOPTED_IMPLEMENTATION_FILE_RE = re.compile(
     r"^(cjs|cs|ci|cf)_(\d{2,})(?:([a-z]+)|_([a-z]))?_(.+)\.md$",
     re.I,
 )
@@ -33,7 +33,7 @@ SINGLETON_FAMILIES = {"01"}
 
 
 @dataclass(frozen=True)
-class CompanionName:
+class AdoptedImplementationName:
     layer: str
     number: str
     part: str
@@ -49,18 +49,18 @@ class CompanionName:
         return (self.layer, self.number, self.part)
 
 
-def parse_companion_filename(name: str) -> CompanionName | None:
-    match = COMPANION_FILE_RE.fullmatch(name)
+def parse_adopted_implementation_filename(name: str) -> AdoptedImplementationName | None:
+    match = ADOPTED_IMPLEMENTATION_FILE_RE.fullmatch(name)
     if not match:
         return None
     layer, number, glued, us_letter, rest = match.groups()
     part = (glued or us_letter or "").lower()
-    return CompanionName(layer.lower(), number, part, rest, name)
+    return AdoptedImplementationName(layer.lower(), number, part, rest, name)
 
 
-def iter_companion_filenames(root: Path) -> list[str]:
+def iter_adopted_implementation_filenames(root: Path) -> list[str]:
     names: list[str] = []
-    for rel in COMPANION_DIRS:
+    for rel in ADOPTED_IMPLEMENTATION_DIRS:
         folder = root / rel
         if not folder.is_dir():
             continue
@@ -71,21 +71,21 @@ def iter_companion_filenames(root: Path) -> list[str]:
 
 def audit_filenames(names: list[str]) -> list[str]:
     findings: list[str] = []
-    parsed: list[CompanionName] = []
+    parsed: list[AdoptedImplementationName] = []
     for name in names:
         if not NUMBERED_PREFIX_RE.match(name):
             continue
-        item = parse_companion_filename(name)
+        item = parse_adopted_implementation_filename(name)
         if item is None:
             findings.append(
-                f"{name}: numbered companion filename is not parseable "
+                f"{name}: numbered adopted-implementation filename is not parseable "
                 "(expected layer_NN_home.md, layer_NNx_part.md, or layer_NN_a_part.md)"
             )
             continue
         parsed.append(item)
 
-    by_family: dict[tuple[str, str], list[CompanionName]] = defaultdict(list)
-    by_part: dict[tuple[str, str, str], list[CompanionName]] = defaultdict(list)
+    by_family: dict[tuple[str, str], list[AdoptedImplementationName]] = defaultdict(list)
+    by_part: dict[tuple[str, str, str], list[AdoptedImplementationName]] = defaultdict(list)
     for item in parsed:
         by_family[item.family_key].append(item)
         by_part[item.part_key].append(item)
@@ -131,13 +131,13 @@ def parse_args() -> argparse.Namespace:
 def main() -> int:
     args = parse_args()
     root = args.root.resolve()
-    findings = audit_filenames(iter_companion_filenames(root))
+    findings = audit_filenames(iter_adopted_implementation_filenames(root))
     if findings:
-        print("Companion filename audit failures:", file=sys.stderr)
+        print("Adopted implementation filename audit failures:", file=sys.stderr)
         for item in findings:
             print(f"  - {item}", file=sys.stderr)
         return 1
-    print("Companion filename audit OK.")
+    print("Adopted implementation filename audit OK.")
     return 0
 
 

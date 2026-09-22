@@ -21,7 +21,7 @@ Retired architecture sections **14–19** (worklist, adoption appendix, document
 
 - `snake_case` canonical filenames (no spaces; no `%20` links).
 - Core families: Preamble `core_00_preamble.md`; single-chapter files `core_<nn>_<short_owner_label>.md` (zero-padded, e.g. `core_04_burden_traceability_verification.md`, `core_09_standing_assessment.md`); Chapter One parts `core_01_{a|b|c}_*.md`; Chapter Six parts `core_06_rights_part_{a-d}.md`; Chapter Five `core_05__definitions_home.md`, `core_05_apex_*`, `core_05_band_*`; split chapters `core_08_a_*` / `core_08_b_*`, `core_11_a_*` / `core_11_b_*`. The only remaining range file is the cross-chapter vignette `core_09-12_application_vignettes.md`.
-- Companion families (**NAV-IMPL-FILENAME-01**): numbered `cjs_` / `cs_` / `ci_` / `cf_` files share a numeric prefix only when they are parts of the same chapter. The undifferenced `layer_NN_*.md` name is the chapter home. Extra same-chapter files take a discriminator — glued letter (`cjs_03o_oversight_operations.md`) or CS part letter (`cs_02_a_*.md`). Family `01` is the unique scope page for that layer. Different chapters get different numbers (`cjs_04_drafting_contracts.md`, `cjs_06_support_hosting_classification.md`). Gate: `make companion-filename-audit`.
+- Adopted implementation families (**NAV-IMPL-FILENAME-01**): numbered `cjs_` / `cs_` / `ci_` / `cf_` files share a numeric prefix only when they are parts of the same chapter. The undifferenced `layer_NN_*.md` name is the chapter home. Extra same-chapter files take a discriminator — glued letter (`cjs_03o_oversight_operations.md`) or CS part letter (`cs_02_a_*.md`). Family `01` is the unique scope page for that layer. Different chapters get different numbers (`cjs_04_drafting_contracts.md`, `cjs_06_support_hosting_classification.md`). Gate: `make adopted-implementation-filename-audit`.
 - Full inventory: [README.md](README.md). The Preamble heading and Chapter One numeric headings (`CHAPTER 01`) remain the instrument-opening exception.
 
 ### Rename readiness gate
@@ -48,7 +48,7 @@ Filename renames require: reference audit, same-change link updates, dated evide
 | Forums (constitutional) | Ch 12 | `core_12_forum.md`; forum families, jurisdiction, supervision, and cross-forum anti-self-judging; [README navigation](README.md#standing-pipeline-and-forums) |
 | Governance / amendment / incorporation | Ch 13–17 | `core_13_governance.md`, `core_14_non_regression.md`, `core_15_expansion_supremacy.md`, `core_16_amendment_ratification.md`, `core_17_incorporation.md` |
 | Cross-implementation joint structure | CJS | **CJS-0.1** (*Topic router*) |
-| Systems, institutions, forum operations | CS / CI / CF | Companion wrappers + subfiles |
+| Systems, institutions, forum operations | CS / CI / CF | Adopted implementation wrappers + subfiles |
 
 **Footer policy:** `make footer-audit`. Optional `*Corpus alignment:*` cites [README.md](README.md) edition metadata and [Chapter Five *Corpus*](core_05_band_integrative.md#corpus).
 
@@ -104,8 +104,8 @@ Keep constitutional concept + O/M/A/C boundary only; cite owner homes for instit
 | NAV-PLACEMENT-01 | File-top Corpus placement widget | `make file-top-placement-audit` |
 | NAV-IMPL-LANDING-01 | Implementation-corpus wrapper landing page | Manual (see **section 4**) |
 | NAV-IMPL-SCOPE-01 | Implementation `*-1` scope/boundary page format | Manual (see **section 4**) |
-| NAV-IMPL-SUBFILE-01 | Companion subfile anatomy: H1, placement widget, owner line, gloss | `make companion-anatomy-audit`, `make file-top-placement-audit-companions` |
-| NAV-IMPL-FILENAME-01 | Companion files share a numeric prefix only as same-chapter parts | `make companion-filename-audit` |
+| NAV-IMPL-SUBFILE-01 | Adopted implementation subfile anatomy: H1, placement widget, owner line, gloss | `make adopted-implementation-anatomy-audit`, `make file-top-placement-audit-adopted-implementation` |
+| NAV-IMPL-FILENAME-01 | Adopted implementation files share a numeric prefix only as same-chapter parts | `make adopted-implementation-filename-audit` |
 | NAV-PRE-RELEASE-FRAGMENT-01 | Pre-release: one current fragment id per heading; no fossil or legacy redirect anchors | `make fossil-anchor-audit` |
 | MD-LIST-INTRO-01 | Bold list-intro lead-in ends with `:` not `.`: standalone (`**Record and showing:**`), heading-echo run-in (`**Symmetric costly constraints:**`), or list-item label (`- **Not standing:**`). Ordinary non-echo run-ins (`**Admission scope.**`) are out of scope. | `make corpus-markdown-audit` |
 | MD-HEADING-TOPIC-01 | Numbered section's first body-prose line (after widgets and `*In plain terms*` gloss) must not restate that heading as a topic sentence (`**[§13.2 Title](#…):**`). Unnumbered heading-echo run-ins stay under MD-LIST-INTRO-01. | `make heading-echo-topic-audit` |
@@ -471,7 +471,7 @@ Each layer’s first substantive file (`cjs_01_*`, `cs_01_*`, `ci_01_*`, `cf_01_
 
 **Reference shapes:** [CS-1](corpus_systems/cs_01_scope_purpose_identifier_rules.md); [CJS-1](corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md); [CI-1](corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md); [CF-1](corpus_forum/cf_01_scope_authority_boundary_rules.md).
 
-### Companion filenames (NAV-IMPL-FILENAME-01)
+### Adopted implementation filenames (NAV-IMPL-FILENAME-01)
 
 Numbered implementation subfiles are chapter labels. A reader scanning `corpus_joint_structure/` must be able to tell which files are one chapter and which are not.
 
@@ -483,9 +483,9 @@ Numbered implementation subfiles are chapter labels. A reader scanning `corpus_j
 | `layer_NNx_*.md` | Extra same-chapter file (glued letter) | `cjs_03o_oversight_operations.md`, `cjs_03u_audit_process.md` |
 | `layer_NN_a_*.md` | Extra same-chapter file (CS part letter) | `cs_02_a_information_types_and_handling.md`, `cs_02_b_data_classifications.md` |
 
-**Do not** give two undifferenced files the same number (`cjs_02_foo.md` and `cjs_02_bar.md`). **Do not** reuse a chapter number for a different family (`CJS-1.9` is not `cjs_02_*`). Family `01` is the unique scope/boundary page for that layer — no `cjs_01_*` companions. Stable section IDs (**CJS-2.1**, **CJS-1.9**) stay put when a file is renamed.
+**Do not** give two undifferenced files the same number (`cjs_02_foo.md` and `cjs_02_bar.md`). **Do not** reuse a chapter number for a different family (`CJS-1.9` is not `cjs_02_*`). Family `01` is the unique scope/boundary page for that layer — no `cjs_01_*` adopted implementation files. Stable section IDs (**CJS-2.1**, **CJS-1.9**) stay put when a file is renamed.
 
-Gate: `make companion-filename-audit` (in `make regression`).
+Gate: `make adopted-implementation-filename-audit` (in `make regression`).
 
 ### Pre-release fragment ids (NAV-PRE-RELEASE-FRAGMENT-01)
 
@@ -493,7 +493,7 @@ This corpus is **pre-release**. Keep one current fragment id per heading. When a
 
 Gate: `make fossil-anchor-audit` (in `make regression`).
 
-### Companion subfile anatomy (NAV-IMPL-SUBFILE-01)
+### Adopted implementation subfile anatomy (NAV-IMPL-SUBFILE-01)
 
 Every substantive `CJS` / `CS` / `CI` / `CF` subfile opens the way a numbered `core_*` file does, so a reader arriving from a citation lands on a title and a sentence rather than on collapsed routing widgets.
 
@@ -526,7 +526,7 @@ CS-5–CS-12 and CF specialist / continuity files use a lighter version of the s
 
 **Reference shapes:** [CI-15](corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md) for the domain local-duty pattern; [CS-2 Part A](corpus_systems/cs_02_a_information_types_and_handling.md) for numbered sections with anchors; [CS-4](corpus_systems/cs_04_critical_system_stewardship.md) and [CS-9](corpus_systems/cs_09_resource_allocation_funding_stewardship.md) for files rebuilt from unstructured prose.
 
-**Supporting tools** (one-shot migration helpers, not gates): `tools/prune_companion_scaffolding.py`, `tools/promote_cs_topic_labels.py`, `tools/add_section_anchors.py`, `tools/collapse_pronoun_chains.py`, `tools/debold_shouting_prose.py`, `tools/insert_section_glosses.py`. Wording changes to operative text are gated on `tools/obligation_inventory_diff.py` (`make obligation-snapshot` before, `make obligation-diff` after).
+**Supporting tools** (one-shot migration helpers, not gates): `tools/prune_adopted_implementation_scaffolding.py`, `tools/promote_cs_topic_labels.py`, `tools/add_section_anchors.py`, `tools/collapse_pronoun_chains.py`, `tools/debold_shouting_prose.py`, `tools/insert_section_glosses.py`. Wording changes to operative text are gated on `tools/obligation_inventory_diff.py` (`make obligation-snapshot` before, `make obligation-diff` after).
 
 <a id="plain-language-vocabulary-guardrails"></a>
 ### Plain-Language Vocabulary Guardrails
@@ -718,11 +718,11 @@ flowchart TB
 - **Rights:** `Sentient Constitution Ch 6 Art III` or spelled-out article cite.
 - **Standing / forums:** Ch 8 for Questions 1 and 2 records and measurement; Ch 9 for Question 3 effects; Ch 10 for designation; Ch 11 for forum supervision and allegations.
 - **CJS:** specific **CJS-3.*n*** heading (public cluster ID; **oDef.*n*** is an alias in **CJS-1.1** only); router **CJS-0.1**.
-- **CS / CI / CF:** named family or section label in the companion **subfile**, not the layer wrapper (see **REF-FAMILY** below).
+- **CS / CI / CF:** named family or section label in the adopted implementation **subfile**, not the layer wrapper (see **REF-FAMILY** below).
 
-### Companion family cite gloss (REF-FAMILY)
+### Adopted implementation family cite gloss (REF-FAMILY)
 
-When a companion family or subsection is cited in body prose, link the **authoritative subfile** (and optional heading anchor), not the layer wrapper.
+When an adopted implementation family or subsection is cited in body prose, link the **authoritative subfile** (and optional heading anchor), not the layer wrapper.
 
 **Format:** `[**CI-23**](corpus_institutions/ci_23_….md) (*short title*)`
 
@@ -732,7 +732,7 @@ When a companion family or subsection is cited in body prose, link the **authori
 - Subsections use the same grammar as CI/CF: `[**CS-7.3**](corpus_systems/cs_07_….md#…) (*title*)`. Legacy **CS-7 §3** remains readable as an alias.
 - **CJS-3.*n*** is the public cluster ID. **oDef.*n*** remains an alias declared in **CJS-1.1**; do not invent a second public numbering.
 - First load-bearing mention in a section should include the parenthetical short title when the heading is not already visible. Dense routing tables may omit the gloss when the linked heading already states the title.
-- Source of truth for family → file: [tools/architecture/family_map.json](tools/architecture/family_map.json). Audit: `make companion-cite-audit`.
+- Source of truth for family → file: [tools/architecture/family_map.json](tools/architecture/family_map.json). Audit: `make adopted-implementation-cite-audit`.
 
 ### Chapter Six article and subarticle cite gloss (REF-ARTICLES-GLOSS)
 
@@ -758,7 +758,7 @@ Examples: `**Article XV-C** (*Verification Accessibility*)`; `**Article XXIV-C**
 
 When a `§` or `§§` number is cited in **body prose**, name the section for human readers. A fragment slug is not a title.
 
-**Format (preferred):** `[§11.5 Contingent Claims, Games of Chance, and Event-Contract Markets](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets)`
+**Format (preferred):** `[§12.5 Contingent Claims, Games of Chance, and Event-Contract Markets](core_01_c_stewardship_capacity_principles.md#125-contingent-claims-games-of-chance-and-event-contract-markets)`
 
 **Also named:** unlinked `§11.1 Alignment Requirement`; `[§11.5](#…)` followed by `(*Contingent Claims…*)`.
 

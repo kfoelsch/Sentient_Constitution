@@ -782,10 +782,10 @@ def audit(root: Path) -> list[str]:
             f"{CARDS_REL}: missing `Costly-case refusals` pointer "
             "(STEWARD-DOOR-LOCKSTEP-01)"
         )
-    elif "912-symmetric-costly-constraints" not in costly_section:
+    elif "102-symmetric-costly-constraints" not in costly_section:
         errors.append(
             f"{CARDS_REL} #Costly-case refusals: must point at "
-            "#912-symmetric-costly-constraints (STEWARD-DOOR-LOCKSTEP-01)"
+            "#102-symmetric-costly-constraints (STEWARD-DOOR-LOCKSTEP-01)"
         )
     for bullet in bullets:
         if bullet not in normalize(core):

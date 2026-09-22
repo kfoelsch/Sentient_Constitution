@@ -46,7 +46,7 @@ If you fill item 16, you are stating that you will treat this edition as binding
 You are **not**:
 
 - adopting the Constitution under Chapter Sixteen
-- incorporating companion files under Chapter Seventeen
+- incorporating adopted implementation files under Chapter Seventeen
 - creating a Chapter Nine standing record
 - certifying any system under Chapter Eight
 - binding other parties or systems you do not control

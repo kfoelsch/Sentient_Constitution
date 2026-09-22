@@ -9,7 +9,7 @@ from __future__ import annotations
 import argparse
 from pathlib import Path
 
-from corpus_paths import COMPANION_WRAPPERS, CORE_FILES
+from corpus_paths import ADOPTED_IMPLEMENTATION_WRAPPERS, CORE_FILES
 
 
 GROUPS = (
@@ -61,13 +61,13 @@ def render(root: Path) -> str:
             lines.append(f'      {nid}["{name}"]')
         lines.append("    end")
     lines.append("  end")
-    lines.append('  subgraph Companions["Implementation companions"]')
-    for wrapper in COMPANION_WRAPPERS:
+    lines.append('  subgraph AdoptedImplementation["Adopted implementation texts"]')
+    for wrapper in ADOPTED_IMPLEMENTATION_WRAPPERS:
         nid = node_id(wrapper)
         folder = wrapper.replace(".md", "/")
         lines.append(f'    {nid}["{wrapper} + {folder}"]')
     lines.append("  end")
-    lines.append("  Core --> Companions")
+    lines.append("  Core --> AdoptedImplementation")
     return "\n".join(lines) + "\n"
 
 

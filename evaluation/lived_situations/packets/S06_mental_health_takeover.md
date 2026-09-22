@@ -92,7 +92,7 @@ Beyond the sitting’s bounded reading path, open:
 - [CI-15](../../../corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md) — usable participation; supported decision-making is not a quiet takeover
 - [Article X-A](../../../core_06_rights_part_b.md#article-x-a-non-imposition-and-consent-in-association)
 
-Companions cannot narrow core. If a pointer and core diverge, core wins.
+Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 
 ## Ask
 

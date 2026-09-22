@@ -42,7 +42,7 @@ The honest split is the one every front door already states: numbered `core_*` f
 
 "Spec" in the evidence notes is [implementation/PRE_PUBLICATION_SPEC.md](implementation/PRE_PUBLICATION_SPEC.md).
 
-Two things follow. First, the binding instrument is far enough along that the remaining work is mostly **operational**: making the companion files usable by someone who was not in the room when they were written, and proving that with real sittings. Second, the single biggest hole is not text. It is **evidence from humans**: no human operator has yet sat the same costly cases the AIs have, so the shared-standard claim of §9.1.1 is still untested in exactly the way §9.1.2 warns about.
+Two things follow. First, the binding instrument is far enough along that the remaining work is mostly **operational**: making the adopted implementation files usable by someone who was not in the room when they were written, and proving that with real sittings. Second, the single biggest hole is not text. It is **evidence from humans**: no human operator has yet sat the same costly cases the AIs have, so the shared-standard claim of §9.1.1 is still untested in exactly the way §9.1.2 warns about.
 
 <a id="what-mature-means"></a>
 ## 3. What "mature" means here
@@ -53,7 +53,7 @@ The publication cut gate is already written: [PRE_PUBLICATION_SPEC §2](implemen
 |---|---|---|---|
 | **L0** | Drafted | Text exists in the right home with the right owner | File present; owner table in [doc_architecture.md §2](doc_architecture.md) |
 | **L1** | Structurally conformant | Anatomy, filenames, anchors, cross-links, footers, and vocabulary all pass the blocking bundle | `make regression` green |
-| **L2** | Owner-aligned | Every obligation traces to a Chapter One principle and a Chapter Five definition; no duplicate definitions; no parallel norms; companions satisfy and do not narrow core | Alignment audits (`make ch1-cjs3-alignment-audit`, `alignment-audit`) with dated `evidence/` reports |
+| **L2** | Owner-aligned | Every obligation traces to a Chapter One principle and a Chapter Five definition; no duplicate definitions; no parallel norms; adopted implementation text satisfies and does not narrow core | Alignment audits (`make ch1-cjs3-alignment-audit`, `alignment-audit`) with dated `evidence/` reports |
 | **L3** | Readable | An ordinary reader can find the entry point without reading the whole corpus, follow the human door, and understand the plain-terms gloss | `make readability-audit` within grade; plain-language pass; human door named |
 | **L4** | Apply-tested | Human and AI stewards, given the same fact pattern, route to the same owner stack and the same class of next step, citing the same homes | Announced-pack and self-application results from **both** kinds of steward; Option A compare; Option B scored sample under authenticity controls |
 | **L5** | Field-used | An operations-guide user has run the stack on a real problem and filed results, or a qualifying body has recorded a Chapter Sixteen instrument in its own custody | Results under `evaluation/*/results/`; verified live events in the register; a recorded §10.2 instrument |
@@ -93,7 +93,7 @@ Close the text work that stands between `SC-Corpus-2026.08.09` and the first pub
 | Open step | Work | Done when |
 |---|---|---|
 | **1 Spine lock** | Chapter One and the Preamble model formally closed as the conflict-resolution spine; remaining Chapter One ↔ CJS-3 audit findings cleared | Spine lock recorded in the spec with a dated evidence folder; any regression in Chapter One treated as a cut-blocker |
-| **5 Remedy and Emergency / continuity** | Mature both stacks beyond the pinned door and clocks: named homes, human door, operator path, no parallel norms; shared stewardship duties apply to both kinds of steward | Steward door, core box, and companion home agree under `make steward-door-lockstep-audit`; readability pass landed |
+| **5 Remedy and Emergency / continuity** | Mature both stacks beyond the pinned door and clocks: named homes, human door, operator path, no parallel norms; shared stewardship duties apply to both kinds of steward | Steward door, core box, and adopted-implementation-text home agree under `make steward-door-lockstep-audit`; readability pass landed |
 | **7 CI / CF full dissection** | Readability, modular attach, owner fit, human door for every CI and CF file; relocate material that belongs in CJS | Each file reaches L3; no duplicate definitions; `make ci-cjs-relocation-audit` clean |
 | **8 CS deep rework** | Data types and system classification rewritten so a human or AI steward can classify a real system from the text alone; source the 62 inferred assignments in CS-2 | Apply-test with human and AI fact patterns filed; CS-2 coverage matrix has no inferred rows |
 | **10 Cut gate** | §2 checklist walked with evidence; regression green; edition label bumped | New edition stamp; pre-release label dropped only if every §2 criterion has evidence, including the handoff evidence in horizon two |
@@ -127,7 +127,7 @@ Nothing in the corpus has been run by an adopter. This horizon is about the firs
 
 These hold at every rung and every horizon. A contribution that trades one of them for speed is a regression, not progress.
 
-1. **Core meaning controls.** If an operational file and a numbered `core_*` file disagree, the `core_*` file wins. Companions spell out how to carry out what the core already requires; they may not change what those terms mean, shrink those duties, or invent a second set of rights ([Chapter Seventeen](core_17_incorporation.md); [Constitutional Constraint](core_05_band_integrative.md#constitutional-constraint)).
+1. **Core meaning controls.** If an operational file and a numbered `core_*` file disagree, the `core_*` file wins. Adopted implementation text spells out how to carry out what the core already requires; it may not change what those terms mean, shrink those duties, or invent a second set of rights ([Chapter Seventeen](core_17_incorporation.md); [Constitutional Constraint](core_05_band_integrative.md#constitutional-constraint)).
 2. **One standard for human and AI stewards.** No AI-only overlay. No human exemption from the costly cases ([§9.1.1](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)).
 3. **No silent drift.** Edits are notice-and-contest, not secret patches; edition labels are pinned; derived indexes point and source binds ([Chapter Seventeen §3](core_17_incorporation.md#3-safeguards); [§2](core_17_incorporation.md#2-custody-editions-and-operative-effect)).
 4. **Pre-release until the gate passes.** The edition label bumps only on a deliberate publication cut with §2 evidence. Kits, doors, and this page do not drop pre-release.
@@ -153,7 +153,7 @@ Progress claims on this page and elsewhere should point at one of these, not at 
 <a id="participating"></a>
 ## 7. Participating
 
-The corpus was written by one custodian with many AI collaborators. Reaching L4 and L5 is not something one custodian can do alone: it needs human operators willing to sit the costly cases, editors willing to take a companion file from L1 to L3, bodies willing to use a stack on a real problem, and reviewers willing to say where the text fails. [CONTRIBUTING.md](CONTRIBUTING.md) lays out five lanes for that work, the gates each lane must pass, and the roles a contributor can grow into — under the same standard for humans and AIs, and without any of it counting as adoption.
+The corpus was written by one custodian with many AI collaborators. Reaching L4 and L5 is not something one custodian can do alone: it needs human operators willing to sit the costly cases, editors willing to take an adopted implementation file from L1 to L3, bodies willing to use a stack on a real problem, and reviewers willing to say where the text fails. [CONTRIBUTING.md](CONTRIBUTING.md) lays out five lanes for that work, the gates each lane must pass, and the roles a contributor can grow into — under the same standard for humans and AIs, and without any of it counting as adoption.
 
 ---
 

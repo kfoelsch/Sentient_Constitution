@@ -114,7 +114,7 @@ flowchart TD
 
 They:
 
-- carry a proactive governance role, including problem resolution, root-cause analysis, prevention, remediation sequencing, and learning from patterns of failure, in alignment with **Chapter One** principles including **Safety**, **Truth**, **Wellbeing**, **Responsiveness**, and **Stewardship and Distributed Understanding**.
+- carry a proactive governance role, including problem resolution, root-cause analysis, prevention, remediation sequencing, and learning from patterns of failure, in alignment with **Chapter One** principles including **Safety**, **Truth**, **Wellbeing**, **Responsiveness**, and **Stewardship In Depth**.
 - must satisfy **independence**, **contestability**, and **tracing** expectations in **Chapters Two through Four**, **Article XII-B** (*Right to Challenge, Review, and Redress*) where challenge and remediation are implicated, and **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) where justice constraints govern.
 - are subject to this instrument's most stringent expressed procedural and integrity-accountability requirements, including public justification, traceability, recusal and panel discipline, forensic and analytical support where this chapter assigns them
 - require anti-self-judging backup routing. Those requirements must not substitute political control for judicial independence.
@@ -346,7 +346,7 @@ These rules limit how the table's default leads interact. They do not replace **
 <a id="capacity-failure-routing"></a>
 **Capacity failure is heard outside the starved body.** A claim that a forum family, remedy system, or standing-integration function is under capacity — designed backlog, inaccessible intake, chronic underfunding, chronic milestone failure, or a tripped [Chapter Ten §4.4](core_10_standing_integration.md#44-remedy-parity-and-lock-preconditions) remedy-parity tripwire — is an anti-self-judging matter. The body whose capacity is in question must not be the sole finder of fact on its own capacity.
 - The **Integrity** family is the default lead for capacity-failure claims, with the **section 3** backup pairs applying where Integrity is itself the body in question.
-- Any affected party, protected reporter, or self-organized group under [Chapter One §9.5](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization) may file a capacity-failure claim. It is heard on a Tier B clock under **section 6** unless the record shows Tier A stakes.
+- Any affected party, protected reporter, or self-organized group under [Chapter One §10.4 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#104-aligned-self-organization) may file a capacity-failure claim. It is heard on a Tier B clock under **section 6** unless the record shows Tier A stakes.
 - The body in question must supply its published [Chapter Ten §4.4](core_10_standing_integration.md#44-remedy-parity-and-lock-preconditions) and **section 6** backlog figures, and may give evidence, but must not control the finding or the corrective order.
 - A capacity-failure finding is a [Chapter Ten §9.2](core_10_standing_integration.md#92-remedy-system-durability) durability failure. It routes corrective orders to the [primary-stakes](#2-default-venue-and-primary-stakes) family responsible for staffing and funding and, where the pattern is chronic or concealed, opens the ordinary Chapter Nine path.
 
@@ -869,7 +869,7 @@ This section implements **Article XXIV-C** (*Timely Resolution and Anti-Delay Fl
   - self-created delay, procedural layering, forum shopping, or record fragmentation used to prolong resolution without milestone justification;
   - treating allegations as verified standing inputs to buy time ([Chapter Nine §3.1](core_09_standing_assessment.md#verified-inputs-for-standing));
   - [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways) through delay, opacity, or resolver bias;
-  - efficiency claims contrary to Chapter One [§12.2 Constitutional Efficiency](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) that:
+  - efficiency claims contrary to Chapter One [§13.2 Constitutional Efficiency](core_01_c_stewardship_capacity_principles.md#132-constitutional-efficiency) that:
     - skip fact-checking;
     - punish the wrong party;
     - offer a fix that does not fit the harm; or

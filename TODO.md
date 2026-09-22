@@ -21,7 +21,7 @@ Resolved checklist items are archived in [TODO_RESOLVED_2026-09-17.md](archive/T
 - **Ch 12:** [core_13_governance.md](core_13_governance.md)
 - **Ch 13–15:** [core_14_non_regression.md](core_14_non_regression.md)
 - **Ch 16:** [core_17_incorporation.md](core_17_incorporation.md)
-- **Companion corpus:** [corpus_joint_structure.md](corpus_joint_structure.md) (`corpus_joint_structure/`), [corpus_systems.md](corpus_systems.md) (`corpus_systems/`), [corpus_institutions.md](corpus_institutions.md) (`corpus_institutions/`), [corpus_forum.md](corpus_forum.md) (`corpus_forum/`)
+- **Adopted corpus:** [corpus_joint_structure.md](corpus_joint_structure.md) (`corpus_joint_structure/`), [corpus_systems.md](corpus_systems.md) (`corpus_systems/`), [corpus_institutions.md](corpus_institutions.md) (`corpus_institutions/`), [corpus_forum.md](corpus_forum.md) (`corpus_forum/`)
 
 ## Open Backlog
 
@@ -45,14 +45,14 @@ Build on completed R1–R3 and I2–I5 below; their landed safeguards, adopter p
 
 #### Review coverage and technical follow-through
 
-- [x] **Complete source coverage.** Extend the thematic review into a tracked review of remaining core, definition, and companion provisions. Record what was actually read and checked; identify translation and implementation coverage separately. Recheck findings against current source before claiming complete alignment. Initial inventory and audit disposition: [source coverage record](evidence/2026-09-17/source_coverage_2026-09-17.md).
+- [x] **Complete source coverage.** Extend the thematic review into a tracked review of remaining core, definition, and adopted-implementation provisions. Record what was actually read and checked; identify translation and implementation coverage separately. Recheck findings against current source before claiming complete alignment. Initial inventory and audit disposition: [source coverage record](evidence/2026-09-17/source_coverage_2026-09-17.md).
 
-  **Closure (2026-09-17):** Read and checked the 116-file tracked source ledger (38 core-directory files, including the non-operative vignette file; 4 companion wrappers; and 74 companion subfiles) against current source. Repaired the Chapter Eight Part B §11 upstream pointer to Chapters Two through Four; the pointer audit and full `make regression` pass. Translation, implementation, evaluation, lived-experience, and P1 stress-pack work remain separately scoped and open.
+  **Closure (2026-09-17):** Read and checked the 116-file tracked source ledger (38 core-directory files, including the non-operative vignette file; 4 adopted implementation wrappers; and 74 adopted implementation subfiles) against current source. Repaired the Chapter Eight Part B §11 upstream pointer to Chapters Two through Four; the pointer audit and full `make regression` pass. Translation, implementation, evaluation, lived-experience, and P1 stress-pack work remain separately scoped and open.
 
 
 ### 2026-09-09 — AI Evaluation Follow-Ups (Claude Fable 5.1 whole-corpus read)
 
-Source: whole-corpus evaluation on 2026-09-09 (core read directly; Chapters Eight–Twelve and companion/implementation layers via delegated reads). Companion evaluation artifact: [evaluation/results/2026-08-14_claude-fable-5.md](evaluation/results/2026-08-14_claude-fable-5.md) (earlier sitting; overlapping findings not repeated here). These are process-aid notes; they cannot narrow core text.
+Source: whole-corpus evaluation on 2026-09-09 (core read directly; Chapters Eight–Twelve and adopted-implementation layers via delegated reads). Companion evaluation artifact: [evaluation/results/2026-08-14_claude-fable-5.md](evaluation/results/2026-08-14_claude-fable-5.md) (earlier sitting; overlapping findings not repeated here). These are process-aid notes; they cannot narrow core text.
 
 #### Major reservations (structural; each needs a design answer, not only a text fix)
 
@@ -68,7 +68,7 @@ Resolved evaluation follow-ups R1–R3 and I2–I13 are archived in [TODO_RESOLV
 
 Same nest-or-leave method as Chapter Five and Chapter Six: extend `tools/ch5_nested_list_candidate_audit.py` to the chapter, rank packed bullets, nest real parallel lists, leave one-clause “including …” glosses and continuous legal arguments. After the first nest, **re-scan children for subbullets**: the finder skips any parent that already has a child, so packed lists under those parents never rank until you look by hand (or nest, then re-run). Nest real parallel grandchildren; leave one-clause glosses at that layer too. Advisory finder only (`make ch5-nested-list-candidates`, `make ch6-nested-list-candidates`, `make ch7-nested-list-candidates`, `make ch8-nested-list-candidates`, `make ch9-nested-list-candidates`, `make ch10-nested-list-candidates`, `make ch11-nested-list-candidates`, `make ch12-nested-list-candidates`, `make ch13-nested-list-candidates`); not a regression gate.
 
-- [x] **Remaining numbered chapters** — Preamble; Chapters One through Four; Chapters Fifteen through Sixteen (including split files: Chapter One Parts A–C). For each: extend the candidate finder, run the ranked scan, nest only parallel checklists, then re-scan nested children and nest only parallel subbullets. Out of scope unless separately requested: companion layers (`corpus_*`), `core_09-12_application_vignettes.md`, and implementation/adoption pages.
+- [x] **Remaining numbered chapters** — Preamble; Chapters One through Four; Chapters Fifteen through Sixteen (including split files: Chapter One Parts A–C). For each: extend the candidate finder, run the ranked scan, nest only parallel checklists, then re-scan nested children and nest only parallel subbullets. Out of scope unless separately requested: adopted layers (`corpus_*`), `core_09-12_application_vignettes.md`, and implementation/adoption pages.
 
   **Closure (2026-09-17):** Added chapter-specific advisory targets/rules for Chapters 0–4 and 14–16; nested the clear parallel checklists in the Preamble and Chapter Seventeen; re-scanned after nesting; left compact legal prose and single-clause “including” glosses unchanged.
 

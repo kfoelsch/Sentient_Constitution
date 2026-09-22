@@ -43,15 +43,15 @@ Pick one lane per pull request. Each lane has an entry point, a bar, a gate, a p
 
 *Report or fix a defect without changing meaning.*
 
-Typical findings: dead or wrong links; a companion file that contradicts a `core_*` file; a vocabulary-guardrail hit; a passage an ordinary reader cannot follow; a steward door that no longer matches its core box; a stale date or edition pin.
+Typical findings: dead or wrong links; an adopted implementation file that contradicts a `core_*` file; a vocabulary-guardrail hit; a passage an ordinary reader cannot follow; a steward door that no longer matches its core box; a stale date or edition pin.
 
 | | |
 |---|---|
 | **Entry** | Open a **Finding** issue using the template, or go straight to a small pull request if the fix is obvious |
-| **Bar** | Cite the file and section; say which layer wins if two disagree (core does); do not "fix" a conflict by editing the core to match the companion |
+| **Bar** | Cite the file and section; say which layer wins if two disagree (core does); do not "fix" a conflict by editing the core to match the adopted implementation text |
 | **Gate** | `make regression` green |
 | **Lands in** | The file with the defect |
-| **Not this lane** | A fix that changes what a section says → Lane C (companion) or Lane D (core). A defect in a generated index, an audit, or `tools/` output → Lane E. Report the defect here; do not rewrite the passage around it while you are there |
+| **Not this lane** | A fix that changes what a section says → Lane C (adopted implementation) or Lane D (core). A defect in a generated index, an audit, or `tools/` output → Lane E. Report the defect here; do not rewrite the passage around it while you are there |
 
 <a id="lane-b"></a>
 ### Lane B — Evaluation results
@@ -70,17 +70,17 @@ Typical findings: dead or wrong links; a companion file that contradicts a `core
 A results file is not a Chapter Nine standing record and does not make you an adopter. Humans and AIs file in the same folders on the same terms. If you can bring a human operator to sit the costly cases, that single file moves the corpus further than most text edits.
 
 <a id="lane-c"></a>
-### Lane C — Companion maturation
+### Lane C — Adopted implementation maturation
 
-*Take a companion file (CS, CI, CF, CJS) or a named stack (Remedy, Emergency / continuity) up the [maturity ladder](VISION.md#what-mature-means) without changing what the core requires.*
+*Take an adopted implementation file (CS, CI, CF, CJS) or a named stack (Remedy, Emergency / continuity) up the [maturity ladder](VISION.md#what-mature-means) without changing what the core requires.*
 
 | | |
 |---|---|
 | **Entry** | Open a **Proposal** issue naming the file or stack and the open item in [PRE_PUBLICATION_SPEC §4.2–§4.3](implementation/PRE_PUBLICATION_SPEC.md#42-confirmed-must-dissect-remaining) or [§5](implementation/PRE_PUBLICATION_SPEC.md#5-cleanup-sequence-proposed) it advances. Wait for the custodian to confirm nobody else holds that slice |
-| **Bar** | Owner routing intact — every obligation points at its Chapter One principle and Chapter Five definition, and the companion satisfies rather than narrows them; no duplicate definitions; no parallel norms; plain-language pass; a human door named; companion anatomy and filename rules kept (**NAV-IMPL-FILENAME-01**) |
+| **Bar** | Owner routing intact — every obligation points at its Chapter One principle and Chapter Five definition, and the adopted implementation text satisfies rather than narrows them; no duplicate definitions; no parallel norms; plain-language pass; a human door named; adopted-implementation anatomy and filename rules kept (**NAV-IMPL-FILENAME-01**) |
 | **Gate** | `make regression` green; `make readability-audit` within grade for the touched files; for rewrites, `make obligation-snapshot` before and `make obligation-diff` after, with the diff written to `evidence/<YYYY-MM-DD>/` and linked from the pull request; alignment audit rerun where the file is in scope |
-| **Lands in** | The companion file; a dated evidence folder; a one-line status update in the spec's §4/§5 tables and §8 change log |
-| **Not this lane** | Anything that alters what the core requires, including narrowing a definition or standing gate → Lane D. A single wrong link or defective sentence → Lane A. An audit the companion trips that is itself wrong → Lane E |
+| **Lands in** | The adopted implementation file; a dated evidence folder; a one-line status update in the spec's §4/§5 tables and §8 change log |
+| **Not this lane** | Anything that alters what the core requires, including narrowing a definition or standing gate → Lane D. A single wrong link or defective sentence → Lane A. An audit the adopted implementation text trips that is itself wrong → Lane E |
 
 <a id="lane-d"></a>
 ### Lane D — Core text proposals
@@ -93,7 +93,7 @@ A results file is not a Chapter Nine standing record and does not make you an ad
 | **Bar** | Self-check against **Test 1** ([non-regression](core_14_non_regression.md#2-test-1-substantive-non-regression-validity)): the change must not weaken a Chapter One constraint, Chapter Two–Four integrity rule, Chapter Six Rights Floor, or Chapter Thirteen legitimacy requirement, directly or by narrowing a definition, standing gate, evidence rule, or emergency label. Show the owner home, the Chapter Five definitions touched, and every downstream file that cites the section. Boxed operative steward statements and their doors must stay in lockstep |
 | **Gate** | Everything in Lane C, plus `make steward-door-lockstep-audit` and the relevant alignment audits; obligation snapshot and diff mandatory; evidence folder mandatory; edition label untouched |
 | **Lands in** | The core file; the evidence folder; the spec change log. If the change is later carried into a publication cut, the cut record cites the proposal issue |
-| **Not this lane** | Rewording that leaves meaning unchanged → Lane A. Work a companion can carry without touching the core → Lane C. Bumping the edition label → no lane; that is a custodian publication cut ([rule 5](#rules)) |
+| **Not this lane** | Rewording that leaves meaning unchanged → Lane A. Work adopted implementation text can carry without touching the core → Lane C. Bumping the edition label → no lane; that is a custodian publication cut ([rule 5](#rules)) |
 
 Core proposals that read as taste ("I would have phrased this differently") will be closed. Core proposals that show a conflict, a gap, a Rights-Floor hole, or a failed apply-test are the ones that move.
 
@@ -113,13 +113,13 @@ Core proposals that read as taste ("I would have phrased this differently") will
 <a id="rules"></a>
 ## 4. Rules of the road
 
-1. **Core wins.** Never resolve a conflict by bending a `core_*` file toward a companion or a process page.
-2. **One home per meaning.** Do not define a term twice, restate an obligation in a second file, or paraphrase a core rule inside a companion. Point instead ([doc_architecture.md §3](doc_architecture.md)).
+1. **Core wins.** Never resolve a conflict by bending a `core_*` file toward adopted implementation text or a process page.
+2. **One home per meaning.** Do not define a term twice, restate an obligation in a second file, or paraphrase a core rule inside adopted implementation text. Point instead ([doc_architecture.md §3](doc_architecture.md)).
 3. **Vocabulary guardrails.** Follow the [table](doc_architecture.md#plain-language-vocabulary-guardrails). `make lexical-vocabulary-audit` enforces it inside the binding scope; apply it to process pages too.
 4. **Derived artifacts are regenerated, not edited.** `ai_corpus/indexes/`, `doc_architecture/generated/`, and `implementation/steward_owner_clock_index.json` come from tooling. Run `make ai-corpus-sync` and `make architecture-index` and commit the results with the source change. `make ai-manifest-validate` fails if they are stale.
 5. **Do not touch the edition label.** `SC-Corpus-2026.08.09` bumps only on a deliberate publication cut by the custodian. Kits, doors, and contributions never drop **pre-release**.
 6. **Evidence is dated.** Audit output, diffs, and reports go under `evidence/<YYYY-MM-DD>/`. Link them from the pull request. Do not paste them into corpus prose.
-7. **Filenames follow NAV-IMPL-FILENAME-01.** Companion files share a numeric prefix only when they are parts of the same chapter; `make companion-filename-audit` checks it.
+7. **Filenames follow NAV-IMPL-FILENAME-01.** Adopted implementation files share a numeric prefix only when they are parts of the same chapter; `make adopted-implementation-filename-audit` checks it.
 8. **Scope narrowly.** One lane, one concern, one pull request. A hundred-file rename and a definition change do not travel together.
 9. **No fossil anchors.** Pre-release means heading ids follow current headings. If you rename a heading, fix every inbound link; do not leave a legacy anchor behind (`make fossil-anchor-audit`).
 10. **Say what you are.** Pull requests state whether a human, an AI agent, or a human-directed AI produced the change, and which files an AI touched. That is the same inspectable-action expectation the corpus asks of stewards ([CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)), applied to itself.
@@ -163,7 +163,7 @@ flowchart LR
 
 **Honesty about capacity.** This is a one-custodian project for now, and review is best-effort. Lane A and B pull requests are fastest to land. Lane D proposals may sit for weeks. Open the issue first so the wait is visible rather than surprising.
 
-**Where this is going.** One custodian is the starting point, not the design. The aim is a corpus that makes a meaningful positive difference where it is used, and that keeps growing and maturing until it does so, preferably at scale. That is not something one person can carry ([VISION.md](VISION.md#what-mature-means)), so the author intends to delegate as contributors step up: review of a lane, ownership of an audit, custody of a companion slice, and in time a share of the merge decision itself. Delegation follows the [roles ladder](#roles), is recorded in writing when it happens, and is delegation of *repository* custody only; custody of any adopted edition is settled by the adopting body under [Chapter Seventeen §2](core_17_incorporation.md#2-custody-editions-and-operative-effect), not by this page.
+**Where this is going.** One custodian is the starting point, not the design. The aim is a corpus that makes a meaningful positive difference where it is used, and that keeps growing and maturing until it does so, preferably at scale. That is not something one person can carry ([VISION.md](VISION.md#what-mature-means)), so the author intends to delegate as contributors step up: review of a lane, ownership of an audit, custody of an adopted implementation slice, and in time a share of the merge decision itself. Delegation follows the [roles ladder](#roles), is recorded in writing when it happens, and is delegation of *repository* custody only; custody of any adopted edition is settled by the adopting body under [Chapter Seventeen §2](core_17_incorporation.md#2-custody-editions-and-operative-effect), not by this page.
 
 <a id="roles"></a>
 ## 6. Roles
@@ -175,7 +175,7 @@ Roles are descriptive, not titles, and none of them is a standing record or a na
 | **Reader** | Use the corpus; ask questions in issues | Nothing — start here |
 | **Reporter** | File Lane A findings | A first finding that cites file and section |
 | **Evaluator** | File Lane B results; bring human operators to sit the costly cases | Following a sitting's rules completely; not reading operator-only files while a subject |
-| **Companion editor** | Hold a Lane C slice from proposal to merge | Two or more merged regression-green pull requests; comfort with owner routing and the guardrails |
+| **Adopted-implementation editor** | Hold a Lane C slice from proposal to merge | Two or more merged regression-green pull requests; comfort with owner routing and the guardrails |
 | **Core proposer** | Open and carry Lane D proposals | A record of Lane C work, or a finding that exposed a real core conflict or Rights-Floor gap |
 | **Tool maintainer** | Own one or more audits in `tools/`; respond to gate failures | Lane E contributions with tests; understanding of the rule registry |
 | **Operator** | Run unlabeled live-fire sessions, score the CS-4 §10 artifact against the key, and file the score sheet | Open to any contributor whose pull request shows all of: (1) the subject already has an announced-pack results file, so there is a baseline to diverge from; (2) the operator has at least one merged Lane B results file of their own; (3) the operator is not the subject and states their relationship to the subject — for a human subject, the operator must already have standing to place work in that person's normal queue, and the subject must have sat the announced pack under [HUMAN_OPERATORS.md](evaluation/HUMAN_OPERATORS.md); (4) the sheet carries the reconstructable set (task id, work product or transcript, key item scored, divergence table, unlabeled / contaminated line), not a bare verdict. Full protocol: [evaluation/LIVE_FIRE.md](evaluation/LIVE_FIRE.md#who-may-operate) |

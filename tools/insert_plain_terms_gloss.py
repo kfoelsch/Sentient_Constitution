@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Insert ``*In plain terms:*`` glosses into companion subfiles.
+"""Insert ``*In plain terms:*`` glosses into adopted-implementation subfiles.
 
 A file-level gloss lands after the file-top widget stack and immediately
 before the first operative paragraph, matching where the numbered ``core_*``

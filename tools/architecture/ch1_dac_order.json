@@ -14,7 +14,7 @@
     "Dependency",
     "Foreseeability"
   ],
-  "### 9. Stewardship and Distributed Understanding": [
+  "### 9. Stewardship In Depth": [
     "Strategic Stewardship Obligation",
     "Distributed Understanding",
     "Participation",
@@ -34,7 +34,7 @@
     "Avoidable Burden",
     "Epistemic Integrity"
   ],
-  "### 12. Shared-System Capacity": [
+  "### 13. Shared-System Capacity": [
     "Shared-System Capacity",
     "Productive Capacity",
     "Constitutional Efficiency",
@@ -50,7 +50,7 @@
     "Environmental Preconditions",
     "Intergenerational Responsibility"
   ],
-  "### 13. Market Structure": [
+  "### 14. Market Structure": [
     "Market Structure",
     "Market Concentration Threshold",
     "Contestability",
@@ -58,13 +58,13 @@
     "Dependency",
     "Meaningful Agency"
   ],
-  "#### 9.1 Consequential Stewardship": [
+  "### 10. Consequential Stewardship": [
     "Strategic Stewardship Obligation",
     "Meaningful Agency",
     "Auditability",
     "Timeliness"
   ],
-  "#### 9.5 Aligned Self-Organization": [
+  "#### 10.4 Aligned Self-Organization": [
     "System Creation",
     "Protected Reporting (Whistleblowing)",
     "Protected Reporting Retaliation and Access Interference",
@@ -74,7 +74,7 @@
     "Proportionality",
     "Merits Determination"
   ],
-  "#### 9.2 Distributed Understanding": [
+  "#### 9.1 Distributed Understanding": [
     "Distributed Understanding",
     "Transparency",
     "Public Oversight Baseline Disclosure",
@@ -130,7 +130,7 @@
     "Harm Minimization (Tradeoff Selection)",
     "Harm"
   ],
-  "### 10. Governance Under Stewardship Discipline": [
+  "### 11. Governance Under Stewardship Discipline": [
     "Governance",
     "Stewardship",
     "Necessity",
@@ -141,7 +141,7 @@
     "Attributable Action",
     "Attribution Integrity"
   ],
-  "### 14. Systemic Evaluation Requirement": [
+  "### 15. Systemic Evaluation Requirement": [
     "Classification-Scaled Governance",
     "Oversight",
     "Auditability",
@@ -149,7 +149,7 @@
     "Risk",
     "Dependency"
   ],
-  "### 15. Integrated Application": [
+  "### 16. Integrated Application": [
     "Corpus",
     "Authority Stack and Internal Hierarchy",
     "Irreversible Harm",
@@ -181,7 +181,7 @@
     "Corpus",
     "Authority Stack and Internal Hierarchy"
   ],
-  "#### 10.1 Governance as Authorized Structure": [
+  "#### 11.1 Governance as Authorized Structure": [
     "Governance",
     "Stewardship",
     "Necessity",
@@ -190,7 +190,7 @@
     "Oversight",
     "Accountability"
   ],
-  "#### 10.2 Segregation of Duties": [
+  "#### 11.2 Segregation of Duties": [
     "Oversight",
     "Accountability",
     "Proportionality",
@@ -198,7 +198,7 @@
     "Auditability",
     "Stewardship"
   ],
-  "#### 10.3 Ongoing Justification": [
+  "#### 11.3 Ongoing Justification": [
     "Timeliness",
     "Oversight",
     "Contestability",
@@ -207,7 +207,7 @@
     "Governance",
     "Review and Correction Duty"
   ],
-  "#### 11.1 Alignment Requirement": [
+  "#### 12.1 Alignment Requirement": [
     "Incentive Alignment",
     "Productive Capacity",
     "Constitutional Efficiency",
@@ -222,12 +222,12 @@
     "Wellbeing",
     "Participation"
   ],
-  "#### 11.2 Convenient Proxies and Proxy Divergence": [
+  "#### 12.2 Convenient Proxies and Proxy Divergence": [
     "Proxy Divergence",
     "Productive Capacity",
     "Constitutional Efficiency"
   ],
-  "#### 11.3 Misalignment Detection": [
+  "#### 12.3 Misalignment Detection": [
     "Auditability",
     "Contestability",
     "System Capture",
@@ -235,7 +235,7 @@
     "Incentive Alignment",
     "Review and Correction Duty"
   ],
-  "#### 11.4 Misalignment Correction and Capture Response": [
+  "#### 12.4 Misalignment Correction and Capture Response": [
     "System Capture",
     "Anti-Capture",
     "Contestability",
@@ -243,14 +243,14 @@
     "Accountability",
     "Review and Correction Duty"
   ],
-  "#### 11.6 Successor Responsibility and Formal-Structure Non-Escape": [
+  "#### 12.6 Successor Responsibility and Formal-Structure Non-Escape": [
     "Accountability",
     "Attributable Action",
     "Attribution Integrity",
     "Necessity",
     "Proportionality"
   ],
-  "#### 12.1 Productive Capacity (Instrumental Good)": [
+  "#### 13.1 Productive Capacity (Instrumental Good)": [
     "Productive Capacity",
     "Shared-System Capacity",
     "Constitutional Efficiency",
@@ -261,17 +261,17 @@
     "Environmental Preconditions",
     "Intergenerational Responsibility"
   ],
-  "#### 12.2 Constitutional Efficiency": [
+  "#### 13.2 Constitutional Efficiency": [
     "Constitutional Efficiency",
     "Shared-System Capacity",
     "Productive Capacity"
   ],
-  "#### 13.1 Market Concentration Threshold Mechanism (Adopter-Tunable)": [
+  "#### 14.1 Market Concentration Threshold Mechanism (Adopter-Tunable)": [
     "Market Concentration Threshold",
     "Market Structure",
     "Dependency"
   ],
-  "#### 13.2 Pro-Competition and Anti-Domination": [
+  "#### 14.2 Pro-Competition and Anti-Domination": [
     "Market Structure",
     "Contestability",
     "Meaningful Agency",
@@ -280,7 +280,7 @@
     "Dependency",
     "Proxy Divergence"
   ],
-  "#### 13.3 Consolidation Ceiling": [
+  "#### 14.3 Consolidation Ceiling": [
     "Governance",
     "Stewardship",
     "Contestability",

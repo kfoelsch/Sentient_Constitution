@@ -28,7 +28,7 @@ import re
 import sys
 from pathlib import Path
 
-from corpus_paths import COMPANION_WRAPPERS, binding_corpus_scope
+from corpus_paths import ADOPTED_IMPLEMENTATION_WRAPPERS, binding_corpus_scope
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -80,7 +80,7 @@ WIDGET_RANK = {
 }
 
 # Landing wrappers use a different front-door anatomy (visible gloss + index).
-WRAPPER_NAMES = set(COMPANION_WRAPPERS)
+WRAPPER_NAMES = set(ADOPTED_IMPLEMENTATION_WRAPPERS)
 
 
 def parse_args() -> argparse.Namespace:

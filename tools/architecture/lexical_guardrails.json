@@ -239,7 +239,7 @@
   ],
   "easy_entry_jargon": {
     "scope": "implementation/adoption/easy_entry/",
-    "note": "Reader-facing easy-entry briefs only. Does not bind core_* or companions. Official names may appear inside markdown links. Quoted reader objections and <details> widgets are skipped.",
+    "note": "Reader-facing easy-entry briefs only. Does not bind core_* or adopted implementation texts. Official names may appear inside markdown links. Quoted reader objections and <details> widgets are skipped.",
     "allow_phrases": [
       "Sentient Constitution",
       "Rights Floor"

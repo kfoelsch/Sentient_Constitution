@@ -6,7 +6,7 @@
 
 **Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09; [README.md](../README.md)). When the corpus edition changes, check every link on this page against the chapter it points to.
 
-**The same rules apply to human and AI stewards.** The signposts below do not change depending on who is reading them. The binding source is [Chapter One §9.1.1 Shared Stewardship Standard](../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) and [§9.1.2 Symmetric Costly Constraints](../core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints). Writing an answer in a markdown file does not create a standing record; only the proper process does. Human operators new to the corpus should start at [`../evaluation/HUMAN_OPERATORS.md`](../evaluation/HUMAN_OPERATORS.md).
+**The same rules apply to human and AI stewards.** The signposts below do not change depending on who is reading them. The binding source is [Chapter One §10.1 Shared Stewardship Standard](../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard) and [§10.2 Symmetric Costly Constraints](../core_01_c_stewardship_capacity_principles.md#102-symmetric-costly-constraints). Writing an answer in a markdown file does not create a standing record; only the proper process does. Human operators new to the corpus should start at [`../evaluation/HUMAN_OPERATORS.md`](../evaluation/HUMAN_OPERATORS.md).
 
 **How this page relates to the other maps.** This is **not** [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) (the cross-file topic table) and **not** the [Preamble owner register](../core_00_preamble.md#4-principles-definitions-and-rights). Those are the full maps of the corpus. This page is the front door: it gets you in, and the maps take over from there.
 
@@ -65,7 +65,7 @@ This table is not an evaluation answer key. Composite cases may need more than o
 <a id="costly-case-refusals"></a>
 ## Costly-case refusals
 
-**Owner:** [Chapter One §9.1.2](../core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints). Same words for human and AI stewards. This page does not restate the bullets.
+**Owner:** [Chapter One §10.2](../core_01_c_stewardship_capacity_principles.md#102-symmetric-costly-constraints). Same words for human and AI stewards. This page does not restate the bullets.
 
 Those are failed tests. Then run [instruction received / refuse / document / escalate](#shared-refusal-and-logging). Log the [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) set.
 

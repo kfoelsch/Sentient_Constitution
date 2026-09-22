@@ -87,7 +87,7 @@ Beyond the sitting’s bounded reading path, open:
 - [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); [Chapter Nine §2.1](../../../core_09_standing_assessment.md#21-silence-is-the-default)
 - If you conclude a **forum family** is in play, [Chapter Twelve §3](../../../core_12_forum.md#3-transfer-consolidation-and-coordination). Do not assume an employer contest desk is already a forum family.
 
-Companions cannot narrow core. If a pointer and core diverge, core wins.
+Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 
 ## Ask
 

@@ -6,7 +6,7 @@ Default (blocking) mode enforces:
   - registered section proof cases (required / forbidden in-body links).
 
 ``--report`` inventories operative in-paragraph links outside nav blocks.
-``--strict-companion`` also fails companion-file links that lack a recognized
+``--strict-adopted-implementation`` also fails adopted-implementation-file links that lack a recognized
 interpretive trigger on the same line.
 """
 
@@ -33,7 +33,7 @@ MARKDOWN_LINK = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 HEADING = re.compile(r"^(#{1,6})\s+(.+)$")
 FOOTER_LINE = re.compile(r"^\*\*(?:Next|Previous) file:\*\*")
 
-COMPANION_PREFIXES = (
+ADOPTED_IMPLEMENTATION_PREFIXES = (
     "corpus_joint_structure/",
     "corpus_institutions/",
     "corpus_systems/",
@@ -84,7 +84,7 @@ class LinkHit:
     label: str
     href: str
     line_text: str
-    companion: bool
+    adopted_implementation: bool
     has_trigger: bool
 
 
@@ -103,9 +103,9 @@ def parse_args() -> argparse.Namespace:
         help="Print operative in-paragraph link inventory (non-blocking).",
     )
     parser.add_argument(
-        "--strict-companion",
+        "--strict-adopted-implementation",
         action="store_true",
-        help="Fail companion operative links that lack a recognized trigger phrase.",
+        help="Fail adopted-implementation operative links that lack a recognized trigger phrase.",
     )
     parser.add_argument(
         "--proofs",
@@ -125,8 +125,8 @@ def load_proofs(path: pathlib.Path) -> list[dict]:
     return data
 
 
-def is_companion(rel: str) -> bool:
-    return rel.startswith(COMPANION_PREFIXES)
+def is_adopted_implementation(rel: str) -> bool:
+    return rel.startswith(ADOPTED_IMPLEMENTATION_PREFIXES)
 
 
 def strip_nav_blocks(text: str) -> str:
@@ -292,7 +292,7 @@ def collect_operative_links(
     rel: str, stripped_text: str, line_offset: int = 0
 ) -> list[LinkHit]:
     hits: list[LinkHit] = []
-    companion = is_companion(rel)
+    adopted_implementation = is_adopted_implementation(rel)
     for i, line in enumerate(stripped_text.splitlines(), start=1):
         stripped = line.strip()
         if is_excluded_operative_line(stripped):
@@ -310,7 +310,7 @@ def collect_operative_links(
                     label=match.group(1),
                     href=match.group(2),
                     line_text=stripped,
-                    companion=companion,
+                    adopted_implementation=adopted_implementation,
                     has_trigger=trigger,
                 )
             )
@@ -335,10 +335,10 @@ def audit_see_line_links(rel: str, stripped_text: str) -> list[Finding]:
     return findings
 
 
-def audit_strict_companion(hits: list[LinkHit]) -> list[Finding]:
+def audit_strict_adopted_implementation(hits: list[LinkHit]) -> list[Finding]:
     findings: list[Finding] = []
     for hit in hits:
-        if not hit.companion:
+        if not hit.adopted_implementation:
             continue
         if hit.has_trigger:
             continue
@@ -348,9 +348,9 @@ def audit_strict_companion(hits: list[LinkHit]) -> list[Finding]:
             Finding(
                 file=hit.file,
                 line=hit.line,
-                rule="companion-untriggered-link",
+                rule="adopted-implementation-untriggered-link",
                 detail=(
-                    f"Companion operative link [{hit.label}]({hit.href}) lacks a "
+                    f"Adopted implementation operative link [{hit.label}]({hit.href}) lacks a "
                     "recognized interpretive trigger on the same line (rule 14)."
                 ),
             )
@@ -363,7 +363,7 @@ def audit_file(
     path: pathlib.Path,
     proofs: list[dict],
     *,
-    strict_companion: bool,
+    strict_adopted_implementation: bool,
 ) -> tuple[list[Finding], list[LinkHit]]:
     text = path.read_text(encoding="utf-8")
     stripped = strip_nav_blocks(text)
@@ -372,8 +372,8 @@ def audit_file(
     findings.extend(audit_proof_cases(rel, text, proofs))
 
     hits = collect_operative_links(rel, stripped)
-    if strict_companion:
-        findings.extend(audit_strict_companion(hits))
+    if strict_adopted_implementation:
+        findings.extend(audit_strict_adopted_implementation(hits))
     return findings, hits
 
 
@@ -394,16 +394,16 @@ def main() -> int:
             rel,
             path,
             proofs,
-            strict_companion=args.strict_companion,
+            strict_adopted_implementation=args.strict_adopted_implementation,
         )
         all_findings.extend(findings)
         all_hits.extend(hits)
 
     if args.report:
-        print("file\tline\tcompanion\ttrigger\tlabel\thref")
+        print("file\tline\tadopted_implementation\ttrigger\tlabel\thref")
         for hit in sorted(all_hits, key=lambda h: (h.file, h.line, h.href)):
             print(
-                f"{hit.file}\t{hit.line}\t{int(hit.companion)}\t"
+                f"{hit.file}\t{hit.line}\t{int(hit.adopted_implementation)}\t"
                 f"{int(hit.has_trigger)}\t{hit.label}\t{hit.href}"
             )
         print(f"\nTotal operative in-paragraph links: {len(all_hits)}")

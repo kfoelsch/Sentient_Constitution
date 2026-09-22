@@ -128,7 +128,7 @@ When a forum topic materially intersects **CI**, **CS**, or **CJS**, use [CJS-0.
 Some forum topics are **deliberately** split across **CF** sections — for example formation and chamber structure (**CF-3**), panel constitution (**CF-4**), intake routing (**CF-5**), and staffing or structural records (**CF-16**). For those splits:
 
 - the **primary owner** named in [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) for the applicable **CJS-R** row states the **full operative** rules for its assigned scope;
-- companion **CF** sections add only the interface text their scope requires;
+- adopted implementation text **CF** sections add only the interface text their scope requires;
 - do **not** restate **CJS-3** operational clusters, **CI** checklists, or **CS** classification tables except in brief pointer form when needed for coherence.
 
 For cross-layer overlap discipline, apply [CJS-1.7](../corpus_joint_structure/cjs_04_drafting_contracts.md#cjs-17-intentional-overlap-non-duplication-discipline) (*Intentional overlap (non-duplication discipline)*).

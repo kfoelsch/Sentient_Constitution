@@ -35,7 +35,7 @@ Three boundaries prevent common misunderstandings:
 
 - **Authorization and participation:** authorization asks who may govern and on what terms; participation gives affected sentients voice inside systems that are already authorized; neither substitutes for the other.
 - **Separate standing tracks:** contribution and violation are measured separately; good conduct does not cancel verified harm.
-- **Source and adoption:** numbered `core_*` files are the binding source; incorporated companions implement that source only within valid scope; reading or publishing the instrument is not adoption.
+- **Source and adoption:** numbered `core_*` files are the binding source; incorporated adopted implementation text implements that source only within valid scope; reading or publishing the instrument is not adoption.
 
 Measurement turns those ideas into practical questions:
 
@@ -49,7 +49,7 @@ Measurement turns those ideas into practical questions:
 
 [Material stake](core_00_preamble.md#material-stake) scales how demanding the answers must be; it is not a seventh score or a replacement for the Rights Floor.
 
-When provisions appear to pull in different directions, readers use integrated interpretation and the [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack). A later process, companion, metric, or convenience rule cannot bypass a binding source constraint or turn a proxy into the constitutional result.
+When provisions appear to pull in different directions, readers use integrated interpretation and the [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack). A later process, adopted implementation text, metric, or convenience rule cannot bypass a binding source constraint or turn a proxy into the constitutional result.
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 
@@ -861,7 +861,7 @@ flowchart TB
     H["Chapter Fifteen<br/><br/>Supremacy within scope and external-law relations"]
     U["Chapter Sixteen<br/><br/>Amendment, ratification and adoption procedures"]
     B["Chapter Seventeen<br/><br/>Incorporation, edition and custody"]
-    I["Adopted companion obligations<br/><br/>Systems · Institutions · Forums · Joint structure"]
+    I["Adopted implementation obligations<br/><br/>Systems · Institutions · Forums · Joint structure"]
     A -->|authorizes within documented terms| G
     G -->|must ensure| P
     G -->|remains subject to| R
@@ -1003,14 +1003,14 @@ See [Chapter Thirteen §5](core_13_governance.md#5-authorized-roles-competency-d
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 
-## Companion corpora make the structure operational
+## Adopted corpora make the structure operational
 
 ```mermaid
 flowchart TB
     Core["Numbered core_* files<br/><br/>Preamble + Chapters One–Seventeen<br/>Binding constitutional source"]
     Bridge["Chapter Seventeen<br/><br/>Incorporation bridge<br/>Scope · edition · custody"]
     Adopt["Valid adoption<br/><br/>Chapters Sixteen and Seventeen"]
-    subgraph Comp["Companion implementation corpus · implements, not narrows"]
+    subgraph Comp["Adopted implementation corpus · implements, not narrows"]
         direction LR
         J["corpus_joint_structure<br/><br/>Cross-implementation links"]
         S["corpus_systems<br/><br/>System classifications and protocols"]
@@ -1035,14 +1035,14 @@ flowchart TB
     style Support fill:none,stroke:#64748b,color:#ffffff
 ```
 
-The four companions divide implementation work:
+The four adopted corpora divide implementation work:
 
 - [Systems](corpus_systems.md) covers classification and system protocols.
 - [Institutions](corpus_institutions.md) covers organizational arrangements.
 - [Forums](corpus_forum.md) covers review operations.
 - [Joint structure](corpus_joint_structure.md) connects their shared procedures and interfaces.
 
-Designated companion obligations bind within valid incorporation and adoption scope. They apply the core’s meanings and protections. Navigation pages, indexes, lookup tools, and this overview help readers reach that text. The [Preamble’s companion map](core_00_preamble.md#9-companion-implementation-corpus) and [README’s source-layer distinction](README.md#binding-vs-support) explain these relationships. Companion and process-support material is still less mature than the numbered core.
+Designated adopted implementation obligations bind within valid incorporation and adoption scope. They apply the core’s meanings and protections. Navigation pages, indexes, lookup tools, and this overview help readers reach that text. The [Preamble’s adopted implementation map](core_00_preamble.md#9-adopted-implementation-corpus) and [README’s source-layer distinction](README.md#binding-vs-support) explain these relationships. Adopted implementation text and process-support material is still less mature than the numbered core.
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-09-20T12:11:11+00:00",
+  "generated_at": "2026-09-22T16:21:37+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -4309,8 +4309,8 @@
       "term": "Continuity",
       "file": "core_01_a_values_principles.md",
       "anchor": "#continuity",
-      "line_start": 44,
-      "line_end": 44
+      "line_start": 45,
+      "line_end": 45
     },
     {
       "term": "Contribution Nature",
@@ -4526,8 +4526,8 @@
       "term": "Flourishing (principle layer)",
       "file": "core_01_a_values_principles.md",
       "anchor": "#flourishing",
-      "line_start": 44,
-      "line_end": 44
+      "line_start": 45,
+      "line_end": 45
     },
     {
       "term": "Force Majeure",
@@ -5555,8 +5555,8 @@
       "term": "Two Constitutional Aims",
       "file": "core_01_a_values_principles.md",
       "anchor": "#two-constitutional-aims",
-      "line_start": 44,
-      "line_end": 44
+      "line_start": 45,
+      "line_end": 45
     },
     {
       "term": "Unified Incident",

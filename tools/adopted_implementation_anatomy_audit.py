@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Audit the reader-facing anatomy of companion implementation subfiles.
+"""Audit the reader-facing anatomy of adopted-implementation subfiles.
 
 The CJS, CS, CI, and CF subfiles are expected to open the way the numbered
 ``core_*`` files do, so a reader lands on a title and a plain-language summary
@@ -10,7 +10,7 @@ rather than on collapsed routing widgets:
 3. a one-line ``*In plain terms:*`` gloss before the first operative paragraph.
 
 It also rejects the content-free Trace lines that accumulated across the
-companion layers -- a ``Downstream:`` that only names the section it sits in, a
+adopted-implementation layers -- a ``Downstream:`` that only names the section it sits in, a
 ``Read with:`` that cites nothing but its own section, and an ``Upstream:``
 repeated verbatim from the file-level Trace block.
 """
@@ -22,7 +22,7 @@ import re
 import sys
 from pathlib import Path
 
-from corpus_paths import COMPANION_SUBDIRS
+from corpus_paths import ADOPTED_IMPLEMENTATION_SUBDIRS
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -62,9 +62,9 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
-def companion_paths(root: Path) -> list[Path]:
+def adopted_implementation_paths(root: Path) -> list[Path]:
     paths: list[Path] = []
-    for subdir in COMPANION_SUBDIRS:
+    for subdir in ADOPTED_IMPLEMENTATION_SUBDIRS:
         base = root / subdir
         if base.is_dir():
             paths.extend(sorted(base.glob("*.md")))
@@ -174,18 +174,18 @@ def main() -> int:
     args = parse_args()
     root = args.root.resolve()
     findings: list[str] = []
-    paths = companion_paths(root)
+    paths = adopted_implementation_paths(root)
     for path in paths:
         findings.extend(audit_file(path, root, strict=args.strict))
 
     if findings:
-        print("Companion anatomy audit failures:", file=sys.stderr)
+        print("Adopted implementation anatomy audit failures:", file=sys.stderr)
         for item in findings:
             print(f"  - {item}", file=sys.stderr)
         print(f"Total: {len(findings)} across {len(paths)} files", file=sys.stderr)
         return 1
 
-    print(f"Companion anatomy audit OK ({len(paths)} files).")
+    print(f"Adopted implementation anatomy audit OK ({len(paths)} files).")
     return 0
 
 

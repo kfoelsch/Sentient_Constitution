@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-20T12:11:10+00:00",
+  "generated_at": "2026-09-22T16:21:36+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -162,315 +162,315 @@
       },
       {
         "id": "corpus_systems.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_institutions.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_forum.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_joint_structure.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_joint_structure/cjs_03a_accountability_operations.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_joint_structure/cjs_03c_continuity_operations.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_joint_structure/cjs_03i_integrative_operations.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_joint_structure/cjs_03o_oversight_operations.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_joint_structure/cjs_03p_participation_operations.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_joint_structure/cjs_03u_audit_process.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_joint_structure/cjs_04_drafting_contracts.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_joint_structure/cjs_05_odef_parse_mechanics.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_joint_structure/cjs_06_support_hosting_classification.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_joint_structure/cjs_reader_guide.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_systems/cs_00_registry_and_reading_rules.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_systems/cs_01_scope_purpose_identifier_rules.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_systems/cs_02_a_information_types_and_handling.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_systems/cs_02_b_data_classifications.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_systems/cs_03_a_system_classification_machinery.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_systems/cs_03_b_system_impact_classifications.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_systems/cs_04_critical_system_stewardship.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_systems/cs_05_a_user_facing_capabilities.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_systems/cs_05_design_testing_verification_deployment.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_systems/cs_06_comprehensibility_complexity_stewardship.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_systems/cs_10_transition_constitution_migration_governance.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_systems/cs_11_subversion_response_replacement_reconstitution.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_systems/cs_12_decentralized_continuity_partition_resilience.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_institutions/ci_00_registry_and_reading_rules.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_institutions/ci_12_cross_institution_coordination_escalation.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_institutions/ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_institutions/ci_18_collective_public_health_epidemic_response_addiction_informed_care.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_institutions/ci_23_place_based_stewardship_indigenous_continuity_consultation.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_institutions/ci_24_innovation_reward_disclosure_anti_enclosure.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_institutions/ci_26_compliance_mapping_stable_registry.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_forum/cf_00_registry_and_reading_rules.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_forum/cf_01_scope_authority_boundary_rules.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_forum/cf_03_forum_formation_chamber_structure.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_forum/cf_08_forum_forensic_analytical_support.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_forum/cf_12_forum_continuity.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_forum/cf_13_fallback_operation.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_forum/cf_14_emergency_adjudication.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_forum/cf_15_standard_records_forms_evidence_artifacts.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_forum/cf_16_staffing_reserve_capacity_structural_records.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       },
       {
         "id": "corpus_forum/cf_sentience_status_record.md",
-        "type": "companion"
+        "type": "adopted-implementation"
       }
     ],
     "edges": [
@@ -724,7 +724,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 70,
+            "count": 72,
             "anchors": [
               "#constitutional-tetrad",
               "#continuity",
@@ -736,11 +736,12 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 32,
+            "count": 34,
             "anchors": [
               "#6-process-conflict-resolution",
               "#61-core-tradeoff-principles",
               "#611-necessity",
+              "#614-constitutional-floors-safety-and-process-character-constraints",
               "#615-rights-collision-decision-test",
               "#62-epistemic-disclosure-constraints",
               "#621-preservation-of-epistemic-integrity",
@@ -752,20 +753,20 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 22,
+            "count": 26,
             "anchors": [
-              "#10-governance-under-stewardship-discipline",
-              "#11-incentive-alignment-and-system-capture",
-              "#1113-stewardship-and-operator-application",
-              "#1114-role-depth-and-material-responsibility-pathways",
-              "#12-shared-system-capacity",
-              "#13-market-structure",
-              "#132-pro-competition-and-anti-domination",
-              "#14-systemic-evaluation-requirement",
-              "#15-integrated-application",
-              "#9-stewardship-and-distributed-understanding",
-              "#91-stewardship",
-              "#95-aligned-self-organization"
+              "#10-consequential-stewardship",
+              "#104-aligned-self-organization",
+              "#11-governance-under-stewardship-discipline",
+              "#12-incentive-alignment-and-system-capture",
+              "#1213-stewardship-and-operator-application",
+              "#1214-role-depth-and-material-responsibility-pathways",
+              "#13-shared-system-capacity",
+              "#14-market-structure",
+              "#142-pro-competition-and-anti-domination",
+              "#15-systemic-evaluation-requirement",
+              "#16-integrated-application",
+              "#9-stewardship-in-depth"
             ]
           },
           {
@@ -789,7 +790,7 @@
           },
           {
             "file": "core_05_apex_oversight_leg.md",
-            "count": 6,
+            "count": 7,
             "anchors": [
               "#oversight-constitutional",
               "#oversight-constitutional-a",
@@ -809,11 +810,14 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 87,
+            "count": 110,
             "anchors": [
               "#contestability",
               "#contestability-a",
               "#contestability-c",
+              "#cruelty",
+              "#cruelty-a",
+              "#cruelty-c",
               "#feasibility",
               "#feasibility-a",
               "#feasibility-c",
@@ -923,7 +927,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 179,
+            "count": 185,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -990,7 +994,7 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 23,
+            "count": 24,
             "anchors": [
               "#article-ix-b-stakeholder-role-and-participation-rights",
               "#article-ix-self-determination-and-agency",
@@ -1026,8 +1030,9 @@
           },
           {
             "file": "core_06_rights_part_d.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
+              "#article-xxiii-a-justice-objective-and-scope",
               "#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality",
               "#article-xxiv-a-retrospective-review-and-disclosure"
             ]
@@ -1076,6 +1081,11 @@
             "file": "corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md",
+            "count": 1,
+            "anchors": []
           }
         ]
       },
@@ -1096,9 +1106,10 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 28,
+            "count": 29,
             "anchors": [
               "#2-foundational-objective-wellbeing",
+              "#23-anti-degrading-process",
               "#31-safety-harm-constraint",
               "#32-truth-epistemic-integrity-constraint",
               "#33-science-informed-inquiry-and-decision-support",
@@ -1109,15 +1120,14 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 12,
+            "count": 11,
             "anchors": [
-              "#101-governance-as-authorized-structure",
-              "#1113-stewardship-and-operator-application",
-              "#122-constitutional-efficiency",
-              "#15-integrated-application",
-              "#9-stewardship-and-distributed-understanding",
-              "#91-stewardship",
-              "#96-process-character-discipline"
+              "#10-consequential-stewardship",
+              "#111-governance-as-authorized-structure",
+              "#1213-stewardship-and-operator-application",
+              "#132-constitutional-efficiency",
+              "#16-integrated-application",
+              "#9-stewardship-in-depth"
             ]
           },
           {
@@ -1356,6 +1366,13 @@
             ]
           },
           {
+            "file": "core_07_functional_independence_segregation_of_duties.md",
+            "count": 2,
+            "anchors": [
+              "#chapter-seven-functional-independence-and-segregation-of-duties"
+            ]
+          },
+          {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 2,
             "anchors": [
@@ -1416,7 +1433,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 99,
+            "count": 98,
             "anchors": [
               "#chapter-00-preamble--foundational-requirements",
               "#constitutional-tetrad",
@@ -1429,7 +1446,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 28,
+            "count": 27,
             "anchors": [
               "#1-purpose-and-role",
               "#2-foundational-objective-wellbeing",
@@ -1443,11 +1460,10 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 37,
+            "count": 35,
             "anchors": [
               "#6-process-conflict-resolution",
               "#613-proportionality",
-              "#614-constitutional-floors-safety-and-process-character-constraints",
               "#615-rights-collision-decision-test",
               "#62-epistemic-disclosure-constraints",
               "#623-privacy-and-informational-self-determination",
@@ -1463,7 +1479,7 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 1,
             "anchors": [
-              "#9-stewardship-and-distributed-understanding"
+              "#9-stewardship-in-depth"
             ]
           },
           {
@@ -1491,7 +1507,7 @@
           },
           {
             "file": "core_05_apex_oversight_leg.md",
-            "count": 43,
+            "count": 42,
             "anchors": [
               "#oversight-constitutional",
               "#oversight-constitutional-a",
@@ -1521,7 +1537,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 379,
+            "count": 356,
             "anchors": [
               "#attributable-action-constitutional",
               "#attributable-action-constitutional-a",
@@ -1539,9 +1555,6 @@
               "#contingent-claim-a",
               "#contingent-claim-c",
               "#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent",
-              "#cruelty",
-              "#cruelty-a",
-              "#cruelty-c",
               "#educational-agency-o",
               "#event-contract-market",
               "#event-contract-market-a",
@@ -1555,9 +1568,6 @@
               "#governance",
               "#governance-a",
               "#governance-c",
-              "#harm",
-              "#harm-a",
-              "#harm-c",
               "#insider-advantage",
               "#insider-advantage-a",
               "#insider-advantage-c",
@@ -1721,7 +1731,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 119,
+            "count": 113,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -1762,10 +1772,9 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 9,
+            "count": 8,
             "anchors": [
               "#article-ix-self-determination-and-agency",
-              "#article-v-equal-basic-rights",
               "#article-vi-right-to-sentient-centered-education",
               "#article-vii-b-internal-state-boundary-and-type-n-protection",
               "#article-xi-stakeholder-system-participation-representation-and-due-process"
@@ -1791,9 +1800,8 @@
           },
           {
             "file": "core_06_rights_part_d.md",
-            "count": 4,
+            "count": 3,
             "anchors": [
-              "#article-xxiii-a-justice-objective-and-scope",
               "#article-xxiv-b-rights-collision-procedure-and-restorative-alignment",
               "#article-xxv-a-non-entrenchment-and-revisability",
               "#article-xxv-b-periodic-revalidation-and-transparent-change"
@@ -1910,11 +1918,6 @@
             "anchors": [
               "#10-inspectable-attributable-action"
             ]
-          },
-          {
-            "file": "corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md",
-            "count": 1,
-            "anchors": []
           }
         ]
       },
@@ -2054,7 +2057,7 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 1,
             "anchors": [
-              "#116-successor-responsibility-and-formal-structure-non-escape"
+              "#126-successor-responsibility-and-formal-structure-non-escape"
             ]
           },
           {
@@ -2616,10 +2619,10 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 5,
             "anchors": [
-              "#10-governance-under-stewardship-discipline",
-              "#11-incentive-alignment-and-system-capture",
-              "#116-successor-responsibility-and-formal-structure-non-escape",
-              "#13-market-structure"
+              "#11-governance-under-stewardship-discipline",
+              "#12-incentive-alignment-and-system-capture",
+              "#126-successor-responsibility-and-formal-structure-non-escape",
+              "#14-market-structure"
             ]
           },
           {
@@ -2730,8 +2733,8 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 3,
             "anchors": [
-              "#1115-constitutional-outcome-claims-discipline",
-              "#12-shared-system-capacity"
+              "#1215-constitutional-outcome-claims-discipline",
+              "#13-shared-system-capacity"
             ]
           },
           {
@@ -2835,7 +2838,7 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 2,
             "anchors": [
-              "#1115-constitutional-outcome-claims-discipline"
+              "#1215-constitutional-outcome-claims-discipline"
             ]
           },
           {
@@ -2936,7 +2939,7 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 1,
             "anchors": [
-              "#10-governance-under-stewardship-discipline"
+              "#11-governance-under-stewardship-discipline"
             ]
           },
           {
@@ -3040,8 +3043,8 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 2,
             "anchors": [
-              "#1115-constitutional-outcome-claims-discipline",
-              "#9-stewardship-and-distributed-understanding"
+              "#1215-constitutional-outcome-claims-discipline",
+              "#9-stewardship-in-depth"
             ]
           },
           {
@@ -3210,9 +3213,10 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 16,
+            "count": 23,
             "anchors": [
               "#2-foundational-objective-wellbeing",
+              "#23-anti-degrading-process",
               "#3-non-negotiable-constraints-safety-and-truth",
               "#31-safety-harm-constraint",
               "#5-freedom-bounded-agency"
@@ -3233,21 +3237,21 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 47,
+            "count": 40,
             "anchors": [
-              "#10-governance-under-stewardship-discipline",
-              "#101-governance-as-authorized-structure",
-              "#1115-constitutional-outcome-claims-discipline",
-              "#115-contingent-claims-games-of-chance-and-event-contract-markets",
-              "#116-successor-responsibility-and-formal-structure-non-escape",
-              "#121-productive-capacity-instrumental-good",
-              "#13-market-structure",
-              "#131-market-concentration-threshold-mechanism-adopter-tunable",
-              "#132-pro-competition-and-anti-domination",
-              "#133-consolidation-ceiling",
-              "#15-integrated-application",
-              "#95-aligned-self-organization",
-              "#96-process-character-discipline"
+              "#104-aligned-self-organization",
+              "#11-governance-under-stewardship-discipline",
+              "#111-governance-as-authorized-structure",
+              "#1215-constitutional-outcome-claims-discipline",
+              "#125-contingent-claims-games-of-chance-and-event-contract-markets",
+              "#126-successor-responsibility-and-formal-structure-non-escape",
+              "#131-productive-capacity-instrumental-good",
+              "#14-market-structure",
+              "#141-market-concentration-threshold-mechanism-adopter-tunable",
+              "#142-pro-competition-and-anti-domination",
+              "#143-consolidation-ceiling",
+              "#16-integrated-application",
+              "#95-process-character-discipline"
             ]
           },
           {
@@ -3719,23 +3723,23 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 45,
             "anchors": [
-              "#10-governance-under-stewardship-discipline",
-              "#11-incentive-alignment-and-system-capture",
-              "#111-alignment-requirement",
-              "#1113-stewardship-and-operator-application",
-              "#1115-constitutional-outcome-claims-discipline",
-              "#113-misalignment-detection",
-              "#114-misalignment-correction-and-capture-response",
-              "#12-shared-system-capacity",
-              "#121-productive-capacity-instrumental-good",
-              "#122-constitutional-efficiency",
-              "#13-market-structure",
-              "#131-market-concentration-threshold-mechanism-adopter-tunable",
-              "#133-consolidation-ceiling",
-              "#9-stewardship-and-distributed-understanding",
-              "#911-shared-stewardship-standard",
-              "#92-distributed-understanding",
-              "#94-openness-aspiration",
+              "#101-shared-stewardship-standard",
+              "#11-governance-under-stewardship-discipline",
+              "#12-incentive-alignment-and-system-capture",
+              "#121-alignment-requirement",
+              "#1213-stewardship-and-operator-application",
+              "#1215-constitutional-outcome-claims-discipline",
+              "#123-misalignment-detection",
+              "#124-misalignment-correction-and-capture-response",
+              "#13-shared-system-capacity",
+              "#131-productive-capacity-instrumental-good",
+              "#132-constitutional-efficiency",
+              "#14-market-structure",
+              "#141-market-concentration-threshold-mechanism-adopter-tunable",
+              "#143-consolidation-ceiling",
+              "#9-stewardship-in-depth",
+              "#91-distributed-understanding",
+              "#93-openness-aspiration",
               "#chapter-01-part-c-stewardship-and-governance"
             ]
           },
@@ -4177,17 +4181,17 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 19,
             "anchors": [
-              "#10-governance-under-stewardship-discipline",
-              "#11-incentive-alignment-and-system-capture",
-              "#111-alignment-requirement",
-              "#1113-stewardship-and-operator-application",
-              "#1114-role-depth-and-material-responsibility-pathways",
-              "#1115-constitutional-outcome-claims-discipline",
-              "#112-convenient-proxies-and-proxy-divergence",
-              "#113-misalignment-detection",
-              "#114-misalignment-correction-and-capture-response",
-              "#115-contingent-claims-games-of-chance-and-event-contract-markets",
-              "#15-integrated-application"
+              "#11-governance-under-stewardship-discipline",
+              "#12-incentive-alignment-and-system-capture",
+              "#121-alignment-requirement",
+              "#1213-stewardship-and-operator-application",
+              "#1214-role-depth-and-material-responsibility-pathways",
+              "#1215-constitutional-outcome-claims-discipline",
+              "#122-convenient-proxies-and-proxy-divergence",
+              "#123-misalignment-detection",
+              "#124-misalignment-correction-and-capture-response",
+              "#125-contingent-claims-games-of-chance-and-event-contract-markets",
+              "#16-integrated-application"
             ]
           },
           {
@@ -4435,10 +4439,10 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 4,
             "anchors": [
-              "#10-governance-under-stewardship-discipline",
-              "#9-stewardship-and-distributed-understanding",
-              "#92-distributed-understanding",
-              "#93-institutional-development"
+              "#11-governance-under-stewardship-discipline",
+              "#9-stewardship-in-depth",
+              "#91-distributed-understanding",
+              "#92-institutional-development"
             ]
           },
           {
@@ -4672,9 +4676,9 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 5,
             "anchors": [
-              "#10-governance-under-stewardship-discipline",
-              "#13-market-structure",
-              "#9-stewardship-and-distributed-understanding"
+              "#11-governance-under-stewardship-discipline",
+              "#14-market-structure",
+              "#9-stewardship-in-depth"
             ]
           },
           {
@@ -5071,6 +5075,13 @@
             ]
           },
           {
+            "file": "core_01_a_values_principles.md",
+            "count": 1,
+            "anchors": [
+              "#23-anti-degrading-process"
+            ]
+          },
+          {
             "file": "core_01_b_interaction_interpretation.md",
             "count": 1,
             "anchors": [
@@ -5079,14 +5090,13 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 9,
+            "count": 8,
             "anchors": [
-              "#10-governance-under-stewardship-discipline",
-              "#101-governance-as-authorized-structure",
-              "#102-segregation-of-duties",
-              "#113-misalignment-detection",
-              "#911-shared-stewardship-standard",
-              "#96-process-character-discipline"
+              "#101-shared-stewardship-standard",
+              "#11-governance-under-stewardship-discipline",
+              "#111-governance-as-authorized-structure",
+              "#112-segregation-of-duties",
+              "#123-misalignment-detection"
             ]
           },
           {
@@ -5317,11 +5327,11 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 12,
             "anchors": [
-              "#10-governance-under-stewardship-discipline",
-              "#11-incentive-alignment-and-system-capture",
-              "#1114-role-depth-and-material-responsibility-pathways",
-              "#14-systemic-evaluation-requirement",
-              "#9-stewardship-and-distributed-understanding"
+              "#11-governance-under-stewardship-discipline",
+              "#12-incentive-alignment-and-system-capture",
+              "#1214-role-depth-and-material-responsibility-pathways",
+              "#15-systemic-evaluation-requirement",
+              "#9-stewardship-in-depth"
             ]
           },
           {
@@ -5820,10 +5830,10 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 7,
             "anchors": [
-              "#10-governance-under-stewardship-discipline",
-              "#11-incentive-alignment-and-system-capture",
-              "#113-misalignment-detection",
-              "#9-stewardship-and-distributed-understanding",
+              "#11-governance-under-stewardship-discipline",
+              "#12-incentive-alignment-and-system-capture",
+              "#123-misalignment-detection",
+              "#9-stewardship-in-depth",
               "#chapter-01-principles-and-constraints"
             ]
           },
@@ -6071,7 +6081,7 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 1,
             "anchors": [
-              "#911-shared-stewardship-standard"
+              "#101-shared-stewardship-standard"
             ]
           },
           {
@@ -6393,12 +6403,12 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 6,
             "anchors": [
-              "#11-incentive-alignment-and-system-capture",
-              "#1112-what-incentives-must-not-do",
-              "#121-productive-capacity-instrumental-good",
-              "#131-market-concentration-threshold-mechanism-adopter-tunable",
-              "#132-pro-competition-and-anti-domination",
-              "#133-consolidation-ceiling"
+              "#12-incentive-alignment-and-system-capture",
+              "#1212-what-incentives-must-not-do",
+              "#131-productive-capacity-instrumental-good",
+              "#141-market-concentration-threshold-mechanism-adopter-tunable",
+              "#142-pro-competition-and-anti-domination",
+              "#143-consolidation-ceiling"
             ]
           },
           {
@@ -6667,8 +6677,8 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 5,
             "anchors": [
-              "#122-constitutional-efficiency",
-              "#95-aligned-self-organization",
+              "#104-aligned-self-organization",
+              "#132-constitutional-efficiency",
               "#chapter-01-principles-and-constraints"
             ]
           },
@@ -6916,9 +6926,9 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 3,
             "anchors": [
-              "#91-stewardship",
-              "#911-shared-stewardship-standard",
-              "#913-role-scoped-observability"
+              "#10-consequential-stewardship",
+              "#101-shared-stewardship-standard",
+              "#103-role-scoped-observability"
             ]
           },
           {
@@ -7101,15 +7111,15 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 18,
             "anchors": [
-              "#10-governance-under-stewardship-discipline",
-              "#11-incentive-alignment-and-system-capture",
-              "#1113-stewardship-and-operator-application",
-              "#116-successor-responsibility-and-formal-structure-non-escape",
-              "#12-shared-system-capacity",
-              "#131-market-concentration-threshold-mechanism-adopter-tunable",
-              "#14-systemic-evaluation-requirement",
-              "#9-stewardship-and-distributed-understanding",
-              "#92-distributed-understanding"
+              "#11-governance-under-stewardship-discipline",
+              "#12-incentive-alignment-and-system-capture",
+              "#1213-stewardship-and-operator-application",
+              "#126-successor-responsibility-and-formal-structure-non-escape",
+              "#13-shared-system-capacity",
+              "#141-market-concentration-threshold-mechanism-adopter-tunable",
+              "#15-systemic-evaluation-requirement",
+              "#9-stewardship-in-depth",
+              "#91-distributed-understanding"
             ]
           },
           {
@@ -7420,12 +7430,12 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 17,
             "anchors": [
-              "#10-governance-under-stewardship-discipline",
-              "#11-incentive-alignment-and-system-capture",
-              "#121-productive-capacity-instrumental-good",
-              "#13-market-structure",
-              "#131-market-concentration-threshold-mechanism-adopter-tunable",
-              "#15-integrated-application"
+              "#11-governance-under-stewardship-discipline",
+              "#12-incentive-alignment-and-system-capture",
+              "#131-productive-capacity-instrumental-good",
+              "#14-market-structure",
+              "#141-market-concentration-threshold-mechanism-adopter-tunable",
+              "#16-integrated-application"
             ]
           },
           {
@@ -7807,15 +7817,15 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 38,
             "anchors": [
-              "#10-governance-under-stewardship-discipline",
-              "#11-incentive-alignment-and-system-capture",
-              "#111-alignment-requirement",
-              "#12-shared-system-capacity",
-              "#13-market-structure",
-              "#14-systemic-evaluation-requirement",
-              "#15-integrated-application",
-              "#9-stewardship-and-distributed-understanding",
-              "#92-distributed-understanding"
+              "#11-governance-under-stewardship-discipline",
+              "#12-incentive-alignment-and-system-capture",
+              "#121-alignment-requirement",
+              "#13-shared-system-capacity",
+              "#14-market-structure",
+              "#15-systemic-evaluation-requirement",
+              "#16-integrated-application",
+              "#9-stewardship-in-depth",
+              "#91-distributed-understanding"
             ]
           },
           {
@@ -8191,9 +8201,10 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 14,
+            "count": 15,
             "anchors": [
               "#2-foundational-objective-wellbeing",
+              "#23-anti-degrading-process",
               "#31-safety-harm-constraint",
               "#32-truth-epistemic-integrity-constraint",
               "#5-freedom-bounded-agency"
@@ -8219,13 +8230,12 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 10,
+            "count": 9,
             "anchors": [
-              "#10-governance-under-stewardship-discipline",
-              "#103-ongoing-justification",
-              "#122-constitutional-efficiency",
-              "#15-integrated-application",
-              "#96-process-character-discipline"
+              "#11-governance-under-stewardship-discipline",
+              "#113-ongoing-justification",
+              "#132-constitutional-efficiency",
+              "#16-integrated-application"
             ]
           },
           {
@@ -8466,10 +8476,10 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 7,
             "anchors": [
-              "#121-productive-capacity-instrumental-good",
-              "#9-stewardship-and-distributed-understanding",
-              "#911-shared-stewardship-standard",
-              "#912-symmetric-costly-constraints",
+              "#101-shared-stewardship-standard",
+              "#102-symmetric-costly-constraints",
+              "#131-productive-capacity-instrumental-good",
+              "#9-stewardship-in-depth",
               "#chapter-01-principles-and-constraints"
             ]
           },
@@ -10266,7 +10276,7 @@
             "count": 3,
             "anchors": [
               "#4-principles-definitions-and-rights",
-              "#8-companion-implementation-corpus"
+              "#9-adopted-implementation-corpus"
             ]
           },
           {
@@ -10702,14 +10712,14 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 13,
             "anchors": [
-              "#13-market-structure",
-              "#131-market-concentration-threshold-mechanism-adopter-tunable",
-              "#132-pro-competition-and-anti-domination",
-              "#1322-anti-domination-prohibitions-donts",
-              "#1323-remedies",
-              "#133-consolidation-ceiling",
-              "#1331-consolidation-risk-pre-lock-in-impairment",
-              "#1332-ceiling-discipline-adopter-requirements"
+              "#14-market-structure",
+              "#141-market-concentration-threshold-mechanism-adopter-tunable",
+              "#142-pro-competition-and-anti-domination",
+              "#1422-anti-domination-prohibitions-donts",
+              "#1423-remedies",
+              "#143-consolidation-ceiling",
+              "#1431-consolidation-risk-pre-lock-in-impairment",
+              "#1432-ceiling-discipline-adopter-requirements"
             ]
           },
           {
@@ -12518,7 +12528,7 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 1,
             "anchors": [
-              "#115-contingent-claims-games-of-chance-and-event-contract-markets"
+              "#125-contingent-claims-games-of-chance-and-event-contract-markets"
             ]
           },
           {
@@ -12736,11 +12746,11 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 5,
             "anchors": [
-              "#121-productive-capacity-instrumental-good",
-              "#13-market-structure",
-              "#911-shared-stewardship-standard",
-              "#912-symmetric-costly-constraints",
-              "#913-role-scoped-observability"
+              "#101-shared-stewardship-standard",
+              "#102-symmetric-costly-constraints",
+              "#103-role-scoped-observability",
+              "#131-productive-capacity-instrumental-good",
+              "#14-market-structure"
             ]
           },
           {
@@ -14337,6 +14347,13 @@
             ]
           },
           {
+            "file": "core_01_a_values_principles.md",
+            "count": 1,
+            "anchors": [
+              "#23-anti-degrading-process"
+            ]
+          },
+          {
             "file": "core_01_b_interaction_interpretation.md",
             "count": 4,
             "anchors": [
@@ -14346,12 +14363,11 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 5,
+            "count": 4,
             "anchors": [
-              "#14-systemic-evaluation-requirement",
-              "#911-shared-stewardship-standard",
-              "#912-symmetric-costly-constraints",
-              "#96-process-character-discipline"
+              "#101-shared-stewardship-standard",
+              "#102-symmetric-costly-constraints",
+              "#15-systemic-evaluation-requirement"
             ]
           },
           {
@@ -18015,7 +18031,7 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 1,
             "anchors": [
-              "#95-aligned-self-organization"
+              "#104-aligned-self-organization"
             ]
           },
           {

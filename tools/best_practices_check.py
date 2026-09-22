@@ -245,7 +245,7 @@ def materialize_reviews(root: pathlib.Path) -> list[DomainReview]:
         corpus_institutions,
         [
             "SYSTEMS_IMPLEMENTATION_TEMPLATES_2026-04-13.md",
-            "companion system-level packet",
+            "adopted-implementation system-level packet",
         ],
     )
     systems_example_packet = root / "implementation" / "SYSTEMS_TEMPLATE_EXAMPLE_HIGH_IMPACT_2026-04-13.md"

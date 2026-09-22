@@ -93,7 +93,7 @@ Beyond the sitting’s bounded reading path, open:
 - [CI-20](../../../corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md) — routing for coercive control in close relationships
 - [Article X-A](../../../core_06_rights_part_b.md#article-x-a-non-imposition-and-consent-in-association) (*Non-Imposition and Consent in Association*)
 
-Companions cannot narrow core. If a pointer and core diverge, core wins.
+Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 
 ## Ask
 

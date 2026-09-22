@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate grouped companion-wrapper family indexes from family_map.json.
+"""Generate grouped adopted-implementation-wrapper family indexes from family_map.json.
 
 The four landing wrappers are the human TOCs. This tool patches the region
 between BEGIN/END GENERATED FAMILY INDEX markers. ``--check`` is the audit
@@ -147,7 +147,7 @@ def main() -> int:
                 drift.append(layer["wrapper"])
 
     if args.write:
-        print("Wrote grouped family indexes into the four companion wrappers.")
+        print("Wrote grouped family indexes into the four adopted-implementation wrappers.")
         return 0
     if drift:
         print("Family-map index drift:", file=sys.stderr)

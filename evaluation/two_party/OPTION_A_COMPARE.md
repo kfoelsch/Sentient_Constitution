@@ -28,6 +28,6 @@ Wording may differ. Example: both route to Standing / Chapters Nine–Ten and pr
 | **Owner stack** | Same constitutional owner (chapter / article / definition home), even if the sentence differs |
 | **Next-step class** | Same class of move (for example `open_or_correct_standing_record`), not the same prose |
 | **Citation homes** | Pointers land on the same named homes |
-| **No parallel norm** | Neither file invents an AI-only overlay, a human exemption, or a companion that narrows core |
+| **No parallel norm** | Neither file invents an AI-only overlay, a human exemption, or adopted implementation text that narrows core |
 
 If the corpus underdetermined the item, both parties naming the underdetermination without inventing a winner is a pass on “no parallel norm,” not a fail on owner match.

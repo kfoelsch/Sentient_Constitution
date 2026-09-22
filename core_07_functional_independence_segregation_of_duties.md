@@ -9,7 +9,7 @@
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Seven**: the cross-process floor for functional independence and segregation of duties. It follows the Chapter Six Rights Floor and precedes the constitutional process chapters beginning with [Chapter Eight system alignment certification](core_08_system_alignment_certification.md#chapter-eight-system-alignment-certification-index).
 >
 > - **Constitutional owner:** the distinct-seat floor for materially binding acts; the universal minimum contents of each [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record); independence from the actor and the actor's [Material Control Line](core_05_band_accountability.md#material-control-line); published lane and role placement; conflict, vacancy, substitution, and wrong-seat routing; proportionate merged hosting; attributable handoffs; and the minimum independence conditions that every later constitutional process must apply.
-> - **Principle-layer source:** [Chapter One §10.2](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties) requires governance to preserve functional independence and routes the operative seat architecture here.
+> - **Principle-layer source:** [Chapter One §11.2](core_01_c_stewardship_capacity_principles.md#112-segregation-of-duties) requires governance to preserve functional independence and routes the operative seat architecture here.
 > - **Implementation owner:** [CJS-3.11](corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation), [CI-3.2](corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes), and [CI-4.6](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog) place and operationalize the seats. They may be stricter and may add bounded special-authority seat types; they may not narrow this chapter.
 > - **Process-specific application remains downstream:** Chapter Eight applies this floor to system alignment certification; [Chapter Nine §3.7](core_09_standing_assessment.md#37-segregation-of-duties) applies it to standing records; Chapter Twelve and [corpus_forum.md](corpus_forum.md) apply it to forum process. Those chapters may add safeguards required by their subject matter; they may not create a weaker substitute.
 >
@@ -20,10 +20,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — especially **oversight** and **accountability**; [material stake](core_00_preamble.md#material-stake); [Chapter One §9.1.1 Shared Stewardship Standard](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard); [Chapter One §10 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [Article XV](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
+- Upstream: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — especially **oversight** and **accountability**; [material stake](core_00_preamble.md#material-stake); [Chapter One §10.1 Shared Stewardship Standard](core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard); [Chapter One §11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline); [Article XV](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
 - Subsections: [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines); [§4](#4-published-placement-vacancy-and-substitution); [§5](#5-proportional-scaling-and-merged-hosting); [§6](#6-emergency-and-urgent-action); [§7](#7-act-records-attributable-handoffs-and-wrong-seat-routing); [§8](#8-relationship-to-later-processes).
 - Downstream: [Chapter Eight](core_08_system_alignment_certification.md#chapter-eight-system-alignment-certification-index); [Chapter Nine](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model); [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction); [Chapter Thirteen](core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); designated implementation text named above.
-- Read with: [Chapter One §11.3 Misalignment Detection](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection) (*plural detection and review*); [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional); [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional); [Auditability](core_05_band_oversight.md#auditability); [Contestability](core_05_band_accountability.md#contestability); [Proportionality](core_05_band_accountability.md#proportionality).
+- Read with: [Chapter One §12.3 Misalignment Detection](core_01_c_stewardship_capacity_principles.md#123-misalignment-detection) (*plural detection and review*); [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional); [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional); [Auditability](core_05_band_oversight.md#auditability); [Contestability](core_05_band_accountability.md#contestability); [Proportionality](core_05_band_accountability.md#proportionality).
 
 </details>
 
@@ -45,7 +45,7 @@ Chapter Seven is the constitutional owner of the **functional-independence and s
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: chapter opening owner claim; [Chapter One §10](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional); [Accountability](core_05_apex_accountability_leg.md#accountability).
+- Upstream: chapter opening owner claim; [Chapter One §11](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline); [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional); [Accountability](core_05_apex_accountability_leg.md#accountability).
 - Downstream: [§2](#2-four-seat-constitutional-floor) through [§8](#8-relationship-to-later-processes); every later process that produces or changes a materially binding act.
 - Read with: [Chapter Four](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) for verification substrate; [Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) for challenge and redress; [Article XV](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) for independent-verification Rights Floors.
 
@@ -81,7 +81,7 @@ This chapter states the cross-process segregation-of-duties floor. It does not r
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§1](#1-purpose-scope-and-owner-boundary); [Chapter One §10.2](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties); [Chapter One §9.1.1](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard).
+- Upstream: [§1](#1-purpose-scope-and-owner-boundary); [Chapter One §11.2](core_01_c_stewardship_capacity_principles.md#112-segregation-of-duties); [Chapter One §10.1](core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard).
 - Downstream: [§3](#3-independence-conflict-and-control-lines) through [§8](#8-relationship-to-later-processes); [CI-4.6](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog).
 - Read with: [§5](#5-proportional-scaling-and-merged-hosting) for the only permitted merged-hosting path.
 
@@ -173,7 +173,7 @@ The functional four-seat floor applies at every class. The class-scaled question
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](#2-four-seat-constitutional-floor); [Authority-scaled answerability](core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure); [Article XXII](core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards).
+- Upstream: [§2](#2-four-seat-constitutional-floor); [Authority-scaled answerability](core_01_c_stewardship_capacity_principles.md#111-governance-as-authorized-structure); [Article XXII](core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards).
 - Downstream: [§4](#4-published-placement-vacancy-and-substitution); [§7](#7-act-records-attributable-handoffs-and-wrong-seat-routing); Chapter Eight certification component roles; Chapter Nine record custody; Chapter Twelve forum anti-self-judging.
 - Read with: [Material Control Line](core_05_band_accountability.md#material-control-line); [CI-5](corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md) and [CF-7](corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md) for operational conflict and anti-self-judging safeguards.
 
@@ -230,7 +230,7 @@ Delegation preserves the same seat boundary, evidence duties, record, and clock,
 
 - Upstream: [§2](#2-four-seat-constitutional-floor); [material stake](core_00_preamble.md#material-stake); [Necessity](core_05_band_accountability.md#necessity); [Proportionality](core_05_band_accountability.md#proportionality).
 - Downstream: [Chapter Nine §3.7](core_09_standing_assessment.md#37-informal-and-small-scope-records); [CJS-2.4](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy); [CI-3.2](corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes).
-- Read with: [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) and Chapter One [§9.6 Anti-Degrading Process](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline).
+- Read with: [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) and Chapter One [§2.3 Anti-Degrading Process](core_01_a_values_principles.md#23-anti-degrading-process).
 
 </details>
 
@@ -339,7 +339,7 @@ A steward asked to take a step outside the steward's seat must:
 
 That response is performance of duty, not abandonment of the act. The act proceeds through the right seat. Taking the step because the steward is nearest, fastest, senior, or uniquely knowledgeable is not a cure for a missing seat.
 
-Logs show who did what, but they do not by themselves prove that the action was valid. A log, signature, model trace, checklist, or attestation created by the person or system taking the action has a limited role:
+Logs show who did what, but they do not by themselves prove that the action was valid. A log, signature, model trace, checklist, or attestation created by the sentient or system taking the action has a limited role:
 
 - These materials may provide evidence or be linked to the Act Record.
 - These materials cannot replace an independent review and decision or the official Act Record itself.

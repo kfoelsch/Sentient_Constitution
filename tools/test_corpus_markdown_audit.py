@@ -72,7 +72,7 @@ class ListIntroColonTests(unittest.TestCase):
 
     def test_bare_list_item_label_before_nested_list_fails(self) -> None:
         lines = [
-            "- **Companions.**",
+            "- **Adopted implementation text.**",
             "  - may add logging",
         ]
         findings = check_list_intro_colon(lines, "core_example.md")

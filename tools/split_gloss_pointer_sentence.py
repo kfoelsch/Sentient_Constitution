@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Break the three-clause pointer sentence at the end of companion glosses.
+"""Break the three-clause pointer sentence at the end of adopted-implementation glosses.
 
 The Phase 3 glosses close with one semicolon-chained sentence naming the shared
 floor, the constitutional home, and the local addition. At sixty-plus words it

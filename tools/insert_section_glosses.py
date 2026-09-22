@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Add the missing ``*In plain terms:*`` line to companion sections.
+"""Add the missing ``*In plain terms:*`` line to adopted-implementation sections.
 
 Every core file opens each section with a one-line plain-language gloss, and
-the companion files gained the same convention for the sections that existed at
+the adopted-implementation files gained the same convention for the sections that existed at
 the time. Sections created or promoted afterwards have none, so a reader
 arriving from a citation meets the operative text with no orientation.
 

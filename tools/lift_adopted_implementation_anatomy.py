@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Lift companion implementation subfiles onto the core-file reading anatomy.
+"""Lift adopted-implementation subfiles onto the core-file reading anatomy.
 
 Each file gains the opening a reader gets from a numbered ``core_*`` file:
 

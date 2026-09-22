@@ -43,11 +43,11 @@ Order follows the Makefile `regression` list.
 | `nav-widget-spacer-audit` | C | `tools/nav_widget_spacer_audit.py` | NAV-DAC-12-SPACER | D/A/C vs inline Definition spacer |
 | `trace-dac-widget-order-audit` | S | `tools/trace_dac_widget_order_audit.py` | NAV-DAC-12-ORDER | D/A/C widget or inline Definition immediately after Trace |
 | `widget-top-placement-audit` | S | `tools/widget_top_placement_audit.py` | NAV-WIDGET-TOP-01, NAV-READER-06 | File-top / section-opening widget stack before operative prose |
-| `file-top-placement-audit` (+ `-companions`) | S | `tools/file_top_placement_audit.py` | NAV-PLACEMENT-01 | File-top Corpus placement widget (core; companions with `--include-companions`) |
-| `family-map-audit` | S | `tools/generate_family_map_indexes.py --check` | — | Generated companion-wrapper family indexes match `family_map.json`; regenerate with `make family-map-indexes` |
-| `companion-cite-audit` | S | `tools/companion_cite_audit.py` | — | Wrapper-only companion cites that should point at the owning subfile |
-| `companion-anatomy-audit` | S | `tools/companion_anatomy_audit.py` | — | Reader-facing anatomy of companion subfiles |
-| `companion-filename-audit` (+ `-test`) | S | `tools/companion_filename_audit.py` | NAV-IMPL-FILENAME-01 | Shared numeric prefix only for parts of one chapter |
+| `file-top-placement-audit` (+ `-adopted-implementation`) | S | `tools/file_top_placement_audit.py` | NAV-PLACEMENT-01 | File-top Corpus placement widget (core; adopted-implementation subfiles with `--include-adopted-implementation`) |
+| `family-map-audit` | S | `tools/generate_family_map_indexes.py --check` | — | Generated adopted-implementation-wrapper family indexes match `family_map.json`; regenerate with `make family-map-indexes` |
+| `adopted-implementation-cite-audit` | S | `tools/adopted_implementation_cite_audit.py` | — | Wrapper-only adopted-implementation cites that should point at the owning subfile |
+| `adopted-implementation-anatomy-audit` | S | `tools/adopted_implementation_anatomy_audit.py` | — | Reader-facing anatomy of adopted-implementation subfiles |
+| `adopted-implementation-filename-audit` (+ `-test`) | S | `tools/adopted_implementation_filename_audit.py` | NAV-IMPL-FILENAME-01 | Shared numeric prefix only for parts of one chapter |
 | `trace-routing-prose-audit` | S | `tools/trace_routing_prose_audit.py` | NAV-TRACE-10 | Read with inside Trace; flags disguised read-with routing in operative prose |
 | `in-paragraph-link-audit` | S | `tools/in_paragraph_link_audit.py` | LINK-IN-PARA-14 | Proof registry + See anti-patterns |
 | `ch5-definitions-gravity-audit` | **L** | `tools/ch5_definitions_gravity_audit.py` | CH5-GRAVITY | Admission gate / de-bundling — machinery absorbed into a definition changes what the term binds |

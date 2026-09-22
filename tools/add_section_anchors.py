@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Give every companion section heading an explicit anchor.
+"""Give every adopted-implementation section heading an explicit anchor.
 
 ``cs_02_a_information_types_and_handling.md`` places an ``<a id="...">`` line
 above each heading, so a citation keeps working even if the heading text is

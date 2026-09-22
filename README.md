@@ -4,7 +4,7 @@
 
 **Status:** **Pre-release** (`SC-Corpus-2026.08.09`). Opening this repository is not [Chapter Sixteen §10](core_16_amendment_ratification.md#10-ratification-and-adoption) adoption. License: [CC BY 4.0](LICENSE).
 
-**Core vs operational text.** Numbered `core_*` files (the Preamble and Chapters One through Seventeen) are the binding constitutional source and are in **much better shape**. Operational text outside those files — companion implementation and process-support pages — is **not yet mature**. Core meaning controls. Do not treat operational files as a finished operator manual.
+**Core vs operational text.** Numbered `core_*` files (the Preamble and Chapters One through Seventeen) are the binding constitutional source and are in **much better shape**. Operational text outside those files — adopted implementation and process-support pages — is **not yet mature**. Core meaning controls. Do not treat operational files as a finished operator manual.
 
 This page is the editor map. Sequential chapter reading starts at the [Preamble](core_00_preamble.md).
 
@@ -123,9 +123,9 @@ The corpus is written in plain language with low jargon to improve accessibility
 - Anti-constitutional misconduct designation only → **Chapter Eleven**
 - Relation to local / national / international law → **[Chapter Fifteen §5](core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)**
 
-## Companion implementation corpus
+## Adopted implementation corpus
 
-The numbered `core_*` files state **why** and **what**. The companion files state **how** — taxonomies, protocols, institutions, forum operations, and joint interlocks. They **apply** Chapter Five terms; they do not redefine them or invent parallel rights.
+The numbered `core_*` files state **why** and **what**. The adopted implementation files state **how** — taxonomies, protocols, institutions, forum operations, and joint interlocks. They **apply** Chapter Five terms; they do not redefine them or invent parallel rights.
 
 Designated obligations in these wrappers and their subfile directories are **binding implementation text incorporated by reference** under valid adoption. They do **not** create a second constitutional source.
 
@@ -141,10 +141,10 @@ Designated obligations in these wrappers and their subfile directories are **bin
 | Layer | What counts |
 |-------|-------------|
 | **Binding constitutional source** | Numbered `core_*` files ([`core_00_preamble.md`](core_00_preamble.md) through [`core_17_incorporation.md`](core_17_incorporation.md)) read as one instrument |
-| **Binding incorporated implementation** | Designated obligations in the companion wrappers and linked subfiles above, within valid adoption scope |
+| **Binding incorporated implementation** | Designated obligations in the adopted implementation wrappers and linked subfiles above, within valid adoption scope |
 | **Process / map support** | This README, the editor map [doc_architecture.md](doc_architecture.md), regression and evidence artifacts, and implementation notes unless explicitly adopted |
 
-**Maturity (not source-layer).** Numbered `core_*` files are in **much better shape**. Companion implementation and process-support pages are **not yet mature**. If they disagree with a `core_*` file, the `core_*` file wins. Companions spell out how to carry out what the core already requires; they may not change what those terms mean. Do not treat operational files as a finished operator manual.
+**Maturity (not source-layer).** Numbered `core_*` files are in **much better shape**. Adopted implementation and process-support pages are **not yet mature**. If they disagree with a `core_*` file, the `core_*` file wins. Adopted implementation text spells out how to carry out what the core already requires; it may not change what those terms mean. Do not treat operational files as a finished operator manual.
 
 **Conflict order:** Sentient Constitution meaning controls. Use the **Authority Stack and Internal Hierarchy**, the [**Preamble owner register**](core_00_preamble.md#4-principles-definitions-and-rights), and [**Constitutional Constraint**](core_05_band_integrative.md#constitutional-constraint) to distinguish source-layer status, substantive owner routing, constraint kind, and last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, Sentient Constitution [Constitutional Constraints](core_05_band_integrative.md#constitutional-constraint).
 

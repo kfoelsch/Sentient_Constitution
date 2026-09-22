@@ -39,7 +39,7 @@ Cross-file topics: `topic-route` (CJS-0.1 rows). Human map: [topic-router reader
 
 - Treat substantive edits as corpus changes: run **`make regression`** before publication cuts when instructed by operators (`Makefile`, README checklist).
 - Keep edits scoped to the user request; match existing corpus style and cross-link patterns.
-- Companion filenames (**NAV-IMPL-FILENAME-01**): numbered `cjs_` / `cs_` / `ci_` / `cf_` files share a numeric prefix only when they are parts of the same chapter. Extra same-chapter files need a discriminator (`cjs_03o_`, `cs_02_a_`). Family `01` is the unique scope page. Different chapters get different numbers. Gate: `make companion-filename-audit`.
+- Adopted implementation filenames (**NAV-IMPL-FILENAME-01**): numbered `cjs_` / `cs_` / `ci_` / `cf_` files share a numeric prefix only when they are parts of the same chapter. Extra same-chapter files need a discriminator (`cjs_03o_`, `cs_02_a_`). Family `01` is the unique scope page. Different chapters get different numbers. Gate: `make adopted-implementation-filename-audit`.
 
 ## Vocabulary guardrails (do not use)
 
