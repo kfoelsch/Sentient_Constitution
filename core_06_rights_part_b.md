@@ -52,6 +52,60 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 The chapter-wide interpretive stack in **Part A** §1 (*Purpose and Role*) applies unless a specific article states otherwise.
 
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Part B article map</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
+>
+> **Reader map (non-operative).** This chart shows how the source groups this Part's articles and subarticles. The grid is source grouping, not a process sequence: the articles are not procedural steps, so the map carries no arrows. Subarticle labels are shortened to themes; the numbered articles and subarticles below govern. The chart adds no definitions or duties, establishes no precedence, and cannot replace the source text.
+
+</details>
+
+<br>
+
+```mermaid
+flowchart TB
+    B0["Part B<br/><br/>Personhood, education capability, agency,<br/>cooperation, and stakeholder system participation"]
+    subgraph Bgrid[" "]
+        direction TB
+        subgraph Brow1["Articles V–VI"]
+            direction LR
+            B1["Article V · Equal Basic Rights<br/><br/>• Dignity and equal standing<br/>• Nondiscrimination<br/>• Inclusion in adjudication and operations<br/>• Conscience and worldview<br/>• Sentience-status adjudication<br/>• Developing sentients<br/>• Accessibility<br/>• Expression, assembly, and press"]
+            B2["Article VI · Right to Sentient-Centered Education<br/><br/>• Capability-building education<br/>• Lifelong adaptive learning<br/>• Contestability"]
+        end
+        subgraph Brow2["Articles VII–VIII"]
+            direction LR
+            B3["Article VII · Self-Ownership<br/><br/>• Body and mind<br/>• Internal-state boundary<br/>• Mental-health crisis and intervention<br/>• Family, care, and reproduction<br/>• Voluntary discontinuation of one's own existence"]
+            B4["Article VIII · Likeness, Experiential Data, and Publication Rights<br/><br/>• Likeness and reputation<br/>• Experiential and derived data<br/>• Truthful and high-impact publication<br/>• Creative work and training data"]
+        end
+        subgraph Brow3["Articles IX–X"]
+            direction LR
+            B5["Article IX · Self-Determination and Agency<br/><br/>• Freedom from manipulation<br/>• Stakeholder role and participation<br/>• Governance participation and voting<br/>• Inclusion and exclusion challenges"]
+            B6["Article X · Cooperative Interaction<br/><br/>• Non-imposition and consent<br/>• Collective harm boundary<br/>• Commercial sexual services and sexual exploitation"]
+        end
+        subgraph Brow4["Article XI"]
+            direction LR
+            B7["Article XI · Stakeholder System Participation, Representation, and Due Process<br/><br/>• Participation and representation<br/>• Weighted participation constraints<br/>• Legitimacy and anti-token safeguards<br/>• Internal roles and due process<br/>• Non-capture safeguards"]
+        end
+    end
+    B0 ~~~ Bgrid
+    style Bgrid fill:none,stroke:none
+    style Brow1 fill:none,stroke:none
+    style Brow2 fill:none,stroke:none
+    style Brow3 fill:none,stroke:none
+    style Brow4 fill:none,stroke:none
+    style B0 fill:none,stroke:#2563eb,color:#ffffff
+    style B1 fill:none,stroke:#0f766e,color:#ffffff
+    style B2 fill:none,stroke:#0f766e,color:#ffffff
+    style B3 fill:none,stroke:#0f766e,color:#ffffff
+    style B4 fill:none,stroke:#0f766e,color:#ffffff
+    style B5 fill:none,stroke:#0f766e,color:#ffffff
+    style B6 fill:none,stroke:#0f766e,color:#ffffff
+    style B7 fill:none,stroke:#0f766e,color:#ffffff
+```
+
+**Articles V–XI** below state these floors in full. Part B presumes the Part A material and survival floors and does not replace them.
+
 ### Article V: Equal Basic Rights
 
 <details>

@@ -38,7 +38,7 @@ Chapter Six is the constitutional owner of **Rights Floors** and rights-level in
 - Upstream: [Chapter One §12 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#12-incentive-alignment-and-system-capture).
 - Upstream: Chapters Two through Four; Chapter Five definitions.
 - Downstream: **Parts A through D** of this chapter; [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional); [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
-- Downstream: [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums); [§1.2 Layer scope](#12-layer-scope).
+- Downstream: [Preamble §6.2 How the full chain fits together](core_00_preamble.md#62-how-the-full-chain-fits-together); [§1.2 Layer scope](#12-layer-scope).
 - Read with: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#owner-non-relocation) and the [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights); [Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*).
 - Read with: [Article XV](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
 - Read with: [Article XVIII-B](core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits) (*Contestability and Proportional Restriction Limits*); [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
@@ -73,6 +73,49 @@ The rest of the Constitution explains how this floor is understood, where its li
 
 These background rules apply to every article in this chapter unless a specific article says otherwise.
 
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): chapter structure map</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
+>
+> **Reader map (non-operative).** This chart shows how the four source parts of this chapter sit under the Rights Floor, and that later processes apply the floor rather than shrink it. It adds no definitions or duties, establishes no precedence, and cannot replace the source text.
+
+</details>
+
+<br>
+
+```mermaid
+flowchart TB
+    T["Constitutional Tetrad<br/><br/>Two Constitutional Aims<br/>Scaled to material stake"]
+    R["Chapter Six<br/><br/>Foundational Rights Floor"]
+    subgraph Parts["Chapter Six source parts"]
+        direction TB
+        A["Part A · Articles I–IV<br/><br/>Planetary conditions, material stewardship,<br/>survival, equal educational access, shared resources"]
+        B["Part B · Articles V–XI<br/><br/>Equal standing, education, self-ownership,<br/>data, agency, cooperation, stakeholder participation"]
+        C["Part C · Articles XII–XXII<br/><br/>Trustworthy systems, security, information,<br/>audit, lifecycle, innovation, standing, review"]
+        D["Part D · Articles XXIII–XXVI<br/><br/>Justice, emergency and conflict resolution,<br/>review, constitutional evolution, transition"]
+    end
+    P["Later governance, measurement, certification,<br/><br/>forums, remedy, and implementation<br/>must respect the Rights Floor"]
+    T -->|rights are read with| R
+    R --> A
+    R --> B
+    R --> C
+    R --> D
+    A --> P
+    B --> P
+    C --> P
+    D --> P
+    style T fill:none,stroke:#2563eb,color:#ffffff
+    style R fill:none,stroke:#2563eb,color:#ffffff
+    style A fill:none,stroke:#16a34a,color:#ffffff
+    style B fill:none,stroke:#0f766e,color:#ffffff
+    style C fill:none,stroke:#ea580c,color:#ffffff
+    style D fill:none,stroke:#9333ea,color:#ffffff
+    style P fill:none,stroke:#2563eb,color:#ffffff
+```
+
+The four parts are different reading paths through the same floor. **Part A** (this file) begins with planetary and material preconditions; [Part B](core_06_rights_part_b.md) turns to personal, cooperative, and stakeholder rights; [Part C](core_06_rights_part_c.md) governs trustworthy systems, verification, and interpretive review; [Part D](core_06_rights_part_d.md) governs justice, emergency response, constitutional evolution, and transition. Every part is read with the chapter-wide constraints stated above. Later governance, measurement, certification, forums, remedy, and implementation may apply this floor but may not shrink it.
+
 #### 1.1 Practical Enforcement
 
 The Rights Floor must work in real life, not just on paper:
@@ -105,7 +148,7 @@ Enforcement depends on real checks, not just rules on paper:
 
 **Disputes and timely process**
 - **Justice, restitution, restriction boundaries, emergencies, and rights collisions** — **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*); [Chapter One §6.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)
-- **Key Practical Process Pipelines** — **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*); [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums)
+- **Key Practical Process Pipelines** — **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*); [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [Preamble §6.2 How the full chain fits together](core_00_preamble.md#62-how-the-full-chain-fits-together)
 
 Shorter cross-references to those themes elsewhere in this chapter incorporate these anchors.
 
@@ -122,6 +165,46 @@ This rule covers all of Chapter Six — Articles **I** through **XXVI**:
 - **If new language sounds like process or governance, point to the real owner:** Any future addition to Chapter Six that touches process, governance, or implementation must include a note pointing to where the actual rule lives — the [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights) and, where relevant, the matching [Chapter Five](core_05__definitions_home.md#chapter-five-foundational-definitions) definition.
 
 ### Part A: Planetary preconditions, material stewardship, survival, equal educational access, and shared resources
+
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Part A article map</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
+>
+> **Reader map (non-operative).** This chart shows how the source groups this Part's articles and subarticles. The grid is source grouping, not a process sequence: the articles are not procedural steps, so the map carries no arrows. Subarticle labels are shortened to themes; the numbered articles and subarticles below govern. The chart adds no definitions or duties, establishes no precedence, and cannot replace the source text.
+
+</details>
+
+<br>
+
+```mermaid
+flowchart TB
+    A0["Part A<br/><br/>Planetary preconditions, material stewardship,<br/>survival, equal educational access, and shared resources"]
+    subgraph Agrid[" "]
+        direction TB
+        subgraph Arow1["Articles I–II"]
+            direction LR
+        A1["Article I · Environmental Survival<br/><br/>• Environmental preconditions<br/>• Ecological footprint<br/>• Intergenerational responsibility<br/>• Existential risk and recovery"]
+        A2["Article II · Material Stewardship and Durable-Use Integrity<br/><br/>• Lifecycle honesty<br/>• Repair and servicing<br/>• Designed obsolescence<br/>• Post-sale access<br/>• Info-sphere continuity"]
+        end
+        subgraph Arow2["Articles III–IV"]
+            direction LR
+            A3["Article III · Survival and Equal Educational Access<br/><br/>• Survival<br/>• Equal educational access<br/>• Healthcare access<br/>• Labor and economic floor"]
+            A4["Article IV · Resource Allocation, Dependencies, and Ecosystem Funding<br/><br/>• Dependency mapping<br/>• Cross-system fairness"]
+        end
+    end
+    A0 ~~~ Agrid
+    style Agrid fill:none,stroke:none
+    style Arow1 fill:none,stroke:none
+    style Arow2 fill:none,stroke:none
+    style A0 fill:none,stroke:#2563eb,color:#ffffff
+    style A1 fill:none,stroke:#16a34a,color:#ffffff
+    style A2 fill:none,stroke:#16a34a,color:#ffffff
+    style A3 fill:none,stroke:#16a34a,color:#ffffff
+    style A4 fill:none,stroke:#16a34a,color:#ffffff
+```
+
+**Articles I–IV** below state these floors in full. Part A is the planet-first entry point: environmental and material conditions, survival essentials, equal educational access, and the resource flows every later right presumes.
 
 ### Article I: Environmental Survival
 
@@ -556,7 +639,7 @@ This Article states **constitutional floors** for survival and equal access unde
 
 - Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), and [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency).
 - Read with: Flourishing measurement family (*Survival-floor access as constitutional measurement*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in allocation and contest pathways, **oversight** and audit, **accountability** and remedy, **timeliness** under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** (survival-essential access) and **Continuity** (durable supply and non-regressive delivery).
-- Downstream: [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) and [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) where systems gate or sustain delivery; **Article XII-B** (*Right to Challenge, Review, and Redress*); **Article XVIII-B** (*Contestability and Proportional Restriction Limits*); [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums).
+- Downstream: [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) and [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) where systems gate or sustain delivery; **Article XII-B** (*Right to Challenge, Review, and Redress*); **Article XVIII-B** (*Contestability and Proportional Restriction Limits*); [Preamble §6.2 How the full chain fits together](core_00_preamble.md#62-how-the-full-chain-fits-together).
 
 </details>
 

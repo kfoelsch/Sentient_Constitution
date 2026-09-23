@@ -54,7 +54,7 @@
 >
 > **After final designation:** **section 4.1** remedy and correction; **section 4.2** prevention locks (including imprisonment where applicable); **section 4.3** voluntary public accountability expression; Chapter Ten standing-lock and final-standing-effect rules, including the **Anti-Constitutional Trust Lock** only on a **final** designation.
 >
-> Read with: [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums).
+> Read with: [Preamble §6.2 How the full chain fits together](core_00_preamble.md#62-how-the-full-chain-fits-together).
 
 </details>
 
@@ -65,7 +65,7 @@
 - Upstream pointer: [Chapter Ten §2](core_10_standing_integration.md#2-automatic-integration-review-and-continuity) routes qualifying Violation Axis slot 7–9 findings here for designation only.
 - This file: final anti-constitutional-misconduct designation for Violation Axis `s` = 7–9; designation criteria; due-process safeguards; Chapters Fourteen through Sixteen boundary. Named-pattern routing continues in [Part B](core_11_b_misconduct_pattern_applications.md#chapter-eleven-part-b-anti-constitutional-misconduct-pattern-applications).
 - Downstream: [Chapter Ten](core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*Trust Lock and standing-effect integration after final designation*); [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*forum routing and certification*); [Chapter Thirteen](core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) (*governance legitimacy consequences*).
-- Read with: [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums); [Chapters Fourteen through Sixteen](core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) (*change-path conduct may implicate criteria 1–4*).
+- Read with: [Preamble §6.2 How the full chain fits together](core_00_preamble.md#62-how-the-full-chain-fits-together); [Chapters Fourteen through Sixteen](core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) (*change-path conduct may implicate criteria 1–4*).
 
 </details>
 

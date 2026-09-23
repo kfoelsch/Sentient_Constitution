@@ -4504,7 +4504,7 @@ Source file: [`core_06_rights_part_c.md`](../../core_06_rights_part_c.md) · 51/
 
 #### Part C: Trustworthy systems, security and force limits, information integrity, verification, lifecycle, and resilience
 
-Part C covers trustworthy systems, information integrity, verification, lifecycle discipline, and resilience — Articles XII through XXI.
+Part C covers trustworthy systems, information integrity, verification, lifecycle discipline, resilience, and interpretive review — Articles XII through XXII.
 
 [Source](../../core_06_rights_part_c.md#part-c-trustworthy-systems-security-and-force-limits-information-integrity-verification-lifecycle-and-resilience)
 
@@ -4814,7 +4814,7 @@ Source file: [`core_06_rights_part_d.md`](../../core_06_rights_part_d.md) · 18/
 
 #### Part D: Justice, constitutional review, evolution, and transition
 
-Part D covers justice, review-and-resolution discipline, constitutional evolution, and transition — Articles XXII through XXVI, including re-baselining under **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*).
+Part D covers justice, review-and-resolution discipline, constitutional evolution, and transition — Articles XXIII through XXVI, including re-baselining under **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*).
 
 [Source](../../core_06_rights_part_d.md#part-d-justice-constitutional-review-evolution-and-transition)
 

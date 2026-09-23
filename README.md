@@ -98,8 +98,8 @@ The corpus is written in plain language with low jargon to improve accessibility
 - **Chapter Six** (Articles I–XXVI in Parts A–D)
   - Part A — Articles I–IV — [`core_06_rights_part_a.md`](core_06_rights_part_a.md)
   - Part B — Articles V–XI — [`core_06_rights_part_b.md`](core_06_rights_part_b.md)
-  - Part C — Articles XII–XXI — [`core_06_rights_part_c.md`](core_06_rights_part_c.md)
-  - Part D — Articles XXII–XXVI (transition and re-baselining in **Article XXVI**) — [`core_06_rights_part_d.md`](core_06_rights_part_d.md)
+  - Part C — Articles XII–XXII — [`core_06_rights_part_c.md`](core_06_rights_part_c.md)
+  - Part D — Articles XXIII–XXVI (transition and re-baselining in **Article XXVI**) — [`core_06_rights_part_d.md`](core_06_rights_part_d.md)
 
 ### Governance, amendment, and incorporation
 

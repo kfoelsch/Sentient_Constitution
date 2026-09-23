@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-23T08:59:44+00:00",
+  "generated_at": "2026-09-23T19:24:29+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 14857,
+  "edge_count": 14878,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -21546,6 +21546,14 @@
       "source_file": "core_05_apex_timeliness_leg.md",
       "source_header": "CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)",
       "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#62-how-the-full-chain-fits-together",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_timeliness_leg.md",
+      "source_header": "CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)",
+      "source_anchor": null,
       "target_file": "core_05__definitions_home.md",
       "target_anchor": "#chapter-five-foundational-definitions",
       "count": 1
@@ -28778,6 +28786,14 @@
       "source_file": "core_05_band_accountability.md",
       "source_header": "Def.A3 Standing State, Contribution, and Violation",
       "source_anchor": "#standing-state-contribution-and-violation-cluster",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#62-how-the-full-chain-fits-together",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Def.A3 Standing State, Contribution, and Violation",
+      "source_anchor": "#standing-state-contribution-and-violation-cluster",
       "target_file": "core_05__definitions_home.md",
       "target_anchor": "#chapter-five-compass-and-definition-map",
       "count": 1
@@ -29124,6 +29140,14 @@
       "source_anchor": "#sustained-high-gravity-pattern",
       "target_file": "core_11_a_misconduct_designation.md",
       "target_anchor": "#2-criteria-set-for-slot-assignment",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Timely Resolution",
+      "source_anchor": "#timely-resolution-constitutional",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#62-how-the-full-chain-fits-together",
       "count": 1
     },
     {
@@ -50563,6 +50587,14 @@
       "source_header": "1. Purpose and Role",
       "source_anchor": null,
       "target_file": "core_00_preamble.md",
+      "target_anchor": "#62-how-the-full-chain-fits-together",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "1. Purpose and Role",
+      "source_anchor": null,
+      "target_file": "core_00_preamble.md",
       "target_anchor": "#4-principles-definitions-and-rights",
       "count": 1
     },
@@ -50610,6 +50642,14 @@
       "source_file": "core_06_rights_part_a.md",
       "source_header": "1. Purpose and Role",
       "source_anchor": null,
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "1. Purpose and Role",
+      "source_anchor": null,
       "target_file": "core_06_rights_part_c.md",
       "target_anchor": "#article-xii-b-right-to-challenge-review-and-redress",
       "count": 1
@@ -50634,6 +50674,14 @@
       "source_file": "core_06_rights_part_a.md",
       "source_header": "1. Purpose and Role",
       "source_anchor": null,
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "1. Purpose and Role",
+      "source_anchor": null,
       "target_file": "core_06_rights_part_d.md",
       "target_anchor": "#article-xxiv-c-timely-resolution-and-anti-delay-floor",
       "count": 1
@@ -50642,8 +50690,24 @@
       "source_file": "core_06_rights_part_a.md",
       "source_header": "1. Purpose and Role",
       "source_anchor": null,
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "1. Purpose and Role",
+      "source_anchor": null,
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#chapter-eight-system-alignment-certification",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "1.1 Practical Enforcement",
+      "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#62-how-the-full-chain-fits-together",
       "count": 1
     },
     {
@@ -52020,6 +52084,14 @@
       "source_anchor": null,
       "target_file": "core_00_preamble.md",
       "target_anchor": "#two-constitutional-aims",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-A: Survival",
+      "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#62-how-the-full-chain-fits-together",
       "count": 1
     },
     {
@@ -58923,6 +58995,14 @@
       "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
       "source_anchor": "#anti-substitution-sentience-status-xviii",
       "target_file": "core_00_preamble.md",
+      "target_anchor": "#62-how-the-full-chain-fits-together",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": "#anti-substitution-sentience-status-xviii",
+      "target_file": "core_00_preamble.md",
       "target_anchor": "#constitutional-tetrad",
       "count": 1
     },
@@ -59780,6 +59860,14 @@
       "source_anchor": "#article-xviii-standing-and-participation-status",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#material-stake",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII: Standing and Participation Status",
+      "source_anchor": "#article-xviii-standing-and-participation-status",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#62-how-the-full-chain-fits-together",
       "count": 1
     },
     {
@@ -61004,6 +61092,14 @@
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#risk-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XII-B: Right to Challenge, Review, and Redress",
+      "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#62-how-the-full-chain-fits-together",
       "count": 1
     },
     {
@@ -66587,6 +66683,14 @@
       "source_header": "Article XXIV-C: Timely Resolution and Anti-Delay Floor",
       "source_anchor": "#article-xxiv-c-timely-resolution-and-anti-delay-floor",
       "target_file": "core_00_preamble.md",
+      "target_anchor": "#62-how-the-full-chain-fits-together",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-C: Timely Resolution and Anti-Delay Floor",
+      "source_anchor": "#article-xxiv-c-timely-resolution-and-anti-delay-floor",
+      "target_file": "core_00_preamble.md",
       "target_anchor": "#material-stake",
       "count": 1
     },
@@ -68181,6 +68285,14 @@
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#3-whole-system-certification-evaluation",
       "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXVI-C: Failure Off-Ramps, Re-Baselining, and Traceability",
+      "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#62-how-the-full-chain-fits-together",
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_d.md",
@@ -72554,6 +72666,14 @@
       "source_file": "core_09-12_application_vignettes.md",
       "source_header": "CHAPTERS NINE–TWELVE: PIPELINE APPLICATION VIGNETTES",
       "source_anchor": "#chapters-nine-twelve-application-vignettes",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#62-how-the-full-chain-fits-together",
+      "count": 1
+    },
+    {
+      "source_file": "core_09-12_application_vignettes.md",
+      "source_header": "CHAPTERS NINE–TWELVE: PIPELINE APPLICATION VIGNETTES",
+      "source_anchor": "#chapters-nine-twelve-application-vignettes",
       "target_file": "core_09_standing_assessment.md",
       "target_anchor": "#2-question-1--what-happened",
       "count": 1
@@ -74036,6 +74156,14 @@
       "source_anchor": "#chapter-nine-compliance-violation-and-standing-model",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#6-key-practical-process-pipelines",
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_assessment.md",
+      "source_header": "CHAPTER NINE: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT",
+      "source_anchor": "#chapter-nine-compliance-violation-and-standing-model",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#62-how-the-full-chain-fits-together",
       "count": 1
     },
     {
@@ -75669,6 +75797,14 @@
       "target_file": "core_00_preamble.md",
       "target_anchor": "#material-stake",
       "count": 1
+    },
+    {
+      "source_file": "core_11_a_misconduct_designation.md",
+      "source_header": "CHAPTER ELEVEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT — DESIGNATION",
+      "source_anchor": "#chapter-eleven-part-a-anti-constitutional-misconduct-designation",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#62-how-the-full-chain-fits-together",
+      "count": 2
     },
     {
       "source_file": "core_11_a_misconduct_designation.md",
@@ -78610,6 +78746,14 @@
       "source_file": "core_12_forum.md",
       "source_header": "6. Timely resolution, materiality tiers, and anti-delay discipline",
       "source_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#62-how-the-full-chain-fits-together",
+      "count": 1
+    },
+    {
+      "source_file": "core_12_forum.md",
+      "source_header": "6. Timely resolution, materiality tiers, and anti-delay discipline",
+      "source_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#132-constitutional-efficiency",
       "count": 1
@@ -78853,6 +78997,14 @@
       "target_file": "core_00_preamble.md",
       "target_anchor": "#material-stake",
       "count": 1
+    },
+    {
+      "source_file": "core_12_forum.md",
+      "source_header": "CHAPTER TWELVE: FORUMS AND JURISDICTION",
+      "source_anchor": "#chapter-twelve-forums-and-jurisdiction",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#62-how-the-full-chain-fits-together",
+      "count": 3
     },
     {
       "source_file": "core_12_forum.md",
@@ -81602,6 +81754,14 @@
       "source_file": "corpus_forum.md",
       "source_header": "Forums",
       "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#62-how-the-full-chain-fits-together",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum.md",
+      "source_header": "Forums",
+      "source_anchor": null,
       "target_file": "core_05__definitions_home.md",
       "target_anchor": null,
       "count": 1
@@ -81877,6 +82037,14 @@
       "target_file": "corpus_joint_structure/cjs_04_drafting_contracts.md",
       "target_anchor": "#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail",
       "count": 2
+    },
+    {
+      "source_file": "corpus_forum/cf_00_registry_and_reading_rules.md",
+      "source_header": "CF-0: Forums registry and identifier rules",
+      "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#62-how-the-full-chain-fits-together",
+      "count": 1
     },
     {
       "source_file": "corpus_forum/cf_00_registry_and_reading_rules.md",

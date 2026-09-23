@@ -20,12 +20,13 @@ Chapter Five and CJS-3 definition files use **one** `---` between reader units, 
 | Blocking regression bundle | `make regression` |
 | Markdown / prose / definitions gravity | `make corpus-markdown-audit`, `make prose-continuity-audit`, `make ch5-definitions-gravity-audit`, `make ch5-o-scope-audit`, `make ch5-trace-crosslink-audit` |
 | Corpus navigation footer chain and formatting | `make footer-audit` |
+| Link destinations: binding corpus stays in-repository; no machine-local targets anywhere | `make external-link-audit` (inventory: `make external-link-audit-report`) |
 | Trace / D/A/C / reader-guidance `<br>` spacer discipline | `make nav-widget-spacer-audit` |
 | Trace → D/A/C widget order (definition carrier immediately after Trace) | `make trace-dac-widget-order-audit` |
 | File-top / section-opening widget stack (placement → reader → Trace → D/A/C) | `make widget-top-placement-audit` |
 | File-top Corpus placement widget | `make file-top-placement-audit` |
 | CJS-0.1 topic-router bidirectional read-with links | `make router-bidirectional-audit` |
-| Binding corpus must not depend on `doc_architecture` for meaning/routing | `make support-doc-pointer-audit` |
+| Binding corpus must not depend on `doc_architecture` or a README section for meaning/routing | `make support-doc-pointer-audit` |
 | Materially Binding Act Record base schema and fixtures | `make materially-binding-act-record-validate` / `make materially-binding-act-record-validate-test` |
 | Chapter Five compound heading/member order | `make ch5-cluster-order-audit` |
 | Chapter Five single-definition and owner-roster rule | `make ch5-single-definition-audit` |

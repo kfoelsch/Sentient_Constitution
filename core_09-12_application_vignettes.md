@@ -8,7 +8,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **illustrative domain walkthroughs** for the [standing and forum supervision pipeline](README.md#standing-pipeline-and-forums): how standing measurement, integration, forum supervision, and [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier clocks apply in concrete domains. Vignettes **illustrate** operative rules in Chapters Nine through Twelve and adopted layers; they do **not** add, remove, or narrow binding obligations. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **illustrative domain walkthroughs** for the [standing and forum supervision pipeline](core_00_preamble.md#62-how-the-full-chain-fits-together): how standing measurement, integration, forum supervision, and [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier clocks apply in concrete domains. Vignettes **illustrate** operative rules in Chapters Nine through Twelve and adopted layers; they do **not** add, remove, or narrow binding obligations. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
 
