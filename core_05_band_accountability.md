@@ -1683,7 +1683,7 @@ The short form for **Materially Binding Act Record** in this instrument is **Act
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [6. Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), and [§6.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
+- Downstream: Principles: [3.1 Safety (Harm Constraint)](core_01_a_values_principles.md#31-safety-harm-constraint), [6. Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), and [§6.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
 - Read with: [Materiality Determination](core_05_band_oversight.md#materiality-determination), [Material Impact](core_05_band_oversight.md#material-impact), [Risk](core_05_band_continuity.md#risk), [Non-Imposition (Cooperative Interaction)](core_05_band_participation.md#non-imposition-cooperative-interaction), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional), and [Harm Minimization (Tradeoff Selection)](core_05_band_accountability.md#harm-minimization-tradeoff-selection), where materially implicated. Those definitions support this cluster but are not themselves cluster members unless another cluster or owner provision independently requires their joint invocation.
 
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](core_00_preamble.md#material-stake) via [Materiality Determination](core_05_band_oversight.md#materiality-determination).
@@ -1747,7 +1747,7 @@ The following limits also apply:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Flourishing measurement family (*Safety, harm, and risk as constitutional measurement*); Principles: [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint).
+- Downstream: Flourishing measurement family (*Safety, harm, and risk as constitutional measurement*); Principles: [3.1 Safety (Harm Constraint)](core_01_a_values_principles.md#31-safety-harm-constraint).
 - Read with: Wellbeing, Risk, Materiality Determination, and Irreversible Harm.
 
 </details>
@@ -1852,7 +1852,7 @@ The following limits also apply:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality), and [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#16-integrated-application).
+- Downstream: Principles: [3.1 Safety (Harm Constraint)](core_01_a_values_principles.md#31-safety-harm-constraint), [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality), and [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#16-integrated-application).
 - Read with: Harm, Risk, Proportionality, and Existential Risk.
 
 </details>
@@ -1891,7 +1891,7 @@ The following limits also apply:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint); [9.6 Anti-Degrading Process](core_01_c_stewardship_capacity_principles.md#95-process-character-discipline) (*humiliation, spectacle, and process-as-punishment floor*).
+- Upstream: Principles: [3.1 Safety (Harm Constraint)](core_01_a_values_principles.md#31-safety-harm-constraint); [2.3 Anti-Degrading Process](core_01_a_values_principles.md#23-anti-degrading-process) (*humiliation, spectacle, and process-as-punishment floor*).
 - Owner floor: [Article XXIII-A](core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*anti-cruelty floor*).
 - Cluster component: [Collective Harm Boundary, Harm, and Harassment and Bullying](core_05_band_accountability.md#collective-harm-boundary-and-harm-cluster) cluster.
 - Read with: [Harm](core_05_band_accountability.md#harm), [Psychological Harm](core_05_band_accountability.md#psychological-harm), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional), [Animal Life](core_05_band_participation.md#animal-life-constitutional), [Violation Nature](core_05_band_accountability.md#violation-nature-chapter-six), [Chapter Nine §4.2](core_09_standing_assessment.md#42-violation-severity-input-dimensions) (*conduct-character stack*), and [Chapter Ten §4.2](core_10_standing_integration.md#42-general-standing-locks) (*general standing locks*).

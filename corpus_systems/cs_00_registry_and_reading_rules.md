@@ -32,7 +32,7 @@
 >
 > **CS** is the canonical home for **CS-2–CS-12** and related systems labels. Constitutional meanings, Rights Floors, and definition-satisfaction rules remain in the Sentient Constitution and Chapter Five.
 >
-> System and data obligations here align with [corpus_joint_structure.md — Cross-domain implementation layer](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cross-domain-implementation-layer), especially **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*) and the **CJS-3** (*Implementation and cross-implementation operational cluster library*) operational cluster library.
+> System and data obligations here align with [corpus_joint_structure.md — CJS-0: Registry and reading rules](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-0-registry-and-reading-rules), especially **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*) and the **CJS-3** (*Implementation and cross-implementation operational cluster library*) operational cluster library.
 >
 > Shared preamble contract: apply **CJS-1.3** (*Shared implementation-corpus preamble contract*).
 >

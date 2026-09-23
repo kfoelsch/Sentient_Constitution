@@ -51,6 +51,10 @@ FOOTER_NAV_RE = re.compile(r"^\s{0,3}\*\*(?:Next|Previous|Prev) file:\*\*", re.I
 # doc_architecture.md illustrates path shapes with a typographic ellipsis
 # (corpus_systems/cs_07_….md). These are prose examples, not real targets.
 PLACEHOLDER_CHAR = "\u2026"
+# Inline code spans quote link syntax as an example (migration specs tabulate
+# `[Label](#anchor)` to show the shape of a cite). Fenced blocks were already
+# excluded; spans are masked so their contents are not read as real links.
+CODE_SPAN_RE = re.compile(r"`+[^`\n]*`+")
 HTML_ANCHOR_RE = re.compile(
     r"<(?:a|[^>\s]+)\b[^>]*\b(?:id|name)\s*=\s*"
     r"(?:\"([^\"]+)\"|'([^']+)'|([^\s>]+))",
@@ -167,6 +171,9 @@ def links_in(path: Path, text: str) -> list[Link]:
         for line_no in range(1, len(text.splitlines()) + 1)
     )
     skip_lines = {line_no for line_no, line in lines if FOOTER_NAV_RE.match(line)}
+    # Mask with equal-length spaces so line and offset arithmetic is unchanged.
+    visible_text = CODE_SPAN_RE.sub(lambda m: " " * len(m.group(0)), visible_text)
+    lines = [(line_no, CODE_SPAN_RE.sub("", line)) for line_no, line in lines]
     for match in INLINE_LINK_RE.finditer(visible_text):
         line_no = visible_text.count("\n", 0, match.start()) + 1
         if line_no in skip_lines:

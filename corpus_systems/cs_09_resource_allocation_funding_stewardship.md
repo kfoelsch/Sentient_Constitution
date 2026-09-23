@@ -360,7 +360,7 @@ Funding-related decisions apply **Article XI** (*Stakeholder System Participatio
 
 Compensation, equity, bonuses, performance metrics, and deferred incentives for **builders, operators, maintainers, and human governance roles** must be **aligned with long-term constitutional outcomes**. That requirement applies when those roles materially influence resource flows or funding decisions. That obligation applies when those roles materially influence dependent-systems maps. It applies when those roles materially influence **system classification** or **Critical System Stewardship** (CS-4 — Critical system stewardship). That alignment includes ecosystem-aware stewardship under **Sentient Constitution Chapter Six**, **Articles I-B** and **XI**. It includes substrate and dependency integrity (**Articles I–III and V**). It includes non-entrenchment and fitness over time (**Article XXV-A** (*Non-Entrenchment and Revisability*)).
 
-Remuneration design must satisfy [corpus_joint_structure.md — Cross-domain implementation layer](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cross-domain-implementation-layer), including **CJS-3.12** (*burden-of-justification and constraint terms*) mechanism-integrity and incentive-alignment requirements, incorporated via **Sentient Constitution Chapter Seventeen**, and **Sentient Constitution Chapter One**. That includes the requirement that incentives not systematically undermine Safety, Truth (Epistemic Integrity), or meaningful agency.
+Remuneration design must satisfy [corpus_joint_structure.md — CJS-0: Registry and reading rules](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-0-registry-and-reading-rules), including **CJS-3.12** (*burden-of-justification and constraint terms*) mechanism-integrity and incentive-alignment requirements, incorporated via **Sentient Constitution Chapter Seventeen**, and **Sentient Constitution Chapter One**. That includes the requirement that incentives not systematically undermine Safety, Truth (Epistemic Integrity), or meaningful agency.
 
 <a id="cs-9-20-conflict-free-remuneration-processes"></a>
 ## CS-9.20 Conflict-free remuneration processes
@@ -371,7 +371,7 @@ Where humans hold authority over allocation, enforcement, classification, or ove
 
 Material conflicts between **private financial interest** and **stewardship duties** must be **disclosed** and **managed**.
 
-Where **impartiality** for a specific decision is not credible, address conflicts through **recusal**, **segmented authority**, or **independent review**. That process must be consistent with **CJS-3.13** (*Procedural Integrity and Adjudication*) in [corpus_joint_structure.md — Cross-domain implementation layer](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cross-domain-implementation-layer) and **CS-4 — Critical system steward conduct, conflicts of interest, and independence**.
+Where **impartiality** for a specific decision is not credible, address conflicts through **recusal**, **segmented authority**, or **independent review**. That process must be consistent with **CJS-3.13** (*Procedural Integrity and Adjudication*) in [corpus_joint_structure.md — CJS-0: Registry and reading rules](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-0-registry-and-reading-rules) and **CS-4 — Critical system steward conduct, conflicts of interest, and independence**.
 
 Variable pay or equity tied to metrics susceptible to **gaming** at the expense of dependents or the broader ecosystem must include **safeguards**.
 

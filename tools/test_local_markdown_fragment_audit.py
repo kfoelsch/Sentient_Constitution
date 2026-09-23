@@ -105,6 +105,19 @@ class LocalMarkdownFragmentAuditTests(unittest.TestCase):
             findings = audit(root, [source], None)
             self.assertEqual([f.target for f in findings], ["missing_file.md#frag"])
 
+    def test_links_inside_code_spans_are_not_resolved(self) -> None:
+        """Migration specs tabulate link syntax as an example, not as a link."""
+        with tempfile.TemporaryDirectory() as temp_dir:
+            root = Path(temp_dir)
+            source = root / "spec.md"
+            source.write_text(
+                "| `[Chapter One, \u00a72 Purpose](#2-purpose)` | shape |\n"
+                "Real prose [link](#also-absent) here.\n",
+                encoding="utf-8",
+            )
+            findings = audit(root, [source], None)
+            self.assertEqual([f.target for f in findings], ["#also-absent"])
+
 
 if __name__ == "__main__":
     unittest.main()
