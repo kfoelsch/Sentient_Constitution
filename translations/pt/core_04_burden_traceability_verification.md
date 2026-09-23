@@ -196,7 +196,7 @@ Onde a incerteza impede a demonstração definitiva de conformidade para compone
 
 - Origem: [Capítulo Dois — Estrutura das definições e requisitos dos componentes](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements); [Capítulo Três — Integridade da definição, evasão e não conformidade](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance); [Capítulo Quatro, seções 1 a 5](#1-exclusive-enforcement-and-burden-allocation).
 - Destino: [Capítulo Sete — Certificação de alinhamento do sistema](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [Capítulo Oito — Contribuição, infração e modelo de trajetória](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
-- Ler com: [Capítulo Sete §16 — Reabertura, desalinhamento e antievasão](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — a não conformidade verificada sob os Capítulos Dois a Quatro pode reabrir ou derrotar a certificação independentemente de reconhecimento prévio.
+- Ler com: [Capítulo Sete §16 — Reabertura, desalinhamento e antievasão](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) — a não conformidade verificada sob os Capítulos Dois a Quatro pode reabrir ou derrotar a certificação independentemente de reconhecimento prévio.
 
 </details>
 

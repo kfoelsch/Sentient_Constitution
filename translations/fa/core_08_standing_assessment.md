@@ -168,7 +168,7 @@
 
 - بالادست: [§2.1](#21-standing-records-as-the-unit-of-application) (*سوابق جداگانهٔ همیاری و تخلف*).
 - پایین‌دست: [§3.1](#31-minimum-record-contents) (*دروازهٔ ورودی راستی‌آزمایی‌شده*)؛ [§3.2](#32-related-record-cross-references) (*ارجاع متقابل*)؛ [§3.6](#36-forum-boundary) (*مرز مجمع*)؛ [§4](#4-standing-measurement-evaluation-dimensions) (*اندازه‌گیری پرسش ۲*)؛ [§5](#5-slot-grammar-and-lequ-calibration) (*دستور زبان خانه و مقیاس‌بندی مشترک*)؛ [§6](#6-constitutional-inputs-to-axis-assignment) (*مسیرگذاری منبع قانون اساسی*)؛ [§7](#7-unified-proportional-lequ-scale) (*مقیاس متناسب یکپارچهٔ LEQU برای هر دو محور*)؛ [فصل نهم](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*پرسش ۳*).
-- خوانده شود با: [فصل نهم — یکپارچه‌سازی ردپا](../../core_10_standing_integration.md#2-integration-record-and-decision-order) (*منع چشم‌پوشی و یکپارچه‌سازی سوابق پیوندخورده*)؛ [فصل نهم §6.2 — میله‌های شایستگی و پروانه‌ها](../../core_10_standing_integration.md#62-competency-bars-and-clearances)؛ [فصل نهم §4.2 — قفل‌های ردپا](../../core_10_standing_integration.md#42-general-standing-locks).
+- خوانده شود با: [فصل نهم — یکپارچه‌سازی ردپا](../../core_10_standing_integration.md#2-automatic-integration-review-and-continuity) (*منع چشم‌پوشی و یکپارچه‌سازی سوابق پیوندخورده*)؛ [فصل نهم §6.2 — میله‌های شایستگی و پروانه‌ها](../../core_10_standing_integration.md#62-competency-bars-and-clearances)؛ [فصل نهم §4.2 — قفل‌های ردپا](../../core_10_standing_integration.md#42-prevention--general-standing-locks).
 
 </details>
 
@@ -496,7 +496,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: [§2](#2-standing-records) (*پرسش ۱ — سوابق ردپا و واقعیت‌های راستی‌آزمایی‌شده*)؛ [§3](#3-standing-record-operational-requirements) (*دروازهٔ ورودی راستی‌آزمایی‌شده و الزامات سابقه*)؛ [§1](#1-the-three-questions) (*چارچوب سه پرسش*).
-- پایین‌دست: [§5](#5-slot-grammar-and-lequ-calibration) (*دستور زبان خانه و مقیاس‌بندی مشترک*)؛ [§6](#6-constitutional-inputs-to-axis-assignment) (*مسیرگذاری منبع قانون اساسی*)؛ [§7](#7-unified-proportional-lequ-scale) (*گذاشتن محور همیاری و محور تخلف*)؛ [فصل نهم §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) (*پرسش ۳ همیاری — تفویض ایمن*)؛ [فصل نهم §4.2](../../core_10_standing_integration.md#42-general-standing-locks) (*قفل‌های پیشگیری*)؛ [فصل نهم §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement) (*طراحی و اجرای قفل*).
+- پایین‌دست: [§5](#5-slot-grammar-and-lequ-calibration) (*دستور زبان خانه و مقیاس‌بندی مشترک*)؛ [§6](#6-constitutional-inputs-to-axis-assignment) (*مسیرگذاری منبع قانون اساسی*)؛ [§7](#7-unified-proportional-lequ-scale) (*گذاشتن محور همیاری و محور تخلف*)؛ [فصل نهم §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) (*پرسش ۳ همیاری — تفویض ایمن*)؛ [فصل نهم §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) (*قفل‌های پیشگیری*)؛ [فصل نهم §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement) (*طراحی و اجرای قفل*).
 - خوانده شود با: [§3.1](#31-minimum-record-contents) (*میدان‌های سابقهٔ راستی‌آزمایی‌شده؛ بدون آثار ردپا در فصل هشتم*).
 
 </details>
@@ -534,7 +534,7 @@
   - زیان قابلیت اعتراض؛ یا
   - تجمیع بازبینی‌ناپذیر.
 
-**فقط پرسش ۲.** از این ابعاد برای اندازه‌گیری واقعیت‌های راستی‌آزمایی‌شدهٔ برقرارشده زیر **بخش 2** و ثبت‌شده زیر **بخش 3** استفاده کنید. فهرست **مسیر-نفع** در **بخش 4.3** و فهرست **مسیر-آسیب** در **بخش 4.4** نام‌های هنجارشده برای گونه‌های کمک یا آسیب را می‌دهند و می‌گویند هر نام چگونه به *چقدر خوب* یا *چقدر بد* می‌شمرد. قواعد یکپارچه‌سازی و اتصال پرسش ۳ در [فصل نهم §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization) است، با قواعد پیامد در [سوی نفع](../../core_10_standing_integration.md#62-competency-bars-and-clearances) و [سوی آسیب](../../core_10_standing_integration.md#42-general-standing-locks).
+**فقط پرسش ۲.** از این ابعاد برای اندازه‌گیری واقعیت‌های راستی‌آزمایی‌شدهٔ برقرارشده زیر **بخش 2** و ثبت‌شده زیر **بخش 3** استفاده کنید. فهرست **مسیر-نفع** در **بخش 4.3** و فهرست **مسیر-آسیب** در **بخش 4.4** نام‌های هنجارشده برای گونه‌های کمک یا آسیب را می‌دهند و می‌گویند هر نام چگونه به *چقدر خوب* یا *چقدر بد* می‌شمرد. قواعد یکپارچه‌سازی و اتصال پرسش ۳ در [فصل نهم §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization) است، با قواعد پیامد در [سوی نفع](../../core_10_standing_integration.md#62-competency-bars-and-clearances) و [سوی آسیب](../../core_10_standing_integration.md#42-prevention--general-standing-locks).
 
 <a id="41-magnitude-input-dimensions"></a>
 <a id="41-contribution-magnitude-input-dimensions"></a>
@@ -646,7 +646,7 @@ LEQU سوی تخلف را به نمره‌های آسیب بوم‌شناختی�
 <a id="44-violation-route-descriptor-catalog-and-measurement-roles"></a>
 #### 4.4 فهرست توصیف‌گر مسیر تخلف و نقش‌های اندازه‌گیری
 
-**توصیف‌گرهای مسیر-آسیب — نقش اندازه‌گیری پرسش ۲.** قواعد یکپارچه‌سازی و اتصال پرسش ۳: [فصل نهم §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization). طراحی پیشگیری و قفل پرسش ۳: [فصل نهم §4.2](../../core_10_standing_integration.md#42-general-standing-locks)؛ [فصل نهم §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement).
+**توصیف‌گرهای مسیر-آسیب — نقش اندازه‌گیری پرسش ۲.** قواعد یکپارچه‌سازی و اتصال پرسش ۳: [فصل نهم §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization). طراحی پیشگیری و قفل پرسش ۳: [فصل نهم §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks)؛ [فصل نهم §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement).
 
 | **توصیف‌گر مسیر-آسیب** | **حوزهٔ هنجارشده** | **پرسش ۲ (چقدر بد؟)** |
 | --- | --- | --- |
@@ -680,20 +680,20 @@ LEQU سوی تخلف را به نمره‌های آسیب بوم‌شناختی�
 | **ویژگی راستی‌آزمایی‌شده** | **مالک پرسش ۲ در این فصل** | **مالک یکپارچه‌سازی پرسش ۳** |
 | --- | --- | --- |
 | **آسیب انباشته‌به‌بیرون / بار پنهان** | اعمال کیفیت رفتار همیاری در **§4.1** | [فصل نهم §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) — می‌تواند پروانه را تا ترمیم مسدود یا تنگ کند |
-| **فریب / پنهان‌کاری / گریز** | اعمال خصلت رفتار تخلف در **§4.2** | [فصل نهم §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — قفل تشدیدی پنهان‌کاری / گریز |
-| **انسداد پاسخگویی** | اعمال خصلت رفتار تخلف در **§4.2** و **سوءرفتار انسداد پاسخگویی** در **§4.4** | [فصل نهم §4.2](../../core_10_standing_integration.md#42-general-standing-locks) و [§5.4](../../core_10_standing_integration.md#54-special-violation-rules) — قفل‌های محدود به مسیر نام‌گذاری‌شده؛ [فصل نهم §10.13](../../core_10_standing_integration.md#1013-obstruction-of-accountability) (*الگوی پرسش ۳*)؛ تعیین فصل دهم فقط از راه دروازهٔ بازبینی سوءرفتار ضدقانون‌اساسی زیر [فصل نهم §10.8](../../core_10_standing_integration.md#108-anti-constitutional-misconduct-allegation) |
-| **خشونت / اجبار / خطر آزادی** | اعمال خصلت رفتار تخلف در **§4.2** و **سوءرفتار خشونت‌آمیز** در **§4.4** | [فصل نهم §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — قفل‌های حفاظتی و ضمانت |
-| **قساوت** | اعمال خصلت رفتار تخلف در **§4.2**؛ [قساوت](core_05_band_accountability.md#cruelty) | [فصل نهم §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — قفل‌های حفاظتی و ضمانت؛ [فصل نهم §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) — بیان ترمیمی غیرتحقیرآمیز جایی که به‌کار رود |
-| **پایداری / الگو / بازگشت پس از اخطار** | اعمال خصلت رفتار تخلف در **§4.2** | [فصل نهم §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — قفل بازگشت-پایداری |
+| **فریب / پنهان‌کاری / گریز** | اعمال خصلت رفتار تخلف در **§4.2** | [فصل نهم §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — قفل تشدیدی پنهان‌کاری / گریز |
+| **انسداد پاسخگویی** | اعمال خصلت رفتار تخلف در **§4.2** و **سوءرفتار انسداد پاسخگویی** در **§4.4** | [فصل نهم §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) و [§5.4](../../core_10_standing_integration.md#54-special-violation-rules) — قفل‌های محدود به مسیر نام‌گذاری‌شده؛ [فصل نهم §10.13](../../core_10_standing_integration.md#1013-obstruction-of-accountability) (*الگوی پرسش ۳*)؛ تعیین فصل دهم فقط از راه دروازهٔ بازبینی سوءرفتار ضدقانون‌اساسی زیر [فصل نهم §10.8](../../core_10_standing_integration.md#108-anti-constitutional-misconduct-allegation) |
+| **خشونت / اجبار / خطر آزادی** | اعمال خصلت رفتار تخلف در **§4.2** و **سوءرفتار خشونت‌آمیز** در **§4.4** | [فصل نهم §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — قفل‌های حفاظتی و ضمانت |
+| **قساوت** | اعمال خصلت رفتار تخلف در **§4.2**؛ [قساوت](core_05_band_accountability.md#cruelty) | [فصل نهم §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — قفل‌های حفاظتی و ضمانت؛ [فصل نهم §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) — بیان ترمیمی غیرتحقیرآمیز جایی که به‌کار رود |
+| **پایداری / الگو / بازگشت پس از اخطار** | اعمال خصلت رفتار تخلف در **§4.2** | [فصل نهم §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — قفل بازگشت-پایداری |
 | **آسیب یکپارچگی مجمع** | اعمال خصلت رفتار تخلف در **§4.2** | [فصل نهم §5.5](../../core_10_standing_integration.md#55-special-locks) — آثار قفل ردپای یکپارچگی مجمع |
-| **پخش‌شدگی مسئولیت یا کنترل** | اعمال خصلت رفتار تخلف در **§4.2**؛ پیوند کنشگر-ویژه زیر **§§3.1 و 3.3** | [فصل نهم §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — گسترهٔ مسیر نام‌گذاری‌شدهٔ وسیع‌تر یا ملاحظهٔ وسیلهٔ نهادی |
-| **توانمندسازی نظام / ساختاری** | اعمال کیفیت رفتار همیاری در **§4.1**؛ خصلت رفتار تخلف در **§4.2** و **سوءرفتار نظام** در **§4.4** | [فصل نهم §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) و [فصل نهم §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — ضمانت‌های تفویض یا قفل‌های وسیلهٔ نهادی |
-| **مشارکت تسلیم‌آمیز / شکست در مقاومت** | اعمال خصلت رفتار تخلف در **§4.2** | [فصل نهم §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — گسترهٔ مسیر نام‌گذاری‌شده و آثار بازگشت-پایداری |
+| **پخش‌شدگی مسئولیت یا کنترل** | اعمال خصلت رفتار تخلف در **§4.2**؛ پیوند کنشگر-ویژه زیر **§§3.1 و 3.3** | [فصل نهم §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — گسترهٔ مسیر نام‌گذاری‌شدهٔ وسیع‌تر یا ملاحظهٔ وسیلهٔ نهادی |
+| **توانمندسازی نظام / ساختاری** | اعمال کیفیت رفتار همیاری در **§4.1**؛ خصلت رفتار تخلف در **§4.2** و **سوءرفتار نظام** در **§4.4** | [فصل نهم §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) و [فصل نهم §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — ضمانت‌های تفویض یا قفل‌های وسیلهٔ نهادی |
+| **مشارکت تسلیم‌آمیز / شکست در مقاومت** | اعمال خصلت رفتار تخلف در **§4.2** | [فصل نهم §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — گسترهٔ مسیر نام‌گذاری‌شده و آثار بازگشت-پایداری |
 | **تعمیر دسترس‌پذیری / مانع مشارکت** | **دسترسی و شمول** در **§4.3** | [فصل نهم §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) — میلهٔ تجربهٔ فراگیر یا محدود به مسیر نام‌گذاری‌شده |
-| **شکست دسترس‌پذیری / آسیب مانع مشارکت** | **سوءرفتار مانع دسترس‌پذیری و مشارکت** در **§4.4** | [فصل نهم §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — مسدودهای مسیر نام‌گذاری‌شدهٔ مشارکت و دسترس‌پذیری |
-| **آسیب حریم خصوصی / خودمالکیت** | **سوءرفتار حریم خصوصی و خودمالکیت** در **§4.4** | [فصل نهم §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — مسدودهای مسیر نام‌گذاری‌شدهٔ داده، شمایل، انتشار، یا وضعیت درونی |
-| **خطر خروج / قفل‌در یا انسداد** | اعمال کیفیت رفتار همیاری در **§4.1**؛ **سوءرفتار خروج و قفل‌در** در **§4.4** | [فصل نهم §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) و [فصل نهم §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — ضمانت‌های تفویض یا مسدودهای مسیر خروج |
-| **پنهان‌کاری چرخهٔ عمر / برگشت‌ناپذیری** | **سوءرفتار چرخهٔ عمر و برگشت‌ناپذیری** در **§4.4** | [فصل نهم §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — مسدودهای اختیار استقرار و چرخهٔ عمر |
+| **شکست دسترس‌پذیری / آسیب مانع مشارکت** | **سوءرفتار مانع دسترس‌پذیری و مشارکت** در **§4.4** | [فصل نهم §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — مسدودهای مسیر نام‌گذاری‌شدهٔ مشارکت و دسترس‌پذیری |
+| **آسیب حریم خصوصی / خودمالکیت** | **سوءرفتار حریم خصوصی و خودمالکیت** در **§4.4** | [فصل نهم §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — مسدودهای مسیر نام‌گذاری‌شدهٔ داده، شمایل، انتشار، یا وضعیت درونی |
+| **خطر خروج / قفل‌در یا انسداد** | اعمال کیفیت رفتار همیاری در **§4.1**؛ **سوءرفتار خروج و قفل‌در** در **§4.4** | [فصل نهم §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) و [فصل نهم §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — ضمانت‌های تفویض یا مسدودهای مسیر خروج |
+| **پنهان‌کاری چرخهٔ عمر / برگشت‌ناپذیری** | **سوءرفتار چرخهٔ عمر و برگشت‌ناپذیری** در **§4.4** | [فصل نهم §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — مسدودهای اختیار استقرار و چرخهٔ عمر |
 
 <a id="451-similar-looking-facts-that-must-stay-separate"></a>
 
@@ -703,7 +703,7 @@ LEQU سوی تخلف را به نمره‌های آسیب بوم‌شناختی�
 
 | **واقعیت نخست** | **واقعیت متفاوت** | **چرا جدا می‌مانند** |
 | --- | --- | --- |
-| **تأخیر در پاسخ به مسئلهٔ اصلی یا تشدید آن** | **تأخیر در آغاز یا اجرای جبران** | اولی به اندازه‌گیری پرسش ۲ زیر **§§4.1–4.2** کمک می‌کند. دومی واقعیت بعدی پرسش ۳ زیر [فصل نهم §9.5](../../core_10_standing_integration.md#95-timely-implementation-and-reassessment) است. |
+| **تأخیر در پاسخ به مسئلهٔ اصلی یا تشدید آن** | **تأخیر در آغاز یا اجرای جبران** | اولی به اندازه‌گیری پرسش ۲ زیر **§§4.1–4.2** کمک می‌کند. دومی واقعیت بعدی پرسش ۳ زیر [فصل نهم §9.5](../../core_10_standing_integration.md#95-timely-implementation) است. |
 | **شمار حس‌مندان اثرپذیر** | **چگونه مسئولیت یا کنترل میان کنشگران یا نظام‌ها پخش شد** | اولی به اندازه‌گیری بزرگی نفع یا آسیب زیر **§§4.1–4.2** کمک می‌کند. دومی به مسئولیت کنشگر-ویژه، پخش‌شدگی، و گسترهٔ ممکن مسیر نام‌گذاری‌شدهٔ پرسش ۳ مربوط است. |
 
 <a id="46-question-1-measurement-illustrations"></a>

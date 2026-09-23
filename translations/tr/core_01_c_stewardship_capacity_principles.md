@@ -1995,7 +1995,7 @@ Birinci Bölüm yönü koyar. Aşağıdaki türlerin iddiaları sloganlara ve bi
 
 Ayrıntılı değerlendirme etkenleri ve belgelendirme kayıtları şunun sahipliğindedir:
 - **[Yedinci Bölüm §3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
-- **[Yedinci Bölüm §11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record)**;
+- **[Yedinci Bölüm §11](../../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record)**;
 - **[corpus_systems.md](../../corpus_systems.md), CS-3 — Sistem sınıflaması ve işleme**.
 
 O Yedinci Bölüm süreci:

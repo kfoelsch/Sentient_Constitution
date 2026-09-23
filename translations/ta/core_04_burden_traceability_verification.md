@@ -196,7 +196,7 @@
 
 - மேல்வழி: [அத்தியாயம் இரண்டு — வரையறை அமைப்பும் கூறுத் தேவைகளும்](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements); [அத்தியாயம் மூன்று — வரையறை முழுமை, தவிர்ப்பு, இணக்கமின்மை](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance); [அத்தியாயம் நான்கு, பிரிவுகள் 1 முதல் 5](#1-exclusive-enforcement-and-burden-allocation).
 - கீழ்வழி: [அத்தியாயம் ஏழு — அமைப்பு இணக்கச் சான்றளிப்பு](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [அத்தியாயம் எட்டு — பங்களிப்பு, மீறல், நிலைத்தட மாதிரி](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
-- இதனுடன் படிக்க: [அத்தியாயம் ஏழு §16 — மீண்டும் திறத்தல், தவறான இணக்கம், தவிர்ப்பு எதிர்ப்பு](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — அத்தியாயங்கள் இரண்டு முதல் நான்கின் கீழ் சரிபார்க்கப்பட்ட இணக்கமின்மை முந்தைய அங்கீகாரத்தைப் பொருட்படுத்தாமல் சான்றளிப்பை மீண்டும் திறக்கலாம் அல்லது தோற்கடிக்கலாம்.
+- இதனுடன் படிக்க: [அத்தியாயம் ஏழு §16 — மீண்டும் திறத்தல், தவறான இணக்கம், தவிர்ப்பு எதிர்ப்பு](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) — அத்தியாயங்கள் இரண்டு முதல் நான்கின் கீழ் சரிபார்க்கப்பட்ட இணக்கமின்மை முந்தைய அங்கீகாரத்தைப் பொருட்படுத்தாமல் சான்றளிப்பை மீண்டும் திறக்கலாம் அல்லது தோற்கடிக்கலாம்.
 
 </details>
 

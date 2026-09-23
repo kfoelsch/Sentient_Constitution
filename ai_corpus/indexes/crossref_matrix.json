@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-23T08:45:13+00:00",
+  "generated_at": "2026-09-23T08:59:42+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -640,7 +640,7 @@
             "count": 7,
             "anchors": [
               "#41-remedy-and-correction",
-              "#42-general-standing-locks",
+              "#42-prevention--general-standing-locks",
               "#62-competency-bars-and-clearances",
               "#chapter-ten-standing-effects-and-integration"
             ]
@@ -656,7 +656,7 @@
             "file": "core_12_forum.md",
             "count": 10,
             "anchors": [
-              "#1-purpose-and-role",
+              "#1-purpose-and-role--participation-architecture",
               "#42-shared-standards-and-anti-displacement",
               "#42-technical-forum-domains",
               "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
@@ -755,7 +755,7 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 26,
             "anchors": [
-              "#10-consequential-stewardship",
+              "#10-consequential-stewardship-the-steward-role",
               "#104-aligned-self-organization",
               "#11-governance-under-stewardship-discipline",
               "#12-incentive-alignment-and-system-capture",
@@ -1122,7 +1122,7 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 11,
             "anchors": [
-              "#10-consequential-stewardship",
+              "#10-consequential-stewardship-the-steward-role",
               "#111-governance-as-authorized-structure",
               "#1213-stewardship-and-operator-application",
               "#132-constitutional-efficiency",
@@ -1822,7 +1822,7 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 1,
             "anchors": [
-              "#11-certification-record"
+              "#11-system-certification-record"
             ]
           },
           {
@@ -1861,8 +1861,8 @@
             "file": "core_12_forum.md",
             "count": 6,
             "anchors": [
-              "#1-purpose-and-role",
-              "#4-forum-family-definitions",
+              "#1-purpose-and-role--participation-architecture",
+              "#4-forum-family-definitions--accountability-through-adjudication",
               "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
@@ -2103,7 +2103,7 @@
             "count": 3,
             "anchors": [
               "#15-relationship-to-standing",
-              "#16-reopening-drift-and-non-evasion"
+              "#16-reopening-misalignment-and-non-evasion"
             ]
           },
           {
@@ -2147,7 +2147,7 @@
             "file": "core_01_a_values_principles.md",
             "count": 1,
             "anchors": [
-              "#34-plain-language-accessibility-stewardship-duty"
+              "#34-plain-language-accessibility-participation-and-stewardship-duty"
             ]
           },
           {
@@ -2235,7 +2235,7 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 1,
             "anchors": [
-              "#16-reopening-drift-and-non-evasion"
+              "#16-reopening-misalignment-and-non-evasion"
             ]
           },
           {
@@ -2843,7 +2843,7 @@
             "count": 3,
             "anchors": [
               "#2-foundational-objective-wellbeing",
-              "#3-non-negotiable-constraints-safety-and-truth",
+              "#3-non-negotiable-principle-constraints-safety-and-truth",
               "#4-system-stability-enabler-trust-coordination-integrity"
             ]
           },
@@ -3246,7 +3246,7 @@
             "anchors": [
               "#2-foundational-objective-wellbeing",
               "#23-anti-degrading-process",
-              "#3-non-negotiable-constraints-safety-and-truth",
+              "#3-non-negotiable-principle-constraints-safety-and-truth",
               "#31-safety-harm-constraint",
               "#5-freedom-bounded-agency"
             ]
@@ -3582,7 +3582,7 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 3,
             "anchors": [
-              "#11-certification-record",
+              "#11-system-certification-record",
               "#14-supervisory-sequence-and-contestability-chain"
             ]
           },
@@ -3591,16 +3591,16 @@
             "count": 40,
             "anchors": [
               "#1-the-three-questions",
-              "#2-standing-records",
-              "#21-standing-records-as-the-unit-of-application",
+              "#2-question-1--what-happened",
+              "#21-what-question-1-must-establish",
               "#3-standing-record-operational-requirements",
               "#31-minimum-record-contents",
               "#36-forum-boundary",
               "#37-record-custody-and-opening-authority",
               "#42-violation-severity-input-dimensions",
-              "#44-violation-route-descriptor-measurement-roles",
+              "#44-violation-route-descriptor-catalog-and-measurement-roles",
               "#5-slot-grammar-and-display-labels",
-              "#7-unified-proportional-lequ-scale",
+              "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
               "#chapter-nine-compliance-violation-and-standing-model",
               "#lequ-baseline-constitutional-outcome",
               "#verified-inputs-for-standing"
@@ -3610,13 +3610,13 @@
             "file": "core_10_standing_integration.md",
             "count": 19,
             "anchors": [
-              "#1-immutable-chapter-nine-inputs",
+              "#1-chapter-nine-records-do-not-change",
               "#3-descriptor-integration-and-attachment-normalization",
-              "#42-general-standing-locks",
+              "#42-prevention--general-standing-locks",
               "#5-lock-design-and-enforcement",
               "#55-special-locks",
               "#62-competency-bars-and-clearances",
-              "#9-enforcement-realism",
+              "#9-enforcement-realism-and-remedy-systems",
               "#92-remedy-system-durability",
               "#chapter-ten-standing-effects-and-integration"
             ]
@@ -3645,8 +3645,8 @@
             "anchors": [
               "#2-default-venue-and-primary-stakes",
               "#22-mixed-stakes-and-routing-asymmetry",
-              "#23-forum-records-standing-records-and-contests",
-              "#3-transfer-consolidation-and-coordination",
+              "#23-forum-case-records-standing-records-and-contests",
+              "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
               "#41-sentient-forums",
               "#42-technical-forum-domains",
               "#43-institutional-forums",
@@ -3730,7 +3730,7 @@
             "count": 24,
             "anchors": [
               "#2-foundational-objective-wellbeing",
-              "#3-non-negotiable-constraints-safety-and-truth",
+              "#3-non-negotiable-principle-constraints-safety-and-truth",
               "#31-safety-harm-constraint",
               "#4-system-stability-enabler-trust-coordination-integrity",
               "#5-freedom-bounded-agency",
@@ -3750,7 +3750,7 @@
               "#624-proxy-divergence-invalidation",
               "#63-minimization-of-avoidable-burden",
               "#843-incorporation-layer",
-              "#844-combined-satisfaction"
+              "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
             ]
           },
           {
@@ -4089,7 +4089,7 @@
               "#36-time-consistency-constraint",
               "#4-data-types-and-handling-evaluation",
               "#5-ecological-footprint-evaluation",
-              "#6-proportionate-cross-system-support-evaluation",
+              "#6-proportionate-cross-system-contribution-evaluation",
               "#chapter-eight-system-alignment-certification"
             ]
           },
@@ -4097,21 +4097,21 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 15,
             "anchors": [
-              "#11-certification-record",
+              "#11-system-certification-record",
               "#111-minimum-record-contents",
               "#112-cross-section-record-requirements",
               "#12-transparency-auditability-and-contestability",
               "#14-supervisory-sequence-and-contestability-chain",
               "#142-contestability-paths",
               "#15-relationship-to-standing",
-              "#16-reopening-drift-and-non-evasion"
+              "#16-reopening-misalignment-and-non-evasion"
             ]
           },
           {
             "file": "core_09_standing_assessment.md",
             "count": 9,
             "anchors": [
-              "#2-standing-records",
+              "#2-question-1--what-happened",
               "#37-record-custody-and-opening-authority",
               "#chapter-nine-compliance-violation-and-standing-model"
             ]
@@ -4130,7 +4130,7 @@
             "count": 9,
             "anchors": [
               "#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate",
-              "#43-decision-resolution-requirements-for-binding-collective-choice"
+              "#43-decision-resolution-requirements-for-binding-stakeholder-choice"
             ]
           },
           {
@@ -4197,7 +4197,7 @@
             "file": "core_01_a_values_principles.md",
             "count": 4,
             "anchors": [
-              "#3-non-negotiable-constraints-safety-and-truth",
+              "#3-non-negotiable-principle-constraints-safety-and-truth",
               "#5-freedom-bounded-agency"
             ]
           },
@@ -4454,7 +4454,7 @@
             "file": "core_01_a_values_principles.md",
             "count": 4,
             "anchors": [
-              "#3-non-negotiable-constraints-safety-and-truth",
+              "#3-non-negotiable-principle-constraints-safety-and-truth",
               "#31-safety-harm-constraint"
             ]
           },
@@ -4639,7 +4639,7 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 4,
             "anchors": [
-              "#11-certification-record",
+              "#11-system-certification-record",
               "#111-minimum-record-contents",
               "#12-transparency-auditability-and-contestability"
             ]
@@ -4693,7 +4693,7 @@
               "#211-access-and-opportunity",
               "#212-benefits-and-burdens",
               "#213-fair-treatment",
-              "#3-non-negotiable-constraints-safety-and-truth",
+              "#3-non-negotiable-principle-constraints-safety-and-truth",
               "#5-freedom-bounded-agency",
               "#51-limitation-discipline"
             ]
@@ -4973,7 +4973,7 @@
             "file": "core_09_standing_assessment.md",
             "count": 3,
             "anchors": [
-              "#7-unified-proportional-lequ-scale",
+              "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
               "#lequ-baseline-constitutional-outcome"
             ]
           },
@@ -5005,7 +5005,7 @@
             "count": 6,
             "anchors": [
               "#41-entitlement-and-eligibility",
-              "#43-decision-resolution-requirements-for-binding-collective-choice"
+              "#43-decision-resolution-requirements-for-binding-stakeholder-choice"
             ]
           },
           {
@@ -5516,13 +5516,13 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 76,
             "anchors": [
-              "#11-certification-record",
+              "#11-system-certification-record",
               "#111-minimum-record-contents",
               "#12-transparency-auditability-and-contestability",
               "#13-forum-supervision-and-component-roles",
               "#14-supervisory-sequence-and-contestability-chain",
               "#15-relationship-to-standing",
-              "#16-reopening-drift-and-non-evasion",
+              "#16-reopening-misalignment-and-non-evasion",
               "#chapter-eight-part-b-certification-record-and-process"
             ]
           },
@@ -5734,7 +5734,7 @@
               "#31-systemic-scope-and-risk-factors",
               "#4-data-types-and-handling-evaluation",
               "#5-ecological-footprint-evaluation",
-              "#6-proportionate-cross-system-support-evaluation",
+              "#6-proportionate-cross-system-contribution-evaluation",
               "#7-nondiscrimination-evaluation",
               "#8-accessibility-evaluation",
               "#9-educational-capability-and-learning-system-integrity-evaluation",
@@ -5759,9 +5759,9 @@
             "file": "core_12_forum.md",
             "count": 17,
             "anchors": [
-              "#23-forum-records-standing-records-and-contests",
-              "#3-transfer-consolidation-and-coordination",
-              "#4-forum-family-definitions",
+              "#23-forum-case-records-standing-records-and-contests",
+              "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
+              "#4-forum-family-definitions--accountability-through-adjudication",
               "#42-technical-forum-domains",
               "#5-escalation-and-certification",
               "#chapter-twelve-forums-and-jurisdiction",
@@ -6030,10 +6030,10 @@
               "#1013-obstruction-of-accountability",
               "#102-ecological-negligence-with-concealment",
               "#108-anti-constitutional-misconduct-allegation",
-              "#2-integration-record-and-decision-order",
+              "#2-automatic-integration-review-and-continuity",
               "#3-descriptor-integration-and-attachment-normalization",
               "#4-violation-correction-and-prevention",
-              "#42-general-standing-locks",
+              "#42-prevention--general-standing-locks",
               "#43-voluntary-public-accountability-expression",
               "#5-lock-design-and-enforcement",
               "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
@@ -6041,7 +6041,7 @@
               "#55-special-locks",
               "#6-contribution-consequences-second",
               "#62-competency-bars-and-clearances",
-              "#95-timely-implementation-and-reassessment",
+              "#95-timely-implementation",
               "#chapter-ten-standing-effects-and-integration"
             ]
           },
@@ -6057,7 +6057,7 @@
             "count": 12,
             "anchors": [
               "#21-lead-default-limits",
-              "#23-forum-records-standing-records-and-contests",
+              "#23-forum-case-records-standing-records-and-contests",
               "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#chapter-twelve-forums-and-jurisdiction",
               "#dispute-sequencing"
@@ -6105,7 +6105,7 @@
             "count": 2,
             "anchors": [
               "#32-truth-epistemic-integrity-constraint",
-              "#34-plain-language-accessibility-stewardship-duty"
+              "#34-plain-language-accessibility-participation-and-stewardship-duty"
             ]
           },
           {
@@ -6210,7 +6210,7 @@
             "file": "core_09_standing_assessment.md",
             "count": 19,
             "anchors": [
-              "#21-standing-records-as-the-unit-of-application",
+              "#21-what-question-1-must-establish",
               "#22-linked-records-and-no-offset-bridge",
               "#32-related-record-cross-references",
               "#34-versioning",
@@ -6247,7 +6247,7 @@
             "count": 16,
             "anchors": [
               "#2-default-venue-and-primary-stakes",
-              "#3-transfer-consolidation-and-coordination",
+              "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
               "#42-technical-forum-domains",
               "#43-institutional-forums",
               "#45-integrity-forums",
@@ -6363,10 +6363,10 @@
             "file": "core_10_standing_integration.md",
             "count": 19,
             "anchors": [
-              "#2-integration-record-and-decision-order",
+              "#2-automatic-integration-review-and-continuity",
               "#4-violation-correction-and-prevention",
               "#41-remedy-and-correction",
-              "#42-general-standing-locks",
+              "#42-prevention--general-standing-locks",
               "#43-voluntary-public-accountability-expression",
               "#5-lock-design-and-enforcement",
               "#51-definition-and-attachment",
@@ -6622,8 +6622,8 @@
             "anchors": [
               "#232-violation-event-types",
               "#42-violation-severity-input-dimensions",
-              "#44-violation-route-descriptor-measurement-roles",
-              "#7-unified-proportional-lequ-scale"
+              "#44-violation-route-descriptor-catalog-and-measurement-roles",
+              "#7-unified-proportional-lequ-scale--contribution-and-violation-axes"
             ]
           },
           {
@@ -6636,8 +6636,8 @@
               "#1013-obstruction-of-accountability",
               "#108-anti-constitutional-misconduct-allegation",
               "#109-rights-floor-waiver-or-unconstitutional-contract-devices",
-              "#2-integration-record-and-decision-order",
-              "#42-general-standing-locks",
+              "#2-automatic-integration-review-and-continuity",
+              "#42-prevention--general-standing-locks",
               "#54-special-violation-rules",
               "#55-special-locks",
               "#chapter-ten-standing-effects-and-integration"
@@ -6660,7 +6660,7 @@
             "count": 9,
             "anchors": [
               "#2-default-venue-and-primary-stakes",
-              "#3-transfer-consolidation-and-coordination",
+              "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
               "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
@@ -6850,14 +6850,14 @@
             "file": "core_09_standing_assessment.md",
             "count": 21,
             "anchors": [
-              "#2-standing-records",
+              "#2-question-1--what-happened",
               "#3-standing-record-operational-requirements",
               "#36-forum-boundary",
               "#37-challenge-received-on-the-record",
               "#4-standing-measurement-evaluation-dimensions",
               "#43-route-descriptor-measurement-roles",
               "#5-slot-grammar-and-display-labels",
-              "#7-unified-proportional-lequ-scale",
+              "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
               "#chapter-nine-compliance-violation-and-standing-model",
               "#verified-inputs-for-standing"
             ]
@@ -6866,11 +6866,11 @@
             "file": "core_10_standing_integration.md",
             "count": 10,
             "anchors": [
-              "#2-integration-record-and-decision-order",
+              "#2-automatic-integration-review-and-continuity",
               "#3-descriptor-integration-and-attachment-normalization",
               "#44-remedy-parity-and-lock-preconditions",
               "#55-special-locks",
-              "#9-enforcement-realism",
+              "#9-enforcement-realism-and-remedy-systems",
               "#92-remedy-system-durability",
               "#chapter-ten-standing-effects-and-integration"
             ]
@@ -6950,7 +6950,7 @@
             "count": 2,
             "anchors": [
               "#32-truth-epistemic-integrity-constraint",
-              "#34-plain-language-accessibility-stewardship-duty"
+              "#34-plain-language-accessibility-participation-and-stewardship-duty"
             ]
           },
           {
@@ -6964,7 +6964,7 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 3,
             "anchors": [
-              "#10-consequential-stewardship",
+              "#10-consequential-stewardship-the-steward-role",
               "#101-shared-stewardship-standard",
               "#103-logging-the-role-not-the-steward"
             ]
@@ -7029,9 +7029,9 @@
             "file": "core_09_standing_assessment.md",
             "count": 22,
             "anchors": [
-              "#2-standing-records",
+              "#2-question-1--what-happened",
               "#21-silence-is-the-default",
-              "#21-standing-records-as-the-unit-of-application",
+              "#21-what-question-1-must-establish",
               "#22-linked-records-and-no-offset-bridge",
               "#31-minimum-record-contents",
               "#32-related-record-cross-references",
@@ -7040,7 +7040,7 @@
               "#4-standing-measurement-evaluation-dimensions",
               "#45-dual-use-measurement-hooks",
               "#46-question-2-measurement-illustrations",
-              "#7-unified-proportional-lequ-scale",
+              "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
               "#verified-inputs-for-standing"
             ]
           },
@@ -7050,14 +7050,14 @@
             "anchors": [
               "#10-pattern-applications-and-question-3-routing",
               "#4-violation-correction-and-prevention",
-              "#42-general-standing-locks",
+              "#42-prevention--general-standing-locks",
               "#44-remedy-parity-and-lock-preconditions",
               "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
               "#62-competency-bars-and-clearances",
               "#71-anti-aggregation-of-named-pathway-effects",
               "#72-plain-statement-of-effect-and-burden",
               "#94-anti-evasion-and-look-through-authority",
-              "#95-timely-implementation-and-reassessment"
+              "#95-timely-implementation"
             ]
           },
           {
@@ -7445,7 +7445,7 @@
               "#21-fairness",
               "#31-safety-harm-constraint",
               "#32-truth-epistemic-integrity-constraint",
-              "#34-plain-language-accessibility-stewardship-duty",
+              "#34-plain-language-accessibility-participation-and-stewardship-duty",
               "#5-freedom-bounded-agency",
               "#51-limitation-discipline"
             ]
@@ -7827,7 +7827,7 @@
               "#2-foundational-objective-wellbeing",
               "#31-safety-harm-constraint",
               "#32-truth-epistemic-integrity-constraint",
-              "#34-plain-language-accessibility-stewardship-duty",
+              "#34-plain-language-accessibility-participation-and-stewardship-duty",
               "#4-system-stability-enabler-trust-coordination-integrity",
               "#41-resilience-and-self-healing-design",
               "#5-freedom-bounded-agency",
@@ -8145,11 +8145,11 @@
             "file": "core_09_standing_assessment.md",
             "count": 11,
             "anchors": [
-              "#2-standing-records",
+              "#2-question-1--what-happened",
               "#21-silence-is-the-default",
               "#31-minimum-record-contents",
               "#36-forum-boundary",
-              "#7-unified-proportional-lequ-scale",
+              "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
               "#chapter-nine-compliance-violation-and-standing-model",
               "#verified-inputs-for-standing"
             ]
@@ -8158,13 +8158,13 @@
             "file": "core_10_standing_integration.md",
             "count": 25,
             "anchors": [
-              "#42-general-standing-locks",
+              "#42-prevention--general-standing-locks",
               "#54-special-violation-rules",
               "#55-special-locks",
               "#62-competency-bars-and-clearances",
               "#71-anti-aggregation-of-named-pathway-effects",
               "#8-restoration-and-reassessment",
-              "#9-enforcement-realism",
+              "#9-enforcement-realism-and-remedy-systems",
               "#chapter-ten-standing-effects-and-integration"
             ]
           },
@@ -8180,7 +8180,7 @@
             "count": 8,
             "anchors": [
               "#2-default-venue-and-primary-stakes",
-              "#3-transfer-consolidation-and-coordination",
+              "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
               "#5-escalation-and-certification",
               "#chapter-twelve-forums-and-jurisdiction"
             ]
@@ -8496,7 +8496,7 @@
             "count": 3,
             "anchors": [
               "#2-foundational-objective-wellbeing",
-              "#3-non-negotiable-constraints-safety-and-truth",
+              "#3-non-negotiable-principle-constraints-safety-and-truth",
               "#5-freedom-bounded-agency"
             ]
           },
@@ -8645,7 +8645,7 @@
             "file": "core_10_standing_integration.md",
             "count": 7,
             "anchors": [
-              "#42-general-standing-locks",
+              "#42-prevention--general-standing-locks",
               "#51-definition-and-attachment",
               "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
               "#55-special-locks",
@@ -8781,7 +8781,7 @@
             "count": 8,
             "anchors": [
               "#5-slot-grammar-and-display-labels",
-              "#7-unified-proportional-lequ-scale",
+              "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
               "#chapter-nine-compliance-violation-and-standing-model"
             ]
           },
@@ -8789,7 +8789,7 @@
             "file": "core_10_standing_integration.md",
             "count": 4,
             "anchors": [
-              "#2-integration-record-and-decision-order",
+              "#2-automatic-integration-review-and-continuity",
               "#chapter-ten-standing-effects-and-integration"
             ]
           },
@@ -8837,7 +8837,7 @@
             "file": "core_01_a_values_principles.md",
             "count": 1,
             "anchors": [
-              "#3-non-negotiable-constraints-safety-and-truth"
+              "#3-non-negotiable-principle-constraints-safety-and-truth"
             ]
           },
           {
@@ -8884,7 +8884,7 @@
             "file": "core_10_standing_integration.md",
             "count": 3,
             "anchors": [
-              "#9-enforcement-realism"
+              "#9-enforcement-realism-and-remedy-systems"
             ]
           },
           {
@@ -8994,7 +8994,7 @@
             "file": "core_09_standing_assessment.md",
             "count": 4,
             "anchors": [
-              "#7-unified-proportional-lequ-scale",
+              "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
               "#chapter-nine-compliance-violation-and-standing-model"
             ]
           },
@@ -9852,7 +9852,7 @@
             "count": 8,
             "anchors": [
               "#843-incorporation-layer",
-              "#844-combined-satisfaction"
+              "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
             ]
           },
           {
@@ -10138,7 +10138,7 @@
             "anchors": [
               "#84-constitutional-meaning-conflict-resolution",
               "#843-incorporation-layer",
-              "#844-combined-satisfaction"
+              "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
             ]
           },
           {
@@ -10321,7 +10321,7 @@
             "count": 8,
             "anchors": [
               "#843-incorporation-layer",
-              "#844-combined-satisfaction"
+              "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
             ]
           },
           {
@@ -10425,7 +10425,7 @@
             "file": "core_10_standing_integration.md",
             "count": 3,
             "anchors": [
-              "#42-general-standing-locks",
+              "#42-prevention--general-standing-locks",
               "#55-special-locks",
               "#62-competency-bars-and-clearances"
             ]
@@ -10633,7 +10633,7 @@
             "file": "core_10_standing_integration.md",
             "count": 6,
             "anchors": [
-              "#42-general-standing-locks",
+              "#42-prevention--general-standing-locks",
               "#55-special-locks",
               "#62-competency-bars-and-clearances"
             ]
@@ -10756,7 +10756,7 @@
               "#1423-remedies",
               "#143-consolidation-ceiling",
               "#1431-consolidation-risk-pre-lock-in-impairment",
-              "#1432-ceiling-discipline-adopter-requirements"
+              "#1432-consolidation-ceiling-mechanism-adopter-tunable"
             ]
           },
           {
@@ -10891,7 +10891,7 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 1,
             "anchors": [
-              "#16-reopening-drift-and-non-evasion"
+              "#16-reopening-misalignment-and-non-evasion"
             ]
           },
           {
@@ -11827,7 +11827,7 @@
             "count": 7,
             "anchors": [
               "#843-incorporation-layer",
-              "#844-combined-satisfaction"
+              "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
             ]
           },
           {
@@ -11908,7 +11908,7 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 1,
             "anchors": [
-              "#844-combined-satisfaction"
+              "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
             ]
           },
           {
@@ -12063,7 +12063,7 @@
             "count": 3,
             "anchors": [
               "#843-incorporation-layer",
-              "#844-combined-satisfaction"
+              "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
             ]
           },
           {
@@ -12169,7 +12169,7 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 4,
             "anchors": [
-              "#844-combined-satisfaction"
+              "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
             ]
           },
           {
@@ -12197,7 +12197,7 @@
             "file": "core_10_standing_integration.md",
             "count": 2,
             "anchors": [
-              "#2-integration-record-and-decision-order",
+              "#2-automatic-integration-review-and-continuity",
               "#61-recency-and-currentness"
             ]
           },
@@ -12280,7 +12280,7 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 7,
             "anchors": [
-              "#844-combined-satisfaction"
+              "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
             ]
           },
           {
@@ -12450,11 +12450,11 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 13,
             "anchors": [
-              "#11-certification-record",
+              "#11-system-certification-record",
               "#111-minimum-record-contents",
               "#12-transparency-auditability-and-contestability",
               "#14-supervisory-sequence-and-contestability-chain",
-              "#16-reopening-drift-and-non-evasion"
+              "#16-reopening-misalignment-and-non-evasion"
             ]
           },
           {
@@ -12543,7 +12543,7 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 1,
             "anchors": [
-              "#11-certification-record"
+              "#11-system-certification-record"
             ]
           },
           {
@@ -12618,7 +12618,7 @@
               "#12-transparency-auditability-and-contestability",
               "#14-supervisory-sequence-and-contestability-chain",
               "#15-relationship-to-standing",
-              "#16-reopening-drift-and-non-evasion"
+              "#16-reopening-misalignment-and-non-evasion"
             ]
           },
           {
@@ -13241,7 +13241,7 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 1,
             "anchors": [
-              "#11-certification-record"
+              "#11-system-certification-record"
             ]
           },
           {
@@ -13897,7 +13897,7 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 4,
             "anchors": [
-              "#844-combined-satisfaction"
+              "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
             ]
           },
           {
@@ -13992,7 +13992,7 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 5,
             "anchors": [
-              "#844-combined-satisfaction"
+              "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
             ]
           },
           {
@@ -14309,7 +14309,7 @@
             "count": 2,
             "anchors": [
               "#111-minimum-record-contents",
-              "#16-reopening-drift-and-non-evasion"
+              "#16-reopening-misalignment-and-non-evasion"
             ]
           },
           {
@@ -14334,7 +14334,7 @@
             "file": "core_13_governance.md",
             "count": 1,
             "anchors": [
-              "#43-decision-resolution-requirements-for-binding-collective-choice"
+              "#43-decision-resolution-requirements-for-binding-stakeholder-choice"
             ]
           },
           {
@@ -14570,7 +14570,7 @@
             "file": "core_10_standing_integration.md",
             "count": 15,
             "anchors": [
-              "#42-general-standing-locks",
+              "#42-prevention--general-standing-locks",
               "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
               "#55-special-locks",
               "#62-competency-bars-and-clearances"
@@ -17422,7 +17422,7 @@
             "anchors": [
               "#41-remedy-and-correction",
               "#44-remedy-parity-and-lock-preconditions",
-              "#9-enforcement-realism",
+              "#9-enforcement-realism-and-remedy-systems",
               "#91-remediation-capacity-and-funding",
               "#92-remedy-parity-funding-floor",
               "#92-remedy-system-durability"
@@ -17499,7 +17499,7 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 4,
             "anchors": [
-              "#844-combined-satisfaction"
+              "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
             ]
           },
           {
@@ -17627,7 +17627,7 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 3,
             "anchors": [
-              "#844-combined-satisfaction"
+              "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
             ]
           },
           {
@@ -18153,7 +18153,7 @@
             "file": "core_12_forum.md",
             "count": 7,
             "anchors": [
-              "#3-transfer-consolidation-and-coordination",
+              "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
               "#44-environment-forums",
               "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#capacity-failure-routing",
@@ -18666,7 +18666,7 @@
             "file": "core_12_forum.md",
             "count": 7,
             "anchors": [
-              "#7-forum-support-before-during-and-after-review",
+              "#7-forum-support-before-during-and-after-review--oversight-architecture",
               "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
@@ -18859,7 +18859,7 @@
             "file": "core_12_forum.md",
             "count": 11,
             "anchors": [
-              "#7-forum-support-before-during-and-after-review",
+              "#7-forum-support-before-during-and-after-review--oversight-architecture",
               "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
@@ -19257,7 +19257,7 @@
             "file": "core_09_standing_assessment.md",
             "count": 2,
             "anchors": [
-              "#2-standing-records",
+              "#2-question-1--what-happened",
               "#4-standing-measurement-evaluation-dimensions"
             ]
           },

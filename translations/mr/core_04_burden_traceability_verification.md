@@ -196,7 +196,7 @@
 
 - वरून: [अध्याय दोन — व्याख्या रचना आणि घटक अपेक्षा](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements); [अध्याय तीन — व्याख्या सचोटी, टाळाटाळ आणि अनुपालन-भंग](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance); [अध्याय चार, विभाग 1 ते 5](#1-exclusive-enforcement-and-burden-allocation).
 - पुढे: [अध्याय सात — प्रणाली-संरेखन प्रमाणन](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [अध्याय आठ — योगदान, उल्लंघन आणि प्रस्थिति नमुना](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
-- सोबत वाचा: [अध्याय सात §16 — पुनर्उघडणे, विसंरेखन आणि टाळाटाळ-निरोध](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — अध्याय दोन ते चारखालील सत्यापित अनुपालन-भंग आधीच्या मान्यतेची पर्वा न करता प्रमाणन पुनर्उघडू किंवा हरवू शकतो.
+- सोबत वाचा: [अध्याय सात §16 — पुनर्उघडणे, विसंरेखन आणि टाळाटाळ-निरोध](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) — अध्याय दोन ते चारखालील सत्यापित अनुपालन-भंग आधीच्या मान्यतेची पर्वा न करता प्रमाणन पुनर्उघडू किंवा हरवू शकतो.
 
 </details>
 

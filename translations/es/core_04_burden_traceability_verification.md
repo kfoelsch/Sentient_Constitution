@@ -196,7 +196,7 @@ Donde la incertidumbre impida la demostración definitiva de cumplimiento para c
 
 - Origen: [Capítulo Dos — Estructura de las definiciones y requisitos de los componentes](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements); [Capítulo Tres — Integridad de la definición, evasión e incumplimiento](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance); [Capítulo Cuatro, secciones 1 a 5](#1-exclusive-enforcement-and-burden-allocation).
 - Destino: [Capítulo Siete — Certificación de alineación del sistema](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [Capítulo Ocho — Modelo de contribución, infracción y trayectoria](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
-- Leer con: [Capítulo Siete §16 — Reapertura, desalineación y antievasión](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — el incumplimiento verificado bajo los capítulos Dos a Cuatro puede reabrir o derrotar la certificación con independencia del reconocimiento previo.
+- Leer con: [Capítulo Siete §16 — Reapertura, desalineación y antievasión](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) — el incumplimiento verificado bajo los capítulos Dos a Cuatro puede reabrir o derrotar la certificación con independencia del reconocimiento previo.
 
 </details>
 

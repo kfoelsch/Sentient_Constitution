@@ -1997,7 +1997,7 @@
 
 تفصیلی جانچ عوامل اور سرٹیفیکیشن ریکارڈ کے مالک ہیں:
 - **[باب ہفتم §3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**؛
-- **[باب ہفتم §11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record)**؛
+- **[باب ہفتم §11](../../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record)**؛
 - **[corpus_systems.md](../../corpus_systems.md)، CS-3 — نظام درجہ بندی اور ہینڈلنگ**۔
 
 وہ باب ہفتم عمل:

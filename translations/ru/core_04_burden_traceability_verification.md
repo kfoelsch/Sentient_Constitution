@@ -196,7 +196,7 @@
 
 - Исход: [Глава вторая — Структура определений и требования к компонентам](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements); [Глава третья — Целостность определения, уклонение и несоответствие](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance); [Глава четвёртая, разделы 1 по 5](#1-exclusive-enforcement-and-burden-allocation).
 - Назначение: [Глава седьмая — Сертификация согласования системы](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [Глава восьмая — Модель вклада, нарушения и траектории](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
-- Читать вместе с: [Глава седьмая §16 — Повторное открытие, рассогласованность и антиуклонение](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — проверенное несоответствие под Главами со второй по четвёртую может повторно открыть или победить сертификацию независимо от предшествующего признания.
+- Читать вместе с: [Глава седьмая §16 — Повторное открытие, рассогласованность и антиуклонение](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) — проверенное несоответствие под Главами со второй по четвёртую может повторно открыть или победить сертификацию независимо от предшествующего признания.
 
 </details>
 

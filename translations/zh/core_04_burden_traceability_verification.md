@@ -196,7 +196,7 @@
 
 - 上游：[第二章 — 定义结构与组件要求](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements)；[第三章 — 定义完整性、规避与不合规](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)；[第四章，第 1 节至第 5 节](#1-exclusive-enforcement-and-burden-allocation)。
 - 下游：[第七章 — 系统对齐认证](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)；[第八章 — 贡献、违规与轨迹模型](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)。
-- 一并阅读：[第七章 §16 — 重开、错位与反规避](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — 第二至四章下的经核实不合规可以重开或击败认证，不论先前承认如何。
+- 一并阅读：[第七章 §16 — 重开、错位与反规避](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) — 第二至四章下的经核实不合规可以重开或击败认证，不论先前承认如何。
 
 </details>
 

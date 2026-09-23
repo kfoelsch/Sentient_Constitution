@@ -18,7 +18,7 @@
 >
 > **Read next**
 > - Label map, section registry, and institutions-only domain routing: [ci_00_registry_and_reading_rules.md](ci_00_registry_and_reading_rules.md) (*Institutions domain routing (integrator annex)*).
-> - Implementation-corpus gateway and shared contract: **CJS-1.0**, **CJS-1.1**, and **CJS-1.3** in [cjs_01_scope_purpose_boundary_interface.md](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md). Default reading stack: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction).
+> - Implementation-corpus gateway and shared contract: **CJS-1.0**, **CJS-1.1**, and **CJS-1.3** in [cjs_01_scope_purpose_boundary_interface.md](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md). Default reading stack: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations).
 > - Cross-layer topic router: [CJS-0.1 Cross-file routing](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids).
 > - First institutional family after this boundary page: [ci_03_institutional_design_separation_of_powers.md](ci_03_institutional_design_separation_of_powers.md) (**CI-3** (*Institutional design and separation of powers*)).
 
@@ -27,9 +27,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer) purpose of the joint-structure layer; [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) combined satisfaction and default reading stack; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) section identifiers and **Def.*** / **oDef** homes; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer) purpose of the joint-structure layer; [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations) combined satisfaction and default reading stack; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) section identifiers and **Def.*** / **oDef** homes; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-1.1: Anti-constitutional misconduct usage](#ci-11-anti-constitutional-misconduct-usage); [CI-1.2: Proportionality rule](#ci-12-proportionality-rule).
-- Read with: **CI-1**; [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer); [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-3**.
+- Read with: **CI-1**; [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer); [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-3**.
 
 </details>
 
@@ -81,7 +81,7 @@ This file is the institutional implementation home for **CI-1** (*Scope, purpose
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) combined satisfaction and default reading stack; [Chapter Eleven](../core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) designation; [Chapter Nine](../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) standing measurement; and [Chapter Ten](../core_10_standing_integration.md) standing integration.
+- Upstream: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations) combined satisfaction and default reading stack; [Chapter Eleven](../core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) designation; [Chapter Nine](../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) standing measurement; and [Chapter Ten](../core_10_standing_integration.md) standing integration.
 - Read with: **CI-1.1**; **CI-13**; **CI-27**.
 
 </details>
@@ -103,7 +103,7 @@ This layer does **not**:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) combined satisfaction and default reading stack; [**CJS-3.11**](../corpus_joint_structure/cjs_03a_accountability_operations.md) distributed and proportional authority terms; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations) combined satisfaction and default reading stack; [**CJS-3.11**](../corpus_joint_structure/cjs_03a_accountability_operations.md) distributed and proportional authority terms; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Read with: **CI-1.2**; **CJS-3.11**; **CJS-3.12**; **CJS-3.13**; **CI-9**.
 
 </details>

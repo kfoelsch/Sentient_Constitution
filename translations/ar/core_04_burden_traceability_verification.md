@@ -196,7 +196,7 @@
 
 - أعلى: [الفصل الثاني — بنية التعريفات ومتطلبات المكوّنات](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements)؛ [الفصل الثالث — سلامة التعريف والتهرّب وعدم الامتثال](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)؛ [الفصل الرابع، الأقسام 1 حتى 5](#1-exclusive-enforcement-and-burden-allocation).
 - أسفل: [الفصل السابع — تصديق مواءمة النظام](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)؛ [الفصل الثامن — نموذج الإسهام والانتهاك والوضعية](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
-- يُقرأ مع: [الفصل السابع §16 — إعادة الفتح وعدم المواءمة ومنع التهرّب](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — يجوز لعدم الامتثال الموثَّق تحت الفصول من الثاني إلى الرابع أن يعيد فتح التصديق أو يهزمه بصرف النظر عن اعتراف سابق.
+- يُقرأ مع: [الفصل السابع §16 — إعادة الفتح وعدم المواءمة ومنع التهرّب](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) — يجوز لعدم الامتثال الموثَّق تحت الفصول من الثاني إلى الرابع أن يعيد فتح التصديق أو يهزمه بصرف النظر عن اعتراف سابق.
 
 </details>
 

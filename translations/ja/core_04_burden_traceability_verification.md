@@ -196,7 +196,7 @@
 
 - 上流：[第二章 — 定義の構造と構成要素の要件](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements)；[第三章 — 定義の誠実性、回避、不遵守](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)；[第四章、第 1 節から第 5 節](#1-exclusive-enforcement-and-burden-allocation)。
 - 下流：[第七章 — システム整合認証](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)；[第八章 — 貢献、違反、軌跡モデル](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)。
-- あわせて読む：[第七章 §16 — 再開、不整合、回避防止](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — 第二から第四章のもとでの検証済み不遵守は、以前の承認にかかわらず、認証を再開し、または打ち負かすことができる。
+- あわせて読む：[第七章 §16 — 再開、不整合、回避防止](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) — 第二から第四章のもとでの検証済み不遵守は、以前の承認にかかわらず、認証を再開し、または打ち負かすことができる。
 
 </details>
 

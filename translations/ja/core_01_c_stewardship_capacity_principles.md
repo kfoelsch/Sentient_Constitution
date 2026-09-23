@@ -1993,7 +1993,7 @@
 
 詳細な評価要因と認証記録は次が所管する：
 - **[第七章 §3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**；
-- **[第七章 §11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record)**；
+- **[第七章 §11](../../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record)**；
 - **[corpus_systems.md](../../corpus_systems.md)、CS-3 — システムの分類と取扱い**。
 
 その第七章の過程は：

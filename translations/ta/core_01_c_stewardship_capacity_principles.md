@@ -1995,7 +1995,7 @@
 
 விரிவான மதிப்பீட்டுக் காரணிகளும் சான்றளிப்புப் பதிவுகளும் இவற்றின் உரிமை:
 - **[அத்தியாயம் ஏழு §3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
-- **[அத்தியாயம் ஏழு §11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record)**;
+- **[அத்தியாயம் ஏழு §11](../../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record)**;
 - **[corpus_systems.md](../../corpus_systems.md), CS-3 — அமைப்பு வகைப்பாடும் கையாளுதலும்**.
 
 அந்த அத்தியாயம் ஏழு செயல்முறை:

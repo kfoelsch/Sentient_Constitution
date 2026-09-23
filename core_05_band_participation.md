@@ -282,7 +282,7 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Nine — §4 LEQU baseline](core_09_standing_assessment.md#lequ-baseline-constitutional-outcome) (*full-life-equivalent benefit and loss, **LEQU** definition, substrate-agnostic scope*); read with the [§7 unified proportional LEQU scale](core_09_standing_assessment.md#7-unified-proportional-lequ-scale) for the Contribution and Violation axes.
+- Canonical owner: [Chapter Nine — §4 LEQU baseline](core_09_standing_assessment.md#lequ-baseline-constitutional-outcome) (*full-life-equivalent benefit and loss, **LEQU** definition, substrate-agnostic scope*); read with the [§7 unified proportional LEQU scale](core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) for the Contribution and Violation axes.
 
 </details>
 
@@ -291,7 +291,7 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
 *In plain terms: a shared unit for expressing full-life-equivalent benefit or loss when Chapter Nine standing measurement calibrates Contribution and Violation records on one scale — not ordinary calendar years or species-only averages.*
 
 - **What it is**
-  - **In scope:** Shorthand for a **Lifespan Equivalent Unit** — the numeric or narrative unit adopted implementation uses to express **full-life-equivalent constitutional benefit** or comparable loss when calibrating the separate Contribution Axis and Violation Axis records against the shared five-times LEQU bands of the [Chapter Nine §7 unified scale](core_09_standing_assessment.md#7-unified-proportional-lequ-scale). Chapter Five pointer; canonical mechanics live in Chapter Nine **§7**.
+  - **In scope:** Shorthand for a **Lifespan Equivalent Unit** — the numeric or narrative unit adopted implementation uses to express **full-life-equivalent constitutional benefit** or comparable loss when calibrating the separate Contribution Axis and Violation Axis records against the shared five-times LEQU bands of the [Chapter Nine §7 unified scale](core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes). Chapter Five pointer; canonical mechanics live in Chapter Nine **§7 Unified proportional LEQU scale — Contribution and Violation Axes**.
   - **Out of scope:** ordinary calendar time, informal "years of life" talk, or species-bound lifespan averages used outside the Chapter Nine unified scale.
 <a id="lifespan-equivalent-unit-lequ-a"></a>
 - **How to measure and assess**
@@ -827,7 +827,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) (manipulation implicating Truth / Safety).
+- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-principle-constraints-safety-and-truth) (manipulation implicating Truth / Safety).
 - Cluster component: [Chapter Five §2 *Agency, Consent, and Anti-Coercion](core_05_band_participation.md#agency-consent-and-anti-coercion-semi-independent)*.
 - Read with: [Consent](core_05_band_participation.md#consent-constitutional), [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency), [Dependency](core_05_band_continuity.md#dependency), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), **Article X-A** (*Non-Imposition and Consent in Association*), and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*).
 
@@ -2772,7 +2772,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner floor: [Chapter Thirteen §4.3](core_13_governance.md#43-decision-resolution-requirements-for-binding-collective-choice) (*Decision-resolution requirements for binding stakeholder choice*).
+- Owner floor: [Chapter Thirteen §4.3](core_13_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice) (*Decision-resolution requirements for binding stakeholder choice*).
 - Read with: [Preamble §3.3 governance-layer discipline](core_00_preamble.md#33-governance-layers); [Charter](core_05_band_continuity.md#charter); [Stakeholder Status and Weight](core_05_band_participation.md#stakeholder-status-and-weight-cluster), [Governance](core_05_band_accountability.md#governance), [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer), [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice), [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight), [Article XI](core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*), [Article XXIV-B: Rights-Collision Procedure and Restorative Alignment](core_06_rights_part_d.md#article-xxiv-b-rights-collision-procedure-and-restorative-alignment), and [Chapter One §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
 - Layer: **Stakeholder System Participation (SSP)** — voice inside already-authorized systems. Distinct from **Constitutional Contract Layer (CCL)** authorization.
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](core_00_preamble.md#material-stake) via [Materiality Determination](core_05_band_oversight.md#materiality-determination).
@@ -2803,7 +2803,7 @@ It does not replace [Foundational Constitutional Choice](core_05_band_integrativ
 - [Binding Stakeholder Choice — Decision-Resolution Requirements](core_05_band_participation.md#binding-collective-choice-decision-resolution-process);
 - [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice);
 - [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice);
-- [Chapter Thirteen §4.3](core_13_governance.md#43-decision-resolution-requirements-for-binding-collective-choice), as the governance owner floor for the compound requirement.
+- [Chapter Thirteen §4.3 Decision-resolution requirements for binding stakeholder choice](core_13_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice), as the governance owner floor for the compound requirement.
 
 **Anti-bypass.** Do not split a binding stakeholder-choice matter into separate deliberation, representation, weighting, record, or rights-collision pieces so that one box is checked while the others fail. Within the admission scope, none of these count as compliance on their own:
 
@@ -2866,7 +2866,7 @@ See **Joint invocation and satisfaction**.
     - sham deliberation;
     - rubber-stamp plural review; or
     - foreclosing challenge or lawful reopening where required.
-  - Owner floor: [Chapter Thirteen §4.3](core_13_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
+  - Owner floor: [Chapter Thirteen §4.3 Decision-resolution requirements for binding stakeholder choice](core_13_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
 
 ---
 
@@ -2904,7 +2904,7 @@ See **Joint invocation and satisfaction**.
     - unpublished weights;
     - unchecked single-factor dominance; or
     - absent contest or revalidation where periodic review is required for the mechanism class.
-  - Owner floor: [Chapter Thirteen §4.3](core_13_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
+  - Owner floor: [Chapter Thirteen §4.3 Decision-resolution requirements for binding stakeholder choice](core_13_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
 
 ---
 
@@ -2941,7 +2941,7 @@ See **Joint invocation and satisfaction**.
   - **Primary failure:**
     - a binding stakeholder choice is finalized without a clear written account of how colliding rights were resolved, when those rights effects matter; or
     - the required record pieces are missing when a real rights conflict is in play.
-  - Owner floor: [Chapter Thirteen §4.3](core_13_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
+  - Owner floor: [Chapter Thirteen §4.3 Decision-resolution requirements for binding stakeholder choice](core_13_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
 
 ---
 

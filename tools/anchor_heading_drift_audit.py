@@ -15,15 +15,16 @@ heading would generate, and most of that is deliberate:
 
 None of those are defects. What this audit catches is narrower: a **single**
 anchor on a numbered section whose number still matches the heading but whose
-*name* no longer does — `345-chapter-eleven-floor-boundary` on a heading that
-now reads "3.4.5 Rights-Floor Boundary". Nothing breaks, so no link audit sees
-it, but the anchor now asserts something false about where it points, and it
-is what a reader copies into the next cross-reference.
+*name* no longer does — an id reading `345-chapter-eleven-floor-boundary` on a
+heading that has since been retitled "3.4.5 Rights-Floor Boundary". Nothing
+breaks, so no link audit sees it, but the anchor asserts something false about
+where it points, and it is what a reader copies into the next cross-reference.
 
-Known pre-existing drift is listed in the baseline beside this file so the
-audit is green on a clean tree and fails only on *new* drift. Shrinking that
-baseline is the backlog; entries that no longer drift are reported as stale so
-the list cannot rot.
+The corpus carries no such drift today: the baseline beside this file is empty
+and the rule is enforced outright. It stays a baseline rather than a bare
+assertion so a deliberate exception can be recorded and reviewed instead of
+silently weakening the rule. Entries that no longer drift are reported as
+stale, so the list cannot rot.
 
 Rule ID: ANCHOR-HEADING-DRIFT-01
 """

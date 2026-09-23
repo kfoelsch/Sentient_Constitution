@@ -88,8 +88,8 @@ Domain-layer read-with contracts: apply [Institutions read-with pointers](../cor
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.8](#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail); [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); [CJS-1.7](#cjs-17-intentional-overlap-non-duplication-discipline); [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction).
-- Read with: **CJS-1.8.1**; **CJS-1.1**; **CJS-1.7**; **CJS-1.8**; **CJS-0.3**; [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction); [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#843-incorporation-layer) (*stricter-wins*).
+- Upstream: [CJS-1.8](#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail); [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); [CJS-1.7](#cjs-17-intentional-overlap-non-duplication-discipline); [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations).
+- Read with: **CJS-1.8.1**; **CJS-1.1**; **CJS-1.7**; **CJS-1.8**; **CJS-0.3**; [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#843-incorporation-layer) (*stricter-wins*).
 
 </details>
 

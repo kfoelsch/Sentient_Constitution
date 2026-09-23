@@ -241,7 +241,7 @@
     {
       "file": "core_01_a_values_principles.md",
       "heading": "3. Non-Negotiable Principle Constraints: Safety and Truth",
-      "anchor": "#3-non-negotiable-constraints-safety-and-truth",
+      "anchor": "#3-non-negotiable-principle-constraints-safety-and-truth",
       "line_start": 368,
       "line_end": 398
     },
@@ -269,7 +269,7 @@
     {
       "file": "core_01_a_values_principles.md",
       "heading": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "line_start": 515,
       "line_end": 546
     },
@@ -304,7 +304,7 @@
     {
       "file": "core_01_a_values_principles.md",
       "heading": "3.4.5 Rights-Floor Boundary",
-      "anchor": "#345-chapter-eleven-floor-boundary",
+      "anchor": "#345-rights-floor-boundary",
       "line_start": 587,
       "line_end": 590
     },
@@ -521,7 +521,7 @@
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "anchor": "#844-combined-satisfaction",
+      "anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "line_start": 826,
       "line_end": 864
     },
@@ -563,7 +563,7 @@
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "10. Consequential Stewardship: The Steward Role",
-      "anchor": "#10-consequential-stewardship",
+      "anchor": "#10-consequential-stewardship-the-steward-role",
       "line_start": 284,
       "line_end": 321
     },
@@ -836,7 +836,7 @@
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
       "heading": "14.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)",
-      "anchor": "#1432-ceiling-discipline-adopter-requirements",
+      "anchor": "#1432-consolidation-ceiling-mechanism-adopter-tunable",
       "line_start": 1833,
       "line_end": 1870
     },
@@ -878,14 +878,14 @@
     {
       "file": "core_02_definition_structure.md",
       "heading": "1.2 Measurement Components (M) — How It Must Be Measured",
-      "anchor": "#12-measurement-components",
+      "anchor": "#12-measurement-components-m--how-it-must-be-measured",
       "line_start": 89,
       "line_end": 112
     },
     {
       "file": "core_02_definition_structure.md",
       "heading": "1.3 Assessment Components (A) — How It Must Be Assessed",
-      "anchor": "#13-assessment-components",
+      "anchor": "#13-assessment-components-a--how-it-must-be-assessed",
       "line_start": 113,
       "line_end": 152
     },
@@ -3419,7 +3419,7 @@
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "3.8 Illustrative whole-system application by class (non-exhaustive)",
-      "anchor": "#38-illustrative-whole-system-application-by-class",
+      "anchor": "#38-illustrative-whole-system-application-by-class-non-exhaustive",
       "line_start": 259,
       "line_end": 366
     },
@@ -3433,7 +3433,7 @@
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "4.1 Illustrative data-handling application by class (non-exhaustive)",
-      "anchor": "#41-illustrative-data-handling-application-by-class",
+      "anchor": "#41-illustrative-data-handling-application-by-class-non-exhaustive",
       "line_start": 399,
       "line_end": 468
     },
@@ -3447,21 +3447,21 @@
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "5.1 Illustrative ecological-footprint application by class (non-exhaustive)",
-      "anchor": "#51-illustrative-ecological-footprint-application-by-class",
+      "anchor": "#51-illustrative-ecological-footprint-application-by-class-non-exhaustive",
       "line_start": 497,
       "line_end": 576
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "6. Proportionate Cross-System Contribution Evaluation",
-      "anchor": "#6-proportionate-cross-system-support-evaluation",
+      "anchor": "#6-proportionate-cross-system-contribution-evaluation",
       "line_start": 577,
       "line_end": 608
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "6.1 Illustrative cross-system support application by class (non-exhaustive)",
-      "anchor": "#61-illustrative-cross-system-support-application-by-class",
+      "anchor": "#61-illustrative-cross-system-support-application-by-class-non-exhaustive",
       "line_start": 609,
       "line_end": 689
     },
@@ -3475,7 +3475,7 @@
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "7.1 Illustrative nondiscrimination application by class (non-exhaustive)",
-      "anchor": "#71-illustrative-nondiscrimination-application-by-class",
+      "anchor": "#71-illustrative-nondiscrimination-application-by-class-non-exhaustive",
       "line_start": 720,
       "line_end": 796
     },
@@ -3489,7 +3489,7 @@
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "8.1 Illustrative accessibility application by class (non-exhaustive)",
-      "anchor": "#81-illustrative-accessibility-application-by-class",
+      "anchor": "#81-illustrative-accessibility-application-by-class-non-exhaustive",
       "line_start": 827,
       "line_end": 903
     },
@@ -3503,7 +3503,7 @@
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "9.1 Illustrative educational-capability application by class (non-exhaustive)",
-      "anchor": "#91-illustrative-educational-capability-application-by-class",
+      "anchor": "#91-illustrative-educational-capability-application-by-class-non-exhaustive",
       "line_start": 934,
       "line_end": 1013
     },
@@ -3517,7 +3517,7 @@
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "10.1 Illustrative trustworthiness application by class (non-exhaustive)",
-      "anchor": "#101-illustrative-trustworthiness-application-by-class",
+      "anchor": "#101-illustrative-trustworthiness-application-by-class-non-exhaustive",
       "line_start": 1044,
       "line_end": 1132
     },
@@ -3531,7 +3531,7 @@
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
       "heading": "11. System Certification Record",
-      "anchor": "#11-certification-record",
+      "anchor": "#11-system-certification-record",
       "line_start": 38,
       "line_end": 56
     },
@@ -3608,7 +3608,7 @@
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
       "heading": "16. Reopening, Misalignment, and Non-Evasion",
-      "anchor": "#16-reopening-drift-and-non-evasion",
+      "anchor": "#16-reopening-misalignment-and-non-evasion",
       "line_start": 457,
       "line_end": 510
     },
@@ -3643,14 +3643,14 @@
     {
       "file": "core_09_standing_assessment.md",
       "heading": "2. Question 1 — what happened?",
-      "anchor": "#2-standing-records",
+      "anchor": "#2-question-1--what-happened",
       "line_start": 98,
       "line_end": 114
     },
     {
       "file": "core_09_standing_assessment.md",
       "heading": "2.1 What Question 1 must establish",
-      "anchor": "#21-standing-records-as-the-unit-of-application",
+      "anchor": "#21-what-question-1-must-establish",
       "line_start": 115,
       "line_end": 152
     },
@@ -3664,7 +3664,7 @@
     {
       "file": "core_09_standing_assessment.md",
       "heading": "2.3 Question 1 event-type guide — what kind of help or harm occurred?",
-      "anchor": "#23-question-1-event-type-guide",
+      "anchor": "#23-question-1-event-type-guide--what-kind-of-help-or-harm-occurred",
       "line_start": 183,
       "line_end": 188
     },
@@ -3769,7 +3769,7 @@
     {
       "file": "core_09_standing_assessment.md",
       "heading": "4.4 Violation route descriptor catalog and measurement roles",
-      "anchor": "#44-violation-route-descriptor-measurement-roles",
+      "anchor": "#44-violation-route-descriptor-catalog-and-measurement-roles",
       "line_start": 632,
       "line_end": 659
     },
@@ -3804,7 +3804,7 @@
     {
       "file": "core_09_standing_assessment.md",
       "heading": "5.1 Table 1 — slot display labels",
-      "anchor": "#51-table-1-slot-display-labels",
+      "anchor": "#51-table-1--slot-display-labels",
       "line_start": 766,
       "line_end": 800
     },
@@ -3846,7 +3846,7 @@
     {
       "file": "core_09_standing_assessment.md",
       "heading": "7. Unified proportional LEQU scale — Contribution and Violation Axes",
-      "anchor": "#7-unified-proportional-lequ-scale",
+      "anchor": "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
       "line_start": 885,
       "line_end": 969
     },
@@ -3860,14 +3860,14 @@
     {
       "file": "core_10_standing_integration.md",
       "heading": "1. Chapter Nine records do not change",
-      "anchor": "#1-immutable-chapter-nine-inputs",
+      "anchor": "#1-chapter-nine-records-do-not-change",
       "line_start": 45,
       "line_end": 93
     },
     {
       "file": "core_10_standing_integration.md",
       "heading": "2. Automatic integration, review, and continuity",
-      "anchor": "#2-integration-record-and-decision-order",
+      "anchor": "#2-automatic-integration-review-and-continuity",
       "line_start": 94,
       "line_end": 129
     },
@@ -3895,7 +3895,7 @@
     {
       "file": "core_10_standing_integration.md",
       "heading": "4.2 Prevention — general standing locks",
-      "anchor": "#42-general-standing-locks",
+      "anchor": "#42-prevention--general-standing-locks",
       "line_start": 192,
       "line_end": 215
     },
@@ -4007,7 +4007,7 @@
     {
       "file": "core_10_standing_integration.md",
       "heading": "9. Enforcement realism and remedy systems",
-      "anchor": "#9-enforcement-realism",
+      "anchor": "#9-enforcement-realism-and-remedy-systems",
       "line_start": 734,
       "line_end": 742
     },
@@ -4042,7 +4042,7 @@
     {
       "file": "core_10_standing_integration.md",
       "heading": "9.5 Timely implementation",
-      "anchor": "#95-timely-implementation-and-reassessment",
+      "anchor": "#95-timely-implementation",
       "line_start": 814,
       "line_end": 821
     },
@@ -4315,7 +4315,7 @@
     {
       "file": "core_12_forum.md",
       "heading": "1. Purpose and role — participation architecture",
-      "anchor": "#1-purpose-and-role",
+      "anchor": "#1-purpose-and-role--participation-architecture",
       "line_start": 50,
       "line_end": 142
     },
@@ -4343,21 +4343,21 @@
     {
       "file": "core_12_forum.md",
       "heading": "2.3 Forum case records, standing records, and contests",
-      "anchor": "#23-forum-records-standing-records-and-contests",
+      "anchor": "#23-forum-case-records-standing-records-and-contests",
       "line_start": 238,
       "line_end": 286
     },
     {
       "file": "core_12_forum.md",
       "heading": "3. Transfer, consolidation, and coordination — continuity and anti-capture",
-      "anchor": "#3-transfer-consolidation-and-coordination",
+      "anchor": "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
       "line_start": 287,
       "line_end": 353
     },
     {
       "file": "core_12_forum.md",
       "heading": "4. Forum family definitions — accountability through adjudication",
-      "anchor": "#4-forum-family-definitions",
+      "anchor": "#4-forum-family-definitions--accountability-through-adjudication",
       "line_start": 354,
       "line_end": 378
     },
@@ -4490,7 +4490,7 @@
     {
       "file": "core_12_forum.md",
       "heading": "7. Forum support before, during, and after review — oversight architecture",
-      "anchor": "#7-forum-support-before-during-and-after-review",
+      "anchor": "#7-forum-support-before-during-and-after-review--oversight-architecture",
       "line_start": 879,
       "line_end": 913
     },
@@ -5792,7 +5792,7 @@
     {
       "file": "core_13_governance.md",
       "heading": "4.3 Decision-resolution requirements for binding stakeholder choice",
-      "anchor": "#43-decision-resolution-requirements-for-binding-collective-choice",
+      "anchor": "#43-decision-resolution-requirements-for-binding-stakeholder-choice",
       "line_start": 393,
       "line_end": 423
     },
@@ -5820,7 +5820,7 @@
     {
       "file": "core_14_non_regression.md",
       "heading": "2. Test 1 — Substantive Non-Regression Validity",
-      "anchor": "#2-test-1-substantive-non-regression-validity",
+      "anchor": "#2-test-1--substantive-non-regression-validity",
       "line_start": 84,
       "line_end": 110
     },
@@ -5960,21 +5960,21 @@
     {
       "file": "core_16_amendment_ratification.md",
       "heading": "4. Test 2 — Procedural Validity and Publication Integrity",
-      "anchor": "#4-test-2-procedural-validity-and-publication-integrity",
+      "anchor": "#4-test-2--procedural-validity-and-publication-integrity",
       "line_start": 95,
       "line_end": 111
     },
     {
       "file": "core_16_amendment_ratification.md",
       "heading": "5. Test 3 — Authority-Chain and Custody Validity",
-      "anchor": "#5-test-3-authority-chain-and-custody-validity",
+      "anchor": "#5-test-3--authority-chain-and-custody-validity",
       "line_start": 112,
       "line_end": 128
     },
     {
       "file": "core_16_amendment_ratification.md",
       "heading": "6. Test 4 — Contestability and Independent Review Validity",
-      "anchor": "#6-test-4-contestability-and-independent-review-validity",
+      "anchor": "#6-test-4--contestability-and-independent-review-validity",
       "line_start": 129,
       "line_end": 147
     },

@@ -187,7 +187,7 @@
 
 - **その職掌：** 検証済み分類を、現実世界の**軌跡効果**に、別軌道で統合する — [**実質的利害**](#material-stake)に応じて尺度を合わせ、貢献と違反を一つの純得点に折り畳まず、参加、監督、説明責任、適時性を空洞化しない。
   - **貢献軌道：** 検証済みの肯定分類は、実務上の上側を生む：
-    - [**能力許可**](../../core_10_standing_integration.md#62-competency-bars-and-clearances)は、公表された能力の閾に照らして能力が示され、適用される[軌跡ロック](../../core_10_standing_integration.md#42-general-standing-locks)が指名された経路を塞がないとき、信頼に敏感な役割、委任された権限、監督適格、段階的に結果の伴う責務ある管理を開きうる
+    - [**能力許可**](../../core_10_standing_integration.md#62-competency-bars-and-clearances)は、公表された能力の閾に照らして能力が示され、適用される[軌跡ロック](../../core_10_standing_integration.md#42-prevention--general-standing-locks)が指名された経路を塞がないとき、信頼に敏感な役割、委任された権限、監督適格、段階的に結果の伴う責務ある管理を開きうる
     - [第一章](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)が求める、適法な責務ある管理と協力に対する比例的承認と**実質的報酬**
     - 空の称賛ではない。便益は実際であり、証拠に支えられ、異議に開かれていなければならない
   - **違反軌道：** 検証済みの違反認定は、実務上の下側を生む：

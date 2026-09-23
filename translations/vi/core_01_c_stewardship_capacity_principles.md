@@ -1995,7 +1995,7 @@ Chương Một đặt hướng. Tuyên bố các loại sau phải được th�
 
 Các yếu tố đánh giá chi tiết và hồ sơ chứng nhận do:
 - **[Chương Bảy §3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
-- **[Chương Bảy §11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record)**;
+- **[Chương Bảy §11](../../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record)**;
 - **[corpus_systems.md](../../corpus_systems.md), CS-3 — Phân loại hệ thống và xử lý** nắm.
 
 Quy trình Chương Bảy đó:

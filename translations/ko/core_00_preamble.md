@@ -187,7 +187,7 @@
 
 - **맡은 일:** 확인된 분류를 실제 세계의 **궤적 효과**로 통합한다, 따로 떨어진 궤도에서 — [**실질 이해관계**](#material-stake)에 맞춰 세기를 조절하고, 기여와 위반을 하나의 순점수로 접지 않으며, 참여, 감독, 책무, 적시성을 비우지 않는다.
   - **기여 궤도:** 확인된 긍정 분류는 실제 상승을 산출한다:
-    - [**역량 허가**](../../core_10_standing_integration.md#62-competency-bars-and-clearances)는 공표된 역량 문턱에 대해 역량이 입증되고 적용되는 [궤적 잠금](../../core_10_standing_integration.md#42-general-standing-locks)이 명명된 경로를 막지 않을 때, 신뢰에 민감한 역할, 위임된 권한, 감독 자격, 점차 결과가 커지는 책임 있는 관리를 열 수 있다
+    - [**역량 허가**](../../core_10_standing_integration.md#62-competency-bars-and-clearances)는 공표된 역량 문턱에 대해 역량이 입증되고 적용되는 [궤적 잠금](../../core_10_standing_integration.md#42-prevention--general-standing-locks)이 명명된 경로를 막지 않을 때, 신뢰에 민감한 역할, 위임된 권한, 감독 자격, 점차 결과가 커지는 책임 있는 관리를 열 수 있다
     - [제1장](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)이 요구하는 대로, 적법한 책임 있는 관리와 협력에 대한 비례 인정과 **실질 보상**
     - 빈 칭찬이 아니다. 이익은 실제여야 하고, 증거로 받쳐져야 하며, 다툼에 열려 있어야 한다
   - **위반 궤도:** 확인된 위반 인정은 실제 하강을 산출한다:

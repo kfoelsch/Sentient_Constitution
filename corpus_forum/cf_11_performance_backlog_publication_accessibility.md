@@ -211,7 +211,7 @@ If a system cannot yet justify its own calibrated numbers, the interim default s
 | --- | --- | --- | --- | --- | --- |
 | Forum access and intake acknowledgment | ≤ 24 hours | ≤ 3 calendar days | ≤ 7 calendar days | ≤ 10 calendar days | ≤ 14 calendar days |
 | Evidence preservation initiated | concurrent with intake | ≤ 3 calendar days from intake | ≤ 7 calendar days from intake | ≤ 10 calendar days from intake | ≤ 14 calendar days from intake |
-| **Question 1** — verified finding → **standing record** opened ([Chapter Nine §2](../core_09_standing_assessment.md#2-standing-records)) | ≤ 3 calendar days | ≤ 7 calendar days | ≤ 21 calendar days | ≤ 45 calendar days | ≤ 60 calendar days |
+| **Question 1** — verified finding → **standing record** opened ([Chapter Nine §2](../core_09_standing_assessment.md#2-question-1--what-happened)) | ≤ 3 calendar days | ≤ 7 calendar days | ≤ 21 calendar days | ≤ 45 calendar days | ≤ 60 calendar days |
 | **Question 2** — measurement ([Chapter Nine §4](../core_09_standing_assessment.md#4-standing-measurement-evaluation-dimensions)) | ≤ 1 calendar day after verified inputs complete | ≤ 5 calendar days | ≤ 14 calendar days | ≤ 30 calendar days | ≤ 45 calendar days |
 | **Question 3** — integration ([Chapter Ten](../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)) | ≤ 2 calendar days after Q2 | ≤ 7 calendar days | ≤ 21 calendar days | ≤ 30 calendar days | ≤ 45 calendar days |
 | Remedy or safeguard commencement | ≤ 1 calendar day after Q3 where ongoing harm is material | ≤ 5 calendar days | ≤ 14 calendar days after published integration plan | ≤ 21 calendar days | ≤ 30 calendar days |

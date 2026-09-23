@@ -196,7 +196,7 @@
 
 - ต้นทาง: [บทที่สอง — โครงสร้างบทนิยามและข้อกำหนดองค์ประกอบ](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements); [บทที่สาม — ความครบถ้วนของบทนิยาม การหลบ และการไม่ปฏิบัติตาม](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance); [บทที่สี่ หมวด 1 ถึง 5](#1-exclusive-enforcement-and-burden-allocation).
 - ปลายทาง: [บทที่เจ็ด — การรับรองความสอดคล้องของระบบ](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [บทที่แปด — แบบจำลองการมีส่วนช่วย การละเมิด และร่องรอย](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
-- อ่านคู่กับ: [บทที่เจ็ด §16 — การเปิดใหม่ ความไม่สอดคล้อง และต้านการหลบ](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — การไม่ปฏิบัติตามที่ตรวจสอบแล้วภายใต้บทที่สองถึงสี่ สามารถเปิดใหม่หรือเอาชนะการรับรองได้ โดยไม่คำนึงถึงการรับรู้ก่อน.
+- อ่านคู่กับ: [บทที่เจ็ด §16 — การเปิดใหม่ ความไม่สอดคล้อง และต้านการหลบ](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) — การไม่ปฏิบัติตามที่ตรวจสอบแล้วภายใต้บทที่สองถึงสี่ สามารถเปิดใหม่หรือเอาชนะการรับรองได้ โดยไม่คำนึงถึงการรับรู้ก่อน.
 
 </details>
 

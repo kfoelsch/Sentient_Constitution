@@ -1995,7 +1995,7 @@
 
 详细评价因素与认证记录由下列主责：
 - **[第七章 §3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**；
-- **[第七章 §11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record)**；
+- **[第七章 §11](../../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record)**；
 - **[corpus_systems.md](../../corpus_systems.md)，CS-3 — 系统分类与处理**。
 
 那项第七章过程：

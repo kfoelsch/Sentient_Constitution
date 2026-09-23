@@ -196,7 +196,7 @@
 
 - ঊর্ধ্ব: [অধ্যায় দুই — সংজ্ঞার গঠন ও উপাদান প্রয়োজনীয়তা](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements); [অধ্যায় তিন — সংজ্ঞা সততা, এড়ানো ও অ-অনুপালন](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance); [অধ্যায় চার, ধারা 1 থেকে 5](#1-exclusive-enforcement-and-burden-allocation)।
 - অধঃ: [অধ্যায় সাত — ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [অধ্যায় আট — অবদান, লঙ্ঘন ও প্রস্থিতি মডেল](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)।
-- সঙ্গে পড়ুন: [অধ্যায় সাত §16 — পুনরায় খোলা, অসারিবদ্ধতা ও এড়ানো-নিরোধ](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — অধ্যায় দুই থেকে চারের অধীনে যাচাইকৃত অ-অনুপালন পূর্ব স্বীকৃতি নির্বিশেষে প্রত্যয়ন পুনরায় খুলতে বা হারাতে পারে।
+- সঙ্গে পড়ুন: [অধ্যায় সাত §16 — পুনরায় খোলা, অসারিবদ্ধতা ও এড়ানো-নিরোধ](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) — অধ্যায় দুই থেকে চারের অধীনে যাচাইকৃত অ-অনুপালন পূর্ব স্বীকৃতি নির্বিশেষে প্রত্যয়ন পুনরায় খুলতে বা হারাতে পারে।
 
 </details>
 

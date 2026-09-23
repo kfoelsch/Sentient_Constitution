@@ -16,7 +16,7 @@
 
 - Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CJS-2.1](#cjs-21-hybrid-delegated-authority-delegated-binding-bodies); [CJS-2.3](#cjs-23-cross-implementation-trust-integrity-joint-operation-model); [CJS-2.4](#cjs-24-class-scaled-lane-staffing-and-competency-redundancy); [CJS-2.5](#cjs-25-shared-procedural-abstractions-for-delegated-bodies-and-forum-routing); [CJS-1.9](cjs_06_support_hosting_classification.md#cjs-19-boundary-between-support-roles-and-merits-decisions) through [CJS-1.11](cjs_06_support_hosting_classification.md#cjs-111-classification-alignment-for-supervised-scope).
-- Read with: **CJS-2**; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract); [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction); [Preamble — constitutional owner register](../core_00_preamble.md#4-principles-definitions-and-rights).
+- Read with: **CJS-2**; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract); [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [Preamble — constitutional owner register](../core_00_preamble.md#4-principles-definitions-and-rights).
 
 </details>
 
@@ -53,7 +53,7 @@ This file is the joint-structure implementation home for **CJS-2** (*Specific jo
 
 **Layer.** This file is **CJS**, the joint-structure adopted implementation text named in [Preamble §9 Adopted Implementation Corpus](../core_00_preamble.md#9-adopted-implementation-corpus). Constitutional term meaning stays in [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions). Which chapter or adopted corpus owns a domain stays in the [Preamble — constitutional owner register](../core_00_preamble.md#4-principles-definitions-and-rights). [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack) is unchanged. Adopted under [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge), this text implements the Constitution; it does not narrow it.
 
-When more than one adopted corpus applies to the same facts, use the default reading stack in [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) (*Combined satisfaction of jointly applicable incorporated obligations*): **CJS → CS → CI → CF**. Stricter-wins among jointly applicable incorporated obligations: [Chapter One §8.4.3 Incorporation layer](../core_01_b_interaction_interpretation.md#843-incorporation-layer).
+When more than one adopted corpus applies to the same facts, use the default reading stack in [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined satisfaction of jointly applicable incorporated obligations*): **CJS → CS → CI → CF**. Stricter-wins among jointly applicable incorporated obligations: [Chapter One §8.4.3 Incorporation layer](../core_01_b_interaction_interpretation.md#843-incorporation-layer).
 
 **CJS-2** (*Specific joint interlocks*) states the joint interlocks. Local operative rules remain in the adopted corpus that owns the domain:
 
@@ -137,7 +137,7 @@ In everyday reading: publish how long rotating members serve, how home-member te
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-2.3**; [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) (*combined satisfaction*); [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#843-incorporation-layer) (*stricter-wins*); **CJS-1.11**.
+- Read with: **CJS-2.3**; [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*combined satisfaction*); [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#843-incorporation-layer) (*stricter-wins*); **CJS-1.11**.
 - Topic routing (primary owner): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*).; see that row for mandatory read-with.
 
 </details>
@@ -159,7 +159,7 @@ Where trust depends on multiple systems, institutions, dependencies, or implemen
 - the contest, escalation, evidence, and correction routes affected sentients can use; and
 - the accountable owners for correction and restoration.
 
-Trust claims must remain consistent with [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) (*Combined satisfaction of jointly applicable incorporated obligations*), **CJS-1.11 — Classification alignment for supervised scope**, and [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#843-incorporation-layer) (*Incorporation layer*, including cross-file stricter-wins), and with the following **oDef** / **CJS-3** (*Implementation and cross-implementation operational cluster library*) clusters where those operational facts materially support the trust claim:
+Trust claims must remain consistent with [Chapter One §8.4.4 Combined satisfaction of jointly applicable incorporated obligations](../core_01_b_interaction_interpretation.md#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined satisfaction of jointly applicable incorporated obligations*), **CJS-1.11 — Classification alignment for supervised scope**, and [Chapter One §8.4.3 Incorporation layer](../core_01_b_interaction_interpretation.md#843-incorporation-layer) (*Incorporation layer*, including cross-file stricter-wins), and with the following **oDef** / **CJS-3** (*Implementation and cross-implementation operational cluster library*) clusters where those operational facts materially support the trust claim:
 
 - **CJS-3.3** (*Oversight: auditability and reconstructability terms*)
 - **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*)
@@ -187,7 +187,7 @@ Trust claims must remain consistent with [Chapter One §8.4.4](../core_01_b_inte
 
 This rule covers roles with materially binding effect under **Chapter Six**, section **5**, where [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md) or **CS-4 — Critical system stewardship** scales the burden. Router topic: **CJS-R18** in **CJS-0.1**.
 
-Before using role, role-holder, stewardship, operator, accountable-role, or lane terms in this subsection, apply **CJS-3.0** (*Cross-band: Role-definition preface and standing competency bar and clearance interface*), [Chapter Ten §6.2](../core_10_standing_integration.md#62-competency-bars-and-clearances) (*Competency bars and clearances*), and any controlling standing lock under [Chapter Ten §4.2](../core_10_standing_integration.md#42-general-standing-locks) or [§5.5](../core_10_standing_integration.md#55-special-locks).
+Before using role, role-holder, stewardship, operator, accountable-role, or lane terms in this subsection, apply **CJS-3.0** (*Cross-band: Role-definition preface and standing competency bar and clearance interface*), [Chapter Ten §6.2 Competency bars and clearances](../core_10_standing_integration.md#62-competency-bars-and-clearances) (*Competency bars and clearances*), and any controlling standing lock under [Chapter Ten §4.2 Prevention — general standing locks](../core_10_standing_integration.md#42-prevention--general-standing-locks) or [§5.5 Special locks](../core_10_standing_integration.md#55-special-locks).
 
 For **constitutional lane** and functional-separation meaning, apply **CJS-3.11** (*Constitutional lane and functional separation*) with **CI-3** (*Institutional design and separation of powers*).
 

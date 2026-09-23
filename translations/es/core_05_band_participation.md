@@ -292,7 +292,7 @@ Las reglas meta de las Definiciones independientes viven en [core_05__definition
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Titular canónico: [Capítulo Ocho — §4 línea de base LEQU](../../core_09_standing_assessment.md#lequ-baseline-constitutional-outcome) (*beneficio y pérdida equivalentes a vida completa, definición de **LEQU**, ámbito agnóstico al sustrato*); leer con la [escala LEQU unificada proporcional del §7](../../core_09_standing_assessment.md#7-unified-proportional-lequ-scale) para los ejes de Contribución y de Infracción.
+- Titular canónico: [Capítulo Ocho — §4 línea de base LEQU](../../core_09_standing_assessment.md#lequ-baseline-constitutional-outcome) (*beneficio y pérdida equivalentes a vida completa, definición de **LEQU**, ámbito agnóstico al sustrato*); leer con la [escala LEQU unificada proporcional del §7](../../core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) para los ejes de Contribución y de Infracción.
 
 </details>
 
@@ -301,7 +301,7 @@ Las reglas meta de las Definiciones independientes viven en [core_05__definition
 *En términos sencillos: una unidad compartida para expresar beneficio o pérdida equivalentes a una vida completa cuando la medición de trayectoria del Capítulo Ocho calibra los registros de Contribución y de Infracción en una sola escala — no años calendario ordinarios ni promedios solo de especie.*
 
 - **Qué es**
-  - **En alcance:** Abreviatura de una **Unidad equivalente de vida** — la unidad numérica o narrativa que la implementación adoptada usa para expresar **beneficio constitucional equivalente a vida completa** o pérdida comparable al calibrar los registros separados del Eje de Contribución y del Eje de Infracción frente a las bandas LEQU compartidas de cinco veces de la [escala unificada del Capítulo Ocho §7](../../core_09_standing_assessment.md#7-unified-proportional-lequ-scale). Puntero del Capítulo Cinco; la mecánica canónica vive en el Capítulo Ocho **§7**.
+  - **En alcance:** Abreviatura de una **Unidad equivalente de vida** — la unidad numérica o narrativa que la implementación adoptada usa para expresar **beneficio constitucional equivalente a vida completa** o pérdida comparable al calibrar los registros separados del Eje de Contribución y del Eje de Infracción frente a las bandas LEQU compartidas de cinco veces de la [escala unificada del Capítulo Ocho §7](../../core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes). Puntero del Capítulo Cinco; la mecánica canónica vive en el Capítulo Ocho **§7**.
   - **Fuera de alcance:** tiempo calendario ordinario, habla informal de «años de vida» o promedios de esperanza de vida atados a la especie usados fuera de la escala unificada del Capítulo Ocho.
 <a id="lifespan-equivalent-unit-lequ-a"></a>
 - **Cómo medir y evaluar**
@@ -2818,7 +2818,7 @@ Este subbloque anidado es el hogar conjunto de las definiciones de trato de la v
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Piso titular: [Capítulo Doce §4.3](../../core_13_governance.md#43-decision-resolution-requirements-for-binding-collective-choice) (*Requisitos de resolución de decisión para la elección vinculante de las partes afectadas*).
+- Piso titular: [Capítulo Doce §4.3](../../core_13_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice) (*Requisitos de resolución de decisión para la elección vinculante de las partes afectadas*).
 - Leer con: [Preámbulo §3.3 disciplina de las capas de gobernanza](core_00_preamble.md#33-governance-layers); [Carta](core_05_band_continuity.md#charter); [Estatus y peso de las partes afectadas](core_05_band_participation.md#stakeholder-status-and-weight-cluster), [Gobernanza](core_05_band_accountability.md#governance), [Capa del Contrato Constitucional](core_05_band_integrative.md#constitutional-contract-layer), [Elección constitucional fundacional](core_05_band_integrative.md#foundational-constitutional-choice), [Peso de las partes afectadas](core_05_band_participation.md#stakeholder-weight), [Artículo XI](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) (*Participación Sistémica de las Partes Afectadas, representación y Debido Proceso*), [Artículo XXIV-B: Procedimiento de colisión de derechos y alineación restaurativa](../../core_06_rights_part_d.md#article-xxiv-b-rights-collision-procedure-and-restorative-alignment) y [Capítulo Uno §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
 - Capa: **Participación Sistémica de las Partes Afectadas (SSP)** — voz dentro de sistemas ya autorizados. Distinta de la autorización de la **Capa del Contrato Constitucional (CCL)**.
 - Marco constitucional: pata **Participación**; finalidad **Florecimiento** (primaria); escala con el [enjuego material](core_00_preamble.md#material-stake) vía [Determinación de materialidad](core_05_band_oversight.md#materiality-determination).
@@ -2849,7 +2849,7 @@ No reemplaza [Elección constitucional fundacional](core_05_band_integrative.md#
 - [Elección vinculante de las partes afectadas — Requisitos de resolución de decisión](core_05_band_participation.md#binding-collective-choice-decision-resolution-process);
 - [Límites de representación y peso de las partes afectadas (elección vinculante de las partes afectadas)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice);
 - [Registro de colisión de derechos de las partes afectadas (elección vinculante de las partes afectadas)](core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice);
-- [Capítulo Doce §4.3](../../core_13_governance.md#43-decision-resolution-requirements-for-binding-collective-choice), como piso titular de gobernanza del requisito compuesto.
+- [Capítulo Doce §4.3](../../core_13_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice), como piso titular de gobernanza del requisito compuesto.
 
 **Antielusión.** No partan un asunto de elección vinculante de las partes afectadas en piezas separadas de deliberación, representación, ponderación, registro o colisión de derechos de modo que se marque una casilla mientras fallan las otras. Dentro del alcance de admisión, ninguna de estas cuenta como cumplimiento por sí sola:
 
@@ -2914,7 +2914,7 @@ Véase **Invocación conjunta y satisfacción**.
     - deliberación de fachada;
     - revisión plural de trámite; o
     - cerrar la impugnación o la reapertura lícita donde se exige.
-  - Piso titular: [Capítulo Doce §4.3](../../core_13_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
+  - Piso titular: [Capítulo Doce §4.3](../../core_13_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
 
 ---
 
@@ -2953,7 +2953,7 @@ Véase **Invocación conjunta y satisfacción**.
     - pesos no publicados;
     - dominio no controlado de un solo factor; o
     - ausencia de impugnación o de revalidación donde se exige revisión periódica para la clase de mecanismo.
-  - Piso titular: [Capítulo Doce §4.3](../../core_13_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
+  - Piso titular: [Capítulo Doce §4.3](../../core_13_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
 
 ---
 
@@ -2990,7 +2990,7 @@ Véase **Invocación conjunta y satisfacción**.
   - **Falla primaria:**
     - se finaliza una elección vinculante de las partes afectadas sin una cuenta escrita clara de cómo se resolvieron los derechos en colisión, cuando esos efectos de derechos importan; o
     - faltan las piezas de registro exigidas cuando un conflicto real de derechos está en juego.
-  - Piso titular: [Capítulo Doce §4.3](../../core_13_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
+  - Piso titular: [Capítulo Doce §4.3](../../core_13_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
 
 ---
 

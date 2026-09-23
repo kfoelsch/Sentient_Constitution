@@ -187,7 +187,7 @@
 
 - **其职掌：** 把经核实的分类整合为真实世界的**轨迹效果**，走分开的轨道 — 按[**实质利害**](#material-stake)缩放，不把贡献与违规折成一个净分，也不掏空参与、监督、问责或及时性。
   - **贡献轨道：** 经核实的正面分类产生实际上侧：
-    - [**能力许可**](../../core_10_standing_integration.md#62-competency-bars-and-clearances)可打开信任敏感角色、受托权威、监督准入，以及在对照已公布能力门槛证明能力、且无适用[轨迹锁定](../../core_10_standing_integration.md#42-general-standing-locks)阻断具名路径时，逐步加重后果的尽责管理
+    - [**能力许可**](../../core_10_standing_integration.md#62-competency-bars-and-clearances)可打开信任敏感角色、受托权威、监督准入，以及在对照已公布能力门槛证明能力、且无适用[轨迹锁定](../../core_10_standing_integration.md#42-prevention--general-standing-locks)阻断具名路径时，逐步加重后果的尽责管理
     - 对合法尽责管理与合作的相称承认与**实质奖赏**，如[第一章](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)所要求
     - 不是空夸奖。好处必须真实、有证据支撑、并开放质疑
   - **违规轨道：** 经核实的违规认定产生实际下侧：

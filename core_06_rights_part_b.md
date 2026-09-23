@@ -358,9 +358,9 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), [§3.4 Plain-Language Accessibility](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), [§3.4 Plain-Language Accessibility](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Downstream: **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article V-B** (*Nondiscrimination*) non-discrimination, **Article V-C** (*Full Inclusion and Equality in Adjudication and Operations*) full inclusion, **Article III-B** (*Equal Educational Access*) equal educational access (non-duplicative — education-specific accessibility remains owned there; this article states the cross-cutting Rights-Floor), **Article IX-C** (*Governance Participation and Voting Entitlement*) governance participation, **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XV** (*Audit, Transparency, and Independent Verification*) independent verification; Participation measurement family (*Accessibility as constitutional measurement*); [Chapter Eight §8](core_08_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) (*accessibility evaluation where certification gates substantive participation*).
-- Read with: Chapter Five *Accessibility*, *Protected Characteristics*, *Substantive Fairness*, *Materiality*, *Dependency*, *Meaningful Agency*. Cross-cutting accessibility principle: [Chapter One §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) (*Plain-Language Accessibility*).
+- Read with: Chapter Five *Accessibility*, *Protected Characteristics*, *Substantive Fairness*, *Materiality*, *Dependency*, *Meaningful Agency*. Cross-cutting accessibility principle: [Chapter One §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty) (*Plain-Language Accessibility*).
 
 </details>
 
@@ -386,7 +386,7 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
   - expression, assembly, and press — **Article V-H** (*Expression, Assembly, and Press*);
   - comparable domains.
   
-  This Article states the Rights-Floor; the cross-cutting accessibility principle is stated in [Chapter One §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty). Educational accessibility remains governed by **Article III-B** (*Equal Educational Access*) and is not narrowed by this Article.
+  This Article states the Rights-Floor; the cross-cutting accessibility principle is stated in [Chapter One §3.4 Plain-Language Accessibility (Participation and Stewardship Duty)](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty). Educational accessibility remains governed by **Article III-B** (*Equal Educational Access*) and is not narrowed by this Article.
 - **Substrate-agnostic reach:** The floor applies under **Sentience Non-Exclusion**.
   - In-scope access needs include sensory, cognitive, mobility, communication, substrate-interface, compute-interface, and comparable profiles — constant, episodic, or developmental.
   - Substrate-class exclusion from accessibility scope is non-compliant under **Sentience Non-Exclusion**.
@@ -413,7 +413,7 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
   **Article III-B** (*Equal Educational Access*) (educational accessibility), **Article III-C** (*Bodily-Maintenance and Healthcare Access*) (healthcare non-denial-by-proxy), **Article V-C** (*Full Inclusion and Equality in Adjudication and Operations*) (full inclusion), and this Article are mutually reinforcing. Conflicts resolve under **Chapter One §6.1.5** without narrowing any floor.
 - **Non-conflation:** This Article states cross-cutting accessibility Rights-Floor discipline.
   - **Article III-B** (*Equal Educational Access*) owns education-specific accessibility (non-narrowed by this Article).
-  - [Chapter One §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) states the cross-cutting accessibility principle.
+  - [Chapter One §3.4 Plain-Language Accessibility (Participation and Stewardship Duty)](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty) states the cross-cutting accessibility principle.
   - Operational standards, accommodation-catalog design, and comparable implementation mechanics route to `corpus_institutions.md` under **Chapter Seventeen** discipline and must not narrow this floor.
 
 #### Article V-H: Expression, Assembly, and Press
@@ -484,7 +484,7 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.4 Plain-Language Accessibility](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty), [§5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), and [§8 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation).
+- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.4 Plain-Language Accessibility](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty), [§5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), and [§8 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation).
 
 </details>
 

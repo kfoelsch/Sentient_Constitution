@@ -168,7 +168,7 @@
 
 - 上流：[§2.1](#21-standing-records-as-the-unit-of-application)（*分かれた貢献記録と違反記録*）。
 - 下流：[§3.1](#31-minimum-record-contents)（*検証済み入力の門*）；[§3.2](#32-related-record-cross-references)（*相互参照*）；[§3.6](#36-forum-boundary)（*フォーラム境界*）；[§4](#4-standing-measurement-evaluation-dimensions)（*問い 2 の測定*）；[§5](#5-slot-grammar-and-lequ-calibration)（*箱の文法と共有の尺度合わせ*）；[§6](#6-constitutional-inputs-to-axis-assignment)（*憲法源の経路づけ*）；[§7](#7-unified-proportional-lequ-scale)（*両軸の統一比例 LEQU 尺度*）；[第九章](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)（*問い 3*）。
-- あわせて読む：[第九章 — 軌跡の統合](../../core_10_standing_integration.md#2-integration-record-and-decision-order)（*非放棄と結びついた記録の統合*）；[第九章 §6.2 — 能力の閾と許可](../../core_10_standing_integration.md#62-competency-bars-and-clearances)；[第九章 §4.2 — 軌跡ロック](../../core_10_standing_integration.md#42-general-standing-locks)。
+- あわせて読む：[第九章 — 軌跡の統合](../../core_10_standing_integration.md#2-automatic-integration-review-and-continuity)（*非放棄と結びついた記録の統合*）；[第九章 §6.2 — 能力の閾と許可](../../core_10_standing_integration.md#62-competency-bars-and-clearances)；[第九章 §4.2 — 軌跡ロック](../../core_10_standing_integration.md#42-prevention--general-standing-locks)。
 
 </details>
 
@@ -496,7 +496,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[§2](#2-standing-records)（*問い 1 — 軌跡記録と検証済み事実*）；[§3](#3-standing-record-operational-requirements)（*検証済み入力の門と記録要件*）；[§1](#1-the-three-questions)（*三つの問いの枠*）。
-- 下流：[§5](#5-slot-grammar-and-lequ-calibration)（*箱の文法と共有の尺度合わせ*）；[§6](#6-constitutional-inputs-to-axis-assignment)（*憲法源の経路づけ*）；[§7](#7-unified-proportional-lequ-scale)（*貢献軸と違反軸の割当*）；[第九章 §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances)（*貢献の問い 3 — 安全な委任*）；[第九章 §4.2](../../core_10_standing_integration.md#42-general-standing-locks)（*予防ロック*）；[第九章 §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement)（*ロックの設計と執行*）。
+- 下流：[§5](#5-slot-grammar-and-lequ-calibration)（*箱の文法と共有の尺度合わせ*）；[§6](#6-constitutional-inputs-to-axis-assignment)（*憲法源の経路づけ*）；[§7](#7-unified-proportional-lequ-scale)（*貢献軸と違反軸の割当*）；[第九章 §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances)（*貢献の問い 3 — 安全な委任*）；[第九章 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks)（*予防ロック*）；[第九章 §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement)（*ロックの設計と執行*）。
 - あわせて読む：[§3.1](#31-minimum-record-contents)（*検証済み記録欄；第八章に軌跡効果はない*）。
 
 </details>
@@ -534,7 +534,7 @@
   - 争訟可能性の喪失；または
   - 審査不能な集約。
 
-**問い 2 のみ。** これらの次元を用いて、**第 2 節** のもとで確立され **第 3 節** のもとで記録された検証済み事実を測れ。**第 4.3 節** の**便益経路**カタログと **第 4.4 節** の**危害経路**カタログは、助けまたは危害の種類の正規化された名を供給し、各名が *どれほど良いか* または *どれほど悪いか* へどう数えるかを述べる。問い 3 の統合と付着の規則は [第九章 §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization) に現れ、帰結規則は [便益側](../../core_10_standing_integration.md#62-competency-bars-and-clearances) と [危害側](../../core_10_standing_integration.md#42-general-standing-locks) にある。
+**問い 2 のみ。** これらの次元を用いて、**第 2 節** のもとで確立され **第 3 節** のもとで記録された検証済み事実を測れ。**第 4.3 節** の**便益経路**カタログと **第 4.4 節** の**危害経路**カタログは、助けまたは危害の種類の正規化された名を供給し、各名が *どれほど良いか* または *どれほど悪いか* へどう数えるかを述べる。問い 3 の統合と付着の規則は [第九章 §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization) に現れ、帰結規則は [便益側](../../core_10_standing_integration.md#62-competency-bars-and-clearances) と [危害側](../../core_10_standing_integration.md#42-prevention--general-standing-locks) にある。
 
 <a id="41-magnitude-input-dimensions"></a>
 <a id="41-contribution-magnitude-input-dimensions"></a>
@@ -646,7 +646,7 @@
 <a id="44-violation-route-descriptor-catalog-and-measurement-roles"></a>
 #### 4.4 違反経路記述子カタログと測定の役割
 
-**危害経路記述子 — 問い 2 の測定役割。** 問い 3 の統合と付着の規則：[第九章 §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization)。問い 3 の予防とロック設計：[第九章 §4.2](../../core_10_standing_integration.md#42-general-standing-locks)；[第九章 §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement)。
+**危害経路記述子 — 問い 2 の測定役割。** 問い 3 の統合と付着の規則：[第九章 §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization)。問い 3 の予防とロック設計：[第九章 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks)；[第九章 §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement)。
 
 | **危害経路記述子** | **正規化された領域** | **問い 2（どれほど悪いか？）** |
 | --- | --- | --- |
@@ -680,20 +680,20 @@
 | **検証済みの特徴** | **本章における問い 2 の所管** | **問い 3 の統合の所管** |
 | --- | --- | --- |
 | **外部化された危害／隠された負担** | **§4.1** における貢献の行為の質の適用 | [第九章 §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) — 是正されるまで許可を塞ぎ、または狭めてよい |
-| **欺瞞／隠蔽／回避** | **§4.2** における違反の行為の性格の適用 | [第九章 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 隠蔽／回避の段階引き上げロック |
-| **説明責任の妨害** | **§4.2** における違反の行為の性格の適用および **§4.4** の **説明責任妨害の不正行為** | [第九章 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) および [§5.4](../../core_10_standing_integration.md#54-special-violation-rules) — 指名された経路に有界なロック；[第九章 §10.13](../../core_10_standing_integration.md#1013-obstruction-of-accountability)（*問い 3 のパターン*）；第十章の指定は [第九章 §10.8](../../core_10_standing_integration.md#108-anti-constitutional-misconduct-allegation) のもとでの反憲法的不正行為審査の門を通じてのみ |
-| **暴力／強制／自由の危険** | **§4.2** における違反の行為の性格の適用および **§4.4** の **暴力的不正行為** | [第九章 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 保護および保障ロック |
-| **残虐** | **§4.2** における違反の行為の性格の適用；[残虐](core_05_band_accountability.md#cruelty) | [第九章 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 保護および保障ロック；[第九章 §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) — 用いられるところでの非貶めの修復的表現 |
-| **持続／パターン／通知後の再発** | **§4.2** における違反の行為の性格の適用 | [第九章 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 再発‐持続ロック |
+| **欺瞞／隠蔽／回避** | **§4.2** における違反の行為の性格の適用 | [第九章 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 隠蔽／回避の段階引き上げロック |
+| **説明責任の妨害** | **§4.2** における違反の行為の性格の適用および **§4.4** の **説明責任妨害の不正行為** | [第九章 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) および [§5.4](../../core_10_standing_integration.md#54-special-violation-rules) — 指名された経路に有界なロック；[第九章 §10.13](../../core_10_standing_integration.md#1013-obstruction-of-accountability)（*問い 3 のパターン*）；第十章の指定は [第九章 §10.8](../../core_10_standing_integration.md#108-anti-constitutional-misconduct-allegation) のもとでの反憲法的不正行為審査の門を通じてのみ |
+| **暴力／強制／自由の危険** | **§4.2** における違反の行為の性格の適用および **§4.4** の **暴力的不正行為** | [第九章 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 保護および保障ロック |
+| **残虐** | **§4.2** における違反の行為の性格の適用；[残虐](core_05_band_accountability.md#cruelty) | [第九章 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 保護および保障ロック；[第九章 §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) — 用いられるところでの非貶めの修復的表現 |
+| **持続／パターン／通知後の再発** | **§4.2** における違反の行為の性格の適用 | [第九章 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 再発‐持続ロック |
 | **フォーラム誠実性の損傷** | **§4.2** における違反の行為の性格の適用 | [第九章 §5.5](../../core_10_standing_integration.md#55-special-locks) — フォーラム誠実性の軌跡ロック効果 |
-| **責任または制御の拡散** | **§4.2** における違反の行為の性格の適用；**§§3.1 および 3.3** のもとでの行為者固有の結びつき | [第九章 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — より広い指名された経路の範囲または制度的乗り物の考慮 |
-| **システム／構造的可能化** | **§4.1** における貢献の行為の質の適用；**§4.2** における違反の行為の性格および **§4.4** の **システムの不正行為** | [第九章 §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) および [第九章 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 委任の保障または制度的乗り物のロック |
-| **黙従する参加／抵抗の失敗** | **§4.2** における違反の行為の性格の適用 | [第九章 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 指名された経路の範囲と再発‐持続の効果 |
+| **責任または制御の拡散** | **§4.2** における違反の行為の性格の適用；**§§3.1 および 3.3** のもとでの行為者固有の結びつき | [第九章 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — より広い指名された経路の範囲または制度的乗り物の考慮 |
+| **システム／構造的可能化** | **§4.1** における貢献の行為の質の適用；**§4.2** における違反の行為の性格および **§4.4** の **システムの不正行為** | [第九章 §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) および [第九章 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 委任の保障または制度的乗り物のロック |
+| **黙従する参加／抵抗の失敗** | **§4.2** における違反の行為の性格の適用 | [第九章 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 指名された経路の範囲と再発‐持続の効果 |
 | **アクセス可能性／参加障壁の修復** | **§4.3** の **アクセスと包摂** | [第九章 §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) — 包摂的経験または指名された経路に有界な閾 |
-| **アクセス可能性の打ち負け／参加障壁の損傷** | **§4.4** の **アクセス可能性と参加障壁の不正行為** | [第九章 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 名指された参加およびアクセス可能性の経路の封鎖 |
-| **プライバシー／自己所有の損傷** | **§4.4** の **プライバシーと自己所有の不正行為** | [第九章 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — データ、肖像、公表、または内部状態の指名された経路の封鎖 |
-| **退出／囲い込みのリスクまたは閉鎖** | **§4.1** における貢献の行為の質の適用；**§4.4** の **退出と囲い込みの不正行為** | [第九章 §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) および [第九章 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 委任の保障または退出経路の封鎖 |
-| **ライフサイクル／不可逆の隠蔽** | **§4.4** の **ライフサイクルと不可逆の不正行為** | [第九章 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 配備およびライフサイクル権限の封鎖 |
+| **アクセス可能性の打ち負け／参加障壁の損傷** | **§4.4** の **アクセス可能性と参加障壁の不正行為** | [第九章 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 名指された参加およびアクセス可能性の経路の封鎖 |
+| **プライバシー／自己所有の損傷** | **§4.4** の **プライバシーと自己所有の不正行為** | [第九章 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — データ、肖像、公表、または内部状態の指名された経路の封鎖 |
+| **退出／囲い込みのリスクまたは閉鎖** | **§4.1** における貢献の行為の質の適用；**§4.4** の **退出と囲い込みの不正行為** | [第九章 §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) および [第九章 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 委任の保障または退出経路の封鎖 |
+| **ライフサイクル／不可逆の隠蔽** | **§4.4** の **ライフサイクルと不可逆の不正行為** | [第九章 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 配備およびライフサイクル権限の封鎖 |
 
 <a id="451-similar-looking-facts-that-must-stay-separate"></a>
 
@@ -703,7 +703,7 @@
 
 | **第一の事実** | **異なる事実** | **なぜ分かれたままか** |
 | --- | --- | --- |
-| **元の問題への応答または段階引き上げの遅れ** | **救済を始めるまたは遂行する遅れ** | 第一は **§§4.1–4.2** のもとで問い 2 を測る助けになる。第二は [第九章 §9.5](../../core_10_standing_integration.md#95-timely-implementation-and-reassessment) のもとでの後の問い 3 の事実である。 |
+| **元の問題への応答または段階引き上げの遅れ** | **救済を始めるまたは遂行する遅れ** | 第一は **§§4.1–4.2** のもとで問い 2 を測る助けになる。第二は [第九章 §9.5](../../core_10_standing_integration.md#95-timely-implementation) のもとでの後の問い 3 の事実である。 |
 | **影響を受けた感知者の数** | **責任または制御が行為者またはシステムのあいだでどう広がったか** | 第一は **§§4.1–4.2** のもとで便益または危害がどれほど大きかったかを測る助けになる。第二は行為者固有の責任、拡散、および可能な問い 3 の指名された経路の範囲に関わる。 |
 
 <a id="46-question-1-measurement-illustrations"></a>

@@ -187,7 +187,7 @@ Aşağıdaki her adım, bölümün ne sahiplendiğini ve ne ürettiğini belirti
 
 - **Ne sahiplenir:** Doğrulanmış sınıflamaları ayrı izlerde gerçek dünya **güzergâh etkilerine** bütünleştirir — [**maddi pay**](#material-stake)a ölçeklenmiş, katkı ve ihlali tek net puana katlamadan ve katılımı, gözetimi, hesap verebilirliği ya da zamanındalığı boşaltmadan.
   - **Katkı izi:** Doğrulanmış olumlu sınıflama pratik avantaj üretir:
-    - Yetkinlik yayımlanmış yetkinlik eşiğine karşı gösterildiğinde ve uygulanabilir hiçbir [güzergâh kilidi](../../core_10_standing_integration.md#42-general-standing-locks) adlandırılmış yolu kapatmadığında, güvene duyarlı rolleri, devredilmiş yetkiyi, gözetim elverişliliğini ve giderek sonuç doğuran sorumlu yönetimi açabilen [**yetkinlik izinleri**](../../core_10_standing_integration.md#62-competency-bars-and-clearances)
+    - Yetkinlik yayımlanmış yetkinlik eşiğine karşı gösterildiğinde ve uygulanabilir hiçbir [güzergâh kilidi](../../core_10_standing_integration.md#42-prevention--general-standing-locks) adlandırılmış yolu kapatmadığında, güvene duyarlı rolleri, devredilmiş yetkiyi, gözetim elverişliliğini ve giderek sonuç doğuran sorumlu yönetimi açabilen [**yetkinlik izinleri**](../../core_10_standing_integration.md#62-competency-bars-and-clearances)
     - [Birinci Bölüm](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)ün istediği gibi yasal sorumlu yönetim ve işbirliği için orantılı tanıma ve **maddi ödüller**
     - Boş övgü değil. Yararlar gerçek, kanıtla destekli ve itiraza açık olmalıdır
   - **İhlal izi:** Doğrulanmış ihlal bulguları pratik dezavantaj üretir:

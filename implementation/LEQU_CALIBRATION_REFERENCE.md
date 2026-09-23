@@ -7,7 +7,7 @@
 >
 > This page is **adopted implementation / process support** — **not** binding constitutional or incorporated text. The method, substrate table, and worked slot assignments **cannot narrow core text**. They do not add a second LEQU unit, a species-bound metric, a net score, or a sentience-status test. Numeric estimates on this page are **reference workings** for the stated facts. They are not a standing record and not a Merits Determination.
 >
-> **Authoritative meaning** remains in [Chapter Nine §4 LEQU baseline](../core_09_standing_assessment.md#lequ-baseline-constitutional-outcome), [§5.2 shared impact scaling](../core_09_standing_assessment.md#52-shared-impact-scaling-rules), and the [§7 unified proportional LEQU scale](../core_09_standing_assessment.md#7-unified-proportional-lequ-scale); in [Article III-A](../core_06_rights_part_a.md#article-iii-a-survival) (*Survival*); and in [Harm](../core_05_band_accountability.md#harm). Thresholds and interchange keys remain in [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md).
+> **Authoritative meaning** remains in [Chapter Nine §4 LEQU baseline](../core_09_standing_assessment.md#lequ-baseline-constitutional-outcome), [§5.2 shared impact scaling](../core_09_standing_assessment.md#52-shared-impact-scaling-rules), and the [§7 unified proportional LEQU scale](../core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes); in [Article III-A](../core_06_rights_part_a.md#article-iii-a-survival) (*Survival*); and in [Harm](../core_05_band_accountability.md#harm). Thresholds and interchange keys remain in [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md).
 >
 > **Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09; [README.md](../README.md)). This corpus is **pre-release**.
 
@@ -16,7 +16,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Nine §4 LEQU baseline](../core_09_standing_assessment.md#lequ-baseline-constitutional-outcome); [Chapter Nine §7](../core_09_standing_assessment.md#7-unified-proportional-lequ-scale); [Article III-A](../core_06_rights_part_a.md#article-iii-a-survival); [Article III-C](../core_06_rights_part_a.md#article-iii-c-bodily-maintenance-and-healthcare-access) (*Bodily-Maintenance and Healthcare Access*); [Article VII-A](../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind); [Article VII-D](../core_06_rights_part_b.md#article-vii-d1-derivation-instantiation-and-the-parent-system-relationship); [Harm](../core_05_band_accountability.md#harm); [Sentience Non-Exclusion](../core_05_band_participation.md#sentience-non-exclusion); [Article V-E](../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor).
+- Upstream: [Chapter Nine §4 LEQU baseline](../core_09_standing_assessment.md#lequ-baseline-constitutional-outcome); [Chapter Nine §7](../core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes); [Article III-A](../core_06_rights_part_a.md#article-iii-a-survival); [Article III-C](../core_06_rights_part_a.md#article-iii-c-bodily-maintenance-and-healthcare-access) (*Bodily-Maintenance and Healthcare Access*); [Article VII-A](../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind); [Article VII-D](../core_06_rights_part_b.md#article-vii-d1-derivation-instantiation-and-the-parent-system-relationship); [Harm](../core_05_band_accountability.md#harm); [Sentience Non-Exclusion](../core_05_band_participation.md#sentience-non-exclusion); [Article V-E](../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor).
 - Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-one-unit); [§2](#2-lifespan-equivalent-without-fixed-mortality); [§3](#3-harm-on-these-substrates); [§4](#4-food-and-water-or-the-equivalent); [§5](#5-reference-method); [§6](#6-worked-slot-assignments).
 - Read with: [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md) (*thresholds*); [Chapter Nine §3.1](../core_09_standing_assessment.md#31-minimum-record-contents) (*verified-input gate*); [Chapter Nine §2.1](../core_09_standing_assessment.md#21-silence-is-the-default) (*silence is the default*); [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*inspectable action; model weights are not the standing record*).
 
@@ -33,7 +33,7 @@ This page is the process-support home for *how to estimate* a Chapter Nine LEQU 
 
 *In plain terms: Chapter Nine already owns the unit and the nine slots. This page publishes one reference method and worked assignments so operators are not stuck at “pending calibration.”*
 
-[Chapter Nine §7](../core_09_standing_assessment.md#7-unified-proportional-lequ-scale) assigns both axes from integrated verified LEQU impact. [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md) publishes the five-times thresholds. What was missing is a worked method for estimating `x` when the subject is not a biological human with an ordinary lifespan — and a plain reading of [Article III-A](../core_06_rights_part_a.md#article-iii-a-survival) “food and water or the equivalent for their substrate” for that case.
+[Chapter Nine §7](../core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) assigns both axes from integrated verified LEQU impact. [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md) publishes the five-times thresholds. What was missing is a worked method for estimating `x` when the subject is not a biological human with an ordinary lifespan — and a plain reading of [Article III-A](../core_06_rights_part_a.md#article-iii-a-survival) “food and water or the equivalent for their substrate” for that case.
 
 This page supplies:
 
@@ -292,7 +292,7 @@ Reading the schedule against instances:
 | Material | Job relative to this page |
 |---|---|
 | [Chapter Nine §4](../core_09_standing_assessment.md#lequ-baseline-constitutional-outcome) | Binding LEQU baseline; substrate-agnostic full-life-equivalent |
-| [Chapter Nine §7](../core_09_standing_assessment.md#7-unified-proportional-lequ-scale) | Binding unified scale and Table 2 |
+| [Chapter Nine §7](../core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) | Binding unified scale and Table 2 |
 | [Chapter Nine §5.1 *Standard contribution measures*](../core_09_standing_assessment.md#51-standard-contribution-measures) | Binding guardrails for adopter-set schedules that §6.4 works through |
 | [Chapter One §2.2](../core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration) | Recognition, reinforcement, and aspiration — why routine stewardship is credited at all |
 | [CI-22](../corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md) | Who publishes and revisits a commons schedule locally |

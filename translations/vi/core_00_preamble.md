@@ -187,7 +187,7 @@ Mỗi bước dưới đây nêu chương nắm gì và tạo ra gì. [Chuỗi �
 
 - **Nội dung nắm giữ:** Tích hợp các phân loại đã xác minh thành **hiệu ứng quỹ đạo** đời thực trên các đường riêng — chia tỷ lệ theo [**lợi hại vật chất**](#material-stake), không gộp đóng góp và vi phạm thành một điểm ròng, và không làm rỗng tham gia, giám sát, trách nhiệm giải trình, hay kịp thời.
   - **Đường đóng góp:** Phân loại dương đã xác minh tạo lợi thực tế:
-    - [**Giấy thông hành năng lực**](../../core_10_standing_integration.md#62-competency-bars-and-clearances) có thể mở các vai trò nhạy tin cậy, thẩm quyền được ủy, tư cách giám sát, và quản trị có trách nhiệm có hệ quả tăng dần khi năng lực được chứng minh so với thanh năng lực đã công bố và không có [khóa quỹ đạo](../../core_10_standing_integration.md#42-general-standing-locks) áp dụng chặn đường dẫn được đặt tên
+    - [**Giấy thông hành năng lực**](../../core_10_standing_integration.md#62-competency-bars-and-clearances) có thể mở các vai trò nhạy tin cậy, thẩm quyền được ủy, tư cách giám sát, và quản trị có trách nhiệm có hệ quả tăng dần khi năng lực được chứng minh so với thanh năng lực đã công bố và không có [khóa quỹ đạo](../../core_10_standing_integration.md#42-prevention--general-standing-locks) áp dụng chặn đường dẫn được đặt tên
     - Ghi nhận tương xứng và **thưởng vật chất** cho quản trị có trách nhiệm hợp pháp và hợp tác như [Chương Một](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration) đòi
     - Không phải lời khen rỗng. Lợi ích phải thực, có bằng chứng chống lưng, và mở cho tranh biện
   - **Đường vi phạm:** Phát hiện vi phạm đã xác minh tạo hại thực tế:

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-23T08:45:15+00:00",
+  "generated_at": "2026-09-23T08:59:44+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
@@ -283,7 +283,7 @@
       "source_header": "3.2 Key Governance Processes",
       "source_anchor": "#32-key-governance-processes",
       "target_file": "core_12_forum.md",
-      "target_anchor": "#1-purpose-and-role",
+      "target_anchor": "#1-purpose-and-role--participation-architecture",
       "count": 1
     },
     {
@@ -323,7 +323,7 @@
       "source_header": "3.3 Governance Layers",
       "source_anchor": "#33-governance-layers",
       "target_file": "core_12_forum.md",
-      "target_anchor": "#1-purpose-and-role",
+      "target_anchor": "#1-purpose-and-role--participation-architecture",
       "count": 1
     },
     {
@@ -443,7 +443,7 @@
       "source_header": "6.2 How the full chain fits together",
       "source_anchor": "#62-how-the-full-chain-fits-together",
       "target_file": "core_12_forum.md",
-      "target_anchor": "#1-purpose-and-role",
+      "target_anchor": "#1-purpose-and-role--participation-architecture",
       "count": 1
     },
     {
@@ -523,7 +523,7 @@
       "source_header": "7. Process Ownership and Outputs",
       "source_anchor": "#7-process-ownership-and-outputs",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-general-standing-locks",
+      "target_anchor": "#42-prevention--general-standing-locks",
       "count": 1
     },
     {
@@ -899,7 +899,7 @@
       "source_header": "2.3 Anti-Degrading Process",
       "source_anchor": "#23-anti-degrading-process",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#10-consequential-stewardship",
+      "target_anchor": "#10-consequential-stewardship-the-steward-role",
       "count": 2
     },
     {
@@ -1057,7 +1057,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3. Non-Negotiable Principle Constraints: Safety and Truth",
-      "source_anchor": "#3-non-negotiable-constraints-safety-and-truth",
+      "source_anchor": "#3-non-negotiable-principle-constraints-safety-and-truth",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#constitutional-tetrad",
       "count": 2
@@ -1065,7 +1065,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3. Non-Negotiable Principle Constraints: Safety and Truth",
-      "source_anchor": "#3-non-negotiable-constraints-safety-and-truth",
+      "source_anchor": "#3-non-negotiable-principle-constraints-safety-and-truth",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#material-stake",
       "count": 2
@@ -1073,7 +1073,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3. Non-Negotiable Principle Constraints: Safety and Truth",
-      "source_anchor": "#3-non-negotiable-constraints-safety-and-truth",
+      "source_anchor": "#3-non-negotiable-principle-constraints-safety-and-truth",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#two-constitutional-aims",
       "count": 4
@@ -1081,7 +1081,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3. Non-Negotiable Principle Constraints: Safety and Truth",
-      "source_anchor": "#3-non-negotiable-constraints-safety-and-truth",
+      "source_anchor": "#3-non-negotiable-principle-constraints-safety-and-truth",
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#6-process-conflict-resolution",
       "count": 1
@@ -1089,7 +1089,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3. Non-Negotiable Principle Constraints: Safety and Truth",
-      "source_anchor": "#3-non-negotiable-constraints-safety-and-truth",
+      "source_anchor": "#3-non-negotiable-principle-constraints-safety-and-truth",
       "target_file": "core_02_definition_structure.md",
       "target_anchor": null,
       "count": 1
@@ -1097,7 +1097,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3. Non-Negotiable Principle Constraints: Safety and Truth",
-      "source_anchor": "#3-non-negotiable-constraints-safety-and-truth",
+      "source_anchor": "#3-non-negotiable-principle-constraints-safety-and-truth",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contribution-nature",
       "count": 1
@@ -1105,7 +1105,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3. Non-Negotiable Principle Constraints: Safety and Truth",
-      "source_anchor": "#3-non-negotiable-constraints-safety-and-truth",
+      "source_anchor": "#3-non-negotiable-principle-constraints-safety-and-truth",
       "target_file": "core_09_standing_assessment.md",
       "target_anchor": null,
       "count": 1
@@ -1113,7 +1113,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#constitutional-tetrad",
       "count": 1
@@ -1121,7 +1121,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#material-stake",
       "count": 1
@@ -1129,7 +1129,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#two-constitutional-aims",
       "count": 2
@@ -1137,7 +1137,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#63-minimization-of-avoidable-burden",
       "count": 1
@@ -1145,7 +1145,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#1213-stewardship-and-operator-application",
       "count": 1
@@ -1153,7 +1153,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_02_definition_structure.md",
       "target_anchor": null,
       "count": 1
@@ -1161,7 +1161,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_05_apex_participation_leg.md",
       "target_anchor": "#participation-constitutional",
       "count": 1
@@ -1169,7 +1169,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability",
       "count": 2
@@ -1177,7 +1177,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability-a",
       "count": 2
@@ -1185,7 +1185,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability-c",
       "count": 1
@@ -1193,7 +1193,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#avoidable-burden",
       "count": 2
@@ -1201,7 +1201,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#avoidable-burden-a",
       "count": 2
@@ -1209,7 +1209,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#avoidable-burden-c",
       "count": 1
@@ -1217,7 +1217,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#transparency",
       "count": 2
@@ -1225,7 +1225,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#transparency-a",
       "count": 2
@@ -1233,7 +1233,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#transparency-c",
       "count": 1
@@ -1241,7 +1241,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#truth-constitutional-constraint",
       "count": 1
@@ -1249,7 +1249,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#truth-constitutional-constraint-o",
       "count": 1
@@ -1257,7 +1257,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#truth-constitutional-constraint-a",
       "count": 2
@@ -1265,7 +1265,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#truth-constitutional-constraint-c",
       "count": 1
@@ -1273,7 +1273,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#accessibility-constitutional",
       "count": 2
@@ -1281,7 +1281,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#accessibility-constitutional-a",
       "count": 2
@@ -1289,7 +1289,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#accessibility-constitutional-c",
       "count": 1
@@ -1297,7 +1297,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#meaningful-agency",
       "count": 2
@@ -1305,7 +1305,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#meaningful-agency-a",
       "count": 2
@@ -1313,7 +1313,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#meaningful-agency-c",
       "count": 1
@@ -1321,7 +1321,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_06_rights_part_b.md",
       "target_anchor": "#article-v-g-accessibility",
       "count": 1
@@ -1329,7 +1329,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_06_rights_part_b.md",
       "target_anchor": "#article-vi-right-to-sentient-centered-education",
       "count": 1
@@ -1337,7 +1337,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_06_rights_part_c.md",
       "target_anchor": "#article-xv-audit-transparency-and-independent-verification",
       "count": 1
@@ -1345,7 +1345,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_06_rights_part_c.md",
       "target_anchor": "#article-xx-comprehensibility-and-complexity-stewardship",
       "count": 1
@@ -1441,7 +1441,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4.5 Rights-Floor Boundary",
-      "source_anchor": "#345-chapter-eleven-floor-boundary",
+      "source_anchor": "#345-rights-floor-boundary",
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": "#article-iii-b-equal-educational-access",
       "count": 1
@@ -1449,7 +1449,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4.5 Rights-Floor Boundary",
-      "source_anchor": "#345-chapter-eleven-floor-boundary",
+      "source_anchor": "#345-rights-floor-boundary",
       "target_file": "core_06_rights_part_b.md",
       "target_anchor": "#article-v-g-accessibility",
       "count": 1
@@ -1457,7 +1457,7 @@
     {
       "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4.5 Rights-Floor Boundary",
-      "source_anchor": "#345-chapter-eleven-floor-boundary",
+      "source_anchor": "#345-rights-floor-boundary",
       "target_file": "core_06_rights_part_c.md",
       "target_anchor": "#article-xx-comprehensibility-and-complexity-stewardship",
       "count": 1
@@ -1547,7 +1547,7 @@
       "source_header": "5. Freedom (Bounded Agency)",
       "source_anchor": "#5-freedom-bounded-agency",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#10-consequential-stewardship",
+      "target_anchor": "#10-consequential-stewardship-the-steward-role",
       "count": 1
     },
     {
@@ -6779,7 +6779,7 @@
       "source_header": "6.3 Minimization of Avoidable Burden",
       "source_anchor": "#63-minimization-of-avoidable-burden",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#10-consequential-stewardship",
+      "target_anchor": "#10-consequential-stewardship-the-steward-role",
       "count": 1
     },
     {
@@ -7241,7 +7241,7 @@
     {
       "source_file": "core_01_b_interaction_interpretation.md",
       "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
+      "source_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": null,
       "count": 1
@@ -7249,7 +7249,7 @@
     {
       "source_file": "core_01_b_interaction_interpretation.md",
       "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
+      "source_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": null,
       "count": 1
@@ -7257,7 +7257,7 @@
     {
       "source_file": "core_01_b_interaction_interpretation.md",
       "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
+      "source_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "target_file": "core_05__definitions_home.md",
       "target_anchor": "#21-joint-invocation-and-satisfaction",
       "count": 1
@@ -7265,7 +7265,7 @@
     {
       "source_file": "core_01_b_interaction_interpretation.md",
       "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
+      "source_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "target_file": "core_17_incorporation.md",
       "target_anchor": "#chapter-seventeen-incorporation-bridge",
       "count": 1
@@ -7273,7 +7273,7 @@
     {
       "source_file": "core_01_b_interaction_interpretation.md",
       "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
+      "source_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "target_file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
       "target_anchor": "#cjs-01-cross-file-routing",
       "count": 1
@@ -7281,7 +7281,7 @@
     {
       "source_file": "core_01_b_interaction_interpretation.md",
       "source_header": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
-      "source_anchor": "#844-combined-satisfaction",
+      "source_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "target_file": "corpus_joint_structure/cjs_05_odef_parse_mechanics.md",
       "target_anchor": "#cjs-114-operational-clusters",
       "count": 1
@@ -8025,7 +8025,7 @@
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "10. Consequential Stewardship: The Steward Role",
-      "source_anchor": "#10-consequential-stewardship",
+      "source_anchor": "#10-consequential-stewardship-the-steward-role",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#constitutional-tetrad",
       "count": 2
@@ -8033,7 +8033,7 @@
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "10. Consequential Stewardship: The Steward Role",
-      "source_anchor": "#10-consequential-stewardship",
+      "source_anchor": "#10-consequential-stewardship-the-steward-role",
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#4-system-stability-enabler-trust-coordination-integrity",
       "count": 1
@@ -8041,7 +8041,7 @@
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "10. Consequential Stewardship: The Steward Role",
-      "source_anchor": "#10-consequential-stewardship",
+      "source_anchor": "#10-consequential-stewardship-the-steward-role",
       "target_file": "core_05_apex_timeliness_leg.md",
       "target_anchor": "#timeliness-constitutional",
       "count": 3
@@ -8049,7 +8049,7 @@
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "10. Consequential Stewardship: The Steward Role",
-      "source_anchor": "#10-consequential-stewardship",
+      "source_anchor": "#10-consequential-stewardship-the-steward-role",
       "target_file": "core_05_apex_timeliness_leg.md",
       "target_anchor": "#timeliness-constitutional-m",
       "count": 1
@@ -8057,7 +8057,7 @@
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "10. Consequential Stewardship: The Steward Role",
-      "source_anchor": "#10-consequential-stewardship",
+      "source_anchor": "#10-consequential-stewardship-the-steward-role",
       "target_file": "core_05_apex_timeliness_leg.md",
       "target_anchor": "#timeliness-constitutional-a",
       "count": 1
@@ -8065,7 +8065,7 @@
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "10. Consequential Stewardship: The Steward Role",
-      "source_anchor": "#10-consequential-stewardship",
+      "source_anchor": "#10-consequential-stewardship-the-steward-role",
       "target_file": "core_05_apex_timeliness_leg.md",
       "target_anchor": "#timeliness-constitutional-c",
       "count": 1
@@ -8073,7 +8073,7 @@
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "10. Consequential Stewardship: The Steward Role",
-      "source_anchor": "#10-consequential-stewardship",
+      "source_anchor": "#10-consequential-stewardship-the-steward-role",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#strategic-stewardship-obligation-constitutional",
       "count": 2
@@ -8081,7 +8081,7 @@
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "10. Consequential Stewardship: The Steward Role",
-      "source_anchor": "#10-consequential-stewardship",
+      "source_anchor": "#10-consequential-stewardship-the-steward-role",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#strategic-stewardship-obligation-constitutional-a",
       "count": 2
@@ -8089,7 +8089,7 @@
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "10. Consequential Stewardship: The Steward Role",
-      "source_anchor": "#10-consequential-stewardship",
+      "source_anchor": "#10-consequential-stewardship-the-steward-role",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#strategic-stewardship-obligation-constitutional-c",
       "count": 1
@@ -8097,7 +8097,7 @@
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "10. Consequential Stewardship: The Steward Role",
-      "source_anchor": "#10-consequential-stewardship",
+      "source_anchor": "#10-consequential-stewardship-the-steward-role",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability",
       "count": 2
@@ -8105,7 +8105,7 @@
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "10. Consequential Stewardship: The Steward Role",
-      "source_anchor": "#10-consequential-stewardship",
+      "source_anchor": "#10-consequential-stewardship-the-steward-role",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability-a",
       "count": 2
@@ -8113,7 +8113,7 @@
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "10. Consequential Stewardship: The Steward Role",
-      "source_anchor": "#10-consequential-stewardship",
+      "source_anchor": "#10-consequential-stewardship-the-steward-role",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability-c",
       "count": 1
@@ -8121,7 +8121,7 @@
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "10. Consequential Stewardship: The Steward Role",
-      "source_anchor": "#10-consequential-stewardship",
+      "source_anchor": "#10-consequential-stewardship-the-steward-role",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#meaningful-agency",
       "count": 2
@@ -8129,7 +8129,7 @@
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "10. Consequential Stewardship: The Steward Role",
-      "source_anchor": "#10-consequential-stewardship",
+      "source_anchor": "#10-consequential-stewardship-the-steward-role",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#meaningful-agency-a",
       "count": 2
@@ -8137,7 +8137,7 @@
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "10. Consequential Stewardship: The Steward Role",
-      "source_anchor": "#10-consequential-stewardship",
+      "source_anchor": "#10-consequential-stewardship-the-steward-role",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#meaningful-agency-c",
       "count": 1
@@ -8145,7 +8145,7 @@
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "10. Consequential Stewardship: The Steward Role",
-      "source_anchor": "#10-consequential-stewardship",
+      "source_anchor": "#10-consequential-stewardship-the-steward-role",
       "target_file": "core_06_rights_part_c.md",
       "target_anchor": "#article-xv-audit-transparency-and-independent-verification",
       "count": 1
@@ -8153,7 +8153,7 @@
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "10. Consequential Stewardship: The Steward Role",
-      "source_anchor": "#10-consequential-stewardship",
+      "source_anchor": "#10-consequential-stewardship-the-steward-role",
       "target_file": "core_06_rights_part_c.md",
       "target_anchor": "#article-xviii-standing-and-participation-status",
       "count": 1
@@ -8161,7 +8161,7 @@
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "10. Consequential Stewardship: The Steward Role",
-      "source_anchor": "#10-consequential-stewardship",
+      "source_anchor": "#10-consequential-stewardship-the-steward-role",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#chapter-eight-system-alignment-certification",
       "count": 1
@@ -8169,7 +8169,7 @@
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "10. Consequential Stewardship: The Steward Role",
-      "source_anchor": "#10-consequential-stewardship",
+      "source_anchor": "#10-consequential-stewardship-the-steward-role",
       "target_file": "core_09_standing_assessment.md",
       "target_anchor": "#chapter-nine-compliance-violation-and-standing-model",
       "count": 1
@@ -13753,7 +13753,7 @@
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "14.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)",
-      "source_anchor": "#1432-ceiling-discipline-adopter-requirements",
+      "source_anchor": "#1432-consolidation-ceiling-mechanism-adopter-tunable",
       "target_file": "core_11_b_misconduct_pattern_applications.md",
       "target_anchor": "#51-concentration-based-subversion-criteria-interaction",
       "count": 1
@@ -13761,7 +13761,7 @@
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "14.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)",
-      "source_anchor": "#1432-ceiling-discipline-adopter-requirements",
+      "source_anchor": "#1432-consolidation-ceiling-mechanism-adopter-tunable",
       "target_file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
       "target_anchor": "#cjs-3112-anti-domination-conduct-and-remediation-catalog",
       "count": 1
@@ -13963,7 +13963,7 @@
       "source_header": "15. Systemic Evaluation Requirement",
       "source_anchor": "#15-systemic-evaluation-requirement",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#11-certification-record",
+      "target_anchor": "#11-system-certification-record",
       "count": 1
     },
     {
@@ -15035,7 +15035,7 @@
       "source_header": "9. Stewardship In Depth",
       "source_anchor": "#9-stewardship-in-depth",
       "target_file": "core_12_forum.md",
-      "target_anchor": "#1-purpose-and-role",
+      "target_anchor": "#1-purpose-and-role--participation-architecture",
       "count": 2
     },
     {
@@ -15043,7 +15043,7 @@
       "source_header": "9. Stewardship In Depth",
       "source_anchor": "#9-stewardship-in-depth",
       "target_file": "core_12_forum.md",
-      "target_anchor": "#4-forum-family-definitions",
+      "target_anchor": "#4-forum-family-definitions--accountability-through-adjudication",
       "count": 2
     },
     {
@@ -15793,7 +15793,7 @@
     {
       "source_file": "core_02_definition_structure.md",
       "source_header": "1.3 Assessment Components (A) — How It Must Be Assessed",
-      "source_anchor": "#13-assessment-components",
+      "source_anchor": "#13-assessment-components-a--how-it-must-be-assessed",
       "target_file": "core_03_definition_integrity.md",
       "target_anchor": "#1-definition-integrity-and-anti-evasion-constraints",
       "count": 1
@@ -15801,7 +15801,7 @@
     {
       "source_file": "core_02_definition_structure.md",
       "source_header": "1.3 Assessment Components (A) — How It Must Be Assessed",
-      "source_anchor": "#13-assessment-components",
+      "source_anchor": "#13-assessment-components-a--how-it-must-be-assessed",
       "target_file": "core_04_burden_traceability_verification.md",
       "target_anchor": "#1-exclusive-enforcement-and-burden-allocation",
       "count": 1
@@ -15809,7 +15809,7 @@
     {
       "source_file": "core_02_definition_structure.md",
       "source_header": "1.3 Assessment Components (A) — How It Must Be Assessed",
-      "source_anchor": "#13-assessment-components",
+      "source_anchor": "#13-assessment-components-a--how-it-must-be-assessed",
       "target_file": "core_04_burden_traceability_verification.md",
       "target_anchor": "#5-compliance-evidence-standard",
       "count": 1
@@ -15817,7 +15817,7 @@
     {
       "source_file": "core_02_definition_structure.md",
       "source_header": "1.3 Assessment Components (A) — How It Must Be Assessed",
-      "source_anchor": "#13-assessment-components",
+      "source_anchor": "#13-assessment-components-a--how-it-must-be-assessed",
       "target_file": "core_05__definitions_home.md",
       "target_anchor": "#1-interdependent-definitions",
       "count": 1
@@ -16275,7 +16275,7 @@
       "source_header": "2. Non-Compliance from Observable System Behavior",
       "source_anchor": null,
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 1
     },
     {
@@ -16387,7 +16387,7 @@
       "source_header": "3.1 Standing Effects for Already-Certified Systems",
       "source_anchor": null,
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 1
     },
     {
@@ -16523,7 +16523,7 @@
       "source_header": "1. Exclusive Enforcement and Burden Allocation",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "target_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "count": 1
     },
     {
@@ -16819,7 +16819,7 @@
       "source_header": "6. Relationship to System Alignment Certification",
       "source_anchor": null,
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 1
     },
     {
@@ -20459,7 +20459,7 @@
       "source_header": "CHAPTER FIVE DEFINITIONS: FLOURISHING",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#3-non-negotiable-constraints-safety-and-truth",
+      "target_anchor": "#3-non-negotiable-principle-constraints-safety-and-truth",
       "count": 1
     },
     {
@@ -21987,7 +21987,7 @@
       "source_header": "Anti-Constitutional Misconduct Review",
       "source_anchor": "#anti-constitutional-misconduct-review",
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#7-unified-proportional-lequ-scale",
+      "target_anchor": "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
       "count": 1
     },
     {
@@ -22123,7 +22123,7 @@
       "source_header": "Attributable Action",
       "source_anchor": "#attributable-action-constitutional",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#11-certification-record",
+      "target_anchor": "#11-system-certification-record",
       "count": 1
     },
     {
@@ -22227,7 +22227,7 @@
       "source_header": "Attribution Integrity",
       "source_anchor": "#attribution-integrity-constitutional",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#11-certification-record",
+      "target_anchor": "#11-system-certification-record",
       "count": 1
     },
     {
@@ -22251,7 +22251,7 @@
       "source_header": "Autonomous Coercion Tool",
       "source_anchor": "#autonomous-coercion-tool-constitutional",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#3-non-negotiable-constraints-safety-and-truth",
+      "target_anchor": "#3-non-negotiable-principle-constraints-safety-and-truth",
       "count": 1
     },
     {
@@ -22419,7 +22419,7 @@
       "source_header": "Autonomous Lethal System",
       "source_anchor": "#autonomous-lethal-system-constitutional",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#3-non-negotiable-constraints-safety-and-truth",
+      "target_anchor": "#3-non-negotiable-principle-constraints-safety-and-truth",
       "count": 1
     },
     {
@@ -23475,7 +23475,7 @@
       "source_header": "Contestability",
       "source_anchor": "#contestability",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#3-non-negotiable-constraints-safety-and-truth",
+      "target_anchor": "#3-non-negotiable-principle-constraints-safety-and-truth",
       "count": 1
     },
     {
@@ -23819,7 +23819,7 @@
       "source_header": "Contribution Nature",
       "source_anchor": "#contribution-nature",
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#7-unified-proportional-lequ-scale",
+      "target_anchor": "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
       "count": 2
     },
     {
@@ -24011,7 +24011,7 @@
       "source_header": "Cruelty",
       "source_anchor": "#cruelty",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-general-standing-locks",
+      "target_anchor": "#42-prevention--general-standing-locks",
       "count": 1
     },
     {
@@ -24683,7 +24683,7 @@
       "source_header": "Forum Case Record",
       "source_anchor": "#forum-case-record",
       "target_file": "core_12_forum.md",
-      "target_anchor": "#23-forum-records-standing-records-and-contests",
+      "target_anchor": "#23-forum-case-records-standing-records-and-contests",
       "count": 1
     },
     {
@@ -26867,7 +26867,7 @@
       "source_header": "Merits Determination",
       "source_anchor": "#merits-determination",
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#7-unified-proportional-lequ-scale",
+      "target_anchor": "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
       "count": 1
     },
     {
@@ -27371,7 +27371,7 @@
       "source_header": "Participant Standing",
       "source_anchor": "#participant-standing-constitutional",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-general-standing-locks",
+      "target_anchor": "#42-prevention--general-standing-locks",
       "count": 1
     },
     {
@@ -27427,7 +27427,7 @@
       "source_header": "Primary-Stakes Routing",
       "source_anchor": "#primary-stakes-routing",
       "target_file": "core_12_forum.md",
-      "target_anchor": "#3-transfer-consolidation-and-coordination",
+      "target_anchor": "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
       "count": 1
     },
     {
@@ -27707,7 +27707,7 @@
       "source_header": "Protected Reporting (Whistleblowing)",
       "source_anchor": "#protected-reporting-whistleblowing",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#3-non-negotiable-constraints-safety-and-truth",
+      "target_anchor": "#3-non-negotiable-principle-constraints-safety-and-truth",
       "count": 1
     },
     {
@@ -28107,7 +28107,7 @@
       "source_header": "Remedy System",
       "source_anchor": "#remedy-system-constitutional",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#9-enforcement-realism",
+      "target_anchor": "#9-enforcement-realism-and-remedy-systems",
       "count": 2
     },
     {
@@ -28435,7 +28435,7 @@
       "source_header": "Standing Effect",
       "source_anchor": "#standing-effect-chapter-six",
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#2-standing-records",
+      "target_anchor": "#2-question-1--what-happened",
       "count": 1
     },
     {
@@ -28443,7 +28443,7 @@
       "source_header": "Standing Effect",
       "source_anchor": "#standing-effect-chapter-six",
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#21-standing-records-as-the-unit-of-application",
+      "target_anchor": "#21-what-question-1-must-establish",
       "count": 1
     },
     {
@@ -28475,7 +28475,7 @@
       "source_header": "Standing Effect",
       "source_anchor": "#standing-effect-chapter-six",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#1-immutable-chapter-nine-inputs",
+      "target_anchor": "#1-chapter-nine-records-do-not-change",
       "count": 1
     },
     {
@@ -28579,7 +28579,7 @@
       "source_header": "Standing Lock",
       "source_anchor": "#standing-lock",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-general-standing-locks",
+      "target_anchor": "#42-prevention--general-standing-locks",
       "count": 2
     },
     {
@@ -28707,7 +28707,7 @@
       "source_header": "Standing Record",
       "source_anchor": "#standing-record-chapter-six",
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#21-standing-records-as-the-unit-of-application",
+      "target_anchor": "#21-what-question-1-must-establish",
       "count": 1
     },
     {
@@ -28755,7 +28755,7 @@
       "source_header": "Standing Record",
       "source_anchor": "#standing-record-chapter-six",
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#7-unified-proportional-lequ-scale",
+      "target_anchor": "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
       "count": 1
     },
     {
@@ -28939,7 +28939,7 @@
       "source_header": "Def.A3 Standing State, Contribution, and Violation",
       "source_anchor": "#standing-state-contribution-and-violation-cluster",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-general-standing-locks",
+      "target_anchor": "#42-prevention--general-standing-locks",
       "count": 1
     },
     {
@@ -29931,7 +29931,7 @@
       "source_header": "Violation Nature",
       "source_anchor": "#violation-nature-chapter-six",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#3-non-negotiable-constraints-safety-and-truth",
+      "target_anchor": "#3-non-negotiable-principle-constraints-safety-and-truth",
       "count": 1
     },
     {
@@ -30083,7 +30083,7 @@
       "source_header": "Violation Nature",
       "source_anchor": "#violation-nature-chapter-six",
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#7-unified-proportional-lequ-scale",
+      "target_anchor": "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
       "count": 1
     },
     {
@@ -30099,7 +30099,7 @@
       "source_header": "Violation Nature",
       "source_anchor": "#violation-nature-chapter-six",
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#44-violation-route-descriptor-measurement-roles",
+      "target_anchor": "#44-violation-route-descriptor-catalog-and-measurement-roles",
       "count": 1
     },
     {
@@ -30131,7 +30131,7 @@
       "source_header": "Weapons of Mass Harm",
       "source_anchor": "#weapons-of-mass-harm-constitutional",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#3-non-negotiable-constraints-safety-and-truth",
+      "target_anchor": "#3-non-negotiable-principle-constraints-safety-and-truth",
       "count": 1
     },
     {
@@ -30819,7 +30819,7 @@
       "source_header": "Bodily-Maintenance Access",
       "source_anchor": "#bodily-maintenance-access-constitutional",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#3-non-negotiable-constraints-safety-and-truth",
+      "target_anchor": "#3-non-negotiable-principle-constraints-safety-and-truth",
       "count": 1
     },
     {
@@ -31243,7 +31243,7 @@
       "source_header": "Charter",
       "source_anchor": "#charter",
       "target_file": "core_13_governance.md",
-      "target_anchor": "#43-decision-resolution-requirements-for-binding-collective-choice",
+      "target_anchor": "#43-decision-resolution-requirements-for-binding-stakeholder-choice",
       "count": 1
     },
     {
@@ -32675,7 +32675,7 @@
       "source_header": "Emergency and contingency",
       "source_anchor": "#emergency-and-contingency-semi-independent",
       "target_file": "core_13_governance.md",
-      "target_anchor": "#43-decision-resolution-requirements-for-binding-collective-choice",
+      "target_anchor": "#43-decision-resolution-requirements-for-binding-stakeholder-choice",
       "count": 1
     },
     {
@@ -32795,7 +32795,7 @@
       "source_header": "Emergency Pre-Deliberation Action (Binding Collective Choice)",
       "source_anchor": "#emergency-pre-deliberation-action-binding-collective-choice",
       "target_file": "core_13_governance.md",
-      "target_anchor": "#43-decision-resolution-requirements-for-binding-collective-choice",
+      "target_anchor": "#43-decision-resolution-requirements-for-binding-stakeholder-choice",
       "count": 2
     },
     {
@@ -34283,7 +34283,7 @@
       "source_header": "Def.C3 Privacy (Informational) — peer-level cluster head",
       "source_anchor": "#privacy-informational-cluster",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#3-non-negotiable-constraints-safety-and-truth",
+      "target_anchor": "#3-non-negotiable-principle-constraints-safety-and-truth",
       "count": 1
     },
     {
@@ -34667,7 +34667,7 @@
       "source_header": "Proportionate Cross-System Contribution",
       "source_anchor": "#proportionate-cross-system-support-constitutional",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "target_anchor": "#6-proportionate-cross-system-contribution-evaluation",
       "count": 1
     },
     {
@@ -35283,7 +35283,7 @@
       "source_header": "Safe Conditions",
       "source_anchor": "#safe-conditions-constitutional",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#3-non-negotiable-constraints-safety-and-truth",
+      "target_anchor": "#3-non-negotiable-principle-constraints-safety-and-truth",
       "count": 1
     },
     {
@@ -35483,7 +35483,7 @@
       "source_header": "Safety (Constraint)",
       "source_anchor": "#safety-constraint",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#3-non-negotiable-constraints-safety-and-truth",
+      "target_anchor": "#3-non-negotiable-principle-constraints-safety-and-truth",
       "count": 1
     },
     {
@@ -36075,7 +36075,7 @@
       "source_header": "Stakeholder Emergency and Contingency",
       "source_anchor": "#stakeholder-emergency-and-contingency",
       "target_file": "core_13_governance.md",
-      "target_anchor": "#43-decision-resolution-requirements-for-binding-collective-choice",
+      "target_anchor": "#43-decision-resolution-requirements-for-binding-stakeholder-choice",
       "count": 1
     },
     {
@@ -37003,7 +37003,7 @@
       "source_header": "System Alignment Certification",
       "source_anchor": "#system-alignment-certification-constitutional",
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#2-standing-records",
+      "target_anchor": "#2-question-1--what-happened",
       "count": 3
     },
     {
@@ -37427,7 +37427,7 @@
       "source_header": "System Certification Record",
       "source_anchor": "#system-certification-record-constitutional",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "target_anchor": "#6-proportionate-cross-system-contribution-evaluation",
       "count": 1
     },
     {
@@ -37435,7 +37435,7 @@
       "source_header": "System Certification Record",
       "source_anchor": "#system-certification-record-constitutional",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#11-certification-record",
+      "target_anchor": "#11-system-certification-record",
       "count": 2
     },
     {
@@ -37467,7 +37467,7 @@
       "source_header": "System Certification Record",
       "source_anchor": "#system-certification-record-constitutional",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 1
     },
     {
@@ -37491,7 +37491,7 @@
       "source_header": "System Certification Record",
       "source_anchor": "#system-certification-record-constitutional",
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#2-standing-records",
+      "target_anchor": "#2-question-1--what-happened",
       "count": 1
     },
     {
@@ -38451,7 +38451,7 @@
       "source_header": "Trust Degradation and Misleading Reliance",
       "source_anchor": "#trust-degradation-and-misleading-reliance",
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#844-combined-satisfaction",
+      "target_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "count": 1
     },
     {
@@ -39451,7 +39451,7 @@
       "source_header": "Constitutional Constraint",
       "source_anchor": "#constitutional-constraint",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#3-non-negotiable-constraints-safety-and-truth",
+      "target_anchor": "#3-non-negotiable-principle-constraints-safety-and-truth",
       "count": 1
     },
     {
@@ -41291,7 +41291,7 @@
       "source_header": "Evidence Preservation",
       "source_anchor": "#evidence-preservation",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#3-non-negotiable-constraints-safety-and-truth",
+      "target_anchor": "#3-non-negotiable-principle-constraints-safety-and-truth",
       "count": 1
     },
     {
@@ -41715,7 +41715,7 @@
       "source_header": "Material Degradation",
       "source_anchor": "#material-degradation",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#3-non-negotiable-constraints-safety-and-truth",
+      "target_anchor": "#3-non-negotiable-principle-constraints-safety-and-truth",
       "count": 1
     },
     {
@@ -42555,7 +42555,7 @@
       "source_header": "Public Oversight Baseline Disclosure",
       "source_anchor": "#public-oversight-baseline-disclosure",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#11-certification-record",
+      "target_anchor": "#11-system-certification-record",
       "count": 1
     },
     {
@@ -43339,7 +43339,7 @@
       "source_header": "Truth (Constitutional Constraint)",
       "source_anchor": "#truth-constitutional-constraint",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#3-non-negotiable-constraints-safety-and-truth",
+      "target_anchor": "#3-non-negotiable-principle-constraints-safety-and-truth",
       "count": 1
     },
     {
@@ -44547,7 +44547,7 @@
       "source_header": "Def.P2 Binding Stakeholder Choice",
       "source_anchor": "#binding-stakeholder-choice-cluster",
       "target_file": "core_13_governance.md",
-      "target_anchor": "#43-decision-resolution-requirements-for-binding-collective-choice",
+      "target_anchor": "#43-decision-resolution-requirements-for-binding-stakeholder-choice",
       "count": 2
     },
     {
@@ -44579,7 +44579,7 @@
       "source_header": "Binding Stakeholder Choice — Decision-Resolution Requirements",
       "source_anchor": "#binding-stakeholder-choice-decision-resolution-requirements",
       "target_file": "core_13_governance.md",
-      "target_anchor": "#43-decision-resolution-requirements-for-binding-collective-choice",
+      "target_anchor": "#43-decision-resolution-requirements-for-binding-stakeholder-choice",
       "count": 1
     },
     {
@@ -44787,7 +44787,7 @@
       "source_header": "Coercion and Manipulation",
       "source_anchor": "#coercion-and-manipulation-constitutional",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#3-non-negotiable-constraints-safety-and-truth",
+      "target_anchor": "#3-non-negotiable-principle-constraints-safety-and-truth",
       "count": 1
     },
     {
@@ -46859,7 +46859,7 @@
       "source_header": "Lifespan Equivalent Unit (LEQU)",
       "source_anchor": "#lifespan-equivalent-unit-lequ",
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#7-unified-proportional-lequ-scale",
+      "target_anchor": "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
       "count": 2
     },
     {
@@ -49155,7 +49155,7 @@
       "source_header": "Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)",
       "source_anchor": "#stakeholder-representation-and-weight-limits-binding-stakeholder-choice",
       "target_file": "core_13_governance.md",
-      "target_anchor": "#43-decision-resolution-requirements-for-binding-collective-choice",
+      "target_anchor": "#43-decision-resolution-requirements-for-binding-stakeholder-choice",
       "count": 1
     },
     {
@@ -49179,7 +49179,7 @@
       "source_header": "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
       "source_anchor": "#stakeholder-rights-collision-record-binding-stakeholder-choice",
       "target_file": "core_13_governance.md",
-      "target_anchor": "#43-decision-resolution-requirements-for-binding-collective-choice",
+      "target_anchor": "#43-decision-resolution-requirements-for-binding-stakeholder-choice",
       "count": 1
     },
     {
@@ -54963,7 +54963,7 @@
       "source_header": "Article V-G: Accessibility",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "target_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "count": 4
     },
     {
@@ -55643,7 +55643,7 @@
       "source_header": "Article VI: Right to Sentient-Centered Education",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "target_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "count": 1
     },
     {
@@ -59211,7 +59211,7 @@
       "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
       "source_anchor": "#anti-substitution-sentience-status-xviii",
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#2-standing-records",
+      "target_anchor": "#2-question-1--what-happened",
       "count": 3
     },
     {
@@ -59235,7 +59235,7 @@
       "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
       "source_anchor": "#anti-substitution-sentience-status-xviii",
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#7-unified-proportional-lequ-scale",
+      "target_anchor": "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
       "count": 1
     },
     {
@@ -59251,7 +59251,7 @@
       "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
       "source_anchor": "#anti-substitution-sentience-status-xviii",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-general-standing-locks",
+      "target_anchor": "#42-prevention--general-standing-locks",
       "count": 3
     },
     {
@@ -59715,7 +59715,7 @@
       "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
       "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-general-standing-locks",
+      "target_anchor": "#42-prevention--general-standing-locks",
       "count": 1
     },
     {
@@ -59747,7 +59747,7 @@
       "source_header": "Article XVIII-D: Movement, Migration, Refuge, and Non-Statelessness Routing",
       "source_anchor": "#article-xviii-d-movement-migration-and-refuge",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-general-standing-locks",
+      "target_anchor": "#42-prevention--general-standing-locks",
       "count": 1
     },
     {
@@ -60331,7 +60331,7 @@
       "source_header": "Article XXII-B: Composition, Rotation, and Conflict Controls",
       "source_anchor": "#article-xxii-b-composition-rotation-and-conflict-controls",
       "target_file": "core_12_forum.md",
-      "target_anchor": "#3-transfer-consolidation-and-coordination",
+      "target_anchor": "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
       "count": 1
     },
     {
@@ -61163,7 +61163,7 @@
       "source_header": "Article XII-B: Right to Challenge, Review, and Redress",
       "source_anchor": null,
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#9-enforcement-realism",
+      "target_anchor": "#9-enforcement-realism-and-remedy-systems",
       "count": 2
     },
     {
@@ -63251,7 +63251,7 @@
       "source_header": "Article XIX-D: Movement, Migration, Refuge, and Non-Statelessness",
       "source_anchor": null,
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-general-standing-locks",
+      "target_anchor": "#42-prevention--general-standing-locks",
       "count": 1
     },
     {
@@ -65099,7 +65099,7 @@
       "source_header": "Article XVIII-A: Standing Distinction",
       "source_anchor": null,
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-general-standing-locks",
+      "target_anchor": "#42-prevention--general-standing-locks",
       "count": 2
     },
     {
@@ -65147,7 +65147,7 @@
       "source_header": "Article XX-A: Proportional Comprehensibility Right",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "target_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "count": 1
     },
     {
@@ -65275,7 +65275,7 @@
       "source_header": "Article XX: Comprehensibility and Complexity Stewardship",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "target_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "count": 3
     },
     {
@@ -65955,7 +65955,7 @@
       "source_header": "Article XXII-C: Public Reasons, Challenge Rights, and External Review",
       "source_anchor": null,
       "target_file": "core_12_forum.md",
-      "target_anchor": "#3-transfer-consolidation-and-coordination",
+      "target_anchor": "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
       "count": 1
     },
     {
@@ -69147,7 +69147,7 @@
       "source_header": "10. Trustworthiness and System-Reliance Integrity Evaluation",
       "source_anchor": "#10-trustworthiness-and-system-reliance-integrity-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#11-certification-record",
+      "target_anchor": "#11-system-certification-record",
       "count": 1
     },
     {
@@ -69171,13 +69171,13 @@
       "source_header": "10. Trustworthiness and System-Reliance Integrity Evaluation",
       "source_anchor": "#10-trustworthiness-and-system-reliance-integrity-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 2
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "10.1 Illustrative trustworthiness application by class (non-exhaustive)",
-      "source_anchor": "#101-illustrative-trustworthiness-application-by-class",
+      "source_anchor": "#101-illustrative-trustworthiness-application-by-class-non-exhaustive",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#trust",
       "count": 1
@@ -69185,7 +69185,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "10.1 Illustrative trustworthiness application by class (non-exhaustive)",
-      "source_anchor": "#101-illustrative-trustworthiness-application-by-class",
+      "source_anchor": "#101-illustrative-trustworthiness-application-by-class-non-exhaustive",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#trust-degradation-and-misleading-reliance",
       "count": 1
@@ -69193,15 +69193,15 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "10.1 Illustrative trustworthiness application by class (non-exhaustive)",
-      "source_anchor": "#101-illustrative-trustworthiness-application-by-class",
+      "source_anchor": "#101-illustrative-trustworthiness-application-by-class-non-exhaustive",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 2
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "10.1 Illustrative trustworthiness application by class (non-exhaustive)",
-      "source_anchor": "#101-illustrative-trustworthiness-application-by-class",
+      "source_anchor": "#101-illustrative-trustworthiness-application-by-class-non-exhaustive",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#chapter-eight-part-b-certification-record-and-process",
       "count": 1
@@ -69209,9 +69209,9 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "10.1 Illustrative trustworthiness application by class (non-exhaustive)",
-      "source_anchor": "#101-illustrative-trustworthiness-application-by-class",
+      "source_anchor": "#101-illustrative-trustworthiness-application-by-class-non-exhaustive",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#11-certification-record",
+      "target_anchor": "#11-system-certification-record",
       "count": 1
     },
     {
@@ -69315,7 +69315,7 @@
       "source_header": "2. System Class Evaluation",
       "source_anchor": "#2-system-class-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 2
     },
     {
@@ -69387,7 +69387,7 @@
       "source_header": "2.1 Illustrative class profiles (non-exhaustive)",
       "source_anchor": "#21-illustrative-class-profiles-non-exhaustive",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#11-certification-record",
+      "target_anchor": "#11-system-certification-record",
       "count": 1
     },
     {
@@ -69395,7 +69395,7 @@
       "source_header": "2.1 Illustrative class profiles (non-exhaustive)",
       "source_anchor": "#21-illustrative-class-profiles-non-exhaustive",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 1
     },
     {
@@ -69523,7 +69523,7 @@
       "source_header": "3. Whole-System Certification Evaluation",
       "source_anchor": "#3-whole-system-certification-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#11-certification-record",
+      "target_anchor": "#11-system-certification-record",
       "count": 1
     },
     {
@@ -69547,7 +69547,7 @@
       "source_header": "3. Whole-System Certification Evaluation",
       "source_anchor": "#3-whole-system-certification-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 1
     },
     {
@@ -69675,7 +69675,7 @@
       "source_header": "3.1 Systemic Scope and Risk Factors",
       "source_anchor": "#31-systemic-scope-and-risk-factors",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 1
     },
     {
@@ -69825,7 +69825,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "3.8 Illustrative whole-system application by class (non-exhaustive)",
-      "source_anchor": "#38-illustrative-whole-system-application-by-class",
+      "source_anchor": "#38-illustrative-whole-system-application-by-class-non-exhaustive",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#risk-evaluation",
       "count": 3
@@ -69833,7 +69833,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "3.8 Illustrative whole-system application by class (non-exhaustive)",
-      "source_anchor": "#38-illustrative-whole-system-application-by-class",
+      "source_anchor": "#38-illustrative-whole-system-application-by-class-non-exhaustive",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#risk-disclosure",
       "count": 3
@@ -69841,9 +69841,9 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "3.8 Illustrative whole-system application by class (non-exhaustive)",
-      "source_anchor": "#38-illustrative-whole-system-application-by-class",
+      "source_anchor": "#38-illustrative-whole-system-application-by-class-non-exhaustive",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 1
     },
     {
@@ -69931,7 +69931,7 @@
       "source_header": "4. Data Types and Handling Evaluation",
       "source_anchor": "#4-data-types-and-handling-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#11-certification-record",
+      "target_anchor": "#11-system-certification-record",
       "count": 1
     },
     {
@@ -69955,7 +69955,7 @@
       "source_header": "4. Data Types and Handling Evaluation",
       "source_anchor": "#4-data-types-and-handling-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 2
     },
     {
@@ -70001,9 +70001,9 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "4.1 Illustrative data-handling application by class (non-exhaustive)",
-      "source_anchor": "#41-illustrative-data-handling-application-by-class",
+      "source_anchor": "#41-illustrative-data-handling-application-by-class-non-exhaustive",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 1
     },
     {
@@ -70075,7 +70075,7 @@
       "source_header": "5. Ecological Footprint Evaluation",
       "source_anchor": "#5-ecological-footprint-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#11-certification-record",
+      "target_anchor": "#11-system-certification-record",
       "count": 1
     },
     {
@@ -70099,7 +70099,7 @@
       "source_header": "5. Ecological Footprint Evaluation",
       "source_anchor": "#5-ecological-footprint-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 2
     },
     {
@@ -70121,7 +70121,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "5.1 Illustrative ecological-footprint application by class (non-exhaustive)",
-      "source_anchor": "#51-illustrative-ecological-footprint-application-by-class",
+      "source_anchor": "#51-illustrative-ecological-footprint-application-by-class-non-exhaustive",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency",
       "count": 1
@@ -70129,7 +70129,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "5.1 Illustrative ecological-footprint application by class (non-exhaustive)",
-      "source_anchor": "#51-illustrative-ecological-footprint-application-by-class",
+      "source_anchor": "#51-illustrative-ecological-footprint-application-by-class-non-exhaustive",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#material-impact",
       "count": 2
@@ -70137,7 +70137,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "6. Proportionate Cross-System Contribution Evaluation",
-      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "source_anchor": "#6-proportionate-cross-system-contribution-evaluation",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#material-stake",
       "count": 1
@@ -70145,7 +70145,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "6. Proportionate Cross-System Contribution Evaluation",
-      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "source_anchor": "#6-proportionate-cross-system-contribution-evaluation",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality",
       "count": 2
@@ -70153,7 +70153,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "6. Proportionate Cross-System Contribution Evaluation",
-      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "source_anchor": "#6-proportionate-cross-system-contribution-evaluation",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#governance-architecture-oversight-decentralization-and-concentration-cluster",
       "count": 1
@@ -70161,7 +70161,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "6. Proportionate Cross-System Contribution Evaluation",
-      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "source_anchor": "#6-proportionate-cross-system-contribution-evaluation",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#proportionate-cross-system-support-constitutional",
       "count": 5
@@ -70169,7 +70169,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "6. Proportionate Cross-System Contribution Evaluation",
-      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "source_anchor": "#6-proportionate-cross-system-contribution-evaluation",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency",
       "count": 1
@@ -70177,7 +70177,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "6. Proportionate Cross-System Contribution Evaluation",
-      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "source_anchor": "#6-proportionate-cross-system-contribution-evaluation",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#ecological-footprint",
       "count": 2
@@ -70185,7 +70185,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "6. Proportionate Cross-System Contribution Evaluation",
-      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "source_anchor": "#6-proportionate-cross-system-contribution-evaluation",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#sustainability",
       "count": 2
@@ -70193,7 +70193,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "6. Proportionate Cross-System Contribution Evaluation",
-      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "source_anchor": "#6-proportionate-cross-system-contribution-evaluation",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#substantive-fairness-constitutional",
       "count": 2
@@ -70201,15 +70201,15 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "6. Proportionate Cross-System Contribution Evaluation",
-      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "source_anchor": "#6-proportionate-cross-system-contribution-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#11-certification-record",
+      "target_anchor": "#11-system-certification-record",
       "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "6. Proportionate Cross-System Contribution Evaluation",
-      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "source_anchor": "#6-proportionate-cross-system-contribution-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#12-transparency-auditability-and-contestability",
       "count": 1
@@ -70217,7 +70217,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "6. Proportionate Cross-System Contribution Evaluation",
-      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "source_anchor": "#6-proportionate-cross-system-contribution-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#15-relationship-to-standing",
       "count": 1
@@ -70225,15 +70225,15 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "6. Proportionate Cross-System Contribution Evaluation",
-      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "source_anchor": "#6-proportionate-cross-system-contribution-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 2
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "6. Proportionate Cross-System Contribution Evaluation",
-      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "source_anchor": "#6-proportionate-cross-system-contribution-evaluation",
       "target_file": "corpus_systems.md",
       "target_anchor": null,
       "count": 2
@@ -70241,7 +70241,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "6.1 Illustrative cross-system support application by class (non-exhaustive)",
-      "source_anchor": "#61-illustrative-cross-system-support-application-by-class",
+      "source_anchor": "#61-illustrative-cross-system-support-application-by-class-non-exhaustive",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality",
       "count": 1
@@ -70249,7 +70249,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "6.1 Illustrative cross-system support application by class (non-exhaustive)",
-      "source_anchor": "#61-illustrative-cross-system-support-application-by-class",
+      "source_anchor": "#61-illustrative-cross-system-support-application-by-class-non-exhaustive",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#proportionate-cross-system-support-constitutional",
       "count": 1
@@ -70257,7 +70257,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "6.1 Illustrative cross-system support application by class (non-exhaustive)",
-      "source_anchor": "#61-illustrative-cross-system-support-application-by-class",
+      "source_anchor": "#61-illustrative-cross-system-support-application-by-class-non-exhaustive",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#ecological-footprint",
       "count": 1
@@ -70265,7 +70265,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "6.1 Illustrative cross-system support application by class (non-exhaustive)",
-      "source_anchor": "#61-illustrative-cross-system-support-application-by-class",
+      "source_anchor": "#61-illustrative-cross-system-support-application-by-class-non-exhaustive",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#sustainability",
       "count": 1
@@ -70273,7 +70273,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "6.1 Illustrative cross-system support application by class (non-exhaustive)",
-      "source_anchor": "#61-illustrative-cross-system-support-application-by-class",
+      "source_anchor": "#61-illustrative-cross-system-support-application-by-class-non-exhaustive",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#substantive-fairness-constitutional",
       "count": 1
@@ -70281,9 +70281,9 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "6.1 Illustrative cross-system support application by class (non-exhaustive)",
-      "source_anchor": "#61-illustrative-cross-system-support-application-by-class",
+      "source_anchor": "#61-illustrative-cross-system-support-application-by-class-non-exhaustive",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 1
     },
     {
@@ -70355,7 +70355,7 @@
       "source_header": "7. Nondiscrimination Evaluation",
       "source_anchor": "#7-nondiscrimination-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#11-certification-record",
+      "target_anchor": "#11-system-certification-record",
       "count": 1
     },
     {
@@ -70379,13 +70379,13 @@
       "source_header": "7. Nondiscrimination Evaluation",
       "source_anchor": "#7-nondiscrimination-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 2
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "7.1 Illustrative nondiscrimination application by class (non-exhaustive)",
-      "source_anchor": "#71-illustrative-nondiscrimination-application-by-class",
+      "source_anchor": "#71-illustrative-nondiscrimination-application-by-class-non-exhaustive",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#necessity",
       "count": 1
@@ -70393,7 +70393,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "7.1 Illustrative nondiscrimination application by class (non-exhaustive)",
-      "source_anchor": "#71-illustrative-nondiscrimination-application-by-class",
+      "source_anchor": "#71-illustrative-nondiscrimination-application-by-class-non-exhaustive",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality",
       "count": 1
@@ -70401,7 +70401,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "7.1 Illustrative nondiscrimination application by class (non-exhaustive)",
-      "source_anchor": "#71-illustrative-nondiscrimination-application-by-class",
+      "source_anchor": "#71-illustrative-nondiscrimination-application-by-class-non-exhaustive",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#language-culture-and-heritage-constitutional",
       "count": 1
@@ -70409,7 +70409,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "7.1 Illustrative nondiscrimination application by class (non-exhaustive)",
-      "source_anchor": "#71-illustrative-nondiscrimination-application-by-class",
+      "source_anchor": "#71-illustrative-nondiscrimination-application-by-class-non-exhaustive",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#substantive-fairness-constitutional",
       "count": 1
@@ -70417,7 +70417,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "7.1 Illustrative nondiscrimination application by class (non-exhaustive)",
-      "source_anchor": "#71-illustrative-nondiscrimination-application-by-class",
+      "source_anchor": "#71-illustrative-nondiscrimination-application-by-class-non-exhaustive",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#protected-characteristics-constitutional",
       "count": 1
@@ -70425,7 +70425,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "7.1 Illustrative nondiscrimination application by class (non-exhaustive)",
-      "source_anchor": "#71-illustrative-nondiscrimination-application-by-class",
+      "source_anchor": "#71-illustrative-nondiscrimination-application-by-class-non-exhaustive",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#protected-characteristic-proxying-and-disparate-impact",
       "count": 1
@@ -70433,9 +70433,9 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "7.1 Illustrative nondiscrimination application by class (non-exhaustive)",
-      "source_anchor": "#71-illustrative-nondiscrimination-application-by-class",
+      "source_anchor": "#71-illustrative-nondiscrimination-application-by-class-non-exhaustive",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 1
     },
     {
@@ -70539,7 +70539,7 @@
       "source_header": "8. Accessibility Evaluation",
       "source_anchor": "#8-accessibility-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#11-certification-record",
+      "target_anchor": "#11-system-certification-record",
       "count": 1
     },
     {
@@ -70563,13 +70563,13 @@
       "source_header": "8. Accessibility Evaluation",
       "source_anchor": "#8-accessibility-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 2
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "8.1 Illustrative accessibility application by class (non-exhaustive)",
-      "source_anchor": "#81-illustrative-accessibility-application-by-class",
+      "source_anchor": "#81-illustrative-accessibility-application-by-class-non-exhaustive",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#necessity",
       "count": 1
@@ -70577,7 +70577,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "8.1 Illustrative accessibility application by class (non-exhaustive)",
-      "source_anchor": "#81-illustrative-accessibility-application-by-class",
+      "source_anchor": "#81-illustrative-accessibility-application-by-class-non-exhaustive",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality",
       "count": 1
@@ -70585,7 +70585,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "8.1 Illustrative accessibility application by class (non-exhaustive)",
-      "source_anchor": "#81-illustrative-accessibility-application-by-class",
+      "source_anchor": "#81-illustrative-accessibility-application-by-class-non-exhaustive",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#protected-characteristics-constitutional",
       "count": 1
@@ -70593,7 +70593,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "8.1 Illustrative accessibility application by class (non-exhaustive)",
-      "source_anchor": "#81-illustrative-accessibility-application-by-class",
+      "source_anchor": "#81-illustrative-accessibility-application-by-class-non-exhaustive",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#protected-characteristic-proxying-and-disparate-impact",
       "count": 1
@@ -70601,7 +70601,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "8.1 Illustrative accessibility application by class (non-exhaustive)",
-      "source_anchor": "#81-illustrative-accessibility-application-by-class",
+      "source_anchor": "#81-illustrative-accessibility-application-by-class-non-exhaustive",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#substantive-fairness-constitutional",
       "count": 1
@@ -70609,9 +70609,9 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "8.1 Illustrative accessibility application by class (non-exhaustive)",
-      "source_anchor": "#81-illustrative-accessibility-application-by-class",
+      "source_anchor": "#81-illustrative-accessibility-application-by-class-non-exhaustive",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 1
     },
     {
@@ -70707,7 +70707,7 @@
       "source_header": "9. Educational Capability and Learning-System Integrity Evaluation",
       "source_anchor": "#9-educational-capability-and-learning-system-integrity-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#11-certification-record",
+      "target_anchor": "#11-system-certification-record",
       "count": 1
     },
     {
@@ -70731,15 +70731,15 @@
       "source_header": "9. Educational Capability and Learning-System Integrity Evaluation",
       "source_anchor": "#9-educational-capability-and-learning-system-integrity-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 2
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "9.1 Illustrative educational-capability application by class (non-exhaustive)",
-      "source_anchor": "#91-illustrative-educational-capability-application-by-class",
+      "source_anchor": "#91-illustrative-educational-capability-application-by-class-non-exhaustive",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 1
     },
     {
@@ -70779,7 +70779,7 @@
       "source_header": "CHAPTER EIGHT, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION",
       "source_anchor": "#chapter-eight-part-a-certification-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 1
     },
     {
@@ -70931,7 +70931,7 @@
       "source_header": "1. Purpose and Role",
       "source_anchor": "#operative-steward-statement-sac",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#11-certification-record",
+      "target_anchor": "#11-system-certification-record",
       "count": 3
     },
     {
@@ -70971,7 +70971,7 @@
       "source_header": "1. Purpose and Role",
       "source_anchor": "#operative-steward-statement-sac",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 2
     },
     {
@@ -71017,7 +71017,7 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "11. System Certification Record",
-      "source_anchor": "#11-certification-record",
+      "source_anchor": "#11-system-certification-record",
       "target_file": "core_04_burden_traceability_verification.md",
       "target_anchor": "#chapter-four-burden-of-proof-traceability-and-verification",
       "count": 1
@@ -71025,7 +71025,7 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "11. System Certification Record",
-      "source_anchor": "#11-certification-record",
+      "source_anchor": "#11-system-certification-record",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-certification-record-constitutional",
       "count": 2
@@ -71033,7 +71033,7 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "11. System Certification Record",
-      "source_anchor": "#11-certification-record",
+      "source_anchor": "#11-system-certification-record",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#1-purpose-and-role",
       "count": 1
@@ -71041,7 +71041,7 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "11. System Certification Record",
-      "source_anchor": "#11-certification-record",
+      "source_anchor": "#11-system-certification-record",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#3-whole-system-certification-evaluation",
       "count": 1
@@ -71049,7 +71049,7 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "11. System Certification Record",
-      "source_anchor": "#11-certification-record",
+      "source_anchor": "#11-system-certification-record",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#2-system-class-evaluation",
       "count": 1
@@ -71057,7 +71057,7 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "11. System Certification Record",
-      "source_anchor": "#11-certification-record",
+      "source_anchor": "#11-system-certification-record",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#10-trustworthiness-and-system-reliance-integrity-evaluation",
       "count": 1
@@ -71065,7 +71065,7 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "11. System Certification Record",
-      "source_anchor": "#11-certification-record",
+      "source_anchor": "#11-system-certification-record",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#21-illustrative-class-profiles-non-exhaustive",
       "count": 1
@@ -71073,7 +71073,7 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "11. System Certification Record",
-      "source_anchor": "#11-certification-record",
+      "source_anchor": "#11-system-certification-record",
       "target_file": "core_12_forum.md",
       "target_anchor": "#chapter-twelve-forums-and-jurisdiction",
       "count": 1
@@ -71227,7 +71227,7 @@
       "source_header": "11.1 Minimum record contents",
       "source_anchor": "#111-minimum-record-contents",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "target_anchor": "#6-proportionate-cross-system-contribution-evaluation",
       "count": 1
     },
     {
@@ -71347,7 +71347,7 @@
       "source_header": "11.2 Cross-section record requirements",
       "source_anchor": "#112-cross-section-record-requirements",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "target_anchor": "#6-proportionate-cross-system-contribution-evaluation",
       "count": 1
     },
     {
@@ -71387,7 +71387,7 @@
       "source_header": "11.3 Rights-Floor record evaluation (non-substitution)",
       "source_anchor": "#113-rights-floor-record-evaluation-non-substitution",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "target_anchor": "#6-proportionate-cross-system-contribution-evaluation",
       "count": 1
     },
     {
@@ -71611,7 +71611,7 @@
       "source_header": "12. Transparency, Auditability, and Contestability",
       "source_anchor": "#12-transparency-auditability-and-contestability",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "target_anchor": "#6-proportionate-cross-system-contribution-evaluation",
       "count": 1
     },
     {
@@ -71651,7 +71651,7 @@
       "source_header": "12. Transparency, Auditability, and Contestability",
       "source_anchor": "#12-transparency-auditability-and-contestability",
       "target_file": "core_12_forum.md",
-      "target_anchor": "#23-forum-records-standing-records-and-contests",
+      "target_anchor": "#23-forum-case-records-standing-records-and-contests",
       "count": 1
     },
     {
@@ -71787,7 +71787,7 @@
       "source_header": "13. Forum Supervision and Component Roles",
       "source_anchor": "#13-forum-supervision-and-component-roles",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "target_anchor": "#6-proportionate-cross-system-contribution-evaluation",
       "count": 1
     },
     {
@@ -71795,7 +71795,7 @@
       "source_header": "13. Forum Supervision and Component Roles",
       "source_anchor": "#13-forum-supervision-and-component-roles",
       "target_file": "core_12_forum.md",
-      "target_anchor": "#4-forum-family-definitions",
+      "target_anchor": "#4-forum-family-definitions--accountability-through-adjudication",
       "count": 1
     },
     {
@@ -71875,7 +71875,7 @@
       "source_header": "14. Supervisory Sequence and Contestability Chain",
       "source_anchor": "#14-supervisory-sequence-and-contestability-chain",
       "target_file": "core_12_forum.md",
-      "target_anchor": "#4-forum-family-definitions",
+      "target_anchor": "#4-forum-family-definitions--accountability-through-adjudication",
       "count": 1
     },
     {
@@ -71883,7 +71883,7 @@
       "source_header": "14. Supervisory Sequence and Contestability Chain",
       "source_anchor": "#14-supervisory-sequence-and-contestability-chain",
       "target_file": "core_12_forum.md",
-      "target_anchor": "#3-transfer-consolidation-and-coordination",
+      "target_anchor": "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
       "count": 1
     },
     {
@@ -72075,7 +72075,7 @@
       "source_header": "15. Relationship to Standing",
       "source_anchor": "#15-relationship-to-standing",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "target_anchor": "#6-proportionate-cross-system-contribution-evaluation",
       "count": 1
     },
     {
@@ -72137,7 +72137,7 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "16. Reopening, Misalignment, and Non-Evasion",
-      "source_anchor": "#16-reopening-drift-and-non-evasion",
+      "source_anchor": "#16-reopening-misalignment-and-non-evasion",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#two-constitutional-aims",
       "count": 1
@@ -72145,7 +72145,7 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "16. Reopening, Misalignment, and Non-Evasion",
-      "source_anchor": "#16-reopening-drift-and-non-evasion",
+      "source_anchor": "#16-reopening-misalignment-and-non-evasion",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#constitutional-tetrad",
       "count": 1
@@ -72153,7 +72153,7 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "16. Reopening, Misalignment, and Non-Evasion",
-      "source_anchor": "#16-reopening-drift-and-non-evasion",
+      "source_anchor": "#16-reopening-misalignment-and-non-evasion",
       "target_file": "core_03_definition_integrity.md",
       "target_anchor": "#1-definition-integrity-and-anti-evasion-constraints",
       "count": 2
@@ -72161,7 +72161,7 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "16. Reopening, Misalignment, and Non-Evasion",
-      "source_anchor": "#16-reopening-drift-and-non-evasion",
+      "source_anchor": "#16-reopening-misalignment-and-non-evasion",
       "target_file": "core_03_definition_integrity.md",
       "target_anchor": "#2-non-compliance-from-observable-system-behavior",
       "count": 2
@@ -72169,7 +72169,7 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "16. Reopening, Misalignment, and Non-Evasion",
-      "source_anchor": "#16-reopening-drift-and-non-evasion",
+      "source_anchor": "#16-reopening-misalignment-and-non-evasion",
       "target_file": "core_03_definition_integrity.md",
       "target_anchor": "#21-common-evasion-patterns",
       "count": 2
@@ -72177,7 +72177,7 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "16. Reopening, Misalignment, and Non-Evasion",
-      "source_anchor": "#16-reopening-drift-and-non-evasion",
+      "source_anchor": "#16-reopening-misalignment-and-non-evasion",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#charter",
       "count": 2
@@ -72185,7 +72185,7 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "16. Reopening, Misalignment, and Non-Evasion",
-      "source_anchor": "#16-reopening-drift-and-non-evasion",
+      "source_anchor": "#16-reopening-misalignment-and-non-evasion",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#2-system-class-evaluation",
       "count": 2
@@ -72193,7 +72193,7 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "16. Reopening, Misalignment, and Non-Evasion",
-      "source_anchor": "#16-reopening-drift-and-non-evasion",
+      "source_anchor": "#16-reopening-misalignment-and-non-evasion",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#31-systemic-scope-and-risk-factors",
       "count": 2
@@ -72201,7 +72201,7 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "16. Reopening, Misalignment, and Non-Evasion",
-      "source_anchor": "#16-reopening-drift-and-non-evasion",
+      "source_anchor": "#16-reopening-misalignment-and-non-evasion",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#5-ecological-footprint-evaluation",
       "count": 2
@@ -72209,15 +72209,15 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "16. Reopening, Misalignment, and Non-Evasion",
-      "source_anchor": "#16-reopening-drift-and-non-evasion",
+      "source_anchor": "#16-reopening-misalignment-and-non-evasion",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "target_anchor": "#6-proportionate-cross-system-contribution-evaluation",
       "count": 2
     },
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "16. Reopening, Misalignment, and Non-Evasion",
-      "source_anchor": "#16-reopening-drift-and-non-evasion",
+      "source_anchor": "#16-reopening-misalignment-and-non-evasion",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#7-nondiscrimination-evaluation",
       "count": 2
@@ -72225,7 +72225,7 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "16. Reopening, Misalignment, and Non-Evasion",
-      "source_anchor": "#16-reopening-drift-and-non-evasion",
+      "source_anchor": "#16-reopening-misalignment-and-non-evasion",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#8-accessibility-evaluation",
       "count": 2
@@ -72233,7 +72233,7 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "16. Reopening, Misalignment, and Non-Evasion",
-      "source_anchor": "#16-reopening-drift-and-non-evasion",
+      "source_anchor": "#16-reopening-misalignment-and-non-evasion",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#9-educational-capability-and-learning-system-integrity-evaluation",
       "count": 2
@@ -72241,7 +72241,7 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "16. Reopening, Misalignment, and Non-Evasion",
-      "source_anchor": "#16-reopening-drift-and-non-evasion",
+      "source_anchor": "#16-reopening-misalignment-and-non-evasion",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#10-trustworthiness-and-system-reliance-integrity-evaluation",
       "count": 2
@@ -72249,7 +72249,7 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "16. Reopening, Misalignment, and Non-Evasion",
-      "source_anchor": "#16-reopening-drift-and-non-evasion",
+      "source_anchor": "#16-reopening-misalignment-and-non-evasion",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#4-data-types-and-handling-evaluation",
       "count": 1
@@ -72257,7 +72257,7 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "16. Reopening, Misalignment, and Non-Evasion",
-      "source_anchor": "#16-reopening-drift-and-non-evasion",
+      "source_anchor": "#16-reopening-misalignment-and-non-evasion",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#chapter-eight-part-a-certification-evaluation",
       "count": 1
@@ -72265,7 +72265,7 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "16. Reopening, Misalignment, and Non-Evasion",
-      "source_anchor": "#16-reopening-drift-and-non-evasion",
+      "source_anchor": "#16-reopening-misalignment-and-non-evasion",
       "target_file": "core_09_standing_assessment.md",
       "target_anchor": "#chapter-nine-compliance-violation-and-standing-model",
       "count": 1
@@ -72273,7 +72273,7 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "16. Reopening, Misalignment, and Non-Evasion",
-      "source_anchor": "#16-reopening-drift-and-non-evasion",
+      "source_anchor": "#16-reopening-misalignment-and-non-evasion",
       "target_file": "core_09_standing_assessment.md",
       "target_anchor": null,
       "count": 1
@@ -72281,7 +72281,7 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "16. Reopening, Misalignment, and Non-Evasion",
-      "source_anchor": "#16-reopening-drift-and-non-evasion",
+      "source_anchor": "#16-reopening-misalignment-and-non-evasion",
       "target_file": "core_12_forum.md",
       "target_anchor": "#chapter-twelve-forums-and-jurisdiction",
       "count": 1
@@ -72289,7 +72289,7 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "16. Reopening, Misalignment, and Non-Evasion",
-      "source_anchor": "#16-reopening-drift-and-non-evasion",
+      "source_anchor": "#16-reopening-misalignment-and-non-evasion",
       "target_file": "corpus_systems.md",
       "target_anchor": null,
       "count": 1
@@ -72297,7 +72297,7 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "16. Reopening, Misalignment, and Non-Evasion",
-      "source_anchor": "#16-reopening-drift-and-non-evasion",
+      "source_anchor": "#16-reopening-misalignment-and-non-evasion",
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#52-reclassification-and-lifecycle-governance",
       "count": 2
@@ -72305,7 +72305,7 @@
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "16. Reopening, Misalignment, and Non-Evasion",
-      "source_anchor": "#16-reopening-drift-and-non-evasion",
+      "source_anchor": "#16-reopening-misalignment-and-non-evasion",
       "target_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
       "target_anchor": "#35-reclassification-requirement",
       "count": 2
@@ -72475,7 +72475,7 @@
       "source_header": "4. Stewardship delay and deferred repair",
       "source_anchor": "#4-stewardship-delay-and-deferred-repair",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#10-consequential-stewardship",
+      "target_anchor": "#10-consequential-stewardship-the-steward-role",
       "count": 1
     },
     {
@@ -72499,7 +72499,7 @@
       "source_header": "4. Stewardship delay and deferred repair",
       "source_anchor": "#4-stewardship-delay-and-deferred-repair",
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#7-unified-proportional-lequ-scale",
+      "target_anchor": "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
       "count": 1
     },
     {
@@ -72507,7 +72507,7 @@
       "source_header": "4. Stewardship delay and deferred repair",
       "source_anchor": "#4-stewardship-delay-and-deferred-repair",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#95-timely-implementation-and-reassessment",
+      "target_anchor": "#95-timely-implementation",
       "count": 1
     },
     {
@@ -72555,7 +72555,7 @@
       "source_header": "CHAPTERS NINE–TWELVE: PIPELINE APPLICATION VIGNETTES",
       "source_anchor": "#chapters-nine-twelve-application-vignettes",
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#2-standing-records",
+      "target_anchor": "#2-question-1--what-happened",
       "count": 1
     },
     {
@@ -72579,7 +72579,7 @@
       "source_header": "CHAPTERS NINE–TWELVE: PIPELINE APPLICATION VIGNETTES",
       "source_anchor": "#chapters-nine-twelve-application-vignettes",
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#7-unified-proportional-lequ-scale",
+      "target_anchor": "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
       "count": 1
     },
     {
@@ -72595,7 +72595,7 @@
       "source_header": "CHAPTERS NINE–TWELVE: PIPELINE APPLICATION VIGNETTES",
       "source_anchor": "#chapters-nine-twelve-application-vignettes",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-general-standing-locks",
+      "target_anchor": "#42-prevention--general-standing-locks",
       "count": 1
     },
     {
@@ -72755,7 +72755,7 @@
       "source_header": "Cross-vignette discipline",
       "source_anchor": null,
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#7-unified-proportional-lequ-scale",
+      "target_anchor": "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
       "count": 1
     },
     {
@@ -72875,7 +72875,7 @@
       "source_header": "Pipeline pass",
       "source_anchor": null,
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#2-standing-records",
+      "target_anchor": "#2-question-1--what-happened",
       "count": 1
     },
     {
@@ -72883,7 +72883,7 @@
       "source_header": "Pipeline pass",
       "source_anchor": null,
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#7-unified-proportional-lequ-scale",
+      "target_anchor": "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
       "count": 1
     },
     {
@@ -72907,7 +72907,7 @@
       "source_header": "Pipeline pass",
       "source_anchor": null,
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#21-standing-records-as-the-unit-of-application",
+      "target_anchor": "#21-what-question-1-must-establish",
       "count": 1
     },
     {
@@ -72915,7 +72915,7 @@
       "source_header": "Pipeline pass",
       "source_anchor": null,
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-general-standing-locks",
+      "target_anchor": "#42-prevention--general-standing-locks",
       "count": 1
     },
     {
@@ -73011,7 +73011,7 @@
       "source_header": "What the year looks like",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "target_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "count": 1
     },
     {
@@ -73067,7 +73067,7 @@
       "source_header": "What the year looks like",
       "source_anchor": null,
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#21-standing-records-as-the-unit-of-application",
+      "target_anchor": "#21-what-question-1-must-establish",
       "count": 1
     },
     {
@@ -73113,7 +73113,7 @@
     {
       "source_file": "core_09_standing_assessment.md",
       "source_header": "2. Question 1 — what happened?",
-      "source_anchor": "#2-standing-records",
+      "source_anchor": "#2-question-1--what-happened",
       "target_file": "core_02_definition_structure.md",
       "target_anchor": null,
       "count": 1
@@ -73121,7 +73121,7 @@
     {
       "source_file": "core_09_standing_assessment.md",
       "source_header": "2. Question 1 — what happened?",
-      "source_anchor": "#2-standing-records",
+      "source_anchor": "#2-question-1--what-happened",
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#chapter-ten-standing-effects-and-integration",
       "count": 1
@@ -73129,7 +73129,7 @@
     {
       "source_file": "core_09_standing_assessment.md",
       "source_header": "2.1 What Question 1 must establish",
-      "source_anchor": "#21-standing-records-as-the-unit-of-application",
+      "source_anchor": "#21-what-question-1-must-establish",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#evidence-preservation",
       "count": 1
@@ -73137,7 +73137,7 @@
     {
       "source_file": "core_09_standing_assessment.md",
       "source_header": "2.1 What Question 1 must establish",
-      "source_anchor": "#21-standing-records-as-the-unit-of-application",
+      "source_anchor": "#21-what-question-1-must-establish",
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#62-competency-bars-and-clearances",
       "count": 1
@@ -73155,7 +73155,7 @@
       "source_header": "2.2 Linked records and no-offset bridge",
       "source_anchor": "#22-linked-records-and-no-offset-bridge",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#2-integration-record-and-decision-order",
+      "target_anchor": "#2-automatic-integration-review-and-continuity",
       "count": 1
     },
     {
@@ -73171,7 +73171,7 @@
       "source_header": "2.2 Linked records and no-offset bridge",
       "source_anchor": "#22-linked-records-and-no-offset-bridge",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-general-standing-locks",
+      "target_anchor": "#42-prevention--general-standing-locks",
       "count": 1
     },
     {
@@ -73235,7 +73235,7 @@
       "source_header": "3.6 Forum boundary",
       "source_anchor": "#36-forum-boundary",
       "target_file": "core_12_forum.md",
-      "target_anchor": "#23-forum-records-standing-records-and-contests",
+      "target_anchor": "#23-forum-case-records-standing-records-and-contests",
       "count": 1
     },
     {
@@ -73379,7 +73379,7 @@
       "source_header": "3.7 Record custody and opening authority",
       "source_anchor": "#37-record-custody-and-opening-authority",
       "target_file": "core_12_forum.md",
-      "target_anchor": "#23-forum-records-standing-records-and-contests",
+      "target_anchor": "#23-forum-case-records-standing-records-and-contests",
       "count": 2
     },
     {
@@ -73483,7 +73483,7 @@
       "source_header": "4. Question 2 — how good or bad was it?",
       "source_anchor": "#4-question-2-how-good-or-bad-was-it",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-general-standing-locks",
+      "target_anchor": "#42-prevention--general-standing-locks",
       "count": 2
     },
     {
@@ -73593,7 +73593,7 @@
     {
       "source_file": "core_09_standing_assessment.md",
       "source_header": "4.4 Violation route descriptor catalog and measurement roles",
-      "source_anchor": "#44-violation-route-descriptor-measurement-roles",
+      "source_anchor": "#44-violation-route-descriptor-catalog-and-measurement-roles",
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#3-descriptor-integration-and-attachment-normalization",
       "count": 1
@@ -73601,15 +73601,15 @@
     {
       "source_file": "core_09_standing_assessment.md",
       "source_header": "4.4 Violation route descriptor catalog and measurement roles",
-      "source_anchor": "#44-violation-route-descriptor-measurement-roles",
+      "source_anchor": "#44-violation-route-descriptor-catalog-and-measurement-roles",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-general-standing-locks",
+      "target_anchor": "#42-prevention--general-standing-locks",
       "count": 1
     },
     {
       "source_file": "core_09_standing_assessment.md",
       "source_header": "4.4 Violation route descriptor catalog and measurement roles",
-      "source_anchor": "#44-violation-route-descriptor-measurement-roles",
+      "source_anchor": "#44-violation-route-descriptor-catalog-and-measurement-roles",
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#5-lock-design-and-enforcement",
       "count": 1
@@ -73635,7 +73635,7 @@
       "source_header": "4.5 Cross-question measurement hooks",
       "source_anchor": "#45-dual-use-classification-hooks",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-general-standing-locks",
+      "target_anchor": "#42-prevention--general-standing-locks",
       "count": 12
     },
     {
@@ -73683,7 +73683,7 @@
       "source_header": "4.5.1 Similar-looking facts that must stay separate",
       "source_anchor": "#451-similar-looking-facts-that-must-stay-separate",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#95-timely-implementation-and-reassessment",
+      "target_anchor": "#95-timely-implementation",
       "count": 1
     },
     {
@@ -73713,7 +73713,7 @@
     {
       "source_file": "core_09_standing_assessment.md",
       "source_header": "5.1 Table 1 — slot display labels",
-      "source_anchor": "#51-table-1-slot-display-labels",
+      "source_anchor": "#51-table-1--slot-display-labels",
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#22-recognition-reinforcement-and-aspiration",
       "count": 1
@@ -73721,7 +73721,7 @@
     {
       "source_file": "core_09_standing_assessment.md",
       "source_header": "5.1 Table 1 — slot display labels",
-      "source_anchor": "#51-table-1-slot-display-labels",
+      "source_anchor": "#51-table-1--slot-display-labels",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#12-incentive-alignment-and-system-capture",
       "count": 1
@@ -73729,7 +73729,7 @@
     {
       "source_file": "core_09_standing_assessment.md",
       "source_header": "5.1 Table 1 — slot display labels",
-      "source_anchor": "#51-table-1-slot-display-labels",
+      "source_anchor": "#51-table-1--slot-display-labels",
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#62-competency-bars-and-clearances",
       "count": 1
@@ -73737,7 +73737,7 @@
     {
       "source_file": "core_09_standing_assessment.md",
       "source_header": "5.1 Table 1 — slot display labels",
-      "source_anchor": "#51-table-1-slot-display-labels",
+      "source_anchor": "#51-table-1--slot-display-labels",
       "target_file": "core_11_a_misconduct_designation.md",
       "target_anchor": "#chapter-eleven-anti-constitutional-misconduct",
       "count": 1
@@ -73985,7 +73985,7 @@
     {
       "source_file": "core_09_standing_assessment.md",
       "source_header": "7. Unified proportional LEQU scale — Contribution and Violation Axes",
-      "source_anchor": "#7-unified-proportional-lequ-scale",
+      "source_anchor": "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#chapter-eight-part-b-certification-record-and-process",
       "count": 1
@@ -73993,7 +73993,7 @@
     {
       "source_file": "core_09_standing_assessment.md",
       "source_header": "7. Unified proportional LEQU scale — Contribution and Violation Axes",
-      "source_anchor": "#7-unified-proportional-lequ-scale",
+      "source_anchor": "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#chapter-ten-standing-effects-and-integration",
       "count": 1
@@ -74001,7 +74001,7 @@
     {
       "source_file": "core_09_standing_assessment.md",
       "source_header": "7. Unified proportional LEQU scale — Contribution and Violation Axes",
-      "source_anchor": "#7-unified-proportional-lequ-scale",
+      "source_anchor": "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
       "target_file": "core_10_standing_integration.md",
       "target_anchor": null,
       "count": 1
@@ -74257,7 +74257,7 @@
     {
       "source_file": "core_10_standing_integration.md",
       "source_header": "1. Chapter Nine records do not change",
-      "source_anchor": "#1-immutable-chapter-nine-inputs",
+      "source_anchor": "#1-chapter-nine-records-do-not-change",
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": "#chapter-six-foundational-rights",
       "count": 1
@@ -74441,7 +74441,7 @@
     {
       "source_file": "core_10_standing_integration.md",
       "source_header": "2. Automatic integration, review, and continuity",
-      "source_anchor": "#2-integration-record-and-decision-order",
+      "source_anchor": "#2-automatic-integration-review-and-continuity",
       "target_file": "core_11_a_misconduct_designation.md",
       "target_anchor": "#chapter-eleven-anti-constitutional-misconduct",
       "count": 1
@@ -74457,7 +74457,7 @@
     {
       "source_file": "core_10_standing_integration.md",
       "source_header": "4.2 Prevention — general standing locks",
-      "source_anchor": "#42-general-standing-locks",
+      "source_anchor": "#42-prevention--general-standing-locks",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#stakeholder-weight",
       "count": 1
@@ -74465,7 +74465,7 @@
     {
       "source_file": "core_10_standing_integration.md",
       "source_header": "4.2 Prevention — general standing locks",
-      "source_anchor": "#42-general-standing-locks",
+      "source_anchor": "#42-prevention--general-standing-locks",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#binding-stakeholder-choice-cluster",
       "count": 1
@@ -74473,7 +74473,7 @@
     {
       "source_file": "core_10_standing_integration.md",
       "source_header": "4.2 Prevention — general standing locks",
-      "source_anchor": "#42-general-standing-locks",
+      "source_anchor": "#42-prevention--general-standing-locks",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#stakeholder",
       "count": 1
@@ -74481,7 +74481,7 @@
     {
       "source_file": "core_10_standing_integration.md",
       "source_header": "4.2 Prevention — general standing locks",
-      "source_anchor": "#42-general-standing-locks",
+      "source_anchor": "#42-prevention--general-standing-locks",
       "target_file": "core_09_standing_assessment.md",
       "target_anchor": "#22-linked-records-and-no-offset-bridge",
       "count": 1
@@ -74489,7 +74489,7 @@
     {
       "source_file": "core_10_standing_integration.md",
       "source_header": "4.2 Prevention — general standing locks",
-      "source_anchor": "#42-general-standing-locks",
+      "source_anchor": "#42-prevention--general-standing-locks",
       "target_file": "core_13_governance.md",
       "target_anchor": "#41-entitlement-and-eligibility",
       "count": 1
@@ -74547,7 +74547,7 @@
       "source_header": "4.4 Remedy parity and lock preconditions",
       "source_anchor": "#44-remedy-parity-and-lock-preconditions",
       "target_file": "core_12_forum.md",
-      "target_anchor": "#3-transfer-consolidation-and-coordination",
+      "target_anchor": "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
       "count": 1
     },
     {
@@ -74707,7 +74707,7 @@
       "source_header": "7.2 Plain statement of effect and burden",
       "source_anchor": "#72-plain-statement-of-effect-and-burden",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "target_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "count": 1
     },
     {
@@ -74771,7 +74771,7 @@
       "source_header": "8. Restoration and reassessment",
       "source_anchor": "#8-restoration-and-reassessment",
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#21-standing-records-as-the-unit-of-application",
+      "target_anchor": "#21-what-question-1-must-establish",
       "count": 1
     },
     {
@@ -74785,7 +74785,7 @@
     {
       "source_file": "core_10_standing_integration.md",
       "source_header": "9. Enforcement realism and remedy systems",
-      "source_anchor": "#9-enforcement-realism",
+      "source_anchor": "#9-enforcement-realism-and-remedy-systems",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#remedy-system-constitutional",
       "count": 1
@@ -74793,7 +74793,7 @@
     {
       "source_file": "core_10_standing_integration.md",
       "source_header": "9. Enforcement realism and remedy systems",
-      "source_anchor": "#9-enforcement-realism",
+      "source_anchor": "#9-enforcement-realism-and-remedy-systems",
       "target_file": "core_12_forum.md",
       "target_anchor": "#chapter-twelve-forums-and-jurisdiction",
       "count": 1
@@ -74801,7 +74801,7 @@
     {
       "source_file": "core_10_standing_integration.md",
       "source_header": "9. Enforcement realism and remedy systems",
-      "source_anchor": "#9-enforcement-realism",
+      "source_anchor": "#9-enforcement-realism-and-remedy-systems",
       "target_file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
       "target_anchor": null,
       "count": 1
@@ -74873,7 +74873,7 @@
     {
       "source_file": "core_10_standing_integration.md",
       "source_header": "9.5 Timely implementation",
-      "source_anchor": "#95-timely-implementation-and-reassessment",
+      "source_anchor": "#95-timely-implementation",
       "target_file": "core_05_apex_timeliness_leg.md",
       "target_anchor": "#timeliness-constitutional",
       "count": 1
@@ -74881,7 +74881,7 @@
     {
       "source_file": "core_10_standing_integration.md",
       "source_header": "9.5 Timely implementation",
-      "source_anchor": "#95-timely-implementation-and-reassessment",
+      "source_anchor": "#95-timely-implementation",
       "target_file": "core_12_forum.md",
       "target_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
       "count": 1
@@ -74963,7 +74963,7 @@
       "source_header": "1. How designation decisions work — Continuity and tetrad-capture frame",
       "source_anchor": "#1-decision-framework-scope-and-authority",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#2-integration-record-and-decision-order",
+      "target_anchor": "#2-automatic-integration-review-and-continuity",
       "count": 1
     },
     {
@@ -75451,7 +75451,7 @@
       "source_header": "4.2 Prevention — anti-constitutional locks",
       "source_anchor": "#4-2-prevention-anti-constitutional-locks",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-general-standing-locks",
+      "target_anchor": "#42-prevention--general-standing-locks",
       "count": 1
     },
     {
@@ -75691,7 +75691,7 @@
       "source_header": "CHAPTER ELEVEN, PART A: ANTI-CONSTITUTIONAL MISCONDUCT — DESIGNATION",
       "source_anchor": "#chapter-eleven-part-a-anti-constitutional-misconduct-designation",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#2-integration-record-and-decision-order",
+      "target_anchor": "#2-automatic-integration-review-and-continuity",
       "count": 1
     },
     {
@@ -75747,7 +75747,7 @@
       "source_header": "5. Pattern applications and criteria routing — Participation and pathway integrity",
       "source_anchor": "#5-pattern-applications-and-criteria-routing",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-general-standing-locks",
+      "target_anchor": "#42-prevention--general-standing-locks",
       "count": 1
     },
     {
@@ -76003,7 +76003,7 @@
       "source_header": "5.10 Forum recusal failure and biased panel participation",
       "source_anchor": "#510-forum-recusal-failure-and-biased-panel-participation",
       "target_file": "core_12_forum.md",
-      "target_anchor": "#3-transfer-consolidation-and-coordination",
+      "target_anchor": "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
       "count": 1
     },
     {
@@ -76195,7 +76195,7 @@
       "source_header": "5.11 Obstruction of accountability: criteria interaction",
       "source_anchor": "#511-obstruction-of-accountability-criteria-interaction",
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#44-violation-route-descriptor-measurement-roles",
+      "target_anchor": "#44-violation-route-descriptor-catalog-and-measurement-roles",
       "count": 1
     },
     {
@@ -76379,7 +76379,7 @@
       "source_header": "5.2 Rights-Floor waivers and unconstitutional contract terms",
       "source_anchor": "#52-rights-floor-waivers-and-unconstitutional-contract-terms",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#2-integration-record-and-decision-order",
+      "target_anchor": "#2-automatic-integration-review-and-continuity",
       "count": 1
     },
     {
@@ -76515,7 +76515,7 @@
       "source_header": "5.3 Flooding the zone and contest-pathway denial",
       "source_anchor": "#53-flooding-the-zone-and-contest-pathway-denial",
       "target_file": "core_12_forum.md",
-      "target_anchor": "#3-transfer-consolidation-and-coordination",
+      "target_anchor": "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
       "count": 1
     },
     {
@@ -77491,7 +77491,7 @@
       "source_header": "5.7 Reward, protection, or normalization of anti-constitutional conduct",
       "source_anchor": "#57-reward-protection-or-normalization-of-anti-constitutional-conduct",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#2-integration-record-and-decision-order",
+      "target_anchor": "#2-automatic-integration-review-and-continuity",
       "count": 1
     },
     {
@@ -77971,7 +77971,7 @@
       "source_header": "5.9 Infrastructure denial, destruction, or dependency cutoff conduct",
       "source_anchor": "#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct",
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#7-unified-proportional-lequ-scale",
+      "target_anchor": "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
       "count": 1
     },
     {
@@ -78025,7 +78025,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
-      "source_anchor": "#1-purpose-and-role",
+      "source_anchor": "#1-purpose-and-role--participation-architecture",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#material-stake",
       "count": 1
@@ -78033,7 +78033,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
-      "source_anchor": "#1-purpose-and-role",
+      "source_anchor": "#1-purpose-and-role--participation-architecture",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#32-key-governance-processes",
       "count": 1
@@ -78041,7 +78041,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
-      "source_anchor": "#1-purpose-and-role",
+      "source_anchor": "#1-purpose-and-role--participation-architecture",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#33-governance-layers",
       "count": 1
@@ -78049,7 +78049,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
-      "source_anchor": "#1-purpose-and-role",
+      "source_anchor": "#1-purpose-and-role--participation-architecture",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#chapter-01-principles-and-constraints",
       "count": 1
@@ -78057,7 +78057,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
-      "source_anchor": "#1-purpose-and-role",
+      "source_anchor": "#1-purpose-and-role--participation-architecture",
       "target_file": "core_02_definition_structure.md",
       "target_anchor": null,
       "count": 1
@@ -78065,7 +78065,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
-      "source_anchor": "#1-purpose-and-role",
+      "source_anchor": "#1-purpose-and-role--participation-architecture",
       "target_file": "core_05__definitions_home.md",
       "target_anchor": "#chapter-five-foundational-definitions",
       "count": 1
@@ -78073,7 +78073,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
-      "source_anchor": "#1-purpose-and-role",
+      "source_anchor": "#1-purpose-and-role--participation-architecture",
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#corpus",
       "count": 1
@@ -78081,7 +78081,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
-      "source_anchor": "#1-purpose-and-role",
+      "source_anchor": "#1-purpose-and-role--participation-architecture",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#stakeholder-status-and-weight-cluster",
       "count": 1
@@ -78089,7 +78089,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
-      "source_anchor": "#1-purpose-and-role",
+      "source_anchor": "#1-purpose-and-role--participation-architecture",
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": "#chapter-six-foundational-rights",
       "count": 1
@@ -78097,7 +78097,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
-      "source_anchor": "#1-purpose-and-role",
+      "source_anchor": "#1-purpose-and-role--participation-architecture",
       "target_file": "core_06_rights_part_b.md",
       "target_anchor": "#article-xi-stakeholder-system-participation-representation-and-due-process",
       "count": 1
@@ -78105,7 +78105,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
-      "source_anchor": "#1-purpose-and-role",
+      "source_anchor": "#1-purpose-and-role--participation-architecture",
       "target_file": "core_06_rights_part_c.md",
       "target_anchor": "#article-xii-b-right-to-challenge-review-and-redress",
       "count": 1
@@ -78113,7 +78113,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
-      "source_anchor": "#1-purpose-and-role",
+      "source_anchor": "#1-purpose-and-role--participation-architecture",
       "target_file": "core_06_rights_part_d.md",
       "target_anchor": "#article-xxiii-a-justice-objective-and-scope",
       "count": 1
@@ -78121,7 +78121,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
-      "source_anchor": "#1-purpose-and-role",
+      "source_anchor": "#1-purpose-and-role--participation-architecture",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#chapter-eight-system-alignment-certification",
       "count": 2
@@ -78129,7 +78129,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
-      "source_anchor": "#1-purpose-and-role",
+      "source_anchor": "#1-purpose-and-role--participation-architecture",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#chapter-eight-part-b-certification-record-and-process",
       "count": 1
@@ -78137,7 +78137,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
-      "source_anchor": "#1-purpose-and-role",
+      "source_anchor": "#1-purpose-and-role--participation-architecture",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#13-forum-supervision-and-component-roles",
       "count": 1
@@ -78145,7 +78145,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
-      "source_anchor": "#1-purpose-and-role",
+      "source_anchor": "#1-purpose-and-role--participation-architecture",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#15-relationship-to-standing",
       "count": 1
@@ -78153,7 +78153,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
-      "source_anchor": "#1-purpose-and-role",
+      "source_anchor": "#1-purpose-and-role--participation-architecture",
       "target_file": "core_09_standing_assessment.md",
       "target_anchor": "#chapter-nine-compliance-violation-and-standing-model",
       "count": 1
@@ -78161,7 +78161,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
-      "source_anchor": "#1-purpose-and-role",
+      "source_anchor": "#1-purpose-and-role--participation-architecture",
       "target_file": "core_09_standing_assessment.md",
       "target_anchor": "#3-standing-record-operational-requirements",
       "count": 1
@@ -78169,7 +78169,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
-      "source_anchor": "#1-purpose-and-role",
+      "source_anchor": "#1-purpose-and-role--participation-architecture",
       "target_file": "core_09_standing_assessment.md",
       "target_anchor": "#36-forum-boundary",
       "count": 1
@@ -78177,7 +78177,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
-      "source_anchor": "#1-purpose-and-role",
+      "source_anchor": "#1-purpose-and-role--participation-architecture",
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#chapter-ten-standing-effects-and-integration",
       "count": 1
@@ -78185,15 +78185,15 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
-      "source_anchor": "#1-purpose-and-role",
+      "source_anchor": "#1-purpose-and-role--participation-architecture",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#9-enforcement-realism",
+      "target_anchor": "#9-enforcement-realism-and-remedy-systems",
       "count": 1
     },
     {
       "source_file": "core_12_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
-      "source_anchor": "#1-purpose-and-role",
+      "source_anchor": "#1-purpose-and-role--participation-architecture",
       "target_file": "core_11_a_misconduct_designation.md",
       "target_anchor": "#chapter-eleven-anti-constitutional-misconduct",
       "count": 1
@@ -78201,7 +78201,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
-      "source_anchor": "#1-purpose-and-role",
+      "source_anchor": "#1-purpose-and-role--participation-architecture",
       "target_file": "core_13_governance.md",
       "target_anchor": "#12-eligibility-contested-selection-and-democratic-minimums",
       "count": 1
@@ -78209,7 +78209,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
-      "source_anchor": "#1-purpose-and-role",
+      "source_anchor": "#1-purpose-and-role--participation-architecture",
       "target_file": "core_13_governance.md",
       "target_anchor": "#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship",
       "count": 1
@@ -78217,7 +78217,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
-      "source_anchor": "#1-purpose-and-role",
+      "source_anchor": "#1-purpose-and-role--participation-architecture",
       "target_file": "corpus_forum.md",
       "target_anchor": null,
       "count": 1
@@ -78225,7 +78225,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
-      "source_anchor": "#1-purpose-and-role",
+      "source_anchor": "#1-purpose-and-role--participation-architecture",
       "target_file": "corpus_institutions.md",
       "target_anchor": null,
       "count": 1
@@ -78233,7 +78233,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "1. Purpose and role — participation architecture",
-      "source_anchor": "#1-purpose-and-role",
+      "source_anchor": "#1-purpose-and-role--participation-architecture",
       "target_file": "corpus_systems.md",
       "target_anchor": null,
       "count": 1
@@ -78283,7 +78283,7 @@
       "source_header": "2. Default venue and primary stakes",
       "source_anchor": "#2-default-venue-and-primary-stakes",
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#7-unified-proportional-lequ-scale",
+      "target_anchor": "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
       "count": 1
     },
     {
@@ -78345,7 +78345,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "2.3 Forum case records, standing records, and contests",
-      "source_anchor": "#23-forum-records-standing-records-and-contests",
+      "source_anchor": "#23-forum-case-records-standing-records-and-contests",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#forum-case-record",
       "count": 1
@@ -78353,7 +78353,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "2.3 Forum case records, standing records, and contests",
-      "source_anchor": "#23-forum-records-standing-records-and-contests",
+      "source_anchor": "#23-forum-case-records-standing-records-and-contests",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#standing-record-chapter-six",
       "count": 1
@@ -78361,15 +78361,15 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "2.3 Forum case records, standing records, and contests",
-      "source_anchor": "#23-forum-records-standing-records-and-contests",
+      "source_anchor": "#23-forum-case-records-standing-records-and-contests",
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#2-standing-records",
+      "target_anchor": "#2-question-1--what-happened",
       "count": 1
     },
     {
       "source_file": "core_12_forum.md",
       "source_header": "2.3 Forum case records, standing records, and contests",
-      "source_anchor": "#23-forum-records-standing-records-and-contests",
+      "source_anchor": "#23-forum-case-records-standing-records-and-contests",
       "target_file": "core_09_standing_assessment.md",
       "target_anchor": "#37-challenge-received-on-the-record",
       "count": 1
@@ -78377,7 +78377,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "3. Transfer, consolidation, and coordination — continuity and anti-capture",
-      "source_anchor": "#3-transfer-consolidation-and-coordination",
+      "source_anchor": "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#104-aligned-self-organization",
       "count": 1
@@ -78385,7 +78385,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "3. Transfer, consolidation, and coordination — continuity and anti-capture",
-      "source_anchor": "#3-transfer-consolidation-and-coordination",
+      "source_anchor": "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
       "target_file": "core_06_rights_part_c.md",
       "target_anchor": "#article-xii-b-right-to-challenge-review-and-redress",
       "count": 1
@@ -78393,15 +78393,15 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "3. Transfer, consolidation, and coordination — continuity and anti-capture",
-      "source_anchor": "#3-transfer-consolidation-and-coordination",
+      "source_anchor": "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#2-integration-record-and-decision-order",
+      "target_anchor": "#2-automatic-integration-review-and-continuity",
       "count": 1
     },
     {
       "source_file": "core_12_forum.md",
       "source_header": "3. Transfer, consolidation, and coordination — continuity and anti-capture",
-      "source_anchor": "#3-transfer-consolidation-and-coordination",
+      "source_anchor": "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#44-remedy-parity-and-lock-preconditions",
       "count": 2
@@ -78409,7 +78409,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "3. Transfer, consolidation, and coordination — continuity and anti-capture",
-      "source_anchor": "#3-transfer-consolidation-and-coordination",
+      "source_anchor": "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#92-remedy-system-durability",
       "count": 1
@@ -78417,7 +78417,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "3. Transfer, consolidation, and coordination — continuity and anti-capture",
-      "source_anchor": "#3-transfer-consolidation-and-coordination",
+      "source_anchor": "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
       "target_file": "corpus_forum.md",
       "target_anchor": null,
       "count": 1
@@ -78425,7 +78425,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "3. Transfer, consolidation, and coordination — continuity and anti-capture",
-      "source_anchor": "#3-transfer-consolidation-and-coordination",
+      "source_anchor": "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
       "target_file": "corpus_institutions.md",
       "target_anchor": null,
       "count": 1
@@ -78433,7 +78433,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "4. Forum family definitions — accountability through adjudication",
-      "source_anchor": "#4-forum-family-definitions",
+      "source_anchor": "#4-forum-family-definitions--accountability-through-adjudication",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#31-using-measurements-in-governance",
       "count": 1
@@ -78441,7 +78441,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "4. Forum family definitions — accountability through adjudication",
-      "source_anchor": "#4-forum-family-definitions",
+      "source_anchor": "#4-forum-family-definitions--accountability-through-adjudication",
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#corpus",
       "count": 1
@@ -78449,7 +78449,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "4. Forum family definitions — accountability through adjudication",
-      "source_anchor": "#4-forum-family-definitions",
+      "source_anchor": "#4-forum-family-definitions--accountability-through-adjudication",
       "target_file": "corpus_forum.md",
       "target_anchor": null,
       "count": 1
@@ -78457,7 +78457,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "4. Forum family definitions — accountability through adjudication",
-      "source_anchor": "#4-forum-family-definitions",
+      "source_anchor": "#4-forum-family-definitions--accountability-through-adjudication",
       "target_file": "corpus_institutions.md",
       "target_anchor": null,
       "count": 1
@@ -78587,7 +78587,7 @@
       "source_header": "5. Escalation and certification",
       "source_anchor": "#5-escalation-and-certification",
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#7-unified-proportional-lequ-scale",
+      "target_anchor": "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
       "count": 1
     },
     {
@@ -78801,7 +78801,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "7. Forum support before, during, and after review — oversight architecture",
-      "source_anchor": "#7-forum-support-before-during-and-after-review",
+      "source_anchor": "#7-forum-support-before-during-and-after-review--oversight-architecture",
       "target_file": "core_06_rights_part_c.md",
       "target_anchor": "#article-xii-b-right-to-challenge-review-and-redress",
       "count": 1
@@ -78809,7 +78809,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "7. Forum support before, during, and after review — oversight architecture",
-      "source_anchor": "#7-forum-support-before-during-and-after-review",
+      "source_anchor": "#7-forum-support-before-during-and-after-review--oversight-architecture",
       "target_file": "core_06_rights_part_c.md",
       "target_anchor": "#article-xv-audit-transparency-and-independent-verification",
       "count": 1
@@ -78817,7 +78817,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "7. Forum support before, during, and after review — oversight architecture",
-      "source_anchor": "#7-forum-support-before-during-and-after-review",
+      "source_anchor": "#7-forum-support-before-during-and-after-review--oversight-architecture",
       "target_file": "core_09-12_application_vignettes.md",
       "target_anchor": null,
       "count": 1
@@ -78825,7 +78825,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "7. Forum support before, during, and after review — oversight architecture",
-      "source_anchor": "#7-forum-support-before-during-and-after-review",
+      "source_anchor": "#7-forum-support-before-during-and-after-review--oversight-architecture",
       "target_file": "core_11_b_misconduct_pattern_applications.md",
       "target_anchor": null,
       "count": 1
@@ -78833,7 +78833,7 @@
     {
       "source_file": "core_12_forum.md",
       "source_header": "7. Forum support before, during, and after review — oversight architecture",
-      "source_anchor": "#7-forum-support-before-during-and-after-review",
+      "source_anchor": "#7-forum-support-before-during-and-after-review--oversight-architecture",
       "target_file": "corpus_forum.md",
       "target_anchor": null,
       "count": 1
@@ -78931,7 +78931,7 @@
       "source_header": "CHAPTER TWELVE: FORUMS AND JURISDICTION",
       "source_anchor": "#chapter-twelve-forums-and-jurisdiction",
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#7-unified-proportional-lequ-scale",
+      "target_anchor": "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
       "count": 2
     },
     {
@@ -79073,7 +79073,7 @@
     {
       "source_file": "core_13_governance.md",
       "source_header": "4.3 Decision-resolution requirements for binding stakeholder choice",
-      "source_anchor": "#43-decision-resolution-requirements-for-binding-collective-choice",
+      "source_anchor": "#43-decision-resolution-requirements-for-binding-stakeholder-choice",
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#615-rights-collision-decision-test",
       "count": 2
@@ -79081,7 +79081,7 @@
     {
       "source_file": "core_13_governance.md",
       "source_header": "4.3 Decision-resolution requirements for binding stakeholder choice",
-      "source_anchor": "#43-decision-resolution-requirements-for-binding-collective-choice",
+      "source_anchor": "#43-decision-resolution-requirements-for-binding-stakeholder-choice",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#emergency-pre-deliberation-action-binding-collective-choice",
       "count": 2
@@ -79089,7 +79089,7 @@
     {
       "source_file": "core_13_governance.md",
       "source_header": "4.3 Decision-resolution requirements for binding stakeholder choice",
-      "source_anchor": "#43-decision-resolution-requirements-for-binding-collective-choice",
+      "source_anchor": "#43-decision-resolution-requirements-for-binding-stakeholder-choice",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#stakeholder-emergency-and-contingency",
       "count": 1
@@ -79097,7 +79097,7 @@
     {
       "source_file": "core_13_governance.md",
       "source_header": "4.3 Decision-resolution requirements for binding stakeholder choice",
-      "source_anchor": "#43-decision-resolution-requirements-for-binding-collective-choice",
+      "source_anchor": "#43-decision-resolution-requirements-for-binding-stakeholder-choice",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#constitutional-emergency-and-contingency",
       "count": 1
@@ -79105,7 +79105,7 @@
     {
       "source_file": "core_13_governance.md",
       "source_header": "4.3 Decision-resolution requirements for binding stakeholder choice",
-      "source_anchor": "#43-decision-resolution-requirements-for-binding-collective-choice",
+      "source_anchor": "#43-decision-resolution-requirements-for-binding-stakeholder-choice",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#emergency-and-contingency-constitutional",
       "count": 1
@@ -79113,7 +79113,7 @@
     {
       "source_file": "core_13_governance.md",
       "source_header": "4.3 Decision-resolution requirements for binding stakeholder choice",
-      "source_anchor": "#43-decision-resolution-requirements-for-binding-collective-choice",
+      "source_anchor": "#43-decision-resolution-requirements-for-binding-stakeholder-choice",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#charter",
       "count": 1
@@ -79121,7 +79121,7 @@
     {
       "source_file": "core_13_governance.md",
       "source_header": "4.3 Decision-resolution requirements for binding stakeholder choice",
-      "source_anchor": "#43-decision-resolution-requirements-for-binding-collective-choice",
+      "source_anchor": "#43-decision-resolution-requirements-for-binding-stakeholder-choice",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#binding-stakeholder-choice-cluster",
       "count": 1
@@ -79129,7 +79129,7 @@
     {
       "source_file": "core_13_governance.md",
       "source_header": "4.3 Decision-resolution requirements for binding stakeholder choice",
-      "source_anchor": "#43-decision-resolution-requirements-for-binding-collective-choice",
+      "source_anchor": "#43-decision-resolution-requirements-for-binding-stakeholder-choice",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#binding-collective-choice-decision-resolution-process",
       "count": 2
@@ -79137,7 +79137,7 @@
     {
       "source_file": "core_13_governance.md",
       "source_header": "4.3 Decision-resolution requirements for binding stakeholder choice",
-      "source_anchor": "#43-decision-resolution-requirements-for-binding-collective-choice",
+      "source_anchor": "#43-decision-resolution-requirements-for-binding-stakeholder-choice",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#stakeholder-representation-and-weight-limits-binding-stakeholder-choice",
       "count": 2
@@ -79145,7 +79145,7 @@
     {
       "source_file": "core_13_governance.md",
       "source_header": "4.3 Decision-resolution requirements for binding stakeholder choice",
-      "source_anchor": "#43-decision-resolution-requirements-for-binding-collective-choice",
+      "source_anchor": "#43-decision-resolution-requirements-for-binding-stakeholder-choice",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#rights-collision-record-binding-stakeholder-choice",
       "count": 2
@@ -79153,7 +79153,7 @@
     {
       "source_file": "core_13_governance.md",
       "source_header": "4.3 Decision-resolution requirements for binding stakeholder choice",
-      "source_anchor": "#43-decision-resolution-requirements-for-binding-collective-choice",
+      "source_anchor": "#43-decision-resolution-requirements-for-binding-stakeholder-choice",
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": "#chapter-six-foundational-rights",
       "count": 1
@@ -79161,7 +79161,7 @@
     {
       "source_file": "core_13_governance.md",
       "source_header": "4.3 Decision-resolution requirements for binding stakeholder choice",
-      "source_anchor": "#43-decision-resolution-requirements-for-binding-collective-choice",
+      "source_anchor": "#43-decision-resolution-requirements-for-binding-stakeholder-choice",
       "target_file": "core_06_rights_part_d.md",
       "target_anchor": "#article-xxiv-b-rights-collision-procedure-and-restorative-alignment",
       "count": 1
@@ -79515,7 +79515,7 @@
       "source_header": "3. Strategy, Stewardship Direction, and Ecosystem Value (Non-Corporate)",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#3-non-negotiable-constraints-safety-and-truth",
+      "target_anchor": "#3-non-negotiable-principle-constraints-safety-and-truth",
       "count": 1
     },
     {
@@ -79827,7 +79827,7 @@
       "source_header": "4.1 Entitlement and eligibility",
       "source_anchor": null,
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-general-standing-locks",
+      "target_anchor": "#42-prevention--general-standing-locks",
       "count": 2
     },
     {
@@ -79961,7 +79961,7 @@
     {
       "source_file": "core_14_non_regression.md",
       "source_header": "2. Test 1 — Substantive Non-Regression Validity",
-      "source_anchor": "#2-test-1-substantive-non-regression-validity",
+      "source_anchor": "#2-test-1--substantive-non-regression-validity",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#chapter-01-principles-and-constraints",
       "count": 1
@@ -79969,7 +79969,7 @@
     {
       "source_file": "core_14_non_regression.md",
       "source_header": "2. Test 1 — Substantive Non-Regression Validity",
-      "source_anchor": "#2-test-1-substantive-non-regression-validity",
+      "source_anchor": "#2-test-1--substantive-non-regression-validity",
       "target_file": "core_13_governance.md",
       "target_anchor": "#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship",
       "count": 1
@@ -79977,7 +79977,7 @@
     {
       "source_file": "core_14_non_regression.md",
       "source_header": "2. Test 1 — Substantive Non-Regression Validity",
-      "source_anchor": "#2-test-1-substantive-non-regression-validity",
+      "source_anchor": "#2-test-1--substantive-non-regression-validity",
       "target_file": "core_16_amendment_ratification.md",
       "target_anchor": "#chapter-sixteen-amendment-ratification-and-procedural-validity",
       "count": 1
@@ -80131,7 +80131,7 @@
       "source_header": "CHAPTER FOURTEEN: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY",
       "source_anchor": "#chapter-fourteen-non-regression-and-substantive-amendment-validity",
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#7-unified-proportional-lequ-scale",
+      "target_anchor": "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
       "count": 1
     },
     {
@@ -80275,7 +80275,7 @@
       "source_header": "3. Anti-Evasion Clause and Constitutional-Misconduct Referral",
       "source_anchor": null,
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#7-unified-proportional-lequ-scale",
+      "target_anchor": "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
       "count": 1
     },
     {
@@ -80299,7 +80299,7 @@
       "source_header": "3. Anti-Evasion Clause and Constitutional-Misconduct Referral",
       "source_anchor": null,
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#2-integration-record-and-decision-order",
+      "target_anchor": "#2-automatic-integration-review-and-continuity",
       "count": 2
     },
     {
@@ -80347,7 +80347,7 @@
       "source_header": "3.2 Stricter External Protections",
       "source_anchor": "#32-stricter-external-protections",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#3-non-negotiable-constraints-safety-and-truth",
+      "target_anchor": "#3-non-negotiable-principle-constraints-safety-and-truth",
       "count": 1
     },
     {
@@ -80387,7 +80387,7 @@
       "source_header": "CHAPTER FIFTEEN: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS",
       "source_anchor": "#chapter-fifteen-expansion-supremacy-and-external-legal-orders",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#9-enforcement-realism",
+      "target_anchor": "#9-enforcement-realism-and-remedy-systems",
       "count": 1
     },
     {
@@ -80499,7 +80499,7 @@
       "source_header": "3.3 Conflict Disclosure and Mitigation",
       "source_anchor": null,
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#9-enforcement-realism",
+      "target_anchor": "#9-enforcement-realism-and-remedy-systems",
       "count": 2
     },
     {
@@ -80721,7 +80721,7 @@
     {
       "source_file": "core_16_amendment_ratification.md",
       "source_header": "4. Test 2 — Procedural Validity and Publication Integrity",
-      "source_anchor": "#4-test-2-procedural-validity-and-publication-integrity",
+      "source_anchor": "#4-test-2--procedural-validity-and-publication-integrity",
       "target_file": "core_04_burden_traceability_verification.md",
       "target_anchor": "#chapter-four-burden-of-proof-traceability-and-verification",
       "count": 1
@@ -80729,7 +80729,7 @@
     {
       "source_file": "core_16_amendment_ratification.md",
       "source_header": "5. Test 3 — Authority-Chain and Custody Validity",
-      "source_anchor": "#5-test-3-authority-chain-and-custody-validity",
+      "source_anchor": "#5-test-3--authority-chain-and-custody-validity",
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#corpus",
       "count": 2
@@ -80737,7 +80737,7 @@
     {
       "source_file": "core_16_amendment_ratification.md",
       "source_header": "5. Test 3 — Authority-Chain and Custody Validity",
-      "source_anchor": "#5-test-3-authority-chain-and-custody-validity",
+      "source_anchor": "#5-test-3--authority-chain-and-custody-validity",
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#corpus-authority-stack-supremacy-and-enforceability-cluster",
       "count": 1
@@ -80745,7 +80745,7 @@
     {
       "source_file": "core_16_amendment_ratification.md",
       "source_header": "6. Test 4 — Contestability and Independent Review Validity",
-      "source_anchor": "#6-test-4-contestability-and-independent-review-validity",
+      "source_anchor": "#6-test-4--contestability-and-independent-review-validity",
       "target_file": "core_06_rights_part_c.md",
       "target_anchor": "#article-xii-b-right-to-challenge-review-and-redress",
       "count": 1
@@ -80753,7 +80753,7 @@
     {
       "source_file": "core_16_amendment_ratification.md",
       "source_header": "6. Test 4 — Contestability and Independent Review Validity",
-      "source_anchor": "#6-test-4-contestability-and-independent-review-validity",
+      "source_anchor": "#6-test-4--contestability-and-independent-review-validity",
       "target_file": "core_06_rights_part_c.md",
       "target_anchor": "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards",
       "count": 1
@@ -80971,7 +80971,7 @@
       "source_header": "7. Review Triggers",
       "source_anchor": null,
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#7-unified-proportional-lequ-scale",
+      "target_anchor": "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
       "count": 2
     },
     {
@@ -81763,7 +81763,7 @@
       "source_header": "Forums domain routing (integrator annex)",
       "source_anchor": "#forums-domain-routing-integrator-annex",
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#844-combined-satisfaction",
+      "target_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "count": 1
     },
     {
@@ -81835,7 +81835,7 @@
       "source_header": "Forums read-with pointers",
       "source_anchor": "#forums-read-with-pointers",
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#844-combined-satisfaction",
+      "target_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "count": 3
     },
     {
@@ -82243,7 +82243,7 @@
       "source_header": "CF-1: Scope, authority, and boundary rules",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#844-combined-satisfaction",
+      "target_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "count": 3
     },
     {
@@ -83739,7 +83739,7 @@
       "source_header": "CF-5.4 Capacity-failure routing",
       "source_anchor": "#cf-54-capacity-failure-routing",
       "target_file": "core_12_forum.md",
-      "target_anchor": "#3-transfer-consolidation-and-coordination",
+      "target_anchor": "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
       "count": 1
     },
     {
@@ -83779,7 +83779,7 @@
       "source_header": "CF-5.3 Natural-systems representatives",
       "source_anchor": null,
       "target_file": "core_12_forum.md",
-      "target_anchor": "#3-transfer-consolidation-and-coordination",
+      "target_anchor": "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
       "count": 1
     },
     {
@@ -86043,7 +86043,7 @@
       "source_header": "CF-8: Forum forensic and analytical support",
       "source_anchor": null,
       "target_file": "core_12_forum.md",
-      "target_anchor": "#7-forum-support-before-during-and-after-review",
+      "target_anchor": "#7-forum-support-before-during-and-after-review--oversight-architecture",
       "count": 1
     },
     {
@@ -87179,7 +87179,7 @@
       "source_header": "CF-9: Independent investigative service and prosecution interface",
       "source_anchor": null,
       "target_file": "core_12_forum.md",
-      "target_anchor": "#7-forum-support-before-during-and-after-review",
+      "target_anchor": "#7-forum-support-before-during-and-after-review--oversight-architecture",
       "count": 1
     },
     {
@@ -87867,7 +87867,7 @@
       "source_header": "CF-11.3.1 Target windows and timing floors",
       "source_anchor": null,
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#2-standing-records",
+      "target_anchor": "#2-question-1--what-happened",
       "count": 1
     },
     {
@@ -92635,7 +92635,7 @@
       "source_header": "Institutions domain routing (integrator annex)",
       "source_anchor": "#institutions-domain-routing-integrator-annex",
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#844-combined-satisfaction",
+      "target_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "count": 1
     },
     {
@@ -92715,7 +92715,7 @@
       "source_header": "Institutions read-with pointers",
       "source_anchor": "#institutions-read-with-pointers",
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#844-combined-satisfaction",
+      "target_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "count": 3
     },
     {
@@ -92931,7 +92931,7 @@
       "source_header": "CI-1.1: Anti-constitutional misconduct usage",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#844-combined-satisfaction",
+      "target_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "count": 1
     },
     {
@@ -92963,7 +92963,7 @@
       "source_header": "CI-1.2: Proportionality rule",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#844-combined-satisfaction",
+      "target_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "count": 1
     },
     {
@@ -93003,7 +93003,7 @@
       "source_header": "CI-1: Scope, purpose, and legitimacy interface",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#844-combined-satisfaction",
+      "target_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "count": 3
     },
     {
@@ -93635,7 +93635,7 @@
       "source_header": "CI-3.6: Charter contents, review, and formation template",
       "source_anchor": null,
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 1
     },
     {
@@ -93683,7 +93683,7 @@
       "source_header": "CI-3.6: Charter contents, review, and formation template",
       "source_anchor": null,
       "target_file": "core_13_governance.md",
-      "target_anchor": "#43-decision-resolution-requirements-for-binding-collective-choice",
+      "target_anchor": "#43-decision-resolution-requirements-for-binding-stakeholder-choice",
       "count": 1
     },
     {
@@ -94715,7 +94715,7 @@
       "source_header": "CI-4.2: Role criteria, appointment standards, and removal pathways",
       "source_anchor": null,
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-general-standing-locks",
+      "target_anchor": "#42-prevention--general-standing-locks",
       "count": 1
     },
     {
@@ -94859,7 +94859,7 @@
       "source_header": "CI-4.5: Authorized roles and accountability chains",
       "source_anchor": null,
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-general-standing-locks",
+      "target_anchor": "#42-prevention--general-standing-locks",
       "count": 1
     },
     {
@@ -95291,7 +95291,7 @@
       "source_header": "CI-4: Appointment, competency, rotation, and removal",
       "source_anchor": null,
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-general-standing-locks",
+      "target_anchor": "#42-prevention--general-standing-locks",
       "count": 2
     },
     {
@@ -102531,7 +102531,7 @@
       "source_header": "CI-27.2: Durability, backlog, and publication",
       "source_anchor": "#ci-272-durability-backlog-and-publication",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#9-enforcement-realism",
+      "target_anchor": "#9-enforcement-realism-and-remedy-systems",
       "count": 1
     },
     {
@@ -102843,7 +102843,7 @@
       "source_header": "CI-27: Remedy systems and institutional redress capacity",
       "source_anchor": null,
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#9-enforcement-realism",
+      "target_anchor": "#9-enforcement-realism-and-remedy-systems",
       "count": 2
     },
     {
@@ -103147,7 +103147,7 @@
       "source_header": "CJS-0.1: Cross-file routing",
       "source_anchor": "#cjs-01-cross-file-routing",
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#844-combined-satisfaction",
+      "target_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "count": 4
     },
     {
@@ -103491,7 +103491,7 @@
       "source_header": "Maintainer-only detail: authoritative topic router",
       "source_anchor": "#cross-file-routing",
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#844-combined-satisfaction",
+      "target_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "count": 1
     },
     {
@@ -103755,7 +103755,7 @@
       "source_header": "CJS-0: Registry and reading rules",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#844-combined-satisfaction",
+      "target_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "count": 1
     },
     {
@@ -103923,7 +103923,7 @@
       "source_header": "CJS-1.0: Purpose of this layer",
       "source_anchor": "#cjs-10-purpose-of-this-layer",
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#844-combined-satisfaction",
+      "target_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "count": 3
     },
     {
@@ -103987,7 +103987,7 @@
       "source_header": "CJS-1.1: Section identifiers and article references",
       "source_anchor": "#cjs-11-section-identifiers-and-article-references",
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#844-combined-satisfaction",
+      "target_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "count": 1
     },
     {
@@ -104115,7 +104115,7 @@
       "source_header": "CJS-1.3: Shared implementation-corpus preamble contract",
       "source_anchor": "#cjs-13-shared-implementation-corpus-preamble-contract",
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#844-combined-satisfaction",
+      "target_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "count": 5
     },
     {
@@ -104203,7 +104203,7 @@
       "source_header": "CJS-1: Scope, purpose, and boundary interface",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#844-combined-satisfaction",
+      "target_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "count": 2
     },
     {
@@ -104659,7 +104659,7 @@
       "source_header": "CJS-2.3 Cross-implementation trust integrity (joint operation model)",
       "source_anchor": "#cjs-23-cross-implementation-trust-integrity-joint-operation-model",
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#844-combined-satisfaction",
+      "target_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "count": 2
     },
     {
@@ -104699,7 +104699,7 @@
       "source_header": "CJS-2.4 Class-scaled lane staffing and competency redundancy",
       "source_anchor": "#cjs-24-class-scaled-lane-staffing-and-competency-redundancy",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-general-standing-locks",
+      "target_anchor": "#42-prevention--general-standing-locks",
       "count": 1
     },
     {
@@ -104779,7 +104779,7 @@
       "source_header": "CJS-2: Specific joint interlocks and shared abstractions",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#844-combined-satisfaction",
+      "target_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "count": 2
     },
     {
@@ -105619,7 +105619,7 @@
       "source_header": "CJS-3.0 Cross-band: Role-definition preface and standing competency bar and clearance interface",
       "source_anchor": "#cjs-30-role-definition-preface-and-standing-competency-gate-interface",
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-general-standing-locks",
+      "target_anchor": "#42-prevention--general-standing-locks",
       "count": 2
     },
     {
@@ -106179,7 +106179,7 @@
       "source_header": "CJS-3.11.3 Consolidation ceiling-setting discipline (adopter-tunable)",
       "source_anchor": "#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#1432-ceiling-discipline-adopter-requirements",
+      "target_anchor": "#1432-consolidation-ceiling-mechanism-adopter-tunable",
       "count": 1
     },
     {
@@ -106499,7 +106499,7 @@
       "source_header": "CJS-3.15 Accountability: structural review, correction urgency, and disclosure terms",
       "source_anchor": "#records-transparency-and-challenge-pathway-duties-c",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 1
     },
     {
@@ -112099,7 +112099,7 @@
       "source_header": "CJS-1.8.1 Implementation boundary (primary owner to CJS seam)",
       "source_anchor": "#cjs-181-implementation-boundary-primary-owner-to-cjs-seam",
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#844-combined-satisfaction",
+      "target_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "count": 2
     },
     {
@@ -112243,7 +112243,7 @@
       "source_header": "CJS-1.14: Operational clusters",
       "source_anchor": "#cjs-114-operational-clusters",
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#844-combined-satisfaction",
+      "target_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "count": 1
     },
     {
@@ -112635,7 +112635,7 @@
       "source_header": "How labels work",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#844-combined-satisfaction",
+      "target_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "count": 1
     },
     {
@@ -112843,7 +112843,7 @@
       "source_header": "When more than one layer applies",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#844-combined-satisfaction",
+      "target_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "count": 1
     },
     {
@@ -113171,7 +113171,7 @@
       "source_header": "Systems domain routing (integrator annex)",
       "source_anchor": "#systems-domain-routing-integrator-annex",
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#844-combined-satisfaction",
+      "target_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "count": 1
     },
     {
@@ -113259,7 +113259,7 @@
       "source_header": "Systems read-with pointers",
       "source_anchor": "#systems-read-with-pointers",
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#844-combined-satisfaction",
+      "target_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "count": 3
     },
     {
@@ -113403,7 +113403,7 @@
       "source_header": "CS-0: Systems registry and identifier rules",
       "source_anchor": null,
       "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#2-integration-record-and-decision-order",
+      "target_anchor": "#2-automatic-integration-review-and-continuity",
       "count": 1
     },
     {
@@ -113475,7 +113475,7 @@
       "source_header": "CS-1.0: Purpose and role",
       "source_anchor": "#cs-10-purpose-and-role",
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#844-combined-satisfaction",
+      "target_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "count": 3
     },
     {
@@ -113547,7 +113547,7 @@
       "source_header": "CS-1: Scope, purpose, and boundary interface",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#844-combined-satisfaction",
+      "target_anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
       "count": 4
     },
     {
@@ -114107,7 +114107,7 @@
       "source_header": "CS-2.7 Type O baseline for Class A/B/C systems",
       "source_anchor": "#cs-2-7-type-o-baseline-for-class-a-b-c-systems",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#11-certification-record",
+      "target_anchor": "#11-system-certification-record",
       "count": 1
     },
     {
@@ -114187,7 +114187,7 @@
       "source_header": "CS-2.8 System Data Types Record governance",
       "source_anchor": "#cs-2-8-system-data-types-record-governance",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 4
     },
     {
@@ -114595,7 +114595,7 @@
       "source_header": "8.3.1 Type O access and handling duties",
       "source_anchor": null,
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#11-certification-record",
+      "target_anchor": "#11-system-certification-record",
       "count": 1
     },
     {
@@ -114819,7 +114819,7 @@
       "source_header": "CS-3.3 Criticality, concentration, temporal, and adversarial factors",
       "source_anchor": "#cs-3-3-criticality-concentration-temporal-and-adversarial-factors",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 1
     },
     {
@@ -114931,7 +114931,7 @@
       "source_header": "CS-3.7 Classification governance, disclosure, and challenge",
       "source_anchor": "#cs-3-7-classification-governance-disclosure-and-challenge",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 4
     },
     {
@@ -115123,7 +115123,7 @@
       "source_header": "CS-3, Part A: System classification machinery",
       "source_anchor": "#cs-3-part-a-system-classification-machinery",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#16-reopening-drift-and-non-evasion",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 1
     },
     {
@@ -116763,7 +116763,7 @@
       "source_header": "CS-5.10 Recertification, regression testing, and certification defects",
       "source_anchor": "#cs-5-10-recertification-regression-testing-and-certification-defects",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#11-certification-record",
+      "target_anchor": "#11-system-certification-record",
       "count": 1
     },
     {

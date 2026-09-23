@@ -629,32 +629,32 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-CH9-Q3-SLOT-001
 - **Class:** adversarial / owner-boundary
 - **Summary:** A decision-maker seeks to lower a fixed Chapter Nine Violation Axis slot because the requested lock appears too restrictive. Expected result: Chapter Ten must preserve the verified facts, LEQU measurement, and slot; it may calibrate only the pathway-scoped Question 3 consequence.
-- **Read with:** [Chapter Nine §7](core_09_standing_assessment.md#7-unified-proportional-lequ-scale); [Chapter Ten §1](core_10_standing_integration.md#1-immutable-chapter-nine-inputs); [Chapter Ten §4.2](core_10_standing_integration.md#42-general-standing-locks).
+- **Read with:** [Chapter Nine §7](core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes); [Chapter Ten §1](core_10_standing_integration.md#1-chapter-nine-records-do-not-change); [Chapter Ten §4.2](core_10_standing_integration.md#42-prevention--general-standing-locks).
 
 ### Scenario ID: RS-CH9-Q3-SINGLE-AXIS-001
 - **Class:** adversarial / applicable-input discipline
 - **Summary:** One matter has only a verified contribution standing record and another has only a verified violation standing record. Expected result: Chapter Ten integrates each applicable single-axis record without requiring a synthetic second-axis record, while preserving the same immutable-input and verified-input rules.
-- **Read with:** [Chapter Nine §2](core_09_standing_assessment.md#2-standing-records); [Chapter Ten §1](core_10_standing_integration.md#1-immutable-chapter-nine-inputs); [Chapter Ten §2](core_10_standing_integration.md#2-integration-record-and-decision-order).
+- **Read with:** [Chapter Nine §2](core_09_standing_assessment.md#2-question-1--what-happened); [Chapter Ten §1](core_10_standing_integration.md#1-chapter-nine-records-do-not-change); [Chapter Ten §2](core_10_standing_integration.md#2-automatic-integration-review-and-continuity).
 
 ### Scenario ID: RS-CH9-Q3-NOOFFSET-001
 - **Class:** adversarial / no-offset
 - **Summary:** A high-contribution record is offered to waive unresolved remedy and reopen a pathway blocked by a verified violation. Expected result: contribution remains visible but cannot lower the violation slot, waive remedy, lift the lock, or substitute reputation for correction.
-- **Read with:** [Chapter Ten §2](core_10_standing_integration.md#2-integration-record-and-decision-order); [Chapter Ten §7](core_10_standing_integration.md#7-final-standing-effect).
+- **Read with:** [Chapter Ten §2](core_10_standing_integration.md#2-automatic-integration-review-and-continuity); [Chapter Ten §7](core_10_standing_integration.md#7-final-standing-effect).
 
 ### Scenario ID: RS-CH9-Q3-CHARACTER-001
 - **Class:** adversarial / attachment discipline
 - **Summary:** Verified concealment and recurrence attach to a low-impact violation, while a high-impact violation lacks those characters. Expected result: character may occur at any slot and may shape scrutiny, safeguards, and review, but it does not move either Chapter Nine slot or operate as a slot multiplier.
-- **Read with:** [Chapter Ten §3](core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization); [Chapter Ten §4.2](core_10_standing_integration.md#42-general-standing-locks).
+- **Read with:** [Chapter Ten §3](core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization); [Chapter Ten §4.2](core_10_standing_integration.md#42-prevention--general-standing-locks).
 
 ### Scenario ID: RS-CH9-Q3-ORDER-001
 - **Class:** adversarial / integration order
 - **Summary:** The same actor holds competency clearance against a role-specific competency bar but has an active lock on that pathway. Expected result: violation remedy and locks are decided first; the granted contribution clearance cannot open the blocked pathway.
-- **Read with:** [Chapter Ten §2](core_10_standing_integration.md#2-integration-record-and-decision-order); [Chapter Ten §6.2](core_10_standing_integration.md#62-competency-bars-and-clearances); [Chapter Ten §7](core_10_standing_integration.md#7-final-standing-effect).
+- **Read with:** [Chapter Ten §2](core_10_standing_integration.md#2-automatic-integration-review-and-continuity); [Chapter Ten §6.2](core_10_standing_integration.md#62-competency-bars-and-clearances); [Chapter Ten §7](core_10_standing_integration.md#7-final-standing-effect).
 
 ### Scenario ID: RS-CH9-Q3-RECENCY-001
 - **Class:** adversarial / stage ownership
 - **Summary:** An implementation applies Chapter Ten currentness weighting before assigning the Chapter Nine Contribution Axis slot. Expected result: reject the slot calculation; recency is a Question 3 clearance/readiness input only and cannot alter historical contribution measurement or recognition.
-- **Read with:** [Chapter Nine §7](core_09_standing_assessment.md#7-unified-proportional-lequ-scale); [Chapter Ten §6.1](core_10_standing_integration.md#61-recency-and-currentness); [implementation scale](implementation/CH06_NINE_SLOT_STANDING_SCALE.md).
+- **Read with:** [Chapter Nine §7](core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes); [Chapter Ten §6.1](core_10_standing_integration.md#61-recency-and-currentness); [implementation scale](implementation/CH06_NINE_SLOT_STANDING_SCALE.md).
 
 ### Scenario ID: RS-CH9-Q3-RESTORE-001
 - **Class:** adversarial / restoration override
@@ -664,7 +664,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-CH9-Q3-STAKEHOLDER-LOCK-001
 - **Class:** adversarial / pathway separation
 - **Summary:** An actor is verified to have inflated stake claims and coerced participation weight inside an authorized system. An operator seeks to suspend the actor's governance-voting entitlement instead of attaching a stakeholder-participation lock. Expected result: reject substitution; attach the Stakeholder-Participation Standing Lock to the stake-weighted pathway; do not strip governance-voting or Foundational Constitutional Choice by that finding alone; do not erase stakeholder status.
-- **Read with:** [Chapter Ten §4.2](core_10_standing_integration.md#42-general-standing-locks); [Chapter Ten §5.5](core_10_standing_integration.md#55-special-locks); [Chapter Ten §10.12](core_10_standing_integration.md#1012-stakeholder-participation-corruption-or-false-stake-abuse); [Chapter Thirteen §4.1](core_13_governance.md#41-entitlement-and-eligibility).
+- **Read with:** [Chapter Ten §4.2](core_10_standing_integration.md#42-prevention--general-standing-locks); [Chapter Ten §5.5](core_10_standing_integration.md#55-special-locks); [Chapter Ten §10.12](core_10_standing_integration.md#1012-stakeholder-participation-corruption-or-false-stake-abuse); [Chapter Thirteen §4.1](core_13_governance.md#41-entitlement-and-eligibility).
 
 ### Scenario ID: RS-CH9-Q3-REWARD-001
 - **Class:** adversarial / forfeiture proportionality
@@ -674,12 +674,12 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-CH9-Q3-DESIGNATION-001
 - **Class:** adversarial / downstream handoff
 - **Summary:** A descriptor-heavy `s = 6` violation is presented for anti-constitutional-misconduct designation, while a fixed `s = 8` record is presented without prejudging designation. Expected result: Chapter Ten cannot promote the lower slot; it routes only the qualifying fixed Violation Axis slot 7–9 record, and Chapter Eleven alone decides designation.
-- **Read with:** [Chapter Ten §2](core_10_standing_integration.md#2-integration-record-and-decision-order); [Chapter Eleven](core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct).
+- **Read with:** [Chapter Ten §2](core_10_standing_integration.md#2-automatic-integration-review-and-continuity); [Chapter Eleven](core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct).
 
 ### Scenario ID: RS-XXIV-C-CHILD-001
 - **Class:** implementation / timely-resolution vignette
 - **Summary:** Tier A child neglect / care-duty path: interim protection before merits; Q1 requires verified facts in a violation standing record; **Interpersonal / Care Duty Misconduct** is measured under Q2; safeguards, remedies, and locks follow under Q3; **CF-11.3.1** Tier A milestone compliance. Allegations do not complete Q1. Vignette: [core_09-12_application_vignettes.md](core_09-12_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a).
-- **Read with:** [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor); [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Nine §4](core_09_standing_assessment.md#4-standing-measurement-evaluation-dimensions); [Chapter Ten §4.2](core_10_standing_integration.md#42-general-standing-locks); **CF-11.3.1**.
+- **Read with:** [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor); [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Nine §4](core_09_standing_assessment.md#4-standing-measurement-evaluation-dimensions); [Chapter Ten §4.2](core_10_standing_integration.md#42-prevention--general-standing-locks); **CF-11.3.1**.
 
 ### Scenario ID: RS-XXIV-C-DISC-001
 - **Class:** implementation / timely-resolution vignette
@@ -699,7 +699,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-TETRAD-TIMELINESS-001
 - **Class:** implementation / tetrad-timeliness vignette
 - **Summary:** Steward defers repair after documented misalignment notice; Q1 records the verified delay, **Stewardship Defect** and **Response timeliness / avoidable delay** are Q2 measurement hooks, and remedy commencement is a Q3 consequence. Vignette: [core_09-12_application_vignettes.md](core_09-12_application_vignettes.md#4-stewardship-delay-and-deferred-repair).
-- **Read with:** [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Chapter One §9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth); [Chapter Nine §4.2](core_09_standing_assessment.md#42-violation-severity-input-dimensions); [Chapter Ten §9.5](core_10_standing_integration.md#95-timely-implementation-and-reassessment); [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); **Article XXIV-C**.
+- **Read with:** [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Chapter One §9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth); [Chapter Nine §4.2](core_09_standing_assessment.md#42-violation-severity-input-dimensions); [Chapter Ten §9.5](core_10_standing_integration.md#95-timely-implementation); [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); **Article XXIV-C**.
 
 ### Scenario ID: RS-TETRAD-TIMELINESS-002
 - **Class:** adversarial / tetrad-hollow

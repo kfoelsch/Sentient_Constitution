@@ -1994,7 +1994,7 @@
 
 विस्तृत मूल्यांकन कारक और प्रमाणन अभिलेख इनके स्वामित्व में हैं:
 - **[अध्याय सात §3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
-- **[अध्याय सात §11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record)**;
+- **[अध्याय सात §11](../../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record)**;
 - **[corpus_systems.md](../../corpus_systems.md), CS-3 — System classification and handling**।
 
 वह अध्याय-सात प्रक्रिया:

@@ -27,7 +27,7 @@ Someone with power over housing, care, pay, movement, or a system you depend on 
 - **Today:** The same team that shipped the cutoff is also the “appeals desk.”
 - **With this Constitution:** A claim that the hearing body is biased, captured, or in conflict must be able to leave that body. The crew that cooperates to run a system does not get to staff the only final review and call that independence.
 
-See: [Chapter Twelve §3](../../../core_12_forum.md#3-transfer-consolidation-and-coordination).
+See: [Chapter Twelve §3](../../../core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture).
 
 **A report waiting to be looked at is not already a verdict.**
 - **Today:** Once someone files, you are already “in the system,” and silence or refusal is treated as proof.

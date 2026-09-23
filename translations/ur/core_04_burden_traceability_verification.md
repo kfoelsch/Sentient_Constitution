@@ -196,7 +196,7 @@
 
 - بالائی: [باب دوم — تعریف کی ساخت اور اجزا کے تقاضے](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements)؛ [باب سوم — تعریف کی سالمیت، فرار، اور عدمِ اطاعت](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)؛ [باب چہارم، قطعے 1 تا 5](#1-exclusive-enforcement-and-burden-allocation)۔
 - زیریں: [باب ہفتم — نظام ہم آہنگی سرٹیفیکیشن](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)؛ [باب ہشتم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)۔
-- ساتھ پڑھیں: [باب ہفتم §16 — دوبارہ کھولنا، عدمِ ہم آہنگی، اور فرار مخالف](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — باب دوم تا چہارم کے تحت تصدیق شدہ عدمِ اطاعت پہلے تسلیم سے قطع نظر سرٹیفیکیشن دوبارہ کھول یا ہرا سکتی ہے۔
+- ساتھ پڑھیں: [باب ہفتم §16 — دوبارہ کھولنا، عدمِ ہم آہنگی، اور فرار مخالف](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) — باب دوم تا چہارم کے تحت تصدیق شدہ عدمِ اطاعت پہلے تسلیم سے قطع نظر سرٹیفیکیشن دوبارہ کھول یا ہرا سکتی ہے۔
 
 </details>
 

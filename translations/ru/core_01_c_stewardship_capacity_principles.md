@@ -1995,7 +1995,7 @@
 
 Подробные факторы оценки и записи сертификации принадлежат:
 - **[Главе седьмой §3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
-- **[Главе седьмой §11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record)**;
+- **[Главе седьмой §11](../../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record)**;
 - **[corpus_systems.md](../../corpus_systems.md), CS-3 — Классификация систем и обращение**.
 
 Этот процесс Главы седьмой:

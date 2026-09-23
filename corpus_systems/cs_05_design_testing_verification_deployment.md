@@ -292,7 +292,7 @@ This subsection is an operational profile. It does not create rights and must no
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Chapter Eight §11 System Certification Record](../core_08_b_system_alignment_certification_record_process.md#11-certification-record) (*record contents*); [Chapter Eight §2 System Class Evaluation](../core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*certification verification hook*); **CS-3 — System classification and handling** (*class scaling*); **CJS-3.21** (*adversarial robustness and abuse-resistance terms*, including regression and hardening cycle obligations).
+- Read with: [Chapter Eight §11 System Certification Record](../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record) (*record contents*); [Chapter Eight §2 System Class Evaluation](../core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*certification verification hook*); **CS-3 — System classification and handling** (*class scaling*); **CJS-3.21** (*adversarial robustness and abuse-resistance terms*, including regression and hardening cycle obligations).
 
 </details>
 
