@@ -4148,7 +4148,7 @@ the planet's life-support systems must be protected as a matter of their own sur
 
 ##### Article I-B: Ecological Footprint and Transparency
 
-environmental costs tied to activities and systems—including upstream and downstream links—should be counted and reported honestly enough for comparison and audit when applicable transparency rules require it; this subsection supplies the shared vocabulary and integrity standards for doing that, but mandatory cuts or numeric caps come from other provisions or instruments, not from this subsection acting alone.
+when a rule calls for it, the environmental cost of an activity or system should be counted honestly and reported openly. That includes costs that come before it (such as mining and manufacturing) and after it (such as use and disposal). The goal is numbers that others can compare and check. This subsection gives the shared words and honesty standards for that work. It does not, by itself, make anyone cut their footprint. Required cuts or limits come from other rules.
 
 [Source](../../core_06_rights_part_a.md#article-i-b-ecological-footprint-and-transparency)
 
@@ -4166,37 +4166,37 @@ when a system or decision could plausibly threaten sentient survival or ecologic
 
 #### Article II: Material Stewardship and Durable-Use Integrity
 
-**Article II** (*Material Stewardship and Durable-Use Integrity*) is the material-stewardship Rights Floor — durable and network-dependent products must be designed, described, and supported honestly so **Flourishing** is not defeated by misleading longevity claims or blocked repair paths, and **Continuity** is not defeated by avoidable premature discard or hidden lifecycle burden.
+**Article II** (*Material Stewardship and Durable-Use Integrity*) is the material-stewardship Rights Floor. Durable and network-dependent products must be designed, described, and supported honestly. That protects **Flourishing** from misleading longevity claims and blocked repair paths, and **Continuity** from avoidable premature discard and hidden lifecycle burdens.
 
 [Source](../../core_06_rights_part_a.md#article-ii-material-stewardship-and-durable-use-integrity)
 
 ##### Article II-A: Material Stewardship and Lifecycle Honesty
 
-durable goods must be designed and described honestly, so that buyers are not pushed into avoidable replacement or misled about how long the product will last.
+durable goods must be designed and described honestly. Buyers must not be pushed into avoidable replacement or misled about how long a product will last.
 
 [Source](../../core_06_rights_part_a.md#article-ii-a-material-stewardship-and-lifecycle-honesty)
 
 ##### Article II-B: Repair, Maintenance, and Independent Servicing
 
-owners and independent repair shops must be able to fix the things they own, with real access to manuals, tools, parts, and honest diagnostics.
+owners and independent repair shops must be able to fix products they own. They need real access to manuals, tools, parts, and honest diagnostics.
 
 [Source](../../core_06_rights_part_a.md#article-ii-b-repair-maintenance-and-independent-servicing)
 
 ##### Article II-C: Designed Obsolescence and Incentive Discipline
 
-you may not shorten useful life on purpose, nor use software updates mainly to push new purchases, when the foreseeable effect is to pressure **sentients** to discard or replace goods that could still reasonably serve them.
+you may not deliberately shorten a product's useful life. Nor may you use software updates mainly to push new purchases when the foreseeable effect is to pressure **sentients** to discard or replace goods that could still reasonably serve them.
 
 [Source](../../core_06_rights_part_a.md#article-ii-c-designed-obsolescence-and-incentive-discipline)
 
 ##### Article II-D: Post-Sale Access and Subscription Integrity
 
-a feature you bought outright cannot be quietly turned into a subscription, and any relevant operator dependencies including infrastructure, software, and services, must be disclosed up front.
+a feature bought outright cannot be quietly turned into a subscription. Any relevant operator dependency — including infrastructure, software, and services — must be disclosed up front.
 
 [Source](../../core_06_rights_part_a.md#article-ii-d-post-sale-access-and-subscription-integrity)
 
 ##### Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability
 
-when a product needs the operator's servers to work, the operator must say so up front, must not trap continuity-critical data in forms that cannot be exported except where confidentiality truly requires it, plan for what happens if the service shuts down, and not let bankruptcy or a sale erase those continuity duties.
+when a product needs the operator's servers to work, the operator must say so up front. The operator must not trap continuity-critical data in forms that cannot be exported, except where confidentiality truly requires it. The operator must plan for service shutdown and cannot let bankruptcy or a sale erase those continuity duties.
 
 [Source](../../core_06_rights_part_a.md#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability)
 

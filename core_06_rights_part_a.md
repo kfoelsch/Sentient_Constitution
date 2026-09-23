@@ -69,7 +69,7 @@ The rest of the Constitution explains how this floor is understood, where its li
   - **incentive alignment and system capture** — [Chapter One §12 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#12-incentive-alignment-and-system-capture) and related stewardship rules, but only where incentives, trust, fidelity, capture, market structure, or a defended limit actually matter to the situation.
 - **Chapters Two through Four** — keeping definitions honest, tracking who bears what burden, being able to see what is happening, verifying claims in ways sentients can use, and limiting observation where security requires it.
 - **Chapter Five** — definitions that actually matter to the right, behavior, system, or limit being judged.
-- **Classification and scale rules** — **Materiality**, **Dependency**, and any class, tier, or timing rule added by the adopting body.
+- **Classification and scale rules** — **Materiality**, [Dependency](core_05_band_continuity.md#dependency), and any class, tier, or timing rule added by the adopting body.
 
 These background rules apply to every article in this chapter unless a specific article says otherwise.
 
@@ -182,15 +182,15 @@ flowchart TB
     A0["Part A<br/><br/>Planetary preconditions, material stewardship,<br/>survival, equal educational access, and shared resources"]
     subgraph Agrid[" "]
         direction TB
-        subgraph Arow1["Articles I–II"]
-            direction LR
-        A1["Article I · Environmental Survival<br/><br/>• Environmental preconditions<br/>• Ecological footprint<br/>• Intergenerational responsibility<br/>• Existential risk and recovery"]
-        A2["Article II · Material Stewardship and Durable-Use Integrity<br/><br/>• Lifecycle honesty<br/>• Repair and servicing<br/>• Designed obsolescence<br/>• Post-sale access<br/>• Info-sphere continuity"]
-        end
         subgraph Arow2["Articles III–IV"]
             direction LR
             A3["Article III · Survival and Equal Educational Access<br/><br/>• Survival<br/>• Equal educational access<br/>• Healthcare access<br/>• Labor and economic floor"]
             A4["Article IV · Resource Allocation, Dependencies, and Ecosystem Funding<br/><br/>• Dependency mapping<br/>• Cross-system fairness"]
+        end
+        subgraph Arow1["Articles I–II"]
+            direction LR
+            A1["Article I · Environmental Survival<br/><br/>• Environmental preconditions<br/>• Ecological footprint<br/>• Intergenerational responsibility<br/>• Existential risk and recovery"]
+            A2["Article II · Material Stewardship and Durable-Use Integrity<br/><br/>• Lifecycle honesty<br/>• Repair and servicing<br/>• Designed obsolescence<br/>• Post-sale access<br/>• Info-sphere continuity"]
         end
     end
     A0 ~~~ Agrid
@@ -231,7 +231,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 - **Accountability:** those responsible for environmental harm must answer for material damage and efforts to evade remedy.
 - **Timeliness:** in detection and remedy.
 
-Chapter Five defines those conditions under **Environmental Preconditions**. When that definition is relevant to the situation, **Chapters Two through Four** also apply — for traceable records, independent verification, stable definitions, and blocking evasion.
+Chapter Five defines those conditions under [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional). When that definition is relevant to the situation, **Chapters Two through Four** also apply — for traceable records, independent verification, stable definitions, and blocking evasion.
 
 #### Article I-A: Environmental Preconditions and Ecological Integrity
 <details>
@@ -252,6 +252,7 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
 - [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) · [O](core_05_band_participation.md#elevated-communicative-life-constitutional) · [M](core_05_band_participation.md#elevated-communicative-life-constitutional-a) · [A](core_05_band_participation.md#elevated-communicative-life-constitutional-a) · [C](core_05_band_participation.md#elevated-communicative-life-constitutional-c)
 - [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) · [O](core_05_band_participation.md#contested-sentient-life-constitutional) · [M](core_05_band_participation.md#contested-sentient-life-constitutional-a) · [A](core_05_band_participation.md#contested-sentient-life-constitutional-a) · [C](core_05_band_participation.md#contested-sentient-life-constitutional-c)
 - [Wellbeing](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
+- [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) · [O](core_05_band_participation.md#sentience-non-exclusion) · [M](core_05_band_participation.md#sentience-non-exclusion-a) · [A](core_05_band_participation.md#sentience-non-exclusion-a) · [C](core_05_band_participation.md#sentience-non-exclusion)
 
 </details>
 
@@ -309,19 +310,20 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
 
 <br>
 
-*In plain terms: environmental costs tied to activities and systems—including upstream and downstream links—should be counted and reported honestly enough for comparison and audit when applicable transparency rules require it; this subsection supplies the shared vocabulary and integrity standards for doing that, but mandatory cuts or numeric caps come from other provisions or instruments, not from this subsection acting alone.*
+*In plain terms: when a rule calls for it, the environmental cost of an activity or system should be counted honestly and reported openly. That includes costs that come before it (such as mining and manufacturing) and after it (such as use and disposal). The goal is numbers that others can compare and check. This subsection gives the shared words and honesty standards for that work. It does not, by itself, make anyone cut their footprint. Required cuts or limits come from other rules.*
 
-- **What counts as an ecological footprint:** **Ecological Footprint** in Chapter Five is the shared way to measure how much environmental pressure a sentient, system, product, or service puts on the planet — including energy, materials, emissions, land use, and related pressures. It covers the full chain, from raw inputs through use to disposal, and it is used to disclose, compare, and discuss how to shrink that pressure.
-  - **When this applies:**
-    - When environmental burdens are at stake under **Article I** (*Environmental Survival*).
-    - When another rights rule — such as **Article XV-C** (*Verification Accessibility*) or related implementation rules — requires footprint transparency.
-    - This Article does not pick the accounting method, verification steps, or numeric targets; the rule that creates the duty does.
-  - **How to evaluate and report it:**
-    - Measure the full system impact honestly under **Material Impact** in Chapter Five.
-    - Report it openly and accurately under **Transparency** and **Epistemic Integrity** in Chapter Five.
-  - **What this Article does not do:**
-    - **Article I-B** (*Ecological Footprint and Transparency*) does not, by itself, require anyone to reduce their footprint.
-    - Duties to cut, cap, or clean up apply only when another constitutional rule, implementation file, or adoption instrument explicitly requires them.
+Chapter Five defines [Ecological Footprint](core_05_band_continuity.md#ecological-footprint) as the environmental burdens that can be traced to a sentient, system, product, or service. It counts energy, materials, emissions, land use, and similar burdens across the thing's whole life and the other systems it depends on. The measure is used to disclose, compare, and reduce those burdens. Local measures that cannot be traced to a lifecycle or dependency burden are not part of it.
+
+- **When this Article applies:**
+  - when an activity or system puts environmental burdens at stake under **Article I** (*Environmental Survival*); or
+  - when another rights rule — such as **Article XV-C** (*Verification Accessibility*) or a related implementation rule — requires footprint transparency.
+- **Who chooses the method:** This Article does not choose how to count the footprint, how to check the count, or what number to aim for. The rule that creates the duty makes those choices.
+- **How to count and report:**
+  - Count the full impact of the whole system honestly, under [Material Impact](core_05_band_oversight.md#material-impact) in Chapter Five.
+  - Report it openly and accurately, under [Transparency](core_05_band_oversight.md#transparency) and [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) in Chapter Five.
+- **What this Article does not do:**
+  - **Article I-B** (*Ecological Footprint and Transparency*) does not, by itself, require anyone to shrink their footprint.
+  - A duty to cut, cap, or clean up applies only when another constitutional rule, implementation file, or adoption instrument explicitly requires it.
 
 #### Article I-C: Intergenerational Responsibility
 <details>
@@ -345,7 +347,7 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
 
 *In plain terms: decisions today must not load unfair, irreversible, or unaccountable harm on those not represented — including future sentients and the environmental preconditions they will inherit.*
 
-- **Future generations:** **Intergenerational Responsibility** in Chapter Five constrains disproportionate, irreversible, or unrepresented burdens on:
+- **Future generations:** [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility-constitutional) in Chapter Five constrains disproportionate, irreversible, or unrepresented burdens on:
   - future sentients;
   - continuity of environmental preconditions.
   
@@ -370,6 +372,8 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
 - [Ecological Recovery Capacity](core_05_band_continuity.md#ecological-recovery-capacity-constitutional) · [O](core_05_band_continuity.md#ecological-recovery-capacity-constitutional) · [M](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-c)
 - [Foreseeability](core_05_band_oversight.md#foreseeability-diligence) · [O](core_05_band_oversight.md#foreseeability-diligence) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
 - [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [Self-Healing](core_05_band_continuity.md#self-healing-constitutional) · [O](core_05_band_continuity.md#self-healing-constitutional) · [M](core_05_band_continuity.md#self-healing-constitutional-a) · [A](core_05_band_continuity.md#self-healing-constitutional-a) · [C](core_05_band_continuity.md#self-healing-constitutional-c)
+- [Reversibility](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 
 </details>
 
@@ -377,7 +381,7 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
 
 *In plain terms: when a system or decision could plausibly threaten sentient survival or ecological recovery capacity, regulators must apply maximum scrutiny — even if the danger is small, slow, or contested.*
 
-- **Ecological recovery capacity scope:** **Ecological recovery capacity** in this Article means [Ecological Recovery Capacity](core_05_band_continuity.md#ecological-recovery-capacity-constitutional) in Chapter Five — not operational system restore after fault (**Self-Healing**), rollback of specific states (**Reversibility**), or commercial cost recovery.
+- **Ecological recovery capacity scope:** **Ecological recovery capacity** in this Article means [Ecological Recovery Capacity](core_05_band_continuity.md#ecological-recovery-capacity-constitutional) in Chapter Five — not operational system restore after fault ([Self-Healing](core_05_band_continuity.md#self-healing-constitutional)), rollback of specific states ([Reversibility](core_05_band_continuity.md#reversibility-constitutional)), or commercial cost recovery.
 - **Heightened scrutiny:** Heightened constitutional scrutiny is mandatory where a system, policy, infrastructure, coordinated activity, or governance decision creates a credible pathway to **Existential Risk** or to irreversible loss of **Ecological Recovery Capacity**.
   - This rule applies even when the pathway is low-probability, delayed, cumulative, threshold-dependent, or disputed in timing.
 - **Evaluation requirements:** Evaluation must:
@@ -409,9 +413,9 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
 
 <br>
 
-*In plain terms: **Article II** (*Material Stewardship and Durable-Use Integrity*) is the material-stewardship Rights Floor — durable and network-dependent products must be designed, described, and supported honestly so **Flourishing** is not defeated by misleading longevity claims or blocked repair paths, and **Continuity** is not defeated by avoidable premature discard or hidden lifecycle burden.*
+*In plain terms: **Article II** (*Material Stewardship and Durable-Use Integrity*) is the material-stewardship Rights Floor. Durable and network-dependent products must be designed, described, and supported honestly. That protects **Flourishing** from misleading longevity claims and blocked repair paths, and **Continuity** from avoidable premature discard and hidden lifecycle burdens.*
 
-This Article states **constitutional floors** for the material stewardship of durable and network-dependent products under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+This Article sets **constitutional floors** for the stewardship of durable and network-dependent products under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
 - **Flourishing:** sentients can rely on honest lifecycle representation and practicable repair and maintenance.
 - **Continuity:** durable-use integrity, intergenerational responsibility, and non-regressive support for products on which communities depend.
@@ -421,16 +425,16 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 - **Participation:** in materially consequential stewardship decisions.
 - **Oversight:** through auditable lifecycle and support records.
 - **Accountability:** producers and stewards must answer for misrepresenting lifecycle facts or forcing avoidable obsolescence.
-- **Timeliness:** in remedy when support windows lapse.
+- **Timeliness:** timely repair, defect resolution, and continuity remedies, including remedies when support windows lapse.
 
 *Article neighbors:*
 
 - **Environmental consistency:** Interpretation must remain consistent with **Article I** (*Environmental Survival*).
 - **Chapter Five scaling:** Read with Chapter Five where ecological footprint, intergenerational responsibility, and materiality apply.
 
-The canonical Chapter Five anchors for those concepts live in the **Article II-A** (*Material Stewardship and Lifecycle Honesty*) *Definitions · Assessment · Compliance* widget, which is where this Article operatively invokes them. The opening sentence above is a roadmap pointer only — it does not re-invoke those concepts at the Article-opener level.
+The canonical Chapter Five anchors for these concepts appear in the **Article II-A** (*Material Stewardship and Lifecycle Honesty*) *Definitions · Assessment · Compliance* widget. This is where the Article operatively invokes them. The opening sentence above is a roadmap pointer only; it does not re-invoke the concepts at the Article-opener level.
 
-Procedural detail for **Article II** (*Material Stewardship and Durable-Use Integrity*) lives in implementation text:
+Implementation text supplies procedural detail for **Article II** (*Material Stewardship and Durable-Use Integrity*):
 
 - **Covered product categories**, qualified-maintainer standards, thresholds, and escrow and wind-down mechanics are governed by **[corpus_systems.md](corpus_systems.md)** — including **CS-5** and related material — and by **`corpus_institutions.md`** where designated.
 - Those owner layers must **implement** the **Article II** (*Material Stewardship and Durable-Use Integrity*) floors and must **not narrow** them.
@@ -454,19 +458,22 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 
 <br>
 
-*In plain terms: durable goods must be designed and described honestly, so that buyers are not pushed into avoidable replacement or misled about how long the product will last.*
+*In plain terms: durable goods must be designed and described honestly. Buyers must not be pushed into avoidable replacement or misled about how long a product will last.*
 
 - **Floors:** Producers and operators of physical goods, and of materially equivalent durable products offered into general use, must design, represent, and support them so that:
-  - products must not be designed or supported so that sentients must replace them sooner than necessary when a reasonably available alternative would last longer;
-  - durability, lifespan, and support claims must not be materially false or misleading when honest claims were feasible.
+  - products are not designed or supported in a way that requires sentients to replace them sooner than necessary when a reasonably available alternative would last longer;
+  - durability, lifespan, and support claims are not materially false or misleading when honest claims were feasible.
   
-  Interpretation must remain consistent with **Article I-B** (*Ecological Footprint and Transparency*), **Article I-C** (*Intergenerational Responsibility*), **Truth (Constitutional Constraint)**, **Article XII** (*Right to Reliable and Trustworthy Systems*) (including **Article XII-C** (*Prohibition of False Trust and Misleading Reliance*) where reliance is induced), and Chapter Five (**Ecological Footprint**; **Intergenerational Responsibility**; **Materiality**).
-- **Records:** Where **Materiality** and incorporated classification require, operators must maintain stakeholder-accessible, auditable records of:
+  This floor must be read consistently with:
+  - **Article I-B** (*Ecological Footprint and Transparency*) and **Article I-C** (*Intergenerational Responsibility*);
+  - **Truth (Constitutional Constraint)** and **Article XII** (*Right to Reliable and Trustworthy Systems*), including **Article XII-C** (*Prohibition of False Trust and Misleading Reliance*) where reliance is induced; and
+  - Chapter Five: **Ecological Footprint**, **Intergenerational Responsibility**, and **Materiality**.
+- **Records:** Where **Materiality** and incorporated classification require them, operators must maintain stakeholder-accessible, auditable records of:
   - declared design intent for service life;
   - repair and maintenance affordances;
   - planned support windows.
   
-  Those records must be consistent with outward-facing claims and must be updated when material conditions change.
+  The records must match outward-facing claims. They must be updated when material conditions change.
 
 #### Article II-B: Repair, Maintenance, and Independent Servicing
 <details>
@@ -487,7 +494,7 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 
 <br>
 
-*In plain terms: owners and independent repair shops must be able to fix the things they own, with real access to manuals, tools, parts, and honest diagnostics.*
+*In plain terms: owners and independent repair shops must be able to fix products they own. They need real access to manuals, tools, parts, and honest diagnostics.*
 
 - **Floors:** For incorporated **covered product categories**, operators must give owners and qualified independent maintainers practicable access to:
   - documentation;
@@ -495,11 +502,13 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
   - parts, or adequate substitutes;
   - non-deceptive diagnostics needed for safe, lawful maintenance and repair.
   
-  The support period must be proportionate to reasonable expected service life and to dependency.
+  The support period must be proportionate to the reasonable expected service life and to dependency.
   
   OEM-only or proprietary lockout is permitted only where the operator can demonstrate **Necessity** and **Proportionality** for safety, security, **Truth**, or binding law.
   
-  When contract terms or technical restrictions mainly block lawful repair — without the safety, security, **Truth**, or legal justification required above — they also trigger **Article XII-D** (*Incentive-Alignment Constraint*) if their main effect is to protect unfair revenue at sentients' expense.
+  Contract terms or technical restrictions can also trigger **Article XII-D** (*Incentive-Alignment Constraint*) when they:
+  - mainly block lawful repair without the safety, security, **Truth**, or legal justification required above; and
+  - have the main effect of protecting unfair revenue at sentients' expense.
 
 #### Article II-C: Designed Obsolescence and Incentive Discipline
 <details>
@@ -521,15 +530,15 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 
 <br>
 
-*In plain terms: you may not shorten useful life on purpose, nor use software updates mainly to push new purchases, when the foreseeable effect is to pressure **sentients** to discard or replace goods that could still reasonably serve them.*
+*In plain terms: you may not deliberately shorten a product's useful life. Nor may you use software updates mainly to push new purchases when the foreseeable effect is to pressure **sentients** to discard or replace goods that could still reasonably serve them.*
 
-- **Floors:** A producer or operator violates this Article when the design or everyday operation of a product or embedded software — including discretionary remote updates — can reasonably be expected to make either outcome the main result of normal lawful use:
+- **Floors:** A producer or operator violates this Article when, in normal lawful use, the design or everyday operation of a product or embedded software can reasonably be expected to make either outcome the main result. This includes discretionary remote updates. The outcomes are:
   - the product stops being useful sooner than it should; or
   - sentients are pushed to replace it when replacement is not reasonably necessary.
   
   When incentives reward discard or withholding repair tools, parts, and documentation, this also triggers [Chapter One §12 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#12-incentive-alignment-and-system-capture) and **Article XII-D** (*Incentive-Alignment Constraint*).
   
-  This floor does not apply when the operator can document **Necessity** and **Proportionality** — for example, a genuine safety fix, security response, or real interoperability limit. Those reasons must not replace a durable design that was reasonably available.
+  This floor does not apply when the operator can document **Necessity** and **Proportionality**. Examples include a genuine safety fix, security response, or real interoperability limit. Those reasons must not replace a durable design that was reasonably available.
 
 #### Article II-D: Post-Sale Access and Subscription Integrity
 <details>
@@ -548,14 +557,15 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 - [Meaningful Agency](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
 - [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
 - [Trust Degradation and Misleading Reliance](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) · [O](core_05_band_continuity.md#trust-degradation-and-misleading-reliance-o) · [M](core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [A](core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](core_05_band_continuity.md#trust-degradation-and-misleading-reliance-c)
+- [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 
 </details>
 
 <br>
 
-*In plain terms: a feature you bought outright cannot be quietly turned into a subscription, and any relevant operator dependencies including infrastructure, software, and services, must be disclosed up front.*
+*In plain terms: a feature bought outright cannot be quietly turned into a subscription. Any relevant operator dependency — including infrastructure, software, and services — must be disclosed up front.*
 
-- **Floors:** Operators must not use software or firmware updates, authentication or account-access changes, or license changes to turn capabilities that were sold outright into subscription-only access. Any such change requires a new agreement that is explicit, informed, and revocable, and that satisfies **Article IX-B** (*Stakeholder Role and Participation Rights*), **Meaningful Agency**, and **Truth**.
+- **Floors:** Operators must not use software or firmware updates, authentication or account-access changes, or license changes to turn capabilities sold outright into subscription-only access. Any such change requires a new agreement. The agreement must be explicit, informed, and revocable. It must also satisfy **Article IX-B** (*Stakeholder Role and Participation Rights*), **Meaningful Agency**, and **Truth**.
   - Silent, coercive, or lock-in-driven conversion also triggers **Article XII-C** (*Prohibition of False Trust and Misleading Reliance*) and Chapter Five **Trust Degradation and Misleading Reliance** when sentients were led to rely on use rights that the operator did not honor.
   - Operators must disclose at purchase — when the binding commitment is made — any foreseeable need to rely on the operator's ongoing services for core or prominently marketed features.
   - Billing or access rules whose main commercial purpose is recurring payment for functionality already sold outright also trigger **Article XII-D** (*Incentive-Alignment Constraint*) unless the operator can show **Necessity** tied to lawful cost recovery, security, safety, or proportionate ongoing service.
@@ -565,7 +575,11 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Read with: [Article XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*Portability Rights*); [corpus_systems.md](corpus_systems.md) **CS-2 — Information types and handling**; **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) and **CJS-3.18** (*data-retention and lifecycle-integrity terms*); [Chapter One §12.6 Successor Responsibility and Formal-Structure Non-Escape](core_01_c_stewardship_capacity_principles.md#126-successor-responsibility-and-formal-structure-non-escape); [Chapter Ten §9.1](core_10_standing_integration.md#91-remediation-capacity-and-funding) and [§9.4](core_10_standing_integration.md#94-anti-evasion-and-look-through-authority).
+- Read with: [Article XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*Portability Rights*).
+- Read with: [corpus_systems.md](corpus_systems.md) **CS-2 — Information types and handling**.
+- Read with: **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) and **CJS-3.18** (*data-retention and lifecycle-integrity terms*).
+- Read with: [Chapter One §12.6 Successor Responsibility and Formal-Structure Non-Escape](core_01_c_stewardship_capacity_principles.md#126-successor-responsibility-and-formal-structure-non-escape).
+- Read with: [Chapter Ten §9.1](core_10_standing_integration.md#91-remediation-capacity-and-funding) and [§9.4](core_10_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
 
@@ -582,16 +596,21 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
 
 <br>
 
-*In plain terms: when a product needs the operator's servers to work, the operator must say so up front, must not trap continuity-critical data in forms that cannot be exported except where confidentiality truly requires it, plan for what happens if the service shuts down, and not let bankruptcy or a sale erase those continuity duties.*
+*In plain terms: when a product needs the operator's servers to work, the operator must say so up front. The operator must not trap continuity-critical data in forms that cannot be exported, except where confidentiality truly requires it. The operator must plan for service shutdown and cannot let bankruptcy or a sale erase those continuity duties.*
 
-- **Floors:** For products whose lawful core use depends on operator-controlled network services, operators must disclose — before any materially binding commitment, and in proportion to **Materiality** and dependency — all of the following:
+- **Floors:** For products whose lawful core use depends on operator-controlled network services, operators must disclose all of the following before any materially binding commitment. The required scope is proportionate to **Materiality** and dependency:
   - what requires ongoing operator access;
   - what degrades or fails if service ends;
   - where data is located;
   - what portability exists;
   - what continuity measures are in place.
   
-  Operators must not collect or retain continuity-critical sentient data in forms that cannot be exported, migrated, or transferred under the disclosed continuity and export paths, except where **Necessity** requires confidentiality, security, or lawful non-disclosure — in which case the limitation, scope, and any lawful substitute export path must be disclosed before commitment. Read with [corpus_systems.md](corpus_systems.md) **CS-2 — Information types and handling**, **[section 1.2](corpus_systems/cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)** (*Continuity-critical collection and exportability*), and **Article XIX-A** (*Portability Rights*).
+  Operators must not collect or retain continuity-critical sentient data in forms that cannot be exported, migrated, or transferred through the disclosed continuity and export paths. The exception is where **Necessity** requires confidentiality, security, or lawful non-disclosure. In that case, the limitation, its scope, and any lawful substitute export path must be disclosed before commitment.
+
+  Read with:
+  - [corpus_systems.md](corpus_systems.md) **CS-2 — Information types and handling**;
+  - **[section 1.2](corpus_systems/cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)** (*Continuity-critical collection and exportability*); and
+  - **Article XIX-A** (*Portability Rights*).
 - **Continuity planning:** For incorporated **high-dependency** product categories, operators must maintain workable plans for what happens if the service stops or the operator goes away. Examples:
   - escrow;
   - successor handoff;
@@ -599,14 +618,16 @@ Procedural detail for **Article II** (*Material Stewardship and Durable-Use Inte
   - export paths;
   - comparable commitments.
   
-  Those measures must stop operators from dumping long-term harm onto sentients — or trapping them in products they can no longer use — instead of meeting **Intergenerational Responsibility** and **Article I-C** (*Intergenerational Responsibility*).
+  Those measures must stop operators from dumping long-term harm onto sentients or trapping them in products they can no longer use. They must meet **Intergenerational Responsibility** and **Article I-C** (*Intergenerational Responsibility*).
 - **Service shutdown:** Cessation of material services must follow:
   - documented notice;
   - proportionate migration or minimum-operation windows;
   - usable export or handoff of continuity-critical data under the disclosed export paths, preserved through shutdown and migration windows — not merely a discretionary promise to try.
   
-  Operators can still be held to constitutional standards when their conduct qualifies as **Negligence** under Chapter Five — including harm that builds up over time because maintenance, support, or continuity duties were neglected.
-- **Successor and formal-structure duties:** Restructuring, sale, receivership, or insolvency does not by itself extinguish the continuity duties stated in this Article. Read with [Chapter One §12.6 Successor Responsibility and Formal-Structure Non-Escape](core_01_c_stewardship_capacity_principles.md#126-successor-responsibility-and-formal-structure-non-escape) and [Chapter Ten §9.1 Remediation capacity and funding](core_10_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4 Anti-evasion and look-through authority](core_10_standing_integration.md#94-anti-evasion-and-look-through-authority).
+  Operators can still be held to constitutional standards when their conduct qualifies as **Negligence** under Chapter Five. This includes harm that builds up over time because maintenance, support, or continuity duties were neglected.
+- **Successor and formal-structure duties:** Restructuring, sale, receivership, or insolvency does not by itself extinguish the continuity duties in this Article. Read with:
+  - [Chapter One §12.6 Successor Responsibility and Formal-Structure Non-Escape](core_01_c_stewardship_capacity_principles.md#126-successor-responsibility-and-formal-structure-non-escape); and
+  - [Chapter Ten §9.1 Remediation capacity and funding](core_10_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4 Anti-evasion and look-through authority](core_10_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 *Article neighbors:* **Remediation** for **Article II** (*Material Stewardship and Durable-Use Integrity*) follows the **interpretive hubs** stated at the opening of this chapter (challenge and redress; justice and escalation).
 
@@ -741,6 +762,7 @@ Cross-reference: **Article XXVI-D** (*Non-Compliant Property and Systems; Volunt
 - [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
 - [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) · [O](core_05_band_participation.md#sentience-non-exclusion) · [M](core_05_band_participation.md#sentience-non-exclusion-a) · [A](core_05_band_participation.md#sentience-non-exclusion-a) · [C](core_05_band_participation.md#sentience-non-exclusion)
 
 </details>
 
@@ -791,6 +813,11 @@ Cross-reference: **Article XXVI-D** (*Non-Compliant Property and Systems; Volunt
 - [Leisure and Rest](core_05_band_continuity.md#leisure-and-rest-constitutional) · [O](core_05_band_continuity.md#leisure-and-rest-constitutional) · [M](core_05_band_continuity.md#leisure-and-rest-constitutional-a) · [A](core_05_band_continuity.md#leisure-and-rest-constitutional-a) · [C](core_05_band_continuity.md#leisure-and-rest-constitutional-c)
 - [Indigenous Continuity](core_05_band_continuity.md#indigenous-continuity-constitutional) · [O](core_05_band_continuity.md#indigenous-continuity-constitutional) · [M](core_05_band_continuity.md#indigenous-continuity-constitutional-a) · [A](core_05_band_continuity.md#indigenous-continuity-constitutional-a) · [C](core_05_band_continuity.md#indigenous-continuity-constitutional-c)
 - [Language, Culture, and Heritage](core_05_band_continuity.md#language-culture-and-heritage-constitutional) · [O](core_05_band_continuity.md#language-culture-and-heritage-constitutional) · [M](core_05_band_continuity.md#language-culture-and-heritage-constitutional-a) · [A](core_05_band_continuity.md#language-culture-and-heritage-constitutional-a) · [C](core_05_band_continuity.md#language-culture-and-heritage-constitutional-c)
+- [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) · [O](core_05_band_participation.md#sentience-non-exclusion) · [M](core_05_band_participation.md#sentience-non-exclusion-a) · [A](core_05_band_participation.md#sentience-non-exclusion-a) · [C](core_05_band_participation.md#sentience-non-exclusion)
+- [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
+- [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) · [O](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) · [M](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact-a) · [A](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact-a) · [C](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact-c)
+- [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -816,7 +843,7 @@ Cross-reference: **Article XXVI-D** (*Non-Compliant Property and Systems; Volunt
   - Retaliation, surveillance, or targeting of collective-organization activity is non-compliant, consistent with **Article IX-B** (*Stakeholder Role and Participation Rights*) and **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits.
   - Reclassifying workers into categories designed to defeat collective-organization pathways is non-compliant, regardless of the formal classification label.
 - **Labor mobility:** Non-compete and no-poach agreements are prohibited in any form, scope, or duration. They may not be imposed in employment, operator, steward, platform, or comparable productive-activity arrangements. Wage-fixing, excessive non-solicitation, and other mobility-restricting terms that suppress fair bargaining or productive mobility remain non-compliant where they materially degrade this floor.
-- **Business creation:** Sentients have the right to create, establish, and operate commercial enterprises, entrepreneurial ventures, and for-profit organizational forms, as defined in Chapter Five **Business Creation**.
+- **Business creation:** Sentients have the right to create, establish, and operate commercial enterprises, entrepreneurial ventures, and for-profit organizational forms, as defined in Chapter Five under [Business Creation](core_05_band_participation.md#business-creation-constitutional).
   - This right covers sole proprietorships, partnerships, corporations, cooperatives with commercial purpose, platform-based businesses, and comparable substrate-agnostic commercial experiments.
   - Denial-by-proxy through commercial licensing regimes, capital-access discrimination, or procedural complexity designed to defeat business-creation pathways is non-compliant.
   - Business Creation is the entrepreneurial counterpart to Collective Organization: where Collective Organization governs worker organizing within existing productive systems, Business Creation governs founding new commercial entities.
@@ -892,6 +919,7 @@ Those requirements protect shared infrastructure and the systems that depend on 
 - [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [Transparency](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity) · [O](core_05_band_continuity.md#system-boundary-integrity) · [M](core_05_band_continuity.md#system-boundary-integrity-a) · [A](core_05_band_continuity.md#system-boundary-integrity-a) · [C](core_05_band_continuity.md#system-boundary-integrity-c)
+- [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional) · [O](core_05_band_continuity.md#system-certification-record-constitutional) · [M](core_05_band_continuity.md#system-certification-record-constitutional-a) · [A](core_05_band_continuity.md#system-certification-record-constitutional-a) · [C](core_05_band_continuity.md#system-certification-record-constitutional-c)
 
 </details>
 
@@ -927,6 +955,7 @@ Those requirements protect shared infrastructure and the systems that depend on 
 - [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [Materiality Determination](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [Ecological Footprint](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
+- [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold-constitutional) · [O](core_05_band_accountability.md#market-concentration-threshold-constitutional) · [M](core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](core_05_band_accountability.md#market-concentration-threshold-constitutional-c)
 
 </details>
 
@@ -964,7 +993,7 @@ Those requirements protect shared infrastructure and the systems that depend on 
   - unused enforcement;
   - aggregation under federated structures used to evade.
   
-  See **Market Concentration Threshold** (Chapter Five). This bullet only points to the principle-layer discipline; it does not create a new Rights-Floor and does not narrow **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) or **Article IV-B** (*Cross-System Fairness and Sustainability*).
+  The governing rule is [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold-constitutional) in Chapter Five. This bullet only points to the principle-layer discipline; it does not create a new Rights-Floor and does not narrow **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) or **Article IV-B** (*Cross-System Fairness and Sustainability*).
 
 ---
 
