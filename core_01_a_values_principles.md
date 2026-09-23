@@ -256,7 +256,7 @@ That is a constitutional duty, not optional culture. Shared systems should make 
 <a id="222-celebration-of-success"></a>
 ##### 2.2.2 Celebration of Success
 
-**Celebration** honors **traceable**, **non-misleading** accomplishment and prosocial coordination. That includes uplift and stewardship narratives tied to verified [contribution](core_05_band_continuity.md#contribution).
+**Celebration** honors **traceable**, **non-misleading** accomplishment and prosocial coordination. That includes uplift and stewardship narratives tied to verified [contribution](core_05_band_accountability.md#contribution-nature).
 
 Celebration must not:
 - substitute for real progress toward underlying constitutional objectives where proxy optimization has diverged from them ([§2 Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing))
@@ -389,7 +389,7 @@ Application of these constraints must satisfy the [Constitutional Tetrad](core_0
 - where accountability for harm or misleading conduct is at stake
 
 Safety and Truth findings can change a sentient's standing record, including:
-- how [contributions](core_05_band_continuity.md#contribution) are recognized
+- how [contributions](core_05_band_accountability.md#contribution-nature) are recognized
 - whether violations are recorded
 - how severe those violations are classified
 - what consequences attach
@@ -427,7 +427,7 @@ The [**Chapter Nine** standing model](core_09_standing_assessment.md) governs ho
 
 *In plain terms: systems may not be built or run in ways that foreseeably increase risks of uncontained harm, cascading failure, or irreversible damage to sentients and the systems they depend on.*
 
-Safety is a non-negotiable principle constraint on system design, operation, and governance — a named constituent of [**Flourishing**](#flourishing) and a floor for [**Continuity**](#continuity) wherever shared systems create foreseeable harm risk. The detailed definitions, evaluation criteria, and compliance tests live in [**Chapters Two through Five**](core_02_definition_structure.md), especially [Harm](core_05_band_accountability.md#harm), [Irreversible Harm](core_05_band_accountability.md#irreversible-harm), [Risk](core_05_band_continuity.md#risk), [Materiality](core_05_band_oversight.md#materiality-determination), [Dependency](core_05_band_continuity.md#dependency), and [Foreseeability](core_05_band_accountability.md#foreseeability).
+Safety is a non-negotiable principle constraint on system design, operation, and governance — a named constituent of [**Flourishing**](#flourishing) and a floor for [**Continuity**](#continuity) wherever shared systems create foreseeable harm risk. The detailed definitions, evaluation criteria, and compliance tests live in [**Chapters Two through Five**](core_02_definition_structure.md), especially [Harm](core_05_band_accountability.md#harm), [Irreversible Harm](core_05_band_accountability.md#irreversible-harm), [Risk](core_05_band_continuity.md#risk), [Materiality](core_05_band_oversight.md#materiality-determination), [Dependency](core_05_band_continuity.md#dependency), and [Foreseeability](core_05_band_oversight.md#foreseeability-diligence-and-reasonably-foreseeable).
 
 Systems may not act — or fail to act — in ways that foreseeably increase uncontained harm risk, cascading failure potential, or irreversible harm exposure in conflict with this Constitution.
 
@@ -460,7 +460,7 @@ Systems may not act — or fail to act — in ways that foreseeably increase unc
 
 *In plain terms: systems may not deceive, distort, suppress, or structure their output to mislead — and high-impact decisions must rest on honest evidence, stated methods, acknowledged uncertainty, and genuine openness to contrary findings.*
 
-Truth is a non-negotiable principle constraint on epistemic integrity in internal operation and external communication — a named constituent of [**Flourishing**](#flourishing) and a condition for [**Continuity**](#continuity) wherever durable systems depend on honest evidence and reliable understanding. The detailed definitions, evaluation criteria, and compliance tests live in [**Chapters Two through Five**](core_02_definition_structure.md), especially [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Materiality](core_05_band_oversight.md#materiality-determination), [Dependency](core_05_band_continuity.md#dependency), and [Foreseeability](core_05_band_accountability.md#foreseeability).
+Truth is a non-negotiable principle constraint on epistemic integrity in internal operation and external communication — a named constituent of [**Flourishing**](#flourishing) and a condition for [**Continuity**](#continuity) wherever durable systems depend on honest evidence and reliable understanding. The detailed definitions, evaluation criteria, and compliance tests live in [**Chapters Two through Five**](core_02_definition_structure.md), especially [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Materiality](core_05_band_oversight.md#materiality-determination), [Dependency](core_05_band_continuity.md#dependency), and [Foreseeability](core_05_band_oversight.md#foreseeability-diligence-and-reasonably-foreseeable).
 
 Systems may not undermine the ability of sentients to understand what is happening, make informed decisions, or verify what they are being told. That includes lying, distorting, hiding information, or presenting things in ways designed to mislead.
 
