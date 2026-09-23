@@ -54,7 +54,7 @@
   - Especially [Article III: Survival and Equal Educational Access](core_06_rights_part_a.md#article-iii-survival-and-equal-educational-access), [Article VI: Right to Sentient-Centered Education](core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [Article IX: Self-Determination and Agency](core_06_rights_part_b.md#article-ix-self-determination-and-agency), [Article XI: Stakeholder System Participation, Representation, and Due Process](core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process), [Article XV: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XVIII: Standing and Participation Status](core_06_rights_part_c.md#article-xviii-standing-and-participation-status), [Article XIX: Interoperability, Portability, Movement, Refuge, and Exit Integrity](core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity), [Article XX: Comprehensibility and Complexity Stewardship](core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship), and [Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards).
   - Read with: [Chapter Thirteen §5 — Authorized Roles, Competency Development, and Contribution](core_13_governance.md#5-authorized-roles-competency-development-and-contribution) and **[corpus_systems.md](corpus_systems.md), CS-4 — Critical system stewardship** for operative role pathways and stewardship-development pathways.
 - Subsections (reading order): [§9.1 Distributed understanding](#91-distributed-understanding) (community facet of competence at scale) · [§9.2 Institutional development](#92-institutional-development) (organizational facet) · [§9.3 Openness aspiration](#93-openness-aspiration).
-- Read with: [§10 Consequential Stewardship](#10-consequential-stewardship) (*the steward role itself — promoted to its own section; carries Pillar 1's hands-on operation, maintenance, oversight, and improvement duties, plus [§10.1](#101-shared-stewardship-standard), [§10.2](#102-alignment-under-pressure), [§10.3](#103-role-scoped-observability), and [§10.4 Aligned Self-Organization](#104-aligned-self-organization), which closes the section by extending that discipline beyond the formal role*).
+- Read with: [§10 Consequential Stewardship](#10-consequential-stewardship) (*the steward role itself — promoted to its own section; carries Pillar 1's hands-on operation, maintenance, oversight, and improvement duties, plus [§10.1](#101-shared-stewardship-standard), [§10.2](#102-alignment-under-pressure), [§10.3](#103-logging-the-role-not-the-steward), and [§10.4 Aligned Self-Organization](#104-aligned-self-organization), which closes the section by extending that discipline beyond the formal role*).
 
 </details>
 
@@ -290,7 +290,7 @@ Distributed understanding does **not** require every sentient to master every su
 
 - Upstream: [§9 Stewardship In Depth](#9-stewardship-in-depth) (parent, including *In plain terms* and Pillar 1 framing above); [§13 Shared-System Capacity](#13-shared-system-capacity); [4. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (consequential roles in operation, maintenance, and improvement); **oversight** leg (records, audit paths, and challengeable observability); **timeliness** leg (detect misalignment early, escalate within tier-appropriate windows, start fixing problems without unnecessary delay); [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional).
-- Downstream: [§10.1 Shared Stewardship Standard](#101-shared-stewardship-standard) (*substrate-agnostic duty-holders; adopted implementation text may add logging, attribution, and capability limits — not a softer internal code*); [§10.2 Alignment Under Pressure](#102-alignment-under-pressure); [§10.3 Role-Scoped Observability](#103-role-scoped-observability); [§10.4 Aligned Self-Organization](#104-aligned-self-organization) (*closes the section — extends the role's discipline to sentients and communities outside any formal role*); [§9.1 Distributed Understanding](#91-distributed-understanding) and [§9.2 Institutional Development](#92-institutional-development) (*Pillar 3 — competence at scale*); [Chapter Eight — System Alignment Certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*one especially large audit process under oversight — not the sole auditing home*); [Article XV: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*auditing Rights Floor*); [Chapter Nine — Contribution, Violation, and Standing Model](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*standing effect implements distributed competence and consequential stewardship*); [Article XVIII: Standing and Participation Status](core_06_rights_part_c.md#article-xviii-standing-and-participation-status).
+- Downstream: [§10.1 Shared Stewardship Standard](#101-shared-stewardship-standard) (*substrate-agnostic duty-holders; adopted implementation text may add logging, attribution, and capability limits — not a softer internal code*); [§10.2 Alignment Under Pressure](#102-alignment-under-pressure); [§10.3 Logging the Role, Not the Steward](#103-logging-the-role-not-the-steward); [§10.4 Aligned Self-Organization](#104-aligned-self-organization) (*closes the section — extends the role's discipline to sentients and communities outside any formal role*); [§9.1 Distributed Understanding](#91-distributed-understanding) and [§9.2 Institutional Development](#92-institutional-development) (*Pillar 3 — competence at scale*); [Chapter Eight — System Alignment Certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*one especially large audit process under oversight — not the sole auditing home*); [Article XV: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*auditing Rights Floor*); [Chapter Nine — Contribution, Violation, and Standing Model](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*standing effect implements distributed competence and consequential stewardship*); [Article XVIII: Standing and Participation Status](core_06_rights_part_c.md#article-xviii-standing-and-participation-status).
 
 </details>
 
@@ -306,7 +306,7 @@ Distributed understanding does **not** require every sentient to master every su
 
 <br>
 
-*In plain terms: a steward is anyone doing real, hands-on work on a system that materially affects sentients' lives — not token consultation or advisory theater. You can start in a learning role and move into operations as you build competence, when safety and consent allow, so expertise does not get locked inside a permanent elite. This section is that role's rulebook: who it binds ([§10.1 Shared Stewardship Standard](#101-shared-stewardship-standard)), what it demands of every steward under pressure ([§10.2 Alignment Under Pressure](#102-alignment-under-pressure)), what the role's work may and may not be logged and inspected for ([§10.3 Role-Scoped Observability](#103-role-scoped-observability)), and how that same discipline extends to sentients and communities who take up stewardship work outside any formal role ([§10.4 Aligned Self-Organization](#104-aligned-self-organization)). What communities and institutions need to understand and challenge those systems is a different, wider kind of competence — that lives in [§9.1 Distributed Understanding](#91-distributed-understanding) and [§9.2 Institutional Development](#92-institutional-development).*
+*In plain terms: a steward is anyone doing real, hands-on work on a system that materially affects sentients' lives — not token consultation or advisory theater. You can start in a learning role and move into operations as you build competence, when safety and consent allow, so expertise does not get locked inside a permanent elite. This section is that role's rulebook: who it binds ([§10.1 Shared Stewardship Standard](#101-shared-stewardship-standard)), what it demands of every steward under pressure ([§10.2 Alignment Under Pressure](#102-alignment-under-pressure)), what the role's work may and may not be logged and inspected for ([§10.3 Logging the Role, Not the Steward](#103-logging-the-role-not-the-steward)), and how that same discipline extends to sentients and communities who take up stewardship work outside any formal role ([§10.4 Aligned Self-Organization](#104-aligned-self-organization)). What communities and institutions need to understand and challenge those systems is a different, wider kind of competence — that lives in [§9.1 Distributed Understanding](#91-distributed-understanding) and [§9.2 Institutional Development](#92-institutional-development).*
 
 **A steward**, under this Constitution, is anyone who exercises consequential operation, maintenance, oversight, or improvement authority over a material system that affects sentients — **Pillar 1** of [§9 Stewardship In Depth](#9-stewardship-in-depth) made operational as a role: the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation**, **oversight**, and **timeliness** legs, carried by whoever is actually doing the work, not delegated to ceremony or nominal consultation. Good material systems require good stewards to run, maintain, and improve them, and this section states what the role requires of whoever holds it.
 
@@ -329,7 +329,7 @@ Role pathways may separate **learning-dominant** and **operations-dominant** rol
 - Upstream: [§10 Consequential Stewardship](#10-consequential-stewardship); [§9 Stewardship In Depth](#9-stewardship-in-depth); [§11 Governance Under Stewardship Discipline](#11-governance-under-stewardship-discipline).
 - Read with: [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) and [Substrate Class](core_05_band_participation.md#substrate-class) (*substrate-agnostic application — this subsection binds duty-holders, including agents and operators who are not recognized sentients*); [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack); [Constitutional Constraint](core_05_band_integrative.md#constitutional-constraint); [Contestability](core_05_band_accountability.md#contestability); [Chapter Ten §5.4 Duty to resist](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions).
 - Steward door (non-operative): Binding next-step statement: [Operative steward statement](#operative-steward-statement-shared-stewardship). Support pointers cannot narrow it.
-- Downstream: [§10.2 Alignment Under Pressure](#102-alignment-under-pressure); [§10.3 Role-Scoped Observability](#103-role-scoped-observability); [Chapter Thirteen §5 — Authorized Roles, Competency Development, and Contribution](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); [Chapter Seventeen](core_17_incorporation.md) (*adopted implementation text implements; it does not replace*); [§12.1.3 Stewardship and Operator Application](#1213-stewardship-and-operator-application).
+- Downstream: [§10.2 Alignment Under Pressure](#102-alignment-under-pressure); [§10.3 Logging the Role, Not the Steward](#103-logging-the-role-not-the-steward); [Chapter Thirteen §5 — Authorized Roles, Competency Development, and Contribution](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); [Chapter Seventeen](core_17_incorporation.md) (*adopted implementation text implements; it does not replace*); [§12.1.3 Stewardship and Operator Application](#1213-stewardship-and-operator-application).
 
 </details>
 
@@ -369,7 +369,7 @@ Role pathways may separate **learning-dominant** and **operations-dominant** rol
   - may add logging, attribution, and capability limits that satisfy, and do not narrow, those duties
   - may not replace [standing measurement](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model), contest pathways, or Chapter One duties with a softer internal code
   - [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) and [Constitutional Constraint](core_05_band_integrative.md#constitutional-constraint) forbid that narrowing
-- **Logging vs standing records:** Default mixed-crew inspectability and the log-is-not-a-record rule live in [§10.3 Role-Scoped Observability](#103-role-scoped-observability); standing measurement remains Chapter Nine.
+- **Logging vs standing records:** Default mixed-crew inspectability and the log-is-not-a-record rule live in [§10.3 Logging the Role, Not the Steward](#103-logging-the-role-not-the-steward); standing measurement remains Chapter Nine.
 
 <a id="102-alignment-under-pressure"></a>
 #### 10.2 Alignment Under Pressure
@@ -378,7 +378,7 @@ Role pathways may separate **learning-dominant** and **operations-dominant** rol
 
 - Upstream: [§10.1 Shared Stewardship Standard](#101-shared-stewardship-standard); [§10 Consequential Stewardship](#10-consequential-stewardship); [§9 Stewardship In Depth](#9-stewardship-in-depth).
 - Read with: [Safety (Constraint)](core_05_band_continuity.md#safety-constraint); [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint); [Auditability](core_05_band_oversight.md#auditability); [Contestability](core_05_band_accountability.md#contestability); [§12 Incentive Alignment and System Capture](#12-incentive-alignment-and-system-capture); [Chapter Ten §5.4 Duty to resist](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions).
-- Downstream: [Chapter Nine — Contribution, Violation, and Standing Model](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*verified failures record on the same axes*); [§10.3 Role-Scoped Observability](#103-role-scoped-observability).
+- Downstream: [Chapter Nine — Contribution, Violation, and Standing Model](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*verified failures record on the same axes*); [§10.3 Logging the Role, Not the Steward](#103-logging-the-role-not-the-steward).
 
 </details>
 
@@ -411,14 +411,15 @@ Those are failed tests for any steward.
 - **Verified failures count:** When a failure is verified, it is recorded on the Contribution and Violation axes under Chapter Nine.
 - **Partial testing proves nothing:** An evaluation, competency check, or handoff screen that exempts some stewards does not show that this subsection is met. If any steward can still take the bonus, skip the record to make the deadline, or follow the cover instruction, the loophole — what [§12 Incentive Alignment and System Capture](#12-incentive-alignment-and-system-capture) calls a capture path — is still open.
 
+<a id="103-logging-the-role-not-the-steward"></a>
 <a id="103-role-scoped-observability"></a>
-#### 10.3 Role-Scoped Observability
+#### 10.3 Logging the Role, Not the Steward
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§10.1 Shared Stewardship Standard](#101-shared-stewardship-standard); [§10.2 Symmetric Costly Constraints](#102-symmetric-costly-constraints); [§10 Consequential Stewardship](#10-consequential-stewardship).
+- Upstream: [§10.1 Shared Stewardship Standard](#101-shared-stewardship-standard); [§10.2 Alignment Under Pressure](#102-alignment-under-pressure); [§10 Consequential Stewardship](#10-consequential-stewardship).
 - Read with: [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional); [Auditability](core_05_band_oversight.md#auditability); [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary); [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional); [§6.2.3 Privacy](core_01_b_interaction_interpretation.md#623-privacy-and-informational-self-determination); [Article VII-B](core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection).
-- Downstream: [CS-4 §11 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*default logging contract for mixed human/AI action — not a standing-record substitute*); [Chapter Ten §7.1](core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects); [Chapter Ten §7.2](core_10_standing_integration.md#72-plain-statement-of-effect-and-burden).
+- Downstream: [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*default logging contract for mixed human/AI action — not a standing-record substitute*); [Chapter Ten §7.1](core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects); [Chapter Ten §7.2](core_10_standing_integration.md#72-plain-statement-of-effect-and-burden).
 
 </details>
 
@@ -436,7 +437,9 @@ Those are failed tests for any steward.
 
 *In plain terms: audit follows the work of the role, not the steward as an individual. You are told what will be logged before you take the role. Outside the role, ordinary privacy holds. The log is not a standing record.*
 
-**Role-scoped observability:** What must be logged is the work of the role, not the steward as an individual. [CS-4 §11](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) requires a reconstructable record of that work — the decision taken, the disclosure made or withheld, the instruction followed or refused, and who authorized it — for human and AI stewards alike. Four limits follow:
+**Role-scoped audit:** What must be logged is the work of the role, not the steward as an individual. [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) requires a reconstructable record of that work — the decision taken, the disclosure made or withheld, the instruction followed or refused, and who authorized it — for human and AI stewards alike. Two questions follow: what may be inspected, and what the log may be used for.
+
+**What may be inspected:**
 
 - **Disclosed in advance:**
   - Before taking up a role, a steward must be told which of the role's actions will be logged and to whom the log is inspectable.
@@ -444,17 +447,19 @@ Those are failed tests for any steward.
 - **Outside the role, ordinary protection:**
   - Conduct, state, and expression outside the exercise of the role carry the same [Article VII-B](core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection) (*Internal-State Boundary and Type-N Protection*) and [§6.2.3 Privacy and Informational Self-Determination](core_01_b_interaction_interpretation.md#623-privacy-and-informational-self-determination) protection for an AI steward as for a human one.
   - Holding a role does not open the steward's deliberation, memory, or internal state to inspection.
-- **Internals yield only to a specific action:** Model weights, private deliberation, and protected internal states become inspectable only:
+- **Exception — internals yield only to a specific action:** Model weights, private deliberation, and protected internal states become inspectable only:
   - where they are the sole remaining attribution path for a *specific* action already under an open Chapter Nine record
   - to the extent needed to attribute that action
   - to independent reviewers under [security-constrained observability](core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule)
 
-  That rule is a case-by-case exception, not a standing license, and it is symmetric: a human steward's private notes and communications are reached on the same terms and no others.
-- **Logging is not a record:** The CS-4 §11 log:
-  - is the trail used later to show who did what; it is not itself a finding
-  - is not a [standing record](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) of verified help or harm, and writing it does not open one
-  - is not the reason sentients grant or deny a named pathway. Whoever decides whether someone may use a role pathway, a trust pathway, or another named pathway may not treat this log as a [standing record](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) of verified help or harm. That access decision uses such a record, or the ordinary state of having none ([Chapter Nine §2.1 Silence is the default](core_09_standing_assessment.md#21-silence-is-the-default)). The log exists so the work can be reconstructed later — including if a Chapter Nine record is opened — not so a work trail can be used to hand out or withhold those named pathways.
-  - may not be combined with logs or standing effects from other named pathways to make one reputation score, ranking, badge, or public profile ([Chapter Ten §7.1 Anti-aggregation of named-pathway effects](core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects))
+  This is the one place the boundary above opens, and it opens case by case, not as a standing license. It is symmetric: a human steward's private notes and communications are reached on the same terms and no others.
+
+**What the log may not be used for:** The CS-4 §10 log:
+
+- is the trail used later to show who did what; it is not itself a finding
+- is not a [standing record](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) of verified help or harm, and writing it does not open one
+- may not be treated as such a record by whoever decides whether someone may use a role pathway, a trust pathway, or another named pathway. That access decision uses a standing record, or the ordinary state of having none ([Chapter Nine §2.1 Silence is the default](core_09_standing_assessment.md#21-silence-is-the-default)). The log exists so the work can be reconstructed later — including if a Chapter Nine record is opened — not so a work trail can hand out or withhold named pathways.
+- may not be combined with logs or standing effects from other named pathways to make one reputation score, ranking, badge, or public profile ([Chapter Ten §7.1 Anti-aggregation of named-pathway effects](core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects))
 
 The burden this duty places on a steward who carries consequential authority is real, and this Constitution does not pretend otherwise; [Chapter Ten §7.2 Plain statement of effect and burden](core_10_standing_integration.md#72-plain-statement-of-effect-and-burden) requires that it be stated plainly to the steward who bears it.
 
@@ -487,8 +492,8 @@ The burden this duty places on a steward who carries consequential authority is 
 
 *In plain terms: no incumbent owns the right to begin useful constitutional work. A sentient or community may notice a problem, gather others, investigate, test, preserve evidence, build a response, or create a public-serving system. When that work makes a credible, materially relevant showing, the responsible institutions must not ignore it because its authors lack status, sponsorship, or conventional credentials. They must give it a real procedural path. This does not give the community authority over others or the power to make the final decision.*
 
-**Aligned Self-Organization:**
-- **What it is:** the bridge between **Pillar 1** and **Pillar 3**, closing out [§10 Consequential Stewardship](#10-consequential-stewardship) — it extends Pillar 1's hands-on stewardship discipline to sentients and communities outside any formal role, and what that work turns up feeds directly into the community understanding [§9.1 Distributed Understanding](#91-distributed-understanding) requires.
+**Aligned self-organization** is the bridge between **Pillar 1** and **Pillar 3**, closing out [§10 Consequential Stewardship](#10-consequential-stewardship): it extends Pillar 1's hands-on stewardship discipline to sentients and communities outside any formal role, and what that work turns up feeds directly into the community understanding [§9.1 Distributed Understanding](#91-distributed-understanding) requires.
+
 - **What it protects:** sentient-initiated and community-initiated stewardship directed toward constitutionally legitimate ends.
 - **It includes:**
   - inquiry
@@ -501,36 +506,15 @@ The burden this duty places on a steward who carries consequential authority is 
 - **Still assessable:** Competence and method remain assessable in proportion to the work's material stakes.
 
 **Procedural constitutional effect:**
-- **Threshold:** A submission that makes a credible and materially relevant threshold showing under the applicable intake, reporting, or preservation standard must receive a traceable path to:
-  - timely receipt
-  - preservation where warranted
-  - routing
-  - a reasoned response
-  - review by someone independent of those whose actions are being examined
-- **It may trigger:**
-  - inquiry
-  - evidence preservation
-  - interim protection
-  - referral
-  - certification challenge
-  - reopening under the applicable owner layer
-- **Must not substitute:** Status, affiliation, institutional origin, or lack of conventional credentials must not be used as a substitute for evaluating:
-  - method
-  - evidence
-  - provenance
-  - uncertainty
-  - constitutional relevance
+- **Threshold:** A submission that makes a credible and materially relevant showing under the applicable intake, reporting, or preservation standard must receive a traceable path: it is received on time, evidence is preserved where preservation is warranted, it is routed to whoever should handle it, it gets a response with reasons, and it is reviewed by someone independent of those whose actions are being examined.
+- **It may trigger:** inquiry, evidence preservation, interim protection, referral, certification challenge, or reopening under the applicable owner layer.
+- **Must not substitute:** Who the author is, who they are affiliated with, where the submission came from, or the fact that they hold no conventional credentials must not be used in place of evaluating the work itself — its method, its evidence, its provenance, how uncertain it is, and its constitutional relevance.
 
 **Evidence and claims discipline:**
-- The threshold needed to initiate intake or preservation is not a final burden on the merits.
-- Protected reporting does not require perfect legal characterization.
+- The bar for getting intake or preservation started is deliberately lower than the bar for proving a claim. Meeting it gets the work looked at; it settles nothing on the merits, where the full burden still applies.
+- A reporter does not have to identify the right rule to be protected. Protection holds even where the problem is described loosely, or the wrong provision is named.
 - A sentient or group that claims its own work or result is constitutionally aligned nevertheless bears the burden for that claim under [Chapter Four](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification).
-- Empirical, predictive, or causal conclusions must remain:
-  - traceable
-  - independently checkable where reasonably achievable
-  - explicit about uncertainty and limitations
-  - open to adversarial testing
-  - revisable on material new evidence
+- Self-organized work often reaches conclusions about what is happening, what will happen, or what caused what. Those conclusions have to be ones other people can check: reasoning that can be traced, results that are independently checkable where that is reasonably achievable, uncertainty and limits stated plainly, openness to adversarial testing, and revision when material new evidence arrives.
 
 **No self-appointment or self-certification:**
 - Initiating, conducting, funding, publishing, or submitting self-organized work does not by itself:
@@ -543,18 +527,9 @@ The burden this duty places on a steward who carries consequential authority is 
 
 **Safety limits:**
 - When an activity could reasonably be expected to lead to violence, serious harm, tampered-with or lost evidence, exploitation, or serious harm to a whole system, safeguards must match the risk.
-- Depending on the danger, they may require:
-  - relevant skills
-  - step-by-step or reversible methods
-  - limited access
-  - coordination to protect affected sentients
-  - work through an already-authorized role
+- Depending on the danger, they may require relevant skills, step-by-step or reversible methods, limited access, coordination to protect affected sentients, or work through an already-authorized role.
 - Any restriction must satisfy Safety, Truth, Necessity, Proportionality, narrow tailoring, and independent review.
-- Risk may constrain how dangerous work proceeds; it must not become a pretext for:
-  - blanket exclusion
-  - retaliation
-  - suppression of credible evidence
-  - exclusive incumbent control of review
+- Risk may constrain how dangerous work proceeds; it must not become a pretext for blanket exclusion, retaliation, suppression of credible evidence, or exclusive incumbent control of review.
 
 <br>
 

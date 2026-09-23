@@ -11,9 +11,9 @@ Coverage: **613** of **879** headings carry a gloss (70%).
 ## Contents
 
 - [PREAMBLE / FOUNDATIONAL REQUIREMENTS](#preamble--foundational-requirements) — `core_00_preamble.md` (14/16 glossed)
-- [CHAPTER 01, PART A: VALUES PRINCIPLES](#chapter-01-part-a-values-principles) — `core_01_a_values_principles.md` (16/33 glossed)
+- [CHAPTER 01, PART A: VALUES PRINCIPLES](#chapter-01-part-a-values-principles) — `core_01_a_values_principles.md` (17/34 glossed)
 - [CHAPTER 01, PART B: INTERACTION AND INTERPRETATION](#chapter-01-part-b-interaction-and-interpretation) — `core_01_b_interaction_interpretation.md` (17/24 glossed)
-- [CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE](#chapter-01-part-c-stewardship-and-governance) — `core_01_c_stewardship_capacity_principles.md` (41/48 glossed)
+- [CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE](#chapter-01-part-c-stewardship-and-governance) — `core_01_c_stewardship_capacity_principles.md` (40/47 glossed)
 - [CHAPTER TWO: DEFINITION STRUCTURE AND COMPONENT REQUIREMENTS](#chapter-two-definition-structure-and-component-requirements) — `core_02_definition_structure.md` (8/12 glossed)
 - [CHAPTER THREE: DEFINITION INTEGRITY, EVASION, AND NON-COMPLIANCE](#chapter-three-definition-integrity-evasion-and-non-compliance) — `core_03_definition_integrity.md` (5/15 glossed)
 - [CHAPTER FOUR: BURDEN OF PROOF, TRACEABILITY, AND VERIFICATION](#chapter-four-burden-of-proof-traceability-and-verification) — `core_04_burden_traceability_verification.md` (7/7 glossed)
@@ -138,15 +138,15 @@ Chapters Thirteen through Seventeen close the instrument: who may govern, how th
 
 [Source](../../core_00_preamble.md#8-governance-change-and-incorporation)
 
-#### 9. Companion Implementation Corpus
+#### 9. Adopted Implementation Corpus
 
-four companion corpora (joint structure, systems, institutions, and forum operations) spell out how to carry out what the chapters already require; they bind when validly adopted, and they may not shrink those duties.
+four adopted corpora (joint structure, systems, institutions, and forum operations) spell out how to carry out what the chapters already require; they bind when validly adopted, and they may not shrink those duties.
 
-[Source](../../core_00_preamble.md#9-companion-implementation-corpus)
+[Source](../../core_00_preamble.md#9-adopted-implementation-corpus)
 
 ## CHAPTER 01, PART A: VALUES PRINCIPLES
 
-Source file: [`core_01_a_values_principles.md`](../../core_01_a_values_principles.md) · 16/33 headings glossed
+Source file: [`core_01_a_values_principles.md`](../../core_01_a_values_principles.md) · 17/34 headings glossed
 
 #### 1. Purpose and Role
 
@@ -237,6 +237,12 @@ wellbeing is not only what's forbidden and what's fair — shared systems should
 *(no plain-terms gloss in source)*
 
 [Source](../../core_01_a_values_principles.md#227-implementation-layer)
+
+##### 2.3 Anti-Degrading Process
+
+however you govern, enforce, judge, restrict, or remedy — you don't run sentients through humiliation, public spectacle, retaliation, or "because it's easier for us" cruelty. Fair consequences, public accountability, and firm restrictions can still be lawful even when they hurt or embarrass someone. What crosses the line is when the process itself is the punishment — designed to degrade, shame, or lash out rather than to protect, correct, restore, or prevent. This applies everywhere constitutional authority runs, not only during rights tradeoffs.
+
+[Source](../../core_01_a_values_principles.md#23-anti-degrading-process)
 
 #### 3. Non-Negotiable Principle Constraints: Safety and Truth
 
@@ -484,289 +490,283 @@ when one situation touches more than one incorporated how-to file — or when yo
 
 ## CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE
 
-Source file: [`core_01_c_stewardship_capacity_principles.md`](../../core_01_c_stewardship_capacity_principles.md) · 41/48 headings glossed
+Source file: [`core_01_c_stewardship_capacity_principles.md`](../../core_01_c_stewardship_capacity_principles.md) · 40/47 headings glossed
 
-#### 9. Stewardship and Distributed Understanding
+#### 9. Stewardship In Depth
 
-two ideas hold this section together. First, material systems that affect sentients' lives need sentient organization to run them well — not a sealed-off priesthood of specialists. Second, that organization must build **competence at scale**: real paths for individuals into consequential work, enough community understanding to notice problems and push back, and institutions that keep learning instead of freezing in place. [§9.1 Consequential Stewardship](../../core_01_c_stewardship_capacity_principles.md#91-stewardship) through [§9.6 Anti-Degrading Process](../../core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) carry that discipline, including openness when safety allows, self-organized constitutional work, and limits on degrading process; **[§10 Governance Under Stewardship Discipline](../../core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)** continues governance under the same stewardship frame — with clear limits so this section does not override safety, truth, justified secrecy, or the specific rights guaranteed in Chapter Six.
+three ideas hold this section together. First, material systems that affect sentients' lives need sentient organization to run them well — not a sealed-off priesthood of specialists. Second, good stewards don't wait for harm to force their hand — they notice trouble while it's still small, keep it moving through the right hands, and close it out before delay becomes its own harm. Third, that organization must build **competence at scale**: real paths for individuals into consequential work, enough community understanding to notice problems and push back, and institutions that keep learning instead of freezing in place.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)
+[Source](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth)
 
-##### 9.1 Consequential Stewardship
-
-stewardship means doing real work on systems that affect sentients' lives — not token consultation or advisory theater. You can start in a learning role and move into operations as you build competence, when safety and consent allow, so expertise does not get locked inside a permanent elite. Fix problems before they blow up when you can — and when harm is foreseeable, act within tier-appropriate windows rather than deferring repair; when harm happens anyway, correction is still mandatory — but cleanup alone does not excuse bad design. What communities and institutions need to understand and challenge those systems lives in [§9.2](../../core_01_c_stewardship_capacity_principles.md#92-distributed-understanding) and [§9.3](../../core_01_c_stewardship_capacity_principles.md#93-institutional-development); this subsection is the hands-on practice that must make that competence possible.
-
-[Source](../../core_01_c_stewardship_capacity_principles.md#91-stewardship)
-
-###### 9.1.1 Shared Stewardship Standard
-
-human and AI stewards owe the same Chapter One duties. [Chapter Ten §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) binds both to refuse unlawful or unconstitutional instructions. Companions may add logging, attribution, and capability limits. They may not swap in a softer internal code, skip standing measurement, or close contest pathways. This is not a new morals stack — it is the anti-special-pleading rule. The bonus, the deadline, and cover-instruction tests live in [§9.1.2](../../core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints).
-
-[Source](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)
-
-###### 9.1.2 Symmetric Costly Constraints
-
-the bonus, the deadline, and “ignore it, I’ll take responsibility” are failed tests for human operators too — recorded on the same standing axes. The duty to resist for both lives in [§9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard). Testing only machine agents while humans keep those forbidden moves is a capture path, not a shared standard.
-
-[Source](../../core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints)
-
-###### 9.1.3 Role-Scoped Observability
-
-audit follows the work of the role, not the steward as an individual. You are told what will be logged before you take the role. Outside the role, ordinary privacy holds. The log is not a standing record.
-
-[Source](../../core_01_c_stewardship_capacity_principles.md#913-role-scoped-observability)
-
-##### 9.2 Distributed Understanding
+##### 9.1 Distributed Understanding
 
 you must not need a PhD in every subsystem to live safely inside shared systems — but the more a system affects your life, the more you should be able to learn what it does, what could go wrong, and how to challenge bad calls. Transparency, education, plain explanations, and audit paths are how that happens. Complexity is not an excuse to hide what matters. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large audit process among those paths — not the only one.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#92-distributed-understanding)
+[Source](../../core_01_c_stewardship_capacity_principles.md#91-distributed-understanding)
 
-##### 9.3 Institutional Development
+##### 9.2 Institutional Development
 
 institutions have to actually learn — not just upgrade software while those in charge stay clueless. That means feedback loops, documented fixes when things fall out of alignment, and keeping competence from walking out the door. Where behavior can be measured repeatably, tracking how performance varies over time is one proportionate way to implement those loops — **statistical process control** is a well-known pattern for that discipline, not a requirement everywhere. Numbers alone do not count: when indicators look wrong, someone has to investigate and fix the root cause. Dashboards must be honest, scaled to real impact, and written so affected sentients can understand them — not gamed to look good while nothing changes.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#93-institutional-development)
+[Source](../../core_01_c_stewardship_capacity_principles.md#92-institutional-development)
 
-##### 9.4 Openness Aspiration
+##### 9.3 Openness Aspiration
 
 when safety, truth, and legitimate confidentiality allow, shared systems should default toward openness — inspectable tech, transparent processes, and designs you can verify, repair, or leave — instead of opaque lock-in. That supports **Continuity**: systems sentients can still understand, fix, and exit over time, not just use today. What matters should be explained in language sentients can actually use to participate and push back. Openness never outranks safety, honesty, or justified secrets, and it does not replace the deeper understanding owed where dependence is high.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#94-openness-aspiration)
+[Source](../../core_01_c_stewardship_capacity_principles.md#93-openness-aspiration)
 
-##### 9.5 Aligned Self-Organization
+#### 10. Consequential Stewardship: The Steward Role
+
+a steward is anyone doing real, hands-on work on a system that materially affects sentients' lives — not token consultation or advisory theater. You can start in a learning role and move into operations as you build competence, when safety and consent allow, so expertise does not get locked inside a permanent elite. This section is that role's rulebook: who it binds ([§10.1 Shared Stewardship Standard](../../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard)), what it demands of every steward under pressure ([§10.2 Alignment Under Pressure](../../core_01_c_stewardship_capacity_principles.md#102-alignment-under-pressure)), what the role's work may and may not be logged and inspected for ([§10.3 Logging the Role, Not the Steward](../../core_01_c_stewardship_capacity_principles.md#103-logging-the-role-not-the-steward)), and how that same discipline extends to sentients and communities who take up stewardship work outside any formal role ([§10.4 Aligned Self-Organization](../../core_01_c_stewardship_capacity_principles.md#104-aligned-self-organization)). What communities and institutions need to understand and challenge those systems is a different, wider kind of competence — that lives in [§9.1 Distributed Understanding](../../core_01_c_stewardship_capacity_principles.md#91-distributed-understanding) and [§9.2 Institutional Development](../../core_01_c_stewardship_capacity_principles.md#92-institutional-development).
+
+[Source](../../core_01_c_stewardship_capacity_principles.md#10-consequential-stewardship)
+
+##### 10.1 Shared Stewardship Standard
+
+human and AI stewards owe the same Chapter One duties. [Chapter Ten §5.4 Duty to Resist](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) binds both to refuse unlawful or unconstitutional instructions. Adopted implementation text may add logging, attribution, and capability limits. It may not swap in a softer internal code, skip standing measurement, or close contest pathways. This is not a new morals stack — it is the anti-special-pleading rule. The bonus, the deadline, and cover-instruction tests live in [§10.2 Alignment Under Pressure](../../core_01_c_stewardship_capacity_principles.md#102-alignment-under-pressure).
+
+[Source](../../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard)
+
+##### 10.2 Alignment Under Pressure
+
+following the rules is easy when nothing is at stake. What shows whether a steward is actually aligned is what they do when following the rules costs them something — a bonus that pays off only if problems stay hidden, a deadline that tempts someone to switch off the record-keeping, a boss who says "ignore the rules, I'll take the blame." That is why conduct under pressure matters more than conduct without it. Every steward is expected to refuse all three, and the same tests apply to every steward. The duty to refuse is set out in [§10.1 Shared Stewardship Standard](../../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard).
+
+[Source](../../core_01_c_stewardship_capacity_principles.md#102-alignment-under-pressure)
+
+##### 10.3 Logging the Role, Not the Steward
+
+audit follows the work of the role, not the steward as an individual. You are told what will be logged before you take the role. Outside the role, ordinary privacy holds. The log is not a standing record.
+
+[Source](../../core_01_c_stewardship_capacity_principles.md#103-logging-the-role-not-the-steward)
+
+##### 10.4 Aligned Self-Organization
 
 no incumbent owns the right to begin useful constitutional work. A sentient or community may notice a problem, gather others, investigate, test, preserve evidence, build a response, or create a public-serving system. When that work makes a credible, materially relevant showing, the responsible institutions must not ignore it because its authors lack status, sponsorship, or conventional credentials. They must give it a real procedural path. This does not give the community authority over others or the power to make the final decision.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization)
+[Source](../../core_01_c_stewardship_capacity_principles.md#104-aligned-self-organization)
 
-##### 9.6 Anti-Degrading Process
-
-however you govern, enforce, judge, restrict, or remedy — you don't run sentients through humiliation, public spectacle, retaliation, or "because it's easier for us" cruelty. Fair consequences, public accountability, and firm restrictions can still be lawful even when they hurt or embarrass someone. What crosses the line is when the process itself is the punishment — designed to degrade, shame, or lash out rather than to protect, correct, restore, or prevent. This applies everywhere constitutional authority runs, not only during rights tradeoffs.
-
-[Source](../../core_01_c_stewardship_capacity_principles.md#96-process-character-discipline)
-
-#### 10. Governance Under Stewardship Discipline
+#### 11. Governance Under Stewardship Discipline
 
 governance is who may decide what and how — but only when those structures stay under stewardship discipline, serve Flourishing and Continuity together, and do not hollow the Tetrad or replace Chapter Thirteen's operative authorization rules.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)
+[Source](../../core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline)
 
-##### 10.1 Governance as Authorized Structure
+##### 11.1 Governance as Authorized Structure
 
-governance is the rulebook for power — who may decide what, through which structures, and who must answer for the results. The more power a role carries, the stronger those answerability and oversight duties must be — never weaker. That only works if it helps sentients flourish over time, keeps real paths for participation and oversight, and stays under the stewardship discipline from [§9 Stewardship and Distributed Understanding](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding). Following the rulebook for its own sake is not enough when it would protect the institution, chase short-term wins, or eat away at basic Rights Floors.
+governance is the rulebook for power — who may decide what, through which structures, and who must answer for the results. The more power a role carries, the stronger those answerability and oversight duties must be — never weaker. That only works if it helps sentients flourish over time, keeps real paths for participation and oversight, and stays under the stewardship discipline from [§9 Stewardship In Depth](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth). Following the rulebook for its own sake is not enough when it would protect the institution, chase short-term wins, or eat away at basic Rights Floors.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure)
+[Source](../../core_01_c_stewardship_capacity_principles.md#111-governance-as-authorized-structure)
 
-##### 10.2 Segregation of Duties
+##### 11.2 Segregation of Duties
 
 governance must keep the one who acts from becoming the supposedly independent check on that act. Chapter Seven supplies the four-seat structure that makes this principle usable across certification, records, forums, and every other materially binding process.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties)
+[Source](../../core_01_c_stewardship_capacity_principles.md#112-segregation-of-duties)
 
-##### 10.3 Ongoing Justification
+##### 11.3 Ongoing Justification
 
 arrangements cannot coast forever on "we've always done it this way." Important rules for who decides, who has a voice, how influence is weighted, how money is allocated, and how institutions are designed have to keep proving they still fit this Constitution — on a schedule others can see and challenge.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#103-ongoing-justification)
+[Source](../../core_01_c_stewardship_capacity_principles.md#113-ongoing-justification)
 
-#### 11. Incentive Alignment and System Capture
+#### 12. Incentive Alignment and System Capture
 
 governance that keeps hitting quarterly targets while hollowing safety, truth, participation, or the future is not "working governance" — it is a defect this Constitution names and corrects through the incentive and capture discipline below. Incentives acting on operators, agents, and system components — including compensation, promotion, equity, and comparable reward pathways — must pull toward constitutional outcomes. They may not quietly reward behavior that undermines Safety, Truth, rights, stability, or meaningful agency, whether directly, through delay, through aggregation, or through arrangements that materially depend on misconduct or its concealment.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture)
+[Source](../../core_01_c_stewardship_capacity_principles.md#12-incentive-alignment-and-system-capture)
 
-##### 11.1 Alignment Requirement
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_01_c_stewardship_capacity_principles.md#111-alignment-requirement)
-
-###### 11.1.1 What Incentives Must Do
+##### 12.1 Alignment Requirement
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1111-what-incentives-must-do)
+[Source](../../core_01_c_stewardship_capacity_principles.md#121-alignment-requirement)
 
-###### 11.1.2 What Incentives Must Not Do
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_01_c_stewardship_capacity_principles.md#1112-what-incentives-must-not-do)
-
-###### 11.1.3 Stewardship and Operator Application
+###### 12.1.1 What Incentives Must Do
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1211-what-incentives-must-do)
 
-###### 11.1.4 Role-Depth and Material-Responsibility Pathways
+###### 12.1.2 What Incentives Must Not Do
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_01_c_stewardship_capacity_principles.md#1212-what-incentives-must-not-do)
+
+###### 12.1.3 Stewardship and Operator Application
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_01_c_stewardship_capacity_principles.md#1213-stewardship-and-operator-application)
+
+###### 12.1.4 Role-Depth and Material-Responsibility Pathways
 
 sentients who run shared systems need real jobs with real skill and real say — not titles, suggestion boxes, or committees that cannot change anything. How those jobs are defined, who can grow into them, and how they are held to account is spelled out later. This subsection only says what those paths have to do: they have to make participation real, and the more that is actually at stake, the more real they have to be.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1114-role-depth-and-material-responsibility-pathways)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1214-role-depth-and-material-responsibility-pathways)
 
-###### 11.1.5 Constitutional Outcome Claims Discipline
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)
-
-##### 11.2 Convenient Proxies and Proxy Divergence
+###### 12.1.5 Constitutional Outcome Claims Discipline
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#112-convenient-proxies-and-proxy-divergence)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1215-constitutional-outcome-claims-discipline)
 
-##### 11.3 Misalignment Detection
+##### 12.2 Convenient Proxies and Proxy Divergence
 
-no one gets to be the only sentient who can spot, check, or challenge when governance goes wrong. Detection needs multiple independent pathways, open data and auditing where safety and classification rules allow, and clear escalation when capture or misalignment shows up — not quiet absorption as business as usual. That escalation rule is [§11.3.1 Escalation Triggers](../../core_01_c_stewardship_capacity_principles.md#1131-escalation-triggers).
+*(no plain-terms gloss in source)*
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#113-misalignment-detection)
+[Source](../../core_01_c_stewardship_capacity_principles.md#122-convenient-proxies-and-proxy-divergence)
 
-###### 11.3.1 Escalation Triggers
+##### 12.3 Misalignment Detection
+
+no one gets to be the only sentient who can spot, check, or challenge when governance goes wrong. Detection needs multiple independent pathways, open data and auditing where safety and classification rules allow, and clear escalation when capture or misalignment shows up — not quiet absorption as business as usual. That escalation rule is [§12.3.1 Escalation Triggers](../../core_01_c_stewardship_capacity_principles.md#1231-escalation-triggers).
+
+[Source](../../core_01_c_stewardship_capacity_principles.md#123-misalignment-detection)
+
+###### 12.3.1 Escalation Triggers
 
 spotting capture is not treating it as ordinary operations. Once it shows up, it is an escalation trigger — prove it under Chapters Two through Five, and if the system cannot fix it in place, send it to the correction and standing homes named below.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1131-escalation-triggers)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1231-escalation-triggers)
 
-##### 11.4 Misalignment Correction and Capture Response
+##### 12.4 Misalignment Correction and Capture Response
 
 once misalignment or capture is detected, systems must actually fix it — modify bad incentives, constrain concentrated control, and restore alignment. Concentrated or hidden control that defeats challenge, oversight, accountability, or durable **Continuity** must be disclosed, mitigated, and escalated — not absorbed as ordinary operation.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response)
+[Source](../../core_01_c_stewardship_capacity_principles.md#124-misalignment-correction-and-capture-response)
 
-##### 11.5 Contingent Claims, Games of Chance, and Event-Contract Markets
+##### 12.5 Contingent Claims, Games of Chance, and Event-Contract Markets
 
-betting pools, casinos, prediction markets, and similar payout systems cannot be built to profit from unlawful harm, coercion, corruption, or capture of whoever decides the outcome. At scale, that kind of distortion undermines **Continuity** — durable trust in how important outcomes get resolved. Odds and prices are market signals — not proof of what is true, what rights require, or what counts as compliance. What those systems may not reward is [§11.5.1 What May Not Be Rewarded](../../core_01_c_stewardship_capacity_principles.md#1151-what-may-not-be-rewarded). Who decides outcomes is [§11.5.2 Who Decides Outcomes](../../core_01_c_stewardship_capacity_principles.md#1152-who-decides-outcomes). What signals count is [§11.5.3 Market Signals Are Not Constitutional Proof](../../core_01_c_stewardship_capacity_principles.md#1153-market-signals-are-not-constitutional-proof). Where detailed rules live is [§11.5.4 Proportionate Controls and Implementation Custody](../../core_01_c_stewardship_capacity_principles.md#1154-proportionate-controls-and-implementation-custody).
+betting pools, casinos, prediction markets, and similar payout systems cannot be built to profit from unlawful harm, coercion, corruption, or capture of whoever decides the outcome. At scale, that kind of distortion undermines **Continuity** — durable trust in how important outcomes get resolved. Odds and prices are market signals — not proof of what is true, what rights require, or what counts as compliance. What those systems may not reward is [§12.5.1 What May Not Be Rewarded](../../core_01_c_stewardship_capacity_principles.md#1251-what-may-not-be-rewarded). Who decides outcomes is [§12.5.2 Who Decides Outcomes](../../core_01_c_stewardship_capacity_principles.md#1252-who-decides-outcomes). What signals count is [§12.5.3 Market Signals Are Not Constitutional Proof](../../core_01_c_stewardship_capacity_principles.md#1253-market-signals-are-not-constitutional-proof). Where detailed rules live is [§12.5.4 Proportionate Controls and Implementation Custody](../../core_01_c_stewardship_capacity_principles.md#1254-proportionate-controls-and-implementation-custody).
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets)
+[Source](../../core_01_c_stewardship_capacity_principles.md#125-contingent-claims-games-of-chance-and-event-contract-markets)
 
-###### 11.5.1 What May Not Be Rewarded
+###### 12.5.1 What May Not Be Rewarded
 
 these systems may not be built so that the payout, the bonus, or the business model gets better when someone is harmed, coerced, or corrupted — or when whoever decides the outcome is captured.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1151-what-may-not-be-rewarded)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1251-what-may-not-be-rewarded)
 
-###### 11.5.2 Who Decides Outcomes
+###### 12.5.2 Who Decides Outcomes
 
 whoever decides whether the bet paid out cannot be captured.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1152-who-decides-outcomes)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1252-who-decides-outcomes)
 
-###### 11.5.3 Market Signals Are Not Constitutional Proof
+###### 12.5.3 Market Signals Are Not Constitutional Proof
 
 odds and prices are not proof of what is true or what this Constitution requires.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1153-market-signals-are-not-constitutional-proof)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1253-market-signals-are-not-constitutional-proof)
 
-###### 11.5.4 Proportionate Controls and Implementation Custody
+###### 12.5.4 Proportionate Controls and Implementation Custody
 
-how tightly you run these systems has to match how much is actually at stake. This chapter does not write the gambling code — adopting law and the systems and institutions companions do that.
+how tightly you run these systems has to match how much is actually at stake. This chapter does not write the gambling code — adopting law and the systems and institutions adopted corpora do that.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1154-proportionate-controls-and-implementation-custody)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1254-proportionate-controls-and-implementation-custody)
 
-##### 11.6 Successor Responsibility and Formal-Structure Non-Escape
+##### 12.6 Successor Responsibility and Formal-Structure Non-Escape
 
 bankruptcy, a sale, a reorganization, or changing corporate labels cannot by themselves wipe out constitutional duties. Whoever continues the work — successors, estates, receivers, or comparable transferees — inherits proportionate obligations unless a less harmful path is shown under **Necessity**.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape)
+[Source](../../core_01_c_stewardship_capacity_principles.md#126-successor-responsibility-and-formal-structure-non-escape)
 
-#### 12. Shared-System Capacity
+#### 13. Shared-System Capacity
 
-when shared systems are run well, sentients should be able to do useful work, improve life over time, and push back when something is wrong — without everything getting locked up by a few powerful actors. That overall ability is **Shared-System Capacity**. **[§12.1 Productive Capacity (Instrumental Good)](../../core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good)** covers whether sentients can actually participate and get real results. What must be preserved, and what does not count, is **[§12.1.1 Preserve, Expand, and What Does Not Count](../../core_01_c_stewardship_capacity_principles.md#1211-preserve-expand-and-what-does-not-count)**. **[§12.2 Constitutional Efficiency](../../core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency)** covers whether those results come without wasting everyone's time, money, and attention. **[§13 Market Structure](../../core_01_c_stewardship_capacity_principles.md#13-market-structure)** stops a handful of players from hollowing that out. None of it counts if the "progress" comes from hoarding wealth or power, faking the numbers, stripping rights, or dumping harm on others or the planet.
+when shared systems are run well, sentients should be able to do useful work, improve life over time, and push back when something is wrong — without everything getting locked up by a few powerful actors. That overall ability is **Shared-System Capacity**. **[§13.1 Productive Capacity (Instrumental Good)](../../core_01_c_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good)** covers whether sentients can actually participate and get real results. What must be preserved, and what does not count, is **[§13.1.1 Preserve, Expand, and What Does Not Count](../../core_01_c_stewardship_capacity_principles.md#1311-preserve-expand-and-what-does-not-count)**. **[§13.2 Constitutional Efficiency](../../core_01_c_stewardship_capacity_principles.md#132-constitutional-efficiency)** covers whether those results come without wasting everyone's time, money, and attention. **[§14 Market Structure](../../core_01_c_stewardship_capacity_principles.md#14-market-structure)** stops a handful of players from hollowing that out. None of it counts if the "progress" comes from hoarding wealth or power, faking the numbers, stripping rights, or dumping harm on others or the planet.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity)
+[Source](../../core_01_c_stewardship_capacity_principles.md#13-shared-system-capacity)
 
-##### 12.1 Productive Capacity (Instrumental Good)
+##### 13.1 Productive Capacity (Instrumental Good)
 
-productive capacity is the "can we actually get things done?" aspect of shared-system capacity. Can sentients take part, learn, contribute, and turn effort and resources into results that make life better — and keep that ability over time? It is a tool for better living. What must be preserved, and what does not count, is [§12.1.1 Preserve, Expand, and What Does Not Count](../../core_01_c_stewardship_capacity_principles.md#1211-preserve-expand-and-what-does-not-count).
+productive capacity is the "can we actually get things done?" aspect of shared-system capacity. Can sentients take part, learn, contribute, and turn effort and resources into results that make life better — and keep that ability over time? It is a tool for better living. What must be preserved, and what does not count, is [§13.1.1 Preserve, Expand, and What Does Not Count](../../core_01_c_stewardship_capacity_principles.md#1311-preserve-expand-and-what-does-not-count).
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good)
+[Source](../../core_01_c_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good)
 
-###### 12.1.1 Preserve, Expand, and What Does Not Count
+###### 13.1.1 Preserve, Expand, and What Does Not Count
 
 keep the ability to get things done, and grow it when that would waste less of everyone's time — but not by hoarding, faking the numbers, stripping rights, or dumping harm on others or the planet. Metrics that no longer prove real outcomes do not count.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1211-preserve-expand-and-what-does-not-count)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1311-preserve-expand-and-what-does-not-count)
 
-##### 12.2 Constitutional Efficiency
+##### 13.2 Constitutional Efficiency
 
 constitutional efficiency is the "are we getting our money's worth in human terms?" aspect of shared-system capacity. More real benefit for each hour of sentient time, attention, and shared effort — not cutting corners on rights, truth, safety, or ecology just to look fast, lean, or cheap.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency)
+[Source](../../core_01_c_stewardship_capacity_principles.md#132-constitutional-efficiency)
 
-#### 13. Market Structure
+#### 14. Market Structure
 
-sentients should be able to work, build, switch providers, and push back without running into a wall because one company or institution owns the only door. **Market Structure** is that anti-monopoly discipline — for markets, platforms, job systems, infrastructure, data, computing power, credentials, and other dependencies that matter to daily life. Getting big and inventing new things is fine; cornering the market is not. **[§13.1–§13.3](../../core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable)** set when concentration has gone too far, how domination gets stopped, and how much consolidation is allowed before sentients are locked in.
+sentients should be able to work, build, switch providers, and push back without running into a wall because one company or institution owns the only door. **Market Structure** is that anti-monopoly discipline — for markets, platforms, job systems, infrastructure, data, computing power, credentials, and other dependencies that matter to daily life. Getting big and inventing new things is fine; cornering the market is not. **§14.1–§14.3** (*Market Concentration Threshold Mechanism, Pro-Competition and Anti-Domination, and Consolidation Ceiling*) set when concentration has gone too far, how domination gets stopped, and how much consolidation is allowed before sentients are locked in.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#13-market-structure)
+[Source](../../core_01_c_stewardship_capacity_principles.md#14-market-structure)
 
-##### 13.1 Market Concentration Threshold Mechanism (Adopter-Tunable)
+##### 14.1 Market Concentration Threshold Mechanism (Adopter-Tunable)
 
-this section draws the floor against harmful pile-ups of wealth, power, or control. It does not itself decide how bad the harm was, and it does not itself brand someone as a misconduct case. When concentration is used to undermine this Constitution, Chapter Eleven judges that — and only after Chapter Nine has already scored the verified harm as one of the three most serious. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures. How those triggers are set is [§13.1.1 Concentration Threshold Triggers (Adopter-Tunable)](../../core_01_c_stewardship_capacity_principles.md#1311-concentration-threshold-triggers-adopter-tunable).
+this section draws the floor against harmful pile-ups of wealth, power, or control. It does not itself decide how bad the harm was, and it does not itself brand someone as a misconduct case. When concentration is used to undermine this Constitution, Chapter Eleven judges that — and only after Chapter Nine has already scored the verified harm as one of the three most serious. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures. How those triggers are set is [§14.1.1 Concentration Threshold Triggers (Adopter-Tunable)](../../core_01_c_stewardship_capacity_principles.md#1411-concentration-threshold-triggers-adopter-tunable).
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable)
+[Source](../../core_01_c_stewardship_capacity_principles.md#141-market-concentration-threshold-mechanism-adopter-tunable)
 
-###### 13.1.1 Concentration Threshold Triggers (Adopter-Tunable)
+###### 14.1.1 Concentration Threshold Triggers (Adopter-Tunable)
 
 adopters may tune the numerical triggers to their context — domain, population size, dependency density — but there is no one global number, and the floor still holds. The detailed threshold-setting rules live in CJS-3.11.1.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1311-concentration-threshold-triggers-adopter-tunable)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1411-concentration-threshold-triggers-adopter-tunable)
 
-##### 13.2 Pro-Competition and Anti-Domination
+##### 14.2 Pro-Competition and Anti-Domination
 
 the Constitution does not punish a system merely for being large, useful, or temporarily ahead because it genuinely innovated. It does prohibit durable domination: control over markets, labor, platforms, infrastructure, data, compute, credentials, or resources that lets an actor lock others in, block rivals, suppress fair bargaining, or capture constitutional accountability.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination)
+[Source](../../core_01_c_stewardship_capacity_principles.md#142-pro-competition-and-anti-domination)
 
-###### 13.2.1 Pro-Competition Duties (Dos)
+###### 14.2.1 Pro-Competition Duties (Dos)
 
 (dos): markets and dependencies must stay open enough that sentients can enter, switch, bargain fairly, and leave — getting big or inventing something new is fine when contestability remains real.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1321-pro-competition-duties-dos)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1421-pro-competition-duties-dos)
 
-###### 13.2.2 Anti-Domination Prohibitions (Don'ts)
+###### 14.2.2 Anti-Domination Prohibitions (Don'ts)
 
 (don'ts): no locking sentients in, blocking rivals, suppressing fair bargaining, or capturing constitutional accountability.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1322-anti-domination-prohibitions-donts)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1422-anti-domination-prohibitions-donts)
 
-###### 13.2.3 Remedies
+###### 14.2.3 Remedies
 
 when domination is substantiated, the response must fit the harm, restore real choice, and not punish size for its own sake.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1323-remedies)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1423-remedies)
 
-##### 13.3 Consolidation Ceiling
+##### 14.3 Consolidation Ceiling
 
 consolidation can steal real choice long before a market looks locked down. **Consolidation ceilings** give governance and stewards an early-warning power — to scrutinize, intervene, and correct pile-ups while exit and rivalry still exist.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#133-consolidation-ceiling)
+[Source](../../core_01_c_stewardship_capacity_principles.md#143-consolidation-ceiling)
 
-###### 13.3.1 Consolidation Risk (Pre-Lock-In Impairment)
+###### 14.3.1 Consolidation Risk (Pre-Lock-In Impairment)
 
 consolidation can hollow out real alternatives long before a market looks "locked down." Two kinds of pile-up matter especially: **horizontal consolidation** — fewer rivals at the same layer — and **vertical consolidation** — control across layers that creates chokepoints and lock-in.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1331-consolidation-risk-pre-lock-in-impairment)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1431-consolidation-risk-pre-lock-in-impairment)
 
-###### 13.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)
+###### 14.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)
 
-adopters must set evidence-based ceilings that trigger scrutiny before consolidation risks in **§13.3.1** materialize into lock-in — with separate horizontal and vertical triggers where the domain requires it.
+adopters must set evidence-based ceilings that trigger scrutiny before consolidation risks in **§14.3.1** (*Consolidation Risk, Pre-Lock-In Impairment*) materialize into lock-in — with separate horizontal and vertical triggers where the domain requires it.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1332-ceiling-discipline-adopter-requirements)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1432-ceiling-discipline-adopter-requirements)
 
-#### 14. Systemic Evaluation Requirement
+#### 15. Systemic Evaluation Requirement
 
 this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Eight** and **CS-3**, not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XV**, [Auditability](../../core_05_band_oversight.md#auditability)).
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement)
+[Source](../../core_01_c_stewardship_capacity_principles.md#15-systemic-evaluation-requirement)
 
-#### 15. Integrated Application
+#### 16. Integrated Application
 
 every later chapter, institutional design, and system is read through this chapter's principles — and those principles must hold even under adversarial pressure, capture attempts, or misaligned incentives.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application)
+[Source](../../core_01_c_stewardship_capacity_principles.md#16-integrated-application)
 
 ## CHAPTER TWO: DEFINITION STRUCTURE AND COMPONENT REQUIREMENTS
 
@@ -1402,7 +1402,7 @@ markets and market-like systems must leave participants real choices — fair en
 
 ##### Market Concentration Threshold
 
-adopters set the point at which too much control over a market, platform, infrastructure, labor, data, compute, capital, resources, or information triggers stronger review or remedy. They may tune that point to context, but may not set it so high that the Chapter One §13 protection never works.
+adopters set the point at which too much control over a market, platform, infrastructure, labor, data, compute, capital, resources, or information triggers stronger review or remedy. They may tune that point to context, but may not set it so high that the Chapter One §14 (*Market Structure*) protection never works.
 
 [Source](../../core_05_band_accountability.md#market-concentration-threshold-constitutional)
 
