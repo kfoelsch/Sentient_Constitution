@@ -750,15 +750,15 @@ This principle binds human and AI stewards alike under [§10.1 Shared Stewardshi
 
 *In plain terms: governance that keeps hitting quarterly targets while hollowing safety, truth, participation, or the future is not "working governance" — it is a defect this Constitution names and corrects through the incentive and capture discipline below. Incentives acting on operators, agents, and system components — including compensation, promotion, equity, and comparable reward pathways — must pull toward constitutional outcomes. They may not quietly reward behavior that undermines Safety, Truth, rights, stability, or meaningful agency, whether directly, through delay, through aggregation, or through arrangements that materially depend on misconduct or its concealment.*
 
-Systems must detect, disclose, and correct **short-horizon governance defects** ([Short-Horizon Governance Defect](core_05_band_continuity.md#short-horizon-governance-defect-constitutional)) through [Review and Correction Duty](core_05_band_continuity.md#review-and-correction-duty-constitutional), contestable oversight, and the alignment, misalignment-detection, misalignment-correction, capture-response, and successor-responsibility rules in [§12.1 Alignment Requirement](#121-alignment-requirement) through [§12.6 Successor Responsibility and Formal-Structure Non-Escape](#126-successor-responsibility-and-formal-structure-non-escape) and [§14.1 Market Concentration Threshold Mechanism](#141-market-concentration-threshold-mechanism-adopter-tunable) through [§14.3 Consolidation Ceiling](#143-consolidation-ceiling).
-
 **Systems must:**
 
 - align incentive structures acting on agents, operators, or constituent components with the values and constraints defined in this Constitution;
-- ensure those structures do not systematically undermine those values and constraints; and
-- ensure those structures do not capture, hollow, or misalign the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) below what [material stake](core_00_preamble.md#material-stake) requires.
+- ensure those structures do not systematically undermine those values and constraints or capture, hollow, or misalign the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) below what [material stake](core_00_preamble.md#material-stake) requires; and
+- detect, disclose, and correct [short-horizon governance defects](core_05_band_continuity.md#short-horizon-governance-defect-constitutional) through [Review and Correction Duty](core_05_band_continuity.md#review-and-correction-duty-constitutional) and contestable oversight.
 
-[§12.5 Contingent Claims, Games of Chance, and Event-Contract Markets](#125-contingent-claims-games-of-chance-and-event-contract-markets) states a **special application** of the same general standard. [§12.1.3 Stewardship and Operator Application](#1213-stewardship-and-operator-application) states stewardship and operator vocabulary and role pathway rules; neither creates a weaker incentive rule than [§12.1 Alignment Requirement](#121-alignment-requirement).
+[§12.1 Alignment Requirement](#121-alignment-requirement) sets the general rule and applies it to stewards and operators in [§12.1.3 Stewardship and Operator Application](#1213-stewardship-and-operator-application). [§12.2 Convenient Proxies and Proxy Divergence](#122-convenient-proxies-and-proxy-divergence) through [§12.4 Misalignment Correction and Capture Response](#124-misalignment-correction-and-capture-response) explain how systems handle misleading measures, find failures, and correct misalignment or capture.
+
+[§12.5 Contingent Claims, Games of Chance, and Event-Contract Markets](#125-contingent-claims-games-of-chance-and-event-contract-markets) applies the same rule to those activities. Neither this application nor the one for stewards and operators weakens the general rule. [§12.6 Successor Responsibility and Formal-Structure Non-Escape](#126-successor-responsibility-and-formal-structure-non-escape) keeps these duties in place when formal identity changes. [§14 Market Structure](#14-market-structure) covers related concentration, domination, and consolidation risks.
 
 <a id="121-alignment-requirement"></a>
 #### 12.1 Alignment Requirement
@@ -1277,6 +1277,8 @@ Authorization, design, and operation must:
 </details>
 
 <br>
+
+The question after governance and incentive alignment is what those arrangements enable in practice: durable, challengeable shared-system capacity.
 
 *In plain terms: when shared systems are run well, sentients should be able to do useful work, improve life over time, and push back when something is wrong — without everything getting locked up by a few powerful actors. That overall ability is **Shared-System Capacity**. **[§13.1 Productive Capacity (Instrumental Good)](#131-productive-capacity-instrumental-good)** covers whether sentients can actually participate and get real results. What must be preserved, and what does not count, is **[§13.1.1 Preserve, Expand, and What Does Not Count](#1311-preserve-expand-and-what-does-not-count)**. **[§13.2 Constitutional Efficiency](#132-constitutional-efficiency)** covers whether those results come without wasting everyone's time, money, and attention. **[§14 Market Structure](#14-market-structure)** stops a handful of players from hollowing that out. None of it counts if the "progress" comes from hoarding wealth or power, faking the numbers, stripping rights, or dumping harm on others or the planet.*
 
@@ -1901,7 +1903,8 @@ Operative ceiling-setting discipline — horizontal and vertical trigger design,
 
 *In plain terms: this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Eight** and **CS-3**, not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XV**, [Auditability](core_05_band_oversight.md#auditability)).*
 
-Chapter One sets the direction. Claims of the following kinds must be tested against what the whole system actually does — not against slogans, and not against a snapshot of one part or moment:
+Any claim about the matters below must be checked against what the whole system actually does over time. A slogan or a snapshot of one part at one moment is not enough:
+
 - classification;
 - compliance;
 - governance;
