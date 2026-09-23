@@ -11,7 +11,7 @@ This page is the public front door. It is **process / operations-guide support**
 
 This Sentient Constitution is a **model constitution**. In its own terms, it speaks to systems that materially affect sentients. It becomes **enforceable** for a particular body only after valid adoption under [Chapter Sixteen](core_16_amendment_ratification.md#10-ratification-and-adoption) and [Chapter Seventeen §4](core_17_incorporation.md#4-adoption-framing-and-scope-of-authority). Until then it may guide, inform, or serve as a reference. It has no independent power to enforce against non-adopters. It does not supersede local, national, or international law. Where it is used inside an existing legal framework, its processes and participation must stay consistent with that framework ([Chapter Fifteen §5](core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
-Four duties — **participation**, **oversight**, **accountability**, and **timeliness** — scale with [material stake](core_00_preamble.md#material-stake) ([Preamble §1](core_00_preamble.md#constitutional-tetrad)). Human and AI stewards share one standard ([Chapter One §9.1.1](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)). Do not invent an AI-only overlay. Do not exempt humans.
+Four duties — **participation**, **oversight**, **accountability**, and **timeliness** — scale with [material stake](core_00_preamble.md#material-stake) ([Preamble §1](core_00_preamble.md#constitutional-tetrad)). Human and AI stewards share one standard ([Chapter One §9.1.1](core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard)). Do not invent an AI-only overlay. Do not exempt humans.
 
 <a id="pre-release-status"></a>
 ## 2. Pre-release status
@@ -106,9 +106,9 @@ Same list as [FIT_SITUATIONS.md §5](implementation/adoption/FIT_SITUATIONS.md#5
 - Retrofitting an existing national constitution as drop-in law.
 - Claiming this Constitution supersedes local, national, or international law, or that operations-guide use displaces a regulator ([Chapter Fifteen §5](core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 - Marketing “we follow it” while dodging matching obligations ([Chapter Seventeen §4](core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)).
-- Two chat partners, or a markdown working group, claiming adoption or calling themselves the oversight body ([Chapter One §9.5](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization)).
+- Two chat partners, or a markdown working group, claiming adoption or calling themselves the oversight body ([Chapter One §9.5](core_01_c_stewardship_capacity_principles.md#104-aligned-self-organization)).
 - Binding host products, vendors, or platforms the crew does not control.
-- An AI-only overlay ([§9.1.1](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)), or a human exemption from costly cases ([§9.1.2](core_01_c_stewardship_capacity_principles.md#102-alignment-under-pressure)).
+- An AI-only overlay ([§9.1.1](core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard)), or a human exemption from costly cases ([§9.1.2](core_01_c_stewardship_capacity_principles.md#102-alignment-under-pressure)).
 - Treating a participation vote, token vote, or standing score as authorization — or as sentience status ([Preamble §3.3](core_00_preamble.md#33-governance-layers); [Article XVIII-A](core_06_rights_part_c.md#article-xviii-a-standing-distinction)).
 - Founding Chapter Twelve forum families from the cooperating crew and calling that independent review ([FORUM_FOUNDATION_KIT.md](implementation/adoption/FORUM_FOUNDATION_KIT.md)).
 

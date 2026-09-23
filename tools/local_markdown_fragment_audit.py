@@ -19,7 +19,20 @@ from urllib.parse import unquote, urlsplit
 from corpus_paths import binding_corpus_scope
 
 
-SOURCE_EXTRAS = ("CONSTITUTIONAL_REGRESSION_SCENARIOS.md",)
+# Reader-entry and contributor documents. These are the first pages a newcomer
+# opens, but they sit outside binding_corpus_scope, so nothing guarded their
+# cross-references until now. Working logs (TODO.md) and dated records
+# (MEMLOG.md, evidence/, evaluation/results/) stay out: they record what was
+# true when written and are not maintained prose.
+READER_ENTRY_DOCS = (
+    "START_HERE.md",
+    "VISION.md",
+    "CONCEPTUAL_OVERVIEW.md",
+    "RECORD_OVERVIEW.md",
+    "CONTRIBUTING.md",
+    "AGENTS.md",
+)
+SOURCE_EXTRAS = ("CONSTITUTIONAL_REGRESSION_SCENARIOS.md", *READER_ENTRY_DOCS)
 SOURCE_GLOBS = (
     "implementation/**/*.md",
     "doc_architecture/generated/**/*.md",
@@ -31,6 +44,13 @@ INLINE_LINK_RE = re.compile(
 REFERENCE_LINK_RE = re.compile(
     r"^\s{0,3}\[[^\]\n]+\]:\s*(?P<target><[^>\n]+>|\S+)"
 )
+# Reading-chain footers use a bare filename by convention and are owned by
+# footer_audit, which requires that exact spelling. Resolving them here as
+# ordinary relative links would contradict it, so they are skipped.
+FOOTER_NAV_RE = re.compile(r"^\s{0,3}\*\*(?:Next|Previous|Prev) file:\*\*", re.I)
+# doc_architecture.md illustrates path shapes with a typographic ellipsis
+# (corpus_systems/cs_07_….md). These are prose examples, not real targets.
+PLACEHOLDER_CHAR = "\u2026"
 HTML_ANCHOR_RE = re.compile(
     r"<(?:a|[^>\s]+)\b[^>]*\b(?:id|name)\s*=\s*"
     r"(?:\"([^\"]+)\"|'([^']+)'|([^\s>]+))",
@@ -146,10 +166,15 @@ def links_in(path: Path, text: str) -> list[Link]:
         visible_by_number.get(line_no, "")
         for line_no in range(1, len(text.splitlines()) + 1)
     )
+    skip_lines = {line_no for line_no, line in lines if FOOTER_NAV_RE.match(line)}
     for match in INLINE_LINK_RE.finditer(visible_text):
         line_no = visible_text.count("\n", 0, match.start()) + 1
+        if line_no in skip_lines:
+            continue
         links.append(Link(path, line_no, match.group("target").strip("<>")))
     for line_no, line in lines:
+        if line_no in skip_lines:
+            continue
         reference = REFERENCE_LINK_RE.match(line)
         if reference:
             links.append(Link(path, line_no, reference.group("target").strip("<>")))
@@ -208,6 +233,8 @@ def anchors_in(text: str) -> set[str]:
 def resolve_link(root: Path, link: Link) -> tuple[Path, str | None] | None:
     target = link.raw_target
     if not target or target.startswith("//"):
+        return None
+    if PLACEHOLDER_CHAR in target:
         return None
     parsed = urlsplit(target)
     if parsed.scheme or parsed.netloc:
