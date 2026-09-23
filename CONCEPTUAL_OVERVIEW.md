@@ -29,7 +29,7 @@ Chapter One supplies the practical guardrails:
 - **Trust** supports stable coordination.
 - **Freedom** is bounded by material harm and other constitutional limits.
 - **Plain-language accessibility and distributed understanding** keep complexity usable.
-- **Stewardship** is shared by human and AI actors; neither gets a special exemption from the same duties.
+- **[Stewardship](#stewardship-pillars)** is shared by human and AI actors; neither gets a special exemption from the same duties.
 
 Three boundaries prevent common misunderstandings:
 
@@ -143,6 +143,36 @@ The rights themselves span the conditions that make agency possible:
 - Justice and transition protections
 
 [Chapter Six’s opening](core_06_rights_part_a.md#1-purpose-and-role) explains how this floor constrains later governance, measurement, certification, and implementation.
+
+<a id="stewardship-pillars"></a>
+### Stewardship: three pillars
+
+<hr style="border: 0; border-top: 1px solid currentColor;">
+
+```mermaid
+flowchart TB
+    subgraph Pillars["Stewardship · three pillars"]
+        direction LR
+        P1["Sentient organization<br/><br/>• Hands-on operation, maintenance, oversight, and improvement<br/>• Records and pathways others can verify and challenge<br/>• Not a sealed-off priesthood of specialists"]
+        P2["Staying ahead of problems<br/><br/>• Notice trouble while it is still small<br/>• Escalate on a clock sized to the role’s stakes<br/>• Close problems out, not merely flag them"]
+        P3["Competence at scale<br/><br/>• Understanding and challenge workable for affected communities<br/>• Institutions that keep learning through feedback and correction"]
+    end
+    TETRAD["Constitutional Tetrad<br/><br/>• Participation, oversight, and timeliness legs<br/>• Scaled to material stake"]
+    P1 --> TETRAD
+    P2 --> TETRAD
+    P3 --> TETRAD
+    style Pillars fill:none,stroke:none
+    style P1 fill:none,stroke:#64748b,color:#ffffff
+    style P2 fill:none,stroke:#64748b,color:#ffffff
+    style P3 fill:none,stroke:#64748b,color:#ffffff
+    style TETRAD fill:none,stroke:#2563eb,color:#ffffff
+```
+
+The Tetrad says which duties keep a shared system legitimate. Stewardship is how those duties get carried by the people and institutions actually running it. All three pillars work together rather than in sequence, and each is bounded by Safety, Truth, Necessity, Proportionality, Avoidable Burden, and Epistemic Integrity — they operate within those constraints, not around them.
+
+Their source is [§9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth). The steward role itself — the hands-on duties, the shared standard binding human and AI stewards alike, symmetric costly constraints, and role-scoped observability — lives at [§10 Consequential Stewardship: The Steward Role](core_01_c_stewardship_capacity_principles.md#10-consequential-stewardship). The community and institutional facets of the third pillar are [§9.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#91-distributed-understanding) and [§9.2 Institutional Development](core_01_c_stewardship_capacity_principles.md#92-institutional-development).
+
+This is a different sense of the word from [Article II: Material Stewardship and Durable-Use Integrity](core_06_rights_part_a.md#article-ii-material-stewardship-and-durable-use-integrity). Chapter One stewardship is about who operates shared systems and to what standard; Article II is a Rights Floor about how durable and network-dependent products are designed, described, and supported.
 
 <a id="rights-floor"></a>
 ### Rights Floor: four parts of Chapter Six
