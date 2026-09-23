@@ -46,7 +46,7 @@
 - [Accessibility](../core_05_band_participation.md#accessibility-constitutional) · [O](../core_05_band_participation.md#accessibility-constitutional) · [M](../core_05_band_participation.md#accessibility-constitutional-a) · [A](../core_05_band_participation.md#accessibility-constitutional-a) · [C](../core_05_band_participation.md#accessibility-constitutional-c)
 - [Stakeholder](../core_05_band_participation.md#stakeholder) · [O](../core_05_band_participation.md#stakeholder) · [M](../core_05_band_participation.md#stakeholder-a) · [A](../core_05_band_participation.md#stakeholder-a) · [C](../core_05_band_participation.md#stakeholder-c)
 - [Governance](../core_05_band_accountability.md#governance) · [O](../core_05_band_accountability.md#governance) · [M](../core_05_band_accountability.md#governance-a) · [A](../core_05_band_accountability.md#governance-a) · [C](../core_05_band_accountability.md#governance-c)
-- [Systemic](../core_05_band_accountability.md#systemic) · [O](../core_05_band_accountability.md#systemic) · [M](../core_05_band_continuity.md#systemic-a) · [A](../core_05_band_continuity.md#systemic-a) · [C](../core_05_band_continuity.md#systemic-c)
+- [Systemic](../core_05_band_continuity.md#systemic) · [O](../core_05_band_continuity.md#systemic) · [M](../core_05_band_continuity.md#systemic-a) · [A](../core_05_band_continuity.md#systemic-a) · [C](../core_05_band_continuity.md#systemic-c)
 - [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
 - [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
 - [Unified Incident Record](../core_05_band_accountability.md#unified-incident-record) · [O](../core_05_band_accountability.md#unified-incident-record) · [M](../core_05_band_accountability.md#unified-incident-record-a) · [A](../core_05_band_accountability.md#unified-incident-record-a) · [C](../core_05_band_accountability.md#unified-incident-record-c)
@@ -227,7 +227,7 @@ If a system cannot yet justify its own calibrated numbers, the interim default s
 
 **Institution mirror.** Remedy systems under [Chapter Ten §9.2](../core_10_standing_integration.md#92-remedy-system-durability) (*Remedy-system durability*), **CI-27** (*Remedy systems and institutional redress capacity*), and **CI-8** (*Transparency, participation, and accessible pathways*) must publish compatible intake and acknowledgment windows; forum delay must not be used to defeat institution-side redress duties. The same systems must publish the lock-to-remedy figures **CF-11.3** requires so a tripped [Chapter Ten §4.4](../core_10_standing_integration.md#44-remedy-parity-and-lock-preconditions) tripwire is visible from outside the starved body.
 
-Domain-scale walkthroughs with milestone illustrations: [Chapters Nine–Twelve application vignettes](../core_09-12_application_vignettes.md#chapters-eight-eleven-application-vignettes).
+Domain-scale walkthroughs with milestone illustrations: [Chapters Nine–Twelve application vignettes](../core_09-12_application_vignettes.md#chapters-nine-twelve-application-vignettes).
 
 Legacy timing-floor requirements are consolidated here and should be read as references to the timing-window component of **CF-11.3**.
 

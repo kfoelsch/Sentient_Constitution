@@ -45,7 +45,7 @@ This file is **part of the Sentient Constitution** and is **binding only togethe
 | Old | New |
 |---|---|
 | `[Chapter One, §2 Purpose and Role](#2-purpose-and-role)` | `core_01_a_values_principles.md#2-purpose-and-role` |
-| `[Chapter One §8.2 Recognition…](#22-recognition-reinforcement-and-aspiration)` | `core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration` |
+| `[Chapter One §8.2 Recognition…](../core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)` | `core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration` |
 | `Chapter One` (generic, L27) | `Chapter One` (still valid; add Part A/B note in L34 bullet) |
 
 **Anchors retained in preamble file:** `#constitutional-triad`, `#material-stake`, `#material-family-orientation`
@@ -392,7 +392,7 @@ Replace old §6–§9 sequence paragraph with:
 ```markdown
 *In plain terms: shared systems must keep building real productive capacity — but capacity is something stewardship and lawful governance produce and preserve, not a license to concentrate power.*
 
-**§14** states **Shared-System Capacity** as an instrumental outcome downstream of **§11 Stewardship** and **§10 Governance Under Stewardship Discipline**. Capacity claims fail where they rest on domination, proxy divergence, irreversible lock-in, or governance that defeats the [Constitutional Triad](core_00_preamble.md#constitutional-triad).
+**§14** states **Shared-System Capacity** as an instrumental outcome downstream of **§11 Stewardship** and **§10 Governance Under Stewardship Discipline**. Capacity claims fail where they rest on domination, proxy divergence, irreversible lock-in, or governance that defeats the [Constitutional Triad](core_00_preamble.md#constitutional-tetrad).
 ```
 
 ### 5.5 §11.2 Read-with pointer (new)

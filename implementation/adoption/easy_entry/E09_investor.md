@@ -63,7 +63,7 @@ See: [Preamble §3.3](../../../core_00_preamble.md#33-governance-layers).
 - **Today:** The plan is to buy so many of the other companies in the same business, or so much of the one marketplace others have to use, that rivals cannot really enter, customers cannot really switch, and workers cannot really leave. That is sold as ordinary returns.
 - **With this Constitution:** Getting big by building something useful is fine. Buying so much of a market that others cannot really enter, switch, or leave is still a failure — even if the shareholders of those companies voted yes on each buy.
 
-See: [Chapter One §13.2](../../../core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination).
+See: [Chapter One §13.2](../../../core_01_c_stewardship_capacity_principles.md#142-pro-competition-and-anti-domination).
 
 **Markets remain above the survival floor.**
 - **Today:** Any floor is “anti-investor.”
@@ -81,7 +81,7 @@ See: [CI-9.4](../../../corpus_institutions/ci_09_classification_linked_instituti
 
 - **“This isn’t law.”** Correct. It does not override securities, corporate, or banking law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
-- **“Founders will shop for a softer stack.”** Extra rules that only the machine has to follow, or a pass so founders can skip the hard duties, do not meet the rule ([Chapter One §9.1.1](../../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)). If a founder looks for a looser setup, that is a reason to keep one standard for both — not a reason to let the humans skip those duties.
+- **“Founders will shop for a softer stack.”** Extra rules that only the machine has to follow, or a pass so founders can skip the hard duties, do not meet the rule ([Chapter One §9.1.1](../../../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard)). If a founder looks for a looser setup, that is a reason to keep one standard for both — not a reason to let the humans skip those duties.
 
 ## What this will not pretend to give you
 

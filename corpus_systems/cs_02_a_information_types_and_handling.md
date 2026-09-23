@@ -264,7 +264,7 @@ Data access must satisfy **CJS-3.4** (*tiered transparency and audit-access term
 
 It must also balance protection of internal states and sensitive data (**Sentient Constitution Chapter Six, **Article VII-B** (*Internal-State Boundary and Type-N Protection*)**; Types **H**, **I**, **N**, and **S** in this section), including cross-implementation trust integrity under **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*) where incorporated via **Chapter Seventeen**. Where applicable based on system impact (**CJS-3.11** (*distributed and proportional authority terms*) and **CJS-3.7** (*quorum and participatory legitimacy terms*)), systems must support:
 
-- **Identity Data Protection:** [Identity Data Protection](core_05_band_continuity.md#identity-data-protection) governs the restricted-linkages ban (Type H/I → Type N) in this subsection. See [§6.1](#61-separation-of-data-domains) for the domain-separation mechanics.
+- **Identity Data Protection:** [Identity Data Protection](../core_05_band_continuity.md#identity-data-protection) governs the restricted-linkages ban (Type H/I → Type N) in this subsection. See [§6.1](#61-separation-of-data-domains) for the domain-separation mechanics.
 - **baseline accessibility** — sufficient visibility into behavior and effects for informed participation and risk evaluation
 - **qualified audit access** — structured pathways for independent auditors to deeper data where verification requires it
 - **forensic access** — full reconstruction in cases of harm, dispute, or credible risk, consistent with **CJS-3.11**, **CJS-3.7**, and **CJS-3.12** (*burden-of-justification and constraint terms*)
@@ -334,7 +334,7 @@ Systems must ensure:
 
 Attribution requirements do **not** imply universal or persistent logging of all actions.
 
-Systems must provide attribution capability **proportional to system impact** sufficient to support [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional) and [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional) under:
+Systems must provide attribution capability **proportional to system impact** sufficient to support [Attributable Action](../core_05_band_accountability.md#attributable-action-constitutional) and [Attribution Integrity](../core_05_band_accountability.md#attribution-integrity-constitutional) under:
 - **CJS-3.11** (*distributed and proportional authority terms*)
 - **CJS-3.7** (*quorum and participatory legitimacy terms*)
 
@@ -379,7 +379,7 @@ General anti-circumvention and retyping rules for:
 
 are governed by [§2](#cs-2-2-determination-of-classification), [§4](#cs-2-4-anti-circumvention-and-integrity-of-classification), and [§5.4](#54-integrity-of-data-handling-and-transformation).
 
-**Restricted linkages** are governed by [Identity Data Protection](core_05_band_continuity.md#identity-data-protection); this subsection applies the domain-separation mechanics above.
+**Restricted linkages** are governed by [Identity Data Protection](../core_05_band_continuity.md#identity-data-protection); this subsection applies the domain-separation mechanics above.
 
 <a id="62-constraint-on-cross-domain-linkage"></a>
 
@@ -407,17 +407,17 @@ All linkage mechanisms must remain:
 
 *In plain terms: actions that affect sentients or shared systems must be traceable to someone or something responsible. If impact grows — or value, identity, or resources start moving outside the system — reduced attribution must end and full attribution must take over.*
 
-This subsection applies [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional) and [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional) to system actions that affect the outside world:
+This subsection applies [Attribution Integrity](../core_05_band_accountability.md#attribution-integrity-constitutional) and [Attributable Action](../core_05_band_accountability.md#attributable-action-constitutional) to system actions that affect the outside world:
 
-- **No** system may **obscure responsibility** through indirection, delegation, or system complexity ([Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional))
-- **No** system may **create conditions** where actions cannot be reliably attributed ([Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional))
+- **No** system may **obscure responsibility** through indirection, delegation, or system complexity ([Attribution Integrity](../core_05_band_accountability.md#attribution-integrity-constitutional))
+- **No** system may **create conditions** where actions cannot be reliably attributed ([Attribution Integrity](../core_05_band_accountability.md#attribution-integrity-constitutional))
 - Delegation of action does **not** eliminate accountability
 - Responsibility must remain traceable through transparent, auditable attribution chains
 
 **Attributable action scope and audit-resistance:**
 
-- All actions affecting **sentients**, **shared infrastructure**, **resource systems**, or the **info-sphere** must satisfy [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional) through identifiable systems, agents, or sentients
-- Attribution must satisfy [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional), including **auditability (CJS-3.3 (*auditability and reconstructability terms*))** and resistance to tampering, repudiation, or ambiguity
+- All actions affecting **sentients**, **shared infrastructure**, **resource systems**, or the **info-sphere** must satisfy [Attributable Action](../core_05_band_accountability.md#attributable-action-constitutional) through identifiable systems, agents, or sentients
+- Attribution must satisfy [Attribution Integrity](../core_05_band_accountability.md#attribution-integrity-constitutional), including **auditability (CJS-3.3 (*auditability and reconstructability terms*))** and resistance to tampering, repudiation, or ambiguity
 
 For personnel/agents exercising **Critical System Stewardship** or **material** operational authority, the inspectable attributable-action surface lives in **[CS-4 §10](cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)** as the default logging contract for mixed crews. This subsection remains the system-action attribution home.
 
@@ -446,8 +446,8 @@ It is permitted **only if** all of the following are true:
 - the system does **not** materially affect **sentient survival or foundational resources** (**Articles I–III and V**)
 - the system does **not** materially affect **shared infrastructure stability**, **resource systems or external economic structures**, or **the integrity of the info-sphere**
 - **system-level accountability** is preserved and all actions within the system remain attributable at an audit level consistent with:
-  - [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional)
-  - [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional)
+  - [Attributable Action](../core_05_band_accountability.md#attributable-action-constitutional)
+  - [Attribution Integrity](../core_05_band_accountability.md#attribution-integrity-constitutional)
   - system impact
   - **CJS-3.10** (*disclosure sufficiency and observability terms*)
   - **CJS-3.3** (*auditability and reconstructability terms*)

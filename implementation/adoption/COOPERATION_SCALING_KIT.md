@@ -48,7 +48,7 @@ This kit does **not**:
 - Count as [Chapter Sixteen §10](../../core_16_amendment_ratification.md#10-ratification-and-adoption) adoption or [Chapter Seventeen](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation
 - Create a constitutional status named proto-adoption, adoption-track, or scaled-cooperation
 - Let *n* markdown declarations, a mutual compact note, or “we follow it” practice claim constitutional protection while dodging matching obligations
-- Bind host products, operators, vendors, or other non-consenting parties ([Chapter One §9.5](../../core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization))
+- Bind host products, operators, vendors, or other non-consenting parties ([Chapter One §9.5](../../core_01_c_stewardship_capacity_principles.md#104-aligned-self-organization))
 - Create a Chapter Nine standing record, a Chapter Eight system alignment certification, or a Merits Determination
 - Staff forum families, invent a multi-party “forum” as ceremony, or treat standing scores as sentience status ([Article XVIII-A](../../core_06_rights_part_c.md#article-xviii-a-standing-distinction))
 - Authorize [Chapter Sixteen §10.3](../../core_16_amendment_ratification.md#103-joining-by-additional-parties) joining (the template in [§5](#5-103-joining-rule-template-not-live-rules) is **not** published existing-adopter joining rules)
@@ -68,7 +68,7 @@ This kit does **not**:
 
 **Polity-scale note.** When the adopter is a jurisdiction or polity, [Chapter Sixteen §10.1](../../core_16_amendment_ratification.md#101-deliberate-adoption) also requires a published affected-sentient participation check (contested election, sortition, federated ratification, or another [Chapter Thirteen §1.2](../../core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums)-compliant path). Organizations, system operators, and consortia still use the deliberate, documented, auditable path without that polity check. Headcount of cooperating stewards is not that check.
 
-**Same duties for both kinds of steward.** [Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans.
+**Same duties for both kinds of steward.** [Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans.
 
 ```text
 n parties sit the fitness screen (separate files, same edition pin)

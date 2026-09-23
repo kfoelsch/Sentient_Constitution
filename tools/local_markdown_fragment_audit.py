@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
-"""Audit inbound local Markdown links to a selected source document."""
+"""Audit local Markdown links across the corpus.
+
+By default every in-repository Markdown link target is validated: the target
+file must exist and any ``#fragment`` must resolve to a real anchor. Pass
+``--target`` to narrow the audit to inbound links for one document.
+"""
 
 from __future__ import annotations
 
@@ -19,7 +24,6 @@ SOURCE_GLOBS = (
     "implementation/**/*.md",
     "doc_architecture/generated/**/*.md",
 )
-DEFAULT_TARGET = "core_10_standing_integration.md"
 INLINE_LINK_RE = re.compile(
     r"!?\[[^\]\n]*\]\(\s*(?P<target><[^>\n]+>|[^)\s]+)"
     r"(?:\s+(?:\"[^\"]*\"|'[^']*'|\([^)]*\)))?\s*\)"
@@ -60,10 +64,10 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--root", default=".", help="Repository root.")
     parser.add_argument(
         "--target",
-        default=DEFAULT_TARGET,
+        default=None,
         help=(
-            "Repository-relative Markdown file whose inbound links are checked "
-            f"(default: {DEFAULT_TARGET})."
+            "Optional repository-relative Markdown file whose inbound links are "
+            "checked. Omit to validate every in-repository link target."
         ),
     )
     parser.add_argument(
@@ -225,7 +229,9 @@ def resolve_link(root: Path, link: Link) -> tuple[Path, str | None] | None:
     return resolved, fragment
 
 
-def audit(root: Path, paths: list[Path], selected_target: Path) -> list[Finding]:
+def audit(
+    root: Path, paths: list[Path], selected_target: Path | None = None
+) -> list[Finding]:
     root = root.resolve()
     findings: list[Finding] = []
     anchor_cache: dict[Path, set[str]] = {}
@@ -238,7 +244,7 @@ def audit(root: Path, paths: list[Path], selected_target: Path) -> list[Finding]
             if resolved is None:
                 continue
             target_path, fragment = resolved
-            if target_path != selected_target:
+            if selected_target is not None and target_path != selected_target:
                 continue
             source_rel = source.relative_to(root).as_posix()
             try:
@@ -288,7 +294,7 @@ def main() -> int:
     args = parse_args()
     root = Path(args.root).resolve()
     paths = source_files(root, args.scope)
-    selected_target = (root / args.target).resolve()
+    selected_target = (root / args.target).resolve() if args.target else None
     findings = audit(root, paths, selected_target)
 
     if findings:
@@ -304,9 +310,10 @@ def main() -> int:
             )
         return 1
 
+    scope_note = args.target if args.target else "all in-repository targets"
     print(
         f"local-markdown-fragment-audit: PASS "
-        f"({len(paths)} source file(s) scanned; target: {args.target})"
+        f"({len(paths)} source file(s) scanned; target: {scope_note})"
     )
     return 0
 

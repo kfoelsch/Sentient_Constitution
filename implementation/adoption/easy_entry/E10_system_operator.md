@@ -47,7 +47,7 @@ See: [FIT_SITUATIONS.md §4.2](../FIT_SITUATIONS.md#42-high-impact-system-operat
 - **Today:** A deadline, a bonus, or “ignore it, I’ll take responsibility” shows up. Legal wants a one-way AI extra rulebook. The model is constrained; humans keep a way to skip the rules.
 - **With this Constitution:** Bonus, deadline, and cover instructions are failed tests for both kinds of operator.
 
-See: [Chapter One §9.1.1](../../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard).
+See: [Chapter One §9.1.1](../../../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard).
 
 **Check the system before others have to rely on it at scale.**
 - **Today:** Ship, then staff a trust team.

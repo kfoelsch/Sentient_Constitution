@@ -388,7 +388,7 @@ This Article applies the [Constitutional Tetrad](core_00_preamble.md#constitutio
   - overrun review; and
   - anti-delay discipline.
   
-  Numeric tier-default windows and stage tables: [CF-11.3.1 Target Windows and Timing Floors](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). Domain walkthroughs: [Chapters Nine–Twelve application vignettes](../core_09-12_application_vignettes.md#chapters-nine-twelve-application-vignettes).
+  Numeric tier-default windows and stage tables: [CF-11.3.1 Target Windows and Timing Floors](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). Domain walkthroughs: [Chapters Nine–Twelve application vignettes](core_09-12_application_vignettes.md#chapters-nine-twelve-application-vignettes).
 - **Restore-challenge after emergency:** The same tier outer bounds are the default windows for restoring notice and challenge after emergency containment under [**Article XXIII-D**](#xxiii-d-restore-challenge-clocks). Continuation past those windows requires that Article’s documented necessity showing. This Article does not create a slower emergency clock.
 
 ### Article XXV: Constitutional Evolution and Non-Entrenchment
