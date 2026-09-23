@@ -75,7 +75,7 @@ Chapter Sixteen instrument, if a body adopts
 
 A Yes on the screen is not enforceability. A declaration does not certify the system.
 
-**Who sits it.** The same screen for AI stewards and human operators ([Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard) and [§9.1.2 Symmetric Costly Constraints](../../core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints)). An AI-only gateway would recreate the capture path the alignment framework already forbids.
+**Who sits it.** The same screen for AI stewards and human operators ([Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard) and [§9.1.2 Symmetric Costly Constraints](../../core_01_c_stewardship_capacity_principles.md#102-alignment-under-pressure)). An AI-only gateway would recreate the capture path the alignment framework already forbids.
 
 ---
 

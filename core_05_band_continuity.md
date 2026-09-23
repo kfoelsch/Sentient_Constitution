@@ -2649,7 +2649,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 
 - **Joint invocation:** where bodily-maintenance access, occupancy continuity or essential-environment stability, and environmental preconditions are materially interdependent as survival-floor conditions.
 - **Scope:** where joint invocation is met, the foundational conditions that preserve sentient life, function, and capacity for agency — the survival-floor stack.
-- **Owner floor:** implements [Article III](core_06_rights_part_a.md#article-iii-survival) (*Survival and Equal Educational Access*) (Survival Floor) and [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*).
+- **Owner floor:** implements [Article III](core_06_rights_part_a.md#article-iii-survival-and-equal-educational-access) (*Survival and Equal Educational Access*) (Survival Floor) and [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*).
 - **Cluster boundary:** [Safe Conditions](core_05_band_continuity.md#safe-conditions-constitutional) and [Leisure and Rest](core_05_band_continuity.md#leisure-and-rest-constitutional) live in the [Labor and Economic Floor cluster](core_05_band_continuity.md#labor-and-economic-floor-cluster) in Section 3.5, where they participate in the joint-invocation home for **Article III-D** (*Labor and Economic Floor*) rights together with Fair Compensation and Collective Organization.
 
 **Topic group members.** This group comprises:
@@ -3555,7 +3555,7 @@ See **Joint invocation and satisfaction**.
 
 - Downstream: Principles: [§9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth); [§9.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#91-distributed-understanding).
 - Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05_band_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
-- Read with: [Educational Agency](core_05_band_participation.md#educational-agency), [Transparency](core_05_band_oversight.md#transparency), [Accessibility](core_05_band_participation.md#accessibility-constitutional), [Materiality Determination](core_05_band_oversight.md#materiality-determination), [Dependency](core_05_band_continuity.md#dependency), and [Article XX](core_06_rights_part_c.md#article-xx-right-to-understand-and-contest) (*Comprehensibility and Complexity Stewardship*).
+- Read with: [Educational Agency](core_05_band_participation.md#educational-agency), [Transparency](core_05_band_oversight.md#transparency), [Accessibility](core_05_band_participation.md#accessibility-constitutional), [Materiality Determination](core_05_band_oversight.md#materiality-determination), [Dependency](core_05_band_continuity.md#dependency), and [Article XX](core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*).
 
 </details>
 
