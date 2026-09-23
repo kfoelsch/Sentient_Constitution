@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-09-23T06:34:56+00:00",
+  "generated_at": "2026-09-23T08:45:16+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -3274,21 +3274,21 @@
       "file": "core_05_band_participation.md",
       "anchor": "#defp2",
       "heading": "Def.P2 Binding Stakeholder Choice",
-      "line": 2768,
+      "line": 2770,
       "kind": "cluster"
     },
     "Def.P3": {
       "file": "core_05_band_participation.md",
       "anchor": "#defp3",
       "heading": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
-      "line": 2949,
+      "line": 2951,
       "kind": "cluster"
     },
     "Def.P4": {
       "file": "core_05_band_participation.md",
       "anchor": "#defp4",
       "heading": "Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability",
-      "line": 3231,
+      "line": 3239,
       "kind": "cluster"
     }
   },
@@ -4022,8 +4022,8 @@
       "term": "Animal Life",
       "file": "core_05_band_participation.md",
       "anchor": "#animal-life-constitutional",
-      "line_start": 2286,
-      "line_end": 2347
+      "line_start": 2288,
+      "line_end": 2349
     },
     {
       "term": "Anti-Capture",
@@ -4106,15 +4106,15 @@
       "term": "Best-Interest Standard",
       "file": "core_05_band_participation.md",
       "anchor": "#best-interest-standard-constitutional",
-      "line_start": 3315,
-      "line_end": 3362
+      "line_start": 3323,
+      "line_end": 3370
     },
     {
       "term": "Binding Stakeholder Choice — Decision-Resolution Requirements",
       "file": "core_05_band_participation.md",
       "anchor": "#binding-stakeholder-choice-decision-resolution-requirements",
-      "line_start": 2819,
-      "line_end": 2874
+      "line_start": 2821,
+      "line_end": 2876
     },
     {
       "term": "Bodily-Maintenance Access",
@@ -4295,8 +4295,8 @@
       "term": "Contested-Sentient Life",
       "file": "core_05_band_participation.md",
       "anchor": "#contested-sentient-life-constitutional",
-      "line_start": 2413,
-      "line_end": 2530
+      "line_start": 2415,
+      "line_end": 2532
     },
     {
       "term": "Contingent Claim",
@@ -4365,8 +4365,8 @@
       "term": "Developing Sentient",
       "file": "core_05_band_participation.md",
       "anchor": "#developing-sentient-constitutional",
-      "line_start": 3278,
-      "line_end": 3314
+      "line_start": 3286,
+      "line_end": 3322
     },
     {
       "term": "Dignity and Equal Moral Standing",
@@ -4414,15 +4414,15 @@
       "term": "Educational Agency",
       "file": "core_05_band_participation.md",
       "anchor": "#educational-agency",
-      "line_start": 3114,
-      "line_end": 3172
+      "line_start": 3120,
+      "line_end": 3180
     },
     {
       "term": "Elevated Communicative Life",
       "file": "core_05_band_participation.md",
       "anchor": "#elevated-communicative-life-constitutional",
-      "line_start": 2348,
-      "line_end": 2412
+      "line_start": 2350,
+      "line_end": 2414
     },
     {
       "term": "Emergency and Contingency",
@@ -4491,8 +4491,8 @@
       "term": "Expression",
       "file": "core_05_band_participation.md",
       "anchor": "#expression-constitutional",
-      "line_start": 3028,
-      "line_end": 3113
+      "line_start": 3032,
+      "line_end": 3119
     },
     {
       "term": "Fair Compensation",
@@ -4631,8 +4631,8 @@
       "term": "Graduated Capability",
       "file": "core_05_band_participation.md",
       "anchor": "#graduated-capability-constitutional",
-      "line_start": 3363,
-      "line_end": 3409
+      "line_start": 3371,
+      "line_end": 3417
     },
     {
       "term": "Harassment and Bullying",
@@ -5233,8 +5233,8 @@
       "term": "Self-Determination",
       "file": "core_05_band_participation.md",
       "anchor": "#self-determination-constitutional",
-      "line_start": 2983,
-      "line_end": 3027
+      "line_start": 2985,
+      "line_end": 3031
     },
     {
       "term": "Self-Healing",
@@ -5248,28 +5248,28 @@
       "file": "core_05_band_participation.md",
       "anchor": "#sentience-non-exclusion",
       "line_start": 2206,
-      "line_end": 2264
+      "line_end": 2266
     },
     {
       "term": "Sentience Status Adjudication",
       "file": "core_05_band_participation.md",
       "anchor": "#sentience-status-adjudication-constitutional",
-      "line_start": 2596,
-      "line_end": 2683
+      "line_start": 2598,
+      "line_end": 2685
     },
     {
       "term": "Sentience-Status Adjudication Record",
       "file": "core_05_band_participation.md",
       "anchor": "#sentience-status-adjudication-record-constitutional",
-      "line_start": 2684,
-      "line_end": 2767
+      "line_start": 2686,
+      "line_end": 2769
     },
     {
       "term": "Sentient",
       "file": "core_05_band_participation.md",
       "anchor": "#sentient",
-      "line_start": 2531,
-      "line_end": 2595
+      "line_start": 2533,
+      "line_end": 2597
     },
     {
       "term": "Shared-System Capacity",
@@ -5310,15 +5310,15 @@
       "term": "Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)",
       "file": "core_05_band_participation.md",
       "anchor": "#stakeholder-representation-and-weight-limits-binding-stakeholder-choice",
-      "line_start": 2875,
-      "line_end": 2911
+      "line_start": 2877,
+      "line_end": 2913
     },
     {
       "term": "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
       "file": "core_05_band_participation.md",
       "anchor": "#stakeholder-rights-collision-record-binding-stakeholder-choice",
-      "line_start": 2912,
-      "line_end": 2948
+      "line_start": 2914,
+      "line_end": 2950
     },
     {
       "term": "Stakeholder Weight",
@@ -5611,8 +5611,8 @@
       "term": "Volitional Integrity",
       "file": "core_05_band_participation.md",
       "anchor": "#volitional-integrity",
-      "line_start": 3173,
-      "line_end": 3230
+      "line_start": 3181,
+      "line_end": 3238
     },
     {
       "term": "Voluntary Discontinuation",

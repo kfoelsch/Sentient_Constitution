@@ -420,7 +420,7 @@ Las **subsecciones** **de abajo** **siguen** el **orden** de la **tabla** de **s
 - reducción de incertidumbre acotada pertinente a la adjudicación o la regulación;
 - determinaciones de estatus de sentiencia del **Artículo V-E** (*Piso de adjudicación de estatus de sentiencia*) cuyo enjuego primario es la evaluación de indicadores, la evidencia pericial o la incertidumbre acotada sobre si una entidad es un **senciente** bajo el **Capítulo Cinco** (*Adjudicación de estatus de sentiencia*).
 
-**Custodia de estándares.** Los **Dominios Técnicos de Foro** mantienen estándares revisables usados para operacionalizar las categorías de medición del [Preámbulo §2](core_00_preamble.md#2-the-measurements) y los hogares de definición del [Capítulo Cinco](core_05__definitions_home.md#chapter-five-foundational-definitions) — incluidos los estándares usados para evaluar la alineación del sistema — dentro del alcance lícito:
+**Custodia de estándares.** Los **Dominios Técnicos de Foro** mantienen estándares revisables usados para operacionalizar las categorías de medición del [Preámbulo §2](core_00_preamble.md#2-measurements-overview) y los hogares de definición del [Capítulo Cinco](core_05__definitions_home.md#chapter-five-foundational-definitions) — incluidos los estándares usados para evaluar la alineación del sistema — dentro del alcance lícito:
 - métodos de medición;
 - protocolos de prueba;
 - estándares de evidencia pericial;

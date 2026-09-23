@@ -2,7 +2,7 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-09-23T07:37:19+00:00
+Generated: 2026-09-23T08:40:57+00:00
 
 Scopes **Chapter Five** band and aim files. Classifies disclaimer / negative-scope clauses on **O**, **E**, and **C** components using [tools/architecture/disclaimer_themes.json](../tools/architecture/disclaimer_themes.json).
 

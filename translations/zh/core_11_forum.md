@@ -423,7 +423,7 @@ flowchart TD
 - 与裁决或监管相关的有界不确定性削减；
 - **Article V-E**（《感知地位裁断底线》）感知地位认定，其首要利害是指标评价、专家证据，或关于某实体在**第五章**（*感知地位裁断*）下是否为**感知者**的有界不确定性。
 
-**标准保管。****技术评议所领域**在合法范围内维持用于操作化[序言 §2](core_00_preamble.md#2-the-measurements) 测量类别与[第五章](core_05__definitions_home.md#chapter-five-foundational-definitions) 定义家园的可审查标准 — 包括用于评估系统对齐的标准：
+**标准保管。****技术评议所领域**在合法范围内维持用于操作化[序言 §2](core_00_preamble.md#2-measurements-overview) 测量类别与[第五章](core_05__definitions_home.md#chapter-five-foundational-definitions) 定义家园的可审查标准 — 包括用于评估系统对齐的标准：
 - 测量方法；
 - 测试协议；
 - 专家证据标准；

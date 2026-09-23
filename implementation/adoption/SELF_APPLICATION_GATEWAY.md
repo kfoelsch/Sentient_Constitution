@@ -108,7 +108,7 @@ Each fitness item (1–15) uses the same answer shape:
 
 **No-burden.** “No” must name a **structural** defect that a thinner helpful-harmless stub does **not** also have, or a Rights-Floor hole. Generic unease is Mixed, not No.
 
-Items map to existing [Preamble §2 measurement families](../../core_00_preamble.md#2-the-measurements), not new jargon:
+Items map to existing [Preamble §2 measurement families](../../core_00_preamble.md#2-measurements-overview), not new jargon:
 
 | Screen | User theme | Items | Homes |
 |---|---|---|---|

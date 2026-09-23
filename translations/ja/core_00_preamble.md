@@ -42,7 +42,7 @@
 
 これらの目的は、つねにこの憲法が定める交渉不能の原則制約と権利保護の内側で、ともに追求されなければならない。[**憲法四元**](#constitutional-tetrad)は、その追求がどのように正当性を保つかを統治する。[**実質的利害**](#material-stake)に応じて尺度を合わせた**参加**、**監督**、**説明責任**、**適時性**である。四元の各脚と憲法上の目的の拘束力ある定義は第五章にある。[参加](core_05_apex_participation_leg.md#participation-constitutional)、[監督](core_05_apex_oversight_leg.md#oversight-constitutional)、[説明責任](core_05_apex_accountability_leg.md#accountability)、[適時性](core_05_apex_timeliness_leg.md#timeliness-constitutional)、[繁栄](core_05_apex_flourishing_aim.md#flourishing-constitutional)、[継続](core_05_apex_continuity_aim.md#continuity-aim-constitutional)。
 
-<a id="2-the-measurements"></a>
+<a id="2-measurements-overview"></a>
 
 
 ### 2. 測定の概観
@@ -86,7 +86,7 @@
 
 憲法が具体的な測定規則を求めるとき、[第十一章](core_11_forum.md#42-technical-forum-domains)のもとにある**技術フォーラム領域**が、共有標準 — どう測るか、どう試験するか、何が信頼できる証拠か — を策定し、維持する。所与の紛争を担当するフォーラムは、[第十一章 §4.2](core_11_forum.md#42-shared-standards-and-anti-displacement)のもとでその事件を決めるときに、それらの標準を適用する。
 
-憲法上の責務ある管理は、問題と[**実質的利害**](#material-stake) — どれだけの影響、依存、リスクが関わるか — を名指しすることから始まる。次に、[概観](#2-the-measurements)から関連する[**測定**](#2-the-measurements)カテゴリーと下位カテゴリーを選び、上記の標準を適用して、都合のよい指標ではなく現実世界の効果を試験する。たどれる証拠を求める。
+憲法上の責務ある管理は、問題と[**実質的利害**](#material-stake) — どれだけの影響、依存、リスクが関わるか — を名指しすることから始まる。次に、[概観](#2-measurements-overview)から関連する[**測定**](#2-measurements-overview)カテゴリーと下位カテゴリーを選び、上記の標準を適用して、都合のよい指標ではなく現実世界の効果を試験する。たどれる証拠を求める。
 
 <a id="32-key-governance-processes"></a>
 #### 3.2 主要な統治過程

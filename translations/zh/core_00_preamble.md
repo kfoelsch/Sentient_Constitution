@@ -42,7 +42,7 @@
 
 这些宗旨必须一并追求，始终处于本宪法所确立的不可妥协原则约束与权利保护之内。[**宪法四元**](#constitutional-tetrad)规定这一追求如何保持正当：按[**实质利害**](#material-stake)缩放的**参与**、**监督**、**问责**与**及时性**。四元各腿与宪法宗旨的约束性定义在第五章：[参与](core_05_apex_participation_leg.md#participation-constitutional)、[监督](core_05_apex_oversight_leg.md#oversight-constitutional)、[问责](core_05_apex_accountability_leg.md#accountability)、[及时性](core_05_apex_timeliness_leg.md#timeliness-constitutional)、[繁盛](core_05_apex_flourishing_aim.md#flourishing-constitutional)、[延续](core_05_apex_continuity_aim.md#continuity-aim-constitutional)。
 
-<a id="2-the-measurements"></a>
+<a id="2-measurements-overview"></a>
 
 
 ### 2. 测量概览
@@ -86,7 +86,7 @@
 
 当宪法要求具体测量规则时，[第十一章](core_11_forum.md#42-technical-forum-domains)下的**技术评议所领域**制定并维持共享标准 — 如何测量、如何检验、什么算可靠证据。负责既定争议的评议所随后在[第十一章 §4.2](core_11_forum.md#42-shared-standards-and-anti-displacement)下裁决该案时适用这些标准。
 
-宪法尽责管理从点名问题与[**实质利害**](#material-stake)开始 — 涉及多少影响、依赖与风险。接下来，从[概览](#2-the-measurements)中选择相关的[**测量**](#2-the-measurements)类别与子类，并适用上述标准去检验真实世界效果，而不是图方便的指标。要求可追溯证据。
+宪法尽责管理从点名问题与[**实质利害**](#material-stake)开始 — 涉及多少影响、依赖与风险。接下来，从[概览](#2-measurements-overview)中选择相关的[**测量**](#2-measurements-overview)类别与子类，并适用上述标准去检验真实世界效果，而不是图方便的指标。要求可追溯证据。
 
 <a id="32-key-governance-processes"></a>
 #### 3.2 关键治理过程

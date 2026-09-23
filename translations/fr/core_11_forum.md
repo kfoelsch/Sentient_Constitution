@@ -423,7 +423,7 @@ Les **sous-sections** **ci-dessous** **suivent** l’**ordre** de la **table** d
 - la réduction d’incertitude bornée pertinente à l’adjudication ou à la régulation ;
 - les déterminations de statut de sentience de l’**Article V-E** (*Plancher d’adjudication du statut de sentience*) dont l’enjeu primaire est l’évaluation d’indicateurs, la preuve d’expert, ou l’incertitude bornée sur le point de savoir si une entité est un **être sentient** sous le **Chapitre cinq** (*Adjudication du statut de sentience*).
 
-**Garde des normes.** Les **Domaines techniques de forum** tiennent des normes examinables utilisées pour opérationnaliser les catégories de mesure du [Préambule §2](core_00_preamble.md#2-the-measurements) et les foyers de définition du [Chapitre cinq](core_05__definitions_home.md#chapter-five-foundational-definitions) — y compris les normes utilisées pour évaluer l’alignement du système — dans une portée licite :
+**Garde des normes.** Les **Domaines techniques de forum** tiennent des normes examinables utilisées pour opérationnaliser les catégories de mesure du [Préambule §2](core_00_preamble.md#2-measurements-overview) et les foyers de définition du [Chapitre cinq](core_05__definitions_home.md#chapter-five-foundational-definitions) — y compris les normes utilisées pour évaluer l’alignement du système — dans une portée licite :
 - méthodes de mesure ;
 - protocoles d’essai ;
 - normes de preuve d’expert ;

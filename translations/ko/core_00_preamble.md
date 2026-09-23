@@ -42,7 +42,7 @@
 
 그 목적은 함께 추구해야 하며, 언제나 이 헌법이 세운 타협 불가 원칙 제약과 권리 보호 안에 있어야 한다. [**헌법 사원(四元)**](#constitutional-tetrad)은 그 추구가 어떻게 정당성을 유지하는지를 다스린다: [**실질 이해관계**](#material-stake)에 맞춰 세기를 조절한 **참여**, **감독**, **책무**, **적시성**. 사원(四元) 각 다리와 헌법 목적의 구속력 있는 정의는 제5장에 산다: [참여](core_05_apex_participation_leg.md#participation-constitutional), [감독](core_05_apex_oversight_leg.md#oversight-constitutional), [책무](core_05_apex_accountability_leg.md#accountability), [적시성](core_05_apex_timeliness_leg.md#timeliness-constitutional), [번영](core_05_apex_flourishing_aim.md#flourishing-constitutional), [연속](core_05_apex_continuity_aim.md#continuity-aim-constitutional).
 
-<a id="2-the-measurements"></a>
+<a id="2-measurements-overview"></a>
 
 
 ### 2. 측정 개관
@@ -86,7 +86,7 @@
 
 헌법이 구체 측정 규칙을 요구할 때, [제11장](core_11_forum.md#42-technical-forum-domains) 아래 **기술 포럼 영역**이 공유 표준을 만들고 유지한다 — 어떻게 측정하고, 어떻게 시험하고, 무엇이 믿을 증거인가. 주어진 다툼을 맡은 포럼은 그다음 [제11장 §4.2](core_11_forum.md#42-shared-standards-and-anti-displacement) 아래에서 그 사건을 결정할 때 그 표준을 적용한다.
 
-헌법상 책임 있는 관리는 문제와 [**실질 이해관계**](#material-stake)를 이름 붙이는 데서 시작한다 — 얼마나 많은 영향, 의존, 위험이 걸려 있는가. 다음으로 [개관](#2-the-measurements)에서 관련 [**측정**](#2-the-measurements) 범주와 하위범주를 고르고, 위의 표준을 적용해 편한 지표가 아니라 실제 세계 효과를 시험한다. 추적 가능한 증거를 요구하라.
+헌법상 책임 있는 관리는 문제와 [**실질 이해관계**](#material-stake)를 이름 붙이는 데서 시작한다 — 얼마나 많은 영향, 의존, 위험이 걸려 있는가. 다음으로 [개관](#2-measurements-overview)에서 관련 [**측정**](#2-measurements-overview) 범주와 하위범주를 고르고, 위의 표준을 적용해 편한 지표가 아니라 실제 세계 효과를 시험한다. 추적 가능한 증거를 요구하라.
 
 <a id="32-key-governance-processes"></a>
 #### 3.2 핵심 거버넌스 과정

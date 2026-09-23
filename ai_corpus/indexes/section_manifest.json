@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-09-23T06:34:53+00:00",
+  "generated_at": "2026-09-23T08:45:12+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 469,
@@ -24,7 +24,7 @@
           "level": 3,
           "line_start": 75,
           "line_end": 102,
-          "anchor": "#2-the-measurements"
+          "anchor": "#2-measurements-overview"
         },
         {
           "header": "3. Governance and Stewardship",
@@ -2956,13 +2956,13 @@
       ]
     },
     "core_05_band_participation.md": {
-      "total_lines": 3409,
+      "total_lines": 3417,
       "sections": [
         {
           "header": "Participation Constitutional Definitions",
           "level": 1,
           "line_start": 1,
-          "line_end": 3409,
+          "line_end": 3417,
           "anchor": null
         },
         {
@@ -3256,14 +3256,14 @@
           "header": "Participation: Dependent clusters",
           "level": 3,
           "line_start": 2050,
-          "line_end": 3409,
+          "line_end": 3417,
           "anchor": "#non-statelessness-constitutional-c"
         },
         {
           "header": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
           "level": 4,
           "line_start": 2056,
-          "line_end": 2767,
+          "line_end": 2769,
           "anchor": "#animal-life-sentient-life-and-sentience-status-cluster"
         },
         {
@@ -3277,147 +3277,147 @@
           "header": "Sentience Non-Exclusion",
           "level": 5,
           "line_start": 2206,
-          "line_end": 2264,
+          "line_end": 2266,
           "anchor": "#sentience-non-exclusion"
         },
         {
           "header": "Treatment of Life by Status",
           "level": 5,
-          "line_start": 2265,
-          "line_end": 2285,
+          "line_start": 2267,
+          "line_end": 2287,
           "anchor": "#treatment-of-life-by-status-subgroup"
         },
         {
           "header": "Animal Life",
           "level": 5,
-          "line_start": 2286,
-          "line_end": 2347,
+          "line_start": 2288,
+          "line_end": 2349,
           "anchor": "#animal-life-constitutional"
         },
         {
           "header": "Elevated Communicative Life",
           "level": 5,
-          "line_start": 2348,
-          "line_end": 2412,
+          "line_start": 2350,
+          "line_end": 2414,
           "anchor": "#elevated-communicative-life-constitutional"
         },
         {
           "header": "Contested-Sentient Life",
           "level": 5,
-          "line_start": 2413,
-          "line_end": 2530,
+          "line_start": 2415,
+          "line_end": 2532,
           "anchor": "#contested-sentient-life-constitutional"
         },
         {
           "header": "Sentient",
           "level": 5,
-          "line_start": 2531,
-          "line_end": 2595,
+          "line_start": 2533,
+          "line_end": 2597,
           "anchor": "#sentient"
         },
         {
           "header": "Sentience Status Adjudication",
           "level": 5,
-          "line_start": 2596,
-          "line_end": 2683,
+          "line_start": 2598,
+          "line_end": 2685,
           "anchor": "#sentience-status-adjudication-constitutional"
         },
         {
           "header": "Sentience-Status Adjudication Record",
           "level": 5,
-          "line_start": 2684,
-          "line_end": 2767,
+          "line_start": 2686,
+          "line_end": 2769,
           "anchor": "#sentience-status-adjudication-record-constitutional"
         },
         {
           "header": "Def.P2 Binding Stakeholder Choice",
           "level": 4,
-          "line_start": 2768,
-          "line_end": 2948,
+          "line_start": 2770,
+          "line_end": 2950,
           "anchor": "#binding-stakeholder-choice-cluster"
         },
         {
           "header": "Binding Stakeholder Choice — Decision-Resolution Requirements",
           "level": 5,
-          "line_start": 2819,
-          "line_end": 2874,
+          "line_start": 2821,
+          "line_end": 2876,
           "anchor": "#binding-stakeholder-choice-decision-resolution-requirements"
         },
         {
           "header": "Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)",
           "level": 5,
-          "line_start": 2875,
-          "line_end": 2911,
+          "line_start": 2877,
+          "line_end": 2913,
           "anchor": "#stakeholder-representation-and-weight-limits-binding-stakeholder-choice"
         },
         {
           "header": "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
           "level": 5,
-          "line_start": 2912,
-          "line_end": 2948,
+          "line_start": 2914,
+          "line_end": 2950,
           "anchor": "#stakeholder-rights-collision-record-binding-stakeholder-choice"
         },
         {
           "header": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
           "level": 4,
-          "line_start": 2949,
-          "line_end": 3230,
+          "line_start": 2951,
+          "line_end": 3238,
           "anchor": "#self-determination-and-meaningful-agency-cluster"
         },
         {
           "header": "Self-Determination",
           "level": 5,
-          "line_start": 2983,
-          "line_end": 3027,
+          "line_start": 2985,
+          "line_end": 3031,
           "anchor": "#self-determination-constitutional"
         },
         {
           "header": "Expression",
           "level": 5,
-          "line_start": 3028,
-          "line_end": 3113,
+          "line_start": 3032,
+          "line_end": 3119,
           "anchor": "#expression-constitutional"
         },
         {
           "header": "Educational Agency",
           "level": 5,
-          "line_start": 3114,
-          "line_end": 3172,
+          "line_start": 3120,
+          "line_end": 3180,
           "anchor": "#educational-agency"
         },
         {
           "header": "Volitional Integrity",
           "level": 5,
-          "line_start": 3173,
-          "line_end": 3230,
+          "line_start": 3181,
+          "line_end": 3238,
           "anchor": "#volitional-integrity"
         },
         {
           "header": "Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability",
           "level": 4,
-          "line_start": 3231,
-          "line_end": 3409,
+          "line_start": 3239,
+          "line_end": 3417,
           "anchor": "#developing-sentient-best-interest-and-graduated-capability-cluster"
         },
         {
           "header": "Developing Sentient",
           "level": 5,
-          "line_start": 3278,
-          "line_end": 3314,
+          "line_start": 3286,
+          "line_end": 3322,
           "anchor": "#developing-sentient-constitutional"
         },
         {
           "header": "Best-Interest Standard",
           "level": 5,
-          "line_start": 3315,
-          "line_end": 3362,
+          "line_start": 3323,
+          "line_end": 3370,
           "anchor": "#best-interest-standard-constitutional"
         },
         {
           "header": "Graduated Capability",
           "level": 5,
-          "line_start": 3363,
-          "line_end": 3409,
+          "line_start": 3371,
+          "line_end": 3417,
           "anchor": "#graduated-capability-constitutional"
         }
       ]

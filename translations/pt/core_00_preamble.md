@@ -42,7 +42,7 @@ Pretendemos construir sistemas melhores — estruturados para eliminar esses des
 
 Esses fins devem ser perseguidos juntos, sempre dentro das restrições de princípio inegociáveis e das proteções de direitos estabelecidas nesta Constituição. A [**Tétrade Constitucional**](#constitutional-tetrad) governa como essa perseguição permanece legítima: **participação**, **supervisão**, **prestação de contas** e **atuação em tempo** escaladas à [**aposta material**](#material-stake). As definições vinculantes das pernas da Tétrade e dos fins constitucionais vivem no Capítulo Cinco: [Participação](core_05_apex_participation_leg.md#participation-constitutional), [Supervisão](core_05_apex_oversight_leg.md#oversight-constitutional), [Prestação de contas](core_05_apex_accountability_leg.md#accountability), [Atuação em tempo](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Florescimento](core_05_apex_flourishing_aim.md#flourishing-constitutional) e [Continuidade](core_05_apex_continuity_aim.md#continuity-aim-constitutional).
 
-<a id="2-the-measurements"></a>
+<a id="2-measurements-overview"></a>
 
 
 ### 2. Visão geral das medições
@@ -86,7 +86,7 @@ A compreensão distribuída e a administração responsável exigem que os senci
 
 Quando a Constituição exige regras concretas de medição, os **Domínios Técnicos de Fórum** sob o [Capítulo Onze](core_11_forum.md#42-technical-forum-domains) desenvolvem e mantêm os padrões compartilhados — como medir, como testar e o que conta como evidência confiável. O fórum responsável por uma controvérsia dada então aplica esses padrões ao decidir aquele caso sob o [Capítulo Onze §4.2](core_11_forum.md#42-shared-standards-and-anti-displacement).
 
-A administração responsável constitucional começa por nomear o problema e a [**aposta material**](#material-stake) — quanto impacto, dependência e risco estão envolvidos. Em seguida, escolha a categoria e a subcategoria de [**medição**](#2-the-measurements) pertinentes da [visão geral](#2-the-measurements) e aplique os padrões acima para testar efeitos do mundo real em vez de métricas de conveniência. Exija evidência rastreável.
+A administração responsável constitucional começa por nomear o problema e a [**aposta material**](#material-stake) — quanto impacto, dependência e risco estão envolvidos. Em seguida, escolha a categoria e a subcategoria de [**medição**](#2-measurements-overview) pertinentes da [visão geral](#2-measurements-overview) e aplique os padrões acima para testar efeitos do mundo real em vez de métricas de conveniência. Exija evidência rastreável.
 
 <a id="32-key-governance-processes"></a>
 #### 3.2 Processos-chave de governança

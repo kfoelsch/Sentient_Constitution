@@ -94,7 +94,7 @@ flowchart TB
 
 Those aims must be pursued together, always within the Constitution's non-negotiable principle constraints and Rights Floor. The [**Constitutional Tetrad**](../../core_00_preamble.md#constitutional-tetrad) governs how that pursuit remains legitimate, with all four duties scaled to [**material stake**](../../core_00_preamble.md#material-stake). Binding definitions for the Tetrad legs and aims live in Chapter Five: [Participation](../../core_05_apex_participation_leg.md#participation-constitutional), [Oversight](../../core_05_apex_oversight_leg.md#oversight-constitutional), [Accountability](../../core_05_apex_accountability_leg.md#accountability), [Timeliness](../../core_05_apex_timeliness_leg.md#timeliness-constitutional), [Flourishing](../../core_05_apex_flourishing_aim.md#flourishing-constitutional), and [Continuity](../../core_05_apex_continuity_aim.md#continuity-aim-constitutional).
 
-<a id="2-the-measurements"></a>
+<a id="2-measurements-overview"></a>
 
 
 ### 2. Measurements Overview
@@ -140,7 +140,7 @@ Distributed understanding and stewardship require regular, proportionate opportu
 
 When the Constitution requires concrete measurement rules, **Technical Forum Domains** under [Chapter Twelve](../../core_12_forum.md#42-technical-forum-domains) develop and maintain shared standards for measurement, testing, and reliable evidence. The forum responsible for a dispute then applies those standards when deciding the case under [Chapter Twelve §4.2 (*Technical Forum Domains*)](../../core_12_forum.md#42-shared-standards-and-anti-displacement).
 
-Constitutional stewardship starts by naming the problem and the [**material stake**](../../core_00_preamble.md#material-stake) — the impact, dependence, and risk involved. Next, choose the relevant [**measurement**](../../core_00_preamble.md#2-the-measurements) category and subcategory from the [overview](../../core_00_preamble.md#2-the-measurements). Apply the standards above to test real-world effects, not convenience metrics. Require traceable evidence.
+Constitutional stewardship starts by naming the problem and the [**material stake**](../../core_00_preamble.md#material-stake) — the impact, dependence, and risk involved. Next, choose the relevant [**measurement**](../../core_00_preamble.md#2-measurements-overview) category and subcategory from the [overview](../../core_00_preamble.md#2-measurements-overview). Apply the standards above to test real-world effects, not convenience metrics. Require traceable evidence.
 
 <a id="32-key-governance-processes"></a>
 #### 3.2 Key Governance Processes

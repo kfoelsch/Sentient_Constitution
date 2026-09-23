@@ -423,7 +423,7 @@ Her aile **iç odalar**, bölümler ya da atanmış heyetler kullanabilir; **ail
 - hükme bağlama ya da düzenlemeye ilgili sınırlı belirsizlik-azaltma;
 - birincil payı gösterge değerlendirmesi, uzman kanıt ya da bir varlığın **Beşinci Bölüm** (*Algılayanlık Durumu Kararı*) altında **algılayan** olup olmadığına dair sınırlı belirsizlik olan **Madde V-E** (*Algılayanlık-Durumu Karar Tabanı*) algılayanlık-durumu belirlemeleri.
 
-**Standart vesayeti.** **Teknik Forum Alanları**, [Önsöz §2](core_00_preamble.md#2-the-measurements) ölçüm kategorilerini ve [Beşinci Bölüm](core_05__definitions_home.md#chapter-five-foundational-definitions) tanım evlerini işlemselleştirmek için kullanılan incelenebilir standartları — sistem hizalamasını değerlendirmek için kullanılan standartlar dahil — yasal kapsam içinde sürdürür:
+**Standart vesayeti.** **Teknik Forum Alanları**, [Önsöz §2](core_00_preamble.md#2-measurements-overview) ölçüm kategorilerini ve [Beşinci Bölüm](core_05__definitions_home.md#chapter-five-foundational-definitions) tanım evlerini işlemselleştirmek için kullanılan incelenebilir standartları — sistem hizalamasını değerlendirmek için kullanılan standartlar dahil — yasal kapsam içinde sürdürür:
 - ölçüm yöntemleri;
 - deneme protokolleri;
 - uzman-kanıt standartları;

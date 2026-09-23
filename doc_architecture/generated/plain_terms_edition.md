@@ -64,7 +64,7 @@ four duties — participation, oversight, accountability, and timeliness — sca
 
 shared systems cannot run on guesswork or vanity metrics. Measure whether sentients actually flourish and endure. Scale review with impact, dependence, and risk.
 
-[Source](../../core_00_preamble.md#2-the-measurements)
+[Source](../../core_00_preamble.md#2-measurements-overview)
 
 #### 3. Governance and Stewardship
 

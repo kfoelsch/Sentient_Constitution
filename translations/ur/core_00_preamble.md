@@ -42,7 +42,7 @@
 
 وہ مقاصد ساتھ پورے کرنے ہیں، ہمیشہ اس آئین میں قائم ناقابلِ سمجھوتہ اصولی پابندیوں اور حقوق کی حفاظت کے اندر۔ [**آئینی چوکڑی**](#constitutional-tetrad) یہ طے کرتی ہے کہ وہ کوشش جائز کیسے رہتی ہے: [**مادی داؤ**](#material-stake) کے مطابق پیمانہ کی گئی **شرکت**، **نگرانی**، **جوابدہی** اور **بروقت کارروائی**۔ چوکڑی کی ٹانگوں اور آئینی مقاصد کی پابند تعریفیں باب پنجم میں ہیں: [شرکت](core_05_apex_participation_leg.md#participation-constitutional)، [نگرانی](core_05_apex_oversight_leg.md#oversight-constitutional)، [جوابدہی](core_05_apex_accountability_leg.md#accountability)، [بروقت کارروائی](core_05_apex_timeliness_leg.md#timeliness-constitutional)، [شگفتگی](core_05_apex_flourishing_aim.md#flourishing-constitutional)، اور [استمرار](core_05_apex_continuity_aim.md#continuity-aim-constitutional)۔
 
-<a id="2-the-measurements"></a>
+<a id="2-measurements-overview"></a>
 
 
 ### 2. پیمائش کا جائزہ
@@ -86,7 +86,7 @@
 
 جب آئین ٹھوس پیمائش قواعد مانگے، [باب یازدهم](core_11_forum.md#42-technical-forum-domains) کے تحت **تکنیکی فورم دائرے** مشترکہ معیارات بناتے اور رکھتے ہیں — کیسے ناپیں، کیسے جانچیں، اور قابلِ اعتماد ثبوت کیا گنا جائے۔ دیے گئے تنازعے کا ذمہ دار فورم پھر [باب یازدهم §4.2](core_11_forum.md#42-shared-standards-and-anti-displacement) کے تحت اس معاملے کا فیصلہ کرتے وقت ان معیارات کو لاگو کرتا ہے۔
 
-آئینی ذمہ دارانہ انتظام مسئلے اور [**مادی داؤ**](#material-stake) کا نام لینے سے شروع ہوتا ہے — کتنا اثر، انحصار اور خطرہ شامل ہے۔ پھر [جائزے](#2-the-measurements) سے متعلقہ [**پیمائش**](#2-the-measurements) زمرہ اور ذیلی زمرہ چنیں اور اوپر کے معیارات حقیقی دنیا کے اثرات کی جانچ کے لیے لاگو کریں، سہولت پیمائشوں کی نہیں۔ سراغ لگانے کے قابل ثبوت مانگیں۔
+آئینی ذمہ دارانہ انتظام مسئلے اور [**مادی داؤ**](#material-stake) کا نام لینے سے شروع ہوتا ہے — کتنا اثر، انحصار اور خطرہ شامل ہے۔ پھر [جائزے](#2-measurements-overview) سے متعلقہ [**پیمائش**](#2-measurements-overview) زمرہ اور ذیلی زمرہ چنیں اور اوپر کے معیارات حقیقی دنیا کے اثرات کی جانچ کے لیے لاگو کریں، سہولت پیمائشوں کی نہیں۔ سراغ لگانے کے قابل ثبوت مانگیں۔
 
 <a id="32-key-governance-processes"></a>
 #### 3.2 کلیدی حکمرانی عمل

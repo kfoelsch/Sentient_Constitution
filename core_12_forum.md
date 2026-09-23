@@ -416,7 +416,7 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
 - bounded uncertainty-reduction relevant to adjudication or regulation;
 - **Article V-E** (*Sentience-Status Adjudication Floor*) sentience-status determinations whose primary stake is indicator evaluation, expert evidence, or bounded uncertainty about whether an entity is a **sentient** under **Chapter Five** (*Sentience Status Adjudication*).
 
-**Standards custody.** **Technical Forum Domains** maintain reviewable standards used to operationalize [Preamble §2](core_00_preamble.md#2-the-measurements) measurement categories and [Chapter Five](core_05__definitions_home.md#chapter-five-foundational-definitions) definition homes — including standards used to assess system alignment — within lawful scope:
+**Standards custody.** **Technical Forum Domains** maintain reviewable standards used to operationalize [Preamble §2 Measurements Overview](core_00_preamble.md#2-measurements-overview) measurement categories and [Chapter Five](core_05__definitions_home.md#chapter-five-foundational-definitions) definition homes — including standards used to assess system alignment — within lawful scope:
 - measurement methods;
 - test protocols;
 - expert-evidence standards;

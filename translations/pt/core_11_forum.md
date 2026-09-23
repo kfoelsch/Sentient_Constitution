@@ -423,7 +423,7 @@ As **subseções** **abaixo** **seguem** a **ordem** da **tabela** de **sede** *
 - redução delimitada de incerteza pertinente à adjudicação ou à regulação;
 - determinações de status de senciência do **Artigo V-E** (*Piso de adjudicação de status de senciência*) cuja aposta primária é avaliação de indicador, evidência pericial ou incerteza delimitada sobre se uma entidade é um **senciente** sob o **Capítulo Cinco** (*Adjudicação de status de senciência*).
 
-**Custódia de padrões.** Os **Domínios Técnicos de Fórum** mantêm padrões revisáveis usados para operacionalizar as categorias de medição do [Preâmbulo §2](core_00_preamble.md#2-the-measurements) e os lares de definição do [Capítulo Cinco](core_05__definitions_home.md#chapter-five-foundational-definitions) — inclusive padrões usados para avaliar o alinhamento do sistema — dentro do alcance lícito:
+**Custódia de padrões.** Os **Domínios Técnicos de Fórum** mantêm padrões revisáveis usados para operacionalizar as categorias de medição do [Preâmbulo §2](core_00_preamble.md#2-measurements-overview) e os lares de definição do [Capítulo Cinco](core_05__definitions_home.md#chapter-five-foundational-definitions) — inclusive padrões usados para avaliar o alinhamento do sistema — dentro do alcance lícito:
 - métodos de medição;
 - protocolos de teste;
 - padrões de evidência pericial;
