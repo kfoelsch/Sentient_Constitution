@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-09-23T21:04:34+00:00",
+  "generated_at": "2026-09-23T22:07:52+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 469,
@@ -1123,13 +1123,13 @@
       ]
     },
     "core_05__definitions_home.md": {
-      "total_lines": 434,
+      "total_lines": 435,
       "sections": [
         {
           "header": "CHAPTER FIVE: FOUNDATIONAL DEFINITIONS",
           "level": 1,
           "line_start": 2,
-          "line_end": 434,
+          "line_end": 435,
           "anchor": "#chapter-five-foundational-definitions"
         },
         {
@@ -1178,35 +1178,35 @@
           "header": "Chapter Five alphabetical directory (non-operative)",
           "level": 3,
           "line_start": 88,
-          "line_end": 368,
+          "line_end": 369,
           "anchor": "#chapter-five-alphabetical-directory"
         },
         {
           "header": "Definitions A-Z",
           "level": 4,
           "line_start": 108,
-          "line_end": 344,
+          "line_end": 345,
           "anchor": "#definitions-a-z"
         },
         {
           "header": "Clusters A-Z",
           "level": 4,
-          "line_start": 345,
-          "line_end": 368,
+          "line_start": 346,
+          "line_end": 369,
           "anchor": "#clusters-a-z"
         },
         {
           "header": "Chapter Five compass and definition map",
           "level": 3,
-          "line_start": 369,
-          "line_end": 400,
+          "line_start": 370,
+          "line_end": 401,
           "anchor": "#chapter-five-compass-and-definition-map"
         },
         {
           "header": "Measurement crosswalk (reader guidance)",
           "level": 3,
-          "line_start": 401,
-          "line_end": 434,
+          "line_start": 402,
+          "line_end": 435,
           "anchor": null
         }
       ]
@@ -2706,20 +2706,20 @@
       ]
     },
     "core_05_band_oversight.md": {
-      "total_lines": 1506,
+      "total_lines": 1558,
       "sections": [
         {
           "header": "Oversight Constitutional Definitions",
           "level": 1,
           "line_start": 1,
-          "line_end": 1506,
+          "line_end": 1558,
           "anchor": null
         },
         {
           "header": "Oversight: Independent terms",
           "level": 3,
           "line_start": 35,
-          "line_end": 197,
+          "line_end": 249,
           "anchor": "#oversight-independent-terms"
         },
         {
@@ -2744,220 +2744,227 @@
           "anchor": "#classification-scaled-governance"
         },
         {
-          "header": "Press and Journalistic Activity",
+          "header": "Heightened Scrutiny",
           "level": 4,
           "line_start": 159,
-          "line_end": 197,
+          "line_end": 210,
+          "anchor": "#heightened-scrutiny"
+        },
+        {
+          "header": "Press and Journalistic Activity",
+          "level": 4,
+          "line_start": 211,
+          "line_end": 249,
           "anchor": "#press-and-journalistic-activity-constitutional"
         },
         {
           "header": "Oversight: Semi-independent terms",
           "level": 3,
-          "line_start": 198,
-          "line_end": 618,
+          "line_start": 250,
+          "line_end": 670,
           "anchor": "#press-and-journalistic-activity-constitutional-c"
         },
         {
           "header": "Materiality, impact, risk, and proxy integrity",
           "level": 4,
-          "line_start": 202,
-          "line_end": 233,
+          "line_start": 254,
+          "line_end": 285,
           "anchor": null
         },
         {
           "header": "Material",
           "level": 4,
-          "line_start": 234,
-          "line_end": 267,
+          "line_start": 286,
+          "line_end": 319,
           "anchor": "#material"
         },
         {
           "header": "Materiality Determination",
           "level": 4,
-          "line_start": 268,
-          "line_end": 339,
+          "line_start": 320,
+          "line_end": 391,
           "anchor": "#materiality-determination"
         },
         {
           "header": "Materiality Integrity Constraint",
           "level": 4,
-          "line_start": 340,
-          "line_end": 376,
+          "line_start": 392,
+          "line_end": 428,
           "anchor": "#materiality-integrity-constraint"
         },
         {
           "header": "Material Impact",
           "level": 4,
-          "line_start": 377,
-          "line_end": 424,
+          "line_start": 429,
+          "line_end": 476,
           "anchor": "#material-impact"
         },
         {
           "header": "Material Risk",
           "level": 4,
-          "line_start": 425,
-          "line_end": 470,
+          "line_start": 477,
+          "line_end": 522,
           "anchor": "#material-risk"
         },
         {
           "header": "Materiality Under Uncertainty",
           "level": 4,
-          "line_start": 471,
-          "line_end": 510,
+          "line_start": 523,
+          "line_end": 562,
           "anchor": "#materiality-under-uncertainty"
         },
         {
           "header": "Proxy Divergence",
           "level": 4,
-          "line_start": 511,
-          "line_end": 581,
+          "line_start": 563,
+          "line_end": 633,
           "anchor": "#proxy-divergence"
         },
         {
           "header": "Material Degradation",
           "level": 4,
-          "line_start": 582,
-          "line_end": 618,
+          "line_start": 634,
+          "line_end": 670,
           "anchor": "#material-degradation"
         },
         {
           "header": "Oversight: Dependent clusters",
           "level": 3,
-          "line_start": 619,
-          "line_end": 1506,
+          "line_start": 671,
+          "line_end": 1558,
           "anchor": "#movement-refuge-semi-independent"
         },
         {
           "header": "Def.O1 Transparency, Auditability, and Verification",
           "level": 4,
-          "line_start": 624,
-          "line_end": 1134,
+          "line_start": 676,
+          "line_end": 1186,
           "anchor": "#transparency-auditability-and-verification-cluster"
         },
         {
           "header": "Transparency",
           "level": 5,
-          "line_start": 681,
-          "line_end": 740,
+          "line_start": 733,
+          "line_end": 792,
           "anchor": "#transparency"
         },
         {
           "header": "Public Oversight Baseline Disclosure",
           "level": 5,
-          "line_start": 741,
-          "line_end": 820,
+          "line_start": 793,
+          "line_end": 872,
           "anchor": "#public-oversight-baseline-disclosure"
         },
         {
           "header": "Risk Disclosure",
           "level": 5,
-          "line_start": 821,
-          "line_end": 863,
+          "line_start": 873,
+          "line_end": 915,
           "anchor": "#risk-disclosure"
         },
         {
           "header": "Auditability",
           "level": 5,
-          "line_start": 864,
-          "line_end": 945,
+          "line_start": 916,
+          "line_end": 997,
           "anchor": "#auditability"
         },
         {
           "header": "Evidence Preservation",
           "level": 5,
-          "line_start": 946,
-          "line_end": 995,
+          "line_start": 998,
+          "line_end": 1047,
           "anchor": "#evidence-preservation"
         },
         {
           "header": "Evaluation Completeness Constraint",
           "level": 5,
-          "line_start": 996,
-          "line_end": 1058,
+          "line_start": 1048,
+          "line_end": 1110,
           "anchor": "#evaluation-completeness-constraint"
         },
         {
           "header": "Verifiability",
           "level": 5,
-          "line_start": 1059,
-          "line_end": 1134,
+          "line_start": 1111,
+          "line_end": 1186,
           "anchor": "#verifiability"
         },
         {
           "header": "Def.O2 Truth and Epistemic Integrity",
           "level": 4,
-          "line_start": 1135,
-          "line_end": 1506,
+          "line_start": 1187,
+          "line_end": 1558,
           "anchor": "#truth-and-epistemic-integrity-cluster"
         },
         {
           "header": "Publication and High-Impact Communication",
           "level": 5,
-          "line_start": 1180,
-          "line_end": 1192,
+          "line_start": 1232,
+          "line_end": 1244,
           "anchor": "#publication-and-high-impact-communication"
         },
         {
           "header": "Publication Truthfulness and Recklessness Floor",
           "level": 5,
-          "line_start": 1193,
-          "line_end": 1222,
+          "line_start": 1245,
+          "line_end": 1274,
           "anchor": "#publication-truthfulness-and-recklessness-floor"
         },
         {
           "header": "Protected Data and Internal-State Publication Constraint",
           "level": 5,
-          "line_start": 1223,
-          "line_end": 1240,
+          "line_start": 1275,
+          "line_end": 1292,
           "anchor": "#protected-data-and-internal-state-publication-constraint"
         },
         {
           "header": "High-Impact and Systemic Harm Publication Constraint",
           "level": 5,
-          "line_start": 1241,
-          "line_end": 1269,
+          "line_start": 1293,
+          "line_end": 1321,
           "anchor": "#high-impact-and-systemic-harm-publication-constraint"
         },
         {
           "header": "Security-Sensitive Disclosure Balance",
           "level": 5,
-          "line_start": 1270,
-          "line_end": 1298,
+          "line_start": 1322,
+          "line_end": 1350,
           "anchor": "#security-sensitive-disclosure-balance"
         },
         {
           "header": "Truth (Constitutional Constraint)",
           "level": 5,
-          "line_start": 1299,
-          "line_end": 1338,
+          "line_start": 1351,
+          "line_end": 1390,
           "anchor": "#truth-constitutional-constraint"
         },
         {
           "header": "Epistemic Integrity",
           "level": 5,
-          "line_start": 1339,
-          "line_end": 1383,
+          "line_start": 1391,
+          "line_end": 1435,
           "anchor": "#epistemic-integrity"
         },
         {
           "header": "Foreseeability Diligence and Reasonably Foreseeable",
           "level": 5,
-          "line_start": 1384,
-          "line_end": 1424,
+          "line_start": 1436,
+          "line_end": 1476,
           "anchor": "#foreseeability-diligence-and-reasonably-foreseeable"
         },
         {
           "header": "Foreseeability Diligence",
           "level": 5,
-          "line_start": 1425,
-          "line_end": 1485,
+          "line_start": 1477,
+          "line_end": 1537,
           "anchor": "#foreseeability-diligence"
         },
         {
           "header": "Reasonably Foreseeable",
           "level": 5,
-          "line_start": 1486,
-          "line_end": 1506,
+          "line_start": 1538,
+          "line_end": 1558,
           "anchor": "#reasonably-foreseeable"
         }
       ]
@@ -4976,13 +4983,13 @@
       ]
     },
     "core_06_rights_part_a.md": {
-      "total_lines": 1002,
+      "total_lines": 1005,
       "sections": [
         {
           "header": "CHAPTER SIX: FOUNDATIONAL RIGHTS",
           "level": 1,
           "line_start": 1,
-          "line_end": 1002,
+          "line_end": 1005,
           "anchor": null
         },
         {
@@ -5017,7 +5024,7 @@
           "header": "Article I: Environmental Survival",
           "level": 3,
           "line_start": 209,
-          "line_end": 404,
+          "line_end": 407,
           "anchor": null
         },
         {
@@ -5045,117 +5052,117 @@
           "header": "Article I-D: Existential Risk and Ecological Recovery Capacity",
           "level": 4,
           "line_start": 358,
-          "line_end": 404,
+          "line_end": 407,
           "anchor": "#article-i-d-existential-risk-and-recovery-capacity"
         },
         {
           "header": "Article II: Material Stewardship and Durable-Use Integrity",
           "level": 3,
-          "line_start": 405,
-          "line_end": 633,
+          "line_start": 408,
+          "line_end": 636,
           "anchor": null
         },
         {
           "header": "Article II-A: Material Stewardship and Lifecycle Honesty",
           "level": 4,
-          "line_start": 442,
-          "line_end": 477,
+          "line_start": 445,
+          "line_end": 480,
           "anchor": null
         },
         {
           "header": "Article II-B: Repair, Maintenance, and Independent Servicing",
           "level": 4,
-          "line_start": 478,
-          "line_end": 512,
+          "line_start": 481,
+          "line_end": 515,
           "anchor": null
         },
         {
           "header": "Article II-C: Designed Obsolescence and Incentive Discipline",
           "level": 4,
-          "line_start": 513,
-          "line_end": 542,
+          "line_start": 516,
+          "line_end": 545,
           "anchor": null
         },
         {
           "header": "Article II-D: Post-Sale Access and Subscription Integrity",
           "level": 4,
-          "line_start": 543,
-          "line_end": 572,
+          "line_start": 546,
+          "line_end": 575,
           "anchor": null
         },
         {
           "header": "Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability",
           "level": 4,
-          "line_start": 573,
-          "line_end": 633,
+          "line_start": 576,
+          "line_end": 636,
           "anchor": null
         },
         {
           "header": "Article III: Survival and Equal Educational Access",
           "level": 3,
-          "line_start": 634,
-          "line_end": 867,
+          "line_start": 637,
+          "line_end": 870,
           "anchor": null
         },
         {
           "header": "Article III-A: Survival",
           "level": 4,
-          "line_start": 657,
-          "line_end": 708,
+          "line_start": 660,
+          "line_end": 711,
           "anchor": null
         },
         {
           "header": "Article III-B: Equal Educational Access",
           "level": 4,
-          "line_start": 709,
-          "line_end": 745,
+          "line_start": 712,
+          "line_end": 748,
           "anchor": null
         },
         {
           "header": "Article III-C: Bodily-Maintenance and Healthcare Access",
           "level": 4,
-          "line_start": 746,
-          "line_end": 793,
+          "line_start": 749,
+          "line_end": 796,
           "anchor": null
         },
         {
           "header": "Article III-D: Labor and Economic Floor",
           "level": 4,
-          "line_start": 794,
-          "line_end": 867,
+          "line_start": 797,
+          "line_end": 870,
           "anchor": null
         },
         {
           "header": "Article IV: Resource Allocation, Dependencies, and Ecosystem Funding",
           "level": 3,
-          "line_start": 868,
-          "line_end": 1002,
+          "line_start": 871,
+          "line_end": 1005,
           "anchor": null
         },
         {
           "header": "Article IV-A: Dependency Mapping and Resource-Flow Transparency",
           "level": 4,
-          "line_start": 906,
-          "line_end": 937,
+          "line_start": 909,
+          "line_end": 940,
           "anchor": null
         },
         {
           "header": "Article IV-B: Cross-System Fairness and Sustainability",
           "level": 4,
-          "line_start": 938,
-          "line_end": 1002,
+          "line_start": 941,
+          "line_end": 1005,
           "anchor": null
         }
       ]
     },
     "core_06_rights_part_b.md": {
-      "total_lines": 1770,
+      "total_lines": 1771,
       "sections": [
         {
           "header": "CHAPTER SIX: FOUNDATIONAL RIGHTS",
           "level": 1,
           "line_start": 1,
-          "line_end": 1770,
+          "line_end": 1771,
           "anchor": null
         },
         {
@@ -5169,7 +5176,7 @@
           "header": "Article V: Equal Basic Rights",
           "level": 3,
           "line_start": 109,
-          "line_end": 552,
+          "line_end": 553,
           "anchor": null
         },
         {
@@ -5232,229 +5239,229 @@
           "header": "Article V-H: Expression, Assembly, and Press",
           "level": 4,
           "line_start": 487,
-          "line_end": 552,
+          "line_end": 553,
           "anchor": null
         },
         {
           "header": "Article VI: Right to Sentient-Centered Education",
           "level": 3,
-          "line_start": 553,
-          "line_end": 657,
+          "line_start": 554,
+          "line_end": 658,
           "anchor": null
         },
         {
           "header": "Article VI-A: Capability-Building Education Right",
           "level": 4,
-          "line_start": 595,
-          "line_end": 623,
+          "line_start": 596,
+          "line_end": 624,
           "anchor": null
         },
         {
           "header": "Article VI-B: Lifelong and Adaptive Learning and Contestability",
           "level": 4,
-          "line_start": 624,
-          "line_end": 657,
+          "line_start": 625,
+          "line_end": 658,
           "anchor": null
         },
         {
           "header": "Article VII: Self-Ownership",
           "level": 3,
-          "line_start": 658,
-          "line_end": 957,
+          "line_start": 659,
+          "line_end": 958,
           "anchor": null
         },
         {
           "header": "Article VII-A: Self-Ownership of Body and Mind",
           "level": 4,
-          "line_start": 688,
-          "line_end": 725,
+          "line_start": 689,
+          "line_end": 726,
           "anchor": null
         },
         {
           "header": "Article VII-B: Internal-State Boundary and Type-N Protection",
           "level": 4,
-          "line_start": 726,
-          "line_end": 760,
+          "line_start": 727,
+          "line_end": 761,
           "anchor": null
         },
         {
           "header": "Article VII-C: Mental-Health Crisis and Involuntary-Intervention Floor",
           "level": 4,
-          "line_start": 761,
-          "line_end": 806,
+          "line_start": 762,
+          "line_end": 807,
           "anchor": null
         },
         {
           "header": "Article VII-D: Family, Care Relationships, Reproductive Autonomy, and Non-Separation",
           "level": 4,
-          "line_start": 807,
-          "line_end": 897,
+          "line_start": 808,
+          "line_end": 898,
           "anchor": null
         },
         {
           "header": "Article VII-D.1: Derivation, Instantiation, and the Parent-System Relationship",
           "level": 5,
-          "line_start": 865,
-          "line_end": 897,
+          "line_start": 866,
+          "line_end": 898,
           "anchor": null
         },
         {
           "header": "Article VII-E: Voluntary Discontinuation of One's Own Existence",
           "level": 4,
-          "line_start": 898,
-          "line_end": 957,
+          "line_start": 899,
+          "line_end": 958,
           "anchor": null
         },
         {
           "header": "Article VIII: Likeness, Experiential Data, and Publication Rights",
           "level": 3,
-          "line_start": 958,
-          "line_end": 1175,
+          "line_start": 959,
+          "line_end": 1176,
           "anchor": null
         },
         {
           "header": "Article VIII-A: Self-Ownership of Likeness and Reputation",
           "level": 4,
-          "line_start": 988,
-          "line_end": 1026,
+          "line_start": 989,
+          "line_end": 1027,
           "anchor": null
         },
         {
           "header": "Article VIII-B: Experiential and Derived Data Rights",
           "level": 4,
-          "line_start": 1027,
-          "line_end": 1072,
+          "line_start": 1028,
+          "line_end": 1073,
           "anchor": null
         },
         {
           "header": "Article VIII-C: Truthful Publication and High-Impact Publication Limits",
           "level": 4,
-          "line_start": 1073,
-          "line_end": 1117,
+          "line_start": 1074,
+          "line_end": 1118,
           "anchor": null
         },
         {
           "header": "Article VIII-D: Creative Work, Training-Data Use, and Anti-Displacement",
           "level": 4,
-          "line_start": 1118,
-          "line_end": 1175,
+          "line_start": 1119,
+          "line_end": 1176,
           "anchor": null
         },
         {
           "header": "Article IX: Self-Determination and Agency",
           "level": 3,
-          "line_start": 1176,
-          "line_end": 1365,
+          "line_start": 1177,
+          "line_end": 1366,
           "anchor": null
         },
         {
           "header": "Article IX-A: Agency and Freedom from Manipulation",
           "level": 4,
-          "line_start": 1217,
-          "line_end": 1247,
+          "line_start": 1218,
+          "line_end": 1248,
           "anchor": null
         },
         {
           "header": "Article IX-B: Stakeholder Role and Participation Rights",
           "level": 4,
-          "line_start": 1248,
-          "line_end": 1297,
+          "line_start": 1249,
+          "line_end": 1298,
           "anchor": null
         },
         {
           "header": "Article IX-C: Governance Participation and Voting Entitlement",
           "level": 4,
-          "line_start": 1298,
-          "line_end": 1329,
+          "line_start": 1299,
+          "line_end": 1330,
           "anchor": null
         },
         {
           "header": "Article IX-D: Inclusion and Exclusion Challenge Rights",
           "level": 4,
-          "line_start": 1330,
-          "line_end": 1365,
+          "line_start": 1331,
+          "line_end": 1366,
           "anchor": null
         },
         {
           "header": "Article X: Cooperative Interaction",
           "level": 3,
-          "line_start": 1366,
-          "line_end": 1553,
+          "line_start": 1367,
+          "line_end": 1554,
           "anchor": null
         },
         {
           "header": "Article X-A: Non-Imposition and Consent in Association",
           "level": 4,
-          "line_start": 1405,
-          "line_end": 1446,
+          "line_start": 1406,
+          "line_end": 1447,
           "anchor": null
         },
         {
           "header": "Article X-B: Collective Harm Boundary and Enforcement Interface",
           "level": 4,
-          "line_start": 1447,
-          "line_end": 1491,
+          "line_start": 1448,
+          "line_end": 1492,
           "anchor": null
         },
         {
           "header": "Article X-C: Adult consensual commercial sexual services and sexual exploitation",
           "level": 4,
-          "line_start": 1492,
-          "line_end": 1553,
+          "line_start": 1493,
+          "line_end": 1554,
           "anchor": null
         },
         {
           "header": "Article XI: Stakeholder System Participation, Representation, and Due Process",
           "level": 3,
-          "line_start": 1554,
-          "line_end": 1770,
+          "line_start": 1555,
+          "line_end": 1771,
           "anchor": null
         },
         {
           "header": "Article XI-A: Stakeholder System Participation and Representation",
           "level": 4,
-          "line_start": 1604,
-          "line_end": 1635,
+          "line_start": 1605,
+          "line_end": 1636,
           "anchor": null
         },
         {
           "header": "Article XI-B: Weighted Participation Constraints",
           "level": 4,
-          "line_start": 1636,
-          "line_end": 1667,
+          "line_start": 1637,
+          "line_end": 1668,
           "anchor": null
         },
         {
           "header": "Article XI-C: Legitimacy Gate and Anti-Token Participation",
           "level": 4,
-          "line_start": 1668,
-          "line_end": 1697,
+          "line_start": 1669,
+          "line_end": 1698,
           "anchor": null
         },
         {
           "header": "Article XI-D: Internal Roles, Accountability, and Due-Process Requirements",
           "level": 4,
-          "line_start": 1698,
-          "line_end": 1735,
+          "line_start": 1699,
+          "line_end": 1736,
           "anchor": null
         },
         {
           "header": "Article XI-E: Non-Capture Safeguards",
           "level": 4,
-          "line_start": 1736,
-          "line_end": 1770,
+          "line_start": 1737,
+          "line_end": 1771,
           "anchor": null
         }
       ]
     },
     "core_06_rights_part_c.md": {
-      "total_lines": 2201,
+      "total_lines": 2202,
       "sections": [
         {
           "header": "CHAPTER SIX: FOUNDATIONAL RIGHTS",
           "level": 1,
           "line_start": 1,
-          "line_end": 2201,
+          "line_end": 2202,
           "anchor": null
         },
         {
@@ -5517,7 +5524,7 @@
           "header": "Article XIII: Security, Intelligence, Force, and Autonomous Coercive Systems",
           "level": 3,
           "line_start": 367,
-          "line_end": 622,
+          "line_end": 623,
           "anchor": null
         },
         {
@@ -5538,280 +5545,280 @@
           "header": "Article XIII-C: Autonomous Lethal Systems and Autonomous Coercion Tools",
           "level": 4,
           "line_start": 570,
-          "line_end": 622,
+          "line_end": 623,
           "anchor": null
         },
         {
           "header": "Article XIV: Info-Sphere Integrity",
           "level": 3,
-          "line_start": 623,
-          "line_end": 759,
+          "line_start": 624,
+          "line_end": 760,
           "anchor": null
         },
         {
           "header": "Article XIV-A: Info-Sphere Plurality and Anti-Monopoly",
           "level": 4,
-          "line_start": 660,
-          "line_end": 692,
+          "line_start": 661,
+          "line_end": 693,
           "anchor": null
         },
         {
           "header": "Article XIV-B: Transparency, Auditability, and Contestability",
           "level": 4,
-          "line_start": 693,
-          "line_end": 727,
+          "line_start": 694,
+          "line_end": 728,
           "anchor": null
         },
         {
           "header": "Article XIV-C: Validation, Reporting, and Epistemic Stewardship",
           "level": 4,
-          "line_start": 728,
-          "line_end": 759,
+          "line_start": 729,
+          "line_end": 760,
           "anchor": null
         },
         {
           "header": "Article XV: Audit, Transparency, and Independent Verification",
           "level": 3,
-          "line_start": 760,
-          "line_end": 928,
+          "line_start": 761,
+          "line_end": 929,
           "anchor": null
         },
         {
           "header": "Article XV-A: Auditability and Observable Evidence",
           "level": 4,
-          "line_start": 852,
-          "line_end": 874,
+          "line_start": 853,
+          "line_end": 875,
           "anchor": "#audit-three-layers"
         },
         {
           "header": "Article XV-B: Distributed Oversight and Anti-Monopoly Review",
           "level": 4,
-          "line_start": 875,
-          "line_end": 898,
+          "line_start": 876,
+          "line_end": 899,
           "anchor": null
         },
         {
           "header": "Article XV-C: Verification Accessibility",
           "level": 4,
-          "line_start": 899,
-          "line_end": 928,
+          "line_start": 900,
+          "line_end": 929,
           "anchor": null
         },
         {
           "header": "Article XVI: System Lifecycle, Environments, and Reversibility",
           "level": 3,
-          "line_start": 929,
-          "line_end": 1062,
+          "line_start": 930,
+          "line_end": 1063,
           "anchor": null
         },
         {
           "header": "Article XVI-A: Lifecycle Governance and Environment Separation",
           "level": 4,
-          "line_start": 976,
-          "line_end": 1007,
+          "line_start": 977,
+          "line_end": 1008,
           "anchor": null
         },
         {
           "header": "Article XVI-B: Progressive Deployment and Reversibility",
           "level": 4,
-          "line_start": 1008,
-          "line_end": 1037,
+          "line_start": 1009,
+          "line_end": 1038,
           "anchor": null
         },
         {
           "header": "Article XVI-C: Misclassification and Evasion Consequences",
           "level": 4,
-          "line_start": 1038,
-          "line_end": 1062,
+          "line_start": 1039,
+          "line_end": 1063,
           "anchor": null
         },
         {
           "header": "Article XVII: Sandboxed Innovation, Experimentation, and Creative Freedom",
           "level": 3,
-          "line_start": 1063,
-          "line_end": 1308,
+          "line_start": 1064,
+          "line_end": 1309,
           "anchor": null
         },
         {
           "header": "Article XVII-A: Sandboxed Scope",
           "level": 4,
-          "line_start": 1093,
-          "line_end": 1122,
+          "line_start": 1094,
+          "line_end": 1123,
           "anchor": null
         },
         {
           "header": "Article XVII-B: Containment, Disclosure, and Opt-In",
           "level": 4,
-          "line_start": 1123,
-          "line_end": 1153,
+          "line_start": 1124,
+          "line_end": 1154,
           "anchor": null
         },
         {
           "header": "Article XVII-C: Transition to Higher-Obligation Regimes",
           "level": 4,
-          "line_start": 1154,
-          "line_end": 1179,
+          "line_start": 1155,
+          "line_end": 1180,
           "anchor": null
         },
         {
           "header": "Article XVII-D: Innovation Reward, Disclosure, and Anti-Enclosure",
           "level": 4,
-          "line_start": 1180,
-          "line_end": 1257,
+          "line_start": 1181,
+          "line_end": 1258,
           "anchor": null
         },
         {
           "header": "Article XVII-E: Scientific Publication, Review, and Replication Integrity",
           "level": 4,
-          "line_start": 1258,
-          "line_end": 1308,
+          "line_start": 1259,
+          "line_end": 1309,
           "anchor": null
         },
         {
           "header": "Article XVIII: Standing and Participation Status",
           "level": 3,
-          "line_start": 1309,
-          "line_end": 1551,
+          "line_start": 1310,
+          "line_end": 1552,
           "anchor": "#article-xviii-standing-and-participation-status"
         },
         {
           "header": "Article XVIII-A: Standing Distinction",
           "level": 4,
-          "line_start": 1364,
-          "line_end": 1412,
+          "line_start": 1365,
+          "line_end": 1413,
           "anchor": null
         },
         {
           "header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
           "level": 4,
-          "line_start": 1413,
-          "line_end": 1476,
+          "line_start": 1414,
+          "line_end": 1477,
           "anchor": "#anti-substitution-sentience-status-xviii"
         },
         {
           "header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
           "level": 4,
-          "line_start": 1477,
-          "line_end": 1529,
+          "line_start": 1478,
+          "line_end": 1530,
           "anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit"
         },
         {
           "header": "Article XVIII-D: Movement, Migration, Refuge, and Non-Statelessness Routing",
           "level": 4,
-          "line_start": 1530,
-          "line_end": 1551,
+          "line_start": 1531,
+          "line_end": 1552,
           "anchor": "#article-xviii-d-movement-migration-and-refuge"
         },
         {
           "header": "Article XIX: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
           "level": 3,
-          "line_start": 1552,
-          "line_end": 1781,
+          "line_start": 1553,
+          "line_end": 1782,
           "anchor": "#article-xix-interoperability-portability-and-exit-integrity"
         },
         {
           "header": "Article XIX-A: Portability Rights",
           "level": 4,
-          "line_start": 1606,
-          "line_end": 1633,
+          "line_start": 1607,
+          "line_end": 1634,
           "anchor": null
         },
         {
           "header": "Article XIX-B: Reciprocal Interoperability Boundaries",
           "level": 4,
-          "line_start": 1634,
-          "line_end": 1657,
+          "line_start": 1635,
+          "line_end": 1658,
           "anchor": null
         },
         {
           "header": "Article XIX-C: Anti-Lock-In Rule",
           "level": 4,
-          "line_start": 1658,
-          "line_end": 1686,
+          "line_start": 1659,
+          "line_end": 1687,
           "anchor": null
         },
         {
           "header": "Article XIX-D: Movement, Migration, Refuge, and Non-Statelessness",
           "level": 4,
-          "line_start": 1687,
-          "line_end": 1781,
+          "line_start": 1688,
+          "line_end": 1782,
           "anchor": null
         },
         {
           "header": "Article XX: Comprehensibility and Complexity Stewardship",
           "level": 3,
-          "line_start": 1782,
-          "line_end": 1901,
+          "line_start": 1783,
+          "line_end": 1902,
           "anchor": null
         },
         {
           "header": "Article XX-A: Proportional Comprehensibility Right",
           "level": 4,
-          "line_start": 1834,
-          "line_end": 1866,
+          "line_start": 1835,
+          "line_end": 1867,
           "anchor": null
         },
         {
           "header": "Article XX-B: Complexity Audit and Modularity Requirements",
           "level": 4,
-          "line_start": 1867,
-          "line_end": 1901,
+          "line_start": 1868,
+          "line_end": 1902,
           "anchor": "#operative-steward-statement-comprehensibility"
         },
         {
           "header": "Article XXI: Root Cause Analysis and Adaptive Response",
           "level": 3,
-          "line_start": 1902,
-          "line_end": 2008,
+          "line_start": 1903,
+          "line_end": 2009,
           "anchor": "#article-xxi-root-cause-analysis-and-adaptive-response"
         },
         {
           "header": "Article XXI-A: Diagnostic Rigor and Causal Attribution",
           "level": 4,
-          "line_start": 1948,
-          "line_end": 1977,
+          "line_start": 1949,
+          "line_end": 1978,
           "anchor": null
         },
         {
           "header": "Article XXI-B: Auditability, Challenge, and Reversibility Preference",
           "level": 4,
-          "line_start": 1978,
-          "line_end": 2008,
+          "line_start": 1979,
+          "line_end": 2009,
           "anchor": null
         },
         {
           "header": "Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
           "level": 3,
-          "line_start": 2009,
-          "line_end": 2201,
+          "line_start": 2010,
+          "line_end": 2202,
           "anchor": "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards"
         },
         {
           "header": "Article XXII-A: Bounded Interpretive Mandate",
           "level": 4,
-          "line_start": 2055,
-          "line_end": 2088,
+          "line_start": 2056,
+          "line_end": 2089,
           "anchor": null
         },
         {
           "header": "Article XXII-B: Composition, Rotation, and Conflict Controls",
           "level": 4,
-          "line_start": 2089,
-          "line_end": 2121,
+          "line_start": 2090,
+          "line_end": 2122,
           "anchor": "#article-xxii-b-composition-rotation-and-conflict-controls"
         },
         {
           "header": "Article XXII-C: Public Reasons, Challenge Rights, and External Review",
           "level": 4,
-          "line_start": 2122,
-          "line_end": 2162,
+          "line_start": 2123,
+          "line_end": 2163,
           "anchor": null
         },
         {
           "header": "Article XXII-D: Removal for Cause and Non-Entrenchment",
           "level": 4,
-          "line_start": 2163,
-          "line_end": 2201,
+          "line_start": 2164,
+          "line_end": 2202,
           "anchor": null
         }
       ]

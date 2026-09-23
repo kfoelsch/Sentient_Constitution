@@ -238,7 +238,7 @@ Once it attaches:
 
 A final designation requires:
 
-- heightened review;
+- review under [highest scrutiny](core_05_band_oversight.md#highest-scrutiny);
 - [Evidence Preservation](core_05_band_oversight.md#evidence-preservation);
 - published remediation controls;
 - proportional sanctions or repair where confirmed; and

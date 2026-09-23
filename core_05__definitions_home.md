@@ -200,6 +200,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying)
 - [Harm](core_05_band_accountability.md#harm)
 - [Harm Minimization (Tradeoff Selection)](core_05_band_accountability.md#harm-minimization-tradeoff-selection)
+- [Heightened Scrutiny](core_05_band_oversight.md#heightened-scrutiny)
 - [High-Impact and Systemic Harm Publication Constraint](core_05_band_oversight.md#high-impact-and-systemic-harm-publication-constraint)
 - [Identity Data Protection](core_05_band_continuity.md#identity-data-protection)
 - [Incentive Alignment](core_05_band_integrative.md#incentive-alignment)

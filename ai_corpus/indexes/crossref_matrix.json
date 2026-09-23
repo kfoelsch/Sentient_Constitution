@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-23T21:04:35+00:00",
+  "generated_at": "2026-09-23T22:07:54+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1271,7 +1271,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 98,
+            "count": 99,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -1286,6 +1286,7 @@
               "#foreseeability-diligence",
               "#foreseeability-diligence-a",
               "#foreseeability-diligence-c",
+              "#heightened-scrutiny",
               "#material",
               "#material-impact",
               "#material-risk",
@@ -2511,7 +2512,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 32,
+            "count": 33,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -2521,6 +2522,7 @@
               "#evaluation-completeness-constraint",
               "#evidence-preservation",
               "#foreseeability-diligence",
+              "#heightened-scrutiny",
               "#high-impact-and-systemic-harm-publication-constraint",
               "#material",
               "#material-degradation",
@@ -4473,14 +4475,15 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 10,
+            "count": 12,
             "anchors": [
               "#6-process-conflict-resolution",
               "#61-core-tradeoff-principles",
               "#613-proportionality",
               "#62-epistemic-disclosure-constraints",
               "#621-preservation-of-epistemic-integrity",
-              "#624-proxy-divergence-invalidation"
+              "#624-proxy-divergence-invalidation",
+              "#843-incorporation-layer"
             ]
           },
           {
@@ -4518,7 +4521,7 @@
           },
           {
             "file": "core_05_apex_oversight_leg.md",
-            "count": 31,
+            "count": 32,
             "anchors": [
               "#oversight-constitutional",
               "#oversight-measurement-family",
@@ -4527,7 +4530,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 61,
+            "count": 72,
             "anchors": [
               "#contestability",
               "#feasibility",
@@ -4574,7 +4577,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 289,
+            "count": 292,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -4584,6 +4587,7 @@
               "#evidence-preservation",
               "#foreseeability-diligence",
               "#foreseeability-diligence-and-reasonably-foreseeable",
+              "#heightened-scrutiny",
               "#high-impact-and-systemic-harm-publication-constraint",
               "#material",
               "#material-degradation",
@@ -4623,16 +4627,24 @@
             ]
           },
           {
+            "file": "core_06_rights_part_a.md",
+            "count": 2,
+            "anchors": [
+              "#article-i-d-existential-risk-and-recovery-capacity"
+            ]
+          },
+          {
             "file": "core_06_rights_part_b.md",
-            "count": 1,
+            "count": 3,
             "anchors": [
               "#article-v-h-expression-assembly-and-press"
             ]
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 5,
+            "count": 6,
             "anchors": [
+              "#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools",
               "#article-xv-c-verification-accessibility",
               "#audit-three-layers",
               "#operative-steward-statement-audit"
@@ -4655,6 +4667,20 @@
               "#11-system-certification-record",
               "#111-minimum-record-contents",
               "#12-transparency-auditability-and-contestability"
+            ]
+          },
+          {
+            "file": "core_11_a_misconduct_designation.md",
+            "count": 2,
+            "anchors": [
+              "#3-violation-axis-s-7-9-slot-assignment-incident-gravity"
+            ]
+          },
+          {
+            "file": "core_16_amendment_ratification.md",
+            "count": 1,
+            "anchors": [
+              "#1-heightened-review-for-rights-affecting-changes"
             ]
           },
           {
@@ -6350,9 +6376,10 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
-              "#evidence-preservation"
+              "#evidence-preservation",
+              "#highest-scrutiny"
             ]
           },
           {
@@ -7208,7 +7235,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 216,
+            "count": 217,
             "anchors": [
               "#anti-displacement-floor-constitutional",
               "#anti-displacement-floor-constitutional-a",
@@ -7298,7 +7325,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 60,
+            "count": 66,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#epistemic-integrity",
@@ -7308,6 +7335,10 @@
               "#foreseeability-diligence",
               "#foreseeability-diligence-a",
               "#foreseeability-diligence-c",
+              "#heightened-scrutiny",
+              "#heightened-scrutiny-a",
+              "#heightened-scrutiny-c",
+              "#highest-scrutiny",
               "#material-impact",
               "#material-impact-a",
               "#material-impact-c",
@@ -7663,7 +7694,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 60,
+            "count": 67,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -7672,6 +7703,10 @@
               "#epistemic-integrity-a",
               "#epistemic-integrity-c",
               "#epistemic-integrity-o",
+              "#heightened-scrutiny",
+              "#heightened-scrutiny-a",
+              "#heightened-scrutiny-c",
+              "#highest-scrutiny",
               "#material-impact",
               "#material-impact-a",
               "#material-impact-c",
@@ -8097,7 +8132,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 236,
+            "count": 243,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#adversarial-scaled-and-exploited-conditions-a",
@@ -8116,6 +8151,10 @@
               "#foreseeability-diligence",
               "#foreseeability-diligence-a",
               "#foreseeability-diligence-c",
+              "#heightened-scrutiny",
+              "#heightened-scrutiny-a",
+              "#heightened-scrutiny-c",
+              "#highest-scrutiny",
               "#material-impact",
               "#material-impact-a",
               "#material-impact-c",
@@ -9027,9 +9066,10 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
-              "#evidence-preservation"
+              "#evidence-preservation",
+              "#heightened-scrutiny"
             ]
           },
           {

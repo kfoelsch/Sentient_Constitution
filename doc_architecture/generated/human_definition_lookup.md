@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** Term → one-sentence gloss → source. This is a locator, not a second dictionary. Where a gloss and the source differ, the source binds. Official meaning lives on the named Chapter Five home (and Preamble named terms where listed in the start list).
 
-Coverage: **166** of **236** registry terms carry a source gloss.
+Coverage: **167** of **237** registry terms carry a source gloss.
 
 ## Start here
 
@@ -128,6 +128,7 @@ Names someone would actually type. Each row points; it does not replace the defi
 | Harassment and Bullying | harassment and bullying are unwanted acts or conditions that, through repetition, coordination, power, or severity, materially make a setting unsafe, degrading, or hard to participate in. | [Source](../../core_05_band_accountability.md#harassment-and-bullying) |
 | Harm | harm is a material worsening of a sentient's life, agency, functioning, or psychological health. Offense, discomfort, or disagreement alone is not harm without a material pathway to such effects. | [Source](../../core_05_band_accountability.md#harm) |
 | Harm Minimization (Tradeoff Selection) | when several lawful options remain, choose the one expected to cause the least total harm across affected sentients, connected systems, and both near- and long-term timeframes. | [Source](../../core_05_band_accountability.md#harm-minimization-tradeoff-selection) |
+| Heightened Scrutiny | some decisions are risky enough that the ordinary check is not enough. Heightened scrutiny is the harder check: whoever wants to go ahead must prove the case, safer options must really have been weighed, and outsiders must be able to see and challenge the reasoning. Highest scrutiny is the hardest check, kept for a few cases where a wrong call does the most damage. | [Source](../../core_05_band_oversight.md#heightened-scrutiny) |
 | High-Impact and Systemic Harm Publication Constraint | even true publication can be constrained when it foreseeably enables targeted harm, coercion, large-scale harmful coordination, or cascading failure. | [Source](../../core_05_band_oversight.md#high-impact-and-systemic-harm-publication-constraint) |
 | Identity Data Protection | *(no plain-terms gloss in source)* | [Source](../../core_05_band_continuity.md#identity-data-protection) |
 | Incentive Alignment | rewards, targets, and governance signals must push agents and systems toward real constitutional outcomes — not toward proxies, loopholes, or capture. | [Source](../../core_05_band_integrative.md#incentive-alignment) |

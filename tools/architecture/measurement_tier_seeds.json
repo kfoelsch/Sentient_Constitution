@@ -653,6 +653,11 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
+    "Heightened Scrutiny": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
     "High-Impact and Systemic Harm Publication Constraint": {
       "ch00_category": "3.5 Oversight",
       "tier_depth": "primary_only",

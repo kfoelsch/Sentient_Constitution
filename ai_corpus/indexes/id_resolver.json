@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-09-23T21:04:37+00:00",
+  "generated_at": "2026-09-23T22:07:56+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -3253,14 +3253,14 @@
       "file": "core_05_band_oversight.md",
       "anchor": "#defo1",
       "heading": "Def.O1 Transparency, Auditability, and Verification",
-      "line": 624,
+      "line": 676,
       "kind": "cluster"
     },
     "Def.O2": {
       "file": "core_05_band_oversight.md",
       "anchor": "#defo2",
       "heading": "Def.O2 Truth and Epistemic Integrity",
-      "line": 1135,
+      "line": 1187,
       "kind": "cluster"
     },
     "Def.P1": {
@@ -4071,8 +4071,8 @@
       "term": "Auditability",
       "file": "core_05_band_oversight.md",
       "anchor": "#auditability",
-      "line_start": 864,
-      "line_end": 945
+      "line_start": 916,
+      "line_end": 997
     },
     {
       "term": "Authority Stack and Internal Hierarchy",
@@ -4449,8 +4449,8 @@
       "term": "Epistemic Integrity",
       "file": "core_05_band_oversight.md",
       "anchor": "#epistemic-integrity",
-      "line_start": 1339,
-      "line_end": 1383
+      "line_start": 1391,
+      "line_end": 1435
     },
     {
       "term": "Essential-Environment Non-Commodification",
@@ -4463,8 +4463,8 @@
       "term": "Evaluation Completeness Constraint",
       "file": "core_05_band_oversight.md",
       "anchor": "#evaluation-completeness-constraint",
-      "line_start": 996,
-      "line_end": 1058
+      "line_start": 1048,
+      "line_end": 1110
     },
     {
       "term": "Event-Contract Market",
@@ -4477,8 +4477,8 @@
       "term": "Evidence Preservation",
       "file": "core_05_band_oversight.md",
       "anchor": "#evidence-preservation",
-      "line_start": 946,
-      "line_end": 995
+      "line_start": 998,
+      "line_end": 1047
     },
     {
       "term": "Existential Risk",
@@ -4540,8 +4540,8 @@
       "term": "Foreseeability Diligence",
       "file": "core_05_band_oversight.md",
       "anchor": "#foreseeability-diligence",
-      "line_start": 1425,
-      "line_end": 1485
+      "line_start": 1477,
+      "line_end": 1537
     },
     {
       "term": "Forum Case Record",
@@ -4656,11 +4656,18 @@
       "line_end": 130
     },
     {
+      "term": "Heightened Scrutiny",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#heightened-scrutiny",
+      "line_start": 159,
+      "line_end": 210
+    },
+    {
       "term": "High-Impact and Systemic Harm Publication Constraint",
       "file": "core_05_band_oversight.md",
       "anchor": "#high-impact-and-systemic-harm-publication-constraint",
-      "line_start": 1241,
-      "line_end": 1269
+      "line_start": 1293,
+      "line_end": 1321
     },
     {
       "term": "Identity Data Protection",
@@ -4813,8 +4820,8 @@
       "term": "Material",
       "file": "core_05_band_oversight.md",
       "anchor": "#material",
-      "line_start": 234,
-      "line_end": 267
+      "line_start": 286,
+      "line_end": 319
     },
     {
       "term": "Material Control Line",
@@ -4827,22 +4834,22 @@
       "term": "Material Degradation",
       "file": "core_05_band_oversight.md",
       "anchor": "#material-degradation",
-      "line_start": 582,
-      "line_end": 623
+      "line_start": 634,
+      "line_end": 675
     },
     {
       "term": "Material Impact",
       "file": "core_05_band_oversight.md",
       "anchor": "#material-impact",
-      "line_start": 377,
-      "line_end": 424
+      "line_start": 429,
+      "line_end": 476
     },
     {
       "term": "Material Risk",
       "file": "core_05_band_oversight.md",
       "anchor": "#material-risk",
-      "line_start": 425,
-      "line_end": 470
+      "line_start": 477,
+      "line_end": 522
     },
     {
       "term": "material stake",
@@ -4855,22 +4862,22 @@
       "term": "Materiality Determination",
       "file": "core_05_band_oversight.md",
       "anchor": "#materiality-determination",
-      "line_start": 268,
-      "line_end": 339
+      "line_start": 320,
+      "line_end": 391
     },
     {
       "term": "Materiality Integrity Constraint",
       "file": "core_05_band_oversight.md",
       "anchor": "#materiality-integrity-constraint",
-      "line_start": 340,
-      "line_end": 376
+      "line_start": 392,
+      "line_end": 428
     },
     {
       "term": "Materiality Under Uncertainty",
       "file": "core_05_band_oversight.md",
       "anchor": "#materiality-under-uncertainty",
-      "line_start": 471,
-      "line_end": 510
+      "line_start": 523,
+      "line_end": 562
     },
     {
       "term": "Materially Binding Act",
@@ -5002,8 +5009,8 @@
       "term": "Press and Journalistic Activity",
       "file": "core_05_band_oversight.md",
       "anchor": "#press-and-journalistic-activity-constitutional",
-      "line_start": 159,
-      "line_end": 201
+      "line_start": 211,
+      "line_end": 253
     },
     {
       "term": "Primary-Stakes Routing",
@@ -5065,8 +5072,8 @@
       "term": "Protected Data and Internal-State Publication Constraint",
       "file": "core_05_band_oversight.md",
       "anchor": "#protected-data-and-internal-state-publication-constraint",
-      "line_start": 1223,
-      "line_end": 1240
+      "line_start": 1275,
+      "line_end": 1292
     },
     {
       "term": "Protected Internal-State Boundary",
@@ -5100,8 +5107,8 @@
       "term": "Proxy Divergence",
       "file": "core_05_band_oversight.md",
       "anchor": "#proxy-divergence",
-      "line_start": 511,
-      "line_end": 581
+      "line_start": 563,
+      "line_end": 633
     },
     {
       "term": "Psychological Harm",
@@ -5114,22 +5121,22 @@
       "term": "Public Oversight Baseline Disclosure",
       "file": "core_05_band_oversight.md",
       "anchor": "#public-oversight-baseline-disclosure",
-      "line_start": 741,
-      "line_end": 820
+      "line_start": 793,
+      "line_end": 872
     },
     {
       "term": "Publication Truthfulness and Recklessness Floor",
       "file": "core_05_band_oversight.md",
       "anchor": "#publication-truthfulness-and-recklessness-floor",
-      "line_start": 1193,
-      "line_end": 1222
+      "line_start": 1245,
+      "line_end": 1274
     },
     {
       "term": "Reasonably Foreseeable",
       "file": "core_05_band_oversight.md",
       "anchor": "#reasonably-foreseeable",
-      "line_start": 1486,
-      "line_end": 1506
+      "line_start": 1538,
+      "line_end": 1558
     },
     {
       "term": "Record Seat",
@@ -5205,8 +5212,8 @@
       "term": "Risk Disclosure",
       "file": "core_05_band_oversight.md",
       "anchor": "#risk-disclosure",
-      "line_start": 821,
-      "line_end": 863
+      "line_start": 873,
+      "line_end": 915
     },
     {
       "term": "Risk Evaluation",
@@ -5233,8 +5240,8 @@
       "term": "Security-Sensitive Disclosure Balance",
       "file": "core_05_band_oversight.md",
       "anchor": "#security-sensitive-disclosure-balance",
-      "line_start": 1270,
-      "line_end": 1298
+      "line_start": 1322,
+      "line_end": 1350
     },
     {
       "term": "Self-Determination",
@@ -5527,8 +5534,8 @@
       "term": "Transparency",
       "file": "core_05_band_oversight.md",
       "anchor": "#transparency",
-      "line_start": 681,
-      "line_end": 740
+      "line_start": 733,
+      "line_end": 792
     },
     {
       "term": "Trust",
@@ -5555,8 +5562,8 @@
       "term": "Truth (Constitutional Constraint)",
       "file": "core_05_band_oversight.md",
       "anchor": "#truth-constitutional-constraint",
-      "line_start": 1299,
-      "line_end": 1338
+      "line_start": 1351,
+      "line_end": 1390
     },
     {
       "term": "Two Constitutional Aims",
@@ -5590,8 +5597,8 @@
       "term": "Verifiability",
       "file": "core_05_band_oversight.md",
       "anchor": "#verifiability",
-      "line_start": 1059,
-      "line_end": 1134
+      "line_start": 1111,
+      "line_end": 1186
     },
     {
       "term": "Verified Inputs for Standing",

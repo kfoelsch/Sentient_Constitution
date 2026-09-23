@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-23T21:04:36+00:00",
+  "generated_at": "2026-09-23T22:07:55+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 15118,
+  "edge_count": 15148,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -5668,6 +5668,14 @@
       "source_anchor": "#613-proportionality",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "6.1.3 Proportionality",
+      "source_anchor": "#613-proportionality",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#heightened-scrutiny",
       "count": 1
     },
     {
@@ -18388,6 +18396,14 @@
       "source_anchor": "#definitions-a-z",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#foreseeability-diligence",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Definitions A-Z",
+      "source_anchor": "#definitions-a-z",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#heightened-scrutiny",
       "count": 1
     },
     {
@@ -41800,6 +41816,110 @@
     },
     {
       "source_file": "core_05_band_oversight.md",
+      "source_header": "Heightened Scrutiny",
+      "source_anchor": "#heightened-scrutiny",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#613-proportionality",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_oversight.md",
+      "source_header": "Heightened Scrutiny",
+      "source_anchor": "#heightened-scrutiny",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#843-incorporation-layer",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_oversight.md",
+      "source_header": "Heightened Scrutiny",
+      "source_anchor": "#heightened-scrutiny",
+      "target_file": "core_05_apex_oversight_leg.md",
+      "target_anchor": "#oversight-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_oversight.md",
+      "source_header": "Heightened Scrutiny",
+      "source_anchor": "#heightened-scrutiny",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity",
+      "count": 4
+    },
+    {
+      "source_file": "core_05_band_oversight.md",
+      "source_header": "Heightened Scrutiny",
+      "source_anchor": "#heightened-scrutiny",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 4
+    },
+    {
+      "source_file": "core_05_band_oversight.md",
+      "source_header": "Heightened Scrutiny",
+      "source_anchor": "#heightened-scrutiny",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_oversight.md",
+      "source_header": "Heightened Scrutiny",
+      "source_anchor": "#heightened-scrutiny",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#classification-scaled-governance",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_oversight.md",
+      "source_header": "Heightened Scrutiny",
+      "source_anchor": "#heightened-scrutiny",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality-under-uncertainty",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_oversight.md",
+      "source_header": "Heightened Scrutiny",
+      "source_anchor": "#heightened-scrutiny",
+      "target_file": "core_06_rights_part_a.md",
+      "target_anchor": "#article-i-d-existential-risk-and-recovery-capacity",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_oversight.md",
+      "source_header": "Heightened Scrutiny",
+      "source_anchor": "#heightened-scrutiny",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-v-h-expression-assembly-and-press",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_oversight.md",
+      "source_header": "Heightened Scrutiny",
+      "source_anchor": "#heightened-scrutiny",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_oversight.md",
+      "source_header": "Heightened Scrutiny",
+      "source_anchor": "#heightened-scrutiny",
+      "target_file": "core_11_a_misconduct_designation.md",
+      "target_anchor": "#3-violation-axis-s-7-9-slot-assignment-incident-gravity",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_oversight.md",
+      "source_header": "Heightened Scrutiny",
+      "source_anchor": "#heightened-scrutiny",
+      "target_file": "core_16_amendment_ratification.md",
+      "target_anchor": "#1-heightened-review-for-rights-affecting-changes",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_oversight.md",
       "source_header": "High-Impact and Systemic Harm Publication Constraint",
       "source_anchor": "#high-impact-and-systemic-harm-publication-constraint",
       "target_file": "core_05_apex_oversight_leg.md",
@@ -42460,6 +42580,14 @@
       "source_anchor": "#press-and-journalistic-activity-constitutional",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#good-faith",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_oversight.md",
+      "source_header": "Press and Journalistic Activity",
+      "source_anchor": "#press-and-journalistic-activity-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#heightened-scrutiny",
       "count": 1
     },
     {
@@ -50652,7 +50780,7 @@
       "source_anchor": "#article-i-d-existential-risk-and-recovery-capacity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#existential-risk",
-      "count": 3
+      "count": 4
     },
     {
       "source_file": "core_06_rights_part_a.md",
@@ -50788,6 +50916,38 @@
       "source_anchor": "#article-i-d-existential-risk-and-recovery-capacity",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#foreseeability-diligence-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article I-D: Existential Risk and Ecological Recovery Capacity",
+      "source_anchor": "#article-i-d-existential-risk-and-recovery-capacity",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#heightened-scrutiny",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article I-D: Existential Risk and Ecological Recovery Capacity",
+      "source_anchor": "#article-i-d-existential-risk-and-recovery-capacity",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#heightened-scrutiny-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article I-D: Existential Risk and Ecological Recovery Capacity",
+      "source_anchor": "#article-i-d-existential-risk-and-recovery-capacity",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#heightened-scrutiny-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article I-D: Existential Risk and Ecological Recovery Capacity",
+      "source_anchor": "#article-i-d-existential-risk-and-recovery-capacity",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#highest-scrutiny",
       "count": 1
     },
     {
@@ -56076,6 +56236,38 @@
       "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#press-and-journalistic-activity-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-H: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#heightened-scrutiny",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-H: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#heightened-scrutiny-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-H: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#heightened-scrutiny-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-H: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#highest-scrutiny",
       "count": 1
     },
     {
@@ -63900,6 +64092,38 @@
       "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#adversarial-scaled-and-exploited-conditions-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-C: Autonomous Lethal Systems and Autonomous Coercion Tools",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#heightened-scrutiny",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-C: Autonomous Lethal Systems and Autonomous Coercion Tools",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#heightened-scrutiny-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-C: Autonomous Lethal Systems and Autonomous Coercion Tools",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#heightened-scrutiny-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-C: Autonomous Lethal Systems and Autonomous Coercion Tools",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#highest-scrutiny",
       "count": 1
     },
     {
@@ -77179,6 +77403,14 @@
       "source_header": "3. Violation Axis s = 7–9 anti-constitutional designation",
       "source_anchor": "#3-violation-axis-s-7-9-slot-assignment-incident-gravity",
       "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#highest-scrutiny",
+      "count": 1
+    },
+    {
+      "source_file": "core_11_a_misconduct_designation.md",
+      "source_header": "3. Violation Axis s = 7–9 anti-constitutional designation",
+      "source_anchor": "#3-violation-axis-s-7-9-slot-assignment-incident-gravity",
+      "target_file": "core_05_band_oversight.md",
       "target_anchor": "#evidence-preservation",
       "count": 1
     },
@@ -82884,6 +83116,14 @@
       "source_anchor": "#chapter-sixteen-amendment-ratification-and-procedural-validity",
       "target_file": "core_15_expansion_supremacy.md",
       "target_anchor": "#chapter-fifteen-expansion-supremacy-and-external-legal-orders",
+      "count": 1
+    },
+    {
+      "source_file": "core_16_amendment_ratification.md",
+      "source_header": "1. Heightened Review for Rights-Affecting Changes",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#heightened-scrutiny",
       "count": 1
     },
     {

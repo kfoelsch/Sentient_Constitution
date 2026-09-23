@@ -227,7 +227,7 @@ Limitations on constitutional **values** — including **Chapter Six** Rights-Fl
 
 **Authority-scaled answerability.** Proportionality also forbids under-governance of those who hold greater authorized power, consequential role, or institutional influence: [Accountability](core_05_apex_accountability_leg.md#accountability) and [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional) intensity must rise with that authority, not fall.
 
-**Heightened thresholds.** Where actions introduce risk of irreversible harm, systemic lock-in, Existential Risk, or irreversible loss of Ecological Recovery Capacity, systems must apply heightened thresholds for justification, scrutiny, and reversibility where feasible.
+**Heightened thresholds.** Where actions introduce risk of irreversible harm, systemic lock-in, Existential Risk, or irreversible loss of Ecological Recovery Capacity, systems must apply [Heightened Scrutiny](core_05_band_oversight.md#heightened-scrutiny) and heightened thresholds for justification and reversibility where feasible.
 
 **Further escalation.** Those thresholds must rise again where materially relevant indicators apply, including:
 - irreversibility exposure

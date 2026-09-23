@@ -117,7 +117,7 @@
       "href": "../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction"
     }
   ],
-  "term_count": 236,
+  "term_count": 237,
   "terms": [
     {
       "term": "Accessibility",
@@ -783,6 +783,13 @@
       "anchor": "#harm-minimization-tradeoff-selection",
       "plain_terms": "when several lawful options remain, choose the one expected to cause the least total harm across affected sentients, connected systems, and both near- and long-term timeframes.",
       "href": "../../core_05_band_accountability.md#harm-minimization-tradeoff-selection"
+    },
+    {
+      "term": "Heightened Scrutiny",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#heightened-scrutiny",
+      "plain_terms": "some decisions are risky enough that the ordinary check is not enough. Heightened scrutiny is the harder check: whoever wants to go ahead must prove the case, safer options must really have been weighed, and outsiders must be able to see and challenge the reasoning. Highest scrutiny is the hardest check, kept for a few cases where a wrong call does the most damage.",
+      "href": "../../core_05_band_oversight.md#heightened-scrutiny"
     },
     {
       "term": "High-Impact and Systemic Harm Publication Constraint",

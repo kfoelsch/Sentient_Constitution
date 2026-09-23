@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **614** of **880** headings carry a gloss (70%).
+Coverage: **615** of **881** headings carry a gloss (70%).
 
 ## Contents
 
@@ -27,7 +27,7 @@ Coverage: **614** of **880** headings carry a gloss (70%).
 - [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (72/84 glossed)
 - [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (23/83 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (12/17 glossed)
-- [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (26/36 glossed)
+- [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (27/37 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (51/66 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05_band_performance.md` (2/2 glossed)
 - [CHAPTER SEVEN: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES](#chapter-seven-functional-independence-and-segregation-of-duties) — `core_07_functional_independence_segregation_of_duties.md` (8/9 glossed)
@@ -2250,7 +2250,7 @@ a constitutional constraint is a binding limit that decides whether a claim, act
 
 ## Oversight Constitutional Definitions
 
-Source file: [`core_05_band_oversight.md`](../../core_05_band_oversight.md) · 26/36 headings glossed
+Source file: [`core_05_band_oversight.md`](../../core_05_band_oversight.md) · 27/37 headings glossed
 
 #### Oversight: Independent terms
 
@@ -2275,6 +2275,12 @@ how a system behaves under pressure — when sentients game it, coordinate acros
 bigger stake means harder oversight — how closely a system is watched and checked must match how much it actually matters, not a convenient low label.
 
 [Source](../../core_05_band_oversight.md#classification-scaled-governance)
+
+##### Heightened Scrutiny
+
+some decisions are risky enough that the ordinary check is not enough. Heightened scrutiny is the harder check: whoever wants to go ahead must prove the case, safer options must really have been weighed, and outsiders must be able to see and challenge the reasoning. Highest scrutiny is the hardest check, kept for a few cases where a wrong call does the most damage.
+
+[Source](../../core_05_band_oversight.md#heightened-scrutiny)
 
 ##### Press and Journalistic Activity
 
@@ -4166,7 +4172,7 @@ decisions today must not load unfair, irreversible, or unaccountable harm on tho
 
 ##### Article I-D: Existential Risk and Ecological Recovery Capacity
 
-when a system or decision could plausibly threaten sentient survival or ecological recovery capacity, regulators must apply maximum scrutiny — even if the danger is small, slow, or contested.
+when a system or decision could plausibly threaten sentient survival or ecological recovery capacity, regulators must apply highest scrutiny — even if the danger is small, slow, or contested.
 
 [Source](../../core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity)
 

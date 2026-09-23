@@ -351,7 +351,7 @@ Chapter Five defines [Ecological Footprint](core_05_band_continuity.md#ecologica
   - future sentients;
   - continuity of environmental preconditions.
   
-  That same constraint applies when existential or ecological risk is pushed onto future generations because current efforts to reduce harm, be transparent, or give them a voice do not meet Chapter Five standards.
+  The same rule applies when we leave future generations facing threats to their survival or their environment because we didn't do enough today, as Chapter Five requires, to reduce the harm, be open about it, or make sure their interests were represented.
 
 <a id="article-i-d-existential-risk-and-recovery-capacity"></a>
 
@@ -374,15 +374,18 @@ Chapter Five defines [Ecological Footprint](core_05_band_continuity.md#ecologica
 - [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [Self-Healing](core_05_band_continuity.md#self-healing-constitutional) · [O](core_05_band_continuity.md#self-healing-constitutional) · [M](core_05_band_continuity.md#self-healing-constitutional-a) · [A](core_05_band_continuity.md#self-healing-constitutional-a) · [C](core_05_band_continuity.md#self-healing-constitutional-c)
 - [Reversibility](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
+- [Heightened Scrutiny](core_05_band_oversight.md#heightened-scrutiny) · [O](core_05_band_oversight.md#heightened-scrutiny) · [M](core_05_band_oversight.md#heightened-scrutiny-a) · [A](core_05_band_oversight.md#heightened-scrutiny-a) · [C](core_05_band_oversight.md#heightened-scrutiny-c)
 
 </details>
 
 <br>
 
-*In plain terms: when a system or decision could plausibly threaten sentient survival or ecological recovery capacity, regulators must apply maximum scrutiny — even if the danger is small, slow, or contested.*
+*In plain terms: when a system or decision could plausibly threaten sentient survival or ecological recovery capacity, regulators must apply highest scrutiny — even if the danger is small, slow, or contested.*
 
-- **Ecological recovery capacity scope:** **Ecological recovery capacity** in this Article means [Ecological Recovery Capacity](core_05_band_continuity.md#ecological-recovery-capacity-constitutional) in Chapter Five — not operational system restore after fault ([Self-Healing](core_05_band_continuity.md#self-healing-constitutional)), rollback of specific states ([Reversibility](core_05_band_continuity.md#reversibility-constitutional)), or commercial cost recovery.
-- **Heightened scrutiny:** Heightened constitutional scrutiny is mandatory where a system, policy, infrastructure, coordinated activity, or governance decision creates a credible pathway to **Existential Risk** or to irreversible loss of **Ecological Recovery Capacity**.
+- **Key terms:** This Article turns on two terms defined in Chapter Five:
+  - **[Existential Risk](core_05_band_continuity.md#existential-risk):** the risk of harm large enough to threaten civilization-scale or survival-critical layers of sentient life, including rare, low-probability paths that would be catastrophic if they occurred. It does not cover ordinary local harm, reversible operational incidents, or routine safety issues.
+  - **[Ecological Recovery Capacity](core_05_band_continuity.md#ecological-recovery-capacity-constitutional):** the ability of ecosystems, living systems, and the environmental preconditions they support to regenerate, restore function, and keep sustaining sentient life after severe harm, depletion, or disruption. It does not mean operational system restore after a fault ([Self-Healing](core_05_band_continuity.md#self-healing-constitutional)), rollback of specific states ([Reversibility](core_05_band_continuity.md#reversibility-constitutional)), or commercial cost recovery.
+- **Scrutiny trigger:** Review under [highest scrutiny](core_05_band_oversight.md#highest-scrutiny) is mandatory where a system, policy, infrastructure, coordinated activity, or governance decision creates a credible pathway to **Existential Risk** or to irreversible loss of **Ecological Recovery Capacity**.
   - This rule applies even when the pathway is low-probability, delayed, cumulative, threshold-dependent, or disputed in timing.
 - **Evaluation requirements:** Evaluation must:
   - include direct, indirect, aggregated, adversarial, and cross-system pathways;

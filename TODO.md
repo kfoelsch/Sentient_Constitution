@@ -25,6 +25,10 @@ Resolved checklist items are archived in [TODO_RESOLVED_2026-09-17.md](archive/T
 
 ## Open Backlog
 
+### 2026-09-23 — Translations paused during English edits
+
+- [ ] **Restart translation after the English edit pass.** Translations are deliberately allowed to fall out of date until the editor finishes current edits (see [MEMLOG.md](MEMLOG.md)). When restarting, resync every file under [translations/](translations/) against the English source, including the new [Heightened Scrutiny](core_05_band_oversight.md#heightened-scrutiny) entry and the Chapter Six wording changes made on 2026-09-23.
+
 ### 2026-09-17 — Conceptual overview and corpus alignment follow-ups
 
 Source: [conceptual overview and corpus alignment review](evidence/2026-09-16/conceptual_overview_corpus_alignment_review.md). Findings 1 and 2 are corrected in the working tree: [segregation resolution](evidence/2026-09-16/contradiction_01_segregation_resolution.md) and [chapter/article reference resolution](evidence/2026-09-17/contradiction_02_reference_resolution.md). The remaining work below distinguishes textual corrections from questions requiring practical evidence. These are process-aid tasks, not new constitutional duties.

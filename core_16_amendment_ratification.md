@@ -57,7 +57,7 @@ This Constitution may be amended to improve protection, clarity, binding effect,
 
 *In plain terms: if you are changing something that touches rights, forums' paths, or integrity rules, expect a harder lane — independent eyes and a public, contestable record before it counts as adopted.*
 
-Any proposed amendment that materially affects Chapter Six Rights Floors, adjudication pathways, or integrity and oversight conditions must receive heightened scrutiny. It must receive independent review and contestable publication before adoption.
+Any proposed amendment that materially affects Chapter Six Rights Floors, adjudication pathways, or integrity and oversight conditions must receive [Heightened Scrutiny](core_05_band_oversight.md#heightened-scrutiny). It must receive independent review and contestable publication before adoption.
 
 ### 2. Burden of Justification and Public Traceability
 <details>

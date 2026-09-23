@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-09-23T21:04:39+00:00
+Generated: 2026-09-23T22:07:57+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **230/230** terms pass tier audit.
+Approved progress: **231/231** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -158,6 +158,7 @@ Approved progress: **230/230** terms pass tier audit.
 | Evaluation Completeness Constraint | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Evidence Preservation | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Foreseeability Diligence | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
+| Heightened Scrutiny | approved | primary_secondary | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | High-Impact and Systemic Harm Publication Constraint | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Material | approved | primary_secondary | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Material Degradation | approved | primary_secondary | cluster_member | `core_05_band_oversight.md` | yes | pass |

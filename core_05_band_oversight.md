@@ -154,6 +154,58 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 
 ---
 
+<a id="heightened-scrutiny"></a>
+
+#### Heightened Scrutiny
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [Chapter One §6.1.3 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality) (*heightened thresholds*).
+- Read with: [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Contestability](core_05_band_accountability.md#contestability), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), and [Materiality Under Uncertainty](core_05_band_oversight.md#materiality-under-uncertainty).
+- Downstream: [Article I-D](core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*); [Article V-H](core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*); [Article XIII-C](core_06_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*); [Chapter Eleven §3](core_11_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 anti-constitutional designation*); [Chapter Sixteen §1](core_16_amendment_ratification.md#1-heightened-review-for-rights-affecting-changes) (*Heightened Review for Rights-Affecting Changes*).
+
+</details>
+
+<br>
+
+*In plain terms: some decisions are risky enough that the ordinary check is not enough. Heightened scrutiny is the harder check: whoever wants to go ahead must prove the case, safer options must really have been weighed, and outsiders must be able to see and challenge the reasoning. Highest scrutiny is the hardest check, kept for a few cases where a wrong call does the most damage.*
+
+- **What it is**
+  - **In scope — heightened scrutiny:** The stricter review standard that applies wherever a provision of this Constitution calls for heightened scrutiny, heightened constitutional scrutiny, or heightened review. Under it:
+    - the actor seeking to act, continue, or expand carries the burden of showing that the requirements are met;
+    - [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) are applied more strictly — materially safer, reasonably effective alternatives must have been genuinely considered, and any limit must be narrowly tailored to the harm addressed;
+    - review is independent of the actor and the decision is published with its reasons, open to challenge under [Contestability](core_05_band_accountability.md#contestability); and
+    - the record states uncertainty, assumptions, evidence limits, and disagreement openly.
+    <a id="highest-scrutiny"></a>
+  - **In scope — highest scrutiny:** The strictest tier of the same standard. It applies only where a provision expressly names it — including credible pathways to existential risk or irreversible loss of ecological recovery capacity under [Article I-D](core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*), content-based restriction of expression under [Article V-H](core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*) and final anti-constitutional misconduct designation under [Chapter Eleven §3](core_11_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 anti-constitutional designation*). On top of everything heightened scrutiny requires:
+    - the act under review is presumed non-compliant until clear, verified evidence establishes every required element;
+    - unresolved doubt, missing evidence, or untested assumptions count against the act under review; and
+    - reviewers must be functionally independent of the original decision and of anyone who benefits from it.
+  - **Out of scope:**
+    - ordinary [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) review, which applies everywhere without a heightened trigger;
+    - the trigger conditions themselves, which stay with the provisions that invoke this standard;
+    - the **strictest applicable** rule for choosing among incorporated texts under [Chapter One §8.4.3 Incorporation layer](core_01_b_interaction_interpretation.md#843-incorporation-layer); and
+    - other uses of "heightened" that name a stronger safeguard, weight, priority, or control rather than a review standard (for example heightened safeguards in Chapter Nine or heightened priority for habitat).
+<a id="heightened-scrutiny-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether the harder review actually happened and can be checked by outsiders — not only whether it was announced.
+
+    **Primary assessment:** Confirm from the record that the burden sat with the actor, that the alternatives analysis was real, that review was independent, and that reasons, uncertainty, and disagreement were published in a form others can contest. For highest scrutiny, also confirm that every required element rests on clear, verified evidence and that open doubt was counted against the act under review.
+  - **Secondary measure:** [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), and [Contestability](core_05_band_accountability.md#contestability).
+
+    **Secondary assessment:** Read those co-measures at the stricter setting this entry requires. A pass under ordinary review does not show a pass under heightened or highest scrutiny.
+<a id="heightened-scrutiny-c"></a>
+- **What must hold**
+  - **Primary failure:** It is non-compliant, where a provision calls for heightened or highest scrutiny, to:
+    - shift the burden onto those affected;
+    - rely on a checklist, a favorable cost-benefit estimate on paper, or short-term gain in place of the full review;
+    - skip independent review, publication of reasons, or a real chance to contest; or
+    - for highest scrutiny, proceed on unverified evidence or resolve doubt in favor of the act under review.
+  - **Secondary failure:** treating an ordinary Necessity or Proportionality pass as if it met the heightened setting.
+
+---
+
 <a id="press-and-journalistic-activity-constitutional"></a>
 
 #### Press and Journalistic Activity
@@ -175,7 +227,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
     - source protection;
     - investigation; and
     - publication.
-    Sentients doing that work exercise the [Expression](core_05_band_participation.md#expression-constitutional) and [Assembly](core_05_band_participation.md#assembly-constitutional) Rights-Floor, with heightened-scrutiny protection under [Article V-H](core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
+    Sentients doing that work exercise the [Expression](core_05_band_participation.md#expression-constitutional) and [Assembly](core_05_band_participation.md#assembly-constitutional) Rights-Floor, with [heightened-scrutiny](core_05_band_oversight.md#heightened-scrutiny) protection under [Article V-H](core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
   - **Out of scope:** press credentials, institutional titles, or ordinary commercial speech that is not newsgathering, investigation, or publication functioning as journalism.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **How to measure and assess**
