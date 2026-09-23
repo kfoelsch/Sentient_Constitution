@@ -531,7 +531,7 @@ A **full-life-equivalent constitutional benefit** means verified benefit compara
 <a id="contribution-table-q1-magnitude-input-dimensions"></a>
 <a id="contribution-table-q2-magnitude-input-dimensions"></a>
 
-**Contribution table — Question 2: magnitude-input dimensions (how good was it?).** These dimensions feed Contribution Axis slot assignment and stacked benefit descriptors recorded in the **contribution standing record**. Operative band criteria and LEQU calibration are in **section 7**.
+**Question 2 — how good was it?** These dimensions feed Contribution Axis slot assignment and stacked benefit descriptors recorded in the **contribution standing record**. Operative band criteria and LEQU calibration are in **section 7**.
 
 | **Dimension** | **Role in Q2** | **Corpus anchor** |
 | --- | --- | --- |
@@ -562,7 +562,7 @@ Do **not** split LEQU into parallel ecological, system, or resource benefit scor
 
 #### 4.2 Violation severity-input dimensions
 
-**Violation table — Question 2: severity-input dimensions (how bad was it?).** These dimensions feed Violation Axis slot assignment and stacked harm descriptors recorded in the **violation standing record**. Operative slot criteria and LEQU calibration are in the unified scale in **section 7**.
+**Question 2 — how bad was it?** These dimensions feed Violation Axis slot assignment and stacked harm descriptors recorded in the **violation standing record**. Operative slot criteria and LEQU calibration are in the unified scale in **section 7**.
 
 | **Dimension** | **Role in Q2** | **Corpus anchor** |
 | --- | --- | --- |

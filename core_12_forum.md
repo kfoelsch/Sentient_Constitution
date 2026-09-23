@@ -226,7 +226,7 @@ These rules limit how the table's default leads interact. They do not replace **
 
 #### 2.2 Mixed stakes and routing asymmetry
 
-**Mixed stakes.** One record and one lead family ordinarily hear interdependent claims. Secondary issues may be certified, stayed, or resolved through issue preclusion as adopting instruments provide, consistent with **Article XII-B** (*Right to Challenge, Review, and Redress*) and **Chapter Nine** joint-assessment and non-substitution discipline.
+One record and one lead family ordinarily hear interdependent claims. Secondary issues may be certified, stayed, or resolved through issue preclusion as adopting instruments provide, consistent with **Article XII-B** (*Right to Challenge, Review, and Redress*) and **Chapter Nine** joint-assessment and non-substitution discipline.
 
 **Asymmetry:**
 - Where **dependency**, **measurement**, or an **institutional** **monopoly** on a **necessary** **input** materially disadvantages a **sentient** party, **Institutional** or **Integrity** routing **must** be **available** when the table assigns **institutional** or **integrity** stakes.
@@ -237,7 +237,6 @@ These rules limit how the table's default leads interact. They do not replace **
 
 #### 2.3 Forum case records, standing records, and contests
 
-**Forum case records and standing records:**
 - A forum keeps a [**forum case record**](core_05_band_accountability.md#forum-case-record) for the dispute before it. That record tracks:
   - the claims;
   - evidence;

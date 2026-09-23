@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-22T16:21:37+00:00",
+  "generated_at": "2026-09-23T06:34:55+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
@@ -8064,7 +8064,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10. Consequential Stewardship",
+      "source_header": "10. Consequential Stewardship: The Steward Role",
       "source_anchor": "#10-consequential-stewardship",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#constitutional-tetrad",
@@ -8072,7 +8072,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10. Consequential Stewardship",
+      "source_header": "10. Consequential Stewardship: The Steward Role",
       "source_anchor": "#10-consequential-stewardship",
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#4-system-stability-enabler-trust-coordination-integrity",
@@ -8080,7 +8080,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10. Consequential Stewardship",
+      "source_header": "10. Consequential Stewardship: The Steward Role",
       "source_anchor": "#10-consequential-stewardship",
       "target_file": "core_05_apex_timeliness_leg.md",
       "target_anchor": "#timeliness-constitutional",
@@ -8088,7 +8088,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10. Consequential Stewardship",
+      "source_header": "10. Consequential Stewardship: The Steward Role",
       "source_anchor": "#10-consequential-stewardship",
       "target_file": "core_05_apex_timeliness_leg.md",
       "target_anchor": "#timeliness-constitutional-m",
@@ -8096,7 +8096,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10. Consequential Stewardship",
+      "source_header": "10. Consequential Stewardship: The Steward Role",
       "source_anchor": "#10-consequential-stewardship",
       "target_file": "core_05_apex_timeliness_leg.md",
       "target_anchor": "#timeliness-constitutional-a",
@@ -8104,7 +8104,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10. Consequential Stewardship",
+      "source_header": "10. Consequential Stewardship: The Steward Role",
       "source_anchor": "#10-consequential-stewardship",
       "target_file": "core_05_apex_timeliness_leg.md",
       "target_anchor": "#timeliness-constitutional-c",
@@ -8112,7 +8112,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10. Consequential Stewardship",
+      "source_header": "10. Consequential Stewardship: The Steward Role",
       "source_anchor": "#10-consequential-stewardship",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#meaningful-agency-o",
@@ -8120,7 +8120,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10. Consequential Stewardship",
+      "source_header": "10. Consequential Stewardship: The Steward Role",
       "source_anchor": "#10-consequential-stewardship",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#strategic-stewardship-obligation-constitutional",
@@ -8128,7 +8128,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10. Consequential Stewardship",
+      "source_header": "10. Consequential Stewardship: The Steward Role",
       "source_anchor": "#10-consequential-stewardship",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#strategic-stewardship-obligation-constitutional-a",
@@ -8136,7 +8136,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10. Consequential Stewardship",
+      "source_header": "10. Consequential Stewardship: The Steward Role",
       "source_anchor": "#10-consequential-stewardship",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#strategic-stewardship-obligation-constitutional-c",
@@ -8144,7 +8144,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10. Consequential Stewardship",
+      "source_header": "10. Consequential Stewardship: The Steward Role",
       "source_anchor": "#10-consequential-stewardship",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability",
@@ -8152,7 +8152,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10. Consequential Stewardship",
+      "source_header": "10. Consequential Stewardship: The Steward Role",
       "source_anchor": "#10-consequential-stewardship",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability-a",
@@ -8160,7 +8160,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10. Consequential Stewardship",
+      "source_header": "10. Consequential Stewardship: The Steward Role",
       "source_anchor": "#10-consequential-stewardship",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability-c",
@@ -8168,7 +8168,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10. Consequential Stewardship",
+      "source_header": "10. Consequential Stewardship: The Steward Role",
       "source_anchor": "#10-consequential-stewardship",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#meaningful-agency",
@@ -8176,7 +8176,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10. Consequential Stewardship",
+      "source_header": "10. Consequential Stewardship: The Steward Role",
       "source_anchor": "#10-consequential-stewardship",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#meaningful-agency-a",
@@ -8184,7 +8184,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10. Consequential Stewardship",
+      "source_header": "10. Consequential Stewardship: The Steward Role",
       "source_anchor": "#10-consequential-stewardship",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#meaningful-agency-c",
@@ -8192,7 +8192,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10. Consequential Stewardship",
+      "source_header": "10. Consequential Stewardship: The Steward Role",
       "source_anchor": "#10-consequential-stewardship",
       "target_file": "core_06_rights_part_c.md",
       "target_anchor": "#article-xv-audit-transparency-and-independent-verification",
@@ -8200,7 +8200,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10. Consequential Stewardship",
+      "source_header": "10. Consequential Stewardship: The Steward Role",
       "source_anchor": "#10-consequential-stewardship",
       "target_file": "core_06_rights_part_c.md",
       "target_anchor": "#article-xviii-standing-and-participation-status",
@@ -8208,7 +8208,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10. Consequential Stewardship",
+      "source_header": "10. Consequential Stewardship: The Steward Role",
       "source_anchor": "#10-consequential-stewardship",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#chapter-eight-system-alignment-certification",
@@ -8216,7 +8216,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10. Consequential Stewardship",
+      "source_header": "10. Consequential Stewardship: The Steward Role",
       "source_anchor": "#10-consequential-stewardship",
       "target_file": "core_09_standing_assessment.md",
       "target_anchor": "#chapter-nine-compliance-violation-and-standing-model",
@@ -8376,191 +8376,191 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.2 Symmetric Costly Constraints",
-      "source_anchor": "#102-symmetric-costly-constraints",
+      "source_header": "10.2 Alignment Under Pressure",
+      "source_anchor": "#102-alignment-under-pressure",
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#31-safety-harm-constraint",
       "count": 1
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.2 Symmetric Costly Constraints",
-      "source_anchor": "#102-symmetric-costly-constraints",
+      "source_header": "10.2 Alignment Under Pressure",
+      "source_anchor": "#102-alignment-under-pressure",
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#32-truth-epistemic-integrity-constraint",
       "count": 1
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.2 Symmetric Costly Constraints",
-      "source_anchor": "#102-symmetric-costly-constraints",
+      "source_header": "10.2 Alignment Under Pressure",
+      "source_anchor": "#102-alignment-under-pressure",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability",
       "count": 3
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.2 Symmetric Costly Constraints",
-      "source_anchor": "#102-symmetric-costly-constraints",
+      "source_header": "10.2 Alignment Under Pressure",
+      "source_anchor": "#102-alignment-under-pressure",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability-a",
       "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.2 Symmetric Costly Constraints",
-      "source_anchor": "#102-symmetric-costly-constraints",
+      "source_header": "10.2 Alignment Under Pressure",
+      "source_anchor": "#102-alignment-under-pressure",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability-c",
       "count": 1
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.2 Symmetric Costly Constraints",
-      "source_anchor": "#102-symmetric-costly-constraints",
+      "source_header": "10.2 Alignment Under Pressure",
+      "source_anchor": "#102-alignment-under-pressure",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#safety-constraint",
       "count": 3
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.2 Symmetric Costly Constraints",
-      "source_anchor": "#102-symmetric-costly-constraints",
+      "source_header": "10.2 Alignment Under Pressure",
+      "source_anchor": "#102-alignment-under-pressure",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#stewardship-constitutional",
       "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.2 Symmetric Costly Constraints",
-      "source_anchor": "#102-symmetric-costly-constraints",
+      "source_header": "10.2 Alignment Under Pressure",
+      "source_anchor": "#102-alignment-under-pressure",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#stewardship-constitutional-a",
       "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.2 Symmetric Costly Constraints",
-      "source_anchor": "#102-symmetric-costly-constraints",
+      "source_header": "10.2 Alignment Under Pressure",
+      "source_anchor": "#102-alignment-under-pressure",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#stewardship-constitutional-c",
       "count": 1
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.2 Symmetric Costly Constraints",
-      "source_anchor": "#102-symmetric-costly-constraints",
+      "source_header": "10.2 Alignment Under Pressure",
+      "source_anchor": "#102-alignment-under-pressure",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#safety-constraint-a",
       "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.2 Symmetric Costly Constraints",
-      "source_anchor": "#102-symmetric-costly-constraints",
+      "source_header": "10.2 Alignment Under Pressure",
+      "source_anchor": "#102-alignment-under-pressure",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#safety-constraint-c",
       "count": 1
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.2 Symmetric Costly Constraints",
-      "source_anchor": "#102-symmetric-costly-constraints",
+      "source_header": "10.2 Alignment Under Pressure",
+      "source_anchor": "#102-alignment-under-pressure",
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#incentive-alignment",
       "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.2 Symmetric Costly Constraints",
-      "source_anchor": "#102-symmetric-costly-constraints",
+      "source_header": "10.2 Alignment Under Pressure",
+      "source_anchor": "#102-alignment-under-pressure",
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#incentive-alignment-a",
       "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.2 Symmetric Costly Constraints",
-      "source_anchor": "#102-symmetric-costly-constraints",
+      "source_header": "10.2 Alignment Under Pressure",
+      "source_anchor": "#102-alignment-under-pressure",
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#incentive-alignment-c",
       "count": 1
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.2 Symmetric Costly Constraints",
-      "source_anchor": "#102-symmetric-costly-constraints",
+      "source_header": "10.2 Alignment Under Pressure",
+      "source_anchor": "#102-alignment-under-pressure",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#truth-constitutional-constraint",
       "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.2 Symmetric Costly Constraints",
-      "source_anchor": "#102-symmetric-costly-constraints",
+      "source_header": "10.2 Alignment Under Pressure",
+      "source_anchor": "#102-alignment-under-pressure",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability",
       "count": 3
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.2 Symmetric Costly Constraints",
-      "source_anchor": "#102-symmetric-costly-constraints",
+      "source_header": "10.2 Alignment Under Pressure",
+      "source_anchor": "#102-alignment-under-pressure",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#truth-constitutional-constraint-o",
       "count": 1
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.2 Symmetric Costly Constraints",
-      "source_anchor": "#102-symmetric-costly-constraints",
+      "source_header": "10.2 Alignment Under Pressure",
+      "source_anchor": "#102-alignment-under-pressure",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#truth-constitutional-constraint-a",
       "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.2 Symmetric Costly Constraints",
-      "source_anchor": "#102-symmetric-costly-constraints",
+      "source_header": "10.2 Alignment Under Pressure",
+      "source_anchor": "#102-alignment-under-pressure",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#truth-constitutional-constraint-c",
       "count": 1
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.2 Symmetric Costly Constraints",
-      "source_anchor": "#102-symmetric-costly-constraints",
+      "source_header": "10.2 Alignment Under Pressure",
+      "source_anchor": "#102-alignment-under-pressure",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability-a",
       "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.2 Symmetric Costly Constraints",
-      "source_anchor": "#102-symmetric-costly-constraints",
+      "source_header": "10.2 Alignment Under Pressure",
+      "source_anchor": "#102-alignment-under-pressure",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability-c",
       "count": 1
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.2 Symmetric Costly Constraints",
-      "source_anchor": "#102-symmetric-costly-constraints",
+      "source_header": "10.2 Alignment Under Pressure",
+      "source_anchor": "#102-alignment-under-pressure",
       "target_file": "core_09_standing_assessment.md",
       "target_anchor": "#chapter-nine-compliance-violation-and-standing-model",
       "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.2 Symmetric Costly Constraints",
-      "source_anchor": "#102-symmetric-costly-constraints",
+      "source_header": "10.2 Alignment Under Pressure",
+      "source_anchor": "#102-alignment-under-pressure",
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
       "count": 1
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.3 Role-Scoped Observability",
+      "source_header": "10.3 Logging the Role, Not the Steward",
       "source_anchor": "#103-role-scoped-observability",
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#623-privacy-and-informational-self-determination",
@@ -8568,7 +8568,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.3 Role-Scoped Observability",
+      "source_header": "10.3 Logging the Role, Not the Steward",
       "source_anchor": "#103-role-scoped-observability",
       "target_file": "core_04_burden_traceability_verification.md",
       "target_anchor": "#4-security-constrained-observability-and-verification-rule",
@@ -8576,7 +8576,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.3 Role-Scoped Observability",
+      "source_header": "10.3 Logging the Role, Not the Steward",
       "source_anchor": "#103-role-scoped-observability",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#attributable-action-constitutional",
@@ -8584,7 +8584,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.3 Role-Scoped Observability",
+      "source_header": "10.3 Logging the Role, Not the Steward",
       "source_anchor": "#103-role-scoped-observability",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#attributable-action-constitutional-a",
@@ -8592,7 +8592,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.3 Role-Scoped Observability",
+      "source_header": "10.3 Logging the Role, Not the Steward",
       "source_anchor": "#103-role-scoped-observability",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#attributable-action-constitutional-c",
@@ -8600,7 +8600,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.3 Role-Scoped Observability",
+      "source_header": "10.3 Logging the Role, Not the Steward",
       "source_anchor": "#103-role-scoped-observability",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#surveillance-boundary",
@@ -8608,7 +8608,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.3 Role-Scoped Observability",
+      "source_header": "10.3 Logging the Role, Not the Steward",
       "source_anchor": "#103-role-scoped-observability",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#protected-internal-state-boundary-constitutional",
@@ -8616,7 +8616,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.3 Role-Scoped Observability",
+      "source_header": "10.3 Logging the Role, Not the Steward",
       "source_anchor": "#103-role-scoped-observability",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#surveillance-boundary-a",
@@ -8624,7 +8624,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.3 Role-Scoped Observability",
+      "source_header": "10.3 Logging the Role, Not the Steward",
       "source_anchor": "#103-role-scoped-observability",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#surveillance-boundary-c",
@@ -8632,7 +8632,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.3 Role-Scoped Observability",
+      "source_header": "10.3 Logging the Role, Not the Steward",
       "source_anchor": "#103-role-scoped-observability",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#protected-internal-state-boundary-constitutional-a",
@@ -8640,7 +8640,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.3 Role-Scoped Observability",
+      "source_header": "10.3 Logging the Role, Not the Steward",
       "source_anchor": "#103-role-scoped-observability",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#protected-internal-state-boundary-constitutional-c",
@@ -8648,7 +8648,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.3 Role-Scoped Observability",
+      "source_header": "10.3 Logging the Role, Not the Steward",
       "source_anchor": "#103-role-scoped-observability",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability",
@@ -8656,7 +8656,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.3 Role-Scoped Observability",
+      "source_header": "10.3 Logging the Role, Not the Steward",
       "source_anchor": "#103-role-scoped-observability",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability-a",
@@ -8664,7 +8664,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.3 Role-Scoped Observability",
+      "source_header": "10.3 Logging the Role, Not the Steward",
       "source_anchor": "#103-role-scoped-observability",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability-c",
@@ -8672,7 +8672,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.3 Role-Scoped Observability",
+      "source_header": "10.3 Logging the Role, Not the Steward",
       "source_anchor": "#103-role-scoped-observability",
       "target_file": "core_06_rights_part_b.md",
       "target_anchor": "#article-vii-b-internal-state-boundary-and-type-n-protection",
@@ -8680,15 +8680,15 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.3 Role-Scoped Observability",
+      "source_header": "10.3 Logging the Role, Not the Steward",
       "source_anchor": "#103-role-scoped-observability",
       "target_file": "core_09_standing_assessment.md",
       "target_anchor": "#chapter-nine-compliance-violation-and-standing-model",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.3 Role-Scoped Observability",
+      "source_header": "10.3 Logging the Role, Not the Steward",
       "source_anchor": "#103-role-scoped-observability",
       "target_file": "core_09_standing_assessment.md",
       "target_anchor": "#21-silence-is-the-default",
@@ -8696,7 +8696,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.3 Role-Scoped Observability",
+      "source_header": "10.3 Logging the Role, Not the Steward",
       "source_anchor": "#103-role-scoped-observability",
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#71-anti-aggregation-of-named-pathway-effects",
@@ -8704,7 +8704,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.3 Role-Scoped Observability",
+      "source_header": "10.3 Logging the Role, Not the Steward",
       "source_anchor": "#103-role-scoped-observability",
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#72-plain-statement-of-effect-and-burden",
@@ -8712,7 +8712,7 @@
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "10.3 Role-Scoped Observability",
+      "source_header": "10.3 Logging the Role, Not the Steward",
       "source_anchor": "#103-role-scoped-observability",
       "target_file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "target_anchor": "#10-inspectable-attributable-action",
@@ -72643,7 +72643,7 @@
       "source_header": "What the year looks like",
       "source_anchor": null,
       "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#103-role-scoped-observability",
+      "target_anchor": "#103-logging-the-role-not-the-steward",
       "count": 1
     },
     {
@@ -79499,7 +79499,7 @@
       "source_header": "5. Authorized Roles, Competency Development, and Contribution",
       "source_anchor": null,
       "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#102-symmetric-costly-constraints",
+      "target_anchor": "#102-alignment-under-pressure",
       "count": 2
     },
     {
@@ -94003,7 +94003,7 @@
       "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
       "source_anchor": "#ci-46-seat-catalog",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#102-symmetric-costly-constraints",
+      "target_anchor": "#102-alignment-under-pressure",
       "count": 1
     },
     {
@@ -115171,7 +115171,7 @@
       "source_header": "CS-4.10 Competency, succession, and oversight effectiveness",
       "source_anchor": "#cs-4-10-competency-succession-and-oversight-effectiveness",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#102-symmetric-costly-constraints",
+      "target_anchor": "#102-alignment-under-pressure",
       "count": 1
     },
     {
@@ -115179,7 +115179,7 @@
       "source_header": "CS-4.10 Competency, succession, and oversight effectiveness",
       "source_anchor": "#cs-4-10-competency-succession-and-oversight-effectiveness",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#103-role-scoped-observability",
+      "target_anchor": "#103-logging-the-role-not-the-steward",
       "count": 1
     },
     {

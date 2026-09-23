@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-22T16:21:36+00:00",
+  "generated_at": "2026-09-23T06:34:54+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1831,7 +1831,7 @@
           },
           {
             "file": "core_09_standing_assessment.md",
-            "count": 15,
+            "count": 14,
             "anchors": [
               "#21-silence-is-the-default",
               "#232-violation-event-types",
@@ -6928,7 +6928,7 @@
             "anchors": [
               "#10-consequential-stewardship",
               "#101-shared-stewardship-standard",
-              "#103-role-scoped-observability"
+              "#103-logging-the-role-not-the-steward"
             ]
           },
           {
@@ -8477,7 +8477,7 @@
             "count": 7,
             "anchors": [
               "#101-shared-stewardship-standard",
-              "#102-symmetric-costly-constraints",
+              "#102-alignment-under-pressure",
               "#131-productive-capacity-instrumental-good",
               "#9-stewardship-in-depth",
               "#chapter-01-principles-and-constraints"
@@ -12747,8 +12747,8 @@
             "count": 5,
             "anchors": [
               "#101-shared-stewardship-standard",
-              "#102-symmetric-costly-constraints",
-              "#103-role-scoped-observability",
+              "#102-alignment-under-pressure",
+              "#103-logging-the-role-not-the-steward",
               "#131-productive-capacity-instrumental-good",
               "#14-market-structure"
             ]
@@ -14366,7 +14366,7 @@
             "count": 4,
             "anchors": [
               "#101-shared-stewardship-standard",
-              "#102-symmetric-costly-constraints",
+              "#102-alignment-under-pressure",
               "#15-systemic-evaluation-requirement"
             ]
           },

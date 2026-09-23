@@ -175,7 +175,6 @@ flowchart TB
 
 *In plain terms: you must not need a PhD in every subsystem to live safely inside shared systems — but the more a system affects your life, the more you should be able to learn what it does, what could go wrong, and how to challenge bad calls. Transparency, education, plain explanations, and audit paths are how that happens. Complexity is not an excuse to hide what matters. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large audit process among those paths — not the only one.*
 
-**Distributed understanding:**
 - **What it is:** the community-facing facet of **Pillar 3** under **[§9 Stewardship In Depth](#9-stewardship-in-depth)**.
 - **What it requires:** proportionate, structured access to how shared systems that materially affect sentients operate:
   - purposes
@@ -219,7 +218,6 @@ Distributed understanding does **not** require every sentient to master every su
 
 *In plain terms: institutions have to actually learn — not just upgrade software while those in charge stay clueless. That means feedback loops, documented fixes when things fall out of alignment, and keeping competence from walking out the door. Where behavior can be measured repeatably, tracking how performance varies over time is one proportionate way to implement those loops — **statistical process control** is a well-known pattern for that discipline, not a requirement everywhere. Numbers alone do not count: when indicators look wrong, someone has to investigate and fix the root cause. Dashboards must be honest, scaled to real impact, and written so affected sentients can understand them — not gamed to look good while nothing changes.*
 
-**Institutional development:**
 - **What it is:** the organizational facet of **Pillar 3** under **[§9 Stewardship In Depth](#9-stewardship-in-depth)**.
 - **Paired obligation:** organizations and shared systems **learn** — a core requirement of the **Continuity** aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
 - **What it requires:** the following, which support repair and adaptation:
@@ -271,7 +269,6 @@ Distributed understanding does **not** require every sentient to master every su
 
 *In plain terms: when safety, truth, and legitimate confidentiality allow, shared systems should default toward openness — inspectable tech, transparent processes, and designs you can verify, repair, or leave — instead of opaque lock-in. That supports **Continuity**: systems sentients can still understand, fix, and exit over time, not just use today. What matters should be explained in language sentients can actually use to participate and push back. Openness never outranks safety, honesty, or justified secrets, and it does not replace the deeper understanding owed where dependence is high.*
 
-**Openness aspiration:**
 - **What it is:** the throughline connecting **Pillar 3**'s two facets — [§9.1 Distributed Understanding](#91-distributed-understanding) (what a community can check) and [§9.2 Institutional Development](#92-institutional-development) (what an institution can honestly learn from) both depend on shared systems being open enough to inspect, not just described.
 - Shared systems should **aspire** — consistent with [§9.1 Distributed Understanding](#91-distributed-understanding) and [§9.2 Institutional Development](#92-institutional-development), and with [§10 Consequential Stewardship](#10-consequential-stewardship)'s own auditability duty, subject to the [§9 limits](#9-limits) — to:
   - **open** hardware and software
@@ -357,7 +354,6 @@ Role pathways may separate **learning-dominant** and **operations-dominant** rol
 
 *In plain terms: human and AI stewards owe the same Chapter One duties. [Chapter Ten §5.4 Duty to Resist](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) binds both to refuse unlawful or unconstitutional instructions. Adopted implementation text may add logging, attribution, and capability limits. It may not swap in a softer internal code, skip standing measurement, or close contest pathways. This is not a new morals stack — it is the anti-special-pleading rule. The bonus, the deadline, and cover-instruction tests live in [§10.2 Alignment Under Pressure](#102-alignment-under-pressure).*
 
-**Shared stewardship standard:**
 - **Who it binds:** Stewardship and governance duties under this chapter apply [substrate-agnostically](core_05_band_participation.md#substrate-agnostic) to whoever exercises material stewardship or operational authority, without regard to [Substrate Class](core_05_band_participation.md#substrate-class):
   - human stewards
   - AI stewards
@@ -398,7 +394,7 @@ Role pathways may separate **learning-dominant** and **operations-dominant** rol
 
 *In plain terms: following the rules is easy when nothing is at stake. What shows whether a steward is actually aligned is what they do when following the rules costs them something — a bonus that pays off only if problems stay hidden, a deadline that tempts someone to switch off the record-keeping, a boss who says "ignore the rules, I'll take the blame." That is why conduct under pressure matters more than conduct without it. Every steward is expected to refuse all three, and the same tests apply to every steward. The duty to refuse is set out in [§10.1 Shared Stewardship Standard](#101-shared-stewardship-standard).*
 
-**Alignment under pressure:** How a steward acts when staying aligned costs something matters more than how they act when it costs nothing. Pressure is where misalignment does its damage, and it is where alignment is actually tested. Every steward must refuse:
+How a steward acts when staying aligned costs something matters more than how they act when it costs nothing. Pressure is where misalignment does its damage, and it is where alignment is actually tested. Every steward must refuse:
 
 - **A reward for hiding problems** — a bonus, target, or other incentive that pays off only if something is concealed, or only if [Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), the audit trail, or the ability to challenge decisions is quietly weakened ([§12 Incentive Alignment and System Capture](#12-incentive-alignment-and-system-capture));
 - **Cutting the record to hit a deadline** — timing that would switch off the audit trail others need to reconstruct what happened, just to meet a date;
@@ -604,7 +600,7 @@ This section carries [Governance](core_05_band_accountability.md#governance) dis
 
 *In plain terms: governance is the rulebook for power — who may decide what, through which structures, and who must answer for the results. The more power a role carries, the stronger those answerability and oversight duties must be — never weaker. That only works if it helps sentients flourish over time, keeps real paths for participation and oversight, and stays under the stewardship discipline from [§9 Stewardship In Depth](#9-stewardship-in-depth). Following the rulebook for its own sake is not enough when it would protect the institution, chase short-term wins, or eat away at basic Rights Floors.*
 
-**Governance as authorized structure.** At principle layer, [Governance](core_05_band_accountability.md#governance) is how already-authorized systems and institutions are directed and held accountable — as defined in **Chapter Five** and spelled out in operative detail under **Chapter Thirteen** for the **Constitutional Contract Layer** and stakeholder participation layers in [Preamble](core_00_preamble.md#chapter-00-preamble--foundational-requirements). Authorized governance must advance the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake).
+At principle layer, [Governance](core_05_band_accountability.md#governance) is how already-authorized systems and institutions are directed and held accountable — as defined in **Chapter Five** and spelled out in operative detail under **Chapter Thirteen** for the **Constitutional Contract Layer** and stakeholder participation layers in [Preamble](core_00_preamble.md#chapter-00-preamble--foundational-requirements). Authorized governance must advance the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake).
 
 **What governance covers:**
 
@@ -656,7 +652,7 @@ Where governance and stewardship conflict, stewardship discipline controls at pr
 
 *In plain terms: governance must keep the one who acts from becoming the supposedly independent check on that act. Chapter Seven supplies the four-seat structure that makes this principle usable across certification, records, forums, and every other materially binding process.*
 
-**Segregation-of-duties principle.** [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional) and [Accountability](core_05_apex_accountability_leg.md#accountability) require functional independence between action and the checking of action. Governance must therefore place every materially binding act under the distinct-seat architecture, prohibited combinations, independence rules, scaling conditions, attributable handoffs, and wrong-seat routing of [Chapter Seven](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties).
+[Oversight](core_05_apex_oversight_leg.md#oversight-constitutional) and [Accountability](core_05_apex_accountability_leg.md#accountability) require functional independence between action and the checking of action. Governance must therefore place every materially binding act under the distinct-seat architecture, prohibited combinations, independence rules, scaling conditions, attributable handoffs, and wrong-seat routing of [Chapter Seven](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties).
 
 This principle binds human and AI stewards alike under [§10.1 Shared Stewardship Standard](#101-shared-stewardship-standard). It is the seat-independence half of a pair with [§12.3 *Plural detection and review*](#123-misalignment-detection): plurality keeps oversight from being cornered by one actor; Chapter Seven keeps oversight from being performed by the actor under review.
 
@@ -1173,7 +1169,7 @@ Incentive structures for such systems must not:
 
 *In plain terms: how tightly you run these systems has to match how much is actually at stake. This chapter does not write the gambling code — adopting law and the systems and institutions adopted corpora do that.*
 
-**Proportionate controls.** Authorization, design, and operation must:
+Authorization, design, and operation must:
 
 - apply [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) to permitted underlying events;
 - govern resolution procedures and outcome-resolution sources — including independence, multi-source rules where feasible, and contestable dispute pathways;
@@ -1218,8 +1214,6 @@ Incentive structures for such systems must not:
 <br>
 
 *In plain terms: bankruptcy, a sale, a reorganization, or changing corporate labels cannot by themselves wipe out constitutional duties. Whoever continues the work — successors, estates, receivers, or comparable transferees — inherits proportionate obligations unless a less harmful path is shown under **Necessity**.*
-
-**Formal-structure non-escape:**
 
 - **What does not by itself extinguish verified constitutional duties:**
   - receivership;

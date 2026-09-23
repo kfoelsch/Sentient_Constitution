@@ -8,7 +8,7 @@ introduction and a pointer index — it must not restate the boxes. This
 audit pins the pointers and the owner/clock index to the README edition
 stamp, diffs the index against the core boxes, and requires:
 
-1. The three costly-case refusals live in Chapter One §9.1.2. The doors
+1. The three costly-case refusals live in Chapter One §10.2. The doors
    page points there once; it does not restate the bullets on every card.
 2. One shared refusal-and-logging pointer with instruction received /
    refuse / document / escalate, naming CS-4 §10 as the default logging
@@ -261,11 +261,14 @@ def corpus_edition(readme: str) -> str:
 
 
 def costly_bullets(core: str) -> list[str]:
-    marker = "**Symmetric costly constraints:**"
+    marker = "#### 10.2 Alignment Under Pressure"
     start = core.find(marker)
     if start < 0:
-        raise ValueError(f"{CORE_REL} is missing Symmetric costly constraints")
-    rest = core[start + len(marker) :]
+        raise ValueError(f"{CORE_REL} is missing Alignment Under Pressure")
+    lead = core.find("Every steward must refuse:", start)
+    if lead < 0:
+        raise ValueError(f"{CORE_REL} is missing the costly-case lead-in")
+    rest = core[lead:]
     end = rest.find("Those are failed tests")
     if end < 0:
         raise ValueError(f"{CORE_REL} is missing the failed-tests close")
@@ -772,7 +775,7 @@ def audit(root: Path) -> list[str]:
         if "Costly-case refusals" in body or "costly-case refusals" in normalized:
             errors.append(
                 f"{CARDS_REL} #{title}: do not restate costly-case refusals "
-                "on each pointer; they live in Chapter One §9.1.2 "
+                "on each pointer; they live in Chapter One §10.2 "
                 "(STEWARD-DOOR-LOCKSTEP-01)"
             )
 
@@ -782,10 +785,10 @@ def audit(root: Path) -> list[str]:
             f"{CARDS_REL}: missing `Costly-case refusals` pointer "
             "(STEWARD-DOOR-LOCKSTEP-01)"
         )
-    elif "102-symmetric-costly-constraints" not in costly_section:
+    elif "102-alignment-under-pressure" not in costly_section:
         errors.append(
             f"{CARDS_REL} #Costly-case refusals: must point at "
-            "#102-symmetric-costly-constraints (STEWARD-DOOR-LOCKSTEP-01)"
+            "#102-alignment-under-pressure (STEWARD-DOOR-LOCKSTEP-01)"
         )
     for bullet in bullets:
         if bullet not in normalize(core):
