@@ -284,7 +284,7 @@ Distributed understanding does **not** require every sentient to master every su
   - substitute for proportionate understanding keyed to [Materiality](core_05_band_oversight.md#materiality-determination) and [Dependency](core_05_band_continuity.md#dependency)
 
 <a id="10-consequential-stewardship"></a>
-### 10. Consequential Stewardship
+### 10. Consequential Stewardship: The Steward Role
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
