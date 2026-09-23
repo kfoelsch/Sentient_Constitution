@@ -178,7 +178,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
     - review is independent of the actor and the decision is published with its reasons, open to challenge under [Contestability](core_05_band_accountability.md#contestability); and
     - the record states uncertainty, assumptions, evidence limits, and disagreement openly.
     <a id="highest-scrutiny"></a>
-  - **In scope — highest scrutiny:** The strictest tier of the same standard. It applies only where a provision expressly names it — including credible pathways to existential risk or irreversible loss of ecological recovery capacity under [Article I-D](core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*), content-based restriction of expression under [Article V-H](core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*) and final anti-constitutional misconduct designation under [Chapter Eleven §3](core_11_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 anti-constitutional designation*). On top of everything heightened scrutiny requires:
+  - **In scope — highest scrutiny:** The strictest tier of the same standard. It applies only where a provision expressly names it — including credible causal pathways to existential risk or irreversible loss of ecological recovery capacity under [Article I-D](core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*), content-based restriction of expression under [Article V-H](core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*) and final anti-constitutional misconduct designation under [Chapter Eleven §3](core_11_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 anti-constitutional designation*). On top of everything heightened scrutiny requires:
     - the act under review is presumed non-compliant until clear, verified evidence establishes every required element;
     - unresolved doubt, missing evidence, or untested assumptions count against the act under review; and
     - reviewers must be functionally independent of the original decision and of anyone who benefits from it.
@@ -506,7 +506,7 @@ Implication can exist without misalignment. Misalignment always implies material
     - rare-but-severe (tail) outcomes;
     - how fast [Harm](core_05_band_accountability.md#harm) can arrive; and
     - how irreversible that harm can be.
-  - **Secondary measure:** [Harm](core_05_band_accountability.md#harm), [Irreversible Harm](core_05_band_accountability.md#irreversible-harm), [Risk](core_05_band_continuity.md#risk), and [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) — co-measures that can defeat risk classification when tail or systemic pathways are ignored.
+  - **Secondary measure:** [Harm](core_05_band_accountability.md#harm), [Irreversible Harm](core_05_band_accountability.md#irreversible-harm), [Risk](core_05_band_continuity.md#risk), and [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) — co-measures that can defeat risk classification when tail or systemic risk pathways are ignored.
 
     **Secondary assessment:** When checking the primary answer, include [Irreversible Harm](core_05_band_accountability.md#irreversible-harm), [Risk](core_05_band_continuity.md#risk), and [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) paths that would change the material-risk classification.
 <a id="material-risk-c"></a>
@@ -514,7 +514,7 @@ Implication can exist without misalignment. Misalignment always implies material
   - **Primary failure:**
     - realized harm labeled as only future risk; or
     - material risk not addressed and constrained under [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Risk](core_05_band_continuity.md#risk), and [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance).
-  - **Secondary failure:** tail or irreversible pathways excluded when [Irreversible Harm](core_05_band_accountability.md#irreversible-harm) remains plausible.
+  - **Secondary failure:** tail or irreversible harm pathways excluded when [Irreversible Harm](core_05_band_accountability.md#irreversible-harm) remains plausible.
 
 ---
 
@@ -1061,13 +1061,13 @@ See **Joint invocation and satisfaction**.
 *In plain terms: do not claim compliance from a narrow demo suite — evaluation must cover the failure, misuse, interaction, and adversarial paths that matter. A Charter states intended scope; certification checks that the hard paths were actually evaluated.*
 
 - **What it is**
-  - **In scope:** A constraint that evaluation and assurance work must cover materially plausible pathways before compliance claims rest on selectively narrow scenario sets, including:
+  - **In scope:** A constraint that evaluation and assurance work must cover materially plausible risk pathways before compliance claims rest on selectively narrow scenario sets, including:
     - failure;
     - misuse;
     - interaction; and
     - adversarial pathways.
   - **Ongoing duty:** The constraint applies whenever operators, stewards, or reviewers claim constitutional compliance, readiness, or safe reliance from evaluation or assurance work — not only during certification cycles.
-  - **Charter and scope process:** Where a governing [Charter](core_05_band_continuity.md#charter) (or equivalent published scope instrument) exists for a system, institution, business, or comparable stewarded form, evaluation must test chartered purpose and in-scope / out-of-scope limits against observed [System Boundaries](core_05_band_continuity.md#system-boundaries) and plausible pathways inside and at the edge of that scope. Charter text does not shrink the pathways that must be evaluated.
+  - **Charter and scope process:** Where a governing [Charter](core_05_band_continuity.md#charter) (or equivalent published scope instrument) exists for a system, institution, business, or comparable stewarded form, evaluation must test chartered purpose and in-scope / out-of-scope limits against observed [System Boundaries](core_05_band_continuity.md#system-boundaries) and plausible risk pathways inside and at the edge of that scope. Charter text does not shrink the risk pathways that must be evaluated.
   - **SAC verification:** Where [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, this constraint is part of what certification must verify under [Chapter Eight §3](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — including chartered-scope-versus-functional-boundary checks under [§3.1](core_08_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-5](corpus_systems/cs_05_design_testing_verification_deployment.md). Findings live on the [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional).
   - **Out of scope:**
     - [Charter](core_05_band_continuity.md#charter) text as a scope instrument alone — a Charter states intended scope; it is not itself evaluation coverage;
@@ -1077,7 +1077,7 @@ See **Joint invocation and satisfaction**.
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether evaluation covers plausible failure, misuse, interaction, and adversarial pathways — not only selective demo scenarios.
 
-    **Primary assessment:** Show enough coverage of plausible pathways, sized to system impact, [Dependency](core_05_band_continuity.md#dependency), and [Risk](core_05_band_continuity.md#risk), including:
+    **Primary assessment:** Show enough coverage of plausible risk pathways, sized to system impact, [Dependency](core_05_band_continuity.md#dependency), and [Risk](core_05_band_continuity.md#risk), including:
     - failure;
     - misuse;
     - interaction; and

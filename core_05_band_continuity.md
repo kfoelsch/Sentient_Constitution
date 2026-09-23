@@ -632,7 +632,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 *In plain terms: actually evaluate systemic risk — a checklist in a drawer does not count.*
 
 - **What it is**
-  - **In scope:** Evaluating systemic [Risk](core_05_band_continuity.md#risk) — whether operators actually assess likelihood, speed, severity, and systemic pathways under the conditions that matter.
+  - **In scope:** Evaluating systemic [Risk](core_05_band_continuity.md#risk) — whether operators actually assess likelihood, speed, severity, and systemic risk pathways under the conditions that matter.
   - **Out of scope:** the separate duty to communicate evaluated risk to those who need it ([Risk Disclosure](core_05_band_oversight.md#risk-disclosure)) — a sibling duty, not this evaluation itself.
 <a id="risk-evaluation-a"></a>
 - **How to measure and assess**
@@ -642,15 +642,15 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - [Dependency](core_05_band_continuity.md#dependency);
     - time horizons; and
     - [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
-  - **Secondary measure:** [Risk](core_05_band_continuity.md#risk), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Materiality Determination](core_05_band_oversight.md#materiality-determination), and [Material Risk](core_05_band_oversight.md#material-risk) — co-measures that can defeat evaluation when pathways or stakes are ignored.
+  - **Secondary measure:** [Risk](core_05_band_continuity.md#risk), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Materiality Determination](core_05_band_oversight.md#materiality-determination), and [Material Risk](core_05_band_oversight.md#material-risk) — co-measures that can defeat evaluation when risk pathways or stakes are ignored.
 
     **Secondary assessment:** When checking the primary answer, ask whether evaluation depth matches material stake under [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) and [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence).
 <a id="risk-evaluation-c"></a>
 - **What must hold**
   - **Primary failure:**
     - failing to evaluate or constrain risk where [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) requires it; or
-    - a risk checklist, internal-only note, nominal register, or after-the-fact statement offered as evaluation when systemic pathways were not actually assessed.
-  - **Secondary failure:** evaluation depth that ignores material pathways or stakes under [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) or [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence).
+    - a risk checklist, internal-only note, nominal register, or after-the-fact statement offered as evaluation when systemic risk pathways were not actually assessed.
+  - **Secondary failure:** evaluation depth that ignores material risk pathways or stakes under [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) or [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence).
 
 ---
 
@@ -1537,7 +1537,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
-    **Primary assessment:** Evaluate pathways to irreversible loss of ecological recovery capacity, including:
+    **Primary assessment:** Evaluate causal pathways to irreversible loss of ecological recovery capacity, including:
     - threshold crossings;
     - extinction cascades;
     - regenerative-capacity depletion;
@@ -2225,7 +2225,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - [Dependency](core_05_band_continuity.md#dependency) relationships; and
     - feedback loops between them.
 
-    Apply that trace wherever isolating single-element analysis would understate material pathways for:
+    Apply that trace wherever isolating single-element analysis would understate material interaction pathways for:
     - [Materiality Determination](core_05_band_oversight.md#materiality-determination);
     - [Risk](core_05_band_continuity.md#risk); or
     - [Systemic Materiality](core_05_band_continuity.md#systemic-materiality).
@@ -2335,7 +2335,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - [Systemic Materiality](core_05_band_continuity.md#systemic-materiality); and
     - [Trust Degradation and Misleading Reliance](core_05_band_continuity.md#trust-degradation-and-misleading-reliance).
 
-    **Secondary assessment:** When evaluating the primary trace, read with [Anti-Capture](core_05_band_continuity.md#anti-capture) for whether foreseeable safeguards were missing, and with [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways) where resolution pathways are [materially implicated](core_05_band_oversight.md#materially-implicated) (where those pathways are materially in play), and test whether distortion persists behind formally compliant governance structures.
+    **Secondary assessment:** When evaluating the primary trace, read with [Anti-Capture](core_05_band_continuity.md#anti-capture) for whether foreseeable safeguards were missing, and with [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways) where resolution pathways are [materially implicated](core_05_band_oversight.md#materially-implicated) (where those resolution pathways are materially in play), and test whether distortion persists behind formally compliant governance structures.
 <a id="system-capture-c"></a>
 - **What must hold**
   - **Primary failure:** hidden or indirectly routed control structures that materially influence, without auditable disclosure:
@@ -3739,7 +3739,7 @@ See **Joint invocation and satisfaction**.
     - avoidable systemic harm.
   - **Out of scope:**
     - ordinary reversible operational error promptly corrected under Review and Correction Duty; and
-    - mere strategy disagreement without a foreseeable pathway to constitutional misalignment or Rights-Floor harm.
+    - mere strategy disagreement without a foreseeable causal pathway to constitutional misalignment or Rights-Floor harm.
 <a id="stewardship-defect-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) and [Constitutional Performance measurement family](core_05_band_performance.md#performance-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*

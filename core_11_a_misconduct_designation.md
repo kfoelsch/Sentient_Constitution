@@ -324,7 +324,7 @@ Fixing the cause does not cancel the duty to repair those harmed. Repairing thos
 
 - **Consequence-integration duty:** Put every consequence that applies — imprisonment, standing effects, sanctions, dissolving an institution, striking an unlawful constitutional change, structural fixes, and what is owed to those harmed — in one reviewable package. Do not scatter them across separate records that no one can check together.
 - **Affected-party and remedy identification:** The record must identify, at the level of specificity feasible without unlawful disclosure:
-  - affected sentients, classes, communities, institutions, systems, or constitutional pathways;
+  - affected sentients, classes, communities, institutions, systems, or constitutional challenge, participation, or remedy pathways;
   - material harm, rights loss, remedy loss, dependency harm, evidence degradation, or process nullification caused or materially contributed to by the unified incident;
   - restitution, compensation, restoration, correction, disgorgement or clawback where lawful, substitute safeguards where literal repair is impossible, and systemic remediation where harm is class-wide or structural;
   - responsible actors, roles, institutions, systems, funds, successors, or coordinating bodies that must carry or finance each remedy;
@@ -369,7 +369,7 @@ After final designation under **section 3** with **section 4** safeguards met:
 
 - **Mandatory special lock:** Chapter Ten must attach the **Anti-Constitutional Trust Lock** under [§5.5](core_10_standing_integration.md#55-special-locks). This chapter does not restate Trust Lock pathway lists, corrective conditions, or restoration rules; those remain in Chapter Ten.
 - **Attachment-field discipline:** Any ACM-triggered standing lock, liberty restriction, or imprisonment order must satisfy Chapter Ten lock design and enforcement under [§5](core_10_standing_integration.md#5-lock-design-and-enforcement), and must be recorded using the [Chapter Ten §5.1](core_10_standing_integration.md#51-definition-and-attachment) attachment fields:
-  - blocked or limited pathway;
+  - blocked or limited named pathway;
   - risk reduced;
   - protected subjects or interests;
   - corrective conditions;

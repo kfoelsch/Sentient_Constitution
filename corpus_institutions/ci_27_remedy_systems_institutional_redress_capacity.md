@@ -45,7 +45,7 @@ This file is the institutional implementation home for **CI-27** (*Remedy system
 **Quick orientation**
 - **What this family owns** — institutional capacity to deliver practical redress: intake, preservation, review, repair, monitoring, safeguard enforcement, and lock review.
 - **What it does not own** — forum-family routing (**Chapter Twelve** / **CF**), standing measurement (**Chapter Nine**), or technical measurement standards (**Technical Forum Domains** / **CF-10**).
-- **Read with** — **CI-6** for local procedure maps; **CI-7** for oversight and assurance; **CI-8** for accessible pathways; **CI-12** for cross-institution escalation; **CI-13** when chronic under-capacity becomes institutional failure; **CF-11** for tier milestones and backlog publication; **CF-5** for capacity-failure routing.
+- **Read with** — **CI-6** (*Procedure integrity, contestability, and secondary review*) for local procedure maps; **CI-7** (*Oversight, assurance, controls, and evidence*) for oversight and assurance; **CI-8** (*Transparency, participation, and accessible challenge and service pathways*) for accessible challenge and service pathways; **CI-12** (*Cross-institution coordination and escalation*) for cross-institution escalation; **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*) when chronic under-capacity becomes institutional failure; **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*) for tier milestones and backlog publication; **CF-5** (*Routing operations, transfer, certification, and representative treatment*) for capacity-failure routing.
 <a id="ci-271-capacity-funding-and-succession"></a>
 
 ## CI-27.1: Capacity, funding, and succession

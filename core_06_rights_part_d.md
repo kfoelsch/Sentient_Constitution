@@ -216,7 +216,7 @@ Adopted governance implementation provides escalation, proportionality of interv
   - Affected parties must receive:
     - timely notice;
     - stated reasons;
-    - practical access to the record sufficient to use those pathways.
+    - practical access to the record sufficient to use those escalation and review pathways.
 
   Narrow, justified restrictions under **Chapter One** are the only permissible limit on the above.
 <a id="article-xxiii-d-emergency-measures-and-continuation-burden"></a>
@@ -380,7 +380,7 @@ This Article applies the [Constitutional Tetrad](core_00_preamble.md#constitutio
     - least-restrictive rationale;
     - review/reversal triggers.
 - **Restorative alignment:** Where applicable, resolution must align with restorative and cooperative norms (**Article X-A** (*Non-Imposition and Consent in Association*); *Restorative Justice*, **Chapter Five**).
-  - Restorative pathways must not displace necessary protection, accountable attribution, or proportionate remediation where any of the following makes such pathways inappropriate:
+  - Restorative pathways must not displace necessary protection, accountable attribution, or proportionate remediation where any of the following makes such restorative pathways inappropriate:
     - ongoing risk;
     - material power asymmetry;
     - non-consent by affected parties.
@@ -642,7 +642,7 @@ Transitional governance exists to secure continuity and non-regression. It must 
   - governance vacuum;
   - lock-in when milestones fail.
 
-  Predefined fallback pathways, partial rollback criteria, and re-baselining procedures are governed by [**CI-14**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*Transitional governance and institutional evolution*).
+  Predefined fallback transition pathways, partial rollback criteria, and re-baselining procedures are governed by [**CI-14**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*Transitional governance and institutional evolution*).
   - Failed or degraded transitional states must not become a new baseline by persistence alone.
 - **Material baseline reset:** A material baseline reset updates transition milestones, risk assumptions, ownership, and operating plans when gates fail or transition stalls. It requires constitutionally valid authority and documented public reasons. It must preserve **Rights-Floor minimums** and must not substitute for the rules for lawfully changing the Constitution.
 - **Verification-health precondition:** Resetting or continuing on a revised transition baseline is non-compliant where [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) or the standing pipeline under [Chapters Nine through Twelve](core_00_preamble.md#62-how-the-full-chain-fits-together) is structurally unreliable — for example, where certification routinely blesses systems that materially defeat Rights Floors, standing measurement routinely diverges from verified material reality, or contest and review pathways cannot correct those gaps within materiality-scaled time. In those conditions, repair of verification and measurement machinery takes priority over cosmetic replanning.

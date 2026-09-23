@@ -174,7 +174,7 @@ A **documented transition plan** under **Article XXVI-A** (*Phased Adoption and 
 - systems within **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*);
 - instrumentalities whose **predominant readily foreseeable use** sustains **known non-compliant** operation at material risk.
 
-**Permitted measures (only with procedural safeguards):** **Seizure**, **impoundment**, **quarantine from shared infrastructure**, or comparable **lawful custody transfer** is permitted **only** when procedural pathways satisfy **Article XI-A** (*Stakeholder System Participation and Representation*) and **Chapter Nine** where applicable.
+**Permitted measures (only with procedural safeguards):** **Seizure**, **impoundment**, **quarantine from shared infrastructure**, or comparable **lawful custody transfer** is permitted **only** when procedural custody-transfer pathways satisfy **Article XI-A** (*Stakeholder System Participation and Representation*) and **Chapter Nine** where applicable.
 
 **Necessity and proportionality:** **Necessity**, **Proportionality**, and the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](../core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) must be demonstrable, including:
 

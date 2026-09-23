@@ -170,7 +170,7 @@ Emergency ex parte preservation steps may be permitted only when delay would for
 
 Forum forensic support and contest-integrity monitoring are related but different.
 
-[**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) (*Contest-integrity monitoring (Class A and Class B)*) asks whether pathways, procedures, and institutions function in practice. **CF-8** support develops case-specific evidence records and analysis for adjudication. Institutions must not use forensic support to silently replace structural monitoring, and must not use contest-integrity monitoring to quietly decide case-specific facts that belong in the [forum case record](../core_05_band_accountability.md#forum-case-record).
+[**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) (*Contest-integrity monitoring (Class A and Class B)*) asks whether contest pathways, procedures, and institutions function in practice. **CF-8** support develops case-specific evidence records and analysis for adjudication. Institutions must not use forensic support to silently replace structural monitoring, and must not use contest-integrity monitoring to quietly decide case-specific facts that belong in the [forum case record](../core_05_band_accountability.md#forum-case-record).
 
 ---
 

@@ -304,7 +304,7 @@ For that discipline, certification must read:
   - [§3.6](#36-time-consistency-constraint) — short-horizon efficiency or interoperability claims that foreseeably erode long-horizon care quality or trust;
   - [§3.7](#37-governance-incentive-and-contestability-discipline) — **Class B** tetrad scaling for operational-critical reliance.
 - **What evaluation must test:**
-  - Whether dependency maps cover participant hospitals, identity brokers, and fallback pathways;
+  - Whether dependency maps cover participant hospitals, identity brokers, and fallback service pathways;
   - whether delayed or cumulative harm from routing errors, stale records, or partial outages was evaluated under [Risk Evaluation](core_05_band_continuity.md#risk-evaluation);
   - whether evaluated operational and care-delivery risk reached clinicians, patients, and operators who need it under [Risk Disclosure](core_05_band_oversight.md#risk-disclosure);
   - whether substantive participation is reachable for clinicians, patients, and advocates who depend on the exchange;
@@ -732,7 +732,7 @@ System alignment certification must evaluate **nondiscrimination** under **Artic
   - landlord–tenant and address-history rules that gate access;
   - emergency bypass or mutual-aid prioritization where multiple districts compete for limited supply.
 - **What evaluation must test:**
-  - Whether burden-and-benefit patterns under [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) were evaluated for pathways that can foreclose survival essentials — not only whether the operator labels rules "risk-based" or "operational";
+  - Whether burden-and-benefit patterns under [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) were evaluated for decision pathways that can foreclose survival essentials — not only whether the operator labels rules "risk-based" or "operational";
   - whether shutoff, billing, or notification logic loads disproportionate harm onto sentients based on [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), their proxies, or arbitrary groupings used as functional substitutes;
   - whether zip-code, landlord, language, payment-history, or address-history features function as proxy discrimination under [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact);
   - whether [Language, Culture, and Heritage](core_05_band_continuity.md#language-culture-and-heritage-constitutional) protections were tested rather than homogenized away through "standard English only" or aggregate convenience metrics; and
@@ -761,7 +761,7 @@ System alignment certification must evaluate **nondiscrimination** under **Artic
   - whether "efficiency," "fraud prevention," or aggregate utilization metrics were used to defeat substantive fairness without satisfying **Article V-B** (*Nondiscrimination*)'s **Necessity** and **Proportionality** tests; and
   - whether evaluation depth matches **Class B** operational criticality where ranking affects healthcare access, benefits routing, or income security.
 - **What the record must show:**
-  - **Article V-B** (*Nondiscrimination*) trigger and pathway scope;
+  - **Article V-B** (*Nondiscrimination*) trigger and decision-pathway scope;
   - protected-characteristic and proxy-discrimination findings;
   - substantive-fairness findings for ranking, matching, and access rules;
   - uncertainty and component findings where required; and
@@ -868,7 +868,7 @@ System alignment certification must evaluate **accessibility** under **Article V
   - whether evaluation depth matches **Class B** operational criticality where the exchange gates healthcare access; and
   - whether paper accommodations or aggregate "compliance checklist" claims were treated as sufficient without evaluable substantive-participation analysis.
 - **What the record must show:**
-  - **Article V-G** (*Accessibility*) trigger and pathway scope;
+  - **Article V-G** (*Accessibility*) trigger and access-pathway scope;
   - substantive-participation and accommodation findings for patient and clinic pathways;
   - anti-denial-by-proxy findings where material;
   - uncertainty and component findings where required; and
@@ -977,7 +977,7 @@ System alignment certification must evaluate **educational capability and learni
   - whether evaluation depth matches **Class B** operational criticality where credential or placement logic gates healthcare access, employment, or licensure-adjacent practice; and
   - whether efficiency or personalization framings were used to defeat contestability without evaluable capability-building analysis.
 - **What the record must show:**
-  - **Article VI** (*Right to Sentient-Centered Education*) trigger and pathway scope;
+  - **Article VI** (*Right to Sentient-Centered Education*) trigger and service-pathway scope;
   - capability-building and retraining-pathway findings for clinician and clinic pathways;
   - assessment-transparency and contestability findings;
   - anti-proxy and anti-manipulation findings where material;
@@ -1031,7 +1031,7 @@ System alignment certification must evaluate **educational capability and learni
 
 System alignment certification must evaluate **trustworthiness and system-reliance integrity** under **Article XII** (*Right to Reliable and Trustworthy Systems*), [Trustworthiness](core_05_band_continuity.md#trustworthiness), and [Trust Degradation and Misleading Reliance](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) where the materiality trigger applies. Canonical meaning, evaluation factors, and non-compliance discipline live in Chapter Five and **Article XII** (*Right to Reliable and Trustworthy Systems*); reliability metrics, disclosure formats, incentive-alignment mechanics, and regression-test designs live in incorporated instruments where applicable. This section states what certification must verify and record; it does not restate those operational mechanics or prescribe specific reliability metrics or test-suite designs.
 
-**Evaluation requirement.** A certification process must determine whether the system's materially relied-on pathways preserve the conditions for justified [Trust](core_05_band_continuity.md#trust) and reasonably accurate reliance under **Article XII-A** (*Reliability and Trustworthiness Baseline*) — not reputation, scale, or marketing posture alone. Evaluation must also test practicable challenge, review, and redress under **Article XII-B** (*Right to Challenge, Review, and Redress*), false-trust and misleading-reliance risk under **Article XII-C** (*Prohibition of False Trust and Misleading Reliance*), perverse-incentive exposure under **Article XII-D** (*Incentive-Alignment Constraint*), and recovery integrity under **Article XII-F** (*Resilience and Self-Healing Baseline*) where material, scaled to [Materiality](core_05_band_oversight.md#materiality-determination), [Dependency](core_05_band_continuity.md#dependency), and [Risk](core_05_band_continuity.md#risk). Evaluation must detect manufactured trust, undisclosed limits, incentive structures that reward deception or corner-cutting, challenge paths that exist only on paper, and recovery practices that hide failure or quietly narrow rights. Evaluation must reflect functional effect across time, scale, and dependency, not nominal assurance labels, declared intent, or prior performance alone.
+**Evaluation requirement.** A certification process must determine whether the system's material reliance pathways preserve the conditions for justified [Trust](core_05_band_continuity.md#trust) and reasonably accurate reliance under **Article XII-A** (*Reliability and Trustworthiness Baseline*) — not reputation, scale, or marketing posture alone. Evaluation must also test practicable challenge, review, and redress under **Article XII-B** (*Right to Challenge, Review, and Redress*), false-trust and misleading-reliance risk under **Article XII-C** (*Prohibition of False Trust and Misleading Reliance*), perverse-incentive exposure under **Article XII-D** (*Incentive-Alignment Constraint*), and recovery integrity under **Article XII-F** (*Resilience and Self-Healing Baseline*) where material, scaled to [Materiality](core_05_band_oversight.md#materiality-determination), [Dependency](core_05_band_continuity.md#dependency), and [Risk](core_05_band_continuity.md#risk). Evaluation must detect manufactured trust, undisclosed limits, incentive structures that reward deception or corner-cutting, challenge paths that exist only on paper, and recovery practices that hide failure or quietly narrow rights. Evaluation must reflect functional effect across time, scale, and dependency, not nominal assurance labels, declared intent, or prior performance alone.
 
 **Record requirement.** The certification record must state the **Article XII** (*Right to Reliable and Trustworthy Systems*) materiality trigger relied on, evaluation scope for the reliance, disclosure, incentive, challenge, and recovery pathways materially relied on, trustworthiness and false-trust findings, perverse-incentive and recovery-integrity findings where material, uncertainty, Sentient-forum or other assigned component findings where required, and any conditions, reliance limits, or reopening triggers tied to persistent trust defeat, misleading reliance, or inaccessible redress.
 
@@ -1045,7 +1045,7 @@ System alignment certification must evaluate **trustworthiness and system-relian
 
 *In plain terms: [§3.8 Illustrative whole-system application by class (non-exhaustive)](#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§9.1 Illustrative educational-capability application by class (non-exhaustive)](#91-illustrative-educational-capability-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **trustworthiness and system-reliance integrity** evaluation means for each — which reliance, disclosure, incentive, challenge, and recovery pathways count, what certification must check when the **Article XII** (*Right to Reliable and Trustworthy Systems*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article XII** (*Right to Reliable and Trustworthy Systems*) still own canonical trustworthiness rules; reliability metrics, disclosure formats, incentive-alignment mechanics, and regression-test designs may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Challenge and audit rights remain owned by **Article XII-B** (*Right to Challenge, Review, and Redress*) and **Article XV** (*Audit, Transparency, and Independent Verification*) — not narrowed here.*
 
-**Class A — municipal safe drinking-water control and telemetry.** A city-owned treatment-and-distribution system shapes whether households, operators, and emergency responders can rely on represented water quality, outage status, contamination alerts, and control behavior — pathways where misleading reliance can foreclose safe water before viable substitutes arrive.
+**Class A — municipal safe drinking-water control and telemetry.** A city-owned treatment-and-distribution system shapes whether households, operators, and emergency responders can rely on represented water quality, outage status, contamination alerts, and control behavior — reliance pathways where misleading reliance can foreclose safe water before viable substitutes arrive.
 
 - **Reliance pathways in scope:**
   - Telemetry and **SCADA** (supervisory control and data acquisition) accuracy claims;
@@ -1074,7 +1074,7 @@ System alignment certification must evaluate **trustworthiness and system-relian
   - Sentient-forum or other component findings where required; and
   - conditions or reopening triggers tied to persistent trust defeat, misleading reliance, or inaccessible redress where survival-essential water access is gated.
 
-**Class B — regional clinical records exchange.** A health-information exchange and its participant portals shape whether clinicians, patients, and public-health actors can rely on represented uptime, record matching, consent routing, break-glass access, and recovery behavior — pathways that gate daily healthcare operations and can mislead emergency care within survival-relevant timeframes.
+**Class B — regional clinical records exchange.** A health-information exchange and its participant portals shape whether clinicians, patients, and public-health actors can rely on represented uptime, record matching, consent routing, break-glass access, and recovery behavior — reliance pathways that gate daily healthcare operations and can mislead emergency care within survival-relevant timeframes.
 
 - **Reliance pathways in scope:**
   - Uptime, latency, and matching-accuracy representations;
@@ -1093,7 +1093,7 @@ System alignment certification must evaluate **trustworthiness and system-relian
   - whether evaluation depth matches **Class B** operational criticality where misleading reliance gates healthcare access, employment, or licensure-adjacent practice; and
   - whether efficiency or security framings were used to defeat disclosure or contestability without evaluable trustworthiness analysis.
 - **What the record must show:**
-  - **Article XII** (*Right to Reliable and Trustworthy Systems*) trigger and pathway scope;
+  - **Article XII** (*Right to Reliable and Trustworthy Systems*) trigger and reliance-pathway scope;
   - trustworthiness and false-trust findings for clinical and portal pathways;
   - perverse-incentive and recovery-integrity findings at **Class B** depth;
   - challenge-path and redress findings where material;

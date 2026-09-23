@@ -85,7 +85,7 @@ This file is the forum implementation home for **CF-7** (*Integrity safeguards, 
 
 An alignment ruling must be attributable and reviewable. At minimum, the record must identify:
 - the integrity findings that bind the matter before the Integrity forum;
-- the system, process, institutional, or pathway dependencies the forum treated as material;
+- the system, process, institutional, or contest-pathway dependencies the forum treated as material;
 - each component matter referred, certified, or stayed, including the assigned lead family or forum;
 - the priority basis for sequencing where multiple components compete;
 - any stays, sequencing requirements, milestones, or coordination orders the Integrity forum keeps on the lead record; and
@@ -231,7 +231,7 @@ Anti-self-judging activation is available only where the record contains a non-f
 - credible allegations of capture, conflict, concealed dependency, retaliatory routing, recusal failure, evidence suppression, process abuse, or comparable integrity breach;
 - a documented inability to form an independent panel under **CF-4.9**;
 - a recusal or disclosure pattern that indicates coordinated manipulation, selective unavailability, or repeated failure to constitute a lawful bench;
-- contest-integrity findings under [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) showing pathway failure, chill, backlog abuse, evidence unavailability, or protected-escalation obstruction;
+- contest-integrity findings under [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) showing contest-pathway failure, chill, backlog abuse, evidence unavailability, or protected-escalation obstruction;
 - system-alignment recognition or revalidation facts showing that the same steward, operator, forum chain, or oversight line materially controls the evidence, classification, review cadence, and contest pathway being challenged.
 
 Mere dissatisfaction with a ruling, captioning a claim against a forum, or naming a forum actor as a witness does not activate backup routing. The activation finding must explain why independent merits review is materially necessary to preserve independence, contestability, or public trust under Chapter Twelve.
@@ -274,7 +274,7 @@ For constitutional alignment recognition, validation, revalidation, withdrawal, 
 - whether technical, Environment, Institutional, Sentient, or Constitutional component questions require referral, certification, or stay;
 - whether contest-integrity monitoring, independent forensic support, external assurance, or **CI-8** (*Cross-institution coordination and escalation*) escalation is needed to make the record reviewable.
 
-Where the same institution or system steward materially controls both the system under review and the ordinary contest pathway, the record must explain why the pathway remains independent enough to proceed or must activate backup routing, external assurance, or both. Conditional recognition may not be used to defer unresolved capture or self-review defects that would defeat practical contestability.
+Where the same institution or system steward materially controls both the system under review and the ordinary contest pathway, the record must explain why the contest pathway remains independent enough to proceed or must activate backup routing, external assurance, or both. Conditional recognition may not be used to defer unresolved capture or self-review defects that would defeat practical contestability.
 
 ### CF-7.3.5 Internal Integrity Process and Forum Access
 
@@ -297,9 +297,9 @@ Where internal process remains available, the [forum case record](../core_05_ban
 
 <br>
 
-Contest-integrity monitors under [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) assess whether contest, secondary review, audit access, and protected escalation pathways function in practice. They may provide pattern findings, pathway records, independence observations, backlog data, escalation history, and evidence-availability information to support anti-self-judging activation, refusal, transfer, or remediation. They must not silently become the merits forum for the underlying dispute.
+Contest-integrity monitors under [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) assess whether contest, secondary review, audit access, and protected escalation pathways function in practice. They may provide pattern findings, contest-pathway records, independence observations, backlog data, escalation history, and evidence-availability information to support anti-self-judging activation, refusal, transfer, or remediation. They must not silently become the merits forum for the underlying dispute.
 
-Where feasible in cross-forum anti-self-judging cases, the **CF-4.10** (*Certifier for inability-to-form findings*) certifier should include or obtain review from contest-integrity or equivalent independent assurance capacity. The resulting monitor material must be kept distinct from case-specific forensic support under **CF-8** and from independent investigative-service work under **CF-9**. If monitor findings indicate material pathway failure beyond the case, the forum may refer the structural matter to remediation, external assurance, or **CI-8** (*Cross-institution coordination and escalation*) escalation while preserving the assigned merits forum for the dispute.
+Where feasible in cross-forum anti-self-judging cases, the **CF-4.10** (*Certifier for inability-to-form findings*) certifier should include or obtain review from contest-integrity or equivalent independent assurance capacity. The resulting monitor material must be kept distinct from case-specific forensic support under **CF-8** and from independent investigative-service work under **CF-9**. If monitor findings indicate material contest-pathway failure beyond the case, the forum may refer the structural matter to remediation, external assurance, or **CI-8** (*Cross-institution coordination and escalation*) escalation while preserving the assigned merits forum for the dispute.
 
 ### CF-7.3.7 Recusal-Abuse and Routing-Abuse Detection
 <details>

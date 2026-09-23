@@ -39,7 +39,7 @@ This file is the institutional implementation home for **CI-15** (*Neurodiversit
 *In plain terms: **CI-15** is the local owner map for usable participation — neurodivergent sentients, disabled sentients, and sentients carrying trauma. Shared floors live in **CJS-3.8**; this file names who documents alternatives, who routes accommodations, and who reviews exclusion.*
 
 **Quick orientation**
-- **The basic idea** — formally open participation is not enough; pathways must be understandable and practically accessible, with accommodations sufficient for substantive use.
+- **The basic idea** — formally open participation is not enough; participation pathways must be understandable and practically accessible, with accommodations sufficient for substantive use.
 - **Adaptive alternatives** — where ordinary process would foreseeably block participation, these must be documented: proportionate timing, format, communication mode, sensory and cognitive accessibility, supported decision-making, and deadline-restoration options.
 - **Trauma-informed design** — high-stakes hearings, reviews, and self-service paths must not amplify harm through avoidable adversarial traps, overload, or inaccessible interfaces.
 - **Anti-exclusion review** — a named review route must exist wherever complexity, capacity, or compliance framing would dismiss credible participation.
@@ -49,12 +49,12 @@ This file is the institutional implementation home for **CI-15** (*Neurodiversit
 - **Article XX** (*Comprehensibility and Complexity Stewardship*) in **Chapter Six** — proportional comprehensibility and complexity-stewardship duties must not be used to block participation or accountability.
 
 *Shared rules live elsewhere.*
-- [**CJS-3.8**](../corpus_joint_structure/cjs_03p_participation_operations.md) (*comprehensibility and cognitive accessibility terms*) — **Institutional participation and pathway accessibility floor**; **Adaptive participation and support controls**.
+- [**CJS-3.8**](../corpus_joint_structure/cjs_03p_participation_operations.md) (*comprehensibility and cognitive accessibility terms*) — **Institutional participation and challenge-pathway accessibility floor**; **Adaptive participation and support controls**.
 - **Article V-G** (*Accessibility*); **Article XI** (*Stakeholder System Participation, Representation, and Due Process*); **Article XX** (*Comprehensibility and Complexity Stewardship*); **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*).
 - Chapter Five [*Accessibility*](../core_05_band_participation.md#accessibility-constitutional); [*Procedural Fairness*](../core_05_band_participation.md#procedural-fairness-constitutional); [*Protected Characteristics*](../core_05_band_participation.md#protected-characteristics-constitutional).
-- **CI-8** (*Transparency, participation, and accessible pathways*) / **CI-8.3** (*Digital self-service pathway integrity*); **CI-6** (*Procedure integrity, contestability, and secondary review*). This file does not repeat those floors.
+- **CI-8** (*Transparency, participation, and accessible challenge and service pathways*) / **CI-8.3** (*Digital self-service pathway integrity*); **CI-6** (*Procedure integrity, contestability, and secondary review*). This file does not repeat those floors.
 
-**Apply.** Apply **CJS-3.8** **Institutional participation and pathway accessibility floor**. **CI-15** states only the local owner duties below.
+**Apply.** Apply **CJS-3.8** **Institutional participation and challenge-pathway accessibility floor**. **CI-15** states only the local owner duties below.
 
 **Local adaptive participation and anti-exclusion role map**
 Each institution in scope must name the office or body responsible for:

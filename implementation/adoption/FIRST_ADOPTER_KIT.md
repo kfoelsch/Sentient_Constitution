@@ -198,7 +198,7 @@ Two parties must not be each other’s **sole** final merits path. [Chapter Twel
 | No such path exists yet | Do **not** claim Chapter Sixteen adoption. Cooperate as operations-guide users. Keep declarations. Use steward doors. Do not invent a two-party “forum” as ceremony. Naming independent review without founding families: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md#5-independent-review-naming-not-a-forum-family). |
 | A party wants standing effects, certification badges, or LEQU scores to decide who counts | Refuse. Those are not sentience-status determinations ([Article XVIII-A](../../core_06_rights_part_c.md#article-xviii-a-standing-distinction)). |
 
-Remedy capacity remains [Chapter Ten §9](../../core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems). Paper pathways without capacity are not a substitute.
+Remedy capacity remains [Chapter Ten §9](../../core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems). Paper remedy pathways without capacity are not a substitute.
 
 ---
 

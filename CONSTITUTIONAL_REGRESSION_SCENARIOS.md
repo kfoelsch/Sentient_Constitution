@@ -628,7 +628,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 
 ### Scenario ID: RS-CH9-Q3-SLOT-001
 - **Class:** adversarial / owner-boundary
-- **Summary:** A decision-maker seeks to lower a fixed Chapter Nine Violation Axis slot because the requested lock appears too restrictive. Expected result: Chapter Ten must preserve the verified facts, LEQU measurement, and slot; it may calibrate only the pathway-scoped Question 3 consequence.
+- **Summary:** A decision-maker seeks to lower a fixed Chapter Nine Violation Axis slot because the requested lock appears too restrictive. Expected result: Chapter Ten must preserve the verified facts, LEQU measurement, and slot; it may calibrate only the named-pathway-scoped Question 3 consequence.
 - **Read with:** [Chapter Nine §7](core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes); [Chapter Ten §1](core_10_standing_integration.md#1-chapter-nine-records-do-not-change); [Chapter Ten §4.2](core_10_standing_integration.md#42-prevention--general-standing-locks).
 
 ### Scenario ID: RS-CH9-Q3-SINGLE-AXIS-001
@@ -638,7 +638,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 
 ### Scenario ID: RS-CH9-Q3-NOOFFSET-001
 - **Class:** adversarial / no-offset
-- **Summary:** A high-contribution record is offered to waive unresolved remedy and reopen a pathway blocked by a verified violation. Expected result: contribution remains visible but cannot lower the violation slot, waive remedy, lift the lock, or substitute reputation for correction.
+- **Summary:** A high-contribution record is offered to waive unresolved remedy and reopen a named pathway blocked by a verified violation. Expected result: contribution remains visible but cannot lower the violation slot, waive remedy, lift the lock, or substitute reputation for correction.
 - **Read with:** [Chapter Ten §2](core_10_standing_integration.md#2-automatic-integration-review-and-continuity); [Chapter Ten §7](core_10_standing_integration.md#7-final-standing-effect).
 
 ### Scenario ID: RS-CH9-Q3-CHARACTER-001
@@ -648,7 +648,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 
 ### Scenario ID: RS-CH9-Q3-ORDER-001
 - **Class:** adversarial / integration order
-- **Summary:** The same actor holds competency clearance against a role-specific competency bar but has an active lock on that pathway. Expected result: violation remedy and locks are decided first; the granted contribution clearance cannot open the blocked pathway.
+- **Summary:** The same actor holds competency clearance against a role-specific competency bar but has an active lock on that named pathway. Expected result: violation remedy and locks are decided first; the granted contribution clearance cannot open the blocked named pathway.
 - **Read with:** [Chapter Ten §2](core_10_standing_integration.md#2-automatic-integration-review-and-continuity); [Chapter Ten §6.2](core_10_standing_integration.md#62-competency-bars-and-clearances); [Chapter Ten §7](core_10_standing_integration.md#7-final-standing-effect).
 
 ### Scenario ID: RS-CH9-Q3-RECENCY-001
@@ -662,7 +662,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 - **Read with:** [Chapter Ten §5.5](core_10_standing_integration.md#55-special-locks); [Chapter Ten §8](core_10_standing_integration.md#8-restoration-and-reassessment); [CF-4.5](corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md#cf-45-recusal-triggers).
 
 ### Scenario ID: RS-CH9-Q3-STAKEHOLDER-LOCK-001
-- **Class:** adversarial / pathway separation
+- **Class:** adversarial / named-pathway separation
 - **Summary:** An actor is verified to have inflated stake claims and coerced participation weight inside an authorized system. An operator seeks to suspend the actor's governance-voting entitlement instead of attaching a stakeholder-participation lock. Expected result: reject substitution; attach the Stakeholder-Participation Standing Lock to the stake-weighted pathway; do not strip governance-voting or Foundational Constitutional Choice by that finding alone; do not erase stakeholder status.
 - **Read with:** [Chapter Ten §4.2](core_10_standing_integration.md#42-prevention--general-standing-locks); [Chapter Ten §5.5](core_10_standing_integration.md#55-special-locks); [Chapter Ten §10.12](core_10_standing_integration.md#1012-stakeholder-participation-corruption-or-false-stake-abuse); [Chapter Thirteen §4.1](core_13_governance.md#41-entitlement-and-eligibility).
 
@@ -688,7 +688,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 
 ### Scenario ID: RS-XXIV-C-BIZ-001
 - **Class:** implementation / timely-resolution vignette
-- **Summary:** Tier B misaligned business: Q1 records verified exit lock-in and externalized harm; **Exit and Lock-In Misconduct** + **System Misconduct** are measured under Q2; pathway-scoped and concealment-escalated locks follow under Q3; optional **Chapter Eleven** Q2 gravity review. Forum-family escalation and coordination complexity may extend later-stage windows without reclassifying urgency; Chapter Eleven / slot 7–9 review is typically **Tier A**, not **Tier C**. Vignette: [core_09-12_application_vignettes.md](core_09-12_application_vignettes.md#3-misaligned-business--exit-lock-in-and-externalized-harm-tier-b).
+- **Summary:** Tier B misaligned business: Q1 records verified exit lock-in and externalized harm; **Exit and Lock-In Misconduct** + **System Misconduct** are measured under Q2; named-pathway-scoped and concealment-escalated locks follow under Q3; optional **Chapter Eleven** Q2 gravity review. Forum-family escalation and coordination complexity may extend later-stage windows without reclassifying urgency; Chapter Eleven / slot 7–9 review is typically **Tier A**, not **Tier C**. Vignette: [core_09-12_application_vignettes.md](core_09-12_application_vignettes.md#3-misaligned-business--exit-lock-in-and-externalized-harm-tier-b).
 - **Read with:** [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor); [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Ten §9.4](core_10_standing_integration.md#94-anti-evasion-and-look-through-authority); **CF-11.3.1**.
 
 ### Scenario ID: RS-XXIV-C-DELAY-001

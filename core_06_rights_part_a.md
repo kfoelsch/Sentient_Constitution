@@ -385,8 +385,8 @@ Chapter Five defines [Ecological Footprint](core_05_band_continuity.md#ecologica
 - **Key terms:** This Article turns on two terms defined in Chapter Five:
   - **[Existential Risk](core_05_band_continuity.md#existential-risk):** the risk of harm large enough to threaten civilization-scale or survival-critical layers of sentient life, including rare, low-probability paths that would be catastrophic if they occurred. It does not cover ordinary local harm, reversible operational incidents, or routine safety issues.
   - **[Ecological Recovery Capacity](core_05_band_continuity.md#ecological-recovery-capacity-constitutional):** the ability of ecosystems, living systems, and the environmental preconditions they support to regenerate, restore function, and keep sustaining sentient life after severe harm, depletion, or disruption. It does not mean operational system restore after a fault ([Self-Healing](core_05_band_continuity.md#self-healing-constitutional)), rollback of specific states ([Reversibility](core_05_band_continuity.md#reversibility-constitutional)), or commercial cost recovery.
-- **Scrutiny trigger:** Review under [highest scrutiny](core_05_band_oversight.md#highest-scrutiny) is mandatory where a system, policy, infrastructure, coordinated activity, or governance decision creates a credible pathway to **Existential Risk** or to irreversible loss of **Ecological Recovery Capacity**.
-  - This rule applies even when the pathway is low-probability, delayed, cumulative, threshold-dependent, or disputed in timing.
+- **Scrutiny trigger:** Review under [highest scrutiny](core_05_band_oversight.md#highest-scrutiny) is mandatory where a system, policy, infrastructure, coordinated activity, or governance decision creates a credible causal pathway to **Existential Risk** or to irreversible loss of **Ecological Recovery Capacity**.
+  - This rule applies even when the causal pathway is low-probability, delayed, cumulative, threshold-dependent, or disputed in timing.
 - **Evaluation requirements:** Evaluation must:
   - include direct, indirect, aggregated, adversarial, and cross-system pathways;
   - account for dependency concentration, coordination failure, environmental-precondition degradation, ecological recovery-capacity loss, and systemic lock-in;
@@ -396,7 +396,7 @@ Chapter Five defines [Ecological Footprint](core_05_band_continuity.md#ecologica
 - **Burden and record:** Actors seeking authorization, continuation, or expansion under such conditions must show, under **Chapters Two through Four**, that:
   - they meaningfully considered materially safer, reasonably effective alternatives;
   - mitigation and interruption measures are proportionate to the scale of possible harm;
-  - monitoring is in place and the pathway can be reversed or interrupted if harm materializes.
+  - monitoring is in place and the causal pathway can be reversed or interrupted if harm materializes.
   
   Decision records must openly state uncertainty, assumptions, evidence limits, disagreement, and material gaps.
 - **Present benefit limit:** Present benefit does not justify disproportionate exposure of future sentients, systems critical to ecological recovery, or life-supporting ecological conditions to civilization-scale or survival-critical harm.
@@ -842,7 +842,7 @@ Cross-reference: **Article XXVI-D** (*Non-Compliant Property and Systems; Volunt
   
   Compensation schemes whose effects track **Protected Characteristics** or their material proxies under **Protected Characteristic Proxying and Disparate Impact** are non-compliant.
 - **Collective organization:** Sentients have the right to form, join, participate in, and act through collective-organization pathways for the purpose of contesting and shaping the terms of productive activity.
-  - Pathways in scope include unions, cooperatives, guilds, associations, worker councils, and comparable substrate-agnostic forms.
+  - Collective-organization pathways in scope include unions, cooperatives, guilds, associations, worker councils, and comparable substrate-agnostic forms.
   - Retaliation, surveillance, or targeting of collective-organization activity is non-compliant, consistent with **Article IX-B** (*Stakeholder Role and Participation Rights*) and **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits.
   - Reclassifying workers into categories designed to defeat collective-organization pathways is non-compliant, regardless of the formal classification label.
 - **Labor mobility:** Non-compete and no-poach agreements are prohibited in any form, scope, or duration. They may not be imposed in employment, operator, steward, platform, or comparable productive-activity arrangements. Wage-fixing, excessive non-solicitation, and other mobility-restricting terms that suppress fair bargaining or productive mobility remain non-compliant where they materially degrade this floor.

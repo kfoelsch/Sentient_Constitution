@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-09-23T22:07:52+00:00",
+  "generated_at": "2026-09-23T23:48:47+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 469,
@@ -4446,7 +4446,7 @@
           "anchor": "#chapter-eleven-part-b-anti-constitutional-misconduct-pattern-applications"
         },
         {
-          "header": "5. Pattern applications and criteria routing — Participation and pathway integrity",
+          "header": "5. Pattern applications and criteria routing — Participation and accountability-pathway integrity",
           "level": 3,
           "line_start": 26,
           "line_end": 44,
@@ -5455,13 +5455,13 @@
       ]
     },
     "core_06_rights_part_c.md": {
-      "total_lines": 2202,
+      "total_lines": 2203,
       "sections": [
         {
           "header": "CHAPTER SIX: FOUNDATIONAL RIGHTS",
           "level": 1,
           "line_start": 1,
-          "line_end": 2202,
+          "line_end": 2203,
           "anchor": null
         },
         {
@@ -5678,7 +5678,7 @@
           "header": "Article XVIII: Standing and Participation Status",
           "level": 3,
           "line_start": 1310,
-          "line_end": 1552,
+          "line_end": 1553,
           "anchor": "#article-xviii-standing-and-participation-status"
         },
         {
@@ -5692,133 +5692,133 @@
           "header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
           "level": 4,
           "line_start": 1414,
-          "line_end": 1477,
+          "line_end": 1478,
           "anchor": "#anti-substitution-sentience-status-xviii"
         },
         {
-          "header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
+          "header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
           "level": 4,
-          "line_start": 1478,
-          "line_end": 1530,
-          "anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit"
+          "line_start": 1479,
+          "line_end": 1531,
+          "anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit"
         },
         {
           "header": "Article XVIII-D: Movement, Migration, Refuge, and Non-Statelessness Routing",
           "level": 4,
-          "line_start": 1531,
-          "line_end": 1552,
+          "line_start": 1532,
+          "line_end": 1553,
           "anchor": "#article-xviii-d-movement-migration-and-refuge"
         },
         {
           "header": "Article XIX: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
           "level": 3,
-          "line_start": 1553,
-          "line_end": 1782,
+          "line_start": 1554,
+          "line_end": 1783,
           "anchor": "#article-xix-interoperability-portability-and-exit-integrity"
         },
         {
           "header": "Article XIX-A: Portability Rights",
           "level": 4,
-          "line_start": 1607,
-          "line_end": 1634,
+          "line_start": 1608,
+          "line_end": 1635,
           "anchor": null
         },
         {
           "header": "Article XIX-B: Reciprocal Interoperability Boundaries",
           "level": 4,
-          "line_start": 1635,
-          "line_end": 1658,
+          "line_start": 1636,
+          "line_end": 1659,
           "anchor": null
         },
         {
           "header": "Article XIX-C: Anti-Lock-In Rule",
           "level": 4,
-          "line_start": 1659,
-          "line_end": 1687,
+          "line_start": 1660,
+          "line_end": 1688,
           "anchor": null
         },
         {
           "header": "Article XIX-D: Movement, Migration, Refuge, and Non-Statelessness",
           "level": 4,
-          "line_start": 1688,
-          "line_end": 1782,
+          "line_start": 1689,
+          "line_end": 1783,
           "anchor": null
         },
         {
           "header": "Article XX: Comprehensibility and Complexity Stewardship",
           "level": 3,
-          "line_start": 1783,
-          "line_end": 1902,
+          "line_start": 1784,
+          "line_end": 1903,
           "anchor": null
         },
         {
           "header": "Article XX-A: Proportional Comprehensibility Right",
           "level": 4,
-          "line_start": 1835,
-          "line_end": 1867,
+          "line_start": 1836,
+          "line_end": 1868,
           "anchor": null
         },
         {
           "header": "Article XX-B: Complexity Audit and Modularity Requirements",
           "level": 4,
-          "line_start": 1868,
-          "line_end": 1902,
+          "line_start": 1869,
+          "line_end": 1903,
           "anchor": "#operative-steward-statement-comprehensibility"
         },
         {
           "header": "Article XXI: Root Cause Analysis and Adaptive Response",
           "level": 3,
-          "line_start": 1903,
-          "line_end": 2009,
+          "line_start": 1904,
+          "line_end": 2010,
           "anchor": "#article-xxi-root-cause-analysis-and-adaptive-response"
         },
         {
           "header": "Article XXI-A: Diagnostic Rigor and Causal Attribution",
           "level": 4,
-          "line_start": 1949,
-          "line_end": 1978,
+          "line_start": 1950,
+          "line_end": 1979,
           "anchor": null
         },
         {
           "header": "Article XXI-B: Auditability, Challenge, and Reversibility Preference",
           "level": 4,
-          "line_start": 1979,
-          "line_end": 2009,
+          "line_start": 1980,
+          "line_end": 2010,
           "anchor": null
         },
         {
           "header": "Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
           "level": 3,
-          "line_start": 2010,
-          "line_end": 2202,
+          "line_start": 2011,
+          "line_end": 2203,
           "anchor": "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards"
         },
         {
           "header": "Article XXII-A: Bounded Interpretive Mandate",
           "level": 4,
-          "line_start": 2056,
-          "line_end": 2089,
+          "line_start": 2057,
+          "line_end": 2090,
           "anchor": null
         },
         {
           "header": "Article XXII-B: Composition, Rotation, and Conflict Controls",
           "level": 4,
-          "line_start": 2090,
-          "line_end": 2122,
+          "line_start": 2091,
+          "line_end": 2123,
           "anchor": "#article-xxii-b-composition-rotation-and-conflict-controls"
         },
         {
           "header": "Article XXII-C: Public Reasons, Challenge Rights, and External Review",
           "level": 4,
-          "line_start": 2123,
-          "line_end": 2163,
+          "line_start": 2124,
+          "line_end": 2164,
           "anchor": null
         },
         {
           "header": "Article XXII-D: Removal for Cause and Non-Entrenchment",
           "level": 4,
-          "line_start": 2164,
-          "line_end": 2202,
+          "line_start": 2165,
+          "line_end": 2203,
           "anchor": null
         }
       ]
@@ -6112,13 +6112,13 @@
       ]
     },
     "core_15_expansion_supremacy.md": {
-      "total_lines": 267,
+      "total_lines": 269,
       "sections": [
         {
           "header": "CHAPTER FIFTEEN: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS",
           "level": 1,
           "line_start": 2,
-          "line_end": 267,
+          "line_end": 269,
           "anchor": "#chapter-fifteen-expansion-supremacy-and-external-legal-orders"
         },
         {
@@ -6167,42 +6167,42 @@
           "header": "4. Disputes Involving External Legal Orders",
           "level": 3,
           "line_start": 147,
-          "line_end": 193,
+          "line_end": 195,
           "anchor": null
         },
         {
           "header": "4.1 Good-Faith Cooperation",
           "level": 4,
           "line_start": 162,
-          "line_end": 177,
+          "line_end": 179,
           "anchor": null
         },
         {
-          "header": "4.2 Preserved Internal Pathways",
+          "header": "4.2 Preserved Internal Review Pathways",
           "level": 4,
-          "line_start": 178,
-          "line_end": 193,
-          "anchor": null
+          "line_start": 180,
+          "line_end": 195,
+          "anchor": "#42-preserved-internal-pathways"
         },
         {
           "header": "5. Relation to Applicable External Law",
           "level": 3,
-          "line_start": 194,
-          "line_end": 267,
+          "line_start": 196,
+          "line_end": 269,
           "anchor": null
         },
         {
           "header": "5.1 Non-Displacement and Limited Binding Effect",
           "level": 4,
-          "line_start": 209,
-          "line_end": 239,
+          "line_start": 211,
+          "line_end": 241,
           "anchor": null
         },
         {
           "header": "5.2 Alignment When Used Within External Legal Frameworks",
           "level": 4,
-          "line_start": 240,
-          "line_end": 267,
+          "line_start": 242,
+          "line_end": 269,
           "anchor": null
         }
       ]
@@ -9016,7 +9016,7 @@
       "total_lines": 182,
       "sections": [
         {
-          "header": "CI-8: Transparency, participation, and accessible pathways",
+          "header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
           "level": 1,
           "line_start": 1,
           "line_end": 182,
@@ -10297,13 +10297,13 @@
       ]
     },
     "corpus_forum/cf_11_performance_backlog_publication_accessibility.md": {
-      "total_lines": 443,
+      "total_lines": 445,
       "sections": [
         {
           "header": "CF-11: Forum performance, backlog requirements, publication timeliness, and accessibility",
           "level": 1,
           "line_start": 1,
-          "line_end": 443,
+          "line_end": 445,
           "anchor": null
         },
         {
@@ -10394,42 +10394,42 @@
           "header": "CF-11.6 Forum-performance review cadence",
           "level": 2,
           "line_start": 320,
-          "line_end": 353,
+          "line_end": 355,
           "anchor": null
         },
         {
           "header": "CF-11.6.1 Assurance scenarios",
           "level": 3,
           "line_start": 333,
-          "line_end": 353,
+          "line_end": 355,
           "anchor": null
         },
         {
-          "header": "CF-11.7 Governance disclosure fields, supporting records, accessibility, and pathway usability",
+          "header": "CF-11.7 Governance disclosure fields, supporting records, accessibility, and challenge-pathway usability",
           "level": 2,
-          "line_start": 354,
-          "line_end": 390,
-          "anchor": null
+          "line_start": 356,
+          "line_end": 392,
+          "anchor": "#cf-117-governance-disclosure-fields-supporting-records-accessibility-and-pathway-usability"
         },
         {
           "header": "CF-11.8 Contest-integrity monitoring interface",
           "level": 2,
-          "line_start": 391,
-          "line_end": 403,
+          "line_start": 393,
+          "line_end": 405,
           "anchor": null
         },
         {
           "header": "CF-11.9 Non-compliant performance patterns",
           "level": 2,
-          "line_start": 404,
-          "line_end": 418,
+          "line_start": 406,
+          "line_end": 420,
           "anchor": null
         },
         {
           "header": "CF-11.10 Lived conditions during restriction and re-entry alignment (cross-layer)",
           "level": 2,
-          "line_start": 419,
-          "line_end": 443,
+          "line_start": 421,
+          "line_end": 445,
           "anchor": null
         }
       ]

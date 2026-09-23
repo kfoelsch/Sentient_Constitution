@@ -371,18 +371,18 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 **Topic group members.** This group comprises:
 - [Accountability](core_05_apex_accountability_leg.md#accountability) — attribution of responsibility.
 - [Contestability](core_05_band_accountability.md#contestability) — ability to challenge and seek remedy.
-- [Adjudication and Dispute Resolution](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) — formal pathways for resolving disputes.
+- [Adjudication and Dispute Resolution](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) — formal dispute-resolution pathways.
 - [Due Process](core_05_band_accountability.md#due-process-constitutional) — fair and reviewable process for materially rights-affecting decisions and outcomes.
 - [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional) — principle-layer responsiveness across the coordination lifecycle.
 - [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional) — resolution within materiality-scaled windows.
-- [Merits Determination](core_05_band_accountability.md#merits-determination) — binding substantive dispositions in those pathways.
+- [Merits Determination](core_05_band_accountability.md#merits-determination) — binding substantive dispositions in those dispute-resolution pathways.
 - [Stay](core_05_band_accountability.md#stay) — temporary pause or reliance-limit orders pending further review.
 - [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional) — materially relevant action traceable to identifiable responsible actors.
 - [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional) — attribution chains resistant to obscuring, ambiguity, tampering, and repudiation.
 - [Negligence](core_05_band_accountability.md#negligence) — reasonably avoidable failures of care that produce material harm.
 - [Collective Accountability Failure](core_05_band_accountability.md#collective-accountability-failure) — care failures under diffused or collective responsibility.
 - [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional) — acknowledgment and proportionate correction.
-- [Remedy System](core_05_band_accountability.md#remedy-system-constitutional) — the lasting capacity that makes those pathways work.
+- [Remedy System](core_05_band_accountability.md#remedy-system-constitutional) — the lasting capacity that makes those dispute-resolution pathways work.
 - [Restorative Justice](core_05_band_accountability.md#restorative-justice) — restorative priority where required.
 - [Force Majeure](core_05_band_accountability.md#force-majeure-constitutional) — exceptional external disruptions.
 - [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways) — protection against capture of outcome-determination mechanisms.
@@ -478,7 +478,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 *In plain terms: parties affected by a system or decision must have a real way to challenge it, get it reviewed, and seek correction and remedy.*
 
 - **What it is**
-  - **In scope:** The practical ability of affected parties to challenge system behavior or decisions, obtain review, seek correction, and use working pathways to [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional).
+  - **In scope:** The practical ability of affected parties to challenge system behavior or decisions, obtain review, seek correction, and use working remedy pathways to [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional).
   - **Out of scope:** mere complaint inbox not claimed as a review pathway, or ordinary feedback outside challenge, review, and correction.
 <a id="contestability-a"></a>
 - **How to measure and assess**
@@ -518,7 +518,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 *In plain terms: accessible and impartial ways to resolve claims that rights or constitutional requirements were violated, with fair process, reasoned decisions, timely outcomes, and remedies that fit the findings.*
 
 - **What it is**
-  - **In scope:** Impartial, accessible pathways for reviewing and resolving claims that systems or actors violated rights or constitutional requirements. Those pathways must:
+  - **In scope:** Impartial, accessible dispute-resolution pathways for reviewing and resolving claims that systems or actors violated rights or constitutional requirements. Those dispute-resolution pathways must:
     - produce timely, reasoned outcomes consistent with [Due Process](core_05_band_accountability.md#due-process-constitutional) and [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional); and
     - provide remedies proportionate to the findings under [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional).
   - **Adjudicator:** <a id="adjudicator"></a> An `adjudicator` is a sentient, panel member, judicial officer, or equivalent authorized decision-maker with lawful authority to:
@@ -610,7 +610,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 <br>
 
-*In plain terms: resolve serious constitutional disputes and deliver proportionate remedies within deadlines that match the stakes, without avoidable delay, exhaustion tactics, or captured pathways — and without sacrificing fact-checking or appeal rights for speed.*
+*In plain terms: resolve serious constitutional disputes and deliver proportionate remedies within deadlines that match the stakes, without avoidable delay, exhaustion tactics, or captured resolution pathways — and without sacrificing fact-checking or appeal rights for speed.*
 
 - **What it is**
   - **In scope:** Resolve material constitutional disputes, verify standing records, and provide proportionate remedies within the materiality-scaled windows in **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Outcomes must be verified and must avoid unnecessary delay, tactics that exhaust participants, and capture of resolution pathways.
@@ -956,7 +956,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
 
     **Primary assessment:** Apply [Chapter Ten §9 Enforcement realism and remedy systems](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems), [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional), [Contestability](core_05_band_accountability.md#contestability), [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional), and [Psychological Harm](core_05_band_accountability.md#psychological-harm) where trauma is materially implicated. Look for:
-    - paper-only pathways;
+    - paper-only remedy pathways;
     - deliberately created backlog;
     - inaccessible intake;
     - missing or inaccessible trauma-resolution or physical-trauma-recovery capacity;
@@ -1097,9 +1097,9 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Secondary measure:** [System Capture](core_05_band_continuity.md#system-capture), [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional), [Contestability](core_05_band_accountability.md#contestability), and [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional) — co-measures that can defeat pathway integrity even when formal dispute channels exist.
 
     **Secondary assessment:** When evaluating the primary trace, apply [System Capture](core_05_band_continuity.md#system-capture) and [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional) under [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
-  - **Tertiary measure:** [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — where settlement prices, odds, or resolution metrics substitute for independent pathway discipline.
+  - **Tertiary measure:** [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — where settlement prices, odds, or resolution metrics substitute for independent resolution-pathway discipline.
 
-    **Tertiary assessment:** When operators rely on prices, odds, or the authority of an outcome-resolution source, apply [Proxy Divergence](core_05_band_oversight.md#proxy-divergence). Separate lasting pathway integrity from a captured outcome-resolution source.
+    **Tertiary assessment:** When operators rely on prices, odds, or the authority of an outcome-resolution source, apply [Proxy Divergence](core_05_band_oversight.md#proxy-divergence). Separate lasting resolution-pathway integrity from a captured outcome-resolution source.
 <a id="capture-of-resolution-pathways-c"></a>
 - **What must hold**
   - **Primary failure:** Parties with a material stake control, bias, or make the resolution system impossible to audit. A capture label that does not reflect actual bias or control in the matter this Constitution governs is also non-compliant.
@@ -1265,7 +1265,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
     **Primary assessment:** Apply [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), [Accountability](core_05_apex_accountability_leg.md#accountability), [Contestability](core_05_band_accountability.md#contestability), [Proportionality](core_05_band_accountability.md#proportionality), [Necessity](core_05_band_accountability.md#necessity), and [System Capture](core_05_band_continuity.md#system-capture). Check whether authority is distributed, bounded, and reviewable in proportion to the [material stake](core_00_preamble.md#material-stake). Identify [Short-Horizon Governance Defect](core_05_band_continuity.md#short-horizon-governance-defect-constitutional) when Governance optimizes immediate results without checking them again against medium- and long-term constitutional outcomes. Designated incorporated Governance implementation may add detail but must not narrow this definition.
 <a id="governance-c"></a>
 - **What must hold**
-  - A claimed Governance arrangement remains in scope for evaluation when it seeks to seize, displace, bypass, or materially obstruct authority assigned through a valid constitutional authorization pathway. This rule does not prohibit challenge, review, amendment, replacement, or emergency action carried out through constitutionally authorized pathways.
+  - A claimed Governance arrangement remains in scope for evaluation when it seeks to seize, displace, bypass, or materially obstruct authority assigned through a valid constitutional authorization pathway. This rule does not prohibit challenge, review, amendment, replacement, or emergency action carried out through constitutionally authorized challenge, review, amendment, replacement, or emergency pathways.
   - **Primary failure:**
     - Governance arrangements that materially:
       - negate required [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), [Contestability](core_05_band_accountability.md#contestability), or [Accountability](core_05_apex_accountability_leg.md#accountability);
@@ -1793,14 +1793,14 @@ The following limits also apply:
 
 <br>
 
-*In plain terms: harm is a material worsening of a sentient's life, agency, functioning, or psychological health. Offense, discomfort, or disagreement alone is not harm without a material pathway to such effects.*
+*In plain terms: harm is a material worsening of a sentient's life, agency, functioning, or psychological health. Offense, discomfort, or disagreement alone is not harm without a material causal pathway to such effects.*
 
 - **What it is**
   - **In scope:** Any effect that materially worsens survival, [Wellbeing](core_05_band_continuity.md#wellbeing), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), functional integrity, or [Psychological Harm](core_05_band_accountability.md#psychological-harm). This includes:
     - acute trauma;
     - long-term psychological destabilization; and
     - materially harmful neglect.
-  - **Out of scope:** Offense, discomfort, or disagreement alone, without a material pathway to worsened survival, wellbeing, agency, functioning, or psychological health.
+  - **Out of scope:** Offense, discomfort, or disagreement alone, without a material causal pathway to worsened survival, wellbeing, agency, functioning, or psychological health.
 <a id="harm-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Flourishing measurement family](core_05_apex_flourishing_aim.md#flourishing-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?*
@@ -1877,7 +1877,7 @@ The following limits also apply:
 - **How to measure and assess**
   - **Primary measure:** [Flourishing measurement family](core_05_apex_flourishing_aim.md#flourishing-measurement-family) and [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Do reward structures, market power, and answerability keep duties real?*
 
-    **Primary assessment:** Assess severity, duration, [Reversibility](core_05_band_continuity.md#reversibility-constitutional), how the harm is distributed, and the [Dependency](core_05_band_continuity.md#dependency) context. Include both sudden and cumulative pathways. Separate ordinary discomfort from constitutionally material harm by examining effects on [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), ability to participate, and [Trust](core_05_band_continuity.md#trust)-relevant stability.
+    **Primary assessment:** Assess severity, duration, [Reversibility](core_05_band_continuity.md#reversibility-constitutional), how the harm is distributed, and the [Dependency](core_05_band_continuity.md#dependency) context. Include both sudden and cumulative harm pathways. Separate ordinary discomfort from constitutionally material harm by examining effects on [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), ability to participate, and [Trust](core_05_band_continuity.md#trust)-relevant stability.
 <a id="psychological-harm-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to cause or leave unaddressed material psychological harm—including trauma-producing patterns or sustained degrading conditions—when a duty and feasible capacity to prevent or mitigate it exist.
@@ -3421,7 +3421,7 @@ See **Joint invocation and satisfaction**.
     - existential-risk scrutiny under **Article I-D** (*Existential Risk and Ecological Recovery Capacity*); or
     - both.
 
-    Foreseeable harm scale and the burden on ecological recovery capacity control, not weapon-class taxonomy alone. Covered pathways include, regardless of substrate:
+    Foreseeable harm scale and the burden on ecological recovery capacity control, not weapon-class taxonomy alone. Covered harm pathways include, regardless of substrate:
     - biological-effect;
     - synthetic-effect;
     - informational;

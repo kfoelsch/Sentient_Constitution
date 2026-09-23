@@ -906,7 +906,7 @@
           "title": "12.3 Misalignment Detection",
           "anchor": "123-misalignment-detection",
           "line": 913,
-          "gloss": "no one gets to be the only sentient who can spot, check, or challenge when governance goes wrong. Detection needs multiple independent pathways, open data and auditing where safety and classification rules allow, and clear escalation when capture or misalignment shows up — not quiet absorption as business as usual. That escalation rule is [§12.3.1 Escalation Triggers](#1231-escalation-triggers).",
+          "gloss": "no one gets to be the only sentient who can spot, check, or challenge when governance goes wrong. Detection needs multiple independent detection pathways, open data and auditing where safety and classification rules allow, and clear escalation when capture or misalignment shows up — not quiet absorption as business as usual. That escalation rule is [§12.3.1 Escalation Triggers](#1231-escalation-triggers).",
           "gloss_line": 936
         },
         {
@@ -1993,7 +1993,7 @@
           "title": "Timely Resolution",
           "anchor": "timely-resolution-constitutional",
           "line": 599,
-          "gloss": "resolve serious constitutional disputes and deliver proportionate remedies within deadlines that match the stakes, without avoidable delay, exhaustion tactics, or captured pathways — and without sacrificing fact-checking or appeal rights for speed.",
+          "gloss": "resolve serious constitutional disputes and deliver proportionate remedies within deadlines that match the stakes, without avoidable delay, exhaustion tactics, or captured resolution pathways — and without sacrificing fact-checking or appeal rights for speed.",
           "gloss_line": 613
         },
         {
@@ -2236,7 +2236,7 @@
           "title": "Harm",
           "anchor": "harm",
           "line": 1784,
-          "gloss": "harm is a material worsening of a sentient's life, agency, functioning, or psychological health. Offense, discomfort, or disagreement alone is not harm without a material pathway to such effects.",
+          "gloss": "harm is a material worsening of a sentient's life, agency, functioning, or psychological health. Offense, discomfort, or disagreement alone is not harm without a material causal pathway to such effects.",
           "gloss_line": 1796
         },
         {
@@ -5420,7 +5420,7 @@
           "title": "6.2 Competency bars and clearances",
           "anchor": "62-competency-bars-and-clearances",
           "line": 585,
-          "gloss": "a competency bar is the published standard for a named pathway. Competency clearance is the standing-effect result that says verified readiness meets that bar. Once clearance is in force and the pathway is open, it stays open by default. Some roles need periodic retesting; technical forums decide which ones. A real change in role-relevant capacity — for example after a stroke or a mental-health condition that impairs needed judgment — can trigger reassessment. Clearance never opens a named pathway that a standing lock still blocks.",
+          "gloss": "a competency bar is the published standard for a named pathway. Competency clearance is the standing-effect result that says verified readiness meets that bar. Once clearance is in force and the named pathway is open, it stays open by default. Some roles need periodic retesting; technical forums decide which ones. A real change in role-relevant capacity — for example after a stroke or a mental-health condition that impairs needed judgment — can trigger reassessment. Clearance never opens a named pathway that a standing lock still blocks.",
           "gloss_line": 587
         },
         {
@@ -5748,10 +5748,10 @@
         {
           "file": "core_11_b_misconduct_pattern_applications.md",
           "level": 3,
-          "title": "5. Pattern applications and criteria routing — Participation and pathway integrity",
+          "title": "5. Pattern applications and criteria routing — Participation and accountability-pathway integrity",
           "anchor": "5-criteria-interactions-and-named-pattern-routing",
           "line": 26,
-          "gloss": "the rest of the chapter applies the same decision model to recurring anti-constitutional patterns. “Participation and pathway integrity” names the **attack targets** — contest, standing, audit, forum, and related pathways — not a catalog of new Chapter Ten lock types. These examples do not create new criteria or new special locks; they show how named conduct routes through the criteria, process safeguards, and chapter boundaries already stated above. Locks stay in Chapter Ten.",
+          "gloss": "the rest of the chapter applies the same decision model to recurring anti-constitutional patterns. “Participation and accountability-pathway integrity” names the **attack targets** — contest, standing, audit, forum, and related accountability pathways — not a catalog of new Chapter Ten lock types. These examples do not create new criteria or new special locks; they show how named conduct routes through the criteria, process safeguards, and chapter boundaries already stated above. Locks stay in Chapter Ten.",
           "gloss_line": 39
         },
         {
@@ -7231,7 +7231,7 @@
           "title": "Article XV-B: Distributed Oversight and Anti-Monopoly Review",
           "anchor": "article-xv-b-distributed-oversight-and-anti-monopoly-review",
           "line": 876,
-          "gloss": "no single actor — public or private — may corner oversight. Multiple independent pathways must be able to find, review, and correct failure or capture.",
+          "gloss": "no single actor — public or private — may corner oversight. Multiple independent oversight pathways must be able to find, review, and correct failure or capture.",
           "gloss_line": 895
         },
         {
@@ -7363,164 +7363,164 @@
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
+          "title": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
           "anchor": "article-xviii-c-good-standing-responsibility-and-continuous-audit",
-          "line": 1478,
+          "line": 1479,
           "gloss": "ordinary participation named pathways stay open under published, contestable eligibility rules based on present evidence — not brand, scale, or past reputation. Opening a trust-sensitive named pathway requires competency clearance against its published competency bar; closing a privilege requires a standing lock on that named pathway. Standing locks cannot permanently strip foundational voice, except that a **final** **Chapter Eleven** classification of **anti-constitutional misconduct** withholds that voice until **full restitution** as stated in [**Chapter Thirteen §4.1**](core_13_governance.md#41-entitlement-and-eligibility).",
-          "gloss_line": 1506
+          "gloss_line": 1507
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XVIII-D: Movement, Migration, Refuge, and Non-Statelessness Routing",
           "anchor": "article-xviii-d-movement-migration-and-refuge",
-          "line": 1531,
+          "line": 1532,
           "gloss": "standing status is not a border, exile, or statelessness tool — you cannot lose movement, refuge, or exit rights just because your role standing dropped or a standing lock blocked trust-sensitive named pathways. Verified violence, coercion, or anti-constitutional misconduct can still lead to lawful detention, custody, or other liberty restrictions under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and full process protections; those are separate justice measures, not a standing-label workaround. If a case involves movement, migration, refuge, portability, recognition, or exit, **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) supplies the governing floor.",
-          "gloss_line": 1543
+          "gloss_line": 1544
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
           "title": "Article XIX: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
           "anchor": "article-xix-interoperability-portability-and-exit-integrity",
-          "line": 1553,
+          "line": 1554,
           "gloss": "**Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) is the exit-and-mobility Rights Floor — you should be able to leave a system or place that no longer serves you, take your data and identity with you, connect to alternatives without being trapped, move between jurisdictions, seek refuge from regimes that violate this Constitution, and never be left without anyone responsible for your basic protections. Exit on paper is not enough: portability, notice, and refuge must work in practice. Tricks that make leaving costly, confusing, or impossible — opaque formats, surprise rule changes, coercive terms, endless paperwork — are violations, not normal business.",
-          "gloss_line": 1578
+          "gloss_line": 1579
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XIX-A: Portability Rights",
           "anchor": "article-xix-a-portability-rights",
-          "line": 1607,
+          "line": 1608,
           "gloss": "data, identity, and operational state must be practically movable — formats, delays, and retaliatory terms cannot be used to trap users.",
-          "gloss_line": 1626
+          "gloss_line": 1627
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XIX-B: Reciprocal Interoperability Boundaries",
           "anchor": "article-xix-b-reciprocal-interoperability-boundaries",
-          "line": 1635,
+          "line": 1636,
           "gloss": "systems that others depend on must publish their integration terms and give real notice before narrowing them.",
-          "gloss_line": 1654
+          "gloss_line": 1655
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XIX-C: Anti-Lock-In Rule",
           "anchor": "article-xix-c-anti-lock-in-rule",
-          "line": 1659,
+          "line": 1660,
           "gloss": "\"features\" that exist mainly to make leaving difficult are violations, not business strategy.",
-          "gloss_line": 1678
+          "gloss_line": 1679
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XIX-D: Movement, Migration, Refuge, and Non-Statelessness",
           "anchor": "article-xix-d-movement-migration-refuge-and-non-statelessness",
-          "line": 1688,
+          "line": 1689,
           "gloss": "every sentient may move between jurisdictions, may seek refuge from regimes that violate this Constitution, and may not be left with zero recognizing regime. That is not a mandate that any particular adopter absorb coerced mass outflows — origin regimes keep primary recognition duty, with federation or shared transitional recognition as backup. Bureaucratic delay and arguments that fail Sentience Non-Exclusion cannot be used as hidden denials. Whether climate making a place unlivable is, by itself, a reason to grant refuge is for adopters to decide; this Article does not pick a yes or a no.",
-          "gloss_line": 1718
+          "gloss_line": 1719
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
           "title": "Article XX: Comprehensibility and Complexity Stewardship",
           "anchor": "article-xx-comprehensibility-and-complexity-stewardship",
-          "line": 1783,
+          "line": 1784,
           "gloss": "**Article XX** (*Comprehensibility and Complexity Stewardship*) is the understandability Rights Floor — when a system materially affects your life, you are entitled to actually grasp how it works, what its limits are, and what happens when it fails. Complexity cannot be used as a wall against participation, audit, or accountability. Stewards also may not pile on needless complexity that wastes everyone's time without a real constitutional benefit.",
-          "gloss_line": 1810
+          "gloss_line": 1811
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XX-A: Proportional Comprehensibility Right",
           "anchor": "article-xx-a-proportional-comprehensibility-right",
-          "line": 1835,
+          "line": 1836,
           "gloss": "if a system materially affects **sentients**, operators, stakeholders, and oversight must actually be able to understand how it works and fails — not just specialists.",
-          "gloss_line": 1856
+          "gloss_line": 1857
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XX-B: Complexity Audit and Modularity Requirements",
           "anchor": "article-xx-b-complexity-audit-and-modularity-requirements",
-          "line": 1868,
+          "line": 1869,
           "gloss": "complexity cannot be used — technically, organizationally, contractually, or procedurally — as a wall against audit, contest, or correction.",
-          "gloss_line": 1887
+          "gloss_line": 1888
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
           "title": "Article XXI: Root Cause Analysis and Adaptive Response",
           "anchor": "article-xxi-root-cause-analysis-and-adaptive-response",
-          "line": 1903,
+          "line": 1904,
           "gloss": "**Article XXI** (*Root Cause Analysis and Adaptive Response*) is the find-the-real-problem-and-fix-it-right floor. When something breaks, degrades, or keeps failing, you are entitled to more than a press release or a band-aid. Systems must figure out what actually caused the harm — including causes that show up late or build up over time — address those causes where they can, and leave a record others can check and challenge. Quick containment is allowed; permanent fixes without honest diagnosis are not.",
-          "gloss_line": 1926
+          "gloss_line": 1927
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXI-A: Diagnostic Rigor and Causal Attribution",
           "anchor": "article-xxi-a-diagnostic-rigor-and-causal-attribution",
-          "line": 1949,
+          "line": 1950,
           "gloss": "root-cause findings must be written down, open to challenge, and open to correction — not sealed behind authority.",
-          "gloss_line": 1968
+          "gloss_line": 1969
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXI-B: Auditability, Challenge, and Reversibility Preference",
           "anchor": "article-xxi-b-auditability-challenge-and-reversibility-preference",
-          "line": 1979,
+          "line": 1980,
           "gloss": "when you are not sure, pick the fix you can walk back. Uncertainty cannot be used as a reason to freeze protection or to pretend permanent measures are certain.",
-          "gloss_line": 1998
+          "gloss_line": 1999
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
           "title": "Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
           "anchor": "article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards",
-          "line": 2010,
+          "line": 2011,
           "gloss": "**Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) is the who-gets-to-say-what-the-constitution-means floor. When constitutional questions arise, the answer must come from designated Constitutional forums — not from whoever is loudest, most powerful, or most convenient for the institution. Their rulings have to be written down with real reasons, open to independent challenge, and protected against capture by any single bloc. They cannot expand their own power, shut down review, or use \"restructuring\" to punish dissent.",
-          "gloss_line": 2034
+          "gloss_line": 2035
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXII-A: Bounded Interpretive Mandate",
           "anchor": "article-xxii-a-bounded-interpretive-mandate",
-          "line": 2056,
+          "line": 2057,
           "gloss": "Constitutional forums rule on constitutional questions, not on everything. They cannot quietly expand their own turf or shut down challenge pathways.",
-          "gloss_line": 2076
+          "gloss_line": 2077
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXII-B: Composition, Rotation, and Conflict Controls",
           "anchor": "article-xxii-b-composition-rotation-and-conflict-controls",
-          "line": 2090,
+          "line": 2091,
           "gloss": "no single bloc may control **Constitutional forums** — the bodies that decide what the Constitution means. The sentients who sit on those panels, and the authorities that appoint them, must disclose conflicts in real time. Vacancy, rotation, and recusal rules must not be used to rig outcomes. If a panelist stays on a case while materially compromised, that can count as serious misconduct — and the dispute goes to **Integrity** forums first, not back to the same **Constitutional** panel to judge itself.",
-          "gloss_line": 2110
+          "gloss_line": 2111
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXII-C: Public Reasons, Challenge Rights, and External Review",
           "anchor": "article-xxii-c-public-reasons-challenge-rights-and-external-review",
-          "line": 2123,
+          "line": 2124,
           "gloss": "interpretive decisions must be published with real reasons and are open to structurally independent review — not re-reviewed by the same body that made them. On a regular schedule, **Integrity** forums also conduct mandatory outside checkups on **Constitutional** forums for capture, decision quality, and Rights-Floor integrity.",
-          "gloss_line": 2142
+          "gloss_line": 2143
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXII-D: Removal for Cause and Non-Entrenchment",
           "anchor": "article-xxii-d-removal-for-cause-and-non-entrenchment",
-          "line": 2164,
+          "line": 2165,
           "gloss": "**Constitutional forum** panelists can be removed for real cause through due process — but **appointing authorities** and **adopting institutions** must not use \"removal,\" \"restructuring,\" or \"redesign\" as weapons against forum independence or dissent.",
-          "gloss_line": 2183
+          "gloss_line": 2184
         }
       ]
     },
@@ -7989,38 +7989,38 @@
         {
           "file": "core_15_expansion_supremacy.md",
           "level": 4,
-          "title": "4.2 Preserved Internal Pathways",
-          "anchor": "42-preserved-internal-pathways",
-          "line": 178,
+          "title": "4.2 Preserved Internal Review Pathways",
+          "anchor": "42-preserved-internal-review-pathways",
+          "line": 180,
           "gloss": "if an outside process cannot deliver timely, real protection, the constitution's own review and appeal routes stay open — boilerplate waivers demanded just to use a product or service do not erase those rights where the chapter applies.",
-          "gloss_line": 190
+          "gloss_line": 192
         },
         {
           "file": "core_15_expansion_supremacy.md",
           "level": 3,
           "title": "5. Relation to Applicable External Law",
           "anchor": "5-relation-to-applicable-external-law",
-          "line": 194,
+          "line": 196,
           "gloss": "this Constitution is not a secret override of city, national, or international law. Publishing it, reading it, or using it as a guide does not make it supreme. A body can bind itself only by adopting through Chapter Sixteen, and only as far as that body already has lawful authority to bind itself. If you use it inside someone else’s legal order, the processes here have to be runnable without breaking that order — and you may not use “the other law is weaker” or “the other law forbids this” as a way to hollow out floors this Constitution still requires.",
-          "gloss_line": 207
+          "gloss_line": 209
         },
         {
           "file": "core_15_expansion_supremacy.md",
           "level": 4,
           "title": "5.1 Non-Displacement and Limited Binding Effect",
           "anchor": "51-non-displacement-and-limited-binding-effect",
-          "line": 209,
+          "line": 211,
           "gloss": "the document does not repeal other law just by existing. Adoption makes it binding for the adopting body, inside that body’s lawful reach and the recorded scope — not a claim that every other legal order has been replaced.",
-          "gloss_line": 221
+          "gloss_line": 223
         },
         {
           "file": "core_15_expansion_supremacy.md",
           "level": 4,
           "title": "5.2 Alignment When Used Within External Legal Frameworks",
           "anchor": "52-alignment-when-used-within-external-legal-frameworks",
-          "line": 240,
+          "line": 242,
           "gloss": "if you are using this Constitution inside a company, university, protocol, city, or other body that already lives under other law, the certification, standing, contest, and participation processes here have to be ones you can actually run without violating that law — and you still may not use the outside rulebook as cover to skip floors this Constitution requires where they can be honored together.",
-          "gloss_line": 252
+          "gloss_line": 254
         }
       ]
     },

@@ -620,7 +620,7 @@ sentients who run shared systems need real jobs with real skill and real say —
 
 ##### 12.3 Misalignment Detection
 
-no one gets to be the only sentient who can spot, check, or challenge when governance goes wrong. Detection needs multiple independent pathways, open data and auditing where safety and classification rules allow, and clear escalation when capture or misalignment shows up — not quiet absorption as business as usual. That escalation rule is [§12.3.1 Escalation Triggers](../../core_01_c_stewardship_capacity_principles.md#1231-escalation-triggers).
+no one gets to be the only sentient who can spot, check, or challenge when governance goes wrong. Detection needs multiple independent detection pathways, open data and auditing where safety and classification rules allow, and clear escalation when capture or misalignment shows up — not quiet absorption as business as usual. That escalation rule is [§12.3.1 Escalation Triggers](../../core_01_c_stewardship_capacity_principles.md#1231-escalation-triggers).
 
 [Source](../../core_01_c_stewardship_capacity_principles.md#123-misalignment-detection)
 
@@ -1264,7 +1264,7 @@ decisions that materially affect rights must use a fair, accessible, and reviewa
 
 ##### Timely Resolution
 
-resolve serious constitutional disputes and deliver proportionate remedies within deadlines that match the stakes, without avoidable delay, exhaustion tactics, or captured pathways — and without sacrificing fact-checking or appeal rights for speed.
+resolve serious constitutional disputes and deliver proportionate remedies within deadlines that match the stakes, without avoidable delay, exhaustion tactics, or captured resolution pathways — and without sacrificing fact-checking or appeal rights for speed.
 
 [Source](../../core_05_band_accountability.md#timely-resolution-constitutional)
 
@@ -1426,7 +1426,7 @@ adopters set the point at which too much control over a market, platform, infras
 
 ###### Harm
 
-harm is a material worsening of a sentient's life, agency, functioning, or psychological health. Offense, discomfort, or disagreement alone is not harm without a material pathway to such effects.
+harm is a material worsening of a sentient's life, agency, functioning, or psychological health. Offense, discomfort, or disagreement alone is not harm without a material causal pathway to such effects.
 
 [Source](../../core_05_band_accountability.md#harm)
 
@@ -3468,7 +3468,7 @@ how much does an older verified contribution still say about present competence 
 
 ##### 6.2 Competency bars and clearances
 
-a competency bar is the published standard for a named pathway. Competency clearance is the standing-effect result that says verified readiness meets that bar. Once clearance is in force and the pathway is open, it stays open by default. Some roles need periodic retesting; technical forums decide which ones. A real change in role-relevant capacity — for example after a stroke or a mental-health condition that impairs needed judgment — can trigger reassessment. Clearance never opens a named pathway that a standing lock still blocks.
+a competency bar is the published standard for a named pathway. Competency clearance is the standing-effect result that says verified readiness meets that bar. Once clearance is in force and the named pathway is open, it stays open by default. Some roles need periodic retesting; technical forums decide which ones. A real change in role-relevant capacity — for example after a stroke or a mental-health condition that impairs needed judgment — can trigger reassessment. Clearance never opens a named pathway that a standing lock still blocks.
 
 [Source](../../core_10_standing_integration.md#62-competency-bars-and-clearances)
 
@@ -3672,9 +3672,9 @@ a public apology in an anti-constitutional misconduct case must meet Chapter Ten
 
 Source file: [`core_11_b_misconduct_pattern_applications.md`](../../core_11_b_misconduct_pattern_applications.md) · 12/14 headings glossed
 
-#### 5. Pattern applications and criteria routing — Participation and pathway integrity
+#### 5. Pattern applications and criteria routing — Participation and accountability-pathway integrity
 
-the rest of the chapter applies the same decision model to recurring anti-constitutional patterns. “Participation and pathway integrity” names the **attack targets** — contest, standing, audit, forum, and related pathways — not a catalog of new Chapter Ten lock types. These examples do not create new criteria or new special locks; they show how named conduct routes through the criteria, process safeguards, and chapter boundaries already stated above. Locks stay in Chapter Ten.
+the rest of the chapter applies the same decision model to recurring anti-constitutional patterns. “Participation and accountability-pathway integrity” names the **attack targets** — contest, standing, audit, forum, and related accountability pathways — not a catalog of new Chapter Ten lock types. These examples do not create new criteria or new special locks; they show how named conduct routes through the criteria, process safeguards, and chapter boundaries already stated above. Locks stay in Chapter Ten.
 
 [Source](../../core_11_b_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing)
 
@@ -4624,7 +4624,7 @@ systems must keep enough honest evidence of what they do for an outside party to
 
 ##### Article XV-B: Distributed Oversight and Anti-Monopoly Review
 
-no single actor — public or private — may corner oversight. Multiple independent pathways must be able to find, review, and correct failure or capture.
+no single actor — public or private — may corner oversight. Multiple independent oversight pathways must be able to find, review, and correct failure or capture.
 
 [Source](../../core_06_rights_part_c.md#article-xv-b-distributed-oversight-and-anti-monopoly-review)
 
@@ -4712,7 +4712,7 @@ standing records, competency bars, competency clearances, and standing locks mus
 
 [Source](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits)
 
-##### Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit
+##### Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit
 
 ordinary participation named pathways stay open under published, contestable eligibility rules based on present evidence — not brand, scale, or past reputation. Opening a trust-sensitive named pathway requires competency clearance against its published competency bar; closing a privilege requires a standing lock on that named pathway. Standing locks cannot permanently strip foundational voice, except that a **final** **Chapter Eleven** classification of **anti-constitutional misconduct** withholds that voice until **full restitution** as stated in [**Chapter Thirteen §4.1**](../../core_13_governance.md#41-entitlement-and-eligibility).
 
@@ -5100,11 +5100,11 @@ show up in good faith to lawful external processes — and do not weaponize "coo
 
 [Source](../../core_15_expansion_supremacy.md#41-good-faith-cooperation)
 
-##### 4.2 Preserved Internal Pathways
+##### 4.2 Preserved Internal Review Pathways
 
 if an outside process cannot deliver timely, real protection, the constitution's own review and appeal routes stay open — boilerplate waivers demanded just to use a product or service do not erase those rights where the chapter applies.
 
-[Source](../../core_15_expansion_supremacy.md#42-preserved-internal-pathways)
+[Source](../../core_15_expansion_supremacy.md#42-preserved-internal-review-pathways)
 
 #### 5. Relation to Applicable External Law
 

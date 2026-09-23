@@ -95,10 +95,10 @@ dependency integrity and disclosure terms
 <a id="care-respite-and-support-dependency-adequacy"></a>
 Care, respite, and support-dependency adequacy
 
-*In plain terms: where a pathway, institution, or supervised system materially depends on unpaid care, paid care, respite, elder or disability support, substrate maintenance, or comparable dependency labor, the dependency map must treat that support as…*
+*In plain terms: where a service pathway, institution, or supervised system materially depends on unpaid care, paid care, respite, elder or disability support, substrate maintenance, or comparable dependency labor, the dependency map must treat that support as…*
 
 - **What it is**
-  - **In scope:** Where a pathway, institution, or supervised system materially depends on unpaid care, paid care, respite, elder or disability support, substrate maintenance, or comparable dependency labor, the dependency map must treat that support as operational capacity rather than private background. It must identify substitution pathways, respite availability, crisis coverage, accessibility constraints, and whether carers or dependents can access relief without abandonment, retaliation, or unreasonable eligibility burden.
+  - **In scope:** Where a service pathway, institution, or supervised system materially depends on unpaid care, paid care, respite, elder or disability support, substrate maintenance, or comparable dependency labor, the dependency map must treat that support as operational capacity rather than private background. It must identify substitution pathways, respite availability, crisis coverage, accessibility constraints, and whether carers or dependents can access relief without abandonment, retaliation, or unreasonable eligibility burden.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in care, respite, and support-dependency adequacy.
 <a id="care-respite-and-support-dependency-adequacy-a"></a>
 - **How to measure and assess**
@@ -107,7 +107,7 @@ Care, respite, and support-dependency adequacy
     **Primary assessment:** Evaluation must compare funding, staffing, scheduling, accessibility, household or platform dependence, market intermediaries, care-recipient safety, carer exploitation risk, and continuity of support together. Reviewers must verify that dependency concentration, reproductive or embodiment-related labor, and maintenance burdens are visible enough for governance, fiscal, labor, and service-routing decisions, while institutional program design remains with the applicable **CI** owner section.
 <a id="care-respite-and-support-dependency-adequacy-c"></a>
 - **What must hold**
-  - **Primary failure:** A pathway if it claims continuity or access while hiding material care labor, making crisis support practically unavailable, treating reproductive or maintenance labor as an invisible default obligation, or using eligibility, payment, platform, household, or service-routing structures that predictably abandon carers or dependents without proportionate justification and usable remedy.
+  - **Primary failure:** A service pathway if it claims continuity or access while hiding material care labor, making crisis support practically unavailable, treating reproductive or maintenance labor as an invisible default obligation, or using eligibility, payment, platform, household, or service-routing structures that predictably abandon carers or dependents without proportionate justification and usable remedy.
 
 <a id="criticality-and-impact-classification"></a>
 Criticality and impact classification
@@ -344,7 +344,7 @@ Commitment, renewal, and charge-exit integrity
 *In plain terms: paid commitments, renewals, trial-to-paid conversions, recurring charges, subscriptions, memberships, paid tiers, and transaction-linked charges must rest on affirmative, informed commitment where material, must disclose amount, timing,…*
 
 - **What it is**
-  - **In scope:** Paid commitments, renewals, trial-to-paid conversions, recurring charges, subscriptions, memberships, paid tiers, and transaction-linked charges must rest on affirmative, informed commitment where material, must disclose amount, timing, renewal, bundled entitlements, and exit consequences before commitment, and must honor a valid cancellation, downgrade, or withdrawal instruction through the published pathway.
+  - **In scope:** Paid commitments, renewals, trial-to-paid conversions, recurring charges, subscriptions, memberships, paid tiers, and transaction-linked charges must rest on affirmative, informed commitment where material, must disclose amount, timing, renewal, bundled entitlements, and exit consequences before commitment, and must honor a valid cancellation, downgrade, or withdrawal instruction through the published self-service pathway.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in commitment, renewal, and charge-exit integrity.
 <a id="commitment-renewal-and-charge-exit-integrity-a"></a>
 - **How to measure and assess**
@@ -378,7 +378,7 @@ Dependency-based coercion and reputation-lock pathway integrity
 *In plain terms: where dependency, credential control, reputation scoring, platform visibility, housing, care access, workplace leverage, household control, or comparable chokepoints can materially defeat exit, reporting, remedy, or participation, the…*
 
 - **What it is**
-  - **In scope:** Where dependency, credential control, reputation scoring, platform visibility, housing, care access, workplace leverage, household control, or comparable chokepoints can materially defeat exit, reporting, remedy, or participation, the pathway must treat coercive-control patterns as practical routing facts even when no single transaction, contract label, or criminal category captures the whole pattern.
+  - **In scope:** Where dependency, credential control, reputation scoring, platform visibility, housing, care access, workplace leverage, household control, or comparable chokepoints can materially defeat exit, reporting, remedy, or participation, the affected exit, reporting, remedy, or participation pathway must treat coercive-control patterns as practical routing facts even when no single transaction, contract label, or criminal category captures the whole pattern.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in dependency-based coercion and reputation-lock pathway integrity.
 <a id="dependency-based-coercion-and-reputation-lock-pathway-integrity-a"></a>
 - **How to measure and assess**
@@ -387,7 +387,7 @@ Dependency-based coercion and reputation-lock pathway integrity
     **Primary assessment:** Evaluation must compare economic dependence, credential or account custody, data and reputation systems, visibility controls, retaliation risk, access to review, and practical alternatives together. Reviewers must verify that formal labels such as marriage, employment, tenancy, membership, contract, or platform account status do not hide dependency sabotage, isolation, reproductive pressure, reputation threats, or comparable coercive leverage that blocks meaningful exit or remedy.
 <a id="dependency-based-coercion-and-reputation-lock-pathway-integrity-c"></a>
 - **What must hold**
-  - **Primary failure:** A pathway if it recognizes only isolated incidents while ignoring a pattern that functionally blocks exit or challenge; requires a formal relationship label before dependency sabotage can be routed; lets reputation, scoring, or visibility tools trap dependent participants; or treats private association, conscience, household, or community context as a blanket reason to make coercive control illegible.
+  - **Primary failure:** An exit, reporting, remedy, or participation pathway if it recognizes only isolated incidents while ignoring a pattern that functionally blocks exit or challenge; requires a formal relationship label before dependency sabotage can be routed; lets reputation, scoring, or visibility tools trap dependent participants; or treats private association, conscience, household, or community context as a blanket reason to make coercive control illegible.
 
 <a id="digital-self-service-pathway-integrity"></a>
 Digital self-service pathway integrity
@@ -404,7 +404,7 @@ Digital self-service pathway integrity
     **Primary assessment:** Evaluation must compare entry, obligation-increasing, ongoing-management, renewal, downgrade, and exit paths together, including step count, elapsed time, cognitive burden, mediation mode, discoverability, label accuracy, accessibility parity, retention flows, operator-held artifacts, and evidence of obligation release or billing cessation where applicable.
 <a id="digital-self-service-pathway-integrity-c"></a>
 - **What must hold**
-  - **Primary failure:** A pathway if it substitutes choice architecture for informed consent; makes exit, downgrade, renewal control, or obligation management materially harder than entry without a narrow documented exception; requires telephone, postal mail, or in-person-only exit where comparable entry was self-service without a justified basis; hides exit behind unrelated tasks; mislabels continued obligations or charges; uses deceptive urgency, guilt, fear, or repetitive refusal cycles as the primary retention tactic; or denies substantive accessibility parity for exit and obligation management. Where recurring or transaction-linked charges apply, this rule is read with the **primary owner**'s billing-integrity requirements.
+  - **Primary failure:** A self-service pathway if it substitutes choice architecture for informed consent; makes exit, downgrade, renewal control, or obligation management materially harder than entry without a narrow documented exception; requires telephone, postal mail, or in-person-only exit where comparable entry was self-service without a justified basis; hides exit behind unrelated tasks; mislabels continued obligations or charges; uses deceptive urgency, guilt, fear, or repetitive refusal cycles as the primary retention tactic; or denies substantive accessibility parity for exit and obligation management. Where recurring or transaction-linked charges apply, this rule is read with the **primary owner**'s billing-integrity requirements.
 
 <a id="exit-feasibility-disclosure-and-dependency-transparency"></a>
 Exit-feasibility disclosure and dependency transparency
@@ -429,7 +429,7 @@ High-vulnerability personal-service pathway integrity
 *In plain terms: where an implementation scope governs lawful personal services with heightened vulnerability, bodily proximity, in-home or isolated work, care dependence, migration or language stressors, platform matching, payments, reputation,…*
 
 - **What it is**
-  - **In scope:** Where an implementation scope governs lawful personal services with heightened vulnerability, bodily proximity, in-home or isolated work, care dependence, migration or language stressors, platform matching, payments, reputation, visibility, licensing, housing, or comparable dependency chokepoints, the pathway must preserve lawful access, practical exit, non-retaliatory reporting, proportionate due care, and anti-pretext separation between ordinary regulation and exploitation response. Comparable lawful personal services should use comparable regulatory families unless documented necessity and proportionality justify differentiation.
+  - **In scope:** Where an implementation scope governs lawful personal services with heightened vulnerability, bodily proximity, in-home or isolated work, care dependence, migration or language stressors, platform matching, payments, reputation, visibility, licensing, housing, or comparable dependency chokepoints, the personal-service pathway must preserve lawful access, practical exit, non-retaliatory reporting, proportionate due care, and anti-pretext separation between ordinary regulation and exploitation response. Comparable lawful personal services should use comparable regulatory families unless documented necessity and proportionality justify differentiation.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in high-vulnerability personal-service pathway integrity.
 <a id="high-vulnerability-personal-service-pathway-integrity-a"></a>
 - **How to measure and assess**
@@ -1231,7 +1231,7 @@ Adversarial robustness floor
     **Primary assessment:** Reviewers must verify resilience under bad-faith participation, partial compromise, and active subversion.
 <a id="adversarial-robustness-floor-c"></a>
 - **What must hold**
-  - **Primary failure:** Good-faith-only design for consequential pathways.
+  - **Primary failure:** Good-faith-only design for consequential decision pathways.
 
 <a id="automated-auditing-where-feasible"></a>
 Automated auditing where feasible
@@ -1333,7 +1333,7 @@ High-risk exploitation-surface controls
     **Primary assessment:** Reviewers must verify controls against sybil behavior, coalition capture, and inflated standing, dependency, or impact signals.
 <a id="high-risk-exploitation-surface-controls-c"></a>
 - **What must hold**
-  - **Primary failure:** Leaving critical pathways predictably exploitable.
+  - **Primary failure:** Leaving critical decision pathways predictably exploitable.
 
 <a id="partial-compromise-resilience-and-graceful-degradation"></a>
 Partial-compromise resilience and graceful degradation

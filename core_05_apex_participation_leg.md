@@ -32,7 +32,7 @@
   - **In scope:**
     - voice;
     - representation;
-    - contestable pathways; and
+    - contestable decision pathways; and
     - proportionate access to consequential roles in systems that materially affect them — scaled with [material stake](core_00_preamble.md#material-stake).
     Distinct from the [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight-cluster) operational layer where governing authority is already authorized.
   - **Depends on:** the conditions this leg needs in order to work. Each term's detailed scope and how-to-measure rules live on its own definition; start from [Tetrad Leg decomposition](#participation-tetrad-leg-decomposition):

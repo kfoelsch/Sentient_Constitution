@@ -266,7 +266,7 @@ It must also balance protection of internal states and sensitive data (**Sentien
 
 - **Identity Data Protection:** [Identity Data Protection](../core_05_band_continuity.md#identity-data-protection) governs the restricted-linkages ban (Type H/I → Type N) in this subsection. See [§6.1](#61-separation-of-data-domains) for the domain-separation mechanics.
 - **baseline accessibility** — sufficient visibility into behavior and effects for informed participation and risk evaluation
-- **qualified audit access** — structured pathways for independent auditors to deeper data where verification requires it
+- **qualified audit access** — structured audit-access pathways for independent auditors to deeper data where verification requires it
 - **forensic access** — full reconstruction in cases of harm, dispute, or credible risk, consistent with **CJS-3.11**, **CJS-3.7**, and **CJS-3.12** (*burden-of-justification and constraint terms*)
 - **access-control integrity** — access controls must **not** conceal systemic behavior, prevent accountability, or obstruct legitimate audit and verification
 

@@ -79,7 +79,7 @@ No amendment process may suspend constitutional supremacy, auditability, challen
 
 - Upstream: [§2](#2-continuity-of-supremacy-and-challenge-rights-during-amendment) continuity of supremacy during amendment; [Chapter Five *Authority Stack and Internal Hierarchy*](core_05_band_integrative.md#authority-stack).
 - Subsections: [§3.1](#31-internal-hierarchy-for-adopters)–[§3.3](#33-conflict-disclosure-and-mitigation).
-- Downstream: [§4](#4-disputes-involving-external-legal-orders) external tribunals and preserved pathways; [Chapter Fourteen](core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) non-regression on internal-hierarchy maneuvers.
+- Downstream: [§4](#4-disputes-involving-external-legal-orders) external tribunals and preserved internal review pathways; [Chapter Fourteen](core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) non-regression on internal-hierarchy maneuvers.
 - Read with: [Chapter Five *Authority Stack and Internal Hierarchy*](core_05_band_integrative.md#authority-stack) as cross-linked from §3.1 operative text.
 
 </details>
@@ -127,7 +127,7 @@ Where valid external law, regulation, or treaty obligation applicable to the ado
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§3.1](#31-internal-hierarchy-for-adopters)–[§3.2](#32-stricter-external-protections) hierarchy and stricter-external rule.
-- Downstream: [§4](#4-disputes-involving-external-legal-orders) cooperation and preserved internal pathways; **CS-7** and [Chapter Ten §9 — *Enforcement realism*](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) as cited in operative bullets.
+- Downstream: [§4](#4-disputes-involving-external-legal-orders) cooperation and preserved internal review pathways; **CS-7** and [Chapter Ten §9 — *Enforcement realism*](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) as cited in operative bullets.
 - Read with: **[corpus_systems.md](corpus_systems.md)** cross-jurisdiction and anti-evasion controls referenced in operative text.
 
 </details>
@@ -149,7 +149,7 @@ Cross-jurisdiction coordination and anti-evasion execution follow **[corpus_syst
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§3.3](#33-conflict-disclosure-and-mitigation) documented conflict handling.
-- Subsections: [§4.1](#41-good-faith-cooperation); [§4.2](#42-preserved-internal-pathways).
+- Subsections: [§4.1](#41-good-faith-cooperation); [§4.2](#42-preserved-internal-review-pathways).
 - Downstream: [§5](#5-relation-to-applicable-external-law) non-displacement and alignment; [Article XXIII-A](core_06_rights_part_d.md) (*Justice Objective and Scope*) constitutional interpretation and review where external process is insufficient.
 - Read with: [Chapter Fifteen §2](#2-continuity-of-supremacy-and-challenge-rights-during-amendment) non-suspension of challenge rights during amendment.
 
@@ -164,7 +164,7 @@ Cross-jurisdiction coordination and anti-evasion execution follow **[corpus_syst
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§4](#4-disputes-involving-external-legal-orders) external-dispute frame.
-- Downstream: [§4.2](#42-preserved-internal-pathways) when external process is slow or inadequate.
+- Downstream: [§4.2](#42-preserved-internal-review-pathways) when external process is slow or inadequate.
 - Read with: Truth and auditability obligations in [Chapters Two through Four](core_02_definition_structure.md), [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), and [Chapter Six](core_06_rights_part_a.md#chapter-six-foundational-rights) as applicable to record preservation.
 
 </details>
@@ -175,7 +175,9 @@ Cross-jurisdiction coordination and anti-evasion execution follow **[corpus_syst
 
 Adopters must cooperate in good faith with competent external tribunals and regulators where jurisdiction is lawfully asserted. They must not use cooperation as a pretext to destroy internal audit trails or to delay remedies where delay would materially worsen harm.
 
-#### 4.2 Preserved Internal Pathways
+<a id="42-preserved-internal-review-pathways"></a>
+<a id="42-preserved-internal-pathways"></a>
+#### 4.2 Preserved Internal Review Pathways
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -241,7 +243,7 @@ Within that limited binding effect, [§3.1](#31-internal-hierarchy-for-adopters)
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§5.1](#51-non-displacement-and-limited-binding-effect) non-displacement and limited binding effect; [§4](#4-disputes-involving-external-legal-orders) cooperation and preserved internal pathways.
+- Upstream: [§5.1](#51-non-displacement-and-limited-binding-effect) non-displacement and limited binding effect; [§4](#4-disputes-involving-external-legal-orders) cooperation and preserved internal review pathways.
 - Downstream: [§3.3](#33-conflict-disclosure-and-mitigation) when applicable external requirements and constitutional floors appear irreconcilable; [§4.1](#41-good-faith-cooperation) good-faith cooperation where jurisdiction is lawfully asserted.
 - Read with: [Chapter Seventeen §4](core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) (*operations-guide use is not adoption; partial adoption must not shrink already-borne external duties*).
 

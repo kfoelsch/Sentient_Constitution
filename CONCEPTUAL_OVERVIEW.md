@@ -153,7 +153,7 @@ The rights themselves span the conditions that make agency possible:
 flowchart TB
     subgraph Pillars["Stewardship · three pillars"]
         direction LR
-        P1["Sentient organization<br/><br/>• Hands-on operation, maintenance, oversight, and improvement<br/>• Records and pathways others can verify and challenge<br/>• Not a sealed-off priesthood of specialists"]
+        P1["Sentient organization<br/><br/>• Hands-on operation, maintenance, oversight, and improvement<br/>• Records and review pathways others can verify and challenge<br/>• Not a sealed-off priesthood of specialists"]
         P2["Proactive stewardship<br/><br/>• Notice trouble while it is still small<br/>• Escalate on a clock sized to the role’s stakes<br/>• Close problems out, not merely flag them"]
         P3["Competence at scale<br/><br/>• Understanding and challenge workable for affected communities<br/>• Institutions that keep learning through feedback and correction"]
     end
@@ -322,7 +322,7 @@ flowchart TB
         end
         subgraph Crow4["Articles XVIII–XIX"]
             direction LR
-            C7["Article XVIII · Standing and Participation Status<br/><br/>• Standing distinctions<br/>• Contestability and restriction limits<br/>• Pathway eligibility, responsibility, and audit<br/>• Movement, refuge, and non-statelessness"]
+            C7["Article XVIII · Standing and Participation Status<br/><br/>• Standing distinctions<br/>• Contestability and restriction limits<br/>• Named-pathway eligibility, responsibility, and audit<br/>• Movement, refuge, and non-statelessness"]
             C8["Article XIX · Interoperability, Portability, Movement, and Exit<br/><br/>• Portability<br/>• Reciprocal interoperability<br/>• Anti-lock-in<br/>• Movement, migration, refuge, and non-statelessness"]
         end
         subgraph Crow5["Articles XX–XXI"]
@@ -753,9 +753,9 @@ This is a map of available processes. A particular matter enters the paths its f
 
 ### Ordinary life, privacy, and the way back
 
-Ordinary life does not begin with a standing file. **Silence is the default**: no standing record is the ordinary state, and a missing record is not evidence of risk, low contribution, or general untrustworthiness. A named record-opening authority verifies the factual basis and authorizes entry; a separate custodian enters and holds the record. A record may not be required for essentials, labor protections, ordinary commerce, or participation as an affected party. The specific exception is a published competency bar for a trust-sensitive named pathway, which must state why that pathway is trust-sensitive. See [Chapter Nine §2.1](core_09_standing_assessment.md#21-what-question-1-must-establish), [§3.7](core_09_standing_assessment.md#37-record-custody-and-opening-authority), and [Chapter Ten §6.2](core_10_standing_integration.md#62-competency-bars-and-clearances).
+Ordinary life does not begin with a standing file. **Silence is the default**: no standing record is the ordinary state, and a missing record is not evidence of risk, low contribution, or general untrustworthiness. A named record-opening authority verifies the factual basis and authorizes entry; a separate custodian enters and holds the record. A record may not be required for essentials, labor protections, ordinary commerce, or participation as an affected party. The specific exception is a published competency bar for a trust-sensitive named pathway, which must state why that named pathway is trust-sensitive. See [Chapter Nine §2.1](core_09_standing_assessment.md#21-what-question-1-must-establish), [§3.7](core_09_standing_assessment.md#37-record-custody-and-opening-authority), and [Chapter Ten §6.2](core_10_standing_integration.md#62-competency-bars-and-clearances).
 
-When a record does exist, its effects remain bounded to named pathways. The system must not combine pathway effects into a profile, ranking, badge, public display, or general worth judgment. A lawful lock still closes real doors: the subject must be told which pathway is limited, what corrective conditions and review date apply, how long the effect is expected to last, and where to challenge it. That burden must be measured honestly rather than hidden behind the statement that standing is not a score. See [Chapter Ten §§7.1–7.2](core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects).
+When a record does exist, its effects remain bounded to named pathways. The system must not combine named-pathway effects into a profile, ranking, badge, public display, or general worth judgment. A lawful lock still closes real doors: the subject must be told which named pathway is limited, what corrective conditions and review date apply, how long the effect is expected to last, and where to challenge it. That burden must be measured honestly rather than hidden behind the statement that standing is not a score. See [Chapter Ten §§7.1–7.2](core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects).
 
 Restoration is a real route, not automatic forgiveness or record erasure. Correction, remedy, restitution, safeguards, monitoring, or requalification may be required. Once restoration is complete and no lock, remedy duty, or correction duty remains open, slots 1–3 archive; slots 4–6 archive after a published period capped by the contribution half-life in Chapter Ten §6.1. Slots 7–9 remain active indefinitely, subject to their special restoration rules and Chapter Eleven.
 

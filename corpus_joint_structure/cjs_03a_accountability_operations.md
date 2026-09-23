@@ -184,9 +184,9 @@ anti-domination conduct and remediation catalog
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in anti-domination conduct and remediation catalog.
 <a id="anti-domination-conduct-and-remediation-catalog-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** reviewers must evaluate substantive control, dependency leverage, and pathway usability together — applying [Contestability](../core_05_band_accountability.md#contestability), [Proxy Divergence](../core_05_band_oversight.md#proxy-divergence), and [Dependency](../core_05_band_continuity.md#dependency) analysis where livelihood, agency, wellbeing, ecological integrity, interoperability, exit, or constitutional review depend on the arrangement
+  - **Primary measure:** reviewers must evaluate substantive control, dependency leverage, and contest-pathway usability together — applying [Contestability](../core_05_band_accountability.md#contestability), [Proxy Divergence](../core_05_band_oversight.md#proxy-divergence), and [Dependency](../core_05_band_continuity.md#dependency) analysis where livelihood, agency, wellbeing, ecological integrity, interoperability, exit, or constitutional review depend on the arrangement
 
-    **Primary assessment:** Reviewers must evaluate substantive control, dependency leverage, and pathway usability together — applying [Contestability](../core_05_band_accountability.md#contestability), [Proxy Divergence](../core_05_band_oversight.md#proxy-divergence), and [Dependency](../core_05_band_continuity.md#dependency) analysis where livelihood, agency, wellbeing, ecological integrity, interoperability, exit, or constitutional review depend on the arrangement.
+    **Primary assessment:** Reviewers must evaluate substantive control, dependency leverage, and contest-pathway usability together — applying [Contestability](../core_05_band_accountability.md#contestability), [Proxy Divergence](../core_05_band_oversight.md#proxy-divergence), and [Dependency](../core_05_band_continuity.md#dependency) analysis where livelihood, agency, wellbeing, ecological integrity, interoperability, exit, or constitutional review depend on the arrangement.
 <a id="anti-domination-conduct-and-remediation-catalog-c"></a>
 - **What must hold**
   - **Primary failure:** Conduct that matches the illustrative patterns above without rebuttal under **Necessity**, **Proportionality**, and Chapter Four evidence duties; efficiency, competitiveness, emergency, security, or productive-capacity framing without traceable constitutional outcomes; or failure to apply proportionate remedies where domination is substantiated.
@@ -667,14 +667,14 @@ Temporal discipline and revalidation
 - Read with: `corpus_institutions.md`
 - Read with: `corpus_forum.md`
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
-- Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05_band_accountability.md#non-compliance-finding-profile); use **formal** **failure character** for pathway or record defects and **substantive** where merits or binding effect is materially affected; add **severity tier** **T1**–**T4** per finding ([Chapter Three, section 3](../core_03_definition_integrity.md#3-non-compliance-finding-profiles)).
+- Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../core_05_band_accountability.md#non-compliance-finding-profile); use **formal** **failure character** for challenge-pathway or record defects and **substantive** where merits or binding effect is materially affected; add **severity tier** **T1**–**T4** per finding ([Chapter Three, section 3](../core_03_definition_integrity.md#3-non-compliance-finding-profiles)).
 - Chapter One basis: §8.1, §3.4, §11.4, §12.1, §8, §10 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.1** (*Topic router*); primary owner **CI-9.3**.
 - Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Twelve famili…*) in **CJS-0.1** (*Topic router*); primary owner **CF-3**.
 - Topic routing (mandatory read-with): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-0.1** (*Topic router*); primary owner **CF-4**.
 - Topic routing (mandatory read-with): **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-0.1** (*Topic router*); primary owner **CF-5**.
 - Topic routing (mandatory read-with): **CJS-R05** (*Appeal, secondary review, exhaustion*) in **CJS-0.1** (*Topic router*); primary owner **CF-6**.
-- Topic routing (mandatory read-with): **CJS-R15** (*Contest-integrity monitoring (pathway integrity, not merits)*) in **CJS-0.1** (*Topic router*); primary owner **CI-7.3**.
+- Topic routing (mandatory read-with): **CJS-R15** (*Contest-integrity monitoring (contest-pathway integrity, not merits)*) in **CJS-0.1** (*Topic router*); primary owner **CI-7.3**.
 
 </details>
 
@@ -699,7 +699,7 @@ Temporal discipline and revalidation
 
 Use this rule when due process, reviewability, restoration, or enforcement proportionality depends on a standalone system, institution, forum, or bounded decision domain, or on combined forum, institutional, system, or implementation-layer behavior.
 
-One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because procedural failures often surface only when due process, review independence, enforcement proportionality, and restoration are judged together; a sub-rule can look satisfied in isolation while the pathway as a whole remains unfair, unchallengeable, or practically unreachable. It states the integrated obligation, evaluation, and compliance floor for **CJS-3.13** as a whole: procedural integrity and adjudication must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
+One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because procedural failures often surface only when due process, review independence, enforcement proportionality, and restoration are judged together; a sub-rule can look satisfied in isolation while the procedural pathway as a whole remains unfair, unchallengeable, or practically unreachable. It states the integrated obligation, evaluation, and compliance floor for **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*) as a whole: procedural integrity and adjudication must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
 
 <a id="procedural-integrity-and-adjudication-terms"></a>
 procedural integrity and adjudication terms

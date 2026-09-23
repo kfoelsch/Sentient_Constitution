@@ -50,7 +50,7 @@ This file is the institutional implementation home for **CI-19** (*Vulnerable pe
   - data practices.
 - **Lane separation** — institutions must keep ordinary regulation, exploitation-focused enforcement, and victim-access routes distinct. Exploitation labels must not be used to punish protected consensual conduct without facts; decriminalization must not be used as an excuse to deprioritize exploitation response.
 - **Transition and records** — adopting instruments must provide expungement, sealing, non-disclosure by default, or comparable relief. This applies to records and ongoing restrictive measures that predominantly reflect conduct no longer criminal under **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*).
-- **Read with** — **CI-6** for local procedure maps; **CI-9** for class and tier scaling; **CI-8** for participation and pathway accessibility; **CI-8.3** for digital self-service pathway integrity where platform enrollment, billing, or exit apply.
+- **Read with** — **CI-6** (*Procedure integrity, contestability, and secondary review*) for local procedure maps; **CI-9** (*Classification-linked institutional obligations*) for class and tier scaling; **CI-8** (*Transparency, participation, and accessible challenge and service pathways*) for participation and challenge-pathway accessibility; **CI-8.3** (*Digital self-service pathway integrity*) for digital self-service pathway integrity where platform enrollment, billing, or exit apply.
 
 *Shared rules live elsewhere.*
 - [**CJS-3.17**](../corpus_joint_structure/cjs_03c_continuity_operations.md) (*interoperability, portability, and exit-integrity terms*) — high-vulnerability personal-service pathway integrity.

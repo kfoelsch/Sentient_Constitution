@@ -48,7 +48,7 @@ Insert after the Tetrad subsection's closing prose and before `<a id="rights-flo
 flowchart TB
     subgraph Pillars["Stewardship · three pillars"]
         direction LR
-        P1["Sentient organization<br/><br/>• Hands-on operation, maintenance, oversight, and improvement<br/>• Records and pathways others can verify and challenge<br/>• Not a sealed-off priesthood of specialists"]
+        P1["Sentient organization<br/><br/>• Hands-on operation, maintenance, oversight, and improvement<br/>• Records and review pathways others can verify and challenge<br/>• Not a sealed-off priesthood of specialists"]
         P2["Staying ahead of problems<br/><br/>• Notice trouble while it is still small<br/>• Escalate on a clock sized to the role's stakes<br/>• Close problems out, not merely flag them"]
         P3["Competence at scale<br/><br/>• Understanding and challenge workable for affected communities<br/>• Institutions that keep learning through feedback and correction"]
     end

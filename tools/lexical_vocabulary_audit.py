@@ -103,6 +103,26 @@ _DRIFT_ALLOWLIST_STRIP = [
     re.compile(r"\bMisclassification and misalignment\b", re.I),
 ]
 
+_PATHWAY_WORD = re.compile(r"(?<![A-Za-z0-9-])(pathways?)(?![A-Za-z0-9])", re.IGNORECASE)
+_PATHWAY_PREFIX_COMPOUND = re.compile(r"(?<![A-Za-z0-9-])pathways?-[A-Za-z]", re.IGNORECASE)
+# Words that do not say *which kind* of pathway is meant. A pathway preceded by one of
+# these (or starting a sentence, bullet, or cell) is bare. Qualified forms carry a type
+# word or hyphenated compound instead (named, challenge, contest, review, remedy, harm, ...).
+_PATHWAY_BARE_PRECEDERS = frozenset(
+    """
+    a an the this that these those such each every any all some no other its their our
+    which what whose whether where when while if
+    and or nor of to for with through via by in on into across from as is are be
+    accessible independent preserved internal protected required related blocked limited
+    defined published formal constitutional credible plausible foreseeable material
+    working structured lasting bare supporting resulting paper paper-only
+    covered relied-on critical consequential proportionate non-arbitrary contestable local
+    fallback backup authorized verified captured corrupt prohibited repeated cumulative
+    systemic irreversible multiple existing available clear usable proper separate lawful
+    open fair effective adequate viable real meaningful specific particular alternative
+    new different several both either neither same various official practical functional
+    """.split()
+)
 _RIGHTS_FLOOR_CASING = re.compile(r"\b(?:rights floor|rights floors|rights-floor)\b")
 _FOUNDATIONAL_RIGHTS_CASING = re.compile(r"\b(?:Foundational rights|foundational rights)\b")
 _SHOULD_NOT_PROHIBITION = re.compile(r"\bshould\s+not\b", re.IGNORECASE)
@@ -321,6 +341,19 @@ def run_internal_regression_checks() -> None:
         raise RuntimeError(
             "Internal regression failed: stewardship-sense drift was not flagged or custody compounds broke.",
         )
+    pathway_findings = scan_avoid_bare_pathway(
+        "internal-regression.md",
+        "Those pathways must preserve access.\n"
+        "Pathways include unions.\n"
+        "Records the pathway-specific effect.\n"
+        "The blocked named pathway stays closed; challenge and review pathways stay open.\n"
+        "A credible causal pathway and a contest-pathway failure are qualified.\n"
+        "See [link](core_05_band_accountability.md#capture-of-resolution-pathways) and `pathway`.\n",
+    )
+    if len(pathway_findings) != 3:
+        raise RuntimeError(
+            "Internal regression failed: bare pathway was not flagged or qualified forms broke.",
+        )
     layer_findings = scan_avoid_governance_layer_labels(
         "internal-regression.md",
         "Remain subject to stakeholder governance.\n"
@@ -461,6 +494,46 @@ def scan_avoid_bare_drift(rel_path: str, text: str) -> list[Finding]:
                 ),
             )
 
+    return findings
+
+
+def _pathway_preceding_word(check_line: str, start: int) -> str:
+    before = check_line[:start].rstrip(" *_(")
+    if not before or before[-1] in ".:;|\u2014\u2022#-" or before.endswith("<br/>"):
+        return "^"
+    token = before.split()[-1].lower().strip("*_(`[")
+    if token.isdigit():
+        return "^"
+    return token
+
+
+def scan_avoid_bare_pathway(rel_path: str, text: str) -> list[Finding]:
+    """Reject bare **pathway** / **pathways**: every use must say which kind of pathway it is."""
+    if rel_path in {"doc_architecture.md", "TODO.md", "MEMLOG.md"}:
+        return []
+    if rel_path.startswith("archive/"):
+        return []
+
+    findings: list[Finding] = []
+    in_fence = False
+    for idx, raw in enumerate(text.splitlines(), start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        check_line = _mask_inline_code_and_link_targets(raw)
+        check_line = re.sub(r'id="[^"]*"', lambda m: " " * len(m.group(0)), check_line)
+        bare = bool(_PATHWAY_PREFIX_COMPOUND.search(check_line))
+        if not bare:
+            for match in _PATHWAY_WORD.finditer(check_line):
+                if _pathway_preceding_word(check_line, match.start()) in _PATHWAY_BARE_PRECEDERS | {"^"}:
+                    bare = True
+                    break
+        if bare:
+            findings.append(
+                Finding(file=rel_path, line=idx, rule="avoid-bare-pathway", text=raw.strip()),
+            )
     return findings
 
 
@@ -803,6 +876,7 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-tribunal-family`:** reject internal Chapter Twelve / forum-governance **tribunal** / **tribunals** → prefer **forum** / **forums**, **forum family**, **panel**, **bench**, or **adjudicative body**. **Allowed:** external or historical tribunal wording where source fidelity or external legal-order references require it.",
         "- **`avoid-standing-calculus`:** reject **standing calculus** / **standing-calculus** (undefined jargon) → prefer **standing-record classification under Chapter Nine**, **classify standing records** on the Contribution and Violation axes, or other explicit Chapter Nine wording.",
         "- **`avoid-bare-drift`:** reject bare **drift** for stewardship, governance, incentive, or alignment divergence → prefer **misalignment** or **constitutional misalignment**. **Allowed:** **anti-drift**, **classification drift**, **version drift**, **editorial drift**, **cross-layer drift**, **Misclassification and misalignment**, and `reopening-drift` anchors.",
+        "- **`avoid-bare-pathway`:** reject **pathway** / **pathways** without a qualifier that says which kind (after a determiner, conjunction, preposition, or generic adjective; at the start of a sentence, bullet, or cell; or as a `pathway-…` prefix compound) → prefer **named pathway** / a Chapter Ten §4.2 type prefix in the standing sense, **challenge** / **review** / **appeal** / **remedy** / **redress** / **contest** / **dispute-resolution** / **restorative** pathways for process routes, and **causal** / **harm** / **risk** / **reliance** / **service** or another explicit type elsewhere.",
         "- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Six layer.",
         "- **`load-bearing-foundational-rights-casing`:** reject **Foundational rights** / **foundational rights** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Foundational Rights** when naming the Chapter Six title or layer.",
         "- **`avoid-should-not-prohibitions`:** reject **should not** in corpus prose → use **must not** for binding negative constraints.",
@@ -872,6 +946,7 @@ def main() -> int:
         findings.extend(scan_avoid_tribunal_family(rel_path, text))
         findings.extend(scan_avoid_standing_calculus(rel_path, text))
         findings.extend(scan_avoid_bare_drift(rel_path, text))
+        findings.extend(scan_avoid_bare_pathway(rel_path, text))
         findings.extend(scan_load_bearing_capitalization(rel_path, text))
         findings.extend(scan_avoid_should_not_prohibitions(rel_path, text))
         findings.extend(scan_avoid_definition_map_label(rel_path, text))

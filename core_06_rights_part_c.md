@@ -58,7 +58,7 @@ flowchart TB
         end
         subgraph Crow4["Articles XVIII–XIX"]
             direction LR
-            C7["Article XVIII · Standing and Participation Status<br/><br/>• Standing distinctions<br/>• Contestability and restriction limits<br/>• Pathway eligibility, responsibility, and audit<br/>• Movement, refuge, and non-statelessness"]
+            C7["Article XVIII · Standing and Participation Status<br/><br/>• Standing distinctions<br/>• Contestability and restriction limits<br/>• Named-pathway eligibility, responsibility, and audit<br/>• Movement, refuge, and non-statelessness"]
             C8["Article XIX · Interoperability, Portability, Movement, Refuge, and Exit Integrity<br/><br/>• Portability<br/>• Reciprocal interoperability<br/>• Anti-lock-in<br/>• Movement, migration, refuge, and non-statelessness"]
         end
         subgraph Crow5["Articles XX–XXI"]
@@ -198,7 +198,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 - **Right to challenge, review, and redress:** Good-faith challenges (*Good Faith*, **Chapter Five**), review requests, and protected reports must not be suppressed, obstructed, or penalized.
 - **Access to correction:** Sentients have the right to practical access to review, audit, correction, and proportionate remediation where system failures materially affect them.
   - Redress and remediation for material impacts are governed by **Chapter Five** Independent Definitions (*Redress and Remediation*).
-- **Remedy-system durability:** Challenge and redress require a real [Remedy System](core_05_band_accountability.md#remedy-system-constitutional) — durable institutional capacity, not a paper pathway. The constitutional floor lives in [Chapter Ten §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Enforcement realism and remedy systems*). Institutional implementation is owned by **`corpus_institutions.md`** **CI-27** (*Remedy systems and institutional redress capacity*).
+- **Remedy-system durability:** Challenge and redress require a real [Remedy System](core_05_band_accountability.md#remedy-system-constitutional) — durable institutional capacity, not a paper remedy pathway. The constitutional floor lives in [Chapter Ten §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Enforcement realism and remedy systems*). Institutional implementation is owned by **`corpus_institutions.md`** **CI-27** (*Remedy systems and institutional redress capacity*).
 - **Timely redress:** Practical access includes:
   - time-bounded intake;
   - acknowledgment; and
@@ -211,7 +211,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
   - receive acknowledgment and proportionate remediation where failures materially impact them;
   - make **protected reports** within the meaning of **Chapter Five** (*Protected Reporting (Whistleblowing)*) concerning systems that materially affect them, consistent with **Safety (Constraint)** and **Truth (Constraint)** in **Chapter Five**.
 - **No retaliation:** Retaliation against such reporting, within the meaning of that definition, is incompatible with the protections in this Article.
-  - Protected escalation and anti-retaliation implementation requirements are stated in **`corpus_institutions.md`** **CI-12** (*Transparency, participation, and accessible pathways*).
+  - Protected escalation and anti-retaliation implementation requirements are stated in **`corpus_institutions.md`** **CI-12** (*Transparency, participation, and accessible challenge and service pathways*).
 #### Article XII-C: Prohibition of False Trust and Misleading Reliance
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -563,7 +563,7 @@ Those floors apply to **exceptional institutional power** in three linked domain
 
   Durable restriction or deployment surviving review requires independently demonstrated **Necessity** and **Proportionality**, recorded.
 - **Accountability and remedy:** Wrongful use of force gives rise to **Redress and Remediation** under **Chapter Five**.
-  - **Article XV** (*Audit, Transparency, and Independent Verification*) independent-verification and **Article XVIII-C** (*Pathway Eligibility, Responsibility, and Continuous Audit*) continuous-audit **practice** apply.
+  - **Article XV** (*Audit, Transparency, and Independent Verification*) independent-verification and **Article XVIII-C** (*Named-Pathway Eligibility, Responsibility, and Continuous Audit*) continuous-audit **practice** apply.
   - Information used to authorize or conduct force is subject to **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) taint and remedy discipline where relevant.
   - Sole control by operational-force bodies over authorization, review, and legality assessment for their own conduct is prohibited on the same terms as **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*).
 
@@ -892,7 +892,7 @@ They operate consistently with **Chapters Two through Four**, including exclusiv
 
 <br>
 
-*In plain terms: no single actor — public or private — may corner oversight. Multiple independent pathways must be able to find, review, and correct failure or capture.*
+*In plain terms: no single actor — public or private — may corner oversight. Multiple independent oversight pathways must be able to find, review, and correct failure or capture.*
 
 - **Distributed oversight:** Multiple independent or pluralistic oversight pathways must be able to contribute materially to detection, review, and correction of failure, misalignment, or capture.
   - No single actor may monopolize audit access, effective oversight, or constitutional interpretation in practice.
@@ -1334,7 +1334,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 This Article states **constitutional floors** for standing and participation status under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
-- **Flourishing:** sentients can hold and contest role eligibility through valid, plural, auditable named pathways — without standing labels substituting for dignity, Rights-Floor minimums, or stakeholder status when [Material Impact](core_05_band_oversight.md#material-impact) is present; pathway eligibility rests on present, observable, contestable evidence rather than brand, scale, or past esteem alone.
+- **Flourishing:** sentients can hold and contest role eligibility through valid, plural, auditable named pathways — without standing labels substituting for dignity, Rights-Floor minimums, or stakeholder status when [Material Impact](core_05_band_oversight.md#material-impact) is present; named-pathway eligibility rests on present, observable, contestable evidence rather than brand, scale, or past esteem alone.
 - **Continuity:** standing discipline stays revisable across time — restrictions remain proportionate, restorable where corrected, and must not harden into permanent exclusion from foundational constitutional voice except where **Chapter Eleven** **anti-constitutional misconduct** classification and [**Chapter Thirteen §4.1**](core_13_governance.md#41-entitlement-and-eligibility) expressly withhold durable political voice pending **full restitution**.
 
 Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
@@ -1475,7 +1475,8 @@ It must remain distinct from:
 
 <a id="article-xviii-c-good-standing-responsibility-and-continuous-audit"></a>
 <a id="article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit"></a>
-#### Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit
+<a id="article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit"></a>
+#### Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -1505,7 +1506,7 @@ It must remain distinct from:
 
 *In plain terms: ordinary participation named pathways stay open under published, contestable eligibility rules based on present evidence — not brand, scale, or past reputation. Opening a trust-sensitive named pathway requires competency clearance against its published competency bar; closing a privilege requires a standing lock on that named pathway. Standing locks cannot permanently strip foundational voice, except that a **final** **Chapter Eleven** classification of **anti-constitutional misconduct** withholds that voice until **full restitution** as stated in [**Chapter Thirteen §4.1**](core_13_governance.md#41-entitlement-and-eligibility).*
 
-- **Pathway eligibility and responsibility:** Published eligibility criteria for ordinary participation, trust-sensitive roles, oversight eligibility, **governance-voting**, and **stakeholder-participation** named pathways must rest on present, observable, contestable evidence — not reputation, scale, or historical standing alone. Consistent alignment with foundational requirements may support [Competency Clearance](core_05_band_accountability.md#competency-clearance) against the applicable [Competency Bar](core_05_band_accountability.md#competency-bar) and trust-sensitive role eligibility, but restrictive consequences attach only through [Standing Lock](core_05_band_accountability.md#standing-lock) on named privilege pathways under [Chapter Ten §4.2 Prevention — general standing locks](core_10_standing_integration.md#42-prevention--general-standing-locks). **governance-voting** locks do not substitute for **stakeholder-participation** locks, and a **stakeholder-participation** lock does not erase stakeholder status or strip foundational governance-voting by itself.
+- **Named-pathway eligibility and responsibility:** Published eligibility criteria for ordinary participation, trust-sensitive roles, oversight eligibility, **governance-voting**, and **stakeholder-participation** named pathways must rest on present, observable, contestable evidence — not reputation, scale, or historical standing alone. Consistent alignment with foundational requirements may support [Competency Clearance](core_05_band_accountability.md#competency-clearance) against the applicable [Competency Bar](core_05_band_accountability.md#competency-bar) and trust-sensitive role eligibility, but restrictive consequences attach only through [Standing Lock](core_05_band_accountability.md#standing-lock) on named privilege pathways under [Chapter Ten §4.2 Prevention — general standing locks](core_10_standing_integration.md#42-prevention--general-standing-locks). **governance-voting** locks do not substitute for **stakeholder-participation** locks, and a **stakeholder-participation** lock does not erase stakeholder status or strip foundational governance-voting by itself.
   - Eligibility and lock claims remain subject to continuous audit and to the safeguards in this Article and in designated implementation text.
   - Eligibility and locks must:
     - remain subject to **Chapter Nine** (*Contribution, Violation, and Standing Model*);
@@ -2153,7 +2154,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
   - review implications.
 
   Confidentiality exceptions must be narrow, time-bounded, and justified under **Chapter One** constraints.
-- **Independent challenge and external review:** Affected stakeholders must have standing to seek secondary review through an independent pathway.
+- **Independent challenge and external review:** Affected stakeholders must have standing to seek secondary review through an independent review pathway.
   - The review must be run by a different body — not the same participants or panel that made the original decision.
   - If the record shows a serious mistake, capture, or Rights-Floor breach, the reviewer must be able to fix, pause, or undo the decision.
   - For manifest constitutional error in a **Constitutional** forum ruling, the reviewer is a specially constituted **Constitutional review panel** under **CF-6.2.5**, staffed from a published constitutional-review reserve roster maintained under **CF-16**, with no overlapping decision-makers from the originating panel and with published rotation, recusal, competence, reserve-capacity, and conflict-screening safeguards. The panel is a limited review panel inside the **Constitutional** forum family, not a separate forum family or a general appellate body. Capture, recusal-failure, or self-judging allegations route through **CF-7** before merits review.

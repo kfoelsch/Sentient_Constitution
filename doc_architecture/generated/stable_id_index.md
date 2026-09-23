@@ -72,7 +72,7 @@ Full router: [corpus_joint_structure/cjs_00_registry_and_reading_rules.md](../..
 | CJS-R12 | Standard forum records, forms, and evidence artifacts | [**CF-15**](../../corpus_forum/cf_15_standard_records_forms_evidence_artifacts.md) |
 | CJS-R13 | Forum staffing, shared administration, structural review, structural records | [**CF-16**](../corpus_forum/cf_16_staffing_reserve_capacity_structural_records.m |
 | CJS-R14 | Institutional functional lanes and non-delegable splits | [**CI-3**](../corpus_institutions/ci_03_institutional_design_separation_of_power |
-| CJS-R15 | Contest-integrity monitoring (pathway integrity, not merits) | [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence. |
+| CJS-R15 | Contest-integrity monitoring (contest-pathway integrity, not merits) | [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence. |
 | CJS-R16 | Cross-institution coordination, deadlock, and escalation | [**CI-12**](../corpus_institutions/ci_12_cross_institution_coordination_escalati |
 | CJS-R17 | Cross-implementation trust integrity (joint operation model) | **CJS-2.3 — Cross-implementation trust integrity** |
 | CJS-R18 | Class-scaled lane staffing and competency redundancy for materially binding stewardship | [**CI-3**](../corpus_institutions/ci_03_institutional_design_separation_of_power |

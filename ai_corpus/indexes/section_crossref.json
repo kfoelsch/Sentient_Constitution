@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-23T22:07:55+00:00",
+  "generated_at": "2026-09-23T23:48:50+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
@@ -61160,336 +61160,336 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#4-system-stability-enabler-trust-coordination-integrity",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#11-governance-under-stewardship-discipline",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_apex_accountability_leg.md",
       "target_anchor": "#accountability",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_apex_accountability_leg.md",
       "target_anchor": "#accountability-m",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_apex_accountability_leg.md",
       "target_anchor": "#accountability-a",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_apex_accountability_leg.md",
       "target_anchor": "#accountability-c",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#standing-lock",
       "count": 3
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#standing-lock-a",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#standing-lock-c",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#competency-bar",
       "count": 3
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#competency-bar-a",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#competency-bar-c",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#competency-clearance",
       "count": 3
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#competency-clearance-a",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#competency-clearance-c",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#participant-standing-constitutional",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#participant-standing-constitutional-a",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#participant-standing-constitutional-c",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#collective-accountability-failure",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#collective-accountability-failure-a",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#collective-accountability-failure-c",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#necessity",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#necessity-a",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#necessity-c",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality-a",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality-c",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#trust",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#trust-a",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#trust-c",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#foundational-constitutional-choice",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#foundational-constitutional-choice-a",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#foundational-constitutional-choice-c",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#procedural-fairness-constitutional",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#procedural-fairness-constitutional-a",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#procedural-fairness-constitutional-c",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#protected-characteristics-constitutional",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#protected-characteristics-constitutional-a",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#protected-characteristics-constitutional-c",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#3-whole-system-certification-evaluation",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#42-prevention--general-standing-locks",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+      "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_13_governance.md",
       "target_anchor": "#41-entitlement-and-eligibility",
       "count": 4
@@ -78016,7 +78016,7 @@
     },
     {
       "source_file": "core_11_b_misconduct_pattern_applications.md",
-      "source_header": "5. Pattern applications and criteria routing — Participation and pathway integrity",
+      "source_header": "5. Pattern applications and criteria routing — Participation and accountability-pathway integrity",
       "source_anchor": "#5-pattern-applications-and-criteria-routing",
       "target_file": "core_05__definitions_home.md",
       "target_anchor": "#chapter-five-foundational-definitions",
@@ -78024,7 +78024,7 @@
     },
     {
       "source_file": "core_11_b_misconduct_pattern_applications.md",
-      "source_header": "5. Pattern applications and criteria routing — Participation and pathway integrity",
+      "source_header": "5. Pattern applications and criteria routing — Participation and accountability-pathway integrity",
       "source_anchor": "#5-pattern-applications-and-criteria-routing",
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#42-prevention--general-standing-locks",
@@ -78032,7 +78032,7 @@
     },
     {
       "source_file": "core_11_b_misconduct_pattern_applications.md",
-      "source_header": "5. Pattern applications and criteria routing — Participation and pathway integrity",
+      "source_header": "5. Pattern applications and criteria routing — Participation and accountability-pathway integrity",
       "source_anchor": "#5-pattern-applications-and-criteria-routing",
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#54-special-violation-rules",
@@ -78040,7 +78040,7 @@
     },
     {
       "source_file": "core_11_b_misconduct_pattern_applications.md",
-      "source_header": "5. Pattern applications and criteria routing — Participation and pathway integrity",
+      "source_header": "5. Pattern applications and criteria routing — Participation and accountability-pathway integrity",
       "source_anchor": "#5-pattern-applications-and-criteria-routing",
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#55-special-locks",
@@ -78048,7 +78048,7 @@
     },
     {
       "source_file": "core_11_b_misconduct_pattern_applications.md",
-      "source_header": "5. Pattern applications and criteria routing — Participation and pathway integrity",
+      "source_header": "5. Pattern applications and criteria routing — Participation and accountability-pathway integrity",
       "source_anchor": "#5-pattern-applications-and-criteria-routing",
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#10-pattern-applications-and-question-3-routing",
@@ -78056,7 +78056,7 @@
     },
     {
       "source_file": "core_11_b_misconduct_pattern_applications.md",
-      "source_header": "5. Pattern applications and criteria routing — Participation and pathway integrity",
+      "source_header": "5. Pattern applications and criteria routing — Participation and accountability-pathway integrity",
       "source_anchor": "#5-pattern-applications-and-criteria-routing",
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#chapter-ten-standing-effects-and-integration",
@@ -78064,7 +78064,7 @@
     },
     {
       "source_file": "core_11_b_misconduct_pattern_applications.md",
-      "source_header": "5. Pattern applications and criteria routing — Participation and pathway integrity",
+      "source_header": "5. Pattern applications and criteria routing — Participation and accountability-pathway integrity",
       "source_anchor": "#5-pattern-applications-and-criteria-routing",
       "target_file": "core_11_a_misconduct_designation.md",
       "target_anchor": "#2-criteria-set-for-slot-assignment",
@@ -78072,7 +78072,7 @@
     },
     {
       "source_file": "core_11_b_misconduct_pattern_applications.md",
-      "source_header": "5. Pattern applications and criteria routing — Participation and pathway integrity",
+      "source_header": "5. Pattern applications and criteria routing — Participation and accountability-pathway integrity",
       "source_anchor": "#5-pattern-applications-and-criteria-routing",
       "target_file": "core_11_a_misconduct_designation.md",
       "target_anchor": "#3-violation-axis-s-7-9-slot-assignment-incident-gravity",
@@ -78080,7 +78080,7 @@
     },
     {
       "source_file": "core_11_b_misconduct_pattern_applications.md",
-      "source_header": "5. Pattern applications and criteria routing — Participation and pathway integrity",
+      "source_header": "5. Pattern applications and criteria routing — Participation and accountability-pathway integrity",
       "source_anchor": "#5-pattern-applications-and-criteria-routing",
       "target_file": "core_11_a_misconduct_designation.md",
       "target_anchor": "#4-due-process-safeguards-for-slot-assignment",
@@ -78088,7 +78088,7 @@
     },
     {
       "source_file": "core_11_b_misconduct_pattern_applications.md",
-      "source_header": "5. Pattern applications and criteria routing — Participation and pathway integrity",
+      "source_header": "5. Pattern applications and criteria routing — Participation and accountability-pathway integrity",
       "source_anchor": "#5-pattern-applications-and-criteria-routing",
       "target_file": "core_11_a_misconduct_designation.md",
       "target_anchor": "#1-cross-chapter-discipline",
@@ -78096,7 +78096,7 @@
     },
     {
       "source_file": "core_11_b_misconduct_pattern_applications.md",
-      "source_header": "5. Pattern applications and criteria routing — Participation and pathway integrity",
+      "source_header": "5. Pattern applications and criteria routing — Participation and accountability-pathway integrity",
       "source_anchor": "#5-pattern-applications-and-criteria-routing",
       "target_file": "core_11_a_misconduct_designation.md",
       "target_anchor": "#4-2-prevention-anti-constitutional-locks",
@@ -82648,6 +82648,30 @@
     },
     {
       "source_file": "core_15_expansion_supremacy.md",
+      "source_header": "4.2 Preserved Internal Review Pathways",
+      "source_anchor": "#42-preserved-internal-pathways",
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_15_expansion_supremacy.md",
+      "source_header": "4.2 Preserved Internal Review Pathways",
+      "source_anchor": "#42-preserved-internal-pathways",
+      "target_file": "core_11_b_misconduct_pattern_applications.md",
+      "target_anchor": "#52-rights-floor-waivers-and-unconstitutional-contract-terms",
+      "count": 2
+    },
+    {
+      "source_file": "core_15_expansion_supremacy.md",
+      "source_header": "4.2 Preserved Internal Review Pathways",
+      "source_anchor": "#42-preserved-internal-pathways",
+      "target_file": "core_16_amendment_ratification.md",
+      "target_anchor": "#chapter-sixteen-amendment-ratification-and-procedural-validity",
+      "count": 1
+    },
+    {
+      "source_file": "core_15_expansion_supremacy.md",
       "source_header": "CHAPTER FIFTEEN: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS",
       "source_anchor": "#chapter-fifteen-expansion-supremacy-and-external-legal-orders",
       "target_file": "core_05_band_integrative.md",
@@ -82836,30 +82860,6 @@
       "source_anchor": null,
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": "#chapter-six-foundational-rights",
-      "count": 1
-    },
-    {
-      "source_file": "core_15_expansion_supremacy.md",
-      "source_header": "4.2 Preserved Internal Pathways",
-      "source_anchor": null,
-      "target_file": "core_06_rights_part_d.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_15_expansion_supremacy.md",
-      "source_header": "4.2 Preserved Internal Pathways",
-      "source_anchor": null,
-      "target_file": "core_11_b_misconduct_pattern_applications.md",
-      "target_anchor": "#52-rights-floor-waivers-and-unconstitutional-contract-terms",
-      "count": 2
-    },
-    {
-      "source_file": "core_15_expansion_supremacy.md",
-      "source_header": "4.2 Preserved Internal Pathways",
-      "source_anchor": null,
-      "target_file": "core_16_amendment_ratification.md",
-      "target_anchor": "#chapter-sixteen-amendment-ratification-and-procedural-validity",
       "count": 1
     },
     {
@@ -98760,7 +98760,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05__definitions_home.md",
       "target_anchor": "#chapter-five-foundational-definitions",
@@ -98768,7 +98768,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_apex_accountability_leg.md",
       "target_anchor": "#accountability",
@@ -98776,7 +98776,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_apex_accountability_leg.md",
       "target_anchor": "#accountability-m",
@@ -98784,7 +98784,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_apex_accountability_leg.md",
       "target_anchor": "#accountability-a",
@@ -98792,7 +98792,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_apex_accountability_leg.md",
       "target_anchor": "#accountability-c",
@@ -98800,7 +98800,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_apex_oversight_leg.md",
       "target_anchor": "#oversight-constitutional",
@@ -98808,7 +98808,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_apex_oversight_leg.md",
       "target_anchor": "#oversight-constitutional-m",
@@ -98816,7 +98816,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_apex_oversight_leg.md",
       "target_anchor": "#oversight-constitutional-a",
@@ -98824,7 +98824,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_apex_oversight_leg.md",
       "target_anchor": "#oversight-constitutional-c",
@@ -98832,7 +98832,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_apex_participation_leg.md",
       "target_anchor": "#participation",
@@ -98840,7 +98840,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability",
@@ -98848,7 +98848,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability-a",
@@ -98856,7 +98856,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability-c",
@@ -98864,7 +98864,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#governance",
@@ -98872,7 +98872,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#governance-a",
@@ -98880,7 +98880,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#governance-c",
@@ -98888,7 +98888,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#trust-degradation-and-misleading-reliance",
@@ -98896,7 +98896,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#trust-degradation-and-misleading-reliance-a",
@@ -98904,7 +98904,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#trust-degradation-and-misleading-reliance-c",
@@ -98912,7 +98912,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency",
@@ -98920,7 +98920,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency-a",
@@ -98928,7 +98928,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency-c",
@@ -98936,7 +98936,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#charter",
@@ -98944,7 +98944,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#charter-a",
@@ -98952,7 +98952,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#charter-c",
@@ -98960,7 +98960,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#trust",
@@ -98968,7 +98968,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#trust-a",
@@ -98976,7 +98976,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#trust-c",
@@ -98984,7 +98984,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#corpus",
@@ -98992,7 +98992,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#corpus-a",
@@ -99000,7 +99000,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#corpus-c",
@@ -99008,7 +99008,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability",
@@ -99016,7 +99016,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability-a",
@@ -99024,7 +99024,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability-c",
@@ -99032,7 +99032,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#transparency",
@@ -99040,7 +99040,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#transparency-a",
@@ -99048,7 +99048,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#transparency-c",
@@ -99056,7 +99056,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#material",
@@ -99064,7 +99064,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#material-a",
@@ -99072,7 +99072,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#material-c",
@@ -99080,7 +99080,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#stakeholder-weight",
@@ -99088,7 +99088,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#stakeholder-weight-a",
@@ -99096,7 +99096,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#stakeholder-weight-c",
@@ -99104,7 +99104,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#coercion-and-manipulation-constitutional",
@@ -99112,7 +99112,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#coercion-and-manipulation-constitutional-a",
@@ -99120,7 +99120,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#coercion-and-manipulation-constitutional-c",
@@ -99128,7 +99128,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#accessibility-constitutional",
@@ -99136,7 +99136,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#accessibility-constitutional-a",
@@ -99144,7 +99144,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#accessibility-constitutional-c",
@@ -99152,7 +99152,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#stakeholder",
@@ -99160,7 +99160,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#stakeholder-a",
@@ -99168,7 +99168,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#stakeholder-c",
@@ -99176,7 +99176,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#binding-stakeholder-choice-cluster",
@@ -99184,7 +99184,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#consent-constitutional",
@@ -99192,7 +99192,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#consent-constitutional-a",
@@ -99200,7 +99200,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#consent-constitutional-c",
@@ -99208,7 +99208,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": "#chapter-six-foundational-rights",
@@ -99216,7 +99216,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_12_forum.md",
       "target_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
@@ -99224,7 +99224,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_17_incorporation.md",
       "target_anchor": null,
@@ -99232,7 +99232,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "core_17_incorporation.md",
       "target_anchor": "#chapter-seventeen-incorporation-bridge",
@@ -99240,7 +99240,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "corpus_institutions.md",
       "target_anchor": null,
@@ -99248,7 +99248,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
       "target_anchor": null,
@@ -99256,7 +99256,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
       "target_anchor": "#cjs-01-topic-router-stable-ids",
@@ -99264,7 +99264,7 @@
     },
     {
       "source_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "source_header": "CI-8: Transparency, participation, and accessible pathways",
+      "source_header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "source_anchor": null,
       "target_file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
       "target_anchor": "#cjs-13-shared-implementation-corpus-preamble-contract",

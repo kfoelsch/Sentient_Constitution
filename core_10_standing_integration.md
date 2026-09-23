@@ -88,7 +88,7 @@ A filed case is not standing by itself.
 
 Question 3 decisions do not by themselves change a Chapter Nine slot. If a forum verifies a pipeline error or material new facts—including later-discovered effects—it may set the record aside or require it to be updated, corrected, or superseded under Chapter Nine. Any new slot must follow Chapter Nine’s measurement process, preserve the audit trail, and keep the two axes separate.
 
-The [Rights Floor](core_06_rights_part_a.md#chapter-six-foundational-rights) does not depend on standing and cannot be changed by a standing decision. No consequence may reduce inherent dignity, equal moral standing, survival-critical access, or required pathways for challenge, review, appeal, and remedy.
+The [Rights Floor](core_06_rights_part_a.md#chapter-six-foundational-rights) does not depend on standing and cannot be changed by a standing decision. No consequence may reduce inherent dignity, equal moral standing, survival-critical access, or required challenge, review, appeal, and remedy pathways.
 
 <a id="2-automatic-integration-review-and-continuity"></a>
 ### 2. Automatic integration, review, and continuity
@@ -195,7 +195,7 @@ Forums supervise lawful implementation, challenge, interim relief, and timely mo
 
 A **standing lock** is a prevention and risk-reduction measure. It blocks or limits a named pathway while a verified violation remains unresolved or materially unremedied. Named pathways include trust-, role-, authority-, credit-, oversight-, recognition-, **governance-voting**, and **stakeholder-participation** pathways. It must identify the blocked named pathway, the risk it is meant to reduce, protected subjects or interests, corrective conditions, review route, and reassessment point.
 
-**Pathway distinction — governance-voting vs stakeholder-participation:**
+**Named-named-pathway distinction — governance-voting vs stakeholder-participation:**
 
 - **governance-voting** covers participation in governance voting and comparable legitimacy-mechanism binding collective choice under [Chapter Thirteen §4.1](core_13_governance.md#41-entitlement-and-eligibility), including **Foundational Constitutional Choice**. It does **not** include stake-weighted voice inside an already-authorized system, institution, or bounded decision domain.
 - **stakeholder-participation** covers stake-weighted influence, binding stakeholder choice, and comparable Stakeholder System Participation pathways under [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight) and [Binding Stakeholder Choice](core_05_band_participation.md#binding-stakeholder-choice-cluster). It does **not** erase [Stakeholder](core_05_band_participation.md#stakeholder) status itself, and it does **not** substitute for a **governance-voting** lock.
@@ -496,7 +496,7 @@ These locks are mandatory when their verified trigger is met. Each must be recor
     - advisory capture and funding leverage;
     - contractual vetoes and information chokepoints;
     - data custody, privileged access, and comparable means of functional control.
-  - Global non-restriction limits under [§5.1](#51-definition-and-attachment) apply; this lock does not add further cuts to those protected pathways.
+  - Global non-restriction limits under [§5.1](#51-definition-and-attachment) (*Definition and attachment*) apply; this lock does not add further cuts to those protected challenge, review, appeal, and remedy pathways.
 - **Risk:** renewed anti-constitutional influence, capture, or proxy control while designation consequences remain unresolved.
 - **Protected subjects or interests:** constitutional order, covered systems, forums, accountability pathways, and parties who would be exposed to renewed influence.
 - **Corrective conditions:**
@@ -584,7 +584,7 @@ The automatically calculated integration record displays, for each contribution 
 <a id="62-competency-gates"></a>
 #### 6.2 Competency bars and clearances
 
-*In plain terms: a competency bar is the published standard for a named pathway. Competency clearance is the standing-effect result that says verified readiness meets that bar. Once clearance is in force and the pathway is open, it stays open by default. Some roles need periodic retesting; technical forums decide which ones. A real change in role-relevant capacity — for example after a stroke or a mental-health condition that impairs needed judgment — can trigger reassessment. Clearance never opens a named pathway that a standing lock still blocks.*
+*In plain terms: a competency bar is the published standard for a named pathway. Competency clearance is the standing-effect result that says verified readiness meets that bar. Once clearance is in force and the named pathway is open, it stays open by default. Some roles need periodic retesting; technical forums decide which ones. A real change in role-relevant capacity — for example after a stroke or a mental-health condition that impairs needed judgment — can trigger reassessment. Clearance never opens a named pathway that a standing lock still blocks.*
 
 A **competency bar** is the published, named-pathway-specific qualification standard. Anyone affected must be able to see the rule, check how it was applied, and challenge it if it is wrong. In short, it states what readiness the role or access requires.
 
@@ -735,7 +735,7 @@ Archival is not deletion. [Evidence Preservation](core_05_band_oversight.md#evid
 
 *In plain terms: standing consequences and redress count only when real institutions can deliver them. This section is the constitutional floor for that machinery. Day-to-day staffing, funding, backlog, and succession rules live in the institutions layer.*
 
-Chapter Ten owns the constitutional floor that Question 3 consequences and related redress must be institutionally real. A [Remedy System](core_05_band_accountability.md#remedy-system-constitutional) is the durable capacity that delivers challenge, intake, preservation, review, repair, monitoring, safeguard enforcement, and lock review — not a paper pathway. Implementation detail is owned by [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*). Read with **Article XII-B** (*Right to Challenge, Review, and Redress*) and [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) for forum supervision.
+Chapter Ten owns the constitutional floor that Question 3 consequences and related redress must be institutionally real. A [Remedy System](core_05_band_accountability.md#remedy-system-constitutional) is the durable capacity that delivers challenge, intake, preservation, review, repair, monitoring, safeguard enforcement, and lock review — not a paper remedy pathway. Implementation detail is owned by [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*). Read with **Article XII-B** (*Right to Challenge, Review, and Redress*) and [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) for forum supervision.
 
 Standing integration fails if consequences exist only on paper. Adopters must maintain practical, timely capacity to implement correction, fund remedy, review restrictions, preserve records, enforce safeguards, and prevent escape through cost, delay, borders, restructuring, or formal identity changes.
 
@@ -957,7 +957,7 @@ The subsections below show how common Question 3 situations use the rules alread
 - **Cue:** A fixed Violation Axis record shows verified corruption, capture, false or inflated stake claims, coercive participation-weight extraction, influence-buying in binding stakeholder choice, or comparable material abuse of a **stakeholder-participation** pathway inside an already-authorized system, institution, or bounded decision domain.
 - **Routes through:**
   - [§4](#4-violation-correction-and-prevention) (*remedy, correction, and prevention*);
-  - [§4.2](#42-prevention--general-standing-locks) (*pathway distinction — governance-voting vs stakeholder-participation*); and
+  - [§4.2](#42-prevention--general-standing-locks) (*named-pathway distinction — governance-voting vs stakeholder-participation*); and
   - [§5.5](#55-special-locks) (*Stakeholder-Participation Standing Lock*).
 - **Non-negotiable:** The Stakeholder-Participation Standing Lock attaches when its verified trigger is met. It limits stake-weighted influence and binding stakeholder choice in the affected domain. It does not by itself strip **governance-voting**, **Foundational Constitutional Choice**, or [Stakeholder](core_05_band_participation.md#stakeholder) status. A **governance-voting** lock is not a substitute for this lock.
 

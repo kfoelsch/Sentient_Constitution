@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-09-23T22:07:56+00:00",
+  "generated_at": "2026-09-23T23:48:51+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -166,7 +166,7 @@
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-1110-lived-conditions-during-restriction-and-re-entry-alignment-cross-layer",
       "heading": "CF-11.10 Lived conditions during restriction and re-entry alignment (cross-layer)",
-      "line": 419,
+      "line": 421,
       "kind": "section",
       "gloss": "Where a matter involves coercive or containment conditions, forum timing must be checked against the systems-layer floors for lived conditions. Good calendar numbers do not excuse bad conditions."
     },
@@ -268,9 +268,9 @@
     },
     "CF-11.7": {
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
-      "anchor": "#cf-117-governance-disclosure-fields-supporting-records-accessibility-and-pathway-usability",
-      "heading": "CF-11.7 Governance disclosure fields, supporting records, accessibility, and pathway usability",
-      "line": 354,
+      "anchor": "#cf-117-governance-disclosure-fields-supporting-records-accessibility-and-challenge-pathway-usability",
+      "heading": "CF-11.7 Governance disclosure fields, supporting records, accessibility, and challenge-pathway usability",
+      "line": 356,
       "kind": "section",
       "gloss": "What the public report must actually show, broken out by family and urgency, so outsiders can see where matters are stuck rather than only a reassuring average."
     },
@@ -278,7 +278,7 @@
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-118-contest-integrity-monitoring-interface",
       "heading": "CF-11.8 Contest-integrity monitoring interface",
-      "line": 391,
+      "line": 393,
       "kind": "section",
       "gloss": "Independent monitors read the performance data and ask the harder question: do the delays cluster where conflict, capture, or retaliation would predict?"
     },
@@ -286,7 +286,7 @@
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-119-non-compliant-performance-patterns",
       "heading": "CF-11.9 Non-compliant performance patterns",
-      "line": 404,
+      "line": 406,
       "kind": "section",
       "gloss": "Named failure shapes that are presumed non-compliant — chronic delay concentrated in emergency matters, backlogs that predictably defeat remedy, and unexplained publication delay on significant rulings."
     },
@@ -1677,8 +1677,8 @@
     },
     "CI-8": {
       "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "anchor": "#ci-8-transparency-participation-and-accessible-pathways",
-      "heading": "CI-8: Transparency, participation, and accessible pathways",
+      "anchor": "#ci-8-transparency-participation-and-accessible-challenge-and-service-pathways",
+      "heading": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "line": 1,
       "kind": "family"
     },
@@ -3430,7 +3430,7 @@
         {
           "id": "CI-8",
           "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-          "anchor": "#ci-8-transparency-participation-and-accessible-pathways"
+          "anchor": "#ci-8-transparency-participation-and-accessible-challenge-and-service-pathways"
         }
       ]
     },
@@ -3516,7 +3516,7 @@
         {
           "id": "CI-8",
           "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-          "anchor": "#ci-8-transparency-participation-and-accessible-pathways"
+          "anchor": "#ci-8-transparency-participation-and-accessible-challenge-and-service-pathways"
         }
       ]
     },
@@ -3689,7 +3689,7 @@
     },
     {
       "id": "CJS-R15",
-      "topic": "Contest-integrity monitoring (pathway integrity, not merits)",
+      "topic": "Contest-integrity monitoring (contest-pathway integrity, not merits)",
       "domain": "Institutional governance",
       "primary_owners": [
         {
@@ -3805,7 +3805,7 @@
         {
           "id": "CI-8",
           "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-          "anchor": "#ci-8-transparency-participation-and-accessible-pathways"
+          "anchor": "#ci-8-transparency-participation-and-accessible-challenge-and-service-pathways"
         },
         {
           "id": "CF-11",
@@ -3883,7 +3883,7 @@
         {
           "id": "CI-8",
           "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-          "anchor": "#ci-8-transparency-participation-and-accessible-pathways"
+          "anchor": "#ci-8-transparency-participation-and-accessible-challenge-and-service-pathways"
         },
         {
           "id": "CF-11",
@@ -5821,12 +5821,12 @@
         "prefer": "Preamble (core_00_preamble.md); retain filename core_00_preamble.md, ch00_* keys, and #chapter-00-* anchors"
       },
       {
-        "avoid": "pathway (bare; standing/privilege/lock/clearance object)",
-        "prefer": "named pathway, named privilege pathway, or a Chapter Ten §4.2 type prefix (trust, role, authority, credit, oversight, recognition, stewardship, governance-voting, stakeholder-participation); do not invent clearance pathway or lock pathway as house terms"
+        "avoid": "pathway (bare; any sense)",
+        "prefer": "a kind-naming qualifier: named pathway, named privilege pathway, or a Chapter Ten §4.2 type prefix in the standing sense; challenge/review/appeal/remedy/redress/contest/dispute-resolution/participation/self-service pathway for process routes; causal/harm/risk/interaction pathway for causal analysis; do not invent clearance pathway or lock pathway as house terms"
       },
       {
-        "avoid": "pathways (bare; standing/privilege/lock/clearance object)",
-        "prefer": "named pathways, named privilege pathways, or type-prefixed privilege pathways; retain Capture of Resolution Pathways, challenge/review/appeal/remedy/redress/contest pathways, restorative/restoration pathways, causal/system compounds, and established titles"
+        "avoid": "pathways (bare; any sense), including pathway-… prefix compounds",
+        "prefer": "kind-qualified plurals (named pathways, challenge and review pathways, risk pathways, and similar) and qualified compounds (named-pathway-specific); retain Capture of Resolution Pathways, restorative/restoration pathways, causal/system compounds, and established titles; enforced by avoid-bare-pathway"
       },
       {
         "avoid": "named-pathway result / named-pathway results",

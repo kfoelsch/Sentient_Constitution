@@ -2022,7 +2022,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
   - **Out of scope:**
     - preferred citizenship shopping;
     - a demand for full political franchise beyond baseline Rights-Floor recognition; or
-    - a demand that a particular adopter host at volume merely because no other regime has yet been arranged, where origin-primary or shared / federation backup pathways remain available.
+    - a demand that a particular adopter host at volume merely because no other regime has yet been arranged, where origin-primary or shared / federation backup hosting pathways remain available.
 <a id="non-statelessness-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether recognition and standing adjudication are real after structural break — not a gap where no regime claims responsibility.

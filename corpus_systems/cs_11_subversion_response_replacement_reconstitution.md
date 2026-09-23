@@ -79,7 +79,7 @@ Landscape-scale response may be activated when one or more of the following cond
 *In plain terms: Once activated, protect in order of constitutional harm — survival-critical and rights-sustaining pathways first.*
 
 When landscape response is activated, systems must prioritize controls by constitutional harm potential and dependency criticality:
-- **Tier 1:** survival-critical and Rights-Floor sustaining systems and pathways (Class A and critical Class B dependencies)
+- **Tier 1:** survival-critical and Rights-Floor sustaining systems and service pathways (Class A and critical Class B dependencies)
 - **Tier 2:** high-impact governance and verification infrastructure required for contestability and accountability
 - **Tier 3:** other affected systems where delayed action does not materially increase irreversible harm
 

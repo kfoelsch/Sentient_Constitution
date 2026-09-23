@@ -114,7 +114,7 @@ Records must be tagged, at minimum, for the following access classes:
 - **party-facing** — available to parties or affected sentients subject to lawful privacy, safety, and evidence-protection limits;
 - **public-facing** — published or summarized where needed for routing intelligibility, precedent, shared standards, or governance trust;
 - **audit-facing** — available for lawful audit, reconstruction, and **Article XV-A** (*Auditability and Observable Evidence*) verification;
-- **contest-integrity-facing** — available to [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) (*Contest-integrity monitoring (Class A and Class B)*) monitors where pathway performance, backlog, recusal, routing, or publication integrity is at issue;
+- **contest-integrity-facing** — available to [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) (*Contest-integrity monitoring (Class A and Class B)*) monitors where contest-pathway performance, backlog, recusal, routing, or publication integrity is at issue;
 - **external-assurance-facing** — available when **CI-7.2** (*External assurance triggers*), **CI-8** (*Cross-institution coordination and escalation*), or equivalent lawful assurance triggers apply;
 - **restricted or sealed** — limited only as justified by lawful secrecy, safety, privacy, protected internal-state, or evidence-integrity constraints, with a deferred review or reconstruction path wherever feasible.
 

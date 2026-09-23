@@ -45,7 +45,7 @@ This file is the institutional implementation home for **CI-17** (*End-of-life c
 - **Memorial and disposition** — memorial files, disposition choices, and grief or cultural-practice accommodation must have named owners and contest routes.
 - **After death** — posthumous likeness and experiential-data controls must honor **Article VIII** (*Likeness, Experiential Data, and Publication Rights*) defaults and documented wishes; posthumous data retention follows **CJS-3.18** (*data-retention and lifecycle-integrity terms*) lifecycle rules.
 - **Hard limits** — voluntary discontinuation under **Article VII-E** (*Voluntary Discontinuation of One's Own Existence*) is distinct from involuntary deprivation categorically forbidden under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*); crisis-intervention floors under **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*) are not narrowed.
-- **Read with** — **CI-8** for participation and pathway accessibility.
+- **Read with** — **CI-8** (*Transparency, participation, and accessible challenge and service pathways*) for participation and challenge-pathway accessibility.
 
 *Shared rules live elsewhere.*
 - [**CJS-3.18**](../corpus_joint_structure/cjs_03c_continuity_operations.md) (*data-retention and lifecycle-integrity terms*).

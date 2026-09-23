@@ -115,7 +115,7 @@ A **record** that **only** has **primary** **band** **typing** may set **`nine_s
 
 ## 4. No single net score
 
-Implementations may publish pairs `(C_measure, L*)`, where `L*` is verified violation loss in LEQU. They must not define standing as `C_measure - L*` or reconcile the axes into one gating number. In Question 3 processing, violation consequences are recorded first; contribution currentness and competency bars and clearances are evaluated only for pathways not blocked by a lock.
+Implementations may publish pairs `(C_measure, L*)`, where `L*` is verified violation loss in LEQU. They must not define standing as `C_measure - L*` or reconcile the axes into one gating number. In Question 3 processing, violation consequences are recorded first; contribution currentness and competency bars and clearances are evaluated only for named pathways not blocked by a lock.
 
 ---
 

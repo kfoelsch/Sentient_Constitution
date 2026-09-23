@@ -9,7 +9,7 @@
 
 The Constitution uses records to make consequential action traceable, contestable, and correctable. A record is not simply a database entry or a log: different records carry different constitutional work. This overview helps a reader ask four questions:
 
-1. **What does this record carry?** A claim, a classification, a certification finding, a dispute, a verified account of what happened, or a pathway-specific effect?
+1. **What does this record carry?** A claim, a classification, a certification finding, a dispute, a verified account of what happened, or a named-pathway-specific effect?
 2. **What can it not decide?** A case file is not a standing record; a classification is not a certification; an integration record does not rewrite its sources; a record is not a general reputation score.
 3. **Who may touch it?** The four-seat floor separates initiation, verification or authorization, record custody, and challenge review for a [materially binding act](core_05_band_accountability.md#materially-binding-act).
 4. **How can it be checked and changed?** Official records retain attributable versions, evidence links, correction and challenge routes, and continuity when ordinary systems fail.
@@ -26,7 +26,7 @@ flowchart TB
     S["System Certification Record<br/><br/>bounded review of a system"]
     F["Forum Case Record<br/><br/>the file for a dispute"]
     R["Standing records<br/><br/>separate contribution and violation records"]
-    G["Integration Record<br/><br/>linked, pathway-specific standing decision"]
+    G["Integration Record<br/><br/>linked, named-pathway-specific standing decision"]
     E["Standing effect<br/><br/>State whether a specific role, authority, or access<br/>is open, limited, or blocked—and the verified reason"]
 
     I -->|may support or be linked from| A
@@ -84,7 +84,7 @@ There are two distinct tracks:
 
 They are not combined into a reputation score, dignity rank, permanent status, general worth label, or merged scorecard. Related records can cross-reference, but verified help does not erase verified harm, and harm does not erase verified help. A standing record opens only on its applicable verified trigger; [silence is the default](core_09_standing_assessment.md#21-silence-is-the-default), and the absence of a record is not evidence of risk or low contribution.
 
-### 5. Integration Records and pathway-specific effects
+### 5. Integration Records and named-pathway-specific effects
 
 When an applicable Chapter Nine record is opened, updated, corrected, or superseded, Chapter Ten requires a distinct [integration record](core_10_standing_integration.md#2-automatic-integration-review-and-continuity). It cross-references current source records, measurements, applicable correction/remedy/safeguard information, named pathways, review routes, and reassessment triggers.
 
@@ -131,7 +131,7 @@ Correction and contest are not afterthoughts. A forum reviewing a standing recor
 - **A system classification or data-types record is not the full certification file, a standing record, or an operator’s self-label** ([System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional)).
 - **A Forum Case Record is not a Standing Record and does not by itself create a standing effect** ([Chapter Twelve §2.3](core_12_forum.md#23-forum-case-records-standing-records-and-contests)).
 - **Contribution and violation records remain separately auditable** ([Chapter Nine §2](core_09_standing_assessment.md#2-question-1--what-happened)).
-- **An integration record links its source records and states pathway-specific effects; it does not silently reclassify or rewrite them** ([Chapter Ten §2](core_10_standing_integration.md#2-automatic-integration-review-and-continuity)).
+- **An integration record links its source records and states named-pathway-specific effects; it does not silently reclassify or rewrite them** ([Chapter Ten §2](core_10_standing_integration.md#2-automatic-integration-review-and-continuity)).
 - **No record route may be used to diminish the Rights Floor, evade challenge, or treat ordinary life as conditional on a standing file** ([silence is the default](core_09_standing_assessment.md#21-silence-is-the-default); [Chapter Ten](core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)).
 
 For a case-specific question, this overview is only a reading aid. Start with the relevant numbered source and its required read-with material; source binds, while this map only helps locate it.

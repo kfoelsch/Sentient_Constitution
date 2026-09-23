@@ -113,7 +113,7 @@ flowchart TB
 
 **Pillar 1 — Consequential stewardship ([§10 Consequential Stewardship](#10-consequential-stewardship-the-steward-role)):**
 - Shared systems that materially affect sentients require sentient hands-on operation, maintenance, oversight, and improvement — [**Strategic Stewardship Obligation**](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional), [**Meaningful Agency**](core_05_band_participation.md#meaningful-agency)
-- Records and pathways others can verify and challenge — [**Auditability**](core_05_band_oversight.md#auditability), [**Contestability**](core_05_band_accountability.md#contestability)
+- Records and review pathways others can verify and challenge — [**Auditability**](core_05_band_oversight.md#auditability), [**Contestability**](core_05_band_accountability.md#contestability)
 - Under the **oversight** Tetrad leg, oversight requires auditing; [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others — not the sole auditing home (**Article XV**)
 
 <a id="9-pillar-2-proactive-stewardship"></a>
@@ -316,7 +316,7 @@ Role pathways may separate **learning-dominant** and **operations-dominant** rol
 - **Keeping movement open is how Pillar 1 and Pillar 3 stay connected:**
   - **Learning-dominant roles** are where the competence at scale of [§9.1 Distributed Understanding](#91-distributed-understanding) and [§9.2 Institutional Development](#92-institutional-development) turns into operational judgment.
   - **Operations-dominant roles** return what running the system teaches back to communities and institutions.
-  - **A pathway that only runs one way — or that closes —** leaves **Pillar 3** describing systems it can no longer check and **Pillar 1** accountable only to itself.
+  - **A role pathway that only runs one way — or that closes —** leaves **Pillar 3** describing systems it can no longer check and **Pillar 1** accountable only to itself.
 
 <a id="101-shared-stewardship-standard"></a>
 #### 10.1 Shared Stewardship Standard
@@ -818,7 +818,7 @@ Incentives must not reward, protect, normalize, or make materially advantageous:
   - settlement, indemnity, insurance, or immunity; or
   - comparable arrangements.
 
-**Misaligned reward consequences.** Material rewards obtained through prohibited pathways above are subject to forfeiture and reporting under the standing model. Read [Chapter Ten §5.4 Reporting duty and exclusions](core_10_standing_integration.md#54-special-violation-rules), [§5.4 Forfeiture and retention](core_10_standing_integration.md#54-special-violation-rules), and [§5.4 Correction, records, and routing](core_10_standing_integration.md#54-special-violation-rules).
+**Misaligned reward consequences.** Material rewards obtained through prohibited reward pathways above are subject to forfeiture and reporting under the standing model. Read [Chapter Ten §5.4 Reporting duty and exclusions](core_10_standing_integration.md#54-special-violation-rules), [§5.4 Forfeiture and retention](core_10_standing_integration.md#54-special-violation-rules), and [§5.4 Correction, records, and routing](core_10_standing_integration.md#54-special-violation-rules).
 
 <a id="1213-stewardship-and-operator-application"></a>
 ##### 12.1.3 Stewardship and Operator Application
@@ -933,7 +933,7 @@ Reward paths must not favor the listed targets where those targets predictably c
 
 <br>
 
-*In plain terms: no one gets to be the only sentient who can spot, check, or challenge when governance goes wrong. Detection needs multiple independent pathways, open data and auditing where safety and classification rules allow, and clear escalation when capture or misalignment shows up — not quiet absorption as business as usual. That escalation rule is [§12.3.1 Escalation Triggers](#1231-escalation-triggers).*
+*In plain terms: no one gets to be the only sentient who can spot, check, or challenge when governance goes wrong. Detection needs multiple independent detection pathways, open data and auditing where safety and classification rules allow, and clear escalation when capture or misalignment shows up — not quiet absorption as business as usual. That escalation rule is [§12.3.1 Escalation Triggers](#1231-escalation-triggers).*
 
 **Plural detection and review:**
 
@@ -1027,7 +1027,7 @@ Concentrated or obscured control structures that materially undermine any of the
 **Misaligned reward correction:**
 
 - **When:** misalignment is verified.
-- **Must not:** treat material rewards from misaligned or corrupt pathways as silently keepable standing credit or shielded benefit.
+- **Must not:** treat material rewards from misaligned or corrupt reward pathways as silently keepable standing credit or shielded benefit.
 - **Correction home:** [Chapter Ten §5.4 Special violation rules](core_10_standing_integration.md#54-special-violation-rules) governs:
   - forfeiture;
   - proportionate clawback;

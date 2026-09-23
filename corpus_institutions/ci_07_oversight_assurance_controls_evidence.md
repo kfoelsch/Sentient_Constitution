@@ -106,7 +106,7 @@ Apply **CJS-3.6** (*integrity assurance and resilience operations*) for the shar
 - Topic routing (mandatory read-with): **CJS-R10** (*Forum performance, backlog requirements, publication timeliness, access…*) in **CJS-0.1** (*Topic router*); primary owner **CF-11**.
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3**.
 - Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilience operations*) in **CJS-0.1** (*Topic router*); primary owner **CJS-3.6**.
-- Topic routing (primary owner): **CJS-R15** (*Contest-integrity monitoring (pathway integrity, not merits)*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CF-4**, **CF-11**, **CJS-3.13**.
+- Topic routing (primary owner): **CJS-R15** (*Contest-integrity monitoring (contest-pathway integrity, not merits)*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CF-4**, **CF-11**, **CJS-3.13**.
 
 </details>
 
