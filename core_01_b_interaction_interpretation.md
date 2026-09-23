@@ -38,7 +38,7 @@
 - [Stakeholder Status and Weight](core_05_band_participation.md#stakeholder-status-and-weight-cluster) (Stakeholder System Participation layer)
 - [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer) and [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)
 - [Corpus and Authority Stack](core_05_band_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster)
-- [Accountability, Contestability, and Collective Accountability Failure](core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster)
+- [Accountability, Contestability, and Collective Accountability Failure](core_05_apex_accountability_leg.md#accountability)
 
 **CJS-3** (*Implementation and cross-implementation operational cluster library*) — the operational cluster compass for cross-implementation joint operational terms; read together with this chapter's Tetrad, Aims, and material-stake scaling:
 

@@ -69,7 +69,7 @@ SPINE_ITEMS: tuple[tuple[str, str, str], ...] = (
     ("preamble_model", "core_00_preamble.md", "1-the-model"),
     ("preamble_pipelines", "core_00_preamble.md", "6-key-practical-process-pipelines"),
     ("conflict_resolution", "core_01_b_interaction_interpretation.md", "84-constitutional-meaning-conflict-resolution"),
-    ("shared_stewardship", "core_01_c_stewardship_capacity_principles.md", "911-shared-stewardship-standard"),
+    ("shared_stewardship", "core_01_c_stewardship_capacity_principles.md", "101-shared-stewardship-standard"),
 )
 
 OUT_PATHS = (

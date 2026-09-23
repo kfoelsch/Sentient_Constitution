@@ -16,6 +16,8 @@ from dataclasses import asdict, dataclass, field
 from datetime import datetime, timezone
 from pathlib import Path
 
+from corpus_paths import rebase_relative_links
+
 _TOOLS = Path(__file__).resolve().parent
 if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
@@ -244,6 +246,7 @@ def render_markdown(
     dupes: list[dict],
     root: Path,
 ) -> str:
+    out_dir = root / "doc_architecture" / "generated"
     now = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
     theme_counts = Counter(h.theme_id for h in hits)
     action_counts = Counter(h.action for h in hits)
@@ -267,7 +270,7 @@ def render_markdown(
         "[tools/architecture/disclaimer_themes.json](../tools/architecture/disclaimer_themes.json).",
         "",
         "Editorial model: **safe redundancy** = one canonical exposition + pointers "
-        "(see [doc_architecture.md](../doc_architecture.md) §12).",
+        "(see [doc_architecture.md](../../doc_architecture.md) §12).",
         "",
         "## Summary",
         "",
@@ -345,7 +348,8 @@ def render_markdown(
     for h in thin_candidates[:35]:
         lines.append(
             f"| {h.file} | {h.line} | {clip(h.term, 40)} | {h.component} | "
-            f"{h.theme_id} | {clip(h.excerpt, 100)} |"
+            f"{h.theme_id} | "
+            f"{rebase_relative_links(clip(h.excerpt, 100), (root / h.file).parent, out_dir)} |"
         )
     if len(thin_candidates) > 35:
         lines.append(f"| … | … | … | … | … | ({len(thin_candidates) - 35} more thin hits) |")

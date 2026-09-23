@@ -2,52 +2,49 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-08-03T20:43:03+00:00
+Generated: 2026-09-23T07:37:19+00:00
 
 Scopes **Chapter Five** band and aim files. Classifies disclaimer / negative-scope clauses on **O**, **E**, and **C** components using [tools/architecture/disclaimer_themes.json](../tools/architecture/disclaimer_themes.json).
 
-Editorial model: **safe redundancy** = one canonical exposition + pointers (see [doc_architecture.md](../doc_architecture.md) §12).
+Editorial model: **safe redundancy** = one canonical exposition + pointers (see [doc_architecture.md](../../doc_architecture.md) §12).
 
 ## Summary
 
-- **Total hits (actionable):** 7
-- **Thin candidates:** 3
-- **Review candidates:** 2
-- **Keep (local boundary + canonical homes):** 2
-- **Canonical exposition (do not thin):** 0
-- **Same-theme duplicates across O/E/C (terms):** 1
+- **Total hits (actionable):** 2
+- **Thin candidates:** 1
+- **Review candidates:** 0
+- **Keep (local boundary + canonical homes):** 1
+- **Canonical exposition (do not thin):** 1
+- **Same-theme duplicates across O/E/C (terms):** 0
 
 ### By recommended action
 
 | Action | Count | Meaning |
 | --- | ---: | --- |
-| thin | 3 | Replace with Trace read-with / single C line |
-| review | 2 | Triage per term — may stay local |
-| keep | 2 | Term-pair or jurisdictional — do not fold |
-| canonical | 0 | Canonical home for theme — retain |
+| thin | 1 | Replace with Trace read-with / single C line |
+| review | 0 | Triage per term — may stay local |
+| keep | 0 | Term-pair or jurisdictional — do not fold |
+| canonical | 1 | Canonical home for theme — retain |
 
 ### By O/E/C component
 
 | Component | Hits |
 | --- | ---: |
-| O | 4 |
+| O | 2 |
 | E | 0 |
-| C | 3 |
+| C | 0 |
 
 ### By source file
 
 | File | Hits |
 | --- | ---: |
-| core_05_band_participation.md | 5 |
 | core_05_apex_participation_leg.md | 2 |
 
 ### By theme family
 
 | Theme | Hits | Default action | Canonical home |
 | --- | ---: | --- | --- |
-| Governance layer separation (authorization vs participation) | 2 | thin | core_00_preamble.md §4–§5; core_05_band_integrative.md Constitutional Contract c… |
-| Rights-Floor jurisdiction / does not displace Ch6 | 2 | keep | core_06_rights_part_*.md; Trace routing |
-| Anti-formalism / label-gaming evasion block | 2 | review | core_02_definition_structure.md Chapter Three §2.2.1; core_01_c_stewardship_… |
+| Governance layer separation (authorization vs participation) | 1 | thin | core_00_preamble.md §3.3; core_05_band_integrative.md Constitutional Contract c… |
 | Symbolic / theater participation negative | 1 | thin | core_01_c_stewardship_capacity_principles.md §11; Participation definition |
 
 ## Intra-entry redundancy (same theme, multiple components)
@@ -56,15 +53,13 @@ Highest-yield thinning: drop duplicate theme on secondary components when one en
 
 | Term | Theme | Components |
 | --- | --- | --- |
-| Sentience Status Adjudication | Rights-Floor jurisdiction / does not displace Ch6 | C, O |
+| — | — | — |
 
 ## Thin candidates (sample)
 
 | File | Line | Term | Comp | Theme | Excerpt |
 | --- | ---: | --- | --- | --- | --- |
-| core_05_apex_participation_leg.md | 29 | (no heading) | O | layer_separation | Give affected sentients and [Stakeholders](core_05_band_participation.md#stakeholder) real voice in… |
-| core_05_apex_participation_leg.md | 29 | (no heading) | O | symbolic_participation | Give affected sentients and [Stakeholders](core_05_band_participation.md#stakeholder) real voice in… |
-| core_05_band_participation.md | 1712 | Binding Stakeholder Choice — Decision-R… | O | layer_separation | A **Stakeholder System Participation** layer requirement: when material disagreement requires a bin… |
+| core_05_apex_participation_leg.md | 31 | Participation | O | layer_separation | Give affected sentients and [Stakeholders](../../core_05_band_participation.md#stakeholder) real voice in… |
 
 ## Suggested editorial waves
 
@@ -103,7 +98,7 @@ Highest-yield thinning: drop duplicate theme on secondary components when one en
 
 - **Label:** Governance layer separation (authorization vs participation)
 - **Action:** thin
-- **Canonical home:** core_00_preamble.md §4–§5; core_05_band_integrative.md Constitutional Contract cluster
+- **Canonical home:** core_00_preamble.md §3.3; core_05_band_integrative.md Constitutional Contract cluster
 - **Notes:** One canonical exposition + short local pointer; remove repeated full layer essays.
 - **Patterns:** `constitutional contract layer`, `stakeholder system participation`, `authorization layer`, `foundational constitutional choice`, `not a substitute for constitutional authorization`, `does not erase duties owed under`
 

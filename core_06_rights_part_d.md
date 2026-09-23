@@ -55,7 +55,7 @@ Disputes among sentients, systems, and institutions that affect constitutional R
 - contestable;
 - practically usable.
 
-Adjudication and dispute resolution in the constitutional sense are defined in **Chapter Five** as [*Adjudication and Dispute Resolution*](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) and [*Timely Resolution*](core_05_band_accountability.md#timely-resolution-constitutional), members of the [*Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure*](core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster) cluster.
+Adjudication and dispute resolution in the constitutional sense are defined in **Chapter Five** as [*Adjudication and Dispute Resolution*](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) and [*Timely Resolution*](core_05_band_accountability.md#timely-resolution-constitutional), members of the [*Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure*](core_05_apex_accountability_leg.md#accountability) cluster.
 
 *Article neighbors:*
 
