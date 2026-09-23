@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-23T20:32:03+00:00",
+  "generated_at": "2026-09-23T21:04:36+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 15091,
+  "edge_count": 15118,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -364,6 +364,14 @@
       "source_anchor": "#4-principles-definitions-and-rights",
       "target_file": "core_09_standing_assessment.md",
       "target_anchor": "#chapter-nine-compliance-violation-and-standing-model",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "5. Functional Independence and Segregation of Duties",
+      "source_anchor": "#5-functional-independence-and-segregation-of-duties",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act",
       "count": 1
     },
     {
@@ -9610,6 +9618,14 @@
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "11.2 Segregation of Duties",
       "source_anchor": "#112-segregation-of-duties",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "11.2 Segregation of Duties",
+      "source_anchor": "#112-segregation-of-duties",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#stewardship-constitutional",
       "count": 2
@@ -17452,6 +17468,14 @@
       "source_anchor": "#definitions-a-z",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#material-control-line",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Definitions A-Z",
+      "source_anchor": "#definitions-a-z",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act",
       "count": 1
     },
     {
@@ -25419,6 +25443,14 @@
       "source_header": "Governance architecture, decentralization, and concentration",
       "source_anchor": "#governance-architecture-oversight-decentralization-and-concentration-cluster",
       "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Governance architecture, decentralization, and concentration",
+      "source_anchor": "#governance-architecture-oversight-decentralization-and-concentration-cluster",
+      "target_file": "core_05_band_accountability.md",
       "target_anchor": "#materially-binding-act-record",
       "count": 1
     },
@@ -26680,6 +26712,150 @@
     },
     {
       "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act",
+      "source_anchor": "#materially-binding-act",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#5-functional-independence-and-segregation-of-duties",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act",
+      "source_anchor": "#materially-binding-act",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#33-governance-layers",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act",
+      "source_anchor": "#materially-binding-act",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#112-segregation-of-duties",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act",
+      "source_anchor": "#materially-binding-act",
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act",
+      "source_anchor": "#materially-binding-act",
+      "target_file": "core_05_apex_oversight_leg.md",
+      "target_anchor": "#oversight-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act",
+      "source_anchor": "#materially-binding-act",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#governance-architecture-oversight-decentralization-and-concentration-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act",
+      "source_anchor": "#materially-binding-act",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act-record",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act",
+      "source_anchor": "#materially-binding-act",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#attributable-action-constitutional",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act",
+      "source_anchor": "#materially-binding-act",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#initiating-seat",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act",
+      "source_anchor": "#materially-binding-act",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#verify-or-authorize-seat",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act",
+      "source_anchor": "#materially-binding-act",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#record-seat",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act",
+      "source_anchor": "#materially-binding-act",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contest-seat",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act",
+      "source_anchor": "#materially-binding-act",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#material-control-line",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act",
+      "source_anchor": "#materially-binding-act",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#material",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act",
+      "source_anchor": "#materially-binding-act",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality-determination",
+      "count": 5
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act",
+      "source_anchor": "#materially-binding-act",
+      "target_file": "core_07_functional_independence_segregation_of_duties.md",
+      "target_anchor": "#1-purpose-scope-and-owner-boundary",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act",
+      "source_anchor": "#materially-binding-act",
+      "target_file": "core_07_functional_independence_segregation_of_duties.md",
+      "target_anchor": "#8-relationship-to-later-processes",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act",
+      "source_anchor": "#materially-binding-act",
+      "target_file": "core_07_functional_independence_segregation_of_duties.md",
+      "target_anchor": "#4-published-placement-vacancy-and-substitution",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
       "source_header": "Materially Binding Act Record",
       "source_anchor": "#materially-binding-act-record",
       "target_file": "core_00_preamble.md",
@@ -26709,6 +26885,14 @@
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#governance-architecture-oversight-decentralization-and-concentration-cluster",
       "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act Record",
+      "source_anchor": "#materially-binding-act-record",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act",
+      "count": 3
     },
     {
       "source_file": "core_05_band_accountability.md",
@@ -30436,6 +30620,14 @@
       "source_anchor": "#anti-capture",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Anti-Capture",
+      "source_anchor": "#anti-capture",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act",
       "count": 1
     },
     {
@@ -51066,6 +51258,14 @@
       "source_file": "core_06_rights_part_a.md",
       "source_header": "Article I-B: Ecological Footprint and Transparency",
       "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article I-B: Ecological Footprint and Transparency",
+      "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#ecological-footprint",
       "count": 3
@@ -70236,6 +70436,14 @@
       "source_anchor": "#1-purpose-scope-and-owner-boundary",
       "target_file": "core_05_apex_oversight_leg.md",
       "target_anchor": "#oversight-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "1. Purpose, Scope, and Owner Boundary",
+      "source_anchor": "#1-purpose-scope-and-owner-boundary",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act",
       "count": 1
     },
     {
@@ -108076,6 +108284,14 @@
       "source_anchor": "#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#market-structure-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
+      "source_header": "CJS-3.11.3 Consolidation ceiling-setting discipline (adopter-tunable)",
+      "source_anchor": "#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act",
       "count": 1
     },
     {

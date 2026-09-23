@@ -117,7 +117,7 @@
       "href": "../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction"
     }
   ],
-  "term_count": 235,
+  "term_count": 236,
   "terms": [
     {
       "term": "Accessibility",
@@ -1000,6 +1000,13 @@
       "anchor": "#materiality-under-uncertainty",
       "plain_terms": "when you are not sure whether something is material, default to the safer (higher) classification — do not wait for certainty or hope for a low label.",
       "href": "../../core_05_band_oversight.md#materiality-under-uncertainty"
+    },
+    {
+      "term": "Materially Binding Act",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#materially-binding-act",
+      "plain_terms": "a materially binding act is an official step that settles something that matters — a decision, approval, finding, record change, release, payment, or ruling on a challenge — so that others must follow it or may rely on it. Because it binds, starting it, checking it, recording it, and hearing a challenge to it must stay in separate hands. Advice, drafts, and raw logs are not binding acts; the step that adopts them or gives them effect is.",
+      "href": "../../core_05_band_accountability.md#materially-binding-act"
     },
     {
       "term": "Materially Binding Act Record",

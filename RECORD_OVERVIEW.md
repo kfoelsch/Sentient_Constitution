@@ -11,7 +11,7 @@ The Constitution uses records to make consequential action traceable, contestabl
 
 1. **What does this record carry?** A claim, a classification, a certification finding, a dispute, a verified account of what happened, or a pathway-specific effect?
 2. **What can it not decide?** A case file is not a standing record; a classification is not a certification; an integration record does not rewrite its sources; a record is not a general reputation score.
-3. **Who may touch it?** The four-seat floor separates initiation, verification or authorization, record custody, and challenge review for a materially binding act.
+3. **Who may touch it?** The four-seat floor separates initiation, verification or authorization, record custody, and challenge review for a [materially binding act](core_05_band_accountability.md#materially-binding-act).
 4. **How can it be checked and changed?** Official records retain attributable versions, evidence links, correction and challenge routes, and continuity when ordinary systems fail.
 
 *The map shows selected relationships. It is not a universal workflow: not every matter has every record, and arrows identify possible source-grounded links rather than automatic permission or a required sequence.*

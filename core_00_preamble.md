@@ -219,7 +219,7 @@ Each summary below states what the chapter owns and what it produces.
 
 *In plain terms: before a materially binding act moves, separate who starts it, who checks or authorizes it, who holds the official record, and who reviews a challenge. The roles may scale to the setting, but the same actor and its control line cannot quietly occupy the checks on its own act.*
 
-- **What it owns:** The cross-process floor requiring every **Materially Binding Act** to assign four functions separately:
+- **What it owns:** The cross-process floor requiring every [Materially Binding Act](core_05_band_accountability.md#materially-binding-act) to assign four functions separately:
   - initiation;
   - verification or authorization;
   - official record custody; and

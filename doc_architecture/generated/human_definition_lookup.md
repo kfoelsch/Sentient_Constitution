@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** Term → one-sentence gloss → source. This is a locator, not a second dictionary. Where a gloss and the source differ, the source binds. Official meaning lives on the named Chapter Five home (and Preamble named terms where listed in the start list).
 
-Coverage: **165** of **235** registry terms carry a source gloss.
+Coverage: **166** of **236** registry terms carry a source gloss.
 
 ## Start here
 
@@ -159,6 +159,7 @@ Names someone would actually type. Each row points; it does not replace the defi
 | Materiality Determination | the method for deciding whether an impact or risk is constitutionally material — big enough in stake to change which duties apply — for a system or an event, looking at the connected whole, not just isolated pieces. That includes prospective harm, not only harm that has already happened. | [Source](../../core_05_band_oversight.md#materiality-determination) |
 | Materiality Integrity Constraint | you may not make a big problem look small by redrawing boxes, splitting pieces, or reclassifying your way out of it. | [Source](../../core_05_band_oversight.md#materiality-integrity-constraint) |
 | Materiality Under Uncertainty | when you are not sure whether something is material, default to the safer (higher) classification — do not wait for certainty or hope for a low label. | [Source](../../core_05_band_oversight.md#materiality-under-uncertainty) |
+| Materially Binding Act | a materially binding act is an official step that settles something that matters — a decision, approval, finding, record change, release, payment, or ruling on a challenge — so that others must follow it or may rely on it. Because it binds, starting it, checking it, recording it, and hearing a challenge to it must stay in separate hands. Advice, drafts, and raw logs are not binding acts; the step that adopts them or gives them effect is. | [Source](../../core_05_band_accountability.md#materially-binding-act) |
 | Materially Binding Act Record | *(no plain-terms gloss in source)* | [Source](../../core_05_band_accountability.md#materially-binding-act-record) |
 | Meaningful Agency | agency is the real ability to understand what matters, form and revise your aims, take part in decisions that affect you, refuse or leave when the Constitution requires it, and act without coercion, manipulation, deception, or lock-in that hollows that out. A menu of choices you cannot actually use does not count. Consent is one important use of that ability — it is not the same thing as agency itself. | [Source](../../core_05_band_participation.md#meaningful-agency) |
 | Merits Determination | a binding decision on the actual substance of a dispute — such as liability, rights, validity, or remedy. Routing, scheduling, monitoring, evidence preservation, and a Stay are procedural steps, not decisions on the merits. | [Source](../../core_05_band_accountability.md#merits-determination) |

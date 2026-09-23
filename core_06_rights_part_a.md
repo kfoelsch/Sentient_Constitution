@@ -310,12 +310,12 @@ Chapter Five defines those conditions under [Environmental Preconditions](core_0
 
 <br>
 
-*In plain terms: when a rule calls for it, the environmental cost of an activity or system should be counted honestly and reported openly. That includes costs that come before it (such as mining and manufacturing) and after it (such as use and disposal). The goal is numbers that others can compare and check. This subsection gives the shared words and honesty standards for that work. It does not, by itself, make anyone cut their footprint. Required cuts or limits come from other rules.*
+*In plain terms: when a rule calls for it, the environmental cost of an activity, system, product, or service should be counted honestly and reported openly. That includes costs that come before it (such as mining and manufacturing) and after it (such as use and disposal). The goal is numbers that others can compare and check. This subsection gives the shared words and honesty standards for that work. It does not, by itself, make anyone cut their footprint. Required cuts or limits come from other rules.*
 
 Chapter Five defines [Ecological Footprint](core_05_band_continuity.md#ecological-footprint) as the environmental burdens that can be traced to a sentient, system, product, or service. It counts energy, materials, emissions, land use, and similar burdens across the thing's whole life and the other systems it depends on. The measure is used to disclose, compare, and reduce those burdens. Local measures that cannot be traced to a lifecycle or dependency burden are not part of it.
 
 - **When this Article applies:**
-  - when an activity or system puts environmental burdens at stake under **Article I** (*Environmental Survival*); or
+  - when an activity, system, product, or service puts environmental burdens at stake under **Article I** (*Environmental Survival*), whether through its ongoing operation or through a [Materially Binding Act](core_05_band_accountability.md#materially-binding-act) that authorizes, deploys, continues, or withdraws it; or
   - when another rights rule — such as **Article XV-C** (*Verification Accessibility*) or a related implementation rule — requires footprint transparency.
 - **Who chooses the method:** This Article does not choose how to count the footprint, how to check the count, or what number to aim for. The rule that creates the duty makes those choices.
 - **How to count and report:**

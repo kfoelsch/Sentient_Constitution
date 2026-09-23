@@ -3,8 +3,8 @@
   "effective_date": "2026-08-09",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
-  "heading_count": 879,
-  "glossed_count": 613,
+  "heading_count": 880,
+  "glossed_count": 614,
   "files": [
     {
       "file": "core_00_preamble.md",
@@ -1540,18 +1540,18 @@
           "level": 3,
           "title": "Chapter Five compass and definition map",
           "anchor": "chapter-five-compass-and-definition-map",
-          "line": 368,
+          "line": 369,
           "gloss": "Chapter Five is sorted by the two aims and the four Tetrad legs; this table says which file holds which cluster range.",
-          "gloss_line": 382
+          "gloss_line": 383
         },
         {
           "file": "core_05__definitions_home.md",
           "level": 3,
           "title": "Measurement crosswalk (reader guidance)",
           "anchor": "measurement-crosswalk-reader-guidance",
-          "line": 400,
+          "line": 401,
           "gloss": "Preamble §2 asks seven category questions; this table maps each question to the Chapter Five homes that answer it.",
-          "gloss_line": 402
+          "gloss_line": 403
         }
       ]
     },
@@ -1813,8 +1813,8 @@
     {
       "file": "core_05_band_accountability.md",
       "title": "Accountability Constitutional Definitions",
-      "heading_count": 83,
-      "glossed_count": 71,
+      "heading_count": 84,
+      "glossed_count": 72,
       "sections": [
         {
           "file": "core_05_band_accountability.md",
@@ -2118,97 +2118,106 @@
           "level": 4,
           "title": "Governance",
           "anchor": "governance",
-          "line": 1235,
+          "line": 1236,
           "gloss": "Governance is how a system assigns and limits power, makes decisions, changes over time, and holds decision-makers answerable. More consequential power requires stronger oversight, accountability, and review.",
-          "gloss_line": 1249
+          "gloss_line": 1250
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 4,
           "title": "Material Control Line",
           "anchor": "material-control-line",
-          "line": 1282,
+          "line": 1283,
           "gloss": "a Material Control Line is the real chain of power around a particular act. It includes the sentients, offices, or systems that can meaningfully direct, overrule, reward, punish, remove, delay, or suppress the work, even when an organization chart calls the seat independent.",
-          "gloss_line": 1296
+          "gloss_line": 1297
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 4,
           "title": "Initiating Seat",
           "anchor": "initiating-seat",
-          "line": 1325,
+          "line": 1326,
           "gloss": "the Initiating Seat is the role that starts a particular act. It belongs to the sentient, office, or system seeking, proposing, operating, claiming, or otherwise setting that act in motion—even when a tool, agent, or intermediary transmits the request.",
-          "gloss_line": 1339
+          "gloss_line": 1340
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 4,
           "title": "Verify-or-Authorize Seat",
           "anchor": "verify-or-authorize-seat",
-          "line": 1361,
+          "line": 1362,
           "gloss": "the Verify-or-Authorize Seat is the role that independently checks the evidence and authority for a particular act against the governing standard, then verifies, authorizes, declines, or conditions the act. A signature, checklist, or automated test is not this seat unless it carries that real checking and decision authority.",
-          "gloss_line": 1375
+          "gloss_line": 1376
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 4,
           "title": "Record Seat",
           "anchor": "record-seat",
-          "line": 1397,
+          "line": 1398,
           "gloss": "the Record Seat is the role that makes and keeps the official record of what the Verify-or-Authorize Seat determined. It records the determination; it does not create or independently verify that determination.",
-          "gloss_line": 1411
+          "gloss_line": 1412
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 4,
           "title": "Contest Seat",
           "anchor": "contest-seat",
-          "line": 1433,
+          "line": 1434,
           "gloss": "the Contest Seat is the role that receives and reviews a challenge to a particular act or its record, orders correction or limits where authorized, and sends any issue it cannot decide to the proper independent path. Receiving a complaint is not enough if the recipient cannot review or route it.",
-          "gloss_line": 1447
+          "gloss_line": 1448
+        },
+        {
+          "file": "core_05_band_accountability.md",
+          "level": 4,
+          "title": "Materially Binding Act",
+          "anchor": "materially-binding-act",
+          "line": 1470,
+          "gloss": "a materially binding act is an official step that settles something that matters — a decision, approval, finding, record change, release, payment, or ruling on a challenge — so that others must follow it or may rely on it. Because it binds, starting it, checking it, recording it, and hearing a challenge to it must stay in separate hands. Advice, drafts, and raw logs are not binding acts; the step that adopts them or gives them effect is.",
+          "gloss_line": 1484
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 4,
           "title": "Materially Binding Act Record",
           "anchor": "act-record",
-          "line": 1470,
-          "gloss": "an Act Record is the official trail for one materially binding act. It shows what the act was, who held each required seat, what was checked and decided, how the matter moved, and where a challenge goes. Existing process records may carry or link this information; a second duplicate record is not required.",
-          "gloss_line": 1484
+          "line": 1509,
+          "gloss": "an Act Record is the official trail for one [materially binding act](core_05_band_accountability.md#materially-binding-act). It shows what the act was, who held each required seat, what was checked and decided, how the matter moved, and where a challenge goes. Existing process records may carry or link this information; a second duplicate record is not required.",
+          "gloss_line": 1523
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 4,
           "title": "Decentralization",
           "anchor": "decentralization",
-          "line": 1509,
+          "line": 1548,
           "gloss": "put decision-making at the smallest and least centralized level that can still meet every binding safety, truth, oversight, and system-wide requirement.",
-          "gloss_line": 1522
+          "gloss_line": 1561
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 4,
           "title": "Market Structure",
           "anchor": "market-structure-constitutional",
-          "line": 1551,
+          "line": 1590,
           "gloss": "markets and market-like systems must leave participants real choices — fair entry, workable exit, substitutes, bargaining without coercion, and reviewable access to essential infrastructure. Size or innovation alone is not a violation, but domination and dependency still require scrutiny.",
-          "gloss_line": 1564
+          "gloss_line": 1603
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 4,
           "title": "Market Concentration Threshold",
           "anchor": "market-concentration-threshold-constitutional",
-          "line": 1608,
+          "line": 1647,
           "gloss": "adopters set the point at which too much control over a market, platform, infrastructure, labor, data, compute, capital, resources, or information triggers stronger review or remedy. They may tune that point to context, but may not set it so high that the Chapter One §14 (*Market Structure*) protection never works.",
-          "gloss_line": 1621
+          "gloss_line": 1660
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 3,
           "title": "Accountability: Dependent clusters",
           "anchor": "stakeholder-identification-participation-semi-independent",
-          "line": 1676,
+          "line": 1715,
           "gloss": null,
           "gloss_line": null
         },
@@ -2217,7 +2226,7 @@
           "level": 4,
           "title": "Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying",
           "anchor": "defa1",
-          "line": 1681,
+          "line": 1720,
           "gloss": null,
           "gloss_line": null
         },
@@ -2226,61 +2235,61 @@
           "level": 5,
           "title": "Harm",
           "anchor": "harm",
-          "line": 1745,
+          "line": 1784,
           "gloss": "harm is a material worsening of a sentient's life, agency, functioning, or psychological health. Offense, discomfort, or disagreement alone is not harm without a material pathway to such effects.",
-          "gloss_line": 1757
+          "gloss_line": 1796
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Collective Harm Boundary",
           "anchor": "collective-harm-boundary",
-          "line": 1794,
+          "line": 1833,
           "gloss": "freedom of action stops where conduct creates verifiable material harm to another sentient's protected interests or to shared constitutional conditions. Mere offense or preference does not cross this boundary.",
-          "gloss_line": 1806
+          "gloss_line": 1845
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Psychological Harm",
           "anchor": "psychological-harm",
-          "line": 1822,
+          "line": 1861,
           "gloss": "psychological harm is a material injury to how a sentient thinks, feels, relates, or exercises agency. Ordinary discomfort is not enough.",
-          "gloss_line": 1824
+          "gloss_line": 1863
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Irreversible Harm",
           "anchor": "irreversible-harm",
-          "line": 1850,
+          "line": 1889,
           "gloss": "irreversible harm is damage that cannot meaningfully be repaired in the time that matters for the affected sentients or systems.",
-          "gloss_line": 1862
+          "gloss_line": 1901
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Cruelty",
           "anchor": "cruelty",
-          "line": 1889,
+          "line": 1928,
           "gloss": "cruelty is treatment that makes someone suffer on purpose as the point of the treatment, or that piles on gratuitous or degrading suffering beyond what necessity and proportionality allow. Humiliation for its own sake is one form of that. Ordinary harm, fair consequences that hurt, and lawful restrictions are not automatically cruelty.",
-          "gloss_line": 1903
+          "gloss_line": 1942
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Harassment and Bullying",
           "anchor": "harassment-and-bullying",
-          "line": 1942,
+          "line": 1981,
           "gloss": "harassment and bullying are unwanted acts or conditions that, through repetition, coordination, power, or severity, materially make a setting unsafe, degrading, or hard to participate in.",
-          "gloss_line": 1954
+          "gloss_line": 1993
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 4,
           "title": "Def.A2 Forum Families and Dispute Routing",
           "anchor": "defa2",
-          "line": 2001,
+          "line": 2040,
           "gloss": null,
           "gloss_line": null
         },
@@ -2289,88 +2298,88 @@
           "level": 5,
           "title": "Primary-Stakes Routing",
           "anchor": "primary-stakes-routing",
-          "line": 2053,
+          "line": 2092,
           "gloss": "route a case to the forum family responsible for what is really at stake, not the family favored by its title, the parties, or administrative convenience.",
-          "gloss_line": 2064
+          "gloss_line": 2103
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Forum Family, Sentient",
           "anchor": "forum-family-sentient",
-          "line": 2083,
+          "line": 2122,
           "gloss": "Sentient forums handle disputes between sentients about private or community duties, civil harm, restoration, or local norms when institutional power or constitutional validity is not the main question.",
-          "gloss_line": 2094
+          "gloss_line": 2133
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Forum Family, Technical",
           "anchor": "forum-family-technical",
-          "line": 2112,
+          "line": 2151,
           "gloss": "Technical forums handle disputes whose main stake requires specialized rules for technical procedure, expert evidence, knowledge, standards, bounded uncertainty — or sentience-status determination on indicators.",
-          "gloss_line": 2123
+          "gloss_line": 2162
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Forum Family, Institutional",
           "anchor": "forum-family-institutional",
-          "line": 2147,
+          "line": 2186,
           "gloss": "Institutional forums handle disputes mainly about an institution's powers, duties, supervision, classifications, or compliance with its duties.",
-          "gloss_line": 2158
+          "gloss_line": 2197
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Forum Family, Environment",
           "anchor": "forum-family-environment",
-          "line": 2176,
+          "line": 2215,
           "gloss": "Environment forums handle disputes mainly about ecological integrity, environmental conditions, shared-system restoration, or environmental burdens.",
-          "gloss_line": 2187
+          "gloss_line": 2226
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Forum Family, Integrity",
           "anchor": "forum-family-integrity",
-          "line": 2205,
+          "line": 2244,
           "gloss": "Integrity forums handle disputes mainly about honest office, fair process, disclosure, conflicts, anti-capture duties, and system-wide integrity failures.",
-          "gloss_line": 2216
+          "gloss_line": 2255
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Forum Family, Constitutional",
           "anchor": "forum-family-constitutional",
-          "line": 2249,
+          "line": 2288,
           "gloss": "Constitutional forums decide constitutional meaning and validity, certified constitutional questions, supremacy disputes, and structural remedies that change governance for classes of actors or systems.",
-          "gloss_line": 2260
+          "gloss_line": 2299
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Forum Case Record",
           "anchor": "forum-case-record",
-          "line": 2287,
+          "line": 2326,
           "gloss": "a Forum Case Record is the case file for a dispute. It is not a Standing Record, and it does not itself create a Standing Effect.",
-          "gloss_line": 2299
+          "gloss_line": 2338
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 4,
           "title": "Non-Compliance Finding Profile",
           "anchor": "non-compliance-finding-profile",
-          "line": 2362,
+          "line": 2401,
           "gloss": "an optional profile can describe a material non-compliance finding by Tetrad leg, aim, governance layer, failure character, and severity tier. It helps routing and audit but does not change the underlying verdict.",
-          "gloss_line": 2375
+          "gloss_line": 2414
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 4,
           "title": "Def.A3 Standing State, Contribution, and Violation",
           "anchor": "defa3",
-          "line": 2396,
+          "line": 2435,
           "gloss": null,
           "gloss_line": null
         },
@@ -2379,133 +2388,133 @@
           "level": 5,
           "title": "Participant Standing",
           "anchor": "participant-standing-constitutional",
-          "line": 2457,
+          "line": 2496,
           "gloss": "Participant Standing says whether a sentient currently qualifies to participate or hold a role under valid, contestable rules. It is not dignity, reputation, popularity, or proof that a sentient is a stakeholder. Opening a trust-sensitive named pathway requires meeting its competency bar and holding competency clearance; closing a privilege requires a standing lock on that named pathway — not a vague status label.",
-          "gloss_line": 2469
+          "gloss_line": 2508
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Verified Inputs for Standing",
           "anchor": "verified-inputs-for-standing",
-          "line": 2521,
+          "line": 2560,
           "gloss": "only verified, reviewable contribution records and violation findings may affect standing. Allegations, complaints, intake labels, routing choices, reputation, and provisional case material are not verified inputs by themselves.",
-          "gloss_line": 2533
+          "gloss_line": 2572
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Contribution Nature",
           "anchor": "contribution-state",
-          "line": 2574,
+          "line": 2613,
           "gloss": "Contribution Nature is the positive-only Axis I classification, applied only from auditable, contestable verified contribution records. Adverse findings belong on Violation Axis II and cannot be averaged, netted, or offset against contributions. Reputation, pedigree, or an unverified claim of good work is not enough.",
-          "gloss_line": 2587
+          "gloss_line": 2626
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Violation Nature",
           "anchor": "violation-nature-chapter-six",
-          "line": 2627,
+          "line": 2666,
           "gloss": "Violation Nature is the Axis II classification of a verified adverse outcome, applied only from auditable, contestable verified violation findings. Chapter Nine assigns the numeric slot from verified impact; descriptors such as intent, coercion, concealment, or response do not move that slot. An allegation, intake label, routing choice, or provisional case narrative is not enough.",
-          "gloss_line": 2639
+          "gloss_line": 2678
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Standing Effect",
           "anchor": "standing-effect-chapter-six",
-          "line": 2679,
+          "line": 2718,
           "gloss": "Standing Effect is the consequence applied from verified, linked Standing Records. It is separate from those records and cannot merge, average, net, or offset the Contribution and Violation axes.",
-          "gloss_line": 2692
+          "gloss_line": 2731
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Standing Record",
           "anchor": "standing-record-chapter-six",
-          "line": 2745,
+          "line": 2784,
           "gloss": "a Standing Record is a bounded, reviewable measurement record for one subject, scope, time window, status, context, and axis. It is not a Forum Case Record or a Standing Effect.",
-          "gloss_line": 2758
+          "gloss_line": 2797
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Competency Bar",
           "anchor": "competency-bar",
-          "line": 2835,
+          "line": 2874,
           "gloss": "a Competency Bar is the published, role-specific standard for a named pathway — the skill, experience, training, and reliability the role actually needs. It is not prestige, insider sponsorship, or a standing effect by itself.",
-          "gloss_line": 2847
+          "gloss_line": 2886
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Competency Clearance",
           "anchor": "competency-gate",
-          "line": 2880,
+          "line": 2919,
           "gloss": "Competency Clearance is the standing-effect result that says verified readiness meets the published competency bar for a named pathway. It may support opening that named pathway only when no standing lock blocks it. It is not prestige, insider sponsorship, or permanent entitlement.",
-          "gloss_line": 2892
+          "gloss_line": 2931
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Standing Lock",
           "anchor": "standing-lock",
-          "line": 2927,
+          "line": 2966,
           "gloss": "a Standing Lock temporarily limits a named privilege pathway — trust, roles, credit, recognition, authority, governance voting, stakeholder participation, or a comparable recorded privilege pathway — because of a verified, unresolved violation. It cannot reduce dignity or Rights-Floor protections.",
-          "gloss_line": 2939
+          "gloss_line": 2978
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Anti-Constitutional Misconduct Review",
           "anchor": "top-slot-review",
-          "line": 2980,
+          "line": 3019,
           "gloss": "Anti-Constitutional Misconduct Review asks whether a final Chapter Nine Violation Axis slot 7, 8, or 9 receives the matching Chapter Eleven anti-constitutional-misconduct designation. Chapter Eleven does not assign or move the numeric slot.",
-          "gloss_line": 2992
+          "gloss_line": 3031
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Unified Incident",
           "anchor": "unified-incident",
-          "line": 3023,
+          "line": 3062,
           "gloss": "a Unified Incident treats one materially connected episode, campaign, or pattern as a whole so it cannot be split into smaller pieces to hide its impact or avoid review.",
-          "gloss_line": 3035
+          "gloss_line": 3074
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Unified Incident Record",
           "anchor": "unified-record",
-          "line": 3063,
+          "line": 3102,
           "gloss": "a Unified Incident Record keeps the evidence and reasoning for one Unified Incident together while separately proving each criterion or pattern and protecting each subject's review rights.",
-          "gloss_line": 3075
+          "gloss_line": 3114
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Single Catastrophic Incident",
           "anchor": "single-catastrophic-incident",
-          "line": 3114,
+          "line": 3153,
           "gloss": "a Single Catastrophic Incident is one connected event whose verified impact causes or imminently threatens catastrophic constitutional harm.",
-          "gloss_line": 3126
+          "gloss_line": 3165
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Sustained High-Gravity Pattern",
           "anchor": "sustained-high-gravity-pattern",
-          "line": 3153,
+          "line": 3192,
           "gloss": "a Sustained High-Gravity Pattern is connected, continuing or repeated conduct whose combined verified impact reaches Chapter Nine slot 7, 8, or 9, even without one catastrophic moment.",
-          "gloss_line": 3165
+          "gloss_line": 3204
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 4,
           "title": "Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
           "anchor": "defa4",
-          "line": 3199,
+          "line": 3238,
           "gloss": null,
           "gloss_line": null
         },
@@ -2514,54 +2523,54 @@
           "level": 5,
           "title": "Use of Force",
           "anchor": "use-of-force-constitutional",
-          "line": 3244,
+          "line": 3283,
           "gloss": "Use of Force means overt physical, coercive, or kinetic force by an institution or comparable actor. It is exceptional and must remain lawful, necessary, proportionate, narrow, time-bounded, and reviewable.",
-          "gloss_line": 3258
+          "gloss_line": 3297
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Autonomous Lethal System",
           "anchor": "autonomous-lethal-system-constitutional",
-          "line": 3310,
+          "line": 3349,
           "gloss": "an Autonomous Lethal System selects, engages, or materially directs lethal-force targets without real and timely human judgment shaping every targeting or engagement decision.",
-          "gloss_line": 3324
+          "gloss_line": 3363
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Weapons of Mass Harm",
           "anchor": "weapons-of-mass-harm-constitutional",
-          "line": 3363,
+          "line": 3402,
           "gloss": "Weapons of Mass Harm are defined by the foreseeable scale of casualty, ecological, informational, or infrastructure harm they can cause—not by a weapon taxonomy or label.",
-          "gloss_line": 3377
+          "gloss_line": 3416
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Combatant / Non-Combatant Distinction",
           "anchor": "combatant-non-combatant-distinction-constitutional",
-          "line": 3427,
+          "line": 3466,
           "gloss": "combatant status depends on what an individual is doing at the time of the force decision. It cannot be assigned from demographic groups, protected characteristics, proxies, or convenient labels.",
-          "gloss_line": 3441
+          "gloss_line": 3480
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Irreversible Deprivation Measure",
           "anchor": "irreversible-deprivation-measure-constitutional",
-          "line": 3495,
+          "line": 3534,
           "gloss": "an Irreversible Deprivation Measure is a justice measure that irreversibly deprives a sentient, especially of life. It is categorically prohibited and remains distinct from reversible containment, Voluntary Discontinuation, and force regulation.",
-          "gloss_line": 3509
+          "gloss_line": 3548
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Autonomous Coercion Tool",
           "anchor": "autonomous-coercion-tool-constitutional",
-          "line": 3569,
+          "line": 3608,
           "gloss": "an Autonomous Coercion Tool restricts, pressures, or manipulates sentients — including through untrustworthy or arbitrary behavior and demands — without real and timely human judgment shaping every coercive application.",
-          "gloss_line": 3583
+          "gloss_line": 3622
         }
       ]
     },
@@ -4471,7 +4480,7 @@
           "title": "2. Four-Seat Constitutional Floor",
           "anchor": "2-four-seat-constitutional-floor",
           "line": 79,
-          "gloss": "every binding act has four jobs—ask or act, check, keep the official record, and hear the challenge. The jobs stay distinct even when a small organization is allowed to place a permitted pair in one office.",
+          "gloss": "every materially binding act has four jobs—ask or act, check, keep the official record, and hear the challenge. The jobs stay distinct even when a small organization is allowed to place a permitted pair in one office.",
           "gloss_line": 92
         },
         {
@@ -6495,7 +6504,7 @@
           "title": "Article I-B: Ecological Footprint and Transparency",
           "anchor": "article-i-b-ecological-footprint-and-transparency",
           "line": 293,
-          "gloss": "when a rule calls for it, the environmental cost of an activity or system should be counted honestly and reported openly. That includes costs that come before it (such as mining and manufacturing) and after it (such as use and disposal). The goal is numbers that others can compare and check. This subsection gives the shared words and honesty standards for that work. It does not, by itself, make anyone cut their footprint. Required cuts or limits come from other rules.",
+          "gloss": "when a rule calls for it, the environmental cost of an activity, system, product, or service should be counted honestly and reported openly. That includes costs that come before it (such as mining and manufacturing) and after it (such as use and disposal). The goal is numbers that others can compare and check. This subsection gives the shared words and honesty standards for that work. It does not, by itself, make anyone cut their footprint. Required cuts or limits come from other rules.",
           "gloss_line": 313
         },
         {

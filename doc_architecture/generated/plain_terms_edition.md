@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **613** of **879** headings carry a gloss (70%).
+Coverage: **614** of **880** headings carry a gloss (70%).
 
 ## Contents
 
@@ -24,7 +24,7 @@ Coverage: **613** of **879** headings carry a gloss (70%).
 - [CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)](#chapter-five-definitions-oversight-tetrad-leg) — `core_05_apex_oversight_leg.md` (3/4 glossed)
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05_apex_participation_leg.md` (3/4 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05_apex_timeliness_leg.md` (3/4 glossed)
-- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (71/83 glossed)
+- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (72/84 glossed)
 - [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (23/83 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (12/17 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (26/36 glossed)
@@ -1152,7 +1152,7 @@ these questions ask whether problems actually move in time — not whether a das
 
 ## Accountability Constitutional Definitions
 
-Source file: [`core_05_band_accountability.md`](../../core_05_band_accountability.md) · 71/83 headings glossed
+Source file: [`core_05_band_accountability.md`](../../core_05_band_accountability.md) · 72/84 headings glossed
 
 #### Accountability: Independent terms
 
@@ -1382,9 +1382,15 @@ the Contest Seat is the role that receives and reviews a challenge to a particul
 
 [Source](../../core_05_band_accountability.md#contest-seat)
 
+##### Materially Binding Act
+
+a materially binding act is an official step that settles something that matters — a decision, approval, finding, record change, release, payment, or ruling on a challenge — so that others must follow it or may rely on it. Because it binds, starting it, checking it, recording it, and hearing a challenge to it must stay in separate hands. Advice, drafts, and raw logs are not binding acts; the step that adopts them or gives them effect is.
+
+[Source](../../core_05_band_accountability.md#materially-binding-act)
+
 ##### Materially Binding Act Record
 
-an Act Record is the official trail for one materially binding act. It shows what the act was, who held each required seat, what was checked and decided, how the matter moved, and where a challenge goes. Existing process records may carry or link this information; a second duplicate record is not required.
+an Act Record is the official trail for one [materially binding act](../../core_05_band_accountability.md#materially-binding-act). It shows what the act was, who held each required seat, what was checked and decided, how the matter moved, and where a challenge goes. Existing process records may carry or link this information; a second duplicate record is not required.
 
 [Source](../../core_05_band_accountability.md#act-record)
 
@@ -2872,7 +2878,7 @@ before a constitutional process—or a stakeholder-level decision inside an alre
 
 #### 2. Four-Seat Constitutional Floor
 
-every binding act has four jobs—ask or act, check, keep the official record, and hear the challenge. The jobs stay distinct even when a small organization is allowed to place a permitted pair in one office.
+every materially binding act has four jobs—ask or act, check, keep the official record, and hear the challenge. The jobs stay distinct even when a small organization is allowed to place a permitted pair in one office.
 
 [Source](../../core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor)
 
@@ -4148,7 +4154,7 @@ the planet's life-support systems must be protected as a matter of their own sur
 
 ##### Article I-B: Ecological Footprint and Transparency
 
-when a rule calls for it, the environmental cost of an activity or system should be counted honestly and reported openly. That includes costs that come before it (such as mining and manufacturing) and after it (such as use and disposal). The goal is numbers that others can compare and check. This subsection gives the shared words and honesty standards for that work. It does not, by itself, make anyone cut their footprint. Required cuts or limits come from other rules.
+when a rule calls for it, the environmental cost of an activity, system, product, or service should be counted honestly and reported openly. That includes costs that come before it (such as mining and manufacturing) and after it (such as use and disposal). The goal is numbers that others can compare and check. This subsection gives the shared words and honesty standards for that work. It does not, by itself, make anyone cut their footprint. Required cuts or limits come from other rules.
 
 [Source](../../core_06_rights_part_a.md#article-i-b-ecological-footprint-and-transparency)
 

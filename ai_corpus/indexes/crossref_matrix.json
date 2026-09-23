@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-23T20:32:02+00:00",
+  "generated_at": "2026-09-23T21:04:35+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -551,13 +551,14 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 10,
+            "count": 11,
             "anchors": [
               "#capture-of-resolution-pathways",
               "#contestability",
               "#due-process-constitutional",
               "#market-structure-constitutional",
               "#material-control-line",
+              "#materially-binding-act",
               "#materially-binding-act-record",
               "#timely-resolution-constitutional"
             ]
@@ -1535,7 +1536,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 344,
+            "count": 345,
             "anchors": [
               "#attributable-action-constitutional",
               "#attributable-action-constitutional-a",
@@ -1577,6 +1578,7 @@
               "#market-structure-constitutional",
               "#market-structure-constitutional-a",
               "#market-structure-constitutional-c",
+              "#materially-binding-act",
               "#merits-determination",
               "#merits-determination-a",
               "#merits-determination-c",
@@ -2332,7 +2334,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 82,
+            "count": 83,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#anti-constitutional-misconduct-review",
@@ -2378,6 +2380,7 @@
               "#market-concentration-threshold-constitutional",
               "#market-structure-constitutional",
               "#material-control-line",
+              "#materially-binding-act",
               "#materially-binding-act-record",
               "#merits-determination",
               "#necessity",
@@ -3233,9 +3236,10 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 25,
+            "count": 27,
             "anchors": [
               "#33-governance-layers",
+              "#5-functional-independence-and-segregation-of-duties",
               "#62-how-the-full-chain-fits-together",
               "#constitutional-tetrad",
               "#material-stake",
@@ -3270,11 +3274,12 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 39,
+            "count": 40,
             "anchors": [
               "#104-aligned-self-organization",
               "#11-governance-under-stewardship-discipline",
               "#111-governance-as-authorized-structure",
+              "#112-segregation-of-duties",
               "#1215-constitutional-outcome-claims-discipline",
               "#125-contingent-claims-games-of-chance-and-event-contract-markets",
               "#126-successor-responsibility-and-formal-structure-non-escape",
@@ -3310,7 +3315,7 @@
           },
           {
             "file": "core_05_apex_accountability_leg.md",
-            "count": 109,
+            "count": 110,
             "anchors": [
               "#accountability",
               "#accountability-measurement-family",
@@ -3333,7 +3338,7 @@
           },
           {
             "file": "core_05_apex_oversight_leg.md",
-            "count": 23,
+            "count": 24,
             "anchors": [
               "#oversight-constitutional",
               "#oversight-measurement-family"
@@ -3349,7 +3354,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 607,
+            "count": 623,
             "anchors": [
               "#accountability-contestability-semi-independent",
               "#adjudication-and-dispute-resolution-constitutional",
@@ -3395,6 +3400,7 @@
               "#market-concentration-threshold-constitutional",
               "#market-structure-constitutional",
               "#material-control-line",
+              "#materially-binding-act",
               "#materially-binding-act-record",
               "#merits-determination",
               "#necessity",
@@ -3476,7 +3482,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 145,
+            "count": 152,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -3484,6 +3490,7 @@
               "#epistemic-integrity",
               "#evidence-preservation",
               "#foreseeability-diligence",
+              "#material",
               "#material-impact",
               "#material-risk",
               "#materiality-determination",
@@ -3565,11 +3572,14 @@
           },
           {
             "file": "core_07_functional_independence_segregation_of_duties.md",
-            "count": 13,
+            "count": 17,
             "anchors": [
+              "#1-purpose-scope-and-owner-boundary",
               "#2-four-seat-constitutional-floor",
               "#3-independence-conflict-and-control-lines",
-              "#7-act-records-attributable-handoffs-and-wrong-seat-routing"
+              "#4-published-placement-vacancy-and-substitution",
+              "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
+              "#8-relationship-to-later-processes"
             ]
           },
           {
@@ -3835,7 +3845,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 210,
+            "count": 211,
             "anchors": [
               "#accountability-contestability-semi-independent",
               "#attributable-action-constitutional",
@@ -3854,6 +3864,7 @@
               "#irreversible-harm",
               "#market-concentration-threshold-constitutional",
               "#material-control-line",
+              "#materially-binding-act",
               "#necessity",
               "#participant-standing-constitutional",
               "#proportionality",
@@ -5170,7 +5181,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 23,
+            "count": 24,
             "anchors": [
               "#attributable-action-constitutional",
               "#attribution-integrity-constitutional",
@@ -5178,6 +5189,7 @@
               "#contestability",
               "#initiating-seat",
               "#material-control-line",
+              "#materially-binding-act",
               "#materially-binding-act-record",
               "#necessity",
               "#proportionality",
@@ -7176,12 +7188,13 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 77,
+            "count": 78,
             "anchors": [
               "#governance-architecture-oversight-decentralization-and-concentration-cluster",
               "#market-concentration-threshold-constitutional",
               "#market-concentration-threshold-constitutional-a",
               "#market-concentration-threshold-constitutional-c",
+              "#materially-binding-act",
               "#necessity",
               "#necessity-a",
               "#necessity-c",
@@ -10857,7 +10870,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 70,
+            "count": 71,
             "anchors": [
               "#contestability",
               "#contestability-a",
@@ -10870,6 +10883,7 @@
               "#governance-c",
               "#market-concentration-threshold-constitutional",
               "#market-structure-constitutional",
+              "#materially-binding-act",
               "#necessity",
               "#necessity-a",
               "#necessity-c",

@@ -55,7 +55,7 @@ Chapter Seven is the constitutional owner of the **functional-independence and s
 
 *In plain terms: before a constitutional process—or a stakeholder-level decision inside an already-authorized system, institution, or bounded decision domain—can be trusted, the jobs inside it must be separated. This floor applies both to the [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer) and to [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight-cluster). A sentient, office, AI system, stakeholder body, or representative seeking an outcome cannot also supply the supposedly independent check, control the official record of that check, or decide the challenge to it.*
 
-This chapter applies to every **materially binding act**, including:
+This chapter applies to every [Materially Binding Act](core_05_band_accountability.md#materially-binding-act), as Chapter Five defines it, including:
 
 - a decision;
 - an authorization or certification;
@@ -89,7 +89,7 @@ This chapter states the cross-process segregation-of-duties floor. It does not r
 
 <br>
 
-*In plain terms: every binding act has four jobs—ask or act, check, keep the official record, and hear the challenge. The jobs stay distinct even when a small organization is allowed to place a permitted pair in one office.*
+*In plain terms: every materially binding act has four jobs—ask or act, check, keep the official record, and hear the challenge. The jobs stay distinct even when a small organization is allowed to place a permitted pair in one office.*
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): four-seat map</span></strong></summary>

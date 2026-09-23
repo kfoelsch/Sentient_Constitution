@@ -1221,6 +1221,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 - [Verify-or-Authorize Seat](core_05_band_accountability.md#verify-or-authorize-seat) — the role that checks evidence and authority against the governing standard and determines whether the act may proceed.
 - [Record Seat](core_05_band_accountability.md#record-seat) — the role that enters, versions, holds, preserves, and publishes the official record of the determination.
 - [Contest Seat](core_05_band_accountability.md#contest-seat) — the role that receives and reviews a challenge, orders correction or limits where authorized, and routes issues outside its authority.
+- [Materially Binding Act](core_05_band_accountability.md#materially-binding-act) — an attributable act under constitutional, adopted, or delegated authority that materially creates, changes, confirms, suspends, or ends a right, duty, status, standing, permission, allocation, record, or operating state, and that others must follow or may rely on as settled.
 - [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) — the attributable, versioned official record for a materially binding act; short form: **Act Record**.
 - [Decentralization](core_05_band_accountability.md#decentralization) — placement of authority at the least centralized scale that can satisfy binding requirements.
 - [Market Structure](core_05_band_accountability.md#market-structure-constitutional) — principle-layer discipline for contestable productive conditions.
@@ -1464,6 +1465,44 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 ---
 
+<a id="materially-binding-act"></a>
+
+#### Materially Binding Act
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: [Preamble §5 Functional Independence and Segregation of Duties](core_00_preamble.md#5-functional-independence-and-segregation-of-duties); [Chapter One §11.2 Segregation of Duties](core_01_c_stewardship_capacity_principles.md#112-segregation-of-duties); [Chapter Seven §1 Purpose, Scope, and Owner Boundary](core_07_functional_independence_segregation_of_duties.md#1-purpose-scope-and-owner-boundary) (*application list*) through [§8 Relationship to Later Processes](core_07_functional_independence_segregation_of_duties.md#8-relationship-to-later-processes); Chapters Eight through Thirteen process-specific acts; and **CI-4.6** (*seat catalog*).
+- Cluster component: [Governance architecture, decentralization, and concentration](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
+- Read with: [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record), [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional), [Material](core_05_band_oversight.md#material), [Materiality Determination](core_05_band_oversight.md#materiality-determination), [Initiating Seat](core_05_band_accountability.md#initiating-seat), [Verify-or-Authorize Seat](core_05_band_accountability.md#verify-or-authorize-seat), [Record Seat](core_05_band_accountability.md#record-seat), [Contest Seat](core_05_band_accountability.md#contest-seat), and [Material Control Line](core_05_band_accountability.md#material-control-line).
+- Layer: applies within both the **Constitutional Contract Layer (CCL)** and **Stakeholder System Participation (SSP)** under [Preamble §3.3](core_00_preamble.md#33-governance-layers).
+
+</details>
+
+<br>
+
+*In plain terms: a materially binding act is an official step that settles something that matters — a decision, approval, finding, record change, release, payment, or ruling on a challenge — so that others must follow it or may rely on it. Because it binds, starting it, checking it, recording it, and hearing a challenge to it must stay in separate hands. Advice, drafts, and raw logs are not binding acts; the step that adopts them or gives them effect is.*
+
+- **What it is**
+  - **In scope:** An attributable act, taken or given effect under constitutional, adopted, or delegated authority, that creates, changes, confirms, suspends, or ends a right, duty, status, standing, permission, allocation, record, or operating state of a sentient, system, institution, or shared resource, where that effect is [Material](core_05_band_oversight.md#material) under [Materiality Determination](core_05_band_oversight.md#materiality-determination) and others must follow it or may rely on it as settled until it is corrected, superseded, or overturned. Covered acts include those listed in [Chapter Seven §1 Purpose, Scope, and Owner Boundary](core_07_functional_independence_segregation_of_duties.md#1-purpose-scope-and-owner-boundary): a decision; an authorization or certification; a finding; a record entry or material version change; a release, deployment, continuation, or withdrawal; a disbursement or allocation; and a disposition of a challenge.
+  - An act is materially binding because of what it does, not what it is called or who performs it. The same test applies whether a sentient, an office, an AI system, or an automated process takes the act, and whether it is taken under ordinary or emergency procedure. An output labeled advisory, provisional, or automated is a materially binding act when it is given effect without a separate adopting act, or when others must, or in practice do, act on it as settled.
+  - Where one process step produces several materially binding acts, each is a separate act for seat placement and [Act Record](core_05_band_accountability.md#materially-binding-act-record) purposes. Where several steps together make one act, the act is the step that fixes its effect.
+  - **Out of scope:** Deliberation, drafts, proposals, recommendations, analyses, and advisory opinions that bind no one until separately adopted (the adopting act is the materially binding act); raw telemetry, logs, attestations, and other evidence inputs; clerical steps that carry out an already recorded act without changing its effect; and acts whose effect is not material under [Materiality Determination](core_05_band_oversight.md#materiality-determination). Conduct that materially affects sentients or shared systems without being an official act — such as the ongoing operation of a system, product, or service — is governed by [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional) and the substantive rule that applies to it, not narrowed by this definition. The act that authorizes, deploys, continues, or withdraws that operation is a materially binding act.
+<a id="materially-binding-act-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) — used to test whether every act that meets this definition is identified as one, placed under the four seats, and carried by an Act Record.
+
+    **Primary assessment:** For each process, identify every step that creates, changes, confirms, suspends, or ends a right, duty, status, standing, permission, allocation, record, or operating state. Test its effect under [Materiality Determination](core_05_band_oversight.md#materiality-determination). Check that each qualifying step is named as a materially binding act on the published placement map required by [Chapter Seven §4 Published Placement, Vacancy, and Substitution](core_07_functional_independence_segregation_of_duties.md#4-published-placement-vacancy-and-substitution) and has an identifiable [Act Record](core_05_band_accountability.md#materially-binding-act-record).
+  - **Secondary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family), [Materiality Determination](core_05_band_oversight.md#materiality-determination), and [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional) — co-measures for materiality, label-based evasion, and the boundary between official acts and ongoing conduct.
+
+    **Secondary assessment:** Sample outputs described as advisory, provisional, automated, or clerical and test whether they are in practice given effect without a separate adopting act. Check that splitting or bundling process steps does not leave the step that fixes an effect without distinct seats or an Act Record.
+<a id="materially-binding-act-c"></a>
+- **What must hold**
+  - **Primary failure:** An act that meets this definition is not treated as materially binding, so it proceeds without distinct seats or an Act Record, because it is labeled advisory, provisional, automated, clerical, or emergency, or because an AI system, delegate, or automated process performed it.
+  - **Secondary failure:** Process steps are split or bundled so that the step that fixes an effect cannot be identified; or the definition is stretched to treat drafts, evidence inputs, or non-material steps as materially binding acts in a way that buries the real acts in procedure.
+
+---
+
 <a id="act-record"></a>
 <a id="materially-binding-act-record"></a>
 
@@ -1474,19 +1513,19 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - Downstream: [Chapter Seven §2 Four-Seat Constitutional Floor](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) and [§7 Act Records, Attributable Handoffs, and Wrong-Seat Routing](core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing) (*universal minimum contents and routing requirements*); Chapters Eight through Thirteen process-specific records; **CI-4.6** (*seat catalog*); and [`materially_binding_act_record.schema.json`](implementation/schemas/materially_binding_act_record.schema.json) (*base machine-checkable form; process support, not a second definition*).
 - Cluster component: [Governance architecture, decentralization, and concentration](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
-- Read with: [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional), [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional), [Initiating Seat](core_05_band_accountability.md#initiating-seat), [Verify-or-Authorize Seat](core_05_band_accountability.md#verify-or-authorize-seat), [Record Seat](core_05_band_accountability.md#record-seat), [Contest Seat](core_05_band_accountability.md#contest-seat), [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), [Auditability](core_05_band_oversight.md#auditability), and [Contestability](core_05_band_accountability.md#contestability).
+- Read with: [Materially Binding Act](core_05_band_accountability.md#materially-binding-act), [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional), [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional), [Initiating Seat](core_05_band_accountability.md#initiating-seat), [Verify-or-Authorize Seat](core_05_band_accountability.md#verify-or-authorize-seat), [Record Seat](core_05_band_accountability.md#record-seat), [Contest Seat](core_05_band_accountability.md#contest-seat), [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), [Auditability](core_05_band_oversight.md#auditability), and [Contestability](core_05_band_accountability.md#contestability).
 - Layer: applies within both the **Constitutional Contract Layer (CCL)** and **Stakeholder System Participation (SSP)** under [Preamble §3.3](core_00_preamble.md#33-governance-layers).
 
 </details>
 
 <br>
 
-*In plain terms: an Act Record is the official trail for one materially binding act. It shows what the act was, who held each required seat, what was checked and decided, how the matter moved, and where a challenge goes. Existing process records may carry or link this information; a second duplicate record is not required.*
+*In plain terms: an Act Record is the official trail for one [materially binding act](core_05_band_accountability.md#materially-binding-act). It shows what the act was, who held each required seat, what was checked and decided, how the matter moved, and where a challenge goes. Existing process records may carry or link this information; a second duplicate record is not required.*
 
 The short form for **Materially Binding Act Record** in this instrument is **Act Record**.
 
 - **What it is**
-  - **In scope:** The attributable, versioned official record for a particular materially binding act, maintained under the authority and responsibility of the [Record Seat](core_05_band_accountability.md#record-seat). It identifies and preserves the act, governing authority, required seats, determination, material handoffs and departures, clocks, challenge route and status, and the links needed to reconstruct the act under [Chapter Seven §7 Act Records, Attributable Handoffs, and Wrong-Seat Routing](core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing).
+  - **In scope:** The attributable, versioned official record for a particular [Materially Binding Act](core_05_band_accountability.md#materially-binding-act), maintained under the authority and responsibility of the [Record Seat](core_05_band_accountability.md#record-seat). It identifies and preserves the act, governing authority, required seats, determination, material handoffs and departures, clocks, challenge route and status, and the links needed to reconstruct the act under [Chapter Seven §7 Act Records, Attributable Handoffs, and Wrong-Seat Routing](core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing).
   - An Act Record may be embodied in one applicable process-specific official record or in an attributable, integrity-preserving linked set of official records. A System Certification Record, Standing Record, Forum Case Record, or another named process record may satisfy or extend the Act Record requirements for the act it records. No duplicative standalone artifact is required where the required elements remain identifiable, linked, versioned, preserved, and accessible through the official record path.
   - **Out of scope:** Raw telemetry, a self-generated log, signature, checklist, model trace, attestation, clerical copy, unverified claim, or evidence bundle alone is not an Act Record. Those materials may be inputs or links. An Act Record does not become a [Standing Record](core_05_band_accountability.md#standing-record-chapter-six), merits determination, certification, or forum record unless the applicable process independently makes it one.
 <a id="materially-binding-act-record-a"></a>

@@ -2386,7 +2386,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Ask whether foreseeable capture pathways were identified before they hardened, and whether installed safeguards would still work under [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions). Check, scaled to [material stake](core_00_preamble.md#material-stake):
-    - whether acting and checking remain separated on materially binding acts;
+    - whether acting and checking remain separated on [materially binding acts](core_05_band_accountability.md#materially-binding-act);
     - whether more than one independent path can detect, review, and challenge;
     - whether beneficial control and influence routes are disclosed and auditable; and
     - whether incentives cannot buy the referee or hollow the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad).
