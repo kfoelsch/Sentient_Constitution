@@ -4,6 +4,10 @@
 #
 # GitHub setting: Pages source = GitHub Actions (not /docs on the branch).
 # Until that switch, /docs remains the thin pointer plus blob index.
+#
+# Deploy gate: `make pages-deploy-gate` must pass before anything is built.
+# The full `make regression` runs in checks.yml; it reports but does not block
+# deploys, because it carries known in-progress findings.
 
 name: GitHub Pages
 
@@ -27,6 +31,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Deploy gate
+        run: make pages-deploy-gate
       - name: Assemble site
         run: python3 tools/generate_pages_site.py --root . --out _pages_site
       - name: Setup Pages
