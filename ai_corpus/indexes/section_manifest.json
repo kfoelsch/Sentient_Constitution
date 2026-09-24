@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-09-24T00:06:05+00:00",
+  "generated_at": "2026-09-24T00:48:46+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 469,
@@ -8881,13 +8881,13 @@
       ]
     },
     "corpus_institutions/ci_04_appointment_competency_rotation_removal.md": {
-      "total_lines": 273,
+      "total_lines": 280,
       "sections": [
         {
           "header": "CI-4: Appointment, competency, rotation, and removal",
           "level": 1,
           "line_start": 1,
-          "line_end": 273,
+          "line_end": 280,
           "anchor": null
         },
         {
@@ -8922,14 +8922,14 @@
           "header": "CI-4.5: Authorized roles and accountability chains",
           "level": 2,
           "line_start": 124,
-          "line_end": 154,
+          "line_end": 161,
           "anchor": null
         },
         {
           "header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
           "level": 2,
-          "line_start": 155,
-          "line_end": 273,
+          "line_start": 162,
+          "line_end": 280,
           "anchor": "#ci-46-seat-catalog"
         }
       ]
@@ -9013,41 +9013,41 @@
       ]
     },
     "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md": {
-      "total_lines": 182,
+      "total_lines": 202,
       "sections": [
         {
           "header": "CI-8: Transparency, participation, and accessible challenge and service pathways",
           "level": 1,
           "line_start": 1,
-          "line_end": 182,
+          "line_end": 202,
           "anchor": null
         },
         {
           "header": "CI-8.1: Stakeholder oversight, notification, and binding-governance pathway integrity",
           "level": 2,
-          "line_start": 69,
-          "line_end": 100,
+          "line_start": 89,
+          "line_end": 120,
           "anchor": null
         },
         {
           "header": "CI-8.2: Anti-concentration and participation-legitimacy safeguards",
           "level": 2,
-          "line_start": 101,
-          "line_end": 131,
+          "line_start": 121,
+          "line_end": 151,
           "anchor": null
         },
         {
           "header": "CI-8.3: Digital self-service pathway integrity",
           "level": 2,
-          "line_start": 132,
-          "line_end": 161,
+          "line_start": 152,
+          "line_end": 181,
           "anchor": null
         },
         {
           "header": "CI-8.4: Governance disclosure schema",
           "level": 2,
-          "line_start": 162,
-          "line_end": 182,
+          "line_start": 182,
+          "line_end": 202,
           "anchor": null
         }
       ]
@@ -9187,13 +9187,13 @@
       ]
     },
     "corpus_institutions/ci_12_cross_institution_coordination_escalation.md": {
-      "total_lines": 70,
+      "total_lines": 72,
       "sections": [
         {
           "header": "CI-12: Cross-institution coordination and escalation",
           "level": 1,
           "line_start": 1,
-          "line_end": 70,
+          "line_end": 72,
           "anchor": null
         }
       ]

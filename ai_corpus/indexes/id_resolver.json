@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-09-24T00:06:07+00:00",
+  "generated_at": "2026-09-24T00:48:48+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -1609,7 +1609,7 @@
       "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
       "anchor": "#ci-46-seat-catalog",
       "heading": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
-      "line": 155,
+      "line": 162,
       "kind": "section"
     },
     "CI-5": {
@@ -1686,28 +1686,28 @@
       "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
       "anchor": "#ci-81-stakeholder-oversight-notification-and-binding-governance-pathway-integrity",
       "heading": "CI-8.1: Stakeholder oversight, notification, and binding-governance pathway integrity",
-      "line": 69,
+      "line": 89,
       "kind": "section"
     },
     "CI-8.2": {
       "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
       "anchor": "#ci-82-anti-concentration-and-participation-legitimacy-safeguards",
       "heading": "CI-8.2: Anti-concentration and participation-legitimacy safeguards",
-      "line": 101,
+      "line": 121,
       "kind": "section"
     },
     "CI-8.3": {
       "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
       "anchor": "#ci-83-digital-self-service-pathway-integrity",
       "heading": "CI-8.3: Digital self-service pathway integrity",
-      "line": 132,
+      "line": 152,
       "kind": "section"
     },
     "CI-8.4": {
       "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
       "anchor": "#ci-84-governance-disclosure-schema",
       "heading": "CI-8.4: Governance disclosure schema",
-      "line": 162,
+      "line": 182,
       "kind": "section"
     },
     "CI-9": {
@@ -3514,9 +3514,9 @@
       ],
       "read_with": [
         {
-          "id": "CI-8",
-          "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-          "anchor": "#ci-8-transparency-participation-and-accessible-challenge-and-service-pathways"
+          "id": "CI-12",
+          "file": "corpus_institutions/ci_12_cross_institution_coordination_escalation.md",
+          "anchor": "#ci-12-cross-institution-coordination-and-escalation"
         }
       ]
     },
@@ -3884,6 +3884,11 @@
           "id": "CI-8",
           "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
           "anchor": "#ci-8-transparency-participation-and-accessible-challenge-and-service-pathways"
+        },
+        {
+          "id": "CI-12",
+          "file": "corpus_institutions/ci_12_cross_institution_coordination_escalation.md",
+          "anchor": "#ci-12-cross-institution-coordination-and-escalation"
         },
         {
           "id": "CF-11",

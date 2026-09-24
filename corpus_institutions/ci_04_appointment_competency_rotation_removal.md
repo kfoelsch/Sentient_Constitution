@@ -49,14 +49,14 @@
 
 This file is the institutional implementation home for **CI-4** (*Appointment, competency, rotation, and removal*).
 
-*In plain terms: **CI-4** is the institutions layer's appointment and role-stewardship rulebook — who may hold important jobs, what qualifications they need, how backup coverage works, when they must rotate off, and how they can be removed fairly. Shared staffing floors live in **CJS-2.4**. What this file adds is local: what each institution must publish and maintain locally.*
+*In plain terms: **CI-4** is the institutions layer's appointment and role-stewardship rulebook — who may hold important jobs, what qualifications they need, how backup coverage works, how sentients grow into bigger stewardship roles, when they must rotate off, and how they can be removed fairly. Shared staffing floors live in **CJS-2.4**. What this file adds is local: what each institution must publish and maintain locally.*
 
 **Quick orientation**
 - **CI-4.1** — shared minimum for lane staffing, competency backup, and succession coverage.
 - **CI-4.2** — what each institution must publish about hiring, qualifying, rotating, and removing role holders.
 - **CI-4.3** — regular check that the governing body still has the right role holders for the institution's impact level.
 - **CI-4.4** — extra composition rules for bodies that interpret the constitution.
-- **CI-4.5** — institution-specific authorized-role maps under **Chapter Six**, section 5.
+- **CI-4.5** — institution-specific authorized-role maps and stewardship-development pathways under **Chapter Thirteen**, section 5.
 - **CI-4.6** — the seat catalog: the nine seat types every local role map instantiates, what each may and may not do, and the wrong-seat rule.
 
 ## CI-4.1: Shared staffing and competency floor
@@ -132,9 +132,9 @@ Interpretive-body composition controls (**Article XXII** (*Constitutional Interp
 
 <br>
 
-*In plain terms: under **Chapter Six**, section 5 and the **Article XI-D** (*Internal Roles, Accountability, and Due-Process Requirements*) interface, each institution writes its own map of who is authorized to do what — and who is accountable when things go wrong. That local map must spell out decision power, review power, escalation paths, hiring standards, backup coverage, and how skills stay current. Three shared rulebooks govern what gets stricter for higher-impact systems — apply them locally, do not reinvent them: **CJS-2.4** sets minimum staffing and backup by impact level; **CI-3** assigns each role to a functional lane; **CS-3** and **CS-3** define system class and when critical-stewardship duties apply.*
+*In plain terms: under **Chapter Thirteen**, section 5 and the **Article XI-D** (*Internal Roles, Accountability, and Due-Process Requirements*) interface, each institution writes its own map of who is authorized to do what — and who is accountable when things go wrong. That local map must spell out decision power, review power, escalation paths, hiring standards, backup coverage, and how skills stay current. Three shared rulebooks govern what gets stricter for higher-impact systems — apply them locally, do not reinvent them: **CJS-2.4** sets minimum staffing and backup by impact level; **CI-3** assigns each role to a functional lane; **CS-3** and **CS-3** define system class and when critical-stewardship duties apply.*
 
-Under **Chapter Six**, section 5 (*Authorized Roles, Competency Development, and Contribution*) and the **Article XI-D** (*Internal Roles, Accountability, and Due-Process Requirements*) interface, each institution maintains its own authorized-role and accountability-chain map. That local map must assign:
+Under **Chapter Thirteen**, section 5 (*Authorized Roles, Competency Development, and Contribution*) and the **Article XI-D** (*Internal Roles, Accountability, and Due-Process Requirements*) interface, each institution maintains its own authorized-role and accountability-chain map. That local map must assign:
 - scope and limits,
 - decision rights and review rights,
 - accountability owners and escalation routes,
@@ -148,6 +148,13 @@ The following shared rules govern class-scaling — local role maps must apply t
 - **CJS-2.4** (*Class-scaled lane staffing and competency redundancy*) — minimum qualified role holders, backup coverage, and succession depth scaled to binding impact.
 - **CI-3** (*Institutional design and separation of powers*) — lane ownership for each required functional lane.
 - [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md) and **CS-4 — Critical system stewardship** — classification and stewardship hooks that trigger when class-scaling applies.
+
+**Stewardship-development pathways.** [Chapter Thirteen §5](../core_13_governance.md#5-authorized-roles-competency-development-and-contribution) (*Authorized Roles, Competency Development, and Contribution*) and **Article VI-B** (*Lifelong and Adaptive Learning and Contestability*) require non-arbitrary, equitable stewardship-development pathways into progressively consequential stewardship responsibilities. For each stewardship-development pathway, the local role map must also show:
+- the entry and progression criteria, stated against the qualification standards published under **CI-4.2** (*Role criteria, appointment standards, and removal pathways*);
+- the office that owns it and keeps a record of who entered, progressed, or was refused, with reasons; and
+- how a refused or stalled candidate can challenge the decision through **CI-6** (*Procedure integrity, contestability, and secondary review*).
+
+A stewardship-development pathway does not bypass Chapter Ten competency bars, clearances, or standing locks.
 
 **Seat mapping.** Each local title on the role map is mapped to one or more of the seat types in [CI-4.6](#ci-46-seat-catalog) (*Seat catalog*), act by act. A title that is not mapped to a seat type carries no authority over a materially binding act; a title mapped to one seat type does not carry the powers of another.
 

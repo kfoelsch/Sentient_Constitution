@@ -746,7 +746,7 @@ Structured review and incentive-integrity floor
 - Cross-leg note: integrative with **Accountability** where contest, correction, and assurance routing are implicated.
 - Continuity disambiguation: Distinguish constitutional **Continuity** aim from operational resilience or protocol continuity.
 - Chapter One basis: §8.1, §8.2, §12.1, §12.2 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (primary owner): **CJS-R19** (*integrity assurance and resilience operations*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CJS-3.3**, **CJS-3.15**, **CI-7.3**, **CI-8**, **CF-11**.
+- Topic routing (primary owner): **CJS-R19** (*integrity assurance and resilience operations*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CJS-3.3**, **CJS-3.15**, **CI-7.3**, **CI-8**, **CI-12**, **CF-11**.
 
 </details>
 

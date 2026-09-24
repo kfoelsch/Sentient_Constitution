@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-24T00:06:06+00:00",
+  "generated_at": "2026-09-24T00:48:47+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -10125,7 +10125,7 @@
           },
           {
             "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-            "count": 2,
+            "count": 1,
             "anchors": []
           },
           {
@@ -10135,7 +10135,7 @@
           },
           {
             "file": "corpus_institutions/ci_12_cross_institution_coordination_escalation.md",
-            "count": 1,
+            "count": 2,
             "anchors": []
           },
           {
@@ -14702,7 +14702,7 @@
           },
           {
             "file": "core_13_governance.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
               "#5-authorized-roles-competency-development-and-contribution"
             ]
