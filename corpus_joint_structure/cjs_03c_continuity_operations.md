@@ -259,7 +259,8 @@ Substitutability, exit constraints, and mitigation duties
 - Read with: [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md)
 - Read with: [**CS-4**](../corpus_systems/cs_04_critical_system_stewardship.md)
 - Read with: **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*)
-- Read with: **Article II-E** (*Info-Sphere Dependency, Continuity, and Operator Non-Viability*)
+- Read with: **Article II-E** (*Data Handling and Network Dependency*)
+- Read with: **Article II-F** (*Continuity and Operator Shutdown*)
 - Read with: **Article XV-A** (*Auditability and Observable Evidence*)
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — exit paths preserve lawful agency and system survivability.

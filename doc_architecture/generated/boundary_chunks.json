@@ -5,7 +5,7 @@
   "cannot_narrow_core": true,
   "split_rule": "headings outside details; never inside O/M/A/C blocks",
   "embeddings": "postponed_indefinitely",
-  "chunk_count": 871,
+  "chunk_count": 872,
   "chunks": [
     {
       "file": "core_00_preamble.md",
@@ -4835,91 +4835,98 @@
       "heading": "Article II-A: Material Stewardship and Lifecycle Honesty",
       "anchor": "#article-ii-a-material-stewardship-and-lifecycle-honesty",
       "line_start": 440,
-      "line_end": 475
+      "line_end": 476
     },
     {
       "file": "core_06_rights_part_a.md",
       "heading": "Article II-B: Repair, Maintenance, and Independent Servicing",
       "anchor": "#article-ii-b-repair-maintenance-and-independent-servicing",
-      "line_start": 476,
-      "line_end": 510
+      "line_start": 477,
+      "line_end": 511
     },
     {
       "file": "core_06_rights_part_a.md",
       "heading": "Article II-C: Designed Obsolescence and Incentive Discipline",
       "anchor": "#article-ii-c-designed-obsolescence-and-incentive-discipline",
-      "line_start": 511,
-      "line_end": 540
+      "line_start": 512,
+      "line_end": 541
     },
     {
       "file": "core_06_rights_part_a.md",
       "heading": "Article II-D: Post-Sale Access and Subscription Integrity",
       "anchor": "#article-ii-d-post-sale-access-and-subscription-integrity",
-      "line_start": 541,
-      "line_end": 570
+      "line_start": 542,
+      "line_end": 573
     },
     {
       "file": "core_06_rights_part_a.md",
-      "heading": "Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability",
+      "heading": "Article II-E: Data Handling and Network Dependency",
       "anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
-      "line_start": 571,
-      "line_end": 631
+      "line_start": 574,
+      "line_end": 635
+    },
+    {
+      "file": "core_06_rights_part_a.md",
+      "heading": "Article II-F: Continuity and Operator Shutdown",
+      "anchor": "#article-ii-f-continuity-and-operator-shutdown",
+      "line_start": 636,
+      "line_end": 679
     },
     {
       "file": "core_06_rights_part_a.md",
       "heading": "Article III: Survival and Equal Educational Access",
       "anchor": "#article-iii-survival-and-equal-educational-access",
-      "line_start": 632,
-      "line_end": 654
+      "line_start": 680,
+      "line_end": 702
     },
     {
       "file": "core_06_rights_part_a.md",
       "heading": "Article III-A: Survival",
       "anchor": "#article-iii-a-survival",
-      "line_start": 655,
-      "line_end": 706
+      "line_start": 703,
+      "line_end": 754
     },
     {
       "file": "core_06_rights_part_a.md",
       "heading": "Article III-B: Equal Educational Access",
       "anchor": "#article-iii-b-equal-educational-access",
-      "line_start": 707,
-      "line_end": 743
+      "line_start": 755,
+      "line_end": 791
     },
     {
       "file": "core_06_rights_part_a.md",
       "heading": "Article III-C: Bodily-Maintenance and Healthcare Access",
       "anchor": "#article-iii-c-bodily-maintenance-and-healthcare-access",
-      "line_start": 744,
-      "line_end": 791
+      "line_start": 792,
+      "line_end": 839
     },
     {
       "file": "core_06_rights_part_a.md",
       "heading": "Article III-D: Labor and Economic Floor",
       "anchor": "#article-iii-d-labor-and-economic-floor",
-      "line_start": 792,
-      "line_end": 865
+      "line_start": 840,
+      "line_end": 913
     },
     {
       "file": "core_06_rights_part_a.md",
       "heading": "Article IV: Resource Allocation, Dependencies, and Ecosystem Funding",
       "anchor": "#article-iv-resource-allocation-dependencies-and-ecosystem-funding",
-      "line_start": 866,
-      "line_end": 903
+      "line_start": 914,
+      "line_end": 951
     },
     {
       "file": "core_06_rights_part_a.md",
       "heading": "Article IV-A: Dependency Mapping and Resource-Flow Transparency",
       "anchor": "#article-iv-a-dependency-mapping-and-resource-flow-transparency",
-      "line_start": 904,
-      "line_end": 935
+      "line_start": 952,
+      "line_end": 983
     },
     {
       "file": "core_06_rights_part_a.md",
       "heading": "Article IV-B: Cross-System Fairness and Sustainability",
       "anchor": "#article-iv-b-cross-system-fairness-and-sustainability",
-      "line_start": 936,
-      "line_end": 1000
+      "line_start": 984,
+      "line_end": 1048
     },
     {
       "file": "core_06_rights_part_b.md",

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-09-24T15:12:35+00:00",
+  "generated_at": "2026-09-24T16:43:41+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 469,
@@ -4983,13 +4983,13 @@
       ]
     },
     "core_06_rights_part_a.md": {
-      "total_lines": 1000,
+      "total_lines": 1048,
       "sections": [
         {
           "header": "CHAPTER SIX: FOUNDATIONAL RIGHTS",
           "level": 1,
           "line_start": 1,
-          "line_end": 1000,
+          "line_end": 1048,
           "anchor": null
         },
         {
@@ -5059,98 +5059,105 @@
           "header": "Article II: Material Stewardship and Durable-Use Integrity",
           "level": 3,
           "line_start": 408,
-          "line_end": 631,
+          "line_end": 679,
           "anchor": null
         },
         {
           "header": "Article II-A: Material Stewardship and Lifecycle Honesty",
           "level": 4,
           "line_start": 440,
-          "line_end": 475,
+          "line_end": 476,
           "anchor": null
         },
         {
           "header": "Article II-B: Repair, Maintenance, and Independent Servicing",
           "level": 4,
-          "line_start": 476,
-          "line_end": 510,
+          "line_start": 477,
+          "line_end": 511,
           "anchor": null
         },
         {
           "header": "Article II-C: Designed Obsolescence and Incentive Discipline",
           "level": 4,
-          "line_start": 511,
-          "line_end": 540,
+          "line_start": 512,
+          "line_end": 541,
           "anchor": null
         },
         {
           "header": "Article II-D: Post-Sale Access and Subscription Integrity",
           "level": 4,
-          "line_start": 541,
-          "line_end": 570,
+          "line_start": 542,
+          "line_end": 573,
           "anchor": null
         },
         {
-          "header": "Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability",
+          "header": "Article II-E: Data Handling and Network Dependency",
           "level": 4,
-          "line_start": 571,
-          "line_end": 631,
+          "line_start": 574,
+          "line_end": 635,
+          "anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability"
+        },
+        {
+          "header": "Article II-F: Continuity and Operator Shutdown",
+          "level": 4,
+          "line_start": 636,
+          "line_end": 679,
           "anchor": null
         },
         {
           "header": "Article III: Survival and Equal Educational Access",
           "level": 3,
-          "line_start": 632,
-          "line_end": 865,
+          "line_start": 680,
+          "line_end": 913,
           "anchor": null
         },
         {
           "header": "Article III-A: Survival",
           "level": 4,
-          "line_start": 655,
-          "line_end": 706,
+          "line_start": 703,
+          "line_end": 754,
           "anchor": null
         },
         {
           "header": "Article III-B: Equal Educational Access",
           "level": 4,
-          "line_start": 707,
-          "line_end": 743,
+          "line_start": 755,
+          "line_end": 791,
           "anchor": null
         },
         {
           "header": "Article III-C: Bodily-Maintenance and Healthcare Access",
           "level": 4,
-          "line_start": 744,
-          "line_end": 791,
+          "line_start": 792,
+          "line_end": 839,
           "anchor": null
         },
         {
           "header": "Article III-D: Labor and Economic Floor",
           "level": 4,
-          "line_start": 792,
-          "line_end": 865,
+          "line_start": 840,
+          "line_end": 913,
           "anchor": null
         },
         {
           "header": "Article IV: Resource Allocation, Dependencies, and Ecosystem Funding",
           "level": 3,
-          "line_start": 866,
-          "line_end": 1000,
+          "line_start": 914,
+          "line_end": 1048,
           "anchor": null
         },
         {
           "header": "Article IV-A: Dependency Mapping and Resource-Flow Transparency",
           "level": 4,
-          "line_start": 904,
-          "line_end": 935,
+          "line_start": 952,
+          "line_end": 983,
           "anchor": null
         },
         {
           "header": "Article IV-B: Cross-System Fairness and Sustainability",
           "level": 4,
-          "line_start": 936,
-          "line_end": 1000,
+          "line_start": 984,
+          "line_end": 1048,
           "anchor": null
         }
       ]
@@ -6879,13 +6886,13 @@
       ]
     },
     "corpus_joint_structure/cjs_03c_continuity_operations.md": {
-      "total_lines": 1427,
+      "total_lines": 1428,
       "sections": [
         {
           "header": "Continuity aim operations (CJS-3.16–CJS-3.21) / oDef.16–oDef.21",
           "level": 1,
           "line_start": 1,
-          "line_end": 1427,
+          "line_end": 1428,
           "anchor": null
         },
         {
@@ -6899,35 +6906,35 @@
           "header": "CJS-3.17 Continuity: interoperability, portability, and exit-integrity terms",
           "level": 2,
           "line_start": 250,
-          "line_end": 580,
+          "line_end": 581,
           "anchor": "#substitutability-exit-constraints-and-mitigation-duties-c"
         },
         {
           "header": "CJS-3.18 Continuity: data-retention and lifecycle-integrity terms",
           "level": 2,
-          "line_start": 581,
-          "line_end": 807,
+          "line_start": 582,
+          "line_end": 808,
           "anchor": "#right-to-exit-pathway-integrity-c"
         },
         {
           "header": "CJS-3.19 Continuity: graceful degradation and failure-mode integrity terms",
           "level": 2,
-          "line_start": 808,
-          "line_end": 1033,
+          "line_start": 809,
+          "line_end": 1034,
           "anchor": "#transparency-disclosures-and-stakeholder-legibility-c"
         },
         {
           "header": "CJS-3.20 Continuity: reversibility and containment terms",
           "level": 2,
-          "line_start": 1034,
-          "line_end": 1159,
+          "line_start": 1035,
+          "line_end": 1160,
           "anchor": "#signaling-integrity-and-anti-silent-failure-controls-c"
         },
         {
           "header": "CJS-3.21 Continuity: adversarial robustness and abuse-resistance terms",
           "level": 2,
-          "line_start": 1160,
-          "line_end": 1427,
+          "line_start": 1161,
+          "line_end": 1428,
           "anchor": "#rollback-and-containment-capability-c"
         }
       ]
@@ -7319,69 +7326,69 @@
       ]
     },
     "corpus_systems/cs_02_a_information_types_and_handling.md": {
-      "total_lines": 617,
+      "total_lines": 658,
       "sections": [
         {
           "header": "CS-2, Part A: Information types and handling",
           "level": 1,
           "line_start": 2,
-          "line_end": 617,
+          "line_end": 658,
           "anchor": "#cs-2-part-a-information-types-and-handling"
         },
         {
           "header": "CS-2.1 Purpose and scope",
           "level": 2,
           "line_start": 24,
-          "line_end": 90,
+          "line_end": 131,
           "anchor": "#cs-2-1-purpose-and-scope"
         },
         {
           "header": "CS-2.2 Determination of classification",
           "level": 2,
-          "line_start": 91,
-          "line_end": 116,
+          "line_start": 132,
+          "line_end": 157,
           "anchor": "#cs-2-2-determination-of-classification"
         },
         {
           "header": "CS-2.3 Temporal, systemic, and dependency scope of rights",
           "level": 2,
-          "line_start": 117,
-          "line_end": 125,
+          "line_start": 158,
+          "line_end": 166,
           "anchor": "#cs-2-3-temporal-systemic-and-dependency-scope-of-rights"
         },
         {
           "header": "CS-2.4 Anti-circumvention and integrity of classification",
           "level": 2,
-          "line_start": 126,
-          "line_end": 140,
+          "line_start": 167,
+          "line_end": 181,
           "anchor": "#cs-2-4-anti-circumvention-and-integrity-of-classification"
         },
         {
           "header": "CS-2.5 Cross-domain governance principles",
           "level": 2,
-          "line_start": 141,
-          "line_end": 356,
+          "line_start": 182,
+          "line_end": 397,
           "anchor": "#cs-2-5-cross-domain-governance-principles"
         },
         {
           "header": "CS-2.6 Data separation and attribution",
           "level": 2,
-          "line_start": 357,
-          "line_end": 459,
+          "line_start": 398,
+          "line_end": 500,
           "anchor": "#cs-2-6-data-separation-and-attribution"
         },
         {
           "header": "CS-2.7 Type O baseline for Class A/B/C systems",
           "level": 2,
-          "line_start": 460,
-          "line_end": 490,
+          "line_start": 501,
+          "line_end": 531,
           "anchor": "#cs-2-7-type-o-baseline-for-class-a-b-c-systems"
         },
         {
           "header": "CS-2.8 System Data Types Record governance",
           "level": 2,
-          "line_start": 491,
-          "line_end": 617,
+          "line_start": 532,
+          "line_end": 658,
           "anchor": "#cs-2-8-system-data-types-record-governance"
         }
       ]

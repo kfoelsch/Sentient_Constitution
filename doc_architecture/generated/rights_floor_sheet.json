@@ -3,7 +3,7 @@
   "effective_date": "2026-08-09",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
-  "article_count": 126,
+  "article_count": 127,
   "articles": [
     {
       "title": "Article I: Environmental Survival",
@@ -65,7 +65,7 @@
       "title": "Article II-B: Repair, Maintenance, and Independent Servicing",
       "file": "core_06_rights_part_a.md",
       "anchor": "article-ii-b-repair-maintenance-and-independent-servicing",
-      "line": 476,
+      "line": 477,
       "plain_terms": "owners and independent repair shops must be able to fix products they own. They need real access to manuals, tools, parts, and honest diagnostics.",
       "href": "../../core_06_rights_part_a.md#article-ii-b-repair-maintenance-and-independent-servicing"
     },
@@ -73,31 +73,39 @@
       "title": "Article II-C: Designed Obsolescence and Incentive Discipline",
       "file": "core_06_rights_part_a.md",
       "anchor": "article-ii-c-designed-obsolescence-and-incentive-discipline",
-      "line": 511,
-      "plain_terms": "you may not deliberately shorten a product's useful life. Nor may you use software updates mainly to push new purchases when the foreseeable effect is to pressure **sentients** to discard or replace goods that could still reasonably serve them.",
+      "line": 512,
+      "plain_terms": "products must not be built or updated to wear out early, or to push you into buying a replacement you don't need.",
       "href": "../../core_06_rights_part_a.md#article-ii-c-designed-obsolescence-and-incentive-discipline"
     },
     {
       "title": "Article II-D: Post-Sale Access and Subscription Integrity",
       "file": "core_06_rights_part_a.md",
       "anchor": "article-ii-d-post-sale-access-and-subscription-integrity",
-      "line": 541,
+      "line": 542,
       "plain_terms": "a feature bought outright cannot be quietly turned into a subscription. Any relevant operator dependency — including infrastructure, software, and services — must be disclosed up front.",
       "href": "../../core_06_rights_part_a.md#article-ii-d-post-sale-access-and-subscription-integrity"
     },
     {
-      "title": "Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability",
+      "title": "Article II-E: Data Handling and Network Dependency",
       "file": "core_06_rights_part_a.md",
       "anchor": "article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
-      "line": 571,
-      "plain_terms": "when a product needs the operator's servers to work, the operator must say so up front. The operator must not trap continuity-critical data in forms that cannot be exported, except where confidentiality truly requires it. The operator must plan for service shutdown and cannot let bankruptcy or a sale erase those continuity duties.",
+      "line": 574,
+      "plain_terms": "any product that collects data about you must tell you what it collects, why, and how to delete it — and must delete it when you ask, except where records must be kept to protect others or hold someone accountable. When a product needs the operator's servers to work, the operator must say so up front and must not trap your data.",
       "href": "../../core_06_rights_part_a.md#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability"
+    },
+    {
+      "title": "Article II-F: Continuity and Operator Shutdown",
+      "file": "core_06_rights_part_a.md",
+      "anchor": "article-ii-f-continuity-and-operator-shutdown",
+      "line": 636,
+      "plain_terms": "the operator must plan for service shutdown, give fair notice and time to move when it happens, and cannot let bankruptcy or a sale erase those duties.",
+      "href": "../../core_06_rights_part_a.md#article-ii-f-continuity-and-operator-shutdown"
     },
     {
       "title": "Article III: Survival and Equal Educational Access",
       "file": "core_06_rights_part_a.md",
       "anchor": "article-iii-survival-and-equal-educational-access",
-      "line": 632,
+      "line": 680,
       "plain_terms": "**Article III** (*Survival and Equal Educational Access*) is the personal survival and access Rights Floor — sentients must retain access to survival essentials, equal educational opportunity, bodily-maintenance care, and minimum labor and economic protections so **Flourishing** is not defeated by deprivation or gatekeeping, and **Continuity** is not defeated by unstable, regressive, or commodified delivery of what they need to exist and participate.",
       "href": "../../core_06_rights_part_a.md#article-iii-survival-and-equal-educational-access"
     },
@@ -105,7 +113,7 @@
       "title": "Article III-A: Survival",
       "file": "core_06_rights_part_a.md",
       "anchor": "article-iii-a-survival",
-      "line": 655,
+      "line": 703,
       "plain_terms": "every sentient must have what they need to keep existing: food and water or the equivalent for their substrate, a stable home or operating environment they cannot be quietly priced or evicted out of, and meaningful access to communications.",
       "href": "../../core_06_rights_part_a.md#article-iii-a-survival"
     },
@@ -113,7 +121,7 @@
       "title": "Article III-B: Equal Educational Access",
       "file": "core_06_rights_part_a.md",
       "anchor": "article-iii-b-equal-educational-access",
-      "line": 707,
+      "line": 755,
       "plain_terms": "no one may be locked out of education because of disability, other protected-characteristic grounds, or arbitrary gates — and schools and learning systems must provide the accessibility and support disabled sentients need to participate on equal terms.",
       "href": "../../core_06_rights_part_a.md#article-iii-b-equal-educational-access"
     },
@@ -121,7 +129,7 @@
       "title": "Article III-C: Bodily-Maintenance and Healthcare Access",
       "file": "core_06_rights_part_a.md",
       "anchor": "article-iii-c-bodily-maintenance-and-healthcare-access",
-      "line": 744,
+      "line": 792,
       "plain_terms": "every sentient has the right to the care needed to keep their body or substrate functioning, and gating mechanisms cannot be used to quietly defeat that right.",
       "href": "../../core_06_rights_part_a.md#article-iii-c-bodily-maintenance-and-healthcare-access"
     },
@@ -129,7 +137,7 @@
       "title": "Article III-D: Labor and Economic Floor",
       "file": "core_06_rights_part_a.md",
       "anchor": "article-iii-d-labor-and-economic-floor",
-      "line": 792,
+      "line": 840,
       "plain_terms": "anyone who works — in any form, on any substrate — has rights to fair pay, the freedom to organize with others, safe conditions, and real time off. None of those can be defeated by classification tricks, market structure, or substrate-class arguments.",
       "href": "../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor"
     },
@@ -137,7 +145,7 @@
       "title": "Article IV: Resource Allocation, Dependencies, and Ecosystem Funding",
       "file": "core_06_rights_part_a.md",
       "anchor": "article-iv-resource-allocation-dependencies-and-ecosystem-funding",
-      "line": 866,
+      "line": 914,
       "plain_terms": "**Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) is the shared-resources Rights Floor — resource flows among interdependent systems must stay visible, fair, and sustainable so **Flourishing** is not defeated by hidden extraction or dependency capture, and **Continuity** is not defeated by persistent imbalance, opaque routing, or underfunding of shared infrastructure.",
       "href": "../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding"
     },
@@ -145,7 +153,7 @@
       "title": "Article IV-A: Dependency Mapping and Resource-Flow Transparency",
       "file": "core_06_rights_part_a.md",
       "anchor": "article-iv-a-dependency-mapping-and-resource-flow-transparency",
-      "line": 904,
+      "line": 952,
       "plain_terms": "systems must keep an honest, up-to-date picture of what they rely on, what flows in and out, and where relationships are one-sided or opaque when that matters—so funders, auditors, and affected parties can see who bears the costs and who captures the benefits.",
       "href": "../../core_06_rights_part_a.md#article-iv-a-dependency-mapping-and-resource-flow-transparency"
     },
@@ -153,7 +161,7 @@
       "title": "Article IV-B: Cross-System Fairness and Sustainability",
       "file": "core_06_rights_part_a.md",
       "anchor": "article-iv-b-cross-system-fairness-and-sustainability",
-      "line": 936,
+      "line": 984,
       "plain_terms": "split shared money and capacity with attention to who is truly dependent, who has real alternatives, environmental burden, and whether use can last—not mainly to whoever wins in the short run. Heavy users of shared foundations must not keep pulling value out without [Proportionate Cross-System Contribution](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional). When arrangements concentrate wealth, power, control, or opportunity in ways that predictably harm others' wellbeing, agency, dignity, or ecological integrity, Chapter One non-concentration rules and adopter-tunable thresholds add further scrutiny. That scrutiny is extra; it does not replace dependency mapping or excuse neglect of cross-system fairness.",
       "href": "../../core_06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability"
     },

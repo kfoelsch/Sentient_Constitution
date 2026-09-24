@@ -3081,7 +3081,7 @@ See **Joint invocation and satisfaction**.
     - **violent:** [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Cruelty](core_05_band_accountability.md#cruelty), and [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying);
     - **severe psychological-harm risk:** [Psychological Harm](core_05_band_accountability.md#psychological-harm) and [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster).
   - **In scope — joint read-with when implicated:** Where any of the following is materially implicated, also read [*Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)](core_05_band_participation.md#info-sphere)*:
-    - **[Article II-E](core_06_rights_part_a.md#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability) (*Info-Sphere Dependency, Continuity, and Operator Non-Viability*)**;
+    - **[Article II-E](core_06_rights_part_a.md#article-ii-e-data-handling-and-network-dependency) (*Data Handling and Network Dependency*)**;
     - **Article VIII** (*Likeness, Experiential Data, and Publication Rights*) publication or likeness hooks; or
     - functional **Article V-H** (*Expression, Assembly, and Press*) *press*.
   - **Out of scope:**

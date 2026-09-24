@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-24T15:12:36+00:00",
+  "generated_at": "2026-09-24T16:43:42+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -4954,7 +4954,7 @@
             "count": 13,
             "anchors": [
               "#article-i-a-environmental-preconditions-and-ecological-integrity",
-              "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+              "#article-ii-e-data-handling-and-network-dependency",
               "#article-iii-b-equal-educational-access",
               "#article-iii-d-labor-and-economic-floor"
             ]
@@ -7191,7 +7191,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 37,
+            "count": 38,
             "anchors": [
               "#2-foundational-objective-wellbeing",
               "#31-safety-harm-constraint",
@@ -7202,7 +7202,7 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 15,
+            "count": 16,
             "anchors": [
               "#6-process-conflict-resolution",
               "#61-core-tradeoff-principles",
@@ -7213,7 +7213,7 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 18,
+            "count": 17,
             "anchors": [
               "#11-governance-under-stewardship-discipline",
               "#12-incentive-alignment-and-system-capture",
@@ -7250,8 +7250,9 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 80,
+            "count": 83,
             "anchors": [
+              "#attribution-integrity-constitutional",
               "#governance-architecture-oversight-decentralization-and-concentration-cluster",
               "#market-concentration-threshold-constitutional",
               "#market-concentration-threshold-constitutional-a",
@@ -7266,12 +7267,13 @@
               "#negligence-c",
               "#proportionality",
               "#proportionality-a",
-              "#proportionality-c"
+              "#proportionality-c",
+              "#standing-record-chapter-six"
             ]
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 217,
+            "count": 227,
             "anchors": [
               "#anti-displacement-floor-constitutional",
               "#anti-displacement-floor-constitutional-a",
@@ -7316,6 +7318,9 @@
               "#leisure-and-rest-constitutional-a",
               "#leisure-and-rest-constitutional-c",
               "#occupancy-continuity-constitutional",
+              "#privacy-informational",
+              "#privacy-informational-a",
+              "#privacy-informational-c",
               "#proportionate-cross-system-support-constitutional",
               "#proportionate-cross-system-support-constitutional-a",
               "#proportionate-cross-system-support-constitutional-c",
@@ -7361,13 +7366,14 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 67,
+            "count": 74,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#epistemic-integrity",
               "#epistemic-integrity-a",
               "#epistemic-integrity-c",
               "#epistemic-integrity-o",
+              "#evidence-preservation",
               "#foreseeability-diligence",
               "#foreseeability-diligence-a",
               "#foreseeability-diligence-c",
@@ -7392,7 +7398,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 132,
+            "count": 137,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -7448,8 +7454,10 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 2,
-            "anchors": []
+            "count": 3,
+            "anchors": [
+              "#article-viii-b-experiential-and-derived-data-rights"
+            ]
           },
           {
             "file": "core_06_rights_part_c.md",
@@ -7463,16 +7471,19 @@
           },
           {
             "file": "core_06_rights_part_d.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
-              "#article-xxiv-c-timely-resolution-and-anti-delay-floor"
+              "#article-xxiv-c-timely-resolution-and-anti-delay-floor",
+              "#xxvi-a-preservation-over-deletion"
             ]
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 17,
+            "count": 20,
             "anchors": [
+              "#10-trustworthiness-and-system-reliance-integrity-evaluation",
               "#3-whole-system-certification-evaluation",
+              "#5-ecological-footprint-evaluation",
               "#chapter-eight-system-alignment-certification"
             ]
           },
@@ -7483,7 +7494,7 @@
           },
           {
             "file": "core_10_standing_integration.md",
-            "count": 4,
+            "count": 2,
             "anchors": [
               "#91-remediation-capacity-and-funding",
               "#94-anti-evasion-and-look-through-authority"
@@ -7498,7 +7509,7 @@
           },
           {
             "file": "core_17_incorporation.md",
-            "count": 1,
+            "count": 2,
             "anchors": []
           },
           {
@@ -7527,9 +7538,10 @@
           },
           {
             "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
-            "count": 1,
+            "count": 3,
             "anchors": [
-              "#12-continuity-critical-collection-and-exportability"
+              "#12-continuity-critical-collection-and-exportability",
+              "#13-collection-notice-and-deletion"
             ]
           },
           {
@@ -12693,7 +12705,7 @@
           },
           {
             "file": "corpus_systems/cs_02_b_data_classifications.md",
-            "count": 11,
+            "count": 12,
             "anchors": [
               "#83-type-o-open-public-oversight-baseline-disclosure-data",
               "#cs-2-8-data-classifications",

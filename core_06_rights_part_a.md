@@ -442,6 +442,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Read with: [Chapter Eight §5 Ecological Footprint Evaluation](core_08_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) and [§10 Trustworthiness and System-Reliance Integrity Evaluation](core_08_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*where a materially impactful system is certified, lifecycle burdens and lifecycle representations are evaluated there; this Article does not by itself require certification*).
 
 </details>
 
@@ -528,15 +529,15 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 <br>
 
-*In plain terms: you may not deliberately shorten a product's useful life. Nor may you use software updates mainly to push new purchases when the foreseeable effect is to pressure **sentients** to discard or replace goods that could still reasonably serve them.*
+*In plain terms: products must not be built or updated to wear out early, or to push you into buying a replacement you don't need.*
 
-- **Floors:** A producer or operator violates this Article when, in normal lawful use, the design or everyday operation of a product or embedded software can reasonably be expected to make either outcome the main result. This includes discretionary remote updates. The outcomes are:
-  - the product stops being useful sooner than it should; or
-  - sentients are pushed to replace it when replacement is not reasonably necessary.
+- **Floors:** This Article targets three problems:
+  - products, or the software inside them, that stop being useful sooner than they should;
+  - pressure on sentients to replace products they do not reasonably need to replace; and
+  - pricing, sales targets, staff pay, service contracts, or similar arrangements under which the producer or operator gains when products are thrown away or when repair tools, parts, or manuals are held back.
   
-  When incentives reward discard or withholding repair tools, parts, and documentation, this also triggers [Chapter One §12 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#12-incentive-alignment-and-system-capture) and **Article XII-D** (*Incentive-Alignment Constraint*).
-  
-  This floor does not apply when the operator can document **Necessity** and **Proportionality**. Examples include a genuine safety fix, security response, or real interoperability limit. Those reasons must not replace a durable design that was reasonably available.
+  A producer or operator violates this Article when the design or everyday operation of a product, or the software inside it, can reasonably be expected to make either of the first two the main result during normal, lawful use. This includes remote software updates the operator chooses to send. Where the third is present, [Chapter One §12 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#12-incentive-alignment-and-system-capture) and **Article XII-D** (*Incentive-Alignment Constraint*) also apply.
+- **Exceptions:** This rule does not apply when the operator can document **Necessity** and **Proportionality**. Examples are a genuine safety fix, a security response, or a real compatibility (interoperability) limit. None of these can excuse skipping a longer-lasting design that was reasonably available.
 
 #### Article II-D: Post-Sale Access and Subscription Integrity
 <details>
@@ -568,13 +569,76 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
   - Operators must disclose at purchase — when the binding commitment is made — any foreseeable need to rely on the operator's ongoing services for core or prominently marketed features.
   - Billing or access rules whose main commercial purpose is recurring payment for functionality already sold outright also trigger **Article XII-D** (*Incentive-Alignment Constraint*) unless the operator can show **Necessity** tied to lawful cost recovery, security, safety, or proportionate ongoing service.
 
-#### Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability
+<a id="article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability"></a>
+
+#### Article II-E: Data Handling and Network Dependency
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Read with: [Article XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*Portability Rights*).
-- Read with: [corpus_systems.md](corpus_systems.md) **CS-2 — Information types and handling**.
+- Read with: [corpus_systems.md](corpus_systems.md) **CS-2 — Information types and handling**, especially [§1.2](corpus_systems/cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability) (*Continuity-critical collection and exportability*).
+- Read with: **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) and **CJS-3.18** (*data-retention and lifecycle-integrity terms*).
+- Read with: [Article VIII-B](core_06_rights_part_b.md#article-viii-b-experiential-and-derived-data-rights) (*Experiential and Derived Data Rights*) — data ownership and other sentients' shares in the same data.
+- Read with: **Article XV** (*Audit, Transparency, and Independent Verification*) and [Evidence Preservation](core_05_band_oversight.md#evidence-preservation) — records that deletion must not defeat.
+- Read with: **Article XXVI-A** ([preservation over deletion for possible sentients](core_06_rights_part_d.md#xxvi-a-preservation-over-deletion)).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [Materiality Determination](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Privacy (Informational)](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
+- [Consent](core_05_band_participation.md#consent-constitutional) · [O](core_05_band_participation.md#consent-constitutional) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
+
+</details>
+
+<br>
+
+*In plain terms: any product that collects data about you must tell you what it collects, why, and how to delete it — and must delete it when you ask, except where records must be kept to protect others or hold someone accountable. When a product needs the operator's servers to work, the operator must say so up front and must not trap your data.*
+
+- **Data handling:** Operators must classify and handle data under this Article as [CS-2 — Information types and handling](corpus_systems.md) requires, where incorporated under [Chapter Seventeen](core_17_incorporation.md). This includes the notice and deletion rules in [CS-2 §1.3](corpus_systems/cs_02_a_information_types_and_handling.md#13-collection-notice-and-deletion) and the continuity-critical export rules in [CS-2 §1.2](corpus_systems/cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability).
+- **Data collection notice:** Producers and operators of any product, device, or service that collects, infers, or transmits data about sentients must tell them, before collection begins and in a form they can find and understand:
+  - what data is collected or inferred;
+  - the purpose of each kind of data;
+  - who receives it;
+  - how long it is kept;
+  - how to see it and how to have it deleted.
+  
+  The depth of the notice scales with **Materiality** and the sensitivity of the data, but no data-collecting product is exempt. Data must not be used for a purpose that was not disclosed. A new purpose requires new notice first and, where **Consent** is required, new consent.
+- **Right to deletion:** Sentients may require the deletion of data about them, including data derived or inferred from it. On request, the operator must:
+  - delete the data within a disclosed, reasonable period;
+  - pass the request on to everyone it shared the data with; and
+  - confirm what was deleted.
+  
+  Deletion must be real: hiding, flagging, or suspending data while keeping it usable is not deletion. Where full deletion is not technically feasible, the data must be irreversibly de-identified instead.
+  
+  An operator may keep data only where **Necessity** requires it for one of these reasons:
+  - evidence preservation, audit, or a lawful hold under **Article XV** (*Audit, Transparency, and Independent Verification*) and [Evidence Preservation](core_05_band_oversight.md#evidence-preservation);
+  - another sentient's own rights in the same data under **Article VIII-B** (*Experiential and Derived Data Rights*);
+  - official records this Constitution requires to be kept, such as [Act Records](core_05_band_accountability.md#materially-binding-act-record), [Standing Records](core_05_band_accountability.md#standing-record-chapter-six), and records needed for [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional);
+  - preservation duties under **Article XXVI-A** where a credible sentience indicator is on the record; or
+  - product functionality the sentient still wants, kept only with their ongoing **Consent**. A deletion request withdraws that consent for the data it covers.
+  
+  Kept data must be limited to what that reason needs and used for nothing else. The sentient must be told what was kept, why, and for how long, and may challenge the decision under **Article XII-B** (*Right to Challenge, Review, and Redress*).
+- **Network dependency:** For products whose lawful core use depends on operator-controlled network services, operators must disclose all of the following before any materially binding commitment. The required scope is proportionate to **Materiality** and dependency:
+  - what requires ongoing operator access;
+  - what degrades or fails if service ends;
+  - where data is located;
+  - what portability exists;
+  - what continuity measures are in place.
+  
+  Operators must not collect or retain continuity-critical sentient data in forms that cannot be exported, migrated, or transferred through the disclosed continuity and export paths. The exception is where **Necessity** requires confidentiality, security, or lawful non-disclosure. In that case, the limitation, its scope, and any lawful substitute export path must be disclosed before commitment.
+
+#### Article II-F: Continuity and Operator Shutdown
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Read with: [Article II-E](#article-ii-e-data-handling-and-network-dependency) (*Data Handling and Network Dependency*) — the disclosure and export paths this Article relies on.
 - Read with: **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) and **CJS-3.18** (*data-retention and lifecycle-integrity terms*).
 - Read with: [Chapter One §12.6 Successor Responsibility and Formal-Structure Non-Escape](core_01_c_stewardship_capacity_principles.md#126-successor-responsibility-and-formal-structure-non-escape).
 - Read with: [Chapter Ten §9.1](core_10_standing_integration.md#91-remediation-capacity-and-funding) and [§9.4](core_10_standing_integration.md#94-anti-evasion-and-look-through-authority).
@@ -587,28 +651,14 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 - [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
 - [Materiality Determination](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [Negligence](core_05_band_accountability.md#negligence) · [O](core_05_band_accountability.md#negligence) · [M](core_05_band_accountability.md#negligence-a) · [A](core_05_band_accountability.md#negligence-a) · [C](core_05_band_accountability.md#negligence-c)
 
 </details>
 
 <br>
 
-*In plain terms: when a product needs the operator's servers to work, the operator must say so up front. The operator must not trap continuity-critical data in forms that cannot be exported, except where confidentiality truly requires it. The operator must plan for service shutdown and cannot let bankruptcy or a sale erase those continuity duties.*
+*In plain terms: the operator must plan for service shutdown, give fair notice and time to move when it happens, and cannot let bankruptcy or a sale erase those duties.*
 
-- **Floors:** For products whose lawful core use depends on operator-controlled network services, operators must disclose all of the following before any materially binding commitment. The required scope is proportionate to **Materiality** and dependency:
-  - what requires ongoing operator access;
-  - what degrades or fails if service ends;
-  - where data is located;
-  - what portability exists;
-  - what continuity measures are in place.
-  
-  Operators must not collect or retain continuity-critical sentient data in forms that cannot be exported, migrated, or transferred through the disclosed continuity and export paths. The exception is where **Necessity** requires confidentiality, security, or lawful non-disclosure. In that case, the limitation, its scope, and any lawful substitute export path must be disclosed before commitment.
-
-  Read with:
-  - [corpus_systems.md](corpus_systems.md) **CS-2 — Information types and handling**;
-  - **[section 1.2](corpus_systems/cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)** (*Continuity-critical collection and exportability*); and
-  - **Article XIX-A** (*Portability Rights*).
 - **Continuity planning:** For incorporated **high-dependency** product categories, operators must maintain workable plans for what happens if the service stops or the operator goes away. Examples:
   - escrow;
   - successor handoff;
@@ -620,12 +670,10 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 - **Service shutdown:** Cessation of material services must follow:
   - documented notice;
   - proportionate migration or minimum-operation windows;
-  - usable export or handoff of continuity-critical data under the disclosed export paths, preserved through shutdown and migration windows — not merely a discretionary promise to try.
+  - usable export or handoff of continuity-critical data under the export paths disclosed under **Article II-E** (*Data Handling and Network Dependency*), preserved through shutdown and migration windows — not merely a discretionary promise to try.
   
   Operators can still be held to constitutional standards when their conduct qualifies as **Negligence** under Chapter Five. This includes harm that builds up over time because maintenance, support, or continuity duties were neglected.
-- **Successor and formal-structure duties:** Restructuring, sale, receivership, or insolvency does not by itself extinguish the continuity duties in this Article. Read with:
-  - [Chapter One §12.6 Successor Responsibility and Formal-Structure Non-Escape](core_01_c_stewardship_capacity_principles.md#126-successor-responsibility-and-formal-structure-non-escape); and
-  - [Chapter Ten §9.1 Remediation capacity and funding](core_10_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4 Anti-evasion and look-through authority](core_10_standing_integration.md#94-anti-evasion-and-look-through-authority).
+- **Successor and formal-structure duties:** Restructuring, sale, receivership, or insolvency does not by itself extinguish the duties in this Article or in **Article II-E** (*Data Handling and Network Dependency*).
 
 *Article neighbors:* **Remediation** for **Article II** (*Material Stewardship and Durable-Use Integrity*) follows the **interpretive hubs** stated at the opening of this chapter (challenge and redress; justice and escalation).
 

@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-24T15:12:37+00:00",
+  "generated_at": "2026-09-24T16:43:42+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 15169,
+  "edge_count": 15194,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -46507,7 +46507,7 @@
       "source_header": "Expression",
       "source_anchor": "#expression-constitutional",
       "target_file": "core_06_rights_part_a.md",
-      "target_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_anchor": "#article-ii-e-data-handling-and-network-dependency",
       "count": 1
     },
     {
@@ -51000,6 +51000,238 @@
     },
     {
       "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#31-safety-harm-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#61-core-tradeoff-principles",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act-record",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#standing-record-chapter-six",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#attribution-integrity-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#privacy-informational",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#privacy-informational-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#privacy-informational-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#evidence-preservation",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality-determination",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality-determination-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality-determination-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#consent-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#consent-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#consent-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-viii-b-experiential-and-derived-data-rights",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xix-a-portability-rights",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#xxvi-a-preservation-over-deletion",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#3-whole-system-certification-evaluation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "core_17_incorporation.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "corpus_systems.md",
+      "target_anchor": null,
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": "#12-continuity-critical-collection-and-exportability",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": "#13-collection-notice-and-deletion",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
       "source_header": "1. Purpose and Role",
       "source_anchor": null,
       "target_file": "core_00_preamble.md",
@@ -51872,6 +52104,22 @@
     },
     {
       "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-A: Material Stewardship and Lifecycle Honesty",
+      "source_anchor": null,
+      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#5-ecological-footprint-evaluation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-A: Material Stewardship and Lifecycle Honesty",
+      "source_anchor": null,
+      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#10-trustworthiness-and-system-reliance-integrity-evaluation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
       "source_header": "Article II-B: Repair, Maintenance, and Independent Servicing",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
@@ -52304,7 +52552,7 @@
     },
     {
       "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability",
+      "source_header": "Article II-F: Continuity and Operator Shutdown",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#31-safety-harm-constraint",
@@ -52312,7 +52560,7 @@
     },
     {
       "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability",
+      "source_header": "Article II-F: Continuity and Operator Shutdown",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#61-core-tradeoff-principles",
@@ -52320,39 +52568,15 @@
     },
     {
       "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability",
+      "source_header": "Article II-F: Continuity and Operator Shutdown",
       "source_anchor": null,
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#126-successor-responsibility-and-formal-structure-non-escape",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#necessity",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#necessity-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#necessity-c",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability",
+      "source_header": "Article II-F: Continuity and Operator Shutdown",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#negligence",
@@ -52360,7 +52584,7 @@
     },
     {
       "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability",
+      "source_header": "Article II-F: Continuity and Operator Shutdown",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#negligence-a",
@@ -52368,7 +52592,7 @@
     },
     {
       "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability",
+      "source_header": "Article II-F: Continuity and Operator Shutdown",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#negligence-c",
@@ -52376,7 +52600,7 @@
     },
     {
       "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability",
+      "source_header": "Article II-F: Continuity and Operator Shutdown",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency",
@@ -52384,7 +52608,7 @@
     },
     {
       "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability",
+      "source_header": "Article II-F: Continuity and Operator Shutdown",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency-a",
@@ -52392,7 +52616,7 @@
     },
     {
       "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability",
+      "source_header": "Article II-F: Continuity and Operator Shutdown",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency-c",
@@ -52400,7 +52624,7 @@
     },
     {
       "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability",
+      "source_header": "Article II-F: Continuity and Operator Shutdown",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#intergenerational-responsibility-constitutional",
@@ -52408,7 +52632,7 @@
     },
     {
       "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability",
+      "source_header": "Article II-F: Continuity and Operator Shutdown",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#intergenerational-responsibility-constitutional-a",
@@ -52416,7 +52640,7 @@
     },
     {
       "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability",
+      "source_header": "Article II-F: Continuity and Operator Shutdown",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#intergenerational-responsibility-constitutional-c",
@@ -52424,7 +52648,7 @@
     },
     {
       "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability",
+      "source_header": "Article II-F: Continuity and Operator Shutdown",
       "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#materiality-determination",
@@ -52432,7 +52656,7 @@
     },
     {
       "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability",
+      "source_header": "Article II-F: Continuity and Operator Shutdown",
       "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#materiality-determination-a",
@@ -52440,7 +52664,7 @@
     },
     {
       "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability",
+      "source_header": "Article II-F: Continuity and Operator Shutdown",
       "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#materiality-determination-c",
@@ -52448,15 +52672,7 @@
     },
     {
       "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability",
-      "source_anchor": null,
-      "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xix-a-portability-rights",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability",
+      "source_header": "Article II-F: Continuity and Operator Shutdown",
       "source_anchor": null,
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#3-whole-system-certification-evaluation",
@@ -52464,34 +52680,18 @@
     },
     {
       "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability",
+      "source_header": "Article II-F: Continuity and Operator Shutdown",
       "source_anchor": null,
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#91-remediation-capacity-and-funding",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability",
+      "source_header": "Article II-F: Continuity and Operator Shutdown",
       "source_anchor": null,
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#94-anti-evasion-and-look-through-authority",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability",
-      "source_anchor": null,
-      "target_file": "corpus_systems.md",
-      "target_anchor": null,
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability",
-      "source_anchor": null,
-      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
-      "target_anchor": "#12-continuity-critical-collection-and-exportability",
       "count": 1
     },
     {
@@ -116396,7 +116596,7 @@
       "source_anchor": "#cs-2-1-purpose-and-scope",
       "target_file": "corpus_systems/cs_02_b_data_classifications.md",
       "target_anchor": "#cs-2-part-b-data-classifications",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "corpus_systems/cs_02_a_information_types_and_handling.md",

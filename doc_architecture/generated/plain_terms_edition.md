@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **615** of **881** headings carry a gloss (70%).
+Coverage: **616** of **882** headings carry a gloss (70%).
 
 ## Contents
 
@@ -40,7 +40,7 @@ Coverage: **615** of **881** headings carry a gloss (70%).
 - [CHAPTER ELEVEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS](#chapter-eleven-part-b-anti-constitutional-misconduct--pattern-applications) — `core_11_b_misconduct_pattern_applications.md` (12/14 glossed)
 - [CHAPTER TWELVE: FORUMS AND JURISDICTION](#chapter-twelve-forums-and-jurisdiction) — `core_12_forum.md` (8/27 glossed)
 - [CHAPTERS NINE–TWELVE: PIPELINE APPLICATION VIGNETTES](#chapters-ninetwelve-pipeline-application-vignettes) — `core_09-12_application_vignettes.md` (9/35 glossed)
-- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_a.md` (21/24 glossed)
+- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_a.md` (22/25 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_b.md` (41/42 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_c.md` (51/52 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_d.md` (18/19 glossed)
@@ -4120,7 +4120,7 @@ the same rules travel with every example — allegations are not standing, the t
 
 ## CHAPTER SIX: FOUNDATIONAL RIGHTS
 
-Source file: [`core_06_rights_part_a.md`](../../core_06_rights_part_a.md) · 21/24 headings glossed
+Source file: [`core_06_rights_part_a.md`](../../core_06_rights_part_a.md) · 22/25 headings glossed
 
 #### 1. Purpose and Role
 
@@ -4196,7 +4196,7 @@ owners and independent repair shops must be able to fix products they own. They 
 
 ##### Article II-C: Designed Obsolescence and Incentive Discipline
 
-you may not deliberately shorten a product's useful life. Nor may you use software updates mainly to push new purchases when the foreseeable effect is to pressure **sentients** to discard or replace goods that could still reasonably serve them.
+products must not be built or updated to wear out early, or to push you into buying a replacement you don't need.
 
 [Source](../../core_06_rights_part_a.md#article-ii-c-designed-obsolescence-and-incentive-discipline)
 
@@ -4206,11 +4206,17 @@ a feature bought outright cannot be quietly turned into a subscription. Any rele
 
 [Source](../../core_06_rights_part_a.md#article-ii-d-post-sale-access-and-subscription-integrity)
 
-##### Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability
+##### Article II-E: Data Handling and Network Dependency
 
-when a product needs the operator's servers to work, the operator must say so up front. The operator must not trap continuity-critical data in forms that cannot be exported, except where confidentiality truly requires it. The operator must plan for service shutdown and cannot let bankruptcy or a sale erase those continuity duties.
+any product that collects data about you must tell you what it collects, why, and how to delete it — and must delete it when you ask, except where records must be kept to protect others or hold someone accountable. When a product needs the operator's servers to work, the operator must say so up front and must not trap your data.
 
 [Source](../../core_06_rights_part_a.md#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability)
+
+##### Article II-F: Continuity and Operator Shutdown
+
+the operator must plan for service shutdown, give fair notice and time to move when it happens, and cannot let bankruptcy or a sale erase those duties.
+
+[Source](../../core_06_rights_part_a.md#article-ii-f-continuity-and-operator-shutdown)
 
 #### Article III: Survival and Equal Educational Access
 

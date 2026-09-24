@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-09-24T15:12:38+00:00",
+  "generated_at": "2026-09-24T16:43:43+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -2063,7 +2063,7 @@
       "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
       "anchor": "#cjs-318-continuity-data-retention-and-lifecycle-integrity-terms",
       "heading": "CJS-3.18 Continuity: data-retention and lifecycle-integrity terms",
-      "line": 581,
+      "line": 582,
       "kind": "section",
       "gloss": "How long data is kept, how it changes, what gets linked to what, and what deletion actually means — because retention decisions quietly determine what can be audited or abused later."
     },
@@ -2071,7 +2071,7 @@
       "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
       "anchor": "#cjs-319-continuity-graceful-degradation-and-failure-mode-integrity-terms",
       "heading": "CJS-3.19 Continuity: graceful degradation and failure-mode integrity terms",
-      "line": 808,
+      "line": 809,
       "kind": "section",
       "gloss": "Under partial failure a system must behave honestly: degrade visibly rather than pretend to work, and fail in a way that can be recovered from."
     },
@@ -2087,7 +2087,7 @@
       "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
       "anchor": "#cjs-320-continuity-reversibility-and-containment-terms",
       "heading": "CJS-3.20 Continuity: reversibility and containment terms",
-      "line": 1034,
+      "line": 1035,
       "kind": "section",
       "gloss": "Design so that mistakes can be undone and damage stays local. Irreversible-by-default architecture converts every error into a permanent one."
     },
@@ -2095,7 +2095,7 @@
       "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
       "anchor": "#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms",
       "heading": "CJS-3.21 Continuity: adversarial robustness and abuse-resistance terms",
-      "line": 1160,
+      "line": 1161,
       "kind": "section",
       "gloss": "Assume someone will actively try to misuse the system, including by exploiting its incentives rather than its code, and build defenses that survive that."
     },
@@ -2416,49 +2416,49 @@
       "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "anchor": "#cs-2-2-determination-of-classification",
       "heading": "CS-2.2 Determination of classification",
-      "line": 91,
+      "line": 132,
       "kind": "section"
     },
     "CS-2.3": {
       "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "anchor": "#cs-2-3-temporal-systemic-and-dependency-scope-of-rights",
       "heading": "CS-2.3 Temporal, systemic, and dependency scope of rights",
-      "line": 117,
+      "line": 158,
       "kind": "section"
     },
     "CS-2.4": {
       "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "anchor": "#cs-2-4-anti-circumvention-and-integrity-of-classification",
       "heading": "CS-2.4 Anti-circumvention and integrity of classification",
-      "line": 126,
+      "line": 167,
       "kind": "section"
     },
     "CS-2.5": {
       "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "anchor": "#cs-2-5-cross-domain-governance-principles",
       "heading": "CS-2.5 Cross-domain governance principles",
-      "line": 141,
+      "line": 182,
       "kind": "section"
     },
     "CS-2.6": {
       "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "anchor": "#cs-2-6-data-separation-and-attribution",
       "heading": "CS-2.6 Data separation and attribution",
-      "line": 357,
+      "line": 398,
       "kind": "section"
     },
     "CS-2.7": {
       "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "anchor": "#cs-2-7-type-o-baseline-for-class-a-b-c-systems",
       "heading": "CS-2.7 Type O baseline for Class A/B/C systems",
-      "line": 460,
+      "line": 501,
       "kind": "section"
     },
     "CS-2.8": {
       "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "anchor": "#cs-2-8-system-data-types-record-governance",
       "heading": "CS-2.8 System Data Types Record governance",
-      "line": 491,
+      "line": 532,
       "kind": "section"
     },
     "CS-2A": {

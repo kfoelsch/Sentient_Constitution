@@ -35,7 +35,8 @@ CS-2 implements:
 - **Most-restrictive rule** — where more than one type applies, the strongest applicable protections govern ([§2](#cs-2-2-determination-of-classification) *When it is unclear*), subject to proportionality (**CJS-3.11** (*distributed and proportional authority terms*) and **CJS-3.7** (*quorum and participatory legitimacy terms*))
 - **Classification integrity** — type follows the **functional nature of the data** and the **effects it enables**, not format, origin, or pipeline stage; systems may not evade typing by fragmentation, re-labeling, or indirection ([§2](#cs-2-2-determination-of-classification)–[§4](#cs-2-4-anti-circumvention-and-integrity-of-classification))
 - **Identity self-ownership** — identity and attribution data remain under sentient control through revocation, rotation, correction, and recoverability ([§1.1](#11-identity-self-ownership-and-recoverability); **Article VII** (*Self-Ownership*))
-- **Continuity and exit** — for **Class A**, **Class B**, and **Class C** systems, sentients must be able to take their continuity-critical data with them when a service ends or changes hands ([§1.2](#12-continuity-critical-collection-and-exportability); **Article II-E** (*Info-Sphere Dependency, Continuity, and Operator Non-Viability*)), and the formats and interfaces used for that handoff must meet **CJS-3.17** (*interoperability, portability, and exit-integrity terms*)
+- **Collection notice and deletion** — every system that collects data about sentients must disclose what it collects, why, and how to delete it, and must honor deletion requests except on narrow, disclosed grounds ([§1.3](#13-collection-notice-and-deletion); **Article II-E** (*Data Handling and Network Dependency*))
+- **Continuity and exit** — for **Class A**, **Class B**, and **Class C** systems, sentients must be able to take their continuity-critical data with them when a service ends or changes hands ([§1.2](#12-continuity-critical-collection-and-exportability); **Article II-E** (*Data Handling and Network Dependency*); **Article II-F** (*Continuity and Operator Shutdown*)), and the formats and interfaces used for that handoff must meet **CJS-3.17** (*interoperability, portability, and exit-integrity terms*)
 - **Cross-domain governance** — proportional access, reclassification and lifecycle, tiered transparency and audit, transformation traceability, attribution, and retention ([§5](#cs-2-5-cross-domain-governance-principles)); typing integrity and anti-evasion remain in [§2](#cs-2-2-determination-of-classification)–[§4](#cs-2-4-anti-circumvention-and-integrity-of-classification)
 - **Separation and attribution** — keep higher-sensitivity domains from leaking through linkage or inference, and preserve attributable action ([§6](#cs-2-6-data-separation-and-attribution))
 - **Class scaling** — higher-impact systems get stricter data rules. How strict depends on the system's class under **CS-3 — System classification and handling**
@@ -68,7 +69,7 @@ Identity systems must preserve **continuity** where desired, **separation** wher
 *In plain terms: for Class A/B/C systems, do not lock sentients' continuity-critical data in a form they cannot take with them when the service ends or changes hands — and disclose any lawful limits up front.*
 
 This subsection is foundational to continuity and exit under CS-2. It implements:
-- **Article II-E** (*Info-Sphere Dependency, Continuity, and Operator Non-Viability*)
+- **Article II-E** (*Data Handling and Network Dependency*) and **Article II-F** (*Continuity and Operator Shutdown*)
 - **Article XIX-A** (*Portability Rights*)
 - **CJS-3.17** (*interoperability, portability, and exit-integrity terms*)
 
@@ -86,6 +87,46 @@ Where export is limited, operators must disclose before a materially binding com
 Shutdown, migration, operator exit, and service-end paths must:
 - preserve usable **export or handoff** of continuity-critical data under those disclosed paths
 - **not** rely on a discretionary promise to try later
+
+<a id="13-collection-notice-and-deletion"></a>
+
+**1.3. Collection notice and deletion.**
+
+*In plain terms: every system that collects data about sentients must say what it collects, why, who gets it, and how long it is kept — and must actually delete that data when asked, except for narrow, disclosed reasons to keep it.*
+
+This subsection implements:
+- **Article II-E** (*Data Handling and Network Dependency*)
+- **Article VIII-B** (*Experiential and Derived Data Rights*)
+- **CJS-3.18** (*data-retention and lifecycle-integrity terms*)
+
+It applies to **every** system that collects, infers, or transmits data about sentients, regardless of system class. Depth scales with **system impact** and the access-posture band of the data ([§5.0](#50-access-posture-bands)).
+
+**Collection notice.** Before collection begins, operators must tell affected sentients, in a form reachable without expert tools:
+- the **data types** collected or inferred, using the types in **[Part B](cs_02_b_data_classifications.md#cs-2-part-b-data-classifications)** and consistent with the [System Data Types Record](#cs-2-8-system-data-types-record-governance) where one is required
+- the **purpose** of each type, and that the data will not be used beyond it ([§5.2](#52-reclassification-and-lifecycle-governance))
+- **recipients**, including processors and other systems the data is linked to
+- the **retention period** or the rule that sets it
+- how to **see** the data and how to **request deletion**
+
+A new purpose or recipient requires updated notice before the data is used that way, and new consent where the type requires it.
+
+**Deletion on request.** Operators must:
+- give sentients a deletion path at least as easy to use as the path used to collect the data
+- verify the requester with no more **Type I** data than the request needs
+- delete the data, and data derived or inferred from it, within a disclosed period, including backups within a disclosed backup cycle
+- pass the request to every recipient and processor, and record that they did so
+- confirm to the sentient what was deleted and what was kept
+
+Hiding, flagging, suspending, or re-labeling data while it stays usable is **not** deletion. Where deletion is not technically feasible, the data must be irreversibly de-identified or aggregated under **CJS-3.18**.
+
+**Grounds for keeping data.** An operator may refuse or limit deletion only where **Necessity** requires, for:
+- evidence preservation, audit, or a lawful hold — including **Type S** data under an authorized investigation
+- another sentient's rights in the same data under **Article VIII-B**
+- official records the Constitution requires, including Act Records, Standing Records, attribution records under [§6.3](#63-attribution-and-accountability-requirements), and **Type O** public oversight data where [§7](#cs-2-7-type-o-baseline-for-class-a-b-c-systems) requires it
+- preservation duties under **Article XXVI-A** (*preservation over deletion for possible sentients*)
+- functionality the sentient still wants, kept only with their ongoing consent — a deletion request withdraws that consent for the data it covers
+
+Each refusal must state its ground, what is kept, and for how long. Kept data must be limited to what that ground needs and must not be used for anything else. Refusals are challengeable under **Article XII-B** (*Right to Challenge, Review, and Redress*).
 
 <a id="cs-2-2-determination-of-classification"></a>
 ## CS-2.2 Determination of classification
