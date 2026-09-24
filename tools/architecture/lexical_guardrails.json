@@ -235,6 +235,16 @@
       "name": "router-read-label",
       "pattern": "\\*\\*Router read:\\*\\*",
       "suggestion": "Move CJS-0.1 bidirectional routing into the Trace <details> block as `- Topic routing (...):` bullets; do not use **Router read:** in visible body prose."
+    },
+    {
+      "name": "dac-placement-commentary",
+      "pattern": "\\broadmap pointer\\b|\\bre-invokes?\\b|\\bre-invoked\\b|\\boperatively invokes? (?:them|these|those)\\b|\\bcanonical Chapter Five anchors\\b",
+      "suggestion": "Remove visible commentary on D/A/C placement; the widget carries the anchors (NAV-DAC-12)."
+    },
+    {
+      "name": "impl-layer-lead-in",
+      "pattern": "\\bImplementation text supplies (?:\\*\\*)?procedural detail\\b|\\bowner layers must (?:\\*\\*)?implement",
+      "suggestion": "Replace with one plain pointer sentence naming what lives in the cited family subfile; do not restate implement / not-narrow (IMPL-ROUTE-01)."
     }
   ],
   "easy_entry_jargon": {

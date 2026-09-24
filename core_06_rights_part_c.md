@@ -344,8 +344,7 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 *In plain terms: systems must be able to detect, contain, and recover from faults — but recovery cannot be used to hide failures, silently narrow rights, or skip root-cause work. Safe failure beats speculative auto-repair.*
 
 - **Recovery baseline:** Systems within scope of this Article must implement recovery behavior proportionate to their impact, dependency, and risk, consistent with [**4.1 Resilience and Self-Healing Design**](core_01_a_values_principles.md#41-resilience-and-self-healing-design) in **Chapter One** and [**Self-Healing**](core_05_band_continuity.md#self-healing-constitutional) in **Chapter Five**.
-  - Detailed recovery-architecture requirements appear in incorporated implementation text, including **[corpus_systems.md](corpus_systems.md), CS-5** (*Design, testing, verification, and deployment*), **CS-8** (*Adaptive Sustainability and Ecosystem Resilience*), and **CS-12** (*Decentralized Constitutional Continuity and Partition Resilience*).
-  - That implementation text must not narrow this Article.
+  - Detailed recovery-architecture requirements appear in incorporated implementation text, including [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*), [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*Adaptive sustainability and ecosystem resilience*), and [**CS-12**](corpus_systems/cs_12_decentralized_continuity_partition_resilience.md) (*Decentralized continuity and partition resilience*).
 - **Detection:** Recovery requires timely, observable detection of fault, degradation, or constitutional-constraint violation sufficient to satisfy **Article XV-A** (*Auditability and Observable Evidence*) [Auditability](core_05_band_oversight.md#auditability) — for the recovery path itself, not only the steady state.
 - **Containment:** Recovery must bound blast radius. Recovery actions must not:
   - propagate failure through [Cascading Failure](core_05_band_continuity.md#cascading-failure) pathways;
@@ -618,7 +617,6 @@ Those floors apply to **exceptional institutional power** in three linked domain
 - **Existential-risk interaction:** Autonomous lethal systems at scales, capability levels, or deployment conditions materially implicating **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny are subject to that provision's [highest scrutiny](core_05_band_oversight.md#highest-scrutiny).
   - Framings that treat such systems as ordinary capability-expansion rather than as **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) objects are non-compliant.
 - **Systems-layer interaction:** Operational classification, reliability, and **CS-3 — System classification and handling** class-scaled governance route to the systems layer — **Article XII-A** (*Reliability and Trustworthiness Baseline*) baseline and **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**.
-  - The systems-layer routing does not narrow the Rights-Floor stated here.
   - Conflicts resolve under **Chapter One §6.1.5** without narrowing the Rights Floor.
 
 ### Article XIV: Info-Sphere Integrity
@@ -688,7 +686,6 @@ Accurate, relevant, and contestable information is foundational to self-determin
     - provenance and uncertainty treatment;
     - contestability;
     - proportional ability to bypass or adjust ranking criteria — subject to safety, security, and system integrity.
-  - It must not narrow this Article.
 - **Contingent-settlement signals:** Prices, odds, pool sizes, or comparable outputs of contingent-payment or event-settlement systems must not be treated, on their own, as evidence sufficient to decide truth, probability, or compliance for rights, safety, or governance determinations.
   - Where such signals inform public decisions or decisions with [Material Impact](core_05_band_oversight.md#material-impact), they remain subject to **Chapter One §12.5** (*Contingent Claims, Games of Chance, and Event-Contract Markets*), **Chapter Five** (*Truth (Constitutional Constraint)*; *Epistemic Integrity*), and contestability obligations elsewhere in this Article.
 #### Article XIV-B: Transparency, Auditability, and Contestability
@@ -896,7 +893,7 @@ They operate consistently with **Chapters Two through Four**, including exclusiv
 
 - **Distributed oversight:** Multiple independent or pluralistic oversight pathways must be able to contribute materially to detection, review, and correction of failure, misalignment, or capture.
   - No single actor may monopolize audit access, effective oversight, or constitutional interpretation in practice.
-  - Adopted governance and integrity implementation must support audit and oversight scaling without narrowing this Article.
+  - Adopted governance and integrity implementation must support audit and oversight scaling.
 #### Article XV-C: Verification Accessibility
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -972,7 +969,7 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 *Article neighbors:*
 
 - **Read together:** **Article XVII** (*Sandboxed Innovation, Experimentation, and Creative Freedom*) where lighter rules apply only when external impact is absent or demonstrably contained; **Article XV** (*Audit, Transparency, and Independent Verification*) for reconstructable deployment and escalation evidence; **Article XII-F** (*Resilience and Self-Healing Baseline*) where recovery discipline intersects lifecycle change.
-- **Implementation layer:** **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling** and **CS-5** (*Design, testing, verification, and deployment*) — without narrowing the floors stated here. **Class A**, **Class B**, and **Class C** systems carry the strongest lifecycle duties; valid **Class P** treatment remains under **Article XVII** (*Sandboxed Innovation, Experimentation, and Creative Freedom*) only while external impact stays absent or demonstrably contained.
+- **Implementation layer:** [**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*System classification and handling*) and [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*). **Class A**, **Class B**, and **Class C** systems carry the strongest lifecycle duties; valid **Class P** treatment remains under **Article XVII** (*Sandboxed Innovation, Experimentation, and Creative Freedom*) only while external impact stays absent or demonstrably contained.
 
 #### Article XVI-A: Lifecycle Governance and Environment Separation
 <details>
@@ -1089,7 +1086,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 *Article neighbors:*
 
 - **Read together:** **Article XVI** (*System Lifecycle, Environments, and Reversibility*) when impact, dependency, or integration outgrows sandbox conditions; **Article XIV** (*Info-Sphere Integrity*) and **Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*) where publication-scoped integrity is materially implicated; **Article XV** (*Audit, Transparency, and Independent Verification*) for disclosure and verification of containment and transition claims.
-- **Implementation layer:** **[corpus_systems.md](corpus_systems.md), CS-5** and **CS-3 — System classification and handling** — without narrowing the floors stated here.
+- **Implementation layer:** [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*) and [**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*System classification and handling*).
 
 #### Article XVII-A: Sandboxed Scope
 <details>
@@ -1604,7 +1601,7 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
   - **Article XVI** (*System Lifecycle, Environments, and Reversibility*) where deployment or dependency outgrows sandbox or lifecycle assumptions;
   - **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) for transitional recognition when regimes or federations change.
 - **Movement and refuge floor:** **Article XIX-D** (*Movement, Migration, Refuge, and Non-Statelessness*) states the Rights-Floor counterpart for physical, jurisdictional, and regime-to-regime movement without narrowing portability or exit-integrity protections in **Articles XIX-A** through **XIX-C**.
-- **Implementation layer:** **[corpus_institutions.md](corpus_institutions.md)** and **Chapter Seventeen** incorporation text supply cross-regime recognition and operational procedure without narrowing the floors stated here.
+- **Implementation layer:** Cross-regime recognition and its operational procedure are left to adopted implementation text under **Chapter Seventeen**.
 #### Article XIX-A: Portability Rights
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1730,7 +1727,7 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
     - operationally equivalent forms for synthetic and hybrid sentients (relocation of instance, hosting-substrate change, or equivalent), subject to **Chapter One** safety and continuity constraints.
 - **Refuge from non-compliance:** A sentient facing a jurisdiction, federation, or adopter regime whose practice is materially non-compliant with this Constitution holds a right to seek refuge in a compliant regime.
   - The receiving regime's duty to consider and, where consistent with its own Rights-Floor, grant refuge is stated here.
-  - Operational procedures for cross-regime recognition route to incorporated implementation text under **Chapter Seventeen** and must not narrow this floor.
+  - Operational procedures for cross-regime recognition are left to adopted implementation text under **Chapter Seventeen**.
   - Refuge may not be denied on the ground that the claimant's substrate class differs from substrate classes the receiving regime ordinarily hosts, consistent with [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - Movement and refuge admission may be excluded or conditioned for entrants who carry unremediated anti-constitutional conduct, show constitutional hostility, or show documented contempt or repudiation of the constitutional community, under the Chapter Five admission qualifier — subject to **Necessity**, **Proportionality**, **Procedural Fairness**, and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - Deliberate coercive expulsion or dumping designed to overwhelm receiving adopters is a regime-level violation by the origin or expelling regime. It does not auto-assign hosting to any particular receiving adopter when origin-primary or shared / federation backup recognition remains real. A particular adopter may refuse such instrumentally coerced inflows under **Necessity**, **Proportionality**, and **Feasibility** without extinguishing baseline recognition elsewhere.
@@ -1750,7 +1747,7 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
 
   Where an origin, expelling, collapsing, withdrawing, or exiting regime still exists as a regime capable of recognition, that regime retains **primary** recognition responsibility. Where that regime is gone, refuses, or the discontinuity otherwise leaves a gap, shared or federation transitional recognition must be arranged consistent with **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) so the individual never hits zero recognition.
 
-  Parent-system collapse, adopter withdrawal, federation exit, or comparable structural discontinuity does not extinguish a sentient's Chapter Six protection. Transitional recognition must be arranged consistent with **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) transition governance. Cross-regime recognition mechanics route to incorporated implementation text and must not narrow this floor.
+  Parent-system collapse, adopter withdrawal, federation exit, or comparable structural discontinuity does not extinguish a sentient's Chapter Six protection. Transitional recognition must be arranged consistent with **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) transition governance. Cross-regime recognition mechanics are left to adopted implementation text under **Chapter Seventeen**.
 
   Where documented anti-constitutional conduct, constitutional hostility, or contempt or repudiation of the constitutional community is present, regimes may impose conditions, monitoring, or restricted status on recognition without extinguishing core Rights-Floor, **Redress and Remediation**, and **Procedural Fairness** protections. Exclusion from a particular adopter's admission or hosting does not violate Non-Statelessness when origin-primary or shared / federation backup recognition remains real.
 - **Integration with portability and exit integrity:** This Article governs both interoperability, portability, and exit integrity and the Rights-Floor counterpart for physical, jurisdictional, and regime-to-regime movement.
@@ -1775,11 +1772,10 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
   - credentialing regimes functioning as exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion);
   - allocation regimes that route claimants to non-equivalent services.
 - **Non-conflation:** This Article states a Rights Floor.
-  - Cross-federation recognition procedure routes to `corpus_institutions.md`.
+  - Cross-federation recognition procedure is left to adopted implementation text under **Chapter Seventeen**.
   - Substrate-portability mechanics route to this Article's portability and exit-integrity provisions.
   - Transitional-recognition mechanics route to **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*).
   - Climate-unlivability refuge decisions route to this Article's adopter-decided bullet and must not be read as a floor grant or a floor denial.
-  - Incorporated implementation text must not narrow this floor.
 
 ### Article XX: Comprehensibility and Complexity Stewardship
 
@@ -1940,7 +1936,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 When degradation, instability, or systemic risk is detected, sentients and systems have the right to **diagnostic rigor in practice** — not symbolic response. That rigor requires timely identification and documentation of primary and contributing causes (including direct, indirect, delayed, or cumulative causes where materially relevant); pluralistic or independent evaluation where appropriate to the stakes and to capture risk; and corrective effort aimed at causes rather than symptoms alone, with interim containment and monitoring where needed.
 
-Diagnostic rigor must remain auditable and challengeable. It must be consistent with **[corpus_systems.md](corpus_systems.md), CS-8** (*Adaptive sustainability and ecosystem resilience*), and with testing and verification environments under **CS-5** and **Article XV-A** (*Auditability and Observable Evidence*). **CS-8** does not narrow governing requirements in **Chapters Two through Five** where diagnostic, evidentiary, or corrective obligations are materially implicated.
+Diagnostic rigor must remain auditable and challengeable. It must be consistent with [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*Adaptive sustainability and ecosystem resilience*), and with testing and verification environments under [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*) and **Article XV-A** (*Auditability and Observable Evidence*).
 
 *Article neighbors:*
 

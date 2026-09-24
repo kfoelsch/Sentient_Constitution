@@ -4928,7 +4928,7 @@ when a transition stalls or fails, there must be a real off-ramp — and a stall
 
 ##### Article XXVI-D: Non-Compliant Property and Systems; Voluntary Turnover Incentives
 
-non-compliant systems and property can be remediated during transition — but only through narrow, documented, reviewable processes that protect basic Rights Floors, bar pretext, and do not turn into retaliation or political targeting. How institutions carry that out — roles, triggers, custody, appeals, funds, and incentive mechanics — lives in **CI-14.1** through **CI-14.3**; this article states the constitutional floor those procedures must not narrow.
+non-compliant systems and property can be remediated during transition — but only through narrow, documented, reviewable processes that protect basic Rights Floors, bar pretext, and do not turn into retaliation or political targeting. How institutions carry that out — roles, triggers, custody, appeals, funds, and incentive mechanics — lives in **CI-14.1** through **CI-14.3**.
 
 [Source](../../core_06_rights_part_d.md#article-xxvi-d-non-compliant-property-and-systems-voluntary-turnover-incentives)
 

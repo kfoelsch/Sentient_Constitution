@@ -407,7 +407,7 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
   - self-ownership — **Article VII-A / VII-B** (*Self-Ownership of Body and Mind* / *Internal-State Boundary and Type-N Protection*);
   - internal-state protection — **Article VII-B** (*Internal-State Boundary and Type-N Protection*) and related **CS-2 — Information types and handling** typing.
   
-  Operational mechanics — carer designation, capability-assessment procedures, periodic-review cadence — route to incorporated implementation text under **Chapter Seventeen** and must not narrow this floor.
+  Operational mechanics — carer designation, capability-assessment procedures, periodic-review cadence — are left to adopted implementation text under **Chapter Seventeen**.
 
 ##### Article V-F.1: Derived Developing Sentients
 
@@ -482,7 +482,7 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 - **Non-conflation:** This Article states cross-cutting accessibility Rights-Floor discipline.
   - **Article III-B** (*Equal Educational Access*) owns education-specific accessibility (non-narrowed by this Article).
   - [Chapter One §3.4 Plain-Language Accessibility (Participation and Stewardship Duty)](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty) states the cross-cutting accessibility principle.
-  - Operational standards, accommodation-catalog design, and comparable implementation mechanics route to `corpus_institutions.md` under **Chapter Seventeen** discipline and must not narrow this floor.
+  - Operational standards, accommodation-catalog design, and comparable implementation mechanics are spelled out in [**CI-8**](corpus_institutions/ci_08_transparency_participation_accessible_pathways.md) (*Transparency, participation, and accessible challenge and service pathways*) and [**CI-15**](corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md) (*Neurodiversity, disability justice, and trauma-informed participation*).
 
 #### Article V-H: Expression, Assembly, and Press
 
@@ -802,7 +802,7 @@ Where analysis of experiential or behavioral data produces outputs that function
 - **Review and remedy:** Durable or prolonged interventions are subject to independent periodic review under a designated forum family (**Chapter Twelve**).
   - Wrongful or under-evidenced interventions give rise to **Redress and Remediation**, with interim-period effects covered.
 - **Non-conflation:** This Article states a Rights-Floor for involuntary-intervention discipline.
-  - Clinical or operational procedure routes to adopted implementation text under **Chapter Seventeen** discipline and must not narrow this floor.
+  - Clinical and operational procedure is left to adopted implementation text under **Chapter Seventeen**.
   - This Article does not license compelled treatment beyond its own terms; affirmative access to care sits in **Article III-C** (*Bodily-Maintenance and Healthcare Access*).
 
 #### Article VII-D: Family, Care Relationships, Reproductive Autonomy, and Non-Separation
@@ -1164,7 +1164,6 @@ All use, storage, transformation, and disclosure of such data must remain subjec
     - transition support;
     - attribution and licensing structures;
     - participation in the derived value.
-  - Routing operational detail to `corpus_systems.md` is by pointer and does not narrow this floor.
 - **Fair compensation:** The [Fair Compensation](core_05_band_continuity.md#fair-compensation-constitutional) standard under **Article III-D** (*Labor and Economic Floor*) applies to creative labor regardless of substrate, and regardless of whether compensation is structured through traditional, platform, or novel mechanisms.
   - Attribution without compensation, or compensation without attribution, does not by itself satisfy this bullet where both are materially owed.
 - **Market concentration:** If a few players hoard control over materials, platforms, how information flows, or creative tools — in ways that predictably undercut other creators' livelihoods or ability to get credit for their work — **Chapter One §14** (*Market Structure*) non-concentration and the **[§14.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](core_01_c_stewardship_capacity_principles.md#141-market-concentration-threshold-mechanism-adopter-tunable)** market-concentration-threshold mechanism apply.
@@ -1544,13 +1543,13 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
   - dispute resolution.
   
   Those frameworks must scale by **Materiality**, dependency, isolation, and vulnerability. They must not become stigma-driven regimes or single out this activity relative to functionally comparable lawful services.
-  - **`corpus_institutions.md`** **CI-15** (*Vulnerable personal services markets — general regulation and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) interface*) and **`corpus_systems.md`** (market-mediated personal services) supply operational expectations and must not narrow this Article.
+  - [**CI-19**](corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md) (*Vulnerable personal services markets — Article X-C interface*) and [**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*System classification and handling*) (market-mediated personal services) supply operational expectations.
 - **Anti-circumvention:** Civil, administrative, licensing, zoning, or commercial measures are subject to the same constitutional scrutiny as direct criminalization where their primary practical effect is to replicate a criminal prohibition forbidden by the decriminalization floor.
   - This applies when the measures lack predicates tied to exploitation, lack of valid consent, or independent harm justified under **Chapter One** and **Chapter Five**.
   - Neutral-form regulation does not avoid that scrutiny.
 - **Transition:** Adopting instruments must provide relief — **expungement**, **sealing**, **non-disclosure by default**, or comparable measures — for records and for ongoing criminal or restrictive administrative measures that predominantly reflect conduct no longer criminal under this Article.
   - Individual review remains subject to **Article V-C** (*Full Inclusion and Equality in Adjudication and Operations*) fairness and **Chapter Four** traceability.
-- **Institutional implementation:** Licensing, exploitation-focused enforcement and victim access, transition sequencing, and general-market alignment are governed by **`corpus_institutions.md`** **CI-15** (*Vulnerable personal services markets — general regulation and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) interface*) and **`corpus_systems.md`** where designated, and must not narrow this Article.
+- **Institutional implementation:** Licensing, exploitation-focused enforcement and victim access, transition sequencing, and general-market alignment are governed by [**CI-19**](corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md) (*Vulnerable personal services markets — Article X-C interface*).
 
 ### Article XI: Stakeholder System Participation, Representation, and Due Process
 

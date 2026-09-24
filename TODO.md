@@ -25,6 +25,13 @@ Resolved checklist items are archived in [TODO_RESOLVED_2026-09-17.md](archive/T
 
 ## Open Backlog
 
+### 2026-09-24 — Implementation gaps found by IMPL-ROUTE-01 pointer truth
+
+- [ ] **Draft implementation text for Article II (*Material Stewardship and Durable-Use Integrity*).** No adopted family covers covered product categories, qualified-maintainer standards, triggering thresholds, or escrow and wind-down arrangements for discontinued products. The Article II opener in [core_06_rights_part_a.md](core_06_rights_part_a.md#article-ii-material-stewardship-and-durable-use-integrity) previously pointed to **CS-5**, which does not contain them; it now says these details are left to adopted implementation text under Chapter Seventeen. When a CS or CI family is drafted, replace that sentence with a subfile pointer per **IMPL-ROUTE-01** in [doc_architecture.md](doc_architecture.md).
+- [ ] **Draft implementation text for cross-regime and cross-federation recognition (Article XIX-D, *Movement, Migration, Refuge, and Non-Statelessness*).** Chapter Six pointed these to `corpus_institutions.md`, but no CI family covers them. [core_06_rights_part_c.md](core_06_rights_part_c.md) now says they are left to adopted implementation text under Chapter Seventeen (four places in Article XIX). Replace with a subfile pointer once a family exists.
+- [ ] **Name the CF family for forum publication, docketing, and effect pending disposition.** [Chapter Twelve](core_12_forum.md) still cites the `corpus_forum.md` wrapper there (candidates: **CF-11**, **CF-15**); confirm which family holds it and link the subfile per **REF-FAMILY**.
+- Resolved in the same sweep: **Article X-C** cited **CI-15** where **CI-19** is the owner (fixed); Chapter Twelve cited **CF-5** for costs, dismissal, and referral, which CF-5 does not cover (pointer removed; the sentence before it already routes these to adopting law).
+
 ### 2026-09-23 — Translations paused during English edits
 
 - [ ] **Restart translation after the English edit pass.** Translations are deliberately allowed to fall out of date until the editor finishes current edits (see [MEMLOG.md](MEMLOG.md)). When restarting, resync every file under [translations/](translations/) against the English source, including the new [Heightened Scrutiny](core_05_band_oversight.md#heightened-scrutiny) entry and the Chapter Six wording changes made on 2026-09-23.

@@ -435,12 +435,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 - **Environmental consistency:** Interpretation must remain consistent with **Article I** (*Environmental Survival*).
 - **Chapter Five scaling:** Read with Chapter Five where ecological footprint, intergenerational responsibility, and materiality apply.
 
-**Where the terms are defined:** The Chapter Five ideas mentioned just above (ecological footprint, intergenerational responsibility, and materiality) are formally defined and applied in the *Definitions · Assessment · Compliance* box under **Article II-A** (*Material Stewardship and Lifecycle Honesty*) below. The sentence above only points you there.
-
-**Where the practical details live:** The day-to-day rules for carrying out **Article II** (*Material Stewardship and Durable-Use Integrity*) are set out elsewhere:
-
-- **Which products are covered**, who qualifies to repair and maintain them, the thresholds that trigger these duties, and the escrow and shutdown arrangements for when a product is discontinued are spelled out in **[corpus_systems.md](corpus_systems.md)** (see **CS-5** and related sections) and, where noted, in **`corpus_institutions.md`**.
-- Those documents must **put this Article's minimum protections into practice**. They may go further, but they may **never weaken or shrink** them.
+**Where the practical details live:** Which products **Article II** (*Material Stewardship and Durable-Use Integrity*) covers, who qualifies to repair and maintain them, the thresholds that trigger these duties, and the escrow and shutdown arrangements for discontinued products are left to adopted implementation text under [Chapter Seventeen](core_17_incorporation.md).
 
 #### Article II-A: Material Stewardship and Lifecycle Honesty
 <details>
@@ -937,7 +932,7 @@ Those requirements protect shared infrastructure and the systems that depend on 
   
   Updates must occur at intervals proportionate to change and criticality. These representations must be available for audit under **Article XV-A** (*Auditability and Observable Evidence*). Where the system materially allocates, routes, funds, or extracts from shared infrastructure or foundational dependencies, [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) must evaluate whether they satisfy **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) — on a contestable **System Certification Record**, not merely on operator assertion.
   
-  Operational mechanics — dependent-systems maps, flow transparency, allocation categories, and adaptive adjustment — route under **[corpus_systems.md](corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*), and **CS-8** (*Adaptive sustainability and ecosystem resilience*). Chapter Eight states what certification must verify and record; those implementation texts implement this floor and must not narrow it.
+  Operational mechanics — dependent-systems maps, flow transparency, allocation categories, and adaptive adjustment — are spelled out in [**CS-9**](corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (*Resource allocation and funding stewardship*) and [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*Adaptive sustainability and ecosystem resilience*). Chapter Eight states what certification must verify and record.
 #### Article IV-B: Cross-System Fairness and Sustainability
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -984,7 +979,7 @@ Those requirements protect shared infrastructure and the systems that depend on 
   - ecosystem reinvestment for shared infrastructure and interoperability the extracting system relies on; and
   - ecological burden offset or restoration where material [Ecological Footprint](core_05_band_continuity.md#ecological-footprint) is imposed and another constitutional provision, implementation file, or adoption instrument requires action.
   
-  Compare inflows and outflows on dependent-systems maps and auditable resource-flow records under **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*). Where materially impactful systems allocate, route, fund, or extract from shared infrastructure, evaluate adequacy through [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification). Operational allocation mechanics route under **[corpus_systems.md](corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*), and **CS-8** (*Adaptive sustainability and ecosystem resilience*); those layers implement this floor and must not narrow it.
+  Compare inflows and outflows on dependent-systems maps and auditable resource-flow records under **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*). Where materially impactful systems allocate, route, fund, or extract from shared infrastructure, evaluate adequacy through [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification). Operational allocation mechanics are spelled out in [**CS-9**](corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (*Resource allocation and funding stewardship*) and [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*Adaptive sustainability and ecosystem resilience*).
   
   Persistent imbalances that materially threaten constitutional alignment are subject to audit, challenge, and corrective review under **Articles IX, XII, XIV, and XVII**.
 - **Market-concentration-threshold interaction:** Resource-allocation arrangements that produce or preserve concentration of wealth, power, control, or opportunity in ways that predictably degrade wellbeing, agency, dignity, or ecological integrity for other sentients engage:
