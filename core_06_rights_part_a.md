@@ -393,12 +393,12 @@ Chapter Five defines [Ecological Footprint](core_05_band_continuity.md#ecologica
   - where **Ecological Recovery Capacity** is materially implicated, assess whether the affected ecosystem or life-supporting system can sustain and regenerate itself under prevailing habitat conditions — by ecological function, connectivity, regenerative processes, and interdependence across the system as a whole, not by looking at one species, one local population, or one kind of organism on its own.
   
   Checking boxes at the local level, showing a favorable cost-benefit estimate on paper, or securing a short-term gain does not satisfy this Article while credible paths to civilization-scale harm or irreversible ecological recovery loss remain open and not seriously addressed.
-- **Burden and record:** Actors seeking authorization, continuation, or expansion under such conditions must show, under **Chapters Two through Four**, that:
-  - they meaningfully considered materially safer, reasonably effective alternatives;
+- **Burden and record:** Where the **Scrutiny trigger** is met, actors seeking authorization, continuation, or expansion bear the burden under [Chapter Four §1](core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) and must meet it under [highest scrutiny](core_05_band_oversight.md#highest-scrutiny). Uncertainty, contested evidence, or low estimated probability does not discharge the burden. They must show, by evidence meeting [Chapter Four §5](core_04_burden_traceability_verification.md#5-compliance-evidence-standard), that:
+  - for each materially safer alternative, they either adopted it into the activity under review or showed that it is not reasonably effective or not available. Relying on a record that alternatives were considered, without that showing, is non-compliant;
   - mitigation and interruption measures are proportionate to the scale of possible harm;
-  - monitoring is in place and the causal pathway can be reversed or interrupted if harm materializes.
+  - monitoring can detect the causal pathway early enough to interrupt it **before harm becomes irreversible**, and a named actor holds both the authority and the practical capacity to interrupt it.
   
-  Decision records must openly state uncertainty, assumptions, evidence limits, disagreement, and material gaps.
+  The burden is continuing: it must be met again on new material evidence, on expansion, and at intervals proportionate to the risk. Where it is not met, the activity is non-compliant, and consequences follow [Chapter Three §3 — Non-Compliance Finding Profiles](core_03_definition_integrity.md#3-non-compliance-finding-profiles). Each authorization, continuation, or expansion determination under this Article is a [materially binding act](core_05_band_accountability.md#materially-binding-act). Its [Act Record](core_05_band_accountability.md#materially-binding-act-record) must link the actor's showing and the reviewer's assessment, and must openly state uncertainty, assumptions, evidence limits, disagreement, and material gaps.
 - **Present benefit limit:** Present benefit does not justify disproportionate exposure of future sentients, systems critical to ecological recovery, or life-supporting ecological conditions to civilization-scale or survival-critical harm.
 - **Named measures:** Anyone seeking authorization, continuation, or expansion under this Article must name specific reduction, cap, or interruption measures in their [instrument of adoption](core_16_amendment_ratification.md#102-instrument-of-adoption) or in incorporated implementation text within adoption scope — including harm to the climate system as an [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional) factor. Those measures must match the scale of the risk.
   - This Article still does not set a numeric target.
@@ -435,12 +435,12 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 - **Environmental consistency:** Interpretation must remain consistent with **Article I** (*Environmental Survival*).
 - **Chapter Five scaling:** Read with Chapter Five where ecological footprint, intergenerational responsibility, and materiality apply.
 
-The canonical Chapter Five anchors for these concepts appear in the **Article II-A** (*Material Stewardship and Lifecycle Honesty*) *Definitions · Assessment · Compliance* widget. This is where the Article operatively invokes them. The opening sentence above is a roadmap pointer only; it does not re-invoke the concepts at the Article-opener level.
+**Where the terms are defined:** The Chapter Five ideas mentioned just above (ecological footprint, intergenerational responsibility, and materiality) are formally defined and applied in the *Definitions · Assessment · Compliance* box under **Article II-A** (*Material Stewardship and Lifecycle Honesty*) below. The sentence above only points you there.
 
-Implementation text supplies procedural detail for **Article II** (*Material Stewardship and Durable-Use Integrity*):
+**Where the practical details live:** The day-to-day rules for carrying out **Article II** (*Material Stewardship and Durable-Use Integrity*) are set out elsewhere:
 
-- **Covered product categories**, qualified-maintainer standards, thresholds, and escrow and wind-down mechanics are governed by **[corpus_systems.md](corpus_systems.md)** — including **CS-5** and related material — and by **`corpus_institutions.md`** where designated.
-- Those owner layers must **implement** the **Article II** (*Material Stewardship and Durable-Use Integrity*) floors and must **not narrow** them.
+- **Which products are covered**, who qualifies to repair and maintain them, the thresholds that trigger these duties, and the escrow and shutdown arrangements for when a product is discontinued are spelled out in **[corpus_systems.md](corpus_systems.md)** (see **CS-5** and related sections) and, where noted, in **`corpus_institutions.md`**.
+- Those documents must **put this Article's minimum protections into practice**. They may go further, but they may **never weaken or shrink** them.
 
 #### Article II-A: Material Stewardship and Lifecycle Honesty
 <details>
