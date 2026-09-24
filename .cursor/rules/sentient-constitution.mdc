@@ -32,7 +32,7 @@ Cross-file topics: `topic-route` (CJS-0.1 rows). Human map: [topic-router reader
 
 ## Session / meta files
 
-- Do **not** assume `MEMLOG.md` or `TODO.md` at the repo root. Historical task/session snapshots live under `archive/` when archived (see README *Binding vs support*); final root snapshots from 2026-05-01 are `archive/TODO_ROOT_RETIRED_2026-05-01.md` and `archive/MEMLOG_ROOT_RETIRED_2026-05-01.md`.
+- The working session log and task list are `project/MEMLOG.md` and `project/TODO.md` (with `project/VISION.md`, `project/plans/`, and `project/CONSTITUTIONAL_REGRESSION_SCENARIOS.md`); reader maps live in `guides/`. Historical task/session snapshots live under `archive/` when archived (see README *Binding vs support*); final root snapshots from 2026-05-01 are `archive/TODO_ROOT_RETIRED_2026-05-01.md` and `archive/MEMLOG_ROOT_RETIRED_2026-05-01.md`.
 - Do **not** apply agent-dashboard constraints (`src/types/`, `src/core/` OS-locked, `@master-directive.mdc`, Plan-Act-Verify mandate from that project).
 
 ## Editing norms

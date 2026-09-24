@@ -56,7 +56,7 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--file",
-        default="CONSTITUTIONAL_REGRESSION_SCENARIOS.md",
+        default="project/CONSTITUTIONAL_REGRESSION_SCENARIOS.md",
         help="Scenario specification file to audit.",
     )
     parser.add_argument(

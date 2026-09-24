@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-24T00:48:47+00:00",
+  "generated_at": "2026-09-24T13:25:54+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -6952,7 +6952,27 @@
           },
           {
             "file": "corpus_forum.md",
-            "count": 10,
+            "count": 9,
+            "anchors": []
+          },
+          {
+            "file": "corpus_forum/cf_03_forum_formation_chamber_structure.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_forum/cf_08_forum_forensic_analytical_support.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
+            "count": 1,
             "anchors": []
           },
           {
@@ -7207,6 +7227,21 @@
             ]
           },
           {
+            "file": "core_03_definition_integrity.md",
+            "count": 1,
+            "anchors": [
+              "#3-non-compliance-finding-profiles"
+            ]
+          },
+          {
+            "file": "core_04_burden_traceability_verification.md",
+            "count": 2,
+            "anchors": [
+              "#1-exclusive-enforcement-and-burden-allocation",
+              "#5-compliance-evidence-standard"
+            ]
+          },
+          {
             "file": "core_05__definitions_home.md",
             "count": 1,
             "anchors": [
@@ -7215,13 +7250,14 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 78,
+            "count": 80,
             "anchors": [
               "#governance-architecture-oversight-decentralization-and-concentration-cluster",
               "#market-concentration-threshold-constitutional",
               "#market-concentration-threshold-constitutional-a",
               "#market-concentration-threshold-constitutional-c",
               "#materially-binding-act",
+              "#materially-binding-act-record",
               "#necessity",
               "#necessity-a",
               "#necessity-c",
@@ -7325,7 +7361,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 66,
+            "count": 67,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#epistemic-integrity",
@@ -7461,6 +7497,11 @@
             ]
           },
           {
+            "file": "core_17_incorporation.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
             "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
             "count": 1,
             "anchors": []
@@ -7481,7 +7522,7 @@
           },
           {
             "file": "corpus_systems.md",
-            "count": 6,
+            "count": 3,
             "anchors": []
           },
           {
@@ -7490,6 +7531,16 @@
             "anchors": [
               "#12-continuity-critical-collection-and-exportability"
             ]
+          },
+          {
+            "file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
+            "count": 2,
+            "anchors": []
           }
         ]
       },
@@ -7884,8 +7935,28 @@
             "anchors": []
           },
           {
+            "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
             "file": "corpus_systems.md",
             "count": 14,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+            "count": 1,
             "anchors": []
           }
         ]
@@ -8297,7 +8368,7 @@
           },
           {
             "file": "corpus_institutions.md",
-            "count": 3,
+            "count": 2,
             "anchors": []
           },
           {
@@ -8321,7 +8392,27 @@
           },
           {
             "file": "corpus_systems.md",
-            "count": 19,
+            "count": 15,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
+            "count": 4,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_12_decentralized_continuity_partition_resilience.md",
+            "count": 1,
             "anchors": []
           }
         ]

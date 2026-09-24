@@ -539,7 +539,7 @@ best-practices-check-evidence:
 
 todo-close-check: reference-audit-evidence
 
-# SCORING-v1 (see CONSTITUTIONAL_REGRESSION_SCENARIOS.md section 10).
+# SCORING-v1 (see project/CONSTITUTIONAL_REGRESSION_SCENARIOS.md section 10).
 # Example:
 #   make scoring-v1 ARGS='--rights 8.8 --contestability 8.2 --enforcement 8.1 --boundary 8.7 --epistemic 8.5 --continuity 8.0 --markdown'
 scoring-v1:

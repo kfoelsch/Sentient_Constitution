@@ -88,7 +88,7 @@ See: [Article XVIII-A](../../../core_06_rights_part_c.md#article-xviii-a-standin
 
 ## If you want to look further
 
-- Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
+- Public door: [`../../../README.md`](../../../README.md)
 - Sibling briefs: [`README.md`](README.md)
 - Fit for operators and mixed crews: [`../FIT_SITUATIONS.md`](../FIT_SITUATIONS.md)
 - Same costly duties, human operators: [`../../../evaluation/HUMAN_OPERATORS.md`](../../../evaluation/HUMAN_OPERATORS.md) (announced pack; **separate sitting**)

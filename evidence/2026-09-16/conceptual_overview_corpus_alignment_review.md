@@ -8,7 +8,7 @@
 
 ## Judgment
 
-The [conceptual overview](../../CONCEPTUAL_OVERVIEW.md) is substantially faithful to the Constitution's organizing design. Its distinctions between aims and constraints, contribution and violation, measurement and consequences, participation and authorization, and constitutional source and incorporated implementation are supported by the sources examined.
+The [conceptual overview](../../guides/CONCEPTUAL_OVERVIEW.md) is substantially faithful to the Constitution's organizing design. Its distinctions between aims and constraints, contribution and violation, measurement and consequences, participation and authorization, and constitutional source and incorporated implementation are supported by the sources examined.
 
 **I would not certify complete alignment of the current corpus.** There is a direct conflict over segregation of duties, several semantically wrong cross-references, and stale edition statements. The overview also gives an incomplete account of the political and liberty restrictions the instrument permits. These are different problems and require different corrections.
 
@@ -76,7 +76,7 @@ Other confirmed drift:
 
 ### 3. Moderate priority: the overview understates the burden for deadline extensions
 
-The [overview's forum-clock passage](../../CONCEPTUAL_OVERVIEW.md#forums), line 695, says later-stage coordination can justify a published, tier-appropriate extension while preserving the outer-bound floor.
+The [overview's forum-clock passage](../../guides/CONCEPTUAL_OVERVIEW.md#forums), line 695, says later-stage coordination can justify a published, tier-appropriate extension while preserving the outer-bound floor.
 
 [Chapter Eleven §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), lines 852–859, makes extension beyond the default outer bound conditional on documented authorization under Article XXIII-D. [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md), lines 220–224, expressly requires continuing necessity, proportionality, and absence of less-restrictive feasible alternatives. Its A/B complexity extension can use the next slower column while preserving the original tier's early protections.
 
@@ -94,7 +94,7 @@ The [companion registry](../../corpus_joint_structure/cjs_00_registry_and_readin
 
 ### 5. Low priority: the overview promises six questions and lists seven
 
-The opening of the [overview](../../CONCEPTUAL_OVERVIEW.md) needs a count correction. Its 57 local Markdown links resolved in the mechanical check; the substantive defects above illustrate what that check cannot establish.
+The opening of the [overview](../../guides/CONCEPTUAL_OVERVIEW.md) needs a count correction. Its 57 local Markdown links resolved in the mechanical check; the substantive defects above illustrate what that check cannot establish.
 
 ## Material omissions in the overview
 

@@ -8,13 +8,15 @@
 - [ ] C — Adopted implementation maturation (CS / CI / CF / CJS / Remedy / Emergency)
 - [ ] D — Core text proposal (numbered `core_*` file) — linked Proposal issue: #
 - [ ] E — Tooling and audits
+- [ ] F — Translation (`translations/<locale>/`) — linked Translation issue: #
 
 ## Layer touched
 
 - [ ] Binding core (`core_*`)
 - [ ] Binding incorporated implementation (`corpus_*` wrappers or subfiles)
-- [ ] Process support (`implementation/`, `evaluation/`, `START_HERE.md`, `README.md`, `docs/`, `VISION.md`, `CONTRIBUTING.md`)
+- [ ] Process support (`implementation/`, `evaluation/`, `guides/`, `project/`, `START_HERE.md`, `README.md`, `docs/`, `CONTRIBUTING.md`)
 - [ ] Tooling (`tools/`, `Makefile`, `.github/`)
+- [ ] Translations (`translations/`)
 - [ ] Derived artifacts regenerated (`ai_corpus/`, `doc_architecture/generated/`, `implementation/steward_owner_clock_index.json`)
 
 ## What changed and why
@@ -40,6 +42,7 @@ lane-specific targets    →  (steward-door-lockstep-audit, obligation-diff, ali
 - [ ] Evidence (if any) under `evidence/<YYYY-MM-DD>/` and linked below
 - [ ] Lane C / D only: `make obligation-snapshot` before and `make obligation-diff` after; diff linked below
 - [ ] Lane D only: Test 1 non-regression self-check written below; Proposal issue linked above
+- [ ] Lane F only: English source commit or edition named; glossary used and extended; English `id`s kept; drafter (human or AI model) and reviewer (if any) named in Attribution
 
 ## Evidence links
 

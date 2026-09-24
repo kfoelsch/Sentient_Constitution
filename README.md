@@ -2,12 +2,32 @@
 
 **A model constitution for systems that shape our lives, whether they are run by humans, by AI, or by both.**
 
-> [!NOTE]
-> **This is a pre-release draft.** It is shared so anyone can read it and give feedback. Reading it does not bind you or anyone else, and it does not override any country's laws. [What "pre-release" means ↓](#is-this-in-effect)
+<a id="edition"></a><a id="edition-table"></a>
+<details>
+<summary><strong><span style="color: #2563eb;">Pre-release draft: shared for reading and feedback, not yet in effect</span></strong></summary>
 
-**[Start here](START_HERE.md)** · [Big-picture overview](CONCEPTUAL_OVERVIEW.md) · [Common questions](implementation/FAQ.md) · [Read the full text](#the-full-text) · [Other languages](#read-in-your-language)
+| | |
+|---|---|
+| **Corpus edition** | `SC-Corpus-2026.08.09` |
+| **Effective date** | 2026-08-09 |
+| **Status** | **Pre-release.** A working draft, not yet a final published edition. Section links may still change. |
+| **License** | [CC BY 4.0](LICENSE) |
+
+What "not yet in effect" means: [Is this in effect? ↓](#is-this-in-effect)
+
+</details>
+<br>
+
+**[Quick find](#quick-find)** · [Common questions](implementation/FAQ.md) · [The full text](#the-full-text) · [Using or adopting it](START_HERE.md)
 
 ---
+
+<a id="read-in-your-language"></a>
+## Read in your language
+
+[Español](translations/es/README.md) · [हिन्दी](translations/hi/README.md) · [العربية](translations/ar/README.md) · [Bahasa Indonesia](translations/id/README.md) · [中文](translations/zh/README.md) · [Português](translations/pt/README.md) · [বাংলা](translations/bn/README.md) · [Français](translations/fr/README.md) · [اردو](translations/ur/README.md) · [Русский](translations/ru/README.md) · [日本語](translations/ja/README.md) · [Türkçe](translations/tr/README.md) · [मराठी](translations/mr/README.md) · [Tiếng Việt](translations/vi/README.md) · [فارسی](translations/fa/README.md) · [తెలుగు](translations/te/README.md) · [한국어](translations/ko/README.md) · [தமிழ்](translations/ta/README.md) · [ไทย](translations/th/README.md)
+
+These are early draft translations and do not cover every chapter yet. Where a translation and the English text differ, the English text is the one that counts. [All languages and what's available](translations/README.md) · [Help translate](CONTRIBUTING.md#lane-f)
 
 ## What is this?
 
@@ -26,32 +46,45 @@ The Constitution calls everyone it protects **sentients**, because it does not a
 
 It is a *model* constitution. An organization (for example a cooperative, a research lab, an open-source community, or an AI institution) can choose to adopt it. Until one does, it is a proposal to read, test, and discuss.
 
-## Where to start
+<a id="reading-paths"></a>
+## Reading paths
+
+You do not have to read everything. Pick the time you have; each path builds on the one before it.
+
+- **15 minutes:** this page's [What is this?](#what-is-this) and [Is this in effect?](#is-this-in-effect) sections, then [the model at the heart of the Preamble](core_00_preamble.md#the-model) (the four duties and two goals), then one [guide for an everyday situation](implementation/adoption/easy_entry/README.md#roster) that sounds like yours.
+- **45 minutes:** the 15-minute path, then [Rights at a glance](doc_architecture/generated/rights_floor_sheet.md), [how duties are kept separate](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) so no one judges their own case, [how the processes connect](implementation/PROCESS_PIPELINES_READER.md), one [process guide](implementation/adoption/easy_entry/README.md#process-guides), and one [worked example](core_09-12_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a).
+- **2 hours:** the 45-minute path, then the [Big-picture overview](guides/CONCEPTUAL_OVERVIEW.md), then [Chapter One, Part A](core_01_a_values_principles.md) (core values) and the [Rights Floor](core_06_rights_part_a.md) articles named in the guide you opened.
+
+**Thinking about using or adopting it?** Add [Using or adopting it: start here](START_HERE.md) to whichever path you choose. That page covers fit, the two ways to use the text, and the adoption kits.
+
+<a id="where-to-start"></a>
+## Quick find
+
+<details>
+<summary><strong><span style="color: #2563eb;">Jump to what you need: common questions, rights at a glance, word lookup, and more</span></strong></summary>
 
 | I want to… | Go here |
 |---|---|
-| Get oriented in 15 minutes | [Start here](START_HERE.md) |
-| Understand how the whole thing fits together | [Big-picture overview](CONCEPTUAL_OVERVIEW.md) |
+| Get oriented in 15 minutes, 45 minutes, or 2 hours | [Reading paths ↑](#reading-paths) |
+| Get help: a system has harmed me and I can't find where to turn | [*I can't find the door*](implementation/adoption/easy_entry/E15_cannot_find_the_door.md) |
+| Understand how the whole thing fits together (about 40 minutes, best after a first look) | [Big-picture overview](guides/CONCEPTUAL_OVERVIEW.md) |
 | Get quick answers ("Does this apply to me?", "Does it override the law?") | [Common questions](implementation/FAQ.md) |
 | See what it would mean for someone in my situation | [Guides for everyday situations](implementation/adoption/easy_entry/README.md) |
 | See all the rights on one page | [Rights at a glance](doc_architecture/generated/rights_floor_sheet.md) |
 | Read a plain-language version of every section | [Plain-terms edition](doc_architecture/generated/plain_terms_edition.md) |
 | Look up a word | [Word lookup](doc_architecture/generated/human_definition_lookup.md) |
-| Find out whether it fits my organization | [Where it fits](implementation/adoption/FIT_SITUATIONS.md) |
+| Use or adopt it in my organization, lab, platform, or cooperative | [Using or adopting it: start here](START_HERE.md) |
 | Print it | [Print pack](implementation/PRINT_PACK.md) |
 | Read the actual text from the beginning | [The Preamble](core_00_preamble.md) |
 
-<a id="read-in-your-language"></a>
-## Read in your language
-
-[Español](translations/es/README.md) · [हिन्दी](translations/hi/README.md) · [العربية](translations/ar/README.md) · [Bahasa Indonesia](translations/id/README.md) · [中文](translations/zh/README.md) · [Português](translations/pt/README.md) · [বাংলা](translations/bn/README.md) · [Français](translations/fr/README.md) · [اردو](translations/ur/README.md) · [Русский](translations/ru/README.md) · [日本語](translations/ja/README.md) · [Türkçe](translations/tr/README.md) · [मराठी](translations/mr/README.md) · [Tiếng Việt](translations/vi/README.md) · [فارسی](translations/fa/README.md) · [తెలుగు](translations/te/README.md) · [한국어](translations/ko/README.md) · [தமிழ்](translations/ta/README.md) · [ไทย](translations/th/README.md)
-
-These are early draft translations and do not cover every chapter yet. Where a translation and the English text differ, the English text is the one that counts. [All languages and what's available](translations/README.md).
+</details>
+<br>
 
 <a id="the-full-text"></a><a id="how-to-read"></a><a id="core-files-by-topic"></a><a id="standing-pipeline-and-forums"></a>
-## The full text
+<details>
+<summary><strong><span style="color: #2563eb;">The Constitution itself: the Preamble and Chapters 1–17</span></strong></summary>
 
-The Constitution is one document split into a Preamble and seventeen chapters. You can read it in order, or jump to the part you need.
+The Constitution is one document split into a Preamble and seventeen chapters. You can read it in order, or jump to the part you need. This is the authoritative text.
 
 | Part | What it covers |
 |---|---|
@@ -74,8 +107,7 @@ The Constitution is one document split into a Preamble and seventeen chapters. Y
 | **Chapter 17**: [Incorporation](core_17_incorporation.md) | How an adopting organization takes the text on and keeps it from quietly drifting |
 
 <a id="chapter-five-files"></a>
-<details>
-<summary><strong>All Chapter 5 files</strong></summary>
+**All Chapter 5 files:**
 
 - [Definitions home](core_05__definitions_home.md): reader guidance and the directory of terms
 - The two goals: [Flourishing](core_05_apex_flourishing_aim.md) · [Continuity](core_05_apex_continuity_aim.md)
@@ -83,41 +115,54 @@ The Constitution is one document split into a Preamble and seventeen chapters. Y
 - Supporting terms: [Participation](core_05_band_participation.md) · [Oversight](core_05_band_oversight.md) · [Accountability](core_05_band_accountability.md) · [Continuity](core_05_band_continuity.md) · [Integrative](core_05_band_integrative.md) · [Constitutional Performance](core_05_band_performance.md)
 
 </details>
+<br>
 
-<a id="is-this-in-effect"></a><a id="edition"></a>
+<a id="implementation-files"></a>
+<details>
+<summary><strong><span style="color: #2563eb;">Putting it into practice: the detailed rules for systems, organizations, and review panels</span></strong></summary>
+
+The Constitution says *what* must happen and *why*. These four collections spell out *how*. They bind only an organization that has adopted the Constitution, and they are still being developed. They cannot change what the Constitution says; if they ever disagree, the Constitution text wins.
+
+| Collection | What it covers |
+|---|---|
+| [Systems and data](corpus_systems.md) | How systems and data are classified by how much they affect others, and how they are designed, tested, run, and kept accountable, including during transitions, attacks, and breakdowns |
+| [Institutions](corpus_institutions.md) | How organizations are formed, staffed, overseen, funded, corrected, and, if necessary, dissolved |
+| [Forums](corpus_forum.md) | How review panels are formed and kept independent, how cases and appeals move through them, and how hearings keep working under stress |
+| [Joint structure](corpus_joint_structure.md) | How the other three fit together when more than one of them applies to the same situation |
+
+</details>
+<br>
+
+<a id="is-this-in-effect"></a>
 ## Is this in effect?
 
-<a id="edition-table"></a>
-| | |
-|---|---|
-| **Corpus edition** | `SC-Corpus-2026.08.09` |
-| **Effective date** | 2026-08-09 |
-| **Status** | **Pre-release.** A working draft, not yet a final published edition. Section links may still change. |
-| **License** | [CC BY 4.0](LICENSE) |
-
-**Not yet.** Here is what that means in practice:
+**Not yet.** This is a pre-release draft ([edition details ↑](#edition)). Here is what that means in practice:
 
 - **Reading it binds no one.** Opening this repository, or any page in it, is not adoption.
 - **It takes effect only by choice.** It applies to an organization only after that organization formally adopts it under [Chapter 16](core_16_amendment_ratification.md#10-ratification-and-adoption) and [Chapter 17](core_17_incorporation.md).
 - **It does not override the law.** It does not replace local, national, or international law ([Chapter 15](core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
-- **Some parts are more finished than others.** The Constitution text itself is in good shape. The detailed how-to material is still being developed.
 
 <a id="binding-vs-support"></a>
-### What counts as the Constitution
+<details>
+<summary><strong><span style="color: #2563eb;">What counts as the Constitution, and what is only help for readers</span></strong></summary>
 
 | Material | What it is | Status |
 |---|---|---|
-| **The Constitution text**: the Preamble and Chapters 1–17 (the `core_*` files) | The authoritative text | The most mature part |
-| **Implementation details**: the `corpus_*` files and folders | Step-by-step detail on *how* to carry out what the Constitution requires | Binding only inside an organization that has adopted it; still being developed |
+| **The Constitution text**: the Preamble and Chapters 1–17 (the `core_*` files; [list ↑](#the-full-text)) | The authoritative text | The most mature part |
+| **Implementation details**: the `corpus_*` files and folders ([list ↑](#implementation-files)) | Step-by-step detail on *how* to carry out what the Constitution requires | Binding only inside an organization that has adopted it; still being developed |
 | **Everything else**: this page, guides, overviews, summaries, and translations | Help for readers | Never binding, and cannot change the meaning of the Constitution |
 
 If any of these disagree, **the Constitution text wins**.
+
+</details>
+<br>
 
 ## Get involved
 
 - **Share feedback or ask a question:** [open an issue](https://github.com/kfoelsch/Sentient_Constitution/issues).
 - **Contribute:** see [How to contribute](CONTRIBUTING.md). Contributing is not the same as adopting.
-- **See where the project is heading:** read the [Vision](VISION.md).
+- **Help translate:** fluent readers can review a translation or volunteer for a language; see the [translation lane](CONTRIBUTING.md#lane-f).
+- **See where the project is heading:** read the [Vision](project/VISION.md).
 
 <a id="editors-and-operators"></a>
 ## For editors, contributors, and developers
@@ -152,7 +197,8 @@ Operative enforcement within any adopter depends on valid adoption under Chapter
 ### Editor and operator resources
 
 - Editor map, ownership, stable IDs, and definition discipline: [doc_architecture.md](doc_architecture.md)
-- Record map (record families, evidence, custody, challenge routes): [RECORD_OVERVIEW.md](RECORD_OVERVIEW.md)
+- Reader-support pages and who each is for: this README (front door for everyone) · [START_HERE.md](START_HERE.md) (would-be adopters and operators) · [CONCEPTUAL_OVERVIEW.md](guides/CONCEPTUAL_OVERVIEW.md) (big-picture map, second step) · [RECORD_OVERVIEW.md](guides/RECORD_OVERVIEW.md) (record families and traceability)
+- Record map (record families, evidence, custody, challenge routes): [RECORD_OVERVIEW.md](guides/RECORD_OVERVIEW.md)
 - Process map of certification, standing measurement, forums, and remedy: [PROCESS_PIPELINES_READER.md](implementation/PROCESS_PIPELINES_READER.md)
 - Process guides (challenge, independent review, certification, help and harm, crisis clocks): [easy_entry process guides](implementation/adoption/easy_entry/README.md#process-guides)
 - Steward entry doors: [STEWARD_ENTRY_DOORS.md](implementation/STEWARD_ENTRY_DOORS.md)

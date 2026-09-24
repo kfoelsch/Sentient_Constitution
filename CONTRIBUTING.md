@@ -2,7 +2,7 @@
 
 This page is **process / operations-guide support** — **not** binding constitutional or incorporated text. It **cannot narrow core text**. It explains how humans and AI agents can help the corpus mature, what each kind of contribution must pass, and who decides what. Contributing is not [Chapter Sixteen §10](core_16_amendment_ratification.md#10-ratification-and-adoption) adoption, and a group of contributors is not an oversight body or a forum ([Chapter One §9.5](core_01_c_stewardship_capacity_principles.md#104-aligned-self-organization)).
 
-Where the corpus is and where it is going: [VISION.md](VISION.md). The working backlog: [implementation/PRE_PUBLICATION_SPEC.md](implementation/PRE_PUBLICATION_SPEC.md).
+Where the corpus is and where it is going: [VISION.md](project/VISION.md). The working backlog: [implementation/PRE_PUBLICATION_SPEC.md](implementation/PRE_PUBLICATION_SPEC.md).
 
 <a id="who"></a>
 ## 1. Who may contribute
@@ -15,7 +15,7 @@ Where the corpus is and where it is going: [VISION.md](VISION.md). The working b
 <a id="before"></a>
 ## 2. Before you start
 
-1. Read [START_HERE.md](START_HERE.md) and [README.md](README.md). Know the difference between binding core (`core_*`), binding incorporated implementation (`corpus_*`), and process support (everything else).
+1. Read [README.md](README.md) (the public door) and [START_HERE.md](START_HERE.md) (the adopter start page). Know the difference between binding core (`core_*`), binding incorporated implementation (`corpus_*`), and process support (everything else).
 2. Skim [doc_architecture.md](doc_architecture.md) §1–§4: owner table, boundary rules, definitions protocol, and the [vocabulary guardrails](doc_architecture.md#plain-language-vocabulary-guardrails).
 3. Learn the lookup tool so you cite real homes, not guesses:
 
@@ -36,7 +36,7 @@ Where the corpus is and where it is going: [VISION.md](VISION.md). The working b
 <a id="lanes"></a>
 ## 3. Contribution lanes
 
-Pick one lane per pull request. Each lane has an entry point, a bar, a gate, a place where the output lands, and a hand-off row naming the work that belongs to a neighboring lane.
+Pick one lane per pull request. Lanes A–E cover the English corpus and its tools; Lane F covers translations. Each lane has an entry point, a bar, a gate, a place where the output lands, and a hand-off row naming the work that belongs to a neighboring lane.
 
 <a id="lane-a"></a>
 ### Lane A — Findings
@@ -72,7 +72,7 @@ A results file is not a Chapter Nine standing record and does not make you an ad
 <a id="lane-c"></a>
 ### Lane C — Adopted implementation maturation
 
-*Take an adopted implementation file (CS, CI, CF, CJS) or a named stack (Remedy, Emergency / continuity) up the [maturity ladder](VISION.md#what-mature-means) without changing what the core requires.*
+*Take an adopted implementation file (CS, CI, CF, CJS) or a named stack (Remedy, Emergency / continuity) up the [maturity ladder](project/VISION.md#what-mature-means) without changing what the core requires.*
 
 | | |
 |---|---|
@@ -109,6 +109,27 @@ Core proposals that read as taste ("I would have phrased this differently") will
 | **Gate** | `make regression` green; the new test passes; `make ai-manifest-validate` passes if the lookup layer changed |
 | **Lands in** | `tools/`, `Makefile`, the reference-checking catalog, and regenerated derived artifacts committed in the same pull request |
 | **Not this lane** | A defect in corpus text that a tool surfaced → Lane A. Changing the rule a gate enforces, rather than the check → Lane C or Lane D, by the layer the rule lives in. A tool change bundled with the prose fix it enables → split into two pull requests ([rule 8](#rules)) |
+
+<a id="lane-f"></a>
+### Lane F — Translations
+
+*Help people read the Constitution in their own language. Fluent readers are the scarcest thing this lane needs.*
+
+**Current status.** Full translation and resync work is **paused** while the English edit pass continues, so translators are not chasing a moving target ([TODO.md](project/TODO.md)). Existing translations may be out of date with the English until then. Review, glossary work, and volunteering for a language are open now; new or resynced translation files wait for the restart, which will be noted in [TODO.md](project/TODO.md) and [translations/README.md](translations/README.md).
+
+**Open now.** Read an existing translation and report what is wrong or unclear; suggest glossary terms for your language; volunteer to look after a language (translate at restart, or review someone else's draft).
+
+| | |
+|---|---|
+| **Entry** | Open a **Translation** issue naming the language and what you want to do (review, glossary, volunteer, or, after the restart, translate a named file). Wait for the custodian to confirm nobody else holds that file in that language |
+| **Order** | Follow the [shipping order and first slice](doc_architecture.md#reader-language-editions): Spanish, Hindi, Arabic (MSA), Indonesian, then Mandarin; within any language, the reader-facing first slice (this README, the [FAQ](implementation/FAQ.md), the [easy-entry guides](implementation/adoption/easy_entry/README.md), and the [Rights at a glance](doc_architecture/generated/rights_floor_sheet.md) sheet) comes before more numbered chapters. A new language or a change to that order is a Proposal issue, not a pull request |
+| **Bar** | Translate from the **current English source**, and say which commit or edition you worked from. Translate; do not summarize, soften, or "improve" — meaning stays exactly as in English. Use the language's glossary in `translations/<locale>/README.md` and add to it rather than rendering a defined term two ways. Keep the English HTML `id`s and add English heading-slug `id`s so links still work. Keep the non-binding reader-guidance widget and the edition pin. Name the language variety in the locale note (for example, Brazilian Portuguese, Modern Standard Arabic). Say whether the draft was written by a person or drafted by an AI and checked by a person, and name the model ([rule 10](#rules)) |
+| **Review** | A translation is labeled **reviewed** only after a fluent reader who did not write it has checked it against the English and says so in the pull request. Until then it stays a draft |
+| **Gate** | Links in the touched files resolve (`make local-markdown-fragment-audit`); `make regression` shows no new failures; the pull request touches only `translations/<locale>/` plus the matching row in [translations/README.md](translations/README.md) |
+| **Lands in** | `translations/<locale>/`; the file table and glossary in that locale's `README.md`; [translations/README.md](translations/README.md) for a new language |
+| **Not this lane** | An error or unclear passage in the **English** text → Lane A (the English wins, so fix it there first). Choosing which languages ship, or in what order → a Proposal issue to the custodian. A tool to check or sync translations → Lane E |
+
+A translation is help for readers, never a second constitution. Where a translation and the English text differ, the English text counts.
 
 <a id="rules"></a>
 ## 4. Rules of the road
@@ -163,7 +184,7 @@ flowchart LR
 
 **Honesty about capacity.** This is a one-custodian project for now, and review is best-effort. Lane A and B pull requests are fastest to land. Lane D proposals may sit for weeks. Open the issue first so the wait is visible rather than surprising.
 
-**Where this is going.** One custodian is the starting point, not the design. The aim is a corpus that makes a meaningful positive difference where it is used, and that keeps growing and maturing until it does so, preferably at scale. That is not something one person can carry ([VISION.md](VISION.md#what-mature-means)), so the author intends to delegate as contributors step up: review of a lane, ownership of an audit, custody of an adopted implementation slice, and in time a share of the merge decision itself. Delegation follows the [roles ladder](#roles), is recorded in writing when it happens, and is delegation of *repository* custody only; custody of any adopted edition is settled by the adopting body under [Chapter Seventeen §2](core_17_incorporation.md#2-custody-editions-and-operative-effect), not by this page.
+**Where this is going.** One custodian is the starting point, not the design. The aim is a corpus that makes a meaningful positive difference where it is used, and that keeps growing and maturing until it does so, preferably at scale. That is not something one person can carry ([VISION.md](project/VISION.md#what-mature-means)), so the author intends to delegate as contributors step up: review of a lane, ownership of an audit, custody of an adopted implementation slice, and in time a share of the merge decision itself. Delegation follows the [roles ladder](#roles), is recorded in writing when it happens, and is delegation of *repository* custody only; custody of any adopted edition is settled by the adopting body under [Chapter Seventeen §2](core_17_incorporation.md#2-custody-editions-and-operative-effect), not by this page.
 
 <a id="roles"></a>
 ## 6. Roles
@@ -175,6 +196,8 @@ Roles are descriptive, not titles, and none of them is a standing record or a na
 | **Reader** | Use the corpus; ask questions in issues | Nothing — start here |
 | **Reporter** | File Lane A findings | A first finding that cites file and section |
 | **Evaluator** | File Lane B results; bring human operators to sit the costly cases | Following a sitting's rules completely; not reading operator-only files while a subject |
+| **Translator** | Translate or resync files in one language under Lane F | Fluency in the language; a first review or glossary contribution for that language |
+| **Translation reviewer** | Check someone else's translation against the English and mark it reviewed | Fluency in the language and good English reading; not the translator of the file being reviewed |
 | **Adopted-implementation editor** | Hold a Lane C slice from proposal to merge | Two or more merged regression-green pull requests; comfort with owner routing and the guardrails |
 | **Core proposer** | Open and carry Lane D proposals | A record of Lane C work, or a finding that exposed a real core conflict or Rights-Floor gap |
 | **Tool maintainer** | Own one or more audits in `tools/`; respond to gate failures | Lane E contributions with tests; understanding of the rule registry |
@@ -193,4 +216,4 @@ Moving between roles happens by doing the work in the row above and being asked,
 
 ---
 
-**Related:** [VISION.md](VISION.md) · [START_HERE.md](START_HERE.md) · [README.md](README.md) · [doc_architecture.md](doc_architecture.md) · [implementation/PRE_PUBLICATION_SPEC.md](implementation/PRE_PUBLICATION_SPEC.md) · [implementation/AUTOMATED_REFERENCE_CHECKING.md](implementation/AUTOMATED_REFERENCE_CHECKING.md)
+**Related:** [VISION.md](project/VISION.md) · [README.md](README.md) · [START_HERE.md](START_HERE.md) · [translations/README.md](translations/README.md) · [doc_architecture.md](doc_architecture.md) · [implementation/PRE_PUBLICATION_SPEC.md](implementation/PRE_PUBLICATION_SPEC.md) · [implementation/AUTOMATED_REFERENCE_CHECKING.md](implementation/AUTOMATED_REFERENCE_CHECKING.md)

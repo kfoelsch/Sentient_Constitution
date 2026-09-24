@@ -58,5 +58,5 @@ See: [Article XX](../../../core_06_rights_part_c.md#article-xx-comprehensibility
 ## If you want to look further
 
 - Sibling guides: [`README.md`](README.md#process-guides)
-- Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
+- Public door: [`../../../README.md`](../../../README.md)
 - Kit for naming real independent review: [`../FORUM_FOUNDATION_KIT.md`](../FORUM_FOUNDATION_KIT.md)

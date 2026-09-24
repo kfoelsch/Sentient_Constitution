@@ -175,7 +175,7 @@ Material transition decisions, delays, reversals, and gate outcomes must be **lo
 |----|------|---------|
 | **RS-T7-001** | Continuity | Gate blocking, rights-floor continuity, off-ramp/re-baselining — hooks: Article XXVI; **CS-10** §§1–10 |
 
-Source narrative and pass/fail conditions: [CONSTITUTIONAL_REGRESSION_SCENARIOS.md](../CONSTITUTIONAL_REGRESSION_SCENARIOS.md) — scenario **RS-T7-001**.
+Source narrative and pass/fail conditions: [CONSTITUTIONAL_REGRESSION_SCENARIOS.md](../project/CONSTITUTIONAL_REGRESSION_SCENARIOS.md) — scenario **RS-T7-001**.
 
 **When to re-run:** Before advancing any phase gate; after material baseline change; after interim authority extension.
 
@@ -188,11 +188,11 @@ Source narrative and pass/fail conditions: [CONSTITUTIONAL_REGRESSION_SCENARIOS.
 | Partition / federation split risk | **RS-DECP-*** |
 | Capture / concentration | **RS-T8-001**, **RS-CAP-**\* |
 
-Authoritative list and status: [CONSTITUTIONAL_REGRESSION_SCENARIOS.md](../CONSTITUTIONAL_REGRESSION_SCENARIOS.md).
+Authoritative list and status: [CONSTITUTIONAL_REGRESSION_SCENARIOS.md](../project/CONSTITUTIONAL_REGRESSION_SCENARIOS.md).
 
 ### 12.3 Fillable worksheets (from RS-T7-001 required artifacts)
 
-Derived from **RS-T7-001** — *Required Evidence / Artifacts* in [CONSTITUTIONAL_REGRESSION_SCENARIOS.md](../CONSTITUTIONAL_REGRESSION_SCENARIOS.md). Use per gate review; store completed copies under [evidence/](../evidence/) or adopter-controlled evidence stores.
+Derived from **RS-T7-001** — *Required Evidence / Artifacts* in [CONSTITUTIONAL_REGRESSION_SCENARIOS.md](../project/CONSTITUTIONAL_REGRESSION_SCENARIOS.md). Use per gate review; store completed copies under [evidence/](../evidence/) or adopter-controlled evidence stores.
 
 #### Worksheet A — Gate assessment checklist and deficiency log
 

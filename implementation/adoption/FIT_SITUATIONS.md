@@ -234,7 +234,8 @@ Filling any row is not adoption. Opening this folder is not adoption.
 |---|---|
 | [`README.md`](README.md) | This folder’s door — process path toward an instrument, not the instrument |
 | [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md) | Size *N* × Class *X*: required vs optional bodies, order, order-of-magnitude staff and funding. Not a partial-adoption ladder |
-| [`../../START_HERE.md`](../../START_HERE.md) | Public human front door |
+| [`../../README.md`](../../README.md) | Public front door for all readers |
+| [`../../START_HERE.md`](../../START_HERE.md) | Start page for would-be adopters and operators; summarizes this map |
 | [`ANNOUNCEMENT.md`](ANNOUNCEMENT.md) | Discovery / announcement copy. Not a founding kit. Does not drop **pre-release** |
 | [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) | Two-party sitting, §10.2 fill-in, scope honesty, dispute bootstrap, non-adoption banner |
 | [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md) | *n*-party sitting, handoff gates, labeled-not-live §10.3 template |

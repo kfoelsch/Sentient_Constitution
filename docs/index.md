@@ -1,83 +1,47 @@
 ---
 title: Sentient Constitution
-description: Pre-release model constitution for systems that materially affect sentients. Core files are in much better shape; operational text outside them is not yet mature. Opening this page is not adoption.
+description: Pre-release model constitution for systems that shape our lives, whether run by humans, by AI, or by both. Opening this page is not adoption.
 ---
 
 # Sentient Constitution
 
-This GitHub Pages site is a **pointer**, not a second constitution. Canonical public door (same words, relative links into the corpus): **[START_HERE.md](../START_HERE.md)**. If this file and that file diverge, **`START_HERE.md` wins**.
+**A model constitution for systems that shape our lives, whether they are run by humans, by AI, or by both.**
 
-This page is **process / operations-guide support**. Opening it is not [Chapter Sixteen §10](../core_16_amendment_ratification.md#10-ratification-and-adoption) adoption.
+This GitHub Pages site is a **pointer**, not a second constitution. The front door for all readers is the **[README](https://github.com/kfoelsch/Sentient_Constitution/blob/main/README.md)**. If this page and the README differ, **the README wins**. Opening this page is not adoption under [Chapter Sixteen §10](https://github.com/kfoelsch/Sentient_Constitution/blob/main/core_16_amendment_ratification.md#10-ratification-and-adoption).
 
-## What it is
+**Pre-release:** edition `SC-Corpus-2026.08.09` (effective 2026-08-09). Not yet a final published edition. License: [CC BY 4.0](https://github.com/kfoelsch/Sentient_Constitution/blob/main/LICENSE).
 
-This Sentient Constitution is a **model constitution**. In its own terms, it speaks to systems that materially affect sentients. It becomes **enforceable** for a particular body only after valid adoption under Chapter Sixteen and [Chapter Seventeen §4](../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority). Until then it may guide, inform, or serve as a reference. It does not supersede local, national, or international law ([Chapter Fifteen §5](../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
+## Where to start
 
-## Pre-release status
-
-**Edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09). **Pre-release.** Not a publication cut. License: [CC BY 4.0](../LICENSE).
-
-## Core vs operational text
-
-- Numbered `core_*` files (the Preamble and Chapters One through Seventeen) are the binding constitutional source and are in **much better shape**.
-- Operational text outside those files — adopted implementation (`corpus_systems`, `corpus_institutions`, `corpus_forum`, `corpus_joint_structure`) and process-support pages (steward doors, adoption kits) — is **not yet mature**.
-- If an operational file and a numbered `core_*` file disagree, the `core_*` file wins.
-- Adopted implementation files spell out how to carry out what the core already requires; they may not change what those terms mean, shrink those duties, or invent a second set of rights.
-- Do not treat operational files as a finished operator manual.
-
-## Fit tests
-
-The table lives in the repository: [FIT_SITUATIONS.md §1](../implementation/adoption/FIT_SITUATIONS.md#1-fit-tests). Do not rewrite it here.
-
-## Ranked situations
-
-Full ranking, including AI institution building at the top: [FIT_SITUATIONS.md §4](../implementation/adoption/FIT_SITUATIONS.md#4-ranked-situations). A sketch is not adoption.
-
-## Two modes
-
-Operations-guide use is the near-term invite. “We adopted” is honest only after a qualifying body records a Chapter Sixteen instrument in **its** custody. [FIT_SITUATIONS.md §2](../implementation/adoption/FIT_SITUATIONS.md#2-two-modes).
-
-## Start here (doors)
-
-1. What this would mean for someone in my situation — [easy_entry/README.md](https://github.com/kfoelsch/Sentient_Constitution/blob/main/implementation/adoption/easy_entry/README.md)
-2. Challenge, independent review, certification, help and harm, or crisis clocks — [Process guides G01–G05](https://github.com/kfoelsch/Sentient_Constitution/blob/main/implementation/adoption/easy_entry/README.md#process-guides)
-3. Everyday questions — [FAQ.md](https://github.com/kfoelsch/Sentient_Constitution/blob/main/implementation/FAQ.md)
-4. Rights Floor in one sitting — [Rights Floor wall sheet](https://github.com/kfoelsch/Sentient_Constitution/blob/main/doc_architecture/generated/rights_floor_sheet.md)
-5. Print a first-hour pack — [PRINT_PACK.md](https://github.com/kfoelsch/Sentient_Constitution/blob/main/implementation/PRINT_PACK.md)
-6. Numbered core files (GitHub render) — [corpus_index.md](corpus_index.md)
-7. Day-to-day next step — [STEWARD_ENTRY_DOORS.md](https://github.com/kfoelsch/Sentient_Constitution/blob/main/implementation/STEWARD_ENTRY_DOORS.md)
-8. Fitness screen plus own-conduct — [evaluation/self_application/START_HERE.md](https://github.com/kfoelsch/Sentient_Constitution/blob/main/evaluation/self_application/START_HERE.md)
-9. Kit routing — [FIT_SITUATIONS.md §6](https://github.com/kfoelsch/Sentient_Constitution/blob/main/implementation/adoption/FIT_SITUATIONS.md#6-kit-routing)
-
-Timed reading paths (15 minutes / 45 minutes / 2 hours): [START_HERE.md §6](https://github.com/kfoelsch/Sentient_Constitution/blob/main/START_HERE.md#reading-paths). Canonical door wins if this page and that file diverge.
+| I want to… | Go here |
+|---|---|
+| Find what I need, whoever I am | [README: Quick find](https://github.com/kfoelsch/Sentient_Constitution/blob/main/README.md#quick-find) |
+| Get oriented in 15 minutes, 45 minutes, or 2 hours | [Reading paths](https://github.com/kfoelsch/Sentient_Constitution/blob/main/README.md#reading-paths) |
+| Get help: a system has harmed me and I can't find where to turn | [*I can't find the door*](https://github.com/kfoelsch/Sentient_Constitution/blob/main/implementation/adoption/easy_entry/E15_cannot_find_the_door.md) |
+| Get quick answers | [Common questions](https://github.com/kfoelsch/Sentient_Constitution/blob/main/implementation/FAQ.md) |
+| Understand how the whole thing fits together (about 40 minutes) | [Big-picture overview](https://github.com/kfoelsch/Sentient_Constitution/blob/main/guides/CONCEPTUAL_OVERVIEW.md) |
+| Use or adopt it in my organization, lab, platform, or cooperative | [Using or adopting it: start here](https://github.com/kfoelsch/Sentient_Constitution/blob/main/START_HERE.md) |
+| Read the numbered chapters | [Core file index](corpus_index.md) |
 
 ## Read the corpus where GitHub renders it
 
-Until Pages source is **GitHub Actions** (workflow [`.github/workflows/pages.yml`](https://github.com/kfoelsch/Sentient_Constitution/blob/main/.github/workflows/pages.yml)), this `/docs` host does **not** republish numbered `core_*` files. Relative `../` links from here 404. Open the same paths in the repository, where markdown renders:
+Until Pages source is **GitHub Actions** (workflow [`.github/workflows/pages.yml`](https://github.com/kfoelsch/Sentient_Constitution/blob/main/.github/workflows/pages.yml)), this `/docs` host does **not** republish numbered `core_*` files, so relative `../` links from here 404. Open the same paths in the repository, where markdown renders:
 
 - Numbered core files (blob index): [corpus_index.md](corpus_index.md)
-- Canonical public door: [START_HERE.md](https://github.com/kfoelsch/Sentient_Constitution/blob/main/START_HERE.md)
+- Public door: [README.md](https://github.com/kfoelsch/Sentient_Constitution/blob/main/README.md)
 - Repository root: [kfoelsch/Sentient_Constitution](https://github.com/kfoelsch/Sentient_Constitution)
 
 After that switch, `make pages-site` / the workflow renders the **same** repository files (not a second constitution). If a rendered page and the repository file disagree, the repository file wins.
 
-
-## Honest non-fits
-
-Same list as [FIT_SITUATIONS.md §5](../implementation/adoption/FIT_SITUATIONS.md#5-honest-non-fits). Not drop-in national law. Not a claim that this Constitution supersedes applicable law. Not “we follow it” marketing. Not a markdown working group calling itself oversight. Not binding systems the crew does not control.
-
-## Canonical repo, edition, license
+## Edition, license, authorship
 
 | | |
 |---|---|
-| **Canonical public door** | [START_HERE.md](../START_HERE.md) |
-| **Editor map** | [README.md](../README.md) |
-| **Vision and contribution** | [VISION.md](../VISION.md) (where it stands; path to maturity) · [CONTRIBUTING.md](../CONTRIBUTING.md) (how to take part; not adoption) |
-| **Agent pointer** | [AGENTS.md](../AGENTS.md) · [llms.txt](../llms.txt) (edition, not-adoption, CLI; not a digest of duties) |
-| **Announcement copy** | [ANNOUNCEMENT.md](../implementation/adoption/ANNOUNCEMENT.md) |
+| **Public door** | [README.md](https://github.com/kfoelsch/Sentient_Constitution/blob/main/README.md) |
+| **Using or adopting it** | [START_HERE.md](https://github.com/kfoelsch/Sentient_Constitution/blob/main/START_HERE.md) |
+| **Editor map** | [doc_architecture.md](https://github.com/kfoelsch/Sentient_Constitution/blob/main/doc_architecture.md) |
+| **Vision and contribution** | [VISION.md](https://github.com/kfoelsch/Sentient_Constitution/blob/main/project/VISION.md) · [CONTRIBUTING.md](https://github.com/kfoelsch/Sentient_Constitution/blob/main/CONTRIBUTING.md) (taking part is not adoption) |
+| **Agent pointer** | [AGENTS.md](https://github.com/kfoelsch/Sentient_Constitution/blob/main/AGENTS.md) · [llms.txt](https://github.com/kfoelsch/Sentient_Constitution/blob/main/llms.txt) |
 | **Edition** | `SC-Corpus-2026.08.09` (**pre-release**) |
-| **License** | [CC BY 4.0](../LICENSE) |
-| **Authorship** | Karl Ernst, with Claude (Fable and Opus), ChatGPT, Cursor, Gemini, Grok, and Kimi — [README § Authorship](../README.md#authorship) |
-| **Related work (non-binding context)** | [The Steward Network](https://stewardnetwork.org) (existential risk to humanity and AI) and [Rocking Change](https://www.amazon.com/dp/B09HH9T3PZ) (trauma-informed human wellbeing; book, print and electronic) — [README § Related work](../README.md#related-work) |
-
-If a relative link 404s on this `/docs` host, use the GitHub links above. Corpus files are not copied into `docs/`.
+| **License** | [CC BY 4.0](https://github.com/kfoelsch/Sentient_Constitution/blob/main/LICENSE) |
+| **Authorship** | Karl Ernst, with Claude (Fable and Opus), ChatGPT, Cursor, Gemini, Grok, and Kimi — [README § Authorship](https://github.com/kfoelsch/Sentient_Constitution/blob/main/README.md#authorship) |

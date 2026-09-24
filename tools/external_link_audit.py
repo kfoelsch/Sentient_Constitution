@@ -19,7 +19,7 @@ Two scopes, two standards:
   ``localhost`` URLs resolve for one machine only. They almost always arrive by
   copying a rendered preview URL out of an editor.
 
-Dated records (``evidence/``, ``evaluation/``, ``MEMLOG.md``, ``TODO.md``),
+Dated records (``evidence/``, ``evaluation/``, ``project/MEMLOG.md``, ``project/TODO.md``),
 generated trees, ``archive/``, and ``translations/`` stay out of the blocking
 scope: they record what was true when written. ``--report`` inventories those
 and every allowed external citation without failing.
@@ -57,7 +57,7 @@ EXCLUDED_PREFIXES = (
     "doc_architecture/generated/",
     "nimbalyst-local/",
 )
-EXCLUDED_FILES = ("MEMLOG.md", "TODO.md")
+EXCLUDED_FILES = ("project/MEMLOG.md", "project/TODO.md")
 
 INLINE_LINK_RE = re.compile(
     r"!?\[[^\]\n]*\]\(\s*(?P<target><[^>\n]+>|[^)\s]+)"

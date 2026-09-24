@@ -58,5 +58,5 @@ See: [Emergency](../../STEWARD_ENTRY_DOORS.md#emergency).
 ## If you want to look further
 
 - Sibling guides: [`README.md`](README.md#process-guides)
-- Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
+- Public door: [`../../../README.md`](../../../README.md)
 - Chain map: [`../../PROCESS_PIPELINES_READER.md`](../../PROCESS_PIPELINES_READER.md)

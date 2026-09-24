@@ -27,7 +27,7 @@
 >
 > **References:** [Chapter Nine §2](core_09_standing_assessment.md#2-question-1--what-happened) (Question 1); [Chapter Nine §4](core_09_standing_assessment.md#4-standing-measurement-evaluation-dimensions), [§4.6](core_09_standing_assessment.md#46-question-2-measurement-illustrations), and the [§7 unified proportional LEQU scale](core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (Question 2: shared five-times LEQU bands, separate Contribution and Violation records, and Violation slots controlled only by verified impact); [Chapter Ten §6.2](core_10_standing_integration.md#62-competency-bars-and-clearances) and [§4.2](core_10_standing_integration.md#42-prevention--general-standing-locks) (Question 3); [Chapter Ten §10](core_10_standing_integration.md#10-pattern-applications-and-question-3-routing) (*in-chapter Question 3 pattern-routing index*); [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (forum routing and supervision).
 >
-> Regression hooks: `RS-XXIV-C-CHILD-001`, `RS-XXIV-C-DISC-001`, `RS-XXIV-C-BIZ-001`, `RS-XXIV-C-DELAY-001` in [CONSTITUTIONAL_REGRESSION_SCENARIOS.md](CONSTITUTIONAL_REGRESSION_SCENARIOS.md).
+> Regression hooks: `RS-XXIV-C-CHILD-001`, `RS-XXIV-C-DISC-001`, `RS-XXIV-C-BIZ-001`, `RS-XXIV-C-DELAY-001` in [CONSTITUTIONAL_REGRESSION_SCENARIOS.md](project/CONSTITUTIONAL_REGRESSION_SCENARIOS.md).
 
 </details>
 

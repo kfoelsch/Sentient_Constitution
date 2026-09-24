@@ -88,7 +88,7 @@ See: [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-e
 
 ## If you want to look further
 
-- Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
+- Public door: [`../../../README.md`](../../../README.md)
 - Day-to-day next step: [`../../STEWARD_ENTRY_DOORS.md`](../../STEWARD_ENTRY_DOORS.md)
 - Sibling briefs: [`README.md`](README.md) — [E08](E08_small_business_owner.md); [E07](E07_synthetic_sentient.md) if an AI operator is in the crew; [E16](E16_worker_not_owner.md) if you work there and do not own the shop
 - Fit map: [`../FIT_SITUATIONS.md`](../FIT_SITUATIONS.md)

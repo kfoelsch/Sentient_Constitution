@@ -716,7 +716,7 @@ flowchart TB
     style X fill:none,stroke:#64748b,color:#ffffff
 ```
 
-*Definitions give precision to Chapter One's principles and Chapter Six's rights; Chapters Two through Four govern the structure, integrity, and verification of those definitions. Neither layer competes with Chapter One — precision and testability serve the principles, they do not substitute for them. Reproduced from the [Conceptual Overview](CONCEPTUAL_OVERVIEW.md#principles-articles-and-definitions).*
+*Definitions give precision to Chapter One's principles and Chapter Six's rights; Chapters Two through Four govern the structure, integrity, and verification of those definitions. Neither layer competes with Chapter One — precision and testability serve the principles, they do not substitute for them. Reproduced from the [Conceptual Overview](guides/CONCEPTUAL_OVERVIEW.md#principles-articles-and-definitions).*
 
 No interpretation of Chapter One is valid outside the definitions and evaluation constraints established in **Chapters Two through Five**. Every application must also preserve and apply:
 - **proportionality**, **necessity**, and **systemic evaluation**

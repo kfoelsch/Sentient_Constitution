@@ -460,8 +460,8 @@ def scan_avoid_bare_drift(rel_path: str, text: str) -> list[Finding]:
     """Reject bare **drift** for stewardship/governance/alignment sense; prefer misalignment."""
     if rel_path in {
         "doc_architecture.md",
-        "TODO.md",
-        "CONSTITUTIONAL_REGRESSION_SCENARIOS.md",
+        "project/TODO.md",
+        "project/CONSTITUTIONAL_REGRESSION_SCENARIOS.md",
     }:
         return []
     if rel_path.startswith("archive/") or rel_path.startswith("implementation/"):
@@ -509,7 +509,7 @@ def _pathway_preceding_word(check_line: str, start: int) -> str:
 
 def scan_avoid_bare_pathway(rel_path: str, text: str) -> list[Finding]:
     """Reject bare **pathway** / **pathways**: every use must say which kind of pathway it is."""
-    if rel_path in {"doc_architecture.md", "TODO.md", "MEMLOG.md"}:
+    if rel_path in {"doc_architecture.md", "project/TODO.md", "project/MEMLOG.md"}:
         return []
     if rel_path.startswith("archive/"):
         return []

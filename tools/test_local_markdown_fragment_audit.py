@@ -66,6 +66,7 @@ class LocalMarkdownFragmentAuditTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)
             for name in READER_ENTRY_DOCS:
+                (root / name).parent.mkdir(parents=True, exist_ok=True)
                 (root / name).write_text("# doc\n", encoding="utf-8")
             paths = source_files(root)
             for name in READER_ENTRY_DOCS:

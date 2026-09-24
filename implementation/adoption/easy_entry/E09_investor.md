@@ -93,6 +93,6 @@ See: [CI-9.4](../../../corpus_institutions/ci_09_classification_linked_instituti
 
 ## If you want to look further
 
-- Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
+- Public door: [`../../../README.md`](../../../README.md)
 - Sibling briefs: [`README.md`](README.md) — [E08](E08_small_business_owner.md); [E10](E10_system_operator.md)
 - Fit map: [`../FIT_SITUATIONS.md`](../FIT_SITUATIONS.md) — especially high-impact operators and institution building

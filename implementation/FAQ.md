@@ -41,7 +41,7 @@ See: [G01 — Challenge, review, and being made whole](adoption/easy_entry/G01_c
 
 Numbered `core_*` files are the binding source. Companions spell out how to carry out what those files already require; they may not shrink those duties. Maps and briefs point; they are not a second constitution.
 
-See: [START_HERE.md — Core vs operational text](../START_HERE.md#core-vs-operational); [Preamble §9 Adopted Implementation Corpus](../core_00_preamble.md#9-adopted-implementation-corpus).
+See: [README — What counts as the Constitution](../README.md#binding-vs-support); [Preamble §9 Adopted Implementation Corpus](../core_00_preamble.md#9-adopted-implementation-corpus).
 
 ### 7. Is an AI held to a different rule than a human?
 
@@ -69,7 +69,8 @@ See: [G05 — Crisis vs forever](adoption/easy_entry/G05_crisis_vs_forever.md); 
 
 ## If you want to look further
 
-- Public door: [`../START_HERE.md`](../START_HERE.md)
-- Timed reading paths: [`../START_HERE.md#reading-paths`](../START_HERE.md#reading-paths)
+- Public door: [`../README.md`](../README.md)
+- Timed reading paths: [`../README.md#reading-paths`](../README.md#reading-paths)
+- Using or adopting it: [`../START_HERE.md`](../START_HERE.md)
 - Process guides: [`adoption/easy_entry/README.md#process-guides`](adoption/easy_entry/README.md#process-guides)
 - Human definition lookup: [`../doc_architecture/generated/human_definition_lookup.md`](../doc_architecture/generated/human_definition_lookup.md)

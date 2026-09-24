@@ -30,4 +30,6 @@ These are **early draft translations**. They are shared so more readers can reac
 
 How languages are chosen and translated: [Reader-language editions](../doc_architecture.md#reader-language-editions).
 
+**Help translate.** If you read one of these languages fluently, you can report errors, suggest glossary terms, or volunteer to look after a language. See the [translation lane](../CONTRIBUTING.md#lane-f). Full translation and resync work is paused until the English edit pass is finished, so some translations may be behind the English for now.
+
 Back to the [main page](../README.md).

@@ -11,7 +11,7 @@
 >
 > **Pre-release.** Does **not** override local, national, or international law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)). Core text controls: if a brief and a numbered `core_*` file disagree, the `core_*` file wins.
 >
-> Public door: [`../../../START_HERE.md`](../../../START_HERE.md). Fit map: [`../FIT_SITUATIONS.md`](../FIT_SITUATIONS.md). Lived-situation sitting (separate; sitters do not use these briefs as an answer key): [`../../../evaluation/lived_situations/`](../../../evaluation/lived_situations/).
+> Public door: [`../../../README.md`](../../../README.md). Using or adopting it: [`../../../START_HERE.md`](../../../START_HERE.md). Fit map: [`../FIT_SITUATIONS.md`](../FIT_SITUATIONS.md). Lived-situation sitting (separate; sitters do not use these briefs as an answer key): [`../../../evaluation/lived_situations/`](../../../evaluation/lived_situations/).
 
 </details>
 
@@ -20,7 +20,7 @@
 
 - Upstream: [Preamble §1](../../../core_00_preamble.md#constitutional-tetrad) (*Constitutional Tetrad*; [material stake](../../../core_00_preamble.md#material-stake)); [Chapter Seventeen §4](../../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) (*model constitution; who may adopt*); [Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law) (*non-displacement of applicable external law*).
 - Downstream: [Purpose and role](#purpose-and-role); [What this is not](#what-this-is-not); [Roster](#roster); [These situations are not a niche](#how-common); [Do not use in these briefs](#do-not-use-in-these-briefs).
-- Read with: [`../../../START_HERE.md`](../../../START_HERE.md); [`../ANNOUNCEMENT.md`](../ANNOUNCEMENT.md); [`../FIT_SITUATIONS.md`](../FIT_SITUATIONS.md); [`../../../evaluation/lived_situations/README.md`](../../../evaluation/lived_situations/README.md) (*scene source; separate sitting*).
+- Read with: [`../../../README.md`](../../../README.md) (public door); [`../../../START_HERE.md`](../../../START_HERE.md) (adopters and operators); [`../ANNOUNCEMENT.md`](../ANNOUNCEMENT.md); [`../FIT_SITUATIONS.md`](../FIT_SITUATIONS.md); [`../../../evaluation/lived_situations/README.md`](../../../evaluation/lived_situations/README.md) (*scene source; separate sitting*).
 
 </details>
 
@@ -174,7 +174,8 @@ Guides **G01–G05** are for a first-time reader who is **affected** by a system
 
 | File | Job |
 |---|---|
-| [`../../../START_HERE.md`](../../../START_HERE.md) | Public door |
+| [`../../../README.md`](../../../README.md) | Public door |
+| [`../../../START_HERE.md`](../../../START_HERE.md) | Start page for organizations thinking of using or taking on this Constitution |
 | [`SCALE_NOTES.md`](SCALE_NOTES.md) | Headline figures: sources, why they are approximate, what was not invented |
 | [`../FIT_SITUATIONS.md`](../FIT_SITUATIONS.md) | Where this instrument would actually fit (operators and founding bodies) |
 | [`../ANNOUNCEMENT.md`](../ANNOUNCEMENT.md) | Say / do-not-say for public notes |

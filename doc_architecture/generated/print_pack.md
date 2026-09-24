@@ -797,7 +797,7 @@ See: [Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#10
 
 ## If you want to look further
 
-- Public door: [`../../../START_HERE.md`](../../START_HERE.md)
+- Public door: [`../../../README.md`](../../README.md)
 - Sibling briefs: [`README.md`](../../implementation/adoption/easy_entry/README.md) — [E08](../../implementation/adoption/easy_entry/E08_small_business_owner.md) if you run the shop; [E10](../../implementation/adoption/easy_entry/E10_system_operator.md) if you deploy a system others depend on; [E12](../../implementation/adoption/easy_entry/E12_informal_livelihood.md) if public protections are thin and a new app is the gate
 - Operators only (not an answer key): lived packet [`../../../evaluation/lived_situations/packets/S07_worker_not_owner.md`](../../evaluation/lived_situations/packets/S07_worker_not_owner.md)
 

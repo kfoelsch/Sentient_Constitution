@@ -3,7 +3,7 @@
 This file is a **pointer**. It is not the Constitution. It cannot narrow numbered `core_*` files.
 
 - **Edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09). **Pre-release.** Not adoption.
-- **Public door:** [START_HERE.md](START_HERE.md)
+- **Public door:** [README.md](README.md). Adopters and operators: [START_HERE.md](START_HERE.md).
 - **Indexes point. Source binds.** Do not open `ai_corpus/indexes/id_resolver.json` for meaning. Do not treat a locator, gloss, or steward card as a duty.
 
 Lookup (from repo root):

@@ -88,5 +88,5 @@ See: [Article II-B](../../../core_06_rights_part_a.md#article-ii-b-repair-mainte
 
 ## If you want to look further
 
-- Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
+- Public door: [`../../../README.md`](../../../README.md)
 - Sibling briefs: [`README.md`](README.md) — [E12](E12_informal_livelihood.md); [E13](E13_displacement_refuge.md); [E08](E08_small_business_owner.md) if you also sell

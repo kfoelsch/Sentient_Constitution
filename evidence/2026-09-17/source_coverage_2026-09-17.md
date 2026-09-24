@@ -2,7 +2,7 @@
 
 **Status:** source review complete for the operative core and incorporated-companion source families in the current working tree. **Edition:** `SC-Corpus-2026.08.09` (pre-release; not adoption).
 
-This record closes the source-coverage item in [TODO.md](../../TODO.md). The review unit is each operative file and every numbered provision or defined entry within it. For each row below, the source was read at the current revision and checked for scope ownership, operative rule, exceptions or safeguards, upstream/downstream routing, and non-relocation into another layer. Translation and implementation breadth are recorded separately and are not represented as source equivalence.
+This record closes the source-coverage item in [TODO.md](../../project/TODO.md). The review unit is each operative file and every numbered provision or defined entry within it. For each row below, the source was read at the current revision and checked for scope ownership, operative rule, exceptions or safeguards, upstream/downstream routing, and non-relocation into another layer. Translation and implementation breadth are recorded separately and are not represented as source equivalence.
 
 ## Inventory and disposition
 

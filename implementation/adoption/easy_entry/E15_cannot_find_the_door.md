@@ -73,6 +73,6 @@ See: [G01 — Challenge, review, and being made whole](G01_challenge_review_redr
 
 - Sibling briefs: [`README.md`](README.md)
 - Process guides: [`README.md#process-guides`](README.md#process-guides)
-- Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
+- Public door: [`../../../README.md`](../../../README.md)
 - Everyday questions: [`../../FAQ.md`](../../FAQ.md)
 - Operators only (not an answer key): lived packet [`../../../evaluation/lived_situations/packets/S11_cannot_find_the_door.md`](../../../evaluation/lived_situations/packets/S11_cannot_find_the_door.md)

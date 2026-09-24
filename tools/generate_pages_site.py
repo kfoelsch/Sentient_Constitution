@@ -61,10 +61,12 @@ SKIP_NAMES = frozenset({"_TEMPLATE.md"})
 FIXED_SUPPORT = (
     "START_HERE.md",
     "README.md",
+    "guides/CONCEPTUAL_OVERVIEW.md",
+    "guides/RECORD_OVERVIEW.md",
     "LICENSE",
     "AGENTS.md",
     "llms.txt",
-    "VISION.md",
+    "project/VISION.md",
     "CONTRIBUTING.md",
     "implementation/FAQ.md",
     "implementation/PRINT_PACK.md",
@@ -104,7 +106,7 @@ INDEX_BANNER = (
     "> This Pages host **renders the same files** as the repository. "
     "It is not a second constitution. If a page here and the repository file "
     "disagree, the **repository file wins**. Opening this site is not adoption. "
-    "Canonical public door: [START_HERE.md](START_HERE.md)."
+    "Public door: [README.md](README.md). Using or adopting it: [START_HERE.md](START_HERE.md)."
 )
 
 
@@ -198,7 +200,9 @@ def render_corpus_index(root: Path, published: list[str]) -> str:
             "",
             "## First-hour adopted implementation texts (process support)",
             "",
-            "- [START_HERE.md](START_HERE.md)",
+            "- [README.md](README.md) (public door)",
+            "- [START_HERE.md](START_HERE.md) (using or adopting it)",
+            "- [Big-picture overview](guides/CONCEPTUAL_OVERVIEW.md)",
             "- [Rights Floor wall sheet](doc_architecture/generated/rights_floor_sheet.md)",
             "- [Print pack](implementation/PRINT_PACK.md)",
             "- [Easy-entry briefs](implementation/adoption/easy_entry/README.md)",

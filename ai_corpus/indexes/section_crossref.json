@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-24T00:48:48+00:00",
+  "generated_at": "2026-09-24T13:25:56+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 15149,
+  "edge_count": 15169,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -50746,6 +50746,46 @@
       "source_file": "core_06_rights_part_a.md",
       "source_header": "Article I-D: Existential Risk and Ecological Recovery Capacity",
       "source_anchor": "#article-i-d-existential-risk-and-recovery-capacity",
+      "target_file": "core_03_definition_integrity.md",
+      "target_anchor": "#3-non-compliance-finding-profiles",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article I-D: Existential Risk and Ecological Recovery Capacity",
+      "source_anchor": "#article-i-d-existential-risk-and-recovery-capacity",
+      "target_file": "core_04_burden_traceability_verification.md",
+      "target_anchor": "#1-exclusive-enforcement-and-burden-allocation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article I-D: Existential Risk and Ecological Recovery Capacity",
+      "source_anchor": "#article-i-d-existential-risk-and-recovery-capacity",
+      "target_file": "core_04_burden_traceability_verification.md",
+      "target_anchor": "#5-compliance-evidence-standard",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article I-D: Existential Risk and Ecological Recovery Capacity",
+      "source_anchor": "#article-i-d-existential-risk-and-recovery-capacity",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article I-D: Existential Risk and Ecological Recovery Capacity",
+      "source_anchor": "#article-i-d-existential-risk-and-recovery-capacity",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act-record",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article I-D: Existential Risk and Ecological Recovery Capacity",
+      "source_anchor": "#article-i-d-existential-risk-and-recovery-capacity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#safety-constraint",
       "count": 1
@@ -50948,7 +50988,7 @@
       "source_anchor": "#article-i-d-existential-risk-and-recovery-capacity",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#highest-scrutiny",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_a.md",
@@ -52522,7 +52562,7 @@
       "source_file": "core_06_rights_part_a.md",
       "source_header": "Article II: Material Stewardship and Durable-Use Integrity",
       "source_anchor": null,
-      "target_file": "corpus_systems.md",
+      "target_file": "core_17_incorporation.md",
       "target_anchor": null,
       "count": 1
     },
@@ -53700,7 +53740,23 @@
       "source_anchor": null,
       "target_file": "corpus_systems.md",
       "target_anchor": null,
-      "count": 2
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article IV-A: Dependency Mapping and Resource-Flow Transparency",
+      "source_anchor": null,
+      "target_file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article IV-A: Dependency Mapping and Resource-Flow Transparency",
+      "source_anchor": null,
+      "target_file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
+      "target_anchor": null,
+      "count": 1
     },
     {
       "source_file": "core_06_rights_part_a.md",
@@ -53946,7 +54002,15 @@
       "source_file": "core_06_rights_part_a.md",
       "source_header": "Article IV-B: Cross-System Fairness and Sustainability",
       "source_anchor": null,
-      "target_file": "corpus_systems.md",
+      "target_file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article IV-B: Cross-System Fairness and Sustainability",
+      "source_anchor": null,
+      "target_file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "target_anchor": null,
       "count": 1
     },
@@ -56092,6 +56156,22 @@
       "source_anchor": null,
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#8-accessibility-evaluation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-G: Accessibility",
+      "source_anchor": null,
+      "target_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-G: Accessibility",
+      "source_anchor": null,
+      "target_file": "corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md",
+      "target_anchor": null,
       "count": 1
     },
     {
@@ -59336,6 +59416,22 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article X-C: Adult consensual commercial sexual services and sexual exploitation",
+      "source_anchor": null,
+      "target_file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md",
+      "target_anchor": null,
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article X-C: Adult consensual commercial sexual services and sexual exploitation",
+      "source_anchor": null,
+      "target_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
       "source_header": "Article X: Cooperative Interaction",
       "source_anchor": null,
       "target_file": "core_00_preamble.md",
@@ -61152,14 +61248,6 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIX: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
-      "source_anchor": "#article-xix-interoperability-portability-and-exit-integrity",
-      "target_file": "corpus_institutions.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
       "source_anchor": "#article-xviii-c-named-pathway-eligibility-responsibility-and-continuous-audit",
       "target_file": "core_01_a_values_principles.md",
@@ -61988,7 +62076,23 @@
       "source_anchor": "#article-xxi-root-cause-analysis-and-adaptive-response",
       "target_file": "corpus_systems.md",
       "target_anchor": null,
-      "count": 2
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXI: Root Cause Analysis and Adaptive Response",
+      "source_anchor": "#article-xxi-root-cause-analysis-and-adaptive-response",
+      "target_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXI: Root Cause Analysis and Adaptive Response",
+      "source_anchor": "#article-xxi-root-cause-analysis-and-adaptive-response",
+      "target_file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
+      "target_anchor": null,
+      "count": 1
     },
     {
       "source_file": "core_06_rights_part_c.md",
@@ -63394,7 +63498,23 @@
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XII-F: Resilience and Self-Healing Baseline",
       "source_anchor": null,
-      "target_file": "corpus_systems.md",
+      "target_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XII-F: Resilience and Self-Healing Baseline",
+      "source_anchor": null,
+      "target_file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XII-F: Resilience and Self-Healing Baseline",
+      "source_anchor": null,
+      "target_file": "corpus_systems/cs_12_decentralized_continuity_partition_resilience.md",
       "target_anchor": null,
       "count": 1
     },
@@ -66418,7 +66538,15 @@
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XVI: System Lifecycle, Environments, and Reversibility",
       "source_anchor": null,
-      "target_file": "corpus_systems.md",
+      "target_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVI: System Lifecycle, Environments, and Reversibility",
+      "source_anchor": null,
+      "target_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
       "target_anchor": null,
       "count": 1
     },
@@ -67010,7 +67138,15 @@
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XVII: Sandboxed Innovation, Experimentation, and Creative Freedom",
       "source_anchor": null,
-      "target_file": "corpus_systems.md",
+      "target_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVII: Sandboxed Innovation, Experimentation, and Creative Freedom",
+      "source_anchor": null,
+      "target_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
       "target_anchor": null,
       "count": 1
     },
@@ -80738,6 +80874,14 @@
       "source_file": "core_12_forum.md",
       "source_header": "4. Forum family definitions — accountability through adjudication",
       "source_anchor": "#4-forum-family-definitions--accountability-through-adjudication",
+      "target_file": "corpus_forum/cf_03_forum_formation_chamber_structure.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_12_forum.md",
+      "source_header": "4. Forum family definitions — accountability through adjudication",
+      "source_anchor": "#4-forum-family-definitions--accountability-through-adjudication",
       "target_file": "corpus_institutions.md",
       "target_anchor": null,
       "count": 1
@@ -80794,7 +80938,7 @@
       "source_file": "core_12_forum.md",
       "source_header": "4.4 Environment forums",
       "source_anchor": "#44-environment-forums",
-      "target_file": "corpus_forum.md",
+      "target_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
       "target_anchor": null,
       "count": 1
     },
@@ -81123,6 +81267,22 @@
       "source_header": "7. Forum support before, during, and after review — oversight architecture",
       "source_anchor": "#7-forum-support-before-during-and-after-review--oversight-architecture",
       "target_file": "corpus_forum.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_12_forum.md",
+      "source_header": "7. Forum support before, during, and after review — oversight architecture",
+      "source_anchor": "#7-forum-support-before-during-and-after-review--oversight-architecture",
+      "target_file": "corpus_forum/cf_08_forum_forensic_analytical_support.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_12_forum.md",
+      "source_header": "7. Forum support before, during, and after review — oversight architecture",
+      "source_anchor": "#7-forum-support-before-during-and-after-review--oversight-architecture",
+      "target_file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
       "target_anchor": null,
       "count": 1
     },

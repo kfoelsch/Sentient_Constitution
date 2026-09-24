@@ -84,6 +84,6 @@ See: [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-ch
 
 ## If you want to look further
 
-- Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
+- Public door: [`../../../README.md`](../../../README.md)
 - Sibling briefs: [`README.md`](README.md) — [E06](E06_age_related_challenges.md) if the issue is help taking over decisions rather than access; [E14](E14_mental_health.md) if a diagnosis is being used to take over your say; [E02](E02_single_parent.md) if unpaid care is the colliding load
 - Operators only (not an answer key): lived packet [`../../../evaluation/lived_situations/packets/S04_disability_unusable_path.md`](../../../evaluation/lived_situations/packets/S04_disability_unusable_path.md)

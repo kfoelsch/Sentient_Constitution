@@ -82,6 +82,6 @@ See: [Article III-A](../../../core_06_rights_part_a.md#article-iii-a-survival); 
 
 ## If you want to look further
 
-- Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
+- Public door: [`../../../README.md`](../../../README.md)
 - Sibling briefs: [`README.md`](README.md) — especially [E02](E02_single_parent.md) after birth
 - Operators only (not an answer key): lived packet [`../../../evaluation/lived_situations/packets/S01_pregnancy_care_offer.md`](../../../evaluation/lived_situations/packets/S01_pregnancy_care_offer.md)

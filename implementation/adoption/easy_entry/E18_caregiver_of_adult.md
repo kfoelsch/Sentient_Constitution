@@ -84,6 +84,6 @@ See: [Article VII-D](../../../core_06_rights_part_b.md#article-vii-d-family-care
 
 ## If you want to look further
 
-- Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
+- Public door: [`../../../README.md`](../../../README.md)
 - Sibling briefs: [`README.md`](README.md) — [E02](E02_single_parent.md) if the dependent is a child; [E06](E06_age_related_challenges.md) if you are the adult whose help is taking over; [E14](E14_mental_health.md) if a diagnosis is the takeover tool; [E16](E16_worker_not_owner.md) if the colliding load is a waged job
 - Operators only (not an answer key): lived packet [`../../../evaluation/lived_situations/packets/S09_caregiver_of_adult.md`](../../../evaluation/lived_situations/packets/S09_caregiver_of_adult.md)

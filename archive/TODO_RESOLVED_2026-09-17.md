@@ -1,6 +1,6 @@
 # Resolved TODO items — archived 2026-09-17
 
-This archive records the resolved checklist items removed from the active [TODO.md](../TODO.md). Normative meaning remains in the binding corpus; this file is a process-history record.
+This archive records the resolved checklist items removed from the active [TODO.md](../project/TODO.md). Normative meaning remains in the binding corpus; this file is a process-history record.
 
 ## Editor checklist
 
@@ -15,7 +15,7 @@ This archive records the resolved checklist items removed from the active [TODO.
 
 - Chapter Eight §2.1 record-entry ownership was aligned with the verifier/authorizer and separate-custodian division in §§3.1 and 3.7.
 - Forum deadline extensions now state the continuation burden, default outer bounds, and preserved early protection clocks.
-- Political equality, exclusion, restoration, inability protections, institutional trust restrictions, and liberty restrictions were clarified in [CONCEPTUAL_OVERVIEW.md](../CONCEPTUAL_OVERVIEW.md).
+- Political equality, exclusion, restoration, inability protections, institutional trust restrictions, and liberty restrictions were clarified in [CONCEPTUAL_OVERVIEW.md](../guides/CONCEPTUAL_OVERVIEW.md).
 - Ordinary privacy, silence by default, standing burdens, anti-aggregation, archival, and restoration exceptions were clarified.
 - Protection during sentience uncertainty now covers provisional inclusion, interim protection, independent representation, and entity/operator separation.
 - The residual interpretive hierarchy now states principles over articles over independent substantive definition glosses, while canonical definitions retain term authority.
@@ -45,7 +45,7 @@ Supporting records: [overview follow-up resolution](../evidence/2026-09-17/overv
 
 ## 2026-09-14 nested-list readability pass
 
-The finder and nest-or-leave pass was completed for Chapters Five through Thirteen, including the required child re-scan. Continuous arguments and one-clause glosses were intentionally left un-nested. The remaining numbered-chapter pass stays open in [TODO.md](../TODO.md).
+The finder and nest-or-leave pass was completed for Chapters Five through Thirteen, including the required child re-scan. Continuous arguments and one-clause glosses were intentionally left un-nested. The remaining numbered-chapter pass stays open in [TODO.md](../project/TODO.md).
 
 ## P2 reader-signal capitalization pass
 

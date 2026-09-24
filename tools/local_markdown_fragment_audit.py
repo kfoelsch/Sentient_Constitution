@@ -21,18 +21,18 @@ from corpus_paths import binding_corpus_scope
 
 # Reader-entry and contributor documents. These are the first pages a newcomer
 # opens, but they sit outside binding_corpus_scope, so nothing guarded their
-# cross-references until now. Working logs (TODO.md) and dated records
-# (MEMLOG.md, evidence/, evaluation/results/) stay out: they record what was
+# cross-references until now. Working logs (project/TODO.md) and dated records
+# (project/MEMLOG.md, evidence/, evaluation/results/) stay out: they record what was
 # true when written and are not maintained prose.
 READER_ENTRY_DOCS = (
     "START_HERE.md",
-    "VISION.md",
-    "CONCEPTUAL_OVERVIEW.md",
-    "RECORD_OVERVIEW.md",
+    "project/VISION.md",
+    "guides/CONCEPTUAL_OVERVIEW.md",
+    "guides/RECORD_OVERVIEW.md",
     "CONTRIBUTING.md",
     "AGENTS.md",
 )
-SOURCE_EXTRAS = ("CONSTITUTIONAL_REGRESSION_SCENARIOS.md", *READER_ENTRY_DOCS)
+SOURCE_EXTRAS = ("project/CONSTITUTIONAL_REGRESSION_SCENARIOS.md", *READER_ENTRY_DOCS)
 SOURCE_GLOBS = (
     "implementation/**/*.md",
     "doc_architecture/generated/**/*.md",
