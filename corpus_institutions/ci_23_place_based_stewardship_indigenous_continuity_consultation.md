@@ -15,7 +15,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Read with: **CI-23**; **CI-7.2**; **CI-8**.
+- Read with: **CI-23**; **CI-7.2**; **CI-12**.
 
 </details>
 
@@ -44,10 +44,10 @@ This file is the institutional implementation home for **CI-23** (*Place-based s
   - **Chapter Five** *Indigenous Continuity*;
   - the owner floors in **Article V-B** (*Nondiscrimination*) and **Article I-A** (*Environmental Preconditions and Ecological Integrity*).
 - **Consultation records** — who was consulted, what was said, what changed, and what did not must be custodied and auditable.
-- **Compliance theater** — funded projects that box-check consultation without meaningful risk response must escalate through **CI-7.2** and **CI-8**.
+- **Compliance theater** — funded projects that box-check consultation without meaningful risk response must escalate through **CI-7.2** (*External assurance triggers*) and **CI-12** (*Cross-institution coordination and escalation*).
 - **What this is not** — no unbounded territorial-restitution mandate; no constitutional-layer adjudication of historical territorial claims; adoption-scope and adopter-jurisdiction discipline stay in **Chapter Seventeen**.
 - **Hard limits** — symbolic consultation cannot be presented as binding governance; binding governance cannot be hidden as optional consultation; participation records must support later challenge.
-- **Read with** — **CI-7.2** and **CI-8** for external assurance and cross-institution escalation.
+- **Read with** — **CI-7.2** (*External assurance triggers*) and **CI-12** (*Cross-institution coordination and escalation*) for external assurance and cross-institution escalation.
 
 *Shared rules live elsewhere.*
 - [**CJS-3.7**](../corpus_joint_structure/cjs_03p_participation_operations.md) (*quorum and participatory legitimacy terms*) — **Stakeholder oversight and binding-governance pathway integrity**.
@@ -63,7 +63,7 @@ Each institution in scope must name the office or body responsible for:
 - **stakeholder and affected-community identification** — who determines which place-linked, Indigenous, tenure-holding, ecosystem-dependent, or comparable communities are materially affected, and so must receive notice and practical participation routes under **CJS-3.7** (*quorum and participatory legitimacy terms*);
 - **indigenous-continuity response** — who evaluates and routes decisions that materially implicate **Chapter Five** *Indigenous Continuity*, including impacts on language, cultural practice, governance practice, and knowledge transmission, under **Article V-B** (*Nondiscrimination*), **Article I-A** (*Environmental Preconditions and Ecological Integrity*), and **Chapter Seventeen** discipline where territorial-continuity questions arise;
 - **advisory-versus-binding pathway publication** — who publishes whether a consultation route is advisory, binding, or relied on for governance effect, and what challenge or correction paths follow; and
-- **compliance-theater escalation** — who escalates funded projects or supervised programs where consultation occurs without meaningful risk response to **CI-7.2** external-assurance triggers and **CI-8** cross-institution escalation.
+- **compliance-theater escalation** — who escalates funded projects or supervised programs where consultation occurs without meaningful risk response to **CI-7.2** (*External assurance triggers*) external-assurance triggers and **CI-12** (*Cross-institution coordination and escalation*) cross-institution escalation.
 Read **Chapter Five** *Indigenous Continuity* alongside these articles where materially applicable:
 - **Article I-A** (*Environmental Preconditions and Ecological Integrity*);
 - **Article V-B** (*Nondiscrimination*);

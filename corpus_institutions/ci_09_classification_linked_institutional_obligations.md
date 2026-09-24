@@ -143,7 +143,7 @@ Subunits must remain **subordinate** to the parent mandate. They must not operat
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-9.3.2**; **CI-9.3.1**; **CI-9.3.3**; **CI-9.3.4**; **CI-5**; **CI-7.2**; **CI-8**.
+- Read with: **CI-9.3.2**; **CI-9.3.1**; **CI-9.3.3**; **CI-9.3.4**; **CI-5**; **CI-7.2**; **CI-12**.
 
 </details>
 
@@ -155,9 +155,9 @@ Delegated subunits in scope must satisfy **CJS-2.1**. **CI-9.3.2** keeps only:
 
 - the institutional exception route when the local instrument departs from **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*);
 - the duty to publish substitute capture safeguards proportionate to institutional design class under **CI-5**; and
-- the external-assurance or **CI-8** independent-review requirement where that departure affects **Class A** or **Class B** scope.
+- the external-assurance or **CI-12** (*Cross-institution coordination and escalation*) independent-review requirement where that departure affects **Class A** or **Class B** scope.
 
-Where a multi-member body uses a different deciding-bench balance or materially different hybrid staging, the instrument must publish substitute capture safeguards proportionate to institutional design class under **CI-5**. For **Class A** and **Class B**, that pattern is non-compliant unless previewed through **CI-7.2**, or a published **CI-8** functionally independent review arrangement.
+Where a multi-member body uses a different deciding-bench balance or materially different hybrid staging, the instrument must publish substitute capture safeguards proportionate to institutional design class under **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*). For **Class A** and **Class B**, that pattern is non-compliant unless previewed through **CI-7.2** (*External assurance triggers*), or a published **CI-12** (*Cross-institution coordination and escalation*) functionally independent review arrangement.
 
 ## CI-9.3.3: Rotating authority: attachment bounds
 <details>

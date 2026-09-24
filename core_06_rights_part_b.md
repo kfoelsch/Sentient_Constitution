@@ -1733,7 +1733,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
   - contest or secondary review, read with [Dispute sequencing](core_12_forum.md#dispute-sequencing) under Chapter Twelve §1.
   
   Outcomes must remain traceable to stated reasons and to evidence sufficient to support review under **Chapters Two through Four**.
-- **Institutional routing:** Role taxonomy, accountability-chain implementation, and due-process operational procedures are governed by [**CI-4**](corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*) and **CI-6** (*Procedure integrity, contestability, and secondary review*), with supporting challenge-pathway access detail in **CI-12** (*Transparency, participation, and accessible challenge and service pathways*).
+- **Institutional routing:** Role taxonomy, accountability-chain implementation, and due-process operational procedures are governed by [**CI-4**](corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*) and **CI-6** (*Procedure integrity, contestability, and secondary review*), with supporting challenge-pathway access detail in **CI-8** (*Transparency, participation, and accessible challenge and service pathways*).
 #### Article XI-E: Non-Capture Safeguards
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

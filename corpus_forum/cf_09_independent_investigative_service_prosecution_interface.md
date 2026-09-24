@@ -261,7 +261,7 @@ Those records must support:
 
 Where local independence is not credible because of concentration, emergency incapacity, deadlock, or systemic capture indicators, institutions must escalate to one of these:
 
-- [**CI-8**](../corpus_institutions/ci_08_transparency_participation_accessible_pathways.md) (*Cross-institution coordination and escalation*);
+- [**CI-12**](../corpus_institutions/ci_12_cross_institution_coordination_escalation.md) (*Cross-institution coordination and escalation*);
 - external assurance;
 - another pre-designated backup body with lawful authority and practical capacity to investigate.
 

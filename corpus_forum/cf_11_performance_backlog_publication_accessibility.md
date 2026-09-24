@@ -109,7 +109,7 @@ Backlog is constitutionally relevant when it materially degrades challenge right
 
 This subsection applies **Contestability** and **CJS-3.13** (*procedural integrity and adjudication terms*) to forum timing, quality, damage, accessibility, publication, and remediation discipline. The point is practical usability: notice, record access, review, appeal, restorative follow-through, and closure must still work in real conditions.
 
-It does **not** add **Chapter Six** rights text. Operational detail for non-forum institutions sits in **`corpus_institutions.md`** **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-12** (*Transparency, participation, and accessible challenge and service pathways*), and **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*).
+It does **not** add **Chapter Six** rights text. Operational detail for non-forum institutions sits in **`corpus_institutions.md`** **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-8** (*Transparency, participation, and accessible challenge and service pathways*), and **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*).
 
 The **CF-11** key performance indicators (**KPIs**) attach to the service lifecycle defined below. Timeliness and aging metrics show whether the lifecycle is moving; accuracy indicators show whether speed is producing reliable adjudication; accessibility and publication metrics show whether parties can use and contest the process; forum-damage ratings show whether the forum itself is causing or worsening harm; constitutional-alignment scores show whether the forum family or chamber remains fit for continued authority; remediation-closure metrics show whether failures are corrected rather than narrated.
 
@@ -159,9 +159,9 @@ Legacy references to case classes and urgency classes should be read as referenc
 
 <br>
 
-Forums publish urgency-scaled metrics and target windows under **CF-11.3** (*Metric registry and reporting taxonomy*). Institutions publish compatible **notice and challenge-pathway** requirements under **CI-6** (*Procedure integrity, contestability, and secondary review*) and **CI-12** (*Transparency, participation, and accessible challenge and service pathways*).
+Forums publish urgency-scaled metrics and target windows under **CF-11.3** (*Metric registry and reporting taxonomy*). Institutions publish compatible **notice and challenge-pathway** requirements under **CI-6** (*Procedure integrity, contestability, and secondary review*) and **CI-8** (*Transparency, participation, and accessible challenge and service pathways*).
 
-When **backlog**, **accessibility**, **accuracy**, **publication**, **forum-damage**, **constitutional-alignment**, or **remediation-closure** failures cross **CF-11.4** (*Performance thresholds and alerts*) thresholds, **CF-11.5** (*Required remediation actions for threshold crossings*) remediation applies. **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*) and **CI-8** (*Cross-institution coordination and escalation*) escalation paths also apply where warranted.
+When **backlog**, **accessibility**, **accuracy**, **publication**, **forum-damage**, **constitutional-alignment**, or **remediation-closure** failures cross **CF-11.4** (*Performance thresholds and alerts*) thresholds, **CF-11.5** (*Required remediation actions for threshold crossings*) remediation applies. **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*) and **CI-12** (*Cross-institution coordination and escalation*) escalation paths also apply where warranted.
 
 **Stakeholder-facing** performance, threshold, delay, damage, and remediation disclosure must be intelligible without specialist training, subject to lawful secrecy limits.
 
@@ -401,7 +401,7 @@ Contest-integrity monitors under [**CI-7.3**](../corpus_institutions/ci_07_overs
 - whether emergency dockets are receiving timely attention;
 - whether accessibility or publication failures are undermining contestability.
 
-Material findings must feed remediation and, where warranted, [**CI-8**](../corpus_institutions/ci_08_transparency_participation_accessible_pathways.md) (*Cross-institution coordination and escalation*) escalation or external assurance triggers.
+Material findings must feed remediation and, where warranted, [**CI-12**](../corpus_institutions/ci_12_cross_institution_coordination_escalation.md) (*Cross-institution coordination and escalation*) escalation or external assurance triggers.
 
 ## CF-11.9 Non-compliant performance patterns
 

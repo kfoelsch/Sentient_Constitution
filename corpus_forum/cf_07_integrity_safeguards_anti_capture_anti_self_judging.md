@@ -272,7 +272,7 @@ For constitutional alignment recognition, validation, revalidation, withdrawal, 
 - who controls the technical evidence, incident history, audit access, environmental component record, classification assumptions, and contest pathway;
 - whether the operator, steward, institutional sponsor, or forum-adjacent unit has a material incentive or dependency that could distort recognition or revalidation;
 - whether technical, Environment, Institutional, Sentient, or Constitutional component questions require referral, certification, or stay;
-- whether contest-integrity monitoring, independent forensic support, external assurance, or **CI-8** (*Cross-institution coordination and escalation*) escalation is needed to make the record reviewable.
+- whether contest-integrity monitoring, independent forensic support, external assurance, or **CI-12** (*Cross-institution coordination and escalation*) escalation is needed to make the record reviewable.
 
 Where the same institution or system steward materially controls both the system under review and the ordinary contest pathway, the record must explain why the contest pathway remains independent enough to proceed or must activate backup routing, external assurance, or both. Conditional recognition may not be used to defer unresolved capture or self-review defects that would defeat practical contestability.
 
@@ -299,7 +299,7 @@ Where internal process remains available, the [forum case record](../core_05_ban
 
 Contest-integrity monitors under [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) assess whether contest, secondary review, audit access, and protected escalation pathways function in practice. They may provide pattern findings, contest-pathway records, independence observations, backlog data, escalation history, and evidence-availability information to support anti-self-judging activation, refusal, transfer, or remediation. They must not silently become the merits forum for the underlying dispute.
 
-Where feasible in cross-forum anti-self-judging cases, the **CF-4.10** (*Certifier for inability-to-form findings*) certifier should include or obtain review from contest-integrity or equivalent independent assurance capacity. The resulting monitor material must be kept distinct from case-specific forensic support under **CF-8** and from independent investigative-service work under **CF-9**. If monitor findings indicate material contest-pathway failure beyond the case, the forum may refer the structural matter to remediation, external assurance, or **CI-8** (*Cross-institution coordination and escalation*) escalation while preserving the assigned merits forum for the dispute.
+Where feasible in cross-forum anti-self-judging cases, the **CF-4.10** (*Certifier for inability-to-form findings*) certifier should include or obtain review from contest-integrity or equivalent independent assurance capacity. The resulting monitor material must be kept distinct from case-specific forensic support under **CF-8** and from independent investigative-service work under **CF-9**. If monitor findings indicate material contest-pathway failure beyond the case, the forum may refer the structural matter to remediation, external assurance, or **CI-12** (*Cross-institution coordination and escalation*) escalation while preserving the assigned merits forum for the dispute.
 
 ### CF-7.3.7 Recusal-Abuse and Routing-Abuse Detection
 <details>
@@ -318,7 +318,7 @@ Forum systems must track recusal, reassignment, transfer, threshold dismissal, b
 - using emergency, continuity, or restricted-evidence procedures to bypass recusal, publication, contest, or backup-forum obligations;
 - treating contest-integrity monitoring, forensic support, or internal integrity review as a substitute for the forum family assigned by Chapter Twelve.
 
-When such a pattern is material, the record must identify whether immediate backup routing, panel reconstitution, external assurance, **CI-8** (*Cross-institution coordination and escalation*) escalation, or continuity, fallback, or emergency-adjudication measures under **CF-12** through **CF-14** are required.
+When such a pattern is material, the record must identify whether immediate backup routing, panel reconstitution, external assurance, **CI-12** (*Cross-institution coordination and escalation*) escalation, or continuity, fallback, or emergency-adjudication measures under **CF-12** through **CF-14** are required.
 
 ### CF-7.3.8 Family-Level Capture Activation
 <details>

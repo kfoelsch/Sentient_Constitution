@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-23T23:48:50+00:00",
+  "generated_at": "2026-09-24T00:06:07+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
@@ -88898,7 +88898,7 @@
       "source_file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
       "source_header": "CF-9.8 Records, referrals, and backup routes",
       "source_anchor": null,
-      "target_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
+      "target_file": "corpus_institutions/ci_12_cross_institution_coordination_escalation.md",
       "target_anchor": null,
       "count": 1
     },
@@ -89554,7 +89554,7 @@
       "source_file": "corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md",
       "source_header": "CF-10.11 Cross-jurisdiction recognition",
       "source_anchor": null,
-      "target_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
+      "target_file": "corpus_institutions/ci_12_cross_institution_coordination_escalation.md",
       "target_anchor": null,
       "count": 1
     },
@@ -90282,7 +90282,7 @@
       "source_file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "source_header": "CF-11.8 Contest-integrity monitoring interface",
       "source_anchor": null,
-      "target_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
+      "target_file": "corpus_institutions/ci_12_cross_institution_coordination_escalation.md",
       "target_anchor": null,
       "count": 1
     },
@@ -93674,7 +93674,7 @@
       "source_file": "corpus_forum/cf_16_staffing_reserve_capacity_structural_records.md",
       "source_header": "CF-16.4 Prohibited staffing, capacity, and governance patterns",
       "source_anchor": null,
-      "target_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
+      "target_file": "corpus_institutions/ci_12_cross_institution_coordination_escalation.md",
       "target_anchor": null,
       "count": 1
     },
@@ -118338,7 +118338,7 @@
       "source_file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "source_header": "CS-4.14 Private chokepoints sentients depend on (access continuity and non-capture)",
       "source_anchor": "#cs-4-14-private-chokepoints-sentients-depend-on-access-continuity-and-non-capture",
-      "target_file": "corpus_institutions/ci_12_cross_institution_coordination_escalation.md",
+      "target_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
       "target_anchor": null,
       "count": 1
     },

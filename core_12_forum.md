@@ -136,7 +136,7 @@ Each **forum family** bears primary responsibility for incentive structures prim
 
 <a id="9-relation-to-implementation-files"></a>
 
-Institutional contest, secondary review, and integrity monitoring in **`corpus_institutions.md`** (including **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) through **CI-8** (*Cross-institution coordination and escalation*) and contest-integrity expectations) work alongside this chapter. They do not replace **Integrity**, **Environment**, or **Institutional** forum families for binding merits where this chapter assigns those families jurisdiction. Implementation incentive mechanisms in those volumes must coordinate with the forum family whose sphere is primarily implicated, without displacing primary-stakes routing or merits authority this chapter assigns.
+Institutional contest, secondary review, and integrity monitoring in **`corpus_institutions.md`** (including **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) through **CI-8** (*Transparency, participation, and accessible challenge and service pathways*), **CI-12** (*Cross-institution coordination and escalation*), and contest-integrity expectations) work alongside this chapter. They do not replace **Integrity**, **Environment**, or **Institutional** forum families for binding merits where this chapter assigns those families jurisdiction. Implementation incentive mechanisms in those volumes must coordinate with the forum family whose sphere is primarily implicated, without displacing primary-stakes routing or merits authority this chapter assigns.
 
 <a id="2-default-venue-and-primary-stakes"></a>
 

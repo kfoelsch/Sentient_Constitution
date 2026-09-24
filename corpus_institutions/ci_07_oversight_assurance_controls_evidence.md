@@ -83,18 +83,18 @@ Reusable disclosure templates are in `implementation/SYSTEMS_IMPLEMENTATION_TEMP
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-7.2**; **CI-8**.
+- Read with: **CI-7.2**; **CI-12**.
 
 </details>
 
 <br>
 
-*In plain terms: sometimes internal review is not enough. When serious incidents, repeated failures, or structural changes create real doubt, the institution must bring in independent outside assurance — and publish the triggers that make that mandatory. If the institution itself is conflicted, captured, missing, or stonewalling, escalation goes to **CI-8**.*
+*In plain terms: sometimes internal review is not enough. When serious incidents, repeated failures, or structural changes create real doubt, the institution must bring in independent outside assurance — and publish the triggers that make that mandatory. If the institution itself is conflicted, captured, missing, or stonewalling, escalation goes to **CI-12**.*
 
 Apply **CJS-3.6** (*integrity assurance and resilience operations*) for the shared external-assurance trigger floor. **CI-7.2** keeps only:
 
 - published trigger criteria (what forces outside review); and
-- **CI-8** escalation duties when the institution cannot credibly commission that review itself.
+- **CI-12** (*Cross-institution coordination and escalation*) escalation duties when the institution cannot credibly commission that review itself.
 
 ## CI-7.3: Contest-integrity monitoring (Class A and Class B)
 <details>
