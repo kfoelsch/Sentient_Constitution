@@ -93,6 +93,6 @@ Machine-checkable editorial rules: [tools/architecture/rule_registry.json](tools
 
 ## Retired migration scripts
 
-One-off structural rewrite and migration helpers (Chapter Five cluster inserts, Chapter Six renumbering, corpus splits, D/A/C widget attachment, doc_architecture slim-down, etc.) were moved to [archive/tools_retired/](../archive/tools_retired/) on **2026-06-17**. **Do not run** them against the current tree unless you are deliberately replaying history from git; they can desync the corpus.
+One-off structural rewrite and migration helpers (Chapter Five cluster inserts, Chapter Six renumbering, corpus splits, D/A/C widget attachment, doc_architecture slim-down, etc.) were moved to `archive/tools_retired/` on **2026-06-17** and removed from the tree on **2026-09-24**; recover them from git history (`git log --all -- archive/tools_retired`) if needed. **Do not run** them against the current tree unless you are deliberately replaying history; they can desync the corpus.
 
 For **current** article numbers and titles, use `make reference-audit` or read Chapter Six in `core_06_rights_part_*.md`.
