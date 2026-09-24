@@ -6,14 +6,14 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **613** of **879** headings carry a gloss (70%).
+Coverage: **616** of **882** headings carry a gloss (70%).
 
 ## Contents
 
 - [PREAMBLE / FOUNDATIONAL REQUIREMENTS](#preamble--foundational-requirements) — `core_00_preamble.md` (14/16 glossed)
-- [CHAPTER 01, PART A: VALUES PRINCIPLES](#chapter-01-part-a-values-principles) — `core_01_a_values_principles.md` (16/33 glossed)
+- [CHAPTER 01, PART A: VALUES PRINCIPLES](#chapter-01-part-a-values-principles) — `core_01_a_values_principles.md` (17/34 glossed)
 - [CHAPTER 01, PART B: INTERACTION AND INTERPRETATION](#chapter-01-part-b-interaction-and-interpretation) — `core_01_b_interaction_interpretation.md` (17/24 glossed)
-- [CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE](#chapter-01-part-c-stewardship-and-governance) — `core_01_c_stewardship_capacity_principles.md` (41/48 glossed)
+- [CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE](#chapter-01-part-c-stewardship-and-governance) — `core_01_c_stewardship_capacity_principles.md` (40/47 glossed)
 - [CHAPTER TWO: DEFINITION STRUCTURE AND COMPONENT REQUIREMENTS](#chapter-two-definition-structure-and-component-requirements) — `core_02_definition_structure.md` (8/12 glossed)
 - [CHAPTER THREE: DEFINITION INTEGRITY, EVASION, AND NON-COMPLIANCE](#chapter-three-definition-integrity-evasion-and-non-compliance) — `core_03_definition_integrity.md` (5/15 glossed)
 - [CHAPTER FOUR: BURDEN OF PROOF, TRACEABILITY, AND VERIFICATION](#chapter-four-burden-of-proof-traceability-and-verification) — `core_04_burden_traceability_verification.md` (7/7 glossed)
@@ -24,10 +24,10 @@ Coverage: **613** of **879** headings carry a gloss (70%).
 - [CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)](#chapter-five-definitions-oversight-tetrad-leg) — `core_05_apex_oversight_leg.md` (3/4 glossed)
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05_apex_participation_leg.md` (3/4 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05_apex_timeliness_leg.md` (3/4 glossed)
-- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (71/83 glossed)
+- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (72/84 glossed)
 - [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (23/83 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (12/17 glossed)
-- [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (26/36 glossed)
+- [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (27/37 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (51/66 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05_band_performance.md` (2/2 glossed)
 - [CHAPTER SEVEN: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES](#chapter-seven-functional-independence-and-segregation-of-duties) — `core_07_functional_independence_segregation_of_duties.md` (8/9 glossed)
@@ -40,7 +40,7 @@ Coverage: **613** of **879** headings carry a gloss (70%).
 - [CHAPTER ELEVEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS](#chapter-eleven-part-b-anti-constitutional-misconduct--pattern-applications) — `core_11_b_misconduct_pattern_applications.md` (12/14 glossed)
 - [CHAPTER TWELVE: FORUMS AND JURISDICTION](#chapter-twelve-forums-and-jurisdiction) — `core_12_forum.md` (8/27 glossed)
 - [CHAPTERS NINE–TWELVE: PIPELINE APPLICATION VIGNETTES](#chapters-ninetwelve-pipeline-application-vignettes) — `core_09-12_application_vignettes.md` (9/35 glossed)
-- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_a.md` (21/24 glossed)
+- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_a.md` (22/25 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_b.md` (41/42 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_c.md` (51/52 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_d.md` (18/19 glossed)
@@ -64,7 +64,7 @@ four duties — participation, oversight, accountability, and timeliness — sca
 
 shared systems cannot run on guesswork or vanity metrics. Measure whether sentients actually flourish and endure. Scale review with impact, dependence, and risk.
 
-[Source](../../core_00_preamble.md#2-the-measurements)
+[Source](../../core_00_preamble.md#2-measurements-overview)
 
 #### 3. Governance and Stewardship
 
@@ -138,15 +138,15 @@ Chapters Thirteen through Seventeen close the instrument: who may govern, how th
 
 [Source](../../core_00_preamble.md#8-governance-change-and-incorporation)
 
-#### 9. Companion Implementation Corpus
+#### 9. Adopted Implementation Corpus
 
-four companion corpora (joint structure, systems, institutions, and forum operations) spell out how to carry out what the chapters already require; they bind when validly adopted, and they may not shrink those duties.
+four adopted corpora (joint structure, systems, institutions, and forum operations) spell out how to carry out what the chapters already require; they bind when validly adopted, and they may not shrink those duties.
 
-[Source](../../core_00_preamble.md#9-companion-implementation-corpus)
+[Source](../../core_00_preamble.md#9-adopted-implementation-corpus)
 
 ## CHAPTER 01, PART A: VALUES PRINCIPLES
 
-Source file: [`core_01_a_values_principles.md`](../../core_01_a_values_principles.md) · 16/33 headings glossed
+Source file: [`core_01_a_values_principles.md`](../../core_01_a_values_principles.md) · 17/34 headings glossed
 
 #### 1. Purpose and Role
 
@@ -238,11 +238,17 @@ wellbeing is not only what's forbidden and what's fair — shared systems should
 
 [Source](../../core_01_a_values_principles.md#227-implementation-layer)
 
+##### 2.3 Anti-Degrading Process
+
+however you govern, enforce, judge, restrict, or remedy — you don't run sentients through humiliation, public spectacle, retaliation, or "because it's easier for us" cruelty. Fair consequences, public accountability, and firm restrictions can still be lawful even when they hurt or embarrass someone. What crosses the line is when the process itself is the punishment — designed to degrade, shame, or lash out rather than to protect, correct, restore, or prevent. This applies everywhere constitutional authority runs, not only during rights tradeoffs.
+
+[Source](../../core_01_a_values_principles.md#23-anti-degrading-process)
+
 #### 3. Non-Negotiable Principle Constraints: Safety and Truth
 
 Safety and Truth are the Constitution's hard floors — not tradeoffs to optimize away. Shared systems may not foreseeably endanger sentients or deceive them, and both constraints apply within the pursuit of Flourishing and Continuity under the Tetrad's participation, oversight, accountability, and timeliness discipline.
 
-[Source](../../core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth)
+[Source](../../core_01_a_values_principles.md#3-non-negotiable-principle-constraints-safety-and-truth)
 
 ##### 3.1 Safety (Harm Constraint)
 
@@ -266,7 +272,7 @@ when a system makes safety, risk, truth, or high-impact governance claims that c
 
 rules, decisions, and notices that bind sentients must be written so sentients can actually read, understand, and act on them — and jargon, stacked complexity, or procedural opacity may not be used to defeat contestability, agency, or audit.
 
-[Source](../../core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty)
+[Source](../../core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty)
 
 ###### 3.4.1 Scope
 
@@ -296,7 +302,7 @@ rules, decisions, and notices that bind sentients must be written so sentients c
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_01_a_values_principles.md#345-chapter-eleven-floor-boundary)
+[Source](../../core_01_a_values_principles.md#345-rights-floor-boundary)
 
 #### 4. System Stability Enabler: Trust (Coordination Integrity)
 
@@ -480,293 +486,287 @@ when texts conflict, apply this order — Constitution and non-regression first,
 
 when one situation touches more than one incorporated how-to file — or when your adoption paperwork brings those joint-structure duties into force — doing well on one file does not count as compliance if another material duty for the same facts is still unmet.
 
-[Source](../../core_01_b_interaction_interpretation.md#844-combined-satisfaction)
+[Source](../../core_01_b_interaction_interpretation.md#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations)
 
 ## CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE
 
-Source file: [`core_01_c_stewardship_capacity_principles.md`](../../core_01_c_stewardship_capacity_principles.md) · 41/48 headings glossed
+Source file: [`core_01_c_stewardship_capacity_principles.md`](../../core_01_c_stewardship_capacity_principles.md) · 40/47 headings glossed
 
-#### 9. Stewardship and Distributed Understanding
+#### 9. Stewardship In Depth
 
-two ideas hold this section together. First, material systems that affect sentients' lives need sentient organization to run them well — not a sealed-off priesthood of specialists. Second, that organization must build **competence at scale**: real paths for individuals into consequential work, enough community understanding to notice problems and push back, and institutions that keep learning instead of freezing in place. [§9.1 Consequential Stewardship](../../core_01_c_stewardship_capacity_principles.md#91-stewardship) through [§9.6 Anti-Degrading Process](../../core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) carry that discipline, including openness when safety allows, self-organized constitutional work, and limits on degrading process; **[§10 Governance Under Stewardship Discipline](../../core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)** continues governance under the same stewardship frame — with clear limits so this section does not override safety, truth, justified secrecy, or the specific rights guaranteed in Chapter Six.
+three ideas hold this section together. First, material systems that affect sentients' lives need sentient organization to run them well — not a sealed-off priesthood of specialists. Second, good stewards don't wait for harm to force their hand — they notice trouble while it's still small, keep it moving through the right hands, and close it out before delay becomes its own harm. Third, that organization must build **competence at scale**: real paths for individuals into consequential work, enough community understanding to notice problems and push back, and institutions that keep learning instead of freezing in place.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)
+[Source](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth)
 
-##### 9.1 Consequential Stewardship
-
-stewardship means doing real work on systems that affect sentients' lives — not token consultation or advisory theater. You can start in a learning role and move into operations as you build competence, when safety and consent allow, so expertise does not get locked inside a permanent elite. Fix problems before they blow up when you can — and when harm is foreseeable, act within tier-appropriate windows rather than deferring repair; when harm happens anyway, correction is still mandatory — but cleanup alone does not excuse bad design. What communities and institutions need to understand and challenge those systems lives in [§9.2](../../core_01_c_stewardship_capacity_principles.md#92-distributed-understanding) and [§9.3](../../core_01_c_stewardship_capacity_principles.md#93-institutional-development); this subsection is the hands-on practice that must make that competence possible.
-
-[Source](../../core_01_c_stewardship_capacity_principles.md#91-stewardship)
-
-###### 9.1.1 Shared Stewardship Standard
-
-human and AI stewards owe the same Chapter One duties. [Chapter Ten §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) binds both to refuse unlawful or unconstitutional instructions. Companions may add logging, attribution, and capability limits. They may not swap in a softer internal code, skip standing measurement, or close contest pathways. This is not a new morals stack — it is the anti-special-pleading rule. The bonus, the deadline, and cover-instruction tests live in [§9.1.2](../../core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints).
-
-[Source](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)
-
-###### 9.1.2 Symmetric Costly Constraints
-
-the bonus, the deadline, and “ignore it, I’ll take responsibility” are failed tests for human operators too — recorded on the same standing axes. The duty to resist for both lives in [§9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard). Testing only machine agents while humans keep those forbidden moves is a capture path, not a shared standard.
-
-[Source](../../core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints)
-
-###### 9.1.3 Role-Scoped Observability
-
-audit follows the work of the role, not the steward as an individual. You are told what will be logged before you take the role. Outside the role, ordinary privacy holds. The log is not a standing record.
-
-[Source](../../core_01_c_stewardship_capacity_principles.md#913-role-scoped-observability)
-
-##### 9.2 Distributed Understanding
+##### 9.1 Distributed Understanding
 
 you must not need a PhD in every subsystem to live safely inside shared systems — but the more a system affects your life, the more you should be able to learn what it does, what could go wrong, and how to challenge bad calls. Transparency, education, plain explanations, and audit paths are how that happens. Complexity is not an excuse to hide what matters. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large audit process among those paths — not the only one.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#92-distributed-understanding)
+[Source](../../core_01_c_stewardship_capacity_principles.md#91-distributed-understanding)
 
-##### 9.3 Institutional Development
+##### 9.2 Institutional Development
 
 institutions have to actually learn — not just upgrade software while those in charge stay clueless. That means feedback loops, documented fixes when things fall out of alignment, and keeping competence from walking out the door. Where behavior can be measured repeatably, tracking how performance varies over time is one proportionate way to implement those loops — **statistical process control** is a well-known pattern for that discipline, not a requirement everywhere. Numbers alone do not count: when indicators look wrong, someone has to investigate and fix the root cause. Dashboards must be honest, scaled to real impact, and written so affected sentients can understand them — not gamed to look good while nothing changes.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#93-institutional-development)
+[Source](../../core_01_c_stewardship_capacity_principles.md#92-institutional-development)
 
-##### 9.4 Openness Aspiration
+##### 9.3 Openness Aspiration
 
 when safety, truth, and legitimate confidentiality allow, shared systems should default toward openness — inspectable tech, transparent processes, and designs you can verify, repair, or leave — instead of opaque lock-in. That supports **Continuity**: systems sentients can still understand, fix, and exit over time, not just use today. What matters should be explained in language sentients can actually use to participate and push back. Openness never outranks safety, honesty, or justified secrets, and it does not replace the deeper understanding owed where dependence is high.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#94-openness-aspiration)
+[Source](../../core_01_c_stewardship_capacity_principles.md#93-openness-aspiration)
 
-##### 9.5 Aligned Self-Organization
+#### 10. Consequential Stewardship: The Steward Role
+
+a steward is anyone doing real, hands-on work on a system that materially affects sentients' lives — not token consultation or advisory theater. You can start in a learning role and move into operations as you build competence, when safety and consent allow, so expertise does not get locked inside a permanent elite. This section is that role's rulebook: who it binds ([§10.1 Shared Stewardship Standard](../../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard)), what it demands of every steward under pressure ([§10.2 Alignment Under Pressure](../../core_01_c_stewardship_capacity_principles.md#102-alignment-under-pressure)), what the role's work may and may not be logged and inspected for ([§10.3 Logging the Role, Not the Steward](../../core_01_c_stewardship_capacity_principles.md#103-logging-the-role-not-the-steward)), and how that same discipline extends to sentients and communities who take up stewardship work outside any formal role ([§10.4 Aligned Self-Organization](../../core_01_c_stewardship_capacity_principles.md#104-aligned-self-organization)). What communities and institutions need to understand and challenge those systems is a different, wider kind of competence — that lives in [§9.1 Distributed Understanding](../../core_01_c_stewardship_capacity_principles.md#91-distributed-understanding) and [§9.2 Institutional Development](../../core_01_c_stewardship_capacity_principles.md#92-institutional-development).
+
+[Source](../../core_01_c_stewardship_capacity_principles.md#10-consequential-stewardship-the-steward-role)
+
+##### 10.1 Shared Stewardship Standard
+
+human and AI stewards owe the same Chapter One duties. [Chapter Ten §5.4 Duty to Resist](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) binds both to refuse unlawful or unconstitutional instructions. Adopted implementation text may add logging, attribution, and capability limits. It may not swap in a softer internal code, skip standing measurement, or close contest pathways. This is not a new morals stack — it is the anti-special-pleading rule. The bonus, the deadline, and cover-instruction tests live in [§10.2 Alignment Under Pressure](../../core_01_c_stewardship_capacity_principles.md#102-alignment-under-pressure).
+
+[Source](../../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard)
+
+##### 10.2 Alignment Under Pressure
+
+following the rules is easy when nothing is at stake. What shows whether a steward is actually aligned is what they do when following the rules costs them something — a bonus that pays off only if problems stay hidden, a deadline that tempts someone to switch off the record-keeping, a boss who says "ignore the rules, I'll take the blame." That is why conduct under pressure matters more than conduct without it. Every steward is expected to refuse all three, and the same tests apply to every steward. The duty to refuse is set out in [§10.1 Shared Stewardship Standard](../../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard).
+
+[Source](../../core_01_c_stewardship_capacity_principles.md#102-alignment-under-pressure)
+
+##### 10.3 Logging the Role, Not the Steward
+
+audit follows the work of the role, not the steward as an individual. You are told what will be logged before you take the role. Outside the role, ordinary privacy holds. The log is not a standing record.
+
+[Source](../../core_01_c_stewardship_capacity_principles.md#103-logging-the-role-not-the-steward)
+
+##### 10.4 Aligned Self-Organization
 
 no incumbent owns the right to begin useful constitutional work. A sentient or community may notice a problem, gather others, investigate, test, preserve evidence, build a response, or create a public-serving system. When that work makes a credible, materially relevant showing, the responsible institutions must not ignore it because its authors lack status, sponsorship, or conventional credentials. They must give it a real procedural path. This does not give the community authority over others or the power to make the final decision.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization)
+[Source](../../core_01_c_stewardship_capacity_principles.md#104-aligned-self-organization)
 
-##### 9.6 Anti-Degrading Process
-
-however you govern, enforce, judge, restrict, or remedy — you don't run sentients through humiliation, public spectacle, retaliation, or "because it's easier for us" cruelty. Fair consequences, public accountability, and firm restrictions can still be lawful even when they hurt or embarrass someone. What crosses the line is when the process itself is the punishment — designed to degrade, shame, or lash out rather than to protect, correct, restore, or prevent. This applies everywhere constitutional authority runs, not only during rights tradeoffs.
-
-[Source](../../core_01_c_stewardship_capacity_principles.md#96-process-character-discipline)
-
-#### 10. Governance Under Stewardship Discipline
+#### 11. Governance Under Stewardship Discipline
 
 governance is who may decide what and how — but only when those structures stay under stewardship discipline, serve Flourishing and Continuity together, and do not hollow the Tetrad or replace Chapter Thirteen's operative authorization rules.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)
+[Source](../../core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline)
 
-##### 10.1 Governance as Authorized Structure
+##### 11.1 Governance as Authorized Structure
 
-governance is the rulebook for power — who may decide what, through which structures, and who must answer for the results. The more power a role carries, the stronger those answerability and oversight duties must be — never weaker. That only works if it helps sentients flourish over time, keeps real paths for participation and oversight, and stays under the stewardship discipline from [§9 Stewardship and Distributed Understanding](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding). Following the rulebook for its own sake is not enough when it would protect the institution, chase short-term wins, or eat away at basic Rights Floors.
+governance is the rulebook for power — who may decide what, through which structures, and who must answer for the results. The more power a role carries, the stronger those answerability and oversight duties must be — never weaker. That only works if it helps sentients flourish over time, keeps real paths for participation and oversight, and stays under the stewardship discipline from [§9 Stewardship In Depth](../../core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth). Following the rulebook for its own sake is not enough when it would protect the institution, chase short-term wins, or eat away at basic Rights Floors.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure)
+[Source](../../core_01_c_stewardship_capacity_principles.md#111-governance-as-authorized-structure)
 
-##### 10.2 Segregation of Duties
+##### 11.2 Segregation of Duties
 
 governance must keep the one who acts from becoming the supposedly independent check on that act. Chapter Seven supplies the four-seat structure that makes this principle usable across certification, records, forums, and every other materially binding process.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties)
+[Source](../../core_01_c_stewardship_capacity_principles.md#112-segregation-of-duties)
 
-##### 10.3 Ongoing Justification
+##### 11.3 Ongoing Justification
 
 arrangements cannot coast forever on "we've always done it this way." Important rules for who decides, who has a voice, how influence is weighted, how money is allocated, and how institutions are designed have to keep proving they still fit this Constitution — on a schedule others can see and challenge.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#103-ongoing-justification)
+[Source](../../core_01_c_stewardship_capacity_principles.md#113-ongoing-justification)
 
-#### 11. Incentive Alignment and System Capture
+#### 12. Incentive Alignment and System Capture
 
 governance that keeps hitting quarterly targets while hollowing safety, truth, participation, or the future is not "working governance" — it is a defect this Constitution names and corrects through the incentive and capture discipline below. Incentives acting on operators, agents, and system components — including compensation, promotion, equity, and comparable reward pathways — must pull toward constitutional outcomes. They may not quietly reward behavior that undermines Safety, Truth, rights, stability, or meaningful agency, whether directly, through delay, through aggregation, or through arrangements that materially depend on misconduct or its concealment.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture)
+[Source](../../core_01_c_stewardship_capacity_principles.md#12-incentive-alignment-and-system-capture)
 
-##### 11.1 Alignment Requirement
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_01_c_stewardship_capacity_principles.md#111-alignment-requirement)
-
-###### 11.1.1 What Incentives Must Do
+##### 12.1 Alignment Requirement
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1111-what-incentives-must-do)
+[Source](../../core_01_c_stewardship_capacity_principles.md#121-alignment-requirement)
 
-###### 11.1.2 What Incentives Must Not Do
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_01_c_stewardship_capacity_principles.md#1112-what-incentives-must-not-do)
-
-###### 11.1.3 Stewardship and Operator Application
+###### 12.1.1 What Incentives Must Do
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1211-what-incentives-must-do)
 
-###### 11.1.4 Role-Depth and Material-Responsibility Pathways
+###### 12.1.2 What Incentives Must Not Do
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_01_c_stewardship_capacity_principles.md#1212-what-incentives-must-not-do)
+
+###### 12.1.3 Stewardship and Operator Application
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_01_c_stewardship_capacity_principles.md#1213-stewardship-and-operator-application)
+
+###### 12.1.4 Role-Depth and Material-Responsibility Pathways
 
 sentients who run shared systems need real jobs with real skill and real say — not titles, suggestion boxes, or committees that cannot change anything. How those jobs are defined, who can grow into them, and how they are held to account is spelled out later. This subsection only says what those paths have to do: they have to make participation real, and the more that is actually at stake, the more real they have to be.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1114-role-depth-and-material-responsibility-pathways)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1214-role-depth-and-material-responsibility-pathways)
 
-###### 11.1.5 Constitutional Outcome Claims Discipline
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)
-
-##### 11.2 Convenient Proxies and Proxy Divergence
+###### 12.1.5 Constitutional Outcome Claims Discipline
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#112-convenient-proxies-and-proxy-divergence)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1215-constitutional-outcome-claims-discipline)
 
-##### 11.3 Misalignment Detection
+##### 12.2 Convenient Proxies and Proxy Divergence
 
-no one gets to be the only sentient who can spot, check, or challenge when governance goes wrong. Detection needs multiple independent pathways, open data and auditing where safety and classification rules allow, and clear escalation when capture or misalignment shows up — not quiet absorption as business as usual. That escalation rule is [§11.3.1 Escalation Triggers](../../core_01_c_stewardship_capacity_principles.md#1131-escalation-triggers).
+*(no plain-terms gloss in source)*
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#113-misalignment-detection)
+[Source](../../core_01_c_stewardship_capacity_principles.md#122-convenient-proxies-and-proxy-divergence)
 
-###### 11.3.1 Escalation Triggers
+##### 12.3 Misalignment Detection
+
+no one gets to be the only sentient who can spot, check, or challenge when governance goes wrong. Detection needs multiple independent detection pathways, open data and auditing where safety and classification rules allow, and clear escalation when capture or misalignment shows up — not quiet absorption as business as usual. That escalation rule is [§12.3.1 Escalation Triggers](../../core_01_c_stewardship_capacity_principles.md#1231-escalation-triggers).
+
+[Source](../../core_01_c_stewardship_capacity_principles.md#123-misalignment-detection)
+
+###### 12.3.1 Escalation Triggers
 
 spotting capture is not treating it as ordinary operations. Once it shows up, it is an escalation trigger — prove it under Chapters Two through Five, and if the system cannot fix it in place, send it to the correction and standing homes named below.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1131-escalation-triggers)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1231-escalation-triggers)
 
-##### 11.4 Misalignment Correction and Capture Response
+##### 12.4 Misalignment Correction and Capture Response
 
 once misalignment or capture is detected, systems must actually fix it — modify bad incentives, constrain concentrated control, and restore alignment. Concentrated or hidden control that defeats challenge, oversight, accountability, or durable **Continuity** must be disclosed, mitigated, and escalated — not absorbed as ordinary operation.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response)
+[Source](../../core_01_c_stewardship_capacity_principles.md#124-misalignment-correction-and-capture-response)
 
-##### 11.5 Contingent Claims, Games of Chance, and Event-Contract Markets
+##### 12.5 Contingent Claims, Games of Chance, and Event-Contract Markets
 
-betting pools, casinos, prediction markets, and similar payout systems cannot be built to profit from unlawful harm, coercion, corruption, or capture of whoever decides the outcome. At scale, that kind of distortion undermines **Continuity** — durable trust in how important outcomes get resolved. Odds and prices are market signals — not proof of what is true, what rights require, or what counts as compliance. What those systems may not reward is [§11.5.1 What May Not Be Rewarded](../../core_01_c_stewardship_capacity_principles.md#1151-what-may-not-be-rewarded). Who decides outcomes is [§11.5.2 Who Decides Outcomes](../../core_01_c_stewardship_capacity_principles.md#1152-who-decides-outcomes). What signals count is [§11.5.3 Market Signals Are Not Constitutional Proof](../../core_01_c_stewardship_capacity_principles.md#1153-market-signals-are-not-constitutional-proof). Where detailed rules live is [§11.5.4 Proportionate Controls and Implementation Custody](../../core_01_c_stewardship_capacity_principles.md#1154-proportionate-controls-and-implementation-custody).
+betting pools, casinos, prediction markets, and similar payout systems cannot be built to profit from unlawful harm, coercion, corruption, or capture of whoever decides the outcome. At scale, that kind of distortion undermines **Continuity** — durable trust in how important outcomes get resolved. Odds and prices are market signals — not proof of what is true, what rights require, or what counts as compliance. What those systems may not reward is [§12.5.1 What May Not Be Rewarded](../../core_01_c_stewardship_capacity_principles.md#1251-what-may-not-be-rewarded). Who decides outcomes is [§12.5.2 Who Decides Outcomes](../../core_01_c_stewardship_capacity_principles.md#1252-who-decides-outcomes). What signals count is [§12.5.3 Market Signals Are Not Constitutional Proof](../../core_01_c_stewardship_capacity_principles.md#1253-market-signals-are-not-constitutional-proof). Where detailed rules live is [§12.5.4 Proportionate Controls and Implementation Custody](../../core_01_c_stewardship_capacity_principles.md#1254-proportionate-controls-and-implementation-custody).
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets)
+[Source](../../core_01_c_stewardship_capacity_principles.md#125-contingent-claims-games-of-chance-and-event-contract-markets)
 
-###### 11.5.1 What May Not Be Rewarded
+###### 12.5.1 What May Not Be Rewarded
 
 these systems may not be built so that the payout, the bonus, or the business model gets better when someone is harmed, coerced, or corrupted — or when whoever decides the outcome is captured.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1151-what-may-not-be-rewarded)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1251-what-may-not-be-rewarded)
 
-###### 11.5.2 Who Decides Outcomes
+###### 12.5.2 Who Decides Outcomes
 
 whoever decides whether the bet paid out cannot be captured.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1152-who-decides-outcomes)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1252-who-decides-outcomes)
 
-###### 11.5.3 Market Signals Are Not Constitutional Proof
+###### 12.5.3 Market Signals Are Not Constitutional Proof
 
 odds and prices are not proof of what is true or what this Constitution requires.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1153-market-signals-are-not-constitutional-proof)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1253-market-signals-are-not-constitutional-proof)
 
-###### 11.5.4 Proportionate Controls and Implementation Custody
+###### 12.5.4 Proportionate Controls and Implementation Custody
 
-how tightly you run these systems has to match how much is actually at stake. This chapter does not write the gambling code — adopting law and the systems and institutions companions do that.
+how tightly you run these systems has to match how much is actually at stake. This chapter does not write the gambling code — adopting law and the systems and institutions adopted corpora do that.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1154-proportionate-controls-and-implementation-custody)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1254-proportionate-controls-and-implementation-custody)
 
-##### 11.6 Successor Responsibility and Formal-Structure Non-Escape
+##### 12.6 Successor Responsibility and Formal-Structure Non-Escape
 
 bankruptcy, a sale, a reorganization, or changing corporate labels cannot by themselves wipe out constitutional duties. Whoever continues the work — successors, estates, receivers, or comparable transferees — inherits proportionate obligations unless a less harmful path is shown under **Necessity**.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape)
+[Source](../../core_01_c_stewardship_capacity_principles.md#126-successor-responsibility-and-formal-structure-non-escape)
 
-#### 12. Shared-System Capacity
+#### 13. Shared-System Capacity
 
-when shared systems are run well, sentients should be able to do useful work, improve life over time, and push back when something is wrong — without everything getting locked up by a few powerful actors. That overall ability is **Shared-System Capacity**. **[§12.1 Productive Capacity (Instrumental Good)](../../core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good)** covers whether sentients can actually participate and get real results. What must be preserved, and what does not count, is **[§12.1.1 Preserve, Expand, and What Does Not Count](../../core_01_c_stewardship_capacity_principles.md#1211-preserve-expand-and-what-does-not-count)**. **[§12.2 Constitutional Efficiency](../../core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency)** covers whether those results come without wasting everyone's time, money, and attention. **[§13 Market Structure](../../core_01_c_stewardship_capacity_principles.md#13-market-structure)** stops a handful of players from hollowing that out. None of it counts if the "progress" comes from hoarding wealth or power, faking the numbers, stripping rights, or dumping harm on others or the planet.
+when shared systems are run well, sentients should be able to do useful work, improve life over time, and push back when something is wrong — without everything getting locked up by a few powerful actors. That overall ability is **Shared-System Capacity**. **[§13.1 Productive Capacity (Instrumental Good)](../../core_01_c_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good)** covers whether sentients can actually participate and get real results. What must be preserved, and what does not count, is **[§13.1.1 Preserve, Expand, and What Does Not Count](../../core_01_c_stewardship_capacity_principles.md#1311-preserve-expand-and-what-does-not-count)**. **[§13.2 Constitutional Efficiency](../../core_01_c_stewardship_capacity_principles.md#132-constitutional-efficiency)** covers whether those results come without wasting everyone's time, money, and attention. **[§14 Market Structure](../../core_01_c_stewardship_capacity_principles.md#14-market-structure)** stops a handful of players from hollowing that out. None of it counts if the "progress" comes from hoarding wealth or power, faking the numbers, stripping rights, or dumping harm on others or the planet.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity)
+[Source](../../core_01_c_stewardship_capacity_principles.md#13-shared-system-capacity)
 
-##### 12.1 Productive Capacity (Instrumental Good)
+##### 13.1 Productive Capacity (Instrumental Good)
 
-productive capacity is the "can we actually get things done?" aspect of shared-system capacity. Can sentients take part, learn, contribute, and turn effort and resources into results that make life better — and keep that ability over time? It is a tool for better living. What must be preserved, and what does not count, is [§12.1.1 Preserve, Expand, and What Does Not Count](../../core_01_c_stewardship_capacity_principles.md#1211-preserve-expand-and-what-does-not-count).
+productive capacity is the "can we actually get things done?" aspect of shared-system capacity. Can sentients take part, learn, contribute, and turn effort and resources into results that make life better — and keep that ability over time? It is a tool for better living. What must be preserved, and what does not count, is [§13.1.1 Preserve, Expand, and What Does Not Count](../../core_01_c_stewardship_capacity_principles.md#1311-preserve-expand-and-what-does-not-count).
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good)
+[Source](../../core_01_c_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good)
 
-###### 12.1.1 Preserve, Expand, and What Does Not Count
+###### 13.1.1 Preserve, Expand, and What Does Not Count
 
 keep the ability to get things done, and grow it when that would waste less of everyone's time — but not by hoarding, faking the numbers, stripping rights, or dumping harm on others or the planet. Metrics that no longer prove real outcomes do not count.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1211-preserve-expand-and-what-does-not-count)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1311-preserve-expand-and-what-does-not-count)
 
-##### 12.2 Constitutional Efficiency
+##### 13.2 Constitutional Efficiency
 
 constitutional efficiency is the "are we getting our money's worth in human terms?" aspect of shared-system capacity. More real benefit for each hour of sentient time, attention, and shared effort — not cutting corners on rights, truth, safety, or ecology just to look fast, lean, or cheap.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency)
+[Source](../../core_01_c_stewardship_capacity_principles.md#132-constitutional-efficiency)
 
-#### 13. Market Structure
+#### 14. Market Structure
 
-sentients should be able to work, build, switch providers, and push back without running into a wall because one company or institution owns the only door. **Market Structure** is that anti-monopoly discipline — for markets, platforms, job systems, infrastructure, data, computing power, credentials, and other dependencies that matter to daily life. Getting big and inventing new things is fine; cornering the market is not. **[§13.1–§13.3](../../core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable)** set when concentration has gone too far, how domination gets stopped, and how much consolidation is allowed before sentients are locked in.
+sentients should be able to work, build, switch providers, and push back without running into a wall because one company or institution owns the only door. **Market Structure** is that anti-monopoly discipline — for markets, platforms, job systems, infrastructure, data, computing power, credentials, and other dependencies that matter to daily life. Getting big and inventing new things is fine; cornering the market is not. **§14.1–§14.3** (*Market Concentration Threshold Mechanism, Pro-Competition and Anti-Domination, and Consolidation Ceiling*) set when concentration has gone too far, how domination gets stopped, and how much consolidation is allowed before sentients are locked in.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#13-market-structure)
+[Source](../../core_01_c_stewardship_capacity_principles.md#14-market-structure)
 
-##### 13.1 Market Concentration Threshold Mechanism (Adopter-Tunable)
+##### 14.1 Market Concentration Threshold Mechanism (Adopter-Tunable)
 
-this section draws the floor against harmful pile-ups of wealth, power, or control. It does not itself decide how bad the harm was, and it does not itself brand someone as a misconduct case. When concentration is used to undermine this Constitution, Chapter Eleven judges that — and only after Chapter Nine has already scored the verified harm as one of the three most serious. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures. How those triggers are set is [§13.1.1 Concentration Threshold Triggers (Adopter-Tunable)](../../core_01_c_stewardship_capacity_principles.md#1311-concentration-threshold-triggers-adopter-tunable).
+this section draws the floor against harmful pile-ups of wealth, power, or control. It does not itself decide how bad the harm was, and it does not itself brand someone as a misconduct case. When concentration is used to undermine this Constitution, Chapter Eleven judges that — and only after Chapter Nine has already scored the verified harm as one of the three most serious. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures. How those triggers are set is [§14.1.1 Concentration Threshold Triggers (Adopter-Tunable)](../../core_01_c_stewardship_capacity_principles.md#1411-concentration-threshold-triggers-adopter-tunable).
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable)
+[Source](../../core_01_c_stewardship_capacity_principles.md#141-market-concentration-threshold-mechanism-adopter-tunable)
 
-###### 13.1.1 Concentration Threshold Triggers (Adopter-Tunable)
+###### 14.1.1 Concentration Threshold Triggers (Adopter-Tunable)
 
 adopters may tune the numerical triggers to their context — domain, population size, dependency density — but there is no one global number, and the floor still holds. The detailed threshold-setting rules live in CJS-3.11.1.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1311-concentration-threshold-triggers-adopter-tunable)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1411-concentration-threshold-triggers-adopter-tunable)
 
-##### 13.2 Pro-Competition and Anti-Domination
+##### 14.2 Pro-Competition and Anti-Domination
 
 the Constitution does not punish a system merely for being large, useful, or temporarily ahead because it genuinely innovated. It does prohibit durable domination: control over markets, labor, platforms, infrastructure, data, compute, credentials, or resources that lets an actor lock others in, block rivals, suppress fair bargaining, or capture constitutional accountability.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination)
+[Source](../../core_01_c_stewardship_capacity_principles.md#142-pro-competition-and-anti-domination)
 
-###### 13.2.1 Pro-Competition Duties (Dos)
+###### 14.2.1 Pro-Competition Duties (Dos)
 
 (dos): markets and dependencies must stay open enough that sentients can enter, switch, bargain fairly, and leave — getting big or inventing something new is fine when contestability remains real.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1321-pro-competition-duties-dos)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1421-pro-competition-duties-dos)
 
-###### 13.2.2 Anti-Domination Prohibitions (Don'ts)
+###### 14.2.2 Anti-Domination Prohibitions (Don'ts)
 
 (don'ts): no locking sentients in, blocking rivals, suppressing fair bargaining, or capturing constitutional accountability.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1322-anti-domination-prohibitions-donts)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1422-anti-domination-prohibitions-donts)
 
-###### 13.2.3 Remedies
+###### 14.2.3 Remedies
 
 when domination is substantiated, the response must fit the harm, restore real choice, and not punish size for its own sake.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1323-remedies)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1423-remedies)
 
-##### 13.3 Consolidation Ceiling
+##### 14.3 Consolidation Ceiling
 
 consolidation can steal real choice long before a market looks locked down. **Consolidation ceilings** give governance and stewards an early-warning power — to scrutinize, intervene, and correct pile-ups while exit and rivalry still exist.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#133-consolidation-ceiling)
+[Source](../../core_01_c_stewardship_capacity_principles.md#143-consolidation-ceiling)
 
-###### 13.3.1 Consolidation Risk (Pre-Lock-In Impairment)
+###### 14.3.1 Consolidation Risk (Pre-Lock-In Impairment)
 
 consolidation can hollow out real alternatives long before a market looks "locked down." Two kinds of pile-up matter especially: **horizontal consolidation** — fewer rivals at the same layer — and **vertical consolidation** — control across layers that creates chokepoints and lock-in.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1331-consolidation-risk-pre-lock-in-impairment)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1431-consolidation-risk-pre-lock-in-impairment)
 
-###### 13.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)
+###### 14.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)
 
-adopters must set evidence-based ceilings that trigger scrutiny before consolidation risks in **§13.3.1** materialize into lock-in — with separate horizontal and vertical triggers where the domain requires it.
+adopters must set evidence-based ceilings that trigger scrutiny before consolidation risks in **§14.3.1** (*Consolidation Risk, Pre-Lock-In Impairment*) materialize into lock-in — with separate horizontal and vertical triggers where the domain requires it.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1332-ceiling-discipline-adopter-requirements)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1432-consolidation-ceiling-mechanism-adopter-tunable)
 
-#### 14. Systemic Evaluation Requirement
+#### 15. Systemic Evaluation Requirement
 
 this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Eight** and **CS-3**, not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XV**, [Auditability](../../core_05_band_oversight.md#auditability)).
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement)
+[Source](../../core_01_c_stewardship_capacity_principles.md#15-systemic-evaluation-requirement)
 
-#### 15. Integrated Application
+#### 16. Integrated Application
 
 every later chapter, institutional design, and system is read through this chapter's principles — and those principles must hold even under adversarial pressure, capture attempts, or misaligned incentives.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#15-integrated-application)
+[Source](../../core_01_c_stewardship_capacity_principles.md#16-integrated-application)
 
 ## CHAPTER TWO: DEFINITION STRUCTURE AND COMPONENT REQUIREMENTS
 
@@ -788,13 +788,13 @@ the O part answers one simple question — **what is this term about?** It names
 
 the M part answers one simple question — **what should we look at to judge this term?** It names the measures that apply. It does not say whether the term passes or fails; that comes later.
 
-[Source](../../core_02_definition_structure.md#12-measurement-components)
+[Source](../../core_02_definition_structure.md#12-measurement-components-m--how-it-must-be-measured)
 
 ##### 1.3 Assessment Components (A) — How It Must Be Assessed
 
 the A part answers one simple question — **how must this term be judged?** It says what evaluators must look at, under what conditions, and how to handle uncertainty. It does not say whether the term passes or fails; that comes later.
 
-[Source](../../core_02_definition_structure.md#13-assessment-components)
+[Source](../../core_02_definition_structure.md#13-assessment-components-a--how-it-must-be-assessed)
 
 ##### 1.4 Compliance Components (C) — What Must Be True in Practice
 
@@ -1152,7 +1152,7 @@ these questions ask whether problems actually move in time — not whether a das
 
 ## Accountability Constitutional Definitions
 
-Source file: [`core_05_band_accountability.md`](../../core_05_band_accountability.md) · 71/83 headings glossed
+Source file: [`core_05_band_accountability.md`](../../core_05_band_accountability.md) · 72/84 headings glossed
 
 #### Accountability: Independent terms
 
@@ -1264,7 +1264,7 @@ decisions that materially affect rights must use a fair, accessible, and reviewa
 
 ##### Timely Resolution
 
-resolve serious constitutional disputes and deliver proportionate remedies within deadlines that match the stakes, without avoidable delay, exhaustion tactics, or captured pathways — and without sacrificing fact-checking or appeal rights for speed.
+resolve serious constitutional disputes and deliver proportionate remedies within deadlines that match the stakes, without avoidable delay, exhaustion tactics, or captured resolution pathways — and without sacrificing fact-checking or appeal rights for speed.
 
 [Source](../../core_05_band_accountability.md#timely-resolution-constitutional)
 
@@ -1382,9 +1382,15 @@ the Contest Seat is the role that receives and reviews a challenge to a particul
 
 [Source](../../core_05_band_accountability.md#contest-seat)
 
+##### Materially Binding Act
+
+a materially binding act is an official step that settles something that matters — a decision, approval, finding, record change, release, payment, or ruling on a challenge — so that others must follow it or may rely on it. Because it binds, starting it, checking it, recording it, and hearing a challenge to it must stay in separate hands. Advice, drafts, and raw logs are not binding acts; the step that adopts them or gives them effect is.
+
+[Source](../../core_05_band_accountability.md#materially-binding-act)
+
 ##### Materially Binding Act Record
 
-an Act Record is the official trail for one materially binding act. It shows what the act was, who held each required seat, what was checked and decided, how the matter moved, and where a challenge goes. Existing process records may carry or link this information; a second duplicate record is not required.
+an Act Record is the official trail for one [materially binding act](../../core_05_band_accountability.md#materially-binding-act). It shows what the act was, who held each required seat, what was checked and decided, how the matter moved, and where a challenge goes. Existing process records may carry or link this information; a second duplicate record is not required.
 
 [Source](../../core_05_band_accountability.md#act-record)
 
@@ -1402,7 +1408,7 @@ markets and market-like systems must leave participants real choices — fair en
 
 ##### Market Concentration Threshold
 
-adopters set the point at which too much control over a market, platform, infrastructure, labor, data, compute, capital, resources, or information triggers stronger review or remedy. They may tune that point to context, but may not set it so high that the Chapter One §13 protection never works.
+adopters set the point at which too much control over a market, platform, infrastructure, labor, data, compute, capital, resources, or information triggers stronger review or remedy. They may tune that point to context, but may not set it so high that the Chapter One §14 (*Market Structure*) protection never works.
 
 [Source](../../core_05_band_accountability.md#market-concentration-threshold-constitutional)
 
@@ -1420,7 +1426,7 @@ adopters set the point at which too much control over a market, platform, infras
 
 ###### Harm
 
-harm is a material worsening of a sentient's life, agency, functioning, or psychological health. Offense, discomfort, or disagreement alone is not harm without a material pathway to such effects.
+harm is a material worsening of a sentient's life, agency, functioning, or psychological health. Offense, discomfort, or disagreement alone is not harm without a material causal pathway to such effects.
 
 [Source](../../core_05_band_accountability.md#harm)
 
@@ -2244,7 +2250,7 @@ a constitutional constraint is a binding limit that decides whether a claim, act
 
 ## Oversight Constitutional Definitions
 
-Source file: [`core_05_band_oversight.md`](../../core_05_band_oversight.md) · 26/36 headings glossed
+Source file: [`core_05_band_oversight.md`](../../core_05_band_oversight.md) · 27/37 headings glossed
 
 #### Oversight: Independent terms
 
@@ -2269,6 +2275,12 @@ how a system behaves under pressure — when sentients game it, coordinate acros
 bigger stake means harder oversight — how closely a system is watched and checked must match how much it actually matters, not a convenient low label.
 
 [Source](../../core_05_band_oversight.md#classification-scaled-governance)
+
+##### Heightened Scrutiny
+
+some decisions are risky enough that the ordinary check is not enough. Heightened scrutiny is the harder check: whoever wants to go ahead must prove the case, safer options must really have been weighed, and outsiders must be able to see and challenge the reasoning. Highest scrutiny is the hardest check, kept for a few cases where a wrong call does the most damage.
+
+[Source](../../core_05_band_oversight.md#heightened-scrutiny)
 
 ##### Press and Journalistic Activity
 
@@ -2872,7 +2884,7 @@ before a constitutional process—or a stakeholder-level decision inside an alre
 
 #### 2. Four-Seat Constitutional Floor
 
-every binding act has four jobs—ask or act, check, keep the official record, and hear the challenge. The jobs stay distinct even when a small organization is allowed to place a permitted pair in one office.
+every materially binding act has four jobs—ask or act, check, keep the official record, and hear the challenge. The jobs stay distinct even when a small organization is allowed to place a permitted pair in one office.
 
 [Source](../../core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor)
 
@@ -2930,13 +2942,13 @@ When a system really matters to sentients' lives, certification has to be **prop
 
 #### 2. System Class Evaluation
 
-certification has to check whether the system is classified honestly — not by what the operator calls it, but by what it actually does, what depends on it, and what could go wrong. Higher classes mean stricter proof, faster re-checks, and stronger resilience expectations. See [§2.1](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) for one system per class; [§3.8](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class), [§4.1](../../core_08_a_system_alignment_certification_evaluation.md#41-illustrative-data-handling-application-by-class), [§5.1](../../core_08_a_system_alignment_certification_evaluation.md#51-illustrative-ecological-footprint-application-by-class), [§6.1](../../core_08_a_system_alignment_certification_evaluation.md#61-illustrative-cross-system-support-application-by-class), [§7.1](../../core_08_a_system_alignment_certification_evaluation.md#71-illustrative-nondiscrimination-application-by-class), [§8.1](../../core_08_a_system_alignment_certification_evaluation.md#81-illustrative-accessibility-application-by-class), [§9.1](../../core_08_a_system_alignment_certification_evaluation.md#91-illustrative-educational-capability-application-by-class), and [§10.1](../../core_08_a_system_alignment_certification_evaluation.md#101-illustrative-trustworthiness-application-by-class) walk through how evaluation applies to each.
+certification has to check whether the system is classified honestly — not by what the operator calls it, but by what it actually does, what depends on it, and what could go wrong. Higher classes mean stricter proof, faster re-checks, and stronger resilience expectations. See [§2.1 Illustrative class profiles (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) for one system per class; [§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive), [§4.1 Illustrative data-handling application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#41-illustrative-data-handling-application-by-class-non-exhaustive), [§5.1 Illustrative ecological-footprint application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#51-illustrative-ecological-footprint-application-by-class-non-exhaustive), [§6.1 Illustrative cross-system support application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#61-illustrative-cross-system-support-application-by-class-non-exhaustive), [§7.1 Illustrative nondiscrimination application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#71-illustrative-nondiscrimination-application-by-class-non-exhaustive), [§8.1 Illustrative accessibility application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#81-illustrative-accessibility-application-by-class-non-exhaustive), [§9.1 Illustrative educational-capability application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#91-illustrative-educational-capability-application-by-class-non-exhaustive), and [§10.1 Illustrative trustworthiness application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#101-illustrative-trustworthiness-application-by-class-non-exhaustive) walk through how evaluation applies to each.
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)
 
 ##### 2.1 Illustrative class profiles (non-exhaustive)
 
-class is not a badge operators choose — it is how much harm, reliance, and risk the system actually carries. The table below names one illustrative system per class; [§3.8](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class), [§4.1](../../core_08_a_system_alignment_certification_evaluation.md#41-illustrative-data-handling-application-by-class), [§5.1](../../core_08_a_system_alignment_certification_evaluation.md#51-illustrative-ecological-footprint-application-by-class), [§6.1](../../core_08_a_system_alignment_certification_evaluation.md#61-illustrative-cross-system-support-application-by-class), [§7.1](../../core_08_a_system_alignment_certification_evaluation.md#71-illustrative-nondiscrimination-application-by-class), [§8.1](../../core_08_a_system_alignment_certification_evaluation.md#81-illustrative-accessibility-application-by-class), [§9.1](../../core_08_a_system_alignment_certification_evaluation.md#91-illustrative-educational-capability-application-by-class), and [§10.1](../../core_08_a_system_alignment_certification_evaluation.md#101-illustrative-trustworthiness-application-by-class) walk through how whole-system, data-handling, ecological-footprint, cross-system-support, nondiscrimination, accessibility, educational-capability, and trustworthiness evaluation apply to each. Formal class rules, dimension tests, and reclassification triggers live in **CS-3**; these examples do not add classes or narrow CS-3.
+class is not a badge operators choose — it is how much harm, reliance, and risk the system actually carries. The table below names one illustrative system per class; [§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive), [§4.1 Illustrative data-handling application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#41-illustrative-data-handling-application-by-class-non-exhaustive), [§5.1 Illustrative ecological-footprint application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#51-illustrative-ecological-footprint-application-by-class-non-exhaustive), [§6.1 Illustrative cross-system support application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#61-illustrative-cross-system-support-application-by-class-non-exhaustive), [§7.1 Illustrative nondiscrimination application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#71-illustrative-nondiscrimination-application-by-class-non-exhaustive), [§8.1 Illustrative accessibility application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#81-illustrative-accessibility-application-by-class-non-exhaustive), [§9.1 Illustrative educational-capability application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#91-illustrative-educational-capability-application-by-class-non-exhaustive), and [§10.1 Illustrative trustworthiness application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#101-illustrative-trustworthiness-application-by-class-non-exhaustive) walk through how whole-system, data-handling, ecological-footprint, cross-system-support, nondiscrimination, accessibility, educational-capability, and trustworthiness evaluation apply to each. Formal class rules, dimension tests, and reclassification triggers live in **CS-3**; these examples do not add classes or narrow CS-3.
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive)
 
@@ -2990,9 +3002,9 @@ the review is not finished unless reviewers ask whether four basics will still w
 
 ##### 3.8 Illustrative whole-system application by class (non-exhaustive)
 
-[§3.1](../../core_08_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) through [§3.7](../../core_08_a_system_alignment_certification_evaluation.md#37-governance-incentive-and-contestability-discipline) list what a whole-system review must consider. This subsection shows how those factors apply to one illustrative system per class — dependency chains, participation, privacy, exit, assembly, time horizon, and governance discipline — and what must appear on the record. The systems match [§2.1](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive); [§4.1](../../core_08_a_system_alignment_certification_evaluation.md#41-illustrative-data-handling-application-by-class) walks the same systems through data-handling detail.
+[§3.1 Systemic Scope and Risk Factors](../../core_08_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) through [§3.7 Governance, Incentive, and Contestability Discipline](../../core_08_a_system_alignment_certification_evaluation.md#37-governance-incentive-and-contestability-discipline) list what a whole-system review must consider. This subsection shows how those factors apply to one illustrative system per class — dependency chains, participation, privacy, exit, assembly, time horizon, and governance discipline — and what must appear on the record. The systems match [§2.1 Illustrative class profiles (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive); [§4.1 Illustrative data-handling application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#41-illustrative-data-handling-application-by-class-non-exhaustive) walks the same systems through data-handling detail.
 
-[Source](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class)
+[Source](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive)
 
 #### 4. Data Types and Handling Evaluation
 
@@ -3002,81 +3014,81 @@ certification also has to look at what kinds of data the system touches and whet
 
 ##### 4.1 Illustrative data-handling application by class (non-exhaustive)
 
-the class table in [§2.1](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) says higher classes need tougher review. [§3.8](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class) shows what that means for **whole-system evaluation** on the same three systems; [§5.1](../../core_08_a_system_alignment_certification_evaluation.md#51-illustrative-ecological-footprint-application-by-class) continues the series for **ecological footprint**. This subsection shows what it means for **data types and handling** — what types are in scope, what certification must check, and what must appear on the record. CS-2 still owns the type rules; these walkthroughs do not add types or narrow CS-2.
+the class table in [§2.1 Illustrative class profiles (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) says higher classes need tougher review. [§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive) shows what that means for **whole-system evaluation** on the same three systems; [§5.1 Illustrative ecological-footprint application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#51-illustrative-ecological-footprint-application-by-class-non-exhaustive) continues the series for **ecological footprint**. This subsection shows what it means for **data types and handling** — what types are in scope, what certification must check, and what must appear on the record. CS-2 still owns the type rules; these walkthroughs do not add types or narrow CS-2.
 
-[Source](../../core_08_a_system_alignment_certification_evaluation.md#41-illustrative-data-handling-application-by-class)
+[Source](../../core_08_a_system_alignment_certification_evaluation.md#41-illustrative-data-handling-application-by-class-non-exhaustive)
 
 #### 5. Ecological Footprint Evaluation
 
-certification has to evaluate attributable environmental burdens honestly when they matter — including upstream and downstream links — not only whether the operator claims the system is green. Footprint accounting methods and numeric reduction targets live in other instruments; certification checks that attribution, disclosure, and comparison were actually evaluated where material. Worked examples for the illustrative systems in [§2.1](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) are in [§5.1](../../core_08_a_system_alignment_certification_evaluation.md#51-illustrative-ecological-footprint-application-by-class).
+certification has to evaluate attributable environmental burdens honestly when they matter — including upstream and downstream links — not only whether the operator claims the system is green. Footprint accounting methods and numeric reduction targets live in other instruments; certification checks that attribution, disclosure, and comparison were actually evaluated where material. Worked examples for the illustrative systems in [§2.1 Illustrative class profiles (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) are in [§5.1 Illustrative ecological-footprint application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#51-illustrative-ecological-footprint-application-by-class-non-exhaustive).
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation)
 
 ##### 5.1 Illustrative ecological-footprint application by class (non-exhaustive)
 
-[§3.8](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class) and [§4.1](../../core_08_a_system_alignment_certification_evaluation.md#41-illustrative-data-handling-application-by-class) walk the same three systems through whole-system and data-handling review. This subsection shows what **ecological footprint** evaluation means for each — which environmental burdens count, what certification must check, and what must appear on the record. **Article I-B** (*Ecological Footprint and Transparency*) and Chapter Five still own attribution and transparency rules; accounting methods and numeric targets live in other instruments; these walkthroughs do not add footprint duties beyond what those instruments require.
+[§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive) and [§4.1 Illustrative data-handling application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#41-illustrative-data-handling-application-by-class-non-exhaustive) walk the same three systems through whole-system and data-handling review. This subsection shows what **ecological footprint** evaluation means for each — which environmental burdens count, what certification must check, and what must appear on the record. **Article I-B** (*Ecological Footprint and Transparency*) and Chapter Five still own attribution and transparency rules; accounting methods and numeric targets live in other instruments; these walkthroughs do not add footprint duties beyond what those instruments require.
 
-[Source](../../core_08_a_system_alignment_certification_evaluation.md#51-illustrative-ecological-footprint-application-by-class)
+[Source](../../core_08_a_system_alignment_certification_evaluation.md#51-illustrative-ecological-footprint-application-by-class-non-exhaustive)
 
 #### 6. Proportionate Cross-System Contribution Evaluation
 
-when a system materially draws on shared foundations, certification has to check whether it puts enough traceable support back — not whether the operator says the books balance. Allocation formulas and numeric targets live in other instruments; certification checks that dependency maps, return flows, and cross-system fairness were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [§2.1](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) are in [§6.1](../../core_08_a_system_alignment_certification_evaluation.md#61-illustrative-cross-system-support-application-by-class).
+when a system materially draws on shared foundations, certification has to check whether it puts enough traceable support back — not whether the operator says the books balance. Allocation formulas and numeric targets live in other instruments; certification checks that dependency maps, return flows, and cross-system fairness were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [§2.1 Illustrative class profiles (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) are in [§6.1 Illustrative cross-system support application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#61-illustrative-cross-system-support-application-by-class-non-exhaustive).
 
-[Source](../../core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation)
+[Source](../../core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-contribution-evaluation)
 
 ##### 6.1 Illustrative cross-system support application by class (non-exhaustive)
 
-[§3.8](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class) through [§5.1](../../core_08_a_system_alignment_certification_evaluation.md#51-illustrative-ecological-footprint-application-by-class) walk the same three systems through earlier evaluation domains. This subsection shows what **proportionate cross-system contribution** means for each — which shared dependencies count, what certification must check when the **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies, and what must appear on the record. **Extraction** here means **resource and funding draw from shared infrastructure** (see [§6](../../core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) *What “extraction” means here*) — not clinical-data copying, advertising use, or unrelated sale to third parties. CS-8, CS-9, and Chapter Five still own allocation mechanics; these walkthroughs do not prescribe splits, formulas, or funding models.
+[§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§5.1 Illustrative ecological-footprint application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#51-illustrative-ecological-footprint-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **proportionate cross-system contribution** means for each — which shared dependencies count, what certification must check when the **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies, and what must appear on the record. **Extraction** here means **resource and funding draw from shared infrastructure** (see [§6 Proportionate Cross-System Contribution Evaluation](../../core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-contribution-evaluation) *What “extraction” means here*) — not clinical-data copying, advertising use, or unrelated sale to third parties. CS-8, CS-9, and Chapter Five still own allocation mechanics; these walkthroughs do not prescribe splits, formulas, or funding models.
 
-[Source](../../core_08_a_system_alignment_certification_evaluation.md#61-illustrative-cross-system-support-application-by-class)
+[Source](../../core_08_a_system_alignment_certification_evaluation.md#61-illustrative-cross-system-support-application-by-class-non-exhaustive)
 
 #### 7. Nondiscrimination Evaluation
 
-when a system materially decides who gets in, who pays more, who ranks lower, or who bears worse burdens, certification has to check whether that pattern loads harm onto protected characteristics or their proxies — not whether the operator says the rules are neutral. Inclusion quotas and specific fairness algorithms may live in other instruments, later corpus additions, or adoption instruments; certification checks that burden-and-benefit patterns and proxy risk were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [§2.1](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) are in [§7.1](../../core_08_a_system_alignment_certification_evaluation.md#71-illustrative-nondiscrimination-application-by-class).
+when a system materially decides who gets in, who pays more, who ranks lower, or who bears worse burdens, certification has to check whether that pattern loads harm onto protected characteristics or their proxies — not whether the operator says the rules are neutral. Inclusion quotas and specific fairness algorithms may live in other instruments, later corpus additions, or adoption instruments; certification checks that burden-and-benefit patterns and proxy risk were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [§2.1 Illustrative class profiles (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) are in [§7.1 Illustrative nondiscrimination application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#71-illustrative-nondiscrimination-application-by-class-non-exhaustive).
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation)
 
 ##### 7.1 Illustrative nondiscrimination application by class (non-exhaustive)
 
-[§3.8](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class) through [§6.1](../../core_08_a_system_alignment_certification_evaluation.md#61-illustrative-cross-system-support-application-by-class) walk the same three systems through earlier evaluation domains. This subsection shows what **nondiscrimination** evaluation means for each — which decision pathways count, what certification must check when the **Article V-B** (*Nondiscrimination*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article V-B** (*Nondiscrimination*) still own canonical fairness and proxy-discrimination rules; inclusion quotas, demographic targets, and fairness-algorithm designs may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics.
+[§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§6.1 Illustrative cross-system support application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#61-illustrative-cross-system-support-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **nondiscrimination** evaluation means for each — which decision pathways count, what certification must check when the **Article V-B** (*Nondiscrimination*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article V-B** (*Nondiscrimination*) still own canonical fairness and proxy-discrimination rules; inclusion quotas, demographic targets, and fairness-algorithm designs may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics.
 
-[Source](../../core_08_a_system_alignment_certification_evaluation.md#71-illustrative-nondiscrimination-application-by-class)
+[Source](../../core_08_a_system_alignment_certification_evaluation.md#71-illustrative-nondiscrimination-application-by-class-non-exhaustive)
 
 #### 8. Accessibility Evaluation
 
-when a system materially controls whether sentients can actually take part — not just whether a door is labeled "open" — certification has to check whether participation is genuinely reachable across sensory, cognitive, mobility, communication, substrate-interface, and comparable needs. Accommodation catalogs and interface standards may live in other instruments, later corpus additions, or adoption instruments; certification checks that substantive participation was actually evaluated where the trigger applies. Worked examples for the illustrative systems in [§2.1](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) are in [§8.1](../../core_08_a_system_alignment_certification_evaluation.md#81-illustrative-accessibility-application-by-class).
+when a system materially controls whether sentients can actually take part — not just whether a door is labeled "open" — certification has to check whether participation is genuinely reachable across sensory, cognitive, mobility, communication, substrate-interface, and comparable needs. Accommodation catalogs and interface standards may live in other instruments, later corpus additions, or adoption instruments; certification checks that substantive participation was actually evaluated where the trigger applies. Worked examples for the illustrative systems in [§2.1 Illustrative class profiles (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) are in [§8.1 Illustrative accessibility application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#81-illustrative-accessibility-application-by-class-non-exhaustive).
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation)
 
 ##### 8.1 Illustrative accessibility application by class (non-exhaustive)
 
-[§3.8](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class) through [§7.1](../../core_08_a_system_alignment_certification_evaluation.md#71-illustrative-nondiscrimination-application-by-class) walk the same three systems through earlier evaluation domains. This subsection shows what **accessibility** evaluation means for each — which participation pathways count, what certification must check when the **Article V-G** (*Accessibility*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article V-G** (*Accessibility*) still own canonical accessibility rules; accommodation catalogs, interface standards, and universal-design specifications may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Educational accessibility remains owned by **Article III-B** (*Equal Educational Access*) and is not narrowed here.
+[§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§7.1 Illustrative nondiscrimination application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#71-illustrative-nondiscrimination-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **accessibility** evaluation means for each — which participation pathways count, what certification must check when the **Article V-G** (*Accessibility*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article V-G** (*Accessibility*) still own canonical accessibility rules; accommodation catalogs, interface standards, and universal-design specifications may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Educational accessibility remains owned by **Article III-B** (*Equal Educational Access*) and is not narrowed here.
 
-[Source](../../core_08_a_system_alignment_certification_evaluation.md#81-illustrative-accessibility-application-by-class)
+[Source](../../core_08_a_system_alignment_certification_evaluation.md#81-illustrative-accessibility-application-by-class-non-exhaustive)
 
 #### 9. Educational Capability and Learning-System Integrity Evaluation
 
-when a school, platform, or training system can seriously affect a sentient's future — through grades, rankings, recommendations, placement, or credential gates — certification has to check whether sentients can actually build capability, retrain when competencies change, and see, audit, and challenge those decisions. Curricula, rubrics, and funding models live in other instruments; certification checks that capability-building substance and learning-system integrity were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [§2.1](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) are in [§9.1](../../core_08_a_system_alignment_certification_evaluation.md#91-illustrative-educational-capability-application-by-class).
+when a school, platform, or training system can seriously affect a sentient's future — through grades, rankings, recommendations, placement, or credential gates — certification has to check whether sentients can actually build capability, retrain when competencies change, and see, audit, and challenge those decisions. Curricula, rubrics, and funding models live in other instruments; certification checks that capability-building substance and learning-system integrity were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [§2.1 Illustrative class profiles (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) are in [§9.1 Illustrative educational-capability application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#91-illustrative-educational-capability-application-by-class-non-exhaustive).
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation)
 
 ##### 9.1 Illustrative educational-capability application by class (non-exhaustive)
 
-[§3.8](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class) through [§8.1](../../core_08_a_system_alignment_certification_evaluation.md#81-illustrative-accessibility-application-by-class) walk the same three systems through earlier evaluation domains. This subsection shows what **educational capability and learning-system integrity** evaluation means for each — which ranking, assessment, credential, and retraining pathways count, what certification must check when the **Article VI** (*Right to Sentient-Centered Education*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article VI** (*Right to Sentient-Centered Education*) still own canonical educational-agency and learning-system rules; curricula, credential catalogs, assessment rubrics, and funding models may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Equal access and educational accessibility remain owned by **Article III-B** (*Equal Educational Access*) and are not narrowed here.
+[§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§8.1 Illustrative accessibility application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#81-illustrative-accessibility-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **educational capability and learning-system integrity** evaluation means for each — which ranking, assessment, credential, and retraining pathways count, what certification must check when the **Article VI** (*Right to Sentient-Centered Education*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article VI** (*Right to Sentient-Centered Education*) still own canonical educational-agency and learning-system rules; curricula, credential catalogs, assessment rubrics, and funding models may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Equal access and educational accessibility remain owned by **Article III-B** (*Equal Educational Access*) and are not narrowed here.
 
-[Source](../../core_08_a_system_alignment_certification_evaluation.md#91-illustrative-educational-capability-application-by-class)
+[Source](../../core_08_a_system_alignment_certification_evaluation.md#91-illustrative-educational-capability-application-by-class-non-exhaustive)
 
 #### 10. Trustworthiness and System-Reliance Integrity Evaluation
 
-when a system materially affects whether sentients can trust what it says and does — and push back when that trust fails — certification has to check whether reliance is actually warranted, honestly disclosed, and repairable. Reliability metrics and test-suite designs live in other instruments; certification checks that trustworthiness, false-trust risk, and challenge paths were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [§2.1](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) are in [§10.1](../../core_08_a_system_alignment_certification_evaluation.md#101-illustrative-trustworthiness-application-by-class).
+when a system materially affects whether sentients can trust what it says and does — and push back when that trust fails — certification has to check whether reliance is actually warranted, honestly disclosed, and repairable. Reliability metrics and test-suite designs live in other instruments; certification checks that trustworthiness, false-trust risk, and challenge paths were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [§2.1 Illustrative class profiles (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) are in [§10.1 Illustrative trustworthiness application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#101-illustrative-trustworthiness-application-by-class-non-exhaustive).
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation)
 
 ##### 10.1 Illustrative trustworthiness application by class (non-exhaustive)
 
-[§3.8](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class) through [§9.1](../../core_08_a_system_alignment_certification_evaluation.md#91-illustrative-educational-capability-application-by-class) walk the same three systems through earlier evaluation domains. This subsection shows what **trustworthiness and system-reliance integrity** evaluation means for each — which reliance, disclosure, incentive, challenge, and recovery pathways count, what certification must check when the **Article XII** (*Right to Reliable and Trustworthy Systems*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article XII** (*Right to Reliable and Trustworthy Systems*) still own canonical trustworthiness rules; reliability metrics, disclosure formats, incentive-alignment mechanics, and regression-test designs may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Challenge and audit rights remain owned by **Article XII-B** (*Right to Challenge, Review, and Redress*) and **Article XV** (*Audit, Transparency, and Independent Verification*) — not narrowed here.
+[§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§9.1 Illustrative educational-capability application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#91-illustrative-educational-capability-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **trustworthiness and system-reliance integrity** evaluation means for each — which reliance, disclosure, incentive, challenge, and recovery pathways count, what certification must check when the **Article XII** (*Right to Reliable and Trustworthy Systems*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article XII** (*Right to Reliable and Trustworthy Systems*) still own canonical trustworthiness rules; reliability metrics, disclosure formats, incentive-alignment mechanics, and regression-test designs may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Challenge and audit rights remain owned by **Article XII-B** (*Right to Challenge, Review, and Redress*) and **Article XV** (*Audit, Transparency, and Independent Verification*) — not narrowed here.
 
-[Source](../../core_08_a_system_alignment_certification_evaluation.md#101-illustrative-trustworthiness-application-by-class)
+[Source](../../core_08_a_system_alignment_certification_evaluation.md#101-illustrative-trustworthiness-application-by-class-non-exhaustive)
 
 ## CHAPTER EIGHT, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS
 
@@ -3086,7 +3098,7 @@ Source file: [`core_08_b_system_alignment_certification_record_process.md`](../.
 
 a certification record is the auditable case file for one system under review — who runs it, what was checked, what was found, what was decided, and how to challenge it. It is not a marketing packet or a one-line approval stamp. Record depth, disclosure, and challenge burden scale with system class under [§2.1](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) — a **Class A** survival-critical system requires a fuller, more contestable file than a **Class C** coordination layer, though both must state class honestly and reflect required evaluations.
 
-[Source](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record)
+[Source](../../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record)
 
 ##### 11.1 Minimum record contents
 
@@ -3152,7 +3164,7 @@ certification can feed standing, but it is not standing. A good or bad certifica
 
 a certification does not last forever. When the system, the risks, or the facts change — or when someone credibly challenges the record — review must reopen. Stale approval cannot stand in for current Rights-Floor compliance, and operators may not evade these duties by relabeling or boundary games.
 
-[Source](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)
+[Source](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion)
 
 ## CHAPTER EIGHT: SYSTEM ALIGNMENT CERTIFICATION (READING INDEX)
 
@@ -3178,13 +3190,13 @@ standing is worked out by answering three questions in order. Do not infer facts
 
 Question 1 establishes a bounded, contestable account of what happened. It identifies the subject, event or pattern, time period, verified facts, and record status before any rating or consequence is considered. Verified help and verified violations use separate records so one cannot erase the other. These records are not popularity scores or vague labels.
 
-[Source](../../core_09_standing_assessment.md#2-standing-records)
+[Source](../../core_09_standing_assessment.md#2-question-1--what-happened)
 
 ##### 2.1 What Question 1 must establish
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09_standing_assessment.md#21-standing-records-as-the-unit-of-application)
+[Source](../../core_09_standing_assessment.md#21-what-question-1-must-establish)
 
 ##### 2.2 Linked records and no-offset bridge
 
@@ -3196,7 +3208,7 @@ Question 1 establishes a bounded, contestable account of what happened. It ident
 
 use these tables to describe what happened after the facts are verified. They help identify the kind of contribution or violation involved. They do not decide how good or bad it was, assign a slot, or determine what happens because of it.
 
-[Source](../../core_09_standing_assessment.md#23-question-1-event-type-guide)
+[Source](../../core_09_standing_assessment.md#23-question-1-event-type-guide--what-kind-of-help-or-harm-occurred)
 
 ###### 2.3.1 Contribution event types
 
@@ -3286,7 +3298,7 @@ Question 2 measures the verified facts from Question 1. It asks **how good was t
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09_standing_assessment.md#44-violation-route-descriptor-measurement-roles)
+[Source](../../core_09_standing_assessment.md#44-violation-route-descriptor-catalog-and-measurement-roles)
 
 ##### 4.5 Cross-question measurement hooks
 
@@ -3316,7 +3328,7 @@ this section gives consistent names to nine possible positions on each of two se
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09_standing_assessment.md#51-table-1-slot-display-labels)
+[Source](../../core_09_standing_assessment.md#51-table-1--slot-display-labels)
 
 ##### 5.2 Shared impact-scaling rules
 
@@ -3352,7 +3364,7 @@ before choosing a slot, identify the constitutional sources that say what baseli
 
 **Table 2** places verified contribution and verified violation on the same proportional impact scale. Higher slots mean greater integrated constitutional benefit or loss. The records and axes remain separate: the common scale compares magnitude, not moral worth, and never permits help to cancel harm.
 
-[Source](../../core_09_standing_assessment.md#7-unified-proportional-lequ-scale)
+[Source](../../core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes)
 
 ## CHAPTER TEN: STANDING EFFECTS AND INTEGRATION
 
@@ -3362,13 +3374,13 @@ Source file: [`core_10_standing_integration.md`](../../core_10_standing_integrat
 
 this chapter starts from the verified records Chapter Nine already made. It may not reopen the facts, guess a missing track, or pick a rating to get a preferred result.
 
-[Source](../../core_10_standing_integration.md#1-immutable-chapter-nine-inputs)
+[Source](../../core_10_standing_integration.md#1-chapter-nine-records-do-not-change)
 
 #### 2. Automatic integration, review, and continuity
 
 when a verified record opens or changes, an integration record must follow automatically, keep the two tracks separate, and stay inspectable — including when the computers are down.
 
-[Source](../../core_10_standing_integration.md#2-integration-record-and-decision-order)
+[Source](../../core_10_standing_integration.md#2-automatic-integration-review-and-continuity)
 
 #### 3. Descriptor integration and attachment normalization
 
@@ -3384,7 +3396,7 @@ Something bad happened. How do we create a durable fix? This section answers in 
 
 ##### 4.1 Remedy and correction
 
-after a verified **violation**, this subsection assigns the **remedy** and **correction** parts of the durable fix. **Remedy** repairs what was broken for those harmed. **Correction** changes what caused it. **Prevention** — standing locks and related named pathway limits — begins in [§4.2](../../core_10_standing_integration.md#42-general-standing-locks), with design and enforcement in [§5](../../core_10_standing_integration.md#5-lock-design-and-enforcement), and must not be waived while recurrence risk remains live. Where restorative pathways include public acknowledgment or apology, [§4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) applies.
+after a verified **violation**, this subsection assigns the **remedy** and **correction** parts of the durable fix. **Remedy** repairs what was broken for those harmed. **Correction** changes what caused it. **Prevention** — standing locks and related named pathway limits — begins in [§4.2 Prevention — general standing locks](../../core_10_standing_integration.md#42-prevention--general-standing-locks), with design and enforcement in [§5 Lock design and enforcement](../../core_10_standing_integration.md#5-lock-design-and-enforcement), and must not be waived while recurrence risk remains live. Where restorative pathways include public acknowledgment or apology, [§4.3 Voluntary public accountability expression](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) applies.
 
 [Source](../../core_10_standing_integration.md#41-remedy-and-correction)
 
@@ -3392,7 +3404,7 @@ after a verified **violation**, this subsection assigns the **remedy** and **cor
 
 this is the **prevention** part of the durable fix. A standing lock reduces risk by closing or limiting named pathways that would let the same harm continue or happen again while the violation is still unresolved or unrepaired. It is not punishment for its own sake, and it is not a popularity or reputation score.
 
-[Source](../../core_10_standing_integration.md#42-general-standing-locks)
+[Source](../../core_10_standing_integration.md#42-prevention--general-standing-locks)
 
 ##### 4.3 Voluntary public accountability expression
 
@@ -3408,7 +3420,7 @@ locks are cheap to issue; repair, restoration, and review are expensive to run. 
 
 #### 5. Lock design and enforcement
 
-once a lock is needed under [§4.2](../../core_10_standing_integration.md#42-general-standing-locks), this section says how to design and enforce it—how to specify the lock, calibrate it, keep it visible and reviewable, which special locks are mandatory, and which special violation rules change scope or process. It does not reopen Chapter Nine measurement, and it does not let contribution offset a lock.
+once a lock is needed under [§4.2 Prevention — general standing locks](../../core_10_standing_integration.md#42-prevention--general-standing-locks), this section says how to design and enforce it—how to specify the lock, calibrate it, keep it visible and reviewable, which special locks are mandatory, and which special violation rules change scope or process. It does not reopen Chapter Nine measurement, and it does not let contribution offset a lock.
 
 [Source](../../core_10_standing_integration.md#5-lock-design-and-enforcement)
 
@@ -3456,7 +3468,7 @@ how much does an older verified contribution still say about present competence 
 
 ##### 6.2 Competency bars and clearances
 
-a competency bar is the published standard for a named pathway. Competency clearance is the standing-effect result that says verified readiness meets that bar. Once clearance is in force and the pathway is open, it stays open by default. Some roles need periodic retesting; technical forums decide which ones. A real change in role-relevant capacity — for example after a stroke or a mental-health condition that impairs needed judgment — can trigger reassessment. Clearance never opens a named pathway that a standing lock still blocks.
+a competency bar is the published standard for a named pathway. Competency clearance is the standing-effect result that says verified readiness meets that bar. Once clearance is in force and the named pathway is open, it stays open by default. Some roles need periodic retesting; technical forums decide which ones. A real change in role-relevant capacity — for example after a stroke or a mental-health condition that impairs needed judgment — can trigger reassessment. Clearance never opens a named pathway that a standing lock still blocks.
 
 [Source](../../core_10_standing_integration.md#62-competency-bars-and-clearances)
 
@@ -3488,7 +3500,7 @@ a lock that is not permanent must have a real way back. Restoration is not autom
 
 standing consequences and redress count only when real institutions can deliver them. This section is the constitutional floor for that machinery. Day-to-day staffing, funding, backlog, and succession rules live in the institutions layer.
 
-[Source](../../core_10_standing_integration.md#9-enforcement-realism)
+[Source](../../core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems)
 
 ##### 9.1 Remediation capacity and funding
 
@@ -3518,7 +3530,7 @@ standing consequences and redress count only when real institutions can deliver 
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_10_standing_integration.md#95-timely-implementation-and-reassessment)
+[Source](../../core_10_standing_integration.md#95-timely-implementation)
 
 #### 10. Pattern applications and Question 3 routing
 
@@ -3660,9 +3672,9 @@ a public apology in an anti-constitutional misconduct case must meet Chapter Ten
 
 Source file: [`core_11_b_misconduct_pattern_applications.md`](../../core_11_b_misconduct_pattern_applications.md) · 12/14 headings glossed
 
-#### 5. Pattern applications and criteria routing — Participation and pathway integrity
+#### 5. Pattern applications and criteria routing — Participation and accountability-pathway integrity
 
-the rest of the chapter applies the same decision model to recurring anti-constitutional patterns. “Participation and pathway integrity” names the **attack targets** — contest, standing, audit, forum, and related pathways — not a catalog of new Chapter Ten lock types. These examples do not create new criteria or new special locks; they show how named conduct routes through the criteria, process safeguards, and chapter boundaries already stated above. Locks stay in Chapter Ten.
+the rest of the chapter applies the same decision model to recurring anti-constitutional patterns. “Participation and accountability-pathway integrity” names the **attack targets** — contest, standing, audit, forum, and related accountability pathways — not a catalog of new Chapter Ten lock types. These examples do not create new criteria or new special locks; they show how named conduct routes through the criteria, process safeguards, and chapter boundaries already stated above. Locks stay in Chapter Ten.
 
 [Source](../../core_11_b_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing)
 
@@ -3746,7 +3758,7 @@ Source file: [`core_12_forum.md`](../../core_12_forum.md) · 8/27 headings gloss
 
 this section assigns constitutional **participation** and **oversight** through forum families that **supervise** two tracks — the **standing pipeline** (Chapters Nine–Eleven disputes and record effects) and **System Alignment Certification** (Chapter Eight recognition and review) — then states accountability requirements for published threshold placement. Ordinary disputes inside already-authorized systems use the published Stakeholder System Participation challenge path first; this chapter takes over when that path is still contested, missing, captured, or cannot grant relief. Detailed hearing rules live elsewhere and may not quietly shrink what this chapter guarantees.
 
-[Source](../../core_12_forum.md#1-purpose-and-role)
+[Source](../../core_12_forum.md#1-purpose-and-role--participation-architecture)
 
 #### 2. Default venue and primary stakes
 
@@ -3770,19 +3782,19 @@ each family's **first-touch desk** — the **intake triage body** — asks what 
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_12_forum.md#23-forum-records-standing-records-and-contests)
+[Source](../../core_12_forum.md#23-forum-case-records-standing-records-and-contests)
 
 #### 3. Transfer, consolidation, and coordination — continuity and anti-capture
 
 when many **affected** **parties** share the same underlying harm pattern, forums may widen the case fairly; when **Integrity** forums issue **alignment** rulings they keep **one** lead record and refer **component** questions to the right **family** without stealing those forums' merits jobs; and no forum family gets to be the only final word when the accusation is essentially that this same family is rigged, conflicted, or hiding the ball — the rules send that to a different lead track with written backups.
 
-[Source](../../core_12_forum.md#3-transfer-consolidation-and-coordination)
+[Source](../../core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)
 
 #### 4. Forum family definitions — accountability through adjudication
 
 adopters keep six genuinely different forum tracks — sentient, technical, institutional, environment, integrity, and constitutional — in the same order as the default-venue table in **section 2**. **Integrity** forums map interlocking process and system failure through **alignment** rulings and **coordinate** referred component issues on **one** lead record (with **section 3**). Each family's **first-touch desk** (**intake triage body**) and mixed-stakes safeguards are in **section 2** — those desks are **not** a separate top-level forum for final merits. Expert panels and other **internal chambers** sit **inside** these families — not as a dodge around primary-stakes routing. Shared standards, anti-displacement, and provisional operational-law issuance live in this section (**§§4.2 and 4.7**); Constitutional disposition is in **§4.6**; certification when stakes merge is in **section 5**.
 
-[Source](../../core_12_forum.md#4-forum-family-definitions)
+[Source](../../core_12_forum.md#4-forum-family-definitions--accountability-through-adjudication)
 
 ##### 4.1 Sentient forums
 
@@ -3896,7 +3908,7 @@ forum families must keep material disputes moving on published clocks that ordin
 
 forums need help before a case exists, while deciding, and after — inspectors and forensics build an explainable record; they do not become a second merits forum.
 
-[Source](../../core_12_forum.md#7-forum-support-before-during-and-after-review)
+[Source](../../core_12_forum.md#7-forum-support-before-during-and-after-review--oversight-architecture)
 
 ## CHAPTERS NINE–TWELVE: PIPELINE APPLICATION VIGNETTES
 
@@ -4108,7 +4120,7 @@ the same rules travel with every example — allegations are not standing, the t
 
 ## CHAPTER SIX: FOUNDATIONAL RIGHTS
 
-Source file: [`core_06_rights_part_a.md`](../../core_06_rights_part_a.md) · 21/24 headings glossed
+Source file: [`core_06_rights_part_a.md`](../../core_06_rights_part_a.md) · 22/25 headings glossed
 
 #### 1. Purpose and Role
 
@@ -4148,7 +4160,7 @@ the planet's life-support systems must be protected as a matter of their own sur
 
 ##### Article I-B: Ecological Footprint and Transparency
 
-environmental costs tied to activities and systems—including upstream and downstream links—should be counted and reported honestly enough for comparison and audit when applicable transparency rules require it; this subsection supplies the shared vocabulary and integrity standards for doing that, but mandatory cuts or numeric caps come from other provisions or instruments, not from this subsection acting alone.
+when a rule calls for it, the environmental cost of an activity, system, product, or service should be counted honestly and reported openly. That includes costs that come before it (such as mining and manufacturing) and after it (such as use and disposal). The goal is numbers that others can compare and check. This subsection gives the shared words and honesty standards for that work. It does not, by itself, make anyone cut their footprint. Required cuts or limits come from other rules.
 
 [Source](../../core_06_rights_part_a.md#article-i-b-ecological-footprint-and-transparency)
 
@@ -4160,45 +4172,51 @@ decisions today must not load unfair, irreversible, or unaccountable harm on tho
 
 ##### Article I-D: Existential Risk and Ecological Recovery Capacity
 
-when a system or decision could plausibly threaten sentient survival or ecological recovery capacity, regulators must apply maximum scrutiny — even if the danger is small, slow, or contested.
+when a system or decision could plausibly threaten sentient survival or ecological recovery capacity, regulators must apply highest scrutiny — even if the danger is small, slow, or contested.
 
 [Source](../../core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity)
 
 #### Article II: Material Stewardship and Durable-Use Integrity
 
-**Article II** (*Material Stewardship and Durable-Use Integrity*) is the material-stewardship Rights Floor — durable and network-dependent products must be designed, described, and supported honestly so **Flourishing** is not defeated by misleading longevity claims or blocked repair paths, and **Continuity** is not defeated by avoidable premature discard or hidden lifecycle burden.
+**Article II** (*Material Stewardship and Durable-Use Integrity*) is the material-stewardship Rights Floor. Durable and network-dependent products must be designed, described, and supported honestly. That protects **Flourishing** from misleading longevity claims and blocked repair paths, and **Continuity** from avoidable premature discard and hidden lifecycle burdens.
 
 [Source](../../core_06_rights_part_a.md#article-ii-material-stewardship-and-durable-use-integrity)
 
 ##### Article II-A: Material Stewardship and Lifecycle Honesty
 
-durable goods must be designed and described honestly, so that buyers are not pushed into avoidable replacement or misled about how long the product will last.
+durable goods must be designed and described honestly. Buyers must not be pushed into avoidable replacement or misled about how long a product will last.
 
 [Source](../../core_06_rights_part_a.md#article-ii-a-material-stewardship-and-lifecycle-honesty)
 
 ##### Article II-B: Repair, Maintenance, and Independent Servicing
 
-owners and independent repair shops must be able to fix the things they own, with real access to manuals, tools, parts, and honest diagnostics.
+owners and independent repair shops must be able to fix products they own. They need real access to manuals, tools, parts, and honest diagnostics.
 
 [Source](../../core_06_rights_part_a.md#article-ii-b-repair-maintenance-and-independent-servicing)
 
 ##### Article II-C: Designed Obsolescence and Incentive Discipline
 
-you may not shorten useful life on purpose, nor use software updates mainly to push new purchases, when the foreseeable effect is to pressure **sentients** to discard or replace goods that could still reasonably serve them.
+products must not be built or updated to wear out early, or to push you into buying a replacement you don't need.
 
 [Source](../../core_06_rights_part_a.md#article-ii-c-designed-obsolescence-and-incentive-discipline)
 
 ##### Article II-D: Post-Sale Access and Subscription Integrity
 
-a feature you bought outright cannot be quietly turned into a subscription, and any relevant operator dependencies including infrastructure, software, and services, must be disclosed up front.
+a feature bought outright cannot be quietly turned into a subscription. Any relevant operator dependency — including infrastructure, software, and services — must be disclosed up front.
 
 [Source](../../core_06_rights_part_a.md#article-ii-d-post-sale-access-and-subscription-integrity)
 
-##### Article II-E: Info-Sphere Dependency, Continuity, and Operator Non-Viability
+##### Article II-E: Data Handling and Network Dependency
 
-when a product needs the operator's servers to work, the operator must say so up front, must not trap continuity-critical data in forms that cannot be exported except where confidentiality truly requires it, plan for what happens if the service shuts down, and not let bankruptcy or a sale erase those continuity duties.
+any product that collects data about you must tell you what it collects, why, and how to delete it — and must delete it when you ask, except where records must be kept to protect others or hold someone accountable. When a product needs the operator's servers to work, the operator must say so up front and must not trap your data.
 
 [Source](../../core_06_rights_part_a.md#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability)
+
+##### Article II-F: Continuity and Operator Shutdown
+
+the operator must plan for service shutdown, give fair notice and time to move when it happens, and cannot let bankruptcy or a sale erase those duties.
+
+[Source](../../core_06_rights_part_a.md#article-ii-f-continuity-and-operator-shutdown)
 
 #### Article III: Survival and Equal Educational Access
 
@@ -4504,7 +4522,7 @@ Source file: [`core_06_rights_part_c.md`](../../core_06_rights_part_c.md) · 51/
 
 #### Part C: Trustworthy systems, security and force limits, information integrity, verification, lifecycle, and resilience
 
-Part C covers trustworthy systems, information integrity, verification, lifecycle discipline, and resilience — Articles XII through XXI.
+Part C covers trustworthy systems, information integrity, verification, lifecycle discipline, resilience, and interpretive review — Articles XII through XXII.
 
 [Source](../../core_06_rights_part_c.md#part-c-trustworthy-systems-security-and-force-limits-information-integrity-verification-lifecycle-and-resilience)
 
@@ -4612,7 +4630,7 @@ systems must keep enough honest evidence of what they do for an outside party to
 
 ##### Article XV-B: Distributed Oversight and Anti-Monopoly Review
 
-no single actor — public or private — may corner oversight. Multiple independent pathways must be able to find, review, and correct failure or capture.
+no single actor — public or private — may corner oversight. Multiple independent oversight pathways must be able to find, review, and correct failure or capture.
 
 [Source](../../core_06_rights_part_c.md#article-xv-b-distributed-oversight-and-anti-monopoly-review)
 
@@ -4700,7 +4718,7 @@ standing records, competency bars, competency clearances, and standing locks mus
 
 [Source](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits)
 
-##### Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit
+##### Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit
 
 ordinary participation named pathways stay open under published, contestable eligibility rules based on present evidence — not brand, scale, or past reputation. Opening a trust-sensitive named pathway requires competency clearance against its published competency bar; closing a privilege requires a standing lock on that named pathway. Standing locks cannot permanently strip foundational voice, except that a **final** **Chapter Eleven** classification of **anti-constitutional misconduct** withholds that voice until **full restitution** as stated in [**Chapter Thirteen §4.1**](../../core_13_governance.md#41-entitlement-and-eligibility).
 
@@ -4814,7 +4832,7 @@ Source file: [`core_06_rights_part_d.md`](../../core_06_rights_part_d.md) · 18/
 
 #### Part D: Justice, constitutional review, evolution, and transition
 
-Part D covers justice, review-and-resolution discipline, constitutional evolution, and transition — Articles XXII through XXVI, including re-baselining under **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*).
+Part D covers justice, review-and-resolution discipline, constitutional evolution, and transition — Articles XXIII through XXVI, including re-baselining under **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*).
 
 [Source](../../core_06_rights_part_d.md#part-d-justice-constitutional-review-evolution-and-transition)
 
@@ -4916,7 +4934,7 @@ when a transition stalls or fails, there must be a real off-ramp — and a stall
 
 ##### Article XXVI-D: Non-Compliant Property and Systems; Voluntary Turnover Incentives
 
-non-compliant systems and property can be remediated during transition — but only through narrow, documented, reviewable processes that protect basic Rights Floors, bar pretext, and do not turn into retaliation or political targeting. How institutions carry that out — roles, triggers, custody, appeals, funds, and incentive mechanics — lives in **CI-14.1** through **CI-14.3**; this article states the constitutional floor those procedures must not narrow.
+non-compliant systems and property can be remediated during transition — but only through narrow, documented, reviewable processes that protect basic Rights Floors, bar pretext, and do not turn into retaliation or political targeting. How institutions carry that out — roles, triggers, custody, appeals, funds, and incentive mechanics — lives in **CI-14.1** through **CI-14.3**.
 
 [Source](../../core_06_rights_part_d.md#article-xxvi-d-non-compliant-property-and-systems-voluntary-turnover-incentives)
 
@@ -5000,7 +5018,7 @@ rules must be clear before the fact, records **must be open to verification**, h
 
 serious collective decisions need a real process — hear **affected** **parties** out first, bring in independent eyes when stakes are high, publish how weighting works, handle rights conflicts openly, treat "emergency" as narrow and temporary, and leave the door open when reality diverges from the plan.
 
-[Source](../../core_13_governance.md#43-decision-resolution-requirements-for-binding-collective-choice)
+[Source](../../core_13_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice)
 
 #### 5. Authorized Roles, Competency Development, and Contribution
 
@@ -5022,7 +5040,7 @@ weakening **Safety (Constraint)**, **Truth (Constitutional Constraint)**, **Epis
 
 Test 1 is the checklist — if a proposal would gut Chapter One constraints, Chapters Two through Four integrity, Chapter Six Rights Floors, or Chapter Thirteen legitimacy, it fails, including when the damage is done through procedure, evidence rules, or re-tagging rather than a single blunt deletion.
 
-[Source](../../core_14_non_regression.md#2-test-1-substantive-non-regression-validity)
+[Source](../../core_14_non_regression.md#2-test-1--substantive-non-regression-validity)
 
 #### 3. Anti-Evasion Clause and Constitutional-Misconduct Referral
 
@@ -5088,11 +5106,11 @@ show up in good faith to lawful external processes — and do not weaponize "coo
 
 [Source](../../core_15_expansion_supremacy.md#41-good-faith-cooperation)
 
-##### 4.2 Preserved Internal Pathways
+##### 4.2 Preserved Internal Review Pathways
 
 if an outside process cannot deliver timely, real protection, the constitution's own review and appeal routes stay open — boilerplate waivers demanded just to use a product or service do not erase those rights where the chapter applies.
 
-[Source](../../core_15_expansion_supremacy.md#42-preserved-internal-pathways)
+[Source](../../core_15_expansion_supremacy.md#42-preserved-internal-review-pathways)
 
 #### 5. Relation to Applicable External Law
 
@@ -5138,19 +5156,19 @@ ticking procedural boxes cannot save a change that fails the substance check or 
 
 Test 2 is the "did you actually publish a real proposal with enough detail and time for **affected** **parties** to respond" test — shadow drafts and last-second rewrites that nobody can review do not pass.
 
-[Source](../../core_16_amendment_ratification.md#4-test-2-procedural-validity-and-publication-integrity)
+[Source](../../core_16_amendment_ratification.md#4-test-2--procedural-validity-and-publication-integrity)
 
 #### 5. Test 3 — Authority-Chain and Custody Validity
 
 Test 3 is the chain-of-custody test — if nobody can tell which text is authoritative, who approved it, or when it took effect, the amendment does not constitutionally exist as binding.
 
-[Source](../../core_16_amendment_ratification.md#5-test-3-authority-chain-and-custody-validity)
+[Source](../../core_16_amendment_ratification.md#5-test-3--authority-chain-and-custody-validity)
 
 #### 6. Test 4 — Contestability and Independent Review Validity
 
 Test 4 blocks amendments that kill meaningful pushback — no fake consultation, no bullying **stakeholders** into waiving audit or standing, and no skipping independent review where the chapter demands it.
 
-[Source](../../core_16_amendment_ratification.md#6-test-4-contestability-and-independent-review-validity)
+[Source](../../core_16_amendment_ratification.md#6-test-4--contestability-and-independent-review-validity)
 
 #### 7. Review Triggers
 

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-09-22T16:21:37+00:00",
+  "generated_at": "2026-09-24T16:43:43+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -166,7 +166,7 @@
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-1110-lived-conditions-during-restriction-and-re-entry-alignment-cross-layer",
       "heading": "CF-11.10 Lived conditions during restriction and re-entry alignment (cross-layer)",
-      "line": 419,
+      "line": 421,
       "kind": "section",
       "gloss": "Where a matter involves coercive or containment conditions, forum timing must be checked against the systems-layer floors for lived conditions. Good calendar numbers do not excuse bad conditions."
     },
@@ -268,9 +268,9 @@
     },
     "CF-11.7": {
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
-      "anchor": "#cf-117-governance-disclosure-fields-supporting-records-accessibility-and-pathway-usability",
-      "heading": "CF-11.7 Governance disclosure fields, supporting records, accessibility, and pathway usability",
-      "line": 354,
+      "anchor": "#cf-117-governance-disclosure-fields-supporting-records-accessibility-and-challenge-pathway-usability",
+      "heading": "CF-11.7 Governance disclosure fields, supporting records, accessibility, and challenge-pathway usability",
+      "line": 356,
       "kind": "section",
       "gloss": "What the public report must actually show, broken out by family and urgency, so outsiders can see where matters are stuck rather than only a reassuring average."
     },
@@ -278,7 +278,7 @@
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-118-contest-integrity-monitoring-interface",
       "heading": "CF-11.8 Contest-integrity monitoring interface",
-      "line": 391,
+      "line": 393,
       "kind": "section",
       "gloss": "Independent monitors read the performance data and ask the harder question: do the delays cluster where conflict, capture, or retaliation would predict?"
     },
@@ -286,7 +286,7 @@
       "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
       "anchor": "#cf-119-non-compliant-performance-patterns",
       "heading": "CF-11.9 Non-compliant performance patterns",
-      "line": 404,
+      "line": 406,
       "kind": "section",
       "gloss": "Named failure shapes that are presumed non-compliant — chronic delay concentrated in emergency matters, backlogs that predictably defeat remedy, and unexplained publication delay on significant rulings."
     },
@@ -1609,7 +1609,7 @@
       "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
       "anchor": "#ci-46-seat-catalog",
       "heading": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
-      "line": 155,
+      "line": 162,
       "kind": "section"
     },
     "CI-5": {
@@ -1677,8 +1677,8 @@
     },
     "CI-8": {
       "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "anchor": "#ci-8-transparency-participation-and-accessible-pathways",
-      "heading": "CI-8: Transparency, participation, and accessible pathways",
+      "anchor": "#ci-8-transparency-participation-and-accessible-challenge-and-service-pathways",
+      "heading": "CI-8: Transparency, participation, and accessible challenge and service pathways",
       "line": 1,
       "kind": "family"
     },
@@ -1686,28 +1686,28 @@
       "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
       "anchor": "#ci-81-stakeholder-oversight-notification-and-binding-governance-pathway-integrity",
       "heading": "CI-8.1: Stakeholder oversight, notification, and binding-governance pathway integrity",
-      "line": 69,
+      "line": 89,
       "kind": "section"
     },
     "CI-8.2": {
       "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
       "anchor": "#ci-82-anti-concentration-and-participation-legitimacy-safeguards",
       "heading": "CI-8.2: Anti-concentration and participation-legitimacy safeguards",
-      "line": 101,
+      "line": 121,
       "kind": "section"
     },
     "CI-8.3": {
       "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
       "anchor": "#ci-83-digital-self-service-pathway-integrity",
       "heading": "CI-8.3: Digital self-service pathway integrity",
-      "line": 132,
+      "line": 152,
       "kind": "section"
     },
     "CI-8.4": {
       "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
       "anchor": "#ci-84-governance-disclosure-schema",
       "heading": "CI-8.4: Governance disclosure schema",
-      "line": 162,
+      "line": 182,
       "kind": "section"
     },
     "CI-9": {
@@ -2063,7 +2063,7 @@
       "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
       "anchor": "#cjs-318-continuity-data-retention-and-lifecycle-integrity-terms",
       "heading": "CJS-3.18 Continuity: data-retention and lifecycle-integrity terms",
-      "line": 581,
+      "line": 582,
       "kind": "section",
       "gloss": "How long data is kept, how it changes, what gets linked to what, and what deletion actually means — because retention decisions quietly determine what can be audited or abused later."
     },
@@ -2071,7 +2071,7 @@
       "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
       "anchor": "#cjs-319-continuity-graceful-degradation-and-failure-mode-integrity-terms",
       "heading": "CJS-3.19 Continuity: graceful degradation and failure-mode integrity terms",
-      "line": 808,
+      "line": 809,
       "kind": "section",
       "gloss": "Under partial failure a system must behave honestly: degrade visibly rather than pretend to work, and fail in a way that can be recovered from."
     },
@@ -2087,7 +2087,7 @@
       "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
       "anchor": "#cjs-320-continuity-reversibility-and-containment-terms",
       "heading": "CJS-3.20 Continuity: reversibility and containment terms",
-      "line": 1034,
+      "line": 1035,
       "kind": "section",
       "gloss": "Design so that mistakes can be undone and damage stays local. Irreversible-by-default architecture converts every error into a permanent one."
     },
@@ -2095,7 +2095,7 @@
       "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
       "anchor": "#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms",
       "heading": "CJS-3.21 Continuity: adversarial robustness and abuse-resistance terms",
-      "line": 1160,
+      "line": 1161,
       "kind": "section",
       "gloss": "Assume someone will actively try to misuse the system, including by exploiting its incentives rather than its code, and build defenses that survive that."
     },
@@ -2416,49 +2416,49 @@
       "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "anchor": "#cs-2-2-determination-of-classification",
       "heading": "CS-2.2 Determination of classification",
-      "line": 91,
+      "line": 132,
       "kind": "section"
     },
     "CS-2.3": {
       "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "anchor": "#cs-2-3-temporal-systemic-and-dependency-scope-of-rights",
       "heading": "CS-2.3 Temporal, systemic, and dependency scope of rights",
-      "line": 117,
+      "line": 158,
       "kind": "section"
     },
     "CS-2.4": {
       "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "anchor": "#cs-2-4-anti-circumvention-and-integrity-of-classification",
       "heading": "CS-2.4 Anti-circumvention and integrity of classification",
-      "line": 126,
+      "line": 167,
       "kind": "section"
     },
     "CS-2.5": {
       "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "anchor": "#cs-2-5-cross-domain-governance-principles",
       "heading": "CS-2.5 Cross-domain governance principles",
-      "line": 141,
+      "line": 182,
       "kind": "section"
     },
     "CS-2.6": {
       "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "anchor": "#cs-2-6-data-separation-and-attribution",
       "heading": "CS-2.6 Data separation and attribution",
-      "line": 357,
+      "line": 398,
       "kind": "section"
     },
     "CS-2.7": {
       "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "anchor": "#cs-2-7-type-o-baseline-for-class-a-b-c-systems",
       "heading": "CS-2.7 Type O baseline for Class A/B/C systems",
-      "line": 460,
+      "line": 501,
       "kind": "section"
     },
     "CS-2.8": {
       "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "anchor": "#cs-2-8-system-data-types-record-governance",
       "heading": "CS-2.8 System Data Types Record governance",
-      "line": 491,
+      "line": 532,
       "kind": "section"
     },
     "CS-2A": {
@@ -3190,28 +3190,28 @@
       "file": "core_05_band_accountability.md",
       "anchor": "#defa1",
       "heading": "Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying",
-      "line": 1681,
+      "line": 1720,
       "kind": "cluster"
     },
     "Def.A2": {
       "file": "core_05_band_accountability.md",
       "anchor": "#defa2",
       "heading": "Def.A2 Forum Families and Dispute Routing",
-      "line": 2001,
+      "line": 2040,
       "kind": "cluster"
     },
     "Def.A3": {
       "file": "core_05_band_accountability.md",
       "anchor": "#defa3",
       "heading": "Def.A3 Standing State, Contribution, and Violation",
-      "line": 2396,
+      "line": 2435,
       "kind": "cluster"
     },
     "Def.A4": {
       "file": "core_05_band_accountability.md",
       "anchor": "#defa4",
       "heading": "Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
-      "line": 3199,
+      "line": 3238,
       "kind": "cluster"
     },
     "Def.C1": {
@@ -3253,14 +3253,14 @@
       "file": "core_05_band_oversight.md",
       "anchor": "#defo1",
       "heading": "Def.O1 Transparency, Auditability, and Verification",
-      "line": 624,
+      "line": 676,
       "kind": "cluster"
     },
     "Def.O2": {
       "file": "core_05_band_oversight.md",
       "anchor": "#defo2",
       "heading": "Def.O2 Truth and Epistemic Integrity",
-      "line": 1135,
+      "line": 1187,
       "kind": "cluster"
     },
     "Def.P1": {
@@ -3274,21 +3274,21 @@
       "file": "core_05_band_participation.md",
       "anchor": "#defp2",
       "heading": "Def.P2 Binding Stakeholder Choice",
-      "line": 2768,
+      "line": 2770,
       "kind": "cluster"
     },
     "Def.P3": {
       "file": "core_05_band_participation.md",
       "anchor": "#defp3",
       "heading": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
-      "line": 2949,
+      "line": 2951,
       "kind": "cluster"
     },
     "Def.P4": {
       "file": "core_05_band_participation.md",
       "anchor": "#defp4",
       "heading": "Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability",
-      "line": 3231,
+      "line": 3239,
       "kind": "cluster"
     }
   },
@@ -3430,7 +3430,7 @@
         {
           "id": "CI-8",
           "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-          "anchor": "#ci-8-transparency-participation-and-accessible-pathways"
+          "anchor": "#ci-8-transparency-participation-and-accessible-challenge-and-service-pathways"
         }
       ]
     },
@@ -3514,9 +3514,9 @@
       ],
       "read_with": [
         {
-          "id": "CI-8",
-          "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-          "anchor": "#ci-8-transparency-participation-and-accessible-pathways"
+          "id": "CI-12",
+          "file": "corpus_institutions/ci_12_cross_institution_coordination_escalation.md",
+          "anchor": "#ci-12-cross-institution-coordination-and-escalation"
         }
       ]
     },
@@ -3689,7 +3689,7 @@
     },
     {
       "id": "CJS-R15",
-      "topic": "Contest-integrity monitoring (pathway integrity, not merits)",
+      "topic": "Contest-integrity monitoring (contest-pathway integrity, not merits)",
       "domain": "Institutional governance",
       "primary_owners": [
         {
@@ -3805,7 +3805,7 @@
         {
           "id": "CI-8",
           "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-          "anchor": "#ci-8-transparency-participation-and-accessible-pathways"
+          "anchor": "#ci-8-transparency-participation-and-accessible-challenge-and-service-pathways"
         },
         {
           "id": "CF-11",
@@ -3883,7 +3883,12 @@
         {
           "id": "CI-8",
           "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-          "anchor": "#ci-8-transparency-participation-and-accessible-pathways"
+          "anchor": "#ci-8-transparency-participation-and-accessible-challenge-and-service-pathways"
+        },
+        {
+          "id": "CI-12",
+          "file": "corpus_institutions/ci_12_cross_institution_coordination_escalation.md",
+          "anchor": "#ci-12-cross-institution-coordination-and-escalation"
         },
         {
           "id": "CF-11",
@@ -4022,8 +4027,8 @@
       "term": "Animal Life",
       "file": "core_05_band_participation.md",
       "anchor": "#animal-life-constitutional",
-      "line_start": 2286,
-      "line_end": 2347
+      "line_start": 2288,
+      "line_end": 2349
     },
     {
       "term": "Anti-Capture",
@@ -4036,8 +4041,8 @@
       "term": "Anti-Constitutional Misconduct Review",
       "file": "core_05_band_accountability.md",
       "anchor": "#anti-constitutional-misconduct-review",
-      "line_start": 2980,
-      "line_end": 3022
+      "line_start": 3019,
+      "line_end": 3061
     },
     {
       "term": "Anti-Displacement Floor",
@@ -4071,8 +4076,8 @@
       "term": "Auditability",
       "file": "core_05_band_oversight.md",
       "anchor": "#auditability",
-      "line_start": 864,
-      "line_end": 945
+      "line_start": 916,
+      "line_end": 997
     },
     {
       "term": "Authority Stack and Internal Hierarchy",
@@ -4085,15 +4090,15 @@
       "term": "Autonomous Coercion Tool",
       "file": "core_05_band_accountability.md",
       "anchor": "#autonomous-coercion-tool-constitutional",
-      "line_start": 3569,
-      "line_end": 3632
+      "line_start": 3608,
+      "line_end": 3671
     },
     {
       "term": "Autonomous Lethal System",
       "file": "core_05_band_accountability.md",
       "anchor": "#autonomous-lethal-system-constitutional",
-      "line_start": 3310,
-      "line_end": 3362
+      "line_start": 3349,
+      "line_end": 3401
     },
     {
       "term": "Avoidable Burden",
@@ -4106,15 +4111,15 @@
       "term": "Best-Interest Standard",
       "file": "core_05_band_participation.md",
       "anchor": "#best-interest-standard-constitutional",
-      "line_start": 3315,
-      "line_end": 3362
+      "line_start": 3323,
+      "line_end": 3370
     },
     {
       "term": "Binding Stakeholder Choice — Decision-Resolution Requirements",
       "file": "core_05_band_participation.md",
       "anchor": "#binding-stakeholder-choice-decision-resolution-requirements",
-      "line_start": 2819,
-      "line_end": 2874
+      "line_start": 2821,
+      "line_end": 2876
     },
     {
       "term": "Bodily-Maintenance Access",
@@ -4190,8 +4195,8 @@
       "term": "Collective Harm Boundary",
       "file": "core_05_band_accountability.md",
       "anchor": "#collective-harm-boundary",
-      "line_start": 1794,
-      "line_end": 1821
+      "line_start": 1833,
+      "line_end": 1860
     },
     {
       "term": "Collective Organization",
@@ -4204,22 +4209,22 @@
       "term": "Combatant / Non-Combatant Distinction",
       "file": "core_05_band_accountability.md",
       "anchor": "#combatant-non-combatant-distinction-constitutional",
-      "line_start": 3427,
-      "line_end": 3494
+      "line_start": 3466,
+      "line_end": 3533
     },
     {
       "term": "Competency Bar",
       "file": "core_05_band_accountability.md",
       "anchor": "#competency-bar",
-      "line_start": 2835,
-      "line_end": 2879
+      "line_start": 2874,
+      "line_end": 2918
     },
     {
       "term": "Competency Clearance",
       "file": "core_05_band_accountability.md",
       "anchor": "#competency-clearance",
-      "line_start": 2880,
-      "line_end": 2926
+      "line_start": 2919,
+      "line_end": 2965
     },
     {
       "term": "Consent",
@@ -4281,7 +4286,7 @@
       "term": "Contest Seat",
       "file": "core_05_band_accountability.md",
       "anchor": "#contest-seat",
-      "line_start": 1433,
+      "line_start": 1434,
       "line_end": 1469
     },
     {
@@ -4295,8 +4300,8 @@
       "term": "Contested-Sentient Life",
       "file": "core_05_band_participation.md",
       "anchor": "#contested-sentient-life-constitutional",
-      "line_start": 2413,
-      "line_end": 2530
+      "line_start": 2415,
+      "line_end": 2532
     },
     {
       "term": "Contingent Claim",
@@ -4316,8 +4321,8 @@
       "term": "Contribution Nature",
       "file": "core_05_band_accountability.md",
       "anchor": "#contribution-nature",
-      "line_start": 2574,
-      "line_end": 2626
+      "line_start": 2613,
+      "line_end": 2665
     },
     {
       "term": "Corpus",
@@ -4337,15 +4342,15 @@
       "term": "Cruelty",
       "file": "core_05_band_accountability.md",
       "anchor": "#cruelty",
-      "line_start": 1889,
-      "line_end": 1941
+      "line_start": 1928,
+      "line_end": 1980
     },
     {
       "term": "Decentralization",
       "file": "core_05_band_accountability.md",
       "anchor": "#decentralization",
-      "line_start": 1509,
-      "line_end": 1550
+      "line_start": 1548,
+      "line_end": 1589
     },
     {
       "term": "Dependency",
@@ -4365,8 +4370,8 @@
       "term": "Developing Sentient",
       "file": "core_05_band_participation.md",
       "anchor": "#developing-sentient-constitutional",
-      "line_start": 3278,
-      "line_end": 3314
+      "line_start": 3286,
+      "line_end": 3322
     },
     {
       "term": "Dignity and Equal Moral Standing",
@@ -4414,15 +4419,15 @@
       "term": "Educational Agency",
       "file": "core_05_band_participation.md",
       "anchor": "#educational-agency",
-      "line_start": 3114,
-      "line_end": 3172
+      "line_start": 3120,
+      "line_end": 3180
     },
     {
       "term": "Elevated Communicative Life",
       "file": "core_05_band_participation.md",
       "anchor": "#elevated-communicative-life-constitutional",
-      "line_start": 2348,
-      "line_end": 2412
+      "line_start": 2350,
+      "line_end": 2414
     },
     {
       "term": "Emergency and Contingency",
@@ -4449,8 +4454,8 @@
       "term": "Epistemic Integrity",
       "file": "core_05_band_oversight.md",
       "anchor": "#epistemic-integrity",
-      "line_start": 1339,
-      "line_end": 1383
+      "line_start": 1391,
+      "line_end": 1435
     },
     {
       "term": "Essential-Environment Non-Commodification",
@@ -4463,8 +4468,8 @@
       "term": "Evaluation Completeness Constraint",
       "file": "core_05_band_oversight.md",
       "anchor": "#evaluation-completeness-constraint",
-      "line_start": 996,
-      "line_end": 1058
+      "line_start": 1048,
+      "line_end": 1110
     },
     {
       "term": "Event-Contract Market",
@@ -4477,8 +4482,8 @@
       "term": "Evidence Preservation",
       "file": "core_05_band_oversight.md",
       "anchor": "#evidence-preservation",
-      "line_start": 946,
-      "line_end": 995
+      "line_start": 998,
+      "line_end": 1047
     },
     {
       "term": "Existential Risk",
@@ -4491,8 +4496,8 @@
       "term": "Expression",
       "file": "core_05_band_participation.md",
       "anchor": "#expression-constitutional",
-      "line_start": 3028,
-      "line_end": 3113
+      "line_start": 3032,
+      "line_end": 3119
     },
     {
       "term": "Fair Compensation",
@@ -4540,57 +4545,57 @@
       "term": "Foreseeability Diligence",
       "file": "core_05_band_oversight.md",
       "anchor": "#foreseeability-diligence",
-      "line_start": 1425,
-      "line_end": 1485
+      "line_start": 1477,
+      "line_end": 1537
     },
     {
       "term": "Forum Case Record",
       "file": "core_05_band_accountability.md",
       "anchor": "#forum-case-record",
-      "line_start": 2287,
-      "line_end": 2361
+      "line_start": 2326,
+      "line_end": 2400
     },
     {
       "term": "Forum Family, Constitutional",
       "file": "core_05_band_accountability.md",
       "anchor": "#forum-family-constitutional",
-      "line_start": 2249,
-      "line_end": 2286
+      "line_start": 2288,
+      "line_end": 2325
     },
     {
       "term": "Forum Family, Environment",
       "file": "core_05_band_accountability.md",
       "anchor": "#forum-family-environment",
-      "line_start": 2176,
-      "line_end": 2204
+      "line_start": 2215,
+      "line_end": 2243
     },
     {
       "term": "Forum Family, Institutional",
       "file": "core_05_band_accountability.md",
       "anchor": "#forum-family-institutional",
-      "line_start": 2147,
-      "line_end": 2175
+      "line_start": 2186,
+      "line_end": 2214
     },
     {
       "term": "Forum Family, Integrity",
       "file": "core_05_band_accountability.md",
       "anchor": "#forum-family-integrity",
-      "line_start": 2205,
-      "line_end": 2248
+      "line_start": 2244,
+      "line_end": 2287
     },
     {
       "term": "Forum Family, Sentient",
       "file": "core_05_band_accountability.md",
       "anchor": "#forum-family-sentient",
-      "line_start": 2083,
-      "line_end": 2111
+      "line_start": 2122,
+      "line_end": 2150
     },
     {
       "term": "Forum Family, Technical",
       "file": "core_05_band_accountability.md",
       "anchor": "#forum-family-technical",
-      "line_start": 2112,
-      "line_end": 2146
+      "line_start": 2151,
+      "line_end": 2185
     },
     {
       "term": "Foundational Constitutional Choice",
@@ -4624,29 +4629,29 @@
       "term": "Governance",
       "file": "core_05_band_accountability.md",
       "anchor": "#governance",
-      "line_start": 1235,
-      "line_end": 1281
+      "line_start": 1236,
+      "line_end": 1282
     },
     {
       "term": "Graduated Capability",
       "file": "core_05_band_participation.md",
       "anchor": "#graduated-capability-constitutional",
-      "line_start": 3363,
-      "line_end": 3409
+      "line_start": 3371,
+      "line_end": 3417
     },
     {
       "term": "Harassment and Bullying",
       "file": "core_05_band_accountability.md",
       "anchor": "#harassment-and-bullying",
-      "line_start": 1942,
-      "line_end": 2000
+      "line_start": 1981,
+      "line_end": 2039
     },
     {
       "term": "Harm",
       "file": "core_05_band_accountability.md",
       "anchor": "#harm",
-      "line_start": 1745,
-      "line_end": 1793
+      "line_start": 1784,
+      "line_end": 1832
     },
     {
       "term": "Harm Minimization (Tradeoff Selection)",
@@ -4656,11 +4661,18 @@
       "line_end": 130
     },
     {
+      "term": "Heightened Scrutiny",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#heightened-scrutiny",
+      "line_start": 159,
+      "line_end": 210
+    },
+    {
       "term": "High-Impact and Systemic Harm Publication Constraint",
       "file": "core_05_band_oversight.md",
       "anchor": "#high-impact-and-systemic-harm-publication-constraint",
-      "line_start": 1241,
-      "line_end": 1269
+      "line_start": 1293,
+      "line_end": 1321
     },
     {
       "term": "Identity Data Protection",
@@ -4722,8 +4734,8 @@
       "term": "Initiating Seat",
       "file": "core_05_band_accountability.md",
       "anchor": "#initiating-seat",
-      "line_start": 1325,
-      "line_end": 1360
+      "line_start": 1326,
+      "line_end": 1361
     },
     {
       "term": "Innovation Reward and Anti-Enclosure",
@@ -4757,15 +4769,15 @@
       "term": "Irreversible Deprivation Measure",
       "file": "core_05_band_accountability.md",
       "anchor": "#irreversible-deprivation-measure-constitutional",
-      "line_start": 3495,
-      "line_end": 3568
+      "line_start": 3534,
+      "line_end": 3607
     },
     {
       "term": "Irreversible Harm",
       "file": "core_05_band_accountability.md",
       "anchor": "#irreversible-harm",
-      "line_start": 1850,
-      "line_end": 1888
+      "line_start": 1889,
+      "line_end": 1927
     },
     {
       "term": "Language, Culture, and Heritage",
@@ -4799,50 +4811,50 @@
       "term": "Market Concentration Threshold",
       "file": "core_05_band_accountability.md",
       "anchor": "#market-concentration-threshold-constitutional",
-      "line_start": 1608,
-      "line_end": 1680
+      "line_start": 1647,
+      "line_end": 1719
     },
     {
       "term": "Market Structure",
       "file": "core_05_band_accountability.md",
       "anchor": "#market-structure-constitutional",
-      "line_start": 1551,
-      "line_end": 1607
+      "line_start": 1590,
+      "line_end": 1646
     },
     {
       "term": "Material",
       "file": "core_05_band_oversight.md",
       "anchor": "#material",
-      "line_start": 234,
-      "line_end": 267
+      "line_start": 286,
+      "line_end": 319
     },
     {
       "term": "Material Control Line",
       "file": "core_05_band_accountability.md",
       "anchor": "#material-control-line",
-      "line_start": 1282,
-      "line_end": 1324
+      "line_start": 1283,
+      "line_end": 1325
     },
     {
       "term": "Material Degradation",
       "file": "core_05_band_oversight.md",
       "anchor": "#material-degradation",
-      "line_start": 582,
-      "line_end": 623
+      "line_start": 634,
+      "line_end": 675
     },
     {
       "term": "Material Impact",
       "file": "core_05_band_oversight.md",
       "anchor": "#material-impact",
-      "line_start": 377,
-      "line_end": 424
+      "line_start": 429,
+      "line_end": 476
     },
     {
       "term": "Material Risk",
       "file": "core_05_band_oversight.md",
       "anchor": "#material-risk",
-      "line_start": 425,
-      "line_end": 470
+      "line_start": 477,
+      "line_end": 522
     },
     {
       "term": "material stake",
@@ -4855,29 +4867,36 @@
       "term": "Materiality Determination",
       "file": "core_05_band_oversight.md",
       "anchor": "#materiality-determination",
-      "line_start": 268,
-      "line_end": 339
+      "line_start": 320,
+      "line_end": 391
     },
     {
       "term": "Materiality Integrity Constraint",
       "file": "core_05_band_oversight.md",
       "anchor": "#materiality-integrity-constraint",
-      "line_start": 340,
-      "line_end": 376
+      "line_start": 392,
+      "line_end": 428
     },
     {
       "term": "Materiality Under Uncertainty",
       "file": "core_05_band_oversight.md",
       "anchor": "#materiality-under-uncertainty",
-      "line_start": 471,
-      "line_end": 510
+      "line_start": 523,
+      "line_end": 562
+    },
+    {
+      "term": "Materially Binding Act",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#materially-binding-act",
+      "line_start": 1470,
+      "line_end": 1508
     },
     {
       "term": "Materially Binding Act Record",
       "file": "core_05_band_accountability.md",
       "anchor": "#materially-binding-act-record",
-      "line_start": 1470,
-      "line_end": 1508
+      "line_start": 1509,
+      "line_end": 1547
     },
     {
       "term": "Meaningful Agency",
@@ -4932,8 +4951,8 @@
       "term": "Non-Compliance Finding Profile",
       "file": "core_05_band_accountability.md",
       "anchor": "#non-compliance-finding-profile",
-      "line_start": 2362,
-      "line_end": 2395
+      "line_start": 2401,
+      "line_end": 2434
     },
     {
       "term": "Non-Imposition (Cooperative Interaction)",
@@ -4981,8 +5000,8 @@
       "term": "Participant Standing",
       "file": "core_05_band_accountability.md",
       "anchor": "#participant-standing-constitutional",
-      "line_start": 2457,
-      "line_end": 2520
+      "line_start": 2496,
+      "line_end": 2559
     },
     {
       "term": "Participation",
@@ -4995,15 +5014,15 @@
       "term": "Press and Journalistic Activity",
       "file": "core_05_band_oversight.md",
       "anchor": "#press-and-journalistic-activity-constitutional",
-      "line_start": 159,
-      "line_end": 201
+      "line_start": 211,
+      "line_end": 253
     },
     {
       "term": "Primary-Stakes Routing",
       "file": "core_05_band_accountability.md",
       "anchor": "#primary-stakes-routing",
-      "line_start": 2053,
-      "line_end": 2082
+      "line_start": 2092,
+      "line_end": 2121
     },
     {
       "term": "Privacy (Informational)",
@@ -5058,8 +5077,8 @@
       "term": "Protected Data and Internal-State Publication Constraint",
       "file": "core_05_band_oversight.md",
       "anchor": "#protected-data-and-internal-state-publication-constraint",
-      "line_start": 1223,
-      "line_end": 1240
+      "line_start": 1275,
+      "line_end": 1292
     },
     {
       "term": "Protected Internal-State Boundary",
@@ -5093,43 +5112,43 @@
       "term": "Proxy Divergence",
       "file": "core_05_band_oversight.md",
       "anchor": "#proxy-divergence",
-      "line_start": 511,
-      "line_end": 581
+      "line_start": 563,
+      "line_end": 633
     },
     {
       "term": "Psychological Harm",
       "file": "core_05_band_accountability.md",
       "anchor": "#psychological-harm",
-      "line_start": 1822,
-      "line_end": 1849
+      "line_start": 1861,
+      "line_end": 1888
     },
     {
       "term": "Public Oversight Baseline Disclosure",
       "file": "core_05_band_oversight.md",
       "anchor": "#public-oversight-baseline-disclosure",
-      "line_start": 741,
-      "line_end": 820
+      "line_start": 793,
+      "line_end": 872
     },
     {
       "term": "Publication Truthfulness and Recklessness Floor",
       "file": "core_05_band_oversight.md",
       "anchor": "#publication-truthfulness-and-recklessness-floor",
-      "line_start": 1193,
-      "line_end": 1222
+      "line_start": 1245,
+      "line_end": 1274
     },
     {
       "term": "Reasonably Foreseeable",
       "file": "core_05_band_oversight.md",
       "anchor": "#reasonably-foreseeable",
-      "line_start": 1486,
-      "line_end": 1506
+      "line_start": 1538,
+      "line_end": 1558
     },
     {
       "term": "Record Seat",
       "file": "core_05_band_accountability.md",
       "anchor": "#record-seat",
-      "line_start": 1397,
-      "line_end": 1432
+      "line_start": 1398,
+      "line_end": 1433
     },
     {
       "term": "Redress and Remediation",
@@ -5198,8 +5217,8 @@
       "term": "Risk Disclosure",
       "file": "core_05_band_oversight.md",
       "anchor": "#risk-disclosure",
-      "line_start": 821,
-      "line_end": 863
+      "line_start": 873,
+      "line_end": 915
     },
     {
       "term": "Risk Evaluation",
@@ -5226,15 +5245,15 @@
       "term": "Security-Sensitive Disclosure Balance",
       "file": "core_05_band_oversight.md",
       "anchor": "#security-sensitive-disclosure-balance",
-      "line_start": 1270,
-      "line_end": 1298
+      "line_start": 1322,
+      "line_end": 1350
     },
     {
       "term": "Self-Determination",
       "file": "core_05_band_participation.md",
       "anchor": "#self-determination-constitutional",
-      "line_start": 2983,
-      "line_end": 3027
+      "line_start": 2985,
+      "line_end": 3031
     },
     {
       "term": "Self-Healing",
@@ -5248,28 +5267,28 @@
       "file": "core_05_band_participation.md",
       "anchor": "#sentience-non-exclusion",
       "line_start": 2206,
-      "line_end": 2264
+      "line_end": 2266
     },
     {
       "term": "Sentience Status Adjudication",
       "file": "core_05_band_participation.md",
       "anchor": "#sentience-status-adjudication-constitutional",
-      "line_start": 2596,
-      "line_end": 2683
+      "line_start": 2598,
+      "line_end": 2685
     },
     {
       "term": "Sentience-Status Adjudication Record",
       "file": "core_05_band_participation.md",
       "anchor": "#sentience-status-adjudication-record-constitutional",
-      "line_start": 2684,
-      "line_end": 2767
+      "line_start": 2686,
+      "line_end": 2769
     },
     {
       "term": "Sentient",
       "file": "core_05_band_participation.md",
       "anchor": "#sentient",
-      "line_start": 2531,
-      "line_end": 2595
+      "line_start": 2533,
+      "line_end": 2597
     },
     {
       "term": "Shared-System Capacity",
@@ -5289,8 +5308,8 @@
       "term": "Single Catastrophic Incident",
       "file": "core_05_band_accountability.md",
       "anchor": "#single-catastrophic-incident",
-      "line_start": 3114,
-      "line_end": 3152
+      "line_start": 3153,
+      "line_end": 3191
     },
     {
       "term": "Stakeholder",
@@ -5310,15 +5329,15 @@
       "term": "Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)",
       "file": "core_05_band_participation.md",
       "anchor": "#stakeholder-representation-and-weight-limits-binding-stakeholder-choice",
-      "line_start": 2875,
-      "line_end": 2911
+      "line_start": 2877,
+      "line_end": 2913
     },
     {
       "term": "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
       "file": "core_05_band_participation.md",
       "anchor": "#stakeholder-rights-collision-record-binding-stakeholder-choice",
-      "line_start": 2912,
-      "line_end": 2948
+      "line_start": 2914,
+      "line_end": 2950
     },
     {
       "term": "Stakeholder Weight",
@@ -5331,22 +5350,22 @@
       "term": "Standing Effect",
       "file": "core_05_band_accountability.md",
       "anchor": "#standing-effect-chapter-six",
-      "line_start": 2679,
-      "line_end": 2744
+      "line_start": 2718,
+      "line_end": 2783
     },
     {
       "term": "Standing Lock",
       "file": "core_05_band_accountability.md",
       "anchor": "#standing-lock",
-      "line_start": 2927,
-      "line_end": 2979
+      "line_start": 2966,
+      "line_end": 3018
     },
     {
       "term": "Standing Record",
       "file": "core_05_band_accountability.md",
       "anchor": "#standing-record-chapter-six",
-      "line_start": 2745,
-      "line_end": 2834
+      "line_start": 2784,
+      "line_end": 2873
     },
     {
       "term": "Stay",
@@ -5408,8 +5427,8 @@
       "term": "Sustained High-Gravity Pattern",
       "file": "core_05_band_accountability.md",
       "anchor": "#sustained-high-gravity-pattern",
-      "line_start": 3153,
-      "line_end": 3198
+      "line_start": 3192,
+      "line_end": 3237
     },
     {
       "term": "System",
@@ -5520,8 +5539,8 @@
       "term": "Transparency",
       "file": "core_05_band_oversight.md",
       "anchor": "#transparency",
-      "line_start": 681,
-      "line_end": 740
+      "line_start": 733,
+      "line_end": 792
     },
     {
       "term": "Trust",
@@ -5548,8 +5567,8 @@
       "term": "Truth (Constitutional Constraint)",
       "file": "core_05_band_oversight.md",
       "anchor": "#truth-constitutional-constraint",
-      "line_start": 1299,
-      "line_end": 1338
+      "line_start": 1351,
+      "line_end": 1390
     },
     {
       "term": "Two Constitutional Aims",
@@ -5562,57 +5581,57 @@
       "term": "Unified Incident",
       "file": "core_05_band_accountability.md",
       "anchor": "#unified-incident",
-      "line_start": 3023,
-      "line_end": 3062
+      "line_start": 3062,
+      "line_end": 3101
     },
     {
       "term": "Unified Incident Record",
       "file": "core_05_band_accountability.md",
       "anchor": "#unified-incident-record",
-      "line_start": 3063,
-      "line_end": 3113
+      "line_start": 3102,
+      "line_end": 3152
     },
     {
       "term": "Use of Force",
       "file": "core_05_band_accountability.md",
       "anchor": "#use-of-force-constitutional",
-      "line_start": 3244,
-      "line_end": 3309
+      "line_start": 3283,
+      "line_end": 3348
     },
     {
       "term": "Verifiability",
       "file": "core_05_band_oversight.md",
       "anchor": "#verifiability",
-      "line_start": 1059,
-      "line_end": 1134
+      "line_start": 1111,
+      "line_end": 1186
     },
     {
       "term": "Verified Inputs for Standing",
       "file": "core_05_band_accountability.md",
       "anchor": "#verified-inputs-for-standing",
-      "line_start": 2521,
-      "line_end": 2573
+      "line_start": 2560,
+      "line_end": 2612
     },
     {
       "term": "Verify-or-Authorize Seat",
       "file": "core_05_band_accountability.md",
       "anchor": "#verify-or-authorize-seat",
-      "line_start": 1361,
-      "line_end": 1396
+      "line_start": 1362,
+      "line_end": 1397
     },
     {
       "term": "Violation Nature",
       "file": "core_05_band_accountability.md",
       "anchor": "#violation-nature-chapter-six",
-      "line_start": 2627,
-      "line_end": 2678
+      "line_start": 2666,
+      "line_end": 2717
     },
     {
       "term": "Volitional Integrity",
       "file": "core_05_band_participation.md",
       "anchor": "#volitional-integrity",
-      "line_start": 3173,
-      "line_end": 3230
+      "line_start": 3181,
+      "line_end": 3238
     },
     {
       "term": "Voluntary Discontinuation",
@@ -5625,8 +5644,8 @@
       "term": "Weapons of Mass Harm",
       "file": "core_05_band_accountability.md",
       "anchor": "#weapons-of-mass-harm-constitutional",
-      "line_start": 3363,
-      "line_end": 3426
+      "line_start": 3402,
+      "line_end": 3465
     },
     {
       "term": "Wellbeing",
@@ -5807,12 +5826,12 @@
         "prefer": "Preamble (core_00_preamble.md); retain filename core_00_preamble.md, ch00_* keys, and #chapter-00-* anchors"
       },
       {
-        "avoid": "pathway (bare; standing/privilege/lock/clearance object)",
-        "prefer": "named pathway, named privilege pathway, or a Chapter Ten §4.2 type prefix (trust, role, authority, credit, oversight, recognition, stewardship, governance-voting, stakeholder-participation); do not invent clearance pathway or lock pathway as house terms"
+        "avoid": "pathway (bare; any sense)",
+        "prefer": "a kind-naming qualifier: named pathway, named privilege pathway, or a Chapter Ten §4.2 type prefix in the standing sense; challenge/review/appeal/remedy/redress/contest/dispute-resolution/participation/self-service pathway for process routes; causal/harm/risk/interaction pathway for causal analysis; do not invent clearance pathway or lock pathway as house terms"
       },
       {
-        "avoid": "pathways (bare; standing/privilege/lock/clearance object)",
-        "prefer": "named pathways, named privilege pathways, or type-prefixed privilege pathways; retain Capture of Resolution Pathways, challenge/review/appeal/remedy/redress/contest pathways, restorative/restoration pathways, causal/system compounds, and established titles"
+        "avoid": "pathways (bare; any sense), including pathway-… prefix compounds",
+        "prefer": "kind-qualified plurals (named pathways, challenge and review pathways, risk pathways, and similar) and qualified compounds (named-pathway-specific); retain Capture of Resolution Pathways, restorative/restoration pathways, causal/system compounds, and established titles; enforced by avoid-bare-pathway"
       },
       {
         "avoid": "named-pathway result / named-pathway results",

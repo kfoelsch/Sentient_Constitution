@@ -175,7 +175,7 @@ def render_markdown(payload: dict) -> str:
         "",
         f"Entry count: {payload['entry_count']}",
         "",
-        "CH5-HIER-01 tag vocabulary: [doc_architecture.md](../doc_architecture.md) section 4.",
+        "CH5-HIER-01 tag vocabulary: [doc_architecture.md](../../doc_architecture.md) section 4.",
         "",
         "| Term | File | Aim role | Primary aim | Tetrad leg | Ch00 measurement | Cluster |",
         "| --- | --- | --- | --- | --- | --- | --- |",

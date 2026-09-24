@@ -84,6 +84,6 @@ See: [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-ch
 
 ## If you want to look further
 
-- Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
+- Public door: [`../../../README.md`](../../../README.md)
 - Sibling briefs: [`README.md`](README.md) — [E04](E04_tween.md) if the scene is earlier; [E05](E05_disability.md) if access, not age-talk, is the closed door; [E17](E17_student.md) if school, training, or a credential is the lever
 - Operators only (not an answer key): lived packet [`../../../evaluation/lived_situations/packets/S02_teen_own_good_lock.md`](../../../evaluation/lived_situations/packets/S02_teen_own_good_lock.md)

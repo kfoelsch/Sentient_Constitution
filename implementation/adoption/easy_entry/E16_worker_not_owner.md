@@ -59,7 +59,7 @@ See: [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-ch
 - **Today:** The model is constrained; the human crew is told to skip the rule and “take responsibility.” Or the reverse: extra duties only the machine has to follow.
 - **With this Constitution:** One standard when it is costly. An extra rulebook only one kind of worker has to follow is a way to skip the rules.
 
-See: [Chapter One §9.1.1](../../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard).
+See: [Chapter One §9.1.1](../../../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard).
 
 ## What you might reasonably object to
 
@@ -82,6 +82,6 @@ See: [Chapter One §9.1.1](../../../core_01_c_stewardship_capacity_principles.md
 
 ## If you want to look further
 
-- Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
+- Public door: [`../../../README.md`](../../../README.md)
 - Sibling briefs: [`README.md`](README.md) — [E08](E08_small_business_owner.md) if you run the shop; [E10](E10_system_operator.md) if you deploy a system others depend on; [E12](E12_informal_livelihood.md) if public protections are thin and a new app is the gate
 - Operators only (not an answer key): lived packet [`../../../evaluation/lived_situations/packets/S07_worker_not_owner.md`](../../../evaluation/lived_situations/packets/S07_worker_not_owner.md)

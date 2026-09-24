@@ -36,6 +36,56 @@ class PagesSiteTests(unittest.TestCase):
             corpus_index = (out / "corpus_index.md").read_text(encoding="utf-8")
             self.assertIn("](core_00_preamble.md)", corpus_index)
             self.assertTrue((out / "_config.yml").is_file())
+            self.assertIn("jekyll-redirect-from", (out / "_config.yml").read_text(encoding="utf-8"))
+
+    def test_relative_link_targets(self) -> None:
+        text = (
+            "[a](b.md#x) [c](../d/e.md) [f](<g h.md>) [ext](https://x.org/y.md) "
+            "[frag](#only) [root](/abs.md) [t](k.md \"title\")\n"
+            "[ref]: ref.md#anchor\n"
+        )
+        got = generate_pages_site.relative_link_targets("sub/page.md", text)
+        self.assertEqual(sorted(got), ["d/e.md", "sub/b.md", "sub/g h.md", "sub/k.md", "sub/ref.md"])
+
+    def test_link_gaps_are_filled_without_touching_copies(self) -> None:
+        with tempfile.TemporaryDirectory(prefix="pages-site-gaps-") as tmp:
+            root = Path(tmp) / "repo"
+            (root / "docs").mkdir(parents=True)
+            (root / "docs/index.md").write_text("# Door\n", encoding="utf-8")
+            (root / "extra").mkdir()
+            (root / "extra/notes.md").write_text("# Notes\n", encoding="utf-8")
+            (root / "extra/pack").mkdir()
+            (root / "extra/pack/a.md").write_text("# A\n", encoding="utf-8")
+            (root / "extra/schema.json").write_text("{}\n", encoding="utf-8")
+            page = (
+                "# Page\n[n](extra/notes.md#s) [p](extra/pack/) [j](extra/schema.json) "
+                "[gone](nowhere.md) [ci](.github/x.yml)\n"
+            )
+            (root / "page.md").write_text(page, encoding="utf-8")
+            (root / ".github").mkdir()
+            (root / ".github/x.yml").write_text("x: 1\n", encoding="utf-8")
+            out = Path(tmp) / "site"
+            out.mkdir()
+            (out / "page.md").write_text(page, encoding="utf-8")
+            copied, unresolved = generate_pages_site.fill_link_gaps(root, out, {"page.md"})
+            self.assertEqual((out / "page.md").read_text(encoding="utf-8"), page)
+            stub = (out / "extra/notes.md").read_text(encoding="utf-8")
+            self.assertIn("redirect_to: " + generate_pages_site.BLOB + "extra/notes.md", stub)
+            dir_stub = (out / "extra/pack/index.md").read_text(encoding="utf-8")
+            self.assertIn("redirect_to: " + generate_pages_site.TREE + "extra/pack", dir_stub)
+            self.assertEqual(copied, ["extra/schema.json"])
+            self.assertEqual((out / "extra/schema.json").read_text(encoding="utf-8"), "{}\n")
+            self.assertEqual(set(unresolved), {"missing", "excluded"})
+            self.assertIn("nowhere.md", unresolved["missing"])
+            self.assertIn(".github/x.yml", unresolved["excluded"])
+
+    def test_real_corpus_leaves_only_known_gaps(self) -> None:
+        with tempfile.TemporaryDirectory(prefix="pages-site-real-") as tmp:
+            out = Path(tmp) / "site"
+            rels, unresolved = generate_pages_site.assemble_with_report(ROOT, out)
+            self.assertEqual(generate_pages_site.copies_match(ROOT, out, rels), [])
+            self.assertTrue((out / "implementation/PRE_PUBLICATION_SPEC.md").is_file())
+            self.assertEqual(set(unresolved) - {"missing", "excluded", "outside"}, set())
 
 
 if __name__ == "__main__":

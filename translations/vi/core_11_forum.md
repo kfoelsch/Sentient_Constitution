@@ -423,7 +423,7 @@ Các **tiểu mục** **dưới** **theo** **thứ tự** **bảng** **địa đ
 - giảm bất định có giới hạn liên quan phân xử hoặc quy định;
 - xác định trạng thái hữu tri **Điều V-E** (*Sàn phân xử trạng thái hữu tri*) có lợi hại chính là đánh giá chỉ báo, bằng chứng chuyên gia, hoặc bất định có giới hạn liệu một thực thể có phải **hữu tri** dưới **Chương Năm** (*Phân xử trạng thái hữu tri*).
 
-**Lưu giữ chuẩn.** **Lĩnh vực Diễn đàn Kỹ thuật** duy trì chuẩn rà được dùng để vận hành hóa hạng đo [Lời nói đầu §2](core_00_preamble.md#2-the-measurements) và nhà định nghĩa [Chương Năm](core_05__definitions_home.md#chapter-five-foundational-definitions) — kể cả chuẩn dùng đánh giá thẳng hàng hệ thống — trong phạm vi hợp pháp:
+**Lưu giữ chuẩn.** **Lĩnh vực Diễn đàn Kỹ thuật** duy trì chuẩn rà được dùng để vận hành hóa hạng đo [Lời nói đầu §2](core_00_preamble.md#2-measurements-overview) và nhà định nghĩa [Chương Năm](core_05__definitions_home.md#chapter-five-foundational-definitions) — kể cả chuẩn dùng đánh giá thẳng hàng hệ thống — trong phạm vi hợp pháp:
 - phương pháp đo;
 - giao thức thử;
 - chuẩn bằng chứng chuyên gia;

@@ -196,7 +196,7 @@
 
 - 상류: [제2장 — 정의 구조와 구성 요건](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements); [제3장 — 정의 완전성, 회피, 비준수](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance); [제4장, 1절부터 5절](#1-exclusive-enforcement-and-burden-allocation).
 - 하류: [제7장 — 체계 정합 인증](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [제8장 — 기여, 위반, 궤적 모형](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
-- 함께 읽기: [제7장 §16 — 재개방, 어긋남, 회피 금지](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — 제2장부터 제4장 아래의 확인된 비준수는 이전 인정과 관계없이 인증을 재개방하거나 무너뜨릴 수 있다.
+- 함께 읽기: [제7장 §16 — 재개방, 어긋남, 회피 금지](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) — 제2장부터 제4장 아래의 확인된 비준수는 이전 인정과 관계없이 인증을 재개방하거나 무너뜨릴 수 있다.
 
 </details>
 

@@ -42,7 +42,7 @@ Daha iyi sistemler kurmayı — bu dengesizlikleri ortadan kaldıracak biçimde 
 
 Bu amaçlar birlikte izlenmelidir; her zaman bu Anayasada kurulan pazarlığa kapalı ilke kısıtları ve hak korumaları içinde. [**Anayasal Dörtlü**](#constitutional-tetrad) bu izlemenin nasıl meşru kaldığını yönetir: [**maddi pay**](#material-stake)a ölçeklenmiş **katılım**, **gözetim**, **hesap verebilirlik** ve **zamanındalık**. Dörtlü bacakları ve anayasal amaçlar için bağlayıcı tanımlar Beşinci Bölümde yaşar: [Katılım](core_05_apex_participation_leg.md#participation-constitutional), [Gözetim](core_05_apex_oversight_leg.md#oversight-constitutional), [Hesap verebilirlik](core_05_apex_accountability_leg.md#accountability), [Zamanındalık](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Gelişim](core_05_apex_flourishing_aim.md#flourishing-constitutional) ve [Süreklilik](core_05_apex_continuity_aim.md#continuity-aim-constitutional).
 
-<a id="2-the-measurements"></a>
+<a id="2-measurements-overview"></a>
 
 
 ### 2. Ölçümler genel bakışı
@@ -86,7 +86,7 @@ Dağıtılmış anlayış ve sorumlu yönetim, algılayanların bizi maddi olara
 
 Anayasa somut ölçüm kuralları istediğinde, [On Birinci Bölüm](core_11_forum.md#42-technical-forum-domains) altındaki **Teknik Forum Alanları** paylaşılan standartları geliştirir ve sürdürür — nasıl ölçüleceği, nasıl deneneceği ve neyin güvenilir kanıt sayılacağı. Belirli bir uyuşmazlıktan sorumlu forum, o davayı [On Birinci Bölüm §4.2](core_11_forum.md#42-shared-standards-and-anti-displacement) altında karara bağlarken bu standartları uygular.
 
-Anayasal sorumlu yönetim, sorunu ve [**maddi pay**](#material-stake)ı — ne kadar etki, bağımlılık ve riskin söz konusu olduğunu — adlandırmakla başlar. Sonra [genel bakış](#2-the-measurements)tan ilgili [**ölçüm**](#2-the-measurements) kategorisini ve alt kategorisini seçin ve elverişlilik ölçütleri yerine gerçek dünya etkilerini denemek için yukarıdaki standartları uygulayın. İzlenebilir kanıt isteyin.
+Anayasal sorumlu yönetim, sorunu ve [**maddi pay**](#material-stake)ı — ne kadar etki, bağımlılık ve riskin söz konusu olduğunu — adlandırmakla başlar. Sonra [genel bakış](#2-measurements-overview)tan ilgili [**ölçüm**](#2-measurements-overview) kategorisini ve alt kategorisini seçin ve elverişlilik ölçütleri yerine gerçek dünya etkilerini denemek için yukarıdaki standartları uygulayın. İzlenebilir kanıt isteyin.
 
 <a id="32-key-governance-processes"></a>
 #### 3.2 Temel yönetişim süreçleri
@@ -187,7 +187,7 @@ Aşağıdaki her adım, bölümün ne sahiplendiğini ve ne ürettiğini belirti
 
 - **Ne sahiplenir:** Doğrulanmış sınıflamaları ayrı izlerde gerçek dünya **güzergâh etkilerine** bütünleştirir — [**maddi pay**](#material-stake)a ölçeklenmiş, katkı ve ihlali tek net puana katlamadan ve katılımı, gözetimi, hesap verebilirliği ya da zamanındalığı boşaltmadan.
   - **Katkı izi:** Doğrulanmış olumlu sınıflama pratik avantaj üretir:
-    - Yetkinlik yayımlanmış yetkinlik eşiğine karşı gösterildiğinde ve uygulanabilir hiçbir [güzergâh kilidi](../../core_10_standing_integration.md#42-general-standing-locks) adlandırılmış yolu kapatmadığında, güvene duyarlı rolleri, devredilmiş yetkiyi, gözetim elverişliliğini ve giderek sonuç doğuran sorumlu yönetimi açabilen [**yetkinlik izinleri**](../../core_10_standing_integration.md#62-competency-bars-and-clearances)
+    - Yetkinlik yayımlanmış yetkinlik eşiğine karşı gösterildiğinde ve uygulanabilir hiçbir [güzergâh kilidi](../../core_10_standing_integration.md#42-prevention--general-standing-locks) adlandırılmış yolu kapatmadığında, güvene duyarlı rolleri, devredilmiş yetkiyi, gözetim elverişliliğini ve giderek sonuç doğuran sorumlu yönetimi açabilen [**yetkinlik izinleri**](../../core_10_standing_integration.md#62-competency-bars-and-clearances)
     - [Birinci Bölüm](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)ün istediği gibi yasal sorumlu yönetim ve işbirliği için orantılı tanıma ve **maddi ödüller**
     - Boş övgü değil. Yararlar gerçek, kanıtla destekli ve itiraza açık olmalıdır
   - **İhlal izi:** Doğrulanmış ihlal bulguları pratik dezavantaj üretir:

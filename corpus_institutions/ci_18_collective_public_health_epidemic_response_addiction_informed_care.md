@@ -36,7 +36,7 @@
 
 This file is the institutional implementation home for **CI-18** (*Collective public health, epidemic response, and addiction-informed care*).
 
-*In plain terms: **CI-18** is the local owner map for epidemics, environmental exposure, population-level harm, and addiction as collective-care problems. Shared floors live in **CJS-3.12**; this file names who owns the pathway, the support bundle, addiction routing, stigma controls, and emergency-secrecy sunsets.*
+*In plain terms: **CI-18** is the local owner map for epidemics, environmental exposure, population-level harm, and addiction as collective-care problems. Shared floors live in **CJS-3.12**; this file names who owns the collective-care pathway, the support bundle, addiction routing, stigma controls, and emergency-secrecy sunsets.*
 
 **Quick orientation**
 - **The basic idea** — public-health and collective-care restrictions must be evaluated together with the support bundle, stigma risk, care-first alternatives, externality evidence, emergency duration, secrecy predicate, and sunset rule.

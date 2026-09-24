@@ -378,7 +378,7 @@ DEFAULT_THEMATIC_BREAK_TARGETS: tuple[str, ...] = (
     "corpus_institutions.md",
     "corpus_forum.md",
     "corpus_joint_structure.md",
-    "CONSTITUTIONAL_REGRESSION_SCENARIOS.md",
+    "project/CONSTITUTIONAL_REGRESSION_SCENARIOS.md",
     "README.md",
     "doc_architecture.md",
     "archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md",
@@ -423,7 +423,7 @@ def resolve_thematic_paths(root: pathlib.Path, arg: str | None) -> list[pathlib.
     if arg is None:
         names = [
             *binding_corpus_scope(root, include_support_docs=True),
-            "CONSTITUTIONAL_REGRESSION_SCENARIOS.md",
+            "project/CONSTITUTIONAL_REGRESSION_SCENARIOS.md",
             "archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md",
         ]
     else:

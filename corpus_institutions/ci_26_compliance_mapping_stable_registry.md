@@ -50,7 +50,7 @@ This file is the institutional implementation home for **CI-26** (*Compliance ma
 | **CI-7.1** | Controls declaration, three-lines assurance attestation, and incident notification urgency framework |
 | **CI-7.2** | External assurance triggers and independent review |
 | **CI-7.3** | Contest-integrity monitoring (**Class A** and **Class B**) |
-| **CI-8** | Transparency, participation, accessible pathways, protected escalation, and disclosure taxonomy |
+| **CI-8** | Transparency, participation, accessible challenge and service pathways, protected escalation, and disclosure taxonomy |
 | **CI-9** | Classification-linked institutional obligations and scaling map |
 | **CI-12** | Cross-institution coordination and escalation |
 | **CI-13** | Institutional failure, graduated sanctions, dissolution, and continuity transfer |

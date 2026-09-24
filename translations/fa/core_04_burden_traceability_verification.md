@@ -196,7 +196,7 @@
 
 - بالادست: [فصل دوم — ساختار تعریف و الزامات مؤلفه‌ها](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements)؛ [فصل سوم — یکپارچگی تعریف، گریز، و عدم‌انطباق](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)؛ [فصل چهارم، بخش‌های 1 تا 5](#1-exclusive-enforcement-and-burden-allocation).
 - پایین‌دست: [فصل هفتم — گواهی هم‌راستایی نظام](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)؛ [فصل هشتم — مدل همیاری، تخلف، و ردپا](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
-- خوانده شود با: [فصل هفتم §16 — بازگشایی، ناهم‌راستایی، و ضدگریز](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — عدم‌انطباق راستی‌آزمایی‌شده زیر فصل‌های دوم تا چهارم می‌تواند گواهی را بازگشاید یا شکست دهد صرف‌نظر از بازشناسی پیشین.
+- خوانده شود با: [فصل هفتم §16 — بازگشایی، ناهم‌راستایی، و ضدگریز](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) — عدم‌انطباق راستی‌آزمایی‌شده زیر فصل‌های دوم تا چهارم می‌تواند گواهی را بازگشاید یا شکست دهد صرف‌نظر از بازشناسی پیشین.
 
 </details>
 

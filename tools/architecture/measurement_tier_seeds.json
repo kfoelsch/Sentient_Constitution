@@ -58,6 +58,11 @@
       "status": "approved",
       "ch00_category": "3.6 Accountability"
     },
+    "Materially Binding Act": {
+      "tier_depth": "primary_secondary",
+      "status": "approved",
+      "ch00_category": "3.6 Accountability"
+    },
     "Materially Binding Act Record": {
       "tier_depth": "primary_secondary",
       "status": "approved",
@@ -646,6 +651,11 @@
     "Harm Minimization (Tradeoff Selection)": {
       "ch00_category": "3.6 Accountability",
       "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Heightened Scrutiny": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_secondary",
       "status": "approved"
     },
     "High-Impact and Systemic Harm Publication Constraint": {

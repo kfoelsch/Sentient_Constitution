@@ -84,7 +84,7 @@ flowchart TB
     style T fill:none,stroke:#9333ea,color:#ffffff
 ```
 
-*The aims describe what shared systems must pursue; the Tetrad describes the duties that keep that pursuit legitimate. All four duties scale with [material stake](core_00_preamble.md#material-stake), and both aims remain bounded by the Rights Floor. Reproduced from the [Conceptual Overview](CONCEPTUAL_OVERVIEW.md#two-aims-and-the-constitutional-tetrad).*
+*The aims describe what shared systems must pursue; the Tetrad describes the duties that keep that pursuit legitimate. All four duties scale with [material stake](core_00_preamble.md#material-stake), and both aims remain bounded by the Rights Floor. Reproduced from the [Conceptual Overview](guides/CONCEPTUAL_OVERVIEW.md#two-aims-and-the-constitutional-tetrad).*
 
 These values:
 - are not independent, and in ordinary operation they are not strictly hierarchical.
@@ -235,7 +235,7 @@ These four parts also support [4. Trust](#4-system-stability-enabler-trust-coord
 - [Participation](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [Contestability](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [Meaningful Agency](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_accountability.md#meaningful-agency-o) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [Meaningful Agency](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
 - [Incentive Alignment](core_05_band_integrative.md#incentive-alignment) · [O](core_05_band_integrative.md#incentive-alignment) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
 
 </details>
@@ -256,7 +256,7 @@ That is a constitutional duty, not optional culture. Shared systems should make 
 <a id="222-celebration-of-success"></a>
 ##### 2.2.2 Celebration of Success
 
-**Celebration** honors **traceable**, **non-misleading** accomplishment and prosocial coordination. That includes uplift and stewardship narratives tied to verified [contribution](core_05_band_continuity.md#contribution).
+**Celebration** honors **traceable**, **non-misleading** accomplishment and prosocial coordination. That includes uplift and stewardship narratives tied to verified [contribution](core_05_band_accountability.md#contribution-nature).
 
 Celebration must not:
 - substitute for real progress toward underlying constitutional objectives where proxy optimization has diverged from them ([§2 Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing))
@@ -312,7 +312,7 @@ Granular ceremonies, curricula, budgets, programs, and metrics belong in adoptin
 
 - Upstream: [§2 Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing) (*parent — dignity and equal moral standing made operational as a process-character floor*); [§2.1 Fairness](#21-fairness) (*fair treatment requires that the process itself not become the punishment*); [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **accountability** leg (process design answers to affected sentients, not to institutional convenience); **oversight** leg (degradation is detectable and challengeable); [Cruelty](core_05_band_accountability.md#cruelty) (*Chapter Five home for suffering-as-end and gratuitous / degrading infliction*).
-- Downstream: [§6.1.4 Constitutional Floors, Safety, and Process-Character Constraints](core_01_b_interaction_interpretation.md#614-constitutional-floors-safety-and-process-character-constraints) (invokes this principle as an absolute floor in the tradeoff stack); [§9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth) and [§10 Consequential Stewardship](core_01_c_stewardship_capacity_principles.md#10-consequential-stewardship) (*binds how the pillars' and the steward role's work may be carried out — not a subsection of either*); [Article V: Equal Basic Rights](core_06_rights_part_b.md#article-v-equal-basic-rights); [Article XXIII-A](core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*anti-cruelty floor*); [corpus_systems CS-7](corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md).
+- Downstream: [§6.1.4 Constitutional Floors, Safety, and Process-Character Constraints](core_01_b_interaction_interpretation.md#614-constitutional-floors-safety-and-process-character-constraints) (invokes this principle as an absolute floor in the tradeoff stack); [§9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth) and [§10 Consequential Stewardship](core_01_c_stewardship_capacity_principles.md#10-consequential-stewardship-the-steward-role) (*binds how the pillars' and the steward role's work may be carried out — not a subsection of either*); [Article V: Equal Basic Rights](core_06_rights_part_b.md#article-v-equal-basic-rights); [Article XXIII-A](core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*anti-cruelty floor*); [corpus_systems CS-7](corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md).
 
 </details>
 
@@ -331,7 +331,7 @@ Granular ceremonies, curricula, budgets, programs, and metrics belong in adoptin
 
 *In plain terms: however you govern, enforce, judge, restrict, or remedy — you don't run sentients through humiliation, public spectacle, retaliation, or "because it's easier for us" cruelty. Fair consequences, public accountability, and firm restrictions can still be lawful even when they hurt or embarrass someone. What crosses the line is when the process itself is the punishment — designed to degrade, shame, or lash out rather than to protect, correct, restore, or prevent. This applies everywhere constitutional authority runs, not only during rights tradeoffs.*
 
-**What it is:** a cross-cutting character floor under [§2 Wellbeing](#2-foundational-objective-wellbeing) — it does not add substantive work of its own the way [§2.1 Fairness](#21-fairness) and [§2.2 Recognition, Reinforcement, and Aspiration](#22-recognition-reinforcement-and-aspiration) do, but constrains *how* wellbeing work, stewardship work, and every other constitutional process may be carried out — including the three pillars of [§9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth) and the steward role defined in [§10 Consequential Stewardship](core_01_c_stewardship_capacity_principles.md#10-consequential-stewardship).
+**What it is:** a cross-cutting character floor under [§2 Wellbeing](#2-foundational-objective-wellbeing) — it does not add substantive work of its own the way [§2.1 Fairness](#21-fairness) and [§2.2 Recognition, Reinforcement, and Aspiration](#22-recognition-reinforcement-and-aspiration) do, but constrains *how* wellbeing work, stewardship work, and every other constitutional process may be carried out — including the three pillars of [§9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth) and the steward role defined in [§10 Consequential Stewardship](core_01_c_stewardship_capacity_principles.md#10-consequential-stewardship-the-steward-role).
 
 **Anti-Degrading-Process Principle.** Constitutional processes, measures, and outcomes must satisfy this principle.
 
@@ -364,7 +364,7 @@ It is not limited to the tradeoff-stack context in which it also operates as an 
 
 **Detection and challenge.** Process character is subject to the same [Contestability](core_05_band_accountability.md#contestability) and [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional) requirements as substantive outcomes. Affected parties may challenge process character independently of whether the substantive outcome would otherwise be lawful. A correct outcome delivered through degrading process remains non-compliant.
 
-<a id="3-non-negotiable-constraints-safety-and-truth"></a>
+<a id="3-non-negotiable-principle-constraints-safety-and-truth"></a>
 ### 3. Non-Negotiable Principle Constraints: Safety and Truth
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -373,7 +373,7 @@ It is not limited to the tradeoff-stack context in which it also operates as an 
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** aim (**Safety** and **Truth** are named constituents under [Preamble §1](core_00_preamble.md#two-constitutional-aims)); **Continuity** aim (long-horizon harm prevention and honest stewardship of durable systems).
 - Upstream: Principles: [2. Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
 - Downstream: [4. Trust](#4-system-stability-enabler-trust-coordination-integrity), [6. Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), and [§5 Freedom](#5-freedom-bounded-agency).
-- Subsections: [§3.1 Safety](#31-safety-harm-constraint); [§3.2 Truth](#32-truth-epistemic-integrity-constraint); [§3.3 Science-Informed Inquiry and Decision Support](#33-science-informed-inquiry-and-decision-support); [§3.4 Plain-Language Accessibility](#34-plain-language-accessibility-stewardship-duty).
+- Subsections: [§3.1 Safety](#31-safety-harm-constraint); [§3.2 Truth](#32-truth-epistemic-integrity-constraint); [§3.3 Science-Informed Inquiry and Decision Support](#33-science-informed-inquiry-and-decision-support); [§3.4 Plain-Language Accessibility](#34-plain-language-accessibility-participation-and-stewardship-duty).
 
 </details>
 
@@ -389,7 +389,7 @@ Application of these constraints must satisfy the [Constitutional Tetrad](core_0
 - where accountability for harm or misleading conduct is at stake
 
 Safety and Truth findings can change a sentient's standing record, including:
-- how [contributions](core_05_band_continuity.md#contribution) are recognized
+- how [contributions](core_05_band_accountability.md#contribution-nature) are recognized
 - whether violations are recorded
 - how severe those violations are classified
 - what consequences attach
@@ -427,7 +427,7 @@ The [**Chapter Nine** standing model](core_09_standing_assessment.md) governs ho
 
 *In plain terms: systems may not be built or run in ways that foreseeably increase risks of uncontained harm, cascading failure, or irreversible damage to sentients and the systems they depend on.*
 
-Safety is a non-negotiable principle constraint on system design, operation, and governance — a named constituent of [**Flourishing**](#flourishing) and a floor for [**Continuity**](#continuity) wherever shared systems create foreseeable harm risk. The detailed definitions, evaluation criteria, and compliance tests live in [**Chapters Two through Five**](core_02_definition_structure.md), especially [Harm](core_05_band_accountability.md#harm), [Irreversible Harm](core_05_band_accountability.md#irreversible-harm), [Risk](core_05_band_continuity.md#risk), [Materiality](core_05_band_oversight.md#materiality-determination), [Dependency](core_05_band_continuity.md#dependency), and [Foreseeability](core_05_band_accountability.md#foreseeability).
+Safety is a non-negotiable principle constraint on system design, operation, and governance — a named constituent of [**Flourishing**](#flourishing) and a floor for [**Continuity**](#continuity) wherever shared systems create foreseeable harm risk. The detailed definitions, evaluation criteria, and compliance tests live in [**Chapters Two through Five**](core_02_definition_structure.md), especially [Harm](core_05_band_accountability.md#harm), [Irreversible Harm](core_05_band_accountability.md#irreversible-harm), [Risk](core_05_band_continuity.md#risk), [Materiality](core_05_band_oversight.md#materiality-determination), [Dependency](core_05_band_continuity.md#dependency), and [Foreseeability](core_05_band_oversight.md#foreseeability-diligence-and-reasonably-foreseeable).
 
 Systems may not act — or fail to act — in ways that foreseeably increase uncontained harm risk, cascading failure potential, or irreversible harm exposure in conflict with this Constitution.
 
@@ -460,7 +460,7 @@ Systems may not act — or fail to act — in ways that foreseeably increase unc
 
 *In plain terms: systems may not deceive, distort, suppress, or structure their output to mislead — and high-impact decisions must rest on honest evidence, stated methods, acknowledged uncertainty, and genuine openness to contrary findings.*
 
-Truth is a non-negotiable principle constraint on epistemic integrity in internal operation and external communication — a named constituent of [**Flourishing**](#flourishing) and a condition for [**Continuity**](#continuity) wherever durable systems depend on honest evidence and reliable understanding. The detailed definitions, evaluation criteria, and compliance tests live in [**Chapters Two through Five**](core_02_definition_structure.md), especially [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Materiality](core_05_band_oversight.md#materiality-determination), [Dependency](core_05_band_continuity.md#dependency), and [Foreseeability](core_05_band_accountability.md#foreseeability).
+Truth is a non-negotiable principle constraint on epistemic integrity in internal operation and external communication — a named constituent of [**Flourishing**](#flourishing) and a condition for [**Continuity**](#continuity) wherever durable systems depend on honest evidence and reliable understanding. The detailed definitions, evaluation criteria, and compliance tests live in [**Chapters Two through Five**](core_02_definition_structure.md), especially [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Materiality](core_05_band_oversight.md#materiality-determination), [Dependency](core_05_band_continuity.md#dependency), and [Foreseeability](core_05_band_oversight.md#foreseeability-diligence-and-reasonably-foreseeable).
 
 Systems may not undermine the ability of sentients to understand what is happening, make informed decisions, or verify what they are being told. That includes lying, distorting, hiding information, or presenting things in ways designed to mislead.
 
@@ -511,7 +511,7 @@ Where expert-evidence standards, methods, or evidence-stewardship disputes requi
 
 Safety-sensitive limits on publication, data access, method disclosure, or replication materials may be justified only under [6.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), the Chapter Five definitions listed above, and applicable Chapter Six Rights Floors. Such limits must preserve maximum feasible epistemic integrity through protected records, independent review, delayed disclosure, redaction, secure access, or comparable safeguards; they must not become a means to suppress unfavorable evidence, hide safety defects, or manufacture apparent consensus.
 
-<a id="34-plain-language-accessibility-stewardship-duty"></a>
+<a id="34-plain-language-accessibility-participation-and-stewardship-duty"></a>
 #### 3.4 Plain-Language Accessibility (Participation and Stewardship Duty)
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -521,7 +521,7 @@ Safety-sensitive limits on publication, data access, method disclosure, or repli
 - Upstream: Principles: [§3.2 Truth](#32-truth-epistemic-integrity-constraint), [3.3 Science-Informed Inquiry and Decision Support](#33-science-informed-inquiry-and-decision-support), [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), and [§12.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1213-stewardship-and-operator-application); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
 - Downstream: Rights surface: [Article V-G: Accessibility](core_06_rights_part_b.md#article-v-g-accessibility), [Article VI: Right to Sentient-Centered Education](core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [Article XV: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XX: Comprehensibility and Complexity Stewardship](core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 - Cross-reference: Chapter Two through Four definition mechanics and plain-language guardrails in [core_02_definition_structure.md](core_02_definition_structure.md) remain controlling at the definition layer.
-- Subsections (reading order): [§3.4.1](#341-scope) · [§3.4.2](#342-the-duty) · [§3.4.3](#343-definitional-rigor-preserved) · [§3.4.4](#344-jargon-as-defeat-discipline) · [§3.4.5](#345-chapter-eleven-floor-boundary).
+- Subsections (reading order): [§3.4.1](#341-scope) · [§3.4.2](#342-the-duty) · [§3.4.3](#343-definitional-rigor-preserved) · [§3.4.4](#344-jargon-as-defeat-discipline) · [§3.4.5](#345-rights-floor-boundary).
 
 </details>
 
@@ -531,7 +531,7 @@ Safety-sensitive limits on publication, data access, method disclosure, or repli
 - [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
 - [Accessibility](core_05_band_participation.md#accessibility-constitutional) · [O](core_05_band_participation.md#accessibility-constitutional) · [M](core_05_band_participation.md#accessibility-constitutional-a) · [A](core_05_band_participation.md#accessibility-constitutional-a) · [C](core_05_band_participation.md#accessibility-constitutional-c)
 - [Contestability](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [Meaningful Agency](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_accountability.md#meaningful-agency-o) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [Meaningful Agency](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
 - [Transparency](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
@@ -583,7 +583,7 @@ Systems may not use complex language, opaque procedures, or deliberate obscurity
 
 The reverse is equally prohibited: plain-language framing that misrepresents what a rule actually does, hides its real effect, or substitutes a summary for the operative text is a [Truth](core_05_band_oversight.md#truth-constitutional-constraint) violation.
 
-<a id="345-chapter-eleven-floor-boundary"></a>
+<a id="345-rights-floor-boundary"></a>
 ##### 3.4.5 Rights-Floor Boundary
 
 The Rights Floors for accessibility, education, and comprehensibility live in [Article V-G](core_06_rights_part_b.md#article-v-g-accessibility) (*Accessibility*), [Article III-B](core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*Equal Educational Access*), and [Article XX](core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*) respectively. This section states the principle-layer duty that supports those floors.
@@ -594,7 +594,7 @@ The Rights Floors for accessibility, education, and comprehensibility live in [A
 
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (justified reliance enabling meaningful agency and contestability); **oversight** leg (contestable detection of systemic risk and trustworthiness); **accountability** leg (answerability for misleading reliance); [material stake](core_00_preamble.md#material-stake) scaling.
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** aim (**trustworthiness** is a named constituent under [Preamble §1](core_00_preamble.md#flourishing)); **Continuity** aim (durable coordination integrity and system stability over time).
-- Upstream: Principles: [§3 Non-Negotiable Principle Constraints: Safety and Truth](#3-non-negotiable-constraints-safety-and-truth); [§2.2 Recognition, Reinforcement, and Aspiration](#22-recognition-reinforcement-and-aspiration); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
+- Upstream: Principles: [§3 Non-Negotiable Principle Constraints: Safety and Truth](#3-non-negotiable-principle-constraints-safety-and-truth); [§2.2 Recognition, Reinforcement, and Aspiration](#22-recognition-reinforcement-and-aspiration); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
 - Downstream: [§9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth), [6.2.1 Preservation of Epistemic Integrity](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity), [6.2.2 Trust-Truth Alignment](core_01_b_interaction_interpretation.md#622-trust-truth-alignment), and [7. Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 - Subsections: [§4.1 Resilience and Self-Healing Design](#41-resilience-and-self-healing-design).
 - Downstream: Shapes the rights surface for agency, reliable reliance, transparency, standing, and anti-capture review.
@@ -611,7 +611,7 @@ The Rights Floors for accessibility, education, and comprehensibility live in [A
 - [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) · [O](core_05_band_continuity.md#safety-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
 - [Materiality](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [Trust Degradation and Misleading Reliance](core_05_band_integrative.md#trust-degradation-and-misleading-reliance-constitutional) · [O](core_05_band_integrative.md#trust-degradation-and-misleading-reliance-constitutional) · [M](core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [A](core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](core_05_band_continuity.md#trust-degradation-and-misleading-reliance-c)
+- [Trust Degradation and Misleading Reliance](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) · [O](core_05_band_continuity.md#trust-degradation-and-misleading-reliance-o) · [M](core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [A](core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](core_05_band_continuity.md#trust-degradation-and-misleading-reliance-c)
 
 </details>
 
@@ -625,7 +625,7 @@ Trust connects the principle constraints to everyday shared life:
 - [**Truth**](core_05_band_oversight.md#truth-constitutional-constraint) forbids deception.
 - [**Safety**](core_05_band_continuity.md#safety-constraint) limits how far reliance may go when real risk is present.
 - [**Materiality**](core_05_band_oversight.md#materiality-determination) determines how much must be shown and explained — the higher the stakes for sentients who depend on a system, the more that system must disclose and justify.
-- [**Trust Degradation and Misleading Reliance**](core_05_band_integrative.md#trust-degradation-and-misleading-reliance-constitutional) names the failure mode — when systems create, preserve, or score reliance in constitutionally misleading ways.
+- [**Trust Degradation and Misleading Reliance**](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) names the failure mode — when systems create, preserve, or score reliance in constitutionally misleading ways.
 
 Trust fails when reliance is built or kept through suppression, deception, hidden risk-shifting, or similar tactics — including anything that seriously undermines sentients' ability to detect and challenge systemic risk. The [**System Alignment Certification**](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation) process under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) is where systems demonstrate that their trust claims hold up: certification must verify that a system's actual behavior matches its representations, on a contestable record — not merely on operator assertion.
 
@@ -677,7 +677,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (meaningful agency and consequential roles); **accountability** leg (agency without answerability is incomplete); [material stake](core_00_preamble.md#material-stake) scaling.
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** aim (this chapter develops **meaningful agency**); **Continuity** aim (bounded agency that preserves durable, contestable constitutional systems).
 - Read with: [Voluntary Discontinuation](core_05_band_continuity.md#voluntary-discontinuation-constitutional), Chapter Five §2 *Agency, consent, and anti-coercion*, and [Assembly, Collective Organization, and Institutional Formation](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster).
-- Read with: [§10 Consequential Stewardship](core_01_c_stewardship_capacity_principles.md#10-consequential-stewardship) and [§12.1.4 Role-Depth and Material-Responsibility Pathways](core_01_c_stewardship_capacity_principles.md#1214-role-depth-and-material-responsibility-pathways) — role-depth, competency, and material-responsibility pathways; meaningful agency includes real paths into learning roles, operations, and consequential duty where safety and consent allow; symbolic participation must not substitute for consequential duty where impact requires the latter.
+- Read with: [§10 Consequential Stewardship](core_01_c_stewardship_capacity_principles.md#10-consequential-stewardship-the-steward-role) and [§12.1.4 Role-Depth and Material-Responsibility Pathways](core_01_c_stewardship_capacity_principles.md#1214-role-depth-and-material-responsibility-pathways) — role-depth, competency, and material-responsibility pathways; meaningful agency includes real paths into learning roles, operations, and consequential duty where safety and consent allow; symbolic participation must not substitute for consequential duty where impact requires the latter.
 - Read with: [§14 Market Structure](core_01_c_stewardship_capacity_principles.md#14-market-structure), especially [§14.2 Pro-Competition and Anti-Domination](core_01_c_stewardship_capacity_principles.md#142-pro-competition-and-anti-domination), and [Article XIX: Interoperability, Portability, Movement, Refuge, and Exit Integrity](core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) where concentration, domination, or lock-in materially limits agency — contestable markets, exit paths, and anti-domination discipline keep agency real at scale.
 - Read with: [§5.1 Limitation Discipline](#51-limitation-discipline) and [Chapter Eight §3.6 Time-Consistency Constraint](core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint) — operative freedom-limitation and time-consistency evaluation discipline; when freedom limits collide with other values or rights, resolve under [§6.1](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) through [§6.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) after **Safety** and **Truth** are satisfied.
 - Upstream: Principles: [§2.2 Recognition, Reinforcement, and Aspiration](#22-recognition-reinforcement-and-aspiration); [3.1 Safety](#31-safety-harm-constraint); [3.2 Truth](#32-truth-epistemic-integrity-constraint); [4. Trust](#4-system-stability-enabler-trust-coordination-integrity); and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
@@ -692,7 +692,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
 - [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency) · [O](core_05_band_participation.md#freedom-bounded-agency) · [M](core_05_band_participation.md#freedom-bounded-agency-a) · [A](core_05_band_participation.md#freedom-bounded-agency-a) · [C](core_05_band_participation.md#freedom-bounded-agency-c)
-- [Meaningful Agency](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_accountability.md#meaningful-agency-o) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [Meaningful Agency](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
 - [Reproductive Autonomy](core_05_band_participation.md#reproductive-autonomy-constitutional) · [O](core_05_band_participation.md#reproductive-autonomy-constitutional) · [M](core_05_band_participation.md#reproductive-autonomy-constitutional-a) · [A](core_05_band_participation.md#reproductive-autonomy-constitutional-a) · [C](core_05_band_participation.md#reproductive-autonomy-constitutional-c)
 - [Consent](core_05_band_participation.md#consent-constitutional) · [O](core_05_band_participation.md#consent-constitutional) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
 - [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05_band_participation.md#coercion-and-manipulation-constitutional-c)

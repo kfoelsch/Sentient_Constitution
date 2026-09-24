@@ -168,7 +168,7 @@
 
 - ऊर्ध्व: [§2.1](#21-standing-records-as-the-unit-of-application) (*अलग योगदान और उल्लंघन अभिलेख*)।
 - अधो: [§3.1](#31-minimum-record-contents) (*सत्यापित-निवेश द्वार*); [§3.2](#32-related-record-cross-references) (*परस्पर संदर्भ*); [§3.6](#36-forum-boundary) (*मंच सीमा*); [§4](#4-standing-measurement-evaluation-dimensions) (*प्रश्न 2 मापन*); [§5](#5-slot-grammar-and-lequ-calibration) (*स्लॉट व्याकरण और साझा स्केलिंग*); [§6](#6-constitutional-inputs-to-axis-assignment) (*संवैधानिक-स्रोत मार्गन*); [§7](#7-unified-proportional-lequ-scale) (*दोनों अक्षों के लिए एकीकृत आनुपातिक LEQU पैमाना*); [अध्याय नौ](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*प्रश्न 3*)।
-- साथ पढ़ें: [अध्याय नौ — प्रस्थिति एकीकरण](../../core_10_standing_integration.md#2-integration-record-and-decision-order) (*गैर-माफ़ी और जुड़े-अभिलेख एकीकरण*); [अध्याय नौ §6.2 — क्षमता-पट्टियाँ और स्वीकृतियाँ](../../core_10_standing_integration.md#62-competency-bars-and-clearances); [अध्याय नौ §4.2 — प्रस्थिति ताले](../../core_10_standing_integration.md#42-general-standing-locks)।
+- साथ पढ़ें: [अध्याय नौ — प्रस्थिति एकीकरण](../../core_10_standing_integration.md#2-automatic-integration-review-and-continuity) (*गैर-माफ़ी और जुड़े-अभिलेख एकीकरण*); [अध्याय नौ §6.2 — क्षमता-पट्टियाँ और स्वीकृतियाँ](../../core_10_standing_integration.md#62-competency-bars-and-clearances); [अध्याय नौ §4.2 — प्रस्थिति ताले](../../core_10_standing_integration.md#42-prevention--general-standing-locks)।
 
 </details>
 
@@ -496,7 +496,7 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - ऊर्ध्व: [§2](#2-standing-records) (*प्रश्न 1 — प्रस्थिति अभिलेख और सत्यापित तथ्य*); [§3](#3-standing-record-operational-requirements) (*सत्यापित-निवेश द्वार और अभिलेख अपेक्षाएँ*); [§1](#1-the-three-questions) (*तीन-प्रश्न ढाँचा*)।
-- अधो: [§5](#5-slot-grammar-and-lequ-calibration) (*स्लॉट व्याकरण और साझा स्केलिंग*); [§6](#6-constitutional-inputs-to-axis-assignment) (*संवैधानिक-स्रोत मार्गन*); [§7](#7-unified-proportional-lequ-scale) (*योगदान और उल्लंघन अक्ष आवंटन*); [अध्याय नौ §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) (*योगदान प्रश्न 3 — सुरक्षित प्रत्यायोजन*); [अध्याय नौ §4.2](../../core_10_standing_integration.md#42-general-standing-locks) (*रोक ताले*); [अध्याय नौ §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement) (*ताला डिज़ाइन और प्रवर्तन*)।
+- अधो: [§5](#5-slot-grammar-and-lequ-calibration) (*स्लॉट व्याकरण और साझा स्केलिंग*); [§6](#6-constitutional-inputs-to-axis-assignment) (*संवैधानिक-स्रोत मार्गन*); [§7](#7-unified-proportional-lequ-scale) (*योगदान और उल्लंघन अक्ष आवंटन*); [अध्याय नौ §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) (*योगदान प्रश्न 3 — सुरक्षित प्रत्यायोजन*); [अध्याय नौ §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) (*रोक ताले*); [अध्याय नौ §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement) (*ताला डिज़ाइन और प्रवर्तन*)।
 - साथ पढ़ें: [§3.1](#31-minimum-record-contents) (*सत्यापित अभिलेख क्षेत्र; अध्याय आठ में कोई प्रस्थिति प्रभाव नहीं*)।
 
 </details>
@@ -534,7 +534,7 @@
   - चुनौती-योग्यता हानि; या
   - अ-समीक्षायोग्य संकलन।
 
-**केवल प्रश्न 2।** **अनुभाग 2** के अधीन स्थापित और **अनुभाग 3** के अधीन अभिलेखित सत्यापित तथ्यों को नापने के लिए इन आयामों का उपयोग करें। **अनुभाग 4.3** की **लाभ-मार्ग** सूची और **अनुभाग 4.4** की **हानि-मार्ग** सूची सहायता या हानि के प्रकारों के सामान्यीकृत नाम देती हैं और कहती हैं कि प्रत्येक नाम *कितना अच्छा* या *कितना बुरा* की ओर कैसे गिनता है। प्रश्न 3 एकीकरण और संलग्न नियम [अध्याय नौ §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization) में हैं, [लाभ पक्ष](../../core_10_standing_integration.md#62-competency-bars-and-clearances) और [हानि पक्ष](../../core_10_standing_integration.md#42-general-standing-locks) पर परिणाम नियमों के साथ।
+**केवल प्रश्न 2।** **अनुभाग 2** के अधीन स्थापित और **अनुभाग 3** के अधीन अभिलेखित सत्यापित तथ्यों को नापने के लिए इन आयामों का उपयोग करें। **अनुभाग 4.3** की **लाभ-मार्ग** सूची और **अनुभाग 4.4** की **हानि-मार्ग** सूची सहायता या हानि के प्रकारों के सामान्यीकृत नाम देती हैं और कहती हैं कि प्रत्येक नाम *कितना अच्छा* या *कितना बुरा* की ओर कैसे गिनता है। प्रश्न 3 एकीकरण और संलग्न नियम [अध्याय नौ §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization) में हैं, [लाभ पक्ष](../../core_10_standing_integration.md#62-competency-bars-and-clearances) और [हानि पक्ष](../../core_10_standing_integration.md#42-prevention--general-standing-locks) पर परिणाम नियमों के साथ।
 
 <a id="41-magnitude-input-dimensions"></a>
 <a id="41-contribution-magnitude-input-dimensions"></a>
@@ -646,7 +646,7 @@ LEQU को समानांतर पारिस्थितिक, प्�
 <a id="44-violation-route-descriptor-catalog-and-measurement-roles"></a>
 #### 4.4 उल्लंघन मार्ग वर्णनकर्ता सूची और मापन भूमिकाएँ
 
-**हानि-मार्ग वर्णनकर्ता — प्रश्न 2 मापन भूमिका।** प्रश्न 3 एकीकरण और संलग्न नियम: [अध्याय नौ §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization)। प्रश्न 3 रोक और ताला डिज़ाइन: [अध्याय नौ §4.2](../../core_10_standing_integration.md#42-general-standing-locks); [अध्याय नौ §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement)।
+**हानि-मार्ग वर्णनकर्ता — प्रश्न 2 मापन भूमिका।** प्रश्न 3 एकीकरण और संलग्न नियम: [अध्याय नौ §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization)। प्रश्न 3 रोक और ताला डिज़ाइन: [अध्याय नौ §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks); [अध्याय नौ §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement)।
 
 | **हानि-मार्ग वर्णनकर्ता** | **सामान्यीकृत डोमेन** | **प्र.2 (कितना बुरा?)** |
 | --- | --- | --- |
@@ -680,20 +680,20 @@ LEQU को समानांतर पारिस्थितिक, प्�
 | **सत्यापित विशेषता** | **इस अध्याय में प्रश्न 2 स्वामी** | **प्रश्न 3 एकीकरण स्वामी** |
 | --- | --- | --- |
 | **बाह्यकृत हानि / छिपा भार** | **§4.1** में योगदान आचरण-गुणवत्ता अनुप्रयोग | [अध्याय नौ §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) — उपचार तक स्वीकृति रोक या संकीर्ण कर सकता है |
-| **छल / छिपाव / बचाव** | **§4.2** में उल्लंघन आचरण-चरित्र अनुप्रयोग | [अध्याय नौ §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — छिपाव / बचाव उन्नत ताला |
-| **जवाबदेही में बाधा** | **§4.2** में उल्लंघन आचरण-चरित्र अनुप्रयोग और **§4.4** में **जवाबदेही-बाधा दुराचरण** | [अध्याय नौ §4.2](../../core_10_standing_integration.md#42-general-standing-locks) और [§5.4](../../core_10_standing_integration.md#54-special-violation-rules) — नामित-मार्ग-बद्ध ताले; [अध्याय नौ §10.13](../../core_10_standing_integration.md#1013-obstruction-of-accountability) (*प्रश्न 3 पैटर्न*); अध्याय दस नामांकन केवल [अध्याय नौ §10.8](../../core_10_standing_integration.md#108-anti-constitutional-misconduct-allegation) के अधीन संविधान-विरोधी दुराचरण समीक्षा द्वार से |
-| **हिंसा / दबाव / स्वतंत्रता खतरा** | **§4.2** में उल्लंघन आचरण-चरित्र अनुप्रयोग और **§4.4** में **हिंसक दुराचरण** | [अध्याय नौ §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — रक्षक और रक्षोपाय ताले |
-| **क्रूरता** | **§4.2** में उल्लंघन आचरण-चरित्र अनुप्रयोग; [क्रूरता](core_05_band_accountability.md#cruelty) | [अध्याय नौ §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — रक्षक और रक्षोपाय ताले; [अध्याय नौ §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) — जहाँ प्रयुक्त हो गैर-अपमानजनक पुनर्योजी अभिव्यक्ति |
-| **स्थायित्व / पैटर्न / सूचना के बाद पुनरावृत्ति** | **§4.2** में उल्लंघन आचरण-चरित्र अनुप्रयोग | [अध्याय नौ §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — पुनरावृत्ति-स्थायित्व ताला |
+| **छल / छिपाव / बचाव** | **§4.2** में उल्लंघन आचरण-चरित्र अनुप्रयोग | [अध्याय नौ §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — छिपाव / बचाव उन्नत ताला |
+| **जवाबदेही में बाधा** | **§4.2** में उल्लंघन आचरण-चरित्र अनुप्रयोग और **§4.4** में **जवाबदेही-बाधा दुराचरण** | [अध्याय नौ §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) और [§5.4](../../core_10_standing_integration.md#54-special-violation-rules) — नामित-मार्ग-बद्ध ताले; [अध्याय नौ §10.13](../../core_10_standing_integration.md#1013-obstruction-of-accountability) (*प्रश्न 3 पैटर्न*); अध्याय दस नामांकन केवल [अध्याय नौ §10.8](../../core_10_standing_integration.md#108-anti-constitutional-misconduct-allegation) के अधीन संविधान-विरोधी दुराचरण समीक्षा द्वार से |
+| **हिंसा / दबाव / स्वतंत्रता खतरा** | **§4.2** में उल्लंघन आचरण-चरित्र अनुप्रयोग और **§4.4** में **हिंसक दुराचरण** | [अध्याय नौ §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — रक्षक और रक्षोपाय ताले |
+| **क्रूरता** | **§4.2** में उल्लंघन आचरण-चरित्र अनुप्रयोग; [क्रूरता](core_05_band_accountability.md#cruelty) | [अध्याय नौ §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — रक्षक और रक्षोपाय ताले; [अध्याय नौ §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) — जहाँ प्रयुक्त हो गैर-अपमानजनक पुनर्योजी अभिव्यक्ति |
+| **स्थायित्व / पैटर्न / सूचना के बाद पुनरावृत्ति** | **§4.2** में उल्लंघन आचरण-चरित्र अनुप्रयोग | [अध्याय नौ §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — पुनरावृत्ति-स्थायित्व ताला |
 | **मंच-अखंडता चोट** | **§4.2** में उल्लंघन आचरण-चरित्र अनुप्रयोग | [अध्याय नौ §5.5](../../core_10_standing_integration.md#55-special-locks) — मंच-अखंडता प्रस्थिति-ताला प्रभाव |
-| **उत्तरदायित्व या नियंत्रण का विसरण** | **§4.2** में उल्लंघन आचरण-चरित्र अनुप्रयोग; **§§3.1 और 3.3** के अधीन कर्ता-विशिष्ट संबंध | [अध्याय नौ §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — व्यापक नामित मार्ग दायरा या संस्थागत-वाहन विचार |
-| **प्रणाली / संरचनात्मक समर्थककरण** | **§4.1** में योगदान आचरण-गुणवत्ता अनुप्रयोग; **§4.2** में उल्लंघन आचरण चरित्र और **§4.4** में **प्रणाली दुराचरण** | [अध्याय नौ §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) और [अध्याय नौ §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — प्रत्यायोजन रक्षोपाय या संस्थागत-वाहन ताले |
-| **मौन सहभागिता / प्रतिरोध विफलता** | **§4.2** में उल्लंघन आचरण-चरित्र अनुप्रयोग | [अध्याय नौ §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — नामित-मार्ग दायरा और पुनरावृत्ति-स्थायित्व प्रभाव |
+| **उत्तरदायित्व या नियंत्रण का विसरण** | **§4.2** में उल्लंघन आचरण-चरित्र अनुप्रयोग; **§§3.1 और 3.3** के अधीन कर्ता-विशिष्ट संबंध | [अध्याय नौ §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — व्यापक नामित मार्ग दायरा या संस्थागत-वाहन विचार |
+| **प्रणाली / संरचनात्मक समर्थककरण** | **§4.1** में योगदान आचरण-गुणवत्ता अनुप्रयोग; **§4.2** में उल्लंघन आचरण चरित्र और **§4.4** में **प्रणाली दुराचरण** | [अध्याय नौ §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) और [अध्याय नौ §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — प्रत्यायोजन रक्षोपाय या संस्थागत-वाहन ताले |
+| **मौन सहभागिता / प्रतिरोध विफलता** | **§4.2** में उल्लंघन आचरण-चरित्र अनुप्रयोग | [अध्याय नौ §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — नामित-मार्ग दायरा और पुनरावृत्ति-स्थायित्व प्रभाव |
 | **सुगम्यता / सहभागिता-बाधा मरम्मत** | **§4.3** में **पहुँच और समावेश** | [अध्याय नौ §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) — समावेशी-अनुभव या नामित-मार्ग-बद्ध पट्टी |
-| **सुगम्यता पराजय / सहभागिता-बाधा चोट** | **§4.4** में **सुगम्यता और सहभागिता-बाधा दुराचरण** | [अध्याय नौ §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — नामित सहभागिता- और सुगम्यता-मार्ग रोक |
-| **निजता / आत्म-स्वामित्व चोट** | **§4.4** में **निजता और आत्म-स्वामित्व दुराचरण** | [अध्याय नौ §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — डेटा-, समानता-, प्रकाशन-, या आंतरिक-अवस्था नामित मार्ग रोक |
-| **निकास / लॉक-इन जोखिम या बंदोबस्ती** | **§4.1** में योगदान आचरण-गुणवत्ता अनुप्रयोग; **§4.4** में **निकास और लॉक-इन दुराचरण** | [अध्याय नौ §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) और [अध्याय नौ §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — प्रत्यायोजन रक्षोपाय या निकास-पथ रोक |
-| **जीवनचक्र / अपरिवर्तनीयता छिपाव** | **§4.4** में **जीवनचक्र और अपरिवर्तनीयता दुराचरण** | [अध्याय नौ §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — तैनाती और जीवनचक्र-प्राधिकार रोक |
+| **सुगम्यता पराजय / सहभागिता-बाधा चोट** | **§4.4** में **सुगम्यता और सहभागिता-बाधा दुराचरण** | [अध्याय नौ §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — नामित सहभागिता- और सुगम्यता-मार्ग रोक |
+| **निजता / आत्म-स्वामित्व चोट** | **§4.4** में **निजता और आत्म-स्वामित्व दुराचरण** | [अध्याय नौ §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — डेटा-, समानता-, प्रकाशन-, या आंतरिक-अवस्था नामित मार्ग रोक |
+| **निकास / लॉक-इन जोखिम या बंदोबस्ती** | **§4.1** में योगदान आचरण-गुणवत्ता अनुप्रयोग; **§4.4** में **निकास और लॉक-इन दुराचरण** | [अध्याय नौ §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) और [अध्याय नौ §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — प्रत्यायोजन रक्षोपाय या निकास-पथ रोक |
+| **जीवनचक्र / अपरिवर्तनीयता छिपाव** | **§4.4** में **जीवनचक्र और अपरिवर्तनीयता दुराचरण** | [अध्याय नौ §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — तैनाती और जीवनचक्र-प्राधिकार रोक |
 
 <a id="451-similar-looking-facts-that-must-stay-separate"></a>
 
@@ -703,7 +703,7 @@ LEQU को समानांतर पारिस्थितिक, प्�
 
 | **पहला तथ्य** | **अलग तथ्य** | **वे अलग क्यों रहते हैं** |
 | --- | --- | --- |
-| **मूल समस्या का उत्तर देने या उन्नयन में विलंब** | **उपचार शुरू करने या पूरा करने में विलंब** | पहला **§§4.1–4.2** के अधीन प्रश्न 2 नापने में मदद करता है। दूसरा [अध्याय नौ §9.5](../../core_10_standing_integration.md#95-timely-implementation-and-reassessment) के अधीन बाद का प्रश्न 3 तथ्य है। |
+| **मूल समस्या का उत्तर देने या उन्नयन में विलंब** | **उपचार शुरू करने या पूरा करने में विलंब** | पहला **§§4.1–4.2** के अधीन प्रश्न 2 नापने में मदद करता है। दूसरा [अध्याय नौ §9.5](../../core_10_standing_integration.md#95-timely-implementation) के अधीन बाद का प्रश्न 3 तथ्य है। |
 | **प्रभावित संज्ञ प्राणियों की संख्या** | **कर्ता या प्रणालियों के बीच उत्तरदायित्व या नियंत्रण कैसे फैला** | पहला **§§4.1–4.2** के अधीन लाभ या हानि कितनी बड़ी थी नापने में मदद करता है। दूसरा कर्ता-विशिष्ट उत्तरदायित्व, विसरण, और संभावित प्रश्न 3 नामित मार्ग दायरे से संबंधित है। |
 
 <a id="46-question-1-measurement-illustrations"></a>

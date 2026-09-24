@@ -4,7 +4,7 @@
 
 ## Scope
 
-This review addresses the P1 workflow-reinstatement item in [TODO.md](../../TODO.md). It checks the scenario catalog, the dated evidence convention, and readiness of the separately scoped Humanity/Individual/Cross-layer stress pack. It does not treat a structural audit as evidence of institutional or human performance.
+This review addresses the P1 workflow-reinstatement item in [TODO.md](../../project/TODO.md). It checks the scenario catalog, the dated evidence convention, and readiness of the separately scoped Humanity/Individual/Cross-layer stress pack. It does not treat a structural audit as evidence of institutional or human performance.
 
 ## Verification
 

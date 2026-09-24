@@ -32,7 +32,7 @@
 >
 > **CS** is the canonical home for **CS-2–CS-12** and related systems labels. Constitutional meanings, Rights Floors, and definition-satisfaction rules remain in the Sentient Constitution and Chapter Five.
 >
-> System and data obligations here align with [corpus_joint_structure.md — Cross-domain implementation layer](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cross-domain-implementation-layer), especially **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*) and the **CJS-3** (*Implementation and cross-implementation operational cluster library*) operational cluster library.
+> System and data obligations here align with [corpus_joint_structure.md — CJS-0: Registry and reading rules](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-0-registry-and-reading-rules), especially **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*) and the **CJS-3** (*Implementation and cross-implementation operational cluster library*) operational cluster library.
 >
 > Shared preamble contract: apply **CJS-1.3** (*Shared implementation-corpus preamble contract*).
 >
@@ -49,7 +49,7 @@
 > - **Voting / crypto / roles:** Chapter Thirteen section 4 (*Voting and Binding Collective Choice Protocols*); Chapter Four section 5.1.1 (*Cryptographic protection, credentials, and verification*); Chapter Thirteen section 5.1 (*Authorized Roles, Competency Development, and Contribution*).
 > - **Capital-markets scope:** specialist corporate-securities law remains outside dedicated implementation file coverage.
 > - **Joint implementation read:** where **CS-2/CS-3** intersect institutional governance, forum operations, or **CJS-3** clusters, read **CJS-0.1** and **CJS-1**. Systems-only topic ownership and domain reading order live in this file under [Systems domain routing (integrator annex)](#systems-domain-routing-integrator-annex).
-> - **Standing pipeline:** Chapter Nine owns Questions 1 and 2: verified standing records and Contribution Axis / Violation Axis measurement. **Forum** allegations and unadjudicated claims are not standing measurement inputs (**Chapter Twelve**). Chapter Ten owns Question 3 consequences; recency and currentness are gate/readiness inputs under [Chapter Ten §6.1](../core_10_standing_integration.md#61-recency-and-currentness) and must not alter the Chapter Nine contribution slot or LEQU measurement. Violation locks are decided before contribution gates under [Chapter Ten §2](../core_10_standing_integration.md#2-integration-record-and-decision-order). Numeric interoperability defaults: [implementation/CH06_NINE_SLOT_STANDING_SCALE.md](../implementation/CH06_NINE_SLOT_STANDING_SCALE.md). How-to-estimate (process support; cannot assign a live record): [implementation/LEQU_CALIBRATION_REFERENCE.md](../implementation/LEQU_CALIBRATION_REFERENCE.md).
+> - **Standing pipeline:** Chapter Nine owns Questions 1 and 2: verified standing records and Contribution Axis / Violation Axis measurement. **Forum** allegations and unadjudicated claims are not standing measurement inputs (**Chapter Twelve**). Chapter Ten owns Question 3 consequences; recency and currentness are gate/readiness inputs under [Chapter Ten §6.1](../core_10_standing_integration.md#61-recency-and-currentness) and must not alter the Chapter Nine contribution slot or LEQU measurement. Violation locks are decided before contribution gates under [Chapter Ten §2](../core_10_standing_integration.md#2-automatic-integration-review-and-continuity). Numeric interoperability defaults: [implementation/CH06_NINE_SLOT_STANDING_SCALE.md](../implementation/CH06_NINE_SLOT_STANDING_SCALE.md). How-to-estimate (process support; cannot assign a live record): [implementation/LEQU_CALIBRATION_REFERENCE.md](../implementation/LEQU_CALIBRATION_REFERENCE.md).
 
 </details>
 
@@ -113,7 +113,7 @@ Grouped family list: [corpus_systems.md](../corpus_systems.md). Former protocol-
 
 - Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [Domain topic owner map (CS-D)](#domain-topic-owner-map-cs-d); [Systems overlap discipline](#systems-overlap-discipline); [Systems read-with pointers](#systems-read-with-pointers).
-- Read with: [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-1.7**; **CJS-1.8**; [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); **CS-1**; **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-5**.
+- Read with: [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-1.7**; **CJS-1.8**; [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); **CS-1**; **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-5**.
 
 </details>
 
@@ -184,14 +184,14 @@ For cross-layer overlap discipline, apply [CJS-1.7](../corpus_joint_structure/cj
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Systems domain routing (integrator annex)](#systems-domain-routing-integrator-annex); [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) combined satisfaction and default reading stack.
-- Read with: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); [CJS-1.8](../corpus_joint_structure/cjs_04_drafting_contracts.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail); **CS-1**.
+- Upstream: [Systems domain routing (integrator annex)](#systems-domain-routing-integrator-annex); [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations) combined satisfaction and default reading stack.
+- Read with: [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); [CJS-1.8](../corpus_joint_structure/cjs_04_drafting_contracts.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail); **CS-1**.
 
 </details>
 
 <br>
 
-When systems implementation text intersects other implementation layers, apply the default reading stack in [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction) (*Combined satisfaction of jointly applicable incorporated obligations*). Within that stack, read only what [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) routes for the topic.
+When systems implementation text intersects other implementation layers, apply the default reading stack in [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined satisfaction of jointly applicable incorporated obligations*). Within that stack, read only what [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) routes for the topic.
 
 Systems-local abstractions may specialize **CJS** joint operational definitions cited in owner text but must not redefine constitutional terms or create parallel constitutional definitions. For the two-tier definition contract, apply [CJS-1.8](../corpus_joint_structure/cjs_04_drafting_contracts.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail) (*Two-tier definition contract (binding abstraction + owner detail)*).
 

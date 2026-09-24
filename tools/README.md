@@ -20,12 +20,13 @@ Chapter Five and CJS-3 definition files use **one** `---` between reader units, 
 | Blocking regression bundle | `make regression` |
 | Markdown / prose / definitions gravity | `make corpus-markdown-audit`, `make prose-continuity-audit`, `make ch5-definitions-gravity-audit`, `make ch5-o-scope-audit`, `make ch5-trace-crosslink-audit` |
 | Corpus navigation footer chain and formatting | `make footer-audit` |
+| Link destinations: binding corpus stays in-repository; no machine-local targets anywhere | `make external-link-audit` (inventory: `make external-link-audit-report`) |
 | Trace / D/A/C / reader-guidance `<br>` spacer discipline | `make nav-widget-spacer-audit` |
 | Trace → D/A/C widget order (definition carrier immediately after Trace) | `make trace-dac-widget-order-audit` |
 | File-top / section-opening widget stack (placement → reader → Trace → D/A/C) | `make widget-top-placement-audit` |
 | File-top Corpus placement widget | `make file-top-placement-audit` |
 | CJS-0.1 topic-router bidirectional read-with links | `make router-bidirectional-audit` |
-| Binding corpus must not depend on `doc_architecture` for meaning/routing | `make support-doc-pointer-audit` |
+| Binding corpus must not depend on `doc_architecture` or a README section for meaning/routing | `make support-doc-pointer-audit` |
 | Materially Binding Act Record base schema and fixtures | `make materially-binding-act-record-validate` / `make materially-binding-act-record-validate-test` |
 | Chapter Five compound heading/member order | `make ch5-cluster-order-audit` |
 | Chapter Five single-definition and owner-roster rule | `make ch5-single-definition-audit` |
@@ -78,9 +79,9 @@ Chapter Five and CJS-3 definition files use **one** `---` between reader units, 
 
 `ch5_cluster_order_audit.py` guards selected Chapter Five compound §2 topic groups and §3 dependent clusters whose visible heading order is intended to mirror the internal entry/member order. Expand its expected set whenever a new compound heading is intentionally made order-bearing.
 
-Machine-checkable editorial rules: [tools/architecture/rule_registry.json](tools/architecture/rule_registry.json). Full audit catalog, including the **weight class** of each blocking gate (load-bearing / structural / cosmetic — what a second maintainer may relax and what must never be skipped): [implementation/AUTOMATED_REFERENCE_CHECKING.md](implementation/AUTOMATED_REFERENCE_CHECKING.md).
+Machine-checkable editorial rules: [tools/architecture/rule_registry.json](architecture/rule_registry.json). Full audit catalog, including the **weight class** of each blocking gate (load-bearing / structural / cosmetic — what a second maintainer may relax and what must never be skipped): [implementation/AUTOMATED_REFERENCE_CHECKING.md](../implementation/AUTOMATED_REFERENCE_CHECKING.md).
 
-`ch1_dac_order_audit.py` guards Chapter One D/A/C functional ordering using [tools/architecture/ch1_dac_order.json](tools/architecture/ch1_dac_order.json) (rule NAV-DAC-CH1-ORDER).
+`ch1_dac_order_audit.py` guards Chapter One D/A/C functional ordering using [tools/architecture/ch1_dac_order.json](architecture/ch1_dac_order.json) (rule NAV-DAC-CH1-ORDER).
 
 `readability_audit.py` excludes `MEMLOG.md` and `TODO.md` by default because those files are treated as AI-only working memory and project task tracking rather than reader-facing corpus prose.
 
@@ -92,6 +93,6 @@ Machine-checkable editorial rules: [tools/architecture/rule_registry.json](tools
 
 ## Retired migration scripts
 
-One-off structural rewrite and migration helpers (Chapter Five cluster inserts, Chapter Six renumbering, corpus splits, D/A/C widget attachment, doc_architecture slim-down, etc.) were moved to [archive/tools_retired/](../archive/tools_retired/) on **2026-06-17**. **Do not run** them against the current tree unless you are deliberately replaying history from git; they can desync the corpus.
+One-off structural rewrite and migration helpers (Chapter Five cluster inserts, Chapter Six renumbering, corpus splits, D/A/C widget attachment, doc_architecture slim-down, etc.) were moved to `archive/tools_retired/` on **2026-06-17** and removed from the tree on **2026-09-24**; recover them from git history (`git log --all -- archive/tools_retired`) if needed. **Do not run** them against the current tree unless you are deliberately replaying history; they can desync the corpus.
 
 For **current** article numbers and titles, use `make reference-audit` or read Chapter Six in `core_06_rights_part_*.md`.

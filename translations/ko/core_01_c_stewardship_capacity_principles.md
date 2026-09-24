@@ -1994,7 +1994,7 @@
 
 세부 평가 요인과 인증 기록은 다음이 주관한다:
 - **[제7장 §3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
-- **[제7장 §11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record)**;
+- **[제7장 §11](../../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record)**;
 - **[corpus_systems.md](../../corpus_systems.md), CS-3 — 체계 분류와 취급**.
 
 그 제7장 과정은:

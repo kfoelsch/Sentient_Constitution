@@ -5,31 +5,31 @@
 ---
 # TODO
 
-**2026-06-17 housecleaning:** Older TODO/MEMLOG snapshots removed from `archive/`; retrieve from git history if needed. Canonical architecture archives remain under [README.md](README.md) *Binding vs support* and [doc_architecture.md](doc_architecture.md). Root retirement snapshots: [archive/TODO_ROOT_RETIRED_2026-05-01.md](archive/TODO_ROOT_RETIRED_2026-05-01.md).
+**2026-06-17 housecleaning:** Older TODO/MEMLOG snapshots removed from `archive/`; retrieve from git history if needed. Canonical architecture archives remain under [README.md](../README.md) *Binding vs support* and [doc_architecture.md](../doc_architecture.md). Root retirement snapshots: [archive/TODO_ROOT_RETIRED_2026-05-01.md](TODO_ROOT_RETIRED_2026-05-01.md).
 
 ## Editor Checklist (Pre-Review / Pre-Merge)
 
-- [x] Filename convention check: use underscore-style canonical names, no spaces. Canonical chapter and corpus files are listed in [README.md](README.md).
+- [x] Filename convention check: use underscore-style canonical names, no spaces. Canonical chapter and corpus files are listed in [README.md](../README.md).
 - [x] Corpus edits happen in canonical Markdown files only; no parallel `.txt` layer.
 - [x] Reference integrity check: update prose, links, and script references in the same change when filenames move.
 - [x] Regression suite check: update and run `CONSTITUTIONAL_REGRESSION_SCENARIOS.md` for any material constitutional change. **Deferred in this continuation:** the scenarios file is present, but regression validation and evidence publication are out of active scope unless reinstatement is requested.
-- [x] Single-home discipline check: new term definitions follow [doc_architecture.md](doc_architecture.md) section 4 owner rules.
+- [x] Single-home discipline check: new term definitions follow [doc_architecture.md](../doc_architecture.md) section 4 owner rules.
 - [x] Layered framing check: apply `definitions -> principles -> articles -> core -> joint structure -> institutions/systems/forum` and pointer-first restatement discipline.
 
 ## Current Chapter Map
 
-- **Ch 1:** [core_00_preamble.md](core_00_preamble.md), [core_01_a_values_principles.md](core_01_a_values_principles.md) (Part A), and [core_01_b_stewardship_capacity_principles.md](core_01_b_stewardship_capacity_principles.md) (Part B)
-- **Ch 2–4:** [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md)
-- **Ch 5:** [core_05-05_definitions_a_independent.md](core_05-05_definitions_a_independent.md), [core_05-05_definitions_b_semi_independent.md](core_05-05_definitions_b_semi_independent.md), [core_05-05_definitions_c_dependent_clusters.md](core_05-05_definitions_c_dependent_clusters.md)
-- **Ch 6:** [core_06-06_standing_assessment.md](core_06-06_standing_assessment.md)
-- **Ch 7:** [core_07-07_standing_integration.md](core_07-07_standing_integration.md)
-- **Ch 8:** [core_08-08_misconduct.md](core_08-08_misconduct.md)
-- **Ch 9:** [core_09-09_forum.md](core_09-09_forum.md)
-- **Ch 10:** [core_10-10_rights_part_a.md](core_10-10_rights_part_a.md) through [core_10-10_rights_part_d.md](core_10-10_rights_part_d.md)
-- **Ch 11:** [core_11-11_governance.md](core_11-11_governance.md)
-- **Ch 12–14:** [core_12-14_amendment.md](core_12-14_amendment.md)
-- **Ch 15:** [core_15-15_incorporation.md](core_15-15_incorporation.md)
-- **Companion corpus:** [corpus_joint_structure.md](corpus_joint_structure.md) (`corpus_joint_structure/`), [corpus_systems.md](corpus_systems.md) (`corpus_systems/`), [corpus_institutions.md](corpus_institutions.md) (`corpus_institutions/`), [corpus_forum.md](corpus_forum.md) (`corpus_forum/`)
+- **Ch 1:** [core_00_preamble.md](../core_00_preamble.md), [core_01_a_values_principles.md](../core_01_a_values_principles.md) (Part A), and [core_01_b_stewardship_capacity_principles.md](../core_01_c_stewardship_capacity_principles.md) (Part B)
+- **Ch 2–4:** [core_02-04_definition_mechanics.md](../core_02_definition_structure.md)
+- **Ch 5:** [core_05-05_definitions_a_independent.md](../core_05__definitions_home.md), [core_05-05_definitions_b_semi_independent.md](core_ch5_retired/core_05-05_definitions_b_semi_independent.md), [core_05-05_definitions_c_dependent_clusters.md](core_ch5_retired/core_05-05_definitions_c_dependent_clusters.md)
+- **Ch 6:** [core_06-06_standing_assessment.md](../core_09_standing_assessment.md)
+- **Ch 7:** [core_07-07_standing_integration.md](../core_10_standing_integration.md)
+- **Ch 8:** [core_08-08_misconduct.md](../core_11_a_misconduct_designation.md)
+- **Ch 9:** [core_09-09_forum.md](../core_12_forum.md)
+- **Ch 10:** [core_10-10_rights_part_a.md](../core_06_rights_part_a.md) through [core_10-10_rights_part_d.md](../core_06_rights_part_d.md)
+- **Ch 11:** [core_11-11_governance.md](../core_13_governance.md)
+- **Ch 12–14:** [core_12-14_amendment.md](../core_16_amendment_ratification.md)
+- **Ch 15:** [core_15-15_incorporation.md](../core_17_incorporation.md)
+- **Companion corpus:** [corpus_joint_structure.md](../corpus_joint_structure.md) (`corpus_joint_structure/`), [corpus_systems.md](../corpus_systems.md) (`corpus_systems/`), [corpus_institutions.md](../corpus_institutions.md) (`corpus_institutions/`), [corpus_forum.md](../corpus_forum.md) (`corpus_forum/`)
 
 ## Open Backlog
 
@@ -51,12 +51,12 @@
 
 ## TODO Maintenance And Archiving
 
-Authoritative normative state is in the binding corpus files named in [README.md](README.md). `TODO.md`, [MEMLOG.md](MEMLOG.md), [doc_architecture.md](doc_architecture.md), and implementation worklists are process aids only.
+Authoritative normative state is in the binding corpus files named in [README.md](../README.md). `TODO.md`, [MEMLOG.md](../project/MEMLOG.md), [doc_architecture.md](../doc_architecture.md), and implementation worklists are process aids only.
 
 Keep this active file limited to editor checks, current open work, and short archive pointers. Move completed narratives to `archive/` when they make the active file hard to scan.
 
 ## Archives
 
-- **Architecture process (canonical):** [archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-08.md), [archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md), [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) — see [README.md](README.md)
-- **2026-05-01 root retirement:** [archive/TODO_ROOT_RETIRED_2026-05-01.md](archive/TODO_ROOT_RETIRED_2026-05-01.md), [archive/MEMLOG_ROOT_RETIRED_2026-05-01.md](archive/MEMLOG_ROOT_RETIRED_2026-05-01.md)
+- **Architecture process (canonical):** [archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-08.md](ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-08.md), [archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md](ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md), [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) — see [README.md](../README.md)
+- **2026-05-01 root retirement:** [archive/TODO_ROOT_RETIRED_2026-05-01.md](TODO_ROOT_RETIRED_2026-05-01.md), [archive/MEMLOG_ROOT_RETIRED_2026-05-01.md](MEMLOG_ROOT_RETIRED_2026-05-01.md)
 - **Older TODO/MEMLOG snapshots:** removed 2026-06-17; retrieve from git history if needed

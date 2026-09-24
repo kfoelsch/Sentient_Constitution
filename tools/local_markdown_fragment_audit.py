@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
-"""Audit inbound local Markdown links to a selected source document."""
+"""Audit local Markdown links across the corpus.
+
+By default every in-repository Markdown link target is validated: the target
+file must exist and any ``#fragment`` must resolve to a real anchor. Pass
+``--target`` to narrow the audit to inbound links for one document.
+"""
 
 from __future__ import annotations
 
@@ -14,12 +19,24 @@ from urllib.parse import unquote, urlsplit
 from corpus_paths import binding_corpus_scope
 
 
-SOURCE_EXTRAS = ("CONSTITUTIONAL_REGRESSION_SCENARIOS.md",)
+# Reader-entry and contributor documents. These are the first pages a newcomer
+# opens, but they sit outside binding_corpus_scope, so nothing guarded their
+# cross-references until now. Working logs (project/TODO.md) and dated records
+# (project/MEMLOG.md, evidence/, evaluation/results/) stay out: they record what was
+# true when written and are not maintained prose.
+READER_ENTRY_DOCS = (
+    "START_HERE.md",
+    "project/VISION.md",
+    "guides/CONCEPTUAL_OVERVIEW.md",
+    "guides/RECORD_OVERVIEW.md",
+    "CONTRIBUTING.md",
+    "AGENTS.md",
+)
+SOURCE_EXTRAS = ("project/CONSTITUTIONAL_REGRESSION_SCENARIOS.md", *READER_ENTRY_DOCS)
 SOURCE_GLOBS = (
     "implementation/**/*.md",
     "doc_architecture/generated/**/*.md",
 )
-DEFAULT_TARGET = "core_10_standing_integration.md"
 INLINE_LINK_RE = re.compile(
     r"!?\[[^\]\n]*\]\(\s*(?P<target><[^>\n]+>|[^)\s]+)"
     r"(?:\s+(?:\"[^\"]*\"|'[^']*'|\([^)]*\)))?\s*\)"
@@ -27,6 +44,17 @@ INLINE_LINK_RE = re.compile(
 REFERENCE_LINK_RE = re.compile(
     r"^\s{0,3}\[[^\]\n]+\]:\s*(?P<target><[^>\n]+>|\S+)"
 )
+# Reading-chain footers use a bare filename by convention and are owned by
+# footer_audit, which requires that exact spelling. Resolving them here as
+# ordinary relative links would contradict it, so they are skipped.
+FOOTER_NAV_RE = re.compile(r"^\s{0,3}\*\*(?:Next|Previous|Prev) file:\*\*", re.I)
+# doc_architecture.md illustrates path shapes with a typographic ellipsis
+# (corpus_systems/cs_07_….md). These are prose examples, not real targets.
+PLACEHOLDER_CHAR = "\u2026"
+# Inline code spans quote link syntax as an example (migration specs tabulate
+# `[Label](#anchor)` to show the shape of a cite). Fenced blocks were already
+# excluded; spans are masked so their contents are not read as real links.
+CODE_SPAN_RE = re.compile(r"`+[^`\n]*`+")
 HTML_ANCHOR_RE = re.compile(
     r"<(?:a|[^>\s]+)\b[^>]*\b(?:id|name)\s*=\s*"
     r"(?:\"([^\"]+)\"|'([^']+)'|([^\s>]+))",
@@ -60,10 +88,10 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--root", default=".", help="Repository root.")
     parser.add_argument(
         "--target",
-        default=DEFAULT_TARGET,
+        default=None,
         help=(
-            "Repository-relative Markdown file whose inbound links are checked "
-            f"(default: {DEFAULT_TARGET})."
+            "Optional repository-relative Markdown file whose inbound links are "
+            "checked. Omit to validate every in-repository link target."
         ),
     )
     parser.add_argument(
@@ -142,10 +170,18 @@ def links_in(path: Path, text: str) -> list[Link]:
         visible_by_number.get(line_no, "")
         for line_no in range(1, len(text.splitlines()) + 1)
     )
+    skip_lines = {line_no for line_no, line in lines if FOOTER_NAV_RE.match(line)}
+    # Mask with equal-length spaces so line and offset arithmetic is unchanged.
+    visible_text = CODE_SPAN_RE.sub(lambda m: " " * len(m.group(0)), visible_text)
+    lines = [(line_no, CODE_SPAN_RE.sub("", line)) for line_no, line in lines]
     for match in INLINE_LINK_RE.finditer(visible_text):
         line_no = visible_text.count("\n", 0, match.start()) + 1
+        if line_no in skip_lines:
+            continue
         links.append(Link(path, line_no, match.group("target").strip("<>")))
     for line_no, line in lines:
+        if line_no in skip_lines:
+            continue
         reference = REFERENCE_LINK_RE.match(line)
         if reference:
             links.append(Link(path, line_no, reference.group("target").strip("<>")))
@@ -205,6 +241,8 @@ def resolve_link(root: Path, link: Link) -> tuple[Path, str | None] | None:
     target = link.raw_target
     if not target or target.startswith("//"):
         return None
+    if PLACEHOLDER_CHAR in target:
+        return None
     parsed = urlsplit(target)
     if parsed.scheme or parsed.netloc:
         return None
@@ -225,7 +263,9 @@ def resolve_link(root: Path, link: Link) -> tuple[Path, str | None] | None:
     return resolved, fragment
 
 
-def audit(root: Path, paths: list[Path], selected_target: Path) -> list[Finding]:
+def audit(
+    root: Path, paths: list[Path], selected_target: Path | None = None
+) -> list[Finding]:
     root = root.resolve()
     findings: list[Finding] = []
     anchor_cache: dict[Path, set[str]] = {}
@@ -238,7 +278,7 @@ def audit(root: Path, paths: list[Path], selected_target: Path) -> list[Finding]
             if resolved is None:
                 continue
             target_path, fragment = resolved
-            if target_path != selected_target:
+            if selected_target is not None and target_path != selected_target:
                 continue
             source_rel = source.relative_to(root).as_posix()
             try:
@@ -288,7 +328,7 @@ def main() -> int:
     args = parse_args()
     root = Path(args.root).resolve()
     paths = source_files(root, args.scope)
-    selected_target = (root / args.target).resolve()
+    selected_target = (root / args.target).resolve() if args.target else None
     findings = audit(root, paths, selected_target)
 
     if findings:
@@ -304,9 +344,10 @@ def main() -> int:
             )
         return 1
 
+    scope_note = args.target if args.target else "all in-repository targets"
     print(
         f"local-markdown-fragment-audit: PASS "
-        f"({len(paths)} source file(s) scanned; target: {args.target})"
+        f"({len(paths)} source file(s) scanned; target: {scope_note})"
     )
     return 0
 

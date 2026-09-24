@@ -195,8 +195,8 @@
       ],
       "read_with": [
         {
-          "id": "CI-8",
-          "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md"
+          "id": "CI-12",
+          "file": "corpus_institutions/ci_12_cross_institution_coordination_escalation.md"
         }
       ]
     },
@@ -350,7 +350,7 @@
     },
     {
       "id": "CJS-R15",
-      "topic": "Contest-integrity monitoring (pathway integrity, not merits)",
+      "topic": "Contest-integrity monitoring (contest-pathway integrity, not merits)",
       "domain": "Institutional governance",
       "primary_owners": [
         {
@@ -514,6 +514,10 @@
         {
           "id": "CI-8",
           "file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md"
+        },
+        {
+          "id": "CI-12",
+          "file": "corpus_institutions/ci_12_cross_institution_coordination_escalation.md"
         },
         {
           "id": "CF-11",

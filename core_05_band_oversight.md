@@ -12,7 +12,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims).
+- Upstream: [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
 - Downstream: Oversight-band canonical definition homes for Chapter Five.
 - Read with: **Oversight** band definitions; mandatory cluster read-with where admission scope applies.
 
@@ -90,7 +90,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 <br>
 
 - **What it is**
-  - **In scope:** A mandatory functionality that a [System](core_05_band_accountability.md#system) possesses sufficient to achieve a specified outcome, independent of implementation mechanism.
+  - **In scope:** A mandatory functionality that a [System](core_05_band_continuity.md#system) possesses sufficient to achieve a specified outcome, independent of implementation mechanism.
   - **Out of scope:** optional features, aspirational roadmap items, or design preferences that are not claimed as a mandatory capability for a specified outcome.
 <a id="capability-requirement-a"></a>
 - **How to measure and assess**
@@ -154,6 +154,58 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 
 ---
 
+<a id="heightened-scrutiny"></a>
+
+#### Heightened Scrutiny
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [Chapter One §6.1.3 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality) (*heightened thresholds*).
+- Read with: [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Contestability](core_05_band_accountability.md#contestability), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), and [Materiality Under Uncertainty](core_05_band_oversight.md#materiality-under-uncertainty).
+- Downstream: [Article I-D](core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*); [Article V-H](core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*); [Article XIII-C](core_06_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*); [Chapter Eleven §3](core_11_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 anti-constitutional designation*); [Chapter Sixteen §1](core_16_amendment_ratification.md#1-heightened-review-for-rights-affecting-changes) (*Heightened Review for Rights-Affecting Changes*).
+
+</details>
+
+<br>
+
+*In plain terms: some decisions are risky enough that the ordinary check is not enough. Heightened scrutiny is the harder check: whoever wants to go ahead must prove the case, safer options must really have been weighed, and outsiders must be able to see and challenge the reasoning. Highest scrutiny is the hardest check, kept for a few cases where a wrong call does the most damage.*
+
+- **What it is**
+  - **In scope — heightened scrutiny:** The stricter review standard that applies wherever a provision of this Constitution calls for heightened scrutiny, heightened constitutional scrutiny, or heightened review. Under it:
+    - the actor seeking to act, continue, or expand carries the burden of showing that the requirements are met;
+    - [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) are applied more strictly — materially safer, reasonably effective alternatives must have been genuinely considered, and any limit must be narrowly tailored to the harm addressed;
+    - review is independent of the actor and the decision is published with its reasons, open to challenge under [Contestability](core_05_band_accountability.md#contestability); and
+    - the record states uncertainty, assumptions, evidence limits, and disagreement openly.
+    <a id="highest-scrutiny"></a>
+  - **In scope — highest scrutiny:** The strictest tier of the same standard. It applies only where a provision expressly names it — including credible causal pathways to existential risk or irreversible loss of ecological recovery capacity under [Article I-D](core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*), content-based restriction of expression under [Article V-H](core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*) and final anti-constitutional misconduct designation under [Chapter Eleven §3](core_11_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 anti-constitutional designation*). On top of everything heightened scrutiny requires:
+    - the act under review is presumed non-compliant until clear, verified evidence establishes every required element;
+    - unresolved doubt, missing evidence, or untested assumptions count against the act under review; and
+    - reviewers must be functionally independent of the original decision and of anyone who benefits from it.
+  - **Out of scope:**
+    - ordinary [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) review, which applies everywhere without a heightened trigger;
+    - the trigger conditions themselves, which stay with the provisions that invoke this standard;
+    - the **strictest applicable** rule for choosing among incorporated texts under [Chapter One §8.4.3 Incorporation layer](core_01_b_interaction_interpretation.md#843-incorporation-layer); and
+    - other uses of "heightened" that name a stronger safeguard, weight, priority, or control rather than a review standard (for example heightened safeguards in Chapter Nine or heightened priority for habitat).
+<a id="heightened-scrutiny-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether the harder review actually happened and can be checked by outsiders — not only whether it was announced.
+
+    **Primary assessment:** Confirm from the record that the burden sat with the actor, that the alternatives analysis was real, that review was independent, and that reasons, uncertainty, and disagreement were published in a form others can contest. For highest scrutiny, also confirm that every required element rests on clear, verified evidence and that open doubt was counted against the act under review.
+  - **Secondary measure:** [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), and [Contestability](core_05_band_accountability.md#contestability).
+
+    **Secondary assessment:** Read those co-measures at the stricter setting this entry requires. A pass under ordinary review does not show a pass under heightened or highest scrutiny.
+<a id="heightened-scrutiny-c"></a>
+- **What must hold**
+  - **Primary failure:** It is non-compliant, where a provision calls for heightened or highest scrutiny, to:
+    - shift the burden onto those affected;
+    - rely on a checklist, a favorable cost-benefit estimate on paper, or short-term gain in place of the full review;
+    - skip independent review, publication of reasons, or a real chance to contest; or
+    - for highest scrutiny, proceed on unverified evidence or resolve doubt in favor of the act under review.
+  - **Secondary failure:** treating an ordinary Necessity or Proportionality pass as if it met the heightened setting.
+
+---
+
 <a id="press-and-journalistic-activity-constitutional"></a>
 
 #### Press and Journalistic Activity
@@ -175,7 +227,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
     - source protection;
     - investigation; and
     - publication.
-    Sentients doing that work exercise the [Expression](core_05_band_participation.md#expression-constitutional) and [Assembly](core_05_band_participation.md#assembly-constitutional) Rights-Floor, with heightened-scrutiny protection under [Article V-H](core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
+    Sentients doing that work exercise the [Expression](core_05_band_participation.md#expression-constitutional) and [Assembly](core_05_band_participation.md#assembly-constitutional) Rights-Floor, with [heightened-scrutiny](core_05_band_oversight.md#heightened-scrutiny) protection under [Article V-H](core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
   - **Out of scope:** press credentials, institutional titles, or ordinary commercial speech that is not newsgathering, investigation, or publication functioning as journalism.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **How to measure and assess**
@@ -237,7 +289,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Integrative Materiality ([Materiality Determination](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); Principles: [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Materiality** DEC stack; evaluation completeness); [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) (proportionality stack read with material effects).
-- Read with: [Material Impact](core_05_band_oversight.md#material-impact), [Material Risk](core_05_band_oversight.md#material-risk), [Systemic Materiality](core_05_band_accountability.md#systemic-materiality), and [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance).
+- Read with: [Material Impact](core_05_band_oversight.md#material-impact), [Material Risk](core_05_band_oversight.md#material-risk), [Systemic Materiality](core_05_band_continuity.md#systemic-materiality), and [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance).
 
 </details>
 
@@ -253,9 +305,9 @@ Implication can exist without misalignment. Misalignment always implies material
   - **Primary measure:** Integrative Materiality ([Materiality Determination](core_05_band_oversight.md#materiality-determination)) — threshold input for [Materiality Determination](core_05_band_oversight.md#materiality-determination).
 
     **Primary assessment:** Ask whether the conditions can produce meaningful [Material Impact](core_05_band_oversight.md#material-impact) or [Material Risk](core_05_band_oversight.md#material-risk) when you look at the whole system, not just a slice.
-  - **Secondary measure:** [Material Impact](core_05_band_oversight.md#material-impact), [Material Risk](core_05_band_oversight.md#material-risk), and [Systemic Materiality](core_05_band_accountability.md#systemic-materiality) — co-measures that can defeat material classification when effects are fragmented or understated.
+  - **Secondary measure:** [Material Impact](core_05_band_oversight.md#material-impact), [Material Risk](core_05_band_oversight.md#material-risk), and [Systemic Materiality](core_05_band_continuity.md#systemic-materiality) — co-measures that can defeat material classification when effects are fragmented or understated.
 
-    **Secondary assessment:** When checking the primary answer, ask whether effects that look small one by one would still look small if you put them together — including system-wide [Systemic Materiality](core_05_band_accountability.md#systemic-materiality) pathways.
+    **Secondary assessment:** When checking the primary answer, ask whether effects that look small one by one would still look small if you put them together — including system-wide [Systemic Materiality](core_05_band_continuity.md#systemic-materiality) pathways.
 <a id="material-c"></a>
 - **What must hold**
   - **Primary failure:** ignoring conditions that [Materiality Determination](core_05_band_oversight.md#materiality-determination) would treat as material.
@@ -343,7 +395,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (aggregation and boundary integrity in evaluation); [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) (metric/reality gaps that can manipulate materiality).
-- Read with: [Materiality Determination](core_05_band_oversight.md#materiality-determination), [System Boundaries](core_05_band_continuity.md#system-boundaries), [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity), [Systemic Materiality](core_05_band_accountability.md#systemic-materiality), [Auditability](core_05_band_oversight.md#auditability), and [Accountability](core_05_apex_accountability_leg.md#accountability).
+- Read with: [Materiality Determination](core_05_band_oversight.md#materiality-determination), [System Boundaries](core_05_band_continuity.md#system-boundaries), [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity), [Systemic Materiality](core_05_band_continuity.md#systemic-materiality), [Auditability](core_05_band_oversight.md#auditability), and [Accountability](core_05_apex_accountability_leg.md#accountability).
 
 </details>
 
@@ -362,9 +414,9 @@ Implication can exist without misalignment. Misalignment always implies material
     - splitting;
     - aggregation avoidance; and
     - boundary games.
-  - **Secondary measure:** [Systemic Materiality](core_05_band_accountability.md#systemic-materiality), [Materiality Determination](core_05_band_oversight.md#materiality-determination), [Auditability](core_05_band_oversight.md#auditability), and [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — co-measures that defeat manipulation or proxy gaming of materiality.
+  - **Secondary measure:** [Systemic Materiality](core_05_band_continuity.md#systemic-materiality), [Materiality Determination](core_05_band_oversight.md#materiality-determination), [Auditability](core_05_band_oversight.md#auditability), and [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — co-measures that defeat manipulation or proxy gaming of materiality.
 
-    **Secondary assessment:** When checking the primary answer, include [Systemic Materiality](core_05_band_accountability.md#systemic-materiality), [Auditability](core_05_band_oversight.md#auditability), and [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) paths that would hide collectively material effects.
+    **Secondary assessment:** When checking the primary answer, include [Systemic Materiality](core_05_band_continuity.md#systemic-materiality), [Auditability](core_05_band_oversight.md#auditability), and [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) paths that would hide collectively material effects.
 <a id="materiality-integrity-constraint-c"></a>
 - **What must hold**
   - **Primary failure:** treating collectively material effects as immaterial through structural manipulation.
@@ -381,7 +433,7 @@ Implication can exist without misalignment. Misalignment always implies material
 
 - Downstream: Integrative Materiality ([Materiality Determination](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); Principles: [material stake](core_00_preamble.md#material-stake) scaling proxy; [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§9 Stewardship In Depth — §9.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#91-distributed-understanding) (understanding scales with **Materiality**); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality) (material impact in the tradeoff index).
 - Cluster component: [the dependent cluster *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05_band_oversight.md#materiality-semi-independent).
-- Read with: [Harm](core_05_band_accountability.md#harm), [Risk](core_05_band_continuity.md#risk), [Systemic Materiality](core_05_band_accountability.md#systemic-materiality), [Dependency](core_05_band_continuity.md#dependency), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), and [Transparency](core_05_band_oversight.md#transparency).
+- Read with: [Harm](core_05_band_accountability.md#harm), [Risk](core_05_band_continuity.md#risk), [Systemic Materiality](core_05_band_continuity.md#systemic-materiality), [Dependency](core_05_band_continuity.md#dependency), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), and [Transparency](core_05_band_oversight.md#transparency).
 
 </details>
 
@@ -408,9 +460,9 @@ Implication can exist without misalignment. Misalignment always implies material
     - delayed effects;
     - cumulative effects; and
     - cross-system consequences.
-  - **Secondary measure:** [Harm](core_05_band_accountability.md#harm), [Risk](core_05_band_continuity.md#risk), [Systemic Materiality](core_05_band_accountability.md#systemic-materiality), and [Dependency](core_05_band_continuity.md#dependency) — co-measures that can defeat impact assessment when looking only at pieces understates effects.
+  - **Secondary measure:** [Harm](core_05_band_accountability.md#harm), [Risk](core_05_band_continuity.md#risk), [Systemic Materiality](core_05_band_continuity.md#systemic-materiality), and [Dependency](core_05_band_continuity.md#dependency) — co-measures that can defeat impact assessment when looking only at pieces understates effects.
 
-    **Secondary assessment:** When checking the primary answer, include [Systemic Materiality](core_05_band_accountability.md#systemic-materiality), [Dependency](core_05_band_continuity.md#dependency), and cross-system spread that would change the material classification.
+    **Secondary assessment:** When checking the primary answer, include [Systemic Materiality](core_05_band_continuity.md#systemic-materiality), [Dependency](core_05_band_continuity.md#dependency), and cross-system spread that would change the material classification.
 <a id="material-impact-c"></a>
 - **What must hold**
   - **Primary failure:**
@@ -454,7 +506,7 @@ Implication can exist without misalignment. Misalignment always implies material
     - rare-but-severe (tail) outcomes;
     - how fast [Harm](core_05_band_accountability.md#harm) can arrive; and
     - how irreversible that harm can be.
-  - **Secondary measure:** [Harm](core_05_band_accountability.md#harm), [Irreversible Harm](core_05_band_accountability.md#irreversible-harm), [Risk](core_05_band_continuity.md#risk), and [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) — co-measures that can defeat risk classification when tail or systemic pathways are ignored.
+  - **Secondary measure:** [Harm](core_05_band_accountability.md#harm), [Irreversible Harm](core_05_band_accountability.md#irreversible-harm), [Risk](core_05_band_continuity.md#risk), and [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) — co-measures that can defeat risk classification when tail or systemic risk pathways are ignored.
 
     **Secondary assessment:** When checking the primary answer, include [Irreversible Harm](core_05_band_accountability.md#irreversible-harm), [Risk](core_05_band_continuity.md#risk), and [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) paths that would change the material-risk classification.
 <a id="material-risk-c"></a>
@@ -462,7 +514,7 @@ Implication can exist without misalignment. Misalignment always implies material
   - **Primary failure:**
     - realized harm labeled as only future risk; or
     - material risk not addressed and constrained under [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Risk](core_05_band_continuity.md#risk), and [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance).
-  - **Secondary failure:** tail or irreversible pathways excluded when [Irreversible Harm](core_05_band_accountability.md#irreversible-harm) remains plausible.
+  - **Secondary failure:** tail or irreversible harm pathways excluded when [Irreversible Harm](core_05_band_accountability.md#irreversible-harm) remains plausible.
 
 ---
 
@@ -584,8 +636,8 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) (**Safety** / **Truth** degradation paths).
-- Read with: [Materiality Determination](core_05_band_oversight.md#materiality-determination), [Systemic Materiality](core_05_band_accountability.md#systemic-materiality), [Risk](core_05_band_continuity.md#risk), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), and [Meaningful Agency](core_05_band_participation.md#meaningful-agency).
+- Downstream: Principles: [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-principle-constraints-safety-and-truth) (**Safety** / **Truth** degradation paths).
+- Read with: [Materiality Determination](core_05_band_oversight.md#materiality-determination), [Systemic Materiality](core_05_band_continuity.md#systemic-materiality), [Risk](core_05_band_continuity.md#risk), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), and [Meaningful Agency](core_05_band_participation.md#meaningful-agency).
 
 </details>
 
@@ -603,8 +655,8 @@ Implication can exist without misalignment. Misalignment always implies material
 - **How to measure and assess**
   - **Primary measure:** Integrative Materiality ([Materiality Determination](core_05_band_oversight.md#materiality-determination)) — degradation signal for materiality classification.
 
-    **Primary assessment:** Include scaling and system-wide effects under [Systemic Materiality](core_05_band_accountability.md#systemic-materiality) and [Risk](core_05_band_continuity.md#risk) when judging a non-trivial drop in protected conditions.
-  - **Secondary measure:** [Materiality Determination](core_05_band_oversight.md#materiality-determination), [Systemic Materiality](core_05_band_accountability.md#systemic-materiality), [Risk](core_05_band_continuity.md#risk), and [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — co-measures that can defeat degradation assessment when proxies hide decline.
+    **Primary assessment:** Include scaling and system-wide effects under [Systemic Materiality](core_05_band_continuity.md#systemic-materiality) and [Risk](core_05_band_continuity.md#risk) when judging a non-trivial drop in protected conditions.
+  - **Secondary measure:** [Materiality Determination](core_05_band_oversight.md#materiality-determination), [Systemic Materiality](core_05_band_continuity.md#systemic-materiality), [Risk](core_05_band_continuity.md#risk), and [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — co-measures that can defeat degradation assessment when proxies hide decline.
 
     **Secondary assessment:** When checking the primary answer, apply [Materiality Determination](core_05_band_oversight.md#materiality-determination) and [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) where metrics hide material degradation.
 <a id="material-degradation-c"></a>
@@ -626,8 +678,8 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](core_05_band_oversight.md#materiality-determination).
-- Chapter One basis: Chapter One §8.2, §4, §12.1, §12.2 (see [Chapter Five compass](../core_05__definitions_home.md#chapter-five-compass-and-definition-map) map).
+- Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](core_00_preamble.md#material-stake) via [Materiality Determination](core_05_band_oversight.md#materiality-determination).
+- Chapter One basis: Chapter One §8.2, §4, §12.1, §12.2 (see [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map) map).
 - Read with: Apply [Accountability](core_05_apex_accountability_leg.md#accountability), [Contestability](core_05_band_accountability.md#contestability), [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional), [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing), [Materiality Determination](core_05_band_oversight.md#materiality-determination), [Risk](core_05_band_continuity.md#risk), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), and Chapters Two through Four mechanics where materially implicated.
 
 </details>
@@ -744,7 +796,7 @@ See **Joint invocation and satisfaction**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Downstream: **[CS-2 Part A §7](corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](corpus_systems/cs_02_b_data_classifications.md#83-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [Chapter Eight §4](core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [Chapter Eight Part B §11](core_08_b_system_alignment_certification_record_process.md#11-certification-record) (*Certification record*); [Chapter Eight Part B §12](core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*Transparency, auditability, and contestability*).
+- Downstream: **[CS-2 Part A §7](corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](corpus_systems/cs_02_b_data_classifications.md#83-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [Chapter Eight §4](core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [Chapter Eight Part B §11](core_08_b_system_alignment_certification_record_process.md#11-system-certification-record) (*Certification record*); [Chapter Eight Part B §12](core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*Transparency, auditability, and contestability*).
 - Read with: [Transparency](core_05_band_oversight.md#transparency), [Contestability](core_05_band_accountability.md#contestability), [Auditability](core_05_band_oversight.md#auditability), [Risk Disclosure](core_05_band_oversight.md#risk-disclosure), [Charter](core_05_band_continuity.md#charter), [System Boundaries](core_05_band_continuity.md#system-boundaries), [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional), [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional), [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional), [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** (**Type O**).
 
 </details>
@@ -948,7 +1000,7 @@ See **Joint invocation and satisfaction**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth), [6. Process Conflict Resolution](core_05_apex_oversight_leg.md#6-process-conflict-resolution), and [10.2.1 Preservation of Epistemic Integrity](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity), where materially relevant evidence must remain available for truth, safety, review, and correction.
+- Downstream: Principles: [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-principle-constraints-safety-and-truth), [6. Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), and [10.2.1 Preservation of Epistemic Integrity](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity), where materially relevant evidence must remain available for truth, safety, review, and correction.
 - Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - Read with: [Auditability](core_05_band_oversight.md#auditability), [Verifiability](core_05_band_oversight.md#verifiability), [Transparency](core_05_band_oversight.md#transparency), [Accountability](core_05_apex_accountability_leg.md#accountability), [Contestability](core_05_band_accountability.md#contestability), [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional), [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing), and [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional).
 
@@ -1009,13 +1061,13 @@ See **Joint invocation and satisfaction**.
 *In plain terms: do not claim compliance from a narrow demo suite — evaluation must cover the failure, misuse, interaction, and adversarial paths that matter. A Charter states intended scope; certification checks that the hard paths were actually evaluated.*
 
 - **What it is**
-  - **In scope:** A constraint that evaluation and assurance work must cover materially plausible pathways before compliance claims rest on selectively narrow scenario sets, including:
+  - **In scope:** A constraint that evaluation and assurance work must cover materially plausible risk pathways before compliance claims rest on selectively narrow scenario sets, including:
     - failure;
     - misuse;
     - interaction; and
     - adversarial pathways.
   - **Ongoing duty:** The constraint applies whenever operators, stewards, or reviewers claim constitutional compliance, readiness, or safe reliance from evaluation or assurance work — not only during certification cycles.
-  - **Charter and scope process:** Where a governing [Charter](core_05_band_continuity.md#charter) (or equivalent published scope instrument) exists for a system, institution, business, or comparable stewarded form, evaluation must test chartered purpose and in-scope / out-of-scope limits against observed [System Boundaries](core_05_band_continuity.md#system-boundaries) and plausible pathways inside and at the edge of that scope. Charter text does not shrink the pathways that must be evaluated.
+  - **Charter and scope process:** Where a governing [Charter](core_05_band_continuity.md#charter) (or equivalent published scope instrument) exists for a system, institution, business, or comparable stewarded form, evaluation must test chartered purpose and in-scope / out-of-scope limits against observed [System Boundaries](core_05_band_continuity.md#system-boundaries) and plausible risk pathways inside and at the edge of that scope. Charter text does not shrink the risk pathways that must be evaluated.
   - **SAC verification:** Where [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, this constraint is part of what certification must verify under [Chapter Eight §3](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — including chartered-scope-versus-functional-boundary checks under [§3.1](core_08_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-5](corpus_systems/cs_05_design_testing_verification_deployment.md). Findings live on the [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional).
   - **Out of scope:**
     - [Charter](core_05_band_continuity.md#charter) text as a scope instrument alone — a Charter states intended scope; it is not itself evaluation coverage;
@@ -1025,7 +1077,7 @@ See **Joint invocation and satisfaction**.
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether evaluation covers plausible failure, misuse, interaction, and adversarial pathways — not only selective demo scenarios.
 
-    **Primary assessment:** Show enough coverage of plausible pathways, sized to system impact, [Dependency](core_05_band_continuity.md#dependency), and [Risk](core_05_band_continuity.md#risk), including:
+    **Primary assessment:** Show enough coverage of plausible risk pathways, sized to system impact, [Dependency](core_05_band_continuity.md#dependency), and [Risk](core_05_band_continuity.md#risk), including:
     - failure;
     - misuse;
     - interaction; and
@@ -1137,10 +1189,10 @@ See **Joint invocation and satisfaction**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](core_05_band_oversight.md#materiality-determination).
+- Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](core_00_preamble.md#material-stake) via [Materiality Determination](core_05_band_oversight.md#materiality-determination).
 - Downstream: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*).
 - Cross-leg note: integrative with **Accountability** where contest and correction are implicated.
-- Chapter One basis: Chapter One §8.2, §3.3, §4, §12.1, §12.2 (see [Chapter Five compass](../core_05__definitions_home.md#chapter-five-compass-and-definition-map) map).
+- Chapter One basis: Chapter One §8.2, §3.3, §4, §12.1, §12.2 (see [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map) map).
 - Read with: Apply [Good Faith](core_05_band_accountability.md#good-faith), [Materiality Determination](core_05_band_oversight.md#materiality-determination), [Dependency](core_05_band_continuity.md#dependency), [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), [Verifiability](core_05_band_oversight.md#verifiability), [Contestability](core_05_band_accountability.md#contestability), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Risk](core_05_band_continuity.md#risk), and Chapters Two through Four mechanics where materially implicated.
 
 </details>
@@ -1306,7 +1358,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     - honest treatment of what is known, unknown, and uncertain;
     - resistance to deception, distortion, and structurally misleading presentation; and
     - assessment methods sized to the stakes under Chapters Two through Four.
-  - **Depends on:** [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) — paired non-negotiable constraint under [Chapter One §3](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); truth duties include honest risk and uncertainty communication where safety is materially at stake.
+  - **Depends on:** [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) — paired non-negotiable constraint under [Chapter One §3 Non-Negotiable Principle Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-principle-constraints-safety-and-truth); truth duties include honest risk and uncertainty communication where safety is materially at stake.
   - **Out of scope:**
     - polite tone or procedural courtesy alone; or
     - market prices or odds as ordinary economic signals outside rights, safety, or governance truth determinations —

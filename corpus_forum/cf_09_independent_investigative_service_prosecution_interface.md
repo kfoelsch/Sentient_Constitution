@@ -14,11 +14,11 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Twelve §7](../core_12_forum.md#7-forum-support-before-during-and-after-review) (*forum support before, during, and after review — inspection and investigative interfaces*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Twelve §7](../core_12_forum.md#7-forum-support-before-during-and-after-review--oversight-architecture) (*forum support before, during, and after review — inspection and investigative interfaces*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-9.1 Basic rule](#cf-91-basic-rule); [CF-9.2 Why independence matters](#cf-92-why-independence-matters); [CF-9.3 Where the investigative service belongs](#cf-93-where-the-investigative-service-belongs); [CF-9.4 What investigators may do](#cf-94-what-investigators-may-do); [CF-9.5 Required separations](#cf-95-required-separations); [CF-9.6 No self-investigation](#cf-96-no-self-investigation); [CF-9.7 Rights, secrecy, and protected activity](#cf-97-rights-secrecy-and-protected-activity); [CF-9.8 Records, referrals, and backup routes](#cf-98-records-referrals-and-backup-routes).
 - Read with: **CF-9**; **CF-9.1**; **CF-9.2**; **CF-9.3**; **CF-9.4**; **CF-9.5**; **CF-9.6**; **CF-9.7**; **CF-9.8**.
 - Topic routing (mandatory read-with): **CJS-R22** (*Standing-record custody, opening authority, and segregation of duties*) in **CJS-0.1** (*Topic router*); primary owner **CI-3**.
-- Topic routing (primary owner): **CJS-R08** (*Independent investigative service and prosecution interface*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CI-8**.
+- Topic routing (primary owner): **CJS-R08** (*Independent investigative service and prosecution interface*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CI-12**.
 
 </details>
 
@@ -46,8 +46,8 @@
 - [Forum Family, Technical](../core_05_band_accountability.md#forum-family-technical) · [O](../core_05_band_accountability.md#forum-family-technical) · [M](../core_05_band_accountability.md#forum-family-technical-a) · [A](../core_05_band_accountability.md#forum-family-technical-a) · [C](../core_05_band_accountability.md#forum-family-technical-c)
 - [Incentive Alignment](../core_05_band_integrative.md#incentive-alignment) · [O](../core_05_band_integrative.md#incentive-alignment) · [M](../core_05_band_integrative.md#incentive-alignment-a) · [A](../core_05_band_integrative.md#incentive-alignment-a) · [C](../core_05_band_integrative.md#incentive-alignment-c)
 - [Primary-Stakes Routing](../core_05_band_accountability.md#primary-stakes-routing) · [O](../core_05_band_accountability.md#primary-stakes-routing) · [M](../core_05_band_accountability.md#primary-stakes-routing-a) · [A](../core_05_band_accountability.md#primary-stakes-routing-a) · [C](../core_05_band_accountability.md#primary-stakes-routing-c)
-- [Sentient](../core_05_band_participation.md#sentient-composite) · [O](../core_05_band_participation.md#sentient-composite) · [M](../core_05_band_participation.md#sentient-composite-a) · [A](../core_05_band_participation.md#sentient-composite-a) · [C](../core_05_band_integrative.md#sentient-composite-c)
-- [Systemic](../core_05_band_accountability.md#systemic) · [O](../core_05_band_accountability.md#systemic) · [M](../core_05_band_continuity.md#systemic-a) · [A](../core_05_band_continuity.md#systemic-a) · [C](../core_05_band_continuity.md#systemic-c)
+- [Sentient](../core_05_band_participation.md#sentient-composite) · [O](../core_05_band_participation.md#sentient-composite) · [M](../core_05_band_participation.md#sentient-composite-a) · [A](../core_05_band_participation.md#sentient-composite-a) · [C](../core_05_band_participation.md#sentient-composite-c)
+- [Systemic](../core_05_band_continuity.md#systemic) · [O](../core_05_band_continuity.md#systemic) · [M](../core_05_band_continuity.md#systemic-a) · [A](../core_05_band_continuity.md#systemic-a) · [C](../core_05_band_continuity.md#systemic-c)
 
 </details>
 
@@ -261,7 +261,7 @@ Those records must support:
 
 Where local independence is not credible because of concentration, emergency incapacity, deadlock, or systemic capture indicators, institutions must escalate to one of these:
 
-- [**CI-8**](../corpus_institutions/ci_08_transparency_participation_accessible_pathways.md) (*Cross-institution coordination and escalation*);
+- [**CI-12**](../corpus_institutions/ci_12_cross_institution_coordination_escalation.md) (*Cross-institution coordination and escalation*);
 - external assurance;
 - another pre-designated backup body with lawful authority and practical capacity to investigate.
 

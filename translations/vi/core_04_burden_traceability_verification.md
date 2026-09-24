@@ -196,7 +196,7 @@ Nơi bất định ngăn chứng minh tuân thủ dứt điểm cho các thành 
 
 - Thượng nguồn: [Chương Hai — Cấu trúc định nghĩa và yêu cầu thành phần](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements); [Chương Ba — Tính toàn vẹn định nghĩa, lẩn tránh, và không tuân thủ](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance); [Chương Bốn, mục 1 đến 5](#1-exclusive-enforcement-and-burden-allocation).
 - Hạ nguồn: [Chương Bảy — Chứng nhận thẳng hàng hệ thống](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [Chương Tám — Mô hình đóng góp, vi phạm, và quỹ đạo](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
-- Đọc cùng: [Chương Bảy §16 — Mở lại, lệch lạc, và chống lẩn tránh](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — không tuân thủ đã xác minh dưới Chương Hai đến Bốn có thể mở lại hoặc đánh bại chứng nhận bất kể công nhận trước.
+- Đọc cùng: [Chương Bảy §16 — Mở lại, lệch lạc, và chống lẩn tránh](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) — không tuân thủ đã xác minh dưới Chương Hai đến Bốn có thể mở lại hoặc đánh bại chứng nhận bất kể công nhận trước.
 
 </details>
 

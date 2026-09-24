@@ -45,13 +45,13 @@ This file is the institutional implementation home for **CI-20** (*Relational co
 - **Asymmetry review** — someone must review economic, credential, platform, and reputation imbalances that functionally trap dependent participants.
 - **What stays protected** — lawful private association, conscience, household privacy, and community context are not dissolved; they cannot be used as blanket excuses to make coercion illegible.
 - **Hard limits** — formal labels such as marriage, employment, tenancy, membership, or platform account status must not hide dependency sabotage, isolation, reproductive pressure, or reputation threats.
-- **Read with** — **CI-6** for local procedure maps; **CI-8** for participation and pathway accessibility; **CI-5** for integrity and conflict-disclosure interfaces.
+- **Read with** — **CI-6** (*Procedure integrity, contestability, and secondary review*) for local procedure maps; **CI-8** (*Transparency, participation, and accessible challenge and service pathways*) for participation and challenge-pathway accessibility; **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) for integrity and conflict-disclosure interfaces.
 
 *Shared rules live elsewhere.*
 - [**CJS-3.17**](../corpus_joint_structure/cjs_03c_continuity_operations.md) (*interoperability, portability, and exit-integrity terms*) — **Dependency-based coercion and reputation-lock pathway integrity**.
 - Chapter Five [*Coercion and Manipulation*](../core_05_band_participation.md#coercion-and-manipulation-constitutional); [*Meaningful Agency*](../core_05_band_participation.md#meaningful-agency).
 - **Article IX-A** (*Freedom from Manipulation*); **Article X-A** (*Non-Imposition and Consent in Association*); **Article V-D** (*Freedom of Conscience, Religion, and Comparable Worldview*); **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*).
-- **CI-6** (*Procedure integrity, contestability, and secondary review*); **CI-8** (*Transparency, participation, and accessible pathways*); **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-16** (*Care labor, dependent support, respite, and care-economy fairness*); **CI-21** (*Community life, voluntary association, and non-instrumental time*). This file does not repeat those floors.
+- **CI-6** (*Procedure integrity, contestability, and secondary review*); **CI-8** (*Transparency, participation, and accessible challenge and service pathways*); **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-16** (*Care labor, dependent support, respite, and care-economy fairness*); **CI-21** (*Community life, voluntary association, and non-instrumental time*). This file does not repeat those floors.
 
 **Apply.** Apply **CJS-3.17** **Dependency-based coercion and reputation-lock pathway integrity**. **CI-20** states only the local owner duties below.
 

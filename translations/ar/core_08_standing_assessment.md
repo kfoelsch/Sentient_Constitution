@@ -168,7 +168,7 @@
 
 - أعلى: [§2.1](#21-standing-records-as-the-unit-of-application) (*سجلات إسهام ومخالفة منفصلة*).
 - أسفل: [§3.1](#31-minimum-record-contents) (*بوابة المدخلات الموثّقة*)؛ [§3.2](#32-related-record-cross-references) (*التقاطع المرجعي*)؛ [§3.6](#36-forum-boundary) (*حدّ المنتدى*)؛ [§4](#4-standing-measurement-evaluation-dimensions) (*قياس السؤال 2*)؛ [§5](#5-slot-grammar-and-lequ-calibration) (*نحو الخانة والقياس المشترك*)؛ [§6](#6-constitutional-inputs-to-axis-assignment) (*توجيه المصدر الدستوري*)؛ [§7](#7-unified-proportional-lequ-scale) (*مقياس LEQU النسبي الموحّد للمحورين*)؛ [الفصل التاسع](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*السؤال 3*).
-- يُقرأ مع: [الفصل التاسع — دمج الوضعية](../../core_10_standing_integration.md#2-integration-record-and-decision-order) (*عدم الإسقاط ودمج السجلات المرتبطة*)؛ [الفصل التاسع §6.2 — عتبات الكفاءة والإجازات](../../core_10_standing_integration.md#62-competency-bars-and-clearances)؛ [الفصل التاسع §4.2 — أقفال الوضعية](../../core_10_standing_integration.md#42-general-standing-locks).
+- يُقرأ مع: [الفصل التاسع — دمج الوضعية](../../core_10_standing_integration.md#2-automatic-integration-review-and-continuity) (*عدم الإسقاط ودمج السجلات المرتبطة*)؛ [الفصل التاسع §6.2 — عتبات الكفاءة والإجازات](../../core_10_standing_integration.md#62-competency-bars-and-clearances)؛ [الفصل التاسع §4.2 — أقفال الوضعية](../../core_10_standing_integration.md#42-prevention--general-standing-locks).
 
 </details>
 
@@ -496,7 +496,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: [§2](#2-standing-records) (*السؤال 1 — سجلات الوضعية والوقائع الموثّقة*)؛ [§3](#3-standing-record-operational-requirements) (*بوابة المدخلات الموثّقة ومتطلبات السجل*)؛ [§1](#1-the-three-questions) (*إطار الأسئلة الثلاثة*).
-- أسفل: [§5](#5-slot-grammar-and-lequ-calibration) (*نحو الخانة والقياس المشترك*)؛ [§6](#6-constitutional-inputs-to-axis-assignment) (*توجيه المصدر الدستوري*)؛ [§7](#7-unified-proportional-lequ-scale) (*تعيين محور الإسهام ومحور المخالفة*)؛ [الفصل التاسع §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) (*السؤال 3 للإسهام — التفويض الآمن*)؛ [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-general-standing-locks) (*أقفال المنع*)؛ [الفصل التاسع §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement) (*تصميم القفل وإنفاذه*).
+- أسفل: [§5](#5-slot-grammar-and-lequ-calibration) (*نحو الخانة والقياس المشترك*)؛ [§6](#6-constitutional-inputs-to-axis-assignment) (*توجيه المصدر الدستوري*)؛ [§7](#7-unified-proportional-lequ-scale) (*تعيين محور الإسهام ومحور المخالفة*)؛ [الفصل التاسع §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) (*السؤال 3 للإسهام — التفويض الآمن*)؛ [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) (*أقفال المنع*)؛ [الفصل التاسع §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement) (*تصميم القفل وإنفاذه*).
 - يُقرأ مع: [§3.1](#31-minimum-record-contents) (*حقول السجل الموثّق؛ لا آثار وضعية في الفصل الثامن*).
 
 </details>
@@ -534,7 +534,7 @@
   - فقدان قابلية الطعن؛ أو
   - تجميع غير قابل للمراجعة.
 
-**السؤال 2 فقط.** استخدم هذه الأبعاد لقياس الوقائع الموثّقة المثبتة تحت **القسم 2** والمسجَّلة تحت **القسم 3**. يمدّ كتالوج **مسار النفع** في **القسم 4.3** وكتالوج **مسار الضرر** في **القسم 4.4** الأسماء المعيارية لأنواع المساعدة أو الضرر ويبيّنان كيف يُحسَب كل اسم نحو *كم حسنًا* أو *كم سيئًا*. قواعد دمج السؤال 3 والإلحاق في [الفصل التاسع §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization)، مع قواعد العاقبة على [جانب النفع](../../core_10_standing_integration.md#62-competency-bars-and-clearances) و[جانب الضرر](../../core_10_standing_integration.md#42-general-standing-locks).
+**السؤال 2 فقط.** استخدم هذه الأبعاد لقياس الوقائع الموثّقة المثبتة تحت **القسم 2** والمسجَّلة تحت **القسم 3**. يمدّ كتالوج **مسار النفع** في **القسم 4.3** وكتالوج **مسار الضرر** في **القسم 4.4** الأسماء المعيارية لأنواع المساعدة أو الضرر ويبيّنان كيف يُحسَب كل اسم نحو *كم حسنًا* أو *كم سيئًا*. قواعد دمج السؤال 3 والإلحاق في [الفصل التاسع §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization)، مع قواعد العاقبة على [جانب النفع](../../core_10_standing_integration.md#62-competency-bars-and-clearances) و[جانب الضرر](../../core_10_standing_integration.md#42-prevention--general-standing-locks).
 
 <a id="41-magnitude-input-dimensions"></a>
 <a id="41-contribution-magnitude-input-dimensions"></a>
@@ -646,7 +646,7 @@
 <a id="44-violation-route-descriptor-catalog-and-measurement-roles"></a>
 #### 4.4 كتالوج واصف مسار المخالفة وأدوار القياس
 
-**واصفات مسار الضرر — دور قياس السؤال 2.** قواعد دمج السؤال 3 والإلحاق: [الفصل التاسع §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization). منع السؤال 3 وتصميم القفل: [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-general-standing-locks)؛ [الفصل التاسع §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement).
+**واصفات مسار الضرر — دور قياس السؤال 2.** قواعد دمج السؤال 3 والإلحاق: [الفصل التاسع §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization). منع السؤال 3 وتصميم القفل: [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks)؛ [الفصل التاسع §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement).
 
 | **واصف مسار الضرر** | **المجال المعياري** | **س2 (كم سيئًا؟)** |
 | --- | --- | --- |
@@ -680,20 +680,20 @@
 | **السمة الموثّقة** | **مالك السؤال 2 في هذا الفصل** | **مالك دمج السؤال 3** |
 | --- | --- | --- |
 | **ضرر مُخرَّج / عبء مخفي** | تطبيق جودة سلوك الإسهام في **§4.1** | [الفصل التاسع §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) — قد يحجب الإجازة أو يضيّقها حتى المعالجة |
-| **خداع / إخفاء / تهرّب** | تطبيق طابع سلوك المخالفة في **§4.2** | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — قفل تصعيد إخفاء / تهرّب |
-| **عرقلة المساءلة** | تطبيق طابع سلوك المخالفة في **§4.2** و**سوء سلوك عرقلة المساءلة** في **§4.4** | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-general-standing-locks) و[§5.4](../../core_10_standing_integration.md#54-special-violation-rules) — أقفال محدودة بمسار مسمّى؛ [الفصل التاسع §10.13](../../core_10_standing_integration.md#1013-obstruction-of-accountability) (*نمط السؤال 3*)؛ تسمية الفصل العاشر فقط عبر بوابة مراجعة سوء السلوك المضاد للدستور تحت [الفصل التاسع §10.8](../../core_10_standing_integration.md#108-anti-constitutional-misconduct-allegation) |
-| **عنف / إكراه / خطر حرية** | تطبيق طابع سلوك المخالفة في **§4.2** و**سوء سلوك عنيف** في **§4.4** | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — أقفال حماية وضمان |
-| **القسوة** | تطبيق طابع سلوك المخالفة في **§4.2**؛ [القسوة](core_05_band_accountability.md#cruelty) | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — أقفال حماية وضمان؛ [الفصل التاسع §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) — تعبير ترميمي غير مهين حيث يُستخدم |
-| **استمرارية / نمط / تكرار بعد الإخطار** | تطبيق طابع سلوك المخالفة في **§4.2** | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — قفل تكرار-استمرارية |
+| **خداع / إخفاء / تهرّب** | تطبيق طابع سلوك المخالفة في **§4.2** | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — قفل تصعيد إخفاء / تهرّب |
+| **عرقلة المساءلة** | تطبيق طابع سلوك المخالفة في **§4.2** و**سوء سلوك عرقلة المساءلة** في **§4.4** | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) و[§5.4](../../core_10_standing_integration.md#54-special-violation-rules) — أقفال محدودة بمسار مسمّى؛ [الفصل التاسع §10.13](../../core_10_standing_integration.md#1013-obstruction-of-accountability) (*نمط السؤال 3*)؛ تسمية الفصل العاشر فقط عبر بوابة مراجعة سوء السلوك المضاد للدستور تحت [الفصل التاسع §10.8](../../core_10_standing_integration.md#108-anti-constitutional-misconduct-allegation) |
+| **عنف / إكراه / خطر حرية** | تطبيق طابع سلوك المخالفة في **§4.2** و**سوء سلوك عنيف** في **§4.4** | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — أقفال حماية وضمان |
+| **القسوة** | تطبيق طابع سلوك المخالفة في **§4.2**؛ [القسوة](core_05_band_accountability.md#cruelty) | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — أقفال حماية وضمان؛ [الفصل التاسع §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) — تعبير ترميمي غير مهين حيث يُستخدم |
+| **استمرارية / نمط / تكرار بعد الإخطار** | تطبيق طابع سلوك المخالفة في **§4.2** | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — قفل تكرار-استمرارية |
 | **إصابة نزاهة المنتدى** | تطبيق طابع سلوك المخالفة في **§4.2** | [الفصل التاسع §5.5](../../core_10_standing_integration.md#55-special-locks) — آثار قفل وضعية نزاهة المنتدى |
-| **انتشار المسؤولية أو السيطرة** | تطبيق طابع سلوك المخالفة في **§4.2**؛ ارتباط خاص بالفاعل تحت **§§3.1 و3.3** | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — نطاق مسار مسمّى أوسع أو اعتبار مركبة مؤسسية |
-| **تمكين نظام / هيكلي** | تطبيق جودة سلوك الإسهام في **§4.1**؛ طابع سلوك المخالفة في **§4.2** و**سوء سلوك النظام** في **§4.4** | [الفصل التاسع §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) و[الفصل التاسع §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — ضمانات تفويض أو أقفال مركبة مؤسسية |
-| **مشاركة راضية / فشل في المقاومة** | تطبيق طابع سلوك المخالفة في **§4.2** | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — نطاق مسار مسمّى وآثار تكرار-استمرارية |
+| **انتشار المسؤولية أو السيطرة** | تطبيق طابع سلوك المخالفة في **§4.2**؛ ارتباط خاص بالفاعل تحت **§§3.1 و3.3** | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — نطاق مسار مسمّى أوسع أو اعتبار مركبة مؤسسية |
+| **تمكين نظام / هيكلي** | تطبيق جودة سلوك الإسهام في **§4.1**؛ طابع سلوك المخالفة في **§4.2** و**سوء سلوك النظام** في **§4.4** | [الفصل التاسع §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) و[الفصل التاسع §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — ضمانات تفويض أو أقفال مركبة مؤسسية |
+| **مشاركة راضية / فشل في المقاومة** | تطبيق طابع سلوك المخالفة في **§4.2** | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — نطاق مسار مسمّى وآثار تكرار-استمرارية |
 | **إصلاح تيسير وصول / حاجز مشاركة** | **الوصول والإدماج** في **§4.3** | [الفصل التاسع §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) — عتبة تجربة شاملة أو محدودة بمسار مسمّى |
-| **هزيمة تيسير الوصول / إصابة حاجز المشاركة** | **سوء سلوك تيسير الوصول وحاجز المشاركة** في **§4.4** | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — حجب مسارات مشاركة وتيسير وصول مسمّاة |
-| **إصابة خصوصية / ملكية الذات** | **سوء سلوك الخصوصية وملكية الذات** في **§4.4** | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — حجب مسارات بيانات أو صورة أو نشر أو حالة داخلية مسمّاة |
-| **خطر خروج / إغلاق أو إغلاق مسار** | تطبيق جودة سلوك الإسهام في **§4.1**؛ **سوء سلوك الخروج والإغلاق** في **§4.4** | [الفصل التاسع §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) و[الفصل التاسع §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — ضمانات تفويض أو حجب مسار خروج |
-| **إخفاء دورة حياة / لارجعة** | **سوء سلوك دورة الحياة واللارجعة** في **§4.4** | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — حجب نشر وسلطة دورة حياة |
+| **هزيمة تيسير الوصول / إصابة حاجز المشاركة** | **سوء سلوك تيسير الوصول وحاجز المشاركة** في **§4.4** | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — حجب مسارات مشاركة وتيسير وصول مسمّاة |
+| **إصابة خصوصية / ملكية الذات** | **سوء سلوك الخصوصية وملكية الذات** في **§4.4** | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — حجب مسارات بيانات أو صورة أو نشر أو حالة داخلية مسمّاة |
+| **خطر خروج / إغلاق أو إغلاق مسار** | تطبيق جودة سلوك الإسهام في **§4.1**؛ **سوء سلوك الخروج والإغلاق** في **§4.4** | [الفصل التاسع §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) و[الفصل التاسع §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — ضمانات تفويض أو حجب مسار خروج |
+| **إخفاء دورة حياة / لارجعة** | **سوء سلوك دورة الحياة واللارجعة** في **§4.4** | [الفصل التاسع §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — حجب نشر وسلطة دورة حياة |
 
 <a id="451-similar-looking-facts-that-must-stay-separate"></a>
 
@@ -703,7 +703,7 @@
 
 | **الواقعة الأولى** | **واقعة مختلفة** | **لماذا تبقيان منفصلتين** |
 | --- | --- | --- |
-| **تأخير الاستجابة للمشكلة الأصلية أو تصعيدها** | **تأخير بدء الانتصاف أو تنفيذه** | الأولى تساعد قياس السؤال 2 تحت **§§4.1–4.2**. الثانية واقعة سؤال 3 لاحقة تحت [الفصل التاسع §9.5](../../core_10_standing_integration.md#95-timely-implementation-and-reassessment). |
+| **تأخير الاستجابة للمشكلة الأصلية أو تصعيدها** | **تأخير بدء الانتصاف أو تنفيذه** | الأولى تساعد قياس السؤال 2 تحت **§§4.1–4.2**. الثانية واقعة سؤال 3 لاحقة تحت [الفصل التاسع §9.5](../../core_10_standing_integration.md#95-timely-implementation). |
 | **عدد الكائنات الواعية المتأثرة** | **كيف انتشرت المسؤولية أو السيطرة بين فاعلين أو أنظمة** | الأولى تساعد قياس كبر النفع أو الضرر تحت **§§4.1–4.2**. الثانية تخص المسؤولية الخاصة بالفاعل والانتشار ونطاق مسار مسمّى محتمل للسؤال 3. |
 
 <a id="46-question-1-measurement-illustrations"></a>

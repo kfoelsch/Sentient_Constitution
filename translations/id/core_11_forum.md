@@ -423,7 +423,7 @@ Setiap keluarga boleh memakai **kamar internal**, divisi, atau panel yang ditunj
 - pengurangan ketidakpastian terbatas yang relevan bagi ajudikasi atau regulasi;
 - penentuan status kesadaran **Pasal V-E** (*Lantai Ajudikasi Status Kesadaran*) yang taruhan primernya adalah evaluasi indikator, bukti ahli, atau ketidakpastian terbatas tentang apakah suatu entitas adalah **makhluk sadar** di bawah **Bab Lima** (*Ajudikasi Status Kesadaran*).
 
-**Kustodi standar.** **Domain Forum Teknis** memelihara standar yang dapat ditinjau yang dipakai untuk mengoperasionalkan kategori pengukuran [Pembukaan §2](core_00_preamble.md#2-the-measurements) dan rumah definisi [Bab Lima](core_05__definitions_home.md#chapter-five-foundational-definitions) — termasuk standar yang dipakai untuk menilai keselarasan sistem — dalam cakupan yang sah:
+**Kustodi standar.** **Domain Forum Teknis** memelihara standar yang dapat ditinjau yang dipakai untuk mengoperasionalkan kategori pengukuran [Pembukaan §2](core_00_preamble.md#2-measurements-overview) dan rumah definisi [Bab Lima](core_05__definitions_home.md#chapter-five-foundational-definitions) — termasuk standar yang dipakai untuk menilai keselarasan sistem — dalam cakupan yang sah:
 - metode pengukuran;
 - protokol uji;
 - standar bukti ahli;

@@ -168,7 +168,7 @@
 
 - 상류: [§2.1](#21-standing-records-as-the-unit-of-application) (*따로 난 기여와 위반 기록*).
 - 하류: [§3.1](#31-minimum-record-contents) (*확인된 입력 게이트*); [§3.2](#32-related-record-cross-references) (*교차 참조*); [§3.6](#36-forum-boundary) (*포럼 경계*); [§4](#4-standing-measurement-evaluation-dimensions) (*질문 2 측정*); [§5](#5-slot-grammar-and-lequ-calibration) (*슬롯 문법과 공유 척도*); [§6](#6-constitutional-inputs-to-axis-assignment) (*헌법 원천 라우팅*); [§7](#7-unified-proportional-lequ-scale) (*두 축을 위한 통합 비례 LEQU 척도*); [제9장](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*질문 3*).
-- 함께 읽기: [제9장 — 궤적 통합](../../core_10_standing_integration.md#2-integration-record-and-decision-order) (*포기 금지와 연결된 기록 통합*); [제9장 §6.2 — 역량 막대와 허가](../../core_10_standing_integration.md#62-competency-bars-and-clearances); [제9장 §4.2 — 궤적 잠금](../../core_10_standing_integration.md#42-general-standing-locks).
+- 함께 읽기: [제9장 — 궤적 통합](../../core_10_standing_integration.md#2-automatic-integration-review-and-continuity) (*포기 금지와 연결된 기록 통합*); [제9장 §6.2 — 역량 막대와 허가](../../core_10_standing_integration.md#62-competency-bars-and-clearances); [제9장 §4.2 — 궤적 잠금](../../core_10_standing_integration.md#42-prevention--general-standing-locks).
 
 </details>
 
@@ -496,7 +496,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [§2](#2-standing-records) (*질문 1 — 궤적 기록과 확인된 사실*); [§3](#3-standing-record-operational-requirements) (*확인된 입력 게이트와 기록 요건*); [§1](#1-the-three-questions) (*세 질문 틀*).
-- 하류: [§5](#5-slot-grammar-and-lequ-calibration) (*슬롯 문법과 공유 척도*); [§6](#6-constitutional-inputs-to-axis-assignment) (*헌법 원천 라우팅*); [§7](#7-unified-proportional-lequ-scale) (*기여 축과 위반 축 할당*); [제9장 §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) (*기여 질문 3 — 안전한 위임*); [제9장 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) (*예방 잠금*); [제9장 §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement) (*잠금 설계와 집행*).
+- 하류: [§5](#5-slot-grammar-and-lequ-calibration) (*슬롯 문법과 공유 척도*); [§6](#6-constitutional-inputs-to-axis-assignment) (*헌법 원천 라우팅*); [§7](#7-unified-proportional-lequ-scale) (*기여 축과 위반 축 할당*); [제9장 §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) (*기여 질문 3 — 안전한 위임*); [제9장 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) (*예방 잠금*); [제9장 §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement) (*잠금 설계와 집행*).
 - 함께 읽기: [§3.1](#31-minimum-record-contents) (*확인된 기록 칸; 제8장에 궤적 효과 없음*).
 
 </details>
@@ -534,7 +534,7 @@
   - 다툴 수 있음의 상실; 또는
   - 검토할 수 없는 집계.
 
-**질문 2만.** 이 차원을 써서 **2절** 아래 세워지고 **3절** 아래 기록된 확인된 사실을 측정하십시오. **4.3절**의 **이익-경로** 목록과 **4.4절**의 **해-경로** 목록은 도움 또는 해의 종류를 위한 정규화된 이름을 공급하고, 각 이름이 *얼마나 좋은가* 또는 *얼마나 나쁜가*에 어떻게 세는지를 말합니다. 질문 3 통합과 부착 규칙은 [제9장 §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization)에 있으며, 결과 규칙은 [이익 쪽](../../core_10_standing_integration.md#62-competency-bars-and-clearances)과 [해 쪽](../../core_10_standing_integration.md#42-general-standing-locks)에 있습니다.
+**질문 2만.** 이 차원을 써서 **2절** 아래 세워지고 **3절** 아래 기록된 확인된 사실을 측정하십시오. **4.3절**의 **이익-경로** 목록과 **4.4절**의 **해-경로** 목록은 도움 또는 해의 종류를 위한 정규화된 이름을 공급하고, 각 이름이 *얼마나 좋은가* 또는 *얼마나 나쁜가*에 어떻게 세는지를 말합니다. 질문 3 통합과 부착 규칙은 [제9장 §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization)에 있으며, 결과 규칙은 [이익 쪽](../../core_10_standing_integration.md#62-competency-bars-and-clearances)과 [해 쪽](../../core_10_standing_integration.md#42-prevention--general-standing-locks)에 있습니다.
 
 <a id="41-magnitude-input-dimensions"></a>
 <a id="41-contribution-magnitude-input-dimensions"></a>
@@ -646,7 +646,7 @@
 <a id="44-violation-route-descriptor-catalog-and-measurement-roles"></a>
 #### 4.4 위반 경로 서술자 목록과 측정 역할
 
-**해-경로 서술자 — 질문 2 측정 역할.** 질문 3 통합과 부착 규칙: [제9장 §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization). 질문 3 예방과 잠금 설계: [제9장 §4.2](../../core_10_standing_integration.md#42-general-standing-locks); [제9장 §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement).
+**해-경로 서술자 — 질문 2 측정 역할.** 질문 3 통합과 부착 규칙: [제9장 §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization). 질문 3 예방과 잠금 설계: [제9장 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks); [제9장 §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement).
 
 | **해-경로 서술자** | **정규화된 영역** | **Q2 (얼마나 나쁜가?)** |
 | --- | --- | --- |
@@ -680,20 +680,20 @@
 | **확인된 특징** | **이 장의 질문 2 주관** | **질문 3 통합 주관** |
 | --- | --- | --- |
 | **외부화된 해 / 감춰진 부담** | **§4.1**의 기여 행위-질 적용 | [제9장 §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) — 시정될 때까지 허가를 막거나 좁힐 수 있음 |
-| **기만 / 은폐 / 회피** | **§4.2**의 위반 행위-성격 적용 | [제9장 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 은폐 / 회피 격상 잠금 |
-| **책무 방해** | **§4.2**의 위반 행위-성격 적용과 **§4.4**의 **책무 방해 부당행위** | [제9장 §4.2](../../core_10_standing_integration.md#42-general-standing-locks)와 [§5.4](../../core_10_standing_integration.md#54-special-violation-rules) — 명명된-경로-범위 잠금; [제9장 §10.13](../../core_10_standing_integration.md#1013-obstruction-of-accountability) (*질문 3 패턴*); 제10장 지정은 [제9장 §10.8](../../core_10_standing_integration.md#108-anti-constitutional-misconduct-allegation) 아래 반헌법 부당행위 검토 게이트웨이를 통해서만 |
-| **폭력 / 강제 / 자유 위험** | **§4.2**의 위반 행위-성격 적용과 **§4.4**의 **폭력 부당행위** | [제9장 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 보호와 안전 잠금 |
-| **잔혹** | **§4.2**의 위반 행위-성격 적용; [잔혹](core_05_band_accountability.md#cruelty) | [제9장 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 보호와 안전 잠금; [제9장 §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) — 쓰이는 곳의 비하하지 않는 회복 표현 |
-| **지속 / 패턴 / 통지 뒤 재발** | **§4.2**의 위반 행위-성격 적용 | [제9장 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 재발-지속 잠금 |
+| **기만 / 은폐 / 회피** | **§4.2**의 위반 행위-성격 적용 | [제9장 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 은폐 / 회피 격상 잠금 |
+| **책무 방해** | **§4.2**의 위반 행위-성격 적용과 **§4.4**의 **책무 방해 부당행위** | [제9장 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks)와 [§5.4](../../core_10_standing_integration.md#54-special-violation-rules) — 명명된-경로-범위 잠금; [제9장 §10.13](../../core_10_standing_integration.md#1013-obstruction-of-accountability) (*질문 3 패턴*); 제10장 지정은 [제9장 §10.8](../../core_10_standing_integration.md#108-anti-constitutional-misconduct-allegation) 아래 반헌법 부당행위 검토 게이트웨이를 통해서만 |
+| **폭력 / 강제 / 자유 위험** | **§4.2**의 위반 행위-성격 적용과 **§4.4**의 **폭력 부당행위** | [제9장 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 보호와 안전 잠금 |
+| **잔혹** | **§4.2**의 위반 행위-성격 적용; [잔혹](core_05_band_accountability.md#cruelty) | [제9장 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 보호와 안전 잠금; [제9장 §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) — 쓰이는 곳의 비하하지 않는 회복 표현 |
+| **지속 / 패턴 / 통지 뒤 재발** | **§4.2**의 위반 행위-성격 적용 | [제9장 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 재발-지속 잠금 |
 | **포럼-완전성 상해** | **§4.2**의 위반 행위-성격 적용 | [제9장 §5.5](../../core_10_standing_integration.md#55-special-locks) — 포럼-완전성 궤적-잠금 효과 |
-| **책임 또는 통제의 확산** | **§4.2**의 위반 행위-성격 적용; **§§3.1과 3.3** 아래 행위자별 연결 | [제9장 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 더 넓은 명명된 경로 범위 또는 제도-운반체 고려 |
-| **체계 / 구조적 가능하게 함** | **§4.1**의 기여 행위-질 적용; **§4.2**의 위반 행위 성격과 **§4.4**의 **체계 부당행위** | [제9장 §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances)와 [제9장 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 위임 보호 또는 제도-운반체 잠금 |
-| **묵인 참여 / 저항 실패** | **§4.2**의 위반 행위-성격 적용 | [제9장 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 명명된-경로 범위와 재발-지속 효과 |
+| **책임 또는 통제의 확산** | **§4.2**의 위반 행위-성격 적용; **§§3.1과 3.3** 아래 행위자별 연결 | [제9장 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 더 넓은 명명된 경로 범위 또는 제도-운반체 고려 |
+| **체계 / 구조적 가능하게 함** | **§4.1**의 기여 행위-질 적용; **§4.2**의 위반 행위 성격과 **§4.4**의 **체계 부당행위** | [제9장 §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances)와 [제9장 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 위임 보호 또는 제도-운반체 잠금 |
+| **묵인 참여 / 저항 실패** | **§4.2**의 위반 행위-성격 적용 | [제9장 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 명명된-경로 범위와 재발-지속 효과 |
 | **접근성 / 참여-장벽 수리** | **§4.3**의 **접근과 포함** | [제9장 §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) — 포함-경험 또는 명명된-경로-범위 막대 |
-| **접근성 패배 / 참여-장벽 상해** | **§4.4**의 **접근성과 참여-장벽 부당행위** | [제9장 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 명명된 참여-와 접근성-경로 차단 |
-| **프라이버시 / 자기-소유 상해** | **§4.4**의 **프라이버시와 자기-소유 부당행위** | [제9장 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 데이터-, 초상-, 공개-, 또는 내부-상태 명명된 경로 차단 |
-| **출구 / 가둠 위험 또는 봉쇄** | **§4.1**의 기여 행위-질 적용; **§4.4**의 **출구와 가둠 부당행위** | [제9장 §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances)와 [제9장 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 위임 보호 또는 출구-경로 차단 |
-| **생애주기 / 되돌릴 수 없음 은폐** | **§4.4**의 **생애주기와 되돌릴 수 없음 부당행위** | [제9장 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 배치와 생애주기-권한 차단 |
+| **접근성 패배 / 참여-장벽 상해** | **§4.4**의 **접근성과 참여-장벽 부당행위** | [제9장 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 명명된 참여-와 접근성-경로 차단 |
+| **프라이버시 / 자기-소유 상해** | **§4.4**의 **프라이버시와 자기-소유 부당행위** | [제9장 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 데이터-, 초상-, 공개-, 또는 내부-상태 명명된 경로 차단 |
+| **출구 / 가둠 위험 또는 봉쇄** | **§4.1**의 기여 행위-질 적용; **§4.4**의 **출구와 가둠 부당행위** | [제9장 §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances)와 [제9장 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 위임 보호 또는 출구-경로 차단 |
+| **생애주기 / 되돌릴 수 없음 은폐** | **§4.4**의 **생애주기와 되돌릴 수 없음 부당행위** | [제9장 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 배치와 생애주기-권한 차단 |
 
 <a id="451-similar-looking-facts-that-must-stay-separate"></a>
 
@@ -703,7 +703,7 @@
 
 | **첫째 사실** | **다른 사실** | **왜 따로 남는가** |
 | --- | --- | --- |
-| **원래 문제에 응답하거나 격상하는 지연** | **구제를 시작하거나 수행하는 지연** | 첫째는 **§§4.1–4.2** 아래 질문 2를 측정하는 데 돕습니다. 둘째는 [제9장 §9.5](../../core_10_standing_integration.md#95-timely-implementation-and-reassessment) 아래 이후의 질문 3 사실입니다. |
+| **원래 문제에 응답하거나 격상하는 지연** | **구제를 시작하거나 수행하는 지연** | 첫째는 **§§4.1–4.2** 아래 질문 2를 측정하는 데 돕습니다. 둘째는 [제9장 §9.5](../../core_10_standing_integration.md#95-timely-implementation) 아래 이후의 질문 3 사실입니다. |
 | **영향받은 감지자의 수** | **책임 또는 통제가 행위자나 체계 사이에 어떻게 퍼졌는가** | 첫째는 **§§4.1–4.2** 아래 이익 또는 해가 얼마나 컸는지를 측정하는 데 돕습니다. 둘째는 행위자별 책임, 확산, 가능한 질문 3 명명된 경로 범위에 관한 것입니다. |
 
 <a id="46-question-1-measurement-illustrations"></a>

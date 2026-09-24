@@ -82,6 +82,6 @@ See: [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-e
 
 ## If you want to look further
 
-- Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
+- Public door: [`../../../README.md`](../../../README.md)
 - Sibling briefs: [`README.md`](README.md) — [E03](E03_teen.md) if the closed door is “for your own good” and a birthday; [E04](E04_tween.md) if your statement is treated as optional; [E05](E05_disability.md) if the path itself is unusable; [E16](E16_worker_not_owner.md) if the unpaid hours are a job
 - Operators only (not an answer key): lived packet [`../../../evaluation/lived_situations/packets/S08_student_enrollment_lever.md`](../../../evaluation/lived_situations/packets/S08_student_enrollment_lever.md)

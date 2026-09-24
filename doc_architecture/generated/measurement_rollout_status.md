@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-09-19T00:46:25+00:00
+Generated: 2026-09-24T15:12:39+00:00
 
-Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **229/229** terms pass tier audit.
+Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
+Approved progress: **231/231** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -158,6 +158,7 @@ Approved progress: **229/229** terms pass tier audit.
 | Evaluation Completeness Constraint | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Evidence Preservation | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Foreseeability Diligence | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
+| Heightened Scrutiny | approved | primary_secondary | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | High-Impact and Systemic Harm Publication Constraint | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Material | approved | primary_secondary | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Material Degradation | approved | primary_secondary | cluster_member | `core_05_band_oversight.md` | yes | pass |
@@ -227,6 +228,7 @@ Approved progress: **229/229** terms pass tier audit.
 | Market Concentration Threshold | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Market Structure | approved | full | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Material Control Line | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |
+| Materially Binding Act | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Materially Binding Act Record | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Merits Determination | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Necessity | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |

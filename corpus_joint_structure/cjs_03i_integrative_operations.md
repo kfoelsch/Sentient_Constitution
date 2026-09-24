@@ -51,7 +51,7 @@ This family holds clusters that require simultaneous satisfaction across Tetrad 
 - Read with: **Article XV** (*Audit, Transparency, and Independent Verification*) — secrecy remains auditable and challengeable
 - Constitutional frame: **Integrative** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Cross-leg note: **Oversight** and **Accountability** — secrecy limits must remain auditable and challengeable.
-- Chapter One basis: §8.2, §11.2, §11.4, §12.1, §8, §9 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §8.2, §11.2, §11.4, §12.1, §8, §9 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -198,7 +198,7 @@ No permanent secrecy and anti-normalization discipline
 - Constitutional frame: **Integrative** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Cross-leg note: **Accountability** and **Continuity** — technical complement to **CJS-3.14** governance authorization.
 - Continuity disambiguation: Distinguish technical intervention integrity from constitutional **Continuity** aim language.
-- Chapter One basis: §8.1, §11.1, §11.4, §12.1, §9 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §8.1, §11.1, §11.4, §12.1, §9 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>

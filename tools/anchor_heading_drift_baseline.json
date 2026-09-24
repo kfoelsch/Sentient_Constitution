@@ -1,0 +1,5 @@
+{
+  "rule": "ANCHOR-HEADING-DRIFT-01",
+  "note": "Pre-existing anchor/heading drift. Shrink this list; do not grow it. Regenerate with --write-baseline only when removing entries.",
+  "known_drift": []
+}

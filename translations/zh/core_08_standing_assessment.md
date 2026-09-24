@@ -168,7 +168,7 @@
 
 - 上游：[§2.1](#21-standing-records-as-the-unit-of-application)（*分开的贡献记录与违规记录*）。
 - 下游：[§3.1](#31-minimum-record-contents)（*经核实输入门*）；[§3.2](#32-related-record-cross-references)（*交叉引用*）；[§3.6](#36-forum-boundary)（*评议所边界*）；[§4](#4-standing-measurement-evaluation-dimensions)（*问题 2 测量*）；[§5](#5-slot-grammar-and-lequ-calibration)（*槽位语法与共享标尺*）；[§6](#6-constitutional-inputs-to-axis-assignment)（*宪法来源路由*）；[§7](#7-unified-proportional-lequ-scale)（*两轴统一比例 LEQU 标尺*）；[第九章](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)（*问题 3*）。
-- 一并阅读：[第九章 — 轨迹整合](../../core_10_standing_integration.md#2-integration-record-and-decision-order)（*不豁免与关联记录整合*）；[第九章 §6.2 — 能力门槛与许可](../../core_10_standing_integration.md#62-competency-bars-and-clearances)；[第九章 §4.2 — 轨迹锁定](../../core_10_standing_integration.md#42-general-standing-locks)。
+- 一并阅读：[第九章 — 轨迹整合](../../core_10_standing_integration.md#2-automatic-integration-review-and-continuity)（*不豁免与关联记录整合*）；[第九章 §6.2 — 能力门槛与许可](../../core_10_standing_integration.md#62-competency-bars-and-clearances)；[第九章 §4.2 — 轨迹锁定](../../core_10_standing_integration.md#42-prevention--general-standing-locks)。
 
 </details>
 
@@ -496,7 +496,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[§2](#2-standing-records)（*问题 1 — 轨迹记录与经核实事实*）；[§3](#3-standing-record-operational-requirements)（*经核实输入门与记录要求*）；[§1](#1-the-three-questions)（*三问框架*）。
-- 下游：[§5](#5-slot-grammar-and-lequ-calibration)（*槽位语法与共享标尺*）；[§6](#6-constitutional-inputs-to-axis-assignment)（*宪法来源路由*）；[§7](#7-unified-proportional-lequ-scale)（*贡献轴与违规轴指派*）；[第九章 §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances)（*贡献问题 3 — 安全委托*）；[第九章 §4.2](../../core_10_standing_integration.md#42-general-standing-locks)（*预防锁定*）；[第九章 §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement)（*锁定设计与执行*）。
+- 下游：[§5](#5-slot-grammar-and-lequ-calibration)（*槽位语法与共享标尺*）；[§6](#6-constitutional-inputs-to-axis-assignment)（*宪法来源路由*）；[§7](#7-unified-proportional-lequ-scale)（*贡献轴与违规轴指派*）；[第九章 §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances)（*贡献问题 3 — 安全委托*）；[第九章 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks)（*预防锁定*）；[第九章 §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement)（*锁定设计与执行*）。
 - 一并阅读：[§3.1](#31-minimum-record-contents)（*经核实记录字段；第八章无轨迹效果*）。
 
 </details>
@@ -534,7 +534,7 @@
   - 可质疑性丧失；或
   - 不可审查的聚合。
 
-**仅问题 2。** 用这些维度测量按**第 2 节**确立、按**第 3 节**记录的经核实事实。**第 4.3 节**的**受益路径**目录与**第 4.4 节**的**伤害路径**目录供给帮助或伤害种类的归一化名称，并陈述每一名称如何计入*有多好*或*有多坏*。问题 3 整合与附着规则见[第九章 §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization)，后果规则在[受益侧](../../core_10_standing_integration.md#62-competency-bars-and-clearances)与[伤害侧](../../core_10_standing_integration.md#42-general-standing-locks)。
+**仅问题 2。** 用这些维度测量按**第 2 节**确立、按**第 3 节**记录的经核实事实。**第 4.3 节**的**受益路径**目录与**第 4.4 节**的**伤害路径**目录供给帮助或伤害种类的归一化名称，并陈述每一名称如何计入*有多好*或*有多坏*。问题 3 整合与附着规则见[第九章 §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization)，后果规则在[受益侧](../../core_10_standing_integration.md#62-competency-bars-and-clearances)与[伤害侧](../../core_10_standing_integration.md#42-prevention--general-standing-locks)。
 
 <a id="41-magnitude-input-dimensions"></a>
 <a id="41-contribution-magnitude-input-dimensions"></a>
@@ -646,7 +646,7 @@
 <a id="44-violation-route-descriptor-catalog-and-measurement-roles"></a>
 #### 4.4 违规路径描述符目录与测量角色
 
-**伤害路径描述符 — 问题 2 测量角色。** 问题 3 整合与附着规则：[第九章 §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization)。问题 3 预防与锁定设计：[第九章 §4.2](../../core_10_standing_integration.md#42-general-standing-locks)；[第九章 §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement)。
+**伤害路径描述符 — 问题 2 测量角色。** 问题 3 整合与附着规则：[第九章 §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization)。问题 3 预防与锁定设计：[第九章 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks)；[第九章 §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement)。
 
 | **伤害路径描述符** | **归一化领域** | **Q2（有多坏？）** |
 | --- | --- | --- |
@@ -680,20 +680,20 @@
 | **经核实特征** | **本章中的问题 2 主责** | **问题 3 整合主责** |
 | --- | --- | --- |
 | **外部化伤害 / 隐蔽负担** | **§4.1** 中的贡献行为质量适用 | [第九章 §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) — 可以在补救之前阻断或收窄许可 |
-| **欺骗 / 隐瞒 / 规避** | **§4.2** 中的违规行为品格适用 | [第九章 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 隐瞒 / 规避升级锁定 |
-| **阻碍问责** | **§4.2** 中的违规行为品格适用与 **§4.4** 中的**阻碍问责不当行为** | [第九章 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) 与 [§5.4](../../core_10_standing_integration.md#54-special-violation-rules) — 具名路径范围锁定；[第九章 §10.13](../../core_10_standing_integration.md#1013-obstruction-of-accountability)（*问题 3 模式*）；第十章指定仅通过[第九章 §10.8](../../core_10_standing_integration.md#108-anti-constitutional-misconduct-allegation) 下的反宪法不当行为审查门户 |
-| **暴力 / 强制 / 自由危险** | **§4.2** 中的违规行为品格适用与 **§4.4** 中的**暴力不当行为** | [第九章 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 保护与保障锁定 |
-| **残忍** | **§4.2** 中的违规行为品格适用；[残忍](core_05_band_accountability.md#cruelty) | [第九章 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 保护与保障锁定；[第九章 §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) — 使用时的非贬损恢复性表达 |
-| **持续 / 模式 / 通知后复发** | **§4.2** 中的违规行为品格适用 | [第九章 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 复发持续锁定 |
+| **欺骗 / 隐瞒 / 规避** | **§4.2** 中的违规行为品格适用 | [第九章 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 隐瞒 / 规避升级锁定 |
+| **阻碍问责** | **§4.2** 中的违规行为品格适用与 **§4.4** 中的**阻碍问责不当行为** | [第九章 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) 与 [§5.4](../../core_10_standing_integration.md#54-special-violation-rules) — 具名路径范围锁定；[第九章 §10.13](../../core_10_standing_integration.md#1013-obstruction-of-accountability)（*问题 3 模式*）；第十章指定仅通过[第九章 §10.8](../../core_10_standing_integration.md#108-anti-constitutional-misconduct-allegation) 下的反宪法不当行为审查门户 |
+| **暴力 / 强制 / 自由危险** | **§4.2** 中的违规行为品格适用与 **§4.4** 中的**暴力不当行为** | [第九章 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 保护与保障锁定 |
+| **残忍** | **§4.2** 中的违规行为品格适用；[残忍](core_05_band_accountability.md#cruelty) | [第九章 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 保护与保障锁定；[第九章 §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) — 使用时的非贬损恢复性表达 |
+| **持续 / 模式 / 通知后复发** | **§4.2** 中的违规行为品格适用 | [第九章 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 复发持续锁定 |
 | **评议所完整性伤害** | **§4.2** 中的违规行为品格适用 | [第九章 §5.5](../../core_10_standing_integration.md#55-special-locks) — 评议所完整性轨迹锁定效果 |
-| **责任或控制扩散** | **§4.2** 中的违规行为品格适用；**§§3.1 与 3.3** 下的行动者专属连接 | [第九章 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 更宽的具名路径范围或机构载体考量 |
-| **系统 / 结构性促成** | **§4.1** 中的贡献行为质量适用；**§4.2** 中的违规行为品格与 **§4.4** 中的**系统不当行为** | [第九章 §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) 与 [第九章 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 委托保障或机构载体锁定 |
-| **默许参与 / 未能抵抗** | **§4.2** 中的违规行为品格适用 | [第九章 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 具名路径范围与复发持续效果 |
+| **责任或控制扩散** | **§4.2** 中的违规行为品格适用；**§§3.1 与 3.3** 下的行动者专属连接 | [第九章 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 更宽的具名路径范围或机构载体考量 |
+| **系统 / 结构性促成** | **§4.1** 中的贡献行为质量适用；**§4.2** 中的违规行为品格与 **§4.4** 中的**系统不当行为** | [第九章 §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) 与 [第九章 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 委托保障或机构载体锁定 |
+| **默许参与 / 未能抵抗** | **§4.2** 中的违规行为品格适用 | [第九章 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 具名路径范围与复发持续效果 |
 | **可及性 / 参与障碍修复** | **§4.3** 中的**通路与包容** | [第九章 §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) — 包容经验或具名路径范围门槛 |
-| **可及性击败 / 参与障碍伤害** | **§4.4** 中的**可及性与参与障碍不当行为** | [第九章 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 具名参与与可及性路径阻断 |
-| **隐私 / 自我所有伤害** | **§4.4** 中的**隐私与自我所有不当行为** | [第九章 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 数据、肖像、公布或内部状态具名路径阻断 |
-| **退出 / 锁定风险或封死** | **§4.1** 中的贡献行为质量适用；**§4.4** 中的**退出与锁定不当行为** | [第九章 §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) 与 [第九章 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 委托保障或退出路径阻断 |
-| **生命周期 / 不可逆隐瞒** | **§4.4** 中的**生命周期与不可逆不当行为** | [第九章 §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — 部署与生命周期权威阻断 |
+| **可及性击败 / 参与障碍伤害** | **§4.4** 中的**可及性与参与障碍不当行为** | [第九章 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 具名参与与可及性路径阻断 |
+| **隐私 / 自我所有伤害** | **§4.4** 中的**隐私与自我所有不当行为** | [第九章 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 数据、肖像、公布或内部状态具名路径阻断 |
+| **退出 / 锁定风险或封死** | **§4.1** 中的贡献行为质量适用；**§4.4** 中的**退出与锁定不当行为** | [第九章 §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) 与 [第九章 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 委托保障或退出路径阻断 |
+| **生命周期 / 不可逆隐瞒** | **§4.4** 中的**生命周期与不可逆不当行为** | [第九章 §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — 部署与生命周期权威阻断 |
 
 <a id="451-similar-looking-facts-that-must-stay-separate"></a>
 
@@ -703,7 +703,7 @@
 
 | **第一项事实** | **不同的事实** | **它们为何保持分开** |
 | --- | --- | --- |
-| **回应或升级原问题的延迟** | **开始或实施救济的延迟** | 第一项在 **§§4.1–4.2** 下帮助测量问题 2。第二项是[第九章 §9.5](../../core_10_standing_integration.md#95-timely-implementation-and-reassessment) 下日后的问题 3 事实。 |
+| **回应或升级原问题的延迟** | **开始或实施救济的延迟** | 第一项在 **§§4.1–4.2** 下帮助测量问题 2。第二项是[第九章 §9.5](../../core_10_standing_integration.md#95-timely-implementation) 下日后的问题 3 事实。 |
 | **受影响感知者的数量** | **责任或控制如何在行动者或系统间散布** | 第一项在 **§§4.1–4.2** 下帮助测量受益或伤害有多大。第二项关涉行动者专属责任、扩散，以及可能的问题 3 具名路径范围。 |
 
 <a id="46-question-1-measurement-illustrations"></a>

@@ -3,10 +3,22 @@ READABILITY_MAX_GRADE ?= 14.0
 OBLIGATION_SNAPSHOT ?= evidence/obligation_snapshot.json
 AI_ALIGNMENT_EVAL_RUNS ?= implementation/ai_alignment_eval/fixtures/sample_runs.json
 
-.PHONY: family-map-indexes family-map-audit adopted-implementation-cite-audit adopted-implementation-anatomy-audit adopted-implementation-filename-audit adopted-implementation-filename-audit-test file-top-placement-audit-adopted-implementation obligation-snapshot obligation-diff reference-audit primitive-retirement-audit section-abbreviation-descriptor-audit scenario-audit prose-continuity-audit corpus-markdown-audit corpus-markdown-audit-test local-markdown-fragment-audit local-markdown-fragment-audit-test footer-audit nav-widget-spacer-audit trace-dac-widget-order-audit widget-top-placement-audit file-top-placement-audit trace-routing-prose-audit in-paragraph-link-audit in-paragraph-link-audit-report ch5-definitions-gravity-audit ch5-o-scope-audit ch5-depends-on-audit ch5-measurement-stub-audit ch5-trace-crosslink-audit ch5-entry-format-audit ch5-omac-format-audit ch0-nested-list-candidates ch1-nested-list-candidates ch2-nested-list-candidates ch3-nested-list-candidates ch4-nested-list-candidates ch5-nested-list-candidates ch5-nested-list-candidates-test ch6-nested-list-candidates ch7-nested-list-candidates ch8-nested-list-candidates ch9-nested-list-candidates ch10-nested-list-candidates ch11-nested-list-candidates ch12-nested-list-candidates ch13-nested-list-candidates ch14-nested-list-candidates ch15-nested-list-candidates ch16-nested-list-candidates ch17-nested-list-candidates nested-list-candidates ch5-alphabetical-directory-audit ch5-single-definition-audit ch5-dac-widget-audit ch5-cross-file-link-audit ch5-cluster-order-audit ch1-dac-order-audit ch9-trace-audit subarticle-gloss-audit lexical-vocabulary-audit lexical-vocabulary-audit-evidence easy-entry-jargon-audit easy-entry-jargon-audit-test ci-cjs-relocation-audit ci-cjs-relocation-audit-evidence router-bidirectional-audit router-bidirectional-sync plain-language-audit plain-language-audit-evidence cjs-operational-cluster-audit cjs3-cluster-term-order-audit ch1-cjs3-alignment-audit ch1-ch6-alignment-audit ch1-ch5-alignment-audit measurement-anchor-audit ch5-measurement-tier-audit ch5-measurement-coverage-audit measurement-rollout-status disclaimer-inventory owner-discipline-audit ch4-ch8-pointer-audit definition-appropriateness-audit definition-appropriateness-audit-evidence architecture-inventory architecture-index plain-terms-edition plain-terms-edition-check reader-accessibility reader-accessibility-check boundary-chunks boundary-chunks-check parallel-norm-check-test print-pack print-pack-check pages-corpus-index pages-corpus-index-check pages-site pages-site-check pages-site-test doc-architecture-section-audit support-doc-pointer-audit steward-door-lockstep-audit steward-door-lockstep-audit-test materially-binding-act-record-validate materially-binding-act-record-validate-test cs4-inspectable-action-log-validate cs4-inspectable-action-log-validate-test sentience-status-adjudication-record-validate sentience-status-adjudication-record-validate-test section-label-anchor-audit section-label-anchor-audit-test section-cite-name-audit section-cite-name-audit-test heading-echo-topic-audit heading-echo-topic-audit-test fossil-anchor-audit fossil-anchor-audit-test regression regression-full regression-ch8-stack-ab reference-audit-evidence prose-continuity-audit-evidence readability-audit readability-audit-with-gloss readability-audit-evidence readability-top-candidates readability-top-candidates-evidence best-practices-check best-practices-check-evidence todo-close-check scoring-v1 alignment-audit ai-alignment-eval ai-alignment-eval-evidence ai-manifest-generate ai-manifest-validate ai-manifest-regenerate ai-corpus-sync ai-corpus-help id-resolver-test corpus-lookup-test
+.PHONY: family-map-indexes family-map-audit adopted-implementation-cite-audit adopted-implementation-anatomy-audit adopted-implementation-filename-audit adopted-implementation-filename-audit-test file-top-placement-audit-adopted-implementation obligation-snapshot obligation-diff reference-audit reference-audit-test anchor-heading-drift-audit anchor-heading-drift-backlog anchor-heading-drift-audit-test primitive-retirement-audit section-abbreviation-descriptor-audit scenario-audit prose-continuity-audit corpus-markdown-audit corpus-markdown-audit-test local-markdown-fragment-audit local-markdown-fragment-audit-test external-link-audit external-link-audit-report external-link-audit-test footer-audit nav-widget-spacer-audit trace-dac-widget-order-audit widget-top-placement-audit file-top-placement-audit trace-routing-prose-audit in-paragraph-link-audit in-paragraph-link-audit-report ch5-definitions-gravity-audit ch5-o-scope-audit ch5-depends-on-audit ch5-measurement-stub-audit ch5-trace-crosslink-audit ch5-entry-format-audit ch5-omac-format-audit ch0-nested-list-candidates ch1-nested-list-candidates ch2-nested-list-candidates ch3-nested-list-candidates ch4-nested-list-candidates ch5-nested-list-candidates ch5-nested-list-candidates-test ch6-nested-list-candidates ch7-nested-list-candidates ch8-nested-list-candidates ch9-nested-list-candidates ch10-nested-list-candidates ch11-nested-list-candidates ch12-nested-list-candidates ch13-nested-list-candidates ch14-nested-list-candidates ch15-nested-list-candidates ch16-nested-list-candidates ch17-nested-list-candidates nested-list-candidates ch5-alphabetical-directory-audit ch5-single-definition-audit ch5-dac-widget-audit ch5-cross-file-link-audit ch5-cluster-order-audit ch1-dac-order-audit ch9-trace-audit subarticle-gloss-audit lexical-vocabulary-audit lexical-vocabulary-audit-evidence easy-entry-jargon-audit easy-entry-jargon-audit-test ci-cjs-relocation-audit ci-cjs-relocation-audit-evidence router-bidirectional-audit router-bidirectional-sync plain-language-audit plain-language-audit-evidence cjs-operational-cluster-audit cjs3-cluster-term-order-audit ch1-cjs3-alignment-audit ch1-ch6-alignment-audit ch1-ch5-alignment-audit measurement-anchor-audit ch5-measurement-tier-audit ch5-measurement-coverage-audit measurement-rollout-status disclaimer-inventory owner-discipline-audit ch4-ch8-pointer-audit definition-appropriateness-audit definition-appropriateness-audit-evidence architecture-inventory architecture-index plain-terms-edition plain-terms-edition-check reader-accessibility reader-accessibility-check boundary-chunks boundary-chunks-check parallel-norm-check-test print-pack print-pack-check pages-corpus-index pages-corpus-index-check pages-site pages-site-check pages-site-test pages-deploy-gate doc-architecture-section-audit support-doc-pointer-audit steward-door-lockstep-audit steward-door-lockstep-audit-test materially-binding-act-record-validate materially-binding-act-record-validate-test cs4-inspectable-action-log-validate cs4-inspectable-action-log-validate-test sentience-status-adjudication-record-validate sentience-status-adjudication-record-validate-test section-label-anchor-audit section-label-anchor-audit-test section-cite-name-audit section-cite-name-audit-test heading-echo-topic-audit heading-echo-topic-audit-test heading-runin-echo-audit heading-runin-echo-audit-test fossil-anchor-audit fossil-anchor-audit-test regression regression-full regression-ch8-stack-ab reference-audit-evidence prose-continuity-audit-evidence readability-audit readability-audit-with-gloss readability-audit-evidence readability-top-candidates readability-top-candidates-evidence best-practices-check best-practices-check-evidence todo-close-check scoring-v1 alignment-audit ai-alignment-eval ai-alignment-eval-evidence ai-manifest-generate ai-manifest-validate ai-manifest-regenerate ai-corpus-sync ai-corpus-help id-resolver-test corpus-lookup-test
 
 reference-audit:
 	$(PYTHON) tools/reference_audit.py --root .
+
+reference-audit-test:
+	$(PYTHON) tools/test_reference_audit.py
+
+anchor-heading-drift-audit:
+	$(PYTHON) tools/anchor_heading_drift_audit.py --root .
+
+anchor-heading-drift-backlog:
+	$(PYTHON) tools/anchor_heading_drift_audit.py --root . --all
+
+anchor-heading-drift-audit-test:
+	$(PYTHON) tools/test_anchor_heading_drift_audit.py
 
 measurement-anchor-audit:
 	$(PYTHON) tools/measurement_anchor_audit.py --root .
@@ -46,6 +58,15 @@ local-markdown-fragment-audit:
 
 local-markdown-fragment-audit-test:
 	$(PYTHON) tools/test_local_markdown_fragment_audit.py
+
+external-link-audit:
+	$(PYTHON) tools/external_link_audit.py --root .
+
+external-link-audit-report:
+	$(PYTHON) tools/external_link_audit.py --root . --report
+
+external-link-audit-test:
+	$(PYTHON) tools/test_external_link_audit.py
 
 footer-audit:
 	$(PYTHON) tools/footer_audit.py --root .
@@ -311,6 +332,23 @@ pages-site-check:
 pages-site-test:
 	$(PYTHON) tools/test_generate_pages_site.py
 
+# Run by .github/workflows/pages.yml before every deploy. Guards what the site
+# publishes: cites resolve, fragments land, no off-corpus links, Markdown is
+# well-formed, and the assembled site is byte-identical to its sources.
+# The full `make regression` runs separately in .github/workflows/checks.yml.
+pages-deploy-gate:
+	@status=0; \
+	for target in \
+		reference-audit \
+		local-markdown-fragment-audit \
+		external-link-audit \
+		corpus-markdown-audit \
+		pages-site-check \
+		pages-site-test; do \
+		$(MAKE) $$target || status=$$?; \
+	done; \
+	exit $$status
+
 parallel-norm-check-test:
 	$(PYTHON) tools/test_parallel_norm_check.py
 
@@ -362,6 +400,12 @@ heading-echo-topic-audit:
 heading-echo-topic-audit-test:
 	$(PYTHON) tools/test_heading_echo_topic_audit.py
 
+heading-runin-echo-audit:
+	$(PYTHON) tools/heading_runin_echo_audit.py --root .
+
+heading-runin-echo-audit-test:
+	$(PYTHON) tools/test_heading_runin_echo_audit.py
+
 fossil-anchor-audit:
 	$(PYTHON) tools/fossil_anchor_audit.py --root .
 
@@ -391,8 +435,13 @@ regression:
 		section-cite-name-audit-test \
 		heading-echo-topic-audit \
 		heading-echo-topic-audit-test \
+		heading-runin-echo-audit \
+		heading-runin-echo-audit-test \
 		fossil-anchor-audit \
 		fossil-anchor-audit-test \
+		reference-audit-test \
+		anchor-heading-drift-audit \
+		anchor-heading-drift-audit-test \
 		primitive-retirement-audit \
 		section-abbreviation-descriptor-audit \
 		scenario-audit \
@@ -400,6 +449,8 @@ regression:
 		corpus-markdown-audit-test \
 		local-markdown-fragment-audit \
 		local-markdown-fragment-audit-test \
+		external-link-audit \
+		external-link-audit-test \
 		footer-audit \
 		nav-widget-spacer-audit \
 		trace-dac-widget-order-audit \
@@ -488,7 +539,7 @@ best-practices-check-evidence:
 
 todo-close-check: reference-audit-evidence
 
-# SCORING-v1 (see CONSTITUTIONAL_REGRESSION_SCENARIOS.md section 10).
+# SCORING-v1 (see project/CONSTITUTIONAL_REGRESSION_SCENARIOS.md section 10).
 # Example:
 #   make scoring-v1 ARGS='--rights 8.8 --contestability 8.2 --enforcement 8.1 --boundary 8.7 --epistemic 8.5 --continuity 8.0 --markdown'
 scoring-v1:
@@ -550,7 +601,8 @@ ai-corpus-help:
 	@echo "  make boundary-chunks         - Safe split spans for retrieve (token overlap; embeddings postponed)"
 	@echo "  make print-pack              - One-file print pack (Preamble, wall sheet, process chain, sample brief)"
 	@echo "  make pages-corpus-index      - GitHub Pages index of core_* blob links"
-	@echo "  make pages-site              - Assemble a Pages render of core_* (gitignored _pages_site/)"
+	@echo "  make pages-site              - Local preview only: assemble the Pages render (gitignored _pages_site/); CI rebuilds it on deploy"
+	@echo "  make pages-deploy-gate       - Checks the Pages workflow runs before every deploy"
 	@echo ""
 	@echo "Maintenance Rules:"
 	@echo "  1. Edit source files in root directory only"

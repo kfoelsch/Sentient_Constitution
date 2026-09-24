@@ -196,7 +196,7 @@ Lorsque l’incertitude empêche une démonstration définitive de la conformit�
 
 - En amont : [Chapitre deux — Structure des définitions et exigences des composantes](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements) ; [Chapitre trois — Intégrité de la définition, évasion et non-conformité](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance) ; [Chapitre quatre, sections 1 à 5](#1-exclusive-enforcement-and-burden-allocation).
 - En aval : [Chapitre sept — Certification d’alignement du système](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) ; [Chapitre huit — Modèle de contribution, d’infraction et de trajectoire](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
-- Lire avec : [Chapitre sept §16 — Réouverture, désalignement et non-évasion](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — la non-conformité vérifiée sous les Chapitres deux à quatre peut rouvrir ou faire échec à la certification indépendamment d’une reconnaissance antérieure.
+- Lire avec : [Chapitre sept §16 — Réouverture, désalignement et non-évasion](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) — la non-conformité vérifiée sous les Chapitres deux à quatre peut rouvrir ou faire échec à la certification indépendamment d’une reconnaissance antérieure.
 
 </details>
 

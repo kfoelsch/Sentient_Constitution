@@ -168,7 +168,7 @@ Mọi hiệu ứng quỹ đạo sau thuộc Chương Chín và phải truy đư�
 
 - Thượng nguồn: [§2.1](#21-standing-records-as-the-unit-of-application) (*hồ sơ đóng góp và vi phạm riêng*).
 - Hạ nguồn: [§3.1](#31-minimum-record-contents) (*cổng đầu vào đã xác minh*); [§3.2](#32-related-record-cross-references) (*tham chiếu chéo*); [§3.6](#36-forum-boundary) (*ranh giới diễn đàn*); [§4](#4-standing-measurement-evaluation-dimensions) (*đo lường Câu hỏi 2*); [§5](#5-slot-grammar-and-lequ-calibration) (*ngữ pháp ô và chia tỷ lệ chung*); [§6](#6-constitutional-inputs-to-axis-assignment) (*định tuyến nguồn hiến pháp*); [§7](#7-unified-proportional-lequ-scale) (*thang LEQU tỷ lệ thống nhất cho cả hai trục*); [Chương Chín](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) (*Câu hỏi 3*).
-- Đọc cùng: [Chương Chín — Tích hợp quỹ đạo](../../core_10_standing_integration.md#2-integration-record-and-decision-order) (*không-miễn và tích hợp hồ sơ liên kết*); [Chương Chín §6.2 — Thanh năng lực và giấy phép](../../core_10_standing_integration.md#62-competency-bars-and-clearances); [Chương Chín §4.2 — Khóa quỹ đạo](../../core_10_standing_integration.md#42-general-standing-locks).
+- Đọc cùng: [Chương Chín — Tích hợp quỹ đạo](../../core_10_standing_integration.md#2-automatic-integration-review-and-continuity) (*không-miễn và tích hợp hồ sơ liên kết*); [Chương Chín §6.2 — Thanh năng lực và giấy phép](../../core_10_standing_integration.md#62-competency-bars-and-clearances); [Chương Chín §4.2 — Khóa quỹ đạo](../../core_10_standing_integration.md#42-prevention--general-standing-locks).
 
 </details>
 
@@ -496,7 +496,7 @@ Tuyên người ghi nặng đến mức nào là câu hỏi Chương Hai đến 
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: [§2](#2-standing-records) (*Câu hỏi 1 — hồ sơ quỹ đạo và sự kiện đã xác minh*); [§3](#3-standing-record-operational-requirements) (*cổng đầu vào đã xác minh và yêu cầu hồ sơ*); [§1](#1-the-three-questions) (*khung ba câu hỏi*).
-- Hạ nguồn: [§5](#5-slot-grammar-and-lequ-calibration) (*ngữ pháp ô và chia tỷ lệ chung*); [§6](#6-constitutional-inputs-to-axis-assignment) (*định tuyến nguồn hiến pháp*); [§7](#7-unified-proportional-lequ-scale) (*gán Trục Đóng góp và Trục Vi phạm*); [Chương Chín §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) (*Câu hỏi 3 đóng góp — ủy thác an toàn*); [Chương Chín §4.2](../../core_10_standing_integration.md#42-general-standing-locks) (*khóa ngăn*); [Chương Chín §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement) (*thiết kế và cưỡng khóa*).
+- Hạ nguồn: [§5](#5-slot-grammar-and-lequ-calibration) (*ngữ pháp ô và chia tỷ lệ chung*); [§6](#6-constitutional-inputs-to-axis-assignment) (*định tuyến nguồn hiến pháp*); [§7](#7-unified-proportional-lequ-scale) (*gán Trục Đóng góp và Trục Vi phạm*); [Chương Chín §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) (*Câu hỏi 3 đóng góp — ủy thác an toàn*); [Chương Chín §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) (*khóa ngăn*); [Chương Chín §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement) (*thiết kế và cưỡng khóa*).
 - Đọc cùng: [§3.1](#31-minimum-record-contents) (*trường hồ sơ đã xác minh; không hiệu ứng quỹ đạo trong Chương Tám*).
 
 </details>
@@ -534,7 +534,7 @@ Một **lợi hiến pháp tương đương cả đời** nghĩa là lợi đã 
   - mất khả năng tranh biện; hoặc
   - gộp không rà soát được.
 
-**Chỉ Câu hỏi 2.** Dùng những chiều này để đo sự kiện đã xác minh lập dưới **mục 2** và ghi dưới **mục 3**. Mục lục **đường-lợi** ở **mục 4.3** và mục lục **đường-hại** ở **mục 4.4** cung cấp tên chuẩn hóa cho loại giúp hoặc hại và nêu mỗi tên đếm thế nào vào *tốt đến mức nào* hoặc *xấu đến mức nào*. Quy tắc tích hợp và gắn Câu hỏi 3 nằm ở [Chương Chín §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization), với quy tắc hệ quả ở [phía lợi](../../core_10_standing_integration.md#62-competency-bars-and-clearances) và [phía hại](../../core_10_standing_integration.md#42-general-standing-locks).
+**Chỉ Câu hỏi 2.** Dùng những chiều này để đo sự kiện đã xác minh lập dưới **mục 2** và ghi dưới **mục 3**. Mục lục **đường-lợi** ở **mục 4.3** và mục lục **đường-hại** ở **mục 4.4** cung cấp tên chuẩn hóa cho loại giúp hoặc hại và nêu mỗi tên đếm thế nào vào *tốt đến mức nào* hoặc *xấu đến mức nào*. Quy tắc tích hợp và gắn Câu hỏi 3 nằm ở [Chương Chín §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization), với quy tắc hệ quả ở [phía lợi](../../core_10_standing_integration.md#62-competency-bars-and-clearances) và [phía hại](../../core_10_standing_integration.md#42-prevention--general-standing-locks).
 
 <a id="41-magnitude-input-dimensions"></a>
 <a id="41-contribution-magnitude-input-dimensions"></a>
@@ -646,7 +646,7 @@ Một **lợi hiến pháp tương đương cả đời** nghĩa là lợi đã 
 <a id="44-violation-route-descriptor-catalog-and-measurement-roles"></a>
 #### 4.4 Mục lục mô tả đường vi phạm và vai trò đo lường
 
-**Mô tả đường-hại — vai trò đo lường Câu hỏi 2.** Quy tắc tích hợp và gắn Câu hỏi 3: [Chương Chín §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization). Thiết kế ngăn và khóa Câu hỏi 3: [Chương Chín §4.2](../../core_10_standing_integration.md#42-general-standing-locks); [Chương Chín §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement).
+**Mô tả đường-hại — vai trò đo lường Câu hỏi 2.** Quy tắc tích hợp và gắn Câu hỏi 3: [Chương Chín §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization). Thiết kế ngăn và khóa Câu hỏi 3: [Chương Chín §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks); [Chương Chín §5](../../core_10_standing_integration.md#5-lock-design-and-enforcement).
 
 | **Mô tả đường-hại** | **Miền chuẩn hóa** | **Câu hỏi 2 (xấu đến mức nào?)** |
 | --- | --- | --- |
@@ -680,20 +680,20 @@ Một **lợi hiến pháp tương đương cả đời** nghĩa là lợi đã 
 | **Đặc trưng đã xác minh** | **Chủ sở hữu Câu hỏi 2 trong chương này** | **Chủ sở hữu tích hợp Câu hỏi 3** |
 | --- | --- | --- |
 | **Hại ngoại hóa / gánh che** | Áp dụng chất lượng hành vi đóng góp ở **§4.1** | [Chương Chín §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) — có thể chặn hoặc thu hẹp giấy phép cho đến khi sửa |
-| **Lừa / che giấu / lẩn tránh** | Áp dụng tính chất hành vi vi phạm ở **§4.2** | [Chương Chín §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — khóa leo thang che giấu / lẩn tránh |
-| **Cản trở trách nhiệm giải trình** | Áp dụng tính chất hành vi vi phạm ở **§4.2** và **Hành vi sai cản trở trách nhiệm giải trình** ở **§4.4** | [Chương Chín §4.2](../../core_10_standing_integration.md#42-general-standing-locks) và [§5.4](../../core_10_standing_integration.md#54-special-violation-rules) — khóa phạm vi đường dẫn được đặt tên; [Chương Chín §10.13](../../core_10_standing_integration.md#1013-obstruction-of-accountability) (*mẫu Câu hỏi 3*); chỉ định Chương Mười chỉ qua cổng Rà soát hành vi sai phản hiến pháp dưới [Chương Chín §10.8](../../core_10_standing_integration.md#108-anti-constitutional-misconduct-allegation) |
-| **Bạo lực / cưỡng / nguy tự do** | Áp dụng tính chất hành vi vi phạm ở **§4.2** và **Hành vi sai bạo lực** ở **§4.4** | [Chương Chín §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — khóa bảo vệ và bảo đảm |
-| **Tàn nhẫn** | Áp dụng tính chất hành vi vi phạm ở **§4.2**; [Tàn nhẫn](core_05_band_accountability.md#cruelty) | [Chương Chín §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — khóa bảo vệ và bảo đảm; [Chương Chín §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) — biểu đạt phục hồi không hạ phẩm nơi dùng |
-| **Bền / mẫu / tái diễn sau thông báo** | Áp dụng tính chất hành vi vi phạm ở **§4.2** | [Chương Chín §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — khóa tái diễn-bền |
+| **Lừa / che giấu / lẩn tránh** | Áp dụng tính chất hành vi vi phạm ở **§4.2** | [Chương Chín §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — khóa leo thang che giấu / lẩn tránh |
+| **Cản trở trách nhiệm giải trình** | Áp dụng tính chất hành vi vi phạm ở **§4.2** và **Hành vi sai cản trở trách nhiệm giải trình** ở **§4.4** | [Chương Chín §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) và [§5.4](../../core_10_standing_integration.md#54-special-violation-rules) — khóa phạm vi đường dẫn được đặt tên; [Chương Chín §10.13](../../core_10_standing_integration.md#1013-obstruction-of-accountability) (*mẫu Câu hỏi 3*); chỉ định Chương Mười chỉ qua cổng Rà soát hành vi sai phản hiến pháp dưới [Chương Chín §10.8](../../core_10_standing_integration.md#108-anti-constitutional-misconduct-allegation) |
+| **Bạo lực / cưỡng / nguy tự do** | Áp dụng tính chất hành vi vi phạm ở **§4.2** và **Hành vi sai bạo lực** ở **§4.4** | [Chương Chín §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — khóa bảo vệ và bảo đảm |
+| **Tàn nhẫn** | Áp dụng tính chất hành vi vi phạm ở **§4.2**; [Tàn nhẫn](core_05_band_accountability.md#cruelty) | [Chương Chín §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — khóa bảo vệ và bảo đảm; [Chương Chín §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) — biểu đạt phục hồi không hạ phẩm nơi dùng |
+| **Bền / mẫu / tái diễn sau thông báo** | Áp dụng tính chất hành vi vi phạm ở **§4.2** | [Chương Chín §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — khóa tái diễn-bền |
 | **Hại toàn vẹn diễn đàn** | Áp dụng tính chất hành vi vi phạm ở **§4.2** | [Chương Chín §5.5](../../core_10_standing_integration.md#55-special-locks) — hiệu ứng khóa quỹ đạo toàn vẹn diễn đàn |
-| **Khuếch tán trách nhiệm hoặc kiểm soát** | Áp dụng tính chất hành vi vi phạm ở **§4.2**; liên kết riêng-tác nhân dưới **§§3.1 và 3.3** | [Chương Chín §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — phạm vi đường dẫn được đặt tên rộng hơn hoặc xét phương tiện thể chế |
-| **Mở đường hệ thống / cấu trúc** | Áp dụng chất lượng hành vi đóng góp ở **§4.1**; tính chất hành vi vi phạm ở **§4.2** và **Hành vi sai hệ thống** ở **§4.4** | [Chương Chín §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) và [Chương Chín §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — bảo vệ ủy thác hoặc khóa phương tiện thể chế |
-| **Tham gia cam chịu / thất kháng** | Áp dụng tính chất hành vi vi phạm ở **§4.2** | [Chương Chín §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — phạm vi đường dẫn được đặt tên và hiệu ứng tái diễn-bền |
+| **Khuếch tán trách nhiệm hoặc kiểm soát** | Áp dụng tính chất hành vi vi phạm ở **§4.2**; liên kết riêng-tác nhân dưới **§§3.1 và 3.3** | [Chương Chín §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — phạm vi đường dẫn được đặt tên rộng hơn hoặc xét phương tiện thể chế |
+| **Mở đường hệ thống / cấu trúc** | Áp dụng chất lượng hành vi đóng góp ở **§4.1**; tính chất hành vi vi phạm ở **§4.2** và **Hành vi sai hệ thống** ở **§4.4** | [Chương Chín §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) và [Chương Chín §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — bảo vệ ủy thác hoặc khóa phương tiện thể chế |
+| **Tham gia cam chịu / thất kháng** | Áp dụng tính chất hành vi vi phạm ở **§4.2** | [Chương Chín §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — phạm vi đường dẫn được đặt tên và hiệu ứng tái diễn-bền |
 | **Sửa lối vào / rào tham gia** | **Lối vào và hòa nhập** ở **§4.3** | [Chương Chín §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) — thanh trải nghiệm hòa nhập hoặc phạm vi đường dẫn được đặt tên |
-| **Đánh bại lối vào / hại rào tham gia** | **Hành vi sai rào lối vào và tham gia** ở **§4.4** | [Chương Chín §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — chặn đường dẫn tham gia và khả năng tiếp cận được đặt tên |
-| **Hại riêng tư / tự sở hữu** | **Hành vi sai riêng tư và tự sở hữu** ở **§4.4** | [Chương Chín §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — chặn đường dẫn dữ liệu, hình dạng, công bố, hoặc trạng thái nội bộ được đặt tên |
-| **Rủi lối ra / khóa-trong hoặc đóng cửa** | Áp dụng chất lượng hành vi đóng góp ở **§4.1**; **Hành vi sai lối ra và khóa-trong** ở **§4.4** | [Chương Chín §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) và [Chương Chín §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — bảo vệ ủy thác hoặc chặn đường lối ra |
-| **Che giấu vòng đời / không đảo ngược** | **Hành vi sai vòng đời và không đảo ngược** ở **§4.4** | [Chương Chín §4.2](../../core_10_standing_integration.md#42-general-standing-locks) — chặn thẩm quyền triển khai và vòng đời |
+| **Đánh bại lối vào / hại rào tham gia** | **Hành vi sai rào lối vào và tham gia** ở **§4.4** | [Chương Chín §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — chặn đường dẫn tham gia và khả năng tiếp cận được đặt tên |
+| **Hại riêng tư / tự sở hữu** | **Hành vi sai riêng tư và tự sở hữu** ở **§4.4** | [Chương Chín §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — chặn đường dẫn dữ liệu, hình dạng, công bố, hoặc trạng thái nội bộ được đặt tên |
+| **Rủi lối ra / khóa-trong hoặc đóng cửa** | Áp dụng chất lượng hành vi đóng góp ở **§4.1**; **Hành vi sai lối ra và khóa-trong** ở **§4.4** | [Chương Chín §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) và [Chương Chín §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — bảo vệ ủy thác hoặc chặn đường lối ra |
+| **Che giấu vòng đời / không đảo ngược** | **Hành vi sai vòng đời và không đảo ngược** ở **§4.4** | [Chương Chín §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) — chặn thẩm quyền triển khai và vòng đời |
 
 <a id="451-similar-looking-facts-that-must-stay-separate"></a>
 
@@ -703,7 +703,7 @@ Một số sự kiện liên quan nhưng trả lời câu hỏi khác. Ghi chún
 
 | **Sự kiện thứ nhất** | **Sự kiện khác** | **Vì sao chúng ở lại riêng** |
 | --- | --- | --- |
-| **Trì đáp hoặc leo thang vấn đề gốc** | **Trì bắt đầu hoặc thực hiện khắc phục** | Cái thứ nhất giúp đo Câu hỏi 2 dưới **§§4.1–4.2**. Cái thứ hai là sự kiện Câu hỏi 3 sau dưới [Chương Chín §9.5](../../core_10_standing_integration.md#95-timely-implementation-and-reassessment). |
+| **Trì đáp hoặc leo thang vấn đề gốc** | **Trì bắt đầu hoặc thực hiện khắc phục** | Cái thứ nhất giúp đo Câu hỏi 2 dưới **§§4.1–4.2**. Cái thứ hai là sự kiện Câu hỏi 3 sau dưới [Chương Chín §9.5](../../core_10_standing_integration.md#95-timely-implementation). |
 | **Số hữu tri bị ảnh hưởng** | **Trách nhiệm hoặc kiểm soát được trải giữa tác nhân hoặc hệ thống thế nào** | Cái thứ nhất giúp đo lợi hoặc hại lớn đến mức nào dưới **§§4.1–4.2**. Cái thứ hai liên quan trách nhiệm riêng-tác nhân, khuếch tán, và phạm vi đường dẫn được đặt tên Câu hỏi 3 có thể. |
 
 <a id="46-question-1-measurement-illustrations"></a>

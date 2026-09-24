@@ -196,7 +196,7 @@
 
 - ऊर्ध्व: [अध्याय दो — परिभाषा संरचना और घटक अपेक्षाएँ](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements); [अध्याय तीन — परिभाषा अखंडता, बचाव, और गैर-अनुपालन](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance); [अध्याय चार, अनुभाग 1 से 5](#1-exclusive-enforcement-and-burden-allocation)।
 - अधो: [अध्याय सात — प्रणाली-संरेखण प्रमाणन](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [अध्याय आठ — योगदान, उल्लंघन और प्रस्थिति मॉडल](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)।
-- साथ पढ़ें: [अध्याय सात §16 — पुनर्खोलना, विसंरेखण, और बचाव-निरोध](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — अध्याय दो से चार के अधीन सत्यापित गैर-अनुपालन पूर्व पहचान से निरपेक्ष प्रमाणन पुनर्खोल या हरा सकता है।
+- साथ पढ़ें: [अध्याय सात §16 — पुनर्खोलना, विसंरेखण, और बचाव-निरोध](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) — अध्याय दो से चार के अधीन सत्यापित गैर-अनुपालन पूर्व पहचान से निरपेक्ष प्रमाणन पुनर्खोल या हरा सकता है।
 
 </details>
 

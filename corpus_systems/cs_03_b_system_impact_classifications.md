@@ -379,7 +379,7 @@ Comparative home: [§8.1](#81-eligibility-and-threshold-differentials)–[§8.6]
 
 See **§8.1** (*Eligibility and threshold differentials*) — **Class A** column and binding eligibility detail (including Existential Risk includes and critical-path dependency).
 
-<a id="92-critical-path-and-dependency-axis"></a>
+<a id="92-critical-path-dependency-and-dependency-axis-relationship"></a>
 ### 9.2 Critical-path dependency and dependency-axis relationship
 
 See **§8.1** (*Eligibility and threshold differentials*) — critical-path dependency — and **§8.2** (*Neighbor boundaries and dependency-axis correlation*) — A↔B edge; Dep-A correlation.
@@ -437,7 +437,7 @@ Comparative home: [§8.1](#81-eligibility-and-threshold-differentials)–[§8.6]
 
 See **§8.1** (*Eligibility and threshold differentials*) — **Class B** column and typical-patterns binding detail.
 
-<a id="102-escalation-boundary-and-dependency-axis"></a>
+<a id="102-class-c-boundary-and-dependency-axis-relationship"></a>
 ### 10.2 Class C boundary and dependency-axis relationship
 
 See **§8.2** (*Neighbor boundaries and dependency-axis correlation*) — **B↔C** edge and Dep-B correlation. Escalation to Class A: **§8.5** (*Reclassification edges*).
@@ -493,7 +493,7 @@ Comparative home: [§8.1](#81-eligibility-and-threshold-differentials)–[§8.6]
 
 See **§8.1** (*Eligibility and threshold differentials*) — **Class C** column and characteristics / failure-behavior binding detail.
 
-<a id="112-dependency-axis-and-substrate-impact"></a>
+<a id="112-dependency-axis-relationship-and-substrate-impact"></a>
 ### 11.2 Dependency-axis relationship and substrate impact
 
 See **§8.2** (*Neighbor boundaries and dependency-axis correlation*) — Dep-C correlation — and **§8.3** (*Boundaries, failures, and substrate ladder*) — **Class C** substrate / role.
@@ -547,7 +547,7 @@ Comparative home: [§8.1](#81-eligibility-and-threshold-differentials)–[§8.6]
 
 See **§8.1** (*Eligibility and threshold differentials*) — **Class L** column and includes / bounded / re-evaluation binding detail.
 
-<a id="122-class-c-boundary-and-dependency-axis"></a>
+<a id="122-class-c-boundary-and-dependency-axis-relationship"></a>
 ### 12.2 Class C boundary and dependency-axis relationship
 
 See **§8.2** (*Neighbor boundaries and dependency-axis correlation*) — **C↔L** edge and Dep-L correlation.
@@ -602,7 +602,7 @@ Comparative home: [§8.1](#81-eligibility-and-threshold-differentials)–[§8.6]
 
 See **§8.1** (*Eligibility and threshold differentials*) — **Class P** column and typical-patterns / shared-infrastructure binding detail.
 
-<a id="132-dependency-axis-and-substrate-impact"></a>
+<a id="132-dependency-axis-relationship-and-substrate-impact"></a>
 ### 13.2 Dependency-axis relationship and substrate impact
 
 See **§8.2** (*Neighbor boundaries and dependency-axis correlation*) — Dep-P correlation — and **§8.3** (*Boundaries, failures, and substrate ladder*) — **Class P** substrate / role.

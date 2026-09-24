@@ -30,15 +30,15 @@
 **Chapter Five proxy definitions** (O/M/A/C satisfaction — trace under Chapters Two through Four when materially relevant):
 
 - [Wellbeing](core_05_band_continuity.md#wellbeing) (Flourishing aim)
-- [Oversight](core_05_band_accountability.md#oversight), [Accountability](core_05_apex_accountability_leg.md#accountability), [Contestability](core_05_band_accountability.md#contestability), [Governance](core_05_band_accountability.md#governance), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance)
-- [Material](core_05_band_oversight.md#material), [Material Impact](core_05_band_oversight.md#material-impact), [Material Risk](core_05_band_oversight.md#material-risk), [Materiality Determination](core_05_band_oversight.md#materiality-determination) (widgets label this **Materiality**), [Systemic Materiality](core_05_band_accountability.md#systemic-materiality) — cluster: [Materiality, impact, risk, and proxy integrity](core_05_band_oversight.md#materiality-semi-independent)
+- [Oversight](core_05_apex_oversight_leg.md#oversight), [Accountability](core_05_apex_accountability_leg.md#accountability), [Contestability](core_05_band_accountability.md#contestability), [Governance](core_05_band_accountability.md#governance), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance)
+- [Material](core_05_band_oversight.md#material), [Material Impact](core_05_band_oversight.md#material-impact), [Material Risk](core_05_band_oversight.md#material-risk), [Materiality Determination](core_05_band_oversight.md#materiality-determination) (widgets label this **Materiality**), [Systemic Materiality](core_05_band_continuity.md#systemic-materiality) — cluster: [Materiality, impact, risk, and proxy integrity](core_05_band_oversight.md#materiality-semi-independent)
 
 **Major Chapter Five §3 dependent clusters** (joint-invocation groups — read with Chapters Two through Four when materially relevant):
 
 - [Stakeholder Status and Weight](core_05_band_participation.md#stakeholder-status-and-weight-cluster) (Stakeholder System Participation layer)
 - [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer) and [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)
 - [Corpus and Authority Stack](core_05_band_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster)
-- [Accountability, Contestability, and Collective Accountability Failure](core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster)
+- [Accountability, Contestability, and Collective Accountability Failure](core_05_apex_accountability_leg.md#accountability)
 
 **CJS-3** (*Implementation and cross-implementation operational cluster library*) — the operational cluster compass for cross-implementation joint operational terms; read together with this chapter's Tetrad, Aims, and material-stake scaling:
 
@@ -120,7 +120,7 @@ Once the tradeoff stack is satisfied, **[§6.3 Minimization of Avoidable Burden]
 - [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [Feasibility](core_05_band_accountability.md#feasibility) · [O](core_05_band_accountability.md#feasibility) · [M](core_05_band_accountability.md#feasibility-a) · [A](core_05_band_accountability.md#feasibility-a) · [C](core_05_band_accountability.md#feasibility-c)
 - [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency) · [O](core_05_band_participation.md#freedom-bounded-agency) · [M](core_05_band_participation.md#freedom-bounded-agency-a) · [A](core_05_band_participation.md#freedom-bounded-agency-a) · [C](core_05_band_participation.md#freedom-bounded-agency-c)
-- [Meaningful Agency](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_accountability.md#meaningful-agency-o) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [Meaningful Agency](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
 
 </details>
 
@@ -227,7 +227,7 @@ Limitations on constitutional **values** — including **Chapter Six** Rights-Fl
 
 **Authority-scaled answerability.** Proportionality also forbids under-governance of those who hold greater authorized power, consequential role, or institutional influence: [Accountability](core_05_apex_accountability_leg.md#accountability) and [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional) intensity must rise with that authority, not fall.
 
-**Heightened thresholds.** Where actions introduce risk of irreversible harm, systemic lock-in, Existential Risk, or irreversible loss of Ecological Recovery Capacity, systems must apply heightened thresholds for justification, scrutiny, and reversibility where feasible.
+**Heightened thresholds.** Where actions introduce risk of irreversible harm, systemic lock-in, Existential Risk, or irreversible loss of Ecological Recovery Capacity, systems must apply [Heightened Scrutiny](core_05_band_oversight.md#heightened-scrutiny) and heightened thresholds for justification and reversibility where feasible.
 
 **Further escalation.** Those thresholds must rise again where materially relevant indicators apply, including:
 - irreversibility exposure
@@ -526,7 +526,7 @@ Correction must follow **Chapter Four** traceability and **Chapter Five** proxy-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§6.1 Core Tradeoff Principles](#61-core-tradeoff-principles) (applies after the tradeoff stack is satisfied); [§10 Consequential Stewardship](core_01_c_stewardship_capacity_principles.md#10-consequential-stewardship); [§13.2 Constitutional Efficiency](core_01_c_stewardship_capacity_principles.md#132-constitutional-efficiency).
+- Upstream: [§6.1 Core Tradeoff Principles](#61-core-tradeoff-principles) (applies after the tradeoff stack is satisfied); [§10 Consequential Stewardship](core_01_c_stewardship_capacity_principles.md#10-consequential-stewardship-the-steward-role); [§13.2 Constitutional Efficiency](core_01_c_stewardship_capacity_principles.md#132-constitutional-efficiency).
 - Read with: Constitutional Performance measurement family (*Avoidable Burden as constitutional measurement*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (burden that is not constitutionally required narrows [Meaningful Agency](core_05_band_participation.md#meaningful-agency)); **timeliness** leg (avoidable delay is avoidable burden).
 - Downstream: [§12.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1213-stewardship-and-operator-application) (incentives must not reward unnecessary burden creation); [Article XX: Comprehensibility and Complexity Stewardship](core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 
@@ -603,7 +603,7 @@ No value defined in this chapter may be used as a universal or unbounded justifi
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Preamble — Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [material stake](core_00_preamble.md#material-stake) scaling applies chapter-wide through section traces.
-- Downstream: [§8.1 Constitutional No-Bypass Principle](#81-constitutional-no-bypass-principle), [§8.2 Definitional layer and required disciplines](#82-definitional-layer-and-required-disciplines), [§8.3 Ambiguity resolution](#83-ambiguity-resolution), [§8.4 Constitutional Meaning Conflict Resolution](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing) through [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#16-integrated-application); [6. Process Conflict Resolution](#6-process-conflict-resolution) for value-collision procedure; [Chapter Six: Foundational Rights](core_06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default.
+- Downstream: [§8.1 Constitutional No-Bypass Principle](#81-constitutional-no-bypass-principle), [§8.2 Definitional layer and required disciplines](#82-definitional-layer-and-required-disciplines), [§8.3 Ambiguity resolution](#83-ambiguity-resolution), [§8.4 Constitutional Meaning Conflict Resolution](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations)); [2. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing) through [15. Integrated Application](core_01_c_stewardship_capacity_principles.md#16-integrated-application); [6. Process Conflict Resolution](#6-process-conflict-resolution) for value-collision procedure; [Chapter Six: Foundational Rights](core_06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default.
 - Read with: [Chapters Two through Four](core_02_definition_structure.md) and [Chapter Five](core_05__definitions_home.md#chapter-five-foundational-definitions) — interpretive and evidentiary layer for every term in this chapter.
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — interpretive backdrop for the integrated-value framework; [material stake](core_00_preamble.md#material-stake) scaling where materially relevant.
 - Read with: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) (*source-layer status*); [Chapter Seventeen](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*custody, editions, adoption framing* — not a second conflict-order home); [Chapter Fourteen](core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) and [Chapter Fifteen](core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) (*non-regression and adopter hierarchy gates under §8.4*).
@@ -716,7 +716,7 @@ flowchart TB
     style X fill:none,stroke:#64748b,color:#ffffff
 ```
 
-*Definitions give precision to Chapter One's principles and Chapter Six's rights; Chapters Two through Four govern the structure, integrity, and verification of those definitions. Neither layer competes with Chapter One — precision and testability serve the principles, they do not substitute for them. Reproduced from the [Conceptual Overview](CONCEPTUAL_OVERVIEW.md#principles-articles-and-definitions).*
+*Definitions give precision to Chapter One's principles and Chapter Six's rights; Chapters Two through Four govern the structure, integrity, and verification of those definitions. Neither layer competes with Chapter One — precision and testability serve the principles, they do not substitute for them. Reproduced from the [Conceptual Overview](guides/CONCEPTUAL_OVERVIEW.md#principles-articles-and-definitions).*
 
 No interpretation of Chapter One is valid outside the definitions and evaluation constraints established in **Chapters Two through Five**. Every application must also preserve and apply:
 - **proportionality**, **necessity**, and **systemic evaluation**
@@ -733,7 +733,7 @@ No interpretation of Chapter One is valid outside the definitions and evaluation
 - [Wellbeing](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
 - [Irreversible Harm](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
 - [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Meaningful Agency](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_accountability.md#meaningful-agency-o) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [Meaningful Agency](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
 
 </details>
 
@@ -774,7 +774,7 @@ This subsection is the **single canonical procedure** for resolving interpretive
 
 1. **Constitution, non-regression, and adopter hierarchy first:** Apply Sentient Constitution supremacy, **Chapter Fourteen** non-regression constraints, and **Chapter Fifteen** internal hierarchy rules before resolving lower layers.
 2. **Binding constitutional reading:** Within the binding constitutional source, apply **[§8.4.1 Integrated reading](#841-integrated-reading)** and, only if genuine residual incompatibility remains, **[§8.4.2 Last-resort internal hierarchy](#842-last-resort-internal-hierarchy)**.
-3. **Incorporated obligations:** Then apply incorporated obligations under **[§8.4.3 Incorporation layer](#843-incorporation-layer)** and **[§8.4.4 Combined satisfaction of jointly applicable incorporated obligations](#844-combined-satisfaction)**.
+3. **Incorporated obligations:** Then apply incorporated obligations under **[§8.4.3 Incorporation layer](#843-incorporation-layer)** and **[§8.4.4 Combined satisfaction of jointly applicable incorporated obligations](#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations)**.
 
 <a id="841-integrated-reading"></a>
 ##### 8.4.1 Integrated reading
@@ -822,7 +822,7 @@ When the rules below say **strictest** or **stricter**, those words have the sam
   - Custody, editions, and adoption framing remain under **[Chapter Seventeen](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)**.
   - The same rule applies when a cited profile and a cited implementation label seem to conflict for that risk.
 
-<a id="844-combined-satisfaction"></a>
+<a id="844-combined-satisfaction-of-jointly-applicable-incorporated-obligations"></a>
 ##### 8.4.4 Combined satisfaction of jointly applicable incorporated obligations
 
 *In plain terms: when one situation touches more than one incorporated how-to file — or when your adoption paperwork brings those joint-structure duties into force — doing well on one file does not count as compliance if another material duty for the same facts is still unmet.*

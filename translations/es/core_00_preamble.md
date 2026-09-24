@@ -42,7 +42,7 @@ Pretendemos construir sistemas mejores — estructurados para eliminar estos des
 
 Esas finalidades deben perseguirse juntas, siempre dentro de las restricciones de principio no negociables y de las protecciones de derechos establecidas en esta Constitución. La [**Tétrada Constitucional**](#constitutional-tetrad) gobierna cómo esa persecución sigue siendo legítima: **participación**, **supervisión**, **rendición de cuentas** y **actuación a tiempo** escaladas al [**enjuego material**](#material-stake). Las definiciones vinculantes de las patas de la Tétrada y de las finalidades constitucionales viven en el Capítulo Cinco: [Participación](core_05_apex_participation_leg.md#participation-constitutional), [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional), [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Florecimiento](core_05_apex_flourishing_aim.md#flourishing-constitutional) y [Continuidad](core_05_apex_continuity_aim.md#continuity-aim-constitutional).
 
-<a id="2-the-measurements"></a>
+<a id="2-measurements-overview"></a>
 
 
 ### 2. Panorama de las mediciones
@@ -86,7 +86,7 @@ La comprensión distribuida y la administración responsable exigen que los senc
 
 Cuando la Constitución exige reglas concretas de medición, los **Dominios Técnicos de Foro** bajo el [Capítulo Once](core_11_forum.md#42-technical-forum-domains) desarrollan y mantienen los estándares compartidos — cómo medir, cómo probar y qué cuenta como evidencia fiable. El foro responsable de una controversia dada aplica entonces esos estándares al decidir ese caso bajo el [Capítulo Once §4.2](core_11_forum.md#42-shared-standards-and-anti-displacement).
 
-La administración responsable constitucional empieza por nombrar el problema y el [**enjuego material**](#material-stake) — cuánto impacto, dependencia y riesgo hay de por medio. Después, elija la categoría y subcategoría de [**medición**](#2-the-measurements) pertinentes del [panorama](#2-the-measurements) y aplique los estándares de arriba para probar efectos del mundo real en lugar de métricas de conveniencia. Exija evidencia trazable.
+La administración responsable constitucional empieza por nombrar el problema y el [**enjuego material**](#material-stake) — cuánto impacto, dependencia y riesgo hay de por medio. Después, elija la categoría y subcategoría de [**medición**](#2-measurements-overview) pertinentes del [panorama](#2-measurements-overview) y aplique los estándares de arriba para probar efectos del mundo real en lugar de métricas de conveniencia. Exija evidencia trazable.
 
 <a id="32-key-governance-processes"></a>
 #### 3.2 Procesos clave de gobernanza
@@ -187,7 +187,7 @@ Cada paso de abajo enuncia qué le corresponde al capítulo y qué produce. [Có
 
 - **Qué le corresponde:** Integra las clasificaciones verificadas en **efectos de trayectoria** del mundo real en pistas separadas — escalados al [**enjuego material**](#material-stake), sin plegar contribución e infracción en una sola puntuación neta, y sin vaciar la participación, la supervisión, la rendición de cuentas o la actuación a tiempo.
   - **Pista de contribución:** La clasificación positiva verificada produce un alza práctica:
-    - [**Habilitaciones de competencia**](../../core_10_standing_integration.md#62-competency-bars-and-clearances) que pueden abrir roles sensibles a la confianza, autoridad delegada, elegibilidad de supervisión y administración responsable de consecuencia progresiva cuando se demuestra competencia frente a la barra de competencia publicada y ningún [bloqueo de trayectoria](../../core_10_standing_integration.md#42-general-standing-locks) aplicable cierra la vía nominada
+    - [**Habilitaciones de competencia**](../../core_10_standing_integration.md#62-competency-bars-and-clearances) que pueden abrir roles sensibles a la confianza, autoridad delegada, elegibilidad de supervisión y administración responsable de consecuencia progresiva cuando se demuestra competencia frente a la barra de competencia publicada y ningún [bloqueo de trayectoria](../../core_10_standing_integration.md#42-prevention--general-standing-locks) aplicable cierra la vía nominada
     - Reconocimiento proporcional y **recompensas materiales** por la administración responsable lícita y la cooperación, como exige el [Capítulo Uno](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)
     - No es elogio vacío. Los beneficios tienen que ser reales, respaldados por evidencia y abiertos a impugnación
   - **Pista de infracción:** Los hallazgos de infracción verificados producen un descenso práctico:

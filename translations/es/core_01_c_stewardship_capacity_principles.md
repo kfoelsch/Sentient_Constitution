@@ -1996,7 +1996,7 @@ El Capítulo Uno fija la dirección. Las pretensiones de los siguientes tipos de
 
 Los factores de evaluación detallados y los registros de certificación son titularidad de:
 - **[Capítulo Siete §3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
-- **[Capítulo Siete §11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record)**;
+- **[Capítulo Siete §11](../../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record)**;
 - **[corpus_systems.md](../../corpus_systems.md), CS-3 — Clasificación y manejo de sistemas**.
 
 Ese proceso del Capítulo Siete:

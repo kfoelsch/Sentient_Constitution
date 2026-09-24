@@ -1995,7 +1995,7 @@ O Capítulo Um fixa a direção. Pretensões dos seguintes tipos devem ser testa
 
 Os fatores detalhados de avaliação e os registros de certificação estão a cargo de:
 - **[Capítulo Sete §3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
-- **[Capítulo Sete §11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record)**;
+- **[Capítulo Sete §11](../../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record)**;
 - **[corpus_systems.md](../../corpus_systems.md), CS-3 — Classificação e manejo de sistemas**.
 
 Esse processo do Capítulo Sete:

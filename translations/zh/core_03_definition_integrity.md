@@ -93,7 +93,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：原则：[第三章，第 1 节 — 定义完整性与反规避约束](#1-definition-integrity-and-anti-evasion-constraints)；[第二章，§2 定义完整性要求](core_02_definition_structure.md#2-definition-integrity-requirement)；[第二章，§2.2 因结构或适用削弱而不合规](core_02_definition_structure.md#22-non-compliance-by-structural-or-applied-weakening)。
-- 下游：第 [2.1](#21-common-evasion-patterns) 至 [2.6](#26-uncertainty-integrity-and-non-exploitation-constraint) 节中的类型目录；[3. 不合规认定画像](#3-non-compliance-finding-profiles)；[第四章，第 5 节 — 合规证据标准](core_04_burden_traceability_verification.md#5-compliance-evidence-standard)；[第四章，第 3 节 — 可追溯性的可观察性要求](core_04_burden_traceability_verification.md#3-observability-of-traceability-requirement)；[第七章 §16](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)（*系统对齐认证重开与反规避指针*）；[第八章 — 贡献、违规与轨迹模型](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)。
+- 下游：第 [2.1](#21-common-evasion-patterns) 至 [2.6](#26-uncertainty-integrity-and-non-exploitation-constraint) 节中的类型目录；[3. 不合规认定画像](#3-non-compliance-finding-profiles)；[第四章，第 5 节 — 合规证据标准](core_04_burden_traceability_verification.md#5-compliance-evidence-standard)；[第四章，第 3 节 — 可追溯性的可观察性要求](core_04_burden_traceability_verification.md#3-observability-of-traceability-requirement)；[第七章 §16](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion)（*系统对齐认证重开与反规避指针*）；[第八章 — 贡献、违规与轨迹模型](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)。
 - 一并阅读：[第二章，§1 — 宗旨与角色](core_02_definition_structure.md#1-purpose-and-role)，关于完整功能系统条件下的整系统联合满足规则；[第二章，§2.4 歧义下的解释规则](core_02_definition_structure.md#24-interpretation-rule-under-ambiguity) — 削弱保障、收窄必须被评估者，或使真实世界结果变差的解释无效；[第四章，第 5 节 — 合规证据标准](core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — 证据必须在本节规则下展示合规；在此处会构成不合规的证明，未满足举证责任；[不合规](../../core_05_band_integrative.md#non-compliance)。
 
 </details>
@@ -241,7 +241,7 @@
 <a id="31-standing-effects-for-already-certified-systems"></a>
 #### 3.1 已认证系统的轨迹效果
 
-若一系统已在[系统对齐认证](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)下运行 — 包括承认、有条件承认，或尚未过期的再核验 — 对该系统功能范围上具实质性的经核实不合规**必须**进入[第八章](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)对**该系统**的轨迹测量。只有通过[经核实输入门](../../core_09_standing_assessment.md#verified-inputs-for-standing)的事实才可进入。在第八章与第九章下测量并适用轨迹。重开、撤回或其他认证后果仍属[第七章](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)。它们不取代该系统的轨迹记录。
+若一系统已在[系统对齐认证](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)下运行 — 包括承认、有条件承认，或尚未过期的再核验 — 对该系统功能范围上具实质性的经核实不合规**必须**进入[第八章](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)对**该系统**的轨迹测量。只有通过[经核实输入门](../../core_09_standing_assessment.md#verified-inputs-for-standing)的事实才可进入。在第八章与第九章下测量并适用轨迹。重开、撤回或其他认证后果仍属[第七章](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion)。它们不取代该系统的轨迹记录。
 
 <a id="32-standing-effects-at-first-certification"></a>
 #### 3.2 首次认证时的轨迹效果

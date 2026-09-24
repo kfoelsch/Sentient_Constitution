@@ -1994,7 +1994,7 @@ Bab Satu menetapkan arah. Klaim jenis berikut harus diuji terhadap apa yang bena
 
 Faktor evaluasi rinci dan catatan sertifikasi dimiliki oleh:
 - **[Bab Tujuh §3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
-- **[Bab Tujuh §11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record)**;
+- **[Bab Tujuh §11](../../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record)**;
 - **[corpus_systems.md](../../corpus_systems.md), CS-3 — Klasifikasi dan penanganan sistem**.
 
 Proses Bab Tujuh itu:

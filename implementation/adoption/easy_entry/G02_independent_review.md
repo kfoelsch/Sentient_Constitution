@@ -27,7 +27,7 @@ Someone with power over housing, care, pay, movement, or a system you depend on 
 - **Today:** The same team that shipped the cutoff is also the “appeals desk.”
 - **With this Constitution:** A claim that the hearing body is biased, captured, or in conflict must be able to leave that body. The crew that cooperates to run a system does not get to staff the only final review and call that independence.
 
-See: [Chapter Twelve §3](../../../core_12_forum.md#3-transfer-consolidation-and-coordination).
+See: [Chapter Twelve §3](../../../core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture).
 
 **A report waiting to be looked at is not already a verdict.**
 - **Today:** Once someone files, you are already “in the system,” and silence or refusal is treated as proof.
@@ -52,11 +52,11 @@ See: [Article XX](../../../core_06_rights_part_c.md#article-xx-comprehensibility
 ## What this will not pretend to give you
 
 - A promise that every complaint wins, or that the other side is always wrong.
-- A markdown working group that calls itself independent review ([Chapter One §9.5](../../../core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization)).
+- A markdown working group that calls itself independent review ([Chapter One §9.5](../../../core_01_c_stewardship_capacity_principles.md#104-aligned-self-organization)).
 - Enforcement against a host or office that has not agreed to follow this Constitution ([Chapter Seventeen §4](../../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)).
 
 ## If you want to look further
 
 - Sibling guides: [`README.md`](README.md#process-guides)
-- Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
+- Public door: [`../../../README.md`](../../../README.md)
 - Kit for naming real independent review: [`../FORUM_FOUNDATION_KIT.md`](../FORUM_FOUNDATION_KIT.md)

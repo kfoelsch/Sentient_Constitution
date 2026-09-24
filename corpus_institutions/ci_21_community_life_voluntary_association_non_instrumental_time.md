@@ -46,7 +46,7 @@ This file is the institutional implementation home for **CI-21** (*Community lif
 - **CI-21.1** — civic infrastructure and non-instrumental time: who stewards gathering places, recreation routes, and time that is not treated as output.
 - **CI-21.2** — voluntary association and anti-coercion guardrails: association programs, freedom to leave, hostile-design escalation, and independent review when informal community power harms sentients.
 - **CI-21.3** — referral and escalation interfaces: how local failures route to **CI-5**, **CI-6**, **CI-12**, **CI-9**, **CI-8**, **CI-20**, and **CI-22**.
-- **Read with** — **CI-5** for integrity and conflict disclosure; **CI-9** for class and tier scaling; **CI-8** for participation and pathway accessibility; **CI-20** for coercive-control routing; **CI-22** for commons and mutual-aid interfaces; **CI-6** and **CI-12** for procedure maps and escalation.
+- **Read with** — **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) for integrity and conflict disclosure; **CI-9** (*Classification-linked institutional obligations*) for class and tier scaling; **CI-8** (*Transparency, participation, and accessible challenge and service pathways*) for participation and challenge-pathway accessibility; **CI-20** (*Relational coercive control, intimate power, and anti-domination routing*) for coercive-control routing; **CI-22** (*Commons, cooperatives, mutual aid, and non-market community governance*) for commons and mutual-aid interfaces; **CI-6** (*Procedure integrity, contestability, and secondary review*) and **CI-12** (*Cross-institution coordination and escalation*) for procedure maps and escalation.
 
 *Shared rules live elsewhere.*
 - [**CJS-3.7**](../corpus_joint_structure/cjs_03p_participation_operations.md) (*quorum and participatory legitimacy terms*) — **Community and associational pathway integrity**.
@@ -105,13 +105,13 @@ Each institution in scope must name and maintain locally:
 
 <br>
 
-*In plain terms: when a local pathway for gathering or association fails — blocked access, captured review, or nowhere to appeal — sentients need a published map of where the case goes next.*
+*In plain terms: when a local associational pathway for gathering or association fails — blocked access, captured review, or nowhere to appeal — sentients need a published map of where the case goes next.*
 
 Each institution in scope must name and maintain locally:
 
 - **local procedure map** — published routing under **CI-6** for community-pathway complaints, hostile-design reports, and association disputes;
 - **integrity and capture referral** — **CI-5** route when conflict, self-dealing, or capture affects community stewardship;
-- **participation and accessibility referral** — **CI-8** route when notice, participation, or pathway accessibility fails for materially binding community decisions;
+- **participation and accessibility referral** — **CI-8** (*Transparency, participation, and accessible challenge and service pathways*) route when notice, participation, or challenge-pathway accessibility fails for materially binding community decisions;
 - **coercive-control referral** — **CI-20** route when intimate, household, workplace, platform, or community coercion blocks exit or challenge; and
 - **CI-12 escalation route** — cross-institution escalation when local review stalls, is conflicted, or cannot act independently.
 

@@ -25,15 +25,48 @@ LOCAL_MARKDOWN_LINK_RE = re.compile(r"\[[^\]]*\]\(([^)\s]+)(?:\s+\"[^\"]*\")?\)"
 INLINE_CODE_RE = re.compile(r"`([^`]+)`")
 
 # These rules cover common stale-drifts tracked in prior audits.
+#
+# Each rule pairs a topic keyword with the Article that owns that topic. The
+# keyword must appear verbatim in that Article's canonical heading, which
+# `validate_semantic_rules` enforces at run time: if an Article is renumbered
+# or retitled, the audit fails loudly instead of silently asserting a stale
+# mapping and instructing authors to insert wrong citations.
 SEMANTIC_RULES: list[tuple[re.Pattern[str], str, str]] = [
-    (re.compile(r"\bstanding\b", re.IGNORECASE), "XII", "standing"),
-    (re.compile(r"\bconflict resolution\b", re.IGNORECASE), "XIII", "conflict resolution"),
-    (re.compile(r"\bequality\b", re.IGNORECASE), "XX", "equality"),
-    (re.compile(r"\bcomprehensibility\b", re.IGNORECASE), "XVI", "comprehensibility"),
-    (re.compile(r"\broot cause\b", re.IGNORECASE), "XIX", "root cause analysis"),
-    (re.compile(r"\bresource allocation\b", re.IGNORECASE), "XVIII", "resource allocation"),
-    (re.compile(r"\blifecycle\b", re.IGNORECASE), "IX", "lifecycle and reversibility"),
+    (re.compile(r"\bstanding\b", re.IGNORECASE), "XVIII", "standing"),
+    (re.compile(r"\bconflict resolution\b", re.IGNORECASE), "XXIII", "conflict resolution"),
+    (re.compile(r"\bequal basic rights\b", re.IGNORECASE), "V", "equal basic rights"),
+    (re.compile(r"\bcomprehensibility\b", re.IGNORECASE), "XX", "comprehensibility"),
+    (re.compile(r"\broot cause\b", re.IGNORECASE), "XXI", "root cause analysis"),
+    (re.compile(r"\bresource allocation\b", re.IGNORECASE), "IV", "resource allocation"),
+    (re.compile(r"\blifecycle\b", re.IGNORECASE), "XVI", "lifecycle and reversibility"),
 ]
+
+
+def validate_semantic_rules(canonical: dict[str, str]) -> None:
+    """Fail fast when a SEMANTIC_RULES mapping no longer matches Chapter Six.
+
+    A semantic rule is only meaningful while its keyword still describes the
+    Article it points at. Verifying the keyword against the live heading keeps
+    the table honest across renumbering.
+    """
+    errors: list[str] = []
+    for pattern, expected, label in SEMANTIC_RULES:
+        title = canonical.get(expected)
+        if title is None:
+            errors.append(
+                f"rule {label!r} expects Article {expected}, which no longer exists"
+            )
+            continue
+        if not pattern.search(title):
+            errors.append(
+                f"rule {label!r} expects Article {expected}, but that Article is "
+                f"titled {title!r} and does not match the rule keyword"
+            )
+    if errors:
+        raise SystemExit(
+            "reference_audit: SEMANTIC_RULES is stale relative to Chapter Six:\n"
+            + "\n".join(f"  - {error}" for error in errors)
+        )
 
 
 @dataclass(frozen=True)
@@ -333,6 +366,8 @@ def main() -> int:
         }
     )
     canonical = canonical_map_from_paths(root, args.source)
+    if args.semantic_checks:
+        validate_semantic_rules(canonical)
 
     findings: list[Finding] = []
     for rel_path in scope:

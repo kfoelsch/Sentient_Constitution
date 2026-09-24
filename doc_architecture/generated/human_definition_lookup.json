@@ -113,11 +113,11 @@
       "file": "core_12_forum.md",
       "anchor": "#chapter-twelve-forums-and-jurisdiction",
       "title": "CHAPTER TWELVE: FORUMS AND JURISDICTION",
-      "plain_terms": "Under the [Constitutional Tetrad](../../core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](../../core_00_preamble.md#two-constitutional-aims), this chapter **supervises** how disputes move through the Chapters Nine–Eleven standing pipeline — routing, independence, forensic support, remediation sequencing, and tier-default clocks under **section 6** and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Forum families answer which track handles which dispute, where a case ordinarily starts, and how mixed-stakes matters coordinate. They supply **participation** (accessible challenge) and **oversight** (traceable merits review). When the facts are verified, they may **open, update, or correct** standing records — or **set a bad record aside on challenge**. They do **not** run a second, separate decision track beside the standing pipeline. Filing a case alone has no immediate impact on standing. Day-to-day trial rules, budgets, and staffing manuals live in implementation layers and must **implement, not narrow**, this chapter or **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*).",
+      "plain_terms": "Under the [Constitutional Tetrad](../../core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](../../core_00_preamble.md#two-constitutional-aims), this chapter **supervises** how disputes move through the Chapters Nine–Eleven standing pipeline — routing, independence, forensic support, remediation sequencing, and tier-default clocks under **section 6** and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Forum families answer which track handles which dispute, where a case ordinarily starts, and how mixed-stakes matters coordinate. They supply **participation** (accessible challenge) and **oversight** (traceable merits review). When the facts are verified, they may **open, update, or correct** standing records — or **set a bad record aside on challenge**. They do **not** run a second, separate decision track beside the standing pipeline. Filing a case alone has no immediate impact on standing. Day-to-day trial rules, budgets, and staffing manuals live in adopted implementation text.",
       "href": "../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction"
     }
   ],
-  "term_count": 235,
+  "term_count": 237,
   "terms": [
     {
       "term": "Accessibility",
@@ -774,7 +774,7 @@
       "term": "Harm",
       "file": "core_05_band_accountability.md",
       "anchor": "#harm",
-      "plain_terms": "harm is a material worsening of a sentient's life, agency, functioning, or psychological health. Offense, discomfort, or disagreement alone is not harm without a material pathway to such effects.",
+      "plain_terms": "harm is a material worsening of a sentient's life, agency, functioning, or psychological health. Offense, discomfort, or disagreement alone is not harm without a material causal pathway to such effects.",
       "href": "../../core_05_band_accountability.md#harm"
     },
     {
@@ -783,6 +783,13 @@
       "anchor": "#harm-minimization-tradeoff-selection",
       "plain_terms": "when several lawful options remain, choose the one expected to cause the least total harm across affected sentients, connected systems, and both near- and long-term timeframes.",
       "href": "../../core_05_band_accountability.md#harm-minimization-tradeoff-selection"
+    },
+    {
+      "term": "Heightened Scrutiny",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#heightened-scrutiny",
+      "plain_terms": "some decisions are risky enough that the ordinary check is not enough. Heightened scrutiny is the harder check: whoever wants to go ahead must prove the case, safer options must really have been weighed, and outsiders must be able to see and challenge the reasoning. Highest scrutiny is the hardest check, kept for a few cases where a wrong call does the most damage.",
+      "href": "../../core_05_band_oversight.md#heightened-scrutiny"
     },
     {
       "term": "High-Impact and Systemic Harm Publication Constraint",
@@ -928,7 +935,7 @@
       "term": "Market Concentration Threshold",
       "file": "core_05_band_accountability.md",
       "anchor": "#market-concentration-threshold-constitutional",
-      "plain_terms": "adopters set the point at which too much control over a market, platform, infrastructure, labor, data, compute, capital, resources, or information triggers stronger review or remedy. They may tune that point to context, but may not set it so high that the Chapter One §13 protection never works.",
+      "plain_terms": "adopters set the point at which too much control over a market, platform, infrastructure, labor, data, compute, capital, resources, or information triggers stronger review or remedy. They may tune that point to context, but may not set it so high that the Chapter One §14 (*Market Structure*) protection never works.",
       "href": "../../core_05_band_accountability.md#market-concentration-threshold-constitutional"
     },
     {
@@ -1000,6 +1007,13 @@
       "anchor": "#materiality-under-uncertainty",
       "plain_terms": "when you are not sure whether something is material, default to the safer (higher) classification — do not wait for certainty or hope for a low label.",
       "href": "../../core_05_band_oversight.md#materiality-under-uncertainty"
+    },
+    {
+      "term": "Materially Binding Act",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#materially-binding-act",
+      "plain_terms": "a materially binding act is an official step that settles something that matters — a decision, approval, finding, record change, release, payment, or ruling on a challenge — so that others must follow it or may rely on it. Because it binds, starting it, checking it, recording it, and hearing a challenge to it must stay in separate hands. Advice, drafts, and raw logs are not binding acts; the step that adopts them or gives them effect is.",
+      "href": "../../core_05_band_accountability.md#materially-binding-act"
     },
     {
       "term": "Materially Binding Act Record",
@@ -1635,7 +1649,7 @@
       "term": "Timely Resolution",
       "file": "core_05_band_accountability.md",
       "anchor": "#timely-resolution-constitutional",
-      "plain_terms": "resolve serious constitutional disputes and deliver proportionate remedies within deadlines that match the stakes, without avoidable delay, exhaustion tactics, or captured pathways — and without sacrificing fact-checking or appeal rights for speed.",
+      "plain_terms": "resolve serious constitutional disputes and deliver proportionate remedies within deadlines that match the stakes, without avoidable delay, exhaustion tactics, or captured resolution pathways — and without sacrificing fact-checking or appeal rights for speed.",
       "href": "../../core_05_band_accountability.md#timely-resolution-constitutional"
     },
     {

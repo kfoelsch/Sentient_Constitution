@@ -196,7 +196,7 @@ Belirsizlik, maddi olarak ilgili tanım bileşenleri için kesin uyum gösterimi
 
 - Yukarı: [İkinci Bölüm — Tanım yapısı ve bileşen gerekleri](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements); [Üçüncü Bölüm — Tanım bütünlüğü, kaçınma ve uyumsuzluk](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance); [Dördüncü Bölüm, 1 ile 5. kesitler](#1-exclusive-enforcement-and-burden-allocation).
 - Aşağı: [Yedinci Bölüm — Sistem hizalama belgelendirmesi](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [Sekizinci Bölüm — Katkı, ihlal ve güzergâh modeli](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
-- Birlikte oku: [Yedinci Bölüm §16 — Yeniden açma, yanlış hizalanma ve kaçınma karşıtı](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — İkinci Bölümden Dördüncü Bölüme doğrulanmış uyumsuzluk, önceki tanımadan bağımsız olarak belgelendirmeyi yeniden açabilir ya da boşa çıkarabilir.
+- Birlikte oku: [Yedinci Bölüm §16 — Yeniden açma, yanlış hizalanma ve kaçınma karşıtı](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) — İkinci Bölümden Dördüncü Bölüme doğrulanmış uyumsuzluk, önceki tanımadan bağımsız olarak belgelendirmeyi yeniden açabilir ya da boşa çıkarabilir.
 
 </details>
 

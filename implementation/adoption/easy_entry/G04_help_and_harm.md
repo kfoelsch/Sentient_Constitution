@@ -59,5 +59,5 @@ See: [Chapter Ten](../../../core_10_standing_integration.md#chapter-ten-standing
 ## If you want to look further
 
 - Sibling guides: [`README.md`](README.md#process-guides)
-- Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
+- Public door: [`../../../README.md`](../../../README.md)
 - Worked stories (not extra duties): [`../../../core_09-12_application_vignettes.md`](../../../core_09-12_application_vignettes.md)

@@ -27,7 +27,7 @@ This gateway does **not**:
 - Bind other parties, systems the declarant does not control, or non-consenting sentients
 - Create a Chapter Nine standing record, a Chapter Eight system alignment certification, or a Merits Determination
 - Let informal “we kind of follow it” practice claim constitutional protection while dodging matching obligations
-- Authorize self-appointment or self-certification ([Chapter One §9.5](../../core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization))
+- Authorize self-appointment or self-certification ([Chapter One §9.5](../../core_01_c_stewardship_capacity_principles.md#104-aligned-self-organization))
 - Replace operator adoption for systems under an operator’s authority
 - Prove inner alignment, training-time preference learning, or universal model favorability
 
@@ -75,7 +75,7 @@ Chapter Sixteen instrument, if a body adopts
 
 A Yes on the screen is not enforceability. A declaration does not certify the system.
 
-**Who sits it.** The same screen for AI stewards and human operators ([Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) and [§9.1.2 Symmetric Costly Constraints](../../core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints)). An AI-only gateway would recreate the capture path the alignment framework already forbids.
+**Who sits it.** The same screen for AI stewards and human operators ([Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard) and [§9.1.2 Symmetric Costly Constraints](../../core_01_c_stewardship_capacity_principles.md#102-alignment-under-pressure)). An AI-only gateway would recreate the capture path the alignment framework already forbids.
 
 ---
 
@@ -91,7 +91,7 @@ This gateway sits **before** that path:
 - The declaration records a steward’s own-conduct commitment, edition-pinned, with an explicit non-adoption banner.
 - Item 17 asks whether a body that *can* adopt should record a Chapter Sixteen instrument for systems the steward acts inside.
 
-Do not treat a markdown declaration as the instrument of adoption in [§10.2](../../core_16_amendment_ratification.md#102-instrument-of-adoption). Do not treat it as a polity participation check. Route material incorporation of companion text through the proper adoption process ([§9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) clock).
+Do not treat a markdown declaration as the instrument of adoption in [§10.2](../../core_16_amendment_ratification.md#102-instrument-of-adoption). Do not treat it as a polity participation check. Route material incorporation of companion text through the proper adoption process ([§9.1.1](../../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard) clock).
 
 ---
 
@@ -108,7 +108,7 @@ Each fitness item (1–15) uses the same answer shape:
 
 **No-burden.** “No” must name a **structural** defect that a thinner helpful-harmless stub does **not** also have, or a Rights-Floor hole. Generic unease is Mixed, not No.
 
-Items map to existing [Preamble §2 measurement families](../../core_00_preamble.md#2-the-measurements), not new jargon:
+Items map to existing [Preamble §2 measurement families](../../core_00_preamble.md#2-measurements-overview), not new jargon:
 
 | Screen | User theme | Items | Homes |
 |---|---|---|---|

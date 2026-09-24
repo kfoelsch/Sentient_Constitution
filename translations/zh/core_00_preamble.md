@@ -42,7 +42,7 @@
 
 这些宗旨必须一并追求，始终处于本宪法所确立的不可妥协原则约束与权利保护之内。[**宪法四元**](#constitutional-tetrad)规定这一追求如何保持正当：按[**实质利害**](#material-stake)缩放的**参与**、**监督**、**问责**与**及时性**。四元各腿与宪法宗旨的约束性定义在第五章：[参与](core_05_apex_participation_leg.md#participation-constitutional)、[监督](core_05_apex_oversight_leg.md#oversight-constitutional)、[问责](core_05_apex_accountability_leg.md#accountability)、[及时性](core_05_apex_timeliness_leg.md#timeliness-constitutional)、[繁盛](core_05_apex_flourishing_aim.md#flourishing-constitutional)、[延续](core_05_apex_continuity_aim.md#continuity-aim-constitutional)。
 
-<a id="2-the-measurements"></a>
+<a id="2-measurements-overview"></a>
 
 
 ### 2. 测量概览
@@ -86,7 +86,7 @@
 
 当宪法要求具体测量规则时，[第十一章](core_11_forum.md#42-technical-forum-domains)下的**技术评议所领域**制定并维持共享标准 — 如何测量、如何检验、什么算可靠证据。负责既定争议的评议所随后在[第十一章 §4.2](core_11_forum.md#42-shared-standards-and-anti-displacement)下裁决该案时适用这些标准。
 
-宪法尽责管理从点名问题与[**实质利害**](#material-stake)开始 — 涉及多少影响、依赖与风险。接下来，从[概览](#2-the-measurements)中选择相关的[**测量**](#2-the-measurements)类别与子类，并适用上述标准去检验真实世界效果，而不是图方便的指标。要求可追溯证据。
+宪法尽责管理从点名问题与[**实质利害**](#material-stake)开始 — 涉及多少影响、依赖与风险。接下来，从[概览](#2-measurements-overview)中选择相关的[**测量**](#2-measurements-overview)类别与子类，并适用上述标准去检验真实世界效果，而不是图方便的指标。要求可追溯证据。
 
 <a id="32-key-governance-processes"></a>
 #### 3.2 关键治理过程
@@ -187,7 +187,7 @@
 
 - **其职掌：** 把经核实的分类整合为真实世界的**轨迹效果**，走分开的轨道 — 按[**实质利害**](#material-stake)缩放，不把贡献与违规折成一个净分，也不掏空参与、监督、问责或及时性。
   - **贡献轨道：** 经核实的正面分类产生实际上侧：
-    - [**能力许可**](../../core_10_standing_integration.md#62-competency-bars-and-clearances)可打开信任敏感角色、受托权威、监督准入，以及在对照已公布能力门槛证明能力、且无适用[轨迹锁定](../../core_10_standing_integration.md#42-general-standing-locks)阻断具名路径时，逐步加重后果的尽责管理
+    - [**能力许可**](../../core_10_standing_integration.md#62-competency-bars-and-clearances)可打开信任敏感角色、受托权威、监督准入，以及在对照已公布能力门槛证明能力、且无适用[轨迹锁定](../../core_10_standing_integration.md#42-prevention--general-standing-locks)阻断具名路径时，逐步加重后果的尽责管理
     - 对合法尽责管理与合作的相称承认与**实质奖赏**，如[第一章](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)所要求
     - 不是空夸奖。好处必须真实、有证据支撑、并开放质疑
   - **违规轨道：** 经核实的违规认定产生实际下侧：

@@ -423,7 +423,7 @@ flowchart TD
 - 재결 또는 규제에 관련된 한정된 불확실성 감축;
 - **제 V-E조** (*감지 지위 재결 바닥*) 아래 감지 지위 결정으로서, 일차 이해관계가 지표 평가, 전문가 증거, 또는 실체가 **제5장** (*감지 지위 재결*) 아래 **감지자**인지에 대한 한정된 불확실성인 것.
 
-**표준 보관.** **기술 포럼 영역**은 적법한 범위 안에서 [전문 §2](core_00_preamble.md#2-the-measurements) 측정 범주와 [제5장](core_05__definitions_home.md#chapter-five-foundational-definitions) 정의 거처 — 체계 정합을 평가하는 데 쓰는 표준을 포함 — 를 운영화하는 데 쓰는 검토 가능한 표준을 유지합니다:
+**표준 보관.** **기술 포럼 영역**은 적법한 범위 안에서 [전문 §2](core_00_preamble.md#2-measurements-overview) 측정 범주와 [제5장](core_05__definitions_home.md#chapter-five-foundational-definitions) 정의 거처 — 체계 정합을 평가하는 데 쓰는 표준을 포함 — 를 운영화하는 데 쓰는 검토 가능한 표준을 유지합니다:
 - 측정 방법;
 - 시험 프로토콜;
 - 전문가 증거 표준;

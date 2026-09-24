@@ -16,7 +16,7 @@ Small communities retain the existing disinterested-relying-body route. One rely
 
 ## Changes
 
-- [Chapter Eight §§3.1 and 3.7](../../core_08_standing_assessment.md#37-segregation-of-duties): distinguish authorization from entry, remove the small-scope exception, and correct the watershed example and explanatory wording.
+- [Chapter Eight §§3.1 and 3.7](../../core_09_standing_assessment.md#37-segregation-of-duties): distinguish authorization from entry, remove the small-scope exception, and correct the watershed example and explanatory wording.
 - [CI-3.6](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md): give the charter's verification and custody fields the same division of duties.
 - [CI-22](../../corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md): remove the permission for the custodian to verify the same record.
 - [CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation): make the failure test reject prohibited pairings even when a merged-hosting safeguard is published.

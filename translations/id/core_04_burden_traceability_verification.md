@@ -196,7 +196,7 @@ Di mana ketidakpastian mencegah demonstrasi kepatuhan yang definitif bagi kompon
 
 - Hulu: [Bab Dua — Struktur Definisi dan Persyaratan Komponen](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements); [Bab Tiga — Integritas Definisi, Pengelakan, dan Ketidakpatuhan](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance); [Bab Empat, bagian 1 sampai 5](#1-exclusive-enforcement-and-burden-allocation).
 - Hilir: [Bab Tujuh — Sertifikasi Keselarasan Sistem](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [Bab Delapan — Model Kontribusi, Pelanggaran, dan Jejak](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
-- Baca bersama: [Bab Tujuh §16 — Pembukaan Ulang, Ketidakselarasan, dan Anti-Pengelakan](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — ketidakpatuhan terverifikasi di bawah Bab Dua sampai Empat dapat membuka ulang atau mengalahkan sertifikasi terlepas dari pengakuan sebelumnya.
+- Baca bersama: [Bab Tujuh §16 — Pembukaan Ulang, Ketidakselarasan, dan Anti-Pengelakan](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) — ketidakpatuhan terverifikasi di bawah Bab Dua sampai Empat dapat membuka ulang atau mengalahkan sertifikasi terlepas dari pengakuan sebelumnya.
 
 </details>
 

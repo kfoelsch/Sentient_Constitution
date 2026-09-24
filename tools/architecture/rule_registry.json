@@ -87,6 +87,13 @@
       "status": "blocking"
     },
     {
+      "id": "LINK-OFF-CORPUS-15",
+      "legacy_ref": "section 4 link destinations",
+      "summary": "Binding corpus link targets stay in-repository (relative path or #fragment); support documents may cite external sources but never machine-local targets (file://, editor preview URLs, home or drive paths, localhost).",
+      "make_target": "external-link-audit",
+      "status": "blocking"
+    },
+    {
       "id": "CH5-GRAVITY",
       "legacy_ref": "section 4 admission gate",
       "summary": "Chapter Five definitions exclude institutional machinery and rights gloss density.",
@@ -327,7 +334,7 @@
     {
       "id": "SUPPORT-DOC-POINTER-01",
       "legacy_ref": "binding corpus must not depend on doc_architecture for meaning or routing",
-      "summary": "Binding corpus may cite doc_architecture only when classifying it as non-binding/support or as a reading-chain footer terminus.",
+      "summary": "Binding corpus may cite doc_architecture only when classifying it as non-binding/support or as a reading-chain footer terminus, and must not route through a README section (README.md#…); bare README links for reading order, edition identifiers, and footers stay allowed.",
       "make_target": "support-doc-pointer-audit",
       "status": "blocking"
     },

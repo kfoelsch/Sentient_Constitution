@@ -1995,7 +1995,7 @@ Le Chapitre un fixe la direction. Les revendications des sortes suivantes doiven
 
 Les facteurs d’évaluation détaillés et les registres de certification sont détenus par :
 - **[Chapitre sept §3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)** ;
-- **[Chapitre sept §11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record)** ;
+- **[Chapitre sept §11](../../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record)** ;
 - **[corpus_systems.md](../../corpus_systems.md), CS-3 — Classification et traitement des systèmes**.
 
 Ce processus du Chapitre sept :

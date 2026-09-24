@@ -42,7 +42,7 @@ Nous entendons construire de meilleurs systèmes — structurés pour éliminer 
 
 Ces fins doivent être poursuivies ensemble, toujours à l’intérieur des contraintes de principe non négociables et des protections de droits établies dans cette Constitution. La [**Tétrade constitutionnelle**](#constitutional-tetrad) gouverne comment cette poursuite reste légitime : **participation**, **supervision**, **reddition de comptes** et **action en temps** mises à l’échelle de l’[**enjeu matériel**](#material-stake). Les définitions contraignantes des jambes de la Tétrade et des fins constitutionnelles vivent au chapitre cinq : [Participation](core_05_apex_participation_leg.md#participation-constitutional), [Supervision](core_05_apex_oversight_leg.md#oversight-constitutional), [Reddition de comptes](core_05_apex_accountability_leg.md#accountability), [Action en temps](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Épanouissement](core_05_apex_flourishing_aim.md#flourishing-constitutional) et [Continuité](core_05_apex_continuity_aim.md#continuity-aim-constitutional).
 
-<a id="2-the-measurements"></a>
+<a id="2-measurements-overview"></a>
 
 
 ### 2. Aperçu des mesures
@@ -86,7 +86,7 @@ La compréhension distribuée et l’administration responsable exigent que les 
 
 Lorsque la Constitution exige des règles de mesure concrètes, les **Domaines techniques de forum** sous le [chapitre onze](core_11_forum.md#42-technical-forum-domains) élaborent et tiennent les normes partagées — comment mesurer, comment tester, et ce qui compte comme preuve fiable. Le forum responsable d’un différend donné applique ensuite ces normes en tranchant cette affaire sous le [chapitre onze §4.2](core_11_forum.md#42-shared-standards-and-anti-displacement).
 
-L’administration responsable constitutionnelle commence par nommer le problème et l’[**enjeu matériel**](#material-stake) — combien d’impact, de dépendance et de risque sont en cause. Ensuite, choisissez la catégorie et la sous-catégorie de [**mesure**](#2-the-measurements) pertinentes de l’[aperçu](#2-the-measurements) et appliquez les normes ci-dessus pour tester des effets du monde réel plutôt que des métriques de commodité. Exigez une preuve traçable.
+L’administration responsable constitutionnelle commence par nommer le problème et l’[**enjeu matériel**](#material-stake) — combien d’impact, de dépendance et de risque sont en cause. Ensuite, choisissez la catégorie et la sous-catégorie de [**mesure**](#2-measurements-overview) pertinentes de l’[aperçu](#2-measurements-overview) et appliquez les normes ci-dessus pour tester des effets du monde réel plutôt que des métriques de commodité. Exigez une preuve traçable.
 
 <a id="32-key-governance-processes"></a>
 #### 3.2 Processus clés de gouvernance
@@ -187,7 +187,7 @@ Chaque pas ci-dessous énonce ce qui revient au chapitre et ce qu’il produit. 
 
 - **Ce qui lui revient :** Intègre les classifications vérifiées en **effets de trajectoire** du monde réel sur des pistes séparées — mis à l’échelle de l’[**enjeu matériel**](#material-stake), sans plier contribution et infraction en un seul score net, et sans vider participation, supervision, reddition de comptes ou action en temps.
   - **Piste de contribution :** La classification positive vérifiée produit un gain pratique :
-    - des [**habilitations de compétence**](../../core_10_standing_integration.md#62-competency-bars-and-clearances) qui peuvent ouvrir des rôles sensibles à la confiance, une autorité déléguée, l’éligibilité à la supervision et une administration responsable de conséquence progressive lorsque la compétence est démontrée contre la barre de compétence publiée et qu’aucun [verrou de trajectoire](../../core_10_standing_integration.md#42-general-standing-locks) applicable ne ferme la voie nommée
+    - des [**habilitations de compétence**](../../core_10_standing_integration.md#62-competency-bars-and-clearances) qui peuvent ouvrir des rôles sensibles à la confiance, une autorité déléguée, l’éligibilité à la supervision et une administration responsable de conséquence progressive lorsque la compétence est démontrée contre la barre de compétence publiée et qu’aucun [verrou de trajectoire](../../core_10_standing_integration.md#42-prevention--general-standing-locks) applicable ne ferme la voie nommée
     - reconnaissance proportionnée et **récompenses matérielles** pour l’administration responsable licite et la coopération, comme l’exige le [chapitre un](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)
     - Pas une louange vide. Les bénéfices doivent être réels, étayés par la preuve, et ouverts à contestation
   - **Piste d’infraction :** Les constatations d’infraction vérifiées produisent une perte pratique :

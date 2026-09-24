@@ -196,7 +196,7 @@
 
 - మూలం: [అధ్యాయం రెండు — నిర్వచన నిర్మాణం మరియు భాగ అవసరాలు](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements); [అధ్యాయం మూడు — నిర్వచన సమగ్రత, తప్పించుకోవడం, మరియు అనుసరణ-కాదు](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance); [అధ్యాయం నాలుగు, విభాగాలు 1 నుండి 5](#1-exclusive-enforcement-and-burden-allocation).
 - గమ్యం: [అధ్యాయం ఏడు — వ్యవస్థ అనుగుణత ధృవీకరణ](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [అధ్యాయం ఎనిమిది — సహకారం, ఉల్లంఘన, ప్రస్థితి నమూనా](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
-- దీనితో చదవండి: [అధ్యాయం ఏడు §16 — తిరిగి తెరవడం, అసమతుల్యత, మరియు తప్పించుకోవడం-నిరోధం](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — అధ్యాయాలు రెండు నుండి నాలుగు కింద ధృవీకరించిన అనుసరణ-కాదు మునుపటి గుర్తింపు ఏమైనా ధృవీకరణను తిరిగి తెరవగలదు లేదా ఓడించగలదు.
+- దీనితో చదవండి: [అధ్యాయం ఏడు §16 — తిరిగి తెరవడం, అసమతుల్యత, మరియు తప్పించుకోవడం-నిరోధం](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) — అధ్యాయాలు రెండు నుండి నాలుగు కింద ధృవీకరించిన అనుసరణ-కాదు మునుపటి గుర్తింపు ఏమైనా ధృవీకరణను తిరిగి తెరవగలదు లేదా ఓడించగలదు.
 
 </details>
 

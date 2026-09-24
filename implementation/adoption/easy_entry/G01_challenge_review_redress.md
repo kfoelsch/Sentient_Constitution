@@ -59,5 +59,5 @@ See: [Chapter Ten §4.1](../../../core_10_standing_integration.md#41-remedy-and-
 ## If you want to look further
 
 - Sibling guides: [`README.md`](README.md#process-guides)
-- Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
+- Public door: [`../../../README.md`](../../../README.md)
 - Chain map: [`../../PROCESS_PIPELINES_READER.md`](../../PROCESS_PIPELINES_READER.md)

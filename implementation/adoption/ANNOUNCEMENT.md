@@ -9,16 +9,16 @@
 >
 > **Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
 >
-> Public door: [`../../START_HERE.md`](../../START_HERE.md). Where it would actually fit: [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md). Two parties or a first qualifying body: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md). Day-to-day next steps: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md).
+> Public door: [`../../README.md`](../../README.md). Using or adopting it: [`../../START_HERE.md`](../../START_HERE.md). Where it would actually fit: [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md). Two parties or a first qualifying body: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md). Day-to-day next steps: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) (*model constitution; who may adopt*); [Chapter Sixteen §10](../../core_16_amendment_ratification.md#10-ratification-and-adoption) (*deliberate adoption, instrument, joining*); [Chapter Fifteen §5](../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law) (*non-displacement of applicable external law*); [Preamble §1](../../core_00_preamble.md#the-model) (*Constitutional Tetrad*; [material stake](../../core_00_preamble.md#material-stake)); [Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) (*shared stewardship standard*).
+- Upstream: [Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) (*model constitution; who may adopt*); [Chapter Sixteen §10](../../core_16_amendment_ratification.md#10-ratification-and-adoption) (*deliberate adoption, instrument, joining*); [Chapter Fifteen §5](../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law) (*non-displacement of applicable external law*); [Preamble §1](../../core_00_preamble.md#the-model) (*Constitutional Tetrad*; [material stake](../../core_00_preamble.md#material-stake)); [Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard) (*shared stewardship standard*).
 - Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-the-announcement); [§2](#2-say-and-do-not-say); [§3](#3-audience-notes); [§4](#4-publishing-checklist).
-- Read with: [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md); [`../../START_HERE.md`](../../START_HERE.md); [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) (*non-adoption banner*); [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) (*operations-guide use vs full adoption*; cut gates). This page does not close those gates.
+- Read with: [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md); [`../../README.md`](../../README.md); [`../../START_HERE.md`](../../START_HERE.md); [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) (*non-adoption banner*); [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) (*operations-guide use vs full adoption*; cut gates). This page does not close those gates.
 
 </details>
 
@@ -35,7 +35,7 @@ This page holds the public announcement for this Constitution and the rules for 
 
 This Constitution is a **model constitution** for systems that materially affect sentients ([Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)). It becomes enforceable for a particular body only after that body records a [Chapter Sixteen §10](../../core_16_amendment_ratification.md#10-ratification-and-adoption) instrument in its own custody. Until then the honest public invitation is: read it, use it as an operations guide, and say so plainly.
 
-Public readers land at [`../../START_HERE.md`](../../START_HERE.md). Fit ranking stays in [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md). This page does not add adopter types, duties, or a compliance path.
+Public readers land at [`../../README.md`](../../README.md). Would-be adopters and operators continue to [`../../START_HERE.md`](../../START_HERE.md). Fit ranking stays in [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md). This page does not add adopter types, duties, or a compliance path.
 
 ---
 
@@ -45,7 +45,7 @@ Public readers land at [`../../START_HERE.md`](../../START_HERE.md). Fit ranking
 This page does **not**:
 
 - Count as [Chapter Sixteen §10](../../core_16_amendment_ratification.md#10-ratification-and-adoption) adoption or [Chapter Seventeen](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation
-- Bind vendors, platforms, host products, or anyone else who did not consent ([Chapter One §9.5](../../core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization))
+- Bind vendors, platforms, host products, or anyone else who did not consent ([Chapter One §9.5](../../core_01_c_stewardship_capacity_principles.md#104-aligned-self-organization))
 - Drop the **pre-release** banner, bump `SC-Corpus-2026.08.09`, or stand in for a publication cut ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md))
 - Claim AI handoff readiness ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §6.5)
 
@@ -117,7 +117,8 @@ What it is not
 - It does not bind vendors, platforms, or anyone else who did not
   agree to it.
 
-Start: START_HERE.md
+Start: README.md
+Using or adopting it: START_HERE.md
 Where it fits: implementation/adoption/FIT_SITUATIONS.md
 License: CC BY 4.0
 ```
@@ -149,7 +150,7 @@ Any shorter version must still say **pre-release**, **not adoption**, **does not
 | **Core text controls.** If an operational file and a numbered `core_*` file disagree, the `core_*` file wins. Companion files spell out how to carry out what the core already requires; they may not change what those terms mean, shrink those duties, or invent a second set of rights ([Chapter Seventeen](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)). | “The whole corpus is ready to implement.” “The companion files are unofficial.” |
 | **Operations-guide use** is the near-term invitation ([FIT §2](FIT_SITUATIONS.md#2-two-modes)). Attach the [non-adoption banner](FIRST_ADOPTER_KIT.md#6-non-adoption-banner) to any shared file that is not a completed instrument. | “We follow it” as a marketing line ([FIT §5](FIT_SITUATIONS.md#5-honest-non-fits)). |
 | **Binds only what you run.** Vendors, host products, and non-consenting parties stay unbound. | “Labs and vendors in our stack are now bound.” |
-| **Same standard for both kinds of steward** ([Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)). | “AI stewards follow a separate ethics overlay.” |
+| **Same standard for both kinds of steward** ([Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard)). | “AI stewards follow a separate ethics overlay.” |
 | **Who may govern is a documented legitimacy mechanism** ([Preamble §3.3](../../core_00_preamble.md#33-governance-layers)). | “A token vote / standing score authorized this.” |
 | **Independent review** is an external reviewer or published backup the founding crew does not solely staff ([FORUM_FOUNDATION_KIT.md](FORUM_FOUNDATION_KIT.md) Track A). | “Our Slack / markdown panel is independent review.” |
 | **AI handoff trials remain open** ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §6.5). | “AI handoff is ready.” |
@@ -174,7 +175,7 @@ First-wave outreach is the four rows below. The fit ranking — with AI institut
 | **Cooperatives, universities, and joint labs** ([FIT §4.6](FIT_SITUATIONS.md#46-cooperatives-with-ai-members) / [§4.8](FIT_SITUATIONS.md#48-universities-and-joint-labs)) | Mixed crews that treat AI members as stewards can found an ordinary body, or adopt only the systems they can bind. Partial scope must stay honest and may not wipe the [non-regression floor](../../core_14_non_regression.md#1-non-regression-floor). | [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) Track A; [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) | A lab working group relabeled as [CI-7](../../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) oversight. |
 | **Critical-infrastructure operators** ([FIT §4.7](FIT_SITUATIONS.md#47-critical-infrastructure-ops-guide)) | Energy, water, care-platform, and scheduling operators can use the certification, continuity, remedy, and plain-challenge doors as an operations guide. | [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | “The city / utility has adopted the Sentient Constitution.” |
 
-Not in wave 1: new polities ([FIT §4.10](FIT_SITUATIONS.md#410-new-polities)); arXiv, Wikipedia, or training-data campaigns; any `llms.txt` beyond a pointer at `START_HERE.md`, the edition pin, and “not adoption.”
+Not in wave 1: new polities ([FIT §4.10](FIT_SITUATIONS.md#410-new-polities)); arXiv, Wikipedia, or training-data campaigns; any `llms.txt` beyond pointers at `README.md` and `START_HERE.md`, the edition pin, and “not adoption.”
 
 ---
 
@@ -191,12 +192,12 @@ GitHub settings once the repository is public (none of these drop **pre-release*
 
 | Surface | Set to |
 |---|---|
-| **Description / social preview** | The short form in [§1](#1-the-announcement); link [`../../START_HERE.md`](../../START_HERE.md) |
+| **Description / social preview** | The short form in [§1](#1-the-announcement); link [`../../README.md`](../../README.md) |
 | **Topics** | `constitution`, `ai-governance`, `stewardship`, `commons` |
-| **GitHub Pages** | Source `/docs` on the default branch until you switch. [`../../docs/index.md`](../../docs/index.md) is a thin pointer at `START_HERE.md`. Numbered core files (blob fallback): [`../../docs/corpus_index.md`](../../docs/corpus_index.md). To **render** numbered `core_*` files on Pages (same files, assembled at build time; not a second constitution), set Pages source to **GitHub Actions** and use [`.github/workflows/pages.yml`](../../.github/workflows/pages.yml) (`make pages-site` locally). If Pages is off, the file view of `START_HERE.md` is the public door. |
+| **GitHub Pages** | Source `/docs` on the default branch until you switch. [`../../docs/index.md`](../../docs/index.md) is a thin pointer at `README.md`. Numbered core files (blob fallback): [`../../docs/corpus_index.md`](../../docs/corpus_index.md). To **render** numbered `core_*` files on Pages (same files, assembled at build time; not a second constitution), set Pages source to **GitHub Actions** and use [`.github/workflows/pages.yml`](../../.github/workflows/pages.yml) (`make pages-site` locally). If Pages is off, the file view of `README.md` is the public door. |
 | **License** | Already [CC BY 4.0](../../LICENSE) |
 
-If `docs/index.md` and `START_HERE.md` diverge, **`START_HERE.md` wins**.
+If `docs/index.md` and `README.md` diverge, **`README.md` wins**.
 
 ---
 
@@ -204,7 +205,8 @@ If `docs/index.md` and `START_HERE.md` diverge, **`START_HERE.md` wins**.
 
 | Material | Job relative to this page |
 |---|---|
-| [`../../START_HERE.md`](../../START_HERE.md) | Public human front door |
+| [`../../README.md`](../../README.md) | Public front door for all readers |
+| [`../../START_HERE.md`](../../START_HERE.md) | Start page for would-be adopters and operators |
 | [`easy_entry/README.md`](easy_entry/README.md) | Second-person briefs for named situations. Soft case, not a sitting, not adoption |
 | [`../../docs/index.md`](../../docs/index.md) | Thin GitHub Pages pointer at that door |
 | [`../../docs/corpus_index.md`](../../docs/corpus_index.md) | `/docs` blob index of numbered `core_*` files (not a second constitution) |

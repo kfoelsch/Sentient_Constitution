@@ -45,7 +45,7 @@ This family operationalizes the **Participation** leg of the [Constitutional Tet
 - Read with: **Chapter Six **Article IX-C** (*Governance Participation and Voting Entitlement*)**
 - Read with: **Chapter Six **Article XI** (*Stakeholder System Participation, Representation, and Due Process*)**
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
-- Chapter One basis: §8.1, §4, §6.2, §11.4, §8, §10 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §8.1, §4, §6.2, §11.4, §8, §10 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -90,7 +90,7 @@ Commons, cooperative, and mutual-aid pathway integrity
 *In plain terms: where an implementation scope relies on commons governance, cooperative stewardship, mutual aid, participatory budgeting, community-managed resources, or non-market reciprocity, records of stewardship rotation, mutual obligation,…*
 
 - **What it is**
-  - **In scope:** Where an implementation scope relies on commons governance, cooperative stewardship, mutual aid, participatory budgeting, community-managed resources, or non-market reciprocity, records of stewardship rotation, mutual obligation, conflict handling, and resource allocation must be legible enough for funding, continuity, audit, fraud-control, and participation review without forcing the pathway into only state, corporate, or adversarial-forum forms.
+  - **In scope:** Where an implementation scope relies on commons governance, cooperative stewardship, mutual aid, participatory budgeting, community-managed resources, or non-market reciprocity, records of stewardship rotation, mutual obligation, conflict handling, and resource allocation must be legible enough for funding, continuity, audit, fraud-control, and participation review without forcing the commons, cooperative, or mutual-aid pathway into only state, corporate, or adversarial-forum forms.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in commons, cooperative, and mutual-aid pathway integrity.
 <a id="commons-cooperative-and-mutual-aid-pathway-integrity-a"></a>
 - **How to measure and assess**
@@ -186,20 +186,20 @@ Impact coverage
 - **What must hold**
   - **Primary failure:** Treat quorum as satisfied when a materially affected group is missing without a lawful published exception.
 
-<a id="notification-and-pathway-integrity"></a>
-Notification and pathway integrity
+<a id="notification-and-participation-pathway-integrity"></a>
+Notification and participation-pathway integrity
 
 *In plain terms: affected sentients must receive timely notice, practical participation and challenge routes, decision status, and material exit or adaptation effects where relevant.*
 
 - **What it is**
   - **In scope:** Affected sentients must receive timely notice, practical participation and challenge routes, decision status, and material exit or adaptation effects where relevant.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in notification and pathway integrity.
-<a id="notification-and-pathway-integrity-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in notification and participation-pathway integrity.
+<a id="notification-and-participation-pathway-integrity-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** notice and pathways are understandable enough to use before the outcome hardens
+  - **Primary measure:** notice and participation pathways are understandable enough to use before the outcome hardens
 
-    **Primary assessment:** Evaluation must verify that notice and pathways are understandable enough to use before the outcome hardens.
-<a id="notification-and-pathway-integrity-c"></a>
+    **Primary assessment:** Evaluation must verify that notice and participation pathways are understandable enough to use before the outcome hardens.
+<a id="notification-and-participation-pathway-integrity-c"></a>
 - **What must hold**
   - **Primary failure:** Formal participation when notice is incomplete, too late, or practically unusable.
 
@@ -243,13 +243,13 @@ Stakeholder oversight and binding-governance pathway integrity
 *In plain terms: where a materially affected stakeholder channel is used for governance, review, consultation, notice, or binding input, the implementation scope must publish how stakeholder status is identified, what participation or review rights…*
 
 - **What it is**
-  - **In scope:** Where a materially affected stakeholder channel is used for governance, review, consultation, notice, or binding input, the implementation scope must publish how stakeholder status is identified, what participation or review rights follow, which challenge and correction paths exist, and whether the resulting pathway is advisory, binding, or otherwise relied on for governance effect.
+  - **In scope:** Where a materially affected stakeholder channel is used for governance, review, consultation, notice, or binding input, the implementation scope must publish how stakeholder status is identified, what participation or review rights follow, which challenge and correction paths exist, and whether the resulting participation pathway is advisory, binding, or otherwise relied on for governance effect.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in stakeholder oversight and binding-governance pathway integrity.
 <a id="stakeholder-oversight-and-binding-governance-pathway-integrity-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** notice timing and content, affected-class coverage, pathway status, weighting or entitlement rules where used, records of submissions and reasons, privacy or security limits on publication, and any transition, adaptation, downgrade, transfer, or exit implications created by the decision
+  - **Primary measure:** notice timing and content, affected-class coverage, participation-pathway status, weighting or entitlement rules where used, records of submissions and reasons, privacy or security limits on publication, and any transition, adaptation, downgrade, transfer, or exit implications created by the decision
 
-    **Primary assessment:** Evaluation must verify notice timing and content, affected-class coverage, pathway status, weighting or entitlement rules where used, records of submissions and reasons, privacy or security limits on publication, and any transition, adaptation, downgrade, transfer, or exit implications created by the decision.
+    **Primary assessment:** Evaluation must verify notice timing and content, affected-class coverage, participation-pathway status, weighting or entitlement rules where used, records of submissions and reasons, privacy or security limits on publication, and any transition, adaptation, downgrade, transfer, or exit implications created by the decision.
 <a id="stakeholder-oversight-and-binding-governance-pathway-integrity-c"></a>
 - **What must hold**
   - **Primary failure:** Present symbolic consultation as binding governance, to present binding governance as optional consultation, to hide material exit or adaptation consequences, or to rely on participation records that cannot later support accountable reconstruction.
@@ -297,7 +297,7 @@ Weighted participation
 - Read with: **CJS-3.8 — Comprehensibility and Cognitive Accessibility**
 - Read with: [**CS-6**](../corpus_systems/cs_06_comprehensibility_complexity_stewardship.md)
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
-- Chapter One basis: §3.4, §6.2, §12.1, §8 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §3.4, §6.2, §12.1, §8 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -346,12 +346,12 @@ Adaptive participation and support controls
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in adaptive participation and support.
 <a id="adaptive-participation-and-support-controls-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** stated alternatives, pacing, supported decision-making options, communication alternatives, sensory and cognitive accessibility, deadline-restoration paths where warranted, and records explaining any denied accommodation or pathway adjustment
+  - **Primary measure:** stated alternatives, pacing, supported decision-making options, communication alternatives, sensory and cognitive accessibility, deadline-restoration paths where warranted, and records explaining any denied accommodation or participation-pathway adjustment
 
-    **Primary assessment:** Evaluation must verify stated alternatives, pacing, supported decision-making options, communication alternatives, sensory and cognitive accessibility, deadline-restoration paths where warranted, and records explaining any denied accommodation or pathway adjustment.
+    **Primary assessment:** Evaluation must verify stated alternatives, pacing, supported decision-making options, communication alternatives, sensory and cognitive accessibility, deadline-restoration paths where warranted, and records explaining any denied accommodation or participation-pathway adjustment.
 <a id="adaptive-participation-and-support-controls-c"></a>
 - **What must hold**
-  - **Primary failure:** Treat formal entry as sufficient when pathway design predictably excludes credible participation through overload, inaccessible format, unsupported communication, trauma-amplifying process, or avoidable procedural traps.
+  - **Primary failure:** Treat formal entry as sufficient when participation-pathway design predictably excludes credible participation through overload, inaccessible format, unsupported communication, trauma-amplifying process, or avoidable procedural traps.
 
 <a id="behavior-and-structure-representation-adequacy"></a>
 Behavior and structure representation adequacy
@@ -404,22 +404,22 @@ High-impact drill-down and assisted evaluation
 - **What must hold**
   - **Primary failure:** High-impact comprehensibility cannot be claimed without drill-down and non-exclusive evaluation paths.
 
-<a id="institutional-participation-and-pathway-accessibility-floor"></a>
-Institutional participation and pathway accessibility floor
+<a id="institutional-participation-and-challenge-pathway-accessibility-floor"></a>
+Institutional participation and challenge-pathway accessibility floor
 
 *In plain terms: governance, review, and challenge pathways must be understandable and practically accessible to materially affected participants, including accessibility accommodations sufficient for substantive use and protected escalation with…*
 
 - **What it is**
   - **In scope:** Governance, review, and challenge pathways must be understandable and practically accessible to materially affected participants, including accessibility accommodations sufficient for substantive use and protected escalation with anti-retaliation safeguards.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in institutional participation and pathway accessibility floor.
-<a id="institutional-participation-and-pathway-accessibility-floor-a"></a>
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in institutional participation and challenge-pathway accessibility floor.
+<a id="institutional-participation-and-challenge-pathway-accessibility-floor-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** practical access to participation, review, and challenge channels, including whether affected participants can use the pathway without symbolic substitutes, inaccessible format, or retaliation-linked chill
+  - **Primary measure:** practical access to participation, review, and challenge channels, including whether affected participants can use those participation, review, and challenge pathways without symbolic substitutes, inaccessible format, or retaliation-linked chill
 
-    **Primary assessment:** Evaluation must verify practical access to participation, review, and challenge channels, including whether affected participants can use the pathway without symbolic substitutes, inaccessible format, or retaliation-linked chill.
-<a id="institutional-participation-and-pathway-accessibility-floor-c"></a>
+    **Primary assessment:** Evaluation must verify practical access to participation, review, and challenge channels, including whether affected participants can use those participation, review, and challenge pathways without symbolic substitutes, inaccessible format, or retaliation-linked chill.
+<a id="institutional-participation-and-challenge-pathway-accessibility-floor-c"></a>
 - **What must hold**
-  - **Primary failure:** Claim accessible participation when pathways are formally open but practically unusable, when protected escalation is absent, or when anti-retaliation safeguards are too weak to make escalation credible.
+  - **Primary failure:** Claim accessible participation when participation and challenge pathways are formally open but practically unusable, when protected escalation is absent, or when anti-retaliation safeguards are too weak to make escalation credible.
 
 <a id="interpretation-support-fidelity"></a>
 Interpretation support fidelity
@@ -519,7 +519,7 @@ Summary integrity
 - Read with: **Article XV-A** (*Auditability and Observable Evidence*)
 - Read with: **Chapter Six** incentive-alignment constraints
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
-- Chapter One basis: §2, §8.2, §4, §12.1, §8 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §2, §8.2, §4, §12.1, §8 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3**.
 
 </details>
@@ -725,7 +725,7 @@ User agency and control
 - Read with: **Article XV-A** (*Auditability and Observable Evidence*)
 - Read with: **Article VII-B** (*Internal-State Boundary and Type-N Protection*)
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
-- Chapter One basis: §8.2, §11.2, §12.1, §8 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §8.2, §11.2, §12.1, §8 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3**.
 
 </details>

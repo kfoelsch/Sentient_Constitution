@@ -70,7 +70,7 @@ It complements:
 - [Stakeholder](../core_05_band_participation.md#stakeholder) · [O](../core_05_band_participation.md#stakeholder) · [M](../core_05_band_participation.md#stakeholder-a) · [A](../core_05_band_participation.md#stakeholder-a) · [C](../core_05_band_participation.md#stakeholder-c)
 - [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
 - [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
-- [Sentient](../core_05_band_participation.md#sentient-composite) · [O](../core_05_band_participation.md#sentient-composite) · [M](../core_05_band_participation.md#sentient-composite-a) · [A](../core_05_band_participation.md#sentient-composite-a) · [C](../core_05_band_integrative.md#sentient-composite-c)
+- [Sentient](../core_05_band_participation.md#sentient-composite) · [O](../core_05_band_participation.md#sentient-composite) · [M](../core_05_band_participation.md#sentient-composite-a) · [A](../core_05_band_participation.md#sentient-composite-a) · [C](../core_05_band_participation.md#sentient-composite-c)
 - [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
 - [Adjudication and Dispute Resolution](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
 - [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack) · [O](../core_05_band_integrative.md#authority-stack) · [M](../core_05_band_integrative.md#authority-stack-a) · [A](../core_05_band_integrative.md#authority-stack-a) · [C](../core_05_band_integrative.md#authority-stack-c)
@@ -106,7 +106,7 @@ Specialized seat categories, chamber qualifications, or role-specific competence
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Thirteen §5](../core_13_governance.md#5-authorized-roles-competency-development-and-contribution) authorized roles, competency development, and contribution; [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum-family routing; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Read with: **CF-16.1.1**; **CF-16.1**; **CF-16.2**; **CF-4**; **CF-8**; [**CI-4**](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*) and **CI-12** (*Transparency, participation, and accessible pathways*).
+- Read with: **CF-16.1.1**; **CF-16.1**; **CF-16.2**; **CF-4**; **CF-8**; [**CI-4**](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*) and **CI-8** (*Transparency, participation, and accessible challenge and service pathways*).
 
 </details>
 
@@ -125,7 +125,7 @@ Specialized seat categories, chamber qualifications, or role-specific competence
 
 <br>
 
-Each forum family must maintain a published and non-arbitrary pathway by which qualified sentients serving in forum-support roles may become eligible for adjudicative service. Covered support roles include, where applicable:
+Each forum family must maintain a published and non-arbitrary support-role-to-adjudicator pathway by which qualified sentients serving in forum-support roles may become eligible for adjudicative service. Covered support roles include, where applicable:
 
 - clerical forum workers and panel coordinators;
 - records and publication personnel;
@@ -137,7 +137,7 @@ Each forum family must maintain a published and non-arbitrary pathway by which q
 
 Support-role experience may count toward adjudicative competence when it demonstrates relevant knowledge of procedure, evidence, accessibility, record integrity, forum operations, or the subject-matter needs of a family or chamber. It must not create automatic entitlement to adjudicative authority.
 
-The pathway must include:
+The support-role-to-adjudicator pathway must include:
 - transparent readiness criteria tied to the family or chamber's published competence framework;
 - equitable capability-building access, including training, supervised service, mentorship, and competency-refresh opportunities proportionate to role impact;
 - role-separation safeguards so prior clerical, analytical, forensic, investigative, prosecutorial, advisory, or evidence-custody work in a matter does not later become unreviewed merits participation in the same matter;
@@ -145,7 +145,7 @@ The pathway must include:
 - reviewable records of advancement, denial, qualification, disqualification, and reserve-eligibility decisions;
 - a practical challenge route for arbitrary exclusion, patronage, retaliation, disguised protected-characteristic exclusion, credential hoarding, or capture by a narrow profession, funder, institution, or stakeholder network.
 
-Pathway design must preserve the distinction between support authority and merits authority. A forum may use support-role development to build a broader and more institutionally literate adjudicator pool, including reserve adjudicators under **CF-16.2**, but it must not use informal apprenticeship, staff hierarchy, or internal favor as a covert appointment system.
+Support-role-to-adjudicator pathway design must preserve the distinction between support authority and merits authority. A forum may use support-role development to build a broader and more institutionally literate adjudicator pool, including reserve adjudicators under **CF-16.2** (*Reserve, substitute, and surge capacity*), but it must not use informal apprenticeship, staff hierarchy, or internal favor as a covert appointment system.
 
 Where a support-role participant is considered for adjudicative service, the record must identify any prior matters, support assignments, dependency relationships, or institutional reporting lines that could reasonably bear on independence in the proposed adjudicative role. The resulting conflict record must remain available for panel formation, disclosure, recusal, and later review under **CF-4**.
 
@@ -231,7 +231,7 @@ The following patterns are non-compliant:
 - nominally independent specialist chambers that depend on the regulated sector, dominant profession, or interested institution for member selection, promotion, or livelihood in ways that predictably distort adjudication;
 - reserve-capacity designs that exist formally but cannot realistically be activated on short notice.
 
-Repeated resort to these patterns may be treated as a capture, evasion, or contestability failure under [**CI-8**](../corpus_institutions/ci_08_transparency_participation_accessible_pathways.md) (*Cross-institution coordination and escalation*) and related integrity provisions.
+Repeated resort to these patterns may be treated as a capture, evasion, or contestability failure under [**CI-12**](../corpus_institutions/ci_12_cross_institution_coordination_escalation.md) (*Cross-institution coordination and escalation*) and related integrity provisions.
 
 ### CF-16.5 Structural review and revision cadence
 
@@ -322,4 +322,4 @@ Each adopting entity must maintain and periodically update at least:
 
 **Previous file:** [cf_15_standard_records_forms_evidence_artifacts.md](cf_15_standard_records_forms_evidence_artifacts.md)
 
-**Next file:** [doc_architecture.md](doc_architecture.md)
+**Next file:** [doc_architecture.md](../doc_architecture.md)

@@ -12,8 +12,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad) (timeliness leg; [material stake](../core_00_preamble.md#material-stake) scaling); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims); primary aim [Flourishing](../core_00_preamble.md#flourishing).
-- Downstream: [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional) (*implements timeliness leg for resolution pathways*); **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*); [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums); [Tetrad Leg decomposition](#timeliness-tetrad-leg-decomposition); Timeliness-implementing leaf definitions in [core_05_band_accountability.md](core_05_band_accountability.md).
+- Upstream: [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) (timeliness leg; [material stake](core_00_preamble.md#material-stake) scaling); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); primary aim [Flourishing](core_00_preamble.md#flourishing).
+- Downstream: [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional) (*implements timeliness leg for resolution pathways*); **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*); [Preamble §6.2 How the full chain fits together](core_00_preamble.md#62-how-the-full-chain-fits-together); [Tetrad Leg decomposition](#timeliness-tetrad-leg-decomposition); Timeliness-implementing leaf definitions in [core_05_band_accountability.md](core_05_band_accountability.md).
 - Read with: [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways), [Accountability](core_05_apex_accountability_leg.md#accountability), [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency), [Avoidable Burden](core_05_band_continuity.md#avoidable-burden), [Stewardship Defect](core_05_band_continuity.md#stewardship-defect-constitutional), [Review and Correction Duty](core_05_band_continuity.md#review-and-correction-duty-constitutional), and [Stewardship](core_05_band_continuity.md#stewardship-constitutional).
 
 </details>
@@ -29,7 +29,7 @@
 #### Timeliness
 
 - O: Move problems through detection, challenge, resolution, and repair in time — the Tetrad leg this entry names.
-  - **In scope:** Principle-layer responsiveness duty scaling with [material stake](../core_00_preamble.md#material-stake) across:
+  - **In scope:** Principle-layer responsiveness duty scaling with [material stake](core_00_preamble.md#material-stake) across:
     - detection;
     - contestability;
     - resolution;
@@ -46,7 +46,7 @@
 - M: Are problems actually moving in time? This line only names what to look at; the rules for how to measure live on each linked definition. Topic map: [Tetrad Leg decomposition](#timeliness-tetrad-leg-decomposition).
 <a id="timeliness-constitutional-a"></a>
 - A:
-  - Judge under the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), scaled to [material stake](../core_00_preamble.md#material-stake).
+  - Judge under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake).
   - Ask whether timeliness is real — rights-preserving velocity, not raw throughput — not just ceremony.
   - Timeliness cross-cuts participation, oversight, and accountability but may be hollowed independently where formal structures exist but material problems do not move.
 <a id="timeliness-constitutional-c"></a>

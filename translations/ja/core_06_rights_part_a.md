@@ -332,12 +332,9 @@ This Article states **constitutional floors** for the material stewardship of du
 - **Environmental consistency:** Interpretation must remain consistent with **Article I**（《環境生存》）.
 - **第五章 scaling:** Read with 第五章 where ecological footprint, intergenerational responsibility, and materiality apply.
 
-The canonical 第五章 anchors for those concepts live in the **Article II-A**（《物質の責務ある管理とライフサイクルの誠実さ》） *定義 · 評価 · 遵守* widget, which is where this Article operatively invokes them. The opening sentence above is a roadmap pointer only — it does not re-invoke those concepts at the Article-opener level.
-
 Procedural detail for **Article II**（《物質の責務ある管理と耐久使用の誠実性》） lives in implementation text:
 
 - **Covered product categories**, qualified-maintainer standards, thresholds, and escrow and wind-down mechanics are governed by **[corpus_systems.md](../../corpus_systems.md)** — including **CS-5** and related material — and by **`corpus_institutions.md`** where designated.
-- Those owner layers must **implement** the **Article II**（《物質の責務ある管理と耐久使用の誠実性》） floors and must **not narrow** them.
 
 <a id="article-ii-a-material-stewardship-and-lifecycle-honesty"></a>
 #### Article II-A：物質の責務ある管理とライフサイクルの誠実さ

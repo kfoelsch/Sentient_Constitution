@@ -200,6 +200,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying)
 - [Harm](core_05_band_accountability.md#harm)
 - [Harm Minimization (Tradeoff Selection)](core_05_band_accountability.md#harm-minimization-tradeoff-selection)
+- [Heightened Scrutiny](core_05_band_oversight.md#heightened-scrutiny)
 - [High-Impact and Systemic Harm Publication Constraint](core_05_band_oversight.md#high-impact-and-systemic-harm-publication-constraint)
 - [Identity Data Protection](core_05_band_continuity.md#identity-data-protection)
 - [Incentive Alignment](core_05_band_integrative.md#incentive-alignment)
@@ -230,6 +231,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Materiality Determination](core_05_band_oversight.md#materiality-determination)
 - [Materiality Integrity Constraint](core_05_band_oversight.md#materiality-integrity-constraint)
 - [Materiality Under Uncertainty](core_05_band_oversight.md#materiality-under-uncertainty)
+- [Materially Binding Act](core_05_band_accountability.md#materially-binding-act)
 - [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record)
 - [Meaningful Agency](core_05_band_participation.md#meaningful-agency)
 - [Merits Determination](core_05_band_accountability.md#merits-determination)
@@ -371,7 +373,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims); [material stake](../core_00_preamble.md#material-stake); [Preamble §2 Measurements Overview](../core_00_preamble.md#measurements-overview).
+- Upstream: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); [material stake](core_00_preamble.md#material-stake); [Preamble §2 Measurements Overview](core_00_preamble.md#2-measurements-overview).
 - Downstream: constitutional orientation for all Chapter Five band definitions and **Def.** dependent clusters.
 - Read with: [Independent Definitions](core_05__definitions_home.md#1-independent-definitions), [§1.1 Invocation, satisfaction, and compliance](core_05__definitions_home.md#11-invocation-satisfaction-and-compliance), [§2.1 Joint invocation and satisfaction](core_05__definitions_home.md#21-joint-invocation-and-satisfaction), and [§2.2 Standalone definitions interaction and full context](core_05__definitions_home.md#22-standalone-definitions-interaction-and-full-context) meta rules before applying any dependent cluster.
 
@@ -381,7 +383,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 
 *In plain terms: Chapter Five is sorted by the two aims and the four Tetrad legs; this table says which file holds which cluster range.*
 
-Chapter Five definitions are sorted by the [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims) and the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad):
+Chapter Five definitions are sorted by the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) and the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad):
 
 **Constitutional bands**
 
@@ -408,9 +410,9 @@ Chapter Five definitions are sorted by the [Two Constitutional Aims](../core_00_
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
 >
-> [Preamble §2](../core_00_preamble.md#measurements-overview) lists seven constitutional **measurement categories** — the questions operators ask when evaluating systems. Chapter Five organizes **canonical definitions** by Tetrad leg, **Continuity** aim, and **Integrative** cross-leg ownership. The table below maps each measurement category to its Chapter Five homes. A category may span more than one band file; canonical homes do not move when measurement categories overlap.
+> [Preamble §2](core_00_preamble.md#2-measurements-overview) lists seven constitutional **measurement categories** — the questions operators ask when evaluating systems. Chapter Five organizes **canonical definitions** by Tetrad leg, **Continuity** aim, and **Integrative** cross-leg ownership. The table below maps each measurement category to its Chapter Five homes. A category may span more than one band file; canonical homes do not move when measurement categories overlap.
 >
-> **Materiality** ([Materiality Determination](core_05_band_oversight.md#materiality-determination)) is Integrative — a cross-cutting threshold gate that scales all measurement families under [material stake](../core_00_preamble.md#material-stake); it is not a separate category in the table below.
+> **Materiality** ([Materiality Determination](core_05_band_oversight.md#materiality-determination)) is Integrative — a cross-cutting threshold gate that scales all measurement families under [material stake](core_00_preamble.md#material-stake); it is not a separate category in the table below.
 
 | Ch00 category | Plain question | Chapter Five band homes | Split-placement notes |
 |---|---|---|---|

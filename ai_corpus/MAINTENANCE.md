@@ -95,4 +95,4 @@ JSON schemas in `ai_corpus/schemas/` define generated index shape. When adding f
 
 - `AI_NAVIGATION_GUIDE.md` — usage patterns
 - `QUICK_REFERENCE.md` — quick lookup
-- `plans/ai_corpus_optimization_plan.md` — original (now superseded in parts by the locator layer)
+- `project/plans/ai_corpus_optimization_plan.md` — original (now superseded in parts by the locator layer)

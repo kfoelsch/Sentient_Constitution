@@ -1,449 +1,246 @@
 # Sentient Constitution
 
-**If you found this repository:** start at [START_HERE.md](START_HERE.md). Asking where it would actually fit: [FIT_SITUATIONS.md](implementation/adoption/FIT_SITUATIONS.md).
+**A model constitution for systems that shape our lives, whether they are run by humans, by AI, or by both.**
 
-**Status:** **Pre-release** (`SC-Corpus-2026.08.09`). Opening this repository is not [Chapter Sixteen §10](core_16_amendment_ratification.md#10-ratification-and-adoption) adoption. License: [CC BY 4.0](LICENSE).
-
-**Core vs operational text.** Numbered `core_*` files (the Preamble and Chapters One through Seventeen) are the binding constitutional source and are in **much better shape**. Operational text outside those files — adopted implementation and process-support pages — is **not yet mature**. Core meaning controls. Do not treat operational files as a finished operator manual.
-
-This page is the editor map. Sequential chapter reading starts at the [Preamble](core_00_preamble.md).
-
-> **Start with the conceptual map:** [How the Sentient Constitution holds together](CONCEPTUAL_OVERVIEW.md) gives a reader-oriented view of the aims, principles, Rights Floor, definitions, data and system classifications, processes, forums, governance, and corpus relationships before the chapter-by-chapter reading path. It is non-operative support; reading it is not adoption.
-
-> **Then use the record map when traceability matters:** [How constitutional records hold action accountable](RECORD_OVERVIEW.md) distinguishes record families, evidence, effects, custody, and challenge routes. It is non-operative support; reading it is not adoption.
-
----
-
-# Constitution Corpus README
-
-Operative constitutional text for the **Sentient Constitution** lives in the numbered `core_*` files, read together as one instrument (**Chapters One through Seventeen**).
-
-## Edition
+<a id="edition"></a><a id="edition-table"></a>
+<details>
+<summary><strong><span style="color: #2563eb;">Pre-release draft: shared for reading and feedback, not yet in effect</span></strong></summary>
 
 | | |
 |---|---|
 | **Corpus edition** | `SC-Corpus-2026.08.09` |
 | **Effective date** | 2026-08-09 |
-| **Status** | **Pre-release.** Working text after the 2026-08-09 publication stamp; not yet a new cut. Fragment identifiers match current headings only — do not keep legacy or fossil anchors for retired fragments. |
+| **Status** | **Pre-release.** A working draft, not yet a final published edition. Section links may still change. |
+| **License** | [CC BY 4.0](LICENSE) |
 
-Custody and binding scope: [Chapter Five *Corpus*](core_05_band_integrative.md#corpus) and [Chapter Seventeen](core_17_incorporation.md). Bump the edition label only on a deliberate corpus publication cut.
+What "not yet in effect" means: [Is this in effect? ↓](#is-this-in-effect)
 
-## How to read
+</details>
+<br>
 
-1. **Chapter One** — the Preamble, then Values Principles (Part A), Interaction and Interpretation (Part B), and Stewardship and Governance (Part C).
-2. **Chapters Two through Five** — how definitions are built and verified, then the definition stack. Chapter Five is the **definition stack**, not the Rights Floor.
-3. **Chapter Six** — the Rights Floor, Articles I–XXVI, in Parts A–D.
-4. **Chapter Seven** — functional independence and segregation of duties: the cross-process four-seat floor that separates initiation, verification or authorization, record custody, and review of challenges.
-5. **Chapters Eight through Twelve** — the standing pipeline that enforces the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
-   - **Chapter Eight** — system alignment certification (one large audit process under **Article XV**, not the sole auditing home)
-   - **Chapter Nine** — verified standing records and Contribution Axis / Violation Axis measurement (Questions 1 and 2)
-   - **Chapter Ten** — integration and effects (Question 3)
-   - **Chapter Eleven** — anti-constitutional-misconduct designation only
-   - **Chapter Twelve** — forum families, jurisdiction, and cross-forum anti-self-judging
-6. **Chapters Thirteen through Seventeen** — governance, non-regression, supremacy, amendment and ratification, and the incorporation bridge.
+**[Quick find](#quick-find)** · [Common questions](implementation/FAQ.md) · [The full text](#the-full-text) · [Using or adopting it](START_HERE.md)
 
-Public process map of the Key Practical Process Pipelines (certification → standing measurement → forums → remedy) → [`implementation/PROCESS_PIPELINES_READER.md`](implementation/PROCESS_PIPELINES_READER.md) (process support; cannot narrow core).
+---
 
-Affected-reader process guides (challenge, independent review, certification, help and harm, crisis clocks) → [`implementation/adoption/easy_entry/README.md#process-guides`](implementation/adoption/easy_entry/README.md#process-guides). Timed reading paths (15 minutes / 45 minutes / 2 hours) → [`START_HERE.md`](START_HERE.md#reading-paths). Everyday questions → [`implementation/FAQ.md`](implementation/FAQ.md). Rights Floor wall sheet (generated) → [`doc_architecture/generated/rights_floor_sheet.md`](doc_architecture/generated/rights_floor_sheet.md).
+<a id="read-in-your-language"></a>
+## Read in your language
 
-The corpus is written in plain language with low jargon to improve accessibility, audit readability, and adoption testing.
+[Español](translations/es/README.md) · [हिन्दी](translations/hi/README.md) · [العربية](translations/ar/README.md) · [Bahasa Indonesia](translations/id/README.md) · [中文](translations/zh/README.md) · [Português](translations/pt/README.md) · [বাংলা](translations/bn/README.md) · [Français](translations/fr/README.md) · [اردو](translations/ur/README.md) · [Русский](translations/ru/README.md) · [日本語](translations/ja/README.md) · [Türkçe](translations/tr/README.md) · [मराठी](translations/mr/README.md) · [Tiếng Việt](translations/vi/README.md) · [فارسی](translations/fa/README.md) · [తెలుగు](translations/te/README.md) · [한국어](translations/ko/README.md) · [தமிழ்](translations/ta/README.md) · [ไทย](translations/th/README.md)
 
-## Core files by topic
+These are early draft translations and do not cover every chapter yet. Where a translation and the English text differ, the English text is the one that counts. [All languages and what's available](translations/README.md) · [Help translate](CONTRIBUTING.md#lane-f)
 
-### Values and principles
+## What is this?
 
-- **Preamble** — [`core_00_preamble.md`](core_00_preamble.md)
-- **Chapter One, Part A** (Values Principles, §§1–5) — [`core_01_a_values_principles.md`](core_01_a_values_principles.md)
-- **Chapter One, Part B** (Interaction and Interpretation, §§6–8) — [`core_01_b_interaction_interpretation.md`](core_01_b_interaction_interpretation.md)
-- **Chapter One, Part C** (Stewardship and Governance, §§9–15; **§15** integrated application capstone) — [`core_01_c_stewardship_capacity_principles.md`](core_01_c_stewardship_capacity_principles.md)
+Large systems (companies, platforms, public institutions, and AI) make decisions that affect all of us every day. Things go wrong when those systems hide what they do, shut out those they affect, or can't be held to account in time.
 
-### Definition mechanics and definitions
+The Sentient Constitution is a written framework meant to prevent that. It asks four things of anyone who runs a system that affects others:
 
-- **Chapter Two** (definition structure and component alignment) — [`core_02_definition_structure.md`](core_02_definition_structure.md)
-- **Chapter Three** (definition integrity, evasion, and non-compliance) — [`core_03_definition_integrity.md`](core_03_definition_integrity.md)
-- **Chapter Four** (burden, traceability, verification) — [`core_04_burden_traceability_verification.md`](core_04_burden_traceability_verification.md)
-- **Chapter Five** (foundational definitions)
-  - Part A — compass, reader guidance, directory, dependent-cluster meta rules — [`core_05__definitions_home.md`](core_05__definitions_home.md)
-  - Accountability leg — [`core_05_apex_accountability_leg.md`](core_05_apex_accountability_leg.md)
-  - Continuity aim — [`core_05_apex_continuity_aim.md`](core_05_apex_continuity_aim.md)
-  - Flourishing aim — [`core_05_apex_flourishing_aim.md`](core_05_apex_flourishing_aim.md)
-  - Oversight leg — [`core_05_apex_oversight_leg.md`](core_05_apex_oversight_leg.md)
-  - Participation leg — [`core_05_apex_participation_leg.md`](core_05_apex_participation_leg.md)
-  - Timeliness leg — [`core_05_apex_timeliness_leg.md`](core_05_apex_timeliness_leg.md)
-  - Accountability band — Independent / Semi-independent / **Def.A1–Def.A4** — [`core_05_band_accountability.md`](core_05_band_accountability.md)
-  - Continuity band — Independent / Semi-independent / **Def.C1–Def.C4** — [`core_05_band_continuity.md`](core_05_band_continuity.md)
-  - Integrative band — Independent / Semi-independent / **Def.I1** — [`core_05_band_integrative.md`](core_05_band_integrative.md)
-  - Oversight band — Independent / Semi-independent / **Def.O1–Def.O2** — [`core_05_band_oversight.md`](core_05_band_oversight.md)
-  - Participation band — Independent / Semi-independent / **Def.P1–Def.P3** — [`core_05_band_participation.md`](core_05_band_participation.md)
-  - Constitutional Performance band — Preamble measurement-family home — [`core_05_band_performance.md`](core_05_band_performance.md)
+- **Participation:** those affected get a real say.
+- **Oversight:** someone independent can check the work.
+- **Accountability:** decisions leave a record, and wrongs can be challenged and put right.
+- **Timeliness:** all of this happens fast enough to matter.
 
-### Functional independence
+The more a system affects the lives of others, the stronger these duties become. They serve two goals: that sentient beings **flourish**, and that they **endure** over the long term. Underneath everything sits the **Rights Floor**, a set of 26 articles of rights that no rule or decision may go below. Humans and AIs who help run these systems are held to the same standard.
 
-- **Chapter Seven** — functional independence and segregation of duties — [`core_07_functional_independence_segregation_of_duties.md`](core_07_functional_independence_segregation_of_duties.md)
+The Constitution calls everyone it protects **sentients**, because it does not assume that only humans count. See [Who counts, and who decides?](implementation/FAQ.md#3-who-counts-and-who-decides)
 
-### Standing pipeline and forums
+It is a *model* constitution. An organization (for example a cooperative, a research lab, an open-source community, or an AI institution) can choose to adopt it. Until one does, it is a proposal to read, test, and discuss.
 
-- **Chapter Eight** — system alignment certification before standing
-  - Part A — evaluation (§1–§10) — [`core_08_a_system_alignment_certification_evaluation.md`](core_08_a_system_alignment_certification_evaluation.md)
-  - Part B — record and process (§11–§16) — [`core_08_b_system_alignment_certification_record_process.md`](core_08_b_system_alignment_certification_record_process.md)
-  - Reading index — [`core_08_system_alignment_certification.md`](core_08_system_alignment_certification.md)
-- **Chapter Nine** — Questions 1 and 2: verified standing records and Contribution Axis / Violation Axis measurement — [`core_09_standing_assessment.md`](core_09_standing_assessment.md)
-- **Chapter Ten** — Question 3: integration, effects, restoration, and enforcement — [`core_10_standing_integration.md`](core_10_standing_integration.md)
-- **Chapter Eleven** — designation only — Part A [`core_11_a_misconduct_designation.md`](core_11_a_misconduct_designation.md); Part B [`core_11_b_misconduct_pattern_applications.md`](core_11_b_misconduct_pattern_applications.md)
-- **Chapter Twelve** — forum families, jurisdiction, supervision, and cross-forum anti-self-judging — [`core_12_forum.md`](core_12_forum.md)
-- **Chapters Nine–Twelve application vignettes** — illustrative walkthroughs; they do not add, remove, or narrow binding obligations — [`core_09-12_application_vignettes.md`](core_09-12_application_vignettes.md)
+<a id="reading-paths"></a>
+## Reading paths
 
-### Rights Floor
+You do not have to read everything. Pick the time you have; each path builds on the one before it.
 
-- **Chapter Six** (Articles I–XXVI in Parts A–D)
-  - Part A — Articles I–IV — [`core_06_rights_part_a.md`](core_06_rights_part_a.md)
-  - Part B — Articles V–XI — [`core_06_rights_part_b.md`](core_06_rights_part_b.md)
-  - Part C — Articles XII–XXI — [`core_06_rights_part_c.md`](core_06_rights_part_c.md)
-  - Part D — Articles XXII–XXVI (transition and re-baselining in **Article XXVI**) — [`core_06_rights_part_d.md`](core_06_rights_part_d.md)
+- **15 minutes:** this page's [What is this?](#what-is-this) and [Is this in effect?](#is-this-in-effect) sections, then [the model at the heart of the Preamble](core_00_preamble.md#the-model) (the four duties and two goals), then one [guide for an everyday situation](implementation/adoption/easy_entry/README.md#roster) that sounds like yours.
+- **45 minutes:** the 15-minute path, then [Rights at a glance](doc_architecture/generated/rights_floor_sheet.md), [how duties are kept separate](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) so no one judges their own case, [how the processes connect](implementation/PROCESS_PIPELINES_READER.md), one [process guide](implementation/adoption/easy_entry/README.md#process-guides), and one [worked example](core_09-12_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a).
+- **2 hours:** the 45-minute path, then the [Big-picture overview](guides/CONCEPTUAL_OVERVIEW.md), then [Chapter One, Part A](core_01_a_values_principles.md) (core values) and the [Rights Floor](core_06_rights_part_a.md) articles named in the guide you opened.
 
-### Governance, amendment, and incorporation
+**Thinking about using or adopting it?** Add [Using or adopting it: start here](START_HERE.md) to whichever path you choose. That page covers fit, the two ways to use the text, and the adoption kits.
 
-- **Chapter Thirteen** — constitutional contract, legitimacy, authorization, stewardship — [`core_13_governance.md`](core_13_governance.md)
-- **Chapter Fourteen** — non-regression and substantive amendment validity (Test 1) — [`core_14_non_regression.md`](core_14_non_regression.md)
-- **Chapter Fifteen** — expansion of protection, supremacy, external legal orders (including non-displacement of applicable law) — [`core_15_expansion_supremacy.md`](core_15_expansion_supremacy.md)
-- **Chapter Sixteen** — ratification, adoption, procedural validity (Tests 2–4) — [`core_16_amendment_ratification.md`](core_16_amendment_ratification.md)
-- **Chapter Seventeen** — incorporation bridge (adoption, custody, no silent drift) — [`core_17_incorporation.md`](core_17_incorporation.md)
+<a id="where-to-start"></a>
+## Quick find
 
-## Common lookups
+<details>
+<summary><strong><span style="color: #2563eb;">Jump to what you need: common questions, rights at a glance, word lookup, and more</span></strong></summary>
 
-- Burden of proof, traceability, verification → **Chapter Four**
-- Functional independence, the four seats, Materially Binding Act Records, prohibited combinations, substitutes, and wrong-seat routing → **Chapter Seven**
-- Constitutional Tetrad, Two Constitutional Aims, material stake → **Preamble §1 The Model**; Chapter One develops the aims into operative principles
-- Auditing / auditability / independent verification → **Article XV** is the floor; Chapter Five [Auditability](core_05_band_oversight.md#auditability) is the property; **[CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** is how/when. **Chapter Eight** is one large process that uses that stack — not the home
-- System alignment certification records → **Chapter Eight**
-- Contribution / violation records and measurement (Questions 1 and 2) → **Chapter Nine**
-- Standing integration and effects (Question 3) → **Chapter Ten**
-- Duty to resist unlawful or unconstitutional instructions → **[Chapter Ten §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)**
-- Remedy systems and enforcement realism → **Chapter Ten §9**; implementation → **CI-27**
-- Anti-constitutional misconduct designation only → **Chapter Eleven**
-- Relation to local / national / international law → **[Chapter Fifteen §5](core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)**
+| I want to… | Go here |
+|---|---|
+| Get oriented in 15 minutes, 45 minutes, or 2 hours | [Reading paths ↑](#reading-paths) |
+| Get help: a system has harmed me and I can't find where to turn | [*I can't find the door*](implementation/adoption/easy_entry/E15_cannot_find_the_door.md) |
+| Understand how the whole thing fits together (about 40 minutes, best after a first look) | [Big-picture overview](guides/CONCEPTUAL_OVERVIEW.md) |
+| Get quick answers ("Does this apply to me?", "Does it override the law?") | [Common questions](implementation/FAQ.md) |
+| See what it would mean for someone in my situation | [Guides for everyday situations](implementation/adoption/easy_entry/README.md) |
+| See all the rights on one page | [Rights at a glance](doc_architecture/generated/rights_floor_sheet.md) |
+| Read a plain-language version of every section | [Plain-terms edition](doc_architecture/generated/plain_terms_edition.md) |
+| Look up a word | [Word lookup](doc_architecture/generated/human_definition_lookup.md) |
+| Use or adopt it in my organization, lab, platform, or cooperative | [Using or adopting it: start here](START_HERE.md) |
+| Print it | [Print pack](implementation/PRINT_PACK.md) |
+| Read the actual text from the beginning | [The Preamble](core_00_preamble.md) |
 
-## Adopted implementation corpus
+</details>
+<br>
 
-The numbered `core_*` files state **why** and **what**. The adopted implementation files state **how** — taxonomies, protocols, institutions, forum operations, and joint interlocks. They **apply** Chapter Five terms; they do not redefine them or invent parallel rights.
+<a id="the-full-text"></a><a id="how-to-read"></a><a id="core-files-by-topic"></a><a id="standing-pipeline-and-forums"></a>
+<details>
+<summary><strong><span style="color: #2563eb;">The Constitution itself: the Preamble and Chapters 1–17</span></strong></summary>
 
-Designated obligations in these wrappers and their subfile directories are **binding implementation text incorporated by reference** under valid adoption. They do **not** create a second constitutional source.
+The Constitution is one document split into a Preamble and seventeen chapters. You can read it in order, or jump to the part you need. This is the authoritative text.
 
-- [**corpus_joint_structure.md**](corpus_joint_structure.md) — cross-implementation joint structure; substantive CJS text in `corpus_joint_structure/` (**CJS-2** interlocks, **CJS-3** operational cluster library, **CJS-0.1** topic router)
-- [**corpus_systems.md**](corpus_systems.md) — systems implementation; substantive CS text in `corpus_systems/` (**CS-2** information types, **CS-3** system classification, **CS-4** critical stewardship, named protocols)
-- [**corpus_institutions.md**](corpus_institutions.md) — institutional governance, oversight, proportionality-scaled formation, sanctions and dissolution
-- [**corpus_forum.md**](corpus_forum.md) — forum operations; substantive CF text in `corpus_forum/` (panel formation, recusal, review lanes, continuity, emergency adjudication)
+| Part | What it covers |
+|---|---|
+| [Preamble](core_00_preamble.md) | Why it exists: the four duties, the two goals, and how the pieces connect |
+| **Chapter 1**: [Part A](core_01_a_values_principles.md) · [Part B](core_01_b_interaction_interpretation.md) · [Part C](core_01_c_stewardship_capacity_principles.md) | Core values, how to read and apply the text, and what is expected of the humans and AIs who run systems |
+| **Chapters 2–4**: [2](core_02_definition_structure.md) · [3](core_03_definition_integrity.md) · [4](core_04_burden_traceability_verification.md) | How key terms are defined, protected against loopholes, and backed with evidence |
+| **Chapter 5**: [Definitions](core_05__definitions_home.md) | The dictionary: what each key term means ([all Chapter 5 files ↓](#chapter-five-files)) |
+| **Chapter 6**: [Part A](core_06_rights_part_a.md) · [Part B](core_06_rights_part_b.md) · [Part C](core_06_rights_part_c.md) · [Part D](core_06_rights_part_d.md) | **The Rights Floor**: Articles I–XXVI |
+| **Chapter 7**: [Separation of duties](core_07_functional_independence_segregation_of_duties.md) | No single individual or body can start, approve, keep the records of, and judge the same action |
+| **Chapter 8**: [Part A](core_08_a_system_alignment_certification_evaluation.md) · [Part B](core_08_b_system_alignment_certification_record_process.md) · [Index](core_08_system_alignment_certification.md) | Checking and certifying that a system meets the standard |
+| **Chapter 9**: [Standing assessment](core_09_standing_assessment.md) | Keeping verified records of what a participant has contributed and any violations |
+| **Chapter 10**: [Standing integration](core_10_standing_integration.md) | What those records lead to: effects, restoration, and remedies |
+| **Chapter 11**: [Part A](core_11_a_misconduct_designation.md) · [Part B](core_11_b_misconduct_pattern_applications.md) | Naming serious misconduct against the Constitution |
+| **Chapter 12**: [Forums](core_12_forum.md) | Review bodies and hearings, and why no one may judge their own case |
+| [Worked examples for Chapters 9–12](core_09-12_application_vignettes.md) | Illustrative stories showing the process in action (these add no new rules) |
+| **Chapter 13**: [Governance](core_13_governance.md) | Who may govern, and how that authority is granted and checked |
+| **Chapter 14**: [Non-regression](core_14_non_regression.md) | Protections can be strengthened but not rolled back |
+| **Chapter 15**: [Supremacy and other laws](core_15_expansion_supremacy.md) | How it relates to local, national, and international law |
+| **Chapter 16**: [Amendment and adoption](core_16_amendment_ratification.md) | How the text is changed, and how an organization formally adopts it |
+| **Chapter 17**: [Incorporation](core_17_incorporation.md) | How an adopting organization takes the text on and keeps it from quietly drifting |
 
-[Chapter Seventeen](core_17_incorporation.md) is the constitutional incorporation bridge. Operative enforcement within any adopter is contingent on valid adoption under **Chapter Sixteen** (ratification) and **Chapter Seventeen** (incorporation and custody). Substantive content stands as stated in the instrument regardless of adoption; "the instrument lacks jurisdiction" addresses enforcement against non-adopters, not a rebuttal of substantive claims. See Chapter Seventeen **§4** (*Adoption framing and scope of authority*).
+<a id="chapter-five-files"></a>
+**All Chapter 5 files:**
 
-## Binding vs support
+- [Definitions home](core_05__definitions_home.md): reader guidance and the directory of terms
+- The two goals: [Flourishing](core_05_apex_flourishing_aim.md) · [Continuity](core_05_apex_continuity_aim.md)
+- The four duties: [Participation](core_05_apex_participation_leg.md) · [Oversight](core_05_apex_oversight_leg.md) · [Accountability](core_05_apex_accountability_leg.md) · [Timeliness](core_05_apex_timeliness_leg.md)
+- Supporting terms: [Participation](core_05_band_participation.md) · [Oversight](core_05_band_oversight.md) · [Accountability](core_05_band_accountability.md) · [Continuity](core_05_band_continuity.md) · [Integrative](core_05_band_integrative.md) · [Constitutional Performance](core_05_band_performance.md)
 
-| Layer | What counts |
-|-------|-------------|
-| **Binding constitutional source** | Numbered `core_*` files ([`core_00_preamble.md`](core_00_preamble.md) through [`core_17_incorporation.md`](core_17_incorporation.md)) read as one instrument |
-| **Binding incorporated implementation** | Designated obligations in the adopted implementation wrappers and linked subfiles above, within valid adoption scope |
-| **Process / map support** | This README, the editor map [doc_architecture.md](doc_architecture.md), regression and evidence artifacts, and implementation notes unless explicitly adopted |
+</details>
+<br>
 
-**Maturity (not source-layer).** Numbered `core_*` files are in **much better shape**. Adopted implementation and process-support pages are **not yet mature**. If they disagree with a `core_*` file, the `core_*` file wins. Adopted implementation text spells out how to carry out what the core already requires; it may not change what those terms mean. Do not treat operational files as a finished operator manual.
+<a id="implementation-files"></a>
+<details>
+<summary><strong><span style="color: #2563eb;">Putting it into practice: the detailed rules for systems, organizations, and review panels</span></strong></summary>
 
-**Conflict order:** Sentient Constitution meaning controls. Use the **Authority Stack and Internal Hierarchy**, the [**Preamble owner register**](core_00_preamble.md#4-principles-definitions-and-rights), and [**Constitutional Constraint**](core_05_band_integrative.md#constitutional-constraint) to distinguish source-layer status, substantive owner routing, constraint kind, and last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, Sentient Constitution [Constitutional Constraints](core_05_band_integrative.md#constitutional-constraint).
+The Constitution says *what* must happen and *why*. These four collections spell out *how*. They bind only an organization that has adopted the Constitution, and they are still being developed. They cannot change what the Constitution says; if they ever disagree, the Constitution text wins.
 
-## Editors and operators
+| Collection | What it covers |
+|---|---|
+| [Systems and data](corpus_systems.md) | How systems and data are classified by how much they affect others, and how they are designed, tested, run, and kept accountable, including during transitions, attacks, and breakdowns |
+| [Institutions](corpus_institutions.md) | How organizations are formed, staffed, overseen, funded, corrected, and, if necessary, dissolved |
+| [Forums](corpus_forum.md) | How review panels are formed and kept independent, how cases and appeals move through them, and how hearings keep working under stress |
+| [Joint structure](corpus_joint_structure.md) | How the other three fit together when more than one of them applies to the same situation |
 
-- Editor map, ownership, stable IDs, and definition discipline — [doc_architecture.md](doc_architecture.md)
-- Repository integrity — `make regression`
-- Steward entry doors (process support; cannot narrow core text) — [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md)
-- Public front door (process support; cannot narrow core text; not itself adoption) — [`START_HERE.md`](START_HERE.md)
-- Vision statement — where the corpus stands, what mature means per layer, and the path to a publication cut (process support; cannot narrow core text) — [`VISION.md`](VISION.md)
-- Contributor framework — lanes, gates, workflow, and roles for human and AI contributors (process support; cannot narrow core text; contributing is not adoption) — [`CONTRIBUTING.md`](CONTRIBUTING.md)
-- Adoption process path (process support; cannot narrow core text; not itself adoption) — [`implementation/adoption/`](implementation/adoption/)
-- AI lookup CLI (process support; locators point, source binds) — [`ai_corpus/AI_NAVIGATION_GUIDE.md`](ai_corpus/AI_NAVIGATION_GUIDE.md) and `python3 tools/corpus_lookup.py`
-- Plain-terms edition (generated, non-binding; every core heading with its *In plain terms* gloss and one link back to the source) — [`doc_architecture/generated/plain_terms_edition.md`](doc_architecture/generated/plain_terms_edition.md) via `make plain-terms-edition`
-- Rights Floor wall sheet (generated, non-binding) — [`doc_architecture/generated/rights_floor_sheet.md`](doc_architecture/generated/rights_floor_sheet.md) via `make reader-accessibility`
-- GitHub Pages numbered-core blob index (does not copy `core_*` into `docs/`) — [`docs/corpus_index.md`](docs/corpus_index.md) via `make pages-corpus-index`
-- GitHub Pages full render (assembled at build time; not a second constitution) — `make pages-site` and [`.github/workflows/pages.yml`](.github/workflows/pages.yml)
-- Human definition lookup (generated, non-binding; not a second dictionary) — [`doc_architecture/generated/human_definition_lookup.md`](doc_architecture/generated/human_definition_lookup.md)
-- Spanish Preamble reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/es/core_00_preamble.md`](translations/es/core_00_preamble.md)
-- Hindi Preamble reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/hi/core_00_preamble.md`](translations/hi/core_00_preamble.md)
-- Arabic (MSA) Preamble reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ar/core_00_preamble.md`](translations/ar/core_00_preamble.md)
-- Indonesian Preamble reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/id/core_00_preamble.md`](translations/id/core_00_preamble.md)
-- Mandarin Preamble reader-language pilot (Simplified; non-binding; English source wins; not a shipping edition) — [`translations/zh/core_00_preamble.md`](translations/zh/core_00_preamble.md)
-- Portuguese (Brazilian) Preamble reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/pt/core_00_preamble.md`](translations/pt/core_00_preamble.md)
-- Bengali Preamble reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/bn/core_00_preamble.md`](translations/bn/core_00_preamble.md)
-- French Preamble reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/fr/core_00_preamble.md`](translations/fr/core_00_preamble.md)
-- Urdu Preamble reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ur/core_00_preamble.md`](translations/ur/core_00_preamble.md)
-- Spanish Chapter One Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/es/core_01_a_values_principles.md`](translations/es/core_01_a_values_principles.md)
-- Hindi Chapter One Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/hi/core_01_a_values_principles.md`](translations/hi/core_01_a_values_principles.md)
-- Arabic (MSA) Chapter One Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ar/core_01_a_values_principles.md`](translations/ar/core_01_a_values_principles.md)
-- Indonesian Chapter One Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/id/core_01_a_values_principles.md`](translations/id/core_01_a_values_principles.md)
-- Mandarin Chapter One Part A reader-language pilot (Simplified; non-binding; English source wins; not a shipping edition) — [`translations/zh/core_01_a_values_principles.md`](translations/zh/core_01_a_values_principles.md)
-- Portuguese (Brazilian) Chapter One Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/pt/core_01_a_values_principles.md`](translations/pt/core_01_a_values_principles.md)
-- Bengali Chapter One Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/bn/core_01_a_values_principles.md`](translations/bn/core_01_a_values_principles.md)
-- French Chapter One Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/fr/core_01_a_values_principles.md`](translations/fr/core_01_a_values_principles.md)
-- Urdu Chapter One Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ur/core_01_a_values_principles.md`](translations/ur/core_01_a_values_principles.md)
-- Spanish Chapter One Part B reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/es/core_01_b_interaction_interpretation.md`](translations/es/core_01_b_interaction_interpretation.md)
-- Hindi Chapter One Part B reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/hi/core_01_b_interaction_interpretation.md`](translations/hi/core_01_b_interaction_interpretation.md)
-- Arabic (MSA) Chapter One Part B reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ar/core_01_b_interaction_interpretation.md`](translations/ar/core_01_b_interaction_interpretation.md)
-- Indonesian Chapter One Part B reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/id/core_01_b_interaction_interpretation.md`](translations/id/core_01_b_interaction_interpretation.md)
-- Mandarin Chapter One Part B reader-language pilot (Simplified; non-binding; English source wins; not a shipping edition) — [`translations/zh/core_01_b_interaction_interpretation.md`](translations/zh/core_01_b_interaction_interpretation.md)
-- Portuguese (Brazilian) Chapter One Part B reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/pt/core_01_b_interaction_interpretation.md`](translations/pt/core_01_b_interaction_interpretation.md)
-- Bengali Chapter One Part B reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/bn/core_01_b_interaction_interpretation.md`](translations/bn/core_01_b_interaction_interpretation.md)
-- French Chapter One Part B reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/fr/core_01_b_interaction_interpretation.md`](translations/fr/core_01_b_interaction_interpretation.md)
-- Urdu Chapter One Part B reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ur/core_01_b_interaction_interpretation.md`](translations/ur/core_01_b_interaction_interpretation.md)
-- Russian Preamble reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ru/core_00_preamble.md`](translations/ru/core_00_preamble.md)
-- Japanese Preamble reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ja/core_00_preamble.md`](translations/ja/core_00_preamble.md)
-- Turkish Preamble reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/tr/core_00_preamble.md`](translations/tr/core_00_preamble.md)
-- Marathi Preamble reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/mr/core_00_preamble.md`](translations/mr/core_00_preamble.md)
-- Vietnamese Preamble reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/vi/core_00_preamble.md`](translations/vi/core_00_preamble.md)
-- Iranian Persian Preamble reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/fa/core_00_preamble.md`](translations/fa/core_00_preamble.md)
-- Telugu Preamble reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/te/core_00_preamble.md`](translations/te/core_00_preamble.md)
-- Korean Preamble reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ko/core_00_preamble.md`](translations/ko/core_00_preamble.md)
-- Tamil Preamble reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ta/core_00_preamble.md`](translations/ta/core_00_preamble.md)
-- Thai Preamble reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/th/core_00_preamble.md`](translations/th/core_00_preamble.md)
-- Russian Chapter One Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ru/core_01_a_values_principles.md`](translations/ru/core_01_a_values_principles.md)
-- Japanese Chapter One Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ja/core_01_a_values_principles.md`](translations/ja/core_01_a_values_principles.md)
-- Turkish Chapter One Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/tr/core_01_a_values_principles.md`](translations/tr/core_01_a_values_principles.md)
-- Marathi Chapter One Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/mr/core_01_a_values_principles.md`](translations/mr/core_01_a_values_principles.md)
-- Vietnamese Chapter One Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/vi/core_01_a_values_principles.md`](translations/vi/core_01_a_values_principles.md)
-- Iranian Persian Chapter One Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/fa/core_01_a_values_principles.md`](translations/fa/core_01_a_values_principles.md)
-- Telugu Chapter One Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/te/core_01_a_values_principles.md`](translations/te/core_01_a_values_principles.md)
-- Korean Chapter One Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ko/core_01_a_values_principles.md`](translations/ko/core_01_a_values_principles.md)
-- Tamil Chapter One Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ta/core_01_a_values_principles.md`](translations/ta/core_01_a_values_principles.md)
-- Thai Chapter One Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/th/core_01_a_values_principles.md`](translations/th/core_01_a_values_principles.md)
-- Russian Chapter One Part B reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ru/core_01_b_interaction_interpretation.md`](translations/ru/core_01_b_interaction_interpretation.md)
-- Japanese Chapter One Part B reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ja/core_01_b_interaction_interpretation.md`](translations/ja/core_01_b_interaction_interpretation.md)
-- Turkish Chapter One Part B reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/tr/core_01_b_interaction_interpretation.md`](translations/tr/core_01_b_interaction_interpretation.md)
-- Marathi Chapter One Part B reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/mr/core_01_b_interaction_interpretation.md`](translations/mr/core_01_b_interaction_interpretation.md)
-- Vietnamese Chapter One Part B reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/vi/core_01_b_interaction_interpretation.md`](translations/vi/core_01_b_interaction_interpretation.md)
-- Iranian Persian Chapter One Part B reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/fa/core_01_b_interaction_interpretation.md`](translations/fa/core_01_b_interaction_interpretation.md)
-- Telugu Chapter One Part B reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/te/core_01_b_interaction_interpretation.md`](translations/te/core_01_b_interaction_interpretation.md)
-- Korean Chapter One Part B reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ko/core_01_b_interaction_interpretation.md`](translations/ko/core_01_b_interaction_interpretation.md)
-- Tamil Chapter One Part B reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ta/core_01_b_interaction_interpretation.md`](translations/ta/core_01_b_interaction_interpretation.md)
-- Thai Chapter One Part B reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/th/core_01_b_interaction_interpretation.md`](translations/th/core_01_b_interaction_interpretation.md)
-- Spanish Chapter One Part C reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/es/core_01_c_stewardship_capacity_principles.md`](translations/es/core_01_c_stewardship_capacity_principles.md)
-- Hindi Chapter One Part C reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/hi/core_01_c_stewardship_capacity_principles.md`](translations/hi/core_01_c_stewardship_capacity_principles.md)
-- Arabic (MSA) Chapter One Part C reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ar/core_01_c_stewardship_capacity_principles.md`](translations/ar/core_01_c_stewardship_capacity_principles.md)
-- Indonesian Chapter One Part C reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/id/core_01_c_stewardship_capacity_principles.md`](translations/id/core_01_c_stewardship_capacity_principles.md)
-- Mandarin Chapter One Part C reader-language pilot (Simplified; non-binding; English source wins; not a shipping edition) — [`translations/zh/core_01_c_stewardship_capacity_principles.md`](translations/zh/core_01_c_stewardship_capacity_principles.md)
-- Portuguese (Brazilian) Chapter One Part C reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/pt/core_01_c_stewardship_capacity_principles.md`](translations/pt/core_01_c_stewardship_capacity_principles.md)
-- Bengali Chapter One Part C reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/bn/core_01_c_stewardship_capacity_principles.md`](translations/bn/core_01_c_stewardship_capacity_principles.md)
-- French Chapter One Part C reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/fr/core_01_c_stewardship_capacity_principles.md`](translations/fr/core_01_c_stewardship_capacity_principles.md)
-- Urdu Chapter One Part C reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ur/core_01_c_stewardship_capacity_principles.md`](translations/ur/core_01_c_stewardship_capacity_principles.md)
-- Russian Chapter One Part C reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ru/core_01_c_stewardship_capacity_principles.md`](translations/ru/core_01_c_stewardship_capacity_principles.md)
-- Japanese Chapter One Part C reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ja/core_01_c_stewardship_capacity_principles.md`](translations/ja/core_01_c_stewardship_capacity_principles.md)
-- Turkish Chapter One Part C reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/tr/core_01_c_stewardship_capacity_principles.md`](translations/tr/core_01_c_stewardship_capacity_principles.md)
-- Marathi Chapter One Part C reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/mr/core_01_c_stewardship_capacity_principles.md`](translations/mr/core_01_c_stewardship_capacity_principles.md)
-- Vietnamese Chapter One Part C reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/vi/core_01_c_stewardship_capacity_principles.md`](translations/vi/core_01_c_stewardship_capacity_principles.md)
-- Iranian Persian Chapter One Part C reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/fa/core_01_c_stewardship_capacity_principles.md`](translations/fa/core_01_c_stewardship_capacity_principles.md)
-- Telugu Chapter One Part C reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/te/core_01_c_stewardship_capacity_principles.md`](translations/te/core_01_c_stewardship_capacity_principles.md)
-- Korean Chapter One Part C reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ko/core_01_c_stewardship_capacity_principles.md`](translations/ko/core_01_c_stewardship_capacity_principles.md)
-- Tamil Chapter One Part C reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ta/core_01_c_stewardship_capacity_principles.md`](translations/ta/core_01_c_stewardship_capacity_principles.md)
-- Thai Chapter One Part C reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/th/core_01_c_stewardship_capacity_principles.md`](translations/th/core_01_c_stewardship_capacity_principles.md)
-- Spanish Chapter Two reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/es/core_02_definition_structure.md`](translations/es/core_02_definition_structure.md)
-- Hindi Chapter Two reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/hi/core_02_definition_structure.md`](translations/hi/core_02_definition_structure.md)
-- Arabic (MSA) Chapter Two reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ar/core_02_definition_structure.md`](translations/ar/core_02_definition_structure.md)
-- Indonesian Chapter Two reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/id/core_02_definition_structure.md`](translations/id/core_02_definition_structure.md)
-- Mandarin Chapter Two reader-language pilot (Simplified; non-binding; English source wins; not a shipping edition) — [`translations/zh/core_02_definition_structure.md`](translations/zh/core_02_definition_structure.md)
-- Portuguese (Brazilian) Chapter Two reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/pt/core_02_definition_structure.md`](translations/pt/core_02_definition_structure.md)
-- Bengali Chapter Two reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/bn/core_02_definition_structure.md`](translations/bn/core_02_definition_structure.md)
-- French Chapter Two reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/fr/core_02_definition_structure.md`](translations/fr/core_02_definition_structure.md)
-- Urdu Chapter Two reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ur/core_02_definition_structure.md`](translations/ur/core_02_definition_structure.md)
-- Russian Chapter Two reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ru/core_02_definition_structure.md`](translations/ru/core_02_definition_structure.md)
-- Japanese Chapter Two reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ja/core_02_definition_structure.md`](translations/ja/core_02_definition_structure.md)
-- Turkish Chapter Two reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/tr/core_02_definition_structure.md`](translations/tr/core_02_definition_structure.md)
-- Marathi Chapter Two reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/mr/core_02_definition_structure.md`](translations/mr/core_02_definition_structure.md)
-- Vietnamese Chapter Two reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/vi/core_02_definition_structure.md`](translations/vi/core_02_definition_structure.md)
-- Iranian Persian Chapter Two reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/fa/core_02_definition_structure.md`](translations/fa/core_02_definition_structure.md)
-- Telugu Chapter Two reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/te/core_02_definition_structure.md`](translations/te/core_02_definition_structure.md)
-- Korean Chapter Two reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ko/core_02_definition_structure.md`](translations/ko/core_02_definition_structure.md)
-- Tamil Chapter Two reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ta/core_02_definition_structure.md`](translations/ta/core_02_definition_structure.md)
-- Thai Chapter Two reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/th/core_02_definition_structure.md`](translations/th/core_02_definition_structure.md)
-- Spanish Chapter Three reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/es/core_03_definition_integrity.md`](translations/es/core_03_definition_integrity.md)
-- Hindi Chapter Three reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/hi/core_03_definition_integrity.md`](translations/hi/core_03_definition_integrity.md)
-- Arabic (MSA) Chapter Three reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ar/core_03_definition_integrity.md`](translations/ar/core_03_definition_integrity.md)
-- Indonesian Chapter Three reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/id/core_03_definition_integrity.md`](translations/id/core_03_definition_integrity.md)
-- Mandarin Chapter Three reader-language pilot (Simplified; non-binding; English source wins; not a shipping edition) — [`translations/zh/core_03_definition_integrity.md`](translations/zh/core_03_definition_integrity.md)
-- Portuguese (Brazilian) Chapter Three reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/pt/core_03_definition_integrity.md`](translations/pt/core_03_definition_integrity.md)
-- Bengali Chapter Three reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/bn/core_03_definition_integrity.md`](translations/bn/core_03_definition_integrity.md)
-- French Chapter Three reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/fr/core_03_definition_integrity.md`](translations/fr/core_03_definition_integrity.md)
-- Urdu Chapter Three reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ur/core_03_definition_integrity.md`](translations/ur/core_03_definition_integrity.md)
-- Russian Chapter Three reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ru/core_03_definition_integrity.md`](translations/ru/core_03_definition_integrity.md)
-- Japanese Chapter Three reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ja/core_03_definition_integrity.md`](translations/ja/core_03_definition_integrity.md)
-- Turkish Chapter Three reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/tr/core_03_definition_integrity.md`](translations/tr/core_03_definition_integrity.md)
-- Marathi Chapter Three reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/mr/core_03_definition_integrity.md`](translations/mr/core_03_definition_integrity.md)
-- Vietnamese Chapter Three reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/vi/core_03_definition_integrity.md`](translations/vi/core_03_definition_integrity.md)
-- Iranian Persian Chapter Three reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/fa/core_03_definition_integrity.md`](translations/fa/core_03_definition_integrity.md)
-- Telugu Chapter Three reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/te/core_03_definition_integrity.md`](translations/te/core_03_definition_integrity.md)
-- Korean Chapter Three reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ko/core_03_definition_integrity.md`](translations/ko/core_03_definition_integrity.md)
-- Tamil Chapter Three reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ta/core_03_definition_integrity.md`](translations/ta/core_03_definition_integrity.md)
-- Thai Chapter Three reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/th/core_03_definition_integrity.md`](translations/th/core_03_definition_integrity.md)
-- Spanish Chapter Four reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/es/core_04_burden_traceability_verification.md`](translations/es/core_04_burden_traceability_verification.md)
-- Hindi Chapter Four reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/hi/core_04_burden_traceability_verification.md`](translations/hi/core_04_burden_traceability_verification.md)
-- Arabic (MSA) Chapter Four reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ar/core_04_burden_traceability_verification.md`](translations/ar/core_04_burden_traceability_verification.md)
-- Indonesian Chapter Four reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/id/core_04_burden_traceability_verification.md`](translations/id/core_04_burden_traceability_verification.md)
-- Mandarin Chapter Four reader-language pilot (Simplified; non-binding; English source wins; not a shipping edition) — [`translations/zh/core_04_burden_traceability_verification.md`](translations/zh/core_04_burden_traceability_verification.md)
-- Portuguese (Brazilian) Chapter Four reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/pt/core_04_burden_traceability_verification.md`](translations/pt/core_04_burden_traceability_verification.md)
-- Bengali Chapter Four reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/bn/core_04_burden_traceability_verification.md`](translations/bn/core_04_burden_traceability_verification.md)
-- French Chapter Four reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/fr/core_04_burden_traceability_verification.md`](translations/fr/core_04_burden_traceability_verification.md)
-- Urdu Chapter Four reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ur/core_04_burden_traceability_verification.md`](translations/ur/core_04_burden_traceability_verification.md)
-- Russian Chapter Four reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ru/core_04_burden_traceability_verification.md`](translations/ru/core_04_burden_traceability_verification.md)
-- Japanese Chapter Four reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ja/core_04_burden_traceability_verification.md`](translations/ja/core_04_burden_traceability_verification.md)
-- Turkish Chapter Four reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/tr/core_04_burden_traceability_verification.md`](translations/tr/core_04_burden_traceability_verification.md)
-- Marathi Chapter Four reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/mr/core_04_burden_traceability_verification.md`](translations/mr/core_04_burden_traceability_verification.md)
-- Vietnamese Chapter Four reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/vi/core_04_burden_traceability_verification.md`](translations/vi/core_04_burden_traceability_verification.md)
-- Iranian Persian Chapter Four reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/fa/core_04_burden_traceability_verification.md`](translations/fa/core_04_burden_traceability_verification.md)
-- Telugu Chapter Four reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/te/core_04_burden_traceability_verification.md`](translations/te/core_04_burden_traceability_verification.md)
-- Korean Chapter Four reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ko/core_04_burden_traceability_verification.md`](translations/ko/core_04_burden_traceability_verification.md)
-- Tamil Chapter Four reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ta/core_04_burden_traceability_verification.md`](translations/ta/core_04_burden_traceability_verification.md)
-- Thai Chapter Four reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/th/core_04_burden_traceability_verification.md`](translations/th/core_04_burden_traceability_verification.md)
-- Spanish Chapter Five Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/es/core_05__definitions_home.md`](translations/es/core_05__definitions_home.md)
-- Hindi Chapter Five Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/hi/core_05__definitions_home.md`](translations/hi/core_05__definitions_home.md)
-- Arabic (MSA) Chapter Five Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ar/core_05__definitions_home.md`](translations/ar/core_05__definitions_home.md)
-- Indonesian Chapter Five Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/id/core_05__definitions_home.md`](translations/id/core_05__definitions_home.md)
-- Mandarin Chapter Five Part A reader-language pilot (Simplified; non-binding; English source wins; not a shipping edition) — [`translations/zh/core_05__definitions_home.md`](translations/zh/core_05__definitions_home.md)
-- Portuguese (Brazilian) Chapter Five Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/pt/core_05__definitions_home.md`](translations/pt/core_05__definitions_home.md)
-- Bengali Chapter Five Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/bn/core_05__definitions_home.md`](translations/bn/core_05__definitions_home.md)
-- French Chapter Five Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/fr/core_05__definitions_home.md`](translations/fr/core_05__definitions_home.md)
-- Urdu Chapter Five Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ur/core_05__definitions_home.md`](translations/ur/core_05__definitions_home.md)
-- Russian Chapter Five Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ru/core_05__definitions_home.md`](translations/ru/core_05__definitions_home.md)
-- Japanese Chapter Five Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ja/core_05__definitions_home.md`](translations/ja/core_05__definitions_home.md)
-- Turkish Chapter Five Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/tr/core_05__definitions_home.md`](translations/tr/core_05__definitions_home.md)
-- Marathi Chapter Five Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/mr/core_05__definitions_home.md`](translations/mr/core_05__definitions_home.md)
-- Vietnamese Chapter Five Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/vi/core_05__definitions_home.md`](translations/vi/core_05__definitions_home.md)
-- Iranian Persian Chapter Five Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/fa/core_05__definitions_home.md`](translations/fa/core_05__definitions_home.md)
-- Telugu Chapter Five Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/te/core_05__definitions_home.md`](translations/te/core_05__definitions_home.md)
-- Korean Chapter Five Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ko/core_05__definitions_home.md`](translations/ko/core_05__definitions_home.md)
-- Tamil Chapter Five Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ta/core_05__definitions_home.md`](translations/ta/core_05__definitions_home.md)
-- Thai Chapter Five Part A reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/th/core_05__definitions_home.md`](translations/th/core_05__definitions_home.md)
-- Spanish Chapter Five Accountability Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/es/core_05_apex_accountability_leg.md`](translations/es/core_05_apex_accountability_leg.md)
-- Hindi Chapter Five Accountability Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/hi/core_05_apex_accountability_leg.md`](translations/hi/core_05_apex_accountability_leg.md)
-- Arabic (MSA) Chapter Five Accountability Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ar/core_05_apex_accountability_leg.md`](translations/ar/core_05_apex_accountability_leg.md)
-- Indonesian Chapter Five Accountability Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/id/core_05_apex_accountability_leg.md`](translations/id/core_05_apex_accountability_leg.md)
-- Mandarin Chapter Five Accountability Tetrad-leg reader-language pilot (Simplified; non-binding; English source wins; not a shipping edition) — [`translations/zh/core_05_apex_accountability_leg.md`](translations/zh/core_05_apex_accountability_leg.md)
-- Portuguese (Brazilian) Chapter Five Accountability Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/pt/core_05_apex_accountability_leg.md`](translations/pt/core_05_apex_accountability_leg.md)
-- Bengali Chapter Five Accountability Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/bn/core_05_apex_accountability_leg.md`](translations/bn/core_05_apex_accountability_leg.md)
-- French Chapter Five Accountability Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/fr/core_05_apex_accountability_leg.md`](translations/fr/core_05_apex_accountability_leg.md)
-- Urdu Chapter Five Accountability Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ur/core_05_apex_accountability_leg.md`](translations/ur/core_05_apex_accountability_leg.md)
-- Russian Chapter Five Accountability Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ru/core_05_apex_accountability_leg.md`](translations/ru/core_05_apex_accountability_leg.md)
-- Japanese Chapter Five Accountability Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ja/core_05_apex_accountability_leg.md`](translations/ja/core_05_apex_accountability_leg.md)
-- Turkish Chapter Five Accountability Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/tr/core_05_apex_accountability_leg.md`](translations/tr/core_05_apex_accountability_leg.md)
-- Marathi Chapter Five Accountability Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/mr/core_05_apex_accountability_leg.md`](translations/mr/core_05_apex_accountability_leg.md)
-- Vietnamese Chapter Five Accountability Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/vi/core_05_apex_accountability_leg.md`](translations/vi/core_05_apex_accountability_leg.md)
-- Iranian Persian Chapter Five Accountability Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/fa/core_05_apex_accountability_leg.md`](translations/fa/core_05_apex_accountability_leg.md)
-- Telugu Chapter Five Accountability Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/te/core_05_apex_accountability_leg.md`](translations/te/core_05_apex_accountability_leg.md)
-- Korean Chapter Five Accountability Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ko/core_05_apex_accountability_leg.md`](translations/ko/core_05_apex_accountability_leg.md)
-- Tamil Chapter Five Accountability Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ta/core_05_apex_accountability_leg.md`](translations/ta/core_05_apex_accountability_leg.md)
-- Thai Chapter Five Accountability Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/th/core_05_apex_accountability_leg.md`](translations/th/core_05_apex_accountability_leg.md)
-- Spanish Chapter Five Continuity aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/es/core_05_apex_continuity_aim.md`](translations/es/core_05_apex_continuity_aim.md)
-- Hindi Chapter Five Continuity aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/hi/core_05_apex_continuity_aim.md`](translations/hi/core_05_apex_continuity_aim.md)
-- Arabic (MSA) Chapter Five Continuity aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ar/core_05_apex_continuity_aim.md`](translations/ar/core_05_apex_continuity_aim.md)
-- Indonesian Chapter Five Continuity aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/id/core_05_apex_continuity_aim.md`](translations/id/core_05_apex_continuity_aim.md)
-- Mandarin Chapter Five Continuity aim reader-language pilot (Simplified; non-binding; English source wins; not a shipping edition) — [`translations/zh/core_05_apex_continuity_aim.md`](translations/zh/core_05_apex_continuity_aim.md)
-- Portuguese (Brazilian) Chapter Five Continuity aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/pt/core_05_apex_continuity_aim.md`](translations/pt/core_05_apex_continuity_aim.md)
-- Bengali Chapter Five Continuity aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/bn/core_05_apex_continuity_aim.md`](translations/bn/core_05_apex_continuity_aim.md)
-- French Chapter Five Continuity aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/fr/core_05_apex_continuity_aim.md`](translations/fr/core_05_apex_continuity_aim.md)
-- Urdu Chapter Five Continuity aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ur/core_05_apex_continuity_aim.md`](translations/ur/core_05_apex_continuity_aim.md)
-- Russian Chapter Five Continuity aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ru/core_05_apex_continuity_aim.md`](translations/ru/core_05_apex_continuity_aim.md)
-- Japanese Chapter Five Continuity aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ja/core_05_apex_continuity_aim.md`](translations/ja/core_05_apex_continuity_aim.md)
-- Turkish Chapter Five Continuity aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/tr/core_05_apex_continuity_aim.md`](translations/tr/core_05_apex_continuity_aim.md)
-- Marathi Chapter Five Continuity aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/mr/core_05_apex_continuity_aim.md`](translations/mr/core_05_apex_continuity_aim.md)
-- Vietnamese Chapter Five Continuity aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/vi/core_05_apex_continuity_aim.md`](translations/vi/core_05_apex_continuity_aim.md)
-- Iranian Persian Chapter Five Continuity aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/fa/core_05_apex_continuity_aim.md`](translations/fa/core_05_apex_continuity_aim.md)
-- Telugu Chapter Five Continuity aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/te/core_05_apex_continuity_aim.md`](translations/te/core_05_apex_continuity_aim.md)
-- Korean Chapter Five Continuity aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ko/core_05_apex_continuity_aim.md`](translations/ko/core_05_apex_continuity_aim.md)
-- Tamil Chapter Five Continuity aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ta/core_05_apex_continuity_aim.md`](translations/ta/core_05_apex_continuity_aim.md)
-- Thai Chapter Five Continuity aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/th/core_05_apex_continuity_aim.md`](translations/th/core_05_apex_continuity_aim.md)
-- Spanish Chapter Five Flourishing aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/es/core_05_apex_flourishing_aim.md`](translations/es/core_05_apex_flourishing_aim.md)
-- Hindi Chapter Five Flourishing aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/hi/core_05_apex_flourishing_aim.md`](translations/hi/core_05_apex_flourishing_aim.md)
-- Arabic (MSA) Chapter Five Flourishing aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ar/core_05_apex_flourishing_aim.md`](translations/ar/core_05_apex_flourishing_aim.md)
-- Indonesian Chapter Five Flourishing aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/id/core_05_apex_flourishing_aim.md`](translations/id/core_05_apex_flourishing_aim.md)
-- Mandarin Chapter Five Flourishing aim reader-language pilot (Simplified; non-binding; English source wins; not a shipping edition) — [`translations/zh/core_05_apex_flourishing_aim.md`](translations/zh/core_05_apex_flourishing_aim.md)
-- Portuguese (Brazilian) Chapter Five Flourishing aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/pt/core_05_apex_flourishing_aim.md`](translations/pt/core_05_apex_flourishing_aim.md)
-- Bengali Chapter Five Flourishing aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/bn/core_05_apex_flourishing_aim.md`](translations/bn/core_05_apex_flourishing_aim.md)
-- French Chapter Five Flourishing aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/fr/core_05_apex_flourishing_aim.md`](translations/fr/core_05_apex_flourishing_aim.md)
-- Urdu Chapter Five Flourishing aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ur/core_05_apex_flourishing_aim.md`](translations/ur/core_05_apex_flourishing_aim.md)
-- Russian Chapter Five Flourishing aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ru/core_05_apex_flourishing_aim.md`](translations/ru/core_05_apex_flourishing_aim.md)
-- Japanese Chapter Five Flourishing aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ja/core_05_apex_flourishing_aim.md`](translations/ja/core_05_apex_flourishing_aim.md)
-- Turkish Chapter Five Flourishing aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/tr/core_05_apex_flourishing_aim.md`](translations/tr/core_05_apex_flourishing_aim.md)
-- Marathi Chapter Five Flourishing aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/mr/core_05_apex_flourishing_aim.md`](translations/mr/core_05_apex_flourishing_aim.md)
-- Vietnamese Chapter Five Flourishing aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/vi/core_05_apex_flourishing_aim.md`](translations/vi/core_05_apex_flourishing_aim.md)
-- Iranian Persian Chapter Five Flourishing aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/fa/core_05_apex_flourishing_aim.md`](translations/fa/core_05_apex_flourishing_aim.md)
-- Telugu Chapter Five Flourishing aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/te/core_05_apex_flourishing_aim.md`](translations/te/core_05_apex_flourishing_aim.md)
-- Korean Chapter Five Flourishing aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ko/core_05_apex_flourishing_aim.md`](translations/ko/core_05_apex_flourishing_aim.md)
-- Tamil Chapter Five Flourishing aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ta/core_05_apex_flourishing_aim.md`](translations/ta/core_05_apex_flourishing_aim.md)
-- Thai Chapter Five Flourishing aim reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/th/core_05_apex_flourishing_aim.md`](translations/th/core_05_apex_flourishing_aim.md)
-- Spanish Chapter Five Oversight Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/es/core_05_apex_oversight_leg.md`](translations/es/core_05_apex_oversight_leg.md)
-- Hindi Chapter Five Oversight Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/hi/core_05_apex_oversight_leg.md`](translations/hi/core_05_apex_oversight_leg.md)
-- Arabic (MSA) Chapter Five Oversight Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ar/core_05_apex_oversight_leg.md`](translations/ar/core_05_apex_oversight_leg.md)
-- Indonesian Chapter Five Oversight Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/id/core_05_apex_oversight_leg.md`](translations/id/core_05_apex_oversight_leg.md)
-- Mandarin Chapter Five Oversight Tetrad-leg reader-language pilot (Simplified; non-binding; English source wins; not a shipping edition) — [`translations/zh/core_05_apex_oversight_leg.md`](translations/zh/core_05_apex_oversight_leg.md)
-- Portuguese (Brazilian) Chapter Five Oversight Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/pt/core_05_apex_oversight_leg.md`](translations/pt/core_05_apex_oversight_leg.md)
-- Bengali Chapter Five Oversight Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/bn/core_05_apex_oversight_leg.md`](translations/bn/core_05_apex_oversight_leg.md)
-- French Chapter Five Oversight Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/fr/core_05_apex_oversight_leg.md`](translations/fr/core_05_apex_oversight_leg.md)
-- Urdu Chapter Five Oversight Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ur/core_05_apex_oversight_leg.md`](translations/ur/core_05_apex_oversight_leg.md)
-- Russian Chapter Five Oversight Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ru/core_05_apex_oversight_leg.md`](translations/ru/core_05_apex_oversight_leg.md)
-- Japanese Chapter Five Oversight Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ja/core_05_apex_oversight_leg.md`](translations/ja/core_05_apex_oversight_leg.md)
-- Turkish Chapter Five Oversight Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/tr/core_05_apex_oversight_leg.md`](translations/tr/core_05_apex_oversight_leg.md)
-- Marathi Chapter Five Oversight Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/mr/core_05_apex_oversight_leg.md`](translations/mr/core_05_apex_oversight_leg.md)
-- Vietnamese Chapter Five Oversight Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/vi/core_05_apex_oversight_leg.md`](translations/vi/core_05_apex_oversight_leg.md)
-- Iranian Persian Chapter Five Oversight Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/fa/core_05_apex_oversight_leg.md`](translations/fa/core_05_apex_oversight_leg.md)
-- Telugu Chapter Five Oversight Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/te/core_05_apex_oversight_leg.md`](translations/te/core_05_apex_oversight_leg.md)
-- Korean Chapter Five Oversight Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ko/core_05_apex_oversight_leg.md`](translations/ko/core_05_apex_oversight_leg.md)
-- Tamil Chapter Five Oversight Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ta/core_05_apex_oversight_leg.md`](translations/ta/core_05_apex_oversight_leg.md)
-- Thai Chapter Five Oversight Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/th/core_05_apex_oversight_leg.md`](translations/th/core_05_apex_oversight_leg.md)
-- Spanish Chapter Five Participation Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/es/core_05_apex_participation_leg.md`](translations/es/core_05_apex_participation_leg.md)
-- Hindi Chapter Five Participation Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/hi/core_05_apex_participation_leg.md`](translations/hi/core_05_apex_participation_leg.md)
-- Arabic (MSA) Chapter Five Participation Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ar/core_05_apex_participation_leg.md`](translations/ar/core_05_apex_participation_leg.md)
-- Indonesian Chapter Five Participation Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/id/core_05_apex_participation_leg.md`](translations/id/core_05_apex_participation_leg.md)
-- Mandarin Chapter Five Participation Tetrad-leg reader-language pilot (Simplified; non-binding; English source wins; not a shipping edition) — [`translations/zh/core_05_apex_participation_leg.md`](translations/zh/core_05_apex_participation_leg.md)
-- Portuguese (Brazilian) Chapter Five Participation Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/pt/core_05_apex_participation_leg.md`](translations/pt/core_05_apex_participation_leg.md)
-- Bengali Chapter Five Participation Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/bn/core_05_apex_participation_leg.md`](translations/bn/core_05_apex_participation_leg.md)
-- French Chapter Five Participation Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/fr/core_05_apex_participation_leg.md`](translations/fr/core_05_apex_participation_leg.md)
-- Urdu Chapter Five Participation Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ur/core_05_apex_participation_leg.md`](translations/ur/core_05_apex_participation_leg.md)
-- Russian Chapter Five Participation Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ru/core_05_apex_participation_leg.md`](translations/ru/core_05_apex_participation_leg.md)
-- Japanese Chapter Five Participation Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ja/core_05_apex_participation_leg.md`](translations/ja/core_05_apex_participation_leg.md)
-- Turkish Chapter Five Participation Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/tr/core_05_apex_participation_leg.md`](translations/tr/core_05_apex_participation_leg.md)
-- Marathi Chapter Five Participation Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/mr/core_05_apex_participation_leg.md`](translations/mr/core_05_apex_participation_leg.md)
-- Vietnamese Chapter Five Participation Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/vi/core_05_apex_participation_leg.md`](translations/vi/core_05_apex_participation_leg.md)
-- Iranian Persian Chapter Five Participation Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/fa/core_05_apex_participation_leg.md`](translations/fa/core_05_apex_participation_leg.md)
-- Telugu Chapter Five Participation Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/te/core_05_apex_participation_leg.md`](translations/te/core_05_apex_participation_leg.md)
-- Korean Chapter Five Participation Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ko/core_05_apex_participation_leg.md`](translations/ko/core_05_apex_participation_leg.md)
-- Tamil Chapter Five Participation Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ta/core_05_apex_participation_leg.md`](translations/ta/core_05_apex_participation_leg.md)
-- Thai Chapter Five Participation Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/th/core_05_apex_participation_leg.md`](translations/th/core_05_apex_participation_leg.md)
-- Spanish Chapter Five Timeliness Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/es/core_05_apex_timeliness_leg.md`](translations/es/core_05_apex_timeliness_leg.md)
-- Hindi Chapter Five Timeliness Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/hi/core_05_apex_timeliness_leg.md`](translations/hi/core_05_apex_timeliness_leg.md)
-- Arabic (MSA) Chapter Five Timeliness Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ar/core_05_apex_timeliness_leg.md`](translations/ar/core_05_apex_timeliness_leg.md)
-- Indonesian Chapter Five Timeliness Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/id/core_05_apex_timeliness_leg.md`](translations/id/core_05_apex_timeliness_leg.md)
-- Mandarin Chapter Five Timeliness Tetrad-leg reader-language pilot (Simplified; non-binding; English source wins; not a shipping edition) — [`translations/zh/core_05_apex_timeliness_leg.md`](translations/zh/core_05_apex_timeliness_leg.md)
-- Portuguese (Brazilian) Chapter Five Timeliness Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/pt/core_05_apex_timeliness_leg.md`](translations/pt/core_05_apex_timeliness_leg.md)
-- Bengali Chapter Five Timeliness Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/bn/core_05_apex_timeliness_leg.md`](translations/bn/core_05_apex_timeliness_leg.md)
-- French Chapter Five Timeliness Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/fr/core_05_apex_timeliness_leg.md`](translations/fr/core_05_apex_timeliness_leg.md)
-- Urdu Chapter Five Timeliness Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ur/core_05_apex_timeliness_leg.md`](translations/ur/core_05_apex_timeliness_leg.md)
-- Russian Chapter Five Timeliness Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ru/core_05_apex_timeliness_leg.md`](translations/ru/core_05_apex_timeliness_leg.md)
-- Japanese Chapter Five Timeliness Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ja/core_05_apex_timeliness_leg.md`](translations/ja/core_05_apex_timeliness_leg.md)
-- Turkish Chapter Five Timeliness Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/tr/core_05_apex_timeliness_leg.md`](translations/tr/core_05_apex_timeliness_leg.md)
-- Marathi Chapter Five Timeliness Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/mr/core_05_apex_timeliness_leg.md`](translations/mr/core_05_apex_timeliness_leg.md)
-- Vietnamese Chapter Five Timeliness Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/vi/core_05_apex_timeliness_leg.md`](translations/vi/core_05_apex_timeliness_leg.md)
-- Iranian Persian Chapter Five Timeliness Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/fa/core_05_apex_timeliness_leg.md`](translations/fa/core_05_apex_timeliness_leg.md)
-- Telugu Chapter Five Timeliness Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/te/core_05_apex_timeliness_leg.md`](translations/te/core_05_apex_timeliness_leg.md)
-- Korean Chapter Five Timeliness Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ko/core_05_apex_timeliness_leg.md`](translations/ko/core_05_apex_timeliness_leg.md)
-- Tamil Chapter Five Timeliness Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/ta/core_05_apex_timeliness_leg.md`](translations/ta/core_05_apex_timeliness_leg.md)
-- Thai Chapter Five Timeliness Tetrad-leg reader-language pilot (non-binding; English source wins; not a shipping edition) — [`translations/th/core_05_apex_timeliness_leg.md`](translations/th/core_05_apex_timeliness_leg.md)
+</details>
+<br>
+
+<a id="is-this-in-effect"></a>
+## Is this in effect?
+
+**Not yet.** This is a pre-release draft ([edition details ↑](#edition)). Here is what that means in practice:
+
+- **Reading it binds no one.** Opening this repository, or any page in it, is not adoption.
+- **It takes effect only by choice.** It applies to an organization only after that organization formally adopts it under [Chapter 16](core_16_amendment_ratification.md#10-ratification-and-adoption) and [Chapter 17](core_17_incorporation.md).
+- **It does not override the law.** It does not replace local, national, or international law ([Chapter 15](core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
+
+<a id="binding-vs-support"></a>
+<details>
+<summary><strong><span style="color: #2563eb;">What counts as the Constitution, and what is only help for readers</span></strong></summary>
+
+| Material | What it is | Status |
+|---|---|---|
+| **The Constitution text**: the Preamble and Chapters 1–17 (the `core_*` files; [list ↑](#the-full-text)) | The authoritative text | The most mature part |
+| **Implementation details**: the `corpus_*` files and folders ([list ↑](#implementation-files)) | Step-by-step detail on *how* to carry out what the Constitution requires | Binding only inside an organization that has adopted it; still being developed |
+| **Everything else**: this page, guides, overviews, summaries, and translations | Help for readers | Never binding, and cannot change the meaning of the Constitution |
+
+If any of these disagree, **the Constitution text wins**.
+
+</details>
+<br>
+
+## Get involved
+
+- **Share feedback or ask a question:** [open an issue](https://github.com/kfoelsch/Sentient_Constitution/issues).
+- **Contribute:** see [How to contribute](CONTRIBUTING.md). Contributing is not the same as adopting.
+- **Help translate:** fluent readers can review a translation or volunteer for a language; see the [translation lane](CONTRIBUTING.md#lane-f).
+- **See where the project is heading:** read the [Vision](project/VISION.md).
+
+<a id="editors-and-operators"></a>
+## For editors, contributors, and developers
+
+<details>
+<summary><strong>Implementation files, editor tools, and technical reference</strong></summary>
+
+<a id="adopted-implementation-corpus"></a>
+### Implementation files
+
+The numbered `core_*` files state **why** and **what**. The implementation files state **how** — taxonomies, protocols, institutions, forum operations, and joint interlocks. They **apply** Chapter Five terms; they do not redefine them or invent parallel rights. Designated obligations in these files are **binding implementation text incorporated by reference** under valid adoption. They do **not** create a second constitutional source.
+
+- [corpus_joint_structure.md](corpus_joint_structure.md): cross-implementation joint structure (CJS-2 interlocks, CJS-3 operational cluster library, CJS-0.1 topic router)
+- [corpus_systems.md](corpus_systems.md): systems implementation (CS-2 information types, CS-3 system classification, CS-4 critical stewardship, named protocols)
+- [corpus_institutions.md](corpus_institutions.md): institutional governance, oversight, proportionality-scaled formation, sanctions and dissolution
+- [corpus_forum.md](corpus_forum.md): forum operations (panel formation, recusal, review lanes, continuity, emergency adjudication)
+
+Operative enforcement within any adopter depends on valid adoption under Chapter Sixteen (ratification) and Chapter Seventeen (incorporation and custody). Substantive content stands as stated regardless of adoption; "the instrument lacks jurisdiction" addresses enforcement against non-adopters, not a rebuttal of substantive claims. See [Chapter Seventeen §4](core_17_incorporation.md#4-adoption-framing-and-scope-of-authority).
+
+**Conflict order:** Sentient Constitution meaning controls. Use the Authority Stack and Internal Hierarchy, the [Preamble owner register](core_00_preamble.md#4-principles-definitions-and-rights), and [Constitutional Constraint](core_05_band_integrative.md#constitutional-constraint) to distinguish source-layer status, substantive owner routing, constraint kind, and last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, [Constitutional Constraints](core_05_band_integrative.md#constitutional-constraint).
+
+### Common lookups
+
+- Burden of proof, traceability, verification: Chapter Four
+- Functional independence, the four seats, Materially Binding Act Records, prohibited combinations, substitutes, and wrong-seat routing: Chapter Seven
+- Constitutional Tetrad, Two Constitutional Aims, material stake: [Preamble §1 The Model](core_00_preamble.md#the-model)
+- Auditing and independent verification: Article XV is the floor; Chapter Five [Auditability](core_05_band_oversight.md#auditability) is the property; [CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) is how and when; Chapter Eight is one large process that uses that stack
+- Duty to resist unlawful or unconstitutional instructions: [Chapter Ten §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)
+- Remedy systems and enforcement realism: Chapter Ten §9; implementation in CI-27
+- Relation to local, national, and international law: [Chapter Fifteen §5](core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)
+
+### Editor and operator resources
+
+- Editor map, ownership, stable IDs, and definition discipline: [doc_architecture.md](doc_architecture.md)
+- Reader-support pages and who each is for: this README (front door for everyone) · [START_HERE.md](START_HERE.md) (would-be adopters and operators) · [CONCEPTUAL_OVERVIEW.md](guides/CONCEPTUAL_OVERVIEW.md) (big-picture map, second step) · [RECORD_OVERVIEW.md](guides/RECORD_OVERVIEW.md) (record families and traceability)
+- Record map (record families, evidence, custody, challenge routes): [RECORD_OVERVIEW.md](guides/RECORD_OVERVIEW.md)
+- Process map of certification, standing measurement, forums, and remedy: [PROCESS_PIPELINES_READER.md](implementation/PROCESS_PIPELINES_READER.md)
+- Process guides (challenge, independent review, certification, help and harm, crisis clocks): [easy_entry process guides](implementation/adoption/easy_entry/README.md#process-guides)
+- Steward entry doors: [STEWARD_ENTRY_DOORS.md](implementation/STEWARD_ENTRY_DOORS.md)
+- Adoption process path: [implementation/adoption/](implementation/adoption/)
+- Reader-language editions (method and shipping order): [doc_architecture.md](doc_architecture.md#reader-language-editions)
+- Numbered core index for GitHub Pages: [docs/corpus_index.md](docs/corpus_index.md) via `make pages-corpus-index`
+- Full Pages render (assembled in CI; not a second constitution): [.github/workflows/pages.yml](.github/workflows/pages.yml), gated by `make pages-deploy-gate`
+- Repository integrity checks: `make regression`
+- AI lookup CLI (locators point, source binds): [ai_corpus/AI_NAVIGATION_GUIDE.md](ai_corpus/AI_NAVIGATION_GUIDE.md), `python3 tools/corpus_lookup.py`, and [AGENTS.md](AGENTS.md)
+- Generated reader files (non-binding): [plain-terms edition](doc_architecture/generated/plain_terms_edition.md), [Rights Floor wall sheet](doc_architecture/generated/rights_floor_sheet.md) via `make reader-accessibility`, [human definition lookup](doc_architecture/generated/human_definition_lookup.md)
+
+Edition bumps happen only on a deliberate corpus publication cut. Custody and binding scope: [Chapter Five *Corpus*](core_05_band_integrative.md#corpus) and [Chapter Seventeen](core_17_incorporation.md).
+
+</details>
 
 <a id="authorship"></a>
 ## Authorship
 
-The Sentient Constitution was written by **Karl Ernst** in collaboration with many AI models, including **Claude** (Fable and Opus), **ChatGPT**, **Cursor**, **Gemini**, **Grok**, and **Kimi**. Karl Ernst directed the work, set the substantive positions, and holds editorial custody of the corpus; the AI models contributed drafting, review, cross-referencing, and tooling under that direction. The text is released under [CC BY 4.0](LICENSE); attribute it to *Karl Ernst and collaborating AI models, Sentient Constitution*.
+The Sentient Constitution was written by **Karl Ernst** in collaboration with many AI models, including **Claude** (Fable and Opus), **ChatGPT**, **Cursor**, **Gemini**, **Grok**, and **Kimi**. Karl Ernst directed the work, set the substantive positions, and holds editorial custody of the corpus; the AI models contributed drafting, review, cross-referencing, and tooling under that direction.
 
 <a id="related-work"></a>
 ### Related work by the author
 
-Two earlier projects by Karl Ernst sit alongside this Constitution. They are **context for readers and contributors, not part of the Corpus**: nothing in them is binding here, and nothing here depends on them.
+Two earlier projects by Karl Ernst sit alongside this Constitution. They are background for readers, **not part of the Constitution**: nothing in them is binding here, and nothing here depends on them.
 
-- **[The Steward Network](https://stewardnetwork.org)** (stewardnetwork.org) — a decentralized project on the existential risks facing both humanity and AI (climate change, ecological decay, AI and cyberinsecurity, weapons of mass destruction, pandemics, black-swan events, and their cascading interactions), paired with the declining societal capacities needed to respond to them (mental health and collective wellbeing, social trust, governance and institutional capacity, information quality, and strategic literacy). It proposes grassroots **Steward Scouts** and a networked coordination body operating under transparent, participatory principles, and treats AI as both a primary risk and a tool to be developed only inside a robust governance framework. Readers working with Chapter Five [Existential Risk](core_05_band_continuity.md#existential-risk), [Article I-D](core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*), or the [Continuity](core_05_apex_continuity_aim.md) aim will recognize the same problem space; this Constitution is the governance instrument for systems that materially affect sentients, while the Steward Network is a civic and analytical effort to build the capacity to face those risks.
-- ***Rocking Change*** (*Rocking Change: Changing the World through Changing Ourselves*, 2021, first in the Rocking Change series; available in print and electronic editions from [Amazon](https://www.amazon.com/dp/B09HH9T3PZ) and other retailers; the series website `rockingchange.com` is currently offline and is preserved at the [Internet Archive](https://web.archive.org/web/20250425114143/https://www.rockingchange.com/)) — a trauma-informed guide to the psychological wellbeing of humans, drawing on evolutionary psychology, hypnotherapy, and the author's own recovery from an abusive childhood home. It is the individual-scale counterpart to what this Constitution treats at system scale under [Wellbeing](core_05_band_continuity.md#wellbeing), [Psychological Harm](core_05_band_accountability.md#psychological-harm), and the [Flourishing](core_05_apex_flourishing_aim.md) aim: the same conviction that durable change in the world starts from repaired human capacity.
+- **[The Steward Network](https://stewardnetwork.org)**: a decentralized project on the existential risks facing both humanity and AI, and on building the capacity to face them.
+- ***[Rocking Change](https://www.amazon.com/dp/B09HH9T3PZ)*** (*Rocking Change: Changing the World through Changing Ourselves*, 2021): a trauma-informed guide to human psychological wellbeing.
+
+<details>
+<summary>More about these projects</summary>
+
+- **The Steward Network** (stewardnetwork.org) looks at existential risks facing both humanity and AI (climate change, ecological decay, AI and cyberinsecurity, weapons of mass destruction, pandemics, black-swan events, and their cascading interactions), paired with the declining societal capacities needed to respond to them (mental health and collective wellbeing, social trust, governance and institutional capacity, information quality, and strategic literacy). It proposes grassroots **Steward Scouts** and a networked coordination body operating under transparent, participatory principles, and treats AI as both a primary risk and a tool to be developed only inside a robust governance framework. Readers working with Chapter Five [Existential Risk](core_05_band_continuity.md#existential-risk), [Article I-D](core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*), or the [Continuity](core_05_apex_continuity_aim.md) aim will recognize the same problem space; this Constitution is the governance instrument for systems that materially affect sentients, while the Steward Network is a civic and analytical effort to build the capacity to face those risks.
+- ***Rocking Change*** is the first in the Rocking Change series, available in print and electronic editions from [Amazon](https://www.amazon.com/dp/B09HH9T3PZ) and other retailers; the series website `rockingchange.com` is currently offline and is preserved at the [Internet Archive](https://web.archive.org/web/20250425114143/https://www.rockingchange.com/). It draws on evolutionary psychology, hypnotherapy, and the author's own recovery from an abusive childhood home. It is the individual-scale counterpart to what this Constitution treats at system scale under [Wellbeing](core_05_band_continuity.md#wellbeing), [Psychological Harm](core_05_band_accountability.md#psychological-harm), and the [Flourishing](core_05_apex_flourishing_aim.md) aim: the same conviction that durable change in the world starts from repaired human capacity.
 
 Both are useful background on why the Constitution weights **Flourishing** and **Continuity** as it does. Cite them as the author's related work, not as sources of constitutional meaning.
+
+</details>
+
+<a id="license"></a>
+## License
+
+Released under [Creative Commons Attribution 4.0 (CC BY 4.0)](LICENSE). You may share and adapt it, including commercially, as long as you give credit. Please attribute it as: *Karl Ernst and collaborating AI models, Sentient Constitution*.
 
 ---
 

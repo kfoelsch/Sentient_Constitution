@@ -5,6 +5,8 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
+import re
 import sys
 from pathlib import Path
 
@@ -57,6 +59,31 @@ def chapter_rows(root: Path) -> list[dict[str, str]]:
     return rows
 
 
+_REL_LINK_RE = re.compile(r"\]\((?!https?:|mailto:|#|/)([^)\s]+)\)")
+
+
+def rebase_relative_links(text: str, src_dir: Path, out_dir: Path) -> str:
+    """Rewrite relative Markdown link targets copied out of ``src_dir``.
+
+    Router cells are lifted verbatim from corpus_joint_structure/, one level
+    below the repository root, into doc_architecture/generated/, two levels
+    below it. A ``../corpus_forum/x.md`` that is correct at the source
+    resolves to ``doc_architecture/corpus_forum/x.md`` in the output, so each
+    relative target is re-expressed against the output directory.
+    """
+
+    def fix(match: re.Match[str]) -> str:
+        target = match.group(1)
+        path, sep, fragment = target.partition("#")
+        if not path:
+            return match.group(0)
+        resolved = (src_dir / path).resolve()
+        rebased = os.path.relpath(resolved, out_dir)
+        return f"]({rebased}{sep}{fragment})"
+
+    return _REL_LINK_RE.sub(fix, text)
+
+
 def router_sample(root: Path, limit: int = 25) -> list[dict[str, str]]:
     if load_router_rows is None:
         return []
@@ -71,7 +98,7 @@ def router_row_dict(row) -> dict[str, str]:
     return {
         "id": row.row_id,
         "topic": row.topic,
-        "primary_owner": row.owner_cell.strip()[:80],
+        "primary_owner": row.owner_cell.strip(),  # full cell: truncating cut Markdown links mid-target
         "primary_attach": list(row.primary_attach),
     }
 
@@ -211,14 +238,18 @@ def render_markdown(root: Path) -> str:
             "",
             "## CJS-0.1 router sample",
             "",
-            "Full router: [corpus_joint_structure/cjs_00_registry_and_reading_rules.md](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md). Audit: `make router-bidirectional-audit`.",
+            "Full router: [corpus_joint_structure/cjs_00_registry_and_reading_rules.md](../../corpus_joint_structure/cjs_00_registry_and_reading_rules.md). Audit: `make router-bidirectional-audit`.",
             "",
             "| Stable ID | Topic | Primary owner |",
             "|-----------|-------|---------------|",
         ]
     )
+    src_dir = root / "corpus_joint_structure"
+    out_dir = root / "doc_architecture" / "generated"
     for row in router:
-        lines.append(f"| {row['id']} | {row['topic']} | {row['primary_owner']} |")
+        topic = rebase_relative_links(row["topic"], src_dir, out_dir)
+        owner = rebase_relative_links(row["primary_owner"], src_dir, out_dir)
+        lines.append(f"| {row['id']} | {topic} | {owner} |")
     lines.extend(
         [
             "",

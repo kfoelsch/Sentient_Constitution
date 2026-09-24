@@ -42,7 +42,7 @@
 
 그 목적은 함께 추구해야 하며, 언제나 이 헌법이 세운 타협 불가 원칙 제약과 권리 보호 안에 있어야 한다. [**헌법 사원(四元)**](#constitutional-tetrad)은 그 추구가 어떻게 정당성을 유지하는지를 다스린다: [**실질 이해관계**](#material-stake)에 맞춰 세기를 조절한 **참여**, **감독**, **책무**, **적시성**. 사원(四元) 각 다리와 헌법 목적의 구속력 있는 정의는 제5장에 산다: [참여](core_05_apex_participation_leg.md#participation-constitutional), [감독](core_05_apex_oversight_leg.md#oversight-constitutional), [책무](core_05_apex_accountability_leg.md#accountability), [적시성](core_05_apex_timeliness_leg.md#timeliness-constitutional), [번영](core_05_apex_flourishing_aim.md#flourishing-constitutional), [연속](core_05_apex_continuity_aim.md#continuity-aim-constitutional).
 
-<a id="2-the-measurements"></a>
+<a id="2-measurements-overview"></a>
 
 
 ### 2. 측정 개관
@@ -86,7 +86,7 @@
 
 헌법이 구체 측정 규칙을 요구할 때, [제11장](core_11_forum.md#42-technical-forum-domains) 아래 **기술 포럼 영역**이 공유 표준을 만들고 유지한다 — 어떻게 측정하고, 어떻게 시험하고, 무엇이 믿을 증거인가. 주어진 다툼을 맡은 포럼은 그다음 [제11장 §4.2](core_11_forum.md#42-shared-standards-and-anti-displacement) 아래에서 그 사건을 결정할 때 그 표준을 적용한다.
 
-헌법상 책임 있는 관리는 문제와 [**실질 이해관계**](#material-stake)를 이름 붙이는 데서 시작한다 — 얼마나 많은 영향, 의존, 위험이 걸려 있는가. 다음으로 [개관](#2-the-measurements)에서 관련 [**측정**](#2-the-measurements) 범주와 하위범주를 고르고, 위의 표준을 적용해 편한 지표가 아니라 실제 세계 효과를 시험한다. 추적 가능한 증거를 요구하라.
+헌법상 책임 있는 관리는 문제와 [**실질 이해관계**](#material-stake)를 이름 붙이는 데서 시작한다 — 얼마나 많은 영향, 의존, 위험이 걸려 있는가. 다음으로 [개관](#2-measurements-overview)에서 관련 [**측정**](#2-measurements-overview) 범주와 하위범주를 고르고, 위의 표준을 적용해 편한 지표가 아니라 실제 세계 효과를 시험한다. 추적 가능한 증거를 요구하라.
 
 <a id="32-key-governance-processes"></a>
 #### 3.2 핵심 거버넌스 과정
@@ -187,7 +187,7 @@
 
 - **맡은 일:** 확인된 분류를 실제 세계의 **궤적 효과**로 통합한다, 따로 떨어진 궤도에서 — [**실질 이해관계**](#material-stake)에 맞춰 세기를 조절하고, 기여와 위반을 하나의 순점수로 접지 않으며, 참여, 감독, 책무, 적시성을 비우지 않는다.
   - **기여 궤도:** 확인된 긍정 분류는 실제 상승을 산출한다:
-    - [**역량 허가**](../../core_10_standing_integration.md#62-competency-bars-and-clearances)는 공표된 역량 문턱에 대해 역량이 입증되고 적용되는 [궤적 잠금](../../core_10_standing_integration.md#42-general-standing-locks)이 명명된 경로를 막지 않을 때, 신뢰에 민감한 역할, 위임된 권한, 감독 자격, 점차 결과가 커지는 책임 있는 관리를 열 수 있다
+    - [**역량 허가**](../../core_10_standing_integration.md#62-competency-bars-and-clearances)는 공표된 역량 문턱에 대해 역량이 입증되고 적용되는 [궤적 잠금](../../core_10_standing_integration.md#42-prevention--general-standing-locks)이 명명된 경로를 막지 않을 때, 신뢰에 민감한 역할, 위임된 권한, 감독 자격, 점차 결과가 커지는 책임 있는 관리를 열 수 있다
     - [제1장](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)이 요구하는 대로, 적법한 책임 있는 관리와 협력에 대한 비례 인정과 **실질 보상**
     - 빈 칭찬이 아니다. 이익은 실제여야 하고, 증거로 받쳐져야 하며, 다툼에 열려 있어야 한다
   - **위반 궤도:** 확인된 위반 인정은 실제 하강을 산출한다:

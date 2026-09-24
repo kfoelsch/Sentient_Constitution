@@ -55,7 +55,7 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 - Read with: **Article XV** (*Audit, Transparency, and Independent Verification*) and **Article XV-A** (*Auditability and Observable Evidence*) — Rights Floor
 - Read with: **`corpus_systems.md` CS-2 — Information types and handling**
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
-- Chapter One basis: §8.2, §4, §6.2, §12.1, §12.2 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §8.2, §4, §6.2, §12.1, §12.2 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -381,7 +381,7 @@ Operational transparency and structured logging requirements
 - Read with: **Article VII-B** (*Internal-State Boundary and Type-N Protection*)
 - Read with: **`corpus_systems.md` CS-2 — Information types and handling** (**Type O**, **Type G**, access-posture bands, and [Part A §5.3](../corpus_systems/cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access) / [§7](../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems))
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
-- Chapter One basis: §8.2, §11.2, §11.4, §12.1, §8 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §8.2, §11.2, §11.4, §12.1, §8 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -591,7 +591,7 @@ Tier structure and baseline accessibility
 - Read with: **Article XV** (*Audit, Transparency, and Independent Verification*) and **Article XV-A** (*Auditability and Observable Evidence*) — Rights Floor, where material claims shape rights-relevant decisions
 - Read with: **`corpus_systems.md` CS-2 — Information types and handling**
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
-- Chapter One basis: §8.2, §3.3, §4, §12.1, §12.2 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §8.2, §3.3, §4, §12.1, §12.2 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3**.
 
 </details>
@@ -745,8 +745,8 @@ Structured review and incentive-integrity floor
 - Constitutional frame: **Oversight** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Cross-leg note: integrative with **Accountability** where contest, correction, and assurance routing are implicated.
 - Continuity disambiguation: Distinguish constitutional **Continuity** aim from operational resilience or protocol continuity.
-- Chapter One basis: §8.1, §8.2, §12.1, §12.2 (see [cluster map](#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (primary owner): **CJS-R19** (*integrity assurance and resilience operations*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CJS-3.3**, **CJS-3.15**, **CI-7.3**, **CI-8**, **CF-11**.
+- Chapter One basis: §8.1, §8.2, §12.1, §12.2 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Topic routing (primary owner): **CJS-R19** (*integrity assurance and resilience operations*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CJS-3.3**, **CJS-3.15**, **CI-7.3**, **CI-8**, **CI-12**, **CF-11**.
 
 </details>
 
@@ -830,9 +830,9 @@ Class-scaled contest-monitor independence and mandate
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in class-scaled contest-monitor independence and mandate.
 <a id="class-scaled-contest-monitor-independence-and-mandate-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** monitor appointment authority, conflicts and recusal controls, reporting line, cadence scaled to class or tier, exclusions from binding merits decisions, access to pathway and evidence records, and escalation routes for structural contest failure
+  - **Primary measure:** monitor appointment authority, conflicts and recusal controls, reporting line, cadence scaled to class or tier, exclusions from binding merits decisions, access to contest-pathway and evidence records, and escalation routes for structural contest failure
 
-    **Primary assessment:** Evaluation must verify monitor appointment authority, conflicts and recusal controls, reporting line, cadence scaled to class or tier, exclusions from binding merits decisions, access to pathway and evidence records, and escalation routes for structural contest failure.
+    **Primary assessment:** Evaluation must verify monitor appointment authority, conflicts and recusal controls, reporting line, cadence scaled to class or tier, exclusions from binding merits decisions, access to contest-pathway and evidence records, and escalation routes for structural contest failure.
 <a id="class-scaled-contest-monitor-independence-and-mandate-c"></a>
 - **What must hold**
   - **Primary failure:** A monitoring arrangement if the contested operational owner controls the monitoring path without an independence safeguard, if the mandate is unpublished or ambiguous, if monitoring silently becomes case-specific merits adjudication, or if Class A scope lacks independent or functionally independent participation where feasible.
@@ -869,7 +869,7 @@ Contest-integrity pathway chain
     **Primary assessment:** Evaluation must verify timeliness, accessibility, backlog effects, evidence availability within security-constrained observability, independence of the review path, and records sufficient to detect chill, capture, retaliation, secrecy-duration misalignment, or bypass of applicable limits.
 <a id="contest-integrity-pathway-chain-c"></a>
 - **What must hold**
-  - **Primary failure:** Claim contest-integrity when monitoring becomes merits adjudication, displaces the assigned forum, hides pathway failure, lacks records for lawful transfer or recusal review, or leaves materially affected parties without a practical review path.
+  - **Primary failure:** Claim contest-integrity when monitoring becomes merits adjudication, displaces the assigned forum, hides contest-pathway failure, lacks records for lawful transfer or recusal review, or leaves materially affected parties without a practical review path.
 
 <a id="control-failure-declaration-chain"></a>
 Control-failure declaration chain
@@ -976,10 +976,10 @@ Integrity-trigger routing chain
 <a id="property-custody-and-incentive-separation-control-chain"></a>
 Property-custody and incentive-separation control chain
 
-*In plain terms: where an implementation pathway uses seizure, impoundment, quarantine, forfeiture, voluntary turnover incentives, bounty-like payments, custody of restricted assets, or comparable compliance-linked deprivation, the pathway must keep…*
+*In plain terms: where an implementation pathway uses seizure, impoundment, quarantine, forfeiture, voluntary turnover incentives, bounty-like payments, custody of restricted assets, or comparable compliance-linked deprivation, that implementation pathway must keep…*
 
 - **What it is**
-  - **In scope:** Where an implementation pathway uses seizure, impoundment, quarantine, forfeiture, voluntary turnover incentives, bounty-like payments, custody of restricted assets, or comparable compliance-linked deprivation, the pathway must keep eligibility criteria, custody authority, incentive adjudication, enforcement execution, fund disbursement, contest access, time limits, and audit records structurally traceable and, where practical, separated enough to reduce false-claim pressure, collusion, selective targeting, and capture.
+  - **In scope:** Where an implementation pathway uses seizure, impoundment, quarantine, forfeiture, voluntary turnover incentives, bounty-like payments, custody of restricted assets, or comparable compliance-linked deprivation, that implementation pathway must keep eligibility criteria, custody authority, incentive adjudication, enforcement execution, fund disbursement, contest access, time limits, and audit records structurally traceable and, where practical, separated enough to reduce false-claim pressure, collusion, selective targeting, and capture.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in property-custody and incentive-separation control chain.
 <a id="property-custody-and-incentive-separation-control-chain-a"></a>
 - **How to measure and assess**
@@ -988,7 +988,7 @@ Property-custody and incentive-separation control chain
     **Primary assessment:** Evaluation must verify the link to a binding compliance finding or lawful remedial predicate, notice where feasible, contest or review pathways, custody and payout owners, conflict disclosures, anti-gaming controls, evidence-preservation records, sunset or reauthorization points, and treatment of non-culpable holders where applicable.
 <a id="property-custody-and-incentive-separation-control-chain-c"></a>
 - **What must hold**
-  - **Primary failure:** A custody or incentive pathway if payout adjudication controls seizure execution without safeguards, if incentives reward accusation without verified predicate, if asset custody or fund disbursement cannot be reconstructed, if time limits or contest paths are absent, or if the pathway is used as a pretext for retaliation, harassment, essential-access denial, or selective enforcement.
+  - **Primary failure:** A custody or incentive pathway if payout adjudication controls seizure execution without safeguards, if incentives reward accusation without verified predicate, if asset custody or fund disbursement cannot be reconstructed, if time limits or contest paths are absent, or if the implementation pathway is used as a pretext for retaliation, harassment, essential-access denial, or selective enforcement.
 
 <a id="shared-anti-capture-control-stack"></a>
 Shared anti-capture control stack
@@ -1010,10 +1010,10 @@ Shared anti-capture control stack
 <a id="sortition-and-civic-lottery-integrity-controls"></a>
 Sortition and civic-lottery integrity controls
 
-*In plain terms: where sortition, civic lottery, representative draw, or comparable randomized participation materially shapes governing, oversight, review, procurement, audit, agenda-setting, or constitutional-deliberation authority, the pathway must…*
+*In plain terms: where sortition, civic lottery, representative draw, or comparable randomized participation materially shapes governing, oversight, review, procurement, audit, agenda-setting, or constitutional-deliberation authority, the civic-lottery pathway must…*
 
 - **What it is**
-  - **In scope:** Where sortition, civic lottery, representative draw, or comparable randomized participation materially shapes governing, oversight, review, procurement, audit, agenda-setting, or constitutional-deliberation authority, the pathway must protect randomization integrity, eligibility and exclusion rules, replacement and rotation rules, participant access supports, briefing-source independence, facilitator and staff separation, contact and lobbying boundaries, intimidation safeguards, post-service benefit controls, and contest routes for selection failure, manipulation, capture, or procedural distortion.
+  - **In scope:** Where sortition, civic lottery, representative draw, or comparable randomized participation materially shapes governing, oversight, review, procurement, audit, agenda-setting, or constitutional-deliberation authority, the civic-lottery pathway must protect randomization integrity, eligibility and exclusion rules, replacement and rotation rules, participant access supports, briefing-source independence, facilitator and staff separation, contact and lobbying boundaries, intimidation safeguards, post-service benefit controls, and contest routes for selection failure, manipulation, capture, or procedural distortion.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in sortition and civic-lottery integrity.
 <a id="sortition-and-civic-lottery-integrity-controls-a"></a>
 - **How to measure and assess**
