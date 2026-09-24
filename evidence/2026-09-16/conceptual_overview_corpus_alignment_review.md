@@ -28,16 +28,16 @@ The reviewed material was the working tree, which already contained changes. The
 | --- | --- | --- |
 | Flourishing and Continuity, pursued through the four Tetrad duties | Supported by the [Preamble](../../core_00_preamble.md#the-model) and Chapter One. | Neither aim supplies a general exemption from constraints. |
 | Principles, rights, definitions, and verification work together | Supported by [Chapter One's interpretation rules](../../core_01_b_interaction_interpretation.md#8-constitutional-interpretation), [Chapter Two](../../core_02_definition_structure.md), [Chapter Three](../../core_03_definition_integrity.md), and [Chapter Four](../../core_04_burden_traceability_verification.md). | The overview points to the residual hierarchy but does not explain its actual ordering. |
-| Data type, system impact, dependency, and dispute urgency are distinct | Supported by [CS-2](../../corpus_systems/cs_02_b_data_classifications.md), [CS-3](../../corpus_systems/cs_03_a_system_classification_machinery.md), and [Chapter Eleven §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline). | Similar alphabets must not substitute for separate factual determinations. |
-| Certification evaluates a bounded system claim | Supported by [Chapter Seven](../../core_07_a_system_alignment_certification_evaluation.md). | A certificate supplies evidence within scope; it does not itself award personal standing or establish sentience. |
-| Facts, magnitude, and effects are separate stages | Supported by [Chapter Eight](../../core_08_standing_assessment.md) and [Chapter Nine](../../core_09_standing_integration.md). | Verification errors require correction through the proper route; stage separation cannot immunize a mistaken record. |
-| Contribution never cancels violation | Supported by [Chapter Eight's separate records](../../core_08_standing_assessment.md) and [Chapter Nine's integration rules](../../core_09_standing_integration.md). | Absence of a universal net score is only part of the protection: ordinary life should not require a standing record at all. |
-| LEQU uses a common proportional magnitude scale | The overview's nine bands and 80-year illustrative caveat match [Chapter Eight §7](../../core_08_standing_assessment.md#7-unified-proportional-lequ-scale). | Specifying a unit and bands does not establish that different evaluators can reliably assign magnitudes. |
-| Anti-constitutional misconduct requires a separate review | Supported by [Chapter Ten §§2–4](../../core_10_a_misconduct_designation.md). | Its designation can have severe political, institutional, and liberty consequences that the overview should state plainly. |
-| Forums preserve independent, timely challenge | Supported by [Chapter Eleven](../../core_11_forum.md) and [CF-9's investigative separation](../../corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md). | Deadline extensions have a stronger substantive burden than the overview currently states. |
-| Stakeholder participation does not authorize governing power | Supported by [Chapter Twelve](../../core_12_governance.md). | Equal foundational voting weight and the exceptional withholding of that voice deserve explicit treatment. |
+| Data type, system impact, dependency, and dispute urgency are distinct | Supported by [CS-2](../../corpus_systems/cs_02_b_data_classifications.md), [CS-3](../../corpus_systems/cs_03_a_system_classification_machinery.md), and [Chapter Eleven §6](../../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline). | Similar alphabets must not substitute for separate factual determinations. |
+| Certification evaluates a bounded system claim | Supported by [Chapter Seven](../../core_08_a_system_alignment_certification_evaluation.md). | A certificate supplies evidence within scope; it does not itself award personal standing or establish sentience. |
+| Facts, magnitude, and effects are separate stages | Supported by [Chapter Eight](../../core_09_standing_assessment.md) and [Chapter Nine](../../core_10_standing_integration.md). | Verification errors require correction through the proper route; stage separation cannot immunize a mistaken record. |
+| Contribution never cancels violation | Supported by [Chapter Eight's separate records](../../core_09_standing_assessment.md) and [Chapter Nine's integration rules](../../core_10_standing_integration.md). | Absence of a universal net score is only part of the protection: ordinary life should not require a standing record at all. |
+| LEQU uses a common proportional magnitude scale | The overview's nine bands and 80-year illustrative caveat match [Chapter Eight §7](../../core_09_standing_assessment.md#7-unified-proportional-lequ-scale). | Specifying a unit and bands does not establish that different evaluators can reliably assign magnitudes. |
+| Anti-constitutional misconduct requires a separate review | Supported by [Chapter Ten §§2–4](../../core_11_a_misconduct_designation.md). | Its designation can have severe political, institutional, and liberty consequences that the overview should state plainly. |
+| Forums preserve independent, timely challenge | Supported by [Chapter Eleven](../../core_12_forum.md) and [CF-9's investigative separation](../../corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md). | Deadline extensions have a stronger substantive burden than the overview currently states. |
+| Stakeholder participation does not authorize governing power | Supported by [Chapter Twelve](../../core_13_governance.md). | Equal foundational voting weight and the exceptional withholding of that voice deserve explicit treatment. |
 | Four seats prevent self-verification | Supported by [Chapter One §10.2](../../core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties). | Contradicted by the small-scope exception elsewhere in Chapter Eight and CI-22; see finding 1. |
-| Non-regression, amendment, incorporation, and custody have distinct owners | Supported by [Chapters Thirteen](../../core_13_non_regression.md), [Fourteen](../../core_14_expansion_supremacy.md), [Fifteen](../../core_15_amendment_ratification.md), and [Sixteen](../../core_16_incorporation.md). | Several operative and navigational references still point to the wrong owners. |
+| Non-regression, amendment, incorporation, and custody have distinct owners | Supported by [Chapters Thirteen](../../core_14_non_regression.md), [Fourteen](../../core_15_expansion_supremacy.md), [Fifteen](../../core_16_amendment_ratification.md), and [Sixteen](../../core_17_incorporation.md). | Several operative and navigational references still point to the wrong owners. |
 
 ## Established textual findings
 
@@ -45,7 +45,7 @@ The reviewed material was the working tree, which already contained changes. The
 
 The overview says checking may never be combined with entering the same record or hearing its challenge. That accurately reflects [Chapter One §10.2](../../core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties), which permits some safeguarded combinations but expressly excludes “verify-and-record” and “verify-and-review” on the same act.
 
-[Chapter Eight §3.7](../../core_08_standing_assessment.md#37-segregation-of-duties) then says both:
+[Chapter Eight §3.7](../../core_09_standing_assessment.md#37-segregation-of-duties) then says both:
 
 - “no office ever both verifies and enters” the same record (line 425 at review); and
 - for informal and small-scope records, “verify and enter-and-hold may sit in that one office under a disclosed safeguard” (line 437).
@@ -60,13 +60,13 @@ There is also inconsistent test language in [CJS-3.11, Constitutional lane and f
 
 ### 2. High priority: several references resolve to the wrong substantive subject
 
-In [Chapter Fifteen](../../core_15_amendment_ratification.md), §11.1, line 307, the rule for participation, objections, and independent review of materially high-impact amendments points to **Article X-C, Adult consensual commercial sexual services and sexual exploitation**. That is not the general legitimacy owner for constitutional amendments. The same target is repeated in nearby reader guidance.
+In [Chapter Fifteen](../../core_16_amendment_ratification.md), §11.1, line 307, the rule for participation, objections, and independent review of materially high-impact amendments points to **Article X-C, Adult consensual commercial sexual services and sexual exploitation**. That is not the general legitimacy owner for constitutional amendments. The same target is repeated in nearby reader guidance.
 
 The §10.3 joining rule, line 276, sends participation weight to **Article X-B, Collective Harm Boundary and Enforcement Interface**. The [Chapter Six participation provisions](../../core_06_rights_part_b.md) place representation and legitimacy rules in Article XI. These references require an owner-based correction, not merely a successful anchor lookup.
 
 Other confirmed drift:
 
-- [Chapter Thirteen](../../core_13_non_regression.md), line 53, assigns expansion, supremacy, ratification, and procedural validity to **Chapters Twelve and Thirteen**. The current owners are Fourteen and Fifteen; the overview gets that division right.
+- [Chapter Thirteen](../../core_14_non_regression.md), line 53, assigns expansion, supremacy, ratification, and procedural validity to **Chapters Twelve and Thirteen**. The current owners are Fourteen and Fifteen; the overview gets that division right.
 - The [Preamble](../../core_00_preamble.md), lines 143 and 148, links its Chapter Three and Chapter Four owner entries to the Chapter Two file.
 - The [Corpus definition](../../core_05_band_integrative.md#corpus), line 590, instructs readers to apply “Chapter Thirteen supremacy and Chapter Fourteen adoption conditions,” another stale ownership mapping.
 
@@ -78,7 +78,7 @@ Other confirmed drift:
 
 The [overview's forum-clock passage](../../guides/CONCEPTUAL_OVERVIEW.md#forums), line 695, says later-stage coordination can justify a published, tier-appropriate extension while preserving the outer-bound floor.
 
-[Chapter Eleven §6](../../core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), lines 852–859, makes extension beyond the default outer bound conditional on documented authorization under Article XXIII-D. [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md), lines 220–224, expressly requires continuing necessity, proportionality, and absence of less-restrictive feasible alternatives. Its A/B complexity extension can use the next slower column while preserving the original tier's early protections.
+[Chapter Eleven §6](../../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), lines 852–859, makes extension beyond the default outer bound conditional on documented authorization under Article XXIII-D. [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md), lines 220–224, expressly requires continuing necessity, proportionality, and absence of less-restrictive feasible alternatives. Its A/B complexity extension can use the next slower column while preserving the original tier's early protections.
 
 **Correction direction:** describe the numbers as binding default outer bounds with that expressly authorized exception. Make clear that coordination complexity alone is not the complete authorization test. This prevents both an overstatement of absolute deadlines and an understatement of the burden for extending them.
 
@@ -102,17 +102,17 @@ These omissions do not make every corresponding overview sentence false. They ca
 
 ### Political equality and political exclusion belong in the same explanation
 
-[Chapter Twelve §4.1](../../core_12_governance.md) gives each entitled sentient equal weight in Foundational Constitutional Choice. It distinguishes this from stake-weighted choice within already-authorized systems. It also permits ordinary governance-voting locks and, after final qualifying anti-constitutional designation, withholding of durable political voice, including foundational choice, until restitution requirements are satisfied.
+[Chapter Twelve §4.1](../../core_13_governance.md) gives each entitled sentient equal weight in Foundational Constitutional Choice. It distinguishes this from stake-weighted choice within already-authorized systems. It also permits ordinary governance-voting locks and, after final qualifying anti-constitutional designation, withholding of durable political voice, including foundational choice, until restitution requirements are satisfied.
 
 The text contains significant protections: poverty, disability, exile, loss of substrate, and valuation uncertainty cannot alone justify withholding where the specified good-faith conditions hold; impossible full restitution has a route to partial or conditional restoration. These safeguards should be stated alongside the power to withhold voice.
 
-The overview should also plainly disclose that [Chapter Nine §5.5](../../core_09_standing_integration.md) can exclude a designated actor from extensive trust-sensitive institutional pathways, and [Chapter Ten §4.2](../../core_10_a_misconduct_designation.md) can require imprisonment where the individualized necessity and lesser-means tests are met. Describing these only as “effects” or “restrictions” understates their significance.
+The overview should also plainly disclose that [Chapter Nine §5.5](../../core_10_standing_integration.md) can exclude a designated actor from extensive trust-sensitive institutional pathways, and [Chapter Ten §4.2](../../core_11_a_misconduct_designation.md) can require imprisonment where the individualized necessity and lesser-means tests are met. Describing these only as “effects” or “restrictions” understates their significance.
 
 ### Freedom from a universal standing system is an affirmative protection
 
-[Chapter Eight §2.1](../../core_08_standing_assessment.md#21-silence-is-the-default) makes silence the default: most sentients should have no standing record, absence supports no adverse inference, and records are not general prerequisites for essentials or ordinary participation. Named trust-sensitive roles retain their own lawful qualification requirements.
+[Chapter Eight §2.1](../../core_09_standing_assessment.md#21-silence-is-the-default) makes silence the default: most sentients should have no standing record, absence supports no adverse inference, and records are not general prerequisites for essentials or ordinary participation. Named trust-sensitive roles retain their own lawful qualification requirements.
 
-[Chapter Nine §§7.1–8](../../core_09_standing_integration.md) adds separate protections against cross-pathway profiles, rankings, badges, general public LEQU labels, and indefinite active integration of restored lower-slot findings, subject to its specified exceptions. It also requires adopters to measure whether standing is experienced as a worth rank despite its formal label.
+[Chapter Nine §§7.1–8](../../core_10_standing_integration.md) adds separate protections against cross-pathway profiles, rankings, badges, general public LEQU labels, and indefinite active integration of restored lower-slot findings, subject to its specified exceptions. It also requires adopters to measure whether standing is experienced as a worth rank despite its formal label.
 
 The overview's “no merged score” is accurate but too small an account of these safeguards. Equally, its explanation should acknowledge the real burdens and doors closed by lawful locks. Chapter Nine §7.2 itself requires this candor in material describing standing to affected sentients.
 
@@ -128,15 +128,15 @@ The [Authority Stack and Internal Hierarchy](../../core_05_band_integrative.md#a
 
 ### Severe designation needs a demonstrably safe boundary
 
-[Chapter Ten §3](../../core_10_a_misconduct_designation.md) permits designation when a qualifying unified incident satisfies one or more §2 criteria and the process safeguards. Criteria 3 and 4 concern rollback effects and causally significant degradation; neither expressly contains the willfulness requirement stated in criterion 1. Thus it would be inaccurate to reassure readers that designation always requires proven malicious intent.
+[Chapter Ten §3](../../core_11_a_misconduct_designation.md) permits designation when a qualifying unified incident satisfies one or more §2 criteria and the process safeguards. Criteria 3 and 4 concern rollback effects and causally significant degradation; neither expressly contains the willfulness requirement stated in criterion 1. Thus it would be inaccurate to reassure readers that designation always requires proven malicious intent.
 
-There are real counterweights: verified magnitude, individualized attribution, heightened review, proportionality, contestability, specific pattern exclusions, and the narrow good-faith drafting carve-out. [Part B](../../core_10_b_misconduct_pattern_applications.md) also preserves good-faith enforcement discretion and legitimate safety or maintenance actions.
+There are real counterweights: verified magnitude, individualized attribution, heightened review, proportionality, contestability, specific pattern exclusions, and the narrow good-faith drafting carve-out. [Part B](../../core_11_b_misconduct_pattern_applications.md) also preserves good-faith enforcement discretion and legitimate safety or maintenance actions.
 
 Nevertheless, the combination of broad effects-based criteria with loss of political voice and possible confinement needs adversarial case testing. A failed good-faith administrator, a dissident reformer, and an organized captor must not become interchangeable merely because each creates institutional disruption. The info-sphere flooding rule especially needs testing against mass protest, investigative reporting, and expensive but legitimate contestation; Article V-H protects these activities, and the practical boundary must survive hostile enforcement.
 
 ### LEQU calibration remains a consequential measurement problem
 
-[Chapter Eight §§5.2 and 7](../../core_08_standing_assessment.md) requires an integrated estimate from several dimensions, with separate treatment of conduct character. The [calibration reference](../../implementation/LEQU_CALIBRATION_REFERENCE.md) supplies worked examples and explicitly lacks authority to decide live records. That is useful support, not demonstrated measurement reliability.
+[Chapter Eight §§5.2 and 7](../../core_09_standing_assessment.md) requires an integrated estimate from several dimensions, with separate treatment of conduct character. The [calibration reference](../../implementation/LEQU_CALIBRATION_REFERENCE.md) supplies worked examples and explicitly lacks authority to decide live records. That is useful support, not demonstrated measurement reliability.
 
 One methodological issue needs an explicit rationale: the reference calls 80 years a display translation, but then uses that denominator to assign digital pause/deprivation magnitudes in examples W5 and W6. The declared substrate-neutral unit and the operational use of a human time baseline need reconciliation or justification. This is a calibration question, not a finding that digital sentients are assigned lesser dignity by the constitutional source.
 
@@ -144,7 +144,7 @@ Before using small differences around a band threshold to support severe consequ
 
 ### Institutional capacity determines whether the rights are usable
 
-The corpus recognizes this problem unusually directly. [Chapter Nine §§4.4 and 9.2](../../core_09_standing_integration.md) links ordinary locks to opened remedies, publishes lock/remedy performance, creates a backlog tripwire, and requires remedy-capacity funding parity with an explained, performance-tested departure route. [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) assigns implementation responsibility. [CS-6](../../corpus_systems/cs_06_comprehensibility_complexity_stewardship.md) requires complexity stewardship and periodic simplification.
+The corpus recognizes this problem unusually directly. [Chapter Nine §§4.4 and 9.2](../../core_10_standing_integration.md) links ordinary locks to opened remedies, publishes lock/remedy performance, creates a backlog tripwire, and requires remedy-capacity funding parity with an explained, performance-tested departure route. [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) assigns implementation responsibility. [CS-6](../../corpus_systems/cs_06_comprehensibility_complexity_stewardship.md) requires complexity stewardship and periodic simplification.
 
 These are substantive safeguards, not missing ideas. The unresolved issue is delivery. The tripwire has important exceptions, including special locks and top-slot findings. Those facing the greatest restrictions remain especially dependent on independent review functioning under load.
 
@@ -152,7 +152,7 @@ A viable implementation must let an exhausted, poor, disabled, unfamiliar, or un
 
 ### Revisability depends on independent judgments of regression
 
-[Article XXV](../../core_06_rights_part_d.md#article-xxv-constitutional-evolution-and-non-entrenchment) requires revalidation and non-entrenchment, while [Chapter Thirteen](../../core_13_non_regression.md) forbids substantive regression. These are compatible commitments: mechanisms can change while protected floors remain.
+[Article XXV](../../core_06_rights_part_d.md#article-xxv-constitutional-evolution-and-non-entrenchment) requires revalidation and non-entrenchment, while [Chapter Thirteen](../../core_14_non_regression.md) forbids substantive regression. These are compatible commitments: mechanisms can change while protected floors remain.
 
 The danger is interpretive capture. An incumbent could characterize a challenge to its preferred mechanism as weakening the protections that mechanism supposedly serves. A convincing implementation must demonstrate that opponents can replace failed institutions through protected channels without agreement from the office whose power is at issue. More cross-references alone will not establish that independence.
 

@@ -44,7 +44,7 @@ All rows: **read/check complete; no unresolved source finding**.
 - [x] [`core_05_band_oversight.md`](../../core_05_band_oversight.md)
 - [x] [`core_05_band_participation.md`](../../core_05_band_participation.md)
 - [x] [`core_05_band_performance.md`](../../core_05_band_performance.md)
-- [x] [`core_08-11_application_vignettes.md`](../../core_08-11_application_vignettes.md) — non-operative application material; reviewed for consistency with the source, not as a source of duties.
+- [x] [`core_08-11_application_vignettes.md`](../../core_09-12_application_vignettes.md) — non-operative application material; reviewed for consistency with the source, not as a source of duties.
 
 ### Certification, standing, forums, governance, and constitutional closeout
 
@@ -52,19 +52,19 @@ All rows: **read/check complete; no unresolved source finding**.
 - [x] [`core_06_rights_part_b.md`](../../core_06_rights_part_b.md)
 - [x] [`core_06_rights_part_c.md`](../../core_06_rights_part_c.md)
 - [x] [`core_06_rights_part_d.md`](../../core_06_rights_part_d.md)
-- [x] [`core_07_a_system_alignment_certification_evaluation.md`](../../core_07_a_system_alignment_certification_evaluation.md)
-- [x] [`core_07_b_system_alignment_certification_record_process.md`](../../core_07_b_system_alignment_certification_record_process.md)
-- [x] [`core_07_system_alignment_certification.md`](../../core_07_system_alignment_certification.md)
-- [x] [`core_08_standing_assessment.md`](../../core_08_standing_assessment.md)
-- [x] [`core_09_standing_integration.md`](../../core_09_standing_integration.md)
-- [x] [`core_10_a_misconduct_designation.md`](../../core_10_a_misconduct_designation.md)
-- [x] [`core_10_b_misconduct_pattern_applications.md`](../../core_10_b_misconduct_pattern_applications.md)
-- [x] [`core_11_forum.md`](../../core_11_forum.md)
-- [x] [`core_12_governance.md`](../../core_12_governance.md)
-- [x] [`core_13_non_regression.md`](../../core_13_non_regression.md)
-- [x] [`core_14_expansion_supremacy.md`](../../core_14_expansion_supremacy.md)
-- [x] [`core_15_amendment_ratification.md`](../../core_15_amendment_ratification.md)
-- [x] [`core_16_incorporation.md`](../../core_16_incorporation.md)
+- [x] [`core_07_a_system_alignment_certification_evaluation.md`](../../core_08_a_system_alignment_certification_evaluation.md)
+- [x] [`core_07_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md)
+- [x] [`core_07_system_alignment_certification.md`](../../core_08_system_alignment_certification.md)
+- [x] [`core_08_standing_assessment.md`](../../core_09_standing_assessment.md)
+- [x] [`core_09_standing_integration.md`](../../core_10_standing_integration.md)
+- [x] [`core_10_a_misconduct_designation.md`](../../core_11_a_misconduct_designation.md)
+- [x] [`core_10_b_misconduct_pattern_applications.md`](../../core_11_b_misconduct_pattern_applications.md)
+- [x] [`core_11_forum.md`](../../core_12_forum.md)
+- [x] [`core_12_governance.md`](../../core_13_governance.md)
+- [x] [`core_13_non_regression.md`](../../core_14_non_regression.md)
+- [x] [`core_14_expansion_supremacy.md`](../../core_15_expansion_supremacy.md)
+- [x] [`core_15_amendment_ratification.md`](../../core_16_amendment_ratification.md)
+- [x] [`core_16_incorporation.md`](../../core_17_incorporation.md)
 
 ## Companion wrapper ledger
 

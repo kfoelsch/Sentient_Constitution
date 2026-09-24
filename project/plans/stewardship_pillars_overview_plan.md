@@ -19,10 +19,10 @@ Yes. Four reasons, in order of weight:
 
 The corpus already has a convention for shared diagrams, and it runs in the opposite direction from what "copy it there" implies:
 
-- `core_01_a_values_principles.md` reproduces the Tetrad chart and closes with *"Reproduced from the [Conceptual Overview](CONCEPTUAL_OVERVIEW.md#two-aims-and-the-constitutional-tetrad)."*
+- `core_01_a_values_principles.md` reproduces the Tetrad chart and closes with *"Reproduced from the [Conceptual Overview](../../guides/CONCEPTUAL_OVERVIEW.md#two-aims-and-the-constitutional-tetrad)."*
 - `core_01_b_interaction_interpretation.md` uses the same pattern for the definitions chart.
 
-Those are cross-cutting maps that span the instrument, so the overview is their natural canonical home. The pillar chart is different: it is Chapter One §9's own taxonomy, and §9 is its source. So this plan inverts the pointer and uses the overview's *own* native pattern instead — the Tetrad subsection already says *"Their source is the [Preamble's Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad)."*
+Those are cross-cutting maps that span the instrument, so the overview is their natural canonical home. The pillar chart is different: it is Chapter One §9's own taxonomy, and §9 is its source. So this plan inverts the pointer and uses the overview's *own* native pattern instead — the Tetrad subsection already says *"Their source is the [Preamble's Constitutional Tetrad](../../core_00_preamble.md#constitutional-tetrad)."*
 
 **Decision:** the overview version carries a source pointer to §9. `core_01_c` is left unchanged. A reciprocal pointer in §9 is optional and listed under *Open decisions*.
 
@@ -100,6 +100,6 @@ Then confirm the Mermaid block renders and every link resolves.
 
 ## Open decisions
 
-1. **Reciprocal pointer in §9.** Add *"Also shown in the [Conceptual Overview](CONCEPTUAL_OVERVIEW.md#stewardship-pillars)."* beneath the §9 chart? It aids navigation but creates a second place to maintain if the overview subsection is ever renamed.
+1. **Reciprocal pointer in §9.** Add *"Also shown in the [Conceptual Overview](../../guides/CONCEPTUAL_OVERVIEW.md#stewardship-pillars)."* beneath the §9 chart? It aids navigation but creates a second place to maintain if the overview subsection is ever renamed.
 2. **The §9 chain.** Should `P1 --> P2 --> P3a` in the §9 chart become parallel edges too, matching its own "together" prose? Handled as a separate change; this plan does not touch `core_01_c`.
 3. **Pillar colours.** Neutral slate for all three is the conservative choice. The alternative is colouring each pillar with the Tetrad leg it most carries — participation teal, timeliness purple, oversight orange — which is more informative but asserts a one-to-one pillar-to-leg mapping that §9 does not make.

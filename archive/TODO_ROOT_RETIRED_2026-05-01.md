@@ -2,7 +2,7 @@
 
 **Root retirement (2026-05-01):** This file is a full copy of the last `TODO.md` at repository root before root-level session meta files were retired. Continuations and backlog history live under `archive/` and [README.md](../README.md) *Binding vs support*.
 
-**2026-05-01:** Full active backlog text before this slim pass: [archive/TODO_ARCHIVED_2026-05-01.md](TODO_ARCHIVED_2026-05-01.md). Earlier: [archive/TODO_ARCHIVED_2026-04-30.md](TODO_ARCHIVED_2026-04-30.md), [archive/TODO_SNAPSHOT_2026-04-30.md](TODO_SNAPSHOT_2026-04-30.md), [archive/TODO_SNAPSHOT_2026-04-30_POST_COMMIT.md](TODO_SNAPSHOT_2026-04-30_POST_COMMIT.md).
+**2026-05-01:** Full active backlog text before this slim pass: archive/TODO_ARCHIVED_2026-05-01.md. Earlier: archive/TODO_ARCHIVED_2026-04-30.md, archive/TODO_SNAPSHOT_2026-04-30.md, archive/TODO_SNAPSHOT_2026-04-30_POST_COMMIT.md.
 
 ## Editor Checklist (Pre-Review / Pre-Merge)
 
@@ -15,16 +15,16 @@
 
 ## Current Chapter Map
 
-- **Ch 1:** [core_00-01_principles.md](../core_00-01_principles.md)
-- **Ch 2-4:** [core_02-04_definition_mechanics.md](../core_02-04_definition_mechanics.md)
-- **Ch 5:** [core_05-05_definitions_a_independent.md](../core_05-05_definitions_a_independent.md), [core_05-05_definitions_b_semi_independent.md](../core_05-05_definitions_b_semi_independent.md), [core_05-05_definitions_c_dependent_clusters.md](../core_05-05_definitions_c_dependent_clusters.md)
-- **Ch 6:** [core_06-06_standing_classification.md](../core_06-06_standing_classification.md), [core_06-06_standing_integration.md](../core_06-06_standing_integration.md)
-- **Ch 7:** [core_07-07_misconduct.md](../core_07-07_misconduct.md)
-- **Ch 8:** [core_08-08_forum.md](../core_08-08_forum.md)
-- **Ch 9:** [core_09-09_rights_part_a.md](../core_09-09_rights_part_a.md) through [core_09-09_rights_part_d.md](../core_09-09_rights_part_d.md)
-- **Ch 10:** [core_10-10_governance.md](../core_10-10_governance.md)
-- **Ch 11-13:** [core_11-13_amendment.md](../core_11-13_amendment.md)
-- **Ch 14:** [core_14-14_incorporation.md](../core_14-14_incorporation.md)
+- **Ch 1:** [core_00-01_principles.md](../core_01_a_values_principles.md)
+- **Ch 2-4:** [core_02-04_definition_mechanics.md](../core_02_definition_structure.md)
+- **Ch 5:** [core_05-05_definitions_a_independent.md](../core_05__definitions_home.md), [core_05-05_definitions_b_semi_independent.md](core_ch5_retired/core_05-05_definitions_b_semi_independent.md), [core_05-05_definitions_c_dependent_clusters.md](core_ch5_retired/core_05-05_definitions_c_dependent_clusters.md)
+- **Ch 6:** [core_06-06_standing_classification.md](../core_09_standing_assessment.md), [core_06-06_standing_integration.md](../core_10_standing_integration.md)
+- **Ch 7:** [core_07-07_misconduct.md](../core_11_a_misconduct_designation.md)
+- **Ch 8:** [core_08-08_forum.md](../core_12_forum.md)
+- **Ch 9:** [core_09-09_rights_part_a.md](../core_06_rights_part_a.md) through [core_09-09_rights_part_d.md](../core_06_rights_part_d.md)
+- **Ch 10:** [core_10-10_governance.md](../core_13_governance.md)
+- **Ch 11-13:** [core_11-13_amendment.md](../core_16_amendment_ratification.md)
+- **Ch 14:** [core_14-14_incorporation.md](../core_17_incorporation.md)
 - **Companion corpus:** [corpus_joint_structure.md](../corpus_joint_structure.md), [corpus_systems.md](../corpus_systems.md), [corpus_institutions.md](../corpus_institutions.md), [corpus_forum.md](../corpus_forum.md)
 
 Retired compatibility wrapper names such as `core_constitution.md`, `core_definitions.md`, and `core_amendment.md` are not current source files. Use the numbered files above.
@@ -50,18 +50,18 @@ Deterministic routing is now documented in [doc_architecture.md](../doc_architec
 
 Single canonical cluster homes for definitions that currently admit multiple semi-independent or dependent contexts without an explicit precedence rule. Resolve by editorial tie-break or restructuring; until then, evaluators apply intersecting clusters only as materially implicated read-with routing.
 
-- [ ] **Environmental Preconditions** — reconcile [§3.6 / bodily-maintenance survival floor](../core_05-05_definitions_b_semi_independent.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster), [semi-independent ecological footprint cluster](../core_05-05_definitions_b_semi_independent.md#ecological-integrity-footprint-and-sustainability-cluster), and Part C [§3.31 resilience / environmental preconditions routing](../core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster).
-- [ ] **Adjudication and Dispute Resolution** — reconcile [§3.3 accountability / adjudication cluster](../core_05-05_definitions_b_semi_independent.md#accountability-contestability-and-collective-accountability-failure-cluster) with [§3.30 redress / restorative / refuge cluster](../core_05-05_definitions_b_semi_independent.md#adjudication-redress-restorative-review-correction-and-refuge-cluster) where both traces apply.
-- [ ] **Oversight** — reconcile governance-architecture oversight routing with [§3.22 materiality / classification / oversight cluster](../core_05-05_definitions_b_semi_independent.md#materiality-classification-oversight-and-capability-cluster) (*dual cluster membership* traces).
-- [ ] **Family vs derivation** — align [§3.17 family cluster](../core_05-05_definitions_b_semi_independent.md#family-care-reproductive-autonomy-non-separation-parent-system-and-instantiation-cluster) vs [§3.18 derivation cluster](../core_05-05_definitions_c_dependent_clusters.md#derived-developing-sentients-instantiation-and-care-authority-cluster) primacy where cluster-component traces both cite.
-- [ ] **Productive Capacity** — reconcile Part C [§3.26 proportionality / burden / productive-capacity cluster](../core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster) with Part C [§3.13 creative-work / anti-displacement cluster](../core_05-05_definitions_c_dependent_clusters.md#creative-work-training-data-attribution-compensation-and-anti-displacement-cluster) for `#productive-capacity-partc` dual cluster-component traces.
-- [ ] **Incentive Alignment** — untangle nested read-with vs directory duplicates ([`#incentive-alignment`](../core_05-05_definitions_b_semi_independent.md#incentive-alignment) vs [Governance Architecture … concentration cluster](../core_05-05_definitions_b_semi_independent.md#governance-architecture-oversight-decentralization-and-concentration-cluster) routing).
+- [ ] **Environmental Preconditions** — reconcile [§3.6 / bodily-maintenance survival floor](core_ch5_retired/core_05-05_definitions_b_semi_independent.md#safe-conditions-tenure-security-and-environmental-preconditions-cluster), [semi-independent ecological footprint cluster](core_ch5_retired/core_05-05_definitions_b_semi_independent.md#ecological-integrity-footprint-and-sustainability-cluster), and Part C [§3.31 resilience / environmental preconditions routing](core_ch5_retired/core_05-05_definitions_c_dependent_clusters.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster).
+- [ ] **Adjudication and Dispute Resolution** — reconcile [§3.3 accountability / adjudication cluster](core_ch5_retired/core_05-05_definitions_b_semi_independent.md#accountability-contestability-and-collective-accountability-failure-cluster) with [§3.30 redress / restorative / refuge cluster](core_ch5_retired/core_05-05_definitions_b_semi_independent.md#adjudication-redress-restorative-review-correction-and-refuge-cluster) where both traces apply.
+- [ ] **Oversight** — reconcile governance-architecture oversight routing with [§3.22 materiality / classification / oversight cluster](core_ch5_retired/core_05-05_definitions_b_semi_independent.md#materiality-classification-oversight-and-capability-cluster) (*dual cluster membership* traces).
+- [ ] **Family vs derivation** — align [§3.17 family cluster](core_ch5_retired/core_05-05_definitions_b_semi_independent.md#family-care-reproductive-autonomy-non-separation-parent-system-and-instantiation-cluster) vs [§3.18 derivation cluster](core_ch5_retired/core_05-05_definitions_c_dependent_clusters.md#derived-developing-sentients-instantiation-and-care-authority-cluster) primacy where cluster-component traces both cite.
+- [ ] **Productive Capacity** — reconcile Part C [§3.26 proportionality / burden / productive-capacity cluster](core_ch5_retired/core_05-05_definitions_c_dependent_clusters.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster) with Part C [§3.13 creative-work / anti-displacement cluster](core_ch5_retired/core_05-05_definitions_c_dependent_clusters.md#creative-work-training-data-attribution-compensation-and-anti-displacement-cluster) for `#productive-capacity-partc` dual cluster-component traces.
+- [ ] **Incentive Alignment** — untangle nested read-with vs directory duplicates ([`#incentive-alignment`](core_ch5_retired/core_05-05_definitions_b_semi_independent.md#incentive-alignment) vs [Governance Architecture … concentration cluster](core_ch5_retired/core_05-05_definitions_b_semi_independent.md#governance-architecture-oversight-decentralization-and-concentration-cluster) routing).
 
 ### P3 — Holistic Redundancy Sweep
 
 - [x] **User acceptance gate (waived for GitHub publish prep, 2026-04-30):** The grep-per-theme companion dedup sweep remains valuable post-release editorial work; it is **not** blocking the public GitHub corpus cut for edition **`SC-Corpus-2026.04.32`**. Re-open by unchecking this item when you resume theme greps across the four companion files.
 
-  Continuation narrative (addenda 9–10, suggested acceptance checks, and pointers) lives in [archive/TODO_ARCHIVED_2026-05-01.md](TODO_ARCHIVED_2026-05-01.md) and [archive/TODO_ARCHIVED_2026-04-30.md](TODO_ARCHIVED_2026-04-30.md).
+  Continuation narrative (addenda 9–10, suggested acceptance checks, and pointers) lives in archive/TODO_ARCHIVED_2026-05-01.md and archive/TODO_ARCHIVED_2026-04-30.md.
 
 ### Deferred — P1 Regression and Evidence
 
@@ -96,11 +96,11 @@ For future substantive cleanup passes:
 
 ## Archives
 
-- **2026-05-01 full archive (pre-slim):** [archive/TODO_ARCHIVED_2026-05-01.md](archive/TODO_ARCHIVED_2026-05-01.md)
-- **2026-04-30 full archive (pre-slim):** [archive/TODO_ARCHIVED_2026-04-30.md](archive/TODO_ARCHIVED_2026-04-30.md)
-- **2026-04-30 post-commit active snapshot:** [archive/TODO_SNAPSHOT_2026-04-30_POST_COMMIT.md](TODO_SNAPSHOT_2026-04-30_POST_COMMIT.md)
-- **2026-04-30 active cleanup snapshot:** [archive/TODO_SNAPSHOT_2026-04-30.md](TODO_SNAPSHOT_2026-04-30.md)
-- **2026-04-29 snapshot:** [archive/TODO_SNAPSHOT_2026-04-29.md](TODO_SNAPSHOT_2026-04-29.md)
-- **2026-04-26 full archive and snapshot:** [archive/TODO_ARCHIVED_2026-04-26.md](archive/TODO_ARCHIVED_2026-04-26.md), [archive/TODO_SNAPSHOT_2026-04-26.md](TODO_SNAPSHOT_2026-04-26.md)
-- **Completed-work cuts:** [archive/TODO_COMPLETED_2026-04-17.md](TODO_COMPLETED_2026-04-17.md), [archive/TODO_COMPLETED_2026-04-16.md](TODO_COMPLETED_2026-04-16.md), [archive/TODO_COMPLETED_2026-Q2.md](TODO_COMPLETED_2026-Q2.md), [archive/TODO_COMPLETED_SC-Corpus-2026.04.md](TODO_COMPLETED_SC-Corpus-2026.04.md)
-- **Structural sync and older P3 sub-items:** [archive/TODO_ARCHIVED_STRUCTURAL_AND_GOVERNANCE_2026-04-08.md](TODO_ARCHIVED_STRUCTURAL_AND_GOVERNANCE_2026-04-08.md)
+- **2026-05-01 full archive (pre-slim):** archive/TODO_ARCHIVED_2026-05-01.md
+- **2026-04-30 full archive (pre-slim):** archive/TODO_ARCHIVED_2026-04-30.md
+- **2026-04-30 post-commit active snapshot:** archive/TODO_SNAPSHOT_2026-04-30_POST_COMMIT.md
+- **2026-04-30 active cleanup snapshot:** archive/TODO_SNAPSHOT_2026-04-30.md
+- **2026-04-29 snapshot:** archive/TODO_SNAPSHOT_2026-04-29.md
+- **2026-04-26 full archive and snapshot:** archive/TODO_ARCHIVED_2026-04-26.md, archive/TODO_SNAPSHOT_2026-04-26.md
+- **Completed-work cuts:** archive/TODO_COMPLETED_2026-04-17.md, archive/TODO_COMPLETED_2026-04-16.md, archive/TODO_COMPLETED_2026-Q2.md, archive/TODO_COMPLETED_SC-Corpus-2026.04.md
+- **Structural sync and older P3 sub-items:** archive/TODO_ARCHIVED_STRUCTURAL_AND_GOVERNANCE_2026-04-08.md

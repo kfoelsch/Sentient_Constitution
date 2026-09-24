@@ -56,31 +56,31 @@ Full router: [corpus_joint_structure/cjs_00_registry_and_reading_rules.md](../..
 
 | Stable ID | Topic | Primary owner |
 |-----------|-------|---------------|
-| CJS-R01 | Delegated binding bodies and hybrid composition (non-forum institutions) | [**CI-9.3**](../corpus_institutions/ci_09_classification_linked_institutional_ob |
-| CJS-R02 | Forum chambers, divisions, and designated panels (Chapter Twelve families) | [**CF-3.5**–**CF-3.8**](../corpus_forum/cf_03_forum_formation_chamber_structure. |
-| CJS-R03 | Lawful panel formation, disclosure, recusal, substitution, inability-to-form | [**CF-4**](../corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_consti |
-| CJS-R04 | Routing, intake, transfer, certification, representative treatment | [**CF-5**](../corpus_forum/cf_05_routing_operations_transfer_certification_repre |
+| CJS-R01 | Delegated binding bodies and hybrid composition (non-forum institutions) | [**CI-9.3**](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) |
+| CJS-R02 | Forum chambers, divisions, and designated panels (Chapter Twelve families) | [**CF-3.5**–**CF-3.8**](../../corpus_forum/cf_03_forum_formation_chamber_structure.md) |
+| CJS-R03 | Lawful panel formation, disclosure, recusal, substitution, inability-to-form | [**CF-4**](../../corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md) |
+| CJS-R04 | Routing, intake, transfer, certification, representative treatment | [**CF-5**](../../corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md) |
 | CJS-R05 | Appeal, secondary review, exhaustion | [**CF-6**](../../corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md) |
-| CJS-R06 | Forum integrity operations, anti-capture, anti-self-judging support | [**CF-7**](../corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_jud |
+| CJS-R06 | Forum integrity operations, anti-capture, anti-self-judging support | [**CF-7**](../../corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md) |
 | CJS-R07 | Forum forensic and analytical support | [**CF-8**](../../corpus_forum/cf_08_forum_forensic_analytical_support.md) |
-| CJS-R08 | Independent investigative service and prosecution interface | [**CF-9**](../corpus_forum/cf_09_independent_investigative_service_prosecution_i |
-| CJS-R09 | Technical forums and specialist chambers | [**CF-10**](../corpus_forum/cf_10_technical_specialist_forums_specialist_chamber |
-| CJS-R10 | Forum performance, backlog requirements, publication timeliness, accessibility | [**CF-11**](../corpus_forum/cf_11_performance_backlog_publication_accessibility. |
+| CJS-R08 | Independent investigative service and prosecution interface | [**CF-9**](../../corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md) |
+| CJS-R09 | Technical forums and specialist chambers | [**CF-10**](../../corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md) |
+| CJS-R10 | Forum performance, backlog requirements, publication timeliness, accessibility | [**CF-11**](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md) |
 | CJS-R11 | Forum continuity | [**CF-12**](../../corpus_forum/cf_12_forum_continuity.md) |
 | CJS-R11A | Fallback operation | [**CF-13**](../../corpus_forum/cf_13_fallback_operation.md) |
 | CJS-R11B | Emergency adjudication | [**CF-14**](../../corpus_forum/cf_14_emergency_adjudication.md) |
 | CJS-R12 | Standard forum records, forms, and evidence artifacts | [**CF-15**](../../corpus_forum/cf_15_standard_records_forms_evidence_artifacts.md) |
-| CJS-R13 | Forum staffing, shared administration, structural review, structural records | [**CF-16**](../corpus_forum/cf_16_staffing_reserve_capacity_structural_records.m |
-| CJS-R14 | Institutional functional lanes and non-delegable splits | [**CI-3**](../corpus_institutions/ci_03_institutional_design_separation_of_power |
-| CJS-R15 | Contest-integrity monitoring (contest-pathway integrity, not merits) | [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence. |
-| CJS-R16 | Cross-institution coordination, deadlock, and escalation | [**CI-12**](../corpus_institutions/ci_12_cross_institution_coordination_escalati |
+| CJS-R13 | Forum staffing, shared administration, structural review, structural records | [**CF-16**](../../corpus_forum/cf_16_staffing_reserve_capacity_structural_records.md) |
+| CJS-R14 | Institutional functional lanes and non-delegable splits | [**CI-3**](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md) |
+| CJS-R15 | Contest-integrity monitoring (contest-pathway integrity, not merits) | [**CI-7.3**](../../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) |
+| CJS-R16 | Cross-institution coordination, deadlock, and escalation | [**CI-12**](../../corpus_institutions/ci_12_cross_institution_coordination_escalation.md) |
 | CJS-R17 | Cross-implementation trust integrity (joint operation model) | **CJS-2.3 — Cross-implementation trust integrity** |
-| CJS-R18 | Class-scaled lane staffing and competency redundancy for materially binding stewardship | [**CI-3**](../corpus_institutions/ci_03_institutional_design_separation_of_power |
+| CJS-R18 | Class-scaled lane staffing and competency redundancy for materially binding stewardship | [**CI-3**](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md), **CI-4**, **CI-11**, **CI-12** |
 | CJS-R19 | integrity assurance and resilience operations | **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) |
-| CJS-R20 | Remedy parity and lock-to-remedy capacity | [**CI-27**](../corpus_institutions/ci_27_remedy_systems_institutional_redress_ca |
-| CJS-R21 | Capacity-failure routing | [**CF-5**](../corpus_forum/cf_05_routing_operations_transfer_certification_repre |
-| CJS-R22 | Standing-record custody, opening authority, and segregation of duties | [**CI-3**](../corpus_institutions/ci_03_institutional_design_separation_of_power |
-| CJS-R23 | Seat types, local role maps, and wrong-seat routing | [**CI-4**](../corpus_institutions/ci_04_appointment_competency_rotation_removal. |
+| CJS-R20 | Remedy parity and lock-to-remedy capacity | [**CI-27**](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) |
+| CJS-R21 | Capacity-failure routing | [**CF-5**](../../corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md) |
+| CJS-R22 | Standing-record custody, opening authority, and segregation of duties | [**CI-3**](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md) (*CI-3.2 lane map — the fallback when a Charter is silent; CI-3.6 Charter field — standing-record custody*) |
+| CJS-R23 | Seat types, local role maps, and wrong-seat routing | [**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*CI-4.6 seat catalog — the nine seat types, their operational boundaries, and the wrong-seat rule; CI-4.5 role maps instantiate them*) |
 
 ## Chapter Six articles
 

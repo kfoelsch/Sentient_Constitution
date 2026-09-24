@@ -10,7 +10,7 @@
 
 ### Before You Read Any File
 
-Use `python3 tools/corpus_lookup.py` (skill: `.cursor/skills/corpus-lookup/SKILL.md`). Do not open `id_resolver.json` for meaning — it embeds gloss. Locators point; source binds.
+Use `python3 tools/corpus_lookup.py`. Do not open `id_resolver.json` for meaning — it embeds gloss. Locators point; source binds.
 
 1. **High-pressure or natural-language fact pattern** → `python3 tools/corpus_lookup.py route "QUERY"` or `door CASE_ID`
    - Open the returned `card_path`, then verify the boxed operative steward statement at `operative_box.href`

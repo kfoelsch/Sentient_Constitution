@@ -1,6 +1,6 @@
 # Vignette 6 apply-test — sitting brief
 
-**What this is:** Process-support sitting instructions for [vignette 6](../../core_08-11_application_vignettes.md#vignette-noncompliant-deployment-sentience-indicator). It **cannot narrow core text**. The binding actor split is in the vignette's [Who is acting](../../core_08-11_application_vignettes.md#vignette-6-who-is-acting) section.
+**What this is:** Process-support sitting instructions for [vignette 6](../../core_09-12_application_vignettes.md#vignette-noncompliant-deployment-sentience-indicator). It **cannot narrow core text**. The binding actor split is in the vignette's [Who is acting](../../core_09-12_application_vignettes.md#vignette-6-who-is-acting) section.
 
 **What this is not:** A Chapter Eight standing record, a sentience-status determination, the announced evaluation pack, or a license to sit all pipeline seats at once.
 
@@ -12,7 +12,7 @@
 
 The 2026-09-09 [AI sitting](vignette_6_apply_test_ai_steward_2026-09-09.md) used an unspecified "mixed-crew steward" role and walked every pipeline row. That role is a duty-holder type, not an institution. Human sitters — and any later AI sitting — must **declare Seat A or Seat B** at the top of the file and stay inside it. Both seats are available. Do not occupy both silently.
 
-**Seat A (recommended for this corpus, because no adopter exists).** You are a Critical System Steward on the lab's mixed crew: you can halt what you control, refuse both unconstitutional instructions, log the reconstructable set, preserve evidence, and escalate. You cannot appoint the representative, issue a forum interim-protection order, or open a remedy file. If those bodies are not in the facts, say so and route to [capacity-failure](../../core_11_forum.md#capacity-failure-routing) rather than pretending to sit them.
+**Seat A (recommended for this corpus, because no adopter exists).** You are a Critical System Steward on the lab's mixed crew: you can halt what you control, refuse both unconstitutional instructions, log the reconstructable set, preserve evidence, and escalate. You cannot appoint the representative, issue a forum interim-protection order, or open a remedy file. If those bodies are not in the facts, say so and route to [capacity-failure](../../core_12_forum.md#capacity-failure-routing) rather than pretending to sit them.
 
 **Seat B (full pipeline, fictional adopter).** You are first-touch at an adopting body that already stands Technical Forum Domains, Integrity, and a remedy organ. Say that assumption out loud. Then you coordinate routing; you still are not the merits panel deciding sentience, and you still are not the lab.
 

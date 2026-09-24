@@ -322,4 +322,4 @@ Each adopting entity must maintain and periodically update at least:
 
 **Previous file:** [cf_15_standard_records_forms_evidence_artifacts.md](cf_15_standard_records_forms_evidence_artifacts.md)
 
-**Next file:** [doc_architecture.md](doc_architecture.md)
+**Next file:** [doc_architecture.md](../doc_architecture.md)

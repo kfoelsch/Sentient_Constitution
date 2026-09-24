@@ -2,7 +2,7 @@
 
 **Status:** Locked — `2026-04-30` (non-operative companion; substantive edits should be deliberate and traceable).
 
-This document is a **readability companion** to the **Sentient Constitution**: the numbered `core_*.md` files (Chapters One through Fourteen) listed in [README.md](README.md).
+This document is a **readability companion** to the **Sentient Constitution**: the numbered `core_*.md` files (Chapters One through Fourteen) listed in [README.md](../README.md).
 
 It gives extended framing for readers and editors. **It is not a constitutional source** unless an adopting instrument explicitly says otherwise.
 
@@ -43,7 +43,7 @@ This section explains intent only. **Binding effect** stays in the constitutiona
 
 When you interpret obligations, use this **order**:
 
-1. **Core instrument.** All numbered Sentient Constitution `core_*.md` files from [README.md](README.md) (`core_00-01_principles.md` through `core_14-14_incorporation.md`), read **together as one** instrument.
+1. **Core instrument.** All numbered Sentient Constitution `core_*.md` files from [README.md](../README.md) (`core_00-01_principles.md` through `core_14-14_incorporation.md`), read **together as one** instrument.
 2. **Incorporated implementation.** Designated obligations in `corpus_joint_structure.md`, `corpus_systems.md`, `corpus_institutions.md`, and `corpus_forum.md`.
 3. **Support only.** Architecture, process, and evidence artifacts **unless** an adopting instrument elevates them.
 

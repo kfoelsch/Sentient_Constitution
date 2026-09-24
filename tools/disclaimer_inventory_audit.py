@@ -267,7 +267,7 @@ def render_markdown(
         "",
         "Scopes **Chapter Five** band and aim files. Classifies disclaimer / "
         "negative-scope clauses on **O**, **E**, and **C** components using "
-        "[tools/architecture/disclaimer_themes.json](../tools/architecture/disclaimer_themes.json).",
+        "[tools/architecture/disclaimer_themes.json](../../tools/architecture/disclaimer_themes.json).",
         "",
         "Editorial model: **safe redundancy** = one canonical exposition + pointers "
         "(see [doc_architecture.md](../../doc_architecture.md) §12).",

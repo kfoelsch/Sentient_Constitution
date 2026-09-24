@@ -79,9 +79,9 @@ Chapter Five and CJS-3 definition files use **one** `---` between reader units, 
 
 `ch5_cluster_order_audit.py` guards selected Chapter Five compound §2 topic groups and §3 dependent clusters whose visible heading order is intended to mirror the internal entry/member order. Expand its expected set whenever a new compound heading is intentionally made order-bearing.
 
-Machine-checkable editorial rules: [tools/architecture/rule_registry.json](tools/architecture/rule_registry.json). Full audit catalog, including the **weight class** of each blocking gate (load-bearing / structural / cosmetic — what a second maintainer may relax and what must never be skipped): [implementation/AUTOMATED_REFERENCE_CHECKING.md](implementation/AUTOMATED_REFERENCE_CHECKING.md).
+Machine-checkable editorial rules: [tools/architecture/rule_registry.json](architecture/rule_registry.json). Full audit catalog, including the **weight class** of each blocking gate (load-bearing / structural / cosmetic — what a second maintainer may relax and what must never be skipped): [implementation/AUTOMATED_REFERENCE_CHECKING.md](../implementation/AUTOMATED_REFERENCE_CHECKING.md).
 
-`ch1_dac_order_audit.py` guards Chapter One D/A/C functional ordering using [tools/architecture/ch1_dac_order.json](tools/architecture/ch1_dac_order.json) (rule NAV-DAC-CH1-ORDER).
+`ch1_dac_order_audit.py` guards Chapter One D/A/C functional ordering using [tools/architecture/ch1_dac_order.json](architecture/ch1_dac_order.json) (rule NAV-DAC-CH1-ORDER).
 
 `readability_audit.py` excludes `MEMLOG.md` and `TODO.md` by default because those files are treated as AI-only working memory and project task tracking rather than reader-facing corpus prose.
 

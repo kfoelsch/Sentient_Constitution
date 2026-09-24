@@ -2,9 +2,9 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-09-23T08:59:38+00:00
+Generated: 2026-09-24T15:07:33+00:00
 
-Scopes **Chapter Five** band and aim files. Classifies disclaimer / negative-scope clauses on **O**, **E**, and **C** components using [tools/architecture/disclaimer_themes.json](../tools/architecture/disclaimer_themes.json).
+Scopes **Chapter Five** band and aim files. Classifies disclaimer / negative-scope clauses on **O**, **E**, and **C** components using [tools/architecture/disclaimer_themes.json](../../tools/architecture/disclaimer_themes.json).
 
 Editorial model: **safe redundancy** = one canonical exposition + pointers (see [doc_architecture.md](../../doc_architecture.md) §12).
 

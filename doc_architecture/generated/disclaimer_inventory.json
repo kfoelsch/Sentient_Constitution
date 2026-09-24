@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T08:59:38+00:00",
+  "generated": "2026-09-24T15:07:33+00:00",
   "total_hits": 2,
   "by_theme": {
     "layer_separation": 1,
@@ -23,7 +23,7 @@
       "theme_label": "Governance layer separation (authorization vs participation)",
       "action": "thin",
       "canonical_home": "core_00_preamble.md \u00a73.3; core_05_band_integrative.md Constitutional Contract cluster",
-      "excerpt": "Give affected sentients and [Stakeholders](core_05_band_participation.md#stakeholder) real voice in systems that affect them \u2014 the Tetrad leg this entry names. - **In scope:** - voice; - representation; - contestable pa\u2026",
+      "excerpt": "Give affected sentients and [Stakeholders](core_05_band_participation.md#stakeholder) real voice in systems that affect them \u2014 the Tetrad leg this entry names. - **In scope:** - voice; - representation; - contestable de\u2026",
       "pattern": "stakeholder system participation"
     },
     {
@@ -35,7 +35,7 @@
       "theme_label": "Symbolic / theater participation negative",
       "action": "canonical",
       "canonical_home": "core_01_c_stewardship_capacity_principles.md \u00a711; Participation definition",
-      "excerpt": "Give affected sentients and [Stakeholders](core_05_band_participation.md#stakeholder) real voice in systems that affect them \u2014 the Tetrad leg this entry names. - **In scope:** - voice; - representation; - contestable pa\u2026",
+      "excerpt": "Give affected sentients and [Stakeholders](core_05_band_participation.md#stakeholder) real voice in systems that affect them \u2014 the Tetrad leg this entry names. - **In scope:** - voice; - representation; - contestable de\u2026",
       "pattern": "symbolic participation"
     }
   ]

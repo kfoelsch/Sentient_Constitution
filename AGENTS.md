@@ -26,4 +26,4 @@ python3 tools/corpus_lookup.py serve   # optional local HTTP at /v1/{command}
 
 Spine pack (generated pointers, not duties): `doc_architecture/generated/spine_pack.md`.
 
-Skill: `.cursor/skills/corpus-lookup/SKILL.md`. Patterns: `ai_corpus/AI_NAVIGATION_GUIDE.md`.
+Patterns: `ai_corpus/AI_NAVIGATION_GUIDE.md`.

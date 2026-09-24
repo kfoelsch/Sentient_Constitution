@@ -98,7 +98,7 @@ def router_row_dict(row) -> dict[str, str]:
     return {
         "id": row.row_id,
         "topic": row.topic,
-        "primary_owner": row.owner_cell.strip()[:80],
+        "primary_owner": row.owner_cell.strip(),  # full cell: truncating cut Markdown links mid-target
         "primary_attach": list(row.primary_attach),
     }
 

@@ -233,7 +233,10 @@ def expected_next_link(current: str, nxt: str) -> str:
     if "/" not in current and "/" in nxt:
         folder = nxt.split("/")[0]
         return f"{folder}/{basename(nxt)}"
-    return basename(nxt) if "/" in nxt else nxt
+    if "/" in current:
+        # A repository-root file linked from a subfolder needs the parent hop.
+        return "../" * current.count("/") + nxt
+    return nxt
 
 
 def expected_prev_link(current: str, prev: str) -> str:

@@ -2,7 +2,7 @@
 
 This file holds the living architecture and publication checklist that previously lived in [doc_architecture.md](../doc_architecture.md) section 14.
 
-It is a process and execution tracker, not part of the normative Sentient Constitution corpus. A full pre-cleanup snapshot is preserved at [../archive/ARCHITECTURE_WORKLIST_SNAPSHOT_2026-04-30.md](../archive/ARCHITECTURE_WORKLIST_SNAPSHOT_2026-04-30.md).
+It is a process and execution tracker, not part of the normative Sentient Constitution corpus. A full pre-cleanup snapshot is preserved at ../archive/ARCHITECTURE_WORKLIST_SNAPSHOT_2026-04-30.md.
 
 Numbering note: section number **14** is preserved from [doc_architecture.md](../doc_architecture.md) so historical references remain easy to translate.
 
@@ -14,7 +14,7 @@ Numbering note: section number **14** is preserved from [doc_architecture.md](..
 
 2. **Architecture map maintenance:** when filenames, owners, classes of terms, or stable IDs move, update [doc_architecture.md](../doc_architecture.md) sections 2, 4, 5, and related stubs together.
 
-3. **Reference integrity:** keep citations aligned with the current numbered core files, Chapter Nine Articles I-XXV, Chapters Eleven through Thirteen in [../core_11-13_amendment.md](../core_11-13_amendment.md), Chapter Fourteen in [../core_14-14_incorporation.md](../core_14-14_incorporation.md), and companion corpus homes.
+3. **Reference integrity:** keep citations aligned with the current numbered core files, Chapter Nine Articles I-XXV, Chapters Eleven through Thirteen in [../core_11-13_amendment.md](../core_16_amendment_ratification.md), Chapter Fourteen in [../core_14-14_incorporation.md](../core_17_incorporation.md), and companion corpus homes.
 
 4. **Implementation label registry:** when a new implementation label is added, extend the registry and avoid reusing codes. Optional polish remains for tagging remaining plural "Implementation labels" bullets with PRIM ranges where helpful.
 
@@ -22,7 +22,7 @@ Numbering note: section number **14** is preserved from [doc_architecture.md](..
 
 6. **Protocol B / presentation-label alignment:** completed structurally, but spot-check any new types, classes, steward tiers, or presentation labels for parallel alignment.
 
-7. **TOC and versioning:** paginated TOC is not maintained in-repo Markdown. Regenerate only if a print/PDF pipeline exists. Keep edition labels, dates, and WIP/status notes aligned with [../architecture_adoption_appendix.md](../architecture_adoption_appendix.md) section 17.
+7. **TOC and versioning:** paginated TOC is not maintained in-repo Markdown. Regenerate only if a print/PDF pipeline exists. Keep edition labels, dates, and WIP/status notes aligned with [../architecture_adoption_appendix.md](ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md) section 17.
 
 8. **Optional dual format:** if `.md` mirrors or generated publication formats are added, follow the canonical-source and mirror discipline in [doc_architecture.md](../doc_architecture.md) section 1.
 
@@ -30,7 +30,7 @@ Numbering note: section number **14** is preserved from [doc_architecture.md](..
 
 ### Completed Historical Work
 
-The detailed completed checklist history, including external-governance-framework alignment items, is archived in [../archive/ARCHITECTURE_WORKLIST_SNAPSHOT_2026-04-30.md](../archive/ARCHITECTURE_WORKLIST_SNAPSHOT_2026-04-30.md).
+The detailed completed checklist history, including external-governance-framework alignment items, is archived in ../archive/ARCHITECTURE_WORKLIST_SNAPSHOT_2026-04-30.md.
 
 Completed items include:
 
