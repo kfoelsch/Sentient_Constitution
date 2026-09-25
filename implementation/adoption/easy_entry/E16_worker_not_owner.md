@@ -71,7 +71,7 @@ See: [Chapter One §9.1.1](../../../core_01_c_stewardship_capacity_principles.md
 
 - **“This isn’t labor law where I clock in.”** Correct. It does not override applicable employment or safety law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
-- **“I am not a ‘worker type.’”** You do not have to take that label to use this page. This brief is for someone who does the work while someone else holds the shop, the app, or the line. It does not change the Rights Floor that applies to you. When pay, rest, safety, organizing, or a schedule that blocks a clinic is actually at stake, those rules are located in the section on [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor).
+- **“I am not a ‘worker type.’”** You do not have to take that label to use this page. This brief is for someone who does the work while someone else holds the shop, the app, or the line. It does not change the Rights Floor that applies to you. When pay, rest, safety, organizing, or a schedule that blocks a clinic is actually at stake, those rules are located in [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (pay and organizing), [Article III-E](../../../core_06_rights_part_a.md#article-iii-e-safe-working-conditions) (safety), and [Article III-F](../../../core_06_rights_part_a.md#article-iii-f-rest-and-recuperation) (rest).
 
 ## What this will not pretend to give you
 

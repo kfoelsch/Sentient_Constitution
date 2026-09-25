@@ -406,6 +406,15 @@ heading-runin-echo-audit:
 heading-runin-echo-audit-test:
 	$(PYTHON) tools/test_heading_runin_echo_audit.py
 
+section-bullet-lead-audit:
+	$(PYTHON) tools/section_bullet_lead_audit.py --root .
+
+section-bullet-lead-audit-summary:
+	$(PYTHON) tools/section_bullet_lead_audit.py --root . --summary
+
+section-bullet-lead-audit-test:
+	cd tools && $(PYTHON) test_section_bullet_lead_audit.py
+
 fossil-anchor-audit:
 	$(PYTHON) tools/fossil_anchor_audit.py --root .
 

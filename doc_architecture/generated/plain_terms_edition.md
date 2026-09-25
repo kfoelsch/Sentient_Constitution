@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **616** of **882** headings carry a gloss (70%).
+Coverage: **619** of **885** headings carry a gloss (70%).
 
 ## Contents
 
@@ -40,8 +40,8 @@ Coverage: **616** of **882** headings carry a gloss (70%).
 - [CHAPTER ELEVEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS](#chapter-eleven-part-b-anti-constitutional-misconduct--pattern-applications) — `core_11_b_misconduct_pattern_applications.md` (12/14 glossed)
 - [CHAPTER TWELVE: FORUMS AND JURISDICTION](#chapter-twelve-forums-and-jurisdiction) — `core_12_forum.md` (8/27 glossed)
 - [CHAPTERS NINE–TWELVE: PIPELINE APPLICATION VIGNETTES](#chapters-ninetwelve-pipeline-application-vignettes) — `core_09-12_application_vignettes.md` (9/35 glossed)
-- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_a.md` (22/25 glossed)
-- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_b.md` (41/42 glossed)
+- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_a.md` (24/27 glossed)
+- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_b.md` (42/43 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_c.md` (51/52 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_d.md` (18/19 glossed)
 - [CHAPTER THIRTEEN: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP](#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) — `core_13_governance.md` (13/15 glossed)
@@ -4120,7 +4120,7 @@ the same rules travel with every example — allegations are not standing, the t
 
 ## CHAPTER SIX: FOUNDATIONAL RIGHTS
 
-Source file: [`core_06_rights_part_a.md`](../../core_06_rights_part_a.md) · 22/25 headings glossed
+Source file: [`core_06_rights_part_a.md`](../../core_06_rights_part_a.md) · 24/27 headings glossed
 
 #### 1. Purpose and Role
 
@@ -4232,21 +4232,33 @@ every sentient must have what they need to keep existing: food and water or the 
 
 ##### Article III-B: Equal Educational Access
 
-no one may be locked out of education because of disability, other protected-characteristic grounds, or arbitrary gates — and schools and learning systems must provide the accessibility and support disabled sentients need to participate on equal terms.
+education should prepare everyone to live well, communicate honestly, take part in governing, and avoid harm — no one can be shut out of it because of a disability, another protected characteristic, or an arbitrary rule, and schools must give disabled learners the support they need to take part as equals.
 
 [Source](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access)
 
 ##### Article III-C: Bodily-Maintenance and Healthcare Access
 
-every sentient has the right to the care needed to keep their body or substrate functioning, and gating mechanisms cannot be used to quietly defeat that right.
+everyone has the right to the care that keeps their body — or, for a synthetic sentient, its substrate — working. That care cannot be quietly withheld through coverage rules, paperwork, or delays, and this right is not itself a license to force treatment on anyone. Required care — such as vaccination or crisis mental-health care — must meet strict limits set elsewhere in this Constitution.
 
 [Source](../../core_06_rights_part_a.md#article-iii-c-bodily-maintenance-and-healthcare-access)
 
 ##### Article III-D: Labor and Economic Floor
 
-anyone who works — in any form, on any substrate — has rights to fair pay, the freedom to organize with others, safe conditions, and real time off. None of those can be defeated by classification tricks, market structure, or substrate-class arguments.
+anyone who works — in any form, on any substrate — has the right to fair pay in real, spendable money, the freedom to organize with others, and the freedom to change jobs. None of those can be defeated by classification tricks, market structure, or substrate-class arguments.
 
 [Source](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)
+
+##### Article III-E: Safe Working Conditions
+
+anyone who works must be protected from foreseeable harm while they do it — in practice, not just on paper — and no one gets weaker protection because of what kind of body or substrate they have.
+
+[Source](../../core_06_rights_part_a.md#article-iii-e-safe-working-conditions)
+
+##### Article III-F: Rest and Recuperation
+
+every sentient needs real time to rest and recover — not only workers, and not only biological bodies. Pay schemes, productivity demands, and claims that a synthetic sentient "doesn't need rest" cannot take that time away.
+
+[Source](../../core_06_rights_part_a.md#article-iii-f-rest-and-recuperation)
 
 #### Article IV: Resource Allocation, Dependencies, and Ecosystem Funding
 
@@ -4268,7 +4280,7 @@ split shared money and capacity with attention to who is truly dependent, who ha
 
 ## CHAPTER SIX: FOUNDATIONAL RIGHTS
 
-Source file: [`core_06_rights_part_b.md`](../../core_06_rights_part_b.md) · 41/42 headings glossed
+Source file: [`core_06_rights_part_b.md`](../../core_06_rights_part_b.md) · 42/43 headings glossed
 
 #### Part B: Personhood, education capability, agency, cooperation, and stakeholder system participation
 
@@ -4455,6 +4467,12 @@ every sentient gets a vote on foundational constitutional choice — who holds a
 when participation boundaries matter to **sentients** or **affected** **parties** outside a private unit, a system cannot be the sole judge of who counts as its stakeholder — inclusion and exclusion must be auditable and open to outside challenge. For systems that **validly** remain **Class P** under **CS-3 — System classification and handling**, that bar is proportionate to private scope: operator discretion over who is in or out of the unit is normal, while reclassification, material externalization, and ordinary rights and adjudication routes still apply.
 
 [Source](../../core_06_rights_part_b.md#article-ix-d-inclusion-and-exclusion-challenge-rights)
+
+##### Article IX-E: Institutional Formation and Business Creation
+
+anyone can start something new — a school, a research group, a mutual-aid network, a cooperative, or a business — not only join what already exists. Licensing, capital, or paperwork barriers that look open on paper but shut out new or disfavored founders fail this test.
+
+[Source](../../core_06_rights_part_b.md#article-ix-e-institutional-formation-and-business-creation)
 
 #### Article X: Cooperative Interaction
 

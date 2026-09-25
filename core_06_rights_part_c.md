@@ -163,6 +163,8 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 
 *In plain terms: systems that materially affect sentients must actually be reliable and honest about what they do — so that reasonable reliance on them is warranted.*
 
+This Article sets out the trust guarantee for systems that materially affect sentients:
+
 - **Trust guarantee:** Systems that materially affect sentients must preserve the conditions for justified trust and reasonably accurate reliance. Those conditions include:
   - the ability to form reasonably accurate expectations about system behavior;
   - disclosure of material conditions, limits, and risks needed to evaluate whether reliance is warranted;
@@ -194,6 +196,8 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 
 <a id="operative-steward-statement-contest"></a>
 > **Operative steward statement.** **Owner:** Article XII-B. Hierarchy: Authority Stack and Constitutional Constraint. **Forbidden move:** Do not let more specific adopted implementation text close challenge, review, or redress. Do not treat convenience as a Rights-Floor override. **Clock:** Invalidate or narrow the adopted implementation text now. Do not leave a permanent bar in place while a later process is promised.
+
+This Article sets out the right to challenge, review, and redress and what makes it usable in practice:
 
 - **Right to challenge, review, and redress:** Good-faith challenges (*Good Faith*, **Chapter Five**), review requests, and protected reports must not be suppressed, obstructed, or penalized.
 - **Access to correction:** Sentients have the right to practical access to review, audit, correction, and proportionate remediation where system failures materially affect them.
@@ -233,6 +237,8 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 
 *In plain terms: a system may not manufacture trust it has not earned. Misleading claims, omissions, or presentation choices that make unsafe reliance look warranted are violations — regardless of how useful or popular the system is.*
 
+This Article sets out the prohibition of false trust and its scope:
+
 - **Prohibition of false trust:** Systems that induce reliance without meeting the conditions of this Article are non-compliant, regardless of utility, adoption, or intent.
   - Creation, amplification, or maintenance of unjustified trust violates this right when it operates through:
     - misleading claims;
@@ -260,6 +266,8 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 <br>
 
 *In plain terms: if a system's incentives push it toward lying, cutting corners on safety, hiding risk, or eroding user agency, the system is the problem — not user vigilance or after-the-fact enforcement. Such incentives must be disclosed, mitigated, and open to challenge.*
+
+This Article sets out the right-level constraints on trust and safety incentives:
 
 - **Trust-incentive alignment (right-level constraint):** Systems must not depend mainly on enforcement, post-hoc correction, or user vigilance to maintain trust where incentive structures materially pressure the system toward:
   - reliability failure;
@@ -302,6 +310,8 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 
 *In plain terms: when high-autonomy systems plug into governance, legal process, audits, or high-impact verification, they cannot escape Truth, transparency, and accountability rules. And action against a non-compliant system is not a back door to action against a sentient.*
 
+This Article sets out how high-autonomy systems stay bound by process integrity and how remedies against them are distinguished:
+
 - **Scope:** Systems that materially combine **automated inference** with capacity to affect any of the following are not exempt from **Truth** (**Chapter One**), **Articles XIV** and **XV**, **Chapter Nine** where applicable, or remedial measures under **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*):
   - governance;
   - legal process;
@@ -342,6 +352,8 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 <br>
 
 *In plain terms: systems must be able to detect, contain, and recover from faults — but recovery cannot be used to hide failures, silently narrow rights, or skip root-cause work. Safe failure beats speculative auto-repair.*
+
+This Article sets out the recovery baseline, from detection through root-cause closure:
 
 - **Recovery baseline:** Systems within scope of this Article must implement recovery behavior proportionate to their impact, dependency, and risk, consistent with [**4.1 Resilience and Self-Healing Design**](core_01_a_values_principles.md#41-resilience-and-self-healing-design) in **Chapter One** and [**Self-Healing**](core_05_band_continuity.md#self-healing-constitutional) in **Chapter Five**.
   - Detailed recovery-architecture requirements appear in incorporated implementation text, including [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*), [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*Adaptive sustainability and ecosystem resilience*), and [**CS-12**](corpus_systems/cs_12_decentralized_continuity_partition_resilience.md) (*Decentralized continuity and partition resilience*).
@@ -434,6 +446,8 @@ Those floors apply to **exceptional institutional power** in three linked domain
 <br>
 
 *In plain terms: no secret police. Covert power — surveillance, intelligence collection, infiltration — is the exception, not the rule. It requires independent authorization, narrow scope, outside review, and real remedies when misused. Secrecy may not be used to escape accountability, and routine political and protected activity must never be its target.*
+
+This Article sets out the limits on security, intelligence, and covert power:
 
 - **No secret-police or ideological-enforcement power:** No institution, steward, or coordinated body may operate as:
   - a **secret police**;
@@ -533,6 +547,8 @@ Those floors apply to **exceptional institutional power** in three linked domain
 
 *In plain terms: armed force is an exception, not a default. It must be authorized, narrow, proportionate, and reviewable. It must never be used as a back door to an irreversible deprivation measure, and it cannot be dressed up as emergency to escape review.*
 
+This Article sets out the limits on overt force, armed conflict, and military power:
+
 - **Overt-force floor:** This Article states the Rights-Floor for overt use of force, armed conflict, and military-power deployment.
   - It applies under **Sentience Non-Exclusion** to both force-users and force-affected sentients.
   - It is the overt-power counterpart to **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) and is read together with it.
@@ -591,6 +607,8 @@ Those floors apply to **exceptional institutional power** in three linked domain
 <br>
 
 *In plain terms: a machine may not decide to kill, injure, or coerce a sentient on its own. "Human control" means a human must actually decide, in real time, with real information — not rubber-stamp a result the system has already produced. Non-lethal autonomous coercion is in scope too.*
+
+This Article sets out the heightened-scrutiny floor for autonomous lethal and coercive systems:
 
 - **Heightened-scrutiny floor:** Two system classes are subject to review under [Heightened Scrutiny](core_05_band_oversight.md#heightened-scrutiny):
   - **autonomous lethal systems** — systems that select, engage, or materially direct force targeting without contemporaneous, substantively meaningful human judgment;
@@ -677,6 +695,8 @@ Accurate, relevant, and contestable information is foundational to self-determin
 
 *In plain terms: no one may monopolize the mediation of truth. Ranking, summarization, and mediation systems must stay open to alternative interpretation, and market prices or betting odds cannot be used as a shortcut for deciding what is true.*
 
+This Article sets out the floors for info-sphere plurality and against monopoly over the mediation of truth:
+
 - **Distribution of truth:** No single system, institution, or agent may monopolize the mediation of knowledge within the info-sphere.
   - Survival- and ecology-related data must have robust, geographically distributed storage.
 - **Plurality, contestability, and audit:** The interpretation of reality must remain plural, transparent, and contestable.
@@ -708,6 +728,8 @@ Accurate, relevant, and contestable information is foundational to self-determin
 <br>
 
 *In plain terms: information that materially affects decisions or reliance must disclose its sources, methods, and limits, and sentients must have a real ability to compare alternative interpretations and contest misleading outputs.*
+
+This Article sets out the floors for authentic inquiry, provenance, and contestable information:
 
 - **Authentic inquiry and interpretive diversity:** All sentients have the right to compare alternative interpretations of shared information.
   - Critical knowledge infrastructures must preserve interpretive diversity so that multiple models, frameworks, and analytical methods remain meaningfully accessible.
@@ -743,6 +765,8 @@ Accurate, relevant, and contestable information is foundational to self-determin
 <br>
 
 *In plain terms: public-facing information with material external impact must correct errors, preserve provenance, and not be sliced or suppressed to mislead. Ecological-footprint reporting must be accessible and decision-usable.*
+
+This Article sets out the floors for correction and reporting, including footprint data:
 
 - **Correction, reporting, and epistemic stewardship:** Public-facing information systems and institutions with material external impact must:
   - correct material error;
@@ -868,6 +892,8 @@ They operate consistently with **Chapters Two through Four**, including exclusiv
 
 *In plain terms: systems must keep enough honest evidence of what they do for an outside party to reconstruct and challenge their behavior — within lawful security limits.*
 
+This Article sets out the floor for observable and contestable evidence:
+
 - **Observable and contestable evidence:** Systems must maintain records, disclosures, traceability, and reconstruction pathways sufficient for independent and contestable evaluation of constitutional alignment.
   - That obligation is subject to security-constrained observability (**Chapter Four §5** — *Security-Constrained Observability and Verification Rule*) and proportional access.
 #### Article XV-B: Distributed Oversight and Anti-Monopoly Review
@@ -890,6 +916,8 @@ They operate consistently with **Chapters Two through Four**, including exclusiv
 <br>
 
 *In plain terms: no single actor — public or private — may corner oversight. Multiple independent oversight pathways must be able to find, review, and correct failure or capture.*
+
+This Article sets out the floor for distributed oversight:
 
 - **Distributed oversight:** Multiple independent or pluralistic oversight pathways must be able to contribute materially to detection, review, and correction of failure, misalignment, or capture.
   - No single actor may monopolize audit access, effective oversight, or constitutional interpretation in practice.
@@ -914,6 +942,8 @@ They operate consistently with **Chapters Two through Four**, including exclusiv
 <br>
 
 *In plain terms: audit and challenge must be reachable in practice. Verification made prohibitively expensive, slow, or opaque is a violation unless the barrier meets the same test as a restriction on observability.*
+
+This Article sets out the floor for verification accessibility:
 
 - **Verification accessibility:** Verification must remain practically achievable for affected and appropriately authorized parties.
   - The following violate this Article where they defeat meaningful audit, challenge, or review:
@@ -992,6 +1022,8 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 
 *In plain terms: systems that materially affect the outside world must keep development, testing, and production separate — and non-production behavior must not leak through to bypass production safeguards.*
 
+This Article sets out the floor for environment integrity:
+
 - **Environment integrity:** **Class A**, **Class B**, and **Class C** systems under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**, and other non-**Class P** systems with material external impact, must use separable operational environments — for example:
   - development;
   - testing;
@@ -1024,6 +1056,8 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 
 *In plain terms: roll out changes gradually, with documented escalation and the ability to undo — and where full undo is not possible, have a plan to contain or compensate harm.*
 
+This Article sets out the floors for progressive deployment and reversibility:
+
 - **Progressive and auditable deployment:** Changes that increase material impact or dependency must move through justified, documented escalation.
   - Escalation must be consistent with **[corpus_systems.md](corpus_systems.md), CS-5 — Design, testing, verification, and deployment**.
   - It must include rollback and containment where feasible.
@@ -1053,6 +1087,8 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 <br>
 
 *In plain terms: a system cannot call itself "experimental," **Class P**, or "low-impact" to dodge obligations while actually affecting the outside world.*
+
+This Article sets out the consequences of misclassification and evasion:
 
 - **Misclassification and evasion:** No system may claim reduced lifecycle or deployment obligations while exerting undisclosed or material external impact.
   - Such conduct violates informational integrity (**Article XIV** (*Info-Sphere Integrity*)) and auditability where observable evidence is implicated (**Article XV-A** (*Auditability and Observable Evidence*)).
@@ -1109,6 +1145,8 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 *In plain terms: experimentation and creative work can operate under lighter rules — but only when real external impact is either absent or demonstrably contained. The "sandbox" label alone is not enough.*
 
+This Article sets out the innovation and experimentation right and when sandbox treatment applies:
+
 - **Innovation and experimentation right:** Sentients have the right to innovate, experiment, and express themselves through systems that operate with reduced structural requirements when material external impact is absent or demonstrably contained.
 - **Sandbox eligibility:** Sandboxed treatment — including valid **Class P** classification under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling** where applicable — depends on:
   - actual containment;
@@ -1138,6 +1176,8 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <br>
 
 *In plain terms: experimental systems must be honest about being experimental, must not dump risk onto outsiders, and must not conscript non-participants through design defaults or hidden dependencies.*
+
+This Article sets out the containment, disclosure, opt-in, and rollback floors for experimental systems:
 
 - **Containment and disclosure:** Such systems must clearly disclose:
   - experimental or non-production status;
@@ -1170,6 +1210,8 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 *In plain terms: once a sandbox system starts mattering in the real world, it must graduate to real-world obligations — promptly, not at the operator's convenience.*
 
+This Article sets out when a sandboxed system moves to higher obligations:
+
 - **Transition to higher obligations:** When impact, dependency, irreversibility, or integration with shared systems grows, systems must transition transparently and without opportunistic delay.
   - The transition must move toward the full requirements of **Article XVI-A** (*Lifecycle Governance and Environment Separation*) and **CS-5** (*Non-Experimental Systems*).
   - Interim safeguards proportionate to current risk apply during transition.
@@ -1195,6 +1237,8 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <br>
 
 *In plain terms: innovators can be rewarded, but exclusivity must be narrow, time-limited, and reviewable. Public-health, safety, and core infrastructure must stay accessible — and once something becomes critical infrastructure, any remaining exclusivity must be reassessed.*
+
+This Article sets out how innovation may be rewarded without enclosing what the public needs:
 
 - **Innovation reward and anti-enclosure:** Sentients may be rewarded for materially novel, socially useful, and adequately disclosed innovation.
   - Reward must be structured to sustain:
@@ -1273,6 +1317,8 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <br>
 
 *In plain terms: science is public verification infrastructure. Evidence, replication, and correction must matter more than journal brand — and correcting an error must always be easier than hiding one.*
+
+This Article sets out the floors for scientific publication, review, replication, and correction:
 
 - **Science as public verification infrastructure:** Scientific and scholarly publication, review, replication, and correction must be organized to advance:
   - truth-seeking;
@@ -1385,6 +1431,8 @@ It must remain distinct from:
 
 *In plain terms: trust-sensitive roles may open when verified readiness meets a published **competency bar** and **competency clearance** is in force — and may stay closed or limited through **standing locks** while a **verified violation finding** still needs correction. **governance-voting** locks pause foundational governance vote; **stakeholder-participation** locks limit stake-weighted voice inside an authorized system — they are not interchangeable, and stakeholder status is not erased by the latter. Neither named pathway is popularity, insider gatekeeping, or a substitute for dignity. Accusations alone are not violation findings; locks must fit what was actually verified and leave a real path to challenge and remedy.*
 
+This Article sets out how standing differs from competency bars, competency clearances, and standing locks:
+
 - **Standing is different from:**
   - inherent dignity and equal moral standing (**Article V-A** (*Dignity and Equal Moral Standing*));
   - demonstration of material stake for stakeholder identification (**Chapter Five** — *Stakeholder*; *Stakeholder Weight*).
@@ -1438,6 +1486,8 @@ It must remain distinct from:
 <br>
 
 *In plain terms: standing records, competency bars, competency clearances, and standing locks must all be open to challenge through real review paths — restrictions must come with reasons, fit the verified finding, and stay no broader than process or safety needs. Allegations and intake labels are not standing verdicts. Standing discipline alone must never cut off survival essentials or constitutionally required audit, challenge, and remedy pathways.*
+
+This Article sets out the contestability and proportionality limits on standing restrictions:
 
 - **Verified-input gate and record contestability:** Any decision that affects standing, trust, role, recognition, or eligibility for recognition may use only verified inputs from axis-pure **contribution standing records** or **violation standing records** under [Chapter Nine §2 Question 1 — what happened?](core_09_standing_assessment.md#2-question-1--what-happened). Allegations, unadjudicated claims, provisional routing tags, intake-only narratives, and other dispute-phase material do not supply violation nature or contribution nature for standing by themselves.
   - Every standing record must state how to challenge it, which forum or authority reviews it, and the conditions for correction, restoration, expiration, or scheduled review under [Chapter Nine §3.1](core_09_standing_assessment.md#31-minimum-record-contents).
@@ -1502,6 +1552,8 @@ It must remain distinct from:
 <br>
 
 *In plain terms: ordinary participation named pathways stay open under published, contestable eligibility rules based on present evidence — not brand, scale, or past reputation. Opening a trust-sensitive named pathway requires competency clearance against its published competency bar; closing a privilege requires a standing lock on that named pathway. Standing locks cannot permanently strip foundational voice, except that a **final** **Chapter Eleven** classification of **anti-constitutional misconduct** withholds that voice until **full restitution** as stated in [**Chapter Thirteen §4.1**](core_13_governance.md#41-entitlement-and-eligibility).*
+
+This Article sets out named-pathway eligibility and responsibility, and the discipline on political voice:
 
 - **Named-pathway eligibility and responsibility:** Published eligibility criteria for ordinary participation, trust-sensitive roles, oversight eligibility, **governance-voting**, and **stakeholder-participation** named pathways must rest on present, observable, contestable evidence — not reputation, scale, or historical standing alone. Consistent alignment with foundational requirements may support [Competency Clearance](core_05_band_accountability.md#competency-clearance) against the applicable [Competency Bar](core_05_band_accountability.md#competency-bar) and trust-sensitive role eligibility, but restrictive consequences attach only through [Standing Lock](core_05_band_accountability.md#standing-lock) on named privilege pathways under [Chapter Ten §4.2 Prevention — general standing locks](core_10_standing_integration.md#42-prevention--general-standing-locks). **governance-voting** locks do not substitute for **stakeholder-participation** locks, and a **stakeholder-participation** lock does not erase stakeholder status or strip foundational governance-voting by itself.
   - Eligibility and lock claims remain subject to continuous audit and to the safeguards in this Article and in designated implementation text.
@@ -1623,6 +1675,8 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
 
 *In plain terms: data, identity, and operational state must be practically movable — formats, delays, and retaliatory terms cannot be used to trap users.*
 
+This Article sets out the portability floor:
+
 - **Portability:** Usable portability of data, identity, and operational state must be supported where systems hold or depend on such assets.
   - Required portability must be documented and timely enough to preserve practical exit, migration, or substitution.
   - Support remains subject to proportional security and safety constraints.
@@ -1651,6 +1705,8 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
 
 *In plain terms: systems that others depend on must publish their integration terms and give real notice before narrowing them.*
 
+This Article sets out the floors for reciprocal interoperability and notice of narrowing:
+
 - **Reciprocal interoperability:** Systems that materially integrate with external systems must provide reciprocal, documented integration boundaries proportionate to dependency.
 - **Notice of narrowing:** Material narrowing of interoperability conditions, interfaces, or access terms must be disclosed in time for dependent parties to adapt, migrate, or challenge.
   - A narrower boundary is permitted only where justified and auditable under applicable burden-of-justification requirements.
@@ -1674,6 +1730,8 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
 <br>
 
 *In plain terms: "features" that exist mainly to make leaving difficult are violations, not business strategy.*
+
+This Article sets out the anti-lock-in rule:
 
 - **Anti-lock-in:** Artificial barriers whose primary effect is to foreclose exit, switching, substitution, or challenge rights contravene this Article. In scope:
   - format opacity;
@@ -1714,6 +1772,8 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
 <br>
 
 *In plain terms: every sentient may move between jurisdictions, may seek refuge from regimes that violate this Constitution, and may not be left with zero recognizing regime. That is not a mandate that any particular adopter absorb coerced mass outflows — origin regimes keep primary recognition duty, with federation or shared transitional recognition as backup. Bureaucratic delay and arguments that fail Sentience Non-Exclusion cannot be used as hidden denials. Whether climate making a place unlivable is, by itself, a reason to grant refuge is for adopters to decide; this Article does not pick a yes or a no.*
+
+This Article sets out the floors for movement, refuge, and non-statelessness, and the limits on restricting them:
 
 - **Movement and relocation floor:** All sentients hold the right to move within and between jurisdictions, federations, and adopter regimes, and to relocate where continued presence materially impairs:
   - survival;
@@ -1855,6 +1915,8 @@ Stewardship discipline for complexity, plain-language access, and burden minimiz
 <a id="operative-steward-statement-comprehensibility"></a>
 > **Operative steward statement.** **Owner:** Article XX-A. Chapter One §9.1 Distributed Understanding. Contest floor: Article XII-B. **Forbidden move:** Do not treat corpus density as a reason to hide the next step. Do not require a specialist to exercise Article XII-B. **Clock:** Point at the existing card or the named home now. Do not send the reader on a scavenger hunt.
 
+This Article sets out the floor for proportional understandability:
+
 - **Proportional understandability:** Operators, affected stakeholders, and appropriate oversight bodies must be able to understand how high-impact systems:
   - function;
   - fail;
@@ -1882,6 +1944,8 @@ Stewardship discipline for complexity, plain-language access, and burden minimiz
 <br>
 
 *In plain terms: complexity cannot be used — technically, organizationally, contractually, or procedurally — as a wall against audit, contest, or correction.*
+
+This Article sets out the floors for complexity audits, modularity, anti-layering, and protocol alignment:
 
 - **Complexity audits and modularity:** Critical systems must support independent evaluation of:
   - complexity;
@@ -1964,6 +2028,8 @@ Diagnostic rigor must remain auditable and challengeable. It must be consistent 
 
 *In plain terms: root-cause findings must be written down, open to challenge, and open to correction — not sealed behind authority.*
 
+This Article sets out the documentation and challenge floors for root-cause findings:
+
 - **Documentation and audit:** The following must be documented and auditable (**Article XV-A** (*Auditability and Observable Evidence*); **Article XXI** (*Root Cause Analysis and Adaptive Response*)):
   - root-cause conclusions;
   - confidence levels;
@@ -1993,6 +2059,8 @@ Diagnostic rigor must remain auditable and challengeable. It must be consistent 
 <br>
 
 *In plain terms: when you are not sure, pick the fix you can walk back. Uncertainty cannot be used as a reason to freeze protection or to pretend permanent measures are certain.*
+
+This Article sets out the reversibility preference and its guard against delay and overclaim:
 
 - **Reversibility preference:** Where causes are uncertain or evidence remains incomplete, preference must favor:
   - fixes that can be rolled back and that do not permanently foreclose better choices later;
@@ -2072,6 +2140,8 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 
 *In plain terms: Constitutional forums rule on constitutional questions, not on everything. They cannot quietly expand their own turf or shut down challenge pathways.*
 
+This Article sets out the bounded mandate of Constitutional forums and its limits:
+
 - **Bounded mandate:** **Constitutional** forums may issue binding interpretive determinations only on a bounded set of topics:
   - **constitutional** scope;
   - Rights-Floor compatibility;
@@ -2106,6 +2176,8 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 
 *In plain terms: no single bloc may control **Constitutional forums** — the bodies that decide what the Constitution means. The sentients who sit on those panels, and the authorities that appoint them, must disclose conflicts in real time. Vacancy, rotation, and recusal rules must not be used to rig outcomes. If a panelist stays on a case while materially compromised, that can count as serious misconduct — and the dispute goes to **Integrity** forums first, not back to the same **Constitutional** panel to judge itself.*
 
+This Article sets out the composition, anti-capture, and conflict-control floors for Constitutional forums:
+
 - **Composition and conflict-control floor:** **Constitutional forums** — and the bodies that design, seat, rotate, and remove their panels under adopting instruments — must be structured to preserve impartiality, prevent capture, and remain contestable.
 - **Anti-capture structure:** **Constitutional forums**, their **appointing authorities**, and **adopting institutions** that govern panel composition must use transparent membership rules and conflict safeguards sufficient to prevent durable control by any single appointing authority, institution, or stakeholder bloc.
 - **Ongoing disclosure and recusal:** **Constitutional forum members and panelists** must disclose material affiliations, dependencies, and conflicts on an ongoing basis. **Recusal** must be available where impartiality is materially compromised.
@@ -2137,6 +2209,8 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 <br>
 
 *In plain terms: interpretive decisions must be published with real reasons and are open to structurally independent review — not re-reviewed by the same body that made them. On a regular schedule, **Integrity** forums also conduct mandatory outside checkups on **Constitutional** forums for capture, decision quality, and Rights-Floor integrity.*
+
+This Article sets out the floors for public reasons, independent challenge, and external review of interpretive decisions:
 
 - **Public reasons and auditability:** Binding interpretive decisions must be published in time to support meaningful challenge. Publication must include:
   - **constitutional** rationale;
@@ -2178,6 +2252,8 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 <br>
 
 *In plain terms: **Constitutional forum** panelists can be removed for real cause through due process — but **appointing authorities** and **adopting institutions** must not use "removal," "restructuring," or "redesign" as weapons against forum independence or dissent.*
+
+This Article sets out the grounds for removing panelists, their periodic revalidation, and the guard against pretext:
 
 - **Grounds for removal:** **Constitutional forum members and panelists** are removable by their **appointing authorities** through transparent due-process procedures for:
   - material breach;

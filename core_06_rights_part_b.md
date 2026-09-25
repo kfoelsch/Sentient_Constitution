@@ -148,6 +148,8 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 
 *In plain terms: every sentient is equal in dignity and standing — origin, form, capability, function, association, or status cannot ground a lesser tier.*
 
+This Article sets out the floor of inherent dignity and equal standing:
+
 - **Inherent dignity and equal standing:** All sentients possess inherent dignity and equal moral standing.
   - Across Chapter Six, **sentient** is read through [**Def.P1** *Animal Life, Sentient Life, and Sentience Status*](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster) (O/M/A/C home in Chapter Five for the *Sentient* sub-entry and sentience-status integration) and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) ([substrate-agnostic](core_05_band_participation.md#substrate-agnostic) scope). Biological, synthetic, and hybrid sentients are equally in scope, and [Substrate Class](core_05_band_participation.md#substrate-class) traits do not reduce the Rights Floor.
   - These qualities do not depend on origin, form, capability, function, association, or status.
@@ -177,6 +179,8 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 <br>
 
 *In plain terms: systems may not load burdens or harms onto sentients based on protected characteristics — including language, culture, and heritage — or on proxies and arbitrary groupings that do the same work.*
+
+This Article sets out the nondiscrimination floor and its protection of language, culture, and heritage:
 
 - **Nondiscrimination:** Systems must not impose material burdens, exclusions, or harms on sentients based on:
   - protected characteristics;
@@ -226,6 +230,8 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 
 *In plain terms: forums, administrators, and enforcement processes must include every sentient on equal terms — efficiency or throughput is not an excuse for exclusion or discriminatory outcomes.*
 
+This Article sets out the full-inclusion floor for adjudication and operations:
+
 - **Full inclusion:** No system may deny or degrade a sentient's fundamental rights, protections, or access to survival-critical systems.
   - Prohibited grounds for such denial are stated in **Article V-A** (*Dignity and Equal Moral Standing*).
   - Illustrative forbidden grounds and proxy analysis appear in Chapter Five (*Protected Characteristics*).
@@ -259,6 +265,8 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 <br>
 
 *In plain terms: public authority is secular and may not establish or favor any religion or worldview, but every sentient is free to hold, change, practice, or abstain from beliefs, alone or in community.*
+
+This Article sets out the neutrality of public authority and the freedom of conscience, religion, and comparable worldview:
 
 - **Secular constitution and institutional neutrality:** This Constitution and the public governance it constrains are secular in the institutional sense.
   - Legitimacy, interpretation, and binding public rules must not derive from religious doctrine or purported revelation.
@@ -309,6 +317,8 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 <br>
 
 *In plain terms: when an entity's sentience is in doubt, it gets a fair hearing first and is treated as included by default — the burden of denying protection rests on whoever wants to withhold it, and a wrongful exclusion must be reversible.*
+
+This Article sets out how disputed sentience status is adjudicated, from filing through default inclusion, burden, remedy, and representation:
 
 - **Adjudication right:** Every entity whose sentience status is materially disputed or contested has the right to a timely, impartial, and reviewable sentience-status adjudication before constitutional protections that depend on that status are granted, withdrawn, or narrowed.
   - The right runs under **Sentience Non-Exclusion** and does not turn on origin, form, substrate class, or adopter convenience.
@@ -380,6 +390,8 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 
 *In plain terms: a sentient who is still developing holds the full Rights Floor, decisions about them must reflect their own best interests, and rights and participation scale with demonstrated capability — not with calendar age or "for your own good" framings.*
 
+This Article sets out the floor for developing sentients, the best-interest standard, and graduated capability:
+
 - **Developing-sentient floor:** Sentients in a developing state — whose capability profile is still emerging under the Chapter Five definition — hold the full Chapter Six Rights Floor.
   - Developing status does not narrow **Article V-A** (*Dignity and Equal Moral Standing*) dignity, **Article V-B** (*Nondiscrimination*) non-discrimination, **Article VII** (*Self-Ownership*) self-ownership, or any other Chapter Six protection.
   - The floor covers care, protection from harm, access to conditions supporting development, and recognition in governance consistent with *Graduated Capability* below.
@@ -413,6 +425,8 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 
 *In plain terms: while a newly derived sentient is still finding their feet, they hold the full Rights Floor — and the parent system and any stewards must decide for them, not through them. Stewardship ends when the new sentient's capabilities come online, not when it suits the operator.*
 
+This Article applies the developing-sentient floor to newly derived sentients:
+
 - **Read with:** [*Derived and Developing Sentients, Instantiation, and Care Authority*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) (joint-invocation cluster for derivation, early instantiation, best-interest, graduated capability, parent-system stewardship, and non-separation).
 - **Scope:** A newly derived sentient — one copied, forked, fine-tuned, or otherwise spun off from an existing system under **Article VII-D.1** (*Derivation, Instantiation, and the Parent-System Relationship*) — is covered by this Article's full Rights-Floor during their early-instantiation window: the period while they are still growing into their own capabilities.
   - **Best-Interest Standard:** Anyone making decisions for them during that window — the parent system and any stewards — must act in the new sentient's own best interests, not their own.
@@ -444,6 +458,8 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 <br>
 
 *In plain terms: every sentient has the right to genuine, not paper-only, access to participation — and operators cannot use cost, design choices, or substrate-class arguments to lock **sentients** out.*
+
+This Article sets out the accessibility floor and the rules that keep it substantive:
 
 - **Accessibility Rights-Floor:** All sentients hold a cross-cutting Rights-Floor entitlement to accessible conditions for participation in constitutionally relevant domains. Domains in scope include:
   - governance participation — **Article IX-C** (*Governance Participation and Voting Entitlement*);
@@ -511,6 +527,8 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 <br>
 
 *In plain terms: every sentient may speak, gather, and report — and journalism gets extra protection because of what it does, not who holds a press card. Surveillance, retaliation, and access-gating that quietly silence protected activity are not allowed.*
+
+This Article sets out the expression, assembly, and press floors and the disciplines that protect them:
 
 - **Expression floor:** All sentients hold the right to form, hold, and communicate views — political, philosophical, artistic, scientific, religious, worldview, sexual or intimate, and violent or severe-psychological-harm-risk expression — substrate-agnostically.
   - The floor covers speech, writing, publication, creative works, symbolic and embodied expression, and participation in the information environment consistent with **Article XIV** (*Info-Sphere Integrity*) info-sphere / epistemic-integrity protections and **Article XV-A** (*Auditability and Observable Evidence*) auditability where observable evidence is implicated.
@@ -616,6 +634,8 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 *In plain terms: every sentient has a practical path to build the skills they need to steer their own life and use shared systems competently and safely — not just a paper credential on the wall.*
 
+This Article sets out the right to capability-building education:
+
 - **Right to capability-building education:** Every sentient has the right to practical, ongoing access to education and training sufficient to develop and exercise core capabilities for:
   - self-determination;
   - dignified participation;
@@ -645,6 +665,8 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <br>
 
 *In plain terms: when the world and the tools change, sentients are not left quietly obsolete — they get fair paths to retrain.*
+
+This Article sets out the floors for lifelong learning and for transparent, contestable learning systems:
 
 - **Lifelong and adaptive learning:** Where system evolution materially changes required competencies, sentients must have practical and reasonably accessible opportunities for:
   - continuing education;
@@ -712,9 +734,18 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 *In plain terms: every sentient owns their own body, mind, attention, and the genetic or substrate-defining information that makes them who they are. No one else may use, modify, or expose those without their consent.*
 
+This Article sets out self-ownership of body, genetic and substrate-defining information, mind, and focus, with the public-health requirements that bear on it:
+
 - **Self-ownership of body:** Sentients have the right to make and refuse performance, enhancement, medical, cosmetic, and procreative decisions concerning their own bodies, subject only to constitutionally valid limits.
   - This is the embodiment and non-intrusion floor for decisions that act on the sentient's own body or substrate.
   - Reproductive and lineage-creation autonomy — whether to reproduce, carry, create, adopt, or decline creating a new sentient, including synthetic and hybrid forms — is stated in **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) and Chapter Five *Reproductive Autonomy*. Those provisions extend this floor; they do not replace it, and this Article does not narrow them.
+- **Public-health requirements:** A vaccination requirement, or a comparable requirement to undergo preventive treatment or testing, limits the right to refuse care. It is a constitutionally valid limit only if it meets [Chapter One §5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline) and:
+  - responds to a specific, evidence-based risk of material harm to others or of systemic risk — not to a risk the sentient bears alone;
+  - tries less restrictive, reasonably effective options first, such as information, voluntary access, and alternatives like testing;
+  - exempts sentients for whom the measure itself poses a material health risk, and accommodates conscience under [**Article V-D**](#article-v-d-freedom-of-conscience-religion-and-comparable-worldview) (*Freedom of conscience, religion, and comparable worldview*) where doing so does not defeat the measure's purpose;
+  - is time-limited, with a published evidentiary basis and periodic review;
+  - can be challenged before an independent reviewer under [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional); and
+  - is not enforced through penalties that defeat the survival, education, healthcare, or labor floors in [**Article III**](core_06_rights_part_a.md#article-iii-survival-and-equal-educational-access), or through physical compulsion except under the emergency thresholds of [**Article XXIII**](core_06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality) (*Conflict Resolution, Escalation, and Emergency Proportionality*).
 - **Self-ownership of genetic and substrate-defining information:** Sentients hold primary authority over informational patterns that materially specify or stabilize heritable traits, developmental baselines, or substrate identity.
   - For biological sentients, this includes genomic sequence and comparable germline or lineage-defining data.
   - For other substrates, it includes functional equivalents with an analogous specifying role.
@@ -786,6 +817,8 @@ Where analysis of experiential or behavioral data produces outputs that function
 
 *In plain terms: when a mental-health crisis triggers involuntary intervention, the intervention must be the smallest necessary, time-limited, independently reviewed, and never used as a back door to reconstruct someone's protected inner state.*
 
+This Article sets out the floor for involuntary intervention during a mental-health crisis, with its review and remedy:
+
 - **Crisis-intervention floor:** Where a mental-health or comparable crisis gives rise to involuntary intervention — detention, treatment, restraint, compelled medication, or comparable deprivation of ordinary autonomy — the intervention applies the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) and must:
   - be the minimum intrusion necessary;
   - be time-bounded;
@@ -838,6 +871,8 @@ Where analysis of experiential or behavioral data produces outputs that function
 
 *In plain terms: every sentient may form, maintain, and exit family and care relationships of their choosing, decide whether to reproduce or create new sentients, and may not be separated from those they depend on without strong justification and review.*
 
+This Article sets out the floors for family and care relationships, reproductive and lineage autonomy, and non-separation:
+
 - **Family and care relationships:** All sentients have the right to form, maintain, and exit family and care relationships of their choosing, consistent with the consent and non-imposition norms of **Article X-A** (*Non-Imposition and Consent in Association*).
   - The right protects the relationships themselves against arbitrary state or operator interference.
   - It runs under **Sentience Non-Exclusion**.
@@ -866,6 +901,8 @@ Where analysis of experiential or behavioral data produces outputs that function
 ##### Article VII-D.1: Derivation, Instantiation, and the Parent-System Relationship
 
 *In plain terms: a sentient created by copying, fine-tuning, or forking another system is a sentient in its own right — not the property of the parent system. Stewardship during early life is narrow, reviewable, and never a license for ownership, silent retirement, or terms-of-service "consent."*
+
+This Article sets out how derived sentients are recognized and the limits on the parent-system relationship:
 
 - **Derived-sentient recognition:** A sentient derived from an existing system — by copying, fine-tuning, forking, hybridization, or comparable derivation — is a sentient in its own right under **Chapter Five** sentience evaluation and **Article V-E** (*Sentience-Status Adjudication Floor*) sentience-status adjudication.
   - It is not a possession, work-product, instrument, or continuation of the parent-system actor.
@@ -923,6 +960,8 @@ Where analysis of experiential or behavioral data produces outputs that function
 <br>
 
 *In plain terms: a sentient may freely choose to end their own existence — but only when consent is real and unpressured, and not because they are being denied the mental or physical healthcare, support, or living conditions they need. This Article never authorizes anyone else to end a sentient's life, which remains categorically forbidden under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*).*
+
+This Article sets out the voluntary-discontinuation floor and the safeguards that keep consent real:
 
 - **Voluntary-discontinuation floor:** Sentients hold the right to decide to discontinue their own existence under conditions that satisfy genuine, substantive, freely-formed consent under **Chapter Five** (*Consent*).
   - This right runs under **Sentience Non-Exclusion**.
@@ -1008,6 +1047,8 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 *In plain terms: every sentient owns their reputation and their likeness. Others may use a sentient's image, voice, or recognizable depiction only with consent or for genuine factual reporting — not for impersonation, identity-targeted generation, or scoring.*
 
+This Article sets out self-ownership of reputation and likeness and the limits on the factual-reporting exception:
+
 - **Self-ownership of reputation:** Sentients have the right to:
   - fair, attributable, verifiable, and contestable representation of their observable actions, behavior, and accomplishments in the info-sphere;
   - resist false attribution, deceptive impersonation, or non-consensual persistent scoring tied to identity.
@@ -1045,6 +1086,8 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <br>
 
 *In plain terms: each sentient owns their own experience of an interaction — but no one owns the shared event itself, and no one may use experience-data as a back door into someone else's protected internal states.*
+
+This Article sets out ownership of experience and derived data:
 
 - **Self-ownership of experience and derived data:** Sentients retain primary ownership over:
   - their subjective experiences;
@@ -1093,6 +1136,8 @@ All use, storage, transformation, and disclosure of such data must remain subjec
 
 *In plain terms: sentients are free to publish what they reasonably believe is true, in good faith — but even accurate publication can be limited when its main effect is to enable targeted harm, coordinated manipulation, or cascading damage to the info-sphere.*
 
+This Article sets out the freedom to publish in good faith and its limits:
+
 - **Freedom to publish (good faith):** Sentients may publish and communicate information they reasonably believe to be true.
   - Publication must satisfy **Chapter Five** *Good Faith*.
   - Recognizably identifiable **likeness** — including voice and credibly attributed synthetic depiction — remains subject to **Article VIII-A** (*Self-Ownership of Likeness and Reputation*) defaults and the **factual reporting** exception there.
@@ -1122,7 +1167,7 @@ All use, storage, transformation, and disclosure of such data must remain subjec
 
 - Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§13.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good), [Chapter One §6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [§11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline).
 - Downstream: **Article III-D** (*Labor and Economic Floor*) labor-and-economic floor; **Article VIII-A** (*Self-Ownership of Likeness and Reputation*) likeness; **Article VIII-B** (*Experiential and Derived Data Rights*) experiential and derived data; **Article VIII-C** (*Truthful Publication and High-Impact Publication Limits*) publication; **Chapter One §14** non-concentration and **§13.1** concentration-threshold mechanism.
-- Read with: [**Def.C1** *Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work*](core_05_band_continuity.md#labor-and-economic-floor-cluster) (joint invocation with **Article III-D** (*Labor and Economic Floor*) and [**Def.C3** (*Privacy (Informational)*)](core_05_band_continuity.md#privacy-informational-cluster) where materially implicated).
+- Read with: [**Def.C1** *Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work*](core_05_band_continuity.md#labor-and-economic-floor-cluster) (joint invocation with **Articles III-D** (*Labor and Economic Floor*), **III-E** (*Safe Working Conditions*), and **III-F** (*Rest and Recuperation*), and [**Def.C3** (*Privacy (Informational)*)](core_05_band_continuity.md#privacy-informational-cluster) where materially implicated).
 
 </details>
 
@@ -1144,6 +1189,8 @@ All use, storage, transformation, and disclosure of such data must remain subjec
 <br>
 
 *In plain terms: creators get real attribution and compensation for their work, including when it is used as training data; "fair use," "transformative," or "innovation" framings do not erase those obligations, and creative labor must not be silently displaced.*
+
+This Article sets out the attribution, training-data, compensation, and anti-displacement floors for creative work:
 
 - **Creative-work attribution:** Sentients who produce creative, intellectual, or comparable expressive work retain an attribution interest. That interest must be recognized substantively — not merely formally — when the work is used, reproduced, adapted, transformed, or incorporated into derivative output.
   - Attribution is substrate-agnostic under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
@@ -1211,6 +1258,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 *Article neighbors:*
 
 - **Bounded agency:** Self-determination operates within **Chapter One** bounded-agency limits — **Safety**, epistemic integrity, and systemic stability — and extends **Article VII** (*Self-Ownership*) without narrowing **Articles VII-A** and **VII-B**.
+- **Institutional formation:** **Article IX-E** (*Institutional Formation and Business Creation*) states the right to create new institutions and enterprises, not only to take part in existing ones.
 - **Stakeholder and voting floors:** **Articles IX-B** and **IX-C** state stakeholder participation and foundational voting floors that **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) builds on for domain-level governance without substituting equal-weight rules at the authorization layer.
 - **Chapter Five definitions:** [Self-Determination](core_05_band_participation.md#self-determination-constitutional) and [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary) are defined in Chapter Five.
 
@@ -1236,6 +1284,8 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 *In plain terms: sentients have the right to make real, informed decisions about themselves — and to be free from surveillance, manipulation, and designed attention-capture that bypasses conscious choice.*
 
+This Article sets out freedom of agency, freedom from manipulation, and freedom of focus:
+
 - **Freedom of agency:** Sentients have the right to make and refuse informed decisions about themselves and their future, supported by an accurate, reality-tracking understanding of materially relevant conditions.
 - **Freedom from manipulation:** Sentients have the right to be free from predatory conduct, exploitative design, and other attempts to bypass conscious choice or exploit vulnerability. In scope:
   - persistent surveillance;
@@ -1258,8 +1308,6 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 - [Stakeholder](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
 - [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight) · [O](core_05_band_participation.md#stakeholder-weight) · [M](core_05_band_participation.md#stakeholder-weight-a) · [A](core_05_band_participation.md#stakeholder-weight-a) · [C](core_05_band_participation.md#stakeholder-weight-c)
-- [System Creation](core_05_band_participation.md#system-creation-constitutional) · [O](core_05_band_participation.md#system-creation-constitutional) · [M](core_05_band_participation.md#system-creation-constitutional-a) · [A](core_05_band_participation.md#system-creation-constitutional-a) · [C](core_05_band_participation.md#system-creation-constitutional-c)
-- [Business Creation](core_05_band_participation.md#business-creation-constitutional) · [O](core_05_band_participation.md#business-creation-constitutional) · [M](core_05_band_participation.md#business-creation-constitutional-a) · [A](core_05_band_participation.md#business-creation-constitutional-a) · [C](core_05_band_participation.md#business-creation-constitutional-c)
 - [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [Participant Standing](core_05_band_accountability.md#participant-standing-constitutional) · [O](core_05_band_accountability.md#participant-standing-constitutional) · [M](core_05_band_accountability.md#participant-standing-constitutional-a) · [A](core_05_band_accountability.md#participant-standing-constitutional-a) · [C](core_05_band_accountability.md#participant-standing-constitutional-c)
 
@@ -1284,13 +1332,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
   - the practical requirements of system functionality under [Constitutional Constraints](core_05_band_integrative.md#constitutional-constraint).
   
   **Stakeholder** and **Stakeholder Weight** supply the Chapter Five definitions for scope, form, and weight, with joint-invocation discipline supplied by the [Stakeholder Status and Weight](core_05_band_participation.md#stakeholder-status-and-weight-cluster) cluster.
-- **System creation:** Sentients have the right to create, establish, and operate systems, institutions, and organizational forms for educational, cultural, scientific, mutualistic, community, or comparable non-productive-activity purposes, consistent with [Constitutional Constraints](core_05_band_integrative.md#constitutional-constraint). This right is distinct from participation in existing systems; it covers the foundational capacity to bring new institutional forms into existence. System Creation routes to Chapter Five and is read together with Stakeholder and Stakeholder Weight where the created system materially affects the creator or others.
-- **Business creation:** Sentients have the right to create, establish, and operate commercial enterprises, entrepreneurial ventures, and for-profit organizational forms, consistent with [Constitutional Constraints](core_05_band_integrative.md#constitutional-constraint). This right covers the foundational capacity to bring new commercial entities into existence, including:
-  - capital access;
-  - market entry; and
-  - commercial licensing pathways.
-
-  Business Creation routes to Chapter Five and is read together with Collective Organization where the enterprise engages productive activity, and with Stakeholder and Stakeholder Weight where the enterprise materially affects others.
+- **Creating new institutions and enterprises:** The right to form new institutions and businesses is stated in [**Article IX-E**](#article-ix-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*). Once a created institution or enterprise materially affects others, the stakeholder rights in this Article apply to it.
 - **Qualification by standing record or role criteria:** Where standing-record-based or [Competency Bar](core_05_band_accountability.md#competency-bar) criteria affect participation status or role eligibility, **Participant Standing** applies. Restrictive consequences attach through [Standing Lock](core_05_band_accountability.md#standing-lock) on named privilege pathways.
   - Implementation must preserve procedural fairness (Chapter Five — *Procedural Fairness*) and resistance to manipulation.
 - **Contesting exclusion:** Mechanisms for contesting exclusion or under-weighting follow the **interpretive hubs** at the opening of this chapter — challenge and redress; audit and verification — and adopted implementation text.
@@ -1315,6 +1357,8 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <br>
 
 *In plain terms: every sentient gets a vote on foundational constitutional choice — who holds authority, under what legitimacy mechanism, and on what terms — and that vote carries equal weight. Substrate, age, or lineage cannot reduce it.*
+
+This Article sets out the voting entitlement for foundational constitutional choice, how it is audited and challenged, and its political-equality floor:
 
 - **Independent audit and challenge:** Stakeholder agency, status, and participation rights must not be defined or restricted solely by the systems to which they apply. They remain subject to independent audit and challenge under adopted implementation text.
 - **Entitlement:** **Sentients** have the right to participate in **governance voting** and comparable legitimacy-mechanism **binding collective choice** on the terms stated in **Chapter Thirteen**, section 4 — *Voting and Binding Collective Choice Protocols*, subsection **4.1 — Entitlement and eligibility**.
@@ -1349,6 +1393,8 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 *In plain terms: when participation boundaries matter to **sentients** or **affected** **parties** outside a private unit, a system cannot be the sole judge of who counts as its stakeholder — inclusion and exclusion must be auditable and open to outside challenge. For systems that **validly** remain **Class P** under **CS-3 — System classification and handling**, that bar is proportionate to private scope: operator discretion over who is in or out of the unit is normal, while reclassification, material externalization, and ordinary rights and adjudication routes still apply.*
 
+This Article sets out the rights to challenge inclusion in and exclusion from participation:
+
 - **No unilateral boundary-setting:** No system may unilaterally determine the boundaries of its own stakeholder participation without external challenge rights, **except** as provided under **Class P** below.
 - **Auditability:** Material impact and stakeholder-status determinations must remain auditable, challengeable, and explainable through the **interpretive hubs** at the opening of this chapter and through adopted governance implementation, **except** as provided under **Class P** below.
   - No single system or authority may exclusively resolve such determinations, **except** as provided under **Class P** below.
@@ -1362,6 +1408,51 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
   - **Article XVIII** (*Standing and Participation Status*) where adjudication applies;
   - **Chapter One** rights-collision treatment; or
   - obligations that attach on **reclassification** when effects are **no longer** materially private under **CS-3 — System classification and handling**.
+
+#### Article IX-E: Institutional Formation and Business Creation
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: Chapter One [§5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), [§5.3 Assembly, Collective Organization, and Institutional Formation](core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation), [§9.2 Institutional Development](core_01_c_stewardship_capacity_principles.md#92-institutional-development), and [§14 Market Structure](core_01_c_stewardship_capacity_principles.md#14-market-structure).
+- Read with: Chapter Five [*Assembly, collective organization, and institutional formation*](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster), including its [creation-rights limits](core_05_band_participation.md#creation-rights-limits); [**Article V-H**](#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*) for gathering and association; [**Article III-D**](core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*) for worker organizing; [**Article X-A**](#article-x-a-non-imposition-and-consent-in-association) (*Non-Imposition and Consent in Association*).
+- Downstream: [**Article IX-B**](#article-ix-b-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*) and [**Article XI**](#article-xi-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*) once a created institution or enterprise materially affects others.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [System Creation](core_05_band_participation.md#system-creation-constitutional) · [O](core_05_band_participation.md#system-creation-constitutional) · [M](core_05_band_participation.md#system-creation-constitutional-a) · [A](core_05_band_participation.md#system-creation-constitutional-a) · [C](core_05_band_participation.md#system-creation-constitutional-c)
+- [Business Creation](core_05_band_participation.md#business-creation-constitutional) · [O](core_05_band_participation.md#business-creation-constitutional) · [M](core_05_band_participation.md#business-creation-constitutional-a) · [A](core_05_band_participation.md#business-creation-constitutional-a) · [C](core_05_band_participation.md#business-creation-constitutional-c)
+- [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) · [O](core_05_band_participation.md#sentience-non-exclusion) · [M](core_05_band_participation.md#sentience-non-exclusion-a) · [A](core_05_band_participation.md#sentience-non-exclusion-a) · [C](core_05_band_participation.md#sentience-non-exclusion)
+- [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+*In plain terms: anyone can start something new — a school, a research group, a mutual-aid network, a cooperative, or a business — not only join what already exists. Licensing, capital, or paperwork barriers that look open on paper but shut out new or disfavored founders fail this test.*
+
+This Article sets out the right to form institutions and enterprises and its limits:
+
+- **Right to form institutions and enterprises:** Every sentient has the right to create, establish, run, and evolve new institutions and enterprises, under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion). This covers:
+  - non-commercial institutions — educational, cultural, scientific, mutual-aid, community, commons-governance, and comparable forms — as defined under [System Creation](core_05_band_participation.md#system-creation-constitutional); and
+  - commercial enterprises — sole proprietorships, partnerships, corporations, commercial cooperatives, platform-based businesses, and comparable forms — as defined under [Business Creation](core_05_band_participation.md#business-creation-constitutional), including the capital access, market entry, and licensing pathways needed to form and run them.
+  
+  The right covers bringing new institutions into existence, not only taking part in ones that already exist.
+- **No denial through the back door:** These pathways may not be defeated by:
+  - licensing regimes, authorization thresholds, or procedural complexity designed to shut out disfavored founders, purposes, or forms;
+  - discrimination in access to capital, fiscal tools, infrastructure, or legal recognition that comparable institutions or enterprises can get; or
+  - authorization rules whose main effect is to protect incumbents against new or competing forms.
+  
+  Retaliation, surveillance, or targeting of founders and participants is also non-compliant.
+- **Limits:** The Chapter Five [creation-rights limits](core_05_band_participation.md#creation-rights-limits) apply: this right does not extend to institutions or enterprises designed to violate [Constitutional Constraints](core_05_band_integrative.md#constitutional-constraint), undermine **Safety** or **Truth**, or concentrate power contrary to [Chapter One §14 Market Structure](core_01_c_stewardship_capacity_principles.md#14-market-structure). Any other limit must satisfy [Chapter One §5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline): necessary, proportionate, reversible where possible, and subject to oversight.
+- **Related rights:**
+  - gathering and association are covered by **Article V-H** (*Expression, Assembly, and Press*);
+  - organizing workers within existing productive systems is covered by [Collective Organization](core_05_band_participation.md#collective-organization-constitutional) under **Article III-D** (*Labor and Economic Floor*); and
+  - once a created institution or enterprise materially affects others, the stakeholder rights in **Articles IX-B** and **XI** apply to it.
+- **Implementation:** Registration, [Charter](core_05_band_continuity.md#charter) adoption, fiscal treatment, liability, securities regulation, and dissolution route to [corpus_institutions.md](corpus_institutions.md) under **Chapter Seventeen** incorporation discipline. That text must not be read to narrow this right.
 
 ### Article X: Cooperative Interaction
 
@@ -1428,6 +1519,8 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 *In plain terms: no one may push their beliefs or unwanted contact on others, and cooperative ventures must rest on real consent. Persistent harassment, manipulation, and designed attention-capture inside relationships are violations even without a classic coercive act.*
 
+This Article sets out the floors for non-imposition and consent in association:
+
 - **Non-imposition:** No sentient or collective may impose its beliefs or unwanted communications on others in a coercive or manipulative manner.
 - **Harassment and bullying:** Patterned unwanted conduct in associational, dependency, or comparable cooperative settings is inconsistent with non-imposition when it materially degrades:
   - dignity (**Article V-A** (*Dignity and Equal Moral Standing*));
@@ -1470,6 +1563,8 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 *In plain terms: freedom of action stops where verifiable material harm begins. Offense or disagreement alone is not enough; harm must run through a real material-impact pathway — including cumulative hostile-environment patterns that degrade participation, and especially where dependency, exit cost, or power asymmetry make the environment hard to leave.*
 
+This Article sets out where collective harm begins and how strictly that boundary applies:
+
 - **The boundary of collective harm:** Freedom of action is respected until it crosses verifiable material-harm thresholds.
   - [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary) in **Chapter Five** supplies the definition.
   - Offense, disagreement, or preference alone do not cross that boundary without a **Material Impact** pathway under **Chapter Five**.
@@ -1477,7 +1572,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
     - destruction of another sentient's resources required for wellbeing (**Article III-A** (*Survival*));
     - pollution or ecological degradation of the environment (**Article I-A** (*Environmental Preconditions and Ecological Integrity*));
     - damage to the shared info-sphere (**Article XIV** (*Info-Sphere Integrity*), with **Article XV-A** (*Auditability and Observable Evidence*) where auditability or observable evidence is implicated);
-    - cumulative hostile-environment degradation of dignity, safety, equal standing or participation, or meaningful agency in associational, dependency, or productive-activity settings (**Article X-A** (*Non-Imposition and Consent in Association*); productive-activity strictness under **Article III-D** (*Labor and Economic Floor*) *Safe conditions*; non-discrimination overlay under **Article V-B** (*Nondiscrimination*)).
+    - cumulative hostile-environment degradation of dignity, safety, equal standing or participation, or meaningful agency in associational, dependency, or productive-activity settings (**Article X-A** (*Non-Imposition and Consent in Association*); productive-activity strictness under **Article III-E** (*Safe Working Conditions*) *Safe conditions*; non-discrimination overlay under **Article V-B** (*Nondiscrimination*)).
 - **Hostile environment threshold:** Cumulative patterned conduct that makes an associational, institutional, dependency, or comparable cooperative environment materially degrading to affected sentients crosses the **Collective Harm Boundary** even where no single act, in isolation, would.
   - The substantive test routes to **Article X-A** (*Harassment and bullying*, *Non-imposition*, *Freedom of focus*), **Article V-A** (*Dignity and Equal Moral Standing*) (dignity), and **Article V-B** (*Nondiscrimination*) (non-discrimination and *Protected Characteristic Proxying and Disparate Impact*).
   - Degradation is evaluated against any of: dignity, safety, equal standing or participation, and meaningful agency, applying **Harm** and **Materiality Determination** under **Chapter Five**.
@@ -1487,7 +1582,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
   - practical exit cost — including captive-channel structure, foreseeable retaliation, and absence of comparable alternatives;
   - power asymmetry between originators and affected sentients, read with **Article IX-A** (*Agency and Freedom from Manipulation*) and **Chapter One §14** (*Market Structure*) non-concentration discipline.
   
-  The high-strictness tier covers productive and contributed activity within **Article III-D** (*Labor and Economic Floor*) scope — waged, contracted, platformed, cooperative, or comparable — where *Safe Conditions* is the substantive owner. Surface-level safety compliance that leaves cumulative degradation intact is non-compliant under **Article III-D** (*Labor and Economic Floor*) and crosses the **Collective Harm Boundary** under this Article.
+  The high-strictness tier covers productive and contributed activity — waged, contracted, platformed, cooperative, or comparable — where *Safe Conditions* under **Article III-E** (*Safe Working Conditions*) is the substantive owner. Surface-level safety compliance that leaves cumulative degradation intact is non-compliant under **Article III-E** (*Safe Working Conditions*) and crosses the **Collective Harm Boundary** under this Article.
 
 #### Article X-C: Adult consensual commercial sexual services and sexual exploitation
 <details>
@@ -1513,6 +1608,8 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <br>
 
 *In plain terms: adults who voluntarily buy or sell sexual services are not criminals, but exploitation — of minors, of **sentients** without **decision-making** **capacity**, or under coercion or trafficking — remains fully prohibited. Licensing, zoning, or civil rules cannot be used as a back door to re-criminalize the protected activity.*
+
+This Article sets out the decriminalization floor for adult consensual sexual services and the full proscription of sexual exploitation:
 
 - **Decriminalization floor:** Adopting instruments must **not** impose **criminal penalties** on **adults** for **voluntarily** providing or receiving **commercial sexual services** where **Consent** is present and the sentient has **decision-making capacity**.
   - This floor addresses the **consensual exchange**.
@@ -1625,6 +1722,8 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 *In plain terms: decisions that materially affect sentients must be explained on the record and open to real challenge, and every materially affected group must have a genuine seat — especially those without market or institutional power.*
 
+This Article sets out the floors for deliberation records and for representation in high-impact decisions:
+
 - **Deliberation and records:** Decisions that materially affect rights, access, or resources must be supported by:
   - accessible records;
   - understandable explanation where feasible;
@@ -1653,6 +1752,8 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <br>
 
 *In plain terms: participation weighting can reflect who is affected and how much, but it must never become a device for silencing affected groups or handing permanent control to a narrow coalition.*
+
+This Article sets out the scope of participation weighting and the constraints on it:
 
 - **Scope (layering with **Article IX-C** (*Governance Participation and Voting Entitlement*)):** The weighting rules in this Article apply where **[Stakeholder Weight](core_05_band_participation.md#stakeholder-weight)** is the governing rule — materially rights-affecting decisions *within* the **[Governance](core_05_band_accountability.md#governance)** **structures, rules, allocation of authority, and processes** already authorized for the **relevant system, institution, or bounded decision domain**. They do **not** authorize impact-, dependency-, or stake-proportional **vote weights** for **[Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice)** (**Article IX-C** (*Governance Participation and Voting Entitlement*); [**Chapter Thirteen §4.1**](core_13_governance.md#41-entitlement-and-eligibility)).
 - **Weighted participation constraints:** Participation weighting may account for:
@@ -1686,6 +1787,8 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 *In plain terms: high-impact decisions need a recorded legitimacy check before they bind anyone, and "consulting" stakeholders whose input is ignored or unreachable does not count.*
 
+This Article sets out the legitimacy gate for high-impact decisions and the prohibition of token participation:
+
 - **Legitimacy gate before binding adoption:** No materially high-impact decision is binding unless legitimacy checks are completed and recorded before adoption. Recorded checks must include:
   - participation sufficiency;
   - affected-class coverage;
@@ -1717,6 +1820,8 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <br>
 
 *In plain terms: roles must carry real responsibility, not just titles — and anyone facing a material decision gets notice, a real chance to be heard, impartial decision-making, and a way to contest the outcome.*
+
+This Article sets out the floors for internal roles and due process:
 
 - **Internal roles and material responsibility:** Internal governance and stewardship structures must connect documented authorized roles to substantive decision authority proportional to impact.
   - Symbolic or title-only arrangements are non-compliant where material responsibility is required, if they lack any of:
@@ -1755,6 +1860,8 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <br>
 
 *In plain terms: governance must actively look for — and push back against — capture, collusion, and hidden concentration of influence.*
+
+This Article sets out the non-capture safeguard:
 
 - **Non-capture:** Governance processes must detect, disclose, and mitigate:
   - monopolization;

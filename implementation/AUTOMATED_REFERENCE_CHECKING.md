@@ -103,6 +103,7 @@ Load-bearing count: 17 targets (plus their tests). If only those pass, citations
 | `ch1-ch5-alignment-audit` | `tools/ch1_ch5_alignment_audit.py` | CORE-TRACE | Chapter One D/A/C widgets ↔ Chapter Five guideposts; oDef backlinks |
 | `ch1-cjs3-alignment-audit` | `tools/ch1_cjs3_alignment_audit.py` | CJS-TRACE | Also in `make regression`; Chapter One ↔ CJS-3 oDef clusters |
 | `ch1-ch6-alignment-audit` | `tools/ch1_ch6_alignment_audit.py` | — | Preamble / Chapter One ↔ Chapter Six articles, including Def.* and oDef cites |
+| `section-bullet-lead-audit` (+ `-summary`, `-test`) | `tools/section_bullet_lead_audit.py` | MD-SECTION-LEAD-01 | Sections open with lead-in prose, not a list item; Chapter Five definition files exempt. Promote to `make regression` once the backlog is cleared |
 
 ### Definition appropriateness finding taxonomy (`definition-appropriateness-audit`)
 

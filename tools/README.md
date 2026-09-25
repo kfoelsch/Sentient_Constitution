@@ -63,6 +63,8 @@ Chapter Five and CJS-3 definition files use **one** `---` between reader units, 
 
 `heading_echo_topic_audit.py` flags a numbered section whose first body-prose line (after widgets and `*In plain terms*` gloss) restates that heading as a topic sentence — a self-cite such as `**[§13.2 Title](#…):**`. Unnumbered heading-echo run-ins (`**Symmetric costly constraints:**`) stay under MD-LIST-INTRO-01.
 
+`section_bullet_lead_audit.py` (**MD-SECTION-LEAD-01**, advisory) flags a section whose first body line — after Trace / D/A/C widgets, `<br>` spacers, callouts, and `*In plain terms*` gloss — is a bare list item instead of lead-in prose. Sections that open straight into a child heading are containers and are skipped. Chapter Five definition files (`core_05_*.md`) are carved out because their entries open with O / E / C bullets by design. `make section-bullet-lead-audit-summary` prints per-file counts. Not in `make regression` until the backlog is cleared.
+
 `apply_article_cite_gloss.py` adds missing **REF-ARTICLES-GLOSS** parenthetical titles to bare `**Article …**`, `[Article …](url)`, and unbolded `Article …` cites across the binding corpus (see `doc_architecture.md` section 7). Run after heading renames or bulk cite cleanup; review combined-label and bullet-specific edge cases by hand.
 
 `ch5_trace_crosslink_audit.py` enforces the Chapter Five navigation-metadata rule: `Read with:` lines belong inside each entry's local `Trace` / `<details>` block, not in operative prose after the block closes. It does not ban selective same-file cross-definition links in O / E / C body text.

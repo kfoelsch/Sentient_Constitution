@@ -128,6 +128,8 @@ Adopted governance implementation provides escalation, proportionality of interv
 
 *In plain terms: justice works through **violation**, **correction**, and **prevention**. Address what went wrong, fix what was broken and what caused it, and keep it from happening again — not inflict suffering for its own sake.*
 
+This Article sets out the objective and scope of justice and the anti-cruelty floor:
+
 - **Justice objective and scope:** Constitutional justice is structured around violation, correction, and prevention. Its primary purposes are to:
   - respond to verified violation, including stopping ongoing harm;
   - secure correction through restitution, remediation, and change to conduct or systems;
@@ -156,6 +158,8 @@ Adopted governance implementation provides escalation, proportionality of interv
 <br>
 
 *In plain terms: serious restrictions on a sentient must simultaneously be safety-necessary, proportionate, restorative, individualized, and supported by real evidence. Violent sentients must be imprisoned when that is necessary to protect others. Verified anti-constitutional misconduct and its imprisonment requirements are governed by **Chapter Eleven** §4.2. Deprivation of life as a justice measure is absolutely off-limits — no tier, emergency, or transition reopens it.*
+
+This Article sets out the joint requirements for non-trivial restrictions and the floors on imprisonment and deprivation of life:
 
 - **Scope:** Non-trivial deprivations and restrictions include limitations on:
   - freedom;
@@ -199,6 +203,8 @@ Adopted governance implementation provides escalation, proportionality of interv
 <br>
 
 *In plain terms: use the lightest effective measure, set a clock on it, build in review and restoration, and never let "severity" or "convenience" erase dignity or appeal rights. Killing is never allowed; imprisonment is required for violent sentients under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and for verified anti-constitutional misconduct under **Chapter Eleven** §4.1 when lesser measures will not keep others safe.*
+
+This Article sets out how the least-restrictive, time-bounded rule applies to justice measures:
 
 - **Justice application of the constraint principle:** Justice, containment, and restorative-accountability measures apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle). Where intervention is required, each measure must include:
   - explicit duration limits;
@@ -249,6 +255,8 @@ Adopted governance implementation provides escalation, proportionality of interv
 
 <a id="operative-steward-statement-emergency"></a>
 > **Operative steward statement.** **Owner:** Article XXIII-D, including restore-challenge clocks. **Forbidden move:** Do not skip notice and challenge permanently. Do not stretch feasible. Do not normalize emergency into ordinary governance. Do not block a documented Tier A deferral in order to insist on full notice before containment. **Clock:** Contain now. Restore notice and challenge inside the Tier A one-week outer bound unless a documented lower-urgency showing is recorded. Continuation past that bound needs a documented necessity showing.
+
+This Article sets out how the constraint principle applies to emergencies and what continuing a measure requires:
 
 - **Emergency application of the constraint principle:** Emergency measures apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) under imminent-harm conditions. Temporary measures to prevent imminent harm must be:
   - time-limited;
@@ -336,6 +344,8 @@ This Article applies the [Constitutional Tetrad](core_00_preamble.md#constitutio
 
 *In plain terms: after the emergency, look back honestly and publish what you find — with only narrow, time-limited confidentiality.*
 
+This Article sets out the floors for post-emergency review, records, and disclosure:
+
 - **Post-emergency retrospective review and disclosure:** After stabilization, emergency decisions and outcomes must undergo retrospective review.
 - **Auditable records:** Records must be auditable and must cover:
   - trigger conditions;
@@ -371,6 +381,8 @@ This Article applies the [Constitutional Tetrad](core_00_preamble.md#constitutio
 <br>
 
 *In plain terms: rights conflicts must be resolved on the record; restoration is preferred where appropriate but must not replace real protection. Voluntary public apology rules are governed by **Chapter Ten** §4.3 generally, and by **Chapter Eleven** §4.3 for verified anti-constitutional misconduct.*
+
+This Article sets out the rights-collision procedure and the place of restorative alignment:
 
 - **Rights-collision procedure:** Where rights conflicts are material, forums and governing bodies must apply **Chapter One §6.1.5** (*Rights-Collision Decision Test*), including the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle).
   - Records must explicitly identify:
@@ -415,6 +427,8 @@ This Article applies the [Constitutional Tetrad](core_00_preamble.md#constitutio
 
 <a id="operative-steward-statement-delay"></a>
 > **Operative steward statement.** **Owner:** Article XXIV-C. Numeric home: Chapter Twelve §6. Definition: Timely Resolution. **Forbidden move:** Do not add process, hop count, or "read more adopted implementation text" in a way that eats the tier window. Do not treat a met throughput target as timely when harm persists. **Clock:** Apply the Chapter Twelve §6 outer bound for the matching tier. Then take the existing next-step card. Do not add process that eats the window.
+
+This Article sets out the anti-delay floor for constitutional problem resolution:
 
 - **Coordination purpose:** Constitutional justice under **Article XXIII-A** (*Justice Objective and Scope*) operates through a **constitutional coordination and resolution system** — verify facts, measure standing, integrate consequences, and restore where feasible — not through indefinite adversarial delay, reputation scoring, or punishment for its own sake.
 - **Three joint requirements:** Material resolution pathways must be **timely**, **efficient**, and **just** together:
@@ -472,6 +486,8 @@ Governance rules, participation mechanisms, weighting models, and funding struct
 
 *In plain terms: governance must earn its continued authority through regular review — and must be reviewed faster when capture, exclusion, or failure is showing up.*
 
+This Article sets out periodic and accelerated review of governance:
+
 - **Periodic review:** Material governance and allocation mechanisms must be subject to:
   - periodic revalidation and transparency;
   - stakeholder-visible criteria for continuation or replacement, as implemented in implementation protocols and governance safeguards.
@@ -500,6 +516,8 @@ Governance rules, participation mechanisms, weighting models, and funding struct
 <br>
 
 *In plain terms: constitutional change must happen in the open, with stated reasons — not through emergency, implementation, or custody shortcuts.*
+
+This Article sets out the floors for transparent constitutional change:
 
 - **Transparent change:** Evolution of constitutional systems must remain observable, auditable, and contestable under **Articles XIII** and **XVIII**.
 - **Material-change record:** Material changes must carry:
@@ -557,6 +575,8 @@ Transitional governance exists to secure continuity and non-regression. It must 
 
 *In plain terms: transitions move forward by meeting real gates, not by clocks or pressure — and Rights-Floor minimums stay in force at every phase.*
 
+This Article sets out phased adoption and the Rights-Floor minimums that hold at every phase:
+
 - **Phased adoption and gate criteria:** Transition plans must be phased and reviewable.
   - Phase advancement must rest on documented satisfaction of published gate criteria and required verification artifacts.
   - It must not rest on any of the following alone:
@@ -603,6 +623,8 @@ Transitional governance exists to secure continuity and non-regression. It must 
 
 *In plain terms: temporary authority really is temporary — and a transition that is going well shows it. You should see interim powers shrinking phase by phase while constitutional forums, rights processes, and ordinary governance machinery work better and take on more of the load. Extending temporary authority requires real reasons — and the longer it runs, the higher the bar.*
 
+This Article sets out the limits on transitional authority and its reauthorization:
+
 - **Transitional authority limits:** Interim authorities must implement the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) and must be:
   - explicitly scoped;
   - sunset-bounded;
@@ -637,6 +659,8 @@ Transitional governance exists to secure continuity and non-regression. It must 
 <br>
 
 *In plain terms: when a transition stalls or fails, there must be a real off-ramp — and a stalled state cannot quietly become the new normal. Resetting the plan is allowed, but only through lawful process, with reasons anyone can check — and never by lowering basic Rights Floors. A reset is not trustworthy if alignment certification keeps blessing misaligned systems or standing review keeps misreading real harm; fix that truth-telling machinery first, or governance is structurally unreliable no matter how polished the new plan looks.*
+
+This Article sets out failure off-ramps, re-baselining, and traceability for stalled transitions:
 
 - **Failure handling and off-ramps:** Transition plans must preserve continuity and avoid:
   - governance vacuum;
@@ -674,6 +698,8 @@ Transitional governance exists to secure continuity and non-regression. It must 
 <br>
 
 *In plain terms: non-compliant systems and property can be remediated during transition — but only through narrow, documented, reviewable processes that protect basic Rights Floors, bar pretext, and do not turn into retaliation or political targeting. How institutions carry that out — roles, triggers, custody, appeals, funds, and incentive mechanics — lives in **CI-14.1** through **CI-14.3**.*
+
+This Article sets out the floors for remediating non-compliant property and systems and for voluntary turnover incentives:
 
 - **Possession floor:** If you lawfully own or use something, transition cannot take it from you on a whim. But ownership is not a shield when letting that asset keep running clearly keeps a known, large-scale constitutional violation going — after [Chapter Nine](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) has documented the violation on the record. In that case, transition may still act to stop the harm, but only through the safeguards in this Article and **CI-14.1** through **CI-14.3**.
 - **Transition-scoped remediation:** A **documented transition plan** under **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*) may authorize accelerated remediation of **materially non-compliant** systems or property during transition only. Operative scope, permitted measures, and institutional procedure are governed by [[**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) through **CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*Transitional governance and institutional evolution*), read with **CJS-3.6** (*property-custody and incentive-separation control chain*) and **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) where applicable.
