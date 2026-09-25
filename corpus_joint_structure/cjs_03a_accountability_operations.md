@@ -1068,9 +1068,9 @@ Proportional procedural scaling
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in proportional procedural scaling.
 <a id="proportional-procedural-scaling-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** intervention procedures are documented, tested, and kept current in proportion to system criticality, and that simplified procedures do not externalize harm, block mitigation, or bar stakeholder response
+  - **Primary measure:** intervention procedures are documented, tested, and kept current in proportion to system criticality (including system class where assigned), and that simplified procedures do not externalize harm, block mitigation, or bar stakeholder response
 
-    **Primary assessment:** Reviewers must verify that intervention procedures are documented, tested, and kept current in proportion to system criticality, and that simplified procedures do not externalize harm, block mitigation, or bar stakeholder response.
+    **Primary assessment:** Reviewers must verify that intervention procedures are documented, tested, and kept current in proportion to system criticality (including system class where assigned), and that simplified procedures do not externalize harm, block mitigation, or bar stakeholder response.
 <a id="proportional-procedural-scaling-c"></a>
 - **What must hold**
   - **Primary failure:** Undocumented, untested, stale, or downscoped procedures where significant intervention risk remains.

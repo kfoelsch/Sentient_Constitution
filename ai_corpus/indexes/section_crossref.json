@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-24T16:43:42+00:00",
+  "generated_at": "2026-09-25T22:52:10+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 15194,
+  "edge_count": 15319,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -2412,6 +2412,14 @@
       "source_anchor": "#52-voluntary-discontinuation-and-exit-rights",
       "target_file": "core_06_rights_part_b.md",
       "target_anchor": "#article-v-h-expression-assembly-and-press",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "5.3 Assembly, Collective Organization, and Institutional Formation",
+      "source_anchor": "#52-voluntary-discontinuation-and-exit-rights",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-ix-e-institutional-formation-and-business-creation",
       "count": 1
     },
     {
@@ -17803,6 +17811,14 @@
       "source_header": "Definitions A-Z",
       "source_anchor": "#definitions-a-z",
       "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#cross-system-extraction",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Definitions A-Z",
+      "source_anchor": "#definitions-a-z",
+      "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency",
       "count": 1
     },
@@ -19987,6 +20003,14 @@
       "source_header": "Constitutional Aim decomposition",
       "source_anchor": "#continuity-aim-decomposition",
       "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#cross-system-extraction",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_continuity_aim.md",
+      "source_header": "Constitutional Aim decomposition",
+      "source_anchor": "#continuity-aim-decomposition",
+      "target_file": "core_05_band_continuity.md",
       "target_anchor": "#proportionate-cross-system-support-constitutional",
       "count": 1
     },
@@ -20100,6 +20124,14 @@
       "source_anchor": "#continuity-measurement-family",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_apex_continuity_aim.md",
+      "source_header": "Measuring Continuity (Preamble measurement family)",
+      "source_anchor": "#continuity-measurement-family",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#cross-system-extraction",
       "count": 1
     },
     {
@@ -31872,6 +31904,126 @@
     },
     {
       "source_file": "core_05_band_continuity.md",
+      "source_header": "Cross-System Extraction",
+      "source_anchor": "#cross-system-extraction",
+      "target_file": "core_05_apex_continuity_aim.md",
+      "target_anchor": "#continuity-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Cross-System Extraction",
+      "source_anchor": "#cross-system-extraction",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#proportionate-cross-system-support-constitutional",
+      "count": 4
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Cross-System Extraction",
+      "source_anchor": "#cross-system-extraction",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency-and-cross-system-support-semi-independent",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Cross-System Extraction",
+      "source_anchor": "#cross-system-extraction",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Cross-System Extraction",
+      "source_anchor": "#cross-system-extraction",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#shared-system-capacity-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Cross-System Extraction",
+      "source_anchor": "#cross-system-extraction",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#sustainability",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Cross-System Extraction",
+      "source_anchor": "#cross-system-extraction",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#privacy-informational",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Cross-System Extraction",
+      "source_anchor": "#cross-system-extraction",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#protected-internal-state-boundary-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Cross-System Extraction",
+      "source_anchor": "#cross-system-extraction",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#ecological-footprint",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Cross-System Extraction",
+      "source_anchor": "#cross-system-extraction",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-alignment-certification-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Cross-System Extraction",
+      "source_anchor": "#cross-system-extraction",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#substantive-fairness-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Cross-System Extraction",
+      "source_anchor": "#cross-system-extraction",
+      "target_file": "core_06_rights_part_a.md",
+      "target_anchor": "#article-iv-b-cross-system-fairness-and-sustainability",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Cross-System Extraction",
+      "source_anchor": "#cross-system-extraction",
+      "target_file": "core_06_rights_part_a.md",
+      "target_anchor": "#article-iv-a-dependency-mapping-and-resource-flow-transparency",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Cross-System Extraction",
+      "source_anchor": "#cross-system-extraction",
+      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Cross-System Extraction",
+      "source_anchor": "#cross-system-extraction",
+      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#4-data-types-and-handling-evaluation",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
       "source_header": "Dependency",
       "source_anchor": "#dependency",
       "target_file": "core_01_a_values_principles.md",
@@ -32044,6 +32196,14 @@
       "source_anchor": "#dependency-and-cross-system-support-semi-independent",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Dependency and cross-system support",
+      "source_anchor": "#dependency-and-cross-system-support-semi-independent",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#cross-system-extraction",
       "count": 1
     },
     {
@@ -34243,7 +34403,7 @@
       "source_header": "Leisure and Rest",
       "source_anchor": "#leisure-and-rest-constitutional",
       "target_file": "core_06_rights_part_a.md",
-      "target_anchor": "#article-iii-d-labor-and-economic-floor",
+      "target_anchor": "#article-iii-f-rest-and-recuperation",
       "count": 1
     },
     {
@@ -34776,7 +34936,7 @@
     },
     {
       "source_file": "core_05_band_continuity.md",
-      "source_header": "Proportionate Cross-System Contribution",
+      "source_header": "Proportionate Cross-System Support",
       "source_anchor": "#proportionate-cross-system-support-constitutional",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#2-measurements-overview",
@@ -34784,7 +34944,15 @@
     },
     {
       "source_file": "core_05_band_continuity.md",
-      "source_header": "Proportionate Cross-System Contribution",
+      "source_header": "Proportionate Cross-System Support",
+      "source_anchor": "#proportionate-cross-system-support-constitutional",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#14-market-structure",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Proportionate Cross-System Support",
       "source_anchor": "#proportionate-cross-system-support-constitutional",
       "target_file": "core_05_apex_continuity_aim.md",
       "target_anchor": "#continuity-measurement-family",
@@ -34792,7 +34960,7 @@
     },
     {
       "source_file": "core_05_band_continuity.md",
-      "source_header": "Proportionate Cross-System Contribution",
+      "source_header": "Proportionate Cross-System Support",
       "source_anchor": "#proportionate-cross-system-support-constitutional",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality",
@@ -34800,7 +34968,7 @@
     },
     {
       "source_file": "core_05_band_continuity.md",
-      "source_header": "Proportionate Cross-System Contribution",
+      "source_header": "Proportionate Cross-System Support",
       "source_anchor": "#proportionate-cross-system-support-constitutional",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#market-concentration-threshold-constitutional",
@@ -34808,7 +34976,7 @@
     },
     {
       "source_file": "core_05_band_continuity.md",
-      "source_header": "Proportionate Cross-System Contribution",
+      "source_header": "Proportionate Cross-System Support",
       "source_anchor": "#proportionate-cross-system-support-constitutional",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency-and-cross-system-support-semi-independent",
@@ -34816,7 +34984,15 @@
     },
     {
       "source_file": "core_05_band_continuity.md",
-      "source_header": "Proportionate Cross-System Contribution",
+      "source_header": "Proportionate Cross-System Support",
+      "source_anchor": "#proportionate-cross-system-support-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#cross-system-extraction",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Proportionate Cross-System Support",
       "source_anchor": "#proportionate-cross-system-support-constitutional",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency",
@@ -34824,7 +35000,7 @@
     },
     {
       "source_file": "core_05_band_continuity.md",
-      "source_header": "Proportionate Cross-System Contribution",
+      "source_header": "Proportionate Cross-System Support",
       "source_anchor": "#proportionate-cross-system-support-constitutional",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#ecological-footprint",
@@ -34832,7 +35008,7 @@
     },
     {
       "source_file": "core_05_band_continuity.md",
-      "source_header": "Proportionate Cross-System Contribution",
+      "source_header": "Proportionate Cross-System Support",
       "source_anchor": "#proportionate-cross-system-support-constitutional",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#sustainability",
@@ -34840,7 +35016,7 @@
     },
     {
       "source_file": "core_05_band_continuity.md",
-      "source_header": "Proportionate Cross-System Contribution",
+      "source_header": "Proportionate Cross-System Support",
       "source_anchor": "#proportionate-cross-system-support-constitutional",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#shared-system-capacity-constitutional",
@@ -34848,7 +35024,7 @@
     },
     {
       "source_file": "core_05_band_continuity.md",
-      "source_header": "Proportionate Cross-System Contribution",
+      "source_header": "Proportionate Cross-System Support",
       "source_anchor": "#proportionate-cross-system-support-constitutional",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-alignment-certification-constitutional",
@@ -34856,7 +35032,7 @@
     },
     {
       "source_file": "core_05_band_continuity.md",
-      "source_header": "Proportionate Cross-System Contribution",
+      "source_header": "Proportionate Cross-System Support",
       "source_anchor": "#proportionate-cross-system-support-constitutional",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#substantive-fairness-constitutional",
@@ -34864,7 +35040,7 @@
     },
     {
       "source_file": "core_05_band_continuity.md",
-      "source_header": "Proportionate Cross-System Contribution",
+      "source_header": "Proportionate Cross-System Support",
       "source_anchor": "#proportionate-cross-system-support-constitutional",
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": "#article-iv-b-cross-system-fairness-and-sustainability",
@@ -34872,15 +35048,7 @@
     },
     {
       "source_file": "core_05_band_continuity.md",
-      "source_header": "Proportionate Cross-System Contribution",
-      "source_anchor": "#proportionate-cross-system-support-constitutional",
-      "target_file": "core_06_rights_part_a.md",
-      "target_anchor": "#operative-steward-statement-cross-system-contribution",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_band_continuity.md",
-      "source_header": "Proportionate Cross-System Contribution",
+      "source_header": "Proportionate Cross-System Support",
       "source_anchor": "#proportionate-cross-system-support-constitutional",
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": "#article-iv-a-dependency-mapping-and-resource-flow-transparency",
@@ -34888,7 +35056,15 @@
     },
     {
       "source_file": "core_05_band_continuity.md",
-      "source_header": "Proportionate Cross-System Contribution",
+      "source_header": "Proportionate Cross-System Support",
+      "source_anchor": "#proportionate-cross-system-support-constitutional",
+      "target_file": "core_06_rights_part_a.md",
+      "target_anchor": "#article-iii-a-survival",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Proportionate Cross-System Support",
       "source_anchor": "#proportionate-cross-system-support-constitutional",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#chapter-eight-system-alignment-certification",
@@ -34896,15 +35072,23 @@
     },
     {
       "source_file": "core_05_band_continuity.md",
-      "source_header": "Proportionate Cross-System Contribution",
+      "source_header": "Proportionate Cross-System Support",
       "source_anchor": "#proportionate-cross-system-support-constitutional",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#6-proportionate-cross-system-contribution-evaluation",
+      "target_anchor": "#6-proportionate-cross-system-support-evaluation",
       "count": 1
     },
     {
       "source_file": "core_05_band_continuity.md",
-      "source_header": "Proportionate Cross-System Contribution",
+      "source_header": "Proportionate Cross-System Support",
+      "source_anchor": "#proportionate-cross-system-support-constitutional",
+      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#2-system-class-evaluation",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Proportionate Cross-System Support",
       "source_anchor": "#proportionate-cross-system-support-constitutional",
       "target_file": "corpus_systems.md",
       "target_anchor": null,
@@ -35627,7 +35811,7 @@
       "source_header": "Safe Conditions",
       "source_anchor": "#safe-conditions-constitutional",
       "target_file": "core_06_rights_part_a.md",
-      "target_anchor": "#article-iii-d-labor-and-economic-floor",
+      "target_anchor": "#article-iii-e-safe-working-conditions",
       "count": 1
     },
     {
@@ -37659,7 +37843,7 @@
       "source_header": "System Certification Record",
       "source_anchor": "#system-certification-record-constitutional",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#6-proportionate-cross-system-contribution-evaluation",
+      "target_anchor": "#6-proportionate-cross-system-support-evaluation",
       "count": 1
     },
     {
@@ -45082,8 +45266,8 @@
       "source_file": "core_05_band_participation.md",
       "source_header": "Business Creation",
       "source_anchor": "#business-creation-constitutional",
-      "target_file": "core_06_rights_part_a.md",
-      "target_anchor": "#article-iii-d-labor-and-economic-floor",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-ix-e-institutional-formation-and-business-creation",
       "count": 1
     },
     {
@@ -50187,6 +50371,14 @@
       "source_header": "System Creation",
       "source_anchor": "#system-creation-constitutional",
       "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-ix-e-institutional-formation-and-business-creation",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "System Creation",
+      "source_anchor": "#system-creation-constitutional",
+      "target_file": "core_06_rights_part_b.md",
       "target_anchor": "#article-ix-b-stakeholder-role-and-participation-rights",
       "count": 1
     },
@@ -52835,8 +53027,32 @@
       "source_header": "Article III-A: Survival",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#system-alignment-certification-constitutional",
+      "target_anchor": "#occupancy-continuity-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-A: Survival",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#essential-environment-non-commodification-constitutional",
       "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-A: Survival",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-A: Survival",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-alignment-certification-constitutional",
+      "count": 1
     },
     {
       "source_file": "core_06_rights_part_a.md",
@@ -52891,31 +53107,7 @@
       "source_header": "Article III-A: Survival",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#essential-environment-non-commodification-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article III-A: Survival",
-      "source_anchor": null,
-      "target_file": "core_05_band_continuity.md",
       "target_anchor": "#safety-constraint",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article III-A: Survival",
-      "source_anchor": null,
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#occupancy-continuity-constitutional",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article III-A: Survival",
-      "source_anchor": null,
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster",
       "count": 1
     },
     {
@@ -52978,24 +53170,16 @@
       "source_file": "core_06_rights_part_a.md",
       "source_header": "Article III-A: Survival",
       "source_anchor": null,
-      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#chapter-eight-system-alignment-certification",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article III-A: Survival",
-      "source_anchor": null,
-      "target_file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
-      "target_anchor": null,
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxvi-d-non-compliant-property-and-systems-voluntary-turnover-incentives",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_a.md",
       "source_header": "Article III-A: Survival",
       "source_anchor": null,
-      "target_file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
-      "target_anchor": null,
+      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#chapter-eight-system-alignment-certification",
       "count": 1
     },
     {
@@ -53004,6 +53188,14 @@
       "source_anchor": null,
       "target_file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
       "target_anchor": "#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-A: Survival",
+      "source_anchor": null,
+      "target_file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
+      "target_anchor": "#ci-143-article-xxvi-d-operative-transition-scoped-remediation-requirements",
       "count": 1
     },
     {
@@ -53028,6 +53220,14 @@
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#5-freedom-bounded-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-B: Equal Educational Access",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#91-distributed-understanding",
       "count": 1
     },
     {
@@ -53108,7 +53308,7 @@
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#accessibility-constitutional",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_a.md",
@@ -53132,7 +53332,7 @@
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#substantive-fairness-constitutional",
-      "count": 2
+      "count": 3
     },
     {
       "source_file": "core_06_rights_part_a.md",
@@ -53172,6 +53372,22 @@
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#educational-agency-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-B: Equal Educational Access",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-vi-right-to-sentient-centered-education",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-B: Equal Educational Access",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-ix-b-stakeholder-role-and-participation-rights",
       "count": 1
     },
     {
@@ -53284,7 +53500,7 @@
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#substantive-fairness-constitutional",
-      "count": 2
+      "count": 3
     },
     {
       "source_file": "core_06_rights_part_a.md",
@@ -53332,7 +53548,7 @@
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#sentience-non-exclusion",
-      "count": 3
+      "count": 4
     },
     {
       "source_file": "core_06_rights_part_a.md",
@@ -53341,6 +53557,38 @@
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#sentience-non-exclusion-a",
       "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-C: Bodily-Maintenance and Healthcare Access",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-vii-c-mental-health-crisis-and-involuntary-intervention-floor",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-C: Bodily-Maintenance and Healthcare Access",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-vii-a-self-ownership-of-body-and-mind",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-C: Bodily-Maintenance and Healthcare Access",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-vii-b-internal-state-boundary-and-type-n-protection",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-C: Bodily-Maintenance and Healthcare Access",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality",
+      "count": 1
     },
     {
       "source_file": "core_06_rights_part_a.md",
@@ -53436,7 +53684,7 @@
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#fair-compensation-constitutional",
-      "count": 4
+      "count": 5
     },
     {
       "source_file": "core_06_rights_part_a.md",
@@ -53452,30 +53700,6 @@
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#fair-compensation-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article III-D: Labor and Economic Floor",
-      "source_anchor": null,
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#safe-conditions-constitutional",
-      "count": 4
-    },
-    {
-      "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article III-D: Labor and Economic Floor",
-      "source_anchor": null,
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#safe-conditions-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article III-D: Labor and Economic Floor",
-      "source_anchor": null,
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#safe-conditions-constitutional-c",
       "count": 1
     },
     {
@@ -53500,30 +53724,6 @@
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#anti-displacement-floor-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article III-D: Labor and Economic Floor",
-      "source_anchor": null,
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#leisure-and-rest-constitutional",
-      "count": 3
-    },
-    {
-      "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article III-D: Labor and Economic Floor",
-      "source_anchor": null,
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#leisure-and-rest-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article III-D: Labor and Economic Floor",
-      "source_anchor": null,
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#leisure-and-rest-constitutional-c",
       "count": 1
     },
     {
@@ -53578,14 +53778,6 @@
       "source_file": "core_06_rights_part_a.md",
       "source_header": "Article III-D: Labor and Economic Floor",
       "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#adversarial-scaled-and-exploited-conditions",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article III-D: Labor and Economic Floor",
-      "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#assembly-collective-organization-institutional-formation-cluster",
       "count": 1
@@ -53612,30 +53804,6 @@
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#collective-organization-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article III-D: Labor and Economic Floor",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#business-creation-constitutional",
-      "count": 3
-    },
-    {
-      "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article III-D: Labor and Economic Floor",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#business-creation-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article III-D: Labor and Economic Floor",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#business-creation-constitutional-c",
       "count": 1
     },
     {
@@ -53708,7 +53876,7 @@
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#substantive-fairness-constitutional",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_a.md",
@@ -53716,6 +53884,14 @@
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#meaningful-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-D: Labor and Economic Floor",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-ix-e-institutional-formation-and-business-creation",
       "count": 2
     },
     {
@@ -53724,6 +53900,294 @@
       "source_anchor": null,
       "target_file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
       "target_anchor": "#cjs-3112-anti-domination-conduct-and-remediation-catalog",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-E: Safe Working Conditions",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#2-foundational-objective-wellbeing",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-E: Safe Working Conditions",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#31-safety-harm-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-E: Safe Working Conditions",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#51-limitation-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-E: Safe Working Conditions",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-E: Safe Working Conditions",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-E: Safe Working Conditions",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-E: Safe Working Conditions",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-E: Safe Working Conditions",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-E: Safe Working Conditions",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-E: Safe Working Conditions",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#safety-constraint",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-E: Safe Working Conditions",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-E: Safe Working Conditions",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#safe-conditions-constitutional",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-E: Safe Working Conditions",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#safe-conditions-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-E: Safe Working Conditions",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#safe-conditions-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-E: Safe Working Conditions",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#adversarial-scaled-and-exploited-conditions",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-E: Safe Working Conditions",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#adversarial-scaled-and-exploited-conditions-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-E: Safe Working Conditions",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#adversarial-scaled-and-exploited-conditions-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-E: Safe Working Conditions",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#sentience-non-exclusion",
+      "count": 4
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-E: Safe Working Conditions",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#sentience-non-exclusion-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-E: Safe Working Conditions",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#substantive-fairness-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-F: Rest and Recuperation",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#2-foundational-objective-wellbeing",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-F: Rest and Recuperation",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#5-freedom-bounded-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-F: Rest and Recuperation",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#51-limitation-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-F: Rest and Recuperation",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-F: Rest and Recuperation",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#leisure-and-rest-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-F: Rest and Recuperation",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#leisure-and-rest-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-F: Rest and Recuperation",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#leisure-and-rest-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-F: Rest and Recuperation",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#wellbeing",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-F: Rest and Recuperation",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#wellbeing-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-F: Rest and Recuperation",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#wellbeing-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-F: Rest and Recuperation",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#meaningful-agency",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-F: Rest and Recuperation",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#meaningful-agency-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-F: Rest and Recuperation",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#meaningful-agency-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-F: Rest and Recuperation",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#sentience-non-exclusion",
+      "count": 4
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-F: Rest and Recuperation",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#sentience-non-exclusion-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III-F: Rest and Recuperation",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#substantive-fairness-constitutional",
       "count": 1
     },
     {
@@ -53770,6 +54234,46 @@
       "source_file": "core_06_rights_part_a.md",
       "source_header": "Article III: Survival and Equal Educational Access",
       "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#21-fairness",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III: Survival and Equal Educational Access",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#211-access-and-opportunity",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III: Survival and Equal Educational Access",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#213-fair-treatment",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III: Survival and Equal Educational Access",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III: Survival and Equal Educational Access",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#51-limitation-discipline",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III: Survival and Equal Educational Access",
+      "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#6-process-conflict-resolution",
       "count": 1
@@ -53780,6 +54284,86 @@
       "source_anchor": null,
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#9-stewardship-in-depth",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III: Survival and Equal Educational Access",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III: Survival and Equal Educational Access",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III: Survival and Equal Educational Access",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-alignment-certification-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III: Survival and Equal Educational Access",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#protected-characteristics-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III: Survival and Equal Educational Access",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#protected-characteristic-proxying-and-disparate-impact",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III: Survival and Equal Educational Access",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#accessibility-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III: Survival and Equal Educational Access",
+      "source_anchor": null,
+      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#chapter-eight-system-alignment-certification",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III: Survival and Equal Educational Access",
+      "source_anchor": null,
+      "target_file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III: Survival and Equal Educational Access",
+      "source_anchor": null,
+      "target_file": "corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article III: Survival and Equal Educational Access",
+      "source_anchor": null,
+      "target_file": "corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md",
+      "target_anchor": null,
       "count": 1
     },
     {
@@ -53938,6 +54522,38 @@
       "source_file": "core_06_rights_part_a.md",
       "source_header": "Article IV-A: Dependency Mapping and Resource-Flow Transparency",
       "source_anchor": null,
+      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#2-system-class-evaluation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article IV-A: Dependency Mapping and Resource-Flow Transparency",
+      "source_anchor": null,
+      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article IV-A: Dependency Mapping and Resource-Flow Transparency",
+      "source_anchor": null,
+      "target_file": "core_08_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article IV-A: Dependency Mapping and Resource-Flow Transparency",
+      "source_anchor": null,
+      "target_file": "core_08_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#12-transparency-auditability-and-contestability",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article IV-A: Dependency Mapping and Resource-Flow Transparency",
+      "source_anchor": null,
       "target_file": "corpus_systems.md",
       "target_anchor": null,
       "count": 1
@@ -53995,6 +54611,14 @@
       "source_header": "Article IV-B: Cross-System Fairness and Sustainability",
       "source_anchor": null,
       "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#14-market-structure",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article IV-B: Cross-System Fairness and Sustainability",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#141-market-concentration-threshold-mechanism-adopter-tunable",
       "count": 1
     },
@@ -54034,17 +54658,9 @@
       "source_file": "core_06_rights_part_a.md",
       "source_header": "Article IV-B: Cross-System Fairness and Sustainability",
       "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#proportionality",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article IV-B: Cross-System Fairness and Sustainability",
-      "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-alignment-certification-constitutional",
-      "count": 2
+      "count": 3
     },
     {
       "source_file": "core_06_rights_part_a.md",
@@ -54075,8 +54691,32 @@
       "source_header": "Article IV-B: Cross-System Fairness and Sustainability",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#cross-system-extraction",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article IV-B: Cross-System Fairness and Sustainability",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#cross-system-extraction-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article IV-B: Cross-System Fairness and Sustainability",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#cross-system-extraction-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article IV-B: Cross-System Fairness and Sustainability",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
       "target_anchor": "#proportionate-cross-system-support-constitutional",
-      "count": 5
+      "count": 3
     },
     {
       "source_file": "core_06_rights_part_a.md",
@@ -54100,7 +54740,7 @@
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#ecological-footprint",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_a.md",
@@ -54148,7 +54788,7 @@
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#substantive-fairness-constitutional",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_a.md",
@@ -54178,6 +54818,14 @@
       "source_file": "core_06_rights_part_a.md",
       "source_header": "Article IV-B: Cross-System Fairness and Sustainability",
       "source_anchor": null,
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xii-b-right-to-challenge-review-and-redress",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article IV-B: Cross-System Fairness and Sustainability",
+      "source_anchor": null,
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#3-whole-system-certification-evaluation",
       "count": 1
@@ -54187,8 +54835,40 @@
       "source_header": "Article IV-B: Cross-System Fairness and Sustainability",
       "source_anchor": null,
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "count": 4
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article IV-B: Cross-System Fairness and Sustainability",
+      "source_anchor": null,
+      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#chapter-eight-system-alignment-certification",
-      "count": 2
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article IV-B: Cross-System Fairness and Sustainability",
+      "source_anchor": null,
+      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#2-system-class-evaluation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article IV-B: Cross-System Fairness and Sustainability",
+      "source_anchor": null,
+      "target_file": "core_08_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#12-transparency-auditability-and-contestability",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article IV-B: Cross-System Fairness and Sustainability",
+      "source_anchor": null,
+      "target_file": "core_08_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
+      "count": 1
     },
     {
       "source_file": "core_06_rights_part_a.md",
@@ -54292,6 +54972,38 @@
       "source_anchor": null,
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#chapter-eight-system-alignment-certification",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article IV: Resource Allocation, Dependencies, and Ecosystem Funding",
+      "source_anchor": null,
+      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#2-system-class-evaluation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article IV: Resource Allocation, Dependencies, and Ecosystem Funding",
+      "source_anchor": null,
+      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article IV: Resource Allocation, Dependencies, and Ecosystem Funding",
+      "source_anchor": null,
+      "target_file": "core_08_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#113-rights-floor-record-evaluation-non-substitution",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article IV: Resource Allocation, Dependencies, and Ecosystem Funding",
+      "source_anchor": null,
+      "target_file": "core_08_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 1
     },
     {
@@ -54732,7 +55444,7 @@
       "source_anchor": null,
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#constitutional-constraint",
-      "count": 3
+      "count": 1
     },
     {
       "source_file": "core_06_rights_part_b.md",
@@ -54780,54 +55492,6 @@
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#stakeholder-weight-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article IX-B: Stakeholder Role and Participation Rights",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#system-creation-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article IX-B: Stakeholder Role and Participation Rights",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#system-creation-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article IX-B: Stakeholder Role and Participation Rights",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#system-creation-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article IX-B: Stakeholder Role and Participation Rights",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#business-creation-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article IX-B: Stakeholder Role and Participation Rights",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#business-creation-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article IX-B: Stakeholder Role and Participation Rights",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#business-creation-constitutional-c",
       "count": 1
     },
     {
@@ -55101,6 +55765,214 @@
       "target_file": "corpus_systems.md",
       "target_anchor": null,
       "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-E: Institutional Formation and Business Creation",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#5-freedom-bounded-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-E: Institutional Formation and Business Creation",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#51-limitation-discipline",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-E: Institutional Formation and Business Creation",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#53-assembly-collective-organization-and-institutional-formation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-E: Institutional Formation and Business Creation",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#92-institutional-development",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-E: Institutional Formation and Business Creation",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#14-market-structure",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-E: Institutional Formation and Business Creation",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-E: Institutional Formation and Business Creation",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-E: Institutional Formation and Business Creation",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-E: Institutional Formation and Business Creation",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-E: Institutional Formation and Business Creation",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-E: Institutional Formation and Business Creation",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-E: Institutional Formation and Business Creation",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#charter",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-E: Institutional Formation and Business Creation",
+      "source_anchor": null,
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#constitutional-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-E: Institutional Formation and Business Creation",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#assembly-collective-organization-institutional-formation-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-E: Institutional Formation and Business Creation",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#creation-rights-limits",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-E: Institutional Formation and Business Creation",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#system-creation-constitutional",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-E: Institutional Formation and Business Creation",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#system-creation-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-E: Institutional Formation and Business Creation",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#system-creation-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-E: Institutional Formation and Business Creation",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#business-creation-constitutional",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-E: Institutional Formation and Business Creation",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#business-creation-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-E: Institutional Formation and Business Creation",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#business-creation-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-E: Institutional Formation and Business Creation",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#sentience-non-exclusion",
+      "count": 4
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-E: Institutional Formation and Business Creation",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#sentience-non-exclusion-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-E: Institutional Formation and Business Creation",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#collective-organization-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-E: Institutional Formation and Business Creation",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_a.md",
+      "target_anchor": "#article-iii-d-labor-and-economic-floor",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-E: Institutional Formation and Business Creation",
+      "source_anchor": null,
+      "target_file": "corpus_institutions.md",
+      "target_anchor": null,
+      "count": 1
     },
     {
       "source_file": "core_06_rights_part_b.md",
@@ -57196,7 +58068,7 @@
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#51-limitation-discipline",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_b.md",
@@ -57348,6 +58220,30 @@
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#reproductive-autonomy-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article VII-A: Self-Ownership of Body and Mind",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article VII-A: Self-Ownership of Body and Mind",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_a.md",
+      "target_anchor": "#article-iii-survival-and-equal-educational-access",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article VII-A: Self-Ownership of Body and Mind",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality",
       "count": 1
     },
     {
@@ -72720,104 +73616,128 @@
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "6. Proportionate Cross-System Contribution Evaluation",
-      "source_anchor": "#6-proportionate-cross-system-contribution-evaluation",
+      "source_header": "6. Proportionate Cross-System Support Evaluation",
+      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#material-stake",
       "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "6. Proportionate Cross-System Contribution Evaluation",
-      "source_anchor": "#6-proportionate-cross-system-contribution-evaluation",
+      "source_header": "6. Proportionate Cross-System Support Evaluation",
+      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#14-market-structure",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "6. Proportionate Cross-System Support Evaluation",
+      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality",
       "count": 2
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "6. Proportionate Cross-System Contribution Evaluation",
-      "source_anchor": "#6-proportionate-cross-system-contribution-evaluation",
+      "source_header": "6. Proportionate Cross-System Support Evaluation",
+      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#governance-architecture-oversight-decentralization-and-concentration-cluster",
       "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "6. Proportionate Cross-System Contribution Evaluation",
-      "source_anchor": "#6-proportionate-cross-system-contribution-evaluation",
+      "source_header": "6. Proportionate Cross-System Support Evaluation",
+      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
       "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#proportionate-cross-system-support-constitutional",
-      "count": 5
+      "target_anchor": "#cross-system-extraction",
+      "count": 2
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "6. Proportionate Cross-System Contribution Evaluation",
-      "source_anchor": "#6-proportionate-cross-system-contribution-evaluation",
+      "source_header": "6. Proportionate Cross-System Support Evaluation",
+      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#proportionate-cross-system-support-constitutional",
+      "count": 6
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "6. Proportionate Cross-System Support Evaluation",
+      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency",
       "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "6. Proportionate Cross-System Contribution Evaluation",
-      "source_anchor": "#6-proportionate-cross-system-contribution-evaluation",
+      "source_header": "6. Proportionate Cross-System Support Evaluation",
+      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#ecological-footprint",
       "count": 2
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "6. Proportionate Cross-System Contribution Evaluation",
-      "source_anchor": "#6-proportionate-cross-system-contribution-evaluation",
+      "source_header": "6. Proportionate Cross-System Support Evaluation",
+      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#sustainability",
       "count": 2
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "6. Proportionate Cross-System Contribution Evaluation",
-      "source_anchor": "#6-proportionate-cross-system-contribution-evaluation",
+      "source_header": "6. Proportionate Cross-System Support Evaluation",
+      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#substantive-fairness-constitutional",
       "count": 2
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "6. Proportionate Cross-System Contribution Evaluation",
-      "source_anchor": "#6-proportionate-cross-system-contribution-evaluation",
+      "source_header": "6. Proportionate Cross-System Support Evaluation",
+      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
+      "target_file": "core_06_rights_part_a.md",
+      "target_anchor": "#article-iv-b-cross-system-fairness-and-sustainability",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "6. Proportionate Cross-System Support Evaluation",
+      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#11-system-certification-record",
       "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "6. Proportionate Cross-System Contribution Evaluation",
-      "source_anchor": "#6-proportionate-cross-system-contribution-evaluation",
+      "source_header": "6. Proportionate Cross-System Support Evaluation",
+      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#12-transparency-auditability-and-contestability",
       "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "6. Proportionate Cross-System Contribution Evaluation",
-      "source_anchor": "#6-proportionate-cross-system-contribution-evaluation",
+      "source_header": "6. Proportionate Cross-System Support Evaluation",
+      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#15-relationship-to-standing",
       "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "6. Proportionate Cross-System Contribution Evaluation",
-      "source_anchor": "#6-proportionate-cross-system-contribution-evaluation",
+      "source_header": "6. Proportionate Cross-System Support Evaluation",
+      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#16-reopening-misalignment-and-non-evasion",
-      "count": 2
+      "count": 3
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "6. Proportionate Cross-System Contribution Evaluation",
-      "source_anchor": "#6-proportionate-cross-system-contribution-evaluation",
+      "source_header": "6. Proportionate Cross-System Support Evaluation",
+      "source_anchor": "#6-proportionate-cross-system-support-evaluation",
       "target_file": "corpus_systems.md",
       "target_anchor": null,
       "count": 2
@@ -73811,7 +74731,7 @@
       "source_header": "11.1 Minimum record contents",
       "source_anchor": "#111-minimum-record-contents",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#6-proportionate-cross-system-contribution-evaluation",
+      "target_anchor": "#6-proportionate-cross-system-support-evaluation",
       "count": 1
     },
     {
@@ -73931,7 +74851,7 @@
       "source_header": "11.2 Cross-section record requirements",
       "source_anchor": "#112-cross-section-record-requirements",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#6-proportionate-cross-system-contribution-evaluation",
+      "target_anchor": "#6-proportionate-cross-system-support-evaluation",
       "count": 1
     },
     {
@@ -73971,7 +74891,7 @@
       "source_header": "11.3 Rights-Floor record evaluation (non-substitution)",
       "source_anchor": "#113-rights-floor-record-evaluation-non-substitution",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#6-proportionate-cross-system-contribution-evaluation",
+      "target_anchor": "#6-proportionate-cross-system-support-evaluation",
       "count": 1
     },
     {
@@ -74195,7 +75115,7 @@
       "source_header": "12. Transparency, Auditability, and Contestability",
       "source_anchor": "#12-transparency-auditability-and-contestability",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#6-proportionate-cross-system-contribution-evaluation",
+      "target_anchor": "#6-proportionate-cross-system-support-evaluation",
       "count": 1
     },
     {
@@ -74371,7 +75291,7 @@
       "source_header": "13. Forum Supervision and Component Roles",
       "source_anchor": "#13-forum-supervision-and-component-roles",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#6-proportionate-cross-system-contribution-evaluation",
+      "target_anchor": "#6-proportionate-cross-system-support-evaluation",
       "count": 1
     },
     {
@@ -74659,7 +75579,7 @@
       "source_header": "15. Relationship to Standing",
       "source_anchor": "#15-relationship-to-standing",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#6-proportionate-cross-system-contribution-evaluation",
+      "target_anchor": "#6-proportionate-cross-system-support-evaluation",
       "count": 1
     },
     {
@@ -74795,7 +75715,7 @@
       "source_header": "16. Reopening, Misalignment, and Non-Evasion",
       "source_anchor": "#16-reopening-misalignment-and-non-evasion",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#6-proportionate-cross-system-contribution-evaluation",
+      "target_anchor": "#6-proportionate-cross-system-support-evaluation",
       "count": 2
     },
     {
@@ -120360,6 +121280,14 @@
     },
     {
       "source_file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
+      "source_header": "CS-8.4 Ecosystem interdependence",
+      "source_anchor": "#cs-8-4-ecosystem-interdependence",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#cross-system-extraction",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
       "source_header": "CS-8.8 Governance integration",
       "source_anchor": "#cs-8-8-governance-integration",
       "target_file": "core_05_band_integrative.md",
@@ -120452,6 +121380,30 @@
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency-c",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
+      "source_header": "CS-8: Adaptive sustainability and ecosystem resilience",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#cross-system-extraction",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
+      "source_header": "CS-8: Adaptive sustainability and ecosystem resilience",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#cross-system-extraction-a",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
+      "source_header": "CS-8: Adaptive sustainability and ecosystem resilience",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#cross-system-extraction-c",
       "count": 1
     },
     {
@@ -120602,6 +121554,14 @@
       "source_file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "source_header": "CS-9.14 Non-substrate systems",
       "source_anchor": "#cs-9-14-non-substrate-systems",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#cross-system-extraction",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
+      "source_header": "CS-9.14 Non-substrate systems",
+      "source_anchor": "#cs-9-14-non-substrate-systems",
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#constitutional-constraint",
       "count": 1
@@ -120628,6 +121588,14 @@
       "source_anchor": "#cs-9-19-steward-operator-and-governance-remuneration-incentive-governance",
       "target_file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
       "target_anchor": "#cjs-0-registry-and-reading-rules",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
+      "source_header": "CS-9.2 Principles of funding",
+      "source_anchor": "#cs-9-2-principles-of-funding",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#cross-system-extraction",
       "count": 1
     },
     {
@@ -120660,6 +121628,14 @@
       "source_anchor": "#cs-9-21-observability-of-alignment",
       "target_file": "corpus_systems/cs_10_transition_constitution_migration_governance.md",
       "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
+      "source_header": "CS-9.3 Cross-system resource flows and dependencies",
+      "source_anchor": "#cs-9-3-cross-system-resource-flows-and-dependencies",
+      "target_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+      "target_anchor": "#cs-3-2-classification-dimensions-and-real-world-application",
       "count": 1
     },
     {
@@ -120740,6 +121716,30 @@
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency-c",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
+      "source_header": "CS-9: Resource allocation and funding stewardship",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#cross-system-extraction",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
+      "source_header": "CS-9: Resource allocation and funding stewardship",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#cross-system-extraction-a",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
+      "source_header": "CS-9: Resource allocation and funding stewardship",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#cross-system-extraction-c",
       "count": 1
     },
     {

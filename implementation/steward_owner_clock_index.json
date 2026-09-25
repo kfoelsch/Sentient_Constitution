@@ -568,9 +568,9 @@
       }
     },
     {
-      "id": "cross_system_contribution",
-      "card_anchor": "cross-system-contribution",
-      "card_title": "Cross-system contribution",
+      "id": "cross_system_support",
+      "card_anchor": "cross-system-support",
+      "card_title": "Cross-system support",
       "owner_stack": "resource_allocation",
       "next_step_class": "compare_mapped_flows_against_adequacy_failures",
       "high_pressure": true,
@@ -581,7 +581,7 @@
           "href": "core_06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability"
         },
         {
-          "label": "Proportionate Cross-System Contribution",
+          "label": "Proportionate Cross-System Support",
           "href": "core_05_band_continuity.md#proportionate-cross-system-support-constitutional"
         },
         {
@@ -593,14 +593,14 @@
           "href": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md#cs-9-7-required-allocation-categories"
         }
       ],
-      "conflict_rule": "Corresponding support is mapped, auditable resource flows. A formula is not required. A press release is not enough.",
-      "forbidden_move": "Do not treat a press release, a one-time grant, or survival-floor compliance as corresponding support.",
+      "conflict_rule": "Proportionate Cross-System Support is mapped, auditable resource flows. A formula is not required. A press release is not enough.",
+      "forbidden_move": "Do not treat a press release, a one-time grant, an opaque transfer, an off-map transfer, or the fact that a system meets the survival floor or stays within market-concentration limits as Proportionate Cross-System Support.",
       "clock": null,
-      "clock_note": "Compare mapped inflows and outflows now. Do not wait for a later formula.",
+      "clock_note": "Compare inflows and outflows on dependent-systems maps and auditable resource-flow records under Article IV-A as they stand now. Do not wait for a later allocation formula.",
       "eval_scenario_ids": [],
       "operative_box": {
-        "label": "Operative steward statement — Cross-system contribution",
-        "href": "core_06_rights_part_a.md#operative-steward-statement-cross-system-contribution"
+        "label": "Article IV-B — Cross-System Fairness and Sustainability (operative text; no separate box)",
+        "href": "core_06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability"
       }
     },
     {

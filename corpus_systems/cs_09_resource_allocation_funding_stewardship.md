@@ -25,6 +25,7 @@
 
 - [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
 - [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
+- [Cross-System Extraction](../core_05_band_continuity.md#cross-system-extraction) · [O](../core_05_band_continuity.md#cross-system-extraction) · [M](../core_05_band_continuity.md#cross-system-extraction-a) · [A](../core_05_band_continuity.md#cross-system-extraction-a) · [C](../core_05_band_continuity.md#cross-system-extraction-c)
 - [Sustainability](../core_05_band_continuity.md#sustainability) · [O](../core_05_band_continuity.md#sustainability) · [M](../core_05_band_continuity.md#sustainability-a) · [A](../core_05_band_continuity.md#sustainability-a) · [C](../core_05_band_continuity.md#sustainability-c)
 - [System Capture](../core_05_band_continuity.md#system-capture) · [O](../core_05_band_continuity.md#system-capture) · [M](../core_05_band_continuity.md#system-capture-a) · [A](../core_05_band_continuity.md#system-capture-a) · [C](../core_05_band_continuity.md#system-capture-c)
 - [Auditability](../core_05_band_oversight.md#auditability) · [O](../core_05_band_oversight.md#auditability) · [M](../core_05_band_oversight.md#auditability-a) · [A](../core_05_band_oversight.md#auditability-a) · [C](../core_05_band_oversight.md#auditability-c)
@@ -43,13 +44,13 @@ This file is the systems implementation home for **CS-9** (*Resource allocation 
 
 *In plain terms: what this file covers, which articles it implements, and where the boundary with CS-8 and Chapter Five falls.*
 
-Constitutional tracing: This file specifies implementation-file-level funding stewardship, dependent-systems mapping, and cross-system resource-flow obligations implementing Sentient Constitution Chapter Six, **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article IV-B** (*Cross-System Fairness and Sustainability*). It implements **Chapter Five** [*Proportionate Cross-System Contribution*](../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) through allocation categories, reauthorization, and funding-stewardship mechanics; it does not restate that definition.
+Constitutional tracing: This file specifies implementation-file-level funding stewardship, dependent-systems mapping, and cross-system resource-flow obligations implementing Sentient Constitution Chapter Six, **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article IV-B** (*Cross-System Fairness and Sustainability*). It implements **Chapter Five** [*Proportionate Cross-System Support*](../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) through allocation categories, reauthorization, and funding-stewardship mechanics; it does not restate that definition.
 
 **CS-8** governs adaptive adjustment of allocation in response to degradation and systemic risk. This file does not replace or narrow Sentient Constitution Chapters Two through Five. Where this file is silent, Sentient Constitution Chapters Two through Five govern.
 
 **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article IV-B** (*Cross-System Fairness and Sustainability*), together with **Articles I–III and V**, state the core obligations for transparent, ecosystem-aware resource flows, cross-system fairness, and substrate wellbeing.
 
-**What Articles I-B, IV-A, and IV-B require here — and what they do not.** Those articles require honest disclosure and comparison of footprints, dependencies, and resource flows. They do not, on their own, force footprint cuts, lock in a funding formula, or require equal splits, fixed percentages, or one funding model. Under **Article IV-B**, what a system puts back must be traceable — and it covers both keeping shared systems running (**cross-system system support**) and repairing ecological harm (**ecological support**). Both are judged under Chapter Five [*Proportionate Cross-System Contribution*](../core_05_band_continuity.md#proportionate-cross-system-support-constitutional). This file supplies allocation categories, reauthorization, and funding-stewardship mechanics that implement that floor; it must not narrow it.
+**What Articles I-B, IV-A, and IV-B require here — and what they do not.** Those articles require honest disclosure and comparison of footprints, dependencies, and resource flows. They do not, on their own, force footprint cuts, lock in a funding formula, or require equal splits, fixed percentages, or one funding model. Under **Article IV-B**, what a system puts back must be traceable — and it covers both keeping shared systems running (**cross-system system support**) and repairing ecological harm (**ecological support**). Both are judged under Chapter Five [*Proportionate Cross-System Support*](../core_05_band_continuity.md#proportionate-cross-system-support-constitutional). This file supplies allocation categories, reauthorization, and funding-stewardship mechanics that implement that floor; it must not narrow it.
 
 **CS-8** governs how allocation adapts when conditions change. This file specifies **funding stewardship mechanics**—dependent systems maps, flow transparency, allocation categories, reauthorization, and triggers. It is **not** a second copy of Chapter Five.
 
@@ -64,7 +65,7 @@ Allocation reflects fairness, contribution, need, and sustainability (not equal 
 
 Mechanisms must:
 - implement **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*), **Article IV-B** (*Cross-System Fairness and Sustainability*), and foundational requirements;
-- deliver **Proportionate Cross-System Contribution** where dependent systems materially extract from shared infrastructure or foundational dependencies;
+- deliver **Proportionate Cross-System Support** where dependent systems engage in material [Cross-System Extraction](../core_05_band_continuity.md#cross-system-extraction) from shared infrastructure or foundational dependencies;
 - support long-term sustainability and improvement;
 - resist concentration of wealth or influence that undermines constitutional alignment;
 - remain transparent, auditable, and reviewable (**Article XV-A** (*Auditability and Observable Evidence*));
@@ -82,14 +83,14 @@ Funding structures must:
 - avoid creating unsustainable reliance on external systems;
 - disclose material cross-system funding relationships.
 
-**Systems providing foundational or widely used services** must **receive Proportionate Cross-System Contribution from dependent systems** that materially extract from them — not merely symbolic, opaque, or one-time transfers. They must **have indirect value distribution assessed regularly** through a maintained dependent systems map.
+**Systems providing foundational or widely used services** must **receive Proportionate Cross-System Support from dependent systems** that engage in material cross-system extraction from them — not merely symbolic, opaque, or one-time transfers. They must **have indirect value distribution assessed regularly** through a maintained dependent systems map.
 
 **Systems must**:
 - monitor and disclose dependency risks;
 - monitor and disclose funding imbalances across interconnected systems;
 - monitor and disclose potential points of systemic fragility.
 
-**Funding imbalances** must be evaluated in context, considering **the criticality of the systems involved**.
+**Funding imbalances** must be evaluated in context, considering **the criticality of the systems involved**, including their [system class](cs_03_a_system_classification_machinery.md#cs-3-2-classification-dimensions-and-real-world-application) where assigned.
 
 **Evaluation** must:
 - consider the degree of dependency between systems;
@@ -108,7 +109,7 @@ Systems must maintain a documented representation of their material dependencies
 **This map must**:
 - identify key upstream and downstream systems;
 - reflect resource flows and dependency relationships;
-- be updated at intervals proportionate to system change and criticality;
+- be updated at intervals proportionate to system change and criticality, including system class where assigned;
 - be accessible for audit under **Article XV-A** (*Auditability and Observable Evidence*).
 
 **Dependent systems maps may**:
@@ -216,7 +217,7 @@ Funding systems are subject to continuous evaluation and refinement under **Arti
 
 Models that fail to support sustainability, produce inequitable outcomes, or undermine constitutional alignment will be subject to challenge, revision, and replacement.
 
-All funding models and allocation structures must undergo **periodic reauthorization** at intervals proportionate to system criticality, scale, and stability. Failure to reauthorize may trigger review under **Article XV-A** (*Auditability and Observable Evidence*), **Article XII-B** (*Right to Challenge, Review, and Redress*), and **Article XXIII-A** (*Justice Objective and Scope*) where auditability, challenge, or justice review is implicated.
+All funding models and allocation structures must undergo **periodic reauthorization** at intervals proportionate to system criticality (including system class where assigned), scale, and stability. Failure to reauthorize may trigger review under **Article XV-A** (*Auditability and Observable Evidence*), **Article XII-B** (*Right to Challenge, Review, and Redress*), and **Article XXIII-A** (*Justice Objective and Scope*) where auditability, challenge, or justice review is implicated.
 
 **The reauthorization processes must**:
 - evaluate alignment with constitutional principles;
@@ -229,7 +230,7 @@ Reauthorization processes may be initiated by system participants, oversight bod
 
 **A** review is automatically triggered under **Article XV-A** (*Auditability and Observable Evidence*) and **Article XXI-A** (*Diagnostic Rigor and Causal Attribution*).
 
-**A** transition process must be initiated within a reasonable period proportional to system criticality.
+**A** transition process must be initiated within a reasonable period proportional to system criticality, including system class where assigned.
 
 **Systems must**:
 - define how reauthorization is initiated;
@@ -262,7 +263,7 @@ One such reference model includes:
 
 *In plain terms: Illustrative percentage ranges, offered as a starting point only. They bind nobody and cannot override constitutional requirements.*
 
-To support early system design and reduce path-dependent misalignment, systems may consider illustrative allocation patterns appropriate to their role and criticality. For example, substrate systems may emphasize stability, with higher allocation toward operations, security, and ecosystem reserves.
+To support early system design and reduce path-dependent misalignment, systems may consider illustrative allocation patterns appropriate to their role and criticality, including system class where assigned. For example, substrate systems may emphasize stability, with higher allocation toward operations, security, and ecosystem reserves.
 
 Non-substrate systems may allocate a greater share toward builder incentives and innovation.
 
@@ -300,7 +301,7 @@ Systems that operate at higher layers (e.g., applications, tools, creative syste
 
 **Such systems must**:
 - still remain transparent and auditable;
-- avoid reinforcing harmful dependencies or extraction patterns;
+- avoid reinforcing harmful dependencies or patterns of [Cross-System Extraction](../core_05_band_continuity.md#cross-system-extraction);
 - remain subject to **Stakeholder System Participation** (**Article XI** (*Stakeholder System Participation, Representation, and Due Process*)) **and [Constitutional Constraints](../core_05_band_integrative.md#constitutional-constraint).
 
 <a id="cs-9-15-stakeholder-governance-of-funding"></a>
@@ -308,7 +309,7 @@ Systems that operate at higher layers (e.g., applications, tools, creative syste
 
 *In plain terms: Those affected by allocation decisions get to review and change them, with heightened scrutiny where stability or security is at stake.*
 
-Allocation models are subject to participatory oversight under **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) and must remain understandable at a proportionate level under **Article XX-A** (*Proportional Comprehensibility Right*) where interfaces and models are materially impactful. Where funding decisions materially affect system stability, security, or foundational requirements, such decisions must be evaluated with heightened scrutiny proportional to system criticality.
+Allocation models are subject to participatory oversight under **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) and must remain understandable at a proportionate level under **Article XX-A** (*Proportional Comprehensibility Right*) where interfaces and models are materially impactful. Where funding decisions materially affect system stability, security, or foundational requirements, such decisions must be evaluated with heightened scrutiny proportional to system criticality, including system class where assigned.
 
 **Stakeholders have the authority to** **review and modify allocation structures**. They may **evaluate fairness and effectiveness**. They may **redirect funding in response to changing needs**.
 

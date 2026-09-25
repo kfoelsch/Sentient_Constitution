@@ -153,7 +153,7 @@ A human operator and an AI steward — or two small organizations — share a co
 <a id="44-open-commons"></a>
 ### 4.4 Open model, data, or compute commons
 
-A foundation that holds weights, datasets, or shared compute as a resource. Track A plus [CI-22](../../corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md). The [cross-system contribution](../STEWARD_ENTRY_DOORS.md#cross-system-contribution) door is for heavy users who extract from shared foundations without putting resources back. A Chapter Five Charter can name scope and contribution without pretending to be a polity. Kit door: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) Track A.
+A foundation that holds weights, datasets, or shared compute as a resource. Track A plus [CI-22](../../corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md). The [cross-system support](../STEWARD_ENTRY_DOORS.md#cross-system-support) door is for heavy users who extract from shared foundations without putting resources back. A Chapter Five Charter can name scope and contribution without pretending to be a polity. Kit door: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) Track A.
 
 <a id="45-multi-agent-protocol"></a>
 ### 4.5 Multi-agent protocol or agent-marketplace body

@@ -3,8 +3,8 @@
   "effective_date": "2026-08-09",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
-  "heading_count": 885,
-  "glossed_count": 619,
+  "heading_count": 886,
+  "glossed_count": 620,
   "files": [
     {
       "file": "core_00_preamble.md",
@@ -1540,18 +1540,18 @@
           "level": 3,
           "title": "Chapter Five compass and definition map",
           "anchor": "chapter-five-compass-and-definition-map",
-          "line": 370,
+          "line": 371,
           "gloss": "Chapter Five is sorted by the two aims and the four Tetrad legs; this table says which file holds which cluster range.",
-          "gloss_line": 384
+          "gloss_line": 385
         },
         {
           "file": "core_05__definitions_home.md",
           "level": 3,
           "title": "Measurement crosswalk (reader guidance)",
           "anchor": "measurement-crosswalk-reader-guidance",
-          "line": 402,
+          "line": 403,
           "gloss": "Preamble §2 asks seven category questions; this table maps each question to the Chapter Five homes that answer it.",
-          "gloss_line": 404
+          "gloss_line": 405
         }
       ]
     },
@@ -1628,9 +1628,9 @@
           "level": 3,
           "title": "Measuring Continuity (Preamble measurement family)",
           "anchor": "continuity-measurement-family",
-          "line": 97,
+          "line": 98,
           "gloss": "these questions ask whether sentients and the living systems they depend on can endure — ecologically, dependably, and across failure. This is the Chapter Five home for the Continuity measurement family; Preamble §2 keeps the plain-language category question, and the family table and definition routing live here.",
-          "gloss_line": 109
+          "gloss_line": 110
         }
       ]
     },
@@ -2577,8 +2577,8 @@
     {
       "file": "core_05_band_continuity.md",
       "title": "Continuity Constitutional Definitions",
-      "heading_count": 83,
-      "glossed_count": 23,
+      "heading_count": 84,
+      "glossed_count": 24,
       "sections": [
         {
           "file": "core_05_band_continuity.md",
@@ -2936,25 +2936,34 @@
           "level": 4,
           "title": "Dependency",
           "anchor": "dependency",
-          "line": 2027,
+          "line": 2028,
           "gloss": "how much a sentient or system relies on another for survival, function, stability, or participation — including chains and one-way dependencies that are hard to see or hard to leave.",
-          "gloss_line": 2041
+          "gloss_line": 2042
         },
         {
           "file": "core_05_band_continuity.md",
           "level": 4,
-          "title": "Proportionate Cross-System Contribution",
-          "anchor": "proportionate-cross-system-support-constitutional",
-          "line": 2096,
-          "gloss": "when a system keeps drawing value from shared foundations other sentients or systems depend on, it must put enough back — in real, traceable resources — to keep those foundations running, auditable, and repairable. A one-time grant or a press release is not support.",
+          "title": "Cross-System Extraction",
+          "anchor": "cross-system-extraction",
+          "line": 2097,
+          "gloss": "taking from shared infrastructure that others also need — money, compute, connectivity, upkeep work, or capacity — without putting back enough to keep it working. It asks who benefits from shared foundations and who pays to sustain them, not what a system does with data.",
           "gloss_line": 2111
+        },
+        {
+          "file": "core_05_band_continuity.md",
+          "level": 4,
+          "title": "Proportionate Cross-System Support",
+          "anchor": "proportionate-cross-system-support-constitutional",
+          "line": 2155,
+          "gloss": "when a system keeps drawing value from shared foundations other sentients or systems depend on, it must put enough back — in real, traceable resources — to keep those foundations running, auditable, and repairable. A one-time grant or a press release is not support.",
+          "gloss_line": 2169
         },
         {
           "file": "core_05_band_continuity.md",
           "level": 4,
           "title": "Systemic effects and capture",
           "anchor": "systemic-effects-and-capture-semi-independent",
-          "line": 2176,
+          "line": 2235,
           "gloss": null,
           "gloss_line": null
         },
@@ -2963,43 +2972,43 @@
           "level": 4,
           "title": "Systemic",
           "anchor": "systemic",
-          "line": 2196,
+          "line": 2255,
           "gloss": "effects that come from how systems interact and depend on each other — not from one part looked at alone.",
-          "gloss_line": 2208
+          "gloss_line": 2267
         },
         {
           "file": "core_05_band_continuity.md",
           "level": 4,
           "title": "Systemic Materiality",
           "anchor": "systemic-materiality",
-          "line": 2251,
+          "line": 2310,
           "gloss": "when interactions make the total impact bigger than adding up each piece on its own — so looking only at parts understates what is at stake.",
-          "gloss_line": 2264
+          "gloss_line": 2323
         },
         {
           "file": "core_05_band_continuity.md",
           "level": 4,
           "title": "System Capture",
           "anchor": "system-capture",
-          "line": 2300,
+          "line": 2359,
           "gloss": "when concentrated incentives or power twist governance, oversight, or the ability to challenge decisions — so the system no longer answers to constitutional duties.",
-          "gloss_line": 2313
+          "gloss_line": 2372
         },
         {
           "file": "core_05_band_continuity.md",
           "level": 4,
           "title": "Anti-Capture",
           "anchor": "anti-capture",
-          "line": 2351,
+          "line": 2410,
           "gloss": "do not wait for capture to show up. Where concentrated power or incentives could twist the rules, build the foreseeable safeguards first — separate checkers from actors, keep more than one way to challenge, and make hidden control auditable — scaled to what is actually at stake.",
-          "gloss_line": 2364
+          "gloss_line": 2423
         },
         {
           "file": "core_05_band_continuity.md",
           "level": 4,
           "title": "System boundaries, integrity, and exit",
           "anchor": "system-boundaries-integrity-and-exit",
-          "line": 2416,
+          "line": 2475,
           "gloss": null,
           "gloss_line": null
         },
@@ -3008,7 +3017,7 @@
           "level": 4,
           "title": "System",
           "anchor": "system-definition",
-          "line": 2437,
+          "line": 2496,
           "gloss": null,
           "gloss_line": null
         },
@@ -3017,7 +3026,7 @@
           "level": 4,
           "title": "System Boundaries",
           "anchor": "system-boundaries",
-          "line": 2472,
+          "line": 2531,
           "gloss": null,
           "gloss_line": null
         },
@@ -3026,7 +3035,7 @@
           "level": 4,
           "title": "System Boundary Integrity",
           "anchor": "system-boundary-integrity",
-          "line": 2504,
+          "line": 2563,
           "gloss": null,
           "gloss_line": null
         },
@@ -3035,16 +3044,16 @@
           "level": 4,
           "title": "Charter",
           "anchor": "charter",
-          "line": 2540,
+          "line": 2599,
           "gloss": "a **Charter** is the published statement of what a system, institution, or business is for and what it is allowed to do. Where binding stakeholder decisions will stick inside that scope, the Charter must point to the published process rules — it does not replace them. Scope can change, but not silently — amendments and periodic review keep the paper matched to real behavior. A Charter is not a shield against impact-based classification or full-boundary evaluation.",
-          "gloss_line": 2555
+          "gloss_line": 2614
         },
         {
           "file": "core_05_band_continuity.md",
           "level": 4,
           "title": "Systemic Lock-In",
           "anchor": "systemic-lock-in",
-          "line": 2597,
+          "line": 2656,
           "gloss": null,
           "gloss_line": null
         },
@@ -3053,7 +3062,7 @@
           "level": 4,
           "title": "Survival-floor continuity: bodily maintenance, occupancy, and environment",
           "anchor": "stewardship-governance-discipline-and-shared-system-capacity-semi-independent",
-          "line": 2646,
+          "line": 2705,
           "gloss": null,
           "gloss_line": null
         },
@@ -3062,7 +3071,7 @@
           "level": 4,
           "title": "Bodily-Maintenance Access",
           "anchor": "bodily-maintenance-access-constitutional",
-          "line": 2666,
+          "line": 2725,
           "gloss": null,
           "gloss_line": null
         },
@@ -3071,7 +3080,7 @@
           "level": 4,
           "title": "Occupancy Continuity",
           "anchor": "tenure-security-constitutional",
-          "line": 2723,
+          "line": 2782,
           "gloss": null,
           "gloss_line": null
         },
@@ -3080,7 +3089,7 @@
           "level": 4,
           "title": "Community-anchored continuity: indigenous, language, culture, and heritage",
           "anchor": "indigenous-continuity-language-culture-heritage-semi-independent",
-          "line": 2782,
+          "line": 2841,
           "gloss": null,
           "gloss_line": null
         },
@@ -3089,7 +3098,7 @@
           "level": 4,
           "title": "Indigenous Continuity",
           "anchor": "indigenous-continuity-constitutional",
-          "line": 2800,
+          "line": 2859,
           "gloss": null,
           "gloss_line": null
         },
@@ -3098,7 +3107,7 @@
           "level": 4,
           "title": "Language, Culture, and Heritage",
           "anchor": "language-culture-and-heritage-constitutional",
-          "line": 2863,
+          "line": 2922,
           "gloss": null,
           "gloss_line": null
         },
@@ -3107,7 +3116,7 @@
           "level": 3,
           "title": "Continuity: Dependent clusters",
           "anchor": "continuity-dependent-clusters",
-          "line": 2923,
+          "line": 2982,
           "gloss": null,
           "gloss_line": null
         },
@@ -3116,7 +3125,7 @@
           "level": 4,
           "title": "Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
           "anchor": "defc1",
-          "line": 2928,
+          "line": 2987,
           "gloss": null,
           "gloss_line": null
         },
@@ -3125,7 +3134,7 @@
           "level": 5,
           "title": "Fair Compensation",
           "anchor": "fair-compensation-constitutional",
-          "line": 2991,
+          "line": 3050,
           "gloss": null,
           "gloss_line": null
         },
@@ -3134,25 +3143,25 @@
           "level": 5,
           "title": "Safe Conditions",
           "anchor": "safe-conditions-constitutional",
-          "line": 3059,
+          "line": 3118,
           "gloss": "every sentient has the right to work in conditions where they are genuinely protected from foreseeable harm — not just on paper, but in reality. This applies whether the worker is human, synthetic, or any other substrate. Box-checking safety programs that leave sentients actually exposed don't count.",
-          "gloss_line": 3073
+          "gloss_line": 3132
         },
         {
           "file": "core_05_band_continuity.md",
           "level": 5,
           "title": "Leisure and Rest",
           "anchor": "leisure-and-rest-constitutional",
-          "line": 3124,
+          "line": 3183,
           "gloss": "every working sentient has a right to real time off — enough rest and recuperation to stay healthy, maintain their agency, and participate fully in life. Productivity demands that exhaust sentients don't satisfy this floor.",
-          "gloss_line": 3138
+          "gloss_line": 3197
         },
         {
           "file": "core_05_band_continuity.md",
           "level": 5,
           "title": "Likeness and Documentary Depiction Interface",
           "anchor": "likeness-and-documentary-depiction-interface-constitutional",
-          "line": 3186,
+          "line": 3245,
           "gloss": null,
           "gloss_line": null
         },
@@ -3161,7 +3170,7 @@
           "level": 5,
           "title": "Creative Work Attribution",
           "anchor": "creative-work-attribution-constitutional",
-          "line": 3227,
+          "line": 3286,
           "gloss": null,
           "gloss_line": null
         },
@@ -3170,7 +3179,7 @@
           "level": 5,
           "title": "Training-Data Use",
           "anchor": "training-data-use-constitutional",
-          "line": 3298,
+          "line": 3357,
           "gloss": null,
           "gloss_line": null
         },
@@ -3179,16 +3188,16 @@
           "level": 5,
           "title": "Anti-Displacement Floor",
           "anchor": "anti-displacement-floor-constitutional",
-          "line": 3354,
+          "line": 3413,
           "gloss": "when automation or generative systems take work away from sentients at population scale, those sentients must get real mitigation — pay, transition support, credit for their work, and a share in the value created — not slogans about productivity or innovation. Looking only at one company or one platform does not settle the question.",
-          "gloss_line": 3368
+          "gloss_line": 3427
         },
         {
           "file": "core_05_band_continuity.md",
           "level": 4,
           "title": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
           "anchor": "defc2",
-          "line": 3427,
+          "line": 3486,
           "gloss": null,
           "gloss_line": null
         },
@@ -3197,7 +3206,7 @@
           "level": 5,
           "title": "Stewardship",
           "anchor": "stewardship-constitutional",
-          "line": 3493,
+          "line": 3552,
           "gloss": null,
           "gloss_line": null
         },
@@ -3206,7 +3215,7 @@
           "level": 5,
           "title": "Distributed Understanding",
           "anchor": "distributed-understanding-constitutional",
-          "line": 3552,
+          "line": 3611,
           "gloss": null,
           "gloss_line": null
         },
@@ -3215,7 +3224,7 @@
           "level": 5,
           "title": "Strategic Stewardship Obligation",
           "anchor": "strategic-stewardship-obligation-constitutional",
-          "line": 3609,
+          "line": 3668,
           "gloss": null,
           "gloss_line": null
         },
@@ -3224,7 +3233,7 @@
           "level": 5,
           "title": "Short-Horizon Governance Defect",
           "anchor": "short-horizon-governance-defect-constitutional",
-          "line": 3665,
+          "line": 3724,
           "gloss": null,
           "gloss_line": null
         },
@@ -3233,7 +3242,7 @@
           "level": 5,
           "title": "Stewardship Defect",
           "anchor": "stewardship-defect-constitutional",
-          "line": 3710,
+          "line": 3769,
           "gloss": null,
           "gloss_line": null
         },
@@ -3242,7 +3251,7 @@
           "level": 5,
           "title": "Review and Correction Duty",
           "anchor": "review-and-correction-duty-constitutional",
-          "line": 3769,
+          "line": 3828,
           "gloss": null,
           "gloss_line": null
         },
@@ -3251,7 +3260,7 @@
           "level": 4,
           "title": "Def.C3 Privacy (Informational) — peer-level cluster head",
           "anchor": "defc3",
-          "line": 3810,
+          "line": 3869,
           "gloss": null,
           "gloss_line": null
         },
@@ -3260,7 +3269,7 @@
           "level": 5,
           "title": "Privacy (Informational)",
           "anchor": "privacy-informational",
-          "line": 3849,
+          "line": 3908,
           "gloss": null,
           "gloss_line": null
         },
@@ -3269,7 +3278,7 @@
           "level": 5,
           "title": "Protected Internal-State Boundary",
           "anchor": "protected-internal-state-boundary-constitutional",
-          "line": 3903,
+          "line": 3962,
           "gloss": null,
           "gloss_line": null
         },
@@ -3278,7 +3287,7 @@
           "level": 5,
           "title": "Identity Data Protection",
           "anchor": "identity-data-protection",
-          "line": 3949,
+          "line": 4008,
           "gloss": null,
           "gloss_line": null
         },
@@ -3287,7 +3296,7 @@
           "level": 5,
           "title": "Surveillance Boundary",
           "anchor": "surveillance-boundary",
-          "line": 3970,
+          "line": 4029,
           "gloss": null,
           "gloss_line": null
         },
@@ -3296,7 +3305,7 @@
           "level": 4,
           "title": "Def.C4 Trust and Trustworthiness",
           "anchor": "defc4",
-          "line": 4021,
+          "line": 4080,
           "gloss": null,
           "gloss_line": null
         },
@@ -3305,7 +3314,7 @@
           "level": 5,
           "title": "Trust",
           "anchor": "trust",
-          "line": 4070,
+          "line": 4129,
           "gloss": null,
           "gloss_line": null
         },
@@ -3314,7 +3323,7 @@
           "level": 5,
           "title": "Trustworthiness",
           "anchor": "trustworthiness",
-          "line": 4105,
+          "line": 4164,
           "gloss": null,
           "gloss_line": null
         },
@@ -3323,7 +3332,7 @@
           "level": 5,
           "title": "Trust Degradation and Misleading Reliance",
           "anchor": "trust-degradation-and-misleading-reliance",
-          "line": 4171,
+          "line": 4230,
           "gloss": null,
           "gloss_line": null
         }
@@ -4719,8 +4728,8 @@
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 3,
-          "title": "6. Proportionate Cross-System Contribution Evaluation",
-          "anchor": "6-proportionate-cross-system-contribution-evaluation",
+          "title": "6. Proportionate Cross-System Support Evaluation",
+          "anchor": "6-proportionate-cross-system-support-evaluation",
           "line": 577,
           "gloss": "when a system materially draws on shared foundations, certification has to check whether it puts enough traceable support back — not whether the operator says the books balance. Allocation formulas and numeric targets live in other instruments; certification checks that dependency maps, return flows, and cross-system fairness were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [§2.1 Illustrative class profiles (non-exhaustive)](#21-illustrative-class-profiles-non-exhaustive) are in [§6.1 Illustrative cross-system support application by class (non-exhaustive)](#61-illustrative-cross-system-support-application-by-class-non-exhaustive).",
           "gloss_line": 591
@@ -4730,81 +4739,81 @@
           "level": 4,
           "title": "6.1 Illustrative cross-system support application by class (non-exhaustive)",
           "anchor": "61-illustrative-cross-system-support-application-by-class-non-exhaustive",
-          "line": 609,
-          "gloss": "[§3.8 Illustrative whole-system application by class (non-exhaustive)](#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§5.1 Illustrative ecological-footprint application by class (non-exhaustive)](#51-illustrative-ecological-footprint-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **proportionate cross-system contribution** means for each — which shared dependencies count, what certification must check when the **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies, and what must appear on the record. **Extraction** here means **resource and funding draw from shared infrastructure** (see [§6 Proportionate Cross-System Contribution Evaluation](#6-proportionate-cross-system-contribution-evaluation) *What “extraction” means here*) — not clinical-data copying, advertising use, or unrelated sale to third parties. CS-8, CS-9, and Chapter Five still own allocation mechanics; these walkthroughs do not prescribe splits, formulas, or funding models.",
-          "gloss_line": 611
+          "line": 623,
+          "gloss": "[§3.8 Illustrative whole-system application by class (non-exhaustive)](#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§5.1 Illustrative ecological-footprint application by class (non-exhaustive)](#51-illustrative-ecological-footprint-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **proportionate cross-system support** means for each — which shared dependencies count, what certification must check when the **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies, and what must appear on the record. **Extraction** here means **resource and funding draw from shared infrastructure** (see [§6 Proportionate Cross-System Support Evaluation](#6-proportionate-cross-system-support-evaluation) *What “extraction” means here*) — not clinical-data copying, advertising use, or unrelated sale to third parties. CS-8, CS-9, and Chapter Five still own allocation mechanics; these walkthroughs do not prescribe splits, formulas, or funding models.",
+          "gloss_line": 625
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 3,
           "title": "7. Nondiscrimination Evaluation",
           "anchor": "7-nondiscrimination-evaluation",
-          "line": 690,
+          "line": 704,
           "gloss": "when a system materially decides who gets in, who pays more, who ranks lower, or who bears worse burdens, certification has to check whether that pattern loads harm onto protected characteristics or their proxies — not whether the operator says the rules are neutral. Inclusion quotas and specific fairness algorithms may live in other instruments, later corpus additions, or adoption instruments; certification checks that burden-and-benefit patterns and proxy risk were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [§2.1 Illustrative class profiles (non-exhaustive)](#21-illustrative-class-profiles-non-exhaustive) are in [§7.1 Illustrative nondiscrimination application by class (non-exhaustive)](#71-illustrative-nondiscrimination-application-by-class-non-exhaustive).",
-          "gloss_line": 704
+          "gloss_line": 718
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 4,
           "title": "7.1 Illustrative nondiscrimination application by class (non-exhaustive)",
           "anchor": "71-illustrative-nondiscrimination-application-by-class-non-exhaustive",
-          "line": 720,
+          "line": 734,
           "gloss": "[§3.8 Illustrative whole-system application by class (non-exhaustive)](#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§6.1 Illustrative cross-system support application by class (non-exhaustive)](#61-illustrative-cross-system-support-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **nondiscrimination** evaluation means for each — which decision pathways count, what certification must check when the **Article V-B** (*Nondiscrimination*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article V-B** (*Nondiscrimination*) still own canonical fairness and proxy-discrimination rules; inclusion quotas, demographic targets, and fairness-algorithm designs may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics.",
-          "gloss_line": 722
+          "gloss_line": 736
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 3,
           "title": "8. Accessibility Evaluation",
           "anchor": "8-accessibility-evaluation",
-          "line": 797,
+          "line": 811,
           "gloss": "when a system materially controls whether sentients can actually take part — not just whether a door is labeled \"open\" — certification has to check whether participation is genuinely reachable across sensory, cognitive, mobility, communication, substrate-interface, and comparable needs. Accommodation catalogs and interface standards may live in other instruments, later corpus additions, or adoption instruments; certification checks that substantive participation was actually evaluated where the trigger applies. Worked examples for the illustrative systems in [§2.1 Illustrative class profiles (non-exhaustive)](#21-illustrative-class-profiles-non-exhaustive) are in [§8.1 Illustrative accessibility application by class (non-exhaustive)](#81-illustrative-accessibility-application-by-class-non-exhaustive).",
-          "gloss_line": 811
+          "gloss_line": 825
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 4,
           "title": "8.1 Illustrative accessibility application by class (non-exhaustive)",
           "anchor": "81-illustrative-accessibility-application-by-class-non-exhaustive",
-          "line": 827,
+          "line": 841,
           "gloss": "[§3.8 Illustrative whole-system application by class (non-exhaustive)](#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§7.1 Illustrative nondiscrimination application by class (non-exhaustive)](#71-illustrative-nondiscrimination-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **accessibility** evaluation means for each — which participation pathways count, what certification must check when the **Article V-G** (*Accessibility*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article V-G** (*Accessibility*) still own canonical accessibility rules; accommodation catalogs, interface standards, and universal-design specifications may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Educational accessibility remains owned by **Article III-B** (*Equal Educational Access*) and is not narrowed here.",
-          "gloss_line": 829
+          "gloss_line": 843
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 3,
           "title": "9. Educational Capability and Learning-System Integrity Evaluation",
           "anchor": "9-educational-capability-and-learning-system-integrity-evaluation",
-          "line": 904,
+          "line": 918,
           "gloss": "when a school, platform, or training system can seriously affect a sentient's future — through grades, rankings, recommendations, placement, or credential gates — certification has to check whether sentients can actually build capability, retrain when competencies change, and see, audit, and challenge those decisions. Curricula, rubrics, and funding models live in other instruments; certification checks that capability-building substance and learning-system integrity were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [§2.1 Illustrative class profiles (non-exhaustive)](#21-illustrative-class-profiles-non-exhaustive) are in [§9.1 Illustrative educational-capability application by class (non-exhaustive)](#91-illustrative-educational-capability-application-by-class-non-exhaustive).",
-          "gloss_line": 918
+          "gloss_line": 932
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 4,
           "title": "9.1 Illustrative educational-capability application by class (non-exhaustive)",
           "anchor": "91-illustrative-educational-capability-application-by-class-non-exhaustive",
-          "line": 934,
+          "line": 948,
           "gloss": "[§3.8 Illustrative whole-system application by class (non-exhaustive)](#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§8.1 Illustrative accessibility application by class (non-exhaustive)](#81-illustrative-accessibility-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **educational capability and learning-system integrity** evaluation means for each — which ranking, assessment, credential, and retraining pathways count, what certification must check when the **Article VI** (*Right to Sentient-Centered Education*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article VI** (*Right to Sentient-Centered Education*) still own canonical educational-agency and learning-system rules; curricula, credential catalogs, assessment rubrics, and funding models may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Equal access and educational accessibility remain owned by **Article III-B** (*Equal Educational Access*) and are not narrowed here.",
-          "gloss_line": 936
+          "gloss_line": 950
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 3,
           "title": "10. Trustworthiness and System-Reliance Integrity Evaluation",
           "anchor": "10-trustworthiness-and-system-reliance-integrity-evaluation",
-          "line": 1014,
+          "line": 1028,
           "gloss": "when a system materially affects whether sentients can trust what it says and does — and push back when that trust fails — certification has to check whether reliance is actually warranted, honestly disclosed, and repairable. Reliability metrics and test-suite designs live in other instruments; certification checks that trustworthiness, false-trust risk, and challenge paths were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [§2.1 Illustrative class profiles (non-exhaustive)](#21-illustrative-class-profiles-non-exhaustive) are in [§10.1 Illustrative trustworthiness application by class (non-exhaustive)](#101-illustrative-trustworthiness-application-by-class-non-exhaustive).",
-          "gloss_line": 1028
+          "gloss_line": 1042
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 4,
           "title": "10.1 Illustrative trustworthiness application by class (non-exhaustive)",
           "anchor": "101-illustrative-trustworthiness-application-by-class-non-exhaustive",
-          "line": 1044,
+          "line": 1058,
           "gloss": "[§3.8 Illustrative whole-system application by class (non-exhaustive)](#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§9.1 Illustrative educational-capability application by class (non-exhaustive)](#91-illustrative-educational-capability-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **trustworthiness and system-reliance integrity** evaluation means for each — which reliance, disclosure, incentive, challenge, and recovery pathways count, what certification must check when the **Article XII** (*Right to Reliable and Trustworthy Systems*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article XII** (*Right to Reliable and Trustworthy Systems*) still own canonical trustworthiness rules; reliability metrics, disclosure formats, incentive-alignment mechanics, and regression-test designs may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Challenge and audit rights remain owned by **Article XII-B** (*Right to Challenge, Review, and Redress*) and **Article XV** (*Audit, Transparency, and Independent Verification*) — not narrowed here.",
-          "gloss_line": 1046
+          "gloss_line": 1060
         }
       ]
     },
@@ -6666,7 +6675,7 @@
           "title": "Article IV: Resource Allocation, Dependencies, and Ecosystem Funding",
           "anchor": "article-iv-resource-allocation-dependencies-and-ecosystem-funding",
           "line": 1012,
-          "gloss": "**Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) is the shared-resources Rights Floor — resource flows among interdependent systems must stay visible, fair, and sustainable so **Flourishing** is not defeated by hidden extraction or dependency capture, and **Continuity** is not defeated by persistent imbalance, opaque routing, or underfunding of shared infrastructure.",
+          "gloss": "**Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) is about sharing the load fairly. Many systems lean on the same underlying infrastructure — networks, open tools, public services, shared data and computing power. Everyone who relies on that infrastructure should be able to see where the money and resources go, and those who take a lot from it should help keep it running. This is the Rights Floor for shared resources.",
           "gloss_line": 1023
         },
         {
@@ -6674,18 +6683,18 @@
           "level": 4,
           "title": "Article IV-A: Dependency Mapping and Resource-Flow Transparency",
           "anchor": "article-iv-a-dependency-mapping-and-resource-flow-transparency",
-          "line": 1050,
-          "gloss": "systems must keep an honest, up-to-date picture of what they rely on, what flows in and out, and where relationships are one-sided or opaque when that matters—so funders, auditors, and affected parties can see who bears the costs and who captures the benefits.",
-          "gloss_line": 1072
+          "line": 1057,
+          "gloss": "systems must keep an honest, up-to-date picture of what they rely on, who relies on them, where money and resources flow, and where relationships are one-sided or hidden. System Alignment Certification is where that picture is checked, so funders, auditors, and affected parties can see who bears the costs and who captures the benefits.",
+          "gloss_line": 1079
         },
         {
           "file": "core_06_rights_part_a.md",
           "level": 4,
           "title": "Article IV-B: Cross-System Fairness and Sustainability",
           "anchor": "article-iv-b-cross-system-fairness-and-sustainability",
-          "line": 1084,
-          "gloss": "split shared money and capacity with attention to who is truly dependent, who has real alternatives, environmental burden, and whether use can last—not mainly to whoever wins in the short run. Heavy users of shared foundations must not keep pulling value out without [Proportionate Cross-System Contribution](core_05_band_continuity.md#proportionate-cross-system-support-constitutional). When arrangements concentrate wealth, power, control, or opportunity in ways that predictably harm others' wellbeing, agency, dignity, or ecological integrity, Chapter One non-concentration rules and adopter-tunable thresholds add further scrutiny. That scrutiny is extra; it does not replace dependency mapping or excuse neglect of cross-system fairness.",
-          "gloss_line": 1110
+          "line": 1105,
+          "gloss": "systems that lean heavily on shared foundations must put enough back to keep them running, in real and traceable resources, not gestures. Shared money and capacity should be split with attention to who is truly dependent, who has real alternatives, environmental burden, and whether use can last, not mainly to whoever wins in the short run. [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is where this is checked: certification compares what a system takes from shared infrastructure with what it gives back, using the maps and flow records that **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) requires. Where arrangements concentrate wealth, power, control, or opportunity in ways that harm others, Chapter One non-concentration rules add further scrutiny on top.",
+          "gloss_line": 1131
         }
       ]
     },

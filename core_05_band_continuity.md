@@ -310,7 +310,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
        - the [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional) (or its required contents) under CS-2 and [Chapter Eight §4](core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation);
        - risk-evaluation and risk-disclosure findings where systemic risk is in scope under [Chapter Eight §3.1](core_08_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) — stated on this record, not as a separate named risk-disclosure record;
        - ecological footprint evaluation where material;
-       - cross-system resource stewardship evaluation under [Chapter Eight §6 Proportionate Cross-System Contribution Evaluation](core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-contribution-evaluation) where the **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies;
+       - cross-system resource stewardship evaluation under [Chapter Eight §6 Proportionate Cross-System Support Evaluation](core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) where the **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies;
        - technical and stakeholder review components;
        - supervisory sequence;
        - outcome;
@@ -2016,7 +2016,8 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 
 **Topic group members.** This group comprises:
 - [Dependency](core_05_band_continuity.md#dependency) — how much a sentient or system relies on another for survival, function, stability, or participation, including chained, asymmetric, and hard-to-see relationships;
-- [Proportionate Cross-System Contribution](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) — the duty of systems that draw value from shared foundations to put enough documented, auditable resources back to keep those foundations running, contestable, and sustainable.
+- [Cross-System Extraction](core_05_band_continuity.md#cross-system-extraction) — drawing money, compute, maintenance labor, or other shared resource flows from infrastructure others also need, without putting proportionate support back;
+- [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) — the duty of systems that draw value from shared foundations to put enough documented, auditable resources back to keep those foundations running, contestable, and sustainable.
 
 *Measurements (family routing):* Measured under the Continuity measurement family (*Dependency and resource flows*; *Cross-system support*). Find the concrete measures on the member definitions below. Read with [CS-9 — Resource allocation and funding stewardship](corpus_systems/cs_09_resource_allocation_funding_stewardship.md).
 
@@ -2032,7 +2033,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 - Downstream: Continuity measurement family (*Dependency and resource flows as constitutional measurement*); Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [5. System Stability Enabler: Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [6. Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [§6.1 decision-record discipline](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Cluster component: [Dependency and cross-system support](core_05_band_continuity.md#dependency-and-cross-system-support-semi-independent).
 - Cluster component: [*Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)
-- Read with: [Proportionate Cross-System Contribution](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), [Wellbeing](core_05_band_continuity.md#wellbeing), [Risk](core_05_band_continuity.md#risk), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity), and [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) where certification gates shared-infrastructure reliance.
+- Read with: [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), [Wellbeing](core_05_band_continuity.md#wellbeing), [Risk](core_05_band_continuity.md#risk), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity), and [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) where certification gates shared-infrastructure reliance.
 
 </details>
 
@@ -2091,18 +2092,75 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 
 ---
 
-<a id="proportionate-cross-system-support-constitutional"></a>
+<a id="cross-system-extraction"></a>
 
-#### Proportionate Cross-System Contribution
+#### Cross-System Extraction
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner floor: [Article IV-B](core_06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*). Implementation routing: **[corpus_systems.md](corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*); [Chapter Eight — System Alignment Certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) [§6](core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-contribution-evaluation) where shared-infrastructure reliance is materially at issue.
-- Steward door (non-operative): Binding next-step statement: [Operative steward statement (Article IV-B)](core_06_rights_part_a.md#operative-steward-statement-cross-system-contribution). Support pointers cannot narrow it.
+- Owner floor: [Article IV-B](core_06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*). Certification: [Chapter Eight §6 Proportionate Cross-System Support Evaluation](core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) where the **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies.
+- Downstream: [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) (*the support owed where extraction is material*); [Article IV-A](core_06_rights_part_a.md#article-iv-a-dependency-mapping-and-resource-flow-transparency) (*dependent-systems maps and resource-flow records that show extraction*); Continuity measurement family (*Dependency and resource flows*; *Cross-system support*).
+- Cluster component: [Dependency and cross-system support](core_05_band_continuity.md#dependency-and-cross-system-support-semi-independent).
+- Read with: [Dependency](core_05_band_continuity.md#dependency), [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), [Shared-System Capacity](core_05_band_continuity.md#shared-system-capacity-constitutional), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), and [Sustainability](core_05_band_continuity.md#sustainability). For other senses of "extraction," see [Privacy (Informational)](core_05_band_continuity.md#privacy-informational), [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional), and [Ecological Footprint](core_05_band_continuity.md#ecological-footprint).
+
+</details>
+
+<br>
+
+*In plain terms: taking from shared infrastructure that others also need — money, compute, connectivity, upkeep work, or capacity — without putting back enough to keep it working. It asks who benefits from shared foundations and who pays to sustain them, not what a system does with data.*
+
+- **What it is**
+  - **In scope:** Drawing shared resource flows from infrastructure or foundational dependencies that other systems or sentients also rely on, without returning [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) adequate to keep that shared substrate working. Those flows include:
+    - money, fees, and public funding;
+    - compute and connectivity;
+    - maintenance labor and source capacity; and
+    - other shared resource flows.
+
+    Includes draw that is:
+    - direct, or routed through intermediaries, vendors, or affiliated systems; and
+    - shifted onto others, where upkeep, outage-response, or participation costs move onto systems or sentients relying on the same substrate.
+  - **Out of scope:**
+    - data access, data use, sale to external parties, targeted advertising, and profiling, which are governed by [Privacy (Informational)](core_05_band_continuity.md#privacy-informational) and the Chapter Six privacy and info-sphere protections and evaluated under [Chapter Eight §4 Data Types and Handling Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation);
+    - extraction of protected internal states, which is governed by [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional);
+    - the ecological burden of natural-resource use as such, which is evaluated under [Ecological Footprint](core_05_band_continuity.md#ecological-footprint), although draw on shared source capacity that other systems rely on stays in scope; and
+    - ordinary commercial exchange that pays for the shared substrate at a rate that sustains it.
+<a id="cross-system-extraction-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Identify extraction from documented dependent-systems maps and auditable resource-flow records under **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*). For each shared or foundational dependency, measure:
+    - draw — the volume and share of the shared resource flows the system consumes;
+    - return — documented support flowing back to the same substrate;
+    - shifted burden — upkeep, outage-response, or participation costs moved onto other relying systems or sentients; and
+    - persistence — whether the imbalance is one-time or continues across cycles.
+  - **Secondary measure:** co-measures that scale how much extraction matters:
+    - [Dependency](core_05_band_continuity.md#dependency);
+    - [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional); and
+    - [Sustainability](core_05_band_continuity.md#sustainability).
+
+    **Secondary assessment:** When evaluating the primary trace, treat extraction as material where it persists and the substrate is critical, weakly substitutable, or asymmetrically relied on. Carry material extraction into [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) adequacy review and, where the **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies, into [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional).
+<a id="cross-system-extraction-c"></a>
+- **What must hold**
+  - **Primary failure:** extraction left unidentified or understated in evaluation, including:
+    - flows routed through intermediaries, vendors, or affiliated systems to keep them off dependent-systems maps;
+    - burden shifted onto other relying systems or sentients recorded as neutral; and
+    - draw measured only against the operator's internal ledger rather than against the shared substrate.
+  - **Secondary failure:** data-use, advertising, or profiling questions treated as extraction under this entry, or extraction questions deflected into privacy review, so that no review reaches the shared-resource imbalance.
+
+---
+
+<a id="proportionate-cross-system-support-constitutional"></a>
+
+#### Proportionate Cross-System Support
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Owner floor: [Article IV-B](core_06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*). Implementation routing: **[corpus_systems.md](corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*); [Chapter Eight — System Alignment Certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) [§6](core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) where shared-infrastructure reliance is materially at issue.
 - Downstream: [Article IV-A](core_06_rights_part_a.md#article-iv-a-dependency-mapping-and-resource-flow-transparency) (*dependent-systems maps and resource-flow records used to evaluate adequacy*); [Preamble §2 *Measurements Overview*](core_00_preamble.md#2-measurements-overview) (*constitutional measurement orientation*); Continuity measurement family (*dependency and resource-flow measurement*).
 - Cluster component: [Dependency and cross-system support](core_05_band_continuity.md#dependency-and-cross-system-support-semi-independent).
-- Read with: [Dependency](core_05_band_continuity.md#dependency), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), [Proportionality](core_05_band_accountability.md#proportionality), [Ecological Footprint](core_05_band_continuity.md#ecological-footprint), [Sustainability](core_05_band_continuity.md#sustainability), [Shared-System Capacity](core_05_band_continuity.md#shared-system-capacity-constitutional), [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional), and [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold-constitutional).
+- Read with: [Cross-System Extraction](core_05_band_continuity.md#cross-system-extraction), [Dependency](core_05_band_continuity.md#dependency), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), [Proportionality](core_05_band_accountability.md#proportionality), [Ecological Footprint](core_05_band_continuity.md#ecological-footprint), [Sustainability](core_05_band_continuity.md#sustainability), [Shared-System Capacity](core_05_band_continuity.md#shared-system-capacity-constitutional), [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional), and [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold-constitutional).
 
 </details>
 
@@ -2119,13 +2177,14 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - long-term sustainability.
 
     Adequacy is evaluated under [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) and [Proportionality](core_05_band_accountability.md#proportionality), and scaled to:
-    - criticality of the shared or foundational dependency;
+    - criticality of the shared or foundational dependency, shown by its [system class](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) where one is assigned;
     - [Dependency](core_05_band_continuity.md#dependency) asymmetry between extracting and supporting systems;
     - substitutability of the relied-on function;
+    - availability of alternatives to it;
     - [Ecological Footprint](core_05_band_continuity.md#ecological-footprint) where material; and
     - long-term [Sustainability](core_05_band_continuity.md#sustainability).
 
-    **Corresponding support** under **Article IV-B** (*Cross-System Fairness and Sustainability*) means support that reaches substantive adequacy under this entry. This entry does not prescribe:
+    This entry is the support **Article IV-B** (*Cross-System Fairness and Sustainability*) requires of systems that extract from shared foundations. It does not prescribe:
     - equal splits;
     - fixed percentages; or
     - a single funding model.
@@ -2138,9 +2197,9 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 
     **Primary assessment:** Reach substantive adequacy, not formal labeling or one-off transfers. Compare documented inflows and outflows on dependent-systems maps and auditable resource-flow records under **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) against the burden imposed on the shared or foundational dependency. At minimum, evaluate whether support includes, where material:
     - continuity of operations — keeping the shared or foundational dependency running under ordinary load;
-    - remedy and resilience capacity — capacity to repair, restore, and absorb shock when the dependency fails or degrades;
-    - ecosystem reinvestment — resources returned to the shared layer that other systems rely on; and
-    - ecological burden offset — where material [Ecological Footprint](core_05_band_continuity.md#ecological-footprint) is imposed, documented offset adequate to the burden.
+    - remedy and resilience capacity — capacity to repair, restore, and absorb shock when the dependency fails or degrades, where extraction materially increases collective harm risk;
+    - ecosystem reinvestment — resources returned to the shared infrastructure and interoperability layer that the extracting system and other systems rely on; and
+    - ecological burden offset or restoration — where material [Ecological Footprint](core_05_band_continuity.md#ecological-footprint) is imposed and another constitutional provision, implementation file, or adoption instrument requires action, documented offset or restoration adequate to the burden.
   - **Secondary measure:** co-measures that can defeat adequacy even when transfers are formally documented:
     - [Dependency](core_05_band_continuity.md#dependency);
     - [Ecological Footprint](core_05_band_continuity.md#ecological-footprint);
@@ -2148,7 +2207,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional).
 
     **Secondary assessment:** When evaluating the primary trace, scale required support to:
-    - criticality of the shared or foundational dependency;
+    - criticality of the shared or foundational dependency, shown by its system class where one is assigned;
     - dependency asymmetry between extracting and supporting systems;
     - substitutability of the relied-on function — whether relying systems have a viable alternative, and at what cost, delay, and loss of function;
     - ecological footprint where material; and
@@ -2157,7 +2216,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     Where materially impactful systems allocate, route, fund, or extract from shared infrastructure, evaluate adequacy through [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) on a contestable record, not operator assertion alone.
 <a id="proportionate-cross-system-support-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** persistent extraction from shared infrastructure or foundational dependencies without proportionate cross-system contribution, including treating as satisfying this entry:
+  - **Primary failure:** persistent [Cross-System Extraction](core_05_band_continuity.md#cross-system-extraction) from shared infrastructure or foundational dependencies without proportionate cross-system support, including treating as satisfying this entry:
     - one-time transfers;
     - symbolic or press-release support;
     - opaque transfers that cannot be audited; or
@@ -2167,7 +2226,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
   - **Secondary failure:**
     - support flows that mainly entrench capture or concentration;
     - support conditioned to defeat **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) transparency; or
-    - reading this entry as satisfied by survival-floor or non-concentration compliance alone where cross-system extraction remains materially imbalanced.
+    - reading this entry as satisfied because a system meets the [Article III-A](core_06_rights_part_a.md#article-iii-a-survival) (*Survival*) survival floor or stays within [Chapter One §14 Market Structure](core_01_c_stewardship_capacity_principles.md#14-market-structure) market-concentration limits, where cross-system extraction remains materially imbalanced.
 
 ---
 

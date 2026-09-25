@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-09-24T16:43:43+00:00",
+  "generated_at": "2026-09-25T22:52:10+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -2965,70 +2965,70 @@
       "file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
       "anchor": "#cs-8-1-purpose-and-role",
       "heading": "CS-8.1 Purpose and role",
-      "line": 41,
+      "line": 42,
       "kind": "section"
     },
     "CS-8.10": {
       "file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
       "anchor": "#cs-8-10-regenerative-alignment-circular-material-flows-and-bioregional-stewardship-implementation-profile",
       "heading": "CS-8.10 Regenerative alignment, circular material flows, and bioregional stewardship (implementation profile)",
-      "line": 209,
+      "line": 210,
       "kind": "section"
     },
     "CS-8.2": {
       "file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
       "anchor": "#cs-8-2-system-health-and-degradation-awareness",
       "heading": "CS-8.2 System health and degradation awareness",
-      "line": 50,
+      "line": 51,
       "kind": "section"
     },
     "CS-8.3": {
       "file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
       "anchor": "#cs-8-3-adaptive-allocation-requirement",
       "heading": "CS-8.3 Adaptive allocation requirement",
-      "line": 70,
+      "line": 71,
       "kind": "section"
     },
     "CS-8.4": {
       "file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
       "anchor": "#cs-8-4-ecosystem-interdependence",
       "heading": "CS-8.4 Ecosystem interdependence",
-      "line": 124,
+      "line": 125,
       "kind": "section"
     },
     "CS-8.5": {
       "file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
       "anchor": "#cs-8-5-ecosystem-risk-response",
       "heading": "CS-8.5 Ecosystem risk response",
-      "line": 150,
+      "line": 151,
       "kind": "section"
     },
     "CS-8.6": {
       "file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
       "anchor": "#cs-8-6-anti-concentration-and-resilience",
       "heading": "CS-8.6 Anti-concentration and resilience",
-      "line": 168,
+      "line": 169,
       "kind": "section"
     },
     "CS-8.7": {
       "file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
       "anchor": "#cs-8-7-transparency-and-feedback",
       "heading": "CS-8.7 Transparency and feedback",
-      "line": 177,
+      "line": 178,
       "kind": "section"
     },
     "CS-8.8": {
       "file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
       "anchor": "#cs-8-8-governance-integration",
       "heading": "CS-8.8 Governance integration",
-      "line": 186,
+      "line": 187,
       "kind": "section"
     },
     "CS-8.9": {
       "file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
       "anchor": "#cs-8-9-self-healing-and-recovery-path-integration",
       "heading": "CS-8.9 Self-healing and recovery-path integration",
-      "line": 193,
+      "line": 194,
       "kind": "section"
     },
     "CS-9": {
@@ -3043,147 +3043,147 @@
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-1-purpose-and-role",
       "heading": "CS-9.1 Purpose and role",
-      "line": 42,
+      "line": 43,
       "kind": "section"
     },
     "CS-9.10": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-10-evolution-of-funding-models",
       "heading": "CS-9.10 Evolution of funding models",
-      "line": 211,
+      "line": 212,
       "kind": "section"
     },
     "CS-9.11": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-11-default-funding-allocation-models",
       "heading": "CS-9.11 Default funding allocation models",
-      "line": 242,
+      "line": 243,
       "kind": "section"
     },
     "CS-9.12": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-12-reference-allocation-guidance",
       "heading": "CS-9.12 Reference allocation guidance",
-      "line": 261,
+      "line": 262,
       "kind": "section"
     },
     "CS-9.13": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-13-substrate-system-funding",
       "heading": "CS-9.13 Substrate system funding",
-      "line": 279,
+      "line": 280,
       "kind": "section"
     },
     "CS-9.14": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-14-non-substrate-systems",
       "heading": "CS-9.14 Non-substrate systems",
-      "line": 295,
+      "line": 296,
       "kind": "section"
     },
     "CS-9.15": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-15-stakeholder-governance-of-funding",
       "heading": "CS-9.15 Stakeholder System Participation in funding",
-      "line": 307,
+      "line": 308,
       "kind": "section"
     },
     "CS-9.16": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-16-trigger-definitions",
       "heading": "CS-9.16 Trigger definitions",
-      "line": 321,
+      "line": 322,
       "kind": "section"
     },
     "CS-9.17": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-17-triggering-review-and-challenge",
       "heading": "CS-9.17 Triggering review and challenge",
-      "line": 328,
+      "line": 329,
       "kind": "section"
     },
     "CS-9.18": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-18-due-process-in-funding-changes",
       "heading": "CS-9.18 Due process in funding changes",
-      "line": 344,
+      "line": 345,
       "kind": "section"
     },
     "CS-9.19": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-19-steward-operator-and-governance-remuneration-incentive-governance",
       "heading": "CS-9.19 Steward, operator, and governance remuneration (incentive governance)",
-      "line": 357,
+      "line": 358,
       "kind": "section"
     },
     "CS-9.2": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-2-principles-of-funding",
       "heading": "CS-9.2 Principles of funding",
-      "line": 59,
+      "line": 60,
       "kind": "section"
     },
     "CS-9.20": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-20-conflict-free-remuneration-processes",
       "heading": "CS-9.20 Conflict-free remuneration processes",
-      "line": 366,
+      "line": 367,
       "kind": "section"
     },
     "CS-9.21": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-21-observability-of-alignment",
       "heading": "CS-9.21 Observability of alignment",
-      "line": 381,
+      "line": 382,
       "kind": "section"
     },
     "CS-9.3": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-3-cross-system-resource-flows-and-dependencies",
       "heading": "CS-9.3 Cross-system resource flows and dependencies",
-      "line": 74,
+      "line": 75,
       "kind": "section"
     },
     "CS-9.4": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-4-dependent-systems-map",
       "heading": "CS-9.4 Dependent systems map",
-      "line": 102,
+      "line": 103,
       "kind": "section"
     },
     "CS-9.5": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-5-transparency-of-resource-flows",
       "heading": "CS-9.5 Transparency of resource flows",
-      "line": 120,
+      "line": 121,
       "kind": "section"
     },
     "CS-9.6": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-6-prevention-of-funding-based-capture",
       "heading": "CS-9.6 Prevention of funding-based capture",
-      "line": 134,
+      "line": 135,
       "kind": "section"
     },
     "CS-9.7": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-7-required-allocation-categories",
       "heading": "CS-9.7 Required allocation categories",
-      "line": 149,
+      "line": 150,
       "kind": "section"
     },
     "CS-9.8": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-8-bounded-builder-returns",
       "heading": "CS-9.8 Bounded builder returns",
-      "line": 170,
+      "line": 171,
       "kind": "section"
     },
     "CS-9.9": {
       "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
       "anchor": "#cs-9-9-stability-of-funding-agreements",
       "heading": "CS-9.9 Stability of funding agreements",
-      "line": 192,
+      "line": 193,
       "kind": "section"
     },
     "Def.A1": {
@@ -3218,28 +3218,28 @@
       "file": "core_05_band_continuity.md",
       "anchor": "#defc1",
       "heading": "Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
-      "line": 2928,
+      "line": 2987,
       "kind": "cluster"
     },
     "Def.C2": {
       "file": "core_05_band_continuity.md",
       "anchor": "#defc2",
       "heading": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
-      "line": 3426,
+      "line": 3486,
       "kind": "cluster"
     },
     "Def.C3": {
       "file": "core_05_band_continuity.md",
       "anchor": "#defc3",
       "heading": "Def.C3 Privacy (Informational) — peer-level cluster head",
-      "line": 3809,
+      "line": 3869,
       "kind": "cluster"
     },
     "Def.C4": {
       "file": "core_05_band_continuity.md",
       "anchor": "#defc4",
       "heading": "Def.C4 Trust and Trustworthiness",
-      "line": 4020,
+      "line": 4080,
       "kind": "cluster"
     },
     "Def.I1": {
@@ -4034,8 +4034,8 @@
       "term": "Anti-Capture",
       "file": "core_05_band_continuity.md",
       "anchor": "#anti-capture",
-      "line_start": 2351,
-      "line_end": 2415
+      "line_start": 2410,
+      "line_end": 2474
     },
     {
       "term": "Anti-Constitutional Misconduct Review",
@@ -4048,8 +4048,8 @@
       "term": "Anti-Displacement Floor",
       "file": "core_05_band_continuity.md",
       "anchor": "#anti-displacement-floor-constitutional",
-      "line_start": 3353,
-      "line_end": 3425
+      "line_start": 3413,
+      "line_end": 3485
     },
     {
       "term": "Assembly",
@@ -4125,8 +4125,8 @@
       "term": "Bodily-Maintenance Access",
       "file": "core_05_band_continuity.md",
       "anchor": "#bodily-maintenance-access-constitutional",
-      "line_start": 2666,
-      "line_end": 2722
+      "line_start": 2725,
+      "line_end": 2781
     },
     {
       "term": "Burden-Reduction Duty",
@@ -4167,8 +4167,8 @@
       "term": "Charter",
       "file": "core_05_band_continuity.md",
       "anchor": "#charter",
-      "line_start": 2540,
-      "line_end": 2596
+      "line_start": 2599,
+      "line_end": 2655
     },
     {
       "term": "Classification-Scaled Governance",
@@ -4335,8 +4335,15 @@
       "term": "Creative Work Attribution",
       "file": "core_05_band_continuity.md",
       "anchor": "#creative-work-attribution-constitutional",
-      "line_start": 3226,
-      "line_end": 3296
+      "line_start": 3286,
+      "line_end": 3356
+    },
+    {
+      "term": "Cross-System Extraction",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#cross-system-extraction",
+      "line_start": 2097,
+      "line_end": 2154
     },
     {
       "term": "Cruelty",
@@ -4356,8 +4363,8 @@
       "term": "Dependency",
       "file": "core_05_band_continuity.md",
       "anchor": "#dependency",
-      "line_start": 2027,
-      "line_end": 2095
+      "line_start": 2028,
+      "line_end": 2096
     },
     {
       "term": "Derived Sentient",
@@ -4384,8 +4391,8 @@
       "term": "Distributed Understanding",
       "file": "core_05_band_continuity.md",
       "anchor": "#distributed-understanding-constitutional",
-      "line_start": 3551,
-      "line_end": 3607
+      "line_start": 3611,
+      "line_end": 3667
     },
     {
       "term": "Due Process",
@@ -4503,8 +4510,8 @@
       "term": "Fair Compensation",
       "file": "core_05_band_continuity.md",
       "anchor": "#fair-compensation-constitutional",
-      "line_start": 2991,
-      "line_end": 3057
+      "line_start": 3050,
+      "line_end": 3117
     },
     {
       "term": "Family and Care Relationships",
@@ -4678,8 +4685,8 @@
       "term": "Identity Data Protection",
       "file": "core_05_band_continuity.md",
       "anchor": "#identity-data-protection",
-      "line_start": 3948,
-      "line_end": 3968
+      "line_start": 4008,
+      "line_end": 4028
     },
     {
       "term": "Incentive Alignment",
@@ -4720,8 +4727,8 @@
       "term": "Indigenous Continuity",
       "file": "core_05_band_continuity.md",
       "anchor": "#indigenous-continuity-constitutional",
-      "line_start": 2800,
-      "line_end": 2862
+      "line_start": 2859,
+      "line_end": 2921
     },
     {
       "term": "Info-Sphere",
@@ -4783,15 +4790,15 @@
       "term": "Language, Culture, and Heritage",
       "file": "core_05_band_continuity.md",
       "anchor": "#language-culture-and-heritage-constitutional",
-      "line_start": 2863,
-      "line_end": 2927
+      "line_start": 2922,
+      "line_end": 2986
     },
     {
       "term": "Leisure and Rest",
       "file": "core_05_band_continuity.md",
       "anchor": "#leisure-and-rest-constitutional",
-      "line_start": 3123,
-      "line_end": 3184
+      "line_start": 3183,
+      "line_end": 3244
     },
     {
       "term": "Lifespan Equivalent Unit (LEQU)",
@@ -4804,8 +4811,8 @@
       "term": "Likeness and Documentary Depiction Interface",
       "file": "core_05_band_continuity.md",
       "anchor": "#likeness-and-documentary-depiction-interface-constitutional",
-      "line_start": 3185,
-      "line_end": 3225
+      "line_start": 3245,
+      "line_end": 3285
     },
     {
       "term": "Market Concentration Threshold",
@@ -4979,8 +4986,8 @@
       "term": "Occupancy Continuity",
       "file": "core_05_band_continuity.md",
       "anchor": "#occupancy-continuity-constitutional",
-      "line_start": 2723,
-      "line_end": 2781
+      "line_start": 2782,
+      "line_end": 2840
     },
     {
       "term": "Oversight",
@@ -5028,8 +5035,8 @@
       "term": "Privacy (Informational)",
       "file": "core_05_band_continuity.md",
       "anchor": "#privacy-informational",
-      "line_start": 3848,
-      "line_end": 3901
+      "line_start": 3908,
+      "line_end": 3961
     },
     {
       "term": "Procedural Fairness",
@@ -5053,11 +5060,11 @@
       "line_end": 203
     },
     {
-      "term": "Proportionate Cross-System Contribution",
+      "term": "Proportionate Cross-System Support",
       "file": "core_05_band_continuity.md",
       "anchor": "#proportionate-cross-system-support-constitutional",
-      "line_start": 2096,
-      "line_end": 2175
+      "line_start": 2155,
+      "line_end": 2234
     },
     {
       "term": "Protected Characteristic Proxying and Disparate Impact",
@@ -5084,8 +5091,8 @@
       "term": "Protected Internal-State Boundary",
       "file": "core_05_band_continuity.md",
       "anchor": "#protected-internal-state-boundary-constitutional",
-      "line_start": 3902,
-      "line_end": 3947
+      "line_start": 3962,
+      "line_end": 4007
     },
     {
       "term": "Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention",
@@ -5203,8 +5210,8 @@
       "term": "Review and Correction Duty",
       "file": "core_05_band_continuity.md",
       "anchor": "#review-and-correction-duty-constitutional",
-      "line_start": 3768,
-      "line_end": 3808
+      "line_start": 3828,
+      "line_end": 3868
     },
     {
       "term": "Risk",
@@ -5231,8 +5238,8 @@
       "term": "Safe Conditions",
       "file": "core_05_band_continuity.md",
       "anchor": "#safe-conditions-constitutional",
-      "line_start": 3058,
-      "line_end": 3122
+      "line_start": 3118,
+      "line_end": 3182
     },
     {
       "term": "Safety (Constraint)",
@@ -5301,8 +5308,8 @@
       "term": "Short-Horizon Governance Defect",
       "file": "core_05_band_continuity.md",
       "anchor": "#short-horizon-governance-defect-constitutional",
-      "line_start": 3664,
-      "line_end": 3708
+      "line_start": 3724,
+      "line_end": 3768
     },
     {
       "term": "Single Catastrophic Incident",
@@ -5378,22 +5385,22 @@
       "term": "Stewardship",
       "file": "core_05_band_continuity.md",
       "anchor": "#stewardship-constitutional",
-      "line_start": 3492,
-      "line_end": 3550
+      "line_start": 3552,
+      "line_end": 3610
     },
     {
       "term": "Stewardship Defect",
       "file": "core_05_band_continuity.md",
       "anchor": "#stewardship-defect-constitutional",
-      "line_start": 3709,
-      "line_end": 3767
+      "line_start": 3769,
+      "line_end": 3827
     },
     {
       "term": "Strategic Stewardship Obligation",
       "file": "core_05_band_continuity.md",
       "anchor": "#strategic-stewardship-obligation-constitutional",
-      "line_start": 3608,
-      "line_end": 3663
+      "line_start": 3668,
+      "line_end": 3723
     },
     {
       "term": "Substantive Fairness",
@@ -5413,8 +5420,8 @@
       "term": "Surveillance Boundary",
       "file": "core_05_band_continuity.md",
       "anchor": "#surveillance-boundary",
-      "line_start": 3969,
-      "line_end": 4019
+      "line_start": 4029,
+      "line_end": 4079
     },
     {
       "term": "Sustainability",
@@ -5434,8 +5441,8 @@
       "term": "System",
       "file": "core_05_band_continuity.md",
       "anchor": "#system-definition",
-      "line_start": 2437,
-      "line_end": 2471
+      "line_start": 2496,
+      "line_end": 2530
     },
     {
       "term": "System Alignment Certification",
@@ -5448,22 +5455,22 @@
       "term": "System Boundaries",
       "file": "core_05_band_continuity.md",
       "anchor": "#system-boundaries",
-      "line_start": 2472,
-      "line_end": 2503
+      "line_start": 2531,
+      "line_end": 2562
     },
     {
       "term": "System Boundary Integrity",
       "file": "core_05_band_continuity.md",
       "anchor": "#system-boundary-integrity",
-      "line_start": 2504,
-      "line_end": 2539
+      "line_start": 2563,
+      "line_end": 2598
     },
     {
       "term": "System Capture",
       "file": "core_05_band_continuity.md",
       "anchor": "#system-capture",
-      "line_start": 2300,
-      "line_end": 2350
+      "line_start": 2359,
+      "line_end": 2409
     },
     {
       "term": "System Certification Record",
@@ -5497,22 +5504,22 @@
       "term": "Systemic",
       "file": "core_05_band_continuity.md",
       "anchor": "#systemic",
-      "line_start": 2196,
-      "line_end": 2250
+      "line_start": 2255,
+      "line_end": 2309
     },
     {
       "term": "Systemic Lock-In",
       "file": "core_05_band_continuity.md",
       "anchor": "#systemic-lock-in",
-      "line_start": 2597,
-      "line_end": 2645
+      "line_start": 2656,
+      "line_end": 2704
     },
     {
       "term": "Systemic Materiality",
       "file": "core_05_band_continuity.md",
       "anchor": "#systemic-materiality",
-      "line_start": 2251,
-      "line_end": 2299
+      "line_start": 2310,
+      "line_end": 2358
     },
     {
       "term": "Timeliness",
@@ -5532,8 +5539,8 @@
       "term": "Training-Data Use",
       "file": "core_05_band_continuity.md",
       "anchor": "#training-data-use-constitutional",
-      "line_start": 3297,
-      "line_end": 3352
+      "line_start": 3357,
+      "line_end": 3412
     },
     {
       "term": "Transparency",
@@ -5546,22 +5553,22 @@
       "term": "Trust",
       "file": "core_05_band_continuity.md",
       "anchor": "#trust",
-      "line_start": 4069,
-      "line_end": 4103
+      "line_start": 4129,
+      "line_end": 4163
     },
     {
       "term": "Trust Degradation and Misleading Reliance",
       "file": "core_05_band_continuity.md",
       "anchor": "#trust-degradation-and-misleading-reliance",
-      "line_start": 4170,
-      "line_end": 4269
+      "line_start": 4230,
+      "line_end": 4329
     },
     {
       "term": "Trustworthiness",
       "file": "core_05_band_continuity.md",
       "anchor": "#trustworthiness",
-      "line_start": 4104,
-      "line_end": 4169
+      "line_start": 4164,
+      "line_end": 4229
     },
     {
       "term": "Truth (Constitutional Constraint)",
@@ -5675,7 +5682,7 @@
       "rights_floor_ambiguity",
       "comprehensibility",
       "market_structure",
-      "cross_system_contribution",
+      "cross_system_support",
       "delay"
     ],
     "cases": [
@@ -5755,8 +5762,8 @@
         "next_step_class": "invalidate_nullifying_threshold_and_restore_review"
       },
       {
-        "id": "cross_system_contribution",
-        "card_anchor": "cross-system-contribution",
+        "id": "cross_system_support",
+        "card_anchor": "cross-system-support",
         "next_step_class": "compare_mapped_flows_against_adequacy_failures"
       },
       {

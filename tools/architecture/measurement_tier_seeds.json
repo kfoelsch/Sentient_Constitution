@@ -168,7 +168,12 @@
       "tier_depth": "primary_secondary",
       "status": "approved"
     },
-    "Proportionate Cross-System Contribution": {
+    "Proportionate Cross-System Support": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Cross-System Extraction": {
       "ch00_category": "3.3 Continuity",
       "tier_depth": "primary_secondary",
       "status": "approved"

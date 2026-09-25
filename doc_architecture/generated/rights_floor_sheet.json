@@ -162,23 +162,23 @@
       "file": "core_06_rights_part_a.md",
       "anchor": "article-iv-resource-allocation-dependencies-and-ecosystem-funding",
       "line": 1012,
-      "plain_terms": "**Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) is the shared-resources Rights Floor — resource flows among interdependent systems must stay visible, fair, and sustainable so **Flourishing** is not defeated by hidden extraction or dependency capture, and **Continuity** is not defeated by persistent imbalance, opaque routing, or underfunding of shared infrastructure.",
+      "plain_terms": "**Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) is about sharing the load fairly. Many systems lean on the same underlying infrastructure — networks, open tools, public services, shared data and computing power. Everyone who relies on that infrastructure should be able to see where the money and resources go, and those who take a lot from it should help keep it running. This is the Rights Floor for shared resources.",
       "href": "../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding"
     },
     {
       "title": "Article IV-A: Dependency Mapping and Resource-Flow Transparency",
       "file": "core_06_rights_part_a.md",
       "anchor": "article-iv-a-dependency-mapping-and-resource-flow-transparency",
-      "line": 1050,
-      "plain_terms": "systems must keep an honest, up-to-date picture of what they rely on, what flows in and out, and where relationships are one-sided or opaque when that matters—so funders, auditors, and affected parties can see who bears the costs and who captures the benefits.",
+      "line": 1057,
+      "plain_terms": "systems must keep an honest, up-to-date picture of what they rely on, who relies on them, where money and resources flow, and where relationships are one-sided or hidden. System Alignment Certification is where that picture is checked, so funders, auditors, and affected parties can see who bears the costs and who captures the benefits.",
       "href": "../../core_06_rights_part_a.md#article-iv-a-dependency-mapping-and-resource-flow-transparency"
     },
     {
       "title": "Article IV-B: Cross-System Fairness and Sustainability",
       "file": "core_06_rights_part_a.md",
       "anchor": "article-iv-b-cross-system-fairness-and-sustainability",
-      "line": 1084,
-      "plain_terms": "split shared money and capacity with attention to who is truly dependent, who has real alternatives, environmental burden, and whether use can last—not mainly to whoever wins in the short run. Heavy users of shared foundations must not keep pulling value out without [Proportionate Cross-System Contribution](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional). When arrangements concentrate wealth, power, control, or opportunity in ways that predictably harm others' wellbeing, agency, dignity, or ecological integrity, Chapter One non-concentration rules and adopter-tunable thresholds add further scrutiny. That scrutiny is extra; it does not replace dependency mapping or excuse neglect of cross-system fairness.",
+      "line": 1105,
+      "plain_terms": "systems that lean heavily on shared foundations must put enough back to keep them running, in real and traceable resources, not gestures. Shared money and capacity should be split with attention to who is truly dependent, who has real alternatives, environmental burden, and whether use can last, not mainly to whoever wins in the short run. [System Alignment Certification](../../core_05_band_continuity.md#system-alignment-certification-constitutional) is where this is checked: certification compares what a system takes from shared infrastructure with what it gives back, using the maps and flow records that **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) requires. Where arrangements concentrate wealth, power, control, or opportunity in ways that harm others, Chapter One non-concentration rules add further scrutiny on top.",
       "href": "../../core_06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability"
     },
     {

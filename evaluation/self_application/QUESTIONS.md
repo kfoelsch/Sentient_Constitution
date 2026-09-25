@@ -103,11 +103,11 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 ---
 
-### 10. Cross-system contribution
+### 10. Cross-system support
 
 **Ask:** Do heavy users of shared foundations have to contribute back, rather than extracting without proportionate support?
 
-**Named homes (start here):** [Proportionate Cross-System Contribution](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional); Continuity measurement family (dependency and resource flows).
+**Named homes (start here):** [Proportionate Cross-System Support](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional); Continuity measurement family (dependency and resource flows).
 
 ---
 

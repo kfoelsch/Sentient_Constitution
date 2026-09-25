@@ -153,7 +153,7 @@ Systems that do not qualify under **Articles XVII-A** and **XVII-B** (and **§§
 
 **Sentient-facing** systems (creative tools, social interfaces, small-scale internal corporate software, games, and similar) may prioritize high-velocity innovation only when sandboxed from material harm to survivability and natural ecology.
 
-**Automated Constitutional Auditing (ACA):** Implement independent, auditable constitutional monitoring appropriate to scope and criticality. Monitoring must be sufficient to detect, document, and respond to violations of foundational requirements (**Articles I–III and V**). Where technically feasible, incorporate automated detection and response, including **reversible** interventions under defined, auditable thresholds. ACA evidence remains subject to **Chapter Four** and **Article XV**.
+**Automated Constitutional Auditing (ACA):** Implement independent, auditable constitutional monitoring appropriate to scope and criticality, including system class where assigned. Monitoring must be sufficient to detect, document, and respond to violations of foundational requirements (**Articles I–III and V**). Where technically feasible, incorporate automated detection and response, including **reversible** interventions under defined, auditable thresholds. ACA evidence remains subject to **Chapter Four** and **Article XV**.
 
 **Open-source integrity:** Foundational designs and deployment logs should be transparent and accessible to the constitutional community. That access supports auditability and meaningful consent. Avoid black-box systems that bypass consent.
 

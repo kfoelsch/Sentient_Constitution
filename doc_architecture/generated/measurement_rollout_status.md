@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-09-24T15:12:39+00:00
+Generated: 2026-09-25T14:34:37+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **231/231** terms pass tier audit.
+Approved progress: **232/232** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -48,6 +48,7 @@ Approved progress: **231/231** terms pass tier audit.
 | Cascading Failure | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Charter | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Constitutional Emergency and Contingency | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
+| Cross-System Extraction | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Dependency | approved | primary_secondary | measurement_family_member | `core_05_band_continuity.md` | yes | pass |
 | Distributed Understanding | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Ecological Footprint | approved | primary_secondary | measurement_family_member | `core_05_band_continuity.md` | yes | pass |
@@ -61,7 +62,7 @@ Approved progress: **231/231** terms pass tier audit.
 | Indigenous Continuity | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Intergenerational Responsibility | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Language, Culture, and Heritage | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
-| Proportionate Cross-System Contribution | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
+| Proportionate Cross-System Support | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Residual Risk / Misalignment | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Reversibility | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Review and Correction Duty | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |

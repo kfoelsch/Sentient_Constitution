@@ -117,7 +117,7 @@
       "href": "../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction"
     }
   ],
-  "term_count": 237,
+  "term_count": 238,
   "terms": [
     {
       "term": "Accessibility",
@@ -461,6 +461,13 @@
       "anchor": "#creative-work-attribution-constitutional",
       "plain_terms": null,
       "href": "../../core_05_band_continuity.md#creative-work-attribution-constitutional"
+    },
+    {
+      "term": "Cross-System Extraction",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#cross-system-extraction",
+      "plain_terms": "taking from shared infrastructure that others also need — money, compute, connectivity, upkeep work, or capacity — without putting back enough to keep it working. It asks who benefits from shared foundations and who pays to sustain them, not what a system does with data.",
+      "href": "../../core_05_band_continuity.md#cross-system-extraction"
     },
     {
       "term": "Cruelty",
@@ -1177,7 +1184,7 @@
       "href": "../../core_05_band_accountability.md#proportionality"
     },
     {
-      "term": "Proportionate Cross-System Contribution",
+      "term": "Proportionate Cross-System Support",
       "file": "core_05_band_continuity.md",
       "anchor": "#proportionate-cross-system-support-constitutional",
       "plain_terms": "when a system keeps drawing value from shared foundations other sentients or systems depend on, it must put enough back — in real, traceable resources — to keep those foundations running, auditable, and repairable. A one-time grant or a press release is not support.",

@@ -1046,7 +1046,7 @@ These requirements keep shared infrastructure, and everyone who depends on it, f
 
 - **When certification applies:** A system with significant impact that divides up, routes, funds, or draws from shared infrastructure or core dependencies that other systems or sentients rely on must go through [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
   - **Class sets the depth:** How closely the system is examined depends on its [system class](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation). Class is set by what the system actually does, how much others depend on it, and how much could go wrong — not by what its operator calls it.
-  - **Higher class, more proof:** The higher the class, the stronger the proof the system must give that it [pays its fair share back](core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-contribution-evaluation), and the more often it is re-checked.
+  - **Higher class, more proof:** The higher the class, the stronger the proof the system must give that it [pays its fair share back](core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation), and the more often it is re-checked.
   - **Growth means reclassification:** If others come to depend on the system more heavily, it must be reclassified and certified again at the higher class.
 - **Staying certified:** Certification is not a permanent pass. To keep it, a system must keep meeting **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article IV-B** (*Cross-System Fairness and Sustainability*).
   - **What it must keep doing:** Keep its maps of who depends on it and its records of where resources flow up to date, and keep giving back fairly for what it uses.
@@ -1087,9 +1087,9 @@ This Article sets the floor for dependency mapping and resource-flow transparenc
 - **When certification checks them:** Where a system materially allocates, routes, funds, or extracts from shared infrastructure or foundational dependencies, certification must verify its maps and flow records against this Article.
   - **Every cycle:** at each certification, recertification, and revalidation, on a cadence set by the system's [system class](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation);
   - **When things change:** whenever dependencies grow or resource flows materially change, which [reopens review](core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion).
-- **What certification must verify:** Before relying on the maps and flow records ([Chapter Eight §6](core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-contribution-evaluation)), certification must confirm that they are:
+- **What certification must verify:** Before relying on the maps and flow records ([Chapter Eight §6](core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation)), certification must confirm that they are:
   - **Complete:** they cover all three items above;
-  - **Current:** they are updated as often as the system's rate of change and criticality require, and show the system as it runs now, not as it ran at the last certification;
+  - **Current:** they are updated as often as the system's rate of change and criticality (including its system class, where assigned) require, and show the system as it runs now, not as it ran at the last certification;
   - **Auditable:** they are available for audit under **Article XV-A** (*Auditability and Observable Evidence*);
   - **Backed by evidence:** they are judged on what the maps and documented flows actually show, not on the operator's assertions, labels, or one-off transfers.
 - **How certification must do it:**
@@ -1107,10 +1107,9 @@ This Article sets the floor for dependency mapping and resource-flow transparenc
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Read with: [*Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (joint invocation where concentration, oversight, dependency, governing-authority structure, or incentive routing intersect **§5** / **§5** and the *Concentration-threshold interaction* discipline in the operative text below).
+- Read with: [*Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) where concentration, oversight, dependency, governing-authority structure, or incentive routing intersect with resource allocation; [Chapter One §14 Market Structure](core_01_c_stewardship_capacity_principles.md#14-market-structure), [§14.1 Market Concentration Threshold Mechanism](core_01_c_stewardship_capacity_principles.md#141-market-concentration-threshold-mechanism-adopter-tunable), and [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold-constitutional) where allocation arrangements produce or preserve concentration that predictably degrades wellbeing, agency, dignity, or ecological integrity. That scrutiny is added on top of this Article; it does not replace or narrow it.
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in challenge and contest pathways, **oversight** and audit, **accountability** and corrective review, **timeliness** under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** (cross-system fairness and non-extraction) and **Continuity** (long-term sustainability and ecosystem funding).
-- Downstream: [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) and [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) where cross-system fairness, ecosystem funding, or persistent extraction from shared infrastructure is materially at issue.
-- Steward door (non-operative): Binding next-step statement: [Operative steward statement](#operative-steward-statement-cross-system-contribution). Support pointers cannot narrow it.
+- Downstream: [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) and [Chapter Eight §6 Proportionate Cross-System Support Evaluation](core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) (*what certification must verify and record*) where cross-system fairness, ecosystem funding, or persistent extraction from shared infrastructure is materially at issue; [**CS-9**](corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (*Resource allocation and funding stewardship*) and [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*Adaptive sustainability and ecosystem resilience*) (*allocation categories, reauthorization mechanics, and numeric targets*).
 
 </details>
 
@@ -1118,7 +1117,8 @@ This Article sets the floor for dependency mapping and resource-flow transparenc
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
 - [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [Proportionate Cross-System Contribution](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) · [O](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) · [M](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [A](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [C](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-c)
+- [Cross-System Extraction](core_05_band_continuity.md#cross-system-extraction) · [O](core_05_band_continuity.md#cross-system-extraction) · [M](core_05_band_continuity.md#cross-system-extraction-a) · [A](core_05_band_continuity.md#cross-system-extraction-a) · [C](core_05_band_continuity.md#cross-system-extraction-c)
+- [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) · [O](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) · [M](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [A](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [C](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-c)
 - [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [Materiality Determination](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [Ecological Footprint](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
@@ -1128,41 +1128,33 @@ This Article sets the floor for dependency mapping and resource-flow transparenc
 
 <br>
 
-*In plain terms: split shared money and capacity with attention to who is truly dependent, who has real alternatives, environmental burden, and whether use can last—not mainly to whoever wins in the short run. Heavy users of shared foundations must not keep pulling value out without [Proportionate Cross-System Contribution](core_05_band_continuity.md#proportionate-cross-system-support-constitutional). When arrangements concentrate wealth, power, control, or opportunity in ways that predictably harm others' wellbeing, agency, dignity, or ecological integrity, Chapter One non-concentration rules and adopter-tunable thresholds add further scrutiny. That scrutiny is extra; it does not replace dependency mapping or excuse neglect of cross-system fairness.*
+*In plain terms: systems that lean heavily on shared foundations must put enough back to keep them running, in real and traceable resources, not gestures. Shared money and capacity should be split with attention to who is truly dependent, who has real alternatives, environmental burden, and whether use can last, not mainly to whoever wins in the short run. [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is where this is checked: certification compares what a system takes from shared infrastructure with what it gives back, using the maps and flow records that **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) requires. Where arrangements concentrate wealth, power, control, or opportunity in ways that harm others, Chapter One non-concentration rules add further scrutiny on top.*
 
-<a id="operative-steward-statement-cross-system-contribution"></a>
-> **Operative steward statement.** **Owner:** Article IV-B. Definition: Proportionate Cross-System Contribution. Maps: CS-9. **Forbidden move:** Do not treat a press release, a one-time grant, or survival-floor compliance as corresponding support. **Clock:** Compare mapped inflows and outflows now. Do not wait for a later formula.
+This Article sets the minimum rules for sharing the load fairly between systems. It also covers [Cross-System Extraction](core_05_band_continuity.md#cross-system-extraction): when a system uses shared infrastructure that others depend on but does not put enough back to keep it running. [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) is where that floor is verified.
 
-This Article sets out the cross-system fairness floor and the support owed by those who rely on shared foundations:
-
-- **Cross-system fairness:** Funding and allocation must account for:
-  - criticality;
-  - dependency asymmetry;
-  - substitutability;
-  - availability of alternatives;
-  - ecological footprint, including upstream and downstream burden;
-  - long-term sustainability.
-  
-  Systems must not persistently extract from shared infrastructure or foundational dependencies without [Proportionate Cross-System Contribution](core_05_band_continuity.md#proportionate-cross-system-support-constitutional).
-- **Corresponding support:** **Corresponding support** means support that reaches substantive adequacy under [Proportionate Cross-System Contribution](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), evaluated under [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) and [Proportionality](core_05_band_accountability.md#proportionality) and scaled to the factors listed under **Cross-system fairness**. At minimum, evaluate whether documented resource flows include, where material:
-  - continuity of operations for the shared or foundational dependency;
-  - remedy and resilience capacity where extraction materially increases collective harm risk;
-  - ecosystem reinvestment for shared infrastructure and interoperability the extracting system relies on; and
-  - ecological burden offset or restoration where material [Ecological Footprint](core_05_band_continuity.md#ecological-footprint) is imposed and another constitutional provision, implementation file, or adoption instrument requires action.
-  
-  Compare inflows and outflows on dependent-systems maps and auditable resource-flow records under **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*). Where materially impactful systems allocate, route, fund, or extract from shared infrastructure, evaluate adequacy through [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification). Operational allocation mechanics are spelled out in [**CS-9**](corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (*Resource allocation and funding stewardship*) and [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*Adaptive sustainability and ecosystem resilience*).
-  
-  Persistent imbalances that materially threaten constitutional alignment are subject to audit, challenge, and corrective review under **Articles IX, XII, XIV, and XVII**.
-- **Market-concentration-threshold interaction:** Resource-allocation arrangements that produce or preserve concentration of wealth, power, control, or opportunity in ways that predictably degrade wellbeing, agency, dignity, or ecological integrity for other sentients engage:
-  - the **Chapter One §14** (*Market Structure*) **non-concentration floor**;
-  - the **[§14.1 Market Concentration Threshold Mechanism](core_01_c_stewardship_capacity_principles.md#141-market-concentration-threshold-mechanism-adopter-tunable)** discipline.
-  
-  Adopter-tunable operational thresholds are permitted within the floor. Threshold regimes set to nullify the floor are non-compliant. Examples of nullifying regimes:
-  - thresholds that foreseeably never bind;
-  - unused enforcement;
-  - aggregation under federated structures used to evade.
-  
-  The governing rule is [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold-constitutional) in Chapter Five. This bullet only points to the principle-layer discipline; it does not create a new Rights-Floor and does not narrow **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) or **Article IV-B** (*Cross-System Fairness and Sustainability*).
+- **What the floor requires:**
+  - **Fair allocation:** Funding and allocation of shared infrastructure and foundational dependencies must account for:
+    - criticality, shown by the shared infrastructure's [system class](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) where one is assigned;
+    - dependency asymmetry;
+    - substitutability;
+    - availability of alternatives;
+    - ecological footprint, including upstream and downstream burden;
+    - long-term sustainability.
+  - **No persistent extraction:** Systems must not persistently extract. A system that draws on shared foundations must put [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) back; that entry sets what the support must cover and how its adequacy is judged.
+  - **What does not count:** Do not treat a press release, a one-time grant, an opaque transfer, an off-map transfer, or the fact that a system meets the [survival floor](#article-iii-a-survival) or stays within [market-concentration limits](core_01_c_stewardship_capacity_principles.md#14-market-structure) as Proportionate Cross-System Support.
+- **What certification must verify:** Under [Chapter Eight §6 Proportionate Cross-System Support Evaluation](core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation), certification must confirm:
+  - **Maps first:** the dependency maps and resource-flow records meet **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) before any finding relies on them;
+  - **Current flows:** Compare inflows and outflows on dependent-systems maps and auditable resource-flow records under **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) as they stand now. Do not wait for a later allocation formula.
+  - **Adequate return:** return flows reach Proportionate Cross-System Support, tested against the support categories in that entry;
+  - **Fair allocation:** funding and allocation accounted for the **Fair allocation** factors, including whether smaller or more dependent participants bear asymmetric costs;
+  - **Backed by evidence:** findings rest on documented flows and functional effect, not on the operator's assertions, labels, or one-off transfers.
+- **How certification must do it:**
+  - **Scale with system class:** demand stronger evidence from higher-class systems;
+  - **Put findings on the record:** state, on the **System Certification Record**, the trigger relied on, the map and flow scope reviewed, whether the maps met **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*), the extraction and return-flow findings, the support-adequacy and allocation-fairness findings, how uncertain those findings are, and any conditions, reliance limits, or reopening triggers tied to persistent imbalance;
+  - **Stay open to challenge:** keep that record [contestable](core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) by affected parties.
+- **When certification checks it:** Where a system materially allocates, routes, funds, or extracts from shared infrastructure or foundational dependencies, certification evaluates it on the cadence and reopening triggers set in [Chapter Eight §6 Proportionate Cross-System Support Evaluation](core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation).
+- **When support falls short:** Shortfalls are certification defects, with the consequences set in [Chapter Eight §6 Proportionate Cross-System Support Evaluation](core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) and [Chapter Eight Part B §16 Reopening, Misalignment, and Non-Evasion](core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion). Persistent imbalances also remain open to audit under **Article XV-A** (*Auditability and Observable Evidence*) and challenge under [Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*), whether or not a certification is pending.
+- **Between certifications:** These duties do not pause between reviews, and they also bind systems below the certification trigger. Keeping support adequate and flows mapped is what lets the next certification, audit, or challenge rely on them.
 
 ---
 

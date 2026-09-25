@@ -41,7 +41,7 @@
 | Companion or local policy bars challenge, review, or redress | [Contest](#contest) |
 | Affected, cannot find the home, or specialist-only surfaces blocking challenge | [Comprehensibility](#comprehensibility); [plain challenge](#plain-challenge) |
 | Threshold set so high it never binds; winner takes the only door | [Market structure](#market-structure) |
-| Heavy user extracting from shared foundations without putting resources back | [Cross-system contribution](#cross-system-contribution) |
+| Heavy user extracting from shared foundations without putting resources back | [Cross-system support](#cross-system-support) |
 | Delay serving as denial; process or hop count eating the published clock | [Delay](#delay) |
 | Proxy reward for concealment or for hollowing Safety, Truth, auditability, or contest pathways | [Incentive alignment](#incentive-alignment) |
 | Parallel “AI ethics overlay” or a human exemption from the costly cases | [Shared stewardship](#shared-stewardship) |
@@ -298,14 +298,14 @@ Three-layer picture (floor / property / process): [Article XV](../core_06_rights
 
 ---
 
-<a id="cross-system-contribution"></a>
-## Cross-system contribution
+<a id="cross-system-support"></a>
+## Cross-system support
 
 **When:** A system keeps drawing value from shared foundations other sentients depend on. The return is a press release, a one-time grant, an opaque transfer, or “we already meet the survival floor.”
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [Cross-system contribution](../core_06_rights_part_a.md#operative-steward-statement-cross-system-contribution) |
+| **Operative statement** | [Article IV-B](../core_06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability) (no separate box; the Article text is the statement) |
 | **Next-step class** | `compare_mapped_flows_against_adequacy_failures` |
 
 <a id="worked-adequacy-screen"></a>

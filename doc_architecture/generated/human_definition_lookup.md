@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** Term → one-sentence gloss → source. This is a locator, not a second dictionary. Where a gloss and the source differ, the source binds. Official meaning lives on the named Chapter Five home (and Preamble named terms where listed in the start list).
 
-Coverage: **167** of **237** registry terms carry a source gloss.
+Coverage: **168** of **238** registry terms carry a source gloss.
 
 ## Start here
 
@@ -82,6 +82,7 @@ Names someone would actually type. Each row points; it does not replace the defi
 | Contribution Nature | *(no plain-terms gloss in source)* | [Source](../../core_05_band_accountability.md#contribution-nature) |
 | Corpus | the Corpus is the official, versioned set of binding constitutional texts — not drafts, notes, or unofficial copies. | [Source](../../core_05_band_integrative.md#corpus) |
 | Creative Work Attribution | *(no plain-terms gloss in source)* | [Source](../../core_05_band_continuity.md#creative-work-attribution-constitutional) |
+| Cross-System Extraction | taking from shared infrastructure that others also need — money, compute, connectivity, upkeep work, or capacity — without putting back enough to keep it working. It asks who benefits from shared foundations and who pays to sustain them, not what a system does with data. | [Source](../../core_05_band_continuity.md#cross-system-extraction) |
 | Cruelty | cruelty is treatment that makes someone suffer on purpose as the point of the treatment, or that piles on gratuitous or degrading suffering beyond what necessity and proportionality allow. Humiliation for its own sake is one form of that. Ordinary harm, fair consequences that hurt, and lawful restrictions are not automatically cruelty. | [Source](../../core_05_band_accountability.md#cruelty) |
 | Decentralization | put decision-making at the smallest and least centralized level that can still meet every binding safety, truth, oversight, and system-wide requirement. | [Source](../../core_05_band_accountability.md#decentralization) |
 | Dependency | how much a sentient or system relies on another for survival, function, stability, or participation — including chains and one-way dependencies that are hard to see or hard to leave. | [Source](../../core_05_band_continuity.md#dependency) |
@@ -184,7 +185,7 @@ Names someone would actually type. Each row points; it does not replace the defi
 | Procedural Fairness | when a decision affects someone's rights, they get real notice, real reasons, a real chance to be heard, and a real way to challenge or correct it — not theater. | [Source](../../core_05_band_participation.md#procedural-fairness-constitutional) |
 | Productive Capacity | *(no plain-terms gloss in source)* | [Source](../../core_05_band_continuity.md#productive-capacity-constitutional) |
 | Proportionality | restrictions and governance must match the seriousness and likelihood of the harm. Too much control and too little control can both fail this test, and greater power requires stronger accountability and oversight. | [Source](../../core_05_band_accountability.md#proportionality) |
-| Proportionate Cross-System Contribution | when a system keeps drawing value from shared foundations other sentients or systems depend on, it must put enough back — in real, traceable resources — to keep those foundations running, auditable, and repairable. A one-time grant or a press release is not support. | [Source](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) |
+| Proportionate Cross-System Support | when a system keeps drawing value from shared foundations other sentients or systems depend on, it must put enough back — in real, traceable resources — to keep those foundations running, auditable, and repairable. A one-time grant or a press release is not support. | [Source](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) |
 | Protected Characteristic Proxying and Disparate Impact | you cannot dodge nondiscrimination by using a "neutral" rule, correlate, or model feature that still systematically disadvantages protected groups. | [Source](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) |
 | Protected Characteristics | listed traits and statuses — and close stand-ins for them — cannot be used to put sentients, groups, or institutions at a real disadvantage without a strong, justified reason. Consensual private sexual conduct between adults is not a lawful basis for that kind of discrimination. | [Source](../../core_05_band_participation.md#protected-characteristics-constitutional) |
 | Protected Data and Internal-State Publication Constraint | do not publish restricted data or expose another sentient's protected inner cognitive or emotional states. | [Source](../../core_05_band_oversight.md#protected-data-and-internal-state-publication-constraint) |

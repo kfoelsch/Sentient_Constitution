@@ -25,6 +25,7 @@
 
 - [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
 - [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
+- [Cross-System Extraction](../core_05_band_continuity.md#cross-system-extraction) · [O](../core_05_band_continuity.md#cross-system-extraction) · [M](../core_05_band_continuity.md#cross-system-extraction-a) · [A](../core_05_band_continuity.md#cross-system-extraction-a) · [C](../core_05_band_continuity.md#cross-system-extraction-c)
 - [Sustainability](../core_05_band_continuity.md#sustainability) · [O](../core_05_band_continuity.md#sustainability) · [M](../core_05_band_continuity.md#sustainability-a) · [A](../core_05_band_continuity.md#sustainability-a) · [C](../core_05_band_continuity.md#sustainability-c)
 - [Self-Healing](../core_05_band_continuity.md#self-healing-constitutional) · [O](../core_05_band_continuity.md#self-healing-constitutional) · [M](../core_05_band_continuity.md#self-healing-constitutional-a) · [A](../core_05_band_continuity.md#self-healing-constitutional-a) · [C](../core_05_band_continuity.md#self-healing-constitutional-c)
 - [Reversibility](../core_05_band_continuity.md#reversibility-constitutional) · [O](../core_05_band_continuity.md#reversibility-constitutional) · [M](../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../core_05_band_continuity.md#reversibility-constitutional-c)
@@ -135,9 +136,9 @@ Account for impact on shared infrastructure, dependents, and overall stability (
 - contribute proportionally to its maintenance and improvement;
 - disclose dependency relationships through maintained dependent systems maps (**Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*));
 - ensure such relationships remain transparent and auditable (**Article XV-A** (*Auditability and Observable Evidence*));
-- avoid extraction without corresponding support.
+- avoid [Cross-System Extraction](../core_05_band_continuity.md#cross-system-extraction) — drawing on shared infrastructure without putting proportionate support back.
 
-**Where patterns of persistent neglect or extraction are verified**, failure to do so may:
+**Where patterns of persistent neglect or cross-system extraction are verified**, failure to do so may:
 - be considered a systemic imbalance in resource flows (**Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*));
 - be ecosystem misalignment subject to auditability, verification-access, or justice review (**Article XV-A** (*Auditability and Observable Evidence*), **Article XV** (*Audit, Transparency, and Independent Verification*)'s verification-access provisions, and **Article XXIII-A** (*Justice Objective and Scope*));
 - be a degradation of standing (**Article XVIII-A** (*Standing Distinction*)).
