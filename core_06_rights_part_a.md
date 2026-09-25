@@ -1020,32 +1020,39 @@ This Article sets out the right to rest, the rules that keep it from being defea
 
 <br>
 
-*In plain terms: **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) is the shared-resources Rights Floor — resource flows among interdependent systems must stay visible, fair, and sustainable so **Flourishing** is not defeated by hidden extraction or dependency capture, and **Continuity** is not defeated by persistent imbalance, opaque routing, or underfunding of shared infrastructure.*
+*In plain terms: **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) is about sharing the load fairly. Many systems lean on the same underlying infrastructure — networks, open tools, public services, shared data and computing power. Everyone who relies on that infrastructure should be able to see where the money and resources go, and those who take a lot from it should help keep it running. This is the Rights Floor for shared resources.*
 
-This Article states **constitutional floors** for resource allocation, dependencies, and ecosystem funding under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+This Article sets **minimum protections** (constitutional floors) for how shared resources are divided, how systems depend on one another, and how the infrastructure everyone relies on gets paid for. It serves the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
-- **Flourishing:** sentients and dependent systems retain fair access to shared infrastructure without being persistently extracted from or trapped by asymmetric dependency.
-- **Continuity:** durable, ecosystem-aware resource flows, cross-system sustainability, and repairable funding arrangements that do not foreclose future wellbeing.
+- **Flourishing:** Sentients and the systems they depend on keep fair access to shared infrastructure. No one should be quietly drained by it, or stuck in a one-sided dependency with no way out.
+- **Continuity:** Shared infrastructure stays funded and maintained over time. Resource flows take the wider ecosystem into account. If a funding arrangement breaks down, there must be a way to fix it before anyone's future wellbeing suffers.
 
-Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
+These aims are pursued through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), with more care the more is at stake (see [material stake](core_00_preamble.md#material-stake)):
 
-- **Participation:** in contestable allocation and challenge pathways.
-- **Oversight:** through transparent dependency mapping and auditable resource-flow records.
-- **Accountability:** those who manage shared resources must answer for hidden extraction and persistent imbalance.
-- **Timeliness:** in detection and corrective review.
+- **Participation:** Those affected can question how resources are divided and challenge decisions they believe are unfair.
+- **Oversight:** It must be clear who relies on whom and where the money and resources go, and this must be written down in records that others can check.
+- **Accountability:** Those in charge of shared resources must answer for it if they quietly take more than they put back, or if they let an unfair split go unfixed.
+- **Timeliness:** Problems are spotted and fixed promptly, before the damage sets in.
 
-Resource flows among interdependent systems must remain:
-- transparent;
-- ecosystem-aware;
-- auditable;
-- contestable.
+Put simply, the way resources move between systems that depend on each other must be:
+- **visible** — those affected can see it;
+- **mindful of the whole ecosystem** — not just the system doing the taking;
+- **checkable** — backed by records an independent reviewer can verify;
+- **open to challenge** — with a real way to dispute it.
 
-Those requirements protect shared infrastructure and the systems that depend on it from being undermined by hidden extraction or persistent imbalance.
+These requirements keep shared infrastructure, and everyone who depends on it, from being worn down by hidden extraction or by imbalances that never get fixed.
 
 *Article neighbors:*
 
-- **When certification applies:** When materially impactful systems allocate, route, fund, or extract from shared infrastructure or foundational dependencies on which other systems or sentients rely, [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) applies.
-- **Non-substitution:** Recognition or continued reliance cannot substitute for **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) or **Article IV-B** (*Cross-System Fairness and Sustainability*) compliance or shrink those floors.
+- **When certification applies:** A system with significant impact that divides up, routes, funds, or draws from shared infrastructure or core dependencies that other systems or sentients rely on must go through [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+  - **Class sets the depth:** How closely the system is examined depends on its [system class](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation). Class is set by what the system actually does, how much others depend on it, and how much could go wrong — not by what its operator calls it.
+  - **Higher class, more proof:** The higher the class, the stronger the proof the system must give that it [pays its fair share back](core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-contribution-evaluation), and the more often it is re-checked.
+  - **Growth means reclassification:** If others come to depend on the system more heavily, it must be reclassified and certified again at the higher class.
+- **Staying certified:** Certification is not a permanent pass. To keep it, a system must keep meeting **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article IV-B** (*Cross-System Fairness and Sustainability*).
+  - **What it must keep doing:** Keep its maps of who depends on it and its records of where resources flow up to date, and keep giving back fairly for what it uses.
+  - **Proof, not promises:** Each certification record must show that this was actually [checked, not just claimed](core_08_b_system_alignment_certification_record_process.md#113-rights-floor-record-evaluation-non-substitution).
+  - **No substitutes:** Being officially recognized, or having been relied on for a long time, does not take the place of meeting these requirements.
+  - **Consequences:** If a system hides or misstates its resource flows, or keeps taking more than it gives back, its certification can be made conditional, reopened, or withdrawn under [Chapter Eight §16](core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion).
 
 #### Article IV-A: Dependency Mapping and Resource-Flow Transparency
 <details>
@@ -1069,18 +1076,32 @@ Those requirements protect shared infrastructure and the systems that depend on 
 
 <br>
 
-*In plain terms: systems must keep an honest, up-to-date picture of what they rely on, what flows in and out, and where relationships are one-sided or opaque when that matters—so funders, auditors, and affected parties can see who bears the costs and who captures the benefits.*
+*In plain terms: systems must keep an honest, up-to-date picture of what they rely on, who relies on them, where money and resources flow, and where relationships are one-sided or hidden. System Alignment Certification is where that picture is checked, so funders, auditors, and affected parties can see who bears the costs and who captures the benefits.*
 
-This Article sets out the floor for mapping dependent systems:
+This Article sets the floor for dependency mapping and resource-flow transparency. [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) is where that floor is verified.
 
-- **Dependent systems maps:** Systems must maintain documented, auditable representations of:
+- **What must be mapped:** Systems must maintain documented, auditable maps and records of:
   - material upstream and downstream dependencies;
   - resource flows;
   - non-transparent or asymmetric relationships where materially relevant.
-  
-  Updates must occur at intervals proportionate to change and criticality. These representations must be available for audit under **Article XV-A** (*Auditability and Observable Evidence*). Where the system materially allocates, routes, funds, or extracts from shared infrastructure or foundational dependencies, [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) must evaluate whether they satisfy **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) — on a contestable **System Certification Record**, not merely on operator assertion.
-  
-  Operational mechanics — dependent-systems maps, flow transparency, allocation categories, and adaptive adjustment — are spelled out in [**CS-9**](corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (*Resource allocation and funding stewardship*) and [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*Adaptive sustainability and ecosystem resilience*). Chapter Eight states what certification must verify and record.
+- **When certification checks them:** Where a system materially allocates, routes, funds, or extracts from shared infrastructure or foundational dependencies, certification must verify its maps and flow records against this Article.
+  - **Every cycle:** at each certification, recertification, and revalidation, on a cadence set by the system's [system class](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation);
+  - **When things change:** whenever dependencies grow or resource flows materially change, which [reopens review](core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion).
+- **What certification must verify:** Before relying on the maps and flow records ([Chapter Eight §6](core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-contribution-evaluation)), certification must confirm that they are:
+  - **Complete:** they cover all three items above;
+  - **Current:** they are updated as often as the system's rate of change and criticality require, and show the system as it runs now, not as it ran at the last certification;
+  - **Auditable:** they are available for audit under **Article XV-A** (*Auditability and Observable Evidence*);
+  - **Backed by evidence:** they are judged on what the maps and documented flows actually show, not on the operator's assertions, labels, or one-off transfers.
+- **How certification must do it:**
+  - **Scale with system class:** demand stronger evidence from higher-class systems;
+  - **Put findings on the record:** state, on the **System Certification Record**, why the review applied, what it covered, whether the maps were complete, current, and auditable, what it found, how uncertain those findings are, and any conditions imposed;
+  - **Stay open to challenge:** keep that record [contestable](core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) by affected parties.
+- **When maps fall short:**
+  - **No reliance on bad maps:** maps or records that are incomplete, out of date, or unavailable for audit cannot support a finding that the system pays its fair share back under **Article IV-B** (*Cross-System Fairness and Sustainability*);
+  - **Hiding is a defect:** obscuring, misstating, splitting up, or offloading dependency or resource-flow information is a certification defect, which can lead to conditions, delayed or denied recognition, withdrawal, or reopening.
+- **Between certifications:** These duties do not pause between reviews, and they also bind systems below the certification trigger. Keeping maps current is what lets the next certification, audit, or challenge rely on them.
+- **Where the details live:** How maps are built, how flows are disclosed, allocation categories, and adaptive adjustment are spelled out in [**CS-9**](corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (*Resource allocation and funding stewardship*) and [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*Adaptive sustainability and ecosystem resilience*). Chapter Eight states what certification must verify and record.
+
 #### Article IV-B: Cross-System Fairness and Sustainability
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
