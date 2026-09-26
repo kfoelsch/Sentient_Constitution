@@ -181,7 +181,7 @@
   - 缺少可审计再评价触发的限制。
 - **剥夺生命：** 作为正义措施剥夺生命，在 **Article XXIII-B**（《非琐细限制、返还与修复性问责约束》）下被**绝对禁止**。
   - 当那些规定适用时，**Article XXIII-B**（《非琐细限制、返还与修复性问责约束》）下的**因暴力而拘禁**与**第十章** §4.1 下的拘禁为强制，并受上文持续期限度、审查日程、恢复条件与可审计再评价触发约束。
-- **Article V**（《平等基本权利》）最低标准全程适用：限制、排除或可比正义措施必须在施加、审查与执行本条及 **Article XXIII-B**（《非琐细限制、返还与修复性问责约束》）下的任何限制、遏制或修复性问责措施的全程，遵从 **Article V**（《平等基本权利》）、[**权利底线最低标准原则**](core_01_b_interaction_interpretation.md#rightsfloor-minimums-principle)与[**反降格过程原则**](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)。
+- **Article V**（《平等基本权利》）最低标准全程适用：限制、排除或可比正义措施必须在施加、审查与执行本条及 **Article XXIII-B**（《非琐细限制、返还与修复性问责约束》）下的任何限制、遏制或修复性问责措施的全程，遵从 **Article V**（《平等基本权利》）、[**权利底线最低标准原则**](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle)与[**反降格过程原则**](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)。
 - **升级与审查：** 受影响方必须拥有与影响相称的升级路径通路。
   - 通路包括在实质利益处于利害时的上诉或多层审查。
   - 受影响方必须收到：

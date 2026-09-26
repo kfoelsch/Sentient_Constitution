@@ -262,7 +262,7 @@ Anayasal **değerler** üzerindeki sınırlamalar — [§6](#6-process-conflict-
 - Güvenlik çerçevesi Hak Tabanı asgarilerinin kalıcı söndürülmesine yetki vermez.
 - Güvenlik kısıtlama istediğinde, yine aşağıdaki tabanlara ve biçimde [§6.1.5 En az kısıtlayıcı, zaman-sınırlı ve incelenebilir kısıt ilkesi](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)ne uymalıdır.
 
-<a id="rightsfloor-minimums-principle"></a>
+<a id="rights-floor-minimums-principle"></a>
 **Hak Tabanı Asgarileri İlkesi:**
 - Hiçbir anayasal süreç, önlem, geçiş, değişiklik, güzergâh sonucu, acil durum eylemi ya da adaletle ilgili sonuç taban onur korumalarının, asgari geçim erişiminin ya da çekirdek itiraz, inceleme ve temyiz haklarının **Hak Tabanı asgarilerini** kalıcı olarak söndüremez ya da feragat ettiremez.
 - Belirli hakların geçici kısıtlanması yalnızca [En az kısıtlayıcı, zaman-sınırlı ve incelenebilir kısıt ilkesi](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)ni ve [Madde XXIII-D](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*Acil durum önlemleri ve sürdürme yükü*) acil durum hükümlerini karşıladığında izinlidir — yani herhangi bir kısıtlama haklı, asgari, belgelenmiş, zaman-sınırlı ve bağımsız incelenebilir olmalıdır. Belirli maddeler daha güçlü korumalar ekleyebilir, ama bu ilkeyi daraltamaz ya da onu atlatmak için elverişlilik, verimlilik, sınıflama, acil durum, geçiş, güzergâh, değişiklik, sözleşme ya da uygulama etiketlerini kullanamaz.

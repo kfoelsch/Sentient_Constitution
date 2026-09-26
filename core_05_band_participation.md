@@ -1200,7 +1200,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
       - appearance in intimate media, non-consensual intimate imagery, or synthetic intimate depictions credibly presented as authentic regarding a sentient.
     - **Ancestry, culture, and worldview:**
       - race, ethnicity, national or social origin, or caste or analogous inherited rank;
-      - culture or language; and
+      - culture, language, or heritage; and
       - religion or comparable worldview.
     - **Service and work status:**
       - military, constabulary, or analogous public service;

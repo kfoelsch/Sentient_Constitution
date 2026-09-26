@@ -262,7 +262,7 @@
 - 安全の枠組みは、権利の床の最低限の永久消滅を授権しない。
 - 安全が制限を求めるところでは、なお下記の床と、形において [§6.1.5 制限最小、期限付き、審査可能な制約原則](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) を遵守しなければならない。
 
-<a id="rightsfloor-minimums-principle"></a>
+<a id="rights-floor-minimums-principle"></a>
 **権利の床の最低限の原則：**
 - いかなる憲法上の過程、措置、移行、改正、軌跡の帰結、緊急行為、または正義関連の成果も、基線の尊厳保護、最低限の生存通路、または中核の異議、審査、上訴の権利という**権利の床の最低限**を永久に消滅させ、または放棄させてはならない。
 - 特定の権利の一時的制限は、[制限最小、期限付き、審査可能な制約原則](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)と [Article XXIII-D](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden)（《緊急措置と継続負担》）の緊急規定を満たすときにのみ許される — すなわちいかなる制限も、正当化され、最小で、文書化され、期限付きで、独立して審査可能でなければならない。特定の条はより強い保障を加えうるが、この原則を狭めてはならず、都合、効率、分類、緊急、移行、軌跡、改正、契約、実施のラベルを用いてそれを迂回してはならない。

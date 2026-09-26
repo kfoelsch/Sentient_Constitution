@@ -262,7 +262,7 @@
 - 安全包装并不授权永久消灭权利底线最低标准。
 - 凡安全要求限制之处，它仍须遵守下列底线，并在形式上遵守 [§6.1.5 限制最少、有时限且可审查的约束原则](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)。
 
-<a id="rightsfloor-minimums-principle"></a>
+<a id="rights-floor-minimums-principle"></a>
 **权利底线最低标准原则：**
 - 任何宪法过程、措施、过渡、修正、轨迹效果、紧急行动或与正义相关的结果，都不得永久消灭或放弃基线尊严保护、最低生存通路，或核心质疑、审查与上诉权这些**权利底线最低标准**。
 - 对具体权利的暂时限制，仅在满足[限制最少、有时限且可审查的约束原则](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)以及 [Article XXIII-D](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden)（《紧急措施与延续负担》）的紧急规定时被允许 — 意味着任何限制必须被正当化、最小化、有记录、有时限，并可独立审查。具体条款可以添加更强保障，但不得收窄本原则，也不得用便利、效率、分类、紧急、过渡、轨迹、修正、合同或实施标签来绕过它。

@@ -263,7 +263,7 @@ Limitações sobre **valores** constitucionais — inclusive proteções do Piso
 - O enquadramento de Segurança não autoriza a extinção permanente dos mínimos do Piso de Direitos.
 - Onde a Segurança exige restrição, ela ainda deve cumprir os pisos abaixo e o [§6.1.5 Princípio da restrição menos restritiva, limitada no tempo e revisável](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) na forma.
 
-<a id="rightsfloor-minimums-principle"></a>
+<a id="rights-floor-minimums-principle"></a>
 **Princípio dos mínimos do Piso de Direitos:**
 - Nenhum processo constitucional, medida, transição, emenda, efeito de trajetória, ação de emergência ou resultado relacionado à justiça pode extinguir ou renunciar de forma permanente os **mínimos do Piso de Direitos** de proteções de dignidade de linha de base, acesso mínimo de subsistência, ou direitos centrais de impugnação, revisão e recurso.
 - A restrição temporária de direitos específicos é permitida só quando satisfaz o [Princípio da restrição menos restritiva, limitada no tempo e revisável](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) e as disposições de emergência do [Artigo XXIII-D](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*Medidas de emergência e ônus de continuação*) — o que significa que qualquer restrição deve ser justificada, mínima, documentada, limitada no tempo e independentemente revisável. Artigos específicos podem acrescentar salvaguardas mais fortes, mas não podem estreitar este princípio nem usar rótulos de conveniência, eficiência, classificação, emergência, transição, trajetória, emenda, contrato ou implementação para contorná-lo.

@@ -261,7 +261,7 @@ Pembatasan atas **nilai** konstitusional — termasuk perlindungan Lantai Hak **
 - Bingkai Keselamatan tidak mengizinkan penghapusan permanen minimum Lantai Hak.
 - Di mana Keselamatan menuntut pembatasan, ia tetap harus mematuhi lantai di bawah dan [§6.1.5 Prinsip Batasan Paling Longgar, Berbatas Waktu, dan Dapat Ditinjau](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) dalam bentuk.
 
-<a id="rightsfloor-minimums-principle"></a>
+<a id="rights-floor-minimums-principle"></a>
 **Prinsip Minimum Lantai Hak:**
 - Tidak ada proses konstitusional, ukuran, transisi, amandemen, akibat jejak, tindakan darurat, atau hasil terkait keadilan yang boleh secara permanen menghapus atau melepaskan **minimum Lantai Hak** atas perlindungan martabat dasar, akses subsisten minimum, atau hak inti untuk menggugat, meninjau, dan mengajukan banding.
 - Pembatasan sementara atas hak spesifik diizinkan hanya ketika ia memenuhi [Prinsip Batasan Paling Longgar, Berbatas Waktu, dan Dapat Ditinjau](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) dan ketentuan darurat [Pasal XXIII-D](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*Tindakan Darurat dan Beban Kelanjutan*) — artinya setiap pembatasan harus dijustifikasi, minimal, terdokumentasi, berbatas waktu, dan dapat ditinjau secara independen. Pasal spesifik boleh menambah pagar pengaman yang lebih kuat, tetapi mereka tidak boleh mempersempit prinsip ini atau memakai label kenyamanan, efisiensi, klasifikasi, darurat, transisi, jejak, amandemen, kontrak, atau implementasi untuk melewatinya.

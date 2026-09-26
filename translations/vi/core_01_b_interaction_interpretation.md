@@ -262,7 +262,7 @@ Hạn chế **giá trị** hiến pháp — kể cả bảo vệ Sàn Quyền **
 - Khung an toàn không ủy quyền dập tắt vĩnh viễn các sàn Sàn Quyền tối thiểu.
 - Nơi An toàn đòi hạn chế, nó vẫn phải tuân các sàn dưới đây và [§6.1.5 Nguyên tắc ràng buộc hạn chế nhẹ nhất, có hạn thời gian, và rà soát được](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) về hình thức.
 
-<a id="rightsfloor-minimums-principle"></a>
+<a id="rights-floor-minimums-principle"></a>
 **Nguyên tắc Sàn Quyền tối thiểu:**
 - Không quy trình hiến pháp, biện pháp, chuyển tiếp, tu chính, hệ quả quỹ đạo, hành động khẩn cấp, hoặc kết quả liên quan công lý nào được dập tắt hoặc từ vĩnh viễn các **sàn Sàn Quyền tối thiểu** của bảo vệ phẩm giá nền, lối vào sinh kế tối thiểu, hoặc quyền tranh biện, rà soát, và kháng cốt.
 - Hạn chế tạm thời quyền cụ thể chỉ được phép khi thỏa [Nguyên tắc ràng buộc hạn chế nhẹ nhất, có hạn thời gian, và rà soát được](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) và các điều khoản khẩn cấp của [Điều XXIII-D](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*Biện pháp khẩn cấp và gánh tiếp tục*) — nghĩa là mọi hạn chế phải được biện minh, tối thiểu, có hồ sơ, có hạn thời gian, và rà soát độc lập được. Điều cụ thể có thể thêm bảo vệ mạnh hơn, nhưng chúng không được thu hẹp nguyên tắc này hoặc dùng nhãn tiện, hiệu quả, phân loại, khẩn cấp, chuyển tiếp, quỹ đạo, tu chính, hợp đồng, hoặc triển khai để lách nó.

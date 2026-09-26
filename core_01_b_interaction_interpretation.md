@@ -104,7 +104,7 @@ Many small decisions that each look fine may still combine into an outcome this 
 - **[§6.1.1 Necessity](#611-necessity)** asks whether a restriction is needed at all, or whether a less-restrictive, reasonably effective alternative can do the constitutional work. The restrictor bears the burden of proof.
 - **[§6.1.2 Harm Minimization](#612-harm-minimization)** requires the least harmful constitutionally adequate option across sentients, systems, and time horizons.
 - **[§6.1.3 Proportionality](#613-proportionality)** verifies that the scale of the selected limitation fits the magnitude, likelihood, and systemic character of the harm addressed.
-- **[§6.1.4 Constitutional Rights-Floor Minimums, Safety, and Process-Character Constraints](#614-constitutional-floors-safety-and-process-character-constraints)** states absolute limits that survive even a necessary, harm-minimizing, correctly proportioned restriction: certain Rights-Floor minimums cannot be permanently extinguished, Safety operates as both justification and constraint, and process character must never degrade into humiliation, spectacle, or retaliation.
+- **[§6.1.4 Constitutional Floors, Safety, and Process-Character Constraints](#614-constitutional-floors-safety-and-process-character-constraints)** states absolute limits that survive even a necessary, harm-minimizing, correctly proportioned restriction: certain Rights-Floor minimums cannot be permanently extinguished, Safety operates as both justification and constraint, and process character must never degrade into humiliation, spectacle, or retaliation. The Rights-Floor minimums and the anti-degrading-process floor together form the [Dignity Clause](#dignity-clause).
 - **[§6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)** governs the form of any restriction that survives the preceding tests: it must use the lightest effective measure, remain independently reviewable, and be temporary unless this Constitution expressly permits durable restriction.
 
 Once the tradeoff stack is satisfied, **[§6.3 Minimization of Avoidable Burden](#63-minimization-of-avoidable-burden)** applies to the resulting design: systems must prefer the option that wastes the least sentient time, attention, and effort.
@@ -261,13 +261,24 @@ Limitations on constitutional **values** — including **Chapter Six** Rights-Fl
 - Safety framing does not authorize permanent extinguishment of Rights-Floor minimums.
 - Where Safety requires restriction, it must still comply with the floors below and with [§6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) in form.
 
-<a id="rightsfloor-minimums-principle"></a>
-**Rights-Floor Minimums Principle:**
-- No constitutional process, measure, transition, amendment, standing consequence, emergency action, or justice-related outcome may permanently extinguish or waive the **Rights-Floor minimums** of baseline dignity protections, minimum subsistence access, or core challenge, review, and appeal rights.
+<a id="dignity-clause"></a>
+
+###### Dignity Clause
+
+The **Dignity Clause** consists of the two principles that follow: the [Rights-Floor Minimums Principle](#rights-floor-minimums-principle) and the [Anti-Degrading-Process Principle](#anti-degrading-process-principle). Together they make [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing) operational as absolute floors: what may never be permanently taken from any sentient, and how no sentient may be treated in any process. Minimum subsistence access and core challenge, review, and appeal rights belong to the Clause because they are the minimum conditions for being treated as someone whose standing counts. Equal standing itself, and the grounds on which it may not be denied, are stated in [Article V-A](core_06_rights_part_b.md#article-v-a-dignity-and-equal-moral-standing) (*Dignity and Equal Moral Standing*).
+
+<a id="rights-floor-minimums-principle"></a>
+
+###### Rights-Floor Minimums Principle
+
+- No constitutional process, measure, transition, amendment, standing consequence, emergency action, or justice-related outcome may permanently extinguish or waive the **Rights-Floor minimums** of baseline dignity protections under [Article V-A](core_06_rights_part_b.md#article-v-a-dignity-and-equal-moral-standing) (*Dignity and Equal Moral Standing*) and the [Anti-Degrading-Process Principle](#anti-degrading-process-principle), minimum subsistence access, or core challenge, review, and appeal rights.
 - Temporary restriction of specific rights is permitted only when it satisfies the [Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) and the emergency provisions of [Article XXIII-D](core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*Emergency Measures and Continuation Burden*) — meaning any restriction must be justified, minimal, documented, time-limited, and independently reviewable. Specific articles may add stronger safeguards, but they may not narrow this principle or use convenience, efficiency, classification, emergency, transition, standing, amendment, contract, or implementation labels to bypass it.
 
 <a id="anti-degrading-process-principle"></a>
-**Anti-Degrading-Process Principle.** The [Anti-Degrading-Process Principle (§2.3)](core_01_a_values_principles.md#23-anti-degrading-process) stated in Part A operates as an absolute floor in this tradeoff stack.
+
+###### Anti-Degrading-Process Principle
+
+The [Anti-Degrading-Process Principle (§2.3)](core_01_a_values_principles.md#23-anti-degrading-process) stated in Part A operates as an absolute floor in this tradeoff stack.
 - No restriction, remedy, or process that survives necessity, harm minimization, and proportionality may be designed, framed, carried out, or allowed to operate as degradation, humiliation, spectacle, retaliation, discriminatory burdening, or convenience-driven rights erosion.
 - A correct substantive outcome delivered through degrading process remains non-compliant.
 - Where the prohibited character is suffering as an end in itself or gratuitous / degrading infliction — including humiliation for its own sake — read with [Cruelty](core_05_band_accountability.md#cruelty).

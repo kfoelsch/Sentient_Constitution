@@ -120,10 +120,9 @@ The principles of this Article constrain all interpretation, design, and operati
 
 *In plain terms: **Article V** (*Equal Basic Rights*) sets the minimum standard for treating every sentient as an equal. Every sentient keeps their dignity, is protected from unfair discrimination, can take part fully, gets a fair hearing on whether they count as sentient, is protected while still developing, and can actually use the systems they rely on. No system may rank, screen out, exclude, or place heavier burdens on some sentients than others unless these protections are already in place.*
 
-This Article states **constitutional floors** for equal basic Rights Floors across **Articles V-A through V-F**. Four principles apply throughout **Article V** (*Equal Basic Rights*) and throughout imposition, review, and carrying out of restrictions, containment, restorative-accountability measures, emergency measures, transition plans, standing effects, amendments, implementation decisions, contracts, and comparable constitutional processes:
+This Article states **constitutional floors** for equal basic rights across **Articles V-A through V-F**. Three principles apply throughout **Article V** (*Equal Basic Rights*) and throughout imposition, review, and carrying out of restrictions, containment, restorative-accountability measures, emergency measures, transition plans, standing effects, amendments, implementation decisions, contracts, and comparable constitutional processes:
 
-- **[Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#rightsfloor-minimums-principle)**
-- **[Anti-Degrading-Process Principle](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)**
+- **[Dignity Clause](core_01_b_interaction_interpretation.md#dignity-clause)** — the [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) and the [Anti-Degrading-Process Principle](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)
 - **Nondiscrimination** under **Article V-B** (*Nondiscrimination*)
 - **Accessibility** under **Article V-F** (*Accessibility*)
 
@@ -133,8 +132,8 @@ These principles are requirements for ongoing [System Alignment Certification](c
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), and [§7 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
-- Read with: [**Def.P1** *Animal Life, Sentient Life, and Sentience Status*](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster) (canonical O/M/A/C home in Chapter Five for *Sentient* and related sentience-status discipline, including the [Sentient](core_05_band_participation.md#sentient) sub-entry); [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6.1.4 Dignity Clause](core_01_b_interaction_interpretation.md#dignity-clause), and [§7 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- Read with: [**Def.P1** *Animal Life, Sentient Life, and Sentience Status*](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster) (canonical O/M/A/C home in Chapter Five for *Sentient* and related sentience-status discipline, including the [Sentient](core_05_band_participation.md#sentient) sub-entry); [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) ([substrate-agnostic](core_05_band_participation.md#substrate-agnostic) scope).
 
 </details>
 
@@ -158,7 +157,7 @@ This Article sets out the floor of inherent dignity and equal standing:
 - **Inherent dignity and equal standing:** All sentients possess inherent dignity and equal moral standing.
   - These qualities do not depend on origin, form, [substrate](core_05_band_participation.md#substrate-class) (biological, synthetic, or hybrid), capability, function, association, or status.
   - None of those factors may ground denial or degradation of rights or standing.
-  - **Sentient** is read through [**Def.P1** *Animal Life, Sentient Life, and Sentience Status*](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster) (O/M/A/C home in Chapter Five for the *Sentient* sub-entry and sentience-status integration) and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) ([substrate-agnostic](core_05_band_participation.md#substrate-agnostic) scope).
+- **Dignity Clause:** These protections are secured as absolute floors by the [Dignity Clause](core_01_b_interaction_interpretation.md#dignity-clause) in Chapter One §6.1.4 — the [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) and the [Anti-Degrading-Process Principle](core_01_b_interaction_interpretation.md#anti-degrading-process-principle).
 
 #### Article V-B: Nondiscrimination
 <details>
@@ -166,6 +165,7 @@ This Article sets out the floor of inherent dignity and equal standing:
 
 - Upstream: Principles: Chapter One [§2.1 Fairness](core_01_a_values_principles.md#21-fairness), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [Chapter One §6.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
 - Downstream: Participation measurement family (*Substantive Fairness and Protected Characteristic Proxying and Disparate Impact*); [Chapter Eight §7](core_08_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) (*nondiscrimination evaluation where certification gates classification, ranking, pricing, gating, or burden allocation*).
+- Read with: Chapter Five [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) and [Language, Culture, and Heritage](core_05_band_continuity.md#language-culture-and-heritage-constitutional); Chapter Five [Indigenous Continuity](core_05_band_continuity.md#indigenous-continuity-constitutional) (*community-anchored Rights Floor; owner floors **Article V-B** (Nondiscrimination) and **Article I-A** (Environmental Preconditions and Ecological Integrity)*) for Indigenous continuity and territorial-continuity questions, which route to [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*ecosystem-integrity precondition*) and [Chapter Seventeen](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*adopter-jurisdiction discipline*).
 
 </details>
 
@@ -193,24 +193,8 @@ This Article sets out the nondiscrimination floor and its protection of language
   - arbitrary groupings used as functional substitutes for them.
   
   Differential treatment is permitted only where it is necessary, proportionate, substantively fair, and consistent with **Articles I–III and V** and Chapter One.
-- **Language, culture, and heritage protection:** Systems must not impose material burdens, exclusions, or harms on sentients based on:
-  - language;
-  - cultural affiliation;
-  - heritage, traditions, or comparable cultural-identity characteristics;
-  - proxies or arbitrary groupings used as functional substitutes for any of the above.
-  
-  Language, culture, and heritage are **protected-characteristic specializations** under this Article, read with [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) and [Language, Culture, and Heritage](core_05_band_continuity.md#language-culture-and-heritage-constitutional).
-  
-  Protection covers:
-  - language use, including minority and heritage languages and communication modalities that function as language-equivalents under **Sentience Non-Exclusion**;
-  - cultural practice and observance;
-  - heritage transmission across generations;
-  - participation in the shared systems that sustain cultural and heritage continuity.
-  
-  Homogenization framings — efficiency, info-sphere integrity, interoperability, or platform-consolidation — do not by themselves satisfy the **Necessity** and **Proportionality** tests this Article requires.
-  - Narrowing language, cultural, or heritage protection under accessibility-cost, translation-burden, or operational-scale framings, absent the required tests, is non-compliant.
-  
-  Indigenous continuity **questions** and territorial-continuity interactions are read with Chapter Five *[Indigenous Continuity](core_05_band_continuity.md#indigenous-continuity-constitutional)* — a community-anchored Rights Floor whose owner floors are **Article V-B** (*Nondiscrimination*) and **Article I-A** (*Environmental Preconditions and Ecological Integrity*). They route to **Article I-A** (*Environmental Preconditions and Ecological Integrity*) (ecosystem-integrity precondition) and to **Chapter Seventeen** incorporation (adopter-jurisdiction discipline). That routing must not be used to shrink land, consultation, or free, prior, and informed consent duties the adopter already bears under its own law or binding external instruments. This Constitution still does not decide historical land ownership or require restitution on its own. Language, culture, and heritage protection under **Article V-B** (*Nondiscrimination*) remains part of this Article's nondiscrimination floor — not a separate floor — and must not cut back other **Article V-B** (*Nondiscrimination*) rules or Chapter Five protected-characteristics protections.
+- **Language, culture, and heritage:** The Nondiscrimination rule covers language, cultural affiliation, heritage, traditions, and comparable cultural-identity characteristics — including language use, cultural practice, heritage transmission, and participation in the systems that sustain them. Efficiency, interoperability, platform-consolidation, accessibility-cost, or translation-burden framings do not by themselves satisfy Necessity and Proportionality.
+- **Indigenous and territorial continuity:** Routing Indigenous continuity and territorial-continuity questions to **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and **Chapter Seventeen** must not be used to shrink land, consultation, or free, prior, and informed consent duties the adopter already bears under its own law or binding external instruments. This Constitution does not decide historical land ownership or require restitution on its own.
 
 #### Article V-C: Full Inclusion and Equality in Adjudication and Operations
 <details>

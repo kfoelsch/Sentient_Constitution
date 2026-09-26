@@ -262,7 +262,7 @@
 - 안전 틀은 권리 바닥 최소의 영구 소멸을 수권하지 않는다.
 - 안전이 제한을 요구하는 곳에서, 그것은 여전히 아래 바닥과 [§6.1.5 가장 덜 제한적이고, 시한 있고, 검토 가능한 제약 원칙](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)의 형태를 준수해야 한다.
 
-<a id="rightsfloor-minimums-principle"></a>
+<a id="rights-floor-minimums-principle"></a>
 **권리 바닥 최소 원칙:**
 - 어떤 헌법 과정, 조치, 이행, 개정, 궤적 결과, 비상 행위, 정의 관련 결과도 기준선 존엄 보호, 최소 생계 접근, 핵심 다툼, 검토, 불복 권리의 **권리 바닥 최소**를 영구히 소멸하거나 포기하게 할 수 없다.
 - 특정 권리의 일시 제한은 [가장 덜 제한적이고, 시한 있고, 검토 가능한 제약 원칙](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)과 [제 XXIII-D조](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden)(*비상 조치와 계속 부담*)의 비상 규정을 충족할 때에만 허용된다 — 즉 어떤 제한이든 정당화되고, 최소이고, 문서화되고, 시한 있고, 독립 검토 가능해야 한다. 특정 조는 더 강한 안전장치를 더할 수 있으나, 이 원칙을 좁히거나 편의, 효율, 분류, 비상, 이행, 궤적, 개정, 계약, 시행 꼬리표로 우회할 수 없다.
