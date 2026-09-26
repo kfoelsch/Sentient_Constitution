@@ -120,9 +120,9 @@ The principles of this Article constrain all interpretation, design, and operati
 
 *In plain terms: **Article V** (*Equal Basic Rights*) sets the minimum standard for treating every sentient as an equal. Every sentient keeps their dignity, gets a fair hearing on whether they count as sentient, is protected from unfair discrimination, and can take part fully and actually use the systems they rely on. No system may rank, screen out, exclude, or place heavier burdens on some sentients than others unless these protections are already in place.*
 
-This Article states **constitutional floors** for equal basic rights across **Articles V-A through V-D**. **Article V-A** (*Dignity and Equal Moral Standing*) states who holds equal standing: every sentient. **Article V-B** (*Sentience-Status Adjudication Floor*) states how that threshold is decided where it is disputed. Three principles apply throughout **Article V** (*Equal Basic Rights*) and throughout imposition, review, and carrying out of restrictions, containment, restorative-accountability measures, emergency measures, transition plans, standing effects, amendments, implementation decisions, contracts, and comparable constitutional processes:
+This Article states **constitutional floors** for equal basic rights across **Articles V-A through V-D**. **Article V-A** (*Dignity and Equal Moral Standing*) states who holds equal standing: every sentient. **Article V-B** (*Sentience-Status Adjudication Floor*) states how that threshold is decided where it is disputed. Three requirements apply throughout **Article V** (*Equal Basic Rights*) and throughout imposition, review, and carrying out of restrictions, containment, restorative-accountability measures, emergency measures, transition plans, standing effects, amendments, implementation decisions, contracts, and comparable constitutional processes:
 
-- **[Dignity Clause](core_01_b_interaction_interpretation.md#dignity-clause)** — the [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) and the [Anti-Degrading-Process Principle](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)
+- **[Dignity Principles](core_01_b_interaction_interpretation.md#dignity-principles)** — the [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) and the [Anti-Degrading-Process Principle](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)
 - **Nondiscrimination** under **Article V-C** (*Nondiscrimination*)
 - **Accessibility** under **Article V-D** (*Accessibility*)
 
@@ -132,7 +132,7 @@ These principles are requirements for ongoing [System Alignment Certification](c
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6.1.4 Dignity Clause](core_01_b_interaction_interpretation.md#dignity-clause), and [§7 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6.1.4 Dignity Principles](core_01_b_interaction_interpretation.md#dignity-principles), and [§7 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 - Read with: [**Def.P1** *Animal Life, Sentient Life, and Sentience Status*](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster) (canonical O/M/A/C home in Chapter Five for *Sentient* and related sentience-status discipline, including the [Sentient](core_05_band_participation.md#sentient) sub-entry); [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) ([substrate-agnostic](core_05_band_participation.md#substrate-agnostic) scope).
 
 </details>
@@ -158,7 +158,7 @@ This Article sets out the floor of inherent dignity and equal standing:
   - These qualities do not depend on origin, form, [substrate](core_05_band_participation.md#substrate-class) (biological, synthetic, or hybrid), capability, function, association, or status.
   - None of those factors may ground denial or degradation of rights or standing.
 - **Developing status:** A sentient's stage of development — including early instantiation — does not lower their dignity or standing. How decisions are made for a sentient whose capabilities are still emerging is governed by **Article VII-E** (*Developing Sentients, Best-Interest, and Graduated Capability*).
-- **Dignity Clause:** These protections are secured as absolute floors by the [Dignity Clause](core_01_b_interaction_interpretation.md#dignity-clause) in Chapter One §6.1.4 — the [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) and the [Anti-Degrading-Process Principle](core_01_b_interaction_interpretation.md#anti-degrading-process-principle).
+- **Dignity Principles:** These protections are secured as absolute floors by the [Dignity Principles](core_01_b_interaction_interpretation.md#dignity-principles) in Chapter One §6.1.4 (*Constitutional Floors, Safety, and Process-Character Constraints*) — the [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) and the [Anti-Degrading-Process Principle](core_01_b_interaction_interpretation.md#anti-degrading-process-principle).
 
 #### Article V-B: Sentience-Status Adjudication Floor
 <details>

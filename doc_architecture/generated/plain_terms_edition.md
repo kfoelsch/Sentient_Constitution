@@ -386,11 +386,11 @@ harm minimization has absolute limits. No matter how proportionate, necessary, o
 
 [Source](../../core_01_b_interaction_interpretation.md#614-constitutional-floors-safety-and-process-character-constraints)
 
-###### Dignity Clause
+###### Dignity Principles
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_01_b_interaction_interpretation.md#dignity-clause)
+[Source](../../core_01_b_interaction_interpretation.md#dignity-principles)
 
 ###### Rights-Floor Minimums Principle
 

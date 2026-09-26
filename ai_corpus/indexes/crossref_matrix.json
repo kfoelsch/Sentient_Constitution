@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-26T07:16:23+00:00",
+  "generated_at": "2026-09-26T16:57:54+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -7655,7 +7655,7 @@
               "#8-constitutional-interpretation",
               "#81-constitutional-no-bypass-principle",
               "#anti-degrading-process-principle",
-              "#dignity-clause",
+              "#dignity-principles",
               "#rights-floor-minimums-principle"
             ]
           },
@@ -8558,7 +8558,7 @@
               "#81-constitutional-no-bypass-principle",
               "#anti-degrading-process-principle",
               "#default-interim-posture",
-              "#dignity-clause",
+              "#dignity-principles",
               "#rights-floor-minimums-principle"
             ]
           },
