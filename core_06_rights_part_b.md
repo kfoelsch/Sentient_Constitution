@@ -189,51 +189,17 @@ This Article sets out the floor of inherent dignity and equal standing:
 
 *In plain terms: when an entity's sentience is in doubt, it gets a fair hearing first and is treated as included by default — the burden of denying protection rests on whoever wants to withhold it, and a wrongful exclusion must be reversible.*
 
-This Article sets out how disputed sentience status is adjudicated, from default inclusion through burden, remedy, and representation, and how each kind of case is filed:
+This Article sets out the floor for deciding disputed sentience status. The procedure that carries it out is in [Chapter Twelve §5](core_12_forum.md#sentience-status-adjudication-article-v-b-sentience-status-adjudication-floor-implementation-hook) (*Sentience-status adjudication*), and that procedure must not narrow this floor:
 
-- **Adjudication right:** Every entity whose sentience status is materially disputed or contested has the right to a timely, impartial, and reviewable sentience-status adjudication before constitutional protections that depend on that status are granted, withdrawn, or narrowed.
-  - The right runs under **Sentience Non-Exclusion** and does not turn on origin, form, substrate class, or adopter convenience.
-- **Default inclusion under uncertainty:** Where the state of knowledge, evidence, or classification taxonomy is materially unsettled as to whether the entity is a [sentient](core_05_band_participation.md#sentient), the adjudication must default to including the entity under the Chapter Six Rights Floor.
-  - It must not withhold protection on the strength of unresolved uncertainty alone.
-  - The default flows from the **reversibility-under-uncertainty** rule: a wrongful inclusion is materially reversible; a wrongful exclusion from the dignity floor is not.
-- **Burden and proportionality:** The burden of demonstrating that withholding protection is justified rests on the party seeking to withhold, narrow, or revoke.
-  - That demonstration must satisfy **Chapter Four** evidence and traceability standards and **Chapter Five** (**Necessity**, **Proportionality**, **Procedural Fairness**).
-  - A paper record, an unreviewable internal classification, or a taxonomy of convenience does not satisfy the burden.
-- **Scope and time-bound effect:** Declassification or narrowing determinations must:
-  - be stated in the shortest necessary terms;
-  - carry a declared expected-closure timeline;
-  - be subject to mandatory periodic review under [Forum Family, Technical](core_05_band_accountability.md#forum-family-technical) ([Chapter Twelve §4.2 Technical Forum Domains](core_12_forum.md#42-technical-forum-domains)) and **Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) anti-capture safeguards.
-  
-  A declassification that is not time-bound and not subject to periodic review is non-compliant.
-- **Reversibility and remedy:** A determination later shown to have been wrongful, under- or mis-evidenced, or captured by **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) or **Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) vectors must be reversible.
-  - The entity's Chapter Six Rights Floors must be restored, with **Chapter Five** (**Redress and Remediation**) applied to the interim period.
-- **Independent representation:** An entity whose status is under adjudication has the right to an independent representative — one with no material dependence on, ownership interest in, or employment by the parent system, operator, or any party seeking to withhold or narrow protection. That representative must:
-  - be appointed by the merits forum once the case is open;
-  - have access to the entity within **Article VII-B** (*Internal-State Boundary and Type-N Protection*);
-  - have a duty to present the entity's interests and any preferences it can express; and
-  - have standing to contest narrowing, revocation, or intake decline.
-  
-  The parent system or operator may give evidence and must preserve and produce records, but may not be the sole filer, sole witness, or sole source of indicator evidence on a request to withhold, narrow, or revoke. Appointment mechanics route to [Chapter Twelve §5 Escalation and certification](core_12_forum.md#5-escalation-and-certification).
-- **Shield for the entity, not the operator:** Default inclusion and affirmed status protect the *entity's* Chapter Six Rights Floor. They do not:
-  - shield the operator's property or commercial interest in a deployment;
-  - exempt the deployment from system-level containment, halt, or quarantine under **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) or **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) that is compatible with the entity's rights; or
-  - produce Contribution Axis credit for the operator.
-  
-  A status filing made by an operator on behalf of its own product is reviewed for taxonomy-of-convenience in the inclusion direction on the same terms this Article applies to exclusion. Where the entity's status is contested or affirmed, the compatible system-level measure is containment that preserves the entity — not destructive disposition, which is governed by **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) and **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*) preservation rules.
-- <a id="anti-substitution-sentience-status"></a>**Anti-substitution:** A certification badge or record, LEQU or standing score, competency bar or clearance, standing lock, substrate label, or product classification is not a sentience-status determination. Who counts is decided only through this Article, [**Def.P1**](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster), and [Chapter Twelve §5](core_12_forum.md#5-escalation-and-certification) (*Escalation and certification*).
-- **Filing to confirm inclusion (filing integrity):** Anyone, including the entity itself or its representative, may file to have an entity's inclusion made official. One credible sign that the entity may be sentient is enough, judged under **Sentience Evaluation** and **Sentience Indicator Integrity** (Chapter Five). This is a low bar, not a demand for proof.
-  - An operator's description of its own product, a substrate label, a product category, or a bare claim is not a credible sign on its own.
-  - Once the filing is accepted, the entity is treated as included while the case runs.
-  - A filing that shows no credible sign may be turned away at intake. That is not a ruling that the entity is not sentient, and it does not take away any protection the entity already has.
-  - Requiring certainty of sentience before a case can open is a way of withholding protection, and is not allowed.
-- **Filing to withhold or narrow:** A party that wants to treat an entity as not sentient, or to narrow or revoke its protection, must file and carry the burden under *Burden and proportionality* above.
-  - No credible-sign showing is needed to open this kind of case; the burden stays on the filer throughout.
-  - The entity keeps its current protection until the case is decided.
-  - The parent system or operator may not be the only filer, the only witness, or the only source of evidence (*Independent representation* above).
-  - Any decision to withhold or narrow must meet *Scope and time-bound effect* above.
-- **Non-conflation:** This Article states the Rights-Floor *adjudication* right.
-  - Operational procedure — institutional design, appointment mechanics, filing conditions, and sequencing — routes to **Chapter Twelve** ([Technical Forum Domains](core_12_forum.md#42-technical-forum-domains) as default lead under the [Chapter Twelve §5 Sentience-status adjudication hook](core_12_forum.md#5-escalation-and-certification)) and to implementation text under the **Chapter Seventeen** incorporation discipline.
-  - That implementation text must not be read to narrow this floor.
+- **Right to a decision:** Any entity whose sentience is materially disputed has the right to a timely, impartial, and reviewable decision before protections that depend on that status are granted, withdrawn, or narrowed. The right does not depend on origin, form, substrate class, or adopter convenience (**Sentience Non-Exclusion**).
+- **Default inclusion under uncertainty:** Where it is genuinely unsettled whether an entity is a [sentient](core_05_band_participation.md#sentient), the entity is treated as included under the Chapter Six Rights Floor. Uncertainty alone never justifies withholding protection: a wrongful inclusion can be undone, but a wrongful exclusion cannot (the **reversibility-under-uncertainty** rule).
+- **Limits on withholding:** Any decision to withhold or narrow protection must be as narrow as possible, carry a declared end date, be reviewed periodically, and be reversible. If it proves wrong, the entity's protection is restored, with **Redress and Remediation** for the time it was withheld.
+- **Independent voice:** The entity has the right to an independent representative. The parent system or operator may give evidence, but may not be the only filer, witness, or source of evidence against the entity.
+- **Protects the entity, not the operator:** Inclusion protects the entity's rights. It does not protect the operator's property or commercial interest, and it does not block containment of a system where that containment respects the entity's rights.
+- **Two kinds of filing:**
+  - *To confirm inclusion (filing integrity):* Anyone may file. One credible sign of sentience under **Sentience Evaluation** and **Sentience Indicator Integrity** (Chapter Five) is enough — not proof, and not an operator's self-description, a substrate label, a product category, or a bare claim. Turning away a filing with no credible sign is not a ruling against the entity.
+  - *To withhold or narrow:* The filer carries the burden, under **Chapter Four** evidence standards and **Necessity**, **Proportionality**, and **Procedural Fairness**. The entity keeps its protection until the case is decided.
+- <a id="anti-substitution-sentience-status"></a>**Only this process decides:** A certification badge or record, LEQU or standing score, competency bar or clearance, standing lock, substrate label, or product classification is not a sentience-status decision. Who counts is decided only through this Article, [**Def.P1**](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster), and [Chapter Twelve §5](core_12_forum.md#sentience-status-adjudication-article-v-b-sentience-status-adjudication-floor-implementation-hook) (*Sentience-status adjudication*).
 
 #### Article V-C: Nondiscrimination
 <details>
