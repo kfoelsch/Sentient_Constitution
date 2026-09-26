@@ -43,7 +43,7 @@ If a clinic, hospital, or other body that actually runs the systems in your life
 - **Today:** The refill was delayed. They call the gap “noncompliant.” The only way to get the next appointment, or to stay housed, is to take their clinician’s list and agree in advance they will decide “until you are stable.”
 - **With this Constitution:** Everyone this covers has a right to the care needed to keep body and mind functioning. Getting that care is not consent to intrusion, and it does not let anyone compel treatment.
 
-See: [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-bodily-maintenance-and-healthcare-access); [Article VII-C](../../../core_06_rights_part_b.md#article-vii-c-mental-health-crisis-and-involuntary-intervention-floor).
+See: [Article III-B](../../../core_06_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access); [Article VII-C](../../../core_06_rights_part_b.md#article-vii-c-mental-health-crisis-and-involuntary-intervention-floor).
 
 **A diagnosis is not proof you can no longer choose for yourself.**
 - **Today:** Once you have the diagnosis, they act as if you no longer get to choose. If you say no to the extra conditions on their help, they treat that as proof you cannot make your own choices. A relative writes a concern and talks as if it were already decided that you are unsafe.

@@ -19,7 +19,7 @@
 
 *In plain terms: access has to work in practice, not only on a policy page — disability, health, and capability variation cannot be used as a quiet gate, and process that you cannot actually use is not participation.*
 
-This brief is for someone who needs the path to actually work, including extra support needs and neurodivergence. It does not change the Rights Floor that applies to you. When access is at stake, those rules are located in the section on [Article V-D](../../../core_06_rights_part_b.md#article-v-d-accessibility).
+This brief is for someone who needs the path to actually work, including extra support needs and neurodivergence. It does not change the Rights Floor that applies to you. When access is at stake, those rules are located in the section on [Article VI-D](../../../core_06_rights_part_b.md#article-vi-d-accessibility).
 
 ## One in six now — almost everyone in a full life
 
@@ -43,13 +43,13 @@ If a body that actually runs the systems in your life adopted this Constitution:
 - **Today:** The form is a maze. The hearing is adversarial and loud. Deadlines assume one working style. A published process counts even when you cannot complete it. Cost, “that’s just how the system is designed,” or talk about your body or form is used to explain why you should use a lesser path.
 - **With this Constitution:** Everyone this covers has a right to accessible conditions for participation. Operators cannot use cost, design choices, or arguments about body or form to lock you out.
 
-See: [Article V-D](../../../core_06_rights_part_b.md#article-v-d-accessibility).
+See: [Article VI-D](../../../core_06_rights_part_b.md#article-vi-d-accessibility).
 
 **Disability and capability variation are protected characteristics.**
 - **Today:** A “neutral” rule does the same work as an explicit bar.
 - **With this Constitution:** Disability, health status, and variation in sensory, cognitive, or functional capability cannot be used, without adequate justification, as a basis for material disadvantage or exclusion.
 
-See: [Protected Characteristics](../../../core_05_band_participation.md#protected-characteristics-constitutional); [Article V-C](../../../core_06_rights_part_b.md#article-v-c-nondiscrimination).
+See: [Protected Characteristics](../../../core_05_band_participation.md#protected-characteristics-constitutional); [Article VI-C](../../../core_06_rights_part_b.md#article-vi-c-nondiscrimination).
 
 **Usable participation has an owner.**
 - **Today:** An accommodation exists on paper and fails in the room. Accommodations are favors.
@@ -69,7 +69,7 @@ See: [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-ch
 
 - **“Supported decision-making is just someone else deciding.”** The point of the CI-15 map is usable participation and supported decision-making, not a quiet guardianship. Taking over decisions because it is faster is the scene on [the age-related challenges page](E06_age_related_challenges.md). A diagnosis used to take over your say is the scene on [the mental-health page](E14_mental_health.md).
 
-- **“I don’t want a disability identity. I want the tool to work.”** You do not have to take that label to use this page. It does not change the Rights Floor that applies to you. Access still has to be usable. When disability, health, or capability variation is used as a bar, those rules are located in the section on [Article V-D](../../../core_06_rights_part_b.md#article-v-d-accessibility).
+- **“I don’t want a disability identity. I want the tool to work.”** You do not have to take that label to use this page. It does not change the Rights Floor that applies to you. Access still has to be usable. When disability, health, or capability variation is used as a bar, those rules are located in the section on [Article VI-D](../../../core_06_rights_part_b.md#article-vi-d-accessibility).
 
 - **“This isn’t law at my clinic / school / job.”** Correct until a qualifying body adopts it. It does not override applicable disability or education law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 

@@ -210,7 +210,7 @@ class NestedListCandidateTests(unittest.TestCase):
         self.assertEqual(scan_text(text, chapter=6), [])
 
     def test_ch6_covers_list_is_flagged(self) -> None:
-        text = """#### Article III-C: Health
+        text = """#### Article III-B: Health
 
 - The floor covers preventive, acute, chronic, and maintenance care, including mental-health care, dental care, and reproductive care.
 """
@@ -219,7 +219,7 @@ class NestedListCandidateTests(unittest.TestCase):
         self.assertIn("including-list", hits[0].kinds)
 
     def test_ch6_includes_semicolon_list_is_flagged(self) -> None:
-        text = """#### Article VI: Expression
+        text = """#### Article IV: Expression
 
 - Assembly includes forming, joining, and sustaining associations; conducting meetings; and coordinated action consistent with Non-Imposition.
 """
@@ -229,7 +229,7 @@ class NestedListCandidateTests(unittest.TestCase):
         self.assertTrue(any(k.startswith("semicolons:") for k in hits[0].kinds))
 
     def test_ch6_tetrad_short_including_is_skipped(self) -> None:
-        text = """### Article VI: Education
+        text = """### Article IV: Education
 
 - **Flourishing:** sentients retain practical access to learning, including problem-solving, literacy, and civic skills.
 """

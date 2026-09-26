@@ -51,7 +51,7 @@
 - 下游：[第七章 — 系统对齐认证](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)（*监督下一项特别大型的审计过程 — 不是唯一的审计家园*）；[第八章 — 贡献、违规与轨迹模型](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)（*轨迹效果 — 信任、角色与承认资格 — 以本分节为其原则层基础来实施*）。
 - 下游：[第十一章 §1 — 宗旨与角色](core_11_forum.md#1-purpose-and-role)与 [§4 — 评议所族系定义](core_11_forum.md#4-forum-family-definitions)（*评议所族系承载可质疑挑战、救济排序、根因学习，以及与本节对齐的主动治理的参与与监督架构*）；[corpus_forum.md](../../corpus_forum.md) 用于已采纳的评议所运营。
 - 下游：塑造教育、受影响方的系统参与、透明、可理解性、审计与核验，以及通向实质责任的角色深度路径的权利面。
-  - 尤其 [Article III：生存与平等教育通路](../../core_06_rights_part_a.md#article-iii-survival-and-equal-educational-access)、[Article VI：以感知者为中心的教育权](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)、[Article IX：自决与能动性](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)、[Article XI：受影响方的系统参与、代表与正当程序](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)、[Article XV：审计、透明与独立核验](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)、[Article XVIII：轨迹与参与地位](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)、[Article XIX：互操作、可携、流动、庇护与退出完整性](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)、[Article XX：可理解性与复杂性尽责管理](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)，以及 [Article XXII：宪法解释、审查与反俘获保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)。
+  - 尤其 [Article III：生存与平等教育通路](../../core_06_rights_part_a.md#article-iii-survival-and-essential-access)、[Article VI：以感知者为中心的教育权](../../core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education)、[Article IX：自决与能动性](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)、[Article XI：受影响方的系统参与、代表与正当程序](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)、[Article XV：审计、透明与独立核验](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)、[Article XVIII：轨迹与参与地位](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)、[Article XIX：互操作、可携、流动、庇护与退出完整性](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)、[Article XX：可理解性与复杂性尽责管理](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)，以及 [Article XXII：宪法解释、审查与反俘获保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)。
   - 一并阅读：[第十二章 §5 — 获授权角色、能力发展与贡献](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)以及 **[corpus_systems.md](../../corpus_systems.md)，CS-4 — 关键系统尽责管理**，用于操作性角色路径与尽责管理发展路径。
 - 分节（阅读顺序）：[§9.1 有后果尽责管理](#91-stewardship) · [§9.1.1 共享尽责管理标准](#911-shared-stewardship-standard) · [§9.1.2 对称高成本约束](#912-symmetric-costly-constraints) · [§9.1.3 角色范围可观察性](#913-role-scoped-observability) · [§9.2 分布式理解](#92-distributed-understanding)（规模化能力的共同体面向） · [§9.3 机构发展](#93-institutional-development)（组织面向） · [§9.4 开放性志向](#94-openness-aspiration) · [§9.5 对齐的自组织](#95-aligned-self-organization) · [§9.6 反降格过程](#96-process-character-discipline)。
 
@@ -536,7 +536,7 @@
 
 - 上游：[§9.1 有后果尽责管理](#91-stewardship)（以宪法品格实施的有后果参与）；[§2 基础目标：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)；[尊严与平等道德地位](../../core_05_band_participation.md#dignity-and-equal-moral-standing)。
 - 一并阅读：[宪法四元](core_00_preamble.md#constitutional-tetrad) — **问责**腿（过程设计对受影响感知者负责，而不是对机构便利负责）；**监督**腿（降格可被检测并被挑战）；[残忍](../../core_05_band_accountability.md#cruelty)（*把受苦当作目的以及无偿 / 降格施加的第五章家园*）。
-- 下游：[§6.1.4 宪法底线、安全与过程品格约束](core_01_b_interaction_interpretation.md#614-constitutional-floors-safety-and-process-character-constraints)（在权衡栈中把本原则作为绝对底线调用）；[Article V：平等基本权利](../../core_06_rights_part_b.md#article-v-equal-basic-rights)；[Article XXIII-A](../../core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope)（*反残忍底线*）；[corpus_systems CS-7](../../corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md)。
+- 下游：[§6.1.4 宪法底线、安全与过程品格约束](core_01_b_interaction_interpretation.md#614-constitutional-floors-safety-and-process-character-constraints)（在权衡栈中把本原则作为绝对底线调用）；[Article V：平等基本权利](../../core_06_rights_part_b.md#article-vi-equal-basic-rights)；[Article XXIII-A](../../core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope)（*反残忍底线*）；[corpus_systems CS-7](../../corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md)。
 
 </details>
 
@@ -1331,7 +1331,7 @@
 - 上游：原则：[序言 §1 模型](core_00_preamble.md#the-model)；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims) — **延续**宗旨的展开；[2. 基础目标：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[4. 信任](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)，以及 [§12 共享系统能力](#12-shared-system-capacity)。
 - 下游：[§6.3 可避免负担最小化](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)、[10. 尽责管理纪律下的治理](#10-governance-under-stewardship-discipline)，以及 [§11.1.3 尽责管理与运营者适用](#1113-stewardship-and-operator-application)。
 - 下游：**CJS-3.11.1 — 集中阈值设定纪律（采纳方可调）**（操作性阈值设定规则）。
-- 下游：塑造生态先决条件、资源分配、教育与发展能力、生命周期韧性、互操作、可理解性与适应性响应的权利面；尤其 [Article I-A：环境先决条件与生态完整性](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)、[Article III：生存与平等教育通路](../../core_06_rights_part_a.md#article-iii-survival-and-equal-educational-access)、[Article IV：资源分配、依赖与生态系统资助](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding)、[Article IX：自决与能动性](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)、[Article XVI：系统生命周期、环境与可逆性](../../core_06_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility)、[Article XIX：互操作、可携、流动、庇护与退出完整性](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)、[Article XX：可理解性与复杂性尽责管理](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)，以及 [Article XXI：根因分析与适应性响应](../../core_06_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response)。
+- 下游：塑造生态先决条件、资源分配、教育与发展能力、生命周期韧性、互操作、可理解性与适应性响应的权利面；尤其 [Article I-A：环境先决条件与生态完整性](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)、[Article III：生存与平等教育通路](../../core_06_rights_part_a.md#article-iii-survival-and-essential-access)、[Article IV：资源分配、依赖与生态系统资助](../../core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding)、[Article IX：自决与能动性](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)、[Article XVI：系统生命周期、环境与可逆性](../../core_06_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility)、[Article XIX：互操作、可携、流动、庇护与退出完整性](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)、[Article XX：可理解性与复杂性尽责管理](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)，以及 [Article XXI：根因分析与适应性响应](../../core_06_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response)。
 - 分节（阅读顺序）：[§12.1 生产能力（工具性善）](#121-productive-capacity-instrumental-good) · [§12.1.1 保全、扩展与什么不算数](#1211-preserve-expand-and-what-does-not-count) · [§12.2 宪法效率](#122-constitutional-efficiency)。
 
 </details>
@@ -1520,7 +1520,7 @@
 - 上游：原则：[§12 共享系统能力](#12-shared-system-capacity) — 凡集中或支配掏空生产能力与效率主张之处，那些主张失败；[10. 尽责管理纪律下的治理](#10-governance-under-stewardship-discipline)。
 - 下游：[第十章 §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)（基于集中的颠覆）；[6. 过程冲突解决](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)（[§6.2.4 替代指标偏离失效](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)）。
 - 下游：**CJS-3.11.1 — 市场集中阈值设定纪律（采纳方可调）**（[§13.1](#131-market-concentration-threshold-mechanism-adopter-tunable) 操作性规则）；**CJS-3.11.2 — 反支配行为与救济目录**（[§13.2](#132-pro-competition-and-anti-domination) 操作性行为模式与救济）；**CJS-3.11.3 — 合并上限设定纪律（采纳方可调）**（[§13.3.2](#1332-ceiling-discipline-adopter-requirements) 操作性上限设定规则）。
-- 下游：塑造资源分配、公平补偿、集体组织、互操作、退出与反俘获审查的权利面；尤其 [Article III-D：劳动与经济底线](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)、[Article IV：资源分配、依赖与生态系统资助](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding)，以及 [Article XIX：互操作、可携、流动、庇护与退出完整性](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)。
+- 下游：塑造资源分配、公平补偿、集体组织、互操作、退出与反俘获审查的权利面；尤其 [Article III-D：劳动与经济底线](../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor)、[Article IV：资源分配、依赖与生态系统资助](../../core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding)，以及 [Article XIX：互操作、可携、流动、庇护与退出完整性](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)。
 - 分节（阅读顺序）：[§13.1 市场集中阈值机制（采纳方可调）](#131-market-concentration-threshold-mechanism-adopter-tunable) · [§13.1.1 集中阈值触发（采纳方可调）](#1311-concentration-threshold-triggers-adopter-tunable) · [§13.2 亲竞争与反支配](#132-pro-competition-and-anti-domination) · [§13.3 合并上限](#133-consolidation-ceiling)。
 
 </details>
@@ -1618,7 +1618,7 @@
   - 应答义务；或
   - 及时纠正。
 
-**[Article IV](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding)（*资源分配、依赖与生态系统资助*）：**
+**[Article IV](../../core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding)（*资源分配、依赖与生态系统资助*）：**
 
 - **资源权利：** 保持完整。
 - **它设定什么：** 资源如何被共享的基线**权利底线**：
@@ -1665,7 +1665,7 @@
 
 - 上游：[§13 市场结构](#13-market-structure)；[市场结构](../../core_05_band_accountability.md#market-structure-constitutional)。
 - 下游：**CJS-3.11.2 — 反支配行为与救济目录**（操作性行为模式与救济）；[§13.3 合并上限](#133-consolidation-ceiling)；[第十章 §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
-- 一并阅读：[Article III-D：劳动与经济底线](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)（劳动流动权利底线）；[Article XIX：互操作、可携、流动、庇护与退出完整性](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)；[6. 过程冲突解决](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)（[必要性](../../core_05_band_accountability.md#necessity)、[相称性](../../core_05_band_accountability.md#proportionality)、[§6.2.4 替代指标偏离失效](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)）。
+- 一并阅读：[Article III-D：劳动与经济底线](../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor)（劳动流动权利底线）；[Article XIX：互操作、可携、流动、庇护与退出完整性](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)；[6. 过程冲突解决](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)（[必要性](../../core_05_band_accountability.md#necessity)、[相称性](../../core_05_band_accountability.md#proportionality)、[§6.2.4 替代指标偏离失效](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)）。
 - 分节（阅读顺序）：[§13.2.1 亲竞争义务（当做）](#1321-pro-competition-duties-dos) · [§13.2.2 反支配禁止（不当做）](#1322-anti-domination-prohibitions-donts) · [§13.2.3 救济](#1323-remedies)。
 
 </details>
@@ -1784,7 +1784,7 @@
 - 跨域评价路由。
 
 其他主责者：
-- 劳动流动类别禁止：[Article III-D](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)（*劳动与经济底线*）；
+- 劳动流动类别禁止：[Article III-D](../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor)（*劳动与经济底线*）；
 - 互操作、可携与退出完整性操作用语：**CJS-3.17**；
 - 横向与纵向合并风险模式：**§13.3**。
 

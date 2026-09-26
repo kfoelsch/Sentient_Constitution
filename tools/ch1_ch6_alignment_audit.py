@@ -229,8 +229,8 @@ CH00_SECTION3_ANCHOR_RE = re.compile(
 )
 
 RIGHTS_FAMILIES = {
-    "survival/resources": ["I", "II", "III", "IV"],
-    "equality/access": ["V", "VI", "VII", "VIII"],
+    "survival/resources": ["I", "II", "III", "IV", "V"],
+    "equality/access": ["VI", "VII", "VIII"],
     "agency/participation": ["IX", "X", "XI"],
     "systems/trust/audit": ["XII", "XIII", "XIV", "XV", "XVI", "XVII"],
     "standing/interpretation": ["XVIII", "XIX", "XX", "XXI", "XXII"],

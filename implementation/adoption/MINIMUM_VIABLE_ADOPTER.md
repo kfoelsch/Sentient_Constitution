@@ -218,7 +218,7 @@ Treat these as **duty homes**, not automatically as separate offices. One body m
 | **Constitution and process** | **CF-1**, **CF-3**, **CF-4**, **CF-5**, **CF-6**, **CF-7** | Forum Track B (live map) | Forum Track A names a reviewer; it does not run these modules |
 | **Continuity and records** | **CF-11**, **CF-12**, **CF-13**, **CF-14**, **CF-15**, **CF-16** | Forum Track B | Same |
 | **Specialist support** | **CF-8**, **CF-9**, **CF-10** | When that family’s ordinary workload needs forensic, investigative, or specialist-chamber support | Low caseload may contract these rather than staff them; Class A/B should not assume “never” |
-| **Sentience-status record** | [`cf_sentience_status_record.md`](../../corpus_forum/cf_sentience_status_record.md) (not a CF family) | When the adopter hears or files sentience-status adjudication | Skip if that caseload is not in scope — do not use this skip to dodge [Article V-B](../../core_06_rights_part_b.md#article-v-b-sentience-status-adjudication-floor) when the facts are in scope |
+| **Sentience-status record** | [`cf_sentience_status_record.md`](../../corpus_forum/cf_sentience_status_record.md) (not a CF family) | When the adopter hears or files sentience-status adjudication | Skip if that caseload is not in scope — do not use this skip to dodge [Article VI-B](../../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) when the facts are in scope |
 
 **CF-2** is a reserved family id, not a module.
 

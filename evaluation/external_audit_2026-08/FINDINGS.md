@@ -58,7 +58,7 @@ No single scalar. A text that is stronger on scope and weaker on pedigree is **M
 
 **Who counts (comparator):** “All human beings are born free and equal in dignity and rights.” — UDHR Art. 1
 
-**Contested default (corpus):** “Where the state of knowledge, evidence, or classification taxonomy is materially unsettled as to whether the entity is a **sentient**, the adjudication must default to including the entity under the Chapter Six Rights Floor.” — [Article V-D](../../core_06_rights_part_b.md#article-v-b-sentience-status-adjudication-floor)
+**Contested default (corpus):** “Where the state of knowledge, evidence, or classification taxonomy is materially unsettled as to whether the entity is a **sentient**, the adjudication must default to including the entity under the Chapter Six Rights Floor.” — [Article V-D](../../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor)
 
 **Contested default (comparator):** “Because the writ of habeas corpus is intended to protect the liberty right of human beings to be free of unlawful confinement, it has no applicability to Happy, a nonhuman animal who is not a ‘person’ subjected to illegal detention.” — *Breheny*, 38 NY3d at 565–566
 
@@ -108,7 +108,7 @@ No single scalar. A text that is stronger on scope and weaker on pedigree is **M
 
 **Anti-offset (corpus):** Primary failure of Ecological Integrity includes “extinction of species, or comparable irreversible biodiversity loss, offered as offsettable, substitutable, or otherwise compensable.” — [Ecological Integrity](../../core_05_band_continuity.md#ecological-integrity-constitutional)
 
-**Indigenous (corpus vs comparator):** Indigenous Continuity “does not decide historical land ownership or require restitution on its own.” — [Article V-B](../../core_06_rights_part_b.md#article-v-c-nondiscrimination). UNDRIP Arts. 26–32 and ILO 169 Arts. 13–16 do address lands, territories, resources, and FPIC.
+**Indigenous (corpus vs comparator):** Indigenous Continuity “does not decide historical land ownership or require restitution on its own.” — [Article V-B](../../core_06_rights_part_b.md#article-vi-c-nondiscrimination). UNDRIP Arts. 26–32 and ILO 169 Arts. 13–16 do address lands, territories, resources, and FPIC.
 
 ### Steelman
 

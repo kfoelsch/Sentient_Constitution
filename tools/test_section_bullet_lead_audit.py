@@ -20,12 +20,12 @@ class SectionBulletLeadTests(unittest.TestCase):
         return [finding.line for finding in scan_text(rel_path, text)]
 
     def test_flags_bullet_after_widgets_and_gloss(self) -> None:
-        text = "#### Article III-E: Safe Working Conditions\n\n" + WIDGETS + (
+        text = "#### Article III-D: Safe Working Conditions\n\n" + WIDGETS + (
             "- **Safe working conditions:** Productive activity must be safe.\n"
         )
         findings = scan_text("core_06_rights_part_a.md", text)
         self.assertEqual(len(findings), 1)
-        self.assertEqual(findings[0].heading, "Article III-E: Safe Working Conditions")
+        self.assertEqual(findings[0].heading, "Article III-D: Safe Working Conditions")
         self.assertTrue(findings[0].preview.startswith("- **Safe"))
 
     def test_bullets_inside_widgets_are_not_the_opening(self) -> None:
@@ -37,7 +37,7 @@ class SectionBulletLeadTests(unittest.TestCase):
         self.assertEqual(len(self._lines("## A\n\n1. item\n")), 1)
 
     def test_accepts_lead_in_prose(self) -> None:
-        text = "### Article IV: Resources\n\nThis Article states floors:\n\n- **Flourishing:** x\n"
+        text = "### Article V: Resources\n\nThis Article states floors:\n\n- **Flourishing:** x\n"
         self.assertEqual(self._lines(text), [])
 
     def test_container_section_with_child_heading_is_out_of_scope(self) -> None:

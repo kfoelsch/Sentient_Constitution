@@ -471,7 +471,7 @@
 
 *쉬운 말로: 프라이버시는 헌법상 무게가 있는 이익입니다 — 공개가 없다는 것만은 아닙니다. 체계는 필요성과 비례가 정당화하는 것 너머로 개인·관계 정보를 모으고, 추론하고, 합산하고, 보유하고, 쓰면 안 됩니다. 프라이버시가 투명, 감사, 안전, 책무 의무와 충돌하면, 프라이버시를 자동 하위로 다루지 말고 §6.3 아래에서 충돌을 해결하십시오. 행위주체성, 결사, 표현을 위축시키는 감시는, 다른 권리 제한과 같은 필요성과 가장 덜 제한적인 규율을 충족해야 합니다.*
 
-**헌법 이익으로서의 프라이버시.** 프라이버시 — 정보 프라이버시, 공간·관계 프라이버시, 정당화되지 않은 감시로부터의 자유를 포함 — 는 **자유**([§5](core_01_a_values_principles.md#5-freedom-bounded-agency)), **존엄**([제 V-A조](../../core_06_rights_part_b.md#article-v-a-dignity-and-equal-moral-standing) (*존엄과 평등한 도덕 지위*)), 의미 있는 행위주체성과 강제되지 않은 참여의 조건을 받치는, 헌법상 무게가 있는 이익이다. 이 절의 교환·충돌 기계에서 독립 헌법 무게를 진다.
+**헌법 이익으로서의 프라이버시.** 프라이버시 — 정보 프라이버시, 공간·관계 프라이버시, 정당화되지 않은 감시로부터의 자유를 포함 — 는 **자유**([§5](core_01_a_values_principles.md#5-freedom-bounded-agency)), **존엄**([제 V-A조](../../core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*존엄과 평등한 도덕 지위*)), 의미 있는 행위주체성과 강제되지 않은 참여의 조건을 받치는, 헌법상 무게가 있는 이익이다. 이 절의 교환·충돌 기계에서 독립 헌법 무게를 진다.
 
 **수집과 사용 규율.** 개인, 관계, 행동, 생체, 내부상태 인접, 비슷한 정보의 수집, 추론, 합산, 보유, 이전, 사용은 다음을 충족해야 한다:
 - **필요성:** 헌법상 유효한 목적에 필요한 것보다 더 넓은 수집이나 보유가 없다.
@@ -576,7 +576,7 @@
 - 상류: 원칙: [2. 기초 목표: 복지](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 안전](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 진실](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. 신뢰](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. 과정 충돌 해결](#6-process-conflict-resolution), [5. 자유](core_01_a_values_principles.md#5-freedom-bounded-agency), [두 헌법 목적](core_00_preamble.md#two-constitutional-aims).
 - 하류: [15. 통합 적용](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 - 하류: 평등, 다툼 권리, 투명, 다툴 수 있음, 한정된 해석을 무너뜨릴 단일 가치 덮어쓰기 논리로부터 권리 면을 보호한다.
-  - 특히 [제 V조: 평등한 기본 권리](../../core_06_rights_part_b.md#article-v-equal-basic-rights), [제 XII-B조: 다툼, 검토, 구제에 대한 권리](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), [제 XIV-B조: 투명, 감사 가능성, 다툴 수 있음](../../core_06_rights_part_c.md#article-xiv-b-transparency-auditability-and-contestability), [제 XVIII-B조: 다툴 수 있음과 비례 제한 한도](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits), [제 XXII-A조: 한정된 해석 위임](../../core_06_rights_part_c.md#article-xxii-a-bounded-interpretive-mandate).
+  - 특히 [제 V조: 평등한 기본 권리](../../core_06_rights_part_b.md#article-vi-equal-basic-rights), [제 XII-B조: 다툼, 검토, 구제에 대한 권리](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), [제 XIV-B조: 투명, 감사 가능성, 다툴 수 있음](../../core_06_rights_part_c.md#article-xiv-b-transparency-auditability-and-contestability), [제 XVIII-B조: 다툴 수 있음과 비례 제한 한도](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits), [제 XXII-A조: 한정된 해석 위임](../../core_06_rights_part_c.md#article-xxii-a-bounded-interpretive-mandate).
 
 </details>
 

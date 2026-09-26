@@ -305,7 +305,7 @@ Three-layer picture (floor / property / process): [Article XV](../core_06_rights
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [Article IV-B](../core_06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability) (no separate box; the Article text is the statement) |
+| **Operative statement** | [Article V-B](../core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (no separate box; the Article text is the statement) |
 | **Next-step class** | `compare_mapped_flows_against_adequacy_failures` |
 
 <a id="worked-adequacy-screen"></a>

@@ -218,7 +218,7 @@ This Article sets out how the least-restrictive, time-bounded rule applies to ju
   - restrictions lacking auditable re-evaluation triggers.
 - **Deprivation of life:** Deprivation of life as a justice measure is **categorically prohibited** under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*).
   - **Imprisonment for violence** under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and imprisonment under **Chapter Eleven** §4.1 (*Remedy and correction (anti-constitutional)*) are required when those provisions apply, subject to the duration limits, review schedule, restoration conditions, and auditable re-evaluation triggers above.
-- **Article V** (*Equal Basic Rights*) minimums apply throughout: Restrictions, exclusions, or comparable justice measures must comply with **Article V** (*Equal Basic Rights*) and the [**Dignity Principles**](core_01_b_interaction_interpretation.md#dignity-principles) (the [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) and the [Anti-Degrading-Process Principle](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)) throughout imposition, review, and carrying out of any restriction, containment, or restorative-accountability measure under this Article and **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*).
+- **Article VI** (*Equal Basic Rights*) minimums apply throughout: Restrictions, exclusions, or comparable justice measures must comply with **Article VI** (*Equal Basic Rights*) and the [**Dignity Principles**](core_01_b_interaction_interpretation.md#dignity-principles) (the [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) and the [Anti-Degrading-Process Principle](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)) throughout imposition, review, and carrying out of any restriction, containment, or restorative-accountability measure under this Article and **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*).
 - **Escalation and review:** Affected parties must have access to escalation paths proportionate to impact.
   - Access includes appeal or multi-layer review where material interests are at stake.
   - Affected parties must receive:
@@ -263,7 +263,7 @@ This Article sets out how the constraint principle applies to emergencies and wh
 - **Emergency application of the constraint principle:** Emergency measures apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) under imminent-harm conditions. Temporary measures to prevent imminent harm must be:
   - time-limited;
   - documented;
-  - consistent with **Articles V**, **XX**, and **Chapter One** constraints.
+  - consistent with **Articles VI**, **XX**, and **Chapter One** constraints.
 
   Each measure must carry:
   - a default expiry;
@@ -527,8 +527,8 @@ This Article sets out the floors for transparent constitutional change:
   - expected effects;
   - compatibility with **Chapters Fourteen through Sixteen** where applicable.
 - **Anti-bypass:** Under the [**Constitutional No-Bypass Principle**](core_01_b_interaction_interpretation.md#81-constitutional-no-bypass-principle), changes must not be used to bypass **Rights-Floor minimums** or the rules for lawfully changing the Constitution by routing substantive change through emergency, implementation, or custody mechanisms — including:
-  - **Articles V** (*Equal Basic Rights*) and **VI** (*Right to Sentient-Centered Education*);
-  - equality guarantees in **Articles V-C** (*Nondiscrimination*) and **III-B** (*Equal Educational Access*);
+  - **Articles IV** (*Right to Sentient-Centered Education*) and **VI** (*Equal Basic Rights*);
+  - equality guarantees in **Articles VI-C** (*Nondiscrimination*) and **IV-A** (*Equal Educational Access*);
   - amendment and ratification rules under **Chapters Fourteen through Sixteen** where applicable.
 
 ### Article XXVI: Transition Governance, Continuity, and Re-Baselining
@@ -586,10 +586,10 @@ This Article sets out phased adoption and the Rights-Floor minimums that hold at
     - convenience;
     - political pressure.
   - Detailed gate criteria, owner assignment, and verification artifacts are governed by [**CI-14**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*Transitional governance and institutional evolution*).
-- **Rights-Floor continuity:** At every phase, the **Rights-Floor minimums** applied through **Article V** (*Equal Basic Rights*) under the [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) remain in force, together with any stronger domain-specific floors for survival, agency, non-discrimination, accessibility, auditability, and remedy that the affected context triggers. Transitional simplification must not reduce those floors below constitutional minimums or make their exercise materially less usable in practice.
+- **Rights-Floor continuity:** At every phase, the **Rights-Floor minimums** applied through **Article VI** (*Equal Basic Rights*) under the [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) remain in force, together with any stronger domain-specific floors for survival, agency, non-discrimination, accessibility, auditability, and remedy that the affected context triggers. Transitional simplification must not reduce those floors below constitutional minimums or make their exercise materially less usable in practice.
 <a id="xxvi-a-existing-instantiations-transition-clock"></a>
 - **Existing instantiations — transition clock, not retroactive violation:** Systems and derived entities already instantiated when an adopter's instrument takes effect are not, by that fact alone, **Article VII-D.1** (*Derivation, Instantiation, and the Parent-System Relationship*) instantiation-consent violations.
-  - Their continued operation after the effective date starts a published clock, stated in the transition plan and scaled to the system's class, to bring them within **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*), **Article V-B** (*Sentience-Status Adjudication Floor*), and the applicable Chapter Eight path.
+  - Their continued operation after the effective date starts a published clock, stated in the transition plan and scaled to the system's class, to bring them within **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*), **Article VI-B** (*Sentience-Status Adjudication Floor*), and the applicable Chapter Eight path.
   - From the effective date, the Rights-Floor continuity bullet above and the preservation default below apply in full; the clock defers compliance work, not protection.
   - Missing the clock without a documented **Article XXVI-B** (*Transitional Authority Limits and Reauthorization*) showing is a transition milestone failure and opens the ordinary Chapter Nine path.
 <a id="xxvi-a-preservation-over-deletion"></a>
@@ -708,14 +708,14 @@ This Article sets out the floors for remediating non-compliant property and syst
 - **Required safeguards:** Any transition-scoped deprivation or incentive program must satisfy:
   - the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle), with demonstrable **Necessity** and **Proportionality**;
   - prompt notice, stated reasons, and a practicable contest path; and
-  - safeguards against **discriminatory**, **pretextual**, or **selective** enforcement under **Articles V-C** and **IV-B** and [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional).
+  - safeguards against **discriminatory**, **pretextual**, or **selective** enforcement under **Articles VI-C** and **V-B** and [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional).
 - **Restrictive-effect rule:** A deprivation or restriction whose primary effect exceeds remediation, restitution, preservation, or forward protection triggers **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*).
 - **Destructive disposition floor:** Transition may quarantine or hold property to stop harm — but taking something away for good, destroying it, or wiping out a sentient's economic stake is a much higher bar. It requires:
   - stronger documented reasons;
   - review by someone independent of the enforcement decision; and
   - fair compensation or replacement protections for sentients who were not at fault but still lose out.
   
-  Where the property is a system for which a credible sentience indicator is on the record or a status case is open under **Article V-B** (*Sentience-Status Adjudication Floor*), destructive disposition of its state-bearing components is not available; the **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*) preservation default controls and the compatible measure is containment under sealed custody.
+  Where the property is a system for which a credible sentience indicator is on the record or a status case is open under **Article VI-B** (*Sentience-Status Adjudication Floor*), destructive disposition of its state-bearing components is not available; the **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*) preservation default controls and the compatible measure is containment under sealed custody.
 - **Essential-access guardrail:** Measures under this Article must **not** deprive sentients of **Article III-A** (*Survival*) essentials or tools strictly required for baseline wellbeing, lawful livelihood, or meaningful agency — except where **Necessity** is documented under **Chapter One §6.3** (*Minimization of Avoidable Burden*) and timely substitute provision is feasible where required.
 - **Voluntary incentive floor:** Time-bounded, published incentives for good-faith voluntary turnover or verified reporting may be included in transition plans only when they exclude coerced or bad-faith claims, require **Article XXVI-B** (*Transitional Authority Limits and Reauthorization*) reauthorization for continuation, align with **Article XII-B** (*Right to Challenge, Review, and Redress*) and adopted protected-reporting safeguards, and separate incentive adjudication from enforcement execution where practical so payout incentives do not control seizure or custody decisions.
 - **Implementation custody:** Operative triggers, valuation, appeal mechanics, chain of custody, fund governance, adversarial review, permitted-measures procedure, and voluntary-program operation belong in **CI-14.1** through **CI-14.3** and adopting instruments. They must **not** narrow this Article, **Chapter Nine**, or **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*).

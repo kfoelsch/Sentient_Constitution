@@ -43,13 +43,13 @@ If a body that actually runs the systems in your life adopted this Constitution:
 - **Today:** The usable path is for someone who already has a quiet room, a fee, and a form that matches the office. Delay and paperwork do the refusing.
 - **With this Constitution:** Equal educational access is a basic protection. Shutting you out with delay or paperwork instead of a straight no is a failure of that floor.
 
-See: [Article III-B](../../../core_06_rights_part_a.md#article-iii-b-equal-educational-access).
+See: [Article IV-A](../../../core_06_rights_part_a.md#article-iv-a-equal-educational-access).
 
 **School is supposed to build what you can actually do.**
 - **Today:** The ranking exam, the learning app, or the “placement” cannot be inspected. Credential theater leaves you unable to steer later work or shared systems.
 - **With this Constitution:** Capability-building education, including later training, and a real way to challenge high-stakes learning systems, are part of the floor — not a popularity score.
 
-See: [Article VI](../../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education); [Article VI-A](../../../core_06_rights_part_b.md#article-vi-a-capability-building-education-right).
+See: [Article IV](../../../core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education); [Article IV-B](../../../core_06_rights_part_a.md#article-iv-b-capability-building-education-right).
 
 **Enrollment is not a lever on your clinician or your speech.**
 - **Today:** Keep enrollment only if you drop the clinician, stay quiet, or accept unpaid hours dressed as “experience.”
@@ -61,7 +61,7 @@ See: [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-owners
 - **Today:** The internship is required to finish. There is no pay, no rest, no safety talk. Refusing is treated as dropping out.
 - **With this Constitution:** Anyone who contributes productive work holds fair compensation, rest, and safe conditions. A school label does not, by itself, make that disappear.
 
-See: [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor).
+See: [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor).
 
 ## What you might reasonably object to
 

@@ -105,7 +105,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 
 - Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality), and [9.1.4 Voluntary Discontinuation and Exit Rights](core_01_a_values_principles.md#52-voluntary-discontinuation-and-exit-rights).
 - Owner floor: [Article VII-F](core_06_rights_part_b.md#article-vii-f-voluntary-discontinuation-of-ones-own-existence) (*Voluntary Discontinuation of One's Own Existence*).
-- Read with: [Consent](core_05_band_participation.md#consent-constitutional), [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency), [Dependency](core_05_band_continuity.md#dependency), [Feasibility](core_05_band_accountability.md#feasibility), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Privacy (Informational)](core_05_band_continuity.md#privacy-informational), [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary), and [Bodily-Maintenance Access](core_05_band_continuity.md#bodily-maintenance-access-constitutional) where materially implicated; [Article III-A](core_06_rights_part_a.md#article-iii-a-survival) (*Survival*), [Article III-C](core_06_rights_part_a.md#article-iii-c-bodily-maintenance-and-healthcare-access) (*Bodily-Maintenance and Healthcare Access*), and [Article VII-C](core_06_rights_part_b.md#article-vii-c-mental-health-crisis-and-involuntary-intervention-floor) (*Mental-Health Crisis and Involuntary-Intervention Floor*).
+- Read with: [Consent](core_05_band_participation.md#consent-constitutional), [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency), [Dependency](core_05_band_continuity.md#dependency), [Feasibility](core_05_band_accountability.md#feasibility), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Privacy (Informational)](core_05_band_continuity.md#privacy-informational), [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary), and [Bodily-Maintenance Access](core_05_band_continuity.md#bodily-maintenance-access-constitutional) where materially implicated; [Article III-A](core_06_rights_part_a.md#article-iii-a-survival) (*Survival*), [Article III-B](core_06_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) (*Bodily-Maintenance and Healthcare Access*), and [Article VII-C](core_06_rights_part_b.md#article-vii-c-mental-health-crisis-and-involuntary-intervention-floor) (*Mental-Health Crisis and Involuntary-Intervention Floor*).
 
 </details>
 
@@ -125,14 +125,14 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 
     **Primary assessment:** Verify genuine voluntariness:
     - adequate information, time, reviewability, and reversibility up to irreversible execution consistent with the reversibility-under-uncertainty rule;
-    - detect dependency pressure, manipulation, rushed framing, and care-substitute routing where discontinuation is offered or operationalized instead of required mental-health care, physical healthcare, disability support, housing, or other survival essentials under Articles III-A, III-C, and VII-C;
+    - detect dependency pressure, manipulation, rushed framing, and care-substitute routing where discontinuation is offered or operationalized instead of required mental-health care, physical healthcare, disability support, housing, or other survival essentials under Articles III-A, III-B, and VII-C;
     - apply [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional) for [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional) cases under **Article VII-E** (*Developing Sentients, Best-Interest, and Graduated Capability*).
 <a id="voluntary-discontinuation-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:**
     - pressured or uninformed exit framed as voluntary discontinuation;
     - illusory or pressured consent framed as voluntary discontinuation;
-    - discontinuation offered, routed, or operationalized as a substitute for required mental-health care, physical healthcare, disability support, housing, or other survival essentials under Articles III-A, III-C, and VII-C;
+    - discontinuation offered, routed, or operationalized as a substitute for required mental-health care, physical healthcare, disability support, housing, or other survival essentials under Articles III-A, III-B, and VII-C;
     - conflating this entry with [Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional), third-party termination, or **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) prohibited measures;
     - relabelling an involuntary outcome as voluntary to route around **Article VII-F** (*Voluntary Discontinuation of One's Own Existence*).
 
@@ -149,7 +149,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 - **Joint invocation:** wherever recognition, conditional recognition, validation, revalidation, continued reliance, deployment, or material release from conditions is at issue; wherever a material-impact [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional) is required under CS-3; and wherever a material-impact [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional) is required under CS-2.
 - **Scope:** where joint invocation is met, the Continuity home for the Chapter Eight gate that checks whether a [System](core_05_band_continuity.md#system-definition) is constitutionally aligned before sentients rely on it at scale, including the CS-3 [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional) and the CS-2 [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional) that certification must incorporate when SAC runs. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others — not the sole auditing home (**Article XV** and [Auditability](core_05_band_oversight.md#auditability) remain).
 - **Canonical owner:** process, record contents, supervisory sequence, contestability chain, and the standing-record bridge are stated in [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); System Classification Record dual-axis contents, disclosure, challenge, and reclassification live in [corpus_systems.md](corpus_systems.md) **CS-3 — System classification and handling**; System Data Types Record contents, disclosure, challenge, and retyping live in **CS-2 — Information types and handling**; these entries provide the Chapter Five meanings only.
-- **Cluster boundary:** [Dependency and cross-system support](core_05_band_continuity.md#dependency-and-cross-system-support-semi-independent) remains outside this group — certification may check Article IV duties when shared-infrastructure reliance is in scope, but it is not a member of that Article IV pair.
+- **Cluster boundary:** [Dependency and cross-system support](core_05_band_continuity.md#dependency-and-cross-system-support-semi-independent) remains outside this group — certification may check Article V duties when shared-infrastructure reliance is in scope, but it is not a member of that Article V pair.
 
 **Topic group members.** This group comprises:
 - [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) — the forum-supervised process for determining whether a system demonstrates constitutional alignment sufficient for recognition, validation, continued reliance, or deployment;
@@ -171,8 +171,8 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 - Constitutional frame: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, **participation**, and **timeliness**; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** (primary) and **Continuity**; scales with [material stake](core_00_preamble.md#material-stake).
 - Canonical owner: [Chapter Eight — System Alignment Certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*process, record contents, supervisory sequence, and standing-record bridge*); read with [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#owner-non-relocation) and the [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights).
 - Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](core_05_band_continuity.md#system-alignment-certification-semi-independent).
-- Downstream: [Chapter Nine — Standing records and verified-input gate](core_09_standing_assessment.md#2-question-1--what-happened); [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*forum supervision*); [Article III-A](core_06_rights_part_a.md#article-iii-a-survival) (*survival-essential access floor where certification gates delivery or continued operation*); [Article IV-A](core_06_rights_part_a.md#article-iv-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*) and [Article IV-B](core_06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability) (*resource allocation and dependency stewardship where certification gates shared-infrastructure reliance*).
-- Read with: [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional); [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional); [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional); [Dependency and cross-system support](core_05_band_continuity.md#dependency-and-cross-system-support-semi-independent) where shared-infrastructure reliance or Article IV resource stewardship is materially implicated; [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), [Auditability](core_05_band_oversight.md#auditability), [Contestability](core_05_band_accountability.md#contestability), [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional), [Verified Inputs for Standing](core_05_band_accountability.md#verified-inputs-for-standing), [Standing Record](core_05_band_accountability.md#standing-record-chapter-six), [Trustworthiness](core_05_band_continuity.md#trustworthiness), [System Boundaries](core_05_band_continuity.md#system-boundaries), [Charter](core_05_band_continuity.md#charter), [System Capture](core_05_band_continuity.md#system-capture), and [corpus_systems.md](corpus_systems.md) **CS-3 — System classification and handling**.
+- Downstream: [Chapter Nine — Standing records and verified-input gate](core_09_standing_assessment.md#2-question-1--what-happened); [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*forum supervision*); [Article III-A](core_06_rights_part_a.md#article-iii-a-survival) (*survival-essential access floor where certification gates delivery or continued operation*); [Article V-A](core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*) and [Article V-B](core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*resource allocation and dependency stewardship where certification gates shared-infrastructure reliance*).
+- Read with: [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional); [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional); [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional); [Dependency and cross-system support](core_05_band_continuity.md#dependency-and-cross-system-support-semi-independent) where shared-infrastructure reliance or Article V resource stewardship is materially implicated; [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), [Auditability](core_05_band_oversight.md#auditability), [Contestability](core_05_band_accountability.md#contestability), [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional), [Verified Inputs for Standing](core_05_band_accountability.md#verified-inputs-for-standing), [Standing Record](core_05_band_accountability.md#standing-record-chapter-six), [Trustworthiness](core_05_band_continuity.md#trustworthiness), [System Boundaries](core_05_band_continuity.md#system-boundaries), [Charter](core_05_band_continuity.md#charter), [System Capture](core_05_band_continuity.md#system-capture), and [corpus_systems.md](corpus_systems.md) **CS-3 — System classification and handling**.
 
 </details>
 
@@ -198,7 +198,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
   - The process must produce or verify a [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional) and a [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional) and include each in the System Certification Record for every materially impactful certification.
   - It supports **Flourishing** by verifying that systems materially affecting sentients preserve wellbeing, agency, and [Chapter Six](core_06_rights_part_a.md#chapter-six-foundational-rights) Rights Floors, including:
     - survival-essential access under **Article III-A** (*Survival*) where deployment, operation, or continued reliance would supply, gate, or sustain food, water, shelter, operating-environment, or comparable substrate-agnostic essentials; and
-    - resource allocation under **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) where operation or continued reliance materially allocates, routes, funds, or extracts from shared infrastructure or foundational dependencies.
+    - resource allocation under **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) where operation or continued reliance materially allocates, routes, funds, or extracts from shared infrastructure or foundational dependencies.
   - It supports **Continuity** through:
     - class-scaled revalidation;
     - regression testing where required;
@@ -229,7 +229,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
        - Rights-Floor, accessibility, dependency, and ecological components;
     4. recognition or continued reliance does not foreclose:
        - survival-essential access;
-       - **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource-allocation and dependency floors where materially implicated; or
+       - **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource-allocation and dependency floors where materially implicated; or
        - challenge, audit, or remedy pathways protected under **Article III-A** (*Survival*), **Article XII-B** (*Right to Challenge, Review, and Redress*), **Article XVIII-B** (*Contestability and Proportional Restriction Limits*), or applicable incorporated procedure; and
     5. any feed into [Chapter Nine](core_09_standing_assessment.md#2-question-1--what-happened) standing records satisfies [Verified Inputs for Standing](core_05_band_accountability.md#verified-inputs-for-standing) and does not substitute certification for standing measurement or standing effects.
 <a id="system-alignment-certification-constitutional-c"></a>
@@ -250,7 +250,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
   - **Tertiary failure:** using certification, recognition, or conditional reliance to:
     - narrow, bypass, or defeat **Chapter Six** Rights Floors where materially implicated, including:
       - **Article III-A** (*Survival*) survival essentials; or
-      - **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource-allocation and dependency floors.
+      - **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource-allocation and dependency floors.
     - delay [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) where materially implicated;
   - **Tertiary failure:**
     - feeding [Chapter Nine](core_09_standing_assessment.md#2-question-1--what-happened) standing measurement from unverified, uncontested, or dispute-phase material; or
@@ -310,7 +310,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
        - the [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional) (or its required contents) under CS-2 and [Chapter Eight §4 Data Types and Handling Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation);
        - risk-evaluation and risk-disclosure findings where systemic risk is in scope under [Chapter Eight §3.1 Systemic Scope and Risk Factors](core_08_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) — stated on this record, not as a separate named risk-disclosure record;
        - ecological footprint evaluation where material;
-       - cross-system resource stewardship evaluation under [Chapter Eight §6 Proportionate Cross-System Support Evaluation](core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) where the **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies;
+       - cross-system resource stewardship evaluation under [Chapter Eight §6 Proportionate Cross-System Support Evaluation](core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) where the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies;
        - technical and stakeholder review components;
        - supervisory sequence;
        - outcome;
@@ -2011,8 +2011,8 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 
 - **Joint invocation:** where dependency mapping, resource-flow transparency, or cross-system extraction is material.
 - **Scope:** where joint invocation is met, shared reliance and return-flow adequacy — the Continuity home for how much sentients and systems rely on one another, and what systems drawing value from shared foundations must put back.
-- **Owner floor:** implements [Article IV](core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding) (*Resource Allocation, Dependencies, and Ecosystem Funding*) — typically [Article IV-A](core_06_rights_part_a.md#article-iv-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*) read with [Article IV-B](core_06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*).
-- **Cluster boundary:** [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](core_05_band_continuity.md#system-alignment-certification-semi-independent) remains outside this cluster — it is the Chapter Eight gate that may *check* these duties when shared-infrastructure reliance is in scope, not a member of the Article IV pair.
+- **Owner floor:** implements [Article V](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*Resource Allocation, Dependencies, and Ecosystem Funding*) — typically [Article V-A](core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*) read with [Article V-B](core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*).
+- **Cluster boundary:** [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](core_05_band_continuity.md#system-alignment-certification-semi-independent) remains outside this cluster — it is the Chapter Eight gate that may *check* these duties when shared-infrastructure reliance is in scope, not a member of the Article V pair.
 
 **Topic group members.** This group comprises:
 - [Dependency](core_05_band_continuity.md#dependency) — how much a sentient or system relies on another for survival, function, stability, or participation, including chained, asymmetric, and hard-to-see relationships;
@@ -2099,8 +2099,8 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner floor: [Article IV-B](core_06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*). Certification: [Chapter Eight §6 Proportionate Cross-System Support Evaluation](core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) where the **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies.
-- Downstream: [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) (*the support owed where extraction is material*); [Article IV-A](core_06_rights_part_a.md#article-iv-a-dependency-mapping-and-resource-flow-transparency) (*dependent-systems maps and resource-flow records that show extraction*); Continuity measurement family (*Dependency and resource flows*; *Cross-system support*).
+- Owner floor: [Article V-B](core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*). Certification: [Chapter Eight §6 Proportionate Cross-System Support Evaluation](core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) where the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies.
+- Downstream: [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) (*the support owed where extraction is material*); [Article V-A](core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*dependent-systems maps and resource-flow records that show extraction*); Continuity measurement family (*Dependency and resource flows*; *Cross-system support*).
 - Cluster component: [Dependency and cross-system support](core_05_band_continuity.md#dependency-and-cross-system-support-semi-independent).
 - Read with: [Dependency](core_05_band_continuity.md#dependency), [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), [Shared-System Capacity](core_05_band_continuity.md#shared-system-capacity-constitutional), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), and [Sustainability](core_05_band_continuity.md#sustainability). For other senses of "extraction," see [Privacy (Informational)](core_05_band_continuity.md#privacy-informational), [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional), and [Ecological Footprint](core_05_band_continuity.md#ecological-footprint).
 
@@ -2129,7 +2129,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
-    **Primary assessment:** Identify extraction from documented dependent-systems maps and auditable resource-flow records under **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*). For each shared or foundational dependency, measure:
+    **Primary assessment:** Identify extraction from documented dependent-systems maps and auditable resource-flow records under **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*). For each shared or foundational dependency, measure:
     - draw — the volume and share of the shared resource flows the system consumes;
     - return — documented support flowing back to the same substrate;
     - shifted burden — upkeep, outage-response, or participation costs moved onto other relying systems or sentients; and
@@ -2139,7 +2139,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional); and
     - [Sustainability](core_05_band_continuity.md#sustainability).
 
-    **Secondary assessment:** When evaluating the primary trace, treat extraction as material where it persists and the substrate is critical, weakly substitutable, or asymmetrically relied on. Carry material extraction into [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) adequacy review and, where the **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies, into [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional).
+    **Secondary assessment:** When evaluating the primary trace, treat extraction as material where it persists and the substrate is critical, weakly substitutable, or asymmetrically relied on. Carry material extraction into [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) adequacy review and, where the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies, into [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional).
 <a id="cross-system-extraction-c"></a>
 - **What must hold**
   - **Primary failure:** extraction left unidentified or understated in evaluation, including:
@@ -2157,8 +2157,8 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner floor: [Article IV-B](core_06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*). Implementation routing: **[corpus_systems.md](corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*); [Chapter Eight — System Alignment Certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) [§6](core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) where shared-infrastructure reliance is materially at issue.
-- Downstream: [Article IV-A](core_06_rights_part_a.md#article-iv-a-dependency-mapping-and-resource-flow-transparency) (*dependent-systems maps and resource-flow records used to evaluate adequacy*); [Preamble §2 *Measurements Overview*](core_00_preamble.md#2-measurements-overview) (*constitutional measurement orientation*); Continuity measurement family (*dependency and resource-flow measurement*).
+- Owner floor: [Article V-B](core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*). Implementation routing: **[corpus_systems.md](corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*); [Chapter Eight — System Alignment Certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) [§6](core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) where shared-infrastructure reliance is materially at issue.
+- Downstream: [Article V-A](core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*dependent-systems maps and resource-flow records used to evaluate adequacy*); [Preamble §2 *Measurements Overview*](core_00_preamble.md#2-measurements-overview) (*constitutional measurement orientation*); Continuity measurement family (*dependency and resource-flow measurement*).
 - Cluster component: [Dependency and cross-system support](core_05_band_continuity.md#dependency-and-cross-system-support-semi-independent).
 - Read with: [Cross-System Extraction](core_05_band_continuity.md#cross-system-extraction), [Dependency](core_05_band_continuity.md#dependency), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), [Proportionality](core_05_band_accountability.md#proportionality), [Ecological Footprint](core_05_band_continuity.md#ecological-footprint), [Sustainability](core_05_band_continuity.md#sustainability), [Shared-System Capacity](core_05_band_continuity.md#shared-system-capacity-constitutional), [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional), and [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold-constitutional).
 
@@ -2184,7 +2184,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - [Ecological Footprint](core_05_band_continuity.md#ecological-footprint) where material; and
     - long-term [Sustainability](core_05_band_continuity.md#sustainability).
 
-    This entry is the support **Article IV-B** (*Cross-System Fairness and Sustainability*) requires of systems that extract from shared foundations. It does not prescribe:
+    This entry is the support **Article V-B** (*Cross-System Fairness and Sustainability*) requires of systems that extract from shared foundations. It does not prescribe:
     - equal splits;
     - fixed percentages; or
     - a single funding model.
@@ -2195,7 +2195,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
-    **Primary assessment:** Reach substantive adequacy, not formal labeling or one-off transfers. Compare documented inflows and outflows on dependent-systems maps and auditable resource-flow records under **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) against the burden imposed on the shared or foundational dependency. At minimum, evaluate whether support includes, where material:
+    **Primary assessment:** Reach substantive adequacy, not formal labeling or one-off transfers. Compare documented inflows and outflows on dependent-systems maps and auditable resource-flow records under **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) against the burden imposed on the shared or foundational dependency. At minimum, evaluate whether support includes, where material:
     - continuity of operations — keeping the shared or foundational dependency running under ordinary load;
     - remedy and resilience capacity — capacity to repair, restore, and absorb shock when the dependency fails or degrades, where extraction materially increases collective harm risk;
     - ecosystem reinvestment — resources returned to the shared infrastructure and interoperability layer that the extracting system and other systems rely on; and
@@ -2225,7 +2225,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     while operations, auditability, contestability, or sustainability of the dependency materially degrade.
   - **Secondary failure:**
     - support flows that mainly entrench capture or concentration;
-    - support conditioned to defeat **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) transparency; or
+    - support conditioned to defeat **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) transparency; or
     - reading this entry as satisfied because a system meets the [Article III-A](core_06_rights_part_a.md#article-iii-a-survival) (*Survival*) survival floor or stays within [Chapter One §14 Market Structure](core_01_c_stewardship_capacity_principles.md#14-market-structure) market-concentration limits, where cross-system extraction remains materially imbalanced.
 
 ---
@@ -2708,8 +2708,8 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 
 - **Joint invocation:** where bodily-maintenance access, occupancy continuity or essential-environment stability, and environmental preconditions are materially interdependent as survival-floor conditions.
 - **Scope:** where joint invocation is met, the foundational conditions that preserve sentient life, function, and capacity for agency — the survival-floor stack.
-- **Owner floor:** implements [Article III](core_06_rights_part_a.md#article-iii-survival-and-equal-educational-access) (*Survival and Equal Educational Access*) (Survival Floor) and [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*).
-- **Cluster boundary:** [Safe Conditions](core_05_band_continuity.md#safe-conditions-constitutional) and [Leisure and Rest](core_05_band_continuity.md#leisure-and-rest-constitutional) live in the [Labor and Economic Floor cluster](core_05_band_continuity.md#labor-and-economic-floor-cluster) in Section 3.5, where they participate in the joint-invocation home for the work floors of **Articles III-D** (*Labor and Economic Floor*), **III-E** (*Safe Working Conditions*), and **III-F** (*Rest and Recuperation*) together with Fair Compensation and Collective Organization.
+- **Owner floor:** implements [Article III](core_06_rights_part_a.md#article-iii-survival-and-essential-access) (*Survival and Essential Access*) (Survival Floor) and [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*).
+- **Cluster boundary:** [Safe Conditions](core_05_band_continuity.md#safe-conditions-constitutional) and [Leisure and Rest](core_05_band_continuity.md#leisure-and-rest-constitutional) live in the [Labor and Economic Floor cluster](core_05_band_continuity.md#labor-and-economic-floor-cluster) in Section 3.5, where they participate in the joint-invocation home for the work floors of **Articles III-C** (*Labor and Economic Floor*), **III-D** (*Safe Working Conditions*), and **III-E** (*Rest and Recuperation*) together with Fair Compensation and Collective Organization.
 
 **Topic group members.** This group comprises:
 - [Bodily-Maintenance Access](core_05_band_continuity.md#bodily-maintenance-access-constitutional) — healthcare and maintenance access necessary to preserve life, function, and dignity across substrates;
@@ -2728,7 +2728,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-principle-constraints-safety-and-truth) (**Safety** stack read with survival-floor access).
-- Owner floor: [Article III-C](core_06_rights_part_a.md#article-iii-c-bodily-maintenance-and-healthcare-access) (*Bodily-Maintenance and Healthcare Access*); read with **Article VII-A** (*Self-Ownership of Body and Mind*) non-intrusion and **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*) involuntary-intervention floor.
+- Owner floor: [Article III-B](core_06_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) (*Bodily-Maintenance and Healthcare Access*); read with **Article VII-A** (*Self-Ownership of Body and Mind*) non-intrusion and **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*) involuntary-intervention floor.
 - Cluster component: [Bodily-Maintenance Access, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) where care access is materially tied to survival-floor continuity, occupancy continuity, essential operating environments, or environmental preconditions. (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster.)
 
 </details>
@@ -2844,7 +2844,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 
 - **Joint invocation:** where indigenous or community continuity and language, culture, or heritage protections are materially interdependent.
 - **Scope:** where joint invocation is met, community and cultural continuity protections, applied substrate-agnostically under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
-- **Owner floor:** implements [Article V-C](core_06_rights_part_b.md#article-v-c-nondiscrimination) (*Nondiscrimination*) and [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) community-continuity protections.
+- **Owner floor:** implements [Article VI-C](core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*) and [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) community-continuity protections.
 
 **Topic group members.** This group comprises:
 - [Indigenous Continuity](core_05_band_continuity.md#indigenous-continuity-constitutional) — a community-anchored, capability-functional floor for language, cultural practice, governance practice, and knowledge transmission in communities with durable territorial or ecosystem connection;
@@ -2862,7 +2862,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (community continuity / cumulative effects).
-- Owner floors: [Article V-C](core_06_rights_part_b.md#article-v-c-nondiscrimination) (*nondiscrimination and language / culture / heritage protection*) and [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*territorial / ecosystem-integrity precondition*). Interaction pointers: [Article XIX-D](core_06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness) (*refuge / non-statelessness*); [Chapter Seventeen](core_17_incorporation.md) (*adopter-jurisdiction discipline and Chapter Fourteen non-regression*).
+- Owner floors: [Article VI-C](core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*nondiscrimination and language / culture / heritage protection*) and [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*territorial / ecosystem-integrity precondition*). Interaction pointers: [Article XIX-D](core_06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness) (*refuge / non-statelessness*); [Chapter Seventeen](core_17_incorporation.md) (*adopter-jurisdiction discipline and Chapter Fourteen non-regression*).
 - Cluster component: [Bodily-Maintenance Access, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) where community continuity is materially tied to place, ecosystem, occupancy continuity, bodily-maintenance access, or participation capacity. (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster.)
 - Cluster component: [the dependent cluster *Indigenous Continuity, Language Culture and Heritage, Natural Systems Standing, and Intergenerational Responsibility*](core_05_band_continuity.md#indigenous-continuity-language-culture-heritage-semi-independent) (*joint invocation across indigenous continuity, language / culture / heritage, natural-systems standing, and intergenerational responsibility*).
 - Read with: [Language, Culture, and Heritage](core_05_band_continuity.md#language-culture-and-heritage-constitutional), [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility-constitutional), [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing), [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional), [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional), [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), [Necessity](core_05_band_accountability.md#necessity), and [Proportionality](core_05_band_accountability.md#proportionality).
@@ -2879,7 +2879,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - knowledge transmission, including community-custodial traditional, ecological, and technical knowledge.
 
     The floor is:
-    - community-anchored — distinct from but complementary to the individual-level protections of [Article V-C](core_06_rights_part_b.md#article-v-c-nondiscrimination) (*Nondiscrimination*) and [Language, Culture, and Heritage](core_05_band_continuity.md#language-culture-and-heritage-constitutional);
+    - community-anchored — distinct from but complementary to the individual-level protections of [Article VI-C](core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*) and [Language, Culture, and Heritage](core_05_band_continuity.md#language-culture-and-heritage-constitutional);
     - substrate-agnostic under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); and
     - capability-functional — triggered by material implication of community continuity, not by a category label.
 
@@ -2898,7 +2898,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 
     Then apply:
     - [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) to policies that produce disparate effects on community continuity; and
-    - [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) under **Article V-C** (*Nondiscrimination*) to any displacement, narrowing, or burden on the community-continuity floor.
+    - [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) under **Article VI-C** (*Nondiscrimination*) to any displacement, narrowing, or burden on the community-continuity floor.
 
     Routing and read-with:
     - Route territorial-continuity questions:
@@ -2909,7 +2909,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing) applies where the community-to-ecosystem relationship is materially implicated.
 <a id="indigenous-continuity-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** narrowings, displacements, exclusions contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), or category-label exclusions that defeat community-level continuity without satisfying **Article V-C** (*Nondiscrimination*) [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) tests; using this entry or [Chapter Seventeen](core_17_incorporation.md) incorporation to cut land, consultation, or free, prior, and informed consent duties the adopter already bears under its own law or binding instruments;
+  - **Primary failure:** narrowings, displacements, exclusions contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), or category-label exclusions that defeat community-level continuity without satisfying **Article VI-C** (*Nondiscrimination*) [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) tests; using this entry or [Chapter Seventeen](core_17_incorporation.md) incorporation to cut land, consultation, or free, prior, and informed consent duties the adopter already bears under its own law or binding instruments;
   - **Secondary failure:** adopter narrowing below the adopter's own prior recognition floor ([Chapter Fourteen non-regression](core_14_non_regression.md); [Chapter Seventeen §3](core_17_incorporation.md#3-safeguards) safeguards and [Chapter One §8.4.3 Incorporation layer](core_01_b_interaction_interpretation.md#843-incorporation-layer) stricter clearly adopted baseline);
   - **Tertiary failure:** misreading the boundary of this entry, including:
     - category-label framings substituting for capability-functional evaluation; and
@@ -2925,7 +2925,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [Chapter One §5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline) (nondiscrimination limitations tests).
-- Owner floor: [Article V-C](core_06_rights_part_b.md#article-v-c-nondiscrimination) (*Nondiscrimination*).
+- Owner floor: [Article VI-C](core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*).
 - Cluster component: [Bodily-Maintenance Access, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) where language, culture, or heritage continuity is materially tied to place, ecosystem, occupancy continuity, bodily-maintenance access, or participation capacity. (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster.)
 - Cluster component: [the dependent cluster *Indigenous Continuity, Language Culture and Heritage, Natural Systems Standing, and Intergenerational Responsibility*](core_05_band_continuity.md#indigenous-continuity-language-culture-heritage-semi-independent).
 - Read with: [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility-constitutional), [Indigenous Continuity](core_05_band_continuity.md#indigenous-continuity-constitutional), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
@@ -2955,7 +2955,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
-    **Primary assessment:** Look past the label to what the rule actually does, including protected-characteristic proxying — for example, language restrictions dressed up as operational, interoperability, or platform-consolidation rules that still deny language use or cultural practice. Calling the goal "homogenization" does not by itself meet the [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) tests **Article V-C** (*Nondiscrimination*) requires, including when that framing rests on:
+    **Primary assessment:** Look past the label to what the rule actually does, including protected-characteristic proxying — for example, language restrictions dressed up as operational, interoperability, or platform-consolidation rules that still deny language use or cultural practice. Calling the goal "homogenization" does not by itself meet the [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) tests **Article VI-C** (*Nondiscrimination*) requires, including when that framing rests on:
     - efficiency;
     - info-sphere integrity;
     - interoperability;
@@ -2968,12 +2968,12 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 
     **Secondary assessment:** When evaluating the primary trace, apply:
     - [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility-constitutional) where heritage transmission across generations is materially implicated; and
-    - [Indigenous Continuity](core_05_band_continuity.md#indigenous-continuity-constitutional) where community-level continuity is materially implicated (community-anchored floor; owner floors **Article V-C** (*Nondiscrimination*) and **Article I-A** (*Environmental Preconditions and Ecological Integrity*)).
+    - [Indigenous Continuity](core_05_band_continuity.md#indigenous-continuity-constitutional) where community-level continuity is materially implicated (community-anchored floor; owner floors **Article VI-C** (*Nondiscrimination*) and **Article I-A** (*Environmental Preconditions and Ecological Integrity*)).
 
     This entry's individual-level protection reads together with that community-level floor, without either narrowing the other.
 <a id="language-culture-and-heritage-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** burdens, exclusions, or harms based on language, culture, or heritage that fail the [Article V-C](core_06_rights_part_b.md#article-v-c-nondiscrimination) (*Nondiscrimination*) Necessity and Proportionality tests, regardless of framing;
+  - **Primary failure:** burdens, exclusions, or harms based on language, culture, or heritage that fail the [Article VI-C](core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*) Necessity and Proportionality tests, regardless of framing;
   - **Secondary failure:** narrowing language-minority or heritage-community protections under accessibility-cost, translation-burden, or operational-scale framings without satisfying those tests;
   - **Tertiary failure:** exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) where communication or cultural-practice modalities function as language- or culture-equivalents.
 
@@ -3013,12 +3013,12 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 
   Outside that scope, component definitions may operate as supporting Independent Definitions without importing the whole cluster.
 - **Scope:** where admission scope is met, the joint-invocation home for an integrated floor covering productive, contributed, or comparable activity, combining:
-  - **Article III-D** (*Labor and Economic Floor*) rights:
+  - **Article III-C** (*Labor and Economic Floor*) rights:
     - **Fair Compensation**;
     - **Safe Conditions**; and
     - **Leisure and Rest**; and
   - **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) disciplines where those duties are materially interdependent.
-- **Anti-bypass:** a matter within admission scope must not be segmented into any of the following in a way that satisfies one component while defeating materially interdependent duties under **Article III-D** and **Article VIII-D**:
+- **Anti-bypass:** a matter within admission scope must not be segmented into any of the following in a way that satisfies one component while defeating materially interdependent duties under **Article III-C** and **Article VIII-D**:
   - compensation;
   - organization;
   - safety;
@@ -3053,7 +3053,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [Chapter One §6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) (labor-floor burden vs false efficiency).
-- Owner floor: [Article III-D](core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*). Implementation routing: [**CI-9**](corpus_institutions/ci_09_classification_linked_institutional_obligations.md) (*Classification-linked institutional obligations*) / **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*) / **CI-11** (*Resource stewardship and incentive integrity*).
+- Owner floor: [Article III-C](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*). Implementation routing: [**CI-9**](corpus_institutions/ci_09_classification_linked_institutional_obligations.md) (*Classification-linked institutional obligations*) / **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*) / **CI-11** (*Resource stewardship and incentive integrity*).
 - Cluster component: [Def.C1 *Labor and Economic Floor*](core_05_band_continuity.md#labor-and-economic-floor-cluster).
 - Read with: [Safe Conditions](core_05_band_continuity.md#safe-conditions-constitutional), [Leisure and Rest](core_05_band_continuity.md#leisure-and-rest-constitutional), [Collective Organization](core_05_band_participation.md#collective-organization-constitutional), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Dependency](core_05_band_continuity.md#dependency), and [Lifespan Equivalent Unit (LEQU)](core_05_band_participation.md#lifespan-equivalent-unit-lequ) (where quantitative calibration of benefit or deprivation is material).
 
@@ -3073,9 +3073,9 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - reach substantive adequacy for participation and wellbeing;
     - track [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) across comparable activity; and
     - not operate as a coercion or dependency-pressure vector; and
-    - be paid in exchangeable form — not in scrip, company or platform credit, or other closed currency — as stated in **Article III-D** (*Labor and Economic Floor*).
+    - be paid in exchangeable form — not in scrip, company or platform credit, or other closed currency — as stated in **Article III-C** (*Labor and Economic Floor*).
 
-    Rooted in the **Article III-D** (*Labor and Economic Floor*) labor and economic floor; read on top of (not as a substitute for) the **Article III-A** (*Survival*) survival floor.
+    Rooted in the **Article III-C** (*Labor and Economic Floor*) labor and economic floor; read on top of (not as a substitute for) the **Article III-A** (*Survival*) survival floor.
   - **Out of scope:** ordinary voluntary exchange for goods or services outside sentient-productive-activity scope; or the **Article III-A** (*Survival*) survival floor alone when fair compensation for productive activity is not the question.
 <a id="fair-compensation-constitutional-a"></a>
 - **How to measure and assess**
@@ -3121,7 +3121,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (substantive participation and materiality under **accessibility** evaluation); [3. Non-Negotiable Constraints: Safety](core_01_a_values_principles.md#3-non-negotiable-principle-constraints-safety-and-truth) (**Safety** stack read with labor-floor role of this entry).
-- Owner floor: [Article III-E](core_06_rights_part_a.md#article-iii-e-safe-working-conditions) (*Safe Working Conditions*). Systems-layer implementation: [Article XII-A](core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*). Operational profile: `corpus_systems.md` CS-5 safety profiles where applicable.
+- Owner floor: [Article III-D](core_06_rights_part_a.md#article-iii-d-safe-working-conditions) (*Safe Working Conditions*). Systems-layer implementation: [Article XII-A](core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*). Operational profile: `corpus_systems.md` CS-5 safety profiles where applicable.
 - Cluster component: [Def.C1 *Labor and Economic Floor*](core_05_band_continuity.md#labor-and-economic-floor-cluster).
 - Read with: [Fair Compensation](core_05_band_continuity.md#fair-compensation-constitutional), [Collective Organization](core_05_band_participation.md#collective-organization-constitutional), [Leisure and Rest](core_05_band_continuity.md#leisure-and-rest-constitutional), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), [Harm](core_05_band_accountability.md#harm), [Risk](core_05_band_continuity.md#risk), [Reversibility](core_05_band_continuity.md#reversibility-constitutional), and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 
@@ -3186,7 +3186,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter One §6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) (participation-capacity preservation vs false efficiency); [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency) (**Meaningful Agency** in tradeoff stack); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Materiality** / **Dependency** scaling).
-- Owner floor: [Article III-F](core_06_rights_part_a.md#article-iii-f-rest-and-recuperation) (*Rest and Recuperation*).
+- Owner floor: [Article III-E](core_06_rights_part_a.md#article-iii-e-rest-and-recuperation) (*Rest and Recuperation*).
 - Cluster component: [Def.C1 *Labor and Economic Floor*](core_05_band_continuity.md#labor-and-economic-floor-cluster).
 - Read with: [Fair Compensation](core_05_band_continuity.md#fair-compensation-constitutional), [Collective Organization](core_05_band_participation.md#collective-organization-constitutional), [Safe Conditions](core_05_band_continuity.md#safe-conditions-constitutional), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Wellbeing](core_05_band_continuity.md#wellbeing), and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 
@@ -3351,7 +3351,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 
     **Secondary assessment:** When evaluating the primary trace:
     - apply [Consent](core_05_band_participation.md#consent-constitutional), [Good Faith](core_05_band_accountability.md#good-faith), and [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) where the derivative work hides or misstates where it came from;
-    - read jointly with [Fair Compensation](core_05_band_continuity.md#fair-compensation-constitutional) under [Article III-D](core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*) — attribution without compensation, or compensation without attribution, does not satisfy the floor where both are owed; and
+    - read jointly with [Fair Compensation](core_05_band_continuity.md#fair-compensation-constitutional) under [Article III-C](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) — attribution without compensation, or compensation without attribution, does not satisfy the floor where both are owed; and
     - read with [Training-Data Use](core_05_band_continuity.md#training-data-use-constitutional) and the [Anti-Displacement Floor](core_05_band_continuity.md#anti-displacement-floor-constitutional) where:
       - the same work is used as training data; or
       - deployment displaces the affected creator-population.
@@ -3437,7 +3437,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter One §13.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good); [Chapter One §14.1 Market Concentration Threshold Mechanism](core_01_c_stewardship_capacity_principles.md#141-market-concentration-threshold-mechanism-adopter-tunable) (displacement at population scale read-with §6 stack).
-- Owner floors: [Article III-D](core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*) (labor-and-economic, cross-cutting) and [Article VIII-D](core_06_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*) (creative-work application).
+- Owner floors: [Article III-C](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) (labor-and-economic, cross-cutting) and [Article VIII-D](core_06_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*) (creative-work application).
 - Cluster component: [Def.C1 *Labor and Economic Floor*](core_05_band_continuity.md#labor-and-economic-floor-cluster).
 - Read with: [Fair Compensation](core_05_band_continuity.md#fair-compensation-constitutional), [Collective Organization](core_05_band_participation.md#collective-organization-constitutional), [Safe Conditions](core_05_band_continuity.md#safe-conditions-constitutional), [Leisure and Rest](core_05_band_continuity.md#leisure-and-rest-constitutional), [Creative Work Attribution](core_05_band_continuity.md#creative-work-attribution-constitutional), [Training-Data Use](core_05_band_continuity.md#training-data-use-constitutional), [Productive Capacity](core_05_band_continuity.md#productive-capacity-constitutional), [Avoidable Burden](core_05_band_continuity.md#avoidable-burden), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 

@@ -42,7 +42,7 @@ This file is the institutional implementation home for **CI-23** (*Place-based s
 - **The basic idea** — place-based stewardship decisions must identify affected communities, publish consultation pathways, and keep records that support accountable reconstruction — not symbolic listening sessions with no effect.
 - **Indigenous continuity** — where community continuity of language, culture, governance practice, or knowledge transmission is materially implicated, institutions must route the response under:
   - **Chapter Five** *Indigenous Continuity*;
-  - the owner floors in **Article V-C** (*Nondiscrimination*) and **Article I-A** (*Environmental Preconditions and Ecological Integrity*).
+  - the owner floors in **Article VI-C** (*Nondiscrimination*) and **Article I-A** (*Environmental Preconditions and Ecological Integrity*).
 - **Consultation records** — who was consulted, what was said, what changed, and what did not must be custodied and auditable.
 - **Compliance theater** — funded projects that box-check consultation without meaningful risk response must escalate through **CI-7.2** (*External assurance triggers*) and **CI-12** (*Cross-institution coordination and escalation*).
 - **What this is not** — no unbounded territorial-restitution mandate; no constitutional-layer adjudication of historical territorial claims; adoption-scope and adopter-jurisdiction discipline stay in **Chapter Seventeen**.
@@ -52,7 +52,7 @@ This file is the institutional implementation home for **CI-23** (*Place-based s
 *Shared rules live elsewhere.*
 - [**CJS-3.7**](../corpus_joint_structure/cjs_03p_participation_operations.md) (*quorum and participatory legitimacy terms*) — **Stakeholder oversight and binding-governance pathway integrity**.
 - Chapter Five [*Indigenous Continuity*](../core_05_band_continuity.md#indigenous-continuity-constitutional); [*Natural Systems Standing*](../core_05_band_participation.md#natural-systems-standing).
-- **Article I-A** (*Environmental Preconditions and Ecological Integrity*); **Article V-C** (*Nondiscrimination*); **Article XIX-D** (*Movement, Migration, Refuge, and Non-Statelessness*); **Chapter Seventeen**.
+- **Article I-A** (*Environmental Preconditions and Ecological Integrity*); **Article VI-C** (*Nondiscrimination*); **Article XIX-D** (*Movement, Migration, Refuge, and Non-Statelessness*); **Chapter Seventeen**.
 - **CI-7.2** (*External assurance triggers*); **CI-8** (*Transparency, participation, and accessible challenge and service pathways*). This file does not repeat those floors.
 
 **Apply.** Apply **CJS-3.7** **Stakeholder oversight and binding-governance pathway integrity**. **CI-23** states only the local owner duties below — without creating an unbounded territorial-restitution mandate or reopening adoption-scope choices reserved to **Chapter Seventeen**.
@@ -61,12 +61,12 @@ This file is the institutional implementation home for **CI-23** (*Place-based s
 Each institution in scope must name the office or body responsible for:
 - **consultation-record custody** — who receives, stores, versions, and publishes consultation notices, submissions, responses, and decision rationales so participation can be reconstructed and challenged later;
 - **stakeholder and affected-community identification** — who determines which place-linked, Indigenous, tenure-holding, ecosystem-dependent, or comparable communities are materially affected, and so must receive notice and practical participation routes under **CJS-3.7** (*quorum and participatory legitimacy terms*);
-- **indigenous-continuity response** — who evaluates and routes decisions that materially implicate **Chapter Five** *Indigenous Continuity*, including impacts on language, cultural practice, governance practice, and knowledge transmission, under **Article V-C** (*Nondiscrimination*), **Article I-A** (*Environmental Preconditions and Ecological Integrity*), and **Chapter Seventeen** discipline where territorial-continuity questions arise;
+- **indigenous-continuity response** — who evaluates and routes decisions that materially implicate **Chapter Five** *Indigenous Continuity*, including impacts on language, cultural practice, governance practice, and knowledge transmission, under **Article VI-C** (*Nondiscrimination*), **Article I-A** (*Environmental Preconditions and Ecological Integrity*), and **Chapter Seventeen** discipline where territorial-continuity questions arise;
 - **advisory-versus-binding pathway publication** — who publishes whether a consultation route is advisory, binding, or relied on for governance effect, and what challenge or correction paths follow; and
 - **compliance-theater escalation** — who escalates funded projects or supervised programs where consultation occurs without meaningful risk response to **CI-7.2** (*External assurance triggers*) external-assurance triggers and **CI-12** (*Cross-institution coordination and escalation*) cross-institution escalation.
 Read **Chapter Five** *Indigenous Continuity* alongside these articles where materially applicable:
 - **Article I-A** (*Environmental Preconditions and Ecological Integrity*);
-- **Article V-C** (*Nondiscrimination*);
+- **Article VI-C** (*Nondiscrimination*);
 - **Article XIX-D** (*Movement, Migration, Refuge, and Non-Statelessness*).
 
 ---

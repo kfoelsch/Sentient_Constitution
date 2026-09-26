@@ -41,7 +41,7 @@ If a body that actually runs the systems in your life adopted this Constitution:
 - **Today:** There is no formal contract, or the contract is a waiver. Someone says informality means you opted out of rights. No contract, no floor.
 - **With this Constitution:** Anyone who contributes productive work — wages, contracts, platforms, cooperatives, or comparable arrangements — holds fair compensation, collective organization, safe conditions, and rest. Classification tricks designed to defeat that are out.
 
-See: [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor).
+See: [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor).
 
 **Poverty is not a lawful gate on survival.**
 - **Today:** Being poor is treated as proof you can be priced out of water, shelter, or a clinic. “Unbanked” is used as a lesser tier.
@@ -77,7 +77,7 @@ See: [CI-22](../../../corpus_institutions/ci_22_commons_cooperatives_mutual_aid_
 
 - **“This isn’t our law.”** Correct. It does not override applicable law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)). Use inside an existing framework has to stay consistent with that framework.
 
-- **“Call this ‘developing world’ and you have already ranked us.”** You do not have to take that label to use this page. This brief is for someone who sells in a market, cooks, builds, drives, cares, or takes platform tasks, with thin public protections and a newly arrived ID, payment, or aid gate. It does not change the Rights Floor that applies to you. The same lock-in and labor patterns appear in rich cities. When work or leaving an app is actually at stake, those rules are located in the sections on [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) and [Article XIX](../../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity).
+- **“Call this ‘developing world’ and you have already ranked us.”** You do not have to take that label to use this page. This brief is for someone who sells in a market, cooks, builds, drives, cares, or takes platform tasks, with thin public protections and a newly arrived ID, payment, or aid gate. It does not change the Rights Floor that applies to you. The same lock-in and labor patterns appear in rich cities. When work or leaving an app is actually at stake, those rules are located in the sections on [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) and [Article XIX](../../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity).
 
 ## What this will not pretend to give you
 

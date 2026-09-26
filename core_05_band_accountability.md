@@ -1666,7 +1666,7 @@ The short form for **Materially Binding Act Record** in this instrument is **Act
     - **Principle-layer owner:** [Chapter One §14.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](core_01_c_stewardship_capacity_principles.md#141-market-concentration-threshold-mechanism-adopter-tunable).
     - **Controlling principles:** The threshold remains subject to the [Chapter One §14 Market Structure](core_01_c_stewardship_capacity_principles.md#14-market-structure) non-concentration rule, the [Chapter One §14.2 Pro-Competition and Anti-Domination](core_01_c_stewardship_capacity_principles.md#142-pro-competition-and-anti-domination) pro-competition and anti-domination discipline, and the [Chapter One §14.3 Consolidation Ceiling](core_01_c_stewardship_capacity_principles.md#143-consolidation-ceiling) consolidation-ceiling trigger.
     - **Operational discipline:** **CJS-3.11.1 — Market concentration threshold-setting discipline (adopter-tunable)**.
-    - **Rights-layer pointer:** [Article IV](core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding) (*Resource Allocation, Dependencies, and Ecosystem Funding*).
+    - **Rights-layer pointer:** [Article V](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*Resource Allocation, Dependencies, and Ecosystem Funding*).
     - **Anti-nullification:** Adopter-tunable thresholds and ceilings cannot nullify the Chapter One §14 (*Market Structure*) floor against concentration that predictably degrades wellbeing, agency, dignity, or ecological integrity.
     - **Application:** This definition applies across substrates and jurisdictions.
   - **Out of scope:** ordinary firm size, temporary innovation lead, or lawful scale below the operational trigger for heightened review.
@@ -2168,7 +2168,7 @@ See **Joint invocation and satisfaction**.
     - knowledge governance;
     - standards stewardship;
     - reducing bounded uncertainty that matters to adjudication or regulation; or
-    - [Article V-B](core_06_rights_part_b.md#article-v-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) sentience-status determination on indicators, expert evidence, or bounded uncertainty under [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional).
+    - [Article VI-B](core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) sentience-status determination on indicators, expert evidence, or bounded uncertainty under [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional).
   - **Out of scope:** non-technical primary questions — rights, mandate, ecological, or constitutional merits assigned to another family under Chapter Twelve §2 (*Default venue and primary stakes*), except where this family's sentience-status lead role under [Chapter Twelve §5 Escalation and certification](core_12_forum.md#5-escalation-and-certification) applies.
 <a id="forum-family-technical-a"></a>
 - **How to measure and assess**

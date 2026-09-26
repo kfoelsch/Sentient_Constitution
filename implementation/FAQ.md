@@ -23,7 +23,7 @@ See: [Chapter Fifteen §5](../core_15_expansion_supremacy.md#5-relation-to-appli
 
 Who is protected is a sentience-status question with a default-inclusion floor while that question is unresolved. A trust score, a participation vote, or a product label is not that decision.
 
-See: [Article V-B](../core_06_rights_part_b.md#article-v-b-sentience-status-adjudication-floor); [Article XVIII-A](../core_06_rights_part_c.md#article-xviii-a-standing-distinction).
+See: [Article VI-B](../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor); [Article XVIII-A](../core_06_rights_part_c.md#article-xviii-a-standing-distinction).
 
 ### 4. What is the difference between using it as a handbook and a body agreeing to follow it?
 

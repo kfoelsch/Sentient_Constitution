@@ -471,7 +471,7 @@
 
 *用直白的话说：隐私是一项具有宪法权重的利益 — 不只是没有披露。系统不得在必要性与相称性所能正当化的范围之外，收集、推断、汇总、保留或使用个人与关系信息。凡隐私与透明、审计、安全或问责义务碰撞之处，该碰撞在 §6.3 下解决，而不是把隐私当作自动从属。会寒蝉能动性、结社或表达的监视，必须满足与任何其他权利限制相同的必要性与限制最少纪律。*
 
-**隐私作为宪法利益。** 隐私 — 包括信息隐私、空间与关系隐私，以及免于无正当化监视的自由 — 是一项具有宪法权重的利益，支撑**自由**（[§5](core_01_a_values_principles.md#5-freedom-bounded-agency)）、**尊严**（[Article V-A](../../core_06_rights_part_b.md#article-v-a-dignity-and-equal-moral-standing)（《尊严与平等道德地位》）），以及有意义的能动性与不受胁迫之参与的条件。它在本节的权衡与碰撞机器中携带独立的宪法权重。
+**隐私作为宪法利益。** 隐私 — 包括信息隐私、空间与关系隐私，以及免于无正当化监视的自由 — 是一项具有宪法权重的利益，支撑**自由**（[§5](core_01_a_values_principles.md#5-freedom-bounded-agency)）、**尊严**（[Article V-A](../../core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing)（《尊严与平等道德地位》）），以及有意义的能动性与不受胁迫之参与的条件。它在本节的权衡与碰撞机器中携带独立的宪法权重。
 
 **收集与使用纪律。** 对个人、关系、行为、生物识别、内部状态邻近或类似信息的收集、推断、汇总、保留、转移与使用，必须满足：
 - **必要性：** 收集或保留不得宽于宪法上有效目的所要求的范围。
@@ -576,7 +576,7 @@
 - 上游：原则：[2. 基础目标：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[4. 信任](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)、[§9 尽责管理与分布式理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)、[6. 过程冲突解决](#6-process-conflict-resolution)、[5. 自由](core_01_a_values_principles.md#5-freedom-bounded-agency)，以及[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)。
 - 下游：[15. 综合适用](core_01_c_stewardship_capacity_principles.md#15-integrated-application)。
 - 下游：保护权利面，使其免于会压垮平等、质疑权、透明、可质疑性或有界解释的单价值覆盖逻辑。
-  - 尤其 [Article V：平等基本权利](../../core_06_rights_part_b.md#article-v-equal-basic-rights)、[Article XII-B：质疑、审查与救济权](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)、[Article XIV-B：透明、可审计性与可质疑性](../../core_06_rights_part_c.md#article-xiv-b-transparency-auditability-and-contestability)、[Article XVIII-B：可质疑性与相称限制限度](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits)，以及 [Article XXII-A：有界解释授权](../../core_06_rights_part_c.md#article-xxii-a-bounded-interpretive-mandate)。
+  - 尤其 [Article V：平等基本权利](../../core_06_rights_part_b.md#article-vi-equal-basic-rights)、[Article XII-B：质疑、审查与救济权](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)、[Article XIV-B：透明、可审计性与可质疑性](../../core_06_rights_part_c.md#article-xiv-b-transparency-auditability-and-contestability)、[Article XVIII-B：可质疑性与相称限制限度](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits)，以及 [Article XXII-A：有界解释授权](../../core_06_rights_part_c.md#article-xxii-a-bounded-interpretive-mandate)。
 
 </details>
 

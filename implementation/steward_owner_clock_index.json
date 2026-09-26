@@ -577,8 +577,8 @@
       "fact_pattern": "A system keeps drawing value from shared foundations. The return is a press release, a one-time grant, an opaque transfer, or survival-floor compliance.",
       "owners": [
         {
-          "label": "Article IV-B",
-          "href": "core_06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability"
+          "label": "Article V-B",
+          "href": "core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability"
         },
         {
           "label": "Proportionate Cross-System Support",
@@ -596,11 +596,11 @@
       "conflict_rule": "Proportionate Cross-System Support is mapped, auditable resource flows. A formula is not required. A press release is not enough.",
       "forbidden_move": "Do not treat a press release, a one-time grant, an opaque transfer, an off-map transfer, or the fact that a system meets the survival floor or stays within market-concentration limits as Proportionate Cross-System Support.",
       "clock": null,
-      "clock_note": "Compare inflows and outflows on dependent-systems maps and auditable resource-flow records under Article IV-A as they stand now. Do not wait for a later allocation formula.",
+      "clock_note": "Compare inflows and outflows on dependent-systems maps and auditable resource-flow records under Article V-A as they stand now. Do not wait for a later allocation formula.",
       "eval_scenario_ids": [],
       "operative_box": {
-        "label": "Article IV-B — Cross-System Fairness and Sustainability (operative text; no separate box)",
-        "href": "core_06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability"
+        "label": "Article V-B — Cross-System Fairness and Sustainability (operative text; no separate box)",
+        "href": "core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability"
       }
     },
     {

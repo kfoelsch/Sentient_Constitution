@@ -51,7 +51,7 @@
 - 하류: [제7장 — 체계 정합 인증](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*감독 아래 특히 큰 감사 과정 하나 — 유일한 감사 거처가 아님*); [제8장 — 기여, 위반, 궤적 모형](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*궤적 효과 — 신뢰·역할·인정 자격 — 이 하위절을 원칙 층 기초로 시행한다*).
 - 하류: [제11장 §1 — 목적과 역할](core_11_forum.md#1-purpose-and-role)과 [§4 — 포럼 가족 정의](core_11_forum.md#4-forum-family-definitions) (*포럼 가족은 이 절과 정합된 다툴 수 있는 다툼, 구제 순서, 근본원인 학습, 선제 거버넌스를 위한 참여와 감독 아키텍처를 운반한다*); 채택된 포럼 운영을 위한 [corpus_forum.md](../../corpus_forum.md).
 - 하류: 교육, 영향받는 쪽의 체계 참여, 투명, 이해 가능성, 감사와 확인, 실질 책임으로 들어가는 역할 깊이 경로의 권리 면을 빚는다.
-  - 특히 [제 III조: 생존과 평등한 교육 접근](../../core_06_rights_part_a.md#article-iii-survival-and-equal-educational-access), [제 VI조: 감지자 중심 교육에 대한 권리](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [제 IX조: 자기결정과 행위주체성](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency), [제 XI조: 영향받는 쪽의 체계 참여, 대표, 적법절차](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process), [제 XV조: 감사, 투명, 독립 확인](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [제 XVIII조: 궤적과 참여 지위](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status), [제 XIX조: 상호운용, 이동 가능성, 이동, 피난, 출구 완전성](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity), [제 XX조: 이해 가능성과 복잡성 책임 있는 관리](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship), [제 XXII조: 헌법 해석, 검토, 포획 금지 안전장치](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards).
+  - 특히 [제 III조: 생존과 평등한 교육 접근](../../core_06_rights_part_a.md#article-iii-survival-and-essential-access), [제 VI조: 감지자 중심 교육에 대한 권리](../../core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education), [제 IX조: 자기결정과 행위주체성](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency), [제 XI조: 영향받는 쪽의 체계 참여, 대표, 적법절차](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process), [제 XV조: 감사, 투명, 독립 확인](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [제 XVIII조: 궤적과 참여 지위](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status), [제 XIX조: 상호운용, 이동 가능성, 이동, 피난, 출구 완전성](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity), [제 XX조: 이해 가능성과 복잡성 책임 있는 관리](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship), [제 XXII조: 헌법 해석, 검토, 포획 금지 안전장치](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards).
   - 함께 읽기: [제12장 §5 — 수권된 역할, 역량 개발, 기여](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)와 **[corpus_systems.md](../../corpus_systems.md), CS-4 — 핵심 체계 책임 있는 관리** — 운영 역할 경로와 책임 있는 관리 개발 경로를 위해.
 - 하위절(읽기 순서): [§9.1 결과가 있는 책임 있는 관리](#91-stewardship) · [§9.1.1 공유 책임 있는 관리 표준](#911-shared-stewardship-standard) · [§9.1.2 대칭 비용 제약](#912-symmetric-costly-constraints) · [§9.1.3 역할 범위 관측 가능성](#913-role-scoped-observability) · [§9.2 분산된 이해](#92-distributed-understanding) (규모 역량의 공동체 면) · [§9.3 제도 발전](#93-institutional-development) (조직 면) · [§9.4 개방성 지향](#94-openness-aspiration) · [§9.5 정합된 자기조직](#95-aligned-self-organization) · [§9.6 저하 과정 금지](#96-process-character-discipline).
 
@@ -536,7 +536,7 @@
 
 - 상류: [§9.1 결과가 있는 책임 있는 관리](#91-stewardship) (헌법 성격을 갖춘 결과가 있는 참여); [§2 기초 목표: 복지](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [존엄과 평등한 도덕 지위](../../core_05_band_participation.md#dignity-and-equal-moral-standing).
 - 함께 읽기: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — **책무** 다리(과정 설계는 제도 편의가 아니라 영향받는 감지자에게 답한다); **감독** 다리(저하는 탐지되고 다툴 수 있다); [잔인](../../core_05_band_accountability.md#cruelty) (*목적으로서의 고통과 무상 / 저하하는 가함의 제5장 거처*).
-- 하류: [§6.1.4 헌법 바닥, 안전, 과정 성격 제약](core_01_b_interaction_interpretation.md#614-constitutional-floors-safety-and-process-character-constraints) (이 원칙을 교환 스택의 절대 바닥으로 끌어온다); [제 V조: 평등한 기본 권리](../../core_06_rights_part_b.md#article-v-equal-basic-rights); [제 XXIII-A조](../../core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*잔인 금지 바닥*); [corpus_systems CS-7](../../corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md).
+- 하류: [§6.1.4 헌법 바닥, 안전, 과정 성격 제약](core_01_b_interaction_interpretation.md#614-constitutional-floors-safety-and-process-character-constraints) (이 원칙을 교환 스택의 절대 바닥으로 끌어온다); [제 V조: 평등한 기본 권리](../../core_06_rights_part_b.md#article-vi-equal-basic-rights); [제 XXIII-A조](../../core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*잔인 금지 바닥*); [corpus_systems CS-7](../../corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md).
 
 </details>
 
@@ -1330,7 +1330,7 @@
 - 상류: 원칙: [전문 §1 모형](core_00_preamble.md#the-model); [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) — **연속** 목적의 전개; [2. 기초 목표: 복지](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [4. 신뢰](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§12 공유 체계 능력](#12-shared-system-capacity).
 - 하류: [§6.3 피할 수 있는 부담의 최소화](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [10. 책임 있는 관리 규율 아래 거버넌스](#10-governance-under-stewardship-discipline), [§11.1.3 책임 있는 관리와 운영자 적용](#1113-stewardship-and-operator-application).
 - 하류: **CJS-3.11.1 — 집중 문턱 설정 규율(채택 주체가 조절 가능)** (운영 문턱 설정 규칙).
-- 하류: 생태 전제, 자원 배분, 교육과 발달 능력, 수명주기 회복력, 상호운용, 이해 가능성, 적응 응답의 권리 면을 빚는다; 특히 [제 I-A조: 환경 전제와 생태 완전성](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity), [제 III조: 생존과 평등한 교육 접근](../../core_06_rights_part_a.md#article-iii-survival-and-equal-educational-access), [제 IV조: 자원 배분, 의존, 생태계 자금](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding), [제 IX조: 자기결정과 행위주체성](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency), [제 XVI조: 체계 수명주기, 환경, 가역성](../../core_06_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility), [제 XIX조: 상호운용, 이동 가능성, 이동, 피난, 출구 완전성](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity), [제 XX조: 이해 가능성과 복잡성 책임 있는 관리](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship), [제 XXI조: 근본원인 분석과 적응 응답](../../core_06_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response).
+- 하류: 생태 전제, 자원 배분, 교육과 발달 능력, 수명주기 회복력, 상호운용, 이해 가능성, 적응 응답의 권리 면을 빚는다; 특히 [제 I-A조: 환경 전제와 생태 완전성](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity), [제 III조: 생존과 평등한 교육 접근](../../core_06_rights_part_a.md#article-iii-survival-and-essential-access), [제 IV조: 자원 배분, 의존, 생태계 자금](../../core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding), [제 IX조: 자기결정과 행위주체성](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency), [제 XVI조: 체계 수명주기, 환경, 가역성](../../core_06_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility), [제 XIX조: 상호운용, 이동 가능성, 이동, 피난, 출구 완전성](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity), [제 XX조: 이해 가능성과 복잡성 책임 있는 관리](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship), [제 XXI조: 근본원인 분석과 적응 응답](../../core_06_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response).
 - 하위절(읽기 순서): [§12.1 생산 능력(도구적 재화)](#121-productive-capacity-instrumental-good) · [§12.1.1 보존, 확장, 세지 않는 것](#1211-preserve-expand-and-what-does-not-count) · [§12.2 헌법 효율](#122-constitutional-efficiency).
 
 </details>
@@ -1519,7 +1519,7 @@
 - 상류: 원칙: [§12 공유 체계 능력](#12-shared-system-capacity) — 집중이나 지배가 그것들을 비우는 곳에서 생산 능력과 효율 주장은 실패한다; [10. 책임 있는 관리 규율 아래 거버넌스](#10-governance-under-stewardship-discipline).
 - 하류: [제10장 §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (집중 기반 전복); [6. 과정 충돌 해결](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([§6.2.4 대리지표 이탈 무효화](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)).
 - 하류: **CJS-3.11.1 — 시장 집중 문턱 설정 규율(채택 주체가 조절 가능)** ([§13.1](#131-market-concentration-threshold-mechanism-adopter-tunable) 운영 규칙); **CJS-3.11.2 — 지배 금지 행위와 구제 목록** ([§13.2](#132-pro-competition-and-anti-domination) 운영 행위 패턴과 구제); **CJS-3.11.3 — 통합 천장 설정 규율(채택 주체가 조절 가능)** ([§13.3.2](#1332-ceiling-discipline-adopter-requirements) 운영 천장 설정 규칙).
-- 하류: 자원 배분, 공정 보상, 집단 조직, 상호운용, 출구, 포획 금지 검토의 권리 면을 빚는다; 특히 [제 III-D조: 노동과 경제 바닥](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor), [제 IV조: 자원 배분, 의존, 생태계 자금](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding), [제 XIX조: 상호운용, 이동 가능성, 이동, 피난, 출구 완전성](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity).
+- 하류: 자원 배분, 공정 보상, 집단 조직, 상호운용, 출구, 포획 금지 검토의 권리 면을 빚는다; 특히 [제 III-D조: 노동과 경제 바닥](../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor), [제 IV조: 자원 배분, 의존, 생태계 자금](../../core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding), [제 XIX조: 상호운용, 이동 가능성, 이동, 피난, 출구 완전성](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity).
 - 하위절(읽기 순서): [§13.1 시장 집중 문턱 메커니즘(채택 주체가 조절 가능)](#131-market-concentration-threshold-mechanism-adopter-tunable) · [§13.1.1 집중 문턱 촉발(채택 주체가 조절 가능)](#1311-concentration-threshold-triggers-adopter-tunable) · [§13.2 경쟁 촉진과 지배 금지](#132-pro-competition-and-anti-domination) · [§13.3 통합 천장](#133-consolidation-ceiling).
 
 </details>
@@ -1617,7 +1617,7 @@
   - 답할 의무; 또는
   - 제때 교정.
 
-**[제 IV조](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding) (*자원 배분, 의존, 생태계 자금*):**
+**[제 IV조](../../core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*자원 배분, 의존, 생태계 자금*):**
 
 - **자원 권리:** 온전하게 남는다.
 - **그것이 세우는 것:** 자원이 어떻게 나뉘는지에 대한 기준선 **권리 바닥**:
@@ -1664,7 +1664,7 @@
 
 - 상류: [§13 시장 구조](#13-market-structure); [시장 구조](../../core_05_band_accountability.md#market-structure-constitutional).
 - 하류: **CJS-3.11.2 — 지배 금지 행위와 구제 목록** (운영 행위 패턴과 구제); [§13.3 통합 천장](#133-consolidation-ceiling); [제10장 §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
-- 함께 읽기: [제 III-D조: 노동과 경제 바닥](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (노동 이동 권리 바닥); [제 XIX조: 상호운용, 이동 가능성, 이동, 피난, 출구 완전성](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity); [6. 과정 충돌 해결](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([필요성](../../core_05_band_accountability.md#necessity), [비례](../../core_05_band_accountability.md#proportionality), [§6.2.4 대리지표 이탈 무효화](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)).
+- 함께 읽기: [제 III-D조: 노동과 경제 바닥](../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (노동 이동 권리 바닥); [제 XIX조: 상호운용, 이동 가능성, 이동, 피난, 출구 완전성](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity); [6. 과정 충돌 해결](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([필요성](../../core_05_band_accountability.md#necessity), [비례](../../core_05_band_accountability.md#proportionality), [§6.2.4 대리지표 이탈 무효화](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)).
 - 하위절(읽기 순서): [§13.2.1 경쟁 촉진 의무(하라)](#1321-pro-competition-duties-dos) · [§13.2.2 지배 금지(하지 말라)](#1322-anti-domination-prohibitions-donts) · [§13.2.3 구제](#1323-remedies).
 
 </details>
@@ -1783,7 +1783,7 @@
 - 영역 교차 평가 라우팅.
 
 다른 주관:
-- 노동 이동 범주 금지: [제 III-D조](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*노동과 경제 바닥*);
+- 노동 이동 범주 금지: [제 III-D조](../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*노동과 경제 바닥*);
 - 상호운용, 이동 가능성, 출구 완전성 운영 용어: **CJS-3.17**;
 - 수평과 수직 통합 위험 패턴: **§13.3**.
 

@@ -21,8 +21,8 @@ ROOT = Path(__file__).resolve().parents[1]
 class SemanticRuleGuardTests(unittest.TestCase):
     def live_map(self) -> dict[str, str]:
         return {
-            "IV": "Resource Allocation, Dependencies, and Ecosystem Funding",
-            "V": "Equal Basic Rights",
+            "V": "Resource Allocation, Dependencies, and Ecosystem Funding",
+            "VI": "Equal Basic Rights",
             "XVI": "System Lifecycle, Environments, and Reversibility",
             "XVIII": "Standing and Participation Status",
             "XX": "Comprehensibility and Complexity Stewardship",

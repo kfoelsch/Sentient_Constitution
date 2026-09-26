@@ -187,8 +187,8 @@ flowchart TB
     R["Chapter Six<br/><br/>Foundational Rights Floor"]
     subgraph Parts["Chapter Six source parts"]
         direction TB
-        A["Part A · Articles I–IV<br/><br/>Planetary conditions, material stewardship,<br/>survival, education access, shared resources"]
-        B["Part B · Articles V–XI<br/><br/>Equal standing, education, self-ownership,<br/>data, agency, cooperation, stakeholder participation"]
+        A["Part A · Articles I–V<br/><br/>Planetary conditions, material stewardship,<br/>survival, education, shared resources"]
+        B["Part B · Articles VI–XI<br/><br/>Equal standing, self-ownership, data,<br/>agency, cooperation, stakeholder participation"]
         C["Part C · Articles XII–XXII<br/><br/>Trustworthy systems, security, information,<br/>audit, lifecycle, innovation, standing, review"]
         D["Part D · Articles XXIII–XXVI<br/><br/>Justice, emergency and conflict resolution,<br/>review, constitutional evolution, transition"]
     end
@@ -228,13 +228,17 @@ The following four maps open that structure one level further. Each Part box sit
 
 ```mermaid
 flowchart TB
-    A0["Part A<br/><br/>Planetary preconditions, material stewardship,<br/>survival, equal educational access, and shared resources"]
+    A0["Part A<br/><br/>Planetary preconditions, material stewardship,<br/>survival, education, and shared resources"]
     subgraph Agrid[" "]
         direction TB
+        subgraph Arow3["Article V"]
+            direction LR
+            A5["Article V · Resource Allocation, Dependencies, and Ecosystem Funding<br/><br/>• Dependency mapping<br/>• Cross-system fairness"]
+        end
         subgraph Arow2["Articles III–IV"]
             direction LR
-            A3["Article III · Survival and Equal Educational Access<br/><br/>• Survival<br/>• Equal educational access<br/>• Healthcare access<br/>• Labor and economic floor"]
-            A4["Article IV · Resource Allocation, Dependencies, and Ecosystem Funding<br/><br/>• Dependency mapping<br/>• Cross-system fairness"]
+            A3["Article III · Survival and Essential Access<br/><br/>• Survival<br/>• Healthcare access<br/>• Labor and economic floor<br/>• Safe working conditions<br/>• Rest and recuperation"]
+            A4["Article IV · Right to Sentient-Centered Education<br/><br/>• Equal educational access<br/>• Capability-building education<br/>• Lifelong adaptive learning<br/>• Contestability"]
         end
         subgraph Arow1["Articles I–II"]
             direction LR
@@ -246,11 +250,13 @@ flowchart TB
     style Agrid fill:none,stroke:none
     style Arow1 fill:none,stroke:none
     style Arow2 fill:none,stroke:none
+    style Arow3 fill:none,stroke:none
     style A0 fill:none,stroke:#2563eb,color:#ffffff
     style A1 fill:none,stroke:#16a34a,color:#ffffff
     style A2 fill:none,stroke:#16a34a,color:#ffffff
     style A3 fill:none,stroke:#16a34a,color:#ffffff
     style A4 fill:none,stroke:#16a34a,color:#ffffff
+    style A5 fill:none,stroke:#16a34a,color:#ffffff
 ```
 
 #### Part B · Personhood, agency, and participation
@@ -259,27 +265,23 @@ flowchart TB
 
 ```mermaid
 flowchart TB
-    B0["Part B<br/><br/>Personhood, education capability, agency,<br/>cooperation, and stakeholder system participation"]
+    B0["Part B<br/><br/>Personhood, agency, cooperation,<br/>and stakeholder system participation"]
     subgraph Bgrid[" "]
         direction TB
-        subgraph Brow1["Articles V–VI"]
+        subgraph Brow1["Articles VI–VII"]
             direction LR
-            B1["Article V · Equal Basic Rights<br/><br/>• Dignity and equal standing<br/>• Sentience-status adjudication<br/>• Nondiscrimination<br/>• Accessibility"]
-            B2["Article VI · Sentient-Centered Education<br/><br/>• Capability-building education<br/>• Lifelong adaptive learning<br/>• Contestability"]
+            B1["Article VI · Equal Basic Rights<br/><br/>• Dignity and equal standing<br/>• Sentience-status adjudication<br/>• Nondiscrimination<br/>• Accessibility"]
+            B2["Article VII · Self-Ownership<br/><br/>• Body and mind<br/>• Internal-state boundary<br/>• Mental-health crisis and intervention<br/>• Family, care, and reproduction<br/>• Developing sentients and best interest<br/>• Voluntary discontinuation of one's own existence"]
         end
-        subgraph Brow2["Articles VII–VIII"]
+        subgraph Brow2["Articles VIII–IX"]
             direction LR
-            B3["Article VII · Self-Ownership<br/><br/>• Body and mind<br/>• Internal-state boundary<br/>• Mental-health crisis and intervention<br/>• Family, care, and reproduction<br/>• Developing sentients and best interest<br/>• Voluntary discontinuation of one's own existence"]
-            B4["Article VIII · Likeness, Experiential Data, and Publication<br/><br/>• Likeness and reputation<br/>• Experiential and derived data<br/>• Truthful and high-impact publication<br/>• Creative work and training data"]
+            B3["Article VIII · Likeness, Experiential Data, and Publication<br/><br/>• Likeness and reputation<br/>• Experiential and derived data<br/>• Truthful and high-impact publication<br/>• Creative work and training data"]
+            B4["Article IX · Self-Determination and Agency<br/><br/>• Freedom from manipulation<br/>• Stakeholder role and participation<br/>• Governance participation and voting<br/>• Inclusion and exclusion challenges<br/>• Institutional formation<br/>• Conscience and worldview<br/>• Expression, assembly, and press"]
         end
-        subgraph Brow3["Articles IX–X"]
+        subgraph Brow3["Articles X–XI"]
             direction LR
-            B5["Article IX · Self-Determination and Agency<br/><br/>• Freedom from manipulation<br/>• Stakeholder role and participation<br/>• Governance participation and voting<br/>• Inclusion and exclusion challenges<br/>• Institutional formation<br/>• Conscience and worldview<br/>• Expression, assembly, and press"]
-            B6["Article X · Cooperative Interaction<br/><br/>• Non-imposition and consent<br/>• Collective harm boundary<br/>• Commercial sexual services and sexual exploitation"]
-        end
-        subgraph Brow4["Article XI"]
-            direction LR
-            B7["Article XI · Stakeholder Participation, Representation, and Due Process<br/><br/>• Participation and representation<br/>• Weighted participation constraints<br/>• Legitimacy and anti-token safeguards<br/>• Internal roles and due process<br/>• Non-capture safeguards"]
+            B5["Article X · Cooperative Interaction<br/><br/>• Non-imposition and consent<br/>• Collective harm boundary<br/>• Commercial sexual services and sexual exploitation"]
+            B6["Article XI · Stakeholder Participation, Representation, and Due Process<br/><br/>• Participation and representation<br/>• Weighted participation constraints<br/>• Legitimacy and anti-token safeguards<br/>• Internal roles and due process<br/>• Non-capture safeguards"]
         end
     end
     B0 ~~~ Bgrid
@@ -287,7 +289,6 @@ flowchart TB
     style Brow1 fill:none,stroke:none
     style Brow2 fill:none,stroke:none
     style Brow3 fill:none,stroke:none
-    style Brow4 fill:none,stroke:none
     style B0 fill:none,stroke:#2563eb,color:#ffffff
     style B1 fill:none,stroke:#0f766e,color:#ffffff
     style B2 fill:none,stroke:#0f766e,color:#ffffff
@@ -295,7 +296,6 @@ flowchart TB
     style B4 fill:none,stroke:#0f766e,color:#ffffff
     style B5 fill:none,stroke:#0f766e,color:#ffffff
     style B6 fill:none,stroke:#0f766e,color:#ffffff
-    style B7 fill:none,stroke:#0f766e,color:#ffffff
 ```
 
 #### Part C · Trustworthy systems, verification, and resilience
@@ -765,7 +765,7 @@ Archival preserves evidence while ending ordinary active use. A forum may access
 
 ### Protection while sentience is uncertain
 
-When an entity’s sentience is materially disputed, the Constitution provides provisional inclusion, not a wait for certainty. Once a case is lawfully open, unresolved uncertainty must not withhold, narrow, or delay the Chapter Six Rights Floor; the burden of justifying withholding rests on the party seeking it, and a wrongful determination must be reversible. The merits forum must appoint an independent representative who is not materially dependent on the parent system, operator, or party seeking exclusion. This is the **Def.P1** / [Article V-B](../core_06_rights_part_b.md#article-v-b-sentience-status-adjudication-floor) pathway.
+When an entity’s sentience is materially disputed, the Constitution provides provisional inclusion, not a wait for certainty. Once a case is lawfully open, unresolved uncertainty must not withhold, narrow, or delay the Chapter Six Rights Floor; the burden of justifying withholding rests on the party seeking it, and a wrongful determination must be reversible. The merits forum must appoint an independent representative who is not materially dependent on the parent system, operator, or party seeking exclusion. This is the **Def.P1** / [Article VI-B](../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) pathway.
 
 That protection belongs to the entity. It does not shield an operator’s property or commercial interest, prevent compatible system containment or quarantine, or create Contribution Axis credit for the operator. The overview therefore treats inclusion and operator immunity as separate questions.
 

@@ -185,7 +185,7 @@ A **documented transition plan** under **Article XXVI-A** (*Phased Adoption and 
 
 **Remedial vs. restrictive standards:** **Remedial containment** to stop harm, restore shared integrity, or preserve evidence under [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation) is judged under remedial standards. A deprivation or restriction whose primary effect exceeds remediation, restitution, preservation, or forward protection triggers **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) as stated in **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*).
 
-**Anti-pretext safeguards:** Institutions must maintain safeguards against **discriminatory**, **pretextual**, or **selective** enforcement under **Articles V-C** and **IV-B** and [Substantive Fairness](../core_05_band_participation.md#substantive-fairness-constitutional).
+**Anti-pretext safeguards:** Institutions must maintain safeguards against **discriminatory**, **pretextual**, or **selective** enforcement under **Articles VI-C** and **V-B** and [Substantive Fairness](../core_05_band_participation.md#substantive-fairness-constitutional).
 
 **Heightened threshold for destructive disposition:** **Permanent forfeiture**, **destructive disposition**, or **broad economic stripping** requires:
 

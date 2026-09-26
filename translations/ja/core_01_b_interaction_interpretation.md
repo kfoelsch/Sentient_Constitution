@@ -471,7 +471,7 @@
 
 *平たい言葉で言えば：プライバシーは憲法上重みづけられた利益である — 単なる非開示ではない。システムは、必要性と比例性が正当化するものを超えて、個人的および関係的情報を収集、推論、集計、保持、使用してはならない。プライバシーが透明、監査、安全、または説明責任の義務と衝突するところでは、衝突は §6.3 のもとで解決され、プライバシーを自動的に下位として扱うことではない。行為主体性、結社、または表現を萎縮させる監視は、他の権利制限と同じ必要性と制限最小の規律を満たさなければならない。*
 
-**憲法上の利益としてのプライバシー。** プライバシー — 情報プライバシー、空間的および関係的プライバシー、正当化されない監視からの自由を含む — は、**自由**（[§5](core_01_a_values_principles.md#5-freedom-bounded-agency)）、**尊厳**（[Article V-A](../../core_06_rights_part_b.md#article-v-a-dignity-and-equal-moral-standing)（《尊厳と平等な道徳的地位》））、意味ある行為主体性と強制されない参加の条件を支える、憲法上重みづけられた利益である。本節の取引と衝突の仕組みにおいて、独立した憲法上の重みを持つ。
+**憲法上の利益としてのプライバシー。** プライバシー — 情報プライバシー、空間的および関係的プライバシー、正当化されない監視からの自由を含む — は、**自由**（[§5](core_01_a_values_principles.md#5-freedom-bounded-agency)）、**尊厳**（[Article V-A](../../core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing)（《尊厳と平等な道徳的地位》））、意味ある行為主体性と強制されない参加の条件を支える、憲法上重みづけられた利益である。本節の取引と衝突の仕組みにおいて、独立した憲法上の重みを持つ。
 
 **収集と使用の規律。** 個人、関係、行動、生体、内部状態に隣接、または比較可能な情報の収集、推論、集計、保持、移転、使用は、次を満たさなければならない：
 - **必要性：** 憲法上有効な目的に必要なものを超える広い収集または保持はない。
@@ -576,7 +576,7 @@
 - 上流：原則：[2. 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[4. 信頼](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)、[§9 責務ある管理と分散した理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)、[6. 過程衝突の解決](#6-process-conflict-resolution)、[5. 自由](core_01_a_values_principles.md#5-freedom-bounded-agency)、[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)。
 - 下流：[15. 統合適用](core_01_c_stewardship_capacity_principles.md#15-integrated-application)。
 - 下流：平等、異議の権利、透明、争訟可能性、有界な解釈を崩す一価値上書きの論理から権利面を保護する。
-  - とくに [Article V：平等な基本権利](../../core_06_rights_part_b.md#article-v-equal-basic-rights)、[Article XII-B：異議、審査、救済への権利](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)、[Article XIV-B：透明性、監査可能性、争訟可能性](../../core_06_rights_part_c.md#article-xiv-b-transparency-auditability-and-contestability)、[Article XVIII-B：争訟可能性と比例的制限の限度](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits)、[Article XXII-A：有界な解釈委任](../../core_06_rights_part_c.md#article-xxii-a-bounded-interpretive-mandate)。
+  - とくに [Article V：平等な基本権利](../../core_06_rights_part_b.md#article-vi-equal-basic-rights)、[Article XII-B：異議、審査、救済への権利](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)、[Article XIV-B：透明性、監査可能性、争訟可能性](../../core_06_rights_part_c.md#article-xiv-b-transparency-auditability-and-contestability)、[Article XVIII-B：争訟可能性と比例的制限の限度](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits)、[Article XXII-A：有界な解釈委任](../../core_06_rights_part_c.md#article-xxii-a-bounded-interpretive-mandate)。
 
 </details>
 

@@ -1415,7 +1415,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
     - **Titular de capa de principio:** [Capítulo Uno §13.1](core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable).
     - **Principios controladores:** El umbral permanece sujeto a la regla de no concentración del [Capítulo Uno §13](core_01_c_stewardship_capacity_principles.md#13-market-structure), la disciplina procompetencia y antidomino del [Capítulo Uno §13.2](core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination), y el disparador de techo de consolidación del [Capítulo Uno §13.3](core_01_c_stewardship_capacity_principles.md#133-consolidation-ceiling).
     - **Disciplina operativa:** **CJS-3.11.1 — Disciplina de fijación de umbrales de concentración de mercado (ajustable por quien adopta)**.
-    - **Puntero de capa de derechos:** [Artículo IV](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding) (*Asignación de recursos, dependencias y financiamiento del ecosistema*).
+    - **Puntero de capa de derechos:** [Artículo IV](../../core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*Asignación de recursos, dependencias y financiamiento del ecosistema*).
     - **Antianulación:** Los umbrales y techos ajustables por quien adopta no pueden anular el piso del Capítulo Uno §13 contra la concentración que degrada de forma previsible el bienestar, la agencia, la dignidad o la integridad ecológica.
     - **Aplicación:** Esta definición aplica a través de sustratos y jurisdicciones.
   - **Fuera de alcance:** tamaño ordinario de empresa, ventaja temporal de innovación o escala lícita por debajo del disparador operativo de revisión elevada.
@@ -1920,7 +1920,7 @@ Véase **Invocación conjunta y satisfacción**.
     - gobernanza del conocimiento;
     - administración responsable de estándares;
     - reducir la incertidumbre acotada que importa a la adjudicación o la regulación; o
-    - determinación de estatus de sentiencia del [Artículo V-E](../../core_06_rights_part_b.md#article-v-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*) sobre indicadores, evidencia pericial o incertidumbre acotada bajo [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional).
+    - determinación de estatus de sentiencia del [Artículo V-E](../../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*) sobre indicadores, evidencia pericial o incertidumbre acotada bajo [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional).
   - **Fuera de alcance:** preguntas primarias no técnicas — derechos, mandato, ecológicas o de fondo constitucional asignadas a otra familia bajo el Capítulo Once §2, excepto donde aplique el rol conductor de estatus de sentiencia de esta familia bajo el [Capítulo Once §5](core_11_forum.md#5-escalation-and-certification).
 <a id="forum-family-technical-a"></a>
 - **Cómo medir y evaluar**

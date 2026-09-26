@@ -112,7 +112,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Sentience-Status Adjudication Record",
         "Sentient",
         "Sentience Evaluation",
-        "Article V-B",
+        "Article VI-B",
     ],
     "#### Def.P2 Binding Stakeholder Choice": [
         "Binding Stakeholder Choice — Decision-Resolution Requirements",

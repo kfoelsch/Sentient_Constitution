@@ -305,7 +305,7 @@ These records must be retained in a way that supports:
 
 *In plain terms: When a sentience-status case is open, a sentient who is not employed by the parent system must speak for the entity. That representative is not a panel member. Appointment uses the same rotation and conflict rules that keep a bench independent.*
 
-This subsection implements, and must not narrow, the [Chapter Twelve §5 Escalation and certification](../core_12_forum.md#5-escalation-and-certification) independent-representation hook and [Article V-B](../core_06_rights_part_b.md#article-v-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*). Record fields live on the [Sentience-Status Adjudication Record](cf_sentience_status_record.md). Routing of the status case remains under **CF-5** (*Routing operations, transfer, certification, and representative treatment*).
+This subsection implements, and must not narrow, the [Chapter Twelve §5 Escalation and certification](../core_12_forum.md#5-escalation-and-certification) independent-representation hook and [Article VI-B](../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*). Record fields live on the [Sentience-Status Adjudication Record](cf_sentience_status_record.md). Routing of the status case remains under **CF-5** (*Routing operations, transfer, certification, and representative treatment*).
 
 Once a status case is open, the merits forum must appoint an independent representative for the entity whose status is in question. The representative:
 

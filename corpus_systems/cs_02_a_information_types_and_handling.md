@@ -152,7 +152,7 @@ If pieces of data can be rebuilt, transformed, or combined into something more s
 **Wrong typing is a violation.** Mislabeling data, arranging it to dodge the rules, or achieving the same harmful access through a different structure violates:
 - **informational integrity** (**Article XIV** (*Info-Sphere Integrity*))
 - auditability where evidence is implicated (**Article XV-A** (*Auditability and Observable Evidence*))
-- applicable rights under **Chapter Six, Articles V through IX**
+- applicable rights under **Chapter Six, Articles VI through IX**
 
 <a id="cs-2-3-temporal-systemic-and-dependency-scope-of-rights"></a>
 ## CS-2.3 Temporal, systemic, and dependency scope of rights
@@ -183,7 +183,7 @@ Data classification under CS-2 — Information types and handling is binding acr
 
 *In plain terms: these are the shared rules for how typed data is accessed, transformed, retyped, attributed, and retained across systems — stricter where impact is higher. Typing integrity and anti-evasion live in [§2 Determination of classification](#cs-2-2-determination-of-classification)–[§4 Anti-circumvention and integrity of classification](#cs-2-4-anti-circumvention-and-integrity-of-classification).*
 
-All data, regardless of classification, must be handled in accordance with the following cross-domain principles. These principles govern how classifications are applied, enforced, and interacted with across systems, and ensure alignment with **Chapter Six, Articles I through IX** and **CJS-3** (*Implementation and cross-implementation operational cluster library*) operational clusters in **corpus_joint_structure.md**. Survival-, environment-, and substrate-critical data handling remains grounded in **Articles I–III and V**; participation, oversight, and protected-boundary duties run through **Articles V through IX**.
+All data, regardless of classification, must be handled in accordance with the following cross-domain principles. These principles govern how classifications are applied, enforced, and interacted with across systems, and ensure alignment with **Chapter Six, Articles I through IX** and **CJS-3** (*Implementation and cross-implementation operational cluster library*) operational clusters in **corpus_joint_structure.md**. Survival-, environment-, and substrate-critical data handling remains grounded in **Articles I–III and VI**; participation, oversight, and protected-boundary duties run through **Articles VI through IX**.
 
 Part B type sections state type-specific defaults, definitions, and handling rules. They do **not** restate this cross-domain alignment unless a type needs an additional, type-specific pointer.
 
@@ -484,7 +484,7 @@ Systems that do **not** exert **material external impact** under **CJS-3.11** (*
 It is permitted **only if** all of the following are true:
 - **identity abstraction** is context-bound and does **not** produce **persistent or cross-system** attribution without **consent** or **justified override** under **CJS-3.12** (*burden-of-justification and constraint terms*)
 - the system does **not** materially affect **sentient reputation external to the system**
-- the system does **not** materially affect **sentient survival or foundational resources** (**Articles I–III and V**)
+- the system does **not** materially affect **sentient survival or foundational resources** (**Articles I–III and VI**)
 - the system does **not** materially affect **shared infrastructure stability**, **resource systems or external economic structures**, or **the integrity of the info-sphere**
 - **system-level accountability** is preserved and all actions within the system remain attributable at an audit level consistent with:
   - [Attributable Action](../core_05_band_accountability.md#attributable-action-constitutional)

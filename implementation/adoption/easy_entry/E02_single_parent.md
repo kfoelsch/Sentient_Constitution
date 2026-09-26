@@ -71,7 +71,7 @@ See: [Article VII-E](../../../core_06_rights_part_b.md#article-vii-e-developing-
 
 - **“I want the other parent out of the picture.”** Protected care relationships run both ways. This text will not make another adult disappear to settle a preference contest.
 
-- **“Work already treats parenting as my scheduling problem.”** The labor protection is in play when scheduling is used to defeat healthcare or survival access ([Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)). It does not rewrite every gig platform’s shift board for comfort.
+- **“Work already treats parenting as my scheduling problem.”** The labor protection is in play when scheduling is used to defeat healthcare or survival access ([Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor)). It does not rewrite every gig platform’s shift board for comfort.
 
 ## What this will not pretend to give you
 

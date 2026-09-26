@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-26T17:24:47+00:00",
+  "generated_at": "2026-09-26T18:05:21+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -986,26 +986,26 @@
           },
           {
             "file": "core_06_rights_part_a.md",
-            "count": 4,
+            "count": 7,
             "anchors": [
-              "#article-iii-b-equal-educational-access",
-              "#article-iii-d-labor-and-economic-floor",
+              "#article-iii-c-labor-and-economic-floor",
+              "#article-iv-a-equal-educational-access",
+              "#article-iv-right-to-sentient-centered-education",
               "#chapter-six-foundational-rights"
             ]
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 26,
+            "count": 23,
             "anchors": [
               "#article-ix-b-stakeholder-role-and-participation-rights",
               "#article-ix-e-institutional-formation-and-business-creation",
               "#article-ix-g-expression-assembly-and-press",
               "#article-ix-self-determination-and-agency",
-              "#article-v-a-dignity-and-equal-moral-standing",
-              "#article-v-c-nondiscrimination",
-              "#article-v-d-accessibility",
-              "#article-v-equal-basic-rights",
-              "#article-vi-right-to-sentient-centered-education",
+              "#article-vi-a-dignity-and-equal-moral-standing",
+              "#article-vi-c-nondiscrimination",
+              "#article-vi-d-accessibility",
+              "#article-vi-equal-basic-rights",
               "#article-vii-self-ownership",
               "#article-viii-likeness-experiential-data-and-publication-rights",
               "#article-x-cooperative-interaction",
@@ -1336,8 +1336,8 @@
             "count": 8,
             "anchors": [
               "#article-ix-a-agency-and-freedom-from-manipulation",
-              "#article-v-a-dignity-and-equal-moral-standing",
-              "#article-v-equal-basic-rights",
+              "#article-vi-a-dignity-and-equal-moral-standing",
+              "#article-vi-equal-basic-rights",
               "#article-vii-a-self-ownership-of-body-and-mind",
               "#article-vii-b-internal-state-boundary-and-type-n-protection",
               "#article-viii-likeness-experiential-data-and-publication-rights"
@@ -1762,21 +1762,21 @@
           },
           {
             "file": "core_06_rights_part_a.md",
-            "count": 14,
+            "count": 15,
             "anchors": [
               "#article-i-a-environmental-preconditions-and-ecological-integrity",
-              "#article-iii-d-labor-and-economic-floor",
-              "#article-iii-survival-and-equal-educational-access",
-              "#article-iv-resource-allocation-dependencies-and-ecosystem-funding",
+              "#article-iii-c-labor-and-economic-floor",
+              "#article-iii-survival-and-essential-access",
+              "#article-iv-right-to-sentient-centered-education",
+              "#article-v-resource-allocation-dependencies-and-ecosystem-funding",
               "#chapter-six-foundational-rights"
             ]
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 8,
+            "count": 7,
             "anchors": [
               "#article-ix-self-determination-and-agency",
-              "#article-vi-right-to-sentient-centered-education",
               "#article-vii-b-internal-state-boundary-and-type-n-protection",
               "#article-xi-stakeholder-system-participation-representation-and-due-process"
             ]
@@ -3537,14 +3537,14 @@
             "anchors": [
               "#article-i-a-environmental-preconditions-and-ecological-integrity",
               "#article-i-d-existential-risk-and-recovery-capacity",
-              "#article-iv-resource-allocation-dependencies-and-ecosystem-funding"
+              "#article-v-resource-allocation-dependencies-and-ecosystem-funding"
             ]
           },
           {
             "file": "core_06_rights_part_b.md",
             "count": 5,
             "anchors": [
-              "#article-v-b-sentience-status-adjudication-floor",
+              "#article-vi-b-sentience-status-adjudication-floor",
               "#article-vii-f-voluntary-discontinuation-of-ones-own-existence",
               "#article-x-a-non-imposition-and-consent-in-association",
               "#article-x-b-collective-harm-boundary-and-enforcement-interface",
@@ -4044,14 +4044,14 @@
               "#article-i-b-ecological-footprint-and-transparency",
               "#article-i-d-existential-risk-and-recovery-capacity",
               "#article-iii-a-survival",
-              "#article-iii-c-bodily-maintenance-and-healthcare-access",
-              "#article-iii-d-labor-and-economic-floor",
-              "#article-iii-e-safe-working-conditions",
-              "#article-iii-f-rest-and-recuperation",
-              "#article-iii-survival-and-equal-educational-access",
-              "#article-iv-a-dependency-mapping-and-resource-flow-transparency",
-              "#article-iv-b-cross-system-fairness-and-sustainability",
-              "#article-iv-resource-allocation-dependencies-and-ecosystem-funding",
+              "#article-iii-b-bodily-maintenance-and-healthcare-access",
+              "#article-iii-c-labor-and-economic-floor",
+              "#article-iii-d-safe-working-conditions",
+              "#article-iii-e-rest-and-recuperation",
+              "#article-iii-survival-and-essential-access",
+              "#article-v-a-dependency-mapping-and-resource-flow-transparency",
+              "#article-v-b-cross-system-fairness-and-sustainability",
+              "#article-v-resource-allocation-dependencies-and-ecosystem-funding",
               "#chapter-six-foundational-rights"
             ]
           },
@@ -4060,7 +4060,7 @@
             "count": 22,
             "anchors": [
               "#article-ix-a-agency-and-freedom-from-manipulation",
-              "#article-v-c-nondiscrimination",
+              "#article-vi-c-nondiscrimination",
               "#article-vii-a-self-ownership-of-body-and-mind",
               "#article-vii-b-internal-state-boundary-and-type-n-protection",
               "#article-vii-c-mental-health-crisis-and-involuntary-intervention-floor",
@@ -4960,28 +4960,28 @@
           },
           {
             "file": "core_06_rights_part_a.md",
-            "count": 12,
+            "count": 14,
             "anchors": [
               "#article-i-a-environmental-preconditions-and-ecological-integrity",
               "#article-ii-e-data-handling-and-network-dependency",
-              "#article-iii-b-equal-educational-access",
-              "#article-iii-d-labor-and-economic-floor"
+              "#article-iii-c-labor-and-economic-floor",
+              "#article-iv-a-equal-educational-access",
+              "#article-iv-right-to-sentient-centered-education"
             ]
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 66,
+            "count": 64,
             "anchors": [
               "#article-ix-a-agency-and-freedom-from-manipulation",
               "#article-ix-b-stakeholder-role-and-participation-rights",
               "#article-ix-e-institutional-formation-and-business-creation",
               "#article-ix-g-expression-assembly-and-press",
               "#article-ix-self-determination-and-agency",
-              "#article-v-a-dignity-and-equal-moral-standing",
-              "#article-v-b-sentience-status-adjudication-floor",
-              "#article-v-c-nondiscrimination",
-              "#article-v-d-accessibility",
-              "#article-vi-right-to-sentient-centered-education",
+              "#article-vi-a-dignity-and-equal-moral-standing",
+              "#article-vi-b-sentience-status-adjudication-floor",
+              "#article-vi-c-nondiscrimination",
+              "#article-vi-d-accessibility",
               "#article-vii-a-self-ownership-of-body-and-mind",
               "#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation",
               "#article-vii-d1-derivation-instantiation-and-the-parent-system-relationship",
@@ -5536,15 +5536,15 @@
             "file": "core_06_rights_part_a.md",
             "count": 2,
             "anchors": [
-              "#article-iii-b-equal-educational-access",
-              "#article-iv-b-cross-system-fairness-and-sustainability"
+              "#article-iv-a-equal-educational-access",
+              "#article-v-b-cross-system-fairness-and-sustainability"
             ]
           },
           {
             "file": "core_06_rights_part_b.md",
             "count": 2,
             "anchors": [
-              "#article-v-d-accessibility",
+              "#article-vi-d-accessibility",
               "#article-vii-self-ownership"
             ]
           },
@@ -5754,7 +5754,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 1,
             "anchors": [
-              "#article-v-b-sentience-status-adjudication-floor"
+              "#article-vi-b-sentience-status-adjudication-floor"
             ]
           },
           {
@@ -6029,7 +6029,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 1,
             "anchors": [
-              "#article-v-b-sentience-status-adjudication-floor"
+              "#article-vi-b-sentience-status-adjudication-floor"
             ]
           },
           {
@@ -6650,7 +6650,7 @@
             "count": 4,
             "anchors": [
               "#article-iii-a-survival",
-              "#article-iv-a-dependency-mapping-and-resource-flow-transparency",
+              "#article-v-a-dependency-mapping-and-resource-flow-transparency",
               "#chapter-six-foundational-rights"
             ]
           },
@@ -6860,7 +6860,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 3,
             "anchors": [
-              "#article-v-b-sentience-status-adjudication-floor",
+              "#article-vi-b-sentience-status-adjudication-floor",
               "#article-vii-b-internal-state-boundary-and-type-n-protection",
               "#article-xi-stakeholder-system-participation-representation-and-due-process"
             ]
@@ -7090,7 +7090,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 1,
             "anchors": [
-              "#article-v-b-sentience-status-adjudication-floor"
+              "#article-vi-b-sentience-status-adjudication-floor"
             ]
           },
           {
@@ -7199,7 +7199,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 36,
+            "count": 39,
             "anchors": [
               "#4-principles-definitions-and-rights",
               "#62-how-the-full-chain-fits-together",
@@ -7210,7 +7210,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 52,
+            "count": 66,
             "anchors": [
               "#2-foundational-objective-wellbeing",
               "#21-fairness",
@@ -7225,7 +7225,7 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 16,
+            "count": 17,
             "anchors": [
               "#6-process-conflict-resolution",
               "#61-core-tradeoff-principles",
@@ -7236,7 +7236,7 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 20,
+            "count": 21,
             "anchors": [
               "#11-governance-under-stewardship-discipline",
               "#12-incentive-alignment-and-system-capture",
@@ -7274,9 +7274,12 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 94,
+            "count": 101,
             "anchors": [
               "#attribution-integrity-constitutional",
+              "#contestability",
+              "#contestability-a",
+              "#contestability-c",
               "#governance-architecture-oversight-decentralization-and-concentration-cluster",
               "#market-concentration-threshold-constitutional",
               "#market-concentration-threshold-constitutional-a",
@@ -7297,7 +7300,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 240,
+            "count": 246,
             "anchors": [
               "#anti-displacement-floor-constitutional",
               "#anti-displacement-floor-constitutional-a",
@@ -7393,11 +7396,14 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 79,
+            "count": 89,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#adversarial-scaled-and-exploited-conditions-a",
               "#adversarial-scaled-and-exploited-conditions-c",
+              "#auditability",
+              "#auditability-a",
+              "#auditability-c",
               "#epistemic-integrity",
               "#epistemic-integrity-a",
               "#epistemic-integrity-c",
@@ -7427,7 +7433,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 155,
+            "count": 214,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -7448,6 +7454,9 @@
               "#contested-sentient-life-constitutional",
               "#contested-sentient-life-constitutional-a",
               "#contested-sentient-life-constitutional-c",
+              "#dignity-and-equal-moral-standing",
+              "#dignity-and-equal-moral-standing-a",
+              "#dignity-and-equal-moral-standing-c",
               "#educational-agency",
               "#educational-agency-a",
               "#educational-agency-c",
@@ -7470,6 +7479,9 @@
               "#protected-characteristics-constitutional",
               "#protected-characteristics-constitutional-a",
               "#protected-characteristics-constitutional-c",
+              "#self-determination-constitutional",
+              "#self-determination-constitutional-a",
+              "#self-determination-constitutional-c",
               "#sentience-non-exclusion",
               "#sentience-non-exclusion-a",
               "#sentience-status-adjudication-constitutional",
@@ -7480,11 +7492,10 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 11,
+            "count": 10,
             "anchors": [
               "#article-ix-b-stakeholder-role-and-participation-rights",
               "#article-ix-e-institutional-formation-and-business-creation",
-              "#article-vi-right-to-sentient-centered-education",
               "#article-vii-a-self-ownership-of-body-and-mind",
               "#article-vii-b-internal-state-boundary-and-type-n-protection",
               "#article-vii-c-mental-health-crisis-and-involuntary-intervention-floor",
@@ -7513,7 +7524,7 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 28,
+            "count": 30,
             "anchors": [
               "#10-trustworthiness-and-system-reliance-integrity-evaluation",
               "#2-system-class-evaluation",
@@ -7617,7 +7628,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 29,
+            "count": 26,
             "anchors": [
               "#constitutional-tetrad",
               "#material-stake",
@@ -7626,7 +7637,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 78,
+            "count": 71,
             "anchors": [
               "#2-foundational-objective-wellbeing",
               "#21-fairness",
@@ -7640,7 +7651,7 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 40,
+            "count": 39,
             "anchors": [
               "#6-process-conflict-resolution",
               "#61-core-tradeoff-principles",
@@ -7652,7 +7663,6 @@
               "#621-preservation-of-epistemic-integrity",
               "#63-minimization-of-avoidable-burden",
               "#7-prohibition-on-absolute-override",
-              "#8-constitutional-interpretation",
               "#81-constitutional-no-bypass-principle",
               "#anti-degrading-process-principle",
               "#dignity-principles",
@@ -7661,7 +7671,7 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 20,
+            "count": 19,
             "anchors": [
               "#11-governance-under-stewardship-discipline",
               "#12-incentive-alignment-and-system-capture",
@@ -7684,7 +7694,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 295,
+            "count": 290,
             "anchors": [
               "#collective-harm-boundary",
               "#collective-harm-boundary-a",
@@ -7735,7 +7745,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 165,
+            "count": 160,
             "anchors": [
               "#anti-capture",
               "#anti-capture-a",
@@ -7820,7 +7830,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 67,
+            "count": 57,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -7842,9 +7852,6 @@
               "#press-and-journalistic-activity-constitutional",
               "#press-and-journalistic-activity-constitutional-a",
               "#press-and-journalistic-activity-constitutional-c",
-              "#transparency",
-              "#transparency-a",
-              "#transparency-c",
               "#truth-constitutional-constraint",
               "#truth-constitutional-constraint-a",
               "#truth-constitutional-constraint-c",
@@ -7853,7 +7860,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 510,
+            "count": 454,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -7894,9 +7901,6 @@
               "#dignity-and-equal-moral-standing",
               "#dignity-and-equal-moral-standing-a",
               "#dignity-and-equal-moral-standing-c",
-              "#educational-agency",
-              "#educational-agency-a",
-              "#educational-agency-c",
               "#expression-constitutional",
               "#expression-constitutional-a",
               "#expression-constitutional-c",
@@ -7966,11 +7970,12 @@
           },
           {
             "file": "core_06_rights_part_a.md",
-            "count": 6,
+            "count": 7,
             "anchors": [
               "#article-i-a-environmental-preconditions-and-ecological-integrity",
-              "#article-iii-d-labor-and-economic-floor",
-              "#article-iii-survival-and-equal-educational-access"
+              "#article-iii-c-labor-and-economic-floor",
+              "#article-iii-survival-and-essential-access",
+              "#article-iv-right-to-sentient-centered-education"
             ]
           },
           {
@@ -7987,7 +7992,7 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 12,
+            "count": 11,
             "anchors": [
               "#2-system-class-evaluation",
               "#3-whole-system-certification-evaluation",
@@ -8011,7 +8016,7 @@
               "#5-escalation-and-certification",
               "#chapter-twelve-forums-and-jurisdiction",
               "#dispute-sequencing",
-              "#sentience-status-adjudication-article-v-b-sentience-status-adjudication-floor-implementation-hook"
+              "#sentience-status-adjudication-article-vi-b-sentience-status-adjudication-floor-implementation-hook"
             ]
           },
           {
@@ -9455,7 +9460,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 1,
             "anchors": [
-              "#article-v-b-sentience-status-adjudication-floor"
+              "#article-vi-b-sentience-status-adjudication-floor"
             ]
           },
           {
@@ -11187,7 +11192,7 @@
             "count": 5,
             "anchors": [
               "#article-i-d-existential-risk-and-recovery-capacity",
-              "#article-iii-d-labor-and-economic-floor"
+              "#article-iii-c-labor-and-economic-floor"
             ]
           },
           {
@@ -13397,7 +13402,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 1,
             "anchors": [
-              "#article-v-d-accessibility"
+              "#article-vi-d-accessibility"
             ]
           },
           {
@@ -18340,7 +18345,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 2,
             "anchors": [
-              "#article-v-b-sentience-status-adjudication-floor",
+              "#article-vi-b-sentience-status-adjudication-floor",
               "#article-vii-b-internal-state-boundary-and-type-n-protection"
             ]
           },
@@ -20494,7 +20499,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 2,
             "anchors": [
-              "#article-v-b-sentience-status-adjudication-floor"
+              "#article-vi-b-sentience-status-adjudication-floor"
             ]
           },
           {

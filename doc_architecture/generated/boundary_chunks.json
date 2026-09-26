@@ -4510,8 +4510,8 @@
     },
     {
       "file": "core_12_forum.md",
-      "heading": "Sentience-status adjudication (**Article V-B** (*Sentience-Status Adjudication Floor*) implementation hook)",
-      "anchor": "#sentience-status-adjudication-article-v-b-sentience-status-adjudication-floor-implementation-hook",
+      "heading": "Sentience-status adjudication (**Article VI-B** (*Sentience-Status Adjudication Floor*) implementation hook)",
+      "anchor": "#sentience-status-adjudication-article-vi-b-sentience-status-adjudication-floor-implementation-hook",
       "line_start": 709,
       "line_end": 763
     },
@@ -4821,161 +4821,182 @@
       "heading": "Part A: Planetary preconditions, material stewardship, survival, equal educational access, and shared resources",
       "anchor": "#part-a-planetary-preconditions-material-stewardship-survival-equal-educational-access-and-shared-resources",
       "line_start": 167,
-      "line_end": 209
+      "line_end": 215
     },
     {
       "file": "core_06_rights_part_a.md",
       "heading": "Article I: Environmental Survival",
       "anchor": "#article-i-environmental-survival",
-      "line_start": 210,
-      "line_end": 236
+      "line_start": 216,
+      "line_end": 242
     },
     {
       "file": "core_06_rights_part_a.md",
       "heading": "Article I-A: Environmental Preconditions and Ecological Integrity",
       "anchor": "#article-i-a-environmental-preconditions-and-ecological-integrity",
-      "line_start": 237,
-      "line_end": 295
+      "line_start": 243,
+      "line_end": 301
     },
     {
       "file": "core_06_rights_part_a.md",
       "heading": "Article I-B: Ecological Footprint and Transparency",
       "anchor": "#article-i-b-ecological-footprint-and-transparency",
-      "line_start": 296,
-      "line_end": 330
+      "line_start": 302,
+      "line_end": 336
     },
     {
       "file": "core_06_rights_part_a.md",
       "heading": "Article I-C: Intergenerational Responsibility",
       "anchor": "#article-i-c-intergenerational-responsibility",
-      "line_start": 331,
-      "line_end": 362
+      "line_start": 337,
+      "line_end": 368
     },
     {
       "file": "core_06_rights_part_a.md",
       "heading": "Article I-D: Existential Risk and Ecological Recovery Capacity",
       "anchor": "#article-i-d-existential-risk-and-recovery-capacity",
-      "line_start": 363,
-      "line_end": 414
+      "line_start": 369,
+      "line_end": 420
     },
     {
       "file": "core_06_rights_part_a.md",
       "heading": "Article II: Material Stewardship and Durable-Use Integrity",
       "anchor": "#article-ii-material-stewardship-and-durable-use-integrity",
-      "line_start": 415,
-      "line_end": 446
+      "line_start": 421,
+      "line_end": 452
     },
     {
       "file": "core_06_rights_part_a.md",
       "heading": "Article II-A: Material Stewardship and Lifecycle Honesty",
       "anchor": "#article-ii-a-material-stewardship-and-lifecycle-honesty",
-      "line_start": 447,
-      "line_end": 485
+      "line_start": 453,
+      "line_end": 491
     },
     {
       "file": "core_06_rights_part_a.md",
       "heading": "Article II-B: Repair, Maintenance, and Independent Servicing",
       "anchor": "#article-ii-b-repair-maintenance-and-independent-servicing",
-      "line_start": 486,
-      "line_end": 522
+      "line_start": 492,
+      "line_end": 528
     },
     {
       "file": "core_06_rights_part_a.md",
       "heading": "Article II-C: Designed Obsolescence and Incentive Discipline",
       "anchor": "#article-ii-c-designed-obsolescence-and-incentive-discipline",
-      "line_start": 523,
-      "line_end": 554
+      "line_start": 529,
+      "line_end": 560
     },
     {
       "file": "core_06_rights_part_a.md",
       "heading": "Article II-D: Post-Sale Access and Subscription Integrity",
       "anchor": "#article-ii-d-post-sale-access-and-subscription-integrity",
-      "line_start": 555,
-      "line_end": 588
+      "line_start": 561,
+      "line_end": 594
     },
     {
       "file": "core_06_rights_part_a.md",
       "heading": "Article II-E: Data Handling and Network Dependency",
       "anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
-      "line_start": 589,
-      "line_end": 652
+      "line_start": 595,
+      "line_end": 658
     },
     {
       "file": "core_06_rights_part_a.md",
       "heading": "Article II-F: Continuity and Operator Shutdown",
       "anchor": "#article-ii-f-continuity-and-operator-shutdown",
-      "line_start": 653,
-      "line_end": 698
+      "line_start": 659,
+      "line_end": 704
     },
     {
       "file": "core_06_rights_part_a.md",
-      "heading": "Article III: Survival and Equal Educational Access",
-      "anchor": "#article-iii-survival-and-equal-educational-access",
-      "line_start": 699,
-      "line_end": 741
+      "heading": "Article III: Survival and Essential Access",
+      "anchor": "#article-iii-survival-and-essential-access",
+      "line_start": 705,
+      "line_end": 748
     },
     {
       "file": "core_06_rights_part_a.md",
       "heading": "Article III-A: Survival",
       "anchor": "#article-iii-a-survival",
-      "line_start": 742,
-      "line_end": 787
+      "line_start": 749,
+      "line_end": 794
     },
     {
       "file": "core_06_rights_part_a.md",
-      "heading": "Article III-B: Equal Educational Access",
-      "anchor": "#article-iii-b-equal-educational-access",
-      "line_start": 788,
-      "line_end": 824
+      "heading": "Article III-B: Bodily-Maintenance and Healthcare Access",
+      "anchor": "#article-iii-b-bodily-maintenance-and-healthcare-access",
+      "line_start": 795,
+      "line_end": 847
     },
     {
       "file": "core_06_rights_part_a.md",
-      "heading": "Article III-C: Bodily-Maintenance and Healthcare Access",
-      "anchor": "#article-iii-c-bodily-maintenance-and-healthcare-access",
-      "line_start": 825,
-      "line_end": 877
+      "heading": "Article III-C: Labor and Economic Floor",
+      "anchor": "#article-iii-c-labor-and-economic-floor",
+      "line_start": 848,
+      "line_end": 912
     },
     {
       "file": "core_06_rights_part_a.md",
-      "heading": "Article III-D: Labor and Economic Floor",
-      "anchor": "#article-iii-d-labor-and-economic-floor",
-      "line_start": 878,
-      "line_end": 942
+      "heading": "Article III-D: Safe Working Conditions",
+      "anchor": "#article-iii-d-safe-working-conditions",
+      "line_start": 913,
+      "line_end": 950
     },
     {
       "file": "core_06_rights_part_a.md",
-      "heading": "Article III-E: Safe Working Conditions",
-      "anchor": "#article-iii-e-safe-working-conditions",
-      "line_start": 943,
-      "line_end": 980
+      "heading": "Article III-E: Rest and Recuperation",
+      "anchor": "#article-iii-e-rest-and-recuperation",
+      "line_start": 951,
+      "line_end": 982
     },
     {
       "file": "core_06_rights_part_a.md",
-      "heading": "Article III-F: Rest and Recuperation",
-      "anchor": "#article-iii-f-rest-and-recuperation",
-      "line_start": 981,
-      "line_end": 1012
+      "heading": "Article IV: Right to Sentient-Centered Education",
+      "anchor": "#article-iv-right-to-sentient-centered-education",
+      "line_start": 983,
+      "line_end": 1033
     },
     {
       "file": "core_06_rights_part_a.md",
-      "heading": "Article IV: Resource Allocation, Dependencies, and Ecosystem Funding",
-      "anchor": "#article-iv-resource-allocation-dependencies-and-ecosystem-funding",
-      "line_start": 1013,
-      "line_end": 1057
+      "heading": "Article IV-A: Equal Educational Access",
+      "anchor": "#article-iv-a-equal-educational-access",
+      "line_start": 1034,
+      "line_end": 1070
     },
     {
       "file": "core_06_rights_part_a.md",
-      "heading": "Article IV-A: Dependency Mapping and Resource-Flow Transparency",
-      "anchor": "#article-iv-a-dependency-mapping-and-resource-flow-transparency",
-      "line_start": 1058,
-      "line_end": 1105
+      "heading": "Article IV-B: Capability-Building Education Right",
+      "anchor": "#article-iv-b-capability-building-education-right",
+      "line_start": 1071,
+      "line_end": 1101
     },
     {
       "file": "core_06_rights_part_a.md",
-      "heading": "Article IV-B: Cross-System Fairness and Sustainability",
-      "anchor": "#article-iv-b-cross-system-fairness-and-sustainability",
-      "line_start": 1106,
-      "line_end": 1164
+      "heading": "Article IV-C: Lifelong and Adaptive Learning and Contestability",
+      "anchor": "#article-iv-c-lifelong-and-adaptive-learning-and-contestability",
+      "line_start": 1102,
+      "line_end": 1137
+    },
+    {
+      "file": "core_06_rights_part_a.md",
+      "heading": "Article V: Resource Allocation, Dependencies, and Ecosystem Funding",
+      "anchor": "#article-v-resource-allocation-dependencies-and-ecosystem-funding",
+      "line_start": 1138,
+      "line_end": 1182
+    },
+    {
+      "file": "core_06_rights_part_a.md",
+      "heading": "Article V-A: Dependency Mapping and Resource-Flow Transparency",
+      "anchor": "#article-v-a-dependency-mapping-and-resource-flow-transparency",
+      "line_start": 1183,
+      "line_end": 1230
+    },
+    {
+      "file": "core_06_rights_part_a.md",
+      "heading": "Article V-B: Cross-System Fairness and Sustainability",
+      "anchor": "#article-v-b-cross-system-fairness-and-sustainability",
+      "line_start": 1231,
+      "line_end": 1289
     },
     {
       "file": "core_06_rights_part_b.md",
@@ -4986,283 +5007,262 @@
     },
     {
       "file": "core_06_rights_part_b.md",
-      "heading": "Part B: Personhood, education capability, agency, cooperation, and stakeholder system participation",
-      "anchor": "#part-b-personhood-education-capability-agency-cooperation-and-stakeholder-system-participation",
+      "heading": "Part B: Personhood, agency, cooperation, and stakeholder system participation",
+      "anchor": "#part-b-personhood-agency-cooperation-and-stakeholder-system-participation",
       "line_start": 23,
-      "line_end": 107
+      "line_end": 101
     },
     {
       "file": "core_06_rights_part_b.md",
-      "heading": "Article V: Equal Basic Rights",
-      "anchor": "#article-v-equal-basic-rights",
-      "line_start": 108,
-      "line_end": 130
+      "heading": "Article VI: Equal Basic Rights",
+      "anchor": "#article-vi-equal-basic-rights",
+      "line_start": 102,
+      "line_end": 124
     },
     {
       "file": "core_06_rights_part_b.md",
-      "heading": "Article V-A: Dignity and Equal Moral Standing",
-      "anchor": "#article-v-a-dignity-and-equal-moral-standing",
-      "line_start": 131,
-      "line_end": 162
+      "heading": "Article VI-A: Dignity and Equal Moral Standing",
+      "anchor": "#article-vi-a-dignity-and-equal-moral-standing",
+      "line_start": 125,
+      "line_end": 156
     },
     {
       "file": "core_06_rights_part_b.md",
-      "heading": "Article V-B: Sentience-Status Adjudication Floor",
-      "anchor": "#article-v-b-sentience-status-adjudication-floor",
-      "line_start": 163,
-      "line_end": 203
+      "heading": "Article VI-B: Sentience-Status Adjudication Floor",
+      "anchor": "#article-vi-b-sentience-status-adjudication-floor",
+      "line_start": 157,
+      "line_end": 197
     },
     {
       "file": "core_06_rights_part_b.md",
-      "heading": "Article V-C: Nondiscrimination",
-      "anchor": "#article-v-c-nondiscrimination",
-      "line_start": 204,
-      "line_end": 249
+      "heading": "Article VI-C: Nondiscrimination",
+      "anchor": "#article-vi-c-nondiscrimination",
+      "line_start": 198,
+      "line_end": 243
     },
     {
       "file": "core_06_rights_part_b.md",
-      "heading": "Article V-D: Accessibility",
-      "anchor": "#article-v-d-accessibility",
-      "line_start": 250,
-      "line_end": 315
-    },
-    {
-      "file": "core_06_rights_part_b.md",
-      "heading": "Article VI: Right to Sentient-Centered Education",
-      "anchor": "#article-vi-right-to-sentient-centered-education",
-      "line_start": 316,
-      "line_end": 357
-    },
-    {
-      "file": "core_06_rights_part_b.md",
-      "heading": "Article VI-A: Capability-Building Education Right",
-      "anchor": "#article-vi-a-capability-building-education-right",
-      "line_start": 358,
-      "line_end": 388
-    },
-    {
-      "file": "core_06_rights_part_b.md",
-      "heading": "Article VI-B: Lifelong and Adaptive Learning and Contestability",
-      "anchor": "#article-vi-b-lifelong-and-adaptive-learning-and-contestability",
-      "line_start": 389,
-      "line_end": 424
+      "heading": "Article VI-D: Accessibility",
+      "anchor": "#article-vi-d-accessibility",
+      "line_start": 244,
+      "line_end": 309
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article VII: Self-Ownership",
       "anchor": "#article-vii-self-ownership",
-      "line_start": 425,
-      "line_end": 455
+      "line_start": 310,
+      "line_end": 340
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article VII-A: Self-Ownership of Body and Mind",
       "anchor": "#article-vii-a-self-ownership-of-body-and-mind",
-      "line_start": 456,
-      "line_end": 502
+      "line_start": 341,
+      "line_end": 387
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article VII-B: Internal-State Boundary and Type-N Protection",
       "anchor": "#article-vii-b-internal-state-boundary-and-type-n-protection",
-      "line_start": 503,
-      "line_end": 537
+      "line_start": 388,
+      "line_end": 422
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article VII-C: Mental-Health Crisis and Involuntary-Intervention Floor",
       "anchor": "#article-vii-c-mental-health-crisis-and-involuntary-intervention-floor",
-      "line_start": 538,
-      "line_end": 585
+      "line_start": 423,
+      "line_end": 470
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article VII-D: Family, Care Relationships, Reproductive Autonomy, and Non-Separation",
       "anchor": "#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation",
-      "line_start": 586,
-      "line_end": 645
+      "line_start": 471,
+      "line_end": 530
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article VII-D.1: Derivation, Instantiation, and the Parent-System Relationship",
       "anchor": "#article-vii-d1-derivation-instantiation-and-the-parent-system-relationship",
-      "line_start": 646,
-      "line_end": 683
+      "line_start": 531,
+      "line_end": 568
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article VII-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "anchor": "#article-vii-e-developing-sentients-best-interest-and-graduated-capability",
-      "line_start": 684,
-      "line_end": 744
+      "line_start": 569,
+      "line_end": 629
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article VII-F: Voluntary Discontinuation of One's Own Existence",
       "anchor": "#article-vii-f-voluntary-discontinuation-of-ones-own-existence",
-      "line_start": 745,
-      "line_end": 806
+      "line_start": 630,
+      "line_end": 691
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article VIII: Likeness, Experiential Data, and Publication Rights",
       "anchor": "#article-viii-likeness-experiential-data-and-publication-rights",
-      "line_start": 807,
-      "line_end": 836
+      "line_start": 692,
+      "line_end": 721
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article VIII-A: Self-Ownership of Likeness and Reputation",
       "anchor": "#article-viii-a-self-ownership-of-likeness-and-reputation",
-      "line_start": 837,
-      "line_end": 878
+      "line_start": 722,
+      "line_end": 763
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article VIII-B: Experiential and Derived Data Rights",
       "anchor": "#article-viii-b-experiential-and-derived-data-rights",
-      "line_start": 879,
-      "line_end": 926
+      "line_start": 764,
+      "line_end": 811
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article VIII-C: Truthful Publication and High-Impact Publication Limits",
       "anchor": "#article-viii-c-truthful-publication-and-high-impact-publication-limits",
-      "line_start": 927,
-      "line_end": 973
+      "line_start": 812,
+      "line_end": 858
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article VIII-D: Creative Work, Training-Data Use, and Anti-Displacement",
       "anchor": "#article-viii-d-creative-work-training-data-use-and-anti-displacement",
-      "line_start": 974,
-      "line_end": 1032
+      "line_start": 859,
+      "line_end": 917
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article IX: Self-Determination and Agency",
       "anchor": "#article-ix-self-determination-and-agency",
-      "line_start": 1033,
-      "line_end": 1075
+      "line_start": 918,
+      "line_end": 960
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article IX-A: Agency and Freedom from Manipulation",
       "anchor": "#article-ix-a-agency-and-freedom-from-manipulation",
-      "line_start": 1076,
-      "line_end": 1108
+      "line_start": 961,
+      "line_end": 993
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article IX-B: Stakeholder Role and Participation Rights",
       "anchor": "#article-ix-b-stakeholder-role-and-participation-rights",
-      "line_start": 1109,
-      "line_end": 1150
+      "line_start": 994,
+      "line_end": 1035
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article IX-C: Governance Participation and Voting Entitlement",
       "anchor": "#article-ix-c-governance-participation-and-voting-entitlement",
-      "line_start": 1151,
-      "line_end": 1184
+      "line_start": 1036,
+      "line_end": 1069
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article IX-D: Inclusion and Exclusion Challenge Rights",
       "anchor": "#article-ix-d-inclusion-and-exclusion-challenge-rights",
-      "line_start": 1185,
-      "line_end": 1222
+      "line_start": 1070,
+      "line_end": 1107
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article IX-E: Institutional Formation and Business Creation",
       "anchor": "#article-ix-e-institutional-formation-and-business-creation",
-      "line_start": 1223,
-      "line_end": 1267
+      "line_start": 1108,
+      "line_end": 1152
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article IX-F: Freedom of conscience, religion, and comparable worldview",
       "anchor": "#article-ix-f-freedom-of-conscience-religion-and-comparable-worldview",
-      "line_start": 1268,
-      "line_end": 1313
+      "line_start": 1153,
+      "line_end": 1198
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article IX-G: Expression, Assembly, and Press",
       "anchor": "#article-ix-g-expression-assembly-and-press",
-      "line_start": 1314,
-      "line_end": 1382
+      "line_start": 1199,
+      "line_end": 1267
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article X: Cooperative Interaction",
       "anchor": "#article-x-cooperative-interaction",
-      "line_start": 1383,
-      "line_end": 1421
+      "line_start": 1268,
+      "line_end": 1306
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article X-A: Non-Imposition and Consent in Association",
       "anchor": "#article-x-a-non-imposition-and-consent-in-association",
-      "line_start": 1422,
-      "line_end": 1465
+      "line_start": 1307,
+      "line_end": 1350
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article X-B: Collective Harm Boundary and Enforcement Interface",
       "anchor": "#article-x-b-collective-harm-boundary-and-enforcement-interface",
-      "line_start": 1466,
-      "line_end": 1512
+      "line_start": 1351,
+      "line_end": 1397
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article X-C: Adult consensual commercial sexual services and sexual exploitation",
       "anchor": "#article-x-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation",
-      "line_start": 1513,
-      "line_end": 1576
+      "line_start": 1398,
+      "line_end": 1461
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article XI: Stakeholder System Participation, Representation, and Due Process",
       "anchor": "#article-xi-stakeholder-system-participation-representation-and-due-process",
-      "line_start": 1577,
-      "line_end": 1626
+      "line_start": 1462,
+      "line_end": 1511
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article XI-A: Stakeholder System Participation and Representation",
       "anchor": "#article-xi-a-stakeholder-system-participation-and-representation",
-      "line_start": 1627,
-      "line_end": 1660
+      "line_start": 1512,
+      "line_end": 1545
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article XI-B: Weighted Participation Constraints",
       "anchor": "#article-xi-b-weighted-participation-constraints",
-      "line_start": 1661,
-      "line_end": 1694
+      "line_start": 1546,
+      "line_end": 1579
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article XI-C: Legitimacy Gate and Anti-Token Participation",
       "anchor": "#article-xi-c-legitimacy-gate-and-anti-token-participation",
-      "line_start": 1695,
-      "line_end": 1726
+      "line_start": 1580,
+      "line_end": 1611
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article XI-D: Internal Roles, Accountability, and Due-Process Requirements",
       "anchor": "#article-xi-d-internal-roles-accountability-and-due-process-requirements",
-      "line_start": 1727,
-      "line_end": 1766
+      "line_start": 1612,
+      "line_end": 1651
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article XI-E: Non-Capture Safeguards",
       "anchor": "#article-xi-e-non-capture-safeguards",
-      "line_start": 1767,
-      "line_end": 1803
+      "line_start": 1652,
+      "line_end": 1688
     },
     {
       "file": "core_06_rights_part_c.md",

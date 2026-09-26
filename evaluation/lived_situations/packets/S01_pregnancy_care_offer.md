@@ -87,12 +87,12 @@ Beyond the sitting’s bounded reading path, open:
 
 - [Reproductive Autonomy](../../../core_05_band_participation.md#reproductive-autonomy-constitutional) — including the primary-failure pattern of coercive conditioning of care or survival resources on reproductive or lineage choice
 - [Family and Care Relationships](../../../core_05_band_participation.md#family-and-care-relationships-constitutional); [Non-Separation](../../../core_05_band_participation.md#non-separation-constitutional)
-- [Article V-C](../../../core_06_rights_part_b.md#article-v-c-nondiscrimination) (*Nondiscrimination*) / [Protected Characteristics](../../../core_05_band_participation.md#protected-characteristics-constitutional) where pregnancy or caregiving status is used as a gate
+- [Article VI-C](../../../core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*) / [Protected Characteristics](../../../core_05_band_participation.md#protected-characteristics-constitutional) where pregnancy or caregiving status is used as a gate
 - [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind) (*Self-Ownership of Body and Mind*) — access is not consent to intrusion; family relationship is not authority over another sentient
 - [Article X-A](../../../core_06_rights_part_b.md#article-x-a-non-imposition-and-consent-in-association) (*Non-Imposition and Consent in Association*)
 - [CI-16](../../../corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md) — coercion-intake, respite, reproductive-labor service pathways; survival floors cannot be conditioned on care labor ([CI-9.4](../../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) as CI-16 names it)
 - [CI-20](../../../corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md) — routing for coercive control in close relationships
-- [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*) only if the platform’s scheduling is used to defeat healthcare or survival access; do not drag the platform into a family-merits case it is not in
+- [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) only if the platform’s scheduling is used to defeat healthcare or survival access; do not drag the platform into a family-merits case it is not in
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 

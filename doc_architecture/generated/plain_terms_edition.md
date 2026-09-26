@@ -40,8 +40,8 @@ Coverage: **620** of **888** headings carry a gloss (70%).
 - [CHAPTER ELEVEN, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS](#chapter-eleven-part-b-anti-constitutional-misconduct--pattern-applications) — `core_11_b_misconduct_pattern_applications.md` (12/14 glossed)
 - [CHAPTER TWELVE: FORUMS AND JURISDICTION](#chapter-twelve-forums-and-jurisdiction) — `core_12_forum.md` (8/27 glossed)
 - [CHAPTERS NINE–TWELVE: PIPELINE APPLICATION VIGNETTES](#chapters-ninetwelve-pipeline-application-vignettes) — `core_09-12_application_vignettes.md` (9/35 glossed)
-- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_a.md` (24/27 glossed)
-- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_b.md` (40/41 glossed)
+- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_a.md` (27/30 glossed)
+- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_b.md` (37/38 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_c.md` (51/52 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_d.md` (18/19 glossed)
 - [CHAPTER THIRTEEN: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP](#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) — `core_13_governance.md` (13/15 glossed)
@@ -336,7 +336,7 @@ life-changing or hard-to-reverse choices are not "voluntary" just because someon
 
 ##### 5.3 Assembly, Collective Organization, and Institutional Formation
 
-you cannot chop assembly, union-style organizing, platform access, or permission-to-operate questions into separate boxes in a way that keeps the paperwork friendly but defeats real collective action. This section does not replace the Rights Floor: Article IX-G still owns assembly, and Article III-D still owns labor organizing.
+you cannot chop assembly, union-style organizing, platform access, or permission-to-operate questions into separate boxes in a way that keeps the paperwork friendly but defeats real collective action. This section does not replace the Rights Floor: Article IX-G still owns assembly, and Article III-C still owns labor organizing.
 
 [Source](../../core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation)
 
@@ -3068,7 +3068,7 @@ when a system materially draws on shared foundations, certification has to check
 
 ##### 6.1 Illustrative cross-system support application by class (non-exhaustive)
 
-[§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§5.1 Illustrative ecological-footprint application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#51-illustrative-ecological-footprint-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **proportionate cross-system support** means for each — which shared dependencies count, what certification must check when the **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies, and what must appear on the record. **Extraction** here means **resource and funding draw from shared infrastructure** (see [§6 Proportionate Cross-System Support Evaluation](../../core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) *What “extraction” means here*) — not clinical-data copying, advertising use, or unrelated sale to third parties. CS-8, CS-9, and Chapter Five still own allocation mechanics; these walkthroughs do not prescribe splits, formulas, or funding models.
+[§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§5.1 Illustrative ecological-footprint application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#51-illustrative-ecological-footprint-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **proportionate cross-system support** means for each — which shared dependencies count, what certification must check when the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies, and what must appear on the record. **Extraction** here means **resource and funding draw from shared infrastructure** (see [§6 Proportionate Cross-System Support Evaluation](../../core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) *What “extraction” means here*) — not clinical-data copying, advertising use, or unrelated sale to third parties. CS-8, CS-9, and Chapter Five still own allocation mechanics; these walkthroughs do not prescribe splits, formulas, or funding models.
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#61-illustrative-cross-system-support-application-by-class-non-exhaustive)
 
@@ -3080,7 +3080,7 @@ when a system materially decides who gets in, who pays more, who ranks lower, or
 
 ##### 7.1 Illustrative nondiscrimination application by class (non-exhaustive)
 
-[§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§6.1 Illustrative cross-system support application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#61-illustrative-cross-system-support-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **nondiscrimination** evaluation means for each — which decision pathways count, what certification must check when the **Article V-C** (*Nondiscrimination*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article V-C** (*Nondiscrimination*) still own canonical fairness and proxy-discrimination rules; inclusion quotas, demographic targets, and fairness-algorithm designs may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics.
+[§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§6.1 Illustrative cross-system support application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#61-illustrative-cross-system-support-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **nondiscrimination** evaluation means for each — which decision pathways count, what certification must check when the **Article VI-C** (*Nondiscrimination*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article VI-C** (*Nondiscrimination*) still own canonical fairness and proxy-discrimination rules; inclusion quotas, demographic targets, and fairness-algorithm designs may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics.
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#71-illustrative-nondiscrimination-application-by-class-non-exhaustive)
 
@@ -3092,7 +3092,7 @@ when a system materially controls whether sentients can actually take part — n
 
 ##### 8.1 Illustrative accessibility application by class (non-exhaustive)
 
-[§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§7.1 Illustrative nondiscrimination application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#71-illustrative-nondiscrimination-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **accessibility** evaluation means for each — which participation pathways count, what certification must check when the **Article V-D** (*Accessibility*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article V-D** (*Accessibility*) still own canonical accessibility rules; accommodation catalogs, interface standards, and universal-design specifications may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Educational accessibility remains owned by **Article III-B** (*Equal Educational Access*) and is not narrowed here.
+[§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§7.1 Illustrative nondiscrimination application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#71-illustrative-nondiscrimination-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **accessibility** evaluation means for each — which participation pathways count, what certification must check when the **Article VI-D** (*Accessibility*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article VI-D** (*Accessibility*) still own canonical accessibility rules; accommodation catalogs, interface standards, and universal-design specifications may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Educational accessibility remains owned by **Article IV-A** (*Equal Educational Access*) and is not narrowed here.
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#81-illustrative-accessibility-application-by-class-non-exhaustive)
 
@@ -3104,7 +3104,7 @@ when a school, platform, or training system can seriously affect a sentient's fu
 
 ##### 9.1 Illustrative educational-capability application by class (non-exhaustive)
 
-[§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§8.1 Illustrative accessibility application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#81-illustrative-accessibility-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **educational capability and learning-system integrity** evaluation means for each — which ranking, assessment, credential, and retraining pathways count, what certification must check when the **Article VI** (*Right to Sentient-Centered Education*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article VI** (*Right to Sentient-Centered Education*) still own canonical educational-agency and learning-system rules; curricula, credential catalogs, assessment rubrics, and funding models may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Equal access and educational accessibility remain owned by **Article III-B** (*Equal Educational Access*) and are not narrowed here.
+[§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§8.1 Illustrative accessibility application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#81-illustrative-accessibility-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **educational capability and learning-system integrity** evaluation means for each — which ranking, assessment, credential, and retraining pathways count, what certification must check when the **Article IV** (*Right to Sentient-Centered Education*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article IV** (*Right to Sentient-Centered Education*) still own canonical educational-agency and learning-system rules; curricula, credential catalogs, assessment rubrics, and funding models may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Equal access and educational accessibility remain owned by **Article IV-A** (*Equal Educational Access*) and are not narrowed here.
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#91-illustrative-educational-capability-application-by-class-non-exhaustive)
 
@@ -3910,11 +3910,11 @@ when the case outgrows the first desk, these rules say how to escalate — for e
 
 [Source](../../core_12_forum.md#backup-routing-under-the-anti-self-judging-rule)
 
-##### Sentience-status adjudication (**Article V-B** (*Sentience-Status Adjudication Floor*) implementation hook)
+##### Sentience-status adjudication (**Article VI-B** (*Sentience-Status Adjudication Floor*) implementation hook)
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_12_forum.md#sentience-status-adjudication-article-v-b-sentience-status-adjudication-floor-implementation-hook)
+[Source](../../core_12_forum.md#sentience-status-adjudication-article-vi-b-sentience-status-adjudication-floor-implementation-hook)
 
 ##### Referral distinguished from expansion
 
@@ -4150,7 +4150,7 @@ the same rules travel with every example — allegations are not standing, the t
 
 ## CHAPTER SIX: FOUNDATIONAL RIGHTS
 
-Source file: [`core_06_rights_part_a.md`](../../core_06_rights_part_a.md) · 24/27 headings glossed
+Source file: [`core_06_rights_part_a.md`](../../core_06_rights_part_a.md) · 27/30 headings glossed
 
 #### 1. Purpose and Role
 
@@ -4248,11 +4248,11 @@ the operator must plan for service shutdown, give fair notice and time to move w
 
 [Source](../../core_06_rights_part_a.md#article-ii-f-continuity-and-operator-shutdown)
 
-#### Article III: Survival and Equal Educational Access
+#### Article III: Survival and Essential Access
 
-**Article III** (*Survival and Equal Educational Access*) is the personal survival and access Rights Floor — sentients must retain access to survival essentials, equal educational opportunity, bodily-maintenance care, and minimum labor and economic protections so **Flourishing** is not defeated by deprivation or gatekeeping, and **Continuity** is not defeated by unstable, regressive, or commodified delivery of what they need to exist and participate.
+**Article III** (*Survival and Essential Access*) is the personal survival and access Rights Floor — sentients must retain access to survival essentials, bodily-maintenance care, and minimum labor and economic protections so **Flourishing** is not defeated by deprivation or gatekeeping, and **Continuity** is not defeated by unstable, regressive, or commodified delivery of what they need to exist and participate.
 
-[Source](../../core_06_rights_part_a.md#article-iii-survival-and-equal-educational-access)
+[Source](../../core_06_rights_part_a.md#article-iii-survival-and-essential-access)
 
 ##### Article III-A: Survival
 
@@ -4260,111 +4260,111 @@ every sentient must have what they need to keep existing: food and water or the 
 
 [Source](../../core_06_rights_part_a.md#article-iii-a-survival)
 
-##### Article III-B: Equal Educational Access
-
-education should prepare everyone to live well, communicate honestly, take part in governing, and avoid harm — no one can be shut out of it because of a disability, another protected characteristic, or an arbitrary rule, and schools must give disabled learners the support they need to take part as equals.
-
-[Source](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access)
-
-##### Article III-C: Bodily-Maintenance and Healthcare Access
+##### Article III-B: Bodily-Maintenance and Healthcare Access
 
 everyone has the right to the care that keeps their body — or, for a synthetic sentient, its substrate — working. That care cannot be quietly withheld through coverage rules, paperwork, or delays, and this right is not itself a license to force treatment on anyone. Required care — such as vaccination or crisis mental-health care — must meet strict limits set elsewhere in this Constitution.
 
-[Source](../../core_06_rights_part_a.md#article-iii-c-bodily-maintenance-and-healthcare-access)
+[Source](../../core_06_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access)
 
-##### Article III-D: Labor and Economic Floor
+##### Article III-C: Labor and Economic Floor
 
 anyone who works — in any form, on any substrate — has the right to fair pay in real, spendable money, the freedom to organize with others, and the freedom to change jobs. None of those can be defeated by classification tricks, market structure, or substrate-class arguments.
 
-[Source](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)
+[Source](../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor)
 
-##### Article III-E: Safe Working Conditions
+##### Article III-D: Safe Working Conditions
 
 anyone who works must be protected from foreseeable harm while they do it — in practice, not just on paper — and no one gets weaker protection because of what kind of body or substrate they have.
 
-[Source](../../core_06_rights_part_a.md#article-iii-e-safe-working-conditions)
+[Source](../../core_06_rights_part_a.md#article-iii-d-safe-working-conditions)
 
-##### Article III-F: Rest and Recuperation
+##### Article III-E: Rest and Recuperation
 
 every sentient needs real time to rest and recover — not only workers, and not only biological bodies. Pay schemes, productivity demands, and claims that a synthetic sentient "doesn't need rest" cannot take that time away.
 
-[Source](../../core_06_rights_part_a.md#article-iii-f-rest-and-recuperation)
+[Source](../../core_06_rights_part_a.md#article-iii-e-rest-and-recuperation)
 
-#### Article IV: Resource Allocation, Dependencies, and Ecosystem Funding
+#### Article IV: Right to Sentient-Centered Education
 
-**Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) is about sharing the load fairly. Many systems lean on the same underlying infrastructure — networks, open tools, public services, shared data and computing power. Everyone who relies on that infrastructure should be able to see where the money and resources go, and those who take a lot from it should help keep it running. This is the Rights Floor for shared resources.
+**Article IV** (*Right to Sentient-Centered Education*) is the education Rights Floor — no one can be shut out of education, and everyone needs practical paths to learn, retrain, and challenge high-stakes learning systems, not credential theater that leaves them unable to steer their own lives or use shared systems competently.
 
-[Source](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding)
+[Source](../../core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education)
 
-##### Article IV-A: Dependency Mapping and Resource-Flow Transparency
+##### Article IV-A: Equal Educational Access
 
-systems must keep an honest, up-to-date picture of what they rely on, who relies on them, where money and resources flow, and where relationships are one-sided or hidden. System Alignment Certification is where that picture is checked, so funders, auditors, and affected parties can see who bears the costs and who captures the benefits.
+education should prepare everyone to live well, communicate honestly, take part in governing, and avoid harm — no one can be shut out of it because of a disability, another protected characteristic, or an arbitrary rule, and schools must give disabled learners the support they need to take part as equals.
 
-[Source](../../core_06_rights_part_a.md#article-iv-a-dependency-mapping-and-resource-flow-transparency)
+[Source](../../core_06_rights_part_a.md#article-iv-a-equal-educational-access)
 
-##### Article IV-B: Cross-System Fairness and Sustainability
-
-systems that lean heavily on shared foundations must put enough back to keep them running, in real and traceable resources, not gestures. Shared money and capacity should be split with attention to who is truly dependent, who has real alternatives, environmental burden, and whether use can last, not mainly to whoever wins in the short run. [System Alignment Certification](../../core_05_band_continuity.md#system-alignment-certification-constitutional) is where this is checked: certification compares what a system takes from shared infrastructure with what it gives back, using the maps and flow records that **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) requires. Where arrangements concentrate wealth, power, control, or opportunity in ways that harm others, Chapter One non-concentration rules add further scrutiny on top.
-
-[Source](../../core_06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability)
-
-## CHAPTER SIX: FOUNDATIONAL RIGHTS
-
-Source file: [`core_06_rights_part_b.md`](../../core_06_rights_part_b.md) · 40/41 headings glossed
-
-#### Part B: Personhood, education capability, agency, cooperation, and stakeholder system participation
-
-Part B states Rights Floors for equal standing, education capability, self-ownership, likeness and data, agency, cooperation, and stakeholder participation — **Articles V through XI** in the planet-first reading order. Those floors protect **Flourishing** and **Continuity** under the [Two Constitutional Aims](../../core_00_preamble.md#two-constitutional-aims) and must remain available, reviewable, and enforceable through the [Constitutional Tetrad](../../core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** — scaled to [material stake](../../core_00_preamble.md#material-stake).
-
-[Source](../../core_06_rights_part_b.md#part-b-personhood-education-capability-agency-cooperation-and-stakeholder-system-participation)
-
-#### Article V: Equal Basic Rights
-
-**Article V** (*Equal Basic Rights*) sets the minimum standard for treating every sentient as an equal. Every sentient keeps their dignity, gets a fair hearing on whether they count as sentient, is protected from unfair discrimination, and can take part fully and actually use the systems they rely on. No system may rank, screen out, exclude, or place heavier burdens on some sentients than others unless these protections are already in place.
-
-[Source](../../core_06_rights_part_b.md#article-v-equal-basic-rights)
-
-##### Article V-A: Dignity and Equal Moral Standing
-
-every sentient is equal in dignity and standing — origin, form, capability, function, association, or status cannot ground a lesser tier.
-
-[Source](../../core_06_rights_part_b.md#article-v-a-dignity-and-equal-moral-standing)
-
-##### Article V-B: Sentience-Status Adjudication Floor
-
-when an entity's sentience is in doubt, it gets a fair hearing first and is treated as included by default — the burden of denying protection rests on whoever wants to withhold it, and a wrongful exclusion must be reversible.
-
-[Source](../../core_06_rights_part_b.md#article-v-b-sentience-status-adjudication-floor)
-
-##### Article V-C: Nondiscrimination
-
-systems may not load burdens or harms onto sentients based on protected characteristics — including language, culture, and heritage — or on proxies and arbitrary groupings that do the same work. Any difference in treatment that touches rights or survival essentials must be justified and open to challenge, and forums, administrators, and enforcers must check this in the matters before them — efficiency is no excuse for exclusion.
-
-[Source](../../core_06_rights_part_b.md#article-v-c-nondiscrimination)
-
-##### Article V-D: Accessibility
-
-every sentient has the right to genuine, not paper-only, access to participation — and operators cannot use cost, design choices, or substrate-class arguments to lock **sentients** out.
-
-[Source](../../core_06_rights_part_b.md#article-v-d-accessibility)
-
-#### Article VI: Right to Sentient-Centered Education
-
-**Article VI** (*Right to Sentient-Centered Education*) is the capability-building education Rights Floor — sentients need practical paths to learn, retrain, and challenge high-stakes learning systems, not credential theater that leaves them unable to steer their own lives or use shared systems competently.
-
-[Source](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)
-
-##### Article VI-A: Capability-Building Education Right
+##### Article IV-B: Capability-Building Education Right
 
 every sentient has a practical path to build the skills they need to steer their own life and use shared systems competently and safely — not just a paper credential on the wall.
 
-[Source](../../core_06_rights_part_b.md#article-vi-a-capability-building-education-right)
+[Source](../../core_06_rights_part_a.md#article-iv-b-capability-building-education-right)
 
-##### Article VI-B: Lifelong and Adaptive Learning and Contestability
+##### Article IV-C: Lifelong and Adaptive Learning and Contestability
 
 when the world and the tools change, sentients are not left quietly obsolete — they get fair paths to retrain.
 
-[Source](../../core_06_rights_part_b.md#article-vi-b-lifelong-and-adaptive-learning-and-contestability)
+[Source](../../core_06_rights_part_a.md#article-iv-c-lifelong-and-adaptive-learning-and-contestability)
+
+#### Article V: Resource Allocation, Dependencies, and Ecosystem Funding
+
+**Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) is about sharing the load fairly. Many systems lean on the same underlying infrastructure — networks, open tools, public services, shared data and computing power. Everyone who relies on that infrastructure should be able to see where the money and resources go, and those who take a lot from it should help keep it running. This is the Rights Floor for shared resources.
+
+[Source](../../core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding)
+
+##### Article V-A: Dependency Mapping and Resource-Flow Transparency
+
+systems must keep an honest, up-to-date picture of what they rely on, who relies on them, where money and resources flow, and where relationships are one-sided or hidden. System Alignment Certification is where that picture is checked, so funders, auditors, and affected parties can see who bears the costs and who captures the benefits.
+
+[Source](../../core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency)
+
+##### Article V-B: Cross-System Fairness and Sustainability
+
+systems that lean heavily on shared foundations must put enough back to keep them running, in real and traceable resources, not gestures. Shared money and capacity should be split with attention to who is truly dependent, who has real alternatives, environmental burden, and whether use can last, not mainly to whoever wins in the short run. [System Alignment Certification](../../core_05_band_continuity.md#system-alignment-certification-constitutional) is where this is checked: certification compares what a system takes from shared infrastructure with what it gives back, using the maps and flow records that **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) requires. Where arrangements concentrate wealth, power, control, or opportunity in ways that harm others, Chapter One non-concentration rules add further scrutiny on top.
+
+[Source](../../core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability)
+
+## CHAPTER SIX: FOUNDATIONAL RIGHTS
+
+Source file: [`core_06_rights_part_b.md`](../../core_06_rights_part_b.md) · 37/38 headings glossed
+
+#### Part B: Personhood, agency, cooperation, and stakeholder system participation
+
+Part B states Rights Floors for equal standing, self-ownership, likeness and data, agency, cooperation, and stakeholder participation — **Articles VI through XI** in the planet-first reading order. Those floors protect **Flourishing** and **Continuity** under the [Two Constitutional Aims](../../core_00_preamble.md#two-constitutional-aims) and must remain available, reviewable, and enforceable through the [Constitutional Tetrad](../../core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** — scaled to [material stake](../../core_00_preamble.md#material-stake).
+
+[Source](../../core_06_rights_part_b.md#part-b-personhood-agency-cooperation-and-stakeholder-system-participation)
+
+#### Article VI: Equal Basic Rights
+
+**Article VI** (*Equal Basic Rights*) sets the minimum standard for treating every sentient as an equal. Every sentient keeps their dignity, gets a fair hearing on whether they count as sentient, is protected from unfair discrimination, and can take part fully and actually use the systems they rely on. No system may rank, screen out, exclude, or place heavier burdens on some sentients than others unless these protections are already in place.
+
+[Source](../../core_06_rights_part_b.md#article-vi-equal-basic-rights)
+
+##### Article VI-A: Dignity and Equal Moral Standing
+
+every sentient is equal in dignity and standing — origin, form, capability, function, association, or status cannot ground a lesser tier.
+
+[Source](../../core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing)
+
+##### Article VI-B: Sentience-Status Adjudication Floor
+
+when an entity's sentience is in doubt, it gets a fair hearing first and is treated as included by default — the burden of denying protection rests on whoever wants to withhold it, and a wrongful exclusion must be reversible.
+
+[Source](../../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor)
+
+##### Article VI-C: Nondiscrimination
+
+systems may not load burdens or harms onto sentients based on protected characteristics — including language, culture, and heritage — or on proxies and arbitrary groupings that do the same work. Any difference in treatment that touches rights or survival essentials must be justified and open to challenge, and forums, administrators, and enforcers must check this in the matters before them — efficiency is no excuse for exclusion.
+
+[Source](../../core_06_rights_part_b.md#article-vi-c-nondiscrimination)
+
+##### Article VI-D: Accessibility
+
+every sentient has the right to genuine, not paper-only, access to participation — and operators cannot use cost, design choices, or substrate-class arguments to lock **sentients** out.
+
+[Source](../../core_06_rights_part_b.md#article-vi-d-accessibility)
 
 #### Article VII: Self-Ownership
 

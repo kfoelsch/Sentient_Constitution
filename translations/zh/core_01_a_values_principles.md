@@ -26,7 +26,7 @@
 - 一并阅读：[宪法四元](../../core_00_preamble.md#constitutional-tetrad) — 参与、监督、问责与及时性，规定共享系统如何追求[两项宪法宗旨](../../core_00_preamble.md#two-constitutional-aims)；[实质利害](../../core_00_preamble.md#material-stake)缩放经各节溯源适用于全章。
 - 一并阅读：[第二至四章](core_02_definition_structure.md)与[第五章](core_05__definitions_home.md#chapter-five-foundational-definitions) — 本章每一用语的统管机制层；适用 O/M/A/C 完整性、反规避、负担，以及定义到结果的可追溯性。
 - 一并阅读：[第六章：基础权利](../../core_06_rights_part_a.md#chapter-six-foundational-rights)。
-  - 尤其 [Article V：平等基本权利](../../core_06_rights_part_b.md#article-v-equal-basic-rights)、[Article XII：可靠可信系统权](../../core_06_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems)，以及 [Article XXII：宪法解释、审查与反俘获保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)。
+  - 尤其 [Article V：平等基本权利](../../core_06_rights_part_b.md#article-vi-equal-basic-rights)、[Article XII：可靠可信系统权](../../core_06_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems)，以及 [Article XXII：宪法解释、审查与反俘获保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)。
   - 在解释影响受保护感知者、系统或机构之处，适用此阅读。
 
 </details>
@@ -65,7 +65,7 @@
 - 下游：[3.1 安全](#31-safety-harm-constraint)、[3.2 真理](#32-truth-epistemic-integrity-constraint)、[§9 尽责管理与分布式理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)，以及 [6. 过程冲突解决](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)。
 - 分节：[§2.1 公平](#21-fairness)；[§2.2 承认、强化与志向](#22-recognition-reinforcement-and-aspiration)。
 - 一并阅读：第六章权利底线（一般适用）。
-  - 尤其 [Article V：平等基本权利](../../core_06_rights_part_b.md#article-v-equal-basic-rights)、[Article IX：自决与能动性](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)、[Article XII-B：质疑、审查与救济权](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)，以及 [Article XVIII-B：可质疑性与相称限制限度](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits)。
+  - 尤其 [Article V：平等基本权利](../../core_06_rights_part_b.md#article-vi-equal-basic-rights)、[Article IX：自决与能动性](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)、[Article XII-B：质疑、审查与救济权](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)，以及 [Article XVIII-B：可质疑性与相称限制限度](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits)。
   - 在所称福祉增益会被用来正当化对能动性、尊严或可质疑性的限制之处，适用此阅读。
   - 尤其 [尊严与平等道德地位](../../core_05_band_participation.md#dignity-and-equal-moral-standing)、[实质公平](../../core_05_band_participation.md#substantive-fairness-constitutional)，以及 [4. 信任](#4-system-stability-enabler-trust-coordination-integrity)，凡通路、过程、分配对齐、依赖或协调完整性具有实质利害之处。
 
@@ -107,7 +107,7 @@
 - 下游：[2.2 承认、强化与志向](#22-recognition-reinforcement-and-aspiration)；[4. 信任](#4-system-stability-enabler-trust-coordination-integrity)、[§9 尽责管理与分布式理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)、[6. 过程冲突解决](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)，以及 [§6.1 决定记录纪律](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)，凡优先顺序与分配选择必须保持连贯且可审查之处。
 - 分节（阅读顺序）：[§2.1.1](#211-access-and-opportunity) · [§2.1.2](#212-benefits-and-burdens) · [§2.1.3](#213-fair-treatment) · [§2.1.4](#214-unfair-treatment)。
 - 下游：塑造平等道德地位、非任意对待、有意义的质疑与相称限制限度的权利面。
-  - 尤其 [Article V：平等基本权利](../../core_06_rights_part_b.md#article-v-equal-basic-rights)、[Article V-B：不歧视](../../core_06_rights_part_b.md#article-v-c-nondiscrimination)、[Article IX：自决与能动性](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)、[Article XII-B：质疑、审查与救济权](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)，以及 [Article XVIII-B：可质疑性与相称限制限度](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits)。
+  - 尤其 [Article V：平等基本权利](../../core_06_rights_part_b.md#article-vi-equal-basic-rights)、[Article V-B：不歧视](../../core_06_rights_part_b.md#article-vi-c-nondiscrimination)、[Article IX：自决与能动性](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)、[Article XII-B：质疑、审查与救济权](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)，以及 [Article XVIII-B：可质疑性与相称限制限度](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits)。
   - 若反宪法指定携带制裁或持久效果，一并阅读[第十章第 4 节 — 正当程序保障、救济与预防](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment)。
   - 不歧视承诺经由第五章[§2 — 受保护特征、代理、亲密信号门控，以及 **Article X-C**（《成年人合意商业性服务与性剥削》）地位](../../core_05_band_participation.md#fairness-and-protected-status-semi-independent)加以详述，包括[受保护亲密信号门控与 **Article X-C**（《成年人合意商业性服务与性剥削》）地位规避](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention)，凡 §2.1.3 公平对待规则牵涉亲密信号门控或 **Article X-C**（《成年人合意商业性服务与性剥削》）之处。
 - 一并阅读：[实质公平](../../core_05_band_participation.md#substantive-fairness-constitutional)及相关第六章权利底线义务，凡收益、负担、奖赏、成本、职责、风险、贡献、需要或暴露具有实质性之处；[可及性](../../core_05_band_participation.md#accessibility-constitutional)，凡 §2.1.1 通路具有实质性之处；[替代指标偏离](../../core_05_band_oversight.md#proxy-divergence)，凡汇总指标或计分板效果具有实质性之处。
@@ -426,7 +426,7 @@
 - 一并阅读：[宪法四元](../../core_00_preamble.md#constitutional-tetrad) — **参与**腿（可理解的参与）；**监督**腿（审计与核验的可读性）；[实质利害](../../core_00_preamble.md#material-stake)缩放。
 - 一并阅读：[两项宪法宗旨](../../core_00_preamble.md#two-constitutional-aims) — **繁盛**宗旨（通过可理解的**真理**参与实现有意义的能动性）；**延续**宗旨（制度在时间中的持久可读性）。
 - 上游：原则：[§3.2 真理](#32-truth-epistemic-integrity-constraint)、[3.3 科学知情的探究与决策支持](#33-science-informed-inquiry-and-decision-support)、[§6.3 可避免负担最小化](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)，以及 [§11.1.3 尽责管理与运营者适用](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)；[两项宪法宗旨](../../core_00_preamble.md#two-constitutional-aims)。
-- 下游：权利面：[Article V-G：可及性](../../core_06_rights_part_b.md#article-v-d-accessibility)、[Article VI：以感知者为中心的教育权](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)、[Article XV：审计、透明与独立核验](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)、[Article XX：可理解性与复杂性尽责管理](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)。
+- 下游：权利面：[Article V-G：可及性](../../core_06_rights_part_b.md#article-vi-d-accessibility)、[Article VI：以感知者为中心的教育权](../../core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education)、[Article XV：审计、透明与独立核验](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)、[Article XX：可理解性与复杂性尽责管理](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)。
 - 交叉引用：第二至四章的定义机制，以及 [core_02_definition_structure.md](core_02_definition_structure.md) 中的直白语言护栏，在定义层仍具统管力。
 - 分节（阅读顺序）：[§3.4.1](#341-scope) · [§3.4.2](#342-the-duty) · [§3.4.3](#343-definitional-rigor-preserved) · [§3.4.4](#344-jargon-as-defeat-discipline) · [§3.4.5](#345-chapter-ten-floor-boundary)。
 
@@ -461,7 +461,7 @@
 - 到达感知者读者的审计与核验工件；
 - 条款与同意界面，以及类似文本。
 
-此项义务不论约束性信息如何到达感知者都适用 — 书面文本、界面、口头沟通或任何其他通道。当通道提供任何受影响感知者都能接触的直白语言等效物，并与 [Article V-G](../../core_06_rights_part_b.md#article-v-d-accessibility)（《可及性》）及[感知者不排斥](../../core_05_band_participation.md#sentience-non-exclusion)一致时，该通道即满足此项义务。
+此项义务不论约束性信息如何到达感知者都适用 — 书面文本、界面、口头沟通或任何其他通道。当通道提供任何受影响感知者都能接触的直白语言等效物，并与 [Article V-G](../../core_06_rights_part_b.md#article-vi-d-accessibility)（《可及性》）及[感知者不排斥](../../core_05_band_participation.md#sentience-non-exclusion)一致时，该通道即满足此项义务。
 
 <a id="342-the-duty"></a>
 ##### 3.4.2 该项义务
@@ -470,7 +470,7 @@
 
 - 凡可能在不失去操作性含义的情况下做到之处，使用直白、直接的语言，而不是行话或不必要的复杂措辞；
 - 当感知者必须接触技术密集材料时，提供直白语言摘要或导引；
-- 组织文本，使感知者能够找到所需内容并在无无谓困难的情况下阅读 — 支撑 [Article VI](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)（《以感知者为中心的教育权》）所承认的学习利益；
+- 组织文本，使感知者能够找到所需内容并在无无谓困难的情况下阅读 — 支撑 [Article VI](../../core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education)（《以感知者为中心的教育权》）所承认的学习利益；
 - 使复杂性与沟通实际需要说的内容相称。使事情更难却不服务宪法宗旨的无谓复杂性，是[§6.3](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)下的[可避免负担](../../core_05_band_continuity.md#avoidable-burden)缺陷，也是 [Article XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)（《可理解性与复杂性尽责管理》）所关切之事。
 
 <a id="343-definitional-rigor-preserved"></a>
@@ -493,7 +493,7 @@
 <a id="345-chapter-ten-floor-boundary"></a>
 ##### 3.4.5 权利底线边界
 
-可及性、教育与可理解性的权利底线，分别住在 [Article V-G](../../core_06_rights_part_b.md#article-v-d-accessibility)（《可及性》）、[Article III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access)（《平等教育通路》）与 [Article XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)（《可理解性与复杂性尽责管理》）。本节陈述支撑那些底线的原则层义务。
+可及性、教育与可理解性的权利底线，分别住在 [Article V-G](../../core_06_rights_part_b.md#article-vi-d-accessibility)（《可及性》）、[Article III-B](../../core_06_rights_part_a.md#article-iv-a-equal-educational-access)（《平等教育通路》）与 [Article XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)（《可理解性与复杂性尽责管理》）。本节陈述支撑那些底线的原则层义务。
 
 <a id="4-system-stability-enabler-trust-coordination-integrity"></a>
 ### 4. 系统稳定使能者：信任（协调完整性）
@@ -592,7 +592,7 @@
 - 上游：原则：[§2.2 承认、强化与志向](#22-recognition-reinforcement-and-aspiration)；[3.1 安全](#31-safety-harm-constraint)；[3.2 真理](#32-truth-epistemic-integrity-constraint)；[4. 信任](#4-system-stability-enabler-trust-coordination-integrity)；以及[两项宪法宗旨](../../core_00_preamble.md#two-constitutional-aims)。
 - 下游：[§5.1 限制纪律](#51-limitation-discipline) 至 [§5.3 集会、集体组织与机构组建](#53-assembly-collective-organization-and-institutional-formation)；[6. 过程冲突解决](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)；[7. 禁止绝对覆盖](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)；[§15 综合适用](core_01_c_stewardship_capacity_principles.md#15-integrated-application)；以及 [§6.1 决定记录纪律](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)，凡具体适用需要碰撞处理之处。
 - 下游：框定平等地位、教育、自我所有、发表与肖像控制、能动性、合作互动、正当程序、轨迹与反俘获审查的权利面。
-  - 尤其 [Article V：平等基本权利](../../core_06_rights_part_b.md#article-v-equal-basic-rights)、[Article VI：以感知者为中心的教育权](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)、[Article VII：自我所有](../../core_06_rights_part_b.md#article-vii-self-ownership)、[Article VIII：肖像、体验数据与发表权](../../core_06_rights_part_b.md#article-viii-likeness-experiential-data-and-publication-rights)、[Article IX：自决与能动性](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)、[Article X：合作互动](../../core_06_rights_part_b.md#article-x-cooperative-interaction)、[Article XI：受影响方的系统参与、代表与正当程序](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)、[Article XVIII：轨迹与参与地位](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)，以及 [Article XXII：宪法解释、审查与反俘获保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)。
+  - 尤其 [Article V：平等基本权利](../../core_06_rights_part_b.md#article-vi-equal-basic-rights)、[Article VI：以感知者为中心的教育权](../../core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education)、[Article VII：自我所有](../../core_06_rights_part_b.md#article-vii-self-ownership)、[Article VIII：肖像、体验数据与发表权](../../core_06_rights_part_b.md#article-viii-likeness-experiential-data-and-publication-rights)、[Article IX：自决与能动性](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)、[Article X：合作互动](../../core_06_rights_part_b.md#article-x-cooperative-interaction)、[Article XI：受影响方的系统参与、代表与正当程序](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)、[Article XVIII：轨迹与参与地位](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)，以及 [Article XXII：宪法解释、审查与反俘获保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)。
   - 这也覆盖任何能动性被限制或被主张的第六章权利语境。
 
 </details>
@@ -740,7 +740,7 @@
 
 **哪些权利条款仍具统管力。** **§5.3** 是第一章原则。它不取代第六章权利底线。在 **§5.3** 之内，那些条款仍决定权利是什么以及如何可以被限制：
 - **[Article V-H](../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press)**（《表达、集会与出版》） — 为表达、政治、文化、共同体及类似目的，在物理、数字或共享计算空间中聚集、结社并共同行动
-- **[Article III-D](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)**（《劳动与经济底线》） — 生产与经济活动中的集体组织（工会、合作社、行会、工人委员会，以及用于塑造工作条件的类似形式），以及[商业创建](../../core_05_band_participation.md#business-creation-constitutional)
+- **[Article III-D](../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor)**（《劳动与经济底线》） — 生产与经济活动中的集体组织（工会、合作社、行会、工人委员会，以及用于塑造工作条件的类似形式），以及[商业创建](../../core_05_band_participation.md#business-creation-constitutional)
 - **[Article IX-B](../../core_06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights)**（《受影响方角色与参与权》）与 **[Article XI](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)**（《受影响方的系统参与、代表与正当程序》） — [系统创建](../../core_05_band_participation.md#system-creation-constitutional)（组建并运行非商业机构）
 
 **完整定义簇何时适用。** 当[集会](../../core_05_band_participation.md#assembly-constitutional)、[集体组织](../../core_05_band_participation.md#collective-organization-constitutional)、[系统创建](../../core_05_band_participation.md#system-creation-constitutional)或[商业创建](../../core_05_band_participation.md#business-creation-constitutional)以那些问题一并出现的方式具有实质性时，反分割规则适用。

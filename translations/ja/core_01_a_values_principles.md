@@ -26,7 +26,7 @@
 - あわせて読む：[憲法四元](core_00_preamble.md#constitutional-tetrad) — 参加、監督、説明責任、適時性は、共有システムが[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)をどう追求するかを統治する。[実質的利害](core_00_preamble.md#material-stake)による尺度合わせは、各節の追跡を通じて全章に適用される。
 - あわせて読む：[第二から第四章](core_02_definition_structure.md)と[第五章](core_05__definitions_home.md#chapter-five-foundational-definitions) — 本章で用いるすべての用語の統括メカニズム層。O/M/A/C の誠実性、回避防止、負担、定義から結果への追跡可能性を適用する。
 - あわせて読む：[第六章：基礎権利](../../core_06_rights_part_a.md#chapter-six-foundational-rights)。
-  - とくに [Article V：平等な基本権利](../../core_06_rights_part_b.md#article-v-equal-basic-rights)、[Article XII：信頼でき信頼可能なシステムへの権利](../../core_06_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems)、[Article XXII：憲法解釈、審査、反捕捉保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)。
+  - とくに [Article V：平等な基本権利](../../core_06_rights_part_b.md#article-vi-equal-basic-rights)、[Article XII：信頼でき信頼可能なシステムへの権利](../../core_06_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems)、[Article XXII：憲法解釈、審査、反捕捉保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)。
   - 解釈が保護される感知者、システム、制度に影響するところで、この読みを適用する。
 
 </details>
@@ -65,7 +65,7 @@
 - 下流：[3.1 安全](#31-safety-harm-constraint)、[3.2 真理](#32-truth-epistemic-integrity-constraint)、[§9 責務ある管理と分散した理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)、[6. 過程衝突の解決](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)。
 - 分節：[§2.1 公正](#21-fairness)；[§2.2 承認、強化、志向](#22-recognition-reinforcement-and-aspiration)。
 - あわせて読む：第六章の権利の床（一般に）。
-  - とくに [Article V：平等な基本権利](../../core_06_rights_part_b.md#article-v-equal-basic-rights)、[Article IX：自己決定と行為主体性](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)、[Article XII-B：異議、審査、救済への権利](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)、[Article XVIII-B：争訟可能性と比例的制限の限度](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits)。
+  - とくに [Article V：平等な基本権利](../../core_06_rights_part_b.md#article-vi-equal-basic-rights)、[Article IX：自己決定と行為主体性](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)、[Article XII-B：異議、審査、救済への権利](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)、[Article XVIII-B：争訟可能性と比例的制限の限度](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits)。
   - 主張される福祉の利得が、行為主体性、尊厳、争訟可能性への制限を正当化するところで、この読みを適用する。
   - とくに [尊厳と平等な道徳的地位](../../core_05_band_participation.md#dignity-and-equal-moral-standing)、[実質的公正](../../core_05_band_participation.md#substantive-fairness-constitutional)、[4. 信頼](#4-system-stability-enabler-trust-coordination-integrity)。通路、過程、分配の整合、依拠、協調の誠実性が実質的にかかわるところ。
 
@@ -107,7 +107,7 @@
 - 下流：[2.2 承認、強化、志向](#22-recognition-reinforcement-and-aspiration)；[4. 信頼](#4-system-stability-enabler-trust-coordination-integrity)、[§9 責務ある管理と分散した理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)、[6. 過程衝突の解決](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)、優先と配分の選択が連関し審査可能なままでなければならないところでは [§6.1 決定記録の規律](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)。
 - 分節（読み順）：[§2.1.1](#211-access-and-opportunity) · [§2.1.2](#212-benefits-and-burdens) · [§2.1.3](#213-fair-treatment) · [§2.1.4](#214-unfair-treatment)。
 - 下流：平等な地位、恣意的でない取扱い、意味ある異議、比例的制限の限度についての権利面を形づくる。
-  - とくに [Article V：平等な基本権利](../../core_06_rights_part_b.md#article-v-equal-basic-rights)、[Article V-B：無差別](../../core_06_rights_part_b.md#article-v-c-nondiscrimination)、[Article IX：自己決定と行為主体性](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)、[Article XII-B：異議、審査、救済への権利](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)、[Article XVIII-B：争訟可能性と比例的制限の限度](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits)。
+  - とくに [Article V：平等な基本権利](../../core_06_rights_part_b.md#article-vi-equal-basic-rights)、[Article V-B：無差別](../../core_06_rights_part_b.md#article-vi-c-nondiscrimination)、[Article IX：自己決定と行為主体性](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)、[Article XII-B：異議、審査、救済への権利](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)、[Article XVIII-B：争訟可能性と比例的制限の限度](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits)。
   - 反憲法的指定が制裁または持続する効果を伴うところでは、[第十章、第 4 節 — 適正手続の保障、救済、予防](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment)とあわせて読む。
   - 無差別の約束は、第五章 [§2 — 保護特性、代理、親密信号のゲート、**Article X-C**（《成人の合意に基づく商業的性サービスと性的搾取》）の地位](../../core_05_band_participation.md#fairness-and-protected-status-semi-independent)を通じて詳述される。§2.1.3 の公正な取扱い規則が親密信号のゲートまたは **Article X-C**（《成人の合意に基づく商業的性サービスと性的搾取》）に関わるところでは、[保護された親密信号のゲートと **Article X-C**（《成人の合意に基づく商業的性サービスと性的搾取》）地位の迂回](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention)を含む。
 - あわせて読む：便益、負担、報酬、費用、義務、リスク、貢献、必要、露出が実質的であるところでは [実質的公正](../../core_05_band_participation.md#substantive-fairness-constitutional) と関連する第六章の権利の床の義務。§2.1.1 の通路が実質的であるところでは [アクセス可能性](../../core_05_band_participation.md#accessibility-constitutional)。集計指標やスコアボード効果が実質的であるところでは [代替指標の乖離](../../core_05_band_oversight.md#proxy-divergence)。
@@ -426,7 +426,7 @@
 - あわせて読む：[憲法四元](core_00_preamble.md#constitutional-tetrad) — **参加**脚（理解可能な関与）。**監督**脚（監査と検証の読みやすさ）。[実質的利害](core_00_preamble.md#material-stake)による尺度合わせ。
 - あわせて読む：[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — **繁栄**目的（理解可能な**真理**関与を通じた意味ある行為主体性）。**継続**目的（時間を通じた持続する制度的可読性）。
 - 上流：原則：[§3.2 真理](#32-truth-epistemic-integrity-constraint)、[3.3 科学に基づく探究と決定支援](#33-science-informed-inquiry-and-decision-support)、[§6.3 回避可能な負担の最小化](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)、[§11.1.3 責務ある管理と運用者への適用](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)；[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)。
-- 下流：権利面：[Article V-G：アクセス可能性](../../core_06_rights_part_b.md#article-v-d-accessibility)、[Article VI：感知者中心の教育への権利](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)、[Article XV：監査、透明性、独立検証](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)、[Article XX：理解可能性と複雑さの責務ある管理](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)。
+- 下流：権利面：[Article V-G：アクセス可能性](../../core_06_rights_part_b.md#article-vi-d-accessibility)、[Article VI：感知者中心の教育への権利](../../core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education)、[Article XV：監査、透明性、独立検証](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)、[Article XX：理解可能性と複雑さの責務ある管理](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)。
 - 相互参照：第二から第四章の定義メカニズムと、[core_02_definition_structure.md](core_02_definition_structure.md)の平たい言葉のガードレールは、定義層でなお制御する。
 - 分節（読み順）：[§3.4.1](#341-scope) · [§3.4.2](#342-the-duty) · [§3.4.3](#343-definitional-rigor-preserved) · [§3.4.4](#344-jargon-as-defeat-discipline) · [§3.4.5](#345-chapter-ten-floor-boundary)。
 
@@ -461,7 +461,7 @@
 - 感知者読者に届くところでの監査と検証の成果物
 - 利用規約と同意のインタフェース、比較可能な本文
 
-この義務は、拘束力ある情報が感知者にどう届くか — 書かれた本文、インタフェース、口頭の通信、その他の経路 — を問わず適用される。経路は、影響を受けるどの感知者もアクセスできる平たい言葉の同等物を提供するとき、それを満たす。[Article V-G](../../core_06_rights_part_b.md#article-v-d-accessibility)（《アクセス可能性》）と[感知の非排除](../../core_05_band_participation.md#sentience-non-exclusion)と整合する。
+この義務は、拘束力ある情報が感知者にどう届くか — 書かれた本文、インタフェース、口頭の通信、その他の経路 — を問わず適用される。経路は、影響を受けるどの感知者もアクセスできる平たい言葉の同等物を提供するとき、それを満たす。[Article V-G](../../core_06_rights_part_b.md#article-vi-d-accessibility)（《アクセス可能性》）と[感知の非排除](../../core_05_band_participation.md#sentience-non-exclusion)と整合する。
 
 <a id="342-the-duty"></a>
 ##### 3.4.2 義務
@@ -470,7 +470,7 @@
 
 - 操作性の意味を失わずに可能なところでは、専門用語や不必要に複雑な言い回しの代わりに、平たい直接の言葉を用いること
 - 感知者が技術的に濃い材料に関わらなければならないとき、平たい言葉の要約または案内を提供すること
-- 感知者が必要なものを見つけ、不必要な困難なしに読めるように本文を編成すること — [Article VI](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)（《感知者中心の教育への権利》）のもとで認められる学習利益を支える
+- 感知者が必要なものを見つけ、不必要な困難なしに読めるように本文を編成すること — [Article VI](../../core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education)（《感知者中心の教育への権利》）のもとで認められる学習利益を支える
 - 複雑さを、その通信が実際に言う必要のあることに比例させて保つこと。憲法上の目的に仕えずに物事を難しくする不必要な複雑さは、[§6.3](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)のもとでの[回避可能な負担](../../core_05_band_continuity.md#avoidable-burden)の欠陥であり、[Article XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)（《理解可能性と複雑さの責務ある管理》）の関心事である。
 
 <a id="343-definitional-rigor-preserved"></a>
@@ -493,7 +493,7 @@
 <a id="345-chapter-ten-floor-boundary"></a>
 ##### 3.4.5 権利の床の境界
 
-アクセス可能性、教育、理解可能性についての権利の床は、それぞれ [Article V-G](../../core_06_rights_part_b.md#article-v-d-accessibility)（《アクセス可能性》）、[Article III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access)（《平等な教育通路》）、[Article XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)（《理解可能性と複雑さの責務ある管理》）に住む。本節は、それらの床を支える原則層の義務を述べる。
+アクセス可能性、教育、理解可能性についての権利の床は、それぞれ [Article V-G](../../core_06_rights_part_b.md#article-vi-d-accessibility)（《アクセス可能性》）、[Article III-B](../../core_06_rights_part_a.md#article-iv-a-equal-educational-access)（《平等な教育通路》）、[Article XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)（《理解可能性と複雑さの責務ある管理》）に住む。本節は、それらの床を支える原則層の義務を述べる。
 
 <a id="4-system-stability-enabler-trust-coordination-integrity"></a>
 ### 4. システム安定の可能化条件：信頼（協調の誠実性）
@@ -592,7 +592,7 @@
 - 上流：原則：[§2.2 承認、強化、志向](#22-recognition-reinforcement-and-aspiration)；[3.1 安全](#31-safety-harm-constraint)；[3.2 真理](#32-truth-epistemic-integrity-constraint)；[4. 信頼](#4-system-stability-enabler-trust-coordination-integrity)；[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)。
 - 下流：[§5.1 制限の規律](#51-limitation-discipline)から[§5.3 集会、集団的組織化、制度形成](#53-assembly-collective-organization-and-institutional-formation)；[6. 過程衝突の解決](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)；[7. 絶対的上書きの禁止](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override)；[§15 統合適用](core_01_c_stewardship_capacity_principles.md#15-integrated-application)；具体的適用が衝突処理を求めるところでは [§6.1 決定記録の規律](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)。
 - 下流：平等な地位、教育、自己所有、公表と肖像の制御、行為主体性、協力的相互作用、適正手続、軌跡、反捕捉審査についての権利面を枠づける。
-  - とくに [Article V：平等な基本権利](../../core_06_rights_part_b.md#article-v-equal-basic-rights)、[Article VI：感知者中心の教育への権利](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)、[Article VII：自己所有](../../core_06_rights_part_b.md#article-vii-self-ownership)、[Article VIII：肖像、経験データ、公表の権利](../../core_06_rights_part_b.md#article-viii-likeness-experiential-data-and-publication-rights)、[Article IX：自己決定と行為主体性](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)、[Article X：協力的相互作用](../../core_06_rights_part_b.md#article-x-cooperative-interaction)、[Article XI：影響を受ける側のシステム参加、代表、適正手続](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)、[Article XVIII：軌跡と参加地位](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)、[Article XXII：憲法解釈、審査、反捕捉保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)。
+  - とくに [Article V：平等な基本権利](../../core_06_rights_part_b.md#article-vi-equal-basic-rights)、[Article VI：感知者中心の教育への権利](../../core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education)、[Article VII：自己所有](../../core_06_rights_part_b.md#article-vii-self-ownership)、[Article VIII：肖像、経験データ、公表の権利](../../core_06_rights_part_b.md#article-viii-likeness-experiential-data-and-publication-rights)、[Article IX：自己決定と行為主体性](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)、[Article X：協力的相互作用](../../core_06_rights_part_b.md#article-x-cooperative-interaction)、[Article XI：影響を受ける側のシステム参加、代表、適正手続](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)、[Article XVIII：軌跡と参加地位](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)、[Article XXII：憲法解釈、審査、反捕捉保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)。
   - 行為主体性が限られ、または主張される第六章の権利文脈も覆う。
 
 </details>
@@ -740,7 +740,7 @@
 
 **どの権利条がなお制御するか。** **§5.3** は第一章の原則である。第六章の権利の床を置き換えない。**§5.3** の内側では、それらの条がなお、権利が何であり、どう限られてよいかを決める：
 - **[Article V-H](../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press)**（《表現、集会、報道》） — 表現、政治、文化、共同体、同様の目的のために、物理、デジタル、共有計算の空間で集まり、結び、ともに行為すること
-- **[Article III-D](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)**（《労働と経済の床》） — 生産的・経済的活動における集団的組織化（組合、協同組合、ギルド、労働者評議会、労働条件を形づくるために用いられる比較可能な形）、および[事業創設](../../core_05_band_participation.md#business-creation-constitutional)
+- **[Article III-D](../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor)**（《労働と経済の床》） — 生産的・経済的活動における集団的組織化（組合、協同組合、ギルド、労働者評議会、労働条件を形づくるために用いられる比較可能な形）、および[事業創設](../../core_05_band_participation.md#business-creation-constitutional)
 - **[Article IX-B](../../core_06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights)**（《影響を受ける側の役割と参加の権利》）と **[Article XI](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)**（《影響を受ける側のシステム参加、代表、適正手続》） — [システム創設](../../core_05_band_participation.md#system-creation-constitutional)（非商業制度の形成と運営）
 
 **完全な定義クラスターがいつ適用されるか。** 分割防止規則は、[集会](../../core_05_band_participation.md#assembly-constitutional)、[集団的組織化](../../core_05_band_participation.md#collective-organization-constitutional)、[システム創設](../../core_05_band_participation.md#system-creation-constitutional)、または[事業創設](../../core_05_band_participation.md#business-creation-constitutional)が、それらの問いがともに旅する仕方で実質的であるときに適用される。

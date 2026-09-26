@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*); **Article IV-B** (*Cross-System Fairness and Sustainability*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
+- Upstream: **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*); **Article V-B** (*Cross-System Fairness and Sustainability*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
 - Downstream: [§1](#cs-9-1-purpose-and-role); [§2](#cs-9-2-principles-of-funding); [§4](#cs-9-4-dependent-systems-map); [§16](#cs-9-16-trigger-definitions).
 - Read with: **CS-9**; **CS-8**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**.
 
@@ -44,17 +44,17 @@ This file is the systems implementation home for **CS-9** (*Resource allocation 
 
 *In plain terms: what this file covers, which articles it implements, and where the boundary with CS-8 and Chapter Five falls.*
 
-Constitutional tracing: This file specifies implementation-file-level funding stewardship, dependent-systems mapping, and cross-system resource-flow obligations implementing Sentient Constitution Chapter Six, **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article IV-B** (*Cross-System Fairness and Sustainability*). It implements **Chapter Five** [*Proportionate Cross-System Support*](../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) through allocation categories, reauthorization, and funding-stewardship mechanics; it does not restate that definition.
+Constitutional tracing: This file specifies implementation-file-level funding stewardship, dependent-systems mapping, and cross-system resource-flow obligations implementing Sentient Constitution Chapter Six, **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article V-B** (*Cross-System Fairness and Sustainability*). It implements **Chapter Five** [*Proportionate Cross-System Support*](../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) through allocation categories, reauthorization, and funding-stewardship mechanics; it does not restate that definition.
 
 **CS-8** governs adaptive adjustment of allocation in response to degradation and systemic risk. This file does not replace or narrow Sentient Constitution Chapters Two through Five. Where this file is silent, Sentient Constitution Chapters Two through Five govern.
 
-**Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article IV-B** (*Cross-System Fairness and Sustainability*), together with **Articles I–III and V**, state the core obligations for transparent, ecosystem-aware resource flows, cross-system fairness, and substrate wellbeing.
+**Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article V-B** (*Cross-System Fairness and Sustainability*), together with **Articles I–III and VI**, state the core obligations for transparent, ecosystem-aware resource flows, cross-system fairness, and substrate wellbeing.
 
-**What Articles I-B, IV-A, and IV-B require here — and what they do not.** Those articles require honest disclosure and comparison of footprints, dependencies, and resource flows. They do not, on their own, force footprint cuts, lock in a funding formula, or require equal splits, fixed percentages, or one funding model. Under **Article IV-B**, what a system puts back must be traceable — and it covers both keeping shared systems running (**cross-system system support**) and repairing ecological harm (**ecological support**). Both are judged under Chapter Five [*Proportionate Cross-System Support*](../core_05_band_continuity.md#proportionate-cross-system-support-constitutional). This file supplies allocation categories, reauthorization, and funding-stewardship mechanics that implement that floor; it must not narrow it.
+**What Articles I-B, V-A, and V-B require here — and what they do not.** Those articles require honest disclosure and comparison of footprints, dependencies, and resource flows. They do not, on their own, force footprint cuts, lock in a funding formula, or require equal splits, fixed percentages, or one funding model. Under **Article V-B**, what a system puts back must be traceable — and it covers both keeping shared systems running (**cross-system system support**) and repairing ecological harm (**ecological support**). Both are judged under Chapter Five [*Proportionate Cross-System Support*](../core_05_band_continuity.md#proportionate-cross-system-support-constitutional). This file supplies allocation categories, reauthorization, and funding-stewardship mechanics that implement that floor; it must not narrow it.
 
 **CS-8** governs how allocation adapts when conditions change. This file specifies **funding stewardship mechanics**—dependent systems maps, flow transparency, allocation categories, reauthorization, and triggers. It is **not** a second copy of Chapter Five.
 
-Funding processes should reward contribution, sustain systems, and fund long-term resilience without permanent extraction or unaccountable concentration, consistent with **Articles IV, XI, XII, XV-A, XVIII, XXI, and XXIII** where applicable.
+Funding processes should reward contribution, sustain systems, and fund long-term resilience without permanent extraction or unaccountable concentration, consistent with **Articles V, XI, XII, XV-A, XVIII, XXI, and XXIII** where applicable.
 
 <a id="cs-9-2-principles-of-funding"></a>
 ## CS-9.2 Principles of funding
@@ -64,7 +64,7 @@ Funding processes should reward contribution, sustain systems, and fund long-ter
 Allocation reflects fairness, contribution, need, and sustainability (not equal distribution).
 
 Mechanisms must:
-- implement **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*), **Article IV-B** (*Cross-System Fairness and Sustainability*), and foundational requirements;
+- implement **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*), **Article V-B** (*Cross-System Fairness and Sustainability*), and foundational requirements;
 - deliver **Proportionate Cross-System Support** where dependent systems engage in material [Cross-System Extraction](../core_05_band_continuity.md#cross-system-extraction) from shared infrastructure or foundational dependencies;
 - support long-term sustainability and improvement;
 - resist concentration of wealth or influence that undermines constitutional alignment;
@@ -76,7 +76,7 @@ Mechanisms must:
 
 *In plain terms: Systems that lean on shared infrastructure must contribute back in proportion, and must disclose what they depend on.*
 
-Interconnected systems must meet **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article IV-B** (*Cross-System Fairness and Sustainability*) and remain subject to **Article XV-A** (*Auditability and Observable Evidence*), **Article XXI-A** (*Diagnostic Rigor and Causal Attribution*), and **Article XVIII-A** (*Standing Distinction*).
+Interconnected systems must meet **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article V-B** (*Cross-System Fairness and Sustainability*) and remain subject to **Article XV-A** (*Auditability and Observable Evidence*), **Article XXI-A** (*Diagnostic Rigor and Causal Attribution*), and **Article XVIII-A** (*Standing Distinction*).
 
 Funding structures must:
 - account for all upstream and downstream dependencies;
@@ -122,7 +122,7 @@ Systems must maintain a documented representation of their material dependencies
 
 *In plain terms: Where the money goes must be recorded, the allocation logic disclosed, and the outcomes independently verifiable.*
 
-Implement **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article XV-A** (*Auditability and Observable Evidence*).
+Implement **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article XV-A** (*Auditability and Observable Evidence*).
 
 Opacity or unverifiable flows are subject to review under **Article XV-A** (*Auditability and Observable Evidence*), **Article XII-B** (*Right to Challenge, Review, and Redress*), and **Article XXIII-A** (*Justice Objective and Scope*) where auditability, challenge, or justice review is implicated.
 
@@ -281,7 +281,7 @@ No illustrative allocation may override constitutional principles or constrain f
 
 *In plain terms: Foundational systems — identity, auditability, information integrity, core infrastructure — must be funded for stability rather than for returns.*
 
-Systems that support foundational requirements (**Articles I–III and V**), including identity, auditability, information integrity, and core infrastructure, must adopt appropriate funding models. Those models must prioritize **long-term stability and reliability** and **continuous maintenance, security, and auditability**. Those models must prioritize **equitable access and system neutrality**. They must prioritize **resistance to capture, incentive distortion, or financial manipulation**. They must prioritize **robust resilience against external, technical, and internal threats**.
+Systems that support foundational requirements (**Articles I–III and VI**), including identity, auditability, information integrity, and core infrastructure, must adopt appropriate funding models. Those models must prioritize **long-term stability and reliability** and **continuous maintenance, security, and auditability**. Those models must prioritize **equitable access and system neutrality**. They must prioritize **resistance to capture, incentive distortion, or financial manipulation**. They must prioritize **robust resilience against external, technical, and internal threats**.
 
 **Funding for substrate systems should** **allocate a greater proportion of resources toward operations, security, and upgrades**. It should **limit disproportionate extraction of value by any single group**. It should **preserve independence from concentrated financial influence**. It should **not prioritize short-term financial returns over long-term system integrity**. It should **remain resilient to fluctuations in external funding or demand**.
 
@@ -323,7 +323,7 @@ Allocation models are subject to participatory oversight under **Article XI** (*
 
 *In plain terms: Define the measurable indicators and thresholds that set adaptive allocation in motion under CS-8.*
 
-Systems must define measurable indicators and thresholds that reflect system health, resource flows, and ecosystem impact. These indicators form the basis for adaptive allocation processes defined in **CS-8** (see Sentient Constitution **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*)).
+Systems must define measurable indicators and thresholds that reflect system health, resource flows, and ecosystem impact. These indicators form the basis for adaptive allocation processes defined in **CS-8** (see Sentient Constitution **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*)).
 
 <a id="cs-9-17-triggering-review-and-challenge"></a>
 ## CS-9.17 Triggering review and challenge
@@ -359,7 +359,7 @@ Funding-related decisions apply **Article XI** (*Stakeholder System Participatio
 
 *In plain terms: How role-holders with authority over resource flows get paid must align with long-term outcomes, not with the decisions they themselves approve.*
 
-Compensation, equity, bonuses, performance metrics, and deferred incentives for **builders, operators, maintainers, and human governance roles** must be **aligned with long-term constitutional outcomes**. That requirement applies when those roles materially influence resource flows or funding decisions. That obligation applies when those roles materially influence dependent-systems maps. It applies when those roles materially influence **system classification** or **Critical System Stewardship** (CS-4 — Critical system stewardship). That alignment includes ecosystem-aware stewardship under **Sentient Constitution Chapter Six**, **Articles I-B** and **XI**. It includes substrate and dependency integrity (**Articles I–III and V**). It includes non-entrenchment and fitness over time (**Article XXV-A** (*Non-Entrenchment and Revisability*)).
+Compensation, equity, bonuses, performance metrics, and deferred incentives for **builders, operators, maintainers, and human governance roles** must be **aligned with long-term constitutional outcomes**. That requirement applies when those roles materially influence resource flows or funding decisions. That obligation applies when those roles materially influence dependent-systems maps. It applies when those roles materially influence **system classification** or **Critical System Stewardship** (CS-4 — Critical system stewardship). That alignment includes ecosystem-aware stewardship under **Sentient Constitution Chapter Six**, **Articles I-B** and **XI**. It includes substrate and dependency integrity (**Articles I–III and VI**). It includes non-entrenchment and fitness over time (**Article XXV-A** (*Non-Entrenchment and Revisability*)).
 
 Remuneration design must satisfy [corpus_joint_structure.md — CJS-0: Registry and reading rules](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-0-registry-and-reading-rules), including **CJS-3.12** (*burden-of-justification and constraint terms*) mechanism-integrity and incentive-alignment requirements, incorporated via **Sentient Constitution Chapter Seventeen**, and **Sentient Constitution Chapter One**. That includes the requirement that incentives not systematically undermine Safety, Truth (Epistemic Integrity), or meaningful agency.
 

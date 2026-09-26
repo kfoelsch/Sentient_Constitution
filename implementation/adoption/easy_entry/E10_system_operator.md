@@ -65,7 +65,7 @@ See: [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-ch
 - **Today:** Contractors, gigs, and AIs sit outside the floor.
 - **With this Constitution:** Anyone who contributes productive work holds fair compensation, collective organization, safe conditions, and rest — for everyone, not only humans.
 
-See: [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor).
+See: [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor).
 
 ## What you might reasonably object to
 

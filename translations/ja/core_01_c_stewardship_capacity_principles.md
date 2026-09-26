@@ -51,7 +51,7 @@
 - 下流：[第七章 — システム整合認証](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)（*監督のもとでのとくに大きな監査過程の一つ — 唯一の監査の本拠ではない*）；[第八章 — 貢献、違反、軌跡モデル](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)（*軌跡効果 — 信頼・役割・承認適格 — は本分節を原則層の基礎として実施する*）。
 - 下流：[第十一章 §1 — 目的と役割](core_11_forum.md#1-purpose-and-role)および [§4 — フォーラム群の定義](core_11_forum.md#4-forum-family-definitions)（*フォーラム群は、本節と整合した争訟可能な異議、修復の順序づけ、根本原因の学習、先制的統治のための参加と監督のアーキテクチャを運ぶ*）；採択されたフォーラム運用については [corpus_forum.md](../../corpus_forum.md)。
 - 下流：教育、影響を受ける側のシステム参加、透明性、理解可能性、監査と検証、実質的責任への役割の深さの経路についての権利面を形づくる。
-  - とくに [Article III：生存と平等な教育アクセス](../../core_06_rights_part_a.md#article-iii-survival-and-equal-educational-access)、[Article VI：感知者中心の教育への権利](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)、[Article IX：自己決定と行為主体性](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)、[Article XI：影響を受ける側のシステム参加、代表、適正手続](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)、[Article XV：監査、透明性、独立検証](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)、[Article XVIII：軌跡と参加地位](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)、[Article XIX：相互運用性、可搬性、移動、避難、退出の誠実性](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)、[Article XX：理解可能性と複雑さの責務ある管理](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)、および [Article XXII：憲法解釈、審査、反捕捉保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)。
+  - とくに [Article III：生存と平等な教育アクセス](../../core_06_rights_part_a.md#article-iii-survival-and-essential-access)、[Article VI：感知者中心の教育への権利](../../core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education)、[Article IX：自己決定と行為主体性](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)、[Article XI：影響を受ける側のシステム参加、代表、適正手続](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)、[Article XV：監査、透明性、独立検証](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)、[Article XVIII：軌跡と参加地位](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)、[Article XIX：相互運用性、可搬性、移動、避難、退出の誠実性](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)、[Article XX：理解可能性と複雑さの責務ある管理](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)、および [Article XXII：憲法解釈、審査、反捕捉保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)。
   - あわせて読む：[第十二章 §5 — 授権された役割、能力開発、貢献](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)および **[corpus_systems.md](../../corpus_systems.md)、CS-4 — 重要なシステムの責務ある管理**。操作性の役割経路と責務ある管理の発展経路のため。
 - 分節（読み順）：[§9.1 結果の伴う責務ある管理](#91-stewardship) · [§9.1.1 共有された責務ある管理の標準](#911-shared-stewardship-standard) · [§9.1.2 対称的な費用のかかる制約](#912-symmetric-costly-constraints) · [§9.1.3 役割範囲の観測可能性](#913-role-scoped-observability) · [§9.2 分散した理解](#92-distributed-understanding)（尺度での能力の共同体の面） · [§9.3 制度的発展](#93-institutional-development)（組織の面） · [§9.4 開放の志向](#94-openness-aspiration) · [§9.5 整合した自己組織化](#95-aligned-self-organization) · [§9.6 過程の劣化禁止](#96-process-character-discipline)。
 
@@ -536,7 +536,7 @@
 
 - 上流：[§9.1 結果の伴う責務ある管理](#91-stewardship)（憲法上の品格をもって行われる結果の伴う参加）；[§2 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)；[尊厳と平等な道徳的地位](../../core_05_band_participation.md#dignity-and-equal-moral-standing)。
 - あわせて読む：[憲法四元](core_00_preamble.md#constitutional-tetrad) — **説明責任**脚（過程設計は制度的都合ではなく、影響を受ける感知者に答える）。**監督**脚（劣化は検出可能で争訟可能である）；[残虐](../../core_05_band_accountability.md#cruelty)（*目的としての苦痛、およびいわれのない / 劣化させる加虐の第五章の本拠*）。
-- 下流：[§6.1.4 憲法上の床、安全、過程の品格の制約](core_01_b_interaction_interpretation.md#614-constitutional-floors-safety-and-process-character-constraints)（取引スタックにおける絶対の床としてこの原則を呼び出す）；[Article V：平等な基本権利](../../core_06_rights_part_b.md#article-v-equal-basic-rights)；[Article XXIII-A](../../core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope)（*反残虐の床*）；[corpus_systems CS-7](../../corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md)。
+- 下流：[§6.1.4 憲法上の床、安全、過程の品格の制約](core_01_b_interaction_interpretation.md#614-constitutional-floors-safety-and-process-character-constraints)（取引スタックにおける絶対の床としてこの原則を呼び出す）；[Article V：平等な基本権利](../../core_06_rights_part_b.md#article-vi-equal-basic-rights)；[Article XXIII-A](../../core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope)（*反残虐の床*）；[corpus_systems CS-7](../../corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md)。
 
 </details>
 
@@ -1329,7 +1329,7 @@
 - 上流：原則：[前文 §1 モデル](core_00_preamble.md#the-model)；[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — **継続**目的の展開；[2. 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[4. 信頼](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)、および [§12 共有システムの能力](#12-shared-system-capacity)。
 - 下流：[§6.3 回避可能な負担の最小化](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)、[10. 責務ある管理の規律のもとでの統治](#10-governance-under-stewardship-discipline)、および [§11.1.3 責務ある管理と運用者への適用](#1113-stewardship-and-operator-application)。
 - 下流：**CJS-3.11.1 — 集中閾設定の規律（採択者調整可能）**（操作性の閾設定規則）。
-- 下流：生態的前提条件、資源配分、教育と発達の能力、ライフサイクルの回復力、相互運用性、理解可能性、適応的応答についての権利面を形づくる。とくに [Article I-A：環境的前提条件と生態的誠実性](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)、[Article III：生存と平等な教育アクセス](../../core_06_rights_part_a.md#article-iii-survival-and-equal-educational-access)、[Article IV：資源配分、依存、生態系の資金](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding)、[Article IX：自己決定と行為主体性](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)、[Article XVI：システムライフサイクル、環境、可逆性](../../core_06_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility)、[Article XIX：相互運用性、可搬性、移動、避難、退出の誠実性](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)、[Article XX：理解可能性と複雑さの責務ある管理](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)、および [Article XXI：根本原因分析と適応的応答](../../core_06_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response)。
+- 下流：生態的前提条件、資源配分、教育と発達の能力、ライフサイクルの回復力、相互運用性、理解可能性、適応的応答についての権利面を形づくる。とくに [Article I-A：環境的前提条件と生態的誠実性](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)、[Article III：生存と平等な教育アクセス](../../core_06_rights_part_a.md#article-iii-survival-and-essential-access)、[Article IV：資源配分、依存、生態系の資金](../../core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding)、[Article IX：自己決定と行為主体性](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)、[Article XVI：システムライフサイクル、環境、可逆性](../../core_06_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility)、[Article XIX：相互運用性、可搬性、移動、避難、退出の誠実性](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)、[Article XX：理解可能性と複雑さの責務ある管理](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)、および [Article XXI：根本原因分析と適応的応答](../../core_06_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response)。
 - 分節（読み順）：[§12.1 生産能力（手段的善）](#121-productive-capacity-instrumental-good) · [§12.1.1 保全、拡大、および数えないもの](#1211-preserve-expand-and-what-does-not-count) · [§12.2 憲法上の効率](#122-constitutional-efficiency)。
 
 </details>
@@ -1518,7 +1518,7 @@
 - 上流：原則：[§12 共有システムの能力](#12-shared-system-capacity) — 集中または支配がそれらを空洞化するところでは生産能力と効率の主張は失敗する；[10. 責務ある管理の規律のもとでの統治](#10-governance-under-stewardship-discipline)。
 - 下流：[第十章 §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)（集中に基づく転覆）；[6. 過程衝突の解決](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)（[§6.2.4 代替指標乖離による無効化](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)）。
 - 下流：**CJS-3.11.1 — 市場集中閾設定の規律（採択者調整可能）**（[§13.1](#131-market-concentration-threshold-mechanism-adopter-tunable) の操作性規則）；**CJS-3.11.2 — 支配防止の行為と修復カタログ**（[§13.2](#132-pro-competition-and-anti-domination) の操作性の行為パターンと救済）；**CJS-3.11.3 — 統合天井設定の規律（採択者調整可能）**（[§13.3.2](#1332-ceiling-discipline-adopter-requirements) の操作性の天井設定規則）。
-- 下流：資源配分、公正な報酬、集団的組織化、相互運用性、退出、反捕捉審査についての権利面を形づくる。とくに [Article III-D：労働と経済の床](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)、[Article IV：資源配分、依存、生態系の資金](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding)、および [Article XIX：相互運用性、可搬性、移動、避難、退出の誠実性](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)。
+- 下流：資源配分、公正な報酬、集団的組織化、相互運用性、退出、反捕捉審査についての権利面を形づくる。とくに [Article III-D：労働と経済の床](../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor)、[Article IV：資源配分、依存、生態系の資金](../../core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding)、および [Article XIX：相互運用性、可搬性、移動、避難、退出の誠実性](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)。
 - 分節（読み順）：[§13.1 市場集中閾の仕組み（採択者調整可能）](#131-market-concentration-threshold-mechanism-adopter-tunable) · [§13.1.1 集中閾の引き金（採択者調整可能）](#1311-concentration-threshold-triggers-adopter-tunable) · [§13.2 競争促進と支配防止](#132-pro-competition-and-anti-domination) · [§13.3 統合天井](#133-consolidation-ceiling)。
 
 </details>
@@ -1616,7 +1616,7 @@
   - 応答義務；または
   - 適時の訂正。
 
-**[Article IV](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding)（《資源配分、依存、生態系の資金》）：**
+**[Article IV](../../core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding)（《資源配分、依存、生態系の資金》）：**
 
 - **資源の権利：** 無傷のままである。
 - **それが定めるもの：** 資源がどう共有されるかについての基線の**権利の床**：
@@ -1663,7 +1663,7 @@
 
 - 上流：[§13 市場構造](#13-market-structure)；[市場構造](../../core_05_band_accountability.md#market-structure-constitutional)。
 - 下流：**CJS-3.11.2 — 支配防止の行為と修復カタログ**（操作性の行為パターンと救済）；[§13.3 統合天井](#133-consolidation-ceiling)；[第十章 §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
-- あわせて読む：[Article III-D：労働と経済の床](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)（労働移動の権利の床）；[Article XIX：相互運用性、可搬性、移動、避難、退出の誠実性](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)；[6. 過程衝突の解決](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)（[必要性](../../core_05_band_accountability.md#necessity)、[比例性](../../core_05_band_accountability.md#proportionality)、[§6.2.4 代替指標乖離による無効化](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)）。
+- あわせて読む：[Article III-D：労働と経済の床](../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor)（労働移動の権利の床）；[Article XIX：相互運用性、可搬性、移動、避難、退出の誠実性](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity)；[6. 過程衝突の解決](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)（[必要性](../../core_05_band_accountability.md#necessity)、[比例性](../../core_05_band_accountability.md#proportionality)、[§6.2.4 代替指標乖離による無効化](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)）。
 - 分節（読み順）：[§13.2.1 競争促進の義務（すべきこと）](#1321-pro-competition-duties-dos) · [§13.2.2 支配防止の禁止（してはならないこと）](#1322-anti-domination-prohibitions-donts) · [§13.2.3 救済](#1323-remedies)。
 
 </details>
@@ -1782,7 +1782,7 @@
 - 領域横断の評価経路づけ。
 
 他の所管者：
-- 労働移動のカテゴリー的禁止：[Article III-D](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)（《労働と経済の床》）；
+- 労働移動のカテゴリー的禁止：[Article III-D](../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor)（《労働と経済の床》）；
 - 相互運用性、可搬性、退出の誠実性の運用用語：**CJS-3.17**；
 - 水平および垂直の統合リスクパターン：**§13.3**。
 

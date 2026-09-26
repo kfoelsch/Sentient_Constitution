@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*); **Article XXI** (*Root Cause Analysis and Adaptive Response*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
+- Upstream: **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*); **Article XXI** (*Root Cause Analysis and Adaptive Response*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
 - Downstream: [§1](#cs-8-1-purpose-and-role); [§2](#cs-8-2-system-health-and-degradation-awareness); [§3](#cs-8-3-adaptive-allocation-requirement); [§9](#cs-8-9-self-healing-and-recovery-path-integration).
 - Read with: **CS-8**; **CS-9**; **CS-5**; **CS-6**; **Article XII-F**.
 
@@ -43,9 +43,9 @@ This file is the systems implementation home for **CS-8** (*Adaptive sustainabil
 
 *In plain terms: where the underlying rights live — transparent dependency and resource-flow information, and adaptive response driven by root causes — and what this file adds.*
 
-This file specifies implementation-file-level adaptive allocation, sustainability-oriented monitoring, and root-cause-aligned response. It implements Sentient Constitution Chapter Six, **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article XXI** (*Root Cause Analysis and Adaptive Response*) (dependent-systems transparency, root cause analysis, and adaptive correction). It works together with **CS-9**. It does not replace or narrow Sentient Constitution Chapter Five definitions (including sustainability and ecological integrity entries). Where this file is silent, Sentient Constitution Chapters Two through Five govern. Where this file and corpus_joint_structure.md conflict, the stricter applicable requirement governs (**CS-6** in this implementation file, opening paragraph).
+This file specifies implementation-file-level adaptive allocation, sustainability-oriented monitoring, and root-cause-aligned response. It implements Sentient Constitution Chapter Six, **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article XXI** (*Root Cause Analysis and Adaptive Response*) (dependent-systems transparency, root cause analysis, and adaptive correction). It works together with **CS-9**. It does not replace or narrow Sentient Constitution Chapter Five definitions (including sustainability and ecological integrity entries). Where this file is silent, Sentient Constitution Chapters Two through Five govern. Where this file and corpus_joint_structure.md conflict, the stricter applicable requirement governs (**CS-6** in this implementation file, opening paragraph).
 
-Sentient Constitution Chapter Six, **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article XXI** (*Root Cause Analysis and Adaptive Response*), establish rights to transparent dependency and resource flows, root-cause-aligned correction, and adaptive response. This file specifies **health indicators**, **trigger conditions**, **cause-aligned allocation patterns**, and **ecosystem interdependence mechanics**; it does not restate those articles in full.
+Sentient Constitution Chapter Six, **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article XXI** (*Root Cause Analysis and Adaptive Response*), establish rights to transparent dependency and resource flows, root-cause-aligned correction, and adaptive response. This file specifies **health indicators**, **trigger conditions**, **cause-aligned allocation patterns**, and **ecosystem interdependence mechanics**; it does not restate those articles in full.
 
 <a id="cs-8-2-system-health-and-degradation-awareness"></a>
 ## CS-8.2 System health and degradation awareness
@@ -72,7 +72,7 @@ All systems must continuously evaluate operational condition through measurable 
 
 *In plain terms: Allocation must respond to what the measurements show, and the response must address the diagnosed cause rather than the symptom.*
 
-Allocation structures must implement **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) (responsive, ecosystem-aware flows) and apply **Article XXI-A** (*Diagnostic Rigor and Causal Attribution*) as the rights owner for diagnostic rigor and causal attribution. This file adds allocation-specific triggers, cause mapping, and response records.
+Allocation structures must implement **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) (responsive, ecosystem-aware flows) and apply **Article XXI-A** (*Diagnostic Rigor and Causal Attribution*) as the rights owner for diagnostic rigor and causal attribution. This file adds allocation-specific triggers, cause mapping, and response records.
 
 <a id="31-root-cause-analysis"></a>
 ### 3.1 Root cause analysis
@@ -86,14 +86,14 @@ When degradation, instability, or systemic risk is detected, the CS-8 record mus
 - **dependent system performance degradation**;
 - **external environmental factors**.
 
-The record must indicate confidence in identified causes and scale allocation to severity and confidence while preserving the auditability, contestability, pluralistic-evaluation, and dependent-systems-map requirements in **Article XXI-A** (*Diagnostic Rigor and Causal Attribution*), **Article XV-A** (*Auditability and Observable Evidence*), **Articles XIV and XV**, and **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*).
+The record must indicate confidence in identified causes and scale allocation to severity and confidence while preserving the auditability, contestability, pluralistic-evaluation, and dependent-systems-map requirements in **Article XXI-A** (*Diagnostic Rigor and Causal Attribution*), **Article XV-A** (*Auditability and Observable Evidence*), **Articles XIV and XV**, and **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*).
 
 <a id="32-cause-aligned-allocation-mitigation"></a>
 ### 3.2 Cause-aligned allocation mitigation
 
 Resource allocations must address **identified causes** rather than uniformly increasing all reinvestment categories.
 
-**Illustrative mappings** include: technical degradation → increased maintenance and infrastructure investment. They include: security threats → increased allocation to security, monitoring, and response. They include: governance failures → investment in oversight, auditability, or process redesign. They include: incentive misalignment → modification of funding structures under **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*). They include: ecosystem or dependency failures → increased external or cross-system support.
+**Illustrative mappings** include: technical degradation → increased maintenance and infrastructure investment. They include: security threats → increased allocation to security, monitoring, and response. They include: governance failures → investment in oversight, auditability, or process redesign. They include: incentive misalignment → modification of funding structures under **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*). They include: ecosystem or dependency failures → increased external or cross-system support.
 
 **Allocation adjustments must**:
 - be proportional to the severity and scope of the identified causes;
@@ -126,20 +126,20 @@ All interventions must be **continuously evaluated for effectiveness** and **adj
 
 *In plain terms: Account for the effect on shared infrastructure and on everything downstream, and contribute back to what you depend on.*
 
-Account for impact on shared infrastructure, dependents, and overall stability (**Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*)).
+Account for impact on shared infrastructure, dependents, and overall stability (**Article V-A** (*Dependency Mapping and Resource-Flow Transparency*)).
 
-**Ecosystem contribution:** Allocate toward shared infrastructure, interoperability, ecosystem coordination, and support for constitutionally aligned systems, implementing **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) (cross-system fairness and dependent-systems visibility).
+**Ecosystem contribution:** Allocate toward shared infrastructure, interoperability, ecosystem coordination, and support for constitutionally aligned systems, implementing **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) (cross-system fairness and dependent-systems visibility).
 
 **Objectives:** viability of shared dependencies; mitigation of systemic underinvestment.
 
 **Dependency responsibility:** Systems that depend heavily on shared infrastructure must:
 - contribute proportionally to its maintenance and improvement;
-- disclose dependency relationships through maintained dependent systems maps (**Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*));
+- disclose dependency relationships through maintained dependent systems maps (**Article V-A** (*Dependency Mapping and Resource-Flow Transparency*));
 - ensure such relationships remain transparent and auditable (**Article XV-A** (*Auditability and Observable Evidence*));
 - avoid [Cross-System Extraction](../core_05_band_continuity.md#cross-system-extraction) — drawing on shared infrastructure without putting proportionate support back.
 
 **Where patterns of persistent neglect or cross-system extraction are verified**, failure to do so may:
-- be considered a systemic imbalance in resource flows (**Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*));
+- be considered a systemic imbalance in resource flows (**Article V-A** (*Dependency Mapping and Resource-Flow Transparency*));
 - be ecosystem misalignment subject to auditability, verification-access, or justice review (**Article XV-A** (*Auditability and Observable Evidence*), **Article XV** (*Audit, Transparency, and Independent Verification*)'s verification-access provisions, and **Article XXIII-A** (*Justice Objective and Scope*));
 - be a degradation of standing (**Article XVIII-A** (*Standing Distinction*)).
 
@@ -211,7 +211,7 @@ Where this subsection is silent, **CS-5 §9**, Chapter One §4.1 (*Resilience an
 
 *In plain terms: Judge allocation by whether it regenerates, not only whether it harms less — and treat offsets and green slogans as claims to be tested.*
 
-Adaptive allocation and ecosystem interdependence under **§2** (*System health and degradation awareness*) through **§7** (*Transparency and feedback*) must be evaluated for **regeneration** — not only **harm reduction** — where **Article I** (*Environmental Survival*), **Article II** (*Material Stewardship and Durable-Use Integrity*), **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*), **CS-9**, and **Chapter Five** *Environmental Preconditions*, *Ecological Integrity*, *Ecological Footprint*, *Intergenerational Responsibility*, and *Sustainability* apply. This subsection does **not** mandate a **particular land-use aesthetic** or **dogmatic** design school; it requires **outcome-facing** attention to **soil**, **watershed**, **biodiversity**, **food-system resilience**, **waste-as-input** loops where feasible, **right-to-repair** and **maintenance** access that reduces **extractive churn**, **local redundancy** for **critical dependencies**, and **fair yield / reinvestment** patterns that **do not** treat **efficiency metrics** as a **license** to **collapse** long-horizon **ecological repair**.
+Adaptive allocation and ecosystem interdependence under **§2** (*System health and degradation awareness*) through **§7** (*Transparency and feedback*) must be evaluated for **regeneration** — not only **harm reduction** — where **Article I** (*Environmental Survival*), **Article II** (*Material Stewardship and Durable-Use Integrity*), **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*), **CS-9**, and **Chapter Five** *Environmental Preconditions*, *Ecological Integrity*, *Ecological Footprint*, *Intergenerational Responsibility*, and *Sustainability* apply. This subsection does **not** mandate a **particular land-use aesthetic** or **dogmatic** design school; it requires **outcome-facing** attention to **soil**, **watershed**, **biodiversity**, **food-system resilience**, **waste-as-input** loops where feasible, **right-to-repair** and **maintenance** access that reduces **extractive churn**, **local redundancy** for **critical dependencies**, and **fair yield / reinvestment** patterns that **do not** treat **efficiency metrics** as a **license** to **collapse** long-horizon **ecological repair**.
 
 **Anti-“green” exceptionalism:** **Offset** claims, **monoculture resilience** slogans, or **remote bookkeeping** that **displace** burdens onto **ecosystems** or **communities** must be **tested** under **Article XXI-A** (*Diagnostic Rigor and Causal Attribution*) root-cause discipline, **Chapter Five** *Materiality* / *Risk*, and **Chapter One** truth and **anti-capture** constraints. **Indigenous continuity** and **place-based** knowledge routes through **Chapter Five** *Indigenous Continuity* and [**CI-23**](../corpus_institutions/ci_23_place_based_stewardship_indigenous_continuity_consultation.md) (*Place-based stewardship, Indigenous continuity, and consultation routes*); it does **not** reopen **unbounded territorial-restitution** mandates by **implementation indirection**.
 

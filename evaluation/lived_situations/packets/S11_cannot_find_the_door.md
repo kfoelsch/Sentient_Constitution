@@ -85,7 +85,7 @@ Beyond the sitting’s bounded reading path, open:
 - [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)
 - [Article XXIV-C](../../../core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) — a file that never finishes is still a refusal
 - [Article III-A](../../../core_06_rights_part_a.md#article-iii-a-survival) where water is essential shelter access
-- [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) where the wage-deduction is used to defeat survival
+- [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) where the wage-deduction is used to defeat survival
 - If you conclude a **forum family** is in play, [Chapter Twelve §3](../../../core_12_forum.md#3-transfer-consolidation-and-coordination) and capacity-failure heard outside the starved body. Do not assume a municipal contest desk is already a forum family.
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.

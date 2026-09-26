@@ -78,11 +78,11 @@ Definitions under this aim inherit its scope unless they expressly narrow or wid
   - [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility-constitutional)
 - **Dependency and resource flows:**
   - [Dependency](core_05_band_continuity.md#dependency)
-  - **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*)
+  - **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*)
 - **Cross-system support:**
   - [Cross-System Extraction](core_05_band_continuity.md#cross-system-extraction)
   - [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional)
-  - **Article IV-B** (*Cross-System Fairness and Sustainability*)
+  - **Article V-B** (*Cross-System Fairness and Sustainability*)
 
 **Other Continuity-primary clusters** (use when their admission scope applies; not listed as building-block homes above):
 
@@ -115,8 +115,8 @@ Definitions under this aim inherit its scope unless they expressly narrow or wid
 |---|---|---|
 | Ecological footprint and environmental preconditions | What environmental burden is being created or shifted? | [Ecological Footprint](core_05_band_continuity.md#ecological-footprint), [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional); disclosure under **Articles I-A** and **I-B** |
 | Resilience, reversibility, and systemic risk | Can failures be contained, reversed, and escalated honestly? | [Reversibility](core_05_band_continuity.md#reversibility-constitutional), [Cascading Failure](core_05_band_continuity.md#cascading-failure), [Existential Risk](core_05_band_continuity.md#existential-risk), [Self-Healing](core_05_band_continuity.md#self-healing-constitutional); [*Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05_band_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster) |
-| Dependency and resource flows | Are shared dependencies visible and sustained? | [Dependency](core_05_band_continuity.md#dependency); **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) |
-| Cross-system support | Does documented return sustain shared infrastructure and ecological repair? | [Cross-System Extraction](core_05_band_continuity.md#cross-system-extraction), [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional); **Article IV-B** (*Cross-System Fairness and Sustainability*) |
+| Dependency and resource flows | Are shared dependencies visible and sustained? | [Dependency](core_05_band_continuity.md#dependency); **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) |
+| Cross-system support | Does documented return sustain shared infrastructure and ecological repair? | [Cross-System Extraction](core_05_band_continuity.md#cross-system-extraction), [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional); **Article V-B** (*Cross-System Fairness and Sustainability*) |
 
 The detailed how-to-measure rules live on each linked definition.
 

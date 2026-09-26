@@ -26,7 +26,7 @@
 - 함께 읽기: [헌법 사원(四元)](../../core_00_preamble.md#constitutional-tetrad) — 참여, 감독, 책무, 적시성은 공유 체계가 [두 헌법 목적](../../core_00_preamble.md#two-constitutional-aims)을 어떻게 추구하는지를 다스린다; [실질 이해관계](../../core_00_preamble.md#material-stake) 세기 조절은 절 추적을 통해 장 전체에 적용된다.
 - 함께 읽기: [제2장부터 제4장](core_02_definition_structure.md)과 [제5장](core_05__definitions_home.md#chapter-five-foundational-definitions) — 이 장에서 쓰인 모든 용어의 통할 기계 층; O/M/A/C 완전성, 회피 금지, 부담, 정의에서 결과로의 추적 가능성을 적용하라.
 - 함께 읽기: [제6장: 기초 권리](../../core_06_rights_part_a.md#chapter-six-foundational-rights).
-  - 특히 [제 V조: 평등한 기본 권리](../../core_06_rights_part_b.md#article-v-equal-basic-rights), [제 XII조: 믿을 수 있고 신뢰할 체계에 대한 권리](../../core_06_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems), [제 XXII조: 헌법 해석, 검토, 포획 금지 안전장치](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards).
+  - 특히 [제 V조: 평등한 기본 권리](../../core_06_rights_part_b.md#article-vi-equal-basic-rights), [제 XII조: 믿을 수 있고 신뢰할 체계에 대한 권리](../../core_06_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems), [제 XXII조: 헌법 해석, 검토, 포획 금지 안전장치](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards).
   - 해석이 보호받는 감지자, 체계, 제도에 영향을 미치는 곳에서 이 읽기를 적용하라.
 
 </details>
@@ -65,7 +65,7 @@
 - 하류: [3.1 안전](#31-safety-harm-constraint), [3.2 진실](#32-truth-epistemic-integrity-constraint), [§9 책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. 과정 충돌 해결](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
 - 하위절: [§2.1 공정](#21-fairness); [§2.2 인정, 강화, 지향](#22-recognition-reinforcement-and-aspiration).
 - 함께 읽기: 제6장 권리 바닥 일반.
-  - 특히 [제 V조: 평등한 기본 권리](../../core_06_rights_part_b.md#article-v-equal-basic-rights), [제 IX조: 자기결정과 행위주체성](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency), [제 XII-B조: 다툼, 검토, 구제에 대한 권리](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), [제 XVIII-B조: 다툴 수 있음과 비례 제한 한도](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits).
+  - 특히 [제 V조: 평등한 기본 권리](../../core_06_rights_part_b.md#article-vi-equal-basic-rights), [제 IX조: 자기결정과 행위주체성](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency), [제 XII-B조: 다툼, 검토, 구제에 대한 권리](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), [제 XVIII-B조: 다툴 수 있음과 비례 제한 한도](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits).
   - 주장된 복지 이득이 행위주체성, 존엄, 다툴 수 있음의 제한을 정당화하려 하는 곳에서 이 읽기를 적용하라.
   - 특히 [존엄과 평등한 도덕 지위](../../core_05_band_participation.md#dignity-and-equal-moral-standing), [실체 공정](../../core_05_band_participation.md#substantive-fairness-constitutional), [4. 신뢰](#4-system-stability-enabler-trust-coordination-integrity), 접근, 과정, 배분 정합, 의존, 조정 완전성이 실질 이해관계인 곳에서.
 
@@ -107,7 +107,7 @@
 - 하류: [2.2 인정, 강화, 지향](#22-recognition-reinforcement-and-aspiration); [4. 신뢰](#4-system-stability-enabler-trust-coordination-integrity), [§9 책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. 과정 충돌 해결](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [§6.1 결정 기록 규율](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), 우선과 배분 선택이 일관되고 검토 가능해야 하는 곳에서.
 - 하위절(읽기 순서): [§2.1.1](#211-access-and-opportunity) · [§2.1.2](#212-benefits-and-burdens) · [§2.1.3](#213-fair-treatment) · [§2.1.4](#214-unfair-treatment).
 - 하류: 평등한 도덕 지위, 자의적이지 않은 대우, 의미 있는 다툼, 비례 제한 한도의 권리 면을 빚는다.
-  - 특히 [제 V조: 평등한 기본 권리](../../core_06_rights_part_b.md#article-v-equal-basic-rights), [제 V-B조: 차별 금지](../../core_06_rights_part_b.md#article-v-c-nondiscrimination), [제 IX조: 자기결정과 행위주체성](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency), [제 XII-B조: 다툼, 검토, 구제에 대한 권리](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), [제 XVIII-B조: 다툴 수 있음과 비례 제한 한도](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits).
+  - 특히 [제 V조: 평등한 기본 권리](../../core_06_rights_part_b.md#article-vi-equal-basic-rights), [제 V-B조: 차별 금지](../../core_06_rights_part_b.md#article-vi-c-nondiscrimination), [제 IX조: 자기결정과 행위주체성](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency), [제 XII-B조: 다툼, 검토, 구제에 대한 권리](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), [제 XVIII-B조: 다툴 수 있음과 비례 제한 한도](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits).
   - 반헌법 지정이 제재나 오래가는 효과를 실으면, [제10장 4절 — 적법절차 안전장치, 구제, 예방](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment)과 함께 읽으라.
   - 차별 금지 약속은 제5장 [§2 — 보호 특성, 대리, 친밀 신호 게이트, **제 X-C조**(*성인 합의 상업 성서비스와 성착취*) 지위](../../core_05_band_participation.md#fairness-and-protected-status-semi-independent)를 통해 풀어지며, §2.1.3 공정 대우 규칙이 친밀 신호 게이트나 **제 X-C조**(*성인 합의 상업 성서비스와 성착취*)를 연루하는 곳에서 [보호되는 친밀 신호 게이트와 **제 X-C조**(*성인 합의 상업 성서비스와 성착취*) 지위 우회](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention)를 포함한다.
 - 함께 읽기: 이익, 부담, 보상, 비용, 의무, 위험, 기여, 필요, 노출이 실질인 곳에서 [실체 공정](../../core_05_band_participation.md#substantive-fairness-constitutional)과 관련 제6장 권리 바닥 의무; §2.1.1 접근 경로가 실질인 곳에서 [접근성](../../core_05_band_participation.md#accessibility-constitutional); 합산 지표나 점수판 효과가 실질인 곳에서 [대리지표 이탈](../../core_05_band_oversight.md#proxy-divergence).
@@ -426,7 +426,7 @@
 - 함께 읽기: [헌법 사원(四元)](../../core_00_preamble.md#constitutional-tetrad) — **참여** 다리(이해할 수 있는 참여); **감독** 다리(감사와 확인의 가독성); [실질 이해관계](../../core_00_preamble.md#material-stake) 세기 조절.
 - 함께 읽기: [두 헌법 목적](../../core_00_preamble.md#two-constitutional-aims) — **번영** 목적(이해할 수 있는 **진실** 참여를 통한 의미 있는 행위주체성); **연속** 목적(시간에 걸친 제도의 오래가는 가독성).
 - 상류: 원칙: [§3.2 진실](#32-truth-epistemic-integrity-constraint), [3.3 과학에 정통한 탐구와 결정 지원](#33-science-informed-inquiry-and-decision-support), [§6.3 피할 수 있는 부담의 최소화](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [§11.1.3 책임 있는 관리와 운영자 적용](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application); [두 헌법 목적](../../core_00_preamble.md#two-constitutional-aims).
-- 하류: 권리 면: [제 V-G조: 접근성](../../core_06_rights_part_b.md#article-v-d-accessibility), [제 VI조: 감지자 중심 교육에 대한 권리](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [제 XV조: 감사, 투명, 독립 확인](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [제 XX조: 이해 가능성과 복잡성의 책임 있는 관리](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
+- 하류: 권리 면: [제 V-G조: 접근성](../../core_06_rights_part_b.md#article-vi-d-accessibility), [제 VI조: 감지자 중심 교육에 대한 권리](../../core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education), [제 XV조: 감사, 투명, 독립 확인](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [제 XX조: 이해 가능성과 복잡성의 책임 있는 관리](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 - 교차 참조: 제2장부터 제4장의 정의 기계와 [core_02_definition_structure.md](core_02_definition_structure.md)의 쉬운 말 난간은 정의 층에서 여전히 통할한다.
 - 하위절(읽기 순서): [§3.4.1](#341-scope) · [§3.4.2](#342-the-duty) · [§3.4.3](#343-definitional-rigor-preserved) · [§3.4.4](#344-jargon-as-defeat-discipline) · [§3.4.5](#345-chapter-ten-floor-boundary).
 
@@ -461,7 +461,7 @@
 - 감지자 독자에게 닿는 감사와 확인 산출물;
 - 약관과 동의 인터페이스, 비슷한 텍스트.
 
-이 의무는 구속 정보가 감지자에게 어떻게 닿든 적용된다 — 서면 텍스트, 인터페이스, 구두 소통, 그 밖의 어떤 채널이든. 채널이 영향받는 어떤 감지자든 닿을 수 있는 쉬운 말 등가물을 제공하고, [제 V-G조](../../core_06_rights_part_b.md#article-v-d-accessibility)(*접근성*) 및 [감지자성 비배제](../../core_05_band_participation.md#sentience-non-exclusion)와 일관하면, 그 채널은 이 의무를 충족한다.
+이 의무는 구속 정보가 감지자에게 어떻게 닿든 적용된다 — 서면 텍스트, 인터페이스, 구두 소통, 그 밖의 어떤 채널이든. 채널이 영향받는 어떤 감지자든 닿을 수 있는 쉬운 말 등가물을 제공하고, [제 V-G조](../../core_06_rights_part_b.md#article-vi-d-accessibility)(*접근성*) 및 [감지자성 비배제](../../core_05_band_participation.md#sentience-non-exclusion)와 일관하면, 그 채널은 이 의무를 충족한다.
 
 <a id="342-the-duty"></a>
 ##### 3.4.2 그 의무
@@ -470,7 +470,7 @@
 
 - 운영 의미를 잃지 않고 할 수 있는 곳에서, 은어나 불필요하게 복잡한 표현 대신 쉽고 직접적인 언어를 쓰는 것;
 - 감지자가 기술적으로 빽빽한 자료를 맞대어야 할 때 쉬운 말 요약이나 안내를 제공하는 것;
-- 감지자가 필요한 것을 찾고 쓸데없는 어려움 없이 읽을 수 있게 텍스트를 조직하는 것 — [제 VI조](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)(*감지자 중심 교육에 대한 권리*)가 인정한 학습 이익을 받친다;
+- 감지자가 필요한 것을 찾고 쓸데없는 어려움 없이 읽을 수 있게 텍스트를 조직하는 것 — [제 VI조](../../core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education)(*감지자 중심 교육에 대한 권리*)가 인정한 학습 이익을 받친다;
 - 복잡성을 소통이 실제로 말해야 할 것에 비례하게 유지하는 것. 헌법 목적을 섬기지 않으면서 일을 더 어렵게 하는 쓸데없는 복잡성은 [§6.3](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) 아래 [피할 수 있는 부담](../../core_05_band_continuity.md#avoidable-burden) 결함이며, [제 XX조](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)(*이해 가능성과 복잡성의 책임 있는 관리*)가 염려하는 바다.
 
 <a id="343-definitional-rigor-preserved"></a>
@@ -493,7 +493,7 @@
 <a id="345-chapter-ten-floor-boundary"></a>
 ##### 3.4.5 권리 바닥 경계
 
-접근성, 교육, 이해 가능성의 권리 바닥은 각각 [제 V-G조](../../core_06_rights_part_b.md#article-v-d-accessibility)(*접근성*), [제 III-B조](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access)(*평등한 교육 접근*), [제 XX조](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)(*이해 가능성과 복잡성의 책임 있는 관리*)에 산다. 이 절은 그 바닥을 받치는 원칙 층 의무를 말한다.
+접근성, 교육, 이해 가능성의 권리 바닥은 각각 [제 V-G조](../../core_06_rights_part_b.md#article-vi-d-accessibility)(*접근성*), [제 III-B조](../../core_06_rights_part_a.md#article-iv-a-equal-educational-access)(*평등한 교육 접근*), [제 XX조](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)(*이해 가능성과 복잡성의 책임 있는 관리*)에 산다. 이 절은 그 바닥을 받치는 원칙 층 의무를 말한다.
 
 <a id="4-system-stability-enabler-trust-coordination-integrity"></a>
 ### 4. 체계 안정 가능하게 하는 것: 신뢰(조정 완전성)
@@ -592,7 +592,7 @@
 - 상류: 원칙: [§2.2 인정, 강화, 지향](#22-recognition-reinforcement-and-aspiration); [3.1 안전](#31-safety-harm-constraint); [3.2 진실](#32-truth-epistemic-integrity-constraint); [4. 신뢰](#4-system-stability-enabler-trust-coordination-integrity); [두 헌법 목적](../../core_00_preamble.md#two-constitutional-aims).
 - 하류: [§5.1 제한 규율](#51-limitation-discipline)부터 [§5.3 집회, 집단 조직, 제도 형성](#53-assembly-collective-organization-and-institutional-formation); [6. 과정 충돌 해결](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); [7. 절대 덮어쓰기 금지](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override); [§15 통합 적용](core_01_c_stewardship_capacity_principles.md#15-integrated-application); 구체 적용이 충돌 취급을 요구하는 곳에서 [§6.1 결정 기록 규율](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
 - 하류: 평등 지위, 교육, 자기소유, 출판과 초상 통제, 행위주체성, 협력 상호작용, 적법절차, 궤적, 포획 금지 검토의 권리 면을 틀 짓는다.
-  - 특히 [제 V조: 평등한 기본 권리](../../core_06_rights_part_b.md#article-v-equal-basic-rights), [제 VI조: 감지자 중심 교육에 대한 권리](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [제 VII조: 자기소유](../../core_06_rights_part_b.md#article-vii-self-ownership), [제 VIII조: 초상, 경험 데이터, 출판권](../../core_06_rights_part_b.md#article-viii-likeness-experiential-data-and-publication-rights), [제 IX조: 자기결정과 행위주체성](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency), [제 X조: 협력 상호작용](../../core_06_rights_part_b.md#article-x-cooperative-interaction), [제 XI조: 영향받는 쪽의 체계 참여, 대표, 적법절차](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process), [제 XVIII조: 궤적과 참여 지위](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status), [제 XXII조: 헌법 해석, 검토, 포획 금지 안전장치](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards).
+  - 특히 [제 V조: 평등한 기본 권리](../../core_06_rights_part_b.md#article-vi-equal-basic-rights), [제 VI조: 감지자 중심 교육에 대한 권리](../../core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education), [제 VII조: 자기소유](../../core_06_rights_part_b.md#article-vii-self-ownership), [제 VIII조: 초상, 경험 데이터, 출판권](../../core_06_rights_part_b.md#article-viii-likeness-experiential-data-and-publication-rights), [제 IX조: 자기결정과 행위주체성](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency), [제 X조: 협력 상호작용](../../core_06_rights_part_b.md#article-x-cooperative-interaction), [제 XI조: 영향받는 쪽의 체계 참여, 대표, 적법절차](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process), [제 XVIII조: 궤적과 참여 지위](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status), [제 XXII조: 헌법 해석, 검토, 포획 금지 안전장치](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards).
   - 이것은 또한 행위주체성이 제한되거나 주장되는 제6장 권리 맥락을 덮는다.
 
 </details>
@@ -740,7 +740,7 @@
 
 **어느 권리 조가 여전히 통할하는가.** **§5.3**은 제1장 원칙이다. 제6장 권리 바닥을 대체하지 않는다. **§5.3** 안에서, 그 조들은 권리가 무엇이며 어떻게 제한될 수 있는지를 여전히 결정한다:
 - **[제 V-H조](../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press)**(*표현, 집회, 출판*) — 표현, 정치, 문화, 공동체, 비슷한 목적을 위해 물리, 디지털, 공유 계산 공간에서 모이고, 결사하고, 함께 행동하는 것
-- **[제 III-D조](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)**(*노동과 경제 바닥*) — 생산과 경제 활동에서의 집단 조직(노동조합, 협동조합, 길드, 노동자 평의회, 노동 조건을 빚는 데 쓰이는 비슷한 형태), 그리고 [사업 창설](../../core_05_band_participation.md#business-creation-constitutional)
+- **[제 III-D조](../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor)**(*노동과 경제 바닥*) — 생산과 경제 활동에서의 집단 조직(노동조합, 협동조합, 길드, 노동자 평의회, 노동 조건을 빚는 데 쓰이는 비슷한 형태), 그리고 [사업 창설](../../core_05_band_participation.md#business-creation-constitutional)
 - **[제 IX-B조](../../core_06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights)**(*영향받는 쪽 역할과 참여권*)와 **[제 XI조](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)**(*영향받는 쪽의 체계 참여, 대표, 적법절차*) — [체계 창설](../../core_05_band_participation.md#system-creation-constitutional)(비상업 제도를 만들고 운영하는 것)
 
 **온전한 정의 무리가 언제 적용되는가.** [집회](../../core_05_band_participation.md#assembly-constitutional), [집단 조직](../../core_05_band_participation.md#collective-organization-constitutional), [체계 창설](../../core_05_band_participation.md#system-creation-constitutional), [사업 창설](../../core_05_band_participation.md#business-creation-constitutional)이 그 질문이 함께 다니는 방식으로 실질일 때, 분할 금지 규칙이 적용된다.

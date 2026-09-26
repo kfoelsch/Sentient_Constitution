@@ -93,7 +93,7 @@ CARD_BOX_ANCHORS = {
 # Cards whose owner Article states the forbidden move and clock in its own
 # operative text, so a separate box would only restate it.
 CARD_OWNER_TEXT_ANCHORS = {
-    "Cross-system support": "article-iv-b-cross-system-fairness-and-sustainability",
+    "Cross-system support": "article-v-b-cross-system-fairness-and-sustainability",
 }
 
 
