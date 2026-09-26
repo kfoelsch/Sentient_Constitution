@@ -426,7 +426,7 @@
 - يُقرأ مع: [الرباعية الدستورية](../../core_00_preamble.md#constitutional-tetrad) — رجل **المشاركة** (انخراط مفهوم)؛ ورجل **الرقابة** (قابلية قراءة التدقيق والتحقق)؛ ومقياس [الرهان المادي](../../core_00_preamble.md#material-stake).
 - يُقرأ مع: [المقصدان الدستوريان](../../core_00_preamble.md#two-constitutional-aims) — مقصد **الازدهار** (وكالة ذات معنى عبر انخراط مفهوم في **الحقيقة**)؛ ومقصد **الاستمرارية** (مقروئية مؤسسية دائمة عبر الزمن).
 - أعلى: المبادئ: [§3.2 الحقيقة](#32-truth-epistemic-integrity-constraint)، و[3.3 الاستعلام المستنير بالعلم ودعم القرار](#33-science-informed-inquiry-and-decision-support)، و[§6.3 تقليل العبء القابل للتجنّب](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)، و[§11.1.3 الإدارة المسؤولة وتطبيق المشغّل](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)؛ [المقصدان الدستوريان](../../core_00_preamble.md#two-constitutional-aims).
-- أسفل: سطح الحقوق: [المادة V-G: تيسير الوصول](../../core_06_rights_part_b.md#article-v-f-accessibility)، و[المادة VI: الحق في تعليم متمحور حول الكائنات الواعية](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)، و[المادة XV: التدقيق والشفافية والتحقق المستقل](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)، و[المادة XX: قابلية الفهم والإدارة المسؤولة للتعقيد](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
+- أسفل: سطح الحقوق: [المادة V-G: تيسير الوصول](../../core_06_rights_part_b.md#article-v-c-accessibility)، و[المادة VI: الحق في تعليم متمحور حول الكائنات الواعية](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)، و[المادة XV: التدقيق والشفافية والتحقق المستقل](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)، و[المادة XX: قابلية الفهم والإدارة المسؤولة للتعقيد](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 - إحالة: ميكانيكا التعريف في الفصول من الثاني إلى الرابع وحواجز اللغة البسيطة في [core_02_definition_structure.md](core_02_definition_structure.md) تبقى حاكمة في طبقة التعريف.
 - الأقسام الفرعية (ترتيب القراءة): [§3.4.1](#341-scope) · [§3.4.2](#342-the-duty) · [§3.4.3](#343-definitional-rigor-preserved) · [§3.4.4](#344-jargon-as-defeat-discipline) · [§3.4.5](#345-chapter-ten-floor-boundary).
 
@@ -461,7 +461,7 @@
 - مصنوعات التدقيق والتحقق حيث تبلغ قرّاء من الكائنات الواعية؛
 - الشروط وواجهات الموافقة، والنص المماثل.
 
-ينطبق هذا الواجب كيفما بلغت المعلومات الملزمة الكائنات الواعية — نصًا مكتوبًا أو واجهات أو تواصلًا منطوقًا أو أي قناة أخرى. تستوفي القناة الواجب حين تمدّ بمكافئ بلغة بسيطة يستطيع أي كائن واعٍ متأثر الوصول إليه، متسقًا مع [المادة V-G](../../core_06_rights_part_b.md#article-v-f-accessibility) (*تيسير الوصول*) و[عدم إقصاء الوعي](../../core_05_band_participation.md#sentience-non-exclusion).
+ينطبق هذا الواجب كيفما بلغت المعلومات الملزمة الكائنات الواعية — نصًا مكتوبًا أو واجهات أو تواصلًا منطوقًا أو أي قناة أخرى. تستوفي القناة الواجب حين تمدّ بمكافئ بلغة بسيطة يستطيع أي كائن واعٍ متأثر الوصول إليه، متسقًا مع [المادة V-G](../../core_06_rights_part_b.md#article-v-c-accessibility) (*تيسير الوصول*) و[عدم إقصاء الوعي](../../core_05_band_participation.md#sentience-non-exclusion).
 
 <a id="342-the-duty"></a>
 ##### 3.4.2 الواجب
@@ -493,7 +493,7 @@
 <a id="345-chapter-ten-floor-boundary"></a>
 ##### 3.4.5 حد أرضية الحقوق
 
-أرضيات الحقوق لتيسير الوصول والتعليم وقابلية الفهم تعيش في [المادة V-G](../../core_06_rights_part_b.md#article-v-f-accessibility) (*تيسير الوصول*)، و[المادة III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*الوصول التعليمي المتساوي*)، و[المادة XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*قابلية الفهم والإدارة المسؤولة للتعقيد*) على التوالي. يبيّن هذا القسم واجب طبقة المبادئ الذي يسند تلك الأرضيات.
+أرضيات الحقوق لتيسير الوصول والتعليم وقابلية الفهم تعيش في [المادة V-G](../../core_06_rights_part_b.md#article-v-c-accessibility) (*تيسير الوصول*)، و[المادة III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*الوصول التعليمي المتساوي*)، و[المادة XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*قابلية الفهم والإدارة المسؤولة للتعقيد*) على التوالي. يبيّن هذا القسم واجب طبقة المبادئ الذي يسند تلك الأرضيات.
 
 <a id="4-system-stability-enabler-trust-coordination-integrity"></a>
 ### 4. مُمَكِّن استقرار النظام: الثقة (نزاهة التنسيق)

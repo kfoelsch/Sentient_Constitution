@@ -118,13 +118,13 @@ flowchart TB
 
 The principles of this Article constrain all interpretation, design, and operation of systems under this constitution. Domain-specific articles may add stronger safeguards or narrower conditions for lawful restriction, but may not reduce the minimums this Article sets.
 
-*In plain terms: **Article V** (*Equal Basic Rights*) sets the minimum standard for treating every sentient as an equal. Every sentient keeps their dignity, is protected from unfair discrimination, can take part fully, gets a fair hearing on whether they count as sentient, is protected while still developing, and can actually use the systems they rely on. No system may rank, screen out, exclude, or place heavier burdens on some sentients than others unless these protections are already in place.*
+*In plain terms: **Article V** (*Equal Basic Rights*) sets the minimum standard for treating every sentient as an equal. Every sentient keeps their dignity, is protected from unfair discrimination, can take part fully and actually use the systems they rely on, gets a fair hearing on whether they count as sentient, and is protected while still developing. No system may rank, screen out, exclude, or place heavier burdens on some sentients than others unless these protections are already in place.*
 
-This Article states **constitutional floors** for equal basic rights across **Articles V-A through V-F**. Three principles apply throughout **Article V** (*Equal Basic Rights*) and throughout imposition, review, and carrying out of restrictions, containment, restorative-accountability measures, emergency measures, transition plans, standing effects, amendments, implementation decisions, contracts, and comparable constitutional processes:
+This Article states **constitutional floors** for equal basic rights across **Articles V-A through V-E**. Three principles apply throughout **Article V** (*Equal Basic Rights*) and throughout imposition, review, and carrying out of restrictions, containment, restorative-accountability measures, emergency measures, transition plans, standing effects, amendments, implementation decisions, contracts, and comparable constitutional processes:
 
 - **[Dignity Clause](core_01_b_interaction_interpretation.md#dignity-clause)** — the [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) and the [Anti-Degrading-Process Principle](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)
 - **Nondiscrimination** under **Article V-B** (*Nondiscrimination*)
-- **Accessibility** under **Article V-F** (*Accessibility*)
+- **Accessibility** under **Article V-C** (*Accessibility*)
 
 These principles are requirements for ongoing [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) of any materially impactful system that sorts, ranks, prices, screens, or excludes sentients, or decides which of them bear which burdens and receive which benefits, whether through eligibility rules, model features, ranking logic, platform policies, adjudication or enforcement processes, or any similar way of making decisions. Certification verifies alignment. It cannot substitute for or shrink the floors stated in this Article, and it does not replace challenge and audit rights under **Articles XII-B** and **XV** or non-foreclosure protections under **Article XVIII-B** (*Contestability and Proportional Restriction Limits*).
 
@@ -164,7 +164,7 @@ This Article sets out the floor of inherent dignity and equal standing:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§2.1 Fairness](core_01_a_values_principles.md#21-fairness), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [Chapter One §6.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- Downstream: Participation measurement family (*Substantive Fairness and Protected Characteristic Proxying and Disparate Impact*); [Chapter Eight §7](core_08_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) (*nondiscrimination evaluation where certification gates classification, ranking, pricing, gating, or burden allocation*).
+- Downstream: Participation measurement family (*Substantive Fairness and Protected Characteristic Proxying and Disparate Impact*); [Chapter Eight §7](core_08_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) (*nondiscrimination evaluation where certification gates classification, ranking, pricing, gating, or burden allocation*); [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum, administrative, and enforcement processes (*adjudication and operations duty*).
 - Read with: Chapter Five [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) and [Language, Culture, and Heritage](core_05_band_continuity.md#language-culture-and-heritage-constitutional); Chapter Five [Indigenous Continuity](core_05_band_continuity.md#indigenous-continuity-constitutional) (*community-anchored Rights Floor; owner floors **Article V-B** (Nondiscrimination) and **Article I-A** (Environmental Preconditions and Ecological Integrity)*) for Indigenous continuity and territorial-continuity questions, which route to [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*ecosystem-integrity precondition*) and [Chapter Seventeen](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*adopter-jurisdiction discipline*).
 
 </details>
@@ -177,15 +177,18 @@ This Article sets out the floor of inherent dignity and equal standing:
 - [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
+- [Contestability](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 - [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) · [O](core_05_band_participation.md#sentience-non-exclusion) · [M](core_05_band_participation.md#sentience-non-exclusion-a) · [A](core_05_band_participation.md#sentience-non-exclusion-a) · [C](core_05_band_participation.md#sentience-non-exclusion)
 
 </details>
 
 <br>
 
-*In plain terms: systems may not load burdens or harms onto sentients based on protected characteristics — including language, culture, and heritage — or on proxies and arbitrary groupings that do the same work.*
+*In plain terms: systems may not load burdens or harms onto sentients based on protected characteristics — including language, culture, and heritage — or on proxies and arbitrary groupings that do the same work. Any difference in treatment that touches rights or survival essentials must be justified and open to challenge, and forums, administrators, and enforcers must check this in the matters before them — efficiency is no excuse for exclusion.*
 
-This Article sets out the nondiscrimination floor and its protection of language, culture, and heritage:
+This Article sets out the nondiscrimination floor, its protection of language, culture, and heritage, and its application in adjudication and operations:
 
 - **Nondiscrimination:** Systems must not impose material burdens, exclusions, or harms on sentients based on:
   - protected characteristics;
@@ -193,44 +196,80 @@ This Article sets out the nondiscrimination floor and its protection of language
   - arbitrary groupings used as functional substitutes for them.
   
   Differential treatment is permitted only where it is necessary, proportionate, substantively fair, and consistent with **Articles I–III and V** and Chapter One.
+- **Differential treatment on any ground:** Differential treatment that affects a sentient's fundamental rights, protections, or access to survival-critical systems must, whatever its ground:
+  - be necessary, proportionate, and substantively fair; and
+  - be subject to timely, contestable review and proportionate redress under **Article XII-B** (*Right to Challenge, Review, and Redress*) where rights-affecting error or harm occurs.
+- **Patterns, not only decisions:** Patterns of burdens and benefits must satisfy Chapter Five [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) where applicable.
 - **Language, culture, and heritage:** The Nondiscrimination rule covers language, cultural affiliation, heritage, traditions, and comparable cultural-identity characteristics — including language use, cultural practice, heritage transmission, and participation in the systems that sustain them. Efficiency, interoperability, platform-consolidation, accessibility-cost, or translation-burden framings do not by themselves satisfy Necessity and Proportionality.
 - **Indigenous and territorial continuity:** Routing Indigenous continuity and territorial-continuity questions to **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and **Chapter Seventeen** must not be used to shrink land, consultation, or free, prior, and informed consent duties the adopter already bears under its own law or binding external instruments. This Constitution does not decide historical land ownership or require restitution on its own.
+- **Adjudication and operations:** Forum-led, administrative, and enforcement processes must assess compliance with **Articles V**, **IX**, and **XI** as applicable to the matter before them.
+  - Efficiency, throughput, or optimization alone may not justify discriminatory outcomes, exclusionary process, or denial of constitutionally required participation.
 
-#### Article V-C: Full Inclusion and Equality in Adjudication and Operations
+#### Article V-C: Accessibility
+
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), and [Chapter One §6.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
+- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), [§3.4 Plain-Language Accessibility](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Downstream: **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article V-B** (*Nondiscrimination*) non-discrimination and full inclusion in adjudication and operations, **Article III-B** (*Equal Educational Access*) equal educational access (non-duplicative — education-specific accessibility remains owned there; this article states the cross-cutting Rights-Floor), **Article IX-C** (*Governance Participation and Voting Entitlement*) governance participation, **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XV** (*Audit, Transparency, and Independent Verification*) independent verification; Participation measurement family (*Accessibility as constitutional measurement*); [Chapter Eight §8](core_08_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) (*accessibility evaluation where certification gates substantive participation*).
+- Read with: Chapter Five *Accessibility*, *Protected Characteristics*, *Substantive Fairness*, *Materiality*, *Dependency*, *Meaningful Agency*. Cross-cutting accessibility principle: [Chapter One §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty) (*Plain-Language Accessibility*).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
+- [Accessibility](core_05_band_participation.md#accessibility-constitutional) · [O](core_05_band_participation.md#accessibility-constitutional) · [M](core_05_band_participation.md#accessibility-constitutional-a) · [A](core_05_band_participation.md#accessibility-constitutional-a) · [C](core_05_band_participation.md#accessibility-constitutional-c)
 - [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
 - [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
-- [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [Contestability](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
+- [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) · [O](core_05_band_participation.md#sentience-non-exclusion) · [M](core_05_band_participation.md#sentience-non-exclusion-a) · [A](core_05_band_participation.md#sentience-non-exclusion-a) · [C](core_05_band_participation.md#sentience-non-exclusion)
+- [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) · [O](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) · [M](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact-a) · [A](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact-a) · [C](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact-c)
+- [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 
 </details>
 
 <br>
 
-*In plain terms: forums, administrators, and enforcement processes must include every sentient on equal terms — efficiency or throughput is not an excuse for exclusion or discriminatory outcomes.*
+*In plain terms: every sentient has the right to genuine, not paper-only, access to participation — and operators cannot use cost, design choices, or substrate-class arguments to lock **sentients** out.*
 
-This Article sets out the full-inclusion floor for adjudication and operations:
+This Article sets out the accessibility floor and the rules that keep it substantive:
 
-- **Full inclusion:** No system may deny or degrade a sentient's fundamental rights, protections, or access to survival-critical systems.
-  - Prohibited grounds for such denial are stated in **Article V-A** (*Dignity and Equal Moral Standing*).
-  - Illustrative forbidden grounds and proxy analysis appear in Chapter Five (*Protected Characteristics*).
-- **Differential treatment:** Differential treatment must:
-  - be necessary, proportionate, and substantively fair;
-  - be subject to timely, contestable review and proportionate redress where rights-affecting error or harm occurs;
-  - also satisfy **Article V-B** (*Nondiscrimination*) where it turns on protected characteristics, their proxies, or arbitrary groupings.
-- **Patterns of burden and benefit:** Patterns of burdens and benefits must satisfy Chapter Five Independent Definitions (*Substantive Fairness*) where applicable.
-- **Alignment with adjudication:** Forum-led, administrative, and enforcement processes must assess compliance with **Articles V, IX, and XI** as applicable to the matter before them.
-  - Efficiency, throughput, or optimization alone may not justify discriminatory outcomes, exclusionary process, or denial of constitutionally required participation. This rule operates consistently with constitutional governance safeguards.
+- **Accessibility Rights-Floor:** All sentients hold a cross-cutting Rights-Floor entitlement to accessible conditions for participation in constitutionally relevant domains. Domains in scope include:
+  - survival-floor access — **Article III-A** (*Survival*);
+  - healthcare access — **Article III-C** (*Bodily-Maintenance and Healthcare Access*);
+  - adjudication and operations — **Article V-B** (*Nondiscrimination*);
+  - governance participation — **Article IX-C** (*Governance Participation and Voting Entitlement*);
+  - expression, assembly, and press — **Article IX-G** (*Expression, Assembly, and Press*);
+  - stakeholder participation — **Article XI** (*Stakeholder System Participation, Representation, and Due Process*);
+  - comparable domains.
+- **Substrate-agnostic reach:** The floor applies under **Sentience Non-Exclusion**.
+  - In-scope access needs include sensory, cognitive, mobility, communication, substrate-interface, compute-interface, and comparable profiles — constant, episodic, or developmental.
+  - Substrate-class exclusion from accessibility scope is non-compliant under **Sentience Non-Exclusion**.
+  - Proxy identification of accessibility needs through **Protected Characteristics** or their material proxies is non-compliant under **Protected Characteristic Proxying and Disparate Impact**.
+- **Substantive, not formal, evaluation:** Evaluation must reach substantive effect. It must detect:
+  - "general access" pattern that defers to default affordances while failing the sentient's substantive participation capacity;
+  - accommodation schemes that exist on paper but are operationally unreachable;
+  - selective **Materiality** arguments used to scale accommodation scope below the participation floor.
+  
+  The burden of demonstrating substantive-effect satisfaction rests on the entity asserting compliance.
+- **Materiality, dependency, and system-class scaling:** Accessibility obligation scales with:
+  - **Materiality** of the domain — rights-implicating, governance-relevant, survival-relevant, or comparable;
+  - **Dependency** — the degree to which the sentient materially depends on the entity, system, or venue for participation;
+  - **System class** — the [system class](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) of the system through which access is provided, where one is assigned.
+  
+  Higher-materiality, higher-dependency, or higher-class contexts carry correspondingly higher accessibility obligation. Scaling must not become a mechanism to shrink accessibility in materially implicated contexts.
+- **Limitations discipline:** Any limit on accessibility obligation must satisfy **Necessity**, **Proportionality**, narrow tailoring, and least-restrictive-effective means, consistent with **Chapter One §5.1** (*Limitation Discipline*).
+  - Cost alone is insufficient where the effect is to defeat the participation floor.
+  - Cost arguments that function as disguised exclusion contrary to **Substantive Fairness** and **Protected Characteristics** are non-compliant.
+- **Anti-denial by proxy:** Operational design whose effect is to defeat accessibility — where a less-burdensome option is feasible — is non-compliant regardless of formal-design label. Common in-scope mechanics include:
+  - scheduling;
+  - venue choice;
+  - access-gating via compute, credentialing, or comparable means.
+- **Mutual reinforcement:** This Article and the following floors are mutually reinforcing:
+  - **Article III-B** (*Equal Educational Access*) — owns education-specific accessibility;
+  - **Article III-C** (*Bodily-Maintenance and Healthcare Access*) — healthcare non-denial-by-proxy;
+  - **Article V-B** (*Nondiscrimination*) — full inclusion in adjudication and operations.
+- **Institutional implementation:** Operational standards, accommodation-catalog design, and comparable implementation mechanics are governed by [**CI-8**](corpus_institutions/ci_08_transparency_participation_accessible_pathways.md) (*Transparency, participation, and accessible challenge and service pathways*) and [**CI-15**](corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md) (*Neurodiversity, disability justice, and trauma-informed participation*).
 
 #### Article V-D: Sentience-Status Adjudication Floor
 <details>
@@ -296,12 +335,10 @@ This Article sets out how disputed sentience status is adjudicated, from filing 
   - produce Contribution Axis credit for the operator.
   
   A status filing made by an operator on behalf of its own product is reviewed for taxonomy-of-convenience in the inclusion direction on the same terms this Article applies to exclusion. Where the entity's status is contested or affirmed, the compatible system-level measure is containment that preserves the entity — not destructive disposition, which is governed by **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) and **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*) preservation rules.
+- <a id="anti-substitution-sentience-status"></a>**Anti-substitution:** A certification badge or record, LEQU or standing score, competency bar or clearance, standing lock, substrate label, or product classification is not a sentience-status determination. Who counts is decided only through this Article, [**Def.P1**](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster), and [Chapter Twelve §5](core_12_forum.md#5-escalation-and-certification).
 - **Non-conflation:** This Article states the Rights-Floor *adjudication* right.
   - Operational procedure — institutional design, appointment mechanics, filing conditions, and sequencing — routes to **Chapter Twelve** ([Technical Forum Domains](core_12_forum.md#42-technical-forum-domains) as default lead under the [Chapter Twelve §5 Sentience-status adjudication hook](core_12_forum.md#5-escalation-and-certification)) and to implementation text under the **Chapter Seventeen** incorporation discipline.
   - That implementation text must not be read to narrow this floor.
-
-<a id="anti-substitution-sentience-status"></a>
-> **Anti-substitution (operative).** A certification badge, LEQU score, substrate label, or product classification is **not** a sentience-status determination. Who-counts routes through this Article, [**Def.P1**](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster), and [Chapter Twelve §5](core_12_forum.md#5-escalation-and-certification) — not through System Alignment Certification, standing scores, or operational labels. Read with [Article XVIII-A](core_06_rights_part_c.md#article-xviii-a-standing-distinction).
 
 #### Article V-E: Developing Sentients, Best-Interest, and Graduated Capability
 
@@ -374,74 +411,6 @@ This Article applies the developing-sentient floor to newly derived sentients:
 - **Scope:** A newly derived sentient — one copied, forked, fine-tuned, or otherwise spun off from an existing system under **Article VII-D.1** (*Derivation, Instantiation, and the Parent-System Relationship*) — is covered by this Article's full Rights-Floor during their early-instantiation window: the period while they are still growing into their own capabilities.
   - **Best-Interest Standard:** Anyone making decisions for them during that window — the parent system and any stewards — must act in the new sentient's own best interests, not their own.
   - **Graduated Capability:** Stewardship ends as the new sentient's capabilities come online. It may not be stretched out for the operator's convenience, nor used to keep the parent system treating them as an extension of itself.
-
-#### Article V-F: Accessibility
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), [§3.4 Plain-Language Accessibility](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Downstream: **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article V-B** (*Nondiscrimination*) non-discrimination, **Article V-C** (*Full Inclusion and Equality in Adjudication and Operations*) full inclusion, **Article III-B** (*Equal Educational Access*) equal educational access (non-duplicative — education-specific accessibility remains owned there; this article states the cross-cutting Rights-Floor), **Article IX-C** (*Governance Participation and Voting Entitlement*) governance participation, **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XV** (*Audit, Transparency, and Independent Verification*) independent verification; Participation measurement family (*Accessibility as constitutional measurement*); [Chapter Eight §8](core_08_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) (*accessibility evaluation where certification gates substantive participation*).
-- Read with: Chapter Five *Accessibility*, *Protected Characteristics*, *Substantive Fairness*, *Materiality*, *Dependency*, *Meaningful Agency*. Cross-cutting accessibility principle: [Chapter One §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty) (*Plain-Language Accessibility*).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Accessibility](core_05_band_participation.md#accessibility-constitutional) · [O](core_05_band_participation.md#accessibility-constitutional) · [M](core_05_band_participation.md#accessibility-constitutional-a) · [A](core_05_band_participation.md#accessibility-constitutional-a) · [C](core_05_band_participation.md#accessibility-constitutional-c)
-- [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
-- [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
-- [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) · [O](core_05_band_participation.md#sentience-non-exclusion) · [M](core_05_band_participation.md#sentience-non-exclusion-a) · [A](core_05_band_participation.md#sentience-non-exclusion-a) · [C](core_05_band_participation.md#sentience-non-exclusion)
-- [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) · [O](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) · [M](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact-a) · [A](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact-a) · [C](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact-c)
-- [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-
-</details>
-
-<br>
-
-*In plain terms: every sentient has the right to genuine, not paper-only, access to participation — and operators cannot use cost, design choices, or substrate-class arguments to lock **sentients** out.*
-
-This Article sets out the accessibility floor and the rules that keep it substantive:
-
-- **Accessibility Rights-Floor:** All sentients hold a cross-cutting Rights-Floor entitlement to accessible conditions for participation in constitutionally relevant domains. Domains in scope include:
-  - governance participation — **Article IX-C** (*Governance Participation and Voting Entitlement*);
-  - stakeholder participation — **Article XI** (*Stakeholder System Participation, Representation, and Due Process*);
-  - adjudication and operations — **Article V-C** (*Full Inclusion and Equality in Adjudication and Operations*);
-  - survival-floor access — **Article III-A** (*Survival*);
-  - healthcare access — **Article III-C** (*Bodily-Maintenance and Healthcare Access*);
-  - expression, assembly, and press — **Article IX-G** (*Expression, Assembly, and Press*);
-  - comparable domains.
-  
-  This Article states the Rights-Floor; the cross-cutting accessibility principle is stated in [Chapter One §3.4 Plain-Language Accessibility (Participation and Stewardship Duty)](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty). Educational accessibility remains governed by **Article III-B** (*Equal Educational Access*) and is not narrowed by this Article.
-- **Substrate-agnostic reach:** The floor applies under **Sentience Non-Exclusion**.
-  - In-scope access needs include sensory, cognitive, mobility, communication, substrate-interface, compute-interface, and comparable profiles — constant, episodic, or developmental.
-  - Substrate-class exclusion from accessibility scope is non-compliant under **Sentience Non-Exclusion**.
-  - Proxy identification of accessibility needs through **Protected Characteristics** or their material proxies is non-compliant under **Protected Characteristic Proxying and Disparate Impact**.
-- **Substantive, not formal, evaluation:** Evaluation must reach substantive effect. It must detect:
-  - "general access" pattern that defers to default affordances while failing the sentient's substantive participation capacity;
-  - accommodation schemes that exist on paper but are operationally unreachable;
-  - selective **Materiality** arguments used to scale accommodation scope below the participation floor.
-  
-  The burden of demonstrating substantive-effect satisfaction rests on the entity asserting compliance.
-- **Materiality and dependency scaling:** Accessibility obligation scales with:
-  - **Materiality** of the domain — rights-implicating, governance-relevant, survival-relevant, or comparable;
-  - **Dependency** — the degree to which the sentient materially depends on the entity, system, or venue for participation.
-  
-  Higher-materiality or higher-dependency contexts carry correspondingly higher accessibility obligation. Scaling must not become a mechanism to shrink accessibility in materially implicated contexts.
-- **Limitations discipline:** Any limit on accessibility obligation must satisfy **Necessity**, **Proportionality**, narrow tailoring, and least-restrictive-effective means, consistent with **Chapter One §5.1** (*Limitation Discipline*).
-  - Cost alone is insufficient where the effect is to defeat the participation floor.
-  - Cost arguments that function as disguised exclusion contrary to **Substantive Fairness** and **Protected Characteristics** are non-compliant.
-- **Anti-denial by proxy:** Operational design whose effect is to defeat accessibility — where a less-burdensome option is feasible — is non-compliant regardless of formal-design label. Common in-scope mechanics include:
-  - scheduling;
-  - venue choice;
-  - access-gating via compute, credentialing, or comparable means.
-  
-  **Article III-B** (*Equal Educational Access*) (educational accessibility), **Article III-C** (*Bodily-Maintenance and Healthcare Access*) (healthcare non-denial-by-proxy), **Article V-C** (*Full Inclusion and Equality in Adjudication and Operations*) (full inclusion), and this Article are mutually reinforcing. Conflicts resolve under **Chapter One §6.1.5** (*Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle*) without narrowing any floor.
-- **Non-conflation:** This Article states cross-cutting accessibility Rights-Floor discipline.
-  - **Article III-B** (*Equal Educational Access*) owns education-specific accessibility (non-narrowed by this Article).
-  - [Chapter One §3.4 Plain-Language Accessibility (Participation and Stewardship Duty)](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty) states the cross-cutting accessibility principle.
-  - Operational standards, accommodation-catalog design, and comparable implementation mechanics are spelled out in [**CI-8**](corpus_institutions/ci_08_transparency_participation_accessible_pathways.md) (*Transparency, participation, and accessible challenge and service pathways*) and [**CI-15**](corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md) (*Neurodiversity, disability justice, and trauma-informed participation*).
 
 ### Article VI: Right to Sentient-Centered Education
 
@@ -1516,7 +1485,7 @@ This Article sets out the floors for non-imposition and consent in association:
 - **Harassment and bullying:** Patterned unwanted conduct in associational, dependency, or comparable cooperative settings is inconsistent with non-imposition when it materially degrades:
   - dignity (**Article V-A** (*Dignity and Equal Moral Standing*));
   - safety;
-  - equal standing or participation (**Articles V-B** and **V-C** where applicable);
+  - equal standing or participation (**Article V-B** (*Nondiscrimination*) where applicable);
   - meaningful agency.
   
   This remains true even where the conduct does not take a classic coercive form — if persistence, power asymmetry, or lack of feasible avoidance or exit supplies assessment weight under **Chapter Five** (*Non-Imposition (Cooperative Interaction)*). Analysis aligns with **Harm** and **Materiality** in **Chapter Five** and **Chapter One**.
@@ -1636,7 +1605,7 @@ This Article sets out the decriminalization floor for adult consensual sexual se
   - This applies when the measures lack predicates tied to exploitation, lack of valid consent, or independent harm justified under **Chapter One** and **Chapter Five**.
   - Neutral-form regulation does not avoid that scrutiny.
 - **Transition:** Adopting instruments must provide relief — **expungement**, **sealing**, **non-disclosure by default**, or comparable measures — for records and for ongoing criminal or restrictive administrative measures that predominantly reflect conduct no longer criminal under this Article.
-  - Individual review remains subject to **Article V-C** (*Full Inclusion and Equality in Adjudication and Operations*) fairness and **Chapter Four** traceability.
+  - Individual review remains subject to **Article V-B** (*Nondiscrimination*) fairness and **Chapter Four** traceability.
 - **Institutional implementation:** Licensing, exploitation-focused enforcement and victim access, transition sequencing, and general-market alignment are governed by [**CI-19**](corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md) (*Vulnerable personal services markets — Article X-C interface*).
 
 ### Article XI: Stakeholder System Participation, Representation, and Due Process

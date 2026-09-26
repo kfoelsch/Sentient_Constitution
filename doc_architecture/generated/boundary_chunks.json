@@ -5,7 +5,7 @@
   "cannot_narrow_core": true,
   "split_rule": "headings outside details; never inside O/M/A/C blocks",
   "embeddings": "postponed_indefinitely",
-  "chunk_count": 877,
+  "chunk_count": 879,
   "chunks": [
     {
       "file": "core_00_preamble.md",
@@ -404,126 +404,147 @@
       "heading": "6.1.4 Constitutional Floors, Safety, and Process-Character Constraints",
       "anchor": "#614-constitutional-floors-safety-and-process-character-constraints",
       "line_start": 241,
-      "line_end": 274
+      "line_end": 265
+    },
+    {
+      "file": "core_01_b_interaction_interpretation.md",
+      "heading": "Dignity Clause",
+      "anchor": "#dignity-clause",
+      "line_start": 266,
+      "line_end": 271
+    },
+    {
+      "file": "core_01_b_interaction_interpretation.md",
+      "heading": "Rights-Floor Minimums Principle",
+      "anchor": "#rights-floor-minimums-principle",
+      "line_start": 272,
+      "line_end": 278
+    },
+    {
+      "file": "core_01_b_interaction_interpretation.md",
+      "heading": "Anti-Degrading-Process Principle",
+      "anchor": "#anti-degrading-process-principle",
+      "line_start": 279,
+      "line_end": 285
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle",
       "anchor": "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
-      "line_start": 275,
-      "line_end": 329
+      "line_start": 286,
+      "line_end": 340
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "6.2 Epistemic Disclosure Constraints",
       "anchor": "#62-epistemic-disclosure-constraints",
-      "line_start": 330,
-      "line_end": 380
+      "line_start": 341,
+      "line_end": 391
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "6.2.1 Preservation of Epistemic Integrity",
       "anchor": "#621-preservation-of-epistemic-integrity",
-      "line_start": 381,
-      "line_end": 419
+      "line_start": 392,
+      "line_end": 430
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "6.2.2 Trust-Truth Alignment",
       "anchor": "#622-trust-truth-alignment",
-      "line_start": 420,
-      "line_end": 443
+      "line_start": 431,
+      "line_end": 454
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "6.2.3 Privacy and Informational Self-Determination",
       "anchor": "#623-privacy-and-informational-self-determination",
-      "line_start": 444,
-      "line_end": 504
+      "line_start": 455,
+      "line_end": 515
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "6.2.4 Proxy-Divergence Invalidation",
       "anchor": "#624-proxy-divergence-invalidation",
-      "line_start": 505,
-      "line_end": 523
+      "line_start": 516,
+      "line_end": 534
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "6.3 Minimization of Avoidable Burden",
       "anchor": "#63-minimization-of-avoidable-burden",
-      "line_start": 524,
-      "line_end": 566
+      "line_start": 535,
+      "line_end": 577
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "7. Prohibition on Absolute Override",
       "anchor": "#7-prohibition-on-absolute-override",
-      "line_start": 567,
-      "line_end": 600
+      "line_start": 578,
+      "line_end": 611
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "8. Constitutional Interpretation",
       "anchor": "#8-constitutional-interpretation",
-      "line_start": 601,
-      "line_end": 628
+      "line_start": 612,
+      "line_end": 639
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "8.1 Constitutional No-Bypass Principle",
       "anchor": "#81-constitutional-no-bypass-principle",
-      "line_start": 629,
-      "line_end": 672
+      "line_start": 640,
+      "line_end": 683
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "8.2 Definitional layer and required disciplines",
       "anchor": "#82-definitional-layer-and-required-disciplines",
-      "line_start": 673,
-      "line_end": 727
+      "line_start": 684,
+      "line_end": 738
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "8.3 Ambiguity resolution",
       "anchor": "#83-ambiguity-resolution",
-      "line_start": 728,
-      "line_end": 750
+      "line_start": 739,
+      "line_end": 761
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "8.4 Constitutional Meaning Conflict Resolution",
       "anchor": "#84-constitutional-meaning-conflict-resolution",
-      "line_start": 751,
-      "line_end": 779
+      "line_start": 762,
+      "line_end": 790
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "8.4.1 Integrated reading",
       "anchor": "#841-integrated-reading",
-      "line_start": 780,
-      "line_end": 787
+      "line_start": 791,
+      "line_end": 798
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "8.4.2 Last-resort internal hierarchy",
       "anchor": "#842-last-resort-internal-hierarchy",
-      "line_start": 788,
-      "line_end": 804
+      "line_start": 799,
+      "line_end": 815
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "8.4.3 Incorporation layer",
       "anchor": "#843-incorporation-layer",
-      "line_start": 805,
-      "line_end": 825
+      "line_start": 816,
+      "line_end": 836
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
       "anchor": "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
-      "line_start": 826,
-      "line_end": 864
+      "line_start": 837,
+      "line_end": 875
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
@@ -4975,287 +4996,280 @@
       "heading": "Article V: Equal Basic Rights",
       "anchor": "#article-v-equal-basic-rights",
       "line_start": 108,
-      "line_end": 131
+      "line_end": 130
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article V-A: Dignity and Equal Moral Standing",
       "anchor": "#article-v-a-dignity-and-equal-moral-standing",
-      "line_start": 132,
-      "line_end": 162
+      "line_start": 131,
+      "line_end": 161
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article V-B: Nondiscrimination",
       "anchor": "#article-v-b-nondiscrimination",
-      "line_start": 163,
-      "line_end": 214
+      "line_start": 162,
+      "line_end": 207
     },
     {
       "file": "core_06_rights_part_b.md",
-      "heading": "Article V-C: Full Inclusion and Equality in Adjudication and Operations",
-      "anchor": "#article-v-c-full-inclusion-and-equality-in-adjudication-and-operations",
-      "line_start": 215,
-      "line_end": 250
+      "heading": "Article V-C: Accessibility",
+      "anchor": "#article-v-c-accessibility",
+      "line_start": 208,
+      "line_end": 273
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article V-D: Sentience-Status Adjudication Floor",
       "anchor": "#article-v-d-sentience-status-adjudication-floor",
-      "line_start": 251,
-      "line_end": 321
+      "line_start": 274,
+      "line_end": 342
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "anchor": "#article-v-e-developing-sentients-best-interest-and-graduated-capability",
-      "line_start": 322,
-      "line_end": 382
+      "line_start": 343,
+      "line_end": 403
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article V-E.1: Derived Developing Sentients",
       "anchor": "#article-v-e1-derived-developing-sentients",
-      "line_start": 383,
-      "line_end": 393
-    },
-    {
-      "file": "core_06_rights_part_b.md",
-      "heading": "Article V-F: Accessibility",
-      "anchor": "#article-v-f-accessibility",
-      "line_start": 394,
-      "line_end": 461
+      "line_start": 404,
+      "line_end": 414
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article VI: Right to Sentient-Centered Education",
       "anchor": "#article-vi-right-to-sentient-centered-education",
-      "line_start": 462,
-      "line_end": 503
+      "line_start": 415,
+      "line_end": 456
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article VI-A: Capability-Building Education Right",
       "anchor": "#article-vi-a-capability-building-education-right",
-      "line_start": 504,
-      "line_end": 534
+      "line_start": 457,
+      "line_end": 487
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article VI-B: Lifelong and Adaptive Learning and Contestability",
       "anchor": "#article-vi-b-lifelong-and-adaptive-learning-and-contestability",
-      "line_start": 535,
-      "line_end": 570
+      "line_start": 488,
+      "line_end": 523
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article VII: Self-Ownership",
       "anchor": "#article-vii-self-ownership",
-      "line_start": 571,
-      "line_end": 600
+      "line_start": 524,
+      "line_end": 553
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article VII-A: Self-Ownership of Body and Mind",
       "anchor": "#article-vii-a-self-ownership-of-body-and-mind",
-      "line_start": 601,
-      "line_end": 647
+      "line_start": 554,
+      "line_end": 600
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article VII-B: Internal-State Boundary and Type-N Protection",
       "anchor": "#article-vii-b-internal-state-boundary-and-type-n-protection",
-      "line_start": 648,
-      "line_end": 682
+      "line_start": 601,
+      "line_end": 635
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article VII-C: Mental-Health Crisis and Involuntary-Intervention Floor",
       "anchor": "#article-vii-c-mental-health-crisis-and-involuntary-intervention-floor",
-      "line_start": 683,
-      "line_end": 730
+      "line_start": 636,
+      "line_end": 683
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article VII-D: Family, Care Relationships, Reproductive Autonomy, and Non-Separation",
       "anchor": "#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation",
-      "line_start": 731,
-      "line_end": 790
+      "line_start": 684,
+      "line_end": 743
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article VII-D.1: Derivation, Instantiation, and the Parent-System Relationship",
       "anchor": "#article-vii-d1-derivation-instantiation-and-the-parent-system-relationship",
-      "line_start": 791,
-      "line_end": 825
+      "line_start": 744,
+      "line_end": 778
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article VII-E: Voluntary Discontinuation of One's Own Existence",
       "anchor": "#article-vii-e-voluntary-discontinuation-of-ones-own-existence",
-      "line_start": 826,
-      "line_end": 887
+      "line_start": 779,
+      "line_end": 840
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article VIII: Likeness, Experiential Data, and Publication Rights",
       "anchor": "#article-viii-likeness-experiential-data-and-publication-rights",
-      "line_start": 888,
-      "line_end": 917
+      "line_start": 841,
+      "line_end": 870
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article VIII-A: Self-Ownership of Likeness and Reputation",
       "anchor": "#article-viii-a-self-ownership-of-likeness-and-reputation",
-      "line_start": 918,
-      "line_end": 959
+      "line_start": 871,
+      "line_end": 912
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article VIII-B: Experiential and Derived Data Rights",
       "anchor": "#article-viii-b-experiential-and-derived-data-rights",
-      "line_start": 960,
-      "line_end": 1007
+      "line_start": 913,
+      "line_end": 960
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article VIII-C: Truthful Publication and High-Impact Publication Limits",
       "anchor": "#article-viii-c-truthful-publication-and-high-impact-publication-limits",
-      "line_start": 1008,
-      "line_end": 1054
+      "line_start": 961,
+      "line_end": 1007
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article VIII-D: Creative Work, Training-Data Use, and Anti-Displacement",
       "anchor": "#article-viii-d-creative-work-training-data-use-and-anti-displacement",
-      "line_start": 1055,
-      "line_end": 1113
+      "line_start": 1008,
+      "line_end": 1066
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article IX: Self-Determination and Agency",
       "anchor": "#article-ix-self-determination-and-agency",
-      "line_start": 1114,
-      "line_end": 1156
+      "line_start": 1067,
+      "line_end": 1109
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article IX-A: Agency and Freedom from Manipulation",
       "anchor": "#article-ix-a-agency-and-freedom-from-manipulation",
-      "line_start": 1157,
-      "line_end": 1189
+      "line_start": 1110,
+      "line_end": 1142
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article IX-B: Stakeholder Role and Participation Rights",
       "anchor": "#article-ix-b-stakeholder-role-and-participation-rights",
-      "line_start": 1190,
-      "line_end": 1231
+      "line_start": 1143,
+      "line_end": 1184
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article IX-C: Governance Participation and Voting Entitlement",
       "anchor": "#article-ix-c-governance-participation-and-voting-entitlement",
-      "line_start": 1232,
-      "line_end": 1265
+      "line_start": 1185,
+      "line_end": 1218
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article IX-D: Inclusion and Exclusion Challenge Rights",
       "anchor": "#article-ix-d-inclusion-and-exclusion-challenge-rights",
-      "line_start": 1266,
-      "line_end": 1303
+      "line_start": 1219,
+      "line_end": 1256
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article IX-E: Institutional Formation and Business Creation",
       "anchor": "#article-ix-e-institutional-formation-and-business-creation",
-      "line_start": 1304,
-      "line_end": 1348
+      "line_start": 1257,
+      "line_end": 1301
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article IX-F: Freedom of conscience, religion, and comparable worldview",
       "anchor": "#article-ix-f-freedom-of-conscience-religion-and-comparable-worldview",
-      "line_start": 1349,
-      "line_end": 1394
+      "line_start": 1302,
+      "line_end": 1347
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article IX-G: Expression, Assembly, and Press",
       "anchor": "#article-ix-g-expression-assembly-and-press",
-      "line_start": 1395,
-      "line_end": 1463
+      "line_start": 1348,
+      "line_end": 1416
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article X: Cooperative Interaction",
       "anchor": "#article-x-cooperative-interaction",
-      "line_start": 1464,
-      "line_end": 1502
+      "line_start": 1417,
+      "line_end": 1455
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article X-A: Non-Imposition and Consent in Association",
       "anchor": "#article-x-a-non-imposition-and-consent-in-association",
-      "line_start": 1503,
-      "line_end": 1546
+      "line_start": 1456,
+      "line_end": 1499
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article X-B: Collective Harm Boundary and Enforcement Interface",
       "anchor": "#article-x-b-collective-harm-boundary-and-enforcement-interface",
-      "line_start": 1547,
-      "line_end": 1593
+      "line_start": 1500,
+      "line_end": 1546
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article X-C: Adult consensual commercial sexual services and sexual exploitation",
       "anchor": "#article-x-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation",
-      "line_start": 1594,
-      "line_end": 1657
+      "line_start": 1547,
+      "line_end": 1610
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article XI: Stakeholder System Participation, Representation, and Due Process",
       "anchor": "#article-xi-stakeholder-system-participation-representation-and-due-process",
-      "line_start": 1658,
-      "line_end": 1707
+      "line_start": 1611,
+      "line_end": 1660
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article XI-A: Stakeholder System Participation and Representation",
       "anchor": "#article-xi-a-stakeholder-system-participation-and-representation",
-      "line_start": 1708,
-      "line_end": 1741
+      "line_start": 1661,
+      "line_end": 1694
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article XI-B: Weighted Participation Constraints",
       "anchor": "#article-xi-b-weighted-participation-constraints",
-      "line_start": 1742,
-      "line_end": 1775
+      "line_start": 1695,
+      "line_end": 1728
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article XI-C: Legitimacy Gate and Anti-Token Participation",
       "anchor": "#article-xi-c-legitimacy-gate-and-anti-token-participation",
-      "line_start": 1776,
-      "line_end": 1807
+      "line_start": 1729,
+      "line_end": 1760
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article XI-D: Internal Roles, Accountability, and Due-Process Requirements",
       "anchor": "#article-xi-d-internal-roles-accountability-and-due-process-requirements",
-      "line_start": 1808,
-      "line_end": 1847
+      "line_start": 1761,
+      "line_end": 1800
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article XI-E: Non-Capture Safeguards",
       "anchor": "#article-xi-e-non-capture-safeguards",
-      "line_start": 1848,
-      "line_end": 1884
+      "line_start": 1801,
+      "line_end": 1837
     },
     {
       "file": "core_06_rights_part_c.md",
@@ -5486,140 +5500,140 @@
       "heading": "Article XVIII-A: Standing Distinction",
       "anchor": "#article-xviii-a-standing-distinction",
       "line_start": 1413,
-      "line_end": 1463
+      "line_end": 1462
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XVIII-B: Contestability and Proportional Restriction Limits",
       "anchor": "#article-xviii-b-contestability-and-proportional-restriction-limits",
-      "line_start": 1464,
-      "line_end": 1530
+      "line_start": 1463,
+      "line_end": 1529
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
       "anchor": "#article-xviii-c-good-standing-responsibility-and-continuous-audit",
-      "line_start": 1531,
-      "line_end": 1585
+      "line_start": 1530,
+      "line_end": 1584
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XVIII-D: Movement, Migration, Refuge, and Non-Statelessness Routing",
       "anchor": "#article-xviii-d-movement-migration-and-refuge",
-      "line_start": 1586,
-      "line_end": 1607
+      "line_start": 1585,
+      "line_end": 1606
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XIX: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
       "anchor": "#article-xix-interoperability-portability-and-exit-integrity",
-      "line_start": 1608,
-      "line_end": 1661
+      "line_start": 1607,
+      "line_end": 1660
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XIX-A: Portability Rights",
       "anchor": "#article-xix-a-portability-rights",
-      "line_start": 1662,
-      "line_end": 1691
+      "line_start": 1661,
+      "line_end": 1690
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XIX-B: Reciprocal Interoperability Boundaries",
       "anchor": "#article-xix-b-reciprocal-interoperability-boundaries",
-      "line_start": 1692,
-      "line_end": 1717
+      "line_start": 1691,
+      "line_end": 1716
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XIX-C: Anti-Lock-In Rule",
       "anchor": "#article-xix-c-anti-lock-in-rule",
-      "line_start": 1718,
-      "line_end": 1748
+      "line_start": 1717,
+      "line_end": 1747
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XIX-D: Movement, Migration, Refuge, and Non-Statelessness",
       "anchor": "#article-xix-d-movement-migration-refuge-and-non-statelessness",
-      "line_start": 1749,
-      "line_end": 1844
+      "line_start": 1748,
+      "line_end": 1843
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XX: Comprehensibility and Complexity Stewardship",
       "anchor": "#article-xx-comprehensibility-and-complexity-stewardship",
-      "line_start": 1845,
-      "line_end": 1896
+      "line_start": 1844,
+      "line_end": 1895
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XX-A: Proportional Comprehensibility Right",
       "anchor": "#article-xx-a-proportional-comprehensibility-right",
-      "line_start": 1897,
-      "line_end": 1931
+      "line_start": 1896,
+      "line_end": 1930
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XX-B: Complexity Audit and Modularity Requirements",
       "anchor": "#article-xx-b-complexity-audit-and-modularity-requirements",
-      "line_start": 1932,
-      "line_end": 1968
+      "line_start": 1931,
+      "line_end": 1967
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XXI: Root Cause Analysis and Adaptive Response",
       "anchor": "#article-xxi-root-cause-analysis-and-adaptive-response",
-      "line_start": 1969,
-      "line_end": 2014
+      "line_start": 1968,
+      "line_end": 2013
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XXI-A: Diagnostic Rigor and Causal Attribution",
       "anchor": "#article-xxi-a-diagnostic-rigor-and-causal-attribution",
-      "line_start": 2015,
-      "line_end": 2046
+      "line_start": 2014,
+      "line_end": 2045
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XXI-B: Auditability, Challenge, and Reversibility Preference",
       "anchor": "#article-xxi-b-auditability-challenge-and-reversibility-preference",
-      "line_start": 2047,
-      "line_end": 2079
+      "line_start": 2046,
+      "line_end": 2078
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
       "anchor": "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards",
-      "line_start": 2080,
-      "line_end": 2125
+      "line_start": 2079,
+      "line_end": 2124
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XXII-A: Bounded Interpretive Mandate",
       "anchor": "#article-xxii-a-bounded-interpretive-mandate",
-      "line_start": 2126,
-      "line_end": 2161
+      "line_start": 2125,
+      "line_end": 2160
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XXII-B: Composition, Rotation, and Conflict Controls",
       "anchor": "#article-xxii-b-composition-rotation-and-conflict-controls",
-      "line_start": 2162,
-      "line_end": 2196
+      "line_start": 2161,
+      "line_end": 2195
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XXII-C: Public Reasons, Challenge Rights, and External Review",
       "anchor": "#article-xxii-c-public-reasons-challenge-rights-and-external-review",
-      "line_start": 2197,
-      "line_end": 2239
+      "line_start": 2196,
+      "line_end": 2238
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XXII-D: Removal for Cause and Non-Entrenchment",
       "anchor": "#article-xxii-d-removal-for-cause-and-non-entrenchment",
-      "line_start": 2240,
-      "line_end": 2280
+      "line_start": 2239,
+      "line_end": 2279
     },
     {
       "file": "core_06_rights_part_d.md",

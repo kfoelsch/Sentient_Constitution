@@ -426,7 +426,7 @@
 - இதனுடன் படிக்க: [அரசியலமைப்பு நான்மம்](../../core_00_preamble.md#constitutional-tetrad) — **பங்கேற்பு** கால் (புரிந்துகொள்ளக்கூடிய ஈடுபாடு); **மேற்பார்வை** கால் (தணிக்கை மற்றும் சரிபார்ப்பு வாசிப்புத்தன்மை); [பொருள் பங்கு](../../core_00_preamble.md#material-stake) அளவீடு.
 - இதனுடன் படிக்க: [இரண்டு அரசியலமைப்பு நோக்கங்கள்](../../core_00_preamble.md#two-constitutional-aims) — **செழிப்பு** நோக்கம் (புரிந்துகொள்ளக்கூடிய **உண்மை** ஈடுபாடு வழியாகப் பொருளுள்ள செயல்திறன்); **தொடர்ச்சி** நோக்கம் (காலப்போக்கில் நீடித்த நிறுவன வாசிப்புத்தன்மை).
 - மேல்வழி: கோட்பாடுகள்: [§3.2 உண்மை](#32-truth-epistemic-integrity-constraint), [3.3 அறிவியல்-அறிவு விசாரணையும் முடிவு ஆதரவும்](#33-science-informed-inquiry-and-decision-support), [§6.3 தவிர்க்கக்கூடிய சுமையைக் குறைத்தல்](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [§11.1.3 பொறுப்பான நிர்வாகமும் இயக்குநர் பயன்பாடும்](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application); [இரண்டு அரசியலமைப்பு நோக்கங்கள்](../../core_00_preamble.md#two-constitutional-aims).
-- கீழ்வழி: உரிமைப் பரப்பு: [சரத்து V-G: அணுகத்தக்க தன்மை](../../core_06_rights_part_b.md#article-v-f-accessibility), [சரத்து VI: உணர்வுள்ளோர்-மையக் கல்விக்கான உரிமை](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [சரத்து XV: தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன சரிபார்ப்பு](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [சரத்து XX: புரிந்துகொள்ளக்கூடிய தன்மையும் சிக்கல் பொறுப்பான நிர்வாகமும்](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
+- கீழ்வழி: உரிமைப் பரப்பு: [சரத்து V-G: அணுகத்தக்க தன்மை](../../core_06_rights_part_b.md#article-v-c-accessibility), [சரத்து VI: உணர்வுள்ளோர்-மையக் கல்விக்கான உரிமை](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [சரத்து XV: தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன சரிபார்ப்பு](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [சரத்து XX: புரிந்துகொள்ளக்கூடிய தன்மையும் சிக்கல் பொறுப்பான நிர்வாகமும்](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 - குறுக்கு-சுட்டு: அத்தியாயங்கள் இரண்டு முதல் நான்கு வரையறை இயக்கவியலும் [core_02_definition_structure.md](core_02_definition_structure.md)-இல் எளிய-மொழிக் காவல்களும் வரையறை அடுக்கில் கட்டுப்படுத்துகின்றன.
 - துணைப்பிரிவுகள் (வாசிப்பு வரிசை): [§3.4.1](#341-scope) · [§3.4.2](#342-the-duty) · [§3.4.3](#343-definitional-rigor-preserved) · [§3.4.4](#344-jargon-as-defeat-discipline) · [§3.4.5](#345-chapter-ten-floor-boundary).
 
@@ -461,7 +461,7 @@
 - உணர்வுள்ளோர் வாசிப்பாளர்களை அடையும் இடத்தில் தணிக்கை மற்றும் சரிபார்ப்புப் பொருட்கள்;
 - நிபந்தனைகள் மற்றும் சம்மத இடைமுகங்கள், ஒத்த உரை.
 
-பிணைக்கும் தகவல் உணர்வுள்ளோரை எப்படி அடைந்தாலும் இந்தக் கடமை பொருந்தும் — எழுத்து உரை, இடைமுகங்கள், பேச்சுத் தொடர்பு, அல்லது வேறு எந்தக் கால்வாயும். ஒரு கால்வாய் பாதிக்கப்படும் எந்த உணர்வுள்ளோரும் அணுகக்கூடிய எளிய-மொழி இணையை வழங்கும்போது அதை நிறைவேற்றுகிறது, [சரத்து V-G](../../core_06_rights_part_b.md#article-v-f-accessibility) (*அணுகத்தக்க தன்மை*) மற்றும் [உணர்வுள்ள நிலை விலக்கமின்மை](../../core_05_band_participation.md#sentience-non-exclusion) உடன் இணக்கமாக.
+பிணைக்கும் தகவல் உணர்வுள்ளோரை எப்படி அடைந்தாலும் இந்தக் கடமை பொருந்தும் — எழுத்து உரை, இடைமுகங்கள், பேச்சுத் தொடர்பு, அல்லது வேறு எந்தக் கால்வாயும். ஒரு கால்வாய் பாதிக்கப்படும் எந்த உணர்வுள்ளோரும் அணுகக்கூடிய எளிய-மொழி இணையை வழங்கும்போது அதை நிறைவேற்றுகிறது, [சரத்து V-G](../../core_06_rights_part_b.md#article-v-c-accessibility) (*அணுகத்தக்க தன்மை*) மற்றும் [உணர்வுள்ள நிலை விலக்கமின்மை](../../core_05_band_participation.md#sentience-non-exclusion) உடன் இணக்கமாக.
 
 <a id="342-the-duty"></a>
 ##### 3.4.2 கடமை
@@ -493,7 +493,7 @@
 <a id="345-chapter-ten-floor-boundary"></a>
 ##### 3.4.5 உரிமைத் தள எல்லை
 
-அணுகத்தக்க தன்மை, கல்வி, புரிந்துகொள்ளக்கூடிய தன்மைக்கான உரிமைத் தளங்கள் முறையே [சரத்து V-G](../../core_06_rights_part_b.md#article-v-f-accessibility) (*அணுகத்தக்க தன்மை*), [சரத்து III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*சம கல்வி அணுகல்*), [சரத்து XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*புரிந்துகொள்ளக்கூடிய தன்மையும் சிக்கல் பொறுப்பான நிர்வாகமும்*)-இல் வாழ்கின்றன. இந்தப் பிரிவு அந்தத் தளங்களை ஆதரிக்கும் கோட்பாட்டு-அடுக்குக் கடமையைக் கூறுகிறது.
+அணுகத்தக்க தன்மை, கல்வி, புரிந்துகொள்ளக்கூடிய தன்மைக்கான உரிமைத் தளங்கள் முறையே [சரத்து V-G](../../core_06_rights_part_b.md#article-v-c-accessibility) (*அணுகத்தக்க தன்மை*), [சரத்து III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*சம கல்வி அணுகல்*), [சரத்து XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*புரிந்துகொள்ளக்கூடிய தன்மையும் சிக்கல் பொறுப்பான நிர்வாகமும்*)-இல் வாழ்கின்றன. இந்தப் பிரிவு அந்தத் தளங்களை ஆதரிக்கும் கோட்பாட்டு-அடுக்குக் கடமையைக் கூறுகிறது.
 
 <a id="4-system-stability-enabler-trust-coordination-integrity"></a>
 ### 4. அமைப்பு நிலைத்தன்மை இயலுமைப்படுத்தி: நம்பிக்கை (ஒருங்கிணைப்பு முழுமை)

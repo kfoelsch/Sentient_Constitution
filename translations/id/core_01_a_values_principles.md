@@ -425,7 +425,7 @@ Batas peka-keselamatan atas publikasi, akses data, pengungkapan metode, atau bah
 - Baca bersama: [Tetrad Konstitusional](../../core_00_preamble.md#constitutional-tetrad) — kaki **partisipasi** (keterlibatan yang dapat dipahami); kaki **pengawasan** (keterbacaan audit dan verifikasi); penskalaan [taruhan material](../../core_00_preamble.md#material-stake).
 - Baca bersama: [Dua Tujuan Konstitusional](../../core_00_preamble.md#two-constitutional-aims) — tujuan **Berkembang** (keagenan bermakna lewat keterlibatan **Kebenaran** yang dapat dipahami); tujuan **Kesinambungan** (keterbacaan kelembagaan yang tahan sepanjang waktu).
 - Hulu: Prinsip: [§3.2 Kebenaran](#32-truth-epistemic-integrity-constraint), [3.3 Penyelidikan Berdasar Sains dan Dukungan Keputusan](#33-science-informed-inquiry-and-decision-support), [§6.3 Minimalisasi Beban yang Dapat Dihindari](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), dan [§11.1.3 Penerapan Pengelolaan Bertanggung Jawab dan Operator](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application); [Dua Tujuan Konstitusional](../../core_00_preamble.md#two-constitutional-aims).
-- Hilir: Permukaan hak: [Pasal V-G: Aksesibilitas](../../core_06_rights_part_b.md#article-v-f-accessibility), [Pasal VI: Hak atas Pendidikan Berpusat pada Makhluk Sadar](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [Pasal XV: Audit, Transparansi, dan Verifikasi Independen](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Pasal XX: Keterpahaman dan Pengelolaan Bertanggung Jawab atas Kompleksitas](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
+- Hilir: Permukaan hak: [Pasal V-G: Aksesibilitas](../../core_06_rights_part_b.md#article-v-c-accessibility), [Pasal VI: Hak atas Pendidikan Berpusat pada Makhluk Sadar](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [Pasal XV: Audit, Transparansi, dan Verifikasi Independen](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Pasal XX: Keterpahaman dan Pengelolaan Bertanggung Jawab atas Kompleksitas](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 - Rujukan silang: Mekanika definisi Bab Dua sampai Empat dan pagar bahasa sederhana di [core_02_definition_structure.md](core_02_definition_structure.md) tetap mengendalikan pada lapisan definisi.
 - Subbagian (urutan baca): [§3.4.1](#341-scope) · [§3.4.2](#342-the-duty) · [§3.4.3](#343-definitional-rigor-preserved) · [§3.4.4](#344-jargon-as-defeat-discipline) · [§3.4.5](#345-chapter-ten-floor-boundary).
 
@@ -460,7 +460,7 @@ Kewajiban ini mencakup instrumen dan komunikasi yang benar-benar dilibatkan makh
 - artefak audit dan verifikasi di mana mereka sampai ke pembaca makhluk sadar;
 - syarat dan antarmuka persetujuan, serta teks sebanding.
 
-Kewajiban ini berlaku bagaimana pun informasi mengikat sampai ke makhluk sadar — teks tertulis, antarmuka, komunikasi lisan, atau saluran lain. Saluran memenuhinya ketika ia menyediakan padanan bahasa sederhana yang dapat diakses setiap makhluk sadar yang terdampak, konsisten dengan [Pasal V-G](../../core_06_rights_part_b.md#article-v-f-accessibility) (*Aksesibilitas*) dan [Non-Pengucilan Kesadaran](../../core_05_band_participation.md#sentience-non-exclusion).
+Kewajiban ini berlaku bagaimana pun informasi mengikat sampai ke makhluk sadar — teks tertulis, antarmuka, komunikasi lisan, atau saluran lain. Saluran memenuhinya ketika ia menyediakan padanan bahasa sederhana yang dapat diakses setiap makhluk sadar yang terdampak, konsisten dengan [Pasal V-G](../../core_06_rights_part_b.md#article-v-c-accessibility) (*Aksesibilitas*) dan [Non-Pengucilan Kesadaran](../../core_05_band_participation.md#sentience-non-exclusion).
 
 <a id="342-the-duty"></a>
 ##### 3.4.2 Kewajiban
@@ -492,7 +492,7 @@ Kebalikannya sama-sama dilarang: bingkai bahasa sederhana yang salah menggambark
 <a id="345-chapter-ten-floor-boundary"></a>
 ##### 3.4.5 Batas Lantai Hak
 
-Lantai Hak untuk aksesibilitas, pendidikan, dan keterpahaman hidup masing-masing di [Pasal V-G](../../core_06_rights_part_b.md#article-v-f-accessibility) (*Aksesibilitas*), [Pasal III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*Akses Pendidikan yang Setara*), dan [Pasal XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*Keterpahaman dan Pengelolaan Bertanggung Jawab atas Kompleksitas*). Bagian ini menyatakan kewajiban lapisan prinsip yang menopang lantai itu.
+Lantai Hak untuk aksesibilitas, pendidikan, dan keterpahaman hidup masing-masing di [Pasal V-G](../../core_06_rights_part_b.md#article-v-c-accessibility) (*Aksesibilitas*), [Pasal III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*Akses Pendidikan yang Setara*), dan [Pasal XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*Keterpahaman dan Pengelolaan Bertanggung Jawab atas Kompleksitas*). Bagian ini menyatakan kewajiban lapisan prinsip yang menopang lantai itu.
 
 <a id="4-system-stability-enabler-trust-coordination-integrity"></a>
 ### 4. Penopang Kestabilan Sistem: Kepercayaan (Integritas Koordinasi)

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-26T04:43:32+00:00",
+  "generated_at": "2026-09-26T07:06:28+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -995,15 +995,16 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 25,
+            "count": 26,
             "anchors": [
               "#article-ix-b-stakeholder-role-and-participation-rights",
               "#article-ix-e-institutional-formation-and-business-creation",
               "#article-ix-g-expression-assembly-and-press",
               "#article-ix-self-determination-and-agency",
+              "#article-v-a-dignity-and-equal-moral-standing",
               "#article-v-b-nondiscrimination",
+              "#article-v-c-accessibility",
               "#article-v-equal-basic-rights",
-              "#article-v-f-accessibility",
               "#article-vi-right-to-sentient-centered-education",
               "#article-vii-self-ownership",
               "#article-viii-likeness-experiential-data-and-publication-rights",
@@ -1306,7 +1307,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 30,
+            "count": 31,
             "anchors": [
               "#consent-constitutional",
               "#consent-constitutional-a",
@@ -1332,7 +1333,7 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 6,
+            "count": 8,
             "anchors": [
               "#article-ix-a-agency-and-freedom-from-manipulation",
               "#article-v-a-dignity-and-equal-moral-standing",
@@ -4978,10 +4979,10 @@
               "#article-ix-self-determination-and-agency",
               "#article-v-a-dignity-and-equal-moral-standing",
               "#article-v-b-nondiscrimination",
+              "#article-v-c-accessibility",
               "#article-v-d-sentience-status-adjudication-floor",
               "#article-v-e-developing-sentients-best-interest-and-graduated-capability",
               "#article-v-e1-derived-developing-sentients",
-              "#article-v-f-accessibility",
               "#article-vi-right-to-sentient-centered-education",
               "#article-vii-a-self-ownership-of-body-and-mind",
               "#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation",
@@ -5544,7 +5545,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 2,
             "anchors": [
-              "#article-v-f-accessibility",
+              "#article-v-c-accessibility",
               "#article-vii-self-ownership"
             ]
           },
@@ -7626,7 +7627,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 82,
+            "count": 78,
             "anchors": [
               "#2-foundational-objective-wellbeing",
               "#21-fairness",
@@ -7640,7 +7641,7 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 36,
+            "count": 40,
             "anchors": [
               "#6-process-conflict-resolution",
               "#61-core-tradeoff-principles",
@@ -7655,6 +7656,7 @@
               "#8-constitutional-interpretation",
               "#81-constitutional-no-bypass-principle",
               "#anti-degrading-process-principle",
+              "#dignity-clause",
               "#rights-floor-minimums-principle"
             ]
           },
@@ -7852,7 +7854,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 522,
+            "count": 511,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -7965,18 +7967,17 @@
           },
           {
             "file": "core_06_rights_part_a.md",
-            "count": 5,
+            "count": 6,
             "anchors": [
+              "#article-i-a-environmental-preconditions-and-ecological-integrity",
               "#article-iii-d-labor-and-economic-floor",
               "#article-iii-survival-and-equal-educational-access"
             ]
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 2,
-            "anchors": [
-              "#article-xviii-a-standing-distinction"
-            ]
+            "count": 1,
+            "anchors": []
           },
           {
             "file": "core_06_rights_part_d.md",
@@ -7987,8 +7988,9 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 11,
+            "count": 12,
             "anchors": [
+              "#2-system-class-evaluation",
               "#3-whole-system-certification-evaluation",
               "#7-nondiscrimination-evaluation",
               "#8-accessibility-evaluation",
@@ -8004,10 +8006,11 @@
           },
           {
             "file": "core_12_forum.md",
-            "count": 8,
+            "count": 9,
             "anchors": [
               "#42-technical-forum-domains",
               "#5-escalation-and-certification",
+              "#chapter-twelve-forums-and-jurisdiction",
               "#dispute-sequencing"
             ]
           },
@@ -8016,6 +8019,13 @@
             "count": 5,
             "anchors": [
               "#41-entitlement-and-eligibility"
+            ]
+          },
+          {
+            "file": "core_17_incorporation.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-seventeen-incorporation-bridge"
             ]
           },
           {
@@ -8084,7 +8094,7 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 45,
+            "count": 46,
             "anchors": [
               "#6-process-conflict-resolution",
               "#61-core-tradeoff-principles",
@@ -8096,7 +8106,8 @@
               "#63-minimization-of-avoidable-burden",
               "#7-prohibition-on-absolute-override",
               "#8-constitutional-interpretation",
-              "#81-constitutional-no-bypass-principle"
+              "#81-constitutional-no-bypass-principle",
+              "#rights-floor-minimums-principle"
             ]
           },
           {
@@ -8338,9 +8349,8 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 146,
+            "count": 145,
             "anchors": [
-              "#animal-life-sentient-life-and-sentience-status-cluster",
               "#coercion-and-manipulation-constitutional",
               "#coercion-and-manipulation-constitutional-a",
               "#coercion-and-manipulation-constitutional-c",
@@ -8445,11 +8455,10 @@
           },
           {
             "file": "core_12_forum.md",
-            "count": 8,
+            "count": 7,
             "anchors": [
               "#2-default-venue-and-primary-stakes",
               "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
-              "#5-escalation-and-certification",
               "#chapter-twelve-forums-and-jurisdiction"
             ]
           },
@@ -8537,7 +8546,7 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 36,
+            "count": 38,
             "anchors": [
               "#6-process-conflict-resolution",
               "#61-core-tradeoff-principles",
@@ -8550,6 +8559,7 @@
               "#81-constitutional-no-bypass-principle",
               "#anti-degrading-process-principle",
               "#default-interim-posture",
+              "#dignity-clause",
               "#rights-floor-minimums-principle"
             ]
           },
@@ -9130,6 +9140,13 @@
             "count": 1,
             "anchors": [
               "#3-non-negotiable-principle-constraints-safety-and-truth"
+            ]
+          },
+          {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 1,
+            "anchors": [
+              "#rights-floor-minimums-principle"
             ]
           },
           {
@@ -13380,7 +13397,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 1,
             "anchors": [
-              "#article-v-f-accessibility"
+              "#article-v-c-accessibility"
             ]
           },
           {

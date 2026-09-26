@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-26T04:43:33+00:00",
+  "generated_at": "2026-09-26T07:06:29+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 15354,
+  "edge_count": 15359,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -1050,6 +1050,14 @@
       "source_file": "core_01_a_values_principles.md",
       "source_header": "2.3 Anti-Degrading Process",
       "source_anchor": "#23-anti-degrading-process",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-v-a-dignity-and-equal-moral-standing",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2.3 Anti-Degrading Process",
+      "source_anchor": "#23-anti-degrading-process",
       "target_file": "core_06_rights_part_d.md",
       "target_anchor": "#article-xxiii-a-justice-objective-and-scope",
       "count": 1
@@ -1331,7 +1339,7 @@
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
       "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-f-accessibility",
+      "target_anchor": "#article-v-c-accessibility",
       "count": 1
     },
     {
@@ -1371,7 +1379,7 @@
       "source_header": "3.4.1 Scope",
       "source_anchor": "#341-scope",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-f-accessibility",
+      "target_anchor": "#article-v-c-accessibility",
       "count": 1
     },
     {
@@ -1459,7 +1467,7 @@
       "source_header": "3.4.5 Rights-Floor Boundary",
       "source_anchor": "#345-rights-floor-boundary",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-f-accessibility",
+      "target_anchor": "#article-v-c-accessibility",
       "count": 1
     },
     {
@@ -5698,17 +5706,9 @@
       "source_file": "core_01_b_interaction_interpretation.md",
       "source_header": "6.1.4 Constitutional Floors, Safety, and Process-Character Constraints",
       "source_anchor": "#614-constitutional-floors-safety-and-process-character-constraints",
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#23-anti-degrading-process",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "6.1.4 Constitutional Floors, Safety, and Process-Character Constraints",
-      "source_anchor": "#614-constitutional-floors-safety-and-process-character-constraints",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#cruelty",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_01_b_interaction_interpretation.md",
@@ -5868,14 +5868,6 @@
       "source_anchor": "#614-constitutional-floors-safety-and-process-character-constraints",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#dignity-and-equal-moral-standing-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "6.1.4 Constitutional Floors, Safety, and Process-Character Constraints",
-      "source_anchor": "#614-constitutional-floors-safety-and-process-character-constraints",
-      "target_file": "core_06_rights_part_d.md",
-      "target_anchor": "#article-xxiii-d-emergency-measures-and-continuation-burden",
       "count": 1
     },
     {
@@ -7312,18 +7304,18 @@
     },
     {
       "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle",
+      "source_header": "Anti-Degrading-Process Principle",
       "source_anchor": "#anti-degrading-process-principle",
-      "target_file": "core_04_burden_traceability_verification.md",
-      "target_anchor": "#4-security-constrained-observability-and-verification-rule",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#23-anti-degrading-process",
       "count": 1
     },
     {
       "source_file": "core_01_b_interaction_interpretation.md",
-      "source_header": "6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle",
+      "source_header": "Anti-Degrading-Process Principle",
       "source_anchor": "#anti-degrading-process-principle",
-      "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#cruelty",
       "count": 1
     },
     {
@@ -7516,6 +7508,54 @@
       "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
       "target_file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
       "target_anchor": "#cjs-31-constitutional-compass-and-cluster-map",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "Dignity Clause",
+      "source_anchor": "#dignity-clause",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#dignity-and-equal-moral-standing",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "Dignity Clause",
+      "source_anchor": "#dignity-clause",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-v-a-dignity-and-equal-moral-standing",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "Rights-Floor Minimums Principle",
+      "source_anchor": "#rights-floor-minimums-principle",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-v-a-dignity-and-equal-moral-standing",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "Rights-Floor Minimums Principle",
+      "source_anchor": "#rights-floor-minimums-principle",
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxiii-d-emergency-measures-and-continuation-burden",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle",
+      "source_anchor": null,
+      "target_file": "core_04_burden_traceability_verification.md",
+      "target_anchor": "#4-security-constrained-observability-and-verification-rule",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards",
       "count": 1
     },
     {
@@ -44347,7 +44387,7 @@
       "source_header": "Accessibility",
       "source_anchor": "#accessibility-constitutional",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-f-accessibility",
+      "target_anchor": "#article-v-c-accessibility",
       "count": 1
     },
     {
@@ -55224,262 +55264,6 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#32-truth-epistemic-integrity-constraint",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#5-freedom-bounded-agency",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#613-proportionality",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#necessity",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#necessity-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#necessity-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#proportionality",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#proportionality-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#proportionality-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#contestability",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#contestability-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#contestability-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#redress-and-remediation-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#redress-and-remediation-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#redress-and-remediation-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#auditability",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#auditability-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#auditability-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#developing-sentient-best-interest-and-graduated-capability-cluster",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#developing-sentient-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#developing-sentient-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#developing-sentient-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#best-interest-standard-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#best-interest-standard-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#best-interest-standard-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#graduated-capability-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#graduated-capability-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#graduated-capability-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#procedural-fairness-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#procedural-fairness-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#procedural-fairness-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-      "source_anchor": "#anti-substitution-sentience-status",
-      "target_file": "core_13_governance.md",
-      "target_anchor": "#41-entitlement-and-eligibility",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
       "source_header": "Article IX-A: Agency and Freedom from Manipulation",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
@@ -56795,7 +56579,31 @@
       "source_header": "Article V-A: Dignity and Equal Moral Standing",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#dignity-clause",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-A: Dignity and Equal Moral Standing",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#7-prohibition-on-absolute-override",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-A: Dignity and Equal Moral Standing",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#rights-floor-minimums-principle",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-A: Dignity and Equal Moral Standing",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#anti-degrading-process-principle",
       "count": 1
     },
     {
@@ -56828,7 +56636,7 @@
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#animal-life-sentient-life-and-sentience-status-cluster",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_06_rights_part_b.md",
@@ -56844,7 +56652,15 @@
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#sentience-non-exclusion",
-      "count": 5
+      "count": 4
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-A: Dignity and Equal Moral Standing",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#substrate-agnostic",
+      "count": 1
     },
     {
       "source_file": "core_06_rights_part_b.md",
@@ -56936,14 +56752,6 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-A: Dignity and Equal Moral Standing",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#substrate-agnostic",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
       "source_header": "Article V-B: Nondiscrimination",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
@@ -57026,9 +56834,65 @@
       "source_file": "core_06_rights_part_b.md",
       "source_header": "Article V-B: Nondiscrimination",
       "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-B: Nondiscrimination",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-B: Nondiscrimination",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-B: Nondiscrimination",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#redress-and-remediation-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-B: Nondiscrimination",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#redress-and-remediation-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-B: Nondiscrimination",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#redress-and-remediation-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-B: Nondiscrimination",
+      "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#language-culture-and-heritage-constitutional",
       "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-B: Nondiscrimination",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#indigenous-continuity-constitutional",
+      "count": 1
     },
     {
       "source_file": "core_06_rights_part_b.md",
@@ -57044,14 +56908,6 @@
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#language-culture-and-heritage-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-B: Nondiscrimination",
-      "source_anchor": null,
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#indigenous-continuity-constitutional",
       "count": 1
     },
     {
@@ -57084,7 +56940,7 @@
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#substantive-fairness-constitutional",
-      "count": 2
+      "count": 3
     },
     {
       "source_file": "core_06_rights_part_b.md",
@@ -57100,6 +56956,30 @@
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#substantive-fairness-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-B: Nondiscrimination",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-B: Nondiscrimination",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-B: Nondiscrimination",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional-c",
       "count": 1
     },
     {
@@ -57122,21 +57002,45 @@
       "source_file": "core_06_rights_part_b.md",
       "source_header": "Article V-B: Nondiscrimination",
       "source_anchor": null,
+      "target_file": "core_06_rights_part_a.md",
+      "target_anchor": "#article-i-a-environmental-preconditions-and-ecological-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-B: Nondiscrimination",
+      "source_anchor": null,
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#7-nondiscrimination-evaluation",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-C: Full Inclusion and Equality in Adjudication and Operations",
+      "source_header": "Article V-B: Nondiscrimination",
       "source_anchor": null,
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#31-safety-harm-constraint",
+      "target_file": "core_12_forum.md",
+      "target_anchor": "#chapter-twelve-forums-and-jurisdiction",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-C: Full Inclusion and Equality in Adjudication and Operations",
+      "source_header": "Article V-B: Nondiscrimination",
+      "source_anchor": null,
+      "target_file": "core_17_incorporation.md",
+      "target_anchor": "#chapter-seventeen-incorporation-bridge",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-C: Accessibility",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#2-foundational-objective-wellbeing",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-C: Accessibility",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#5-freedom-bounded-agency",
@@ -57144,63 +57048,71 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-C: Full Inclusion and Equality in Adjudication and Operations",
+      "source_header": "Article V-C: Accessibility",
       "source_anchor": null,
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#615-rights-collision-decision-test",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#51-limitation-discipline",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-C: Full Inclusion and Equality in Adjudication and Operations",
+      "source_header": "Article V-C: Accessibility",
       "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#contestability",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-C: Full Inclusion and Equality in Adjudication and Operations",
+      "source_header": "Article V-C: Accessibility",
       "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#contestability-a",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-C: Full Inclusion and Equality in Adjudication and Operations",
+      "source_header": "Article V-C: Accessibility",
       "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#contestability-c",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-C: Accessibility",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency-c",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-C: Full Inclusion and Equality in Adjudication and Operations",
+      "source_header": "Article V-C: Accessibility",
       "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#redress-and-remediation-constitutional",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#accessibility-constitutional",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-C: Full Inclusion and Equality in Adjudication and Operations",
+      "source_header": "Article V-C: Accessibility",
       "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#redress-and-remediation-constitutional-a",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#accessibility-constitutional-a",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-C: Full Inclusion and Equality in Adjudication and Operations",
+      "source_header": "Article V-C: Accessibility",
       "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#redress-and-remediation-constitutional-c",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#accessibility-constitutional-c",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-C: Full Inclusion and Equality in Adjudication and Operations",
+      "source_header": "Article V-C: Accessibility",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#protected-characteristics-constitutional",
@@ -57208,7 +57120,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-C: Full Inclusion and Equality in Adjudication and Operations",
+      "source_header": "Article V-C: Accessibility",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#protected-characteristics-constitutional-a",
@@ -57216,7 +57128,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-C: Full Inclusion and Equality in Adjudication and Operations",
+      "source_header": "Article V-C: Accessibility",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#protected-characteristics-constitutional-c",
@@ -57224,7 +57136,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-C: Full Inclusion and Equality in Adjudication and Operations",
+      "source_header": "Article V-C: Accessibility",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#substantive-fairness-constitutional",
@@ -57232,7 +57144,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-C: Full Inclusion and Equality in Adjudication and Operations",
+      "source_header": "Article V-C: Accessibility",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#substantive-fairness-constitutional-a",
@@ -57240,7 +57152,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-C: Full Inclusion and Equality in Adjudication and Operations",
+      "source_header": "Article V-C: Accessibility",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#substantive-fairness-constitutional-c",
@@ -57248,26 +57160,82 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-C: Full Inclusion and Equality in Adjudication and Operations",
+      "source_header": "Article V-C: Accessibility",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
-      "target_anchor": "#procedural-fairness-constitutional",
+      "target_anchor": "#sentience-non-exclusion",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-C: Accessibility",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#sentience-non-exclusion-a",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-C: Full Inclusion and Equality in Adjudication and Operations",
+      "source_header": "Article V-C: Accessibility",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
-      "target_anchor": "#procedural-fairness-constitutional-a",
+      "target_anchor": "#protected-characteristic-proxying-and-disparate-impact",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-C: Full Inclusion and Equality in Adjudication and Operations",
+      "source_header": "Article V-C: Accessibility",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
-      "target_anchor": "#procedural-fairness-constitutional-c",
+      "target_anchor": "#protected-characteristic-proxying-and-disparate-impact-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-C: Accessibility",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#protected-characteristic-proxying-and-disparate-impact-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-C: Accessibility",
+      "source_anchor": null,
+      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#3-whole-system-certification-evaluation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-C: Accessibility",
+      "source_anchor": null,
+      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#8-accessibility-evaluation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-C: Accessibility",
+      "source_anchor": null,
+      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#2-system-class-evaluation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-C: Accessibility",
+      "source_anchor": null,
+      "target_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-C: Accessibility",
+      "source_anchor": null,
+      "target_file": "corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md",
+      "target_anchor": null,
       "count": 1
     },
     {
@@ -57530,14 +57498,6 @@
       "source_file": "core_06_rights_part_b.md",
       "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
-      "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xviii-a-standing-distinction",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
-      "source_anchor": null,
       "target_file": "core_12_forum.md",
       "target_anchor": "#42-technical-forum-domains",
       "count": 3
@@ -57560,15 +57520,15 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Accessibility",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#2-foundational-objective-wellbeing",
+      "target_anchor": "#32-truth-epistemic-integrity-constraint",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Accessibility",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#5-freedom-bounded-agency",
@@ -57576,187 +57536,243 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Accessibility",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": null,
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#51-limitation-discipline",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#613-proportionality",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Accessibility",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": null,
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
-      "count": 4
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Accessibility",
-      "source_anchor": null,
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#dependency",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Accessibility",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": null,
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#dependency-a",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity-a",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Accessibility",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": null,
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#dependency-c",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity-c",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Accessibility",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#accessibility-constitutional",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Accessibility",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#accessibility-constitutional-a",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-a",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Accessibility",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#accessibility-constitutional-c",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-c",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Accessibility",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#protected-characteristics-constitutional",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Accessibility",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#protected-characteristics-constitutional-a",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability-a",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Accessibility",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#protected-characteristics-constitutional-c",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability-c",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Accessibility",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#substantive-fairness-constitutional",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#redress-and-remediation-constitutional",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Accessibility",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#substantive-fairness-constitutional-a",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#redress-and-remediation-constitutional-a",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Accessibility",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#substantive-fairness-constitutional-c",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#redress-and-remediation-constitutional-c",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Accessibility",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#sentience-non-exclusion",
-      "count": 3
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Accessibility",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#sentience-non-exclusion-a",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Accessibility",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#protected-characteristic-proxying-and-disparate-impact",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-a",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Accessibility",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
-      "target_anchor": "#protected-characteristic-proxying-and-disparate-impact-a",
+      "target_anchor": "#developing-sentient-best-interest-and-graduated-capability-cluster",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Accessibility",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
-      "target_anchor": "#protected-characteristic-proxying-and-disparate-impact-c",
+      "target_anchor": "#developing-sentient-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#developing-sentient-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#developing-sentient-constitutional-c",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Accessibility",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": null,
-      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#3-whole-system-certification-evaluation",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#best-interest-standard-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#best-interest-standard-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#best-interest-standard-constitutional-c",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Accessibility",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": null,
-      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#8-accessibility-evaluation",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#graduated-capability-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#graduated-capability-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#graduated-capability-constitutional-c",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Accessibility",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": null,
-      "target_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
-      "target_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional-c",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Accessibility",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": null,
-      "target_file": "corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md",
-      "target_anchor": null,
-      "count": 1
+      "target_file": "core_13_governance.md",
+      "target_anchor": "#41-entitlement-and-eligibility",
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_b.md",
@@ -57780,6 +57796,14 @@
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#2-foundational-objective-wellbeing",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V: Equal Basic Rights",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#dignity-clause",
       "count": 1
     },
     {
@@ -61924,390 +61948,6 @@
       "source_anchor": null,
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#62-how-the-full-chain-fits-together",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#constitutional-tetrad",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#5-freedom-bounded-agency",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#61-core-tradeoff-principles",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#615-rights-collision-decision-test",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#contestability",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#contestability-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#contestability-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#proportionality",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#proportionality-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#proportionality-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#necessity",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#necessity-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#necessity-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#violation-nature-chapter-six",
-      "count": 3
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#violation-nature-chapter-six-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#violation-nature-chapter-six-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#competency-bar",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#competency-bar-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#competency-bar-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#competency-clearance",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#competency-clearance-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#competency-clearance-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#standing-lock",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#standing-lock-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#standing-lock-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#redress-and-remediation-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#redress-and-remediation-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#redress-and-remediation-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#contribution-nature",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#contribution-nature-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#contribution-nature-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#system-alignment-certification-constitutional",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#auditability",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#auditability-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#auditability-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#procedural-fairness-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#procedural-fairness-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#procedural-fairness-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#2-question-1--what-happened",
-      "count": 3
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#36-forum-boundary",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#31-minimum-record-contents",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#62-competency-bars-and-clearances",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-prevention--general-standing-locks",
-      "count": 3
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#8-restoration-and-reassessment",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": "#anti-substitution-sentience-status-xviii",
-      "target_file": "core_12_forum.md",
-      "target_anchor": "#chapter-twelve-forums-and-jurisdiction",
       "count": 1
     },
     {
@@ -68698,14 +68338,6 @@
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XVIII-A: Standing Distinction",
       "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#animal-life-sentient-life-and-sentience-status-cluster",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-A: Standing Distinction",
-      "source_anchor": null,
       "target_file": "core_09_standing_assessment.md",
       "target_anchor": "#verified-inputs-for-standing",
       "count": 1
@@ -68752,10 +68384,394 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-A: Standing Distinction",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#62-how-the-full-chain-fits-together",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#constitutional-tetrad",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#5-freedom-bounded-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#61-core-tradeoff-principles",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#615-rights-collision-decision-test",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#rights-floor-minimums-principle",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#violation-nature-chapter-six",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#violation-nature-chapter-six-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#violation-nature-chapter-six-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#competency-bar",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#competency-bar-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#competency-bar-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#competency-clearance",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#competency-clearance-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#competency-clearance-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#standing-lock",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#standing-lock-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#standing-lock-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#redress-and-remediation-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#redress-and-remediation-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#redress-and-remediation-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contribution-nature",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contribution-nature-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contribution-nature-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-alignment-certification-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_09_standing_assessment.md",
+      "target_anchor": "#2-question-1--what-happened",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_09_standing_assessment.md",
+      "target_anchor": "#36-forum-boundary",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_09_standing_assessment.md",
+      "target_anchor": "#31-minimum-record-contents",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_09_standing_assessment.md",
+      "target_anchor": "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_10_standing_integration.md",
+      "target_anchor": "#62-competency-bars-and-clearances",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_10_standing_integration.md",
+      "target_anchor": "#42-prevention--general-standing-locks",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_10_standing_integration.md",
+      "target_anchor": "#8-restoration-and-reassessment",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
       "source_anchor": null,
       "target_file": "core_12_forum.md",
-      "target_anchor": "#5-escalation-and-certification",
+      "target_anchor": "#chapter-twelve-forums-and-jurisdiction",
       "count": 1
     },
     {
@@ -70451,6 +70467,14 @@
       "source_header": "Article XXVI-A: Phased Adoption and Rights-Floor Continuity",
       "source_anchor": "#article-xxvi-a-phased-adoption-and-rightsfloor-minimums-continuity",
       "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#rights-floor-minimums-principle",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXVI-A: Phased Adoption and Rights-Floor Continuity",
+      "source_anchor": "#article-xxvi-a-phased-adoption-and-rightsfloor-minimums-continuity",
+      "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#default-interim-posture",
       "count": 1
     },
@@ -71156,6 +71180,14 @@
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIII-C: Least-Restrictive and Time-Bounded Rule",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#dignity-clause",
       "count": 1
     },
     {
@@ -73435,7 +73467,7 @@
       "source_header": "3.2 Accessibility Under Sentience Non-Exclusion",
       "source_anchor": "#32-accessibility-under-sentience-non-exclusion",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-f-accessibility",
+      "target_anchor": "#article-v-c-accessibility",
       "count": 1
     },
     {
@@ -84308,6 +84340,14 @@
       "source_anchor": null,
       "target_file": "core_14_non_regression.md",
       "target_anchor": "#chapter-fourteen-non-regression-and-substantive-amendment-validity",
+      "count": 1
+    },
+    {
+      "source_file": "core_15_expansion_supremacy.md",
+      "source_header": "2. Continuity of Supremacy and Challenge Rights During Amendment",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#rights-floor-minimums-principle",
       "count": 1
     },
     {
@@ -120307,7 +120347,7 @@
       "source_header": "CS-5.12 In-scope catalog",
       "source_anchor": "#cs-5-12-in-scope-catalog",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-f-accessibility",
+      "target_anchor": "#article-v-c-accessibility",
       "count": 1
     },
     {

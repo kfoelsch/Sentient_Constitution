@@ -84,7 +84,7 @@ The rows below are **pointers**. Operative detail stays on the cited home. Class
 | Crisis communications for high-impact systems | [CS-5 §8](cs_05_design_testing_verification_deployment.md#cs-5-8-governance-continuity-crisis-communications-and-exercises-high-impact-systems) | Analog may satisfy |
 | Tamper-evident offline audit chains | [CS-12.5](cs_12_decentralized_continuity_partition_resilience.md#cs-12-5-offline-audit-integrity-and-reconciliation) | Machine-usable chain required |
 | Contest post-sale access or subscription cutoffs | [Article II-D](../core_06_rights_part_a.md#article-ii-d-post-sale-access-and-subscription-integrity); when the cutoff is digital self-service, **Article XII-B** plus **CJS-3.17** / **CI-8.3** | Do not invent a second challenge home |
-| Accessibility accommodations in participation domains | [Article V-F](../core_06_rights_part_b.md#article-v-f-accessibility); **CJS-3.8**; **CI-15**; **CF-11** | Parity on whatever channel the domain already uses — not a separate product |
+| Accessibility accommodations in participation domains | [Article V-C](../core_06_rights_part_b.md#article-v-c-accessibility); **CJS-3.8**; **CI-15**; **CF-11** | Parity on whatever channel the domain already uses — not a separate product |
 
 Each Class A, Class B, and Class C system must publish its own Type O floor. This file does **not** require a federated directory of all in-scope systems.
 

@@ -426,7 +426,7 @@
 - सोबत वाचा: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **सहभाग** पाया (समझने योग्य संलग्नता); **देखरेख** पाया (लेखापरीक्षण आणि सत्यापन पठनीयता); [भौतिक दाव](core_00_preamble.md#material-stake) प्रमाणन.
 - सोबत वाचा: [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) — **समुन्नती** उद्दिष्ट (बोधगम्य **सत्य** संलग्नता चे माध्यम पासून अर्थपूर्ण कर्तृत्व); **सातत्य** उद्दिष्ट (समय सोबत टिकाऊ संस्थागत पठनीयता).
 - वरून: तत्त्व: [§3.2 सत्य](#32-truth-epistemic-integrity-constraint), [3.3 विज्ञान-सूचित जाँच आणि निर्णय सहायता](#33-science-informed-inquiry-and-decision-support), [§6.3 टाळता येणारा भार चा न्यूनीकरण](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), आणि [§11.1.3 उत्तरदायी व्यवस्थापन आणि संचालक अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application); [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims).
-- पुढे: अधिकार-सतह: [अनुच्छेद V-G: सुलभता](../../core_06_rights_part_b.md#article-v-f-accessibility), [अनुच्छेद VI: संज्ञ-केंद्रित शिक्षा चा अधिकार](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [अनुच्छेद XV: लेखापरीक्षण, पारदर्शिता आणि स्वतंत्र सत्यापन](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [अनुच्छेद XX: बोधगम्यता आणि जटिलता चा उत्तरदायी व्यवस्थापन](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
+- पुढे: अधिकार-सतह: [अनुच्छेद V-G: सुलभता](../../core_06_rights_part_b.md#article-v-c-accessibility), [अनुच्छेद VI: संज्ञ-केंद्रित शिक्षा चा अधिकार](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [अनुच्छेद XV: लेखापरीक्षण, पारदर्शिता आणि स्वतंत्र सत्यापन](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [अनुच्छेद XX: बोधगम्यता आणि जटिलता चा उत्तरदायी व्यवस्थापन](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 - प्रति-संदर्भ: अध्याय दोन ते चार परिभाषा यांत्रिकी आणि सोप्या-भाषा रक्षक [core_02_definition_structure.md](core_02_definition_structure.md) मध्ये परिभाषा परत वर नियंत्रित राहतात.
 - उपविभाग (वाचन क्रम): [§3.4.1](#341-scope) · [§3.4.2](#342-the-duty) · [§3.4.3](#343-definitional-rigor-preserved) · [§3.4.4](#344-jargon-as-defeat-discipline) · [§3.4.5](#345-chapter-ten-floor-boundary).
 
@@ -461,7 +461,7 @@
 - लेखापरीक्षण आणि सत्यापन कृतियाँ जिथे ते संज्ञ पाठकों पर्यंत पोहोचें;
 - शर्तें आणि सहमति इंटरफ़ेस, तसेच तुलनीय पाठ.
 
-हे कर्तव्य लागू होता आहे चाहे बंधनकारक माहिती संज्ञ प्राण्यां पर्यंत कसे पोहोचे — लिखित पाठ, इंटरफ़ेस, मौखिक संचार, या कोणतेही अन्य माध्यम. कोणतेही माध्यम हे तेव्हा पूरा करतो जेव्हा तो सोप्या-भाषा समकक्ष दे ज्याला कोणतेही सुद्धा प्रभावित संज्ञ प्राणी पा सके, [अनुच्छेद V-G](../../core_06_rights_part_b.md#article-v-f-accessibility) (*सुलभता*) आणि [संज्ञता गैर-बहिष्कार](../../core_05_band_participation.md#sentience-non-exclusion) पासून सुसंगत.
+हे कर्तव्य लागू होता आहे चाहे बंधनकारक माहिती संज्ञ प्राण्यां पर्यंत कसे पोहोचे — लिखित पाठ, इंटरफ़ेस, मौखिक संचार, या कोणतेही अन्य माध्यम. कोणतेही माध्यम हे तेव्हा पूरा करतो जेव्हा तो सोप्या-भाषा समकक्ष दे ज्याला कोणतेही सुद्धा प्रभावित संज्ञ प्राणी पा सके, [अनुच्छेद V-G](../../core_06_rights_part_b.md#article-v-c-accessibility) (*सुलभता*) आणि [संज्ञता गैर-बहिष्कार](../../core_05_band_participation.md#sentience-non-exclusion) पासून सुसंगत.
 
 <a id="342-the-duty"></a>
 ##### 3.4.2 कर्तव्य
@@ -493,7 +493,7 @@
 <a id="345-chapter-ten-floor-boundary"></a>
 ##### 3.4.5 अधिकार-तळ सीमा
 
-सुलभता, शिक्षा आणि बोधगम्यता चे अधिकार-तळ क्रमशः [अनुच्छेद V-G](../../core_06_rights_part_b.md#article-v-f-accessibility) (*सुलभता*), [अनुच्छेद III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*समान शैक्षिक पोहोच*), आणि [अनुच्छेद XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*बोधगम्यता आणि जटिलता चा उत्तरदायी व्यवस्थापन*) मध्ये राहतात. हा विभाग तत्त्व-परत कर्तव्य सांगतो जो त्या तलों ला सहारा देता आहे.
+सुलभता, शिक्षा आणि बोधगम्यता चे अधिकार-तळ क्रमशः [अनुच्छेद V-G](../../core_06_rights_part_b.md#article-v-c-accessibility) (*सुलभता*), [अनुच्छेद III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*समान शैक्षिक पोहोच*), आणि [अनुच्छेद XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*बोधगम्यता आणि जटिलता चा उत्तरदायी व्यवस्थापन*) मध्ये राहतात. हा विभाग तत्त्व-परत कर्तव्य सांगतो जो त्या तलों ला सहारा देता आहे.
 
 <a id="4-system-stability-enabler-trust-coordination-integrity"></a>
 ### 4. प्रणाली स्थिरता समर्थक: विश्वास (समन्वय अखंडता)

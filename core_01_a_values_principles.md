@@ -519,7 +519,7 @@ Safety-sensitive limits on publication, data access, method disclosure, or repli
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (understandable engagement); **oversight** leg (audit and verification readability); [material stake](core_00_preamble.md#material-stake) scaling.
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** aim (meaningful agency through comprehensible **Truth** engagement); **Continuity** aim (durable institutional legibility over time).
 - Upstream: Principles: [§3.2 Truth](#32-truth-epistemic-integrity-constraint), [3.3 Science-Informed Inquiry and Decision Support](#33-science-informed-inquiry-and-decision-support), [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), and [§12.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1213-stewardship-and-operator-application); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
-- Downstream: Rights surface: [Article V-F: Accessibility](core_06_rights_part_b.md#article-v-f-accessibility), [Article VI: Right to Sentient-Centered Education](core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [Article XV: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XX: Comprehensibility and Complexity Stewardship](core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
+- Downstream: Rights surface: [Article V-C: Accessibility](core_06_rights_part_b.md#article-v-c-accessibility), [Article VI: Right to Sentient-Centered Education](core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [Article XV: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XX: Comprehensibility and Complexity Stewardship](core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 - Cross-reference: Chapter Two through Four definition mechanics and plain-language guardrails in [core_02_definition_structure.md](core_02_definition_structure.md) remain controlling at the definition layer.
 - Subsections (reading order): [§3.4.1](#341-scope) · [§3.4.2](#342-the-duty) · [§3.4.3](#343-definitional-rigor-preserved) · [§3.4.4](#344-jargon-as-defeat-discipline) · [§3.4.5](#345-rights-floor-boundary).
 
@@ -554,7 +554,7 @@ This duty covers instruments and communications that sentients actually engage w
 - audit and verification artifacts where they reach sentient readers;
 - terms and consent interfaces, and comparable text.
 
-This duty applies however binding information reaches sentients — written text, interfaces, spoken communication, or any other channel. A channel satisfies it when it provides a plain-language equivalent that any affected sentient can access, consistent with [Article V-F](core_06_rights_part_b.md#article-v-f-accessibility) (*Accessibility*) and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+This duty applies however binding information reaches sentients — written text, interfaces, spoken communication, or any other channel. A channel satisfies it when it provides a plain-language equivalent that any affected sentient can access, consistent with [Article V-C](core_06_rights_part_b.md#article-v-c-accessibility) (*Accessibility*) and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 
 <a id="342-the-duty"></a>
 ##### 3.4.2 The Duty
@@ -586,7 +586,7 @@ The reverse is equally prohibited: plain-language framing that misrepresents wha
 <a id="345-rights-floor-boundary"></a>
 ##### 3.4.5 Rights-Floor Boundary
 
-The Rights Floors for accessibility, education, and comprehensibility live in [Article V-F](core_06_rights_part_b.md#article-v-f-accessibility) (*Accessibility*), [Article III-B](core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*Equal Educational Access*), and [Article XX](core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*) respectively. This section states the principle-layer duty that supports those floors.
+The Rights Floors for accessibility, education, and comprehensibility live in [Article V-C](core_06_rights_part_b.md#article-v-c-accessibility) (*Accessibility*), [Article III-B](core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*Equal Educational Access*), and [Article XX](core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*) respectively. This section states the principle-layer duty that supports those floors.
 
 ### 4. System Stability Enabler: Trust (Coordination Integrity)
 <details>

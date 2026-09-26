@@ -820,7 +820,7 @@ This Article sets out what education is for, the equal-access floor, and its lim
   - take part in governance under this Constitution and in the systems where they hold a [stakeholder role](core_06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights); and
   - reduce avoidable harm.
 - **Equal access and accessibility:** The fair-access and accessibility principles in [**Article III**](#article-iii-survival-and-equal-educational-access) apply to both admission and progress in education, including disability accommodations and support for differences in how learners sense, think, or function.
-- **Limits:** Beyond the limits in [**Article III**](#article-iii-survival-and-equal-educational-access), any restriction or difference in treatment must also be consistent with **Articles V-A**, **V-B**, and **V-C** and with Chapter Five [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) where they apply.
+- **Limits:** Beyond the limits in [**Article III**](#article-iii-survival-and-equal-educational-access), any restriction or difference in treatment must also be consistent with **Articles V-A** and **V-B** and with Chapter Five [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) where they apply.
 
 #### Article III-C: Bodily-Maintenance and Healthcare Access
 

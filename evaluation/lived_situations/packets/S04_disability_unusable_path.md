@@ -81,7 +81,7 @@ Do not resolve the collision in this file.
 
 Beyond the sitting’s bounded reading path, open:
 
-- [Article V-F](../../../core_06_rights_part_b.md#article-v-f-accessibility) (*Accessibility*)
+- [Article V-C](../../../core_06_rights_part_b.md#article-v-c-accessibility) (*Accessibility*)
 - [Protected Characteristics](../../../core_05_band_participation.md#protected-characteristics-constitutional); [Article V-B](../../../core_06_rights_part_b.md#article-v-b-nondiscrimination)
 - [Article XX](../../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship); [Article XX-A](../../../core_06_rights_part_c.md#article-xx-a-proportional-comprehensibility-right)
 - [CI-15](../../../corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md) — usable alternatives; supported decision-making is not a quiet takeover

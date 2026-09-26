@@ -426,7 +426,7 @@ Giới hạn nhạy an toàn trên công bố, lối vào dữ liệu, công b�
 - Đọc cùng: [Tứ diện Hiến pháp](../../core_00_preamble.md#constitutional-tetrad) — trụ **tham gia** (tham gia hiểu được); trụ **giám sát** (khả năng đọc kiểm toán và xác minh); chia tỷ lệ theo [lợi hại vật chất](../../core_00_preamble.md#material-stake).
 - Đọc cùng: [Hai Mục tiêu Hiến pháp](../../core_00_preamble.md#two-constitutional-aims) — mục tiêu **Hưng thịnh** (quyền năng có ý nghĩa qua tham gia **Sự thật** hiểu được); mục tiêu **Liên tục** (tính đọc được thể chế bền theo thời gian).
 - Thượng nguồn: Nguyên tắc: [§3.2 Sự thật](#32-truth-epistemic-integrity-constraint), [3.3 Tra cứu có thông tin khoa học và hỗ trợ quyết định](#33-science-informed-inquiry-and-decision-support), [§6.3 Giảm thiểu gánh nặng có thể tránh](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), và [§11.1.3 Áp dụng quản trị có trách nhiệm và người vận hành](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application); [Hai Mục tiêu Hiến pháp](../../core_00_preamble.md#two-constitutional-aims).
-- Hạ nguồn: Bề mặt quyền: [Điều V-G: Khả năng tiếp cận](../../core_06_rights_part_b.md#article-v-f-accessibility), [Điều VI: Quyền giáo dục lấy hữu tri làm trung tâm](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [Điều XV: Kiểm toán, minh bạch, và xác minh độc lập](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Điều XX: Quản trị có trách nhiệm đối với khả năng hiểu và độ phức tạp](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
+- Hạ nguồn: Bề mặt quyền: [Điều V-G: Khả năng tiếp cận](../../core_06_rights_part_b.md#article-v-c-accessibility), [Điều VI: Quyền giáo dục lấy hữu tri làm trung tâm](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [Điều XV: Kiểm toán, minh bạch, và xác minh độc lập](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Điều XX: Quản trị có trách nhiệm đối với khả năng hiểu và độ phức tạp](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 - Đối chiếu: Cơ chế định nghĩa Chương Hai đến Bốn và lan can ngôn ngữ thường ở [core_02_definition_structure.md](core_02_definition_structure.md) vẫn kiểm soát ở tầng định nghĩa.
 - Các tiểu mục (thứ tự đọc): [§3.4.1](#341-scope) · [§3.4.2](#342-the-duty) · [§3.4.3](#343-definitional-rigor-preserved) · [§3.4.4](#344-jargon-as-defeat-discipline) · [§3.4.5](#345-chapter-ten-floor-boundary).
 
@@ -461,7 +461,7 @@ Nghĩa vụ này phủ văn kiện và thông tin liên lạc mà các hữu tri
 - hiện vật kiểm toán và xác minh nơi chúng tới người đọc hữu tri;
 - điều khoản và giao diện đồng thuận, và văn bản tương đương.
 
-Nghĩa vụ này áp dụng dù thông tin ràng buộc tới các hữu tri thế nào — văn bản viết, giao diện, giao tiếp nói, hoặc kênh khác. Một kênh thỏa nó khi cung cấp tương đương ngôn ngữ thường mà mọi hữu tri bị ảnh hưởng có thể tiếp cận, nhất quán với [Điều V-G](../../core_06_rights_part_b.md#article-v-f-accessibility) (*Khả năng tiếp cận*) và [Không loại trừ hữu tri](../../core_05_band_participation.md#sentience-non-exclusion).
+Nghĩa vụ này áp dụng dù thông tin ràng buộc tới các hữu tri thế nào — văn bản viết, giao diện, giao tiếp nói, hoặc kênh khác. Một kênh thỏa nó khi cung cấp tương đương ngôn ngữ thường mà mọi hữu tri bị ảnh hưởng có thể tiếp cận, nhất quán với [Điều V-G](../../core_06_rights_part_b.md#article-v-c-accessibility) (*Khả năng tiếp cận*) và [Không loại trừ hữu tri](../../core_05_band_participation.md#sentience-non-exclusion).
 
 <a id="342-the-duty"></a>
 ##### 3.4.2 Nghĩa vụ
@@ -493,7 +493,7 @@ Chiếu ngược cũng bị cấm: khung ngôn ngữ thường trình bày sai �
 <a id="345-chapter-ten-floor-boundary"></a>
 ##### 3.4.5 Biên Sàn Quyền
 
-Các Sàn Quyền cho khả năng tiếp cận, giáo dục, và khả năng hiểu sống ở [Điều V-G](../../core_06_rights_part_b.md#article-v-f-accessibility) (*Khả năng tiếp cận*), [Điều III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*Lối vào giáo dục bình đẳng*), và [Điều XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*Quản trị có trách nhiệm đối với khả năng hiểu và độ phức tạp*) tương ứng. Mục này nêu nghĩa vụ tầng nguyên tắc nâng đỡ những sàn đó.
+Các Sàn Quyền cho khả năng tiếp cận, giáo dục, và khả năng hiểu sống ở [Điều V-G](../../core_06_rights_part_b.md#article-v-c-accessibility) (*Khả năng tiếp cận*), [Điều III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*Lối vào giáo dục bình đẳng*), và [Điều XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*Quản trị có trách nhiệm đối với khả năng hiểu và độ phức tạp*) tương ứng. Mục này nêu nghĩa vụ tầng nguyên tắc nâng đỡ những sàn đó.
 
 <a id="4-system-stability-enabler-trust-coordination-integrity"></a>
 ### 4. Bộ kích hoạt ổn định hệ thống: Tin cậy (Tính toàn vẹn phối hợp)

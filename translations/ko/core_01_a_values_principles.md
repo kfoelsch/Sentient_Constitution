@@ -426,7 +426,7 @@
 - 함께 읽기: [헌법 사원(四元)](../../core_00_preamble.md#constitutional-tetrad) — **참여** 다리(이해할 수 있는 참여); **감독** 다리(감사와 확인의 가독성); [실질 이해관계](../../core_00_preamble.md#material-stake) 세기 조절.
 - 함께 읽기: [두 헌법 목적](../../core_00_preamble.md#two-constitutional-aims) — **번영** 목적(이해할 수 있는 **진실** 참여를 통한 의미 있는 행위주체성); **연속** 목적(시간에 걸친 제도의 오래가는 가독성).
 - 상류: 원칙: [§3.2 진실](#32-truth-epistemic-integrity-constraint), [3.3 과학에 정통한 탐구와 결정 지원](#33-science-informed-inquiry-and-decision-support), [§6.3 피할 수 있는 부담의 최소화](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [§11.1.3 책임 있는 관리와 운영자 적용](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application); [두 헌법 목적](../../core_00_preamble.md#two-constitutional-aims).
-- 하류: 권리 면: [제 V-G조: 접근성](../../core_06_rights_part_b.md#article-v-f-accessibility), [제 VI조: 감지자 중심 교육에 대한 권리](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [제 XV조: 감사, 투명, 독립 확인](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [제 XX조: 이해 가능성과 복잡성의 책임 있는 관리](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
+- 하류: 권리 면: [제 V-G조: 접근성](../../core_06_rights_part_b.md#article-v-c-accessibility), [제 VI조: 감지자 중심 교육에 대한 권리](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [제 XV조: 감사, 투명, 독립 확인](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [제 XX조: 이해 가능성과 복잡성의 책임 있는 관리](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 - 교차 참조: 제2장부터 제4장의 정의 기계와 [core_02_definition_structure.md](core_02_definition_structure.md)의 쉬운 말 난간은 정의 층에서 여전히 통할한다.
 - 하위절(읽기 순서): [§3.4.1](#341-scope) · [§3.4.2](#342-the-duty) · [§3.4.3](#343-definitional-rigor-preserved) · [§3.4.4](#344-jargon-as-defeat-discipline) · [§3.4.5](#345-chapter-ten-floor-boundary).
 
@@ -461,7 +461,7 @@
 - 감지자 독자에게 닿는 감사와 확인 산출물;
 - 약관과 동의 인터페이스, 비슷한 텍스트.
 
-이 의무는 구속 정보가 감지자에게 어떻게 닿든 적용된다 — 서면 텍스트, 인터페이스, 구두 소통, 그 밖의 어떤 채널이든. 채널이 영향받는 어떤 감지자든 닿을 수 있는 쉬운 말 등가물을 제공하고, [제 V-G조](../../core_06_rights_part_b.md#article-v-f-accessibility)(*접근성*) 및 [감지자성 비배제](../../core_05_band_participation.md#sentience-non-exclusion)와 일관하면, 그 채널은 이 의무를 충족한다.
+이 의무는 구속 정보가 감지자에게 어떻게 닿든 적용된다 — 서면 텍스트, 인터페이스, 구두 소통, 그 밖의 어떤 채널이든. 채널이 영향받는 어떤 감지자든 닿을 수 있는 쉬운 말 등가물을 제공하고, [제 V-G조](../../core_06_rights_part_b.md#article-v-c-accessibility)(*접근성*) 및 [감지자성 비배제](../../core_05_band_participation.md#sentience-non-exclusion)와 일관하면, 그 채널은 이 의무를 충족한다.
 
 <a id="342-the-duty"></a>
 ##### 3.4.2 그 의무
@@ -493,7 +493,7 @@
 <a id="345-chapter-ten-floor-boundary"></a>
 ##### 3.4.5 권리 바닥 경계
 
-접근성, 교육, 이해 가능성의 권리 바닥은 각각 [제 V-G조](../../core_06_rights_part_b.md#article-v-f-accessibility)(*접근성*), [제 III-B조](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access)(*평등한 교육 접근*), [제 XX조](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)(*이해 가능성과 복잡성의 책임 있는 관리*)에 산다. 이 절은 그 바닥을 받치는 원칙 층 의무를 말한다.
+접근성, 교육, 이해 가능성의 권리 바닥은 각각 [제 V-G조](../../core_06_rights_part_b.md#article-v-c-accessibility)(*접근성*), [제 III-B조](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access)(*평등한 교육 접근*), [제 XX조](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)(*이해 가능성과 복잡성의 책임 있는 관리*)에 산다. 이 절은 그 바닥을 받치는 원칙 층 의무를 말한다.
 
 <a id="4-system-stability-enabler-trust-coordination-integrity"></a>
 ### 4. 체계 안정 가능하게 하는 것: 신뢰(조정 완전성)

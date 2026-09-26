@@ -1456,11 +1456,10 @@ This Article sets out how standing differs from competency bars, competency clea
 - **Non-substitution:** Standing criteria, labels, scores, competency bars, competency clearances, and standing locks govern role eligibility only. They must not:
   - blur together who qualifies for a role and who has inherent dignity or equal moral standing;
   - make role status a substitute for Rights-Floor minimums or for deciding whether someone is a stakeholder because a system actually affects them;
+  - <a id="anti-substitution-sentience-status-xviii"></a>stand in for a sentience-status determination, which is made only under **Article V-D** (*Sentience-Status Adjudication Floor*);
   - treat the absence of a standing record as an adverse fact, or require a record or a "no record" attestation as a condition of survival essentials, ordinary commerce, or participation as an affected party — having no record is the ordinary state under [Chapter Nine §2.1](core_09_standing_assessment.md#21-silence-is-the-default) (*Silence is the default*);
   - assemble named-pathway effects into a profile, ranking, or public display — [Chapter Ten §7.1](core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects) (*Anti-aggregation of named-pathway effects*).
 
-<a id="anti-substitution-sentience-status-xviii"></a>
-> **Anti-substitution (operative).** A certification badge, LEQU score, substrate label, or product classification is **not** a sentience-status determination. Standing scores, competency bars and clearances, standing locks, and System Alignment Certification records must not be treated as who-counts. Who-counts routes to **Article V-D** (*Sentience-Status Adjudication Floor*), [**Def.P1** *Animal Life, Sentient Life, and Sentience Status*](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster), and [Chapter Twelve §5](core_12_forum.md#5-escalation-and-certification).
 #### Article XVIII-B: Contestability and Proportional Restriction Limits
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
