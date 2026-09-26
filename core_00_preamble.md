@@ -361,7 +361,7 @@ Each stage above links to its owner chapter, so the chain can be walked from her
 
 *In plain terms: the process map and [how the full chain fits together](#62-how-the-full-chain-fits-together) show the chain; this section names the owner and output of each stage, so no stage quietly takes over another's job.*
 
-Each step below states what the chapter owns and what it produces, filling in the owners named in [§6.2](#62-how-the-full-chain-fits-together).
+Each step below states what the chapter owns and what it produces, filling in the owners named in [§6.2 How the full chain fits together](#62-how-the-full-chain-fits-together).
 
 **Chapter Eight — [System alignment certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)**
 

@@ -236,7 +236,7 @@ This Constitution binds a steward, organization, federation of bodies, or jurisd
 
 A steward is bound when a qualifying adopter records a valid instrument under this section and [Chapter Seventeen §4](core_17_incorporation.md#4-adoption-framing-and-scope-of-authority); listing a steward as a party bound by adoption does not make that steward themselves a qualifying adopter.
 
-When the adopter is a jurisdiction or polity, the recorded mechanism must include a published affected-sentient participation check — contested election, sortition, federated ratification, or another [Chapter Thirteen §1.2](core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums)-compliant path. Silent board resolution, undisclosed executive instrument, or "we kind of follow it" practice is not enough for a polity to claim constitutional adoption. Organizations, system operators, and system-developer consortia remain able to adopt through the existing deliberate, documented, and auditable path without that polity participation check.
+When the adopter is a jurisdiction or polity, the recorded mechanism must include a published affected-sentient participation check — contested election, sortition, federated ratification, or another [Chapter Thirteen §1.2 Eligibility, contested selection, and democratic minimums](core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums)-compliant path. Silent board resolution, undisclosed executive instrument, or "we kind of follow it" practice is not enough for a polity to claim constitutional adoption. Organizations, system operators, and system-developer consortia remain able to adopt through the existing deliberate, documented, and auditable path without that polity participation check.
 
 #### 10.2 Instrument of Adoption
 <details>
@@ -337,7 +337,7 @@ Amendments take effect only on a stated effective date or event recorded in the 
 
 <br>
 
-*In plain terms: Chapter Sixteen owns how amendments are published, chained, reviewed, and ratified — not numeric Contribution or Violation slots under the Chapter Nine §7 unified scale or Chapter Eleven anti-constitutional-misconduct designations; escalation wording here is routing, not a second accountability-disposition code.*
+*In plain terms: Chapter Sixteen owns how amendments are published, chained, reviewed, and ratified — not numeric Contribution or Violation slots under the Chapter Nine §7 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale or Chapter Eleven anti-constitutional-misconduct designations; escalation wording here is routing, not a second accountability-disposition code.*
 
 Under [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#owner-non-relocation), this chapter must not absorb, restate, or relocate obligations owned by another constitutional owner layer. Any review-trigger, escalation-trigger, or referral-trigger language in this chapter — including mandatory escalation language in **section 7** (*Review Triggers*) and in **section 9** (*Invalid-Change Handling and Remediation Continuity*) — operates as a **trigger or referral heuristic** for routing to canonical owners and is **non-canonical** for final offense classification.
 

@@ -55,7 +55,7 @@ See: [Article VI](../../../core_06_rights_part_b.md#article-vi-right-to-sentient
 - **Today:** Keep enrollment only if you drop the clinician, stay quiet, or accept unpaid hours dressed as “experience.”
 - **With this Constitution:** Family, school, or program relationship is not authority over your body and mind. A challenge to a high-stakes ranking is supposed to be possible without losing enrollment as punishment.
 
-See: [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind); [Article V-H](../../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press); [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress).
+See: [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind); [Article IX-G](../../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press); [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress).
 
 **Unpaid “experience” can still be work.**
 - **Today:** The internship is required to finish. There is no pay, no rest, no safety talk. Refusing is treated as dropping out.
@@ -69,7 +69,7 @@ See: [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-e
 
 - **“I want this campus / this major / this ranking.”** A preferred course or campus is often a preference, not a floor. Equal access and a high-stakes system that can be challenged are the honest gain. This text will not invent a winner among two students’ preferences.
 
-- **“I’m an adult. Don’t use the child page on me.”** You do not have to take a teen or child label to use this page. This brief is for someone whose school, training, or credential is being used as a lever. It does not change the Rights Floor that applies to you. When what you may do yourself is actually at stake, those rules are located in the section on [Article V-F](../../../core_06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability).
+- **“I’m an adult. Don’t use the child page on me.”** You do not have to take a teen or child label to use this page. This brief is for someone whose school, training, or credential is being used as a lever. It does not change the Rights Floor that applies to you. When what you may do yourself is actually at stake, those rules are located in the section on [Article V-E](../../../core_06_rights_part_b.md#article-v-e-developing-sentients-best-interest-and-graduated-capability).
 
 - **“This isn’t education law at my school.”** Correct until a qualifying body adopts it. It does not override applicable education or labor law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 

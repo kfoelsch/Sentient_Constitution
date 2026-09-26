@@ -112,13 +112,13 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Sentience-Status Adjudication Record",
         "Sentient",
         "Sentience Evaluation",
-        "Article V-E",
+        "Article V-D",
     ],
     "#### Def.P2 Binding Stakeholder Choice": [
         "Binding Stakeholder Choice — Decision-Resolution Requirements",
         "Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)",
         "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
-        "Chapter Thirteen §4.3",
+        "Chapter Thirteen §4.3 Decision-resolution requirements for binding stakeholder choice",
     ],
     "#### Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying": [
         "Harm",
@@ -163,7 +163,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Developing Sentient",
         "Best-Interest Standard",
         "Graduated Capability",
-        "Article V-F",
+        "Article V-E",
     ],
     "#### Def.A3 Standing State, Contribution, and Violation": [
         "Participant Standing",

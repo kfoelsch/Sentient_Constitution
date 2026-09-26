@@ -425,7 +425,7 @@
 - ساتھ پڑھیں: [آئینی چوکڑی](../../core_00_preamble.md#constitutional-tetrad) — **شرکت** ٹانگ (سمجھ میں آنے والی شمولیت)؛ **نگرانی** ٹانگ (آڈٹ اور تصدیق کی پڑھنے کی صلاحیت)؛ [مادی داؤ](../../core_00_preamble.md#material-stake) کا پیمانہ۔
 - ساتھ پڑھیں: [دو آئینی مقاصد](../../core_00_preamble.md#two-constitutional-aims) — **شگفتگی** مقصد (سمجھ میں آنے والی **سچائی** کی شمولیت کے ذریعے بامعنی فاعلیت)؛ **استمرار** مقصد (وقت کے ساتھ پائیدار ادارہ جاتی پڑھنے کی صلاحیت)۔
 - بالائی: اصول: [§3.2 سچائی](#32-truth-epistemic-integrity-constraint)، [3.3 سائنس سے آگاہ تحقیق اور فیصلے کی معاونت](#33-science-informed-inquiry-and-decision-support)، [§6.3 قابلِ اجتناب بوجھ کی کمی](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)، اور [§11.1.3 ذمہ دارانہ انتظام اور چلانے والے کا اطلاق](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)؛ [دو آئینی مقاصد](../../core_00_preamble.md#two-constitutional-aims)۔
-- زیریں: حقوق کی سطح: [دفعہ V-G: رسائی پذیری](../../core_06_rights_part_b.md#article-v-g-accessibility)، [دفعہ VI: شعوری وجود مرکز تعلیم کا حق](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)، [دفعہ XV: آڈٹ، شفافیت اور آزاد تصدیق](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)، [دفعہ XX: سمجھ میں آنے کی صلاحیت اور پیچیدگی کا ذمہ دارانہ انتظام](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)۔
+- زیریں: حقوق کی سطح: [دفعہ V-G: رسائی پذیری](../../core_06_rights_part_b.md#article-v-f-accessibility)، [دفعہ VI: شعوری وجود مرکز تعلیم کا حق](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)، [دفعہ XV: آڈٹ، شفافیت اور آزاد تصدیق](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)، [دفعہ XX: سمجھ میں آنے کی صلاحیت اور پیچیدگی کا ذمہ دارانہ انتظام](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)۔
 - حوالہ: باب دوم تا چہارم کی تعریف میکانکس اور سادہ زبان کی گارڈ ریلز [core_02_definition_structure.md](core_02_definition_structure.md) میں تعریف کی تہہ پر قابو رکھتی رہتی ہیں۔
 - ذیلی حصے (پڑھنے کی ترتیب): [§3.4.1](#341-scope) · [§3.4.2](#342-the-duty) · [§3.4.3](#343-definitional-rigor-preserved) · [§3.4.4](#344-jargon-as-defeat-discipline) · [§3.4.5](#345-chapter-ten-floor-boundary)۔
 
@@ -460,7 +460,7 @@
 - آڈٹ اور تصدیق کے آثار جہاں وہ شعوری قارئین تک پہنچیں؛
 - شرائط اور رضا کے انٹرفیس، اور ملتا جلتا متن۔
 
-یہ فرض اس سے قطع نظر لاگو ہوتا ہے کہ پابند معلومات شعوری وجودوں تک کیسے پہنچتی ہے — تحریری متن، انٹرفیس، بولی گئی بات، یا کوئی اور چینل۔ چینل تب پورا کرتا ہے جب وہ سادہ زبان کا مساوی دے جس تک کوئی بھی متاثر شعوری وجود رسائی پا سکے، [دفعہ V-G](../../core_06_rights_part_b.md#article-v-g-accessibility) (*رسائی پذیری*) اور [شعوریت عدمِ اخراج](../../core_05_band_participation.md#sentience-non-exclusion) کے مطابق۔
+یہ فرض اس سے قطع نظر لاگو ہوتا ہے کہ پابند معلومات شعوری وجودوں تک کیسے پہنچتی ہے — تحریری متن، انٹرفیس، بولی گئی بات، یا کوئی اور چینل۔ چینل تب پورا کرتا ہے جب وہ سادہ زبان کا مساوی دے جس تک کوئی بھی متاثر شعوری وجود رسائی پا سکے، [دفعہ V-G](../../core_06_rights_part_b.md#article-v-f-accessibility) (*رسائی پذیری*) اور [شعوریت عدمِ اخراج](../../core_05_band_participation.md#sentience-non-exclusion) کے مطابق۔
 
 <a id="342-the-duty"></a>
 ##### 3.4.2 فرض
@@ -492,7 +492,7 @@
 <a id="345-chapter-ten-floor-boundary"></a>
 ##### 3.4.5 حقوق کی تہہ کی سرحد
 
-رسائی پذیری، تعلیم، اور سمجھ میں آنے کی صلاحیت کی حقوق کی تہیں بالترتیب [دفعہ V-G](../../core_06_rights_part_b.md#article-v-g-accessibility) (*رسائی پذیری*)، [دفعہ III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*برابر تعلیمی رسائی*)، اور [دفعہ XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*سمجھ میں آنے کی صلاحیت اور پیچیدگی کا ذمہ دارانہ انتظام*) میں رہتی ہیں۔ یہ قطعہ اصولی تہہ کا فرض بیان کرتا ہے جو ان تہوں کو سہارا دیتا ہے۔
+رسائی پذیری، تعلیم، اور سمجھ میں آنے کی صلاحیت کی حقوق کی تہیں بالترتیب [دفعہ V-G](../../core_06_rights_part_b.md#article-v-f-accessibility) (*رسائی پذیری*)، [دفعہ III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*برابر تعلیمی رسائی*)، اور [دفعہ XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*سمجھ میں آنے کی صلاحیت اور پیچیدگی کا ذمہ دارانہ انتظام*) میں رہتی ہیں۔ یہ قطعہ اصولی تہہ کا فرض بیان کرتا ہے جو ان تہوں کو سہارا دیتا ہے۔
 
 <a id="4-system-stability-enabler-trust-coordination-integrity"></a>
 ### 4. نظام کے استحکام کا سہارا: اعتماد (ہم آہنگی کی دیانت)
@@ -738,7 +738,7 @@
 جھرمٹ کے اپنے پڑھنے کے قواعد وہیں رہتے ہیں۔ **§5.3** باب یکم پر تقسیم مخالف اصول لاگو کرتا ہے؛ وہ باب پنجم میکانکس دوبارہ نہیں لکھتا۔
 
 **کون سی حقوق کی دفعات اب بھی قابو رکھتی ہیں۔** **§5.3** باب یکم کا اصول ہے۔ یہ باب ششم حقوق کی تہہ کی جگہ نہیں لیتا۔ **§5.3** کے اندر، وہ دفعات اب بھی طے کرتی ہیں کہ حق کیا ہے اور کیسے محدود ہو سکتا ہے:
-- **[دفعہ V-H](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press)** (*اظہار، اجتماع اور پریس*) — جسمانی، ڈیجیٹل، یا مشترکہ کمپیوٹ جگہوں میں اظہار، سیاست، ثقافت، کمیونٹی، اور ملتے جلتے مقاصد کے لیے جمع ہونا، جڑنا، اور ساتھ عمل کرنا
+- **[دفعہ V-H](../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press)** (*اظہار، اجتماع اور پریس*) — جسمانی، ڈیجیٹل، یا مشترکہ کمپیوٹ جگہوں میں اظہار، سیاست، ثقافت، کمیونٹی، اور ملتے جلتے مقاصد کے لیے جمع ہونا، جڑنا، اور ساتھ عمل کرنا
 - **[دفعہ III-D](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)** (*مشقت اور معاشی تہہ*) — پیداوار اور اقتصادی سرگرمی میں اجتماعی تنظیم (یونین، تعاونی، گلڈ، کارکن کونسل، اور کام کی شرائط گڑھنے کے لیے استعمال ملتی جلتی شکلیں)، اور [کاروبار کی تخلیق](../../core_05_band_participation.md#business-creation-constitutional)
 - **[دفعہ IX-B](../../core_06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights)** (*متاثر فریق کردار اور شرکت کے حقوق*) اور **[دفعہ XI](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)** (*متاثر فریقوں کی نظامی شرکت، نمائندگی اور واجب العمل کارروائی*) — [نظام کی تخلیق](../../core_05_band_participation.md#system-creation-constitutional) (غیر تجارتی ادارے بنانا اور چلانا)
 

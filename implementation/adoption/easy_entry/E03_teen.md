@@ -19,7 +19,7 @@
 
 *In plain terms: you already hold the full Rights Floor; how much you exercise it yourself scales with what you can actually do, not with a birthday — and “for your own good” is not, by itself, a valid lock.*
 
-This brief is for a teen whose “for your own good” limits feel like a closed door. It does not sort you by birthday. When what you may do yourself is at stake, those rules are located in the section on [Article V-F](../../../core_06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability).
+This brief is for a teen whose “for your own good” limits feel like a closed door. It does not sort you by birthday. When what you may do yourself is at stake, those rules are located in the section on [Article V-E](../../../core_06_rights_part_b.md#article-v-e-developing-sentients-best-interest-and-graduated-capability).
 
 ## Everyone is this age once
 
@@ -43,19 +43,19 @@ If a body that actually runs the systems in your life adopted this Constitution:
 - **Today:** Until a birthday, dignity, body, and voice are treated as provisional. The reason given is that you are not old enough, or that adults know better.
 - **With this Constitution:** You hold the full Chapter Six Rights Floor while your capability is still emerging.
 
-See: [Article V-F](../../../core_06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability).
+See: [Article V-E](../../../core_06_rights_part_b.md#article-v-e-developing-sentients-best-interest-and-graduated-capability).
 
 **What you may do yourself tracks what you can show, not the calendar.**
 - **Today:** Age is the switch.
 - **With this Constitution:** Where you have shown you can make a kind of decision, you get to make that kind. A birthday does not take it away, and one showing is not a key to every other kind. The check has to be about what you can actually do — reasoned, open to an outside look, open to challenge, and looked at again as you grow — not a quiet way to shut you out of a say you are ready for.
 
-See: [Article V-F](../../../core_06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability).
+See: [Article V-E](../../../core_06_rights_part_b.md#article-v-e-developing-sentients-best-interest-and-graduated-capability).
 
 **“For your own good” is not enough.**
 - **Today:** The phrase ends the conversation. Sometimes the limit is real protection. Sometimes it is convenience, image, or a household fight using you as the field.
 - **With this Constitution:** Protective limits on your own agency still have to be needed, not bigger than the harm, reversible when facts are uncertain, open to challenge, and reviewed on a clock if they last.
 
-See: [Article V-F](../../../core_06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability).
+See: [Article V-E](../../../core_06_rights_part_b.md#article-v-e-developing-sentients-best-interest-and-graduated-capability).
 
 **You can challenge, and delay is part of the harm.**
 - **Today:** Review is next term, next year, or never. Being heard is only a parent’s or school’s story.

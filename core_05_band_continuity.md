@@ -22,7 +22,7 @@
 
 ---
 
-This band holds definitions under the constitutional [Continuity aim](core_00_preamble.md#continuity): dependency, risk, survival-floor continuity, labor floors, stewardship discipline, privacy lifecycle, and trust. **Continuity disambiguation:** constitutional **Continuity aim** ([Preamble §1](core_00_preamble.md#continuity); binding O/M/A/C: [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional)) is distinct from operational or protocol continuity elsewhere in the corpus.
+This band holds definitions under the constitutional [Continuity aim](core_00_preamble.md#continuity): dependency, risk, survival-floor continuity, labor floors, stewardship discipline, privacy lifecycle, and trust. **Continuity disambiguation:** constitutional **Continuity aim** ([Preamble §1 The Model](core_00_preamble.md#continuity); binding O/M/A/C: [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional)) is distinct from operational or protocol continuity elsewhere in the corpus.
 | Cluster | Section |
 |---|---|
 | **Def.C1** | Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work |
@@ -126,7 +126,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     **Primary assessment:** Verify genuine voluntariness:
     - adequate information, time, reviewability, and reversibility up to irreversible execution consistent with the reversibility-under-uncertainty rule;
     - detect dependency pressure, manipulation, rushed framing, and care-substitute routing where discontinuation is offered or operationalized instead of required mental-health care, physical healthcare, disability support, housing, or other survival essentials under Articles III-A, III-C, and VII-C;
-    - apply [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional) for [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional) cases under **Article V-F** (*Developing Sentients, Best-Interest, and Graduated Capability*).
+    - apply [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional) for [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional) cases under **Article V-E** (*Developing Sentients, Best-Interest, and Graduated Capability*).
 <a id="voluntary-discontinuation-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:**
@@ -265,7 +265,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Eight Part B §11 — Certification record](core_08_b_system_alignment_certification_record_process.md#11-system-certification-record) (*minimum contents, cross-section requirements, Rights-Floor non-substitution*); read with [§12](core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*transparency, auditability, and contestability*), [§14](core_08_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*supervisory sequence and contestability chain*), [§15](core_08_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*standing-record bridge*), and [§16](core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) (*reopening and non-evasion*).
+- Canonical owner: [Chapter Eight Part B §11 — Certification record](core_08_b_system_alignment_certification_record_process.md#11-system-certification-record) (*minimum contents, cross-section requirements, Rights-Floor non-substitution*); read with [Chapter Eight §12](core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*transparency, auditability, and contestability*), [§14](core_08_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*supervisory sequence and contestability chain*), [§15](core_08_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*standing-record bridge*), and [§16](core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) (*reopening and non-evasion*).
 - Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](core_05_band_continuity.md#system-alignment-certification-semi-independent).
 - Downstream: [Chapter Nine — Standing records and verified-input gate](core_09_standing_assessment.md#2-question-1--what-happened); [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*forum supervision and reopening*).
 - Read with: [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional), [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional), [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional), [Contestability](core_05_band_accountability.md#contestability), [Auditability](core_05_band_oversight.md#auditability), [Verified Inputs for Standing](core_05_band_accountability.md#verified-inputs-for-standing), [Standing Record](core_05_band_accountability.md#standing-record-chapter-six), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), and [Charter](core_05_band_continuity.md#charter).
@@ -306,9 +306,9 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     2. the record states, as Chapter Eight requires:
        - system identity;
        - scope;
-       - the [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional) (or its required dual-axis contents) under CS-3 and [Chapter Eight §2](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation);
-       - the [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional) (or its required contents) under CS-2 and [Chapter Eight §4](core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation);
-       - risk-evaluation and risk-disclosure findings where systemic risk is in scope under [Chapter Eight §3.1](core_08_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) — stated on this record, not as a separate named risk-disclosure record;
+       - the [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional) (or its required dual-axis contents) under CS-3 and [Chapter Eight §2 System Class Evaluation](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation);
+       - the [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional) (or its required contents) under CS-2 and [Chapter Eight §4 Data Types and Handling Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation);
+       - risk-evaluation and risk-disclosure findings where systemic risk is in scope under [Chapter Eight §3.1 Systemic Scope and Risk Factors](core_08_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) — stated on this record, not as a separate named risk-disclosure record;
        - ecological footprint evaluation where material;
        - cross-system resource stewardship evaluation under [Chapter Eight §6 Proportionate Cross-System Support Evaluation](core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) where the **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies;
        - technical and stakeholder review components;
@@ -377,7 +377,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - [Charter](core_05_band_continuity.md#charter) text alone; or
     - vendor attestation, internal sign-off, or self-label —
     those sit under their own homes or as ordinary operator artifacts, not as this dual-axis classification record.
-  - Canonical dual-axis contents, disclosure, challenge, and reclassification are stated in CS-3; incorporation into certification records is stated in [Chapter Eight §2](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [Part B §11.1](core_08_b_system_alignment_certification_record_process.md#111-minimum-record-contents); this entry is the Chapter Five meaning only.
+  - Canonical dual-axis contents, disclosure, challenge, and reclassification are stated in CS-3; incorporation into certification records is stated in [Chapter Eight §2 System Class Evaluation](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [Part B §11.1](core_08_b_system_alignment_certification_record_process.md#111-minimum-record-contents); this entry is the Chapter Five meaning only.
 <a id="system-classification-record-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -386,7 +386,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     1. the record states both dual-axis findings required by CS-3 — impact class and applicable dependency type(s) — without collapsing the axes into one finding;
     2. classification follows observed and reasonably foreseeable effects under [Material Impact](core_05_band_oversight.md#material-impact), [Dependency](core_05_band_continuity.md#dependency), and [Risk](core_05_band_continuity.md#risk), not declared intent, [Charter](core_05_band_continuity.md#charter) text alone, or self-description alone;
     3. rationale, key assumptions, uncertainty or precautionary class, material ecological-exposure analysis where required, and monitoring or revalidation triggers are stated and independently reviewable; and
-    4. where [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, the System Classification Record is included in the [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional) under [Chapter Eight §2](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [Part B §11.1](core_08_b_system_alignment_certification_record_process.md#111-minimum-record-contents).
+    4. where [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, the System Classification Record is included in the [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional) under [Chapter Eight §2 System Class Evaluation](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [Part B §11.1](core_08_b_system_alignment_certification_record_process.md#111-minimum-record-contents).
 <a id="system-classification-record-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:**
@@ -442,16 +442,16 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - [Charter](core_05_band_continuity.md#charter) text alone; or
     - vendor attestation, internal sign-off, or self-label —
     those sit under their own homes or as ordinary operator artifacts, not as this data-types record.
-  - Canonical type inventory, handling posture, disclosure, challenge, and retyping are stated in CS-2; incorporation into certification records is stated in [Chapter Eight §4](core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) and [Part B §11.1](core_08_b_system_alignment_certification_record_process.md#111-minimum-record-contents); this entry is the Chapter Five meaning only.
+  - Canonical type inventory, handling posture, disclosure, challenge, and retyping are stated in CS-2; incorporation into certification records is stated in [Chapter Eight §4 Data Types and Handling Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) and [Part B §11.1](core_08_b_system_alignment_certification_record_process.md#111-minimum-record-contents); this entry is the Chapter Five meaning only.
 <a id="system-data-types-record-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
     1. the record states the data types materially in scope and the handling, separation, lifecycle, and attribution posture required by CS-2 — without treating label, format, or pipeline stage as the type;
-    2. typing follows functional effect under CS-2 and [Chapter Eight §4](core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation), not declared intent, [Charter](core_05_band_continuity.md#charter) text alone, or self-description alone;
+    2. typing follows functional effect under CS-2 and [Chapter Eight §4 Data Types and Handling Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation), not declared intent, [Charter](core_05_band_continuity.md#charter) text alone, or self-description alone;
     3. rationale for ambiguous or multi-type data, the most recent periodic re-evaluation, justified disclosure restrictions with public substitutes, and Type O coverage where applicable are stated and independently reviewable; and
-    4. where [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, the System Data Types Record is included in the [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional) under [Chapter Eight §4](core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) and [Part B §11.1](core_08_b_system_alignment_certification_record_process.md#111-minimum-record-contents).
+    4. where [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, the System Data Types Record is included in the [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional) under [Chapter Eight §4 Data Types and Handling Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) and [Part B §11.1](core_08_b_system_alignment_certification_record_process.md#111-minimum-record-contents).
 <a id="system-data-types-record-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:**
@@ -743,7 +743,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§13.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good) (ecological bounds and **Environmental Preconditions** / **Ecological Integrity** in the productive-capacity discipline); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (cumulative / long-horizon ecological effects).
+- Downstream: Principles: [Chapter One §13.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good) (ecological bounds and **Environmental Preconditions** / **Ecological Integrity** in the productive-capacity discipline); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (cumulative / long-horizon ecological effects).
 - Owner floor: [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) for environmental preconditions and ecological integrity.
 - Cluster component: [Chapter Five *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05_band_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
 - Cluster component: [Ecological Integrity, Footprint, and Sustainability](core_05_band_continuity.md#ecological-footprint-semi-independent).
@@ -1065,7 +1065,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§13 Shared-System Capacity](core_01_c_stewardship_capacity_principles.md#13-shared-system-capacity); [§13.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good) through [§14.3 Consolidation Ceiling](core_01_c_stewardship_capacity_principles.md#143-consolidation-ceiling).
+- Downstream: Principles: [Chapter One §13 Shared-System Capacity](core_01_c_stewardship_capacity_principles.md#13-shared-system-capacity); [Chapter One §13.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good) through [§14.3 Consolidation Ceiling](core_01_c_stewardship_capacity_principles.md#143-consolidation-ceiling).
 - Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05_band_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster); [Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity](core_05_band_accountability.md#proportionality).
 - Read with: [Stewardship](core_05_band_continuity.md#stewardship-constitutional), [Governance](core_05_band_accountability.md#governance), [Productive Capacity](core_05_band_continuity.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency), [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold-constitutional), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
 
@@ -1120,7 +1120,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Constitutional Performance measurement family (*Constitutional Efficiency as constitutional measurement*); Principles: [§13.2 Constitutional Efficiency](core_01_c_stewardship_capacity_principles.md#132-constitutional-efficiency), [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [§12.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1213-stewardship-and-operator-application), and [§12.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1215-constitutional-outcome-claims-discipline).
+- Downstream: Constitutional Performance measurement family (*Constitutional Efficiency as constitutional measurement*); Principles: [Chapter One §13.2 Constitutional Efficiency](core_01_c_stewardship_capacity_principles.md#132-constitutional-efficiency), [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [§12.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1213-stewardship-and-operator-application), and [§12.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1215-constitutional-outcome-claims-discipline).
 - Stewardship integration: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05_band_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster), where materially impactful governance responsibility, burden reduction, review, or correction is at issue.
 - Cluster component: [the dependent cluster *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05_band_accountability.md#proportionality)
 - Read with: [Productive Capacity](core_05_band_continuity.md#productive-capacity-constitutional), [Avoidable Burden](core_05_band_continuity.md#avoidable-burden), [Proportionality](core_05_band_accountability.md#proportionality), [Necessity](core_05_band_accountability.md#necessity), [Harm Minimization (Tradeoff Selection)](core_05_band_accountability.md#harm-minimization-tradeoff-selection), and [Proxy Divergence](core_05_band_oversight.md#proxy-divergence).
@@ -1157,7 +1157,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - [Proportionality](core_05_band_accountability.md#proportionality);
     - [Necessity](core_05_band_accountability.md#necessity); and
     - [Harm Minimization (Tradeoff Selection)](core_05_band_accountability.md#harm-minimization-tradeoff-selection).
-  - Short-horizon gains do not satisfy compliance when they foreseeably produce medium- or long-horizon violations under [Chapter Eight §3.6](core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint).
+  - Short-horizon gains do not satisfy compliance when they foreseeably produce medium- or long-horizon violations under [Chapter Eight §3.6 Time-Consistency Constraint](core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint).
   - **Tertiary measure:** [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — where proxies substitute for constitutional outcomes, including:
     - raw throughput;
     - utilization;
@@ -1172,13 +1172,13 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - designed to look good while underlying constitutional outcomes stay deficient.
 <a id="constitutional-efficiency-c"></a>
 - **What must hold**
-  - **Primary failure:** efficiency claims relying on proxies materially divergent from constitutional outcomes remain invalid until corrected under [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) and Chapter Four — including cost-cutting or speed metrics that diverge from constitutional outcomes while any of the following narrow:
+  - **Primary failure:** efficiency claims relying on proxies materially divergent from constitutional outcomes remain invalid until corrected under [Chapter One §6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) and Chapter Four — including cost-cutting or speed metrics that diverge from constitutional outcomes while any of the following narrow:
     - Rights-Floor protections;
     - audit; or
     - contestability.
   - **Secondary failure:** using efficiency to:
     - narrow Rights-Floor protections;
-    - bypass the [§6.1 decision-record discipline](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test); or
+    - bypass the [Chapter One §6.1 decision-record discipline](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test); or
     - weaken audit, contestability, or retrospective-review obligations.
   - **Tertiary failure:** treating as dispositive where [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is reasonably observable:
     - throughput;
@@ -1194,7 +1194,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Constitutional Performance measurement family (*Productive Capacity as constitutional measurement*); Principles: [§13.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good) and [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden).
+- Downstream: Constitutional Performance measurement family (*Productive Capacity as constitutional measurement*); Principles: [Chapter One §13.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good) and [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden).
 - Cluster component: [the dependent cluster *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05_band_accountability.md#proportionality).
 
 </details>
@@ -1270,7 +1270,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Constitutional Performance measurement family (*Avoidable Burden as constitutional measurement*); Principles: [§13 Shared-System Capacity](core_01_c_stewardship_capacity_principles.md#13-shared-system-capacity), [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), and [§12.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1213-stewardship-and-operator-application).
+- Downstream: Constitutional Performance measurement family (*Avoidable Burden as constitutional measurement*); Principles: [Chapter One §13 Shared-System Capacity](core_01_c_stewardship_capacity_principles.md#13-shared-system-capacity), [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), and [§12.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1213-stewardship-and-operator-application).
 - Stewardship integration: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05_band_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster), where materially impactful governance responsibility, burden reduction, review, or correction is at issue.
 - Cluster component: [the dependent cluster *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05_band_accountability.md#proportionality)
 - Read with: [Proportionality](core_05_band_accountability.md#proportionality), [Necessity](core_05_band_accountability.md#necessity), [Feasibility](core_05_band_accountability.md#feasibility), [Harm Minimization (Tradeoff Selection)](core_05_band_accountability.md#harm-minimization-tradeoff-selection), [Productive Capacity](core_05_band_continuity.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency), and [Proxy Divergence](core_05_band_oversight.md#proxy-divergence).
@@ -1327,7 +1327,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     **Tertiary assessment:** Apply [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) where claimed necessity rests on such proxies.
 <a id="avoidable-burden-c"></a>
 - **What must hold**
-  - **Primary failure:** imposing or maintaining avoidable burden where a less-burdensome option satisfies the same constitutional outcomes under Chapter One §6.3, including:
+  - **Primary failure:** imposing or maintaining avoidable burden where a less-burdensome option satisfies the same constitutional outcomes under Chapter One §6.3 (*Minimization of Avoidable Burden*), including:
     - simplification; or
     - removal of unnecessary steps.
   - **Secondary failure:** burden functioning as a pretextual barrier — where a less-burdensome option would preserve the same outcomes — to:
@@ -1347,7 +1347,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [6. Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) (tradeoff principles).
+- Downstream: Principles: [Chapter One §6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [6. Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) (tradeoff principles).
 - Owner floor: [Chapter Thirteen §3](core_13_governance.md#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
 - Cluster component: [the dependent cluster *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05_band_accountability.md#proportionality)
 - Read with: [Avoidable Burden](core_05_band_continuity.md#avoidable-burden), [Productive Capacity](core_05_band_continuity.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency), [Harm Minimization (Tradeoff Selection)](core_05_band_accountability.md#harm-minimization-tradeoff-selection), [Contestability](core_05_band_accountability.md#contestability), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), and [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint).
@@ -1357,7 +1357,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <br>
 
 - **What it is**
-  - **In scope:** The stewardship duty — **co-equal with harm prevention** — to actively find and reduce [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) and unproductive friction in governed systems, consistent with Chapter One §6.3 and with [Avoidable Burden](core_05_band_continuity.md#avoidable-burden), [Productive Capacity](core_05_band_continuity.md#productive-capacity-constitutional), and [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency). Methods include:
+  - **In scope:** The stewardship duty — **co-equal with harm prevention** — to actively find and reduce [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) and unproductive friction in governed systems, consistent with Chapter One §6.3 (*Minimization of Avoidable Burden*) and with [Avoidable Burden](core_05_band_continuity.md#avoidable-burden), [Productive Capacity](core_05_band_continuity.md#productive-capacity-constitutional), and [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency). Methods include:
     - simplifying;
     - consolidating;
     - automating;
@@ -1367,13 +1367,13 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - [Safety (Constraint)](core_05_band_continuity.md#safety-constraint);
     - [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint);
     - the Chapter Six Rights Floor; and
-    - the other tradeoff principles in Chapter One §6.1.
-  - **Out of scope:** ordinary process simplification among options that already satisfy [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), the Chapter Six Rights Floor, and Chapter One §6.1 — when no burden-reduction duty claim is at issue.
+    - the other tradeoff principles in Chapter One §6.1 (*Core Tradeoff Principles*).
+  - **Out of scope:** ordinary process simplification among options that already satisfy [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), the Chapter Six Rights Floor, and Chapter One §6.1 (*Core Tradeoff Principles*) — when no burden-reduction duty claim is at issue.
 <a id="burden-reduction-duty-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Constitutional Performance measurement family](core_05_band_performance.md#performance-measurement-family) — *Are constitutional outcomes delivered efficiently without pointless waste?*
 
-    **Primary assessment:** Read with Chapter One §6.3 and Chapter One §6.1 tradeoff stack. Test simplification as a first-line remedy where burden without traceable constitutional outcome comes from:
+    **Primary assessment:** Read with Chapter One §6.3 (*Minimization of Avoidable Burden*) and Chapter One §6.1 (*Core Tradeoff Principles*) tradeoff stack. Test simplification as a first-line remedy where burden without traceable constitutional outcome comes from:
     - unnecessary complexity;
     - duplicated process;
     - unclear routing; or
@@ -1395,7 +1395,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - Safety;
     - Truth;
     - Chapter Six floor protections; or
-    - Chapter One §9 tradeoff compliance.
+    - Chapter One §9 (*Stewardship In Depth*) tradeoff compliance.
   - **Secondary failure:** weakening the following to lower burden, or labeling such narrowing as burden reduction:
     - audit;
     - [Contestability](core_05_band_accountability.md#contestability); or
@@ -1432,7 +1432,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§13.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good) and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), where ecological bounds, cumulative effects, and long-horizon materiality shape evaluation.
+- Downstream: Principles: [Chapter One §13.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good) and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), where ecological bounds, cumulative effects, and long-horizon materiality shape evaluation.
 - Owner floor: [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*).
 - Cluster component: [Ecological Integrity, Footprint, and Sustainability](core_05_band_continuity.md#ecological-footprint-semi-independent).
 - Read with: [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional), [Ecological Recovery Capacity](core_05_band_continuity.md#ecological-recovery-capacity-constitutional), [Ecological Footprint](core_05_band_continuity.md#ecological-footprint), [Sustainability](core_05_band_continuity.md#sustainability), [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility-constitutional), [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing), [Harm](core_05_band_accountability.md#harm), [Risk](core_05_band_continuity.md#risk), and [Reversibility](core_05_band_continuity.md#reversibility-constitutional).
@@ -1587,7 +1587,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Continuity measurement family (*Ecological Footprint as constitutional measurement*); Principles: [§13.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good) (ecological bounds); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (materiality / dependency / cumulative effects); [Chapter Eight §5](core_08_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) (*system alignment certification footprint evaluation*).
+- Downstream: Continuity measurement family (*Ecological Footprint as constitutional measurement*); Principles: [Chapter One §13.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good) (ecological bounds); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (materiality / dependency / cumulative effects); [Chapter Eight §5](core_08_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) (*system alignment certification footprint evaluation*).
 - Owner floors: [Article I-B](core_06_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) (*Ecological Footprint and Transparency*) and [Article XV-C](core_06_rights_part_c.md#article-xv-c-verification-accessibility) (*Verification Accessibility*).
 - Read with: the [Ecological Integrity, Footprint, and Sustainability cluster](core_05_band_continuity.md#ecological-footprint-semi-independent), [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional), [Sustainability](core_05_band_continuity.md#sustainability), [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional), [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility-constitutional), [Material Impact](core_05_band_oversight.md#material-impact), [Transparency](core_05_band_oversight.md#transparency), and [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity).
 
@@ -1650,7 +1650,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§13.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and **Article I-A** (*Environmental Preconditions and Ecological Integrity*) / I-B ecological disciplines.
+- Downstream: Principles: [Chapter One §13.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and **Article I-A** (*Environmental Preconditions and Ecological Integrity*) / I-B ecological disciplines.
 - Cluster component: [Ecological Integrity, Footprint, and Sustainability](core_05_band_continuity.md#ecological-footprint-semi-independent).
 - Read with: [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional), [Ecological Footprint](core_05_band_continuity.md#ecological-footprint), [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional), [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility-constitutional), [Productive Capacity](core_05_band_continuity.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency), and [Strategic Stewardship Obligation](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional).
 
@@ -2030,7 +2030,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Continuity measurement family (*Dependency and resource flows as constitutional measurement*); Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [5. System Stability Enabler: Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [6. Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [§6.1 decision-record discipline](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Downstream: Continuity measurement family (*Dependency and resource flows as constitutional measurement*); Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [5. System Stability Enabler: Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [6. Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [Chapter One §6.1 decision-record discipline](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Cluster component: [Dependency and cross-system support](core_05_band_continuity.md#dependency-and-cross-system-support-semi-independent).
 - Cluster component: [*Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)
 - Read with: [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), [Wellbeing](core_05_band_continuity.md#wellbeing), [Risk](core_05_band_continuity.md#risk), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity), and [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) where certification gates shared-infrastructure reliance.
@@ -2361,7 +2361,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) (accountability and oversight legs; tetrad capture discipline under [§11](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline); [material stake](core_00_preamble.md#material-stake) scaling); [§11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline); [§12 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#12-incentive-alignment-and-system-capture).
+- Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) (accountability and oversight legs; tetrad capture discipline under [Chapter One §11](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline); [material stake](core_00_preamble.md#material-stake) scaling); [Chapter One §11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline); [Chapter One §12 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#12-incentive-alignment-and-system-capture).
 - Cluster component: [Systemic effects and capture](core_05_band_continuity.md#systemic-effects-and-capture-semi-independent).
 - Read with: [Anti-Capture](core_05_band_continuity.md#anti-capture), [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways), [Incentive Alignment](core_05_band_integrative.md#incentive-alignment), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), [Accountability](core_05_apex_accountability_leg.md#accountability), [Contestability](core_05_band_accountability.md#contestability), [Systemic](core_05_band_continuity.md#systemic), [Systemic Materiality](core_05_band_continuity.md#systemic-materiality), and [Trust Degradation and Misleading Reliance](core_05_band_continuity.md#trust-degradation-and-misleading-reliance).
 
@@ -2412,7 +2412,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) (participation, oversight, accountability, and timeliness must remain real against capture); [material stake](core_00_preamble.md#material-stake) scaling; [Chapter Seven §2 Four-Seat Constitutional Floor](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor); [§12 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#12-incentive-alignment-and-system-capture) (especially [§12.1 Alignment Requirement](core_01_c_stewardship_capacity_principles.md#121-alignment-requirement) and [§12.3 Misalignment Detection](core_01_c_stewardship_capacity_principles.md#123-misalignment-detection)); [Article XI-E](core_06_rights_part_b.md#article-xi-e-non-capture-safeguards) (*Non-Capture Safeguards*); [Article XXII](core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
+- Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) (participation, oversight, accountability, and timeliness must remain real against capture); [material stake](core_00_preamble.md#material-stake) scaling; [Chapter Seven §2 Four-Seat Constitutional Floor](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor); [Chapter One §12 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#12-incentive-alignment-and-system-capture) (especially [§12.1 Alignment Requirement](core_01_c_stewardship_capacity_principles.md#121-alignment-requirement) and [§12.3 Misalignment Detection](core_01_c_stewardship_capacity_principles.md#123-misalignment-detection)); [Article XI-E](core_06_rights_part_b.md#article-xi-e-non-capture-safeguards) (*Non-Capture Safeguards*); [Article XXII](core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
 - Cluster component: [Systemic effects and capture](core_05_band_continuity.md#systemic-effects-and-capture-semi-independent).
 - Read with: [System Capture](core_05_band_continuity.md#system-capture), [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence), [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), [Incentive Alignment](core_05_band_integrative.md#incentive-alignment), [Contestability](core_05_band_accountability.md#contestability), [Auditability](core_05_band_oversight.md#auditability), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), and [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways).
 
@@ -2430,13 +2430,13 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 
     Safeguards are foreseeable when [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence) would identify the capture pathway under [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), scaled to [material stake](core_00_preamble.md#material-stake). Where that duty is met, Anti-Capture includes:
     - separating the one who acted from the one who checks ([Chapter Seven §2 Four-Seat Constitutional Floor](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor));
-    - keeping plural, structurally independent detection and review paths ([§12.3 Misalignment Detection](core_01_c_stewardship_capacity_principles.md#123-misalignment-detection));
+    - keeping plural, structurally independent detection and review paths ([Chapter One §12.3 Misalignment Detection](core_01_c_stewardship_capacity_principles.md#123-misalignment-detection));
     - disclosing beneficial control and influence routes in an [Auditability](core_05_band_oversight.md#auditability)-compatible form;
     - keeping [Incentive Alignment](core_05_band_integrative.md#incentive-alignment) from letting rewards buy the referee; and
     - keeping contest and independent review real, including the interpretive-body floors in [Article XXII](core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
   - **Out of scope:**
     - detecting or labeling capture that has already taken hold — that is [System Capture](core_05_band_continuity.md#system-capture);
-    - after-the-fact correction once capture is verified — that is [§12.4 Misalignment Correction and Capture Response](core_01_c_stewardship_capacity_principles.md#124-misalignment-correction-and-capture-response) and [Review and Correction Duty](core_05_band_continuity.md#review-and-correction-duty-constitutional);
+    - after-the-fact correction once capture is verified — that is [Chapter One §12.4 Misalignment Correction and Capture Response](core_01_c_stewardship_capacity_principles.md#124-misalignment-correction-and-capture-response) and [Review and Correction Duty](core_05_band_continuity.md#review-and-correction-duty-constitutional);
     - ordinary disclosed legitimate authority that does not distort governance, oversight, or contestability;
     - paper policies, labels, or “best practice” claims that do not actually prevent capture; and
     - unbounded speculative controls on non-material stakes — depth scales under [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) and [Proportionality](core_05_band_accountability.md#proportionality).
@@ -2621,7 +2621,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - affected communities or dependencies where material;
     - amendment authority;
     - periodic-review cadence scaled to [material stake](core_00_preamble.md#material-stake) under [Proportionality](core_05_band_accountability.md#proportionality) and [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance);
-    - the **record-opening authority** and **record custodian** for [Standing Records](core_05_band_accountability.md#standing-record-chapter-six) concerning the chartered scope and the systems it stewards, or a pointer to the published instrument that names them, together with the independent route that applies when the chartered entity is itself the subject ([Chapter Nine §3.7](core_09_standing_assessment.md#37-record-custody-and-opening-authority)); and
+    - the **record-opening authority** and **record custodian** for [Standing Records](core_05_band_accountability.md#standing-record-chapter-six) concerning the chartered scope and the systems it stewards, or a pointer to the published instrument that names them, together with the independent route that applies when the chartered entity is itself the subject ([Chapter Nine §3.7 Record custody and opening authority](core_09_standing_assessment.md#37-record-custody-and-opening-authority)); and
     - where [Def.P2 Binding Stakeholder Choice](core_05_band_participation.md#binding-stakeholder-choice-cluster) admission scope applies, **pointers** to the published decision-sequence, weighting, and rights-collision-record rules that carry that substance (for institutions, commonly the **CI-8.1** participation-window / decision-path materials and the **CI-8.2** weighting publication file).
 
     It supports institutional creation under [System Creation](core_05_band_participation.md#system-creation-constitutional) and [Business Creation](core_05_band_participation.md#business-creation-constitutional) by making operated scope reviewable without narrowing those floors. Adopt, amend, and supervise mechanics route to [corpus_institutions.md](corpus_institutions.md) under **Chapter Seventeen** incorporation discipline.
@@ -2658,7 +2658,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality) (heightened-risk index: **Systemic Lock-In**, **Reversibility**, **Dependency**); [§9.3 Openness Aspiration](core_01_c_stewardship_capacity_principles.md#93-openness-aspiration) (anti-lock-in aspiration read with interoperability / exit artifacts).
+- Downstream: Principles: [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality) (heightened-risk index: **Systemic Lock-In**, **Reversibility**, **Dependency**); [Chapter One §9.3 Openness Aspiration](core_01_c_stewardship_capacity_principles.md#93-openness-aspiration) (anti-lock-in aspiration read with interoperability / exit artifacts).
 - Cluster component: [the dependent cluster *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)
 - Read with: [Dependency](core_05_band_continuity.md#dependency), [Material Impact](core_05_band_oversight.md#material-impact), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Consent](core_05_band_participation.md#consent-constitutional), [Contestability](core_05_band_accountability.md#contestability), and [Article XIX](core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) where incorporated implementation assigns exit-integrity duties.
 
@@ -2784,7 +2784,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing) (survival / shelter continuity); [§6.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) (**Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) read-together noted in **O** line); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Dependency** scaling).
+- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing) (survival / shelter continuity); [Chapter One §6.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) (**Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) read-together noted in **O** line); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Dependency** scaling).
 - Owner floor: [Article III-A](core_06_rights_part_a.md#article-iii-a-survival) (*Survival*) *Stable shelter and operating environment* bullet, *Protection against arbitrary eviction* protection. Cross-references: [Article XIX](core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) interoperability / portability / exit-integrity (distinct but read-together), [Article XXVI-D](core_06_rights_part_d.md#article-xxvi-d-non-compliant-property-and-systems-voluntary-turnover-incentives) (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) transitional-stewardship.
 - Cluster component: [Bodily-Maintenance Access, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (now consolidated with Safe Conditions and Rest/Leisure and Rest in the Section 3.5 Labor and Economic Floor cluster).
 - Read with: [Essential-Environment Non-Commodification](core_05_band_continuity.md#essential-environment-non-commodification-constitutional), [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional), [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Dependency](core_05_band_continuity.md#dependency), and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
@@ -2832,7 +2832,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
   - **Primary failure:** eviction, displacement, or ending of an essential shelter or operating-environment relationship without a concrete, case-specific reason, meaningful notice, and a real chance to contest.
   - **Secondary failure:**
     - ending occupancy contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); or
-    - treating this entry as overridden by [Article XIX](core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) mechanics without resolving the collision under [Chapter One §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
+    - treating this entry as overridden by [Article XIX](core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) mechanics without resolving the collision under [Chapter One §6.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
 
 ---
 
@@ -2910,7 +2910,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <a id="indigenous-continuity-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** narrowings, displacements, exclusions contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), or category-label exclusions that defeat community-level continuity without satisfying **Article V-B** (*Nondiscrimination*) [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) tests; using this entry or [Chapter Seventeen](core_17_incorporation.md) incorporation to cut land, consultation, or free, prior, and informed consent duties the adopter already bears under its own law or binding instruments;
-  - **Secondary failure:** adopter narrowing below the adopter's own prior recognition floor ([Chapter Fourteen non-regression](core_14_non_regression.md); [Chapter Seventeen §3](core_17_incorporation.md#3-safeguards) safeguards and [Chapter One §8.4.3](core_01_b_interaction_interpretation.md#843-incorporation-layer) stricter clearly adopted baseline);
+  - **Secondary failure:** adopter narrowing below the adopter's own prior recognition floor ([Chapter Fourteen non-regression](core_14_non_regression.md); [Chapter Seventeen §3](core_17_incorporation.md#3-safeguards) safeguards and [Chapter One §8.4.3 Incorporation layer](core_01_b_interaction_interpretation.md#843-incorporation-layer) stricter clearly adopted baseline);
   - **Tertiary failure:** misreading the boundary of this entry, including:
     - category-label framings substituting for capability-functional evaluation; and
     - reading this entry as adjudicating historical territorial claims, creating a restitution mandate, or narrowing [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) ecosystem-integrity floors.
@@ -2924,7 +2924,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline) (nondiscrimination limitations tests).
+- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [Chapter One §5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline) (nondiscrimination limitations tests).
 - Owner floor: [Article V-B](core_06_rights_part_b.md#article-v-b-nondiscrimination) (*Nondiscrimination*).
 - Cluster component: [Bodily-Maintenance Access, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) where language, culture, or heritage continuity is materially tied to place, ecosystem, occupancy continuity, bodily-maintenance access, or participation capacity. (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster.)
 - Cluster component: [the dependent cluster *Indigenous Continuity, Language Culture and Heritage, Natural Systems Standing, and Intergenerational Responsibility*](core_05_band_continuity.md#indigenous-continuity-language-culture-heritage-semi-independent).
@@ -3052,7 +3052,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) (labor-floor burden vs false efficiency).
+- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [Chapter One §6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) (labor-floor burden vs false efficiency).
 - Owner floor: [Article III-D](core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*). Implementation routing: [**CI-9**](corpus_institutions/ci_09_classification_linked_institutional_obligations.md) (*Classification-linked institutional obligations*) / **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*) / **CI-11** (*Resource stewardship and incentive integrity*).
 - Cluster component: [Def.C1 *Labor and Economic Floor*](core_05_band_continuity.md#labor-and-economic-floor-cluster).
 - Read with: [Safe Conditions](core_05_band_continuity.md#safe-conditions-constitutional), [Leisure and Rest](core_05_band_continuity.md#leisure-and-rest-constitutional), [Collective Organization](core_05_band_participation.md#collective-organization-constitutional), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Dependency](core_05_band_continuity.md#dependency), and [Lifespan Equivalent Unit (LEQU)](core_05_band_participation.md#lifespan-equivalent-unit-lequ) (where quantitative calibration of benefit or deprivation is material).
@@ -3185,7 +3185,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) (participation-capacity preservation vs false efficiency); [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency) (**Meaningful Agency** in tradeoff stack); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Materiality** / **Dependency** scaling).
+- Downstream: Principles: [Chapter One §6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) (participation-capacity preservation vs false efficiency); [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency) (**Meaningful Agency** in tradeoff stack); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Materiality** / **Dependency** scaling).
 - Owner floor: [Article III-F](core_06_rights_part_a.md#article-iii-f-rest-and-recuperation) (*Rest and Recuperation*).
 - Cluster component: [Def.C1 *Labor and Economic Floor*](core_05_band_continuity.md#labor-and-economic-floor-cluster).
 - Read with: [Fair Compensation](core_05_band_continuity.md#fair-compensation-constitutional), [Collective Organization](core_05_band_participation.md#collective-organization-constitutional), [Safe Conditions](core_05_band_continuity.md#safe-conditions-constitutional), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Wellbeing](core_05_band_continuity.md#wellbeing), and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
@@ -3309,7 +3309,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§13.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good); [§9.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#91-distributed-understanding) (attribution / traceability read-with).
+- Downstream: Principles: [Chapter One §13.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good); [Chapter One §9.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#91-distributed-understanding) (attribution / traceability read-with).
 - Owner floor: [Article VIII-D](core_06_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*).
 - Cluster component: [Def.C1 *Labor and Economic Floor*](core_05_band_continuity.md#labor-and-economic-floor-cluster).
 - Read with: [Training-Data Use](core_05_band_continuity.md#training-data-use-constitutional), [Anti-Displacement Floor](core_05_band_continuity.md#anti-displacement-floor-constitutional), [Fair Compensation](core_05_band_continuity.md#fair-compensation-constitutional), [Collective Organization](core_05_band_participation.md#collective-organization-constitutional), [Safe Conditions](core_05_band_continuity.md#safe-conditions-constitutional), [Leisure and Rest](core_05_band_continuity.md#leisure-and-rest-constitutional), [Good Faith](core_05_band_accountability.md#good-faith), [Consent](core_05_band_participation.md#consent-constitutional), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
@@ -3436,7 +3436,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§13.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good); [§14.1 Market Concentration Threshold Mechanism](core_01_c_stewardship_capacity_principles.md#141-market-concentration-threshold-mechanism-adopter-tunable) (displacement at population scale read-with §6 stack).
+- Downstream: Principles: [Chapter One §13.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good); [Chapter One §14.1 Market Concentration Threshold Mechanism](core_01_c_stewardship_capacity_principles.md#141-market-concentration-threshold-mechanism-adopter-tunable) (displacement at population scale read-with §6 stack).
 - Owner floors: [Article III-D](core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*) (labor-and-economic, cross-cutting) and [Article VIII-D](core_06_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*) (creative-work application).
 - Cluster component: [Def.C1 *Labor and Economic Floor*](core_05_band_continuity.md#labor-and-economic-floor-cluster).
 - Read with: [Fair Compensation](core_05_band_continuity.md#fair-compensation-constitutional), [Collective Organization](core_05_band_participation.md#collective-organization-constitutional), [Safe Conditions](core_05_band_continuity.md#safe-conditions-constitutional), [Leisure and Rest](core_05_band_continuity.md#leisure-and-rest-constitutional), [Creative Work Attribution](core_05_band_continuity.md#creative-work-attribution-constitutional), [Training-Data Use](core_05_band_continuity.md#training-data-use-constitutional), [Productive Capacity](core_05_band_continuity.md#productive-capacity-constitutional), [Avoidable Burden](core_05_band_continuity.md#avoidable-burden), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
@@ -3477,7 +3477,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
       - gradual ratcheting (slow, stepwise worsening);
       - platform-consolidation pressure (fewer platforms controlling access to work); and
       - cross-domain substitution (replacing work in one field by automating adjacent fields);
-    - where a few actors dominate the market, apply the [Chapter One §14 Market Structure](core_01_c_stewardship_capacity_principles.md#14-market-structure) anti-concentration rules and the [§14.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](core_01_c_stewardship_capacity_principles.md#141-market-concentration-threshold-mechanism-adopter-tunable) concentration-threshold mechanism.
+    - where a few actors dominate the market, apply the [Chapter One §14 Market Structure](core_01_c_stewardship_capacity_principles.md#14-market-structure) anti-concentration rules and the [Chapter One §14.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](core_01_c_stewardship_capacity_principles.md#141-market-concentration-threshold-mechanism-adopter-tunable) concentration-threshold mechanism.
   - **Secondary measure:** co-measures that can defeat the floor even where a mitigation program is announced:
     - [Fair Compensation](core_05_band_continuity.md#fair-compensation-constitutional);
     - [Creative Work Attribution](core_05_band_continuity.md#creative-work-attribution-constitutional);
@@ -3575,7 +3575,7 @@ See **Joint invocation and satisfaction**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth); [§10.1 Shared Stewardship Standard](core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard); [§11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline).
+- Downstream: Principles: [Chapter One §9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth); [Chapter One §10.1 Shared Stewardship Standard](core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard); [Chapter One §11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline).
 - Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05_band_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
 - Read with: [Chapter One Part C](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance) §§9–15; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim (*cluster read-with principles*).
 - Read with: [Governance](core_05_band_accountability.md#governance), [Shared-System Capacity](core_05_band_continuity.md#shared-system-capacity-constitutional), [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim, [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional), and [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional).
@@ -3634,7 +3634,7 @@ See **Joint invocation and satisfaction**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth); [§9.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#91-distributed-understanding).
+- Downstream: Principles: [Chapter One §9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth); [Chapter One §9.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#91-distributed-understanding).
 - Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05_band_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
 - Read with: [Educational Agency](core_05_band_participation.md#educational-agency), [Transparency](core_05_band_oversight.md#transparency), [Accessibility](core_05_band_participation.md#accessibility-constitutional), [Materiality Determination](core_05_band_oversight.md#materiality-determination), [Dependency](core_05_band_continuity.md#dependency), and [Article XX](core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*).
 
@@ -3691,7 +3691,7 @@ See **Joint invocation and satisfaction**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§12.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1213-stewardship-and-operator-application), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and Chapter Six strategy / stewardship requirements.
+- Downstream: Principles: [Chapter One §12.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1213-stewardship-and-operator-application), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and Chapter Six strategy / stewardship requirements.
 - Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05_band_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
 - Read with: [Stewardship Defect](core_05_band_continuity.md#stewardship-defect-constitutional), [Short-Horizon Governance Defect](core_05_band_continuity.md#short-horizon-governance-defect-constitutional), [Review and Correction Duty](core_05_band_continuity.md#review-and-correction-duty-constitutional), [Governance](core_05_band_accountability.md#governance), [Incentive Alignment](core_05_band_integrative.md#incentive-alignment), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence), [Materiality Determination](core_05_band_oversight.md#materiality-determination), [Risk](core_05_band_continuity.md#risk), and [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional).
 
@@ -3747,7 +3747,7 @@ See **Joint invocation and satisfaction**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§12 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#12-incentive-alignment-and-system-capture); [§11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline).
+- Downstream: Principles: [Chapter One §12 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#12-incentive-alignment-and-system-capture); [Chapter One §11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline).
 - Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05_band_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
 - Read with: [Governance](core_05_band_accountability.md#governance), [Stewardship](core_05_band_continuity.md#stewardship-constitutional), [Stewardship Defect](core_05_band_continuity.md#stewardship-defect-constitutional), [System Capture](core_05_band_continuity.md#system-capture), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), [Review and Correction Duty](core_05_band_continuity.md#review-and-correction-duty-constitutional), and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim.
 
@@ -3792,7 +3792,7 @@ See **Joint invocation and satisfaction**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§12.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1213-stewardship-and-operator-application), [§11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Downstream: Principles: [Chapter One §12.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1213-stewardship-and-operator-application), [§11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05_band_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
 - Read with: [Strategic Stewardship Obligation](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional), [Short-Horizon Governance Defect](core_05_band_continuity.md#short-horizon-governance-defect-constitutional), [Review and Correction Duty](core_05_band_continuity.md#review-and-correction-duty-constitutional), [Governance](core_05_band_accountability.md#governance), [Incentive Alignment](core_05_band_integrative.md#incentive-alignment), [System Capture](core_05_band_continuity.md#system-capture), [Materiality Determination](core_05_band_oversight.md#materiality-determination), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), and [Accountability](core_05_apex_accountability_leg.md#accountability).
 
@@ -3851,7 +3851,7 @@ See **Joint invocation and satisfaction**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [§12.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1213-stewardship-and-operator-application); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (periodic revalidation / misalignment detection).
+- Downstream: Principles: [Chapter One §12.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1213-stewardship-and-operator-application); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (periodic revalidation / misalignment detection).
 - Owner floor: [Chapter Thirteen §3](core_13_governance.md#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
 - Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05_band_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
 - Read with: [Accountability, contestability, and redress pathways](core_05_band_accountability.md#accountability-contestability-semi-independent); [Material Impact](core_05_band_oversight.md#material-impact), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), [System Capture](core_05_band_continuity.md#system-capture), [Auditability](core_05_band_oversight.md#auditability), [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional), and Chapters Two through Four (traceability, observability, verification) as referenced in [Chapter Thirteen §3](core_13_governance.md#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
@@ -3892,7 +3892,7 @@ See **Joint invocation and satisfaction**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Participation measurement family (*Privacy and data stewardship as constitutional measurement*); Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-principle-constraints-safety-and-truth), [§6.2.3 Privacy and Informational Self-Determination](core_01_b_interaction_interpretation.md#623-privacy-and-informational-self-determination), and Chapter Six privacy-distribution articles where informational handling affects agency, dignity, security, or truth.
+- Downstream: Participation measurement family (*Privacy and data stewardship as constitutional measurement*); Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-principle-constraints-safety-and-truth), [Chapter One §6.2.3 Privacy and Informational Self-Determination](core_01_b_interaction_interpretation.md#623-privacy-and-informational-self-determination), and Chapter Six privacy-distribution articles where informational handling affects agency, dignity, security, or truth.
 - Downstream: [Article VII-A](core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind) (*self-ownership of body and mind*); [Article VII-B](core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection) (*internal-state boundary and Type N protection*); [Article VIII](core_06_rights_part_b.md#article-viii-likeness-experiential-data-and-publication-rights) (*likeness, experiential data, and publication rights*); [Article IX-A](core_06_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation) (*agency and freedom from manipulation*); [Article XIII-A](core_06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) (*security, intelligence, and covert-power limits*).
 - Read with: Apply [Consent](core_05_band_participation.md#consent-constitutional), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional), [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary), and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** where Type N or comparable handling is implicated.
 
@@ -4134,7 +4134,7 @@ See **Joint invocation and satisfaction**.
   - treat reliance as justified without the joint observable-and-verifiable evidence discipline both entries require; or
   - satisfy one [Trustworthiness](core_05_band_continuity.md#trustworthiness) assessment subcomponent while bypassing another where materially relevant.
 
-  See **Joint invocation and satisfaction** and Chapter Three §§1–2.
+  See **Joint invocation and satisfaction** and Chapter Three §1 (*Definition Integrity and Anti-Evasion Constraints*) through §2 (*Non-Compliance from Observable System Behavior*).
 
 **Cluster members.** This cluster comprises:
 - [Trust](core_05_band_continuity.md#trust) — reliance grounded exclusively in demonstrated trustworthiness;
@@ -4253,7 +4253,7 @@ See **Joint invocation and satisfaction**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Oversight measurement family (*Trustworthiness as constitutional measurement*); Principles: [§11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline).
+- Downstream: Oversight measurement family (*Trustworthiness as constitutional measurement*); Principles: [Chapter One §11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline).
 - Read with: [Trust](core_05_band_continuity.md#trust), [Trustworthiness](core_05_band_continuity.md#trustworthiness), [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), [Accountability](core_05_apex_accountability_leg.md#accountability), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Contestability](core_05_band_accountability.md#contestability), and [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional).
 
 </details>
@@ -4336,7 +4336,7 @@ See **Joint invocation and satisfaction**.
 <a id="trust-degradation-and-misleading-reliance-c"></a>
 - **What must hold**
   - **Primary failure:**
-    - cherry-picking one member definition to bypass another within admission scope ([Chapter Five §2.1 Joint invocation and satisfaction](core_05__definitions_home.md#21-joint-invocation-and-satisfaction); Chapter Three §§1–2); and
+    - cherry-picking one member definition to bypass another within admission scope ([Chapter Five §2.1 Joint invocation and satisfaction](core_05__definitions_home.md#21-joint-invocation-and-satisfaction); Chapter Three §1 (*Definition Integrity and Anti-Evasion Constraints*) through §2 (*Non-Compliance from Observable System Behavior*)); and
     - isolated formal compliance with disclosure or audit artifacts that defeats substantively informed understanding, independent verification, or effective challenge.
   - **Secondary failure:** looking compliant in one implementation file while related duties that the same trust claim depends on remain unmet in another — see [Chapter One §8.4.4](core_01_b_interaction_interpretation.md#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined satisfaction of jointly applicable incorporated obligations*) and [CJS-2.3](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-23-cross-implementation-trust-integrity-joint-operation-model) (*Cross-implementation trust integrity*).
   - **Tertiary failure:**

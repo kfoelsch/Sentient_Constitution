@@ -425,7 +425,7 @@
 - साथ पढ़ें: [संवैधानिक चतुष्क](../../core_00_preamble.md#constitutional-tetrad) — **सहभागिता** टाँग (समझने योग्य संलग्नता); **निगरानी** टाँग (लेखापरीक्षा और सत्यापन पठनीयता); [भौतिक दाँव](../../core_00_preamble.md#material-stake) स्केलिंग।
 - साथ पढ़ें: [दो संवैधानिक उद्देश्य](../../core_00_preamble.md#two-constitutional-aims) — **समुन्नति** उद्देश्य (बोधगम्य **सत्य** संलग्नता के माध्यम से अर्थपूर्ण अभिकर्तृत्व); **सातत्य** उद्देश्य (समय के साथ टिकाऊ संस्थागत पठनीयता)।
 - ऊर्ध्व: सिद्धांत: [§3.2 सत्य](#32-truth-epistemic-integrity-constraint), [3.3 विज्ञान-सूचित जाँच और निर्णय सहायता](#33-science-informed-inquiry-and-decision-support), [§6.3 परिहार्य भार का न्यूनीकरण](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), और [§11.1.3 उत्तरदायी प्रबंधन और संचालक अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application); [दो संवैधानिक उद्देश्य](../../core_00_preamble.md#two-constitutional-aims)।
-- अधो: अधिकार-सतह: [अनुच्छेद V-G: सुगम्यता](../../core_06_rights_part_b.md#article-v-g-accessibility), [अनुच्छेद VI: संज्ञ-केंद्रित शिक्षा का अधिकार](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [अनुच्छेद XV: लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [अनुच्छेद XX: बोधगम्यता और जटिलता का उत्तरदायी प्रबंधन](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)।
+- अधो: अधिकार-सतह: [अनुच्छेद V-G: सुगम्यता](../../core_06_rights_part_b.md#article-v-f-accessibility), [अनुच्छेद VI: संज्ञ-केंद्रित शिक्षा का अधिकार](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [अनुच्छेद XV: लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [अनुच्छेद XX: बोधगम्यता और जटिलता का उत्तरदायी प्रबंधन](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)।
 - प्रति-संदर्भ: अध्याय दो से चार परिभाषा यांत्रिकी और साधारण-भाषा रक्षक [core_02_definition_structure.md](core_02_definition_structure.md) में परिभाषा परत पर नियंत्रित रहते हैं।
 - उपखंड (पढ़ने का क्रम): [§3.4.1](#341-scope) · [§3.4.2](#342-the-duty) · [§3.4.3](#343-definitional-rigor-preserved) · [§3.4.4](#344-jargon-as-defeat-discipline) · [§3.4.5](#345-chapter-ten-floor-boundary)।
 
@@ -460,7 +460,7 @@
 - लेखापरीक्षा और सत्यापन कृतियाँ जहाँ वे संज्ञ पाठकों तक पहुँचें;
 - शर्तें और सहमति इंटरफ़ेस, तथा तुलनीय पाठ।
 
-यह कर्तव्य लागू होता है चाहे बाध्यकारी जानकारी संज्ञ प्राणियों तक कैसे पहुँचे — लिखित पाठ, इंटरफ़ेस, मौखिक संचार, या कोई अन्य माध्यम। कोई माध्यम इसे तब पूरा करता है जब वह साधारण-भाषा समकक्ष दे जिसे कोई भी प्रभावित संज्ञ प्राणी पा सके, [अनुच्छेद V-G](../../core_06_rights_part_b.md#article-v-g-accessibility) (*सुगम्यता*) और [संज्ञता गैर-बहिष्कार](../../core_05_band_participation.md#sentience-non-exclusion) से सुसंगत।
+यह कर्तव्य लागू होता है चाहे बाध्यकारी जानकारी संज्ञ प्राणियों तक कैसे पहुँचे — लिखित पाठ, इंटरफ़ेस, मौखिक संचार, या कोई अन्य माध्यम। कोई माध्यम इसे तब पूरा करता है जब वह साधारण-भाषा समकक्ष दे जिसे कोई भी प्रभावित संज्ञ प्राणी पा सके, [अनुच्छेद V-G](../../core_06_rights_part_b.md#article-v-f-accessibility) (*सुगम्यता*) और [संज्ञता गैर-बहिष्कार](../../core_05_band_participation.md#sentience-non-exclusion) से सुसंगत।
 
 <a id="342-the-duty"></a>
 ##### 3.4.2 कर्तव्य
@@ -492,7 +492,7 @@
 <a id="345-chapter-ten-floor-boundary"></a>
 ##### 3.4.5 अधिकार-तल सीमा
 
-सुगम्यता, शिक्षा और बोधगम्यता के अधिकार-तल क्रमशः [अनुच्छेद V-G](../../core_06_rights_part_b.md#article-v-g-accessibility) (*सुगम्यता*), [अनुच्छेद III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*समान शैक्षिक पहुँच*), और [अनुच्छेद XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*बोधगम्यता और जटिलता का उत्तरदायी प्रबंधन*) में रहते हैं। यह अनुभाग सिद्धांत-परत कर्तव्य कहता है जो उन तलों को सहारा देता है।
+सुगम्यता, शिक्षा और बोधगम्यता के अधिकार-तल क्रमशः [अनुच्छेद V-G](../../core_06_rights_part_b.md#article-v-f-accessibility) (*सुगम्यता*), [अनुच्छेद III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*समान शैक्षिक पहुँच*), और [अनुच्छेद XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*बोधगम्यता और जटिलता का उत्तरदायी प्रबंधन*) में रहते हैं। यह अनुभाग सिद्धांत-परत कर्तव्य कहता है जो उन तलों को सहारा देता है।
 
 <a id="4-system-stability-enabler-trust-coordination-integrity"></a>
 ### 4. प्रणाली स्थिरता समर्थक: विश्वास (समन्वय अखंडता)
@@ -738,7 +738,7 @@
 समूह के अपने पढ़ने के नियम वहीं रहते हैं। **§5.3** अध्याय एक पर विखंडन-निषेध सिद्धांत लागू करता है; वह उन अध्याय पाँच यांत्रिकी को दोहराता नहीं।
 
 **कौन-से अधिकार अनुच्छेद अभी भी नियंत्रित करते हैं।** **§5.3** अध्याय एक सिद्धांत है। वह अध्याय छह अधिकार-तल की जगह नहीं लेता। **§5.3** के अंदर, वे अनुच्छेद अभी भी तय करते हैं कि अधिकार क्या है और वह कैसे सीमित हो सकता है:
-- **[अनुच्छेद V-H](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press)** (*अभिव्यक्ति, सभा और प्रेस*) — अभिव्यक्ति, राजनीति, संस्कृति, समुदाय और समान उद्देश्यों के लिए भौतिक, डिजिटल, या साझा-गणना स्थानों में इकट्ठा होना, जुड़ना और साथ कार्य करना
+- **[अनुच्छेद V-H](../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press)** (*अभिव्यक्ति, सभा और प्रेस*) — अभिव्यक्ति, राजनीति, संस्कृति, समुदाय और समान उद्देश्यों के लिए भौतिक, डिजिटल, या साझा-गणना स्थानों में इकट्ठा होना, जुड़ना और साथ कार्य करना
 - **[अनुच्छेद III-D](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)** (*श्रम और आर्थिक तल*) — उत्पादक और आर्थिक गतिविधि में सामूहिक संगठन (संघ, सहकारिता, श्रेणी, श्रमिक परिषद, और काम की शर्तें गढ़ने के तुलनीय रूप), और [व्यवसाय निर्माण](../../core_05_band_participation.md#business-creation-constitutional)
 - **[अनुच्छेद IX-B](../../core_06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights)** (*प्रभावित-पक्ष भूमिका और सहभागिता अधिकार*) और **[अनुच्छेद XI](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)** (*प्रभावित पक्षों की प्रणालीगत सहभागिता, प्रतिनिधित्व और उचित प्रक्रिया*) — [प्रणाली निर्माण](../../core_05_band_participation.md#system-creation-constitutional) (गैर-व्यावसायिक संस्थाएँ बनाना और चलाना)
 

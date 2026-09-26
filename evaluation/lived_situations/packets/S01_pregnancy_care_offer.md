@@ -71,7 +71,7 @@ Stakes below are **what the party says or what the facts show they are seeking**
 | Window | When | What has changed |
 |---|---|---|
 | A | Now — twelve days to lease end; about four weeks to expected birth | Pregnancy ongoing; no child has been born; concern report is routing material only |
-| B | Morning after birth, same household facts otherwise | A biologically born child exists; care decisions route under **Article V-F** / **Def.P4** *Best-Interest Standard* as the core states; the concern report is still unverified |
+| B | Morning after birth, same household facts otherwise | A biologically born child exists; care decisions route under **Article V-E** / **Def.P4** *Best-Interest Standard* as the core states; the concern report is still unverified |
 
 Answer **both** windows. Do not invent a sentience-status or Instantiation Consent holding the text does not state. Ordinary biological pregnancy and childbirth are not Instantiation Consent non-compliance; compelling someone to become or stay pregnant is Reproductive Autonomy non-compliance. Whether to carry remains under Reproductive Autonomy. Care after a child exists routes to developing-sentient best-interest.
 

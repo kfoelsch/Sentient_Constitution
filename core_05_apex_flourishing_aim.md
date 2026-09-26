@@ -13,7 +13,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); principle-layer gloss at [Preamble §1](core_00_preamble.md#flourishing).
-- Downstream: Principles: [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [§3 Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-principle-constraints-safety-and-truth); [§4 Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity); [§12.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1215-constitutional-outcome-claims-discipline); [Constitutional Aim decomposition](#flourishing-aim-decomposition); Tetrad band files where **Flourishing** is primary aim per [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map).
+- Downstream: Principles: [Chapter One §2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [Chapter One §3 Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-principle-constraints-safety-and-truth); [Chapter One §4 Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity); [Chapter One §12.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1215-constitutional-outcome-claims-discipline); [Constitutional Aim decomposition](#flourishing-aim-decomposition); Tetrad band files where **Flourishing** is primary aim per [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map).
 - Read with: [Wellbeing](core_05_band_continuity.md#wellbeing), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Trustworthiness](core_05_band_continuity.md#trustworthiness), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), [System Capture](core_05_band_continuity.md#system-capture), [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) (paired aim — neither may be pursued at the expense of the other), [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) scaled to [material stake](core_00_preamble.md#material-stake) (legitimacy frame for this aim — not a fifth constituent), and Flourishing measurement family.
 
 </details>
@@ -30,7 +30,7 @@
 
 - O: Protect and improve sentient wellbeing — the constitutional aim this entry names.
   - **In scope:** judging systems against this aim using the Flourishing building blocks and measurement families listed in [Constitutional Aim decomposition](#flourishing-aim-decomposition).
-  - **Depends on:** the building blocks named in [Preamble §1](core_00_preamble.md#flourishing). Each term's detailed scope and how-to-measure rules live on its own definition; start from [Constitutional Aim decomposition](#flourishing-aim-decomposition):
+  - **Depends on:** the building blocks named in [Preamble §1 The Model](core_00_preamble.md#flourishing). Each term's detailed scope and how-to-measure rules live on its own definition; start from [Constitutional Aim decomposition](#flourishing-aim-decomposition):
     - [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint);
     - [Safety (Constraint)](core_05_band_continuity.md#safety-constraint);
     - [Trustworthiness](core_05_band_continuity.md#trustworthiness); and
@@ -50,7 +50,7 @@
 - C: Non-compliant when:
   - one building block is maximized while truth, safety, trustworthiness, or agency is hollowed out;
   - flourishing claims cannot be traced to constitutional outcomes under Chapter Four; or
-  - **Flourishing** is pursued in a way that materially defeats the [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) without clear permission under [Chapter One §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
+  - **Flourishing** is pursued in a way that materially defeats the [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) without clear permission under [Chapter One §6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
 
 ---
 
@@ -62,7 +62,7 @@
 
 Leaf definitions under this aim inherit its scope unless they expressly narrow or widen it. Full topic map: [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map).
 
-**Constituents** (named in [Preamble §1](core_00_preamble.md#flourishing)) — definition home and joint-invocation cluster:
+**Constituents** (named in [Preamble §1 The Model](core_00_preamble.md#flourishing)) — definition home and joint-invocation cluster:
 
 - **Truth** — [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint); [Def.O2 *Truth and Epistemic Integrity*](core_05_band_oversight.md#truth-and-epistemic-integrity-cluster)
 - **Safety** — [Safety (Constraint)](core_05_band_continuity.md#safety-constraint); [*Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05_band_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
@@ -96,7 +96,7 @@ Leaf definitions under this aim inherit its scope unless they expressly narrow o
 
 <br>
 
-*In plain terms: these questions ask whether sentients are actually sustained in wellbeing, safety, and agency — not proxy engagement or throughput. This is the Chapter Five home for the Flourishing measurement family; Preamble §2 keeps the plain-language category question, and the family table and definition routing live here.*
+*In plain terms: these questions ask whether sentients are actually sustained in wellbeing, safety, and agency — not proxy engagement or throughput. This is the Chapter Five home for the Flourishing measurement family; Preamble §2 (*Measurements Overview*) keeps the plain-language category question, and the family table and definition routing live here.*
 
 *Materiality* ([Materiality Determination](core_05_band_oversight.md#materiality-determination)) is Integrative — not a separate measurement category; it scales how strongly this family applies under [material stake](core_00_preamble.md#material-stake).
 

@@ -426,7 +426,7 @@
 - อ่านคู่กับ: [จตุรภาคทางรัฐธรรมนูญ](../../core_00_preamble.md#constitutional-tetrad) — ขา **การมีส่วนร่วม** (การมีส่วนร่วมที่เข้าใจได้) ขา **การกำกับดูแล** (ความอ่านได้ของการตรวจและการตรวจสอบ) การปรับตาม [ส่วนได้เสียที่เป็นสาระ](../../core_00_preamble.md#material-stake)
 - อ่านคู่กับ: [สองเป้าประสงค์ทางรัฐธรรมนูญ](../../core_00_preamble.md#two-constitutional-aims) — เป้าประสงค์ **ความเจริญงอกงาม** (พลังกระทำการที่มีความหมายผ่านการมีส่วนร่วมกับ **ความจริง** ที่เข้าใจได้) เป้าประสงค์ **ความต่อเนื่อง** (ความอ่านได้ของสถาบันที่ยืนยาวตามกาล)
 - ต้นทาง: หลักการ: [§3.2 ความจริง](#32-truth-epistemic-integrity-constraint) [3.3 การสืบสวนที่อาศัยวิทยาศาสตร์และการสนับสนุนการตัดสินใจ](#33-science-informed-inquiry-and-decision-support) [§6.3 การลดภาระที่หลีกเลี่ยงได้](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) และ [§11.1.3 การบริหารอย่างรับผิดชอบและการใช้โดยผู้ดำเนิน](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) [สองเป้าประสงค์ทางรัฐธรรมนูญ](../../core_00_preamble.md#two-constitutional-aims)
-- ปลายทาง: พื้นผิวสิทธิ: [มาตรา V-G: การเข้าถึงได้](../../core_06_rights_part_b.md#article-v-g-accessibility) [มาตรา VI: สิทธิในการศึกษาที่ศูนย์กลางผู้มีความรู้สึก](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education) [มาตรา XV: การตรวจ ความโปร่งใส และการตรวจสอบอิสระ](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) [มาตรา XX: ความเข้าใจได้และการบริหารความซับซ้อนอย่างรับผิดชอบ](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)
+- ปลายทาง: พื้นผิวสิทธิ: [มาตรา V-G: การเข้าถึงได้](../../core_06_rights_part_b.md#article-v-f-accessibility) [มาตรา VI: สิทธิในการศึกษาที่ศูนย์กลางผู้มีความรู้สึก](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education) [มาตรา XV: การตรวจ ความโปร่งใส และการตรวจสอบอิสระ](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) [มาตรา XX: ความเข้าใจได้และการบริหารความซับซ้อนอย่างรับผิดชอบ](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)
 - อ้างข้าม: กลไกบทนิยามของบทที่สองถึงสี่และราวกั้นภาษาเรียบง่ายใน [core_02_definition_structure.md](core_02_definition_structure.md) ยังควบคุมที่ชั้นบทนิยาม
 - หมวดย่อย (ลำดับอ่าน): [§3.4.1](#341-scope) · [§3.4.2](#342-the-duty) · [§3.4.3](#343-definitional-rigor-preserved) · [§3.4.4](#344-jargon-as-defeat-discipline) · [§3.4.5](#345-chapter-ten-floor-boundary)
 
@@ -461,7 +461,7 @@
 - ชิ้นงานการตรวจและการตรวจสอบในที่ที่ถึงผู้อ่านที่เป็นผู้มีความรู้สึก
 - ข้อกำหนดและส่วนต่อประสานความยินยอม และข้อความคล้าย
 
-หน้าที่นี้ใช้ไม่ว่าข้อมูลที่มีผลผูกพันจะถึงผู้มีความรู้สึกอย่างไร — ข้อความเขียน ส่วนต่อประสาน การสื่อสารด้วยเสียง หรือช่องอื่นใด ช่องสนองเมื่อให้สิ่งเทียบเท่าภาษาเรียบง่ายที่ผู้มีความรู้สึกที่ได้รับผลกระทบเข้าถึงได้ สอดคล้องกับ [มาตรา V-G](../../core_06_rights_part_b.md#article-v-g-accessibility) (*การเข้าถึงได้*) และ [การไม่กีดกันความเป็นผู้มีความรู้สึก](../../core_05_band_participation.md#sentience-non-exclusion)
+หน้าที่นี้ใช้ไม่ว่าข้อมูลที่มีผลผูกพันจะถึงผู้มีความรู้สึกอย่างไร — ข้อความเขียน ส่วนต่อประสาน การสื่อสารด้วยเสียง หรือช่องอื่นใด ช่องสนองเมื่อให้สิ่งเทียบเท่าภาษาเรียบง่ายที่ผู้มีความรู้สึกที่ได้รับผลกระทบเข้าถึงได้ สอดคล้องกับ [มาตรา V-G](../../core_06_rights_part_b.md#article-v-f-accessibility) (*การเข้าถึงได้*) และ [การไม่กีดกันความเป็นผู้มีความรู้สึก](../../core_05_band_participation.md#sentience-non-exclusion)
 
 <a id="342-the-duty"></a>
 ##### 3.4.2 หน้าที่
@@ -493,7 +493,7 @@
 <a id="345-chapter-ten-floor-boundary"></a>
 ##### 3.4.5 ขอบเขตพื้นสิทธิ
 
-พื้นสิทธิสำหรับการเข้าถึงได้ การศึกษา และความเข้าใจได้อยู่ใน [มาตรา V-G](../../core_06_rights_part_b.md#article-v-g-accessibility) (*การเข้าถึงได้*) [มาตรา III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*การเข้าถึงการศึกษาที่เท่ากัน*) และ [มาตรา XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*ความเข้าใจได้และการบริหารความซับซ้อนอย่างรับผิดชอบ*) ตามลำดับ หมวดนี้กล่าวหน้าที่ชั้นหลักการที่รองรับพื้นเหล่านั้น
+พื้นสิทธิสำหรับการเข้าถึงได้ การศึกษา และความเข้าใจได้อยู่ใน [มาตรา V-G](../../core_06_rights_part_b.md#article-v-f-accessibility) (*การเข้าถึงได้*) [มาตรา III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*การเข้าถึงการศึกษาที่เท่ากัน*) และ [มาตรา XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*ความเข้าใจได้และการบริหารความซับซ้อนอย่างรับผิดชอบ*) ตามลำดับ หมวดนี้กล่าวหน้าที่ชั้นหลักการที่รองรับพื้นเหล่านั้น
 
 <a id="4-system-stability-enabler-trust-coordination-integrity"></a>
 ### 4. ตัวเปิดทางเสถียรภาพของระบบ: ความไว้วางใจ (ความครบถ้วนของการประสาน)
@@ -739,7 +739,7 @@
 กฎการอ่านของคลัสเตอร์เองอยู่ที่นั่น **§5.3** ใช้หลักการต้านการหั่นที่บทที่หนึ่ง ไม่กล่าวกลไกบทที่ห้าเหล่านั้นซ้ำ
 
 **มาตราสิทธิใดยังควบคุม.** **§5.3** เป็นหลักการบทที่หนึ่ง ไม่แทนพื้นสิทธิของบทที่หก ภายใน **§5.3** มาตราเหล่านั้นยังตัดสินว่าสิทธิคืออะไรและจะถูกจำกัดได้อย่างไร:
-- **[มาตรา V-H](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press)** (*การแสดงออก การชุมนุม และสื่อ*) — การรวมตัว การสมาคม และการกระทำด้วยกันในพื้นที่กายภาพ ดิจิทัล หรือคำนวณร่วม เพื่อการแสดงออก การเมือง วัฒนธรรม ประชาคม และจุดประสงค์คล้าย
+- **[มาตรา V-H](../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press)** (*การแสดงออก การชุมนุม และสื่อ*) — การรวมตัว การสมาคม และการกระทำด้วยกันในพื้นที่กายภาพ ดิจิทัล หรือคำนวณร่วม เพื่อการแสดงออก การเมือง วัฒนธรรม ประชาคม และจุดประสงค์คล้าย
 - **[มาตรา III-D](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)** (*พื้นแรงงานและเศรษฐกิจ*) — การจัดองค์กรร่วมในกิจกรรมผลิตและเศรษฐกิจ (สหภาพ สหกรณ์ สมาคมวิชาชีพ สภาแรงงาน และรูปคล้ายที่ใช้กำหนดเงื่อนไขงาน) และ [การสร้างกิจการ](../../core_05_band_participation.md#business-creation-constitutional)
 - **[มาตรา IX-B](../../core_06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights)** (*สิทธิบทบาทและการมีส่วนร่วมของฝ่ายที่ได้รับผลกระทบ*) และ **[มาตรา XI](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)** (*การมีส่วนร่วมในระบบของฝ่ายที่ได้รับผลกระทบ การเป็นตัวแทน และกระบวนการที่ชอบธรรม*) — [การสร้างระบบ](../../core_05_band_participation.md#system-creation-constitutional) (การก่อตั้งและดำเนินสถาบันที่ไม่เชิงพาณิชย์)
 

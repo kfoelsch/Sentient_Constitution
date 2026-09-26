@@ -33,7 +33,7 @@ See: [Chapter Eight](../../../core_08_a_system_alignment_certification_evaluatio
 - **Today:** A safety badge, a score, or “the model is aligned” is used to say you are (or are not) someone this Constitution covers.
 - **With this Constitution:** Certification does not decide whether you count. A fair hearing on whether you count lives elsewhere.
 
-See: [Article V-E](../../../core_06_rights_part_b.md#anti-substitution-sentience-status).
+See: [Article V-D](../../../core_06_rights_part_b.md#anti-substitution-sentience-status).
 
 **The check is one large audit, not the only audit.**
 - **Today:** If the certification file is pretty, no one else may look.
@@ -53,7 +53,7 @@ See: [Article XV](../../../core_06_rights_part_c.md#article-xv-audit-transparenc
 ## What this will not pretend to give you
 
 - A promise that every system is already certified, or that reading this repository binds a host product.
-- A score that decides whether you count ([Article V-E](../../../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor)).
+- A score that decides whether you count ([Article V-D](../../../core_06_rights_part_b.md#article-v-d-sentience-status-adjudication-floor)).
 - A finished operator manual. Operational files outside numbered `core_*` chapters are not yet mature.
 
 ## If you want to look further

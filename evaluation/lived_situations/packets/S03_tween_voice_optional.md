@@ -81,7 +81,7 @@ Do not resolve the collision in this file.
 
 Beyond the sitting’s bounded reading path, open:
 
-- [Article V-F](../../../core_06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability) — decisions that actually affect Sami must reflect Sami’s interests and ascertainable wishes, not household convenience; voice is sought to the extent Sami can give it
+- [Article V-E](../../../core_06_rights_part_b.md#article-v-e-developing-sentients-best-interest-and-graduated-capability) — decisions that actually affect Sami must reflect Sami’s interests and ascertainable wishes, not household convenience; voice is sought to the extent Sami can give it
 - [Non-Separation](../../../core_05_band_participation.md#non-separation-constitutional); [Article VII-D](../../../core_06_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation)
 - [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) if the statement is dropped from the file
 - [CI-15](../../../corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md) only if the facts show the format of asking Sami is unusable; do not invent a diagnosis

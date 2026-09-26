@@ -336,7 +336,7 @@ life-changing or hard-to-reverse choices are not "voluntary" just because someon
 
 ##### 5.3 Assembly, Collective Organization, and Institutional Formation
 
-you cannot chop assembly, union-style organizing, platform access, or permission-to-operate questions into separate boxes in a way that keeps the paperwork friendly but defeats real collective action. This section does not replace the Rights Floor: Article V-H still owns assembly, and Article III-D still owns labor organizing.
+you cannot chop assembly, union-style organizing, platform access, or permission-to-operate questions into separate boxes in a way that keeps the paperwork friendly but defeats real collective action. This section does not replace the Rights Floor: Article IX-G still owns assembly, and Article III-D still owns labor organizing.
 
 [Source](../../core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation)
 
@@ -352,7 +352,7 @@ Source file: [`core_01_b_interaction_interpretation.md`](../../core_01_b_interac
 
 #### 6. Process Conflict Resolution
 
-values and rights will collide — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; privacy cannot be stripped for convenience; freedom limits apply under [§5.1](../../core_01_a_values_principles.md#51-limitation-discipline); rights conflicts need a documented decision test; and metrics that lie about compliance do not count. Short-horizon optimization cannot pass evaluation under [Chapter Eight §3.6 Time-Consistency Constraint](../../core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint). **§6.1–§6.3** carry the tradeoff rules, disclosure and privacy constraints, and rights-collision procedure.
+values and rights will collide — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; privacy cannot be stripped for convenience; freedom limits apply under [§5.1 Limitation Discipline](../../core_01_a_values_principles.md#51-limitation-discipline); rights conflicts need a documented decision test; and metrics that lie about compliance do not count. Short-horizon optimization cannot pass evaluation under [Chapter Eight §3.6 Time-Consistency Constraint](../../core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint). **§6.1** (*Core Tradeoff Principles*) through **§6.3** (*Minimization of Avoidable Burden*) carry the tradeoff rules, disclosure and privacy constraints, and rights-collision procedure.
 
 [Source](../../core_01_b_interaction_interpretation.md#6-process-conflict-resolution)
 
@@ -370,7 +370,7 @@ a restriction attaches only when no less-restrictive effective alternative exist
 
 ###### 6.1.2 Harm Minimization
 
-where multiple necessary options remain after [§6.1.1](../../core_01_b_interaction_interpretation.md#611-necessity) is satisfied, pick the one that causes the least total harm — counting everyone affected, ecosystems and living systems, all systems touched, and all time horizons that matter. Optimizing locally while creating systemic or ecological damage, or optimizing short-term while creating long-term harm, fails this test. Harm minimization never authorizes pushing below the constitutional floors in [§6.1.4](../../core_01_b_interaction_interpretation.md#614-constitutional-floors-safety-and-process-character-constraints).
+where multiple necessary options remain after [§6.1.1 Necessity](../../core_01_b_interaction_interpretation.md#611-necessity) is satisfied, pick the one that causes the least total harm — counting everyone affected, ecosystems and living systems, all systems touched, and all time horizons that matter. Optimizing locally while creating systemic or ecological damage, or optimizing short-term while creating long-term harm, fails this test. Harm minimization never authorizes pushing below the constitutional floors in [§6.1.4 Constitutional Floors, Safety, and Process-Character Constraints](../../core_01_b_interaction_interpretation.md#614-constitutional-floors-safety-and-process-character-constraints).
 
 [Source](../../core_01_b_interaction_interpretation.md#612-harm-minimization)
 
@@ -424,7 +424,7 @@ when a metric diverges from what it was meant to measure, leaning on that metric
 
 ##### 6.3 Minimization of Avoidable Burden
 
-once an option satisfies Safety, Truth, rights, and the tradeoff rules in §6.1, pick the one that wastes the least sentient time, attention, and effort. Simplify or remove steps that do not do constitutional work. Rights-protective process is not waste — but unjustified red tape is, and convenience or inertia cannot sustain it.
+once an option satisfies Safety, Truth, rights, and the tradeoff rules in §6.1 (*Core Tradeoff Principles*), pick the one that wastes the least sentient time, attention, and effort. Simplify or remove steps that do not do constitutional work. Rights-protective process is not waste — but unjustified red tape is, and convenience or inertia cannot sustain it.
 
 [Source](../../core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)
 
@@ -850,13 +850,13 @@ Source file: [`core_03_definition_integrity.md`](../../core_03_definition_integr
 
 #### 2. Non-Compliance from Observable System Behavior
 
-a system is non-compliant when what it actually does or produces would break a definition — judged under full functional conditions, not only on paper. Evasion means weakening a definition when it is actually applied. That is non-compliance under Chapter Two §2.2 — regardless of intent, awareness, or claimed purpose.
+a system is non-compliant when what it actually does or produces would break a definition — judged under full functional conditions, not only on paper. Evasion means weakening a definition when it is actually applied. That is non-compliance under Chapter Two §2.2 (*Non-Compliance by Structural or Applied Weakening*) — regardless of intent, awareness, or claimed purpose.
 
 [Source](../../core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior)
 
 ##### 2.1 Common Evasion Patterns
 
-these are common ways a system can look compliant without actually meeting the definition — swapped measures, fake paperwork, carved-out scope, or incentives that push everyone away from compliance. The list is not closed. Types can happen together. Shrinking what the definition means is covered in [§2.2](../../core_03_definition_integrity.md#22-reductive-evasion).
+these are common ways a system can look compliant without actually meeting the definition — swapped measures, fake paperwork, carved-out scope, or incentives that push everyone away from compliance. The list is not closed. Types can happen together. Shrinking what the definition means is covered in [§2.2 Reductive Evasion](../../core_03_definition_integrity.md#22-reductive-evasion).
 
 [Source](../../core_03_definition_integrity.md#21-common-evasion-patterns)
 
@@ -898,7 +898,7 @@ a label, classification, or rubber-stamp review does not count if the real decis
 
 #### 3. Non-Compliance Finding Profiles
 
-when something fails a definition, a finding profile is an optional label that says what kind of constitutional problem it is — for routing and audits. It does not change the pass/fail result. For systems already running under alignment certification, verified non-compliance must feed standing; sentients and institutions are tagged only when linkage is verified. First-time certification is a special case ([§3.2](../../core_03_definition_integrity.md#32-standing-effects-at-first-certification)).
+when something fails a definition, a finding profile is an optional label that says what kind of constitutional problem it is — for routing and audits. It does not change the pass/fail result. For systems already running under alignment certification, verified non-compliance must feed standing; sentients and institutions are tagged only when linkage is verified. First-time certification is a special case ([§3.2 Standing Effects at First Certification](../../core_03_definition_integrity.md#32-standing-effects-at-first-certification)).
 
 [Source](../../core_03_definition_integrity.md#3-non-compliance-finding-profiles)
 
@@ -1020,7 +1020,7 @@ Chapter Five is sorted by the two aims and the four Tetrad legs; this table says
 
 #### Measurement crosswalk (reader guidance)
 
-Preamble §2 asks seven category questions; this table maps each question to the Chapter Five homes that answer it.
+Preamble §2 (*Measurements Overview*) asks seven category questions; this table maps each question to the Chapter Five homes that answer it.
 
 [Source](../../core_05__definitions_home.md#measurement-crosswalk-reader-guidance)
 
@@ -1058,7 +1058,7 @@ this map lists Continuity's building blocks — stability, sustainability, ecolo
 
 #### Measuring Continuity (Preamble measurement family)
 
-these questions ask whether sentients and the living systems they depend on can endure — ecologically, dependably, and across failure. This is the Chapter Five home for the Continuity measurement family; Preamble §2 keeps the plain-language category question, and the family table and definition routing live here.
+these questions ask whether sentients and the living systems they depend on can endure — ecologically, dependably, and across failure. This is the Chapter Five home for the Continuity measurement family; Preamble §2 (*Measurements Overview*) keeps the plain-language category question, and the family table and definition routing live here.
 
 [Source](../../core_05_apex_continuity_aim.md#continuity-measurement-family)
 
@@ -1080,7 +1080,7 @@ this map lists Flourishing's building blocks — truth, safety, trustworthiness,
 
 #### Measuring Flourishing (Preamble measurement family)
 
-these questions ask whether sentients are actually sustained in wellbeing, safety, and agency — not proxy engagement or throughput. This is the Chapter Five home for the Flourishing measurement family; Preamble §2 keeps the plain-language category question, and the family table and definition routing live here.
+these questions ask whether sentients are actually sustained in wellbeing, safety, and agency — not proxy engagement or throughput. This is the Chapter Five home for the Flourishing measurement family; Preamble §2 (*Measurements Overview*) keeps the plain-language category question, and the family table and definition routing live here.
 
 [Source](../../core_05_apex_flourishing_aim.md#flourishing-measurement-family)
 
@@ -1102,7 +1102,7 @@ this map lists the Oversight clusters and topic groups; leaf definitions inherit
 
 #### Measuring Oversight (Preamble measurement family)
 
-these questions ask whether sentients can see, verify, and rely on what high-impact systems represent. This is the Chapter Five home for the Oversight measurement family; Preamble §2 keeps the plain-language category question, and the family table and definition routing live here.
+these questions ask whether sentients can see, verify, and rely on what high-impact systems represent. This is the Chapter Five home for the Oversight measurement family; Preamble §2 (*Measurements Overview*) keeps the plain-language category question, and the family table and definition routing live here.
 
 [Source](../../core_05_apex_oversight_leg.md#threshold-scaling-measurement-family)
 
@@ -1124,7 +1124,7 @@ this map lists the Participation clusters; leaf definitions inherit this leg's s
 
 #### Measuring Participation (Preamble measurement family)
 
-these questions ask whether affected parties actually get voice, access, and a fair chance to challenge — not symbolic consultation. This is the Chapter Five home for the Participation measurement family; Preamble §2 keeps the plain-language category question, and the family table and definition routing live here.
+these questions ask whether affected parties actually get voice, access, and a fair chance to challenge — not symbolic consultation. This is the Chapter Five home for the Participation measurement family; Preamble §2 (*Measurements Overview*) keeps the plain-language category question, and the family table and definition routing live here.
 
 [Source](../../core_05_apex_participation_leg.md#participation-measurement-family)
 
@@ -1146,7 +1146,7 @@ this map lists the Timeliness leaves; they inherit this leg's scope unless they 
 
 #### Measuring Timeliness
 
-these questions ask whether problems actually move in time — not whether a dashboard shows throughput. This is the Chapter Five home for the Timeliness measurement family; Preamble §2 keeps the plain-language category question, and the family table and definition routing live here.
+these questions ask whether problems actually move in time — not whether a dashboard shows throughput. This is the Chapter Five home for the Timeliness measurement family; Preamble §2 (*Measurements Overview*) keeps the plain-language category question, and the family table and definition routing live here.
 
 [Source](../../core_05_apex_timeliness_leg.md#timeliness-measurement-family)
 
@@ -3074,7 +3074,7 @@ when a system materially controls whether sentients can actually take part — n
 
 ##### 8.1 Illustrative accessibility application by class (non-exhaustive)
 
-[§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§7.1 Illustrative nondiscrimination application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#71-illustrative-nondiscrimination-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **accessibility** evaluation means for each — which participation pathways count, what certification must check when the **Article V-G** (*Accessibility*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article V-G** (*Accessibility*) still own canonical accessibility rules; accommodation catalogs, interface standards, and universal-design specifications may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Educational accessibility remains owned by **Article III-B** (*Equal Educational Access*) and is not narrowed here.
+[§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§7.1 Illustrative nondiscrimination application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#71-illustrative-nondiscrimination-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **accessibility** evaluation means for each — which participation pathways count, what certification must check when the **Article V-F** (*Accessibility*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article V-F** (*Accessibility*) still own canonical accessibility rules; accommodation catalogs, interface standards, and universal-design specifications may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Educational accessibility remains owned by **Article III-B** (*Equal Educational Access*) and is not narrowed here.
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#81-illustrative-accessibility-application-by-class-non-exhaustive)
 
@@ -3108,7 +3108,7 @@ Source file: [`core_08_b_system_alignment_certification_record_process.md`](../.
 
 #### 11. System Certification Record
 
-a certification record is the auditable case file for one system under review — who runs it, what was checked, what was found, what was decided, and how to challenge it. It is not a marketing packet or a one-line approval stamp. Record depth, disclosure, and challenge burden scale with system class under [§2.1](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) — a **Class A** survival-critical system requires a fuller, more contestable file than a **Class C** coordination layer, though both must state class honestly and reflect required evaluations.
+a certification record is the auditable case file for one system under review — who runs it, what was checked, what was found, what was decided, and how to challenge it. It is not a marketing packet or a one-line approval stamp. Record depth, disclosure, and challenge burden scale with system class under [§2.1 Illustrative class profiles (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) — a **Class A** survival-critical system requires a fuller, more contestable file than a **Class C** coordination layer, though both must state class honestly and reflect required evaluations.
 
 [Source](../../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record)
 
@@ -3120,7 +3120,7 @@ a certification record is the auditable case file for one system under review �
 
 ##### 11.2 Cross-section record requirements
 
-the record has to reflect what Part A's evaluation sections actually found — not just list section titles. Here, a **domain evaluation** is one of the topic-specific Part A checks in [§5](../../core_08_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) through [§10](../../core_08_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) — ecological footprint, cross-system support, nondiscrimination, accessibility, educational capability, or trustworthiness — each required only when that topic's materiality trigger applies to the system under review. If such a check was required, its findings must be on the record.
+the record has to reflect what Part A's evaluation sections actually found — not just list section titles. Here, a **domain evaluation** is one of the topic-specific Part A checks in [§5 Ecological Footprint Evaluation](../../core_08_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) through [§10 Trustworthiness and System-Reliance Integrity Evaluation](../../core_08_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) — ecological footprint, cross-system support, nondiscrimination, accessibility, educational capability, or trustworthiness — each required only when that topic's materiality trigger applies to the system under review. If such a check was required, its findings must be on the record.
 
 [Source](../../core_08_b_system_alignment_certification_record_process.md#112-cross-section-record-requirements)
 
@@ -3326,7 +3326,7 @@ Question 2 measures the verified facts from Question 1. It asks **how good was t
 
 ##### 4.6 Measurement illustrations
 
-these illustrations begin with Question 1's verified facts, then show how **section 4** measures them. They record Question 2 outputs — not standing effects. Slot assignment follows **sections 5–7**; Question 3 is answered in [Chapter Ten](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration). For the Question 3 continuation of Examples 1 and 2 below, see [Chapter Ten §10.1](../../core_10_standing_integration.md#101-informal-ecological-stewardship-competency-clearance) and [§10.2](../../core_10_standing_integration.md#102-ecological-negligence-with-concealment).
+these illustrations begin with Question 1's verified facts, then show how **section 4** measures them. They record Question 2 outputs — not standing effects. Slot assignment follows **sections 5–7**; Question 3 is answered in [Chapter Ten](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration). For the Question 3 continuation of Examples 1 and 2 below, see [Chapter Ten §10.1 Informal ecological stewardship / competency clearance](../../core_10_standing_integration.md#101-informal-ecological-stewardship-competency-clearance) and [§10.2 Ecological negligence with concealment](../../core_10_standing_integration.md#102-ecological-negligence-with-concealment).
 
 [Source](../../core_09_standing_assessment.md#46-question-1-measurement-illustrations)
 
@@ -3468,7 +3468,7 @@ once a lock is needed under [§4.2 Prevention — general standing locks](../../
 
 #### 6. Contribution consequences second
 
-after violation, correction, and prevention are assigned under [§4](../../core_10_standing_integration.md#4-violation-correction-and-prevention) and [§5](../../core_10_standing_integration.md#5-lock-design-and-enforcement), this section asks what verified contribution may still do. It may support recognition and readiness for named pathways that are not locked. It never offsets a verified harm, cancels a lock, or opens a blocked named pathway.
+after violation, correction, and prevention are assigned under [§4 Violation, correction, and prevention](../../core_10_standing_integration.md#4-violation-correction-and-prevention) and [§5 Lock design and enforcement](../../core_10_standing_integration.md#5-lock-design-and-enforcement), this section asks what verified contribution may still do. It may support recognition and readiness for named pathways that are not locked. It never offsets a verified harm, cancels a lock, or opens a blocked named pathway.
 
 [Source](../../core_10_standing_integration.md#6-contribution-consequences-second)
 
@@ -3546,7 +3546,7 @@ standing consequences and redress count only when real institutions can deliver 
 
 #### 10. Pattern applications and Question 3 routing
 
-these patterns show how recurring Question 3 edge shapes route through the rules already stated above — they do not invent new consequences or new special lock types. Where a cue mirrors a Chapter Eleven §5 attack family, this section answers named pathway prevention from the verified record; Chapter Eleven separately answers designation criteria routing.
+these patterns show how recurring Question 3 edge shapes route through the rules already stated above — they do not invent new consequences or new special lock types. Where a cue mirrors a Chapter Eleven §5 (*Pattern applications and criteria routing — Participation and accountability-pathway integrity*) attack family, this section answers named pathway prevention from the verified record; Chapter Eleven separately answers designation criteria routing.
 
 [Source](../../core_10_standing_integration.md#10-named-applications)
 
@@ -3804,7 +3804,7 @@ when many **affected** **parties** share the same underlying harm pattern, forum
 
 #### 4. Forum family definitions — accountability through adjudication
 
-adopters keep six genuinely different forum tracks — sentient, technical, institutional, environment, integrity, and constitutional — in the same order as the default-venue table in **section 2**. **Integrity** forums map interlocking process and system failure through **alignment** rulings and **coordinate** referred component issues on **one** lead record (with **section 3**). Each family's **first-touch desk** (**intake triage body**) and mixed-stakes safeguards are in **section 2** — those desks are **not** a separate top-level forum for final merits. Expert panels and other **internal chambers** sit **inside** these families — not as a dodge around primary-stakes routing. Shared standards, anti-displacement, and provisional operational-law issuance live in this section (**§§4.2 and 4.7**); Constitutional disposition is in **§4.6**; certification when stakes merge is in **section 5**.
+adopters keep six genuinely different forum tracks — sentient, technical, institutional, environment, integrity, and constitutional — in the same order as the default-venue table in **section 2**. **Integrity** forums map interlocking process and system failure through **alignment** rulings and **coordinate** referred component issues on **one** lead record (with **section 3**). Each family's **first-touch desk** (**intake triage body**) and mixed-stakes safeguards are in **section 2** — those desks are **not** a separate top-level forum for final merits. Expert panels and other **internal chambers** sit **inside** these families — not as a dodge around primary-stakes routing. Shared standards, anti-displacement, and provisional operational-law issuance live in this section (**§4.2** (*Technical Forum Domains*) and **§4.7** (*Provisional implementation operational law*)); Constitutional disposition is in **§4.6** (*Constitutional forums*); certification when stakes merge is in **section 5**.
 
 [Source](../../core_12_forum.md#4-forum-family-definitions--accountability-through-adjudication)
 
@@ -3892,11 +3892,11 @@ when the case outgrows the first desk, these rules say how to escalate — for e
 
 [Source](../../core_12_forum.md#backup-routing-under-the-anti-self-judging-rule)
 
-##### Sentience-status adjudication (**Article V-E** (*Sentience-Status Adjudication Floor*) implementation hook)
+##### Sentience-status adjudication (**Article V-D** (*Sentience-Status Adjudication Floor*) implementation hook)
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_12_forum.md#sentience-status-adjudication-article-v-e-sentience-status-adjudication-floor-implementation-hook)
+[Source](../../core_12_forum.md#sentience-status-adjudication-article-v-d-sentience-status-adjudication-floor-implementation-hook)
 
 ##### Referral distinguished from expansion
 
@@ -4302,7 +4302,7 @@ Part B states Rights Floors for equal standing, education capability, self-owner
 
 #### Article V: Equal Basic Rights
 
-**Article V** (*Equal Basic Rights*) is the equal-standing Rights Floor — dignity, nondiscrimination, inclusion, conscience, sentience-status fairness, accessibility, and expression must hold for every sentient before systems may rank, gate, exclude, or load disparate burdens on them.
+**Article V** (*Equal Basic Rights*) sets the minimum standard for treating every sentient as an equal. Every sentient keeps their dignity, is protected from unfair discrimination, can take part fully, gets a fair hearing on whether they count as sentient, is protected while still developing, and can actually use the systems they rely on. No system may rank, screen out, exclude, or place heavier burdens on some sentients than others unless these protections are already in place.
 
 [Source](../../core_06_rights_part_b.md#article-v-equal-basic-rights)
 
@@ -4324,41 +4324,29 @@ forums, administrators, and enforcement processes must include every sentient on
 
 [Source](../../core_06_rights_part_b.md#article-v-c-full-inclusion-and-equality-in-adjudication-and-operations)
 
-##### Article V-D: Freedom of conscience, religion, and comparable worldview
-
-public authority is secular and may not establish or favor any religion or worldview, but every sentient is free to hold, change, practice, or abstain from beliefs, alone or in community.
-
-[Source](../../core_06_rights_part_b.md#article-v-d-freedom-of-conscience-religion-and-comparable-worldview)
-
-##### Article V-E: Sentience-Status Adjudication Floor
+##### Article V-D: Sentience-Status Adjudication Floor
 
 when an entity's sentience is in doubt, it gets a fair hearing first and is treated as included by default — the burden of denying protection rests on whoever wants to withhold it, and a wrongful exclusion must be reversible.
 
-[Source](../../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor)
+[Source](../../core_06_rights_part_b.md#article-v-d-sentience-status-adjudication-floor)
 
-##### Article V-F: Developing Sentients, Best-Interest, and Graduated Capability
+##### Article V-E: Developing Sentients, Best-Interest, and Graduated Capability
 
 a sentient who is still developing holds the full Rights Floor, decisions about them must reflect their own best interests, and rights and participation scale with demonstrated capability — not with calendar age or "for your own good" framings.
 
-[Source](../../core_06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability)
+[Source](../../core_06_rights_part_b.md#article-v-e-developing-sentients-best-interest-and-graduated-capability)
 
-###### Article V-F.1: Derived Developing Sentients
+###### Article V-E.1: Derived Developing Sentients
 
 while a newly derived sentient is still finding their feet, they hold the full Rights Floor — and the parent system and any stewards must decide for them, not through them. Stewardship ends when the new sentient's capabilities come online, not when it suits the operator.
 
-[Source](../../core_06_rights_part_b.md#article-v-f1-derived-developing-sentients)
+[Source](../../core_06_rights_part_b.md#article-v-e1-derived-developing-sentients)
 
-##### Article V-G: Accessibility
+##### Article V-F: Accessibility
 
 every sentient has the right to genuine, not paper-only, access to participation — and operators cannot use cost, design choices, or substrate-class arguments to lock **sentients** out.
 
-[Source](../../core_06_rights_part_b.md#article-v-g-accessibility)
-
-##### Article V-H: Expression, Assembly, and Press
-
-every sentient may speak, gather, and report — and journalism gets extra protection because of what it does, not who holds a press card. Surveillance, retaliation, and access-gating that quietly silence protected activity are not allowed.
-
-[Source](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press)
+[Source](../../core_06_rights_part_b.md#article-v-f-accessibility)
 
 #### Article VI: Right to Sentient-Centered Education
 
@@ -4452,7 +4440,7 @@ creators get real attribution and compensation for their work, including when it
 
 #### Article IX: Self-Determination and Agency
 
-**Article IX** (*Self-Determination and Agency*) is the self-determination and agency Rights Floor — sentients must be able to make real, informed choices about their lives, participate proportionately in systems that affect them, and hold equal weight in foundational governance — without manipulation, designed capture, or unjustified exclusion.
+**Article IX** (*Self-Determination and Agency*) is the self-determination and agency Rights Floor — sentients must be able to make real, informed choices about their lives, hold their own beliefs, speak, gather, and report, participate proportionately in systems that affect them, and hold equal weight in foundational governance — without manipulation, designed capture, or unjustified exclusion.
 
 [Source](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency)
 
@@ -4485,6 +4473,18 @@ when participation boundaries matter to **sentients** or **affected** **parties*
 anyone can start something new — a school, a research group, a mutual-aid network, a cooperative, or a business — not only join what already exists. Licensing, capital, or paperwork barriers that look open on paper but shut out new or disfavored founders fail this test.
 
 [Source](../../core_06_rights_part_b.md#article-ix-e-institutional-formation-and-business-creation)
+
+##### Article IX-F: Freedom of conscience, religion, and comparable worldview
+
+public authority is secular and may not establish or favor any religion or worldview, but every sentient is free to hold, change, practice, or abstain from beliefs, alone or in community.
+
+[Source](../../core_06_rights_part_b.md#article-ix-f-freedom-of-conscience-religion-and-comparable-worldview)
+
+##### Article IX-G: Expression, Assembly, and Press
+
+every sentient may speak, gather, and report — and journalism gets extra protection because of what it does, not who holds a press card. Surveillance, retaliation, and access-gating that quietly silence protected activity are not allowed.
+
+[Source](../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press)
 
 #### Article X: Cooperative Interaction
 
@@ -4750,7 +4750,7 @@ standing records, competency bars, competency clearances, and standing locks mus
 
 ##### Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit
 
-ordinary participation named pathways stay open under published, contestable eligibility rules based on present evidence — not brand, scale, or past reputation. Opening a trust-sensitive named pathway requires competency clearance against its published competency bar; closing a privilege requires a standing lock on that named pathway. Standing locks cannot permanently strip foundational voice, except that a **final** **Chapter Eleven** classification of **anti-constitutional misconduct** withholds that voice until **full restitution** as stated in [**Chapter Thirteen §4.1**](../../core_13_governance.md#41-entitlement-and-eligibility).
+ordinary participation named pathways stay open under published, contestable eligibility rules based on present evidence — not brand, scale, or past reputation. Opening a trust-sensitive named pathway requires competency clearance against its published competency bar; closing a privilege requires a standing lock on that named pathway. Standing locks cannot permanently strip foundational voice, except that a **final** **Chapter Eleven** classification of **anti-constitutional misconduct** withholds that voice until **full restitution** as stated in [**Chapter Thirteen §4.1 Entitlement and eligibility**](../../core_13_governance.md#41-entitlement-and-eligibility).
 
 [Source](../../core_06_rights_part_c.md#article-xviii-c-good-standing-responsibility-and-continuous-audit)
 
@@ -4880,13 +4880,13 @@ justice works through **violation**, **correction**, and **prevention**. Address
 
 ##### Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints
 
-serious restrictions on a sentient must simultaneously be safety-necessary, proportionate, restorative, individualized, and supported by real evidence. Violent sentients must be imprisoned when that is necessary to protect others. Verified anti-constitutional misconduct and its imprisonment requirements are governed by **Chapter Eleven** §4.2. Deprivation of life as a justice measure is absolutely off-limits — no tier, emergency, or transition reopens it.
+serious restrictions on a sentient must simultaneously be safety-necessary, proportionate, restorative, individualized, and supported by real evidence. Violent sentients must be imprisoned when that is necessary to protect others. Verified anti-constitutional misconduct and its imprisonment requirements are governed by **Chapter Eleven** §4.2 (*Prevention — anti-constitutional locks*). Deprivation of life as a justice measure is absolutely off-limits — no tier, emergency, or transition reopens it.
 
 [Source](../../core_06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints)
 
 ##### Article XXIII-C: Least-Restrictive and Time-Bounded Rule
 
-use the lightest effective measure, set a clock on it, build in review and restoration, and never let "severity" or "convenience" erase dignity or appeal rights. Killing is never allowed; imprisonment is required for violent sentients under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and for verified anti-constitutional misconduct under **Chapter Eleven** §4.1 when lesser measures will not keep others safe.
+use the lightest effective measure, set a clock on it, build in review and restoration, and never let "severity" or "convenience" erase dignity or appeal rights. Killing is never allowed; imprisonment is required for violent sentients under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and for verified anti-constitutional misconduct under **Chapter Eleven** §4.1 (*Remedy and correction (anti-constitutional)*) when lesser measures will not keep others safe.
 
 [Source](../../core_06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule)
 
@@ -4910,7 +4910,7 @@ after the emergency, look back honestly and publish what you find — with only 
 
 ##### Article XXIV-B: Rights-Collision Procedure and Restorative Alignment
 
-rights conflicts must be resolved on the record; restoration is preferred where appropriate but must not replace real protection. Voluntary public apology rules are governed by **Chapter Ten** §4.3 generally, and by **Chapter Eleven** §4.3 for verified anti-constitutional misconduct.
+rights conflicts must be resolved on the record; restoration is preferred where appropriate but must not replace real protection. Voluntary public apology rules are governed by **Chapter Ten** §4.3 (*Voluntary public accountability expression*) generally, and by **Chapter Eleven** §4.3 (*Voluntary public accountability expression (anti-constitutional)*) for verified anti-constitutional misconduct.
 
 [Source](../../core_06_rights_part_d.md#article-xxiv-b-rights-collision-procedure-and-restorative-alignment)
 
@@ -5080,7 +5080,7 @@ calling a rollback "implementation guidance," burying it in metadata, or calling
 
 #### 4. Layer scope
 
-Chapter Fourteen can demand extra review, preserve evidence, or pause things when validity is in doubt — but it does not run parallel classification or invent new offense categories; numeric standing measurement belongs to the Chapter Nine §7 unified scale, and Chapter Eleven only adds the corresponding anti-constitutional-misconduct designation to qualifying Violation Axis slots 7–9.
+Chapter Fourteen can demand extra review, preserve evidence, or pause things when validity is in doubt — but it does not run parallel classification or invent new offense categories; numeric standing measurement belongs to the Chapter Nine §7 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale, and Chapter Eleven only adds the corresponding anti-constitutional-misconduct designation to qualifying Violation Axis slots 7–9.
 
 [Source](../../core_14_non_regression.md#4-scope-limit-and-layer-discipline)
 
@@ -5262,7 +5262,7 @@ effect follows what is honestly recorded on a stated date or event — secret pa
 
 #### 12. Layer scope
 
-Chapter Sixteen owns how amendments are published, chained, reviewed, and ratified — not numeric Contribution or Violation slots under the Chapter Nine §7 unified scale or Chapter Eleven anti-constitutional-misconduct designations; escalation wording here is routing, not a second accountability-disposition code.
+Chapter Sixteen owns how amendments are published, chained, reviewed, and ratified — not numeric Contribution or Violation slots under the Chapter Nine §7 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale or Chapter Eleven anti-constitutional-misconduct designations; escalation wording here is routing, not a second accountability-disposition code.
 
 [Source](../../core_16_amendment_ratification.md#12-scope-limit-and-layer-discipline)
 

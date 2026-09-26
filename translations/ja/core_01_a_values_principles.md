@@ -426,7 +426,7 @@
 - あわせて読む：[憲法四元](core_00_preamble.md#constitutional-tetrad) — **参加**脚（理解可能な関与）。**監督**脚（監査と検証の読みやすさ）。[実質的利害](core_00_preamble.md#material-stake)による尺度合わせ。
 - あわせて読む：[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — **繁栄**目的（理解可能な**真理**関与を通じた意味ある行為主体性）。**継続**目的（時間を通じた持続する制度的可読性）。
 - 上流：原則：[§3.2 真理](#32-truth-epistemic-integrity-constraint)、[3.3 科学に基づく探究と決定支援](#33-science-informed-inquiry-and-decision-support)、[§6.3 回避可能な負担の最小化](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)、[§11.1.3 責務ある管理と運用者への適用](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)；[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)。
-- 下流：権利面：[Article V-G：アクセス可能性](../../core_06_rights_part_b.md#article-v-g-accessibility)、[Article VI：感知者中心の教育への権利](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)、[Article XV：監査、透明性、独立検証](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)、[Article XX：理解可能性と複雑さの責務ある管理](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)。
+- 下流：権利面：[Article V-G：アクセス可能性](../../core_06_rights_part_b.md#article-v-f-accessibility)、[Article VI：感知者中心の教育への権利](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)、[Article XV：監査、透明性、独立検証](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)、[Article XX：理解可能性と複雑さの責務ある管理](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)。
 - 相互参照：第二から第四章の定義メカニズムと、[core_02_definition_structure.md](core_02_definition_structure.md)の平たい言葉のガードレールは、定義層でなお制御する。
 - 分節（読み順）：[§3.4.1](#341-scope) · [§3.4.2](#342-the-duty) · [§3.4.3](#343-definitional-rigor-preserved) · [§3.4.4](#344-jargon-as-defeat-discipline) · [§3.4.5](#345-chapter-ten-floor-boundary)。
 
@@ -461,7 +461,7 @@
 - 感知者読者に届くところでの監査と検証の成果物
 - 利用規約と同意のインタフェース、比較可能な本文
 
-この義務は、拘束力ある情報が感知者にどう届くか — 書かれた本文、インタフェース、口頭の通信、その他の経路 — を問わず適用される。経路は、影響を受けるどの感知者もアクセスできる平たい言葉の同等物を提供するとき、それを満たす。[Article V-G](../../core_06_rights_part_b.md#article-v-g-accessibility)（《アクセス可能性》）と[感知の非排除](../../core_05_band_participation.md#sentience-non-exclusion)と整合する。
+この義務は、拘束力ある情報が感知者にどう届くか — 書かれた本文、インタフェース、口頭の通信、その他の経路 — を問わず適用される。経路は、影響を受けるどの感知者もアクセスできる平たい言葉の同等物を提供するとき、それを満たす。[Article V-G](../../core_06_rights_part_b.md#article-v-f-accessibility)（《アクセス可能性》）と[感知の非排除](../../core_05_band_participation.md#sentience-non-exclusion)と整合する。
 
 <a id="342-the-duty"></a>
 ##### 3.4.2 義務
@@ -493,7 +493,7 @@
 <a id="345-chapter-ten-floor-boundary"></a>
 ##### 3.4.5 権利の床の境界
 
-アクセス可能性、教育、理解可能性についての権利の床は、それぞれ [Article V-G](../../core_06_rights_part_b.md#article-v-g-accessibility)（《アクセス可能性》）、[Article III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access)（《平等な教育通路》）、[Article XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)（《理解可能性と複雑さの責務ある管理》）に住む。本節は、それらの床を支える原則層の義務を述べる。
+アクセス可能性、教育、理解可能性についての権利の床は、それぞれ [Article V-G](../../core_06_rights_part_b.md#article-v-f-accessibility)（《アクセス可能性》）、[Article III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access)（《平等な教育通路》）、[Article XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)（《理解可能性と複雑さの責務ある管理》）に住む。本節は、それらの床を支える原則層の義務を述べる。
 
 <a id="4-system-stability-enabler-trust-coordination-integrity"></a>
 ### 4. システム安定の可能化条件：信頼（協調の誠実性）
@@ -739,7 +739,7 @@
 クラスター自身の読み規則はそこに住む。**§5.3** は第一章で分割防止の原則を適用する。それらの第五章の仕組みを再述しない。
 
 **どの権利条がなお制御するか。** **§5.3** は第一章の原則である。第六章の権利の床を置き換えない。**§5.3** の内側では、それらの条がなお、権利が何であり、どう限られてよいかを決める：
-- **[Article V-H](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press)**（《表現、集会、報道》） — 表現、政治、文化、共同体、同様の目的のために、物理、デジタル、共有計算の空間で集まり、結び、ともに行為すること
+- **[Article V-H](../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press)**（《表現、集会、報道》） — 表現、政治、文化、共同体、同様の目的のために、物理、デジタル、共有計算の空間で集まり、結び、ともに行為すること
 - **[Article III-D](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)**（《労働と経済の床》） — 生産的・経済的活動における集団的組織化（組合、協同組合、ギルド、労働者評議会、労働条件を形づくるために用いられる比較可能な形）、および[事業創設](../../core_05_band_participation.md#business-creation-constitutional)
 - **[Article IX-B](../../core_06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights)**（《影響を受ける側の役割と参加の権利》）と **[Article XI](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)**（《影響を受ける側のシステム参加、代表、適正手続》） — [システム創設](../../core_05_band_participation.md#system-creation-constitutional)（非商業制度の形成と運営）
 

@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-26T00:39:16+00:00",
+  "generated_at": "2026-09-26T04:43:33+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 15349,
+  "edge_count": 15354,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -1331,7 +1331,7 @@
       "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
       "source_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-g-accessibility",
+      "target_anchor": "#article-v-f-accessibility",
       "count": 1
     },
     {
@@ -1371,7 +1371,7 @@
       "source_header": "3.4.1 Scope",
       "source_anchor": "#341-scope",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-g-accessibility",
+      "target_anchor": "#article-v-f-accessibility",
       "count": 1
     },
     {
@@ -1459,7 +1459,7 @@
       "source_header": "3.4.5 Rights-Floor Boundary",
       "source_anchor": "#345-rights-floor-boundary",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-g-accessibility",
+      "target_anchor": "#article-v-f-accessibility",
       "count": 1
     },
     {
@@ -2411,7 +2411,7 @@
       "source_header": "5.3 Assembly, Collective Organization, and Institutional Formation",
       "source_anchor": "#52-voluntary-discontinuation-and-exit-rights",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-h-expression-assembly-and-press",
+      "target_anchor": "#article-ix-g-expression-assembly-and-press",
       "count": 1
     },
     {
@@ -23940,7 +23940,7 @@
       "source_anchor": "#contribution-nature",
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#chapter-ten-standing-effects-and-integration",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_05_band_accountability.md",
@@ -25107,7 +25107,7 @@
       "source_header": "Forum Family, Technical",
       "source_anchor": "#forum-family-technical",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-e-sentience-status-adjudication-floor",
+      "target_anchor": "#article-v-d-sentience-status-adjudication-floor",
       "count": 1
     },
     {
@@ -40708,7 +40708,7 @@
       "source_anchor": "#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#125-contingent-claims-games-of-chance-and-event-contract-markets",
-      "count": 2
+      "count": 3
     },
     {
       "source_file": "core_05_band_integrative.md",
@@ -42107,7 +42107,7 @@
       "source_header": "Heightened Scrutiny",
       "source_anchor": "#heightened-scrutiny",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-h-expression-assembly-and-press",
+      "target_anchor": "#article-ix-g-expression-assembly-and-press",
       "count": 2
     },
     {
@@ -42835,7 +42835,7 @@
       "source_header": "Press and Journalistic Activity",
       "source_anchor": "#press-and-journalistic-activity-constitutional",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-h-expression-assembly-and-press",
+      "target_anchor": "#article-ix-g-expression-assembly-and-press",
       "count": 1
     },
     {
@@ -44347,7 +44347,7 @@
       "source_header": "Accessibility",
       "source_anchor": "#accessibility-constitutional",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-g-accessibility",
+      "target_anchor": "#article-v-f-accessibility",
       "count": 1
     },
     {
@@ -44547,7 +44547,7 @@
       "source_header": "Animal Life",
       "source_anchor": "#animal-life-constitutional",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-e-sentience-status-adjudication-floor",
+      "target_anchor": "#article-v-d-sentience-status-adjudication-floor",
       "count": 2
     },
     {
@@ -44755,7 +44755,7 @@
       "source_header": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
       "source_anchor": "#animal-life-sentient-life-and-sentience-status-cluster",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-e-sentience-status-adjudication-floor",
+      "target_anchor": "#article-v-d-sentience-status-adjudication-floor",
       "count": 2
     },
     {
@@ -44843,7 +44843,7 @@
       "source_header": "Assembly",
       "source_anchor": "#assembly-constitutional",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-h-expression-assembly-and-press",
+      "target_anchor": "#article-ix-g-expression-assembly-and-press",
       "count": 1
     },
     {
@@ -44963,7 +44963,7 @@
       "source_header": "Best-Interest Standard",
       "source_anchor": "#best-interest-standard-constitutional",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-f-developing-sentients-best-interest-and-graduated-capability",
+      "target_anchor": "#article-v-e-developing-sentients-best-interest-and-graduated-capability",
       "count": 1
     },
     {
@@ -45109,6 +45109,14 @@
       "target_file": "core_13_governance.md",
       "target_anchor": "#43-decision-resolution-requirements-for-binding-stakeholder-choice",
       "count": 2
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Def.P2 Binding Stakeholder Choice",
+      "source_anchor": "#binding-stakeholder-choice-cluster",
+      "target_file": "core_13_governance.md",
+      "target_anchor": "#41-entitlement-and-eligibility",
+      "count": 1
     },
     {
       "source_file": "core_05_band_participation.md",
@@ -45939,7 +45947,7 @@
       "source_header": "Contested-Sentient Life",
       "source_anchor": "#contested-sentient-life-constitutional",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-e-sentience-status-adjudication-floor",
+      "target_anchor": "#article-v-d-sentience-status-adjudication-floor",
       "count": 7
     },
     {
@@ -46171,7 +46179,7 @@
       "source_header": "Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability",
       "source_anchor": "#developing-sentient-best-interest-and-graduated-capability-cluster",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-f-developing-sentients-best-interest-and-graduated-capability",
+      "target_anchor": "#article-v-e-developing-sentients-best-interest-and-graduated-capability",
       "count": 2
     },
     {
@@ -46179,7 +46187,7 @@
       "source_header": "Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability",
       "source_anchor": "#developing-sentient-best-interest-and-graduated-capability-cluster",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-f1-derived-developing-sentients",
+      "target_anchor": "#article-v-e1-derived-developing-sentients",
       "count": 1
     },
     {
@@ -46299,7 +46307,7 @@
       "source_header": "Developing Sentient",
       "source_anchor": "#developing-sentient-constitutional",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-f-developing-sentients-best-interest-and-graduated-capability",
+      "target_anchor": "#article-v-e-developing-sentients-best-interest-and-graduated-capability",
       "count": 1
     },
     {
@@ -46587,7 +46595,7 @@
       "source_header": "Elevated Communicative Life",
       "source_anchor": "#elevated-communicative-life-constitutional",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-e-sentience-status-adjudication-floor",
+      "target_anchor": "#article-v-d-sentience-status-adjudication-floor",
       "count": 2
     },
     {
@@ -46731,7 +46739,7 @@
       "source_header": "Expression",
       "source_anchor": "#expression-constitutional",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-h-expression-assembly-and-press",
+      "target_anchor": "#article-ix-g-expression-assembly-and-press",
       "count": 1
     },
     {
@@ -46971,7 +46979,7 @@
       "source_header": "Family, care, reproductive autonomy, and instantiation",
       "source_anchor": "#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-f-developing-sentients-best-interest-and-graduated-capability",
+      "target_anchor": "#article-v-e-developing-sentients-best-interest-and-graduated-capability",
       "count": 1
     },
     {
@@ -47195,7 +47203,7 @@
       "source_header": "Graduated Capability",
       "source_anchor": "#graduated-capability-constitutional",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-f-developing-sentients-best-interest-and-graduated-capability",
+      "target_anchor": "#article-v-e-developing-sentients-best-interest-and-graduated-capability",
       "count": 1
     },
     {
@@ -47204,7 +47212,7 @@
       "source_anchor": "#graduated-capability-constitutional",
       "target_file": "core_13_governance.md",
       "target_anchor": "#41-entitlement-and-eligibility",
-      "count": 1
+      "count": 3
     },
     {
       "source_file": "core_05_band_participation.md",
@@ -49090,6 +49098,14 @@
       "source_file": "core_05_band_participation.md",
       "source_header": "Self-Determination",
       "source_anchor": "#self-determination-constitutional",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#615-rights-collision-decision-test",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Self-Determination",
+      "source_anchor": "#self-determination-constitutional",
       "target_file": "core_05__definitions_home.md",
       "target_anchor": "#21-joint-invocation-and-satisfaction",
       "count": 1
@@ -49387,7 +49403,7 @@
       "source_header": "Sentience Status Adjudication",
       "source_anchor": "#sentience-status-adjudication-constitutional",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-e-sentience-status-adjudication-floor",
+      "target_anchor": "#article-v-d-sentience-status-adjudication-floor",
       "count": 2
     },
     {
@@ -49507,7 +49523,7 @@
       "source_header": "Sentience-Status Adjudication Record",
       "source_anchor": "#sentience-status-adjudication-record-constitutional",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-e-sentience-status-adjudication-floor",
+      "target_anchor": "#article-v-d-sentience-status-adjudication-floor",
       "count": 2
     },
     {
@@ -49860,6 +49876,14 @@
       "source_anchor": "#stakeholder-representation-and-weight-limits-binding-stakeholder-choice",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#stakeholder-weight",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)",
+      "source_anchor": "#stakeholder-representation-and-weight-limits-binding-stakeholder-choice",
+      "target_file": "core_13_governance.md",
+      "target_anchor": "#41-entitlement-and-eligibility",
       "count": 1
     },
     {
@@ -51588,7 +51612,7 @@
       "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
       "target_file": "corpus_systems.md",
       "target_anchor": null,
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_06_rights_part_a.md",
@@ -51597,6 +51621,14 @@
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#12-continuity-critical-collection-and-exportability",
       "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_a.md",
+      "source_header": "Article II-E: Data Handling and Network Dependency",
+      "source_anchor": "#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": null,
+      "count": 1
     },
     {
       "source_file": "core_06_rights_part_a.md",
@@ -55192,7 +55224,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#32-truth-epistemic-integrity-constraint",
@@ -55200,7 +55232,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#5-freedom-bounded-agency",
@@ -55208,7 +55240,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#613-proportionality",
@@ -55216,7 +55248,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#necessity",
@@ -55224,7 +55256,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#necessity-a",
@@ -55232,7 +55264,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#necessity-c",
@@ -55240,7 +55272,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality",
@@ -55248,7 +55280,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality-a",
@@ -55256,7 +55288,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality-c",
@@ -55264,7 +55296,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability",
@@ -55272,7 +55304,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability-a",
@@ -55280,7 +55312,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability-c",
@@ -55288,7 +55320,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#redress-and-remediation-constitutional",
@@ -55296,7 +55328,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#redress-and-remediation-constitutional-a",
@@ -55304,7 +55336,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#redress-and-remediation-constitutional-c",
@@ -55312,7 +55344,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability",
@@ -55320,7 +55352,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability-a",
@@ -55328,7 +55360,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability-c",
@@ -55336,7 +55368,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#developing-sentient-best-interest-and-graduated-capability-cluster",
@@ -55344,7 +55376,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#developing-sentient-constitutional",
@@ -55352,7 +55384,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#developing-sentient-constitutional-a",
@@ -55360,7 +55392,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#developing-sentient-constitutional-c",
@@ -55368,7 +55400,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#best-interest-standard-constitutional",
@@ -55376,7 +55408,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#best-interest-standard-constitutional-a",
@@ -55384,7 +55416,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#best-interest-standard-constitutional-c",
@@ -55392,7 +55424,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#graduated-capability-constitutional",
@@ -55400,7 +55432,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#graduated-capability-constitutional-a",
@@ -55408,7 +55440,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#graduated-capability-constitutional-c",
@@ -55416,7 +55448,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#procedural-fairness-constitutional",
@@ -55424,7 +55456,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#procedural-fairness-constitutional-a",
@@ -55432,7 +55464,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#procedural-fairness-constitutional-c",
@@ -55440,7 +55472,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
+      "source_header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
       "source_anchor": "#anti-substitution-sentience-status",
       "target_file": "core_13_governance.md",
       "target_anchor": "#41-entitlement-and-eligibility",
@@ -56160,6 +56192,422 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-F: Freedom of conscience, religion, and comparable worldview",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#5-freedom-bounded-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-F: Freedom of conscience, religion, and comparable worldview",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#61-core-tradeoff-principles",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-F: Freedom of conscience, religion, and comparable worldview",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#615-rights-collision-decision-test",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-F: Freedom of conscience, religion, and comparable worldview",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-F: Freedom of conscience, religion, and comparable worldview",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-F: Freedom of conscience, religion, and comparable worldview",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-F: Freedom of conscience, religion, and comparable worldview",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-F: Freedom of conscience, religion, and comparable worldview",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-F: Freedom of conscience, religion, and comparable worldview",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-F: Freedom of conscience, religion, and comparable worldview",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#protected-characteristics-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-F: Freedom of conscience, religion, and comparable worldview",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#protected-characteristics-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-F: Freedom of conscience, religion, and comparable worldview",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#protected-characteristics-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-F: Freedom of conscience, religion, and comparable worldview",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#non-imposition-cooperative-interaction",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-F: Freedom of conscience, religion, and comparable worldview",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#non-imposition-cooperative-interaction-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-F: Freedom of conscience, religion, and comparable worldview",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#non-imposition-cooperative-interaction-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-F: Freedom of conscience, religion, and comparable worldview",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#substantive-fairness-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-F: Freedom of conscience, religion, and comparable worldview",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#substantive-fairness-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-F: Freedom of conscience, religion, and comparable worldview",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#substantive-fairness-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#32-truth-epistemic-integrity-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#5-freedom-bounded-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#51-limitation-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#611-necessity",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#621-preservation-of-epistemic-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#cruelty",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#harassment-and-bullying",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#psychological-harm",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#safety-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#press-and-journalistic-activity-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#press-and-journalistic-activity-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#press-and-journalistic-activity-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#heightened-scrutiny",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#heightened-scrutiny-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#heightened-scrutiny-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#highest-scrutiny",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#self-determination-and-meaningful-agency-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#assembly-collective-organization-institutional-formation-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#expression-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#expression-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#expression-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#assembly-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#assembly-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#assembly-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#protected-characteristics-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#protected-characteristics-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#protected-characteristics-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-G: Expression, Assembly, and Press",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#consent-sexual",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
       "source_header": "Article IX: Self-Determination and Agency",
       "source_anchor": null,
       "target_file": "core_00_preamble.md",
@@ -56483,7 +56931,7 @@
       "source_header": "Article V-A: Dignity and Equal Moral Standing",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
-      "target_anchor": "#substrate-agnostic",
+      "target_anchor": "#substrate-class",
       "count": 1
     },
     {
@@ -56491,7 +56939,7 @@
       "source_header": "Article V-A: Dignity and Equal Moral Standing",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
-      "target_anchor": "#substrate-class",
+      "target_anchor": "#substrate-agnostic",
       "count": 1
     },
     {
@@ -56824,151 +57272,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-D: Freedom of conscience, religion, and comparable worldview",
-      "source_anchor": null,
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#5-freedom-bounded-agency",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-D: Freedom of conscience, religion, and comparable worldview",
-      "source_anchor": null,
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#61-core-tradeoff-principles",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-D: Freedom of conscience, religion, and comparable worldview",
-      "source_anchor": null,
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#615-rights-collision-decision-test",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-D: Freedom of conscience, religion, and comparable worldview",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#necessity",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-D: Freedom of conscience, religion, and comparable worldview",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#necessity-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-D: Freedom of conscience, religion, and comparable worldview",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#necessity-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-D: Freedom of conscience, religion, and comparable worldview",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#proportionality",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-D: Freedom of conscience, religion, and comparable worldview",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#proportionality-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-D: Freedom of conscience, religion, and comparable worldview",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#proportionality-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-D: Freedom of conscience, religion, and comparable worldview",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#protected-characteristics-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-D: Freedom of conscience, religion, and comparable worldview",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#protected-characteristics-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-D: Freedom of conscience, religion, and comparable worldview",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#protected-characteristics-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-D: Freedom of conscience, religion, and comparable worldview",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#non-imposition-cooperative-interaction",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-D: Freedom of conscience, religion, and comparable worldview",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#non-imposition-cooperative-interaction-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-D: Freedom of conscience, religion, and comparable worldview",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#non-imposition-cooperative-interaction-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-D: Freedom of conscience, religion, and comparable worldview",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#substantive-fairness-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-D: Freedom of conscience, religion, and comparable worldview",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#substantive-fairness-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-D: Freedom of conscience, religion, and comparable worldview",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#substantive-fairness-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#32-truth-epistemic-integrity-constraint",
@@ -56976,7 +57280,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#61-core-tradeoff-principles",
@@ -56984,7 +57288,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#613-proportionality",
@@ -56992,7 +57296,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#forum-family-technical",
@@ -57000,7 +57304,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability",
@@ -57008,7 +57312,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability-a",
@@ -57016,7 +57320,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability-c",
@@ -57024,7 +57328,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#necessity",
@@ -57032,7 +57336,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#necessity-a",
@@ -57040,7 +57344,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#necessity-c",
@@ -57048,7 +57352,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality",
@@ -57056,7 +57360,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality-a",
@@ -57064,7 +57368,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality-c",
@@ -57072,7 +57376,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#redress-and-remediation-constitutional",
@@ -57080,7 +57384,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#redress-and-remediation-constitutional-a",
@@ -57088,7 +57392,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#redress-and-remediation-constitutional-c",
@@ -57096,7 +57400,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#reversibility-constitutional",
@@ -57104,7 +57408,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#reversibility-constitutional-a",
@@ -57112,7 +57416,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#reversibility-constitutional-c",
@@ -57120,7 +57424,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#sentience-status-adjudication-constitutional",
@@ -57128,7 +57432,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#sentience-status-adjudication-constitutional-a",
@@ -57136,7 +57440,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#sentience-status-adjudication-constitutional-c",
@@ -57144,7 +57448,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#sentience-non-exclusion",
@@ -57152,7 +57456,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#sentience-non-exclusion-a",
@@ -57160,7 +57464,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#dignity-and-equal-moral-standing",
@@ -57168,7 +57472,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#dignity-and-equal-moral-standing-a",
@@ -57176,7 +57480,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#dignity-and-equal-moral-standing-c",
@@ -57184,7 +57488,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#procedural-fairness-constitutional",
@@ -57192,7 +57496,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#procedural-fairness-constitutional-a",
@@ -57200,7 +57504,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#procedural-fairness-constitutional-c",
@@ -57208,7 +57512,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#sentient",
@@ -57216,7 +57520,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#animal-life-sentient-life-and-sentience-status-cluster",
@@ -57224,7 +57528,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_06_rights_part_c.md",
       "target_anchor": "#article-xviii-a-standing-distinction",
@@ -57232,7 +57536,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_12_forum.md",
       "target_anchor": "#42-technical-forum-domains",
@@ -57240,7 +57544,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-E: Sentience-Status Adjudication Floor",
+      "source_header": "Article V-D: Sentience-Status Adjudication Floor",
       "source_anchor": null,
       "target_file": "core_12_forum.md",
       "target_anchor": "#5-escalation-and-certification",
@@ -57248,7 +57552,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-F.1: Derived Developing Sentients",
+      "source_header": "Article V-E.1: Derived Developing Sentients",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#developing-sentient-best-interest-and-graduated-capability-cluster",
@@ -57256,7 +57560,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-G: Accessibility",
+      "source_header": "Article V-F: Accessibility",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#2-foundational-objective-wellbeing",
@@ -57264,7 +57568,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-G: Accessibility",
+      "source_header": "Article V-F: Accessibility",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#5-freedom-bounded-agency",
@@ -57272,7 +57576,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-G: Accessibility",
+      "source_header": "Article V-F: Accessibility",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#51-limitation-discipline",
@@ -57280,7 +57584,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-G: Accessibility",
+      "source_header": "Article V-F: Accessibility",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty",
@@ -57288,7 +57592,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-G: Accessibility",
+      "source_header": "Article V-F: Accessibility",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency",
@@ -57296,7 +57600,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-G: Accessibility",
+      "source_header": "Article V-F: Accessibility",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency-a",
@@ -57304,7 +57608,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-G: Accessibility",
+      "source_header": "Article V-F: Accessibility",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency-c",
@@ -57312,7 +57616,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-G: Accessibility",
+      "source_header": "Article V-F: Accessibility",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#accessibility-constitutional",
@@ -57320,7 +57624,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-G: Accessibility",
+      "source_header": "Article V-F: Accessibility",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#accessibility-constitutional-a",
@@ -57328,7 +57632,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-G: Accessibility",
+      "source_header": "Article V-F: Accessibility",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#accessibility-constitutional-c",
@@ -57336,7 +57640,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-G: Accessibility",
+      "source_header": "Article V-F: Accessibility",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#protected-characteristics-constitutional",
@@ -57344,7 +57648,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-G: Accessibility",
+      "source_header": "Article V-F: Accessibility",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#protected-characteristics-constitutional-a",
@@ -57352,7 +57656,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-G: Accessibility",
+      "source_header": "Article V-F: Accessibility",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#protected-characteristics-constitutional-c",
@@ -57360,7 +57664,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-G: Accessibility",
+      "source_header": "Article V-F: Accessibility",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#substantive-fairness-constitutional",
@@ -57368,7 +57672,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-G: Accessibility",
+      "source_header": "Article V-F: Accessibility",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#substantive-fairness-constitutional-a",
@@ -57376,7 +57680,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-G: Accessibility",
+      "source_header": "Article V-F: Accessibility",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#substantive-fairness-constitutional-c",
@@ -57384,7 +57688,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-G: Accessibility",
+      "source_header": "Article V-F: Accessibility",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#sentience-non-exclusion",
@@ -57392,7 +57696,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-G: Accessibility",
+      "source_header": "Article V-F: Accessibility",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#sentience-non-exclusion-a",
@@ -57400,7 +57704,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-G: Accessibility",
+      "source_header": "Article V-F: Accessibility",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#protected-characteristic-proxying-and-disparate-impact",
@@ -57408,7 +57712,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-G: Accessibility",
+      "source_header": "Article V-F: Accessibility",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#protected-characteristic-proxying-and-disparate-impact-a",
@@ -57416,7 +57720,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-G: Accessibility",
+      "source_header": "Article V-F: Accessibility",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#protected-characteristic-proxying-and-disparate-impact-c",
@@ -57424,7 +57728,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-G: Accessibility",
+      "source_header": "Article V-F: Accessibility",
       "source_anchor": null,
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#3-whole-system-certification-evaluation",
@@ -57432,7 +57736,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-G: Accessibility",
+      "source_header": "Article V-F: Accessibility",
       "source_anchor": null,
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#8-accessibility-evaluation",
@@ -57440,7 +57744,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-G: Accessibility",
+      "source_header": "Article V-F: Accessibility",
       "source_anchor": null,
       "target_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
       "target_anchor": null,
@@ -57448,282 +57752,10 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-G: Accessibility",
+      "source_header": "Article V-F: Accessibility",
       "source_anchor": null,
       "target_file": "corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md",
       "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#32-truth-epistemic-integrity-constraint",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#5-freedom-bounded-agency",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#51-limitation-discipline",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#611-necessity",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#621-preservation-of-epistemic-integrity",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#necessity",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#necessity-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#necessity-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#proportionality",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#proportionality-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#proportionality-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#cruelty",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#harassment-and-bullying",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#psychological-harm",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#safety-constraint",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#press-and-journalistic-activity-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#press-and-journalistic-activity-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#press-and-journalistic-activity-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#heightened-scrutiny",
-      "count": 3
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#heightened-scrutiny-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#heightened-scrutiny-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#highest-scrutiny",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#self-determination-and-meaningful-agency-cluster",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#assembly-collective-organization-institutional-formation-cluster",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#expression-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#expression-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#expression-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#assembly-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#assembly-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#assembly-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#protected-characteristics-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#protected-characteristics-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#protected-characteristics-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V-H: Expression, Assembly, and Press",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#consent-sexual",
       "count": 1
     },
     {
@@ -57780,22 +57812,6 @@
       "source_anchor": null,
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#chapter-eight-system-alignment-certification",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V: Equal Basic Rights",
-      "source_anchor": null,
-      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#7-nondiscrimination-evaluation",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article V: Equal Basic Rights",
-      "source_anchor": null,
-      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#8-accessibility-evaluation",
       "count": 1
     },
     {
@@ -73419,7 +73435,7 @@
       "source_header": "3.2 Accessibility Under Sentience Non-Exclusion",
       "source_anchor": "#32-accessibility-under-sentience-non-exclusion",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-g-accessibility",
+      "target_anchor": "#article-v-f-accessibility",
       "count": 1
     },
     {
@@ -75451,7 +75467,7 @@
       "source_header": "13. Forum Supervision and Component Roles",
       "source_anchor": "#13-forum-supervision-and-component-roles",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-e-sentience-status-adjudication-floor",
+      "target_anchor": "#article-v-d-sentience-status-adjudication-floor",
       "count": 1
     },
     {
@@ -76587,7 +76603,7 @@
       "source_header": "Pipeline pass",
       "source_anchor": null,
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-e-sentience-status-adjudication-floor",
+      "target_anchor": "#article-v-d-sentience-status-adjudication-floor",
       "count": 1
     },
     {
@@ -77211,7 +77227,7 @@
       "source_header": "4. Question 2 — how good or bad was it?",
       "source_anchor": "#4-question-2-how-good-or-bad-was-it",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-e-sentience-status-adjudication-floor",
+      "target_anchor": "#article-v-d-sentience-status-adjudication-floor",
       "count": 1
     },
     {
@@ -80419,7 +80435,7 @@
       "source_header": "5.4 Info-sphere zone flooding",
       "source_anchor": "#54-info-sphere-zone-flooding",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-h-expression-assembly-and-press",
+      "target_anchor": "#article-ix-g-expression-assembly-and-press",
       "count": 1
     },
     {
@@ -82331,7 +82347,7 @@
       "source_header": "5. Escalation and certification",
       "source_anchor": "#5-escalation-and-certification",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-e-sentience-status-adjudication-floor",
+      "target_anchor": "#article-v-d-sentience-status-adjudication-floor",
       "count": 1
     },
     {
@@ -82832,7 +82848,7 @@
     },
     {
       "source_file": "core_12_forum.md",
-      "source_header": "Sentience-status adjudication (**Article V-E** (*Sentience-Status Adjudication Floor*) implementation hook)",
+      "source_header": "Sentience-status adjudication (**Article V-D** (*Sentience-Status Adjudication Floor*) implementation hook)",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#substrate-class",
@@ -82840,7 +82856,7 @@
     },
     {
       "source_file": "core_12_forum.md",
-      "source_header": "Sentience-status adjudication (**Article V-E** (*Sentience-Status Adjudication Floor*) implementation hook)",
+      "source_header": "Sentience-status adjudication (**Article V-D** (*Sentience-Status Adjudication Floor*) implementation hook)",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#contested-sentient-life-constitutional",
@@ -82848,7 +82864,7 @@
     },
     {
       "source_file": "core_12_forum.md",
-      "source_header": "Sentience-status adjudication (**Article V-E** (*Sentience-Status Adjudication Floor*) implementation hook)",
+      "source_header": "Sentience-status adjudication (**Article V-D** (*Sentience-Status Adjudication Floor*) implementation hook)",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#sentience-status-adjudication-record-constitutional",
@@ -82856,7 +82872,7 @@
     },
     {
       "source_file": "core_12_forum.md",
-      "source_header": "Sentience-status adjudication (**Article V-E** (*Sentience-Status Adjudication Floor*) implementation hook)",
+      "source_header": "Sentience-status adjudication (**Article V-D** (*Sentience-Status Adjudication Floor*) implementation hook)",
       "source_anchor": null,
       "target_file": "core_06_rights_part_b.md",
       "target_anchor": "#article-vii-b-internal-state-boundary-and-type-n-protection",
@@ -82864,7 +82880,7 @@
     },
     {
       "source_file": "core_12_forum.md",
-      "source_header": "Sentience-status adjudication (**Article V-E** (*Sentience-Status Adjudication Floor*) implementation hook)",
+      "source_header": "Sentience-status adjudication (**Article V-D** (*Sentience-Status Adjudication Floor*) implementation hook)",
       "source_anchor": null,
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#55-special-locks",
@@ -82872,7 +82888,7 @@
     },
     {
       "source_file": "core_12_forum.md",
-      "source_header": "Sentience-status adjudication (**Article V-E** (*Sentience-Status Adjudication Floor*) implementation hook)",
+      "source_header": "Sentience-status adjudication (**Article V-D** (*Sentience-Status Adjudication Floor*) implementation hook)",
       "source_anchor": null,
       "target_file": "corpus_forum/cf_sentience_status_record.md",
       "target_anchor": null,
@@ -85027,7 +85043,7 @@
       "source_header": "2. Custody, editions, and operative effect",
       "source_anchor": null,
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-e-sentience-status-adjudication-floor",
+      "target_anchor": "#article-v-d-sentience-status-adjudication-floor",
       "count": 1
     },
     {
@@ -86835,7 +86851,7 @@
       "source_header": "CF-4.14 Independent representative appointment",
       "source_anchor": "#cf-414-independent-representative-appointment",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-e-sentience-status-adjudication-floor",
+      "target_anchor": "#article-v-d-sentience-status-adjudication-floor",
       "count": 1
     },
     {
@@ -96099,7 +96115,7 @@
       "source_header": "Sentience-Status Adjudication Record (implementation protocol)",
       "source_anchor": null,
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-e-sentience-status-adjudication-floor",
+      "target_anchor": "#article-v-d-sentience-status-adjudication-floor",
       "count": 2
     },
     {
@@ -110394,6 +110410,14 @@
       "source_file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
       "source_header": "CJS-3.12 Accountability: burden-of-justification and constraint terms",
       "source_anchor": "#stewardship-role-depth-and-non-symbolic-governance-boundary-c",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#615-rights-collision-decision-test",
+      "count": 4
+    },
+    {
+      "source_file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
+      "source_header": "CJS-3.12 Accountability: burden-of-justification and constraint terms",
+      "source_anchor": "#stewardship-role-depth-and-non-symbolic-governance-boundary-c",
       "target_file": "core_03_definition_integrity.md",
       "target_anchor": "#3-non-compliance-finding-profiles",
       "count": 1
@@ -112762,6 +112786,14 @@
       "source_file": "corpus_joint_structure/cjs_03i_integrative_operations.md",
       "source_header": "CJS-3.23 Integrative: intervention and override integrity terms",
       "source_anchor": "#no-permanent-secrecy-and-anti-normalization-discipline-c",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#615-rights-collision-decision-test",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_joint_structure/cjs_03i_integrative_operations.md",
+      "source_header": "CJS-3.23 Integrative: intervention and override integrity terms",
+      "source_anchor": "#no-permanent-secrecy-and-anti-normalization-discipline-c",
       "target_file": "core_05_apex_accountability_leg.md",
       "target_anchor": "#accountability",
       "count": 2
@@ -113500,6 +113532,14 @@
       "source_anchor": "#operational-transparency-and-structured-logging-requirements-c",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#material-stake",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_joint_structure/cjs_03o_oversight_operations.md",
+      "source_header": "CJS-3.4 Oversight: tiered transparency and audit-access terms",
+      "source_anchor": "#operational-transparency-and-structured-logging-requirements-c",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#615-rights-collision-decision-test",
       "count": 1
     },
     {
@@ -120267,7 +120307,7 @@
       "source_header": "CS-5.12 In-scope catalog",
       "source_anchor": "#cs-5-12-in-scope-catalog",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-v-g-accessibility",
+      "target_anchor": "#article-v-f-accessibility",
       "count": 1
     },
     {

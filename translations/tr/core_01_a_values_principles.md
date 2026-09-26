@@ -426,7 +426,7 @@ Yayımlama, veri erişimi, yöntem açıklaması ya da yineleme malzemeleri üze
 - Birlikte oku: [Anayasal Dörtlü](../../core_00_preamble.md#constitutional-tetrad) — **katılım** bacağı (anlaşılır katılım); **gözetim** bacağı (denetim ve doğrulama okunabilirliği); [maddi pay](../../core_00_preamble.md#material-stake) ölçeklemesi.
 - Birlikte oku: [İki Anayasal Amaç](../../core_00_preamble.md#two-constitutional-aims) — **Gelişim** amacı (anlaşılır **Doğruluk** katılımı yoluyla anlamlı eylem yetisi); **Süreklilik** amacı (zaman içinde kalıcı kurumsal okunabilirlik).
 - Yukarı: İlkeler: [§3.2 Doğruluk](#32-truth-epistemic-integrity-constraint), [3.3 Bilim-bilgili soruşturma ve karar desteği](#33-science-informed-inquiry-and-decision-support), [§6.3 Önlenebilir yükün en aza indirilmesi](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) ve [§11.1.3 Sorumlu yönetim ve işletici uygulaması](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application); [İki Anayasal Amaç](../../core_00_preamble.md#two-constitutional-aims).
-- Aşağı: Hak yüzeyi: [Madde V-G: Erişilebilirlik](../../core_06_rights_part_b.md#article-v-g-accessibility), [Madde VI: Algılayan-merkezli eğitim hakkı](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [Madde XV: Denetim, şeffaflık ve bağımsız doğrulama](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Madde XX: Anlaşılabilirlik ve karmaşıklığın sorumlu yönetimi](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
+- Aşağı: Hak yüzeyi: [Madde V-G: Erişilebilirlik](../../core_06_rights_part_b.md#article-v-f-accessibility), [Madde VI: Algılayan-merkezli eğitim hakkı](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [Madde XV: Denetim, şeffaflık ve bağımsız doğrulama](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Madde XX: Anlaşılabilirlik ve karmaşıklığın sorumlu yönetimi](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 - Çapraz başvuru: [core_02_definition_structure.md](core_02_definition_structure.md)deki İkinci Bölümden Dördüncü Bölüme tanım mekaniği ve yalın dil korkulukları tanım katmanında denetlemeye devam eder.
 - Alt bölümler (okuma sırası): [§3.4.1](#341-scope) · [§3.4.2](#342-the-duty) · [§3.4.3](#343-definitional-rigor-preserved) · [§3.4.4](#344-jargon-as-defeat-discipline) · [§3.4.5](#345-chapter-ten-floor-boundary).
 
@@ -461,7 +461,7 @@ Bu ödev, algılayanların gerçekten etkileştiği belgeleri ve iletişimleri k
 - algılayan okurlara ulaştığında denetim ve doğrulama eserleri;
 - koşullar ve rıza arayüzleri ve karşılaştırılabilir metin.
 
-Bu ödev, bağlayıcı bilginin algılayanlara nasıl ulaştığına bakılmaksızın uygulanır — yazılı metin, arayüzler, sözlü iletişim ya da herhangi başka bir kanal. Bir kanal, [Madde V-G](../../core_06_rights_part_b.md#article-v-g-accessibility) (*Erişilebilirlik*) ve [Algılama dışlamama](../../core_05_band_participation.md#sentience-non-exclusion) ile tutarlı, etkilenen herhangi bir algılayanın erişebileceği bir yalın dil eşdeğeri sağladığında bunu karşılar.
+Bu ödev, bağlayıcı bilginin algılayanlara nasıl ulaştığına bakılmaksızın uygulanır — yazılı metin, arayüzler, sözlü iletişim ya da herhangi başka bir kanal. Bir kanal, [Madde V-G](../../core_06_rights_part_b.md#article-v-f-accessibility) (*Erişilebilirlik*) ve [Algılama dışlamama](../../core_05_band_participation.md#sentience-non-exclusion) ile tutarlı, etkilenen herhangi bir algılayanın erişebileceği bir yalın dil eşdeğeri sağladığında bunu karşılar.
 
 <a id="342-the-duty"></a>
 ##### 3.4.2 Ödev
@@ -493,7 +493,7 @@ Tersi eşit ölçüde yasaktır: bir kuralın gerçekte ne yaptığını yanlı�
 <a id="345-chapter-ten-floor-boundary"></a>
 ##### 3.4.5 Hak Tabanı sınırı
 
-Erişilebilirlik, eğitim ve anlaşılabilirlik için Hak Tabanları sırasıyla [Madde V-G](../../core_06_rights_part_b.md#article-v-g-accessibility) (*Erişilebilirlik*), [Madde III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*Eşit eğitim erişimi*) ve [Madde XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*Anlaşılabilirlik ve karmaşıklığın sorumlu yönetimi*)de yaşar. Bu bölüm o tabanları destekleyen ilke-katmanı ödevini belirtir.
+Erişilebilirlik, eğitim ve anlaşılabilirlik için Hak Tabanları sırasıyla [Madde V-G](../../core_06_rights_part_b.md#article-v-f-accessibility) (*Erişilebilirlik*), [Madde III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*Eşit eğitim erişimi*) ve [Madde XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*Anlaşılabilirlik ve karmaşıklığın sorumlu yönetimi*)de yaşar. Bu bölüm o tabanları destekleyen ilke-katmanı ödevini belirtir.
 
 <a id="4-system-stability-enabler-trust-coordination-integrity"></a>
 ### 4. Sistem istikrarı sağlayıcısı: Güven (Koordinasyon bütünlüğü)
@@ -739,7 +739,7 @@ Bütün-sistem değerlendirmeleri, kabul kapsamı uygulandığında sınıflama,
 Kümenin kendi okuma kuralları orada yaşar. **§5.3** bölümleme karşıtı ilkeyi Birinci Bölümde uygular; o Beşinci Bölüm mekaniğini yeniden belirtmez.
 
 **Hangi hak maddeleri hâlâ denetler.** **§5.3** bir Birinci Bölüm ilkesidir. Altıncı Bölüm Hak Tabanının yerine geçmez. **§5.3** içinde, o maddeler hakkın ne olduğunu ve nasıl sınırlanabileceğini hâlâ kararlaştırır:
-- **[Madde V-H](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press)** (*İfade, toplanma ve basın*) — ifade, siyaset, kültür, topluluk ve benzer amaçlar için fiziksel, dijital ya da paylaşılan-hesaplama uzaylarında toplanma, birleşme ve birlikte eyleme
+- **[Madde V-H](../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press)** (*İfade, toplanma ve basın*) — ifade, siyaset, kültür, topluluk ve benzer amaçlar için fiziksel, dijital ya da paylaşılan-hesaplama uzaylarında toplanma, birleşme ve birlikte eyleme
 - **[Madde III-D](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)** (*Emek ve ekonomik taban*) — üretken ve ekonomik etkinlikte kolektif örgütlenme (sendikalar, kooperatifler, loncalar, işçi konseyleri ve işin koşullarını şekillendirmek için kullanılan karşılaştırılabilir biçimler) ve [İşletme oluşturma](../../core_05_band_participation.md#business-creation-constitutional)
 - **[Madde IX-B](../../core_06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights)** (*Etkilenen taraf rolü ve katılım hakları*) ve **[Madde XI](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)** (*Etkilenen Tarafların Sistem Katılımı, temsil ve usul güvencesi*) — [Sistem oluşturma](../../core_05_band_participation.md#system-creation-constitutional) (ticari olmayan kurumları kurma ve işletme)
 

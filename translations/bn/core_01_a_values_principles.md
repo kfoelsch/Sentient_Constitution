@@ -426,7 +426,7 @@
 - সঙ্গে পড়ুন: [সাংবিধানিক চতুষ্ক](../../core_00_preamble.md#constitutional-tetrad) — **অংশগ্রহণ** পা (বোধগম্য অংশগ্রহণ); **তত্ত্বাবধান** পা (নিরীক্ষা ও যাচাই পাঠযোগ্যতা); [বস্তুগত বাজি](../../core_00_preamble.md#material-stake) স্কেলিং।
 - সঙ্গে পড়ুন: [দুই সাংবিধানিক উদ্দেশ্য](../../core_00_preamble.md#two-constitutional-aims) — **সমুন্নতি** উদ্দেশ্য (বোধগম্য **সত্য** অংশগ্রহণ দিয়ে অর্থপূর্ণ কর্তৃত্ব); **সাতত্য** উদ্দেশ্য (সময়ের সঙ্গে স্থায়ী প্রাতিষ্ঠানিক পাঠযোগ্যতা)।
 - ঊর্ধ্ব: নীতি: [§3.2 সত্য](#32-truth-epistemic-integrity-constraint), [3.3 বিজ্ঞান-অবহিত অনুসন্ধান ও সিদ্ধান্ত সহায়তা](#33-science-informed-inquiry-and-decision-support), [§6.3 এড়ানো যায় এমন ভারের ন্যূনতমকরণ](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), এবং [§11.1.3 দায়িত্বশীল ব্যবস্থাপনা ও পরিচালক প্রয়োগ](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application); [দুই সাংবিধানিক উদ্দেশ্য](../../core_00_preamble.md#two-constitutional-aims)।
-- অধঃ: অধিকার-পৃষ্ঠ: [অনুচ্ছেদ V-G: প্রবেশযোগ্যতা](../../core_06_rights_part_b.md#article-v-g-accessibility), [অনুচ্ছেদ VI: সংজ্ঞ-কেন্দ্রিক শিক্ষার অধিকার](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [অনুচ্ছেদ XV: নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [অনুচ্ছেদ XX: বোধগম্যতা ও জটিলতার দায়িত্বশীল ব্যবস্থাপনা](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)।
+- অধঃ: অধিকার-পৃষ্ঠ: [অনুচ্ছেদ V-G: প্রবেশযোগ্যতা](../../core_06_rights_part_b.md#article-v-f-accessibility), [অনুচ্ছেদ VI: সংজ্ঞ-কেন্দ্রিক শিক্ষার অধিকার](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [অনুচ্ছেদ XV: নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [অনুচ্ছেদ XX: বোধগম্যতা ও জটিলতার দায়িত্বশীল ব্যবস্থাপনা](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)।
 - প্রতি-উল্লেখ: অধ্যায় দুই থেকে চার সংজ্ঞা যন্ত্র এবং সহজ-ভাষা রক্ষা-পটি [core_02_definition_structure.md](core_02_definition_structure.md)-এ সংজ্ঞা স্তরে নিয়ন্ত্রণ করে।
 - উপধারা (পড়ার ক্রম): [§3.4.1](#341-scope) · [§3.4.2](#342-the-duty) · [§3.4.3](#343-definitional-rigor-preserved) · [§3.4.4](#344-jargon-as-defeat-discipline) · [§3.4.5](#345-chapter-ten-floor-boundary)।
 
@@ -461,7 +461,7 @@
 - নিরীক্ষা ও যাচাই উপকরণ যেখানে তারা সংজ্ঞ পাঠকের কাছে পৌঁছায়;
 - শর্ত ও সম্মতি ইন্টারফেস, এবং তুলনীয় পাঠ।
 
-এই কর্তব্য প্রযোজ্য বাধ্যতামূলক তথ্য যেভাবেই সংজ্ঞ প্রাণীর কাছে পৌঁছাক — লিখিত পাঠ, ইন্টারফেস, কথিত যোগাযোগ, বা অন্য কোনো চ্যানেল। কোনো চ্যানেল তখন পূরণ করে যখন সে সহজ-ভাষার সমতুল্য দেয় যা যেকোনো প্রভাবিত সংজ্ঞ প্রাণী পেতে পারে, [অনুচ্ছেদ V-G](../../core_06_rights_part_b.md#article-v-g-accessibility) (*প্রবেশযোগ্যতা*) এবং [সংজ্ঞতা অ-বহিষ্কার](../../core_05_band_participation.md#sentience-non-exclusion)-এর সঙ্গে সামঞ্জস্যপূর্ণ।
+এই কর্তব্য প্রযোজ্য বাধ্যতামূলক তথ্য যেভাবেই সংজ্ঞ প্রাণীর কাছে পৌঁছাক — লিখিত পাঠ, ইন্টারফেস, কথিত যোগাযোগ, বা অন্য কোনো চ্যানেল। কোনো চ্যানেল তখন পূরণ করে যখন সে সহজ-ভাষার সমতুল্য দেয় যা যেকোনো প্রভাবিত সংজ্ঞ প্রাণী পেতে পারে, [অনুচ্ছেদ V-G](../../core_06_rights_part_b.md#article-v-f-accessibility) (*প্রবেশযোগ্যতা*) এবং [সংজ্ঞতা অ-বহিষ্কার](../../core_05_band_participation.md#sentience-non-exclusion)-এর সঙ্গে সামঞ্জস্যপূর্ণ।
 
 <a id="342-the-duty"></a>
 ##### 3.4.2 কর্তব্য
@@ -493,7 +493,7 @@
 <a id="345-chapter-ten-floor-boundary"></a>
 ##### 3.4.5 অধিকার-তল সীমানা
 
-প্রবেশযোগ্যতা, শিক্ষা ও বোধগম্যতার অধিকার-তল থাকে যথাক্রমে [অনুচ্ছেদ V-G](../../core_06_rights_part_b.md#article-v-g-accessibility) (*প্রবেশযোগ্যতা*), [অনুচ্ছেদ III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*সমান শিক্ষাগত প্রবেশাধিকার*), এবং [অনুচ্ছেদ XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*বোধগম্যতা ও জটিলতার দায়িত্বশীল ব্যবস্থাপনা*)-এ। এই ধারা সেই তলকে সমর্থন করা নীতি-স্তর কর্তব্য বলে।
+প্রবেশযোগ্যতা, শিক্ষা ও বোধগম্যতার অধিকার-তল থাকে যথাক্রমে [অনুচ্ছেদ V-G](../../core_06_rights_part_b.md#article-v-f-accessibility) (*প্রবেশযোগ্যতা*), [অনুচ্ছেদ III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*সমান শিক্ষাগত প্রবেশাধিকার*), এবং [অনুচ্ছেদ XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*বোধগম্যতা ও জটিলতার দায়িত্বশীল ব্যবস্থাপনা*)-এ। এই ধারা সেই তলকে সমর্থন করা নীতি-স্তর কর্তব্য বলে।
 
 <a id="4-system-stability-enabler-trust-coordination-integrity"></a>
 ### 4. ব্যবস্থা স্থিতির সহায়ক: বিশ্বাস (সমন্বয় সততা)
@@ -739,7 +739,7 @@
 গুচ্ছের নিজস্ব পড়ার নিয়ম সেখানে থাকে। **§5.3** অধ্যায় একতে খণ্ডীকরণ-নিরোধ নীতি প্রয়োগ করে; এটি সেই অধ্যায় পাঁচ যন্ত্র পুনরায় বলে না।
 
 **কোন অধিকার অনুচ্ছেদ এখনও নিয়ন্ত্রণ করে।** **§5.3** একটি অধ্যায়-এক নীতি। এটি অধ্যায় ছয় অধিকার-তল বদলায় না। **§5.3**-এর ভিতরে, সেই অনুচ্ছেদ এখনও ঠিক করে অধিকার কী এবং কীভাবে সীমিত করা যায়:
-- **[অনুচ্ছেদ V-H](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press)** (*মতপ্রকাশ, সমাবেশ ও সংবাদমাধ্যম*) — শারীরিক, ডিজিটাল, বা ভাগ করা-কম্পিউট স্থানে মতপ্রকাশ, রাজনীতি, সংস্কৃতি, সম্প্রদায়, এবং অনুরূপ উদ্দেশ্যে জমা হওয়া, সংঘবদ্ধ হওয়া, এবং একসঙ্গে কাজ করা
+- **[অনুচ্ছেদ V-H](../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press)** (*মতপ্রকাশ, সমাবেশ ও সংবাদমাধ্যম*) — শারীরিক, ডিজিটাল, বা ভাগ করা-কম্পিউট স্থানে মতপ্রকাশ, রাজনীতি, সংস্কৃতি, সম্প্রদায়, এবং অনুরূপ উদ্দেশ্যে জমা হওয়া, সংঘবদ্ধ হওয়া, এবং একসঙ্গে কাজ করা
 - **[অনুচ্ছেদ III-D](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)** (*শ্রম ও অর্থনৈতিক তল*) — উৎপাদনশীল ও অর্থনৈতিক কাজে সমষ্টিগত সংগঠন (ইউনিয়ন, সমবায়, গিল্ড, শ্রমিক পরিষদ, এবং কাজের শর্ত গড়তে ব্যবহৃত তুলনীয় রূপ), এবং [ব্যবসা সৃষ্টি](../../core_05_band_participation.md#business-creation-constitutional)
 - **[অনুচ্ছেদ IX-B](../../core_06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights)** (*প্রভাবিত-পক্ষ ভূমিকা ও অংশগ্রহণ অধিকার*) এবং **[অনুচ্ছেদ XI](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)** (*প্রভাবিত পক্ষের পদ্ধতিগত অংশগ্রহণ, প্রতিনিধিত্ব ও যথাযথ প্রক্রিয়া*) — [ব্যবস্থা সৃষ্টি](../../core_05_band_participation.md#system-creation-constitutional) (অ-বাণিজ্যিক প্রতিষ্ঠান গড়া ও চালানো)
 

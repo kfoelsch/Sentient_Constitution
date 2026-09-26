@@ -95,7 +95,7 @@ Leaf definitions under this leg inherit its scope unless they expressly narrow o
 
 <br>
 
-*In plain terms: these questions ask whether problems actually move in time — not whether a dashboard shows throughput. This is the Chapter Five home for the Timeliness measurement family; Preamble §2 keeps the plain-language category question, and the family table and definition routing live here.*
+*In plain terms: these questions ask whether problems actually move in time — not whether a dashboard shows throughput. This is the Chapter Five home for the Timeliness measurement family; Preamble §2 (*Measurements Overview*) keeps the plain-language category question, and the family table and definition routing live here.*
 
 *Materiality* ([Materiality Determination](core_05_band_oversight.md#materiality-determination)) is Integrative — not a separate measurement category; it scales how strongly this family applies under [material stake](core_00_preamble.md#material-stake).
 

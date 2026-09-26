@@ -426,7 +426,7 @@
 - خوانده شود با: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — پای **مشارکت** (درگیری فهم‌پذیر)؛ پای **نظارت** (خوانایی حسابرسی و راستی‌آزمایی)؛ مقیاس [منافع مادی](core_00_preamble.md#material-stake).
 - خوانده شود با: [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — هدف **شکوفایی** (عاملیت معنادار از راه درگیری فهم‌پذیر با **حقیقت**)؛ هدف **پیوستگی** (خوانایی نهادی ماندگار در طول زمان).
 - بالادست: اصول: [§3.2 حقیقت](#32-truth-epistemic-integrity-constraint)، [3.3 پژوهش علم‌آگاه و پشتیبانی تصمیم](#33-science-informed-inquiry-and-decision-support)، [§6.3 کمینه‌سازی بار قابل‌اجتناب](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)، و [§11.1.3 اعمال مدیریت مسئولانه و اپراتور](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims).
-- پایین‌دست: سطح حقوق: [اصل V-G: دسترس‌پذیری](../../core_06_rights_part_b.md#article-v-g-accessibility)، [اصل VI: حق آموزش حس‌مندمحور](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)، [اصل XV: حسابرسی، شفافیت و راستی‌آزمایی مستقل](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)، [اصل XX: فهم‌پذیری و مدیریت مسئولانهٔ پیچیدگی](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
+- پایین‌دست: سطح حقوق: [اصل V-G: دسترس‌پذیری](../../core_06_rights_part_b.md#article-v-f-accessibility)، [اصل VI: حق آموزش حس‌مندمحور](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)، [اصل XV: حسابرسی، شفافیت و راستی‌آزمایی مستقل](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)، [اصل XX: فهم‌پذیری و مدیریت مسئولانهٔ پیچیدگی](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 - ارجاع متقابل: مکانیک تعریف فصل‌های دوم تا چهارم و نرده‌های زبان ساده در [core_02_definition_structure.md](core_02_definition_structure.md) در لایهٔ تعریف کنترل‌کننده می‌مانند.
 - زیربخش‌ها (ترتیب خواندن): [§3.4.1](#341-scope) · [§3.4.2](#342-the-duty) · [§3.4.3](#343-definitional-rigor-preserved) · [§3.4.4](#344-jargon-as-defeat-discipline) · [§3.4.5](#345-chapter-ten-floor-boundary).
 
@@ -461,7 +461,7 @@
 - آثار حسابرسی و راستی‌آزمایی جایی که به خوانندگان حس‌مند می‌رسند؛
 - شرایط و واسط‌های رضایت، و متن مشابه.
 
-این تکلیف اعمال می‌شود هرگونه اطلاعات الزام‌آور به حس‌مندان برسد — متن نوشته، واسط، ارتباط گفتاری، یا هر کانال دیگر. کانال وقتی برآورده می‌کند که معادل زبان ساده فراهم کند که هر حس‌مند اثرپذیر بتواند به آن دسترسی یابد، سازگار با [اصل V-G](../../core_06_rights_part_b.md#article-v-g-accessibility) (*دسترس‌پذیری*) و [منع طرد حس‌مندی](../../core_05_band_participation.md#sentience-non-exclusion).
+این تکلیف اعمال می‌شود هرگونه اطلاعات الزام‌آور به حس‌مندان برسد — متن نوشته، واسط، ارتباط گفتاری، یا هر کانال دیگر. کانال وقتی برآورده می‌کند که معادل زبان ساده فراهم کند که هر حس‌مند اثرپذیر بتواند به آن دسترسی یابد، سازگار با [اصل V-G](../../core_06_rights_part_b.md#article-v-f-accessibility) (*دسترس‌پذیری*) و [منع طرد حس‌مندی](../../core_05_band_participation.md#sentience-non-exclusion).
 
 <a id="342-the-duty"></a>
 ##### 3.4.2 تکلیف
@@ -493,7 +493,7 @@
 <a id="345-chapter-ten-floor-boundary"></a>
 ##### 3.4.5 مرز کف حقوق
 
-کف‌های حقوق برای دسترس‌پذیری، آموزش، و فهم‌پذیری به‌ترتیب در [اصل V-G](../../core_06_rights_part_b.md#article-v-g-accessibility) (*دسترس‌پذیری*)، [اصل III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*دسترسی آموزشی برابر*)، و [اصل XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*فهم‌پذیری و مدیریت مسئولانهٔ پیچیدگی*) زندگی می‌کنند. این بخش تکلیف لایهٔ اصول را بیان می‌کند که آن کف‌ها را پشتیبانی می‌کند.
+کف‌های حقوق برای دسترس‌پذیری، آموزش، و فهم‌پذیری به‌ترتیب در [اصل V-G](../../core_06_rights_part_b.md#article-v-f-accessibility) (*دسترس‌پذیری*)، [اصل III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*دسترسی آموزشی برابر*)، و [اصل XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*فهم‌پذیری و مدیریت مسئولانهٔ پیچیدگی*) زندگی می‌کنند. این بخش تکلیف لایهٔ اصول را بیان می‌کند که آن کف‌ها را پشتیبانی می‌کند.
 
 <a id="4-system-stability-enabler-trust-coordination-integrity"></a>
 ### 4. تواناساز پایداری نظام: اعتماد (یکپارچگی هماهنگی)
@@ -739,7 +739,7 @@
 قواعد خواندن خود خوشه آنجا زندگی می‌کنند. **§5.3** اصل ضدبخش‌بخش‌کردن را در فصل یکم اعمال می‌کند؛ آن مکانیک فصل پنجم را بازگو نمی‌کند.
 
 **کدام اصول حقوق هنوز کنترل می‌کنند.** **§5.3** اصل فصل یکم است. جای کف حقوق فصل ششم را نمی‌گیرد. درون **§5.3**، آن اصول هنوز تصمیم می‌گیرند حق چیست و چگونه می‌توان محدودش کرد:
-- **[اصل V-H](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press)** (*بیان، اجتماع، و مطبوعات*) — گرد آمدن، انجمن، و کنش با هم در فضاهای فیزیکی، دیجیتال، یا رایانش مشترک برای بیان، سیاست، فرهنگ، اجتماع، و مقصودهای مشابه
+- **[اصل V-H](../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press)** (*بیان، اجتماع، و مطبوعات*) — گرد آمدن، انجمن، و کنش با هم در فضاهای فیزیکی، دیجیتال، یا رایانش مشترک برای بیان، سیاست، فرهنگ، اجتماع، و مقصودهای مشابه
 - **[اصل III-D](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)** (*کف کار و اقتصاد*) — سازمان جمعی در فعالیت مولد و اقتصادی (اتحادیه‌ها، تعاونی‌ها، اصناف، شوراهای کارگری، و شکل‌های مشابه به‌کاررفته برای شکل دادن شروط کار)، و [ایجاد کسب‌وکار](../../core_05_band_participation.md#business-creation-constitutional)
 - **[اصل IX-B](../../core_06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights)** (*حقوق نقش طرف اثرپذیر و مشارکت*) و **[اصل XI](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)** (*مشارکت سیستمی طرف‌های اثرپذیر، نمایندگی، و فرایند عادلانه*) — [ایجاد نظام](../../core_05_band_participation.md#system-creation-constitutional) (تشکیل و ادارهٔ نهادهای غیریازرگانی)
 

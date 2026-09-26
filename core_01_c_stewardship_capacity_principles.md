@@ -360,7 +360,7 @@ Role pathways may separate **learning-dominant** and **operations-dominant** rol
   - other agents, operators, or constituent components
 
   This subsection is the duty-holder rule. [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) remains the recognition and Rights-Floor anti-carve-out.
-- **Duty to resist:** [Chapter Ten §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) binds both kinds of steward to refuse unlawful or unconstitutional instructions.
+- **Duty to resist:** [Chapter Ten §5.4 Duty to resist](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) binds both kinds of steward to refuse unlawful or unconstitutional instructions.
 - **Internal codes and adopted implementation text:**
   - may add logging, attribution, and capability limits that satisfy, and do not narrow, those duties
   - may not replace [standing measurement](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model), contest pathways, or Chapter One duties with a softer internal code
@@ -510,7 +510,7 @@ The burden this duty places on a steward who carries consequential authority is 
 - The bar for getting intake or preservation started is deliberately lower than the bar for proving a claim. Meeting it gets the work looked at; it settles nothing on the merits, where the full burden still applies.
 - A reporter does not have to identify the right rule to be protected. Protection holds even where the problem is described loosely, or the wrong provision is named.
 - A sentient or group that claims its own work or result is constitutionally aligned nevertheless bears the burden for that claim under [Chapter Four](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification).
-- Self-organized work often reaches conclusions about what is happening, what will happen, or what caused what. Those conclusions have to be ones other people can check: reasoning that can be traced, results that are independently checkable where that is reasonably achievable, uncertainty and limits stated plainly, openness to adversarial testing, and revision when material new evidence arrives.
+- Self-organized work often reaches conclusions about what is happening, what will happen, or what caused what. Those conclusions have to be ones other sentients can check: reasoning that can be traced, results that are independently checkable where that is reasonably achievable, uncertainty and limits stated plainly, openness to adversarial testing, and revision when material new evidence arrives.
 
 **No self-appointment or self-certification:**
 - Initiating, conducting, funding, publishing, or submitting self-organized work does not by itself:
@@ -810,7 +810,7 @@ Incentives must not reward, protect, normalize, or make materially advantageous:
   - unlawful or unconstitutional command conduct;
   - concealment;
   - retaliation;
-  - [obstruction of accountability](core_09_standing_assessment.md#232-violation-event-types) (standing-model event type and [Chapter Eleven §5.11](core_11_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) designation routing — not a freestanding reward carve-out); or
+  - [obstruction of accountability](core_09_standing_assessment.md#232-violation-event-types) (standing-model event type and [Chapter Eleven §5.11 Obstruction of accountability: criteria interaction](core_11_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) designation routing — not a freestanding reward carve-out); or
   - refusal to remediate verified constitutional harm; or
 - reward pathways that materially depend on misconduct or its concealment, including:
   - compensation, bonus, equity, appointment, promotion, or tenure;
@@ -1916,7 +1916,7 @@ Any claim about the matters below must be checked against what the whole system 
 - release-from-conditions.
 
 The detailed evaluation factors and certification records are owned by:
-- **[Chapter Eight §3](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
+- **[Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
 - **[Chapter Eight §11 System Certification Record](core_08_b_system_alignment_certification_record_process.md#11-system-certification-record)**;
 - **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**.
 

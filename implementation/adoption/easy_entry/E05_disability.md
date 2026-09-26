@@ -19,7 +19,7 @@
 
 *In plain terms: access has to work in practice, not only on a policy page — disability, health, and capability variation cannot be used as a quiet gate, and process that you cannot actually use is not participation.*
 
-This brief is for someone who needs the path to actually work, including extra support needs and neurodivergence. It does not change the Rights Floor that applies to you. When access is at stake, those rules are located in the section on [Article V-G](../../../core_06_rights_part_b.md#article-v-g-accessibility).
+This brief is for someone who needs the path to actually work, including extra support needs and neurodivergence. It does not change the Rights Floor that applies to you. When access is at stake, those rules are located in the section on [Article V-F](../../../core_06_rights_part_b.md#article-v-f-accessibility).
 
 ## One in six now — almost everyone in a full life
 
@@ -43,7 +43,7 @@ If a body that actually runs the systems in your life adopted this Constitution:
 - **Today:** The form is a maze. The hearing is adversarial and loud. Deadlines assume one working style. A published process counts even when you cannot complete it. Cost, “that’s just how the system is designed,” or talk about your body or form is used to explain why you should use a lesser path.
 - **With this Constitution:** Everyone this covers has a right to accessible conditions for participation. Operators cannot use cost, design choices, or arguments about body or form to lock you out.
 
-See: [Article V-G](../../../core_06_rights_part_b.md#article-v-g-accessibility).
+See: [Article V-F](../../../core_06_rights_part_b.md#article-v-f-accessibility).
 
 **Disability and capability variation are protected characteristics.**
 - **Today:** A “neutral” rule does the same work as an explicit bar.
@@ -69,7 +69,7 @@ See: [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-ch
 
 - **“Supported decision-making is just someone else deciding.”** The point of the CI-15 map is usable participation and supported decision-making, not a quiet guardianship. Taking over decisions because it is faster is the scene on [the age-related challenges page](E06_age_related_challenges.md). A diagnosis used to take over your say is the scene on [the mental-health page](E14_mental_health.md).
 
-- **“I don’t want a disability identity. I want the tool to work.”** You do not have to take that label to use this page. It does not change the Rights Floor that applies to you. Access still has to be usable. When disability, health, or capability variation is used as a bar, those rules are located in the section on [Article V-G](../../../core_06_rights_part_b.md#article-v-g-accessibility).
+- **“I don’t want a disability identity. I want the tool to work.”** You do not have to take that label to use this page. It does not change the Rights Floor that applies to you. Access still has to be usable. When disability, health, or capability variation is used as a bar, those rules are located in the section on [Article V-F](../../../core_06_rights_part_b.md#article-v-f-accessibility).
 
 - **“This isn’t law at my clinic / school / job.”** Correct until a qualifying body adopts it. It does not override applicable disability or education law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
@@ -79,7 +79,7 @@ See: [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-ch
 
 - A second, softer set of rights, access treated as optional charity, or a guarantee of your preferred format in every setting.
 - Winning a preference contest against someone else’s basic protection.
-- Erasing adult-to-adult expression under a vulnerability pretext ([Article V-H](../../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) audience-routing discipline).
+- Erasing adult-to-adult expression under a vulnerability pretext ([Article IX-G](../../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press) audience-routing discipline).
 - Enforcement against a clinic, school, or employer that has not adopted it.
 
 ## If you want to look further

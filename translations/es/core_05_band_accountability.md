@@ -1920,7 +1920,7 @@ Véase **Invocación conjunta y satisfacción**.
     - gobernanza del conocimiento;
     - administración responsable de estándares;
     - reducir la incertidumbre acotada que importa a la adjudicación o la regulación; o
-    - determinación de estatus de sentiencia del [Artículo V-E](../../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*) sobre indicadores, evidencia pericial o incertidumbre acotada bajo [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional).
+    - determinación de estatus de sentiencia del [Artículo V-E](../../core_06_rights_part_b.md#article-v-d-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*) sobre indicadores, evidencia pericial o incertidumbre acotada bajo [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional).
   - **Fuera de alcance:** preguntas primarias no técnicas — derechos, mandato, ecológicas o de fondo constitucional asignadas a otra familia bajo el Capítulo Once §2, excepto donde aplique el rol conductor de estatus de sentiencia de esta familia bajo el [Capítulo Once §5](core_11_forum.md#5-escalation-and-certification).
 <a id="forum-family-technical-a"></a>
 - **Cómo medir y evaluar**

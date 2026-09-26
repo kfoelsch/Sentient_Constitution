@@ -38,7 +38,7 @@ Chapter Eleven, **Part B**, is the constitutional owner of **named pattern appli
 
 *In plain terms: the rest of the chapter applies the same decision model to recurring anti-constitutional patterns. “Participation and accountability-pathway integrity” names the **attack targets** — contest, standing, audit, forum, and related accountability pathways — not a catalog of new Chapter Ten lock types. These examples do not create new criteria or new special locks; they show how named conduct routes through the criteria, process safeguards, and chapter boundaries already stated above. Locks stay in Chapter Ten.*
 
-The following subsections state criteria interactions and named pattern applications. They do **not** add independent impact criteria, relocate operational rules from other chapters, bypass **section 4** safeguards, or create Chapter Ten lock types. Accountability-pathway language in this section names **attack targets**. Standing locks, special-violation shaping, and special locks remain owned by [Chapter Ten](core_10_standing_integration.md#chapter-ten-standing-effects-and-integration): general locks and [§5.4](core_10_standing_integration.md#54-special-violation-rules) (*Special violation rules*) shaping for ordinary verified named-pathway harm; the **Forum-Service Standing Lock** for required-recusal failure under [§5.10](#510-forum-recusal-failure-and-biased-panel-participation) (*Forum recusal failure and biased panel participation*); and the **Anti-Constitutional Trust Lock** after final designation under [§4.2](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prevention — anti-constitutional locks*). Evaluators assess each materially implicated pattern on the **unified incident record** under **section 2**, decide designation under **section 3**, preserve required process under **section 4**, and keep the Chapters Fourteen through Sixteen boundary stated in **section 1**.
+The following subsections state criteria interactions and named pattern applications. They do **not** add independent impact criteria, relocate operational rules from other chapters, bypass **section 4** safeguards, or create Chapter Ten lock types. Accountability-pathway language in this section names **attack targets**. Standing locks, special-violation shaping, and special locks remain owned by [Chapter Ten](core_10_standing_integration.md#chapter-ten-standing-effects-and-integration): general locks and [Chapter Ten §5.4](core_10_standing_integration.md#54-special-violation-rules) (*Special violation rules*) shaping for ordinary verified named-pathway harm; the **Forum-Service Standing Lock** for required-recusal failure under [§5.10](#510-forum-recusal-failure-and-biased-panel-participation) (*Forum recusal failure and biased panel participation*); and the **Anti-Constitutional Trust Lock** after final designation under [§4.2](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prevention — anti-constitutional locks*). Evaluators assess each materially implicated pattern on the **unified incident record** under **section 2**, decide designation under **section 3**, preserve required process under **section 4**, and keep the Chapters Fourteen through Sixteen boundary stated in **section 1**.
 
 <a id="51-concentration-based-subversion-criteria-interaction"></a>
 
@@ -104,7 +104,7 @@ The following patterns are **anti-constitutional misconduct within this chapter�
 
 - **Unconstitutional contract-term conduct:** any agreement, adhesion term, policy, or comparable instrument that purports to waive, disclaim, override, or contract around binding **Sentient Constitution** obligations or **Chapter Six** Rights Floors.
   - Includes **non-disclosure agreements** (**NDAs**) and **overbroad confidentiality** terms where they **function** as **waiver**, **gag**, or **override** devices.
-  - Includes a **contractual directive** requiring unlawful conduct or material constitutional violation (read with **Chapter Ten** [§5.4 Special violation rules](core_10_standing_integration.md#54-special-violation-rules) and [§2 Automatic integration, review, and continuity](core_10_standing_integration.md#2-automatic-integration-review-and-continuity)).
+  - Includes a **contractual directive** requiring unlawful conduct or material constitutional violation (read with [Chapter Ten §5.4 Special violation rules](core_10_standing_integration.md#54-special-violation-rules) and [§2 Automatic integration, review, and continuity](core_10_standing_integration.md#2-automatic-integration-review-and-continuity)).
 
 - **Post-employment mobility-restriction conduct:**
   - **Non-compete** or **no-poach** terms in employment, **operator**, **steward**, platform, or comparable arrangements — prohibited categorically in any form, scope, or duration, with **no operative effect** to restrict labor mobility.
@@ -196,7 +196,7 @@ This subsection does **not** add an additional designation criterion beyond the 
 - Downstream: [§3](core_11_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*); [§1](core_11_a_misconduct_designation.md#1-cross-chapter-discipline) (*Chapters Fourteen through Sixteen boundary*).
 - Topic routing (mandatory read-with): [Chapter Ten §10.10](core_10_standing_integration.md#1010-contest-pathway-or-info-sphere-flooding) (*Question 3 named-pathway lock routing for contest-pathway or info-sphere flooding — general locks only*).
 - Read with: [Info-Sphere](core_05_band_participation.md#info-sphere), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), and [Transparency](core_05_band_oversight.md#transparency) in **Chapter Five**.
-- Rights and verification: [Article V-H: Expression, Assembly, and Press](core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) and [Article XV: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) in **Chapter Six**. These supply Rights Floors and verification discipline without relocating designation review.
+- Rights and verification: [Article IX-G: Expression, Assembly, and Press](core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press) and [Article XV: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) in **Chapter Six**. These supply Rights Floors and verification discipline without relocating designation review.
 - Implementation context: adopted **[corpus_systems.md](corpus_systems.md)** and institutional implementation under **Chapter Seventeen** where materially relevant.
 
 </details>
@@ -995,7 +995,7 @@ The pattern is especially heightened where the panelist sits on a **Constitution
 - validity review; or
 - class-wide structural remedy.
 
-**Forum routing.** Allegations whose **primary stake** is any of the following on a **Constitutional forum** panel default to **Integrity** forums under **Chapter Twelve §2** and the **cross-forum anti-self-judging rule** in **Chapter Twelve §3**:
+**Forum routing.** Allegations whose **primary stake** is any of the following on a **Constitutional forum** panel default to **Integrity** forums under **Chapter Twelve §2** (*Default venue and primary stakes*) and the **cross-forum anti-self-judging rule** in **Chapter Twelve §3** (*Transfer, consolidation, and coordination — continuity and anti-capture*):
 - **recusal failure**; or
 - **biased panel participation**.
 
@@ -1055,11 +1055,11 @@ Where a Violation Axis finding already occupies `s` = 7, 8, or 9 and anti-consti
 
 Named patterns elsewhere in this section are **modes** of obstruction, not competing taxonomies:
 
-- [§5.3](#53-flooding-the-zone-and-contest-pathway-denial) / [§5.4](#54-info-sphere-zone-flooding) — contest or info-sphere flooding that defeats practical contestability;
-- [§5.7](#57-reward-protection-or-normalization-of-anti-constitutional-conduct) — reward, protection, or normalization that obstructed accountability for anti-constitutional conduct;
-- [§5.8](#58-enforcement-refusal-suppression-or-non-prosecution-conduct) — enforcement refusal or non-prosecution as an **accountability-obstruction pathway**;
-- [§5.9](#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct) — infrastructure denial that cuts audit, remedy, or verification pathways;
-- [§5.10](#510-forum-recusal-failure-and-biased-panel-participation) — forum-integrity capture of contestability.
+- [§5.3 Flooding the zone and contest-pathway denial](#53-flooding-the-zone-and-contest-pathway-denial) / [§5.4 Info-sphere zone flooding](#54-info-sphere-zone-flooding) — contest or info-sphere flooding that defeats practical contestability;
+- [§5.7 Reward, protection, or normalization of anti-constitutional conduct](#57-reward-protection-or-normalization-of-anti-constitutional-conduct) — reward, protection, or normalization that obstructed accountability for anti-constitutional conduct;
+- [§5.8 Enforcement refusal, suppression, or non-prosecution conduct](#58-enforcement-refusal-suppression-or-non-prosecution-conduct) — enforcement refusal or non-prosecution as an **accountability-obstruction pathway**;
+- [§5.9 Infrastructure denial, destruction, or dependency cutoff conduct](#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct) — infrastructure denial that cuts audit, remedy, or verification pathways;
+- [§5.10 Forum recusal failure and biased panel participation](#510-forum-recusal-failure-and-biased-panel-participation) — forum-integrity capture of contestability.
 
 The absence of a matching named-mode subsection does **not** defeat designation where the verified obstruction facts independently satisfy the **section 2** criteria. Chapter Nine alone measures the Violation Axis slot; obstruction character never raises it. Chapter Ten alone attaches ordinary named pathway locks and, after final designation, the Anti-Constitutional Trust Lock.
 

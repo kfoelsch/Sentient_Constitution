@@ -765,7 +765,7 @@ Archival preserves evidence while ending ordinary active use. A forum may access
 
 ### Protection while sentience is uncertain
 
-When an entity’s sentience is materially disputed, the Constitution provides provisional inclusion, not a wait for certainty. Once a case is lawfully open, unresolved uncertainty must not withhold, narrow, or delay the Chapter Six Rights Floor; the burden of justifying withholding rests on the party seeking it, and a wrongful determination must be reversible. The merits forum must appoint an independent representative who is not materially dependent on the parent system, operator, or party seeking exclusion. This is the **Def.P1** / [Article V-E](../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) pathway.
+When an entity’s sentience is materially disputed, the Constitution provides provisional inclusion, not a wait for certainty. Once a case is lawfully open, unresolved uncertainty must not withhold, narrow, or delay the Chapter Six Rights Floor; the burden of justifying withholding rests on the party seeking it, and a wrongful determination must be reversible. The merits forum must appoint an independent representative who is not materially dependent on the parent system, operator, or party seeking exclusion. This is the **Def.P1** / [Article V-D](../core_06_rights_part_b.md#article-v-d-sentience-status-adjudication-floor) pathway.
 
 That protection belongs to the entity. It does not shield an operator’s property or commercial interest, prevent compatible system containment or quarantine, or create Contribution Axis credit for the operator. The overview therefore treats inclusion and operator immunity as separate questions.
 

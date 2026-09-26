@@ -184,7 +184,7 @@ Cette bande tient des définitions sous la jambe **Supervision** de la Tétrade 
     - protection des sources ;
     - enquête ; et
     - publication.
-    Sentients doing that work exercise the [Expression](core_05_band_participation.md#expression-constitutional) and [Assemblée](core_05_band_participation.md#assembly-constitutional) Plancher des droits, with heightened-scrutiny protection under [Article V-H](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
+    Sentients doing that work exercise the [Expression](core_05_band_participation.md#expression-constitutional) and [Assemblée](core_05_band_participation.md#assembly-constitutional) Plancher des droits, with heightened-scrutiny protection under [Article V-H](../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
   - **Hors portée :** press credentials, institutional titles, or ordinary commercial speech that is not newsgathering, investigation, or publication functioning as journalism.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **Comment mesurer et évaluer**

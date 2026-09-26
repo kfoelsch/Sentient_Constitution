@@ -32,21 +32,21 @@ These match gaps the corpus already names, or comprehension hazards the audit fl
 ### A1. Enumerate a Sentience-Status Adjudication Record schema — **done**
 
 **Homes:** [`corpus_forum/cf_sentience_status_record.md`](../../corpus_forum/cf_sentience_status_record.md); [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../../implementation/schemas/sentience_status_adjudication_record.schema.json); enumerated in [Chapter Seventeen §2](../../core_17_incorporation.md#2-custody-editions-and-operative-effect); finder note on [`corpus_forum.md`](../../corpus_forum.md); **CF-15.1** points without restating fields.
-**Do not:** Relocate Article V-E into implementation text, or let the schema decide who counts.
+**Do not:** Relocate Article V-D into implementation text, or let the schema decide who counts.
 
 ### A2. Anti-substitution: certification and LEQU cannot decide sentience — **done**
 
-**Homes:** Boxed operative sentence at [Article V-E](../../core_06_rights_part_b.md#anti-substitution-sentience-status) and [Article XVIII-A](../../core_06_rights_part_c.md#anti-substitution-sentience-status-xviii); steward-door lockstep on the Chapter Eight and Chapter Nine operative steward statements and [STEWARD_ENTRY_DOORS.md](../../implementation/STEWARD_ENTRY_DOORS.md).
+**Homes:** Boxed operative sentence at [Article V-D](../../core_06_rights_part_b.md#anti-substitution-sentience-status) and [Article XVIII-A](../../core_06_rights_part_c.md#anti-substitution-sentience-status-xviii); steward-door lockstep on the Chapter Eight and Chapter Nine operative steward statements and [STEWARD_ENTRY_DOORS.md](../../implementation/STEWARD_ENTRY_DOORS.md).
 **Do not:** Restate Chapter Nine mechanics inside Chapter Six.
 
 ### A3. Ladder escalation — no permanent welfare parking — **done**
 
-**Homes:** [Article I-A](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity); Def.P1 [Animal Life](../../core_05_band_participation.md#animal-life-constitutional) and [Elevated Communicative Life](../../core_05_band_participation.md#elevated-communicative-life-constitutional) secondary-failure parking rules. Time-bound review, not a species list. Escalation opens Article V-E / Contested-Sentient default inclusion; it does not itself affirm Sentient status.
+**Homes:** [Article I-A](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity); Def.P1 [Animal Life](../../core_05_band_participation.md#animal-life-constitutional) and [Elevated Communicative Life](../../core_05_band_participation.md#elevated-communicative-life-constitutional) secondary-failure parking rules. Time-bound review, not a species list. Escalation opens Article V-D / Contested-Sentient default inclusion; it does not itself affirm Sentient status.
 **Do not:** Auto-promote every animal to Sentient.
 
 ### A4. Opening filter for contested status (over-inclusion guard) — **done**
 
-**Homes:** [Article V-E filing integrity](../../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor); Def.P1 Contested-Sentient Life; [Chapter Twelve §5](../../core_12_forum.md#5-escalation-and-certification) hook. Declining a crank filing is not a withholding determination.
+**Homes:** [Article V-D filing integrity](../../core_06_rights_part_b.md#article-v-d-sentience-status-adjudication-floor); Def.P1 Contested-Sentient Life; [Chapter Twelve §5](../../core_12_forum.md#5-escalation-and-certification) hook. Declining a crank filing is not a withholding determination.
 **Do not:** Let the opening filter become a withholding device.
 
 ### A5. Reader-path accessibility (process support) — **done**

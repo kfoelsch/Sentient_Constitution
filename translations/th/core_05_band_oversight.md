@@ -184,7 +184,7 @@
     - การปกป้องแหล่ง;
     - การสอบสวน; และ
     - การเผยแพร่
-    ผู้มีความรู้สึกที่ทำงานนั้นใช้พื้นสิทธิ [การแสดงออก](core_05_band_participation.md#expression-constitutional) และ [การชุมนุม](core_05_band_participation.md#assembly-constitutional) พร้อมการคุ้มครองการตรวจที่สูงขึ้นภายใต้ [มาตรา V-H](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*การแสดงออก การชุมนุม และสื่อ*) ต่อการกระทำของรัฐและผู้ดำเนินงานที่ตั้งใจทำร้ายกิจกรรมนั้น
+    ผู้มีความรู้สึกที่ทำงานนั้นใช้พื้นสิทธิ [การแสดงออก](core_05_band_participation.md#expression-constitutional) และ [การชุมนุม](core_05_band_participation.md#assembly-constitutional) พร้อมการคุ้มครองการตรวจที่สูงขึ้นภายใต้ [มาตรา V-H](../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press) (*การแสดงออก การชุมนุม และสื่อ*) ต่อการกระทำของรัฐและผู้ดำเนินงานที่ตั้งใจทำร้ายกิจกรรมนั้น
   - **นอกขอบเขต:** ใบรับรองสื่อ ตำแหน่งสถาบัน หรือการพูดเชิงพาณิชย์ธรรมดาที่ไม่ได้เป็นการเก็บข่าว การสอบสวน หรือการเผยแพร่ที่ทำงานเป็นการวารสารศาสตร์
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **วิธีวัดและประเมิน**

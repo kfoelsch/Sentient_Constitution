@@ -84,7 +84,7 @@ Beyond the sitting’s bounded reading path, open:
 - [Article III-B](../../../core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*Equal Educational Access*)
 - [Article VI](../../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education); [Article VI-A](../../../core_06_rights_part_b.md#article-vi-a-capability-building-education-right) — challengeable high-stakes learning systems
 - [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind)
-- [Article V-H](../../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press)
+- [Article IX-G](../../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press)
 - [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) where unpaid “experience” is productive work used to gate the exam
 - [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)
 

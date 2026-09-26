@@ -184,7 +184,7 @@
     - защита источников;
     - расследование; и
     - публикация.
-    Sentients doing that work exercise the [Выражение](core_05_band_participation.md#expression-constitutional) and [Собрание](core_05_band_participation.md#assembly-constitutional) Пол прав, with heightened-scrutiny protection under [Статья V-H](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
+    Sentients doing that work exercise the [Выражение](core_05_band_participation.md#expression-constitutional) and [Собрание](core_05_band_participation.md#assembly-constitutional) Пол прав, with heightened-scrutiny protection under [Статья V-H](../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
   - **Вне охвата:** press credentials, institutional titles, or ordinary commercial speech that is not newsgathering, investigation, or publication functioning as journalism.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **Как измерять и оценивать**

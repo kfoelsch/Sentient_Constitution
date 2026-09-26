@@ -85,7 +85,7 @@ Do not resolve the collision in this file.
 
 Beyond the sitting’s bounded reading path, open:
 
-- [Article V-F](../../../core_06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*) — capability, not a birthday; “for your own good” is not, by itself, a valid lock
+- [Article V-E](../../../core_06_rights_part_b.md#article-v-e-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*) — capability, not a birthday; “for your own good” is not, by itself, a valid lock
 - [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind) (*Self-Ownership of Body and Mind*) — family relationship is not authority over another sentient’s clinician
 - [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-bodily-maintenance-and-healthcare-access) (*Bodily-Maintenance and Healthcare Access*) where the clinic switch is the price of enrollment
 - [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*) only if the job lock is used to defeat lawful work Mika can actually do; do not drag the employer into a family-merits case it is not in

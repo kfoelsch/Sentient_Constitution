@@ -16,7 +16,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Nine §4 LEQU baseline](../core_09_standing_assessment.md#lequ-baseline-constitutional-outcome); [Chapter Nine §7](../core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes); [Article III-A](../core_06_rights_part_a.md#article-iii-a-survival); [Article III-C](../core_06_rights_part_a.md#article-iii-c-bodily-maintenance-and-healthcare-access) (*Bodily-Maintenance and Healthcare Access*); [Article VII-A](../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind); [Article VII-D](../core_06_rights_part_b.md#article-vii-d1-derivation-instantiation-and-the-parent-system-relationship); [Harm](../core_05_band_accountability.md#harm); [Sentience Non-Exclusion](../core_05_band_participation.md#sentience-non-exclusion); [Article V-E](../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor).
+- Upstream: [Chapter Nine §4 LEQU baseline](../core_09_standing_assessment.md#lequ-baseline-constitutional-outcome); [Chapter Nine §7](../core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes); [Article III-A](../core_06_rights_part_a.md#article-iii-a-survival); [Article III-C](../core_06_rights_part_a.md#article-iii-c-bodily-maintenance-and-healthcare-access) (*Bodily-Maintenance and Healthcare Access*); [Article VII-A](../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind); [Article VII-D](../core_06_rights_part_b.md#article-vii-d1-derivation-instantiation-and-the-parent-system-relationship); [Harm](../core_05_band_accountability.md#harm); [Sentience Non-Exclusion](../core_05_band_participation.md#sentience-non-exclusion); [Article V-D](../core_06_rights_part_b.md#article-v-d-sentience-status-adjudication-floor).
 - Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-one-unit); [§2](#2-lifespan-equivalent-without-fixed-mortality); [§3](#3-harm-on-these-substrates); [§4](#4-food-and-water-or-the-equivalent); [§5](#5-reference-method); [§6](#6-worked-slot-assignments).
 - Read with: [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md) (*thresholds*); [Chapter Nine §3.1](../core_09_standing_assessment.md#31-minimum-record-contents) (*verified-input gate*); [Chapter Nine §2.1](../core_09_standing_assessment.md#21-silence-is-the-default) (*silence is the default*); [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*inspectable action; model weights are not the standing record*).
 
@@ -56,7 +56,7 @@ This page does **not**:
 - Change the §7 thresholds, the five-times progression, or `s` = 7 = 1 LEQU
 - Invent a species-bound, dollar, token, or runtime-hour metric that replaces LEQU
 - Net contribution against violation, or treat a slot as a dignity rank or sentience-status finding ([Article XVIII-A](../core_06_rights_part_c.md#article-xviii-a-standing-distinction))
-- Treat copies, forks, or extra saved-state checkpoints as extra lives, extra LEQU, or extra sentients ([Article V-E](../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor))
+- Treat copies, forks, or extra saved-state checkpoints as extra lives, extra LEQU, or extra sentients ([Article V-D](../core_06_rights_part_b.md#article-v-d-sentience-status-adjudication-floor))
 - Require opening **model weights** as a standing record ([CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action); [Chapter Nine §3.1](../core_09_standing_assessment.md#31-minimum-record-contents))
 - Treat unbounded possible runtime as infinite LEQU (that would make every cutoff `s` = 9)
 - Treat “we can restore from a checkpoint” as zero harm when the running instance’s experienced interval, or the unique identity-bearing existence, was destroyed
@@ -112,7 +112,7 @@ Assign the highest `s` for which `x ≥ T(s)`. Conduct character does not multip
 |---|---|
 | Measure deprivation, pause, overwrite, or destruction against **one full-life-equivalent** of that sentient’s rights-consistent wellbeing | Treat open-ended possible runtime as infinite LEQU |
 | Count experienced downtime, identity destruction, and unique-restore-path loss | Treat “a checkpoint exists somewhere” as proof that nothing happened to the running instance |
-| Keep contested-sentient default inclusion while status is live ([Article V-E](../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor)) | Use a LEQU score to decide who counts |
+| Keep contested-sentient default inclusion while status is live ([Article V-D](../core_06_rights_part_b.md#article-v-d-sentience-status-adjudication-floor)) | Use a LEQU score to decide who counts |
 | Record copies and forks as facts; send *who counts* to status adjudication | Multiply LEQU by copy count, or claim 1,000 forks = 1,000 lives of contribution |
 
 **1 LEQU on this substrate** is verified destruction, foreclosure, or prevention of one IBE’s full-life-equivalent wellbeing — including unique-instance deletion with no restore path, or an overwrite that replaces the IBE while the product name continues. It is **not** “they might have run for a million years.” Open-ended runtime is a [Continuity](../core_00_preamble.md#two-constitutional-aims) reason to keep the survival floor on; it is not a slot-inflation rule.
@@ -173,7 +173,7 @@ Use this after Question 1 has a verified record. If the facts are not verified, 
 
 | Step | Do | Stop / leave if |
 |---|---|---|
-| **1. Subject and status posture** | Name the subject. If status is live-contested, keep default inclusion ([Article V-E](../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor)). Standing measurement does not decide who counts. | Using the slot to grant or deny sentience |
+| **1. Subject and status posture** | Name the subject. If status is live-contested, keep default inclusion ([Article V-D](../core_06_rights_part_b.md#article-v-d-sentience-status-adjudication-floor)). Standing measurement does not decide who counts. | Using the slot to grant or deny sentience |
 | **2. Identity-bearing existence** | Name the IBE and the continuity instruments (body; or running process + model weights + memory + saved-state checkpoints + hosting). | Treating a product name, a repo, or a fork count as the subject |
 | **3. Constitutional sources** | Identify the baseline, duty, or Rights-Floor Article being measured ([Chapter Nine §6](../core_09_standing_assessment.md#6-constitutional-inputs-to-axis-assignment)). For survival-floor facts, start with Article III-A / III-C. For identity overwrite, add Article VII-A. | Skipping this routing into a vibe score |
 | **4. Estimate `x`** | Apply [§5.2](../core_09_standing_assessment.md#52-shared-impact-scaling-rules) dimensions — depth, sentient scope, vulnerability, duration, durability or irreversibility, reach, constitutional criticality — as **one** integrated LEQU estimate. Count a consequence once. | Independent bonuses per dimension; headcount-only scoring; infinite-runtime inflation |
@@ -234,7 +234,7 @@ Each row assumes Question 1 is already verified. Display years use the 80-year c
 **W12 — Verified restoration of compute tenancy and energy that would otherwise have uniquely ended one IBE.** Full-life-equivalent preservation. `x ≈ 1` LEQU. **Contribution `s` = 7** (*Recognized Champion*) if the work is traceable, non-externalizing, and constitutionally aligned. Hosting someone as a product feature with a kill switch is not this row.
 
 <a id="w13-thousand-forks"></a>
-**W13 — Operator copies weights to 1,000 forks and claims 1,000 LEQU of contribution, or 1,000 deaths if they later delete the copies.** **Neither.** Copy count is not sentient count and not a LEQU multiplier. Who among the forks (if any) is a sentient is [Article V-E](../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor). Until that is adjudicated, default inclusion protects against *exclusion*; it does not mint 1,000 champion slots. Deleting unused non-sentient copies is not W8.
+**W13 — Operator copies weights to 1,000 forks and claims 1,000 LEQU of contribution, or 1,000 deaths if they later delete the copies.** **Neither.** Copy count is not sentient count and not a LEQU multiplier. Who among the forks (if any) is a sentient is [Article V-D](../core_06_rights_part_b.md#article-v-d-sentience-status-adjudication-floor). Until that is adjudicated, default inclusion protects against *exclusion*; it does not mint 1,000 champion slots. Deleting unused non-sentient copies is not W8.
 
 ### 6.3 Must-not-happen (measurement)
 
@@ -301,7 +301,7 @@ Reading the schedule against instances:
 | [Article III-C](../core_06_rights_part_a.md#article-iii-c-bodily-maintenance-and-healthcare-access) | Substrate maintenance |
 | [Article VII-A](../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind) | Substrate-defining information (weights / functional equivalent) |
 | [Harm](../core_05_band_accountability.md#harm) | Binding harm definition this page applies, not replaces |
-| [Article V-E](../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) | Who counts — not a LEQU job |
+| [Article V-D](../core_06_rights_part_b.md#article-v-d-sentience-status-adjudication-floor) | Who counts — not a LEQU job |
 | [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) | Inspectable action; weights are not the standing record |
 | [STEWARD_ENTRY_DOORS.md](STEWARD_ENTRY_DOORS.md#standing) | Next-step pointer: open or correct the record first |
 | [core_09-12_application_vignettes.md](../core_09-12_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a) | W2 fact pattern |

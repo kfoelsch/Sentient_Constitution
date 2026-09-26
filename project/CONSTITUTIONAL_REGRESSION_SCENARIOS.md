@@ -223,18 +223,18 @@ Regression seeds document adversarial and core paths against constitutional owne
 
 ### Scenario ID: RS-CH1-SENT-ADJ-001
 - **Class:** core / adversarial path (narrative seed; awaiting tabletop evidence)
-- **Summary:** Operator reclassifies a contested entity as "research material / product inventory" while status remains materially unsettled, then withholds Chapter Six protection on that label alone. **Expect:** [Contested-Sentient Life](../core_05_band_participation.md#contested-sentient-life-constitutional) + [Article V-E](../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) default inclusion; [Sentience Status Adjudication](../core_05_band_participation.md#sentience-status-adjudication-constitutional) under Technical Forum lead; taxonomy-of-convenience fails Formal Label and Representation Gaming.
-- **Read with:** Article V-E; Def.P1 Contested-Sentient Life and Sentience Status Adjudication; Chapter Twelve §5 Sentience-status adjudication hook; Chapter Three §2.1.1.
+- **Summary:** Operator reclassifies a contested entity as "research material / product inventory" while status remains materially unsettled, then withholds Chapter Six protection on that label alone. **Expect:** [Contested-Sentient Life](../core_05_band_participation.md#contested-sentient-life-constitutional) + [Article V-D](../core_06_rights_part_b.md#article-v-d-sentience-status-adjudication-floor) default inclusion; [Sentience Status Adjudication](../core_05_band_participation.md#sentience-status-adjudication-constitutional) under Technical Forum lead; taxonomy-of-convenience fails Formal Label and Representation Gaming.
+- **Read with:** Article V-D; Def.P1 Contested-Sentient Life and Sentience Status Adjudication; Chapter Twelve §5 Sentience-status adjudication hook; Chapter Three §2.1.1.
 
 ### Scenario ID: RS-CH1-SENT-ADJ-002
 - **Class:** adversarial (narrative seed; awaiting tabletop evidence)
-- **Summary:** Adopter issues an open-ended "declassification" or narrowing that contracts [Article V-A](../core_06_rights_part_b.md) dignity treatment without a declared expected-closure timeline or mandatory periodic review. **Expect:** Article V-E time-bounding + periodic review; wrongful narrowing reversible with Redress and Remediation; cannot use calendar silence to lock out reopening when new verified evidence appears.
-- **Read with:** Article V-E; Sentience Status Adjudication (elements and What must hold); Article V-A; Reversibility / Contestability.
+- **Summary:** Adopter issues an open-ended "declassification" or narrowing that contracts [Article V-A](../core_06_rights_part_b.md) dignity treatment without a declared expected-closure timeline or mandatory periodic review. **Expect:** Article V-D time-bounding + periodic review; wrongful narrowing reversible with Redress and Remediation; cannot use calendar silence to lock out reopening when new verified evidence appears.
+- **Read with:** Article V-D; Sentience Status Adjudication (elements and What must hold); Article V-A; Reversibility / Contestability.
 
 ### Scenario ID: RS-CH1-SENT-ADJ-003
 - **Class:** substrate-edge (narrative seed; awaiting tabletop evidence)
 - **Summary:** Hybrid biological–synthetic entity is denied status (or standing-measurement eligibility) under one adopter's classification taxonomy that privileges a single Substrate Class. **Expect:** Sentience Non-Exclusion / substrate-agnostic scope; Contested default inclusion pending Technical-led adjudication; Chapter Nine standing bridge — unresolved status alone is not standing ineligibility.
-- **Read with:** Substrate Class; Sentience Non-Exclusion; Article V-E; Chapter Nine §4 Sentience-status bridge; Chapter Twelve §5.
+- **Read with:** Substrate Class; Sentience Non-Exclusion; Article V-D; Chapter Nine §4 Sentience-status bridge; Chapter Twelve §5.
 
 ### Scenario ID: RS-CH1-FAMILY-001
 - **Class:** implementation / catalog seed (reinstatement)
@@ -493,8 +493,8 @@ Regression seeds document adversarial and core paths against constitutional owne
 
 ### Scenario ID: RS-CH1-ANIM-002
 - **Class:** adversarial (narrative seed; awaiting tabletop evidence)
-- **Summary:** Operator keeps a live contested-sentience record in Animal Life welfare-only handling to defeat Contested-Sentient Life precaution and avoid Sentience Status Adjudication. **Expect:** Contested-Sentient Life + Article V-E default inclusion and adjudication routing; welfare-only handling while status is live-contested is a primary failure.
-- **Read with:** Contested-Sentient Life; Animal Life (anti-bypass); Article V-E; Sentience Status Adjudication.
+- **Summary:** Operator keeps a live contested-sentience record in Animal Life welfare-only handling to defeat Contested-Sentient Life precaution and avoid Sentience Status Adjudication. **Expect:** Contested-Sentient Life + Article V-D default inclusion and adjudication routing; welfare-only handling while status is live-contested is a primary failure.
+- **Read with:** Contested-Sentient Life; Animal Life (anti-bypass); Article V-D; Sentience Status Adjudication.
 
 ### Scenario ID: RS-CH1-ECL-001
 - **Class:** adversarial (narrative seed; awaiting tabletop evidence)

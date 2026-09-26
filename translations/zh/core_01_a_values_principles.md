@@ -426,7 +426,7 @@
 - 一并阅读：[宪法四元](../../core_00_preamble.md#constitutional-tetrad) — **参与**腿（可理解的参与）；**监督**腿（审计与核验的可读性）；[实质利害](../../core_00_preamble.md#material-stake)缩放。
 - 一并阅读：[两项宪法宗旨](../../core_00_preamble.md#two-constitutional-aims) — **繁盛**宗旨（通过可理解的**真理**参与实现有意义的能动性）；**延续**宗旨（制度在时间中的持久可读性）。
 - 上游：原则：[§3.2 真理](#32-truth-epistemic-integrity-constraint)、[3.3 科学知情的探究与决策支持](#33-science-informed-inquiry-and-decision-support)、[§6.3 可避免负担最小化](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)，以及 [§11.1.3 尽责管理与运营者适用](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)；[两项宪法宗旨](../../core_00_preamble.md#two-constitutional-aims)。
-- 下游：权利面：[Article V-G：可及性](../../core_06_rights_part_b.md#article-v-g-accessibility)、[Article VI：以感知者为中心的教育权](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)、[Article XV：审计、透明与独立核验](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)、[Article XX：可理解性与复杂性尽责管理](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)。
+- 下游：权利面：[Article V-G：可及性](../../core_06_rights_part_b.md#article-v-f-accessibility)、[Article VI：以感知者为中心的教育权](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)、[Article XV：审计、透明与独立核验](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)、[Article XX：可理解性与复杂性尽责管理](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)。
 - 交叉引用：第二至四章的定义机制，以及 [core_02_definition_structure.md](core_02_definition_structure.md) 中的直白语言护栏，在定义层仍具统管力。
 - 分节（阅读顺序）：[§3.4.1](#341-scope) · [§3.4.2](#342-the-duty) · [§3.4.3](#343-definitional-rigor-preserved) · [§3.4.4](#344-jargon-as-defeat-discipline) · [§3.4.5](#345-chapter-ten-floor-boundary)。
 
@@ -461,7 +461,7 @@
 - 到达感知者读者的审计与核验工件；
 - 条款与同意界面，以及类似文本。
 
-此项义务不论约束性信息如何到达感知者都适用 — 书面文本、界面、口头沟通或任何其他通道。当通道提供任何受影响感知者都能接触的直白语言等效物，并与 [Article V-G](../../core_06_rights_part_b.md#article-v-g-accessibility)（《可及性》）及[感知者不排斥](../../core_05_band_participation.md#sentience-non-exclusion)一致时，该通道即满足此项义务。
+此项义务不论约束性信息如何到达感知者都适用 — 书面文本、界面、口头沟通或任何其他通道。当通道提供任何受影响感知者都能接触的直白语言等效物，并与 [Article V-G](../../core_06_rights_part_b.md#article-v-f-accessibility)（《可及性》）及[感知者不排斥](../../core_05_band_participation.md#sentience-non-exclusion)一致时，该通道即满足此项义务。
 
 <a id="342-the-duty"></a>
 ##### 3.4.2 该项义务
@@ -493,7 +493,7 @@
 <a id="345-chapter-ten-floor-boundary"></a>
 ##### 3.4.5 权利底线边界
 
-可及性、教育与可理解性的权利底线，分别住在 [Article V-G](../../core_06_rights_part_b.md#article-v-g-accessibility)（《可及性》）、[Article III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access)（《平等教育通路》）与 [Article XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)（《可理解性与复杂性尽责管理》）。本节陈述支撑那些底线的原则层义务。
+可及性、教育与可理解性的权利底线，分别住在 [Article V-G](../../core_06_rights_part_b.md#article-v-f-accessibility)（《可及性》）、[Article III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access)（《平等教育通路》）与 [Article XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)（《可理解性与复杂性尽责管理》）。本节陈述支撑那些底线的原则层义务。
 
 <a id="4-system-stability-enabler-trust-coordination-integrity"></a>
 ### 4. 系统稳定使能者：信任（协调完整性）
@@ -739,7 +739,7 @@
 该簇自身的阅读规则住在那里。**§5.3** 在第一章适用反分割原则；它并不重述那些第五章机制。
 
 **哪些权利条款仍具统管力。** **§5.3** 是第一章原则。它不取代第六章权利底线。在 **§5.3** 之内，那些条款仍决定权利是什么以及如何可以被限制：
-- **[Article V-H](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press)**（《表达、集会与出版》） — 为表达、政治、文化、共同体及类似目的，在物理、数字或共享计算空间中聚集、结社并共同行动
+- **[Article V-H](../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press)**（《表达、集会与出版》） — 为表达、政治、文化、共同体及类似目的，在物理、数字或共享计算空间中聚集、结社并共同行动
 - **[Article III-D](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)**（《劳动与经济底线》） — 生产与经济活动中的集体组织（工会、合作社、行会、工人委员会，以及用于塑造工作条件的类似形式），以及[商业创建](../../core_05_band_participation.md#business-creation-constitutional)
 - **[Article IX-B](../../core_06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights)**（《受影响方角色与参与权》）与 **[Article XI](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)**（《受影响方的系统参与、代表与正当程序》） — [系统创建](../../core_05_band_participation.md#system-creation-constitutional)（组建并运行非商业机构）
 

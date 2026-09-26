@@ -75,7 +75,7 @@ Competency bar, clearance, and standing interface
 *In plain terms: access to trust-sensitive roles, delegated authority, oversight eligibility, enhanced recognition, or more consequential stewardship must hold any applicable [Chapter Ten…*
 
 - **What it is**
-  - **In scope:** Access to trust-sensitive roles, delegated authority, oversight eligibility, enhanced recognition, or more consequential stewardship must hold any applicable [Chapter Ten §6.2 Competency bars and clearances](../core_10_standing_integration.md#62-competency-bars-and-clearances) competency clearance against the published competency bar, subject first to any controlling [§4.2 Prevention — general standing locks](../core_10_standing_integration.md#42-prevention--general-standing-locks) or [§5.5 Special locks](../core_10_standing_integration.md#55-special-locks) standing lock.
+  - **In scope:** Access to trust-sensitive roles, delegated authority, oversight eligibility, enhanced recognition, or more consequential stewardship must hold any applicable [Chapter Ten §6.2 Competency bars and clearances](../core_10_standing_integration.md#62-competency-bars-and-clearances) competency clearance against the published competency bar, subject first to any controlling [Chapter Ten §4.2 Prevention — general standing locks](../core_10_standing_integration.md#42-prevention--general-standing-locks) or [§5.5 Special locks](../core_10_standing_integration.md#55-special-locks) standing lock.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in competency bar, clearance, and standing.
 <a id="competency-bar-clearance-and-standing-interface-a"></a>
 - **How to measure and assess**

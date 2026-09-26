@@ -27,7 +27,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 - the constitutional contract layer;
 - foundational authorization terms; and
 - incentive alignment across reward paths, proxy integrity, and contingent settlement.
-**Materiality** / [Materiality Determination](core_05_band_oversight.md#materiality-determination) is Integrative (cross-cutting threshold gate). Leaf homes currently remain in the Oversight band file pending any later relocation. Canonical **governance-layer discipline** ([Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer) vs **Stakeholder System Participation**): [Preamble §3.3](core_00_preamble.md#33-governance-layers).
+**Materiality** / [Materiality Determination](core_05_band_oversight.md#materiality-determination) is Integrative (cross-cutting threshold gate). Leaf homes currently remain in the Oversight band file pending any later relocation. Canonical **governance-layer discipline** ([Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer) vs **Stakeholder System Participation**): [Preamble §3.3 Governance Layers](core_00_preamble.md#33-governance-layers).
 | Cluster | Section |
 |---|---|
 | **Def.I1** | Corpus and Authority Stack |
@@ -74,7 +74,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
     - outcomes; and
     - the measures that track them under full functional system conditions.
 
-    Apply all O, M, A, and C parts jointly. Names, paperwork structure, declared intent, or formal categories do not decide. Apply [Chapter Three §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) and [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) when deciding whether behavior or evasion counts as non-compliance.
+    Apply all O, M, A, and C parts jointly. Names, paperwork structure, declared intent, or formal categories do not decide. Apply [Chapter Three §1 Definition Integrity and Anti-Evasion Constraints](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) and [§2 Non-Compliance from Observable System Behavior](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) when deciding whether behavior or evasion counts as non-compliance.
 <a id="non-compliance-c"></a>
 - **What must hold**
   - **Primary failure:** treating a system, actor, or definition as compliant when:
@@ -112,8 +112,8 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 
     It includes:
     - [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice);
-    - [documented legitimacy mechanisms](core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority) under [Chapter Thirteen §1.1](core_13_governance.md#11-mechanism-families-auditability-and-pluralism);
-    - [adoption](core_16_amendment_ratification.md#10-ratification-and-adoption) and [reauthorization](core_13_governance.md#11-mechanism-families-auditability-and-pluralism) rules ([Chapter Thirteen §1.3](core_13_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails); [Chapter Seventeen §4](core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)); and
+    - [documented legitimacy mechanisms](core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority) under [Chapter Thirteen §1.1 Mechanism families, auditability, and pluralism](core_13_governance.md#11-mechanism-families-auditability-and-pluralism);
+    - [adoption](core_16_amendment_ratification.md#10-ratification-and-adoption) and [reauthorization](core_13_governance.md#11-mechanism-families-auditability-and-pluralism) rules ([Chapter Thirteen §1.3 Recall-class pathways and mid-cycle transfer guardrails](core_13_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails); [Chapter Seventeen §4](core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)); and
     - the [political-equality floor](core_13_governance.md#41-entitlement-and-eligibility) for constituting or durably restructuring governing authority — entitled sentients have equal voice at that layer ([Article IX-C](core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)).
   - **Out of scope:**
     - ordinary stakeholder consultation;
@@ -137,7 +137,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
   - **Primary failure:**
     - treating stakeholder consultation, operational participation, system use, branding, market presence, or impact-weighted stakeholder process as a substitute for documented constitutional authorization;
     - using impact-weighted stakeholder voting to constitute or durably restructure governing authority where [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice) requires the political-equality floor; or
-    - treating constitutional authorization as eliminating stakeholder participation, representation, [Contestability](core_05_band_accountability.md#contestability), or [Due Process](core_05_band_accountability.md#due-process-constitutional) duties within already-authorized systems or bounded decision domains ([Preamble §3.3](core_00_preamble.md#33-governance-layers)).
+    - treating constitutional authorization as eliminating stakeholder participation, representation, [Contestability](core_05_band_accountability.md#contestability), or [Due Process](core_05_band_accountability.md#due-process-constitutional) duties within already-authorized systems or bounded decision domains ([Preamble §3.3 Governance Layers](core_00_preamble.md#33-governance-layers)).
 
 ---
 
@@ -203,7 +203,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Productive Capacity](core_05_band_continuity.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency), and [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) — constitutional warrant for legitimate reward tracking under [Chapter One §12.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1213-stewardship-and-operator-application); where a claimant justifies exclusivity by capacity or efficiency gains, those claims must remain outcome-traceable under [§12.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1215-constitutional-outcome-claims-discipline).
+- Read with: [Productive Capacity](core_05_band_continuity.md#productive-capacity-constitutional), [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency), and [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) — constitutional warrant for legitimate reward tracking under [Chapter One §12.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1213-stewardship-and-operator-application); where a claimant justifies exclusivity by capacity or efficiency gains, those claims must remain outcome-traceable under [Chapter One §12.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1215-constitutional-outcome-claims-discipline).
 - For innovations with direct constitutional impact, public benefit may be assessed using [Lifespan Equivalent Unit (LEQU)](core_05_band_participation.md#lifespan-equivalent-unit-lequ) as one measure of contribution magnitude under Chapter Nine.
 
 </details>
@@ -313,7 +313,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) (tetrad capture discipline under [§11](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline); [material stake](core_00_preamble.md#material-stake) scaling); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) and [§11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline).
+- Downstream: Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) (tetrad capture discipline under [Chapter One §11](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline); [material stake](core_00_preamble.md#material-stake) scaling); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) and [Chapter One §11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline).
 - Principle-layer rule: [Chapter One §12.1 Alignment Requirement](core_01_c_stewardship_capacity_principles.md#121-alignment-requirement) and [Chapter One §12.2 Convenient Proxies and Proxy Divergence](core_01_c_stewardship_capacity_principles.md#122-convenient-proxies-and-proxy-divergence); stewardship and operator application: [Chapter One §12.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1213-stewardship-and-operator-application) and [§12.1.4 Role-Depth and Material-Responsibility Pathways](core_01_c_stewardship_capacity_principles.md#1214-role-depth-and-material-responsibility-pathways).
 - Misalignment detection: [Chapter One §12.3 Misalignment Detection](core_01_c_stewardship_capacity_principles.md#123-misalignment-detection).
 - Active correction and capture escalation: [Chapter One §12.4 Misalignment Correction and Capture Response](core_01_c_stewardship_capacity_principles.md#124-misalignment-correction-and-capture-response).
@@ -471,7 +471,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
     - limit how much concentration, leverage, and exposure any actor can take on, scaled to how vulnerable sentients and the wider system are;
     - check for misuse under coordination and high-scale conditions; and
     - treat prices and odds as market signals only — not, by themselves, as proof of truth or compliance; use the same evidence standards as other high-impact decisions.
-  - **Secondary measure:** [Risk](core_05_band_continuity.md#risk), [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways), and [Insider Advantage](core_05_band_accountability.md#insider-advantage) — integrity overlays that can defeat contingent-settlement alignment even when the §11.5 design controls look satisfied.
+  - **Secondary measure:** [Risk](core_05_band_continuity.md#risk), [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways), and [Insider Advantage](core_05_band_accountability.md#insider-advantage) — integrity overlays that can defeat contingent-settlement alignment even when the [Chapter One §12.5 Contingent Claims, Games of Chance, and Event-Contract Markets](core_01_c_stewardship_capacity_principles.md#125-contingent-claims-games-of-chance-and-event-contract-markets) design controls look satisfied.
 
     **Secondary assessment:** When checking the primary measure, ask whether these overlays still show misalignment:
     - outcome-manipulation [Risk](core_05_band_continuity.md#risk);
@@ -533,7 +533,7 @@ When any of those questions is in play, read the cluster members together rather
 - [Corpus](core_05_band_integrative.md#corpus); and
 - [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack).
 
-[Constitutional Constraint](core_05_band_integrative.md#constitutional-constraint) lives in this section as a supporting definition read with the cluster; it is not an additional joint-invocation member unless independently required. The positive owner register of which chapter owns which substantive domain lives in the [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights) (sections 4–9). Owner non-relocation and supremacy effect are stated under [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack). Practical enforceability of binding claims routes under [Auditability](core_05_band_oversight.md#auditability) and [Contestability](core_05_band_accountability.md#contestability). Governance-layer anti-substitution (Constitutional Contract vs Stakeholder System Participation) lives under [Preamble §3.3](core_00_preamble.md#33-governance-layers) and [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer).
+[Constitutional Constraint](core_05_band_integrative.md#constitutional-constraint) lives in this section as a supporting definition read with the cluster; it is not an additional joint-invocation member unless independently required. The positive owner register of which chapter owns which substantive domain lives in the [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights) (sections 4–9). Owner non-relocation and supremacy effect are stated under [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack). Practical enforceability of binding claims routes under [Auditability](core_05_band_oversight.md#auditability) and [Contestability](core_05_band_accountability.md#contestability). Governance-layer anti-substitution (Constitutional Contract vs Stakeholder System Participation) lives under [Preamble §3.3 Governance Layers](core_00_preamble.md#33-governance-layers) and [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer).
 
 **Anti-bypass.** A matter within the admission scope must not be segmented into separate:
 
@@ -651,9 +651,9 @@ See **Joint invocation and satisfaction**.
     <a id="supremacy-and-enforceability"></a>
     <a id="supremacy-and-enforceability-a"></a>
     <a id="supremacy-and-enforceability-c"></a>
-    - **Supremacy:** Binding corpus obligations prevail within their valid source, adoption, and governance-layer scope. That supremacy effect is the outcome of applying this entry together with the operative [Corpus](core_05_band_integrative.md#corpus) and the applicable adoption or incorporation instrument — including [Chapter Fifteen](core_15_expansion_supremacy.md#3-supremacy-relative-to-other-binding-norms) supremacy relative to other norms and [Chapter Fifteen §5](core_15_expansion_supremacy.md#5-relation-to-applicable-external-law) non-displacement of applicable external law. Implementation, support text, private ordering, emergency framing, or operational practice must not narrow those binding obligations within their valid scope.
+    - **Supremacy:** Binding corpus obligations prevail within their valid source, adoption, and governance-layer scope. That supremacy effect is the outcome of applying this entry together with the operative [Corpus](core_05_band_integrative.md#corpus) and the applicable adoption or incorporation instrument — including [Chapter Fifteen](core_15_expansion_supremacy.md#3-supremacy-relative-to-other-binding-norms) supremacy relative to other norms and [Chapter Fifteen §5 Relation to Applicable External Law](core_15_expansion_supremacy.md#5-relation-to-applicable-external-law) non-displacement of applicable external law. Implementation, support text, private ordering, emergency framing, or operational practice must not narrow those binding obligations within their valid scope.
 
-    Practical enforceability of binding claims — observable, contestable compliance rather than paper promises — is assessed under [Auditability](core_05_band_oversight.md#auditability) and [Contestability](core_05_band_accountability.md#contestability). Governance-layer anti-substitution (Constitutional Contract vs Stakeholder System Participation) lives under [Preamble §3.3](core_00_preamble.md#33-governance-layers) and [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer).
+    Practical enforceability of binding claims — observable, contestable compliance rather than paper promises — is assessed under [Auditability](core_05_band_oversight.md#auditability) and [Contestability](core_05_band_accountability.md#contestability). Governance-layer anti-substitution (Constitutional Contract vs Stakeholder System Participation) lives under [Preamble §3.3 Governance Layers](core_00_preamble.md#33-governance-layers) and [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer).
 
     For adopters, [Internal Hierarchy for Adopters](core_15_expansion_supremacy.md#31-internal-hierarchy-for-adopters) in **Chapter Fifteen** applies this same paired rule at the line between the binding Constitution and adopted implementation text:
     - this Constitution and its integrated definitions control how the text is read and what counts as compliance; and
@@ -672,7 +672,7 @@ See **Joint invocation and satisfaction**.
     - Where the dispute is term meaning, the Chapter Five canonical definition governs at every layer.
     - For implementation topics routed across CS, CI, CF, and CJS, apply **CJS-0.1** (Topic router) after owner identification.
     - Confirm that binding obligations prevail within valid adoption and governance-layer scope, and that implementation, support, private, or emergency framing does not narrow them.
-    - For practical enforceability of those claims, apply [Auditability](core_05_band_oversight.md#auditability) and [Contestability](core_05_band_accountability.md#contestability); for Contract vs Stakeholder routing, apply [Preamble §3.3](core_00_preamble.md#33-governance-layers).
+    - For practical enforceability of those claims, apply [Auditability](core_05_band_oversight.md#auditability) and [Contestability](core_05_band_accountability.md#contestability); for Contract vs Stakeholder routing, apply [Preamble §3.3 Governance Layers](core_00_preamble.md#33-governance-layers).
     - Reject interpretations that:
       - invert source precedence;
       - obscure source status;

@@ -184,7 +184,7 @@ Esta banda sostiene definiciones bajo la pata **Supervisión** de la Tétrada �
     - la protección de fuentes;
     - la investigación; y
     - la publicación.
-    Los sencientes que hacen ese trabajo ejercen el Piso de Derechos de [Expresión](core_05_band_participation.md#expression-constitutional) y [Asamblea](core_05_band_participation.md#assembly-constitutional), con protección de escrutinio elevado bajo el [Artículo V-H](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expresión, asamblea y prensa*) contra acciones del Estado y de operadores destinadas a menoscabar esa actividad.
+    Los sencientes que hacen ese trabajo ejercen el Piso de Derechos de [Expresión](core_05_band_participation.md#expression-constitutional) y [Asamblea](core_05_band_participation.md#assembly-constitutional), con protección de escrutinio elevado bajo el [Artículo V-H](../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press) (*Expresión, asamblea y prensa*) contra acciones del Estado y de operadores destinadas a menoscabar esa actividad.
   - **Fuera de alcance:** credenciales de prensa, títulos institucionales o habla comercial ordinaria que no es recogida de noticias, investigación o publicación que funciona como periodismo.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **Cómo medir y evaluar**

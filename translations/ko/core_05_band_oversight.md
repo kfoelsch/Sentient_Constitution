@@ -184,7 +184,7 @@
     - 출처 보호;
     - 조사; 그리고
     - 공개.
-    그 일을 하는 감지자는 [표현](core_05_band_participation.md#expression-constitutional)과 [집회](core_05_band_participation.md#assembly-constitutional) 권리 바닥을 행사하며, 그 활동을 해치려는 국가와 운영자 행위에 대해 [제 V-H조](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*표현, 집회, 언론*) 아래 고도 심사 보호를 받는다.
+    그 일을 하는 감지자는 [표현](core_05_band_participation.md#expression-constitutional)과 [집회](core_05_band_participation.md#assembly-constitutional) 권리 바닥을 행사하며, 그 활동을 해치려는 국가와 운영자 행위에 대해 [제 V-H조](../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press) (*표현, 집회, 언론*) 아래 고도 심사 보호를 받는다.
   - **범위 밖:** 저널리즘으로 기능하는 뉴스 수집, 조사, 또는 공개가 아닌 언론 자격증, 제도 직함, 또는 평범한 상업 발화.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **어떻게 측정하고 평가하는가**

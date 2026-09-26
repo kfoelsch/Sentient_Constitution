@@ -185,7 +185,7 @@
     - حفاظت منبع;
     - تحقیق؛ و
     - انتشار.
-    حس‌مندانی که آن کار را می‌کنند اعمال می‌کنند [بیان](core_05_band_participation.md#expression-constitutional) and [انجمن](core_05_band_participation.md#assembly-constitutional) کف حقوق, با حفاظت موشکافی تشدیدشده زیر [اصل V-H](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, و Press*) در برابر اقدام‌های دولت و بهره‌بردار برای تضعیف آن فعالیت.
+    حس‌مندانی که آن کار را می‌کنند اعمال می‌کنند [بیان](core_05_band_participation.md#expression-constitutional) and [انجمن](core_05_band_participation.md#assembly-constitutional) کف حقوق, با حفاظت موشکافی تشدیدشده زیر [اصل V-H](../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press) (*Expression, Assembly, و Press*) در برابر اقدام‌های دولت و بهره‌بردار برای تضعیف آن فعالیت.
   - **بیرون گستره:** مدارک مطبوعاتی، عناوین نهادی، یا گفتار تجاری معمولی که گردآوری خبر، تحقیق یا انتشارِ کارکردِ روزنامه‌نگاری نیست.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **چگونه اندازه بگیریم و ارزیابی کنیم**

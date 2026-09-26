@@ -426,7 +426,7 @@
 - దీనితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **పాల్గొనడం** కాలు (అర్థమయ్యే నిమగ్నత); **పర్యవేక్షణ** కాలు (ఆడిట్, ధృవీకరణ పఠనీయత); [భౌతిక పందెం](core_00_preamble.md#material-stake) స్కేలింగ్.
 - దీనితో చదవండి: [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) — **సమున్నతి** లక్ష్యం (అర్థమయ్యే **సత్యం** నిమగ్నత ద్వారా అర్థవంతమైన కర్తృత్వం); **కొనసాగింపు** లక్ష్యం (కాలంతో నిలకడ సంస్థాగత పఠనీయత).
 - మూలం: సూత్రాలు: [§3.2 సత్యం](#32-truth-epistemic-integrity-constraint), [3.3 శాస్త్ర-ఆధారిత విచారణ మరియు నిర్ణయ మద్దతు](#33-science-informed-inquiry-and-decision-support), [§6.3 నివారించదగిన భారం తగ్గింపు](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [§11.1.3 బాధ్యతాయుత నిర్వహణ మరియు ఆపరేటర్ వర్తింపు](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application); [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims).
-- గమ్యం: హక్కుల ఉపరితలం: [అనుచ్ఛేదం V-G: ప్రవేశ్యత](../../core_06_rights_part_b.md#article-v-g-accessibility), [అనుచ్ఛేదం VI: సంజ్ఞ-కేంద్రిత విద్య హక్కు](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [అనుచ్ఛేదం XV: ఆడిట్, పారదర్శకత, స్వతంత్ర ధృవీకరణ](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [అనుచ్ఛేదం XX: అర్థమయ్యే తనం మరియు సంక్లిష్టత బాధ్యతాయుత నిర్వహణ](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
+- గమ్యం: హక్కుల ఉపరితలం: [అనుచ్ఛేదం V-G: ప్రవేశ్యత](../../core_06_rights_part_b.md#article-v-f-accessibility), [అనుచ్ఛేదం VI: సంజ్ఞ-కేంద్రిత విద్య హక్కు](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [అనుచ్ఛేదం XV: ఆడిట్, పారదర్శకత, స్వతంత్ర ధృవీకరణ](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [అనుచ్ఛేదం XX: అర్థమయ్యే తనం మరియు సంక్లిష్టత బాధ్యతాయుత నిర్వహణ](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 - క్రాస్-రిఫరెన్స్: అధ్యాయాలు రెండు నుండి నాలుగు నిర్వచన యంత్రాంగం, [core_02_definition_structure.md](core_02_definition_structure.md)లో సాధారణ-భాష రక్షణలు నిర్వచన పొరలో నియంత్రిస్తాయి.
 - ఉపవిభాగాలు (చదివే క్రమం): [§3.4.1](#341-scope) · [§3.4.2](#342-the-duty) · [§3.4.3](#343-definitional-rigor-preserved) · [§3.4.4](#344-jargon-as-defeat-discipline) · [§3.4.5](#345-chapter-ten-floor-boundary).
 
@@ -461,7 +461,7 @@
 - సంజ్ఞ పాఠకులకు చేరే చోట ఆడిట్, ధృవీకరణ కళాఖండాలు;
 - నిబంధనలు, సమ్మతి ఇంటర్‌ఫేస్‌లు, సమాన పాఠం.
 
-ఈ కర్తవ్యం బంధనీయ సమాచారం సంజ్ఞ ప్రాణులకు ఎలా చేరినా వర్తిస్తుంది — లిఖిత పాఠం, ఇంటర్‌ఫేస్‌లు, మాట్లాడే సంవాదం, లేదా ఏ ఇతర ఛానల్. ఛానల్ [అనుచ్ఛేదం V-G](../../core_06_rights_part_b.md#article-v-g-accessibility) (*ప్రవేశ్యత*), [సంజ్ఞత మినహాయింపు-నిషేధం](../../core_05_band_participation.md#sentience-non-exclusion)తో అనుగుణంగా ఏ ప్రభావిత సంజ్ఞ ప్రాప్తి చేయగల సాధారణ-భాష సమానం ఇచ్చినప్పుడు తీరుతుంది.
+ఈ కర్తవ్యం బంధనీయ సమాచారం సంజ్ఞ ప్రాణులకు ఎలా చేరినా వర్తిస్తుంది — లిఖిత పాఠం, ఇంటర్‌ఫేస్‌లు, మాట్లాడే సంవాదం, లేదా ఏ ఇతర ఛానల్. ఛానల్ [అనుచ్ఛేదం V-G](../../core_06_rights_part_b.md#article-v-f-accessibility) (*ప్రవేశ్యత*), [సంజ్ఞత మినహాయింపు-నిషేధం](../../core_05_band_participation.md#sentience-non-exclusion)తో అనుగుణంగా ఏ ప్రభావిత సంజ్ఞ ప్రాప్తి చేయగల సాధారణ-భాష సమానం ఇచ్చినప్పుడు తీరుతుంది.
 
 <a id="342-the-duty"></a>
 ##### 3.4.2 కర్తవ్యం
@@ -493,7 +493,7 @@
 <a id="345-chapter-ten-floor-boundary"></a>
 ##### 3.4.5 హక్కుల నేల సరిహద్దు
 
-ప్రవేశ్యత, విద్య, అర్థమయ్యే తనానికి హక్కుల నేలలు వరుసగా [అనుచ్ఛేదం V-G](../../core_06_rights_part_b.md#article-v-g-accessibility) (*ప్రవేశ్యత*), [అనుచ్ఛేదం III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*సమాన విద్యా ప్రవేశం*), [అనుచ్ఛేదం XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*అర్థమయ్యే తనం మరియు సంక్లిష్టత బాధ్యతాయుత నిర్వహణ*)లో ఉంటాయి. ఈ విభాగం ఆ నేలలను ఆధారం చేసే సూత్ర-పొర కర్తవ్యం చెబుతుంది.
+ప్రవేశ్యత, విద్య, అర్థమయ్యే తనానికి హక్కుల నేలలు వరుసగా [అనుచ్ఛేదం V-G](../../core_06_rights_part_b.md#article-v-f-accessibility) (*ప్రవేశ్యత*), [అనుచ్ఛేదం III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*సమాన విద్యా ప్రవేశం*), [అనుచ్ఛేదం XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*అర్థమయ్యే తనం మరియు సంక్లిష్టత బాధ్యతాయుత నిర్వహణ*)లో ఉంటాయి. ఈ విభాగం ఆ నేలలను ఆధారం చేసే సూత్ర-పొర కర్తవ్యం చెబుతుంది.
 
 <a id="4-system-stability-enabler-trust-coordination-integrity"></a>
 ### 4. వ్యవస్థ స్థిరత్వ సాధనం: విశ్వాసం (సమన్వయ సమగ్రత)
@@ -739,7 +739,7 @@
 క్లస్టర్ స్వంత చదివే నియమాలు అక్కడ ఉంటాయి. **§5.3** అధ్యాయం ఒకటిలో విభజన-నిరోధ సూత్రం వర్తింపజేస్తుంది; ఆ అధ్యాయం ఐదు యంత్రాంగాన్ని మళ్ళీ చెప్పదు.
 
 **ఏ హక్కుల అనుచ్ఛేదాలు ఇంకా నియంత్రిస్తాయి.** **§5.3** అధ్యాయం ఒకటి సూత్రం. ఇది అధ్యాయం ఆరు హక్కుల నేలను భర్తీ చేయదు. **§5.3** లోపల, ఆ అనుచ్ఛేదాలు హక్కు ఏమిటి, ఎలా పరిమితం కావచ్చో ఇంకా నిర్ణయిస్తాయి:
-- **[అనుచ్ఛేదం V-H](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press)** (*వ్యక్తీకరణ, సమావేశం, పత్రిక*) — వ్యక్తీకరణ, రాజకీయం, సంస్కృతి, సముదాయం, సమాన ఉద్దేశాలకు భౌతిక, డిజిటల్, లేదా భాగస్వామ్య-కంప్యూట్ స్థలాల్లో కలిసి సమావేశం, సంఘం, చర్య
+- **[అనుచ్ఛేదం V-H](../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press)** (*వ్యక్తీకరణ, సమావేశం, పత్రిక*) — వ్యక్తీకరణ, రాజకీయం, సంస్కృతి, సముదాయం, సమాన ఉద్దేశాలకు భౌతిక, డిజిటల్, లేదా భాగస్వామ్య-కంప్యూట్ స్థలాల్లో కలిసి సమావేశం, సంఘం, చర్య
 - **[అనుచ్ఛేదం III-D](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)** (*శ్రమ మరియు ఆర్థిక నేల*) — ఉత్పాదక, ఆర్థిక కార్యకలాపంలో సామూహిక సంఘటన (యూనియన్లు, సహకార సంఘాలు, గిల్డ్‌లు, కార్మిక మండళ్ళు, పని నిబంధనలు రూపొందించే సమాన రూపాలు), [వ్యాపార సృష్టి](../../core_05_band_participation.md#business-creation-constitutional)
 - **[అనుచ్ఛేదం IX-B](../../core_06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights)** (*ప్రభావిత పక్ష పాత్ర మరియు పాల్గొనడం హక్కులు*) మరియు **[అనుచ్ఛేదం XI](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)** (*ప్రభావిత పక్షాల వ్యవస్థాగత పాల్గొనడం, ప్రాతినిధ్యం, సముచిత ప్రక్రియ*) — [వ్యవస్థ సృష్టి](../../core_05_band_participation.md#system-creation-constitutional) (వాణిజ్యేతర సంస్థలు ఏర్పాటు చేసి నడపడం)
 

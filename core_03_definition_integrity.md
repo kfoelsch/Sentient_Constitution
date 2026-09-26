@@ -96,7 +96,7 @@ This section does not define evaluation standards, evidence sufficiency, or burd
 
 <br>
 
-*In plain terms: a system is non-compliant when what it actually does or produces would break a definition — judged under full functional conditions, not only on paper. Evasion means weakening a definition when it is actually applied. That is non-compliance under Chapter Two §2.2 — regardless of intent, awareness, or claimed purpose.*
+*In plain terms: a system is non-compliant when what it actually does or produces would break a definition — judged under full functional conditions, not only on paper. Evasion means weakening a definition when it is actually applied. That is non-compliance under Chapter Two §2.2 (*Non-Compliance by Structural or Applied Weakening*) — regardless of intent, awareness, or claimed purpose.*
 
 This section defines when systems are non-compliant based on observable behavior and outcomes, including:
 
@@ -123,7 +123,7 @@ The type subsections below catalog common patterns. They do not replace the eval
 
 #### 2.1 Common Evasion Patterns
 
-*In plain terms: these are common ways a system can look compliant without actually meeting the definition — swapped measures, fake paperwork, carved-out scope, or incentives that push everyone away from compliance. The list is not closed. Types can happen together. Shrinking what the definition means is covered in [§2.2](#22-reductive-evasion).*
+*In plain terms: these are common ways a system can look compliant without actually meeting the definition — swapped measures, fake paperwork, carved-out scope, or incentives that push everyone away from compliance. The list is not closed. Types can happen together. Shrinking what the definition means is covered in [§2.2 Reductive Evasion](#22-reductive-evasion).*
 
 The following forms of evasion are prohibited:
 
@@ -131,7 +131,7 @@ The following forms of evasion are prohibited:
   - swapping in measures, indicators, or descriptions that diverge from what the definition is about, while still claiming a pass
   - optimizing for a score or measure in ways that make the real-world result the definition requires worse
   - presenting records, artifacts, or evidence that materially misstate what the system actually does or whether it complies
-  - satisfying requirements in name, structure, or process without producing the real-world effect the definition requires (see also [§2.1.1](#211-formal-label-and-representation-gaming))
+  - satisfying requirements in name, structure, or process without producing the real-world effect the definition requires (see also [§2.1.1 Formal Label and Representation Gaming](#211-formal-label-and-representation-gaming))
 - **Scope and boundary tricks** — arranging what gets counted, and when, so the hard parts never get tested:
   - narrowing evaluation or application to leave out system elements, effects, or conditions that matter
   - splitting responsibility across components, actors, or time so no one has to meet the definition for the whole system
@@ -215,7 +215,7 @@ Where uncertainty prevents definitive demonstration of compliance for materially
 
 <br>
 
-*In plain terms: when something fails a definition, a finding profile is an optional label that says what kind of constitutional problem it is — for routing and audits. It does not change the pass/fail result. For systems already running under alignment certification, verified non-compliance must feed standing; sentients and institutions are tagged only when linkage is verified. First-time certification is a special case ([§3.2](#32-standing-effects-at-first-certification)).*
+*In plain terms: when something fails a definition, a finding profile is an optional label that says what kind of constitutional problem it is — for routing and audits. It does not change the pass/fail result. For systems already running under alignment certification, verified non-compliance must feed standing; sentients and institutions are tagged only when linkage is verified. First-time certification is a special case ([§3.2 Standing Effects at First Certification](#32-standing-effects-at-first-certification)).*
 
 Material **non-compliance** findings under this chapter or under invoked **Chapter Five** definitions may carry a [Non-Compliance Finding Profile](core_05_band_accountability.md#non-compliance-finding-profile). The profile is orientation and routing metadata only. It:
 
@@ -232,7 +232,7 @@ If a system is already running under a [system alignment certification](core_08_
 
 #### 3.2 Standing Effects at First Certification
 
-If the system is still in its **first** [system alignment certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) and has not yet been recognized — including where recognition is deferred or refused — verified non-compliance primarily decides the **certification outcome** under Chapter Eight. That outcome may be conditional recognition, deferred recognition, non-recognition, or a comparable result. Those certification records may still supply verified standing input under [Chapter Eight §15](core_08_b_system_alignment_certification_record_process.md#15-relationship-to-standing) when the facts support it. This chapter does not require the same standing records that an already-certified running system must receive.
+If the system is still in its **first** [system alignment certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) and has not yet been recognized — including where recognition is deferred or refused — verified non-compliance primarily decides the **certification outcome** under Chapter Eight. That outcome may be conditional recognition, deferred recognition, non-recognition, or a comparable result. Those certification records may still supply verified standing input under [Chapter Eight §15 Relationship to Standing](core_08_b_system_alignment_certification_record_process.md#15-relationship-to-standing) when the facts support it. This chapter does not require the same standing records that an already-certified running system must receive.
 
 #### 3.3 Standing Effects for Sentients and Institutions
 

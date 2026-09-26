@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-26T00:39:15+00:00",
+  "generated_at": "2026-09-26T04:43:32+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -999,11 +999,11 @@
             "anchors": [
               "#article-ix-b-stakeholder-role-and-participation-rights",
               "#article-ix-e-institutional-formation-and-business-creation",
+              "#article-ix-g-expression-assembly-and-press",
               "#article-ix-self-determination-and-agency",
               "#article-v-b-nondiscrimination",
               "#article-v-equal-basic-rights",
-              "#article-v-g-accessibility",
-              "#article-v-h-expression-assembly-and-press",
+              "#article-v-f-accessibility",
               "#article-vi-right-to-sentient-centered-education",
               "#article-vii-self-ownership",
               "#article-viii-likeness-experiential-data-and-publication-rights",
@@ -3543,7 +3543,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 5,
             "anchors": [
-              "#article-v-e-sentience-status-adjudication-floor",
+              "#article-v-d-sentience-status-adjudication-floor",
               "#article-vii-e-voluntary-discontinuation-of-ones-own-existence",
               "#article-x-a-non-imposition-and-consent-in-association",
               "#article-x-b-collective-harm-boundary-and-enforcement-interface",
@@ -3626,7 +3626,7 @@
           },
           {
             "file": "core_10_standing_integration.md",
-            "count": 19,
+            "count": 20,
             "anchors": [
               "#1-chapter-nine-records-do-not-change",
               "#3-descriptor-integration-and-attachment-normalization",
@@ -4235,7 +4235,7 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 19,
+            "count": 20,
             "anchors": [
               "#11-governance-under-stewardship-discipline",
               "#12-incentive-alignment-and-system-capture",
@@ -4645,7 +4645,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 3,
             "anchors": [
-              "#article-v-h-expression-assembly-and-press"
+              "#article-ix-g-expression-assembly-and-press"
             ]
           },
           {
@@ -4747,7 +4747,7 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 13,
+            "count": 14,
             "anchors": [
               "#6-process-conflict-resolution",
               "#61-core-tradeoff-principles",
@@ -4974,14 +4974,14 @@
               "#article-ix-a-agency-and-freedom-from-manipulation",
               "#article-ix-b-stakeholder-role-and-participation-rights",
               "#article-ix-e-institutional-formation-and-business-creation",
+              "#article-ix-g-expression-assembly-and-press",
               "#article-ix-self-determination-and-agency",
               "#article-v-a-dignity-and-equal-moral-standing",
               "#article-v-b-nondiscrimination",
-              "#article-v-e-sentience-status-adjudication-floor",
-              "#article-v-f-developing-sentients-best-interest-and-graduated-capability",
-              "#article-v-f1-derived-developing-sentients",
-              "#article-v-g-accessibility",
-              "#article-v-h-expression-assembly-and-press",
+              "#article-v-d-sentience-status-adjudication-floor",
+              "#article-v-e-developing-sentients-best-interest-and-graduated-capability",
+              "#article-v-e1-derived-developing-sentients",
+              "#article-v-f-accessibility",
               "#article-vi-right-to-sentient-centered-education",
               "#article-vii-a-self-ownership-of-body-and-mind",
               "#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation",
@@ -5050,7 +5050,7 @@
           },
           {
             "file": "core_13_governance.md",
-            "count": 6,
+            "count": 10,
             "anchors": [
               "#41-entitlement-and-eligibility",
               "#43-decision-resolution-requirements-for-binding-stakeholder-choice"
@@ -5544,7 +5544,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 2,
             "anchors": [
-              "#article-v-g-accessibility",
+              "#article-v-f-accessibility",
               "#article-vii-self-ownership"
             ]
           },
@@ -5754,7 +5754,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 1,
             "anchors": [
-              "#article-v-e-sentience-status-adjudication-floor"
+              "#article-v-d-sentience-status-adjudication-floor"
             ]
           },
           {
@@ -6029,7 +6029,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 1,
             "anchors": [
-              "#article-v-e-sentience-status-adjudication-floor"
+              "#article-v-d-sentience-status-adjudication-floor"
             ]
           },
           {
@@ -6658,7 +6658,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 1,
             "anchors": [
-              "#article-v-h-expression-assembly-and-press"
+              "#article-ix-g-expression-assembly-and-press"
             ]
           },
           {
@@ -6860,7 +6860,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 3,
             "anchors": [
-              "#article-v-e-sentience-status-adjudication-floor",
+              "#article-v-d-sentience-status-adjudication-floor",
               "#article-vii-b-internal-state-boundary-and-type-n-protection",
               "#article-xi-stakeholder-system-participation-representation-and-due-process"
             ]
@@ -7090,7 +7090,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 1,
             "anchors": [
-              "#article-v-e-sentience-status-adjudication-floor"
+              "#article-v-d-sentience-status-adjudication-floor"
             ]
           },
           {
@@ -7589,12 +7589,12 @@
           },
           {
             "file": "corpus_systems.md",
-            "count": 3,
+            "count": 2,
             "anchors": []
           },
           {
             "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
               "#12-continuity-critical-collection-and-exportability",
               "#13-collection-notice-and-deletion"
@@ -7987,7 +7987,7 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 13,
+            "count": 11,
             "anchors": [
               "#3-whole-system-certification-evaluation",
               "#7-nondiscrimination-evaluation",
@@ -9438,7 +9438,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 1,
             "anchors": [
-              "#article-v-e-sentience-status-adjudication-floor"
+              "#article-v-d-sentience-status-adjudication-floor"
             ]
           },
           {
@@ -11040,8 +11040,9 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 4,
+            "count": 8,
             "anchors": [
+              "#615-rights-collision-decision-test",
               "#624-proxy-divergence-invalidation"
             ]
           },
@@ -11477,6 +11478,13 @@
             ]
           },
           {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 1,
+            "anchors": [
+              "#615-rights-collision-decision-test"
+            ]
+          },
+          {
             "file": "core_05__definitions_home.md",
             "count": 1,
             "anchors": [
@@ -11616,6 +11624,13 @@
             "anchors": [
               "#constitutional-tetrad",
               "#material-stake"
+            ]
+          },
+          {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 1,
+            "anchors": [
+              "#615-rights-collision-decision-test"
             ]
           },
           {
@@ -13365,7 +13380,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 1,
             "anchors": [
-              "#article-v-g-accessibility"
+              "#article-v-f-accessibility"
             ]
           },
           {
@@ -18308,7 +18323,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 2,
             "anchors": [
-              "#article-v-e-sentience-status-adjudication-floor",
+              "#article-v-d-sentience-status-adjudication-floor",
               "#article-vii-b-internal-state-boundary-and-type-n-protection"
             ]
           },
@@ -20462,7 +20477,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 2,
             "anchors": [
-              "#article-v-e-sentience-status-adjudication-floor"
+              "#article-v-d-sentience-status-adjudication-floor"
             ]
           },
           {

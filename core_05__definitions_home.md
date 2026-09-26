@@ -52,7 +52,7 @@ Independent and Semi-independent definitions do not require joint satisfaction w
 
 Failing to invoke or correctly apply any materially required Independent Definition invalidates the associated compliance determination. All Independent Definitions invoked in system evaluation must appear explicitly in Definition Traceability mappings (Chapter Four, section 2 — Definition Traceability Requirement). Those mappings must include their Ontological (O), Measurement (M), Assessment (A), and Compliance (C) components. Traceability must show how each invoked Independent Definition contributes to observable system behavior and to compliance outcomes under full functional system conditions.
 
-When an Independent Definition is invoked, it must be satisfied in full across its O, M, A, and C components. That satisfaction must be consistent with the Requirements for Definition Structure (Chapter Two, §1 — Purpose and Role). Partial satisfaction or selective application is non-compliant.
+When an Independent Definition is invoked, it must be satisfied in full across its O, M, A, and C components. That satisfaction must be consistent with the Requirements for Definition Structure (Chapter Two §1 (*Purpose and Role*)). Partial satisfaction or selective application is non-compliant.
 
 Independent Definitions must still be applied consistently with all applicable definitions under shared functional system scope, evaluation conditions, and temporal context. Chapter Three, sections 1 and 2 — Definition Integrity and Anti-Evasion Constraints; Non-Compliance from Observable System Behavior — require that consistency.
 
@@ -403,7 +403,7 @@ Chapter Five definitions are sorted by the [Two Constitutional Aims](core_00_pre
 
 ### Measurement crosswalk (reader guidance)
 
-*In plain terms: Preamble §2 asks seven category questions; this table maps each question to the Chapter Five homes that answer it.*
+*In plain terms: Preamble §2 (*Measurements Overview*) asks seven category questions; this table maps each question to the Chapter Five homes that answer it.*
 
 <a id="chapter-five-measurement-crosswalk"></a>
 

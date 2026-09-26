@@ -192,7 +192,7 @@ No permanent secrecy and anti-normalization discipline
 - Read with: **CJS-3.21 — Adversarial Robustness and Abuse Resistance**
 - Read with: **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: **CJS-3.14 — Intervention governance and override authorization**
-- Read with: **Chapter One §6.3.1 — Rights-Collision Decision Test**
+- Read with: **[Chapter One §6.1.5 Rights-Collision Procedure](../core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)**
 - Read with: **`corpus_forum.md` CF-12 through CF-14 — Forum continuity, fallback operation, and emergency adjudication**
 - Read with: Constitutional hooks in **Articles IX, XII, and XIII**
 - Constitutional frame: **Integrative** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).

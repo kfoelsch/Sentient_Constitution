@@ -274,7 +274,7 @@ because the underlying impact is already `s` = 9, not because character somehow 
 
 No final **anti-constitutional misconduct designation** under this chapter may be issued without independent review, contestable notice, and reasoned publication.
 
-After final designation under **section 3** with these safeguards met, apply [§4.1](#4-1-remedy-and-correction-anti-constitutional), then [§4.2](#4-2-prevention-anti-constitutional-locks), then [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) where restorative pathways use public acknowledgment or apology. Chapter Ten remains the owner of general remedy, lock design and enforcement, and the **Anti-Constitutional Trust Lock**; this section states ACM-specific specializations only.
+After final designation under **section 3** with these safeguards met, apply [§4.1 Remedy and correction (anti-constitutional)](#4-1-remedy-and-correction-anti-constitutional), then [§4.2 Prevention — anti-constitutional locks](#4-2-prevention-anti-constitutional-locks), then [§4.3 Voluntary public accountability expression (anti-constitutional)](#4-3-voluntary-public-accountability-expression-anti-constitutional) where restorative pathways use public acknowledgment or apology. Chapter Ten remains the owner of general remedy, lock design and enforcement, and the **Anti-Constitutional Trust Lock**; this section states ACM-specific specializations only.
 
 <a id="4-1-remedy-and-correction-anti-constitutional"></a>
 ### 4.1 Remedy and correction (anti-constitutional)
@@ -302,7 +302,7 @@ After final designation under **section 3** with these safeguards met, apply [§
 
 *In plain terms: a final anti-constitutional misconduct finding must not end with a label, a prison order, a standing lock, or institutional punishment while the affected parties are left unrepaired. The consequence package has to say who was harmed, what repair is owed, who must carry it, how it will be paid or executed, and when it must start — mirroring Chapter Ten's remedy and correction outputs, tightened for designation cases.*
 
-After final designation under **section 3** with **section 4** safeguards met, every disposition must be tested for the same two parallel outputs Chapter Ten requires under [§4.1](core_10_standing_integration.md#41-remedy-and-correction) (*Remedy and correction*):
+After final designation under **section 3** with **section 4** safeguards met, every disposition must be tested for the same two parallel outputs Chapter Ten requires under [Chapter Ten §4.1](core_10_standing_integration.md#41-remedy-and-correction) (*Remedy and correction*):
 
 - **Remedy:**
   - acknowledgment;
@@ -367,8 +367,8 @@ Fixing the cause does not cancel the duty to repair those harmed. Repairing thos
 
 After final designation under **section 3** with **section 4** safeguards met:
 
-- **Mandatory special lock:** Chapter Ten must attach the **Anti-Constitutional Trust Lock** under [§5.5](core_10_standing_integration.md#55-special-locks). This chapter does not restate Trust Lock pathway lists, corrective conditions, or restoration rules; those remain in Chapter Ten.
-- **Attachment-field discipline:** Any ACM-triggered standing lock, liberty restriction, or imprisonment order must satisfy Chapter Ten lock design and enforcement under [§5](core_10_standing_integration.md#5-lock-design-and-enforcement), and must be recorded using the [Chapter Ten §5.1](core_10_standing_integration.md#51-definition-and-attachment) attachment fields:
+- **Mandatory special lock:** Chapter Ten must attach the **Anti-Constitutional Trust Lock** under [Chapter Ten §5.5 Special locks](core_10_standing_integration.md#55-special-locks). This chapter does not restate Trust Lock pathway lists, corrective conditions, or restoration rules; those remain in Chapter Ten.
+- **Attachment-field discipline:** Any ACM-triggered standing lock, liberty restriction, or imprisonment order must satisfy Chapter Ten lock design and enforcement under [Chapter Ten §5 Lock design and enforcement](core_10_standing_integration.md#5-lock-design-and-enforcement), and must be recorded using the [Chapter Ten §5.1 Definition and attachment](core_10_standing_integration.md#51-definition-and-attachment) attachment fields:
   - blocked or limited named pathway;
   - risk reduced;
   - protected subjects or interests;
@@ -403,9 +403,9 @@ After final designation under **section 3** with **section 4** safeguards met:
 
 *In plain terms: a public apology in an anti-constitutional misconduct case must meet Chapter Ten's general voluntariness and authenticity rules, and designation-linked consequences apply when a fake or abusive apology is used to dodge repair or locks.*
 
-[Chapter Ten §4.3](core_10_standing_integration.md#43-voluntary-public-accountability-expression) supplies the general voluntary public accountability expression rule. After final designation under **section 3** with **section 4** safeguards met, the following ACM specializations also apply:
+[Chapter Ten §4.3 Voluntary public accountability expression](core_10_standing_integration.md#43-voluntary-public-accountability-expression) supplies the general voluntary public accountability expression rule. After final designation under **section 3** with **section 4** safeguards met, the following ACM specializations also apply:
 
-- **Voluntary public accountability expression:** Accountable parties in restorative pathways for verified anti-constitutional misconduct may voluntarily choose public acknowledgment or apology as a supplementary accountability act where it supports repair, trust restoration, or community healing, subject to Chapter Ten §4.3 voluntariness, authenticity, non-degradation, and non-substitution controls.
+- **Voluntary public accountability expression:** Accountable parties in restorative pathways for verified anti-constitutional misconduct may voluntarily choose public acknowledgment or apology as a supplementary accountability act where it supports repair, trust restoration, or community healing, subject to Chapter Ten §4.3 (*Voluntary public accountability expression*) voluntariness, authenticity, non-degradation, and non-substitution controls.
 - **Inauthentic or abusive expression:** Public acknowledgment or apology that is materially insincere, manipulative, performative without truthful accountability, or abusive toward affected parties or the public does not satisfy restorative requirements.
   - It may carry negative justice consequences for the accountable party — including additional misconduct findings under **section 3**, reduced credit for rehabilitation, and other lawful restrictions under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Chapter Nine**.
   - Treating a fake or abusive apology as sufficient repair, or using it to avoid necessary protection or remediation under **section 4.1** or locks under **section 4.2**, is non-compliant.

@@ -185,7 +185,7 @@ Dải này giữ định nghĩa dưới trụ Tứ diện **Giám sát** — min
     - bảo vệ nguồn;
     - điều tra; và
     - công bố.
-    Hữu tri làm việc đó thực hành [Biểu đạt](core_05_band_participation.md#expression-constitutional) and [Tụ họp](core_05_band_participation.md#assembly-constitutional) Sàn Quyền, với bảo vệ giám sát tăng dưới [Điều V-H](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, và Press*) chống hành động nhà nước và vận hành nhằm làm suy hoạt động đó.
+    Hữu tri làm việc đó thực hành [Biểu đạt](core_05_band_participation.md#expression-constitutional) and [Tụ họp](core_05_band_participation.md#assembly-constitutional) Sàn Quyền, với bảo vệ giám sát tăng dưới [Điều V-H](../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press) (*Expression, Assembly, và Press*) chống hành động nhà nước và vận hành nhằm làm suy hoạt động đó.
   - **Ngoài phạm vi:** thẻ báo chí, chức danh thể chế, hoặc lời nói thương mại thường không phải thu tin, điều tra, hoặc công bố vận hành như báo chí.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **Cách đo và đánh giá**

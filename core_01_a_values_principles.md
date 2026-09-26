@@ -170,7 +170,7 @@ Wellbeing includes not only immediate effects but also indirect, delayed, cumula
 
 *In plain terms: fairness means the system cannot call itself good while ordinary sentients are blocked from taking part, treated by unexplained rules, or left carrying costs that others avoid. A fair system gives sentients real access, uses reasons it can defend, and shares rewards, costs, and risks in a way that matches real contribution, need, and exposure.*
 
-**Fairness** is part of what [§2](#2-foundational-objective-wellbeing) requires whenever sentients must live, work, learn, trade, or make decisions through shared systems. Where shared systems materially affect sentients, fairness asks whether opportunity, treatment, and the division of benefits and burdens respect [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing).
+**Fairness** is part of what [§2 Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing) requires whenever sentients must live, work, learn, trade, or make decisions through shared systems. Where shared systems materially affect sentients, fairness asks whether opportunity, treatment, and the division of benefits and burdens respect [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing).
 
 Fairness helps make [Participation](core_05_apex_participation_leg.md#participation-constitutional) real. Participation is not real when sentients technically have a voice but cannot reach the process, understand the rule, meet the conditions, challenge the outcome, or afford the burden placed on them.
 
@@ -200,7 +200,7 @@ This section has **four working parts**. They guide this section but do not repl
 - The detailed rules are carried through Chapter Five, including [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact).
 - When a decision seriously affects someone, or when they challenge it, the review path must satisfy [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) wherever Chapter Six or the governing instrument requires notice, hearing, explanation, or review.
 
-Claimed wellbeing is not aligned with [§2](#2-foundational-objective-wellbeing) if it depends on arbitrary exclusion, unexplained or unstable rules, hidden extraction, or formal [Participation](core_05_apex_participation_leg.md#participation-constitutional) while the fairness conditions that make participation meaningful have failed.
+Claimed wellbeing is not aligned with [§2 Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing) if it depends on arbitrary exclusion, unexplained or unstable rules, hidden extraction, or formal [Participation](core_05_apex_participation_leg.md#participation-constitutional) while the fairness conditions that make participation meaningful have failed.
 
 <a id="214-unfair-treatment"></a>
 ##### 2.1.4 Unfair Treatment
@@ -244,7 +244,7 @@ These four parts also support [4. Trust](#4-system-stability-enabler-trust-coord
 
 *In plain terms: wellbeing is not only what's forbidden and what's fair — shared systems should also honestly cheer and reward behavior they want repeated, within truth and rights, in ways that support rather than substitute for real participation. Celebrating wins means crediting real contribution, repair, and completion, not hype or manipulated metrics. It also means refusing to reward constitutional betrayal, concealment, retaliation, or accountability avoidance — even when those acts produced institutional advantage.*
 
-**Three dimensions.** Wellbeing depends on what systems forbid and how fairly they distribute costs — and also on what they visibly value, reinforce, and help sentients pursue. This section states those recognition, reinforcement, and aspiration duties. Recognition and acclaim that materially affect voice, status, or access must remain consistent with [Participation](core_05_apex_participation_leg.md#participation-constitutional) under [§2](#2-foundational-objective-wellbeing) and [§2.1 Fairness](#21-fairness). It applies together with [§2.1 Fairness](#21-fairness) and remains bounded by Safety, Truth, and the Chapter Six Rights Floor.
+**Three dimensions.** Wellbeing depends on what systems forbid and how fairly they distribute costs — and also on what they visibly value, reinforce, and help sentients pursue. This section states those recognition, reinforcement, and aspiration duties. Recognition and acclaim that materially affect voice, status, or access must remain consistent with [Participation](core_05_apex_participation_leg.md#participation-constitutional) under [§2 Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing) and [§2.1 Fairness](#21-fairness). It applies together with [§2.1 Fairness](#21-fairness) and remains bounded by Safety, Truth, and the Chapter Six Rights Floor.
 
 <a id="221-recognition-and-reinforcement"></a>
 ##### 2.2.1 Recognition and Reinforcement
@@ -507,7 +507,7 @@ Where governance choices — including predictions, causal claims, classificatio
 
 The scientific method, systematic inquiry, and peer review set the standard — but they are not the only acceptable procedures. How much formality is required depends on the stakes: higher-impact decisions need stricter evidence practices, governed by [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance).
 
-Where expert-evidence standards, methods, or evidence-stewardship disputes require forum resolution, routing follows **Technical Forum Domains** under [Chapter Twelve §4.2](core_12_forum.md#42-technical-forum-domains). Technical forums maintain cross-family standards and may answer certified component questions without displacing primary-stakes routing elsewhere.
+Where expert-evidence standards, methods, or evidence-stewardship disputes require forum resolution, routing follows **Technical Forum Domains** under [Chapter Twelve §4.2 Technical Forum Domains](core_12_forum.md#42-technical-forum-domains). Technical forums maintain cross-family standards and may answer certified component questions without displacing primary-stakes routing elsewhere.
 
 Safety-sensitive limits on publication, data access, method disclosure, or replication materials may be justified only under [6.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), the Chapter Five definitions listed above, and applicable Chapter Six Rights Floors. Such limits must preserve maximum feasible epistemic integrity through protected records, independent review, delayed disclosure, redaction, secure access, or comparable safeguards; they must not become a means to suppress unfavorable evidence, hide safety defects, or manufacture apparent consensus.
 
@@ -519,7 +519,7 @@ Safety-sensitive limits on publication, data access, method disclosure, or repli
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (understandable engagement); **oversight** leg (audit and verification readability); [material stake](core_00_preamble.md#material-stake) scaling.
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** aim (meaningful agency through comprehensible **Truth** engagement); **Continuity** aim (durable institutional legibility over time).
 - Upstream: Principles: [§3.2 Truth](#32-truth-epistemic-integrity-constraint), [3.3 Science-Informed Inquiry and Decision Support](#33-science-informed-inquiry-and-decision-support), [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), and [§12.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1213-stewardship-and-operator-application); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
-- Downstream: Rights surface: [Article V-G: Accessibility](core_06_rights_part_b.md#article-v-g-accessibility), [Article VI: Right to Sentient-Centered Education](core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [Article XV: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XX: Comprehensibility and Complexity Stewardship](core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
+- Downstream: Rights surface: [Article V-F: Accessibility](core_06_rights_part_b.md#article-v-f-accessibility), [Article VI: Right to Sentient-Centered Education](core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [Article XV: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XX: Comprehensibility and Complexity Stewardship](core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 - Cross-reference: Chapter Two through Four definition mechanics and plain-language guardrails in [core_02_definition_structure.md](core_02_definition_structure.md) remain controlling at the definition layer.
 - Subsections (reading order): [§3.4.1](#341-scope) · [§3.4.2](#342-the-duty) · [§3.4.3](#343-definitional-rigor-preserved) · [§3.4.4](#344-jargon-as-defeat-discipline) · [§3.4.5](#345-rights-floor-boundary).
 
@@ -554,7 +554,7 @@ This duty covers instruments and communications that sentients actually engage w
 - audit and verification artifacts where they reach sentient readers;
 - terms and consent interfaces, and comparable text.
 
-This duty applies however binding information reaches sentients — written text, interfaces, spoken communication, or any other channel. A channel satisfies it when it provides a plain-language equivalent that any affected sentient can access, consistent with [Article V-G](core_06_rights_part_b.md#article-v-g-accessibility) (*Accessibility*) and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+This duty applies however binding information reaches sentients — written text, interfaces, spoken communication, or any other channel. A channel satisfies it when it provides a plain-language equivalent that any affected sentient can access, consistent with [Article V-F](core_06_rights_part_b.md#article-v-f-accessibility) (*Accessibility*) and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 
 <a id="342-the-duty"></a>
 ##### 3.4.2 The Duty
@@ -564,7 +564,7 @@ Under [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretat
 - use plain, direct language instead of jargon or unnecessarily complex phrasing wherever that is possible without losing operative meaning;
 - provide a plain-language summary or orientation when sentients must engage technically dense material;
 - organize text so sentients can find what they need and read it without unnecessary difficulty — supporting the learning interest recognized under [Article VI](core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education) (*Right to Sentient-Centered Education*);
-- keep complexity proportionate to what the communication actually needs to say. Unnecessary complexity that makes things harder without serving a constitutional purpose is an [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) defect under [§6.3](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) and an [Article XX](core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*) concern.
+- keep complexity proportionate to what the communication actually needs to say. Unnecessary complexity that makes things harder without serving a constitutional purpose is an [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) defect under [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) and an [Article XX](core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*) concern.
 
 <a id="343-definitional-rigor-preserved"></a>
 ##### 3.4.3 Definitional Rigor Preserved
@@ -586,7 +586,7 @@ The reverse is equally prohibited: plain-language framing that misrepresents wha
 <a id="345-rights-floor-boundary"></a>
 ##### 3.4.5 Rights-Floor Boundary
 
-The Rights Floors for accessibility, education, and comprehensibility live in [Article V-G](core_06_rights_part_b.md#article-v-g-accessibility) (*Accessibility*), [Article III-B](core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*Equal Educational Access*), and [Article XX](core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*) respectively. This section states the principle-layer duty that supports those floors.
+The Rights Floors for accessibility, education, and comprehensibility live in [Article V-F](core_06_rights_part_b.md#article-v-f-accessibility) (*Accessibility*), [Article III-B](core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*Equal Educational Access*), and [Article XX](core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*) respectively. This section states the principle-layer duty that supports those floors.
 
 ### 4. System Stability Enabler: Trust (Coordination Integrity)
 <details>
@@ -786,9 +786,9 @@ A high-stakes life-direction matter may not be treated as voluntary through form
 - comparable decisions where voluntariness depends on jointly testing consent, self-determination, coercion/manipulation, information, dependency pressure, and reversibility
 
 **No ordinary-consent import.** Outside that admission scope, these Chapter Five definitions remain reusable:
-- *Consent* (§2)
+- *Consent* (§2 (*Foundational Objective: Wellbeing*))
 - *Self-Determination*
-- *Coercion and Manipulation* (§2)
+- *Coercion and Manipulation* (§2 (*Foundational Objective: Wellbeing*))
 
 This subsection does **not** import voluntary-discontinuation discipline into these contexts:
 - ordinary consent
@@ -806,7 +806,7 @@ Whole-system evaluations must test these conditions under [Chapter Eight §3.4 V
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-*Definition home.* Chapter Five [§3.5 Assembly, Collective Organization, and Institutional Formation](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) is the home for this group of definitions. Read with **Article V-H** (*Expression, Assembly, and Press*) (assembly), **Article III-D** (*Labor and Economic Floor*) (collective organization within the labor and economic floor), and [§10.4 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#104-aligned-self-organization) (the procedural path for sentient-initiated and community-initiated constitutional stewardship).
+*Definition home.* Chapter Five [§3.5 Assembly, Collective Organization, and Institutional Formation](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) is the home for this group of definitions. Read with **Article IX-G** (*Expression, Assembly, and Press*) (assembly), **Article III-D** (*Labor and Economic Floor*) (collective organization within the labor and economic floor), and [§10.4 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#104-aligned-self-organization) (the procedural path for sentient-initiated and community-initiated constitutional stewardship).
 
 - [Assembly](core_05_band_participation.md#assembly-constitutional) · [O](core_05_band_participation.md#assembly-constitutional) · [M](core_05_band_participation.md#assembly-constitutional-a) · [A](core_05_band_participation.md#assembly-constitutional-a) · [C](core_05_band_participation.md#assembly-constitutional-c)
 - [Collective Organization](core_05_band_participation.md#collective-organization-constitutional) · [O](core_05_band_participation.md#collective-organization-constitutional) · [M](core_05_band_participation.md#collective-organization-constitutional-a) · [A](core_05_band_participation.md#collective-organization-constitutional-a) · [C](core_05_band_participation.md#collective-organization-constitutional-c)
@@ -819,7 +819,7 @@ Whole-system evaluations must test these conditions under [Chapter Eight §3.4 V
 
 <a id="53-assembly-collective-organization-and-institutional-formation"></a>
 
-*In plain terms: you cannot chop assembly, union-style organizing, platform access, or permission-to-operate questions into separate boxes in a way that keeps the paperwork friendly but defeats real collective action. This section does not replace the Rights Floor: Article V-H still owns assembly, and Article III-D still owns labor organizing.*
+*In plain terms: you cannot chop assembly, union-style organizing, platform access, or permission-to-operate questions into separate boxes in a way that keeps the paperwork friendly but defeats real collective action. This section does not replace the Rights Floor: Article IX-G still owns assembly, and Article III-D still owns labor organizing.*
 
 **Where the full rules live.** Chapter Five groups related definitions that must be read together when the questions they cover travel together. That grouping is a **definition cluster**. It is not a separate right, and it is not a substitute for the Chapter Six articles below. The definitions for this topic live in [Chapter Five — Assembly, Collective Organization, and Institutional Formation](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster):
 - [Assembly](core_05_band_participation.md#assembly-constitutional)
@@ -827,19 +827,19 @@ Whole-system evaluations must test these conditions under [Chapter Eight §3.4 V
 - [System Creation](core_05_band_participation.md#system-creation-constitutional)
 - [Business Creation](core_05_band_participation.md#business-creation-constitutional)
 
-The cluster's own reading rules live there. **§5.3** applies the anti-segmentation principle at Chapter One; it does not restate those Chapter Five mechanics.
+The cluster's own reading rules live there. **§5.3** (*Assembly, Collective Organization, and Institutional Formation*) applies the anti-segmentation principle at Chapter One; it does not restate those Chapter Five mechanics.
 
-**Which rights articles still control.** **§5.3** is a Chapter One principle. It does not replace the Chapter Six Rights Floor. Inside **§5.3**, those articles still decide what the right is and how it may be limited:
-- **[Article V-H](core_06_rights_part_b.md#article-v-h-expression-assembly-and-press)** (*Expression, Assembly, and Press*) — gathering, associating, and acting together in physical, digital, or shared-compute spaces for expression, politics, culture, community, and similar purposes
+**Which rights articles still control.** **§5.3** (*Assembly, Collective Organization, and Institutional Formation*) is a Chapter One principle. It does not replace the Chapter Six Rights Floor. Inside **§5.3** (*Assembly, Collective Organization, and Institutional Formation*), those articles still decide what the right is and how it may be limited:
+- **[Article IX-G](core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press)** (*Expression, Assembly, and Press*) — gathering, associating, and acting together in physical, digital, or shared-compute spaces for expression, politics, culture, community, and similar purposes
 - **[Article III-D](core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)** (*Labor and Economic Floor*) — collective organization in productive and economic activity (unions, cooperatives, guilds, worker councils, and comparable forms used to shape the terms of work)
 - **[Article IX-E](core_06_rights_part_b.md#article-ix-e-institutional-formation-and-business-creation)** (*Institutional Formation and Business Creation*) — [System Creation](core_05_band_participation.md#system-creation-constitutional) (forming and running non-commercial institutions) and [Business Creation](core_05_band_participation.md#business-creation-constitutional) (forming and running commercial enterprises)
 - **[Article IX-B](core_06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights)** (*Stakeholder Role and Participation Rights*) and **[Article XI](core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)** (*Stakeholder System Participation, Representation, and Due Process*) — stakeholder rights once a created institution or enterprise materially affects others
 
 **When the full definition cluster applies.** The anti-segmentation rule applies when [Assembly](core_05_band_participation.md#assembly-constitutional), [Collective Organization](core_05_band_participation.md#collective-organization-constitutional), [System Creation](core_05_band_participation.md#system-creation-constitutional), or [Business Creation](core_05_band_participation.md#business-creation-constitutional) is material in a way that makes those questions travel together.
 
-**When lighter rules apply.** If the matter is only one of those questions — for example, an ordinary civic gathering with no labor-organizing or institution-forming stake — use [Assembly](core_05_band_participation.md#assembly-constitutional) or [Collective Organization](core_05_band_participation.md#collective-organization-constitutional) as an ordinary supporting definition. Do not pull in [System Creation](core_05_band_participation.md#system-creation-constitutional), [Business Creation](core_05_band_participation.md#business-creation-constitutional), or the rest of this definition cluster, and do not apply **§5.3**'s anti-segmentation package, just because one of those terms appears. Single-definition use is not a license to re-segment a jointly covered matter.
+**When lighter rules apply.** If the matter is only one of those questions — for example, an ordinary civic gathering with no labor-organizing or institution-forming stake — use [Assembly](core_05_band_participation.md#assembly-constitutional) or [Collective Organization](core_05_band_participation.md#collective-organization-constitutional) as an ordinary supporting definition. Do not pull in [System Creation](core_05_band_participation.md#system-creation-constitutional), [Business Creation](core_05_band_participation.md#business-creation-constitutional), or the rest of this definition cluster, and do not apply the anti-segmentation package of **§5.3** (*Assembly, Collective Organization, and Institutional Formation*), just because one of those terms appears. Single-definition use is not a license to re-segment a jointly covered matter.
 
-**What this section does not change.** **§5.3** adds principle-layer anti-segmentation discipline and the [§5.3.1 Aligned Self-Organization](#531-aligned-self-organization) pointer only. It does **not** create, extend, or narrow any Chapter Six Rights-Floor provision.
+**What this section does not change.** **§5.3** (*Assembly, Collective Organization, and Institutional Formation*) adds principle-layer anti-segmentation discipline and the [§5.3.1 Aligned Self-Organization](#531-aligned-self-organization) pointer only. It does **not** create, extend, or narrow any Chapter Six Rights-Floor provision.
 
 A matter inside that together-reading scope must not be segmented into separate civic-association, labor-organization, platform-access, or authorization framings in a way that preserves formal access while defeating assembly or collective-organization protection.
 

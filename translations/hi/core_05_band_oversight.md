@@ -184,7 +184,7 @@
     - स्रोत संरक्षण;
     - जाँच; और
     - प्रकाशन।
-    वह काम करने वाले संज्ञ प्राणी [अभिव्यक्ति](core_05_band_participation.md#expression-constitutional) और [सभा](core_05_band_participation.md#assembly-constitutional) अधिकार-तल का प्रयोग करते हैं, [अनुच्छेद V-H](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*अभिव्यक्ति, सभा, और प्रेस*) के अधीन ऊँची-जाँच संरक्षण के साथ राज्य और संचालक कार्रवाई के विरुद्ध जो उस गतिविधि को क्षीण करने के लिए की गई हो।
+    वह काम करने वाले संज्ञ प्राणी [अभिव्यक्ति](core_05_band_participation.md#expression-constitutional) और [सभा](core_05_band_participation.md#assembly-constitutional) अधिकार-तल का प्रयोग करते हैं, [अनुच्छेद V-H](../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press) (*अभिव्यक्ति, सभा, और प्रेस*) के अधीन ऊँची-जाँच संरक्षण के साथ राज्य और संचालक कार्रवाई के विरुद्ध जो उस गतिविधि को क्षीण करने के लिए की गई हो।
   - **दायरे से बाहर:** प्रेस प्रमाणपत्र, संस्थागत पदवियाँ, या साधारण वाणिज्यिक वाक् जो समाचार-संग्रह, जाँच, या पत्रकारिता के रूप में काम करने वाला प्रकाशन नहीं है।
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **कैसे मापें और आकलन करें**

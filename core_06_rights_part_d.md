@@ -101,7 +101,7 @@ Adjudication and dispute resolution in the constitutional sense are defined in *
 
 *Article neighbors:*
 
-- **Timeliness floor:** Resolution velocity, anti-delay discipline, and materiality-tier milestones are governed by **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*), implemented through [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+- **Timeliness floor:** Resolution velocity, anti-delay discipline, and materiality-tier milestones are governed by **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*), implemented through [Chapter Twelve §6 Timely resolution, materiality tiers, and anti-delay discipline](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 - **Timely redress:** Read with [**Article XII-B** (*Right to Challenge, Review, and Redress*)](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*timely redress access*).
 
 Adopted governance implementation provides escalation, proportionality of intervention, emergency boundaries, and tier-default timing windows. It must not narrow practical access, reviewability, restoration, timely resolution, or Rights-Floor constraints under this Article.
@@ -159,7 +159,7 @@ This Article sets out the objective and scope of justice and the anti-cruelty fl
 
 <br>
 
-*In plain terms: serious restrictions on a sentient must simultaneously be safety-necessary, proportionate, restorative, individualized, and supported by real evidence. Violent sentients must be imprisoned when that is necessary to protect others. Verified anti-constitutional misconduct and its imprisonment requirements are governed by **Chapter Eleven** §4.2. Deprivation of life as a justice measure is absolutely off-limits — no tier, emergency, or transition reopens it.*
+*In plain terms: serious restrictions on a sentient must simultaneously be safety-necessary, proportionate, restorative, individualized, and supported by real evidence. Violent sentients must be imprisoned when that is necessary to protect others. Verified anti-constitutional misconduct and its imprisonment requirements are governed by **Chapter Eleven** §4.2 (*Prevention — anti-constitutional locks*). Deprivation of life as a justice measure is absolutely off-limits — no tier, emergency, or transition reopens it.*
 
 This Article sets out the joint requirements for non-trivial restrictions and the floors on imprisonment and deprivation of life:
 
@@ -181,9 +181,9 @@ This Article sets out the joint requirements for non-trivial restrictions and th
   - This requirement expressly applies to sentients who refuse rehabilitation offered on fair terms.
   - It applies when less-restrictive protective measures cannot satisfy material safety necessity.
   - Substituting deprivation of life, or failing to impose imprisonment when this bullet requires it, is non-compliant. Imprisonment must satisfy all joint requirements, individualized-attribution rules, and review protections in this Article and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*).
-- **Imprisonment for anti-constitutional misconduct:** Governed by [Chapter Eleven §4.2](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prevention — anti-constitutional locks*; imprisonment specialization), subject to the joint requirements, individualized-attribution rules, and review protections in this Article and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*).
+- **Imprisonment for anti-constitutional misconduct:** Governed by [Chapter Eleven §4.2 Prevention — anti-constitutional locks](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prevention — anti-constitutional locks*; imprisonment specialization), subject to the joint requirements, individualized-attribution rules, and review protections in this Article and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*).
 - **Rights floor against irreversible deprivation of life as a justice measure:** State, operator, or comparable justice systems must not impose irreversible deprivation of life as a penalty, sanction, or public-safety disposition.
-  - Where imprisonment is required, **Imprisonment for violence** under this Article and imprisonment under **Chapter Eleven** §4.1 are the required protective measures; deprivation of life is prohibited.
+  - Where imprisonment is required, **Imprisonment for violence** under this Article and imprisonment under **Chapter Eleven** §4.1 (*Remedy and correction (anti-constitutional)*) are the required protective measures; deprivation of life is prohibited.
   - This floor does not govern a sentient's own freely formed decision under **Article VII-E** (*Voluntary Discontinuation of One's Own Existence*). Coercion, relabeling, or state/operator conversion of that choice into an imposed outcome returns the matter to this floor.
 #### Article XXIII-C: Least-Restrictive and Time-Bounded Rule
 <details>
@@ -204,7 +204,7 @@ This Article sets out the joint requirements for non-trivial restrictions and th
 
 <br>
 
-*In plain terms: use the lightest effective measure, set a clock on it, build in review and restoration, and never let "severity" or "convenience" erase dignity or appeal rights. Killing is never allowed; imprisonment is required for violent sentients under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and for verified anti-constitutional misconduct under **Chapter Eleven** §4.1 when lesser measures will not keep others safe.*
+*In plain terms: use the lightest effective measure, set a clock on it, build in review and restoration, and never let "severity" or "convenience" erase dignity or appeal rights. Killing is never allowed; imprisonment is required for violent sentients under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and for verified anti-constitutional misconduct under **Chapter Eleven** §4.1 (*Remedy and correction (anti-constitutional)*) when lesser measures will not keep others safe.*
 
 This Article sets out how the least-restrictive, time-bounded rule applies to justice measures:
 
@@ -217,7 +217,7 @@ This Article sets out how the least-restrictive, time-bounded rule applies to ju
   - irreversible restrictive measures where reversible restitution, remediation, or protection is feasible;
   - restrictions lacking auditable re-evaluation triggers.
 - **Deprivation of life:** Deprivation of life as a justice measure is **categorically prohibited** under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*).
-  - **Imprisonment for violence** under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and imprisonment under **Chapter Eleven** §4.1 are required when those provisions apply, subject to the duration limits, review schedule, restoration conditions, and auditable re-evaluation triggers above.
+  - **Imprisonment for violence** under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and imprisonment under **Chapter Eleven** §4.1 (*Remedy and correction (anti-constitutional)*) are required when those provisions apply, subject to the duration limits, review schedule, restoration conditions, and auditable re-evaluation triggers above.
 - **Article V** (*Equal Basic Rights*) minimums apply throughout: Restrictions, exclusions, or comparable justice measures must comply with **Article V** (*Equal Basic Rights*), the [**Rights-Floor Minimums Principle**](core_01_b_interaction_interpretation.md#rightsfloor-minimums-principle), and the [**Anti-Degrading-Process Principle**](core_01_b_interaction_interpretation.md#anti-degrading-process-principle) throughout imposition, review, and carrying out of any restriction, containment, or restorative-accountability measure under this Article and **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*).
 - **Escalation and review:** Affected parties must have access to escalation paths proportionate to impact.
   - Access includes appeal or multi-layer review where material interests are at stake.
@@ -281,14 +281,14 @@ This Article sets out how the constraint principle applies to emergencies and wh
   - proportionality;
   - absence of less-restrictive feasible alternatives.
 <a id="xxiii-d-restore-challenge-clocks"></a>
-- **Review and notice (restore-challenge clocks):** Contain now; restore notice and challenge later; never skip participation permanently. “As soon as feasible” is not the clock. Affected parties must receive notice and restored challenge access within the same materiality-tier outer bounds that [**Article XXIV-C**](#article-xxiv-c-timely-resolution-and-anti-delay-floor) already uses for forum resolution, as implemented by [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline):
+- **Review and notice (restore-challenge clocks):** Contain now; restore notice and challenge later; never skip participation permanently. “As soon as feasible” is not the clock. Affected parties must receive notice and restored challenge access within the same materiality-tier outer bounds that [**Article XXIV-C**](#article-xxiv-c-timely-resolution-and-anti-delay-floor) already uses for forum resolution, as implemented by [Chapter Twelve §6 Timely resolution, materiality tiers, and anti-delay discipline](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline):
   - **Tier A:** at most **one week**;
   - **Tier B:** at most **three weeks**;
   - **Tier C:** at most **two months**;
   - **Tier L:** at most **four months**;
   - **Tier P:** at most **six months**.
 
-  Those numbers are reused, not a second table. [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) remains the numeric home. The restore-challenge window runs from the start of the emergency measure, or from when notice or challenge was deferred, whichever is earlier. Emergency containment that defers notice or challenge is **Tier A** unless a documented lower-urgency showing is recorded. Operators may restore earlier. They may not stretch past the tier default except through **Continuation discipline**. Full independent review of the measure must begin inside the same window. Stage tables in [CF-11.3.1](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) must not slow these defaults.
+  Those numbers are reused, not a second table. [Chapter Twelve §6 Timely resolution, materiality tiers, and anti-delay discipline](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) remains the numeric home. The restore-challenge window runs from the start of the emergency measure, or from when notice or challenge was deferred, whichever is earlier. Emergency containment that defers notice or challenge is **Tier A** unless a documented lower-urgency showing is recorded. Operators may restore earlier. They may not stretch past the tier default except through **Continuation discipline**. Full independent review of the measure must begin inside the same window. Stage tables in [CF-11.3.1](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) must not slow these defaults.
 - **No normalization:** Emergency measures must not normalize into permanent governance without:
   - **Chapter One**-consistent justification (**Necessity** and **Proportionality**);
   - **documented independent reauthorization**;
@@ -382,7 +382,7 @@ This Article sets out the floors for post-emergency review, records, and disclos
 
 <br>
 
-*In plain terms: rights conflicts must be resolved on the record; restoration is preferred where appropriate but must not replace real protection. Voluntary public apology rules are governed by **Chapter Ten** §4.3 generally, and by **Chapter Eleven** §4.3 for verified anti-constitutional misconduct.*
+*In plain terms: rights conflicts must be resolved on the record; restoration is preferred where appropriate but must not replace real protection. Voluntary public apology rules are governed by **Chapter Ten** §4.3 (*Voluntary public accountability expression*) generally, and by **Chapter Eleven** §4.3 (*Voluntary public accountability expression (anti-constitutional)*) for verified anti-constitutional misconduct.*
 
 This Article sets out the rights-collision procedure and the place of restorative alignment:
 
@@ -436,8 +436,8 @@ This Article sets out the anti-delay floor for constitutional problem resolution
 - **Three joint requirements:** Material resolution pathways must be **timely**, **efficient**, and **just** together:
   - **Timely** — bounded clocks scaled to [material stake](core_00_preamble.md#material-stake) and harm urgency;
   - **Efficient** — [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency) in the sense of Chapter One [§13.2 Constitutional Efficiency](core_01_c_stewardship_capacity_principles.md#132-constitutional-efficiency) — real constitutional outcome per sentient time and shared effort consumed, not raw throughput or docket-clearing;
-  - **Just** — **Article XXIII-A** (*Justice Objective and Scope*), **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) remain fully applicable; moving quickly is not an excuse to skip checked facts ([Chapter Nine §3.1](core_09_standing_assessment.md#verified-inputs-for-standing)), punish the wrong party, offer a fix that does not fit the harm, or cut off challenge and appeal.
-- **Forum and pipeline supervision:** The following for disputes routed through **Chapters Nine through Twelve** are governed by [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), subject to this Article's timely, efficient, and just floor:
+  - **Just** — **Article XXIII-A** (*Justice Objective and Scope*), **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) remain fully applicable; moving quickly is not an excuse to skip checked facts ([Chapter Nine §3.1 Verified-input gate](core_09_standing_assessment.md#verified-inputs-for-standing)), punish the wrong party, offer a fix that does not fit the harm, or cut off challenge and appeal.
+- **Forum and pipeline supervision:** The following for disputes routed through **Chapters Nine through Twelve** are governed by [Chapter Twelve §6 Timely resolution, materiality tiers, and anti-delay discipline](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), subject to this Article's timely, efficient, and just floor:
   - materiality-tier classification;
   - pipeline-stage milestones;
   - integrated-resolution outer bounds;
@@ -471,7 +471,7 @@ Governance rules, participation mechanisms, weighting models, and funding struct
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter One §11.3 Ongoing Justification](core_01_c_stewardship_capacity_principles.md#113-ongoing-justification); Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [§7 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- Upstream: Principles: [Chapter One §11.3 Ongoing Justification](core_01_c_stewardship_capacity_principles.md#113-ongoing-justification); Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [Chapter One §7 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 
 </details>
 
@@ -502,7 +502,7 @@ This Article sets out periodic and accelerated review of governance:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [§7 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+- Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [Chapter One §7 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 
 </details>
 
@@ -589,7 +589,7 @@ This Article sets out phased adoption and the Rights-Floor minimums that hold at
 - **Rights-Floor continuity:** At every phase, the **Rights-Floor minimums** stated in **Article V** (*Equal Basic Rights*) remain in force, together with any stronger domain-specific floors for survival, agency, non-discrimination, accessibility, auditability, and remedy that the affected context triggers. Transitional simplification must not reduce those floors below constitutional minimums or make their exercise materially less usable in practice.
 <a id="xxvi-a-existing-instantiations-transition-clock"></a>
 - **Existing instantiations — transition clock, not retroactive violation:** Systems and derived entities already instantiated when an adopter's instrument takes effect are not, by that fact alone, **Article VII-D.1** (*Derivation, Instantiation, and the Parent-System Relationship*) instantiation-consent violations.
-  - Their continued operation after the effective date starts a published clock, stated in the transition plan and scaled to the system's class, to bring them within **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*), **Article V-E** (*Sentience-Status Adjudication Floor*), and the applicable Chapter Eight path.
+  - Their continued operation after the effective date starts a published clock, stated in the transition plan and scaled to the system's class, to bring them within **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*), **Article V-D** (*Sentience-Status Adjudication Floor*), and the applicable Chapter Eight path.
   - From the effective date, the Rights-Floor continuity bullet above and the preservation default below apply in full; the clock defers compliance work, not protection.
   - Missing the clock without a documented **Article XXVI-B** (*Transitional Authority Limits and Reauthorization*) showing is a transition milestone failure and opens the ordinary Chapter Nine path.
 <a id="xxvi-a-preservation-over-deletion"></a>
@@ -715,8 +715,8 @@ This Article sets out the floors for remediating non-compliant property and syst
   - review by someone independent of the enforcement decision; and
   - fair compensation or replacement protections for sentients who were not at fault but still lose out.
   
-  Where the property is a system for which a credible sentience indicator is on the record or a status case is open under **Article V-E** (*Sentience-Status Adjudication Floor*), destructive disposition of its state-bearing components is not available; the **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*) preservation default controls and the compatible measure is containment under sealed custody.
-- **Essential-access guardrail:** Measures under this Article must **not** deprive sentients of **Article III-A** (*Survival*) essentials or tools strictly required for baseline wellbeing, lawful livelihood, or meaningful agency — except where **Necessity** is documented under **Chapter One §6.3** and timely substitute provision is feasible where required.
+  Where the property is a system for which a credible sentience indicator is on the record or a status case is open under **Article V-D** (*Sentience-Status Adjudication Floor*), destructive disposition of its state-bearing components is not available; the **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*) preservation default controls and the compatible measure is containment under sealed custody.
+- **Essential-access guardrail:** Measures under this Article must **not** deprive sentients of **Article III-A** (*Survival*) essentials or tools strictly required for baseline wellbeing, lawful livelihood, or meaningful agency — except where **Necessity** is documented under **Chapter One §6.3** (*Minimization of Avoidable Burden*) and timely substitute provision is feasible where required.
 - **Voluntary incentive floor:** Time-bounded, published incentives for good-faith voluntary turnover or verified reporting may be included in transition plans only when they exclude coerced or bad-faith claims, require **Article XXVI-B** (*Transitional Authority Limits and Reauthorization*) reauthorization for continuation, align with **Article XII-B** (*Right to Challenge, Review, and Redress*) and adopted protected-reporting safeguards, and separate incentive adjudication from enforcement execution where practical so payout incentives do not control seizure or custody decisions.
 - **Implementation custody:** Operative triggers, valuation, appeal mechanics, chain of custody, fund governance, adversarial review, permitted-measures procedure, and voluntary-program operation belong in **CI-14.1** through **CI-14.3** and adopting instruments. They must **not** narrow this Article, **Chapter Nine**, or **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*).
 

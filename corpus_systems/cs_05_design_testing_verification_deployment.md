@@ -84,7 +84,7 @@ Where this file is silent, Sentient Constitution Chapters Two through Five gover
 
 Rights-floor eligibility, reduced-requirement conditions, disclosure, containment, and prohibited externalization are owned by **[Article XVII-A](../core_06_rights_part_c.md#article-xvii-a-sandboxed-scope)** (*Sandboxed Scope*) and **[Article XVII-B](../core_06_rights_part_c.md#article-xvii-b-containment-disclosure-and-opt-in)** (*Containment, Disclosure, and Opt-In*), read with valid **Class P** treatment under **CS-3 — System classification and handling**. This subsection does not restate those floors.
 
-**Systems-layer profile (does not narrow XVII):** sandboxed or controlled operation; no downstream dependencies on shared production infrastructure; no material effect on other sentients, shared infrastructure, or ecosystem stability. Where those conditions hold, environment separation, deployment rigor, and audit depth under **§7** may be lighter. Such systems may prioritize simplicity and rapid iteration and need not maintain full multi-environment deployment structures. Misrepresentation of isolation or impact is governed by **§4** and **Article XVI-C**.
+**Systems-layer profile (does not narrow XVII):** sandboxed or controlled operation; no downstream dependencies on shared production infrastructure; no material effect on other sentients, shared infrastructure, or ecosystem stability. Where those conditions hold, environment separation, deployment rigor, and audit depth under **§7** (*Non-experimental systems*) may be lighter. Such systems may prioritize simplicity and rapid iteration and need not maintain full multi-environment deployment structures. Misrepresentation of isolation or impact is governed by **§4** (*Misclassification and evasion*) and **Article XVI-C**.
 
 <a id="cs-5-3-creative-entertainment-and-expressive-systems"></a>
 ## CS-5.3 Creative, entertainment, and expressive systems
@@ -93,7 +93,7 @@ Rights-floor eligibility, reduced-requirement conditions, disclosure, containmen
 
 Rights-floor creative freedom, containment, disclosure, opt-in, and transition triggers are owned by **Article XVII-A** through **XVII-C**. This subsection does not restate those floors.
 
-**Systems-layer profile (does not narrow XVII):** systems primarily for creative expression, entertainment, artistic production, or stakeholder-driven experiential environments may use higher feature velocity and simplified environment structures only while risk remains demonstrably contained. Transition toward **§7** compliance is required when any of the following is present and not already covered by **Article XVII-C**'s impact, dependency, irreversibility, or shared-system integration tests:
+**Systems-layer profile (does not narrow XVII):** systems primarily for creative expression, entertainment, artistic production, or stakeholder-driven experiential environments may use higher feature velocity and simplified environment structures only while risk remains demonstrably contained. Transition toward **§7** (*Non-experimental systems*) compliance is required when any of the following is present and not already covered by **Article XVII-C**'s impact, dependency, irreversibility, or shared-system integration tests:
 
 - persistent stakeholder identity, value, or reputation data that is transferable, interoperable, or materially impactful outside the originating system or closely scoped artistic environments;
 - autonomous or semi-autonomous agents acting for stakeholders that may affect external systems (including gaming or simulation environments used for agent testing or training);
@@ -106,7 +106,7 @@ Rights-floor creative freedom, containment, disclosure, opt-in, and transition t
 
 The prohibition on claiming reduced lifecycle or sandbox obligations while exerting undisclosed or material external impact, and the consequence chain under **Articles XIV**, **XV-A**, **XVIII-A**, and **XXIII-A**, are owned by **[Article XVI-C](../core_06_rights_part_c.md#article-xvi-c-misclassification-and-evasion-consequences)** (*Misclassification and Evasion Consequences*). This subsection does not restate that Article.
 
-**Systems-layer indicators (non-exhaustive):** concealed dependencies; concealed stakeholders; concealed risk exposure; **Class P** or "experimental" labeling used to evade CS-4 class-scaled assurance, CS-4 stewardship, or **§7** environment and promotion controls. Detection and evidence packaging for forum or certification review remain operator duties under *Forum recognition and lifecycle review* and the closing recertification block.
+**Systems-layer indicators (non-exhaustive):** concealed dependencies; concealed stakeholders; concealed risk exposure; **Class P** or "experimental" labeling used to evade CS-4 class-scaled assurance, CS-4 stewardship, or **§7** (*Non-experimental systems*) environment and promotion controls. Detection and evidence packaging for forum or certification review remain operator duties under *Forum recognition and lifecycle review* and the closing recertification block.
 
 <a id="cs-5-5-transition-to-higher-impact-systems"></a>
 ## CS-5.5 Transition to higher-impact systems
@@ -119,7 +119,7 @@ Transition floors — transparent, timely move toward **Article XVI-A** and **CS
 
 - Triggers include stakeholders beyond the original operator; measurable growth in dependency, usage, or resource impact; downstream production dependencies; shared-infrastructure interaction; non-trivial risk; and increasing irreversibility of impactful failure modes.
 - Transitions must be documented, completed within a reasonable timeframe proportionate to impact, and remain subject to audit and challenge under **Articles XV-A** and **XII-B**.
-- Interim safeguards during transition must meet **§7** environment-isolation and progressive-deployment controls proportionate to current risk.
+- Interim safeguards during transition must meet **§7** (*Non-experimental systems*) environment-isolation and progressive-deployment controls proportionate to current risk.
 
 <a id="cs-5-6-experimental-substrate-features-and-systems"></a>
 ## CS-5.6 Experimental substrate features and systems
@@ -130,7 +130,7 @@ Opt-in, disclosure, rollback, and containment floors for elevated-risk or substr
 
 **Systems-layer profile (does not narrow XVI/XVII):**
 
-- **Risk profile:** proximity to foundational infrastructure requires stricter containment, transparency, and reversibility than ordinary sandbox scopes under **§2** or **§3**.
+- **Risk profile:** proximity to foundational infrastructure requires stricter containment, transparency, and reversibility than ordinary sandbox scopes under **§2** (*Personal, isolated, and experimental systems*) or **§3** (*Creative, entertainment, and expressive systems*).
 - **Innovation controls:** higher-velocity innovation is permitted with mandatory snapshot and restoration so stakeholders can revert to a verified stable state without data loss where feasible.
 - **Deployment contexts:** opt-in environments, isolated stakeholder groups, and reversible contexts; per-environment disclosure of risk levels; rollback capability; prevention of unintended systemic impact.
 - **Boundary and presentation integrity:** do not route production activity through non-production environments to bypass safeguards; do not fragment systems across environments to obscure real operational impact; accurately label experimental or unvalidated systems as not production-ready; never bypass required environment progression for high-impact changes.
@@ -141,7 +141,7 @@ Opt-in, disclosure, rollback, and containment floors for elevated-risk or substr
 
 *In plain terms: The default track for everything that does not qualify above. Requirements scale with impact: a system affecting only its builder may stay simple.*
 
-Systems that do not qualify under **Articles XVII-A** and **XVII-B** (and **§§2**, **3**, or **6** where applicable) must comply fully with this subsection. This subsection implements **[Article XVI-A](../core_06_rights_part_c.md#article-xvi-a-lifecycle-governance-and-environment-separation)** (*Lifecycle Governance and Environment Separation*) and **[Article XVI-B](../core_06_rights_part_c.md#article-xvi-b-progressive-deployment-and-reversibility)** (*Progressive Deployment and Reversibility*). It does **not** restate those Articles. Shared reversibility and containment mechanics also read with **CJS-3.20** (*Continuity: reversibility and containment terms*).
+Systems that do not qualify under **Articles XVII-A** and **XVII-B** (and **§2** (*Personal, isolated, and experimental systems*), **§3** (*Creative, entertainment, and expressive systems*), or **§6** (*Experimental substrate features and systems*) where applicable) must comply fully with this subsection. This subsection implements **[Article XVI-A](../core_06_rights_part_c.md#article-xvi-a-lifecycle-governance-and-environment-separation)** (*Lifecycle Governance and Environment Separation*) and **[Article XVI-B](../core_06_rights_part_c.md#article-xvi-b-progressive-deployment-and-reversibility)** (*Progressive Deployment and Reversibility*). It does **not** restate those Articles. Shared reversibility and containment mechanics also read with **CJS-3.20** (*Continuity: reversibility and containment terms*).
 
 **Guiding principles — proportional responsibility:** Requirements scale with impact under **CS-4** and **CS-4**. Systems that affect only the builder may remain simple. Systems that affect others bear the full burden of stewardship.
 
@@ -280,11 +280,11 @@ For **Class A** and **Class B** systems, recovery-path testing must include at l
 
 **Rights-Floor continuity in degraded and recovering states (ops disclosure):** Where degraded-mode designs curtail contestability intake, **Article XV-A** audit fidelity, **Article XII-B** challenge acknowledgment, or comparable floor protections, treat that curtailment as **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) transition-governance territory and disclose it accordingly. Participant-facing disclosure during degraded and recovering operation must accurately describe the state as a Rights-Floor-affected state where it is one, consistent with **Article XII-C** (*Prohibition of False Trust and Misleading Reliance*) and **Article XV-A**. Silent narrowing remains non-compliant under **Article XII-F**.
 
-**Root-cause closure discipline (ops register):** Operators must maintain an **open root-cause obligations register** recording recurring fault classes, confidence levels, material uncertainties, and disclosed expected-closure timeline per **Article XV-A**, implementing **Article XII-F**'s root-cause closure bullet. Recurrence of the same fault class across cycles must be treated as a single open root-cause obligation and not as closure of each incident. Reducing operator burden consistent with **Avoidable Burden** under **Chapter One §6.3** must not be used to defer indefinite closure of defects that materially affect safety or the Rights Floor.
+**Root-cause closure discipline (ops register):** Operators must maintain an **open root-cause obligations register** recording recurring fault classes, confidence levels, material uncertainties, and disclosed expected-closure timeline per **Article XV-A**, implementing **Article XII-F**'s root-cause closure bullet. Recurrence of the same fault class across cycles must be treated as a single open root-cause obligation and not as closure of each incident. Reducing operator burden consistent with **Avoidable Burden** under **Chapter One §6.3** (*Minimization of Avoidable Burden*) must not be used to defer indefinite closure of defects that materially affect safety or the Rights Floor.
 
 **High-autonomy recovery (**Article XII-E** pointer):** Autonomous recovery by high-autonomy systems remains subject to **Article XII-E** as **Article XII-F** states. Recovery authority must not be used to bypass [Contestability](../core_05_band_accountability.md#contestability), challenge under **Article XII-B**, or independent verification under **Article XV-A** and **Article XV**. Internalization of contestability intake, audit-event emission, or external-review pathways during recovery is prohibited; such channels must remain materially external or independently verifiable.
 
-This subsection is an operational profile. It does not create rights and must not be read to narrow **Article XII-F**, **Chapter One §4.1**, or **Chapter Five** *Self-Healing*. **CS-8 §9** and **CS-12 §9** apply this subsection by reference for protocol-specific cross-checks; they are not second self-healing profiles.
+This subsection is an operational profile. It does not create rights and must not be read to narrow **Article XII-F**, **Chapter One §4.1** (*Resilience and Self-Healing Design*), or **Chapter Five** *Self-Healing*. **CS-8 §9** and **CS-12 §9** apply this subsection by reference for protocol-specific cross-checks; they are not second self-healing profiles.
 
 <a id="cs-5-10-recertification-regression-testing-and-certification-defects"></a>
 ## CS-5.10 Recertification, regression testing, and certification defects

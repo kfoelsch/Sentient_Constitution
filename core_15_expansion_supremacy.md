@@ -226,7 +226,7 @@ This Constitution does not, of its own force, repeal, displace, override, or ren
 
 Publication, distribution, citation, forking, operations-guide use, or any statement that a body “follows” this Constitution is not adoption and does not create supremacy over applicable external law.
 
-This Constitution becomes binding for a particular entity only upon valid adoption under **Chapter Sixteen §10** (*Ratification and Adoption*) and **Chapter Seventeen §4**. Binding effect is limited to:
+This Constitution becomes binding for a particular entity only upon valid adoption under **Chapter Sixteen §10** (*Ratification and Adoption*) and **Chapter Seventeen §4** (*Adoption framing and scope of authority*). Binding effect is limited to:
 
 - the adopting entity;
 - the systems under that entity's authority; and
@@ -237,7 +237,7 @@ Valid adoption does not, by itself, repeal, displace, or render inoperative othe
 - the adopting entity has lawful authority under that external law to bind itself and the systems under its authority to this Constitution; and
 - the instrument of adoption records that commitment within that authority.
 
-Within that limited binding effect, [§3.1](#31-internal-hierarchy-for-adopters) (*Internal Hierarchy for Adopters*), [§3.2](#32-stricter-external-protections) (*Stricter External Protections*), and [§3.3](#33-conflict-disclosure-and-mitigation) continue to apply.
+Within that limited binding effect, [§3.1](#31-internal-hierarchy-for-adopters) (*Internal Hierarchy for Adopters*), [§3.2](#32-stricter-external-protections) (*Stricter External Protections*), and [§3.3 Conflict Disclosure and Mitigation](#33-conflict-disclosure-and-mitigation) continue to apply.
 
 #### 5.2 Alignment When Used Within External Legal Frameworks
 <details>
@@ -258,8 +258,8 @@ Where this Constitution is used, invoked, or applied inside an external legal fr
 Alignment with an external legal framework:
 
 - does not convert operations-guide use, citation, or “we follow it” practice into adoption;
-- does not authorize shrinking **Chapter Fourteen** non-regression floors, **Chapter Six** Rights Floors, or **Chapter One** Safety and Truth constraints by pointing at weaker external norms, as already forbidden by [§3.2](#32-stricter-external-protections) and [§3.3](#33-conflict-disclosure-and-mitigation);
-- does not excuse [§4.1](#41-good-faith-cooperation) duties where competent external jurisdiction is lawfully asserted; and
+- does not authorize shrinking **Chapter Fourteen** non-regression floors, **Chapter Six** Rights Floors, or **Chapter One** Safety and Truth constraints by pointing at weaker external norms, as already forbidden by [§3.2 Stricter External Protections](#32-stricter-external-protections) and [§3.3 Conflict Disclosure and Mitigation](#33-conflict-disclosure-and-mitigation);
+- does not excuse [§4.1 Good-Faith Cooperation](#41-good-faith-cooperation) duties where competent external jurisdiction is lawfully asserted; and
 - does not permit using an asserted conflict as a pretext for selective compliance, forum shopping, or evasion of Rights-Floor obligations.
 
 ---

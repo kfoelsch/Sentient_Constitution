@@ -426,7 +426,7 @@
 - Читать вместе с: [Конституционная тетрада](core_00_preamble.md#constitutional-tetrad) — нога **участия** (понятное вовлечение); нога **надзора** (читаемость аудита и проверки); масштабирование по [материальной ставке](core_00_preamble.md#material-stake).
 - Читать вместе с: [Две конституционные цели](core_00_preamble.md#two-constitutional-aims) — цель **Расцвета** (значимая агентность через понятное вовлечение в **Истину**); цель **Преемственности** (длительная институциональная читаемость со временем).
 - Исход: Принципы: [§3.2 Истина](#32-truth-epistemic-integrity-constraint), [3.3 Научно обоснованное исследование и поддержка решений](#33-science-informed-inquiry-and-decision-support), [§6.3 Минимизация избежимой нагрузки](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) и [§11.1.3 Применение к ответственному управлению и операторам](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application); [Две конституционные цели](core_00_preamble.md#two-constitutional-aims).
-- Назначение: Поверхность прав: [Статья V-G: Доступность](../../core_06_rights_part_b.md#article-v-g-accessibility), [Статья VI: Право на образование, центрированное на сентенте](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [Статья XV: Аудит, прозрачность и независимая проверка](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Статья XX: Понятность и ответственное управление сложностью](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
+- Назначение: Поверхность прав: [Статья V-G: Доступность](../../core_06_rights_part_b.md#article-v-f-accessibility), [Статья VI: Право на образование, центрированное на сентенте](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [Статья XV: Аудит, прозрачность и независимая проверка](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Статья XX: Понятность и ответственное управление сложностью](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 - Перекрёстная ссылка: механика определений Глав со второй по четвёртую и ограждения простого языка в [core_02_definition_structure.md](core_02_definition_structure.md) остаются контролирующими на слое определений.
 - Подразделы (порядок чтения): [§3.4.1](#341-scope) · [§3.4.2](#342-the-duty) · [§3.4.3](#343-definitional-rigor-preserved) · [§3.4.4](#344-jargon-as-defeat-discipline) · [§3.4.5](#345-chapter-ten-floor-boundary).
 
@@ -461,7 +461,7 @@
 - артефакты аудита и проверки там, где они достигают читателей-сентентов;
 - условия и интерфейсы согласия и сопоставимый текст.
 
-Эта обязанность применяется независимо от того, как связывающая информация достигает сентентов — письменный текст, интерфейсы, устная коммуникация или любой другой канал. Канал удовлетворяет ей, когда предоставляет эквивалент простого языка, к которому любой затронутый сентент может получить доступ, согласованно со [Статьёй V-G](../../core_06_rights_part_b.md#article-v-g-accessibility) (*Доступность*) и [Неисключением сентентности](../../core_05_band_participation.md#sentience-non-exclusion).
+Эта обязанность применяется независимо от того, как связывающая информация достигает сентентов — письменный текст, интерфейсы, устная коммуникация или любой другой канал. Канал удовлетворяет ей, когда предоставляет эквивалент простого языка, к которому любой затронутый сентент может получить доступ, согласованно со [Статьёй V-G](../../core_06_rights_part_b.md#article-v-f-accessibility) (*Доступность*) и [Неисключением сентентности](../../core_05_band_participation.md#sentience-non-exclusion).
 
 <a id="342-the-duty"></a>
 ##### 3.4.2 Обязанность
@@ -493,7 +493,7 @@
 <a id="345-chapter-ten-floor-boundary"></a>
 ##### 3.4.5 Граница Пола прав
 
-Полы прав для доступности, образования и понятности живут соответственно в [Статье V-G](../../core_06_rights_part_b.md#article-v-g-accessibility) (*Доступность*), [Статье III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*Равный образовательный доступ*) и [Статье XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*Понятность и ответственное управление сложностью*). Этот раздел излагает обязанность слоя принципа, которая поддерживает эти полы.
+Полы прав для доступности, образования и понятности живут соответственно в [Статье V-G](../../core_06_rights_part_b.md#article-v-f-accessibility) (*Доступность*), [Статье III-B](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*Равный образовательный доступ*) и [Статье XX](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship) (*Понятность и ответственное управление сложностью*). Этот раздел излагает обязанность слоя принципа, которая поддерживает эти полы.
 
 <a id="4-system-stability-enabler-trust-coordination-integrity"></a>
 ### 4. Обеспечитель стабильности системы: Доверие (целостность координации)
@@ -739,7 +739,7 @@
 Собственные правила чтения кластера живут там. **§5.3** применяет принцип антисегментации на уровне Главы первой; он не переизлагает эту механику Главы пятой.
 
 **Какие статьи прав по-прежнему контролируют.** **§5.3** — принцип Главы первой. Он не заменяет Пол прав Главы шестой. Внутри **§5.3** эти статьи по-прежнему решают, что есть право и как оно может быть ограничено:
-- **[Статья V-H](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press)** (*Выражение, собрание и печать*) — собирание, ассоциирование и совместное действие в физических, цифровых или совместно-вычислительных пространствах для выражения, политики, культуры, сообщества и сходных целей
+- **[Статья V-H](../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press)** (*Выражение, собрание и печать*) — собирание, ассоциирование и совместное действие в физических, цифровых или совместно-вычислительных пространствах для выражения, политики, культуры, сообщества и сходных целей
 - **[Статья III-D](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)** (*Пол труда и экономики*) — коллективная организация в производительной и экономической деятельности (союзы, кооперативы, гильдии, рабочие советы и сопоставимые формы, используемые для формирования условий работы) и [Создание предприятия](../../core_05_band_participation.md#business-creation-constitutional)
 - **[Статья IX-B](../../core_06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights)** (*Роль затрагиваемой стороны и права участия*) и **[Статья XI](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process)** (*Системное участие затрагиваемых сторон, представительство и надлежащая процедура*) — [Создание системы](../../core_05_band_participation.md#system-creation-constitutional) (образование и ведение некоммерческих институтов)
 

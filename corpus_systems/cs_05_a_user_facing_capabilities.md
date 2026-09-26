@@ -45,12 +45,12 @@ This file is the systems implementation home for **CS-5, Part A** (*User-facing 
 **What this file owns**
 
 - the systems-layer catalog of **user-reachable capability surfaces** for in-scope systems — who can do or inspect a named act, and which owner already states the duty;
-- the channel-class rule in [§13](#cs-5-13-analog-digital-and-channel-class): analog remains lawful unless the cited owner already requires a digital or machine-usable channel;
-- the negative duties in [§14](#cs-5-14-what-this-file-does-not-own): do not invent a standing portal, a federated Type O directory, or a unified subject-access product that defeats Chapter Nine silence.
+- the channel-class rule in [§13 Analog, digital, and channel class](#cs-5-13-analog-digital-and-channel-class): analog remains lawful unless the cited owner already requires a digital or machine-usable channel;
+- the negative duties in [§14 What this file does not own](#cs-5-14-what-this-file-does-not-own): do not invent a standing portal, a federated Type O directory, or a unified subject-access product that defeats Chapter Nine silence.
 
 **What this file does not own**
 
-- lifecycle engineering in **[CS-5](cs_05_design_testing_verification_deployment.md)** §§1–10;
+- lifecycle engineering in **[CS-5](cs_05_design_testing_verification_deployment.md)** as a whole;
 - information typing and identity / export mechanics in **CS-2 — Information types and handling**;
 - classification disclosure and challenge in **CS-3 — System classification and handling**;
 - inspectable attributable action and chokepoint continuity in **CS-4 — Critical system stewardship**;
@@ -84,7 +84,7 @@ The rows below are **pointers**. Operative detail stays on the cited home. Class
 | Crisis communications for high-impact systems | [CS-5 §8](cs_05_design_testing_verification_deployment.md#cs-5-8-governance-continuity-crisis-communications-and-exercises-high-impact-systems) | Analog may satisfy |
 | Tamper-evident offline audit chains | [CS-12.5](cs_12_decentralized_continuity_partition_resilience.md#cs-12-5-offline-audit-integrity-and-reconciliation) | Machine-usable chain required |
 | Contest post-sale access or subscription cutoffs | [Article II-D](../core_06_rights_part_a.md#article-ii-d-post-sale-access-and-subscription-integrity); when the cutoff is digital self-service, **Article XII-B** plus **CJS-3.17** / **CI-8.3** | Do not invent a second challenge home |
-| Accessibility accommodations in participation domains | [Article V-G](../core_06_rights_part_b.md#article-v-g-accessibility); **CJS-3.8**; **CI-15**; **CF-11** | Parity on whatever channel the domain already uses — not a separate product |
+| Accessibility accommodations in participation domains | [Article V-F](../core_06_rights_part_b.md#article-v-f-accessibility); **CJS-3.8**; **CI-15**; **CF-11** | Parity on whatever channel the domain already uses — not a separate product |
 
 Each Class A, Class B, and Class C system must publish its own Type O floor. This file does **not** require a federated directory of all in-scope systems.
 
@@ -108,7 +108,7 @@ Do not treat “user-facing” as “must be an app.”
 
 **Constitutional-operating surfaces** — standing records, forum intake and standard records, collective choice, seat catalogs, and remedy offices — are **not** owned here. They remain with Chapters Eight through Thirteen, **CF**, and **CI**. Integrator inventory of those surfaces (process support; cannot narrow; not a second **CF-15**): [`evidence/2026-09-10/cs_user_facing_software_audit.md`](../evidence/2026-09-10/cs_user_facing_software_audit.md).
 
-**Silence default.** Do not invent a standing portal for everyone. [Chapter Nine §2.1](../core_09_standing_assessment.md#21-silence-is-the-default) — silence is the default; most sentients never have a standing record. A filed case is not standing by itself. Tools under [Chapter Nine §3.5](../core_09_standing_assessment.md#35-implementation-tools) are optional and must not bury required fields in a score.
+**Silence default.** Do not invent a standing portal for everyone. [Chapter Nine §2.1 Silence is the default](../core_09_standing_assessment.md#21-silence-is-the-default) — silence is the default; most sentients never have a standing record. A filed case is not standing by itself. Tools under [Chapter Nine §3.5 Implementation tools](../core_09_standing_assessment.md#35-implementation-tools) are optional and must not bury required fields in a score.
 
 **No unified subject-access product.** Integrators may compose existing surfaces (identity control, inspect-if-open standing records, **Article VIII-B** experiential and derived data). Composition must **not** defeat the Chapter Nine silence default.
 
