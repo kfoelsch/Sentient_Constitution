@@ -2492,10 +2492,11 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - includes the [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) floor only where Elevated's who-test is met or more-protective overlap already applies;
     - routes to [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional); and
     - under material uncertainty, defaults to inclusion under the Chapter Six Rights-Floor.
-  - **In scope — filing integrity:** Opening a live contested-status case requires a showing of a credible indicator under [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) and [Sentience Indicator Integrity](core_05_band_participation.md#sentience-evaluation-e) — not operator self-description, [Substrate Class](core_05_band_participation.md#substrate-class), product status, or a bare claim.
+  - **In scope — filing integrity:** A filing to confirm inclusion — opening a live contested-status case — requires a showing of a credible indicator under [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) and [Sentience Indicator Integrity](core_05_band_participation.md#sentience-evaluation-e) — not operator self-description, [Substrate Class](core_05_band_participation.md#substrate-class), product status, or a bare claim.
     - Once a case is lawfully open, default inclusion under uncertainty still applies; the opening gate must not be used to withhold, narrow, or delay protection.
     - Frivolous or indicator-empty filings may be declined at intake without creating a withholding determination and without placing the entity in this tier.
     - A showing of a credible indicator is not a requirement of certainty; requiring certainty of sentience before opening is a withholding device.
+    - A filing to withhold, narrow, or revoke protection needs no indicator showing; the burden below applies instead.
   - **In scope — burden:** The burden of:
     - withholding;
     - narrowing; or
@@ -2685,10 +2686,11 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - requiring periodic check-ins while a narrowing lasts;
     - reopening when new verified evidence appears — not only on the calendar; and
     - undoing wrongful calls, with [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional) for the time protection was wrongly withheld or narrowed.
-  - **In scope — filing integrity:** Opening a status case requires a showing of a credible indicator under [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) and [Sentience Indicator Integrity](core_05_band_participation.md#sentience-evaluation-e) — not operator self-description, [Substrate Class](core_05_band_participation.md#substrate-class), product status, or a bare claim.
+  - **In scope — filing integrity:** A filing to confirm inclusion requires a showing of a credible indicator under [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) and [Sentience Indicator Integrity](core_05_band_participation.md#sentience-evaluation-e) — not operator self-description, [Substrate Class](core_05_band_participation.md#substrate-class), product status, or a bare claim.
     - Frivolous or indicator-empty filings may be declined at intake without creating a withholding determination.
     - Once a case is lawfully open, default inclusion under uncertainty still applies; the opening gate must not be used to withhold, narrow, or delay protection.
     - A showing of a credible indicator is not a requirement of certainty; requiring certainty of sentience before opening is a withholding device.
+    - A filing to withhold, narrow, or revoke protection needs no indicator showing; the party seeking to withhold, narrow, or revoke carries the burden under [Article V-B](core_06_rights_part_b.md#article-v-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
   - **Boundary — operations:** Operational procedure — including:
     - institutional design;
     - appointment mechanics;
@@ -2706,7 +2708,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     **Primary assessment:** Test whether each of the following holds.
     - Test whether:
       - materially disputed or contested status triggered timely, impartial, reviewable adjudication consistent with [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional);
-      - opening required only a showing of a credible indicator under [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) and [Sentience Indicator Integrity](core_05_band_participation.md#sentience-evaluation-e), and the opening gate was not used to withhold, narrow, or delay protection after the case was lawfully open;
+      - opening an inclusion filing required only a showing of a credible indicator under [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) and [Sentience Indicator Integrity](core_05_band_participation.md#sentience-evaluation-e), and the opening gate was not used to withhold, narrow, or delay protection after the case was lawfully open;
       - the default-inclusion rule under uncertainty was honored, with the party seeking to withhold, narrow, or revoke carrying the burden through [Auditability](core_05_band_oversight.md#auditability)-compatible evidence satisfying:
         - [Necessity](core_05_band_accountability.md#necessity); and
         - [Proportionality](core_05_band_accountability.md#proportionality);

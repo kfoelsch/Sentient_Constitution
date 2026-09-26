@@ -718,7 +718,7 @@ A case may move from one forum family to another only when the receiving family 
   - the **burden** on the party seeking to withhold or narrow protection;
   - the **time-bounding** and **mandatory periodic review** of declassification determinations; and
   - the **reversibility** of wrongful determinations.
-- **Filing integrity:** Opening a status case requires the **Article V-B** (*Sentience-Status Adjudication Floor*) filing-integrity showing — a credible indicator under **Sentience Evaluation** / **Sentience Indicator Integrity**, not operator self-description, substrate class, product status, or a bare claim. Declining a frivolous or indicator-empty filing at intake is not a withholding determination. Once a case is lawfully open, this gate must not be used to withhold, narrow, or delay protection.
+- **Filing integrity:** A filing to confirm inclusion requires the **Article V-B** (*Sentience-Status Adjudication Floor*) filing-integrity showing — a credible indicator under **Sentience Evaluation** / **Sentience Indicator Integrity**, not operator self-description, substrate class, product status, or a bare claim. Declining a frivolous or indicator-empty filing at intake is not a withholding determination. Once a case is lawfully open, this gate must not be used to withhold, narrow, or delay protection. A filing to withhold, narrow, or revoke protection needs no indicator showing; the filer carries the burden under **Article V-B** instead.
 - **Intake-gate audit:**
   - Every filing declined at intake must be logged with the indicator cited and the reason for decline.
   - The **Integrity** family samples that log on a published cadence.

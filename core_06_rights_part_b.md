@@ -189,7 +189,7 @@ This Article sets out the floor of inherent dignity and equal standing:
 
 *In plain terms: when an entity's sentience is in doubt, it gets a fair hearing first and is treated as included by default — the burden of denying protection rests on whoever wants to withhold it, and a wrongful exclusion must be reversible.*
 
-This Article sets out how disputed sentience status is adjudicated, from default inclusion through burden, remedy, and representation, and how a case is opened:
+This Article sets out how disputed sentience status is adjudicated, from default inclusion through burden, remedy, and representation, and how each kind of case is filed:
 
 - **Adjudication right:** Every entity whose sentience status is materially disputed or contested has the right to a timely, impartial, and reviewable sentience-status adjudication before constitutional protections that depend on that status are granted, withdrawn, or narrowed.
   - The right runs under **Sentience Non-Exclusion** and does not turn on origin, form, substrate class, or adopter convenience.
@@ -221,10 +221,16 @@ This Article sets out how disputed sentience status is adjudicated, from default
   
   A status filing made by an operator on behalf of its own product is reviewed for taxonomy-of-convenience in the inclusion direction on the same terms this Article applies to exclusion. Where the entity's status is contested or affirmed, the compatible system-level measure is containment that preserves the entity — not destructive disposition, which is governed by **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) and **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*) preservation rules.
 - <a id="anti-substitution-sentience-status"></a>**Anti-substitution:** A certification badge or record, LEQU or standing score, competency bar or clearance, standing lock, substrate label, or product classification is not a sentience-status determination. Who counts is decided only through this Article, [**Def.P1**](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster), and [Chapter Twelve §5](core_12_forum.md#5-escalation-and-certification) (*Escalation and certification*).
-- **Opening a case (filing integrity):** To open a status case, someone must show at least one credible sign that the entity may be sentient, judged under **Sentience Evaluation** and **Sentience Indicator Integrity** (Chapter Five). An operator's description of its own product, a substrate label, a product category, or a bare claim is not enough on its own.
-  - This is a low bar, not a demand for proof. Requiring certainty that an entity is sentient before a case can open is a way of withholding protection, and is not allowed.
-  - A filing that shows no credible sign may be turned away at intake. Turning it away is not a ruling that the entity is not sentient, and it does not withhold any protection.
-  - Once a case is open, the entity is treated as included while the question remains uncertain. The opening step may not be used to deny, narrow, or delay that protection.
+- **Filing to confirm inclusion (filing integrity):** Anyone, including the entity itself or its representative, may file to have an entity's inclusion made official. One credible sign that the entity may be sentient is enough, judged under **Sentience Evaluation** and **Sentience Indicator Integrity** (Chapter Five). This is a low bar, not a demand for proof.
+  - An operator's description of its own product, a substrate label, a product category, or a bare claim is not a credible sign on its own.
+  - Once the filing is accepted, the entity is treated as included while the case runs.
+  - A filing that shows no credible sign may be turned away at intake. That is not a ruling that the entity is not sentient, and it does not take away any protection the entity already has.
+  - Requiring certainty of sentience before a case can open is a way of withholding protection, and is not allowed.
+- **Filing to withhold or narrow:** A party that wants to treat an entity as not sentient, or to narrow or revoke its protection, must file and carry the burden under *Burden and proportionality* above.
+  - No credible-sign showing is needed to open this kind of case; the burden stays on the filer throughout.
+  - The entity keeps its current protection until the case is decided.
+  - The parent system or operator may not be the only filer, the only witness, or the only source of evidence (*Independent representation* above).
+  - Any decision to withhold or narrow must meet *Scope and time-bound effect* above.
 - **Non-conflation:** This Article states the Rights-Floor *adjudication* right.
   - Operational procedure — institutional design, appointment mechanics, filing conditions, and sequencing — routes to **Chapter Twelve** ([Technical Forum Domains](core_12_forum.md#42-technical-forum-domains) as default lead under the [Chapter Twelve §5 Sentience-status adjudication hook](core_12_forum.md#5-escalation-and-certification)) and to implementation text under the **Chapter Seventeen** incorporation discipline.
   - That implementation text must not be read to narrow this floor.

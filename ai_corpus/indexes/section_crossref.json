@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-26T17:01:42+00:00",
+  "generated_at": "2026-09-26T17:05:22+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
@@ -49444,7 +49444,7 @@
       "source_anchor": "#sentience-status-adjudication-constitutional",
       "target_file": "core_06_rights_part_b.md",
       "target_anchor": "#article-v-b-sentience-status-adjudication-floor",
-      "count": 2
+      "count": 3
     },
     {
       "source_file": "core_05_band_participation.md",

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-26T17:01:41+00:00",
+  "generated_at": "2026-09-26T17:05:21+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -4970,7 +4970,7 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 65,
+            "count": 66,
             "anchors": [
               "#article-ix-a-agency-and-freedom-from-manipulation",
               "#article-ix-b-stakeholder-role-and-participation-rights",
