@@ -31,6 +31,7 @@
 </details>
 
 <br>
+
 ## CJS-0: Registry and reading rules
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

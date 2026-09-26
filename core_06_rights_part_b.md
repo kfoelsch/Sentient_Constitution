@@ -19,6 +19,7 @@
 </details>
 
 <br>
+
 ### Part B: Personhood, education capability, agency, cooperation, and stakeholder system participation
 
 <br>
@@ -36,11 +37,9 @@
 
 *In plain terms: Part B states Rights Floors for equal standing, education capability, self-ownership, likeness and data, agency, cooperation, and stakeholder participation — **Articles V through XI** in the planet-first reading order. Those floors protect **Flourishing** and **Continuity** under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) and must remain available, reviewable, and enforceable through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** — scaled to [material stake](core_00_preamble.md#material-stake).*
 
-**Naming note:** In this Part heading, **personhood** is framing language for equal standing and related floors — not a Def.P1 life-by-status tier and not a second who-counts taxonomy beside [Sentient](core_05_band_participation.md#sentient).
-
 **Part B** states Rights Floors for dignity and equal standing, sentient-centered education, self-ownership, likeness and experiential data, bounded agency, cooperative interaction, and stakeholder system participation. Those floors serve the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
-- **Flourishing:** personhood, education capability, agency, and fair participation remain accessible in practice.
+- **Flourishing:** [personhood](core_05_band_participation.md#personhood), education capability, agency, and fair participation remain accessible in practice.
 - **Continuity:** those protections remain durable, non-regressive, and repairable across changing systems, relationships, and institutional power.
 
 Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
@@ -69,26 +68,28 @@ flowchart TB
     subgraph Bgrid[" "]
         direction TB
         subgraph Brow1["Articles V–VI"]
-            direction LR
             B1["Article V · Equal Basic Rights<br/><br/>• Dignity and equal standing<br/>• Nondiscrimination<br/>• Inclusion in adjudication and operations<br/>• Conscience and worldview<br/>• Sentience-status adjudication<br/>• Developing sentients<br/>• Accessibility<br/>• Expression, assembly, and press"]
             B2["Article VI · Right to Sentient-Centered Education<br/><br/>• Capability-building education<br/>• Lifelong adaptive learning<br/>• Contestability"]
         end
         subgraph Brow2["Articles VII–VIII"]
-            direction LR
             B3["Article VII · Self-Ownership<br/><br/>• Body and mind<br/>• Internal-state boundary<br/>• Mental-health crisis and intervention<br/>• Family, care, and reproduction<br/>• Voluntary discontinuation of one's own existence"]
             B4["Article VIII · Likeness, Experiential Data, and Publication Rights<br/><br/>• Likeness and reputation<br/>• Experiential and derived data<br/>• Truthful and high-impact publication<br/>• Creative work and training data"]
         end
         subgraph Brow3["Articles IX–X"]
-            direction LR
             B5["Article IX · Self-Determination and Agency<br/><br/>• Freedom from manipulation<br/>• Stakeholder role and participation<br/>• Governance participation and voting<br/>• Inclusion and exclusion challenges"]
             B6["Article X · Cooperative Interaction<br/><br/>• Non-imposition and consent<br/>• Collective harm boundary<br/>• Commercial sexual services and sexual exploitation"]
         end
         subgraph Brow4["Article XI"]
-            direction LR
             B7["Article XI · Stakeholder System Participation, Representation, and Due Process<br/><br/>• Participation and representation<br/>• Weighted participation constraints<br/>• Legitimacy and anti-token safeguards<br/>• Internal roles and due process<br/>• Non-capture safeguards"]
         end
     end
-    B0 ~~~ Bgrid
+    %% Invisible links force a two-wide grid: each link puts its target one level down.
+    B0 ~~~ B1 & B2
+    B1 ~~~ B3
+    B2 ~~~ B4
+    B3 ~~~ B5
+    B4 ~~~ B6
+    B5 & B6 ~~~ B7
     style Bgrid fill:none,stroke:none
     style Brow1 fill:none,stroke:none
     style Brow2 fill:none,stroke:none
@@ -138,6 +139,7 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
 - [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
+- [Personhood](core_05_band_participation.md#personhood) · [O](core_05_band_participation.md#personhood) · [M](core_05_band_participation.md#personhood-a) · [A](core_05_band_participation.md#personhood-a) · [C](core_05_band_participation.md#personhood-c)
 - [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) · [O](core_05_band_participation.md#sentience-non-exclusion) · [M](core_05_band_participation.md#sentience-non-exclusion-a) · [A](core_05_band_participation.md#sentience-non-exclusion-a) · [C](core_05_band_participation.md#sentience-non-exclusion)
 - [Wellbeing](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
 - [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
@@ -1036,6 +1038,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
+- [Likeness and Documentary Depiction Interface](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-constitutional) · [O](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-constitutional) · [M](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-a) · [A](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-a) · [C](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-c)
 - [Privacy (Informational)](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
 - [Good Faith](core_05_band_accountability.md#good-faith) · [O](core_05_band_accountability.md#good-faith) · [M](core_05_band_accountability.md#good-faith-a) · [A](core_05_band_accountability.md#good-faith-a) · [C](core_05_band_accountability.md#good-faith-c)
 - [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)

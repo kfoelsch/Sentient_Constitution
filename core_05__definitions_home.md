@@ -250,6 +250,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional)
 - [Participant Standing](core_05_band_accountability.md#participant-standing-constitutional)
 - [Participation](core_05_apex_participation_leg.md#participation-constitutional)
+- [Personhood](core_05_band_participation.md#personhood)
 - [Press and Journalistic Activity](core_05_band_oversight.md#press-and-journalistic-activity-constitutional)
 - [Primary-Stakes Routing](core_05_band_accountability.md#primary-stakes-routing)
 - [Privacy (Informational)](core_05_band_continuity.md#privacy-informational)

@@ -3244,14 +3244,35 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 
 ##### Likeness and Documentary Depiction Interface
 
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Owner floor: [Article VIII-A](core_06_rights_part_b.md#article-viii-a-self-ownership-of-likeness-and-reputation) (*Self-Ownership of Likeness and Reputation*).
+- Cluster component: [Def.C1 *Labor and Economic Floor*](core_05_band_continuity.md#labor-and-economic-floor-cluster).
+- Read with: [Personhood](core_05_band_participation.md#personhood), [Privacy (Informational)](core_05_band_continuity.md#privacy-informational), [Creative Work Attribution](core_05_band_continuity.md#creative-work-attribution-constitutional), and [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing).
+
+</details>
+
+<br>
+
+*In plain terms: your likeness is how others recognize you — your appearance and your voice, whether recorded, edited, or generated. This entry is the home for what "likeness" means across the Constitution, and for how depicting someone in reporting or documentary work interacts with their control over it.*
+
 - **What it is**
-  - **In scope:** The interaction between publication and recognizably identifiable likeness or voice, including:
+  - **In scope — likeness:** A sentient's **likeness** is any depiction of that sentient's appearance, voice, or comparable identity-bearing features that is recognizably identifiable as that sentient, whether the depiction is:
+    - recorded or captured;
+    - edited, reconstructed, or composited; or
+    - generated or synthetic and credibly presented as, or reasonably taken to be, that sentient.
+
+    For a sentient without a fixed physical form, appearance includes the avatar, interface presentation, or other form by which that sentient is recognized. This entry is the canonical home for **likeness** as used in **Article VIII-A** (*Self-Ownership of Likeness and Reputation*) and elsewhere in this corpus.
+  - **In scope — publication interface:** The interaction between publication and recognizably identifiable likeness or voice, including:
     - depiction of a sentient in documentary, reporting, or comparable factual framing;
     - synthetic or generated depiction held out as authentic; and
     - voice and comparable identity-bearing modalities where a sentient remains reasonably identifiable.
   - **Out of scope:**
     - non-identifiable generic imagery or anonymized depiction that cannot reasonably identify a sentient;
-    - fictional characters not held out as a real sentient.
+    - coincidental resemblance that is not presented as, and would not reasonably be taken to be, a particular sentient;
+    - fictional characters not held out as a real sentient;
+    - a sentient's name, record, or reputation standing alone — governed by the reputation clause of **Article VIII-A** and by [Privacy (Informational)](core_05_band_continuity.md#privacy-informational).
 <a id="likeness-and-documentary-depiction-interface-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Flourishing measurement family](core_05_apex_flourishing_aim.md#flourishing-measurement-family) and [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Can sentients and systems endure — ecologically, dependably, and across failure?*

@@ -368,6 +368,59 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
 
 ---
 
+<a id="personhood"></a>
+
+#### Personhood
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [Article V-A: Dignity and Equal Moral Standing](core_06_rights_part_b.md#article-v-a-dignity-and-equal-moral-standing); [Article VII-A: Self-Ownership of Body and Mind](core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind); Chapter Six **Part B** Rights Floors (**Articles V–XI**).
+- Read with: [Sentient](core_05_band_participation.md#sentient), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Constitutional Community](core_05_band_participation.md#constitutional-community), [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), and [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing).
+
+</details>
+
+<br>
+
+*In plain terms: personhood is the standing of being someone, not something. Every sentient holds it fully and equally. It is not earned by capability, lost through dependence, or handed out to organizations, brands, or natural systems by reinterpretation.*
+
+- **What it is**
+  - **In scope:** The constitutional standing of a [Sentient](core_05_band_participation.md#sentient) as a holder of rights in its own right — a subject of this Constitution, not an object, resource, or instrument of others. Personhood:
+    - attaches to every [Sentient](core_05_band_participation.md#sentient), equally, under [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing);
+    - carries full Chapter Six Rights-Floor attachment and membership in [Constitutional Community](core_05_band_participation.md#constitutional-community); and
+    - includes standing to hold one's own rights and to contest their denial through [Contestability](core_05_band_accountability.md#contestability).
+  - **Boundary — who holds it:** Who holds personhood is settled only by [Sentient](core_05_band_participation.md#sentient) and the who-counts rules of [Def.P1 *Animal Life, Sentient Life, and Sentience Status*](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster). Personhood:
+    - adds no separate test, threshold, or evidence burden;
+    - is not a tier of [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) — it names the standing that affirmed [Sentient](core_05_band_participation.md#sentient) status carries; and
+    - remains subject to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+  - **Boundary — capability:** [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional) and **Developing Sentient** rules may scale how rights are exercised. They do not scale, suspend, or divide personhood.
+  - **Out of scope:**
+    - legal personality or entity status that an external legal order gives institutions, corporations, systems, or other organizational forms so they can operate — that status is governed by applicable law and this Constitution's institutional rules, and does not make the entity a Chapter Six rights-holder;
+    - natural systems and ecosystems, whose interests are protected under [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing) rather than through personhood — extending personhood to them is a question for additive expansion under [Chapter Fifteen §1](core_15_expansion_supremacy.md#1-additive-expansion-permitted), not for interpretation;
+    - [Animal Life](core_05_band_participation.md#animal-life-constitutional) and [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) cases with no affirmed-sentience attachment, which keep the protections of those tiers;
+    - [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) cases while status remains open — those protections apply until [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) closes status; or
+    - everyday, philosophical, or religious uses of the word "personhood" that are not about constitutional standing.
+<a id="personhood-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether each sentient is treated as the holder of its own rights — or handled as property, a resource, or an instrument of others.
+
+    **Primary assessment:** Look for:
+    - treatment of a sentient as owned, transferable, or disposable;
+    - rights-holding made conditional on capability, productivity, origin, role, or status; and
+    - labels or intermediate categories that withhold rights-holding from an affirmed [Sentient](core_05_band_participation.md#sentient).
+
+    Test any restriction on the exercise of rights under [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality); a restriction on exercise is never a reduction of personhood.
+<a id="personhood-c"></a>
+- **What must hold**
+  - **Primary failure:** denying, suspending, or grading the personhood of an affirmed [Sentient](core_05_band_participation.md#sentient), including:
+    - treating the sentient as property, a resource, or an instrument; or
+    - making personhood depend on capability, origin, substrate, role, or status —
+
+    contrary to **Article V-A** (*Dignity and Equal Moral Standing*), **Article VII-A** (*Self-Ownership of Body and Mind*), and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+  - **Secondary failure:** creating a personhood test, tier, or threshold apart from [Sentient](core_05_band_participation.md#sentient) — whether to narrow who holds personhood or to extend it by interpretation to institutions, organizations, systems, or natural systems.
+
+---
+
 ### Participation: Semi-independent terms
 
 <a id="assembly-collective-organization-institutional-formation-cluster"></a>

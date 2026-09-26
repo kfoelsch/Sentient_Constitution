@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **620** of **886** headings carry a gloss (70%).
+Coverage: **622** of **887** headings carry a gloss (70%).
 
 ## Contents
 
@@ -25,10 +25,10 @@ Coverage: **620** of **886** headings carry a gloss (70%).
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05_apex_participation_leg.md` (3/4 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05_apex_timeliness_leg.md` (3/4 glossed)
 - [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (72/84 glossed)
-- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (24/84 glossed)
+- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (25/84 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (12/17 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (27/37 glossed)
-- [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (51/66 glossed)
+- [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (52/67 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05_band_performance.md` (2/2 glossed)
 - [CHAPTER SEVEN: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES](#chapter-seven-functional-independence-and-segregation-of-duties) — `core_07_functional_independence_segregation_of_duties.md` (8/9 glossed)
 - [CHAPTER EIGHT, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-eight-part-a-system-alignment-certification--evaluation) — `core_08_a_system_alignment_certification_evaluation.md` (21/28 glossed)
@@ -1654,7 +1654,7 @@ an Autonomous Coercion Tool restricts, pressures, or manipulates sentients — i
 
 ## Continuity Constitutional Definitions
 
-Source file: [`core_05_band_continuity.md`](../../core_05_band_continuity.md) · 24/84 headings glossed
+Source file: [`core_05_band_continuity.md`](../../core_05_band_continuity.md) · 25/84 headings glossed
 
 #### Continuity: Independent terms
 
@@ -2036,7 +2036,7 @@ every working sentient has a right to real time off — enough rest and recupera
 
 ###### Likeness and Documentary Depiction Interface
 
-*(no plain-terms gloss in source)*
+your likeness is how others recognize you — your appearance and your voice, whether recorded, edited, or generated. This entry is the home for what "likeness" means across the Constitution, and for how depicting someone in reporting or documentary work interacts with their control over it.
 
 [Source](../../core_05_band_continuity.md#likeness-and-documentary-depiction-interface-constitutional)
 
@@ -2476,7 +2476,7 @@ outcomes a careful analyst using known methods could identify before acting — 
 
 ## Participation Constitutional Definitions
 
-Source file: [`core_05_band_participation.md`](../../core_05_band_participation.md) · 51/66 headings glossed
+Source file: [`core_05_band_participation.md`](../../core_05_band_participation.md) · 52/67 headings glossed
 
 #### Participation: Independent terms
 
@@ -2531,6 +2531,12 @@ life-supporting natural systems — including Earth's biosphere — have continu
 do not force beliefs or trap unwanted contact on others in associational life. Patterned harassment, bullying, or unreasonable attention-capture that degrades dignity, safety, equal participation, or agency is out of bounds.
 
 [Source](../../core_05_band_participation.md#non-imposition-cooperative-interaction)
+
+##### Personhood
+
+personhood is the standing of being someone, not something. Every sentient holds it fully and equally. It is not earned by capability, lost through dependence, or handed out to organizations, brands, or natural systems by reinterpretation.
+
+[Source](../../core_05_band_participation.md#personhood)
 
 #### Participation: Semi-independent terms
 

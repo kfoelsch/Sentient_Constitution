@@ -14,6 +14,7 @@
 </details>
 
 <br>
+
 ### 1. Назначение и роль
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>

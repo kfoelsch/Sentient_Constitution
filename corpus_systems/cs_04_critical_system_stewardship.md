@@ -396,7 +396,7 @@ Assess criticality from **actual dependency and substitutability**, not ownershi
 
 Some coordination layers can become **private chokepoints** even when they are not government bodies — including **payments**, **identity and credentials**, **core compute or model access**, **messaging and calls**, **hosting and DNS**, **application distribution**, and **search or discovery** where switching costs are high.
 
-Where a **Class A**, **Class B**, or **Class C** system or institution depends on such a layer for **survival**, **healthcare**, **refuge**, **political participation**, **remedy**, or **non-degrading continuity of personhood**, operators and **Critical System Stewards** must keep access continuous and process fair enough to stop **arbitrary** or **capture-driven** cutoffs.
+Where a **Class A**, **Class B**, or **Class C** system or institution depends on such a layer for **survival**, **healthcare**, **refuge**, **political participation**, **remedy**, or **non-degrading continuity of [personhood](../core_05_band_participation.md#personhood)**, operators and **Critical System Stewards** must keep access continuous and process fair enough to stop **arbitrary** or **capture-driven** cutoffs.
 
 Duties scale with dependency and class:
 

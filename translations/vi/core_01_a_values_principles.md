@@ -14,6 +14,7 @@
 </details>
 
 <br>
+
 ### 1. Mục đích và vai trò
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>

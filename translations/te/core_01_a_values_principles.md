@@ -14,6 +14,7 @@
 </details>
 
 <br>
+
 ### 1. ఉద్దేశం మరియు పాత్ర
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>

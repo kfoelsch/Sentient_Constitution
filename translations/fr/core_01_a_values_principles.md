@@ -14,6 +14,7 @@
 </details>
 
 <br>
+
 ### 1. Objet et rôle
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

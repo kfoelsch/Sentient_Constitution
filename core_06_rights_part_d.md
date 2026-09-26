@@ -19,6 +19,7 @@
 </details>
 
 <br>
+
 ### Part D: Justice, constitutional review, evolution, and transition
 
 <br>
@@ -42,17 +43,18 @@ flowchart TB
     subgraph Dgrid[" "]
         direction TB
         subgraph Drow1["Articles XXIII–XXIV"]
-            direction LR
             D1["Article XXIII · Conflict Resolution, Escalation, and Emergency Proportionality<br/><br/>• Justice objective and scope<br/>• Restitution and restorative accountability<br/>• Least-restrictive and time-bounded rules<br/>• Emergency continuation burden"]
             D2["Article XXIV · Timely Retrospective Review and Restorative Alignment<br/><br/>• Retrospective review and disclosure<br/>• Rights-collision procedure<br/>• Restorative alignment<br/>• Timely resolution and anti-delay"]
         end
         subgraph Drow2["Articles XXV–XXVI"]
-            direction LR
             D3["Article XXV · Constitutional Evolution and Non-Entrenchment<br/><br/>• Non-entrenchment and revisability<br/>• Periodic revalidation and transparent change"]
             D4["Article XXVI · Transition Governance, Continuity, and Re-Baselining<br/><br/>• Phased adoption and Rights Floor continuity<br/>• Transitional authority and reauthorization<br/>• Failure off-ramps, re-baselining, and traceability<br/>• Non-compliant property and systems"]
         end
     end
-    D0 ~~~ Dgrid
+    %% Invisible links force a two-wide grid: each link puts its target one level down.
+    D0 ~~~ D1 & D2
+    D1 ~~~ D3
+    D2 ~~~ D4
     style Dgrid fill:none,stroke:none
     style Drow1 fill:none,stroke:none
     style Drow2 fill:none,stroke:none

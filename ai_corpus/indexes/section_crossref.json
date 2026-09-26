@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-25T22:52:10+00:00",
+  "generated_at": "2026-09-26T00:39:16+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 15319,
+  "edge_count": 15349,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -18827,6 +18827,14 @@
       "source_header": "Definitions A-Z",
       "source_anchor": "#definitions-a-z",
       "target_file": "core_05_band_participation.md",
+      "target_anchor": "#personhood",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Definitions A-Z",
+      "source_anchor": "#definitions-a-z",
+      "target_file": "core_05_band_participation.md",
       "target_anchor": "#procedural-fairness-constitutional",
       "count": 1
     },
@@ -34435,8 +34443,8 @@
       "source_header": "Likeness and Documentary Depiction Interface",
       "source_anchor": "#likeness-and-documentary-depiction-interface-constitutional",
       "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#creative-work-attribution-constitutional",
-      "count": 2
+      "target_anchor": "#labor-and-economic-floor-cluster",
+      "count": 1
     },
     {
       "source_file": "core_05_band_continuity.md",
@@ -34444,7 +34452,23 @@
       "source_anchor": "#likeness-and-documentary-depiction-interface-constitutional",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#privacy-informational",
-      "count": 2
+      "count": 4
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Likeness and Documentary Depiction Interface",
+      "source_anchor": "#likeness-and-documentary-depiction-interface-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#creative-work-attribution-constitutional",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Likeness and Documentary Depiction Interface",
+      "source_anchor": "#likeness-and-documentary-depiction-interface-constitutional",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#personhood",
+      "count": 1
     },
     {
       "source_file": "core_05_band_continuity.md",
@@ -34452,7 +34476,7 @@
       "source_anchor": "#likeness-and-documentary-depiction-interface-constitutional",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#dignity-and-equal-moral-standing",
-      "count": 2
+      "count": 3
     },
     {
       "source_file": "core_05_band_continuity.md",
@@ -34460,6 +34484,14 @@
       "source_anchor": "#likeness-and-documentary-depiction-interface-constitutional",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#sentience-non-exclusion",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Likeness and Documentary Depiction Interface",
+      "source_anchor": "#likeness-and-documentary-depiction-interface-constitutional",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-viii-a-self-ownership-of-likeness-and-reputation",
       "count": 1
     },
     {
@@ -48056,6 +48088,158 @@
     },
     {
       "source_file": "core_05_band_participation.md",
+      "source_header": "Personhood",
+      "source_anchor": "#personhood",
+      "target_file": "core_05_apex_participation_leg.md",
+      "target_anchor": "#participation-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Personhood",
+      "source_anchor": "#personhood",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Personhood",
+      "source_anchor": "#personhood",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Personhood",
+      "source_anchor": "#personhood",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Personhood",
+      "source_anchor": "#personhood",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#sentient",
+      "count": 8
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Personhood",
+      "source_anchor": "#personhood",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#dignity-and-equal-moral-standing",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Personhood",
+      "source_anchor": "#personhood",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#constitutional-community",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Personhood",
+      "source_anchor": "#personhood",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#sentience-non-exclusion",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Personhood",
+      "source_anchor": "#personhood",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#natural-systems-standing",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Personhood",
+      "source_anchor": "#personhood",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#animal-life-sentient-life-and-sentience-status-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Personhood",
+      "source_anchor": "#personhood",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#treatment-of-life-by-status-subgroup",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Personhood",
+      "source_anchor": "#personhood",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#graduated-capability-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Personhood",
+      "source_anchor": "#personhood",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#animal-life-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Personhood",
+      "source_anchor": "#personhood",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#elevated-communicative-life-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Personhood",
+      "source_anchor": "#personhood",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#contested-sentient-life-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Personhood",
+      "source_anchor": "#personhood",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#sentience-status-adjudication-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Personhood",
+      "source_anchor": "#personhood",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-v-a-dignity-and-equal-moral-standing",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Personhood",
+      "source_anchor": "#personhood",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-vii-a-self-ownership-of-body-and-mind",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Personhood",
+      "source_anchor": "#personhood",
+      "target_file": "core_15_expansion_supremacy.md",
+      "target_anchor": "#1-additive-expansion-permitted",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_participation.md",
       "source_header": "Procedural Fairness",
       "source_anchor": "#procedural-fairness-constitutional",
       "target_file": "core_01_a_values_principles.md",
@@ -56243,6 +56427,30 @@
       "source_header": "Article V-A: Dignity and Equal Moral Standing",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
+      "target_anchor": "#personhood",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-A: Dignity and Equal Moral Standing",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#personhood-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-A: Dignity and Equal Moral Standing",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#personhood-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article V-A: Dignity and Equal Moral Standing",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
       "target_anchor": "#sentience-non-exclusion-a",
       "count": 2
     },
@@ -59235,6 +59443,30 @@
       "source_header": "Article VIII-A: Self-Ownership of Likeness and Reputation",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#likeness-and-documentary-depiction-interface-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article VIII-A: Self-Ownership of Likeness and Reputation",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#likeness-and-documentary-depiction-interface-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article VIII-A: Self-Ownership of Likeness and Reputation",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#likeness-and-documentary-depiction-interface-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article VIII-A: Self-Ownership of Likeness and Reputation",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
       "target_anchor": "#privacy-informational",
       "count": 2
     },
@@ -61667,7 +61899,7 @@
       "source_header": "Part B: Personhood, education capability, agency, cooperation, and stakeholder system participation",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
-      "target_anchor": "#sentient",
+      "target_anchor": "#personhood",
       "count": 1
     },
     {
@@ -119620,6 +119852,14 @@
       "source_anchor": "#cs-4-14-private-chokepoints-sentients-depend-on-access-continuity-and-non-capture",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#14-market-structure",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_04_critical_system_stewardship.md",
+      "source_header": "CS-4.14 Private chokepoints sentients depend on (access continuity and non-capture)",
+      "source_anchor": "#cs-4-14-private-chokepoints-sentients-depend-on-access-continuity-and-non-capture",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#personhood",
       "count": 1
     },
     {

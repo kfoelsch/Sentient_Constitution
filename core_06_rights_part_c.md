@@ -19,6 +19,7 @@
 </details>
 
 <br>
+
 ### Part C: Trustworthy systems, security and force limits, information integrity, verification, lifecycle, and resilience
 
 <br>
@@ -42,36 +43,40 @@ flowchart TB
     subgraph Cgrid[" "]
         direction TB
         subgraph Crow1["Articles XII–XIII"]
-            direction LR
             C1["Article XII · Right to Reliable and Trustworthy Systems<br/><br/>• Reliability baseline<br/>• Challenge, review, and redress<br/>• False trust limits<br/>• Incentive alignment<br/>• High-autonomy process integrity<br/>• Resilience and self-healing"]
             C2["Article XIII · Security, Intelligence, Force, and Autonomous Coercive Systems<br/><br/>• Covert-power limits<br/>• Use of force and armed conflict<br/>• Autonomous lethal and coercive systems"]
         end
         subgraph Crow2["Articles XIV–XV"]
-            direction LR
             C3["Article XIV · Info-Sphere Integrity<br/><br/>• Plurality and anti-monopoly<br/>• Transparency and contestability<br/>• Validation, reporting, and epistemic stewardship"]
             C4["Article XV · Audit, Transparency, and Independent Verification<br/><br/>• Observable evidence<br/>• Distributed oversight<br/>• Accessible verification"]
         end
         subgraph Crow3["Articles XVI–XVII"]
-            direction LR
             C5["Article XVI · System Lifecycle, Environments, and Reversibility<br/><br/>• Environment separation<br/>• Progressive deployment and reversibility<br/>• Misclassification and evasion consequences"]
             C6["Article XVII · Sandboxed Innovation, Experimentation, and Creative Freedom<br/><br/>• Sandboxed scope<br/>• Containment, disclosure, and opt-in<br/>• Transition to higher-obligation regimes<br/>• Innovation reward and anti-enclosure<br/>• Publication, review, and replication integrity"]
         end
         subgraph Crow4["Articles XVIII–XIX"]
-            direction LR
             C7["Article XVIII · Standing and Participation Status<br/><br/>• Standing distinctions<br/>• Contestability and restriction limits<br/>• Named-pathway eligibility, responsibility, and audit<br/>• Movement, refuge, and non-statelessness"]
             C8["Article XIX · Interoperability, Portability, Movement, Refuge, and Exit Integrity<br/><br/>• Portability<br/>• Reciprocal interoperability<br/>• Anti-lock-in<br/>• Movement, migration, refuge, and non-statelessness"]
         end
         subgraph Crow5["Articles XX–XXI"]
-            direction LR
             C9["Article XX · Comprehensibility and Complexity Stewardship<br/><br/>• Proportional comprehensibility<br/>• Complexity audit and modularity"]
             C10["Article XXI · Root Cause Analysis and Adaptive Response<br/><br/>• Diagnostic rigor and causal attribution<br/>• Auditability, challenge, and reversibility"]
         end
         subgraph Crow6["Article XXII"]
-            direction LR
             C11["Article XXII · Constitutional Interpretation, Review, and Anti-Capture Safeguards<br/><br/>• Bounded interpretive mandate<br/>• Composition, rotation, and conflict controls<br/>• Public reasons, challenge, and external review<br/>• Removal and non-entrenchment"]
         end
     end
-    C0 ~~~ Cgrid
+    %% Invisible links force a two-wide grid: each link puts its target one level down.
+    C0 ~~~ C1 & C2
+    C1 ~~~ C3
+    C2 ~~~ C4
+    C3 ~~~ C5
+    C4 ~~~ C6
+    C5 ~~~ C7
+    C6 ~~~ C8
+    C7 ~~~ C9
+    C8 ~~~ C10
+    C9 & C10 ~~~ C11
     style Cgrid fill:none,stroke:none
     style Crow1 fill:none,stroke:none
     style Crow2 fill:none,stroke:none

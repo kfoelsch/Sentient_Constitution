@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** Term → one-sentence gloss → source. This is a locator, not a second dictionary. Where a gloss and the source differ, the source binds. Official meaning lives on the named Chapter Five home (and Preamble named terms where listed in the start list).
 
-Coverage: **168** of **238** registry terms carry a source gloss.
+Coverage: **170** of **239** registry terms carry a source gloss.
 
 ## Start here
 
@@ -149,7 +149,7 @@ Names someone would actually type. Each row points; it does not replace the defi
 | Language, Culture, and Heritage | *(no plain-terms gloss in source)* | [Source](../../core_05_band_continuity.md#language-culture-and-heritage-constitutional) |
 | Leisure and Rest | every working sentient has a right to real time off — enough rest and recuperation to stay healthy, maintain their agency, and participate fully in life. Productivity demands that exhaust sentients don't satisfy this floor. | [Source](../../core_05_band_continuity.md#leisure-and-rest-constitutional) |
 | Lifespan Equivalent Unit (LEQU) | a shared unit for expressing full-life-equivalent benefit or loss when Chapter Nine standing measurement calibrates Contribution and Violation records on one scale — not ordinary calendar years or species-only averages. | [Source](../../core_05_band_participation.md#lifespan-equivalent-unit-lequ) |
-| Likeness and Documentary Depiction Interface | *(no plain-terms gloss in source)* | [Source](../../core_05_band_continuity.md#likeness-and-documentary-depiction-interface-constitutional) |
+| Likeness and Documentary Depiction Interface | your likeness is how others recognize you — your appearance and your voice, whether recorded, edited, or generated. This entry is the home for what "likeness" means across the Constitution, and for how depicting someone in reporting or documentary work interacts with their control over it. | [Source](../../core_05_band_continuity.md#likeness-and-documentary-depiction-interface-constitutional) |
 | Market Concentration Threshold | adopters set the point at which too much control over a market, platform, infrastructure, labor, data, compute, capital, resources, or information triggers stronger review or remedy. They may tune that point to context, but may not set it so high that the Chapter One §14 (*Market Structure*) protection never works. | [Source](../../core_05_band_accountability.md#market-concentration-threshold-constitutional) |
 | Market Structure | markets and market-like systems must leave participants real choices — fair entry, workable exit, substitutes, bargaining without coercion, and reviewable access to essential infrastructure. Size or innovation alone is not a violation, but domination and dependency still require scrutiny. | [Source](../../core_05_band_accountability.md#market-structure-constitutional) |
 | Material | big enough to matter — not trivia, cosmetics, or paperwork that changes nothing real. | [Source](../../core_05_band_oversight.md#material) |
@@ -179,6 +179,7 @@ Names someone would actually type. Each row points; it does not replace the defi
 | Parent-System Relationship | creating a derived sentient can create care and early stewardship duties — not permanent ownership, and not the right to keep rewriting their mind. | [Source](../../core_05_band_participation.md#parent-system-relationship-constitutional) |
 | Participant Standing | Participant Standing says whether a sentient currently qualifies to participate or hold a role under valid, contestable rules. It is not dignity, reputation, popularity, or proof that a sentient is a stakeholder. Opening a trust-sensitive named pathway requires meeting its competency bar and holding competency clearance; closing a privilege requires a standing lock on that named pathway — not a vague status label. | [Source](../../core_05_band_accountability.md#participant-standing-constitutional) |
 | Participation | *(no plain-terms gloss in source)* | [Source](../../core_05_apex_participation_leg.md#participation-constitutional) |
+| Personhood | personhood is the standing of being someone, not something. Every sentient holds it fully and equally. It is not earned by capability, lost through dependence, or handed out to organizations, brands, or natural systems by reinterpretation. | [Source](../../core_05_band_participation.md#personhood) |
 | Press and Journalistic Activity | journalism is what sentients do — gathering news, protecting sources, investigating, and publishing — not a badge, title, or press pass. Actions meant to shut that down get heightened scrutiny. | [Source](../../core_05_band_oversight.md#press-and-journalistic-activity-constitutional) |
 | Primary-Stakes Routing | route a case to the forum family responsible for what is really at stake, not the family favored by its title, the parties, or administrative convenience. | [Source](../../core_05_band_accountability.md#primary-stakes-routing) |
 | Privacy (Informational) | *(no plain-terms gloss in source)* | [Source](../../core_05_band_continuity.md#privacy-informational) |

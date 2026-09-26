@@ -14,6 +14,7 @@
 </details>
 
 <br>
+
 ### 1. จุดประสงค์และบทบาท
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>

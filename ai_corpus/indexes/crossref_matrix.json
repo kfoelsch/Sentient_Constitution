@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-25T22:52:09+00:00",
+  "generated_at": "2026-09-26T00:39:15+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -2550,7 +2550,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 57,
+            "count": 58,
             "anchors": [
               "#accessibility-constitutional",
               "#animal-life-constitutional",
@@ -2586,6 +2586,7 @@
               "#non-separation-constitutional",
               "#non-statelessness-constitutional",
               "#parent-system-relationship-constitutional",
+              "#personhood",
               "#procedural-fairness-constitutional",
               "#protected-characteristic-proxying-and-disparate-impact",
               "#protected-characteristics-constitutional",
@@ -3882,7 +3883,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 715,
+            "count": 719,
             "anchors": [
               "#anti-capture",
               "#anti-displacement-floor-constitutional",
@@ -3998,7 +3999,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 185,
+            "count": 187,
             "anchors": [
               "#accessibility-constitutional",
               "#binding-stakeholder-choice-cluster",
@@ -4014,6 +4015,7 @@
               "#lifespan-equivalent-unit-lequ",
               "#meaningful-agency",
               "#natural-systems-standing",
+              "#personhood",
               "#procedural-fairness-constitutional",
               "#protected-characteristic-proxying-and-disparate-impact",
               "#protected-characteristics-constitutional",
@@ -4054,7 +4056,7 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 21,
+            "count": 22,
             "anchors": [
               "#article-ix-a-agency-and-freedom-from-manipulation",
               "#article-v-b-nondiscrimination",
@@ -4062,6 +4064,7 @@
               "#article-vii-b-internal-state-boundary-and-type-n-protection",
               "#article-vii-c-mental-health-crisis-and-involuntary-intervention-floor",
               "#article-vii-e-voluntary-discontinuation-of-ones-own-existence",
+              "#article-viii-a-self-ownership-of-likeness-and-reputation",
               "#article-viii-b-experiential-and-derived-data-rights",
               "#article-viii-d-creative-work-training-data-use-and-anti-displacement",
               "#article-viii-likeness-experiential-data-and-publication-rights",
@@ -4793,7 +4796,7 @@
           },
           {
             "file": "core_05_apex_participation_leg.md",
-            "count": 55,
+            "count": 56,
             "anchors": [
               "#participation-constitutional",
               "#participation-measurement-family",
@@ -4802,7 +4805,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 155,
+            "count": 158,
             "anchors": [
               "#accountability-contestability-semi-independent",
               "#adjudication-and-dispute-resolution-constitutional",
@@ -4883,7 +4886,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 676,
+            "count": 700,
             "anchors": [
               "#accessibility-constitutional",
               "#agency-consent-and-anti-coercion-semi-independent",
@@ -4966,7 +4969,7 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 63,
+            "count": 65,
             "anchors": [
               "#article-ix-a-agency-and-freedom-from-manipulation",
               "#article-ix-b-stakeholder-role-and-participation-rights",
@@ -5051,6 +5054,13 @@
             "anchors": [
               "#41-entitlement-and-eligibility",
               "#43-decision-resolution-requirements-for-binding-stakeholder-choice"
+            ]
+          },
+          {
+            "file": "core_15_expansion_supremacy.md",
+            "count": 1,
+            "anchors": [
+              "#1-additive-expansion-permitted"
             ]
           },
           {
@@ -7724,7 +7734,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 160,
+            "count": 165,
             "anchors": [
               "#anti-capture",
               "#anti-capture-a",
@@ -7750,6 +7760,9 @@
               "#language-culture-and-heritage-constitutional",
               "#language-culture-and-heritage-constitutional-a",
               "#language-culture-and-heritage-constitutional-c",
+              "#likeness-and-documentary-depiction-interface-a",
+              "#likeness-and-documentary-depiction-interface-c",
+              "#likeness-and-documentary-depiction-interface-constitutional",
               "#privacy-informational",
               "#privacy-informational-a",
               "#privacy-informational-c",
@@ -7839,7 +7852,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 517,
+            "count": 522,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -7908,6 +7921,9 @@
               "#parent-system-relationship-constitutional",
               "#parent-system-relationship-constitutional-a",
               "#parent-system-relationship-constitutional-c",
+              "#personhood",
+              "#personhood-a",
+              "#personhood-c",
               "#procedural-fairness-constitutional",
               "#procedural-fairness-constitutional-a",
               "#procedural-fairness-constitutional-c",
@@ -13147,6 +13163,13 @@
               "#material-impact",
               "#material-impact-a",
               "#material-impact-c"
+            ]
+          },
+          {
+            "file": "core_05_band_participation.md",
+            "count": 1,
+            "anchors": [
+              "#personhood"
             ]
           },
           {

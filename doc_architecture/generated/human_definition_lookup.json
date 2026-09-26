@@ -117,7 +117,7 @@
       "href": "../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction"
     }
   ],
-  "term_count": 238,
+  "term_count": 239,
   "terms": [
     {
       "term": "Accessibility",
@@ -935,7 +935,7 @@
       "term": "Likeness and Documentary Depiction Interface",
       "file": "core_05_band_continuity.md",
       "anchor": "#likeness-and-documentary-depiction-interface-constitutional",
-      "plain_terms": null,
+      "plain_terms": "your likeness is how others recognize you — your appearance and your voice, whether recorded, edited, or generated. This entry is the home for what \"likeness\" means across the Constitution, and for how depicting someone in reporting or documentary work interacts with their control over it.",
       "href": "../../core_05_band_continuity.md#likeness-and-documentary-depiction-interface-constitutional"
     },
     {
@@ -1140,6 +1140,13 @@
       "anchor": "#participation-constitutional",
       "plain_terms": null,
       "href": "../../core_05_apex_participation_leg.md#participation-constitutional"
+    },
+    {
+      "term": "Personhood",
+      "file": "core_05_band_participation.md",
+      "anchor": "#personhood",
+      "plain_terms": "personhood is the standing of being someone, not something. Every sentient holds it fully and equally. It is not earned by capability, lost through dependence, or handed out to organizations, brands, or natural systems by reinterpretation.",
+      "href": "../../core_05_band_participation.md#personhood"
     },
     {
       "term": "Press and Journalistic Activity",
