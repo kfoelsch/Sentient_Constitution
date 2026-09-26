@@ -54,7 +54,7 @@ This file is the institutional implementation home for **CI-19** (*Vulnerable pe
 
 *Shared rules live elsewhere.*
 - [**CJS-3.17**](../corpus_joint_structure/cjs_03c_continuity_operations.md) (*interoperability, portability, and exit-integrity terms*) — high-vulnerability personal-service pathway integrity.
-- **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*); **Articles X-A**, **V-B**, **I-C**, **IV-A**, and **IV-C**; Chapter Five (*Protected Characteristics*, *Consent*, *Coercion and Manipulation*).
+- **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*); **Articles X-A**, **V-C**, **I-C**, **IV-A**, and **IV-C**; Chapter Five (*Protected Characteristics*, *Consent*, *Coercion and Manipulation*).
 - **CS-3** classification examples; **CS-4** stewardship scaling where platform, data, or system stewardship is material.
 - This file does not repeat those floors.
 

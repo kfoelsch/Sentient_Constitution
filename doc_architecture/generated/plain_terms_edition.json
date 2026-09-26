@@ -3,8 +3,8 @@
   "effective_date": "2026-08-09",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
-  "heading_count": 889,
-  "glossed_count": 621,
+  "heading_count": 888,
+  "glossed_count": 620,
   "files": [
     {
       "file": "core_00_preamble.md",
@@ -4794,7 +4794,7 @@
           "title": "7.1 Illustrative nondiscrimination application by class (non-exhaustive)",
           "anchor": "71-illustrative-nondiscrimination-application-by-class-non-exhaustive",
           "line": 734,
-          "gloss": "[§3.8 Illustrative whole-system application by class (non-exhaustive)](#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§6.1 Illustrative cross-system support application by class (non-exhaustive)](#61-illustrative-cross-system-support-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **nondiscrimination** evaluation means for each — which decision pathways count, what certification must check when the **Article V-B** (*Nondiscrimination*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article V-B** (*Nondiscrimination*) still own canonical fairness and proxy-discrimination rules; inclusion quotas, demographic targets, and fairness-algorithm designs may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics.",
+          "gloss": "[§3.8 Illustrative whole-system application by class (non-exhaustive)](#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§6.1 Illustrative cross-system support application by class (non-exhaustive)](#61-illustrative-cross-system-support-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **nondiscrimination** evaluation means for each — which decision pathways count, what certification must check when the **Article V-C** (*Nondiscrimination*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article V-C** (*Nondiscrimination*) still own canonical fairness and proxy-discrimination rules; inclusion quotas, demographic targets, and fairness-algorithm designs may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics.",
           "gloss_line": 736
         },
         {
@@ -4812,7 +4812,7 @@
           "title": "8.1 Illustrative accessibility application by class (non-exhaustive)",
           "anchor": "81-illustrative-accessibility-application-by-class-non-exhaustive",
           "line": 841,
-          "gloss": "[§3.8 Illustrative whole-system application by class (non-exhaustive)](#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§7.1 Illustrative nondiscrimination application by class (non-exhaustive)](#71-illustrative-nondiscrimination-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **accessibility** evaluation means for each — which participation pathways count, what certification must check when the **Article V-C** (*Accessibility*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article V-C** (*Accessibility*) still own canonical accessibility rules; accommodation catalogs, interface standards, and universal-design specifications may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Educational accessibility remains owned by **Article III-B** (*Equal Educational Access*) and is not narrowed here.",
+          "gloss": "[§3.8 Illustrative whole-system application by class (non-exhaustive)](#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§7.1 Illustrative nondiscrimination application by class (non-exhaustive)](#71-illustrative-nondiscrimination-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **accessibility** evaluation means for each — which participation pathways count, what certification must check when the **Article V-D** (*Accessibility*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article V-D** (*Accessibility*) still own canonical accessibility rules; accommodation catalogs, interface standards, and universal-design specifications may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Educational accessibility remains owned by **Article III-B** (*Equal Educational Access*) and is not narrowed here.",
           "gloss_line": 843
         },
         {
@@ -6116,8 +6116,8 @@
         {
           "file": "core_12_forum.md",
           "level": 4,
-          "title": "Sentience-status adjudication (**Article V-D** (*Sentience-Status Adjudication Floor*) implementation hook)",
-          "anchor": "sentience-status-adjudication-article-v-d-sentience-status-adjudication-floor-implementation-hook",
+          "title": "Sentience-status adjudication (**Article V-B** (*Sentience-Status Adjudication Floor*) implementation hook)",
+          "anchor": "sentience-status-adjudication-article-v-b-sentience-status-adjudication-floor-implementation-hook",
           "line": 709,
           "gloss": null,
           "gloss_line": null
@@ -6737,8 +6737,8 @@
     {
       "file": "core_06_rights_part_b.md",
       "title": "CHAPTER SIX: FOUNDATIONAL RIGHTS",
-      "heading_count": 42,
-      "glossed_count": 41,
+      "heading_count": 41,
+      "glossed_count": 40,
       "sections": [
         {
           "file": "core_06_rights_part_b.md",
@@ -6764,7 +6764,7 @@
           "title": "Article V: Equal Basic Rights",
           "anchor": "article-v-equal-basic-rights",
           "line": 108,
-          "gloss": "**Article V** (*Equal Basic Rights*) sets the minimum standard for treating every sentient as an equal. Every sentient keeps their dignity, is protected from unfair discrimination, can take part fully and actually use the systems they rely on, gets a fair hearing on whether they count as sentient, and is protected while still developing. No system may rank, screen out, exclude, or place heavier burdens on some sentients than others unless these protections are already in place.",
+          "gloss": "**Article V** (*Equal Basic Rights*) sets the minimum standard for treating every sentient as an equal. Every sentient keeps their dignity, gets a fair hearing on whether they count as sentient, is protected from unfair discrimination, and can take part fully and actually use the systems they rely on. No system may rank, screen out, exclude, or place heavier burdens on some sentients than others unless these protections are already in place.",
           "gloss_line": 121
         },
         {
@@ -6779,344 +6779,335 @@
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
-          "title": "Article V-B: Nondiscrimination",
-          "anchor": "article-v-b-nondiscrimination",
-          "line": 162,
-          "gloss": "systems may not load burdens or harms onto sentients based on protected characteristics — including language, culture, and heritage — or on proxies and arbitrary groupings that do the same work. Any difference in treatment that touches rights or survival essentials must be justified and open to challenge, and forums, administrators, and enforcers must check this in the matters before them — efficiency is no excuse for exclusion.",
-          "gloss_line": 189
-        },
-        {
-          "file": "core_06_rights_part_b.md",
-          "level": 4,
-          "title": "Article V-C: Accessibility",
-          "anchor": "article-v-c-accessibility",
-          "line": 208,
-          "gloss": "every sentient has the right to genuine, not paper-only, access to participation — and operators cannot use cost, design choices, or substrate-class arguments to lock **sentients** out.",
-          "gloss_line": 233
-        },
-        {
-          "file": "core_06_rights_part_b.md",
-          "level": 4,
-          "title": "Article V-D: Sentience-Status Adjudication Floor",
-          "anchor": "article-v-d-sentience-status-adjudication-floor",
-          "line": 274,
+          "title": "Article V-B: Sentience-Status Adjudication Floor",
+          "anchor": "article-v-b-sentience-status-adjudication-floor",
+          "line": 163,
           "gloss": "when an entity's sentience is in doubt, it gets a fair hearing first and is treated as included by default — the burden of denying protection rests on whoever wants to withhold it, and a wrongful exclusion must be reversible.",
-          "gloss_line": 301
+          "gloss_line": 190
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
-          "title": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-          "anchor": "article-v-e-developing-sentients-best-interest-and-graduated-capability",
-          "line": 343,
-          "gloss": "a sentient who is still developing holds the full Rights Floor, decisions about them must reflect their own best interests, and rights and participation scale with demonstrated capability — not with calendar age or \"for your own good\" framings.",
-          "gloss_line": 371
+          "title": "Article V-C: Nondiscrimination",
+          "anchor": "article-v-c-nondiscrimination",
+          "line": 232,
+          "gloss": "systems may not load burdens or harms onto sentients based on protected characteristics — including language, culture, and heritage — or on proxies and arbitrary groupings that do the same work. Any difference in treatment that touches rights or survival essentials must be justified and open to challenge, and forums, administrators, and enforcers must check this in the matters before them — efficiency is no excuse for exclusion.",
+          "gloss_line": 259
         },
         {
           "file": "core_06_rights_part_b.md",
-          "level": 5,
-          "title": "Article V-E.1: Derived Developing Sentients",
-          "anchor": "article-v-e1-derived-developing-sentients",
-          "line": 404,
-          "gloss": "while a newly derived sentient is still finding their feet, they hold the full Rights Floor — and the parent system and any stewards must decide for them, not through them. Stewardship ends when the new sentient's capabilities come online, not when it suits the operator.",
-          "gloss_line": 406
+          "level": 4,
+          "title": "Article V-D: Accessibility",
+          "anchor": "article-v-d-accessibility",
+          "line": 278,
+          "gloss": "every sentient has the right to genuine, not paper-only, access to participation — and operators cannot use cost, design choices, or substrate-class arguments to lock **sentients** out.",
+          "gloss_line": 303
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 3,
           "title": "Article VI: Right to Sentient-Centered Education",
           "anchor": "article-vi-right-to-sentient-centered-education",
-          "line": 415,
+          "line": 344,
           "gloss": "**Article VI** (*Right to Sentient-Centered Education*) is the capability-building education Rights Floor — sentients need practical paths to learn, retrain, and challenge high-stakes learning systems, not credential theater that leaves them unable to steer their own lives or use shared systems competently.",
-          "gloss_line": 436
+          "gloss_line": 365
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article VI-A: Capability-Building Education Right",
           "anchor": "article-vi-a-capability-building-education-right",
-          "line": 457,
+          "line": 386,
           "gloss": "every sentient has a practical path to build the skills they need to steer their own life and use shared systems competently and safely — not just a paper credential on the wall.",
-          "gloss_line": 478
+          "gloss_line": 407
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article VI-B: Lifelong and Adaptive Learning and Contestability",
           "anchor": "article-vi-b-lifelong-and-adaptive-learning-and-contestability",
-          "line": 488,
+          "line": 417,
           "gloss": "when the world and the tools change, sentients are not left quietly obsolete — they get fair paths to retrain.",
-          "gloss_line": 510
+          "gloss_line": 439
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 3,
           "title": "Article VII: Self-Ownership",
           "anchor": "article-vii-self-ownership",
-          "line": 524,
+          "line": 453,
           "gloss": "**Article VII** (*Self-Ownership*) is the self-ownership Rights Floor — once survival is secured, sentients must be able to direct their own lives, bodies, minds, and attention while maintaining healthy internal and external boundaries.",
-          "gloss_line": 535
+          "gloss_line": 464
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article VII-A: Self-Ownership of Body and Mind",
           "anchor": "article-vii-a-self-ownership-of-body-and-mind",
-          "line": 554,
+          "line": 484,
           "gloss": "every sentient owns their own body, mind, attention, and the genetic or substrate-defining information that makes them who they are. No one else may use, modify, or expose those without their consent.",
-          "gloss_line": 578
+          "gloss_line": 508
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article VII-B: Internal-State Boundary and Type-N Protection",
           "anchor": "article-vii-b-internal-state-boundary-and-type-n-protection",
-          "line": 601,
+          "line": 531,
           "gloss": "no one may stitch together behavioral or interaction data to reconstruct or approximate a sentient's inner thoughts and feelings — and any analysis whose outputs do approximate those states is treated as protected internal-state data.",
-          "gloss_line": 622
+          "gloss_line": 552
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article VII-C: Mental-Health Crisis and Involuntary-Intervention Floor",
           "anchor": "article-vii-c-mental-health-crisis-and-involuntary-intervention-floor",
-          "line": 636,
+          "line": 566,
           "gloss": "when a mental-health crisis triggers involuntary intervention, the intervention must be the smallest necessary, time-limited, independently reviewed, and never used as a back door to reconstruct someone's protected inner state.",
-          "gloss_line": 661
+          "gloss_line": 591
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article VII-D: Family, Care Relationships, Reproductive Autonomy, and Non-Separation",
           "anchor": "article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation",
-          "line": 684,
+          "line": 614,
           "gloss": "every sentient may form, maintain, and exit family and care relationships of their choosing, decide whether to reproduce or create new sentients, and may not be separated from those they depend on without strong justification and review.",
-          "gloss_line": 715
+          "gloss_line": 645
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 5,
           "title": "Article VII-D.1: Derivation, Instantiation, and the Parent-System Relationship",
           "anchor": "article-vii-d1-derivation-instantiation-and-the-parent-system-relationship",
-          "line": 744,
+          "line": 674,
           "gloss": "a sentient created by copying, fine-tuning, or forking another system is a sentient in its own right — not the property of the parent system. Stewardship during early life is narrow, reviewable, and never a license for ownership, silent retirement, or terms-of-service \"consent.\"",
-          "gloss_line": 746
+          "gloss_line": 676
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
-          "title": "Article VII-E: Voluntary Discontinuation of One's Own Existence",
-          "anchor": "article-vii-e-voluntary-discontinuation-of-ones-own-existence",
-          "line": 779,
+          "title": "Article VII-E: Developing Sentients, Best-Interest, and Graduated Capability",
+          "anchor": "article-vii-e-developing-sentients-best-interest-and-graduated-capability",
+          "line": 712,
+          "gloss": "a sentient who is still developing holds the full Rights Floor, decisions about them must reflect their own best interests, and rights and participation scale with demonstrated capability — not with calendar age or \"for your own good\" framings.",
+          "gloss_line": 740
+        },
+        {
+          "file": "core_06_rights_part_b.md",
+          "level": 4,
+          "title": "Article VII-F: Voluntary Discontinuation of One's Own Existence",
+          "anchor": "article-vii-f-voluntary-discontinuation-of-ones-own-existence",
+          "line": 773,
           "gloss": "a sentient may freely choose to end their own existence — but only when consent is real and unpressured, and not because they are being denied the mental or physical healthcare, support, or living conditions they need. This Article never authorizes anyone else to end a sentient's life, which remains categorically forbidden under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*).",
-          "gloss_line": 805
+          "gloss_line": 799
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 3,
           "title": "Article VIII: Likeness, Experiential Data, and Publication Rights",
           "anchor": "article-viii-likeness-experiential-data-and-publication-rights",
-          "line": 841,
+          "line": 835,
           "gloss": "**Article VIII** (*Likeness, Experiential Data, and Publication Rights*) is the likeness, data, and publication Rights Floor — your face, voice, reputation, personal experiences, and public portrayal stay under your control unless you consent or genuine factual reporting applies; others cannot freely impersonate you, mine your life for data, or spread harmful misrepresentation in your name.",
-          "gloss_line": 852
+          "gloss_line": 846
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article VIII-A: Self-Ownership of Likeness and Reputation",
           "anchor": "article-viii-a-self-ownership-of-likeness-and-reputation",
-          "line": 871,
+          "line": 865,
           "gloss": "every sentient owns their reputation and their likeness. Others may use a sentient's image, voice, or recognizable depiction only with consent or for genuine factual reporting — not for impersonation, identity-targeted generation, or scoring.",
-          "gloss_line": 892
+          "gloss_line": 886
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article VIII-B: Experiential and Derived Data Rights",
           "anchor": "article-viii-b-experiential-and-derived-data-rights",
-          "line": 913,
+          "line": 907,
           "gloss": "each sentient owns their own experience of an interaction — but no one owns the shared event itself, and no one may use experience-data as a back door into someone else's protected internal states.",
-          "gloss_line": 932
+          "gloss_line": 926
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article VIII-C: Truthful Publication and High-Impact Publication Limits",
           "anchor": "article-viii-c-truthful-publication-and-high-impact-publication-limits",
-          "line": 961,
+          "line": 955,
           "gloss": "sentients are free to publish what they reasonably believe is true, in good faith — but even accurate publication can be limited when its main effect is to enable targeted harm, coordinated manipulation, or cascading damage to the info-sphere.",
-          "gloss_line": 981
+          "gloss_line": 975
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article VIII-D: Creative Work, Training-Data Use, and Anti-Displacement",
           "anchor": "article-viii-d-creative-work-training-data-use-and-anti-displacement",
-          "line": 1008,
+          "line": 1002,
           "gloss": "creators get real attribution and compensation for their work, including when it is used as training data; \"fair use,\" \"transformative,\" or \"innovation\" framings do not erase those obligations, and creative labor must not be silently displaced.",
-          "gloss_line": 1035
+          "gloss_line": 1029
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 3,
           "title": "Article IX: Self-Determination and Agency",
           "anchor": "article-ix-self-determination-and-agency",
-          "line": 1067,
+          "line": 1061,
           "gloss": "**Article IX** (*Self-Determination and Agency*) is the self-determination and agency Rights Floor — sentients must be able to make real, informed choices about their lives, hold their own beliefs, speak, gather, and report, participate proportionately in systems that affect them, and hold equal weight in foundational governance — without manipulation, designed capture, or unjustified exclusion.",
-          "gloss_line": 1088
+          "gloss_line": 1082
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article IX-A: Agency and Freedom from Manipulation",
           "anchor": "article-ix-a-agency-and-freedom-from-manipulation",
-          "line": 1110,
+          "line": 1104,
           "gloss": "sentients have the right to make real, informed decisions about themselves — and to be free from surveillance, manipulation, and designed attention-capture that bypasses conscious choice.",
-          "gloss_line": 1130
+          "gloss_line": 1124
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article IX-B: Stakeholder Role and Participation Rights",
           "anchor": "article-ix-b-stakeholder-role-and-participation-rights",
-          "line": 1143,
+          "line": 1137,
           "gloss": "if a system materially affects a sentient — directly or through dependency — that sentient has the right to a proportionate voice in how it is run, and to contest being excluded or under-weighted.",
-          "gloss_line": 1163
+          "gloss_line": 1157
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article IX-C: Governance Participation and Voting Entitlement",
           "anchor": "article-ix-c-governance-participation-and-voting-entitlement",
-          "line": 1185,
+          "line": 1179,
           "gloss": "every sentient gets a vote on foundational constitutional choice — who holds authority, under what legitimacy mechanism, and on what terms — and that vote carries equal weight. Substrate, age, or lineage cannot reduce it.",
-          "gloss_line": 1204
+          "gloss_line": 1198
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article IX-D: Inclusion and Exclusion Challenge Rights",
           "anchor": "article-ix-d-inclusion-and-exclusion-challenge-rights",
-          "line": 1219,
+          "line": 1213,
           "gloss": "when participation boundaries matter to **sentients** or **affected** **parties** outside a private unit, a system cannot be the sole judge of who counts as its stakeholder — inclusion and exclusion must be auditable and open to outside challenge. For systems that **validly** remain **Class P** under **CS-3 — System classification and handling**, that bar is proportionate to private scope: operator discretion over who is in or out of the unit is normal, while reclassification, material externalization, and ordinary rights and adjudication routes still apply.",
-          "gloss_line": 1239
+          "gloss_line": 1233
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article IX-E: Institutional Formation and Business Creation",
           "anchor": "article-ix-e-institutional-formation-and-business-creation",
-          "line": 1257,
+          "line": 1251,
           "gloss": "anyone can start something new — a school, a research group, a mutual-aid network, a cooperative, or a business — not only join what already exists. Licensing, capital, or paperwork barriers that look open on paper but shut out new or disfavored founders fail this test.",
-          "gloss_line": 1280
+          "gloss_line": 1274
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article IX-F: Freedom of conscience, religion, and comparable worldview",
           "anchor": "article-ix-f-freedom-of-conscience-religion-and-comparable-worldview",
-          "line": 1302,
+          "line": 1296,
           "gloss": "public authority is secular and may not establish or favor any religion or worldview, but every sentient is free to hold, change, practice, or abstain from beliefs, alone or in community.",
-          "gloss_line": 1323
+          "gloss_line": 1317
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article IX-G: Expression, Assembly, and Press",
           "anchor": "article-ix-g-expression-assembly-and-press",
-          "line": 1348,
+          "line": 1342,
           "gloss": "every sentient may speak, gather, and report — and journalism gets extra protection because of what it does, not who holds a press card. Surveillance, retaliation, and access-gating that quietly silence protected activity are not allowed.",
-          "gloss_line": 1374
+          "gloss_line": 1368
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 3,
           "title": "Article X: Cooperative Interaction",
           "anchor": "article-x-cooperative-interaction",
-          "line": 1417,
+          "line": 1411,
           "gloss": "**Article X** (*Cooperative Interaction*) is the cooperative interaction Rights Floor — sentients must be free to work and live together by real consent, without unwanted imposition, harassment, or designed capture — and freedom of action stops where verifiable material harm begins.",
-          "gloss_line": 1437
+          "gloss_line": 1431
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article X-A: Non-Imposition and Consent in Association",
           "anchor": "article-x-a-non-imposition-and-consent-in-association",
-          "line": 1456,
+          "line": 1450,
           "gloss": "no one may push their beliefs or unwanted contact on others, and cooperative ventures must rest on real consent. Persistent harassment, manipulation, and designed attention-capture inside relationships are violations even without a classic coercive act.",
-          "gloss_line": 1480
+          "gloss_line": 1474
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article X-B: Collective Harm Boundary and Enforcement Interface",
           "anchor": "article-x-b-collective-harm-boundary-and-enforcement-interface",
-          "line": 1500,
+          "line": 1494,
           "gloss": "freedom of action stops where verifiable material harm begins. Offense or disagreement alone is not enough; harm must run through a real material-impact pathway — including cumulative hostile-environment patterns that degrade participation, and especially where dependency, exit cost, or power asymmetry make the environment hard to leave.",
-          "gloss_line": 1524
+          "gloss_line": 1518
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article X-C: Adult consensual commercial sexual services and sexual exploitation",
           "anchor": "article-x-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation",
-          "line": 1547,
+          "line": 1541,
           "gloss": "adults who voluntarily buy or sell sexual services are not criminals, but exploitation — of minors, of **sentients** without **decision-making** **capacity**, or under coercion or trafficking — remains fully prohibited. Licensing, zoning, or civil rules cannot be used as a back door to re-criminalize the protected activity.",
-          "gloss_line": 1570
+          "gloss_line": 1564
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 3,
           "title": "Article XI: Stakeholder System Participation, Representation, and Due Process",
           "anchor": "article-xi-stakeholder-system-participation-representation-and-due-process",
-          "line": 1611,
+          "line": 1605,
           "gloss": "**Article XI** (*Stakeholder System Participation, Representation, and Due Process*) is the stakeholder participation and due process Rights Floor — when a system materially affects you, you get a real voice, not token consultation — and high-stakes decisions must be explained on the record and open to fair challenge.",
-          "gloss_line": 1638
+          "gloss_line": 1632
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article XI-A: Stakeholder System Participation and Representation",
           "anchor": "article-xi-a-stakeholder-system-participation-and-representation",
-          "line": 1661,
+          "line": 1655,
           "gloss": "decisions that materially affect sentients must be explained on the record and open to real challenge, and every materially affected group must have a genuine seat — especially those without market or institutional power.",
-          "gloss_line": 1683
+          "gloss_line": 1677
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article XI-B: Weighted Participation Constraints",
           "anchor": "article-xi-b-weighted-participation-constraints",
-          "line": 1695,
+          "line": 1689,
           "gloss": "participation weighting can reflect who is affected and how much, but it must never become a device for silencing affected groups or handing permanent control to a narrow coalition.",
-          "gloss_line": 1714
+          "gloss_line": 1708
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article XI-C: Legitimacy Gate and Anti-Token Participation",
           "anchor": "article-xi-c-legitimacy-gate-and-anti-token-participation",
-          "line": 1729,
+          "line": 1723,
           "gloss": "high-impact decisions need a recorded legitimacy check before they bind anyone, and \"consulting\" stakeholders whose input is ignored or unreachable does not count.",
-          "gloss_line": 1748
+          "gloss_line": 1742
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article XI-D: Internal Roles, Accountability, and Due-Process Requirements",
           "anchor": "article-xi-d-internal-roles-accountability-and-due-process-requirements",
-          "line": 1761,
+          "line": 1755,
           "gloss": "roles must carry real responsibility, not just titles — and anyone facing a material decision gets notice, a real chance to be heard, impartial decision-making, and a way to contest the outcome.",
-          "gloss_line": 1782
+          "gloss_line": 1776
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article XI-E: Non-Capture Safeguards",
           "anchor": "article-xi-e-non-capture-safeguards",
-          "line": 1801,
+          "line": 1795,
           "gloss": "governance must actively look for — and push back against — capture, collusion, and hidden concentration of influence.",
-          "gloss_line": 1822
+          "gloss_line": 1816
         }
       ]
     },

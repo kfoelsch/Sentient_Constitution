@@ -278,7 +278,7 @@ family name stays. Do not add a seventh family.
    Intake triage body and published intake classes:
    Appeal or review path:
    Backup or fallback:
-   Sentience-status work (Article V-D), if any: appointment independence
+   Sentience-status work (Article V-B), if any: appointment independence
      check (published, contested, rotatable, or equivalent):
 
 3. INSTITUTIONAL forums

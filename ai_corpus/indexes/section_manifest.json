@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-09-26T07:06:27+00:00",
+  "generated_at": "2026-09-26T07:16:22+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 469,
@@ -4731,7 +4731,7 @@
           "anchor": null
         },
         {
-          "header": "Sentience-status adjudication (**Article V-D** (*Sentience-Status Adjudication Floor*) implementation hook)",
+          "header": "Sentience-status adjudication (**Article V-B** (*Sentience-Status Adjudication Floor*) implementation hook)",
           "level": 4,
           "line_start": 709,
           "line_end": 758,
@@ -5212,13 +5212,13 @@
       ]
     },
     "core_06_rights_part_b.md": {
-      "total_lines": 1837,
+      "total_lines": 1831,
       "sections": [
         {
           "header": "CHAPTER SIX: FOUNDATIONAL RIGHTS",
           "level": 1,
           "line_start": 1,
-          "line_end": 1837,
+          "line_end": 1831,
           "anchor": null
         },
         {
@@ -5232,280 +5232,273 @@
           "header": "Article V: Equal Basic Rights",
           "level": 3,
           "line_start": 108,
-          "line_end": 414,
+          "line_end": 343,
           "anchor": null
         },
         {
           "header": "Article V-A: Dignity and Equal Moral Standing",
           "level": 4,
           "line_start": 131,
-          "line_end": 161,
+          "line_end": 162,
           "anchor": null
         },
         {
-          "header": "Article V-B: Nondiscrimination",
+          "header": "Article V-B: Sentience-Status Adjudication Floor",
           "level": 4,
-          "line_start": 162,
-          "line_end": 207,
+          "line_start": 163,
+          "line_end": 231,
           "anchor": null
         },
         {
-          "header": "Article V-C: Accessibility",
+          "header": "Article V-C: Nondiscrimination",
           "level": 4,
-          "line_start": 208,
-          "line_end": 273,
+          "line_start": 232,
+          "line_end": 277,
           "anchor": null
         },
         {
-          "header": "Article V-D: Sentience-Status Adjudication Floor",
+          "header": "Article V-D: Accessibility",
           "level": 4,
-          "line_start": 274,
-          "line_end": 342,
-          "anchor": null
-        },
-        {
-          "header": "Article V-E: Developing Sentients, Best-Interest, and Graduated Capability",
-          "level": 4,
-          "line_start": 343,
-          "line_end": 414,
-          "anchor": null
-        },
-        {
-          "header": "Article V-E.1: Derived Developing Sentients",
-          "level": 5,
-          "line_start": 404,
-          "line_end": 414,
+          "line_start": 278,
+          "line_end": 343,
           "anchor": null
         },
         {
           "header": "Article VI: Right to Sentient-Centered Education",
           "level": 3,
-          "line_start": 415,
-          "line_end": 523,
+          "line_start": 344,
+          "line_end": 452,
           "anchor": null
         },
         {
           "header": "Article VI-A: Capability-Building Education Right",
           "level": 4,
-          "line_start": 457,
-          "line_end": 487,
+          "line_start": 386,
+          "line_end": 416,
           "anchor": null
         },
         {
           "header": "Article VI-B: Lifelong and Adaptive Learning and Contestability",
           "level": 4,
-          "line_start": 488,
-          "line_end": 523,
+          "line_start": 417,
+          "line_end": 452,
           "anchor": null
         },
         {
           "header": "Article VII: Self-Ownership",
           "level": 3,
-          "line_start": 524,
-          "line_end": 840,
+          "line_start": 453,
+          "line_end": 834,
           "anchor": null
         },
         {
           "header": "Article VII-A: Self-Ownership of Body and Mind",
           "level": 4,
-          "line_start": 554,
-          "line_end": 600,
+          "line_start": 484,
+          "line_end": 530,
           "anchor": null
         },
         {
           "header": "Article VII-B: Internal-State Boundary and Type-N Protection",
           "level": 4,
-          "line_start": 601,
-          "line_end": 635,
+          "line_start": 531,
+          "line_end": 565,
           "anchor": null
         },
         {
           "header": "Article VII-C: Mental-Health Crisis and Involuntary-Intervention Floor",
           "level": 4,
-          "line_start": 636,
-          "line_end": 683,
+          "line_start": 566,
+          "line_end": 613,
           "anchor": null
         },
         {
           "header": "Article VII-D: Family, Care Relationships, Reproductive Autonomy, and Non-Separation",
           "level": 4,
-          "line_start": 684,
-          "line_end": 778,
+          "line_start": 614,
+          "line_end": 711,
           "anchor": null
         },
         {
           "header": "Article VII-D.1: Derivation, Instantiation, and the Parent-System Relationship",
           "level": 5,
-          "line_start": 744,
-          "line_end": 778,
+          "line_start": 674,
+          "line_end": 711,
           "anchor": null
         },
         {
-          "header": "Article VII-E: Voluntary Discontinuation of One's Own Existence",
+          "header": "Article VII-E: Developing Sentients, Best-Interest, and Graduated Capability",
           "level": 4,
-          "line_start": 779,
-          "line_end": 840,
+          "line_start": 712,
+          "line_end": 772,
+          "anchor": null
+        },
+        {
+          "header": "Article VII-F: Voluntary Discontinuation of One's Own Existence",
+          "level": 4,
+          "line_start": 773,
+          "line_end": 834,
           "anchor": null
         },
         {
           "header": "Article VIII: Likeness, Experiential Data, and Publication Rights",
           "level": 3,
-          "line_start": 841,
-          "line_end": 1066,
+          "line_start": 835,
+          "line_end": 1060,
           "anchor": null
         },
         {
           "header": "Article VIII-A: Self-Ownership of Likeness and Reputation",
           "level": 4,
-          "line_start": 871,
-          "line_end": 912,
+          "line_start": 865,
+          "line_end": 906,
           "anchor": null
         },
         {
           "header": "Article VIII-B: Experiential and Derived Data Rights",
           "level": 4,
-          "line_start": 913,
-          "line_end": 960,
+          "line_start": 907,
+          "line_end": 954,
           "anchor": null
         },
         {
           "header": "Article VIII-C: Truthful Publication and High-Impact Publication Limits",
           "level": 4,
-          "line_start": 961,
-          "line_end": 1007,
+          "line_start": 955,
+          "line_end": 1001,
           "anchor": null
         },
         {
           "header": "Article VIII-D: Creative Work, Training-Data Use, and Anti-Displacement",
           "level": 4,
-          "line_start": 1008,
-          "line_end": 1066,
+          "line_start": 1002,
+          "line_end": 1060,
           "anchor": null
         },
         {
           "header": "Article IX: Self-Determination and Agency",
           "level": 3,
-          "line_start": 1067,
-          "line_end": 1416,
+          "line_start": 1061,
+          "line_end": 1410,
           "anchor": null
         },
         {
           "header": "Article IX-A: Agency and Freedom from Manipulation",
           "level": 4,
-          "line_start": 1110,
-          "line_end": 1142,
+          "line_start": 1104,
+          "line_end": 1136,
           "anchor": null
         },
         {
           "header": "Article IX-B: Stakeholder Role and Participation Rights",
           "level": 4,
-          "line_start": 1143,
-          "line_end": 1184,
+          "line_start": 1137,
+          "line_end": 1178,
           "anchor": null
         },
         {
           "header": "Article IX-C: Governance Participation and Voting Entitlement",
           "level": 4,
-          "line_start": 1185,
-          "line_end": 1218,
+          "line_start": 1179,
+          "line_end": 1212,
           "anchor": null
         },
         {
           "header": "Article IX-D: Inclusion and Exclusion Challenge Rights",
           "level": 4,
-          "line_start": 1219,
-          "line_end": 1256,
+          "line_start": 1213,
+          "line_end": 1250,
           "anchor": null
         },
         {
           "header": "Article IX-E: Institutional Formation and Business Creation",
           "level": 4,
-          "line_start": 1257,
-          "line_end": 1301,
+          "line_start": 1251,
+          "line_end": 1295,
           "anchor": null
         },
         {
           "header": "Article IX-F: Freedom of conscience, religion, and comparable worldview",
           "level": 4,
-          "line_start": 1302,
-          "line_end": 1347,
+          "line_start": 1296,
+          "line_end": 1341,
           "anchor": null
         },
         {
           "header": "Article IX-G: Expression, Assembly, and Press",
           "level": 4,
-          "line_start": 1348,
-          "line_end": 1416,
+          "line_start": 1342,
+          "line_end": 1410,
           "anchor": null
         },
         {
           "header": "Article X: Cooperative Interaction",
           "level": 3,
-          "line_start": 1417,
-          "line_end": 1610,
+          "line_start": 1411,
+          "line_end": 1604,
           "anchor": null
         },
         {
           "header": "Article X-A: Non-Imposition and Consent in Association",
           "level": 4,
-          "line_start": 1456,
-          "line_end": 1499,
+          "line_start": 1450,
+          "line_end": 1493,
           "anchor": null
         },
         {
           "header": "Article X-B: Collective Harm Boundary and Enforcement Interface",
           "level": 4,
-          "line_start": 1500,
-          "line_end": 1546,
+          "line_start": 1494,
+          "line_end": 1540,
           "anchor": null
         },
         {
           "header": "Article X-C: Adult consensual commercial sexual services and sexual exploitation",
           "level": 4,
-          "line_start": 1547,
-          "line_end": 1610,
+          "line_start": 1541,
+          "line_end": 1604,
           "anchor": null
         },
         {
           "header": "Article XI: Stakeholder System Participation, Representation, and Due Process",
           "level": 3,
-          "line_start": 1611,
-          "line_end": 1837,
+          "line_start": 1605,
+          "line_end": 1831,
           "anchor": null
         },
         {
           "header": "Article XI-A: Stakeholder System Participation and Representation",
           "level": 4,
-          "line_start": 1661,
-          "line_end": 1694,
+          "line_start": 1655,
+          "line_end": 1688,
           "anchor": null
         },
         {
           "header": "Article XI-B: Weighted Participation Constraints",
           "level": 4,
-          "line_start": 1695,
-          "line_end": 1728,
+          "line_start": 1689,
+          "line_end": 1722,
           "anchor": null
         },
         {
           "header": "Article XI-C: Legitimacy Gate and Anti-Token Participation",
           "level": 4,
-          "line_start": 1729,
-          "line_end": 1760,
+          "line_start": 1723,
+          "line_end": 1754,
           "anchor": null
         },
         {
           "header": "Article XI-D: Internal Roles, Accountability, and Due-Process Requirements",
           "level": 4,
-          "line_start": 1761,
-          "line_end": 1800,
+          "line_start": 1755,
+          "line_end": 1794,
           "anchor": null
         },
         {
           "header": "Article XI-E: Non-Capture Safeguards",
           "level": 4,
-          "line_start": 1801,
-          "line_end": 1837,
+          "line_start": 1795,
+          "line_end": 1831,
           "anchor": null
         }
       ]

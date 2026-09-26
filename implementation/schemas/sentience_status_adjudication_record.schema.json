@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "sentience_status_adjudication_record.schema.json",
   "title": "Sentience-Status Adjudication Record",
-  "description": "Machine-checkable form of the Chapter Five Sentience-Status Adjudication Record. Binding homes: Article V-D (Sentience-Status Adjudication Floor); Def.P1 Sentience-Status Adjudication Record; Chapter Twelve §5 Sentience-status adjudication hook. Includes the independent-representative and intake-decline-log fields required by that hook. This file is a validating schema, not a standing record and not who-counts. This schema cannot decide who counts.",
+  "description": "Machine-checkable form of the Chapter Five Sentience-Status Adjudication Record. Binding homes: Article V-B (Sentience-Status Adjudication Floor); Def.P1 Sentience-Status Adjudication Record; Chapter Twelve §5 Sentience-status adjudication hook. Includes the independent-representative and intake-decline-log fields required by that hook. This file is a validating schema, not a standing record and not who-counts. This schema cannot decide who counts.",
   "type": "object",
   "additionalProperties": false,
   "required": [

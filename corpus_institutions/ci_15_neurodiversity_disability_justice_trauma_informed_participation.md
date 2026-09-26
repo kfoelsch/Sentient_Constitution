@@ -50,7 +50,7 @@ This file is the institutional implementation home for **CI-15** (*Neurodiversit
 
 *Shared rules live elsewhere.*
 - [**CJS-3.8**](../corpus_joint_structure/cjs_03p_participation_operations.md) (*comprehensibility and cognitive accessibility terms*) — **Institutional participation and challenge-pathway accessibility floor**; **Adaptive participation and support controls**.
-- **Article V-C** (*Accessibility*); **Article XI** (*Stakeholder System Participation, Representation, and Due Process*); **Article XX** (*Comprehensibility and Complexity Stewardship*); **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*).
+- **Article V-D** (*Accessibility*); **Article XI** (*Stakeholder System Participation, Representation, and Due Process*); **Article XX** (*Comprehensibility and Complexity Stewardship*); **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*).
 - Chapter Five [*Accessibility*](../core_05_band_participation.md#accessibility-constitutional); [*Procedural Fairness*](../core_05_band_participation.md#procedural-fairness-constitutional); [*Protected Characteristics*](../core_05_band_participation.md#protected-characteristics-constitutional).
 - **CI-8** (*Transparency, participation, and accessible challenge and service pathways*) / **CI-8.3** (*Digital self-service pathway integrity*); **CI-6** (*Procedure integrity, contestability, and secondary review*). This file does not repeat those floors.
 

@@ -49,7 +49,7 @@ See: [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-bodily-main
 - **Today:** Once you have the diagnosis, they act as if you no longer get to choose. If you say no to the extra conditions on their help, they treat that as proof you cannot make your own choices. A relative writes a concern and talks as if it were already decided that you are unsafe.
 - **With this Constitution:** How much you may do yourself follows what you can actually show, including when that showing changes. “For your own good” still does not, by itself, pass the tests a limit must meet. A relative’s written concern is a report waiting to be looked at, not already a finding that you are unsafe.
 
-See: [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind); [Article V-E](../../../core_06_rights_part_b.md#article-v-e-developing-sentients-best-interest-and-graduated-capability); [Chapter Nine §2.1](../../../core_09_standing_assessment.md#21-silence-is-the-default).
+See: [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind); [Article VII-E](../../../core_06_rights_part_b.md#article-vii-e-developing-sentients-best-interest-and-graduated-capability); [Chapter Nine §2.1](../../../core_09_standing_assessment.md#21-silence-is-the-default).
 
 **Help cannot buy your clinician, your money, or who you live with.**
 - **Today:** The spare room, food, and rides are offered only if you switch clinicians, give them your bank cards, and agree “the family” will decide housing and who you see. If you refuse, they say they will have you held, or that someone you live with is not safe.

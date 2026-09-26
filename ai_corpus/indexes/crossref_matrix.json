@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-26T07:06:28+00:00",
+  "generated_at": "2026-09-26T07:16:23+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1002,8 +1002,8 @@
               "#article-ix-g-expression-assembly-and-press",
               "#article-ix-self-determination-and-agency",
               "#article-v-a-dignity-and-equal-moral-standing",
-              "#article-v-b-nondiscrimination",
-              "#article-v-c-accessibility",
+              "#article-v-c-nondiscrimination",
+              "#article-v-d-accessibility",
               "#article-v-equal-basic-rights",
               "#article-vi-right-to-sentient-centered-education",
               "#article-vii-self-ownership",
@@ -3544,8 +3544,8 @@
             "file": "core_06_rights_part_b.md",
             "count": 5,
             "anchors": [
-              "#article-v-d-sentience-status-adjudication-floor",
-              "#article-vii-e-voluntary-discontinuation-of-ones-own-existence",
+              "#article-v-b-sentience-status-adjudication-floor",
+              "#article-vii-f-voluntary-discontinuation-of-ones-own-existence",
               "#article-x-a-non-imposition-and-consent-in-association",
               "#article-x-b-collective-harm-boundary-and-enforcement-interface",
               "#article-xi-stakeholder-system-participation-representation-and-due-process"
@@ -4060,11 +4060,11 @@
             "count": 22,
             "anchors": [
               "#article-ix-a-agency-and-freedom-from-manipulation",
-              "#article-v-b-nondiscrimination",
+              "#article-v-c-nondiscrimination",
               "#article-vii-a-self-ownership-of-body-and-mind",
               "#article-vii-b-internal-state-boundary-and-type-n-protection",
               "#article-vii-c-mental-health-crisis-and-involuntary-intervention-floor",
-              "#article-vii-e-voluntary-discontinuation-of-ones-own-existence",
+              "#article-vii-f-voluntary-discontinuation-of-ones-own-existence",
               "#article-viii-a-self-ownership-of-likeness-and-reputation",
               "#article-viii-b-experiential-and-derived-data-rights",
               "#article-viii-d-creative-work-training-data-use-and-anti-displacement",
@@ -4978,15 +4978,14 @@
               "#article-ix-g-expression-assembly-and-press",
               "#article-ix-self-determination-and-agency",
               "#article-v-a-dignity-and-equal-moral-standing",
-              "#article-v-b-nondiscrimination",
-              "#article-v-c-accessibility",
-              "#article-v-d-sentience-status-adjudication-floor",
-              "#article-v-e-developing-sentients-best-interest-and-graduated-capability",
-              "#article-v-e1-derived-developing-sentients",
+              "#article-v-b-sentience-status-adjudication-floor",
+              "#article-v-c-nondiscrimination",
+              "#article-v-d-accessibility",
               "#article-vi-right-to-sentient-centered-education",
               "#article-vii-a-self-ownership-of-body-and-mind",
               "#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation",
               "#article-vii-d1-derivation-instantiation-and-the-parent-system-relationship",
+              "#article-vii-e-developing-sentients-best-interest-and-graduated-capability",
               "#article-x-a-non-imposition-and-consent-in-association",
               "#article-x-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation",
               "#article-xi-stakeholder-system-participation-representation-and-due-process"
@@ -5545,7 +5544,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 2,
             "anchors": [
-              "#article-v-c-accessibility",
+              "#article-v-d-accessibility",
               "#article-vii-self-ownership"
             ]
           },
@@ -5755,7 +5754,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 1,
             "anchors": [
-              "#article-v-d-sentience-status-adjudication-floor"
+              "#article-v-b-sentience-status-adjudication-floor"
             ]
           },
           {
@@ -6030,7 +6029,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 1,
             "anchors": [
-              "#article-v-d-sentience-status-adjudication-floor"
+              "#article-v-b-sentience-status-adjudication-floor"
             ]
           },
           {
@@ -6861,7 +6860,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 3,
             "anchors": [
-              "#article-v-d-sentience-status-adjudication-floor",
+              "#article-v-b-sentience-status-adjudication-floor",
               "#article-vii-b-internal-state-boundary-and-type-n-protection",
               "#article-xi-stakeholder-system-participation-representation-and-due-process"
             ]
@@ -7091,7 +7090,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 1,
             "anchors": [
-              "#article-v-d-sentience-status-adjudication-floor"
+              "#article-v-b-sentience-status-adjudication-floor"
             ]
           },
           {
@@ -7854,7 +7853,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 511,
+            "count": 510,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -9455,7 +9454,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 1,
             "anchors": [
-              "#article-v-d-sentience-status-adjudication-floor"
+              "#article-v-b-sentience-status-adjudication-floor"
             ]
           },
           {
@@ -13397,7 +13396,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 1,
             "anchors": [
-              "#article-v-c-accessibility"
+              "#article-v-d-accessibility"
             ]
           },
           {
@@ -18340,7 +18339,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 2,
             "anchors": [
-              "#article-v-d-sentience-status-adjudication-floor",
+              "#article-v-b-sentience-status-adjudication-floor",
               "#article-vii-b-internal-state-boundary-and-type-n-protection"
             ]
           },
@@ -20494,7 +20493,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 2,
             "anchors": [
-              "#article-v-d-sentience-status-adjudication-floor"
+              "#article-v-b-sentience-status-adjudication-floor"
             ]
           },
           {

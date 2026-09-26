@@ -59,7 +59,7 @@ See: [Article VII-D](../../../core_06_rights_part_b.md#article-vii-d-family-care
 - **Today:** “For the child” is used to move the child, change who they live with, or put another adult in charge — without asking what actually helps this child, and without asking them as far as they can show what they want.
 - **With this Constitution:** Those decisions have to be about this child’s own interests, including what they can show they want — not about a quieter house, a “complete” family, or an easier adult schedule. Calling it “for the child” is not enough.
 
-See: [Article V-E](../../../core_06_rights_part_b.md#article-v-e-developing-sentients-best-interest-and-graduated-capability).
+See: [Article VII-E](../../../core_06_rights_part_b.md#article-vii-e-developing-sentients-best-interest-and-graduated-capability).
 
 ## What you might reasonably object to
 

@@ -69,7 +69,7 @@ See: [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-e
 
 - **“I want this campus / this major / this ranking.”** A preferred course or campus is often a preference, not a floor. Equal access and a high-stakes system that can be challenged are the honest gain. This text will not invent a winner among two students’ preferences.
 
-- **“I’m an adult. Don’t use the child page on me.”** You do not have to take a teen or child label to use this page. This brief is for someone whose school, training, or credential is being used as a lever. It does not change the Rights Floor that applies to you. When what you may do yourself is actually at stake, those rules are located in the section on [Article V-E](../../../core_06_rights_part_b.md#article-v-e-developing-sentients-best-interest-and-graduated-capability).
+- **“I’m an adult. Don’t use the child page on me.”** You do not have to take a teen or child label to use this page. This brief is for someone whose school, training, or credential is being used as a lever. It does not change the Rights Floor that applies to you. When what you may do yourself is actually at stake, those rules are located in the section on [Article VII-E](../../../core_06_rights_part_b.md#article-vii-e-developing-sentients-best-interest-and-graduated-capability).
 
 - **“This isn’t education law at my school.”** Correct until a qualifying body adopts it. It does not override applicable education or labor law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 

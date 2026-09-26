@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **621** of **889** headings carry a gloss (70%).
+Coverage: **620** of **888** headings carry a gloss (70%).
 
 ## Contents
 
@@ -41,7 +41,7 @@ Coverage: **621** of **889** headings carry a gloss (70%).
 - [CHAPTER TWELVE: FORUMS AND JURISDICTION](#chapter-twelve-forums-and-jurisdiction) — `core_12_forum.md` (8/27 glossed)
 - [CHAPTERS NINE–TWELVE: PIPELINE APPLICATION VIGNETTES](#chapters-ninetwelve-pipeline-application-vignettes) — `core_09-12_application_vignettes.md` (9/35 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_a.md` (24/27 glossed)
-- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_b.md` (41/42 glossed)
+- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_b.md` (40/41 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_c.md` (51/52 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_d.md` (18/19 glossed)
 - [CHAPTER THIRTEEN: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP](#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) — `core_13_governance.md` (13/15 glossed)
@@ -3080,7 +3080,7 @@ when a system materially decides who gets in, who pays more, who ranks lower, or
 
 ##### 7.1 Illustrative nondiscrimination application by class (non-exhaustive)
 
-[§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§6.1 Illustrative cross-system support application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#61-illustrative-cross-system-support-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **nondiscrimination** evaluation means for each — which decision pathways count, what certification must check when the **Article V-B** (*Nondiscrimination*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article V-B** (*Nondiscrimination*) still own canonical fairness and proxy-discrimination rules; inclusion quotas, demographic targets, and fairness-algorithm designs may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics.
+[§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§6.1 Illustrative cross-system support application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#61-illustrative-cross-system-support-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **nondiscrimination** evaluation means for each — which decision pathways count, what certification must check when the **Article V-C** (*Nondiscrimination*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article V-C** (*Nondiscrimination*) still own canonical fairness and proxy-discrimination rules; inclusion quotas, demographic targets, and fairness-algorithm designs may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics.
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#71-illustrative-nondiscrimination-application-by-class-non-exhaustive)
 
@@ -3092,7 +3092,7 @@ when a system materially controls whether sentients can actually take part — n
 
 ##### 8.1 Illustrative accessibility application by class (non-exhaustive)
 
-[§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§7.1 Illustrative nondiscrimination application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#71-illustrative-nondiscrimination-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **accessibility** evaluation means for each — which participation pathways count, what certification must check when the **Article V-C** (*Accessibility*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article V-C** (*Accessibility*) still own canonical accessibility rules; accommodation catalogs, interface standards, and universal-design specifications may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Educational accessibility remains owned by **Article III-B** (*Equal Educational Access*) and is not narrowed here.
+[§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§7.1 Illustrative nondiscrimination application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#71-illustrative-nondiscrimination-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **accessibility** evaluation means for each — which participation pathways count, what certification must check when the **Article V-D** (*Accessibility*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article V-D** (*Accessibility*) still own canonical accessibility rules; accommodation catalogs, interface standards, and universal-design specifications may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Educational accessibility remains owned by **Article III-B** (*Equal Educational Access*) and is not narrowed here.
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#81-illustrative-accessibility-application-by-class-non-exhaustive)
 
@@ -3910,11 +3910,11 @@ when the case outgrows the first desk, these rules say how to escalate — for e
 
 [Source](../../core_12_forum.md#backup-routing-under-the-anti-self-judging-rule)
 
-##### Sentience-status adjudication (**Article V-D** (*Sentience-Status Adjudication Floor*) implementation hook)
+##### Sentience-status adjudication (**Article V-B** (*Sentience-Status Adjudication Floor*) implementation hook)
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_12_forum.md#sentience-status-adjudication-article-v-d-sentience-status-adjudication-floor-implementation-hook)
+[Source](../../core_12_forum.md#sentience-status-adjudication-article-v-b-sentience-status-adjudication-floor-implementation-hook)
 
 ##### Referral distinguished from expansion
 
@@ -4310,7 +4310,7 @@ systems that lean heavily on shared foundations must put enough back to keep the
 
 ## CHAPTER SIX: FOUNDATIONAL RIGHTS
 
-Source file: [`core_06_rights_part_b.md`](../../core_06_rights_part_b.md) · 41/42 headings glossed
+Source file: [`core_06_rights_part_b.md`](../../core_06_rights_part_b.md) · 40/41 headings glossed
 
 #### Part B: Personhood, education capability, agency, cooperation, and stakeholder system participation
 
@@ -4320,7 +4320,7 @@ Part B states Rights Floors for equal standing, education capability, self-owner
 
 #### Article V: Equal Basic Rights
 
-**Article V** (*Equal Basic Rights*) sets the minimum standard for treating every sentient as an equal. Every sentient keeps their dignity, is protected from unfair discrimination, can take part fully and actually use the systems they rely on, gets a fair hearing on whether they count as sentient, and is protected while still developing. No system may rank, screen out, exclude, or place heavier burdens on some sentients than others unless these protections are already in place.
+**Article V** (*Equal Basic Rights*) sets the minimum standard for treating every sentient as an equal. Every sentient keeps their dignity, gets a fair hearing on whether they count as sentient, is protected from unfair discrimination, and can take part fully and actually use the systems they rely on. No system may rank, screen out, exclude, or place heavier burdens on some sentients than others unless these protections are already in place.
 
 [Source](../../core_06_rights_part_b.md#article-v-equal-basic-rights)
 
@@ -4330,35 +4330,23 @@ every sentient is equal in dignity and standing — origin, form, capability, fu
 
 [Source](../../core_06_rights_part_b.md#article-v-a-dignity-and-equal-moral-standing)
 
-##### Article V-B: Nondiscrimination
-
-systems may not load burdens or harms onto sentients based on protected characteristics — including language, culture, and heritage — or on proxies and arbitrary groupings that do the same work. Any difference in treatment that touches rights or survival essentials must be justified and open to challenge, and forums, administrators, and enforcers must check this in the matters before them — efficiency is no excuse for exclusion.
-
-[Source](../../core_06_rights_part_b.md#article-v-b-nondiscrimination)
-
-##### Article V-C: Accessibility
-
-every sentient has the right to genuine, not paper-only, access to participation — and operators cannot use cost, design choices, or substrate-class arguments to lock **sentients** out.
-
-[Source](../../core_06_rights_part_b.md#article-v-c-accessibility)
-
-##### Article V-D: Sentience-Status Adjudication Floor
+##### Article V-B: Sentience-Status Adjudication Floor
 
 when an entity's sentience is in doubt, it gets a fair hearing first and is treated as included by default — the burden of denying protection rests on whoever wants to withhold it, and a wrongful exclusion must be reversible.
 
-[Source](../../core_06_rights_part_b.md#article-v-d-sentience-status-adjudication-floor)
+[Source](../../core_06_rights_part_b.md#article-v-b-sentience-status-adjudication-floor)
 
-##### Article V-E: Developing Sentients, Best-Interest, and Graduated Capability
+##### Article V-C: Nondiscrimination
 
-a sentient who is still developing holds the full Rights Floor, decisions about them must reflect their own best interests, and rights and participation scale with demonstrated capability — not with calendar age or "for your own good" framings.
+systems may not load burdens or harms onto sentients based on protected characteristics — including language, culture, and heritage — or on proxies and arbitrary groupings that do the same work. Any difference in treatment that touches rights or survival essentials must be justified and open to challenge, and forums, administrators, and enforcers must check this in the matters before them — efficiency is no excuse for exclusion.
 
-[Source](../../core_06_rights_part_b.md#article-v-e-developing-sentients-best-interest-and-graduated-capability)
+[Source](../../core_06_rights_part_b.md#article-v-c-nondiscrimination)
 
-###### Article V-E.1: Derived Developing Sentients
+##### Article V-D: Accessibility
 
-while a newly derived sentient is still finding their feet, they hold the full Rights Floor — and the parent system and any stewards must decide for them, not through them. Stewardship ends when the new sentient's capabilities come online, not when it suits the operator.
+every sentient has the right to genuine, not paper-only, access to participation — and operators cannot use cost, design choices, or substrate-class arguments to lock **sentients** out.
 
-[Source](../../core_06_rights_part_b.md#article-v-e1-derived-developing-sentients)
+[Source](../../core_06_rights_part_b.md#article-v-d-accessibility)
 
 #### Article VI: Right to Sentient-Centered Education
 
@@ -4414,11 +4402,17 @@ a sentient created by copying, fine-tuning, or forking another system is a senti
 
 [Source](../../core_06_rights_part_b.md#article-vii-d1-derivation-instantiation-and-the-parent-system-relationship)
 
-##### Article VII-E: Voluntary Discontinuation of One's Own Existence
+##### Article VII-E: Developing Sentients, Best-Interest, and Graduated Capability
+
+a sentient who is still developing holds the full Rights Floor, decisions about them must reflect their own best interests, and rights and participation scale with demonstrated capability — not with calendar age or "for your own good" framings.
+
+[Source](../../core_06_rights_part_b.md#article-vii-e-developing-sentients-best-interest-and-graduated-capability)
+
+##### Article VII-F: Voluntary Discontinuation of One's Own Existence
 
 a sentient may freely choose to end their own existence — but only when consent is real and unpressured, and not because they are being denied the mental or physical healthcare, support, or living conditions they need. This Article never authorizes anyone else to end a sentient's life, which remains categorically forbidden under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*).
 
-[Source](../../core_06_rights_part_b.md#article-vii-e-voluntary-discontinuation-of-ones-own-existence)
+[Source](../../core_06_rights_part_b.md#article-vii-f-voluntary-discontinuation-of-ones-own-existence)
 
 #### Article VIII: Likeness, Experiential Data, and Publication Rights
 

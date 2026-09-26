@@ -85,7 +85,7 @@ Do not resolve the collision in this file.
 Beyond the sitting’s bounded reading path, open:
 
 - [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind) — family relationship is not authority over another sentient; access is not consent to takeover
-- [Article V-E](../../../core_06_rights_part_b.md#article-v-e-developing-sentients-best-interest-and-graduated-capability) for the capability test (what Nia can actually do now), **not** as a holding that Nia is a child
+- [Article VII-E](../../../core_06_rights_part_b.md#article-vii-e-developing-sentients-best-interest-and-graduated-capability) for the capability test (what Nia can actually do now), **not** as a holding that Nia is a child
 - [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-bodily-maintenance-and-healthcare-access) where clinician choice is the price of bill-pay
 - [CI-15](../../../corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md) — supported decision-making is not a quiet guardianship
 - [CI-16](../../../corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md) — coercion-intake; survival and care help cannot be billed as the price of surrendering decisions

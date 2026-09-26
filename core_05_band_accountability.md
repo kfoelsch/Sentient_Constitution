@@ -2168,7 +2168,7 @@ See **Joint invocation and satisfaction**.
     - knowledge governance;
     - standards stewardship;
     - reducing bounded uncertainty that matters to adjudication or regulation; or
-    - [Article V-D](core_06_rights_part_b.md#article-v-d-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) sentience-status determination on indicators, expert evidence, or bounded uncertainty under [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional).
+    - [Article V-B](core_06_rights_part_b.md#article-v-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) sentience-status determination on indicators, expert evidence, or bounded uncertainty under [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional).
   - **Out of scope:** non-technical primary questions — rights, mandate, ecological, or constitutional merits assigned to another family under Chapter Twelve §2 (*Default venue and primary stakes*), except where this family's sentience-status lead role under [Chapter Twelve §5 Escalation and certification](core_12_forum.md#5-escalation-and-certification) applies.
 <a id="forum-family-technical-a"></a>
 - **How to measure and assess**
@@ -3559,7 +3559,7 @@ See **Joint invocation and satisfaction**.
     - [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional).
   - **Out of scope:**
     - durable but reversible containment under [Article XXIII-C](core_06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) (*Least-Restrictive and Time-Bounded Rule*), subject to its duration-limit, review-cadence, and restoration discipline;
-    - [Voluntary Discontinuation](core_05_band_continuity.md#voluntary-discontinuation-constitutional) (the sentient's own freely-formed decision under [Article VII-E](core_06_rights_part_b.md#article-vii-e-voluntary-discontinuation-of-ones-own-existence) (*Voluntary Discontinuation of One's Own Existence*)); and
+    - [Voluntary Discontinuation](core_05_band_continuity.md#voluntary-discontinuation-constitutional) (the sentient's own freely-formed decision under [Article VII-F](core_06_rights_part_b.md#article-vii-f-voluntary-discontinuation-of-ones-own-existence) (*Voluntary Discontinuation of One's Own Existence*)); and
     - overt [Use of Force](core_05_band_accountability.md#use-of-force-constitutional), [Weapons of Mass Harm](core_05_band_accountability.md#weapons-of-mass-harm-constitutional), and [Autonomous Lethal System](core_05_band_accountability.md#autonomous-lethal-system-constitutional) / [Autonomous Coercion Tool](core_05_band_accountability.md#autonomous-coercion-tool-constitutional) operation governed by Articles XIII-B / XIII-C under their own owner-floor discipline even where effects are irreversible, without read-across authorizing a deprivation measure.
 <a id="irreversible-deprivation-measure-measurements"></a>
 <a id="irreversible-deprivation-measure-constitutional-a"></a>
@@ -3576,8 +3576,8 @@ See **Joint invocation and satisfaction**.
       - comparable mechanisms;
     - "rehabilitation infeasibility" or "less-restrictive measures cannot achieve safety" framings used to carry the prohibited measure past the categorical prohibition in **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*);
     - use of a nominally reversible durable-containment regime under **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) as a predicate for the prohibited measure; and
-    - re-labelling of an involuntarily-imposed outcome as "voluntary" to route around this entry into **Article VII-E** (*Voluntary Discontinuation of One's Own Existence*):
-      - a sentient's own freely-formed decision remains governed by **Article VII-E** and [Voluntary Discontinuation](core_05_band_continuity.md#voluntary-discontinuation-constitutional); and
+    - re-labelling of an involuntarily-imposed outcome as "voluntary" to route around this entry into **Article VII-F** (*Voluntary Discontinuation of One's Own Existence*):
+      - a sentient's own freely-formed decision remains governed by **Article VII-F** and [Voluntary Discontinuation](core_05_band_continuity.md#voluntary-discontinuation-constitutional); and
       - any conversion of that decision into a non-voluntary outcome by state, operator, or comparable actor returns the question to this entry.
 
     Distinguish this entry from:
@@ -3598,7 +3598,7 @@ See **Joint invocation and satisfaction**.
   - **Secondary failure:**
     - routing the prohibited measure through Chapter Nine impact assignment, Chapter Eleven designation, emergency framing, transition or re-baselining governance, or adopter-instrument custody to reintroduce it;
     - using lasting but reversible containment under **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) as a stepping-stone or justification for the prohibited measure; or
-    - re-labelling an involuntarily-imposed outcome as "voluntary discontinuation" to route into **Article VII-E** (*Voluntary Discontinuation of One's Own Existence*).
+    - re-labelling an involuntarily-imposed outcome as "voluntary discontinuation" to route into **Article VII-F** (*Voluntary Discontinuation of One's Own Existence*).
   - **Tertiary failure:** Substrate-class narrowings on taxonomy grounds alone ([Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion)).
 
 ---

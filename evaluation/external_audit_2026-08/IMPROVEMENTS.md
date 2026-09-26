@@ -46,7 +46,7 @@ These match gaps the corpus already names, or comprehension hazards the audit fl
 
 ### A4. Opening filter for contested status (over-inclusion guard) — **done**
 
-**Homes:** [Article V-D filing integrity](../../core_06_rights_part_b.md#article-v-d-sentience-status-adjudication-floor); Def.P1 Contested-Sentient Life; [Chapter Twelve §5](../../core_12_forum.md#5-escalation-and-certification) hook. Declining a crank filing is not a withholding determination.
+**Homes:** [Article V-D filing integrity](../../core_06_rights_part_b.md#article-v-b-sentience-status-adjudication-floor); Def.P1 Contested-Sentient Life; [Chapter Twelve §5](../../core_12_forum.md#5-escalation-and-certification) hook. Declining a crank filing is not a withholding determination.
 **Do not:** Let the opening filter become a withholding device.
 
 ### A5. Reader-path accessibility (process support) — **done**
@@ -72,7 +72,7 @@ Viable if operators accept the design. This edition accepted B1–B5. Each still
 
 ### B3. FPIC non-shrinkage — **done**
 
-**Homes:** [Article V-B](../../core_06_rights_part_b.md#article-v-b-nondiscrimination); [Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority). Title adjudication stays out.
+**Homes:** [Article V-B](../../core_06_rights_part_b.md#article-v-c-nondiscrimination); [Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority). Title adjudication stays out.
 **Do not:** Invent a land-claims forum in Chapter Twelve.
 
 ### B4. Forum independence and appointment floor — **done**

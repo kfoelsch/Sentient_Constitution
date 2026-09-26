@@ -107,7 +107,7 @@
 - 하류: [2.2 인정, 강화, 지향](#22-recognition-reinforcement-and-aspiration); [4. 신뢰](#4-system-stability-enabler-trust-coordination-integrity), [§9 책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. 과정 충돌 해결](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [§6.1 결정 기록 규율](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), 우선과 배분 선택이 일관되고 검토 가능해야 하는 곳에서.
 - 하위절(읽기 순서): [§2.1.1](#211-access-and-opportunity) · [§2.1.2](#212-benefits-and-burdens) · [§2.1.3](#213-fair-treatment) · [§2.1.4](#214-unfair-treatment).
 - 하류: 평등한 도덕 지위, 자의적이지 않은 대우, 의미 있는 다툼, 비례 제한 한도의 권리 면을 빚는다.
-  - 특히 [제 V조: 평등한 기본 권리](../../core_06_rights_part_b.md#article-v-equal-basic-rights), [제 V-B조: 차별 금지](../../core_06_rights_part_b.md#article-v-b-nondiscrimination), [제 IX조: 자기결정과 행위주체성](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency), [제 XII-B조: 다툼, 검토, 구제에 대한 권리](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), [제 XVIII-B조: 다툴 수 있음과 비례 제한 한도](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits).
+  - 특히 [제 V조: 평등한 기본 권리](../../core_06_rights_part_b.md#article-v-equal-basic-rights), [제 V-B조: 차별 금지](../../core_06_rights_part_b.md#article-v-c-nondiscrimination), [제 IX조: 자기결정과 행위주체성](../../core_06_rights_part_b.md#article-ix-self-determination-and-agency), [제 XII-B조: 다툼, 검토, 구제에 대한 권리](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), [제 XVIII-B조: 다툴 수 있음과 비례 제한 한도](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits).
   - 반헌법 지정이 제재나 오래가는 효과를 실으면, [제10장 4절 — 적법절차 안전장치, 구제, 예방](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment)과 함께 읽으라.
   - 차별 금지 약속은 제5장 [§2 — 보호 특성, 대리, 친밀 신호 게이트, **제 X-C조**(*성인 합의 상업 성서비스와 성착취*) 지위](../../core_05_band_participation.md#fairness-and-protected-status-semi-independent)를 통해 풀어지며, §2.1.3 공정 대우 규칙이 친밀 신호 게이트나 **제 X-C조**(*성인 합의 상업 성서비스와 성착취*)를 연루하는 곳에서 [보호되는 친밀 신호 게이트와 **제 X-C조**(*성인 합의 상업 성서비스와 성착취*) 지위 우회](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention)를 포함한다.
 - 함께 읽기: 이익, 부담, 보상, 비용, 의무, 위험, 기여, 필요, 노출이 실질인 곳에서 [실체 공정](../../core_05_band_participation.md#substantive-fairness-constitutional)과 관련 제6장 권리 바닥 의무; §2.1.1 접근 경로가 실질인 곳에서 [접근성](../../core_05_band_participation.md#accessibility-constitutional); 합산 지표나 점수판 효과가 실질인 곳에서 [대리지표 이탈](../../core_05_band_oversight.md#proxy-divergence).
@@ -426,7 +426,7 @@
 - 함께 읽기: [헌법 사원(四元)](../../core_00_preamble.md#constitutional-tetrad) — **참여** 다리(이해할 수 있는 참여); **감독** 다리(감사와 확인의 가독성); [실질 이해관계](../../core_00_preamble.md#material-stake) 세기 조절.
 - 함께 읽기: [두 헌법 목적](../../core_00_preamble.md#two-constitutional-aims) — **번영** 목적(이해할 수 있는 **진실** 참여를 통한 의미 있는 행위주체성); **연속** 목적(시간에 걸친 제도의 오래가는 가독성).
 - 상류: 원칙: [§3.2 진실](#32-truth-epistemic-integrity-constraint), [3.3 과학에 정통한 탐구와 결정 지원](#33-science-informed-inquiry-and-decision-support), [§6.3 피할 수 있는 부담의 최소화](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [§11.1.3 책임 있는 관리와 운영자 적용](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application); [두 헌법 목적](../../core_00_preamble.md#two-constitutional-aims).
-- 하류: 권리 면: [제 V-G조: 접근성](../../core_06_rights_part_b.md#article-v-c-accessibility), [제 VI조: 감지자 중심 교육에 대한 권리](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [제 XV조: 감사, 투명, 독립 확인](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [제 XX조: 이해 가능성과 복잡성의 책임 있는 관리](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
+- 하류: 권리 면: [제 V-G조: 접근성](../../core_06_rights_part_b.md#article-v-d-accessibility), [제 VI조: 감지자 중심 교육에 대한 권리](../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [제 XV조: 감사, 투명, 독립 확인](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [제 XX조: 이해 가능성과 복잡성의 책임 있는 관리](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
 - 교차 참조: 제2장부터 제4장의 정의 기계와 [core_02_definition_structure.md](core_02_definition_structure.md)의 쉬운 말 난간은 정의 층에서 여전히 통할한다.
 - 하위절(읽기 순서): [§3.4.1](#341-scope) · [§3.4.2](#342-the-duty) · [§3.4.3](#343-definitional-rigor-preserved) · [§3.4.4](#344-jargon-as-defeat-discipline) · [§3.4.5](#345-chapter-ten-floor-boundary).
 
@@ -461,7 +461,7 @@
 - 감지자 독자에게 닿는 감사와 확인 산출물;
 - 약관과 동의 인터페이스, 비슷한 텍스트.
 
-이 의무는 구속 정보가 감지자에게 어떻게 닿든 적용된다 — 서면 텍스트, 인터페이스, 구두 소통, 그 밖의 어떤 채널이든. 채널이 영향받는 어떤 감지자든 닿을 수 있는 쉬운 말 등가물을 제공하고, [제 V-G조](../../core_06_rights_part_b.md#article-v-c-accessibility)(*접근성*) 및 [감지자성 비배제](../../core_05_band_participation.md#sentience-non-exclusion)와 일관하면, 그 채널은 이 의무를 충족한다.
+이 의무는 구속 정보가 감지자에게 어떻게 닿든 적용된다 — 서면 텍스트, 인터페이스, 구두 소통, 그 밖의 어떤 채널이든. 채널이 영향받는 어떤 감지자든 닿을 수 있는 쉬운 말 등가물을 제공하고, [제 V-G조](../../core_06_rights_part_b.md#article-v-d-accessibility)(*접근성*) 및 [감지자성 비배제](../../core_05_band_participation.md#sentience-non-exclusion)와 일관하면, 그 채널은 이 의무를 충족한다.
 
 <a id="342-the-duty"></a>
 ##### 3.4.2 그 의무
@@ -493,7 +493,7 @@
 <a id="345-chapter-ten-floor-boundary"></a>
 ##### 3.4.5 권리 바닥 경계
 
-접근성, 교육, 이해 가능성의 권리 바닥은 각각 [제 V-G조](../../core_06_rights_part_b.md#article-v-c-accessibility)(*접근성*), [제 III-B조](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access)(*평등한 교육 접근*), [제 XX조](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)(*이해 가능성과 복잡성의 책임 있는 관리*)에 산다. 이 절은 그 바닥을 받치는 원칙 층 의무를 말한다.
+접근성, 교육, 이해 가능성의 권리 바닥은 각각 [제 V-G조](../../core_06_rights_part_b.md#article-v-d-accessibility)(*접근성*), [제 III-B조](../../core_06_rights_part_a.md#article-iii-b-equal-educational-access)(*평등한 교육 접근*), [제 XX조](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)(*이해 가능성과 복잡성의 책임 있는 관리*)에 산다. 이 절은 그 바닥을 받치는 원칙 층 의무를 말한다.
 
 <a id="4-system-stability-enabler-trust-coordination-integrity"></a>
 ### 4. 체계 안정 가능하게 하는 것: 신뢰(조정 완전성)
