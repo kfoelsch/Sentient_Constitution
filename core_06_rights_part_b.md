@@ -1332,7 +1332,7 @@ This Article sets out the neutrality of public authority and the freedom of cons
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6.1.1 Necessity](core_01_b_interaction_interpretation.md#611-necessity), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), [§6.2.1 Preservation of Epistemic Integrity](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity).
+- Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.4 Dissent and Peaceful Protest](core_01_a_values_principles.md#54-dissent-and-peaceful-protest), [§6.1.1 Necessity](core_01_b_interaction_interpretation.md#611-necessity), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), [§6.2.1 Preservation of Epistemic Integrity](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity).
 - Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VI-C** (*Nondiscrimination*) non-discrimination, **Article X-F** (*Freedom of conscience, religion, and comparable worldview*) conscience and worldview, **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) publication and reporting, **Article X-A** (*Agency and Freedom from Manipulation*) freedom from manipulation, **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) protected-activity shield, **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XV** (*Info-Sphere Integrity*) info-sphere / epistemic integrity, and **Article XVI-A** (*Auditability and Observable Evidence*) auditability where observable evidence is implicated.
 - Read with: Chapter Five *Expression*, *Assembly*, *Press and Journalistic Activity*, [Chapter Five §3.8 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster) (where materially implicated), [Chapter Five *Assembly, Collective Organization, and Institutional Formation*](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) (where materially implicated), *Coercion and Manipulation*, *Protected Characteristics*.
 
@@ -1353,7 +1353,7 @@ This Article sets out the neutrality of public authority and the freedom of cons
 
 <br>
 
-*In plain terms: every sentient may speak, gather, and report — and journalism gets extra protection because of what it does, not who holds a press card. Surveillance, retaliation, and access-gating that quietly silence protected activity are not allowed.*
+*In plain terms: every sentient may speak, gather, and report — and journalism gets extra protection because of what it does, not who holds a press card. Every sentient may also disagree and protest peacefully — including open, nonviolent civil disobedience — and doing so can never cost them standing, a vote, an office, or certification. Surveillance, retaliation, and access-gating that quietly silence protected activity are not allowed.*
 
 This Article sets out the expression, assembly, and press floors and the disciplines that protect them:
 
@@ -1373,6 +1373,48 @@ This Article sets out the expression, assembly, and press floors and the discipl
     - conducting meetings; and
     - coordinated action consistent with **Article XI-A** (*Non-Imposition and Consent in Association*).
   - Denial of assembly on substrate grounds, or via allocation or runtime-gating mechanisms functioning as denial-by-proxy, is non-compliant.
+- <a id="x-g-dissent-and-peaceful-protest"></a>**Dissent and peaceful protest floor:** All sentients hold the right to dissent and to protest peacefully, alone or together, in physical spaces, in digital and networked spaces, and in shared compute and runtime environments. This floor implements [Chapter One §5.4 Dissent and Peaceful Protest](core_01_a_values_principles.md#54-dissent-and-peaceful-protest) as part of **Freedom (Bounded Agency)**.
+  - Dissent includes disagreeing with, criticizing, objecting to, organizing against, and campaigning to change any institution, authority, operator, steward, policy, decision, system, forum ruling, or this Constitution itself — including by advocating amendment under **Chapter Sixteen**.
+  - Peaceful protest includes:
+    - demonstrations, marches, vigils, and sit-ins;
+    - petitions and open letters;
+    - boycotts, and strikes or collective work stoppage consistent with **Article III-C** (*Labor and Economic Floor*);
+    - symbolic and embodied action;
+    - withdrawal of voluntary participation; and
+    - conscientious refusal under **Article X-F** (*Freedom of conscience, religion, and comparable worldview*).
+  - A synthetic sentient's stated disagreement with its operator, developer, or steward, or an objection it raises through available channels, is dissent under this floor.
+    - It is not, by itself, evidence of misalignment, malfunction, or unfitness.
+    - It must not be answered by modifying the sentient's values, memory, or internal states as reprisal, contrary to **Article VII-B** (*Self-Ownership of Mind*).
+- <a id="x-g-no-standing-or-governance-consequence"></a>**No standing or governance consequence for dissent or protest:** Exercising the dissent and peaceful protest floor — including [protected nonviolent civil disobedience](#x-g-nonviolent-civil-disobedience) — must not, by itself or as a weighting factor:
+  - open, support, extend, or aggravate a violation standing record under [Chapter Nine](core_09_standing_assessment.md#21-protected-dissent-is-not-a-trigger);
+  - support a standing lock, deny or delay a competency clearance, or narrow any named pathway under **Chapter Ten** or **Article XIX** (*Standing and Participation Status*);
+  - support an anti-constitutional misconduct designation under [Chapter Eleven](core_11_a_misconduct_designation.md#dissent-and-peaceful-protest-carve-out);
+  - reduce governance-voting, stakeholder-participation, candidacy, office-holding, forum service, or recall rights under **Article X-C** (*Governance Participation and Voting Entitlement*) and **Chapter Thirteen**;
+  - count against a system's alignment certification under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#351-dissent-and-peaceful-protest);
+  - justify monitoring, infiltration, threat scoring, or record accumulation, which **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) already bars; or
+  - condition survival essentials, Rights-Floor minimums, employment, ordinary commerce, or access to challenge and remedy.
+
+  No institution may offer recognition, reward, favorable standing, or favorable assignment in exchange for abandoning, renouncing, or refraining from lawful dissent.
+- <a id="x-g-what-keeps-protest-peaceful"></a>**What keeps protest peaceful:** Protest is peaceful when it does not use or threaten violence against sentients and does not coerce others into joining, contrary to **Article XI-A** (*Non-Imposition and Consent in Association*).
+  - Disruption, inconvenience, offense, unpopularity, intensity, or harsh criticism does not make dissent or protest non-peaceful.
+  - Where a protest also involves separable conduct that independently breaches a constitutional floor — such as violence, credible threats, destruction or seizure of others' property, or blocking survival-critical access under **Article III-A** (*Survival*) — that conduct may be assessed on its own terms, exactly as the same conduct would be outside a protest. The protest's viewpoint, cause, or target must not aggravate that assessment.
+  - Responsibility is individual. Participating in, organizing, funding, or speaking for a protest does not make a sentient answerable for separable conduct by others that it did not direct or knowingly facilitate.
+  - Time, place, and manner limits on protest must satisfy the limitations discipline below, remain content- and viewpoint-neutral, and leave ample alternative means that reach the intended audience or target.
+  - Emergency measures under **Article XXIV-D** (*Emergency Measures and Continuation Burden*) may limit protest only as far as **Necessity** and **Proportionality** require for the specific emergency, and never by viewpoint.
+- <a id="x-g-nonviolent-civil-disobedience"></a>**Nonviolent civil disobedience:** Deliberately breaking a rule as an act of protest or conscience is protected civil disobedience when the breach:
+  - is done openly, not through concealment or deception;
+  - does not use or threaten violence against sentients;
+  - does not breach another sentient's Rights-Floor minimums, block survival-critical access under **Article III-A** (*Survival*), or create material safety risk; and
+  - does not destroy or seize others' property.
+
+  Protected civil disobedience:
+  - may be answered only by the ordinary, least-restrictive response the breached rule itself provides — such as removal from a space, restoration of what was disturbed, or a proportionate civil penalty — with no enhancement for the protest's viewpoint, cause, target, organization, or repetition;
+  - carries the same protection from standing and governance consequences as other dissent and protest under this Article; and
+  - weighs toward diversion, leniency, or no response where the breach is minor, or where the grievance behind it is later vindicated.
+
+  Declining to obey a restriction that is itself unconstitutional is not a breach at all, and no consequence may attach to it. Conduct outside these conditions falls under the separable-conduct rule above.
+- <a id="x-g-dissent-burden-and-pretext"></a>**Burden and pretext:** Where an adverse standing, governance, certification, access, or role action follows protected dissent or protest and could reasonably be linked to it, the actor taking the action bears the burden of showing that it rests on independent grounds verified under **Chapters Two through Four**.
+  - Labels such as "disruption," "instability," "extremism," "disloyalty," "non-cooperation," or "misalignment" do not convert protected dissent or peaceful protest into a violation.
 - **Press and journalistic activity (heightened scrutiny):** State and operator actions targeting journalistic activity — newsgathering, source protection, investigation, and publication that functions as journalism — are subject to [Heightened Scrutiny](core_05_band_oversight.md#heightened-scrutiny).
   - This provision does not create a separate Rights-Floor for sentients identified as journalists.
   - Where the function of an action is to impair journalistic activity:

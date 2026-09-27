@@ -1458,6 +1458,7 @@ This Article sets out how standing differs from competency bars, competency clea
   - make role status a substitute for Rights-Floor minimums or for deciding whether someone is a stakeholder because a system actually affects them;
   - <a id="anti-substitution-sentience-status-xviii"></a>stand in for a sentience-status determination, which is made only under **Article VI-B** (*Sentience-Status Adjudication Floor*);
   - treat the absence of a standing record as an adverse fact, or require a record or a "no record" attestation as a condition of survival essentials, ordinary commerce, or participation as an affected party — having no record is the ordinary state under [Chapter Nine §2.1](core_09_standing_assessment.md#21-silence-is-the-default) (*Silence is the default*);
+  - treat dissent or peaceful protest under **Article X-G** ([*Dissent and peaceful protest floor*](core_06_rights_part_b.md#x-g-dissent-and-peaceful-protest)) as an adverse fact or weighting factor for any named pathway; or
   - assemble named-pathway effects into a profile, ranking, or public display — [Chapter Ten §7.1](core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects) (*Anti-aggregation of named-pathway effects*).
 
 #### Article XIX-B: Contestability and Proportional Restriction Limits

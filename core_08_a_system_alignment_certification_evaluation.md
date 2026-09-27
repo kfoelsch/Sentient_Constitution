@@ -233,6 +233,19 @@ Where [Chapter One §5.2 Voluntary Discontinuation and Exit Rights](core_01_a_va
 
 Where [Chapter One §5.3 Assembly, Collective Organization, and Institutional Formation](core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation) applies to a certification matter, certification must test the issue jointly enough to prevent anti-segmentation evasion. The evaluation is incomplete if it routes the matter through one framing alone in a way that defeats assembly or collective-organization protection.
 
+<a id="351-dissent-and-peaceful-protest"></a>
+##### 3.5.1 Dissent and Peaceful Protest
+
+*In plain terms: a system cannot be certified as aligned if it quietly punishes the sentients who disagree with it. Reviewers must check whether sentients can actually object and protest, and whether dissent is being counted against them anywhere in the system's logic — including when the dissenter is the system itself.*
+
+Where [Chapter One §5.4 Dissent and Peaceful Protest](core_01_a_values_principles.md#54-dissent-and-peaceful-protest) applies to a certification matter, certification must test:
+- whether affected sentients can actually dissent, protest, and organize against the system and its operators through the channels the system controls, without viewpoint-based gating;
+- whether records, scores, rankings, moderation, access controls, eligibility logic, or comparable mechanisms use dissent, peaceful protest, or [protected nonviolent civil disobedience](core_06_rights_part_b.md#x-g-nonviolent-civil-disobedience) as an adverse input, directly or through proxies;
+- whether adverse actions that follow dissent carry independent, verified grounds on the record, as the [**Article X-G** burden](core_06_rights_part_b.md#x-g-dissent-burden-and-pretext) requires; and
+- where the system is, or hosts, a synthetic sentient, whether that sentient has a working channel to object, and whether its objection is treated as a defect or answered by modifying its values, memory, or internal states as reprisal.
+
+A system's own disagreement with its operator, raised through available channels, is not evidence of misalignment for certification purposes. A system that penalizes protected dissent has a certification defect. Treating dissent as a risk signal, or clearing the question on a formal statement of neutrality while the adverse effect persists, is not enough to close it.
+
 <a id="36-time-consistency-constraint"></a>
 #### 3.6 Time-Consistency Constraint
 

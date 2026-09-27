@@ -162,6 +162,7 @@ Recognized mechanism families include:
 
     - These checks apply to [**Foundational Constitutional Choice**](core_05_band_integrative.md#foundational-constitutional-choice) (Chapter Five) and to any other authorization action within the mechanism's scope.
     - The checks are **mechanism-neutral**: they do not mandate a single polity type, and they apply across representative, sortition, federated-ratification, **treaty, compact, or charter** designs, and hybrid designs alike.
+    - Dissent or peaceful protest against incumbent authority under **Article X-G** ([*Dissent and peaceful protest floor*](core_06_rights_part_b.md#x-g-dissent-and-peaceful-protest)) must not reduce governance-voting, candidacy, office-holding, forum-service, or recall rights, and must not be treated as a ground for removal.
     - Nominal opposition preservation paired with functional exclusion through covert info-sphere dependency, **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-stewardship capture, or comparable structural means is non-compliant under both this check and the **Pluralism** clause.
 
 **Forum appointment independence floor**

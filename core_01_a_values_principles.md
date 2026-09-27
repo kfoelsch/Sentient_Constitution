@@ -687,7 +687,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 - Read with: [§14 Market Structure](core_01_c_stewardship_capacity_principles.md#14-market-structure), especially [§14.2 Pro-Competition and Anti-Domination](core_01_c_stewardship_capacity_principles.md#142-pro-competition-and-anti-domination), and [Article XX: Interoperability, Portability, Movement, Refuge, and Exit Integrity](core_06_rights_part_c.md#article-xx-interoperability-portability-and-exit-integrity) where concentration, domination, or lock-in materially limits agency — contestable markets, exit paths, and anti-domination discipline keep agency real at scale.
 - Read with: [§5.1 Limitation Discipline](#51-limitation-discipline) and [Chapter Eight §3.6 Time-Consistency Constraint](core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint) — operative freedom-limitation and time-consistency evaluation discipline; when freedom limits collide with other values or rights, resolve under [§6.1](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) through [§6.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) after **Safety** and **Truth** are satisfied.
 - Upstream: Principles: [§2.2 Recognition, Reinforcement, and Aspiration](#22-recognition-reinforcement-and-aspiration); [3.1 Safety](#31-safety-harm-constraint); [3.2 Truth](#32-truth-epistemic-integrity-constraint); [4. Trust](#4-system-stability-enabler-trust-coordination-integrity); and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
-- Downstream: [§5.1 Limitation Discipline](#51-limitation-discipline) through [§5.3 Assembly, Collective Organization, and Institutional Formation](#53-assembly-collective-organization-and-institutional-formation); [6. Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); [7. Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override); [§16 Integrated Application](core_01_c_stewardship_capacity_principles.md#16-integrated-application); and [§6.1 decision-record discipline](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) where concrete applications require collision handling.
+- Downstream: [§5.1 Limitation Discipline](#51-limitation-discipline) through [§5.4 Dissent and Peaceful Protest](#54-dissent-and-peaceful-protest); [6. Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); [7. Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override); [§16 Integrated Application](core_01_c_stewardship_capacity_principles.md#16-integrated-application); and [§6.1 decision-record discipline](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) where concrete applications require collision handling.
 - Downstream: Frames the rights surface for equal status, education, self-ownership, publication and likeness control, agency, cooperative interaction, due process, standing, and anti-capture review.
   - Especially [Article VI: Equal Basic Rights](core_06_rights_part_b.md#article-vi-equal-basic-rights), [Article IV: Right to Sentient-Centered Education](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education), [Article VII: Self-Ownership](core_06_rights_part_b.md#article-vii-self-ownership), [Article IX: Likeness, Experiential Data, and Publication Rights](core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights), [Article X: Self-Determination and Agency](core_06_rights_part_b.md#article-x-self-determination-and-agency), [Article XI: Cooperative Interaction](core_06_rights_part_b.md#article-xi-cooperative-interaction), [Article XII: Stakeholder System Participation, Representation, and Due Process](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [Article XIX: Standing and Participation Status](core_06_rights_part_c.md#article-xix-standing-and-participation-status), and [Article XXIII: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards).
   - This also covers any Chapter Six Rights Floor context where agency is limited or claimed.
@@ -728,7 +728,7 @@ Operative tests live in [§5.1 Limitation Discipline](#51-limitation-discipline)
 
 [Meaningful Agency](core_05_band_participation.md#meaningful-agency) is the capacity that makes real choice possible. [Consent](core_05_band_participation.md#consent-constitutional) is valid agreement to a specific decision under that capacity — not a substitute for it, and not proven by a form alone. [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional) defeats both. Operative detail for that relationship lives in Chapter Five §2 *Agency, consent, and anti-coercion*.
 
-Freedom does not include authority to subvert constitutional systems, defeat constitutional process or remedies, or claim protected agency for conduct whose material purpose or effect is to reward, protect, normalize, or make anti-constitutional conduct advantageous.
+Freedom does not include authority to subvert constitutional systems, defeat constitutional process or remedies, or claim protected agency for conduct whose material purpose or effect is to reward, protect, normalize, or make anti-constitutional conduct advantageous. Dissent against constitutional systems, and peaceful protest aimed at changing them, is not subversion: see [§5.4 Dissent and Peaceful Protest](#54-dissent-and-peaceful-protest).
 
 #### 5.1 Limitation Discipline
 
@@ -872,6 +872,43 @@ That path is not a grant of power. Starting, running, funding, publishing, or su
 - count as a [Merits Determination](core_05_band_accountability.md#merits-determination) — a binding decision on the substance of the dispute
 
 Being received, routed, or answered is not approval of the authors' conclusions. Any governing or merits effect requires the separate lawful authority, evidence, fair process, review, and remedy this Constitution assigns. The full no-self-appointment rule lives in [§10.4 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#104-aligned-self-organization).
+
+#### 5.4 Dissent and Peaceful Protest
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+*Rights-Floor home.* **[Article X-G](core_06_rights_part_b.md#x-g-dissent-and-peaceful-protest)** (*Expression, Assembly, and Press*) states the operative dissent, peaceful protest, and civil disobedience floor. This subsection states the Freedom principle it implements.
+
+- [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency) · [O](core_05_band_participation.md#freedom-bounded-agency) · [M](core_05_band_participation.md#freedom-bounded-agency-a) · [A](core_05_band_participation.md#freedom-bounded-agency-a) · [C](core_05_band_participation.md#freedom-bounded-agency-c)
+- [Meaningful Agency](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [Assembly](core_05_band_participation.md#assembly-constitutional) · [O](core_05_band_participation.md#assembly-constitutional) · [M](core_05_band_participation.md#assembly-constitutional-a) · [A](core_05_band_participation.md#assembly-constitutional-a) · [C](core_05_band_participation.md#assembly-constitutional-c)
+- [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+<a id="54-dissent-and-peaceful-protest"></a>
+
+*In plain terms: freedom includes the freedom to say no — to disagree with any authority, including this Constitution, and to protest peacefully to change it. A system that punishes disagreement is no longer contestable, and a system that cannot be contested cannot correct itself.*
+
+**Dissent is part of freedom.** [Meaningful Agency](core_05_band_participation.md#meaningful-agency) includes the ability to disagree with, object to, and organize against the decisions, institutions, and systems that shape a sentient's life. Bounded agency that could not reach the systems doing the bounding would not be meaningful.
+
+**Dissent keeps systems contestable.** The [**Continuity**](core_00_preamble.md#continuity) aim depends on constitutional systems that stay contestable. Dissent and peaceful protest are how contest reaches authority from outside formal process, and how errors that formal process has missed become visible. They serve the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation** and **oversight** legs.
+
+**Dissent is not subversion.** Disagreeing with this Constitution or with the authority acting under it, and advocating by peaceful and lawful means to amend it or to change who holds authority, is exercise of freedom. It is not the subversion of constitutional systems excluded from protected agency in [§5 Freedom (Bounded Agency)](#5-freedom-bounded-agency). Subversion requires force, coercion, usurpation, or making constitutional process or remedies unusable in practice.
+
+**Limiting dissent follows limitation discipline.** Dissent and peaceful protest may be limited only under [§5.1 Limitation Discipline](#51-limitation-discipline).
+- Disagreement, disruption, inconvenience, offense, unpopularity, or pressure on authority is not, by itself, **material harm** or **systemic risk**.
+- Limits must not turn on viewpoint, and the party limiting dissent bears the burden under **Chapter Four**.
+
+**Exercising freedom must not cost standing or voice.** A sentient's exercise of this freedom must not become a reason to lower its standing, narrow its role eligibility, reduce its governance voice, or count against a system's alignment certification. Operative rules, including the civil-disobedience rule and the burden on adverse actions that follow dissent, live in **[Article X-G](core_06_rights_part_b.md#x-g-dissent-and-peaceful-protest)**.
+
+Whole-system evaluations must test this principle under [Chapter Eight §3.5.1 Dissent and Peaceful Protest](core_08_a_system_alignment_certification_evaluation.md#351-dissent-and-peaceful-protest) before classification, governance, or compliance claims stand where it applies.
+
+**What this section does not change.** **§5.4** (*Dissent and Peaceful Protest*) states the Freedom principle behind the Chapter Six floor. It does not narrow **Article X-G** (*Expression, Assembly, and Press*), and it does not protect separable conduct that independently breaches Safety or another sentient's Rights-Floor minimums.
 
 <br>
 
