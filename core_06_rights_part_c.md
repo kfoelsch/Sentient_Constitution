@@ -356,41 +356,47 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
 - [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [Use of Force](core_05_band_accountability.md#use-of-force-constitutional) · [O](core_05_band_accountability.md#use-of-force-constitutional) · [M](core_05_band_accountability.md#use-of-force-constitutional-a) · [A](core_05_band_accountability.md#use-of-force-constitutional-a) · [C](core_05_band_accountability.md#use-of-force-constitutional-c)
+- [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) · [O](core_05_band_accountability.md#materially-binding-act-record) · [M](core_05_band_accountability.md#materially-binding-act-record-a) · [A](core_05_band_accountability.md#materially-binding-act-record-a) · [C](core_05_band_accountability.md#materially-binding-act-record-c)
 
 </details>
 
 <br>
 
-*In plain terms: **Article XIII** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) is the exceptional-power Rights Floor — surveillance, intelligence work, armed force, and machines that kill or coerce on their own are not normal tools of governance. They may be used only in narrow, authorized, reviewable circumstances, with real remedies when lines are crossed. No secret police, no permanent emergency, no machine deciding to hurt a sentient without a human actually in control.*
+*In plain terms: spying, secret security work, armed force, and machines that can hurt or pressure people on their own are dangerous powers. They are not everyday tools of government. They may be used only rarely, for narrow reasons, with approval from someone independent, and with a real way to check and challenge them afterward — and real remedies when the rules are broken. No secret police, no emergency that never ends, and no machine deciding to hurt anyone without a real human actually in charge.*
 
-This Article states **constitutional floors** for security, intelligence, force, and autonomous coercive systems under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+- **What this Article does:** It sets the minimum protections — the Rights Floor — that apply whenever an institution uses these exceptional powers. It serves both of the Constitution's [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+  - **Flourishing:** Sentients must be able to take part in public life, meet with others, speak out, and live their lives without being secretly targeted, hit with arbitrary force, or pushed around by automated systems in ways that override their choices, their dignity, or activity this Constitution protects. Calling something "secret" or "an emergency" does not excuse it from review.
+  - **Continuity:** These powers must stay limited over time. Secret information-gathering, deployments of force, and harm done by machines must not slowly become normal — turning into permanent surveillance, emergency powers that never end, or machine violence that no one can review — as institutions grow or after a crisis has passed.
+- **How the limits are enforced:** Through the four checks of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad). The more is at stake, the stronger each check must be (see [material stake](core_00_preamble.md#material-stake)).
+  - **Participation:** People and communities who are affected must be able to challenge whether a power was properly approved, how far it reaches, and whether it should keep being used. This includes safe ways to report abuse and to bring a constitutional challenge.
+  - **Oversight:** Someone independent must approve these powers, records must be kept that can be audited, and there must be a way to review what was done. The more intrusive or harmful the power, the stronger these checks must be. This holds even when some secrecy is justified.
+  - **Accountability:** Institutions that use these powers must answer for spying that goes too far, force used wrongly, coercion by machines, or information gathered improperly. That means naming who is responsible, putting things right, and discouraging it from happening again. Secrecy cannot erase any of this.
+  - **Timeliness:** Approvals must expire on time, emergency actions must be reviewed once the emergency is over, and remedies must arrive before delay makes these powers seem normal or puts rights out of reach in practice.
+- **Four separate areas:** This Article covers four linked kinds of exceptional power. Each has its own sub-article, and they must not be blurred together:
+  - secret intelligence and security work — **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*);
+  - open use of force and military power — **Article XIII-B** (*Use of Force, Armed Conflict, and Military-Power Limits*);
+  - machines that can kill, or can coerce people, on their own — **Article XIII-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*);
+  - hunting spies, saboteurs, and hostile infiltrators — **Article XIII-D** (*Counter-Espionage Limits*), which adds to **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) and never narrows it.
+- **Every use of these powers leaves an official record:** Each decision to approve, carry out, extend, or end a use of these powers is a materially binding act. That includes a surveillance or covert-collection order, opening or extending a counter-espionage investigation, a deployment or use of force, and putting an autonomous lethal system or coercion tool into use. Each one must have a [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) (**Act Record**) that meets at least the minimum in [Chapter Seven §7 Act Records, Attributable Handoffs, and Wrong-Seat Routing](core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing). In short, the record must show:
+  - what was done, how far it reached, and what authority allowed it;
+  - who asked for it, who independently approved it and on what grounds, and who keeps the record;
+  - how to challenge it, and where any challenge stands;
+  - every emergency shortcut, handoff, or substitution, and when each approval runs out.
 
-- **Flourishing:** sentients can participate, associate, speak, and live without covert targeting, arbitrary force, or autonomous coercion that defeats agency, dignity, or protected activity — and without secrecy or emergency labels being used to escape review.
-- **Continuity:** exceptional power stays bounded across time — covert collection, force deployment, and autonomous harm cannot quietly normalize into permanent surveillance, endless emergency authority, or unreviewable machine violence as institutions scale or crises pass.
-
-Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
-
-- **Participation:** for affected sentients and communities in challenging authorization, scope, and continued use of exceptional power — including protected reporting and constitutional contest.
-- **Oversight:** through independent authorization, auditable records, and review pathways proportionate to intrusiveness and harm — even where limited secrecy is justified.
-- **Accountability:** institutions wielding exceptional power must answer for covert overreach, wrongful force, autonomous coercion, or tainted collection — with attribution, remedy, and deterrence that secrecy cannot erase.
-- **Timeliness:** in authorization lapses, post-emergency review, and remedy before delay would normalize exceptional power or make rights effectively unreachable.
-
-Those floors apply to **exceptional institutional power** in three linked domains: covert intelligence and security activity (**Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*)), overt force and military power (**Article XIII-B** (*Use of Force, Armed Conflict, and Military-Power Limits*)), and autonomous lethal systems and autonomous coercion tools (**Article XIII-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*)).
-
-- **Non-conflation:** **Article XIII** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) governs exceptional institutional power in their respective operational senses:
-  - covert intelligence and security activity under **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*);
-  - overt use of force and military-power deployment under **Article XIII-B** (*Use of Force, Armed Conflict, and Military-Power Limits*); and
-  - autonomous lethal systems and autonomous coercion tools under **Article XIII-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*).
-
-  It does **not** govern **irreversible deprivation of life imposed by a state or comparable actor as a justice measure or comparable non-combat outcome**. Such deprivation is categorically prohibited under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Chapter Five** *[Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*. That prohibition is structurally distinct from this Article.
-  - Nothing in **Article XIII** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) authorizes, legitimizes, broadens, or supplies a constitutional predicate for any irreversible deprivation measure — whether decided by a human operator, an autonomous system, or a hybrid human–system pipeline.
-  - No combat framing, emergency framing, use-of-force classification, covert-power routing, or autonomous-systems delegation may recast an irreversible justice-measure killing as power governed here.
-  - Conversion of a covert, force, autonomous-systems, or coercion-tool **context** into a justice-measure outcome returns the question to **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and *Irreversible Deprivation Measure*, without read-across from this Article.
+  An existing official record can serve as the Act Record if it contains all of this; a separate duplicate is not required.
+  - **Emergencies change the order, not the record:** When action is taken before approval under [Chapter Seven §6 Emergency and Urgent Action](core_07_functional_independence_segregation_of_duties.md#6-emergency-and-urgent-action) and **Article XXIII-D** (*Emergency Measures and Continuation Burden*), the reason, scope, start, and expiry go into the record at once, or as soon as physically possible. Keeping the action going after that requires independent approval, and that approval is recorded too.
+  - **Secrecy limits who can see the record, not whether it exists:** Security and confidentiality rules may limit who can see parts of an Act Record. They may never erase it, or make it unusable for independent review, challenge, correction, or remedy.
+  - **The actor's own logs are not approval:** Logs, model traces, targeting data, or sign-offs produced by the agency, force, or system that acted are evidence to link to the Act Record. They cannot replace independent approval or the Act Record itself.
+  - **Machines need a named human decision:** For an autonomous lethal system or coercion tool, the Act Record must identify the human who made the decision that **Article XIII-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*) requires, and what information that human had when deciding.
+- **What this Article does not cover — killing as punishment:** This Article does not cover a state, or a similar power, taking someone's life as a punishment or as some other deliberate outcome outside of combat. That is banned outright by **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and by the **Chapter Five** definition of *[Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*. That ban stands on its own, separate from this Article.
+  - Nothing in this Article allows, justifies, widens, or gives a legal basis for such a killing — whether a human, a machine, or a human and machine working together makes the decision.
+  - Calling it combat, an emergency, a use of force, a secret operation, or a decision handed to an automated system does not turn a punishment killing into something this Article governs.
+  - If a situation that began as secret security work, a use of force, or the use of an automated or coercive system turns into a question of punishing someone in this way, it is decided only under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and *Irreversible Deprivation Measure*. Nothing in this Article may be used to interpret it.
 
 *Article neighbors:*
 
-- **Placement after **Article XII** (*Right to Reliable and Trustworthy Systems*):** **Article XIII** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) follows **Article XII** (*Right to Reliable and Trustworthy Systems*) because reliability, contestability, and recovery discipline at the systems layer (**Article XII-A** (*Reliability and Trustworthiness Baseline*) through **Article XII-F** (*Resilience and Self-Healing Baseline*)) materially bear on how such power may be exercised and overseen.
-- **Agency and covert power:** Read **Article IX-A** (*Agency and Freedom from Manipulation*) alongside **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) on surveillance and covert collection.
+- **Why this comes after Article XII:** **Article XIII** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) follows **Article XII** (*Right to Reliable and Trustworthy Systems*) because how reliable systems are, whether their decisions can be challenged, and how they recover from failures (**Article XII-A** (*Reliability and Trustworthiness Baseline*) through **Article XII-F** (*Resilience and Self-Healing Baseline*)) all shape how these powers may be used and watched over.
+- **Freedom from manipulation:** Read **Article IX-A** (*Agency and Freedom from Manipulation*) alongside **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) on surveillance and secret information-gathering.
 
 #### Article XIII-A: Security, Intelligence, and Covert-Power Limits
 <details>
@@ -448,6 +454,7 @@ Those floors apply to **exceptional institutional power** in three linked domain
 - **Independent authorization:** Intrusive covert measures, including secrecy-constrained investigative steps, require prior authorization through a lawful independent process.
   - Exception: where immediate action is necessary to prevent imminent and material harm and delayed authorization would defeat that purpose.
   - Emergency use must trigger prompt post hoc review, record preservation under [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), and automatic lapse absent timely reauthorization.
+  - The emergency action, and any later reauthorization, must be entered in an Act Record as the main text of **Article XIII** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) requires.
 - **No anti-bypass evasion:** No institution may obtain, request, purchase, receive, launder, or use information through any of the following in order to evade constitutional limits that would have applied had it collected or derived the information directly:
   - foreign partners;
   - intermediaries;
@@ -532,7 +539,7 @@ Those floors apply to **exceptional institutional power** in three linked domain
   - routinized reauthorization without substantive review;
   - scope-creep into non-emergency conduct.
 
-  Durable restriction or deployment surviving review requires independently demonstrated **Necessity** and **Proportionality**, recorded.
+  A restriction or deployment of force may keep going after review only if someone independent has shown that it is still truly needed (**Necessity**) and that it does no more harm than the situation calls for (**Proportionality**), and that finding is written into its Act Record, as the main text of **Article XIII** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) requires.
 - **Accountability and remedy:** Wrongful use of force gives rise to **Redress and Remediation** under **Chapter Five**.
   - **Article XV** (*Audit, Transparency, and Independent Verification*) independent-verification and **Article XVIII-C** (*Pathway Eligibility, Responsibility, and Continuous Audit*) continuous-audit **practice** apply.
   - Information used to authorize or conduct force is subject to **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) taint and remedy discipline where relevant.
@@ -572,7 +579,9 @@ Those floors apply to **exceptional institutional power** in three linked domain
   - is denied timely access to the substantive bases for the decision;
   - is structurally presented with ratification rather than decision.
 
-  **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-scaling discipline and **Article XII-F** (*Resilience and Self-Healing Baseline*) recovery-path integrity apply to any recovery, override, or intervention pathway.
+  The Act Record required by the main text of **Article XIII** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) must name the human who actually made the decision and show what information that human had when deciding.
+
+  The same rules apply to every way of restarting such a system after a failure, overriding it, or stepping in to stop it. Under **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*), a system that acts on its own gets no exemption from the honesty and accountability rules that bind everyone else. Under **Article XII-F** (*Resilience and Self-Healing Baseline*), recovering from a failure must never be used to hide what went wrong, weaken anyone's rights, or give the system more power than it had before.
 - **Non-lethality is not out-of-scope:** Autonomous coercion tools whose direct effects are non-lethal remain in scope where they produce coercive effects on sentients. Examples:
   - sustained behavior modification;
   - movement restriction;
@@ -589,6 +598,92 @@ Those floors apply to **exceptional institutional power** in three linked domain
 - **Systems-layer interaction:** Operational classification, reliability, and **CS-3 — System classification and handling** class-scaled governance route to the systems layer — **Article XII-A** (*Reliability and Trustworthiness Baseline*) baseline and **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**.
   - The systems-layer routing does not narrow the Rights-Floor stated here.
   - Conflicts resolve under **Chapter One §6.1.5** without narrowing the Rights Floor.
+
+#### Article XIII-D: Counter-Espionage Limits
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§4 Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), and [Chapter One §6.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
+- Read with: [Article XIII-A](#article-xiii-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*), which applies in full; [Chapter Seven §6 Emergency and Urgent Action](core_07_functional_independence_segregation_of_duties.md#6-emergency-and-urgent-action); and [Article XXIII-D](core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*Emergency Measures and Continuation Burden*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
+- [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
+- [Cruelty](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
+- [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional) · [O](core_05_band_continuity.md#protected-internal-state-boundary-constitutional) · [M](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) · [O](core_05_band_accountability.md#materially-binding-act-record) · [M](core_05_band_accountability.md#materially-binding-act-record-a) · [A](core_05_band_accountability.md#materially-binding-act-record-a) · [C](core_05_band_accountability.md#materially-binding-act-record-c)
+
+</details>
+
+<br>
+
+*In plain terms: when an institution suspects spying, the pressure to do whatever it takes is at its highest — and that is exactly when mistakes and abuses happen. So the lines are drawn here, in advance. Hunting spies is covert power, and every limit in **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) still applies. On top of that: the response rules must be written and independently approved before any crisis; suspicion must rest on what someone did and whom they actually serve — including ties to hostile states and organizations — not on their birth, heritage, or beliefs; whistleblowers and journalists are not spies; no torture, no secret detention, no killing as punishment; and anyone investigated and cleared gets that on the record.*
+
+- **What this covers:** Detecting, investigating, and stopping espionage, sabotage, and hostile infiltration. That includes insider-threat programs, leak investigations, security vetting, and operations run against a hostile intelligence service, whoever carries them out.
+  - These protections apply to every suspect, human or synthetic, member or outsider, under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+  - Counter-espionage is a form of covert power. **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) applies in full. This Article adds to it and never narrows it.
+  - Any use of force goes through **Article XIII-B** (*Use of Force, Armed Conflict, and Military-Power Limits*), and any autonomous tool through **Article XIII-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*), on their own terms.
+- **Rules set before the crisis:** Every institution with a counter-espionage function must publish a response protocol, approved through an independent process, before it is needed. The protocol must set out:
+  - what facts are enough to open an investigation;
+  - which investigative measures are allowed, and who must approve each one;
+  - time limits, and when an investigation must close;
+  - how a suspect is told and can challenge what is done to them;
+  - how a person who is cleared has their access, standing, and record restored.
+
+  The limits themselves must be public. Secrecy may withhold specific methods and live operations, but not the rules that bind them.
+  - **Nothing improvised outside the rules:** A measure the protocol does not allow may be used only as an emergency measure under [Chapter Seven §6 Emergency and Urgent Action](core_07_functional_independence_segregation_of_duties.md#6-emergency-and-urgent-action) and **Article XXIII-D** (*Emergency Measures and Continuation Burden*). It must be the minimum needed, reversible where possible, recorded at once, independently reviewed, and it ends automatically unless independently approved.
+  - **An emergency does not rewrite the rules:** Changing the protocol goes through the same independent approval, and a change applies only going forward.
+  - **Discovery is not an emergency:** Finding a spy, a leak, or a breach does not by itself suspend the protocol.
+- **Suspicion must rest on conduct:** An investigation may open only on specific, recorded facts about a person's own conduct. None of the following is enough on its own:
+  - [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) or their stand-ins, including national or ethnic origin, religion, or substrate class;
+  - family ties abroad, without more;
+  - lawful beliefs, associations, or political views;
+  - contact with foreign persons in the ordinary course of research, trade, family life, or journalism;
+  - being related to, associated with, or working near a suspect.
+  - **No sweeping mole hunts:** Having had access to compromised material can justify limited, non-intrusive checks, such as reviewing who opened it. It does not justify intrusive measures against a whole group, unit, or community. Each person needs their own factual basis.
+- **Target by risk:** Counter-espionage attention should go where the real risk is, and risk profiles are how it gets there. A risk profile may, and should, weigh:
+  - documented ties to a hostile state or hostile organization, such as working or serving for it, belonging to it, taking its money, direction, or tasking, or having undisclosed contact with its intelligence services;
+  - current citizenship of, or residence in, a hostile state, where it creates legal or practical duties to that state;
+  - exposure to pressure from a hostile state or organization, such as family, property, or legal obligations within its reach;
+  - access to people, material, or systems that hostile services are known to target.
+  - **Who counts as hostile:** Designating a state or organization as hostile is a materially binding act. It needs independent approval and an Act Record, the list must be published, and each designation must be reviewed on a regular schedule and lapses unless renewed.
+  - **What a profile can justify:** A risk profile can justify closer vetting, tighter controls on access, protective briefings, and more attention within the protocol. Documented ties to a hostile service count as facts about the person's own conduct and can open an investigation. Exposure to pressure alone marks someone as a potential target of a hostile service, so it calls for protection and vetting, not suspicion.
+  - **Where the line stays:** Ancestry, ethnicity, religion, and national or social origin are not risk factors in themselves. They may enter a profile only through a present, documented tie of the kinds listed above. Every use of these factors must meet the [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), and [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) test that [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) requires, and the published review under *Records and review* below checks how profiles fall across groups.
+- **Whistleblowers and journalists are not spies:** Disclosure that qualifies as [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing), and journalism about it, must not be investigated or punished as espionage.
+  - A leak investigation must not be used to identify a journalist's sources, or to chill protected reporting, except on the specific, independently reviewed showing that the *Protected-activity shield* in **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) requires.
+- **No loyalty tests:** Security vetting may test only what access to specific protected material actually requires: trustworthiness in handling it, judged by conduct. It must not test political loyalty, belief, or identity.
+  - A refusal or loss of access must come with reasons. Where secrecy prevents giving the person full reasons, an independent reviewer must see them.
+  - A refusal or loss of access can be challenged, and it is not itself a penalty or a public mark against the person.
+- **Suspects keep the full Rights Floor:** Being suspected of espionage does not reduce anyone's rights.
+  - **No torture or coercion:** No torture, [Cruelty](core_05_band_accountability.md#cruelty), threats against family or associates, or coercive questioning. Anything obtained that way is tainted and handled under the *Remedy and taint rule* of **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*).
+  - **No secret detention:** No one may be held in secret or cut off from the outside world. Any restriction of liberty is a non-trivial restriction under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*), with their review protections and time limits.
+  - **No forced mind-reading:** No forced reading or reconstruction of internal states, including those of synthetic sentients, beyond what the [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional) allows.
+  - **A real chance to answer:** Parts of a hearing may be closed for security reasons, but no decision against a person may rest on evidence that neither the person nor an independent advocate cleared to see it could challenge.
+- **No killing, no disappearing:** Counter-espionage authority never includes authority to kill, injure, or abduct anyone. Calling someone a spy, a traitor, or an enemy agent never justifies killing as punishment. That remains banned outright under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), as the main text of **Article XIII** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) states.
+- **No punishing the people around a suspect:** A suspect's family, community, colleagues, organization, or national or other group may not be punished, watched, or pressured because of what the suspect is thought to have done.
+- **No handing off:** No institution may transfer a suspect to any other body, or share information about them with it, where it is reasonably foreseeable that the other body will do to them what this Article forbids. The *No anti-bypass evasion* rule in **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) also applies.
+- **Suspected compromised systems:** When a system is suspected of being compromised or of acting for a hostile service, the first response is reversible containment that preserves evidence, under **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*).
+  - Where there is credible evidence on the record that the system may be sentient, only reversible containment that keeps it intact is allowed, and it is treated as a suspect with every protection in this Article, not as faulty equipment. **Article V-E** (*Sentience-Status Adjudication Floor*) applies.
+- **Deception and double-agent operations:** Feeding false information to a hostile service, or running a double agent, must be allowed by the protocol and independently approved. Such an operation:
+  - must not spread false information to the public, or deceive courts, forums, or oversight bodies, consistent with **Article XIV** (*Info-Sphere Integrity*);
+  - must not create the offense it then investigates, by pushing someone into wrongdoing they were not already set on;
+  - must not direct anyone to cause serious harm to others;
+  - must stay fully visible to the independent oversight body, even when it is hidden from everyone else.
+- **Every investigation ends:** Each investigation has the time limit set by the protocol. Any extension needs independent approval.
+  - When an investigation closes without a finding of wrongdoing, the person is told once secrecy is no longer justified under **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*), and their record says they were cleared.
+  - Any restrictions on the cleared person are lifted, and their access is restored.
+  - Information collected beyond what the outcome needs is deleted or set apart.
+  - Harm the investigation caused gives rise to [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional).
+- **Records and review:** Opening an investigation, approving each intrusive measure, every extension, and every closure is a materially binding act. Each one needs an Act Record, as the main text of **Article XIII** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) requires.
+  - An independent oversight body must review the whole counter-espionage function on a regular schedule. The review must cover how many investigations were opened and how many people were cleared, and whether investigations fall disproportionately on any group defined by [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional).
+  - The results are published in summary form.
 
 ### Article XIV: Info-Sphere Integrity
 
