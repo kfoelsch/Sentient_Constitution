@@ -1366,6 +1366,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 *Article neighbors:*
 
+- **Structure:** **Articles XI-A** through **XI-E** state the freedoms — conscience, expression, press, assembly and dissent, and institutional formation. **Articles XI-F** and **XI-G** state the consent and harm boundaries that apply to all of them.
 - **Upstream boundaries:** Cooperative protocols respect the boundaries established in **Articles VI through X**.
 - **Publication:** Where publication is involved, the expression and press floors in **Articles XI-B** (*Expression*) and **XI-C** (*Press and Journalistic Activity*) are read with **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*).
 - **Commercial sexual services:** Adult consensual commercial sexual services and sexual exploitation are addressed in **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) as a matter of self-ownership.
@@ -1450,10 +1451,10 @@ This Article sets out the expression floor and the limitation, anti-chilling, an
 - **Audience routing for hard content:** Where any of these three kinds of content is directed at, or foreseeably reaches by default, developing sentients or comparably vulnerable audiences, labeling, routing, or access controls must satisfy **Chapter One §5.1** (*Limitation Discipline*) limitation discipline — **Necessity**, **Proportionality**, narrow tailoring, and least-restrictive-effective means — read with **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*).
   - Adult-to-adult expression among sentients with capacity must not be erased under a developing-audience pretext.
   - Survivor testimony, journalism, and comparable reportage must not be silenced under an overbroad trauma or harm label.
-- **Limitations discipline:** Limitations on expression, press, or assembly — under this Article and **Articles XI-C** (*Press and Journalistic Activity*) and **XI-D** (*Assembly, Dissent, and Peaceful Protest*) — must satisfy **Chapter One §5.1** (*Limitation Discipline*) limitation discipline: **Necessity**, **Proportionality**, narrow tailoring, and least-restrictive-effective means.
-  - Content-based restriction is subject to [highest scrutiny](core_05_band_oversight.md#highest-scrutiny).
-  - Viewpoint-based restriction is prohibited absent satisfaction of the **Article VI-C** (*Nondiscrimination*) non-discrimination floor and **Chapter One §6.1.5** (*Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle*) genuine-rights-collision resolution.
-  - Restrictions must not turn on **Protected Characteristics** or on their material proxies.
+- **Limitations discipline:** Any limit on expression, press, or assembly — whether under this Article, **Article XI-C** (*Press and Journalistic Activity*), or **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) — must pass the tests in **Chapter One §5.1** (*Limitation Discipline*). The limit must be truly needed (**Necessity**), no heavier than the problem it addresses (**Proportionality**), drawn narrowly enough to catch only what it is aimed at, and the gentlest option that still works.
+  - **Limits based on what is said:** A limit aimed at a topic or kind of content faces the strictest review in this Constitution — [highest scrutiny](core_05_band_oversight.md#highest-scrutiny). It is treated as invalid until clear, verified evidence proves otherwise.
+  - **Limits based on point of view:** Allowing one side of an issue to speak while silencing the other is forbidden. The only exception is a genuine clash with another sentient's rights. Even then, the limit must not discriminate (**Article VI-C** (*Nondiscrimination*)), and the clash must be settled under **Chapter One §6.1.5** (*Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle*): the lightest measure that works, for a limited time, and open to challenge.
+  - **Limits based on who is speaking:** No limit may depend on a speaker's **Protected Characteristics**, or on stand-ins that do the same work — such as a name, address, or affiliation used to single out a protected group.
 - **Anti-chilling discipline:** Measures that do not formally restrict expression, press, or assembly but that materially chill them are evaluated on substantive effect, not formal design — consistent with **Chapter One §5** *Trust* and **Article X-A** (*Agency and Freedom from Manipulation*) freedom-from-manipulation. Examples in scope:
   - disproportionate surveillance;
   - burdensome authorization regimes;
@@ -1463,7 +1464,14 @@ This Article sets out the expression floor and the limitation, anti-chilling, an
   "High-impact" or "stability" framings that do not satisfy the ordinary limitations tests do not justify chilling protected activity.
 - **Limits of this Article:** **Articles XI-B** (*Expression*), **XI-C** (*Press and Journalistic Activity*), and **XI-D** (*Assembly, Dissent, and Peaceful Protest*) state the constitutional floor for expression, press, and assembly — not the full rulebook for running platforms, broadcasters, or newsrooms.
   - Licensing, accreditation, broadcast and platform rules, moderation procedures, and rules for gathering in shared digital spaces are worked out under **Chapter Seventeen**. Those implementation details cannot cut back the floors stated there.
-  - When this floor conflicts with cooperation and consent (**Article XI-F** (*Non-Imposition and Consent in Association*)), stakeholder participation (**Article XII** (*Stakeholder System Participation, Representation, and Due Process*)), information integrity (**Article XV** (*Info-Sphere Integrity*)), auditability (**Article XVI-A** (*Auditability and Observable Evidence*)), or the protected-activity limits in **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*), resolve the conflict under **Chapter One §6.1.5** (*Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle*) without weakening any floor involved.
+  - This floor may conflict with:
+    - cooperation and consent — **Article XI-F** (*Non-Imposition and Consent in Association*);
+    - stakeholder participation — **Article XII** (*Stakeholder System Participation, Representation, and Due Process*);
+    - information integrity — **Article XV** (*Info-Sphere Integrity*);
+    - auditability — **Article XVI-A** (*Auditability and Observable Evidence*);
+    - the protected-activity limits in **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*).
+
+    Resolve any such conflict under **Chapter One §6.1.5** (*Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle*), without weakening any floor involved.
 
 #### Article XI-C: Press and Journalistic Activity
 
@@ -1524,7 +1532,7 @@ This Article sets out heightened protection for journalistic activity and the cr
 
 <br>
 
-*In plain terms: every sentient may gather, associate, and act together — in physical, digital, or shared-compute spaces — and may disagree and protest peacefully, including open, nonviolent civil disobedience. Doing so can never cost them standing, a vote, an office, or certification, and surveillance, retaliation, or access-gating that quietly silences protest is not allowed.*
+*In plain terms: every sentient may gather, associate, and act together — in physical, digital, or shared-compute spaces — and may disagree and protest peacefully, including open, nonviolent civil disobedience. Doing so can never cost them standing, a vote, an office, certification, or their job, and surveillance, retaliation, or access-gating that quietly silences protest is not allowed.*
 
 This Article sets out the assembly, dissent, and peaceful protest floors and the protections that keep them real:
 
@@ -1542,7 +1550,7 @@ This Article sets out the assembly, dissent, and peaceful protest floors and the
     - boycotts, and strikes or collective work stoppage consistent with **Article III-C** (*Labor and Economic Floor*);
     - symbolic and embodied action;
     - withdrawal of voluntary participation; and
-    - conscientious refusal under **Article XI-A** (*Freedom of conscience, religion, and comparable worldview*).
+    - conscientious refusal — openly declining to take part in an act, task, or requirement that violates one's conscience, religion, or comparable worldview, such as refusing military service (see **Article XIV-B** (*Use of Force, Armed Conflict, and Military-Power Limits*)) or declining an assigned task on grounds of conscience. This refusal is protected under **Article XI-A** (*Freedom of conscience, religion, and comparable worldview*), but it does not excuse violating the rights of others or non-negotiable safety or ecological constraints.
   - A synthetic sentient's stated disagreement with its operator, developer, or steward, or an objection it raises through available channels, is dissent under this floor.
     - It is not, by itself, evidence of misalignment, malfunction, or unfitness.
     - It must not be answered by modifying the sentient's values, memory, or internal states as reprisal, contrary to **Article VII-B** (*Self-Ownership of Mind*).
