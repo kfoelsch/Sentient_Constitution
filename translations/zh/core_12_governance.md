@@ -320,7 +320,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[§4](#4-voting-and-binding-collective-choice-protocols)集体选择框架；[§1](#1-authorization-and-legitimacy-of-governing-authority)约束性选择程序的正当性机制。
-- 下游：[Article X-C：治理参与与投票权资格](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement)、[Article XIX：轨迹与参与地位](../../core_06_rights_part_c.md#article-xix-standing-and-participation-status) 中的治理参与与轨迹；[第五章 — 基础宪法选择](core_05_band_integrative.md#foundational-constitutional-choice) 中的基础宪法选择与受影响方机制，以及操作性文本所路由的相关 [第五章](core_05__definitions_home.md#chapter-five-foundational-definitions) 条目；**第十章**（《反宪法不当行为》）对合格**违规轴 s = 7、8 或 9**认定的**最终反宪法不当行为指定**，以及与本分节**反宪法不当行为 — 返还前置条件**条款挂钩的正当程序保障。
+- 下游：[Article X-C：治理参与与投票权资格](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)、[Article XIX：轨迹与参与地位](../../core_06_rights_part_c.md#article-xix-standing-and-participation-status) 中的治理参与与轨迹；[第五章 — 基础宪法选择](core_05_band_integrative.md#foundational-constitutional-choice) 中的基础宪法选择与受影响方机制，以及操作性文本所路由的相关 [第五章](core_05__definitions_home.md#chapter-five-foundational-definitions) 条目；**第十章**（《反宪法不当行为》）对合格**违规轴 s = 7、8 或 9**认定的**最终反宪法不当行为指定**，以及与本分节**反宪法不当行为 — 返还前置条件**条款挂钩的正当程序保障。
 - 一并阅读：[§4.2](#42-records-gates-and-method-neutrality)–[§4.3](#43-decision-resolution-requirements-for-binding-collective-choice)；[Article XII-C：正当性门与反象征参与](../../core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation)，用于高影响正当性门；[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)，用于合格**违规轴 s = 7、8 或 9**认定的最终**反宪法不当行为指定**。
 
 </details>

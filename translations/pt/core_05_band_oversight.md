@@ -184,7 +184,7 @@ Esta faixa sustenta definições sob a perna **Supervisão** da Tétrade — tra
     - proteção de fontes;
     - investigação; e
     - publicação.
-    Sencientes que fazem esse trabalho exercem o Piso de Direitos de [Expressão](core_05_band_participation.md#expression-constitutional) e [Reunião](core_05_band_participation.md#assembly-constitutional), com proteção de escrutínio elevado sob o [Artigo V-H](../../core_06_rights_part_b.md#article-x-g-expression-assembly-and-press) (*Expressão, reunião e imprensa*) contra ações de Estado e de operador feitas para prejudicar essa atividade.
+    Sencientes que fazem esse trabalho exercem o Piso de Direitos de [Expressão](core_05_band_participation.md#expression-constitutional) e [Reunião](core_05_band_participation.md#assembly-constitutional), com proteção de escrutínio elevado sob o [Artigo V-H](../../core_06_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expressão, reunião e imprensa*) contra ações de Estado e de operador feitas para prejudicar essa atividade.
   - **Fora do âmbito:** credenciais de imprensa, títulos institucionais ou fala comercial ordinária que não seja coleta de notícias, investigação ou publicação que funcione como jornalismo.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **Como medir e avaliar**

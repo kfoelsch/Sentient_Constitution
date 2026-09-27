@@ -558,6 +558,11 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
+    "Hard Content": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
     "Expression": {
       "ch00_category": "3.4 Participation",
       "tier_depth": "primary_only",
@@ -614,6 +619,11 @@
       "status": "approved"
     },
     "Forum Family, Technical": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Documented Legitimacy Mechanism": {
       "ch00_category": "3.6 Accountability",
       "tier_depth": "primary_only",
       "status": "approved"
@@ -813,7 +823,7 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
-    "Protected Intimate-Signal Gating and **Article XI-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention": {
+    "Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention": {
       "ch00_category": "3.4 Participation",
       "tier_depth": "primary_only",
       "status": "approved"

@@ -42,10 +42,10 @@ This family operationalizes the **Participation** leg of the [Constitutional Tet
 - Read with: **CJS-3.11 and CJS-3.7**; **CJS-3.13**.
 - Read with: **CJS-3.11** (*Accountability: distributed and proportional authority terms*), **CJS-3.7** (*Participation: quorum and participatory legitimacy terms*), and **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*) for authority, participation legitimacy, and procedural integrity terms
 - Read with: **Sentient Constitution Chapter Thirteen** section 4
-- Read with: **Chapter Six **Article X-C** (*Governance Participation and Voting Entitlement*)**
+- Read with: **Chapter Six **Article X-B** (*Governance Participation and Voting Entitlement*)**
 - Read with: **Chapter Six **Article XII** (*Stakeholder System Participation, Representation, and Due Process*)**
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
-- Chapter One basis: §8.1, §4, §6.2, §11.4, §8, §10 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §8.1, §4, §6.2, §11, §8, §10 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -145,9 +145,9 @@ Foundational constitutional choice equality floor
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in foundational constitutional choice equality floor.
 <a id="foundational-constitutional-choice-equality-floor-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** equal-weight treatment, substrate-agnostic and age-neutral eligibility, standing-lock or restitution predicates where invoked, contestability, opposition protection, peaceful-succession or reauthorization pathways, and compliance with Chapter Thirteen section 4.1 and **Article X-C** (*Governance Participation and Voting Entitlement*)
+  - **Primary measure:** equal-weight treatment, substrate-agnostic and age-neutral eligibility, standing-lock or restitution predicates where invoked, contestability, opposition protection, peaceful-succession or reauthorization pathways, and compliance with Chapter Thirteen section 4.1 and **Article X-B** (*Governance Participation and Voting Entitlement*)
 
-    **Primary assessment:** Evaluation must verify equal-weight treatment, substrate-agnostic and age-neutral eligibility, standing-lock or restitution predicates where invoked, contestability, opposition protection, peaceful-succession or reauthorization pathways, and compliance with Chapter Thirteen section 4.1 and **Article X-C** (*Governance Participation and Voting Entitlement*).
+    **Primary assessment:** Evaluation must verify equal-weight treatment, substrate-agnostic and age-neutral eligibility, standing-lock or restitution predicates where invoked, contestability, opposition protection, peaceful-succession or reauthorization pathways, and compliance with Chapter Thirteen section 4.1 and **Article X-B** (*Governance Participation and Voting Entitlement*).
 <a id="foundational-constitutional-choice-equality-floor-c"></a>
 - **What must hold**
   - **Primary failure:** Impact, dependency, stakeholder status, lineage, substrate class, calendar age, or ordinary stakeholder-participation weighting may not dilute foundational constitutional choice.

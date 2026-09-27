@@ -66,7 +66,7 @@ This section sets out the boundaries of this chapter:
 
 **Governing authority** is the power to make or enforce decisions that materially affect sentients under this Constitution.
 
-It must rest on a **documented legitimacy mechanism** chosen and published by the adopter.
+It must rest on a [**documented legitimacy mechanism**](core_05_band_integrative.md#documented-legitimacy-mechanism) chosen and published by the adopter.
 
 Mechanism families, publication, auditability, and pluralism are addressed in **§1.1** (*Mechanism families, auditability, and pluralism*); eligibility for governing roles and democratic-institution minimum checks in **§1.2** (*Eligibility, contested selection, and democratic minimums*); recall-class mid-cycle transfer guardrails in **§1.3** (*Recall-class pathways and mid-cycle transfer guardrails*).
 
@@ -157,12 +157,12 @@ Recognized mechanism families include:
 - **Democratic-institution minimum checks:** Any legitimacy mechanism that purports to authorize governing authority must, at a minimum, provide all of the following:
 
     1. **Contested selection** — meaningful opportunity for alternative candidates, proposals, or positions to be presented and assessed by the authorizing community.
-    2. **Opposition protection** — real, not merely formal, freedom for dissenting sentients, proposals, and coalitions to organize, communicate, and challenge incumbent authority without retaliation, consistent with **Article X-G** (*Expression, Assembly, and Press*), **Article X-A** (*Freedom from Manipulation*), and **Article XIV-A** (*Protected Activity*).
+    2. **Opposition protection** — real, not merely formal, freedom for dissenting sentients, proposals, and coalitions to organize, communicate, and challenge incumbent authority without retaliation, consistent with **Articles XI-B** (*Expression*), **XI-C** (*Press and Journalistic Activity*), and **XI-D** (*Assembly, Dissent, and Peaceful Protest*), **Article X-A** (*Freedom from Manipulation*), and **Article XIV-A** (*Protected Activity*).
     3. **Peaceful-succession guarantee** — a defined succession pathway for transfer or reauthorization of authority on the terms the mechanism itself states, with denial or material degradation of the peaceful-succession pathway treated as a failure of the mechanism under **Failure and Correction** above.
 
     - These checks apply to [**Foundational Constitutional Choice**](core_05_band_integrative.md#foundational-constitutional-choice) (Chapter Five) and to any other authorization action within the mechanism's scope.
     - The checks are **mechanism-neutral**: they do not mandate a single polity type, and they apply across representative, sortition, federated-ratification, **treaty, compact, or charter** designs, and hybrid designs alike.
-    - Dissent or peaceful protest against incumbent authority under **Article X-G** ([*Dissent and peaceful protest floor*](core_06_rights_part_b.md#x-g-dissent-and-peaceful-protest)) must not reduce governance-voting, candidacy, office-holding, forum-service, or recall rights, and must not be treated as a ground for removal.
+    - Dissent or peaceful protest against incumbent authority under **Article XI-D** ([*Dissent and peaceful protest floor*](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) must not reduce governance-voting, candidacy, office-holding, forum-service, or recall rights, and must not be treated as a ground for removal.
     - Nominal opposition preservation paired with functional exclusion through covert info-sphere dependency, **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-stewardship capture, or comparable structural means is non-compliant under both this check and the **Pluralism** clause.
 
 **Forum appointment independence floor**
@@ -304,7 +304,7 @@ Where an adopter's legitimacy mechanism includes collective voting or an analogo
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§4](#4-voting-and-binding-collective-choice-protocols) collective-choice framework; [§1](#1-authorization-and-legitimacy-of-governing-authority) legitimacy mechanism for binding choice procedures.
-- Downstream: Governance participation and standing in [Article X-C: Governance Participation and Voting Entitlement](core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement), [Article XIX: Standing and Participation Status](core_06_rights_part_c.md#article-xix-standing-and-participation-status); foundational constitutional choice and stakeholder machinery in [Chapter Five — Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice) and related [Chapter Five](core_05__definitions_home.md#chapter-five-foundational-definitions) entries as operative text routes; **Chapter Eleven** (*Anti-Constitutional Misconduct*) for **final anti-constitutional-misconduct designation** on qualifying **Violation Axis s = 7, 8, or 9** findings and due-process safeguards tied to the **anti-constitutional misconduct — restitution precondition** clause in this subsection.
+- Downstream: Governance participation and standing in [Article X-B: Governance Participation and Voting Entitlement](core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement), [Article XIX: Standing and Participation Status](core_06_rights_part_c.md#article-xix-standing-and-participation-status); foundational constitutional choice and stakeholder machinery in [Chapter Five — Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice) and related [Chapter Five](core_05__definitions_home.md#chapter-five-foundational-definitions) entries as operative text routes; **Chapter Eleven** (*Anti-Constitutional Misconduct*) for **final anti-constitutional-misconduct designation** on qualifying **Violation Axis s = 7, 8, or 9** findings and due-process safeguards tied to the **anti-constitutional misconduct — restitution precondition** clause in this subsection.
 - Read with: [§4.2](#42-records-gates-and-method-neutrality)–[§4.3](#43-decision-resolution-requirements-for-binding-stakeholder-choice); [Article XII-C: Legitimacy Gate and Anti-Token Participation](core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation) for high-impact legitimacy gates; [Chapter Eleven](core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) for final **anti-constitutional-misconduct designation** on qualifying **Violation Axis s = 7, 8, or 9** findings.
 
 </details>
@@ -321,7 +321,7 @@ The same entitlement applies to comparable legitimacy-mechanism **binding collec
 
 **Calendar age or life stage alone** must not disqualify eligibility. Competency, capacity, or role-fitness requirements must satisfy **Chapters Two through Five** ([**Substantive Fairness**](core_05_band_participation.md#substantive-fairness-constitutional), [**Proportionality**](core_05_band_accountability.md#proportionality), and [**Necessity**](core_05_band_accountability.md#necessity)) and must not operate as **disguised age discrimination**. Suspension and restoration of this participation **track attachment and lifting of the applicable standing lock** under the same constitutional and incorporated criteria.
 
-This subsection implements **Chapter Six**, **Article X-C** (*Governance Participation and Voting Entitlement*).
+This subsection implements **Chapter Six**, **Article X-B** (*Governance Participation and Voting Entitlement*).
 
 
 - **Political-equality floor for foundational constitutional choice:** **Foundational Constitutional Choice** (Chapter Five) covers decisions about who holds governing authority, what the legitimacy mechanism is, and the scope and durable terms of that authority. Those questions are governed by a **political-equality floor**: within the community entitled to participate, each sentient has equal participation weight.
@@ -331,7 +331,7 @@ This subsection implements **Chapter Six**, **Article X-C** (*Governance Partici
     - calendar age;
     - substrate class; and
     - lineage.
-  - Cross-reference: **Chapter Six, **Article X-C** (*Governance Participation and Voting Entitlement*)**.
+  - Cross-reference: **Chapter Six, **Article X-B** (*Governance Participation and Voting Entitlement*)**.
 - **Durable political-voice floor (anti-disenfranchisement):** A standing lock on the **governance-voting** pathway may suspend ordinary governance-voting entitlement. It must not be used as a **durable-political-voice** disqualification vector.
   - **Anti-constitutional misconduct — restitution precondition:** A **final designation** of **anti-constitutional misconduct** for a **Violation Axis s = 7**, **s = 8**, or **s = 9** finding under **Chapter Eleven** (*Anti-Constitutional Misconduct*) withholds **durable political voice** — including participation in **Foundational Constitutional Choice** — until **full restitution** is satisfied: proportionate [**Redress and Remediation**](core_05_band_accountability.md#redress-and-remediation-constitutional) (Chapter Five), including **restitution** for material harm from the offense where owed, is **fully discharged** as finally determined under **Chapter Twelve** and applicable incorporated procedure, consistent with **Chapter Eleven** due-process safeguards and **Article XXIV-A** (*Justice Objective and Scope*).
   - **Good-faith inability, obstruction, and valuation uncertainty:** Withholding **durable political voice** must not rest on any of the following alone where **good-faith restoration** is documented and **partial** satisfaction is ongoing:
@@ -424,7 +424,7 @@ Where material disagreement requires a **binding stakeholder choice** within an 
 
 **Charter pointer rule.** A governing [Charter](core_05_band_continuity.md#charter) states operated scope and, where Def.P2 admission scope applies, must **point to** the published process rules that satisfy this section. The Charter does not carry the decision sequence, weighting model, or rights-collision record. Institutional publication of those materials lives under **CI-8.1** / **CI-8.2**, with the Charter pointer required by **CI-3.6** field 10.
 
-**Cross-reference (section 4):** Subsections **4.1–4.2** state voting requirements together with **Chapter Six**, **Article X-C** (*Governance Participation and Voting Entitlement*). Adopted governance, systems, and institutional implementation text provides applicable rules where **technical** implementation of voting touches classified systems, data handling, steward obligations, or designated institutional procedure.
+**Cross-reference (section 4):** Subsections **4.1–4.2** state voting requirements together with **Chapter Six**, **Article X-B** (*Governance Participation and Voting Entitlement*). Adopted governance, systems, and institutional implementation text provides applicable rules where **technical** implementation of voting touches classified systems, data handling, steward obligations, or designated institutional procedure.
 
 **Cross-reference (Chapter Thirteen):** Instruments of **constitutional adoption** and amendment validity appear in **Chapter Seventeen**. **Supremacy relative to external law**, **stricter external protections**, and disputes involving external tribunals appear in **Chapter Fifteen**. **Non-regression** substantive limits appear in **Chapter Fourteen**.
 
@@ -434,7 +434,7 @@ Where material disagreement requires a **binding stakeholder choice** within an 
 
 - Upstream: [§1](#1-authorization-and-legitimacy-of-governing-authority)–[§4](#4-voting-and-binding-collective-choice-protocols) how authority is authorized, recorded, and exercised in collective choice.
 - Downstream: Role integrity and due-process requirements in [Article XII-D: Internal Roles, Accountability, and Due-Process Requirements](core_06_rights_part_b.md#article-xii-d-internal-roles-accountability-and-due-process-requirements); **corpus** design and lane hooks in [corpus_systems.md](corpus_systems.md), [corpus_institutions.md](corpus_institutions.md), and [corpus_joint_structure.md](corpus_joint_structure.md) as cited below.
-- Read with: **[corpus_systems.md](corpus_systems.md)** (**CS-4 — Critical system stewardship**, CS-9) and **CI-4** / **CI-11** / **CI-12** in the implementation corpus referenced in operative text; [Chapter One §10.1 Shared Stewardship Standard](core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard) (*substrate-agnostic duties; adopted implementation text may add logging, attribution, and capability limits — not a softer internal code*); [Chapter One §10.2 Alignment Under Pressure](core_01_c_stewardship_capacity_principles.md#102-alignment-under-pressure).
+- Read with: **[corpus_systems.md](corpus_systems.md)** (**CS-4 — Critical system stewardship**, CS-9) and **CI-4** / **CI-11** / **CI-12** in the implementation corpus, where this chapter's rules cite them; [Chapter One §10.1 Shared Stewardship Standard](core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard) (*the same duties bind every kind of steward; adopted implementation text may add logging, attribution, and capability limits, but never a softer internal code*); [Chapter One §10.2 Alignment Under Pressure](core_01_c_stewardship_capacity_principles.md#102-alignment-under-pressure).
 
 </details>
 

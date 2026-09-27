@@ -91,7 +91,7 @@ Beyond the sitting’s bounded reading path, open:
 - [CI-16](../../../corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md) — coercion-intake; survival and care help cannot be billed as the price of surrendering decisions
 - [CI-17](../../../corpus_institutions/ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md) — advance-instruction custody in Window B; this is not a death scene
 - [CI-20](../../../corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md) — routing for coercive control in close relationships
-- [Article XI-A](../../../core_06_rights_part_b.md#article-xi-a-non-imposition-and-consent-in-association) (*Non-Imposition and Consent in Association*)
+- [Article XI-F](../../../core_06_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association) (*Non-Imposition and Consent in Association*)
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 

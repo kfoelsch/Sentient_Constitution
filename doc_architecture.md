@@ -144,7 +144,7 @@ Collapsed **Reader guidance (non-operative)** widgets give readers orientation w
 - **Chapter-level or part-level orientation** belongs at the chapter or part opening: after the file-top **Corpus placement** widget and chapter/part heading, and before the first operative purpose, rule, article, or numbered section.
 - In split-chapter files, a part-position widget belongs immediately after that file's chapter/part heading and before the part's first operative section.
 - **Local reader guidance** may appear later only when it explains a specific nearby table, directory, crosswalk, routing index, example set, or other local navigation aid. It should stay adjacent to the material it explains.
-- Do not leave general reading order, layer routing, architecture maps, or anti-relocation orientation in the middle of operative prose. Move those into opening reader-guidance widgets.
+- Keep general reading-order notes, layer routing, architecture maps, and warnings against moving text out of the binding text itself. Put them in the opening reader-guidance widgets.
 - Reader-guidance widgets use the standard blue collapsed `<details>` styling and must state that the content is reader guidance only and does not add, remove, or narrow binding obligations.
 
 Enforced (with **NAV-WIDGET-TOP-01**) by `make widget-top-placement-audit`: chapter/part Reader guidance and file-level Trace / D/A/C must stay in one contiguous opening stack (blank lines only between widgets — no `<br>`, owner/home lines, or other prose between them) before ordinary operative prose; when a section's direct content carries Trace / D/A/C, those widgets open the unit (after optional anchors and opening Reader guidance). Child-section widgets and bold run-in local Traces (for example `**8.3. …**`) do not count against the parent.
@@ -229,7 +229,7 @@ When one registry row splits across **part files** within the same chapter numbe
 
 **Widget vs operative split:**
 
-- **Corpus placement** and **Reader guidance** widgets may include a non-operative `**Constitutional owner:**` bullet for navigation. That bullet does **not** replace the binding opening line.
+- Either opening widget may include a `**Constitutional owner:**` bullet to help readers find their way. This covers **Corpus placement** and **Reader guidance** widgets. That bullet does not bind, and it does **not** replace the binding opening line.
 - State the owner claim **once** in operative prose at the chapter opening. Remove duplicate owner sentences from **§1** openings and from layer-scope sections unless the later text adds a **boundary** rule (what the chapter does **not** own), not a second owner claim.
 
 **Split owner layers:** when one registry row spans two or more files — the standing pipeline (**Chapters 9–10**); system alignment certification (**Chapter 8 Part A / Part B**) — each file gets its own opening line scoped to what that file owns: verified records and measurement in Chapter Nine, integration and standing effects in Chapter Ten, designation only in Chapter Eleven; evaluation in Part A, record/process/standing bridge in Part B.
@@ -408,11 +408,11 @@ One collapsed **Corpus placement** widget per audited file top. Summary label: *
 - `#` title. For core chapter files this is the chapter/part heading itself (e.g. `# PREAMBLE / FOUNDATIONAL REQUIREMENTS`, `# CHAPTER SIX: FOUNDATIONAL RIGHTS`). Chapter Five band/aim files keep their descriptive `#` band title. The cross-chapter vignette file `core_09-12_application_vignettes.md` keeps a descriptive `#` title.
 - Optional `<a id="chapter-…"></a>` anchors immediately above the `#` title carry the chapter/part anchors; an optional `*Non-operative subtitle:*` line may sit directly beneath the title.
 - On implementation `*_00_registry_and_reading_rules.md` files only: one-line `*In plain terms:*` registry-annex gloss (not a second front door; see **NAV-IMPL-LANDING-01**).
-- The placement widget, then any file- or part-level reader-guidance widget, then the chapter-opening **Trace** widget when present, then the **binding constitutional-owner opening line** when the file is an owner-layer chapter (see **OWNER-OPENING-01**), then `<br>` before optional orientation, `*In plain terms:*`, or other operative prose. No `---` rule sits between the title and the widgets.
+- In this order: the placement widget; any file- or part-level reader-guidance widget; the chapter-opening **Trace** widget, if there is one; the **binding constitutional-owner opening line**, if the file is an owner-layer chapter (see **OWNER-OPENING-01**); then `<br>`. Any introduction, the `*In plain terms:*` gloss, and the binding text follow. No `---` rule sits between the title and the widgets.
 
 **Inside the placement widget (non-operative):**
 
-- `core_*` — binding-together notice, which chapter/part/band the file holds, README reading-order pointer, and file-sequence navigation (**Next**, **Upstream**, **Previous**) when present. A non-operative `**Constitutional owner:**` navigation bullet may appear here or in reader guidance; the **binding** owner claim still appears as operative prose after the opening widgets and chapter-opening Trace when present (**OWNER-OPENING-01**).
+- `core_*` — binding-together notice, which chapter/part/band the file holds, README reading-order pointer, and file-sequence navigation (**Next**, **Upstream**, **Previous**) when present. A `**Constitutional owner:**` bullet may appear here or in the reader-guidance widget to help navigation; it does not bind. The **binding** owner claim still appears in the main text, after the opening widgets and any chapter-opening Trace (**OWNER-OPENING-01**).
 - `*_00_registry` — edition and effective date, core vs implementation status, four-layer map (**CJS** / **CS** / **CI** / **CF**), navigation wrapper / reader-landing link, **CJS-1.3** pointer, and routing-anchor indexes previously split across multiple reader-guidance widgets.
 
 **Do not keep visible at file top:** **Application baseline**, upstream inheritance boilerplate, or pipeline routing that duplicates the Corpus placement widget, chapter reader-guidance widgets, or [README.md](README.md). Chapter-specific scope boundaries and anti-substitution notes belong in the Corpus placement widget (file-level) or in chapter reader-guidance widgets.

@@ -90,7 +90,7 @@ Beyond the sitting’s bounded reading path, open:
 - [CI-16](../../../corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md) — coercion-intake; survival floors cannot be conditioned on surrendering decisions
 - [CI-20](../../../corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md) — routing for coercive control in close relationships
 - [CI-15](../../../corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md) — usable participation; supported decision-making is not a quiet takeover
-- [Article XI-A](../../../core_06_rights_part_b.md#article-xi-a-non-imposition-and-consent-in-association)
+- [Article XI-F](../../../core_06_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association)
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 

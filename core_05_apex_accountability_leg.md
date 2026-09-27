@@ -27,24 +27,25 @@
 
 <a id="accountability"></a>
 
-#### Accountability
-
-- O: Hold actors answerable — the Tetrad leg this entry names.
+- **What it is**
+  - Hold actors answerable — the Tetrad leg this entry names.
   - **In scope:** Material decisions, failures, and behaviors can be attributed to identifiable actors, roles, or system components, who can be answered for through review, [redress](core_05_band_accountability.md#redress-and-remediation-constitutional), or correction proportional to impact.
   - **Depends on:** [Contestability](core_05_band_accountability.md#contestability), [Auditability](core_05_band_oversight.md#auditability), [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional), [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional), and [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional) — the conditions and channels this leg needs in order to work. Each term's detailed scope and how-to-measure rules live on its own definition; start from [Tetrad Leg decomposition](#accountability-tetrad-leg-decomposition).
-  - Out of scope: the leaf-definition details, measurement tiers, and implementation mechanics owned by leaf entries and CJS.
+  - **Out of scope:** the leaf-definition details, measurement tiers, and implementation mechanics owned by leaf entries and CJS.
 <a id="accountability-m"></a>
-- M: How to tell whether answerability is real in practice. This line only points to the measures; the how-to-measure rules sit on each linked definition. Topic map: [Tetrad Leg decomposition](#accountability-tetrad-leg-decomposition).
 <a id="accountability-a"></a>
-- A: Judge under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake). Ask whether accountability is real — attribution chains, records, and functional recourse work under normal, degraded, and adversarial conditions — not just ceremony.
+- **How to measure and assess**
+  - **Primary measure:** How to tell whether answerability is real in practice. This line only points to the measures; the how-to-measure rules sit on each linked definition. Topic map: [Tetrad Leg decomposition](#accountability-tetrad-leg-decomposition).
+  - **Primary assessment:** Judge under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake). Ask whether accountability is real — attribution chains, records, and functional recourse work under normal, degraded, and adversarial conditions — not just ceremony.
 <a id="accountability-c"></a>
-- C: Non-compliant when:
-  - material harm is unattributable;
-  - accountability pathways are non-functional or illusory where accountability is materially required;
-  - labels or ceremonies that do not actually change the governed behavior;
-  - attribution exists in form while affected parties lack functional [Contestability](core_05_band_accountability.md#contestability) to invoke review, redress, or correction;
-  - verified duties are extinguished by receivership, restructuring, asset transfer, dissolution, or comparable formal-structure change alone; or
-  - successor or estate arrangements leave material obligations unassigned or practically unenforceable where proportionate transfer or satisfaction was feasible.
+- **What must hold**
+  - **Primary failure:** Non-compliant when:
+    - material harm is unattributable;
+    - accountability pathways are non-functional or illusory where accountability is materially required;
+    - labels or ceremonies that do not actually change the governed behavior;
+    - attribution exists in form while affected parties lack functional [Contestability](core_05_band_accountability.md#contestability) to invoke review, redress, or correction;
+    - verified duties are extinguished by receivership, restructuring, asset transfer, dissolution, or comparable formal-structure change alone; or
+    - successor or estate arrangements leave material obligations unassigned or practically unenforceable where proportionate transfer or satisfaction was feasible.
 
 ---
 

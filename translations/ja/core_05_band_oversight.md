@@ -184,7 +184,7 @@
     - 情報源の保護；
     - 調査；および
     - 公表。
-    Sentients doing that work exercise the [表現](core_05_band_participation.md#expression-constitutional) and [結社](core_05_band_participation.md#assembly-constitutional) 権利の床, with heightened-scrutiny protection under [Article V-H](../../core_06_rights_part_b.md#article-x-g-expression-assembly-and-press) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
+    Sentients doing that work exercise the [表現](core_05_band_participation.md#expression-constitutional) and [結社](core_05_band_participation.md#assembly-constitutional) 権利の床, with heightened-scrutiny protection under [Article V-H](../../core_06_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
   - **範囲外：** press credentials, institutional titles, or ordinary commercial speech that is not newsgathering, investigation, or publication functioning as journalism.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **測定と評価の仕方**

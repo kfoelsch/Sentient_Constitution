@@ -155,6 +155,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Self-Determination",
         "Meaningful Agency",
         "Expression",
+        "Hard Content",
         "Educational Agency",
         "Volitional Integrity",
         "Freedom (Bounded Agency)",

@@ -25,10 +25,10 @@
 *In plain terms: give affected sentients real voice in systems that affect them — scaled to how much is on the line, not token consultation.*
 
 <a id="participation-constitutional"></a>
+<a id="participation"></a>
 
-#### Participation
-
-- O: Give affected sentients and [Stakeholders](core_05_band_participation.md#stakeholder) real voice in systems that affect them — the Tetrad leg this entry names.
+- **What it is**
+  - Give affected sentients and [Stakeholders](core_05_band_participation.md#stakeholder) real voice in systems that affect them — the Tetrad leg this entry names.
   - **In scope:**
     - voice;
     - representation;
@@ -40,26 +40,28 @@
     - [Accessibility](core_05_band_participation.md#accessibility-constitutional);
     - [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional); and
     - [Contestability](core_05_band_accountability.md#contestability).
-  - Out of scope: the leaf-definition details, measurement tiers, and implementation mechanics owned by leaf entries and CJS.
+  - **Out of scope:** the leaf-definition details, measurement tiers, and implementation mechanics owned by leaf entries and CJS.
 <a id="participation-constitutional-m"></a>
-- M: Can affected sentients actually be heard, treated fairly, and take part? This line only names what to look at; the rules for how to measure live on each linked definition. Topic map: [Tetrad Leg decomposition](#participation-tetrad-leg-decomposition).
 <a id="participation-constitutional-a"></a>
-- A:
-  - Judge under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake).
-  - Distinguish substantive from symbolic participation — ask whether affected parties can actually:
-    - be heard;
-    - be represented;
-    - challenge decisions; and
-    - reach roles with real effect
-    under normal, degraded, and adversarial conditions.
+- **How to measure and assess**
+  - **Primary measure:** Can affected sentients actually be heard, treated fairly, and take part? This line only names what to look at; the rules for how to measure live on each linked definition. Topic map: [Tetrad Leg decomposition](#participation-tetrad-leg-decomposition).
+  - **Primary assessment:**
+    - Judge under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake).
+    - Distinguish substantive from symbolic participation — ask whether affected parties can actually:
+      - be heard;
+      - be represented;
+      - challenge decisions; and
+      - reach roles with real effect
+      under normal, degraded, and adversarial conditions.
 <a id="participation-constitutional-c"></a>
-- C: Non-compliant when:
-  - there is structural exclusion;
-  - token consultation substitutes for consequential voice;
-  - labels or ceremonies that do not actually change participation outcomes;
-  - contest pathways are inaccessible, captured, or ineffective where participation is materially required;
-  - role access is blocked by arbitrary gatekeeping disproportionate to [material stake](core_00_preamble.md#material-stake); or
-  - participation capacity is degraded by [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional) or [System Capture](core_05_band_continuity.md#system-capture) without justified exception under [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality).
+- **What must hold**
+  - **Primary failure:** Non-compliant when:
+    - there is structural exclusion;
+    - token consultation substitutes for consequential voice;
+    - labels or ceremonies that do not actually change participation outcomes;
+    - contest pathways are inaccessible, captured, or ineffective where participation is materially required;
+    - role access is blocked by arbitrary gatekeeping disproportionate to [material stake](core_00_preamble.md#material-stake); or
+    - participation capacity is degraded by [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional) or [System Capture](core_05_band_continuity.md#system-capture) without justified exception under [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality).
 
 ---
 

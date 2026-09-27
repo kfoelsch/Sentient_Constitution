@@ -423,7 +423,7 @@ Those floors apply to **exceptional institutional power** in three linked domain
 
   It does **not** govern **irreversible deprivation of life imposed by a state or comparable actor as a justice measure or comparable non-combat outcome**. Such deprivation is categorically prohibited under **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Chapter Five** *[Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*. That prohibition is structurally distinct from this Article.
   - Nothing in **Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) authorizes, legitimizes, broadens, or supplies a constitutional predicate for any irreversible deprivation measure — whether decided by a human operator, an autonomous system, or a hybrid human–system pipeline.
-  - No combat framing, emergency framing, use-of-force classification, covert-power routing, or autonomous-systems delegation may recast an irreversible justice-measure killing as power governed here.
+  - Calling it combat or an emergency, classifying it as use of force, routing it through covert power, or handing it to an autonomous system does not turn an irreversible justice-measure killing into power governed here.
   - Conversion of a covert, force, autonomous-systems, or coercion-tool **context** into a justice-measure outcome returns the question to **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and *Irreversible Deprivation Measure*, without read-across from this Article.
 
 *Article neighbors:*
@@ -574,7 +574,7 @@ This Article sets out the limits on overt force, armed conflict, and military po
   - Framings that treat such weapons as ordinary force-escalation tools rather than as **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) objects are non-compliant.
 - **Conscription and participation:** Compulsion into combatant status must satisfy ordinary **Chapter One §5.1** (*Limitation Discipline*) limitation discipline.
   - Compulsion may not turn on **Protected Characteristics** or their material proxies.
-  - Conscientious-objection, comparable-worldview, and conscience-based refusal are protected consistent with **Article X-F** (*Freedom of conscience, religion, and comparable worldview*).
+  - Conscientious-objection, comparable-worldview, and conscience-based refusal are protected consistent with **Article XI-A** (*Freedom of conscience, religion, and comparable worldview*).
   - Substrate-class compulsion — for example, assignment of synthetic sentients to combat functions on the basis of substrate class alone — is non-compliant consistent with **Sentience Non-Exclusion**.
 - **Emergency-dressed normalization:** Emergency framings that functionally normalize overt force are non-compliant under **Article XXIV-D** (*Emergency Measures and Continuation Burden*) emergency-measure discipline and under this Article's *Authorization and Proportionality* bullet. Examples in scope:
   - indefinite extension;
@@ -629,7 +629,7 @@ This Article sets out the heightened-scrutiny floor for autonomous lethal and co
 - **Non-lethality is not out-of-scope:** Autonomous coercion tools whose direct effects are non-lethal remain in scope where they produce coercive effects on sentients. Examples:
   - sustained behavior modification;
   - movement restriction;
-  - expression chilling under **Article X-G** (*Expression, Assembly, and Press*);
+  - expression chilling under **Article XI-B** (*Expression*);
   - protected-characteristic-based targeting;
   - manipulation under **Article X-A** (*Agency and Freedom from Manipulation*).
 
@@ -1458,7 +1458,7 @@ This Article sets out how standing differs from competency bars, competency clea
   - make role status a substitute for Rights-Floor minimums or for deciding whether someone is a stakeholder because a system actually affects them;
   - <a id="anti-substitution-sentience-status-xviii"></a>stand in for a sentience-status determination, which is made only under **Article VI-B** (*Sentience-Status Adjudication Floor*);
   - treat the absence of a standing record as an adverse fact, or require a record or a "no record" attestation as a condition of survival essentials, ordinary commerce, or participation as an affected party — having no record is the ordinary state under [Chapter Nine §2.1](core_09_standing_assessment.md#21-silence-is-the-default) (*Silence is the default*);
-  - treat dissent or peaceful protest under **Article X-G** ([*Dissent and peaceful protest floor*](core_06_rights_part_b.md#x-g-dissent-and-peaceful-protest)) as an adverse fact or weighting factor for any named pathway; or
+  - treat dissent or peaceful protest under **Article XI-D** ([*Dissent and peaceful protest floor*](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) as an adverse fact or weighting factor for any named pathway; or
   - assemble named-pathway effects into a profile, ranking, or public display — [Chapter Ten §7.1](core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects) (*Anti-aggregation of named-pathway effects*).
 
 #### Article XIX-B: Contestability and Proportional Restriction Limits

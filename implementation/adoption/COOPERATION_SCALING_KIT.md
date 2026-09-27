@@ -156,7 +156,7 @@ If any box is unchecked, stop. Operations-guide + declarations only.
 
 ## 5. §10.3 joining-rule template (not live rules)
 
-[Chapter Sixteen §10.3](../../core_16_amendment_ratification.md#103-joining-by-additional-parties) lets additional parties join **under rules published by existing adopters**. Joining must not reduce Rights Floors or challenge rights for already-covered sentients without procedurally valid, informed participation, consistent with [Article XI-B](../../core_06_rights_part_b.md#article-xi-b-collective-harm-boundary-and-enforcement-interface) where participation weight applies.
+[Chapter Sixteen §10.3](../../core_16_amendment_ratification.md#103-joining-by-additional-parties) lets additional parties join **under rules published by existing adopters**. Joining must not reduce Rights Floors or challenge rights for already-covered sentients without procedurally valid, informed participation, consistent with [Article XI-G](../../core_06_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface) where participation weight applies.
 
 **This template is not those rules.** It becomes usable only after a qualifying adopter has a recorded [§10.1–§10.2](../../core_16_amendment_ratification.md#101-deliberate-adoption) instrument **and** that adopter publishes joining rules in **its** custody. First adopters still use §10.1–§10.2. Copying this block into `evaluation/` or into an *n*-party markdown file does not publish joining rules.
 
@@ -184,7 +184,7 @@ Non-regression (Chapter Fourteen): joining must not wipe the floor.
   [ ] acknowledged in these rules
 Rights Floors and challenge rights for already-covered sentients
     are not reduced without procedurally valid, informed participation
-    (Chapter Sixteen §10.3; Article XI-B where participation weight applies).
+    (Chapter Sixteen §10.3; Article XI-G where participation weight applies).
   [ ] acknowledged in these rules
 Article XIII-B remains reachable for joiners and already-covered sentients.
   [ ] acknowledged

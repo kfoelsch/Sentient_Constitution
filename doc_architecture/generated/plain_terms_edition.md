@@ -6,32 +6,32 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **623** of **891** headings carry a gloss (70%).
+Coverage: **630** of **893** headings carry a gloss (71%).
 
 ## Contents
 
 - [PREAMBLE / FOUNDATIONAL REQUIREMENTS](#preamble--foundational-requirements) — `core_00_preamble.md` (14/16 glossed)
-- [CHAPTER 01, PART A: VALUES PRINCIPLES](#chapter-01-part-a-values-principles) — `core_01_a_values_principles.md` (17/34 glossed)
+- [CHAPTER 01, PART A: VALUES PRINCIPLES](#chapter-01-part-a-values-principles) — `core_01_a_values_principles.md` (19/36 glossed)
 - [CHAPTER 01, PART B: INTERACTION AND INTERPRETATION](#chapter-01-part-b-interaction-and-interpretation) — `core_01_b_interaction_interpretation.md` (17/27 glossed)
 - [CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE](#chapter-01-part-c-stewardship-and-governance) — `core_01_c_stewardship_capacity_principles.md` (40/47 glossed)
 - [CHAPTER TWO: DEFINITION STRUCTURE AND COMPONENT REQUIREMENTS](#chapter-two-definition-structure-and-component-requirements) — `core_02_definition_structure.md` (8/12 glossed)
 - [CHAPTER THREE: DEFINITION INTEGRITY, EVASION, AND NON-COMPLIANCE](#chapter-three-definition-integrity-evasion-and-non-compliance) — `core_03_definition_integrity.md` (5/15 glossed)
 - [CHAPTER FOUR: BURDEN OF PROOF, TRACEABILITY, AND VERIFICATION](#chapter-four-burden-of-proof-traceability-and-verification) — `core_04_burden_traceability_verification.md` (7/7 glossed)
 - [CHAPTER FIVE: FOUNDATIONAL DEFINITIONS](#chapter-five-foundational-definitions) — `core_05__definitions_home.md` (8/10 glossed)
-- [CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)](#chapter-five-definitions-accountability-tetrad-leg) — `core_05_apex_accountability_leg.md` (3/4 glossed)
+- [CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)](#chapter-five-definitions-accountability-tetrad-leg) — `core_05_apex_accountability_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: CONTINUITY (CONSTITUTIONAL AIM)](#chapter-five-definitions-continuity-constitutional-aim) — `core_05_apex_continuity_aim.md` (3/3 glossed)
-- [CHAPTER FIVE DEFINITIONS: FLOURISHING](#chapter-five-definitions-flourishing) — `core_05_apex_flourishing_aim.md` (3/4 glossed)
-- [CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)](#chapter-five-definitions-oversight-tetrad-leg) — `core_05_apex_oversight_leg.md` (3/4 glossed)
-- [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05_apex_participation_leg.md` (3/4 glossed)
-- [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05_apex_timeliness_leg.md` (3/4 glossed)
+- [CHAPTER FIVE DEFINITIONS: FLOURISHING](#chapter-five-definitions-flourishing) — `core_05_apex_flourishing_aim.md` (3/3 glossed)
+- [CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)](#chapter-five-definitions-oversight-tetrad-leg) — `core_05_apex_oversight_leg.md` (3/3 glossed)
+- [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05_apex_participation_leg.md` (3/3 glossed)
+- [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05_apex_timeliness_leg.md` (3/3 glossed)
 - [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (72/84 glossed)
 - [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (25/84 glossed)
-- [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (12/17 glossed)
+- [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (13/18 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (27/37 glossed)
-- [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (52/67 glossed)
+- [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (53/68 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05_band_performance.md` (2/2 glossed)
 - [CHAPTER SEVEN: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES](#chapter-seven-functional-independence-and-segregation-of-duties) — `core_07_functional_independence_segregation_of_duties.md` (8/9 glossed)
-- [CHAPTER EIGHT, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-eight-part-a-system-alignment-certification--evaluation) — `core_08_a_system_alignment_certification_evaluation.md` (21/28 glossed)
+- [CHAPTER EIGHT, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-eight-part-a-system-alignment-certification--evaluation) — `core_08_a_system_alignment_certification_evaluation.md` (22/29 glossed)
 - [CHAPTER EIGHT, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-eight-part-b-system-alignment-certification--record-and-process) — `core_08_b_system_alignment_certification_record_process.md` (10/13 glossed)
 - [CHAPTER EIGHT: SYSTEM ALIGNMENT CERTIFICATION (READING INDEX)](#chapter-eight-system-alignment-certification-reading-index) — `core_08_system_alignment_certification.md` (1/1 glossed)
 - [CHAPTER NINE: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-nine-contribution-violation-and-standing-model--measurement) — `core_09_standing_assessment.md` (13/33 glossed)
@@ -41,7 +41,7 @@ Coverage: **623** of **891** headings carry a gloss (70%).
 - [CHAPTER TWELVE: FORUMS AND JURISDICTION](#chapter-twelve-forums-and-jurisdiction) — `core_12_forum.md` (8/27 glossed)
 - [CHAPTERS NINE–TWELVE: PIPELINE APPLICATION VIGNETTES](#chapters-ninetwelve-pipeline-application-vignettes) — `core_09-12_application_vignettes.md` (9/35 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_a.md` (27/30 glossed)
-- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_b.md` (40/41 glossed)
+- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_b.md` (42/43 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_c.md` (51/52 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_d.md` (18/19 glossed)
 - [CHAPTER THIRTEEN: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP](#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) — `core_13_governance.md` (13/15 glossed)
@@ -146,7 +146,7 @@ four adopted corpora (joint structure, systems, institutions, and forum operatio
 
 ## CHAPTER 01, PART A: VALUES PRINCIPLES
 
-Source file: [`core_01_a_values_principles.md`](../../core_01_a_values_principles.md) · 17/34 headings glossed
+Source file: [`core_01_a_values_principles.md`](../../core_01_a_values_principles.md) · 19/36 headings glossed
 
 #### 1. Purpose and Role
 
@@ -336,7 +336,7 @@ life-changing or hard-to-reverse choices are not "voluntary" just because someon
 
 ##### 5.3 Assembly, Collective Organization, and Institutional Formation
 
-you cannot chop assembly, union-style organizing, platform access, or permission-to-operate questions into separate boxes in a way that keeps the paperwork friendly but defeats real collective action. This section does not replace the Rights Floor: Article X-G still owns assembly, and Article III-C still owns labor organizing.
+you cannot chop assembly, union-style organizing, platform access, or permission-to-operate questions into separate boxes in a way that keeps the paperwork friendly but defeats real collective action. This section does not replace the Rights Floor: Article XI-D still owns assembly, and Article III-C still owns labor organizing.
 
 [Source](../../core_01_a_values_principles.md#53-assembly-collective-organization-and-institutional-formation)
 
@@ -345,6 +345,18 @@ you cannot chop assembly, union-style organizing, platform access, or permission
 you may start legitimate work without a sponsor, and institutions must give credible work a real procedural path — but that path is not power to govern others, and it is not a final decision on the substance.
 
 [Source](../../core_01_a_values_principles.md#531-aligned-self-organization)
+
+##### 5.4 Dissent and Peaceful Protest
+
+freedom includes the freedom to say no — to disagree with any authority, including this Constitution, and to protest peacefully to change it. A system that punishes disagreement is no longer contestable, and a system that cannot be contested cannot correct itself.
+
+[Source](../../core_01_a_values_principles.md#54-dissent-and-peaceful-protest)
+
+##### 5.5 Institutional Secularism and Worldview Neutrality
+
+public authority under this Constitution belongs to no religion or worldview. Its right to govern and its rules rest on reasons anyone can examine, not on doctrine or revelation, and no one's rights depend on what they believe or don't believe. This limits government, not believers — sentients stay free to practice, express, and organize around religion or non-religion.
+
+[Source](../../core_01_a_values_principles.md#55-institutional-secularism-and-worldview-neutrality)
 
 ## CHAPTER 01, PART B: INTERACTION AND INTERPRETATION
 
@@ -1044,13 +1056,7 @@ Preamble §2 (*Measurements Overview*) asks seven category questions; this table
 
 ## CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)
 
-Source file: [`core_05_apex_accountability_leg.md`](../../core_05_apex_accountability_leg.md) · 3/4 headings glossed
-
-##### Accountability
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_05_apex_accountability_leg.md#accountability)
+Source file: [`core_05_apex_accountability_leg.md`](../../core_05_apex_accountability_leg.md) · 3/3 headings glossed
 
 #### Tetrad Leg decomposition
 
@@ -1082,13 +1088,7 @@ these questions ask whether sentients and the living systems they depend on can 
 
 ## CHAPTER FIVE DEFINITIONS: FLOURISHING
 
-Source file: [`core_05_apex_flourishing_aim.md`](../../core_05_apex_flourishing_aim.md) · 3/4 headings glossed
-
-##### Flourishing
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_05_apex_flourishing_aim.md#flourishing-constitutional)
+Source file: [`core_05_apex_flourishing_aim.md`](../../core_05_apex_flourishing_aim.md) · 3/3 headings glossed
 
 #### Constitutional Aim decomposition
 
@@ -1104,13 +1104,7 @@ these questions ask whether sentients are actually sustained in wellbeing, safet
 
 ## CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)
 
-Source file: [`core_05_apex_oversight_leg.md`](../../core_05_apex_oversight_leg.md) · 3/4 headings glossed
-
-##### Oversight
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_05_apex_oversight_leg.md#oversight-constitutional)
+Source file: [`core_05_apex_oversight_leg.md`](../../core_05_apex_oversight_leg.md) · 3/3 headings glossed
 
 #### Tetrad Leg decomposition
 
@@ -1126,13 +1120,7 @@ these questions ask whether sentients can see, verify, and rely on what high-imp
 
 ## CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)
 
-Source file: [`core_05_apex_participation_leg.md`](../../core_05_apex_participation_leg.md) · 3/4 headings glossed
-
-##### Participation
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_05_apex_participation_leg.md#participation-constitutional)
+Source file: [`core_05_apex_participation_leg.md`](../../core_05_apex_participation_leg.md) · 3/3 headings glossed
 
 #### Tetrad Leg decomposition
 
@@ -1148,13 +1136,7 @@ these questions ask whether affected parties actually get voice, access, and a f
 
 ## CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)
 
-Source file: [`core_05_apex_timeliness_leg.md`](../../core_05_apex_timeliness_leg.md) · 3/4 headings glossed
-
-##### Timeliness
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)
+Source file: [`core_05_apex_timeliness_leg.md`](../../core_05_apex_timeliness_leg.md) · 3/3 headings glossed
 
 #### Tetrad Leg decomposition
 
@@ -2174,7 +2156,7 @@ when automation or generative systems take work away from sentients at populatio
 
 ## Integrative Constitutional Definitions
 
-Source file: [`core_05_band_integrative.md`](../../core_05_band_integrative.md) · 12/17 headings glossed
+Source file: [`core_05_band_integrative.md`](../../core_05_band_integrative.md) · 13/18 headings glossed
 
 #### Integrative: Independent terms
 
@@ -2199,6 +2181,12 @@ this is the layer that answers who may govern, by what legitimacy, and under wha
 decisions about who holds governing authority, by what mechanism, and on what lasting terms — one-person-one-voice at that founding layer, not impact-weighted ordinary stakeholder voting.
 
 [Source](../../core_05_band_integrative.md#foundational-constitutional-choice)
+
+##### Documented Legitimacy Mechanism
+
+the written, published rule an adopter uses to decide how governing power is granted, renewed, and handed on — such as elections, a civic lottery, federation votes, or a treaty, compact, or charter adopted with recorded agreement. If there is no such rule on the record, nobody's claim to govern counts as authorized. Silence, habit, or branding does not count.
+
+[Source](../../core_05_band_integrative.md#documented-legitimacy-mechanism)
 
 ##### Innovation Reward and Anti-Enclosure
 
@@ -2494,7 +2482,7 @@ outcomes a careful analyst using known methods could identify before acting — 
 
 ## Participation Constitutional Definitions
 
-Source file: [`core_05_band_participation.md`](../../core_05_band_participation.md) · 52/67 headings glossed
+Source file: [`core_05_band_participation.md`](../../core_05_band_participation.md) · 53/68 headings glossed
 
 #### Participation: Independent terms
 
@@ -2652,9 +2640,9 @@ listed traits and statuses — and close stand-ins for them — cannot be used t
 
 [Source](../../core_05_band_participation.md#protected-characteristics-constitutional)
 
-##### Protected Intimate-Signal Gating and **Article XI-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention
+##### Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention
 
-intimate media, sexual history, and similar intimate inferences are not default inputs for hiring, standing, reputation, or access gates — and adult consensual commercial sexual services status under Article XI-C cannot be used to shut sentients out of jobs, housing, banking, or licenses, including through "neutral" rules that mainly target that work.
+intimate media, sexual history, and similar intimate inferences are not default inputs for hiring, standing, reputation, or access gates — and adult consensual commercial sexual services status under Article VII-E cannot be used to shut sentients out of jobs, housing, banking, or licenses, including through "neutral" rules that mainly target that work.
 
 [Source](../../core_05_band_participation.md#protected-intimate-signal-gating)
 
@@ -2856,6 +2844,12 @@ the Rights-Floor capacity to form, hold, and communicate views — including pol
 
 [Source](../../core_05_band_participation.md#expression-constitutional)
 
+###### Hard Content
+
+hard content is expression that is sexual or intimate, is about violence, or could seriously harm someone's mental health. It is still protected expression between sentients who can handle it — showing or talking about something is not doing it. The rules on the real-world conduct still apply, and when hard content reaches children or other vulnerable audiences it gets careful routing, not a blanket ban.
+
+[Source](../../core_05_band_participation.md#hard-content)
+
 ###### Educational Agency
 
 real capability-building and lifelong learning autonomy — skills that apply to real-world problems, not credential symbolism alone — with access sufficient to develop and exercise constitution-relevant capabilities.
@@ -2956,7 +2950,7 @@ later chapters tell each process what to evaluate, record, decide, and remedy. T
 
 ## CHAPTER EIGHT, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION
 
-Source file: [`core_08_a_system_alignment_certification_evaluation.md`](../../core_08_a_system_alignment_certification_evaluation.md) · 21/28 headings glossed
+Source file: [`core_08_a_system_alignment_certification_evaluation.md`](../../core_08_a_system_alignment_certification_evaluation.md) · 22/29 headings glossed
 
 #### 1. Purpose and Role
 
@@ -3017,6 +3011,12 @@ Chapter Six spreads privacy protections across several articles — not one tidy
 *(no plain-terms gloss in source)*
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#35-assembly-collective-organization-and-institutional-formation)
+
+###### 3.5.1 Dissent and Peaceful Protest
+
+a system cannot be certified as aligned if it quietly punishes the sentients who disagree with it. Reviewers must check whether sentients can actually object and protest, and whether dissent is being counted against them anywhere in the system's logic — including when the dissenter is the system itself.
+
+[Source](../../core_08_a_system_alignment_certification_evaluation.md#351-dissent-and-peaceful-protest)
 
 ##### 3.6 Time-Consistency Constraint
 
@@ -4328,7 +4328,7 @@ systems that lean heavily on shared foundations must put enough back to keep the
 
 ## CHAPTER SIX: FOUNDATIONAL RIGHTS
 
-Source file: [`core_06_rights_part_b.md`](../../core_06_rights_part_b.md) · 40/41 headings glossed
+Source file: [`core_06_rights_part_b.md`](../../core_06_rights_part_b.md) · 42/43 headings glossed
 
 #### Part B: Personhood, agency, cooperation, and stakeholder system participation
 
@@ -4396,6 +4396,12 @@ a sentient has the right to choose to end their own life, but only if the choice
 
 [Source](../../core_06_rights_part_b.md#article-vii-d-voluntary-discontinuation-of-ones-own-existence)
 
+##### Article VII-E: Adult consensual commercial sexual services and sexual exploitation
+
+adults who voluntarily buy or sell sexual services are not criminals, but exploitation — of minors, of **sentients** without **decision-making** **capacity**, or under coercion or trafficking — remains fully prohibited. Licensing, zoning, or civil rules cannot be used as a back door to re-criminalize the protected activity.
+
+[Source](../../core_06_rights_part_b.md#article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation)
+
 #### Article VIII: Family, Care, and Developing Sentients
 
 **Article VIII** (*Family, Care, and Developing Sentients*) protects the relationships sentients depend on and the sentients who are still growing. Every sentient may choose their own family and care relationships. They may also decide whether to bring new sentients into being. No one may be separated from those they depend on without strong reasons that have been reviewed. A sentient created from another system is its own being, not property. Children and other developing sentients hold full rights. Decisions about them must serve their own interests, and their independence grows with their abilities.
@@ -4462,11 +4468,11 @@ creators get real attribution and compensation for their work, including when it
 
 [Source](../../core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement)
 
-#### Article X: Self-Determination and Agency
+#### Article X: Self-Determination, Agency, and Participation
 
-**Article X** (*Self-Determination and Agency*) is the self-determination and agency Rights Floor — sentients must be able to make real, informed choices about their lives, hold their own beliefs, speak, gather, and report, participate proportionately in systems that affect them, and hold equal weight in foundational governance — without manipulation, designed capture, or unjustified exclusion.
+**Article X** (*Self-Determination, Agency, and Participation*) is the self-determination and participation Rights Floor — sentients must be able to make real, informed choices about their lives, have an equal vote on how they are governed, have a fair say in systems that affect them, and challenge being shut out — without manipulation, designed capture, or unjustified exclusion.
 
-[Source](../../core_06_rights_part_b.md#article-x-self-determination-and-agency)
+[Source](../../core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)
 
 ##### Article X-A: Agency and Freedom from Manipulation
 
@@ -4474,17 +4480,17 @@ sentients have the right to make real, informed decisions about themselves — a
 
 [Source](../../core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation)
 
-##### Article X-B: Stakeholder Role and Participation Rights
+##### Article X-B: Governance Participation and Voting Entitlement
+
+when a community decides its biggest questions — who holds power, how that power is granted, and on what terms — every sentient gets a vote, and every vote counts the same. Age, what kind of being someone is, or where they come from cannot make a vote count for less.
+
+[Source](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)
+
+##### Article X-C: Stakeholder Role and Participation Rights
 
 if a system materially affects a sentient — directly or through dependency — that sentient has the right to a proportionate voice in how it is run, and to contest being excluded or under-weighted.
 
-[Source](../../core_06_rights_part_b.md#article-x-b-stakeholder-role-and-participation-rights)
-
-##### Article X-C: Governance Participation and Voting Entitlement
-
-every sentient gets a vote on foundational constitutional choice — who holds authority, under what legitimacy mechanism, and on what terms — and that vote carries equal weight. Substrate, age, or lineage cannot reduce it.
-
-[Source](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement)
+[Source](../../core_06_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights)
 
 ##### Article X-D: Inclusion and Exclusion Challenge Rights
 
@@ -4492,47 +4498,53 @@ when participation boundaries matter to **sentients** or **affected** **parties*
 
 [Source](../../core_06_rights_part_b.md#article-x-d-inclusion-and-exclusion-challenge-rights)
 
-##### Article X-E: Institutional Formation and Business Creation
+#### Article XI: Conscience, Expression, Association, and Cooperative Interaction
 
-anyone can start something new — a school, a research group, a mutual-aid network, a cooperative, or a business — not only join what already exists. Licensing, capital, or paperwork barriers that look open on paper but shut out new or disfavored founders fail this test.
+**Article XI** (*Conscience, Expression, Association, and Cooperative Interaction*) protects how sentients believe, speak, and act together — they must be free to hold their own beliefs, speak, report, gather, protest peacefully, and start new institutions and businesses, and to work and live together by real consent, without unwanted imposition, harassment, or designed capture. Freedom of action stops where verifiable material harm begins.
 
-[Source](../../core_06_rights_part_b.md#article-x-e-institutional-formation-and-business-creation)
+[Source](../../core_06_rights_part_b.md#article-xi-conscience-expression-association-and-cooperative-interaction)
 
-##### Article X-F: Freedom of conscience, religion, and comparable worldview
+##### Article XI-A: Freedom of conscience, religion, and comparable worldview
 
 public authority is secular and may not establish or favor any religion or worldview, but every sentient is free to hold, change, practice, or abstain from beliefs, alone or in community.
 
-[Source](../../core_06_rights_part_b.md#article-x-f-freedom-of-conscience-religion-and-comparable-worldview)
+[Source](../../core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview)
 
-##### Article X-G: Expression, Assembly, and Press
+##### Article XI-B: Expression
 
-every sentient may speak, gather, and report — and journalism gets extra protection because of what it does, not who holds a press card. Surveillance, retaliation, and access-gating that quietly silence protected activity are not allowed.
+every sentient may form, hold, and share views — political, artistic, scientific, religious, intimate, or disturbing — and no one may be shut out of that because of what kind of being they are. Limits must be necessary, proportionate, and narrow; viewpoint bans are not allowed, and measures that quietly chill speech count as restrictions.
 
-[Source](../../core_06_rights_part_b.md#article-x-g-expression-assembly-and-press)
+[Source](../../core_06_rights_part_b.md#article-xi-b-expression)
 
-#### Article XI: Cooperative Interaction
+##### Article XI-C: Press and Journalistic Activity
 
-**Article XI** (*Cooperative Interaction*) is the cooperative interaction Rights Floor — sentients must be free to work and live together by real consent, without unwanted imposition, harassment, or designed capture — and freedom of action stops where verifiable material harm begins.
+journalism gets extra protection because of what it does, not who holds a press card. Actions aimed at newsgathering, sources, investigation, or publication face heightened scrutiny, and good-faith publishing standards cannot be turned into a shield against critical reporting, satire, or dissent.
 
-[Source](../../core_06_rights_part_b.md#article-xi-cooperative-interaction)
+[Source](../../core_06_rights_part_b.md#article-xi-c-press-and-journalistic-activity)
 
-##### Article XI-A: Non-Imposition and Consent in Association
+##### Article XI-D: Assembly, Dissent, and Peaceful Protest
+
+every sentient may gather, associate, and act together — in physical, digital, or shared-compute spaces — and may disagree and protest peacefully, including open, nonviolent civil disobedience. Doing so can never cost them standing, a vote, an office, or certification, and surveillance, retaliation, or access-gating that quietly silences protest is not allowed.
+
+[Source](../../core_06_rights_part_b.md#article-xi-d-assembly-dissent-and-peaceful-protest)
+
+##### Article XI-E: Institutional Formation and Business Creation
+
+anyone can start something new — a school, a research group, a mutual-aid network, a cooperative, or a business — not only join what already exists. Licensing, capital, or paperwork barriers that look open on paper but shut out new or disfavored founders fail this test.
+
+[Source](../../core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)
+
+##### Article XI-F: Non-Imposition and Consent in Association
 
 no one may push their beliefs or unwanted contact on others, and cooperative ventures must rest on real consent. Persistent harassment, manipulation, and designed attention-capture inside relationships are violations even without a classic coercive act.
 
-[Source](../../core_06_rights_part_b.md#article-xi-a-non-imposition-and-consent-in-association)
+[Source](../../core_06_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association)
 
-##### Article XI-B: Collective Harm Boundary and Enforcement Interface
+##### Article XI-G: Collective Harm Boundary and Enforcement Interface
 
 freedom of action stops where verifiable material harm begins. Offense or disagreement alone is not enough; harm must run through a real material-impact pathway — including cumulative hostile-environment patterns that degrade participation, and especially where dependency, exit cost, or power asymmetry make the environment hard to leave.
 
-[Source](../../core_06_rights_part_b.md#article-xi-b-collective-harm-boundary-and-enforcement-interface)
-
-##### Article XI-C: Adult consensual commercial sexual services and sexual exploitation
-
-adults who voluntarily buy or sell sexual services are not criminals, but exploitation — of minors, of **sentients** without **decision-making** **capacity**, or under coercion or trafficking — remains fully prohibited. Licensing, zoning, or civil rules cannot be used as a back door to re-criminalize the protected activity.
-
-[Source](../../core_06_rights_part_b.md#article-xi-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation)
+[Source](../../core_06_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface)
 
 #### Article XII: Stakeholder System Participation, Representation, and Due Process
 

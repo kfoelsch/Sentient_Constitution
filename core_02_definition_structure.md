@@ -227,7 +227,7 @@ If one reasonable reading would weaken safeguards, narrow what must be checked, 
 
 - Upstream: Principles: [§2 Definition Integrity Requirement](#2-definition-integrity-requirement); [§1 Purpose and Role](#1-purpose-and-role).
 - Downstream: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior); [Chapter Four, section 2 — Definition Traceability Requirement](core_04_burden_traceability_verification.md#2-definition-traceability-requirement); Chapter Four sections **4**, **3**, **5**, and **6** where “reasonably foreseeable” appears without an inline Chapter Five pointer.
-- Read with: [Chapter Five Clustered Definitions (Foreseeability Diligence)](core_05_band_oversight.md#foreseeability-diligence) — governing rule for every “reasonably foreseeable” in Chapters Two through Four; operative meaning in [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable) (Chapter Five, section 3 — Dependent clusters (Truth and Epistemic Integrity cluster; Foreseeability Diligence)).
+- Read with: [Chapter Five Clustered Definitions (Foreseeability Diligence)](core_05_band_oversight.md#foreseeability-diligence) — the rule for every “reasonably foreseeable” in Chapters Two through Four. The term itself is defined at [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable) in Chapter Five.
 
 </details>
 

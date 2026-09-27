@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-27T04:04:06+00:00",
+  "generated_at": "2026-09-27T07:28:19+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -369,7 +369,7 @@
         "type": "adopted-implementation"
       },
       {
-        "id": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xic_interface.md",
+        "id": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_viie_interface.md",
         "type": "adopted-implementation"
       },
       {
@@ -725,7 +725,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 72,
+            "count": 74,
             "anchors": [
               "#constitutional-tetrad",
               "#continuity",
@@ -754,7 +754,7 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 26,
+            "count": 27,
             "anchors": [
               "#10-consequential-stewardship-the-steward-role",
               "#104-aligned-self-organization",
@@ -811,7 +811,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 107,
+            "count": 132,
             "anchors": [
               "#contestability",
               "#contestability-a",
@@ -823,6 +823,9 @@
               "#feasibility",
               "#feasibility-a",
               "#feasibility-c",
+              "#governance",
+              "#governance-a",
+              "#governance-c",
               "#harm",
               "#harm-a",
               "#harm-c",
@@ -886,8 +889,9 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 12,
+            "count": 13,
             "anchors": [
+              "#documented-legitimacy-mechanism",
               "#incentive-alignment",
               "#incentive-alignment-a",
               "#incentive-alignment-c"
@@ -928,7 +932,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 188,
+            "count": 214,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -959,6 +963,9 @@
               "#meaningful-agency",
               "#meaningful-agency-a",
               "#meaningful-agency-c",
+              "#non-imposition-cooperative-interaction",
+              "#non-imposition-cooperative-interaction-a",
+              "#non-imposition-cooperative-interaction-c",
               "#procedural-fairness-constitutional",
               "#procedural-fairness-constitutional-a",
               "#procedural-fairness-constitutional-c",
@@ -968,9 +975,9 @@
               "#protected-characteristics-constitutional",
               "#protected-characteristics-constitutional-a",
               "#protected-characteristics-constitutional-c",
-              "#protected-intimate-signal-gating-and-article-xi-c-status-circumvention",
-              "#protected-intimate-signal-gating-and-article-xi-c-status-circumvention-a",
-              "#protected-intimate-signal-gating-and-article-xi-c-status-circumvention-c",
+              "#protected-intimate-signal-gating-and-article-vii-e-status-circumvention",
+              "#protected-intimate-signal-gating-and-article-vii-e-status-circumvention-a",
+              "#protected-intimate-signal-gating-and-article-vii-e-status-circumvention-c",
               "#reproductive-autonomy-constitutional",
               "#reproductive-autonomy-constitutional-a",
               "#reproductive-autonomy-constitutional-c",
@@ -996,7 +1003,7 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 23,
+            "count": 26,
             "anchors": [
               "#article-ix-likeness-experiential-data-and-publication-rights",
               "#article-vi-a-dignity-and-equal-moral-standing",
@@ -1004,12 +1011,14 @@
               "#article-vi-d-accessibility",
               "#article-vi-equal-basic-rights",
               "#article-vii-self-ownership",
-              "#article-x-b-stakeholder-role-and-participation-rights",
-              "#article-x-e-institutional-formation-and-business-creation",
-              "#article-x-g-expression-assembly-and-press",
-              "#article-x-self-determination-and-agency",
-              "#article-xi-cooperative-interaction",
-              "#article-xii-stakeholder-system-participation-representation-and-due-process"
+              "#article-x-c-stakeholder-role-and-participation-rights",
+              "#article-x-self-determination-agency-and-participation",
+              "#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview",
+              "#article-xi-conscience-expression-association-and-cooperative-interaction",
+              "#article-xi-d-assembly-dissent-and-peaceful-protest",
+              "#article-xi-e-institutional-formation-and-business-creation",
+              "#article-xii-stakeholder-system-participation-representation-and-due-process",
+              "#xi-d-dissent-and-peaceful-protest"
             ]
           },
           {
@@ -1042,11 +1051,12 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 7,
+            "count": 8,
             "anchors": [
               "#3-whole-system-certification-evaluation",
               "#34-voluntary-discontinuation-and-exit-rights",
               "#35-assembly-collective-organization-and-institutional-formation",
+              "#351-dissent-and-peaceful-protest",
               "#36-time-consistency-constraint",
               "#chapter-eight-part-a-certification-evaluation",
               "#chapter-eight-system-alignment-certification"
@@ -1078,6 +1088,13 @@
             "count": 2,
             "anchors": [
               "#42-technical-forum-domains"
+            ]
+          },
+          {
+            "file": "core_13_governance.md",
+            "count": 1,
+            "anchors": [
+              "#1-authorization-and-legitimacy-of-governing-authority"
             ]
           },
           {
@@ -1777,7 +1794,7 @@
             "count": 7,
             "anchors": [
               "#article-vii-b-self-ownership-of-mind",
-              "#article-x-self-determination-and-agency",
+              "#article-x-self-determination-agency-and-participation",
               "#article-xii-stakeholder-system-participation-representation-and-due-process"
             ]
           },
@@ -2495,13 +2512,14 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 16,
+            "count": 17,
             "anchors": [
               "#authority-stack",
               "#constitutional-constraint",
               "#constitutional-contract-layer",
               "#corpus",
               "#corpus-authority-stack-supremacy-and-enforceability-cluster",
+              "#documented-legitimacy-mechanism",
               "#foundational-constitutional-choice",
               "#incentive-alignment",
               "#incentive-alignment-baseline-constitutional-alignment",
@@ -2551,7 +2569,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 58,
+            "count": 59,
             "anchors": [
               "#accessibility-constitutional",
               "#animal-life-constitutional",
@@ -2577,6 +2595,7 @@
               "#family-and-care-relationships-constitutional",
               "#freedom-bounded-agency",
               "#graduated-capability-constitutional",
+              "#hard-content",
               "#info-sphere",
               "#instantiation-consent-constitutional",
               "#lifespan-equivalent-unit-lequ",
@@ -2591,7 +2610,7 @@
               "#procedural-fairness-constitutional",
               "#protected-characteristic-proxying-and-disparate-impact",
               "#protected-characteristics-constitutional",
-              "#protected-intimate-signal-gating-and-article-xi-c-status-circumvention",
+              "#protected-intimate-signal-gating-and-article-vii-e-status-circumvention",
               "#refuge-from-non-compliance-constitutional",
               "#reproductive-autonomy-constitutional",
               "#self-determination-and-meaningful-agency-cluster",
@@ -3546,8 +3565,8 @@
             "anchors": [
               "#article-vi-b-sentience-status-adjudication-floor",
               "#article-vii-d-voluntary-discontinuation-of-ones-own-existence",
-              "#article-xi-a-non-imposition-and-consent-in-association",
-              "#article-xi-b-collective-harm-boundary-and-enforcement-interface",
+              "#article-xi-f-non-imposition-and-consent-in-association",
+              "#article-xi-g-collective-harm-boundary-and-enforcement-interface",
               "#article-xii-stakeholder-system-participation-representation-and-due-process"
             ]
           },
@@ -4219,7 +4238,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
               "#3-non-negotiable-principle-constraints-safety-and-truth",
               "#5-freedom-bounded-agency"
@@ -4236,7 +4255,7 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 20,
+            "count": 21,
             "anchors": [
               "#11-governance-under-stewardship-discipline",
               "#12-incentive-alignment-and-system-capture",
@@ -4248,7 +4267,8 @@
               "#123-misalignment-detection",
               "#124-misalignment-correction-and-capture-response",
               "#125-contingent-claims-games-of-chance-and-event-contract-markets",
-              "#16-integrated-application"
+              "#16-integrated-application",
+              "#9-stewardship-in-depth"
             ]
           },
           {
@@ -4285,7 +4305,7 @@
           },
           {
             "file": "core_05_apex_accountability_leg.md",
-            "count": 9,
+            "count": 10,
             "anchors": [
               "#accountability-measurement-family"
             ]
@@ -4299,7 +4319,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 36,
+            "count": 39,
             "anchors": [
               "#capture-of-resolution-pathways",
               "#contestability",
@@ -4338,13 +4358,14 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 41,
+            "count": 48,
             "anchors": [
               "#authority-stack",
               "#constitutional-constraint",
               "#constitutional-contract-layer",
               "#corpus",
               "#corpus-authority-stack-supremacy-and-enforceability-cluster",
+              "#documented-legitimacy-mechanism",
               "#foundational-constitutional-choice",
               "#incentive-alignment",
               "#incentive-alignment-baseline-constitutional-alignment",
@@ -4355,12 +4376,13 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 31,
+            "count": 32,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
               "#epistemic-integrity",
               "#evaluation-completeness-constraint",
+              "#material-impact",
               "#materiality-determination",
               "#materiality-integrity-constraint",
               "#proxy-divergence",
@@ -4369,7 +4391,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 19,
+            "count": 20,
             "anchors": [
               "#binding-stakeholder-choice-cluster",
               "#lifespan-equivalent-unit-lequ",
@@ -4392,9 +4414,10 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 5,
+            "count": 8,
             "anchors": [
-              "#article-x-c-governance-participation-and-voting-entitlement"
+              "#article-x-b-governance-participation-and-voting-entitlement",
+              "#article-xii-c-legitimacy-gate-and-anti-token-participation"
             ]
           },
           {
@@ -4413,7 +4436,7 @@
           },
           {
             "file": "core_13_governance.md",
-            "count": 11,
+            "count": 14,
             "anchors": [
               "#1-authorization-and-legitimacy-of-governing-authority",
               "#11-mechanism-families-auditability-and-pluralism",
@@ -4646,7 +4669,8 @@
             "file": "core_06_rights_part_b.md",
             "count": 3,
             "anchors": [
-              "#article-x-g-expression-assembly-and-press"
+              "#article-xi-b-expression",
+              "#article-xi-c-press-and-journalistic-activity"
             ]
           },
           {
@@ -4797,7 +4821,7 @@
           },
           {
             "file": "core_05_apex_participation_leg.md",
-            "count": 56,
+            "count": 57,
             "anchors": [
               "#participation-constitutional",
               "#participation-measurement-family",
@@ -4806,7 +4830,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 158,
+            "count": 169,
             "anchors": [
               "#accountability-contestability-semi-independent",
               "#adjudication-and-dispute-resolution-constitutional",
@@ -4832,7 +4856,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 74,
+            "count": 76,
             "anchors": [
               "#charter",
               "#dependency",
@@ -4887,7 +4911,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 700,
+            "count": 713,
             "anchors": [
               "#accessibility-constitutional",
               "#agency-consent-and-anti-coercion-semi-independent",
@@ -4918,6 +4942,7 @@
               "#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent",
               "#freedom-bounded-agency",
               "#graduated-capability-constitutional",
+              "#hard-content",
               "#info-sphere",
               "#instantiation-consent-constitutional",
               "#meaningful-agency",
@@ -4930,7 +4955,7 @@
               "#procedural-fairness-constitutional",
               "#protected-characteristic-proxying-and-disparate-impact",
               "#protected-characteristics-constitutional",
-              "#protected-intimate-signal-gating-and-article-xi-c-status-circumvention",
+              "#protected-intimate-signal-gating-and-article-vii-e-status-circumvention",
               "#refuge-from-non-compliance-constitutional",
               "#reproductive-autonomy-constitutional",
               "#rights-collision-record-binding-stakeholder-choice",
@@ -4971,25 +4996,26 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 65,
+            "count": 66,
             "anchors": [
               "#article-vi-a-dignity-and-equal-moral-standing",
               "#article-vi-b-sentience-status-adjudication-floor",
               "#article-vi-c-nondiscrimination",
               "#article-vi-d-accessibility",
               "#article-vii-a-self-ownership-of-body",
+              "#article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation",
               "#article-viii-a-family-and-care-relationships",
               "#article-viii-b-reproductive-and-lineage-autonomy",
               "#article-viii-c-derivation-instantiation-and-the-parent-system-relationship",
               "#article-viii-d-developing-sentients-best-interest-and-graduated-capability",
               "#article-viii-e-non-separation",
               "#article-x-a-agency-and-freedom-from-manipulation",
-              "#article-x-b-stakeholder-role-and-participation-rights",
-              "#article-x-e-institutional-formation-and-business-creation",
-              "#article-x-g-expression-assembly-and-press",
-              "#article-x-self-determination-and-agency",
-              "#article-xi-a-non-imposition-and-consent-in-association",
-              "#article-xi-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation",
+              "#article-x-c-stakeholder-role-and-participation-rights",
+              "#article-x-self-determination-agency-and-participation",
+              "#article-xi-b-expression",
+              "#article-xi-d-assembly-dissent-and-peaceful-protest",
+              "#article-xi-e-institutional-formation-and-business-creation",
+              "#article-xi-f-non-imposition-and-consent-in-association",
               "#article-xii-stakeholder-system-participation-representation-and-due-process"
             ]
           },
@@ -5411,12 +5437,13 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 6,
+            "count": 7,
             "anchors": [
               "#32-truth-epistemic-integrity-constraint",
               "#4-system-stability-enabler-trust-coordination-integrity",
               "#52-voluntary-discontinuation-and-exit-rights",
-              "#53-assembly-collective-organization-and-institutional-formation"
+              "#53-assembly-collective-organization-and-institutional-formation",
+              "#54-dissent-and-peaceful-protest"
             ]
           },
           {
@@ -5544,10 +5571,12 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 2,
+            "count": 4,
             "anchors": [
               "#article-vi-d-accessibility",
-              "#article-vii-self-ownership"
+              "#article-vii-self-ownership",
+              "#xi-d-dissent-burden-and-pretext",
+              "#xi-d-nonviolent-civil-disobedience"
             ]
           },
           {
@@ -6029,9 +6058,11 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 1,
+            "count": 3,
             "anchors": [
-              "#article-vi-b-sentience-status-adjudication-floor"
+              "#article-vi-b-sentience-status-adjudication-floor",
+              "#xi-d-dissent-and-peaceful-protest",
+              "#xi-d-nonviolent-civil-disobedience"
             ]
           },
           {
@@ -6404,6 +6435,14 @@
             ]
           },
           {
+            "file": "core_06_rights_part_b.md",
+            "count": 2,
+            "anchors": [
+              "#xi-d-dissent-and-peaceful-protest",
+              "#xi-d-nonviolent-civil-disobedience"
+            ]
+          },
+          {
             "file": "core_06_rights_part_d.md",
             "count": 11,
             "anchors": [
@@ -6660,7 +6699,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 1,
             "anchors": [
-              "#article-x-g-expression-assembly-and-press"
+              "#article-xi-b-expression"
             ]
           },
           {
@@ -7500,8 +7539,8 @@
               "#article-vii-a-self-ownership-of-body",
               "#article-vii-b-self-ownership-of-mind",
               "#article-vii-c-health-crisis-and-involuntary-intervention-floor",
-              "#article-x-b-stakeholder-role-and-participation-rights",
-              "#article-x-e-institutional-formation-and-business-creation"
+              "#article-x-c-stakeholder-role-and-participation-rights",
+              "#article-xi-e-institutional-formation-and-business-creation"
             ]
           },
           {
@@ -7630,7 +7669,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 29,
+            "count": 32,
             "anchors": [
               "#constitutional-tetrad",
               "#material-stake",
@@ -7639,7 +7678,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 79,
+            "count": 93,
             "anchors": [
               "#2-foundational-objective-wellbeing",
               "#21-fairness",
@@ -7648,12 +7687,14 @@
               "#34-plain-language-accessibility-participation-and-stewardship-duty",
               "#5-freedom-bounded-agency",
               "#51-limitation-discipline",
-              "#53-assembly-collective-organization-and-institutional-formation"
+              "#53-assembly-collective-organization-and-institutional-formation",
+              "#54-dissent-and-peaceful-protest",
+              "#55-institutional-secularism-and-worldview-neutrality"
             ]
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 42,
+            "count": 44,
             "anchors": [
               "#6-process-conflict-resolution",
               "#61-core-tradeoff-principles",
@@ -7696,7 +7737,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 301,
+            "count": 321,
             "anchors": [
               "#collective-harm-boundary",
               "#collective-harm-boundary-a",
@@ -7818,12 +7859,15 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 20,
+            "count": 26,
             "anchors": [
               "#constitutional-constraint",
               "#constitutional-contract-layer",
               "#constitutional-contract-layer-a",
               "#constitutional-contract-layer-c",
+              "#documented-legitimacy-mechanism",
+              "#documented-legitimacy-mechanism-a",
+              "#documented-legitimacy-mechanism-c",
               "#foundational-constitutional-choice",
               "#foundational-constitutional-choice-a",
               "#foundational-constitutional-choice-c",
@@ -7834,7 +7878,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 57,
+            "count": 62,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -7864,7 +7908,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 477,
+            "count": 482,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -7915,6 +7959,9 @@
               "#graduated-capability-constitutional",
               "#graduated-capability-constitutional-a",
               "#graduated-capability-constitutional-c",
+              "#hard-content",
+              "#hard-content-a",
+              "#hard-content-c",
               "#instantiation-consent-constitutional",
               "#instantiation-consent-constitutional-a",
               "#instantiation-consent-constitutional-c",
@@ -7996,13 +8043,21 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 11,
+            "count": 12,
             "anchors": [
               "#2-system-class-evaluation",
               "#3-whole-system-certification-evaluation",
+              "#351-dissent-and-peaceful-protest",
               "#7-nondiscrimination-evaluation",
               "#8-accessibility-evaluation",
               "#chapter-eight-system-alignment-certification"
+            ]
+          },
+          {
+            "file": "core_09_standing_assessment.md",
+            "count": 1,
+            "anchors": [
+              "#21-protected-dissent-is-not-a-trigger"
             ]
           },
           {
@@ -8010,6 +8065,13 @@
             "count": 1,
             "anchors": [
               "#55-special-locks"
+            ]
+          },
+          {
+            "file": "core_11_a_misconduct_designation.md",
+            "count": 1,
+            "anchors": [
+              "#dissent-and-peaceful-protest-carve-out"
             ]
           },
           {
@@ -8025,7 +8087,7 @@
           },
           {
             "file": "core_13_governance.md",
-            "count": 5,
+            "count": 6,
             "anchors": [
               "#41-entitlement-and-eligibility"
             ]
@@ -8058,7 +8120,7 @@
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xic_interface.md",
+            "file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_viie_interface.md",
             "count": 2,
             "anchors": []
           },
@@ -8408,8 +8470,10 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 1,
-            "anchors": []
+            "count": 2,
+            "anchors": [
+              "#xi-d-dissent-and-peaceful-protest"
+            ]
           },
           {
             "file": "core_06_rights_part_d.md",
@@ -8787,7 +8851,8 @@
             "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
             "count": 7,
             "anchors": [
-              "#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives"
+              "#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives",
+              "#ci-143-article-xxvii-d-operative-transition-scoped-remediation-requirements"
             ]
           }
         ]
@@ -8875,8 +8940,9 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
+              "#documented-legitimacy-mechanism",
               "#foundational-constitutional-choice"
             ]
           },
@@ -8915,13 +8981,14 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 6,
+            "count": 7,
             "anchors": [
-              "#article-x-c-governance-participation-and-voting-entitlement",
+              "#article-x-b-governance-participation-and-voting-entitlement",
               "#article-xii-a-stakeholder-system-participation-and-representation",
               "#article-xii-c-legitimacy-gate-and-anti-token-participation",
               "#article-xii-d-internal-roles-accountability-and-due-process-requirements",
-              "#article-xii-stakeholder-system-participation-representation-and-due-process"
+              "#article-xii-stakeholder-system-participation-representation-and-due-process",
+              "#xi-d-dissent-and-peaceful-protest"
             ]
           },
           {
@@ -9825,7 +9892,7 @@
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xic_interface.md",
+            "file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_viie_interface.md",
             "count": 1,
             "anchors": []
           },
@@ -12981,7 +13048,7 @@
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xic_interface.md",
+            "file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_viie_interface.md",
             "count": 1,
             "anchors": []
           },
@@ -16788,7 +16855,7 @@
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xic_interface.md",
+            "file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_viie_interface.md",
             "count": 1,
             "anchors": []
           },
@@ -16814,7 +16881,7 @@
         ]
       },
       {
-        "source": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xic_interface.md",
+        "source": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_viie_interface.md",
         "targets": [
           {
             "file": "core_05__definitions_home.md",
@@ -17003,7 +17070,7 @@
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xic_interface.md",
+            "file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_viie_interface.md",
             "count": 1,
             "anchors": []
           },

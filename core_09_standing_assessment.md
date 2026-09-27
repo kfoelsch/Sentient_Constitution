@@ -147,9 +147,9 @@ Question 1 uses a **contribution standing record** for verified help and a **vio
 - When a record concerning a subject is opened, the subject must be notified under **section 3** unless a documented [Evidence Preservation](core_05_band_oversight.md#evidence-preservation) or Safety showing justifies a time-bounded delay; a record the subject cannot know about is not contestable.
 
 <a id="21-protected-dissent-is-not-a-trigger"></a>
-**Protected dissent is not a trigger.** Dissent or peaceful protest — including [protected nonviolent civil disobedience](core_06_rights_part_b.md#x-g-nonviolent-civil-disobedience) — under **Article X-G** ([*Dissent and peaceful protest floor*](core_06_rights_part_b.md#x-g-dissent-and-peaceful-protest)) is not a verified trigger.
+**Protected dissent is not a trigger.** Dissent or peaceful protest — including [protected nonviolent civil disobedience](core_06_rights_part_b.md#xi-d-nonviolent-civil-disobedience) — under **Article XI-D** ([*Dissent and peaceful protest floor*](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) is not a verified trigger.
 - It does not open, extend, or aggravate a violation standing record, it is not a severity input under **section 4**, and repeating it does not make it a pattern.
-- Separable conduct that independently breaches a constitutional floor is recorded on its own terms, without aggravation for the protest's viewpoint, cause, or target.
+- Separable conduct that independently violates a constitutional floor is recorded on its own terms, without aggravation for the protest's viewpoint, cause, or target.
 
 Any later standing effect belongs to Chapter Ten and must be traceable back to the relevant standing record or records without becoming part of the record itself.
 

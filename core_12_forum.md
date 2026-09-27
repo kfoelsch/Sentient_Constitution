@@ -35,7 +35,7 @@
 - Read with: [Preamble §6.2 How the full chain fits together](core_00_preamble.md#62-how-the-full-chain-fits-together).
 - Downstream: [corpus_forum.md](corpus_forum.md) (*operational forum doctrine*); [Chapter Thirteen](core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) where governance legitimacy interacts with adjudication role; [Chapter Seventeen](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*incorporation discipline* for adopted procedure layers).
 - Read with: [Chapter Nine §5.1](core_09_standing_assessment.md#5-slot-grammar-and-display-labels) (*standing-slot grammar*); [Chapter Nine §§4.3–4.4](core_09_standing_assessment.md#43-route-descriptor-measurement-roles) (*cross-axis normalized Contribution Axis and Violation Axis descriptors*).
-- Read also with: [Chapter Ten §3](core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization) (*descriptor integration and attachment normalization read with section 2 primary-stakes routing*); [README.md](README.md) (*reading order and corpus organization*); [doc_architecture.md](doc_architecture.md) (*non-binding editorial maps unless adopted*).
+- Read also with: [Chapter Ten §3 Descriptor integration and attachment normalization](core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization), together with its section 2 routing by primary stakes; [README.md](README.md) (*reading order and how the corpus is organized*); [doc_architecture.md](doc_architecture.md) (*editorial maps that do not bind unless adopted*).
 
 </details>
 

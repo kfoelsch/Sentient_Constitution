@@ -26,10 +26,10 @@
 *In plain terms: watch systems, check them, and keep them within bounds — oversight has to be able to see problems and change outcomes, not just hold a ceremony.*
 
 <a id="oversight-constitutional"></a>
+<a id="oversight"></a>
 
-#### Oversight
-
-- O: Watch systems, check them, and keep them within bounds — the Tetrad leg this entry names.
+- **What it is**
+  - Watch systems, check them, and keep them within bounds — the Tetrad leg this entry names.
   - **In scope:**
     - watching, checking, verifying, and constraining how systems behave, done by [Stakeholders](core_05_band_participation.md#stakeholder), independent actors, or institutions, and spread out where that is workable;
     - purpose: catch and fix non-compliance, and support informed [Governance](core_05_band_accountability.md#governance);
@@ -47,18 +47,20 @@
     - [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) as one high-stakes audit process among others —
     those sit under their own homes; this leg is not the leaf stack, and SAC is not the sole content of oversight.
 <a id="oversight-constitutional-m"></a>
-- M: How to tell whether systems can actually be watched, checked, and kept within bounds. This entry only names what to look at; the rules for how to measure live on each linked definition. Topic map: [Tetrad Leg decomposition](#oversight-tetrad-leg-decomposition).
 <a id="oversight-constitutional-a"></a>
-- A:
-  - Judge under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake).
-  - Ask whether oversight is real — able to see problems and change outcomes — not just ceremony.
+- **How to measure and assess**
+  - **Primary measure:** How to tell whether systems can actually be watched, checked, and kept within bounds. This entry only names what to look at; the rules for how to measure live on each linked definition. Topic map: [Tetrad Leg decomposition](#oversight-tetrad-leg-decomposition).
+  - **Primary assessment:**
+    - Judge under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake).
+    - Ask whether oversight is real — able to see problems and change outcomes — not just ceremony.
 <a id="oversight-constitutional-c"></a>
-- C: Non-compliant when:
-  - there is no real oversight path where one is materially required;
-  - oversight cannot actually change outcomes;
-  - the supervised system alone controls the oversight;
-  - labels or ceremonies with no real change to governed behavior; or
-  - [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) treated as the sole auditing process.
+- **What must hold**
+  - **Primary failure:** Non-compliant when:
+    - there is no real oversight path where one is materially required;
+    - oversight cannot actually change outcomes;
+    - the supervised system alone controls the oversight;
+    - labels or ceremonies with no real change to governed behavior; or
+    - [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) treated as the sole auditing process.
 
 ---
 

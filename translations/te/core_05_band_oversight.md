@@ -185,7 +185,7 @@
     - మూలం రక్షణ;
     - విచారణ; మరియు
     - ప్రచురణ.
-    ఆ పని చేసే సంజ్ఞ ప్రాణులు [వ్యక్తీకరణ](core_05_band_participation.md#expression-constitutional) and [సమావేశం](core_05_band_participation.md#assembly-constitutional) హక్కుల నేల, దీని కింద పెంపొందిన-పరిశీలన రక్షణతో [అనుచ్ఛేదం V-H](../../core_06_rights_part_b.md#article-x-g-expression-assembly-and-press) (*Expression, Assembly, మరియు Press*) ఆ కార్యకలాపాన్ని బలహీనపరచే రాష్ట్ర మరియు నిర్వాహక చర్యలకు వ్యతిరేకంగా.
+    ఆ పని చేసే సంజ్ఞ ప్రాణులు [వ్యక్తీకరణ](core_05_band_participation.md#expression-constitutional) and [సమావేశం](core_05_band_participation.md#assembly-constitutional) హక్కుల నేల, దీని కింద పెంపొందిన-పరిశీలన రక్షణతో [అనుచ్ఛేదం V-H](../../core_06_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, మరియు Press*) ఆ కార్యకలాపాన్ని బలహీనపరచే రాష్ట్ర మరియు నిర్వాహక చర్యలకు వ్యతిరేకంగా.
   - **పరిధి బయట:** వార్తా సేకరణ, విచారణ, లేదా పాత్రికేయతగా పనిచేసే ప్రచురణ కాని ప్రెస్ ధ్రువపత్రాలు, సంస్థ బిరుదులు, లేదా సాధారణ వాణిజ్య ప్రసంగం.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **కొలవడం మరియు అంచనా వేయడం ఎలా**

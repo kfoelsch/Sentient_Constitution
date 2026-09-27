@@ -145,7 +145,7 @@ Account for impact on shared infrastructure, dependents, and overall stability (
 
 **Where such conditions are identified**, affected systems and participants may **initiate challenge and review processes** (**Article XIII-B** (*Right to Challenge, Review, and Redress*), **Article XVI-A** (*Auditability and Observable Evidence*), and **Article XXII-A** (*Diagnostic Rigor and Causal Attribution*) where challenge, auditability, or root-cause review is implicated).
 
-**Corrective measures** must be pursued in accordance with **restorative and systemic realignment principles** (**Article XI-A** (*Non-Imposition and Consent in Association*)).
+**Corrective measures** must be pursued in accordance with **restorative and systemic realignment principles** (**Article XI-F** (*Non-Imposition and Consent in Association*)).
 
 <a id="cs-8-5-ecosystem-risk-response"></a>
 ## CS-8.5 Ecosystem risk response

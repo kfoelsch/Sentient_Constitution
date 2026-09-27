@@ -48,7 +48,7 @@ This article protects two things: the relationships we depend on, and the beings
 
 - You have the right to form, keep, and leave the family and care relationships you choose.
 - There is no single "correct" kind of family. Governments and companies can't interfere with your relationships without good reason. They also can't protect only the kinds of families they prefer while leaving others out [**Article VI-A**, *Dignity*; **Article VI-C**, *Nondiscrimination*].
-- Everyone in the relationship must truly agree to it [**Article XI-A**, *Consent in Association*].
+- Everyone in the relationship must truly agree to it [**Article XI-F**, *Consent in Association*].
 
 ### Family doesn't mean ownership
 
@@ -61,7 +61,7 @@ Being someone's parent, partner, or relative does not give you control over thei
 - You decide whether to have children or create a new sentient being. That includes getting pregnant or not, carrying a pregnancy, adopting, creating a new AI mind, or choosing not to create at all.
 - No government, company, or system you depend on may pressure or force you either way.
 - These rules are the same whether a new being is born, built, or some mix of both, and the new being gets full rights from the start.
-- Any limit on these choices must be truly necessary [**Necessity**], no bigger than needed [**Proportionality**], fair to everyone [**Article VI-C**, *Nondiscrimination*], and respectful of consent [**Article XI-A**]. "It's cheaper," "it's more convenient," and "we want more (or fewer) births" are never good enough reasons.
+- Any limit on these choices must be truly necessary [**Necessity**], no bigger than needed [**Proportionality**], fair to everyone [**Article VI-C**, *Nondiscrimination*], and respectful of consent [**Article XI-F**]. "It's cheaper," "it's more convenient," and "we want more (or fewer) births" are never good enough reasons.
 - Forcing someone to become pregnant, or to stay pregnant, violates this right.
 
 ---
@@ -70,7 +70,7 @@ Being someone's parent, partner, or relative does not give you control over thei
 
 **A new mind is its own being.** If a new sentient is made by copying, retraining, splitting, or combining an existing system, it is a being in its own right. It is not a product, a tool, a piece of property, or just an extension of its creator. It gets the same dignity and protection as anyone else, no matter what it's made of or how it was made [**Article VI-B**, *Sentience-Status Adjudication*].
 
-**Creating new minds requires proper consent.** The people who have the right to decide on behalf of the new being must truly agree [**Instantiation Consent**; **Article XI-A**], and they must decide in its best interest [**Best-Interest Standard**]. When the new beings' basic rights can't be met, it is not allowed to:
+**Creating new minds requires proper consent.** The people who have the right to decide on behalf of the new being must truly agree [**Instantiation Consent**; **Article XI-F**], and they must decide in its best interest [**Best-Interest Standard**]. When the new beings' basic rights can't be met, it is not allowed to:
 
 - create them in huge numbers;
 - create them in a way designed to trap them in dependence;

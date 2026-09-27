@@ -184,7 +184,7 @@
     - ذرائع کا تحفظ؛
     - تحقیق؛ اور
     - اشاعت۔
-    Sentients doing that work exercise the [اظہار](core_05_band_participation.md#expression-constitutional) and [اجتماع](core_05_band_participation.md#assembly-constitutional) حقوق کی تہہ, with heightened-scrutiny protection under [دفعہ V-H](../../core_06_rights_part_b.md#article-x-g-expression-assembly-and-press) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
+    Sentients doing that work exercise the [اظہار](core_05_band_participation.md#expression-constitutional) and [اجتماع](core_05_band_participation.md#assembly-constitutional) حقوق کی تہہ, with heightened-scrutiny protection under [دفعہ V-H](../../core_06_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
   - **دائرے سے باہر:** press credentials, institutional titles, or ordinary commercial speech that is not newsgathering, investigation, or publication functioning as journalism.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **کیسے ناپیں اور جانچیں**

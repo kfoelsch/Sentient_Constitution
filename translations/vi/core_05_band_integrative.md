@@ -102,7 +102,7 @@ Dải này giữ các định nghĩa **Tích hợp** cắt ngang trụ — các 
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Hạ nguồn: Nguyên tắc: [Lời nói đầu §3.3 kỷ luật tầng quản trị](core_00_preamble.md#33-governance-layers); [Chương Một §5 Tự do](core_01_a_values_principles.md#5-freedom-bounded-agency).
-- Sàn chủ sở hữu: [Chương Mười Hai: Hợp đồng Hiến pháp, tính chính danh, ủy quyền, và quản trị có trách nhiệm](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); [Điều X-C: Tham gia quản trị và quyền phiếu](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement).
+- Sàn chủ sở hữu: [Chương Mười Hai: Hợp đồng Hiến pháp, tính chính danh, ủy quyền, và quản trị có trách nhiệm](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); [Điều X-C: Tham gia quản trị và quyền phiếu](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - Thành phần cụm: [*Tầng Hợp đồng Hiến pháp và Lựa chọn hiến pháp nền tảng*](core_05_band_integrative.md#constitutional-contract-layer)
 - Đọc cùng: [Lựa chọn hiến pháp nền tảng](core_05_band_integrative.md#foundational-constitutional-choice), [Lựa chọn ràng buộc của bên bị ảnh hưởng](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Tư cách và trọng số bên bị ảnh hưởng](core_05_band_participation.md#stakeholder-status-and-weight-cluster), [Quản trị](core_05_band_accountability.md#governance).
 - Tầng: **Tầng Hợp đồng Hiến pháp (CCL)** — ai được quản trị, bằng cơ chế chính danh nào, trên điều khoản bền nào. Khác **Tham gia hệ thống của bên bị ảnh hưởng (SSP)**.
@@ -123,7 +123,7 @@ Dải này giữ các định nghĩa **Tích hợp** cắt ngang trụ — các 
     - [Lựa chọn hiến pháp nền tảng](core_05_band_integrative.md#foundational-constitutional-choice);
     - [cơ chế chính danh đã ghi](../../core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority) dưới [Chương Mười Hai §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism);
     - quy tắc [tiếp nhận](../../core_16_amendment_ratification.md#10-ratification-and-adoption) và [tái ủy quyền](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) ([Chương Mười Hai §1.3](../../core_13_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails); [Chương Mười Sáu §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)); và
-    - [sàn bình đẳng chính trị](../../core_13_governance.md#41-entitlement-and-eligibility) để cấu thành hoặc tái cấu trúc bền quyền quản trị — các hữu tri có quyền có tiếng nói bằng nhau ở tầng đó ([Điều X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement)).
+    - [sàn bình đẳng chính trị](../../core_13_governance.md#41-entitlement-and-eligibility) để cấu thành hoặc tái cấu trúc bền quyền quản trị — các hữu tri có quyền có tiếng nói bằng nhau ở tầng đó ([Điều X-C](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)).
   - **Ngoài phạm vi:**
     - tham vấn bên bị ảnh hưởng thường;
     - tham gia vận hành;
@@ -131,7 +131,7 @@ Dải này giữ các định nghĩa **Tích hợp** cắt ngang trụ — các 
     - quản trị lĩnh vực thường sau khi cấu trúc và quy trình đã được ủy quyền; và
     - [Trọng số bên bị ảnh hưởng](core_05_band_participation.md#stakeholder-weight) thường — cho thêm tiếng nói cho những ai bị ảnh hưởng nhiều hơn — dùng để đặt phiếu thành lập hoặc tái ủy quyền ([Lời nói đầu §3.3 kỷ luật tầng quản trị](core_00_preamble.md#33-governance-layers)).
   - **Nhà vận hành:** [Chương Mười Hai](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) nêu các quy tắc ủy quyền, tính chính danh, và quản trị có trách nhiệm ràng buộc cho tầng này.
-  - **Sàn Quyền:** [Điều X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement) (*Tham gia quản trị và quyền phiếu*) nêu quyền tham gia bằng nhau mà những quy tắc Chương Mười Hai đó không được thu hẹp.
+  - **Sàn Quyền:** [Điều X-C](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Tham gia quản trị và quyền phiếu*) nêu quyền tham gia bằng nhau mà những quy tắc Chương Mười Hai đó không được thu hẹp.
 <a id="constitutional-contract-layer-a"></a>
 - **Cách đo và đánh giá**
   - **Thước sơ cấp:** [Gia đình đo lường Trách nhiệm giải trình](core_05_apex_accountability_leg.md#accountability-measurement-family) — *Cấu trúc thưởng, quyền lực thị trường, và khả năng phải trả lời có giữ nghĩa vụ thành thực không?* Dùng nó ở đây để hỏi liệu quyền quản trị được tuyên có dựa trên một Hợp đồng Hiến pháp thực — tính chính danh đã ghi, tiếng nói thành lập bằng nhau, và điều khoản bền vẫn thẳng hàng với Hiến pháp này — không phải quy mô, độ nổi, hay tầm thị trường đơn.
@@ -158,7 +158,7 @@ Dải này giữ các định nghĩa **Tích hợp** cắt ngang trụ — các 
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Hạ nguồn: Nguyên tắc: [Chương Một §5 Tự do](core_01_a_values_principles.md#5-freedom-bounded-agency); [6. Giải quyết xung đột quy trình](#6-process-conflict-resolution).
-- Sàn chủ sở hữu: [Chương Mười Hai Chương Một §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*Sàn bình đẳng chính trị cho lựa chọn hiến pháp nền tảng*; *Sàn tiếng nói chính trị bền*); [Điều X-C: Tham gia quản trị và quyền phiếu](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement).
+- Sàn chủ sở hữu: [Chương Mười Hai Chương Một §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*Sàn bình đẳng chính trị cho lựa chọn hiến pháp nền tảng*; *Sàn tiếng nói chính trị bền*); [Điều X-C: Tham gia quản trị và quyền phiếu](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - Thành phần cụm: [*Tầng Hợp đồng Hiến pháp và Lựa chọn hiến pháp nền tảng*](core_05_band_integrative.md#constitutional-contract-layer)
 - Đọc cùng: [Tầng Hợp đồng Hiến pháp](core_05_band_integrative.md#constitutional-contract-layer), [Giới hạn đại diện và trọng số bên bị ảnh hưởng (Lựa chọn ràng buộc của bên bị ảnh hưởng)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), [Lựa chọn ràng buộc của bên bị ảnh hưởng](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Công bằng thủ tục](core_05_band_participation.md#procedural-fairness-constitutional).
 - Tầng: **Tầng Hợp đồng Hiến pháp (CCL)**. Khác **Tham gia hệ thống của bên bị ảnh hưởng (SSP)** bên trong hệ thống đã được ủy quyền.
@@ -177,7 +177,7 @@ Dải này giữ các định nghĩa **Tích hợp** cắt ngang trụ — các 
 
     Điều này thuộc [Tầng Hợp đồng Hiến pháp](core_05_band_integrative.md#constitutional-contract-layer).
     - Chủ sở hữu: [Chương Mười Hai Chương Một §4.1](../../core_13_governance.md#41-entitlement-and-eligibility).
-    - Con trỏ tầng quyền: [Điều X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement) (*Tham gia quản trị và quyền phiếu*).
+    - Con trỏ tầng quyền: [Điều X-C](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Tham gia quản trị và quyền phiếu*).
     - Áp dụng dưới [Không loại trừ hữu tri](core_05_band_participation.md#sentience-non-exclusion).
   - **Ngoài phạm vi:**
     - quyết định bên bị ảnh hưởng thường có trọng số theo tác động một khi một lĩnh vực đã có cấu trúc và quy trình quản trị đã được ủy quyền — các hữu tri bị ảnh hưởng có tiếng nói chia tỷ lệ theo mức họ bị ảnh hưởng qua nhận diện [Bên bị ảnh hưởng](core_05_band_participation.md#stakeholder) và [Trọng số bên bị ảnh hưởng](core_05_band_participation.md#stakeholder-weight) (kể cả ràng buộc **Điều XII** (*Tham gia hệ thống của bên bị ảnh hưởng, đại diện, và thủ tục đúng đắn*)), không qua quy tắc đếm nền tảng trọng số bằng nhau; và

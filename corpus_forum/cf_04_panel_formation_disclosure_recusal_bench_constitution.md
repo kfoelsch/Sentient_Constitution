@@ -120,7 +120,7 @@ Where public pre-disclosure of a proposed panel would foreseeably create a mater
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-4.4**; [Chapter Eleven §2](../core_11_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) where dishonest disclosure omission materially affects constitutional custody, verification, challenge rights, Rights-Floor governance, or operative remedies and may support the corresponding anti-constitutional-misconduct designation for a Chapter Nine slot 7–9 record without assigning or moving the numeric slot.
+- Read with: **CF-4.4**; and [Chapter Eleven §2 Criteria set](../core_11_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) when leaving something out of a disclosure is dishonest and seriously affects constitutional custody, verification, challenge rights, Rights-Floor governance, or remedies. Such an omission may support an anti-constitutional-misconduct designation for a Chapter Nine slot 7–9 record. It does not set or move the slot number.
 
 </details>
 
@@ -146,7 +146,7 @@ The disclosure record must be preserved even if the member ultimately serves.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-4.5**; [Chapter Eleven §2](../core_11_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) where intentional recusal-process failure materially affects constitutional custody, verification, challenge rights, Rights-Floor governance, or operative remedies and may support the corresponding anti-constitutional-misconduct designation for a Chapter Nine slot 7–9 record without assigning or moving the numeric slot.
+- Read with: **CF-4.5**; and [Chapter Eleven §2 Criteria set](../core_11_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) when a recusal process is deliberately not followed and that seriously affects constitutional custody, verification, challenge rights, Rights-Floor governance, or remedies. Such a failure may support an anti-constitutional-misconduct designation for a Chapter Nine slot 7–9 record. It does not set or move the slot number.
 
 </details>
 

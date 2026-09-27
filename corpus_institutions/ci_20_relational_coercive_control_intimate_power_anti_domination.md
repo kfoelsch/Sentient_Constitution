@@ -50,7 +50,7 @@ This file is the institutional implementation home for **CI-20** (*Relational co
 *Shared rules live elsewhere.*
 - [**CJS-3.17**](../corpus_joint_structure/cjs_03c_continuity_operations.md) (*interoperability, portability, and exit-integrity terms*) — **Dependency-based coercion and reputation-lock pathway integrity**.
 - Chapter Five [*Coercion and Manipulation*](../core_05_band_participation.md#coercion-and-manipulation-constitutional); [*Meaningful Agency*](../core_05_band_participation.md#meaningful-agency).
-- **Article X-A** (*Freedom from Manipulation*); **Article XI-A** (*Non-Imposition and Consent in Association*); **Article X-F** (*Freedom of Conscience, Religion, and Comparable Worldview*); **Article VIII-A** (*Family and Care Relationships*); **Article VIII-E** (*Non-Separation*).
+- **Article X-A** (*Freedom from Manipulation*); **Article XI-F** (*Non-Imposition and Consent in Association*); **Article XI-A** (*Freedom of Conscience, Religion, and Comparable Worldview*); **Article VIII-A** (*Family and Care Relationships*); **Article VIII-E** (*Non-Separation*).
 - **CI-6** (*Procedure integrity, contestability, and secondary review*); **CI-8** (*Transparency, participation, and accessible challenge and service pathways*); **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-16** (*Care labor, dependent support, respite, and care-economy fairness*); **CI-21** (*Community life, voluntary association, and non-instrumental time*). This file does not repeat those floors.
 
 **Apply.** Apply **CJS-3.17** **Dependency-based coercion and reputation-lock pathway integrity**. **CI-20** states only the local owner duties below.
@@ -67,6 +67,6 @@ Read **CI-6**, **CI-8**, and **CI-5** for local procedure, participation, and in
 
 ---
 
-**Previous file:** [ci_19_vulnerable_personal_services_markets_article_xic_interface.md](ci_19_vulnerable_personal_services_markets_article_xic_interface.md)
+**Previous file:** [ci_19_vulnerable_personal_services_markets_article_viie_interface.md](ci_19_vulnerable_personal_services_markets_article_viie_interface.md)
 
 **Next file:** [ci_21_community_life_voluntary_association_non_instrumental_time.md](ci_21_community_life_voluntary_association_non_instrumental_time.md)

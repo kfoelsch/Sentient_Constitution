@@ -79,7 +79,7 @@ See: [Article XIII-B](../../../core_06_rights_part_c.md#article-xiii-b-right-to-
 
 - A second, softer set of rights, access treated as optional charity, or a guarantee of your preferred format in every setting.
 - Winning a preference contest against someone else’s basic protection.
-- Erasing adult-to-adult expression under a vulnerability pretext ([Article X-G](../../../core_06_rights_part_b.md#article-x-g-expression-assembly-and-press) audience-routing discipline).
+- Erasing adult-to-adult expression under a vulnerability pretext ([Article XI-B](../../../core_06_rights_part_b.md#article-xi-b-expression) audience-routing discipline).
 - Enforcement against a clinic, school, or employer that has not adopted it.
 
 ## If you want to look further

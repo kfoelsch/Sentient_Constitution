@@ -47,7 +47,7 @@ See: [Reproductive Autonomy](../../../core_05_band_participation.md#reproductive
 - **Today:** “We’re family” is treated as authority to pick the clinician, the household, and who keeps the child.
 - **With this Constitution:** You own your body and mind. Family relationship is not authority over you or the child. Association has to rest on real consent, not a take-it-or-leave-it survival bargain.
 
-See: [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body); [Article XI-A](../../../core_06_rights_part_b.md#article-xi-a-non-imposition-and-consent-in-association).
+See: [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body); [Article XI-F](../../../core_06_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association).
 
 **A concern report is waiting to be looked at, not already a verdict.**
 - **Today:** If you refuse, they say they will report that the baby will not be safe. They file. You dispute it. No neglect has been verified. No independent case is open. Once someone files, you are already “in the system,” and silence or refusal is treated as proof.

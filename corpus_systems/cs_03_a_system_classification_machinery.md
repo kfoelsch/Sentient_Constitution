@@ -309,7 +309,7 @@ Markets, payment rails, matchers, ranking engines, and other intermediaries stay
 
 - **Market-mediated personal services**
   - Systems that match, dispatch, schedule, settle payment for, or reputation-score **in-person** personal services are presumptively material for dependency, safety, coercion risk, and fairness analysis when impact thresholds are approached — especially where intimacy, bodily contact, private-space or in-home access, or isolated work is involved
-  - Rights Floor: Chapter Six. Institutional interface: [**CI-19**](../corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xic_interface.md) (*Vulnerable personal services markets — Article XI-C interface*). Stewardship scale: **CS-4 — Critical system stewardship**
+  - Rights Floor: Chapter Six. Institutional interface: [**CI-19**](../corpus_institutions/ci_19_vulnerable_personal_services_markets_article_viie_interface.md) (*Vulnerable personal services markets — Article VII-E interface*). Stewardship scale: **CS-4 — Critical system stewardship**
 - **Contingent claims and event markets**
   - Systems that match counterparties, pool stakes, or settle payments based on outside events are presumptively material for incentive, capture, manipulation, and stability analysis
   - Constitutional direction: [Chapter One §12.5 Contingent Claims, Games of Chance, and Event-Contract Markets](../core_01_c_stewardship_capacity_principles.md#125-contingent-claims-games-of-chance-and-event-contract-markets). Stewardship scale: **CS-4 — Critical system stewardship**

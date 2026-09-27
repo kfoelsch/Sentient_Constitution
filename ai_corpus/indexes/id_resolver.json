@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-09-27T04:04:08+00:00",
+  "generated_at": "2026-09-27T07:28:21+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -1357,9 +1357,9 @@
       "kind": "family"
     },
     "CI-19": {
-      "file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xic_interface.md",
-      "anchor": "#ci-19-vulnerable-personal-services-markets-general-regulation-and-article-xi-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation-interface",
-      "heading": "CI-19: Vulnerable personal services markets — general regulation and **Article XI-C** (*Adult consensual commercial sexual services and sexual exploitation*) interface",
+      "file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_viie_interface.md",
+      "anchor": "#ci-19-vulnerable-personal-services-markets-general-regulation-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-interface",
+      "heading": "CI-19: Vulnerable personal services markets — general regulation and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) interface",
       "line": 1,
       "kind": "family"
     },
@@ -3246,7 +3246,7 @@
       "file": "core_05_band_integrative.md",
       "anchor": "#defi1",
       "heading": "Def.I1 Corpus and Authority Stack",
-      "line": 496,
+      "line": 546,
       "kind": "cluster"
     },
     "Def.O1": {
@@ -3288,7 +3288,7 @@
       "file": "core_05_band_participation.md",
       "anchor": "#defp4",
       "heading": "Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability",
-      "line": 3294,
+      "line": 3342,
       "kind": "cluster"
     }
   },
@@ -4003,13 +4003,6 @@
       "line_end": 106
     },
     {
-      "term": "Accountability",
-      "file": "core_05_apex_accountability_leg.md",
-      "anchor": "#accountability",
-      "line_start": 30,
-      "line_end": 114
-    },
-    {
       "term": "Adjudication and Dispute Resolution",
       "file": "core_05_band_accountability.md",
       "anchor": "#adjudication-and-dispute-resolution-constitutional",
@@ -4083,8 +4076,8 @@
       "term": "Authority Stack and Internal Hierarchy",
       "file": "core_05_band_integrative.md",
       "anchor": "#authority-stack",
-      "line_start": 601,
-      "line_end": 700
+      "line_start": 651,
+      "line_end": 750
     },
     {
       "term": "Autonomous Coercion Tool",
@@ -4111,8 +4104,8 @@
       "term": "Best-Interest Standard",
       "file": "core_05_band_participation.md",
       "anchor": "#best-interest-standard-constitutional",
-      "line_start": 3378,
-      "line_end": 3425
+      "line_start": 3426,
+      "line_end": 3473
     },
     {
       "term": "Binding Stakeholder Choice — Decision-Resolution Requirements",
@@ -4251,8 +4244,8 @@
       "term": "Constitutional Constraint",
       "file": "core_05_band_integrative.md",
       "anchor": "#constitutional-constraint",
-      "line_start": 701,
-      "line_end": 774
+      "line_start": 751,
+      "line_end": 824
     },
     {
       "term": "Constitutional Contract Layer",
@@ -4328,8 +4321,8 @@
       "term": "Corpus",
       "file": "core_05_band_integrative.md",
       "anchor": "#corpus",
-      "line_start": 558,
-      "line_end": 600
+      "line_start": 608,
+      "line_end": 650
     },
     {
       "term": "Creative Work Attribution",
@@ -4377,8 +4370,8 @@
       "term": "Developing Sentient",
       "file": "core_05_band_participation.md",
       "anchor": "#developing-sentient-constitutional",
-      "line_start": 3341,
-      "line_end": 3377
+      "line_start": 3389,
+      "line_end": 3425
     },
     {
       "term": "Dignity and Equal Moral Standing",
@@ -4393,6 +4386,13 @@
       "anchor": "#distributed-understanding-constitutional",
       "line_start": 3632,
       "line_end": 3688
+    },
+    {
+      "term": "Documented Legitimacy Mechanism",
+      "file": "core_05_band_integrative.md",
+      "anchor": "#documented-legitimacy-mechanism",
+      "line_start": 201,
+      "line_end": 250
     },
     {
       "term": "Due Process",
@@ -4426,8 +4426,8 @@
       "term": "Educational Agency",
       "file": "core_05_band_participation.md",
       "anchor": "#educational-agency",
-      "line_start": 3175,
-      "line_end": 3235
+      "line_start": 3223,
+      "line_end": 3283
     },
     {
       "term": "Elevated Communicative Life",
@@ -4503,8 +4503,8 @@
       "term": "Expression",
       "file": "core_05_band_participation.md",
       "anchor": "#expression-constitutional",
-      "line_start": 3087,
-      "line_end": 3174
+      "line_start": 3088,
+      "line_end": 3175
     },
     {
       "term": "Fair Compensation",
@@ -4526,13 +4526,6 @@
       "anchor": "#feasibility",
       "line_start": 40,
       "line_end": 70
-    },
-    {
-      "term": "Flourishing",
-      "file": "core_05_apex_flourishing_aim.md",
-      "anchor": "#flourishing-constitutional",
-      "line_start": 29,
-      "line_end": 115
     },
     {
       "term": "Flourishing (principle layer)",
@@ -4643,8 +4636,8 @@
       "term": "Graduated Capability",
       "file": "core_05_band_participation.md",
       "anchor": "#graduated-capability-constitutional",
-      "line_start": 3426,
-      "line_end": 3472
+      "line_start": 3474,
+      "line_end": 3520
     },
     {
       "term": "Harassment and Bullying",
@@ -4652,6 +4645,13 @@
       "anchor": "#harassment-and-bullying",
       "line_start": 1981,
       "line_end": 2039
+    },
+    {
+      "term": "Hard Content",
+      "file": "core_05_band_participation.md",
+      "anchor": "#hard-content",
+      "line_start": 3176,
+      "line_end": 3222
     },
     {
       "term": "Harm",
@@ -4692,36 +4692,36 @@
       "term": "Incentive Alignment",
       "file": "core_05_band_integrative.md",
       "anchor": "#incentive-alignment",
-      "line_start": 311,
-      "line_end": 378
+      "line_start": 361,
+      "line_end": 428
     },
     {
       "term": "Incentive Alignment — baseline constitutional alignment",
       "file": "core_05_band_integrative.md",
       "anchor": "#incentive-alignment-baseline-constitutional-alignment",
-      "line_start": 379,
-      "line_end": 408
+      "line_start": 429,
+      "line_end": 458
     },
     {
       "term": "Incentive Alignment — contingent claims, games of chance, and event-contract markets",
       "file": "core_05_band_integrative.md",
       "anchor": "#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets",
-      "line_start": 443,
-      "line_end": 495
+      "line_start": 493,
+      "line_end": 545
     },
     {
       "term": "Incentive Alignment — strategic, scaled, and adversarial evaluation",
       "file": "core_05_band_integrative.md",
       "anchor": "#incentive-alignment-strategic-scaled-and-adversarial-evaluation",
-      "line_start": 409,
-      "line_end": 442
+      "line_start": 459,
+      "line_end": 492
     },
     {
       "term": "Incentive Alignment, Proxy Integrity, and Contingent Settlement",
       "file": "core_05_band_integrative.md",
       "anchor": "#incentive-alignment-proxy-integrity-and-contingent-settlement",
-      "line_start": 292,
-      "line_end": 495
+      "line_start": 342,
+      "line_end": 545
     },
     {
       "term": "Indigenous Continuity",
@@ -4748,8 +4748,8 @@
       "term": "Innovation Reward and Anti-Enclosure",
       "file": "core_05_band_integrative.md",
       "anchor": "#innovation-reward-and-anti-enclosure",
-      "line_start": 201,
-      "line_end": 291
+      "line_start": 251,
+      "line_end": 341
     },
     {
       "term": "Insider Advantage",
@@ -4990,13 +4990,6 @@
       "line_end": 2840
     },
     {
-      "term": "Oversight",
-      "file": "core_05_apex_oversight_leg.md",
-      "anchor": "#oversight-constitutional",
-      "line_start": 30,
-      "line_end": 118
-    },
-    {
       "term": "Parent-System Relationship",
       "file": "core_05_band_participation.md",
       "anchor": "#parent-system-relationship-constitutional",
@@ -5009,13 +5002,6 @@
       "anchor": "#participant-standing-constitutional",
       "line_start": 2496,
       "line_end": 2559
-    },
-    {
-      "term": "Participation",
-      "file": "core_05_apex_participation_leg.md",
-      "anchor": "#participation-constitutional",
-      "line_start": 29,
-      "line_end": 119
     },
     {
       "term": "Personhood",
@@ -5102,9 +5088,9 @@
       "line_end": 4028
     },
     {
-      "term": "Protected Intimate-Signal Gating and **Article XI-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention",
+      "term": "Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention",
       "file": "core_05_band_participation.md",
-      "anchor": "#protected-intimate-signal-gating-and-article-xi-c-status-circumvention",
+      "anchor": "#protected-intimate-signal-gating-and-article-vii-e-status-circumvention",
       "line_start": 1262,
       "line_end": 1353
     },
@@ -5266,8 +5252,8 @@
       "term": "Self-Determination",
       "file": "core_05_band_participation.md",
       "anchor": "#self-determination-constitutional",
-      "line_start": 3040,
-      "line_end": 3086
+      "line_start": 3041,
+      "line_end": 3087
     },
     {
       "term": "Self-Healing",
@@ -5529,13 +5515,6 @@
       "line_end": 2358
     },
     {
-      "term": "Timeliness",
-      "file": "core_05_apex_timeliness_leg.md",
-      "anchor": "#timeliness-constitutional",
-      "line_start": 29,
-      "line_end": 114
-    },
-    {
       "term": "Timely Resolution",
       "file": "core_05_band_accountability.md",
       "anchor": "#timely-resolution-constitutional",
@@ -5644,8 +5623,8 @@
       "term": "Volitional Integrity",
       "file": "core_05_band_participation.md",
       "anchor": "#volitional-integrity",
-      "line_start": 3236,
-      "line_end": 3293
+      "line_start": 3284,
+      "line_end": 3341
     },
     {
       "term": "Voluntary Discontinuation",

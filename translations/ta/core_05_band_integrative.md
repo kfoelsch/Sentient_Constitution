@@ -102,7 +102,7 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - கீழ்வழி: கோட்பாடுகள்: [முகவுரை §3.3 ஆட்சி அடுக்குக் கட்டுப்பாடு](core_00_preamble.md#33-governance-layers); [அத்தியாயம் ஒன்று §5 சுதந்திரம்](core_01_a_values_principles.md#5-freedom-bounded-agency).
-- உரிமையாளர் தளம்: [அத்தியாயம் பன்னிரண்டு: அரசியலமைப்பு ஒப்பந்தம், நியாயத்தன்மை, அங்கீகாரம், பொறுப்பான நிர்வாகம்](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); [சரத்து X-C: ஆட்சிப் பங்கேற்பும் வாக்குரிமையும்](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement).
+- உரிமையாளர் தளம்: [அத்தியாயம் பன்னிரண்டு: அரசியலமைப்பு ஒப்பந்தம், நியாயத்தன்மை, அங்கீகாரம், பொறுப்பான நிர்வாகம்](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); [சரத்து X-C: ஆட்சிப் பங்கேற்பும் வாக்குரிமையும்](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - தொகுதி உறுப்பு: [*அரசியலமைப்பு ஒப்பந்த அடுக்கும் அடிப்படை அரசியலமைப்புத் தேர்வும்*](core_05_band_integrative.md#constitutional-contract-layer)
 - இதனுடன் படிக்க: [அடிப்படை அரசியலமைப்புத் தேர்வு](core_05_band_integrative.md#foundational-constitutional-choice), [பிணைக்கும் பாதிக்கப்படுவோர் தேர்வு](core_05_band_participation.md#binding-stakeholder-choice-cluster), [பாதிக்கப்படுவோர் நிலையும் எடையும்](core_05_band_participation.md#stakeholder-status-and-weight-cluster), [ஆட்சி](core_05_band_accountability.md#governance).
 - அடுக்கு: **அரசியலமைப்பு ஒப்பந்த அடுக்கு (CCL)** — யார் ஆளலாம், எந்த நியாயத்தன்மை இயங்கமைப்பால், எந்த நீடித்த நிபந்தனைகளின் கீழ். **பாதிக்கப்படுவோரின் அமைப்புப் பங்கேற்பு (SSP)**-இலிருந்து வேறு.
@@ -123,7 +123,7 @@
     - [அடிப்படை அரசியலமைப்புத் தேர்வு](core_05_band_integrative.md#foundational-constitutional-choice);
     - [ஆவணப்படுத்தப்பட்ட நியாயத்தன்மை இயங்கமைப்புகள்](../../core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority) [அத்தியாயம் பன்னிரண்டு §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) கீழ்;
     - [ஏற்பு](../../core_16_amendment_ratification.md#10-ratification-and-adoption) மற்றும் [மீளங்கீகார](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) விதிகள் ([அத்தியாயம் பன்னிரண்டு §1.3](../../core_13_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails); [அத்தியாயம் பதினாறு §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)); மற்றும்
-    - ஆளும் அதிகாரத்தை அமைக்க அல்லது நீடித்த முறையில் மறுகட்டமைக்க [அரசியல் சமத்துவத் தளம்](../../core_13_governance.md#41-entitlement-and-eligibility) — உரிமையுள்ள உணர்வுள்ளோருக்கு அந்த அடுக்கில் சம குரல் உண்டு ([சரத்து X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement)).
+    - ஆளும் அதிகாரத்தை அமைக்க அல்லது நீடித்த முறையில் மறுகட்டமைக்க [அரசியல் சமத்துவத் தளம்](../../core_13_governance.md#41-entitlement-and-eligibility) — உரிமையுள்ள உணர்வுள்ளோருக்கு அந்த அடுக்கில் சம குரல் உண்டு ([சரத்து X-C](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)).
   - **எல்லைக்கு வெளியே:**
     - சாதாரண பாதிக்கப்படுவோர் ஆலோசனை;
     - இயக்கப் பங்கேற்பு;
@@ -131,7 +131,7 @@
     - அமைப்புகளும் செயல்முறைகளும் ஏற்கனவே அங்கீகரிக்கப்பட்ட பின் சாதாரண கள ஆட்சி; மற்றும்
     - சாதாரண [பாதிக்கப்படுவோர் எடை](core_05_band_participation.md#stakeholder-weight) — அதிகம் பாதிக்கப்படுவோருக்கு அதிக குரல் கொடுத்தல் — ஐ நிறுவன அல்லது மீளங்கீகார வாக்குகளை அமைக்கப் பயன்படுத்துதல் ([முகவுரை §3.3 ஆட்சி அடுக்குக் கட்டுப்பாடு](core_00_preamble.md#33-governance-layers)).
   - **செயல் இல்லம்:** [அத்தியாயம் பன்னிரண்டு](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) இந்த அடுக்கின் பிணைக்கும் அங்கீகாரம், நியாயத்தன்மை, பொறுப்பான நிர்வாக விதிகளைக் கூறுகிறது.
-  - **உரிமைத் தளம்:** [சரத்து X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement) (*ஆட்சிப் பங்கேற்பும் வாக்குரிமையும்*) அந்த அத்தியாயம் பன்னிரண்டு விதிகள் சுருக்கக்கூடாத சம பங்கேற்பு உரிமையைக் கூறுகிறது.
+  - **உரிமைத் தளம்:** [சரத்து X-C](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*ஆட்சிப் பங்கேற்பும் வாக்குரிமையும்*) அந்த அத்தியாயம் பன்னிரண்டு விதிகள் சுருக்கக்கூடாத சம பங்கேற்பு உரிமையைக் கூறுகிறது.
 <a id="constitutional-contract-layer-a"></a>
 - **எப்படி அளவிடவும் மதிப்பிடவும்**
   - **முதன்மை அளவு:** [பொறுப்புக்கூறல் அளவீட்டுக் குடும்பம்](core_05_apex_accountability_leg.md#accountability-measurement-family) — *வெகுமதி அமைப்புகள், சந்தை அதிகாரம், பதிலளிக்கும் தன்மை கடமைகளை உண்மையாக வைக்கின்றனவா?* இங்கே கேளுங்கள்: கூறப்பட்ட ஆளும் அதிகாரம் உண்மையான அரசியலமைப்பு ஒப்பந்தத்தின் மீது நிற்கிறதா — ஆவணப்படுத்தப்பட்ட நியாயத்தன்மை, சம நிறுவனக் குரல், இந்த அரசியலமைப்புடன் இணங்கியே இருக்கும் நீடித்த நிபந்தனைகள் — அளவு, புகழ், அல்லது சந்தை எட்டல் மட்டும் அல்ல.
@@ -158,7 +158,7 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - கீழ்வழி: கோட்பாடுகள்: [அத்தியாயம் ஒன்று §5 சுதந்திரம்](core_01_a_values_principles.md#5-freedom-bounded-agency); [6. செயல்முறை முரண்பாட்டுத் தீர்வு](#6-process-conflict-resolution).
-- உரிமையாளர் தளம்: [அத்தியாயம் பன்னிரண்டு அத்தியாயம் ஒன்று §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*அடிப்படை அரசியலமைப்புத் தேர்வுக்கான அரசியல் சமத்துவத் தளம்*; *நீடித்த அரசியல் குரல் தளம்*); [சரத்து X-C: ஆட்சிப் பங்கேற்பும் வாக்குரிமையும்](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement).
+- உரிமையாளர் தளம்: [அத்தியாயம் பன்னிரண்டு அத்தியாயம் ஒன்று §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*அடிப்படை அரசியலமைப்புத் தேர்வுக்கான அரசியல் சமத்துவத் தளம்*; *நீடித்த அரசியல் குரல் தளம்*); [சரத்து X-C: ஆட்சிப் பங்கேற்பும் வாக்குரிமையும்](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - தொகுதி உறுப்பு: [*அரசியலமைப்பு ஒப்பந்த அடுக்கும் அடிப்படை அரசியலமைப்புத் தேர்வும்*](core_05_band_integrative.md#constitutional-contract-layer)
 - இதனுடன் படிக்க: [அரசியலமைப்பு ஒப்பந்த அடுக்கு](core_05_band_integrative.md#constitutional-contract-layer), [பாதிக்கப்படுவோர் பிரதிநிதித்துவமும் எடை வரம்புகளும் (பிணைக்கும் பாதிக்கப்படுவோர் தேர்வு)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), [பிணைக்கும் பாதிக்கப்படுவோர் தேர்வு](core_05_band_participation.md#binding-stakeholder-choice-cluster), [நடைமுறை நியாயம்](core_05_band_participation.md#procedural-fairness-constitutional).
 - அடுக்கு: **அரசியலமைப்பு ஒப்பந்த அடுக்கு (CCL)**. ஏற்கனவே அங்கீகரிக்கப்பட்ட அமைப்புகளுக்குள் **பாதிக்கப்படுவோரின் அமைப்புப் பங்கேற்பு (SSP)**-இலிருந்து வேறு.
@@ -177,7 +177,7 @@
 
     இது [அரசியலமைப்பு ஒப்பந்த அடுக்கை](core_05_band_integrative.md#constitutional-contract-layer) சேர்ந்தது.
     - உரிமையாளர்: [அத்தியாயம் பன்னிரண்டு அத்தியாயம் ஒன்று §4.1](../../core_13_governance.md#41-entitlement-and-eligibility).
-    - உரிமை அடுக்குச் சுட்டி: [சரத்து X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement) (*ஆட்சிப் பங்கேற்பும் வாக்குரிமையும்*).
+    - உரிமை அடுக்குச் சுட்டி: [சரத்து X-C](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*ஆட்சிப் பங்கேற்பும் வாக்குரிமையும்*).
     - [உணர்வுள்ள நிலை விலக்கமின்மையின்](core_05_band_participation.md#sentience-non-exclusion) கீழ் பொருந்தும்.
   - **எல்லைக்கு வெளியே:**
     - ஒரு களத்துக்கு ஏற்கனவே அங்கீகரிக்கப்பட்ட ஆளும் அமைப்புகளும் செயல்முறைகளும் இருக்கும் பின் சாதாரண தாக்க-எடை பாதிக்கப்படுவோர் முடிவுகள் — பாதிக்கப்படும் உணர்வுள்ளோர் [பாதிக்கப்படுவோர்](core_05_band_participation.md#stakeholder) அடையாளம் மற்றும் [பாதிக்கப்படுவோர் எடை](core_05_band_participation.md#stakeholder-weight) வழியாக எவ்வளவு பாதிக்கப்படுகிறார்கள் என்பதற்கு அளவிடப்பட்ட குரலைப் பெறுகிறார்கள் (**சரத்து XII** (*பாதிக்கப்படுவோரின் அமைப்புப் பங்கேற்பு, பிரதிநிதித்துவம், முறையான நடைமுறை*) கட்டுப்பாடுகள் உட்பட), சம-எடை நிறுவன எண்ணிக்கை விதிகள் வழியாக அல்ல; மற்றும்

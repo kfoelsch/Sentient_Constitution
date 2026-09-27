@@ -184,7 +184,7 @@
     - উৎস সুরক্ষা;
     - তদন্ত; এবং
     - প্রকাশনা।
-    Sentients doing that work exercise the [মতপ্রকাশ](core_05_band_participation.md#expression-constitutional) and [সমাবেশ](core_05_band_participation.md#assembly-constitutional) অধিকার-তল, with heightened-scrutiny protection under [অনুচ্ছেদ V-H](../../core_06_rights_part_b.md#article-x-g-expression-assembly-and-press) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
+    Sentients doing that work exercise the [মতপ্রকাশ](core_05_band_participation.md#expression-constitutional) and [সমাবেশ](core_05_band_participation.md#assembly-constitutional) অধিকার-তল, with heightened-scrutiny protection under [অনুচ্ছেদ V-H](../../core_06_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
   - **পরিসরের বাইরে:** press credentials, institutional titles, or ordinary commercial speech that is not newsgathering, investigation, or publication functioning as journalism.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **কীভাবে পরিমাপ ও মূল্যায়ন করতে হয়**

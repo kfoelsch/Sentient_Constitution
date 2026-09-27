@@ -102,7 +102,7 @@
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Назначение: Принципы: [Преамбула §3.3 дисциплина слоёв управления](core_00_preamble.md#33-governance-layers); [Глава первая §5 Свобода](core_01_a_values_principles.md#5-freedom-bounded-agency).
-- Пол владельца: [Глава двенадцатая: Конституционный договор, легитимность, уполномочивание и ответственное управление](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); [Статья X-C: Участие в управлении и право голоса](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement).
+- Пол владельца: [Глава двенадцатая: Конституционный договор, легитимность, уполномочивание и ответственное управление](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); [Статья X-C: Участие в управлении и право голоса](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - Компонент кластера: [*Слой конституционного договора и Основополагающий конституционный выбор*](core_05_band_integrative.md#constitutional-contract-layer)
 - Читать вместе с: [Основополагающий конституционный выбор](core_05_band_integrative.md#foundational-constitutional-choice), [Связывающий выбор затрагиваемых сторон](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Статус и вес затрагиваемых сторон](core_05_band_participation.md#stakeholder-status-and-weight-cluster), [Управление](core_05_band_accountability.md#governance).
 - Слой: **Слой конституционного договора (CCL)** — кто может управлять, каким механизмом легитимности, на каких длительных условиях. Отличен от **Системного участия затрагиваемых сторон (SSP)**.
@@ -123,7 +123,7 @@
     - [Основополагающий конституционный выбор](core_05_band_integrative.md#foundational-constitutional-choice);
     - [документированные механизмы легитимности](../../core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority) под [Главой двенадцатой §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism);
     - правила [принятия](../../core_16_amendment_ratification.md#10-ratification-and-adoption) и [повторного уполномочивания](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) ([Глава двенадцатая §1.3](../../core_13_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails); [Глава шестнадцатая §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)); и
-    - [пол политического равенства](../../core_13_governance.md#41-entitlement-and-eligibility) для учреждения или длительной перестройки управляющей власти — управомоченные сентенты имеют равный голос на этом слое ([Статья X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement)).
+    - [пол политического равенства](../../core_13_governance.md#41-entitlement-and-eligibility) для учреждения или длительной перестройки управляющей власти — управомоченные сентенты имеют равный голос на этом слое ([Статья X-C](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)).
   - **Вне охвата:**
     - обычная консультация затрагиваемых сторон;
     - операционное участие;
@@ -131,7 +131,7 @@
     - обычное управление доменом после того, как структуры и процессы уже уполномочены; и
     - обычный [Вес затрагиваемой стороны](core_05_band_participation.md#stakeholder-weight) — давать больше голоса тем, кто больше затронут — используемый, чтобы фиксировать голоса основания или повторного уполномочивания ([Преамбула §3.3 дисциплина слоёв управления](core_00_preamble.md#33-governance-layers)).
   - **Операционный дом:** [Глава двенадцатая](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) излагает связывающие правила уполномочивания, легитимности и ответственного управления этого слоя.
-  - **Пол прав:** [Статья X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement) (*Участие в управлении и право голоса*) излагает право равного участия, которое эти правила Главы двенадцатой не должны сужать.
+  - **Пол прав:** [Статья X-C](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Участие в управлении и право голоса*) излагает право равного участия, которое эти правила Главы двенадцатой не должны сужать.
 <a id="constitutional-contract-layer-a"></a>
 - **Как измерять и оценивать**
   - **Первичная мера:** [Семья измерений Подотчётности](core_05_apex_accountability_leg.md#accountability-measurement-family) — *Держат ли структуры вознаграждения, рыночная власть и отвечаемость обязанности реальными?* Используйте её здесь, чтобы спросить, покоится ли заявленная власть управления на настоящем Конституционном договоре — документированная легитимность, равный основополагающий голос и длительные условия, которые остаются согласованными с этой Конституцией — не только размер, популярность или рыночный охват.
@@ -158,7 +158,7 @@
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Назначение: Принципы: [Глава первая §5 Свобода](core_01_a_values_principles.md#5-freedom-bounded-agency); [6. Разрешение процессуальных конфликтов](#6-process-conflict-resolution).
-- Пол владельца: [Глава двенадцатая Глава первая §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*Пол политического равенства для основополагающего конституционного выбора*; *Длительный пол политического голоса*); [Статья X-C: Участие в управлении и право голоса](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement).
+- Пол владельца: [Глава двенадцатая Глава первая §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*Пол политического равенства для основополагающего конституционного выбора*; *Длительный пол политического голоса*); [Статья X-C: Участие в управлении и право голоса](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - Компонент кластера: [*Слой конституционного договора и Основополагающий конституционный выбор*](core_05_band_integrative.md#constitutional-contract-layer)
 - Читать вместе с: [Слой конституционного договора](core_05_band_integrative.md#constitutional-contract-layer), [Пределы представительства и веса затрагиваемых сторон (связывающий выбор затрагиваемых сторон)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), [Связывающий выбор затрагиваемых сторон](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Процедурная справедливость](core_05_band_participation.md#procedural-fairness-constitutional).
 - Слой: **Слой конституционного договора (CCL)**. Отличен от **Системного участия затрагиваемых сторон (SSP)** внутри уже уполномоченных систем.
@@ -177,7 +177,7 @@
 
     Это принадлежит [Слою конституционного договора](core_05_band_integrative.md#constitutional-contract-layer).
     - Владелец: [Глава двенадцатая Глава первая §4.1](../../core_13_governance.md#41-entitlement-and-eligibility).
-    - Указатель слоя прав: [Статья X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement) (*Участие в управлении и право голоса*).
+    - Указатель слоя прав: [Статья X-C](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Участие в управлении и право голоса*).
     - Применяется под [Неисключением сентентности](core_05_band_participation.md#sentience-non-exclusion).
   - **Вне охвата:**
     - обычные решения затрагиваемых сторон, взвешенные по воздействию, после того как домен уже имеет уполномоченные структуры и процессы управления — затронутые сентенты получают голос, масштабированный к тому, насколько они затронуты, через идентификацию [Затрагиваемой стороны](core_05_band_participation.md#stakeholder) и [Вес затрагиваемой стороны](core_05_band_participation.md#stakeholder-weight) (включая ограничения **Статьи XII** (*Системное участие затрагиваемых сторон, представительство и Надлежащая процедура*)), не через правила основополагающего подсчёта равного веса; и

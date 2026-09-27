@@ -185,7 +185,7 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
     - kaynak koruma;
     - soruşturma; ve
     - yayımlama.
-    O işi yapan algılayanlar [İfade](core_05_band_participation.md#expression-constitutional) and [Toplanma](core_05_band_participation.md#assembly-constitutional) Hak Tabanı, şunun altında yükseltilmiş-inceleme korumasıyla [Madde V-H](../../core_06_rights_part_b.md#article-x-g-expression-assembly-and-press) (*Expression, Assembly, ve Press*) o etkinliği zayıflatmaya yönelik devlet ve işleç eylemlerine karşı.
+    O işi yapan algılayanlar [İfade](core_05_band_participation.md#expression-constitutional) and [Toplanma](core_05_band_participation.md#assembly-constitutional) Hak Tabanı, şunun altında yükseltilmiş-inceleme korumasıyla [Madde V-H](../../core_06_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, ve Press*) o etkinliği zayıflatmaya yönelik devlet ve işleç eylemlerine karşı.
   - **Kapsam dışında:** haber toplama, soruşturma ya da gazetecilik olarak işleyen yayımlama olmayan basın belgeleri, kurumsal unvanlar ya da sıradan ticari konuşma.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **Nasıl ölçülür ve değerlendirilir**

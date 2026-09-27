@@ -381,7 +381,7 @@ Operational transparency and structured logging requirements
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
 - Read with: **`corpus_systems.md` CS-2 — Information types and handling** (**Type O**, **Type G**, access-posture bands, and [Part A §5.3](../corpus_systems/cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access) / [§7](../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems))
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
-- Chapter One basis: §8.2, §11.2, §11.4, §12.1, §8 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §8.2, §11.2, §11, §12.1, §8 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>

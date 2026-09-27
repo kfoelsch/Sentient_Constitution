@@ -25,10 +25,10 @@
 *In plain terms: move problems through detection, challenge, resolution, and repair in time — published clocks that leave harm compounding are not timeliness.*
 
 <a id="timeliness-constitutional"></a>
+<a id="timeliness"></a>
 
-#### Timeliness
-
-- O: Move problems through detection, challenge, resolution, and repair in time — the Tetrad leg this entry names.
+- **What it is**
+  - Move problems through detection, challenge, resolution, and repair in time — the Tetrad leg this entry names.
   - **In scope:** Principle-layer responsiveness duty scaling with [material stake](core_00_preamble.md#material-stake) across:
     - detection;
     - contestability;
@@ -43,20 +43,22 @@
     - [Avoidable Burden](core_05_band_continuity.md#avoidable-burden).
   - **Out of scope:** leaf-definition details, measurement tiers, and implementation mechanics owned by [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional), sibling leaves, and CJS.
 <a id="timeliness-constitutional-m"></a>
-- M: Are problems actually moving in time? This line only names what to look at; the rules for how to measure live on each linked definition. Topic map: [Tetrad Leg decomposition](#timeliness-tetrad-leg-decomposition).
 <a id="timeliness-constitutional-a"></a>
-- A:
-  - Judge under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake).
-  - Ask whether timeliness is real — rights-preserving velocity, not raw throughput — not just ceremony.
-  - Timeliness cross-cuts participation, oversight, and accountability but may be hollowed independently where formal structures exist but material problems do not move.
+- **How to measure and assess**
+  - **Primary measure:** Are problems actually moving in time? This line only names what to look at; the rules for how to measure live on each linked definition. Topic map: [Tetrad Leg decomposition](#timeliness-tetrad-leg-decomposition).
+  - **Primary assessment:**
+    - Judge under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake).
+    - Ask whether timeliness is real — rights-preserving velocity, not raw throughput — not just ceremony.
+    - Timeliness cross-cuts participation, oversight, and accountability but may be hollowed independently where formal structures exist but material problems do not move.
 <a id="timeliness-constitutional-c"></a>
-- C: Non-compliant when:
-  - ceremony, published SLAs, or throughput metrics that leave detection, challenge, resolution, or repair materially stalled;
-  - designed backlog;
-  - self-created delay;
-  - indefinite pendency;
-  - deferred repair after notice where correction was feasible; or
-  - efficiency claims that skip verification, individualized attribution, or appeal rights.
+- **What must hold**
+  - **Primary failure:** Non-compliant when:
+    - ceremony, published SLAs, or throughput metrics that leave detection, challenge, resolution, or repair materially stalled;
+    - designed backlog;
+    - self-created delay;
+    - indefinite pendency;
+    - deferred repair after notice where correction was feasible; or
+    - efficiency claims that skip verification, individualized attribution, or appeal rights.
 
 ---
 

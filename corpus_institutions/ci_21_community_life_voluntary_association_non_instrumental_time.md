@@ -50,7 +50,7 @@ This file is the institutional implementation home for **CI-21** (*Community lif
 
 *Shared rules live elsewhere.*
 - [**CJS-3.7**](../corpus_joint_structure/cjs_03p_participation_operations.md) (*quorum and participatory legitimacy terms*) — **Community and associational pathway integrity**.
-- **Article X-G** (*Expression, Assembly, and Press*); **Article XI-A** (*Non-Imposition and Consent in Association*).
+- **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*); **Article XI-F** (*Non-Imposition and Consent in Association*).
 - Chapter Five [Assembly](../core_05_band_participation.md#assembly-constitutional); [Collective Organization](../core_05_band_participation.md#collective-organization-constitutional); [Non-Imposition (Cooperative Interaction)](../core_05_band_participation.md#non-imposition-cooperative-interaction).
 - This file does not repeat those floors.
 

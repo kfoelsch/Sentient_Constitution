@@ -102,7 +102,7 @@
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
 - ปลายทาง: หลักการ: [คำปรารภ §3.3 วินัยชั้นการปกครอง](core_00_preamble.md#33-governance-layers); [บทที่หนึ่ง §5 เสรีภาพ](core_01_a_values_principles.md#5-freedom-bounded-agency)
-- พื้นเจ้าของ: [บทที่สิบสอง: สัญญาทางรัฐธรรมนูญ ความชอบธรรม การให้อำนาจ และการบริหารอย่างรับผิดชอบ](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); [มาตรา X-C: การมีส่วนร่วมในการปกครองและสิทธิออกเสียง](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement)
+- พื้นเจ้าของ: [บทที่สิบสอง: สัญญาทางรัฐธรรมนูญ ความชอบธรรม การให้อำนาจ และการบริหารอย่างรับผิดชอบ](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); [มาตรา X-C: การมีส่วนร่วมในการปกครองและสิทธิออกเสียง](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)
 - องค์ประกอบกลุ่ม: [*ชั้นสัญญาทางรัฐธรรมนูญและการเลือกพื้นฐานทางรัฐธรรมนูญ*](core_05_band_integrative.md#constitutional-contract-layer)
 - อ่านคู่กับ: [การเลือกพื้นฐานทางรัฐธรรมนูญ](core_05_band_integrative.md#foundational-constitutional-choice) [การเลือกที่มีผลผูกพันของฝ่ายที่ได้รับผลกระทบ](core_05_band_participation.md#binding-stakeholder-choice-cluster) [สถานะและน้ำหนักของฝ่ายที่ได้รับผลกระทบ](core_05_band_participation.md#stakeholder-status-and-weight-cluster) [การปกครอง](core_05_band_accountability.md#governance)
 - ชั้น: **ชั้นสัญญาทางรัฐธรรมนูญ (CCL)** — ใครอาจปกครองได้ ด้วยกลไกความชอบธรรมใด ภายใต้ข้อที่ยืนยาวใด ต่างจาก **การมีส่วนร่วมในระบบของฝ่ายที่ได้รับผลกระทบ (SSP)**
@@ -123,7 +123,7 @@
     - [การเลือกพื้นฐานทางรัฐธรรมนูญ](core_05_band_integrative.md#foundational-constitutional-choice);
     - [กลไกความชอบธรรมที่มีเอกสาร](../../core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority) ภายใต้ [บทที่สิบสอง §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism);
     - กฎ [การรับเป็นของตน](../../core_16_amendment_ratification.md#10-ratification-and-adoption) และ [การให้อำนาจใหม่](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) ([บทที่สิบสอง §1.3](../../core_13_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails); [บทที่สิบหก §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)); และ
-    - [พื้นความเสมอภาคทางการเมือง](../../core_13_governance.md#41-entitlement-and-eligibility) สำหรับการก่อตั้งหรือปรับโครงสร้างอำนาจปกครองอย่างยืนยาว — ผู้มีความรู้สึกที่มีสิทธิมีเสียงเท่ากันที่ชั้นนั้น ([มาตรา X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement))
+    - [พื้นความเสมอภาคทางการเมือง](../../core_13_governance.md#41-entitlement-and-eligibility) สำหรับการก่อตั้งหรือปรับโครงสร้างอำนาจปกครองอย่างยืนยาว — ผู้มีความรู้สึกที่มีสิทธิมีเสียงเท่ากันที่ชั้นนั้น ([มาตรา X-C](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement))
   - **นอกขอบเขต:**
     - การปรึกษาธรรมดาของฝ่ายที่ได้รับผลกระทบ;
     - การมีส่วนร่วมในการดำเนินงาน;
@@ -131,7 +131,7 @@
     - การปกครองโดเมนธรรมดาหลังจากโครงสร้างและกระบวนการได้รับอำนาจแล้ว; และ
     - [น้ำหนักของฝ่ายที่ได้รับผลกระทบ](core_05_band_participation.md#stakeholder-weight) ธรรมดา — การให้เสียงมากกว่าแก่ผู้ที่ได้รับผลกระทบมากกว่า — ที่ถูกใช้กำหนดคะแนนเสียงก่อตั้งหรือให้อำนาจใหม่ ([คำปรารภ §3.3 วินัยชั้นการปกครอง](core_00_preamble.md#33-governance-layers))
   - **บ้านที่ใช้บังคับ:** [บทที่สิบสอง](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) กล่าวกฎการให้อำนาจ ความชอบธรรม และการบริหารอย่างรับผิดชอบที่มีผลผูกพันของชั้นนี้
-  - **พื้นสิทธิ:** [มาตรา X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement) (*การมีส่วนร่วมในการปกครองและสิทธิออกเสียง*) กล่าวสิทธิการมีส่วนร่วมที่เท่ากันซึ่งกฎบทที่สิบสองเหล่านั้นต้องไม่ทำให้แคบลง
+  - **พื้นสิทธิ:** [มาตรา X-C](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*การมีส่วนร่วมในการปกครองและสิทธิออกเสียง*) กล่าวสิทธิการมีส่วนร่วมที่เท่ากันซึ่งกฎบทที่สิบสองเหล่านั้นต้องไม่ทำให้แคบลง
 <a id="constitutional-contract-layer-a"></a>
 - **วิธีวัดและประเมิน**
   - **การวัดหลัก:** [ตระกูลการวัดความรับผิดชอบ](core_05_apex_accountability_leg.md#accountability-measurement-family) — *โครงสร้างรางวัล อำนาจตลาด และการต้องตอบคำถามทำให้หน้าที่ยังจริงอยู่หรือไม่* ใช้ที่นี่เพื่อถามว่าอำนาจปกครองที่อ้างพักบนสัญญาทางรัฐธรรมนูญจริงหรือไม่ — ความชอบธรรมที่มีเอกสาร เสียงก่อตั้งที่เท่ากัน และข้อที่ยืนยาวซึ่งยังสอดคล้องกับรัฐธรรมนูญนี้ — ไม่ใช่ขนาด ความนิยม หรือการเข้าถึงตลาดอย่างเดียว
@@ -158,7 +158,7 @@
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
 - ปลายทาง: หลักการ: [บทที่หนึ่ง §5 เสรีภาพ](core_01_a_values_principles.md#5-freedom-bounded-agency); [6. การยุติความขัดแย้งของกระบวนการ](#6-process-conflict-resolution)
-- พื้นเจ้าของ: [บทที่สิบสอง บทที่หนึ่ง §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*พื้นความเสมอภาคทางการเมืองสำหรับการเลือกพื้นฐานทางรัฐธรรมนูญ*; *พื้นเสียงทางการเมืองที่ยืนยาว*); [มาตรา X-C: การมีส่วนร่วมในการปกครองและสิทธิออกเสียง](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement)
+- พื้นเจ้าของ: [บทที่สิบสอง บทที่หนึ่ง §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*พื้นความเสมอภาคทางการเมืองสำหรับการเลือกพื้นฐานทางรัฐธรรมนูญ*; *พื้นเสียงทางการเมืองที่ยืนยาว*); [มาตรา X-C: การมีส่วนร่วมในการปกครองและสิทธิออกเสียง](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)
 - องค์ประกอบกลุ่ม: [*ชั้นสัญญาทางรัฐธรรมนูญและการเลือกพื้นฐานทางรัฐธรรมนูญ*](core_05_band_integrative.md#constitutional-contract-layer)
 - อ่านคู่กับ: [ชั้นสัญญาทางรัฐธรรมนูญ](core_05_band_integrative.md#constitutional-contract-layer) [ขีดจำกัดการเป็นตัวแทนและน้ำหนักของฝ่ายที่ได้รับผลกระทบ (การเลือกที่มีผลผูกพันของฝ่ายที่ได้รับผลกระทบ)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) [การเลือกที่มีผลผูกพันของฝ่ายที่ได้รับผลกระทบ](core_05_band_participation.md#binding-stakeholder-choice-cluster) [ความเป็นธรรมเชิงวิธีดำเนินการ](core_05_band_participation.md#procedural-fairness-constitutional)
 - ชั้น: **ชั้นสัญญาทางรัฐธรรมนูญ (CCL)** ต่างจาก **การมีส่วนร่วมในระบบของฝ่ายที่ได้รับผลกระทบ (SSP)** ภายในระบบที่ได้รับอำนาจแล้ว
@@ -177,7 +177,7 @@
 
     นี่เป็นของ [ชั้นสัญญาทางรัฐธรรมนูญ](core_05_band_integrative.md#constitutional-contract-layer)
     - เจ้าของ: [บทที่สิบสอง บทที่หนึ่ง §4.1](../../core_13_governance.md#41-entitlement-and-eligibility)
-    - ตัวชี้ชั้นสิทธิ: [มาตรา X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement) (*การมีส่วนร่วมในการปกครองและสิทธิออกเสียง*)
+    - ตัวชี้ชั้นสิทธิ: [มาตรา X-C](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*การมีส่วนร่วมในการปกครองและสิทธิออกเสียง*)
     - ใช้บังคับภายใต้ [การไม่กีดกันความเป็นผู้มีความรู้สึก](core_05_band_participation.md#sentience-non-exclusion)
   - **นอกขอบเขต:**
     - การตัดสินใจธรรมดาของฝ่ายที่ได้รับผลกระทบที่ให้น้ำหนักตามผลกระทบเมื่อโดเมนมีโครงสร้างและกระบวนการปกครองที่ได้รับอำนาจแล้ว — ผู้มีความรู้สึกที่ได้รับผลกระทบได้เสียงที่ปรับตามว่าได้รับผลกระทบเพียงใด ผ่านการระบุ [ฝ่ายที่ได้รับผลกระทบ](core_05_band_participation.md#stakeholder) และ [น้ำหนักของฝ่ายที่ได้รับผลกระทบ](core_05_band_participation.md#stakeholder-weight) (รวมข้อจำกัดของ **มาตรา XII** (*การมีส่วนร่วมในระบบของฝ่ายที่ได้รับผลกระทบ การเป็นตัวแทน และกระบวนการที่ชอบธรรม*)) ไม่ใช่ผ่านกฎนับคะแนนพื้นฐานน้ำหนักเท่า; และ

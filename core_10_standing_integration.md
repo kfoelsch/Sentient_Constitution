@@ -517,7 +517,7 @@ These locks are mandatory when their verified trigger is met. Each must be recor
 - **Reassessment point:**
   - The published restoration or reinstatement finding above is the checkpoint for any narrowing or lifting.
   - Under [§5.1 Definition and attachment](#51-definition-and-attachment), keep the sentient isolated from proxy networks, successor entities, and settings shared with coordinated violators while the risk remains live.
-- **Read with:** [Chapter Eleven §4.2](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prevention — anti-constitutional locks*) for ACM-specific liberty-restriction and imprisonment specialization after final designation; this subsection remains the operative Trust Lock text.
+- **Read with:** [Chapter Eleven §4.2](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prevention — anti-constitutional locks*) for the extra rules on restricting liberty or imprisonment that apply only after a final anti-constitutional misconduct designation. The Trust Lock rules themselves stay in this subsection.
 
 <a id="6-contribution-consequences-second"></a>
 ### 6. Contribution consequences second

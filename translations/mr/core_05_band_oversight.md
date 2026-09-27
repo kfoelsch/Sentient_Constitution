@@ -185,7 +185,7 @@
     - स्रोत संरक्षण;
     - तपास; आणि
     - प्रकाशन.
-    ते काम करणारे संज्ञ प्राणी [अभिव्यक्ती](core_05_band_participation.md#expression-constitutional) and [सभा](core_05_band_participation.md#assembly-constitutional) अधिकार-तळ, याच्याखाली उच्च-परीक्षण संरक्षणासह [अनुच्छेद V-H](../../core_06_rights_part_b.md#article-x-g-expression-assembly-and-press) (*Expression, Assembly, आणि Press*) ती क्रियाकलाप खराब करण्याच्या राज्य आणि संचालक कृतींविरुद्ध.
+    ते काम करणारे संज्ञ प्राणी [अभिव्यक्ती](core_05_band_participation.md#expression-constitutional) and [सभा](core_05_band_participation.md#assembly-constitutional) अधिकार-तळ, याच्याखाली उच्च-परीक्षण संरक्षणासह [अनुच्छेद V-H](../../core_06_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, आणि Press*) ती क्रियाकलाप खराब करण्याच्या राज्य आणि संचालक कृतींविरुद्ध.
   - **व्याप्तीबाहेर:** बातमी संकलन, तपास, किंवा पत्रकारिता म्हणून कार्य करणारे प्रकाशन नसलेली प्रेस प्रमाणपत्रे, संस्थात्मक पदव्या, किंवा सामान्य व्यावसायिक भाषण.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **कसे मापावे आणि मूल्यमापन करावे**

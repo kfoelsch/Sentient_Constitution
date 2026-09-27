@@ -102,7 +102,7 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: Princípios: [Preâmbulo §3.3 disciplina das camadas de governança](core_00_preamble.md#33-governance-layers); [Capítulo Um §5 Liberdade](core_01_a_values_principles.md#5-freedom-bounded-agency).
-- Piso titular: [Capítulo Doze: Contrato constitucional, legitimidade, autorização e administração responsável](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); [Artigo X-C: Participação na governança e titularidade de voto](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement).
+- Piso titular: [Capítulo Doze: Contrato constitucional, legitimidade, autorização e administração responsável](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); [Artigo X-C: Participação na governança e titularidade de voto](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - Componente de aglomerado: [*Camada do Contrato Constitucional e Escolha constitucional fundacional*](core_05_band_integrative.md#constitutional-contract-layer)
 - Ler com: [Escolha constitucional fundacional](core_05_band_integrative.md#foundational-constitutional-choice), [Escolha vinculante das partes afetadas](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Status e peso das partes afetadas](core_05_band_participation.md#stakeholder-status-and-weight-cluster), [Governança](core_05_band_accountability.md#governance).
 - Camada: **Camada do Contrato Constitucional (CCL)** — quem pode governar, por qual mecanismo de legitimidade, sob quais termos duráveis. Distinta da **Participação Sistêmica das Partes Afetadas (SSP)**.
@@ -123,7 +123,7 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
     - [Escolha constitucional fundacional](core_05_band_integrative.md#foundational-constitutional-choice);
     - [mecanismos de legitimidade documentados](../../core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority) sob o [Capítulo Doze §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism);
     - regras de [adoção](../../core_16_amendment_ratification.md#10-ratification-and-adoption) e [reautorização](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) ([Capítulo Doze §1.3](../../core_13_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails); [Capítulo Dezesseis §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)); e
-    - o [piso de igualdade política](../../core_13_governance.md#41-entitlement-and-eligibility) para constituir ou reestruturar de forma durável a autoridade de governo — os sencientes com titularidade têm voz igual nessa camada ([Artigo X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement)).
+    - o [piso de igualdade política](../../core_13_governance.md#41-entitlement-and-eligibility) para constituir ou reestruturar de forma durável a autoridade de governo — os sencientes com titularidade têm voz igual nessa camada ([Artigo X-C](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)).
   - **Fora do âmbito:**
     - a consulta ordinária das partes afetadas;
     - a participação operativa;
@@ -131,7 +131,7 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
     - a governança ordinária de domínio depois que as estruturas e os processos já estão autorizados; e
     - o [Peso das partes afetadas](core_05_band_participation.md#stakeholder-weight) ordinário — dar mais voz a quem está mais afetado — usado para fixar votos de fundação ou de reautorização ([Preâmbulo §3.3 disciplina das camadas de governança](core_00_preamble.md#33-governance-layers)).
   - **Lar operativo:** o [Capítulo Doze](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) enuncia as regras vinculantes de autorização, legitimidade e administração responsável desta camada.
-  - **Piso de Direitos:** o [Artigo X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement) (*Participação na governança e titularidade de voto*) enuncia a titularidade de participação igual que essas regras do Capítulo Doze não devem estreitar.
+  - **Piso de Direitos:** o [Artigo X-C](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Participação na governança e titularidade de voto*) enuncia a titularidade de participação igual que essas regras do Capítulo Doze não devem estreitar.
 <a id="constitutional-contract-layer-a"></a>
 - **Como medir e avaliar**
   - **Medida primária:** [Família de medição Prestação de contas](core_05_apex_accountability_leg.md#accountability-measurement-family) — *As estruturas de recompensa, o poder de mercado e a exigibilidade mantêm os deveres reais?* Use-a aqui para perguntar se o poder de governo pretendido descansa em um Contrato Constitucional real — legitimidade documentada, voz fundacional igual e termos duráveis que continuam alinhados com esta Constituição — não só tamanho, popularidade ou alcance de mercado.
@@ -158,7 +158,7 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: Princípios: [Capítulo Um §5 Liberdade](core_01_a_values_principles.md#5-freedom-bounded-agency); [6. Resolução de conflitos de processo](#6-process-conflict-resolution).
-- Piso titular: [Capítulo Doze Capítulo Um §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*Piso de igualdade política para a escolha constitucional fundacional*; *Piso durável de voz política*); [Artigo X-C: Participação na governança e titularidade de voto](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement).
+- Piso titular: [Capítulo Doze Capítulo Um §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*Piso de igualdade política para a escolha constitucional fundacional*; *Piso durável de voz política*); [Artigo X-C: Participação na governança e titularidade de voto](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - Componente de aglomerado: [*Camada do Contrato Constitucional e Escolha constitucional fundacional*](core_05_band_integrative.md#constitutional-contract-layer)
 - Ler com: [Camada do Contrato Constitucional](core_05_band_integrative.md#constitutional-contract-layer), [Limites de representação e peso das partes afetadas (escolha vinculante das partes afetadas)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), [Escolha vinculante das partes afetadas](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Equidade procedimental](core_05_band_participation.md#procedural-fairness-constitutional).
 - Camada: **Camada do Contrato Constitucional (CCL)**. Distinta da **Participação Sistêmica das Partes Afetadas (SSP)** dentro de sistemas já autorizados.
@@ -177,7 +177,7 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
 
     Isto pertence à [Camada do Contrato Constitucional](core_05_band_integrative.md#constitutional-contract-layer).
     - Titular: [Capítulo Doze Capítulo Um §4.1](../../core_13_governance.md#41-entitlement-and-eligibility).
-    - Ponteiro de camada de direitos: [Artigo X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement) (*Participação na governança e titularidade de voto*).
+    - Ponteiro de camada de direitos: [Artigo X-C](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Participação na governança e titularidade de voto*).
     - Aplica-se sob [Não exclusão da senciência](core_05_band_participation.md#sentience-non-exclusion).
   - **Fora do âmbito:**
     - as decisões ordinárias de partes afetadas ponderadas por impacto uma vez que um domínio já tem estruturas e processos de governo autorizados — os sencientes afetados obtêm uma voz escalada a quanto estão afetados através da identificação de [Parte afetada](core_05_band_participation.md#stakeholder) e do [Peso das partes afetadas](core_05_band_participation.md#stakeholder-weight) (inclusive as restrições do **Artigo XII** (*Participação Sistêmica das Partes Afetadas, representação e Devido Processo*)), não através de regras de contagem fundacional de peso igual; e

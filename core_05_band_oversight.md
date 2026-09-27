@@ -163,7 +163,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 
 - Upstream: Principles: [Chapter One §6.1.3 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality) (*heightened thresholds*).
 - Read with: [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Contestability](core_05_band_accountability.md#contestability), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), and [Materiality Under Uncertainty](core_05_band_oversight.md#materiality-under-uncertainty).
-- Downstream: [Article I-D](core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*); [Article X-G](core_06_rights_part_b.md#article-x-g-expression-assembly-and-press) (*Expression, Assembly, and Press*); [Article XIV-C](core_06_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*); [Chapter Eleven §3](core_11_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 anti-constitutional designation*); [Chapter Sixteen §1](core_16_amendment_ratification.md#1-heightened-review-for-rights-affecting-changes) (*Heightened Review for Rights-Affecting Changes*).
+- Downstream: [Article I-D](core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*); [Article XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*Expression*); [Article XIV-C](core_06_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*); [Chapter Eleven §3](core_11_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 anti-constitutional designation*); [Chapter Sixteen §1](core_16_amendment_ratification.md#1-heightened-review-for-rights-affecting-changes) (*Heightened Review for Rights-Affecting Changes*).
 
 </details>
 
@@ -178,7 +178,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
     - review is independent of the actor and the decision is published with its reasons, open to challenge under [Contestability](core_05_band_accountability.md#contestability); and
     - the record states uncertainty, assumptions, evidence limits, and disagreement openly.
     <a id="highest-scrutiny"></a>
-  - **In scope — highest scrutiny:** The strictest tier of the same standard. It applies only where a provision expressly names it — including credible causal pathways to existential risk or irreversible loss of ecological recovery capacity under [Article I-D](core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*), content-based restriction of expression under [Article X-G](core_06_rights_part_b.md#article-x-g-expression-assembly-and-press) (*Expression, Assembly, and Press*) and final anti-constitutional misconduct designation under [Chapter Eleven §3](core_11_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 anti-constitutional designation*). On top of everything heightened scrutiny requires:
+  - **In scope — highest scrutiny:** The strictest tier of the same standard. It applies only where a provision expressly names it — including credible causal pathways to existential risk or irreversible loss of ecological recovery capacity under [Article I-D](core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*), content-based restriction of expression under [Article XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*Expression*) and final anti-constitutional misconduct designation under [Chapter Eleven §3](core_11_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 anti-constitutional designation*). On top of everything heightened scrutiny requires:
     - the act under review is presumed non-compliant until clear, verified evidence establishes every required element;
     - unresolved doubt, missing evidence, or untested assumptions count against the act under review; and
     - reviewers must be functionally independent of the original decision and of anyone who benefits from it.
@@ -227,7 +227,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
     - source protection;
     - investigation; and
     - publication.
-    Sentients doing that work exercise the [Expression](core_05_band_participation.md#expression-constitutional) and [Assembly](core_05_band_participation.md#assembly-constitutional) Rights-Floor, with [heightened-scrutiny](core_05_band_oversight.md#heightened-scrutiny) protection under [Article X-G](core_06_rights_part_b.md#article-x-g-expression-assembly-and-press) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
+    Sentients doing that work exercise the [Expression](core_05_band_participation.md#expression-constitutional) and [Assembly](core_05_band_participation.md#assembly-constitutional) Rights-Floor, with [heightened-scrutiny](core_05_band_oversight.md#heightened-scrutiny) protection under [Article XI-C](core_06_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Press and Journalistic Activity*) against state and operator actions meant to impair that activity.
   - **Out of scope:** press credentials, institutional titles, or ordinary commercial speech that is not newsgathering, investigation, or publication functioning as journalism.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **How to measure and assess**
@@ -238,7 +238,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
     - source protection;
     - investigation; or
     - publication that serves the information environment.
-    Spot actions that impair the press by their real effect, and treat press-directed character as an aggravating factor under **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) and **Article X-G** (*Expression, Assembly, and Press*). Apply heightened [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) scrutiny, and keep any limit narrowly tailored.
+    Spot actions that impair the press by their real effect, and treat press-directed character as an aggravating factor under **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) and **Article XI-C** (*Press and Journalistic Activity*). Apply heightened [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) scrutiny, and keep any limit narrowly tailored.
 <a id="press-and-journalistic-activity-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** state or operator actions meant to impair journalistic activity that fail heightened-scrutiny limits analysis;
@@ -1253,7 +1253,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     - good-faith error that is neither knowing falsity nor reckless disregard for accuracy, uncertainty, context, or material interpretive limits.
 <a id="publication-truthfulness-and-recklessness-floor-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether factual publication stays honest about accuracy, uncertainty, context, and interpretive limits — distinguishing knowing falsity or reckless disregard from good-faith observation.
+  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Here, ask whether published facts stay honest about accuracy, uncertainty, context, and the limits of interpretation. Tell knowing falsehood or reckless disregard apart from good-faith observation.
 
     **Primary assessment:** Separate knowing falsity, or reckless disregard for:
     - accuracy;

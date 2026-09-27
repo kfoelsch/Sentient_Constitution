@@ -68,7 +68,7 @@ This file is the institutional implementation home for **CI-26** (*Compliance ma
 | **CI-16** | Care labor, dependent support, respite, and care-economy fairness |
 | **CI-17** | End-of-life continuity, memorial dignity, and posthumous-data stewardship |
 | **CI-18** | Collective public health, epidemic response, and addiction-informed care |
-| **CI-19** | Vulnerable personal services markets and **Article XI-C** (*Adult consensual commercial sexual services and sexual exploitation*) interface |
+| **CI-19** | Vulnerable personal services markets and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) interface |
 | **CI-20** | Relational coercive control, intimate power, and anti-domination routing |
 | **CI-21** | Community life, voluntary association, and non-instrumental time |
 | **CI-22** | Commons, cooperatives, mutual aid, and non-market community governance |

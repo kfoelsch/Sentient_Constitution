@@ -55,7 +55,7 @@ See: [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-owners
 - **Today:** The spare room, food, and rides are offered only if you switch clinicians, give them your bank cards, and agree “the family” will decide housing and who you see. If you refuse, they say they will have you held, or that someone you live with is not safe.
 - **With this Constitution:** You own your body and mind. Family relationship is not authority over you. Using housing or survival help as the price of those decisions is a break of this protection, not ordinary family terms you can refuse.
 
-See: [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body); [Article XI-A](../../../core_06_rights_part_b.md#article-xi-a-non-imposition-and-consent-in-association); [CI-20](../../../corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md).
+See: [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body); [Article XI-F](../../../core_06_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association); [CI-20](../../../corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md).
 
 **If someone steps in during a crisis, that step cannot become a lasting takeover.**
 - **Today:** “Crisis” is used to detain you, change your medication, and keep your bank cards and the lease with no date to look again. You were in a clinic for a few days years ago, and they still use that as a reason to keep making your choices for you.

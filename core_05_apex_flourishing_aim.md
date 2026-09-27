@@ -25,32 +25,34 @@
 *In plain terms: protect and improve how well sentients actually live — truth, safety, trustworthiness, and a real ability to choose and act, kept together — not by chasing one of those as far as it will go while emptying out the others.*
 
 <a id="flourishing-constitutional"></a>
+<a id="flourishing"></a>
 
-#### Flourishing
-
-- O: Protect and improve sentient wellbeing — the constitutional aim this entry names.
+- **What it is**
+  - Protect and improve sentient wellbeing — the constitutional aim this entry names.
   - **In scope:** judging systems against this aim using the Flourishing building blocks and measurement families listed in [Constitutional Aim decomposition](#flourishing-aim-decomposition).
   - **Depends on:** the building blocks named in [Preamble §1 The Model](core_00_preamble.md#flourishing). Each term's detailed scope and how-to-measure rules live on its own definition; start from [Constitutional Aim decomposition](#flourishing-aim-decomposition):
     - [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint);
     - [Safety (Constraint)](core_05_band_continuity.md#safety-constraint);
     - [Trustworthiness](core_05_band_continuity.md#trustworthiness); and
     - [Meaningful Agency](core_05_band_participation.md#meaningful-agency).
-  - Out of scope: the leaf-definition details, measurement tiers, and implementation mechanics owned by band files and CJS.
+  - **Out of scope:** the leaf-definition details, measurement tiers, and implementation mechanics owned by band files and CJS.
 <a id="flourishing-constitutional-m"></a>
-- M: How to tell whether sentient wellbeing is actually protected and improved. This line only points to the measures; the how-to-measure rules sit on each linked definition.
-  - **Main outcome measure:** [Wellbeing](core_05_band_continuity.md#wellbeing).
-  - **Topic map:** [Constitutional Aim decomposition](#flourishing-aim-decomposition).
-  - **Searchable index:** [Chapter Five alphabetical directory](core_05__definitions_home.md#chapter-five-alphabetical-directory).
 <a id="flourishing-constitutional-a"></a>
-- A:
-  - Judge under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake).
-  - Tie claimed flourishing results to the [constituent](#flourishing-aim-decomposition) conditions and to outcomes sentients actually experience, under Chapter Four and [Chapter One §12.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1215-constitutional-outcome-claims-discipline).
-  - Always read with [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional): short-term gains that foreseeably weaken long-term stability, resilience, or ecological integrity fail **Flourishing** when the two aims are judged together.
+- **How to measure and assess**
+  - **Primary measure:** How to tell whether sentient wellbeing is actually protected and improved. This line only points to the measures; the how-to-measure rules sit on each linked definition.
+    - **Main outcome measure:** [Wellbeing](core_05_band_continuity.md#wellbeing).
+    - **Topic map:** [Constitutional Aim decomposition](#flourishing-aim-decomposition).
+    - **Searchable index:** [Chapter Five alphabetical directory](core_05__definitions_home.md#chapter-five-alphabetical-directory).
+  - **Primary assessment:**
+    - Judge under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake).
+    - Tie claimed flourishing results to the [constituent](#flourishing-aim-decomposition) conditions and to outcomes sentients actually experience, under Chapter Four and [Chapter One §12.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1215-constitutional-outcome-claims-discipline).
+    - Always read with [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional): short-term gains that foreseeably weaken long-term stability, resilience, or ecological integrity fail **Flourishing** when the two aims are judged together.
 <a id="flourishing-constitutional-c"></a>
-- C: Non-compliant when:
-  - one building block is maximized while truth, safety, trustworthiness, or agency is hollowed out;
-  - flourishing claims cannot be traced to constitutional outcomes under Chapter Four; or
-  - **Flourishing** is pursued in a way that materially defeats the [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) without clear permission under [Chapter One §6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
+- **What must hold**
+  - **Primary failure:** Non-compliant when:
+    - one building block is maximized while truth, safety, trustworthiness, or agency is hollowed out;
+    - flourishing claims cannot be traced to constitutional outcomes under Chapter Four; or
+    - **Flourishing** is pursued in a way that materially defeats the [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) without clear permission under [Chapter One §6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
 
 ---
 
