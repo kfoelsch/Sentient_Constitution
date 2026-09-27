@@ -271,6 +271,8 @@ The **Dignity Principles** are the two principles that follow: the [Rights-Floor
 
 ###### Rights-Floor Minimums Principle
 
+This principle protects the Rights Floor as follows:
+
 - No constitutional process, measure, transition, amendment, standing consequence, emergency action, or justice-related outcome may permanently extinguish or waive the **Rights-Floor minimums** of baseline dignity protections under [Article VI-A](core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*Dignity and Equal Moral Standing*) and the [Anti-Degrading-Process Principle](#anti-degrading-process-principle), minimum subsistence access, or core challenge, review, and appeal rights.
 - Temporary restriction of specific rights is permitted only when it satisfies the [Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) and the emergency provisions of [Article XXIV-D](core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden) (*Emergency Measures and Continuation Burden*) — meaning any restriction must be justified, minimal, documented, time-limited, and independently reviewable. Specific articles may add stronger safeguards, but they may not narrow this principle or use convenience, efficiency, classification, emergency, transition, standing, amendment, contract, or implementation labels to bypass it.
 

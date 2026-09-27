@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-09-26T20:21:15+00:00",
+  "generated_at": "2026-09-27T04:04:08+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -1150,7 +1150,7 @@
       "file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
       "anchor": "#cf-94-what-investigators-may-do",
       "heading": "CF-9.4 What investigators may do",
-      "line": 124,
+      "line": 126,
       "kind": "section",
       "gloss": "The authority to take complaints, gather and preserve evidence, interview, and prepare a reasoned packet for whoever decides what happens next."
     },
@@ -1158,7 +1158,7 @@
       "file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
       "anchor": "#cf-95-required-separations",
       "heading": "CF-9.5 Required separations",
-      "line": 152,
+      "line": 154,
       "kind": "section",
       "gloss": "Several bodies may contribute to one matter, but each stays in its lane — investigating, charging, and deciding must not collapse into a single hand."
     },
@@ -1166,21 +1166,21 @@
       "file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
       "anchor": "#cf-951-non-forum-investigative-security-support-and-enforcement-roles",
       "heading": "CF-9.5.1 Non-forum investigative, security-support, and enforcement roles",
-      "line": 170,
+      "line": 172,
       "kind": "section"
     },
     "CF-9.5.2": {
       "file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
       "anchor": "#cf-952-forum-and-forum-adjacent-roles",
       "heading": "CF-9.5.2 Forum and forum-adjacent roles",
-      "line": 187,
+      "line": 191,
       "kind": "section"
     },
     "CF-9.6": {
       "file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
       "anchor": "#cf-96-no-self-investigation",
       "heading": "CF-9.6 No self-investigation",
-      "line": 201,
+      "line": 207,
       "kind": "section",
       "gloss": "No body keeps sole control of an inquiry into its own misconduct. Where the allegations reach the usual investigators, the matter must go elsewhere."
     },
@@ -1188,7 +1188,7 @@
       "file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
       "anchor": "#cf-97-rights-secrecy-and-protected-activity",
       "heading": "CF-9.7 Rights, secrecy, and protected activity",
-      "line": 219,
+      "line": 225,
       "kind": "section",
       "gloss": "Investigations may sometimes need sealed steps and delayed notice, but secrecy stays bounded by necessity, proportionality, and oversight — it is not a blanket exemption."
     },
@@ -1196,7 +1196,7 @@
       "file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
       "anchor": "#cf-98-records-referrals-and-backup-routes",
       "heading": "CF-9.8 Records, referrals, and backup routes",
-      "line": 242,
+      "line": 248,
       "kind": "section",
       "gloss": "The record must state scope, steps, evidence, uncertainty, and reasons — including evidence that cuts against the investigators' own theory — so a closure decision can be checked."
     },
@@ -2545,14 +2545,14 @@
       "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
       "anchor": "#cs-3-6-domain-taxonomy-ordinary-examples-and-scarce-capacity-handling",
       "heading": "CS-3.6 Domain taxonomy, ordinary examples, and scarce-capacity handling",
-      "line": 279,
+      "line": 281,
       "kind": "section"
     },
     "CS-3.7": {
       "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
       "anchor": "#cs-3-7-classification-governance-disclosure-and-challenge",
       "heading": "CS-3.7 Classification governance, disclosure, and challenge",
-      "line": 340,
+      "line": 342,
       "kind": "section"
     },
     "CS-3.8": {
@@ -2633,28 +2633,28 @@
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-16-substitutability-and-dependency-reduction",
       "heading": "CS-4.16 Substitutability and dependency reduction",
-      "line": 426,
+      "line": 428,
       "kind": "section"
     },
     "CS-4.17": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-17-transparency-and-auditability",
       "heading": "CS-4.17 Transparency and auditability",
-      "line": 449,
+      "line": 451,
       "kind": "section"
     },
     "CS-4.18": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-18-intervention-and-cooperation",
       "heading": "CS-4.18 Intervention and cooperation",
-      "line": 460,
+      "line": 462,
       "kind": "section"
     },
     "CS-4.19": {
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-19-governance-and-incentive-integrity",
       "heading": "CS-4.19 Governance and incentive integrity",
-      "line": 469,
+      "line": 471,
       "kind": "section"
     },
     "CS-4.2": {
@@ -2668,7 +2668,7 @@
       "file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "anchor": "#cs-4-20-failure-and-reclassification",
       "heading": "CS-4.20 Failure and reclassification",
-      "line": 476,
+      "line": 478,
       "kind": "section"
     },
     "CS-4.3": {

@@ -404,9 +404,9 @@
     {
       "id": "MD-SECTION-LEAD-01",
       "legacy_ref": "sections open with lead-in prose, not a list item",
-      "summary": "After Trace / D/A/C widgets, br spacers, anchors, blockquote callouts, and *In plain terms* gloss, a section's first body line must be lead-in prose, not a bare list item (- , * , or 1. ). Sections whose first content is a child heading are containers and out of scope. Chapter Five definition files (core_05_*.md) are carved out: their entries open with O / E / C bullets by design. Advisory until the existing backlog is cleared; not a regression gate.",
+      "summary": "After Trace / D/A/C widgets, br spacers, anchors, blockquote callouts, and *In plain terms* gloss, a section's first body line must be lead-in prose, not a bare list item (- , * , or 1. ). Sections whose first content is a child heading are containers and out of scope. Chapter Five definition files (core_05_*.md) are carved out: their entries open with O / E / C bullets by design. Regression gate since 2026-09-26, when the backlog was cleared.",
       "make_target": "section-bullet-lead-audit",
-      "status": "advisory"
+      "status": "blocking"
     }
   ]
 }

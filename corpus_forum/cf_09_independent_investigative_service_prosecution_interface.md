@@ -104,6 +104,8 @@ Investigation must be institutionally separate from ordinary **local enforcement
 
 *In plain terms: Investigators must sit in a protected line of their own, not under the same command as the enforcement or prosecution they may need to examine.*
 
+This subsection sets out where investigative services belong and the conditions they operate under:
+
 - **Independent home:** Investigative services should sit in an **independent assurance**, **integrity**, or similarly protected constitutional line. They must not be housed under the same ordinary command chain that carries out local enforcement, constitutional enforcement, security operations, prosecution, or final merits decision-making.
 - **Accredited service model:** Adopting instruments may allow independent investigative or security-support providers to serve forums, institutions, communities, or individuals, provided the provider is lawfully accredited, qualified, and subject to published constitutional operating rules.
 - **Disclosure and conflicts:** Every engagement must disclose the hiring relationship, funding source, scope of work, material dependencies, conflicts, prior related work, and any limits on independence. Disclosure is a floor, not a cure: conflicted or dependency-shaped engagements must be screened, narrowed, externally supervised, recused, or rejected where independence would otherwise fail.
@@ -177,6 +179,8 @@ Where investigative, security-support, or enforcement-adjacent bodies exercise m
 
 <br>
 
+This subsection sets out the non-forum investigative, security-support, and enforcement roles:
+
 - **Investigators** develop, preserve, analyze, and explain facts. They may recommend referral, closure, remediation, or further lawful process, but they do not decide charges, sanctions, final liability, final constitutional meaning, or final standing effects.
 - **Independent security-support providers** may protect sentients, evidence, records, facilities, or forum access; assess security risk; advise on stabilization; and support lawful protective measures. They must not become ordinary local enforcement, constitutional enforcement command, detention command, private coercive enforcement, or a way to bypass public authorization and review.
 - **Local enforcement** may secure scenes, stabilize emergencies, execute lawful custody or access-control steps, serve process, carry out immediate protection, execute forum orders within local scope, or provide comparable local operational support. It must not have exclusive control over the investigation, especially when local enforcement personnel, detention personnel, security services, charging authorities, alignment enforcement authorities, forums, or closely aligned actors may be subjects, witnesses, or materially interested participants.
@@ -193,6 +197,8 @@ Where investigative, security-support, or enforcement-adjacent bodies exercise m
 </details>
 
 <br>
+
+This subsection sets out the roles of forums and forum-adjacent bodies:
 
 - **Forums** may authorize warrants, compulsory process, preservation orders, secrecy limits, and comparable intrusive steps. They may resolve disputes about scope, privilege, rights, standards compliance, admissibility, and the finished record. They must not become the routine managers of investigators or quietly turn executive fact-development into chamber work.
 - **Technical forums** may set, revise, and review investigative and security standards, including forensic quality, evidentiary sufficiency, expert qualifications, security protocols, testing methods, chain of custody, uncertainty treatment, and standards conformance. They may answer certified technical questions, but they must not displace primary-stakes routing or become the merits forum merely because investigative or security standards are involved.

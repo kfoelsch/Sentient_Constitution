@@ -78,6 +78,8 @@ References across these constitutional volumes to **Chapter Seventeen** or to in
 
 *In plain terms: treat designated **implementation text** files like versioned law libraries — only the edition written into the adoption record counts, and keep receipts that prove who held the authoritative text and when it took effect.*
 
+This section sets out how incorporated text is pinned to editions, held in custody, and given operative effect:
+
 - **Edition pinning:** Incorporation by reference at constitutional scope is operative only for **adopted edition identifiers** and **effective dates** recorded explicitly in the adoption chain. For constitutional-scope purposes, the operative text of an incorporated implementation file is the text at the **adopted edition identifier**. That text is **not** the adopter’s current working copy, and it is **not** the latest revision published upstream simply because it is newest.
 - **Custody chain:** Adopters must maintain an **auditable custody chain** for incorporated **implementation text** artifacts. Records must include:
   - edition identifier;
@@ -119,6 +121,8 @@ References across these constitutional volumes to **Chapter Seventeen** or to in
 <br>
 
 *In plain terms: quietly swapping in a newer draft — or relabeling a real change as “just a clarification” — does not change what was adopted. Later revisions stay process-layer notes until a real re-adoption under Chapters Sixteen and Sixteen.*
+
+This section sets out the safeguards that protect incorporated text:
 
 - **No silent drift (anti-drift rule):** Post-adoption edits to implementation text files have **no constitutional effect** for an adopter unless validly adopted through **Chapter Sixteen** and **Chapter Seventeen** procedures. This rule applies to:
   - substantive revisions;

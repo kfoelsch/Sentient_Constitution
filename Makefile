@@ -446,6 +446,8 @@ regression:
 		heading-echo-topic-audit-test \
 		heading-runin-echo-audit \
 		heading-runin-echo-audit-test \
+		section-bullet-lead-audit \
+		section-bullet-lead-audit-test \
 		fossil-anchor-audit \
 		fossil-anchor-audit-test \
 		reference-audit-test \

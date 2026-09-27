@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-26T20:21:13+00:00",
+  "generated_at": "2026-09-27T04:04:06+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -4971,16 +4971,18 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 64,
+            "count": 65,
             "anchors": [
               "#article-vi-a-dignity-and-equal-moral-standing",
               "#article-vi-b-sentience-status-adjudication-floor",
               "#article-vi-c-nondiscrimination",
               "#article-vi-d-accessibility",
               "#article-vii-a-self-ownership-of-body",
-              "#article-viii-a-family-care-relationships-reproductive-autonomy-and-non-separation",
-              "#article-viii-a1-derivation-instantiation-and-the-parent-system-relationship",
-              "#article-viii-b-developing-sentients-best-interest-and-graduated-capability",
+              "#article-viii-a-family-and-care-relationships",
+              "#article-viii-b-reproductive-and-lineage-autonomy",
+              "#article-viii-c-derivation-instantiation-and-the-parent-system-relationship",
+              "#article-viii-d-developing-sentients-best-interest-and-graduated-capability",
+              "#article-viii-e-non-separation",
               "#article-x-a-agency-and-freedom-from-manipulation",
               "#article-x-b-stakeholder-role-and-participation-rights",
               "#article-x-e-institutional-formation-and-business-creation",
@@ -7637,7 +7639,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 74,
+            "count": 79,
             "anchors": [
               "#2-foundational-objective-wellbeing",
               "#21-fairness",
@@ -7651,7 +7653,7 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 39,
+            "count": 42,
             "anchors": [
               "#6-process-conflict-resolution",
               "#61-core-tradeoff-principles",
@@ -7694,7 +7696,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 291,
+            "count": 301,
             "anchors": [
               "#collective-harm-boundary",
               "#collective-harm-boundary-a",
@@ -7745,7 +7747,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 160,
+            "count": 165,
             "anchors": [
               "#anti-capture",
               "#anti-capture-a",
@@ -7794,6 +7796,8 @@
               "#safety-constraint-a",
               "#safety-constraint-c",
               "#stewardship-constitutional",
+              "#stewardship-constitutional-a",
+              "#stewardship-constitutional-c",
               "#surveillance-boundary",
               "#surveillance-boundary-a",
               "#surveillance-boundary-c",
@@ -7860,7 +7864,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 459,
+            "count": 477,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",

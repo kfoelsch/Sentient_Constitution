@@ -313,6 +313,8 @@ Each adopting entity must maintain and periodically update at least:
 
 *In plain terms: Where the boundaries sit: Chapter Twelve still owns forum architecture, the institutions corpus still owns non-adjudicative governance, and this file adds only the forum-specific staffing layer.*
 
+This file relates to the existing corpus files as follows:
+
 - `core_12_forum.md` remains the constitutional owner of forum-family architecture and routing.
 - `corpus_institutions.md` remains the general owner of non-adjudicative institutional governance (as distinct from the forum layer).
 - `corpus_joint_structure.md` remains the owner of general procedural-integrity and adjudication operational clusters.

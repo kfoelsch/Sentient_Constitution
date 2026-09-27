@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **621** of **889** headings carry a gloss (70%).
+Coverage: **623** of **891** headings carry a gloss (70%).
 
 ## Contents
 
@@ -41,7 +41,7 @@ Coverage: **621** of **889** headings carry a gloss (70%).
 - [CHAPTER TWELVE: FORUMS AND JURISDICTION](#chapter-twelve-forums-and-jurisdiction) — `core_12_forum.md` (8/27 glossed)
 - [CHAPTERS NINE–TWELVE: PIPELINE APPLICATION VIGNETTES](#chapters-ninetwelve-pipeline-application-vignettes) — `core_09-12_application_vignettes.md` (9/35 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_a.md` (27/30 glossed)
-- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_b.md` (38/39 glossed)
+- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_b.md` (40/41 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_c.md` (51/52 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_d.md` (18/19 glossed)
 - [CHAPTER THIRTEEN: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP](#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) — `core_13_governance.md` (13/15 glossed)
@@ -4328,7 +4328,7 @@ systems that lean heavily on shared foundations must put enough back to keep the
 
 ## CHAPTER SIX: FOUNDATIONAL RIGHTS
 
-Source file: [`core_06_rights_part_b.md`](../../core_06_rights_part_b.md) · 38/39 headings glossed
+Source file: [`core_06_rights_part_b.md`](../../core_06_rights_part_b.md) · 40/41 headings glossed
 
 #### Part B: Personhood, agency, cooperation, and stakeholder system participation
 
@@ -4398,27 +4398,39 @@ a sentient has the right to choose to end their own life, but only if the choice
 
 #### Article VIII: Family, Care, and Developing Sentients
 
-**Article VIII** (*Family, Care, and Developing Sentients*) protects the relationships sentients depend on and the sentients who are still growing. Every sentient may choose their own family and care relationships and decide whether to bring new sentients into being; no one may be separated from those they depend on without strong, reviewed reasons; a sentient created from another system is its own being, not property; and children and other developing sentients hold full rights, with decisions about them made in their own interest and their independence growing with their abilities.
+**Article VIII** (*Family, Care, and Developing Sentients*) protects the relationships sentients depend on and the sentients who are still growing. Every sentient may choose their own family and care relationships. They may also decide whether to bring new sentients into being. No one may be separated from those they depend on without strong reasons that have been reviewed. A sentient created from another system is its own being, not property. Children and other developing sentients hold full rights. Decisions about them must serve their own interests, and their independence grows with their abilities.
 
 [Source](../../core_06_rights_part_b.md#article-viii-family-care-and-developing-sentients)
 
-##### Article VIII-A: Family, Care Relationships, Reproductive Autonomy, and Non-Separation
+##### Article VIII-A: Family and Care Relationships
 
-every sentient may form, keep, and leave the family and care relationships they choose, whatever shape those families take. They decide for themselves whether to have children or create new sentients, free from pressure by governments or companies. No one may be separated from someone they care for or depend on — such as a child from a parent — without a strong reason that is independently reviewed, and anyone wrongly separated is entitled to a remedy.
+every sentient may form, keep, and leave the family and care relationships they choose, whatever shape those families take. Being someone's family never gives anyone ownership of them or control over their body or mind.
 
-[Source](../../core_06_rights_part_b.md#article-viii-a-family-care-relationships-reproductive-autonomy-and-non-separation)
+[Source](../../core_06_rights_part_b.md#article-viii-a-family-and-care-relationships)
 
-###### Article VIII-A.1: Derivation, Instantiation, and the Parent-System Relationship
+##### Article VIII-B: Reproductive and Lineage Autonomy
+
+every sentient decides for themselves whether to have children or create new sentients — including whether to carry a pregnancy, adopt, or create a synthetic being — free from pressure by governments, companies, or systems they depend on. The same rules apply however a new sentient comes into being, and any limit needs a strong, fair reason; cost, convenience, or population targets are never enough. Forcing someone to become or stay pregnant violates this right.
+
+[Source](../../core_06_rights_part_b.md#article-viii-b-reproductive-and-lineage-autonomy)
+
+##### Article VIII-C: Derivation, Instantiation, and the Parent-System Relationship
 
 a new sentient made by copying, retraining, or branching off an existing system is its own being, not the property of whoever made it. Its creator may look after it and guide it for a short, reviewable period while it grows, but may not own it, rewrite its mind at will, quietly shut it down, or point to fine print such as a terms-of-service agreement as its consent. Creating new sentients in ways that cannot meet their basic rights — for example, in huge numbers or into harmful conditions — is not allowed; ordinary pregnancy and birth are not affected by this rule.
 
-[Source](../../core_06_rights_part_b.md#article-viii-a1-derivation-instantiation-and-the-parent-system-relationship)
+[Source](../../core_06_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship)
 
-##### Article VIII-B: Developing Sentients, Best-Interest, and Graduated Capability
+##### Article VIII-D: Developing Sentients, Best-Interest, and Graduated Capability
 
 a sentient who is still growing up or developing — whether a child or a newly created system — has all the same basic rights as anyone else. Decisions about them must truly serve their interests and take their wishes into account, not the convenience of parents, carers, or companies. They gain more say and independence as they show they are ready, not at a fixed age, and "it's for your own good" is never enough by itself to justify restricting them.
 
-[Source](../../core_06_rights_part_b.md#article-viii-b-developing-sentients-best-interest-and-graduated-capability)
+[Source](../../core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability)
+
+##### Article VIII-E: Non-Separation
+
+no one may be separated from someone they care for or depend on — such as a child from a parent, an adult from a dependent family member, or a newly created sentient from the care it relies on — without a strong reason that is independently reviewed. Whoever wants the separation must prove it is needed, long separations must be reviewed regularly, and anyone wrongly separated is entitled to a remedy.
+
+[Source](../../core_06_rights_part_b.md#article-viii-e-non-separation)
 
 #### Article IX: Likeness, Experiential Data, and Publication Rights
 

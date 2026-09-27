@@ -175,6 +175,8 @@ flowchart TB
 
 *In plain terms: you must not need a PhD in every subsystem to live safely inside shared systems — but the more a system affects your life, the more you should be able to learn what it does, what could go wrong, and how to challenge bad calls. Transparency, education, plain explanations, and audit paths are how that happens. Complexity is not an excuse to hide what matters. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large audit process among those paths — not the only one.*
 
+This subsection sets out what distributed understanding is and what it requires:
+
 - **What it is:** the community-facing facet of **Pillar 3** under **[§9 Stewardship In Depth](#9-stewardship-in-depth)**.
 - **What it requires:** proportionate, structured access to how shared systems that materially affect sentients operate:
   - purposes
@@ -217,6 +219,8 @@ Distributed understanding does **not** require every sentient to master every su
 <br>
 
 *In plain terms: institutions have to actually learn — not just upgrade software while those in charge stay clueless. That means feedback loops, documented fixes when things fall out of alignment, and keeping competence from walking out the door. Where behavior can be measured repeatably, tracking how performance varies over time is one proportionate way to implement those loops — **statistical process control** is a well-known pattern for that discipline, not a requirement everywhere. Numbers alone do not count: when indicators look wrong, someone has to investigate and fix the root cause. Dashboards must be honest, scaled to real impact, and written so affected sentients can understand them — not gamed to look good while nothing changes.*
+
+This subsection sets out what institutional development is and what it requires:
 
 - **What it is:** the organizational facet of **Pillar 3** under **[§9 Stewardship In Depth](#9-stewardship-in-depth)**.
 - **Paired obligation:** organizations and shared systems **learn** — a core requirement of the **Continuity** aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
@@ -268,6 +272,8 @@ Distributed understanding does **not** require every sentient to master every su
 <br>
 
 *In plain terms: when safety, truth, and legitimate confidentiality allow, shared systems should default toward openness — inspectable tech, transparent processes, and designs you can verify, repair, or leave — instead of opaque lock-in. That supports **Continuity**: systems sentients can still understand, fix, and exit over time, not just use today. What matters should be explained in language sentients can actually use to participate and push back. Openness never outranks safety, honesty, or justified secrets, and it does not replace the deeper understanding owed where dependence is high.*
+
+This subsection sets out the openness aspiration that links the two facets of Pillar 3:
 
 - **What it is:** the throughline connecting **Pillar 3**'s two facets — [§9.1 Distributed Understanding](#91-distributed-understanding) (what a community can check) and [§9.2 Institutional Development](#92-institutional-development) (what an institution can honestly learn from) both depend on shared systems being open enough to inspect, not just described.
 - Shared systems should **aspire** — consistent with [§9.1 Distributed Understanding](#91-distributed-understanding) and [§9.2 Institutional Development](#92-institutional-development), and with [§10 Consequential Stewardship](#10-consequential-stewardship-the-steward-role)'s own auditability duty, subject to the [§9 limits](#9-limits) — to:
@@ -353,6 +359,8 @@ Role pathways may separate **learning-dominant** and **operations-dominant** rol
 <br>
 
 *In plain terms: human and AI stewards owe the same Chapter One duties. [Chapter Ten §5.4 Duty to Resist](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) binds both to refuse unlawful or unconstitutional instructions. Adopted implementation text may add logging, attribution, and capability limits. It may not swap in a softer internal code, skip standing measurement, or close contest pathways. This is not a new morals stack — it is the anti-special-pleading rule. The bonus, the deadline, and cover-instruction tests live in [§10.2 Alignment Under Pressure](#102-alignment-under-pressure).*
+
+This subsection sets out the shared stewardship standard:
 
 - **Who it binds:** Stewardship and governance duties under this chapter apply [substrate-agnostically](core_05_band_participation.md#substrate-agnostic) to whoever exercises material stewardship or operational authority, without regard to [Substrate Class](core_05_band_participation.md#substrate-class):
   - human stewards
@@ -1123,6 +1131,8 @@ Incentive structures for such systems must not:
 
 *In plain terms: whoever decides whether the bet paid out cannot be captured.*
 
+This subsection sets out who decides outcomes and what must hold for them:
+
 - **What they are:** **Outcome-resolution sources** are the actors, processes, data feeds, or authorities that determine whether and how contingent claims settle.
 - **Examples:**
   - official results;
@@ -1147,6 +1157,8 @@ Incentive structures for such systems must not:
 <br>
 
 *In plain terms: odds and prices are not proof of what is true or what this Constitution requires.*
+
+This subsection sets out why market signals are not constitutional proof:
 
 - **What does not count as proof:** prices, odds, pool sizes, and analogous aggregated signals from these systems are not, without more, sufficient evidence to decide:
   - [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint);
@@ -1214,6 +1226,8 @@ Authorization, design, and operation must:
 <br>
 
 *In plain terms: bankruptcy, a sale, a reorganization, or changing corporate labels cannot by themselves wipe out constitutional duties. Whoever continues the work — successors, estates, receivers, or comparable transferees — inherits proportionate obligations unless a less harmful path is shown under **Necessity**.*
+
+This subsection sets out how verified duties survive successor and formal-structure changes:
 
 - **What does not by itself extinguish verified constitutional duties:**
   - receivership;

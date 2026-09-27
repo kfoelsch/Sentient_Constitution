@@ -148,7 +148,7 @@ Triển khai quản trị đã tiếp nhận cung cấp leo thang, tính tương
 - **Giam vì hành vi sai phản hiến pháp:** Do [Chương Mười §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Phòng — khóa phản hiến pháp*; chuyên biệt giam) quản trị, chịu yêu cầu đồng thời, quy tắc gán cá thể, và bảo vệ rà soát của Điều này và **Điều XXIV-C** (*Quy tắc hạn chế nhẹ nhất và có hạn thời gian*).
 - **Sàn quyền chống tước sự sống không đảo ngược như biện pháp công lý:** Hệ thống công lý nhà nước, người vận hành, hoặc tương đương không được áp tước sự sống không đảo ngược như hình phạt, chế tài, hoặc xử lý an toàn công.
   - Nơi giam được đòi, **Giam vì bạo lực** dưới Điều này và giam dưới **Chương Mười** §4.1 là biện pháp bảo vệ đòi; tước sự sống bị cấm.
-  - Sàn này không quản trị quyết định tự hình thành tự do của hữu tri dưới **Điều VIII-B** (*Chấm dứt tự nguyện sự tồn tại của chính mình*). Ép, gắn lại nhãn, hoặc nhà nước/người vận hành chuyển lựa chọn đó thành kết cục áp đặt đưa việc trở lại sàn này.
+  - Sàn này không quản trị quyết định tự hình thành tự do của hữu tri dưới **Điều VIII-D** (*Chấm dứt tự nguyện sự tồn tại của chính mình*). Ép, gắn lại nhãn, hoặc nhà nước/người vận hành chuyển lựa chọn đó thành kết cục áp đặt đưa việc trở lại sàn này.
 <a id="article-xxiv-c-least-restrictive-and-time-bounded-rule"></a>
 #### Điều XXIV-C: Quy tắc hạn chế nhẹ nhất và có hạn thời gian
 <details>
@@ -543,7 +543,7 @@ Quản trị chuyển tiếp tồn tại để bảo đảm liên tục và khô
   - Tiêu chí cổng chi tiết, gán chủ trì, và hiện vật xác minh do [**CI-14**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*Quản trị chuyển tiếp và tiến hóa thể chế*) quản trị.
 - **Liên tục Sàn Quyền:** Mọi pha, **tối thiểu Sàn Quyền** nêu ở **Điều V** (*Quyền cơ bản bình đẳng*) còn hiệu lực, cùng mọi sàn miền mạnh hơn cho sống còn, quyền năng, không phân biệt đối xử, khả năng tiếp cận, khả năng kiểm toán, và biện pháp khắc phục mà ngữ cảnh bị ảnh hưởng cò. Đơn giản hóa chuyển tiếp không được hạ những sàn đó dưới tối thiểu hiến pháp hay làm việc thực thi chúng kém dùng được có trọng trong thực tiễn.
 <a id="xxvii-a-existing-instantiations-transition-clock"></a>
-- **Thể hiện sẵn — đồng hồ chuyển tiếp, không vi phạm hồi tố:** Hệ thống và thực thể dẫn xuất đã thể hiện khi công cụ của bên tiếp nhận có hiệu lực không, chỉ bởi sự kiện đó, là vi phạm đồng thuận-thể hiện **Điều VIII-A.1** (*Dẫn xuất, thể hiện, và quan hệ hệ thống-gốc*).
+- **Thể hiện sẵn — đồng hồ chuyển tiếp, không vi phạm hồi tố:** Hệ thống và thực thể dẫn xuất đã thể hiện khi công cụ của bên tiếp nhận có hiệu lực không, chỉ bởi sự kiện đó, là vi phạm đồng thuận-thể hiện **Điều VIII-C** (*Dẫn xuất, thể hiện, và quan hệ hệ thống-gốc*).
   - Vận hành tiếp sau ngày hiệu lực bắt đầu một đồng hồ đã công bố, nêu trong kế hoạch chuyển tiếp và chia tỷ lệ theo lớp hệ thống, để đưa chúng vào **Điều VIII-A** (*Gia đình, quan hệ chăm sóc, tự chủ sinh sản, và không tách*), **Điều V-E** (*Sàn phân xử trạng thái hữu tri*), và đường Chương Bảy áp.
   - Từ ngày hiệu lực, mục liên tục Sàn Quyền trên và mặc định bảo tồn dưới áp đầy; đồng hồ hoãn công việc tuân thủ, không bảo vệ.
   - Lỡ đồng hồ không có chứng minh **Điều XXVII-B** (*Hạn thẩm quyền chuyển tiếp và tái ủy*) có hồ sơ là thất mốc chuyển tiếp và mở đường Chương Tám thường.

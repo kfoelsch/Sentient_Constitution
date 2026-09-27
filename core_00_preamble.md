@@ -219,6 +219,8 @@ Each summary below states what the chapter owns and what it produces.
 
 *In plain terms: before a materially binding act moves, separate who starts it, who checks or authorizes it, who holds the official record, and who reviews a challenge. The roles may scale to the setting, but the same actor and its control line cannot quietly occupy the checks on its own act.*
 
+This section summarizes the separation-of-duties floor and what it produces:
+
 - **What it owns:** The cross-process floor requiring every [Materially Binding Act](core_05_band_accountability.md#materially-binding-act) to assign four functions separately:
   - initiation;
   - verification or authorization;
@@ -344,6 +346,8 @@ Together, these rules turn constitutional duties into records and decisions that
 #### 6.2 How the full chain fits together
 
 *In plain terms: first separate the seats. Then follow the path from system check to remedy, with forums supervising the dispute and standing steps throughout.*
+
+The full chain runs in the following order:
 
 1. **Separate the seats for every materially binding act** ([Chapter Seven](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor)) — identify who initiates, who verifies or authorizes, who holds the official record, and who hears a challenge. Apply the prohibited combinations, independence rules, and published substitute route before treating the act as validly checked.
 2. **Certify the system when impact is serious enough** ([Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)) — before a high-impact system is trusted at scale, obtain a contestable alignment record that answers whether it is constitutionally safe to rely on *right now*.

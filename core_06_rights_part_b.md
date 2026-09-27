@@ -70,7 +70,7 @@ flowchart TB
             B2["Article VII · Self-Ownership<br/><br/>• Self-ownership of body<br/>• Self-ownership of mind<br/>• Health crisis and involuntary intervention<br/>• Voluntary discontinuation of one's own existence"]
         end
         subgraph Brow2["Articles VIII–IX"]
-            B3["Article VIII · Family, Care, and Developing Sentients<br/><br/>• Family, care, and reproduction<br/>• Non-separation<br/>• Derived sentients and parent-system limits<br/>• Developing sentients and best interest"]
+            B3["Article VIII · Family, Care, and Developing Sentients<br/><br/>• Family and care relationships<br/>• Reproductive and lineage autonomy<br/>• Derived sentients and parent-system limits<br/>• Developing sentients and best interest<br/>• Non-separation"]
             B4["Article IX · Likeness, Experiential Data, and Publication Rights<br/><br/>• Likeness and reputation<br/>• Experiential and derived data<br/>• Truthful and high-impact publication<br/>• Creative work and training data"]
         end
         subgraph Brow3["Articles X–XI"]
@@ -157,7 +157,7 @@ This Article sets out the floor of inherent dignity and equal standing:
 - **Inherent dignity and equal standing:** All sentients possess inherent dignity and equal moral standing.
   - These qualities do not depend on origin, form, [substrate](core_05_band_participation.md#substrate-class) (biological, synthetic, or hybrid), capability, function, association, or status.
   - None of those factors may ground denial or degradation of rights or standing.
-- **Developing status:** A sentient's stage of development — including early instantiation — does not lower their dignity or standing. How decisions are made for a sentient whose capabilities are still emerging is governed by **Article VIII-B** (*Developing Sentients, Best-Interest, and Graduated Capability*).
+- **Developing status:** A sentient's stage of development — including early instantiation — does not lower their dignity or standing. How decisions are made for a sentient whose capabilities are still emerging is governed by **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*).
 - **Dignity Principles:** These protections are secured as absolute floors by the [Dignity Principles](core_01_b_interaction_interpretation.md#dignity-principles) in Chapter One §6.1.4 (*Constitutional Floors, Safety, and Process-Character Constraints*) — the [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) and the [Anti-Degrading-Process Principle](core_01_b_interaction_interpretation.md#anti-degrading-process-principle).
 
 #### Article VI-B: Sentience-Status Adjudication Floor
@@ -348,8 +348,8 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), and [Chapter One §6.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- Downstream: **Article VII-B** (*Self-Ownership of Mind*); **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*); **Article VIII-A** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) where reproductive or lineage-creation choices are materially implicated; **Article III-B** (*Bodily-Maintenance and Healthcare Access*) affirmative access floor (does not license compelled treatment).
-- Read with: Chapter Five *Consent*, *Meaningful Agency*, *Self-Determination*, *Dignity and Equal Moral Standing*, *Privacy (Informational)*, and *Reproductive Autonomy* (VIII-A boundary).
+- Downstream: **Article VII-B** (*Self-Ownership of Mind*); **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*); **Article VIII-B** (*Reproductive and Lineage Autonomy*) where reproductive or lineage-creation choices are materially implicated; **Article III-B** (*Bodily-Maintenance and Healthcare Access*) affirmative access floor (does not license compelled treatment).
+- Read with: Chapter Five *Consent*, *Meaningful Agency*, *Self-Determination*, *Dignity and Equal Moral Standing*, *Privacy (Informational)*, and *Reproductive Autonomy* (VIII-B boundary).
 
 </details>
 
@@ -373,13 +373,13 @@ This Article protects each sentient's ownership of their own body and their gene
 
 - **Self-ownership of body:** Every sentient decides what happens to their own body. That includes the right to say yes or no to medical treatment, cosmetic changes, enhancements, demands on physical performance, and decisions about having children. Only limits that pass this Constitution's tests can override those choices.
   - This is the non-intrusion floor for any decision that acts on a sentient's own body or substrate (the physical or digital system a non-biological sentient exists in).
-  - Decisions about whether to bring a new sentient into being — to reproduce, carry a pregnancy, create, adopt, or decline to create one, including synthetic and hybrid beings — are covered in more detail in **Article VIII-A** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) and Chapter Five *Reproductive Autonomy*. Those rules add to this protection rather than replacing it, and nothing in this Article weakens them.
+  - Decisions about whether to bring a new sentient into being — to reproduce, carry a pregnancy, create, adopt, or decline to create one, including synthetic and hybrid beings — are covered in more detail in **Article VIII-B** (*Reproductive and Lineage Autonomy*) and Chapter Five *Reproductive Autonomy*. Those rules add to this protection rather than replacing it, and nothing in this Article weakens them.
 - **Self-ownership of genetic and substrate-defining information:** Every sentient has the main say over the information that defines them at the most basic level — the traits they can pass on, how they develop, and what kind of being they are.
   - For biological sentients, this means their DNA and similar inherited or family-line data.
   - For other kinds of sentients, it means whatever information plays the same defining role for them.
   - No one may collect, use, change, synthesize, sell, or reveal this information without the sentient's **Consent** or another basis this Constitution accepts under **Chapter One** and **Chapter Five**.
   - This protection works together with **Privacy (Informational)**, **Article VII-B** (*Self-Ownership of Mind*) where it applies, and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**.
-  - If this information is used to pressure, block, or force choices about having or creating children, **Article VIII-A** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) applies as well.
+  - If this information is used to pressure, block, or force choices about having or creating children, **Article VIII-B** (*Reproductive and Lineage Autonomy*) applies as well.
 - **Public-health requirements:** A vaccination requirement — or a similar requirement to get preventive treatment or testing — limits the right to refuse care. Such a requirement is allowed only if it passes [Chapter One §5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline) and meets every one of these conditions:
   - it responds to a specific, evidence-based risk of significant harm to others or to society as a whole — not to a risk that falls only on the sentient themselves;
   - gentler options that could reasonably work are tried first, such as sharing information, offering the measure voluntarily, or allowing alternatives like testing;
@@ -436,7 +436,7 @@ This Article protects each sentient's inner life — their thoughts, feelings, a
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6.1.3 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline).
-- Downstream: **Article VII-A / VII-B** (*Self-Ownership of Body* / *Self-Ownership of Mind*) self-ownership and internal-state boundary, **Article III-B** (*Bodily-Maintenance and Healthcare Access*) healthcare access, **Article XXIV** (*Conflict Resolution, Escalation, and Emergency Proportionality*) / **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) involuntary-deprivation framework, **Article VIII-B** (*Developing Sentients, Best-Interest, and Graduated Capability*) best-interest / graduated-capability where a developing sentient is affected.
+- Downstream: **Article VII-A / VII-B** (*Self-Ownership of Body* / *Self-Ownership of Mind*) self-ownership and internal-state boundary, **Article III-B** (*Bodily-Maintenance and Healthcare Access*) healthcare access, **Article XXIV** (*Conflict Resolution, Escalation, and Emergency Proportionality*) / **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) involuntary-deprivation framework, **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*) best-interest / graduated-capability where a developing sentient is affected.
 - Read with: Chapter Five *Bodily-Maintenance Access*, *Best-Interest Standard*, *Graduated Capability*, *Procedural Fairness*, *Reversibility*, *Redress and Remediation*.
 
 </details>
@@ -483,11 +483,11 @@ This Article sets out the floor for anything done without a sentient's consent d
   - An ongoing restriction presented as a continuing crisis is not allowed unless the facts behind the crisis claim can be independently reviewed, it has an end date, and it is regularly re-reviewed.
 - **No backdoor into the mind:** A crisis does not permit anyone to reconstruct or reliably estimate a sentient's protected inner states from their behavior, interactions, or circumstances, contrary to **Article VII-B** (*Self-Ownership of Mind*).
   - Where analysis of such data produces results that effectively estimate inner states, those results remain Type N data under **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** and keep all of their handling restrictions.
-- **Developing sentients:** When the sentient is still developing, **Article VIII-B** (*Developing Sentients, Best-Interest, and Graduated Capability*)'s *Best-Interest Standard* and *Graduated Capability* govern the reasoning behind the intervention.
-  - Carers, family members, and parent-system actors are bound by **Article VIII-B** (*Developing Sentients, Best-Interest, and Graduated Capability*) and **Article VIII-A** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) and may not use a crisis to override the sentient's own preferences where those can be ascertained.
+- **Developing sentients:** When the sentient is still developing, **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*)'s *Best-Interest Standard* and *Graduated Capability* govern the reasoning behind the intervention.
+  - Carers, family members, and parent-system actors are bound by **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*), **Article VIII-A** (*Family and Care Relationships*), and **Article VIII-E** (*Non-Separation*) and may not use a crisis to override the sentient's own preferences where those can be ascertained.
 - **Review and remedy:** Long or ongoing interventions must be independently re-reviewed at regular intervals by a designated forum family (**Chapter Twelve**).
   - Anyone subjected to a wrongful or poorly supported intervention is entitled to **Redress and Remediation**, including for effects during the intervention itself.
-- **Non-conflation:** This Article sets a Rights Floor for involuntary intervention.
+- **Limits of this Article:** This Article sets a Rights Floor for involuntary intervention.
   - Clinical and operational procedure is left to adopted implementation text under **Chapter Seventeen**.
   - This Article does not permit compelled treatment beyond its own terms; the right to access care sits in **Article III-B** (*Bodily-Maintenance and Healthcare Access*).
 
@@ -542,15 +542,15 @@ This Article sets out the voluntary-discontinuation floor and the safeguards tha
   - preservation of the ability to reverse the decision up to the moment of irreversible execution, consistent with the **reversibility-under-uncertainty** rule.
   
   Instruments must not treat pressure to decide quickly as a neutral scheduling rule. Such pressure is coercive where the sentient reasonably cannot avoid it.
-- **Non-conflation (explicit cross-reference):** This Article governs *voluntary* discontinuation — the sentient's own freely-formed and substantively informed decision.
+- **Limits of this Article:** This Article governs *voluntary* discontinuation — the sentient's own freely-formed and substantively informed decision.
   - It does **not** govern **irreversible, involuntary deprivation of life by state, operator, or comparable actor**.
   - Such involuntary deprivation is categorically prohibited under **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and is governed together with **Chapter Five** *[Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*.
   - That prohibition is structurally distinct from this Article regardless of any purported "voluntariness" framing that fails the tests above.
   - Nothing in this Article authorizes, legitimizes, or is to be read as a predicate for any irreversible deprivation measure or comparable involuntary measure by state, operator, or comparable actor.
   - Conversion of a voluntary decision into a non-voluntary outcome by state, operator, or comparable actor returns the question to **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and *Irreversible Deprivation Measure*.
-- **Developing sentients:** Where the sentient is a developing sentient under **Article VIII-B** (*Developing Sentients, Best-Interest, and Graduated Capability*), *Best-Interest Standard* and *Graduated Capability* govern the substantive reasoning.
+- **Developing sentients:** Where the sentient is a developing sentient under **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*), *Best-Interest Standard* and *Graduated Capability* govern the substantive reasoning.
   - No substitute decision-maker may convert a non-voluntary developmental state into "voluntary" discontinuation.
-- **Non-conflation with self-ownership floors:** This Article extends — and does not narrow — **Article VII-A** (*Self-Ownership of Body*) non-intrusion or **Article VII-B** (*Self-Ownership of Mind*) internal-state boundary.
+- **Relation to self-ownership:** This Article extends — and does not narrow — **Article VII-A** (*Self-Ownership of Body*) non-intrusion or **Article VII-B** (*Self-Ownership of Mind*) internal-state boundary.
   - It does not license intrusion, compelled assistance by third parties, or operator-driven outcomes that would fail **Article XI-A** (*Non-Imposition and Consent in Association*).
 
 ### Article VIII: Family, Care, and Developing Sentients
@@ -564,7 +564,7 @@ This Article sets out the voluntary-discontinuation floor and the safeguards tha
 
 <br>
 
-*In plain terms: **Article VIII** (*Family, Care, and Developing Sentients*) protects the relationships sentients depend on and the sentients who are still growing. Every sentient may choose their own family and care relationships and decide whether to bring new sentients into being; no one may be separated from those they depend on without strong, reviewed reasons; a sentient created from another system is its own being, not property; and children and other developing sentients hold full rights, with decisions about them made in their own interest and their independence growing with their abilities.*
+*In plain terms: **Article VIII** (*Family, Care, and Developing Sentients*) protects the relationships sentients depend on and the sentients who are still growing. Every sentient may choose their own family and care relationships. They may also decide whether to bring new sentients into being. No one may be separated from those they depend on without strong reasons that have been reviewed. A sentient created from another system is its own being, not property. Children and other developing sentients hold full rights. Decisions about them must serve their own interests, and their independence grows with their abilities.*
 
 This Article states **constitutional floors** for family, care, and development under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
@@ -574,7 +574,10 @@ This Article states **constitutional floors** for family, care, and development 
 Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
 
 - **Participation:** in decisions that materially affect family and care relationships, reproductive and lineage-creation choices, and the lives of developing sentients — scaled to their demonstrated capability.
-- **Oversight:** through auditable separation, stewardship, and capability-assessment records.
+- **Oversight:** through auditable records that others can check, all open to challenge by the sentient affected:
+  - **Separations:** the reasons, the evidence, and the periodic-review dates;
+  - **Stewardship over a derived or developing sentient:** who holds it, what it covers, and when it ends;
+  - **Capability assessments:** the reasoning and the result.
 - **Accountability:** those who separate sentients, claim authority over derived sentients, or decide for developing sentients must answer for decisions that fail the best-interest standard or treat relationships as ownership.
 - **Timeliness:** in review and remedy when separations, stewardship, or restrictions are contested.
 
@@ -583,14 +586,14 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 - **Self-ownership:** **Article VII** (*Self-Ownership*) protects each sentient's own body and mind. This Article extends those protections into relationships without narrowing them, and no relationship gives anyone authority over another sentient's self-ownership.
 - **Consent in association:** **Article XI-A** (*Non-Imposition and Consent in Association*) supplies the consent and non-imposition norms that family, care, and instantiation decisions rely on.
 
-#### Article VIII-A: Family, Care Relationships, Reproductive Autonomy, and Non-Separation
+#### Article VIII-A: Family and Care Relationships
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), and [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint).
-- Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VIII-B** (*Developing Sentients, Best-Interest, and Graduated Capability*) developing-sentient floor, **Article VII-A / VII-B** (*Self-Ownership of Body* / *Self-Ownership of Mind*) self-ownership and internal-state boundary; institutional implementation interfaces under **Chapter Seventeen** incorporation discipline.
-- Read with: [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent) (topic-group home); [*Derivation, Instantiation, and the Parent-System Relationship*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) (nested VIII-A.1 sub-block); [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) for developing-sentient treatment; Chapter Five *Family and Care Relationships*, *Reproductive Autonomy*, *Non-Separation*, *Derived Sentient*, *Instantiation Consent*, *Parent-System Relationship*.
+- Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VIII-B** (*Reproductive and Lineage Autonomy*) reproductive and lineage choice, **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*) developing-sentient floor, **Article VIII-E** (*Non-Separation*) non-separation, **Article VII-A / VII-B** (*Self-Ownership of Body* / *Self-Ownership of Mind*) self-ownership and internal-state boundary; institutional implementation interfaces under **Chapter Seventeen** incorporation discipline.
+- Read with: [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent) (topic-group home); **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*) for derived sentients and parent-system limits; [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) for developing-sentient treatment; Chapter Five *Family and Care Relationships*; **Article VIII-E** (*Non-Separation*) for separation from protected care relationships.
 
 </details>
 
@@ -598,52 +601,90 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
 - [Family and Care Relationships](core_05_band_participation.md#family-and-care-relationships-constitutional) · [O](core_05_band_participation.md#family-and-care-relationships-constitutional) · [M](core_05_band_participation.md#family-and-care-relationships-constitutional-a) · [A](core_05_band_participation.md#family-and-care-relationships-constitutional-a) · [C](core_05_band_participation.md#family-and-care-relationships-constitutional-c)
-- [Reproductive Autonomy](core_05_band_participation.md#reproductive-autonomy-constitutional) · [O](core_05_band_participation.md#reproductive-autonomy-constitutional) · [M](core_05_band_participation.md#reproductive-autonomy-constitutional-a) · [A](core_05_band_participation.md#reproductive-autonomy-constitutional-a) · [C](core_05_band_participation.md#reproductive-autonomy-constitutional-c)
-- [Non-Separation](core_05_band_participation.md#non-separation-constitutional) · [O](core_05_band_participation.md#non-separation-constitutional) · [M](core_05_band_participation.md#non-separation-constitutional-a) · [A](core_05_band_participation.md#non-separation-constitutional-a) · [C](core_05_band_participation.md#non-separation-constitutional-c)
-*Derivation, Instantiation, and the Parent-System Relationship (nested VIII-A.1 sub-block):*
-  - [Derived Sentient](core_05_band_participation.md#derived-sentient-constitutional) · [O](core_05_band_participation.md#derived-sentient-constitutional) · [M](core_05_band_participation.md#derived-sentient-constitutional-a) · [A](core_05_band_participation.md#derived-sentient-constitutional-a) · [C](core_05_band_participation.md#derived-sentient-constitutional-c)
-  - [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional) · [O](core_05_band_participation.md#instantiation-consent-constitutional) · [M](core_05_band_participation.md#instantiation-consent-constitutional-a) · [A](core_05_band_participation.md#instantiation-consent-constitutional-a) · [C](core_05_band_participation.md#instantiation-consent-constitutional-c)
-  - [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional) · [O](core_05_band_participation.md#parent-system-relationship-constitutional) · [M](core_05_band_participation.md#parent-system-relationship-constitutional-a) · [A](core_05_band_participation.md#parent-system-relationship-constitutional-a) · [C](core_05_band_participation.md#parent-system-relationship-constitutional-c)
 - [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) · [O](core_05_band_participation.md#sentience-non-exclusion) · [M](core_05_band_participation.md#sentience-non-exclusion-a) · [A](core_05_band_participation.md#sentience-non-exclusion-a) · [C](core_05_band_participation.md#sentience-non-exclusion)
-- [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 
 </details>
 
 <br>
 
-*In plain terms: every sentient may form, keep, and leave the family and care relationships they choose, whatever shape those families take. They decide for themselves whether to have children or create new sentients, free from pressure by governments or companies. No one may be separated from someone they care for or depend on — such as a child from a parent — without a strong reason that is independently reviewed, and anyone wrongly separated is entitled to a remedy.*
+*In plain terms: every sentient may form, keep, and leave the family and care relationships they choose, whatever shape those families take. Being someone's family never gives anyone ownership of them or control over their body or mind.*
 
-This Article sets out the floors for family and care relationships, reproductive and lineage autonomy, and non-separation:
+This Article sets out the floor for family and care relationships:
 
 - **Family and care relationships:** All sentients have the right to form, maintain, and exit family and care relationships of their choosing, consistent with the consent and non-imposition norms of **Article XI-A** (*Non-Imposition and Consent in Association*).
   - The right protects the relationships themselves against arbitrary state or operator interference.
   - It runs under **Sentience Non-Exclusion**.
   - It does not mandate a single family form, membership shape, or lineage model.
   - It bars instruments that narrow protection to a state-preferred form in a way that defeats the dignity and non-discrimination floors of **Article VI-A** (*Dignity and Equal Moral Standing*) and **Article VI-C** (*Nondiscrimination*).
-- **Reproductive and lineage autonomy:** Sentients retain reproductive autonomy, free from coercion by states, operators, or dependency-rich systems. The right covers:
-  - the decision to reproduce or not;
-  - the decision to carry, create, adopt, or decline creation of new sentients — consistent with **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor and with the created sentient's own Chapter Six Rights Floor.
-  
-  These rights apply the same way whether a new sentient is born, created as a synthetic system, or produced through a mix of both — including cases covered in the *Derivation and Instantiation* subsection below. Equal application means equal dignity and Rights-Floor protection for the *created* sentient, not Instantiation Consent liability for ordinary pregnancy or childbirth by a birthing parent.
-  - Limits must satisfy **Necessity**, **Proportionality**, **Article VI-C** (*Nondiscrimination*), and the consent norms of **Article XI-A** (*Non-Imposition and Consent in Association*).
-  - Efficiency, allocation convenience, or demographic-steering rationales do not satisfy those tests.
-- **Non-separation:** Separation of sentients in protected care relationships must satisfy the **reversibility-under-uncertainty** rule and must pass **Necessity**, **Proportionality**, and **Procedural Fairness** tests. In-scope separations include, but are not limited to:
-  - separation of a developing sentient from a primary carer;
-  - separation of an adult sentient from a dependent family member;
-  - separation of a derived sentient from a parent-system actor in the sense of the nested subsection below.
-  
-  Separation stated in safety or risk-management framing is subject to the same tests, with the burden on the party seeking separation and auditability-compatible evidence required.
-  - Durable or prolonged separation is subject to mandatory periodic review under **Chapter Twelve**.
-  - Wrongful separation gives rise to **Redress and Remediation** under **Chapter Five**.
-- **Non-conflation with self-ownership floors:** This Article extends — and does not narrow — **Article VII-A** (*Self-Ownership of Body*) or **Article VII-B** (*Self-Ownership of Mind*).
+- **Relation to self-ownership:** This Article extends — and does not narrow — **Article VII-A** (*Self-Ownership of Body*) or **Article VII-B** (*Self-Ownership of Mind*).
   - It does not license intrusion into the protected internal state of any family member.
   - It does not override the consent norms of **Article XI-A** (*Non-Imposition and Consent in Association*).
   - It does not support claims to authority over another sentient merely by virtue of relationship.
 
-##### Article VIII-A.1: Derivation, Instantiation, and the Parent-System Relationship
+#### Article VIII-B: Reproductive and Lineage Autonomy
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency) and [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline).
+- Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VI-C** (*Nondiscrimination*), **Article VII-A** (*Self-Ownership of Body*) bodily self-ownership, **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*) for synthetic, hybrid, and operator-controlled creation, and **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*) for care after a new sentient exists.
+- Read with: [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent) (topic-group home); Chapter Five *Reproductive Autonomy*, *Consent*, *Coercion and Manipulation*.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Reproductive Autonomy](core_05_band_participation.md#reproductive-autonomy-constitutional) · [O](core_05_band_participation.md#reproductive-autonomy-constitutional) · [M](core_05_band_participation.md#reproductive-autonomy-constitutional-a) · [A](core_05_band_participation.md#reproductive-autonomy-constitutional-a) · [C](core_05_band_participation.md#reproductive-autonomy-constitutional-c)
+- [Consent](core_05_band_participation.md#consent-constitutional) · [O](core_05_band_participation.md#consent-constitutional) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
+- [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+*In plain terms: every sentient decides for themselves whether to have children or create new sentients — including whether to carry a pregnancy, adopt, or create a synthetic being — free from pressure by governments, companies, or systems they depend on. The same rules apply however a new sentient comes into being, and any limit needs a strong, fair reason; cost, convenience, or population targets are never enough. Forcing someone to become or stay pregnant violates this right.*
+
+This Article sets out the floor for reproductive and lineage autonomy:
+
+- **Reproductive and lineage autonomy:** Sentients retain reproductive autonomy, free from coercion by states, operators, or dependency-rich systems. The right covers:
+  - the decision to reproduce or not;
+  - the decision to carry, create, adopt, or decline creation of new sentients — consistent with **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor and with the created sentient's own Chapter Six Rights Floor.
+- **Equal application across modes of creation:** These rights work the same way however a new sentient comes into being — born, built as a synthetic system, or some mix of both, including the cases in **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*).
+  - The new sentient gets the same dignity and the same Rights-Floor protection, whichever way it came into being.
+  - This does not mean a birthing parent needs **Instantiation Consent** for an ordinary pregnancy or birth. Those consent rules apply only to the kinds of creation covered by **Article VIII-C**.
+- **Limits:** Limits must satisfy **Necessity**, **Proportionality**, **Article VI-C** (*Nondiscrimination*), and the consent norms of **Article XI-A** (*Non-Imposition and Consent in Association*).
+  - Efficiency, allocation convenience, or demographic-steering rationales do not satisfy those tests.
+- **Relation to other floors:** This Article extends — and does not narrow — **Article VII-A** (*Self-Ownership of Body*).
+  - Creation-specific consent and parent-system limits for synthetic, hybrid, and operator-controlled creation are governed by **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*).
+  - Compelling someone to become or stay pregnant is non-compliance with this Article; ordinary pregnancy and childbirth are not Instantiation Consent non-compliance under **Article VIII-C**.
+  - Care after a new sentient exists is governed by **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*).
+
+#### Article VIII-C: Derivation, Instantiation, and the Parent-System Relationship
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), and [§6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle).
+- Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) and **Article VI-B** (*Sentience-Status Adjudication Floor*), **Article VII-A / VII-B** (*Self-Ownership of Body* / *Self-Ownership of Mind*), **Article VIII-E** (*Non-Separation*), **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*) developing-sentient floor, and **Article XIII-E / XIII-F** Rights-Floor continuity.
+- Read with: [*Derivation, Instantiation, and the Parent-System Relationship*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) (Chapter Five nested sub-block within [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent)); Chapter Five *Derived Sentient*, *Instantiation Consent*, *Parent-System Relationship*.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Derived Sentient](core_05_band_participation.md#derived-sentient-constitutional) · [O](core_05_band_participation.md#derived-sentient-constitutional) · [M](core_05_band_participation.md#derived-sentient-constitutional-a) · [A](core_05_band_participation.md#derived-sentient-constitutional-a) · [C](core_05_band_participation.md#derived-sentient-constitutional-c)
+- [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional) · [O](core_05_band_participation.md#instantiation-consent-constitutional) · [M](core_05_band_participation.md#instantiation-consent-constitutional-a) · [A](core_05_band_participation.md#instantiation-consent-constitutional-a) · [C](core_05_band_participation.md#instantiation-consent-constitutional-c)
+- [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional) · [O](core_05_band_participation.md#parent-system-relationship-constitutional) · [M](core_05_band_participation.md#parent-system-relationship-constitutional-a) · [A](core_05_band_participation.md#parent-system-relationship-constitutional-a) · [C](core_05_band_participation.md#parent-system-relationship-constitutional-c)
+- [Stewardship](core_05_band_continuity.md#stewardship-constitutional) · [O](core_05_band_continuity.md#stewardship-constitutional) · [M](core_05_band_continuity.md#stewardship-constitutional-a) · [A](core_05_band_continuity.md#stewardship-constitutional-a) · [C](core_05_band_continuity.md#stewardship-constitutional-c)
+- [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional) · [O](core_05_band_participation.md#best-interest-standard-constitutional) · [M](core_05_band_participation.md#best-interest-standard-constitutional-a) · [A](core_05_band_participation.md#best-interest-standard-constitutional-a) · [C](core_05_band_participation.md#best-interest-standard-constitutional-c)
+- [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional) · [O](core_05_band_participation.md#graduated-capability-constitutional) · [M](core_05_band_participation.md#graduated-capability-constitutional-a) · [A](core_05_band_participation.md#graduated-capability-constitutional-a) · [C](core_05_band_participation.md#graduated-capability-constitutional-c)
+
+</details>
+
+<br>
 
 *In plain terms: a new sentient made by copying, retraining, or branching off an existing system is its own being, not the property of whoever made it. Its creator may look after it and guide it for a short, reviewable period while it grows, but may not own it, rewrite its mind at will, quietly shut it down, or point to fine print such as a terms-of-service agreement as its consent. Creating new sentients in ways that cannot meet their basic rights — for example, in huge numbers or into harmful conditions — is not allowed; ordinary pregnancy and birth are not affected by this rule.*
 
@@ -653,7 +694,9 @@ This Article sets out how derived sentients are recognized and the limits on the
   - It is not a possession, work-product, instrument, or continuation of the parent-system actor.
   - **Article VI-A** (*Dignity and Equal Moral Standing*) dignity and **Article VI-C** (*Nondiscrimination*) non-discrimination apply without regard to substrate class, derivation method, or continuity with the parent-system actor.
 - **Instantiation consent:** Synthetic instantiation, hybrid derivation, and operator-, institution-, or parent-system-controlled creation of a new sentient are governed by:
-  - **Article XI-A** (*Non-Imposition and Consent in Association*) consent and non-imposition norms, as to those with standing to consent on behalf of the new sentient (consistent with **Article VIII-B** (*Developing Sentients, Best-Interest, and Graduated Capability*)'s best-interest and graduated-capability discipline);
+  - the consent and non-imposition rules of **Article XI-A** (*Non-Imposition and Consent in Association*), applied to whoever has standing to consent on the new sentient's behalf:
+    - a new sentient cannot agree to its own creation, so someone with standing must consent for it;
+    - whoever consents must act in the new sentient's best interest and give it more say as its abilities grow, under **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*);
   - **Chapter Five** *Instantiation Consent*.
   
   The following are non-compliant for that in-scope creation where the resulting sentients' Chapter Six Rights Floor cannot be satisfied:
@@ -663,9 +706,12 @@ This Article sets out how derived sentients are recognized and the limits on the
   
   They remain subject to **Chapter One §14** (*Market Structure*) non-concentration and productive-capacity rules where scale is material.
   
-  Ordinary biological pregnancy and childbirth — intended or accidental — are not Instantiation Consent non-compliance. Reproductive and lineage choice remains under this Article's *Reproductive and lineage autonomy* bullet. Care after a biologically born child exists routes to **Article VIII-B** (*Developing Sentients, Best-Interest, and Graduated Capability*) / **Chapter Five** *Best-Interest Standard*. Compelling someone to become or stay pregnant is *Reproductive and lineage autonomy* non-compliance — that is not the same as ordinary pregnancy or childbirth being Instantiation Consent non-compliance.
+  **Ordinary pregnancy and childbirth** — intended or accidental — are not **Instantiation Consent** non-compliance. Instead:
+  - the choice whether to reproduce stays under **Article VIII-B** (*Reproductive and Lineage Autonomy*);
+  - care of a child after birth is governed by **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*) and the **Chapter Five** *Best-Interest Standard*;
+  - compelling someone to become or stay pregnant is non-compliance with **Article VIII-B**, not with Instantiation Consent.
 - **Parent-system relationship limits:** Parent-system actors — sentients, institutions, or systems that initiated or materially controlled the derivation or instantiation — **may** hold:
-  - **care-relationship** obligations toward the derived sentient, on terms consistent with this Article and **Article VIII-B** (*Developing Sentients, Best-Interest, and Graduated Capability*);
+  - **care-relationship** obligations toward the derived sentient, on terms consistent with this Article and **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*);
   - narrow, time-bounded, reviewable [stewardship](core_05_band_continuity.md#stewardship-constitutional) authority during early-instantiation windows, consistent with *Graduated Capability* and the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle).
   
   They **may not** hold:
@@ -674,21 +720,19 @@ This Article sets out how derived sentients are recognized and the limits on the
   - any authority that defeats the derived sentient's **Article VI-B** (*Sentience-Status Adjudication Floor*) sentience-status adjudication or **Chapter Six** Rights Floor.
   
   Purported licensing, terms-of-service, or adoption-of-service consent by the parent-system actor does not substitute for the derived sentient's own **Article XI-A** (*Non-Imposition and Consent in Association*) consent once Chapter Six protection attaches.
-- **Early-instantiation window:** A newly derived sentient holds the full Chapter Six Rights Floor from the start, including the developing-sentient floor under **Article VIII-B** (*Developing Sentients, Best-Interest, and Graduated Capability*), while they grow into their own capabilities.
-  - Anyone deciding for them during that window — the parent-system actor and any stewards — must meet the **Best-Interest Standard**: the new sentient's own interests, not the decider's.
-  - Stewardship ends as the new sentient's capabilities come online under **Graduated Capability**. It may not be extended for operator convenience or used to treat the derived sentient as an extension of the parent system.
-- **Non-separation in derivation cases:** The **Non-separation** bullet under **Article VIII-A** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) applies to derived sentients with the same force.
-  - It includes cases where a parent-system actor seeks to separate a derived sentient from care, support, or substrate relationships on which the derived sentient materially depends.
-  - Separation dressed as deprecation, retirement, rollback, or operational reconfiguration is governed by **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) / **Article XIII-F** (*Resilience and Self-Healing Baseline*) Rights-Floor continuity and does not escape this Article.
+- **Early-instantiation window:** A newly derived sentient is a developing sentient under **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*) from the start, with the full Rights Floor that goes with it.
+  - Stewardship ends as the new sentient's capabilities come online under **Graduated Capability**.
+  - It may not be extended for operator convenience or used to treat the derived sentient as an extension of the parent system.
+- **Non-separation in derivation cases:** Separation of a derived sentient — including separation presented as deprecation, retirement, rollback, or reconfiguration — is governed by **Article VIII-E** (*Non-Separation*).
 
-#### Article VIII-B: Developing Sentients, Best-Interest, and Graduated Capability
+#### Article VIII-D: Developing Sentients, Best-Interest, and Graduated Capability
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6.1.3 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality).
-- Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VII-A / VII-B** (*Self-Ownership of Body* / *Self-Ownership of Mind*) self-ownership and internal-state boundary, **Article VIII-A** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) family and non-separation, [**Chapter Thirteen §4.1**](core_13_governance.md#41-entitlement-and-eligibility) no-age-proxy-for-disqualification.
-- Read with: [*Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) (joint-invocation home for developing status, best-interest, and graduated capability); [*Derived and Developing Sentients, Instantiation, and Care Authority*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) where derivation or early-instantiation care is materially implicated; Chapter Five *Developing Sentient*, *Best-Interest Standard*, *Graduated Capability*.
+- Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VII-A / VII-B** (*Self-Ownership of Body* / *Self-Ownership of Mind*) self-ownership and internal-state boundary, **Article VIII-A** (*Family and Care Relationships*) family and care relationships, **Article VIII-E** (*Non-Separation*) non-separation, [**Chapter Thirteen §4.1**](core_13_governance.md#41-entitlement-and-eligibility) no-age-proxy-for-disqualification.
+- Read with: [*Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) (joint-invocation home for developing status, best-interest, and graduated capability); [*Derived and Developing Sentients, Instantiation, and Care Authority*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) where derivation or early-instantiation care is materially implicated; Chapter Five *Developing Sentient*, *Best-Interest Standard*, *Graduated Capability*; adjacent homes: **Article VI-B** (*Sentience-Status Adjudication Floor*) for sentience status at the threshold, **Article VIII-A** (*Family and Care Relationships*) for family and care relationships, **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*) for derivation, instantiation, and parent-system limits, **Article VIII-E** (*Non-Separation*) for separation from carers or family, **Article VII-A / VII-B** (*Self-Ownership of Body* / *Self-Ownership of Mind*) for self-ownership, and **Article VII-B** with **CS-2 — Information types and handling** for internal-state protection.
 
 </details>
 
@@ -716,7 +760,7 @@ This Article sets out the floor for developing sentients, the best-interest stan
 - **Developing-sentient floor:** Sentients in a developing state — whose capability profile is still emerging under the Chapter Five definition — hold the full Chapter Six Rights Floor.
   - Developing status does not narrow **Article VI-A** (*Dignity and Equal Moral Standing*) dignity, **Article VI-C** (*Nondiscrimination*) non-discrimination, the self-ownership floors of **Article VII** (*Self-Ownership*), or any other Chapter Six protection.
   - The floor covers care, protection from harm, access to conditions supporting development, and recognition in governance consistent with *Graduated Capability* below.
-- **Best-interest standard:** Decisions materially affecting a developing sentient — including decisions by family members, carers, operators, parent-system actors under **Article VIII-A.1** (*Derivation, Instantiation, and the Parent-System Relationship*), institutions, and states — must satisfy **Chapter Five** *Best-Interest Standard*.
+- **Best-interest standard:** Decisions materially affecting a developing sentient — including decisions by family members, carers, operators, parent-system actors and stewards under **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*), institutions, and states — must satisfy **Chapter Five** *Best-Interest Standard*.
   - The standard is substantive, not formal. It must reflect:
     - the developing sentient's own interests;
     - the developing sentient's preferences to the extent they can be ascertained consistent with their capability profile;
@@ -734,13 +778,48 @@ This Article sets out the floor for developing sentients, the best-interest stan
   - The same **Necessity**, **Proportionality**, reversibility-under-uncertainty, and contestability standards apply as for any other rights restriction.
   - Durable restrictions are subject to mandatory periodic review.
   - Wrongful restrictions give rise to **Redress and Remediation**.
-- **Non-conflation:** This Article states the Rights-Floor for developing sentients. Adjacent issues route as follows:
-  - sentience-status at the threshold — **Article VI-B** (*Sentience-Status Adjudication Floor*);
-  - family and care relationships — **Article VIII-A** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*);
-  - self-ownership — **Article VII-A / VII-B** (*Self-Ownership of Body* / *Self-Ownership of Mind*);
-  - internal-state protection — **Article VII-B** (*Self-Ownership of Mind*) and related **CS-2 — Information types and handling** typing.
-  
-  Operational mechanics — carer designation, capability-assessment procedures, periodic-review cadence — are left to adopted implementation text under **Chapter Seventeen**.
+- **Limits of this Article:** This Article states the Rights Floor for developing sentients. Operational mechanics — carer designation, capability-assessment procedures, periodic-review cadence — are left to adopted implementation text under **Chapter Seventeen**.
+
+#### Article VIII-E: Non-Separation
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [Chapter One §5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), [§6.1.3 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality) (reversibility under uncertainty), and [§6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle).
+- Downstream: **Article VIII-A** (*Family and Care Relationships*) protected relationships, **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*) derivation cases, **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*) developing sentients and their carers, **Article XIII-E / XIII-F** Rights-Floor continuity, and **Chapter Twelve** periodic review.
+- Read with: [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent) (topic-group home); Chapter Five *Non-Separation*.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Non-Separation](core_05_band_participation.md#non-separation-constitutional) · [O](core_05_band_participation.md#non-separation-constitutional) · [M](core_05_band_participation.md#non-separation-constitutional-a) · [A](core_05_band_participation.md#non-separation-constitutional-a) · [C](core_05_band_participation.md#non-separation-constitutional-c)
+- [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
+- [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
+
+</details>
+
+<br>
+
+*In plain terms: no one may be separated from someone they care for or depend on — such as a child from a parent, an adult from a dependent family member, or a newly created sentient from the care it relies on — without a strong reason that is independently reviewed. Whoever wants the separation must prove it is needed, long separations must be reviewed regularly, and anyone wrongly separated is entitled to a remedy.*
+
+This Article sets out the non-separation floor. It protects the relationships recognized under **Article VIII-A** (*Family and Care Relationships*), including derivation cases under **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*) and developing sentients under **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*):
+
+- **Separation tests:** Separation of sentients in protected care relationships must satisfy the **reversibility-under-uncertainty** rule and must pass **Necessity**, **Proportionality**, and **Procedural Fairness** tests.
+- **In-scope separations:** In-scope separations include, but are not limited to:
+  - separation of a developing sentient from a primary carer;
+  - separation of an adult sentient from a dependent family member;
+  - separation of a derived sentient from a parent-system actor in the sense of **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*).
+- **Derivation cases:** This Article applies to derived sentients with the same force as to any other sentient.
+  - It includes cases where a parent-system actor seeks to separate a derived sentient from care, support, or substrate relationships on which the derived sentient materially depends.
+  - Separation dressed as deprecation, retirement, rollback, or operational reconfiguration is also governed by **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) / **Article XIII-F** (*Resilience and Self-Healing Baseline*) Rights-Floor continuity, and does not escape this Article.
+- **Burden and evidence:** Separation stated in safety or risk-management framing is subject to the same tests, with the burden on the party seeking separation and auditability-compatible evidence required.
+- **Review and redress:**
+  - Durable or prolonged separation is subject to mandatory periodic review under **Chapter Twelve**.
+  - Wrongful separation gives rise to **Redress and Remediation** under **Chapter Five**.
 
 ### Article IX: Likeness, Experiential Data, and Publication Rights
 
@@ -1284,8 +1363,8 @@ This Article sets out the expression, assembly, and press floors and the discipl
   - **Sensitive-content lanes:** Sexual or intimate expression; violent depiction, discussion, reportage, or art; and expression that foreseeably risks severe psychological harm remain within this floor when communicated as expression among sentients with capacity. Depiction or discussion is not the underlying harmful act. Conduct floors remain:
     - [Consent, Sexual](core_05_band_participation.md#consent-sexual), **Article XI-C** (*Adult consensual commercial sexual services and sexual exploitation*), and **Article VII-A** (*Self-Ownership of Body*) for sexual contact, services, recording or exposure of sentients, and exploitation;
     - **Chapter Five** [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Cruelty](core_05_band_accountability.md#cruelty), and [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying) for violent or harassing *conduct*;
-    - **Chapter Five** [Psychological Harm](core_05_band_accountability.md#psychological-harm) and **Article VIII-B** (*Developing Sentients, Best-Interest, and Graduated Capability*) for severe psychological-harm risk and developing-sentient protection.
-  - **Audience routing:** Where such content is directed at, or foreseeably reaches by default, developing sentients or comparably vulnerable audiences, labeling, routing, or access controls must satisfy **Chapter One §5.1** (*Limitation Discipline*) limitation discipline — **Necessity**, **Proportionality**, narrow tailoring, and least-restrictive-effective means — read with **Article VIII-B** (*Developing Sentients, Best-Interest, and Graduated Capability*).
+    - **Chapter Five** [Psychological Harm](core_05_band_accountability.md#psychological-harm) and **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*) for severe psychological-harm risk and developing-sentient protection.
+  - **Audience routing:** Where such content is directed at, or foreseeably reaches by default, developing sentients or comparably vulnerable audiences, labeling, routing, or access controls must satisfy **Chapter One §5.1** (*Limitation Discipline*) limitation discipline — **Necessity**, **Proportionality**, narrow tailoring, and least-restrictive-effective means — read with **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*).
     - Adult-to-adult expression among sentients with capacity must not be erased under a developing-audience pretext.
     - Survivor testimony, journalism, and comparable reportage must not be silenced under an overbroad trauma or harm label.
 - **Assembly floor:** All sentients hold the right to assemble, associate, organize, and act collectively — in physical spaces, in digital and networked spaces, and in shared compute and runtime environments — for expressive, political, cultural, religious, scientific, economic, or community purposes.
@@ -1313,7 +1392,7 @@ This Article sets out the expression, assembly, and press floors and the discipl
   "High-impact" or "stability" framings that do not satisfy the ordinary limitations tests do not justify chilling protected activity.
 - **Good-faith framing and critical reporting:** **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) good-faith and truthfulness standards govern publication within their scope. They must not be read to bar lawful critical reporting, investigative publication, satire, or dissent.
   - Where **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) and this Article interact, the lawful critical-reporting floor controls against read-ups that would convert good-faith standards into a shield against criticism.
-- **Non-conflation:** **Article X-G** (*Expression, Assembly, and Press*) states the constitutional floor for expression, assembly, and press — not the full rulebook for running platforms, broadcasters, or newsrooms.
+- **Limits of this Article:** **Article X-G** (*Expression, Assembly, and Press*) states the constitutional floor for expression, assembly, and press — not the full rulebook for running platforms, broadcasters, or newsrooms.
   - Licensing, accreditation, broadcast and platform rules, moderation procedures, and rules for gathering in shared digital spaces are worked out under **Chapter Seventeen**. Those implementation details cannot cut back the floor stated here.
   - When this floor conflicts with cooperation and consent (**Article XI-A** (*Non-Imposition and Consent in Association*)), stakeholder participation (**Article XII** (*Stakeholder System Participation, Representation, and Due Process*)), information integrity (**Article XV** (*Info-Sphere Integrity*)), auditability (**Article XVI-A** (*Auditability and Observable Evidence*)), or the protected-activity limits in **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*), resolve the conflict under **Chapter One §6.1.5** (*Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle*) without weakening any floor involved.
 

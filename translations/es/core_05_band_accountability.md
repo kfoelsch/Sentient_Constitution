@@ -3323,7 +3323,7 @@ Véase **Invocación conjunta y satisfacción**.
     - [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional).
   - **Fuera de alcance:**
     - contención duradera pero reversible bajo el [Artículo XXIV-C](../../core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule) (*Regla menos restrictiva y acotada en el tiempo*), sujeta a su disciplina de límite de duración, cadencia de revisión y restauración;
-    - [Discontinuación voluntaria](core_05_band_continuity.md#voluntary-discontinuation-constitutional) (la decisión de formación libre del propio senciente bajo el [Artículo VIII-B](../../core_06_rights_part_b.md#article-vii-d-voluntary-discontinuation-of-ones-own-existence) (*Discontinuación voluntaria de la propia existencia*)); y
+    - [Discontinuación voluntaria](core_05_band_continuity.md#voluntary-discontinuation-constitutional) (la decisión de formación libre del propio senciente bajo el [Artículo VIII-D](../../core_06_rights_part_b.md#article-vii-d-voluntary-discontinuation-of-ones-own-existence) (*Discontinuación voluntaria de la propia existencia*)); y
     - la operación manifiesta de [Uso de la fuerza](core_05_band_accountability.md#use-of-force-constitutional), [Armas de daño masivo](core_05_band_accountability.md#weapons-of-mass-harm-constitutional) y [Sistema letal autónomo](core_05_band_accountability.md#autonomous-lethal-system-constitutional) / [Herramienta de coerción autónoma](core_05_band_accountability.md#autonomous-coercion-tool-constitutional) gobernada por los Artículos XIV-B / XIV-C bajo su propia disciplina de piso titular incluso donde los efectos son irreversibles, sin lectura transversal que autorice una medida de privación.
 <a id="irreversible-deprivation-measure-measurements"></a>
 <a id="irreversible-deprivation-measure-constitutional-a"></a>
@@ -3340,8 +3340,8 @@ Véase **Invocación conjunta y satisfacción**.
       - mecanismos comparables;
     - encuadres de «inviabilidad de rehabilitación» o «las medidas menos restrictivas no pueden lograr la seguridad» usados para llevar la medida prohibida más allá de la prohibición categórica del **Artículo XXIV-B** (*Restricciones no triviales, restitución y rendición de cuentas restaurativa*);
     - uso de un régimen de contención duradera nominalmente reversible bajo el **Artículo XXIV-C** (*Regla menos restrictiva y acotada en el tiempo*) como predicado de la medida prohibida; y
-    - reetiquetado de un resultado impuesto de forma involuntaria como «voluntario» para eludir esta entrada hacia el **Artículo VIII-B** (*Discontinuación voluntaria de la propia existencia*):
-      - la decisión de formación libre del propio senciente sigue gobernada por el **Artículo VIII-B** y la [Discontinuación voluntaria](core_05_band_continuity.md#voluntary-discontinuation-constitutional); y
+    - reetiquetado de un resultado impuesto de forma involuntaria como «voluntario» para eludir esta entrada hacia el **Artículo VIII-D** (*Discontinuación voluntaria de la propia existencia*):
+      - la decisión de formación libre del propio senciente sigue gobernada por el **Artículo VIII-D** y la [Discontinuación voluntaria](core_05_band_continuity.md#voluntary-discontinuation-constitutional); y
       - cualquier conversión de esa decisión en un resultado no voluntario por un Estado, un operador o un actor comparable devuelve la pregunta a esta entrada.
 
     Distinga esta entrada de:
@@ -3362,7 +3362,7 @@ Véase **Invocación conjunta y satisfacción**.
   - **Falla secundaria:**
     - enrutar la medida prohibida a través de la asignación de impacto del Capítulo Ocho, la designación del Capítulo Diez, el encuadre de emergencia, la gobernanza de transición o de rebasado de línea de base, o la custodia de instrumento de quien adopta para reintroducirla;
     - usar la contención duradera pero reversible bajo el **Artículo XXIV-C** (*Regla menos restrictiva y acotada en el tiempo*) como peldaño o justificación de la medida prohibida; o
-    - reetiquetar un resultado impuesto de forma involuntaria como «discontinuación voluntaria» para enrutar hacia el **Artículo VIII-B** (*Discontinuación voluntaria de la propia existencia*).
+    - reetiquetar un resultado impuesto de forma involuntaria como «discontinuación voluntaria» para enrutar hacia el **Artículo VIII-D** (*Discontinuación voluntaria de la propia existencia*).
   - **Falla terciaria:** Estrechamientos por clase de sustrato solo por motivos de taxonomía ([No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion)).
 
 ---

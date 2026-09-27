@@ -49,7 +49,7 @@ This file is the institutional implementation home for **CI-16** (*Care labor, d
 
 *Shared rules live elsewhere.*
 - [**CJS-3.16**](../corpus_joint_structure/cjs_03c_continuity_operations.md) (*dependency integrity and disclosure terms*) — **Care, respite, and support-dependency adequacy**.
-- **Article VIII-A** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*); **Article III-C** (*Labor and Economic Floor*); **Article III-B** (*Bodily-Maintenance and Healthcare Access*).
+- **Article VIII-A** (*Family and Care Relationships*); **Article VIII-E** (*Non-Separation*); **Article III-C** (*Labor and Economic Floor*); **Article III-B** (*Bodily-Maintenance and Healthcare Access*).
 - Chapter Five [*Family and Care Relationships*](../core_05_band_participation.md#family-and-care-relationships-constitutional).
 - **CI-9.4** (*Survival floors, voluntary exchange, and markets*); **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*): charge design must not defeat care or respite access in practice; **CS-9** (*Resource allocation and funding stewardship*); **CI-20** (*Relational coercive control, intimate power, and anti-domination routing*); **CI-19** (*Vulnerable personal services markets*). This file does not repeat those floors.
 

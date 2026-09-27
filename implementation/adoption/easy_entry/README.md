@@ -35,7 +35,7 @@ This page is the index for short briefs in the “you” voice: what this Consti
 
 Each brief uses the same method as the [lived-situation packets](../../../evaluation/lived_situations/README.md): a colliding scene, basic protections rather than wish-fulfillment, and honest limits. The packets **test** whether those protections reach named parties. These briefs **speak to** a reader in a similar situation.
 
-The roster names **pages for situations**. It does not create legal types, trust scores, or duties. It does not change the Rights Floor that applies to you. Source text binds. Teen and tween briefs do not sort you by birthday; those rules are located in the section on [Article VIII-B](../../../core_06_rights_part_b.md#article-viii-b-developing-sentients-best-interest-and-graduated-capability) (*what you can actually do, not calendar age*). The mental-health brief does not sort you by diagnosis. Shop, capital, and operator briefs are roles, not a second morals stack.
+The roster names **pages for situations**. It does not create legal types, trust scores, or duties. It does not change the Rights Floor that applies to you. Source text binds. Teen and tween briefs do not sort you by birthday; those rules are located in the section on [Article VIII-D](../../../core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*what you can actually do, not calendar age*). The mental-health brief does not sort you by diagnosis. Shop, capital, and operator briefs are roles, not a second morals stack.
 
 <a id="what-this-is-not"></a>
 ## What this is not

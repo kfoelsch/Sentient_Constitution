@@ -36,6 +36,8 @@ Chapter Four is the constitutional owner of **burden allocation, compliance evid
 
 *In plain terms: if you claim compliance, you prove it — through one five-step check. Miss any step and the claim fails.*
 
+This section sets out who bears the burden of proof and how this chapter is enforced:
+
 - **Burden on the asserter:** The burden of demonstrating compliance rests on the system or actor asserting it.
 - **Exclusive enforcement pathway:** All evaluation standards referenced elsewhere in this chapter are enforced exclusively through sections **1** through **5** of this chapter.
 - **Integrated pipeline:** Sections **1** through **5** implement one verification pipeline; failure in any section fails the whole.

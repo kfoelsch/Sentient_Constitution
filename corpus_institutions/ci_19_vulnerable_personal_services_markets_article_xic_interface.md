@@ -71,7 +71,7 @@ Each institution in scope must name the office or body responsible for:
 - **separation and anti-pretext review** — independent review that ordinary regulation, exploitation enforcement, and incentive or visibility tools remain in separate lanes;
 - **workplace, housing, licensing, and transition route owners** — who handles parity with ordinary lawful cooperative work, housing access, licensing decisions, and phased record relief; and
 - **phased transition and record-relief publication** — how expungement, sealing, non-disclosure, retraining, and case-review programs are published and kept current.
-Read **CI-6**, **CI-9**, **CI-8**, and **CI-8.3** for local procedure, scaling, participation, and digital-pathway interfaces.
+Read **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-9** (*Classification-linked institutional obligations*), **CI-8** (*Transparency, participation, and accessible challenge and service pathways*), and **CI-8.3** (*Digital self-service pathway integrity*) for local procedure, scaling, participation, and digital-pathway interfaces.
 
 ---
 

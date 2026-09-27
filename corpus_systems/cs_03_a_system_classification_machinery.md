@@ -255,6 +255,8 @@ Standardized reliance categories:
 
 *In plain terms: decide what counts as “the system” by what it actually affects, say out loud how much time sentients have when it fails, make it tough enough to take a hit, and able to keep going or recover in time.*
 
+This subsection sets out how system boundaries, timeframes, and resilience are assessed:
+
 - <a id="51-system-boundaries"></a>**System boundaries**
   - Draw the boundary from what the system **actually does** to sentients and other systems — not from who owns it, which jurisdiction claims it, or what the operator’s org chart says
   - Harm or dependence that spills **outside** the operator’s nominal scope still counts as **inside** the system’s **effective boundary**

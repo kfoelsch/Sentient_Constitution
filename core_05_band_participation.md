@@ -1356,18 +1356,18 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
 - **Joint invocation:** where chosen family or care relationships, reproductive or family-forming choices, forced separation, or synthetic, hybrid, or operator-controlled creation of new sentients is material.
-- **Scope:** where joint invocation is met, the Participation home for chosen family and care, reproductive and family-forming choices, limits on forced separation, and synthetic, hybrid, or operator-controlled creation of new sentients. Ordinary pregnancy and childbirth remain under reproductive autonomy and, after a child exists, developing-sentient care — not Instantiation Consent liability. Developing-sentient status, best-interest decisions, and graduated capability live in [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) under [Article VIII-B](core_06_rights_part_b.md#article-viii-b-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*).
-- **Owner floor:** implements [Article VIII-A](core_06_rights_part_b.md#article-viii-a-family-care-relationships-reproductive-autonomy-and-non-separation) (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*).
+- **Scope:** where joint invocation is met, the Participation home for chosen family and care, reproductive and family-forming choices, limits on forced separation, and synthetic, hybrid, or operator-controlled creation of new sentients. Ordinary pregnancy and childbirth remain under reproductive autonomy and, after a child exists, developing-sentient care — not Instantiation Consent liability. Developing-sentient status, best-interest decisions, and graduated capability live in [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) under [Article VIII-D](core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*).
+- **Owner floor:** implements [Article VIII-A](core_06_rights_part_b.md#article-viii-a-family-and-care-relationships) (*Family and Care Relationships*), [Article VIII-B](core_06_rights_part_b.md#article-viii-b-reproductive-and-lineage-autonomy) (*Reproductive and Lineage Autonomy*), and [Article VIII-E](core_06_rights_part_b.md#article-viii-e-non-separation) (*Non-Separation*).
 
 **Topic group members.** This group comprises:
 - [Family and Care Relationships](core_05_band_participation.md#family-and-care-relationships-constitutional) — relationships of support and intimacy that sentients choose.
 - [Reproductive Autonomy](core_05_band_participation.md#reproductive-autonomy-constitutional) — decision-making over reproductive and lineage-creation choices.
 - [Non-Separation](core_05_band_participation.md#non-separation-constitutional) — limits on forced separation from protected care relationships.
-- [*Derivation, Instantiation, and the Parent-System Relationship*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) — nested VIII-A.1 subgroup for creation and creator stewardship:
+- [*Derivation, Instantiation, and the Parent-System Relationship*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) — nested VIII-C subgroup for creation and creator stewardship:
   - [Derived Sentient](core_05_band_participation.md#derived-sentient-constitutional) — who was created by derivation;
   - [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional) — consent and best-interest rules for synthetic, hybrid, or operator-controlled creation of a new sentient; and
   - [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional) — what the creator may and may not do.
-- [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) — who is developing, how decisions about them must be made, and how participation scales (Article VIII-B).
+- [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) — who is developing, how decisions about them must be made, and how participation scales (Article VIII-D).
 
 *Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below.
 
@@ -1379,7 +1379,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floor: [Article VIII-A](core_06_rights_part_b.md#article-viii-a-family-care-relationships-reproductive-autonomy-and-non-separation) (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*).
+- Owner floor: [Article VIII-A](core_06_rights_part_b.md#article-viii-a-family-and-care-relationships) (*Family and Care Relationships*).
 - Cluster component: [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent); read with [*Derivation, Instantiation, and the Parent-System Relationship*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) where derivation or parent-system care is materially implicated.
 </details>
 
@@ -1417,7 +1417,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floor: [Article VIII-A](core_06_rights_part_b.md#article-viii-a-family-care-relationships-reproductive-autonomy-and-non-separation) (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) — *Reproductive and lineage autonomy* bullet; read with **Article VIII-A.1** (*Derivation, Instantiation, and the Parent-System Relationship*) where derivation, instantiation, or parent-system relationships are materially implicated.
+- Owner floor: [Article VIII-B](core_06_rights_part_b.md#article-viii-b-reproductive-and-lineage-autonomy) (*Reproductive and Lineage Autonomy*); read with **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*) where derivation, instantiation, or parent-system relationships are materially implicated.
 - Cluster component: [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent); [**Def.P3** *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster)* where autonomy and agency routing materially applies.
 - Read with: [Consent](core_05_band_participation.md#consent-constitutional), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Family and Care Relationships](core_05_band_participation.md#family-and-care-relationships-constitutional), [Non-Separation](core_05_band_participation.md#non-separation-constitutional), [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional), [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 - Boundary: general bodily and mind self-ownership remains under **Article VII-A** (*Self-Ownership of Body*) / **Article VII-B** (*Self-Ownership of Mind*). This entry does not restate or narrow those floors.
@@ -1468,7 +1468,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floor: [Article VIII-A](core_06_rights_part_b.md#article-viii-a-family-care-relationships-reproductive-autonomy-and-non-separation) (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*).
+- Owner floor: [Article VIII-E](core_06_rights_part_b.md#article-viii-e-non-separation) (*Non-Separation*).
 - Cluster component: [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent); [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) where developing-sentient separation is materially implicated; [*Derivation, Instantiation, and the Parent-System Relationship*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) where derived-sentient separation is materially implicated.
 </details>
 
@@ -1520,7 +1520,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 ##### Derivation, Instantiation, and the Parent-System Relationship
 
-This nested sub-block is the joint home for **Article VIII-A.1** (*Derivation, Instantiation, and the Parent-System Relationship*) creation and creator-stewardship definitions within the Family topic group — not a separate Def.P cluster.
+This nested sub-block is the joint home for **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*) creation and creator-stewardship definitions within the Family topic group — not a separate Def.P cluster.
 
 **Sub-block members.** This sub-block comprises:
 
@@ -1536,8 +1536,8 @@ This nested sub-block is the joint home for **Article VIII-A.1** (*Derivation, I
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing) (derivation / dignity read-with **Article VIII-A.1** (*Derivation, Instantiation, and the Parent-System Relationship*) stack).
-- Owner floor: [Article VIII-A.1](core_06_rights_part_b.md#article-viii-a1-derivation-instantiation-and-the-parent-system-relationship) (*Derivation, Instantiation, and the Parent-System Relationship*).
+- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing) (derivation / dignity read-with **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*) stack).
+- Owner floor: [Article VIII-C](core_06_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship) (*Derivation, Instantiation, and the Parent-System Relationship*).
 - Cluster component: [*Derivation, Instantiation, and the Parent-System Relationship*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) nested sub-block within [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent).
 - Read with: the [Animal Life, Sentient Life, and Sentience Status cluster](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster), [Sentient](core_05_band_participation.md#sentient), [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional), [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e), [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional), and [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional).
 </details>
@@ -1585,7 +1585,7 @@ This nested sub-block is the joint home for **Article VIII-A.1** (*Derivation, I
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floors: [Article VIII-A](core_06_rights_part_b.md#article-viii-a-family-care-relationships-reproductive-autonomy-and-non-separation) (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*); [Article VIII-A.1: Derivation, Instantiation, and the Parent-System Relationship](core_06_rights_part_b.md#article-viii-a1-derivation-instantiation-and-the-parent-system-relationship).
+- Owner floor: [Article VIII-C: Derivation, Instantiation, and the Parent-System Relationship](core_06_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship).
 - Cluster component: [*Derivation, Instantiation, and the Parent-System Relationship*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) nested sub-block within [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent).
 - Boundary: ordinary biological conception, pregnancy, gestation, and childbirth route to [Reproductive Autonomy](core_05_band_participation.md#reproductive-autonomy-constitutional); care after a child exists routes to [**Def.P4** *Best-Interest Standard*](core_05_band_participation.md#best-interest-standard-constitutional) / [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional).
 </details>
@@ -1641,7 +1641,7 @@ This nested sub-block is the joint home for **Article VIII-A.1** (*Derivation, I
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floor: [Article VIII-A.1: Derivation, Instantiation, and the Parent-System Relationship](core_06_rights_part_b.md#article-viii-a1-derivation-instantiation-and-the-parent-system-relationship).
+- Owner floor: [Article VIII-C: Derivation, Instantiation, and the Parent-System Relationship](core_06_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship).
 - Cluster component: [*Derivation, Instantiation, and the Parent-System Relationship*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) nested sub-block within [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent).
 </details>
 
@@ -3010,7 +3010,7 @@ See **Joint invocation and satisfaction**.
 
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](core_00_preamble.md#material-stake) via [Materiality Determination](core_05_band_oversight.md#materiality-determination).
 - Chapter One basis: §10, Chapter One §8.1, §4 (see [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map) map).
-- Read with: Apply [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Consent](core_05_band_participation.md#consent-constitutional), [Privacy (Informational)](core_05_band_continuity.md#privacy-informational), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Dependency](core_05_band_continuity.md#dependency), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Reproductive Autonomy](core_05_band_participation.md#reproductive-autonomy-constitutional) where **Article VIII-A** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) joint invocation materially applies, and [*Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)](core_05_band_participation.md#info-sphere)* where materially implicated.
+- Read with: Apply [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Consent](core_05_band_participation.md#consent-constitutional), [Privacy (Informational)](core_05_band_continuity.md#privacy-informational), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Dependency](core_05_band_continuity.md#dependency), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Reproductive Autonomy](core_05_band_participation.md#reproductive-autonomy-constitutional) where **Article VIII-B** (*Reproductive and Lineage Autonomy*) joint invocation materially applies, and [*Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)](core_05_band_participation.md#info-sphere)* where materially implicated.
 
 </details>
 
@@ -3296,8 +3296,8 @@ See **Joint invocation and satisfaction**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner floor: [Article VIII-B](core_06_rights_part_b.md#article-viii-b-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*).
-- Read with: [Article VIII-A.1](core_06_rights_part_b.md#article-viii-a1-derivation-instantiation-and-the-parent-system-relationship) (*Derivation, Instantiation, and the Parent-System Relationship*); [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent) where care, derivation, or instantiation contexts invoke this cluster; [Derived Sentient](core_05_band_participation.md#derived-sentient-constitutional); [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional); [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional).
+- Owner floor: [Article VIII-D](core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*).
+- Read with: [Article VIII-C](core_06_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship) (*Derivation, Instantiation, and the Parent-System Relationship*); [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent) where care, derivation, or instantiation contexts invoke this cluster; [Derived Sentient](core_05_band_participation.md#derived-sentient-constitutional); [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional); [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional).
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](core_00_preamble.md#material-stake) via [Materiality Determination](core_05_band_oversight.md#materiality-determination).
 - Chapter One basis: Chapter One §5, §5.1, §8.1 (see [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map) map).
 
@@ -3326,7 +3326,7 @@ It prevents status, best-interest, and scaling framings from being separated in 
 - [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional) — who counts as still emerging in capability; full Rights Floor attaches;
 - [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional) — how decisions about them must be made;
 - [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional) — how participation and rights-exercise scale as capability develops;
-- [Article VIII-B](core_06_rights_part_b.md#article-viii-b-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*), as the Rights-Floor owner.
+- [Article VIII-D](core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*), as the Rights-Floor owner.
 
 **Anti-bypass.** A matter within the admission scope must not be segmented into separate status, care, education, or participation questions in a way that preserves nominal Rights-Floor attachment while defeating best-interest reasoning or using age proxies to lock out participation.
 
@@ -3342,8 +3342,8 @@ See **Joint invocation and satisfaction**.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [Chapter One §6.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) (developing sentient / best-interest read-with **Article VIII-B** (*Developing Sentients, Best-Interest, and Graduated Capability*)).
-- Owner floor: [Article VIII-B](core_06_rights_part_b.md#article-viii-b-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*) — *Developing-sentient floor* bullet.
+- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [Chapter One §6.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) (developing sentient / best-interest read-with **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*)).
+- Owner floor: [Article VIII-D](core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*) — *Developing-sentient floor* bullet.
 - Cluster component: [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster).
 - Read with: the [Animal Life, Sentient Life, and Sentience Status cluster](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster), [Sentient](core_05_band_participation.md#sentient), [Derived Sentient](core_05_band_participation.md#derived-sentient-constitutional), [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e), [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional), and [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional).
 - Boundary: this entry defines *who* counts as a developing sentient and that the Rights Floor attaches in full. How participation and rights-exercise scale is owned by [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional). How decisions about them must be made is owned by [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional).
@@ -3379,7 +3379,7 @@ See **Joint invocation and satisfaction**.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floor: [Article VIII-B](core_06_rights_part_b.md#article-viii-b-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*) — *Best-interest standard* bullet.
+- Owner floor: [Article VIII-D](core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*) — *Best-interest standard* bullet.
 - Cluster component: [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster); [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent) where care, derivation, or instantiation contexts invoke best-interest.
 - Read with: [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional), [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional), [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional), and [Meaningful Agency](core_05_band_participation.md#meaningful-agency).
 </details>
@@ -3392,7 +3392,7 @@ See **Joint invocation and satisfaction**.
   - **In scope:** The substantive standard for decisions that materially affect a [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional). Those decisions must reflect the developing sentient's own interests and preferences to the extent ascertainable under their capability profile, consistent with [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), and [Self-Determination](core_05_band_participation.md#self-determination-constitutional). It binds decisions made by:
     - parents and other family members;
     - caretakers;
-    - parent-system actors under **Article VIII-A.1** (*Derivation, Instantiation, and the Parent-System Relationship*);
+    - parent-system actors under **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*);
     - operators;
     - institutions; and
     - states.
@@ -3427,7 +3427,7 @@ See **Joint invocation and satisfaction**.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floor: [Article VIII-B](core_06_rights_part_b.md#article-viii-b-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*) — *Graduated capability in governance and rights-exercise* bullet.
+- Owner floor: [Article VIII-D](core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*) — *Graduated capability in governance and rights-exercise* bullet.
 - Cluster component: [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster).
 - Read with: [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional), [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional), [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight), and [Chapter Thirteen §4.1 Entitlement and eligibility](core_13_governance.md#41-entitlement-and-eligibility) no-age-proxy discipline.
 - Boundary: this entry is the scaling rule for how a [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional) takes part and exercises rights. It does not define who counts as developing, and it does not replace [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional) for decisions made about them.

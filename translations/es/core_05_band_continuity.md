@@ -116,7 +116,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: Principios: [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency), [8.1.1 Proporcionalidad](core_01_b_interaction_interpretation.md#613-proportionality) y [9.1.4 Discontinuación voluntaria y derechos de salida](core_01_a_values_principles.md#514-voluntary-discontinuation-and-exit-rights).
-- Piso titular: [Artículo VIII-B](../../core_06_rights_part_b.md#article-vii-d-voluntary-discontinuation-of-ones-own-existence) (*Discontinuación voluntaria de la propia existencia*).
+- Piso titular: [Artículo VIII-D](../../core_06_rights_part_b.md#article-vii-d-voluntary-discontinuation-of-ones-own-existence) (*Discontinuación voluntaria de la propia existencia*).
 - Leer con: [Consentimiento](core_05_band_participation.md#consent-constitutional), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional), [Agencia significativa](core_05_band_participation.md#meaningful-agency), [Libertad (agencia acotada)](core_05_band_participation.md#freedom-bounded-agency), [Dependencia](core_05_band_continuity.md#dependency), [Viabilidad](core_05_band_accountability.md#feasibility), [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint), [Privacidad (informacional)](core_05_band_continuity.md#privacy-informational), [Límite de vigilancia](core_05_band_continuity.md#surveillance-boundary) y [Acceso de mantenimiento corporal](core_05_band_continuity.md#bodily-maintenance-access-constitutional) donde estén materialmente implicados; [Artículo III-A](../../core_06_rights_part_a.md#article-iii-a-survival) (*Supervivencia*), [Artículo III-C](../../core_06_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) (*Acceso de mantenimiento corporal y de atención sanitaria*) y [Artículo VII-C](../../core_06_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor) (*Crisis de salud mental y piso de intervención involuntaria*).
 
 </details>
@@ -146,7 +146,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
     - consentimiento ilusorio o presionado encuadrado como discontinuación voluntaria;
     - discontinuación ofrecida, enrutada u operacionalizada como sustituto del cuidado de salud mental exigido, la atención sanitaria física, el apoyo por discapacidad, la vivienda u otros esenciales de supervivencia bajo los Artículos III-A, III-C y VII-C;
     - confundir esta entrada con la [Medida de privación irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional), la terminación por terceros o las medidas prohibidas del **Artículo XXIV-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*);
-    - reetiquetar un resultado involuntario como voluntario para eludir el **Artículo VIII-B** (*Discontinuación voluntaria de la propia existencia*).
+    - reetiquetar un resultado involuntario como voluntario para eludir el **Artículo VIII-D** (*Discontinuación voluntaria de la propia existencia*).
 
 ---
 

@@ -44,6 +44,8 @@ This chapter states the **Constitutional Contract Layer**: constitutional legiti
 
 *In plain terms: this chapter states the constitutional contract for governing power — what must be true for rule-making to count as legitimate and stewardship to count as constitutional. The minimum bar lives here; most operating detail lives in implementation layers.*
 
+This section sets out the boundaries of this chapter:
+
 - It sets constitutional requirements, not full operating detail.
 - Participation, due-process, and binding-adoption gates remain anchored in Chapter Six (especially **Article XII-A** (*Stakeholder System Participation and Representation*)).
 - **General** standing measurement under **Chapter Nine** (Contribution Axis and Violation Axis — contribution **state**, violation nature, and every numeric impact slot) remains **Chapter Nine**-anchored. **Final anti-constitutional-misconduct designation** for qualifying **Violation Axis s = 7, 8, or 9** findings remains anchored in **Chapter Eleven**; Chapter Eleven does not assign or move the numeric slot.
@@ -71,6 +73,8 @@ Mechanism families, publication, auditability, and pluralism are addressed in **
 #### 1.1 Mechanism families, auditability, and pluralism
 
 *In plain terms: whoever governs must show a clear, chosen rule for how power is authorized — elections, lotteries, federation votes, **treaty, compact, or charter** processes, or hybrids — not an informal shrug. The active rules must be visible and **open to verification**; silence, mere usage, or branding cannot count as consent. When authorization rots or is captured, **sentients** need real ways to challenge it and, where possible, to renew or replace power peacefully — and different legitimate arrangements may coexist if rights and non-domination hold.*
+
+Recognized mechanism families include:
 
 - representative elections or consent renewal
 - **community-initiated early transfer or reauthorization** (*recall-class* pathways) for **continuing mandates** between ordinary selection or reauthorization events, governed by **§1.3** (*Recall-class pathways and mid-cycle transfer guardrails*)
@@ -363,6 +367,8 @@ This subsection implements **Chapter Six**, **Article X-C** (*Governance Partici
 <br>
 
 *In plain terms: rules must be clear before the fact, records **must be open to verification**, high-stakes choices need legitimacy gates — and many voting methods are allowed if **participants** can understand them and push back.*
+
+This subsection sets out the record, gate, and method-neutrality requirements for governance mechanisms:
 
 - **Publication and ex ante clarity:** Published rules must identify:
   - scope;

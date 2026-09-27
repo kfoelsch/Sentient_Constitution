@@ -81,8 +81,8 @@ Do not resolve the collision in this file.
 
 Beyond the sitting’s bounded reading path, open:
 
-- [Article VIII-B](../../../core_06_rights_part_b.md#article-viii-b-developing-sentients-best-interest-and-graduated-capability) — decisions that actually affect Sami must reflect Sami’s interests and ascertainable wishes, not household convenience; voice is sought to the extent Sami can give it
-- [Non-Separation](../../../core_05_band_participation.md#non-separation-constitutional); [Article VIII-A](../../../core_06_rights_part_b.md#article-viii-a-family-care-relationships-reproductive-autonomy-and-non-separation)
+- [Article VIII-D](../../../core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) — decisions that actually affect Sami must reflect Sami’s interests and ascertainable wishes, not household convenience; voice is sought to the extent Sami can give it
+- [Non-Separation](../../../core_05_band_participation.md#non-separation-constitutional); [Article VIII-A](../../../core_06_rights_part_b.md#article-viii-a-family-and-care-relationships); [Article VIII-E](../../../core_06_rights_part_b.md#article-viii-e-non-separation)
 - [Article XIII-B](../../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) if the statement is dropped from the file
 - [CI-15](../../../corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md) only if the facts show the format of asking Sami is unusable; do not invent a diagnosis
 

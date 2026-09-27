@@ -1325,14 +1325,14 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 **Contexto semiindependiente** (las definiciones componente pueden seguir operando fuera del ámbito de invocación conjunta):
 
 - **Invocación conjunta:** donde sean materiales las relaciones familiares o de cuidado elegidas, las elecciones reproductivas o de formación de familia, la separación forzada, o la creación sintética, híbrida o controlada por operador de sencientes nuevos.
-- **Ámbito:** donde se cumpla la invocación conjunta, el hogar de Participación para la familia y el cuidado elegidos, las elecciones reproductivas y de formación de familia, los límites a la separación forzada, y la creación sintética, híbrida o controlada por operador de sencientes nuevos. El embarazo y el parto ordinarios permanecen bajo la autonomía reproductiva y, después de que existe un hijo, el cuidado de sencientes en desarrollo — no la responsabilidad de Consentimiento de instanciación. El estatus de senciente en desarrollo, las decisiones de interés superior y la capacidad graduada viven en [**Def.P4** *Senciente en desarrollo, estándar del interés superior y capacidad graduada*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) bajo el [Artículo V-F](../../core_06_rights_part_b.md#article-viii-b-developing-sentients-best-interest-and-graduated-capability) (*Sencientes en desarrollo, interés superior y capacidad graduada*).
-- **Piso titular:** implementa el [Artículo VIII-A](../../core_06_rights_part_b.md#article-viii-a-family-care-relationships-reproductive-autonomy-and-non-separation) (*Familia, relaciones de cuidado, autonomía reproductiva y no separación*).
+- **Ámbito:** donde se cumpla la invocación conjunta, el hogar de Participación para la familia y el cuidado elegidos, las elecciones reproductivas y de formación de familia, los límites a la separación forzada, y la creación sintética, híbrida o controlada por operador de sencientes nuevos. El embarazo y el parto ordinarios permanecen bajo la autonomía reproductiva y, después de que existe un hijo, el cuidado de sencientes en desarrollo — no la responsabilidad de Consentimiento de instanciación. El estatus de senciente en desarrollo, las decisiones de interés superior y la capacidad graduada viven en [**Def.P4** *Senciente en desarrollo, estándar del interés superior y capacidad graduada*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) bajo el [Artículo V-F](../../core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Sencientes en desarrollo, interés superior y capacidad graduada*).
+- **Piso titular:** implementa el [Artículo VIII-A](../../core_06_rights_part_b.md#article-viii-a-family-and-care-relationships) (*Familia, relaciones de cuidado, autonomía reproductiva y no separación*).
 
 **Miembros del grupo de temas.** Este grupo comprende:
 - [Relaciones familiares y de cuidado](core_05_band_participation.md#family-and-care-relationships-constitutional) — relaciones de apoyo e intimidad que los sencientes eligen.
 - [Autonomía reproductiva](core_05_band_participation.md#reproductive-autonomy-constitutional) — toma de decisiones sobre elecciones reproductivas y de creación de linaje.
 - [No separación](core_05_band_participation.md#non-separation-constitutional) — límites a la separación forzada de relaciones de cuidado protegidas.
-- [*Derivación, instanciación y la relación con el sistema progenitor*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) — subgrupo anidado VIII-A.1 para la creación y la administración responsable del creador:
+- [*Derivación, instanciación y la relación con el sistema progenitor*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) — subgrupo anidado VIII-C para la creación y la administración responsable del creador:
   - [Senciente derivado](core_05_band_participation.md#derived-sentient-constitutional) — quién fue creado por derivación;
   - [Consentimiento de instanciación](core_05_band_participation.md#instantiation-consent-constitutional) — reglas de consentimiento e interés superior para la creación sintética, híbrida o controlada por operador de un senciente nuevo; y
   - [Relación con el sistema progenitor](core_05_band_participation.md#parent-system-relationship-constitutional) — lo que el creador puede y no puede hacer.
@@ -1349,7 +1349,7 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
-- Piso titular: [Artículo VIII-A](../../core_06_rights_part_b.md#article-viii-a-family-care-relationships-reproductive-autonomy-and-non-separation) (*Familia, relaciones de cuidado, autonomía reproductiva y no separación*).
+- Piso titular: [Artículo VIII-A](../../core_06_rights_part_b.md#article-viii-a-family-and-care-relationships) (*Familia, relaciones de cuidado, autonomía reproductiva y no separación*).
 - Componente de agrupación: [Familia, cuidado, autonomía reproductiva e instanciación](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent); leer con [*Derivación, instanciación y la relación con el sistema progenitor*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) donde el cuidado de derivación o de sistema progenitor esté materialmente implicado.
 </details>
 
@@ -1388,7 +1388,7 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
-- Piso titular: [Artículo VIII-A](../../core_06_rights_part_b.md#article-viii-a-family-care-relationships-reproductive-autonomy-and-non-separation) (*Familia, relaciones de cuidado, autonomía reproductiva y no separación*) — viñeta *Autonomía reproductiva y de linaje*; leer con el **Artículo VIII-A.1** (*Derivación, instanciación y la relación con el sistema progenitor*) donde la derivación, la instanciación o las relaciones con el sistema progenitor estén materialmente implicadas.
+- Piso titular: [Artículo VIII-A](../../core_06_rights_part_b.md#article-viii-a-family-and-care-relationships) (*Familia, relaciones de cuidado, autonomía reproductiva y no separación*) — viñeta *Autonomía reproductiva y de linaje*; leer con el **Artículo VIII-C** (*Derivación, instanciación y la relación con el sistema progenitor*) donde la derivación, la instanciación o las relaciones con el sistema progenitor estén materialmente implicadas.
 - Componente de agrupación: [Familia, cuidado, autonomía reproductiva e instanciación](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent); [**Def.P3** *Autodeterminación, agencia significativa, expresión, agencia educativa e integridad volitiva](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster)* donde el enrutamiento de autonomía y agencia aplique de forma material.
 - Leer con: [Consentimiento](core_05_band_participation.md#consent-constitutional), [Agencia significativa](core_05_band_participation.md#meaningful-agency), [Relaciones familiares y de cuidado](core_05_band_participation.md#family-and-care-relationships-constitutional), [No separación](core_05_band_participation.md#non-separation-constitutional), [Consentimiento de instanciación](core_05_band_participation.md#instantiation-consent-constitutional), [Relación con el sistema progenitor](core_05_band_participation.md#parent-system-relationship-constitutional), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing) y [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
 - Frontera: la autopropiedad general del cuerpo y de la mente permanece bajo el **Artículo VII-A** (*Autopropiedad del cuerpo y de la mente*) / **Artículo VII-B** (*Frontera del estado interno y protección de tipo N*). Esta entrada no reenuncia ni estrecha esos pisos.
@@ -1440,7 +1440,7 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
-- Piso titular: [Artículo VIII-A](../../core_06_rights_part_b.md#article-viii-a-family-care-relationships-reproductive-autonomy-and-non-separation) (*Familia, relaciones de cuidado, autonomía reproductiva y no separación*).
+- Piso titular: [Artículo VIII-A](../../core_06_rights_part_b.md#article-viii-a-family-and-care-relationships) (*Familia, relaciones de cuidado, autonomía reproductiva y no separación*).
 - Componente de agrupación: [Familia, cuidado, autonomía reproductiva e instanciación](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent); [**Def.P4** *Senciente en desarrollo, estándar del interés superior y capacidad graduada*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) donde la separación de sencientes en desarrollo esté materialmente implicada; [*Derivación, instanciación y la relación con el sistema progenitor*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) donde la separación de sencientes derivados esté materialmente implicada.
 </details>
 
@@ -1493,7 +1493,7 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 <a id="derivation-instantiation-and-the-parent-system-relationship"></a>
 ##### Derivación, instanciación y la relación con el sistema progenitor
 
-Este sub-bloque anidado es el hogar conjunto de las definiciones de creación y de administración responsable del creador del **Artículo VIII-A.1** (*Derivación, instanciación y la relación con el sistema progenitor*) dentro del grupo de temas Familia — no una agrupación Def.P separada.
+Este sub-bloque anidado es el hogar conjunto de las definiciones de creación y de administración responsable del creador del **Artículo VIII-C** (*Derivación, instanciación y la relación con el sistema progenitor*) dentro del grupo de temas Familia — no una agrupación Def.P separada.
 
 **Miembros del sub-bloque.** Este sub-bloque comprende:
 
@@ -1510,8 +1510,8 @@ Este sub-bloque anidado es el hogar conjunto de las definiciones de creación y 
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
-- Destino: Principios: [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency); [3. Objetivo fundacional: bienestar](core_01_a_values_principles.md#2-foundational-objective-wellbeing) (lectura conjunta de derivación / dignidad con la pila del **Artículo VIII-A.1** (*Derivación, instanciación y la relación con el sistema progenitor*)).
-- Piso titular: [Artículo VIII-A.1](../../core_06_rights_part_b.md#article-viii-a1-derivation-instantiation-and-the-parent-system-relationship) (*Derivación, instanciación y la relación con el sistema progenitor*).
+- Destino: Principios: [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency); [3. Objetivo fundacional: bienestar](core_01_a_values_principles.md#2-foundational-objective-wellbeing) (lectura conjunta de derivación / dignidad con la pila del **Artículo VIII-C** (*Derivación, instanciación y la relación con el sistema progenitor*)).
+- Piso titular: [Artículo VIII-C](../../core_06_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship) (*Derivación, instanciación y la relación con el sistema progenitor*).
 - Componente de agrupación: [*Derivación, instanciación y la relación con el sistema progenitor*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) sub-bloque anidado dentro de [Familia, cuidado, autonomía reproductiva e instanciación](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent).
 - Leer con: la [agrupación Vida animal, vida senciente y estatus de sentiencia](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster), [Senciente](core_05_band_participation.md#sentient), [Senciente en desarrollo](core_05_band_participation.md#developing-sentient-constitutional), [Evaluación de sentiencia](core_05_band_participation.md#sentience-evaluation-e), [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion), [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing), [Relación con el sistema progenitor](core_05_band_participation.md#parent-system-relationship-constitutional) y [Consentimiento de instanciación](core_05_band_participation.md#instantiation-consent-constitutional).
 </details>
@@ -1560,7 +1560,7 @@ Este sub-bloque anidado es el hogar conjunto de las definiciones de creación y 
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
-- Pisos titulares: [Artículo VIII-A](../../core_06_rights_part_b.md#article-viii-a-family-care-relationships-reproductive-autonomy-and-non-separation) (*Familia, relaciones de cuidado, autonomía reproductiva y no separación*); [Artículo VIII-A.1: Derivación, instanciación y la relación con el sistema progenitor](../../core_06_rights_part_b.md#article-viii-a1-derivation-instantiation-and-the-parent-system-relationship).
+- Pisos titulares: [Artículo VIII-A](../../core_06_rights_part_b.md#article-viii-a-family-and-care-relationships) (*Familia, relaciones de cuidado, autonomía reproductiva y no separación*); [Artículo VIII-C: Derivación, instanciación y la relación con el sistema progenitor](../../core_06_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship).
 - Componente de agrupación: [*Derivación, instanciación y la relación con el sistema progenitor*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) sub-bloque anidado dentro de [Familia, cuidado, autonomía reproductiva e instanciación](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent).
 - Frontera: la concepción biológica ordinaria, el embarazo, la gestación y el parto se enrutan a [Autonomía reproductiva](core_05_band_participation.md#reproductive-autonomy-constitutional); el cuidado después de que existe un hijo se enruta a [**Def.P4** *Estándar del interés superior*](core_05_band_participation.md#best-interest-standard-constitutional) / [Senciente en desarrollo](core_05_band_participation.md#developing-sentient-constitutional).
 </details>
@@ -1617,7 +1617,7 @@ Este sub-bloque anidado es el hogar conjunto de las definiciones de creación y 
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
-- Piso titular: [Artículo VIII-A.1: Derivación, instanciación y la relación con el sistema progenitor](../../core_06_rights_part_b.md#article-viii-a1-derivation-instantiation-and-the-parent-system-relationship).
+- Piso titular: [Artículo VIII-C: Derivación, instanciación y la relación con el sistema progenitor](../../core_06_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship).
 - Componente de agrupación: [*Derivación, instanciación y la relación con el sistema progenitor*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) sub-bloque anidado dentro de [Familia, cuidado, autonomía reproductiva e instanciación](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent).
 </details>
 
@@ -3291,8 +3291,8 @@ Véase **Invocación conjunta y satisfacción**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Piso titular: [Artículo V-F](../../core_06_rights_part_b.md#article-viii-b-developing-sentients-best-interest-and-graduated-capability) (*Sencientes en desarrollo, interés superior y capacidad graduada*).
-- Leer con: [Artículo V-F.1](../../core_06_rights_part_b.md#article-viii-a1-derivation-instantiation-and-the-parent-system-relationship) (*Sencientes derivados en desarrollo*); [Familia, cuidado, autonomía reproductiva e instanciación](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent) donde contextos de cuidado, derivación o instanciación invocan esta agrupación; [Senciente derivado](core_05_band_participation.md#derived-sentient-constitutional); [Consentimiento de instanciación](core_05_band_participation.md#instantiation-consent-constitutional); [Relación con el sistema progenitor](core_05_band_participation.md#parent-system-relationship-constitutional).
+- Piso titular: [Artículo V-F](../../core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Sencientes en desarrollo, interés superior y capacidad graduada*).
+- Leer con: [Artículo V-F.1](../../core_06_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship) (*Sencientes derivados en desarrollo*); [Familia, cuidado, autonomía reproductiva e instanciación](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent) donde contextos de cuidado, derivación o instanciación invocan esta agrupación; [Senciente derivado](core_05_band_participation.md#derived-sentient-constitutional); [Consentimiento de instanciación](core_05_band_participation.md#instantiation-consent-constitutional); [Relación con el sistema progenitor](core_05_band_participation.md#parent-system-relationship-constitutional).
 - Marco constitucional: pata **Participación**; finalidad **Florecimiento** (primaria); escala con el [enjuego material](core_00_preamble.md#material-stake) vía [Determinación de materialidad](core_05_band_oversight.md#materiality-determination).
 - Base del Capítulo Uno: Capítulo Uno §5, §5.1, §8.1 (véase el mapa de la [brújula del Capítulo Cinco](core_05__definitions_home.md#chapter-five-compass-and-definition-map)).
 
@@ -3321,7 +3321,7 @@ Impide que los encuadres de estatus, de interés superior y de escalamiento se s
 - [Senciente en desarrollo](core_05_band_participation.md#developing-sentient-constitutional) — quién cuenta como aún emergente en capacidad; el Piso de Derechos pleno se adhiere;
 - [Estándar del interés superior](core_05_band_participation.md#best-interest-standard-constitutional) — cómo deben tomarse las decisiones sobre ellas;
 - [Capacidad graduada](core_05_band_participation.md#graduated-capability-constitutional) — cómo la participación y el ejercicio de derechos escalan a medida que se desarrolla la capacidad;
-- [Artículo V-F](../../core_06_rights_part_b.md#article-viii-b-developing-sentients-best-interest-and-graduated-capability) (*Sencientes en desarrollo, interés superior y capacidad graduada*), como titular del Piso de Derechos.
+- [Artículo V-F](../../core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Sencientes en desarrollo, interés superior y capacidad graduada*), como titular del Piso de Derechos.
 
 **Antielusión.** Un asunto dentro del alcance de admisión no debe segmentarse en preguntas separadas de estatus, cuidado, educación o participación de un modo que conserve la adhesión nominal al Piso de Derechos mientras derrota el razonamiento de interés superior o usa proxies de edad para cerrar la participación.
 
@@ -3339,7 +3339,7 @@ Véase **Invocación conjunta y satisfacción**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 - Destino: Principios: [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency); [§6.1.5 Prueba de decisión de colisión de derechos](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) (senciente en desarrollo / interés superior leído con el **Artículo V-F** (*Sencientes en desarrollo, interés superior y capacidad graduada*)).
-- Piso titular: [Artículo V-F](../../core_06_rights_part_b.md#article-viii-b-developing-sentients-best-interest-and-graduated-capability) (*Sencientes en desarrollo, interés superior y capacidad graduada*) — viñeta *Piso de senciente en desarrollo*.
+- Piso titular: [Artículo V-F](../../core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Sencientes en desarrollo, interés superior y capacidad graduada*) — viñeta *Piso de senciente en desarrollo*.
 - Componente de agrupación: [**Def.P4** *Senciente en desarrollo, estándar del interés superior y capacidad graduada*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster).
 - Leer con: la [agrupación Vida animal, vida senciente y estatus de sentiencia](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster), [Senciente](core_05_band_participation.md#sentient), [Senciente derivado](core_05_band_participation.md#derived-sentient-constitutional), [Evaluación de sentiencia](core_05_band_participation.md#sentience-evaluation-e), [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion), [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing), [Estándar del interés superior](core_05_band_participation.md#best-interest-standard-constitutional) y [Capacidad graduada](core_05_band_participation.md#graduated-capability-constitutional).
 - Límite: esta entrada define *quién* cuenta como senciente en desarrollo y que el Piso de Derechos se adhiere en plenitud. Cómo escala la participación y el ejercicio de derechos lo titulariza [Capacidad graduada](core_05_band_participation.md#graduated-capability-constitutional). Cómo deben tomarse las decisiones sobre ellas lo titulariza [Estándar del interés superior](core_05_band_participation.md#best-interest-standard-constitutional).
@@ -3376,7 +3376,7 @@ Véase **Invocación conjunta y satisfacción**.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
-- Piso titular: [Artículo V-F](../../core_06_rights_part_b.md#article-viii-b-developing-sentients-best-interest-and-graduated-capability) (*Sencientes en desarrollo, interés superior y capacidad graduada*) — viñeta *Estándar del interés superior*.
+- Piso titular: [Artículo V-F](../../core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Sencientes en desarrollo, interés superior y capacidad graduada*) — viñeta *Estándar del interés superior*.
 - Componente de agrupación: [**Def.P4** *Senciente en desarrollo, estándar del interés superior y capacidad graduada*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster); [Familia, cuidado, autonomía reproductiva e instanciación](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent) donde contextos de cuidado, derivación o instanciación invocan el interés superior.
 - Leer con: [Senciente en desarrollo](core_05_band_participation.md#developing-sentient-constitutional), [Capacidad graduada](core_05_band_participation.md#graduated-capability-constitutional), [Relación con el sistema progenitor](core_05_band_participation.md#parent-system-relationship-constitutional) y [Agencia significativa](core_05_band_participation.md#meaningful-agency).
 </details>
@@ -3389,7 +3389,7 @@ Véase **Invocación conjunta y satisfacción**.
   - **En alcance:** El estándar sustantivo para las decisiones que afectan de forma material a un [Senciente en desarrollo](core_05_band_participation.md#developing-sentient-constitutional). Esas decisiones deben reflejar los propios intereses y preferencias del senciente en desarrollo en la medida discernibles bajo su perfil de capacidad, de forma consistente con [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing), [Agencia significativa](core_05_band_participation.md#meaningful-agency) y [Autodeterminación](core_05_band_participation.md#self-determination-constitutional). Vincula las decisiones tomadas por:
     - progenitores y otros miembros de la familia;
     - cuidadores;
-    - actores del sistema progenitor bajo el **Artículo VIII-A.1** (*Derivación, instanciación y la relación con el sistema progenitor*);
+    - actores del sistema progenitor bajo el **Artículo VIII-C** (*Derivación, instanciación y la relación con el sistema progenitor*);
     - operadores;
     - instituciones; y
     - Estados.
@@ -3425,7 +3425,7 @@ Véase **Invocación conjunta y satisfacción**.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
-- Piso titular: [Artículo V-F](../../core_06_rights_part_b.md#article-viii-b-developing-sentients-best-interest-and-graduated-capability) (*Sencientes en desarrollo, interés superior y capacidad graduada*) — viñeta *Capacidad graduada en gobernanza y ejercicio de derechos*.
+- Piso titular: [Artículo V-F](../../core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Sencientes en desarrollo, interés superior y capacidad graduada*) — viñeta *Capacidad graduada en gobernanza y ejercicio de derechos*.
 - Componente de agrupación: [**Def.P4** *Senciente en desarrollo, estándar del interés superior y capacidad graduada*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster).
 - Leer con: [Senciente en desarrollo](core_05_band_participation.md#developing-sentient-constitutional), [Estándar del interés superior](core_05_band_participation.md#best-interest-standard-constitutional), [Peso de las partes afectadas](core_05_band_participation.md#stakeholder-weight) y la disciplina de no-proxy-de-edad del [Capítulo Doce Capítulo Uno §4.1](../../core_13_governance.md#41-entitlement-and-eligibility).
 - Límite: esta entrada es la regla de escalamiento de cómo un [Senciente en desarrollo](core_05_band_participation.md#developing-sentient-constitutional) toma parte y ejerce derechos. No define quién cuenta como en desarrollo, y no reemplaza el [Estándar del interés superior](core_05_band_participation.md#best-interest-standard-constitutional) para las decisiones tomadas sobre ellas.

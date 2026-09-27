@@ -11,7 +11,7 @@ Carve-out: Chapter Five definition files (``core_05_*.md``) are excluded —
 their entries open with O / E / C bullets by design (see
 ``ch5_entry_format_audit.py``).
 
-Rule ID: MD-SECTION-LEAD-01 (advisory; not yet in ``make regression``).
+Rule ID: MD-SECTION-LEAD-01 (blocking; part of ``make regression``).
 """
 
 from __future__ import annotations

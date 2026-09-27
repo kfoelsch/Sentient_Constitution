@@ -126,7 +126,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     **Primary assessment:** Verify genuine voluntariness:
     - adequate information, time, reviewability, and reversibility up to irreversible execution consistent with the reversibility-under-uncertainty rule;
     - detect dependency pressure, manipulation, rushed framing, and care-substitute routing where discontinuation is offered or operationalized instead of required mental-health care, physical healthcare, disability support, housing, or other survival essentials under Articles III-A, III-B, and VII-C;
-    - apply [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional) for [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional) cases under **Article VIII-B** (*Developing Sentients, Best-Interest, and Graduated Capability*).
+    - apply [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional) for [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional) cases under **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*).
 <a id="voluntary-discontinuation-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:**

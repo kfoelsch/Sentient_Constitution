@@ -3,7 +3,7 @@
   "effective_date": "2026-08-09",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
-  "article_count": 129,
+  "article_count": 131,
   "articles": [
     {
       "title": "Article I: Environmental Survival",
@@ -290,38 +290,54 @@
       "file": "core_06_rights_part_b.md",
       "anchor": "article-viii-family-care-and-developing-sentients",
       "line": 556,
-      "plain_terms": "**Article VIII** (*Family, Care, and Developing Sentients*) protects the relationships sentients depend on and the sentients who are still growing. Every sentient may choose their own family and care relationships and decide whether to bring new sentients into being; no one may be separated from those they depend on without strong, reviewed reasons; a sentient created from another system is its own being, not property; and children and other developing sentients hold full rights, with decisions about them made in their own interest and their independence growing with their abilities.",
+      "plain_terms": "**Article VIII** (*Family, Care, and Developing Sentients*) protects the relationships sentients depend on and the sentients who are still growing. Every sentient may choose their own family and care relationships. They may also decide whether to bring new sentients into being. No one may be separated from those they depend on without strong reasons that have been reviewed. A sentient created from another system is its own being, not property. Children and other developing sentients hold full rights. Decisions about them must serve their own interests, and their independence grows with their abilities.",
       "href": "../../core_06_rights_part_b.md#article-viii-family-care-and-developing-sentients"
     },
     {
-      "title": "Article VIII-A: Family, Care Relationships, Reproductive Autonomy, and Non-Separation",
+      "title": "Article VIII-A: Family and Care Relationships",
       "file": "core_06_rights_part_b.md",
-      "anchor": "article-viii-a-family-care-relationships-reproductive-autonomy-and-non-separation",
-      "line": 586,
-      "plain_terms": "every sentient may form, keep, and leave the family and care relationships they choose, whatever shape those families take. They decide for themselves whether to have children or create new sentients, free from pressure by governments or companies. No one may be separated from someone they care for or depend on — such as a child from a parent — without a strong reason that is independently reviewed, and anyone wrongly separated is entitled to a remedy.",
-      "href": "../../core_06_rights_part_b.md#article-viii-a-family-care-relationships-reproductive-autonomy-and-non-separation"
+      "anchor": "article-viii-a-family-and-care-relationships",
+      "line": 589,
+      "plain_terms": "every sentient may form, keep, and leave the family and care relationships they choose, whatever shape those families take. Being someone's family never gives anyone ownership of them or control over their body or mind.",
+      "href": "../../core_06_rights_part_b.md#article-viii-a-family-and-care-relationships"
     },
     {
-      "title": "Article VIII-A.1: Derivation, Instantiation, and the Parent-System Relationship",
+      "title": "Article VIII-B: Reproductive and Lineage Autonomy",
       "file": "core_06_rights_part_b.md",
-      "anchor": "article-viii-a1-derivation-instantiation-and-the-parent-system-relationship",
-      "line": 646,
+      "anchor": "article-viii-b-reproductive-and-lineage-autonomy",
+      "line": 624,
+      "plain_terms": "every sentient decides for themselves whether to have children or create new sentients — including whether to carry a pregnancy, adopt, or create a synthetic being — free from pressure by governments, companies, or systems they depend on. The same rules apply however a new sentient comes into being, and any limit needs a strong, fair reason; cost, convenience, or population targets are never enough. Forcing someone to become or stay pregnant violates this right.",
+      "href": "../../core_06_rights_part_b.md#article-viii-b-reproductive-and-lineage-autonomy"
+    },
+    {
+      "title": "Article VIII-C: Derivation, Instantiation, and the Parent-System Relationship",
+      "file": "core_06_rights_part_b.md",
+      "anchor": "article-viii-c-derivation-instantiation-and-the-parent-system-relationship",
+      "line": 664,
       "plain_terms": "a new sentient made by copying, retraining, or branching off an existing system is its own being, not the property of whoever made it. Its creator may look after it and guide it for a short, reviewable period while it grows, but may not own it, rewrite its mind at will, quietly shut it down, or point to fine print such as a terms-of-service agreement as its consent. Creating new sentients in ways that cannot meet their basic rights — for example, in huge numbers or into harmful conditions — is not allowed; ordinary pregnancy and birth are not affected by this rule.",
-      "href": "../../core_06_rights_part_b.md#article-viii-a1-derivation-instantiation-and-the-parent-system-relationship"
+      "href": "../../core_06_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship"
     },
     {
-      "title": "Article VIII-B: Developing Sentients, Best-Interest, and Graduated Capability",
+      "title": "Article VIII-D: Developing Sentients, Best-Interest, and Graduated Capability",
       "file": "core_06_rights_part_b.md",
-      "anchor": "article-viii-b-developing-sentients-best-interest-and-graduated-capability",
-      "line": 684,
+      "anchor": "article-viii-d-developing-sentients-best-interest-and-graduated-capability",
+      "line": 728,
       "plain_terms": "a sentient who is still growing up or developing — whether a child or a newly created system — has all the same basic rights as anyone else. Decisions about them must truly serve their interests and take their wishes into account, not the convenience of parents, carers, or companies. They gain more say and independence as they show they are ready, not at a fixed age, and \"it's for your own good\" is never enough by itself to justify restricting them.",
-      "href": "../../core_06_rights_part_b.md#article-viii-b-developing-sentients-best-interest-and-graduated-capability"
+      "href": "../../core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability"
+    },
+    {
+      "title": "Article VIII-E: Non-Separation",
+      "file": "core_06_rights_part_b.md",
+      "anchor": "article-viii-e-non-separation",
+      "line": 783,
+      "plain_terms": "no one may be separated from someone they care for or depend on — such as a child from a parent, an adult from a dependent family member, or a newly created sentient from the care it relies on — without a strong reason that is independently reviewed. Whoever wants the separation must prove it is needed, long separations must be reviewed regularly, and anyone wrongly separated is entitled to a remedy.",
+      "href": "../../core_06_rights_part_b.md#article-viii-e-non-separation"
     },
     {
       "title": "Article IX: Likeness, Experiential Data, and Publication Rights",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-ix-likeness-experiential-data-and-publication-rights",
-      "line": 745,
+      "line": 824,
       "plain_terms": "**Article IX** (*Likeness, Experiential Data, and Publication Rights*) is the likeness, data, and publication Rights Floor — your face, voice, reputation, personal experiences, and public portrayal stay under your control unless you consent or genuine factual reporting applies; others cannot freely impersonate you, mine your life for data, or spread harmful misrepresentation in your name.",
       "href": "../../core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights"
     },
@@ -329,7 +345,7 @@
       "title": "Article IX-A: Self-Ownership of Likeness and Reputation",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-ix-a-self-ownership-of-likeness-and-reputation",
-      "line": 775,
+      "line": 854,
       "plain_terms": "every sentient owns their reputation and their likeness. Others may use a sentient's image, voice, or recognizable depiction only with consent or for genuine factual reporting — not for impersonation, identity-targeted generation, or scoring.",
       "href": "../../core_06_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation"
     },
@@ -337,7 +353,7 @@
       "title": "Article IX-B: Experiential and Derived Data Rights",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-ix-b-experiential-and-derived-data-rights",
-      "line": 817,
+      "line": 896,
       "plain_terms": "each sentient owns their own experience of an interaction — but no one owns the shared event itself, and no one may use experience-data as a back door into someone else's protected internal states.",
       "href": "../../core_06_rights_part_b.md#article-ix-b-experiential-and-derived-data-rights"
     },
@@ -345,7 +361,7 @@
       "title": "Article IX-C: Truthful Publication and High-Impact Publication Limits",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-ix-c-truthful-publication-and-high-impact-publication-limits",
-      "line": 865,
+      "line": 944,
       "plain_terms": "sentients are free to publish what they reasonably believe is true, in good faith — but even accurate publication can be limited when its main effect is to enable targeted harm, coordinated manipulation, or cascading damage to the info-sphere.",
       "href": "../../core_06_rights_part_b.md#article-ix-c-truthful-publication-and-high-impact-publication-limits"
     },
@@ -353,7 +369,7 @@
       "title": "Article IX-D: Creative Work, Training-Data Use, and Anti-Displacement",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-ix-d-creative-work-training-data-use-and-anti-displacement",
-      "line": 912,
+      "line": 991,
       "plain_terms": "creators get real attribution and compensation for their work, including when it is used as training data; \"fair use,\" \"transformative,\" or \"innovation\" framings do not erase those obligations, and creative labor must not be silently displaced.",
       "href": "../../core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement"
     },
@@ -361,7 +377,7 @@
       "title": "Article X: Self-Determination and Agency",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-x-self-determination-and-agency",
-      "line": 971,
+      "line": 1050,
       "plain_terms": "**Article X** (*Self-Determination and Agency*) is the self-determination and agency Rights Floor — sentients must be able to make real, informed choices about their lives, hold their own beliefs, speak, gather, and report, participate proportionately in systems that affect them, and hold equal weight in foundational governance — without manipulation, designed capture, or unjustified exclusion.",
       "href": "../../core_06_rights_part_b.md#article-x-self-determination-and-agency"
     },
@@ -369,7 +385,7 @@
       "title": "Article X-A: Agency and Freedom from Manipulation",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-x-a-agency-and-freedom-from-manipulation",
-      "line": 1013,
+      "line": 1092,
       "plain_terms": "sentients have the right to make real, informed decisions about themselves — and to be free from surveillance, manipulation, and designed attention-capture that bypasses conscious choice.",
       "href": "../../core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation"
     },
@@ -377,7 +393,7 @@
       "title": "Article X-B: Stakeholder Role and Participation Rights",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-x-b-stakeholder-role-and-participation-rights",
-      "line": 1046,
+      "line": 1125,
       "plain_terms": "if a system materially affects a sentient — directly or through dependency — that sentient has the right to a proportionate voice in how it is run, and to contest being excluded or under-weighted.",
       "href": "../../core_06_rights_part_b.md#article-x-b-stakeholder-role-and-participation-rights"
     },
@@ -385,7 +401,7 @@
       "title": "Article X-C: Governance Participation and Voting Entitlement",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-x-c-governance-participation-and-voting-entitlement",
-      "line": 1088,
+      "line": 1167,
       "plain_terms": "every sentient gets a vote on foundational constitutional choice — who holds authority, under what legitimacy mechanism, and on what terms — and that vote carries equal weight. Substrate, age, or lineage cannot reduce it.",
       "href": "../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement"
     },
@@ -393,7 +409,7 @@
       "title": "Article X-D: Inclusion and Exclusion Challenge Rights",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-x-d-inclusion-and-exclusion-challenge-rights",
-      "line": 1122,
+      "line": 1201,
       "plain_terms": "when participation boundaries matter to **sentients** or **affected** **parties** outside a private unit, a system cannot be the sole judge of who counts as its stakeholder — inclusion and exclusion must be auditable and open to outside challenge. For systems that **validly** remain **Class P** under **CS-3 — System classification and handling**, that bar is proportionate to private scope: operator discretion over who is in or out of the unit is normal, while reclassification, material externalization, and ordinary rights and adjudication routes still apply.",
       "href": "../../core_06_rights_part_b.md#article-x-d-inclusion-and-exclusion-challenge-rights"
     },
@@ -401,7 +417,7 @@
       "title": "Article X-E: Institutional Formation and Business Creation",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-x-e-institutional-formation-and-business-creation",
-      "line": 1160,
+      "line": 1239,
       "plain_terms": "anyone can start something new — a school, a research group, a mutual-aid network, a cooperative, or a business — not only join what already exists. Licensing, capital, or paperwork barriers that look open on paper but shut out new or disfavored founders fail this test.",
       "href": "../../core_06_rights_part_b.md#article-x-e-institutional-formation-and-business-creation"
     },
@@ -409,7 +425,7 @@
       "title": "Article X-F: Freedom of conscience, religion, and comparable worldview",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-x-f-freedom-of-conscience-religion-and-comparable-worldview",
-      "line": 1205,
+      "line": 1284,
       "plain_terms": "public authority is secular and may not establish or favor any religion or worldview, but every sentient is free to hold, change, practice, or abstain from beliefs, alone or in community.",
       "href": "../../core_06_rights_part_b.md#article-x-f-freedom-of-conscience-religion-and-comparable-worldview"
     },
@@ -417,7 +433,7 @@
       "title": "Article X-G: Expression, Assembly, and Press",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-x-g-expression-assembly-and-press",
-      "line": 1251,
+      "line": 1330,
       "plain_terms": "every sentient may speak, gather, and report — and journalism gets extra protection because of what it does, not who holds a press card. Surveillance, retaliation, and access-gating that quietly silence protected activity are not allowed.",
       "href": "../../core_06_rights_part_b.md#article-x-g-expression-assembly-and-press"
     },
@@ -425,7 +441,7 @@
       "title": "Article XI: Cooperative Interaction",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xi-cooperative-interaction",
-      "line": 1320,
+      "line": 1399,
       "plain_terms": "**Article XI** (*Cooperative Interaction*) is the cooperative interaction Rights Floor — sentients must be free to work and live together by real consent, without unwanted imposition, harassment, or designed capture — and freedom of action stops where verifiable material harm begins.",
       "href": "../../core_06_rights_part_b.md#article-xi-cooperative-interaction"
     },
@@ -433,7 +449,7 @@
       "title": "Article XI-A: Non-Imposition and Consent in Association",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xi-a-non-imposition-and-consent-in-association",
-      "line": 1359,
+      "line": 1438,
       "plain_terms": "no one may push their beliefs or unwanted contact on others, and cooperative ventures must rest on real consent. Persistent harassment, manipulation, and designed attention-capture inside relationships are violations even without a classic coercive act.",
       "href": "../../core_06_rights_part_b.md#article-xi-a-non-imposition-and-consent-in-association"
     },
@@ -441,7 +457,7 @@
       "title": "Article XI-B: Collective Harm Boundary and Enforcement Interface",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xi-b-collective-harm-boundary-and-enforcement-interface",
-      "line": 1403,
+      "line": 1482,
       "plain_terms": "freedom of action stops where verifiable material harm begins. Offense or disagreement alone is not enough; harm must run through a real material-impact pathway — including cumulative hostile-environment patterns that degrade participation, and especially where dependency, exit cost, or power asymmetry make the environment hard to leave.",
       "href": "../../core_06_rights_part_b.md#article-xi-b-collective-harm-boundary-and-enforcement-interface"
     },
@@ -449,7 +465,7 @@
       "title": "Article XI-C: Adult consensual commercial sexual services and sexual exploitation",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xi-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation",
-      "line": 1450,
+      "line": 1529,
       "plain_terms": "adults who voluntarily buy or sell sexual services are not criminals, but exploitation — of minors, of **sentients** without **decision-making** **capacity**, or under coercion or trafficking — remains fully prohibited. Licensing, zoning, or civil rules cannot be used as a back door to re-criminalize the protected activity.",
       "href": "../../core_06_rights_part_b.md#article-xi-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation"
     },
@@ -457,7 +473,7 @@
       "title": "Article XII: Stakeholder System Participation, Representation, and Due Process",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xii-stakeholder-system-participation-representation-and-due-process",
-      "line": 1514,
+      "line": 1593,
       "plain_terms": "**Article XII** (*Stakeholder System Participation, Representation, and Due Process*) is the stakeholder participation and due process Rights Floor — when a system materially affects you, you get a real voice, not token consultation — and high-stakes decisions must be explained on the record and open to fair challenge.",
       "href": "../../core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process"
     },
@@ -465,7 +481,7 @@
       "title": "Article XII-A: Stakeholder System Participation and Representation",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xii-a-stakeholder-system-participation-and-representation",
-      "line": 1564,
+      "line": 1643,
       "plain_terms": "decisions that materially affect sentients must be explained on the record and open to real challenge, and every materially affected group must have a genuine seat — especially those without market or institutional power.",
       "href": "../../core_06_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation"
     },
@@ -473,7 +489,7 @@
       "title": "Article XII-B: Weighted Participation Constraints",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xii-b-weighted-participation-constraints",
-      "line": 1598,
+      "line": 1677,
       "plain_terms": "participation weighting can reflect who is affected and how much, but it must never become a device for silencing affected groups or handing permanent control to a narrow coalition.",
       "href": "../../core_06_rights_part_b.md#article-xii-b-weighted-participation-constraints"
     },
@@ -481,7 +497,7 @@
       "title": "Article XII-C: Legitimacy Gate and Anti-Token Participation",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xii-c-legitimacy-gate-and-anti-token-participation",
-      "line": 1632,
+      "line": 1711,
       "plain_terms": "high-impact decisions need a recorded legitimacy check before they bind anyone, and \"consulting\" stakeholders whose input is ignored or unreachable does not count.",
       "href": "../../core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation"
     },
@@ -489,7 +505,7 @@
       "title": "Article XII-D: Internal Roles, Accountability, and Due-Process Requirements",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xii-d-internal-roles-accountability-and-due-process-requirements",
-      "line": 1664,
+      "line": 1743,
       "plain_terms": "roles must carry real responsibility, not just titles — and anyone facing a material decision gets notice, a real chance to be heard, impartial decision-making, and a way to contest the outcome.",
       "href": "../../core_06_rights_part_b.md#article-xii-d-internal-roles-accountability-and-due-process-requirements"
     },
@@ -497,7 +513,7 @@
       "title": "Article XII-E: Non-Capture Safeguards",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xii-e-non-capture-safeguards",
-      "line": 1704,
+      "line": 1783,
       "plain_terms": "governance must actively look for — and push back against — capture, collusion, and hidden concentration of influence.",
       "href": "../../core_06_rights_part_b.md#article-xii-e-non-capture-safeguards"
     },
@@ -817,7 +833,7 @@
       "title": "Article XXI: Comprehensibility and Complexity Stewardship",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xxi-comprehensibility-and-complexity-stewardship",
-      "line": 1843,
+      "line": 1841,
       "plain_terms": "**Article XXI** (*Comprehensibility and Complexity Stewardship*) is the understandability Rights Floor — when a system materially affects your life, you are entitled to actually grasp how it works, what its limits are, and what happens when it fails. Complexity cannot be used as a wall against participation, audit, or accountability. Stewards also may not pile on needless complexity that wastes everyone's time without a real constitutional benefit.",
       "href": "../../core_06_rights_part_c.md#article-xxi-comprehensibility-and-complexity-stewardship"
     },
@@ -825,7 +841,7 @@
       "title": "Article XXI-A: Proportional Comprehensibility Right",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xxi-a-proportional-comprehensibility-right",
-      "line": 1894,
+      "line": 1892,
       "plain_terms": "if a system materially affects **sentients**, operators, stakeholders, and oversight must actually be able to understand how it works and fails — not just specialists.",
       "href": "../../core_06_rights_part_c.md#article-xxi-a-proportional-comprehensibility-right"
     },
@@ -833,7 +849,7 @@
       "title": "Article XXI-B: Complexity Audit and Modularity Requirements",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xxi-b-complexity-audit-and-modularity-requirements",
-      "line": 1929,
+      "line": 1927,
       "plain_terms": "complexity cannot be used — technically, organizationally, contractually, or procedurally — as a wall against audit, contest, or correction.",
       "href": "../../core_06_rights_part_c.md#article-xxi-b-complexity-audit-and-modularity-requirements"
     },
@@ -841,7 +857,7 @@
       "title": "Article XXII: Root Cause Analysis and Adaptive Response",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xxii-root-cause-analysis-and-adaptive-response",
-      "line": 1966,
+      "line": 1964,
       "plain_terms": "**Article XXII** (*Root Cause Analysis and Adaptive Response*) is the find-the-real-problem-and-fix-it-right floor. When something breaks, degrades, or keeps failing, you are entitled to more than a press release or a band-aid. Systems must figure out what actually caused the harm — including causes that show up late or build up over time — address those causes where they can, and leave a record others can check and challenge. Quick containment is allowed; permanent fixes without honest diagnosis are not.",
       "href": "../../core_06_rights_part_c.md#article-xxii-root-cause-analysis-and-adaptive-response"
     },
@@ -849,7 +865,7 @@
       "title": "Article XXII-A: Diagnostic Rigor and Causal Attribution",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xxii-a-diagnostic-rigor-and-causal-attribution",
-      "line": 2012,
+      "line": 2010,
       "plain_terms": "root-cause findings must be written down, open to challenge, and open to correction — not sealed behind authority.",
       "href": "../../core_06_rights_part_c.md#article-xxii-a-diagnostic-rigor-and-causal-attribution"
     },
@@ -857,7 +873,7 @@
       "title": "Article XXII-B: Auditability, Challenge, and Reversibility Preference",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xxii-b-auditability-challenge-and-reversibility-preference",
-      "line": 2044,
+      "line": 2042,
       "plain_terms": "when you are not sure, pick the fix you can walk back. Uncertainty cannot be used as a reason to freeze protection or to pretend permanent measures are certain.",
       "href": "../../core_06_rights_part_c.md#article-xxii-b-auditability-challenge-and-reversibility-preference"
     },
@@ -865,7 +881,7 @@
       "title": "Article XXIII: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards",
-      "line": 2077,
+      "line": 2075,
       "plain_terms": "**Article XXIII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) is the who-gets-to-say-what-the-constitution-means floor. When constitutional questions arise, the answer must come from designated Constitutional forums — not from whoever is loudest, most powerful, or most convenient for the institution. Their rulings have to be written down with real reasons, open to independent challenge, and protected against capture by any single bloc. They cannot expand their own power, shut down review, or use \"restructuring\" to punish dissent.",
       "href": "../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards"
     },
@@ -873,7 +889,7 @@
       "title": "Article XXIII-A: Bounded Interpretive Mandate",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xxiii-a-bounded-interpretive-mandate",
-      "line": 2123,
+      "line": 2121,
       "plain_terms": "Constitutional forums rule on constitutional questions, not on everything. They cannot quietly expand their own turf or shut down challenge pathways.",
       "href": "../../core_06_rights_part_c.md#article-xxiii-a-bounded-interpretive-mandate"
     },
@@ -881,7 +897,7 @@
       "title": "Article XXIII-B: Composition, Rotation, and Conflict Controls",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xxiii-b-composition-rotation-and-conflict-controls",
-      "line": 2159,
+      "line": 2157,
       "plain_terms": "no single bloc may control **Constitutional forums** — the bodies that decide what the Constitution means. The sentients who sit on those panels, and the authorities that appoint them, must disclose conflicts in real time. Vacancy, rotation, and recusal rules must not be used to rig outcomes. If a panelist stays on a case while materially compromised, that can count as serious misconduct — and the dispute goes to **Integrity** forums first, not back to the same **Constitutional** panel to judge itself.",
       "href": "../../core_06_rights_part_c.md#article-xxiii-b-composition-rotation-and-conflict-controls"
     },
@@ -889,7 +905,7 @@
       "title": "Article XXIII-C: Public Reasons, Challenge Rights, and External Review",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xxiii-c-public-reasons-challenge-rights-and-external-review",
-      "line": 2194,
+      "line": 2192,
       "plain_terms": "interpretive decisions must be published with real reasons and are open to structurally independent review — not re-reviewed by the same body that made them. On a regular schedule, **Integrity** forums also conduct mandatory outside checkups on **Constitutional** forums for capture, decision quality, and Rights-Floor integrity.",
       "href": "../../core_06_rights_part_c.md#article-xxiii-c-public-reasons-challenge-rights-and-external-review"
     },
@@ -897,7 +913,7 @@
       "title": "Article XXIII-D: Removal for Cause and Non-Entrenchment",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xxiii-d-removal-for-cause-and-non-entrenchment",
-      "line": 2237,
+      "line": 2235,
       "plain_terms": "**Constitutional forum** panelists can be removed for real cause through due process — but **appointing authorities** and **adopting institutions** must not use \"removal,\" \"restructuring,\" or \"redesign\" as weapons against forum independence or dissent.",
       "href": "../../core_06_rights_part_c.md#article-xxiii-d-removal-for-cause-and-non-entrenchment"
     },

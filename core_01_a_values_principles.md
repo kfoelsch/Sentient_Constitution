@@ -181,6 +181,8 @@ This section has **four working parts**. They guide this section but do not repl
 <a id="211-access-and-opportunity"></a>
 ##### 2.1.1 Access and Opportunity
 
+This subsection sets out what access and opportunity mean in practice:
+
 - Sentients need practical paths to [Participation](core_05_apex_participation_leg.md#participation-constitutional), education, work, care, safety, movement, and other goods that matter to ordinary life.
 - Those paths must not be blocked, priced out, delayed, hidden, or tilted for arbitrary or irrelevant reasons.
 - A door that is open only on paper is not enough where this Constitution requires **substantive** opportunity.
@@ -188,11 +190,15 @@ This section has **four working parts**. They guide this section but do not repl
 <a id="212-benefits-and-burdens"></a>
 ##### 2.1.2 Benefits and Burdens
 
+This subsection sets out when the sharing of benefits and burdens is fair:
+
 - A system is not fair when some sentients receive the gains while others quietly absorb the costs.
 - Favoritism, hidden cost-shifting, selective enforcement, and scoreboard tricks do not satisfy this requirement.
 
 <a id="213-fair-treatment"></a>
 ##### 2.1.3 Fair Treatment
+
+This subsection sets out what fair treatment requires:
 
 - Sentients in similar situations should be treated by the same basic rules.
 - What sentients receive, owe, or risk should fit what they contributed, what they need, or what burdens they actually face.

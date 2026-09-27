@@ -416,6 +416,8 @@ Classification-governance disclosure, challenge, and reclassification for the de
 
 *In plain terms: The five traits that usually mark a steward: concentrated dependency, opacity risk, control over intervention, sensitivity to organizational decay, and no realistic replacement in time.*
 
+Critical systems typically show the following characteristics:
+
 - **Dependency concentration** — large share of continuity/recovery in one organization
 - **operational opacity risk** — can affect behavior or failure visibility without immediate external detection
 - **intervention control** — can enable, delay, or block intervention or recovery

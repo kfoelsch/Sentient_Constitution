@@ -416,7 +416,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 Those floors apply to **exceptional institutional power** in three linked domains: covert intelligence and security activity (**Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*)), overt force and military power (**Article XIV-B** (*Use of Force, Armed Conflict, and Military-Power Limits*)), and autonomous lethal systems and autonomous coercion tools (**Article XIV-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*)).
 
-- **Non-conflation:** **Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) governs exceptional institutional power in their respective operational senses:
+- **Limits of this Article:** **Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) governs exceptional institutional power in their respective operational senses:
   - covert intelligence and security activity under **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*);
   - overt use of force and military-power deployment under **Article XIV-B** (*Use of Force, Armed Conflict, and Military-Power Limits*); and
   - autonomous lethal systems and autonomous coercion tools under **Article XIV-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*).
@@ -1751,7 +1751,7 @@ This Article sets out the anti-lock-in rule:
 
 - Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6.1.3 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline).
 - Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VI-C** (*Nondiscrimination*) non-discrimination, **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XIX** (*Standing and Participation Status*) standing and participation-status routing, **Article XXIV-D** (*Emergency Measures and Continuation Burden*) emergency-measure limits, **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) transition governance.
-- Read with: [Chapter Five *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_05_band_oversight.md#movement-refuge-semi-independent); *Movement and Relocation*, *Refuge from Non-Compliance*, *Non-Statelessness*, *Sentience Non-Exclusion*; *Systemic Lock-In* and *Occupancy Continuity* where exit, hosting termination, eviction, or substantive relocation is materially implicated; **Article I-A** (*Environmental Preconditions and Ecological Integrity*) where systems or projects made a place unlivable.
+- Read with: [Chapter Five *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_05_band_oversight.md#movement-refuge-semi-independent); *Movement and Relocation*, *Refuge from Non-Compliance*, *Non-Statelessness*, *Sentience Non-Exclusion*; *Systemic Lock-In* and *Occupancy Continuity* where exit, hosting termination, eviction, or substantive relocation is materially implicated; **Article I-A** (*Environmental Preconditions and Ecological Integrity*) where systems or projects made a place unlivable; **Article XX-A** (*Portability Rights*) through **Article XX-C** (*Anti-Lock-In Rule*) for substrate-portability and exit-integrity mechanics; **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) for transitional-recognition mechanics.
 
 </details>
 
@@ -1834,10 +1834,8 @@ This Article sets out the floors for movement, refuge, and non-statelessness, an
   - delay regimes designed to exhaust claimants;
   - credentialing regimes functioning as exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion);
   - allocation regimes that route claimants to non-equivalent services.
-- **Non-conflation:** This Article states a Rights Floor.
+- **Limits of this Article:** This Article states a Rights Floor.
   - Cross-federation recognition procedure is left to adopted implementation text under **Chapter Seventeen**.
-  - Substrate-portability mechanics route to this Article's portability and exit-integrity provisions.
-  - Transitional-recognition mechanics route to **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*).
   - Climate-unlivability refuge decisions route to this Article's adopter-decided bullet and must not be read as a floor grant or a floor denial.
 
 ### Article XXI: Comprehensibility and Complexity Stewardship

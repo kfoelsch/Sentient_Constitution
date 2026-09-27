@@ -674,6 +674,8 @@ It must also expose the inputs, weights, rules, and review routes used. The fina
 
 *In plain terms: this chapter says what standing is not. This subsection stops anyone from building the thing it is not. Effects are stated one named pathway at a time and shown only to whoever gates that named pathway. Stitching them together into a profile, a rank, or a public display constructs the merged score this chapter forbids — and doing so is itself a violation.*
 
+This subsection sets out who may see named-pathway effects and what aggregation is prohibited:
+
 - **Disclosure scope:** The final effect for a named pathway is disclosed to the subject, to the gatekeeper of that named pathway, and to authorized reviewers. It is not disclosed to gatekeepers of other named pathways as a matter of course.
 - **Prohibited aggregation:** The following construct a merged score and are independently measurable violation conduct under [Chapter Nine](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model), read with [Article VII-B](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*), whose aggregation discipline this subsection mirrors for standing:
   - assembling final effects across named pathways into:
@@ -693,6 +695,8 @@ It must also expose the inputs, weights, rules, and review routes used. The fina
 #### 7.2 Plain statement of effect and burden
 
 *In plain terms: no one should learn what a standing effect does to them from its consequences. The record must tell the subject, in plain language, exactly which named pathways are affected, what they must do, how long it lasts, and where to contest it — and the adopter must measure whether sentients are experiencing standing as a score, because the rule that it is not one is worthless if that is how it lands.*
+
+This subsection sets out what the subject must be told when an effect attaches:
 
 - **Plain-language statement to the subject:** When a final effect other than **no effect** attaches, the subject must receive a plain-language statement. The statement must satisfy [Chapter One §3.4 Plain-Language Accessibility (Participation and Stewardship Duty)](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty) and **Article XXI-A** (*Proportional Comprehensibility Right*), and must name:
   - each affected named pathway;
@@ -839,6 +843,8 @@ The subsections below show how common Question 3 situations use the rules alread
 <a id="101-informal-ecological-stewardship-competency-gate"></a>
 #### 10.1 Informal ecological stewardship / competency clearance
 
+This situation is identified by the cue below and governed by the sections listed:
+
 - **Cue:** A verified peer mutual-aid habitat restoration record carries Ecological Stewardship and Diligence descriptors; a named-pathway-scoped ecological competency bar and clearance are later at issue.
 - **Routes through:**
   - [§1](#1-chapter-nine-records-do-not-change) (*Contribution Axis slot and descriptors stay fixed*);
@@ -850,6 +856,8 @@ The subsections below show how common Question 3 situations use the rules alread
 
 <a id="102-ecological-negligence-with-concealment"></a>
 #### 10.2 Ecological negligence with concealment
+
+This situation is identified by the cue below and governed by the sections listed:
 
 - **Cue:** A fixed Violation Axis record stacks Ecological and Negligent Misconduct with verified concealment after notice.
 - **Routes through:**
@@ -863,12 +871,16 @@ The subsections below show how common Question 3 situations use the rules alread
 <a id="103-forum-integrity-deception-or-recusal-failure"></a>
 #### 10.3 Forum-integrity deception or recusal failure
 
+This situation is identified by the cue below and governed by the sections listed:
+
 - **Cue:** Verified dishonest disclosure in a forum setting, or verified failure to recuse where recusal was required and impartiality was materially compromised.
 - **Routes through:** [§5.4](#54-special-violation-rules) (*deception / concealment attachments*); [§5.5](#55-special-locks) (*Forum-Service Standing Lock*).
 - **Non-negotiable:** Verified required-recusal failure triggers the Forum-Service Standing Lock whether or not the finding reaches a Chapter Eleven designation track.
 
 <a id="104-recurrence-after-completed-restitution"></a>
 #### 10.4 Recurrence after completed restitution
+
+This situation is identified by the cue below and governed by the sections listed:
 
 - **Cue:** Restitution or comparable remedy is complete, yet verified recurrence risk for interpersonal violence or a comparable pattern remains live.
 - **Routes through:**
@@ -881,6 +893,8 @@ The subsections below show how common Question 3 situations use the rules alread
 <a id="105-champion-repair-while-a-lock-remains-active"></a>
 #### 10.5 Champion repair while a lock remains active
 
+This situation is identified by the cue below and governed by the sections listed:
+
 - **Cue:** Distinguished repair or high contribution is visible on a linked contribution record while a standing lock still blocks a named pathway.
 - **Routes through:**
   - [§6](#6-contribution-consequences-second) (*contribution second, and only for named pathways not blocked by a lock*);
@@ -890,6 +904,8 @@ The subsections below show how common Question 3 situations use the rules alread
 
 <a id="106-institutional-vehicle-and-successor-evasion"></a>
 #### 10.6 Institutional vehicle and successor evasion
+
+This situation is identified by the cue below and governed by the sections listed:
 
 - **Cue:** An institution carries repeated harm, capture, or evasion, including through shells, relabeling, or successor vehicles.
 - **Routes through:**
@@ -901,6 +917,8 @@ The subsections below show how common Question 3 situations use the rules alread
 <a id="107-misaligned-reward-retention"></a>
 #### 10.7 Misaligned reward retention
 
+This situation is identified by the cue below and governed by the sections listed:
+
 - **Cue:** After sufficient notice that a reward pathway is constitutionally misaligned or abused, the actor knowingly retains the benefit without timely protected reporting.
 - **Routes through:** [§5.4 Special violation rules](#54-special-violation-rules) (*Misaligned rewards* — forfeiture, retention, named pathway locks, and dependent-party / third-party reliance accounting).
 - **Non-negotiable:** Knowing retention after notice may create a violation consequence. Good-faith dispute and protected reporting remain protected.
@@ -908,6 +926,8 @@ The subsections below show how common Question 3 situations use the rules alread
 <a id="108-top-slot-anti-constitutional-allegation"></a>
 <a id="108-anti-constitutional-misconduct-allegation"></a>
 #### 10.8 Anti-constitutional misconduct allegation
+
+This situation is identified by the cue below and governed by the sections listed:
 
 - **Cue:** A qualifying Violation Axis slot 7–9 record raises a possible anti-constitutional-misconduct designation while ordinary Question 3 effects are also due.
 - **Routes through:**
@@ -920,6 +940,8 @@ The subsections below show how common Question 3 situations use the rules alread
 <a id="109-rights-floor-waiver-or-unconstitutional-contract-devices"></a>
 #### 10.9 Rights-Floor waiver or unconstitutional contract devices
 
+This situation is identified by the cue below and governed by the sections listed:
+
 - **Cue:** A fixed Violation Axis record shows conditioning access, employment, platform participation, or comparable association on purported Rights-Floor waiver, gag, override, or unconstitutional contract terms — including void NDA or mobility-restriction devices that chill standing, audit, or contestability.
 - **Routes through:**
   - [§4](#4-violation-correction-and-prevention) (*remedy, correction, and prevention*);
@@ -931,6 +953,8 @@ The subsections below show how common Question 3 situations use the rules alread
 <a id="1010-contest-pathway-or-info-sphere-flooding"></a>
 #### 10.10 Contest-pathway or info-sphere flooding
 
+This situation is identified by the cue below and governed by the sections listed:
+
 - **Cue:** A fixed Violation Axis record shows deliberate, reckless, or foreseeably indifferent volume, redundancy, automation, or synthetic traffic that defeated, delayed beyond practical remedy, or materially degraded contest, intake, adjudication, publication, or info-sphere verification pathways.
 - **Routes through:**
   - [§4](#4-violation-correction-and-prevention) (*remedy, correction, and prevention*);
@@ -941,6 +965,8 @@ The subsections below show how common Question 3 situations use the rules alread
 
 <a id="1011-infrastructure-denial-or-dependency-cutoff"></a>
 #### 10.11 Infrastructure denial or dependency cutoff
+
+This situation is identified by the cue below and governed by the sections listed:
 
 - **Cue:** A fixed Violation Axis record shows denial, destruction, disabling, or dependency cutoff that made survival-critical access, remedy, audit, verification, or constitutional operating infrastructure materially unusable.
 - **Routes through:**
@@ -954,6 +980,8 @@ The subsections below show how common Question 3 situations use the rules alread
 <a id="1012-stakeholder-participation-corruption-or-false-stake-abuse"></a>
 #### 10.12 Stakeholder-participation corruption or false-stake abuse
 
+This situation is identified by the cue below and governed by the sections listed:
+
 - **Cue:** A fixed Violation Axis record shows verified corruption, capture, false or inflated stake claims, coercive participation-weight extraction, influence-buying in binding stakeholder choice, or comparable material abuse of a **stakeholder-participation** pathway inside an already-authorized system, institution, or bounded decision domain.
 - **Routes through:**
   - [§4](#4-violation-correction-and-prevention) (*remedy, correction, and prevention*);
@@ -963,6 +991,8 @@ The subsections below show how common Question 3 situations use the rules alread
 
 <a id="1013-obstruction-of-accountability"></a>
 #### 10.13 Obstruction of accountability
+
+This situation is identified by the cue below and governed by the sections listed:
 
 - **Cue:** A fixed Violation Axis record shows verified **obstruction of accountability** — interference with answerability machinery such as evidence integrity, verification, forum process, standing records, remedy clocks, or contest and redress paths — including where Chapter Nine records **Accountability Obstruction Misconduct** or stacks obstruction as conduct character.
 - **Routes through:**
@@ -975,6 +1005,8 @@ The subsections below show how common Question 3 situations use the rules alread
 
 <a id="1014-verified-cruelty-character"></a>
 #### 10.14 Verified cruelty character
+
+This situation is identified by the cue below and governed by the sections listed:
 
 - **Cue:** A fixed Violation Axis record carries verified [Cruelty](core_05_band_accountability.md#cruelty) conduct character — suffering as an end in itself, or gratuitous or degrading infliction beyond necessity and proportionality — whether or not violence or coercion descriptors also stack.
 - **Routes through:**

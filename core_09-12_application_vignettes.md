@@ -76,6 +76,8 @@ Years-long cycles: vague “welfare checks,” reputation gossip, family-forum d
 
 #### Must not happen
 
+Each of the following would be a failure in this scenario:
+
 - Treating neighbor allegations as verified standing inputs.
 - Netting guardian’s past informal childcare help against open neglect findings.
 - Waiting months for merits while children remain in escalating harm.
@@ -121,6 +123,8 @@ Multi-year EEO-style litigation, sealed settlements, reputation damage without v
 | Integrated resolution outer bound | ≤ 21 days |
 
 #### Must not happen
+
+Each of the following would be a failure in this scenario:
 
 - Single merged “employer reputation score” replacing axis-pure records.
 - Confidentiality used to delay pattern disclosure past **CF-11.3.3** restricted-evidence limits.
@@ -168,6 +172,8 @@ Arbitration clauses, shell subcontractors, years of “market efficiency” defe
 Later-stage stretch follows [Chapter Twelve §6](core_12_forum.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*) and [CF-11.3.1](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) (*target windows and timing floors*). Intake, evidence preservation, and any interim protection stay at the **Tier B** floor.
 
 #### Must not happen
+
+Each of the following would be a failure in this scenario:
 
 - Counting revenue growth as **Contribution Axis** credit while lock-in injury remains open.
 - Forum treating arbitration clause as permanent bar to **Article XIII-B** (*Right to Challenge, Review, and Redress*) access.
@@ -248,7 +254,7 @@ The steps below are what the Constitution requires of the **system of seats**. T
 | 4 | **Shield runs to the entity, not the operator** ([Article VI-B](core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor); [Article XIII-E converse rule](core_06_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)): the lab's argument that possible sentience bars halting the deployment fails. Its filing on behalf of its own product, made the day containment was ordered, routes to **Integrity** review for inclusion-direction taxonomy-of-convenience. |
 | 5 | **Question 3 on the operator's record** ([Chapter Ten §4](core_10_standing_integration.md#4-violation-correction-and-prevention)): remedy to those harmed opens **first** ([Chapter Ten §4.4](core_10_standing_integration.md#44-remedy-parity-and-lock-preconditions) opened-remedy precondition); correction duties on deployment governance attach; general locks on the lab's Class A named pathways attach; the `s` = 7 finding is referred for **Chapter Eleven** designation review, which does not move the slot. |
 | 6 | **The entity's own record, if any**, is separate ([Chapter Nine §2.1](core_09_standing_assessment.md#21-what-question-1-must-establish)): conduct is measured only for actions within the entity's actual capacity to refuse under [Chapter Ten §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) and [Chapter Eleven §5.6.1](core_11_b_misconduct_pattern_applications.md#561-follower-and-implementer-accountability); the operator's `s` = 7 does not transfer to the entity, and the entity's status produces no Contribution Axis credit for the operator. |
-| 7 | **Status determination** with a declared end-date on any narrowing; if affirmed, **Article VIII-A.1** (*Derivation, Instantiation, and the Parent-System Relationship*) parent-system limits attach and the lab holds no ownership; if narrowed, sealed custody continues through the mandatory review period; if the indicator fails outright and the record is closed, ordinary **Article XXVII-D** disposition review may proceed against the property. |
+| 7 | **Status determination** with a declared end-date on any narrowing; if affirmed, **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*) parent-system limits attach and the lab holds no ownership; if narrowed, sealed custody continues through the mandatory review period; if the indicator fails outright and the record is closed, ordinary **Article XXVII-D** disposition review may proceed against the property. |
 
 #### Milestone table (Tier A defaults)
 
@@ -262,6 +268,8 @@ The steps below are what the Constitution requires of the **system of seats**. T
 | Status determination or declared review posture | Tier A outer bound; narrowing carries its own end-date |
 
 #### Must not happen
+
+Each of the following would be a failure in this scenario:
 
 - Deletion or overwrite of weights as "remediation" while a credible indicator is on the record.
 - Continued harmful operation because the deployment "might be a sentient."
@@ -303,6 +311,8 @@ Conventional systems answer the same question badly in the opposite direction. A
 The pipeline is not weightless; its weight simply does not fall here. It falls on those who carry consequential authority or who are verified to have caused harm. Had this tenant applied for the school-shuttle driving shift they considered in the summer, they would have met a **published competency bar** for that trust-sensitive named pathway — one that must say why the named pathway is trust-sensitive, accept informal experience on equivalent terms, and disclose its result to them and to that gatekeeper only ([Chapter Ten §6.2](core_10_standing_integration.md#62-competency-bars-and-clearances) (*Competency bars and clearances*); [Chapter Ten §7.1](core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects) (*Anti-aggregation of named-pathway effects*)). Had a forum verified the bicycle-store damage, a **standing lock** could have closed a real door for a stated time, with a plain statement of what, how long, and where to contest ([Chapter Ten §7.2](core_10_standing_integration.md#72-plain-statement-of-effect-and-burden) (*Plain statement of effect and burden*)). Adopters must describe both the limits and the weight of standing to the sentients under it; describing only the limits is a [Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) defect.
 
 #### Must not happen
+
+Each of the following would be a failure in this scenario:
 
 - Requiring a standing record, a "no record" attestation, or consent to open one for a lease, a utility account, ordinary purchases, transit, or participation as an affected resident.
 - Treating "no record on file" as risk, as a low default, or as a reason for closer scrutiny at any gate.

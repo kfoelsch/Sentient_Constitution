@@ -237,6 +237,8 @@ One record and one lead family ordinarily hear interdependent claims. Secondary 
 
 #### 2.3 Forum case records, standing records, and contests
 
+This subsection sets out the records a forum keeps and how they may be contested:
+
 - A forum keeps a [**forum case record**](core_05_band_accountability.md#forum-case-record) for the dispute before it. That record tracks:
   - the claims;
   - evidence;
@@ -647,10 +649,14 @@ A case may move from one forum family to another only when the receiving family 
 
 #### Existential risk and uncertainty on the record
 
+This subsection sets out how forums handle existential risk and uncertainty on the record:
+
 - **Existential-risk handling:** Where a matter materially presents a credible claim of **Existential Risk**, survival-critical collapse, or irreversible loss of **Ecological Recovery Capacity**, the designated lead family under **primary-stakes** routing remains the merits forum **unless** another rule in this chapter requires **transfer**, **certification**, or **backup** activation. Existential-risk significance does **not** create a separate forum family.
 - **Reasoned uncertainty treatment:** A forum must **not** reject an existential-risk claim solely because probability is hard to quantify. It must assess whether the causal pathway is credible under adversarial, aggregated, dependency-sensitive, or threshold conditions. It must state the uncertainty and evidentiary limits on the record.
 
 #### Certification to **Constitutional** forums
+
+This subsection sets out when matters are certified to **Constitutional** forums:
 
 - **Certified constitutional questions:** Where resolving such a matter requires determination of constitutional meaning, validity, or structural effect under **Safety**, **Truth**, **Article I** (*Environmental Survival*), or comparable long-horizon rights and constraint provisions, the lead family must certify that question to **Constitutional** forums **under** **adopting** **instruments** that **preserve** applicable review safeguards.
 - **Provisional operational law:** Where a provisional implementation-operational-law ruling under **section 4.7** cannot be separated from constitutional validity, meaning, or structural remedy, the lead family must certify or escalate under this section. Disposition of separable provisional rulings remains under **section 4.6**.
@@ -668,6 +674,8 @@ A case may move from one forum family to another only when the receiving family 
 
 #### Technical support and preserved **Integrity** escalation
 
+This subsection sets out technical support for existential-risk matters and the preserved route to **Integrity** forums:
+
 - **Technical contestability:** Where existential-risk determination depends on disputed scientific, engineering, ecological, medical, computational, or comparable expert questions, the lead family must obtain contestable technical support under **section 7** where forensic or analytical capacity is required. That support may run through:
   - a lawful specialist chamber;
   - a designated panel;
@@ -679,6 +687,8 @@ A case may move from one forum family to another only when the receiving family 
 <a id="interim-protection"></a>
 #### Interim protection
 
+This subsection sets out interim protection while a matter is pending:
+
 - Any competent family may issue interim relief necessary to:
   - prevent imminent irreversible harm;
   - preserve evidence under [Evidence Preservation](core_05_band_oversight.md#evidence-preservation);
@@ -689,6 +699,8 @@ A case may move from one forum family to another only when the receiving family 
 - Where **multiple** forums share jurisdiction, **one** coordinating forum or rule must resolve conflicts among simultaneous interim orders.
 
 #### Backup routing under the anti-self-judging rule
+
+This subsection sets out when backup routing activates under the anti-self-judging rule:
 
 - Where the **cross-forum anti-self-judging rule** in **section 3** applies, **backup** routing activates only upon documented:
   - **recusal**;
@@ -707,6 +719,8 @@ A case may move from one forum family to another only when the receiving family 
   A captured or compromised family may provide evidence, records, and administrative cooperation, but must not be the sole decision-maker on activation, continuation, or restoration of its own authority.
 
 #### Sentience-status adjudication (**Article VI-B** (*Sentience-Status Adjudication Floor*) implementation hook)
+
+This subsection sets out how sentience-status claims are routed:
 
 - Claims governed by **Article VI-B** (*Sentience-Status Adjudication Floor*) in which the materially disputed question is whether an entity is a **sentient** — judged on indicators, expert evidence, and bounded uncertainty under **Chapter Five** (*Sentience Status Adjudication*) — route by default to **Technical Forum Domains** as the lead family.
 - **Constitutional** routing or certification remains available where a certified structural, validity, or Rights-Floor-meaning question cannot be separated from the status determination.
@@ -763,11 +777,15 @@ A case may move from one forum family to another only when the receiving family 
 
 #### Referral distinguished from expansion
 
+This subsection distinguishes referral from scope expansion:
+
 - **Referral**, **transfer**, or **certification** moves an issue to the forum or family that must decide it.
 - **Scope expansion** broadens who is covered by the proceeding, what common evidence is relevant, or what remedy must be considered.
 - The availability of one does **not** displace the other where both are constitutionally necessary.
 
 #### Chapter Eleven designation and independent review
+
+This subsection sets out how Chapter Eleven designation relates to independent review:
 
 - The numeric **Violation Axis** slot still comes only from verified impact on the **Chapter Nine §7** (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale. **Chapter Eleven** may attach the matching anti-constitutional-misconduct label to a final Chapter Nine slot **7**, **8**, or **9** record — it does **not** pick or change that number. Forum families must give independent review and due process under **Chapter Eleven**, **section 4**, and **Article XXIV** (*Conflict Resolution, Escalation, and Emergency Proportionality*).
 - When a **Chapter Eleven** designation is the main fight, **section 2** names the default lead family. **Sections 2, 3, and 5** still control transfer, consolidation, certification, backup routing, and anti-self-judging activation. None of that lets Chapter Eleven or a forum assign or move the numeric slot.
