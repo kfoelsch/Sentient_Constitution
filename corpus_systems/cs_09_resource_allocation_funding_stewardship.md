@@ -123,7 +123,7 @@ Systems must maintain a documented representation of their material dependencies
 
 Implement **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article XV-A** (*Auditability and Observable Evidence*).
 
-Opacity or unverifiable flows are subject to review under **Article XV-A** (*Auditability and Observable Evidence*), **Article XII-B** (*Right to Challenge, Review, and Redress*), and **Article XXIII-A** (*Justice Objective and Scope*) where auditability, challenge, or justice review is implicated.
+Opacity or unverifiable flows are subject to review under **Article XV-A** (*Auditability and Observable Evidence*), **Article XII-A** (*Reliability and Trustworthiness Baseline*) and **Article XII-B** (*Right to Redress and Remedy*), and **Article XXIII-A** (*Justice Objective and Scope*) where auditability, challenge, or justice review is implicated.
 
 Funding systems must:
 - provide clear, auditable records of resource flows;
@@ -156,7 +156,7 @@ Resource flows within constitutional systems must account for, at minimum, the f
 
 **Budget** it as part of ordinary **funding stewardship**, not only as **post-crisis** improvisation.
 
-Capacity must be **auditable** and **anti-captive** (**Article XV-A** (*Auditability and Observable Evidence*), **Article XI-D** (*Internal Roles, Accountability, and Due-Process Requirements*), **Article XII-B** (*Right to Challenge, Review, and Redress*), **CJS-3.2** (*reflexive transparency and accountability terms*) and **CJS-3.6** (*integrity assurance and resilience operations*), **CJS-3.13** (*procedural integrity and adjudication terms*), **CS-7 §9**).
+Capacity must be **auditable** and **anti-captive** (**Article XV-A** (*Auditability and Observable Evidence*), **Article XI-D** (*Internal Roles, Accountability, and Due-Process Requirements*), **Article XII-A** (*Reliability and Trustworthiness Baseline*) and **Article XII-B** (*Right to Redress and Remedy*), **CJS-3.2** (*reflexive transparency and accountability terms*) and **CJS-3.6** (*integrity assurance and resilience operations*), **CJS-3.13** (*procedural integrity and adjudication terms*), **CS-7 §9**).
 
 Underfunding that produces **chronic non-performance** of remediation obligations is a **constitutional alignment risk** subject to review.
 
@@ -216,7 +216,7 @@ Funding systems are subject to continuous evaluation and refinement under **Arti
 
 Models that fail to support sustainability, produce inequitable outcomes, or undermine constitutional alignment will be subject to challenge, revision, and replacement.
 
-All funding models and allocation structures must undergo **periodic reauthorization** at intervals proportionate to system criticality, scale, and stability. Failure to reauthorize may trigger review under **Article XV-A** (*Auditability and Observable Evidence*), **Article XII-B** (*Right to Challenge, Review, and Redress*), and **Article XXIII-A** (*Justice Objective and Scope*) where auditability, challenge, or justice review is implicated.
+All funding models and allocation structures must undergo **periodic reauthorization** at intervals proportionate to system criticality, scale, and stability. Failure to reauthorize may trigger review under **Article XV-A** (*Auditability and Observable Evidence*), **Article XII-A** (*Reliability and Trustworthiness Baseline*) and **Article XII-B** (*Right to Redress and Remedy*), and **Article XXIII-A** (*Justice Objective and Scope*) where auditability, challenge, or justice review is implicated.
 
 **The reauthorization processes must**:
 - evaluate alignment with constitutional principles;

@@ -61,7 +61,7 @@ See: [Article V-F](../../../core_06_rights_part_b.md#article-v-f-developing-sent
 - **Today:** Review is next term, next year, or never. Being heard is only a parent’s or school’s story.
 - **With this Constitution:** When a system fails you, there has to be a real challenge, review, and redress path, on a clock. That includes a “you are not ready” that does not match what you have shown.
 
-See: [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); [Article XXIV-C](../../../core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor).
+See: [Article XII-A](../../../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy); [Article XXIV-C](../../../core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor).
 
 ## What you might reasonably object to
 
@@ -69,7 +69,7 @@ See: [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-ch
 
 - **“I want to be treated as a full adult now.”** What you may do yourself will not invent that if what you can actually show does not support it. The honest gain is that the test is capability, not a birthday stand-in, and that a “no” has to be justified and open to challenge.
 
-- **“If I push back, they’ll write me up.”** Good-faith challenge is supposed to be protected against retaliation ([Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)). A family report or school note is not, by itself, an official record of verified help or harm ([Chapter Nine §2.1](../../../core_09_standing_assessment.md#21-silence-is-the-default)).
+- **“If I push back, they’ll write me up.”** Good-faith challenge is supposed to be protected against retaliation ([Article XII-A](../../../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline)). A family report or school note is not, by itself, an official record of verified help or harm ([Chapter Nine §2.1](../../../core_09_standing_assessment.md#21-silence-is-the-default)).
 
 - **“This isn’t law at my school.”** Correct until a qualifying body adopts it. It does not override applicable education or family law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 

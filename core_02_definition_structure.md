@@ -80,7 +80,7 @@ A few things deliberately do **not** go in the O part:
 
 - what the term *feeds into*, or the larger group it *sits within* — that belongs with the definition's cross-references, not here;
 - how the term is measured or assessed — that belongs in M and A;
-- what counts as meeting or breaking the term — that belongs in C, including labels or paperwork that claim satisfaction without real effect.
+- what counts as meeting or violating the term — that belongs in C, including labels or paperwork that claim satisfaction without real effect.
 
 Chapter Five leaf definitions must carry those O requirements using the Ontological component shape stated in this section.
 
@@ -102,7 +102,7 @@ Not every definition needs all three tiers. Some terms declare a primary measure
 
 A few things deliberately do **not** go in the M part:
 
-- what counts as meeting or breaking the term — that belongs in C;
+- what counts as meeting or violating the term — that belongs in C;
 - what the term is about — that belongs in O;
 - the full assessment duty on its own — that belongs in A (though each measure is paired with its assessment on the line beneath it).
 
@@ -142,7 +142,7 @@ Across all tiers, the A part must:
 
 A few things deliberately do **not** go in the A part:
 
-- what counts as meeting or breaking the term — that belongs in C;
+- what counts as meeting or violating the term — that belongs in C;
 - what the term is about — that belongs in O;
 - which measure applies at each tier on its own — that belongs in M (though each measure is paired with its assessment on the line beneath it).
 
@@ -152,15 +152,15 @@ When these assessment rules are put to the test, the judgment must rest on enoug
 
 #### 1.4 Compliance Components (C) — What Must Be True in Practice
 
-*In plain terms: the C part answers one simple question — **what must actually hold, and when has this term been broken?** It states the real-world conditions that must be met and the failures that count — based on what can be seen in behavior and effects, not on what the system claims about itself.*
+*In plain terms: the C part answers one simple question — **what must actually hold, and when has this term been violated?** It states the real-world conditions that must be met and the failures that count — based on what can be seen in behavior and effects, not on what the system claims about itself.*
 
 The Compliance part (C) states the real-world conditions that must hold for a term to be met. It must work from observable behavior and effects — not from the system's own claims, paperwork, or stated intent.
 
 On individual term definitions in Chapter Five, the Compliance part (C) appears under the heading **What must hold**. The fields work like this:
 
-- **Primary failure:** when the term is broken at the primary tier — for example when the main measure is hollow, untraceable, or contradicted by how the system actually works.
-- **Secondary failure:** *(used when it applies)* when the term is broken at the secondary tier — for example when the primary check looks stable but something wider still defeats the term, such as a breakdown in a system it depends on or a connected system it interacts with.
-- **Tertiary failure:** *(used when it applies)* when the term is broken at the tertiary tier — for example when a proxy or metric is treated as enough on its own, or when known divergence is ignored or left uncorrected.
+- **Primary failure:** when the term is violated at the primary tier — for example when the main measure is hollow, untraceable, or contradicted by how the system actually works.
+- **Secondary failure:** *(used when it applies)* when the term is violated at the secondary tier — for example when the primary check looks stable but something wider still defeats the term, such as a breakdown in a system it depends on or a connected system it interacts with.
+- **Tertiary failure:** *(used when it applies)* when the term is violated at the tertiary tier — for example when a proxy or metric is treated as enough on its own, or when known divergence is ignored or left uncorrected.
 
 Not every definition lists all three failure tiers. Some terms declare a primary failure only; others add secondary or tertiary failures when the term needs tier-aligned breach conditions.
 

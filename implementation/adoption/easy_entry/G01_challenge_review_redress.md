@@ -27,13 +27,13 @@ A cutoff, lockout, or decision hit you. The office says file a form, wait, or re
 - **Today:** The only door is a specialist portal, a hop count, or “come back when you have a lawyer.”
 - **With this Constitution:** Challenge, review, and being made whole have to work in practice. A file that never finishes is still a refusal.
 
-See: [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress).
+See: [Article XII-A](../../../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy).
 
 **A good-faith report is not a punishable act.**
 - **Today:** Speaking up costs the lease, the shift, or the next appointment.
 - **With this Constitution:** Good-faith reports must not be punished. The boxed next-step for those running the system is on the same article.
 
-See: [Article XII-B](../../../core_06_rights_part_c.md#operative-steward-statement-contest).
+See: [Article XII-A](../../../core_06_rights_part_c.md#operative-steward-statement-contest).
 
 **A form on paper is not being made whole.**
 - **Today:** There is an inbox and a policy page. Nobody can actually restore the water, the pay, or the record.

@@ -61,7 +61,7 @@ See: [CI-15](../../../corpus_institutions/ci_15_neurodiversity_disability_justic
 - **Today:** “You didn’t complete the form” is the end.
 - **With this Constitution:** Challenge, review, and redress have to be real, and delay is part of the failure.
 
-See: [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); [Article XXIV-C](../../../core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor).
+See: [Article XII-A](../../../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy); [Article XXIV-C](../../../core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor).
 
 ## What you might reasonably object to
 

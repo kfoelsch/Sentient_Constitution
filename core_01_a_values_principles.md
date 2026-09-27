@@ -103,7 +103,7 @@ No single principle may be applied in isolation where doing so would materially 
 - Downstream: [3.1 Safety](#31-safety-harm-constraint), [3.2 Truth](#32-truth-epistemic-integrity-constraint), [§9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth), and [6. Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
 - Subsections: [§2.1 Fairness](#21-fairness); [§2.2 Recognition, Reinforcement, and Aspiration](#22-recognition-reinforcement-and-aspiration); [§2.3 Anti-Degrading Process](#23-anti-degrading-process).
 - Read with: the Chapter Six Rights Floor generally.
-  - Especially [Article V: Equal Basic Rights](core_06_rights_part_b.md#article-v-equal-basic-rights), [Article IX: Self-Determination and Agency](core_06_rights_part_b.md#article-ix-self-determination-and-agency), [Article XII-B: Right to Challenge, Review, and Redress](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), and [Article XVIII-B: Contestability and Proportional Restriction Limits](core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits).
+  - Especially [Article V: Equal Basic Rights](core_06_rights_part_b.md#article-v-equal-basic-rights), [Article IX: Self-Determination and Agency](core_06_rights_part_b.md#article-ix-self-determination-and-agency), [Article XII-B: Right to Redress and Remedy](core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy), and [Article XVIII-B: Contestability and Proportional Restriction Limits](core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits).
   - Apply this where claimed wellbeing gains would justify restrictions on agency, dignity, or contestability.
   - Especially [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), and [4. Trust](#4-system-stability-enabler-trust-coordination-integrity) where access, process, distributive alignment, reliance, or coordination integrity is materially at stake.
 
@@ -144,7 +144,7 @@ Wellbeing includes not only immediate effects but also indirect, delayed, cumula
 - Downstream: [2.2 Recognition, Reinforcement, and Aspiration](#22-recognition-reinforcement-and-aspiration); [4. Trust](#4-system-stability-enabler-trust-coordination-integrity), [§9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth), [6. Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), and [§6.1 decision-record discipline](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) where precedence and allocation choices must remain coherent and reviewable.
 - Subsections (reading order): [§2.1.1](#211-access-and-opportunity) · [§2.1.2](#212-benefits-and-burdens) · [§2.1.3](#213-fair-treatment) · [§2.1.4](#214-unfair-treatment).
 - Downstream: Shapes the rights surface for equal standing, non-arbitrary treatment, meaningful challenge, and proportionate restriction limits.
-  - Especially [Article V: Equal Basic Rights](core_06_rights_part_b.md#article-v-equal-basic-rights), [Article V-B: Nondiscrimination](core_06_rights_part_b.md#article-v-b-nondiscrimination), [Article IX: Self-Determination and Agency](core_06_rights_part_b.md#article-ix-self-determination-and-agency), [Article XII-B: Right to Challenge, Review, and Redress](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), and [Article XVIII-B: Contestability and Proportional Restriction Limits](core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits).
+  - Especially [Article V: Equal Basic Rights](core_06_rights_part_b.md#article-v-equal-basic-rights), [Article V-B: Nondiscrimination](core_06_rights_part_b.md#article-v-b-nondiscrimination), [Article IX: Self-Determination and Agency](core_06_rights_part_b.md#article-ix-self-determination-and-agency), [Article XII-B: Right to Redress and Remedy](core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy), and [Article XVIII-B: Contestability and Proportional Restriction Limits](core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits).
   - Where an anti-constitutional designation carries sanctions or durable effect, read with [Chapter Eleven, section 4 — Due-process safeguards, remedy, and prevention](core_11_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment).
   - Non-discrimination commitments are elaborated through Chapter Five [§2 — Protected Characteristics, Proxying, Intimate-Signal Gating, and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status](core_05_band_participation.md#fairness-and-protected-status-semi-independent), including [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention) where §2.1.3 fair-treatment rules implicate intimate-signal gating or **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*).
 - Read with: [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) and related Chapter Six Rights-Floor obligations where benefits, burdens, rewards, costs, duties, risks, contribution, need, or exposure are material; [Accessibility](core_05_band_participation.md#accessibility-constitutional) where §2.1.1 access paths are material; [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) where aggregate metrics or scoreboard effects are material.
@@ -198,7 +198,7 @@ This section has **four working parts**. They guide this section but do not repl
 - What sentients receive, owe, or risk should fit what they contributed, what they need, or what burdens they actually face.
 - Different treatment must have a real reason, be proportionate to that reason, respect dignity, and avoid discrimination.
 - The detailed rules are carried through Chapter Five, including [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) and [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact).
-- When a decision seriously affects someone, or when they challenge it, the review path must satisfy [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) wherever Chapter Six or the governing instrument requires notice, hearing, explanation, or review.
+- When a decision materially affects someone, or when they challenge it, the review path must satisfy [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) wherever Chapter Six or the governing instrument requires notice, hearing, explanation, or review.
 
 Claimed wellbeing is not aligned with [§2](#2-foundational-objective-wellbeing) if it depends on arbitrary exclusion, unexplained or unstable rules, hidden extraction, or formal [Participation](core_05_apex_participation_leg.md#participation-constitutional) while the fairness conditions that make participation meaningful have failed.
 
@@ -596,7 +596,7 @@ The Rights Floors for accessibility, education, and comprehensibility live in [A
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** aim (**trustworthiness** is a named constituent under [Preamble §1](core_00_preamble.md#flourishing)); **Continuity** aim (durable coordination integrity and system stability over time).
 - Upstream: Principles: [§3 Non-Negotiable Principle Constraints: Safety and Truth](#3-non-negotiable-constraints-safety-and-truth); [§2.2 Recognition, Reinforcement, and Aspiration](#22-recognition-reinforcement-and-aspiration); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
 - Downstream: [§9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth), [6.2.1 Preservation of Epistemic Integrity](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity), [6.2.2 Trust-Truth Alignment](core_01_b_interaction_interpretation.md#622-trust-truth-alignment), and [7. Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
-- Subsections: [§4.1 Resilience and Self-Healing Design](#41-resilience-and-self-healing-design).
+- Subsections: [§4.1 Resilience and Self-Healing Design](#41-resilience-and-self-healing-design); [§4.2 Correction and Remedy](#42-correction-and-remedy).
 - Downstream: Shapes the rights surface for agency, reliable reliance, transparency, standing, and anti-capture review.
   - Especially [Article IX: Self-Determination and Agency](core_06_rights_part_b.md#article-ix-self-determination-and-agency), [Article XII: Right to Reliable and Trustworthy Systems](core_06_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems), [Article XIV: Info-Sphere Integrity](core_06_rights_part_c.md#article-xiv-info-sphere-integrity), [Article XV: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XVIII: Standing and Participation Status](core_06_rights_part_c.md#article-xviii-standing-and-participation-status), and [Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards).
   - This also covers any Chapter Six context where reliance, legitimacy, or contestability is at stake.
@@ -627,9 +627,11 @@ Trust connects the principle constraints to everyday shared life:
 - [**Materiality**](core_05_band_oversight.md#materiality-determination) determines how much must be shown and explained — the higher the stakes for sentients who depend on a system, the more that system must disclose and justify.
 - [**Trust Degradation and Misleading Reliance**](core_05_band_integrative.md#trust-degradation-and-misleading-reliance-constitutional) names the failure mode — when systems create, preserve, or score reliance in constitutionally misleading ways.
 
-Trust fails when reliance is built or kept through suppression, deception, hidden risk-shifting, or similar tactics — including anything that seriously undermines sentients' ability to detect and challenge systemic risk. The [**System Alignment Certification**](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation) process under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) is where systems demonstrate that their trust claims hold up: certification must verify that a system's actual behavior matches its representations, on a contestable record — not merely on operator assertion.
+Trust fails when reliance is built or kept through suppression, deception, hidden risk-shifting, or similar tactics — including anything that materially undermines sentients' ability to detect and challenge systemic risk. The [**System Alignment Certification**](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation) process under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) is where systems demonstrate that their trust claims hold up: certification must verify that a system's actual behavior matches its representations, on a contestable record — not merely on operator assertion.
 
-Certification is one of two safeguards that work together: it makes a system worthy of trust, and the rights of sentients to [challenge it and seek redress](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) and to [have it audited](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) keep it honest. Neither replaces the other — [Article XII](core_06_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems) states how the two combine.
+Trust also rests on what happens when a system fails. A trustworthy system fixes what it gets wrong: [§4.2 Correction and Remedy](#42-correction-and-remedy) makes correction part of Trust, not an afterthought.
+
+Certification is one of two safeguards that work together: it makes a system worthy of trust, and the rights of sentients to [challenge it](core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and [seek redress](core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy) and to [have it audited](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) keep it honest. Neither replaces the other — [Article XII](core_06_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems) states how the two combine.
 
 #### 4.1 Resilience and Self-Healing Design
 <details>
@@ -670,6 +672,45 @@ This is what Chapter Five calls [**Self-Healing**](core_05_band_continuity.md#se
 The more sentients depend on a system and the greater its impact, the less that system should rely on emergency intervention. It should instead invest in tested, audited, bounded self-recovery — reducing [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) and supporting long-term [**Continuity**](#continuity).
 
 Operative detail — recovery detection, containment, safe-failure preference, root-cause closure, and Rights-Floor continuity — lives in [Article XII-F](core_06_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems) (*Resilience and Self-Healing Baseline*) in Chapter Six, with recovery-architecture requirements in incorporated implementation text.
+
+#### 4.2 Correction and Remedy
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **accountability** leg (answerability, redress, and real correction); **timeliness** leg (remedy before delay makes it unreachable); [material stake](core_00_preamble.md#material-stake) scaling for remedy depth.
+- Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** aim (reliance stays warranted because failures are put right); **Continuity** aim (durable remedy capacity across time, succession, and restructuring).
+- Upstream: Principles: [3.1 Safety](#31-safety-harm-constraint), [3.2 Truth](#32-truth-epistemic-integrity-constraint), and [§4 Trust](#4-system-stability-enabler-trust-coordination-integrity).
+- Downstream: [Article XII-B: Right to Redress and Remedy](core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy); [Chapter Ten §9](core_10_standing_integration.md#9-enforcement-realism) (*Enforcement realism and remedy systems*) for standing consequences; [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*) for institutional implementation.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
+- [Remedy System](core_05_band_accountability.md#remedy-system-constitutional) · [O](core_05_band_accountability.md#remedy-system-constitutional) · [M](core_05_band_accountability.md#remedy-system-constitutional-a) · [A](core_05_band_accountability.md#remedy-system-constitutional-a) · [C](core_05_band_accountability.md#remedy-system-constitutional-c)
+- [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
+
+</details>
+
+<br>
+
+*In plain terms: when a system does wrong, it fixes it. A system is not trustworthy because it never fails; it is trustworthy because failures are acknowledged, corrected, and repaired — in time, by capacity that actually exists.*
+
+No system that sentients depend on will be free of failure. What makes reliance on it warranted is what happens next. Correction is part of [**Trust**](core_05_band_continuity.md#trust), not an extra: a system that does wrong and does not fix it cannot keep the trust it asks for.
+
+Where a system's failure materially harms sentients or fails a Chapter Six Rights Floor, those responsible for the system must:
+- acknowledge the failure;
+- correct it;
+- repair the harm proportionately (see [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional)); and
+- act to prevent it happening again.
+
+That correction must be real:
+- **Real capacity:** Remedy is delivered by a [Remedy System](core_05_band_accountability.md#remedy-system-constitutional) — durable, staffed, funded, and accessible capacity — not a paper pathway.
+- **In time:** Remedy that arrives only after harm has become irreversible, or after the sentient has been worn down into giving up, is not remedy (see [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional)).
+- **Borne by those responsible:** The cost of correction is not shifted onto those harmed, their communities, or public remedy systems where the responsible actors can bear it. Expense, restructuring, or succession does not by itself end the duty.
+
+The right to this correction is stated in [Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) in Chapter Six. [Chapter Ten §9](core_10_standing_integration.md#9-enforcement-realism) (*Enforcement realism and remedy systems*) applies this principle to standing consequences, and [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*) sets institutional implementation.
 
 ### 5. Freedom (Bounded Agency)
 <a id="5-freedom-bounded-agency"></a>

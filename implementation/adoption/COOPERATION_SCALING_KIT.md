@@ -131,7 +131,7 @@ Advancement toward a Chapter Sixteen instrument must **not** rest on elapsed tim
 
 | Gate | Pass | Fail → stay at operations-guide + declarations |
 |---|---|---|
-| **Independent review** | A published backup, external reviewer, or forum family the parties do not solely staff. Named on any instrument. [Chapter Twelve §3](../../core_12_forum.md#3-transfer-consolidation-and-coordination); [Chapter Sixteen Test 4](../../core_16_amendment_ratification.md#6-test-4-contestability-and-independent-review-validity). Keep [Article XII-B](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) reachable. | The only merits path is the other signatories. Do not claim adoption. |
+| **Independent review** | A published backup, external reviewer, or forum family the parties do not solely staff. Named on any instrument. [Chapter Twelve §3](../../core_12_forum.md#3-transfer-consolidation-and-coordination); [Chapter Sixteen Test 4](../../core_16_amendment_ratification.md#6-test-4-contestability-and-independent-review-validity). Keep [Article XII-A](../../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and [Article XII-B](../../core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy) reachable. | The only merits path is the other signatories. Do not claim adoption. |
 | **Qualifying body** | A body that can bind itself and the systems under its authority ([Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)). That body copies the [instrument fill-in](FIRST_ADOPTER_KIT.md#4-instrument-of-adoption-fill-in) into **its** custody. | Stewards listing themselves as bound. *n* declarations stapled together. |
 | **Remedy capacity** | Practical capacity to deliver challenge and redress, not paper routes ([Chapter Ten §9](../../core_10_standing_integration.md#9-enforcement-realism)). | Named routes with no capacity. Do not treat that as substep 1.3. |
 | **Legitimacy upgrade** | When affected sentients expand past the cooperating crew, publish a [Chapter Thirteen §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) mechanism (usually **treaty, compact, or charter** adoption with recorded assent, or an operator/consortium resolution). A polity also needs the [§10.1](../../core_16_amendment_ratification.md#101-deliberate-adoption) affected-sentient participation check. | Silence, usage, marketing alignment, or “more of us now.” |
@@ -186,7 +186,7 @@ Rights Floors and challenge rights for already-covered sentients
     are not reduced without procedurally valid, informed participation
     (Chapter Sixteen §10.3; Article X-B where participation weight applies).
   [ ] acknowledged in these rules
-Article XII-B remains reachable for joiners and already-covered sentients.
+Articles XII-A and XII-B remain reachable for joiners and already-covered sentients.
   [ ] acknowledged
 
 Scope the joiner takes on (whole instrument / named chapters, articles,
@@ -195,7 +195,7 @@ Custody of the authoritative edition the joiner pins:
 CS-3 class or “not yet classified — auditability still proportionate”:
 
 First-mover capture check:
-[ ] These rules are contestable (Article XII-B).
+[ ] These rules are contestable (Article XII-A).
 [ ] These rules do not make the publishing adopter the sole merits path
     for disputes about joining, floors, or independent review.
 [ ] These rules do not trade joining for a shield while denying matching

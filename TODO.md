@@ -25,6 +25,22 @@ Resolved checklist items are archived in [TODO_RESOLVED_2026-09-17.md](archive/T
 
 ## Open Backlog
 
+### 2026-09-27 — Article XII-A / XII-B split: translations
+
+Article XII-B is now **Right to Redress and Remedy** (`#article-xii-b-right-to-redress-and-remedy`). Challenge, review, protected reporting, no retaliation, and the Contest steward statement moved to **Article XII-A** (*Reliability and Trustworthiness Baseline*). English core, corpus, implementation, and evaluation instruments are updated; dated evaluation results and evidence are left as historical record.
+
+- [ ] **Translations.** All 134 files under `translations/` still carry the old XII-A and XII-B text and the old title (*Right to Challenge, Review, and Redress*). Each language's copy is internally consistent, so nothing is broken, but it no longer matches English. Update `core_06_rights_part_c.md` Articles XII-A and XII-B in each language, then the cites that point at XII-B for challenge.
+
+### 2026-09-27 — Move operative steward statements out of reader-facing text
+
+Operative steward statements (Owner / Forbidden move / Clock boxes) are steward routing content, not reader-facing constitutional text. Put each one in a collapsed widget (`<details>` with a blue "Operative steward statement" summary, the same pattern as the Trace and Definitions widgets), not in a bare blockquote in the article body. [Chapter One Part B](core_01_b_interaction_interpretation.md) already does this; use it as the model.
+
+- [x] **Wrap every bare box in a widget.** Done 2026-09-27: all 16 boxes are now in collapsed widgets. Generated plain-terms, reader-accessibility, and boundary-chunk outputs were regenerated.
+- [x] **Keep the audit anchors.** Leave each `<a id="operative-steward-statement-…">` anchor and the `**Operative steward statement.**` text as they are, so `tools/steward_door_lockstep_audit.py` and the `implementation/steward_owner_clock_index.json` hrefs still resolve. Re-run the audit after the change.
+- [x] **Keep binding substance in the article.** When a box states something the article body does not (for example, the Contest rule that the bar is fixed now rather than later; the general rule that lower text cannot narrow the Rights Floor already lives in the Authority Stack), make sure the article body still carries it before the box goes behind a widget. Done 2026-09-27: reviewed all 16 boxes. Each applies rules stated in its owning section to a steward's next step; the boxes stay operative text inside their widgets, so collapsing them removes nothing binding. No additions needed.
+- [x] **Make the Steward door pointers consistent.** Make the "Steward door (non-operative)" pointer lines the same across doors, or move them into the same widget. Done 2026-09-27: removed the eleven same-unit pointers (the box now sits in the adjacent widget); the four cross-file pointers (Chapter One §9.1 → XX-A, Chapter Five Auditability → XV, Chapter Five Cross-System Contribution → IV-B, Chapter Twelve §6 → XXIV-C) share one format.
+
+
 ### 2026-09-17 — Conceptual overview and corpus alignment follow-ups
 
 Source: [conceptual overview and corpus alignment review](evidence/2026-09-16/conceptual_overview_corpus_alignment_review.md). Findings 1 and 2 are corrected in the working tree: [segregation resolution](evidence/2026-09-16/contradiction_01_segregation_resolution.md) and [chapter/article reference resolution](evidence/2026-09-17/contradiction_02_reference_resolution.md). The remaining work below distinguishes textual corrections from questions requiring practical evidence. These are process-aid tasks, not new constitutional duties.

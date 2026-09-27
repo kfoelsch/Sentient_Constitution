@@ -318,7 +318,7 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
 
 <br>
 
-*In plain terms: life-supporting natural systems — including Earth's biosphere — have continuity and integrity interests that governance must take seriously. They are not only raw materials to extract. A published representative may bring those interests to an Environment forum in the system's own interest.*
+*In plain terms: life-supporting natural systems — including Earth's biosphere — have continuity and integrity interests that governance must give material weight. They are not only raw materials to extract. A published representative may bring those interests to an Environment forum in the system's own interest.*
 
 - **What it is**
   - **In scope:** Life-supporting natural systems — including Earth's biosphere as described in **Article I-A** (*Environmental Preconditions and Ecological Integrity*) — have continuity and integrity interests of their own. Interpretation and governance must weigh those interests alongside sentient interests, and must not treat natural systems only as raw materials to extract. Those continuity and integrity interests may be brought to an Environment forum by a published representative acting for the system, not only as a private sentient harm claim.

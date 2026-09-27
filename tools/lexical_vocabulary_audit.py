@@ -76,6 +76,7 @@ _BREACH_FAMILY = re.compile(
 )
 
 _MINIMA_WORD = re.compile(r"\bminima\b", re.IGNORECASE)
+_SERIOUSLY_WORD = re.compile(r"\bseriously\b", re.IGNORECASE)
 _COURT_FAMILY = re.compile(r"\bcourts?\b", re.IGNORECASE)
 _TRIBUNAL_FAMILY = re.compile(r"\btribunals?\b", re.IGNORECASE)
 _TRIBUNAL_ALLOWED_EXTERNAL = re.compile(
@@ -542,6 +543,32 @@ def scan_avoid_minima(rel_path: str, text: str) -> list[Finding]:
     return findings
 
 
+def scan_avoid_seriously(rel_path: str, text: str) -> list[Finding]:
+    """Reject **seriously**; prefer **materially** / **material** (the defined Materiality threshold)."""
+    findings: list[Finding] = []
+    lines = text.splitlines()
+    in_fence = False
+
+    for idx, raw in enumerate(lines, start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+
+        if _SERIOUSLY_WORD.search(_mask_inline_code_and_link_targets(raw)):
+            findings.append(
+                Finding(
+                    file=rel_path,
+                    line=idx,
+                    rule="avoid-seriously",
+                    text=raw.strip(),
+                ),
+            )
+
+    return findings
+
+
 def scan_avoid_court_family(rel_path: str, text: str) -> list[Finding]:
     """Reject **court** / **courts** in institutional senses; prefer **forum** / **forums**."""
     findings: list[Finding] = []
@@ -798,6 +825,7 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`prefer-sentients-not-person-people-phrasing`:** reject standalone **person** / **persons** (including possessives), **people**, and **people and agents** → use **sentient** / **sentients** (or another defined corpus term). Exceptions are preserved by boundary rules for compounds and lemmas such as **in-person**, **personal**, **personnel**, **persona**, **personalized**, and **non-personal data**.",
         "- **`avoid-accession-jargon`:** reject **accede**, **acceding**, and **accession** → prefer **join** / **joining** / **additional parties** adoption wording.",
         "- **`avoid-undefined-breach-family`:** reject standalone **breach** / **breaches** / **breached** / **breaching**, **duty breach**, and **duty-breaching** → prefer **violation**, **non-compliance**, **unmet duties**, or defined Chapter Nine typing (see `.cursor/rules/clarity.mdc`). *Currently enforced only on files in `_BREACH_FAMILY_SCOPE` inside `tools/lexical_vocabulary_audit.py`.*",
+        "- **`avoid-seriously`:** reject **seriously** → use **materially** / **material** (the defined [Materiality](core_05_band_oversight.md#materiality-determination) threshold), not an intensity adverb.",
         "- **`avoid-minima`:** reject **minima** → prefer **requirements**, **floors**, **conditions**, or another context-specific term.",
         "- **`avoid-court-family`:** reject **court** / **courts** in institutional senses → prefer **forum** / **forums**, **forum family**, or **adjudicative body**.",
         "- **`avoid-tribunal-family`:** reject internal Chapter Twelve / forum-governance **tribunal** / **tribunals** → prefer **forum** / **forums**, **forum family**, **panel**, **bench**, or **adjudicative body**. **Allowed:** external or historical tribunal wording where source fidelity or external legal-order references require it.",
@@ -868,6 +896,7 @@ def main() -> int:
         findings.extend(scan_prefer_sentients_not_people_phrasing(rel_path, text))
         findings.extend(scan_avoid_accession_jargon(rel_path, text))
         findings.extend(scan_avoid_minima(rel_path, text))
+        findings.extend(scan_avoid_seriously(rel_path, text))
         findings.extend(scan_avoid_court_family(rel_path, text))
         findings.extend(scan_avoid_tribunal_family(rel_path, text))
         findings.extend(scan_avoid_standing_calculus(rel_path, text))

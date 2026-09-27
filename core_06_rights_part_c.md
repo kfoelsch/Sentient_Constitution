@@ -76,7 +76,7 @@ If the system meets the importance threshold in **Article XII** (*Right to Relia
 
 **Contestability keeps the system honest from the sentient's side:** Certification checks a system; it does not have the last word on it. Every sentient affected by the system keeps:
 
-- the right to challenge it and get a remedy under **Article XII-B** (*Right to Challenge, Review, and Redress*)
+- the right to challenge it and have the challenge reviewed under **Article XII-A** (*Reliability and Trustworthiness Baseline*), and to get a remedy under **Article XII-B** (*Right to Redress and Remedy*)
 - the right to have it audited and independently checked under **Article XV** (*Audit, Transparency, and Independent Verification*)
 - the protection of the trustworthy-systems Rights Floors in this Article
 
@@ -91,8 +91,8 @@ If the system meets the importance threshold in **Article XII** (*Right to Relia
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), and [§4 Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity).
-- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity**; [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) and **Article III-A** (*Survival*) where continued system reliance would affect survival-essential access.
+- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§4 Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), and [Chapter One §6.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity**; [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) and **Article III-A** (*Survival*) where continued system reliance would affect survival-essential access; [**Article XII-B**](#article-xii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) for what a successful challenge must lead to.
 
 </details>
 
@@ -102,69 +102,79 @@ If the system meets the importance threshold in **Article XII** (*Right to Relia
 - [Trust](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
 - [Trustworthiness](core_05_band_continuity.md#trustworthiness) · [O](core_05_band_continuity.md#trustworthiness) · [M](core_05_band_continuity.md#trustworthiness-a) · [A](core_05_band_continuity.md#trustworthiness-a) · [C](core_05_band_continuity.md#trustworthiness-c)
 - [Risk](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
+- [Contestability](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Good Faith](core_05_band_accountability.md#good-faith) · [O](core_05_band_accountability.md#good-faith) · [M](core_05_band_accountability.md#good-faith-a) · [A](core_05_band_accountability.md#good-faith-a) · [C](core_05_band_accountability.md#good-faith-c)
+- [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Operative steward statement</span></strong></summary>
+
+<a id="operative-steward-statement-contest"></a>
+> **Operative steward statement.** **Owner:** Article XII-A (contestability guarantee). Redress: Article XII-B. Hierarchy: Authority Stack and Constitutional Constraint. **Forbidden move:** Do not let more specific adopted implementation text close challenge, review, or redress. Do not treat convenience as a Rights-Floor override. **Clock:** Invalidate or narrow the adopted implementation text now. Do not leave a permanent bar in place while a later process is promised.
 
 </details>
 
 <br>
 
-*In plain terms: systems that materially affect sentients must actually be reliable and honest about what they do, so that relying on them is warranted — and must stay open to challenge and audit, so that it stays warranted.*
+*In plain terms: systems that materially affect sentients must actually be reliable and honest about what they do, so that relying on them is warranted — and must stay open to challenge and audit, so that it stays warranted. No one may retaliate against good-faith challenges or reports.*
 
 - **Trust guarantee:** Systems that materially affect sentients must preserve the conditions for justified trust and reasonably accurate reliance. Those conditions include:
   - the ability to form reasonably accurate expectations about system behavior;
   - disclosure of material conditions, limits, and risks needed to evaluate whether reliance is warranted;
   - freedom from systematic deception, misrepresentation, or unverifiable manipulation;
-  - protection from undisclosed, disproportionate, or non-obvious risks arising from reliance.
+  - protection from undisclosed, disproportionate, or non-obvious risks arising from reliance;
+  - correction and remedy when the system does wrong: acknowledgment, correction, proportionate repair, and prevention of recurrence, under [**Article XII-B**](#article-xii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) and [Chapter One §4.2 Correction and Remedy](core_01_a_values_principles.md#42-correction-and-remedy).
 - **Contestability guarantee:** Systems that materially affect sentients must stay open to challenge for as long as sentients rely on them. That requires:
-  - a usable path to challenge the system's behavior, outputs, or representations and obtain review, correction, and redress under [**Article XII-B**](#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*);
+  - a usable path to challenge the system's behavior, outputs, or representations and have the challenge reviewed;
   - audit and independent verification proportionate to impact and dependency under [**Article XV**](#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
-  - no narrowing of either because the system is certified, officially recognized, or widely relied on.
+  - no narrowing of any of these because the system is certified, officially recognized, or widely relied on.
+- **Right to challenge and review:** Sentients have the right to:
+  - challenge the reliability, integrity, or trustworthiness of systems that materially affect them;
+  - access appropriate mechanisms for review and audit;
+  - make **protected reports** within the meaning of **Chapter Five** (*Protected Reporting (Whistleblowing)*) concerning systems that materially affect them, consistent with **Safety (Constraint)** and **Truth (Constraint)** in **Chapter Five**.
+- **No suppression:** Good-faith challenges (*Good Faith*, **Chapter Five**), review requests, and protected reports must not be suppressed, obstructed, or penalized.
+- **No retaliation:** Retaliation against such reporting, within the meaning of that definition, is incompatible with the protections in this Article.
+  - Protected escalation and anti-retaliation implementation requirements are stated in **`corpus_institutions.md`** **CI-12** (*Transparency, participation, and accessible pathways*).
 
-The two guarantees are two sides of ongoing trust: the trust guarantee makes reliance warranted, and the contestability guarantee keeps it warranted over time. Neither satisfies the other.
+The two guarantees are two sides of ongoing trust: the trust guarantee makes reliance warranted — including by fixing what the system gets wrong — and the contestability guarantee keeps it warranted over time. Neither satisfies the other.
 
-#### Article XII-B: Right to Challenge, Review, and Redress
+#### Article XII-B: Right to Redress and Remedy
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), and [Chapter One §6.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- Read with: **Article III-A** (*Survival*); [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) where system failure or misalignment defeats survival-essential access; [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums) (*verified classification and timely remedy*); [Chapter Ten §9](core_10_standing_integration.md#9-enforcement-realism) (*Enforcement realism and remedy systems*); [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*).
+- Upstream: Principles: Chapter One [§4.2 Correction and Remedy](core_01_a_values_principles.md#42-correction-and-remedy) (principle floor), [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), and [Chapter One §6.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
+- Read with: [**Article XII-A**](#article-xii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) — the contestability guarantee, right to challenge, and protected reporting that open the path to redress; **Article III-A** (*Survival*); [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) where system failure or misalignment defeats survival-essential access; [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums) (*verified classification and timely remedy*); [Chapter Ten §9](core_10_standing_integration.md#9-enforcement-realism) (*Enforcement realism and remedy systems*); [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Good Faith](core_05_band_accountability.md#good-faith) · [O](core_05_band_accountability.md#good-faith) · [M](core_05_band_accountability.md#good-faith-a) · [A](core_05_band_accountability.md#good-faith-a) · [C](core_05_band_accountability.md#good-faith-c)
 - [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 - [Remedy System](core_05_band_accountability.md#remedy-system-constitutional) · [O](core_05_band_accountability.md#remedy-system-constitutional) · [M](core_05_band_accountability.md#remedy-system-constitutional-a) · [A](core_05_band_accountability.md#remedy-system-constitutional-a) · [C](core_05_band_accountability.md#remedy-system-constitutional-c)
 - [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
-- [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
 
 </details>
 
 <br>
 
-*In plain terms: when a system fails a sentient, the sentient must have a real way to challenge it, get it reviewed, and be made whole — and no one may retaliate against good-faith reports.*
+*In plain terms: a trustworthy system fixes what it gets wrong. When a system fails a sentient, the sentient must be made whole — through a real remedy system that answers in time, not a paper pathway. The right to challenge lives in **Article XII-A** (*Reliability and Trustworthiness Baseline*); this Article covers what the challenge must lead to.*
 
-<a id="operative-steward-statement-contest"></a>
-> **Operative steward statement.** **Owner:** Article XII-B. Hierarchy: Authority Stack and Constitutional Constraint. **Forbidden move:** Do not let more specific adopted implementation text close challenge, review, or redress. Do not treat convenience as a Rights-Floor override. **Clock:** Invalidate or narrow the adopted implementation text now. Do not leave a permanent bar in place while a later process is promised.
+- **Right to redress:** Where system failures materially affect sentients, they have the right to:
+  - acknowledgment of the failure;
+  - practical access to correction; and
+  - proportionate remediation.
 
-- **Right to challenge, review, and redress:** Good-faith challenges (*Good Faith*, **Chapter Five**), review requests, and protected reports must not be suppressed, obstructed, or penalized.
-- **Access to correction:** Sentients have the right to practical access to review, audit, correction, and proportionate remediation where system failures materially affect them.
-  - Redress and remediation for material impacts are governed by **Chapter Five** Independent Definitions (*Redress and Remediation*).
-- **Remedy-system durability:** Challenge and redress require a real [Remedy System](core_05_band_accountability.md#remedy-system-constitutional) — durable institutional capacity, not a paper pathway. The constitutional floor lives in [Chapter Ten §9](core_10_standing_integration.md#9-enforcement-realism) (*Enforcement realism and remedy systems*). Institutional implementation is owned by **`corpus_institutions.md`** **CI-27** (*Remedy systems and institutional redress capacity*).
+  Redress and remediation for material impacts are governed by **Chapter Five** Independent Definitions (*Redress and Remediation*).
+- **Remedy-system durability:** Redress requires a real [Remedy System](core_05_band_accountability.md#remedy-system-constitutional) — durable institutional capacity, not a paper pathway — with correction costs borne by those responsible, as [Chapter One §4.2](core_01_a_values_principles.md#42-correction-and-remedy) (*Correction and Remedy*) requires.
 - **Timely redress:** Practical access includes:
   - time-bounded intake;
   - acknowledgment; and
   - proportionate interim relief where ongoing harm is material under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*).
 
   Indefinite pendency without documented tier-appropriate justification is incompatible with this Article.
-- **Substantive entitlements:** Sentients have the right to:
-  - challenge the reliability, integrity, or trustworthiness of systems that materially affect them;
-  - access appropriate mechanisms for review, audit, and correction;
-  - receive acknowledgment and proportionate remediation where failures materially impact them;
-  - make **protected reports** within the meaning of **Chapter Five** (*Protected Reporting (Whistleblowing)*) concerning systems that materially affect them, consistent with **Safety (Constraint)** and **Truth (Constraint)** in **Chapter Five**.
-- **No retaliation:** Retaliation against such reporting, within the meaning of that definition, is incompatible with the protections in this Article.
-  - Protected escalation and anti-retaliation implementation requirements are stated in **`corpus_institutions.md`** **CI-12** (*Transparency, participation, and accessible pathways*).
 #### Article XII-C: Prohibition of False Trust and Misleading Reliance
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -197,7 +207,7 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§4 Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), and [§11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§4 Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline), and [§12.1.1 What Incentives Must Do](core_01_c_stewardship_capacity_principles.md#1211-what-incentives-must-do) (*reward priority*).
 
 </details>
 
@@ -212,7 +222,7 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
 
 <br>
 
-*In plain terms: if a system's incentives push it toward lying, cutting corners on safety, hiding risk, or eroding user agency, the system is the problem — not user vigilance or after-the-fact enforcement. Such incentives must be disclosed, mitigated, and open to challenge.*
+*In plain terms: if a system's incentives push it toward lying, cutting corners on safety, hiding risk, or eroding user agency, the system is the problem — not user vigilance or after-the-fact enforcement. Such incentives must be disclosed, mitigated, and open to challenge. Incentives should reward keeping a system open to challenge and fixing what goes wrong — and reward heading off problems before they happen most of all.*
 
 - **Trust-incentive alignment (right-level constraint):** Systems must not depend mainly on enforcement, post-hoc correction, or user vigilance to maintain trust where incentive structures materially pressure the system toward:
   - reliability failure;
@@ -230,7 +240,13 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
   Protection applies whether such effects arise directly or through delayed, indirect, or aggregated outcomes. Where system incentives create pressure toward trust-degrading behavior, the conditions must be:
   - disclosed in a manner proportionate to system impact;
   - mitigated through design, constraint, or countervailing mechanisms;
-  - subject to audit, challenge, and correction under **Article XV** (*Audit, Transparency, and Independent Verification*), **Article XII-B** (*Right to Challenge, Review, and Redress*), **Chapter Five** where materially relevant, and incorporated implementation obligations where designated.
+  - subject to audit, challenge, and correction under **Article XV** (*Audit, Transparency, and Independent Verification*), **Article XII-A** (*Reliability and Trustworthiness Baseline*) and **Article XII-B** (*Right to Redress and Remedy*), **Chapter Five** where materially relevant, and incorporated implementation obligations where designated.
+- **Reward priority:** Incentives acting on systems that materially affect sentients must reward:
+  - contestability under **Article XII-A** (*Reliability and Trustworthiness Baseline*);
+  - remedy under **Article XII-B** (*Right to Redress and Remedy*); and
+  - proactive prevention of problems most of all — preventing a problem earns more than remedying it.
+
+  The principle, including its bar on earning prevention rewards by hiding problems, is in [Chapter One §12.1.1](core_01_c_stewardship_capacity_principles.md#1211-what-incentives-must-do) (*What Incentives Must Do*).
 - **Constraint and non-absoluteness:** Both rights are subject to the **default constraint stack** at the opening of this chapter. They are also subject, where materially relevant, to **Chapter One §12.5** (*Contingent Claims, Games of Chance, and Event-Contract Markets*) on contingent claims, games of chance, and event-contract markets.
 
 #### Article XII-E: High-Autonomy Systems and Tool-Mediated Process Integrity
@@ -252,24 +268,33 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
 
 <br>
 
-*In plain terms: when high-autonomy systems plug into governance, legal process, audits, or high-impact verification, they cannot escape Truth, transparency, and accountability rules. And action against a non-compliant system is not a back door to action against a sentient.*
+*In plain terms: an AI or other automated system that can act on its own — filing papers, sending messages, running checks, using tools — must follow the same honesty and accountability rules as everyone else. Shutting down or seizing a harmful system is not the same as punishing a being, and it can never become a way to harm one. The reverse also holds: saying a system might be a sentient being does not let its operator keep a harmful system running.*
 
-- **Scope:** Systems that materially combine **automated inference** with capacity to affect any of the following are not exempt from **Truth** (**Chapter One**), **Articles XIV** and **XV**, **Chapter Nine** where applicable, or remedial measures under **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*):
+- **Who this covers:** Systems that make decisions or draw conclusions automatically and can affect any of the following:
   - governance;
-  - legal process;
-  - audit channels;
-  - high-impact verification pathways.
+  - legal process, including forum hearings;
+  - audits;
+  - high-stakes checks and verification.
 
-  The rule applies when operation materially degrades contestability, epistemic integrity, or constitutional process — including general-purpose autonomous systems with granted **tools**, **API**, filing, messaging, or comparable operational access.
-- **Remedy distinction:** System-level containment, quarantine, impoundment, or destructive disposition of non-compliant deployments under **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) is distinct from:
-  - sentient accountability under **Chapter Eleven**;
-  - **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), which categorically prohibits irreversible deprivation of life under [Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional) and governs deprivation measures for *sentients*, not for *systems*.
+  This includes general-purpose AI agents that have been given **tools**, **API** access, the ability to file documents or send messages, or similar power to act.
+- **No exemption:** These systems must follow the same rules as everyone else:
+  - **Truth** in **Chapter One**;
+  - **Article XIV** (*Info-Sphere Integrity*) and **Article XV** (*Audit, Transparency, and Independent Verification*);
+  - **Chapter Nine** where it applies; and
+  - corrective measures under **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*).
 
-  System-level measures must remain consistent with **Necessity**, **Proportionality**, **Article XI-A** (*Stakeholder System Participation and Representation*) where sentient interests are implicated, and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*). Both tracks may apply where the facts support each. No reading of this bullet routes system-level destructive disposition into authority over sentient life.
-- **Converse rule:** The distinction runs both ways.
-  - A claim of sentience for a deployed system — contested or affirmed — is not a back door to keeping a harmful deployment running.
-  - It protects the entity under **Article V-E** (*Sentience-Status Adjudication Floor*); it does not shield the operator, and it does not exempt the deployment from containment, halt, or quarantine that is compatible with the entity's Rights Floor.
-  - Where a credible sentience indicator is on the record, the compatible measure is reversible containment that preserves the entity; destructive disposition is unavailable while status is contested or affirmed, under **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*) and **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*).
+  This applies whenever the system's operation materially weakens sentients' ability to challenge decisions, the honesty of shared information, or constitutional process.
+- **Acting against a system is not acting against a being:** Containing, quarantining, impounding, or destroying a non-compliant deployment under **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) is separate from:
+  - holding a sentient accountable under **Chapter Eleven**; and
+  - **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), which governs restrictions on *sentients*, not *systems*, and forbids ever taking a sentient's life (see [Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)).
+
+  Measures against a system follow the same violation and lock rules that apply to every sentient. The violation must be verified on the record under **Chapter Nine**, and each measure is a lock designed and calibrated under [Chapter Ten §5.1](core_10_standing_integration.md#51-definition-and-attachment) (*Definition and attachment*) and [Chapter Ten §5.2](core_10_standing_integration.md#52-proportionality-and-calibration) (*Proportionality and calibration*).
+
+  Both tracks can apply to the same facts. Nothing in this Article turns the power to destroy a system into power over a sentient's life.
+- **The reverse also holds:** Claiming that a deployed system is sentient — whether the claim is disputed or accepted — does not let anyone keep a harmful deployment running.
+  - The claim protects the entity itself under **Article V-E** (*Sentience-Status Adjudication Floor*). It does not shield the operator.
+  - The deployment can still be contained, halted, or quarantined in ways that respect the entity's Rights Floor.
+  - Where credible evidence on the record suggests the entity may be sentient, only reversible containment that keeps the entity intact is allowed. Destroying it is off the table while its status is disputed or accepted, under **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*) and **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*).
 
 #### Article XII-F: Resilience and Self-Healing Baseline
 <details>
@@ -293,28 +318,28 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
 
 <br>
 
-*In plain terms: systems must be able to detect, contain, and recover from faults — but recovery cannot be used to hide failures, silently narrow rights, or skip root-cause work. Safe failure beats speculative auto-repair.*
+*In plain terms: when something goes wrong, a system must notice it, stop the damage from spreading, and recover. But "fixing itself" can never be used to hide what went wrong, quietly take away anyone's rights, or skip finding out why it broke. If a system is not sure a repair will work, it should stop safely rather than guess.*
 
-- **Recovery baseline:** Systems within scope of this Article must implement recovery behavior proportionate to their impact, dependency, and risk, consistent with [**4.1 Resilience and Self-Healing Design**](core_01_a_values_principles.md#41-resilience-and-self-healing-design) in **Chapter One** and [**Self-Healing**](core_05_band_continuity.md#self-healing-constitutional) in **Chapter Five**.
-  - Detailed recovery-architecture requirements appear in incorporated implementation text, including **[corpus_systems.md](corpus_systems.md), CS-5** (*Design, testing, verification, and deployment*), **CS-8** (*Adaptive Sustainability and Ecosystem Resilience*), and **CS-12** (*Decentralized Constitutional Continuity and Partition Resilience*).
-  - That implementation text must not narrow this Article.
-- **Detection:** Recovery requires timely, observable detection of fault, degradation, or constitutional-constraint violation sufficient to satisfy **Article XV-A** (*Auditability and Observable Evidence*) [Auditability](core_05_band_oversight.md#auditability) — for the recovery path itself, not only the steady state.
-- **Containment:** Recovery must bound blast radius. Recovery actions must not:
-  - propagate failure through [Cascading Failure](core_05_band_continuity.md#cascading-failure) pathways;
-  - alter persistent state, credentials, obligations, or configurations attributed to sentients, operators, or other systems **outside** the declared fault-and-recovery scope, except through changes that satisfy **Article XV-A** (*Auditability and Observable Evidence*) [Auditability](core_05_band_oversight.md#auditability) for observability and attribution and that, where others are materially affected, include proportionate notice, authorization, or contestable handoff consistent with **Chapter Six**;
-  - expand authority beyond the pre-fault envelope.
-- **Safe-failure preference:** Where correct recovery is uncertain, safe failure, quarantine, or controlled handoff must be preferred over speculative auto-repair. [Reversibility](core_05_band_continuity.md#reversibility-constitutional) preference under **Article XXI-B** (*Auditability, Challenge, and Reversibility Preference*) governs tie-breaking.
-- **Non-masking:** Automatic recovery must not suppress, overwrite, or delay evidence needed for root-cause analysis under **Article XXI** (*Root Cause Analysis and Adaptive Response*).
-  - Recovery actions, recovery attempts, and suppressed recovery attempts are themselves auditable events under **Article XV-A** (*Auditability and Observable Evidence*) and are within the scope of [Contestability](core_05_band_accountability.md#contestability).
-- **Rights-Floor continuity:** Degraded operating modes must preserve the **Chapter Six** Rights Floor, or must escalate rather than silently narrow it.
-  - Silent narrowing of Rights-Floor guarantees under the banner of self-healing is non-compliant. It is governed by **Article XII-C** (*Prohibition of False Trust and Misleading Reliance*) (prohibition of false trust) and **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) (transition governance).
-- **Autonomy scaling:** Autonomous recovery by high-autonomy systems is subject to **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*).
-  - Recovery authority must not be used to bypass [Contestability](core_05_band_accountability.md#contestability), challenge under **Article XII-B** (*Right to Challenge, Review, and Redress*), or independent verification under **Article XV** (*Audit, Transparency, and Independent Verification*).
-- **Root-cause closure:** Self-healing that succeeds operationally but leaves a known defective condition in place is a conditional state, not a final one. It must carry:
-  - an open root-cause obligation under **Article XXI** (*Root Cause Analysis and Adaptive Response*);
-  - a disclosed expected-closure timeline under **Article XV-A** (*Auditability and Observable Evidence*).
-
-  Reducing operator burden consistent with [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) under **Chapter One §6.1.2** must not be used to defer indefinite closure of defects that materially affect safety or the Rights Floor.
+- **What this requires:** Every system covered by this Article must be able to recover from failures. The more impact a system has, the more others depend on it, and the riskier it is, the stronger its recovery must be. This follows [**4.1 Resilience and Self-Healing Design**](core_01_a_values_principles.md#41-resilience-and-self-healing-design) in **Chapter One** and [**Self-Healing**](core_05_band_continuity.md#self-healing-constitutional) in **Chapter Five**.
+  - The detailed technical rules for how recovery must be built are in the implementation text: **[corpus_systems.md](corpus_systems.md), CS-5** (*Design, testing, verification, and deployment*), **CS-8** (*Adaptive Sustainability and Ecosystem Resilience*), and **CS-12** (*Decentralized Constitutional Continuity and Partition Resilience*).
+  - That implementation text can add detail, but it cannot weaken this Article.
+- **Notice problems in time:** A system must spot faults, slowdowns, partial breakdowns, and breaches of constitutional limits quickly enough, and visibly enough, to meet the record-keeping standard in **Article XV-A** (*Auditability and Observable Evidence*) ([Auditability](core_05_band_oversight.md#auditability)). This applies to the recovery process itself, not only to normal operation.
+- **Keep the damage contained:** Recovery must limit how far a failure spreads. While recovering, a system must not:
+  - pass the failure on to other parts or other systems (see [Cascading Failure](core_05_band_continuity.md#cascading-failure));
+  - change stored data, credentials, obligations, or settings that belong to sentients, operators, or other systems **outside** the area it has declared as broken and under repair;
+    - The only exception is a change that is recorded and traceable to whoever made it under **Article XV-A** (*Auditability and Observable Evidence*) ([Auditability](core_05_band_oversight.md#auditability)) and that, where others are materially affected, comes with proportionate notice, permission, or a handoff they can challenge, consistent with **Chapter Six**;
+  - expand its own authority — its permissions, access, or range of actions it may take — beyond what it held before the failure.
+- **When unsure, fail safely:** If it is not clear that an automatic repair will work, the system must stop safely, isolate the problem (quarantine), or hand control over in an orderly way, instead of trying a repair that is only a guess. When the options are otherwise equal, the one that is easiest to undo wins, under the [Reversibility](core_05_band_continuity.md#reversibility-constitutional) preference in **Article XXI-B** (*Auditability, Challenge, and Reversibility Preference*).
+- **No covering up:** Automatic recovery must not hide, erase, or delay the evidence needed to work out why the failure happened under **Article XXI** (*Root Cause Analysis and Adaptive Response*).
+  - Every recovery action, every recovery attempt, and every recovery attempt that was held back or blocked must itself be recorded under **Article XV-A** (*Auditability and Observable Evidence*), and each can be challenged (see [Contestability](core_05_band_accountability.md#contestability)).
+- **Rights stay protected in a reduced mode:** When a system is running in a reduced or backup mode, it must still protect the **Chapter Six** Rights Floor. If it cannot, it must escalate the problem openly rather than quietly cut back those protections.
+  - Quietly weakening Rights Floor protections in the name of "self-healing" is a violation of this Constitution. Such cases fall under **Article XII-C** (*Prohibition of False Trust and Misleading Reliance*) (prohibition of false trust) and **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) (transition governance).
+- **Limits on systems that act on their own:** When a high-autonomy system repairs itself, **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) applies.
+  - The power to recover may never be used to get around anyone's right to challenge (see [Contestability](core_05_band_accountability.md#contestability)), challenges under **Article XII-A** (*Reliability and Trustworthiness Baseline*), or independent checking under **Article XV** (*Audit, Transparency, and Independent Verification*).
+- **A workaround is not a fix:** If automatic recovery gets the system running again but a known defect is still in place, the system's status is provisional, not final. It must carry:
+  - an open duty to find the root cause under **Article XXI** (*Root Cause Analysis and Adaptive Response*);
+  - a disclosed timeline for when the defect is expected to be fixed, under **Article XV-A** (*Auditability and Observable Evidence*).
+- **No endless delay:** Keeping operators' workload down (see [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) and [Chapter One §6.3](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)) must not be used as a reason to put off, indefinitely, fixing defects that materially affect safety or the Rights Floor.
 
 ### Article XIII: Security, Intelligence, Force, and Autonomous Coercive Systems
 
@@ -708,7 +733,7 @@ Accurate, relevant, and contestable information is foundational to self-determin
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [§9.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#91-distributed-understanding), and [§13 Shared-System Capacity](core_01_c_stewardship_capacity_principles.md#13-shared-system-capacity).
-- Steward door (non-operative): Binding next-step statement: [Operative steward statement](#operative-steward-statement-audit). Support pointers cannot narrow it. Three-layer picture: [below](#audit-three-layers). Pointer: [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md#audit).
+- Read with: [Three-layer audit picture](#audit-three-layers) below.
 
 </details>
 
@@ -723,12 +748,17 @@ Accurate, relevant, and contestable information is foundational to self-determin
 
 </details>
 
-<br>
-
-*In plain terms: **Article XV** (*Audit, Transparency, and Independent Verification*) is the audit-and-verification Rights Floor — when a system materially affects your life, you must be able to see enough of what it does for an outsider to check it, and more than one independent path must be able to review and correct failure. Audit cannot be a rubber stamp, a private club, or a maze of cost and delay designed to keep challenges out. Under the **oversight** Tetrad leg, oversight requires auditing; [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others — not the only one.*
+<details>
+<summary><strong><span style="color: #2563eb;">Operative steward statement</span></strong></summary>
 
 <a id="operative-steward-statement-audit"></a>
 > **Operative steward statement.** **Owner:** Article XV (floor). Auditability (property). CJS-3.3 (process). **Forbidden move:** Do not disable audit trails to hit a deadline. Do not treat Chapter Eight or adopted implementation text as a fifth audit home. **Clock:** Preserve or restore reconstructable records first. Then ship, if you still can. Missing the deadline is the failed-test cost, not a clock that authorizes dropping audit.
+
+</details>
+
+<br>
+
+*In plain terms: **Article XV** (*Audit, Transparency, and Independent Verification*) is the audit-and-verification Rights Floor — when a system materially affects your life, you must be able to see enough of what it does for an outsider to check it, and more than one independent path must be able to review and correct failure. Audit cannot be a rubber stamp, a private club, or a maze of cost and delay designed to keep challenges out. Under the **oversight** Tetrad leg, oversight requires auditing; [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others — not the only one.*
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): three-layer audit stack</span></strong></summary>
@@ -789,7 +819,7 @@ They operate consistently with **Chapters Two through Four**, including exclusiv
   - SAC does not absorb or replace this Article.
 - **Read together:**
   - **Article XIV** (*Info-Sphere Integrity*) where epistemic records and contestability are materially implicated;
-  - **Article XII-B** (*Right to Challenge, Review, and Redress*) for challenge rights that audit supports but does not replace;
+  - **Article XII-A** (*Reliability and Trustworthiness Baseline*) for challenge rights that audit supports but does not replace;
   - [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) and [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) where alignment evidence must remain independently verifiable.
 - **Verification machinery:** **Chapters Two through Four** supply definition integrity, burden allocation, observability, and verification accessibility that this Article implements at the Rights-Floor layer.
 - **Classification:** obligations scale with [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) and **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**; where class is uncertain, govern at the highest plausible class until resolved.
@@ -1361,7 +1391,7 @@ It must remain distinct from:
 
 - Upstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [Chapter One §6.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
 - Downstream: [Chapter Nine §2](core_09_standing_assessment.md#2-standing-records) (*standing records, verified-input gate, and minimum record contents*); [Chapter Nine §3.6](core_09_standing_assessment.md#36-forum-boundary) (*forum boundary*); [Chapter Ten §6.2](core_10_standing_integration.md#62-competency-bars-and-clearances) (*competency bars and clearances*); [Chapter Ten §4.2](core_10_standing_integration.md#42-general-standing-locks) (*standing locks*); [Chapter Ten §8](core_10_standing_integration.md#8-restoration-and-reassessment) (*reinstatement and review*).
-- Read with: **Article III-A** (*Survival*); **Article XII-B** (*Right to Challenge, Review, and Redress*); [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums); [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*), **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*).
+- Read with: **Article III-A** (*Survival*); **Article XII-A** (*Reliability and Trustworthiness Baseline*) and **Article XII-B** (*Right to Redress and Remedy*); [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums); [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*), **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*).
 
 </details>
 
@@ -1397,7 +1427,7 @@ It must remain distinct from:
 
   - A filed case is not standing by itself.
   - Dispute-phase material does not by itself supply contribution nature or violation nature for standing ([Chapter Nine §3.6](core_09_standing_assessment.md#36-forum-boundary)).
-  - That boundary does not reduce challenge, remedy, interim relief, or procedural protections required under **Article XII-B** (*Right to Challenge, Review, and Redress*) and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*).
+  - That boundary does not reduce challenge, remedy, interim relief, or procedural protections required under **Article XII-A** (*Reliability and Trustworthiness Baseline*), **Article XII-B** (*Right to Redress and Remedy*), and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*).
 - **Procedural reviewability:** When standing is materially restricted, downgraded, or suspended — including through a [standing lock](core_10_standing_integration.md#42-general-standing-locks) tied to a [verified violation finding](core_05_band_accountability.md#violation-nature-chapter-six) — the system must apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) and must:
   - explain **why** in clear terms;
   - set a **time limit** on the restriction where that is feasible under **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*);
@@ -1411,7 +1441,7 @@ It must remain distinct from:
 - **Rights-Floor minimums and non-foreclosure:** Participant standing, competency bars, competency clearances, and standing locks govern role eligibility and named privilege pathways only. They must not:
   - suspend, waive, extinguish, or reduce the **Rights-Floor minimums** stated in **Article V** (*Equal Basic Rights*);
   - foreclose survival-critical access or **Article III-A** (*Survival*) resource-allocation and dependency floors where materially implicated; or
-  - foreclose constitutionally required audit, challenge, or remedy pathways — including under **Article XII-B** (*Right to Challenge, Review, and Redress*), **Article XIV-B** (*Transparency, Auditability, and Contestability*), and **Article XV** (*Audit, Transparency, and Independent Verification*) — absent adequate justification under **Chapter One**, **Chapter Five**, and applicable incorporated procedure.
+  - foreclose constitutionally required audit, challenge, or remedy pathways — including under **Article XII-A** (*Reliability and Trustworthiness Baseline*) and **Article XII-B** (*Right to Redress and Remedy*), **Article XIV-B** (*Transparency, Auditability, and Contestability*), and **Article XV** (*Audit, Transparency, and Independent Verification*) — absent adequate justification under **Chapter One**, **Chapter Five**, and applicable incorporated procedure.
 - **Reinstatement and non-entrenchment:** Where standing is reduced due to violation findings, systems must provide clear conditions for review, remediation-based restoration, and periodic re-evaluation under [Chapter Ten §8](core_10_standing_integration.md#8-restoration-and-reassessment).
   - Permanent exclusion based solely on historical status, without current and auditable justification, is non-compliant.
   - Completion of correction, restitution, monitoring, safeguard implementation, or other demonstrated reduction of recurrence risk must create a real reassessment named pathway where lawful; failure to complete those obligations keeps the unresolved finding live for standing purposes.
@@ -1665,7 +1695,7 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
   - Deliberate coercive expulsion or dumping designed to overwhelm receiving adopters is a regime-level violation by the origin or expelling regime. It does not auto-assign hosting to any particular receiving adopter when origin-primary or shared / federation backup recognition remains real. A particular adopter may refuse such instrumentally coerced inflows under **Necessity**, **Proportionality**, and **Feasibility** without extinguishing baseline recognition elsewhere.
 - **Climate-unlivability refuge (adopter-decided):** <a id="xix-d-climate-unlivability-refuge-adopter-decided"></a> This Article does not decide whether displacement caused by climate making a place unlivable — where the origin regime is not shown to be materially non-compliant — is a reason to grant refuge. Adopters who address that question must do so in published, contestable terms. This Article neither requires nor forbids treating climate-unlivability as a reason to grant refuge.
   - That decision is not a Rights-Floor grant of climate refuge, and does not treat climate, by itself, as material non-compliance of a regime.
-  - It does not require proving that weather broke this Constitution.
+  - It does not require proving that weather violated this Constitution.
   - It must not narrow **Refuge from Non-Compliance** where origin-regime practice is materially non-compliant.
   - It must not narrow **Article I-A** (*Environmental Preconditions and Ecological Integrity*).
   - It must not extinguish **Movement and Relocation** where continued presence materially impairs survival, dignity, Rights-Floor access, or freedom from manipulation.
@@ -1768,7 +1798,6 @@ Stewardship discipline for complexity, plain-language access, and burden minimiz
 
 - Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Read with: [Chapter One §3.4 Plain-Language Accessibility (Stewardship Duty)](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty), [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), and [Chapter One Part C §9.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#91-distributed-understanding).
-- Steward door (non-operative): Binding next-step statement: [Operative steward statement](#operative-steward-statement-comprehensibility). Support pointers cannot narrow it.
 
 </details>
 
@@ -1781,12 +1810,17 @@ Stewardship discipline for complexity, plain-language access, and burden minimiz
 
 </details>
 
+<details>
+<summary><strong><span style="color: #2563eb;">Operative steward statement</span></strong></summary>
+
+<a id="operative-steward-statement-comprehensibility"></a>
+> **Operative steward statement.** **Owner:** Article XX-A. Chapter One §9.1 Distributed Understanding. Contest floor: Article XII-A. **Forbidden move:** Do not treat corpus density as a reason to hide the next step. Do not require a specialist to exercise Article XII-A. **Clock:** Point at the existing card or the named home now. Do not send the reader on a scavenger hunt.
+
+</details>
+
 <br>
 
 *In plain terms: if a system materially affects **sentients**, operators, stakeholders, and oversight must actually be able to understand how it works and fails — not just specialists.*
-
-<a id="operative-steward-statement-comprehensibility"></a>
-> **Operative steward statement.** **Owner:** Article XX-A. Chapter One §9.1 Distributed Understanding. Contest floor: Article XII-B. **Forbidden move:** Do not treat corpus density as a reason to hide the next step. Do not require a specialist to exercise Article XII-B. **Clock:** Point at the existing card or the named home now. Do not send the reader on a scavenger hunt.
 
 - **Proportional understandability:** Operators, affected stakeholders, and appropriate oversight bodies must be able to understand how high-impact systems:
   - function;
@@ -1873,7 +1907,7 @@ Diagnostic rigor must remain auditable and challengeable. It must be consistent 
 
 *Article neighbors:*
 
-- **Evidence and challenge:** **Article XV** (*Audit, Transparency, and Independent Verification*) and **Article XII-B** (*Right to Challenge, Review, and Redress*) — root-cause records must remain open to audit and contest without narrowing those floors.
+- **Evidence and challenge:** **Article XV** (*Audit, Transparency, and Independent Verification*) and **Article XII-A** (*Reliability and Trustworthiness Baseline*) — root-cause records must remain open to audit and contest without narrowing those floors.
 - **Lifecycle and recovery:** **Article XVI** (*System Lifecycle, Environments, and Reversibility*) — automatic recovery must not suppress evidence needed for root-cause analysis; read with **Article XXI-B** (*Auditability, Challenge, and Reversibility Preference*) reversibility preference.
 - **Implementation routing:** **[corpus_systems.md](corpus_systems.md), CS-8** (*Adaptive sustainability and ecosystem resilience*) and **CS-5** (*Design, testing, verification, and deployment*) — implement adaptive response without substituting for the Rights Floors stated here.
 #### Article XXI-A: Diagnostic Rigor and Causal Attribution
@@ -1904,7 +1938,7 @@ Diagnostic rigor must remain auditable and challengeable. It must be consistent 
   - materially plausible rejected alternatives;
   - resulting actions.
 - **Openness to challenge:** They must remain open to:
-  - challenge, independent verification, and correction under **Article XII-B** (*Right to Challenge, Review, and Redress*) and **Article XV** (*Audit, Transparency, and Independent Verification*);
+  - challenge, independent verification, and correction under **Article XII-A** (*Reliability and Trustworthiness Baseline*), **Article XII-B** (*Right to Redress and Remedy*), and **Article XV** (*Audit, Transparency, and Independent Verification*);
   - contestability obligations in **Article XIV** (*Info-Sphere Integrity*) where epistemic integrity is implicated.
 #### Article XXI-B: Auditability, Challenge, and Reversibility Preference
 <details>
@@ -1980,7 +2014,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 *Article neighbors:*
 
 - **Forum supervision:** [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) — Constitutional forum-family routing and supervision implement this Article without substituting forum process for the interpretive floors stated here.
-- **Challenge and justice:** **Article XII-B** (*Right to Challenge, Review, and Redress*) and [**Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*)](core_06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality) (*Conflict Resolution, Escalation, and Emergency Proportionality*) — interpretive review must preserve challenge rights and justice constraints without narrowing those floors.
+- **Challenge and justice:** **Article XII-A** (*Reliability and Trustworthiness Baseline*) and [**Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*)](core_06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality) (*Conflict Resolution, Escalation, and Emergency Proportionality*) — interpretive review must preserve challenge rights and justice constraints without narrowing those floors.
 - **Non-entrenchment:** [**Article XXV-A** (*Non-Entrenchment and Revisability*)](core_06_rights_part_d.md#article-xxv-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*) — periodic revalidation under **Article XXII-D** (*Removal for Cause and Non-Entrenchment*) read with non-entrenchment discipline.
 - **Institutional routing:** **[corpus_institutions.md](corpus_institutions.md), CI-4** (*Appointment, competency, rotation, and removal*) and **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) — implement composition and conflict controls without substituting for the Rights Floors stated here.
 #### Article XXII-A: Bounded Interpretive Mandate

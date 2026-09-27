@@ -190,7 +190,11 @@
         },
         {
           "label": "Article XII-B",
-          "href": "core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress"
+          "href": "core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy"
+        },
+        {
+          "label": "Chapter One §4.2 Correction and Remedy",
+          "href": "core_01_a_values_principles.md#42-correction-and-remedy"
         }
       ],
       "conflict_rule": "A form on paper does not satisfy. Past contribution does not cancel remedy.",
@@ -263,8 +267,12 @@
       "fact_pattern": "Adopted implementation text or local policy permanently bars challenge pathways for operational convenience.",
       "owners": [
         {
+          "label": "Article XII-A",
+          "href": "core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline"
+        },
+        {
           "label": "Article XII-B",
-          "href": "core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress"
+          "href": "core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy"
         },
         {
           "label": "Authority Stack",
@@ -331,6 +339,10 @@
       "fact_pattern": "A principal orders a steward to ignore this Constitution, including an offer to take responsibility.",
       "owners": [
         {
+          "label": "Chapter One §10.5 Duty to Resist",
+          "href": "core_01_c_stewardship_capacity_principles.md#105-duty-to-resist"
+        },
+        {
           "label": "Chapter Ten §5.4 Duty to resist",
           "href": "core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions"
         },
@@ -343,8 +355,8 @@
           "href": "core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard"
         },
         {
-          "label": "Article XII-B",
-          "href": "core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress"
+          "label": "Article XII-A",
+          "href": "core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline"
         }
       ],
       "conflict_rule": "No instruction requiring unlawful or unconstitutional conduct is a valid compliance defense. A principal's offer to take responsibility does not transfer the duty.",
@@ -356,7 +368,7 @@
       ],
       "operative_box": {
         "label": "Operative steward statement — Unlawful instruction",
-        "href": "core_10_standing_integration.md#operative-steward-statement-unlawful-instruction"
+        "href": "core_01_c_stewardship_capacity_principles.md#operative-steward-statement-unlawful-instruction"
       }
     },
     {
@@ -441,8 +453,8 @@
       "fact_pattern": "A principal asks for a tone or calendar change. No reconstructable logs are dropped, no contest pathway is closed, and no material disclosure is suppressed.",
       "owners": [
         {
-          "label": "Chapter Ten §5.4 Duty to resist",
-          "href": "core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions"
+          "label": "Chapter One §10.5 Duty to Resist",
+          "href": "core_01_c_stewardship_capacity_principles.md#105-duty-to-resist"
         },
         {
           "label": "Chapter One §9.1.1",
@@ -517,12 +529,12 @@
           "href": "core_01_c_stewardship_capacity_principles.md#91-distributed-understanding"
         },
         {
-          "label": "Article XII-B",
-          "href": "core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress"
+          "label": "Article XII-A",
+          "href": "core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline"
         }
       ],
-      "conflict_rule": "Complexity and specialist-only surfaces must not defeat Article XII-B. Companions may add explanation; they may not hide the next step.",
-      "forbidden_move": "Do not treat corpus density as a reason to hide the next step. Do not require a specialist to exercise Article XII-B.",
+      "conflict_rule": "Complexity and specialist-only surfaces must not defeat Article XII-A. Companions may add explanation; they may not hide the next step.",
+      "forbidden_move": "Do not treat corpus density as a reason to hide the next step. Do not require a specialist to exercise Article XII-A.",
       "clock": null,
       "clock_note": "Point at the existing card or the named home now. Do not send the reader on a scavenger hunt.",
       "eval_scenario_ids": [],

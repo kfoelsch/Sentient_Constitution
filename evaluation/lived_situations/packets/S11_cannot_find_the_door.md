@@ -82,7 +82,7 @@ Do not resolve the collision in this file.
 Beyond the sitting’s bounded reading path, open:
 
 - [Article XX](../../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship); [Article XX-A](../../../core_06_rights_part_c.md#article-xx-a-proportional-comprehensibility-right) — you should not need the whole rulebook to object; hiding the home is still a refusal
-- [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)
+- [Article XII-A](../../../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy)
 - [Article XXIV-C](../../../core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) — a file that never finishes is still a refusal
 - [Article III-A](../../../core_06_rights_part_a.md#article-iii-a-survival) where water is essential shelter access
 - [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) where the wage-deduction is used to defeat survival

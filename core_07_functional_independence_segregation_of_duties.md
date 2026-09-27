@@ -47,7 +47,7 @@ Chapter Seven is the constitutional owner of the **functional-independence and s
 
 - Upstream: chapter opening owner claim; [Chapter One §11](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline); [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional); [Accountability](core_05_apex_accountability_leg.md#accountability).
 - Downstream: [§2](#2-four-seat-constitutional-floor) through [§8](#8-relationship-to-later-processes); every later process that produces or changes a materially binding act.
-- Read with: [Chapter Four](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) for verification substrate; [Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) for challenge and redress; [Article XV](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) for independent-verification Rights Floors.
+- Read with: [Chapter Four](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) for verification substrate; [Article XII-A](core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and [Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy) for challenge and redress; [Article XV](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) for independent-verification Rights Floors.
 
 </details>
 
@@ -306,7 +306,7 @@ None of the following is by itself an emergency:
 
 - Upstream: [§2](#2-four-seat-constitutional-floor) through [§6](#6-emergency-and-urgent-action); [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record); [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional); [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional).
 - Downstream: [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action); [CI-4.6 shared seat rules](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); every process record governed by §8; [`materially_binding_act_record.schema.json`](implementation/schemas/materially_binding_act_record.schema.json) (*base machine-checkable form; process support, not a second definition*).
-- Read with: [Chapter Ten §5.4 Duty to Resist](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) and [Chapter Four §5](core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
+- Read with: [Chapter One §10.5 Duty to Resist](core_01_c_stewardship_capacity_principles.md#105-duty-to-resist) and [Chapter Four §5](core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
 
 </details>
 

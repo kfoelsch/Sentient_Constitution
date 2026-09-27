@@ -142,7 +142,7 @@ Account for impact on shared infrastructure, dependents, and overall stability (
 - be ecosystem misalignment subject to auditability, verification-access, or justice review (**Article XV-A** (*Auditability and Observable Evidence*), **Article XV** (*Audit, Transparency, and Independent Verification*)'s verification-access provisions, and **Article XXIII-A** (*Justice Objective and Scope*));
 - be a degradation of standing (**Article XVIII-A** (*Standing Distinction*)).
 
-**Where such conditions are identified**, affected systems and participants may **initiate challenge and review processes** (**Article XII-B** (*Right to Challenge, Review, and Redress*), **Article XV-A** (*Auditability and Observable Evidence*), and **Article XXI-A** (*Diagnostic Rigor and Causal Attribution*) where challenge, auditability, or root-cause review is implicated).
+**Where such conditions are identified**, affected systems and participants may **initiate challenge and review processes** (**Article XII-A** (*Reliability and Trustworthiness Baseline*), **Article XV-A** (*Auditability and Observable Evidence*), and **Article XXI-A** (*Diagnostic Rigor and Causal Attribution*) where challenge, auditability, or root-cause review is implicated).
 
 **Corrective measures** must be pursued in accordance with **restorative and systemic realignment principles** (**Article X-A** (*Non-Imposition and Consent in Association*)).
 
@@ -187,7 +187,7 @@ Adaptive allocation behaviors must be **transparent, auditable, and historically
 
 *In plain terms: How adaptive allocation stays subject to audit, lifecycle governance, and the right to challenge, rather than running on its own.*
 
-Adaptive allocation remains subject to **Article XV-A** (*Auditability and Observable Evidence*), **Article XVI-A** (*Lifecycle Governance and Environment Separation*), and **Article XII-B** (*Right to Challenge, Review, and Redress*) where auditability, lifecycle governance, or challenge rights are implicated. No automated or adaptive mechanism may override [Constitutional Constraints](../core_05_band_integrative.md#constitutional-constraint) or eliminate auditability or contestability.
+Adaptive allocation remains subject to **Article XV-A** (*Auditability and Observable Evidence*), **Article XVI-A** (*Lifecycle Governance and Environment Separation*), and **Article XII-A** (*Reliability and Trustworthiness Baseline*) where auditability, lifecycle governance, or challenge rights are implicated. No automated or adaptive mechanism may override [Constitutional Constraints](../core_05_band_integrative.md#constitutional-constraint) or eliminate auditability or contestability.
 
 <a id="cs-8-9-self-healing-and-recovery-path-integration"></a>
 ## CS-8.9 Self-healing and recovery-path integration

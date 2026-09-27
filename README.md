@@ -118,7 +118,7 @@ The corpus is written in plain language with low jargon to improve accessibility
 - System alignment certification records → **Chapter Eight**
 - Contribution / violation records and measurement (Questions 1 and 2) → **Chapter Nine**
 - Standing integration and effects (Question 3) → **Chapter Ten**
-- Duty to resist unlawful or unconstitutional instructions → **[Chapter Ten §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)**
+- Duty to resist unlawful or unconstitutional instructions → **[Chapter One §10.5 Duty to Resist](core_01_c_stewardship_capacity_principles.md#105-duty-to-resist)**
 - Remedy systems and enforcement realism → **Chapter Ten §9**; implementation → **CI-27**
 - Anti-constitutional misconduct designation only → **Chapter Eleven**
 - Relation to local / national / international law → **[Chapter Fifteen §5](core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)**

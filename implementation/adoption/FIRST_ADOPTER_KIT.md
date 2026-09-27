@@ -194,7 +194,7 @@ Two parties must not be each other’s **sole** final merits path. [Chapter Twel
 
 | If this is true | Then |
 |---|---|
-| An independent review path exists that is not the other signatory (published backup, external reviewer, or a forum family the parties do not solely staff) | Name it on the instrument. Keep [Article XII-B](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) reachable. |
+| An independent review path exists that is not the other signatory (published backup, external reviewer, or a forum family the parties do not solely staff) | Name it on the instrument. Keep [Article XII-A](../../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and [Article XII-B](../../core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy) reachable. |
 | No such path exists yet | Do **not** claim Chapter Sixteen adoption. Cooperate as operations-guide users. Keep declarations. Use steward doors. Do not invent a two-party “forum” as ceremony. Naming independent review without founding families: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md#5-independent-review-naming-not-a-forum-family). |
 | A party wants standing effects, certification badges, or LEQU scores to decide who counts | Refuse. Those are not sentience-status determinations ([Article XVIII-A](../../core_06_rights_part_c.md#article-xviii-a-standing-distinction)). |
 

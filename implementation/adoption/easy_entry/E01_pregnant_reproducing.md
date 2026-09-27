@@ -39,7 +39,7 @@ If a body that actually runs the systems in your life adopted this Constitution:
 
 **Help cannot buy whether you have a child, or who decides later.**
 - **Today:** The lease ends in days. A relative offers a spare room, food, and rides if you quit the job, switch clinics, and agree in advance that “the family” will decide living arrangements after the birth, including whether the infant stays with you.
-- **With this Constitution:** The spare room, food, and rides cannot be offered only if you quit work, give up the clinician you chose, or agree in advance that “the family” will decide after the birth — including whether the infant stays with you. Using housing or survival help as the price of those decisions is a break of this protection, not ordinary family terms you can refuse.
+- **With this Constitution:** The spare room, food, and rides cannot be offered only if you quit work, give up the clinician you chose, or agree in advance that “the family” will decide after the birth — including whether the infant stays with you. Using housing or survival help as the price of those decisions is a violation of this protection, not ordinary family terms you can refuse.
 
 See: [Reproductive Autonomy](../../../core_05_band_participation.md#reproductive-autonomy-constitutional); [Article VII-D](../../../core_06_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation).
 

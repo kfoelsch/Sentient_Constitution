@@ -76,7 +76,7 @@ Auditing **is not**:
 - a rubber stamp, marketing packet, or forever pass
 - the same thing as [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional) alone — SAC is one large sibling mode
 - a single auditor, operator, or gatekeeper monopolizing review (**Article XV-B**)
-- a substitute for challenge and remedy under **Article XII-B** (*Right to Challenge, Review, and Redress*)
+- a substitute for challenge and remedy under **Article XII-A** (*Reliability and Trustworthiness Baseline*) and **Article XII-B** (*Right to Redress and Remedy*)
 - satisfied by saying "audit happened" when outputs are missing, unreachable, or typed more restrictively than justified
 
 <a id="cjs-33-why-we-audit"></a>
@@ -109,7 +109,7 @@ A working audit process follows this chain:
    - Access-tier mechanics live in **[CJS-3.4](cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure)**; typing lives in **CS-2**.
 3. **Run an independent check:** Someone who is not captured by the operator or the claim under review must be able to test the evidence (**CJS-3.5**; **Article XV-B** / **XV-C**).
 4. **Publish usable outputs:** Findings, reports, eligibility rules for deeper access, and related artifacts must exist and remain reachable. Disclose them at the **most open feasible** tier: **Type O** (including strongest feasible public substitute) where feasible; otherwise qualified **Type G** or other non-public source; forensic or more-restricted tiers only as justified — see **[CJS-3.4](cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure)**.
-5. **Leave challenge and correction open:** Audit supports contest under **Article XII-B**; it does not replace it. Material findings must be correctable and reviewable.
+5. **Leave challenge and correction open:** Audit supports contest under **Article XII-A**; it does not replace it. Material findings must be correctable and reviewable.
 
 Privacy and internal-state protections (**Article VII-B**) limit what may be exposed. They do **not** excuse hiding what was done, why it mattered, who or what was responsible, or what external effects followed.
 

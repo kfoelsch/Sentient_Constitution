@@ -96,7 +96,7 @@ This section does not define evaluation standards, evidence sufficiency, or burd
 
 <br>
 
-*In plain terms: a system is non-compliant when what it actually does or produces would break a definition — judged under full functional conditions, not only on paper. Evasion means weakening a definition when it is actually applied. That is non-compliance under Chapter Two §2.2 — regardless of intent, awareness, or claimed purpose.*
+*In plain terms: a system is non-compliant when what it actually does or produces would violate a definition — judged under full functional conditions, not only on paper. Evasion means weakening a definition when it is actually applied. That is non-compliance under Chapter Two §2.2 — regardless of intent, awareness, or claimed purpose.*
 
 This section defines when systems are non-compliant based on observable behavior and outcomes, including:
 
@@ -135,7 +135,7 @@ The following forms of evasion are prohibited:
 - **Scope and boundary tricks** — arranging what gets counted, and when, so the hard parts never get tested:
   - narrowing evaluation or application to leave out system elements, effects, or conditions that matter
   - splitting responsibility across components, actors, or time so no one has to meet the definition for the whole system
-  - looking compliant only under observation, audit, or limited windows while breaking the definition in broader operation
+  - looking compliant only under observation, audit, or limited windows while violating the definition in broader operation
 - **Incentive traps** — building rewards, pressures, or dynamics that systematically push the system away from compliance:
   - creating conditions under which incentives, dynamics, or equilibria undermine compliance as a matter of course
 
