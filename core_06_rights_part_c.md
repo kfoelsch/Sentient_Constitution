@@ -32,6 +32,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§4 Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), and [§12 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#12-incentive-alignment-and-system-capture).
+- Read with: [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) and [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification), which do not substitute for the floors stated here.
 
 </details>
 
@@ -85,7 +86,6 @@ If the system meets the importance threshold in **Article XII** (*Right to Relia
 *Article neighbors:*
 
 - **When this applies:** Where system behavior materially gates or sustains **Chapter Six** Rights Floors — including survival essentials under **Article III-A** (*Survival*).
-- **Read together:** [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) and [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) — without substituting certification for the floors stated here.
 
 #### Article XII-A: Reliability and Trustworthiness Baseline
 <details>
@@ -688,10 +688,18 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
 ### Article XIV: Info-Sphere Integrity
 
 <details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§4 Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), and [§9.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#91-distributed-understanding).
+- Read with: [Article XII](#article-xii-right-to-reliable-and-trustworthy-systems) (*Right to Reliable and Trustworthy Systems*) where system outputs shape reliance; [Article XV](#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) for records and independent verification; [Article XVII-E](#article-xvii-e-scientific-publication-review-and-replication-integrity) (*Scientific Publication, Review, and Replication Integrity*) where publication-scoped integrity is materially implicated.
+
+</details>
+
+<details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
 - [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [Self-Determination](core_05_band_participation.md#self-determination-constitutional) · [O](core_05_band_accountability.md#self-determination-constitutional-o) · [M](core_05_band_participation.md#self-determination-constitutional-a) · [A](core_05_band_participation.md#self-determination-constitutional-a) · [C](core_05_band_participation.md#self-determination-constitutional-c)
+- [Self-Determination](core_05_band_participation.md#self-determination-constitutional) · [O](core_05_band_participation.md#self-determination-constitutional) · [M](core_05_band_participation.md#self-determination-constitutional-a) · [A](core_05_band_participation.md#self-determination-constitutional-a) · [C](core_05_band_participation.md#self-determination-constitutional-c)
 - [Contestability](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -699,6 +707,8 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
 <br>
 
 *In plain terms: **Article XIV** (*Info-Sphere Integrity*) is the information-integrity Rights Floor — the shared environment where we learn, coordinate, and decide must stay honest, plural, and open to challenge. No one gets to own the pipeline of truth. Rankings, summaries, and gatekeepers have to show their work, and you must be able to compare other views and push back when information misleads you.*
+
+Accurate, relevant, and contestable information is foundational to self-determination, coordination, and the effective allocation of resources in reality. [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) operates as both a right and a system-wide constraint. Where conflict arises, its constraint function governs.
 
 This Article states **constitutional floors** for [Info-Sphere](core_05_band_participation.md#info-sphere) integrity under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
@@ -712,13 +722,8 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 - **Accountability:** info-sphere actors must answer for selective reporting, suppression, fragmented disclosure, or other conduct that degrades decision-relevant understanding — with correction, provenance preservation, and remedy where harm follows misleading reliance.
 - **Timeliness:** in error correction, contest resolution, and disclosure review before delay would make understanding, challenge, or remedy effectively unreachable.
 
-Accurate, relevant, and contestable information is foundational to self-determination, coordination, and the effective allocation of resources in reality.
-
-[Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) operates as both a right and a system-wide constraint. Where conflict arises, its constraint function governs.
-
 *Article neighbors:*
 
-- **Read together:** **Article XII** (*Right to Reliable and Trustworthy Systems*) where system outputs shape reliance; **Article XV** (*Audit, Transparency, and Independent Verification*) for records and independent verification; **Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*) where publication-scoped integrity is materially implicated.
 - **Truth constraint:** Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) and [Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints) bind every subsection here.
 - **Classification:** **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling** scales detailed info-sphere obligations for **Class A**, **Class B**, and **Class C** systems; [Material Impact](core_05_band_oversight.md#material-impact) triggers classification where class is unsettled.
 
@@ -752,7 +757,6 @@ Accurate, relevant, and contestable information is foundational to self-determin
     - provenance and uncertainty treatment;
     - contestability;
     - proportional ability to bypass or adjust ranking criteria — subject to safety, security, and system integrity.
-  - It must not narrow this Article.
 - **Contingent-settlement signals:** Prices, odds, pool sizes, or comparable outputs of contingent-payment or event-settlement systems must not be treated, on their own, as evidence sufficient to decide truth, probability, or compliance for rights, safety, or governance determinations.
   - Where such signals inform public decisions or decisions with [Material Impact](core_05_band_oversight.md#material-impact), they remain subject to **Chapter One §12.5** (*Contingent Claims, Games of Chance, and Event-Contract Markets*), **Chapter Five** (*Truth (Constitutional Constraint)*; *Epistemic Integrity*), and contestability obligations elsewhere in this Article.
 #### Article XIV-B: Transparency, Auditability, and Contestability
@@ -809,11 +813,11 @@ Accurate, relevant, and contestable information is foundational to self-determin
 
 <br>
 
-*In plain terms: public-facing information with material external impact must correct errors, preserve provenance, and not be sliced or suppressed to mislead. Ecological-footprint reporting must be accessible and decision-usable.*
+*In plain terms: public-facing information with material external impact must correct errors, show where it came from, and not be sliced or suppressed to mislead. Ecological-footprint reporting must be accessible and decision-usable.*
 
 - **Correction, reporting, and epistemic stewardship:** Public-facing information systems and institutions with material external impact must:
   - correct material error;
-  - preserve provenance;
+  - keep a record of where their information came from and how it has been changed, so others can trace it;
   - avoid selective reporting, suppression, or fragmented disclosure that materially degrades decision-relevant understanding.
 
   Where disclosure is restricted under **Chapter One §12** (*Incentive Alignment and System Capture*), limits must remain narrowly scoped, time-limited, and reviewable.
@@ -825,10 +829,33 @@ Accurate, relevant, and contestable information is foundational to self-determin
 ### Article XV: Audit, Transparency, and Independent Verification
 
 <details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): three-layer audit stack</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this Article or elsewhere.
+
+<a id="audit-three-layers"></a>
+
+One set of audit rules, in three layers. Oversight means someone outside can rebuild what happened. System alignment certification is not the only kind of audit. Adopted implementation text does not replace the floor. Do not create another place where audit rules live.
+
+| Layer | Job | Where it lives | What it is not |
+|---|---|---|---|
+| **1. Floor** | What sentients are owed: records that let an outsider rebuild what happened, checking by someone independent, and a challenge they can actually reach | This Article, including XV-A, XV-B, and XV-C | Not a procedure. Not a definition. Not a checklist from adopted implementation text. |
+| **2. Property** | What "rebuildable" means: an outsider can reconstruct and check what the system did at the times, in the states, and in the situations that matter | [Auditability](core_05_band_oversight.md#auditability) (Chapter Five) | Not the Rights Floor. Not instructions for how or when to audit. |
+| **3. Process** | How and when to run audits across systems, institutions, and forums | [CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*Audit process home*). Operator annexes: [CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (who may see audit results), [CJS-3.5](corpus_joint_structure/cjs_03o_oversight_operations.md) (checking claims) | Not system alignment certification. Cannot stand in for layers 1 and 2. |
+
+**Chapter Eight is not a fourth layer.** [System alignment certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) is one large process, supervised by a forum, that **uses** these three layers. It must meet layers 1 and 2. Other kinds of audit use them too: audits of a system's classification record or data-types record, checks of claims, and ongoing monitoring. None of them is a new place where audit rules live.
+
+**Adopted implementation text applies the floor; it does not replace it.** CS, CI, CF, and the CJS-3.3 (*Oversight: auditability and reconstructability terms*) through CJS-3.5 (*Oversight: independent verification and claim-integrity terms*) annexes say how to run audits (layer 3) in a particular area. They must meet layers 1 and 2. Deadlines, secrecy, and local policy rank below the floor.
+
+Steward pointer (process support; cannot narrow this Article): [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md#audit).
+
+</details>
+
+<details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [§9.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#91-distributed-understanding), and [§13 Shared-System Capacity](core_01_c_stewardship_capacity_principles.md#13-shared-system-capacity).
-- Read with: [Three-layer audit picture](#audit-three-layers) below.
+- Read with: [Three-layer audit picture](#audit-three-layers) above; [Article XIV](#article-xiv-info-sphere-integrity) (*Info-Sphere Integrity*) where records about information, and the ability to challenge that information, are at stake; [Article XII-A](#article-xii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) for the right to challenge a system, which audits support but do not replace; [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) and [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) where evidence that a system is aligned must stay open to independent checking.
 
 </details>
 
@@ -853,71 +880,35 @@ Accurate, relevant, and contestable information is foundational to self-determin
 
 <br>
 
-*In plain terms: **Article XV** (*Audit, Transparency, and Independent Verification*) is the audit-and-verification Rights Floor — when a system materially affects your life, you must be able to see enough of what it does for an outsider to check it, and more than one independent path must be able to review and correct failure. Audit cannot be a rubber stamp, a private club, or a maze of cost and delay designed to keep challenges out. Under the **oversight** Tetrad leg, oversight requires auditing; [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others — not the only one.*
+*In plain terms: when a system has a real effect on your life, you have the right to see enough of what it does for an outsider to check it. More than one independent reviewer must be able to look for problems and get them fixed. An audit cannot be a rubber stamp, a private club, or a maze of cost and delay that keeps challenges out. Checking systems is part of oversight. [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is one large, high-stakes kind of audit, but it is not the only one.*
 
-<details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): three-layer audit stack</span></strong></summary>
-
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this Article or elsewhere.
-
-<a id="audit-three-layers"></a>
-
-One stack, three layers. Oversight requires reconstructability. System alignment certification is not the only audit. Adopted implementation text does not replace the floor. Do not invent a fifth home.
-
-| Layer | Job | Owner | Not this layer |
-|---|---|---|---|
-| **1. Floor** | What sentients are owed: reconstructable audit, independent verification, reachable challenge | This Article, including XV-A / XV-B / XV-C | Not a process. Not a definition. Not an adopted-implementation-text checklist. |
-| **2. Property** | What reconstructability *is*: outsiders can reconstruct and check what the system did across the material times, states, and contexts | [Auditability](core_05_band_oversight.md#auditability) (Chapter Five) | Not the Rights Floor. Not how/when to run an audit. |
-| **3. Process** | How and when to audit across systems, institutions, and forums | [CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*Audit process home*). Operator annexes: [CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (access tiers), [CJS-3.5](corpus_joint_structure/cjs_03o_oversight_operations.md) (claim check) | Not system alignment certification. Not a substitute for layers 1–2. |
-
-**Chapter Eight is not a fourth layer.** [System alignment certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) is one large, forum-supervised process that **uses** this stack. It must satisfy layers 1–2. Sibling modes (classification-record audit, data-types-record audit, claim verification, continuous monitoring) also use the stack. None of them is a new home.
-
-**Adopted implementation text applies; it does not replace the floor.** CS, CI, CF, and the CJS-3.3 (*Oversight: auditability and reconstructability terms*) through CJS-3.5 (*Oversight: independent verification and claim-integrity terms*) annexes say how to run layer 3 in a domain. They must satisfy layers 1–2. Deadline, secrecy, and local policy are lower-kind limits.
-
-Steward pointer (process support; cannot narrow this Article): [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md#audit).
-
-</details>
-
-<br>
-
-This Article states **constitutional floors** for audit, transparency, and independent verification under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
-
-- **Flourishing:** sentients and appropriately authorized parties can reconstruct what materially impactful systems did, challenge misalignment or misleading conduct, and participate in review without capture by a single auditor, operator, or gatekeeper.
-- **Continuity:** audit trails, oversight pathways, and verification access stay durable across time, scale, and deepening dependency — systems must not quietly erode observability, concentrate review in one actor, or price or delay verification until accountability becomes theoretical.
-
-Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
-
-- **Participation:** in accessing proportional records, initiating contestable review, and challenging barriers that defeat meaningful audit or verification.
-- **Oversight:** through observable evidence, distributed independent review pathways, and verification machinery proportionate to impact, dependency, and risk.
-- **Accountability:** operators and auditors must answer for failure, misalignment, capture, or conduct that hides or destroys audit trails — with correction and remedy where blocking review materially harms protected interests.
-- **Timeliness:** in audit access, independent review, and barrier correction before delay, cost, opacity, or gatekeeping would make verification or remedy effectively unreachable.
-
-Sentients and appropriately authorized parties have the right to audit, transparency, and independent verification mechanisms proportionate to system impact, dependency, and risk.
-
-Those mechanisms must preserve:
-- practical reconstructability;
-- contestable review;
-- proportional access.
-
-They operate consistently with **Chapters Two through Four**, including exclusive enforcement and burden allocation, the Compliance Evidence Standard, Definition Traceability, observability, and verification accessibility.
+- **What this Article does:** It sets the minimum protections — the Rights Floor — for checking systems that have a real effect on sentients' lives. It serves both of the Constitution's [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+  - **Flourishing:** Sentients, and others with proper authority, must be able to find out what a powerful system did, challenge it when it goes wrong or misleads, and take part in reviewing it. No single auditor, operator, or gatekeeper may control that review.
+  - **Continuity:** Records, oversight, and the means to check a system must last as systems grow and as more comes to depend on them. Systems must not slowly become harder to see into, put all review in one set of hands, or make checking so costly or slow that holding anyone to account exists only on paper.
+- **How the limits are enforced:** Through the four checks of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad). The more is at stake, the stronger each check must be (see [material stake](core_00_preamble.md#material-stake)).
+  - **Participation:** Sentients must be able to get the records they need, in proportion to what is at stake; start a review that can itself be challenged; and challenge anything that blocks a real audit or check.
+  - **Oversight:** There must be evidence that can be seen, several independent ways to review a system, and means of checking that grow with the system's impact, with how much depends on it, and with its risk.
+  - **Accountability:** Operators and auditors must answer for failures, misalignment, capture, or hiding or destroying audit records. That means correcting the problem, and a remedy where blocking review has done real harm to protected interests.
+  - **Timeliness:** Access to audits, independent review, and the removal of barriers must come before delay, cost, secrecy, or gatekeeping puts checking or remedy out of reach in practice.
+- **The right itself:** Sentients, and others with proper authority, have a right to audits, openness, and independent checking. How much they get depends on the system's impact, how much depends on it, and its risk. These means of checking must keep three things:
+  - an outsider can actually rebuild what happened;
+  - the review can be challenged;
+  - access fits what is at stake.
+- **Works with Chapters Two through Four:** These checks follow the rules in **Chapters Two through Four**, including who alone may enforce and who must prove what, the Compliance Evidence Standard, Definition Traceability, observability, and verification accessibility.
 
 *Article neighbors:*
 
-- **Oversight → auditing → SAC:** Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **oversight** leg, this Article is the Rights-Floor home for auditing.
-  - Cross-implementation *how* / *when* lives in the **[CJS-3.3 audit process home](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (read with **CJS-3.4** / **CJS-3.5** OP annexes).
-  - [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) is one especially large, high-stakes audit process — forum-supervised, multi-domain, and recognition-bearing — among sibling audit modes:
-    - System Classification Record audits;
-    - System Data Types Record audits;
-    - complexity and stewardship audits;
-    - claim verification; and
-    - continuous-audit pathways.
-  - SAC does not absorb or replace this Article.
-- **Read together:**
-  - **Article XIV** (*Info-Sphere Integrity*) where epistemic records and contestability are materially implicated;
-  - **Article XII-A** (*Reliability and Trustworthiness Baseline*) for challenge rights that audit supports but does not replace;
-  - [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) and [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) where alignment evidence must remain independently verifiable.
-- **Verification machinery:** **Chapters Two through Four** supply definition integrity, burden allocation, observability, and verification accessibility that this Article implements at the Rights-Floor layer.
-- **Classification:** obligations scale with [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) and **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**; where class is uncertain, govern at the highest plausible class until resolved.
+- **Oversight includes auditing:** Under the **oversight** check of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), this Article is where the right to audit lives.
+  - How and when to run audits across implementations is set out in the **[CJS-3.3 audit process home](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (read with the **CJS-3.4** and **CJS-3.5** operator annexes).
+  - [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) is one especially large, high-stakes audit. It is supervised by a forum, covers many areas, and grants formal recognition. Other kinds of audit sit beside it:
+    - audits of a System Classification Record;
+    - audits of a System Data Types Record;
+    - audits of complexity and stewardship;
+    - checks of claims; and
+    - ongoing audits.
+  - Certification does not absorb or replace this Article.
+- **Checking tools:** **Chapters Two through Four** supply the definitions, burden of proof, observability, and verification accessibility that this Article puts into practice as a Rights Floor.
+- **Classification:** Duties grow with [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) and **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**. Where a system's class is uncertain, treat it as the highest class it could plausibly be until that is settled.
 
 #### Article XV-A: Auditability and Observable Evidence
 <details>
@@ -938,15 +929,16 @@ They operate consistently with **Chapters Two through Four**, including exclusiv
 
 <br>
 
-*In plain terms: systems must keep enough honest evidence of what they do for an outside party to reconstruct and challenge their behavior — within lawful security limits.*
+*In plain terms: systems must keep enough honest evidence of what they do that someone outside can piece together what happened and challenge it — within lawful security limits.*
 
-- **Observable and contestable evidence:** Systems must maintain records, disclosures, traceability, and reconstruction pathways sufficient for independent and contestable evaluation of constitutional alignment.
-  - That obligation is subject to security-constrained observability (**Chapter Four §5** — *Security-Constrained Observability and Verification Rule*) and proportional access.
+- **Evidence that can be seen and challenged:** Systems must keep records, disclosures, and trails good enough for an independent reviewer to rebuild what happened and judge whether the system follows this Constitution, in a way others can challenge.
+  - Security limits on what can be observed still apply, under **Chapter Four §4** (*Security-Constrained Observability and Verification Rule*), and so does access in proportion to what is at stake.
 #### Article XV-B: Distributed Oversight and Anti-Monopoly Review
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [§11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline), and [§11.2 Segregation of Duties](core_01_c_stewardship_capacity_principles.md#112-segregation-of-duties).
+- Read with: [Chapter Seven §2 Four-Seat Constitutional Floor](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) and [§3 Independence, Conflict, and Control Lines](core_07_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines) for which seats must stay apart on a materially binding act.
 
 </details>
 
@@ -961,16 +953,25 @@ They operate consistently with **Chapters Two through Four**, including exclusiv
 
 <br>
 
-*In plain terms: no single actor — public or private — may corner oversight. Multiple independent pathways must be able to find, review, and correct failure or capture.*
+*In plain terms: no single actor, public or private, may corner oversight. Several independent reviewers must be able to find, review, and fix failures, or a system that has been captured by narrow interests. And no one may check their own work: whoever acted, or runs the system being reviewed, cannot be the one who checks it.*
 
-- **Distributed oversight:** Multiple independent or pluralistic oversight pathways must be able to contribute materially to detection, review, and correction of failure, misalignment, or capture.
-  - No single actor may monopolize audit access, effective oversight, or constitutional interpretation in practice.
-  - Adopted governance and integrity implementation must support audit and oversight scaling without narrowing this Article.
+- **Oversight spread across many hands:** Several independent or varied oversight routes must each be able to play a real part in finding, reviewing, and correcting failure, misalignment, or capture.
+  - **No gatekeeper over audit access:** No single actor may decide alone who may see records or run an audit. The rules for who qualifies for deeper audit access must be public and must leave more than one qualified reviewer able to meet them.
+  - **No gatekeeper over review:** No single actor may decide alone whether, when, or by whom an independent review happens. An operator in particular may not be the only one able to start, limit, or end a review of its own system.
+  - **No gatekeeper over meaning:** No single actor may control how this Constitution is interpreted. Interpretation stays bounded, rotated, and open to challenge under **Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
+  - **Oversight keeps pace with growth:** Adopted governance and integrity implementation — including the audit process in **CJS-3.3** (*Audit process home*), integrity assurance in **CJS-3.6** (*integrity assurance and resilience operations*), and institutional assurance in **CI-7** (*Oversight, assurance, controls, and evidence*) — must scale audits and oversight as systems grow:
+    - more review paths, deeper review, and more frequent review as a system's class, impact, and dependency rise;
+    - a fresh check whenever a material change means earlier checks no longer describe the system; and
+    - published triggers that require outside review when internal review cannot be trusted to do the job.
+- **No checking your own work:** Having many reviewers is not enough if a reviewer is checking its own act. Under segregation of duties — **Chapter One §11.2** (*Segregation of Duties*) and **Chapter Seven** (*Functional Independence and Segregation of Duties*) — this applies to human and AI stewards alike:
+  - whoever started or carried out an act, or operates the system under review, may not verify or authorize that act;
+  - whoever verifies or authorizes an act may not also keep its official record or hear the challenge to it.
 #### Article XV-C: Verification Accessibility
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [§16 Integrated Application](core_01_c_stewardship_capacity_principles.md#16-integrated-application).
+- Read with: [Chapter Four §4 Security-Constrained Observability and Verification Rule](core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule) for the barrier test; [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) for delay; [CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (*Oversight: tiered transparency and audit-access terms*) for qualified and independent audit paths.
 
 </details>
 
@@ -985,16 +986,21 @@ They operate consistently with **Chapters Two through Four**, including exclusiv
 
 <br>
 
-*In plain terms: audit and challenge must be reachable in practice. Verification made prohibitively expensive, slow, or opaque is a violation unless the barrier meets the same test as a restriction on observability.*
+*In plain terms: you must be able to actually get an audit or a challenge. Making checking too expensive, too slow, too hidden, or too hard to qualify for breaks this rule. A barrier can stay only if it passes the same strict test as a security limit on what can be observed — and whoever relies on the barrier has to prove it passes.*
 
-- **Verification accessibility:** Verification must remain practically achievable for affected and appropriately authorized parties.
-  - The following violate this Article where they defeat meaningful audit, challenge, or review:
-    - prohibitive cost;
-    - delay;
-    - opacity;
-    - gatekeeping;
-    - structural barriers.
-  - Such barriers are non-compliant unless justified under the same standards that justify restriction of observability.
+- **Checking must be reachable:** Sentients who are affected, and others with proper authority, must be able to check systems in practice.
+- **Barriers that break this Article:** A barrier breaks this Article when it defeats a real audit, challenge, or review. That includes:
+  - **Cost:** fees, required experts, equipment, or representation priced beyond what affected sentients can realistically bear;
+  - **Delay:** waits, backlogs, or procedural steps that run until the harm is done, the evidence is gone, or a remedy no longer helps, judged against **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*);
+  - **Opacity:** evidence given in a form no outsider can read or test, buried in needless complexity, or written in language affected sentients cannot follow, contrary to **Chapter One §3.4** (*Plain-Language Accessibility (Participation and Stewardship Duty)*);
+  - **Gatekeeping:** eligibility rules for audit or challenge that are hidden, exclusive, or controlled by the party under review;
+  - **Structural barriers:** systems designed or run so that they predictably block checking under reasonably foreseeable conditions.
+- **When a barrier may stay:** Only if it passes the same test as a security limit on observability under **Chapter Four §4** (*Security-Constrained Observability and Verification Rule*):
+  - it is necessary, proportionate, narrowly scoped, auditable, not a pretext, and time-limited where feasible;
+  - its reason and scope can be checked independently;
+  - it is the least restrictive option that still addresses the risk; and
+  - it keeps as much independent checking as possible — for example, a qualified-reviewer path when full public access is not appropriate, under **CJS-3.4** (*Oversight: tiered transparency and audit-access terms*).
+- **Who must justify it:** Whoever relies on a barrier must show that it passes this test, under **Chapter Four §1** (*Exclusive Enforcement and Burden Allocation*). Convenience, scarce staffing, institutional discomfort, or ownership claims do not justify a barrier on their own.
 
 ### Article XVI: System Lifecycle, Environments, and Reversibility
 
@@ -1002,6 +1008,7 @@ They operate consistently with **Chapters Two through Four**, including exclusiv
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [§9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth), and [§15 Systemic Evaluation Requirement](core_01_c_stewardship_capacity_principles.md#15-systemic-evaluation-requirement).
+- Read with: [Article XVII](#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom) (*Sandboxed Innovation, Experimentation, and Creative Freedom*) where lighter rules apply only when external impact is absent or demonstrably contained; [Article XV](#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) for reconstructable deployment and escalation evidence; [Article XII-F](#article-xii-f-resilience-and-self-healing-baseline) (*Resilience and Self-Healing Baseline*) where recovery discipline intersects lifecycle change.
 
 </details>
 
@@ -1040,7 +1047,6 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 
 *Article neighbors:*
 
-- **Read together:** **Article XVII** (*Sandboxed Innovation, Experimentation, and Creative Freedom*) where lighter rules apply only when external impact is absent or demonstrably contained; **Article XV** (*Audit, Transparency, and Independent Verification*) for reconstructable deployment and escalation evidence; **Article XII-F** (*Resilience and Self-Healing Baseline*) where recovery discipline intersects lifecycle change.
 - **Implementation layer:** **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling** and **CS-5** (*Design, testing, verification, and deployment*) — without narrowing the floors stated here. **Class A**, **Class B**, and **Class C** systems carry the strongest lifecycle duties; valid **Class P** treatment remains under **Article XVII** (*Sandboxed Innovation, Experimentation, and Creative Freedom*) only while external impact stays absent or demonstrably contained.
 
 #### Article XVI-A: Lifecycle Governance and Environment Separation
@@ -1136,6 +1142,7 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), and [§12 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#12-incentive-alignment-and-system-capture).
+- Read with: [Article XVI](#article-xvi-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*) when impact, dependency, or integration outgrows sandbox conditions; [Article XIV](#article-xiv-info-sphere-integrity) (*Info-Sphere Integrity*) and [Article XVII-E](#article-xvii-e-scientific-publication-review-and-replication-integrity) (*Scientific Publication, Review, and Replication Integrity*) where publication-scoped integrity is materially implicated; [Article XV](#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) for disclosure and verification of containment and transition claims.
 
 </details>
 
@@ -1157,7 +1164,6 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 *Article neighbors:*
 
-- **Read together:** **Article XVI** (*System Lifecycle, Environments, and Reversibility*) when impact, dependency, or integration outgrows sandbox conditions; **Article XIV** (*Info-Sphere Integrity*) and **Article XVII-E** (*Scientific Publication, Review, and Replication Integrity*) where publication-scoped integrity is materially implicated; **Article XV** (*Audit, Transparency, and Independent Verification*) for disclosure and verification of containment and transition claims.
 - **Implementation layer:** **[corpus_systems.md](corpus_systems.md), CS-5** and **CS-3 — System classification and handling** — without narrowing the floors stated here.
 
 #### Article XVII-A: Sandboxed Scope
@@ -1382,6 +1388,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§8.1 Constitutional No-Bypass Principle](core_01_b_interaction_interpretation.md#81-constitutional-no-bypass-principle), and [§8 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation).
+- Read with: [Article V-A](core_06_rights_part_b.md#article-v-a-dignity-and-equal-moral-standing) (*Dignity and Equal Moral Standing*) and [Article XI](core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*); [Article III-A](core_06_rights_part_a.md#article-iii-a-survival) (*Survival*); [Article XIX](#article-xix-interoperability-portability-movement-refuge-and-exit-integrity) (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*), where movement, refuge, portability, and exit floors live.
 
 </details>
 
@@ -1423,13 +1430,14 @@ It must remain distinct from:
 - stakeholder identification by material impact;
 - access to challenge or remedy where this Constitution preserves those floors.
 
+Standing discipline is also bounded:
+- standing criteria must not substitute for dignity under **Article V-A** (*Dignity and Equal Moral Standing*) or for stakeholder existence under **Article XI** (*Stakeholder System Participation, Representation, and Due Process*);
+- participant standing alone must not foreclose survival-critical access under **Article III-A** (*Survival*);
+- standing discipline must not substitute for individualized justice process or function as exile, refuge denial, or statelessness by label alone.
+
 *Article neighbors:*
 
 - **Owner layers:** [Chapter Nine](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) and [Chapter Ten](core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) measure standing records and standing effects; this Article states Rights-Floor limits those layers must not narrow.
-- **Read together:**
-  - **Article V-A** (*Dignity and Equal Moral Standing*) and **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) — standing criteria must not substitute for dignity or stakeholder existence;
-  - **Article III-A** (*Survival*) — participant standing alone must not foreclose survival-critical access;
-  - **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) — standing discipline must not substitute for individualized justice process or function as exile, refuge denial, or statelessness by label alone; movement, refuge, portability, and exit floors remain in **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) without narrowing standing safeguards here.
 
 #### Article XVIII-A: Standing Distinction
 <details>
@@ -1619,6 +1627,7 @@ They may affect role eligibility and trust-sensitive named pathways only as stat
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), and [§14 Market Structure](core_01_c_stewardship_capacity_principles.md#14-market-structure).
+- Read with: [Article XVIII](#article-xviii-standing-and-participation-status) (*Standing and Participation Status*); [Article XXIII-B](core_06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and [Chapter Ten §5.4](core_10_standing_integration.md#54-special-violation-rules) (*coercive or liberty-restricting safeguard character*); [Article XVI](#article-xvi-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*) where deployment or dependency outgrows sandbox or lifecycle assumptions; [Article XXVI](core_06_rights_part_d.md#article-xxvi-transition-governance-continuity-and-re-baselining) (*Transition Governance, Continuity, and Re-Baselining*) for transitional recognition when regimes or federations change.
 
 </details>
 
@@ -1656,13 +1665,12 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
 - It does require transition conditions that are real in practice — not merely formal.
 - It is consistent with **Chapter Five** [*Systemic Lock-In*](core_05_band_continuity.md#systemic-lock-in) read with **[Chapter Five *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)** where dependency, coupling, or foreclosure matters for anti-lock-in analysis, jointly with **[Chapter Five *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_05_band_oversight.md#movement-refuge-semi-independent)** where exit, portability, refuge, recognition, or non-statelessness is materially interdependent, and with incorporated implementation requirements for interoperability, portability, exit integrity, and justified constraints.
 
+Standing and lawful restriction:
+- Standing status, competency bars, competency clearances, and standing locks under **Article XVIII** (*Standing and Participation Status*) do not **by themselves** limit movement, refuge, portability, or exit, and must not substitute for individualized justice process.
+- Lawful liberty-restricting measures under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and [Chapter Ten §5.4](core_10_standing_integration.md#54-special-violation-rules) (*coercive or liberty-restricting safeguard character*) may still restrict movement, custody, or comparable liberty where **Necessity**, **Proportionality**, process protections, and **Non-Statelessness** obligations are satisfied.
+
 *Article neighbors:*
 
-- **Read together:**
-  - **Article XVIII** (*Standing and Participation Status*) — standing status, competency bars, competency clearances, and standing locks do not **by themselves** limit movement, refuge, portability, or exit, and must not substitute for individualized justice process;
-  - lawful liberty-restricting measures under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and [Chapter Ten §5.4](core_10_standing_integration.md#54-special-violation-rules) (*coercive or liberty-restricting safeguard character*) may still restrict movement, custody, or comparable liberty where **Necessity**, **Proportionality**, process protections, and **Non-Statelessness** obligations are satisfied;
-  - **Article XVI** (*System Lifecycle, Environments, and Reversibility*) where deployment or dependency outgrows sandbox or lifecycle assumptions;
-  - **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) for transitional recognition when regimes or federations change.
 - **Movement and refuge floor:** **Article XIX-D** (*Movement, Migration, Refuge, and Non-Statelessness*) states the Rights-Floor counterpart for physical, jurisdictional, and regime-to-regime movement without narrowing portability or exit-integrity protections in **Articles XIX-A** through **XIX-C**.
 - **Implementation layer:** **[corpus_institutions.md](corpus_institutions.md)** and **Chapter Seventeen** incorporation text supply cross-regime recognition and operational procedure without narrowing the floors stated here.
 #### Article XIX-A: Portability Rights

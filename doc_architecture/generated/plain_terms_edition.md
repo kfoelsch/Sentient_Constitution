@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **615** of **881** headings carry a gloss (70%).
+Coverage: **616** of **882** headings carry a gloss (70%).
 
 ## Contents
 
@@ -42,7 +42,7 @@ Coverage: **615** of **881** headings carry a gloss (70%).
 - [CHAPTERS NINE–TWELVE: PIPELINE APPLICATION VIGNETTES](#chapters-ninetwelve-pipeline-application-vignettes) — `core_09-12_application_vignettes.md` (9/35 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_a.md` (21/24 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_b.md` (41/42 glossed)
-- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_c.md` (51/52 glossed)
+- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_c.md` (52/53 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_d.md` (18/19 glossed)
 - [CHAPTER THIRTEEN: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP](#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) — `core_13_governance.md` (13/15 glossed)
 - [CHAPTER FOURTEEN: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY](#chapter-fourteen-non-regression-and-substantive-amendment-validity) — `core_14_non_regression.md` (5/5 glossed)
@@ -810,7 +810,7 @@ the A part answers one simple question — **how must this term be judged?** It 
 
 ##### 1.4 Compliance Components (C) — What Must Be True in Practice
 
-the C part answers one simple question — **what must actually hold, and when has this term been broken?** It states the real-world conditions that must be met and the failures that count — based on what can be seen in behavior and effects, not on what the system claims about itself.
+the C part answers one simple question — **what must actually hold, and when has this term been violated?** It states the real-world conditions that must be met and the failures that count — based on what can be seen in behavior and effects, not on what the system claims about itself.
 
 [Source](../../core_02_definition_structure.md#14-compliance-components-c--what-must-be-true-in-practice)
 
@@ -862,7 +862,7 @@ Source file: [`core_03_definition_integrity.md`](../../core_03_definition_integr
 
 #### 2. Non-Compliance from Observable System Behavior
 
-a system is non-compliant when what it actually does or produces would break a definition — judged under full functional conditions, not only on paper. Evasion means weakening a definition when it is actually applied. That is non-compliance under Chapter Two §2.2 — regardless of intent, awareness, or claimed purpose.
+a system is non-compliant when what it actually does or produces would violate a definition — judged under full functional conditions, not only on paper. Evasion means weakening a definition when it is actually applied. That is non-compliance under Chapter Two §2.2 — regardless of intent, awareness, or claimed purpose.
 
 [Source](../../core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior)
 
@@ -3698,7 +3698,7 @@ burying forums and contest desks under junk volume, copy-paste filings, or autom
 
 #### 5.4 Info-sphere zone flooding
 
-hammering the shared information environment with coordinated junk, bots, or meaningless volume can keep **sentients** from finding true signals, checking claims, or correcting lies in time. That is different from burying a forum docket. Both can break constitutional contestability, but the info-sphere version works through attention, discovery, and epistemic noise rather than filing desks.
+hammering the shared information environment with coordinated junk, bots, or meaningless volume can keep **sentients** from finding true signals, checking claims, or correcting lies in time. That is different from burying a forum docket. Both can undermine constitutional contestability, but the info-sphere version works through attention, discovery, and epistemic noise rather than filing desks.
 
 [Source](../../core_11_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)
 
@@ -4512,7 +4512,7 @@ governance must actively look for — and push back against — capture, collusi
 
 ## CHAPTER SIX: FOUNDATIONAL RIGHTS
 
-Source file: [`core_06_rights_part_c.md`](../../core_06_rights_part_c.md) · 51/52 headings glossed
+Source file: [`core_06_rights_part_c.md`](../../core_06_rights_part_c.md) · 52/53 headings glossed
 
 #### Part C: Trustworthy systems, security and force limits, information integrity, verification, lifecycle, and resilience
 
@@ -4558,13 +4558,13 @@ an AI or other automated system that can act on its own — filing papers, sendi
 
 ##### Article XII-F: Resilience and Self-Healing Baseline
 
-systems must be able to detect, contain, and recover from faults — but recovery cannot be used to hide failures, silently narrow rights, or skip root-cause work. Safe failure beats speculative auto-repair.
+when something goes wrong, a system must notice it, stop the damage from spreading, and recover. But "fixing itself" can never be used to hide what went wrong, quietly take away anyone's rights, or skip finding out why it broke. If a system is not sure a repair will work, it should stop safely rather than guess.
 
 [Source](../../core_06_rights_part_c.md#article-xii-f-resilience-and-self-healing-baseline)
 
 #### Article XIII: Security, Intelligence, Force, and Autonomous Coercive Systems
 
-**Article XIII** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) is the exceptional-power Rights Floor — surveillance, intelligence work, armed force, and machines that kill or coerce on their own are not normal tools of governance. They may be used only in narrow, authorized, reviewable circumstances, with real remedies when lines are crossed. No secret police, no permanent emergency, no machine deciding to hurt a sentient without a human actually in control.
+spying, secret security work, armed force, and machines that can hurt or pressure people on their own are dangerous powers. They are not everyday tools of government. They may be used only rarely, for narrow reasons, with approval from someone independent, and with a real way to check and challenge them afterward — and real remedies when the rules are broken. No secret police, no emergency that never ends, and no machine deciding to hurt anyone without a real human actually in charge.
 
 [Source](../../core_06_rights_part_c.md#article-xiii-security-intelligence-force-and-autonomous-coercive-systems)
 
@@ -4586,6 +4586,12 @@ a machine may not decide to kill, injure, or coerce a sentient on its own. "Huma
 
 [Source](../../core_06_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools)
 
+##### Article XIII-D: Counter-Espionage Limits
+
+when an institution suspects spying, the pressure to do whatever it takes is at its highest — and that is exactly when mistakes and abuses happen. So the lines are drawn here, in advance. Hunting spies is covert power, and every limit in **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) still applies. On top of that: the response rules must be written and independently approved before any crisis; suspicion must rest on what someone did and whom they actually serve — including ties to hostile states and organizations — not on their birth, heritage, or beliefs; whistleblowers and journalists are not spies; no torture, no secret detention, no killing as punishment; and anyone investigated and cleared gets that on the record.
+
+[Source](../../core_06_rights_part_c.md#article-xiii-d-counter-espionage-limits)
+
 #### Article XIV: Info-Sphere Integrity
 
 **Article XIV** (*Info-Sphere Integrity*) is the information-integrity Rights Floor — the shared environment where we learn, coordinate, and decide must stay honest, plural, and open to challenge. No one gets to own the pipeline of truth. Rankings, summaries, and gatekeepers have to show their work, and you must be able to compare other views and push back when information misleads you.
@@ -4606,31 +4612,31 @@ information that materially affects decisions or reliance must disclose its sour
 
 ##### Article XIV-C: Validation, Reporting, and Epistemic Stewardship
 
-public-facing information with material external impact must correct errors, preserve provenance, and not be sliced or suppressed to mislead. Ecological-footprint reporting must be accessible and decision-usable.
+public-facing information with material external impact must correct errors, show where it came from, and not be sliced or suppressed to mislead. Ecological-footprint reporting must be accessible and decision-usable.
 
 [Source](../../core_06_rights_part_c.md#article-xiv-c-validation-reporting-and-epistemic-stewardship)
 
 #### Article XV: Audit, Transparency, and Independent Verification
 
-**Article XV** (*Audit, Transparency, and Independent Verification*) is the audit-and-verification Rights Floor — when a system materially affects your life, you must be able to see enough of what it does for an outsider to check it, and more than one independent path must be able to review and correct failure. Audit cannot be a rubber stamp, a private club, or a maze of cost and delay designed to keep challenges out. Under the **oversight** Tetrad leg, oversight requires auditing; [System Alignment Certification](../../core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others — not the only one.
+when a system has a real effect on your life, you have the right to see enough of what it does for an outsider to check it. More than one independent reviewer must be able to look for problems and get them fixed. An audit cannot be a rubber stamp, a private club, or a maze of cost and delay that keeps challenges out. Checking systems is part of oversight. [System Alignment Certification](../../core_05_band_continuity.md#system-alignment-certification-constitutional) is one large, high-stakes kind of audit, but it is not the only one.
 
 [Source](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)
 
 ##### Article XV-A: Auditability and Observable Evidence
 
-systems must keep enough honest evidence of what they do for an outside party to reconstruct and challenge their behavior — within lawful security limits.
+systems must keep enough honest evidence of what they do that someone outside can piece together what happened and challenge it — within lawful security limits.
 
 [Source](../../core_06_rights_part_c.md#article-xv-a-auditability-and-observable-evidence)
 
 ##### Article XV-B: Distributed Oversight and Anti-Monopoly Review
 
-no single actor — public or private — may corner oversight. Multiple independent pathways must be able to find, review, and correct failure or capture.
+no single actor, public or private, may corner oversight. Several independent reviewers must be able to find, review, and fix failures, or a system that has been captured by narrow interests. And no one may check their own work: whoever acted, or runs the system being reviewed, cannot be the one who checks it.
 
 [Source](../../core_06_rights_part_c.md#article-xv-b-distributed-oversight-and-anti-monopoly-review)
 
 ##### Article XV-C: Verification Accessibility
 
-audit and challenge must be reachable in practice. Verification made prohibitively expensive, slow, or opaque is a violation unless the barrier meets the same test as a restriction on observability.
+you must be able to actually get an audit or a challenge. Making checking too expensive, too slow, too hidden, or too hard to qualify for breaks this rule. A barrier can stay only if it passes the same strict test as a security limit on what can be observed — and whoever relies on the barrier has to prove it passes.
 
 [Source](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility)
 
@@ -5108,7 +5114,7 @@ if an outside process cannot deliver timely, real protection, the constitution's
 
 #### 5. Relation to Applicable External Law
 
-this Constitution is not a secret override of city, national, or international law. Publishing it, reading it, or using it as a guide does not make it supreme. A body can bind itself only by adopting through Chapter Sixteen, and only as far as that body already has lawful authority to bind itself. If you use it inside someone else’s legal order, the processes here have to be runnable without breaking that order — and you may not use “the other law is weaker” or “the other law forbids this” as a way to hollow out floors this Constitution still requires.
+this Constitution is not a secret override of city, national, or international law. Publishing it, reading it, or using it as a guide does not make it supreme. A body can bind itself only by adopting through Chapter Sixteen, and only as far as that body already has lawful authority to bind itself. If you use it inside someone else’s legal order, the processes here have to be runnable without violating that order — and you may not use “the other law is weaker” or “the other law forbids this” as a way to hollow out floors this Constitution still requires.
 
 [Source](../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)
 

@@ -3,8 +3,14 @@
 
 Rules:
   NAV-READER-06  — chapter/part Reader guidance belongs in the opening stack
-                   before operative prose (local guidance under a later section
-                   remains allowed).
+                   before operative prose. At section level, Reader guidance
+                   that appears before any operative prose (e.g. after the
+                   Trace / D/A/C stack, a ``<br>``, or the plain-terms gloss)
+                   must move into the opening stack ahead of Trace. Guidance
+                   placed after operative prose illustrates it and stays local.
+                   Exception: a Reader guidance box that leads directly into a
+                   visible ``mermaid`` chart is the chart's caption and may
+                   stay beside it.
   NAV-TRACE-09   — when a section's *direct* content carries Trace / D/A/C,
                    those widgets open the unit (after optional anchors and
                    opening Reader guidance). Child-section widgets do not
@@ -480,6 +486,72 @@ def audit_section_widgets(
     return findings
 
 
+def captions_mermaid_chart(
+    lines: list[str], close_idx: int | None, end: int
+) -> bool:
+    """True when a Reader guidance box is the lead-in to a visible Mermaid
+    chart (next content after the box, past blanks / ``<br>``, is a
+    ```` ```mermaid ```` fence). Such a caption stays beside its chart."""
+    if close_idx is None:
+        return False
+    idx = close_idx + 1
+    while idx < end:
+        stripped = lines[idx].strip()
+        if not stripped or stripped == "<br>":
+            idx += 1
+            continue
+        return stripped.startswith("```mermaid")
+    return False
+
+
+def audit_section_reader_guidance(
+    lines: list[str],
+    rel: str,
+    start: int,
+    level: int,
+    end: int,
+    heading_text: str,
+) -> list[str]:
+    """NAV-READER-06: Reader guidance reached before any operative prose opens
+    the section, so it belongs in the opening stack (ahead of Trace / D/A/C),
+    not after the stack, spacer, or plain-terms gloss. A Reader guidance box
+    placed after operative prose illustrates that prose and is allowed."""
+    if is_ch5_definition_file(rel):
+        return []
+    direct_end = direct_content_end(lines, start, level, end)
+    stack = collect_section_opening_widgets(lines, start + 1, direct_end)
+    stack_readers = {o for o, _c, k in stack if k == "reader"}
+    idx = start + 1
+    while idx < direct_end:
+        stripped = lines[idx].strip()
+        if (
+            not stripped
+            or stripped in {"<br>", "---"}
+            or ANCHOR_RE.match(stripped)
+            or PLAIN_TERMS_RE.match(stripped)
+        ):
+            idx += 1
+            continue
+        if stripped == "<details>":
+            kind = classify_details(lines, idx, direct_end)
+            close = details_close_idx(lines, idx, direct_end)
+            if (
+                kind == "reader"
+                and idx not in stack_readers
+                and not captions_mermaid_chart(lines, close, direct_end)
+            ):
+                return [
+                    f"{rel}:{idx + 1}: Reader guidance on {heading_text!r} sits "
+                    f"after the opening stack / plain-terms gloss; move it into "
+                    f"the opening stack ahead of Trace / D/A/C (NAV-READER-06)"
+                ]
+            if close is None:
+                return []
+            idx = close + 1
+            continue
+        return []  # operative prose reached: later guidance is local
+    return []
+
 def audit_file(path: Path, root: Path) -> list[str]:
     rel = path.relative_to(root).as_posix()
     if rel.startswith("archive/") or rel.startswith("core_05-05_definitions_"):
@@ -495,6 +567,11 @@ def audit_file(path: Path, root: Path) -> list[str]:
         end = section_end(lines, idx, level)
         findings.extend(
             audit_section_widgets(lines, rel, idx, level, end, line.strip())
+        )
+        findings.extend(
+            audit_section_reader_guidance(
+                lines, rel, idx, level, end, line.strip()
+            )
         )
     return findings
 

@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-27T20:24:30+00:00",
+  "generated_at": "2026-09-27T23:30:05+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 14843,
+  "edge_count": 14887,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -53227,14 +53227,6 @@
       "source_header": "Article IX-A: Agency and Freedom from Manipulation",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#self-determination-constitutional-o",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article IX-A: Agency and Freedom from Manipulation",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
       "target_anchor": "#meaningful-agency-o",
       "count": 1
     },
@@ -53268,7 +53260,7 @@
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#self-determination-constitutional",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_b.md",
@@ -53826,14 +53818,6 @@
       "source_file": "core_06_rights_part_b.md",
       "source_header": "Article IX: Self-Determination and Agency",
       "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#self-determination-constitutional-o",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article IX: Self-Determination and Agency",
-      "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#surveillance-boundary",
       "count": 3
@@ -53916,7 +53900,7 @@
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#self-determination-constitutional",
-      "count": 2
+      "count": 3
     },
     {
       "source_file": "core_06_rights_part_b.md",
@@ -55122,14 +55106,6 @@
       "source_file": "core_06_rights_part_b.md",
       "source_header": "Article VI-A: Capability-Building Education Right",
       "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#self-determination-constitutional-o",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article VI-A: Capability-Building Education Right",
-      "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#wellbeing",
       "count": 2
@@ -55204,7 +55180,7 @@
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#self-determination-constitutional",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_b.md",
@@ -55514,14 +55490,6 @@
       "source_file": "core_06_rights_part_b.md",
       "source_header": "Article VI: Right to Sentient-Centered Education",
       "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#self-determination-constitutional-o",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article VI: Right to Sentient-Centered Education",
-      "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#educational-agency",
       "count": 2
@@ -55572,7 +55540,7 @@
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#self-determination-constitutional",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_b.md",
@@ -55644,14 +55612,6 @@
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#meaningful-agency-o",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article VII-A: Self-Ownership of Body and Mind",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#self-determination-constitutional-o",
       "count": 1
     },
     {
@@ -55732,7 +55692,7 @@
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#self-determination-constitutional",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_b.md",
@@ -59402,9 +59362,25 @@
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XIX: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
       "source_anchor": "#article-xix-interoperability-portability-and-exit-integrity",
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIX: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
+      "source_anchor": "#article-xix-interoperability-portability-and-exit-integrity",
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxvi-transition-governance-continuity-and-re-baselining",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIX: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
+      "source_anchor": "#article-xix-interoperability-portability-and-exit-integrity",
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#54-special-violation-rules",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
@@ -59884,6 +59860,30 @@
       "source_anchor": "#article-xviii-standing-and-participation-status",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#dignity-and-equal-moral-standing-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII: Standing and Participation Status",
+      "source_anchor": "#article-xviii-standing-and-participation-status",
+      "target_file": "core_06_rights_part_a.md",
+      "target_anchor": "#article-iii-a-survival",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII: Standing and Participation Status",
+      "source_anchor": "#article-xviii-standing-and-participation-status",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-v-a-dignity-and-equal-moral-standing",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII: Standing and Participation Status",
+      "source_anchor": "#article-xviii-standing-and-participation-status",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-xi-stakeholder-system-participation-representation-and-due-process",
       "count": 1
     },
     {
@@ -60481,7 +60481,7 @@
     {
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XV-A: Auditability and Observable Evidence",
-      "source_anchor": "#audit-three-layers",
+      "source_anchor": "#operative-steward-statement-audit",
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#32-truth-epistemic-integrity-constraint",
       "count": 1
@@ -60489,7 +60489,7 @@
     {
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XV-A: Auditability and Observable Evidence",
-      "source_anchor": "#audit-three-layers",
+      "source_anchor": "#operative-steward-statement-audit",
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#62-epistemic-disclosure-constraints",
       "count": 1
@@ -60497,7 +60497,7 @@
     {
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XV-A: Auditability and Observable Evidence",
-      "source_anchor": "#audit-three-layers",
+      "source_anchor": "#operative-steward-statement-audit",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#16-integrated-application",
       "count": 1
@@ -60505,7 +60505,7 @@
     {
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XV-A: Auditability and Observable Evidence",
-      "source_anchor": "#audit-three-layers",
+      "source_anchor": "#operative-steward-statement-audit",
       "target_file": "core_05_apex_accountability_leg.md",
       "target_anchor": "#accountability",
       "count": 2
@@ -60513,7 +60513,7 @@
     {
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XV-A: Auditability and Observable Evidence",
-      "source_anchor": "#audit-three-layers",
+      "source_anchor": "#operative-steward-statement-audit",
       "target_file": "core_05_apex_accountability_leg.md",
       "target_anchor": "#accountability-m",
       "count": 1
@@ -60521,7 +60521,7 @@
     {
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XV-A: Auditability and Observable Evidence",
-      "source_anchor": "#audit-three-layers",
+      "source_anchor": "#operative-steward-statement-audit",
       "target_file": "core_05_apex_accountability_leg.md",
       "target_anchor": "#accountability-a",
       "count": 1
@@ -60529,7 +60529,7 @@
     {
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XV-A: Auditability and Observable Evidence",
-      "source_anchor": "#audit-three-layers",
+      "source_anchor": "#operative-steward-statement-audit",
       "target_file": "core_05_apex_accountability_leg.md",
       "target_anchor": "#accountability-c",
       "count": 1
@@ -60537,7 +60537,7 @@
     {
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XV-A: Auditability and Observable Evidence",
-      "source_anchor": "#audit-three-layers",
+      "source_anchor": "#operative-steward-statement-audit",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability",
       "count": 2
@@ -60545,7 +60545,7 @@
     {
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XV-A: Auditability and Observable Evidence",
-      "source_anchor": "#audit-three-layers",
+      "source_anchor": "#operative-steward-statement-audit",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability-a",
       "count": 2
@@ -60553,7 +60553,7 @@
     {
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XV-A: Auditability and Observable Evidence",
-      "source_anchor": "#audit-three-layers",
+      "source_anchor": "#operative-steward-statement-audit",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability-c",
       "count": 1
@@ -60561,7 +60561,7 @@
     {
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XV-A: Auditability and Observable Evidence",
-      "source_anchor": "#audit-three-layers",
+      "source_anchor": "#operative-steward-statement-audit",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#transparency",
       "count": 2
@@ -60569,7 +60569,7 @@
     {
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XV-A: Auditability and Observable Evidence",
-      "source_anchor": "#audit-three-layers",
+      "source_anchor": "#operative-steward-statement-audit",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#transparency-a",
       "count": 2
@@ -60577,7 +60577,7 @@
     {
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XV-A: Auditability and Observable Evidence",
-      "source_anchor": "#audit-three-layers",
+      "source_anchor": "#operative-steward-statement-audit",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#transparency-c",
       "count": 1
@@ -61404,7 +61404,7 @@
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#63-minimization-of-avoidable-burden",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
@@ -61635,6 +61635,14 @@
       "source_header": "Article XII: Right to Reliable and Trustworthy Systems",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-alignment-certification-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XII: Right to Reliable and Trustworthy Systems",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
       "target_anchor": "#trustworthiness",
       "count": 2
     },
@@ -61725,14 +61733,6 @@
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency-c",
       "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XII: Right to Reliable and Trustworthy Systems",
-      "source_anchor": null,
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#system-alignment-certification-constitutional",
-      "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
@@ -62136,6 +62136,254 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#31-safety-harm-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#32-truth-epistemic-integrity-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#4-system-stability-enabler-trust-coordination-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#51-limitation-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#615-rights-collision-decision-test",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#protected-reporting-whistleblowing",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#protected-reporting-whistleblowing-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#protected-reporting-whistleblowing-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#cruelty",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#cruelty-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#cruelty-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act-record",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act-record-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act-record-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#redress-and-remediation-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#protected-internal-state-boundary-constitutional",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#protected-internal-state-boundary-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#protected-internal-state-boundary-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#protected-characteristics-constitutional",
+      "count": 5
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#protected-characteristics-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#protected-characteristics-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#sentience-non-exclusion",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#substantive-fairness-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxiii-d-emergency-measures-and-continuation-burden",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_07_functional_independence_segregation_of_duties.md",
+      "target_anchor": "#6-emergency-and-urgent-action",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XIII: Security, Intelligence, Force, and Autonomous Coercive Systems",
       "source_anchor": null,
       "target_file": "core_00_preamble.md",
@@ -62275,7 +62523,47 @@
       "source_header": "Article XIII: Security, Intelligence, Force, and Autonomous Coercive Systems",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act-record",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII: Security, Intelligence, Force, and Autonomous Coercive Systems",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act-record-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII: Security, Intelligence, Force, and Autonomous Coercive Systems",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act-record-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII: Security, Intelligence, Force, and Autonomous Coercive Systems",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
       "target_anchor": "#irreversible-deprivation-measure-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII: Security, Intelligence, Force, and Autonomous Coercive Systems",
+      "source_anchor": null,
+      "target_file": "core_07_functional_independence_segregation_of_duties.md",
+      "target_anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII: Security, Intelligence, Force, and Autonomous Coercive Systems",
+      "source_anchor": null,
+      "target_file": "core_07_functional_independence_segregation_of_duties.md",
+      "target_anchor": "#6-emergency-and-urgent-action",
       "count": 1
     },
     {
@@ -62652,6 +62940,22 @@
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#32-truth-epistemic-integrity-constraint",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV: Info-Sphere Integrity",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#4-system-stability-enabler-trust-coordination-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV: Info-Sphere Integrity",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#5-freedom-bounded-agency",
       "count": 1
     },
     {
@@ -62660,14 +62964,14 @@
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#62-epistemic-disclosure-constraints",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XIV: Info-Sphere Integrity",
       "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#self-determination-constitutional-o",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#91-distributed-understanding",
       "count": 1
     },
     {
@@ -62740,7 +63044,7 @@
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#self-determination-constitutional",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
@@ -63282,6 +63586,14 @@
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XV-B: Distributed Oversight and Anti-Monopoly Review",
       "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#112-segregation-of-duties",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XV-B: Distributed Oversight and Anti-Monopoly Review",
+      "source_anchor": null,
       "target_file": "core_05_apex_oversight_leg.md",
       "target_anchor": "#oversight-constitutional",
       "count": 2
@@ -63362,6 +63674,22 @@
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XV-B: Distributed Oversight and Anti-Monopoly Review",
       "source_anchor": null,
+      "target_file": "core_07_functional_independence_segregation_of_duties.md",
+      "target_anchor": "#2-four-seat-constitutional-floor",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XV-B: Distributed Oversight and Anti-Monopoly Review",
+      "source_anchor": null,
+      "target_file": "core_07_functional_independence_segregation_of_duties.md",
+      "target_anchor": "#3-independence-conflict-and-control-lines",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XV-B: Distributed Oversight and Anti-Monopoly Review",
+      "source_anchor": null,
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#3-whole-system-certification-evaluation",
       "count": 1
@@ -63388,6 +63716,14 @@
       "source_anchor": null,
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#16-integrated-application",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XV-C: Verification Accessibility",
+      "source_anchor": null,
+      "target_file": "core_04_burden_traceability_verification.md",
+      "target_anchor": "#4-security-constrained-observability-and-verification-rule",
       "count": 1
     },
     {
@@ -63464,6 +63800,22 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XV-C: Verification Accessibility",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxiv-c-timely-resolution-and-anti-delay-floor",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XV-C: Verification Accessibility",
+      "source_anchor": null,
+      "target_file": "corpus_joint_structure/cjs_03o_oversight_operations.md",
+      "target_anchor": "#cjs-34-audit-process-output-disclosure",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XV: Audit, Transparency, and Independent Verification",
       "source_anchor": null,
       "target_file": "core_00_preamble.md",
@@ -63531,6 +63883,14 @@
       "source_header": "Article XV: Audit, Transparency, and Independent Verification",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-alignment-certification-constitutional",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XV: Audit, Transparency, and Independent Verification",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency",
       "count": 2
     },
@@ -63573,14 +63933,6 @@
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#risk-c",
       "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XV: Audit, Transparency, and Independent Verification",
-      "source_anchor": null,
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#system-alignment-certification-constitutional",
-      "count": 3
     },
     {
       "source_file": "core_06_rights_part_c.md",
