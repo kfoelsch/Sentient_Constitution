@@ -136,7 +136,7 @@
 
 - **생존 필수, 교육, 안전 조건:**
   - 체계가 생존 필수, 평등한 교육 접근, 또는 [**안전 조건**](core_05_band_continuity.md#safe-conditions-constitutional)에 대한 접근을 공급, 배분, 가격 매김, 호스팅, 또는 종료할 때 적용됩니다;
-  - 기록은 인정이나 계속 의지가 **제 III-A조** (*생존*), **제 III-B조** (*평등한 교육 접근*), **제 XII-A조** (*신뢰성과 신뢰할 수 있음 기준선*), 관련 제6장 규정 아래 그 바닥을 막거나 실질로 낮출지를 평가해야 합니다;
+  - 기록은 인정이나 계속 의지가 **제 III-A조** (*생존*), **제 III-B조** (*평등한 교육 접근*), **제 XIII-A조** (*신뢰성과 신뢰할 수 있음 기준선*), 관련 제6장 규정 아래 그 바닥을 막거나 실질로 낮출지를 평가해야 합니다;
 - **체계 간 자원의 책임 있는 관리:**
   - 체계가 다른 체계나 감지자가 의지하는 공유 기반시설 또는 기초 의존에서 실질로 배분, 라우팅, 자금, 또는 추출할 때 적용됩니다;
   - 기록은 인정이나 계속 의지가 [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation)이 요구하는 대로 **제 IV-A조** (*의존 지도와 자원 흐름 투명*) 또는 **제 IV-B조** (*체계 간 공정과 지속가능성*)를 막거나 실질로 낮출지를 평가해야 합니다;
@@ -162,7 +162,7 @@
 
 - 상류: [§11](#11-certification-record) (*기록 내용*); [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation), [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation), [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation), [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation), [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation), [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation), [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation), [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*등급, 데이터, 발자국, 체계 간 지원, 차별 금지, 접근성, 교육 능력, 신뢰할 수 있음 평가 입력*); 감독 측정 가족 (*헌법 측정으로서의 진실과 인식 완전성*); 적시성 측정 가족 (*제때 해결과 지연 금지 규율*); 제2장부터 제4장 (*부담, 추적, 확인, 증거 보존*); [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — **감독**, **책무**, **참여**, **적시성**; [**Def.O1** *투명, 감사 가능성, 확인*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster); [다툴 수 있음](core_05_band_accountability.md#contestability).
 - 하류: [§14](#14-supervisory-sequence-and-contestability-chain) (*감독 순서와 다툴 수 있음 사슬*); [§15](#15-relationship-to-standing) (*확인된 입력 게이트*); [제11장 §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests) (*포럼 사건 기록, 궤적 기록 다툼*); [제11장 §5](core_11_forum.md#5-escalation-and-certification) (*격상과 인증 세부*).
-- 함께 읽기: [제 XV조: 감사, 투명, 독립 확인](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification); [제 XII-B조: 다툼, 검토, 구제에 대한 권리](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); [증거 보존](core_05_band_oversight.md#evidence-preservation); [corpus_systems.md](../../corpus_systems.md), **CS-2 — 정보 유형과 취급**과 **CS-3 — 체계 분류와 취급**; **CJS-3.4** (*층진 투명과 감사 접근 조건*).
+- 함께 읽기: [제 XV조: 감사, 투명, 독립 확인](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification); [제 XIII-B조: 다툼, 검토, 구제에 대한 권리](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress); [증거 보존](core_05_band_oversight.md#evidence-preservation); [corpus_systems.md](../../corpus_systems.md), **CS-2 — 정보 유형과 취급**과 **CS-3 — 체계 분류와 취급**; **CJS-3.4** (*층진 투명과 감사 접근 조건*).
 
 </details>
 
@@ -183,7 +183,7 @@
 
 - **투명**과 **감사 가능성**은 **감독**을 시행합니다;
 - **다툴 수 있음**은 **책무**를 시행하고 다툼 경로에서 **참여**를 지킵니다;
-- **제 XXIV-C조** (*제때 해결과 지연 금지 바닥*) 아래 기록의 분명함과 다툼 시계는 체계 등급과 [실질 이해관계](core_00_preamble.md#material-stake)에 맞춰 세기 조절된 **적시성**을 시행합니다.
+- **제 XXV-C조** (*제때 해결과 지연 금지 바닥*) 아래 기록의 분명함과 다툼 시계는 체계 등급과 [실질 이해관계](core_00_preamble.md#material-stake)에 맞춰 세기 조절된 **적시성**을 시행합니다.
 
 **투명** — 감지자는 중요한 것을 볼 수 있어야 합니다:
 
@@ -285,7 +285,7 @@
     - **제 V-G조** (*접근성*) 아래 **접근성 바닥** — 그 실질성 방아쇠가 적용되는 곳에서 [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) 아래 평가를 포함;
     - **제 XII조** (*믿을 수 있고 신뢰할 체계에 대한 권리*) 아래 **믿을 수 있고 신뢰할 체계 행위** — 그 실질성 방아쇠가 적용되는 곳에서 [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) 아래 평가를 포함;
     - **제 IV조** (*자원 배분, 의존, 생태계 자금*) 아래 **자원 배분과 의존 바닥** — 실질로 걸리는 곳에서 [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) 아래 [비례하는 체계 간 기여](core_05_band_continuity.md#proportionate-cross-system-support-constitutional)를 포함;
-    - 실질로 걸리는 곳에서 **제 XII-A조** (*신뢰성과 신뢰할 수 있음 기준선*)와 [**안전 조건**](core_05_band_continuity.md#safe-conditions-constitutional) 아래 **안전 관련 바닥**.
+    - 실질로 걸리는 곳에서 **제 XIII-A조** (*신뢰성과 신뢰할 수 있음 기준선*)와 [**안전 조건**](core_05_band_continuity.md#safe-conditions-constitutional) 아래 **안전 관련 바닥**.
 - **헌법**과 그 밖의 정규 포럼 가족 — 헌법과 잔여 이해관계:
   - 헌법 효력, 의미, 등급 전체 구조 구제, 또는 제11장이 위 가족 밖으로 배정하는 다른 일차 이해관계 질문에 대한 배정된 구성 요소 권한을 지킵니다;
   - 인증 과정은 기술 전문이나 완전성 조정이 그 배정된 본안 역할을 밀어내지 못하게 해야 합니다.
@@ -299,7 +299,7 @@
 
 - 상류: [§11](#11-certification-record) (*기록 내용*); [§12](#12-transparency-auditability-and-contestability) (*기록 완전성 요건*); [§13](#13-forum-supervision-and-component-roles) (*구성 요소 역할 배정*); 적시성 측정 가족 (*제때 해결과 지연 금지 규율*); [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — **참여**, **감독**, **책무**, **적시성**; [제11장 §4](core_11_forum.md#4-forum-family-definitions) (*완전성 주도의 정합 인정, 구성 요소 회부, 확인*); [제11장 §3](core_11_forum.md#3-transfer-consolidation-and-coordination) (*완전성 주도의 정합 조정과 자기 심판 금지*).
 - 하류: [§15](#15-relationship-to-standing) (*확인된 입력 게이트*); [§16](#16-reopening-drift-and-non-evasion) (*재개방 방아쇠*); [제11장 §5](core_11_forum.md#5-escalation-and-certification) (*가족 간 격상과 헌법 인증*).
-- 함께 읽기: 제11장 §1 아래 [다툼 순서](core_11_forum.md#dispute-sequencing); [전문 §3.3](core_00_preamble.md#33-governance-layers); [corpus_forum.md](../../corpus_forum.md), **CF-5**와 **CF-7**; [제 XII-B조](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*다툼, 검토, 구제에 대한 권리*).
+- 함께 읽기: 제11장 §1 아래 [다툼 순서](core_11_forum.md#dispute-sequencing); [전문 §3.3](core_00_preamble.md#33-governance-layers); [corpus_forum.md](../../corpus_forum.md), **CF-5**와 **CF-7**; [제 XIII-B조](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*다툼, 검토, 구제에 대한 권리*).
 
 </details>
 
@@ -357,14 +357,14 @@
 - **공표된 기록 다툼 경로** — 인증 기록에 대한 보통 다툼의 보통 첫 걸음. 기록은 [영향받는 쪽의 체계 참여](core_05_band_participation.md#stakeholder-status-and-weight-cluster) 다툼 자리를 이름 붙입니다:
   - 누가 다툼을 받는지;
   - 어떻게 내는지; 그리고
-  - **제 XXIV-C조** (*제때 해결과 지연 금지 바닥*) 아래 시계가 접수부터 돌아간다는 것.
+  - **제 XXV-C조** (*제때 해결과 지연 금지 바닥*) 아래 시계가 접수부터 돌아간다는 것.
   
   내부 운영자 검토, 공급자 진술, 또는 기술 서명은 이 경로가 아닙니다.
 - **구성 요소 포럼 경로** — 다툰 구성 요소 소견에 대한 본안 권한이 있는 제11장 포럼 가족.
 - **주관-완전성 경로** — 다툼이 주관 포럼이 과정을 어떻게 운영했는지일 때의 완전성 라우팅과 자기 심판 금지 예비. 포획, 숨긴 정보, 자기 검토, 또는 인증을 너무 일찍 끝났다고 부르는 일을 포함.
 - **격상 경로** — 일차 이해관계, 헌법 효력, 구조 구제, 가족 교착, 또는 자기 심판 금지 보호가 요구할 때의 제11장 이전, 인증, 예비 라우팅, 가족 간 격상.
 
-지연이 권리, 증거, 독립, 또는 실무 복원을 실질로 위태롭게 할 때 포럼 경로로의 직접 접근은 남아 있습니다. 공표된 기록 다툼 경로의 끝나지 않은 사용이 그 포럼 경로를 멈추거나 **제 XXIV-C조** 시계를 먹어 치워서는 안 됩니다.
+지연이 권리, 증거, 독립, 또는 실무 복원을 실질로 위태롭게 할 때 포럼 경로로의 직접 접근은 남아 있습니다. 공표된 기록 다툼 경로의 끝나지 않은 사용이 그 포럼 경로를 멈추거나 **제 XXV-C조** 시계를 먹어 치워서는 안 됩니다.
 
 다툴 수 있음 사슬은 그 경로를 이 순서로 씁니다:
 
@@ -372,7 +372,7 @@
 2. **구성 요소 다툼** (구성 요소 포럼 경로). 구성 요소 소견에 한정된 다툼은 그 구성 요소에 대한 본안 권한이 있는 포럼 가족으로 라우팅됩니다. 주관 포럼은 제때 검토가 끝날 때까지 다툰 구성 요소에 대한 의지를 [정지](core_05_band_accountability.md#stay)할 수 있습니다.
 3. **주관 조정 다툼** (주관-완전성 경로). 주관 포럼이 과정을 어떻게 운영했는지에 대한 다툼은 [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) 완전성과 자기 심판 금지 규칙 아래로 라우팅됩니다. 포획, 숨긴 정보, 자기 검토, 학대하는 걸음 순서, 인증을 너무 일찍 끝났다고 부르는 일, 그 밖의 주관 포럼 완전성 문제를 포함합니다. 다툼이 그 주관 포럼 자신의 편향, 포획, 이해충돌, 또는 과정 학대를 겨냥할 때, 검토가 같은 주관 포럼에 갇히지 않도록 그 규칙 아래 예비 라우팅이 적용됩니다.
 4. **격상과 인증** (격상 경로). 일차 이해관계, 헌법 효력, 구조 구제, 가족 교착, 또는 자기 심판 금지 보호가 요구하는 곳, 다툼 라우팅은 제11장 이전, 인증, 예비 라우팅, 가족 간 격상을 통해 이어집니다.
-5. **다툼 중의 의존 한도:** 실질이고 제때인 다툼은 예견 가능한 해를 막고, 증거를 보존하고, 다툰 소견에 대한 되돌릴 수 없는 의존을 막기 위해 필요한 한에서 인증 기록에 대한 의지를 한정하거나 멈출 수 있으며, [제 XXIV-C조](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*제때 해결과 지연 금지 바닥*) 아래 신속 검토에 따릅니다.
+5. **다툼 중의 의존 한도:** 실질이고 제때인 다툼은 예견 가능한 해를 막고, 증거를 보존하고, 다툰 소견에 대한 되돌릴 수 없는 의존을 막기 위해 필요한 한에서 인증 기록에 대한 의지를 한정하거나 멈출 수 있으며, [제 XXV-C조](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*제때 해결과 지연 금지 바닥*) 아래 신속 검토에 따릅니다.
 
 인증 기록은 다툴 수 있음 사슬 — 영향받는 쪽이 각 걸음에서 어떻게 다툴 수 있는지 — 와 명명된 다툴 수 있음 경로를 말해야 합니다.
 

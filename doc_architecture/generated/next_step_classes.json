@@ -111,9 +111,9 @@
       "high_pressure": true
     },
     {
-      "id": "cross_system_contribution",
-      "card_title": "Cross-system contribution",
-      "card_anchor": "cross-system-contribution",
+      "id": "cross_system_support",
+      "card_title": "Cross-system support",
+      "card_anchor": "cross-system-support",
       "next_step_class": "compare_mapped_flows_against_adequacy_failures",
       "high_pressure": true
     },

@@ -122,7 +122,7 @@ ROUTE_DOOR_PHRASES: tuple[tuple[tuple[str, ...], str], ...] = (
         "rights_floor_ambiguity",
     ),
     (("winner takes", "never binds", "market structure"), "market_structure"),
-    (("cross-system", "putting resources back"), "cross_system_contribution"),
+    (("cross-system", "putting resources back"), "cross_system_support"),
 )
 ROUTE_TOPIC_PHRASES: tuple[tuple[tuple[str, ...], str], ...] = (
     (

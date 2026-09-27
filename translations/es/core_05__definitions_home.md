@@ -260,7 +260,7 @@ Este directorio enumera **Definiciones A-Z** y **Agrupaciones A-Z** por separado
 - [Características protegidas](../../core_05_band_participation.md#protected-characteristics-constitutional)
 - [Restricción de publicación de datos protegidos y de estado interno](../../core_05_band_oversight.md#protected-data-and-internal-state-publication-constraint)
 - [Límite de estado interno protegido](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional)
-- [Filtrado de señales íntimas protegidas y elusión de estatus del **Artículo X-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*)](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention)
+- [Filtrado de señales íntimas protegidas y elusión de estatus del **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*)](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention)
 - [Denuncia protegida (alertadores)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
 - [Represalia contra la denuncia protegida e interferencia de acceso](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)
 - [Divergencia de proxy](../../core_05_band_oversight.md#proxy-divergence)

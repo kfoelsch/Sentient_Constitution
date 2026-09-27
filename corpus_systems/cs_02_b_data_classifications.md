@@ -60,7 +60,7 @@ These type letters name different kinds of data and how they are usually shared 
 - Where a **Type O** baseline applies, systems must still release sufficient [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) even when the underlying streams remain **Type E**.
 - A **Type O** notice must leave the underlying coordination stream’s **Type E** accessibility, timeliness, and anti-suppression duties fully in force.
 
-**Disclosure posture:** **Presumptive accessibility** under the **open / accessible by default** band ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands)). Narrow hold-backs require justification under **CJS-3.12** (*burden-of-justification and constraint terms*) and **CJS-3.5** (*independent verification and claim-integrity terms*). Shared timeliness, presentation, fidelity, and restriction-discipline rules are in [Part A §5.1](cs_02_a_information_types_and_handling.md#51-proportional-access-and-handling)–[§5.3](cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access).
+**Disclosure posture:** **Presumptive accessibility** under the **open / accessible by default** band ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands)). Narrow hold-backs require justification under **CJS-3.12** (*burden-of-justification and constraint terms*) and **CJS-3.5** (*independent verification and claim-integrity terms*). Shared timeliness, presentation, fidelity, and restriction-discipline rules are in [Part A §5.1](cs_02_a_information_types_and_handling.md#51-proportional-access-and-handling)–[§5.3 Tiered transparency and audit access](cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access).
 
 #### 8.1.1 Type E access and handling duties
 
@@ -156,7 +156,7 @@ These type letters name different kinds of data and how they are usually shared 
 
 **Definition:** Data released or required to be released as [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) for transparency, oversight, and contestability — including lawful substitutes where **Type G**, **Type E**, or other source records remain non-public, non-baseline, or otherwise restricted. Canonical meaning is in Chapter Five; this type owns systems-layer typing and handling.
 
-**Class A/B/C public-baseline content.** Where the [Type O baseline for Class A/B/C](cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems) applies, **Type O** carries [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) — the **public explanation** of chartered and certified scope — mapped under Part A §7 from the governing [Charter](../core_05_band_continuity.md#charter) (or equivalent), assigned class, and observed [System Boundaries](../core_05_band_continuity.md#system-boundaries) — not a second taxonomy. It includes information sentients need to understand:
+**Class A/B/C public-baseline content.** Where the [Type O baseline for Class A/B/C](cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems) applies, **Type O** carries [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) — the **public explanation** of chartered and certified scope — mapped under Part A §7 (*Type O baseline for Class A/B/C systems*) from the governing [Charter](../core_05_band_continuity.md#charter) (or equivalent), assigned class, and observed [System Boundaries](../core_05_band_continuity.md#system-boundaries) — not a second taxonomy. It includes information sentients need to understand:
 - purpose and what the system does
 - how it is classified
 - dependency structure and what depends on it
@@ -198,7 +198,7 @@ Baseline visibility into purpose, operational status, material risk, performance
 - Topic routing (mandatory read-with): [Part A §7](cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems) (*Type O baseline for Class A/B/C systems* — scoped by Charter, class, and System Boundaries; verified under Chapter Eight).
 - Topic routing (mandatory read-with): [Part A §5.3](cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access) (*Tiered transparency and audit access*).
 - Topic routing (mandatory read-with): [Part A §2](cs_02_a_information_types_and_handling.md#cs-2-2-determination-of-classification) (*Determination of classification* — most-restrictive applicable protections).
-- Read with: [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure); [Charter](../core_05_band_continuity.md#charter); [System Boundaries](../core_05_band_continuity.md#system-boundaries); [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional); [System Certification Record](../core_05_band_continuity.md#system-certification-record-constitutional); [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional); [System Data Types Record](../core_05_band_continuity.md#system-data-types-record-constitutional); [Chapter Eight §4](../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [Chapter Eight Part B §11](../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record) (*Certification record*); [Transparency](../core_05_band_oversight.md#transparency); **Article XV** (*Audit, Transparency, and Independent Verification*).
+- Read with: [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure); [Charter](../core_05_band_continuity.md#charter); [System Boundaries](../core_05_band_continuity.md#system-boundaries); [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional); [System Certification Record](../core_05_band_continuity.md#system-certification-record-constitutional); [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional); [System Data Types Record](../core_05_band_continuity.md#system-data-types-record-constitutional); [Chapter Eight §4](../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [Chapter Eight Part B §11](../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record) (*Certification record*); [Transparency](../core_05_band_oversight.md#transparency); **Article XVI** (*Audit, Transparency, and Independent Verification*).
 
 </details>
 
@@ -211,7 +211,7 @@ Baseline visibility into purpose, operational status, material risk, performance
 **Access.** Systems must:
 - provide **Type O** data in a manner that is **understandable**, **documented**, **attributable**, **versioned** where material changes occur, and **retained** for a duration proportional to system impact and dependency
 - where lawful online publication infrastructure exists to support class-appropriate access, make **Type O** data **freely available online** — without paywalls or insider-only substitutes for [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure)
-- **limit redaction** so it does **not** prevent meaningful accountability at the Public Oversight Baseline Disclosure tier; limited redaction is permitted only where more-restrictive applicable typing under [Part A §2](cs_02_a_information_types_and_handling.md#cs-2-2-determination-of-classification) or [Part A §5.3](cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access) / [§7](cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems) requires it — and only where a lawful **Type O** substitute still preserves meaningful accountability
+- **limit redaction** so it does **not** prevent meaningful accountability at the Public Oversight Baseline Disclosure tier; limited redaction is permitted only where more-restrictive applicable typing under [Part A §2](cs_02_a_information_types_and_handling.md#cs-2-2-determination-of-classification) or [Part A §5.3](cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access) / [§7 Type O baseline for Class A/B/C systems](cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems) requires it — and only where a lawful **Type O** substitute still preserves meaningful accountability
 
 **Handling — prohibited.** Systems managing **Type O** data must **not:**
 - withhold **Type O** material behind paywalls, account barriers beyond reasonable identity verification for restricted tiers, or insider-only distribution substitutes for [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure)
@@ -276,7 +276,7 @@ Baseline visibility into purpose, operational status, material risk, performance
 - use **Type H** to create **hidden or coercive behavioral profiling** (including opaque social scoring, predictive manipulation, or differential treatment that is not transparent, challengeable, and aligned with this Constitution)
 - **retain** fine-grained behavioral histories longer than justified by purpose, safety, audit, or stakeholder need
 - create **asymmetric informational advantages** that materially impair affected sentients’ ability to understand, challenge, or respond to decisions affecting them
-- use external, contractor-held, foreign-partner, or parallel-system data flows to circumvent limits that would have applied to direct collection, linkage, or analysis under **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*), **CJS-3.12** (*burden-of-justification and constraint terms*), or this section
+- use external, contractor-held, foreign-partner, or parallel-system data flows to circumvent limits that would have applied to direct collection, linkage, or analysis under **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*), **CJS-3.12** (*burden-of-justification and constraint terms*), or this section
 
 <a id="85-type-i-identity-and-attribution-data"></a>
 ### 8.5 Type I: Identity and attribution data
@@ -311,7 +311,7 @@ Baseline visibility into purpose, operational status, material risk, performance
 
 - Topic routing (mandatory read-with): [Part A §1.1](cs_02_a_information_types_and_handling.md#11-identity-self-ownership-and-recoverability) (*Identity self-ownership and recoverability*).
 - Topic routing (mandatory read-with): [Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands) (*Access-posture bands* — restricted by default; shared anti-abuse limits; shared consent integrity; Type H and Type I anti-capture limits).
-- Read with: **Part B — Type N**; **Article VII-A** (*Self-Ownership of Body and Mind*); **CJS-3.17** (*interoperability, portability, and exit-integrity terms*); **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*).
+- Read with: **Part B — Type N**; **Article VII-A** (*Self-Ownership of Body*); **CJS-3.17** (*interoperability, portability, and exit-integrity terms*); **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*).
 
 </details>
 
@@ -335,7 +335,7 @@ Baseline visibility into purpose, operational status, material risk, performance
 
 *In plain terms: thoughts, feelings, and other inner states — off-limits without real consent, or a narrowly justified override that can be checked.*
 
-**Definition:** All data that represents or enables reconstruction of sentients' internal states. This category is foundational to self-ownership (**Article VII-A** (*Self-Ownership of Body and Mind*); **Article VII-B** (*Internal-State Boundary and Type-N Protection*)). Examples include:
+**Definition:** All data that represents or enables reconstruction of sentients' internal states. This category is foundational to self-ownership (**Article VII-B** (*Self-Ownership of Mind*)). Examples include:
 - **thoughts, intentions, and beliefs**
 - **subjective experiences** and **internal perception**
 - **private cognitive processes** and **internal memory**
@@ -352,7 +352,7 @@ Baseline visibility into purpose, operational status, material risk, performance
 
 - Topic routing (mandatory read-with): [Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands) (*Access-posture bands* — non-accessible by default; shared consent integrity; shared security- and intelligence-use records).
 - Topic routing (mandatory read-with): [Part A §5.3](cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access) (*Tiered transparency and audit access* — Type N / protected-boundary balance).
-- Read with: **Article VII-A** (*Self-Ownership of Body and Mind*); **Article VII-B** (*Internal-State Boundary and Type-N Protection*); **CJS-3.12** (*burden-of-justification and constraint terms*); **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*) via **Chapter Seventeen**.
+- Read with: **Article VII-B** (*Self-Ownership of Mind*); **CJS-3.12** (*burden-of-justification and constraint terms*); **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*) via **Chapter Seventeen**.
 
 </details>
 

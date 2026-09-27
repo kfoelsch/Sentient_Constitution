@@ -44,7 +44,7 @@
 > - **제2장부터 제4장:** 여기서 쓰는 증거의 기록, 보관, 추적 가능성, 확인 규율을 공급합니다.
 > - **제1장:** 비상 권한, 필요성, 집중, 체계 포획에 관련되는 원칙을 공급합니다.
 > - **제11장:** 포럼 라우팅, 청렴 가족 기본 라우팅, 이전, 인증 규율을 공급합니다.
-> - **제6장:** 권리 바닥, **제 XXIII-B조** (*비중대한 제한, 원상회복, 회복-책무 제약*) 공동 요건과 **폭력에 대한 감금**, **제 XXIII-C조** (*가장 덜 제한적이고 시한 있는 규칙*) 검토 규율, **제 XXIV-C조** (*제때 해결과 지연 금지 바닥*) 구제 시기 규율, **제 XXIII-A조** (*정의 목적과 범위*) 검토와 공표 안전장치를 공급합니다; 여기 **4.1절**은 확인된 반헌법 부당행위에 대해 제9장 구제와 교정을 전문화하고, **4.2절**은 예방 잠금(요구되는 곳의 감금을 포함)을 전문화하며, **4.3절**은 자발적 공적 책무 표현을 전문화합니다.
+> - **제6장:** 권리 바닥, **제 XXIV-B조** (*비중대한 제한, 원상회복, 회복-책무 제약*) 공동 요건과 **폭력에 대한 감금**, **제 XXIV-C조** (*가장 덜 제한적이고 시한 있는 규칙*) 검토 규율, **제 XXV-C조** (*제때 해결과 지연 금지 바닥*) 구제 시기 규율, **제 XXIV-A조** (*정의 목적과 범위*) 검토와 공표 안전장치를 공급합니다; 여기 **4.1절**은 확인된 반헌법 부당행위에 대해 제9장 구제와 교정을 전문화하고, **4.2절**은 예방 잠금(요구되는 곳의 감금을 포함)을 전문화하며, **4.3절**은 자발적 공적 책무 표현을 전문화합니다.
 > - **제12장:** 최종 제10장 지정에 묶인 거버넌스 정당성 결과를 공급합니다.
 > - **제13장부터 제15장:** 변경 경로 유효성, 회부, 절차, 보관 규칙을 공급합니다; 최종 제10장 지정을 내지 않습니다.
 >
@@ -147,7 +147,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [§1](#1-decision-framework-scope-and-authority) (*지정 결정이 어떻게 작동하는가*).
-- 비상 권한: [제1장](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) 비상과 필요성 규율; **기준 5**와 **6**을 한정된 비상 권한에 대해 읽는 곳의 [제 XXIII-D조: 비상 조치와 계속 부담](core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden).
+- 비상 권한: [제1장](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) 비상과 필요성 규율; **기준 5**와 **6**을 한정된 비상 권한에 대해 읽는 곳의 [제 XXIV-D조: 비상 조치와 계속 부담](core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden).
 - 하류 지정 결정: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity).
 - 하류 안전장치와 규율: [§4](#4-due-process-safeguards-for-slot-assignment).
 - 이 절: 지정 기준 집합; 통일 사건 규칙; 치유된 기준 1–4 변경 또는 기록 오류에 대한 **선의의 기초 유보**.
@@ -198,8 +198,8 @@
 2. **알면서의 위조 또는 억압:** 제안, 검토, 채택, 공표, **또는 다른 실질 헌법 보관 또는 확인** 기록에서의 알면서의 위조, 실질 생략, 또는 증거/보관 조작.
 3. **실질 되돌림 효과:** 헌법 보호의 실제 또는 시도된 실질 약화. 직접으로, 또는 동등한 구조 우회로.
 4. **인과로 중요한 행위:** 행위가 위법한 헌법 효과, 지연된 교정, 막힌 다툼 권리, 또는 권리 바닥 저하에 실질로 기여함.
-5. **반란 또는 실질 강제 전복:** **힘**, **강제**, 또는 **찬탈**을 써서 이 헌법의 운영 헌법 권위를 **전복**하고, **정지**하고, 또는 **대체**하는 조직되거나 실질인 **위법** 행위. 이것은 **제1장**과 **제 XXIII-D조** (*비상 조치와 계속 부담*) 또는 동등한 **필요성**-한정 비상 권한 아래 정당화된 행위를 제외합니다.
-6. **운영 무효화:** 헌법 **과정** 또는 **구제**를 실무에서 쓸 수 없게 만드는 행위. 이것은 **제1장**과 **제 XXIII-D조** (*비상 조치와 계속 부담*) 또는 동등한 **필요성**-한정 비상 권한 아래 정당화된 행위를 제외합니다.
+5. **반란 또는 실질 강제 전복:** **힘**, **강제**, 또는 **찬탈**을 써서 이 헌법의 운영 헌법 권위를 **전복**하고, **정지**하고, 또는 **대체**하는 조직되거나 실질인 **위법** 행위. 이것은 **제1장**과 **제 XXIV-D조** (*비상 조치와 계속 부담*) 또는 동등한 **필요성**-한정 비상 권한 아래 정당화된 행위를 제외합니다.
+6. **운영 무효화:** 헌법 **과정** 또는 **구제**를 실무에서 쓸 수 없게 만드는 행위. 이것은 **제1장**과 **제 XXIV-D조** (*비상 조치와 계속 부담*) 또는 동등한 **필요성**-한정 비상 권한 아래 정당화된 행위를 제외합니다.
 
 각자가 자기 독립 증명을 갖지 않으면 같은 행위를 **기준 5**와 **기준 6** 둘 다로 세지 마십시오. 예를 들어, 기록은 따로 난 강제 행위와 과정 또는 구제를 쓸 수 없게 만드는 따로 난 방식을 보여야 합니다 — 한 미분화 사실에 대한 두 꼬리표가 아닙니다.
 
@@ -276,7 +276,7 @@
 - 패턴 적용: [§5.3](core_10_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) (*구역 쇄도*); [§5.4](core_10_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding) (*정보권역 쇄도*); [§5.5](core_10_b_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (*뇌물과 부당한 이익 교환*); [§5.6](core_10_b_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct) (*위법 또는 위헌 명령 행위*); [§5.7](core_10_b_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct) (*반헌법 행위의 보상, 보호, 또는 정상화*); [§5.8](core_10_b_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct) (*집행 거절, 억압, 또는 불기소 행위*); [§5.9](core_10_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct) (*기반시설 거부, 파괴, 또는 의존 차단 행위*); [§5.10](core_10_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*포럼 제척 실패와 편향된 패널 참여*); [§5.11](core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) (*책무 방해*).
 - 하류: [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*구제와 교정 (반헌법)*); [§4.2](#4-2-prevention-anti-constitutional-locks) (*예방 — 반헌법 잠금*); [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*자발적 공적 책무 표현 (반헌법)*).
 - 포럼 규율: [제11장 §2](core_11_forum.md#2-default-venue-and-primary-stakes)부터 [§5](core_11_forum.md#5-escalation-and-certification)까지가 기본 청렴 주도, 포럼 가족에의 적법절차 적용, 이전, 인증을 덮습니다. **4절**을 **제6장**의 **제 XXIII조** (*충돌 해결, 격상, 비상 비례*)와 함께 읽으십시오.
-- 함께 읽기: 검토와 공표 안전장치를 위한 [제 XXIII-A조: 정의 목적과 범위](core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope); 공표를 위한 추적 표준으로서의 [제2장부터 제4장](core_02_definition_structure.md); 이 절이 전문화하는 일반 구제 → 잠금 → 표현 문법을 위한 [제9장 §4](core_09_standing_integration.md#4-violation-correction-and-prevention) (*위반, 교정, 예방*).
+- 함께 읽기: 검토와 공표 안전장치를 위한 [제 XXIV-A조: 정의 목적과 범위](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope); 공표를 위한 추적 표준으로서의 [제2장부터 제4장](core_02_definition_structure.md); 이 절이 전문화하는 일반 구제 → 잠금 → 표현 문법을 위한 [제9장 §4](core_09_standing_integration.md#4-violation-correction-and-prevention) (*위반, 교정, 예방*).
 
 </details>
 
@@ -297,7 +297,7 @@
 
 - 상류: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*위반 축 s = 7–9 지정*); [§4](#4-due-process-safeguards-for-slot-assignment) (*적법절차 안전장치, 구제, 예방*).
 - 하류: [§4.2](#4-2-prevention-anti-constitutional-locks) (*예방 — 반헌법 잠금*); [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*자발적 공적 책무 표현 (반헌법)*); [제9장](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) 궤적 효과와 궤적 잠금 통합; [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) 포럼 라우팅과 인증.
-- 함께 읽기: [제9장 §4.1](core_09_standing_integration.md#41-remedy-and-correction) (*구제와 교정*); [제 XXIII-A조](core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*정의 목적과 범위*); [제 XXIII-B조](core_06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*원상회복, 시정, 재활, 책무 있는 귀속*); [제 XXIII-C조](core_06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) (*기간, 검토, 복원*); [제 XXIV-C조](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*제때 해결과 구제 개시*).
+- 함께 읽기: [제9장 §4.1](core_09_standing_integration.md#41-remedy-and-correction) (*구제와 교정*); [제 XXIV-A조](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*정의 목적과 범위*); [제 XXIV-B조](core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*원상회복, 시정, 재활, 책무 있는 귀속*); [제 XXIV-C조](core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule) (*기간, 검토, 복원*); [제 XXV-C조](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*제때 해결과 구제 개시*).
 
 </details>
 
@@ -341,7 +341,7 @@
   - 통일 사건이 일으키거나 실질로 기여한 실질 해, 권리 상실, 구제 상실, 의존 해, 증거 저하, 또는 과정 무효화;
   - 원상회복, 보상, 복원, 교정, 적법한 곳의 토출 또는 환수, 글자 그대로의 수리가 불가능한 곳의 대체 안전장치, 해가 부류 전체이거나 구조적인 곳의 체계 시정;
   - 각 구제를 지거나 자금을 대야 하는 책임 있는 행위자, 역할, 제도, 체계, 자금, 승계자, 또는 조율 기구;
-  - **제 XXIV-C조** (*제때 해결과 지연 금지 바닥*) 아래 개시 기한, 완료 이정표, 확인 요건, 검토 방아쇠;
+  - **제 XXV-C조** (*제때 해결과 지연 금지 바닥*) 아래 개시 기한, 완료 이정표, 확인 요건, 검토 방아쇠;
   - 누가 후속을 감독하는지, 지연이 일어나면 무엇이 일어나는지.
 - **우선과 잠정 보호:**
   - 영향받는 쪽과 실무 복원을 먼저 두십시오 — 평판 수리, 제도 편의, 보통 행정 순서보다 앞에.
@@ -371,7 +371,7 @@
 
 - 상류: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*위반 축 s = 7–9 지정*); [§4](#4-due-process-safeguards-for-slot-assignment) (*적법절차 안전장치, 구제, 예방*); [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*구제와 교정 (반헌법)*).
 - 하류: [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*자발적 공적 책무 표현 (반헌법)*); [제9장 §5.5](core_09_standing_integration.md#55-special-locks) (*반헌법 신뢰 잠금*).
-- 함께 읽기: [제9장 §4.2](core_09_standing_integration.md#42-general-standing-locks) (*예방 — 일반 궤적 잠금*); [제9장 §5.1](core_09_standing_integration.md#51-definition-and-attachment) (*정의와 첨부*); [제9장 §5.4](core_09_standing_integration.md#54-special-violation-rules) (*강제적 또는 자유 제한 안전장치*); [제 XXIII-B조](core_06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*공동 요건과 **폭력에 대한 감금***); [제 XXIII-C조](core_06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) (*기간, 검토, 복원, 재평가 규율*).
+- 함께 읽기: [제9장 §4.2](core_09_standing_integration.md#42-general-standing-locks) (*예방 — 일반 궤적 잠금*); [제9장 §5.1](core_09_standing_integration.md#51-definition-and-attachment) (*정의와 첨부*); [제9장 §5.4](core_09_standing_integration.md#54-special-violation-rules) (*강제적 또는 자유 제한 안전장치*); [제 XXIV-B조](core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*공동 요건과 **폭력에 대한 감금***); [제 XXIV-C조](core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule) (*기간, 검토, 복원, 재평가 규율*).
 
 </details>
 
@@ -395,9 +395,9 @@
   - **3절**이 부당행위가 확인되었는지와 얼마나 심각한지를 결정합니다; 이 하위절이 자유 제한 안전장치로서 감금이 요구되는지를 결정합니다.
   - 감금은 다음을 충족해야 합니다:
     - [제9장 §5.4](core_09_standing_integration.md#54-special-violation-rules) (*강제적 또는 자유 제한 안전장치*);
-    - **제 XXIII-B조** (*비중대한 제한, 원상회복, 회복-책무 제약*) 공동 요건;
+    - **제 XXIV-B조** (*비중대한 제한, 원상회복, 회복-책무 제약*) 공동 요건;
     - 개별화 귀속, 그리고 다툼과 불복 보호; 그리고
-    - **제6장 D부분**의 **제 XXIII-C조** (*가장 덜 제한적이고 시한 있는 규칙*) 기간, 검토, 복원, 재평가 규율.
+    - **제6장 D부분**의 **제 XXIV-C조** (*가장 덜 제한적이고 시한 있는 규칙*) 기간, 검토, 복원, 재평가 규율.
   - 이 하위절이 감금을 요구할 때 생명 박탈, 석방, 행정 다시 이름 붙이기, 또는 더 가벼운 조치만으로 대체하는 것은 비준수입니다.
 
 <a id="4-3-voluntary-public-accountability-expression"></a>
@@ -410,7 +410,7 @@
 
 - 상류: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*위반 축 s = 7–9 지정*); [§4](#4-due-process-safeguards-for-slot-assignment) (*적법절차 안전장치, 구제, 예방*); [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*구제와 교정 (반헌법)*); [§4.2](#4-2-prevention-anti-constitutional-locks) (*예방 — 반헌법 잠금*).
 - 하류: [§5](core_10_b_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing) (*패턴 적용과 기준 라우팅*).
-- 함께 읽기: [제9장 §4.3](core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*자발적 공적 책무 표현*); [제 XXIII-B조](core_06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*공동 요건*); [제 XXIV-B조](core_06_rights_part_d.md#article-xxiv-b-rights-collision-procedure-and-restorative-alignment) (*권리 충돌 절차와 회복 정합*).
+- 함께 읽기: [제9장 §4.3](core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*자발적 공적 책무 표현*); [제 XXIV-B조](core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*공동 요건*); [제 XXV-B조](core_06_rights_part_d.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment) (*권리 충돌 절차와 회복 정합*).
 
 </details>
 
@@ -422,7 +422,7 @@
 
 - **자발적 공적 책무 표현:** 확인된 반헌법 부당행위의 회복 경로에서 책무를 지는 쪽은, 수리, 신뢰 복원, 또는 공동체 치유를 받치는 곳에서, 보충 책무 행위로 공적 인정이나 사과를 자발적으로 선택할 수 있습니다. 제9장 §4.3 자발성, 진정성, 저하 금지, 비대체 통제에 따릅니다.
 - **진정하지 않거나 학대하는 표현:** 실질로 진실하지 않고, 조작적이며, 진실한 책무 없이 보여 주기이거나, 영향받는 쪽 또는 공중에 학대적인 공적 인정이나 사과는 회복 요건을 충족하지 않습니다.
-  - 책무를 지는 쪽에 부정 정의 결과를 가져올 수 있습니다 — **3절** 아래 추가 부당행위 소견, 줄어든 재활 신용, **제 XXIII-B조** (*비중대한 제한, 원상회복, 회복-책무 제약*)와 **제8장** 아래 다른 적법 제한을 포함.
+  - 책무를 지는 쪽에 부정 정의 결과를 가져올 수 있습니다 — **3절** 아래 추가 부당행위 소견, 줄어든 재활 신용, **제 XXIV-B조** (*비중대한 제한, 원상회복, 회복-책무 제약*)와 **제8장** 아래 다른 적법 제한을 포함.
   - 가짜거나 학대하는 사과를 충분한 수리로 다루거나, 그것을 써서 **4.1절** 아래 필요한 보호 또는 시정, 또는 **4.2절** 아래 잠금을 피하는 것은 비준수입니다.
 - 공적 표현 참여를 거절하는 일만으로 기준선 제재를 올리거나 **반헌법 신뢰 잠금**을 넓혀서는 안 됩니다.
 

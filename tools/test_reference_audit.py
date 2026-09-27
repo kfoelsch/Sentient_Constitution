@@ -21,13 +21,13 @@ ROOT = Path(__file__).resolve().parents[1]
 class SemanticRuleGuardTests(unittest.TestCase):
     def live_map(self) -> dict[str, str]:
         return {
-            "IV": "Resource Allocation, Dependencies, and Ecosystem Funding",
-            "V": "Equal Basic Rights",
-            "XVI": "System Lifecycle, Environments, and Reversibility",
-            "XVIII": "Standing and Participation Status",
-            "XX": "Comprehensibility and Complexity Stewardship",
-            "XXI": "Root Cause Analysis and Adaptive Response",
-            "XXIII": "Conflict Resolution, Escalation, and Emergency Proportionality",
+            "V": "Resource Allocation, Dependencies, and Ecosystem Funding",
+            "VI": "Equal Basic Rights",
+            "XVII": "System Lifecycle, Environments, and Reversibility",
+            "XIX": "Standing and Participation Status",
+            "XXI": "Comprehensibility and Complexity Stewardship",
+            "XXII": "Root Cause Analysis and Adaptive Response",
+            "XXIV": "Conflict Resolution, Escalation, and Emergency Proportionality",
         }
 
     def test_shipped_rules_match_the_live_corpus(self) -> None:
@@ -48,20 +48,20 @@ class SemanticRuleGuardTests(unittest.TestCase):
         self.assertEqual(expected, set(self.live_map()))
 
     def test_renumbered_article_is_rejected(self) -> None:
-        rules = [(re.compile(r"\bstanding\b", re.I), "XII", "standing")]
+        rules = [(re.compile(r"\bstanding\b", re.I), "XIII", "standing")]
         with mock.patch.object(reference_audit, "SEMANTIC_RULES", rules):
             with self.assertRaises(SystemExit) as caught:
                 validate_semantic_rules(
-                    {"XII": "Right to Reliable and Trustworthy Systems"}
+                    {"XIII": "Right to Reliable and Trustworthy Systems"}
                 )
         self.assertIn("standing", str(caught.exception))
-        self.assertIn("XII", str(caught.exception))
+        self.assertIn("XIII", str(caught.exception))
 
     def test_missing_article_is_rejected(self) -> None:
         rules = [(re.compile(r"\bstanding\b", re.I), "XCIX", "standing")]
         with mock.patch.object(reference_audit, "SEMANTIC_RULES", rules):
             with self.assertRaises(SystemExit) as caught:
-                validate_semantic_rules({"XVIII": "Standing and Participation Status"})
+                validate_semantic_rules({"XIX": "Standing and Participation Status"})
         self.assertIn("no longer exists", str(caught.exception))
 
 

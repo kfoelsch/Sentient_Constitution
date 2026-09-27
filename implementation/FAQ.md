@@ -23,7 +23,7 @@ See: [Chapter Fifteen §5](../core_15_expansion_supremacy.md#5-relation-to-appli
 
 Who is protected is a sentience-status question with a default-inclusion floor while that question is unresolved. A trust score, a participation vote, or a product label is not that decision.
 
-See: [Article V-E](../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor); [Article XVIII-A](../core_06_rights_part_c.md#article-xviii-a-standing-distinction).
+See: [Article VI-B](../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor); [Article XIX-A](../core_06_rights_part_c.md#article-xix-a-standing-distinction).
 
 ### 4. What is the difference between using it as a handbook and a body agreeing to follow it?
 
@@ -35,7 +35,7 @@ See: [START_HERE.md §5](../START_HERE.md#two-modes); [FIT_SITUATIONS.md §2](ad
 
 Ordinary local, national, and international law still apply. This page is not a substitute for those paths. If a body that actually runs the system has agreed to follow this Constitution, start with a real way to challenge, get review, and be made whole — and with finding the home if the path is hidden.
 
-See: [G01 — Challenge, review, and being made whole](adoption/easy_entry/G01_challenge_review_redress.md); [E15 — Harmed and cannot find the door](adoption/easy_entry/E15_cannot_find_the_door.md); [Article XII-B](../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress).
+See: [G01 — Challenge, review, and being made whole](adoption/easy_entry/G01_challenge_review_redress.md); [E15 — Harmed and cannot find the door](adoption/easy_entry/E15_cannot_find_the_door.md); [Article XIII-B](../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress).
 
 ### 6. Why are there so many files?
 

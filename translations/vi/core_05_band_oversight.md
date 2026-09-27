@@ -185,7 +185,7 @@ Dải này giữ định nghĩa dưới trụ Tứ diện **Giám sát** — min
     - bảo vệ nguồn;
     - điều tra; và
     - công bố.
-    Hữu tri làm việc đó thực hành [Biểu đạt](core_05_band_participation.md#expression-constitutional) and [Tụ họp](core_05_band_participation.md#assembly-constitutional) Sàn Quyền, với bảo vệ giám sát tăng dưới [Điều V-H](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, và Press*) chống hành động nhà nước và vận hành nhằm làm suy hoạt động đó.
+    Hữu tri làm việc đó thực hành [Biểu đạt](core_05_band_participation.md#expression-constitutional) and [Tụ họp](core_05_band_participation.md#assembly-constitutional) Sàn Quyền, với bảo vệ giám sát tăng dưới [Điều V-H](../../core_06_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, và Press*) chống hành động nhà nước và vận hành nhằm làm suy hoạt động đó.
   - **Ngoài phạm vi:** thẻ báo chí, chức danh thể chế, hoặc lời nói thương mại thường không phải thu tin, điều tra, hoặc công bố vận hành như báo chí.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **Cách đo và đánh giá**
@@ -196,11 +196,11 @@ Dải này giữ định nghĩa dưới trụ Tứ diện **Giám sát** — min
     - bảo vệ nguồn;
     - điều tra; hoặc
     - công bố phục vụ môi trường thông tin.
-    Spot actions that impair the press by their real effect, và treat press-directed character as an aggravating factor under **Điều XIII-A** (*Security, Intelligence, và Covert-Power Limits*) and **Điều V-H** (*Expression, Assembly, và Press*). Apply heightened [Sự cần thiết](core_05_band_accountability.md#necessity) and [Tính tương xứng](core_05_band_accountability.md#proportionality) scrutiny, và keep any limit narrowly tailored.
+    Spot actions that impair the press by their real effect, và treat press-directed character as an aggravating factor under **Điều XIV-A** (*Security, Intelligence, và Covert-Power Limits*) and **Điều V-H** (*Expression, Assembly, và Press*). Apply heightened [Sự cần thiết](core_05_band_accountability.md#necessity) and [Tính tương xứng](core_05_band_accountability.md#proportionality) scrutiny, và keep any limit narrowly tailored.
 <a id="press-and-journalistic-activity-constitutional-c"></a>
 - **Điều phải đứng**
   - **Thất bại sơ cấp:** hành động nhà nước hoặc vận hành nhằm làm suy hoạt động nhà báo mà thất bại phân tích giới hạn giám sát tăng cường;
-  - **Thất bại thứ cấp:** stretching [Thiện chí](core_05_band_accountability.md#good-faith) or **Điều VIII-C** (*Truthful Publication and High-Impact Publication Limits*) để các chuẩn đó chặn báo cáo phê bình hợp pháp, công bố điều tra, hoặc bất đồng;
+  - **Thất bại thứ cấp:** stretching [Thiện chí](core_05_band_accountability.md#good-faith) or **Điều IX-C** (*Truthful Publication and High-Impact Publication Limits*) để các chuẩn đó chặn báo cáo phê bình hợp pháp, công bố điều tra, hoặc bất đồng;
   - **Thất bại tam cấp:** chứng chỉ, địa vị thể chế, hoặc lời nói thương mại thường dùng làm phép thử báo chí trong khi thu tin, điều tra, hoặc công bố vận hành như báo chí vắng.
 
 ---
@@ -662,7 +662,7 @@ Ngoài phạm vi đó, mục riêng vẫn có thể áp dụng một mình mà k
 
 Where admission scope is met, this cluster is the joint home for disclosure, audit, verification (including external detectability), và assurance depth when Chapters Two through Four require traceable, challengeable evidence of what a system does and whether compliance claims hold.
 
-**Khung giám sát.** Dưới the [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, và get audit access — owned here and at **Điều XV** (*Audit, Transparency, và Independent Verification*). [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [Chương Bảy](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
+**Khung giám sát.** Dưới the [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, và get audit access — owned here and at **Điều XVI** (*Audit, Transparency, và Independent Verification*). [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [Chương Bảy](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
 
 **Hạng hệ thống và tính tương xứng.** Transparency, auditability, và verification duties scale with system class under **[corpus_systems.md](../../corpus_systems.md), CS-3 — Phân hạng hệ thống và xử lý**, và with material impact, dependency, và risk. Higher-class systems (**Class A**, **B**, **C**) need more than lower-class systems (**Class L**, **P**), gồm:
 - bảo đảm sâu hơn;
@@ -882,8 +882,8 @@ Xem **Viện chung và thỏa**.
 
 - Thành phần cụm: [Def.O1 Minh bạch, khả năng kiểm toán, và xác minh](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - Đọc cùng: [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Trách nhiệm giải trình](core_05_apex_accountability_leg.md#accountability), [Khả năng tranh biện](core_05_band_accountability.md#contestability), [Tính toàn vẹn nhận thức](core_05_band_oversight.md#epistemic-integrity), [Minh bạch](core_05_band_oversight.md#transparency), [Khả năng xác minh](core_05_band_oversight.md#verifiability), [Bảo toàn bằng chứng](core_05_band_oversight.md#evidence-preservation), và [Ràng buộc đầy đủ đánh giá](core_05_band_oversight.md#evaluation-completeness-constraint).
-- Đọc cùng: **Điều XV** (*Audit, Transparency, và Independent Verification*); [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) Chapters Two through Four.
-- Cửa quản trị (không vận hành): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Điều XV)](../../core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Điều XV](../../core_06_rights_part_c.md#audit-three-layers).
+- Đọc cùng: **Điều XVI** (*Audit, Transparency, và Independent Verification*); [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) Chapters Two through Four.
+- Cửa quản trị (không vận hành): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Điều XVI)](../../core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Điều XVI](../../core_06_rights_part_c.md#audit-three-layers).
 
 </details>
 
@@ -1076,7 +1076,7 @@ Xem **Viện chung và thỏa**.
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thành phần cụm: [Def.O1 Minh bạch, khả năng kiểm toán, và xác minh](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Sàn chủ sở hữu: [Điều XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
+- Sàn chủ sở hữu: [Điều XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
 - Đọc cùng: [Khả năng kiểm toán](core_05_band_oversight.md#auditability), [Minh bạch](core_05_band_oversight.md#transparency), [Khả năng tranh biện](core_05_band_accountability.md#contestability), [Tính tương xứng](core_05_band_accountability.md#proportionality), [Tính khả thi](core_05_band_accountability.md#feasibility), [Sự thật (Ràng buộc hiến pháp)](core_05_band_oversight.md#truth-constitutional-constraint), và [Điều kiện đối kháng, chia tỷ lệ, và bị khai thác](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 
 </details>
@@ -1088,7 +1088,7 @@ Xem **Viện chung và thỏa**.
 - **Nó là gì**
   - **Trong phạm vi:** Whether system behavior, outputs, và effects can be externally detected, measured, và independently validated for [Khả năng kiểm toán](core_05_band_oversight.md#auditability). Constitutive conditions:
     - khả năng phát hiện ngoài trước xác minh độc lập được tính;
-    - practical access ([Điều XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility); [Tính khả thi](core_05_band_accountability.md#feasibility));
+    - practical access ([Điều XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [Tính khả thi](core_05_band_accountability.md#feasibility));
     - độc lập khỏi tự khẳng định vận hành;
     - proportionate burden under [Tính tương xứng](core_05_band_accountability.md#proportionality) and [Tác động vật chất](core_05_band_oversight.md#material-impact); and
     - reliability under ordinary stress, misuse, và [Điều kiện đối kháng, chia tỷ lệ, và bị khai thác](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1113,7 +1113,7 @@ Xem **Viện chung và thỏa**.
   - **Thước thứ cấp:** [Gia đình đo lường Giám sát](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Các hữu tri có thể thấy, xác minh, và dựa vào điều các hệ thống trình bày không?* Dùng ở đây để hỏi liệu observed behavior can be independently validated by reproducible methods in practice.
 
     **Đánh giá thứ cấp:** Xác nhận xác minh độc lập bằng phương pháp:
-    - affected and appropriately authorized parties can actually perform ([Điều XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility); [Tính khả thi](core_05_band_accountability.md#feasibility));
+    - affected and appropriately authorized parties can actually perform ([Điều XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [Tính khả thi](core_05_band_accountability.md#feasibility));
     - dựa bằng chứng phát hiện ngoài — không tuyên nội hoặc ý định suy;
     - are sized to system impact under [Tính tương xứng](core_05_band_accountability.md#proportionality) and [Tác động vật chất](core_05_band_oversight.md#material-impact); and
     - remain reliable under ordinary stress, misuse, và [Điều kiện đối kháng, chia tỷ lệ, và bị khai thác](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1226,7 +1226,7 @@ Khối con lồng này là nhà chung cho sàn hành vi công bố và giao di�
     from good-faith observation and bounded interpretation, under [Sự thật (Ràng buộc hiến pháp)](core_05_band_oversight.md#truth-constitutional-constraint) and [Thiện chí](core_05_band_accountability.md#good-faith).
 <a id="publication-truthfulness-and-recklessness-floor-c"></a>
 - **Điều phải đứng**
-  - Good-faith publication of observations, evidence, và bounded interpretations is governed by Chương Mười Một **Articles VIII**, **XII**, và **XIII** as applicable and must satisfy this cluster jointly under [Sự thật (Ràng buộc hiến pháp)](core_05_band_oversight.md#truth-constitutional-constraint), [Thiện chí](core_05_band_accountability.md#good-faith), và [Tính toàn vẹn nhận thức](core_05_band_oversight.md#epistemic-integrity).
+  - Good-faith publication of observations, evidence, và bounded interpretations is governed by Chương Mười Một **Articles IX**, **XIII**, và **XIV** as applicable and must satisfy this cluster jointly under [Sự thật (Ràng buộc hiến pháp)](core_05_band_oversight.md#truth-constitutional-constraint), [Thiện chí](core_05_band_accountability.md#good-faith), và [Tính toàn vẹn nhận thức](core_05_band_oversight.md#epistemic-integrity).
   - **Thất bại sơ cấp:** công bố giả dối cố ý, hoặc công bố với coi thường liều lĩnh đối với:
     - độ chính xác;
     - bất định;

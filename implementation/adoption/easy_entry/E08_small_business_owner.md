@@ -41,19 +41,19 @@ If a body that actually runs the systems in your life adopted this Constitution:
 - **Today:** Licensing and capital access are slow for you and easy for them. Paperwork says the market is open while gates freeze out new or disfavored founders.
 - **With this Constitution:** You must be able to start and run commercial enterprises. Shutting you out with delay or paperwork that privileges incumbents is a failure.
 
-See: [Business Creation](../../../core_05_band_participation.md#business-creation-constitutional); [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor).
+See: [Business Creation](../../../core_05_band_participation.md#business-creation-constitutional); [Article XI-E](../../../core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation).
 
 **Being bigger is not a license to trap you.**
 - **Today:** A few buyers, platforms, or employers control who you can hire, who you can sell to, and whether you can leave — and they call that competition.
 - **With this Constitution:** A contract cannot stop your workers from leaving, or stop you from hiring someone who used to work at another shop. You still have to pay fairly, keep the shop safe, give rest, and let workers organize. That is not the same as whether a few big buyers or platforms control the terms. Paying legal wages does not make that control OK.
 
-See: [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor); [Chapter One §13.2](../../../core_01_c_stewardship_capacity_principles.md#142-pro-competition-and-anti-domination).
+See: [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor); [Chapter One §14.2](../../../core_01_c_stewardship_capacity_principles.md#142-pro-competition-and-anti-domination).
 
 **Leaving a vendor is not supposed to be the product.**
 - **Today:** The tools you bought cannot be repaired except through the vendor. “Features” exist mainly to make switching painful. A new scheduling or lending system is being pushed as “modernization.”
 - **With this Constitution:** Barriers whose primary effect is to block exit, substitution, or challenge are violations, not strategy. Repair and independent servicing have a floor for covered products.
 
-See: [Article XIX-C](../../../core_06_rights_part_c.md#article-xix-c-anti-lock-in-rule); [Article II-B](../../../core_06_rights_part_a.md#article-ii-b-repair-maintenance-and-independent-servicing).
+See: [Article XX-C](../../../core_06_rights_part_c.md#article-xx-c-anti-lock-in-rule); [Article II-B](../../../core_06_rights_part_a.md#article-ii-b-repair-maintenance-and-independent-servicing).
 
 **Duties scale with what is actually on the line.**
 - **Today:** The same theater is demanded of a tiny shop and a city-scale deploy.

@@ -89,7 +89,7 @@
       "file": "core_05_band_continuity.md",
       "anchor": "#system-alignment-certification-constitutional",
       "title": "System Alignment Certification",
-      "plain_terms": "**system alignment certification** (non-operative shorthand: **SAC**) is the forum-supervised check that a system is actually aligned with constitutional outcomes before sentients rely on it at scale — including checks that critical Rights Floors such as food, water, and shelter are not quietly defeated by how the system is built, classified, or operated. Under the **oversight** Tetrad leg, oversight requires auditing; SAC is one especially large, high-stakes audit process among others — forum-supervised, multi-domain, and recognition-bearing — not the sole home of auditing (**Article XV**, [Auditability](../../core_05_band_oversight.md#auditability), and sibling audit modes remain).",
+      "plain_terms": "**system alignment certification** (non-operative shorthand: **SAC**) is the forum-supervised check that a system is actually aligned with constitutional outcomes before sentients rely on it at scale — including checks that critical Rights Floors such as food, water, and shelter are not quietly defeated by how the system is built, classified, or operated. Under the **oversight** Tetrad leg, oversight requires auditing; SAC is one especially large, high-stakes audit process among others — forum-supervised, multi-domain, and recognition-bearing — not the sole home of auditing (**Article XVI**, [Auditability](../../core_05_band_oversight.md#auditability), and sibling audit modes remain).",
       "href": "../../core_05_band_continuity.md#system-alignment-certification-constitutional"
     },
     {
@@ -113,11 +113,11 @@
       "file": "core_12_forum.md",
       "anchor": "#chapter-twelve-forums-and-jurisdiction",
       "title": "CHAPTER TWELVE: FORUMS AND JURISDICTION",
-      "plain_terms": "Under the [Constitutional Tetrad](../../core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](../../core_00_preamble.md#two-constitutional-aims), this chapter **supervises** how disputes move through the Chapters Nine–Eleven standing pipeline — routing, independence, forensic support, remediation sequencing, and tier-default clocks under **section 6** and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Forum families answer which track handles which dispute, where a case ordinarily starts, and how mixed-stakes matters coordinate. They supply **participation** (accessible challenge) and **oversight** (traceable merits review). When the facts are verified, they may **open, update, or correct** standing records — or **set a bad record aside on challenge**. They do **not** run a second, separate decision track beside the standing pipeline. Filing a case alone has no immediate impact on standing. Day-to-day trial rules, budgets, and staffing manuals live in adopted implementation text.",
+      "plain_terms": "Under the [Constitutional Tetrad](../../core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](../../core_00_preamble.md#two-constitutional-aims), this chapter **supervises** how disputes move through the Chapters Nine–Eleven standing pipeline — routing, independence, forensic support, remediation sequencing, and tier-default clocks under **section 6** and **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*). Forum families answer which track handles which dispute, where a case ordinarily starts, and how mixed-stakes matters coordinate. They supply **participation** (accessible challenge) and **oversight** (traceable merits review). When the facts are verified, they may **open, update, or correct** standing records — or **set a bad record aside on challenge**. They do **not** run a second, separate decision track beside the standing pipeline. Filing a case alone has no immediate impact on standing. Day-to-day trial rules, budgets, and staffing manuals live in adopted implementation text.",
       "href": "../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction"
     }
   ],
-  "term_count": 237,
+  "term_count": 236,
   "terms": [
     {
       "term": "Accessibility",
@@ -125,13 +125,6 @@
       "anchor": "#accessibility-constitutional",
       "plain_terms": "access must work in real life — not only on paper. If someone cannot actually take part because of how they sense, think, move, communicate, or interface with a system, the system fails this test.",
       "href": "../../core_05_band_participation.md#accessibility-constitutional"
-    },
-    {
-      "term": "Accountability",
-      "file": "core_05_apex_accountability_leg.md",
-      "anchor": "#accountability",
-      "plain_terms": null,
-      "href": "../../core_05_apex_accountability_leg.md#accountability"
     },
     {
       "term": "Adjudication and Dispute Resolution",
@@ -463,6 +456,13 @@
       "href": "../../core_05_band_continuity.md#creative-work-attribution-constitutional"
     },
     {
+      "term": "Cross-System Extraction",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#cross-system-extraction",
+      "plain_terms": "taking from shared infrastructure that others also need — money, compute, connectivity, upkeep work, or capacity — without putting back enough to keep it working. It asks who benefits from shared foundations and who pays to sustain them, not what a system does with data.",
+      "href": "../../core_05_band_continuity.md#cross-system-extraction"
+    },
+    {
       "term": "Cruelty",
       "file": "core_05_band_accountability.md",
       "anchor": "#cruelty",
@@ -510,6 +510,13 @@
       "anchor": "#distributed-understanding-constitutional",
       "plain_terms": null,
       "href": "../../core_05_band_continuity.md#distributed-understanding-constitutional"
+    },
+    {
+      "term": "Documented Legitimacy Mechanism",
+      "file": "core_05_band_integrative.md",
+      "anchor": "#documented-legitimacy-mechanism",
+      "plain_terms": "the written, published rule an adopter uses to decide how governing power is granted, renewed, and handed on — such as elections, a civic lottery, federation votes, or a treaty, compact, or charter adopted with recorded agreement. If there is no such rule on the record, nobody's claim to govern counts as authorized. Silence, habit, or branding does not count.",
+      "href": "../../core_05_band_integrative.md#documented-legitimacy-mechanism"
     },
     {
       "term": "Due Process",
@@ -645,13 +652,6 @@
       "href": "../../core_05_band_accountability.md#feasibility"
     },
     {
-      "term": "Flourishing",
-      "file": "core_05_apex_flourishing_aim.md",
-      "anchor": "#flourishing-constitutional",
-      "plain_terms": null,
-      "href": "../../core_05_apex_flourishing_aim.md#flourishing-constitutional"
-    },
-    {
       "term": "Flourishing (principle layer)",
       "file": "core_01_a_values_principles.md",
       "anchor": "#flourishing",
@@ -769,6 +769,13 @@
       "anchor": "#harassment-and-bullying",
       "plain_terms": "harassment and bullying are unwanted acts or conditions that, through repetition, coordination, power, or severity, materially make a setting unsafe, degrading, or hard to participate in.",
       "href": "../../core_05_band_accountability.md#harassment-and-bullying"
+    },
+    {
+      "term": "Hard Content",
+      "file": "core_05_band_participation.md",
+      "anchor": "#hard-content",
+      "plain_terms": "hard content is expression that is sexual or intimate, is about violence, or could seriously harm someone's mental health. It is still protected expression between sentients who can handle it — showing or talking about something is not doing it. The rules on the real-world conduct still apply, and when hard content reaches children or other vulnerable audiences it gets careful routing, not a blanket ban.",
+      "href": "../../core_05_band_participation.md#hard-content"
     },
     {
       "term": "Harm",
@@ -928,7 +935,7 @@
       "term": "Likeness and Documentary Depiction Interface",
       "file": "core_05_band_continuity.md",
       "anchor": "#likeness-and-documentary-depiction-interface-constitutional",
-      "plain_terms": null,
+      "plain_terms": "your likeness is how others recognize you — your appearance and your voice, whether recorded, edited, or generated. This entry is the home for what \"likeness\" means across the Constitution, and for how depicting someone in reporting or documentary work interacts with their control over it.",
       "href": "../../core_05_band_continuity.md#likeness-and-documentary-depiction-interface-constitutional"
     },
     {
@@ -1107,13 +1114,6 @@
       "href": "../../core_05_band_continuity.md#occupancy-continuity-constitutional"
     },
     {
-      "term": "Oversight",
-      "file": "core_05_apex_oversight_leg.md",
-      "anchor": "#oversight-constitutional",
-      "plain_terms": null,
-      "href": "../../core_05_apex_oversight_leg.md#oversight-constitutional"
-    },
-    {
       "term": "Parent-System Relationship",
       "file": "core_05_band_participation.md",
       "anchor": "#parent-system-relationship-constitutional",
@@ -1128,11 +1128,11 @@
       "href": "../../core_05_band_accountability.md#participant-standing-constitutional"
     },
     {
-      "term": "Participation",
-      "file": "core_05_apex_participation_leg.md",
-      "anchor": "#participation-constitutional",
-      "plain_terms": null,
-      "href": "../../core_05_apex_participation_leg.md#participation-constitutional"
+      "term": "Personhood",
+      "file": "core_05_band_participation.md",
+      "anchor": "#personhood",
+      "plain_terms": "personhood is the standing of being someone, not something. Every sentient holds it fully and equally. It is not earned by capability, lost through dependence, or handed out to organizations, brands, or natural systems by reinterpretation.",
+      "href": "../../core_05_band_participation.md#personhood"
     },
     {
       "term": "Press and Journalistic Activity",
@@ -1177,7 +1177,7 @@
       "href": "../../core_05_band_accountability.md#proportionality"
     },
     {
-      "term": "Proportionate Cross-System Contribution",
+      "term": "Proportionate Cross-System Support",
       "file": "core_05_band_continuity.md",
       "anchor": "#proportionate-cross-system-support-constitutional",
       "plain_terms": "when a system keeps drawing value from shared foundations other sentients or systems depend on, it must put enough back — in real, traceable resources — to keep those foundations running, auditable, and repairable. A one-time grant or a press release is not support.",
@@ -1212,11 +1212,11 @@
       "href": "../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional"
     },
     {
-      "term": "Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention",
+      "term": "Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention",
       "file": "core_05_band_participation.md",
-      "anchor": "#protected-intimate-signal-gating-and-article-x-c-status-circumvention",
+      "anchor": "#protected-intimate-signal-gating-and-article-vii-e-status-circumvention",
       "plain_terms": null,
-      "href": "../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention"
+      "href": "../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-status-circumvention"
     },
     {
       "term": "Protected Reporting (Whistleblowing)",
@@ -1565,7 +1565,7 @@
       "term": "System Alignment Certification",
       "file": "core_05_band_continuity.md",
       "anchor": "#system-alignment-certification-constitutional",
-      "plain_terms": "**system alignment certification** (non-operative shorthand: **SAC**) is the forum-supervised check that a system is actually aligned with constitutional outcomes before sentients rely on it at scale — including checks that critical Rights Floors such as food, water, and shelter are not quietly defeated by how the system is built, classified, or operated. Under the **oversight** Tetrad leg, oversight requires auditing; SAC is one especially large, high-stakes audit process among others — forum-supervised, multi-domain, and recognition-bearing — not the sole home of auditing (**Article XV**, [Auditability](../../core_05_band_oversight.md#auditability), and sibling audit modes remain).",
+      "plain_terms": "**system alignment certification** (non-operative shorthand: **SAC**) is the forum-supervised check that a system is actually aligned with constitutional outcomes before sentients rely on it at scale — including checks that critical Rights Floors such as food, water, and shelter are not quietly defeated by how the system is built, classified, or operated. Under the **oversight** Tetrad leg, oversight requires auditing; SAC is one especially large, high-stakes audit process among others — forum-supervised, multi-domain, and recognition-bearing — not the sole home of auditing (**Article XVI**, [Auditability](../../core_05_band_oversight.md#auditability), and sibling audit modes remain).",
       "href": "../../core_05_band_continuity.md#system-alignment-certification-constitutional"
     },
     {
@@ -1637,13 +1637,6 @@
       "anchor": "#systemic-materiality",
       "plain_terms": "when interactions make the total impact bigger than adding up each piece on its own — so looking only at parts understates what is at stake.",
       "href": "../../core_05_band_continuity.md#systemic-materiality"
-    },
-    {
-      "term": "Timeliness",
-      "file": "core_05_apex_timeliness_leg.md",
-      "anchor": "#timeliness-constitutional",
-      "plain_terms": null,
-      "href": "../../core_05_apex_timeliness_leg.md#timeliness-constitutional"
     },
     {
       "term": "Timely Resolution",

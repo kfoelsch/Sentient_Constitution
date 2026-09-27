@@ -54,7 +54,7 @@
 *用直白的话说：本章陈述治理权力的宪法契约 — 规则制定要算正当、尽责管理要算合宪，必须成立什么。最低门槛住在此处；大多数运营细节住在实施层。*
 
 - 它设定宪法要求，不是完整运营细节。
-- 参与、正当程序与约束性采纳门仍锚定在第六章（尤其是 **Article XI-A**（《受影响方的系统参与与代表》））。
+- 参与、正当程序与约束性采纳门仍锚定在第六章（尤其是 **Article XII-A**（《受影响方的系统参与与代表》））。
 - **第八章**下的**一般**轨迹测量（贡献轴与违规轴 — 贡献**状态**、违规性质，以及每一个数字影响槽位）仍**锚定在第八章**。对合格**违规轴 s = 7、8 或 9**认定的**最终反宪法不当行为指定**仍锚定在**第十章**；第十章不指派或移动数字槽位。
 - 详细程序、人员配置、投票实施与执行协议，由指定实施层主责。
 
@@ -65,7 +65,7 @@
 
 - 上游：原则：[第一章 §5 自由](core_01_a_values_principles.md#5-freedom-bounded-agency)、[§9 尽责管理与分布式理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)、[5. 过程冲突解决](#6-process-conflict-resolution)；[第十二章 §0](#0-layer-boundary-for-this-chapter)。
 - 分节：[§1.1](#11-mechanism-families-auditability-and-pluralism)（*机制族、可审计性与多元*）；[§1.2](#12-eligibility-contested-selection-and-democratic-minimums)（*资格、可争议选拔与民主最低限度*）；[§1.3](#13-recall-class-pathways-and-mid-cycle-transfer-guardrails)（*召回类路径与周期中移交护栏*）。
-- 下游：[§§ 2–5](#2-ethical-culture-and-integrity-federated-scale)下的廉正、策略、投票与角色义务；[第十五章](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity)下的采纳与批准；第六章中的正当性、参与与可质疑性 — 尤其是 [Article XI-C：正当性门与反象征参与](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation)、[Article XVIII：轨迹与参与地位](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)，以及下方操作性要点中所键入的表达、集会与程序公平条款。
+- 下游：[§§ 2–5](#2-ethical-culture-and-integrity-federated-scale)下的廉正、策略、投票与角色义务；[第十五章](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity)下的采纳与批准；第六章中的正当性、参与与可质疑性 — 尤其是 [Article XII-C：正当性门与反象征参与](../../core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation)、[Article XIX：轨迹与参与地位](../../core_06_rights_part_c.md#article-xix-standing-and-participation-status)，以及下方操作性要点中所键入的表达、集会与程序公平条款。
 - 一并阅读：本节所具名的指定**文本库**与 **[corpus_systems.md](../../corpus_systems.md)** 挂钩（[corpus_systems.md](../../corpus_systems.md)、[corpus_institutions.md](../../corpus_institutions.md)）。
 
 </details>
@@ -90,7 +90,7 @@
 - 对指定机构的**抽签**或公民抽签
 - 由网络成员或成员机构在已公布规则下的**联邦式批准**
 - 带有已记录同意的**条约、协定或宪章**采纳
-- 满足 **Article XI-C**（《正当性门与反象征参与》）对**高影响**决定之正当性门的混合或有序设计
+- 满足 **Article XII-C**（《正当性门与反象征参与》）对**高影响**决定之正当性门的混合或有序设计
 
 **抽签完整性与反俘获用途**
 
@@ -116,7 +116,7 @@
     - 操纵；
     - 俘获；或
     - 程序扭曲。
-- **禁止正当性洗白：** 公民抽签、公民大会或随机选拔小组，不得在利害相关权威以击败有意义审议、可质疑性或 **Article XI-C**（《正当性门与反象征参与》）参与门的方式控制下列各项时，被用作决定的正当性剧场：
+- **禁止正当性洗白：** 公民抽签、公民大会或随机选拔小组，不得在利害相关权威以击败有意义审议、可质疑性或 **Article XII-C**（《正当性门与反象征参与》）参与门的方式控制下列各项时，被用作决定的正当性剧场：
   - 议程；
   - 证据记录；
   - 主持人控制；
@@ -142,9 +142,9 @@
 **质疑、纠正与多元**
 
 - **失败与纠正：** 凡授权被争议、实质错位或被俘获之处，系统必须提供**可质疑路径**。路径包括：
-  - **Article XI-C**（《正当性门与反象征参与》）；
-  - **Article XII-B**（《质疑、审查与救济权》）；
-  - **Article XXIII-A**（《正义目的与范围》）；以及
+  - **Article XII-C**（《正当性门与反象征参与》）；
+  - **Article XIII-B**（《质疑、审查与救济权》）；
+  - **Article XXIV-A**（《正义目的与范围》）；以及
   - 已采纳实施文本中适用的程序完整性保障。
   凡可行之处，系统应提供**和平继任或再授权**，而不是权力的不可审查延续。
 - **多元：** 本宪法**不**强制单一全球政体结构。若边界、**非支配**与第六章权利底线仍被满足，多种机制可以跨联邦并存。
@@ -167,12 +167,12 @@
 - **民主制度最低核验：** 任何声称授权治理权威的正当性机制，必须至少提供下列全部各项：
 
     1. **可争议选拔** — 替代候选人、提案或立场被授权共同体提出并评估的有意义机会。
-    2. **反对保护** — 持异议的感知者、提案与联盟组织、沟通并质疑现任权威而不受报复的真实、而非仅形式上的自由，与 **Article V-H**（《表达、集会与出版》）、**Article IX-A**（《免于操纵》）及 **Article XIII-A**（《受保护活动》）一致。
+    2. **反对保护** — 持异议的感知者、提案与联盟组织、沟通并质疑现任权威而不受报复的真实、而非仅形式上的自由，与 **Article V-H**（《表达、集会与出版》）、**Article X-A**（《免于操纵》）及 **Article XIV-A**（《受保护活动》）一致。
     3. **和平继任保障** — 按机制自身所陈述条款移交或再授权权威的已定义路径；否认或实质降级该和平继任路径，视为上文**失败与纠正**下的机制失败。
 
     - 这些核验适用于[**基础宪法选择**](core_05_band_integrative.md#foundational-constitutional-choice)（第五章），以及该机制范围内的任何其他授权行动。
     - 这些核验是**机制中立的**：它们不强制单一政体类型，并同样适用于代表、抽签、联邦式批准、**条约、协定或宪章**设计，以及混合设计。
-    - 名义上保全反对、却通过隐蔽信息圈依赖、**Article XII-E**（《高自主系统与工具中介过程完整性》）自主尽责管理俘获，或可比结构手段进行功能性排除，在本核验与**多元**条款下均不合规。
+    - 名义上保全反对、却通过隐蔽信息圈依赖、**Article XIII-E**（《高自主系统与工具中介过程完整性》）自主尽责管理俘获，或可比结构手段进行功能性排除，在本核验与**多元**条款下均不合规。
 
 **评议所任命独立底线**
 
@@ -208,9 +208,9 @@
   - 否认和平继任路径；或
   - 经由**第六章**与已采纳实施程序处理的**权利底线**威胁。
   按该时钟键入的升级层级，在指定实施文本中被允许，当它们满足**第一章**与**第二至五章**下的 [**实质公平**](../../core_05_band_participation.md#substantive-fairness-constitutional)、[**必要性**](../../core_05_band_accountability.md#necessity) 与 [**相称性**](../../core_05_band_accountability.md#proportionality) 时。
-- **程序公平：** 召回类程序必须满足适用的**第六章**要求（**Article XI**（《受影响方的系统参与、代表与正当程序》）族，包括内部角色过程适用处的 **Article XI-D**（《内部角色、问责与正当程序要求》））。它们不得在 **corpus_institutions.md** **CI-4**（《任命、能力、轮换与免职》）或所纳入程序是底层行为的适当场所之处，替代个别化的**有因免职**或纪律渠道。
-- **反连环滥用与稳定：** 机制必须包括与**实质影响**及 **[corpus_systems.md](../../corpus_systems.md)** 分类相称的**冷却**或**反连环**规则，使召回类工具不能被再部署为结构化骚扰或永久竞选；恶意模式仍可在 **Article XII-B**（《质疑、审查与救济权》）与 **Article XXIII-A**（《正义目的与范围》）下被质疑。
-- **高影响对齐：** 会改变**基础宪法选择**结果或正当性机制本身的召回类投票，在适用处仍受 **Article XI-C**（《正当性门与反象征参与》）与 **§2** 要求约束。
+- **程序公平：** 召回类程序必须满足适用的**第六章**要求（**Article XII**（《受影响方的系统参与、代表与正当程序》）族，包括内部角色过程适用处的 **Article XII-D**（《内部角色、问责与正当程序要求》））。它们不得在 **corpus_institutions.md** **CI-4**（《任命、能力、轮换与免职》）或所纳入程序是底层行为的适当场所之处，替代个别化的**有因免职**或纪律渠道。
+- **反连环滥用与稳定：** 机制必须包括与**实质影响**及 **[corpus_systems.md](../../corpus_systems.md)** 分类相称的**冷却**或**反连环**规则，使召回类工具不能被再部署为结构化骚扰或永久竞选；恶意模式仍可在 **Article XIII-B**（《质疑、审查与救济权》）与 **Article XXIV-A**（《正义目的与范围》）下被质疑。
+- **高影响对齐：** 会改变**基础宪法选择**结果或正当性机制本身的召回类投票，在适用处仍受 **Article XII-C**（《正当性门与反象征参与》）与 **§2** 要求约束。
 
 <a id="2-ethical-culture-and-integrity-federated-scale"></a>
 ### 2. 伦理文化与完整性（联邦尺度）
@@ -304,7 +304,7 @@
 
 - 上游：[§1](#1-authorization-and-legitimacy-of-governing-authority)已记载正当性机制；[§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate)集体决定的尽责管理对齐。
 - 下游：分节 [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice)；[第十三至十五章](../../core_14_non_regression.md)中的采纳、最高效力与不回退文书，如本节末**交叉引用（第十二章）**注所概述。
-- 一并阅读：[第六章](core_06_rights_part_a.md#chapter-six-foundational-rights)，尤其是 [Article XI：受影响方的系统参与、代表与正当程序](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) 以及 §4 中所引用的相关分条。
+- 一并阅读：[第六章](core_06_rights_part_a.md#chapter-six-foundational-rights)，尤其是 [Article XII：受影响方的系统参与、代表与正当程序](../../core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) 以及 §4 中所引用的相关分条。
 
 </details>
 
@@ -320,8 +320,8 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[§4](#4-voting-and-binding-collective-choice-protocols)集体选择框架；[§1](#1-authorization-and-legitimacy-of-governing-authority)约束性选择程序的正当性机制。
-- 下游：[Article IX-C：治理参与与投票权资格](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)、[Article XVIII：轨迹与参与地位](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status) 中的治理参与与轨迹；[第五章 — 基础宪法选择](core_05_band_integrative.md#foundational-constitutional-choice) 中的基础宪法选择与受影响方机制，以及操作性文本所路由的相关 [第五章](core_05__definitions_home.md#chapter-five-foundational-definitions) 条目；**第十章**（《反宪法不当行为》）对合格**违规轴 s = 7、8 或 9**认定的**最终反宪法不当行为指定**，以及与本分节**反宪法不当行为 — 返还前置条件**条款挂钩的正当程序保障。
-- 一并阅读：[§4.2](#42-records-gates-and-method-neutrality)–[§4.3](#43-decision-resolution-requirements-for-binding-collective-choice)；[Article XI-C：正当性门与反象征参与](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation)，用于高影响正当性门；[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)，用于合格**违规轴 s = 7、8 或 9**认定的最终**反宪法不当行为指定**。
+- 下游：[Article X-C：治理参与与投票权资格](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)、[Article XIX：轨迹与参与地位](../../core_06_rights_part_c.md#article-xix-standing-and-participation-status) 中的治理参与与轨迹；[第五章 — 基础宪法选择](core_05_band_integrative.md#foundational-constitutional-choice) 中的基础宪法选择与受影响方机制，以及操作性文本所路由的相关 [第五章](core_05__definitions_home.md#chapter-five-foundational-definitions) 条目；**第十章**（《反宪法不当行为》）对合格**违规轴 s = 7、8 或 9**认定的**最终反宪法不当行为指定**，以及与本分节**反宪法不当行为 — 返还前置条件**条款挂钩的正当程序保障。
+- 一并阅读：[§4.2](#42-records-gates-and-method-neutrality)–[§4.3](#43-decision-resolution-requirements-for-binding-collective-choice)；[Article XII-C：正当性门与反象征参与](../../core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation)，用于高影响正当性门；[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)，用于合格**违规轴 s = 7、8 或 9**认定的最终**反宪法不当行为指定**。
 
 </details>
 
@@ -329,7 +329,7 @@
 
 *用直白的话说：合格感知者在规则说他们有时，得到真正一票 — 并且在大问题上（谁治理以及如何治理），每一声音平等计数。按影响加权可以适用于已获授权系统内部的许多决定，但不能作为稀释基础投票的把戏。日历年龄与基质类别不得被用来加权那些基础选择。轨迹锁定可以暂停一条具名路径上的普通投票，但轨迹游戏不能永久噤声某人；最严重的不当行为可以扣留基础声音，直到返还真正完成 — 而不是含糊的报复。*
 
-当已公布资格标准被满足、且没有适用的[轨迹锁定](core_09_standing_integration.md#42-general-standing-locks)阻断**治理投票**路径时，**感知者**有资格参与**治理投票**。资格标准仍可在 **Article XVIII-A**（《轨迹区分》）与 **Article XVIII-C**（《路径资格、责任与持续审计》）下被质疑，连同任何指定纳入标准。那些标准不得收窄宪法限度。
+当已公布资格标准被满足、且没有适用的[轨迹锁定](core_09_standing_integration.md#42-general-standing-locks)阻断**治理投票**路径时，**感知者**有资格参与**治理投票**。资格标准仍可在 **Article XIX-A**（《轨迹区分》）与 **Article XIX-C**（《路径资格、责任与持续审计》）下被质疑，连同任何指定纳入标准。那些标准不得收窄宪法限度。
 
 同一资格适用于相当正当性机制的**约束性集体选择**程序。此类程序必须在采纳者的**已记载正当性机制**下进行（本章第 1 节）。对该参与的中止或限制，要求在**治理投票**路径上有一项适用的轨迹锁定，并按 [第九章 §5.1](core_09_standing_integration.md#51-definition-and-attachment) 记录。
 
@@ -337,7 +337,7 @@
 
 **仅日历年龄或生命阶段**不得取消资格。能力、容量或角色适任要求必须满足**第二至五章**（[**实质公平**](../../core_05_band_participation.md#substantive-fairness-constitutional)、[**相称性**](../../core_05_band_accountability.md#proportionality) 与 [**必要性**](../../core_05_band_accountability.md#necessity)），并且不得作为**伪装的年龄歧视**运行。该参与的中止与恢复**跟踪适用轨迹锁定的附着与解除**，按同一宪法与纳入标准。
 
-本分节实施**第六章** **Article IX-C**（《治理参与与投票权资格》）。
+本分节实施**第六章** **Article X-C**（《治理参与与投票权资格》）。
 
 
 - **基础宪法选择的政治平等底线：** **基础宪法选择**（第五章）覆盖关于谁持有治理权威、正当性机制是什么，以及该权威的范围与持久条款的决定。那些问题由一条**政治平等底线**统管：在有资格参与的共同体内，每一感知者有平等参与权重。
@@ -347,9 +347,9 @@
     - 日历年龄；
     - 基质类别；以及
     - 谱系。
-  - 交叉引用：**第六章，**Article IX-C**（《治理参与与投票权资格》）**。
+  - 交叉引用：**第六章，**Article X-C**（《治理参与与投票权资格》）**。
 - **持久政治声音底线（反剥夺选举权）：** 对**治理投票**路径的轨迹锁定可以中止普通治理投票资格。它不得被用作**持久政治声音**取消资格向量。
-  - **反宪法不当行为 — 返还前置条件：** 在**第十章**（《反宪法不当行为》）下对**违规轴 s = 7**、**s = 8** 或 **s = 9** 认定的**最终指定**，扣留**持久政治声音** — 包括参与**基础宪法选择** — 直到**完全返还**被满足：相称的 [**救济与补救**](../../core_05_band_accountability.md#redress-and-remediation-constitutional)（第五章），包括对该罪行所造成实质伤害所欠的**返还**，已按**第十一章**与适用纳入程序最终确定而**完全清偿**，与**第十章**正当程序保障及 **Article XXIII-A**（《正义目的与范围》）一致。
+  - **反宪法不当行为 — 返还前置条件：** 在**第十章**（《反宪法不当行为》）下对**违规轴 s = 7**、**s = 8** 或 **s = 9** 认定的**最终指定**，扣留**持久政治声音** — 包括参与**基础宪法选择** — 直到**完全返还**被满足：相称的 [**救济与补救**](../../core_05_band_accountability.md#redress-and-remediation-constitutional)（第五章），包括对该罪行所造成实质伤害所欠的**返还**，已按**第十一章**与适用纳入程序最终确定而**完全清偿**，与**第十章**正当程序保障及 **Article XXIV-A**（《正义目的与范围》）一致。
   - **善意不能、阻挠与估价不确定：** 扣留**持久政治声音**不得仅凭下列任何一项，凡**善意恢复**已被记载且**部分**清偿正在进行：
     - 贫困；
     - 残疾；
@@ -361,15 +361,15 @@
     - 被用作借口的结构化不可能；或
     - 拒绝同意一种**可质疑**的估价方法。
     **第十一章**与适用纳入程序必须在**完全清偿**因被判一方无法单独控制的原因而被推迟时，提供一份**可审查记录**。
-  - **部分与有条件恢复：** 凡在**善意努力**之后**完全**清偿**不可能**之处（例如某些伤害不可逆补偿，或任何一方都找不到必要相对方），**第十一章**与适用纳入程序可以采纳**部分**或**有条件**恢复里程碑，对可行者**实质满足** [**救济与补救**](../../core_05_band_accountability.md#redress-and-remediation-constitutional)；在那些里程碑被满足时，**持久政治声音**必须被**恢复**，除非**第十章**保障与 **Article XXIII-A**（《正义目的与范围》）仍要求进一步的、仍**可行**且**非借口性**的特定义务。这些路径保持**完全可质疑**；它们**不**授权在恢复仍可实行之处用象征姿态替代真正恢复。
-  - **保全严重不当行为规则：** 上文**最终** **违规轴 s = 7、8 或 9** 扣留规则保持**完全有效**：**被判一方的恶意拖延或规避****不**迫使提前恢复，并且**严重**不当行为可以**扣留**基础声音，直到与**第十章**及 **Article XXIII-A**（《正义目的与范围》）对齐的**真实**恢复义务在清偿仍**可行**之处被满足。
+  - **部分与有条件恢复：** 凡在**善意努力**之后**完全**清偿**不可能**之处（例如某些伤害不可逆补偿，或任何一方都找不到必要相对方），**第十一章**与适用纳入程序可以采纳**部分**或**有条件**恢复里程碑，对可行者**实质满足** [**救济与补救**](../../core_05_band_accountability.md#redress-and-remediation-constitutional)；在那些里程碑被满足时，**持久政治声音**必须被**恢复**，除非**第十章**保障与 **Article XXIV-A**（《正义目的与范围》）仍要求进一步的、仍**可行**且**非借口性**的特定义务。这些路径保持**完全可质疑**；它们**不**授权在恢复仍可实行之处用象征姿态替代真正恢复。
+  - **保全严重不当行为规则：** 上文**最终** **违规轴 s = 7、8 或 9** 扣留规则保持**完全有效**：**被判一方的恶意拖延或规避****不**迫使提前恢复，并且**严重**不当行为可以**扣留**基础声音，直到与**第十章**及 **Article XXIV-A**（《正义目的与范围》）对齐的**真实**恢复义务在清偿仍**可行**之处被满足。
   - 凡轨迹锁定或返还扣留被援引以限制参与基础宪法选择（治理权威的授权，或具名再授权路径）之处，该限制必须满足：
     - (a) [**程序公平**](../../core_05_band_participation.md#procedural-fairness-constitutional) 下的个别化前提；
     - (b) 第一章下的 [**必要性**](../../core_05_band_accountability.md#necessity) 与 [**相称性**](../../core_05_band_accountability.md#proportionality)；
     - (c) 对特定不当行为类别的狭窄剪裁；以及
-    - (d) 真实而非仅形式的恢复路径，与 **Article XVIII-C**（《路径资格、责任与持续审计》）持续审计与恢复或再资格纪律一致。
+    - (d) 真实而非仅形式的恢复路径，与 **Article XIX-C**（《路径资格、责任与持续审计》）持续审计与恢复或再资格纪律一致。
   - 被扫入取消资格范围的宽泛不当行为类别，或跟踪 [**受保护特征**](../../core_05_band_participation.md#protected-characteristics-constitutional) 或其实质代理的锁定模式，不合规。
-  - 交叉引用：**第六章，**Article XVIII**（《轨迹与参与地位》）**；**第十章**（《反宪法不当行为》），用于合格**违规轴 s = 7、8 或 9**认定的**最终反宪法不当行为指定**，以及与**反宪法不当行为 — 返还前置条件**条款挂钩的保障。
+  - 交叉引用：**第六章，**Article XIX**（《轨迹与参与地位》）**；**第十章**（《反宪法不当行为》），用于合格**违规轴 s = 7、8 或 9**认定的**最终反宪法不当行为指定**，以及与**反宪法不当行为 — 返还前置条件**条款挂钩的保障。
 
 <a id="42-records-gates-and-method-neutrality"></a>
 #### 4.2 记录、门与方法中立
@@ -377,7 +377,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[§4.1](#41-entitlement-and-eligibility)资格、治理投票轨迹锁定，以及基础宪法选择的政治平等底线。
-- 下游：[§4.3](#43-decision-resolution-requirements-for-binding-collective-choice)审议与权利碰撞序列；与 [Article XI-A：受影响方的系统参与与代表](../../core_06_rights_part_b.md#article-xi-a-stakeholder-system-participation-and-representation) 及操作性文本中相关 **Article XI**（《受影响方的系统参与、代表与正当程序》）分条键入的约束性效果与正当性门。
+- 下游：[§4.3](#43-decision-resolution-requirements-for-binding-collective-choice)审议与权利碰撞序列；与 [Article XII-A：受影响方的系统参与与代表](../../core_06_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) 及操作性文本中相关 **Article XII**（《受影响方的系统参与、代表与正当程序》）分条键入的约束性效果与正当性门。
 - 一并阅读：[第六章](core_06_rights_part_a.md#chapter-six-foundational-rights)，用于与集体选择挂钩的异议、记录完整性与审查权。
 
 </details>
@@ -397,7 +397,7 @@
   - 计票；以及
   - 抗强制。
 - **约束性效果门：** 任何实质高影响集体选择都不具约束力，除非：
-  - **Article XI-A**（《受影响方的系统参与与代表》）正当性门被满足；
+  - **Article XII-A**（《受影响方的系统参与与代表》）正当性门被满足；
   - **异议**与**替代**记录义务被满足；以及
   - **质疑**路径被满足。
 - **带可理解性的方法中立：** 下列方法在满足核心约束时都在宪法上兼容：
@@ -418,7 +418,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[§4.1](#41-entitlement-and-eligibility)–[§4.2](#42-records-gates-and-method-neutrality)资格、记录与正当性门要求。
-- 下游：[Article XXIV-B：权利碰撞程序与修复性对齐](core_06_rights_part_d.md#article-xxiv-b-rights-collision-procedure-and-restorative-alignment) 与所引用的 [第一章 §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) 下的权利碰撞纪律；第六章中的质疑与重开路径。
+- 下游：[Article XXV-B：权利碰撞程序与修复性对齐](core_06_rights_part_d.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment) 与所引用的 [第一章 §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) 下的权利碰撞纪律；第六章中的质疑与重开路径。
 - 一并阅读：[Def.P2 约束性受影响方选择](../../core_05_band_participation.md#binding-stakeholder-choice-cluster)，包括 [约束性受影响方选择 — 决定解决要求](../../core_05_band_participation.md#binding-collective-choice-decision-resolution-process)、[受影响方代表与权重限度（约束性受影响方选择）](../../core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice)，以及 [受影响方权利碰撞记录（约束性受影响方选择）](../../core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice)；亦与 [第六章：基础权利](core_06_rights_part_a.md#chapter-six-foundational-rights) 一并阅读，用于实质影响权利的过程设计，以及 [紧急预先审议行动（约束性集体选择）](../../core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice)。
 
 </details>
@@ -431,16 +431,16 @@
 
 - **结构化序列、先本地审议、多元评价、重开：** [约束性受影响方选择 — 决定解决要求](../../core_05_band_participation.md#binding-collective-choice-decision-resolution-process)。
 - **受影响方代表与权重限度：** [受影响方代表与权重限度（约束性受影响方选择）](../../core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice)（亦从 [§4.1](#41-entitlement-and-eligibility) 交叉引用）。
-- **受影响方权利碰撞纪律：** [受影响方权利碰撞记录（约束性受影响方选择）](../../core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice) — 与 **Article XXIV-B**（《权利碰撞程序与修复性对齐》）及 [第一章 §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) 一并阅读。
+- **受影响方权利碰撞纪律：** [受影响方权利碰撞记录（约束性受影响方选择）](../../core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice) — 与 **Article XXV-B**（《权利碰撞程序与修复性对齐》）及 [第一章 §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) 一并阅读。
 - **紧急例外：** [紧急预先审议行动（约束性集体选择）](../../core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) — 一并阅读：
   - [受影响方紧急与应急](../../core_05_band_continuity.md#stakeholder-emergency-and-contingency)；
   - 凡治理权威之授权被牵涉之处的 [宪法紧急与应急](../../core_05_band_continuity.md#constitutional-emergency-and-contingency)；
   - [紧急与应急](../../core_05_band_continuity.md#emergency-and-contingency-constitutional)；以及
-  - **Article XXIII-D**（《紧急措施与继续负担》）。
+  - **Article XXIV-D**（《紧急措施与继续负担》）。
 
 **章程指针规则。** 一份治理 [章程](../../core_05_band_continuity.md#charter) 陈述所运营范围，并且凡 Def.P2 准入范围适用之处，必须**指向**满足本节的已公布过程规则。章程不承载决定序列、加权模型或权利碰撞记录。那些材料的机构公布住在 **CI-8.1** / **CI-8.2** 下，章程指针由 **CI-3.6** 字段 10 要求。
 
-**交叉引用（第 4 节）：** 分节 **4.1–4.2** 与**第六章** **Article IX-C**（《治理参与与投票权资格》）一并陈述投票要求。已采纳的治理、系统与机构实施文本，在投票的**技术**实施触及分类系统、数据处理、尽责管理者义务或指定机构程序之处，提供适用规则。
+**交叉引用（第 4 节）：** 分节 **4.1–4.2** 与**第六章** **Article X-C**（《治理参与与投票权资格》）一并陈述投票要求。已采纳的治理、系统与机构实施文本，在投票的**技术**实施触及分类系统、数据处理、尽责管理者义务或指定机构程序之处，提供适用规则。
 
 **交叉引用（第十二章）：** **宪法采纳**与修正有效性文书出现在**第十六章**。相对外部法的**最高效力**、**更严的外部保护**，以及涉及外部裁决机构的争议，出现在**第十四章**。**不回退**实质限度出现在**第十三章**。
 
@@ -450,7 +450,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[§1](#1-authorization-and-legitimacy-of-governing-authority)–[§4](#4-voting-and-binding-collective-choice-protocols)权威如何在集体选择中被授权、记录与行使。
-- 下游：[Article XI-D：内部角色、问责与正当程序要求](../../core_06_rights_part_b.md#article-xi-d-internal-roles-accountability-and-due-process-requirements) 中的角色完整性与正当程序要求；下方所引用的 [corpus_systems.md](../../corpus_systems.md)、[corpus_institutions.md](../../corpus_institutions.md) 与 [corpus_joint_structure.md](../../corpus_joint_structure.md) 中的**文本库**设计与车道挂钩。
+- 下游：[Article XII-D：内部角色、问责与正当程序要求](../../core_06_rights_part_b.md#article-xii-d-internal-roles-accountability-and-due-process-requirements) 中的角色完整性与正当程序要求；下方所引用的 [corpus_systems.md](../../corpus_systems.md)、[corpus_institutions.md](../../corpus_institutions.md) 与 [corpus_joint_structure.md](../../corpus_joint_structure.md) 中的**文本库**设计与车道挂钩。
 - 一并阅读：**[corpus_systems.md](../../corpus_systems.md)**（**CS-4 — Critical system stewardship**，CS-9）以及操作性文本所引用实施文本库中的 **CI-4** / **CI-11** / **CI-12**；[第一章 §9.1.1 共享尽责管理标准](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)（*基质无关义务；配套可以添加日志、归因与能力限度 — 不是一套更软的内部守则*）；[§9.1.2 对称高成本约束](core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints)。
 
 </details>
@@ -474,7 +474,7 @@
 - **反象征规则：** 凡实质约束性决定要求真实权威与能力之处，头衔或咨询评议所不满足本节。详细角色分类、资格/继任控制、尽责管理发展路径通路实施，以及激励治理机制，由 [**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md)（《任命、能力、轮换与免职》）、**CI-11**（《资源尽责管理与激励完整性》）与 **CI-12**（《透明、参与与可及路径》）统管。
 - **共享尽责管理标准：** 本节下的角色定义与能力规则适用**第一章 §9.1.1** 的[共享尽责管理标准](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) 以及 [§9.1.2 对称高成本约束](core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints)。它们不得创造一套基质特定的义务栈，也不得豁免人类操作者免于约束 AI 尽责管理者的高成本情形。经核实失败按同一第八章轴记录；[第九章 §5.4 抵抗义务](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) 约束双方。
 
-**交叉引用（第 5 节）：** **Article XI-D**（《内部角色、问责与正当程序要求》）；已采纳治理实施中的角色完整性；**[corpus_systems.md](../../corpus_systems.md), CS-4 — Critical system stewardship** 与 **CS-9**；以及 **corpus_institutions.md**（**CI-4**（《任命、能力、轮换与免职》）、**CI-11**（《资源尽责管理与激励完整性》）、**CI-12**（《透明、参与与可及路径》），以及适用处的相关节）。
+**交叉引用（第 5 节）：** **Article XII-D**（《内部角色、问责与正当程序要求》）；已采纳治理实施中的角色完整性；**[corpus_systems.md](../../corpus_systems.md), CS-4 — Critical system stewardship** 与 **CS-9**；以及 **corpus_institutions.md**（**CI-4**（《任命、能力、轮换与免职》）、**CI-11**（《资源尽责管理与激励完整性》）、**CI-12**（《透明、参与与可及路径》），以及适用处的相关节）。
 
 ---
 

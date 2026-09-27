@@ -32,7 +32,7 @@
 *Nói thẳng: Chương Bảy tách làm hai — Phần A cho cách đánh giá, Phần B cho hồ sơ và quá trình. Đọc chúng như một chương.*
 
 Đọc **Phần A** trước cho yêu cầu đánh giá; **Phần B** cho hồ sơ, quá trình diễn đàn, và cầu quỹ đạo.
-Dưới trụ **giám sát** của Tứ diện, giám sát đòi kiểm toán; Chương Bảy là một quy trình kiểm toán đặc biệt lớn, lợi hại cao trong số các quy trình khác (rà thẳng hàng do diễn đàn giám sát với kết quả công nhận). Sàn kiểm toán vẫn ở **Điều XV** và [Khả năng kiểm toán](core_05_band_oversight.md#auditability) của Chương Năm.
+Dưới trụ **giám sát** của Tứ diện, giám sát đòi kiểm toán; Chương Bảy là một quy trình kiểm toán đặc biệt lớn, lợi hại cao trong số các quy trình khác (rà thẳng hàng do diễn đàn giám sát với kết quả công nhận). Sàn kiểm toán vẫn ở **Điều XVI** và [Khả năng kiểm toán](core_05_band_oversight.md#auditability) của Chương Năm.
 - [Chương Bảy, Phần A — Đánh giá](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
 - [Chương Bảy, Phần B — Hồ sơ và quá trình](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process)
 ---

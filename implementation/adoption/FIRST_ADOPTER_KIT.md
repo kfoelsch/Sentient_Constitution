@@ -49,7 +49,7 @@ This kit does **not**:
 - Let two markdown declarations, a mutual compact note, or “we follow it” practice claim constitutional protection while dodging matching obligations
 - Bind host products, operators, vendors, or other non-consenting parties ([Chapter One §9.5](../../core_01_c_stewardship_capacity_principles.md#104-aligned-self-organization))
 - Create a Chapter Nine standing record, a Chapter Eight system alignment certification, or a Merits Determination
-- Staff forum families, invent a second morals stack, or treat standing scores as sentience status ([Article XVIII-A](../../core_06_rights_part_c.md#article-xviii-a-standing-distinction))
+- Staff forum families, invent a second morals stack, or treat standing scores as sentience status ([Article XIX-A](../../core_06_rights_part_c.md#article-xix-a-standing-distinction))
 - Authorize [Chapter Sixteen §10.3](../../core_16_amendment_ratification.md#103-joining-by-additional-parties) joining (there are no published existing-adopter joining rules yet)
 - Drop the **pre-release** banner or substitute for a publication cut ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md))
 
@@ -194,9 +194,9 @@ Two parties must not be each other’s **sole** final merits path. [Chapter Twel
 
 | If this is true | Then |
 |---|---|
-| An independent review path exists that is not the other signatory (published backup, external reviewer, or a forum family the parties do not solely staff) | Name it on the instrument. Keep [Article XII-B](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) reachable. |
+| An independent review path exists that is not the other signatory (published backup, external reviewer, or a forum family the parties do not solely staff) | Name it on the instrument. Keep [Article XIII-B](../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) reachable. |
 | No such path exists yet | Do **not** claim Chapter Sixteen adoption. Cooperate as operations-guide users. Keep declarations. Use steward doors. Do not invent a two-party “forum” as ceremony. Naming independent review without founding families: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md#5-independent-review-naming-not-a-forum-family). |
-| A party wants standing effects, certification badges, or LEQU scores to decide who counts | Refuse. Those are not sentience-status determinations ([Article XVIII-A](../../core_06_rights_part_c.md#article-xviii-a-standing-distinction)). |
+| A party wants standing effects, certification badges, or LEQU scores to decide who counts | Refuse. Those are not sentience-status determinations ([Article XIX-A](../../core_06_rights_part_c.md#article-xix-a-standing-distinction)). |
 
 Remedy capacity remains [Chapter Ten §9](../../core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems). Paper remedy pathways without capacity are not a substitute.
 

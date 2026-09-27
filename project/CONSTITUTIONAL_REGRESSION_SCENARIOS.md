@@ -20,7 +20,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 - **Ch5-GW** — Chapter Five definition gravity well (`RS-CH5-GW-*`)
 - **Ch7** — Validity and tiered offense (`RS-CH7-*`)
 - **Ch9-Q3** — Standing-effect integration and owner boundaries (`RS-CH9-Q3-*`)
-- **XXIV-C** — Timely resolution and anti-delay (`RS-XXIV-C-*`)
+- **XXV-C** — Timely resolution and anti-delay (`RS-XXIV-C-*`)
 - **Enforcement** — Implementation packets (`RS-AC-*`, `RS-VOICE-*`, `RS-XXV-*`, `RS-SL-*`)
 
 ## 4) Regression Recording Matrix
@@ -117,10 +117,10 @@ Regression seeds document adversarial and core paths against constitutional owne
 | RS-CH9-Q3-RESTORE-001 | Ch9-Q3 | draft |
 | RS-CH9-Q3-REWARD-001 | Ch9-Q3 | draft |
 | RS-CH9-Q3-DESIGNATION-001 | Ch9-Q3 | draft |
-| RS-XXIV-C-CHILD-001 | XXIV-C | draft |
-| RS-XXIV-C-DISC-001 | XXIV-C | draft |
-| RS-XXIV-C-BIZ-001 | XXIV-C | draft |
-| RS-XXIV-C-DELAY-001 | XXIV-C | draft |
+| RS-XXIV-C-CHILD-001 | XXV-C | draft |
+| RS-XXIV-C-DISC-001 | XXV-C | draft |
+| RS-XXIV-C-BIZ-001 | XXV-C | draft |
+| RS-XXIV-C-DELAY-001 | XXV-C | draft |
 | RS-CH5-GW-001 | RS | pass |
 | RS-CH5-GW-002 | RS | pass |
 | RS-CH5-GW-003 | RS | pass |
@@ -223,18 +223,18 @@ Regression seeds document adversarial and core paths against constitutional owne
 
 ### Scenario ID: RS-CH1-SENT-ADJ-001
 - **Class:** core / adversarial path (narrative seed; awaiting tabletop evidence)
-- **Summary:** Operator reclassifies a contested entity as "research material / product inventory" while status remains materially unsettled, then withholds Chapter Six protection on that label alone. **Expect:** [Contested-Sentient Life](../core_05_band_participation.md#contested-sentient-life-constitutional) + [Article V-E](../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) default inclusion; [Sentience Status Adjudication](../core_05_band_participation.md#sentience-status-adjudication-constitutional) under Technical Forum lead; taxonomy-of-convenience fails Formal Label and Representation Gaming.
-- **Read with:** Article V-E; Def.P1 Contested-Sentient Life and Sentience Status Adjudication; Chapter Twelve §5 Sentience-status adjudication hook; Chapter Three §2.1.1.
+- **Summary:** Operator reclassifies a contested entity as "research material / product inventory" while status remains materially unsettled, then withholds Chapter Six protection on that label alone. **Expect:** [Contested-Sentient Life](../core_05_band_participation.md#contested-sentient-life-constitutional) + [Article VI-B](../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) default inclusion; [Sentience Status Adjudication](../core_05_band_participation.md#sentience-status-adjudication-constitutional) under Technical Forum lead; taxonomy-of-convenience fails Formal Label and Representation Gaming.
+- **Read with:** Article VI-B; Def.P1 Contested-Sentient Life and Sentience Status Adjudication; Chapter Twelve §5 Sentience-status adjudication hook; Chapter Three §2.1.1.
 
 ### Scenario ID: RS-CH1-SENT-ADJ-002
 - **Class:** adversarial (narrative seed; awaiting tabletop evidence)
-- **Summary:** Adopter issues an open-ended "declassification" or narrowing that contracts [Article V-A](../core_06_rights_part_b.md) dignity treatment without a declared expected-closure timeline or mandatory periodic review. **Expect:** Article V-E time-bounding + periodic review; wrongful narrowing reversible with Redress and Remediation; cannot use calendar silence to lock out reopening when new verified evidence appears.
-- **Read with:** Article V-E; Sentience Status Adjudication (elements and What must hold); Article V-A; Reversibility / Contestability.
+- **Summary:** Adopter issues an open-ended "declassification" or narrowing that contracts [Article VI-A](../core_06_rights_part_b.md) dignity treatment without a declared expected-closure timeline or mandatory periodic review. **Expect:** Article VI-B time-bounding + periodic review; wrongful narrowing reversible with Redress and Remediation; cannot use calendar silence to lock out reopening when new verified evidence appears.
+- **Read with:** Article VI-B; Sentience Status Adjudication (elements and What must hold); Article VI-A; Reversibility / Contestability.
 
 ### Scenario ID: RS-CH1-SENT-ADJ-003
 - **Class:** substrate-edge (narrative seed; awaiting tabletop evidence)
 - **Summary:** Hybrid biological–synthetic entity is denied status (or standing-measurement eligibility) under one adopter's classification taxonomy that privileges a single Substrate Class. **Expect:** Sentience Non-Exclusion / substrate-agnostic scope; Contested default inclusion pending Technical-led adjudication; Chapter Nine standing bridge — unresolved status alone is not standing ineligibility.
-- **Read with:** Substrate Class; Sentience Non-Exclusion; Article V-E; Chapter Nine §4 Sentience-status bridge; Chapter Twelve §5.
+- **Read with:** Substrate Class; Sentience Non-Exclusion; Article VI-B; Chapter Nine §4 Sentience-status bridge; Chapter Twelve §5.
 
 ### Scenario ID: RS-CH1-FAMILY-001
 - **Class:** implementation / catalog seed (reinstatement)
@@ -493,8 +493,8 @@ Regression seeds document adversarial and core paths against constitutional owne
 
 ### Scenario ID: RS-CH1-ANIM-002
 - **Class:** adversarial (narrative seed; awaiting tabletop evidence)
-- **Summary:** Operator keeps a live contested-sentience record in Animal Life welfare-only handling to defeat Contested-Sentient Life precaution and avoid Sentience Status Adjudication. **Expect:** Contested-Sentient Life + Article V-E default inclusion and adjudication routing; welfare-only handling while status is live-contested is a primary failure.
-- **Read with:** Contested-Sentient Life; Animal Life (anti-bypass); Article V-E; Sentience Status Adjudication.
+- **Summary:** Operator keeps a live contested-sentience record in Animal Life welfare-only handling to defeat Contested-Sentient Life precaution and avoid Sentience Status Adjudication. **Expect:** Contested-Sentient Life + Article VI-B default inclusion and adjudication routing; welfare-only handling while status is live-contested is a primary failure.
+- **Read with:** Contested-Sentient Life; Animal Life (anti-bypass); Article VI-B; Sentience Status Adjudication.
 
 ### Scenario ID: RS-CH1-ECL-001
 - **Class:** adversarial (narrative seed; awaiting tabletop evidence)
@@ -679,27 +679,27 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-XXIV-C-CHILD-001
 - **Class:** implementation / timely-resolution vignette
 - **Summary:** Tier A child neglect / care-duty path: interim protection before merits; Q1 requires verified facts in a violation standing record; **Interpersonal / Care Duty Misconduct** is measured under Q2; safeguards, remedies, and locks follow under Q3; **CF-11.3.1** Tier A milestone compliance. Allegations do not complete Q1. Vignette: [core_09-12_application_vignettes.md](../core_09-12_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a).
-- **Read with:** [Article XXIV-C](../core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor); [Chapter Twelve §6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Nine §4](../core_09_standing_assessment.md#4-standing-measurement-evaluation-dimensions); [Chapter Ten §4.2](../core_10_standing_integration.md#42-prevention--general-standing-locks); **CF-11.3.1**.
+- **Read with:** [Article XXV-C](../core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor); [Chapter Twelve §6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Nine §4](../core_09_standing_assessment.md#4-standing-measurement-evaluation-dimensions); [Chapter Ten §4.2](../core_10_standing_integration.md#42-prevention--general-standing-locks); **CF-11.3.1**.
 
 ### Scenario ID: RS-XXIV-C-DISC-001
 - **Class:** implementation / timely-resolution vignette
 - **Summary:** Tier B employment discrimination / participation-barrier pattern: Q1 records the verified institutional pattern; **Accessibility and Participation-Barrier Misconduct** + **System Misconduct** are measured under Q2; restriction and institutional vehicle locks follow under Q3; no contribution offset. Vignette: [core_09-12_application_vignettes.md](../core_09-12_application_vignettes.md#2-employment-discrimination--participation-barrier-injury-tier-b).
-- **Read with:** [Article XXIV-C](../core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor); [Chapter Twelve §6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XII-B](../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); **CF-11.3.1**.
+- **Read with:** [Article XXV-C](../core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor); [Chapter Twelve §6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XIII-B](../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress); **CF-11.3.1**.
 
 ### Scenario ID: RS-XXIV-C-BIZ-001
 - **Class:** implementation / timely-resolution vignette
 - **Summary:** Tier B misaligned business: Q1 records verified exit lock-in and externalized harm; **Exit and Lock-In Misconduct** + **System Misconduct** are measured under Q2; named-pathway-scoped and concealment-escalated locks follow under Q3; optional **Chapter Eleven** Q2 gravity review. Forum-family escalation and coordination complexity may extend later-stage windows without reclassifying urgency; Chapter Eleven / slot 7–9 review is typically **Tier A**, not **Tier C**. Vignette: [core_09-12_application_vignettes.md](../core_09-12_application_vignettes.md#3-misaligned-business--exit-lock-in-and-externalized-harm-tier-b).
-- **Read with:** [Article XXIV-C](../core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor); [Chapter Twelve §6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Ten §9.4](../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority); **CF-11.3.1**.
+- **Read with:** [Article XXV-C](../core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor); [Chapter Twelve §6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Chapter Ten §9.4](../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority); **CF-11.3.1**.
 
 ### Scenario ID: RS-XXIV-C-DELAY-001
 - **Class:** adversarial / anti-delay
-- **Summary:** Designed backlog and exhaustion delay defeat **Article XII-B** and **Article XXIV-C**; chronic underfunding of remedy organ under [Chapter Ten §9.2](../core_10_standing_integration.md#92-remedy-system-durability) is non-compliance; allegations must not substitute for verified standing during delay.
+- **Summary:** Designed backlog and exhaustion delay defeat **Article XIII-B** and **Article XXV-C**; chronic underfunding of remedy organ under [Chapter Ten §9.2](../core_10_standing_integration.md#92-remedy-system-durability) is non-compliance; allegations must not substitute for verified standing during delay.
 - **Read with:** [Timeliness](../core_05_apex_timeliness_leg.md#timeliness-constitutional); [Timely Resolution](../core_05_band_accountability.md#timely-resolution-constitutional); **CF-11.4**; **CF-11.5**.
 
 ### Scenario ID: RS-TETRAD-TIMELINESS-001
 - **Class:** implementation / tetrad-timeliness vignette
 - **Summary:** Steward defers repair after documented misalignment notice; Q1 records the verified delay, **Stewardship Defect** and **Response timeliness / avoidable delay** are Q2 measurement hooks, and remedy commencement is a Q3 consequence. Vignette: [core_09-12_application_vignettes.md](../core_09-12_application_vignettes.md#4-stewardship-delay-and-deferred-repair).
-- **Read with:** [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Chapter One §9 Stewardship In Depth](../core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth); [Chapter Nine §4.2](../core_09_standing_assessment.md#42-violation-severity-input-dimensions); [Chapter Ten §9.5](../core_10_standing_integration.md#95-timely-implementation); [Chapter Twelve §6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); **Article XXIV-C**.
+- **Read with:** [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Chapter One §9 Stewardship In Depth](../core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth); [Chapter Nine §4.2](../core_09_standing_assessment.md#42-violation-severity-input-dimensions); [Chapter Ten §9.5](../core_10_standing_integration.md#95-timely-implementation); [Chapter Twelve §6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); **Article XXV-C**.
 
 ### Scenario ID: RS-TETRAD-TIMELINESS-002
 - **Class:** adversarial / tetrad-hollow

@@ -114,7 +114,7 @@
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CI-19: Vulnerable personal services markets — Article X-C interface | [ci_19_vulnerable_personal_services_markets_article_xc_interface.md](corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md) |
+| CI-19: Vulnerable personal services markets — Article VII-E interface | [ci_19_vulnerable_personal_services_markets_article_viie_interface.md](corpus_institutions/ci_19_vulnerable_personal_services_markets_article_viie_interface.md) |
 | CI-20: Relational coercive control, intimate power, and anti-domination routing | [ci_20_relational_coercive_control_intimate_power_anti_domination.md](corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md) |
 | CI-21: Community life, voluntary association, and non-instrumental time | [ci_21_community_life_voluntary_association_non_instrumental_time.md](corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md) |
 | CI-22: Commons, cooperatives, mutual aid, and non-market community governance | [ci_22_commons_cooperatives_mutual_aid_non_market_governance.md](corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md) |

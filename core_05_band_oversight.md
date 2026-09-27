@@ -163,7 +163,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 
 - Upstream: Principles: [Chapter One §6.1.3 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality) (*heightened thresholds*).
 - Read with: [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Contestability](core_05_band_accountability.md#contestability), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), and [Materiality Under Uncertainty](core_05_band_oversight.md#materiality-under-uncertainty).
-- Downstream: [Article I-D](core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*); [Article V-H](core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*); [Article XIII-C](core_06_rights_part_c.md#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*); [Chapter Eleven §3](core_11_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 anti-constitutional designation*); [Chapter Sixteen §1](core_16_amendment_ratification.md#1-heightened-review-for-rights-affecting-changes) (*Heightened Review for Rights-Affecting Changes*).
+- Downstream: [Article I-D](core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*); [Article XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*Expression*); [Article XIV-C](core_06_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*); [Chapter Eleven §3](core_11_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 anti-constitutional designation*); [Chapter Sixteen §1](core_16_amendment_ratification.md#1-heightened-review-for-rights-affecting-changes) (*Heightened Review for Rights-Affecting Changes*).
 
 </details>
 
@@ -178,7 +178,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
     - review is independent of the actor and the decision is published with its reasons, open to challenge under [Contestability](core_05_band_accountability.md#contestability); and
     - the record states uncertainty, assumptions, evidence limits, and disagreement openly.
     <a id="highest-scrutiny"></a>
-  - **In scope — highest scrutiny:** The strictest tier of the same standard. It applies only where a provision expressly names it — including credible causal pathways to existential risk or irreversible loss of ecological recovery capacity under [Article I-D](core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*), content-based restriction of expression under [Article V-H](core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*) and final anti-constitutional misconduct designation under [Chapter Eleven §3](core_11_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 anti-constitutional designation*). On top of everything heightened scrutiny requires:
+  - **In scope — highest scrutiny:** The strictest tier of the same standard. It applies only where a provision expressly names it — including credible causal pathways to existential risk or irreversible loss of ecological recovery capacity under [Article I-D](core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*), content-based restriction of expression under [Article XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*Expression*) and final anti-constitutional misconduct designation under [Chapter Eleven §3](core_11_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 anti-constitutional designation*). On top of everything heightened scrutiny requires:
     - the act under review is presumed non-compliant until clear, verified evidence establishes every required element;
     - unresolved doubt, missing evidence, or untested assumptions count against the act under review; and
     - reviewers must be functionally independent of the original decision and of anyone who benefits from it.
@@ -227,7 +227,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
     - source protection;
     - investigation; and
     - publication.
-    Sentients doing that work exercise the [Expression](core_05_band_participation.md#expression-constitutional) and [Assembly](core_05_band_participation.md#assembly-constitutional) Rights-Floor, with [heightened-scrutiny](core_05_band_oversight.md#heightened-scrutiny) protection under [Article V-H](core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
+    Sentients doing that work exercise the [Expression](core_05_band_participation.md#expression-constitutional) and [Assembly](core_05_band_participation.md#assembly-constitutional) Rights-Floor, with [heightened-scrutiny](core_05_band_oversight.md#heightened-scrutiny) protection under [Article XI-C](core_06_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Press and Journalistic Activity*) against state and operator actions meant to impair that activity.
   - **Out of scope:** press credentials, institutional titles, or ordinary commercial speech that is not newsgathering, investigation, or publication functioning as journalism.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **How to measure and assess**
@@ -238,11 +238,11 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
     - source protection;
     - investigation; or
     - publication that serves the information environment.
-    Spot actions that impair the press by their real effect, and treat press-directed character as an aggravating factor under **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) and **Article V-H** (*Expression, Assembly, and Press*). Apply heightened [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) scrutiny, and keep any limit narrowly tailored.
+    Spot actions that impair the press by their real effect, and treat press-directed character as an aggravating factor under **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) and **Article XI-C** (*Press and Journalistic Activity*). Apply heightened [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) scrutiny, and keep any limit narrowly tailored.
 <a id="press-and-journalistic-activity-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** state or operator actions meant to impair journalistic activity that fail heightened-scrutiny limits analysis;
-  - **Secondary failure:** stretching [Good Faith](core_05_band_accountability.md#good-faith) or **Article VIII-C** (*Truthful Publication and High-Impact Publication Limits*) so those standards block lawful critical reporting, investigative publication, or dissent;
+  - **Secondary failure:** stretching [Good Faith](core_05_band_accountability.md#good-faith) or **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) so those standards block lawful critical reporting, investigative publication, or dissent;
   - **Tertiary failure:** credentials, institutional status, or ordinary commercial speech used as the journalism test while newsgathering, investigation, or publication that functions as journalism is absent.
 
 ---
@@ -394,7 +394,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (aggregation and boundary integrity in evaluation); [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) (metric/reality gaps that can manipulate materiality).
+- Downstream: Principles: [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (aggregation and boundary integrity in evaluation); [Chapter One §6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) (metric/reality gaps that can manipulate materiality).
 - Read with: [Materiality Determination](core_05_band_oversight.md#materiality-determination), [System Boundaries](core_05_band_continuity.md#system-boundaries), [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity), [Systemic Materiality](core_05_band_continuity.md#systemic-materiality), [Auditability](core_05_band_oversight.md#auditability), and [Accountability](core_05_apex_accountability_leg.md#accountability).
 
 </details>
@@ -431,7 +431,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Integrative Materiality ([Materiality Determination](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); Principles: [material stake](core_00_preamble.md#material-stake) scaling proxy; [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§9 Stewardship In Depth — §9.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#91-distributed-understanding) (understanding scales with **Materiality**); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality) (material impact in the tradeoff index).
+- Downstream: Integrative Materiality ([Materiality Determination](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); Principles: [material stake](core_00_preamble.md#material-stake) scaling proxy; [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Chapter One §9 Stewardship In Depth — §9.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#91-distributed-understanding) (understanding scales with **Materiality**); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality) (material impact in the tradeoff index).
 - Cluster component: [the dependent cluster *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05_band_oversight.md#materiality-semi-independent).
 - Read with: [Harm](core_05_band_accountability.md#harm), [Risk](core_05_band_continuity.md#risk), [Systemic Materiality](core_05_band_continuity.md#systemic-materiality), [Dependency](core_05_band_continuity.md#dependency), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), and [Transparency](core_05_band_oversight.md#transparency).
 
@@ -565,7 +565,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*); Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); Principles: [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [§11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline).
+- Downstream: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*); Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); Principles: [Chapter One §6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [Chapter One §11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline).
 - Cluster component: [the dependent cluster *Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05_band_oversight.md#materiality-semi-independent).
 - Read with: [Materiality Determination](core_05_band_oversight.md#materiality-determination), [Materiality Integrity Constraint](core_05_band_oversight.md#materiality-integrity-constraint), [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity), [Incentive Alignment](core_05_band_integrative.md#incentive-alignment), [Auditability](core_05_band_oversight.md#auditability), and [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint).
 
@@ -700,7 +700,7 @@ Outside that scope, individual entries may still apply on their own without impo
 
 Where admission scope is met, this cluster is the joint home for disclosure, audit, verification (including external detectability), and assurance depth when Chapters Two through Four require traceable, challengeable evidence of what a system does and whether compliance claims hold.
 
-**Oversight frame.** Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XV** (*Audit, Transparency, and Independent Verification*). [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
+**Oversight frame.** Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XVI** (*Audit, Transparency, and Independent Verification*). [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
 
 **System class and proportionality.** Transparency, auditability, and verification duties scale with system class under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**, and with material impact, dependency, and risk. Higher-class systems (**Class A**, **B**, **C**) need more than lower-class systems (**Class L**, **P**), including:
 - deeper assurance;
@@ -736,7 +736,7 @@ See **Joint invocation and satisfaction**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [§9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth), [10.2.1 Preservation of Epistemic Integrity](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity).
+- Downstream: Principles: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Chapter One §9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth), [10.2.1 Preservation of Epistemic Integrity](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity).
 - Read with: [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Contestability](core_05_band_accountability.md#contestability), [Auditability](core_05_band_oversight.md#auditability), [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure), [Risk Disclosure](core_05_band_oversight.md#risk-disclosure), [Verifiability](core_05_band_oversight.md#verifiability), and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** (**Type O** — open public oversight baseline disclosure data).
 
 </details>
@@ -888,7 +888,7 @@ See **Joint invocation and satisfaction**.
 - **What it is**
   - **In scope:** Communicating evaluated systemic [Risk](core_05_band_continuity.md#risk) to those who need it so they can understand, challenge, and act.
     - **Ongoing duty:** The duty is not limited to certification cycles — it applies whenever [Transparency](core_05_band_oversight.md#transparency) or [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) requires that evaluated risk reach the sentients who need it.
-    - **SAC verification:** Where [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) runs and systemic risk is in scope, this disclosure is part of what certification must verify under [Chapter Eight §3.1](core_08_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors); findings live on the [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional), not as a separate named risk-disclosure record.
+    - **SAC verification:** Where [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) runs and systemic risk is in scope, this disclosure is part of what certification must verify under [Chapter Eight §3.1 Systemic Scope and Risk Factors](core_08_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors); findings live on the [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional), not as a separate named risk-disclosure record.
   - **Out of scope:**
     - [Risk Evaluation](core_05_band_continuity.md#risk-evaluation) itself — the duty to evaluate systemic risk;
     - [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure) as the broader public baseline floor; or
@@ -920,8 +920,8 @@ See **Joint invocation and satisfaction**.
 
 - Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Accountability](core_05_apex_accountability_leg.md#accountability), [Contestability](core_05_band_accountability.md#contestability), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Transparency](core_05_band_oversight.md#transparency), [Verifiability](core_05_band_oversight.md#verifiability), [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), and [Evaluation Completeness Constraint](core_05_band_oversight.md#evaluation-completeness-constraint).
-- Read with: **Article XV** (*Audit, Transparency, and Independent Verification*); [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) Chapters Two through Four.
-- Steward door (non-operative): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Article XV)](core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Article XV](core_06_rights_part_c.md#audit-three-layers).
+- Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*); [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) Chapters Two through Four.
+- Steward door (non-operative): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Article XVI)](core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Article XVI](core_06_rights_part_c.md#audit-three-layers).
 
 </details>
 
@@ -1068,7 +1068,7 @@ See **Joint invocation and satisfaction**.
     - adversarial pathways.
   - **Ongoing duty:** The constraint applies whenever operators, stewards, or reviewers claim constitutional compliance, readiness, or safe reliance from evaluation or assurance work — not only during certification cycles.
   - **Charter and scope process:** Where a governing [Charter](core_05_band_continuity.md#charter) (or equivalent published scope instrument) exists for a system, institution, business, or comparable stewarded form, evaluation must test chartered purpose and in-scope / out-of-scope limits against observed [System Boundaries](core_05_band_continuity.md#system-boundaries) and plausible risk pathways inside and at the edge of that scope. Charter text does not shrink the risk pathways that must be evaluated.
-  - **SAC verification:** Where [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, this constraint is part of what certification must verify under [Chapter Eight §3](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — including chartered-scope-versus-functional-boundary checks under [§3.1](core_08_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-5](corpus_systems/cs_05_design_testing_verification_deployment.md). Findings live on the [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional).
+  - **SAC verification:** Where [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, this constraint is part of what certification must verify under [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — including chartered-scope-versus-functional-boundary checks under [Chapter Eight §3.1 Systemic Scope and Risk Factors](core_08_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-5](corpus_systems/cs_05_design_testing_verification_deployment.md). Findings live on the [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional).
   - **Out of scope:**
     - [Charter](core_05_band_continuity.md#charter) text as a scope instrument alone — a Charter states intended scope; it is not itself evaluation coverage;
     - [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) process mechanics as such — certification may verify this constraint; it is not the only context in which the constraint applies; or
@@ -1084,7 +1084,7 @@ See **Joint invocation and satisfaction**.
     - [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) where material.
     Also ask:
       - where a [Charter](core_05_band_continuity.md#charter) exists, whether evaluation tested chartered scope against observed boundaries rather than treating the Charter as a complete scenario list; and
-      - where [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, whether whole-system evaluation and record findings under [Chapter Eight §3](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) reflect that coverage.
+      - where [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, whether whole-system evaluation and record findings under [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) reflect that coverage.
 <a id="evaluation-completeness-constraint-c"></a>
 - **What must hold**
   - **Primary failure:**
@@ -1114,7 +1114,7 @@ See **Joint invocation and satisfaction**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Owner floor: [Article XV-C](core_06_rights_part_c.md#article-xv-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
+- Owner floor: [Article XVI-C](core_06_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
 - Read with: [Auditability](core_05_band_oversight.md#auditability), [Transparency](core_05_band_oversight.md#transparency), [Contestability](core_05_band_accountability.md#contestability), [Proportionality](core_05_band_accountability.md#proportionality), [Feasibility](core_05_band_accountability.md#feasibility), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), and [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 
 </details>
@@ -1126,7 +1126,7 @@ See **Joint invocation and satisfaction**.
 - **What it is**
   - **In scope:** Whether system behavior, outputs, and effects can be externally detected, measured, and independently validated for [Auditability](core_05_band_oversight.md#auditability). Constitutive conditions:
     - external detectability before independent validation counts;
-    - practical access ([Article XV-C](core_06_rights_part_c.md#article-xv-c-verification-accessibility); [Feasibility](core_05_band_accountability.md#feasibility));
+    - practical access ([Article XVI-C](core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [Feasibility](core_05_band_accountability.md#feasibility));
     - independence from operator self-assertion;
     - proportionate burden under [Proportionality](core_05_band_accountability.md#proportionality) and [Material Impact](core_05_band_oversight.md#material-impact); and
     - reliability under ordinary stress, misuse, and [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1151,7 +1151,7 @@ See **Joint invocation and satisfaction**.
   - **Secondary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether observed behavior can be independently validated by reproducible methods in practice.
 
     **Secondary assessment:** Confirm independent validation by methods that:
-    - affected and appropriately authorized parties can actually perform ([Article XV-C](core_06_rights_part_c.md#article-xv-c-verification-accessibility); [Feasibility](core_05_band_accountability.md#feasibility));
+    - affected and appropriately authorized parties can actually perform ([Article XVI-C](core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [Feasibility](core_05_band_accountability.md#feasibility));
     - rest on externally detectable evidence — not internal claims or inferred intent;
     - are sized to system impact under [Proportionality](core_05_band_accountability.md#proportionality) and [Material Impact](core_05_band_oversight.md#material-impact); and
     - remain reliable under ordinary stress, misuse, and [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1218,8 +1218,8 @@ Where admission scope is met, this cluster is the home for honest representation
 
 - [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) — honest treatment of what is known, unknown, and uncertain in decision-relevant claims;
 - [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) — methods and evidence bases stay honest and checkable;
-- [Foreseeability Diligence and Reasonably Foreseeable](core_05_band_oversight.md#foreseeability-diligence-and-reasonably-foreseeable) — nested sub-block for foreseeability mechanics read together with **Truth** and **Epistemic Integrity** (not a separate §3 cluster head); and
-- [Publication and High-Impact Communication](core_05_band_oversight.md#publication-and-high-impact-communication) — nested sub-block for publication-conduct floors read together with **Truth**, **Epistemic Integrity**, and **Foreseeability** (not a separate §3 cluster head).
+- [Foreseeability Diligence and Reasonably Foreseeable](core_05_band_oversight.md#foreseeability-diligence-and-reasonably-foreseeable) — nested sub-block for foreseeability mechanics read together with **Truth** and **Epistemic Integrity** (not a separate cluster head); and
+- [Publication and High-Impact Communication](core_05_band_oversight.md#publication-and-high-impact-communication) — nested sub-block for publication-conduct floors read together with **Truth**, **Epistemic Integrity**, and **Foreseeability** (not a separate cluster head).
 
 **Anti-bypass.** Within the admission scope, do not split the matter into separate disclosure, publication, method, uncertainty, integrity, verification, or foreseeability questions in a way that satisfies one while defeating another. Nominal compliance with a disclosure or publication rule is not enough when foreseeable-condition analysis, methodological integrity, or honesty about limits and uncertainty remains materially deficient.
 
@@ -1253,7 +1253,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     - good-faith error that is neither knowing falsity nor reckless disregard for accuracy, uncertainty, context, or material interpretive limits.
 <a id="publication-truthfulness-and-recklessness-floor-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether factual publication stays honest about accuracy, uncertainty, context, and interpretive limits — distinguishing knowing falsity or reckless disregard from good-faith observation.
+  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Here, ask whether published facts stay honest about accuracy, uncertainty, context, and the limits of interpretation. Tell knowing falsehood or reckless disregard apart from good-faith observation.
 
     **Primary assessment:** Separate knowing falsity, or reckless disregard for:
     - accuracy;
@@ -1263,7 +1263,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     from good-faith observation and bounded interpretation, under [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) and [Good Faith](core_05_band_accountability.md#good-faith).
 <a id="publication-truthfulness-and-recklessness-floor-c"></a>
 - **What must hold**
-  - Good-faith publication of observations, evidence, and bounded interpretations is governed by Chapter Twelve **Articles VIII**, **XII**, and **XIII** as applicable and must satisfy this cluster jointly under [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Good Faith](core_05_band_accountability.md#good-faith), and [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity).
+  - Good-faith publication of observations, evidence, and bounded interpretations is governed by Chapter Twelve **Articles IX**, **XIII**, and **XIV** as applicable and must satisfy this cluster jointly under [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Good Faith](core_05_band_accountability.md#good-faith), and [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity).
   - **Primary failure:** knowingly false publication, or publication made with reckless disregard for:
     - accuracy;
     - uncertainty;
@@ -1464,7 +1464,7 @@ Where admission scope is met, this nested sub-block is the joint home for forese
 - [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence) — reasonable analysis sized to impact: required depth, evaluation boundaries, incompleteness failure, and justified non-foreseeability claims; and
 - [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable) — outcomes a careful analyst using known methods could identify before acting.
 
-**Anti-bypass within §3.3.** Do not split foreseeability analysis into isolated depth, boundary, claim-burden, incompleteness, or reasonably-foreseeable questions in a way that satisfies one while defeating another. Claiming unforeseeability without audit-compatible justification, or evaluating only best-case operation where adversarial, scaled, repeated, or misuse contexts are material, is non-compliant within the admission scope.
+**Anti-bypass.** Do not split foreseeability analysis into isolated depth, boundary, claim-burden, incompleteness, or reasonably-foreseeable questions in a way that satisfies one while defeating another. Claiming unforeseeability without audit-compatible justification, or evaluating only best-case operation where adversarial, scaled, repeated, or misuse contexts are material, is non-compliant within the admission scope.
 
 See **Joint invocation and satisfaction**.
 

@@ -28,8 +28,8 @@
 
 - Upstream: [Chapter Fourteen](core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) non-regression and Test 1; [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack), [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack), and related [Corpus](core_05_band_integrative.md#corpus) boundary concepts.
 - Subsections: [§1](#1-additive-expansion-permitted)–[§2](#2-continuity-of-supremacy-and-challenge-rights-during-amendment); [§3](#3-supremacy-relative-to-other-binding-norms)–[§4](#4-disputes-involving-external-legal-orders); [§5](#5-relation-to-applicable-external-law).
-- Downstream: [Chapter Sixteen](core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) adoption and supremacy continuity during amendment; [Article XXIII-A](core_06_rights_part_d.md) (*Justice Objective and Scope*) review pathways preserved against external process gaps; [Chapter Eleven, section 5.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_11_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms) where external-order interfaces implicate waiver or pseudo-contract devices.
-- Read with: **[corpus_systems.md](corpus_systems.md)** and **CS-7** references in operative text on cross-jurisdiction execution; [Chapter Ten §9 — *Enforcement realism*](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) where cited in §3.3; [Corpus and Authority Stack](core_05_band_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (**Def.I1** cluster — read with [Corpus](core_05_band_integrative.md#corpus) for custody and adoption).
+- Downstream: [Chapter Sixteen](core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) adoption and supremacy continuity during amendment; [Article XXIV-A](core_06_rights_part_d.md) (*Justice Objective and Scope*) review pathways preserved against external process gaps; [Chapter Eleven, section 5.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_11_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms) where external-order interfaces implicate waiver or pseudo-contract devices.
+- Read with: **[corpus_systems.md](corpus_systems.md)** and **CS-7** where this chapter's rules cite them for carrying out decisions across jurisdictions; [Chapter Ten §9 — *Enforcement realism*](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) where cited in §3.3; [Corpus and Authority Stack](core_05_band_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (**Def.I1** cluster — read with [Corpus](core_05_band_integrative.md#corpus) for custody and adoption).
 
 </details>
 
@@ -71,7 +71,7 @@ Constitutional change may add new rights, safeguards, accountability mechanisms,
 
 *In plain terms: while **adopters** are amending the rules, this **Constitution** still applies — you cannot turn off supremacy, audits, or challenges as a negotiating tactic; short transitional steps have to be bounded, reversible where possible, and honest.*
 
-No amendment process may suspend constitutional supremacy, auditability, challenge rights, or the **Rights-Floor minimums** stated in **Article V** (*Equal Basic Rights*). Temporary transitional measures must be time-limited, reversible where feasible, and non-evasive under **Chapters Two through Four** anti-evasion requirements.
+No amendment process may suspend constitutional supremacy, auditability, challenge rights, or the **Rights-Floor minimums** applied through **Article VI** (*Equal Basic Rights*) under the [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle). Temporary transitional measures must be time-limited, reversible where feasible, and non-evasive under **Chapters Two through Four** anti-evasion requirements.
 
 ### 3. Supremacy Relative to Other Binding Norms
 <details>
@@ -150,7 +150,7 @@ Cross-jurisdiction coordination and anti-evasion execution follow **[corpus_syst
 
 - Upstream: [§3.3](#33-conflict-disclosure-and-mitigation) documented conflict handling.
 - Subsections: [§4.1](#41-good-faith-cooperation); [§4.2](#42-preserved-internal-review-pathways).
-- Downstream: [§5](#5-relation-to-applicable-external-law) non-displacement and alignment; [Article XXIII-A](core_06_rights_part_d.md) (*Justice Objective and Scope*) constitutional interpretation and review where external process is insufficient.
+- Downstream: [§5](#5-relation-to-applicable-external-law) non-displacement and alignment; [Article XXIV-A](core_06_rights_part_d.md) (*Justice Objective and Scope*) constitutional interpretation and review where external process is insufficient.
 - Read with: [Chapter Fifteen §2](#2-continuity-of-supremacy-and-challenge-rights-during-amendment) non-suspension of challenge rights during amendment.
 
 </details>
@@ -183,7 +183,7 @@ Adopters must cooperate in good faith with competent external tribunals and regu
 
 - Upstream: [§4.1](#41-good-faith-cooperation) cooperation duty.
 - Downstream: [Chapter Sixteen](core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) procedural validity for waivers tied to adoption instruments.
-- Read with: [Article XXIII-A](core_06_rights_part_d.md) (*Justice Objective and Scope*) review and appeal safeguards referenced in operative text; [Chapter Eleven, section 5.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_11_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms).
+- Read with: [Article XXIV-A](core_06_rights_part_d.md) (*Justice Objective and Scope*) review and appeal safeguards referenced in operative text; [Chapter Eleven, section 5.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_11_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms).
 
 </details>
 
@@ -191,7 +191,7 @@ Adopters must cooperate in good faith with competent external tribunals and regu
 
 *In plain terms: if an outside process cannot deliver timely, real protection, the constitution's own review and appeal routes stay open — boilerplate waivers demanded just to use a product or service do not erase those rights where the chapter applies.*
 
-Constitutional interpretation, appeal, and review pathways under **Article XXIII-A** (*Justice Objective and Scope*) remain available where external processes do not provide substitute protection within reasonable time and scope. Waivers of challenge rights, standing, or audit rights demanded as a condition of ordinary commercial convenience alone are **anti-constitutional misconduct** within the scope of [Chapter Eleven, section 5.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_11_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms), and are **never binding** where applicable. The same **non-binding** discipline applies to agreement terms that purport to waive Rights-Floor protections or to override binding constitutional obligations, as stated in that section.
+Constitutional interpretation, appeal, and review pathways under **Article XXIV-A** (*Justice Objective and Scope*) remain available where external processes do not provide substitute protection within reasonable time and scope. Waivers of challenge rights, standing, or audit rights demanded as a condition of ordinary commercial convenience alone are **anti-constitutional misconduct** within the scope of [Chapter Eleven, section 5.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_11_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms), and are **never binding** where applicable. The same **non-binding** discipline applies to agreement terms that purport to waive Rights-Floor protections or to override binding constitutional obligations, as stated in that section.
 
 ### 5. Relation to Applicable External Law
 <details>
@@ -226,7 +226,7 @@ This Constitution does not, of its own force, repeal, displace, override, or ren
 
 Publication, distribution, citation, forking, operations-guide use, or any statement that a body “follows” this Constitution is not adoption and does not create supremacy over applicable external law.
 
-This Constitution becomes binding for a particular entity only upon valid adoption under **Chapter Sixteen §10** (*Ratification and Adoption*) and **Chapter Seventeen §4**. Binding effect is limited to:
+This Constitution becomes binding for a particular entity only upon valid adoption under **Chapter Sixteen §10** (*Ratification and Adoption*) and **Chapter Seventeen §4** (*Adoption framing and scope of authority*). Binding effect is limited to:
 
 - the adopting entity;
 - the systems under that entity's authority; and
@@ -237,7 +237,7 @@ Valid adoption does not, by itself, repeal, displace, or render inoperative othe
 - the adopting entity has lawful authority under that external law to bind itself and the systems under its authority to this Constitution; and
 - the instrument of adoption records that commitment within that authority.
 
-Within that limited binding effect, [§3.1](#31-internal-hierarchy-for-adopters) (*Internal Hierarchy for Adopters*), [§3.2](#32-stricter-external-protections) (*Stricter External Protections*), and [§3.3](#33-conflict-disclosure-and-mitigation) continue to apply.
+Within that limited binding effect, [§3.1](#31-internal-hierarchy-for-adopters) (*Internal Hierarchy for Adopters*), [§3.2](#32-stricter-external-protections) (*Stricter External Protections*), and [§3.3 Conflict Disclosure and Mitigation](#33-conflict-disclosure-and-mitigation) continue to apply.
 
 #### 5.2 Alignment When Used Within External Legal Frameworks
 <details>
@@ -258,8 +258,8 @@ Where this Constitution is used, invoked, or applied inside an external legal fr
 Alignment with an external legal framework:
 
 - does not convert operations-guide use, citation, or “we follow it” practice into adoption;
-- does not authorize shrinking **Chapter Fourteen** non-regression floors, **Chapter Six** Rights Floors, or **Chapter One** Safety and Truth constraints by pointing at weaker external norms, as already forbidden by [§3.2](#32-stricter-external-protections) and [§3.3](#33-conflict-disclosure-and-mitigation);
-- does not excuse [§4.1](#41-good-faith-cooperation) duties where competent external jurisdiction is lawfully asserted; and
+- does not authorize shrinking **Chapter Fourteen** non-regression floors, **Chapter Six** Rights Floors, or **Chapter One** Safety and Truth constraints by pointing at weaker external norms, as already forbidden by [§3.2 Stricter External Protections](#32-stricter-external-protections) and [§3.3 Conflict Disclosure and Mitigation](#33-conflict-disclosure-and-mitigation);
+- does not excuse [§4.1 Good-Faith Cooperation](#41-good-faith-cooperation) duties where competent external jurisdiction is lawfully asserted; and
 - does not permit using an asserted conflict as a pretext for selective compliance, forum shopping, or evasion of Rights-Floor obligations.
 
 ---

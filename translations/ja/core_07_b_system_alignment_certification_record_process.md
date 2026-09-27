@@ -11,9 +11,9 @@
 >
 > **第七章、B部**を含む — 認証**記録**の内容、透明性と争訟可能性、フォーラム構成要素の役割、監督の順序、軌跡の橋、および再開（**§11–§16**、A部 §1–§10 からの続き）。**A部** — 評価の要件 — は [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md) にある。
 >
-> - **憲法上の所管者（A部と共同）：** フォーラム監督のもとでの**システム整合認証および関連記録**。四元の**監督**脚のもとで、SAC は他のもののなかでもとくに大きく利害の高い監査過程の一つである；監査の床は **第 XV 条** および第五章の [監査可能性](core_05_band_oversight.md#auditability) に残る。
+> - **憲法上の所管者（A部と共同）：** フォーラム監督のもとでの**システム整合認証および関連記録**。四元の**監督**脚のもとで、SAC は他のもののなかでもとくに大きく利害の高い監査過程の一つである；監査の床は **第 XVI 条** および第五章の [監査可能性](core_05_band_oversight.md#auditability) に残る。
 > - **評価の入力：** [A部 §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) から [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) が、認証記録に反映される評価の出力を供給する。
-> - **再配置禁止規則：** B部は A部の評価の仕組み、第五章の典範定義、第八章の軌跡測定、または第九章の軌跡効果を再述しない。**§15** は軌跡の橋の境界を明示する。B部はまた、**第 XV 条** / **Def.O1** / **CJS-3.3**–**CJS-3.5** からの監査の所管を移さない。
+> - **再配置禁止規則：** B部は A部の評価の仕組み、第五章の典範定義、第八章の軌跡測定、または第九章の軌跡効果を再述しない。**§15** は軌跡の橋の境界を明示する。B部はまた、**第 XVI 条** / **Def.O1** / **CJS-3.3**–**CJS-3.5** からの監査の所管を移さない。
 >
 > **上流：** [A部](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)；第十一章のフォーラム監督；第二から第四章の検証の規律。
 > **下流：** 第八章の軌跡記録と検証済み入力；第九章の軌跡効果。
@@ -85,7 +85,7 @@
 - **無差別評価：** 負担と便益のパターン所見、保護される特性および代理差別の所見、および実体的公正の構成要素所見を、**第 V-B 条**（《無差別》）の実質性の引き金が適用されるところで [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) が求めるとおり；
 - **アクセシビリティ評価：** 実体的参加、配慮、および代理による拒否の防止の所見を、**第 V-G 条**（《アクセシビリティ》）の実質性の引き金が適用されるところで [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) が求めるとおり；
 - **教育能力と学習システム誠実性の評価：** 能力構築、再訓練の指名された経路、評価の透明性、および学習システムの争訟可能性の所見を、**第 VI 条**（《感知者中心の教育への権利》）の実質性の引き金が適用されるところで [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) が求めるとおり；
-- **信頼可能性とシステム依拠の誠実性の評価：** 信頼性、偽りの信頼、歪んだ誘因、異議経路、および回復の誠実性の所見を、**第 XII 条**（《信頼でき信頼に足るシステムへの権利》）の実質性の引き金が適用されるところで [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) が求めるとおり；
+- **信頼可能性とシステム依拠の誠実性の評価：** 信頼性、偽りの信頼、歪んだ誘因、異議経路、および回復の誠実性の所見を、**第 XIII 条**（《信頼でき信頼に足るシステムへの権利》）の実質性の引き金が適用されるところで [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) が求めるとおり；
 - **技術的証拠と保証：** 技術標準、試験、測定、不確実性、安全余裕、失敗様式、認証または再認証周期についての回帰試験と安全保障試験の結果、および実質的に依拠した証拠基盤；
 - **影響を受ける側、環境、および誠実性の審査：**
   - 影響を受ける側、権利の床、アクセシビリティ、依存、および参加の考慮；
@@ -120,7 +120,7 @@
   - [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) — **第 V-B 条**（《無差別》）の実質性の引き金が適用されるところ；
   - [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) — **第 V-G 条**（《アクセシビリティ》）の実質性の引き金が適用されるところ；
   - [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) — **第 VI 条**（《感知者中心の教育への権利》）の実質性の引き金が適用されるところ；
-  - [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) — **第 XII 条**（《信頼でき信頼に足るシステムへの権利》）の実質性の引き金が適用されるところ；
+  - [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) — **第 XIII 条**（《信頼でき信頼に足るシステムへの権利》）の実質性の引き金が適用されるところ；
 - **記録の誠実性** — [§12](#12-transparency-auditability-and-contestability)；および
 - **監督の順序と争訟経路** — [§14](#14-supervisory-sequence-and-contestability-chain)。
 
@@ -136,7 +136,7 @@
 
 - **生存の必需、教育、および安全な条件：**
   - システムが生存の必需、平等な教育へのアクセス、または [**安全な条件**](core_05_band_continuity.md#safe-conditions-constitutional) へのアクセスを供給、割当、価格付け、ホスト、または終了するときに適用される；
-  - 記録は、認定または継続依拠が、**第 III-A 条**（《生存》）、**第 III-B 条**（《平等な教育へのアクセス》）、**第 XII-A 条**（《信頼性と信頼可能性の基線》）、および関連する第六章の規定のもとで、それらの床を閉ざしまたは実質的に劣化させるかを評価しなければならない；
+  - 記録は、認定または継続依拠が、**第 III-A 条**（《生存》）、**第 III-B 条**（《平等な教育へのアクセス》）、**第 XIII-A 条**（《信頼性と信頼可能性の基線》）、および関連する第六章の規定のもとで、それらの床を閉ざしまたは実質的に劣化させるかを評価しなければならない；
 - **システム横断の資源の責務ある管理：**
   - システムが、他のシステムまたは感知者が依拠する共有インフラまたは基礎的依存から、実質的に割当、経路づけ、資金供給、または抽出するときに適用される；
   - 記録は、認定または継続依拠が、[§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) が求めるとおり、**第 IV-A 条**（《依存地図と資源流の透明性》）または **第 IV-B 条**（《システム横断の公正と持続可能性》）を閉ざしまたは実質的に劣化させるかを評価しなければならない；
@@ -151,7 +151,7 @@
   - 記録は、認定または継続依拠が、[§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) が求めるとおり、**第 VI 条**（《感知者中心の教育への権利》）を閉ざしまたは実質的に劣化させるかを評価しなければならない；
 - **信頼可能性と依拠：**
   - システムが、表示された振る舞い、限度、リスク、異議経路、または是正への感知者の依拠を実質的に形づくるときに適用される — 信頼性の主張、開示の姿勢、誘因設計、回復の実務、または比較可能な依拠の指名された経路を通じてを含む；
-  - 記録は、認定または継続依拠が、[§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) が求めるとおり、**第 XII 条**（《信頼でき信頼に足るシステムへの権利》）を閉ざしまたは実質的に劣化させるかを評価しなければならない。
+  - 記録は、認定または継続依拠が、[§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) が求めるとおり、**第 XIII 条**（《信頼でき信頼に足るシステムへの権利》）を閉ざしまたは実質的に劣化させるかを評価しなければならない。
 
 <a id="12-transparency-auditability-and-contestability"></a>
 
@@ -162,7 +162,7 @@
 
 - 上流： [§11](#11-certification-record) (*記録の内容*)； [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)、 [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation)、 [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation)、 [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation)、 [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation)、 [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation)、 [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation)、および [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*クラス、データ、足跡、システム横断の支え、無差別、アクセシビリティ、教育能力、および信頼可能性の評価入力*)；監督の測定ファミリー (*憲法上の測定としての真理と認識的誠実性*)；適時性の測定ファミリー (*適時の解決と遅延防止の規律*)；第二から第四章 (*負担、追跡、検証、および証拠保全*)； [憲法四元](core_00_preamble.md#constitutional-tetrad) — **監督**、**説明責任**、**参加**、および**適時性**； [**Def.O1** *透明性、監査可能性、検証*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster)； [争訟可能性](core_05_band_accountability.md#contestability)。
 - 下流： [§14](#14-supervisory-sequence-and-contestability-chain) (*監督の順序と争訟可能性の鎖*)； [§15](#15-relationship-to-standing) (*検証済み入力の門*)； [第十一章 §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests) (*フォーラム事件記録、軌跡記録の争訟*)； [第十一章 §5](core_11_forum.md#5-escalation-and-certification) (*拡大と認証の詳細*)。
-- あわせて読む： [第 XV 条：監査、透明性、独立検証](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)； [第 XII-B 条：異議申立て、審査、救済への権利](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)； [証拠保全](core_05_band_oversight.md#evidence-preservation)； [corpus_systems.md](../../corpus_systems.md)、**CS-2 — 情報の型と取扱い** および **CS-3 — システムの分類と取扱い**；**CJS-3.4** (*段階的透明性と監査アクセスの条件*)。
+- あわせて読む： [第 XVI 条：監査、透明性、独立検証](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)； [第 XIII-B 条：異議申立て、審査、救済への権利](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)； [証拠保全](core_05_band_oversight.md#evidence-preservation)； [corpus_systems.md](../../corpus_systems.md)、**CS-2 — 情報の型と取扱い** および **CS-3 — システムの分類と取扱い**；**CJS-3.4** (*段階的透明性と監査アクセスの条件*)。
 
 </details>
 
@@ -177,13 +177,13 @@
 
 <br>
 
-*平たい言葉で言えば：認証記録は、感知者がそれを読み、検証し、誤っているときに押し返せるときにだけ働く。本節はこれら三つの要件 — 透明性、監査可能性、争訟可能性 — を抽象的理想としてではなく、記録そのものに直接載せる。四元の**監督**脚のもとで、監督は監査を求める；システム整合認証は、それらの床をここで満たさなければならない、とくに大きな監査過程の一つである — **第 XV 条** または姉妹の監査様式を所管または置換しない。*
+*平たい言葉で言えば：認証記録は、感知者がそれを読み、検証し、誤っているときに押し返せるときにだけ働く。本節はこれら三つの要件 — 透明性、監査可能性、争訟可能性 — を抽象的理想としてではなく、記録そのものに直接載せる。四元の**監督**脚のもとで、監督は監査を求める；システム整合認証は、それらの床をここで満たさなければならない、とくに大きな監査過程の一つである — **第 XVI 条** または姉妹の監査様式を所管または置換しない。*
 
 本節は、システム整合認証記録に [透明性](core_05_band_oversight.md#transparency)、[監査可能性](core_05_band_oversight.md#auditability)、および [争訟可能性](core_05_band_accountability.md#contestability) を適用する。典範用語の本拠と所管の境界は、[前文 — 憲法上の所管登録](core_00_preamble.md#4-principles-definitions-and-rights) および [権限スタックと内部階層](core_05_band_integrative.md#owner-non-relocation) のもとにある。[憲法四元](core_00_preamble.md#constitutional-tetrad) のもとで：
 
 - **透明性**と**監査可能性**は**監督**を実施する；
 - **争訟可能性**は**説明責任**を実施し、異議経路における**参加**を保全する；
-- **第 XXIV-C 条**（《適時解決と遅延防止の床》）のもとでの記録の明瞭さと争訟の時計は、システムクラスと [実質的利害](core_00_preamble.md#material-stake) に応じて尺度を合わせた**適時性**を実施する。
+- **第 XXV-C 条**（《適時解決と遅延防止の床》）のもとでの記録の明瞭さと争訟の時計は、システムクラスと [実質的利害](core_00_preamble.md#material-stake) に応じて尺度を合わせた**適時性**を実施する。
 
 **透明性** — 感知者は、重要なものを見られなければならない：
 
@@ -283,9 +283,9 @@
     - **第 VI 条**（《感知者中心の教育への権利》）のもとでの**感知者中心の教育能力** — その実質性の引き金が適用されるところで [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) のもとでの評価を含む；
     - **第 V-B 条**（《無差別》）のもとでの**無差別の床** — その実質性の引き金が適用されるところで [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) のもとでの評価を含む；
     - **第 V-G 条**（《アクセシビリティ》）のもとでの**アクセシビリティの床** — その実質性の引き金が適用されるところで [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) のもとでの評価を含む；
-    - **第 XII 条**（《信頼でき信頼に足るシステムへの権利》）のもとでの**信頼でき信頼に足るシステム振る舞い** — その実質性の引き金が適用されるところで [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) のもとでの評価を含む；
+    - **第 XIII 条**（《信頼でき信頼に足るシステムへの権利》）のもとでの**信頼でき信頼に足るシステム振る舞い** — その実質性の引き金が適用されるところで [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) のもとでの評価を含む；
     - **第 IV 条**（《資源配分、依存、および生態系資金》）のもとでの**資源配分と依存の床** — 実質的に関わるところで [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) のもとでの [比例的なシステム横断貢献](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) を含む；
-    - **第 XII-A 条**（《信頼性と信頼可能性の基線》）および [**安全な条件**](core_05_band_continuity.md#safe-conditions-constitutional) のもとでの**安全関連の床**が実質的に関わるところ。
+    - **第 XIII-A 条**（《信頼性と信頼可能性の基線》）および [**安全な条件**](core_05_band_continuity.md#safe-conditions-constitutional) のもとでの**安全関連の床**が実質的に関わるところ。
 - **憲法**および他の通常のフォーラム群 — 憲法上および残余の利害：
   - 憲法上の効力、意味、クラス全体の構造的救済、または第十一章が上記の群の外に割り当てる他の第一次利害の問いについて、割り当てられた構成要素権限を保持する；
   - 認証過程は、技術的専門性または誠実性の調整がそれらの割り当てられた本案役割を押しのけることを許してはならない。
@@ -299,7 +299,7 @@
 
 - 上流： [§11](#11-certification-record) (*記録の内容*)； [§12](#12-transparency-auditability-and-contestability) (*記録誠実性の要件*)； [§13](#13-forum-supervision-and-component-roles) (*構成要素役割の割当*)；適時性の測定ファミリー (*適時の解決と遅延防止の規律*)； [憲法四元](core_00_preamble.md#constitutional-tetrad) — **参加**、**監督**、**説明責任**、および**適時性**； [第十一章 §4](core_11_forum.md#4-forum-family-definitions) (*誠実性主導の整合認定、構成要素の付託、および検証*)； [第十一章 §3](core_11_forum.md#3-transfer-consolidation-and-coordination) (*誠実性主導の整合調整と自己審判防止*)。
 - 下流： [§15](#15-relationship-to-standing) (*検証済み入力の門*)； [§16](#16-reopening-drift-and-non-evasion) (*再開の引き金*)； [第十一章 §5](core_11_forum.md#5-escalation-and-certification) (*群から群への拡大と憲法上の認証*)。
-- あわせて読む： 第十一章 §1 のもとでの [紛争の順序づけ](core_11_forum.md#dispute-sequencing)； [前文 §3.3](core_00_preamble.md#33-governance-layers)； [corpus_forum.md](../../corpus_forum.md)、**CF-5** および **CF-7**； [第 XII-B 条](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)（《異議申立て、審査、救済への権利》）。
+- あわせて読む： 第十一章 §1 のもとでの [紛争の順序づけ](core_11_forum.md#dispute-sequencing)； [前文 §3.3](core_00_preamble.md#33-governance-layers)； [corpus_forum.md](../../corpus_forum.md)、**CF-5** および **CF-7**； [第 XIII-B 条](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)（《異議申立て、審査、救済への権利》）。
 
 </details>
 
@@ -357,14 +357,14 @@
 - **公表された記録の異議経路** — 認証記録についての通常の争いのための通常の第一歩。記録は [影響を受ける側のシステム参加](core_05_band_participation.md#stakeholder-status-and-weight-cluster) の争訟席を名指す：
   - 誰が異議を受け取るか；
   - どう提出するか；および
-  - **第 XXIV-C 条**（《適時解決と遅延防止の床》）のもとでの時計が受領から走ることを。
+  - **第 XXV-C 条**（《適時解決と遅延防止の床》）のもとでの時計が受領から走ることを。
   
   内部の運用者審査、供給者の宣誓、または技術的承認印は、この経路ではない。
 - **構成要素フォーラム経路** — 争われた構成要素所見について本案権限を持つ第十一章のフォーラム群。
 - **主導誠実性経路** — 異議が主導フォーラムが過程をどう走らせたかについてのときの誠実性の経路づけと自己審判防止の予備。捕捉、隠された情報、自己審査、または認証を早く終わりと呼びすぎることを含む。
 - **拡大経路** — 第一次の利害、憲法上の効力、構造的救済、群の行き詰まり、または自己審判防止の保護が求めるときの、第十一章の移送、認証、予備経路づけ、および群から群への拡大。
 
-遅延が権利、証拠、独立性、または実務上の修復を実質的に危うくするとき、フォーラム経路への直接アクセスはなお利用できる。公表された記録の異議経路の未完了の使用は、それらのフォーラム経路を停滞させたり、**第 XXIV-C 条**の時計を食ってはならない。
+遅延が権利、証拠、独立性、または実務上の修復を実質的に危うくするとき、フォーラム経路への直接アクセスはなお利用できる。公表された記録の異議経路の未完了の使用は、それらのフォーラム経路を停滞させたり、**第 XXV-C 条**の時計を食ってはならない。
 
 争訟可能性の鎖は、それらの経路をこの順で用いる：
 
@@ -372,7 +372,7 @@
 2. **構成要素への異議**（構成要素フォーラム経路）。構成要素所見に限られた異議は、その構成要素について本案権限を持つフォーラム群へ経路づけられる。主導フォーラムは、適時な審査が終わるまで、争われた構成要素への依拠を [停止](core_05_band_accountability.md#stay) してよい。
 3. **主導調整への異議**（主導誠実性経路）。主導フォーラムが過程をどう走らせたかについての異議は、[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) の誠実性と自己審判防止の規則のもとで経路づけられる。捕捉、隠された情報、自己審査、濫用的な段階順序、認証を早く終わりと呼びすぎること、または他の主導フォーラムの誠実性の問題を含む。異議が、その主導フォーラム自身の偏り、捕捉、利益相反、または過程の濫用を対象とするとき、審査が同一の主導フォーラムに閉じ込められないよう、それらの規則のもとでの予備経路づけが適用される。
 4. **拡大と認証**（拡大経路）。第一次の利害、憲法上の効力、構造的救済、群の行き詰まり、または自己審判防止の保護が求めるところで、異議の経路づけは第十一章の移送、認証、予備経路づけ、および群から群への拡大を通じて続く。
-5. **争訟中の依拠の限度：** 実質的かつ適時な異議は、予見可能な危害を防ぎ、証拠を保全し、または争われた所見への不可逆な依存を防ぐために必要な範囲で、認証記録への依拠を制限または一時停止してよく、[第 XXIV-C 条](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor)（《適時解決と遅延防止の床》）のもとでの迅速な審査に服する。
+5. **争訟中の依拠の限度：** 実質的かつ適時な異議は、予見可能な危害を防ぎ、証拠を保全し、または争われた所見への不可逆な依存を防ぐために必要な範囲で、認証記録への依拠を制限または一時停止してよく、[第 XXV-C 条](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor)（《適時解決と遅延防止の床》）のもとでの迅速な審査に服する。
 
 認証記録は、争訟可能性の鎖 — 影響を受ける当事者が各段階でどう異議を唱えられるか — および指名された争訟可能性の経路を述べなければならない。
 
@@ -415,7 +415,7 @@
 - [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) — **第 V-B 条**（《無差別》）の実質性の引き金が適用されるところ；
 - [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) — **第 V-G 条**（《アクセシビリティ》）の実質性の引き金が適用されるところ；
 - [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) — **第 VI 条**（《感知者中心の教育への権利》）の実質性の引き金が適用されるところ；
-- [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) — **第 XII 条**（《信頼でき信頼に足るシステムへの権利》）の実質性の引き金が適用されるところ；
+- [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) — **第 XIII 条**（《信頼でき信頼に足るシステムへの権利》）の実質性の引き金が適用されるところ；
 - [§12](#12-transparency-auditability-and-contestability) および [§14](#14-supervisory-sequence-and-contestability-chain)；
 - 第二から第四章、および適用される第十一章の過程。
 
@@ -443,7 +443,7 @@
 - **第 V-B 条**（《無差別》）の審査が求められたところでの、実質的な無差別または代理差別の欠陥；
 - **第 V-G 条**（《アクセシビリティ》）の審査が求められたところでの、実質的なアクセシビリティまたは実体的参加の欠陥；
 - **第 VI 条**（《感知者中心の教育への権利》）の審査が求められたところでの、実質的な教育能力、評価の不透明さ、資格による門戸、または押しつけられた陳腐化の欠陥；
-- **第 XII 条**（《信頼でき信頼に足るシステムへの権利》）の審査が求められたところでの、実質的な信頼可能性、偽りの信頼、歪んだ誘因、アクセスできない異議、または回復の誠実性の欠陥；
+- **第 XIII 条**（《信頼でき信頼に足るシステムへの権利》）の審査が求められたところでの、実質的な信頼可能性、偽りの信頼、歪んだ誘因、アクセスできない異議、または回復の誠実性の欠陥；
 - クラスに不適切なインフラの脆弱さ。
 
 **境界** — 認証は軌跡ではない：

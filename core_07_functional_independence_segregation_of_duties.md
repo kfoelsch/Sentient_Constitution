@@ -20,7 +20,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — especially **oversight** and **accountability**; [material stake](core_00_preamble.md#material-stake); [Chapter One §10.1 Shared Stewardship Standard](core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard); [Chapter One §11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline); [Article XV](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
+- Upstream: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — especially **oversight** and **accountability**; [material stake](core_00_preamble.md#material-stake); [Chapter One §10.1 Shared Stewardship Standard](core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard); [Chapter One §11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline); [Article XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
 - Subsections: [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines); [§4](#4-published-placement-vacancy-and-substitution); [§5](#5-proportional-scaling-and-merged-hosting); [§6](#6-emergency-and-urgent-action); [§7](#7-act-records-attributable-handoffs-and-wrong-seat-routing); [§8](#8-relationship-to-later-processes).
 - Downstream: [Chapter Eight](core_08_system_alignment_certification.md#chapter-eight-system-alignment-certification-index); [Chapter Nine](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model); [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction); [Chapter Thirteen](core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); designated implementation text named above.
 - Read with: [Chapter One §12.3 Misalignment Detection](core_01_c_stewardship_capacity_principles.md#123-misalignment-detection) (*plural detection and review*); [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional); [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional); [Auditability](core_05_band_oversight.md#auditability); [Contestability](core_05_band_accountability.md#contestability); [Proportionality](core_05_band_accountability.md#proportionality).
@@ -47,7 +47,7 @@ Chapter Seven is the constitutional owner of the **functional-independence and s
 
 - Upstream: chapter opening owner claim; [Chapter One §11](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline); [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional); [Accountability](core_05_apex_accountability_leg.md#accountability).
 - Downstream: [§2](#2-four-seat-constitutional-floor) through [§8](#8-relationship-to-later-processes); every later process that produces or changes a materially binding act.
-- Read with: [Chapter Four](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) for verification substrate; [Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) for challenge and redress; [Article XV](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) for independent-verification Rights Floors.
+- Read with: [Chapter Four](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) for verification substrate; [Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) for challenge and redress; [Article XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) for independent-verification Rights Floors.
 
 </details>
 
@@ -173,7 +173,7 @@ The functional four-seat floor applies at every class. The class-scaled question
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](#2-four-seat-constitutional-floor); [Authority-scaled answerability](core_01_c_stewardship_capacity_principles.md#111-governance-as-authorized-structure); [Article XXII](core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards).
+- Upstream: [§2](#2-four-seat-constitutional-floor); [Authority-scaled answerability](core_01_c_stewardship_capacity_principles.md#111-governance-as-authorized-structure); [Article XXIII](core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards).
 - Downstream: [§4](#4-published-placement-vacancy-and-substitution); [§7](#7-act-records-attributable-handoffs-and-wrong-seat-routing); Chapter Eight certification component roles; Chapter Nine record custody; Chapter Twelve forum anti-self-judging.
 - Read with: [Material Control Line](core_05_band_accountability.md#material-control-line); [CI-5](corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md) and [CF-7](corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md) for operational conflict and anti-self-judging safeguards.
 
@@ -265,7 +265,7 @@ Any departure for Class C or Class B must satisfy this section's necessity, prop
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](#2-four-seat-constitutional-floor); [§5](#5-proportional-scaling-and-merged-hosting); [Article XXIII-D](core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden); [default interim posture](core_01_b_interaction_interpretation.md#default-interim-posture).
+- Upstream: [§2](#2-four-seat-constitutional-floor); [§5](#5-proportional-scaling-and-merged-hosting); [Article XXIV-D](core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden); [default interim posture](core_01_b_interaction_interpretation.md#default-interim-posture).
 - Downstream: incident, containment, release, continuation, and post-event review processes in designated implementation text.
 - Read with: [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), and [CI-4.6 containment and release-control seats](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 

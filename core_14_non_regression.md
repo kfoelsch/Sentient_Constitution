@@ -153,7 +153,7 @@ Where amendment or adoption conduct indicates serious misconduct, a mandatory re
 
 <br>
 
-*In plain terms: Chapter Fourteen can demand extra review, preserve evidence, or pause things when validity is in doubt — but it does not run parallel classification or invent new offense categories; numeric standing measurement belongs to the Chapter Nine §7 unified scale, and Chapter Eleven only adds the corresponding anti-constitutional-misconduct designation to qualifying Violation Axis slots 7–9.*
+*In plain terms: Chapter Fourteen can demand extra review, preserve evidence, or pause things when validity is in doubt — but it does not run parallel classification or invent new offense categories; numeric standing measurement belongs to the Chapter Nine §7 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale, and Chapter Eleven only adds the corresponding anti-constitutional-misconduct designation to qualifying Violation Axis slots 7–9.*
 
 This chapter may impose immediate validity-protection controls. Those controls include:
 - heightened review;

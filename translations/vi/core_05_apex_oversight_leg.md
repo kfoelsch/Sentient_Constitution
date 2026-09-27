@@ -37,7 +37,7 @@
   - **Trong phạm vi:**
     - theo dõi, kiểm, xác minh, và giới hạn cách hệ thống hành xử, do [Bên bị ảnh hưởng](../../core_05_band_participation.md#stakeholder), tác nhân độc lập, hoặc thể chế thực hiện, và phân tán nơi điều đó khả thi;
     - mục đích: bắt và sửa không tuân thủ, và chống đỡ [Quản trị](../../core_05_band_accountability.md#governance) có thông tin;
-    - giám sát đòi [Khả năng kiểm toán](../../core_05_band_oversight.md#auditability) và các công cụ kiểm toán liên quan dưới **Điều XV** (*Kiểm toán, minh bạch, và xác minh độc lập*);
+    - giám sát đòi [Khả năng kiểm toán](../../core_05_band_oversight.md#auditability) và các công cụ kiểm toán liên quan dưới **Điều XVI** (*Kiểm toán, minh bạch, và xác minh độc lập*);
     - lượng giám sát được đòi chia tỷ lệ theo [Tác động vật chất](../../core_05_band_oversight.md#material-impact), [Phụ thuộc](../../core_05_band_continuity.md#dependency), và [Rủi ro](../../core_05_band_continuity.md#risk); và
     - [Chứng nhận thẳng hàng hệ thống](../../core_05_band_continuity.md#system-alignment-certification-constitutional) là một quy trình kiểm toán đặc biệt lớn, lợi hại cao dưới yêu cầu đó — không phải quy trình kiểm toán duy nhất.
   - **Phụ thuộc vào:** các điều kiện và kênh trụ này cần để hoạt động. Phạm vi chi tiết của mỗi thuật ngữ và quy tắc cách đo sống ở định nghĩa riêng của nó; bắt đầu từ [Phân rã trụ Tứ diện](#oversight-tetrad-leg-decomposition):

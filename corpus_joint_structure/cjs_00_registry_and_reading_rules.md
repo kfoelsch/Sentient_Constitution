@@ -31,6 +31,7 @@
 </details>
 
 <br>
+
 ## CJS-0: Registry and reading rules
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -90,7 +91,7 @@ If a matter triggers more than one cross-layer topic, apply **every** triggered 
 
 **When joint obligations apply**
 
-Applicability, combined satisfaction, and stricter-wins for jointly applicable incorporated obligations live in [Chapter One §8.4.4 Combined satisfaction of jointly applicable incorporated obligations](../core_01_b_interaction_interpretation.md#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations) and [Chapter One §8.4.3 Incorporation layer](../core_01_b_interaction_interpretation.md#843-incorporation-layer). This section supplies the human path and authoritative maintainer table that identify *which* implementation files the facts require ([non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md); authoritative row table: **CJS-0.1**). Domain-specific joint rules: **CJS-1.9**–**CJS-1.11**.
+Applicability, combined satisfaction, and stricter-wins for jointly applicable incorporated obligations live in [Chapter One §8.4.4 Combined satisfaction of jointly applicable incorporated obligations](../core_01_b_interaction_interpretation.md#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations) and [Chapter One §8.4.3 Incorporation layer](../core_01_b_interaction_interpretation.md#843-incorporation-layer). This section supplies the human path and authoritative maintainer table that identify *which* implementation files the facts require ([non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md); authoritative row table: **CJS-0.1** (*Topic router*)). Domain-specific joint rules: **CJS-1.9**–**CJS-1.11**.
 
 **Topic finder**
 
@@ -128,7 +129,7 @@ Joint abstractions and constitutional non-redefinition discipline: [CJS-1.1](cjs
 | **CJS-R07** | Forum forensic and analytical support | [**CF-8**](../corpus_forum/cf_08_forum_forensic_analytical_support.md) | [**CI-7**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md), **CI-7.3** |
 | **CJS-R08** | Independent investigative service and prosecution interface | [**CF-9**](../corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md) | [**CI-12**](../corpus_institutions/ci_12_cross_institution_coordination_escalation.md) |
 | **CJS-R09** | Technical forums and specialist chambers | [**CF-10**](../corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md) | [**CI-25**](../corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md); `core_12_forum.md` **Chapter Twelve** |
-| **CJS-R10** | Forum performance, backlog requirements, publication timeliness, accessibility | [**CF-11**](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md) | [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md); Sentient Constitution **Article XV** (*Audit, Transparency, and Independent Verification*) themes in `core_06_rights_part_*.md` **Chapter Six** |
+| **CJS-R10** | Forum performance, backlog requirements, publication timeliness, accessibility | [**CF-11**](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md) | [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md); Sentient Constitution **Article XVI** (*Audit, Transparency, and Independent Verification*) themes in `core_06_rights_part_*.md` **Chapter Six** |
 | **CJS-R11** | Forum continuity | [**CF-12**](../corpus_forum/cf_12_forum_continuity.md) | [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*); [**CI-14**](../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (where transition or continuity interfaces apply); `core_12_forum.md` **Chapter Twelve** |
 | **CJS-R11A** | Fallback operation | [**CF-13**](../corpus_forum/cf_13_fallback_operation.md) | [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*); **CJS-R03** and **CJS-R06** where lawful panel constitution, backup routing, or anti-capture constraints apply |
 | **CJS-R11B** | Emergency adjudication | [**CF-14**](../corpus_forum/cf_14_emergency_adjudication.md) | [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*); `core_12_forum.md` **Chapter Twelve**; **CJS-R10** where emergency performance or restoration tracking applies |
@@ -213,7 +214,7 @@ Default sequential reading is wrapper → reader guide → **CJS-1** (*Scope, pu
 
 **Implementation-label citation hygiene**
 
-When **CS**, **CI**, or **CF** cite **oDef** / **CJS-3** (*Implementation and cross-implementation operational cluster library*) clusters, adopters must keep those references traceable and must not use implementation text to weaken them. Stricter-wins between adopted implementation standards on the same risk remains in [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#843-incorporation-layer) (*Incorporation layer*, including cross-file stricter-wins).
+When **CS**, **CI**, or **CF** cite **oDef** / **CJS-3** (*Implementation and cross-implementation operational cluster library*) clusters, adopters must keep those references traceable and must not use implementation text to weaken them. Stricter-wins between adopted implementation standards on the same risk remains in [Chapter One §8.4.3 Incorporation layer](../core_01_b_interaction_interpretation.md#843-incorporation-layer) (*Incorporation layer*, including cross-file stricter-wins).
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): maintainer and drafting notes</span></strong></summary>

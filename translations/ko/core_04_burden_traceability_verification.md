@@ -53,7 +53,7 @@
 | **4 — 보안 한도** | 실제 보안 한도는 허용된다; 구실인 차단은 허용되지 않는다 | [§4](#4-security-constrained-observability-and-verification-rule) |
 | **5 — 무엇이 세는가** | 증거는 실제이고, 완전하고, 독립하고, 지속되어야 한다 | [§5](#5-compliance-evidence-standard) |
 
-**쉬운 말 접근.** [제1장 §3.4 — 쉬운 말 접근성(참여와 책임 있는 관리 의무)](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty)는 감지자가 권리를 행사하고, 결정을 다투거나, 준수를 확인하는 데 쓰는 거버넌스, 재결, 운영 자료에 적용된다. 쉬운 말은 제2장부터 제4장이 요구하는 것을 **바꾸지** 않고 줄이지도 않는다. 쉬운 말 판이 여기의 정의나 확인 규칙과 어긋나 보이면, 그 규칙이 다스린다. 은어, 쌓인 복잡성, 또는 불투명을 써서 [다툴 수 있음](../../core_05_band_accountability.md#contestability)이나 [제 XV조: 감사, 투명, 독립 확인](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) 접근을 막는 것은 이 장과 **제1장 §3.4** 아래의 비준수다.
+**쉬운 말 접근.** [제1장 §3.4 — 쉬운 말 접근성(참여와 책임 있는 관리 의무)](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty)는 감지자가 권리를 행사하고, 결정을 다투거나, 준수를 확인하는 데 쓰는 거버넌스, 재결, 운영 자료에 적용된다. 쉬운 말은 제2장부터 제4장이 요구하는 것을 **바꾸지** 않고 줄이지도 않는다. 쉬운 말 판이 여기의 정의나 확인 규칙과 어긋나 보이면, 그 규칙이 다스린다. 은어, 쌓인 복잡성, 또는 불투명을 써서 [다툴 수 있음](../../core_05_band_accountability.md#contestability)이나 [제 XV조: 감사, 투명, 독립 확인](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) 접근을 막는 것은 이 장과 **제1장 §3.4** 아래의 비준수다.
 
 <a id="2-definition-traceability-requirement"></a>
 ### 2. 정의 추적 가능성 요건
@@ -128,7 +128,7 @@
 
 - 상류: 원칙: [제4장, 3절 — 추적 가능성의 관찰 가능성 요건](#3-observability-of-traceability-requirement); [제1장, 8.2절 — 인식 공개 제약](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints).
 - 하류: [제4장, 5절 — 준수 증거 표준](#5-compliance-evidence-standard); [corpus_systems.md](../../corpus_systems.md), **CS-2 — 정보 유형과 취급**, 및 **CS-5** — 운영 암호, 자격 정보, 정보 유형 취급.
-- 함께 읽기: [제5장 무리 정의 (예견 가능성 주의)](../../core_05_band_oversight.md#foreseeability-diligence) — 합리적으로 예견 가능한 조건 아래에서 확인을 예측 가능하게 막는 설계 선택은, 말해진 보안 근거와 관계없이 비준수다; [제5장 진실(헌법 제약)](../../core_05_band_oversight.md#truth-constitutional-constraint)과 [제5장 안전(제약)](../../core_05_band_continuity.md#safety-constraint) — 암호와 정보 유형 취급은 **2**절, **3**절, 또는 **5**절을 대체해서는 안 된다; 환경 분리 제약이 실질인 곳에서 **Articles VII-A**, **VII-B**, **XV-A**, **XVI-A**.
+- 함께 읽기: [제5장 무리 정의 (예견 가능성 주의)](../../core_05_band_oversight.md#foreseeability-diligence) — 합리적으로 예견 가능한 조건 아래에서 확인을 예측 가능하게 막는 설계 선택은, 말해진 보안 근거와 관계없이 비준수다; [제5장 진실(헌법 제약)](../../core_05_band_oversight.md#truth-constitutional-constraint)과 [제5장 안전(제약)](../../core_05_band_continuity.md#safety-constraint) — 암호와 정보 유형 취급은 **2**절, **3**절, 또는 **5**절을 대체해서는 안 된다; 환경 분리 제약이 실질인 곳에서 **Articles VII-A**, **VII-B**, **XVI-A**, **XVII-A**.
 
 </details>
 

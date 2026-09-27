@@ -37,7 +37,7 @@
   - **En alcance:**
     - vigilar, comprobar, verificar y acotar cómo se comportan los sistemas, hecho por [Partes afectadas](../../core_05_band_participation.md#stakeholder), actores independientes o instituciones, y repartido donde eso sea practicable;
     - propósito: detectar y corregir el incumplimiento, y sostener una [Gobernanza](../../core_05_band_accountability.md#governance) informada;
-    - la supervisión exige [Auditabilidad](../../core_05_band_oversight.md#auditability) e instrumentos de auditoría afines bajo el **Artículo XV** (*Auditoría, transparencia y verificación independiente*);
+    - la supervisión exige [Auditabilidad](../../core_05_band_oversight.md#auditability) e instrumentos de auditoría afines bajo el **Artículo XVI** (*Auditoría, transparencia y verificación independiente*);
     - cuánta supervisión se exige escala con el [Impacto material](../../core_05_band_oversight.md#material-impact), la [Dependencia](../../core_05_band_continuity.md#dependency) y el [Riesgo](../../core_05_band_continuity.md#risk); y
     - la [Certificación de alineación del sistema](../../core_05_band_continuity.md#system-alignment-certification-constitutional) es un proceso de auditoría especialmente grande y de alto enjuego bajo ese requisito — no el único proceso de auditoría.
   - **Depende de:** las condiciones y canales que esta pata necesita para funcionar. El alcance detallado de cada término y las reglas de cómo medir viven en su propia definición; empiece por [Descomposición de la pata de la Tétrada](#oversight-tetrad-leg-decomposition):

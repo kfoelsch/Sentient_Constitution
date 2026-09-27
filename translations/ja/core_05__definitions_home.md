@@ -260,7 +260,7 @@
 - [保護された特性](../../core_05_band_participation.md#protected-characteristics-constitutional)
 - [保護されたデータと内部状態の公表制約](../../core_05_band_oversight.md#protected-data-and-internal-state-publication-constraint)
 - [保護された内部状態の境界](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional)
-- [保護された親密信号の門番と **Article X-C**（*成人の合意に基づく商業的性的サービスと性的搾取*）地位の迂回](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention)
+- [保護された親密信号の門番と **Article XI-C**（*成人の合意に基づく商業的性的サービスと性的搾取*）地位の迂回](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention)
 - [保護された通報（内部告発）](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
 - [保護された通報への報復とアクセス妨害](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)
 - [代替指標の乖離](../../core_05_band_oversight.md#proxy-divergence)

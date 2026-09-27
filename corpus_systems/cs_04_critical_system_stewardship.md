@@ -57,7 +57,7 @@ This file is the systems implementation home for **CS-4** (*Critical system stew
 
 Admission meaning is the [Critical system steward](../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#critical-system-steward) role. This section states the systems-layer classification tests that specialize that role. Intensity remains in [CS-4.3](#cs-4-3-stewardship-criticality-levels).
 
-Steward classification uses the affected system's [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional) — **impact class** ([CS-3 Part B](cs_03_b_system_impact_classifications.md#cs-3-8-system-impact-classifications)) and **dependency type(s)** ([CS-3 Part A §4](cs_03_a_system_classification_machinery.md#cs-3-4-dependency-types-dep-a-p)). It does **not** invent a parallel class axis. [§3](#cs-4-3-stewardship-criticality-levels) sets CSS-A / CSS-B / CSS-C intensity. [§13](#cs-4-13-relationship-to-system-classes) states ownership and chain rules.
+Steward classification uses the affected system's [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional) — **impact class** ([CS-3 Part B](cs_03_b_system_impact_classifications.md#cs-3-8-system-impact-classifications)) and **dependency type(s)** ([CS-3 Part A §4](cs_03_a_system_classification_machinery.md#cs-3-4-dependency-types-dep-a-p)). It does **not** invent a parallel class axis. [§3 Stewardship criticality levels](#cs-4-3-stewardship-criticality-levels) sets CSS-A / CSS-B / CSS-C intensity. [§13 Relationship to system classes](#cs-4-13-relationship-to-system-classes) states ownership and chain rules.
 
 An organization is a **Critical System Steward** where any of the following holds:
 
@@ -98,14 +98,14 @@ Stewardship must reflect dependency and system impact; it sets the **scale and i
 
 **Substitutability or recovery** remains achievable within **reasonable** timeframes.
 
-Where the same organization also affects **Class A** or **Class B**, [§4](#cs-4-4-scaling-obligations) (**highest affected class**) governs — do **not** hold CSS-C to avoid a higher tier.
+Where the same organization also affects **Class A** or **Class B**, [§4 Scaling obligations](#cs-4-4-scaling-obligations) (**highest affected class**) governs — do **not** hold CSS-C to avoid a higher tier.
 
 <a id="cs-4-4-scaling-obligations"></a>
 ## CS-4.4 Scaling obligations
 
 *In plain terms: Duties follow the real dependency, not the paperwork. The highest affected class governs, and a narrow contract does not buy a lighter obligation.*
 
-Entry into this category is [§2](#cs-4-2-classification-as-steward). Scale with **highest affected system class (A, B, or C)**.
+Entry into this category is [§2 Classification as steward](#cs-4-2-classification-as-steward). Scale with **highest affected system class (A, B, or C)**.
 
 Also scale with **dependency concentration and substitutability**.
 
@@ -118,14 +118,14 @@ Also scale with **availability** of fallback, redundancy, and recovery pathways.
 
 *In plain terms: A steward may not hide behind its own complexity. Corporate structure, contracts, and process must not be arranged so that audit, intervention, or replacement becomes impractical.*
 
-This section applies [CS-6](cs_06_comprehensibility_complexity_stewardship.md) and **Article XX** (*Comprehensibility and Complexity Stewardship*) at the organization level.
+This section applies [CS-6](cs_06_comprehensibility_complexity_stewardship.md) and **Article XXI** (*Comprehensibility and Complexity Stewardship*) at the organization level.
 
 Stewards must **not** use organizational, contractual, or procedural complexity to defeat audit, intervention, or substitution (read with **CJS-3.3**, **CJS-3.8**, **CJS-3.10**, **CJS-3.17**, and **CJS-3.23**).
 
 **CS-3 — System classification and handling interaction:** For each **Class A, B, or C** system the steward materially affects, the **Comprehensibility and Complexity Stewardship** line in that system’s **Implementation label Application Profile** applies. It applies to steward-controlled **interfaces, documentation, tooling, and disclosed behavior** relevant to that system.
 
 The following add **organization-specific** expectations (governance structure, incentives, subcontractor chains, handoffs).
-Where they **differ in stringency** from the affected system’s class profile, the **stricter** governs (**CS-5**/**CS-6** in this implementation file; [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#843-incorporation-layer) stricter-wins).
+Where they **differ in stringency** from the affected system’s class profile, the **stricter** governs (**CS-5**/**CS-6** in this implementation file; [Chapter One §8.4.3 Incorporation layer](../core_01_b_interaction_interpretation.md#843-incorporation-layer) stricter-wins).
 
 **CSS-A — Maximum (organizational):** Periodic **independent complexity audits** of structures, processes, and dependencies touching **Class A** or survival-critical paths.
 
@@ -143,7 +143,7 @@ Provide layered disclosure of governance and incentives on dependents.
 
 Failure/degradation pathways must be understandable to oversight and dependent operators (normal and degraded).
 
-Cross-steward and vendor interfaces must be documented for **Article XV-A** (*Auditability and Observable Evidence*).
+Cross-steward and vendor interfaces must be documented for **Article XVI-A** (*Auditability and Observable Evidence*).
 
 **CSS-C — Strong:** Proportional clarity on effects on coordinated **Class C** systems.
 
@@ -184,7 +184,7 @@ Maintain governance, incentive, and decision structures that **do not** systemat
 
 **Conflicts of interest:** Maintain **current registers** of material financial, governance, competitive, and personal ties affecting **safety**, **classification**, **audit**, **intervention**, or **resource allocation** for dependents.
 
-**Disclose** and **update** those registers on triggers (contracts, related-party transactions, overlapping governance). Where impartiality is compromised on a **specific matter**, **recuse**, **segment decision rights**, or **route to independent review** before binding action (**CJS-3.13** (*procedural integrity and adjudication terms*), **Article XV-A** (*Auditability and Observable Evidence*)).
+**Disclose** and **update** those registers on triggers (contracts, related-party transactions, overlapping governance). Where impartiality is compromised on a **specific matter**, **recuse**, **segment decision rights**, or **route to independent review** before binding action (**CJS-3.13** (*procedural integrity and adjudication terms*), **Article XVI-A** (*Auditability and Observable Evidence*)).
 
 **Independence of oversight:** Oversight, audit, and challenge functions must be **sufficiently independent** in operation and incentives from roles that **reward** suppressing adverse findings or delaying remediation. That independence must be **feasibly** achievable without compromising survival-critical continuity.
 
@@ -194,7 +194,7 @@ Maintain governance, incentive, and decision structures that **do not** systemat
 
 **Codes, training, policies** support compliance.
 
-**Outcomes**—behavior, disclosure, **Article XV-A** (*Auditability and Observable Evidence*) traceability—govern compliance.
+**Outcomes**—behavior, disclosure, **Article XVI-A** (*Auditability and Observable Evidence*) traceability—govern compliance.
 
 **Tiered intensity (CSS-A / CSS-B / CSS-C) for conduct:** **CSS-A — Maximum:** conflict-register **audit** cadence **≥ Class A** classification review.
 
@@ -212,9 +212,9 @@ Use independent review for **material** conflicts on **Class B** paths.
 
 **CSS-C — Proportional:** scaled disclosure/recusal.
 
-**Escalate** to independent review when internal resolution risks **credible appearance of bias** (**Article XV-A** (*Auditability and Observable Evidence*), **CJS-3.13** (*procedural integrity and adjudication terms*)).
+**Escalate** to independent review when internal resolution risks **credible appearance of bias** (**Article XVI-A** (*Auditability and Observable Evidence*), **CJS-3.13** (*procedural integrity and adjudication terms*)).
 
-**Cross-reference:** **Articles IX, XI, XII, XVI, XIX**, **CS-3** (classification challenge and System Classification Record audit), **[Integrated risk governance (Class A/B)](#cs-4-11-integrated-risk-governance-class-a-b)** (*second line* where applicable), **CJS-3.14** (*intervention governance and override-authorization terms*) and **CJS-3.23** (*intervention and override integrity terms*), **CJS-3.2** (*reflexive transparency and accountability terms*) and **CJS-3.6** (*integrity assurance and resilience operations*), **CJS-3.12** (*burden-of-justification and constraint terms*).
+**Cross-reference:** **Articles X, XII, XIII, XVII, XX**, **CS-3** (classification challenge and System Classification Record audit), **[Integrated risk governance (Class A/B)](#cs-4-11-integrated-risk-governance-class-a-b)** (*second line* where applicable), **CJS-3.14** (*intervention governance and override-authorization terms*) and **CJS-3.23** (*intervention and override integrity terms*), **CJS-3.2** (*reflexive transparency and accountability terms*) and **CJS-3.6** (*integrity assurance and resilience operations*), **CJS-3.12** (*burden-of-justification and constraint terms*).
 
 <a id="cs-4-9-continuity-transfer-and-exit-integrity"></a>
 ## CS-4.9 Continuity, transfer, and exit integrity
@@ -248,7 +248,7 @@ Include mechanisms for **governance breakdown**, capture, or operational impairm
 
 **Scale** them by **CS-3 — System classification and handling** class and **CSS-A/B/C**.
 
-Maintain **role clarity**, **backup authority**, and communications preserving **epistemic integrity** and **auditability** without displacing **Article XVIII-A** (*Standing Distinction*), Chapter Thirteen decision-resolution requirements, or **CJS-3.14** (*intervention governance and override-authorization terms*) and **CJS-3.23** (*intervention and override integrity terms*).
+Maintain **role clarity**, **backup authority**, and communications preserving **epistemic integrity** and **auditability** without displacing **Article XIX-A** (*Standing Distinction*), Chapter Thirteen decision-resolution requirements, or **CJS-3.14** (*intervention governance and override-authorization terms*) and **CJS-3.23** (*intervention and override integrity terms*).
 
 <a id="cs-4-10-competency-succession-and-oversight-effectiveness"></a>
 ## CS-4.10 Competency, succession, and oversight effectiveness
@@ -259,9 +259,9 @@ Maintain **competency**, **succession readiness**, and **effective oversight** p
 
 *Accountability*, *Oversight*, and related definitions remain **Chapter Five** (no O/M/A/C restatement here).
 
-**Competency:** **Maximum calendar age** and **life-stage ceilings** **must not** be used as **stand-alone eligibility** rules for **Critical System Steward** roles. They **must not** be used as **stand-alone eligibility** rules for **governing personnel** exercising material authority over classified systems (**Sentient Constitution Chapter Six**, section 1 — *Authorization and Legitimacy of Governing Authority*; **Chapter Six**, **Article IX-C** (*Governance Participation and Voting Entitlement*) *Governance Participation and Voting Entitlement*, implemented in **Chapter Six**, section **4.1 — Entitlement and eligibility**).
+**Competency:** **Maximum calendar age** and **life-stage ceilings** **must not** be used as **stand-alone eligibility** rules for **Critical System Steward** roles. They **must not** be used as **stand-alone eligibility** rules for **governing personnel** exercising material authority over classified systems (**Sentient Constitution Chapter Six**, section 1 — *Authorization and Legitimacy of Governing Authority*; **Chapter Six**, **Article X-B** (*Governance Participation and Voting Entitlement*) *Governance Participation and Voting Entitlement*, implemented in **Chapter Six**, section **4.1 — Entitlement and eligibility**).
 
-**Authorized roles and contribution role pathways:** Maintain **published** role definitions (or equivalent) for personnel/agents exercising **Critical System Stewardship** or **material** operational authority: **scope**, **limits**, **custody**, and **escalation**, so accountability is **traceable** (**Article XV-A** (*Auditability and Observable Evidence*)).
+**Authorized roles and contribution role pathways:** Maintain **published** role definitions (or equivalent) for personnel/agents exercising **Critical System Stewardship** or **material** operational authority: **scope**, **limits**, **custody**, and **escalation**, so accountability is **traceable** (**Article XVI-A** (*Auditability and Observable Evidence*)).
 
 <a id="10-inspectable-attributable-action"></a>
 <a id="10-minimum-inspectable-action-set"></a>
@@ -271,13 +271,13 @@ Maintain **competency**, **succession readiness**, and **effective oversight** p
 
 *In plain terms: keep enough of what was decided, disclosed, followed, and authorized that an outsider can reconstruct it. Weights and private thoughts are not the standing record. Privacy is not a veto over measurement.*
 
-The five-element set below is the load-bearing artifact. Machine-checkable form: [`implementation/schemas/cs4_inspectable_action_log.schema.json`](../implementation/schemas/cs4_inspectable_action_log.schema.json). Validator: [`tools/cs4_inspectable_action_log_validate.py`](../tools/cs4_inspectable_action_log_validate.py). Same schema for human and AI stewards. "Did you log the set" is a mechanical question. Timestamps on the set are checked against the [Chapter Twelve §6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier clocks where a numeric bound applies.
+The five-element set below is the load-bearing artifact. Machine-checkable form: [`implementation/schemas/cs4_inspectable_action_log.schema.json`](../implementation/schemas/cs4_inspectable_action_log.schema.json). Validator: [`tools/cs4_inspectable_action_log_validate.py`](../tools/cs4_inspectable_action_log_validate.py). Same schema for human and AI stewards. "Did you log the set" is a mechanical question. Timestamps on the set are checked against the [Chapter Twelve §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier clocks where a numeric bound applies.
 
 Published role definitions for personnel/agents exercising **Critical System Stewardship** or **material** operational authority must make reconstructable **attributable action** inspectable, and must map each role to the seat types it may hold under [CI-4.6](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog) (*Seat catalog*) — including, for every Class A or Class B system, who holds the containment, participation-terms, and release-control seats. That surface may feed or link to the applicable [Materially Binding Act Record](../core_05_band_accountability.md#materially-binding-act-record) and feeds [Chapter Nine](../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) standing records. It is **not** an Act Record or a standing record and does **not** relocate official-record custody, independent verification, or standing measurement.
 
 The same surface binds human stewards, AI stewards, and other agents under [Chapter One §10.1 Shared Stewardship Standard](../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard) and [§10.2 Alignment Under Pressure](../core_01_c_stewardship_capacity_principles.md#102-alignment-under-pressure). Adopted implementation text may add logging and capability limits. They may not swap a softer internal code for this surface. Human operators are not exempt from reconstructable recording when the costly case is a bonus, a deadline, or a cover instruction.
 
-**Minimum inspectable-action set.** This is the **default logging contract** for mixed human/AI crews. Model-privacy disputes are resolved against this checklist, not against a claim that weights must stay hidden or must be opened. Sequence owner: [Chapter Ten §5.4](../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (instruction received → refuse → document → escalate). Steward pointer (process support, not binding; cannot narrow this section): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](../implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).
+**Minimum inspectable-action set.** This is the **default logging contract** for mixed human/AI crews. Model-privacy disputes are resolved against this checklist, not against a claim that weights must stay hidden or must be opened. Sequence owner: [Chapter Ten §5.4 Duty to resist](../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (instruction received → refuse → document → escalate). Steward pointer (process support, not binding; cannot narrow this section): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](../implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).
 
 **Must remain reconstructable and inspectable**, scaled to [material stake](../core_00_preamble.md#material-stake) and highest affected class. Machine-checkable log: [`implementation/schemas/cs4_inspectable_action_log.schema.json`](../implementation/schemas/cs4_inspectable_action_log.schema.json).
 
@@ -291,7 +291,7 @@ The same surface binds human stewards, AI stewards, and other agents under [Chap
 
 - model weights;
 - private deliberation;
-- protected internal states under **Article VII-B** (*Internal-State Boundary and Type-N Protection*) and **[CS-2 Type N](cs_02_b_data_classifications.md#86-type-n-neurocognitive-and-internal-data)**.
+- protected internal states under **Article VII-B** (*Self-Ownership of Mind*) and **[CS-2 Type N](cs_02_b_data_classifications.md#86-type-n-neurocognitive-and-internal-data)**.
 
 **Residual rule.** If internals are the **only remaining attribution path** for a material action, they do **not** stay hidden. If they are not the only path, they are **not** a standing-measurement exemption.
 
@@ -300,7 +300,7 @@ The same surface binds human stewards, AI stewards, and other agents under [Chap
 **Role-scoped audit and silence.** This log follows the work of the role, not the steward as an individual — human or AI. It implements, and must not narrow, [Chapter One §10.3](../core_01_c_stewardship_capacity_principles.md#103-logging-the-role-not-the-steward) (*Logging the Role, Not the Steward*):
 
 - the log's scope and inspectability must be disclosed before the role is taken up;
-- conduct, state, and expression outside the role carry [Article VII-B](../core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection) (*Internal-State Boundary and Type-N Protection*) protection for an AI steward as for a human one;
+- conduct, state, and expression outside the role carry [Article VII-B](../core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*) protection for an AI steward as for a human one;
 - internals yield only for a specific action already under an open Chapter Nine record, and only to the extent needed to attribute that action;
 - the log is the trail of the work, not a standing record of verified help or harm; decision-makers who decide named-pathway access may not treat it as that record, or as the reason to grant or deny the named pathway; and it may not be combined with logs or standing effects from other named pathways to make one reputation score, ranking, badge, or public profile ([Chapter Ten §7.1](../core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects) (*Anti-aggregation of named-pathway effects*)).
 
@@ -318,7 +318,7 @@ Provide **documented**, **low-friction** paths for **qualified** contributors to
 
 Maintain **ongoing** proficiency as conditions evolve.
 
-**Track**, **disclose**, **remediate** material gaps on timelines scaled by class and tier (**Article XV-A** (*Auditability and Observable Evidence*)).
+**Track**, **disclose**, **remediate** material gaps on timelines scaled by class and tier (**Article XVI-A** (*Auditability and Observable Evidence*)).
 
 **Succession:** Use **deputy, backup, cross-training**, **documented handoffs** so unavailability does not eliminate **constitutional operation**, **auditability**, or **intervention**. That aligns with continuity/transfer above and **CS-5 §8**; stricter for **Class A** / **CSS-A**.
 
@@ -329,14 +329,14 @@ Maintain **ongoing** proficiency as conditions evolve.
 
 For **Class A** and **Class B**, operators and **Critical System Stewards** must run integrated risk governance across the systems and dependency chains they control or materially affect. These roles protect classification honesty so the finding System Alignment Certification will verify stays honest — they are **around** the [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional), not extra fields inside it, and they do **not** replace forum-supervised SAC. SCR field duties stay in **[CS-3 Part A §7](cs_03_a_system_classification_machinery.md#cs-3-7-classification-governance-disclosure-and-challenge)**.
 
-This block is practical vocabulary for large-organization risk coordination. It does **not** redefine *Risk*, *Material*, *Dependency*, or related assessment standards — those stay with **Chapter Five** and the CS-3 dimensions in **[CS-3 Part A §2](cs_03_a_system_classification_machinery.md#cs-3-2-classification-dimensions-and-real-world-application)**. Anti-evasion and misclassification bars remain in **[CS-3 Part A §1.3](cs_03_a_system_classification_machinery.md#13-mandatory-functional-classification)** and **[§7.6](cs_03_a_system_classification_machinery.md#76-misclassification-and-evasion)**; shared correction and default discipline remains in **[CJS-3.15](../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-315-material-classification-record-honesty)**.
+This block is practical vocabulary for large-organization risk coordination. It does **not** redefine *Risk*, *Material*, *Dependency*, or related assessment standards — those stay with **Chapter Five** and the CS-3 dimensions in **[CS-3 Part A §2](cs_03_a_system_classification_machinery.md#cs-3-2-classification-dimensions-and-real-world-application)**. Anti-evasion and misclassification bars remain in **[CS-3 Part A §1.3](cs_03_a_system_classification_machinery.md#13-mandatory-functional-classification)** and **[§7.6 Correct the System Classification Record](cs_03_a_system_classification_machinery.md#76-misclassification-and-evasion)**; shared correction and default discipline remains in **[CJS-3.15](../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-315-material-classification-record-honesty)**.
 
-- **Risk appetite and tolerance** — publish clear, reviewable statements of how much leftover risk (after prevention and mitigation) the organization accepts, by level and type. Those statements must stay inside foundational requirements (**Chapter One**, **Chapter Six, Articles V through IX**, and **Chapter Five** where material), and must reconcile with the System Classification Record without violating **CJS-3.11**, **CJS-3.7**, or **CJS-3.12** in **corpus_joint_structure.md**.
+- **Risk appetite and tolerance** — publish clear, reviewable statements of how much leftover risk (after prevention and mitigation) the organization accepts, by level and type. Those statements must stay inside foundational requirements (**Chapter One**, **Chapter Six, Articles IV and VI through X**, and **Chapter Five** where material), and must reconcile with the System Classification Record without violating **CJS-3.11** (*distributed and proportional authority terms*), **CJS-3.7** (*quorum and participatory legitimacy terms*), or **CJS-3.12** (*burden-of-justification and constraint terms*) in **corpus_joint_structure.md**.
 - **Who owns the risk picture** — name an accountable function (or clearly split functions with non-overlapping scopes) for the full risk picture of the classified system and its material dependencies, including cross-system and cross-steward interfaces. Ownership covers identification, assessment, treatment, monitoring, and escalation, and stays **traceable** through governance changes, delegation, and subcontracting.
 - **Three lines of defense (functional analogy)** — for Class A and Class B, separate roles **as far as feasible** without breaking survival-critical continuity:
   - **First line** — operators and builders managing risk in design, deployment, and day-to-day running
   - **Second line** — oversight, standards, or challenge functions watching aggregate risk, aligning treatment with the System Classification Record and [Constitutional Constraints](../core_05_band_integrative.md#constitutional-constraint), and escalating material gaps; independent enough of first-line incentives for **credible challenge** where A/B stakes require it
-  - **Third line** — independent assurance under **[CS-3 Part A §7.3](cs_03_a_system_classification_machinery.md#73-auditability-and-verification)** and **Article XV-A**, checking whether appetite, tolerance, and treatments match **observed behavior and the System Classification Record**
+  - **Third line** — independent assurance under **[CS-3 Part A §7.3](cs_03_a_system_classification_machinery.md#73-auditability-and-verification)** and **Article XVI-A**, checking whether appetite, tolerance, and treatments match **observed behavior and the System Classification Record**
 - Where strict separation is **not feasible** (for example, small organizations), use compensating transparency, rotation, independent review, or multi-steward checks that yield **equivalent assurance** scaled to impact and dependency — read with [**CI-3**](../corpus_institutions/ci_03_institutional_design_separation_of_powers.md) and **CJS-3.11** / **CJS-3.7**
 
 Failure integrity, intervention, and steward scaling co-apply through **corpus_joint_structure.md** (**CJS-3** clusters) and the rest of this CS-4 file; see **[CS-1](cs_01_scope_purpose_identifier_rules.md#operates-in-conjunction-with)** (*joint reading*).
@@ -347,9 +347,9 @@ Failure integrity, intervention, and steward scaling co-apply through **corpus_j
 
 Use **independent** or **functionally independent** evaluators where **Class A/B** or **CSS-A/B** stakes require.
 
-Document findings, **communicate** under **Articles IX** and **XVI**, and link to **remediation**, **CS-6** / **Article XX** (*Comprehensibility and Complexity Stewardship*), and **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) cycles where relevant.
+Document findings, **communicate** under **Articles X** and **XVII**, and link to **remediation**, **CS-6** / **Article XXI** (*Comprehensibility and Complexity Stewardship*), and **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) cycles where relevant.
 
-**Contest-integrity monitoring:** For **Class A** and **Class B** systems and for **CSS-A** and **CSS-B** stewards, **`corpus_institutions.md` CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*) applies to **institutions** with **supervised** scope. **Critical System Stewards** that **materially affect** such systems must **either** fall under that institutional program **or** **document** an **equivalent** **functionally independent** contest-integrity review, **or** participate in a **published** cross-institution arrangement (**CI-12** (*Cross-institution coordination and escalation*)) where applicable. Monitors assess **contest-pathway integrity** for **contest, secondary review, audit access, and protected escalation**—not **merits**—consistent with **CJS-3.13** (*procedural integrity and adjudication terms*), **Article XII-B** (*Right to Challenge, Review, and Redress*), and **Article XVI-B** (*Progressive Deployment and Reversibility*).
+**Contest-integrity monitoring:** For **Class A** and **Class B** systems and for **CSS-A** and **CSS-B** stewards, **`corpus_institutions.md` CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*) applies to **institutions** with **supervised** scope. **Critical System Stewards** that **materially affect** such systems must **either** fall under that institutional program **or** **document** an **equivalent** **functionally independent** contest-integrity review, **or** participate in a **published** cross-institution arrangement (**CI-12** (*Cross-institution coordination and escalation*)) where applicable. Monitors assess **contest-pathway integrity** for **contest, secondary review, audit access, and protected escalation**—not **merits**—consistent with **CJS-3.13** (*procedural integrity and adjudication terms*), **Article XIII-B** (*Right to Challenge, Review, and Redress*), and **Article XVII-B** (*Progressive Deployment and Reversibility*).
 
 **Tiered expectations (illustrative requirements):** **CSS-A — Maximum:** competency matrices (or equivalent).
 
@@ -363,7 +363,7 @@ Document findings, **communicate** under **Articles IX** and **XVI**, and link t
 
 **CSS-C — Proportional:** reviews on **material org change**, **incidents**, **classification upgrades**, plus **periodic** lightweight checks when coordination depth or coupling grows.
 
-**Cross-reference:** **Articles IX, XI, XVI**, **CS-3 — System classification and handling**, **CJS-3.11** (*distributed and proportional authority terms*) and **CJS-3.7** (*quorum and participatory legitimacy terms*), **CJS-3.13** (*procedural integrity and adjudication terms*), **Conduct** above.
+**Cross-reference:** **Articles X, XII, XVII**, **CS-3 — System classification and handling**, **CJS-3.11** (*distributed and proportional authority terms*) and **CJS-3.7** (*quorum and participatory legitimacy terms*), **CJS-3.13** (*procedural integrity and adjudication terms*), **Conduct** above.
 
 <a id="cs-4-12-intervention-trigger"></a>
 ## CS-4.12 Intervention trigger
@@ -381,13 +381,13 @@ Its purpose is to preserve function, recoverability, and **Foundational Rights**
 
 *In plain terms: Steward status follows the highest class you actually affect, not who holds title. You can be a Critical System Steward without owning the system.*
 
-Steward category is **coupled to** system class **(A, B, C)** through [§2](#cs-4-2-classification-as-steward) and [§3](#cs-4-3-stewardship-criticality-levels). It does **not replace** system class and is **not** a second impact-class finding.
+Steward category is **coupled to** system class **(A, B, C)** through [§2 Classification as steward](#cs-4-2-classification-as-steward) and [§3 Stewardship criticality levels](#cs-4-3-stewardship-criticality-levels). It does **not replace** system class and is **not** a second impact-class finding.
 
 An organization may be a Critical System Steward if it **materially affects** continuity or integrity **whether or not it owns** the system.
 
 Assess criticality from **actual dependency and substitutability**, not ownership, contract framing, or declared scope alone. Assess across the **dependency chain** including subcontractors, maintainers, infrastructure providers.
 
-**Class L** and **Class P** remain outside this overlay unless reclassification under **CS-3** raises the affected system to **Class C** or higher **and** [§2](#cs-4-2-classification-as-steward) is met.
+**Class L** and **Class P** remain outside this overlay unless reclassification under **CS-3** raises the affected system to **Class C** or higher **and** [§2 Classification as steward](#cs-4-2-classification-as-steward) is met.
 
 <a id="cs-4-14-private-chokepoints-sentients-depend-on-access-continuity-and-non-capture"></a>
 ## CS-4.14 Private chokepoints sentients depend on (access continuity and non-capture)
@@ -396,7 +396,7 @@ Assess criticality from **actual dependency and substitutability**, not ownershi
 
 Some coordination layers can become **private chokepoints** even when they are not government bodies — including **payments**, **identity and credentials**, **core compute or model access**, **messaging and calls**, **hosting and DNS**, **application distribution**, and **search or discovery** where switching costs are high.
 
-Where a **Class A**, **Class B**, or **Class C** system or institution depends on such a layer for **survival**, **healthcare**, **refuge**, **political participation**, **remedy**, or **non-degrading continuity of personhood**, operators and **Critical System Stewards** must keep access continuous and process fair enough to stop **arbitrary** or **capture-driven** cutoffs.
+Where a **Class A**, **Class B**, or **Class C** system or institution depends on such a layer for **survival**, **healthcare**, **refuge**, **political participation**, **remedy**, or **non-degrading continuity of [personhood](../core_05_band_participation.md#personhood)**, operators and **Critical System Stewards** must keep access continuous and process fair enough to stop **arbitrary** or **capture-driven** cutoffs.
 
 Duties scale with dependency and class:
 
@@ -407,7 +407,7 @@ Duties scale with dependency and class:
 - track and disclose **uneven exclusion** patterns against protected or high-dependency groups
 - coordinate with [**CI-8**](../corpus_institutions/ci_08_transparency_participation_accessible_pathways.md) (*Transparency, participation, and accessible challenge and service pathways*) and **CI-6** (*Procedure integrity, contestability, and secondary review*) so governance and forum challenge routes stay **practically usable**
 
-**Safety, security, and abuse:** **Necessity** and **Proportionality** still allow narrow fraud, security, and abuse controls. The target is **pretextual** or **concentration-driven** denial — **not** forced service for materially harmful use. Read with **Article V-G** (*Accessibility*), **Article V-H** (*Expression, Assembly, and Press*), **Article X-A** (*Non-Imposition and Consent in Association*), **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*), **Article XIX-D** (*Movement, Migration, Refuge, and Non-Statelessness*), **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*), [**Chapter One §13.1 Productive Capacity**](../core_01_c_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good), [**Chapter One §14 Market Structure**](../core_01_c_stewardship_capacity_principles.md#14-market-structure), **CJS-3.17** (*interoperability, portability, and exit-integrity terms*), and **`corpus_institutions.md` CI-22** (commons and mutual-aid coordination).
+**Safety, security, and abuse:** **Necessity** and **Proportionality** still allow narrow fraud, security, and abuse controls. The target is **pretextual** or **concentration-driven** denial — **not** forced service for materially harmful use. Read with **Article VI-D** (*Accessibility*), **Article XI-B** (*Expression*), **Article XI-F** (*Non-Imposition and Consent in Association*), **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*), **Article XX-D** (*Movement, Migration, Refuge, and Non-Statelessness*), **Article XX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*), [**Chapter One §13.1 Productive Capacity**](../core_01_c_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good), [**Chapter One §14 Market Structure**](../core_01_c_stewardship_capacity_principles.md#14-market-structure), **CJS-3.17** (*interoperability, portability, and exit-integrity terms*), and **`corpus_institutions.md` CI-22** (commons and mutual-aid coordination).
 
 Classification-governance disclosure, challenge, and reclassification for the dependent system remain in **[CS-3 Part A §7](cs_03_a_system_classification_machinery.md#cs-3-7-classification-governance-disclosure-and-challenge)**.
 
@@ -415,6 +415,8 @@ Classification-governance disclosure, challenge, and reclassification for the de
 ## CS-4.15 Core characteristics (typical)
 
 *In plain terms: The five traits that usually mark a steward: concentrated dependency, opacity risk, control over intervention, sensitivity to organizational decay, and no realistic replacement in time.*
+
+Critical systems typically show the following characteristics:
 
 - **Dependency concentration** — large share of continuity/recovery in one organization
 - **operational opacity risk** — can affect behavior or failure visibility without immediate external detection

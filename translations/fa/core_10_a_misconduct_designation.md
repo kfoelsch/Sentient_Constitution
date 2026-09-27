@@ -44,7 +44,7 @@
 > - **فصل‌های دوم تا چهارم:** انضباط سابقه، نگهداری، ردگیری‌پذیری، و راستی‌آزمایی برای شاهد استفاده‌شده اینجا را تأمین می‌کنند.
 > - **فصل یکم:** اصول مربوط به اختیار اضطراری، ضرورت، تمرکز، و تسخیر نظام را تأمین می‌کند.
 > - **فصل یازدهم:** مسیرگذاری مجمع، مسیرگذاری پیش‌فرض خانوادهٔ یکپارچگی، انتقال، و انضباط گواهی را تأمین می‌کند.
-> - **فصل ششم:** کف حقوق، الزام‌های مشترک **اصل XXIII-B** (*محدودیت نابدیهی، استرداد، و قیدهای پاسخگویی ترمیمی*) و **حبس برای خشونت**، انضباط بازبینی **اصل XXIII-C** (*قاعدهٔ کم‌محدودکننده و زمان‌مند*)، انضباط زمان‌بندی جبران **اصل XXIV-C** (*حل به‌هنگام و کف ضدتأخیر*)، و ضمانت‌های بازبینی و انتشار **اصل XXIII-A** (*هدف و گسترهٔ عدالت*) را تأمین می‌کند؛ **بخش 4.1** اینجا جبران و اصلاح فصل نهم را برای سوءرفتار ضدقانون‌اساسی راستی‌آزمایی‌شده تخصصی می‌کند، **بخش 4.2** قفل‌های پیشگیری را تخصصی می‌کند (از جمله حبس جایی که لازم است)، و **بخش 4.3** بیان عمومی داوطلبانهٔ پاسخگویی را تخصصی می‌کند.
+> - **فصل ششم:** کف حقوق، الزام‌های مشترک **اصل XXIV-B** (*محدودیت نابدیهی، استرداد، و قیدهای پاسخگویی ترمیمی*) و **حبس برای خشونت**، انضباط بازبینی **اصل XXIV-C** (*قاعدهٔ کم‌محدودکننده و زمان‌مند*)، انضباط زمان‌بندی جبران **اصل XXV-C** (*حل به‌هنگام و کف ضدتأخیر*)، و ضمانت‌های بازبینی و انتشار **اصل XXIV-A** (*هدف و گسترهٔ عدالت*) را تأمین می‌کند؛ **بخش 4.1** اینجا جبران و اصلاح فصل نهم را برای سوءرفتار ضدقانون‌اساسی راستی‌آزمایی‌شده تخصصی می‌کند، **بخش 4.2** قفل‌های پیشگیری را تخصصی می‌کند (از جمله حبس جایی که لازم است)، و **بخش 4.3** بیان عمومی داوطلبانهٔ پاسخگویی را تخصصی می‌کند.
 > - **فصل دوازدهم:** پیامدهای مشروعیت حکمرانی پیوندخورده با نام‌گذاری نهایی فصل دهم را تأمین می‌کند.
 > - **فصل‌های سیزدهم تا پانزدهم:** قواعد اعتبار مسیر تغییر، ارجاع، رویه‌ای، و نگهداری را تأمین می‌کنند؛ نام‌گذاری نهایی فصل دهم صادر نمی‌کنند.
 >
@@ -147,7 +147,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: [§1](#1-decision-framework-scope-and-authority) (*تصمیم‌های نام‌گذاری چگونه کار می‌کنند*).
-- اختیار اضطراری: انضباط اضطرار و ضرورت [فصل یکم](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints)؛ [اصل XXIII-D: تدابیر اضطراری و بار ادامه](core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) جایی که **معیارهای 5** و **6** در برابر اختیار اضطراری کران‌مند خوانده می‌شوند.
+- اختیار اضطراری: انضباط اضطرار و ضرورت [فصل یکم](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints)؛ [اصل XXIV-D: تدابیر اضطراری و بار ادامه](core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden) جایی که **معیارهای 5** و **6** در برابر اختیار اضطراری کران‌مند خوانده می‌شوند.
 - تصمیم نام‌گذاری پایین‌دست: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity).
 - ضمانت‌ها و انضباط پایین‌دست: [§4](#4-due-process-safeguards-for-slot-assignment).
 - این بخش: مجموعهٔ معیارهای نام‌گذاری؛ قاعدهٔ رویداد یکپارچه؛ **استثنای پیش‌نویس با حسن‌نیت** برای خطاهای تغییر یا سابقهٔ درمان‌شدهٔ معیارهای 1–4.
@@ -198,8 +198,8 @@
 2. **جعل یا سرکوب عالمانه:** جعل عالمانه، حذف مادی، یا دستکاری شاهد/نگهداری در سوابق پیشنهاد، بازبینی، پذیرش، انتشار، **یا دیگر سوابق نگهداری یا راستی‌آزمایی قانون اساسی مادی**.
 3. **اثر قهقرایی مادی:** تضعیف مادی بالفعل یا تلاش‌شدهٔ حمایت‌های قانون اساسی، مستقیم یا با دور زدن ساختاری معادل.
 4. **رفتار علیاً معنادار:** رفتار به‌طور مادی به اثر نامشروع قانون اساسی، اصلاح تأخیری، حقوق اعتراض مسدود، یا تنزل کف حقوق کمک می‌کند.
-5. **شورش یا براندازی قهری مادی:** کنش **نامشروع** سازمان‌یافته یا مادی که با **زور**، **اجبار**، یا **غصب** اختیار عملیاتی قانون اساسی این سند را **سرنگون**، **تعلیق**، یا **جایگزین** کند. رفتار توجیه‌شده زیر **فصل یکم** و **اصل XXIII-D** (*تدابیر اضطراری و بار ادامه*) یا اختیار اضطراری معادل کران‌مند به **ضرورت** مستثنی است.
-6. **بی‌اثرسازی عملیاتی:** رفتاری که **فرایند** یا **جبران** قانون اساسی را در عمل غیرقابل‌استفاده می‌کند. رفتار توجیه‌شده زیر **فصل یکم** و **اصل XXIII-D** (*تدابیر اضطراری و بار ادامه*) یا اختیار اضطراری معادل کران‌مند به **ضرورت** مستثنی است.
+5. **شورش یا براندازی قهری مادی:** کنش **نامشروع** سازمان‌یافته یا مادی که با **زور**، **اجبار**، یا **غصب** اختیار عملیاتی قانون اساسی این سند را **سرنگون**، **تعلیق**، یا **جایگزین** کند. رفتار توجیه‌شده زیر **فصل یکم** و **اصل XXIV-D** (*تدابیر اضطراری و بار ادامه*) یا اختیار اضطراری معادل کران‌مند به **ضرورت** مستثنی است.
+6. **بی‌اثرسازی عملیاتی:** رفتاری که **فرایند** یا **جبران** قانون اساسی را در عمل غیرقابل‌استفاده می‌کند. رفتار توجیه‌شده زیر **فصل یکم** و **اصل XXIV-D** (*تدابیر اضطراری و بار ادامه*) یا اختیار اضطراری معادل کران‌مند به **ضرورت** مستثنی است.
 
 همان رفتار را هم **معیار 5** و هم **معیار 6** نشمارید مگر هر کدام اثبات مستقل خود را داشته باشد. برای نمونه، سابقه باید اعمال قهری جدا و راه‌های جدا برای غیرقابل‌استفاده کردن فرایند یا جبران نشان دهد — نه دو برچسب برای یک واقعیت تفکیک‌نشده.
 
@@ -275,8 +275,8 @@
 - بالادست: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*نام‌گذاری محور تخلف s = 7–9*)؛ [§2](#2-criteria-set-for-slot-assignment) (*مجموعهٔ معیارها*)، از جمله **استثنای پیش‌نویس با حسن‌نیت**.
 - کاربردهای الگو: [§5.3](core_10_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) (*سیل منطقه*)؛ [§5.4](core_10_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding) (*سیل پهنهٔ سپهر اطلاعات*)؛ [§5.5](core_10_b_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (*رشوه و مبادلهٔ نفع نادرست*)؛ [§5.6](core_10_b_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct) (*رفتار فرمان نامشروع یا ضدقانون‌اساسی*)؛ [§5.7](core_10_b_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct) (*پاداش، حمایت، یا عادی‌سازی رفتار ضدقانون‌اساسی*)؛ [§5.8](core_10_b_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct) (*رفتار امتناع از اجرا، سرکوب، یا عدم‌پیگرد*)؛ [§5.9](core_10_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct) (*رفتار انکار، تخریب، یا قطع وابستگی زیرساخت*)؛ [§5.10](core_10_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*شکست کناره‌گیری مجمع و مشارکت هیئت جانبدار*)؛ [§5.11](core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) (*انسداد پاسخگویی*).
 - پایین‌دست: [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*جبران و اصلاح (ضدقانون‌اساسی)*)؛ [§4.2](#4-2-prevention-anti-constitutional-locks) (*پیشگیری — قفل‌های ضدقانون‌اساسی*)؛ [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*بیان عمومی داوطلبانهٔ پاسخگویی (ضدقانون‌اساسی)*).
-- انضباط مجمع: [فصل یازدهم §2](core_11_forum.md#2-default-venue-and-primary-stakes) تا [§5](core_11_forum.md#5-escalation-and-certification) رهبری پیش‌فرض یکپارچگی، اعمال خانوادهٔ مجمع از فرایند عادلانه، انتقال، و گواهی را می‌پوشانند. **بخش 4** را با **اصل XXIII** (*حل تعارض، تشدید، و تناسب اضطراری*) در **فصل ششم** بخوانید.
-- خوانده شود با: [اصل XXIII-A: هدف و گسترهٔ عدالت](core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) برای ضمانت‌های بازبینی و انتشار؛ استانداردهای ردگیری [فصل‌های دوم تا چهارم](core_02_definition_structure.md) برای انتشار؛ [فصل نهم §4](core_09_standing_integration.md#4-violation-correction-and-prevention) (*تخلف، اصلاح، و پیشگیری*) برای دستور زبان عمومی جبران → قفل‌ها → بیان که این بخش تخصصی می‌کند.
+- انضباط مجمع: [فصل یازدهم §2](core_11_forum.md#2-default-venue-and-primary-stakes) تا [§5](core_11_forum.md#5-escalation-and-certification) رهبری پیش‌فرض یکپارچگی، اعمال خانوادهٔ مجمع از فرایند عادلانه، انتقال، و گواهی را می‌پوشانند. **بخش 4** را با **اصل XXIV** (*حل تعارض، تشدید، و تناسب اضطراری*) در **فصل ششم** بخوانید.
+- خوانده شود با: [اصل XXIV-A: هدف و گسترهٔ عدالت](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) برای ضمانت‌های بازبینی و انتشار؛ استانداردهای ردگیری [فصل‌های دوم تا چهارم](core_02_definition_structure.md) برای انتشار؛ [فصل نهم §4](core_09_standing_integration.md#4-violation-correction-and-prevention) (*تخلف، اصلاح، و پیشگیری*) برای دستور زبان عمومی جبران → قفل‌ها → بیان که این بخش تخصصی می‌کند.
 
 </details>
 
@@ -297,7 +297,7 @@
 
 - بالادست: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*نام‌گذاری محور تخلف s = 7–9*)؛ [§4](#4-due-process-safeguards-for-slot-assignment) (*ضمانت‌های فرایند عادلانه، جبران، و پیشگیری*).
 - پایین‌دست: [§4.2](#4-2-prevention-anti-constitutional-locks) (*پیشگیری — قفل‌های ضدقانون‌اساسی*)؛ [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*بیان عمومی داوطلبانهٔ پاسخگویی (ضدقانون‌اساسی)*)؛ یکپارچه‌سازی آثار ردپا و قفل ردپای [فصل نهم](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)؛ مسیرگذاری مجمع و گواهی [فصل یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction).
-- خوانده شود با: [فصل نهم §4.1](core_09_standing_integration.md#41-remedy-and-correction) (*جبران و اصلاح*)؛ [اصل XXIII-A](core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*هدف و گسترهٔ عدالت*)؛ [اصل XXIII-B](core_06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*استرداد، ترمیم، بازتوانی، و انتساب پاسخگو*)؛ [اصل XXIII-C](core_06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) (*مدت، بازبینی، و ترمیم*)؛ [اصل XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*حل به‌هنگام و آغاز جبران*).
+- خوانده شود با: [فصل نهم §4.1](core_09_standing_integration.md#41-remedy-and-correction) (*جبران و اصلاح*)؛ [اصل XXIV-A](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*هدف و گسترهٔ عدالت*)؛ [اصل XXIV-B](core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*استرداد، ترمیم، بازتوانی، و انتساب پاسخگو*)؛ [اصل XXIV-C](core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule) (*مدت، بازبینی، و ترمیم*)؛ [اصل XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*حل به‌هنگام و آغاز جبران*).
 
 </details>
 
@@ -341,7 +341,7 @@
   - آسیب مادی، زیان حقوق، زیان جبران، آسیب وابستگی، تنزل شاهد، یا بی‌اثرسازی فرایند ناشی از رویداد یکپارچه یا به‌طور مادی کمک‌کرده از آن؛
   - استرداد، غرامت، ترمیم، اصلاح، استرداد مالی یا بازپس‌گیری جایی که مشروع است، ضمانت‌های جایگزین جایی که تعمیر لفظی ناممکن است، و ترمیم سیستمی جایی که آسیب رده‌گسترده یا ساختاری است؛
   - کنشگران، نقش‌ها، نهادها، نظام‌ها، صندوق‌ها، جانشینان، یا بدنه‌های هماهنگ‌کنندهٔ مسئول که باید هر جبران را حمل یا تأمین کنند؛
-  - ضرب‌الاجل‌های آغاز، نقاط عطف تکمیل، الزام‌های راستی‌آزمایی، و ماشه‌های بازبینی زیر **اصل XXIV-C** (*حل به‌هنگام و کف ضدتأخیر*)؛
+  - ضرب‌الاجل‌های آغاز، نقاط عطف تکمیل، الزام‌های راستی‌آزمایی، و ماشه‌های بازبینی زیر **اصل XXV-C** (*حل به‌هنگام و کف ضدتأخیر*)؛
   - چه کسی پیگیری را نظارت می‌کند و اگر تأخیر رخ دهد چه می‌شود.
 - **اولویت و حفاظت موقت:**
   - طرف‌های اثرپذیر و ترمیم عملی را نخست بگذارید — پیش از تعمیر آبرو، راحتی نهادی، یا نظم اداری عادی.
@@ -371,7 +371,7 @@
 
 - بالادست: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*نام‌گذاری محور تخلف s = 7–9*)؛ [§4](#4-due-process-safeguards-for-slot-assignment) (*ضمانت‌های فرایند عادلانه، جبران، و پیشگیری*)؛ [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*جبران و اصلاح (ضدقانون‌اساسی)*).
 - پایین‌دست: [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*بیان عمومی داوطلبانهٔ پاسخگویی (ضدقانون‌اساسی)*)؛ [فصل نهم §5.5](core_09_standing_integration.md#55-special-locks) (*قفل اعتماد ضدقانون‌اساسی*).
-- خوانده شود با: [فصل نهم §4.2](core_09_standing_integration.md#42-general-standing-locks) (*پیشگیری — قفل‌های عمومی ردپا*)؛ [فصل نهم §5.1](core_09_standing_integration.md#51-definition-and-attachment) (*تعریف و چسبیدن*)؛ [فصل نهم §5.4](core_09_standing_integration.md#54-special-violation-rules) (*تدابیر محافظ قهری یا محدودکنندهٔ آزادی*)؛ [اصل XXIII-B](core_06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*الزام‌های مشترک و **حبس برای خشونت***)؛ [اصل XXIII-C](core_06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) (*انضباط مدت، بازبینی، ترمیم، و ارزیابی مجدد*).
+- خوانده شود با: [فصل نهم §4.2](core_09_standing_integration.md#42-general-standing-locks) (*پیشگیری — قفل‌های عمومی ردپا*)؛ [فصل نهم §5.1](core_09_standing_integration.md#51-definition-and-attachment) (*تعریف و چسبیدن*)؛ [فصل نهم §5.4](core_09_standing_integration.md#54-special-violation-rules) (*تدابیر محافظ قهری یا محدودکنندهٔ آزادی*)؛ [اصل XXIV-B](core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*الزام‌های مشترک و **حبس برای خشونت***)؛ [اصل XXIV-C](core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule) (*انضباط مدت، بازبینی، ترمیم، و ارزیابی مجدد*).
 
 </details>
 
@@ -395,9 +395,9 @@
   - **بخش 3** تصمیم می‌گیرد آیا سوءرفتار راستی‌آزمایی شده و چقدر جدی است؛ این زیربخش تصمیم می‌گیرد آیا حبس به‌عنوان تدبیر محدودکنندهٔ آزادی لازم است.
   - حبس باید برآورد:
     - [فصل نهم §5.4](core_09_standing_integration.md#54-special-violation-rules) (*تدابیر محافظ قهری یا محدودکنندهٔ آزادی*)؛
-    - الزام‌های مشترک **اصل XXIII-B** (*محدودیت نابدیهی، استرداد، و قیدهای پاسخگویی ترمیمی*)؛
+    - الزام‌های مشترک **اصل XXIV-B** (*محدودیت نابدیهی، استرداد، و قیدهای پاسخگویی ترمیمی*)؛
     - انتساب فردی‌شده، و حمایت‌های اعتراض و تجدیدنظر؛ و
-    - انضباط مدت، بازبینی، ترمیم، و ارزیابی مجدد **اصل XXIII-C** (*قاعدهٔ کم‌محدودکننده و زمان‌مند*) در **فصل ششم، بخش د**.
+    - انضباط مدت، بازبینی، ترمیم، و ارزیابی مجدد **اصل XXIV-C** (*قاعدهٔ کم‌محدودکننده و زمان‌مند*) در **فصل ششم، بخش د**.
   - جایگزین کردن سلب حیات، آزادی، برچسب‌گذاری مجدد اداری، یا تدابیر ملایم‌تر به‌تنهایی وقتی این زیربخش حبس می‌خواهد غیرمنطبق است.
 
 <a id="4-3-voluntary-public-accountability-expression"></a>
@@ -410,7 +410,7 @@
 
 - بالادست: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*نام‌گذاری محور تخلف s = 7–9*)؛ [§4](#4-due-process-safeguards-for-slot-assignment) (*ضمانت‌های فرایند عادلانه، جبران، و پیشگیری*)؛ [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*جبران و اصلاح (ضدقانون‌اساسی)*)؛ [§4.2](#4-2-prevention-anti-constitutional-locks) (*پیشگیری — قفل‌های ضدقانون‌اساسی*).
 - پایین‌دست: [§5](core_10_b_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing) (*کاربردهای الگو و مسیرگذاری معیارها*).
-- خوانده شود با: [فصل نهم §4.3](core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*بیان عمومی داوطلبانهٔ پاسخگویی*)؛ [اصل XXIII-B](core_06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*الزام‌های مشترک*)؛ [اصل XXIV-B](core_06_rights_part_d.md#article-xxiv-b-rights-collision-procedure-and-restorative-alignment) (*رویهٔ تصادم حقوق و هم‌راستایی ترمیمی*).
+- خوانده شود با: [فصل نهم §4.3](core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*بیان عمومی داوطلبانهٔ پاسخگویی*)؛ [اصل XXIV-B](core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*الزام‌های مشترک*)؛ [اصل XXV-B](core_06_rights_part_d.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment) (*رویهٔ تصادم حقوق و هم‌راستایی ترمیمی*).
 
 </details>
 
@@ -422,7 +422,7 @@
 
 - **بیان عمومی داوطلبانهٔ پاسخگویی:** طرف‌های پاسخگو در مسیرهای ترمیمی برای سوءرفتار ضدقانون‌اساسی راستی‌آزمایی‌شده می‌توانند داوطلبانه اقرار یا عذرخواهی عمومی را به‌عنوان کنش پاسخگویی تکمیلی انتخاب کنند جایی که تعمیر، ترمیم اعتماد، یا التیام اجتماع را پشتیبانی کند، تابع کنترل‌های داوطلبانه بودن، اصالت، عدم‌تنزل، و عدم‌جایگزینی فصل نهم §4.3.
 - **بیان غیراصیل یا آزارگر:** اقرار یا عذرخواهی عمومی که به‌طور مادی غیرصادق، دستکاری‌کننده، نمایشی بدون پاسخگویی راستین، یا آزارگر نسبت به طرف‌های اثرپذیر یا عموم باشد الزام‌های ترمیمی را برآورده نمی‌کند.
-  - می‌تواند پیامدهای عدالت منفی برای طرف پاسخگو داشته باشد — از جمله یافته‌های سوءرفتار اضافی زیر **بخش 3**، اعتبار کاهش‌یافته برای بازتوانی، و محدودیت‌های مشروع دیگر زیر **اصل XXIII-B** (*محدودیت نابدیهی، استرداد، و قیدهای پاسخگویی ترمیمی*) و **فصل هشتم**.
+  - می‌تواند پیامدهای عدالت منفی برای طرف پاسخگو داشته باشد — از جمله یافته‌های سوءرفتار اضافی زیر **بخش 3**، اعتبار کاهش‌یافته برای بازتوانی، و محدودیت‌های مشروع دیگر زیر **اصل XXIV-B** (*محدودیت نابدیهی، استرداد، و قیدهای پاسخگویی ترمیمی*) و **فصل هشتم**.
   - تلقی عذرخواهی جعلی یا آزارگر به‌عنوان تعمیر کافی، یا به‌کار بردنش برای پرهیز از حفاظت یا ترمیم لازم زیر **بخش 4.1** یا قفل‌ها زیر **بخش 4.2**، غیرمنطبق است.
 - امتناع از مشارکت در بیان عمومی نباید به‌تنهایی تحریم‌های پایه را افزایش دهد یا **قفل اعتماد ضدقانون‌اساسی** را گسترش دهد.
 

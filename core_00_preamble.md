@@ -131,7 +131,7 @@ When Chapter Six, [Chapter Eight](core_08_a_system_alignment_certification_evalu
 - **Forum review** ([Chapter Twelve](core_12_forum.md#1-purpose-and-role--participation-architecture))
   - Ordinary disputes within already-authorized systems use the published [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight-cluster) challenge path first.
   - If that path remains contested, is missing or captured, or cannot grant relief, route the dispute by primary stake through supervised forums.
-  - Those forums support evidence, lawful transfer, and timely clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*).
+  - Those forums support evidence, lawful transfer, and timely clocks under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*).
 
 <a id="33-governance-layers"></a>
 #### 3.3 Governance Layers
@@ -203,13 +203,13 @@ Each summary below states what the chapter owns and what it produces.
 
 **Chapter Six — Foundational Rights**
 
-- **What it owns:** States the Rights Floor in Articles **I–XXVI**, covering:
+- **What it owns:** States the Rights Floor in Articles **I–XXVII**, covering:
   - survival essentials;
   - resource allocation and dependency stewardship;
   - dignity, agency, and participation;
   - challenge and remedy;
   - justice constraints;
-  - timeliness under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*); and
+  - timeliness under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*); and
   - transition rules.
   The four parts organize these protections for planet-first reading.
 - **What it produces:** Non-negotiable rights protections and remedy hooks that Chapters Seven through Twelve, forums, governance, and amendment rules must respect and not narrow, bypass, or hollow through procedure or proxy metrics.
@@ -218,6 +218,8 @@ Each summary below states what the chapter owns and what it produces.
 ### 5. Functional Independence and Segregation of Duties
 
 *In plain terms: before a materially binding act moves, separate who starts it, who checks or authorizes it, who holds the official record, and who reviews a challenge. The roles may scale to the setting, but the same actor and its control line cannot quietly occupy the checks on its own act.*
+
+This section summarizes the separation-of-duties floor and what it produces:
 
 - **What it owns:** The cross-process floor requiring every [Materially Binding Act](core_05_band_accountability.md#materially-binding-act) to assign four functions separately:
   - initiation;
@@ -345,6 +347,8 @@ Together, these rules turn constitutional duties into records and decisions that
 
 *In plain terms: first separate the seats. Then follow the path from system check to remedy, with forums supervising the dispute and standing steps throughout.*
 
+The full chain runs in the following order:
+
 1. **Separate the seats for every materially binding act** ([Chapter Seven](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor)) — identify who initiates, who verifies or authorizes, who holds the official record, and who hears a challenge. Apply the prohibited combinations, independence rules, and published substitute route before treating the act as validly checked.
 2. **Certify the system when impact is serious enough** ([Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)) — before a high-impact system is trusted at scale, obtain a contestable alignment record that answers whether it is constitutionally safe to rely on *right now*.
 3. **Measure standing on separate tracks** ([Chapter Nine](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)) — when good conduct or harm is serious enough to matter constitutionally, Chapter Nine must open formal case files, admit only **verified inputs** (including system-alignment certification evidence from Chapter Eight when that evidence is material), and classify what was verified. Rumors, reputations, and dispute stories are not enough.
@@ -352,7 +356,7 @@ Together, these rules turn constitutional duties into records and decisions that
    - **Violation nature:** Open a **violation standing record** — a bounded, challengeable case file for verified harm and accountability failures — and classify **violation nature** on the Violation Axis. Good and harm never fold into one net score; linked records cross-reference but stay separate.
 4. **Apply standing effects on each track** ([Chapter Ten](core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)) — verified contribution may grant competency clearance and must support proportionate recognition and material rewards; verified violation may trigger standing locks, correction, and [remedy for those harmed](core_10_standing_integration.md#41-remedy-and-correction).
 5. **Conduct anti-constitutional designation review** ([Chapter Eleven](core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct)) — if a highest-impact violation finding may also satisfy anti-constitutional criteria, Chapter Eleven must decide whether the corresponding designation attaches. Designation does not change how serious Chapter Nine already found the harm to be. Ordinary Chapter Ten effects continue in parallel until a final designation triggers the Anti-Constitutional Trust Lock.
-6. **Route disputes and keep remedy timely** ([Chapter Twelve](core_12_forum.md#1-purpose-and-role--participation-architecture)) — forums must supervise how cases move, which track handles them, and whether clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) are met so remedy does not die in delay. Ordinary disputes follow [Dispute sequencing](core_12_forum.md#dispute-sequencing). Forums must also classify disputes into five [materiality tiers](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) mirroring the system classification alphabet — from survival-critical urgency through private/contained matters. Integrity-family default routing applies when final Chapter Eleven designation is the primary stake.
+6. **Route disputes and keep remedy timely** ([Chapter Twelve](core_12_forum.md#1-purpose-and-role--participation-architecture)) — forums must supervise how cases move, which track handles them, and whether clocks under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*) are met so remedy does not die in delay. Ordinary disputes follow [Dispute sequencing](core_12_forum.md#dispute-sequencing). Forums must also classify disputes into five [materiality tiers](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) mirroring the system classification alphabet — from survival-critical urgency through private/contained matters. Integrity-family default routing applies when final Chapter Eleven designation is the primary stake.
 
 Each stage above links to its owner chapter, so the chain can be walked from here — including Chapter Eight’s potential verified inputs into standing measurement.
 
@@ -361,7 +365,7 @@ Each stage above links to its owner chapter, so the chain can be walked from her
 
 *In plain terms: the process map and [how the full chain fits together](#62-how-the-full-chain-fits-together) show the chain; this section names the owner and output of each stage, so no stage quietly takes over another's job.*
 
-Each step below states what the chapter owns and what it produces, filling in the owners named in [§6.2](#62-how-the-full-chain-fits-together).
+Each step below states what the chapter owns and what it produces, filling in the owners named in [§6.2 How the full chain fits together](#62-how-the-full-chain-fits-together).
 
 **Chapter Eight — [System alignment certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)**
 
@@ -369,7 +373,7 @@ Each step below states what the chapter owns and what it produces, filling in th
   - Before a system that materially affects sentients is recognized or relied on at scale, evidence must be gathered and reviewed under forum supervision.
   - The review must cover:
     - whether the system respects survival essentials;
-    - **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource allocation and dependency stewardship — including [Proportionate Cross-System Contribution](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) where shared-infrastructure reliance is materially at issue;
+    - **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource allocation and dependency stewardship — including [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) where shared-infrastructure reliance is materially at issue;
     - safety;
     - participation; and
     - other constitutional floors.
@@ -410,7 +414,7 @@ Each step below states what the chapter owns and what it produces, filling in th
   - how evidence is supported;
   - how matters transfer or consolidate;
   - how anti-self-judging rules prevent captured forums from being the sole final home; and
-  - how clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) prevent matters from remaining unresolved until remedy no longer matters.
+  - how clocks under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*) prevent matters from remaining unresolved until remedy no longer matters.
 - **What it produces:** **Verified findings** that may open or update standing records, plus lawful routing toward remedy and [timely resolution](core_05_band_accountability.md#timely-resolution-constitutional). Forums supervise the pipeline; they do not replace Chapter Nine standing measurement.
 
 <a id="8-governance-change-and-incorporation"></a>

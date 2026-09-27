@@ -81,7 +81,7 @@ La ausencia de engaño ostensible o de acto forzoso **no** derrota la designaci�
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origen: [§2](core_10_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) (*Conjunto de criterios*); [Capítulo Seis](core_06_rights_part_a.md#chapter-six-foundational-rights) Piso de Derechos; [Capítulo Nueve §5.4](core_09_standing_integration.md#54-special-violation-rules) (*Deber de resistir instrucciones ilícitas o inconstitucionales*) para el enrutamiento de instrucciones inconstitucionales nominado en la segunda viñeta.
-- Destino: [§1](core_10_a_misconduct_designation.md#1-cross-chapter-discipline) (*Frontera de los Capítulos Trece a Quince*); [Artículo XXIII-A: Objetivo y alcance de la justicia](core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) para las vías de revisión que los dispositivos de renuncia no deben derrotar.
+- Destino: [§1](core_10_a_misconduct_designation.md#1-cross-chapter-discipline) (*Frontera de los Capítulos Trece a Quince*); [Artículo XXIV-A: Objetivo y alcance de la justicia](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) para las vías de revisión que los dispositivos de renuncia no deben derrotar.
 - Enrutamiento temático (lectura conjunta obligatoria): [Capítulo Nueve §10.9](core_09_standing_integration.md#109-rights-floor-waiver-or-unconstitutional-contract-devices) (*Enrutamiento de bloqueo de vía de la Pregunta 3 para la misma familia de hechos — solo bloqueos generales*).
 - Leer con: [Capítulo Quince](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) reglas de validez procedimental para instrumentos de adopción (contraste con términos de asociación ordinaria).
 
@@ -106,7 +106,7 @@ Los patrones siguientes son **inconducta anticonstitucional dentro del alcance d
 - **Conducta de renuncia al Piso de Derechos:** condicionar la participación cooperativa, el empleo, el acceso a plataforma, los servicios o una asociación ordinaria comparable a ceder derechos protegidos o vías de revisión.
   - Incluye renuncia, descargo o abandono de:
     - protecciones del Piso de Derechos del **Capítulo Seis**;
-    - vías de interpretación, apelación o revisión bajo el **Artículo XXIII-A** (*Objetivo y alcance de la justicia*);
+    - vías de interpretación, apelación o revisión bajo el **Artículo XXIV-A** (*Objetivo y alcance de la justicia*);
     - **auditabilidad** o **impugnabilidad** constitucionalmente exigidas; o
     - **trayectoria** necesaria para hacer valer esas protecciones.
   - En alcance donde la condición funciona para derrotar, estrechar o enfriar esas protecciones sin **Necesidad** y **Proporcionalidad** bajo el **Capítulo Uno** y el **Capítulo Cinco**, y fuera de las reglas de validez procedimental del **Capítulo Quince** para los instrumentos de adopción mismos.
@@ -118,11 +118,11 @@ Los patrones siguientes son **inconducta anticonstitucional dentro del alcance d
 
 - **Conducta de restricción de movilidad posempleo:**
   - Términos de **no competencia** o de **no captación** en arreglos de empleo, de **operador**, de **administración responsable**, de plataforma o comparables — prohibidos de forma categórica en cualquier forma, alcance o duración, **sin efecto operativo** para restringir la movilidad laboral.
-  - Términos posasociación de **no captación excesiva** o **funcionalmente equivalentes** que pretenden **cerrar** la **movilidad laboral impugnable** o **enfriar** la **trayectoria**, la **auditoría**, la **impugnabilidad** o la revisión del **Artículo XXIII-A** (*Objetivo y alcance de la justicia*) de modos que **degradan** las protecciones del **Capítulo Seis** **sin** **Necesidad** y **Proporcionalidad** bajo el **Capítulo Uno** y el **Capítulo Cinco**.
+  - Términos posasociación de **no captación excesiva** o **funcionalmente equivalentes** que pretenden **cerrar** la **movilidad laboral impugnable** o **enfriar** la **trayectoria**, la **auditoría**, la **impugnabilidad** o la revisión del **Artículo XXIV-A** (*Objetivo y alcance de la justicia*) de modos que **degradan** las protecciones del **Capítulo Seis** **sin** **Necesidad** y **Proporcionalidad** bajo el **Capítulo Uno** y el **Capítulo Cinco**.
   - La conveniencia de **retención** o **competitiva sola** no es una justificación suficiente.
 
 **Efecto no vinculante.** Las disposiciones y condiciones dentro de las viñetas de arriba **nunca son vinculantes** y **no tienen efecto operativo**.
-- No derrotan, estrechan ni cierran protecciones del Piso de Derechos, derechos de impugnación o de **trayectoria**, derechos de auditoría o de verificación, ni vías del **Artículo XXIII-A** (*Objetivo y alcance de la justicia*).
+- No derrotan, estrechan ni cierran protecciones del Piso de Derechos, derechos de impugnación o de **trayectoria**, derechos de auditoría o de verificación, ni vías del **Artículo XXIV-A** (*Objetivo y alcance de la justicia*).
 - Los **NDA** y los términos de **confidencialidad** son **nulos** y **sin efecto operativo** en la medida en que **suprimirían** la **divulgación** o la **cooperación** necesaria para la **rendición de cuentas** por conducta **penal** (incluida la **denuncia** ante un proceso **penal** o de **supervisión** **competente**) o por **inconducta anticonstitucional** dentro del alcance de **este capítulo**.
 - Los actores no deben tratarlos como autoridad lícita para el cumplimiento selectivo, la destrucción de evidencia, la elección oportunista de foro o el arbitraje de reincorporación.
 
@@ -205,7 +205,7 @@ Esta subsección **no** añade un criterio de designación adicional más allá 
 - Destino: [§3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Designación del Eje de Violación s = 7–9*); [§1](core_10_a_misconduct_designation.md#1-cross-chapter-discipline) (*Límite de los Capítulos Trece a Quince*).
 - Enrutamiento temático (lectura conjunta obligatoria): [Capítulo Nueve §10.10](core_09_standing_integration.md#1010-contest-pathway-or-info-sphere-flooding) (*Enrutamiento de bloqueo de vía de la Pregunta 3 para inundación de vías de impugnación o de la infósfera — solo bloqueos generales*).
 - Leer con: [Infoesfera](core_05_band_participation.md#info-sphere), [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity), [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint) y [Transparencia](core_05_band_oversight.md#transparency) en el **Capítulo Cinco**.
-- Derechos y verificación: [Artículo V-H: Expresión, asamblea y prensa](core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) y [Artículo XV: Auditoría, transparencia y verificación independiente](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) en el **Capítulo Seis**. Estos suministran Pisos de Derechos y disciplina de verificación sin reubicar la revisión de designación.
+- Derechos y verificación: [Artículo V-H: Expresión, asamblea y prensa](core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) y [Artículo XVI: Auditoría, transparencia y verificación independiente](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) en el **Capítulo Seis**. Estos suministran Pisos de Derechos y disciplina de verificación sin reubicar la revisión de designación.
 - Contexto de implementación: **[corpus_systems.md](../../corpus_systems.md)** adoptado e implementación institucional bajo el **Capítulo Dieciséis** donde sea materialmente pertinente.
 
 </details>
@@ -264,7 +264,7 @@ Lo siguiente son ejemplos no exhaustivos de medios en alcance:
 
 La **respuesta operativa** sigue gobernada por esos instrumentos y por las capas titulares adoptadas, incluidas:
 - la implementación del Piso de Derechos bajo el **Capítulo Seis**;
-- la disciplina de verificación y auditabilidad del **Artículo XV** (*Auditoría, transparencia y verificación independiente*);
+- la disciplina de verificación y auditabilidad del **Artículo XVI** (*Auditoría, transparencia y verificación independiente*);
 - el manejo de **[corpus_systems.md](../../corpus_systems.md)** donde esté designado; y
 - la gobernanza institucional bajo el **Capítulo Dieciséis**.
 
@@ -516,7 +516,7 @@ La rendición de cuentas personal debe permanecer:
 - impugnable; y
 - proporcionada
 
-bajo el **Artículo XXIII** (*Resolución de conflictos, escalamiento y proporcionalidad de emergencia*) y los **Capítulos Dos a Cuatro**.
+bajo el **Artículo XXIV** (*Resolución de conflictos, escalamiento y proporcionalidad de emergencia*) y los **Capítulos Dos a Cuatro**.
 
 **Exclusiones.** Esta subsección **no** trata lo siguiente como conducta de mando por el mero hecho de que exista una orden o una instrucción:
 - el asesoramiento jurídico de buena fe;
@@ -528,7 +528,7 @@ bajo el **Artículo XXIII** (*Resolución de conflictos, escalamiento y proporci
 - la jefatura ordinaria; o
 - la gestión lícita del cumplimiento.
 
-Deben corroborarse la directiva ilícita o inconstitucional, el efecto material y la atribución responsable. La autoridad de emergencia acotada a la necesidad sigue gobernada por el **Capítulo Uno** y el **Artículo XXIII-D** (*Medidas de emergencia y carga de continuación*) y no debe usarse como pretexto para conducta de mando inconstitucional.
+Deben corroborarse la directiva ilícita o inconstitucional, el efecto material y la atribución responsable. La autoridad de emergencia acotada a la necesidad sigue gobernada por el **Capítulo Uno** y el **Artículo XXIV-D** (*Medidas de emergencia y carga de continuación*) y no debe usarse como pretexto para conducta de mando inconstitucional.
 
 **Enrutamiento de criterios.** Quienes evalúan examinan estos patrones como sigue:
 - **Criterios 1 y 2** — donde está implicado el engaño, el ocultamiento, la omisión material, o la manipulación de registros, custodia, evidencia, publicación, procedencia o verificación.
@@ -547,7 +547,7 @@ Esta subsección **no** añade un criterio adicional de designación más allá 
 
 - Origen: [§2](core_10_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) (*Conjunto de criterios*); [§3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Designación anticonstitucional del Eje de Violación s = 7–9*); [§4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*Salvaguardas de debido proceso, remedio y prevención*); [Capítulo Uno §2.2](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration) (*Reconocimiento, refuerzo y aspiración*); [Capítulo Uno §11](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture) (*Alineación de incentivos y captura del sistema*); [Capítulo Nueve §5.4](core_09_standing_integration.md#54-special-violation-rules) (*reporte, decomiso, corrección y registros de recompensa desalineada*); [Capítulo Nueve §2](core_09_standing_integration.md#2-integration-record-and-decision-order) (*Integración de trayectoria*).
 - Patrones relacionados: [§5.5](#55-bribery-and-improper-benefit-exchange) donde el intercambio de beneficios o el vínculo corrupto sea material; [§5.6](#56-unlawful-or-unconstitutional-command-conduct) donde la vía de recompensa sigue a conducta de mando ilícita o inconstitucional; [§5.8](#58-enforcement-refusal-suppression-or-non-prosecution-conduct) donde la negativa de exigibilidad o la no persecución misma sea la vía de obstrucción de la rendición de cuentas; [§5.11](#511-obstruction-of-accountability-criteria-interaction) para la interacción de criterios paraguas de **obstrucción de la rendición de cuentas**.
-- Leer con: [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Auditabilidad](core_05_band_oversight.md#auditability), [Alineación de incentivos](core_05_band_integrative.md#incentive-alignment), [Represalia contra la denuncia protegida e interferencia de acceso](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference), [Captura del sistema](core_05_band_continuity.md#system-capture) y [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint); [Capítulo Nueve §5.4](core_09_standing_integration.md#54-special-violation-rules), sujeto a la excepción transitoria de alineación de incentivos del [Artículo XXVI-A](core_06_rights_part_d.md#incentive-alignment-transition-carve-out) (*Adopción por fases y continuidad del Piso de Derechos*) durante la transición constitucional.
+- Leer con: [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Auditabilidad](core_05_band_oversight.md#auditability), [Alineación de incentivos](core_05_band_integrative.md#incentive-alignment), [Represalia contra la denuncia protegida e interferencia de acceso](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference), [Captura del sistema](core_05_band_continuity.md#system-capture) y [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint); [Capítulo Nueve §5.4](core_09_standing_integration.md#54-special-violation-rules), sujeto a la excepción transitoria de alineación de incentivos del [Artículo XXVII-A](core_06_rights_part_d.md#incentive-alignment-transition-carve-out) (*Adopción por fases y continuidad del Piso de Derechos*) durante la transición constitucional.
 
 </details>
 
@@ -631,7 +631,7 @@ Lo siguiente son formas no exhaustivas de recompensa o protección en alcance do
 - remedio; o
 - atribución responsable.
 
-Donde sea proporcionado y lícito, las recompensas disputadas deben quedar sujetas a cualquiera de lo siguiente, preservando el debido proceso, los límites de dependencia de terceros y las salvaguardas del **Artículo XXIII** (*Resolución de conflictos, escalamiento y proporcionalidad de emergencia*):
+Donde sea proporcionado y lícito, las recompensas disputadas deben quedar sujetas a cualquiera de lo siguiente, preservando el debido proceso, los límites de dependencia de terceros y las salvaguardas del **Artículo XXIV** (*Resolución de conflictos, escalamiento y proporcionalidad de emergencia*):
 - suspensión;
 - segregación;
 - reintegro;
@@ -798,7 +798,7 @@ Enruta la evaluación del patrón nominado hacia los criterios de designación e
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origen: [§2](core_10_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) (*Conjunto de criterios*); [§3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Designación del Eje de Violación s = 7–9*); [§4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*Salvaguardas de debido proceso, remedio y prevención*); [Capítulo Ocho §7](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) (*impacto proporcional del Eje de Violación, incluida la pérdida ecológica o de infraestructura*).
-- Contexto de derechos y de sistemas: [Artículo III-A](core_06_rights_part_a.md#article-iii-a-survival) (*Supervivencia*), [Artículo IV-A](core_06_rights_part_a.md#article-iv-a-dependency-mapping-and-resource-flow-transparency) (*Mapeo de dependencias y transparencia de flujos de recursos*), [Artículo XII-A](core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) (*Línea de base de fiabilidad y confiabilidad*), [Artículo XV](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*Auditoría, transparencia y verificación independiente*), y controles adoptados de infraestructura, dependencia, fiabilidad y clasificación de [corpus_systems.md](../../corpus_systems.md) donde sean materialmente pertinentes.
+- Contexto de derechos y de sistemas: [Artículo III-A](core_06_rights_part_a.md#article-iii-a-survival) (*Supervivencia*), [Artículo IV-A](core_06_rights_part_a.md#article-iv-a-dependency-mapping-and-resource-flow-transparency) (*Mapeo de dependencias y transparencia de flujos de recursos*), [Artículo XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Línea de base de fiabilidad y confiabilidad*), [Artículo XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Auditoría, transparencia y verificación independiente*), y controles adoptados de infraestructura, dependencia, fiabilidad y clasificación de [corpus_systems.md](../../corpus_systems.md) donde sean materialmente pertinentes.
 - Patrones relacionados: [§5.1](#51-concentration-based-subversion-criteria-interaction) donde el control de infraestructura produce captura o abuso de dependencia; [§5.6](#56-unlawful-or-unconstitutional-command-conduct) donde la conducta es ordenada, automatizada o exigida técnicamente; [§5.8](#58-enforcement-refusal-suppression-or-non-prosecution-conduct) donde se suprime la rendición de cuentas por la conducta de infraestructura.
 - Enrutamiento temático (lectura conjunta obligatoria): [Capítulo Nueve §10.11](core_09_standing_integration.md#1011-infrastructure-denial-or-dependency-cutoff) (*enrutamiento de bloqueo de vía de la Pregunta 3 para denegación de infraestructura o corte de dependencia — solo bloqueos generales*).
 - Leer con: [Dependencia](core_05_band_continuity.md#dependency), [Falla en cascada](core_05_band_continuity.md#cascading-failure), [Seguridad (restricción)](core_05_band_continuity.md#safety-constraint), [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional), [Daño](core_05_band_accountability.md#harm), [Determinación de materialidad](core_05_band_oversight.md#materiality-determination) y [Captura del sistema](core_05_band_continuity.md#system-capture).
@@ -960,7 +960,7 @@ Enruta la evaluación del patrón nominado hacia los criterios de designación y
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origen: [Capítulo Nueve §5.5](core_09_standing_integration.md#55-special-locks) (*omisión de divulgación de foro e impacto del proceso de recusación*); [Artículo XXII-B](core_06_rights_part_c.md#article-xxii-b-composition-rotation-and-conflict-controls) (*recusación de foro Constitucional y enrutamiento de exigibilidad*); [corpus_forum.md](../../corpus_forum.md) **CF-4** (*formación de panel, divulgación, recusación y constitución lícita del panel*).
+- Origen: [Capítulo Nueve §5.5](core_09_standing_integration.md#55-special-locks) (*omisión de divulgación de foro e impacto del proceso de recusación*); [Artículo XXIII-B](core_06_rights_part_c.md#article-xxiii-b-composition-rotation-and-conflict-controls) (*recusación de foro Constitucional y enrutamiento de exigibilidad*); [corpus_forum.md](../../corpus_forum.md) **CF-4** (*formación de panel, divulgación, recusación y constitución lícita del panel*).
 - Enrutamiento de foro: [Capítulo Once §2](core_11_forum.md#2-default-venue-and-primary-stakes) (*liderazgo por defecto de Integridad*); [Capítulo Once §3](core_11_forum.md#3-transfer-consolidation-and-coordination) (*regla transforo contra autojuzgarse*).
 - Leer con: [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional), [Impugnabilidad](core_05_band_accountability.md#contestability), [Captura del sistema](core_05_band_continuity.md#system-capture) y [Familia de foros, constitucional](core_05_band_accountability.md#forum-family-constitutional).
 
@@ -997,7 +997,7 @@ Enruta la evaluación del patrón nominado hacia los criterios de designación y
   - el enrutamiento de respaldo; o
   - la impugnabilidad práctica.
 
-El patrón se agrava de forma especial donde el panelista se sienta en un **foro Constitucional** bajo el **Artículo XXII-B** (*Composición, rotación y controles de conflicto*), porque la conducta puede distorsionar cualquiera de lo siguiente — no meramente una disputa ordinaria de fondo:
+El patrón se agrava de forma especial donde el panelista se sienta en un **foro Constitucional** bajo el **Artículo XXIII-B** (*Composición, rotación y controles de conflicto*), porque la conducta puede distorsionar cualquiera de lo siguiente — no meramente una disputa ordinaria de fondo:
 - el significado constitucional;
 - la revisión de validez; o
 - el remedio estructural de clase entera.
@@ -1017,7 +1017,7 @@ Un foro **Constitucional** no debe ser el único foro final de fondo de su propi
 Esta subsección **no**:
 - añade un criterio adicional de designación más allá del conjunto de la **sección 2**;
 - convierte toda disputa de recusación en un asunto de Revisión de inconducta anticonstitucional; o
-- reubica la mecánica de formación de panel desde **CF-4**, el **Capítulo Once** o el **Artículo XXII-B** (*Composición, rotación y controles de conflicto*).
+- reubica la mecánica de formación de panel desde **CF-4**, el **Capítulo Once** o el **Artículo XXIII-B** (*Composición, rotación y controles de conflicto*).
 
 Enruta la evaluación del patrón nominado hacia los criterios de designación, las salvaguardas de debido proceso y el enrutamiento de **Integridad** primero de este capítulo y del **Capítulo Once**.
 

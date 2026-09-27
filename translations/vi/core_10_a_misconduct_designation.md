@@ -44,7 +44,7 @@
 > - **Chương Hai đến Bốn:** cung kỷ luật hồ sơ, lưu giữ, truy vết, và xác minh cho bằng chứng dùng ở đây.
 > - **Chương Một:** cung nguyên tắc liên quan thẩm quyền khẩn cấp, sự cần thiết, tập trung, và chiếm hệ thống.
 > - **Chương Mười Một:** cung định tuyến diễn đàn, định tuyến mặc định họ Toàn vẹn, chuyển, và kỷ luật chứng nhận.
-> - **Chương Sáu:** cung Sàn Quyền, yêu cầu chung **Điều XXIII-B** (*Hạn chế không tầm thường, hoàn trả, và ràng buộc trách nhiệm giải trình phục hồi*) và **Giam vì bạo lực**, kỷ luật rà soát **Điều XXIII-C** (*Quy tắc hạn chế nhẹ nhất và có hạn thời gian*), kỷ luật thời hạn biện pháp khắc phục **Điều XXIV-C** (*Giải quyết kịp thời và sàn chống trì hoãn*), và bảo vệ rà soát và công bố **Điều XXIII-A** (*Mục tiêu và phạm vi công lý*); **mục 4.1** ở đây chuyên biệt biện pháp khắc phục và sửa Chương Chín cho hành vi sai phản hiến pháp đã xác minh, **mục 4.2** chuyên biệt khóa phòng (kể cả giam nơi đòi), và **mục 4.3** chuyên biệt biểu đạt trách nhiệm giải trình công tự nguyện.
+> - **Chương Sáu:** cung Sàn Quyền, yêu cầu chung **Điều XXIV-B** (*Hạn chế không tầm thường, hoàn trả, và ràng buộc trách nhiệm giải trình phục hồi*) và **Giam vì bạo lực**, kỷ luật rà soát **Điều XXIV-C** (*Quy tắc hạn chế nhẹ nhất và có hạn thời gian*), kỷ luật thời hạn biện pháp khắc phục **Điều XXV-C** (*Giải quyết kịp thời và sàn chống trì hoãn*), và bảo vệ rà soát và công bố **Điều XXIV-A** (*Mục tiêu và phạm vi công lý*); **mục 4.1** ở đây chuyên biệt biện pháp khắc phục và sửa Chương Chín cho hành vi sai phản hiến pháp đã xác minh, **mục 4.2** chuyên biệt khóa phòng (kể cả giam nơi đòi), và **mục 4.3** chuyên biệt biểu đạt trách nhiệm giải trình công tự nguyện.
 > - **Chương Mười Hai:** cung hệ quả tính chính đáng quản trị gắn một chỉ định cuối Chương Mười.
 > - **Chương Mười Ba đến Mười Lăm:** cung quy tắc hiệu lực đường thay đổi, chuyển tiếp, thủ tục, và lưu giữ; chúng không ban chỉ định cuối Chương Mười.
 >
@@ -147,7 +147,7 @@ Chỉ **chương này** được ban chỉ định **hành vi sai phản hiến 
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: [§1](#1-decision-framework-scope-and-authority) (*Cách quyết định chỉ định vận hành*).
-- Thẩm quyền khẩn cấp: kỷ luật khẩn cấp và sự cần thiết [Chương Một](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [Điều XXIII-D: Biện pháp khẩn cấp và gánh tiếp tục](core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) nơi **tiêu chí 5** và **6** được đọc đối thẩm quyền khẩn cấp có biên.
+- Thẩm quyền khẩn cấp: kỷ luật khẩn cấp và sự cần thiết [Chương Một](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [Điều XXIV-D: Biện pháp khẩn cấp và gánh tiếp tục](core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden) nơi **tiêu chí 5** và **6** được đọc đối thẩm quyền khẩn cấp có biên.
 - Quyết định chỉ định hạ nguồn: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity).
 - Bảo vệ và kỷ luật hạ nguồn: [§4](#4-due-process-safeguards-for-slot-assignment).
 - Mục này: bộ tiêu chí chỉ định; quy tắc sự cố thống nhất; **ngoại lệ soạn thảo thiện chí** cho lỗi đổi hoặc hồ sơ tiêu chí 1–4 đã chữa.
@@ -198,8 +198,8 @@ Mẫu đủ điều kiện khi:
 2. **Làm giả hoặc dập biết:** làm giả biết, bỏ sót có trọng, hoặc thao túng bằng chứng/lưu giữ trong hồ sơ đề xuất, rà soát, tiếp nhận, công bố, **hoặc hồ sơ lưu giữ hay xác minh hiến pháp có trọng khác**.
 3. **Hiệu ứng thoái có trọng:** suy có trọng thật hoặc toan tính đối với bảo vệ hiến pháp, trực tiếp hoặc bằng vòng tránh cấu trúc tương đương.
 4. **Hành vi nhân quả đáng kể:** hành vi đóng góp có trọng vào hiệu ứng hiến pháp trái luật, sửa trì, quyền tranh biện bị chặn, hoặc suy Sàn Quyền.
-5. **Nổi dậy hoặc phá hoại cưỡng có trọng:** hành động **trái luật** có tổ chức hoặc có trọng dùng **lực**, **cưỡng**, hoặc **chiếm** để **lật**, **đình**, hoặc **thay** thẩm quyền hiến pháp vận hành của Hiến pháp này. Điều này loại hành vi được biện dưới **Chương Một** và **Điều XXIII-D** (*Biện pháp khẩn cấp và gánh tiếp tục*) hoặc thẩm quyền khẩn cấp có biên **Sự cần thiết** tương đương.
-6. **Vô hiệu hóa vận hành:** hành vi làm **quy trình** hoặc **biện pháp khắc phục** hiến pháp không dùng được thực tế. Điều này loại hành vi được biện dưới **Chương Một** và **Điều XXIII-D** (*Biện pháp khẩn cấp và gánh tiếp tục*) hoặc thẩm quyền khẩn cấp có biên **Sự cần thiết** tương đương.
+5. **Nổi dậy hoặc phá hoại cưỡng có trọng:** hành động **trái luật** có tổ chức hoặc có trọng dùng **lực**, **cưỡng**, hoặc **chiếm** để **lật**, **đình**, hoặc **thay** thẩm quyền hiến pháp vận hành của Hiến pháp này. Điều này loại hành vi được biện dưới **Chương Một** và **Điều XXIV-D** (*Biện pháp khẩn cấp và gánh tiếp tục*) hoặc thẩm quyền khẩn cấp có biên **Sự cần thiết** tương đương.
+6. **Vô hiệu hóa vận hành:** hành vi làm **quy trình** hoặc **biện pháp khắc phục** hiến pháp không dùng được thực tế. Điều này loại hành vi được biện dưới **Chương Một** và **Điều XXIV-D** (*Biện pháp khẩn cấp và gánh tiếp tục*) hoặc thẩm quyền khẩn cấp có biên **Sự cần thiết** tương đương.
 
 Không đếm cùng hành vi vừa **tiêu chí 5** vừa **tiêu chí 6** trừ khi mỗi cái có chứng minh độc lập riêng. Ví dụ, hồ sơ phải cho thấy hành vi cưỡng riêng và cách riêng làm quy trình hoặc biện pháp khắc phục không dùng được — không hai nhãn cho một sự kiện không phân.
 
@@ -275,8 +275,8 @@ vì tác động nền đã là `s` = 9, không vì tính chất nào đó nâng
 - Thượng nguồn: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Chỉ định Trục Vi phạm s = 7–9*); [§2](#2-criteria-set-for-slot-assignment) (*Bộ tiêu chí*), kể cả **ngoại lệ soạn thảo thiện chí**.
 - Ứng dụng mẫu: [§5.3](core_10_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) (*Làm ngập vùng*); [§5.4](core_10_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding) (*Làm ngập vùng không gian thông tin*); [§5.5](core_10_b_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (*Hối lộ và đổi lợi ích bất chính*); [§5.6](core_10_b_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct) (*Hành vi lệnh trái luật hoặc trái hiến pháp*); [§5.7](core_10_b_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct) (*Thưởng, bảo vệ, hoặc bình thường hóa hành vi phản hiến pháp*); [§5.8](core_10_b_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct) (*Hành vi từ chối cưỡng chế, dập, hoặc không truy*); [§5.9](core_10_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct) (*Hành vi từ chối, phá, hoặc cắt phụ thuộc hạ tầng*); [§5.10](core_10_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*Thất rút lui diễn đàn và tham gia ban thiên vị*); [§5.11](core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) (*Cản trở trách nhiệm giải trình*).
 - Hạ nguồn: [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*Biện pháp khắc phục và sửa (phản hiến pháp)*); [§4.2](#4-2-prevention-anti-constitutional-locks) (*Phòng — khóa phản hiến pháp*); [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Biểu đạt trách nhiệm giải trình công tự nguyện (phản hiến pháp)*).
-- Kỷ luật diễn đàn: [Chương Mười Một §2](core_11_forum.md#2-default-venue-and-primary-stakes) đến [§5](core_11_forum.md#5-escalation-and-certification) phủ dẫn Toàn vẹn mặc định, áp thủ tục đúng đắn theo họ diễn đàn, chuyển, và chứng nhận. Đọc **mục 4** cùng **Điều XXIII** (*Giải quyết xung đột, leo thang, và tính tương xứng khẩn cấp*) ở **Chương Sáu**.
-- Đọc cùng: [Điều XXIII-A: Mục tiêu và phạm vi công lý](core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) cho bảo vệ rà soát và công bố; [Chương Hai đến Bốn](core_02_definition_structure.md) chuẩn truy vết cho công bố; [Chương Chín §4](core_09_standing_integration.md#4-violation-correction-and-prevention) (*Vi phạm, sửa, và phòng*) cho ngữ pháp biện pháp khắc phục → khóa → biểu đạt chung mà mục này chuyên biệt.
+- Kỷ luật diễn đàn: [Chương Mười Một §2](core_11_forum.md#2-default-venue-and-primary-stakes) đến [§5](core_11_forum.md#5-escalation-and-certification) phủ dẫn Toàn vẹn mặc định, áp thủ tục đúng đắn theo họ diễn đàn, chuyển, và chứng nhận. Đọc **mục 4** cùng **Điều XXIV** (*Giải quyết xung đột, leo thang, và tính tương xứng khẩn cấp*) ở **Chương Sáu**.
+- Đọc cùng: [Điều XXIV-A: Mục tiêu và phạm vi công lý](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) cho bảo vệ rà soát và công bố; [Chương Hai đến Bốn](core_02_definition_structure.md) chuẩn truy vết cho công bố; [Chương Chín §4](core_09_standing_integration.md#4-violation-correction-and-prevention) (*Vi phạm, sửa, và phòng*) cho ngữ pháp biện pháp khắc phục → khóa → biểu đạt chung mà mục này chuyên biệt.
 
 </details>
 
@@ -297,7 +297,7 @@ Sau chỉ định cuối dưới **mục 3** với những bảo vệ này đư�
 
 - Thượng nguồn: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Chỉ định Trục Vi phạm s = 7–9*); [§4](#4-due-process-safeguards-for-slot-assignment) (*Bảo vệ thủ tục đúng đắn, biện pháp khắc phục, và phòng*).
 - Hạ nguồn: [§4.2](#4-2-prevention-anti-constitutional-locks) (*Phòng — khóa phản hiến pháp*); [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Biểu đạt trách nhiệm giải trình công tự nguyện (phản hiến pháp)*); tích hợp hiệu ứng quỹ đạo và khóa quỹ đạo [Chương Chín](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration); định tuyến diễn đàn và chứng nhận [Chương Mười Một](core_11_forum.md#chapter-eleven-forums-and-jurisdiction).
-- Đọc cùng: [Chương Chín §4.1](core_09_standing_integration.md#41-remedy-and-correction) (*Biện pháp khắc phục và sửa*); [Điều XXIII-A](core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*Mục tiêu và phạm vi công lý*); [Điều XXIII-B](core_06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*hoàn trả, khắc phục, phục hồi, và gán trách nhiệm*); [Điều XXIII-C](core_06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) (*thời hạn, rà soát, và khôi phục*); [Điều XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*giải quyết kịp thời và khởi biện pháp khắc phục*).
+- Đọc cùng: [Chương Chín §4.1](core_09_standing_integration.md#41-remedy-and-correction) (*Biện pháp khắc phục và sửa*); [Điều XXIV-A](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*Mục tiêu và phạm vi công lý*); [Điều XXIV-B](core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*hoàn trả, khắc phục, phục hồi, và gán trách nhiệm*); [Điều XXIV-C](core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule) (*thời hạn, rà soát, và khôi phục*); [Điều XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*giải quyết kịp thời và khởi biện pháp khắc phục*).
 
 </details>
 
@@ -341,7 +341,7 @@ Sửa nguyên nhân không hủy bổn phận sửa chữa những người bị
   - hại có trọng, mất quyền, mất biện pháp khắc phục, hại phụ thuộc, suy bằng chứng, hoặc vô hiệu hóa quy trình do sự cố thống nhất gây hoặc đóng góp có trọng;
   - hoàn trả, bồi thường, khôi phục, sửa, thu hồi hoặc clawback nơi hợp pháp, bảo đảm thay nơi sửa chữ không thể, và khắc phục hệ thống nơi hại là theo lớp hoặc cấu trúc;
   - tác nhân, vai, thể chế, hệ thống, quỹ, người kế, hoặc thân phối hợp chịu trách nhiệm phải mang hoặc tài trợ mỗi biện pháp khắc phục;
-  - hạn khởi, mốc hoàn tất, yêu cầu xác minh, và cò rà soát dưới **Điều XXIV-C** (*Giải quyết kịp thời và sàn chống trì hoãn*);
+  - hạn khởi, mốc hoàn tất, yêu cầu xác minh, và cò rà soát dưới **Điều XXV-C** (*Giải quyết kịp thời và sàn chống trì hoãn*);
   - ai giám sát theo dõi và điều gì xảy ra nếu trì.
 - **Ưu tiên và bảo vệ tạm:**
   - Đặt bên bị ảnh hưởng và khôi phục thực tiễn trước — trước sửa danh tiếng, tiện thể chế, hoặc thứ tự hành chính thường.
@@ -371,7 +371,7 @@ Sửa nguyên nhân không hủy bổn phận sửa chữa những người bị
 
 - Thượng nguồn: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Chỉ định Trục Vi phạm s = 7–9*); [§4](#4-due-process-safeguards-for-slot-assignment) (*Bảo vệ thủ tục đúng đắn, biện pháp khắc phục, và phòng*); [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*Biện pháp khắc phục và sửa (phản hiến pháp)*).
 - Hạ nguồn: [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Biểu đạt trách nhiệm giải trình công tự nguyện (phản hiến pháp)*); [Chương Chín §5.5](core_09_standing_integration.md#55-special-locks) (*Khóa Tin cậy Phản Hiến pháp*).
-- Đọc cùng: [Chương Chín §4.2](core_09_standing_integration.md#42-general-standing-locks) (*Phòng — khóa quỹ đạo chung*); [Chương Chín §5.1](core_09_standing_integration.md#51-definition-and-attachment) (*Định nghĩa và gắn*); [Chương Chín §5.4](core_09_standing_integration.md#54-special-violation-rules) (*Bảo đảm cưỡng hoặc hạn chế tự do*); [Điều XXIII-B](core_06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*yêu cầu chung và **Giam vì bạo lực***); [Điều XXIII-C](core_06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) (*kỷ luật thời hạn, rà soát, khôi phục, và tái đánh giá*).
+- Đọc cùng: [Chương Chín §4.2](core_09_standing_integration.md#42-general-standing-locks) (*Phòng — khóa quỹ đạo chung*); [Chương Chín §5.1](core_09_standing_integration.md#51-definition-and-attachment) (*Định nghĩa và gắn*); [Chương Chín §5.4](core_09_standing_integration.md#54-special-violation-rules) (*Bảo đảm cưỡng hoặc hạn chế tự do*); [Điều XXIV-B](core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*yêu cầu chung và **Giam vì bạo lực***); [Điều XXIV-C](core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule) (*kỷ luật thời hạn, rà soát, khôi phục, và tái đánh giá*).
 
 </details>
 
@@ -395,9 +395,9 @@ Sau chỉ định cuối dưới **mục 3** với bảo vệ **mục 4** đư�
   - **Mục 3** quyết liệu hành vi sai được xác minh và nghiêm đến đâu; tiểu mục này quyết liệu giam có đòi như bảo đảm hạn chế tự do.
   - Giam phải thỏa:
     - [Chương Chín §5.4](core_09_standing_integration.md#54-special-violation-rules) (*Bảo đảm cưỡng hoặc hạn chế tự do*);
-    - yêu cầu chung **Điều XXIII-B** (*Hạn chế không tầm thường, hoàn trả, và ràng buộc trách nhiệm giải trình phục hồi*);
+    - yêu cầu chung **Điều XXIV-B** (*Hạn chế không tầm thường, hoàn trả, và ràng buộc trách nhiệm giải trình phục hồi*);
     - gán cá nhân hóa, và bảo vệ tranh biện và kháng; và
-    - kỷ luật thời hạn, rà soát, khôi phục, và tái đánh giá **Điều XXIII-C** (*Quy tắc hạn chế nhẹ nhất và có hạn thời gian*) ở **Chương Sáu Phần D**.
+    - kỷ luật thời hạn, rà soát, khôi phục, và tái đánh giá **Điều XXIV-C** (*Quy tắc hạn chế nhẹ nhất và có hạn thời gian*) ở **Chương Sáu Phần D**.
   - Thay bằng tước sự sống, thả, đổi nhãn hành chính, hoặc biện pháp nhẹ hơn một mình khi tiểu mục này đòi giam là không tuân thủ.
 
 <a id="4-3-voluntary-public-accountability-expression"></a>
@@ -410,7 +410,7 @@ Sau chỉ định cuối dưới **mục 3** với bảo vệ **mục 4** đư�
 
 - Thượng nguồn: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Chỉ định Trục Vi phạm s = 7–9*); [§4](#4-due-process-safeguards-for-slot-assignment) (*Bảo vệ thủ tục đúng đắn, biện pháp khắc phục, và phòng*); [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*Biện pháp khắc phục và sửa (phản hiến pháp)*); [§4.2](#4-2-prevention-anti-constitutional-locks) (*Phòng — khóa phản hiến pháp*).
 - Hạ nguồn: [§5](core_10_b_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing) (*Ứng dụng mẫu và định tuyến tiêu chí*).
-- Đọc cùng: [Chương Chín §4.3](core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Biểu đạt trách nhiệm giải trình công tự nguyện*); [Điều XXIII-B](core_06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*yêu cầu chung*); [Điều XXIV-B](core_06_rights_part_d.md#article-xxiv-b-rights-collision-procedure-and-restorative-alignment) (*thủ tục va chạm quyền và thẳng hàng phục hồi*).
+- Đọc cùng: [Chương Chín §4.3](core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*Biểu đạt trách nhiệm giải trình công tự nguyện*); [Điều XXIV-B](core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*yêu cầu chung*); [Điều XXV-B](core_06_rights_part_d.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment) (*thủ tục va chạm quyền và thẳng hàng phục hồi*).
 
 </details>
 
@@ -422,7 +422,7 @@ Sau chỉ định cuối dưới **mục 3** với bảo vệ **mục 4** đư�
 
 - **Biểu đạt trách nhiệm giải trình công tự nguyện:** Các bên chịu trách nhiệm trên đường dẫn phục hồi cho hành vi sai phản hiến pháp đã xác minh có thể tự nguyện chọn thừa nhận hoặc xin lỗi công như một hành vi trách nhiệm giải trình bổ sung nơi nó nâng sửa chữa, khôi phục tin, hoặc chữa cộng đồng, chịu kiểm soát tự nguyện, xác thực, không suy, và không thay của Chương Chín §4.3.
 - **Biểu đạt không xác thực hoặc lạm dụng:** Thừa nhận hoặc xin lỗi công về vật chất không thành thật, thao túng, trình diễn mà không trách nhiệm giải trình thật, hoặc lạm dụng đối với các bên bị ảnh hưởng hay công chúng không thỏa yêu cầu phục hồi.
-  - Nó có thể mang hệ quả công lý tiêu cực cho bên chịu trách nhiệm — kể cả phát hiện hành vi sai thêm dưới **mục 3**, tín phục hồi giảm, và hạn chế hợp pháp khác dưới **Điều XXIII-B** (*Hạn chế không tầm thường, hoàn trả, và ràng buộc trách nhiệm giải trình phục hồi*) và **Chương Tám**.
+  - Nó có thể mang hệ quả công lý tiêu cực cho bên chịu trách nhiệm — kể cả phát hiện hành vi sai thêm dưới **mục 3**, tín phục hồi giảm, và hạn chế hợp pháp khác dưới **Điều XXIV-B** (*Hạn chế không tầm thường, hoàn trả, và ràng buộc trách nhiệm giải trình phục hồi*) và **Chương Tám**.
   - Coi một lời xin lỗi giả hoặc lạm dụng là sửa đủ, hoặc dùng nó để tránh bảo vệ hoặc khắc phục cần dưới **mục 4.1** hoặc khóa dưới **mục 4.2**, là không tuân thủ.
 - Từ chối tham gia biểu đạt công không được, tự nó, tăng chế tài sàn hay nới **Khóa Tin cậy Phản Hiến pháp**.
 

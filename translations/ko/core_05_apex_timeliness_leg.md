@@ -21,7 +21,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [제5장 나침반](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) (적시성 다리; [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절); [두 헌법 목적](core_00_preamble.md#two-constitutional-aims); 일차 목적 [번영](core_00_preamble.md#flourishing).
-- 하류: [제때 해결](../../core_05_band_accountability.md#timely-resolution-constitutional) (*적시성 다리를 해결 경로에 대해 시행한다*); **제 XXIV-C조** (*제때 해결과 지연 금지 바닥*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [사원(四元) 다리 분해](#timeliness-tetrad-leg-decomposition); [core_05_band_accountability.md](../../core_05_band_accountability.md)의 적시성 시행 잎 정의.
+- 하류: [제때 해결](../../core_05_band_accountability.md#timely-resolution-constitutional) (*적시성 다리를 해결 경로에 대해 시행한다*); **제 XXV-C조** (*제때 해결과 지연 금지 바닥*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [사원(四元) 다리 분해](#timeliness-tetrad-leg-decomposition); [core_05_band_accountability.md](../../core_05_band_accountability.md)의 적시성 시행 잎 정의.
 - 함께 읽기: [해결 경로의 포획](../../core_05_band_accountability.md#capture-of-resolution-pathways), [책무](core_05_apex_accountability_leg.md#accountability), [헌법 효율](../../core_05_band_continuity.md#constitutional-efficiency), [피할 수 있는 부담](../../core_05_band_continuity.md#avoidable-burden), [책임 있는 관리 결함](../../core_05_band_continuity.md#stewardship-defect-constitutional), [검토와 교정 의무](../../core_05_band_continuity.md#review-and-correction-duty-constitutional), 그리고 [책임 있는 관리](../../core_05_band_continuity.md#stewardship-constitutional).
 
 </details>

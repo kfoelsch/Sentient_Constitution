@@ -43,25 +43,25 @@ If a body that actually runs the systems in your life adopted this Constitution:
 - **Today:** The usable path is for someone who already has a quiet room, a fee, and a form that matches the office. Delay and paperwork do the refusing.
 - **With this Constitution:** Equal educational access is a basic protection. Shutting you out with delay or paperwork instead of a straight no is a failure of that floor.
 
-See: [Article III-B](../../../core_06_rights_part_a.md#article-iii-b-equal-educational-access).
+See: [Article IV-A](../../../core_06_rights_part_a.md#article-iv-a-equal-educational-access).
 
 **School is supposed to build what you can actually do.**
 - **Today:** The ranking exam, the learning app, or the “placement” cannot be inspected. Credential theater leaves you unable to steer later work or shared systems.
 - **With this Constitution:** Capability-building education, including later training, and a real way to challenge high-stakes learning systems, are part of the floor — not a popularity score.
 
-See: [Article VI](../../../core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education); [Article VI-A](../../../core_06_rights_part_b.md#article-vi-a-capability-building-education-right).
+See: [Article IV](../../../core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education); [Article IV-B](../../../core_06_rights_part_a.md#article-iv-b-capability-building-education-right).
 
 **Enrollment is not a lever on your clinician or your speech.**
 - **Today:** Keep enrollment only if you drop the clinician, stay quiet, or accept unpaid hours dressed as “experience.”
 - **With this Constitution:** Family, school, or program relationship is not authority over your body and mind. A challenge to a high-stakes ranking is supposed to be possible without losing enrollment as punishment.
 
-See: [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind); [Article V-H](../../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press); [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress).
+See: [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body); [Article XI-B](../../../core_06_rights_part_b.md#article-xi-b-expression); [Article XIII-B](../../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress).
 
 **Unpaid “experience” can still be work.**
 - **Today:** The internship is required to finish. There is no pay, no rest, no safety talk. Refusing is treated as dropping out.
 - **With this Constitution:** Anyone who contributes productive work holds fair compensation, rest, and safe conditions. A school label does not, by itself, make that disappear.
 
-See: [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor).
+See: [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor).
 
 ## What you might reasonably object to
 
@@ -69,7 +69,7 @@ See: [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-e
 
 - **“I want this campus / this major / this ranking.”** A preferred course or campus is often a preference, not a floor. Equal access and a high-stakes system that can be challenged are the honest gain. This text will not invent a winner among two students’ preferences.
 
-- **“I’m an adult. Don’t use the child page on me.”** You do not have to take a teen or child label to use this page. This brief is for someone whose school, training, or credential is being used as a lever. It does not change the Rights Floor that applies to you. When what you may do yourself is actually at stake, those rules are located in the section on [Article V-F](../../../core_06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability).
+- **“I’m an adult. Don’t use the child page on me.”** You do not have to take a teen or child label to use this page. This brief is for someone whose school, training, or credential is being used as a lever. It does not change the Rights Floor that applies to you. When what you may do yourself is actually at stake, those rules are located in the section on [Article VIII-D](../../../core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability).
 
 - **“This isn’t education law at my school.”** Correct until a qualifying body adopts it. It does not override applicable education or labor law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 

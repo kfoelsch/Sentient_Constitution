@@ -32,7 +32,7 @@
 *平たい言葉で言えば：第七章は二つに分かれている — A部は評価の仕方、B部は記録と過程。一つの章として読め。*
 
 評価要件はまず**A部**を読め；記録、フォーラム過程、軌跡の橋は**B部**。
-四元の**監督**脚のもとで、監督は監査を求める；第七章は、他の監査過程のなかでも特に大きく、高い実質的利害をもつ監査過程である（承認の帰結を伴うフォーラム監督の整合審査）。監査の床は**Article XV**および第五章の[監査可能性](core_05_band_oversight.md#auditability)に残る。
+四元の**監督**脚のもとで、監督は監査を求める；第七章は、他の監査過程のなかでも特に大きく、高い実質的利害をもつ監査過程である（承認の帰結を伴うフォーラム監督の整合審査）。監査の床は**Article XVI**および第五章の[監査可能性](core_05_band_oversight.md#auditability)に残る。
 - [第七章、A部 — 評価](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
 - [第七章、B部 — 記録と過程](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process)
 ---

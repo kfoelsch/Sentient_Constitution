@@ -140,7 +140,7 @@ class NestedListCandidateTests(unittest.TestCase):
         text = """#### Good Faith
 
 - **What it is**
-  - **In scope:** Honest purpose in the constitutional settings where Good Faith is required, including publication under Article VIII, participation in audits, and cooperation with Oversight when disclosure duties apply. It means sincerely trying to align conduct with stated facts, applicable rules, and epistemic integrity.
+  - **In scope:** Honest purpose in the constitutional settings where Good Faith is required, including publication under Article IX, participation in audits, and cooperation with Oversight when disclosure duties apply. It means sincerely trying to align conduct with stated facts, applicable rules, and epistemic integrity.
 """
         hits = scan_text(text)
         self.assertEqual(len(hits), 1)
@@ -210,7 +210,7 @@ class NestedListCandidateTests(unittest.TestCase):
         self.assertEqual(scan_text(text, chapter=6), [])
 
     def test_ch6_covers_list_is_flagged(self) -> None:
-        text = """#### Article III-C: Health
+        text = """#### Article III-B: Health
 
 - The floor covers preventive, acute, chronic, and maintenance care, including mental-health care, dental care, and reproductive care.
 """
@@ -219,7 +219,7 @@ class NestedListCandidateTests(unittest.TestCase):
         self.assertIn("including-list", hits[0].kinds)
 
     def test_ch6_includes_semicolon_list_is_flagged(self) -> None:
-        text = """#### Article VI: Expression
+        text = """#### Article IV: Expression
 
 - Assembly includes forming, joining, and sustaining associations; conducting meetings; and coordinated action consistent with Non-Imposition.
 """
@@ -229,14 +229,14 @@ class NestedListCandidateTests(unittest.TestCase):
         self.assertTrue(any(k.startswith("semicolons:") for k in hits[0].kinds))
 
     def test_ch6_tetrad_short_including_is_skipped(self) -> None:
-        text = """### Article VI: Education
+        text = """### Article IV: Education
 
 - **Flourishing:** sentients retain practical access to learning, including problem-solving, literacy, and civic skills.
 """
         self.assertEqual(scan_text(text, chapter=6), [])
 
     def test_ch6_unlabeled_words_only_is_skipped(self) -> None:
-        text = """#### Article XIII: Security
+        text = """#### Article XIV: Security
 
 - This paragraph states a single continuous argument about institutional power, covert intelligence, force, and autonomous coercive systems without packing a parallel checklist of distinct tests into the line.
 """
@@ -248,7 +248,7 @@ class NestedListCandidateTests(unittest.TestCase):
     def test_ch6_long_labeled_is_flagged(self) -> None:
         text = """#### Article V-E: Sentience-Status Adjudication Floor
 
-- **Independent representation:** An entity whose status is under adjudication has the right to an independent representative — one with no material dependence on, ownership interest in, or employment by the parent system, operator, or any party seeking to withhold or narrow protection — appointed by the merits forum once the case is open, with access to the entity within Internal-State Boundary and Type-N Protection, a duty to present the entity's interests and any preferences it can express, and standing to contest narrowing, revocation, or intake decline. The parent system or operator may give evidence and must preserve and produce records, but may not be the sole filer, sole witness, or sole source of indicator evidence on a request to withhold, narrow, or revoke.
+- **Independent representation:** An entity whose status is under adjudication has the right to an independent representative — one with no material dependence on, ownership interest in, or employment by the parent system, operator, or any party seeking to withhold or narrow protection — appointed by the merits forum once the case is open, with access to the entity within Self-Ownership of Mind, a duty to present the entity's interests and any preferences it can express, and standing to contest narrowing, revocation, or intake decline. The parent system or operator may give evidence and must preserve and produce records, but may not be the sole filer, sole witness, or sole source of indicator evidence on a request to withhold, narrow, or revoke.
 """
         hits = scan_text(text, chapter=6)
         self.assertEqual(len(hits), 1)
@@ -559,7 +559,7 @@ class NestedListCandidateTests(unittest.TestCase):
         text = """#### 4.2 Records, gates, and method neutrality
 
 - **Binding-effect gate:** No materially high-impact collective choice is binding unless:
-  - **Article XI-A** legitimacy gates are satisfied;
+  - **Article XII-A** legitimacy gates are satisfied;
   - **dissent** and **alternative** recording duties are satisfied; and
   - **contest** pathways are satisfied.
 """

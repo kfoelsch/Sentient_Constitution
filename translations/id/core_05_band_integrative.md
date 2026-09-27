@@ -102,7 +102,7 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hilir: Prinsip: [Pembukaan §3.3 disiplin lapisan tata kelola](core_00_preamble.md#33-governance-layers); [Bab Satu §5 Kebebasan](core_01_a_values_principles.md#5-freedom-bounded-agency).
-- Lantai pemilik: [Bab Dua Belas: Kontrak Konstitusional, Keabsahan, Izin, dan Pengelolaan Bertanggung Jawab](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); [Pasal IX-C: Partisipasi Tata Kelola dan Hak Suara](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
+- Lantai pemilik: [Bab Dua Belas: Kontrak Konstitusional, Keabsahan, Izin, dan Pengelolaan Bertanggung Jawab](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); [Pasal X-C: Partisipasi Tata Kelola dan Hak Suara](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - Komponen klaster: [*Lapisan Kontrak Konstitusional dan Pilihan konstitusional fondasional*](core_05_band_integrative.md#constitutional-contract-layer)
 - Baca bersama: [Pilihan konstitusional fondasional](core_05_band_integrative.md#foundational-constitutional-choice), [Pilihan mengikat pihak terdampak](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Status dan bobot pihak terdampak](core_05_band_participation.md#stakeholder-status-and-weight-cluster), [Tata kelola](core_05_band_accountability.md#governance).
 - Lapisan: **Lapisan Kontrak Konstitusional (CCL)** — siapa boleh memerintah, dengan mekanisme keabsahan apa, di bawah syarat tahan apa. Berbeda dari **Partisipasi Sistemik Pihak Terdampak (SSP)**.
@@ -123,7 +123,7 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
     - [Pilihan konstitusional fondasional](core_05_band_integrative.md#foundational-constitutional-choice);
     - [mekanisme keabsahan terdokumentasi](../../core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority) di bawah [Bab Dua Belas §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism);
     - aturan [adopsi](../../core_16_amendment_ratification.md#10-ratification-and-adoption) dan [izin ulang](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) ([Bab Dua Belas §1.3](../../core_13_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails); [Bab Enam Belas §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)); dan
-    - [lantai kesetaraan politik](../../core_13_governance.md#41-entitlement-and-eligibility) untuk membentuk atau merestrukturisasi secara tahan kewenangan memerintah — makhluk sadar yang berhak punya suara setara pada lapisan itu ([Pasal IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)).
+    - [lantai kesetaraan politik](../../core_13_governance.md#41-entitlement-and-eligibility) untuk membentuk atau merestrukturisasi secara tahan kewenangan memerintah — makhluk sadar yang berhak punya suara setara pada lapisan itu ([Pasal X-C](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)).
   - **Di luar cakupan:**
     - konsultasi pihak terdampak biasa;
     - partisipasi operasional;
@@ -131,7 +131,7 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
     - tata kelola ranah biasa setelah struktur dan proses sudah diizinkan; dan
     - [Bobot pihak terdampak](core_05_band_participation.md#stakeholder-weight) biasa — memberi lebih banyak suara kepada yang lebih terdampak — yang dipakai untuk menetapkan suara pendirian atau izin ulang ([Pembukaan §3.3 disiplin lapisan tata kelola](core_00_preamble.md#33-governance-layers)).
   - **Rumah operatif:** [Bab Dua Belas](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) menyatakan aturan izin, keabsahan, dan pengelolaan bertanggung jawab yang mengikat bagi lapisan ini.
-  - **Lantai Hak:** [Pasal IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement) (*Partisipasi Tata Kelola dan Hak Suara*) menyatakan hak partisipasi setara yang tidak boleh dipersempit aturan Bab Dua Belas itu.
+  - **Lantai Hak:** [Pasal X-C](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Partisipasi Tata Kelola dan Hak Suara*) menyatakan hak partisipasi setara yang tidak boleh dipersempit aturan Bab Dua Belas itu.
 <a id="constitutional-contract-layer-a"></a>
 - **Cara mengukur dan menilai**
   - **Ukuran primer:** [Keluarga pengukuran Pertanggungjawaban](core_05_apex_accountability_leg.md#accountability-measurement-family) — *Apakah struktur imbalan, kuasa pasar, dan kewajiban menjawab menjaga kewajiban tetap nyata?* Pakai di sini untuk menanyakan apakah kuasa memerintah yang diklaim bertumpu pada Kontrak Konstitusional yang nyata — keabsahan terdokumentasi, suara pendirian setara, dan syarat tahan yang tetap selaras dengan Konstitusi ini — bukan ukuran, popularitas, atau jangkauan pasar semata.
@@ -158,7 +158,7 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hilir: Prinsip: [Bab Satu §5 Kebebasan](core_01_a_values_principles.md#5-freedom-bounded-agency); [6. Penyelesaian Konflik Proses](#6-process-conflict-resolution).
-- Lantai pemilik: [Bab Dua Belas Bab Satu §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*Lantai kesetaraan politik bagi pilihan konstitusional fondasional*; *Lantai suara politik tahan*); [Pasal IX-C: Partisipasi Tata Kelola dan Hak Suara](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
+- Lantai pemilik: [Bab Dua Belas Bab Satu §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*Lantai kesetaraan politik bagi pilihan konstitusional fondasional*; *Lantai suara politik tahan*); [Pasal X-C: Partisipasi Tata Kelola dan Hak Suara](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - Komponen klaster: [*Lapisan Kontrak Konstitusional dan Pilihan konstitusional fondasional*](core_05_band_integrative.md#constitutional-contract-layer)
 - Baca bersama: [Lapisan Kontrak Konstitusional](core_05_band_integrative.md#constitutional-contract-layer), [Batas perwakilan dan bobot pihak terdampak (pilihan mengikat pihak terdampak)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), [Pilihan mengikat pihak terdampak](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Keadilan prosedural](core_05_band_participation.md#procedural-fairness-constitutional).
 - Lapisan: **Lapisan Kontrak Konstitusional (CCL)**. Berbeda dari **Partisipasi Sistemik Pihak Terdampak (SSP)** di dalam sistem yang sudah diizinkan.
@@ -177,10 +177,10 @@ Pita ini memegang definisi silang-kaki **Integratif** — istilah yang harus dip
 
     Ini milik [Lapisan Kontrak Konstitusional](core_05_band_integrative.md#constitutional-contract-layer).
     - Pemilik: [Bab Dua Belas Bab Satu §4.1](../../core_13_governance.md#41-entitlement-and-eligibility).
-    - Penunjuk lapisan hak: [Pasal IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement) (*Partisipasi Tata Kelola dan Hak Suara*).
+    - Penunjuk lapisan hak: [Pasal X-C](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Partisipasi Tata Kelola dan Hak Suara*).
     - Berlaku di bawah [Non-pengecualian kesadaran](core_05_band_participation.md#sentience-non-exclusion).
   - **Di luar cakupan:**
-    - keputusan pihak terdampak biasa yang berbobot-dampak setelah suatu ranah sudah punya struktur dan proses memerintah yang diizinkan — makhluk sadar yang terdampak mendapat suara yang diskalakan ke seberapa besar mereka terdampak lewat identifikasi [Pihak terdampak](core_05_band_participation.md#stakeholder) dan [Bobot pihak terdampak](core_05_band_participation.md#stakeholder-weight) (termasuk batasan **Pasal XI** (*Partisipasi Sistemik Pihak Terdampak, Perwakilan, dan Proses yang Semestinya*)), bukan lewat aturan hitung pendirian berbobot-setara; dan
+    - keputusan pihak terdampak biasa yang berbobot-dampak setelah suatu ranah sudah punya struktur dan proses memerintah yang diizinkan — makhluk sadar yang terdampak mendapat suara yang diskalakan ke seberapa besar mereka terdampak lewat identifikasi [Pihak terdampak](core_05_band_participation.md#stakeholder) dan [Bobot pihak terdampak](core_05_band_participation.md#stakeholder-weight) (termasuk batasan **Pasal XII** (*Partisipasi Sistemik Pihak Terdampak, Perwakilan, dan Proses yang Semestinya*)), bukan lewat aturan hitung pendirian berbobot-setara; dan
     - pilihan operasional atau kebijakan rutin yang tidak mengizinkan atau merestrukturisasi secara tahan wewenang itu.
 <a id="foundational-constitutional-choice-a"></a>
 <a id="foundational-collective-choice-constitutional-a"></a>

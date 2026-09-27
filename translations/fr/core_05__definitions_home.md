@@ -260,7 +260,7 @@ Ce répertoire énumère **Définitions A-Z** et **Groupes A-Z** séparément. C
 - [Caractéristiques protégées](../../core_05_band_participation.md#protected-characteristics-constitutional)
 - [Contrainte de publication des données protégées et de l’état interne](../../core_05_band_oversight.md#protected-data-and-internal-state-publication-constraint)
 - [Frontière de l’état interne protégé](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional)
-- [Filtrage des signaux intimes protégés et contournement du statut de l’**article X-C** (*Services sexuels commerciaux consentis entre adultes et exploitation sexuelle*)](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention)
+- [Filtrage des signaux intimes protégés et contournement du statut de l’**article XI-C** (*Services sexuels commerciaux consentis entre adultes et exploitation sexuelle*)](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention)
 - [Signalement protégé (alerte)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
 - [Représailles contre le signalement protégé et interférence d’accès](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)
 - [Divergence d’indicateurs substituts](../../core_05_band_oversight.md#proxy-divergence)

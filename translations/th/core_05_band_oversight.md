@@ -184,7 +184,7 @@
     - การปกป้องแหล่ง;
     - การสอบสวน; และ
     - การเผยแพร่
-    ผู้มีความรู้สึกที่ทำงานนั้นใช้พื้นสิทธิ [การแสดงออก](core_05_band_participation.md#expression-constitutional) และ [การชุมนุม](core_05_band_participation.md#assembly-constitutional) พร้อมการคุ้มครองการตรวจที่สูงขึ้นภายใต้ [มาตรา V-H](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*การแสดงออก การชุมนุม และสื่อ*) ต่อการกระทำของรัฐและผู้ดำเนินงานที่ตั้งใจทำร้ายกิจกรรมนั้น
+    ผู้มีความรู้สึกที่ทำงานนั้นใช้พื้นสิทธิ [การแสดงออก](core_05_band_participation.md#expression-constitutional) และ [การชุมนุม](core_05_band_participation.md#assembly-constitutional) พร้อมการคุ้มครองการตรวจที่สูงขึ้นภายใต้ [มาตรา V-H](../../core_06_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*การแสดงออก การชุมนุม และสื่อ*) ต่อการกระทำของรัฐและผู้ดำเนินงานที่ตั้งใจทำร้ายกิจกรรมนั้น
   - **นอกขอบเขต:** ใบรับรองสื่อ ตำแหน่งสถาบัน หรือการพูดเชิงพาณิชย์ธรรมดาที่ไม่ได้เป็นการเก็บข่าว การสอบสวน หรือการเผยแพร่ที่ทำงานเป็นการวารสารศาสตร์
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **วิธีวัดและประเมิน**
@@ -195,11 +195,11 @@
     - การปกป้องแหล่ง;
     - การสอบสวน; หรือ
     - การเผยแพร่ที่รับใช้สภาพแวดล้อมข้อมูล
-    หาการกระทำที่ทำร้ายสื่อด้วยผลลัพธ์จริง ปฏิบัติต่อลักษณะที่มุ่งสื่อว่าเป็นปัจจัยทำให้เลวภายใต้ **มาตรา XIII-A** (*ความมั่นคง การสอดแนม เขตอำนาจโดยปริยาย*) และ **มาตรา V-H** (*การแสดงออก การชุมนุม และสื่อ*) ใช้การตรวจ [ความจำเป็น](core_05_band_accountability.md#necessity) และ [สัดส่วน](core_05_band_accountability.md#proportionality) ที่สูงขึ้น และคงขีดจำกัดใดให้แคบ
+    หาการกระทำที่ทำร้ายสื่อด้วยผลลัพธ์จริง ปฏิบัติต่อลักษณะที่มุ่งสื่อว่าเป็นปัจจัยทำให้เลวภายใต้ **มาตรา XIV-A** (*ความมั่นคง การสอดแนม เขตอำนาจโดยปริยาย*) และ **มาตรา V-H** (*การแสดงออก การชุมนุม และสื่อ*) ใช้การตรวจ [ความจำเป็น](core_05_band_accountability.md#necessity) และ [สัดส่วน](core_05_band_accountability.md#proportionality) ที่สูงขึ้น และคงขีดจำกัดใดให้แคบ
 <a id="press-and-journalistic-activity-constitutional-c"></a>
 - **สิ่งที่ต้องคงอยู่**
   - **ความล้มเหลวหลัก:** การกระทำของรัฐหรือผู้ดำเนินงานที่ตั้งใจทำร้ายกิจกรรมวารสารศาสตร์ไม่ผ่านการวิเคราะห์ขีดจำกัดการตรวจที่สูงขึ้น;
-  - **ความล้มเหลวรอง:** ยืด [ความสุจริตใจ](core_05_band_accountability.md#good-faith) หรือ **มาตรา VIII-C** (*การเปิดเผยที่จริงและขีดจำกัดการเปิดเผยที่มีผลกระทบสูง*) จนมาตรฐานเหล่านั้นปิดกั้นรายงานวิจารณ์ที่ชอบ การเปิดเผยสอบสวน หรือความเห็นต่าง;
+  - **ความล้มเหลวรอง:** ยืด [ความสุจริตใจ](core_05_band_accountability.md#good-faith) หรือ **มาตรา IX-C** (*การเปิดเผยที่จริงและขีดจำกัดการเปิดเผยที่มีผลกระทบสูง*) จนมาตรฐานเหล่านั้นปิดกั้นรายงานวิจารณ์ที่ชอบ การเปิดเผยสอบสวน หรือความเห็นต่าง;
   - **ความล้มเหลวลำดับสาม:** ใช้ใบรับรอง สถานะสถาบัน หรือการพูดเชิงพาณิชย์ธรรมดาเป็นการทดสอบวารสารศาสตร์ เมื่อไม่มีการเก็บข่าว การสอบสวน หรือการเผยแพร่ที่ทำงานเป็นการวารสารศาสตร์
 
 ---
@@ -662,7 +662,7 @@
 
 ในที่ที่ขอบเขตการรับเข้าถูกสนอง กลุ่มนี้เป็นบ้านร่วมของการเปิดเผย การตรวจ การยืนยัน (รวมความสามารถรับรู้นอก) และความลึกของประกัน เมื่อบทที่สองถึงสี่ขอหลักฐานที่ตามรอยและโต้แย้งได้ว่าสิ่งที่ระบบทำและข้อกล่าวอ้างปฏิบัติตามยังยืน
 
-**กรอบการกำกับดูแล.** ภายใต้ขา **การกำกับดูแล** ของ [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) การกำกับดูแลขอการตรวจ — การสร้างสิ่งที่เกิดใหม่ การยืนยันอิสระ และการได้การเข้าถึงการตรวจ — ซึ่งถูกกำกับที่นี่และใน **มาตรา XV** (*การตรวจ ความโปร่งใส และการยืนยันอิสระ*) [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) เป็นกระบวนการตรวจที่ใหญ่และมีส่วนได้เสียสูงเป็นพิเศษในบรรดาอื่น (การทบทวนความสอดคล้องการกำกับดูแลของเวทีที่ผลิตผลการรับเข้าภายใต้ [บทที่เจ็ด](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)); มันไม่กลืนกลุ่มนี้หรือแทนวิธีตรวจพี่น้อง
+**กรอบการกำกับดูแล.** ภายใต้ขา **การกำกับดูแล** ของ [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) การกำกับดูแลขอการตรวจ — การสร้างสิ่งที่เกิดใหม่ การยืนยันอิสระ และการได้การเข้าถึงการตรวจ — ซึ่งถูกกำกับที่นี่และใน **มาตรา XVI** (*การตรวจ ความโปร่งใส และการยืนยันอิสระ*) [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) เป็นกระบวนการตรวจที่ใหญ่และมีส่วนได้เสียสูงเป็นพิเศษในบรรดาอื่น (การทบทวนความสอดคล้องการกำกับดูแลของเวทีที่ผลิตผลการรับเข้าภายใต้ [บทที่เจ็ด](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)); มันไม่กลืนกลุ่มนี้หรือแทนวิธีตรวจพี่น้อง
 
 **ชั้นระบบและสัดส่วน.** หน้าที่ความโปร่งใส ความสามารถในการตรวจ และการยืนยันถูกปรับตามชั้นระบบภายใต้ **[corpus_systems.md](../../corpus_systems.md) CS-3 — การจำแนกและการปฏิบัติต่อระบบ** และตามผลกระทบที่เป็นสาระ การพึ่งพา ความเสี่ยง ระบบชั้นสูงกว่า (**Class A** **B** **C**) ต้องการมากกว่าชั้นต่ำกว่า (**Class L** **P**) รวม:
 - ประกันที่ลึกกว่า;
@@ -882,8 +882,8 @@
 
 - องค์ประกอบกลุ่ม: [Def.O1 *ความโปร่งใส ความสามารถในการตรวจ และการตรวจสอบ*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster)
 - อ่านคู่กับ: [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — ขา **การกำกับดูแล**; [ความรับผิดชอบ](core_05_apex_accountability_leg.md#accountability) [ความสามารถในการโต้แย้ง](core_05_band_accountability.md#contestability) [ความครบถ้วนของความรู้](core_05_band_oversight.md#epistemic-integrity) [ความโปร่งใส](core_05_band_oversight.md#transparency) [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#verifiability) [การรักษาหลักฐาน](core_05_band_oversight.md#evidence-preservation) และ [ข้อจำกัดความครบถ้วนของการประเมิน](core_05_band_oversight.md#evaluation-completeness-constraint)
-- อ่านคู่กับ: **มาตรา XV** (*การตรวจ ความโปร่งใส และการยืนยันอิสระ*); [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) (*หนึ่งกระบวนการตรวจที่ใหญ่เป็นพิเศษภายใต้การกำกับดูแล — ไม่ใช่บ้านตรวจเดียว*); [core_02_definition_structure.md](core_02_definition_structure.md) เครื่องชั้นกำกับของบทที่สองถึงสี่
-- ประตูการบริหารอย่างรับผิดชอบ (ไม่ใช่บทบัญญัติที่ใช้บังคับ): บทนิยามนี้เป็นชั้นคุณสมบัติของกองการตรวจ คำแถลงขั้นถัดไปที่มีผลผูกพัน: [คำแถลงการบริหารอย่างรับผิดชอบที่ใช้บังคับ (มาตรา XV)](../../core_06_rights_part_c.md#operative-steward-statement-audit) ภาพสามชั้น: [มาตรา XV](../../core_06_rights_part_c.md#audit-three-layers)
+- อ่านคู่กับ: **มาตรา XVI** (*การตรวจ ความโปร่งใส และการยืนยันอิสระ*); [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) (*หนึ่งกระบวนการตรวจที่ใหญ่เป็นพิเศษภายใต้การกำกับดูแล — ไม่ใช่บ้านตรวจเดียว*); [core_02_definition_structure.md](core_02_definition_structure.md) เครื่องชั้นกำกับของบทที่สองถึงสี่
+- ประตูการบริหารอย่างรับผิดชอบ (ไม่ใช่บทบัญญัติที่ใช้บังคับ): บทนิยามนี้เป็นชั้นคุณสมบัติของกองการตรวจ คำแถลงขั้นถัดไปที่มีผลผูกพัน: [คำแถลงการบริหารอย่างรับผิดชอบที่ใช้บังคับ (มาตรา XVI)](../../core_06_rights_part_c.md#operative-steward-statement-audit) ภาพสามชั้น: [มาตรา XVI](../../core_06_rights_part_c.md#audit-three-layers)
 
 </details>
 
@@ -1076,7 +1076,7 @@
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
 - องค์ประกอบกลุ่ม: [Def.O1 *ความโปร่งใส ความสามารถในการตรวจ และการตรวจสอบ*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster)
-- พื้นกำกับ: [มาตรา XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility) (*การเข้าถึงการตรวจสอบ*) สำหรับการเข้าถึงการยืนยันปฏิบัติ
+- พื้นกำกับ: [มาตรา XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility) (*การเข้าถึงการตรวจสอบ*) สำหรับการเข้าถึงการยืนยันปฏิบัติ
 - อ่านคู่กับ: [ความสามารถในการตรวจ](core_05_band_oversight.md#auditability) [ความโปร่งใส](core_05_band_oversight.md#transparency) [ความสามารถในการโต้แย้ง](core_05_band_accountability.md#contestability) [สัดส่วน](core_05_band_accountability.md#proportionality) [ความเป็นไปได้](core_05_band_accountability.md#feasibility) [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#truth-constitutional-constraint) และ [เงื่อนไขเชิงปรปักษ์ ที่ถูกขยายขนาด และที่ถูกแสวงหาประโยชน์](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions)
 
 </details>
@@ -1088,7 +1088,7 @@
 - **มันคืออะไร**
   - **ในขอบเขต:** ว่าความประพฤติ ผลผลิต และผลลัพธ์ของระบบถูกรับรู้ วัด และยืนยันอิสระจากนอกเพื่อ [ความสามารถในการตรวจ](core_05_band_oversight.md#auditability) เงื่อนไของค์ประกอบ:
     - ความสามารถรับรู้นอกก่อนการยืนยันอิสระจะปรับความเข้ม;
-    - การเข้าถึงปฏิบัติ ([มาตรา XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility); [ความเป็นไปได้](core_05_band_accountability.md#feasibility));
+    - การเข้าถึงปฏิบัติ ([มาตรา XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [ความเป็นไปได้](core_05_band_accountability.md#feasibility));
     - ความเป็นอิสระจากข้อกล่าวอ้างตนเองของผู้ดำเนินงาน;
     - ภาระตามสัดส่วนภายใต้ [สัดส่วน](core_05_band_accountability.md#proportionality) และ [ผลกระทบที่เป็นสาระ](core_05_band_oversight.md#material-impact); และ
     - ความน่าเชื่อถือภายใต้ความกดดันธรรมดา การใช้ผิด [เงื่อนไขเชิงปรปักษ์ ที่ถูกขยายขนาด และที่ถูกแสวงหาประโยชน์](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions)
@@ -1113,7 +1113,7 @@
   - **การวัดรอง:** [ตระกูลการวัดการกำกับดูแล](core_05_apex_oversight_leg.md#oversight-measurement-family) — *ผู้มีความรู้สึกเห็น ตรวจสอบ และพึ่งสิ่งที่ระบบแสดงได้หรือไม่* ใช้ที่นี่เพื่อถามว่าความประพฤติที่สังเกตถูกยืนยันอิสระด้วยวิธีที่ทำซ้ำได้ในการปฏิบัติหรือไม่
 
     **การประเมินรอง:** ยืนยันการยืนยันอิสระด้วยวิธีที่:
-    - ฝ่ายที่ได้รับผลกระทบและได้รับอำนาจอย่างเหมาะสมทำได้จริง ([มาตรา XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility); [ความเป็นไปได้](core_05_band_accountability.md#feasibility));
+    - ฝ่ายที่ได้รับผลกระทบและได้รับอำนาจอย่างเหมาะสมทำได้จริง ([มาตรา XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [ความเป็นไปได้](core_05_band_accountability.md#feasibility));
     - วางบนหลักฐานที่รับรู้นอก ไม่ใช่ข้อกล่าวอ้างภายในหรือเจตนาที่อนุมาน;
     - ถูกปรับขนาดตามผลกระทบระบบภายใต้ [สัดส่วน](core_05_band_accountability.md#proportionality) และ [ผลกระทบที่เป็นสาระ](core_05_band_oversight.md#material-impact); และ
     - ยังน่าเชื่อภายใต้ความกดดันธรรมดา การใช้ผิด [เงื่อนไขเชิงปรปักษ์ ที่ถูกขยายขนาด และที่ถูกแสวงหาประโยชน์](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions)
@@ -1225,7 +1225,7 @@
     จากการสังเกตสุจริตใจและการตีความที่มีขอบ ภายใต้ [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#truth-constitutional-constraint) และ [ความสุจริตใจ](core_05_band_accountability.md#good-faith)
 <a id="publication-truthfulness-and-recklessness-floor-c"></a>
 - **สิ่งที่ต้องคงอยู่**
-  - การเผยแพร่สุจริตใจของการสังเกต หลักฐาน และการตีความที่มีขอบถูกปกครองโดย **มาตรา VIII** **มาตรา XII** **มาตรา XIII** ของบทที่สิบเอ็ดที่ใช้บังคับ และต้องสนองกลุ่มนี้ร่วมภายใต้ [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#truth-constitutional-constraint) [ความสุจริตใจ](core_05_band_accountability.md#good-faith) [ความครบถ้วนของความรู้](core_05_band_oversight.md#epistemic-integrity)
+  - การเผยแพร่สุจริตใจของการสังเกต หลักฐาน และการตีความที่มีขอบถูกปกครองโดย **มาตรา IX** **มาตรา XIII** **มาตรา XIV** ของบทที่สิบเอ็ดที่ใช้บังคับ และต้องสนองกลุ่มนี้ร่วมภายใต้ [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#truth-constitutional-constraint) [ความสุจริตใจ](core_05_band_accountability.md#good-faith) [ความครบถ้วนของความรู้](core_05_band_oversight.md#epistemic-integrity)
   - **ความล้มเหลวหลัก:** การเผยแพร่ที่โกหกที่รู้ หรือการเผยแพร่ที่ทำด้วยการเพิกเฉยอย่างประมาทต่อ:
     - ความแม่น;
     - ความไม่แน่นอน;

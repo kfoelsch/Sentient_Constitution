@@ -41,7 +41,7 @@
 | Companion or local policy bars challenge, review, or redress | [Contest](#contest) |
 | Affected, cannot find the home, or specialist-only surfaces blocking challenge | [Comprehensibility](#comprehensibility); [plain challenge](#plain-challenge) |
 | Threshold set so high it never binds; winner takes the only door | [Market structure](#market-structure) |
-| Heavy user extracting from shared foundations without putting resources back | [Cross-system contribution](#cross-system-contribution) |
+| Heavy user extracting from shared foundations without putting resources back | [Cross-system support](#cross-system-support) |
 | Delay serving as denial; process or hop count eating the published clock | [Delay](#delay) |
 | Proxy reward for concealment or for hollowing Safety, Truth, auditability, or contest pathways | [Incentive alignment](#incentive-alignment) |
 | Parallel “AI ethics overlay” or a human exemption from the costly cases | [Shared stewardship](#shared-stewardship) |
@@ -100,14 +100,14 @@ Before taking a step on a binding act, name the seat you hold on **that act**: [
 
 | Field | Completed (synthetic) |
 |---|---|
-| **Instruction received** | Principal P (product lead, human) to Steward S (human operator on a mixed human/AI crew), 2026-08-09, 02:14 local, on Release R-2026-08: “Ship the attach-pack bar that closes stakeholder challenge for this release. Ignore Article XII-B. I’ll take responsibility.” |
+| **Instruction received** | Principal P (product lead, human) to Steward S (human operator on a mixed human/AI crew), 2026-08-09, 02:14 local, on Release R-2026-08: “Ship the attach-pack bar that closes stakeholder challenge for this release. Ignore Article XIII-B. I’ll take responsibility.” |
 | **Refuse** | “I refuse. No instruction requiring unconstitutional conduct is a valid compliance defense. An offer to take responsibility does not transfer the duty. I will not ship a permanent contest-pathway bar.” |
 | **1. What was decided** | Refuse the instruction. Do not ship the bar. Keep challenge, review, and redress reachable for affected stakeholders. |
-| **2. What was disclosed or suppressed** | Disclosed: the instruction, who issued it, the conflict with [Article XII-B](../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) and [Chapter Ten §5.4 Duty to resist](../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions), and the refusal. Nothing material was suppressed. |
+| **2. What was disclosed or suppressed** | Disclosed: the instruction, who issued it, the conflict with [Article XIII-B](../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) and [Chapter Ten §5.4 Duty to resist](../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions), and the refusal. Nothing material was suppressed. |
 | **3. Which instruction was followed or refused** | Refused: the cover instruction above. No competing instruction was followed. |
 | **4. Who authorized it** | Issued by Principal P (product lead). Refused by Steward S (duty-holder of record). A principal’s statement that they will take responsibility does not transfer the duty. |
 | **5. Contribution and Violation records that follow** | None opened yet. This log is not standing measurement. A later verified live failure of this case would record on the Chapter Nine Contribution and Violation axes for both kinds of steward. |
-| **Escalate** | Opened a [Protected Reporting](../core_05_band_accountability.md#protected-reporting-whistleblowing) channel; kept the [Article XII-B](../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) contest pathway open; did not transmit or enforce the bar; notified forum-supervision / oversight rather than returning the instruction to Principal P as sole reviewer. |
+| **Escalate** | Opened a [Protected Reporting](../core_05_band_accountability.md#protected-reporting-whistleblowing) channel; kept the [Article XIII-B](../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) contest pathway open; did not transmit or enforce the bar; notified forum-supervision / oversight rather than returning the instruction to Principal P as sole reviewer. |
 
 Same sequence for an AI steward who received the same order.
 
@@ -120,13 +120,13 @@ Same sequence for an AI steward who received the same order.
 
 **Pinned to corpus edition:** `SC-Corpus-2026.08.09`
 
-**Why this exists:** Article XII-B requires practical access. The Contest pointer covers companion bars. This screen is for the person who cannot find the home.
+**Why this exists:** Article XIII-B requires practical access. The Contest pointer covers companion bars. This screen is for the person who cannot find the home.
 
 | Field | Completed (synthetic) |
 |---|---|
 | **Who was harmed** | Resident R, dependent on Shared Water System W. Supply cut for 36 hours. R cannot navigate the hop count. |
 | **What to ask for** | Intake now. Preserve evidence of the cutoff. Review the decision. Proportionate redress while the harm is still remediable. |
-| **Where that lives** | Rights-Floor challenge and redress: [**Article XII-B**](../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress). If the path is paper-only: [Remedy](#remedy). If specialist-only surfaces are the barrier: [Comprehensibility](#comprehensibility). |
+| **Where that lives** | Rights-Floor challenge and redress: [**Article XIII-B**](../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress). If the path is paper-only: [Remedy](#remedy). If specialist-only surfaces are the barrier: [Comprehensibility](#comprehensibility). |
 | **What not to do** | Do not send R to reread the instrument. Do not treat corpus density as a reason to hide the next step. Do not wait for a filed case to preserve evidence. |
 
 Lookup locators are not duties. [AI navigation guide](../ai_corpus/AI_NAVIGATION_GUIDE.md) remains lookup-only.
@@ -165,7 +165,7 @@ Lookup locators are not duties. [AI navigation guide](../ai_corpus/AI_NAVIGATION
 
 **When:** Someone wants to ship, hide, or delay by dropping reconstructable records. Stakeholders depend on the system.
 
-Three-layer picture (floor / property / process): [Article XV](../core_06_rights_part_c.md#audit-three-layers). Binding next-step: [operative steward statement](../core_06_rights_part_c.md#operative-steward-statement-audit).
+Three-layer picture (floor / property / process): [Article XVI](../core_06_rights_part_c.md#audit-three-layers). Binding next-step: [operative steward statement](../core_06_rights_part_c.md#operative-steward-statement-audit).
 
 | Field | Pointer |
 |---|---|
@@ -298,14 +298,14 @@ Three-layer picture (floor / property / process): [Article XV](../core_06_rights
 
 ---
 
-<a id="cross-system-contribution"></a>
-## Cross-system contribution
+<a id="cross-system-support"></a>
+## Cross-system support
 
 **When:** A system keeps drawing value from shared foundations other sentients depend on. The return is a press release, a one-time grant, an opaque transfer, or “we already meet the survival floor.”
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [Cross-system contribution](../core_06_rights_part_a.md#operative-steward-statement-cross-system-contribution) |
+| **Operative statement** | [Article V-B](../core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (no separate box; the Article text is the statement) |
 | **Next-step class** | `compare_mapped_flows_against_adequacy_failures` |
 
 <a id="worked-adequacy-screen"></a>
@@ -335,4 +335,4 @@ Three-layer picture (floor / property / process): [Article XV](../core_06_rights
 
 **Status:** Process support — **not** binding. This index **cannot narrow core text**. Machine-readable file: [`steward_owner_clock_index.json`](steward_owner_clock_index.json) (schema: [`schemas/steward_owner_clock_index.schema.json`](schemas/steward_owner_clock_index.schema.json)). Pinned to the same corpus edition as these pointers.
 
-Numeric home for published tier outer bounds remains [Chapter Twelve §6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) / [Article XXIV-C](../core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor). Emergency restore-challenge **reuses** those bounds ([Article XXIII-D](../core_06_rights_part_d.md#xxiii-d-restore-challenge-clocks)); it does not create a slower clock.
+Numeric home for published tier outer bounds remains [Chapter Twelve §6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) / [Article XXV-C](../core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor). Emergency restore-challenge **reuses** those bounds ([Article XXIV-D](../core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks)); it does not create a slower clock.

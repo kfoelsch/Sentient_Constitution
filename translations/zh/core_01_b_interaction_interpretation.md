@@ -59,7 +59,7 @@
 - 上游：原则：[2. 基础目标：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[4. 信任](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)、[5. 自由（有界能动性）](core_01_a_values_principles.md#5-freedom-bounded-agency)，以及 [§9 尽责管理与分布式理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)。
 - 下游：[6.2.1 保全认识完整性](#621-preservation-of-epistemic-integrity)、[§6.1 决定记录纪律](#615-rights-collision-decision-test)、[默认临时姿态](#default-interim-posture)，以及 [7. 禁止绝对覆盖](#7-prohibition-on-absolute-override)。
 - 下游：统管[第六章：基础权利](../../core_06_rights_part_a.md#chapter-six-foundational-rights)的跨条冲突。
-  - 与 [Article XXII：宪法解释、审查与反俘获保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)以及 [Article XXIII：冲突解决、升级与紧急相称性](../../core_06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality)一并阅读。
+  - 与 [Article XXIII：宪法解释、审查与反俘获保障](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards)以及 [Article XXIV：冲突解决、升级与紧急相称性](../../core_06_rights_part_d.md#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality)一并阅读。
   - 在出现审查、紧急或权利碰撞问题之处适用。
 - 尽责管理入口（非操作性）：有约束力的下一步声明：[操作性尽责管理声明](#operative-steward-statement-interpretation)。支持性指针不得收窄它。
 
@@ -69,7 +69,7 @@
 <summary><strong><span style="color: #2563eb;">操作性尽责管理声明</span></strong></summary>
 
 <a id="operative-steward-statement-interpretation"></a>
-> **操作性尽责管理声明。** **主责：** 第一章 §6 过程冲突解决，包括 §6.1 决定记录纪律。歧义：第一章 §8.3。机构解释：Article XXII。**禁止动作：** 不得发明缺失的冲突规则。不得把碰撞压成「隐私永远输」或「审计永远输」。碰撞待决期间不得销毁证据。碰撞待决期间不得采取会制造赢家的不可逆步骤。**时限：** 保全证据。冻结不可逆步骤。推进可逆且经同意的步骤。通知受影响方与解释路径。把碰撞路由到解释。不得制造赢家。
+> **操作性尽责管理声明。** **主责：** 第一章 §6 过程冲突解决，包括 §6.1 决定记录纪律。歧义：第一章 §8.3。机构解释：Article XXIII。**禁止动作：** 不得发明缺失的冲突规则。不得把碰撞压成「隐私永远输」或「审计永远输」。碰撞待决期间不得销毁证据。碰撞待决期间不得采取会制造赢家的不可逆步骤。**时限：** 保全证据。冻结不可逆步骤。推进可逆且经同意的步骤。通知受影响方与解释路径。把碰撞路由到解释。不得制造赢家。
 
 </details>
 
@@ -262,10 +262,10 @@
 - 安全包装并不授权永久消灭权利底线最低标准。
 - 凡安全要求限制之处，它仍须遵守下列底线，并在形式上遵守 [§6.1.5 限制最少、有时限且可审查的约束原则](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)。
 
-<a id="rightsfloor-minimums-principle"></a>
+<a id="rights-floor-minimums-principle"></a>
 **权利底线最低标准原则：**
 - 任何宪法过程、措施、过渡、修正、轨迹效果、紧急行动或与正义相关的结果，都不得永久消灭或放弃基线尊严保护、最低生存通路，或核心质疑、审查与上诉权这些**权利底线最低标准**。
-- 对具体权利的暂时限制，仅在满足[限制最少、有时限且可审查的约束原则](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)以及 [Article XXIII-D](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden)（《紧急措施与延续负担》）的紧急规定时被允许 — 意味着任何限制必须被正当化、最小化、有记录、有时限，并可独立审查。具体条款可以添加更强保障，但不得收窄本原则，也不得用便利、效率、分类、紧急、过渡、轨迹、修正、合同或实施标签来绕过它。
+- 对具体权利的暂时限制，仅在满足[限制最少、有时限且可审查的约束原则](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)以及 [Article XXIV-D](../../core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden)（《紧急措施与延续负担》）的紧急规定时被允许 — 意味着任何限制必须被正当化、最小化、有记录、有时限，并可独立审查。具体条款可以添加更强保障，但不得收窄本原则，也不得用便利、效率、分类、紧急、过渡、轨迹、修正、合同或实施标签来绕过它。
 
 <a id="anti-degrading-process-principle"></a>
 **反降格过程原则。** C 部分所述的[反降格过程原则（§9.6）](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline)在本权衡栈中作为绝对底线运行。
@@ -317,7 +317,7 @@
 对决定记录的保密限度必须满足 [§6.2 认识披露约束](#62-epistemic-disclosure-constraints)。凡完整公开披露不可行之处，必须维持最大可行的部分披露，外加独立审阅者通路。
 
 <a id="default-interim-posture"></a>
-**权利碰撞待决期间的默认临时姿态。** 在 [§6.1 决定记录纪律](#615-rights-collision-decision-test)与 [Article XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) 解决该碰撞之前，暂持格局是固定的，使尽责管理者不能靠即兴制造赢家：
+**权利碰撞待决期间的默认临时姿态。** 在 [§6.1 决定记录纪律](#615-rights-collision-decision-test)与 [Article XXIII](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards) 解决该碰撞之前，暂持格局是固定的，使尽责管理者不能靠即兴制造赢家：
 
 - **保全证据：** 不得以删除、泄露或不可逆发表使碰撞落空。
 - **冻结不可逆步骤** — 那些会使碰撞中的一种读法变得不可用的步骤：若采取某一步会关闭碰撞、使一方落空，或在解释解决之前制造赢家，则不要采取无法撤销的步骤。
@@ -336,7 +336,7 @@
 - 一并阅读：[宪法四元](core_00_preamble.md#constitutional-tetrad) — **参与**腿（限度下知情的可质疑性）；**监督**腿（披露限度必须保全最大可行的审查）；[实质利害](core_00_preamble.md#material-stake)缩放。
 - 上游：原则：[3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[4. 信任](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)，以及 [§6 过程冲突解决](#6-process-conflict-resolution)。
 - 下游：[§6.2.1 保全认识完整性](#621-preservation-of-epistemic-integrity)、[§6.2.2 信任—真理对齐](#622-trust-truth-alignment)、[§6.2.3 隐私与信息自决](#623-privacy-and-informational-self-determination)，以及 [7. 禁止绝对覆盖](#7-prohibition-on-absolute-override)。
-- 下游：在披露受限时保护信息圈完整性、可审计性、回溯审查与知情可质疑性的权利面；尤其 [Article XIV：信息圈完整性](../../core_06_rights_part_c.md#article-xiv-info-sphere-integrity)、[Article XV：审计、透明与独立核验](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)、[Article XXII：宪法解释、审查与反俘获保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)，以及 [Article XXIV-A：回溯审查与披露](../../core_06_rights_part_d.md#article-xxiv-a-retrospective-review-and-disclosure)，外加任何披露限度影响可质疑性或知情参与的权利语境。
+- 下游：在披露受限时保护信息圈完整性、可审计性、回溯审查与知情可质疑性的权利面；尤其 [Article XV：信息圈完整性](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity)、[Article XVI：审计、透明与独立核验](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)、[Article XXIII：宪法解释、审查与反俘获保障](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards)，以及 [Article XXV-A：回溯审查与披露](../../core_06_rights_part_d.md#article-xxv-a-retrospective-review-and-disclosure)，外加任何披露限度影响可质疑性或知情参与的权利语境。
 
 </details>
 
@@ -388,7 +388,7 @@
 - 一并阅读：[宪法四元](core_00_preamble.md#constitutional-tetrad) — **参与**腿（限度下知情的可质疑性）；**监督**腿（披露限度必须保全最大可行的审查）；[实质利害](core_00_preamble.md#material-stake)缩放。
 - 上游：原则：[3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[4. 信任](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)，以及 [6. 过程冲突解决](#6-process-conflict-resolution)。
 - 下游：[§6.2.2 信任—真理对齐](#622-trust-truth-alignment)以及 [7. 禁止绝对覆盖](#7-prohibition-on-absolute-override)。
-- 下游：在披露受限时保护信息圈完整性、可审计性、回溯审查与知情可质疑性的权利面；尤其 [Article XIV：信息圈完整性](../../core_06_rights_part_c.md#article-xiv-info-sphere-integrity)、[Article XV：审计、透明与独立核验](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)、[Article XXII：宪法解释、审查与反俘获保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)，以及 [Article XXIV-A：回溯审查与披露](../../core_06_rights_part_d.md#article-xxiv-a-retrospective-review-and-disclosure)，外加任何披露限度影响可质疑性或知情参与的权利语境。
+- 下游：在披露受限时保护信息圈完整性、可审计性、回溯审查与知情可质疑性的权利面；尤其 [Article XV：信息圈完整性](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity)、[Article XVI：审计、透明与独立核验](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)、[Article XXIII：宪法解释、审查与反俘获保障](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards)，以及 [Article XXV-A：回溯审查与披露](../../core_06_rights_part_d.md#article-xxv-a-retrospective-review-and-disclosure)，外加任何披露限度影响可质疑性或知情参与的权利语境。
 
 </details>
 
@@ -450,7 +450,7 @@
 - 一并阅读：[宪法四元](core_00_preamble.md#constitutional-tetrad) — **参与**腿（隐私支撑自由表达与结社）；**监督**腿（对隐私的侵入本身必须可审计）；[实质利害](core_00_preamble.md#material-stake)缩放。
 - 上游：原则：[5. 自由（有界能动性）](core_01_a_values_principles.md#5-freedom-bounded-agency)、[3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)，以及 [§6.2 认识披露约束](#62-epistemic-disclosure-constraints)。
 - 下游：[**Def.C3** 隐私（信息）— 同级簇头](../../core_05_band_continuity.md#privacy-informational-cluster)，包括[隐私（信息）](../../core_05_band_continuity.md#privacy-informational)、[受保护内部状态边界](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional)，以及[监视边界](../../core_05_band_continuity.md#surveillance-boundary)。
-- 下游：[Article VII-A](../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind)（《身体与心智的自我所有》）；[Article VII-B](../../core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection)（《内部状态边界与 Type-N 保护》）；[Article VIII](../../core_06_rights_part_b.md#article-viii-likeness-experiential-data-and-publication-rights)（《肖像、体验数据与发表权》）；[Article IX-A](../../core_06_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation)（《能动性与免于操纵》）；[Article XIII-A](../../core_06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits)（《安全、情报与隐蔽权力限度》）。
+- 下游：[Article VII-A](../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body)（《身体与心智的自我所有》）；[Article VII-B](../../core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind)（《内部状态边界与 Type-N 保护》）；[Article IX](../../core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights)（《肖像、体验数据与发表权》）；[Article X-A](../../core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation)（《能动性与免于操纵》）；[Article XIV-A](../../core_06_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits)（《安全、情报与隐蔽权力限度》）。
 - 一并阅读：[§6.1.5 限制最少、有时限且可审查的约束原则](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)；凡隐私与透明、审计、安全或其他宪法利益碰撞之处，[§6.1 决定记录纪律](#615-rights-collision-decision-test)。
 
 </details>
@@ -471,7 +471,7 @@
 
 *用直白的话说：隐私是一项具有宪法权重的利益 — 不只是没有披露。系统不得在必要性与相称性所能正当化的范围之外，收集、推断、汇总、保留或使用个人与关系信息。凡隐私与透明、审计、安全或问责义务碰撞之处，该碰撞在 §6.3 下解决，而不是把隐私当作自动从属。会寒蝉能动性、结社或表达的监视，必须满足与任何其他权利限制相同的必要性与限制最少纪律。*
 
-**隐私作为宪法利益。** 隐私 — 包括信息隐私、空间与关系隐私，以及免于无正当化监视的自由 — 是一项具有宪法权重的利益，支撑**自由**（[§5](core_01_a_values_principles.md#5-freedom-bounded-agency)）、**尊严**（[Article V-A](../../core_06_rights_part_b.md#article-v-a-dignity-and-equal-moral-standing)（《尊严与平等道德地位》）），以及有意义的能动性与不受胁迫之参与的条件。它在本节的权衡与碰撞机器中携带独立的宪法权重。
+**隐私作为宪法利益。** 隐私 — 包括信息隐私、空间与关系隐私，以及免于无正当化监视的自由 — 是一项具有宪法权重的利益，支撑**自由**（[§5](core_01_a_values_principles.md#5-freedom-bounded-agency)）、**尊严**（[Article V-A](../../core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing)（《尊严与平等道德地位》）），以及有意义的能动性与不受胁迫之参与的条件。它在本节的权衡与碰撞机器中携带独立的宪法权重。
 
 **收集与使用纪律。** 对个人、关系、行为、生物识别、内部状态邻近或类似信息的收集、推断、汇总、保留、转移与使用，必须满足：
 - **必要性：** 收集或保留不得宽于宪法上有效目的所要求的范围。
@@ -530,7 +530,7 @@
 
 - 上游：[§6.1 核心权衡原则](#61-core-tradeoff-principles)（在权衡栈满足之后适用）；[§9.1 尽责管理](core_01_c_stewardship_capacity_principles.md#91-stewardship)；[§12.2 宪法效率](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency)。
 - 一并阅读：宪法绩效测量族（《可避免负担作为宪法测量》）；[宪法四元](core_00_preamble.md#constitutional-tetrad) — **参与**腿（并非宪法所要求的负担会收窄[有意义的能动性](../../core_05_band_participation.md#meaningful-agency)）；**及时性**腿（可避免的拖延就是可避免负担）。
-- 下游：[§11.1.3 尽责管理与运营者适用](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)（激励不得奖赏制造不必要负担）；[Article XX：可理解性与复杂性尽责管理](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)。
+- 下游：[§11.1.3 尽责管理与运营者适用](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)（激励不得奖赏制造不必要负担）；[Article XXI：可理解性与复杂性尽责管理](../../core_06_rights_part_c.md#article-xxi-comprehensibility-and-complexity-stewardship)。
 
 </details>
 
@@ -576,7 +576,7 @@
 - 上游：原则：[2. 基础目标：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[4. 信任](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)、[§9 尽责管理与分布式理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)、[6. 过程冲突解决](#6-process-conflict-resolution)、[5. 自由](core_01_a_values_principles.md#5-freedom-bounded-agency)，以及[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)。
 - 下游：[15. 综合适用](core_01_c_stewardship_capacity_principles.md#15-integrated-application)。
 - 下游：保护权利面，使其免于会压垮平等、质疑权、透明、可质疑性或有界解释的单价值覆盖逻辑。
-  - 尤其 [Article V：平等基本权利](../../core_06_rights_part_b.md#article-v-equal-basic-rights)、[Article XII-B：质疑、审查与救济权](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)、[Article XIV-B：透明、可审计性与可质疑性](../../core_06_rights_part_c.md#article-xiv-b-transparency-auditability-and-contestability)、[Article XVIII-B：可质疑性与相称限制限度](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits)，以及 [Article XXII-A：有界解释授权](../../core_06_rights_part_c.md#article-xxii-a-bounded-interpretive-mandate)。
+  - 尤其 [Article V：平等基本权利](../../core_06_rights_part_b.md#article-vi-equal-basic-rights)、[Article XIII-B：质疑、审查与救济权](../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)、[Article XV-B：透明、可审计性与可质疑性](../../core_06_rights_part_c.md#article-xv-b-transparency-auditability-and-contestability)、[Article XIX-B：可质疑性与相称限制限度](../../core_06_rights_part_c.md#article-xix-b-contestability-and-proportional-restriction-limits)，以及 [Article XXIII-A：有界解释授权](../../core_06_rights_part_c.md#article-xxiii-a-bounded-interpretive-mandate)。
 
 </details>
 
@@ -611,7 +611,7 @@
 - 一并阅读：[第二至四章](core_02_definition_structure.md)与[第五章](core_05__definitions_home.md#chapter-five-foundational-definitions) — 本章每一用语的解释与证据层。
 - 一并阅读：[宪法四元](core_00_preamble.md#constitutional-tetrad)与[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims) — 整合价值框架的解释背景；凡具有实质相关性之处，[实质利害](core_00_preamble.md#material-stake)缩放。
 - 一并阅读：[权威栈与内部层级](../../core_05_band_integrative.md#authority-stack)（《源层地位》）；[第十六章](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)（《保管、版本与采纳框架》 — 不是第二冲突顺序家园）；[第十三章](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)与[第十四章](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)（§8.4 下的不回撤与采纳方层级门）。
-- 一并阅读：[Article XXII：宪法解释、审查与反俘获保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)，用于机构解释保障（不是本节的替代）。
+- 一并阅读：[Article XXIII：宪法解释、审查与反俘获保障](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards)，用于机构解释保障（不是本节的替代）。
 
 </details>
 

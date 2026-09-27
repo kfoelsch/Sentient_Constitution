@@ -37,7 +37,7 @@
   - **范围内：**
     - 观察、核验、核实并约束系统如何行为，由[受影响方](../../core_05_band_participation.md#stakeholder)、独立行为者或机构进行，并在可行之处分散开来；
     - 目的：发现并纠正不合规，并支撑知情[治理](../../core_05_band_accountability.md#governance)；
-    - 监督要求[可审计性](../../core_05_band_oversight.md#auditability)以及 **Article XV**（*审计、透明与独立核验*）下的相关审计工具；
+    - 监督要求[可审计性](../../core_05_band_oversight.md#auditability)以及 **Article XVI**（*审计、透明与独立核验*）下的相关审计工具；
     - 所需监督的多少随[实质影响](../../core_05_band_oversight.md#material-impact)、[依赖](../../core_05_band_continuity.md#dependency)与[风险](../../core_05_band_continuity.md#risk)缩放；以及
     - [系统对齐认证](../../core_05_band_continuity.md#system-alignment-certification-constitutional)是该项要求下一项特别大型、高利害的审计过程 — 不是唯一的审计过程。
   - **依赖于：** 本腿要起作用所需的条件与通道。每一用语的详细范围与如何测量规则住在其自身定义上；从[四元腿分解](#oversight-tetrad-leg-decomposition)开始：

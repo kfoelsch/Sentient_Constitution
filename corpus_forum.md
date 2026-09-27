@@ -17,7 +17,7 @@
 
 **Implements from the core files:**
 - [Chapter Five](core_05__definitions_home.md) definitions by reference — this layer does not redefine them
-- [Chapter Six](core_06_rights_part_c.md) hearing-facing Rights Floor themes — especially [Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*), [Article XV-A](core_06_rights_part_c.md#article-xv-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*), [Article XXII](core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*), [Article XXIII](core_06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality) (*Conflict Resolution, Escalation, and Emergency Proportionality*), and [Article XXVI](core_06_rights_part_d.md#article-xxvi-transition-governance-continuity-and-re-baselining) (*Transition Governance, Continuity, and Re-Baselining*) where forums support transition
+- [Chapter Six](core_06_rights_part_c.md) hearing-facing Rights Floor themes — especially [Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*), [Article XVI-A](core_06_rights_part_c.md#article-xvi-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*), [Article XXIII](core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*), [Article XXIV](core_06_rights_part_d.md#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality) (*Conflict Resolution, Escalation, and Emergency Proportionality*), and [Article XXVII](core_06_rights_part_d.md#article-xxvii-transition-governance-continuity-and-re-baselining) (*Transition Governance, Continuity, and Re-Baselining*) where forums support transition
 - [Chapter Twelve](core_12_forum.md) forum families, jurisdiction, and cross-forum anti-self-judging — the constitutional owner this layer operationalizes
 - [Standing pipeline](core_00_preamble.md#62-how-the-full-chain-fits-together) supervision context under Chapters Eight through Eleven — forums hear and route; they do not replace standing measurement owners
 
@@ -99,7 +99,7 @@
 <!-- END GENERATED FAMILY INDEX -->
 </details>
 
-**Dedicated record protocol (not a CF family):** the [Sentience-Status Adjudication Record](corpus_forum/cf_sentience_status_record.md) is the Chapter Seventeen–enumerated status-file format. It implements, and does not narrow, **Article V-E**. It is not a substitute for **CF-15**.
+**Dedicated record protocol (not a CF family):** the [Sentience-Status Adjudication Record](corpus_forum/cf_sentience_status_record.md) is the Chapter Seventeen–enumerated status-file format. It implements, and does not narrow, **Article VI-B**. It is not a substitute for **CF-15** (*Standard records, forms, and evidence artifacts*).
 
 **What to do now:** Continue to the next file. It states this layer’s boundary: what it owns here, and what remains in the Constitution or in the other implementation folders.
 

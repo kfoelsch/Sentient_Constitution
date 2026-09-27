@@ -44,7 +44,7 @@
 > - **باب دوم تا چہارم:** یہاں استعمال ثبوت کے لیے ریکارڈ، حراست، سراغ، اور تصدیق ضبط فراہم کرتے ہیں۔
 > - **باب یکم:** ہنگامی اختیار، ضرورت، ارتکاز، اور نظام قبضے سے متعلق اصول فراہم کرتا ہے۔
 > - **باب یازدهم:** فورم رخ بندی، سالمیت-خاندان طے شدہ رخ بندی، منتقلی، اور سرٹیفیکیشن ضبط فراہم کرتا ہے۔
-> - **باب ششم:** حقوق کی تہہ، **دفعہ XXIII-B** (*غیر معمولی پابندی، تلافی، اور بحالی جوابدہی کی پابندیاں*) مشترکہ تقاضے اور **تشدد کے لیے قید**، **دفعہ XXIII-C** (*کم سے کم پابندی والا اور وقتی حد والا قاعدہ*) جائزہ ضبط، **دفعہ XXIV-C** (*بروقت حل اور تاخیر مخالف تہہ*) تدارک-وقت ضبط، اور **دفعہ XXIII-A** (*انصاف کا مقصد اور دائرہ*) جائزہ اور اشاعت ضمانتیں فراہم کرتا ہے؛ یہاں **قطعہ 4.1** تصدیق شدہ آئین مخالف بدسلوکی کے لیے باب نہم تدارک اور اصلاح تخصیص کرتا ہے، **قطعہ 4.2** روک تھام تالے تخصیص کرتا ہے (بشمول قید جہاں مطلوب ہو)، اور **قطعہ 4.3** رضاکارانہ عوامی جوابدہی اظہار تخصیص کرتا ہے۔
+> - **باب ششم:** حقوق کی تہہ، **دفعہ XXIV-B** (*غیر معمولی پابندی، تلافی، اور بحالی جوابدہی کی پابندیاں*) مشترکہ تقاضے اور **تشدد کے لیے قید**، **دفعہ XXIV-C** (*کم سے کم پابندی والا اور وقتی حد والا قاعدہ*) جائزہ ضبط، **دفعہ XXV-C** (*بروقت حل اور تاخیر مخالف تہہ*) تدارک-وقت ضبط، اور **دفعہ XXIV-A** (*انصاف کا مقصد اور دائرہ*) جائزہ اور اشاعت ضمانتیں فراہم کرتا ہے؛ یہاں **قطعہ 4.1** تصدیق شدہ آئین مخالف بدسلوکی کے لیے باب نہم تدارک اور اصلاح تخصیص کرتا ہے، **قطعہ 4.2** روک تھام تالے تخصیص کرتا ہے (بشمول قید جہاں مطلوب ہو)، اور **قطعہ 4.3** رضاکارانہ عوامی جوابدہی اظہار تخصیص کرتا ہے۔
 > - **باب دوازدہم:** حتمی بابِ دہم نامزدگی سے جڑے حکمرانی مشروعیت نتائج فراہم کرتا ہے۔
 > - **باب سیزدہم تا پانزدہم:** تبدیلی-راستہ صحت، حوالگی، طریقہ کار، اور حراست قواعد فراہم کرتے ہیں؛ وہ حتمی بابِ دہم نامزدگی جاری نہیں کرتے۔
 >
@@ -147,7 +147,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: [§1](#1-decision-framework-scope-and-authority) (*نامزدگی فیصلے کیسے کام کرتے ہیں*)۔
-- ہنگامی اختیار: [باب یکم](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) ہنگامی اور ضرورت ضبط؛ [دفعہ XXIII-D: ہنگامی تدابیر اور استمرار کا بوجھ](core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) جہاں **معیار 5** اور **6** محدود ہنگامی اختیار کے خلاف پڑھے جائیں۔
+- ہنگامی اختیار: [باب یکم](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) ہنگامی اور ضرورت ضبط؛ [دفعہ XXIV-D: ہنگامی تدابیر اور استمرار کا بوجھ](core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden) جہاں **معیار 5** اور **6** محدود ہنگامی اختیار کے خلاف پڑھے جائیں۔
 - زیریں نامزدگی فیصلہ: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity)۔
 - زیریں ضمانتیں اور ضبط: [§4](#4-due-process-safeguards-for-slot-assignment)۔
 - یہ قطعہ: نامزدگی معیار مجموعہ؛ متحد-واقعہ قاعدہ؛ تبدیلی یا ریکارڈ غلطیوں کے لیے علاج شدہ معیار 1–4 کا **نیک نیتی مسودہ استثنیٰ**۔
@@ -198,8 +198,8 @@
 2. **جان کر جعل سازی یا دبانا:** تجویز، جائزہ، اختیار، اشاعت، **یا دیگر مادی آئینی حراست یا تصدیق** ریکارڈ میں جان کر جعل سازی، مادی حذف، یا ثبوت/حراست ہیرا پھیری۔
 3. **مادی واپسی اثر:** آئینی حفاظتوں کی حقیقی یا کوشش شدہ مادی کمزوری، براہ راست یا مساوی ساختی چکر سے۔
 4. **سبب طور پر معنی خیز رویہ:** رویہ غیر قانونی آئینی اثر، تاخیر شدہ اصلاح، مسدود چیلنج حقوق، یا حقوق-کی-تہہ بگاڑ میں مادی حصہ ڈالے۔
-5. **بغاوت یا مادی جبری تخریب:** منظم یا مادی **غیر قانونی** عمل جو **زور**، **جبر**، یا **غصب** استعمال کرے اس آئین کے عملی آئینی اختیار کو **پلٹنے**، **معطل کرنے**، یا **بدلنے** کے لیے۔ یہ **باب یکم** اور **دفعہ XXIII-D** (*ہنگامی تدابیر اور استمرار کا بوجھ*) یا مساوی **ضرورت**-محدود ہنگامی اختیار کے تحت جواز یافتہ رویے کو خارج کرتا ہے۔
-6. **عملی کالعدمیت:** رویہ جو آئینی **عمل** یا **تدارک** کو عملی طور پر ناقابلِ استعمال بنائے۔ یہ **باب یکم** اور **دفعہ XXIII-D** (*ہنگامی تدابیر اور استمرار کا بوجھ*) یا مساوی **ضرورت**-محدود ہنگامی اختیار کے تحت جواز یافتہ رویے کو خارج کرتا ہے۔
+5. **بغاوت یا مادی جبری تخریب:** منظم یا مادی **غیر قانونی** عمل جو **زور**، **جبر**، یا **غصب** استعمال کرے اس آئین کے عملی آئینی اختیار کو **پلٹنے**، **معطل کرنے**، یا **بدلنے** کے لیے۔ یہ **باب یکم** اور **دفعہ XXIV-D** (*ہنگامی تدابیر اور استمرار کا بوجھ*) یا مساوی **ضرورت**-محدود ہنگامی اختیار کے تحت جواز یافتہ رویے کو خارج کرتا ہے۔
+6. **عملی کالعدمیت:** رویہ جو آئینی **عمل** یا **تدارک** کو عملی طور پر ناقابلِ استعمال بنائے۔ یہ **باب یکم** اور **دفعہ XXIV-D** (*ہنگامی تدابیر اور استمرار کا بوجھ*) یا مساوی **ضرورت**-محدود ہنگامی اختیار کے تحت جواز یافتہ رویے کو خارج کرتا ہے۔
 
 ایک ہی رویے کو **معیار 5** اور **معیار 6** دونوں شمار نہ کرو جب تک ہر ایک کا اپنا آزاد ثبوت نہ ہو۔ مثلاً، ریکارڈ کو الگ جبری اعمال اور عمل یا تدارک ناقابلِ استعمال بنانے کے الگ طریقے دکھانے چاہییں — ایک غیر ممتاز حقیقت کے دو لیبل نہیں۔
 
@@ -275,8 +275,8 @@
 - بالائی: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*خلاف ورزی محور s = 7–9 نامزدگی*)؛ [§2](#2-criteria-set-for-slot-assignment) (*معیار مجموعہ*)، بشمول **نیک نیتی مسودہ استثنیٰ**۔
 - نمونہ اطلاقات: [§5.3](core_10_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) (*زون بھر مار*)؛ [§5.4](core_10_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding) (*معلوماتی کرہ زون بھر مار*)؛ [§5.5](core_10_b_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (*رشوت اور ناجائز فائدہ تبادلہ*)؛ [§5.6](core_10_b_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct) (*غیر قانونی یا غیر آئینی حکم رویہ*)؛ [§5.7](core_10_b_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct) (*آئین مخالف رویے کا انعام، حفاظت، یا معمول بنانا*)؛ [§5.8](core_10_b_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct) (*نفاذ انکار، دبانا، یا عدمِ تعاقب رویہ*)؛ [§5.9](core_10_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct) (*بنیادی ڈھانچہ انکار، تباہی، یا انحصار کٹ آف رویہ*)؛ [§5.10](core_10_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*فورم دستبرداری ناکامی اور جانب دار پینل شرکت*)؛ [§5.11](core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) (*جوابدہی میں رکاوٹ*)۔
 - زیریں: [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*تدارک اور اصلاح (آئین مخالف)*)؛ [§4.2](#4-2-prevention-anti-constitutional-locks) (*روک تھام — آئین مخالف تالے*)؛ [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*رضاکارانہ عوامی جوابدہی اظہار (آئین مخالف)*)۔
-- فورم ضبط: [باب یازدهم §2](core_11_forum.md#2-default-venue-and-primary-stakes) تا [§5](core_11_forum.md#5-escalation-and-certification) طے شدہ سالمیت قیادت، واجب العمل کارروائی کا فورم-خاندان اطلاق، منتقلی، اور سرٹیفیکیشن گھیرتے ہیں۔ **قطعہ 4** کو **باب ششم** میں **دفعہ XXIII** (*تنازعے کا حل، اضافہ، اور ہنگامی تناسب*) کے ساتھ پڑھو۔
-- ساتھ پڑھیں: جائزہ اور اشاعت ضمانتوں کے لیے [دفعہ XXIII-A: انصاف کا مقصد اور دائرہ](core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope)؛ اشاعت کے لیے سراغ معیار [باب دوم تا چہارم](core_02_definition_structure.md)؛ عام تدارک → تالے → اظہار گرامر جسے یہ قطعہ تخصیص کرتا ہے کے لیے [باب نہم §4](core_09_standing_integration.md#4-violation-correction-and-prevention) (*خلاف ورزی، اصلاح، اور روک تھام*)۔
+- فورم ضبط: [باب یازدهم §2](core_11_forum.md#2-default-venue-and-primary-stakes) تا [§5](core_11_forum.md#5-escalation-and-certification) طے شدہ سالمیت قیادت، واجب العمل کارروائی کا فورم-خاندان اطلاق، منتقلی، اور سرٹیفیکیشن گھیرتے ہیں۔ **قطعہ 4** کو **باب ششم** میں **دفعہ XXIV** (*تنازعے کا حل، اضافہ، اور ہنگامی تناسب*) کے ساتھ پڑھو۔
+- ساتھ پڑھیں: جائزہ اور اشاعت ضمانتوں کے لیے [دفعہ XXIV-A: انصاف کا مقصد اور دائرہ](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope)؛ اشاعت کے لیے سراغ معیار [باب دوم تا چہارم](core_02_definition_structure.md)؛ عام تدارک → تالے → اظہار گرامر جسے یہ قطعہ تخصیص کرتا ہے کے لیے [باب نہم §4](core_09_standing_integration.md#4-violation-correction-and-prevention) (*خلاف ورزی، اصلاح، اور روک تھام*)۔
 
 </details>
 
@@ -297,7 +297,7 @@
 
 - بالائی: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*خلاف ورزی محور s = 7–9 نامزدگی*)؛ [§4](#4-due-process-safeguards-for-slot-assignment) (*واجب العمل کارروائی ضمانتیں، تدارک، اور روک تھام*)۔
 - زیریں: [§4.2](#4-2-prevention-anti-constitutional-locks) (*روک تھام — آئین مخالف تالے*)؛ [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*رضاکارانہ عوامی جوابدہی اظہار (آئین مخالف)*)؛ [باب نہم](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) کیفیت-اثر اور کیفیت-تالا انضمام؛ [باب یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) فورم رخ بندی اور سرٹیفیکیشن۔
-- ساتھ پڑھیں: [باب نہم §4.1](core_09_standing_integration.md#41-remedy-and-correction) (*تدارک اور اصلاح*)؛ [دفعہ XXIII-A](core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*انصاف کا مقصد اور دائرہ*)؛ [دفعہ XXIII-B](core_06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*تلافی، تدارک، بحالی، اور جوابدہ انتساب*)؛ [دفعہ XXIII-C](core_06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) (*مدت، جائزہ، اور بحالی*)؛ [دفعہ XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*بروقت حل اور تدارک آغاز*)۔
+- ساتھ پڑھیں: [باب نہم §4.1](core_09_standing_integration.md#41-remedy-and-correction) (*تدارک اور اصلاح*)؛ [دفعہ XXIV-A](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*انصاف کا مقصد اور دائرہ*)؛ [دفعہ XXIV-B](core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*تلافی، تدارک، بحالی، اور جوابدہ انتساب*)؛ [دفعہ XXIV-C](core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule) (*مدت، جائزہ، اور بحالی*)؛ [دفعہ XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*بروقت حل اور تدارک آغاز*)۔
 
 </details>
 
@@ -341,7 +341,7 @@
   - مادی نقصان، حقوق کا نقصان، تدارک نقصان، انحصار نقصان، ثبوت بگاڑ، یا عمل کالعدمیت جو متحد واقعے نے پیدا کی یا جس میں مادی حصہ ڈالا؛
   - تلافی، معاوضہ، بحالی، اصلاح، قانونی ہو تو واپسی یا clawback، جہاں لفظی مرمت ناممکن ہو متبادل ضمانتیں، اور طبقہ-وسیع یا ساختی نقصان پر نظامی تدارک؛
   - ذمہ دار فاعل، کردار، ادارے، نظام، فنڈ، جانشین، یا ہم آہنگ جسم جو ہر تدارک نبھائیں یا مالی معاونت دیں؛
-  - آغاز آخری تاریخیں، تکمیل سنگ میل، تصدیق تقاضے، اور **دفعہ XXIV-C** (*بروقت حل اور تاخیر مخالف تہہ*) کے تحت جائزہ محرک؛
+  - آغاز آخری تاریخیں، تکمیل سنگ میل، تصدیق تقاضے، اور **دفعہ XXV-C** (*بروقت حل اور تاخیر مخالف تہہ*) کے تحت جائزہ محرک؛
   - کون فالو تھرو نگرانی کرے اور تاخیر پر کیا ہو۔
 - **ترجیح اور عبوری حفاظت:**
   - متاثر فریق اور عملی بحالی پہلے رکھو — شہرت مرمت، ادارہ جاتی سہولت، یا عام انتظامی ترتیب سے آگے۔
@@ -371,7 +371,7 @@
 
 - بالائی: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*خلاف ورزی محور s = 7–9 نامزدگی*)؛ [§4](#4-due-process-safeguards-for-slot-assignment) (*واجب العمل کارروائی ضمانتیں، تدارک، اور روک تھام*)؛ [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*تدارک اور اصلاح (آئین مخالف)*)۔
 - زیریں: [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*رضاکارانہ عوامی جوابدہی اظہار (آئین مخالف)*)؛ [باب نہم §5.5](core_09_standing_integration.md#55-special-locks) (*آئین مخالف اعتماد تالا*)۔
-- ساتھ پڑھیں: [باب نہم §4.2](core_09_standing_integration.md#42-general-standing-locks) (*روک تھام — عمومی کیفیت تالے*)؛ [باب نہم §5.1](core_09_standing_integration.md#51-definition-and-attachment) (*تعریف اور منسلکہ*)؛ [باب نہم §5.4](core_09_standing_integration.md#54-special-violation-rules) (*جبری یا آزادی محدود کرنے والی ضمانتیں*)؛ [دفعہ XXIII-B](core_06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*مشترکہ تقاضے اور **تشدد کے لیے قید***)؛ [دفعہ XXIII-C](core_06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) (*مدت، جائزہ، بحالی، اور دوبارہ جائزہ ضبط*)۔
+- ساتھ پڑھیں: [باب نہم §4.2](core_09_standing_integration.md#42-general-standing-locks) (*روک تھام — عمومی کیفیت تالے*)؛ [باب نہم §5.1](core_09_standing_integration.md#51-definition-and-attachment) (*تعریف اور منسلکہ*)؛ [باب نہم §5.4](core_09_standing_integration.md#54-special-violation-rules) (*جبری یا آزادی محدود کرنے والی ضمانتیں*)؛ [دفعہ XXIV-B](core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*مشترکہ تقاضے اور **تشدد کے لیے قید***)؛ [دفعہ XXIV-C](core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule) (*مدت، جائزہ، بحالی، اور دوبارہ جائزہ ضبط*)۔
 
 </details>
 
@@ -395,9 +395,9 @@
   - **قطعہ 3** فیصلہ کرتا ہے بدسلوکی تصدیق شدہ ہے یا نہیں اور کتنی سنگین ہے؛ یہ ذیلی قطعہ فیصلہ کرتا ہے قید آزادی-محدود ضمانت کے طور پر مطلوب ہے یا نہیں۔
   - قید کو پورا کرنا چاہیے:
     - [باب نہم §5.4](core_09_standing_integration.md#54-special-violation-rules) (*جبری یا آزادی محدود کرنے والی ضمانتیں*)؛
-    - **دفعہ XXIII-B** (*غیر معمولی پابندی، تلافی، اور بحالی جوابدہی کی پابندیاں*) مشترکہ تقاضے؛
+    - **دفعہ XXIV-B** (*غیر معمولی پابندی، تلافی، اور بحالی جوابدہی کی پابندیاں*) مشترکہ تقاضے؛
     - فرد مخصوص انتساب، اور چیلنج و اپیل حفاظتیں؛ اور
-    - **باب ششم حصہ د** میں **دفعہ XXIII-C** (*کم سے کم پابندی والا اور وقتی حد والا قاعدہ*) مدت، جائزہ، بحالی، اور دوبارہ جائزہ ضبط۔
+    - **باب ششم حصہ د** میں **دفعہ XXIV-C** (*کم سے کم پابندی والا اور وقتی حد والا قاعدہ*) مدت، جائزہ، بحالی، اور دوبارہ جائزہ ضبط۔
   - جب یہ ذیلی قطعہ قید مانگے تو جان کی محرومی، رہائی، انتظامی دوبارہ لیبل، یا ہلکے اقدامات اکیلے بدل بنانا عدمِ اطاعت ہے۔
 
 <a id="4-3-voluntary-public-accountability-expression"></a>
@@ -410,7 +410,7 @@
 
 - بالائی: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*خلاف ورزی محور s = 7–9 نامزدگی*)؛ [§4](#4-due-process-safeguards-for-slot-assignment) (*واجب العمل کارروائی ضمانتیں، تدارک، اور روک تھام*)؛ [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*تدارک اور اصلاح (آئین مخالف)*)؛ [§4.2](#4-2-prevention-anti-constitutional-locks) (*روک تھام — آئین مخالف تالے*)۔
 - زیریں: [§5](core_10_b_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing) (*نمونہ اطلاقات اور معیار رخ بندی*)۔
-- ساتھ پڑھیں: [باب نہم §4.3](core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*رضاکارانہ عوامی جوابدہی اظہار*)؛ [دفعہ XXIII-B](core_06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*مشترکہ تقاضے*)؛ [دفعہ XXIV-B](core_06_rights_part_d.md#article-xxiv-b-rights-collision-procedure-and-restorative-alignment) (*حقوق تصادم طریقہ اور بحالی ہم آہنگی*)۔
+- ساتھ پڑھیں: [باب نہم §4.3](core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*رضاکارانہ عوامی جوابدہی اظہار*)؛ [دفعہ XXIV-B](core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*مشترکہ تقاضے*)؛ [دفعہ XXV-B](core_06_rights_part_d.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment) (*حقوق تصادم طریقہ اور بحالی ہم آہنگی*)۔
 
 </details>
 
@@ -422,7 +422,7 @@
 
 - **رضاکارانہ عوامی جوابدہی اظہار:** تصدیق شدہ آئین مخالف بدسلوکی کے بحالی راستوں میں جوابدہ فریق رضاکارانہ طور پر عوامی اعتراف یا معافی بطور اضافی جوابدہی عمل چن سکتے ہیں جہاں یہ مرمت، اعتماد بحالی، یا برادری شفا سہارا دے، باب نہم §4.3 رضاکارانہ، اصالت، عدمِ انحطاط، اور عدمِ متبادل کنٹرول کے تابع۔
 - **غیر اصلی یا زیادتی اظہار:** عوامی اعتراف یا معافی جو مادی طور پر بے خلوص، ہیرا پھیری، سچی جوابدہی کے بغیر نمائشی، یا متاثر فریقوں یا عوام کے خلاف زیادتی ہو بحالی تقاضے پورے نہیں کرتی۔
-  - یہ جوابدہ فریق کے لیے منفی انصاف نتائج اٹھا سکتی ہے — بشمول **قطعہ 3** کے تحت اضافی بدسلوکی دریافتیں، بحالی کریڈٹ کمی، اور **دفعہ XXIII-B** (*غیر معمولی پابندی، تلافی، اور بحالی جوابدہی کی پابندیاں*) اور **باب ہشتم** کے تحت دیگر قانونی پابندیاں۔
+  - یہ جوابدہ فریق کے لیے منفی انصاف نتائج اٹھا سکتی ہے — بشمول **قطعہ 3** کے تحت اضافی بدسلوکی دریافتیں، بحالی کریڈٹ کمی، اور **دفعہ XXIV-B** (*غیر معمولی پابندی، تلافی، اور بحالی جوابدہی کی پابندیاں*) اور **باب ہشتم** کے تحت دیگر قانونی پابندیاں۔
   - جعلی یا زیادتی معافی کو کافی مرمت سمجھنا، یا اسے **قطعہ 4.1** کے تحت درکار حفاظت یا تدارک یا **قطعہ 4.2** کے تحت تالے بچانے کے لیے استعمال کرنا، عدمِ اطاعت ہے۔
 - عوامی اظہار میں شرکت سے انکار بذاتِ خود بنیادی پابندیاں نہیں بڑھانا چاہیے نہ **آئین مخالف اعتماد تالا** وسیع کرنا چاہیے۔
 

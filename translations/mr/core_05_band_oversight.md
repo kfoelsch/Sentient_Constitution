@@ -185,7 +185,7 @@
     - स्रोत संरक्षण;
     - तपास; आणि
     - प्रकाशन.
-    ते काम करणारे संज्ञ प्राणी [अभिव्यक्ती](core_05_band_participation.md#expression-constitutional) and [सभा](core_05_band_participation.md#assembly-constitutional) अधिकार-तळ, याच्याखाली उच्च-परीक्षण संरक्षणासह [अनुच्छेद V-H](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, आणि Press*) ती क्रियाकलाप खराब करण्याच्या राज्य आणि संचालक कृतींविरुद्ध.
+    ते काम करणारे संज्ञ प्राणी [अभिव्यक्ती](core_05_band_participation.md#expression-constitutional) and [सभा](core_05_band_participation.md#assembly-constitutional) अधिकार-तळ, याच्याखाली उच्च-परीक्षण संरक्षणासह [अनुच्छेद V-H](../../core_06_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, आणि Press*) ती क्रियाकलाप खराब करण्याच्या राज्य आणि संचालक कृतींविरुद्ध.
   - **व्याप्तीबाहेर:** बातमी संकलन, तपास, किंवा पत्रकारिता म्हणून कार्य करणारे प्रकाशन नसलेली प्रेस प्रमाणपत्रे, संस्थात्मक पदव्या, किंवा सामान्य व्यावसायिक भाषण.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **कसे मापावे आणि मूल्यमापन करावे**
@@ -196,11 +196,11 @@
     - स्रोत संरक्षण;
     - तपास; किंवा
     - माहिती पर्यावरणाला सेवा देणारे प्रकाशन.
-    Spot actions that impair the press by their real effect, आणि treat press-directed character as an aggravating factor under **अनुच्छेद XIII-A** (*Security, Intelligence, आणि Covert-Power Limits*) and **अनुच्छेद V-H** (*Expression, Assembly, आणि Press*). Apply heightened [आवश्यकता](core_05_band_accountability.md#necessity) and [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) scrutiny, आणि keep any limit narrowly tailored.
+    Spot actions that impair the press by their real effect, आणि treat press-directed character as an aggravating factor under **अनुच्छेद XIV-A** (*Security, Intelligence, आणि Covert-Power Limits*) and **अनुच्छेद V-H** (*Expression, Assembly, आणि Press*). Apply heightened [आवश्यकता](core_05_band_accountability.md#necessity) and [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) scrutiny, आणि keep any limit narrowly tailored.
 <a id="press-and-journalistic-activity-constitutional-c"></a>
 - **काय टिकले पाहिजे**
   - **प्राथमिक अपयश:** उच्च-परीक्षण मर्यादा विश्लेषणात अपयशी ठरणारे, पत्रकारिता खराब करण्याच्या हेतूने राज्य किंवा संचालक कृती;
-  - **दुय्यम अपयश:** stretching [सद्भावना](core_05_band_accountability.md#good-faith) or **अनुच्छेद VIII-C** (*Truthful Publication and High-Impact Publication Limits*) त्या मानकांनी कायदेशीर समीक्षात्मक वृत्तांकन, तपास प्रकाशन, किंवा मतभेद रोखले;
+  - **दुय्यम अपयश:** stretching [सद्भावना](core_05_band_accountability.md#good-faith) or **अनुच्छेद IX-C** (*Truthful Publication and High-Impact Publication Limits*) त्या मानकांनी कायदेशीर समीक्षात्मक वृत्तांकन, तपास प्रकाशन, किंवा मतभेद रोखले;
   - **तृतीय अपयश:** पत्रकारिता म्हणून कार्य करणारे बातमी संकलन, तपास, किंवा प्रकाशन नसताना पत्रकारिता कसोटी म्हणून वापरलेली प्रमाणपत्रे, संस्थात्मक दर्जा, किंवा सामान्य व्यावसायिक भाषण.
 
 ---
@@ -662,7 +662,7 @@
 
 Where admission scope is met, this cluster is the joint home for disclosure, audit, verification (including external detectability), आणि assurance depth when Chapters Two through Four require traceable, challengeable evidence of what a system does and whether compliance claims hold.
 
-**देखरेख चौकट.** याच्याखाली the [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, आणि get audit access — owned here and at **अनुच्छेद XV** (*Audit, Transparency, आणि Independent Verification*). [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [अध्याय सात](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
+**देखरेख चौकट.** याच्याखाली the [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, आणि get audit access — owned here and at **अनुच्छेद XVI** (*Audit, Transparency, आणि Independent Verification*). [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [अध्याय सात](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
 
 **प्रणाली वर्ग आणि प्रमाणबद्धता.** Transparency, auditability, आणि verification duties scale with system class under **[corpus_systems.md](../../corpus_systems.md), CS-3 — प्रणाली वर्गीकरण आणि हाताळणी**, आणि with material impact, dependency, आणि risk. Higher-class systems (**Class A**, **B**, **C**) need more than lower-class systems (**Class L**, **P**), यासह:
 - खोल आश्वासन;
@@ -882,8 +882,8 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 
 - समूह घटक: [Def.O1 पारदर्शकता, लेखापरीक्षण-योग्यता आणि सत्यापन](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - सोबत वाचा: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), [ज्ञानविषयक अखंडता](core_05_band_oversight.md#epistemic-integrity), [पारदर्शकता](core_05_band_oversight.md#transparency), [सत्यापनीयता](core_05_band_oversight.md#verifiability), [पुरावा संरक्षण](core_05_band_oversight.md#evidence-preservation), आणि [मूल्यमापन पूर्णता बंधन](core_05_band_oversight.md#evaluation-completeness-constraint).
-- सोबत वाचा: **अनुच्छेद XV** (*Audit, Transparency, आणि Independent Verification*); [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) Chapters Two through Four.
-- व्यवस्थापक द्वार (असंक्रियात्मक): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (अनुच्छेद XV)](../../core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [अनुच्छेद XV](../../core_06_rights_part_c.md#audit-three-layers).
+- सोबत वाचा: **अनुच्छेद XVI** (*Audit, Transparency, आणि Independent Verification*); [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) Chapters Two through Four.
+- व्यवस्थापक द्वार (असंक्रियात्मक): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (अनुच्छेद XVI)](../../core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [अनुच्छेद XVI](../../core_06_rights_part_c.md#audit-three-layers).
 
 </details>
 
@@ -1076,7 +1076,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - समूह घटक: [Def.O1 पारदर्शकता, लेखापरीक्षण-योग्यता आणि सत्यापन](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- मालक तळ: [अनुच्छेद XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
+- मालक तळ: [अनुच्छेद XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
 - सोबत वाचा: [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability), [पारदर्शकता](core_05_band_oversight.md#transparency), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), [प्रमाणबद्धता](core_05_band_accountability.md#proportionality), [व्यवहार्यता](core_05_band_accountability.md#feasibility), [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint), आणि [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 
 </details>
@@ -1088,7 +1088,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - **ते काय आहे**
   - **व्याप्तीत:** Whether system behavior, outputs, आणि effects can be externally detected, measured, आणि independently validated for [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability). Constitutive conditions:
     - स्वतंत्र सत्यापनापूर्वी बाह्य शोधनीयता मोजली जाते;
-    - practical access ([अनुच्छेद XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility); [व्यवहार्यता](core_05_band_accountability.md#feasibility));
+    - practical access ([अनुच्छेद XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [व्यवहार्यता](core_05_band_accountability.md#feasibility));
     - संचालक स्व-कथनापासून स्वतंत्रता;
     - proportionate burden under [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) and [भौतिक प्रभाव](core_05_band_oversight.md#material-impact); and
     - reliability under ordinary stress, misuse, आणि [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1113,7 +1113,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
   - **दुय्यम माप:** [देखरेख मापन कुटुंब](core_05_apex_oversight_leg.md#oversight-measurement-family) — *संज्ञ प्राणी प्रणाली काय दाखवतात ते पाहू, सत्यापित करू आणि त्यावर विश्वास ठेवू शकतात का?* येथे हे विचारा: observed behavior can be independently validated by reproducible methods in practice.
 
     **दुय्यम मूल्यमापन:** स्वतंत्र सत्यापन या पद्धतींनी पुष्टी करा:
-    - affected and appropriately authorized parties can actually perform ([अनुच्छेद XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility); [व्यवहार्यता](core_05_band_accountability.md#feasibility));
+    - affected and appropriately authorized parties can actually perform ([अनुच्छेद XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [व्यवहार्यता](core_05_band_accountability.md#feasibility));
     - बाह्य शोधनीय पुराव्यावर विश्रांती घ्या — अंतर्गत दावे किंवा अनुमानित हेतू नाही;
     - are sized to system impact under [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) and [भौतिक प्रभाव](core_05_band_oversight.md#material-impact); and
     - remain reliable under ordinary stress, misuse, आणि [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1226,7 +1226,7 @@ Where admission scope is met, this cluster is the home for honest representation
     from good-faith observation and bounded interpretation, under [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint) and [सद्भावना](core_05_band_accountability.md#good-faith).
 <a id="publication-truthfulness-and-recklessness-floor-c"></a>
 - **काय टिकले पाहिजे**
-  - Good-faith publication of observations, evidence, आणि bounded interpretations is governed by अध्याय अकरा **Articles VIII**, **XII**, आणि **XIII** as applicable and must satisfy this cluster jointly under [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint), [सद्भावना](core_05_band_accountability.md#good-faith), आणि [ज्ञानविषयक अखंडता](core_05_band_oversight.md#epistemic-integrity).
+  - Good-faith publication of observations, evidence, आणि bounded interpretations is governed by अध्याय अकरा **Articles IX**, **XIII**, आणि **XIV** as applicable and must satisfy this cluster jointly under [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint), [सद्भावना](core_05_band_accountability.md#good-faith), आणि [ज्ञानविषयक अखंडता](core_05_band_oversight.md#epistemic-integrity).
   - **प्राथमिक अपयश:** जाणून खोटे प्रकाशन, किंवा याकडे बेपर्वा दुर्लक्षाने केलेले प्रकाशन:
     - अचूकता;
     - अनिश्चितता;

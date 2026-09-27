@@ -260,7 +260,7 @@
 - [الخصائص المحمية](../../core_05_band_participation.md#protected-characteristics-constitutional)
 - [قيد نشر البيانات المحمية والحالة الداخلية](../../core_05_band_oversight.md#protected-data-and-internal-state-publication-constraint)
 - [الحد المحمي للحالة الداخلية](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional)
-- [حجب الإشارة الحميمة المحمية والتحايل على مركز **المادة X-C** (*الخدمات الجنسية التجارية الرضائية بين البالغين والاستغلال الجنسي*)](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention)
+- [حجب الإشارة الحميمة المحمية والتحايل على مركز **المادة XI-C** (*الخدمات الجنسية التجارية الرضائية بين البالغين والاستغلال الجنسي*)](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention)
 - [الإبلاغ المحمي (كشف المخالفات)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
 - [الانتقام من الإبلاغ المحمي والتدخل في الوصول](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)
 - [تباعد المؤشرات البديلة](../../core_05_band_oversight.md#proxy-divergence)

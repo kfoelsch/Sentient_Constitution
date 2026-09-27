@@ -44,7 +44,7 @@
 > - **第二章から第四章：** ここで用いる証拠についての記録、保管、追跡可能性、および検証の規律を供給する。
 > - **第一章：** 緊急権限、必要性、集中、およびシステムの捕捉に関連する原則を供給する。
 > - **第十一章：** フォーラム経路づけ、誠実性ファミリーの既定経路づけ、移譲、および認証の規律を供給する。
-> - **第六章：** 権利の床、**Article XXIII-B**（《非軽微な制限、原状回復、修復的説明責任の制約》）の共同要件および**暴力についての拘禁**、**Article XXIII-C**（《制限最小かつ期限付きの規則》）の審査の規律、**Article XXIV-C**（《適時の解決と遅延防止の床》）の救済時期の規律、および **Article XXIII-A**（《正義の目的と範囲》）の審査と公表の保障を供給する；ここでの**第 4.1 節**は検証済みの反憲法的不正行為について第九章の救済と是正を特化し、**第 4.2 節**は予防ロック（求められるところでの拘禁を含む）を特化し、**第 4.3 節**は自発的な公開説明責任の表明を特化する。
+> - **第六章：** 権利の床、**Article XXIV-B**（《非軽微な制限、原状回復、修復的説明責任の制約》）の共同要件および**暴力についての拘禁**、**Article XXIV-C**（《制限最小かつ期限付きの規則》）の審査の規律、**Article XXV-C**（《適時の解決と遅延防止の床》）の救済時期の規律、および **Article XXIV-A**（《正義の目的と範囲》）の審査と公表の保障を供給する；ここでの**第 4.1 節**は検証済みの反憲法的不正行為について第九章の救済と是正を特化し、**第 4.2 節**は予防ロック（求められるところでの拘禁を含む）を特化し、**第 4.3 節**は自発的な公開説明責任の表明を特化する。
 > - **第十二章：** 最終の第十章指定に結びついた統治正当性の帰結を供給する。
 > - **第十三章から第十五章：** 変更経路の有効性、付託、手続、および保管の規則を供給する；最終の第十章指定を出さない。
 >
@@ -147,7 +147,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[§1](#1-decision-framework-scope-and-authority)（*指定の決定がどう働くか*）。
-- 緊急権限：[第一章](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) の緊急と必要性の規律；**基準 5** および **6** を有界な緊急権限に対して読むところでの [Article XXIII-D：緊急措置と継続負担](core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden)。
+- 緊急権限：[第一章](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) の緊急と必要性の規律；**基準 5** および **6** を有界な緊急権限に対して読むところでの [Article XXIV-D：緊急措置と継続負担](core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden)。
 - 下流の指定決定：[§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity)。
 - 下流の保障と規律：[§4](#4-due-process-safeguards-for-slot-assignment)。
 - 本節：指定基準の集合；統一事件の規則；治癒された基準 1–4 の変更または記録の誤りについての**善意の起草の除外**。
@@ -198,8 +198,8 @@
 2. **知りながらの偽造または抑制：** 提案、審査、採択、公表、**または他の実質的な憲法上の保管もしくは検証**の記録における、知りながらの偽造、実質的な省略、または証拠／保管の操作。
 3. **実質的な巻き戻し効果：** 憲法上の保護の、実際のまたは試みられた実質的な弱体化。直接に、または同等の構造的回避によって。
 4. **因果的に重要な行為：** 行為が、違法な憲法上の効果、遅れた是正、塞がれた異議の権利、または権利の床の劣化に実質的に寄与する。
-5. **反乱または実質的な強制的転覆：** **力**、**強制**、または**簒奪**を用いて、この憲法の操作性の憲法上の権威を**転覆**し、**停止**し、または**置き換える**、組織されたまたは実質的な**違法**な行為。これは、**第一章**および **Article XXIII-D**（《緊急措置と継続負担》）または同等の**必要性**に有界な緊急権限のもとで正当化される行為を除く。
-6. **操作性の無効化：** 憲法上の**過程**または**救済**を実務上使えないようにする行為。これは、**第一章**および **Article XXIII-D**（《緊急措置と継続負担》）または同等の**必要性**に有界な緊急権限のもとで正当化される行為を除く。
+5. **反乱または実質的な強制的転覆：** **力**、**強制**、または**簒奪**を用いて、この憲法の操作性の憲法上の権威を**転覆**し、**停止**し、または**置き換える**、組織されたまたは実質的な**違法**な行為。これは、**第一章**および **Article XXIV-D**（《緊急措置と継続負担》）または同等の**必要性**に有界な緊急権限のもとで正当化される行為を除く。
+6. **操作性の無効化：** 憲法上の**過程**または**救済**を実務上使えないようにする行為。これは、**第一章**および **Article XXIV-D**（《緊急措置と継続負担》）または同等の**必要性**に有界な緊急権限のもとで正当化される行為を除く。
 
 同じ行為を、それぞれが独自の独立した証明を持たない限り、**基準 5** と **基準 6** の両方として数えるな。たとえば、記録は、別々の強制行為と、過程または救済を使えないようにする別々の仕方を示さなければならない — 一つの未分化の事実への二つのラベルではない。
 
@@ -275,8 +275,8 @@
 - 上流：[§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity)（*違反軸 s = 7–9 の指定*）；[§2](#2-criteria-set-for-slot-assignment)（*基準の集合*）、**善意の起草の除外**を含む。
 - パターン適用：[§5.3](core_10_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)（*領域の氾濫*）；[§5.4](core_10_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)（*情報圏ゾーンの氾濫*）；[§5.5](core_10_b_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)（*贈賄と不適切な便益の交換*）；[§5.6](core_10_b_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct)（*違法または違憲の命令行為*）；[§5.7](core_10_b_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct)（*反憲法的行為の報酬、保護、または正常化*）；[§5.8](core_10_b_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct)（*執行の拒否、抑制、または不起訴の行為*）；[§5.9](core_10_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct)（*インフラの拒否、破壊、または依存の切断の行為*）；[§5.10](core_10_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)（*フォーラム忌避の失敗と偏った部会参加*）；[§5.11](core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)（*説明責任の妨害*）。
 - 下流：[§4.1](#4-1-remedy-and-correction-anti-constitutional)（*救済と是正（反憲法的）*）；[§4.2](#4-2-prevention-anti-constitutional-locks)（*予防 — 反憲法的ロック*）；[§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional)（*自発的な公開説明責任の表明（反憲法的）*）。
-- フォーラムの規律：[第十一章 §2](core_11_forum.md#2-default-venue-and-primary-stakes) から [§5](core_11_forum.md#5-escalation-and-certification) は、既定の誠実性主導、適正手続のフォーラム群への適用、移譲、および認証を覆う。**第 4 節**を、**第六章**の **Article XXIII**（《衝突解決、段階引き上げ、緊急の比例性》）とあわせて読め。
-- あわせて読む：審査と公表の保障についての [Article XXIII-A：正義の目的と範囲](core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope)；公表についての追跡標準としての[第二章から第四章](core_02_definition_structure.md)；本節が特化する一般の救済 → ロック → 表明の文法についての [第九章 §4](core_09_standing_integration.md#4-violation-correction-and-prevention)（*違反、是正、および予防*）。
+- フォーラムの規律：[第十一章 §2](core_11_forum.md#2-default-venue-and-primary-stakes) から [§5](core_11_forum.md#5-escalation-and-certification) は、既定の誠実性主導、適正手続のフォーラム群への適用、移譲、および認証を覆う。**第 4 節**を、**第六章**の **Article XXIV**（《衝突解決、段階引き上げ、緊急の比例性》）とあわせて読め。
+- あわせて読む：審査と公表の保障についての [Article XXIV-A：正義の目的と範囲](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope)；公表についての追跡標準としての[第二章から第四章](core_02_definition_structure.md)；本節が特化する一般の救済 → ロック → 表明の文法についての [第九章 §4](core_09_standing_integration.md#4-violation-correction-and-prevention)（*違反、是正、および予防*）。
 
 </details>
 
@@ -297,7 +297,7 @@
 
 - 上流：[§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity)（*違反軸 s = 7–9 の指定*）；[§4](#4-due-process-safeguards-for-slot-assignment)（*適正手続の保障、救済、および予防*）。
 - 下流：[§4.2](#4-2-prevention-anti-constitutional-locks)（*予防 — 反憲法的ロック*）；[§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional)（*自発的な公開説明責任の表明（反憲法的）*）；[第九章](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) の軌跡効果と軌跡ロックの統合；[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) のフォーラム経路づけと認証。
-- あわせて読む：[第九章 §4.1](core_09_standing_integration.md#41-remedy-and-correction)（*救済と是正*）；[Article XXIII-A](core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope)（《正義の目的と範囲》）；[Article XXIII-B](core_06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints)（《原状回復、是正、リハビリテーション、および説明可能な帰属》）；[Article XXIII-C](core_06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule)（《期間、審査、および復元》）；[Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor)（《適時の解決と救済の開始》）。
+- あわせて読む：[第九章 §4.1](core_09_standing_integration.md#41-remedy-and-correction)（*救済と是正*）；[Article XXIV-A](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope)（《正義の目的と範囲》）；[Article XXIV-B](core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints)（《原状回復、是正、リハビリテーション、および説明可能な帰属》）；[Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule)（《期間、審査、および復元》）；[Article XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor)（《適時の解決と救済の開始》）。
 
 </details>
 
@@ -341,7 +341,7 @@
   - 統一事件が引き起こし、または実質的に寄与した、実質的危害、権利の喪失、救済の喪失、依存の危害、証拠の劣化、または過程の無効化；
   - 原状回復、補償、復元、是正、適法なところでの吐出または取り戻し、文字どおりの修復が不可能なところでの代替保障、および危害が類全体または構造的であるところでのシステム的是正；
   - 各救済を担い、または資金を出さなければならない責任ある行為者、役割、制度、システム、資金、承継者、または調整体；
-  - **Article XXIV-C**（《適時の解決と遅延防止の床》）のもとでの開始期限、完了の里程標、検証要件、および審査の引き金；
+  - **Article XXV-C**（《適時の解決と遅延防止の床》）のもとでの開始期限、完了の里程標、検証要件、および審査の引き金；
   - 誰が遂行を監督するか、遅れが起きたときに何が起きるか。
 - **優先と暫定保護：**
   - 影響を受ける当事者と実務上の復元を第一に置け — 評判の修復、制度の都合、または通常の行政順序より前に。
@@ -371,7 +371,7 @@
 
 - 上流：[§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity)（*違反軸 s = 7–9 の指定*）；[§4](#4-due-process-safeguards-for-slot-assignment)（*適正手続の保障、救済、および予防*）；[§4.1](#4-1-remedy-and-correction-anti-constitutional)（*救済と是正（反憲法的）*）。
 - 下流：[§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional)（*自発的な公開説明責任の表明（反憲法的）*）；[第九章 §5.5](core_09_standing_integration.md#55-special-locks)（*反憲法的信頼ロック*）。
-- あわせて読む：[第九章 §4.2](core_09_standing_integration.md#42-general-standing-locks)（*予防 — 一般軌跡ロック*）；[第九章 §5.1](core_09_standing_integration.md#51-definition-and-attachment)（*定義と添付*）；[第九章 §5.4](core_09_standing_integration.md#54-special-violation-rules)（*強制的または自由を制限する保障*）；[Article XXIII-B](core_06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints)（《共同要件および**暴力についての拘禁***）；[Article XXIII-C](core_06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule)（《期間、審査、復元、および再評価の規律》）。
+- あわせて読む：[第九章 §4.2](core_09_standing_integration.md#42-general-standing-locks)（*予防 — 一般軌跡ロック*）；[第九章 §5.1](core_09_standing_integration.md#51-definition-and-attachment)（*定義と添付*）；[第九章 §5.4](core_09_standing_integration.md#54-special-violation-rules)（*強制的または自由を制限する保障*）；[Article XXIV-B](core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints)（《共同要件および**暴力についての拘禁***）；[Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule)（《期間、審査、復元、および再評価の規律》）。
 
 </details>
 
@@ -395,9 +395,9 @@
   - **第 3 節**は、不正行為が検証されたか、どれほど重大かを決める；本下位節は、自由を制限する保障として拘禁が求められるかを決める。
   - 拘禁は次を満たさなければならない：
     - [第九章 §5.4](core_09_standing_integration.md#54-special-violation-rules)（《強制的または自由を制限する保障》）；
-    - **Article XXIII-B**（《非軽微な制限、原状回復、修復的説明責任の制約》）の共同要件；
+    - **Article XXIV-B**（《非軽微な制限、原状回復、修復的説明責任の制約》）の共同要件；
     - 個別化された帰属、および異議と上訴の保護；および
-    - **第六章 D部**における **Article XXIII-C**（《制限最小かつ期限付きの規則》）の期間、審査、復元、および再評価の規律。
+    - **第六章 D部**における **Article XXIV-C**（《制限最小かつ期限付きの規則》）の期間、審査、復元、および再評価の規律。
   - 本下位節が拘禁を求めるときに、生命の剥奪、釈放、行政上の再ラベル付け、またはより軽い措置だけを置き換えることは、不遵守である。
 
 <a id="4-3-voluntary-public-accountability-expression"></a>
@@ -410,7 +410,7 @@
 
 - 上流：[§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity)（*違反軸 s = 7–9 の指定*）；[§4](#4-due-process-safeguards-for-slot-assignment)（*適正手続の保障、救済、および予防*）；[§4.1](#4-1-remedy-and-correction-anti-constitutional)（*救済と是正（反憲法的）*）；[§4.2](#4-2-prevention-anti-constitutional-locks)（*予防 — 反憲法的ロック*）。
 - 下流：[§5](core_10_b_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing)（*パターン適用と基準の経路づけ*）。
-- あわせて読む：[第九章 §4.3](core_09_standing_integration.md#43-voluntary-public-accountability-expression)（*自発的な公開説明責任の表明*）；[Article XXIII-B](core_06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints)（《共同要件》）；[Article XXIV-B](core_06_rights_part_d.md#article-xxiv-b-rights-collision-procedure-and-restorative-alignment)（《権利衝突手続と修復的整合》）。
+- あわせて読む：[第九章 §4.3](core_09_standing_integration.md#43-voluntary-public-accountability-expression)（*自発的な公開説明責任の表明*）；[Article XXIV-B](core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints)（《共同要件》）；[Article XXV-B](core_06_rights_part_d.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment)（《権利衝突手続と修復的整合》）。
 
 </details>
 
@@ -422,7 +422,7 @@
 
 - **自発的な公開説明責任の表明：** 検証済みの反憲法的不正行為についての修復的な指名された経路における説明責任を負う当事者は、修復、信頼の復元、または共同体の癒しを支えるところで、補足の説明責任の行為として、公表された承認または謝罪を自発的に選んでよい。第九章 §4.3 の自発性、真正性、劣化禁止、および非代替の制御に服する。
 - **真正でない、または濫用的な表明：** 実質的に不誠実、操作的、真実の説明責任なしの見世物、または影響を受ける当事者もしくは公衆に対して濫用的な、公表された承認または謝罪は、修復的要件を満たさない。
-  - 説明責任を負う当事者について、否定的な正義の帰結を伴ってよい — **第 3 節**のもとでの追加の不正行為認定、リハビリテーションの信用の低減、および **Article XXIII-B**（《非軽微な制限、原状回復、修復的説明責任の制約》）と**第八章**のもとでの他の適法な制限を含む。
+  - 説明責任を負う当事者について、否定的な正義の帰結を伴ってよい — **第 3 節**のもとでの追加の不正行為認定、リハビリテーションの信用の低減、および **Article XXIV-B**（《非軽微な制限、原状回復、修復的説明責任の制約》）と**第八章**のもとでの他の適法な制限を含む。
   - 偽のまたは濫用的な謝罪を十分な修復として扱い、またはそれを用いて **第 4.1 節**のもとでの必要な保護もしくは是正、または **第 4.2 節**のもとでのロックを避けることは、不遵守である。
 - 公表された表明への参加の拒否は、それ自体では、基線の制裁を上げ、または**反憲法的信頼ロック**を広げてはならない。
 

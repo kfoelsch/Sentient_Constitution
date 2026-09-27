@@ -11,7 +11,7 @@ Add a concise companion to `CONCEPTUAL_OVERVIEW.md` that helps a reader distingu
 ## Plan
 
 1. **Set the boundary.** State prominently that numbered `core_*` files bind; the overview is navigation support.  Define the reader question as “what does this record carry, and what can it not decide?” rather than prescribing an implementation.
-2. **Map source-owned record families.** Use only source-grounded examples: attributable/materially binding acts; system context and certification; forum case records; Chapter Nine contribution and violation standing records; and Chapter Ten integration/effect records.
+2. **Map source-owned record families.** Give only examples found in the source: attributable/materially binding acts; system records and certification; forum case records; Chapter Nine contribution and violation standing records; and Chapter Ten integration/effect records.
 3. **Show relationships without a master pipeline.** Provide a Mermaid relationship map that uses cross-references rather than implied hand-offs.  Explain the important non-substitutions: evidence and logs are not records; case records do not create standing effects; integration records do not alter their sources; contribution and violation remain separate.
 4. **Explain cross-cutting safeguards.** Cover the four seats, verification, custody, versioning, contestability, correction, audit trail, and continuity at a high level, linked to their primary sources.
 5. **Integrate and validate.** Link the overview from the public and editor entry pages; run the repository's Markdown-link/reference checks relevant to changed files and manually inspect every link and diagram for unsupported claims.

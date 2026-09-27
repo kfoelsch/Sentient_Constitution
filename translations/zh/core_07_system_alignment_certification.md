@@ -32,7 +32,7 @@
 *用直白的话说：第七章分成两份 — A 部分讲如何评价，B 部分讲记录与过程。把它们当作一章来读。*
 
 先读 **A 部分** 了解评价要求；**B 部分** 了解记录、评议所过程与轨迹桥接。
-在**监督**四元腿下，监督要求审计；第七章是诸种审计过程中特别大、高利害的一种（评议所监督的对齐审查，带承认结果）。审计底线仍在 **Article XV** 与第五章[可审计性](core_05_band_oversight.md#auditability)。
+在**监督**四元腿下，监督要求审计；第七章是诸种审计过程中特别大、高利害的一种（评议所监督的对齐审查，带承认结果）。审计底线仍在 **Article XVI** 与第五章[可审计性](core_05_band_oversight.md#auditability)。
 - [第七章，A 部分 — 评价](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
 - [第七章，B 部分 — 记录与过程](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process)
 ---

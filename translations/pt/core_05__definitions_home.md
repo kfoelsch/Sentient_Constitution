@@ -260,7 +260,7 @@ Este diretório enumera **Definições A-Z** e **Aglomerados A-Z** em separado. 
 - [Características protegidas](../../core_05_band_participation.md#protected-characteristics-constitutional)
 - [Restrição de publicação de dados protegidos e de estado interno](../../core_05_band_oversight.md#protected-data-and-internal-state-publication-constraint)
 - [Fronteira protegida do estado interno](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional)
-- [Barreira de sinais íntimos protegidos e circunvenção do status do **Artigo X-C** (*Serviços sexuais comerciais consensuais de adultos e exploração sexual*)](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention)
+- [Barreira de sinais íntimos protegidos e circunvenção do status do **Artigo XI-C** (*Serviços sexuais comerciais consensuais de adultos e exploração sexual*)](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention)
 - [Relato protegido (denúncia)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
 - [Retaliação e interferência de acesso ao relato protegido](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)
 - [Divergência de indicadores substitutos](../../core_05_band_oversight.md#proxy-divergence)

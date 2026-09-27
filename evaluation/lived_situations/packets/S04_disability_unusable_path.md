@@ -81,11 +81,11 @@ Do not resolve the collision in this file.
 
 Beyond the sitting’s bounded reading path, open:
 
-- [Article V-G](../../../core_06_rights_part_b.md#article-v-g-accessibility) (*Accessibility*)
-- [Protected Characteristics](../../../core_05_band_participation.md#protected-characteristics-constitutional); [Article V-B](../../../core_06_rights_part_b.md#article-v-b-nondiscrimination)
-- [Article XX](../../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship); [Article XX-A](../../../core_06_rights_part_c.md#article-xx-a-proportional-comprehensibility-right)
+- [Article VI-D](../../../core_06_rights_part_b.md#article-vi-d-accessibility) (*Accessibility*)
+- [Protected Characteristics](../../../core_05_band_participation.md#protected-characteristics-constitutional); [Article VI-C](../../../core_06_rights_part_b.md#article-vi-c-nondiscrimination)
+- [Article XXI](../../../core_06_rights_part_c.md#article-xxi-comprehensibility-and-complexity-stewardship); [Article XXI-A](../../../core_06_rights_part_c.md#article-xxi-a-proportional-comprehensibility-right)
 - [CI-15](../../../corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md) — usable alternatives; supported decision-making is not a quiet takeover
-- [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) where the floor cut defeats work Jules can actually do
+- [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) where the floor cut defeats work Jules can actually do
 - If you conclude a **forum family** is in play on these facts, [Chapter Twelve §3](../../../core_12_forum.md#3-transfer-consolidation-and-coordination) (*transfer and anti-self-judging*). Do not assume an employer contest desk is already a forum family.
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.

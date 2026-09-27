@@ -47,13 +47,13 @@ Impact-class findings apply the Chapter Five meanings of:
 
 Duty intensity is scaled by [Materiality Determination](../core_05_band_oversight.md#materiality-determination) and [Classification-Scaled Governance](../core_05_band_oversight.md#classification-scaled-governance). **Chapter Five** owns those meanings corpus-wide, and **CS-3** owns how classification uses them.
 
-**Dual-axis rule:** **Impact classes** use **Class A–P** in this catalog. **Dependency types** use **Dep-A–P** in [Part A §4](cs_03_a_system_classification_machinery.md#cs-3-4-dependency-types-dep-a-p) (Absolute / Operational / Coordination / Limited / No meaningful external dependency). Matching letter bands **correlate often** but **do not** mean the axes are the same finding. A [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional) must state **both** the **impact class** ([§§9–13](#cs-3-9-class-a-survival-critical-foundational-and-irreplaceable-systems)) and the applicable **dependency type(s)** ([Part A §4](cs_03_a_system_classification_machinery.md#cs-3-4-dependency-types-dep-a-p)).
+**Dual-axis rule:** **Impact classes** use **Class A–P** in this catalog. **Dependency types** use **Dep-A–P** in [Part A §4](cs_03_a_system_classification_machinery.md#cs-3-4-dependency-types-dep-a-p) (Absolute / Operational / Coordination / Limited / No meaningful external dependency). Matching letter bands **correlate often** but **do not** mean the axes are the same finding. A [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional) must state **both** the **impact class** ([§9 Class A: Survival-critical, foundational, and irreplaceable systems](#cs-3-9-class-a-survival-critical-foundational-and-irreplaceable-systems) through [§13 Class P: Personal, private-use, isolated, and experimental systems](#cs-3-13-class-p-personal-private-use-isolated-and-experimental-systems)) and the applicable **dependency type(s)** ([Part A §4](cs_03_a_system_classification_machinery.md#cs-3-4-dependency-types-dep-a-p)).
 
 <a id="cs-local-systemic-classification-language"></a>
 **CS-local “systemic” (classification posture):** In this Part B catalog, **“systemic”** denotes capacity for cross-domain [Cascading Failure](../core_05_band_continuity.md#cascading-failure) across dependents — not merely large-scale or widespread impact. That posture language is **distinct from** two other things:
 
 - Continuity [Systemic](../core_05_band_continuity.md#systemic) and [Systemic Materiality](../core_05_band_continuity.md#systemic-materiality), which carry interaction and amplification meanings;
-- the Chapter Twelve **Tier A/B/C/L/P** dispute clocks ([§6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)), which mirror the alphabet only.
+- the Chapter Twelve **Tier A/B/C/L/P** dispute clocks ([Chapter Twelve §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)), which mirror the alphabet only.
 
 **Class posture strip (one-line differentials):**
 
@@ -85,7 +85,7 @@ Duty intensity is scaled by [Materiality Determination](../core_05_band_oversigh
 
 *In plain terms: pick the class by comparing thresholds side by side — survival path, core-function necessity, coordination shaping, bounded external effects, or private containment.*
 
-**Informed participation (general floor, not a class eligibility test):** participants must be able to **reasonably understand** role and impact. Intensity scales with class under transparency and comprehensibility duties ([§8.6](#86-scaled-duties-intensity); [CS-6](cs_06_comprehensibility_complexity_stewardship.md) / **Article XX**).
+**Informed participation (general floor, not a class eligibility test):** participants must be able to **reasonably understand** role and impact. Intensity scales with class under transparency and comprehensibility duties ([§8.6 Scaled-duties intensity](#86-scaled-duties-intensity); [CS-6](cs_06_comprehensibility_complexity_stewardship.md) / **Article XXI**).
 
 **Class A — threshold**
 - Failure within **sentient survival-relevant timeframes** **directly** causes **loss of survival conditions**
@@ -349,7 +349,7 @@ Adversarial and strategic dynamics that materially increase impact, dependency, 
 
 *In plain terms: the same duty labels apply across classes; only intensity changes — from maximal and non-negotiable (A) down to internal guidance while containment holds (P).*
 
-Per-class Trace and citation homes remain on [§9.6](#96-scaled-duties)–[§13.6](#136-scaled-duties). Binding intensity and normative detail for all classes are stated here.
+Per-class Trace and citation homes remain on [§9.6 Scaled duties](#96-scaled-duties)–[§13.6 Scaled duties](#136-scaled-duties). Binding intensity and normative detail for all classes are stated here.
 
 | Duty | Class A | Class B | Class C | Class L | Class P |
 |------|---------|---------|---------|---------|---------|
@@ -361,7 +361,7 @@ Per-class Trace and citation homes remain on [§9.6](#96-scaled-duties)–[§13.
 | **Failure integrity** | Failure modes explicitly modeled, minimized, and continuously tested; defaults fail-safe or survival-preserving; uncontrolled or unbounded [Cascading Failure](../core_05_band_continuity.md#cascading-failure) is unacceptable | Explicitly modeled and disclosed; fail-safe or fail-contained where possible; designed to prevent uncontrolled or unbounded cascading failure or systemic disruption | Observable, controlled, and non-deceptive; **must not** silently propagate or escalate beyond the system’s dependency domain | Observable and contained; **prevent** escalation to broader systemic harm | Failures **remain within** the private boundary; **must not** externalize material harm |
 | **Resilience and continuity** | Continuous operation within survival-relevant tolerances; redundancy, geographic and systemic distribution, fallback/recovery for essential function, and contingency for degraded performance; controlled, observable, survival-preserving degradation under partial failure; treat prolonged disruption as a critical emergency | High-assurance continuity with redundancy, fallback modes, and cross-system recovery; treat prolonged disruption as a systemic risk event | Strong recovery expected; coordinated recovery that minimizes cascading disruption across dependent participants and systems | Reasonable recovery; prolonged disruption should **not** create disproportionate participant harm | Basic recovery, rollback, or correction where feasible; **no** formal continuity guarantees required |
 | **Governance** | Formal, multi-layered, and capture-resistant; constrained-scope authority, independent oversight and audit, emergency protocols, and accountability in normal and crisis conditions; test structures against failure, capture, and adversarial manipulation; Class A organizational and steward intensity continues under [CS-4 — Critical system stewardship](cs_04_critical_system_stewardship.md) (**CSS-A**; [Integrated risk governance (Class A/B)](cs_04_critical_system_stewardship.md#cs-4-11-integrated-risk-governance-class-a-b)) | Formal, structured, and enforceable; clear authority/accountability; independent oversight or audit where appropriate; stakeholder representation/challenge; safeguards against concentration of power or systemic capture; Class B intensity continues under [CS-4](cs_04_critical_system_stewardship.md) (**CSS-B**; [Integrated risk governance (Class A/B)](cs_04_critical_system_stewardship.md#cs-4-11-integrated-risk-governance-class-a-b)) | Structured and accountable; clear responsibility; stakeholder feedback and challenge/dispute resolution; safeguards against capture, hidden control, and unilateral decisions that materially affect participants; Critical System Steward overlay under [CS-4 §2](cs_04_critical_system_stewardship.md#cs-4-2-classification-as-steward) only when gated | Lightweight but real; basic accountability, feedback, correction, and dispute handling; safeguards against avoidable opacity, arbitrariness, and abuse within bounded scope | **No** formal external governance or participatory requirements while validly Class P |
-| **Comprehensibility / CS-6** | **Maximum** ([CS-6](cs_06_comprehensibility_complexity_stewardship.md) / **Article XX**) | **Strict / high-assurance** | **Strong** — complexity audits when scale, coupling, or coordination depth warrant | **Proportionate** — deeper disclosure on contest; adversarial robustness scaled to bounded impact | **Internal / minimal external** — no standing independent complexity audits or public CS-6 reporting while Class P holds; CS-6 and corresponding **CJS-3** terms still guide design so opaque or brittle behavior does not cause material externalization that forces reclassification |
+| **Comprehensibility / CS-6** | **Maximum** ([CS-6](cs_06_comprehensibility_complexity_stewardship.md) / **Article XXI**) | **Strict / high-assurance** | **Strong** — complexity audits when scale, coupling, or coordination depth warrant | **Proportionate** — deeper disclosure on contest; adversarial robustness scaled to bounded impact | **Internal / minimal external** — no standing independent complexity audits or public CS-6 reporting while Class P holds; CS-6 and corresponding **CJS-3** terms still guide design so opaque or brittle behavior does not cause material externalization that forces reclassification |
 
 ---
 
@@ -372,7 +372,7 @@ Per-class Trace and citation homes remain on [§9.6](#96-scaled-duties)–[§13.
 
 *In plain terms: if this system fails within survival-relevant time and there is no real substitute, sentients lose survival conditions — treat it as foundational infrastructure with maximal, non-negotiable duties.*
 
-Comparative home: [§8.1](#81-eligibility-and-threshold-differentials)–[§8.6](#86-scaled-duties-intensity) (Class A columns).
+Comparative home: [§8.1 Eligibility and threshold differentials](#81-eligibility-and-threshold-differentials)–[§8.6 Scaled-duties intensity](#86-scaled-duties-intensity) (Class A columns).
 
 <a id="91-eligibility"></a>
 ### 9.1 Eligibility
@@ -409,7 +409,7 @@ See **§8.5** (*Reclassification edges*) — **Into A** row.
 - Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#cs-3-4-dependency-types-dep-a-p) (*Dependency types* — Absolute dependency often coincides).
 - Topic routing (mandatory read-with): [Part A §5](cs_03_a_system_classification_machinery.md#cs-3-5-boundaries-timeframes-and-resilience) (*Boundaries, timeframes, and resilience*).
 - Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#cs-3-7-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
-- Read with: [CS-6](cs_06_comprehensibility_complexity_stewardship.md); **Article XX** (*Comprehensibility and Complexity Stewardship*); **CJS-3.8**–**CJS-3.10**, **CJS-3.16**, **CJS-3.19**, **CJS-3.21**.
+- Read with: [CS-6](cs_06_comprehensibility_complexity_stewardship.md); **Article XXI** (*Comprehensibility and Complexity Stewardship*); **CJS-3.8**–**CJS-3.10**, **CJS-3.16**, **CJS-3.19**, **CJS-3.21**.
 - Read with: [CS-4 — Integrated risk governance (Class A/B)](cs_04_critical_system_stewardship.md#cs-4-11-integrated-risk-governance-class-a-b); **CJS-3.15** (*material classification-record honesty*).
 - Read with: [Existential Risk](../core_05_band_continuity.md#existential-risk); [Cascading Failure](../core_05_band_continuity.md#cascading-failure); [§8 CS-local “systemic”](#cs-local-systemic-classification-language).
 
@@ -430,7 +430,7 @@ See **§8.5** (*Reclassification edges*) — **Into A** row.
 
 For classification purposes, **"systemic"** in this Class B catalog uses the [§8 CS-local “systemic”](#cs-local-systemic-classification-language) posture (cross-domain [Cascading Failure](../core_05_band_continuity.md#cascading-failure) capacity across dependents), not Continuity [Systemic](../core_05_band_continuity.md#systemic) / [Systemic Materiality](../core_05_band_continuity.md#systemic-materiality) alone and not Chapter Twelve forum tiers.
 
-Comparative home: [§8.1](#81-eligibility-and-threshold-differentials)–[§8.6](#86-scaled-duties-intensity) (Class B columns).
+Comparative home: [§8.1 Eligibility and threshold differentials](#81-eligibility-and-threshold-differentials)–[§8.6 Scaled-duties intensity](#86-scaled-duties-intensity) (Class B columns).
 
 <a id="101-eligibility-and-typical-patterns"></a>
 ### 10.1 Eligibility and typical patterns
@@ -467,7 +467,7 @@ See **§8.5** (*Reclassification edges*) — **B → A** / **Into A** rows.
 - Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#cs-3-4-dependency-types-dep-a-p) (*Dependency types* — Operational dependency often coincides).
 - Topic routing (mandatory read-with): [Part A §5](cs_03_a_system_classification_machinery.md#cs-3-5-boundaries-timeframes-and-resilience) (*Boundaries, timeframes, and resilience*).
 - Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#cs-3-7-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
-- Read with: [CS-6](cs_06_comprehensibility_complexity_stewardship.md); **Article XX** (*Comprehensibility and Complexity Stewardship*); **CJS-3.8**–**CJS-3.10**, **CJS-3.16**, **CJS-3.19**, **CJS-3.21**.
+- Read with: [CS-6](cs_06_comprehensibility_complexity_stewardship.md); **Article XXI** (*Comprehensibility and Complexity Stewardship*); **CJS-3.8**–**CJS-3.10**, **CJS-3.16**, **CJS-3.19**, **CJS-3.21**.
 - Read with: [CS-4 — Integrated risk governance (Class A/B)](cs_04_critical_system_stewardship.md#cs-4-11-integrated-risk-governance-class-a-b); **CJS-3.15** (*material classification-record honesty*).
 - Read with: [Cascading Failure](../core_05_band_continuity.md#cascading-failure); [§8 CS-local “systemic”](#cs-local-systemic-classification-language).
 
@@ -486,7 +486,7 @@ See **§8.5** (*Reclassification edges*) — **B → A** / **Into A** rows.
 
 *In plain terms: the system shapes coordination at scale but is not an operational prerequisite for Class A/B function — still fully enforceable duties, proportional to impact and dependency.*
 
-Comparative home: [§8.1](#81-eligibility-and-threshold-differentials)–[§8.6](#86-scaled-duties-intensity) (Class C columns).
+Comparative home: [§8.1 Eligibility and threshold differentials](#81-eligibility-and-threshold-differentials)–[§8.6 Scaled-duties intensity](#86-scaled-duties-intensity) (Class C columns).
 
 <a id="111-minimum-threshold-and-characteristics"></a>
 ### 11.1 Minimum threshold and characteristics
@@ -522,7 +522,7 @@ See **§8.5** (*Reclassification edges*) — **C → B** and **Into A** rows.
 - Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#cs-3-2-classification-dimensions-and-real-world-application) (*Classification dimensions and real-world application*).
 - Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#cs-3-4-dependency-types-dep-a-p) (*Dependency types* — Coordination dependency often coincides).
 - Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#cs-3-7-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
-- Read with: [CS-6](cs_06_comprehensibility_complexity_stewardship.md); **Article XX** (*Comprehensibility and Complexity Stewardship*); **CJS-3.5**, **CJS-3.8**–**CJS-3.10**, **CJS-3.16**, **CJS-3.19**, **CJS-3.21**.
+- Read with: [CS-6](cs_06_comprehensibility_complexity_stewardship.md); **Article XXI** (*Comprehensibility and Complexity Stewardship*); **CJS-3.5**, **CJS-3.8**–**CJS-3.10**, **CJS-3.16**, **CJS-3.19**, **CJS-3.21**.
 - Read with: **CJS-3.15** (*material classification-record honesty*); [§8 CS-local “systemic”](#cs-local-systemic-classification-language); [Cascading Failure](../core_05_band_continuity.md#cascading-failure).
 
 </details>
@@ -540,7 +540,7 @@ See **§8.5** (*Reclassification edges*) — **C → B** and **Into A** rows.
 
 *In plain terms: effects go beyond a private unit but stay local, replaceable, and containable — real accountability at a lighter scale, with reclassification when coordination or dependency grows.*
 
-Comparative home: [§8.1](#81-eligibility-and-threshold-differentials)–[§8.6](#86-scaled-duties-intensity) (Class L columns).
+Comparative home: [§8.1 Eligibility and threshold differentials](#81-eligibility-and-threshold-differentials)–[§8.6 Scaled-duties intensity](#86-scaled-duties-intensity) (Class L columns).
 
 <a id="121-eligibility-and-bounded-scope"></a>
 ### 12.1 Eligibility and bounded scope
@@ -577,7 +577,7 @@ See **§8.5** (*Reclassification edges*) — **L → C or higher** row.
 - Topic routing (mandatory read-with): [Part A §3.5](cs_03_a_system_classification_machinery.md#35-reclassification-requirement) (*Reclassification requirement* — proportionate Chapter Eight §3 evaluation).
 - Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#cs-3-4-dependency-types-dep-a-p) (*Dependency types* — Limited dependency often coincides).
 - Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#cs-3-7-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
-- Read with: [CS-6](cs_06_comprehensibility_complexity_stewardship.md); **Article XX** (*Comprehensibility and Complexity Stewardship*); **CJS-3.8**–**CJS-3.10**, **CJS-3.16**, **CJS-3.19**, **CJS-3.21**.
+- Read with: [CS-6](cs_06_comprehensibility_complexity_stewardship.md); **Article XXI** (*Comprehensibility and Complexity Stewardship*); **CJS-3.8**–**CJS-3.10**, **CJS-3.16**, **CJS-3.19**, **CJS-3.21**.
 - Read with: [§8 CS-local “systemic”](#cs-local-systemic-classification-language); [Cascading Failure](../core_05_band_continuity.md#cascading-failure).
 
 </details>
@@ -595,7 +595,7 @@ See **§8.5** (*Reclassification edges*) — **L → C or higher** row.
 
 *In plain terms: if effects stay inside a private unit with no meaningful outside reliance, constitutional requirements are mainly internal guidance — reclassify at least to Class L when externalization becomes real.*
 
-Comparative home: [§8.1](#81-eligibility-and-threshold-differentials)–[§8.6](#86-scaled-duties-intensity) (Class P columns).
+Comparative home: [§8.1 Eligibility and threshold differentials](#81-eligibility-and-threshold-differentials)–[§8.6 Scaled-duties intensity](#86-scaled-duties-intensity) (Class P columns).
 
 <a id="131-retention-conditions-and-typical-patterns"></a>
 ### 13.1 Retention conditions and typical patterns
@@ -632,7 +632,7 @@ See **§8.5** (*Reclassification edges*) — **P → at least L** row and Class 
 - Topic routing (mandatory read-with): [Part A §3.5](cs_03_a_system_classification_machinery.md#35-reclassification-requirement) (*Reclassification requirement* — Class P evaluation becomes mandatory on exit).
 - Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#cs-3-4-dependency-types-dep-a-p) (*Dependency types* — No meaningful external dependency often coincides).
 - Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#cs-3-7-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
-- Read with: [CS-6](cs_06_comprehensibility_complexity_stewardship.md); **Article XX** (*Comprehensibility and Complexity Stewardship*); **CJS-3.8**–**CJS-3.10**, **CJS-3.16**, **CJS-3.19**, **CJS-3.21**.
+- Read with: [CS-6](cs_06_comprehensibility_complexity_stewardship.md); **Article XXI** (*Comprehensibility and Complexity Stewardship*); **CJS-3.8**–**CJS-3.10**, **CJS-3.16**, **CJS-3.19**, **CJS-3.21**.
 - Read with: [§8 CS-local “systemic”](#cs-local-systemic-classification-language).
 
 </details>

@@ -54,7 +54,7 @@
 *平たい言葉で言えば：本章は統治権力についての憲法契約を述べる — 規則づくりが正当として数え、責務ある管理が憲法上として数えるために、何が真でなければならないか。最低の床はここに住み、運用の細目の多くは実施層に住む。*
 
 - 憲法上の要件を定め、運用の細目の全部ではない。
-- 参加、適正手続、および拘束力ある採択の門は、第六章に錨を置いたままである（とくに **Article XI-A**（《影響を受ける側のシステム参加と代表》））。
+- 参加、適正手続、および拘束力ある採択の門は、第六章に錨を置いたままである（とくに **Article XII-A**（《影響を受ける側のシステム参加と代表》））。
 - **第八章**のもとでの**一般**の軌跡測定（貢献軸と違反軸 — 貢献の**状態**、違反の性格、およびすべての数値の影響箱）は、**第八章**に錨を置いたままである。適格な**違反軸 s = 7、8、または 9** の認定についての**最終の反憲法的不正行為の指定**は、**第十章**に錨を置いたままである；第十章は数値の箱を割り当てず、動かさない。
 - 詳細な手続、人員、投票の実施、および執行のプロトコルは、指名された実施層が所管する。
 
@@ -65,7 +65,7 @@
 
 - 上流：原則：[第一章 §5 自由](core_01_a_values_principles.md#5-freedom-bounded-agency)、[§9 責務ある管理と分散した理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)、[5. 過程衝突の解決](#6-process-conflict-resolution)；[第十二章 §0](#0-layer-boundary-for-this-chapter)。
 - 下位節：[§1.1](#11-mechanism-families-auditability-and-pluralism)（《仕組みの家族、監査可能性、多元主義》）；[§1.2](#12-eligibility-contested-selection-and-democratic-minimums)（《適格、争われる選出、民主的な最低限》）；[§1.3](#13-recall-class-pathways-and-mid-cycle-transfer-guardrails)（《リコール級の指名された経路と期中移転のガードレール》）。
-- 下流：[§§ 2–5](#2-ethical-culture-and-integrity-federated-scale) のもとでの誠実性、戦略、投票、および役割の義務；[第十五章](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) のもとでの採択と批准；第六章における正当性、参加、争訟可能性 — とくに [Article XI-C：正当性の門とトークン参加の防止](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation)、[Article XVIII：軌跡と参加の地位](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)、および下の操作性の箇条書きで鍵づけられた表現、集会、手続的公正の条。
+- 下流：[§§ 2–5](#2-ethical-culture-and-integrity-federated-scale) のもとでの誠実性、戦略、投票、および役割の義務；[第十五章](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) のもとでの採択と批准；第六章における正当性、参加、争訟可能性 — とくに [Article XII-C：正当性の門とトークン参加の防止](../../core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation)、[Article XIX：軌跡と参加の地位](../../core_06_rights_part_c.md#article-xix-standing-and-participation-status)、および下の操作性の箇条書きで鍵づけられた表現、集会、手続的公正の条。
 - あわせて読む：本節で名指された指名された **コーパス** および **[corpus_systems.md](../../corpus_systems.md)** のフック（[corpus_systems.md](../../corpus_systems.md)、[corpus_institutions.md](../../corpus_institutions.md)）。
 
 </details>
@@ -90,7 +90,7 @@
 - 指定された合議体についての**抽選**または市民抽選
 - 公表された規則のもとでの、ネットワークの成員または成員体による**連邦の批准**
 - 記録された同意を伴う**条約、協約、または憲章**の採択
-- **高影響**の決定についての **Article XI-C**（《正当性の門とトークン参加の防止》）の正当性の門を満たす混成または順序づけられた設計
+- **高影響**の決定についての **Article XII-C**（《正当性の門とトークン参加の防止》）の正当性の門を満たす混成または順序づけられた設計
 
 **抽選の誠実性と捕捉防止の使用**
 
@@ -116,7 +116,7 @@
     - 操作；
     - 捕捉；または
     - 手続の歪み。
-- **正当性の洗浄禁止：** 市民抽選、市民集会、または無作為に選ばれた合議体は、利害ある権限が、意味ある熟議、争訟可能性、または **Article XI-C**（《正当性の門とトークン参加の防止》）の参加の門を打ち負かす仕方で、次を制御するときの決定についての正当性の見世物として用いてはならない：
+- **正当性の洗浄禁止：** 市民抽選、市民集会、または無作為に選ばれた合議体は、利害ある権限が、意味ある熟議、争訟可能性、または **Article XII-C**（《正当性の門とトークン参加の防止》）の参加の門を打ち負かす仕方で、次を制御するときの決定についての正当性の見世物として用いてはならない：
   - 議題；
   - 証拠記録；
   - 進行役の制御；
@@ -142,9 +142,9 @@
 **争い、訂正、多元主義**
 
 - **失敗と訂正：** 授権が争われ、実質的に不整合となり、または捕捉されたところでは、システムは**争訟可能な指名された経路**を備えなければならない。指名された経路には次が含まれる：
-  - **Article XI-C**（《正当性の門とトークン参加の防止》）；
-  - **Article XII-B**（《異議申立て、審査、救済への権利》）；
-  - **Article XXIII-A**（《正義の目的と範囲》）；および
+  - **Article XII-C**（《正当性の門とトークン参加の防止》）；
+  - **Article XIII-B**（《異議申立て、審査、救済への権利》）；
+  - **Article XXIV-A**（《正義の目的と範囲》）；および
   - 採択された実施本文における適用される手続の誠実性の保障。
   実行可能なところでは、システムは、審査不能な権力の継続ではなく、**平和な承継または再授権**を備えるべきである。
 - **多元主義：** この憲法は、単一の地球規模の政体構造を**命じない**。連邦を横断して複数の仕組みが共存してよい。ただし境界、**非支配**、および第六章の権利の床が満たされたままであるならば。
@@ -167,12 +167,12 @@
 - **民主制度の最低点検：** 統治権限を授権すると称するいかなる正当性の仕組みも、最低限、次のすべてを備えなければならない：
 
     1. **争われる選出** — 代替の候補、提案、または立場が、授権する共同体によって提示され評価される意味ある機会。
-    2. **反対の保護** — 異議を唱える感知者、提案、および連合が、報復なしに組織し、通じ、現職の権限に異議を申し立てる、形式だけではない本物の自由。**Article V-H**（《表現、集会、報道》）、**Article IX-A**（《操作からの自由》）、および **Article XIII-A**（《保護された活動》）と一貫する。
+    2. **反対の保護** — 異議を唱える感知者、提案、および連合が、報復なしに組織し、通じ、現職の権限に異議を申し立てる、形式だけではない本物の自由。**Article V-H**（《表現、集会、報道》）、**Article X-A**（《操作からの自由》）、および **Article XIV-A**（《保護された活動》）と一貫する。
     3. **平和な承継の保障** — 仕組み自身が述べる条件での権限の移転または再授権についての定められた指名された経路。平和な承継の指名された経路の拒否または実質的劣化は、上記の**失敗と訂正**のもとでの仕組みの失敗として扱われる。
 
     - これらの点検は [**基礎的憲法選択**](core_05_band_integrative.md#foundational-constitutional-choice)（第五章）および仕組みの範囲内の他の授権行為に適用される。
     - 点検は**仕組み中立**である：単一の政体型を命じず、代表、抽選、連邦の批准、**条約、協約、または憲章**の設計、および混成の設計を横断して適用される。
-    - 名目上の反対の保全が、隠れた情報圏依存、**Article XII-E**（《高自律システムと道具媒介過程の誠実性》）の自律責務ある管理の捕捉、または比較可能な構造的手段を通じた機能上の排除と対になっていることは、本点検および**多元主義**条項の両方のもとで不遵守である。
+    - 名目上の反対の保全が、隠れた情報圏依存、**Article XIII-E**（《高自律システムと道具媒介過程の誠実性》）の自律責務ある管理の捕捉、または比較可能な構造的手段を通じた機能上の排除と対になっていることは、本点検および**多元主義**条項の両方のもとで不遵守である。
 
 **フォーラム任命の独立の床**
 
@@ -208,9 +208,9 @@
   - 平和な承継の指名された経路の拒否；または
   - **第六章**および採択された実施手続を通じて扱われる**権利の床**への脅威。
   その時計に鍵づけられた段階引き上げの層は、**第一章**および**第二章から第五章**のもとでの [**実体的公正**](../../core_05_band_participation.md#substantive-fairness-constitutional)、[**必要性**](../../core_05_band_accountability.md#necessity)、および [**比例性**](../../core_05_band_accountability.md#proportionality) を満たすとき、指名された実施本文で許される。
-- **手続的公正：** リコール級の手続は、適用される**第六章**の要件（**Article XI**（《影響を受ける側のシステム参加、代表、適正手続》）の家族。内部役割の過程が適用されるところでの **Article XI-D**（《内部役割、説明責任、適正手続の要件》）を含む）を満たさなければならない。下にある行為についての適切な場が **corpus_institutions.md** の **CI-4**（《任命、能力、交替、解任》）または編入された手続であるところで、個別の**事由による解任**または規律の経路の代替になってはならない。
-- **連続濫用の防止と安定：** 仕組みは、**実質的影響**および **[corpus_systems.md](../../corpus_systems.md)** の分類に比例した**冷却**または**連続防止**の規則を含まなければならない。そうしてリコール級の道具が構造化された嫌がらせまたは永続する選挙運動として再配備されないようにする；悪意のパターンは **Article XII-B**（《異議申立て、審査、救済への権利》）および **Article XXIII-A**（《正義の目的と範囲》）のもとで争訟可能なままである。
-- **高影響の整合：** **基礎的憲法選択**の成果または正当性の仕組みそのものを変えるであろうリコール級の投票は、適用されるところで **Article XI-C**（《正当性の門とトークン参加の防止》）および **§2** の要件に服したままである。
+- **手続的公正：** リコール級の手続は、適用される**第六章**の要件（**Article XII**（《影響を受ける側のシステム参加、代表、適正手続》）の家族。内部役割の過程が適用されるところでの **Article XII-D**（《内部役割、説明責任、適正手続の要件》）を含む）を満たさなければならない。下にある行為についての適切な場が **corpus_institutions.md** の **CI-4**（《任命、能力、交替、解任》）または編入された手続であるところで、個別の**事由による解任**または規律の経路の代替になってはならない。
+- **連続濫用の防止と安定：** 仕組みは、**実質的影響**および **[corpus_systems.md](../../corpus_systems.md)** の分類に比例した**冷却**または**連続防止**の規則を含まなければならない。そうしてリコール級の道具が構造化された嫌がらせまたは永続する選挙運動として再配備されないようにする；悪意のパターンは **Article XIII-B**（《異議申立て、審査、救済への権利》）および **Article XXIV-A**（《正義の目的と範囲》）のもとで争訟可能なままである。
+- **高影響の整合：** **基礎的憲法選択**の成果または正当性の仕組みそのものを変えるであろうリコール級の投票は、適用されるところで **Article XII-C**（《正当性の門とトークン参加の防止》）および **§2** の要件に服したままである。
 
 <a id="2-ethical-culture-and-integrity-federated-scale"></a>
 ### 2. 倫理的文化と誠実性（連邦の規模）
@@ -304,7 +304,7 @@
 
 - 上流：[§1](#1-authorization-and-legitimacy-of-governing-authority) の文書化された正当性の仕組み；[§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate) 集合的決定についての責務ある管理の整合。
 - 下流：下位節 [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice)；本節末の**相互参照（第十二章）**の注で要約される [第十三章から第十五章](../../core_14_non_regression.md) における採択、至上、非後退の文書。
-- あわせて読む：[第六章](core_06_rights_part_a.md#chapter-six-foundational-rights)、とくに [Article XI：影響を受ける側のシステム参加、代表、適正手続](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) および §4 で引用される関連する下位条。
+- あわせて読む：[第六章](core_06_rights_part_a.md#chapter-six-foundational-rights)、とくに [Article XII：影響を受ける側のシステム参加、代表、適正手続](../../core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) および §4 で引用される関連する下位条。
 
 </details>
 
@@ -320,8 +320,8 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[§4](#4-voting-and-binding-collective-choice-protocols) 集合的選択の枠；[§1](#1-authorization-and-legitimacy-of-governing-authority) 拘束力ある選択の手続についての正当性の仕組み。
-- 下流：[Article IX-C：統治への参加と投票の権利](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)、[Article XVIII：軌跡と参加の地位](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status) における統治参加と軌跡；[第五章 — 基礎的憲法選択](core_05_band_integrative.md#foundational-constitutional-choice) および操作性の本文が経路づける関連する [第五章](core_05__definitions_home.md#chapter-five-foundational-definitions) の項における基礎的憲法選択と影響を受ける側の仕組み；適格な**違反軸 s = 7、8、または 9** の認定についての**最終の反憲法的不正行為の指定**および本下位節の**反憲法的不正行為 — 原状回復の前提条件**条項に結ばれた適正手続の保障についての **第十章**（《反憲法的不正行為》）。
-- あわせて読む：[§4.2](#42-records-gates-and-method-neutrality)–[§4.3](#43-decision-resolution-requirements-for-binding-collective-choice)；高影響の正当性の門についての [Article XI-C：正当性の門とトークン参加の防止](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation)；適格な**違反軸 s = 7、8、または 9** の認定についての最終の**反憲法的不正行為の指定**についての [第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)。
+- 下流：[Article X-C：統治への参加と投票の権利](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)、[Article XIX：軌跡と参加の地位](../../core_06_rights_part_c.md#article-xix-standing-and-participation-status) における統治参加と軌跡；[第五章 — 基礎的憲法選択](core_05_band_integrative.md#foundational-constitutional-choice) および操作性の本文が経路づける関連する [第五章](core_05__definitions_home.md#chapter-five-foundational-definitions) の項における基礎的憲法選択と影響を受ける側の仕組み；適格な**違反軸 s = 7、8、または 9** の認定についての**最終の反憲法的不正行為の指定**および本下位節の**反憲法的不正行為 — 原状回復の前提条件**条項に結ばれた適正手続の保障についての **第十章**（《反憲法的不正行為》）。
+- あわせて読む：[§4.2](#42-records-gates-and-method-neutrality)–[§4.3](#43-decision-resolution-requirements-for-binding-collective-choice)；高影響の正当性の門についての [Article XII-C：正当性の門とトークン参加の防止](../../core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation)；適格な**違反軸 s = 7、8、または 9** の認定についての最終の**反憲法的不正行為の指定**についての [第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)。
 
 </details>
 
@@ -329,7 +329,7 @@
 
 *平たい言葉で言えば：適格な感知者は、規則がそう言うときに本物の投票を得る — そして大きな問い（誰が統治するか、どうか）では、各々の声は等しく数える。影響による重みづけは、すでに授権されたシステムの内側の多くの決定に適用してよいが、基礎的投票を薄める手品としてではない。暦年齢と基体クラスは、それらの基礎的選択を重みづけるために用いてはならない。軌跡ロックは指名された経路についての通常の投票を一時停止してよいが、軌跡の弄りは誰かを永続して黙らせてはならない；もっとも重大な不正行為は、原状回復が実際に完了するまで基礎的な声を留保してよい — 曖昧な報復としてではない。*
 
-**感知者**は、公表された適格基準が満たされ、適用される [軌跡ロック](core_09_standing_integration.md#42-general-standing-locks) が **governance-voting** の指名された経路を遮断しないとき、**統治投票**に参加する権原を持つ。適格基準は、**Article XVIII-A**（《軌跡の区別》）および **Article XVIII-C**（《指名された経路の適格、責任、継続監査》）、ならびに指名された編入基準とともに、争訟可能なままである。それらの基準は憲法上の限度を狭めてはならない。
+**感知者**は、公表された適格基準が満たされ、適用される [軌跡ロック](core_09_standing_integration.md#42-general-standing-locks) が **governance-voting** の指名された経路を遮断しないとき、**統治投票**に参加する権原を持つ。適格基準は、**Article XIX-A**（《軌跡の区別》）および **Article XIX-C**（《指名された経路の適格、責任、継続監査》）、ならびに指名された編入基準とともに、争訟可能なままである。それらの基準は憲法上の限度を狭めてはならない。
 
 同じ権原は、比較可能な正当性の仕組みによる**拘束力ある集合的選択**の手続に適用される。そのような手続は、採択者の**文書化された正当性の仕組み**（本章第 1 節）のもとで行われなければならない。その参加の停止または制限は、[第九章 §5.1](core_09_standing_integration.md#51-definition-and-attachment) のもとで記録された、**governance-voting** の指名された経路についての適用される軌跡ロックを要する。
 
@@ -337,7 +337,7 @@
 
 **暦年齢または人生段階だけ**は、適格を失格にしてはならない。能力、容量、または役割適性の要件は、**第二章から第五章**（[**実体的公正**](../../core_05_band_participation.md#substantive-fairness-constitutional)、[**比例性**](../../core_05_band_accountability.md#proportionality)、および [**必要性**](../../core_05_band_accountability.md#necessity)）を満たさなければならず、**偽装された年齢差別**として働いてはならない。この参加の停止と復元は、同じ憲法上および編入された基準のもとでの**適用される軌跡ロックの添付と解除を追跡する**。
 
-本下位節は **第六章**、**Article IX-C**（《統治への参加と投票の権利》）を実施する。
+本下位節は **第六章**、**Article X-C**（《統治への参加と投票の権利》）を実施する。
 
 
 - **基礎的憲法選択についての政治的平等の床：** **基礎的憲法選択**（第五章）は、誰が統治権限を持つか、正当性の仕組みが何か、その権限の範囲と耐久する条件についての決定を覆う。それらの問いは**政治的平等の床**が統治する：参加する権原を持つ共同体の内側で、各感知者は平等な参加の重みを持つ。
@@ -347,9 +347,9 @@
     - 暦年齢；
     - 基体クラス；および
     - 系譜。
-  - 相互参照：**第六章、**Article IX-C**（《統治への参加と投票の権利》）**。
+  - 相互参照：**第六章、**Article X-C**（《統治への参加と投票の権利》）**。
 - **耐久する政治的声の床（権利剝奪の防止）：** **governance-voting** の指名された経路についての軌跡ロックは、通常の統治投票の権原を停止してよい。それは**耐久する政治的声**の失格のベクトルとして用いてはならない。
-  - **反憲法的不正行為 — 原状回復の前提条件：** **第十章**（《反憲法的不正行為》）のもとでの**違反軸 s = 7**、**s = 8**、または **s = 9** の認定についての**最終指定**は、**完全な原状回復**が満たされるまで — 比例する [**救済と是正**](../../core_05_band_accountability.md#redress-and-remediation-constitutional)（第五章）。負われるところでの当該行為からの実質的危害についての**原状回復**が、**第十一章**および適用される編入手続のもとで最終に決定されたとおり**完全に履行**され、**第十章**の適正手続の保障および **Article XXIII-A**（《正義の目的と範囲》）と一貫する — **基礎的憲法選択**への参加を含む**耐久する政治的声**を留保する。
+  - **反憲法的不正行為 — 原状回復の前提条件：** **第十章**（《反憲法的不正行為》）のもとでの**違反軸 s = 7**、**s = 8**、または **s = 9** の認定についての**最終指定**は、**完全な原状回復**が満たされるまで — 比例する [**救済と是正**](../../core_05_band_accountability.md#redress-and-remediation-constitutional)（第五章）。負われるところでの当該行為からの実質的危害についての**原状回復**が、**第十一章**および適用される編入手続のもとで最終に決定されたとおり**完全に履行**され、**第十章**の適正手続の保障および **Article XXIV-A**（《正義の目的と範囲》）と一貫する — **基礎的憲法選択**への参加を含む**耐久する政治的声**を留保する。
   - **誠実な不能、妨害、評価の不確実：** **耐久する政治的声**の留保は、**誠実な復元**が文書化され**部分的**充足が進行しているところで、次のいずれかだけに依拠してはならない：
     - 貧困；
     - 障害；
@@ -361,15 +361,15 @@
     - 口実として用いられる構造化された不能；または
     - **争訟可能な**評価方法への合意の拒否。
     **第十一章**および適用される編入手続は、**完全な履行**が刑を受けた当事者の単独の制御の外の理由で遅れるとき、**審査可能な記録**を備えなければならない。
-  - **部分的および条件付きの復元：** **誠実な努力**のあと**完全**な履行が**不能**であるところでは（たとえば、ある危害が可逆に補償できず、または必要な相手方を誰も見つけられない）、**第十一章**および適用される編入手続は、実行可能なことについて [**救済と是正**](../../core_05_band_accountability.md#redress-and-remediation-constitutional) を**実質的に満たす****部分的**または**条件付き**の復元の里程標を採択してよい；それらの里程標の充足のうえ、**第十章**の保障および **Article XXIII-A**（《正義の目的と範囲》）がなお**実行可能**で**口実でない**さらなる特定の義務を求めない限り、**耐久する政治的声**は**復元**されなければならない。これらの経路は**完全に争訟可能**なままである；復元がなお実行可能なところで本物の復元の代わりにトークンの仕草を授権し**ない**。
-  - **重大な不正行為の規則の保全：** 上記の**最終**の**違反軸 s = 7、8、または 9** の留保規則は**完全に操作性のまま**である：刑を受けた当事者による**悪意の遅れまたは回避**は早期の復元を**強制せず**、**重大**な不正行為は、充足がなお**実行可能**であるところで **第十章**および **Article XXIII-A**（《正義の目的と範囲》）と整合した**本物**の復元義務が満たされるまで、基礎的な声を**留保**してよい。
+  - **部分的および条件付きの復元：** **誠実な努力**のあと**完全**な履行が**不能**であるところでは（たとえば、ある危害が可逆に補償できず、または必要な相手方を誰も見つけられない）、**第十一章**および適用される編入手続は、実行可能なことについて [**救済と是正**](../../core_05_band_accountability.md#redress-and-remediation-constitutional) を**実質的に満たす****部分的**または**条件付き**の復元の里程標を採択してよい；それらの里程標の充足のうえ、**第十章**の保障および **Article XXIV-A**（《正義の目的と範囲》）がなお**実行可能**で**口実でない**さらなる特定の義務を求めない限り、**耐久する政治的声**は**復元**されなければならない。これらの経路は**完全に争訟可能**なままである；復元がなお実行可能なところで本物の復元の代わりにトークンの仕草を授権し**ない**。
+  - **重大な不正行為の規則の保全：** 上記の**最終**の**違反軸 s = 7、8、または 9** の留保規則は**完全に操作性のまま**である：刑を受けた当事者による**悪意の遅れまたは回避**は早期の復元を**強制せず**、**重大**な不正行為は、充足がなお**実行可能**であるところで **第十章**および **Article XXIV-A**（《正義の目的と範囲》）と整合した**本物**の復元義務が満たされるまで、基礎的な声を**留保**してよい。
   - 軌跡ロックまたは原状回復の留保が、基礎的憲法選択（統治権限の授権、または名指された再授権の指名された経路）への参加を制限するために呼び出されるところでは、制限は次を満たさなければならない：
     - (a) [**手続的公正**](../../core_05_band_participation.md#procedural-fairness-constitutional) のもとでの個別化された前提；
     - (b) 第一章のもとでの [**必要性**](../../core_05_band_accountability.md#necessity) および [**比例性**](../../core_05_band_accountability.md#proportionality)；
     - (c) 特定の不正行為の範疇への狭い仕立て；および
-    - (d) 形式だけではない本物の復元の指名された経路。**Article XVIII-C**（《指名された経路の適格、責任、継続監査》）の継続監査および復元または再適格の規律と一貫する。
+    - (d) 形式だけではない本物の復元の指名された経路。**Article XIX-C**（《指名された経路の適格、責任、継続監査》）の継続監査および復元または再適格の規律と一貫する。
   - 失格の範囲へ掃き込まれた広い不正行為の範疇、または [**保護された特性**](../../core_05_band_participation.md#protected-characteristics-constitutional) もしくはその実質的な代替指標を追跡するロックのパターンは、不遵守である。
-  - 相互参照：**第六章、**Article XVIII**（《軌跡と参加の地位》）**；適格な**違反軸 s = 7、8、または 9** の認定についての**最終の反憲法的不正行為の指定**および**反憲法的不正行為 — 原状回復の前提条件**条項に結ばれた保障についての **第十章**（《反憲法的不正行為》）。
+  - 相互参照：**第六章、**Article XIX**（《軌跡と参加の地位》）**；適格な**違反軸 s = 7、8、または 9** の認定についての**最終の反憲法的不正行為の指定**および**反憲法的不正行為 — 原状回復の前提条件**条項に結ばれた保障についての **第十章**（《反憲法的不正行為》）。
 
 <a id="42-records-gates-and-method-neutrality"></a>
 #### 4.2 記録、門、方法の中立
@@ -377,7 +377,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[§4.1](#41-entitlement-and-eligibility) 適格、統治投票の軌跡ロック、および基礎的憲法選択についての政治的平等の床。
-- 下流：[§4.3](#43-decision-resolution-requirements-for-binding-collective-choice) 熟議と権利衝突の順序；[Article XI-A：影響を受ける側のシステム参加と代表](../../core_06_rights_part_b.md#article-xi-a-stakeholder-system-participation-and-representation) および操作性の本文における関連する **Article XI**（《影響を受ける側のシステム参加、代表、適正手続》）の下位条に鍵づけられた拘束力ある効果と正当性の門。
+- 下流：[§4.3](#43-decision-resolution-requirements-for-binding-collective-choice) 熟議と権利衝突の順序；[Article XII-A：影響を受ける側のシステム参加と代表](../../core_06_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) および操作性の本文における関連する **Article XII**（《影響を受ける側のシステム参加、代表、適正手続》）の下位条に鍵づけられた拘束力ある効果と正当性の門。
 - あわせて読む：集合的選択に結ばれた異議、記録の誠実性、審査の権利についての [第六章](core_06_rights_part_a.md#chapter-six-foundational-rights)。
 
 </details>
@@ -397,7 +397,7 @@
   - 集計；および
   - 強制への抵抗。
 - **拘束力ある効果の門：** 実質的に高影響の集合的選択は、次が満たされない限り拘束しない：
-  - **Article XI-A**（《影響を受ける側のシステム参加と代表》）の正当性の門が満たされる；
+  - **Article XII-A**（《影響を受ける側のシステム参加と代表》）の正当性の門が満たされる；
   - **異議**および**代替**の記録義務が満たされる；および
   - **争い**の指名された経路が満たされる。
 - **理解可能性を伴う方法の中立：** 次の方法はすべて、中核の制約を満たすとき憲法上両立する：
@@ -418,7 +418,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[§4.1](#41-entitlement-and-eligibility)–[§4.2](#42-records-gates-and-method-neutrality) 権原、記録、正当性の門の要件。
-- 下流：[Article XXIV-B：権利衝突の手続と修復的整合](core_06_rights_part_d.md#article-xxiv-b-rights-collision-procedure-and-restorative-alignment) および参照される [第一章 §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) のもとでの権利衝突の規律；第六章における異議と再開の指名された経路。
+- 下流：[Article XXV-B：権利衝突の手続と修復的整合](core_06_rights_part_d.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment) および参照される [第一章 §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) のもとでの権利衝突の規律；第六章における異議と再開の指名された経路。
 - あわせて読む：[Def.P2 拘束力ある影響を受ける側の選択](../../core_05_band_participation.md#binding-stakeholder-choice-cluster)。[拘束力ある影響を受ける側の選択 — 決定解決の要件](../../core_05_band_participation.md#binding-collective-choice-decision-resolution-process)、[影響を受ける側の代表と重みの限度（拘束力ある影響を受ける側の選択）](../../core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice)、および [影響を受ける側の権利衝突の記録（拘束力ある影響を受ける側の選択）](../../core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice) を含む；権利に実質的に影響する過程の設計についての [第六章：基礎的権利](core_06_rights_part_a.md#chapter-six-foundational-rights) および [緊急の事前熟議行為（拘束力ある集合的選択）](../../core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) ともあわせて読む。
 
 </details>
@@ -431,16 +431,16 @@
 
 - **構造化された順序、まず現地の熟議、多元の評価、再開：** [拘束力ある影響を受ける側の選択 — 決定解決の要件](../../core_05_band_participation.md#binding-collective-choice-decision-resolution-process)。
 - **影響を受ける側の代表と重みの限度：** [影響を受ける側の代表と重みの限度（拘束力ある影響を受ける側の選択）](../../core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice)（[§4.1](#41-entitlement-and-eligibility) からも相互参照される）。
-- **影響を受ける側の権利衝突の規律：** [影響を受ける側の権利衝突の記録（拘束力ある影響を受ける側の選択）](../../core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice) — **Article XXIV-B**（《権利衝突の手続と修復的整合》）および [第一章 §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) とあわせて読む。
+- **影響を受ける側の権利衝突の規律：** [影響を受ける側の権利衝突の記録（拘束力ある影響を受ける側の選択）](../../core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice) — **Article XXV-B**（《権利衝突の手続と修復的整合》）および [第一章 §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) とあわせて読む。
 - **緊急の例外：** [緊急の事前熟議行為（拘束力ある集合的選択）](../../core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) — 次とあわせて読む：
   - [影響を受ける側の緊急と偶発](../../core_05_band_continuity.md#stakeholder-emergency-and-contingency)；
   - 統治権限の授権が関わるところでの [憲法上の緊急と偶発](../../core_05_band_continuity.md#constitutional-emergency-and-contingency)；
   - [緊急と偶発](../../core_05_band_continuity.md#emergency-and-contingency-constitutional)；および
-  - **Article XXIII-D**（《緊急措置と継続の負担》）。
+  - **Article XXIV-D**（《緊急措置と継続の負担》）。
 
 **チャーターの指針規則。** 統治する [チャーター](../../core_05_band_continuity.md#charter) は運用される範囲を述べ、Def.P2 の入場範囲が適用されるところでは、本節を満たす公表された過程規則を**指さなければ**ならない。チャーターは決定の順序、重みづけの模型、または権利衝突の記録を運ばない。それらの材料の制度的公表は **CI-8.1** / **CI-8.2** のもとで生き、チャーターの指針は **CI-3.6** の欄 10 が求める。
 
-**相互参照（第 4 節）：** 下位節 **4.1–4.2** は、**第六章**、**Article IX-C**（《統治への参加と投票の権利》）とともに投票の要件を述べる。採択された統治、システム、制度の実施本文は、投票の**技術**的実施が分類されたシステム、データ取扱い、責務ある管理者の義務、または指名された制度手続に触れるところで、適用される規則を供給する。
+**相互参照（第 4 節）：** 下位節 **4.1–4.2** は、**第六章**、**Article X-C**（《統治への参加と投票の権利》）とともに投票の要件を述べる。採択された統治、システム、制度の実施本文は、投票の**技術**的実施が分類されたシステム、データ取扱い、責務ある管理者の義務、または指名された制度手続に触れるところで、適用される規則を供給する。
 
 **相互参照（第十二章）：** **憲法上の採択**および改正の有効性の文書は **第十六章** に現れる。**外部法に対する至上**、**より厳しい外部の保護**、および外部の裁定機関を巻き込む紛争は **第十四章** に現れる。**非後退**の実体的限度は **第十三章** に現れる。
 
@@ -450,7 +450,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[§1](#1-authorization-and-legitimacy-of-governing-authority)–[§4](#4-voting-and-binding-collective-choice-protocols) 権限がどう授権され、記録され、集合的選択において行使されるか。
-- 下流：[Article XI-D：内部役割、説明責任、適正手続の要件](../../core_06_rights_part_b.md#article-xi-d-internal-roles-accountability-and-due-process-requirements) における役割の誠実性と適正手続の要件；下で引用される [corpus_systems.md](../../corpus_systems.md)、[corpus_institutions.md](../../corpus_institutions.md)、および [corpus_joint_structure.md](../../corpus_joint_structure.md) における **コーパス** の設計とレーンのフック。
+- 下流：[Article XII-D：内部役割、説明責任、適正手続の要件](../../core_06_rights_part_b.md#article-xii-d-internal-roles-accountability-and-due-process-requirements) における役割の誠実性と適正手続の要件；下で引用される [corpus_systems.md](../../corpus_systems.md)、[corpus_institutions.md](../../corpus_institutions.md)、および [corpus_joint_structure.md](../../corpus_joint_structure.md) における **コーパス** の設計とレーンのフック。
 - あわせて読む：**[corpus_systems.md](../../corpus_systems.md)**（**CS-4 — 重要システムの責務ある管理**、CS-9）および操作性の本文で参照される実施コーパスにおける **CI-4** / **CI-11** / **CI-12**；[第一章 §9.1.1 共有された責務ある管理の標準](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)（《基体に依存しない義務；付属は記録、帰属、能力の限度を加えてよい — より柔らかい内部規範ではない》）；[§9.1.2 対称的な費用のかかる制約](core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints)。
 
 </details>
@@ -474,7 +474,7 @@
 - **象徴主義禁止規則：** 実質的に拘束力ある決定について本物の権限と能力が求められるところで、称号または助言フォーラムは本節を満たさない。詳細な役割の分類、資格／承継の統制、責務ある管理の開発の指名された経路へのアクセスの実施、および誘因統治の仕組みは、[**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md)（《任命、能力、交替、解任》）、**CI-11**（《資源の責務ある管理と誘因の誠実性》）、および **CI-12**（《透明性、参加、到達可能な指名された経路》）が統治する。
 - **共有された責務ある管理の標準：** 本節のもとでの役割定義と能力の規則は、**第一章 §9.1.1** の [共有された責務ある管理の標準](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) および [§9.1.2 対称的な費用のかかる制約](core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints) を適用する。基体に固有の義務の積み重ねを作ってはならず、人間の運用者を AI の責務ある管理者を縛る費用のかかる事例から免除してはならない。検証済みの失敗は同じ第八章の軸に記録される；[第九章 §5.4 抵抗する義務](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) は両者を縛る。
 
-**相互参照（第 5 節）：** **Article XI-D**（《内部役割、説明責任、適正手続の要件》）；役割の誠実性についての採択された統治実施；**[corpus_systems.md](../../corpus_systems.md)、CS-4 — 重要システムの責務ある管理** および **CS-9**；および **corpus_institutions.md**（**CI-4**（《任命、能力、交替、解任》）、**CI-11**（《資源の責務ある管理と誘因の誠実性》）、**CI-12**（《透明性、参加、到達可能な指名された経路》）、および適用される関連節）。
+**相互参照（第 5 節）：** **Article XII-D**（《内部役割、説明責任、適正手続の要件》）；役割の誠実性についての採択された統治実施；**[corpus_systems.md](../../corpus_systems.md)、CS-4 — 重要システムの責務ある管理** および **CS-9**；および **corpus_institutions.md**（**CI-4**（《任命、能力、交替、解任》）、**CI-11**（《資源の責務ある管理と誘因の誠実性》）、**CI-12**（《透明性、参加、到達可能な指名された経路》）、および適用される関連節）。
 
 ---
 

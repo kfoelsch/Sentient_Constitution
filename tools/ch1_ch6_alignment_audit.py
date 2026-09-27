@@ -229,12 +229,12 @@ CH00_SECTION3_ANCHOR_RE = re.compile(
 )
 
 RIGHTS_FAMILIES = {
-    "survival/resources": ["I", "II", "III", "IV"],
-    "equality/access": ["V", "VI", "VII", "VIII"],
-    "agency/participation": ["IX", "X", "XI"],
-    "systems/trust/audit": ["XII", "XIII", "XIV", "XV", "XVI", "XVII"],
-    "standing/interpretation": ["XVIII", "XIX", "XX", "XXI", "XXII"],
-    "justice/emergency/transition": ["XXIII", "XXIV", "XXV", "XXVI"],
+    "survival/resources": ["I", "II", "III", "IV", "V"],
+    "equality/access": ["VI", "VII", "VIII", "IX"],
+    "agency/participation": ["X", "XI", "XII"],
+    "systems/trust/audit": ["XIII", "XIV", "XV", "XVI", "XVII", "XVIII"],
+    "standing/interpretation": ["XIX", "XX", "XXI", "XXII", "XXIII"],
+    "justice/emergency/transition": ["XXIV", "XXV", "XXVI", "XXVII"],
 }
 
 PRINCIPLE_RULES = [
@@ -512,7 +512,7 @@ def is_measurement_dependent(article: Article) -> bool:
     if any(term in text for terms in MEASUREMENT_FAMILIES.values() for term in terms):
         return True
     return article.article_id.split("-")[0] in {
-        "I", "III", "IV", "V", "VI", "XII", "XV", "XVIII", "XX", "XXIV"
+        "I", "III", "IV", "V", "VI", "XIII", "XVI", "XIX", "XXI", "XXV"
     }
 
 

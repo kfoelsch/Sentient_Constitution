@@ -53,7 +53,7 @@
 | **4 — 安全限度** | 真实安全限度被允许；借口性阻断不被允许 | [§4](#4-security-constrained-observability-and-verification-rule) |
 | **5 — 什么算数** | 证据必须真实、完整、独立，并随时间维持 | [§5](#5-compliance-evidence-standard) |
 
-**直白语言可及性。** [第一章 §3.4 — 直白语言可及性尽责管理义务](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty)适用于感知者为行使权利、质疑决定或核验合规所使用的治理、裁决性与运行材料。直白语言**不**改变或减低第二至四章所要求者。若直白语言版本与此处的定义或核验规则不一致，以那些规则为准。使用行话、堆叠的复杂性或不透明来阻断[可质疑性](../../core_05_band_accountability.md#contestability)或 [Article XV：审计、透明与独立核验](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)通路，构成本章与**第一章 §3.4**下的不合规。
+**直白语言可及性。** [第一章 §3.4 — 直白语言可及性尽责管理义务](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty)适用于感知者为行使权利、质疑决定或核验合规所使用的治理、裁决性与运行材料。直白语言**不**改变或减低第二至四章所要求者。若直白语言版本与此处的定义或核验规则不一致，以那些规则为准。使用行话、堆叠的复杂性或不透明来阻断[可质疑性](../../core_05_band_accountability.md#contestability)或 [Article XVI：审计、透明与独立核验](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)通路，构成本章与**第一章 §3.4**下的不合规。
 
 <a id="2-definition-traceability-requirement"></a>
 ### 2. 定义可追溯性要求
@@ -128,7 +128,7 @@
 
 - 上游：原则：[第四章，第 3 节 — 可追溯性的可观察性要求](#3-observability-of-traceability-requirement)；[第一章，第 6.2 节 — 认识披露约束](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)。
 - 下游：[第四章，第 5 节 — 合规证据标准](#5-compliance-evidence-standard)；[corpus_systems.md](../../corpus_systems.md)，**CS-2 — 信息类型与处理**，以及 **CS-5** — 操作性密码学、凭证与信息类型处理。
-- 一并阅读：[第五章聚类定义（可预见性勤勉）](../../core_05_band_oversight.md#foreseeability-diligence) — 在合理可预见条件下可预见地阻止核验的设计选择，不论所声称的安全理由为何，即不合规；[第五章 真理（宪法约束）](../../core_05_band_oversight.md#truth-constitutional-constraint)与[第五章 安全（约束）](../../core_05_band_continuity.md#safety-constraint) — 密码学与信息类型处理不得取代第 **2**、**3** 或 **5** 节；凡环境隔离约束具有实质性之处，适用 **Articles VII-A**、**VII-B**、**XV-A** 与 **XVI-A**。
+- 一并阅读：[第五章聚类定义（可预见性勤勉）](../../core_05_band_oversight.md#foreseeability-diligence) — 在合理可预见条件下可预见地阻止核验的设计选择，不论所声称的安全理由为何，即不合规；[第五章 真理（宪法约束）](../../core_05_band_oversight.md#truth-constitutional-constraint)与[第五章 安全（约束）](../../core_05_band_continuity.md#safety-constraint) — 密码学与信息类型处理不得取代第 **2**、**3** 或 **5** 节；凡环境隔离约束具有实质性之处，适用 **Articles VII-A**、**VII-B**、**XVI-A** 与 **XVII-A**。
 
 </details>
 

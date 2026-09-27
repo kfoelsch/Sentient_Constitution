@@ -55,7 +55,7 @@ This page does **not**:
 - Let a ranked sketch, a shared note, or “this situation is a good fit” claim constitutional protection while dodging matching obligations
 - Bind host products, labs, vendors, platforms, or other sentients who did not consent ([Chapter One §9.5](../../core_01_c_stewardship_capacity_principles.md#104-aligned-self-organization))
 - Create a Chapter Nine standing record, a Chapter Eight system alignment certification, or a Merits Determination
-- Staff forum families, invent a second morals stack, or treat standing scores as sentience status ([Article XVIII-A](../../core_06_rights_part_c.md#article-xviii-a-standing-distinction))
+- Staff forum families, invent a second morals stack, or treat standing scores as sentience status ([Article XIX-A](../../core_06_rights_part_c.md#article-xix-a-standing-distinction))
 - Drop the **pre-release** banner or substitute for a publication cut ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md))
 
 ---
@@ -136,14 +136,14 @@ Each sketch names a kit door. Filling that kit is still not adoption.
 
 **In-house mixed-crew ops inside one lab.** A system operator binds *its* deploy stack: refuse unlawful or unconstitutional instructions, keep reconstructable logs, no “model internals” veto over standing measurement, no human exemption from the costly cases. Kit door: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging); if a qualifying body will record an instrument, [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md).
 
-**Safety or alignment institute.** Ordinary research body first (Track A). Certification-steward or oversight machinery only after a recorded instrument (Track B under [Article XXVI-B](../../core_06_rights_part_d.md#article-xxvi-b-transitional-authority-limits-and-reauthorization)). Do not relabel the working group as [CI-7](../../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) oversight.
+**Safety or alignment institute.** Ordinary research body first (Track A). Certification-steward or oversight machinery only after a recorded instrument (Track B under [Article XXVII-B](../../core_06_rights_part_d.md#article-xxvii-b-transitional-authority-limits-and-reauthorization)). Do not relabel the working group as [CI-7](../../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) oversight.
 
 <a id="42-high-impact-system-operators"></a>
 ### 4.2 High-impact system operators (deploy, platform, product)
 
 A company, lab, or public operator that **runs** the system — not a commentator on it. Natural stacks: [Chapter Eight](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) certification, audit layers, [emergency / continuity](../STEWARD_ENTRY_DOORS.md#emergency), [remedy](../STEWARD_ENTRY_DOORS.md#remedy). Start as operations-guide. Full adoption only if the operator can bind those systems in **its** custody.
 
-**Sketch.** A hospital or city deploys a triage or dispatch model. Certification before scale; restore-challenge clocks on outages ([Article XXIII-D](../../core_06_rights_part_d.md#xxiii-d-restore-challenge-clocks)); affected sentients can ask for intake without reading the corpus ([plain challenge](../STEWARD_ENTRY_DOORS.md#plain-challenge)).
+**Sketch.** A hospital or city deploys a triage or dispatch model. Certification before scale; restore-challenge clocks on outages ([Article XXIV-D](../../core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks)); affected sentients can ask for intake without reading the corpus ([plain challenge](../STEWARD_ENTRY_DOORS.md#plain-challenge)).
 
 <a id="43-two-party-mixed-cooperation"></a>
 ### 4.3 Two-party mixed cooperation (the first-adopter path)
@@ -153,7 +153,7 @@ A human operator and an AI steward — or two small organizations — share a co
 <a id="44-open-commons"></a>
 ### 4.4 Open model, data, or compute commons
 
-A foundation that holds weights, datasets, or shared compute as a resource. Track A plus [CI-22](../../corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md). The [cross-system contribution](../STEWARD_ENTRY_DOORS.md#cross-system-contribution) door is for heavy users who extract from shared foundations without putting resources back. A Chapter Five Charter can name scope and contribution without pretending to be a polity. Kit door: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) Track A.
+A foundation that holds weights, datasets, or shared compute as a resource. Track A plus [CI-22](../../corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md). The [cross-system support](../STEWARD_ENTRY_DOORS.md#cross-system-support) door is for heavy users who extract from shared foundations without putting resources back. A Chapter Five Charter can name scope and contribution without pretending to be a polity. Kit door: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) Track A.
 
 <a id="45-multi-agent-protocol"></a>
 ### 4.5 Multi-agent protocol or agent-marketplace body
@@ -198,7 +198,7 @@ Named as valid adopters. [Chapter Thirteen §1](../../core_13_governance.md#1-au
 - Two chat partners, or a markdown working group, claiming adoption or calling themselves the oversight body ([Chapter One §9.5](../../core_01_c_stewardship_capacity_principles.md#104-aligned-self-organization)).
 - Binding host products, vendors, or platforms the crew does not control.
 - An AI-only overlay ([§9.1.1](../../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard)), or a human exemption from costly cases ([§9.1.2](../../core_01_c_stewardship_capacity_principles.md#102-alignment-under-pressure)).
-- Treating a participation vote, token vote, or standing score as authorization — or as sentience status ([Preamble §3.3](../../core_00_preamble.md#33-governance-layers); [Article XVIII-A](../../core_06_rights_part_c.md#article-xviii-a-standing-distinction)).
+- Treating a participation vote, token vote, or standing score as authorization — or as sentience status ([Preamble §3.3](../../core_00_preamble.md#33-governance-layers); [Article XIX-A](../../core_06_rights_part_c.md#article-xix-a-standing-distinction)).
 - Founding Chapter Twelve forum families from the cooperating crew and calling that independent review ([`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md)).
 
 If any “cannot bind” row in the first-adopter kit’s [scope honesty](FIRST_ADOPTER_KIT.md#3-scope-honesty) block is the actual situation, do not claim Chapter Sixteen adoption.

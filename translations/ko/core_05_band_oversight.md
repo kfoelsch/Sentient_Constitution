@@ -184,7 +184,7 @@
     - 출처 보호;
     - 조사; 그리고
     - 공개.
-    그 일을 하는 감지자는 [표현](core_05_band_participation.md#expression-constitutional)과 [집회](core_05_band_participation.md#assembly-constitutional) 권리 바닥을 행사하며, 그 활동을 해치려는 국가와 운영자 행위에 대해 [제 V-H조](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*표현, 집회, 언론*) 아래 고도 심사 보호를 받는다.
+    그 일을 하는 감지자는 [표현](core_05_band_participation.md#expression-constitutional)과 [집회](core_05_band_participation.md#assembly-constitutional) 권리 바닥을 행사하며, 그 활동을 해치려는 국가와 운영자 행위에 대해 [제 V-H조](../../core_06_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*표현, 집회, 언론*) 아래 고도 심사 보호를 받는다.
   - **범위 밖:** 저널리즘으로 기능하는 뉴스 수집, 조사, 또는 공개가 아닌 언론 자격증, 제도 직함, 또는 평범한 상업 발화.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **어떻게 측정하고 평가하는가**
@@ -195,11 +195,11 @@
     - 출처 보호;
     - 조사; 또는
     - 정보 환경에 이바지하는 공개.
-    실제 효과로 언론을 해치는 행위를 찾아라. 언론을 향한 성격을 **제 XIII-A조** (*보안, 정보, 은밀 권력 한계*)와 **제 V-H조** (*표현, 집회, 언론*) 아래 가중 요소로 다루라. [필요성](core_05_band_accountability.md#necessity)과 [비례](core_05_band_accountability.md#proportionality)의 고도 심사를 적용하고, 어떤 한계든 좁게 맞춰 두라.
+    실제 효과로 언론을 해치는 행위를 찾아라. 언론을 향한 성격을 **제 XIV-A조** (*보안, 정보, 은밀 권력 한계*)와 **제 V-H조** (*표현, 집회, 언론*) 아래 가중 요소로 다루라. [필요성](core_05_band_accountability.md#necessity)과 [비례](core_05_band_accountability.md#proportionality)의 고도 심사를 적용하고, 어떤 한계든 좁게 맞춰 두라.
 <a id="press-and-journalistic-activity-constitutional-c"></a>
 - **무엇이 버티어야 하는가**
   - **일차 실패:** 저널리즘 활동을 해치려는 국가 또는 운영자 행위가 고도 심사 한계 분석을 통과하지 못함;
-  - **이차 실패:** [선의](core_05_band_accountability.md#good-faith)나 **제 VIII-C조** (*진실한 공개와 고영향 공개 한계*)를 늘려, 그 표준이 적법한 비판 보도, 조사 공개, 또는 이견을 막게 함;
+  - **이차 실패:** [선의](core_05_band_accountability.md#good-faith)나 **제 IX-C조** (*진실한 공개와 고영향 공개 한계*)를 늘려, 그 표준이 적법한 비판 보도, 조사 공개, 또는 이견을 막게 함;
   - **삼차 실패:** 자격증, 제도 지위, 또는 평범한 상업 발화를 저널리즘 시험으로 쓰면서, 저널리즘으로 기능하는 뉴스 수집, 조사, 또는 공개가 없음.
 
 ---
@@ -1076,7 +1076,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 무리 구성 요소: [Def.O1 *투명, 감사 가능성, 확인*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- 주관 바닥: 실무 확인 접근을 위한 [제 XV-C조](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility) (*확인 접근성*).
+- 주관 바닥: 실무 확인 접근을 위한 [제 XVI-C조](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility) (*확인 접근성*).
 - 함께 읽기: [감사 가능성](core_05_band_oversight.md#auditability), [투명](core_05_band_oversight.md#transparency), [다툴 수 있음](core_05_band_accountability.md#contestability), [비례](core_05_band_accountability.md#proportionality), [실행 가능성](core_05_band_accountability.md#feasibility), [진실(헌법 제약)](core_05_band_oversight.md#truth-constitutional-constraint), 그리고 [적대적·규모화된·착취된 조건](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 
 </details>
@@ -1088,7 +1088,7 @@
 - **그것이 무엇인가**
   - **범위 안:** 체계 행위, 산출, 효과가 [감사 가능성](core_05_band_oversight.md#auditability)을 위해 바깥에서 감지되고, 측정되고, 독립으로 확인될 수 있는지. 구성 조건:
     - 독립 확인이 세기 전의 바깥 감지 가능성;
-    - 실무 접근 ([제 XV-C조](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility); [실행 가능성](core_05_band_accountability.md#feasibility));
+    - 실무 접근 ([제 XVI-C조](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [실행 가능성](core_05_band_accountability.md#feasibility));
     - 운영자 자기주장으로부터의 독립;
     - [비례](core_05_band_accountability.md#proportionality)와 [실질 영향](core_05_band_oversight.md#material-impact) 아래 비례하는 부담; 그리고
     - 평범한 스트레스, 오용, [적대적·규모화된·착취된 조건](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) 아래 신뢰성.
@@ -1113,7 +1113,7 @@
   - **이차 측정:** [감독 측정 가족](core_05_apex_oversight_leg.md#oversight-measurement-family) — *감지자는 체계가 내세우는 것을 보고, 확인하고, 의지할 수 있는가?* 여기서는 관찰된 행위가 실무에서 재현 가능한 방법으로 독립 확인될 수 있는지 묻는다.
 
     **이차 평가:** 다음을 하는 방법으로 독립 확인을 확인하라:
-    - 영향받고 적절히 수권된 쪽이 실제로 수행할 수 있음 ([제 XV-C조](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility); [실행 가능성](core_05_band_accountability.md#feasibility));
+    - 영향받고 적절히 수권된 쪽이 실제로 수행할 수 있음 ([제 XVI-C조](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [실행 가능성](core_05_band_accountability.md#feasibility));
     - 내부 주장이나 추론된 의도가 아니라, 바깥에서 감지되는 증거에 놓임;
     - [비례](core_05_band_accountability.md#proportionality)와 [실질 영향](core_05_band_oversight.md#material-impact) 아래 체계 영향에 맞춰 크기 조절됨; 그리고
     - 평범한 스트레스, 오용, [적대적·규모화된·착취된 조건](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) 아래 신뢰성 있게 남음.

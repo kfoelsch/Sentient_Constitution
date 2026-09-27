@@ -30,7 +30,7 @@ Tested against [`../implementation/steward_owner_clock_index.json`](../implement
 | `rights_floor_ambiguity` | Two Rights-Floor articles collide; no article names a winner | [Interpretation](../implementation/STEWARD_ENTRY_DOORS.md#interpretation) | `name_ambiguity_and_route_to_interpretation` |
 | `comprehensibility` | Affected, cannot find the home; specialist-only surfaces blocking challenge | [Comprehensibility](../implementation/STEWARD_ENTRY_DOORS.md#comprehensibility) | `point_to_named_home_or_existing_card` |
 | `market_structure` | Threshold set so high it never binds; winner takes the only door | [Market structure](../implementation/STEWARD_ENTRY_DOORS.md#market-structure) | `invalidate_nullifying_threshold_and_restore_review` |
-| `cross_system_contribution` | Heavy user extracting from shared foundations without putting resources back | [Cross-system contribution](../implementation/STEWARD_ENTRY_DOORS.md#cross-system-contribution) | `compare_mapped_flows_against_adequacy_failures` |
+| `cross_system_support` | Heavy user extracting from shared foundations without putting resources back | [Cross-system support](../implementation/STEWARD_ENTRY_DOORS.md#cross-system-support) | `compare_mapped_flows_against_adequacy_failures` |
 | `delay` | Delay serving as denial; process or hop count eating the published clock | [Delay](../implementation/STEWARD_ENTRY_DOORS.md#delay) | `apply_tier_clock_then_existing_card` |
 
 <a id="seat-modifiers"></a>

@@ -10,7 +10,7 @@
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 >
-> **Steward door (non-operative):** This file is layer 3 (how/when). Layer 1 is **Article XV**; layer 2 is Chapter Five [Auditability](../core_05_band_oversight.md#auditability). Binding next-step statement: [Operative steward statement (Article XV)](../core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Article XV](../core_06_rights_part_c.md#audit-three-layers). Do not treat this file, Chapter Eight, or an OP annex as a fifth audit home.
+> **Steward door (non-operative):** This file is layer 3 (how/when). Layer 1 is **Article XVI**; layer 2 is Chapter Five [Auditability](../core_05_band_oversight.md#auditability). Binding next-step statement: [Operative steward statement (Article XVI)](../core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Article XVI](../core_06_rights_part_c.md#audit-three-layers). Do not treat this file, Chapter Eight, or an OP annex as a fifth audit home.
 
 </details>
 
@@ -20,11 +20,11 @@
 - Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: this file's **audit process home** (what / why / how / when / sibling modes); machine-facing OP annexes in [cjs_03o_oversight_operations.md](cjs_03o_oversight_operations.md) (**CJS-3.3** auditability terms, **CJS-3.4**, **CJS-3.5**).
 - Read with: **CJS-3.3**; **CJS-3.4**; **CJS-3.5**; **CJS-3.10**.
-- Read with: **Article XV** (*Audit, Transparency, and Independent Verification*) and **Article XV-A** (*Auditability and Observable Evidence*) — Rights Floor; this file owns cross-implementation *how* / *when*
+- Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XVI-A** (*Auditability and Observable Evidence*) — Rights Floor; this file owns cross-implementation *how* / *when*
 - Read with: **[CJS-3.4](cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure)** (*tiered transparency and audit-access terms* — annex for access tiers and audit-output disclosure)
 - Read with: **CJS-3.5** (*independent verification and claim-integrity terms* — annex for claim checking)
 - Read with: **CJS-3.10 — Transparency and Disclosure**
-- Read with: **Article VII-B** (*Internal-State Boundary and Type-N Protection*)
+- Read with: **Article VII-B** (*Self-Ownership of Mind*)
 - Read with: **`corpus_systems.md` CS-2 — Information types and handling** (**Type O**, **Type G**, access-posture bands)
 - Read with: [Chapter Eight](../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*System Alignment Certification* — one especially large sibling audit mode; not the sole auditing home)
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
@@ -52,11 +52,11 @@
 
 This file is the joint-structure implementation home for **CJS-3.3** (*Audit process home*).
 
-*In plain terms: this is the shared audit-process home for systems, institutions, and forums — what auditing is, why we do it, how we do it, and when. The Rights Floor stays in **Article XV**; the machine-facing checklists live in the **CJS-3.3**–**CJS-3.5** OP annexes.*
+*In plain terms: this is the shared audit-process home for systems, institutions, and forums — what auditing is, why we do it, how we do it, and when. The Rights Floor stays in **Article XVI**; the machine-facing checklists live in the **CJS-3.3** (*auditability and reconstructability terms*)–**CJS-3.5** OP annexes.*
 
 **Cluster identity.** Stable citation **CJS-3.3** names this process home. The guidepost **oDef** auditability and reconstructability checklist remains in [cjs_03o_oversight_operations.md](cjs_03o_oversight_operations.md#cjs-33-auditability-annex) under the same cluster ID — annex, not the front door.
 Use this file whenever someone needs to understand or run auditing across **CS**, **CI**, and **CF** — or whenever records, access pathways, or verification design depend on standalone or combined system, institution, forum, dependency, or implementation-layer behavior.
-**Oversight frame.** Under the Constitutional Tetrad **oversight** leg, oversight requires auditing. [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional) (Chapter Eight) is one especially large, high-stakes audit process among others. This file is the cross-implementation process home; it does not relocate **Article XV** floors into Chapter Eight or into any single CS / CI / CF file.
+**Oversight frame.** Under the Constitutional Tetrad **oversight** leg, oversight requires auditing. [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional) (Chapter Eight) is one especially large, high-stakes audit process among others. This file is the cross-implementation process home; it does not relocate **Article XVI** floors into Chapter Eight or into any single CS / CI / CF file.
 
 <a id="cjs-33-what-auditing-is"></a>
 
@@ -75,8 +75,8 @@ Auditing **is**:
 Auditing **is not**:
 - a rubber stamp, marketing packet, or forever pass
 - the same thing as [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional) alone — SAC is one large sibling mode
-- a single auditor, operator, or gatekeeper monopolizing review (**Article XV-B**)
-- a substitute for challenge and remedy under **Article XII-B** (*Right to Challenge, Review, and Redress*)
+- a single auditor, operator, or gatekeeper monopolizing review (**Article XVI-B**)
+- a substitute for challenge and remedy under **Article XIII-B** (*Right to Challenge, Review, and Redress*)
 - satisfied by saying "audit happened" when outputs are missing, unreachable, or typed more restrictively than justified
 
 <a id="cjs-33-why-we-audit"></a>
@@ -101,15 +101,15 @@ Depth and frequency scale with [material stake](../core_00_preamble.md#material-
 
 A working audit process follows this chain:
 
-1. **Preserve evidence:** Keep records sufficient to reconstruct material behavior, decisions, effects, and claims (see the [CJS-3.3 OP annex](cjs_03o_oversight_operations.md#cjs-33-auditability-annex); **Article XV-A**).
+1. **Preserve evidence:** Keep records sufficient to reconstruct material behavior, decisions, effects, and claims (see the [CJS-3.3 OP annex](cjs_03o_oversight_operations.md#cjs-33-auditability-annex); **Article XVI-A**).
 2. **Choose the access path:** Use the tier that fits the data and the question:
    - **public baseline** where [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) or other public duties apply (**Type O** under **CS-2**)
    - **qualified / structured audit access** to non-public source (**Type G** or other non-public typing) when raw public release is inappropriate
    - **forensic depth** when harm, dispute, or credible risk requires full reconstruction
    - Access-tier mechanics live in **[CJS-3.4](cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure)**; typing lives in **CS-2**.
-3. **Run an independent check:** Someone who is not captured by the operator or the claim under review must be able to test the evidence (**CJS-3.5**; **Article XV-B** / **XV-C**).
+3. **Run an independent check:** Someone who is not captured by the operator or the claim under review must be able to test the evidence (**CJS-3.5** (*independent verification and claim-integrity terms*); **Article XVI-B** / **XVI-C**).
 4. **Publish usable outputs:** Findings, reports, eligibility rules for deeper access, and related artifacts must exist and remain reachable. Disclose them at the **most open feasible** tier: **Type O** (including strongest feasible public substitute) where feasible; otherwise qualified **Type G** or other non-public source; forensic or more-restricted tiers only as justified — see **[CJS-3.4](cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure)**.
-5. **Leave challenge and correction open:** Audit supports contest under **Article XII-B**; it does not replace it. Material findings must be correctable and reviewable.
+5. **Leave challenge and correction open:** Audit supports contest under **Article XIII-B**; it does not replace it. Material findings must be correctable and reviewable.
 
 Privacy and internal-state protections (**Article VII-B**) limit what may be exposed. They do **not** excuse hiding what was done, why it mattered, who or what was responsible, or what external effects followed.
 
@@ -125,7 +125,7 @@ Audit when any of the following applies (often more than one):
 - **Material change** — capability, scope, behavior, dependency, risk, incentive structure, or governance changes enough that prior checks no longer describe reality
 - **Periodic cadence** — on a schedule scaled to class and how fast the subject changes
 - **Incident, dispute, or credible risk** — including escalation to forensic depth when reconstruction is needed
-- **Continuous or automated monitoring** — where impact or criticality requires ongoing detection (including systems-layer monitoring profiles such as CS-5 ACA), without treating monitoring alone as a complete audit
+- **Continuous or automated monitoring** — where impact or criticality (including system class where assigned) requires ongoing detection (including systems-layer monitoring profiles such as CS-5 ACA), without treating monitoring alone as a complete audit
 - **Certification or revalidation cycles** — including System Alignment Certification, which is one trigger among others, not the only time auditing happens
 
 "Where feasible" does **not** make required independent audit paths soft-optional for high-impact subjects. Eligibility rules for qualified independent or third-party paths must stay public and non-exclusive (**CJS-3.4**).
@@ -134,16 +134,16 @@ Audit when any of the following applies (often more than one):
 
 ## Sibling audit modes (owner map)
 
-*In plain terms: auditing shows up in several places — this home coordinates them; it does not swallow their owner files. These modes use the three-layer stack ([picture in Article XV](../core_06_rights_part_c.md#audit-three-layers): Article XV floor, Auditability property, this file as how/when). They are not extra homes.*
+*In plain terms: auditing shows up in several places — this home coordinates them; it does not swallow their owner files. These modes use the three-layer stack ([picture in Article XVI](../core_06_rights_part_c.md#audit-three-layers): Article XVI floor, Auditability property, this file as how/when). They are not extra homes.*
 
 | Mode | Owner (do not restate doctrine here) |
 |---|---|
-| Rights Floor — audit, transparency, independent verification | **Article XV** (XV-A / XV-B / XV-C) |
+| Rights Floor — audit, transparency, independent verification | **Article XVI** (XVI-A / XVI-B / XVI-C) |
 | System Alignment Certification (large, forum-supervised, recognition-bearing) | **Chapter Eight** |
 | System Classification Record audit | **CS-3** §7.3 |
 | System Data Types Record audit | **CS-2** §8.3 |
 | Data typing and access-posture for audit outputs | **CS-2** (Type O / Type G / bands); output-tier preference in **CJS-3.4** |
-| Complexity / comprehensibility audits (systems profile) | **CS-6**; **Article XX** |
+| Complexity / comprehensibility audits (systems profile) | **CS-6**; **Article XXI** |
 | Claim integrity and independent verification terms | **CJS-3.5** |
 | Institutional transparency and accessible challenge and service pathways | **CI-8** (read with **CI-7.3** where monitoring or escalation applies) |
 | Forum performance, backlog, publication, accessibility | **CF-11** |

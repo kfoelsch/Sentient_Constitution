@@ -79,7 +79,7 @@ When that boundary does not resolve the conflict, use this order:
 3. The **Tier 1** CJS abstraction stated in this section.
 4. Local shorthand, examples, summaries, or other drafting convenience text, as described in **CJS-1.3** (*Shared implementation-corpus preamble contract*).
 
-Do not use a broad reading of CJS to change, shrink, expand, or move a rule that belongs to a canonical owner. If the conflict is still unclear after applying this order, do not treat the broader CJS reading as controlling. Send the question to the canonical owner named in **CJS-0.1**, including the forum owner in **CF** where forum routing, forum authority, or Chapter Twelve procedure is affected, and update the CJS pointer once the owner clarifies it. For stricter-wins between two adopted implementation standards on the same risk, read [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#843-incorporation-layer) (*Incorporation layer*, including cross-file stricter-wins).
+Do not use a broad reading of CJS to change, shrink, expand, or move a rule that belongs to a canonical owner. If the conflict is still unclear after applying this order, do not treat the broader CJS reading as controlling. Send the question to the canonical owner named in **CJS-0.1** (*Topic router*), including the forum owner in **CF** where forum routing, forum authority, or Chapter Twelve procedure is affected, and update the CJS pointer once the owner clarifies it. For stricter-wins between two adopted implementation standards on the same risk, read [Chapter One §8.4.3 Incorporation layer](../core_01_b_interaction_interpretation.md#843-incorporation-layer) (*Incorporation layer*, including cross-file stricter-wins).
 
 Domain-layer read-with contracts: apply [Institutions read-with pointers](../corpus_institutions/ci_00_registry_and_reading_rules.md#institutions-read-with-pointers), [Forums read-with pointers](../corpus_forum/cf_00_registry_and_reading_rules.md#forums-read-with-pointers), and [Systems read-with pointers](../corpus_systems/cs_00_registry_and_reading_rules.md#systems-read-with-pointers) in the respective registry annexes.
 
@@ -102,7 +102,7 @@ Under the identifier and definition-home rules in **CJS-1.1** (*Section identifi
 When revising **CJS** joint-structure text:
 - keep **CS**, **CI**, or **CF** **primary owner** requirements in those files;
 - keep read-with restatements short; and
-- preserve **oDef** / **CJS-3** (*operational cluster library*) citations so references remain traceable under [CJS-0.3](cjs_00_registry_and_reading_rules.md#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes) (*Stable identifiers, edition alignment, and drafting notes*); stricter-wins remains [Chapter One §8.4.3](../core_01_b_interaction_interpretation.md#843-incorporation-layer) (*Incorporation layer*, including cross-file stricter-wins).
+- preserve **oDef** / **CJS-3** (*operational cluster library*) citations so references remain traceable under [CJS-0.3](cjs_00_registry_and_reading_rules.md#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes) (*Stable identifiers, edition alignment, and drafting notes*); stricter-wins remains [Chapter One §8.4.3 Incorporation layer](../core_01_b_interaction_interpretation.md#843-incorporation-layer) (*Incorporation layer*, including cross-file stricter-wins).
 
 ---
 

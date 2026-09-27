@@ -59,7 +59,7 @@
 - 上流：原則：[2. 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[4. 信頼](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)、[5. 自由（有界な行為主体性）](core_01_a_values_principles.md#5-freedom-bounded-agency)、[§9 責務ある管理と分散した理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)。
 - 下流：[6.2.1 認識的誠実性の保全](#621-preservation-of-epistemic-integrity)、[§6.1 決定記録の規律](#615-rights-collision-decision-test)、[既定の暫定姿勢](#default-interim-posture)、[7. 絶対的上書きの禁止](#7-prohibition-on-absolute-override)。
 - 下流：[第六章：基礎権利](../../core_06_rights_part_a.md#chapter-six-foundational-rights)の条横断衝突を統治する。
-  - [Article XXII：憲法解釈、審査、反捕捉保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)および [Article XXIII：衝突解決、段階的拡大、緊急の比例性](../../core_06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality)とあわせて読む。
+  - [Article XXIII：憲法解釈、審査、反捕捉保障](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards)および [Article XXIV：衝突解決、段階的拡大、緊急の比例性](../../core_06_rights_part_d.md#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality)とあわせて読む。
   - 審査、緊急、または権利衝突の問いが生じるところで適用する。
 - 責務ある管理の入口（非操作性）：拘束力ある次の一歩の声明：[操作性の責務ある管理の声明](#operative-steward-statement-interpretation)。支援ポインタはそれを狭められない。
 
@@ -69,7 +69,7 @@
 <summary><strong><span style="color: #2563eb;">操作性の責務ある管理の声明</span></strong></summary>
 
 <a id="operative-steward-statement-interpretation"></a>
-> **操作性の責務ある管理の声明。** **所管：** 第一章 §6 過程衝突の解決。§6.1 決定記録の規律を含む。曖昧さ：第一章 §8.3。制度的解釈：Article XXII。**禁じられた動き：** 欠けている衝突規則を発明するな。「プライバシーはいつも負ける」または「監査はいつも負ける」に衝突を潰すな。衝突が係属中に証拠を破壊するな。衝突が係属中に勝者を製造する不可逆の一歩を取るな。**時計：** 証拠を保全せよ。不可逆の一歩を凍結せよ。可逆で同意された一歩を進めよ。影響を受ける当事者と解釈経路に通知せよ。衝突を解釈へ経路づけよ。勝者を製造するな。
+> **操作性の責務ある管理の声明。** **所管：** 第一章 §6 過程衝突の解決。§6.1 決定記録の規律を含む。曖昧さ：第一章 §8.3。制度的解釈：Article XXIII。**禁じられた動き：** 欠けている衝突規則を発明するな。「プライバシーはいつも負ける」または「監査はいつも負ける」に衝突を潰すな。衝突が係属中に証拠を破壊するな。衝突が係属中に勝者を製造する不可逆の一歩を取るな。**時計：** 証拠を保全せよ。不可逆の一歩を凍結せよ。可逆で同意された一歩を進めよ。影響を受ける当事者と解釈経路に通知せよ。衝突を解釈へ経路づけよ。勝者を製造するな。
 
 </details>
 
@@ -262,10 +262,10 @@
 - 安全の枠組みは、権利の床の最低限の永久消滅を授権しない。
 - 安全が制限を求めるところでは、なお下記の床と、形において [§6.1.5 制限最小、期限付き、審査可能な制約原則](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) を遵守しなければならない。
 
-<a id="rightsfloor-minimums-principle"></a>
+<a id="rights-floor-minimums-principle"></a>
 **権利の床の最低限の原則：**
 - いかなる憲法上の過程、措置、移行、改正、軌跡の帰結、緊急行為、または正義関連の成果も、基線の尊厳保護、最低限の生存通路、または中核の異議、審査、上訴の権利という**権利の床の最低限**を永久に消滅させ、または放棄させてはならない。
-- 特定の権利の一時的制限は、[制限最小、期限付き、審査可能な制約原則](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)と [Article XXIII-D](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden)（《緊急措置と継続負担》）の緊急規定を満たすときにのみ許される — すなわちいかなる制限も、正当化され、最小で、文書化され、期限付きで、独立して審査可能でなければならない。特定の条はより強い保障を加えうるが、この原則を狭めてはならず、都合、効率、分類、緊急、移行、軌跡、改正、契約、実施のラベルを用いてそれを迂回してはならない。
+- 特定の権利の一時的制限は、[制限最小、期限付き、審査可能な制約原則](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)と [Article XXIV-D](../../core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden)（《緊急措置と継続負担》）の緊急規定を満たすときにのみ許される — すなわちいかなる制限も、正当化され、最小で、文書化され、期限付きで、独立して審査可能でなければならない。特定の条はより強い保障を加えうるが、この原則を狭めてはならず、都合、効率、分類、緊急、移行、軌跡、改正、契約、実施のラベルを用いてそれを迂回してはならない。
 
 <a id="anti-degrading-process-principle"></a>
 **過程劣化防止原則。** C部に述べられた[過程劣化防止原則（§9.6）](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline)は、この取引スタックにおける絶対の床として働く。
@@ -317,7 +317,7 @@
 決定記録への機密限度は、[§6.2 認識的開示の制約](#62-epistemic-disclosure-constraints)を満たさなければならない。完全な公開開示が実務可能でないところでは、最大の実務可能な部分開示に加えて、独立した審査者の通路が維持されなければならない。
 
 <a id="default-interim-posture"></a>
-**権利衝突が係属中の既定の暫定姿勢。** [§6.1 決定記録の規律](#615-rights-collision-decision-test)と [Article XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) が衝突を解決するまで、保持パターンは固定され、責務ある管理者が即興で勝者を製造できないようにする：
+**権利衝突が係属中の既定の暫定姿勢。** [§6.1 決定記録の規律](#615-rights-collision-decision-test)と [Article XXIII](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards) が衝突を解決するまで、保持パターンは固定され、責務ある管理者が即興で勝者を製造できないようにする：
 
 - **証拠を保全する：** 削除、漏洩、不可逆な公表によって衝突を無意味にするな。
 - 衝突する読みの一方を利用不能にする**不可逆の一歩を凍結する** — 衝突を閉じ、一方を無意味にし、解釈が解決する前に勝者を製造するなら、取り消せない一歩を取るな。
@@ -336,7 +336,7 @@
 - あわせて読む：[憲法四元](core_00_preamble.md#constitutional-tetrad) — **参加**脚（限度のもとでの情報に基づく争訟可能性）。**監督**脚（開示限度は最大の実務可能な審査を保全しなければならない）。[実質的利害](core_00_preamble.md#material-stake)による尺度合わせ。
 - 上流：原則：[3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[4. 信頼](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)、[§6 過程衝突の解決](#6-process-conflict-resolution)。
 - 下流：[§6.2.1 認識的誠実性の保全](#621-preservation-of-epistemic-integrity)、[§6.2.2 信頼と真理の整合](#622-trust-truth-alignment)、[§6.2.3 プライバシーと情報的自己決定](#623-privacy-and-informational-self-determination)、[7. 絶対的上書きの禁止](#7-prohibition-on-absolute-override)。
-- 下流：開示が限られるときの情報圏の誠実性、監査可能性、回顧的審査、情報に基づく争訟可能性についての権利面を保護する。とくに [Article XIV：情報圏の誠実性](../../core_06_rights_part_c.md#article-xiv-info-sphere-integrity)、[Article XV：監査、透明性、独立検証](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)、[Article XXII：憲法解釈、審査、反捕捉保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)、[Article XXIV-A：回顧的審査と開示](../../core_06_rights_part_d.md#article-xxiv-a-retrospective-review-and-disclosure)、開示限度が争訟可能性または情報に基づく参加に影響するいかなる権利文脈。
+- 下流：開示が限られるときの情報圏の誠実性、監査可能性、回顧的審査、情報に基づく争訟可能性についての権利面を保護する。とくに [Article XV：情報圏の誠実性](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity)、[Article XVI：監査、透明性、独立検証](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)、[Article XXIII：憲法解釈、審査、反捕捉保障](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards)、[Article XXV-A：回顧的審査と開示](../../core_06_rights_part_d.md#article-xxv-a-retrospective-review-and-disclosure)、開示限度が争訟可能性または情報に基づく参加に影響するいかなる権利文脈。
 
 </details>
 
@@ -388,7 +388,7 @@
 - あわせて読む：[憲法四元](core_00_preamble.md#constitutional-tetrad) — **参加**脚（限度のもとでの情報に基づく争訟可能性）。**監督**脚（開示限度は最大の実務可能な審査を保全しなければならない）。[実質的利害](core_00_preamble.md#material-stake)による尺度合わせ。
 - 上流：原則：[3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[4. 信頼](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)、[6. 過程衝突の解決](#6-process-conflict-resolution)。
 - 下流：[§6.2.2 信頼と真理の整合](#622-trust-truth-alignment)と[7. 絶対的上書きの禁止](#7-prohibition-on-absolute-override)。
-- 下流：開示が限られるときの情報圏の誠実性、監査可能性、回顧的審査、情報に基づく争訟可能性についての権利面を保護する。とくに [Article XIV：情報圏の誠実性](../../core_06_rights_part_c.md#article-xiv-info-sphere-integrity)、[Article XV：監査、透明性、独立検証](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)、[Article XXII：憲法解釈、審査、反捕捉保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)、[Article XXIV-A：回顧的審査と開示](../../core_06_rights_part_d.md#article-xxiv-a-retrospective-review-and-disclosure)、開示限度が争訟可能性または情報に基づく参加に影響するいかなる権利文脈。
+- 下流：開示が限られるときの情報圏の誠実性、監査可能性、回顧的審査、情報に基づく争訟可能性についての権利面を保護する。とくに [Article XV：情報圏の誠実性](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity)、[Article XVI：監査、透明性、独立検証](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)、[Article XXIII：憲法解釈、審査、反捕捉保障](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards)、[Article XXV-A：回顧的審査と開示](../../core_06_rights_part_d.md#article-xxv-a-retrospective-review-and-disclosure)、開示限度が争訟可能性または情報に基づく参加に影響するいかなる権利文脈。
 
 </details>
 
@@ -450,7 +450,7 @@
 - あわせて読む：[憲法四元](core_00_preamble.md#constitutional-tetrad) — **参加**脚（プライバシーは自由な表現と結社を支える）。**監督**脚（プライバシーへの侵入自体が監査可能でなければならない）。[実質的利害](core_00_preamble.md#material-stake)による尺度合わせ。
 - 上流：原則：[5. 自由（有界な行為主体性）](core_01_a_values_principles.md#5-freedom-bounded-agency)、[3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[§6.2 認識的開示の制約](#62-epistemic-disclosure-constraints)。
 - 下流：[**Def.C3** プライバシー（情報的） — 対等クラスター頭](../../core_05_band_continuity.md#privacy-informational-cluster)。[プライバシー（情報的）](../../core_05_band_continuity.md#privacy-informational)、[保護された内部状態の境界](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional)、[監視の境界](../../core_05_band_continuity.md#surveillance-boundary)を含む。
-- 下流：[Article VII-A](../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind)（《身体と心の自己所有》）；[Article VII-B](../../core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection)（《内部状態の境界と Type-N 保護》）；[Article VIII](../../core_06_rights_part_b.md#article-viii-likeness-experiential-data-and-publication-rights)（《肖像、経験データ、公表の権利》）；[Article IX-A](../../core_06_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation)（《行為主体性と操作からの自由》）；[Article XIII-A](../../core_06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits)（《安全保障、情報、隠密権力の限度》）。
+- 下流：[Article VII-A](../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body)（《身体と心の自己所有》）；[Article VII-B](../../core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind)（《内部状態の境界と Type-N 保護》）；[Article IX](../../core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights)（《肖像、経験データ、公表の権利》）；[Article X-A](../../core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation)（《行為主体性と操作からの自由》）；[Article XIV-A](../../core_06_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits)（《安全保障、情報、隠密権力の限度》）。
 - あわせて読む：[§6.1.5 制限最小、期限付き、審査可能な制約原則](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)；プライバシーが透明、監査、安全、または他の憲法上の利益と衝突するところでは [§6.1 決定記録の規律](#615-rights-collision-decision-test)。
 
 </details>
@@ -471,7 +471,7 @@
 
 *平たい言葉で言えば：プライバシーは憲法上重みづけられた利益である — 単なる非開示ではない。システムは、必要性と比例性が正当化するものを超えて、個人的および関係的情報を収集、推論、集計、保持、使用してはならない。プライバシーが透明、監査、安全、または説明責任の義務と衝突するところでは、衝突は §6.3 のもとで解決され、プライバシーを自動的に下位として扱うことではない。行為主体性、結社、または表現を萎縮させる監視は、他の権利制限と同じ必要性と制限最小の規律を満たさなければならない。*
 
-**憲法上の利益としてのプライバシー。** プライバシー — 情報プライバシー、空間的および関係的プライバシー、正当化されない監視からの自由を含む — は、**自由**（[§5](core_01_a_values_principles.md#5-freedom-bounded-agency)）、**尊厳**（[Article V-A](../../core_06_rights_part_b.md#article-v-a-dignity-and-equal-moral-standing)（《尊厳と平等な道徳的地位》））、意味ある行為主体性と強制されない参加の条件を支える、憲法上重みづけられた利益である。本節の取引と衝突の仕組みにおいて、独立した憲法上の重みを持つ。
+**憲法上の利益としてのプライバシー。** プライバシー — 情報プライバシー、空間的および関係的プライバシー、正当化されない監視からの自由を含む — は、**自由**（[§5](core_01_a_values_principles.md#5-freedom-bounded-agency)）、**尊厳**（[Article V-A](../../core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing)（《尊厳と平等な道徳的地位》））、意味ある行為主体性と強制されない参加の条件を支える、憲法上重みづけられた利益である。本節の取引と衝突の仕組みにおいて、独立した憲法上の重みを持つ。
 
 **収集と使用の規律。** 個人、関係、行動、生体、内部状態に隣接、または比較可能な情報の収集、推論、集計、保持、移転、使用は、次を満たさなければならない：
 - **必要性：** 憲法上有効な目的に必要なものを超える広い収集または保持はない。
@@ -530,7 +530,7 @@
 
 - 上流：[§6.1 中核の取引原則](#61-core-tradeoff-principles)（取引スタックが満たされた後に適用）；[§9.1 責務ある管理](core_01_c_stewardship_capacity_principles.md#91-stewardship)；[§12.2 憲法上の効率](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency)。
 - あわせて読む：憲法上の実績の測定ファミリー（《憲法上の測定としての回避可能な負担》）；[憲法四元](core_00_preamble.md#constitutional-tetrad) — **参加**脚（憲法上求められない負担は[意味ある行為主体性](../../core_05_band_participation.md#meaningful-agency)を狭める）；**適時性**脚（回避可能な遅れは回避可能な負担である）。
-- 下流：[§11.1.3 責務ある管理と運用者への適用](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)（誘因は不必要な負担創出を報いてはならない）；[Article XX：理解可能性と複雑さの責務ある管理](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship)。
+- 下流：[§11.1.3 責務ある管理と運用者への適用](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)（誘因は不必要な負担創出を報いてはならない）；[Article XXI：理解可能性と複雑さの責務ある管理](../../core_06_rights_part_c.md#article-xxi-comprehensibility-and-complexity-stewardship)。
 
 </details>
 
@@ -576,7 +576,7 @@
 - 上流：原則：[2. 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[4. 信頼](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)、[§9 責務ある管理と分散した理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)、[6. 過程衝突の解決](#6-process-conflict-resolution)、[5. 自由](core_01_a_values_principles.md#5-freedom-bounded-agency)、[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)。
 - 下流：[15. 統合適用](core_01_c_stewardship_capacity_principles.md#15-integrated-application)。
 - 下流：平等、異議の権利、透明、争訟可能性、有界な解釈を崩す一価値上書きの論理から権利面を保護する。
-  - とくに [Article V：平等な基本権利](../../core_06_rights_part_b.md#article-v-equal-basic-rights)、[Article XII-B：異議、審査、救済への権利](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)、[Article XIV-B：透明性、監査可能性、争訟可能性](../../core_06_rights_part_c.md#article-xiv-b-transparency-auditability-and-contestability)、[Article XVIII-B：争訟可能性と比例的制限の限度](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits)、[Article XXII-A：有界な解釈委任](../../core_06_rights_part_c.md#article-xxii-a-bounded-interpretive-mandate)。
+  - とくに [Article V：平等な基本権利](../../core_06_rights_part_b.md#article-vi-equal-basic-rights)、[Article XIII-B：異議、審査、救済への権利](../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)、[Article XV-B：透明性、監査可能性、争訟可能性](../../core_06_rights_part_c.md#article-xv-b-transparency-auditability-and-contestability)、[Article XIX-B：争訟可能性と比例的制限の限度](../../core_06_rights_part_c.md#article-xix-b-contestability-and-proportional-restriction-limits)、[Article XXIII-A：有界な解釈委任](../../core_06_rights_part_c.md#article-xxiii-a-bounded-interpretive-mandate)。
 
 </details>
 
@@ -611,7 +611,7 @@
 - あわせて読む：[第二から第四章](core_02_definition_structure.md)と[第五章](core_05__definitions_home.md#chapter-five-foundational-definitions) — 本章のすべての用語の解釈および証拠層。
 - あわせて読む：[憲法四元](core_00_preamble.md#constitutional-tetrad)と[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — 統合価値枠組みの解釈背景。実質的に関連するところでは[実質的利害](core_00_preamble.md#material-stake)による尺度合わせ。
 - あわせて読む：[権限スタックと内部階層](../../core_05_band_integrative.md#authority-stack)（《源層の地位》）；[第十六章](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)（《保管、版、採択の枠組み》 — 第二の衝突順の本拠ではない）；[第十三章](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)と[第十四章](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)（《§8.4 のもとでの不後退と採択者階層の門》）。
-- あわせて読む：制度的解釈の保障については [Article XXII：憲法解釈、審査、反捕捉保障](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)（本節の代わりではない）。
+- あわせて読む：制度的解釈の保障については [Article XXIII：憲法解釈、審査、反捕捉保障](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards)（本節の代わりではない）。
 
 </details>
 

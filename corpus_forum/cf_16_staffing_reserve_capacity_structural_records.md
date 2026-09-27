@@ -93,7 +93,7 @@ Detailed appointment, tenure, rotation, removal, and conflict-control pathways r
 
 - [**CI-4**](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*);
 - [**CI-5**](../corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md) (*Conflict integrity, anti-capture, and anti-corruption*);
-- `core_06_rights_part_d.md` **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) where applicable.
+- `core_06_rights_part_d.md` **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) where applicable.
 
 **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*) requires those protections to be reflected in the actual forum map and staffing model.
 
@@ -312,6 +312,8 @@ Each adopting entity must maintain and periodically update at least:
 <br>
 
 *In plain terms: Where the boundaries sit: Chapter Twelve still owns forum architecture, the institutions corpus still owns non-adjudicative governance, and this file adds only the forum-specific staffing layer.*
+
+This file relates to the existing corpus files as follows:
 
 - `core_12_forum.md` remains the constitutional owner of forum-family architecture and routing.
 - `corpus_institutions.md` remains the general owner of non-adjudicative institutional governance (as distinct from the forum layer).

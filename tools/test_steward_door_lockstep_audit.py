@@ -10,6 +10,7 @@ from pathlib import Path
 
 from steward_door_lockstep_audit import (
     CARD_BOX_ANCHORS,
+    CARD_OWNER_TEXT_ANCHORS,
     CARD_TITLES,
     DUTY_STEPS,
     INDEX_REL,
@@ -78,7 +79,7 @@ class StewardDoorLockstepTests(unittest.TestCase):
         self.assertIn("Interpretation", CARD_TITLES)
         self.assertIn("Comprehensibility", CARD_TITLES)
         self.assertIn("Market structure", CARD_TITLES)
-        self.assertIn("Cross-system contribution", CARD_TITLES)
+        self.assertIn("Cross-system support", CARD_TITLES)
         self.assertIn("Delay", CARD_TITLES)
 
     def test_broken_href_fragment_is_reported(self) -> None:
@@ -130,7 +131,36 @@ class StewardDoorLockstepTests(unittest.TestCase):
         )
 
     def test_named_stack_titles_have_core_box_anchors(self) -> None:
-        self.assertEqual(set(CARD_BOX_ANCHORS), set(CARD_TITLES))
+        self.assertEqual(
+            set(CARD_BOX_ANCHORS) | set(CARD_OWNER_TEXT_ANCHORS), set(CARD_TITLES)
+        )
+        self.assertFalse(set(CARD_BOX_ANCHORS) & set(CARD_OWNER_TEXT_ANCHORS))
+
+    def test_owner_text_card_fails_when_article_drops_clause(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            import shutil
+
+            root = Path(tmp)
+            shutil.copytree(
+                ROOT,
+                root,
+                dirs_exist_ok=True,
+                ignore=shutil.ignore_patterns(
+                    ".git", "translations", "archive", "evidence",
+                    "_pages_site", "__pycache__",
+                ),
+            )
+            art = root / "core_06_rights_part_a.md"
+            text = art.read_text(encoding="utf-8")
+            art.write_text(
+                text.replace("Do not wait for a later allocation formula.", ""),
+                encoding="utf-8",
+            )
+            errors = audit(root)
+            self.assertTrue(
+                any("owner Article text" in e and "cross_system_support" in e for e in errors),
+                errors,
+            )
 
     def test_schema_and_index_exist(self) -> None:
         self.assertTrue((ROOT / INDEX_REL).is_file())

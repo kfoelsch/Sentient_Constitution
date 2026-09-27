@@ -43,7 +43,7 @@
 - 上游：[第七章](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)（*系统对齐认证*）；[B 部分 §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing)（*轨迹桥接 — 仅潜在经核实输入*）。
 - 轨迹链：[README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)；[第八章 — 测量](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)（*三问框架、问题 1 记录与问题 2 测量 — 第 **1–7** 节*）；[第九章 — 轨迹效果与整合](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)（*问题 3 效果与整合*）；[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)（*仅对合格违规轴 s = 7–9 作指定*）。
 - 本文件各小节：[§1](#1-the-three-questions)（*三问框架与范围*）；[§2](#2-standing-records)（*问题 1 — 经核实事实与记录*）；[§3](#3-standing-record-operational-requirements)（*核验与记录要求*）；[§4](#4-standing-measurement-evaluation-dimensions)（*问题 2 — 测量维度*）；[§5](#5-slot-grammar-and-lequ-calibration)（*槽位语法与共享标尺*）；[§6](#6-constitutional-inputs-to-axis-assignment)（*宪法来源路由*）；[§7](#7-unified-proportional-lequ-scale)（*两轴统一比例 LEQU 标尺*）。
-- 下游：[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)（*仅指定 — 不重开问题 2 测量*）；[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*评议所监督与路由*）；[Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor)（*及时解决*）；[Article XXIII](core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope)（*正义约束*）。
+- 下游：[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)（*仅指定 — 不重开问题 2 测量*）；[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*评议所监督与路由*）；[Article XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor)（*及时解决*）；[Article XXIV](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope)（*正义约束*）。
 - 一并阅读：[第五章 *轨迹状态、贡献与违规*](core_05_band_accountability.md#standing-state-contribution-and-violation-cluster)（*典范定义路由*）。
 - 一并阅读：[README.md](../../README.md)（*阅读顺序*）；[doc_architecture.md](../../doc_architecture.md)（*无约束力编辑地图，除非被采纳*）。
 
@@ -88,7 +88,7 @@
 
 日常程序、升级步骤、返还与修复作业、恢复性问责措施，以及激励设计，属于已采纳的实施文本。
 
-第八章测量**本身**不授权强制、拘禁或其他自由限制。任何此类后果必须独立满足第六章 **Article XXIII**，包括其相称性、最少限制、时间限定、返还与恢复性问责要求。
+第八章测量**本身**不授权强制、拘禁或其他自由限制。任何此类后果必须独立满足第六章 **Article XXIV**，包括其相称性、最少限制、时间限定、返还与恢复性问责要求。
 
 <details>
 <summary><strong><span style="color: #2563eb;">溯源 · 定义 · 评估 · 合规</span></strong></summary>
@@ -396,14 +396,14 @@
 
 *用直白的话说：评议所是争议被监督、被质疑并变成经核实结果的地方 — 但提交案件或打赢叙事战并不更新轨迹。**第 3.1 节**的经核实输入门仍然适用。当评议所在第二至四章下核实事实时，它可以**打开、更新或更正**一份轨迹记录 — 或**在质疑时把一份坏记录搁置。** 评议所不把好与坏合并成一个分数，也不自行发明轨迹类别。*
 
-[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) 下的评议所族系**监督**具体争议如何穿过轨迹链。评议所为该监督所保存的争议阶段档是[第十一章 §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests) 下的[**评议所案件记录**](core_05_band_accountability.md#forum-case-record)；它**本身不是**轨迹记录。评议所按[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) 与 [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor)（《及时解决与反拖延底线》）提供可及质疑、独立审查、取证支持、补救排序与层级默认时限；当那些认定满足第二至四章下的经核实输入门时，它们可以按**第 3.1 节****打开、更新或更正**轨迹记录 — 或**在质疑时把一份坏记录搁置**。
+[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) 下的评议所族系**监督**具体争议如何穿过轨迹链。评议所为该监督所保存的争议阶段档是[第十一章 §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests) 下的[**评议所案件记录**](core_05_band_accountability.md#forum-case-record)；它**本身不是**轨迹记录。评议所按[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) 与 [Article XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor)（《及时解决与反拖延底线》）提供可及质疑、独立审查、取证支持、补救排序与层级默认时限；当那些认定满足第二至四章下的经核实输入门时，它们可以按**第 3.1 节****打开、更新或更正**轨迹记录 — 或**在质疑时把一份坏记录搁置**。
 
 评议所的经核实事实认定可以为问题 1 轨迹记录供给事实基础。它们**不**决定问题 2 对经核实贡献或违规有多好或多坏的测量。因此：
 
 - 评议所程序**不得**把贡献材料与违规材料合并成一个净分、混合是非答案或未分化轨迹标签；关联记录按**第 2.1 节**与**第 2.2 节**保持分开。
 - 评议所产出**不得**用争议叙事、路由便利或合议组偏好，顶替可展示的经核实输入、分开测量，或[第九章](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) 所主责的轨迹效果机制。
 
-这条边界**不**减低 [Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)（《质疑、审查与救济权》）、[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)、[Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor)（《及时解决与反拖延底线》）或相关正义条款所要求的质疑、救济、临时救济或程序保护。它要求经核实的评议所认定通过与其他经核实输入相同的门进入轨迹 — 而不是绕过它。
+这条边界**不**减低 [Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)（《质疑、审查与救济权》）、[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)、[Article XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor)（《及时解决与反拖延底线》）或相关正义条款所要求的质疑、救济、临时救济或程序保护。它要求经核实的评议所认定通过与其他经核实输入相同的门进入轨迹 — 而不是绕过它。
 
 <a id="37-record-custody-and-opening-authority"></a>
 
@@ -414,7 +414,7 @@
 
 - 上游：[第一章 §10.2 *职责分离*](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties)（*本节适用于轨迹记录的原则层底线；不得在此收窄*）；[第一章 §11.3 *多元检测与审查*](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection)；[§2.1](#21-silence-is-the-default)（*经核实触发；通知对象*）；[§3.1](#31-minimum-record-contents)（*最低内容与经核实输入门*）；[§3.4](#34-versioning)（*版本管理*）；[§3.6](#36-forum-boundary)（*评议所可以打开、更新、更正或搁置*）；[第二至四章](core_02_definition_structure.md)（*记录、核验与可追溯性*）；[证据保全](core_05_band_oversight.md#evidence-preservation)（*证据保管链*）。
 - 四元腿：**问责**（每一条目由具名行动者负责）；**监督**（任何一方不核验自身主张）。首要宗旨：**繁盛**与**延续**。
-- 一并阅读：[第五章 *章程*](core_05_band_continuity.md#charter)（*公布的范围文书，为章程范围具名或指向开档机关与保管人*）；**CI-3.6**（*章程内容 — 轨迹记录保管字段*）；[**CJS-3.11** *宪法车道与功能分离*](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)（*记录职责所落入的五条车道；职责分离*）；**CI-3.2**（*功能分离车道 — 已公布车道图，章程沉默时的回退*）；**CI-3.3**（*权威链与委托控制*）；**CI-4.6**（*席位目录 — 四个记录席位作为席位类型 1–4，连同错席规则*）；**CF-9.6**（*无自我调查*）与 **CF-9.8**（*经核实认定移交*）；[第十一章 §2.1](core_11_forum.md#21-lead-default-limits)（*反自我裁判备用*）；[CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)（*谁授权；日志不是记录*）；[第九章 §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)（*停止、拒绝、记录、升级*）；[第四章 §5](core_04_burden_traceability_verification.md#5-compliance-evidence-standard)（*核验席位对记录员与当事方陈述适用的证据标准*）；[善意](core_05_band_accountability.md#good-faith)（*坦诚推定，不是准确性*）；[可质疑性](core_05_band_accountability.md#contestability) 与 [Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)（*记录上提出的质疑在任何提交之前被记入并路由*）；[第十一章 §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests)（*轨迹记录一旦到达评议所后的质疑*）。
+- 一并阅读：[第五章 *章程*](core_05_band_continuity.md#charter)（*公布的范围文书，为章程范围具名或指向开档机关与保管人*）；**CI-3.6**（*章程内容 — 轨迹记录保管字段*）；[**CJS-3.11** *宪法车道与功能分离*](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)（*记录职责所落入的五条车道；职责分离*）；**CI-3.2**（*功能分离车道 — 已公布车道图，章程沉默时的回退*）；**CI-3.3**（*权威链与委托控制*）；**CI-4.6**（*席位目录 — 四个记录席位作为席位类型 1–4，连同错席规则*）；**CF-9.6**（*无自我调查*）与 **CF-9.8**（*经核实认定移交*）；[第十一章 §2.1](core_11_forum.md#21-lead-default-limits)（*反自我裁判备用*）；[CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)（*谁授权；日志不是记录*）；[第九章 §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)（*停止、拒绝、记录、升级*）；[第四章 §5](core_04_burden_traceability_verification.md#5-compliance-evidence-standard)（*核验席位对记录员与当事方陈述适用的证据标准*）；[善意](core_05_band_accountability.md#good-faith)（*坦诚推定，不是准确性*）；[可质疑性](core_05_band_accountability.md#contestability) 与 [Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)（*记录上提出的质疑在任何提交之前被记入并路由*）；[第十一章 §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests)（*轨迹记录一旦到达评议所后的质疑*）。
 - 下游：[§4](#4-standing-measurement-evaluation-dimensions)（*问题 2 只测量按本节写入的记录*）；[第九章](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)（*问题 3 效果追溯到一份已归因记录*）。
 
 </details>
@@ -479,11 +479,11 @@
 
 <a id="37-challenge-received-on-the-record"></a>
 
-**记录上收到的质疑。** [可质疑性](core_05_band_accountability.md#contestability) 不以评议所为起点。当受影响方就一份记录、一个版本或从中主张的效果提出争议 — 向保管人、向开档机关，或向该机构的任何办公室 — 保管人按上文*已归因写入*在收到的那一刻把质疑记入记录，把**第 3.1 节**下的审查状态设为*正在被质疑*，通知对象与任何主张者，并把它路由到质疑席位：**CI-3.2**（《功能分离车道》）下持有质疑与审查车道的办公室，或**第 3.6 节**与[第十一章 §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests)（《轨迹记录的质疑》）下有管辖权的评议所，以记录已公布质疑路径所具名为准。该已公布路径是[争议排序](core_11_forum.md#dispute-sequencing) 下的普通第一步；当该路径仍有争议、缺失、被俘获或不能给予所需救济时，有管辖权的评议所仍然可用。保管人与机关不决定该质疑。*正在被质疑*是一种状态，不是中止：记录保持可检查，其先前版本保持原位，对被质疑版本用于第九章效果的依赖，仅在质疑席位或评议所如此命令时暂停。质疑不是更正请求，也不冻结更正：质疑者的记述，如同主张者的记述，是*记录员陈述是输入*与**第 3.1 节**下核验的输入，绝不是核验；任何一方都不得把待决质疑当作写入、或拒绝写入开档机关在其他方面已核验的版本的理由。[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) 与 [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) 下的层级时限自收到起算。因未具名质疑席位而无法路由的质疑，是记入记录并按**第 3.6 节**路由到监督评议所的 **CI-3.6** 字段 11 缺陷；它不因缺少场所而关闭，以此为由关闭它构成 [Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) 与 **第 2.3.2 节**（《阻碍问责》）下的阻碍。
+**记录上收到的质疑。** [可质疑性](core_05_band_accountability.md#contestability) 不以评议所为起点。当受影响方就一份记录、一个版本或从中主张的效果提出争议 — 向保管人、向开档机关，或向该机构的任何办公室 — 保管人按上文*已归因写入*在收到的那一刻把质疑记入记录，把**第 3.1 节**下的审查状态设为*正在被质疑*，通知对象与任何主张者，并把它路由到质疑席位：**CI-3.2**（《功能分离车道》）下持有质疑与审查车道的办公室，或**第 3.6 节**与[第十一章 §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests)（《轨迹记录的质疑》）下有管辖权的评议所，以记录已公布质疑路径所具名为准。该已公布路径是[争议排序](core_11_forum.md#dispute-sequencing) 下的普通第一步；当该路径仍有争议、缺失、被俘获或不能给予所需救济时，有管辖权的评议所仍然可用。保管人与机关不决定该质疑。*正在被质疑*是一种状态，不是中止：记录保持可检查，其先前版本保持原位，对被质疑版本用于第九章效果的依赖，仅在质疑席位或评议所如此命令时暂停。质疑不是更正请求，也不冻结更正：质疑者的记述，如同主张者的记述，是*记录员陈述是输入*与**第 3.1 节**下核验的输入，绝不是核验；任何一方都不得把待决质疑当作写入、或拒绝写入开档机关在其他方面已核验的版本的理由。[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) 与 [Article XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) 下的层级时限自收到起算。因未具名质疑席位而无法路由的质疑，是记入记录并按**第 3.6 节**路由到监督评议所的 **CI-3.6** 字段 11 缺陷；它不因缺少场所而关闭，以此为由关闭它构成 [Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) 与 **第 2.3.2 节**（《阻碍问责》）下的阻碍。
 
 <a id="376-custody-is-not-delay"></a>
 
-**保管不是拖延，保管也不是所有权。** 保管问题通过路由到具名或独立机关来回答，而不是通过等待。任何一方都不得用保管争议、无法联系的先前记录员或未具名机关，使记录在[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) 与 [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor)（《及时解决与反拖延底线》）的层级时限之外保持打开、关闭或未更正。持有记录不授予对问题 2 测量校准、对第九章轨迹效果或对对象的权威；适用效果、扣留质疑路径，或以对象合作为写入条件的保管人，本身是**第 2.3.2 节**（《阻碍问责》）下分开违规轨迹记录的对象。
+**保管不是拖延，保管也不是所有权。** 保管问题通过路由到具名或独立机关来回答，而不是通过等待。任何一方都不得用保管争议、无法联系的先前记录员或未具名机关，使记录在[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) 与 [Article XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor)（《及时解决与反拖延底线》）的层级时限之外保持打开、关闭或未更正。持有记录不授予对问题 2 测量校准、对第九章轨迹效果或对对象的权威；适用效果、扣留质疑路径，或以对象合作为写入条件的保管人，本身是**第 2.3.2 节**（《阻碍问责》）下分开违规轨迹记录的对象。
 
 <a id="4-standing-measurement-evaluation-dimensions"></a>
 <a id="4-classification-evaluation-dimensions"></a>
@@ -561,7 +561,7 @@
 - 外部化伤害或隐蔽负担封顶或取消归于有争议具名路径的受益；
 - 经核实俘获风险、结构性依赖，或退出 / 锁定设计，限制尽责管理正面信用；
 - 经核实的可及性或参与障碍修复可以提高实质性，并支撑**第 4.3 节**下的**通路与包容**受益路径描述符；以及
-- 通过宪法错位的激励结构、反宪法行为或实质缺陷过程获得的实质奖赏，默认不是可计数受益。适用[第九章 §5.4](../../core_10_standing_integration.md#54-special-violation-rules) 与 [Article XXVI-A](core_06_rights_part_d.md#incentive-alignment-transition-carve-out) 的过渡限度。
+- 通过宪法错位的激励结构、反宪法行为或实质缺陷过程获得的实质奖赏，默认不是可计数受益。适用[第九章 §5.4](../../core_10_standing_integration.md#54-special-violation-rules) 与 [Article XXVII-A](core_06_rights_part_d.md#incentive-alignment-transition-carve-out) 的过渡限度。
 
 **Q2 产出（记入贡献轨迹记录；不是轨迹效果）：**
 
@@ -596,7 +596,7 @@
 - [残忍](core_05_band_accountability.md#cruelty) — 把经核实痛苦本身当作目的，或超出必要与相称性的无端或贬损施加 — 仍是分开记录的行为品格事实；它可以要求提高的保障与[第九章 §4](../../core_10_standing_integration.md#4-violation-correction-and-prevention) 下非贬损救济约束，且不移动影响槽位；
 - 扩散关涉分布的因果角色、权威、控制、可预见性、受益、隐瞒或可行预防能力；它不是**感知者范围**的一部分，也不允许按群体成员身份责备；
 - 默许参与或未能抵抗，仅在**第 3.1 节与第 3.3 节**所要求的行动者专属连接被核实时，才可以支撑基于职责、加重或集体问责的品格；以及
-- 明知接受或保留实质错位奖赏而未及时受保护报告，按[第九章 §5.4](../../core_10_standing_integration.md#54-special-violation-rules) 记录，受 [Article XXVI-A](core_06_rights_part_d.md#incentive-alignment-transition-carve-out) 约束；只有其经核实宪法损失影响槽位。
+- 明知接受或保留实质错位奖赏而未及时受保护报告，按[第九章 §5.4](../../core_10_standing_integration.md#54-special-violation-rules) 记录，受 [Article XXVII-A](core_06_rights_part_d.md#incentive-alignment-transition-carve-out) 约束；只有其经核实宪法损失影响槽位。
 
 **错位奖赏边界。** 本章只测量经核实错位奖赏如何影响贡献轴或违规轴。[第九章 §5.4](../../core_10_standing_integration.md#54-special-violation-rules) 陈述报告职责、排除、没收后果、纠正职责与路由规则。
 
@@ -892,12 +892,12 @@
 | 条款来源 | 轴指派角色或边界 |
 | --- | --- |
 | 事实适用的[第六章权利底线](core_06_rights_part_a.md#chapter-six-foundational-rights)，包括经核实记录实质牵涉的每一条款 | 确立实质底线、受保护利益、职责、受益或违规。任何条款不因未在下面单独列出而被排除。 |
-| [Article XVIII — 轨迹与参与地位](core_06_rights_part_c.md#article-xviii-standing-and-participation-status) | 保全轨迹、尊严、权利底线最低限度、受影响方地位、名声与日后参与地位效果之间的区分。 |
-| [Article XII-B — 质疑、审查与救济权](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)、[Article XIV-B — 透明、可审计性与可质疑性](core_06_rights_part_c.md#article-xiv-b-transparency-auditability-and-contestability) 与 [Article XV — 审计、透明与独立核验](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) | 在记录完整性、披露、核验、质疑通路或更正是经核实受益或违规的一部分时适用。 |
-| [Article XXI — 根因分析与适应性回应](core_06_rights_part_c.md#article-xxi-root-cause-analysis-and-adaptive-response) | 在因果归因、纠正、复发或适应性回应对该经核实行为及其宪法品格具有实质性时适用。 |
-| [Article XXIII — 冲突解决、升级与紧急相称性](core_06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality) 与 [Article XXIV-C — 及时解决与反拖延底线](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) | 适用于任何被事实牵涉的过程或延迟。Article XXIII 主要约束问题 3 后果，不得被用来仅仅为正当化偏好回应而提高或降低问题 2 槽位。 |
+| [Article XIX — 轨迹与参与地位](core_06_rights_part_c.md#article-xix-standing-and-participation-status) | 保全轨迹、尊严、权利底线最低限度、受影响方地位、名声与日后参与地位效果之间的区分。 |
+| [Article XIII-B — 质疑、审查与救济权](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)、[Article XV-B — 透明、可审计性与可质疑性](core_06_rights_part_c.md#article-xv-b-transparency-auditability-and-contestability) 与 [Article XVI — 审计、透明与独立核验](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) | 在记录完整性、披露、核验、质疑通路或更正是经核实受益或违规的一部分时适用。 |
+| [Article XXII — 根因分析与适应性回应](core_06_rights_part_c.md#article-xxii-root-cause-analysis-and-adaptive-response) | 在因果归因、纠正、复发或适应性回应对该经核实行为及其宪法品格具有实质性时适用。 |
+| [Article XXIV — 冲突解决、升级与紧急相称性](core_06_rights_part_d.md#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality) 与 [Article XXV-C — 及时解决与反拖延底线](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) | 适用于任何被事实牵涉的过程或延迟。Article XXIV 主要约束问题 3 后果，不得被用来仅仅为正当化偏好回应而提高或降低问题 2 槽位。 |
 
-**适用限度。** 这一路由步骤不重开问题 1、不接纳未核实事实、不加测量维度或分数、不通过若干来源把同一事实双重计数、不合并两轴，也不使每一列出的来源适用于每一记录。贡献与违规保持分开测量。Article XXIII 后果留在问题 2 之外。第十章指定审查与此处指派的影响槽位保持分开。
+**适用限度。** 这一路由步骤不重开问题 1、不接纳未核实事实、不加测量维度或分数、不通过若干来源把同一事实双重计数、不合并两轴，也不使每一列出的来源适用于每一记录。贡献与违规保持分开测量。Article XXIV 后果留在问题 2 之外。第十章指定审查与此处指派的影响槽位保持分开。
 
 <a id="7-unified-proportional-lequ-scale"></a>
 

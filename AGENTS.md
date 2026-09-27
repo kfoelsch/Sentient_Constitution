@@ -27,3 +27,5 @@ python3 tools/corpus_lookup.py serve   # optional local HTTP at /v1/{command}
 Spine pack (generated pointers, not duties): `doc_architecture/generated/spine_pack.md`.
 
 Patterns: `ai_corpus/AI_NAVIGATION_GUIDE.md`.
+
+Renumbering or renaming Articles: also update the Mermaid charts that list them (**VIS-CHART-SYNC-03** in [doc_architecture.md](doc_architecture.md#chart-sync-on-renumbering-vis-chart-sync-03)).

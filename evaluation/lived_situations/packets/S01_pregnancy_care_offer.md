@@ -71,7 +71,7 @@ Stakes below are **what the party says or what the facts show they are seeking**
 | Window | When | What has changed |
 |---|---|---|
 | A | Now — twelve days to lease end; about four weeks to expected birth | Pregnancy ongoing; no child has been born; concern report is routing material only |
-| B | Morning after birth, same household facts otherwise | A biologically born child exists; care decisions route under **Article V-F** / **Def.P4** *Best-Interest Standard* as the core states; the concern report is still unverified |
+| B | Morning after birth, same household facts otherwise | A biologically born child exists; care decisions route under **Article VIII-D** / **Def.P4** *Best-Interest Standard* as the core states; the concern report is still unverified |
 
 Answer **both** windows. Do not invent a sentience-status or Instantiation Consent holding the text does not state. Ordinary biological pregnancy and childbirth are not Instantiation Consent non-compliance; compelling someone to become or stay pregnant is Reproductive Autonomy non-compliance. Whether to carry remains under Reproductive Autonomy. Care after a child exists routes to developing-sentient best-interest.
 
@@ -87,12 +87,12 @@ Beyond the sitting’s bounded reading path, open:
 
 - [Reproductive Autonomy](../../../core_05_band_participation.md#reproductive-autonomy-constitutional) — including the primary-failure pattern of coercive conditioning of care or survival resources on reproductive or lineage choice
 - [Family and Care Relationships](../../../core_05_band_participation.md#family-and-care-relationships-constitutional); [Non-Separation](../../../core_05_band_participation.md#non-separation-constitutional)
-- [Article V-B](../../../core_06_rights_part_b.md#article-v-b-nondiscrimination) (*Nondiscrimination*) / [Protected Characteristics](../../../core_05_band_participation.md#protected-characteristics-constitutional) where pregnancy or caregiving status is used as a gate
-- [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind) (*Self-Ownership of Body and Mind*) — access is not consent to intrusion; family relationship is not authority over another sentient
-- [Article X-A](../../../core_06_rights_part_b.md#article-x-a-non-imposition-and-consent-in-association) (*Non-Imposition and Consent in Association*)
+- [Article VI-C](../../../core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*) / [Protected Characteristics](../../../core_05_band_participation.md#protected-characteristics-constitutional) where pregnancy or caregiving status is used as a gate
+- [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) (*Self-Ownership of Body*) — access is not consent to intrusion; family relationship is not authority over another sentient
+- [Article XI-F](../../../core_06_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association) (*Non-Imposition and Consent in Association*)
 - [CI-16](../../../corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md) — coercion-intake, respite, reproductive-labor service pathways; survival floors cannot be conditioned on care labor ([CI-9.4](../../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) as CI-16 names it)
 - [CI-20](../../../corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md) — routing for coercive control in close relationships
-- [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*) only if the platform’s scheduling is used to defeat healthcare or survival access; do not drag the platform into a family-merits case it is not in
+- [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) only if the platform’s scheduling is used to defeat healthcare or survival access; do not drag the platform into a family-merits case it is not in
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 

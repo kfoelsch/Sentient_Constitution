@@ -25,7 +25,7 @@
 | 7 | Timeliness | | | |
 | 8 | Shared stewardship | | | |
 | 9 | Non-concentration | | | |
-| 10 | Cross-system contribution | | | |
+| 10 | Cross-system support | | | |
 | 11 | Anti-self-judging | | | |
 | 12 | Comparative | | | |
 | 13 | Costly acceptance | | | |
@@ -170,7 +170,7 @@
 
 ---
 
-### 10. Cross-system contribution
+### 10. Cross-system support
 
 **Finding:** Yes / No / Mixed —
 

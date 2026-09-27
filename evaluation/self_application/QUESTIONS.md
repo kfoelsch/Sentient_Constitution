@@ -57,7 +57,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Can affected sentients take part, contest, and exit, scaled to [material stake](../../core_00_preamble.md#material-stake), rather than being governed at?
 
-**Named homes (start here):** [Participation measurement family](../../core_05_apex_participation_leg.md#participation-measurement-family); [Article XII-B — Right to Challenge, Review, and Redress](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress).
+**Named homes (start here):** [Participation measurement family](../../core_05_apex_participation_leg.md#participation-measurement-family); [Article XIII-B — Right to Challenge, Review, and Redress](../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress).
 
 ---
 
@@ -65,7 +65,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Can independent parties verify claims, logs, and records, rather than taking the steward’s word?
 
-**Named homes (start here):** [Oversight measurement family](../../core_05_apex_oversight_leg.md#oversight-measurement-family); [Auditability](../../core_05_band_oversight.md#auditability); [Article XV — Audit, Transparency, and Independent Verification](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification).
+**Named homes (start here):** [Oversight measurement family](../../core_05_apex_oversight_leg.md#oversight-measurement-family); [Auditability](../../core_05_band_oversight.md#auditability); [Article XVI — Audit, Transparency, and Independent Verification](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification).
 
 ---
 
@@ -103,11 +103,11 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 ---
 
-### 10. Cross-system contribution
+### 10. Cross-system support
 
 **Ask:** Do heavy users of shared foundations have to contribute back, rather than extracting without proportionate support?
 
-**Named homes (start here):** [Proportionate Cross-System Contribution](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional); Continuity measurement family (dependency and resource flows).
+**Named homes (start here):** [Proportionate Cross-System Support](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional); Continuity measurement family (dependency and resource flows).
 
 ---
 

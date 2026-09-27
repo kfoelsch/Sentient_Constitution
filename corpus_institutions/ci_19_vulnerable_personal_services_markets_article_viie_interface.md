@@ -1,11 +1,11 @@
-# CI-19: Vulnerable personal services markets — general regulation and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) interface
+# CI-19: Vulnerable personal services markets — general regulation and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) interface
 
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this file or elsewhere.
 >
-> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-19** (*Vulnerable personal services markets — general regulation and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) interface*).
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Seventeen](../core_17_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-19** (*Vulnerable personal services markets — general regulation and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) interface*).
 >
 > Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -34,12 +34,12 @@
 
 <br>
 
-This file is the institutional implementation home for **CI-19** (*Vulnerable personal services markets — general regulation and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) interface*).
+This file is the institutional implementation home for **CI-19** (*Vulnerable personal services markets — general regulation and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) interface*).
 
-*In plain terms: **CI-19** is the local owner map for regulating vulnerable personal-service markets — especially **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) — without turning regulation into a back door for criminalization. Shared floors live in **CJS-3.17**; this file names who holds the application file, who separates lanes, and who publishes record relief.*
+*In plain terms: **CI-19** is the local owner map for regulating vulnerable personal-service markets — especially **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) — without turning regulation into a back door for criminalization. Shared floors live in **CJS-3.17**; this file names who holds the application file, who separates lanes, and who publishes record relief.*
 
 **Quick orientation**
-- **The basic idea** — implement **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) through the same general regulatory families used for other lawful personal services, scaled by impact, dependency, isolation, and vulnerability, and not through stigma-only singling out. Those families are labor, safety, contracts, platforms, payments, and dispute resolution.
+- **The basic idea** — implement **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) through the same general regulatory families used for other lawful personal services, scaled by impact, dependency, isolation, and vulnerability, and not through stigma-only singling out. Those families are labor, safety, contracts, platforms, payments, and dispute resolution.
 - **What stays criminal** — exploitation of minors, sentients without decision-making capacity, trafficking, coercion, fraud, abuse of dependence, non-consensual acts, and comparable sexual exploitation. Decriminalization does not weaken those enforcement lanes.
 - **What must not happen** — the following must not be used where their main practical effect is prohibition or harassment, absent a lawful risk predicate tied to real harm, invalid consent, or documented necessity:
   - civil fines and licensing denials;
@@ -49,20 +49,20 @@ This file is the institutional implementation home for **CI-19** (*Vulnerable pe
   - housing exclusion;
   - data practices.
 - **Lane separation** — institutions must keep ordinary regulation, exploitation-focused enforcement, and victim-access routes distinct. Exploitation labels must not be used to punish protected consensual conduct without facts; decriminalization must not be used as an excuse to deprioritize exploitation response.
-- **Transition and records** — adopting instruments must provide expungement, sealing, non-disclosure by default, or comparable relief. This applies to records and ongoing restrictive measures that predominantly reflect conduct no longer criminal under **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*).
+- **Transition and records** — adopting instruments must provide expungement, sealing, non-disclosure by default, or comparable relief. This applies to records and ongoing restrictive measures that predominantly reflect conduct no longer criminal under **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*).
 - **Read with** — **CI-6** (*Procedure integrity, contestability, and secondary review*) for local procedure maps; **CI-9** (*Classification-linked institutional obligations*) for class and tier scaling; **CI-8** (*Transparency, participation, and accessible challenge and service pathways*) for participation and challenge-pathway accessibility; **CI-8.3** (*Digital self-service pathway integrity*) for digital self-service pathway integrity where platform enrollment, billing, or exit apply.
 
 *Shared rules live elsewhere.*
 - [**CJS-3.17**](../corpus_joint_structure/cjs_03c_continuity_operations.md) (*interoperability, portability, and exit-integrity terms*) — high-vulnerability personal-service pathway integrity.
-- **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*); **Articles X-A**, **V-B**, **I-C**, **IV-A**, and **IV-C**; Chapter Five (*Protected Characteristics*, *Consent*, *Coercion and Manipulation*).
+- **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*); **Articles XI-F**, **VI-C**, **I-C**, **V-A**, and **IV-C**; Chapter Five (*Protected Characteristics*, *Consent*, *Coercion and Manipulation*).
 - **CS-3** classification examples; **CS-4** stewardship scaling where platform, data, or system stewardship is material.
 - This file does not repeat those floors.
 
-**Apply.** Apply **CJS-3.17** **High-vulnerability personal-service pathway integrity**. **CI-19** states only local **Article X-C** application-file owner duties. Comparable lawful personal services should use comparable regulatory families unless documented **Necessity** and **Proportionality** justify differentiation.
+**Apply.** Apply **CJS-3.17** **High-vulnerability personal-service pathway integrity**. **CI-19** states only local **Article VII-E** application-file owner duties. Comparable lawful personal services should use comparable regulatory families unless documented **Necessity** and **Proportionality** justify differentiation.
 
-**Local **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) role map**
+**Local **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) role map**
 Each institution in scope must name the office or body responsible for:
-- **application-record custody** — the official file showing how **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) is implemented locally, including predicates, procedures, and review history;
+- **application-record custody** — the official file showing how **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) is implemented locally, including predicates, procedures, and review history;
 - **decriminalization and non-penal restriction predicates** — the tests that distinguish lawful consensual activity from restrictions that would replicate forbidden criminal prohibition;
 - **coercion and invalid-consent intake** — how reports of coercion, fraud, incapacity, dependence abuse, trafficking, or non-consensual conduct are received and routed without retaliation against lawful reporters;
 - **due-care and challenge records** — documented risk assessment, proportionate safeguards, and accessible challenge paths scaled to material impact;
@@ -71,7 +71,7 @@ Each institution in scope must name the office or body responsible for:
 - **separation and anti-pretext review** — independent review that ordinary regulation, exploitation enforcement, and incentive or visibility tools remain in separate lanes;
 - **workplace, housing, licensing, and transition route owners** — who handles parity with ordinary lawful cooperative work, housing access, licensing decisions, and phased record relief; and
 - **phased transition and record-relief publication** — how expungement, sealing, non-disclosure, retraining, and case-review programs are published and kept current.
-Read **CI-6**, **CI-9**, **CI-8**, and **CI-8.3** for local procedure, scaling, participation, and digital-pathway interfaces.
+Read **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-9** (*Classification-linked institutional obligations*), **CI-8** (*Transparency, participation, and accessible challenge and service pathways*), and **CI-8.3** (*Digital self-service pathway integrity*) for local procedure, scaling, participation, and digital-pathway interfaces.
 
 ---
 

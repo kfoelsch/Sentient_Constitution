@@ -102,7 +102,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 下流：原則：[前文 §3.3 統治層の規律](core_00_preamble.md#33-governance-layers)；[第一章 §5 自由](core_01_a_values_principles.md#5-freedom-bounded-agency)。
-- 所管の床：[第十二章：憲法契約、正当性、授権、責務ある管理](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)；[Article IX-C：統治への参加と投票の権利](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)。
+- 所管の床：[第十二章：憲法契約、正当性、授権、責務ある管理](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)；[Article X-C：統治への参加と投票の権利](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)。
 - クラスター構成要素：[*憲法契約層と基礎的憲法選択*](core_05_band_integrative.md#constitutional-contract-layer)
 - あわせて読む：[基礎的憲法選択](core_05_band_integrative.md#foundational-constitutional-choice)、[拘束力ある影響を受ける側の選択](core_05_band_participation.md#binding-stakeholder-choice-cluster)、[影響を受ける側の地位と重み](core_05_band_participation.md#stakeholder-status-and-weight-cluster)、[統治](core_05_band_accountability.md#governance)。
 - 層：**憲法契約層（CCL）** — 誰が統治してよいか、どの正当性の仕組みによって、どの耐久する条件のもとで。**影響を受ける側のシステム参加（SSP）** とは区別される。
@@ -123,7 +123,7 @@
     - [基礎的憲法選択](core_05_band_integrative.md#foundational-constitutional-choice)；
     - [文書化された正当性の仕組み](../../core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority) を [第十二章 §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) のもとで；
     - [採択](../../core_16_amendment_ratification.md#10-ratification-and-adoption) および [再授権](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) の規則（[第十二章 §1.3](../../core_13_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails)；[第十六章 §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)）；および
-    - 統治権限を構成しまたは耐久して再構成するための [政治的平等の床](../../core_13_governance.md#41-entitlement-and-eligibility) — 所管する感知者はこの層で平等な声を持つ（[Article IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)）。
+    - 統治権限を構成しまたは耐久して再構成するための [政治的平等の床](../../core_13_governance.md#41-entitlement-and-eligibility) — 所管する感知者はこの層で平等な声を持つ（[Article X-C](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)）。
   - **範囲外：**
     - 影響を受ける側の通常の協議；
     - 運用上の参加；
@@ -131,7 +131,7 @@
     - 構造と過程がすでに授権された後の通常の領域統治；および
     - 基礎または再授権の投票を決めるために用いられる通常の [影響を受ける側の重み](core_05_band_participation.md#stakeholder-weight) — より影響を受ける者により多くの声を与えること（[前文 §3.3 統治層の規律](core_00_preamble.md#33-governance-layers)）。
   - **運用の本拠：** [第十二章](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) が、この層の授権、正当性、責務ある管理の拘束力ある規則を述べる。
-  - **権利の床：** [Article IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)（*統治への参加と投票の権利*）が、これらの第十二章の規則が狭めてはならない平等参加の権原を述べる。
+  - **権利の床：** [Article X-C](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)（*統治への参加と投票の権利*）が、これらの第十二章の規則が狭めてはならない平等参加の権原を述べる。
 <a id="constitutional-contract-layer-a"></a>
 - **測定と評価の仕方**
   - **第一次の測定：** [説明責任の測定ファミリー](core_05_apex_accountability_leg.md#accountability-measurement-family) — *報酬構造、市場権力、応答義務は、義務を本物に保つか。* ここでは、主張された統治権力が本物の憲法契約のうえに乗っているかを問うために用いよ — 文書化された正当性、平等な基礎的声、この憲法と整合したままの耐久する条件であり、規模、人気、または市場の到達だけではない。
@@ -158,7 +158,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 下流：原則：[第一章 §5 自由](core_01_a_values_principles.md#5-freedom-bounded-agency)；[6. 過程衝突の解決](#6-process-conflict-resolution)。
-- 所管の床：[第十二章 §4.1](../../core_13_governance.md#41-entitlement-and-eligibility)（*基礎的憲法選択についての政治的平等の床*；*耐久する政治的声の床*）；[Article IX-C：統治への参加と投票の権利](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)。
+- 所管の床：[第十二章 §4.1](../../core_13_governance.md#41-entitlement-and-eligibility)（*基礎的憲法選択についての政治的平等の床*；*耐久する政治的声の床*）；[Article X-C：統治への参加と投票の権利](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)。
 - クラスター構成要素：[*憲法契約層と基礎的憲法選択*](core_05_band_integrative.md#constitutional-contract-layer)
 - あわせて読む：[憲法契約層](core_05_band_integrative.md#constitutional-contract-layer)、[影響を受ける側の代表と重みの限度（拘束力ある影響を受ける側の選択）](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice)、[拘束力ある影響を受ける側の選択](core_05_band_participation.md#binding-stakeholder-choice-cluster)、[手続的公正](core_05_band_participation.md#procedural-fairness-constitutional)。
 - 層：**憲法契約層（CCL）**。すでに授権されたシステムの内部の **影響を受ける側のシステム参加（SSP）** とは区別される。
@@ -177,10 +177,10 @@
 
     これは [憲法契約層](core_05_band_integrative.md#constitutional-contract-layer) に属する。
     - 所管：[第十二章 §4.1](../../core_13_governance.md#41-entitlement-and-eligibility)。
-    - 権利層の指針：[Article IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)（*統治への参加と投票の権利*）。
+    - 権利層の指針：[Article X-C](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)（*統治への参加と投票の権利*）。
     - [感知性の非排除](core_05_band_participation.md#sentience-non-exclusion) のもとで適用される。
   - **範囲外：**
-    - 領域がすでに授権された統治の構造と過程を持った後の、影響で重みづけされた通常の影響を受ける側の決定 — 影響を受ける感知者は、[影響を受ける側](core_05_band_participation.md#stakeholder) の識別と [影響を受ける側の重み](core_05_band_participation.md#stakeholder-weight) を通じて、どれだけ影響を受けるかに応じて尺度を合わせた声を得る（**Article XI**（《影響を受ける側のシステム参加、代表、適正手続》）の制約を含む）。平等重みの基礎的計数規則を通じてではない；および
+    - 領域がすでに授権された統治の構造と過程を持った後の、影響で重みづけされた通常の影響を受ける側の決定 — 影響を受ける感知者は、[影響を受ける側](core_05_band_participation.md#stakeholder) の識別と [影響を受ける側の重み](core_05_band_participation.md#stakeholder-weight) を通じて、どれだけ影響を受けるかに応じて尺度を合わせた声を得る（**Article XII**（《影響を受ける側のシステム参加、代表、適正手続》）の制約を含む）。平等重みの基礎的計数規則を通じてではない；および
     - その権限を授権も耐久して再構成もしない、日常の運用または政策の選択。
 <a id="foundational-constitutional-choice-a"></a>
 <a id="foundational-collective-choice-constitutional-a"></a>

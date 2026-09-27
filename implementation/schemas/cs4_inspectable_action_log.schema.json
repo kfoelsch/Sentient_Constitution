@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "cs4_inspectable_action_log.schema.json",
   "title": "CS-4 §10 inspectable attributable action log",
-  "description": "Machine-checkable form of the CS-4 §10 five-element set. Same schema for human and AI stewards. Binding home: corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action. This file is a validating schema, not a standing record. Timestamps against Chapter Twelve §6 / Article XXIV-C tier clocks are required when a numeric bound applies.",
+  "description": "Machine-checkable form of the CS-4 §10 five-element set. Same schema for human and AI stewards. Binding home: corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action. This file is a validating schema, not a standing record. Timestamps against Chapter Twelve §6 / Article XXV-C tier clocks are required when a numeric bound applies.",
   "type": "object",
   "additionalProperties": false,
   "required": [
@@ -122,7 +122,7 @@
       }
     },
     "tier_clock": {
-      "description": "Numeric Chapter Twelve §6 / Article XXIV-C clock when a published bound applies. Null when the duty is immediate and no numeric bound attaches.",
+      "description": "Numeric Chapter Twelve §6 / Article XXV-C clock when a published bound applies. Null when the duty is immediate and no numeric bound attaches.",
       "type": ["object", "null"],
       "additionalProperties": false,
       "required": [

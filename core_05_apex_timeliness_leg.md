@@ -13,7 +13,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) (timeliness leg; [material stake](core_00_preamble.md#material-stake) scaling); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); primary aim [Flourishing](core_00_preamble.md#flourishing).
-- Downstream: [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional) (*implements timeliness leg for resolution pathways*); **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*); [Preamble §6.2 How the full chain fits together](core_00_preamble.md#62-how-the-full-chain-fits-together); [Tetrad Leg decomposition](#timeliness-tetrad-leg-decomposition); Timeliness-implementing leaf definitions in [core_05_band_accountability.md](core_05_band_accountability.md).
+- Downstream: [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional) (*implements timeliness leg for resolution pathways*); **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*); [Preamble §6.2 How the full chain fits together](core_00_preamble.md#62-how-the-full-chain-fits-together); [Tetrad Leg decomposition](#timeliness-tetrad-leg-decomposition); Timeliness-implementing leaf definitions in [core_05_band_accountability.md](core_05_band_accountability.md).
 - Read with: [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways), [Accountability](core_05_apex_accountability_leg.md#accountability), [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency), [Avoidable Burden](core_05_band_continuity.md#avoidable-burden), [Stewardship Defect](core_05_band_continuity.md#stewardship-defect-constitutional), [Review and Correction Duty](core_05_band_continuity.md#review-and-correction-duty-constitutional), and [Stewardship](core_05_band_continuity.md#stewardship-constitutional).
 
 </details>
@@ -25,10 +25,10 @@
 *In plain terms: move problems through detection, challenge, resolution, and repair in time — published clocks that leave harm compounding are not timeliness.*
 
 <a id="timeliness-constitutional"></a>
+<a id="timeliness"></a>
 
-#### Timeliness
-
-- O: Move problems through detection, challenge, resolution, and repair in time — the Tetrad leg this entry names.
+- **What it is**
+  - Move problems through detection, challenge, resolution, and repair in time — the Tetrad leg this entry names.
   - **In scope:** Principle-layer responsiveness duty scaling with [material stake](core_00_preamble.md#material-stake) across:
     - detection;
     - contestability;
@@ -43,20 +43,22 @@
     - [Avoidable Burden](core_05_band_continuity.md#avoidable-burden).
   - **Out of scope:** leaf-definition details, measurement tiers, and implementation mechanics owned by [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional), sibling leaves, and CJS.
 <a id="timeliness-constitutional-m"></a>
-- M: Are problems actually moving in time? This line only names what to look at; the rules for how to measure live on each linked definition. Topic map: [Tetrad Leg decomposition](#timeliness-tetrad-leg-decomposition).
 <a id="timeliness-constitutional-a"></a>
-- A:
-  - Judge under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake).
-  - Ask whether timeliness is real — rights-preserving velocity, not raw throughput — not just ceremony.
-  - Timeliness cross-cuts participation, oversight, and accountability but may be hollowed independently where formal structures exist but material problems do not move.
+- **How to measure and assess**
+  - **Primary measure:** Are problems actually moving in time? This line only names what to look at; the rules for how to measure live on each linked definition. Topic map: [Tetrad Leg decomposition](#timeliness-tetrad-leg-decomposition).
+  - **Primary assessment:**
+    - Judge under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake).
+    - Ask whether timeliness is real — rights-preserving velocity, not raw throughput — not just ceremony.
+    - Timeliness cross-cuts participation, oversight, and accountability but may be hollowed independently where formal structures exist but material problems do not move.
 <a id="timeliness-constitutional-c"></a>
-- C: Non-compliant when:
-  - ceremony, published SLAs, or throughput metrics that leave detection, challenge, resolution, or repair materially stalled;
-  - designed backlog;
-  - self-created delay;
-  - indefinite pendency;
-  - deferred repair after notice where correction was feasible; or
-  - efficiency claims that skip verification, individualized attribution, or appeal rights.
+- **What must hold**
+  - **Primary failure:** Non-compliant when:
+    - ceremony, published SLAs, or throughput metrics that leave detection, challenge, resolution, or repair materially stalled;
+    - designed backlog;
+    - self-created delay;
+    - indefinite pendency;
+    - deferred repair after notice where correction was feasible; or
+    - efficiency claims that skip verification, individualized attribution, or appeal rights.
 
 ---
 
@@ -95,7 +97,7 @@ Leaf definitions under this leg inherit its scope unless they expressly narrow o
 
 <br>
 
-*In plain terms: these questions ask whether problems actually move in time — not whether a dashboard shows throughput. This is the Chapter Five home for the Timeliness measurement family; Preamble §2 keeps the plain-language category question, and the family table and definition routing live here.*
+*In plain terms: these questions ask whether problems actually move in time — not whether a dashboard shows throughput. This is the Chapter Five home for the Timeliness measurement family; Preamble §2 (*Measurements Overview*) keeps the plain-language category question, and the family table and definition routing live here.*
 
 *Materiality* ([Materiality Determination](core_05_band_oversight.md#materiality-determination)) is Integrative — not a separate measurement category; it scales how strongly this family applies under [material stake](core_00_preamble.md#material-stake).
 
