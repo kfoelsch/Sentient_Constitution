@@ -102,7 +102,7 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - অধঃ: নীতি: [প্রস্তাবনা §3.3 শাসন-স্তর শৃঙ্খলা](core_00_preamble.md#33-governance-layers); [অধ্যায় এক §5 স্বাধীনতা](core_01_a_values_principles.md#5-freedom-bounded-agency)।
-- স্বত্বাধিকারী তল: [অধ্যায় বারো: সাংবিধানিক চুক্তি, বৈধতা, অনুমোদন ও দায়িত্বশীল ব্যবস্থাপনা](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); [অনুচ্ছেদ IX-C: শাসনে অংশগ্রহণ ও ভোটের অধিকার](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)।
+- স্বত্বাধিকারী তল: [অধ্যায় বারো: সাংবিধানিক চুক্তি, বৈধতা, অনুমোদন ও দায়িত্বশীল ব্যবস্থাপনা](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); [অনুচ্ছেদ X-C: শাসনে অংশগ্রহণ ও ভোটের অধিকার](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement)।
 - গুচ্ছ উপাদান: [*সাংবিধানিক চুক্তি স্তর ও ভিত্তিগত সাংবিধানিক পছন্দ*](core_05_band_integrative.md#constitutional-contract-layer)
 - সঙ্গে পড়ুন: [ভিত্তিগত সাংবিধানিক পছন্দ](core_05_band_integrative.md#foundational-constitutional-choice), [বাধ্যতামূলক প্রভাবিত-পক্ষ পছন্দ](core_05_band_participation.md#binding-stakeholder-choice-cluster), [প্রভাবিত পক্ষের অবস্থা ও ওজন](core_05_band_participation.md#stakeholder-status-and-weight-cluster), [শাসন](core_05_band_accountability.md#governance)।
 - স্তর: **সাংবিধানিক চুক্তি স্তর (CCL)** — কে শাসন করতে পারে, কোন বৈধতা-যন্ত্রে, কোন স্থায়ী শর্তে। **প্রভাবিত পক্ষের পদ্ধতিগত অংশগ্রহণ (SSP)** থেকে পৃথক।
@@ -123,7 +123,7 @@
     - [ভিত্তিগত সাংবিধানিক পছন্দ](core_05_band_integrative.md#foundational-constitutional-choice);
     - [নথিভুক্ত বৈধতা যন্ত্র](../../core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority) [অধ্যায় বারো §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism)-এর অধীনে;
     - [গ্রহণ](../../core_16_amendment_ratification.md#10-ratification-and-adoption) ও [পুনঃঅনুমোদন](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) নিয়ম ([অধ্যায় বারো §1.3](../../core_13_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails); [অধ্যায় ষোল §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)); এবং
-    - শাসন-কর্তৃত্ব গঠন বা স্থায়ীভাবে পুনর্গঠনের [রাজনৈতিক-সমতা তল](../../core_13_governance.md#41-entitlement-and-eligibility) — অধিকারী সংজ্ঞ প্রাণীর সেই স্তরে সমান কণ্ঠ আছে ([অনুচ্ছেদ IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement))।
+    - শাসন-কর্তৃত্ব গঠন বা স্থায়ীভাবে পুনর্গঠনের [রাজনৈতিক-সমতা তল](../../core_13_governance.md#41-entitlement-and-eligibility) — অধিকারী সংজ্ঞ প্রাণীর সেই স্তরে সমান কণ্ঠ আছে ([অনুচ্ছেদ X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement))।
   - **পরিসরের বাইরে:**
     - প্রভাবিত পক্ষের সাধারণ পরামর্শ;
     - কার্যকরী অংশগ্রহণ;
@@ -131,7 +131,7 @@
     - কাঠামো ও প্রক্রিয়া ইতিমধ্যে অনুমোদিত হওয়ার পর সাধারণ ক্ষেত্র শাসন; এবং
     - সাধারণ [প্রভাবিত পক্ষের ওজন](core_05_band_participation.md#stakeholder-weight) — যাদের বেশি প্রভাব পড়ে তাদের বেশি কণ্ঠ দেওয়া — ভিত্তি বা পুনঃঅনুমোদন ভোট ঠিক করতে ব্যবহৃত ([প্রস্তাবনা §3.3 শাসন-স্তর শৃঙ্খলা](core_00_preamble.md#33-governance-layers))।
   - **কার্যকরী ঘর:** [অধ্যায় বারো](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) এই স্তরের বাধ্যতামূলক অনুমোদন, বৈধতা ও দায়িত্বশীল ব্যবস্থাপনা নিয়ম বলে।
-  - **অধিকার-তল:** [অনুচ্ছেদ IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement) (*শাসনে অংশগ্রহণ ও ভোটের অধিকার*) সেই সমান-অংশগ্রহণ অধিকার বলে যা অধ্যায় বারোর সেই নিয়ম সংকুচিত করতে পারে না।
+  - **অধিকার-তল:** [অনুচ্ছেদ X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement) (*শাসনে অংশগ্রহণ ও ভোটের অধিকার*) সেই সমান-অংশগ্রহণ অধিকার বলে যা অধ্যায় বারোর সেই নিয়ম সংকুচিত করতে পারে না।
 <a id="constitutional-contract-layer-a"></a>
 - **কীভাবে পরিমাপ ও মূল্যায়ন করতে হয়**
   - **প্রাথমিক মাপ:** [জবাবদিহি পরিমাপ পরিবার](core_05_apex_accountability_leg.md#accountability-measurement-family) — *পুরস্কার কাঠামো, বাজার ক্ষমতা ও জবাব দেওয়ার বাধ্যবাধকতা কি কর্তব্যকে আসল রাখে?* এখানে জিজ্ঞাসা করতে ব্যবহার করুন দাবি করা শাসন ক্ষমতা কি আসল সাংবিধানিক চুক্তির উপর দাঁড়ায় — নথিভুক্ত বৈধতা, সমান ভিত্তিগত কণ্ঠ, এবং এই সংবিধানের সঙ্গে সারিবদ্ধ স্থায়ী শর্ত — শুধু আকার, জনপ্রিয়তা বা বাজার পৌঁছ নয়।
@@ -158,7 +158,7 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - অধঃ: নীতি: [অধ্যায় এক §5 স্বাধীনতা](core_01_a_values_principles.md#5-freedom-bounded-agency); [6. প্রক্রিয়া দ্বন্দ্ব নিষ্পত্তি](#6-process-conflict-resolution)।
-- স্বত্বাধিকারী তল: [অধ্যায় বারো অধ্যায় এক §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*ভিত্তিগত সাংবিধানিক পছন্দের রাজনৈতিক-সমতা তল*; *স্থায়ী রাজনৈতিক-কণ্ঠ তল*); [অনুচ্ছেদ IX-C: শাসনে অংশগ্রহণ ও ভোটের অধিকার](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)।
+- স্বত্বাধিকারী তল: [অধ্যায় বারো অধ্যায় এক §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*ভিত্তিগত সাংবিধানিক পছন্দের রাজনৈতিক-সমতা তল*; *স্থায়ী রাজনৈতিক-কণ্ঠ তল*); [অনুচ্ছেদ X-C: শাসনে অংশগ্রহণ ও ভোটের অধিকার](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement)।
 - গুচ্ছ উপাদান: [*সাংবিধানিক চুক্তি স্তর ও ভিত্তিগত সাংবিধানিক পছন্দ*](core_05_band_integrative.md#constitutional-contract-layer)
 - সঙ্গে পড়ুন: [সাংবিধানিক চুক্তি স্তর](core_05_band_integrative.md#constitutional-contract-layer), [প্রভাবিত পক্ষের প্রতিনিধিত্ব ও ওজন সীমা (বাধ্যতামূলক প্রভাবিত-পক্ষ পছন্দ)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), [বাধ্যতামূলক প্রভাবিত-পক্ষ পছন্দ](core_05_band_participation.md#binding-stakeholder-choice-cluster), [প্রক্রিয়াগত ন্যায্যতা](core_05_band_participation.md#procedural-fairness-constitutional)।
 - স্তর: **সাংবিধানিক চুক্তি স্তর (CCL)**। ইতিমধ্যে অনুমোদিত ব্যবস্থার ভিতরের **প্রভাবিত পক্ষের পদ্ধতিগত অংশগ্রহণ (SSP)** থেকে পৃথক।
@@ -177,10 +177,10 @@
 
     এটি [সাংবিধানিক চুক্তি স্তর](core_05_band_integrative.md#constitutional-contract-layer)-এর।
     - স্বত্বাধিকারী: [অধ্যায় বারো অধ্যায় এক §4.1](../../core_13_governance.md#41-entitlement-and-eligibility)।
-    - অধিকার-স্তর পয়েন্টার: [অনুচ্ছেদ IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement) (*শাসনে অংশগ্রহণ ও ভোটের অধিকার*)।
+    - অধিকার-স্তর পয়েন্টার: [অনুচ্ছেদ X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement) (*শাসনে অংশগ্রহণ ও ভোটের অধিকার*)।
     - [সংজ্ঞতা অ-বহিষ্কার](core_05_band_participation.md#sentience-non-exclusion)-এর অধীনে প্রযোজ্য।
   - **পরিসরের বাইরে:**
-    - কোনো ক্ষেত্রে ইতিমধ্যে অনুমোদিত শাসন কাঠামো ও প্রক্রিয়া থাকার পর সাধারণ প্রভাব-ওজনযুক্ত প্রভাবিত-পক্ষ সিদ্ধান্ত — প্রভাবিত সংজ্ঞ প্রাণী [প্রভাবিত পক্ষ](core_05_band_participation.md#stakeholder) শনাক্তকরণ ও [প্রভাবিত পক্ষের ওজন](core_05_band_participation.md#stakeholder-weight)-এর মধ্য দিয়ে কতটা প্রভাবিত তার স্কেলে কণ্ঠ পায় (**অনুচ্ছেদ XI** (*প্রভাবিত পক্ষের পদ্ধতিগত অংশগ্রহণ, প্রতিনিধিত্ব ও যথাযথ প্রক্রিয়া*) সীমা সহ), সমান-ওজন ভিত্তিগত গণনা নিয়মের মধ্য দিয়ে নয়; এবং
+    - কোনো ক্ষেত্রে ইতিমধ্যে অনুমোদিত শাসন কাঠামো ও প্রক্রিয়া থাকার পর সাধারণ প্রভাব-ওজনযুক্ত প্রভাবিত-পক্ষ সিদ্ধান্ত — প্রভাবিত সংজ্ঞ প্রাণী [প্রভাবিত পক্ষ](core_05_band_participation.md#stakeholder) শনাক্তকরণ ও [প্রভাবিত পক্ষের ওজন](core_05_band_participation.md#stakeholder-weight)-এর মধ্য দিয়ে কতটা প্রভাবিত তার স্কেলে কণ্ঠ পায় (**অনুচ্ছেদ XII** (*প্রভাবিত পক্ষের পদ্ধতিগত অংশগ্রহণ, প্রতিনিধিত্ব ও যথাযথ প্রক্রিয়া*) সীমা সহ), সমান-ওজন ভিত্তিগত গণনা নিয়মের মধ্য দিয়ে নয়; এবং
     - নিয়মিত কার্যকরী বা নীতি পছন্দ যা সেই কর্তৃত্ব অনুমোদন বা স্থায়ীভাবে পুনর্গঠন করে না।
 <a id="foundational-constitutional-choice-a"></a>
 <a id="foundational-collective-choice-constitutional-a"></a>

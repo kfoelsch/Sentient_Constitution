@@ -69,7 +69,7 @@ This file is the institutional implementation home for **CI-8** (*Transparency, 
 - **CI-8.4** — governance disclosure schema: one standard periodic report covering scope, risks, incidents, conflicts, remediation, assurance, and sanctions.
 - **Read with:**
   - **CI-12** (*Cross-institution coordination and escalation*) when local challenge pathways fail or stall;
-  - **CF-11.3.1** (*Target windows and timing floors*), [Chapter Twelve §6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Timely resolution, materiality tiers, and anti-delay discipline*), and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) for remedy-organ and intake timing floors; and
+  - **CF-11.3.1** (*Target windows and timing floors*), [Chapter Twelve §6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Timely resolution, materiality tiers, and anti-delay discipline*), and **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*) for remedy-organ and intake timing floors; and
   - **CI-10** (*Public revenue, fees, recurring charges, and billing integrity*) and **CI-10.2** (*Recurring charges, renewals, and commercial billing integrity*) where charges or recurring billing touch self-service pathways.
 
 *Shared rules live elsewhere.* This file does not repeat these floors:

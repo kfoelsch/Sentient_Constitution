@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: **Article XX-A** (*Proportional Comprehensibility Right*); **Article XX-B** (*Complexity Audit and Modularity Requirements*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
+- Upstream: **Article XXI-A** (*Proportional Comprehensibility Right*); **Article XXI-B** (*Complexity Audit and Modularity Requirements*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
 - Downstream: [§1](#cs-6-1-purpose-and-role); [§2](#cs-6-2-classification-scaled-application); [§3](#cs-6-3-systems-specific-checks); [§4](#cs-6-4-gaps-and-silence).
 - Read with: **CS-6**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CJS-3.8**; **CJS-3.9**; **CJS-3.10**; **CJS-3.16**; **CJS-3.19**; **CJS-3.21**.
 
@@ -43,8 +43,8 @@ This file is the systems implementation home for **CS-6** (*Comprehensibility an
 
 This file sets the systems-layer expectations for understandable systems and manageable complexity. It applies two Chapter Six articles to the systems layer:
 
-- **Article XX-A** (*Proportional Comprehensibility Right*);
-- **Article XX-B** (*Complexity Audit and Modularity Requirements*).
+- **Article XXI-A** (*Proportional Comprehensibility Right*);
+- **Article XXI-B** (*Complexity Audit and Modularity Requirements*).
 
 Read it together with these operational clusters:
 
@@ -55,7 +55,7 @@ Read it together with these operational clusters:
 - **CJS-3.19** (*graceful degradation and failure-mode integrity terms*);
 - **CJS-3.21** (*adversarial robustness and abuse-resistance terms*).
 
-This file is not a second home for **Article XX** (*Comprehensibility and Complexity Stewardship*) or for those operational definitions.
+This file is not a second home for **Article XXI** (*Comprehensibility and Complexity Stewardship*) or for those operational definitions.
 
 Two rules settle any gap or conflict. Where this file and a **CJS-3** (*operational cluster library*) term conflict, the stricter requirement governs. Where this file is silent on how to interpret, define, verify, or trace a constitutional term, **Sentient Constitution Chapters Two through Five** govern.
 
@@ -74,7 +74,7 @@ How strict these requirements are depends on the system's class. The **Comprehen
 CS-6 adds the following systems-specific checks:
 
 - **Complexity as a barrier:** Complexity must not become a practical barrier to audit, participation, accountability, or oversight beyond what these sources permit:
-  - **Article XX** (*Comprehensibility and Complexity Stewardship*);
+  - **Article XXI** (*Comprehensibility and Complexity Stewardship*);
   - **CJS-3.11** (*distributed and proportional authority terms*);
   - **CJS-3.7** (*quorum and participatory legitimacy terms*);
   - the applicable Chapter One and Chapter Five constraints.
@@ -89,7 +89,7 @@ CS-6 adds the following systems-specific checks:
 
 *In plain terms: if this file does not answer your question, here is where the answer lives.*
 
-Where this file is silent, the governing sources are **Article XX** (*Comprehensibility and Complexity Stewardship*), the six **CJS-3** (*operational cluster library*) clusters listed above, Chapters Two through Five, and the applicable **CS-3** or **CS-4** profile.
+Where this file is silent, the governing sources are **Article XXI** (*Comprehensibility and Complexity Stewardship*), the six **CJS-3** (*operational cluster library*) clusters listed above, Chapters Two through Five, and the applicable **CS-3** or **CS-4** profile.
 
 ---
 

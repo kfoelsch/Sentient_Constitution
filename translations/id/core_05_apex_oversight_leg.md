@@ -37,7 +37,7 @@
   - **Dalam cakupan:**
     - mengawasi, memeriksa, memverifikasi, dan membatasi bagaimana sistem berperilaku, dilakukan oleh [Pihak terdampak](../../core_05_band_participation.md#stakeholder), pelaku independen, atau lembaga, dan disebar di mana itu dapat dikerjakan;
     - tujuan: menangkap dan memperbaiki ketidakpatuhan, serta menopang [Tata Kelola](../../core_05_band_accountability.md#governance) yang terinformasi;
-    - pengawasan menuntut [Dapat diaudit](../../core_05_band_oversight.md#auditability) dan instrumen audit terkait di bawah **Pasal XV** (*Audit, Transparansi, dan Verifikasi Independen*);
+    - pengawasan menuntut [Dapat diaudit](../../core_05_band_oversight.md#auditability) dan instrumen audit terkait di bawah **Pasal XVI** (*Audit, Transparansi, dan Verifikasi Independen*);
     - seberapa banyak pengawasan yang dituntut menskala dengan [Dampak material](../../core_05_band_oversight.md#material-impact), [Ketergantungan](../../core_05_band_continuity.md#dependency), dan [Risiko](../../core_05_band_continuity.md#risk); dan
     - [Sertifikasi keselarasan sistem](../../core_05_band_continuity.md#system-alignment-certification-constitutional) adalah satu proses audit yang sangat besar dan bertaruhan tinggi di bawah tuntutan itu — bukan satu-satunya proses audit.
   - **Bergantung pada:** syarat dan saluran yang dibutuhkan kaki ini agar bekerja. Cakupan rinci setiap istilah dan aturan cara-mengukur hidup pada definisinya sendiri; mulai dari [Dekomposisi kaki Tetrad](#oversight-tetrad-leg-decomposition):

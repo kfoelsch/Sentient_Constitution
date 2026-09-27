@@ -102,7 +102,7 @@
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - గమ్యం: సూత్రాలు: [ప్రస్తావన §3.3 పాలన-పొర క్రమశిక్షణ](core_00_preamble.md#33-governance-layers); [అధ్యాయం ఒకటి §5 స్వేచ్ఛ](core_01_a_values_principles.md#5-freedom-bounded-agency).
-- యజమాని నేల: [అధ్యాయం పన్నెండు: రాజ్యాంగ ఒప్పందం, ధర్మబద్ధత, అధికారీకరణ, మరియు బాధ్యతాయుత నిర్వహణ](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); [అనుచ్ఛేదం IX-C: పాలనలో పాల్గొనడం మరియు ఓటు అర్హత](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
+- యజమాని నేల: [అధ్యాయం పన్నెండు: రాజ్యాంగ ఒప్పందం, ధర్మబద్ధత, అధికారీకరణ, మరియు బాధ్యతాయుత నిర్వహణ](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); [అనుచ్ఛేదం X-C: పాలనలో పాల్గొనడం మరియు ఓటు అర్హత](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement).
 - క్లస్టర్ భాగం: [*రాజ్యాంగ ఒప్పంద పొర మరియు పునాది రాజ్యాంగ ఎంపిక*](core_05_band_integrative.md#constitutional-contract-layer)
 - దీనితో చదవండి: [పునాది రాజ్యాంగ ఎంపిక](core_05_band_integrative.md#foundational-constitutional-choice), [బంధనీయ ప్రభావిత-పక్ష ఎంపిక](core_05_band_participation.md#binding-stakeholder-choice-cluster), [ప్రభావిత పక్ష స్థితి మరియు బరువు](core_05_band_participation.md#stakeholder-status-and-weight-cluster), [పాలన](core_05_band_accountability.md#governance).
 - పొర: **రాజ్యాంగ ఒప్పంద పొర (CCL)** — ఎవరు పాలించవచ్చు, ఏ ధర్మబద్ధత యంత్రాంగం ద్వారా, ఏ నిలకడ నిబంధనలపై. **ప్రభావిత పక్షాల వ్యవస్థాగత పాల్గొనడం (SSP)** నుండి వేరు.
@@ -123,7 +123,7 @@
     - [పునాది రాజ్యాంగ ఎంపిక](core_05_band_integrative.md#foundational-constitutional-choice);
     - [డాక్యుమెంట్ చేసిన ధర్మబద్ధత యంత్రాంగాలు](../../core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority) [అధ్యాయం పన్నెండు §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) కింద;
     - [అంగీకారం](../../core_16_amendment_ratification.md#10-ratification-and-adoption) మరియు [పునఃఅధికారీకరణ](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) నియమాలు ([అధ్యాయం పన్నెండు §1.3](../../core_13_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails); [అధ్యాయం పదహారు §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)); మరియు
-    - పాలన అధికారాన్ని ఏర్పాటు చేయడానికి లేదా నిలకడగా పునర్నిర్మించడానికి [రాజకీయ-సమానత్వం నేల](../../core_13_governance.md#41-entitlement-and-eligibility) — అర్హత ఉన్న సంజ్ఞ ప్రాణులకు ఆ పొరలో సమాన స్వరం ([అనుచ్ఛేదం IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)).
+    - పాలన అధికారాన్ని ఏర్పాటు చేయడానికి లేదా నిలకడగా పునర్నిర్మించడానికి [రాజకీయ-సమానత్వం నేల](../../core_13_governance.md#41-entitlement-and-eligibility) — అర్హత ఉన్న సంజ్ఞ ప్రాణులకు ఆ పొరలో సమాన స్వరం ([అనుచ్ఛేదం X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement)).
   - **పరిధి బయట:**
     - సాధారణ ప్రభావిత-పక్ష సంప్రదింపు;
     - ఆపరేషనల్ పాల్గొనడం;
@@ -131,7 +131,7 @@
     - నిర్మాణాలు, ప్రక్రియలు ఇప్పటికే అధికారం పొందిన తర్వాత సాధారణ డొమైన్ పాలన; మరియు
     - సాధారణ [ప్రభావిత పక్ష బరువు](core_05_band_participation.md#stakeholder-weight) — ఎక్కువ ప్రభావితులకు ఎక్కువ స్వరం ఇవ్వడం — స్థాపన లేదా పునఃఅధికారీకరణ ఓట్లు పెట్టడానికి వాడడం ([ప్రస్తావన §3.3 పాలన-పొర క్రమశిక్షణ](core_00_preamble.md#33-governance-layers)).
   - **సంచాలక ఇల్లు:** [అధ్యాయం పన్నెండు](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) ఈ పొరకు బంధనీయ అధికారీకరణ, ధర్మబద్ధత, బాధ్యతాయుత నిర్వహణ నియమాలు చెబుతుంది.
-  - **హక్కుల నేల:** [అనుచ్ఛేదం IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement) (*పాలనలో పాల్గొనడం మరియు ఓటు అర్హత*) ఆ అధ్యాయం పన్నెండు నియమాలు సంకుచితం చేయకూడని సమాన-పాల్గొనడం అర్హత చెబుతుంది.
+  - **హక్కుల నేల:** [అనుచ్ఛేదం X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement) (*పాలనలో పాల్గొనడం మరియు ఓటు అర్హత*) ఆ అధ్యాయం పన్నెండు నియమాలు సంకుచితం చేయకూడని సమాన-పాల్గొనడం అర్హత చెబుతుంది.
 <a id="constitutional-contract-layer-a"></a>
 - **కొలవడం మరియు అంచనా వేయడం ఎలా**
   - **ప్రాథమిక కొలత:** [జవాబుదారీతనం కొలత కుటుంబం](core_05_apex_accountability_leg.md#accountability-measurement-family) — *బహుమతి నిర్మాణాలు, మార్కెట్ శక్తి, సమాధానం చెప్పే తనం కర్తవ్యాలను నిజంగా ఉంచుతున్నాయా?* ఇక్కడ అడగండి వాదించిన పాలన శక్తి నిజమైన రాజ్యాంగ ఒప్పందంపై నిలుస్తుందా — డాక్యుమెంట్ చేసిన ధర్మబద్ధత, సమాన స్థాపన స్వరం, మరియు ఈ రాజ్యాంగంతో అనుగుణంగా ఉండే నిలిచే నిబంధనలు — పరిమాణం, జనాదరణ, లేదా మార్కెట్ చేరువ మాత్రమే కాదు.
@@ -158,7 +158,7 @@
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - గమ్యం: సూత్రాలు: [అధ్యాయం ఒకటి §5 స్వేచ్ఛ](core_01_a_values_principles.md#5-freedom-bounded-agency); [6. ప్రక్రియ సంఘర్షణ పరిష్కారం](#6-process-conflict-resolution).
-- యజమాని నేల: [అధ్యాయం పన్నెండు అధ్యాయం ఒకటి §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*పునాది రాజ్యాంగ ఎంపికకు రాజకీయ-సమానత్వం నేల*; *నిలకడ రాజకీయ-స్వరం నేల*); [అనుచ్ఛేదం IX-C: పాలనలో పాల్గొనడం మరియు ఓటు అర్హత](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
+- యజమాని నేల: [అధ్యాయం పన్నెండు అధ్యాయం ఒకటి §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*పునాది రాజ్యాంగ ఎంపికకు రాజకీయ-సమానత్వం నేల*; *నిలకడ రాజకీయ-స్వరం నేల*); [అనుచ్ఛేదం X-C: పాలనలో పాల్గొనడం మరియు ఓటు అర్హత](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement).
 - క్లస్టర్ భాగం: [*రాజ్యాంగ ఒప్పంద పొర మరియు పునాది రాజ్యాంగ ఎంపిక*](core_05_band_integrative.md#constitutional-contract-layer)
 - దీనితో చదవండి: [రాజ్యాంగ ఒప్పంద పొర](core_05_band_integrative.md#constitutional-contract-layer), [ప్రభావిత పక్షాల ప్రాతినిధ్యం మరియు బరువు పరిమితులు (బంధనీయ ప్రభావిత-పక్ష ఎంపిక)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), [బంధనీయ ప్రభావిత-పక్ష ఎంపిక](core_05_band_participation.md#binding-stakeholder-choice-cluster), [ప్రక్రియా న్యాయం](core_05_band_participation.md#procedural-fairness-constitutional).
 - పొర: **రాజ్యాంగ ఒప్పంద పొర (CCL)**. ఇప్పటికే అధికారం పొందిన వ్యవస్థల్లో **ప్రభావిత పక్షాల వ్యవస్థాగత పాల్గొనడం (SSP)** నుండి వేరు.
@@ -177,10 +177,10 @@
 
     ఇది [రాజ్యాంగ ఒప్పంద పొర](core_05_band_integrative.md#constitutional-contract-layer)కు చెందుతుంది.
     - యజమాని: [అధ్యాయం పన్నెండు అధ్యాయం ఒకటి §4.1](../../core_13_governance.md#41-entitlement-and-eligibility).
-    - హక్కుల-పొర పాయింటర్: [అనుచ్ఛేదం IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement) (*పాలనలో పాల్గొనడం మరియు ఓటు అర్హత*).
+    - హక్కుల-పొర పాయింటర్: [అనుచ్ఛేదం X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement) (*పాలనలో పాల్గొనడం మరియు ఓటు అర్హత*).
     - [సంజ్ఞత మినహాయింపు-నిషేధం](core_05_band_participation.md#sentience-non-exclusion) కింద వర్తిస్తుంది.
   - **పరిధి బయట:**
-    - ఒక డొమైన్‌కు ఇప్పటికే అధికారం పొందిన పాలన నిర్మాణాలు, ప్రక్రియలు ఉన్న తర్వాత సాధారణ ప్రభావ-బరువు ప్రభావిత-పక్ష నిర్ణయాలు — ప్రభావిత సంజ్ఞ ప్రాణులకు [ప్రభావిత పక్షం](core_05_band_participation.md#stakeholder) గుర్తింపు మరియు [ప్రభావిత పక్ష బరువు](core_05_band_participation.md#stakeholder-weight) ద్వారా వారు ఎంత ప్రభావితమవుతున్నారో దానికి స్కేల్ అయిన స్వరం వస్తుంది (**అనుచ్ఛేదం XI** (*ప్రభావిత పక్షాల వ్యవస్థాగత పాల్గొనడం, ప్రాతినిధ్యం, మరియు సముచిత ప్రక్రియ*) పరిమితులు సహా), సమాన-బరువు పునాది లెక్క నియమాల ద్వారా కాదు; మరియు
+    - ఒక డొమైన్‌కు ఇప్పటికే అధికారం పొందిన పాలన నిర్మాణాలు, ప్రక్రియలు ఉన్న తర్వాత సాధారణ ప్రభావ-బరువు ప్రభావిత-పక్ష నిర్ణయాలు — ప్రభావిత సంజ్ఞ ప్రాణులకు [ప్రభావిత పక్షం](core_05_band_participation.md#stakeholder) గుర్తింపు మరియు [ప్రభావిత పక్ష బరువు](core_05_band_participation.md#stakeholder-weight) ద్వారా వారు ఎంత ప్రభావితమవుతున్నారో దానికి స్కేల్ అయిన స్వరం వస్తుంది (**అనుచ్ఛేదం XII** (*ప్రభావిత పక్షాల వ్యవస్థాగత పాల్గొనడం, ప్రాతినిధ్యం, మరియు సముచిత ప్రక్రియ*) పరిమితులు సహా), సమాన-బరువు పునాది లెక్క నియమాల ద్వారా కాదు; మరియు
     - ఆ అధికారాన్ని అధికారీకరించని లేదా నిలకడగా పునర్నిర్మించని రోజువారీ ఆపరేషనల్ లేదా విధాన ఎంపికలు.
 <a id="foundational-constitutional-choice-a"></a>
 <a id="foundational-collective-choice-constitutional-a"></a>

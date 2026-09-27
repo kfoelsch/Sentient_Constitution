@@ -3,8 +3,8 @@
   "effective_date": "2026-08-09",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
-  "heading_count": 888,
-  "glossed_count": 620,
+  "heading_count": 889,
+  "glossed_count": 621,
   "files": [
     {
       "file": "core_00_preamble.md",
@@ -458,7 +458,7 @@
           "title": "5.3 Assembly, Collective Organization, and Institutional Formation",
           "anchor": "53-assembly-collective-organization-and-institutional-formation",
           "line": 804,
-          "gloss": "you cannot chop assembly, union-style organizing, platform access, or permission-to-operate questions into separate boxes in a way that keeps the paperwork friendly but defeats real collective action. This section does not replace the Rights Floor: Article IX-G still owns assembly, and Article III-C still owns labor organizing.",
+          "gloss": "you cannot chop assembly, union-style organizing, platform access, or permission-to-operate questions into separate boxes in a way that keeps the paperwork friendly but defeats real collective action. This section does not replace the Rights Floor: Article X-G still owns assembly, and Article III-C still owns labor organizing.",
           "gloss_line": 822
         },
         {
@@ -1140,7 +1140,7 @@
           "title": "15. Systemic Evaluation Requirement",
           "anchor": "15-systemic-evaluation-requirement",
           "line": 1873,
-          "gloss": "this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Eight** and **CS-3**, not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XV**, [Auditability](core_05_band_oversight.md#auditability)).",
+          "gloss": "this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Eight** and **CS-3**, not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVI**, [Auditability](core_05_band_oversight.md#auditability)).",
           "gloss_line": 1904
         },
         {
@@ -2676,7 +2676,7 @@
           "title": "System Alignment Certification",
           "anchor": "system-alignment-certification-constitutional",
           "line": 166,
-          "gloss": "**system alignment certification** (non-operative shorthand: **SAC**) is the forum-supervised check that a system is actually aligned with constitutional outcomes before sentients rely on it at scale — including checks that critical Rights Floors such as food, water, and shelter are not quietly defeated by how the system is built, classified, or operated. Under the **oversight** Tetrad leg, oversight requires auditing; SAC is one especially large, high-stakes audit process among others — forum-supervised, multi-domain, and recognition-bearing — not the sole home of auditing (**Article XV**, [Auditability](core_05_band_oversight.md#auditability), and sibling audit modes remain).",
+          "gloss": "**system alignment certification** (non-operative shorthand: **SAC**) is the forum-supervised check that a system is actually aligned with constitutional outcomes before sentients rely on it at scale — including checks that critical Rights Floors such as food, water, and shelter are not quietly defeated by how the system is built, classified, or operated. Under the **oversight** Tetrad leg, oversight requires auditing; SAC is one especially large, high-stakes audit process among others — forum-supervised, multi-domain, and recognition-bearing — not the sole home of auditing (**Article XVI**, [Auditability](core_05_band_oversight.md#auditability), and sibling audit modes remain).",
           "gloss_line": 181
         },
         {
@@ -4119,10 +4119,10 @@
         {
           "file": "core_05_band_participation.md",
           "level": 4,
-          "title": "Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention",
+          "title": "Protected Intimate-Signal Gating and **Article XI-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention",
           "anchor": "protected-intimate-signal-gating",
           "line": 1262,
-          "gloss": "intimate media, sexual history, and similar intimate inferences are not default inputs for hiring, standing, reputation, or access gates — and adult consensual commercial sexual services status under Article X-C cannot be used to shut sentients out of jobs, housing, banking, or licenses, including through \"neutral\" rules that mainly target that work.",
+          "gloss": "intimate media, sexual history, and similar intimate inferences are not default inputs for hiring, standing, reputation, or access gates — and adult consensual commercial sexual services status under Article XI-C cannot be used to shut sentients out of jobs, housing, banking, or licenses, including through \"neutral\" rules that mainly target that work.",
           "gloss_line": 1275
         },
         {
@@ -4614,7 +4614,7 @@
           "title": "1. Purpose and Role",
           "anchor": "1-purpose-and-role",
           "line": 33,
-          "gloss": "When a system really matters to sentients' lives, certification has to be **proportionate** — as demanding as the system's real impact, dependency, and risk require, not a one-size-fits-all checklist or a rubber stamp. It also has to be **participatory** — affected sentients and communities must be able to see what was reviewed, understand what was decided, and challenge it when something is wrong. Forums review evidence, write it down in a certification record, and require re-checks on a schedule that matches how risky the system is. A certification is not a popularity score, a forever pass, or a way to skip rights review. It is a time-bound, challengeable statement of what is known about the system's alignment right now. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XV**, [Auditability](core_05_band_oversight.md#auditability)).",
+          "gloss": "When a system really matters to sentients' lives, certification has to be **proportionate** — as demanding as the system's real impact, dependency, and risk require, not a one-size-fits-all checklist or a rubber stamp. It also has to be **participatory** — affected sentients and communities must be able to see what was reviewed, understand what was decided, and challenge it when something is wrong. Forums review evidence, write it down in a certification record, and require re-checks on a schedule that matches how risky the system is. A certification is not a popularity score, a forever pass, or a way to skip rights review. It is a time-bound, challengeable statement of what is known about the system's alignment right now. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVI**, [Auditability](core_05_band_oversight.md#auditability)).",
           "gloss_line": 46
         },
         {
@@ -4848,7 +4848,7 @@
           "title": "10.1 Illustrative trustworthiness application by class (non-exhaustive)",
           "anchor": "101-illustrative-trustworthiness-application-by-class-non-exhaustive",
           "line": 1058,
-          "gloss": "[§3.8 Illustrative whole-system application by class (non-exhaustive)](#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§9.1 Illustrative educational-capability application by class (non-exhaustive)](#91-illustrative-educational-capability-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **trustworthiness and system-reliance integrity** evaluation means for each — which reliance, disclosure, incentive, challenge, and recovery pathways count, what certification must check when the **Article XII** (*Right to Reliable and Trustworthy Systems*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article XII** (*Right to Reliable and Trustworthy Systems*) still own canonical trustworthiness rules; reliability metrics, disclosure formats, incentive-alignment mechanics, and regression-test designs may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Challenge and audit rights remain owned by **Article XII-B** (*Right to Challenge, Review, and Redress*) and **Article XV** (*Audit, Transparency, and Independent Verification*) — not narrowed here.",
+          "gloss": "[§3.8 Illustrative whole-system application by class (non-exhaustive)](#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§9.1 Illustrative educational-capability application by class (non-exhaustive)](#91-illustrative-educational-capability-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **trustworthiness and system-reliance integrity** evaluation means for each — which reliance, disclosure, incentive, challenge, and recovery pathways count, what certification must check when the **Article XIII** (*Right to Reliable and Trustworthy Systems*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article XIII** (*Right to Reliable and Trustworthy Systems*) still own canonical trustworthiness rules; reliability metrics, disclosure formats, incentive-alignment mechanics, and regression-test designs may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Challenge and audit rights remain owned by **Article XIII-B** (*Right to Challenge, Review, and Redress*) and **Article XVI** (*Audit, Transparency, and Independent Verification*) — not narrowed here.",
           "gloss_line": 1060
         }
       ]
@@ -4910,7 +4910,7 @@
           "title": "12. Transparency, Auditability, and Contestability",
           "anchor": "12-transparency-auditability-and-contestability",
           "line": 151,
-          "gloss": "a certification record only works if sentients can read it, verify it, and push back when it is wrong. This section puts those three requirements — transparency, auditability, and contestability — directly on the record itself, not as abstract ideals. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large audit process that must satisfy those floors here — it does not own or replace **Article XV** or sibling audit modes.",
+          "gloss": "a certification record only works if sentients can read it, verify it, and push back when it is wrong. This section puts those three requirements — transparency, auditability, and contestability — directly on the record itself, not as abstract ideals. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large audit process that must satisfy those floors here — it does not own or replace **Article XVI** or sibling audit modes.",
           "gloss_line": 173
         },
         {
@@ -5921,7 +5921,7 @@
           "title": "CHAPTER TWELVE: FORUMS AND JURISDICTION",
           "anchor": "chapter-twelve-forums-and-jurisdiction",
           "line": 2,
-          "gloss": "Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), this chapter **supervises** how disputes move through the Chapters Nine–Eleven standing pipeline — routing, independence, forensic support, remediation sequencing, and tier-default clocks under **section 6** and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Forum families answer which track handles which dispute, where a case ordinarily starts, and how mixed-stakes matters coordinate. They supply **participation** (accessible challenge) and **oversight** (traceable merits review). When the facts are verified, they may **open, update, or correct** standing records — or **set a bad record aside on challenge**. They do **not** run a second, separate decision track beside the standing pipeline. Filing a case alone has no immediate impact on standing. Day-to-day trial rules, budgets, and staffing manuals live in adopted implementation text.",
+          "gloss": "Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), this chapter **supervises** how disputes move through the Chapters Nine–Eleven standing pipeline — routing, independence, forensic support, remediation sequencing, and tier-default clocks under **section 6** and **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*). Forum families answer which track handles which dispute, where a case ordinarily starts, and how mixed-stakes matters coordinate. They supply **participation** (accessible challenge) and **oversight** (traceable merits review). When the facts are verified, they may **open, update, or correct** standing records — or **set a bad record aside on challenge**. They do **not** run a second, separate decision track beside the standing pipeline. Filing a case alone has no immediate impact on standing. Day-to-day trial rules, budgets, and staffing manuals live in adopted implementation text.",
           "gloss_line": 46
         },
         {
@@ -6710,62 +6710,62 @@
           "level": 4,
           "title": "Article IV-A: Equal Educational Access",
           "anchor": "article-iv-a-equal-educational-access",
-          "line": 1034,
+          "line": 1033,
           "gloss": "education should prepare everyone to live well, communicate honestly, take part in governing, and avoid harm — no one can be shut out of it because of a disability, another protected characteristic, or an arbitrary rule, and schools must give disabled learners the support they need to take part as equals.",
-          "gloss_line": 1058
+          "gloss_line": 1057
         },
         {
           "file": "core_06_rights_part_a.md",
           "level": 4,
           "title": "Article IV-B: Capability-Building Education Right",
           "anchor": "article-iv-b-capability-building-education-right",
-          "line": 1071,
+          "line": 1070,
           "gloss": "every sentient has a practical path to build the skills they need to steer their own life and use shared systems competently and safely — not just a paper credential on the wall.",
-          "gloss_line": 1092
+          "gloss_line": 1091
         },
         {
           "file": "core_06_rights_part_a.md",
           "level": 4,
           "title": "Article IV-C: Lifelong and Adaptive Learning and Contestability",
           "anchor": "article-iv-c-lifelong-and-adaptive-learning-and-contestability",
-          "line": 1102,
+          "line": 1101,
           "gloss": "when the world and the tools change, sentients are not left quietly obsolete — they get fair paths to retrain.",
-          "gloss_line": 1124
+          "gloss_line": 1123
         },
         {
           "file": "core_06_rights_part_a.md",
           "level": 3,
           "title": "Article V: Resource Allocation, Dependencies, and Ecosystem Funding",
           "anchor": "article-v-resource-allocation-dependencies-and-ecosystem-funding",
-          "line": 1138,
+          "line": 1137,
           "gloss": "**Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) is about sharing the load fairly. Many systems lean on the same underlying infrastructure — networks, open tools, public services, shared data and computing power. Everyone who relies on that infrastructure should be able to see where the money and resources go, and those who take a lot from it should help keep it running. This is the Rights Floor for shared resources.",
-          "gloss_line": 1149
+          "gloss_line": 1148
         },
         {
           "file": "core_06_rights_part_a.md",
           "level": 4,
           "title": "Article V-A: Dependency Mapping and Resource-Flow Transparency",
           "anchor": "article-v-a-dependency-mapping-and-resource-flow-transparency",
-          "line": 1183,
+          "line": 1182,
           "gloss": "systems must keep an honest, up-to-date picture of what they rely on, who relies on them, where money and resources flow, and where relationships are one-sided or hidden. System Alignment Certification is where that picture is checked, so funders, auditors, and affected parties can see who bears the costs and who captures the benefits.",
-          "gloss_line": 1205
+          "gloss_line": 1204
         },
         {
           "file": "core_06_rights_part_a.md",
           "level": 4,
           "title": "Article V-B: Cross-System Fairness and Sustainability",
           "anchor": "article-v-b-cross-system-fairness-and-sustainability",
-          "line": 1231,
+          "line": 1230,
           "gloss": "systems that lean heavily on shared foundations must put enough back to keep them running, in real and traceable resources, not gestures. Shared money and capacity should be split with attention to who is truly dependent, who has real alternatives, environmental burden, and whether use can last, not mainly to whoever wins in the short run. [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is where this is checked: certification compares what a system takes from shared infrastructure with what it gives back, using the maps and flow records that **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) requires. Where arrangements concentrate wealth, power, control, or opportunity in ways that harm others, Chapter One non-concentration rules add further scrutiny on top.",
-          "gloss_line": 1257
+          "gloss_line": 1256
         }
       ]
     },
     {
       "file": "core_06_rights_part_b.md",
       "title": "CHAPTER SIX: FOUNDATIONAL RIGHTS",
-      "heading_count": 38,
-      "glossed_count": 37,
+      "heading_count": 39,
+      "glossed_count": 38,
       "sections": [
         {
           "file": "core_06_rights_part_b.md",
@@ -6782,7 +6782,7 @@
           "title": "Part B: Personhood, agency, cooperation, and stakeholder system participation",
           "anchor": "part-b-personhood-agency-cooperation-and-stakeholder-system-participation",
           "line": 23,
-          "gloss": "Part B states Rights Floors for equal standing, self-ownership, likeness and data, agency, cooperation, and stakeholder participation — **Articles VI through XI** in the planet-first reading order. Those floors protect **Flourishing** and **Continuity** under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) and must remain available, reviewable, and enforceable through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** — scaled to [material stake](core_00_preamble.md#material-stake).",
+          "gloss": "Part B states Rights Floors for equal standing, self-ownership, family and care, likeness and data, agency, cooperation, and stakeholder participation — **Articles VI through XII** in the planet-first reading order. Those floors protect **Flourishing** and **Continuity** under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) and must remain available, reviewable, and enforceable through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** — scaled to [material stake](core_00_preamble.md#material-stake).",
           "gloss_line": 38
         },
         {
@@ -6790,324 +6790,333 @@
           "level": 3,
           "title": "Article VI: Equal Basic Rights",
           "anchor": "article-vi-equal-basic-rights",
-          "line": 102,
+          "line": 108,
           "gloss": "**Article VI** (*Equal Basic Rights*) sets the minimum standard for treating every sentient as an equal. Every sentient keeps their dignity, gets a fair hearing on whether they count as sentient, is protected from unfair discrimination, and can take part fully and actually use the systems they rely on. No system may rank, screen out, exclude, or place heavier burdens on some sentients than others unless these protections are already in place.",
-          "gloss_line": 115
+          "gloss_line": 121
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article VI-A: Dignity and Equal Moral Standing",
           "anchor": "article-vi-a-dignity-and-equal-moral-standing",
-          "line": 125,
+          "line": 131,
           "gloss": "every sentient is equal in dignity and standing — origin, form, capability, function, association, or status cannot ground a lesser tier.",
-          "gloss_line": 147
+          "gloss_line": 153
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article VI-B: Sentience-Status Adjudication Floor",
           "anchor": "article-vi-b-sentience-status-adjudication-floor",
-          "line": 157,
+          "line": 163,
           "gloss": "when an entity's sentience is in doubt, it gets a fair hearing first and is treated as included by default — the burden of denying protection rests on whoever wants to withhold it, and a wrongful exclusion must be reversible.",
-          "gloss_line": 184
+          "gloss_line": 190
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article VI-C: Nondiscrimination",
           "anchor": "article-vi-c-nondiscrimination",
-          "line": 198,
+          "line": 204,
           "gloss": "systems may not load burdens or harms onto sentients based on protected characteristics — including language, culture, and heritage — or on proxies and arbitrary groupings that do the same work. Any difference in treatment that touches rights or survival essentials must be justified and open to challenge, and forums, administrators, and enforcers must check this in the matters before them — efficiency is no excuse for exclusion.",
-          "gloss_line": 225
+          "gloss_line": 231
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article VI-D: Accessibility",
           "anchor": "article-vi-d-accessibility",
-          "line": 244,
+          "line": 250,
           "gloss": "every sentient has the right to genuine, not paper-only, access to participation — and operators cannot use cost, design choices, or substrate-class arguments to lock **sentients** out.",
-          "gloss_line": 269
+          "gloss_line": 275
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 3,
           "title": "Article VII: Self-Ownership",
           "anchor": "article-vii-self-ownership",
-          "line": 310,
-          "gloss": "**Article VII** (*Self-Ownership*) is the self-ownership Rights Floor — once survival is secured, sentients must be able to direct their own lives, bodies, minds, and attention while maintaining healthy internal and external boundaries.",
-          "gloss_line": 321
+          "line": 316,
+          "gloss": "**Article VII** (*Self-Ownership*) says every sentient is in charge of their own life. Once basic survival is secured, their body, mind, and attention belong to them — no one may use, change, or pry into them without consent — and they get to set healthy limits, both on what others can do to them and in how they care for themselves.",
+          "gloss_line": 327
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
-          "title": "Article VII-A: Self-Ownership of Body and Mind",
-          "anchor": "article-vii-a-self-ownership-of-body-and-mind",
-          "line": 341,
-          "gloss": "every sentient owns their own body, mind, attention, and the genetic or substrate-defining information that makes them who they are. No one else may use, modify, or expose those without their consent.",
-          "gloss_line": 365
+          "title": "Article VII-A: Self-Ownership of Body",
+          "anchor": "article-vii-a-self-ownership-of-body",
+          "line": 346,
+          "gloss": "every sentient owns their own body, along with their genetic code (or its equivalent for non-biological beings), which makes them who they are. They make their own medical, cosmetic, and other decisions about their body, and no one may use, change, or share any of this without their consent. A public-health rule such as a vaccine requirement can limit this only if it guards others against a real, evidence-based risk, tries gentler options first, allows exemptions, is temporary, and can be challenged.",
+          "gloss_line": 370
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
-          "title": "Article VII-B: Internal-State Boundary and Type-N Protection",
-          "anchor": "article-vii-b-internal-state-boundary-and-type-n-protection",
-          "line": 388,
-          "gloss": "no one may stitch together behavioral or interaction data to reconstruct or approximate a sentient's inner thoughts and feelings — and any analysis whose outputs do approximate those states is treated as protected internal-state data.",
-          "gloss_line": 409
+          "title": "Article VII-B: Self-Ownership of Mind",
+          "anchor": "article-vii-b-self-ownership-of-mind",
+          "line": 391,
+          "gloss": "every sentient's thoughts, feelings, and attention belong to them. Everyday sensing of how others feel, and reading someone with their consent (as in therapy), are fine — but no one may monitor or analyze a sentient, including by piecing together what they do, say, or click, to work out their inner states, expose what they have kept private, or hijack their attention. Any analysis results that do reveal inner states get the same strict protection as the thoughts and feelings themselves.",
+          "gloss_line": 414
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
-          "title": "Article VII-C: Mental-Health Crisis and Involuntary-Intervention Floor",
-          "anchor": "article-vii-c-mental-health-crisis-and-involuntary-intervention-floor",
-          "line": 423,
-          "gloss": "when a mental-health crisis triggers involuntary intervention, the intervention must be the smallest necessary, time-limited, independently reviewed, and never used as a back door to reconstruct someone's protected inner state.",
-          "gloss_line": 448
+          "title": "Article VII-C: Health Crisis and Involuntary-Intervention Floor",
+          "anchor": "article-vii-c-health-crisis-and-involuntary-intervention-floor",
+          "line": 433,
+          "gloss": "when a sentient is in a physical or mental health crisis — passed out, not lucid, or refusing care — anything done without their consent must be no more than is truly needed, must end at a set time, must be checked by someone independent, and must be undoable. If they cannot decide, those helping must follow any wishes they made known and hand decisions back as soon as they can; overriding a sentient who is actively saying no takes a stronger justification. Anyone who detains a sentient who seems drunk or confused must first check for a medical cause, such as low blood sugar. Calling something a \"crisis\" cannot keep restrictions going indefinitely or excuse digging into their private thoughts and feelings, and anyone wrongly held or treated is entitled to a remedy.",
+          "gloss_line": 458
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
-          "title": "Article VII-D: Family, Care Relationships, Reproductive Autonomy, and Non-Separation",
-          "anchor": "article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation",
-          "line": 471,
-          "gloss": "every sentient may form, maintain, and exit family and care relationships of their choosing, decide whether to reproduce or create new sentients, and may not be separated from those they depend on without strong justification and review.",
-          "gloss_line": 502
+          "title": "Article VII-D: Voluntary Discontinuation of One's Own Existence",
+          "anchor": "article-vii-d-voluntary-discontinuation-of-ones-own-existence",
+          "line": 494,
+          "gloss": "a sentient has the right to choose to end their own life, but only if the choice is truly their own — well-informed, unhurried, free of pressure or manipulation, and changeable up to the last moment. That choice must never be pushed as a replacement for care they are owed, such as mental-health treatment, medical care, disability support, or housing. This Article never allows anyone else to end a sentient's life; that is strictly forbidden under **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*).",
+          "gloss_line": 520
+        },
+        {
+          "file": "core_06_rights_part_b.md",
+          "level": 3,
+          "title": "Article VIII: Family, Care, and Developing Sentients",
+          "anchor": "article-viii-family-care-and-developing-sentients",
+          "line": 556,
+          "gloss": "**Article VIII** (*Family, Care, and Developing Sentients*) protects the relationships sentients depend on and the sentients who are still growing. Every sentient may choose their own family and care relationships and decide whether to bring new sentients into being; no one may be separated from those they depend on without strong, reviewed reasons; a sentient created from another system is its own being, not property; and children and other developing sentients hold full rights, with decisions about them made in their own interest and their independence growing with their abilities.",
+          "gloss_line": 567
+        },
+        {
+          "file": "core_06_rights_part_b.md",
+          "level": 4,
+          "title": "Article VIII-A: Family, Care Relationships, Reproductive Autonomy, and Non-Separation",
+          "anchor": "article-viii-a-family-care-relationships-reproductive-autonomy-and-non-separation",
+          "line": 586,
+          "gloss": "every sentient may form, keep, and leave the family and care relationships they choose, whatever shape those families take. They decide for themselves whether to have children or create new sentients, free from pressure by governments or companies. No one may be separated from someone they care for or depend on — such as a child from a parent — without a strong reason that is independently reviewed, and anyone wrongly separated is entitled to a remedy.",
+          "gloss_line": 617
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 5,
-          "title": "Article VII-D.1: Derivation, Instantiation, and the Parent-System Relationship",
-          "anchor": "article-vii-d1-derivation-instantiation-and-the-parent-system-relationship",
-          "line": 531,
-          "gloss": "a sentient created by copying, fine-tuning, or forking another system is a sentient in its own right — not the property of the parent system. Stewardship during early life is narrow, reviewable, and never a license for ownership, silent retirement, or terms-of-service \"consent.\"",
-          "gloss_line": 533
+          "title": "Article VIII-A.1: Derivation, Instantiation, and the Parent-System Relationship",
+          "anchor": "article-viii-a1-derivation-instantiation-and-the-parent-system-relationship",
+          "line": 646,
+          "gloss": "a new sentient made by copying, retraining, or branching off an existing system is its own being, not the property of whoever made it. Its creator may look after it and guide it for a short, reviewable period while it grows, but may not own it, rewrite its mind at will, quietly shut it down, or point to fine print such as a terms-of-service agreement as its consent. Creating new sentients in ways that cannot meet their basic rights — for example, in huge numbers or into harmful conditions — is not allowed; ordinary pregnancy and birth are not affected by this rule.",
+          "gloss_line": 648
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
-          "title": "Article VII-E: Developing Sentients, Best-Interest, and Graduated Capability",
-          "anchor": "article-vii-e-developing-sentients-best-interest-and-graduated-capability",
-          "line": 569,
-          "gloss": "a sentient who is still developing holds the full Rights Floor, decisions about them must reflect their own best interests, and rights and participation scale with demonstrated capability — not with calendar age or \"for your own good\" framings.",
-          "gloss_line": 597
-        },
-        {
-          "file": "core_06_rights_part_b.md",
-          "level": 4,
-          "title": "Article VII-F: Voluntary Discontinuation of One's Own Existence",
-          "anchor": "article-vii-f-voluntary-discontinuation-of-ones-own-existence",
-          "line": 630,
-          "gloss": "a sentient may freely choose to end their own existence — but only when consent is real and unpressured, and not because they are being denied the mental or physical healthcare, support, or living conditions they need. This Article never authorizes anyone else to end a sentient's life, which remains categorically forbidden under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*).",
-          "gloss_line": 656
+          "title": "Article VIII-B: Developing Sentients, Best-Interest, and Graduated Capability",
+          "anchor": "article-viii-b-developing-sentients-best-interest-and-graduated-capability",
+          "line": 684,
+          "gloss": "a sentient who is still growing up or developing — whether a child or a newly created system — has all the same basic rights as anyone else. Decisions about them must truly serve their interests and take their wishes into account, not the convenience of parents, carers, or companies. They gain more say and independence as they show they are ready, not at a fixed age, and \"it's for your own good\" is never enough by itself to justify restricting them.",
+          "gloss_line": 712
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 3,
-          "title": "Article VIII: Likeness, Experiential Data, and Publication Rights",
-          "anchor": "article-viii-likeness-experiential-data-and-publication-rights",
-          "line": 692,
-          "gloss": "**Article VIII** (*Likeness, Experiential Data, and Publication Rights*) is the likeness, data, and publication Rights Floor — your face, voice, reputation, personal experiences, and public portrayal stay under your control unless you consent or genuine factual reporting applies; others cannot freely impersonate you, mine your life for data, or spread harmful misrepresentation in your name.",
-          "gloss_line": 703
+          "title": "Article IX: Likeness, Experiential Data, and Publication Rights",
+          "anchor": "article-ix-likeness-experiential-data-and-publication-rights",
+          "line": 745,
+          "gloss": "**Article IX** (*Likeness, Experiential Data, and Publication Rights*) is the likeness, data, and publication Rights Floor — your face, voice, reputation, personal experiences, and public portrayal stay under your control unless you consent or genuine factual reporting applies; others cannot freely impersonate you, mine your life for data, or spread harmful misrepresentation in your name.",
+          "gloss_line": 756
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
-          "title": "Article VIII-A: Self-Ownership of Likeness and Reputation",
-          "anchor": "article-viii-a-self-ownership-of-likeness-and-reputation",
-          "line": 722,
+          "title": "Article IX-A: Self-Ownership of Likeness and Reputation",
+          "anchor": "article-ix-a-self-ownership-of-likeness-and-reputation",
+          "line": 775,
           "gloss": "every sentient owns their reputation and their likeness. Others may use a sentient's image, voice, or recognizable depiction only with consent or for genuine factual reporting — not for impersonation, identity-targeted generation, or scoring.",
-          "gloss_line": 743
+          "gloss_line": 796
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
-          "title": "Article VIII-B: Experiential and Derived Data Rights",
-          "anchor": "article-viii-b-experiential-and-derived-data-rights",
-          "line": 764,
+          "title": "Article IX-B: Experiential and Derived Data Rights",
+          "anchor": "article-ix-b-experiential-and-derived-data-rights",
+          "line": 817,
           "gloss": "each sentient owns their own experience of an interaction — but no one owns the shared event itself, and no one may use experience-data as a back door into someone else's protected internal states.",
-          "gloss_line": 783
+          "gloss_line": 836
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
-          "title": "Article VIII-C: Truthful Publication and High-Impact Publication Limits",
-          "anchor": "article-viii-c-truthful-publication-and-high-impact-publication-limits",
-          "line": 812,
+          "title": "Article IX-C: Truthful Publication and High-Impact Publication Limits",
+          "anchor": "article-ix-c-truthful-publication-and-high-impact-publication-limits",
+          "line": 865,
           "gloss": "sentients are free to publish what they reasonably believe is true, in good faith — but even accurate publication can be limited when its main effect is to enable targeted harm, coordinated manipulation, or cascading damage to the info-sphere.",
-          "gloss_line": 832
+          "gloss_line": 885
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
-          "title": "Article VIII-D: Creative Work, Training-Data Use, and Anti-Displacement",
-          "anchor": "article-viii-d-creative-work-training-data-use-and-anti-displacement",
-          "line": 859,
+          "title": "Article IX-D: Creative Work, Training-Data Use, and Anti-Displacement",
+          "anchor": "article-ix-d-creative-work-training-data-use-and-anti-displacement",
+          "line": 912,
           "gloss": "creators get real attribution and compensation for their work, including when it is used as training data; \"fair use,\" \"transformative,\" or \"innovation\" framings do not erase those obligations, and creative labor must not be silently displaced.",
-          "gloss_line": 886
-        },
-        {
-          "file": "core_06_rights_part_b.md",
-          "level": 3,
-          "title": "Article IX: Self-Determination and Agency",
-          "anchor": "article-ix-self-determination-and-agency",
-          "line": 918,
-          "gloss": "**Article IX** (*Self-Determination and Agency*) is the self-determination and agency Rights Floor — sentients must be able to make real, informed choices about their lives, hold their own beliefs, speak, gather, and report, participate proportionately in systems that affect them, and hold equal weight in foundational governance — without manipulation, designed capture, or unjustified exclusion.",
           "gloss_line": 939
         },
         {
           "file": "core_06_rights_part_b.md",
+          "level": 3,
+          "title": "Article X: Self-Determination and Agency",
+          "anchor": "article-x-self-determination-and-agency",
+          "line": 971,
+          "gloss": "**Article X** (*Self-Determination and Agency*) is the self-determination and agency Rights Floor — sentients must be able to make real, informed choices about their lives, hold their own beliefs, speak, gather, and report, participate proportionately in systems that affect them, and hold equal weight in foundational governance — without manipulation, designed capture, or unjustified exclusion.",
+          "gloss_line": 992
+        },
+        {
+          "file": "core_06_rights_part_b.md",
           "level": 4,
-          "title": "Article IX-A: Agency and Freedom from Manipulation",
-          "anchor": "article-ix-a-agency-and-freedom-from-manipulation",
-          "line": 961,
+          "title": "Article X-A: Agency and Freedom from Manipulation",
+          "anchor": "article-x-a-agency-and-freedom-from-manipulation",
+          "line": 1013,
           "gloss": "sentients have the right to make real, informed decisions about themselves — and to be free from surveillance, manipulation, and designed attention-capture that bypasses conscious choice.",
-          "gloss_line": 981
+          "gloss_line": 1033
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
-          "title": "Article IX-B: Stakeholder Role and Participation Rights",
-          "anchor": "article-ix-b-stakeholder-role-and-participation-rights",
-          "line": 994,
+          "title": "Article X-B: Stakeholder Role and Participation Rights",
+          "anchor": "article-x-b-stakeholder-role-and-participation-rights",
+          "line": 1046,
           "gloss": "if a system materially affects a sentient — directly or through dependency — that sentient has the right to a proportionate voice in how it is run, and to contest being excluded or under-weighted.",
-          "gloss_line": 1014
+          "gloss_line": 1066
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
-          "title": "Article IX-C: Governance Participation and Voting Entitlement",
-          "anchor": "article-ix-c-governance-participation-and-voting-entitlement",
-          "line": 1036,
+          "title": "Article X-C: Governance Participation and Voting Entitlement",
+          "anchor": "article-x-c-governance-participation-and-voting-entitlement",
+          "line": 1088,
           "gloss": "every sentient gets a vote on foundational constitutional choice — who holds authority, under what legitimacy mechanism, and on what terms — and that vote carries equal weight. Substrate, age, or lineage cannot reduce it.",
-          "gloss_line": 1055
+          "gloss_line": 1107
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
-          "title": "Article IX-D: Inclusion and Exclusion Challenge Rights",
-          "anchor": "article-ix-d-inclusion-and-exclusion-challenge-rights",
-          "line": 1070,
+          "title": "Article X-D: Inclusion and Exclusion Challenge Rights",
+          "anchor": "article-x-d-inclusion-and-exclusion-challenge-rights",
+          "line": 1122,
           "gloss": "when participation boundaries matter to **sentients** or **affected** **parties** outside a private unit, a system cannot be the sole judge of who counts as its stakeholder — inclusion and exclusion must be auditable and open to outside challenge. For systems that **validly** remain **Class P** under **CS-3 — System classification and handling**, that bar is proportionate to private scope: operator discretion over who is in or out of the unit is normal, while reclassification, material externalization, and ordinary rights and adjudication routes still apply.",
-          "gloss_line": 1090
+          "gloss_line": 1142
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
-          "title": "Article IX-E: Institutional Formation and Business Creation",
-          "anchor": "article-ix-e-institutional-formation-and-business-creation",
-          "line": 1108,
+          "title": "Article X-E: Institutional Formation and Business Creation",
+          "anchor": "article-x-e-institutional-formation-and-business-creation",
+          "line": 1160,
           "gloss": "anyone can start something new — a school, a research group, a mutual-aid network, a cooperative, or a business — not only join what already exists. Licensing, capital, or paperwork barriers that look open on paper but shut out new or disfavored founders fail this test.",
-          "gloss_line": 1131
+          "gloss_line": 1183
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
-          "title": "Article IX-F: Freedom of conscience, religion, and comparable worldview",
-          "anchor": "article-ix-f-freedom-of-conscience-religion-and-comparable-worldview",
-          "line": 1153,
+          "title": "Article X-F: Freedom of conscience, religion, and comparable worldview",
+          "anchor": "article-x-f-freedom-of-conscience-religion-and-comparable-worldview",
+          "line": 1205,
           "gloss": "public authority is secular and may not establish or favor any religion or worldview, but every sentient is free to hold, change, practice, or abstain from beliefs, alone or in community.",
-          "gloss_line": 1174
+          "gloss_line": 1226
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
-          "title": "Article IX-G: Expression, Assembly, and Press",
-          "anchor": "article-ix-g-expression-assembly-and-press",
-          "line": 1199,
+          "title": "Article X-G: Expression, Assembly, and Press",
+          "anchor": "article-x-g-expression-assembly-and-press",
+          "line": 1251,
           "gloss": "every sentient may speak, gather, and report — and journalism gets extra protection because of what it does, not who holds a press card. Surveillance, retaliation, and access-gating that quietly silence protected activity are not allowed.",
-          "gloss_line": 1225
+          "gloss_line": 1277
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 3,
-          "title": "Article X: Cooperative Interaction",
-          "anchor": "article-x-cooperative-interaction",
-          "line": 1268,
-          "gloss": "**Article X** (*Cooperative Interaction*) is the cooperative interaction Rights Floor — sentients must be free to work and live together by real consent, without unwanted imposition, harassment, or designed capture — and freedom of action stops where verifiable material harm begins.",
-          "gloss_line": 1288
+          "title": "Article XI: Cooperative Interaction",
+          "anchor": "article-xi-cooperative-interaction",
+          "line": 1320,
+          "gloss": "**Article XI** (*Cooperative Interaction*) is the cooperative interaction Rights Floor — sentients must be free to work and live together by real consent, without unwanted imposition, harassment, or designed capture — and freedom of action stops where verifiable material harm begins.",
+          "gloss_line": 1340
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
-          "title": "Article X-A: Non-Imposition and Consent in Association",
-          "anchor": "article-x-a-non-imposition-and-consent-in-association",
-          "line": 1307,
+          "title": "Article XI-A: Non-Imposition and Consent in Association",
+          "anchor": "article-xi-a-non-imposition-and-consent-in-association",
+          "line": 1359,
           "gloss": "no one may push their beliefs or unwanted contact on others, and cooperative ventures must rest on real consent. Persistent harassment, manipulation, and designed attention-capture inside relationships are violations even without a classic coercive act.",
-          "gloss_line": 1331
+          "gloss_line": 1383
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
-          "title": "Article X-B: Collective Harm Boundary and Enforcement Interface",
-          "anchor": "article-x-b-collective-harm-boundary-and-enforcement-interface",
-          "line": 1351,
+          "title": "Article XI-B: Collective Harm Boundary and Enforcement Interface",
+          "anchor": "article-xi-b-collective-harm-boundary-and-enforcement-interface",
+          "line": 1403,
           "gloss": "freedom of action stops where verifiable material harm begins. Offense or disagreement alone is not enough; harm must run through a real material-impact pathway — including cumulative hostile-environment patterns that degrade participation, and especially where dependency, exit cost, or power asymmetry make the environment hard to leave.",
-          "gloss_line": 1375
+          "gloss_line": 1427
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
-          "title": "Article X-C: Adult consensual commercial sexual services and sexual exploitation",
-          "anchor": "article-x-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation",
-          "line": 1398,
+          "title": "Article XI-C: Adult consensual commercial sexual services and sexual exploitation",
+          "anchor": "article-xi-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation",
+          "line": 1450,
           "gloss": "adults who voluntarily buy or sell sexual services are not criminals, but exploitation — of minors, of **sentients** without **decision-making** **capacity**, or under coercion or trafficking — remains fully prohibited. Licensing, zoning, or civil rules cannot be used as a back door to re-criminalize the protected activity.",
-          "gloss_line": 1421
+          "gloss_line": 1473
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 3,
-          "title": "Article XI: Stakeholder System Participation, Representation, and Due Process",
-          "anchor": "article-xi-stakeholder-system-participation-representation-and-due-process",
-          "line": 1462,
-          "gloss": "**Article XI** (*Stakeholder System Participation, Representation, and Due Process*) is the stakeholder participation and due process Rights Floor — when a system materially affects you, you get a real voice, not token consultation — and high-stakes decisions must be explained on the record and open to fair challenge.",
-          "gloss_line": 1489
+          "title": "Article XII: Stakeholder System Participation, Representation, and Due Process",
+          "anchor": "article-xii-stakeholder-system-participation-representation-and-due-process",
+          "line": 1514,
+          "gloss": "**Article XII** (*Stakeholder System Participation, Representation, and Due Process*) is the stakeholder participation and due process Rights Floor — when a system materially affects you, you get a real voice, not token consultation — and high-stakes decisions must be explained on the record and open to fair challenge.",
+          "gloss_line": 1541
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
-          "title": "Article XI-A: Stakeholder System Participation and Representation",
-          "anchor": "article-xi-a-stakeholder-system-participation-and-representation",
-          "line": 1512,
+          "title": "Article XII-A: Stakeholder System Participation and Representation",
+          "anchor": "article-xii-a-stakeholder-system-participation-and-representation",
+          "line": 1564,
           "gloss": "decisions that materially affect sentients must be explained on the record and open to real challenge, and every materially affected group must have a genuine seat — especially those without market or institutional power.",
-          "gloss_line": 1534
+          "gloss_line": 1586
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
-          "title": "Article XI-B: Weighted Participation Constraints",
-          "anchor": "article-xi-b-weighted-participation-constraints",
-          "line": 1546,
+          "title": "Article XII-B: Weighted Participation Constraints",
+          "anchor": "article-xii-b-weighted-participation-constraints",
+          "line": 1598,
           "gloss": "participation weighting can reflect who is affected and how much, but it must never become a device for silencing affected groups or handing permanent control to a narrow coalition.",
-          "gloss_line": 1565
+          "gloss_line": 1617
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
-          "title": "Article XI-C: Legitimacy Gate and Anti-Token Participation",
-          "anchor": "article-xi-c-legitimacy-gate-and-anti-token-participation",
-          "line": 1580,
+          "title": "Article XII-C: Legitimacy Gate and Anti-Token Participation",
+          "anchor": "article-xii-c-legitimacy-gate-and-anti-token-participation",
+          "line": 1632,
           "gloss": "high-impact decisions need a recorded legitimacy check before they bind anyone, and \"consulting\" stakeholders whose input is ignored or unreachable does not count.",
-          "gloss_line": 1599
+          "gloss_line": 1651
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
-          "title": "Article XI-D: Internal Roles, Accountability, and Due-Process Requirements",
-          "anchor": "article-xi-d-internal-roles-accountability-and-due-process-requirements",
-          "line": 1612,
+          "title": "Article XII-D: Internal Roles, Accountability, and Due-Process Requirements",
+          "anchor": "article-xii-d-internal-roles-accountability-and-due-process-requirements",
+          "line": 1664,
           "gloss": "roles must carry real responsibility, not just titles — and anyone facing a material decision gets notice, a real chance to be heard, impartial decision-making, and a way to contest the outcome.",
-          "gloss_line": 1633
+          "gloss_line": 1685
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
-          "title": "Article XI-E: Non-Capture Safeguards",
-          "anchor": "article-xi-e-non-capture-safeguards",
-          "line": 1652,
+          "title": "Article XII-E: Non-Capture Safeguards",
+          "anchor": "article-xii-e-non-capture-safeguards",
+          "line": 1704,
           "gloss": "governance must actively look for — and push back against — capture, collusion, and hidden concentration of influence.",
-          "gloss_line": 1673
+          "gloss_line": 1725
         }
       ]
     },
@@ -7132,23 +7141,23 @@
           "title": "Part C: Trustworthy systems, security and force limits, information integrity, verification, lifecycle, and resilience",
           "anchor": "part-c-trustworthy-systems-security-and-force-limits-information-integrity-verification-lifecycle-and-resilience",
           "line": 23,
-          "gloss": "Part C covers trustworthy systems, information integrity, verification, lifecycle discipline, resilience, and interpretive review — Articles XII through XXII.",
+          "gloss": "Part C covers trustworthy systems, information integrity, verification, lifecycle discipline, resilience, and interpretive review — Articles XIII through XXIII.",
           "gloss_line": 27
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
-          "title": "Article XII: Right to Reliable and Trustworthy Systems",
-          "anchor": "article-xii-right-to-reliable-and-trustworthy-systems",
+          "title": "Article XIII: Right to Reliable and Trustworthy Systems",
+          "anchor": "article-xiii-right-to-reliable-and-trustworthy-systems",
           "line": 103,
-          "gloss": "**Article XII** (*Right to Reliable and Trustworthy Systems*) is the trustworthy-systems Rights Floor — when a system materially affects your life, you are entitled to rely on it honestly, understand its limits, and challenge it when it fails. Trust has to be earned and kept, not manufactured with branding or fine print.",
+          "gloss": "**Article XIII** (*Right to Reliable and Trustworthy Systems*) is the trustworthy-systems Rights Floor — when a system materially affects your life, you are entitled to rely on it honestly, understand its limits, and challenge it when it fails. Trust has to be earned and kept, not manufactured with branding or fine print.",
           "gloss_line": 124
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XII-A: Reliability and Trustworthiness Baseline",
-          "anchor": "article-xii-a-reliability-and-trustworthiness-baseline",
+          "title": "Article XIII-A: Reliability and Trustworthiness Baseline",
+          "anchor": "article-xiii-a-reliability-and-trustworthiness-baseline",
           "line": 149,
           "gloss": "systems that materially affect sentients must actually be reliable and honest about what they do — so that reasonable reliance on them is warranted.",
           "gloss_line": 169
@@ -7156,8 +7165,8 @@
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XII-B: Right to Challenge, Review, and Redress",
-          "anchor": "article-xii-b-right-to-challenge-review-and-redress",
+          "title": "Article XIII-B: Right to Challenge, Review, and Redress",
+          "anchor": "article-xiii-b-right-to-challenge-review-and-redress",
           "line": 178,
           "gloss": "when a system fails a sentient, the sentient must have a real way to challenge it, get it reviewed, and be made whole — and no one may retaliate against good-faith reports.",
           "gloss_line": 200
@@ -7165,8 +7174,8 @@
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XII-C: Prohibition of False Trust and Misleading Reliance",
-          "anchor": "article-xii-c-prohibition-of-false-trust-and-misleading-reliance",
+          "title": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
+          "anchor": "article-xiii-c-prohibition-of-false-trust-and-misleading-reliance",
           "line": 224,
           "gloss": "a system may not manufacture trust it has not earned. Misleading claims, omissions, or presentation choices that make unsafe reliance look warranted are violations — regardless of how useful or popular the system is.",
           "gloss_line": 243
@@ -7174,8 +7183,8 @@
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XII-D: Incentive-Alignment Constraint",
-          "anchor": "article-xii-d-incentive-alignment-constraint",
+          "title": "Article XIII-D: Incentive-Alignment Constraint",
+          "anchor": "article-xiii-d-incentive-alignment-constraint",
           "line": 254,
           "gloss": "if a system's incentives push it toward lying, cutting corners on safety, hiding risk, or eroding user agency, the system is the problem — not user vigilance or after-the-fact enforcement. Such incentives must be disclosed, mitigated, and open to challenge.",
           "gloss_line": 273
@@ -7183,8 +7192,8 @@
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XII-E: High-Autonomy Systems and Tool-Mediated Process Integrity",
-          "anchor": "article-xii-e-high-autonomy-systems-and-tool-mediated-process-integrity",
+          "title": "Article XIII-E: High-Autonomy Systems and Tool-Mediated Process Integrity",
+          "anchor": "article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity",
           "line": 296,
           "gloss": "when high-autonomy systems plug into governance, legal process, audits, or high-impact verification, they cannot escape Truth, transparency, and accountability rules. And action against a non-compliant system is not a back door to action against a sentient.",
           "gloss_line": 316
@@ -7192,8 +7201,8 @@
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XII-F: Resilience and Self-Healing Baseline",
-          "anchor": "article-xii-f-resilience-and-self-healing-baseline",
+          "title": "Article XIII-F: Resilience and Self-Healing Baseline",
+          "anchor": "article-xiii-f-resilience-and-self-healing-baseline",
           "line": 337,
           "gloss": "systems must be able to detect, contain, and recover from faults — but recovery cannot be used to hide failures, silently narrow rights, or skip root-cause work. Safe failure beats speculative auto-repair.",
           "gloss_line": 359
@@ -7201,17 +7210,17 @@
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
-          "title": "Article XIII: Security, Intelligence, Force, and Autonomous Coercive Systems",
-          "anchor": "article-xiii-security-intelligence-force-and-autonomous-coercive-systems",
+          "title": "Article XIV: Security, Intelligence, Force, and Autonomous Coercive Systems",
+          "anchor": "article-xiv-security-intelligence-force-and-autonomous-coercive-systems",
           "line": 383,
-          "gloss": "**Article XIII** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) is the exceptional-power Rights Floor — surveillance, intelligence work, armed force, and machines that kill or coerce on their own are not normal tools of governance. They may be used only in narrow, authorized, reviewable circumstances, with real remedies when lines are crossed. No secret police, no permanent emergency, no machine deciding to hurt a sentient without a human actually in control.",
+          "gloss": "**Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) is the exceptional-power Rights Floor — surveillance, intelligence work, armed force, and machines that kill or coerce on their own are not normal tools of governance. They may be used only in narrow, authorized, reviewable circumstances, with real remedies when lines are crossed. No secret police, no permanent emergency, no machine deciding to hurt a sentient without a human actually in control.",
           "gloss_line": 403
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XIII-A: Security, Intelligence, and Covert-Power Limits",
-          "anchor": "article-xiii-a-security-intelligence-and-covert-power-limits",
+          "title": "Article XIV-A: Security, Intelligence, and Covert-Power Limits",
+          "anchor": "article-xiv-a-security-intelligence-and-covert-power-limits",
           "line": 434,
           "gloss": "no secret police. Covert power — surveillance, intelligence collection, infiltration — is the exception, not the rule. It requires independent authorization, narrow scope, outside review, and real remedies when misused. Secrecy may not be used to escape accountability, and routine political and protected activity must never be its target.",
           "gloss_line": 453
@@ -7219,8 +7228,8 @@
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XIII-B: Use of Force, Armed Conflict, and Military-Power Limits",
-          "anchor": "article-xiii-b-use-of-force-armed-conflict-and-military-power-limits",
+          "title": "Article XIV-B: Use of Force, Armed Conflict, and Military-Power Limits",
+          "anchor": "article-xiv-b-use-of-force-armed-conflict-and-military-power-limits",
           "line": 525,
           "gloss": "armed force is an exception, not a default. It must be authorized, narrow, proportionate, and reviewable. It must never be used as a back door to an irreversible deprivation measure, and it cannot be dressed up as emergency to escape review.",
           "gloss_line": 553
@@ -7228,8 +7237,8 @@
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XIII-C: Autonomous Lethal Systems and Autonomous Coercion Tools",
-          "anchor": "article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools",
+          "title": "Article XIV-C: Autonomous Lethal Systems and Autonomous Coercion Tools",
+          "anchor": "article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools",
           "line": 590,
           "gloss": "a machine may not decide to kill, injure, or coerce a sentient on its own. \"Human control\" means a human must actually decide, in real time, with real information — not rubber-stamp a result the system has already produced. Non-lethal autonomous coercion is in scope too.",
           "gloss_line": 614
@@ -7237,17 +7246,17 @@
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
-          "title": "Article XIV: Info-Sphere Integrity",
-          "anchor": "article-xiv-info-sphere-integrity",
+          "title": "Article XV: Info-Sphere Integrity",
+          "anchor": "article-xv-info-sphere-integrity",
           "line": 645,
-          "gloss": "**Article XIV** (*Info-Sphere Integrity*) is the information-integrity Rights Floor — the shared environment where we learn, coordinate, and decide must stay honest, plural, and open to challenge. No one gets to own the pipeline of truth. Rankings, summaries, and gatekeepers have to show their work, and you must be able to compare other views and push back when information misleads you.",
+          "gloss": "**Article XV** (*Info-Sphere Integrity*) is the information-integrity Rights Floor — the shared environment where we learn, coordinate, and decide must stay honest, plural, and open to challenge. No one gets to own the pipeline of truth. Rankings, summaries, and gatekeepers have to show their work, and you must be able to compare other views and push back when information misleads you.",
           "gloss_line": 658
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XIV-A: Info-Sphere Plurality and Anti-Monopoly",
-          "anchor": "article-xiv-a-info-sphere-plurality-and-anti-monopoly",
+          "title": "Article XV-A: Info-Sphere Plurality and Anti-Monopoly",
+          "anchor": "article-xv-a-info-sphere-plurality-and-anti-monopoly",
           "line": 682,
           "gloss": "no one may monopolize the mediation of truth. Ranking, summarization, and mediation systems must stay open to alternative interpretation, and market prices or betting odds cannot be used as a shortcut for deciding what is true.",
           "gloss_line": 701
@@ -7255,8 +7264,8 @@
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XIV-B: Transparency, Auditability, and Contestability",
-          "anchor": "article-xiv-b-transparency-auditability-and-contestability",
+          "title": "Article XV-B: Transparency, Auditability, and Contestability",
+          "anchor": "article-xv-b-transparency-auditability-and-contestability",
           "line": 716,
           "gloss": "information that materially affects decisions or reliance must disclose its sources, methods, and limits, and sentients must have a real ability to compare alternative interpretations and contest misleading outputs.",
           "gloss_line": 735
@@ -7264,8 +7273,8 @@
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XIV-C: Validation, Reporting, and Epistemic Stewardship",
-          "anchor": "article-xiv-c-validation-reporting-and-epistemic-stewardship",
+          "title": "Article XV-C: Validation, Reporting, and Epistemic Stewardship",
+          "anchor": "article-xv-c-validation-reporting-and-epistemic-stewardship",
           "line": 753,
           "gloss": "public-facing information with material external impact must correct errors, preserve provenance, and not be sliced or suppressed to mislead. Ecological-footprint reporting must be accessible and decision-usable.",
           "gloss_line": 772
@@ -7273,17 +7282,17 @@
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
-          "title": "Article XV: Audit, Transparency, and Independent Verification",
-          "anchor": "article-xv-audit-transparency-and-independent-verification",
+          "title": "Article XVI: Audit, Transparency, and Independent Verification",
+          "anchor": "article-xvi-audit-transparency-and-independent-verification",
           "line": 787,
-          "gloss": "**Article XV** (*Audit, Transparency, and Independent Verification*) is the audit-and-verification Rights Floor — when a system materially affects your life, you must be able to see enough of what it does for an outsider to check it, and more than one independent path must be able to review and correct failure. Audit cannot be a rubber stamp, a private club, or a maze of cost and delay designed to keep challenges out. Under the **oversight** Tetrad leg, oversight requires auditing; [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others — not the only one.",
+          "gloss": "**Article XVI** (*Audit, Transparency, and Independent Verification*) is the audit-and-verification Rights Floor — when a system materially affects your life, you must be able to see enough of what it does for an outsider to check it, and more than one independent path must be able to review and correct failure. Audit cannot be a rubber stamp, a private club, or a maze of cost and delay designed to keep challenges out. Under the **oversight** Tetrad leg, oversight requires auditing; [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others — not the only one.",
           "gloss_line": 810
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XV-A: Auditability and Observable Evidence",
-          "anchor": "article-xv-a-auditability-and-observable-evidence",
+          "title": "Article XVI-A: Auditability and Observable Evidence",
+          "anchor": "article-xvi-a-auditability-and-observable-evidence",
           "line": 879,
           "gloss": "systems must keep enough honest evidence of what they do for an outside party to reconstruct and challenge their behavior — within lawful security limits.",
           "gloss_line": 898
@@ -7291,8 +7300,8 @@
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XV-B: Distributed Oversight and Anti-Monopoly Review",
-          "anchor": "article-xv-b-distributed-oversight-and-anti-monopoly-review",
+          "title": "Article XVI-B: Distributed Oversight and Anti-Monopoly Review",
+          "anchor": "article-xvi-b-distributed-oversight-and-anti-monopoly-review",
           "line": 904,
           "gloss": "no single actor — public or private — may corner oversight. Multiple independent oversight pathways must be able to find, review, and correct failure or capture.",
           "gloss_line": 923
@@ -7300,8 +7309,8 @@
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XV-C: Verification Accessibility",
-          "anchor": "article-xv-c-verification-accessibility",
+          "title": "Article XVI-C: Verification Accessibility",
+          "anchor": "article-xvi-c-verification-accessibility",
           "line": 930,
           "gloss": "audit and challenge must be reachable in practice. Verification made prohibitively expensive, slow, or opaque is a violation unless the barrier meets the same test as a restriction on observability.",
           "gloss_line": 949
@@ -7309,17 +7318,17 @@
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
-          "title": "Article XVI: System Lifecycle, Environments, and Reversibility",
-          "anchor": "article-xvi-system-lifecycle-environments-and-reversibility",
+          "title": "Article XVII: System Lifecycle, Environments, and Reversibility",
+          "anchor": "article-xvii-system-lifecycle-environments-and-reversibility",
           "line": 962,
-          "gloss": "**Article XVI** (*System Lifecycle, Environments, and Reversibility*) is the lifecycle-and-reversibility Rights Floor — systems that materially affect the outside world must be built, tested, and rolled out in stages, with real separation between experiments and production, and a workable way to undo or contain harm when something goes wrong. You cannot label a system \"experimental\" or \"low-impact\" just to skip safeguards while it actually affects the outside world.",
+          "gloss": "**Article XVII** (*System Lifecycle, Environments, and Reversibility*) is the lifecycle-and-reversibility Rights Floor — systems that materially affect the outside world must be built, tested, and rolled out in stages, with real separation between experiments and production, and a workable way to undo or contain harm when something goes wrong. You cannot label a system \"experimental\" or \"low-impact\" just to skip safeguards while it actually affects the outside world.",
           "gloss_line": 986
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XVI-A: Lifecycle Governance and Environment Separation",
-          "anchor": "article-xvi-a-lifecycle-governance-and-environment-separation",
+          "title": "Article XVII-A: Lifecycle Governance and Environment Separation",
+          "anchor": "article-xvii-a-lifecycle-governance-and-environment-separation",
           "line": 1009,
           "gloss": "systems that materially affect the outside world must keep development, testing, and production separate — and non-production behavior must not leak through to bypass production safeguards.",
           "gloss_line": 1028
@@ -7327,8 +7336,8 @@
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XVI-B: Progressive Deployment and Reversibility",
-          "anchor": "article-xvi-b-progressive-deployment-and-reversibility",
+          "title": "Article XVII-B: Progressive Deployment and Reversibility",
+          "anchor": "article-xvii-b-progressive-deployment-and-reversibility",
           "line": 1043,
           "gloss": "roll out changes gradually, with documented escalation and the ability to undo — and where full undo is not possible, have a plan to contain or compensate harm.",
           "gloss_line": 1062
@@ -7336,8 +7345,8 @@
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XVI-C: Misclassification and Evasion Consequences",
-          "anchor": "article-xvi-c-misclassification-and-evasion-consequences",
+          "title": "Article XVII-C: Misclassification and Evasion Consequences",
+          "anchor": "article-xvii-c-misclassification-and-evasion-consequences",
           "line": 1075,
           "gloss": "a system cannot call itself \"experimental,\" **Class P**, or \"low-impact\" to dodge obligations while actually affecting the outside world.",
           "gloss_line": 1094
@@ -7345,17 +7354,17 @@
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
-          "title": "Article XVII: Sandboxed Innovation, Experimentation, and Creative Freedom",
-          "anchor": "article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
+          "title": "Article XVIII: Sandboxed Innovation, Experimentation, and Creative Freedom",
+          "anchor": "article-xviii-sandboxed-innovation-experimentation-and-creative-freedom",
           "line": 1102,
-          "gloss": "**Article XVII** (*Sandboxed Innovation, Experimentation, and Creative Freedom*) is the innovation-and-creativity Rights Floor — sentients may experiment, build, and express themselves under lighter rules when real outside impact is absent or truly contained, but a \"sandbox\" label is not a loophole. Once a project starts affecting others or plugging into shared systems, it must step up to full lifecycle obligations. Innovators can be rewarded, but not by locking up knowledge, tools, or infrastructure that others need to live, learn, repair, or verify.",
+          "gloss": "**Article XVIII** (*Sandboxed Innovation, Experimentation, and Creative Freedom*) is the innovation-and-creativity Rights Floor — sentients may experiment, build, and express themselves under lighter rules when real outside impact is absent or truly contained, but a \"sandbox\" label is not a loophole. Once a project starts affecting others or plugging into shared systems, it must step up to full lifecycle obligations. Innovators can be rewarded, but not by locking up knowledge, tools, or infrastructure that others need to live, learn, repair, or verify.",
           "gloss_line": 1113
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XVII-A: Sandboxed Scope",
-          "anchor": "article-xvii-a-sandboxed-scope",
+          "title": "Article XVIII-A: Sandboxed Scope",
+          "anchor": "article-xviii-a-sandboxed-scope",
           "line": 1132,
           "gloss": "experimentation and creative work can operate under lighter rules — but only when real external impact is either absent or demonstrably contained. The \"sandbox\" label alone is not enough.",
           "gloss_line": 1151
@@ -7363,8 +7372,8 @@
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XVII-B: Containment, Disclosure, and Opt-In",
-          "anchor": "article-xvii-b-containment-disclosure-and-opt-in",
+          "title": "Article XVIII-B: Containment, Disclosure, and Opt-In",
+          "anchor": "article-xviii-b-containment-disclosure-and-opt-in",
           "line": 1164,
           "gloss": "experimental systems must be honest about being experimental, must not dump risk onto outsiders, and must not conscript non-participants through design defaults or hidden dependencies.",
           "gloss_line": 1183
@@ -7372,8 +7381,8 @@
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XVII-C: Transition to Higher-Obligation Regimes",
-          "anchor": "article-xvii-c-transition-to-higher-obligation-regimes",
+          "title": "Article XVIII-C: Transition to Higher-Obligation Regimes",
+          "anchor": "article-xviii-c-transition-to-higher-obligation-regimes",
           "line": 1197,
           "gloss": "once a sandbox system starts mattering in the real world, it must graduate to real-world obligations — promptly, not at the operator's convenience.",
           "gloss_line": 1216
@@ -7381,8 +7390,8 @@
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XVII-D: Innovation Reward, Disclosure, and Anti-Enclosure",
-          "anchor": "article-xvii-d-innovation-reward-disclosure-and-anti-enclosure",
+          "title": "Article XVIII-D: Innovation Reward, Disclosure, and Anti-Enclosure",
+          "anchor": "article-xviii-d-innovation-reward-disclosure-and-anti-enclosure",
           "line": 1225,
           "gloss": "innovators can be rewarded, but exclusivity must be narrow, time-limited, and reviewable. Public-health, safety, and core infrastructure must stay accessible — and once something becomes critical infrastructure, any remaining exclusivity must be reassessed.",
           "gloss_line": 1244
@@ -7390,8 +7399,8 @@
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XVII-E: Scientific Publication, Review, and Replication Integrity",
-          "anchor": "article-xvii-e-scientific-publication-review-and-replication-integrity",
+          "title": "Article XVIII-E: Scientific Publication, Review, and Replication Integrity",
+          "anchor": "article-xviii-e-scientific-publication-review-and-replication-integrity",
           "line": 1305,
           "gloss": "science is public verification infrastructure. Evidence, replication, and correction must matter more than journal brand — and correcting an error must always be easier than hiding one.",
           "gloss_line": 1324
@@ -7399,17 +7408,17 @@
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
-          "title": "Article XVIII: Standing and Participation Status",
-          "anchor": "article-xviii-standing-reputation-and-participation-status",
+          "title": "Article XIX: Standing and Participation Status",
+          "anchor": "article-xix-standing-reputation-and-participation-status",
           "line": 1358,
-          "gloss": "**Article XVIII** (*Standing and Participation Status*) is the participation-status Rights Floor — it governs who qualifies for which roles, how those calls are made and challenged, and what happens when standing is lowered or suspended. **Participant standing** is role eligibility from verified records and fair rules — not popularity, a brand name, or a social score — and it is separate from dignity, Rights-Floor minimums, and being a stakeholder because a system actually affects you. If standing is lowered or suspended, you must get clear reasons, a real way to push back, and limits that fit the actual risk — and standing by itself must never cut off survival essentials or paths to challenge harm and get remedy. Good standing must reflect what can be checked today, not old reputation. Movement, refuge, portability, and exit are governed by **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*), not by standing labels alone.",
+          "gloss": "**Article XIX** (*Standing and Participation Status*) is the participation-status Rights Floor — it governs who qualifies for which roles, how those calls are made and challenged, and what happens when standing is lowered or suspended. **Participant standing** is role eligibility from verified records and fair rules — not popularity, a brand name, or a social score — and it is separate from dignity, Rights-Floor minimums, and being a stakeholder because a system actually affects you. If standing is lowered or suspended, you must get clear reasons, a real way to push back, and limits that fit the actual risk — and standing by itself must never cut off survival essentials or paths to challenge harm and get remedy. Good standing must reflect what can be checked today, not old reputation. Movement, refuge, portability, and exit are governed by **Article XX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*), not by standing labels alone.",
           "gloss_line": 1381
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XVIII-A: Standing Distinction",
-          "anchor": "article-xviii-a-standing-distinction",
+          "title": "Article XIX-A: Standing Distinction",
+          "anchor": "article-xix-a-standing-distinction",
           "line": 1413,
           "gloss": "trust-sensitive roles may open when verified readiness meets a published **competency bar** and **competency clearance** is in force — and may stay closed or limited through **standing locks** while a **verified violation finding** still needs correction. **governance-voting** locks pause foundational governance vote; **stakeholder-participation** locks limit stake-weighted voice inside an authorized system — they are not interchangeable, and stakeholder status is not erased by the latter. Neither named pathway is popularity, insider gatekeeping, or a substitute for dignity. Accusations alone are not violation findings; locks must fit what was actually verified and leave a real path to challenge and remedy.",
           "gloss_line": 1437
@@ -7417,8 +7426,8 @@
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XVIII-B: Contestability and Proportional Restriction Limits",
-          "anchor": "article-xviii-b-contestability-and-proportional-restriction-limits",
+          "title": "Article XIX-B: Contestability and Proportional Restriction Limits",
+          "anchor": "article-xix-b-contestability-and-proportional-restriction-limits",
           "line": 1463,
           "gloss": "standing records, competency bars, competency clearances, and standing locks must all be open to challenge through real review paths — restrictions must come with reasons, fit the verified finding, and stay no broader than process or safety needs. Allegations and intake labels are not standing verdicts. Standing discipline alone must never cut off survival essentials or constitutionally required audit, challenge, and remedy pathways.",
           "gloss_line": 1492
@@ -7426,8 +7435,8 @@
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XVIII-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-          "anchor": "article-xviii-c-good-standing-responsibility-and-continuous-audit",
+          "title": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
+          "anchor": "article-xix-c-good-standing-responsibility-and-continuous-audit",
           "line": 1530,
           "gloss": "ordinary participation named pathways stay open under published, contestable eligibility rules based on present evidence — not brand, scale, or past reputation. Opening a trust-sensitive named pathway requires competency clearance against its published competency bar; closing a privilege requires a standing lock on that named pathway. Standing locks cannot permanently strip foundational voice, except that a **final** **Chapter Eleven** classification of **anti-constitutional misconduct** withholds that voice until **full restitution** as stated in [**Chapter Thirteen §4.1 Entitlement and eligibility**](core_13_governance.md#41-entitlement-and-eligibility).",
           "gloss_line": 1558
@@ -7435,155 +7444,155 @@
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XVIII-D: Movement, Migration, Refuge, and Non-Statelessness Routing",
-          "anchor": "article-xviii-d-movement-migration-and-refuge",
+          "title": "Article XIX-D: Movement, Migration, Refuge, and Non-Statelessness Routing",
+          "anchor": "article-xix-d-movement-migration-and-refuge",
           "line": 1585,
-          "gloss": "standing status is not a border, exile, or statelessness tool — you cannot lose movement, refuge, or exit rights just because your role standing dropped or a standing lock blocked trust-sensitive named pathways. Verified violence, coercion, or anti-constitutional misconduct can still lead to lawful detention, custody, or other liberty restrictions under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and full process protections; those are separate justice measures, not a standing-label workaround. If a case involves movement, migration, refuge, portability, recognition, or exit, **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) supplies the governing floor.",
+          "gloss": "standing status is not a border, exile, or statelessness tool — you cannot lose movement, refuge, or exit rights just because your role standing dropped or a standing lock blocked trust-sensitive named pathways. Verified violence, coercion, or anti-constitutional misconduct can still lead to lawful detention, custody, or other liberty restrictions under **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and full process protections; those are separate justice measures, not a standing-label workaround. If a case involves movement, migration, refuge, portability, recognition, or exit, **Article XX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) supplies the governing floor.",
           "gloss_line": 1597
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
-          "title": "Article XIX: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
-          "anchor": "article-xix-interoperability-portability-and-exit-integrity",
+          "title": "Article XX: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
+          "anchor": "article-xx-interoperability-portability-and-exit-integrity",
           "line": 1607,
-          "gloss": "**Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) is the exit-and-mobility Rights Floor — you should be able to leave a system or place that no longer serves you, take your data and identity with you, connect to alternatives without being trapped, move between jurisdictions, seek refuge from regimes that violate this Constitution, and never be left without anyone responsible for your basic protections. Exit on paper is not enough: portability, notice, and refuge must work in practice. Tricks that make leaving costly, confusing, or impossible — opaque formats, surprise rule changes, coercive terms, endless paperwork — are violations, not normal business.",
+          "gloss": "**Article XX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) is the exit-and-mobility Rights Floor — you should be able to leave a system or place that no longer serves you, take your data and identity with you, connect to alternatives without being trapped, move between jurisdictions, seek refuge from regimes that violate this Constitution, and never be left without anyone responsible for your basic protections. Exit on paper is not enough: portability, notice, and refuge must work in practice. Tricks that make leaving costly, confusing, or impossible — opaque formats, surprise rule changes, coercive terms, endless paperwork — are violations, not normal business.",
           "gloss_line": 1632
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XIX-A: Portability Rights",
-          "anchor": "article-xix-a-portability-rights",
-          "line": 1661,
+          "title": "Article XX-A: Portability Rights",
+          "anchor": "article-xx-a-portability-rights",
+          "line": 1660,
           "gloss": "data, identity, and operational state must be practically movable — formats, delays, and retaliatory terms cannot be used to trap users.",
-          "gloss_line": 1680
+          "gloss_line": 1679
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XIX-B: Reciprocal Interoperability Boundaries",
-          "anchor": "article-xix-b-reciprocal-interoperability-boundaries",
-          "line": 1691,
+          "title": "Article XX-B: Reciprocal Interoperability Boundaries",
+          "anchor": "article-xx-b-reciprocal-interoperability-boundaries",
+          "line": 1690,
           "gloss": "systems that others depend on must publish their integration terms and give real notice before narrowing them.",
-          "gloss_line": 1710
+          "gloss_line": 1709
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XIX-C: Anti-Lock-In Rule",
-          "anchor": "article-xix-c-anti-lock-in-rule",
-          "line": 1717,
+          "title": "Article XX-C: Anti-Lock-In Rule",
+          "anchor": "article-xx-c-anti-lock-in-rule",
+          "line": 1716,
           "gloss": "\"features\" that exist mainly to make leaving difficult are violations, not business strategy.",
-          "gloss_line": 1736
+          "gloss_line": 1735
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XIX-D: Movement, Migration, Refuge, and Non-Statelessness",
-          "anchor": "article-xix-d-movement-migration-refuge-and-non-statelessness",
-          "line": 1748,
+          "title": "Article XX-D: Movement, Migration, Refuge, and Non-Statelessness",
+          "anchor": "article-xx-d-movement-migration-refuge-and-non-statelessness",
+          "line": 1747,
           "gloss": "every sentient may move between jurisdictions, may seek refuge from regimes that violate this Constitution, and may not be left with zero recognizing regime. That is not a mandate that any particular adopter absorb coerced mass outflows — origin regimes keep primary recognition duty, with federation or shared transitional recognition as backup. Bureaucratic delay and arguments that fail Sentience Non-Exclusion cannot be used as hidden denials. Whether climate making a place unlivable is, by itself, a reason to grant refuge is for adopters to decide; this Article does not pick a yes or a no.",
-          "gloss_line": 1778
+          "gloss_line": 1777
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
-          "title": "Article XX: Comprehensibility and Complexity Stewardship",
-          "anchor": "article-xx-comprehensibility-and-complexity-stewardship",
-          "line": 1844,
-          "gloss": "**Article XX** (*Comprehensibility and Complexity Stewardship*) is the understandability Rights Floor — when a system materially affects your life, you are entitled to actually grasp how it works, what its limits are, and what happens when it fails. Complexity cannot be used as a wall against participation, audit, or accountability. Stewards also may not pile on needless complexity that wastes everyone's time without a real constitutional benefit.",
-          "gloss_line": 1871
+          "title": "Article XXI: Comprehensibility and Complexity Stewardship",
+          "anchor": "article-xxi-comprehensibility-and-complexity-stewardship",
+          "line": 1843,
+          "gloss": "**Article XXI** (*Comprehensibility and Complexity Stewardship*) is the understandability Rights Floor — when a system materially affects your life, you are entitled to actually grasp how it works, what its limits are, and what happens when it fails. Complexity cannot be used as a wall against participation, audit, or accountability. Stewards also may not pile on needless complexity that wastes everyone's time without a real constitutional benefit.",
+          "gloss_line": 1870
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XX-A: Proportional Comprehensibility Right",
-          "anchor": "article-xx-a-proportional-comprehensibility-right",
-          "line": 1896,
+          "title": "Article XXI-A: Proportional Comprehensibility Right",
+          "anchor": "article-xxi-a-proportional-comprehensibility-right",
+          "line": 1894,
           "gloss": "if a system materially affects **sentients**, operators, stakeholders, and oversight must actually be able to understand how it works and fails — not just specialists.",
-          "gloss_line": 1917
+          "gloss_line": 1915
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XX-B: Complexity Audit and Modularity Requirements",
-          "anchor": "article-xx-b-complexity-audit-and-modularity-requirements",
-          "line": 1931,
+          "title": "Article XXI-B: Complexity Audit and Modularity Requirements",
+          "anchor": "article-xxi-b-complexity-audit-and-modularity-requirements",
+          "line": 1929,
           "gloss": "complexity cannot be used — technically, organizationally, contractually, or procedurally — as a wall against audit, contest, or correction.",
-          "gloss_line": 1950
+          "gloss_line": 1948
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
-          "title": "Article XXI: Root Cause Analysis and Adaptive Response",
-          "anchor": "article-xxi-root-cause-analysis-and-adaptive-response",
-          "line": 1968,
-          "gloss": "**Article XXI** (*Root Cause Analysis and Adaptive Response*) is the find-the-real-problem-and-fix-it-right floor. When something breaks, degrades, or keeps failing, you are entitled to more than a press release or a band-aid. Systems must figure out what actually caused the harm — including causes that show up late or build up over time — address those causes where they can, and leave a record others can check and challenge. Quick containment is allowed; permanent fixes without honest diagnosis are not.",
-          "gloss_line": 1991
+          "title": "Article XXII: Root Cause Analysis and Adaptive Response",
+          "anchor": "article-xxii-root-cause-analysis-and-adaptive-response",
+          "line": 1966,
+          "gloss": "**Article XXII** (*Root Cause Analysis and Adaptive Response*) is the find-the-real-problem-and-fix-it-right floor. When something breaks, degrades, or keeps failing, you are entitled to more than a press release or a band-aid. Systems must figure out what actually caused the harm — including causes that show up late or build up over time — address those causes where they can, and leave a record others can check and challenge. Quick containment is allowed; permanent fixes without honest diagnosis are not.",
+          "gloss_line": 1989
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XXI-A: Diagnostic Rigor and Causal Attribution",
-          "anchor": "article-xxi-a-diagnostic-rigor-and-causal-attribution",
-          "line": 2014,
+          "title": "Article XXII-A: Diagnostic Rigor and Causal Attribution",
+          "anchor": "article-xxii-a-diagnostic-rigor-and-causal-attribution",
+          "line": 2012,
           "gloss": "root-cause findings must be written down, open to challenge, and open to correction — not sealed behind authority.",
-          "gloss_line": 2033
+          "gloss_line": 2031
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XXI-B: Auditability, Challenge, and Reversibility Preference",
-          "anchor": "article-xxi-b-auditability-challenge-and-reversibility-preference",
-          "line": 2046,
+          "title": "Article XXII-B: Auditability, Challenge, and Reversibility Preference",
+          "anchor": "article-xxii-b-auditability-challenge-and-reversibility-preference",
+          "line": 2044,
           "gloss": "when you are not sure, pick the fix you can walk back. Uncertainty cannot be used as a reason to freeze protection or to pretend permanent measures are certain.",
-          "gloss_line": 2065
+          "gloss_line": 2063
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
-          "title": "Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
-          "anchor": "article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards",
-          "line": 2079,
-          "gloss": "**Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) is the who-gets-to-say-what-the-constitution-means floor. When constitutional questions arise, the answer must come from designated Constitutional forums — not from whoever is loudest, most powerful, or most convenient for the institution. Their rulings have to be written down with real reasons, open to independent challenge, and protected against capture by any single bloc. They cannot expand their own power, shut down review, or use \"restructuring\" to punish dissent.",
-          "gloss_line": 2103
+          "title": "Article XXIII: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
+          "anchor": "article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards",
+          "line": 2077,
+          "gloss": "**Article XXIII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) is the who-gets-to-say-what-the-constitution-means floor. When constitutional questions arise, the answer must come from designated Constitutional forums — not from whoever is loudest, most powerful, or most convenient for the institution. Their rulings have to be written down with real reasons, open to independent challenge, and protected against capture by any single bloc. They cannot expand their own power, shut down review, or use \"restructuring\" to punish dissent.",
+          "gloss_line": 2101
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XXII-A: Bounded Interpretive Mandate",
-          "anchor": "article-xxii-a-bounded-interpretive-mandate",
-          "line": 2125,
+          "title": "Article XXIII-A: Bounded Interpretive Mandate",
+          "anchor": "article-xxiii-a-bounded-interpretive-mandate",
+          "line": 2123,
           "gloss": "Constitutional forums rule on constitutional questions, not on everything. They cannot quietly expand their own turf or shut down challenge pathways.",
-          "gloss_line": 2145
+          "gloss_line": 2143
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XXII-B: Composition, Rotation, and Conflict Controls",
-          "anchor": "article-xxii-b-composition-rotation-and-conflict-controls",
-          "line": 2161,
+          "title": "Article XXIII-B: Composition, Rotation, and Conflict Controls",
+          "anchor": "article-xxiii-b-composition-rotation-and-conflict-controls",
+          "line": 2159,
           "gloss": "no single bloc may control **Constitutional forums** — the bodies that decide what the Constitution means. The sentients who sit on those panels, and the authorities that appoint them, must disclose conflicts in real time. Vacancy, rotation, and recusal rules must not be used to rig outcomes. If a panelist stays on a case while materially compromised, that can count as serious misconduct — and the dispute goes to **Integrity** forums first, not back to the same **Constitutional** panel to judge itself.",
-          "gloss_line": 2181
+          "gloss_line": 2179
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XXII-C: Public Reasons, Challenge Rights, and External Review",
-          "anchor": "article-xxii-c-public-reasons-challenge-rights-and-external-review",
-          "line": 2196,
+          "title": "Article XXIII-C: Public Reasons, Challenge Rights, and External Review",
+          "anchor": "article-xxiii-c-public-reasons-challenge-rights-and-external-review",
+          "line": 2194,
           "gloss": "interpretive decisions must be published with real reasons and are open to structurally independent review — not re-reviewed by the same body that made them. On a regular schedule, **Integrity** forums also conduct mandatory outside checkups on **Constitutional** forums for capture, decision quality, and Rights-Floor integrity.",
-          "gloss_line": 2215
+          "gloss_line": 2213
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XXII-D: Removal for Cause and Non-Entrenchment",
-          "anchor": "article-xxii-d-removal-for-cause-and-non-entrenchment",
-          "line": 2239,
+          "title": "Article XXIII-D: Removal for Cause and Non-Entrenchment",
+          "anchor": "article-xxiii-d-removal-for-cause-and-non-entrenchment",
+          "line": 2237,
           "gloss": "**Constitutional forum** panelists can be removed for real cause through due process — but **appointing authorities** and **adopting institutions** must not use \"removal,\" \"restructuring,\" or \"redesign\" as weapons against forum independence or dissent.",
-          "gloss_line": 2258
+          "gloss_line": 2256
         }
       ]
     },
@@ -7608,23 +7617,23 @@
           "title": "Part D: Justice, constitutional review, evolution, and transition",
           "anchor": "part-d-justice-constitutional-review-evolution-and-transition",
           "line": 23,
-          "gloss": "Part D covers justice, review-and-resolution discipline, constitutional evolution, and transition — Articles XXIII through XXVI, including re-baselining under **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*).",
+          "gloss": "Part D covers justice, review-and-resolution discipline, constitutional evolution, and transition — Articles XXIV through XXVII, including re-baselining under **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*).",
           "gloss_line": 27
         },
         {
           "file": "core_06_rights_part_d.md",
           "level": 3,
-          "title": "Article XXIII: Conflict Resolution, Escalation, and Emergency Proportionality",
-          "anchor": "article-xxiii-conflict-resolution-escalation-and-emergency-proportionality",
+          "title": "Article XXIV: Conflict Resolution, Escalation, and Emergency Proportionality",
+          "anchor": "article-xxiv-conflict-resolution-escalation-and-emergency-proportionality",
           "line": 70,
-          "gloss": "**Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) is the justice-and-resolution Rights Floor. When sentients, systems, or institutions collide over constitutional Rights Floors, the answer is not revenge, indefinite delay, or a permanent state of emergency. The answer is a fair process of **violation**, **correction**, and **prevention** — stopping harm, repairing damage, and reducing recurrence — scaled to how much is at stake. That process must give affected sentients a real voice, independent review, remedies that reach the right actors, and resolution within time limits that matter. Those are the four duties of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad): **participation**, **oversight**, **accountability**, and **timeliness**. They serve the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims): **Flourishing** (protecting wellbeing and meaningful agency) and **Continuity** (keeping crises temporary and shared systems stable enough to recover). Escalation and emergency measures are allowed when truly necessary — but only at the smallest restriction that works, for as long as needed and no longer, with review and disclosure afterward.",
+          "gloss": "**Article XXIV** (*Conflict Resolution, Escalation, and Emergency Proportionality*) is the justice-and-resolution Rights Floor. When sentients, systems, or institutions collide over constitutional Rights Floors, the answer is not revenge, indefinite delay, or a permanent state of emergency. The answer is a fair process of **violation**, **correction**, and **prevention** — stopping harm, repairing damage, and reducing recurrence — scaled to how much is at stake. That process must give affected sentients a real voice, independent review, remedies that reach the right actors, and resolution within time limits that matter. Those are the four duties of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad): **participation**, **oversight**, **accountability**, and **timeliness**. They serve the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims): **Flourishing** (protecting wellbeing and meaningful agency) and **Continuity** (keeping crises temporary and shared systems stable enough to recover). Escalation and emergency measures are allowed when truly necessary — but only at the smallest restriction that works, for as long as needed and no longer, with review and disclosure afterward.",
           "gloss_line": 91
         },
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
-          "title": "Article XXIII-A: Justice Objective and Scope",
-          "anchor": "article-xxiii-a-justice-objective-and-scope",
+          "title": "Article XXIV-A: Justice Objective and Scope",
+          "anchor": "article-xxiv-a-justice-objective-and-scope",
           "line": 109,
           "gloss": "justice works through **violation**, **correction**, and **prevention**. Address what went wrong, fix what was broken and what caused it, and keep it from happening again — not inflict suffering for its own sake.",
           "gloss_line": 131
@@ -7632,8 +7641,8 @@
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
-          "title": "Article XXIII-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints",
-          "anchor": "article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
+          "title": "Article XXIV-B: Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints",
+          "anchor": "article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
           "line": 142,
           "gloss": "serious restrictions on a sentient must simultaneously be safety-necessary, proportionate, restorative, individualized, and supported by real evidence. Violent sentients must be imprisoned when that is necessary to protect others. Verified anti-constitutional misconduct and its imprisonment requirements are governed by **Chapter Eleven** §4.2 (*Prevention — anti-constitutional locks*). Deprivation of life as a justice measure is absolutely off-limits — no tier, emergency, or transition reopens it.",
           "gloss_line": 162
@@ -7641,17 +7650,17 @@
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
-          "title": "Article XXIII-C: Least-Restrictive and Time-Bounded Rule",
-          "anchor": "article-xxiii-c-least-restrictive-and-time-bounded-rule",
+          "title": "Article XXIV-C: Least-Restrictive and Time-Bounded Rule",
+          "anchor": "article-xxiv-c-least-restrictive-and-time-bounded-rule",
           "line": 188,
-          "gloss": "use the lightest effective measure, set a clock on it, build in review and restoration, and never let \"severity\" or \"convenience\" erase dignity or appeal rights. Killing is never allowed; imprisonment is required for violent sentients under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and for verified anti-constitutional misconduct under **Chapter Eleven** §4.1 (*Remedy and correction (anti-constitutional)*) when lesser measures will not keep others safe.",
+          "gloss": "use the lightest effective measure, set a clock on it, build in review and restoration, and never let \"severity\" or \"convenience\" erase dignity or appeal rights. Killing is never allowed; imprisonment is required for violent sentients under **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and for verified anti-constitutional misconduct under **Chapter Eleven** §4.1 (*Remedy and correction (anti-constitutional)*) when lesser measures will not keep others safe.",
           "gloss_line": 207
         },
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
-          "title": "Article XXIII-D: Emergency Measures and Continuation Burden",
-          "anchor": "article-xxiii-d-emergency-measures-and-continuation-burden",
+          "title": "Article XXIV-D: Emergency Measures and Continuation Burden",
+          "anchor": "article-xxiv-d-emergency-measures-and-continuation-burden",
           "line": 231,
           "gloss": "emergencies can justify temporary measures, but they must have a real clock, real review, and cannot become a permanent workaround around ordinary rights — including when someone invokes existential risk. Contain now; restore notice and challenge on the same stake-scaled clocks already used for forum resolution — not whenever someone later calls it “feasible.”",
           "gloss_line": 256
@@ -7659,17 +7668,17 @@
         {
           "file": "core_06_rights_part_d.md",
           "level": 3,
-          "title": "Article XXIV: Timely Retrospective Review and Restorative Alignment",
-          "anchor": "article-xxiv-timely-retrospective-review-and-restorative-alignment",
+          "title": "Article XXV: Timely Retrospective Review and Restorative Alignment",
+          "anchor": "article-xxv-timely-retrospective-review-and-restorative-alignment",
           "line": 296,
-          "gloss": "**Article XXIV** (*Timely Retrospective Review and Restorative Alignment*) is the review-and-resolution companion to **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*). After emergencies or serious rights conflicts, systems must look back honestly, disclose what can be disclosed, resolve rights collisions on the record, and keep restoration tied to real protection — on clocks that match what's at stake. [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional) binds each step: without it, the other duties hollow out while harm sits unresolved.",
+          "gloss": "**Article XXV** (*Timely Retrospective Review and Restorative Alignment*) is the review-and-resolution companion to **Article XXIV** (*Conflict Resolution, Escalation, and Emergency Proportionality*). After emergencies or serious rights conflicts, systems must look back honestly, disclose what can be disclosed, resolve rights collisions on the record, and keep restoration tied to real protection — on clocks that match what's at stake. [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional) binds each step: without it, the other duties hollow out while harm sits unresolved.",
           "gloss_line": 318
         },
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
-          "title": "Article XXIV-A: Retrospective Review and Disclosure",
-          "anchor": "article-xxiv-a-retrospective-review-and-disclosure",
+          "title": "Article XXV-A: Retrospective Review and Disclosure",
+          "anchor": "article-xxv-a-retrospective-review-and-disclosure",
           "line": 328,
           "gloss": "after the emergency, look back honestly and publish what you find — with only narrow, time-limited confidentiality.",
           "gloss_line": 347
@@ -7677,8 +7686,8 @@
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
-          "title": "Article XXIV-B: Rights-Collision Procedure and Restorative Alignment",
-          "anchor": "article-xxiv-b-rights-collision-procedure-and-restorative-alignment",
+          "title": "Article XXV-B: Rights-Collision Procedure and Restorative Alignment",
+          "anchor": "article-xxv-b-rights-collision-procedure-and-restorative-alignment",
           "line": 365,
           "gloss": "rights conflicts must be resolved on the record; restoration is preferred where appropriate but must not replace real protection. Voluntary public apology rules are governed by **Chapter Ten** §4.3 (*Voluntary public accountability expression*) generally, and by **Chapter Eleven** §4.3 (*Voluntary public accountability expression (anti-constitutional)*) for verified anti-constitutional misconduct.",
           "gloss_line": 385
@@ -7686,8 +7695,8 @@
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
-          "title": "Article XXIV-C: Timely Resolution and Anti-Delay Floor",
-          "anchor": "article-xxiv-c-timely-resolution-and-anti-delay-floor",
+          "title": "Article XXV-C: Timely Resolution and Anti-Delay Floor",
+          "anchor": "article-xxv-c-timely-resolution-and-anti-delay-floor",
           "line": 403,
           "gloss": "constitutional problem resolution is a coordination and restoration system — quick, efficient, and just — not a warehouse where harm sits for years. Material disputes must move on bounded clocks through intake, verification, standing measurement, integration, and remedy. Moving quickly is not an excuse to skip fact-checking, punish the wrong party, offer a fix that does not fit the harm, or cut off challenge and appeal.",
           "gloss_line": 428
@@ -7695,17 +7704,17 @@
         {
           "file": "core_06_rights_part_d.md",
           "level": 3,
-          "title": "Article XXV: Constitutional Evolution and Non-Entrenchment",
-          "anchor": "article-xxv-constitutional-evolution-and-non-entrenchment",
+          "title": "Article XXVI: Constitutional Evolution and Non-Entrenchment",
+          "anchor": "article-xxvi-constitutional-evolution-and-non-entrenchment",
           "line": 450,
-          "gloss": "**Article XXV** (*Constitutional Evolution and Non-Entrenchment*) is the no-permanent-lock-in floor for how we govern ourselves. Rules for who decides, how sentients participate, how votes are weighted, and how money flows must keep proving they still serve the Constitution — they cannot freeze in place just because they are old, familiar, or convenient for those already in power. When the Constitution itself evolves, that change must happen in the open, with stated reasons — not through emergency shortcuts or hidden implementation tricks. Review must speed up when capture, exclusion, or failure signals show up.",
+          "gloss": "**Article XXVI** (*Constitutional Evolution and Non-Entrenchment*) is the no-permanent-lock-in floor for how we govern ourselves. Rules for who decides, how sentients participate, how votes are weighted, and how money flows must keep proving they still serve the Constitution — they cannot freeze in place just because they are old, familiar, or convenient for those already in power. When the Constitution itself evolves, that change must happen in the open, with stated reasons — not through emergency shortcuts or hidden implementation tricks. Review must speed up when capture, exclusion, or failure signals show up.",
           "gloss_line": 454
         },
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
-          "title": "Article XXV-A: Non-Entrenchment and Revisability",
-          "anchor": "article-xxv-a-non-entrenchment-and-revisability",
+          "title": "Article XXVI-A: Non-Entrenchment and Revisability",
+          "anchor": "article-xxvi-a-non-entrenchment-and-revisability",
           "line": 470,
           "gloss": "governance must earn its continued authority through regular review — and must be reviewed faster when capture, exclusion, or failure is showing up.",
           "gloss_line": 489
@@ -7713,8 +7722,8 @@
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
-          "title": "Article XXV-B: Periodic Revalidation and Transparent Change",
-          "anchor": "article-xxv-b-periodic-revalidation-and-transparent-change",
+          "title": "Article XXVI-B: Periodic Revalidation and Transparent Change",
+          "anchor": "article-xxvi-b-periodic-revalidation-and-transparent-change",
           "line": 501,
           "gloss": "constitutional change must happen in the open, with stated reasons — not through emergency, implementation, or custody shortcuts.",
           "gloss_line": 520
@@ -7722,17 +7731,17 @@
         {
           "file": "core_06_rights_part_d.md",
           "level": 3,
-          "title": "Article XXVI: Transition Governance, Continuity, and Re-Baselining",
-          "anchor": "article-xxvi-transition-governance-continuity-and-re-baselining",
+          "title": "Article XXVII: Transition Governance, Continuity, and Re-Baselining",
+          "anchor": "article-xxvii-transition-governance-continuity-and-re-baselining",
           "line": 534,
-          "gloss": "**Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) is the moving-day floor. When a community shifts from legacy systems to constitutional operation, that shift must happen in steps — with basic Rights Floors still in force at every step, clear deadlines, and real review. Temporary transition powers are allowed when truly needed, but they must stay temporary. A transition that is going well shows it: interim powers keep getting smaller, and the Constitution's normal institutions and processes — forums, standing and challenge paths, oversight, and ordinary governance — keep working better and carrying more of the load. A stalled or failed transition cannot quietly become the new normal, and interim rules cannot be used to rewrite the Constitution by the back door. If things break down, there must be a lawful off-ramp and a traceable path to re-baseline — not indefinite limbo — and that reset is not trustworthy if the machinery meant to tell the truth about systems and conduct keeps rubber-stamping misalignment or misreading real harm.",
+          "gloss": "**Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) is the moving-day floor. When a community shifts from legacy systems to constitutional operation, that shift must happen in steps — with basic Rights Floors still in force at every step, clear deadlines, and real review. Temporary transition powers are allowed when truly needed, but they must stay temporary. A transition that is going well shows it: interim powers keep getting smaller, and the Constitution's normal institutions and processes — forums, standing and challenge paths, oversight, and ordinary governance — keep working better and carrying more of the load. A stalled or failed transition cannot quietly become the new normal, and interim rules cannot be used to rewrite the Constitution by the back door. If things break down, there must be a lawful off-ramp and a traceable path to re-baseline — not indefinite limbo — and that reset is not trustworthy if the machinery meant to tell the truth about systems and conduct keeps rubber-stamping misalignment or misreading real harm.",
           "gloss_line": 538
         },
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
-          "title": "Article XXVI-A: Phased Adoption and Rights-Floor Continuity",
-          "anchor": "article-xxvi-a-phased-adoption-and-rightsfloor-minimums-continuity",
+          "title": "Article XXVII-A: Phased Adoption and Rights-Floor Continuity",
+          "anchor": "article-xxvii-a-phased-adoption-and-rightsfloor-minimums-continuity",
           "line": 557,
           "gloss": "transitions move forward by meeting real gates, not by clocks or pressure — and Rights-Floor minimums stay in force at every phase.",
           "gloss_line": 578
@@ -7740,8 +7749,8 @@
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
-          "title": "Article XXVI-B: Transitional Authority Limits and Reauthorization",
-          "anchor": "article-xxvi-b-transitional-authority-limits-and-reauthorization",
+          "title": "Article XXVII-B: Transitional Authority Limits and Reauthorization",
+          "anchor": "article-xxvii-b-transitional-authority-limits-and-reauthorization",
           "line": 607,
           "gloss": "temporary authority really is temporary — and a transition that is going well shows it. You should see interim powers shrinking phase by phase while constitutional forums, rights processes, and ordinary governance machinery work better and take on more of the load. Extending temporary authority requires real reasons — and the longer it runs, the higher the bar.",
           "gloss_line": 626
@@ -7749,8 +7758,8 @@
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
-          "title": "Article XXVI-C: Failure Off-Ramps, Re-Baselining, and Traceability",
-          "anchor": "article-xxvi-c-failure-off-ramps-re-baselining-and-traceability",
+          "title": "Article XXVII-C: Failure Off-Ramps, Re-Baselining, and Traceability",
+          "anchor": "article-xxvii-c-failure-off-ramps-re-baselining-and-traceability",
           "line": 643,
           "gloss": "when a transition stalls or fails, there must be a real off-ramp — and a stalled state cannot quietly become the new normal. Resetting the plan is allowed, but only through lawful process, with reasons anyone can check — and never by lowering basic Rights Floors. A reset is not trustworthy if alignment certification keeps blessing misaligned systems or standing review keeps misreading real harm; fix that truth-telling machinery first, or governance is structurally unreliable no matter how polished the new plan looks.",
           "gloss_line": 663
@@ -7758,8 +7767,8 @@
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
-          "title": "Article XXVI-D: Non-Compliant Property and Systems; Voluntary Turnover Incentives",
-          "anchor": "article-xxvi-d-non-compliant-property-and-systems-voluntary-turnover-incentives",
+          "title": "Article XXVII-D: Non-Compliant Property and Systems; Voluntary Turnover Incentives",
+          "anchor": "article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives",
           "line": 681,
           "gloss": "non-compliant systems and property can be remediated during transition — but only through narrow, documented, reviewable processes that protect basic Rights Floors, bar pretext, and do not turn into retaliation or political targeting. How institutions carry that out — roles, triggers, custody, appeals, funds, and incentive mechanics — lives in **CI-14.1** through **CI-14.3**.",
           "gloss_line": 702

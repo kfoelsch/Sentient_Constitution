@@ -48,7 +48,7 @@ This family operationalizes the constitutional [Continuity aim](../core_00_pream
 - Read with: **CJS-3.3 — Auditability**
 - Read with: **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*)
-- Read with: **Article XV-A** (*Auditability and Observable Evidence*)
+- Read with: **Article XVI-A** (*Auditability and Observable Evidence*)
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — not protocol or forum continuity alone.
 - Chapter One basis: §8.1, §12.1, §9 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
@@ -258,10 +258,10 @@ Substitutability, exit constraints, and mitigation duties
 - Read with: [**CS-2**](../corpus_systems/cs_02_a_information_types_and_handling.md)
 - Read with: [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md)
 - Read with: [**CS-4**](../corpus_systems/cs_04_critical_system_stewardship.md)
-- Read with: **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*)
+- Read with: **Article XX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*)
 - Read with: **Article II-E** (*Data Handling and Network Dependency*)
 - Read with: **Article II-F** (*Continuity and Operator Shutdown*)
-- Read with: **Article XV-A** (*Auditability and Observable Evidence*)
+- Read with: **Article XVI-A** (*Auditability and Observable Evidence*)
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — exit paths preserve lawful agency and system survivability.
 - Chapter One basis: §8.1, §11.1, §12.1, §8, §9 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
@@ -1044,7 +1044,7 @@ Signaling integrity and anti-silent-failure controls
 - Read with: **CJS-3.4 — Tiered Transparency and Audit Access**
 - Read with: **CJS-3.5 — Independent Verification and Integrity of Claims**
 - Read with: [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*)
-- Read with: **Article XVI** (*System Lifecycle, Environments, and Reversibility*) and **Article XII-F** (*Resilience and Self-Healing Baseline*)
+- Read with: **Article XVII** (*System Lifecycle, Environments, and Reversibility*) and **Article XIII-F** (*Resilience and Self-Healing Baseline*)
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — reversibility protects against irreversible constitutional harm.
 - Chapter One basis: §8.1, §11.1, §12.1, §9 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
@@ -1175,7 +1175,7 @@ Rollback and containment capability
 - Read with: **CJS-3.12 — Burden of Justification and Constraint**
 - Read with: **CJS-3.22 — Constrained Secrecy and Protected Investigations**
 - Read with: [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*)
-- Read with: **Article XII** (*Right to Reliable and Trustworthy Systems*)
+- Read with: **Article XIII** (*Right to Reliable and Trustworthy Systems*)
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Continuity disambiguation: Adversarial resilience serves constitutional **Continuity** under material stake.
 - Chapter One basis: §8.1, §8.2, §12.1, §12.2, §9 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).

@@ -163,7 +163,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Developing Sentient",
         "Best-Interest Standard",
         "Graduated Capability",
-        "Article VII-E",
+        "Article VIII-B",
     ],
     "#### Def.A3 Standing State, Contribution, and Violation": [
         "Participant Standing",

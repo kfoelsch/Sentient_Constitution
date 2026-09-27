@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-09-26T18:05:23+00:00",
+  "generated_at": "2026-09-26T20:21:15+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -1309,22 +1309,22 @@
     },
     "CI-14.1": {
       "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
-      "anchor": "#ci-141-interface-article-xxvi-d-non-compliant-property-and-systems-voluntary-turnover-incentives-non-compliant-property-seizure-voluntary-incentives",
-      "heading": "CI-14.1: Interface — **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) (non-compliant property, seizure, voluntary incentives)",
+      "anchor": "#ci-141-interface-article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives-non-compliant-property-seizure-voluntary-incentives",
+      "heading": "CI-14.1: Interface — **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) (non-compliant property, seizure, voluntary incentives)",
       "line": 78,
       "kind": "section"
     },
     "CI-14.2": {
       "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
-      "anchor": "#ci-142-article-xxvi-d-non-compliant-property-and-systems-voluntary-turnover-incentives-trigger-catalog-anti-abuse-metrics-and-publication-requirements",
-      "heading": "CI-14.2: **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — trigger catalog, anti-abuse metrics, and publication requirements",
+      "anchor": "#ci-142-article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives-trigger-catalog-anti-abuse-metrics-and-publication-requirements",
+      "heading": "CI-14.2: **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — trigger catalog, anti-abuse metrics, and publication requirements",
       "line": 107,
       "kind": "section"
     },
     "CI-14.3": {
       "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
-      "anchor": "#ci-143-article-xxvi-d-operative-transition-scoped-remediation-requirements",
-      "heading": "CI-14.3: **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — operative transition-scoped remediation requirements",
+      "anchor": "#ci-143-article-xxvii-d-operative-transition-scoped-remediation-requirements",
+      "heading": "CI-14.3: **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — operative transition-scoped remediation requirements",
       "line": 154,
       "kind": "section"
     },
@@ -1357,9 +1357,9 @@
       "kind": "family"
     },
     "CI-19": {
-      "file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md",
-      "anchor": "#ci-19-vulnerable-personal-services-markets-general-regulation-and-article-x-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation-interface",
-      "heading": "CI-19: Vulnerable personal services markets — general regulation and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) interface",
+      "file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xic_interface.md",
+      "anchor": "#ci-19-vulnerable-personal-services-markets-general-regulation-and-article-xi-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation-interface",
+      "heading": "CI-19: Vulnerable personal services markets — general regulation and **Article XI-C** (*Adult consensual commercial sexual services and sexual exploitation*) interface",
       "line": 1,
       "kind": "family"
     },
@@ -5102,9 +5102,9 @@
       "line_end": 4028
     },
     {
-      "term": "Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention",
+      "term": "Protected Intimate-Signal Gating and **Article XI-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention",
       "file": "core_05_band_participation.md",
-      "anchor": "#protected-intimate-signal-gating-and-article-x-c-status-circumvention",
+      "anchor": "#protected-intimate-signal-gating-and-article-xi-c-status-circumvention",
       "line_start": 1262,
       "line_end": 1353
     },
@@ -5853,7 +5853,7 @@
       },
       {
         "avoid": "stakeholder governance",
-        "prefer": "Stakeholder System Participation (voice inside already-authorized systems); Article XI by name when the Rights Floor is the point; Preamble §3.3"
+        "prefer": "Stakeholder System Participation (voice inside already-authorized systems); Article XII by name when the Rights Floor is the point; Preamble §3.3"
       },
       {
         "avoid": "constitutional governance",

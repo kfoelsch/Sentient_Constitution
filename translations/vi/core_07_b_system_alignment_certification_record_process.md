@@ -11,9 +11,9 @@
 >
 > Nó chứa **Chương Bảy, Phần B** — nội dung **hồ sơ** chứng nhận, minh bạch và khả năng tranh biện, vai trò thành phần của diễn đàn, trình tự giám sát, cầu quỹ đạo, và mở lại (**§11–§16**, tiếp từ Phần A §1–§10). **Phần A** — yêu cầu đánh giá — nằm ở [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md).
 >
-> - **Chủ sở hữu hiến pháp (chung với Phần A):** **chứng nhận thẳng hàng hệ thống và hồ sơ liên quan** được diễn đàn giám sát. Dưới trụ **giám sát** của Tứ diện, SAC là một quy trình kiểm toán đặc biệt lớn, lợi hại cao giữa các quy trình khác; sàn kiểm toán vẫn ở **Điều XV** và [Khả năng kiểm toán](core_05_band_oversight.md#auditability) của Chương Năm.
+> - **Chủ sở hữu hiến pháp (chung với Phần A):** **chứng nhận thẳng hàng hệ thống và hồ sơ liên quan** được diễn đàn giám sát. Dưới trụ **giám sát** của Tứ diện, SAC là một quy trình kiểm toán đặc biệt lớn, lợi hại cao giữa các quy trình khác; sàn kiểm toán vẫn ở **Điều XVI** và [Khả năng kiểm toán](core_05_band_oversight.md#auditability) của Chương Năm.
 > - **Đầu vào đánh giá:** [Phần A §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) đến [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) cung cấp đầu ra đánh giá được phản ánh trên hồ sơ chứng nhận.
-> - **Quy tắc chống dời chỗ:** Phần B không nêu lại cơ chế đánh giá của Phần A, định nghĩa chuẩn Chương Năm, đo lường quỹ đạo Chương Tám, hay hiệu ứng quỹ đạo Chương Chín. **§15** nêu rõ ranh giới cầu quỹ đạo. Phần B cũng không dời quyền kiểm toán khỏi **Điều XV** / **Def.O1** / **CJS-3.3**–**CJS-3.5**.
+> - **Quy tắc chống dời chỗ:** Phần B không nêu lại cơ chế đánh giá của Phần A, định nghĩa chuẩn Chương Năm, đo lường quỹ đạo Chương Tám, hay hiệu ứng quỹ đạo Chương Chín. **§15** nêu rõ ranh giới cầu quỹ đạo. Phần B cũng không dời quyền kiểm toán khỏi **Điều XVI** / **Def.O1** / **CJS-3.3**–**CJS-3.5**.
 >
 > **Thượng nguồn:** [Phần A](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation); giám sát diễn đàn Chương Mười Một; kỷ luật xác minh Chương Hai đến Bốn.
 > **Hạ nguồn:** hồ sơ quỹ đạo và đầu vào đã xác minh của Chương Tám; hiệu ứng quỹ đạo của Chương Chín.
@@ -85,7 +85,7 @@ Hồ sơ phải nhận diện, tối thiểu:
 - **Đánh giá không phân biệt đối xử:** phát hiện mẫu gánh-và-lợi, phát hiện đặc điểm được bảo vệ và phân biệt qua chỉ số thay, và phát hiện thành phần công bằng nội dung như [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) đòi nơi cò trọng yếu **Điều V-B** (*Không phân biệt đối xử*) áp dụng;
 - **Đánh giá khả năng tiếp cận:** phát hiện tham gia nội dung, điều chỉnh, và chống từ chối-qua-chỉ-số-thay như [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) đòi nơi cò trọng yếu **Điều V-G** (*Khả năng tiếp cận*) áp dụng;
 - **Đánh giá năng lực giáo dục và tính toàn vẹn hệ thống học:** phát hiện xây năng lực, đường dẫn đào tạo lại, minh bạch đánh giá, và khả năng tranh biện hệ thống học như [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) đòi nơi cò trọng yếu **Điều VI** (*Quyền giáo dục lấy hữu tri làm trung tâm*) áp dụng;
-- **Đánh giá đáng tin cậy và tính toàn vẹn sự dựa hệ thống:** phát hiện độ tin cậy, tin cậy giả, khuyến khích lệch, đường tranh biện, và tính toàn vẹn phục hồi như [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) đòi nơi cò trọng yếu **Điều XII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*) áp dụng;
+- **Đánh giá đáng tin cậy và tính toàn vẹn sự dựa hệ thống:** phát hiện độ tin cậy, tin cậy giả, khuyến khích lệch, đường tranh biện, và tính toàn vẹn phục hồi như [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) đòi nơi cò trọng yếu **Điều XIII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*) áp dụng;
 - **Bằng chứng kỹ thuật và bảo đảm:** chuẩn kỹ thuật, phép thử, đo, bất định, biên an toàn, kiểu thất, kết quả thử hồi quy và thử an ninh cho chu kỳ chứng nhận hoặc chứng nhận lại, và cơ sở bằng chứng được dựa có trọng;
 - **Rà soát bên bị ảnh hưởng, môi trường, và tính toàn vẹn:**
   - cân nhắc bên bị ảnh hưởng, Sàn Quyền, khả năng tiếp cận, phụ thuộc, và tham gia;
@@ -120,7 +120,7 @@ Hồ sơ chứng nhận phải phản ánh đầu ra đánh giá của:
   - [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) nơi cò trọng yếu **Điều V-B** (*Không phân biệt đối xử*) áp dụng;
   - [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) nơi cò trọng yếu **Điều V-G** (*Khả năng tiếp cận*) áp dụng;
   - [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) nơi cò trọng yếu **Điều VI** (*Quyền giáo dục lấy hữu tri làm trung tâm*) áp dụng;
-  - [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) nơi cò trọng yếu **Điều XII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*) áp dụng;
+  - [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) nơi cò trọng yếu **Điều XIII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*) áp dụng;
 - **Tính toàn vẹn hồ sơ** — [§12](#12-transparency-auditability-and-contestability); và
 - **Thứ tự giám sát và đường tranh biện** — [§14](#14-supervisory-sequence-and-contestability-chain).
 
@@ -136,7 +136,7 @@ Khi các cò trọng yếu dưới đây áp cho một **hệ thống tác độ
 
 - **Thiết yếu sống còn, giáo dục, và điều kiện an toàn:**
   - Áp dụng khi hệ thống cung, phân bổ, định giá, lưu trữ, hoặc cắt lối vào thiết yếu sống còn, lối vào giáo dục bình đẳng, hoặc [**Điều kiện an toàn**](core_05_band_continuity.md#safe-conditions-constitutional);
-  - Hồ sơ phải đánh giá liệu công nhận hoặc tiếp tục dựa có khóa hoặc hạ có trọng những sàn đó dưới **Điều III-A** (*Sinh tồn*), **Điều III-B** (*Lối vào giáo dục bình đẳng*), **Điều XII-A** (*Sàn đáng tin và đáng tin cậy*), và các quy định Chương Sáu liên quan không;
+  - Hồ sơ phải đánh giá liệu công nhận hoặc tiếp tục dựa có khóa hoặc hạ có trọng những sàn đó dưới **Điều III-A** (*Sinh tồn*), **Điều III-B** (*Lối vào giáo dục bình đẳng*), **Điều XIII-A** (*Sàn đáng tin và đáng tin cậy*), và các quy định Chương Sáu liên quan không;
 - **Quản trị có trách nhiệm tài nguyên xuyên hệ thống:**
   - Áp dụng khi hệ thống phân bổ, định tuyến, tài trợ, hoặc rút có trọng từ hạ tầng chung hoặc phụ thuộc nền mà hệ thống khác hoặc hữu tri dựa vào;
   - Hồ sơ phải đánh giá liệu công nhận hoặc tiếp tục dựa có khóa hoặc hạ có trọng **Điều IV-A** (*Ánh xạ phụ thuộc và minh bạch dòng tài nguyên*) hoặc **Điều IV-B** (*Công bằng xuyên hệ thống và bền vững*) như [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) đòi;
@@ -151,7 +151,7 @@ Khi các cò trọng yếu dưới đây áp cho một **hệ thống tác độ
   - Hồ sơ phải đánh giá liệu công nhận hoặc tiếp tục dựa có khóa hoặc hạ có trọng **Điều VI** (*Quyền giáo dục lấy hữu tri làm trung tâm*) như [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) đòi;
 - **Đáng tin cậy và sự dựa:**
   - Áp dụng khi hệ thống định hình có trọng sự dựa của hữu tri vào hành vi, giới hạn, rủi ro, đường tranh biện, hoặc khắc phục được trình bày — kể cả qua tuyên độ tin cậy, tư thế công bố, thiết kế khuyến khích, thực hành phục hồi, hoặc đường dựa tương đương;
-  - Hồ sơ phải đánh giá liệu công nhận hoặc tiếp tục dựa có khóa hoặc hạ có trọng **Điều XII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*) như [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) đòi.
+  - Hồ sơ phải đánh giá liệu công nhận hoặc tiếp tục dựa có khóa hoặc hạ có trọng **Điều XIII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*) như [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) đòi.
 
 <a id="12-transparency-auditability-and-contestability"></a>
 
@@ -162,7 +162,7 @@ Khi các cò trọng yếu dưới đây áp cho một **hệ thống tác độ
 
 - Thượng nguồn: [§11](#11-certification-record) (*nội dung hồ sơ*); [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation), [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation), [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation), [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation), [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation), [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation), [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation), và [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*đầu vào đánh giá lớp, dữ liệu, dấu chân, hỗ trợ xuyên hệ thống, không phân biệt đối xử, khả năng tiếp cận, năng lực giáo dục, và đáng tin cậy*); gia đình đo lường Giám sát (*Sự thật và tính toàn vẹn nhận thức như đo lường hiến pháp*); gia đình đo lường Kịp thời (*Giải quyết kịp thời và kỷ luật chống trì hoãn*); Chương Hai đến Bốn (*gánh, truy vết, xác minh, và bảo toàn bằng chứng*); [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) — **giám sát**, **trách nhiệm giải trình**, **tham gia**, và **kịp thời**; [**Def.O1** *Minh bạch, khả năng kiểm toán, và xác minh*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster); [Khả năng tranh biện](core_05_band_accountability.md#contestability).
 - Hạ nguồn: [§14](#14-supervisory-sequence-and-contestability-chain) (*trình tự giám sát và chuỗi khả năng tranh biện*); [§15](#15-relationship-to-standing) (*cổng đầu vào đã xác minh*); [Chương Mười Một §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests) (*hồ sơ vụ diễn đàn, tranh biện hồ sơ quỹ đạo*); [Chương Mười Một §5](core_11_forum.md#5-escalation-and-certification) (*chi tiết nâng cấp và chứng nhận*).
-- Đọc cùng: [Điều XV: Kiểm toán, minh bạch, và xác minh độc lập](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification); [Điều XII-B: Quyền tranh biện, rà soát, và khắc phục](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); [Bảo toàn bằng chứng](core_05_band_oversight.md#evidence-preservation); [corpus_systems.md](../../corpus_systems.md), **CS-2 — Loại thông tin và xử lý** và **CS-3 — Phân hạng hệ thống và xử lý**; **CJS-3.4** (*điều khoản minh bạch theo tầng và lối vào kiểm toán*).
+- Đọc cùng: [Điều XVI: Kiểm toán, minh bạch, và xác minh độc lập](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification); [Điều XIII-B: Quyền tranh biện, rà soát, và khắc phục](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress); [Bảo toàn bằng chứng](core_05_band_oversight.md#evidence-preservation); [corpus_systems.md](../../corpus_systems.md), **CS-2 — Loại thông tin và xử lý** và **CS-3 — Phân hạng hệ thống và xử lý**; **CJS-3.4** (*điều khoản minh bạch theo tầng và lối vào kiểm toán*).
 
 </details>
 
@@ -177,13 +177,13 @@ Khi các cò trọng yếu dưới đây áp cho một **hệ thống tác độ
 
 <br>
 
-*Nói thẳng: hồ sơ chứng nhận chỉ chạy được nếu hữu tri đọc được, kiểm được, và đẩy lại khi nó sai. Mục này đặt ba yêu cầu đó — minh bạch, khả năng kiểm toán, và khả năng tranh biện — trực tiếp lên chính hồ sơ, không phải lý tưởng trừu tượng. Dưới trụ **giám sát** của Tứ diện, giám sát đòi kiểm toán; chứng nhận thẳng hàng hệ thống là một quy trình kiểm toán đặc biệt lớn phải thỏa những sàn đó ở đây — nó không nắm hay thay **Điều XV** hay các kiểu kiểm toán anh em.*
+*Nói thẳng: hồ sơ chứng nhận chỉ chạy được nếu hữu tri đọc được, kiểm được, và đẩy lại khi nó sai. Mục này đặt ba yêu cầu đó — minh bạch, khả năng kiểm toán, và khả năng tranh biện — trực tiếp lên chính hồ sơ, không phải lý tưởng trừu tượng. Dưới trụ **giám sát** của Tứ diện, giám sát đòi kiểm toán; chứng nhận thẳng hàng hệ thống là một quy trình kiểm toán đặc biệt lớn phải thỏa những sàn đó ở đây — nó không nắm hay thay **Điều XVI** hay các kiểu kiểm toán anh em.*
 
 Mục này áp [Minh bạch](core_05_band_oversight.md#transparency), [Khả năng kiểm toán](core_05_band_oversight.md#auditability), và [Khả năng tranh biện](core_05_band_accountability.md#contestability) cho hồ sơ chứng nhận thẳng hàng hệ thống. Nhà thuật ngữ chuẩn và ranh giới chủ sở hữu nằm dưới [Lời nói đầu — sổ đăng ký chủ sở hữu dương](core_00_preamble.md#4-principles-definitions-and-rights) và [Chồng thẩm quyền và thứ bậc nội bộ](core_05_band_integrative.md#owner-non-relocation). Dưới [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad):
 
 - **Minh bạch** và **khả năng kiểm toán** triển khai **giám sát**;
 - **Khả năng tranh biện** triển khai **trách nhiệm giải trình** và giữ **tham gia** trên các đường tranh biện;
-- Rõ hồ sơ và đồng hồ tranh biện dưới **Điều XXIV-C** (*Sàn Giải quyết kịp thời và Chống trì hoãn*) triển khai **kịp thời** chia tỷ lệ theo lớp hệ thống và [lợi hại vật chất](core_00_preamble.md#material-stake).
+- Rõ hồ sơ và đồng hồ tranh biện dưới **Điều XXV-C** (*Sàn Giải quyết kịp thời và Chống trì hoãn*) triển khai **kịp thời** chia tỷ lệ theo lớp hệ thống và [lợi hại vật chất](core_00_preamble.md#material-stake).
 
 **Minh bạch** — hữu tri phải thấy được điều có trọng:
 
@@ -283,9 +283,9 @@ Mục này gán **vai trò thành phần** của họ diễn đàn trong **chứ
     - **Năng lực giáo dục lấy hữu tri làm trung tâm** dưới **Điều VI** (*Quyền giáo dục lấy hữu tri làm trung tâm*) — kể cả đánh giá dưới [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) nơi cò trọng yếu đó áp dụng;
     - **Sàn không phân biệt đối xử** dưới **Điều V-B** (*Không phân biệt đối xử*) — kể cả đánh giá dưới [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) nơi cò trọng yếu đó áp dụng;
     - **Sàn khả năng tiếp cận** dưới **Điều V-G** (*Khả năng tiếp cận*) — kể cả đánh giá dưới [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) nơi cò trọng yếu đó áp dụng;
-    - **Hành vi hệ thống đáng tin và đáng tin cậy** dưới **Điều XII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*) — kể cả đánh giá dưới [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) nơi cò trọng yếu đó áp dụng;
+    - **Hành vi hệ thống đáng tin và đáng tin cậy** dưới **Điều XIII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*) — kể cả đánh giá dưới [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) nơi cò trọng yếu đó áp dụng;
     - **Sàn phân bổ tài nguyên và phụ thuộc** dưới **Điều IV** (*Phân bổ tài nguyên, phụ thuộc, và tài trợ hệ sinh thái*) — kể cả [Đóng góp xuyên hệ thống tương xứng](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) dưới [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) nơi bị kéo có trọng;
-    - **Sàn liên quan an toàn** dưới **Điều XII-A** (*Sàn đáng tin và đáng tin cậy*) và [**Điều kiện an toàn**](core_05_band_continuity.md#safe-conditions-constitutional) nơi bị kéo có trọng.
+    - **Sàn liên quan an toàn** dưới **Điều XIII-A** (*Sàn đáng tin và đáng tin cậy*) và [**Điều kiện an toàn**](core_05_band_continuity.md#safe-conditions-constitutional) nơi bị kéo có trọng.
 - **Hiến pháp** và các họ diễn đàn thường khác — lợi hại hiến pháp và phần dư:
   - Giữ thẩm quyền thành phần đã gán cho hiệu lực hiến pháp, nghĩa, khắc phục cấu trúc cả lớp, hoặc câu hỏi lợi hại chính khác mà Chương Mười Một gán ngoài các họ trên;
   - Quy trình chứng nhận không được để chuyên môn kỹ thuật hay phối hợp Toàn vẹn đẩy các vai trò xét nội dung đã gán đó.
@@ -299,7 +299,7 @@ Mục này gán **vai trò thành phần** của họ diễn đàn trong **chứ
 
 - Thượng nguồn: [§11](#11-certification-record) (*nội dung hồ sơ*); [§12](#12-transparency-auditability-and-contestability) (*yêu cầu tính toàn vẹn hồ sơ*); [§13](#13-forum-supervision-and-component-roles) (*gán vai trò thành phần*); gia đình đo lường Kịp thời (*Giải quyết kịp thời và kỷ luật chống trì hoãn*); [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) — **tham gia**, **giám sát**, **trách nhiệm giải trình**, và **kịp thời**; [Chương Mười Một §4](core_11_forum.md#4-forum-family-definitions) (*công nhận thẳng hàng do Toàn vẹn dẫn, chuyển thành phần, và xác nhận*); [Chương Mười Một §3](core_11_forum.md#3-transfer-consolidation-and-coordination) (*phối hợp thẳng hàng do Toàn vẹn dẫn và chống tự xét*).
 - Hạ nguồn: [§15](#15-relationship-to-standing) (*cổng đầu vào đã xác minh*); [§16](#16-reopening-drift-and-non-evasion) (*cò mở lại*); [Chương Mười Một §5](core_11_forum.md#5-escalation-and-certification) (*nâng cấp họ-sang-họ và chứng nhận hiến pháp*).
-- Đọc cùng: [Trình tự tranh chấp](core_11_forum.md#dispute-sequencing) dưới Chương Mười Một §1; [Lời nói đầu §3.3](core_00_preamble.md#33-governance-layers); [corpus_forum.md](../../corpus_forum.md), **CF-5** và **CF-7**; [Điều XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Quyền tranh biện, rà soát, và khắc phục*).
+- Đọc cùng: [Trình tự tranh chấp](core_11_forum.md#dispute-sequencing) dưới Chương Mười Một §1; [Lời nói đầu §3.3](core_00_preamble.md#33-governance-layers); [corpus_forum.md](../../corpus_forum.md), **CF-5** và **CF-7**; [Điều XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*Quyền tranh biện, rà soát, và khắc phục*).
 
 </details>
 
@@ -357,14 +357,14 @@ Hồ sơ chứng nhận phải nêu trình tự giám sát — ai giám sát gì
 - **Đường tranh biện hồ sơ đã công bố** — bước thường đầu tiên cho tranh chấp thường về hồ sơ chứng nhận. Hồ sơ nêu ghế tranh [Tham gia hệ thống của bên bị ảnh hưởng](core_05_band_participation.md#stakeholder-status-and-weight-cluster):
   - ai nhận tranh biện;
   - cách nộp; và
-  - rằng đồng hồ dưới **Điều XXIV-C** (*Sàn Giải quyết kịp thời và Chống trì hoãn*) chạy từ lúc nhận.
+  - rằng đồng hồ dưới **Điều XXV-C** (*Sàn Giải quyết kịp thời và Chống trì hoãn*) chạy từ lúc nhận.
   
   Rà nội bộ người vận hành, chứng nhà cung, hoặc ký kỹ thuật không phải đường này.
 - **Đường diễn đàn thành phần** — họ diễn đàn Chương Mười Một có thẩm quyền xét nội dung trên phát hiện thành phần bị tranh.
 - **Đường toàn vẹn dẫn** — định tuyến Toàn vẹn và dự phòng chống tự xét khi tranh biện là cách diễn đàn dẫn chạy quy trình, kể cả chiếm, thông tin giấu, tự rà, hoặc gọi chứng nhận xong quá sớm.
 - **Đường nâng cấp** — chuyển, chứng nhận, định tuyến dự phòng, và nâng cấp họ-sang-họ Chương Mười Một khi lợi hại chính, hiệu lực hiến pháp, khắc phục cấu trúc, bế tắc họ, hoặc bảo vệ chống tự xét đòi.
 
-Lối vào trực tiếp một đường diễn đàn vẫn sẵn khi trì hoãn sẽ gây nguy có trọng cho quyền, bằng chứng, độc lập, hoặc phục hồi thực tiễn. Dùng chưa xong đường tranh biện hồ sơ đã công bố không được kẹt những đường diễn đàn đó hay ăn đồng hồ **Điều XXIV-C**.
+Lối vào trực tiếp một đường diễn đàn vẫn sẵn khi trì hoãn sẽ gây nguy có trọng cho quyền, bằng chứng, độc lập, hoặc phục hồi thực tiễn. Dùng chưa xong đường tranh biện hồ sơ đã công bố không được kẹt những đường diễn đàn đó hay ăn đồng hồ **Điều XXV-C**.
 
 Chuỗi khả năng tranh biện dùng những đường đó theo thứ tự này:
 
@@ -372,7 +372,7 @@ Chuỗi khả năng tranh biện dùng những đường đó theo thứ tự n�
 2. **Tranh biện thành phần** (đường diễn đàn thành phần). Tranh biện giới hạn ở một phát hiện thành phần định tuyến tới họ diễn đàn có thẩm quyền xét nội dung trên thành phần đó. Diễn đàn dẫn có thể [đình chỉ](core_05_band_accountability.md#stay) sự dựa vào thành phần bị tranh trong khi chờ rà đúng hạn.
 3. **Tranh biện phối hợp dẫn** (đường toàn vẹn dẫn). Tranh biện về cách diễn đàn dẫn chạy quy trình định tuyến dưới quy tắc toàn vẹn và chống tự xét [Chương Mười Một](core_11_forum.md#chapter-eleven-forums-and-jurisdiction). Gồm chiếm, thông tin giấu, tự rà, xếp bước lạm dụng, gọi chứng nhận xong quá sớm, hoặc vấn đề toàn vẹn diễn đàn dẫn khác. Khi tranh biện nhắm thiên vị, chiếm, xung đột, hoặc lạm dụng quy trình của chính diễn đàn dẫn đó, định tuyến dự phòng dưới những quy tắc đó áp dụng để rà không bị nhốt trong cùng diễn đàn dẫn.
 4. **Nâng cấp và chứng nhận** (đường nâng cấp). Nơi lợi hại chính, hiệu lực hiến pháp, khắc phục cấu trúc, bế tắc họ, hoặc bảo vệ chống tự xét đòi, định tuyến tranh biện tiếp qua chuyển, chứng nhận, định tuyến dự phòng, và nâng cấp họ-sang-họ Chương Mười Một.
-5. **Giới hạn dựa trong lúc tranh:** Một tranh biện có trọng và đúng hạn có thể giới hạn hoặc tạm dừng sự dựa vào hồ sơ chứng nhận đến mức cần để ngăn hại thấy trước, bảo toàn bằng chứng, hoặc ngăn phụ thuộc không đảo được vào một phát hiện đang tranh, chịu rà nhanh dưới [Điều XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Sàn Giải quyết kịp thời và Chống trì hoãn*).
+5. **Giới hạn dựa trong lúc tranh:** Một tranh biện có trọng và đúng hạn có thể giới hạn hoặc tạm dừng sự dựa vào hồ sơ chứng nhận đến mức cần để ngăn hại thấy trước, bảo toàn bằng chứng, hoặc ngăn phụ thuộc không đảo được vào một phát hiện đang tranh, chịu rà nhanh dưới [Điều XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*Sàn Giải quyết kịp thời và Chống trì hoãn*).
 
 Hồ sơ chứng nhận phải nêu chuỗi khả năng tranh biện — bên bị ảnh hưởng tranh ở mỗi bước thế nào — và các đường dẫn tranh biện được đặt tên.
 
@@ -415,7 +415,7 @@ Khi tranh biện được diễn đàn giám sát là bắt buộc, rà nội b�
 - [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) nơi cò trọng yếu **Điều V-B** (*Không phân biệt đối xử*) áp dụng;
 - [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) nơi cò trọng yếu **Điều V-G** (*Khả năng tiếp cận*) áp dụng;
 - [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) nơi cò trọng yếu **Điều VI** (*Quyền giáo dục lấy hữu tri làm trung tâm*) áp dụng;
-- [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) nơi cò trọng yếu **Điều XII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*) áp dụng;
+- [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) nơi cò trọng yếu **Điều XIII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*) áp dụng;
 - [§12](#12-transparency-auditability-and-contestability) và [§14](#14-supervisory-sequence-and-contestability-chain);
 - Chương Hai đến Bốn, và quy trình Chương Mười Một áp dụng.
 
@@ -443,7 +443,7 @@ Khi tranh biện được diễn đàn giám sát là bắt buộc, rà nội b�
 - khiếm khuyết không phân biệt đối xử hoặc phân biệt qua chỉ số thay có trọng nơi rà **Điều V-B** (*Không phân biệt đối xử*) bắt buộc;
 - khiếm khuyết khả năng tiếp cận hoặc tham gia nội dung có trọng nơi rà **Điều V-G** (*Khả năng tiếp cận*) bắt buộc;
 - khiếm khuyết năng lực giáo dục, mờ đánh giá, cổng giấy thông hành, hoặc lỗi thời áp đặt có trọng nơi rà **Điều VI** (*Quyền giáo dục lấy hữu tri làm trung tâm*) bắt buộc;
-- khiếm khuyết đáng tin cậy, tin cậy giả, khuyến khích lệch, tranh biện không tiếp cận được, hoặc tính toàn vẹn phục hồi có trọng nơi rà **Điều XII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*) bắt buộc;
+- khiếm khuyết đáng tin cậy, tin cậy giả, khuyến khích lệch, tranh biện không tiếp cận được, hoặc tính toàn vẹn phục hồi có trọng nơi rà **Điều XIII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*) bắt buộc;
 - mong manh hạ tầng không khớp lớp.
 
 **Ranh giới** — chứng nhận không phải quỹ đạo:

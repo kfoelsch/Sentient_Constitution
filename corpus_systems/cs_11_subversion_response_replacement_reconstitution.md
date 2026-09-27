@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Chapter Five *System Capture*, *Emergency and Contingency*, *Accountability*, *Oversight*, and *Reversibility*; **Article XXIII**; **Article XXII**; **Article XXVI-A**; **Article XXVI-C**; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge).
+- Upstream: Chapter Five *System Capture*, *Emergency and Contingency*, *Accountability*, *Oversight*, and *Reversibility*; **Article XXIV**; **Article XXIII**; **Article XXVII-A**; **Article XXVII-C**; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge).
 - Downstream: [§1](#cs-11-1-purpose-and-role); [§2](#cs-11-2-landscape-compromise-declaration-and-activation); [§4](#cs-11-4-governance-continuity-under-multi-node-compromise); [§8](#cs-11-8-exit-restoration-and-post-incident-revalidation).
 - Read with: **CS-11**; **CS-5**; **CS-7**; **CS-10**; **CJS-3.20**; **CJS-3.13**.
 
@@ -44,10 +44,10 @@ This file is the systems implementation home for **CS-11** (*Subversion response
 
 This file operationalizes coordinated response where constitutional systems or governance pathways are materially subverted, including near-simultaneous multi-system attacks. It implements:
 - the definitional and scaling requirements in **Sentient Constitution Chapter Five** — *System Capture*, *Emergency and Contingency*, *Accountability*, *Oversight*, and *Reversibility* where applicable;
-- **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) in **Chapter Six**, for escalation and emergency proportionality;
-- **Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*), for anti-capture governance safeguards;
-- **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*), where phased transition is implicated;
-- **Article XXVI-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*), for off-ramp continuity and re-baselining.
+- **Article XXIV** (*Conflict Resolution, Escalation, and Emergency Proportionality*) in **Chapter Six**, for escalation and emergency proportionality;
+- **Article XXIII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*), for anti-capture governance safeguards;
+- **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*), where phased transition is implicated;
+- **Article XXVII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*), for off-ramp continuity and re-baselining.
 It also operates with these operational clusters:
 - **CJS-3.20** (*reversibility and containment terms*);
 - **CJS-3.18** (*data-retention and lifecycle-integrity terms*);

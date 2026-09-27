@@ -46,9 +46,9 @@ This family holds clusters that require simultaneous satisfaction across Tetrad 
 - Read with: **CJS-3.3 — Auditability**
 - Read with: **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: **CJS-3.13 — Procedural Integrity and Adjudication**
-- Read with: **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*)
-- Read with: **Article VII-B** (*Internal-State Boundary and Type-N Protection*)
-- Read with: **Article XV** (*Audit, Transparency, and Independent Verification*) — secrecy remains auditable and challengeable
+- Read with: **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*)
+- Read with: **Article VII-B** (*Self-Ownership of Mind*)
+- Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) — secrecy remains auditable and challengeable
 - Constitutional frame: **Integrative** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Cross-leg note: **Oversight** and **Accountability** — secrecy limits must remain auditable and challengeable.
 - Chapter One basis: §8.2, §11.2, §11.4, §12.1, §8, §9 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
@@ -194,7 +194,7 @@ No permanent secrecy and anti-normalization discipline
 - Read with: **CJS-3.14 — Intervention governance and override authorization**
 - Read with: **[Chapter One §6.1.5 Rights-Collision Procedure](../core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)**
 - Read with: **`corpus_forum.md` CF-12 through CF-14 — Forum continuity, fallback operation, and emergency adjudication**
-- Read with: Constitutional hooks in **Articles IX, XII, and XIII**
+- Read with: Constitutional hooks in **Articles X, XIII, and XIV**
 - Constitutional frame: **Integrative** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Cross-leg note: **Accountability** and **Continuity** — technical complement to **CJS-3.14** governance authorization.
 - Continuity disambiguation: Distinguish technical intervention integrity from constitutional **Continuity** aim language.

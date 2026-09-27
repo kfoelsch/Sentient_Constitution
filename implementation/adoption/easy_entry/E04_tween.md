@@ -19,7 +19,7 @@
 
 *In plain terms: you already count; decisions about you have to be about your interests, not only the household’s convenience — and your voice is supposed to be sought to the extent you can give it, even when you are not the one who decides.*
 
-This brief is for a tween whose voice is treated as optional. It does not sort you by birthday. When decisions about you are at stake, those rules are located in the section on [Article VII-E](../../../core_06_rights_part_b.md#article-vii-e-developing-sentients-best-interest-and-graduated-capability).
+This brief is for a tween whose voice is treated as optional. It does not sort you by birthday. When decisions about you are at stake, those rules are located in the section on [Article VIII-B](../../../core_06_rights_part_b.md#article-viii-b-developing-sentients-best-interest-and-graduated-capability).
 
 ## Everyone passes through this age
 
@@ -43,25 +43,25 @@ If a body that actually runs the systems in your life adopted this Constitution:
 - **Today:** Younger voice is decorative. They talk over you, or they ask once and then use whatever answer is convenient.
 - **With this Constitution:** Still growing does not narrow dignity, nondiscrimination, self-ownership, or the rest of Chapter Six.
 
-See: [Article VII-E](../../../core_06_rights_part_b.md#article-vii-e-developing-sentients-best-interest-and-graduated-capability).
+See: [Article VIII-B](../../../core_06_rights_part_b.md#article-viii-b-developing-sentients-best-interest-and-graduated-capability).
 
 **Decisions about you have to be about your interests.**
 - **Today:** “Best for the family” or “easier for us” is treated as the same thing. You are used as a reason in a fight that is not about you.
 - **With this Constitution:** Decisions that actually affect you must reflect your own interests and what you can say you want — not operator, maker-system, or household convenience.
 
-See: [Article VII-E](../../../core_06_rights_part_b.md#article-vii-e-developing-sentients-best-interest-and-graduated-capability).
+See: [Article VIII-B](../../../core_06_rights_part_b.md#article-viii-b-developing-sentients-best-interest-and-graduated-capability).
 
 **Your voice is not only one adult’s story.**
 - **Today:** Whichever carer is louder is “what the child wants.”
 - **With this Constitution:** Preferences have to be sought in a way that fits what you can actually do. You are not failed because you cannot yet argue like an adult, and you are not protected merely because an adult felt sympathetic.
 
-See: [Article VII-E](../../../core_06_rights_part_b.md#article-vii-e-developing-sentients-best-interest-and-graduated-capability).
+See: [Article VIII-B](../../../core_06_rights_part_b.md#article-viii-b-developing-sentients-best-interest-and-graduated-capability).
 
 **Lasting separation is hard on purpose.**
 - **Today:** A household reshuffle happens, and review is later if at all.
 - **With this Constitution:** Durable separation from a protected care relationship has to be needed, not bigger than the harm, fair, and reviewed on a clock.
 
-See: [Non-Separation](../../../core_05_band_participation.md#non-separation-constitutional); [Article VII-D](../../../core_06_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation).
+See: [Non-Separation](../../../core_05_band_participation.md#non-separation-constitutional); [Article VIII-A](../../../core_06_rights_part_b.md#article-viii-a-family-care-relationships-reproductive-autonomy-and-non-separation).
 
 ## What you might reasonably object to
 
@@ -73,7 +73,7 @@ See: [Non-Separation](../../../core_05_band_participation.md#non-separation-cons
 
 - **“This isn’t how my family works.”** This Constitution binds a body that has agreed to follow it, not every household that has not agreed ([Chapter Seventeen §4](../../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)). It also does not override applicable family law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
-- **“I’m not a baby. Don’t talk to me like a teenager either.”** You do not have to take either label to use this page. This brief is for someone whose voice is treated as optional. It does not change the Rights Floor that applies to you. How much you may do yourself still tracks what you can actually show. When that is at stake, those rules are located in the section on [Article VII-E](../../../core_06_rights_part_b.md#article-vii-e-developing-sentients-best-interest-and-graduated-capability). If the closed door is “you’re old enough to know better, but not to decide,” that is [the teen page](E03_teen.md).
+- **“I’m not a baby. Don’t talk to me like a teenager either.”** You do not have to take either label to use this page. This brief is for someone whose voice is treated as optional. It does not change the Rights Floor that applies to you. How much you may do yourself still tracks what you can actually show. When that is at stake, those rules are located in the section on [Article VIII-B](../../../core_06_rights_part_b.md#article-viii-b-developing-sentients-best-interest-and-graduated-capability). If the closed door is “you’re old enough to know better, but not to decide,” that is [the teen page](E03_teen.md).
 
 ## What this will not pretend to give you
 

@@ -32,7 +32,7 @@
 *En termes simples : le Chapitre sept est coupé en deux — la Partie A pour comment évaluer, la Partie B pour le registre et le processus. Lisez-les comme un seul chapitre.*
 
 Lisez d’abord la **Partie A** pour les exigences d’évaluation ; la **Partie B** pour le registre, le processus de forum et le pont de trajectoire.
-Sous la jambe **supervision** de la Tétrade, la supervision exige l’audit ; le Chapitre sept est un processus d’audit particulièrement vaste et à fort enjeu parmi d’autres (examen d’alignement sous supervision de forum avec résultats de reconnaissance). Les planchers d’audit restent à l’**Article XV** et à l’[Auditabilité](core_05_band_oversight.md#auditability) du Chapitre cinq.
+Sous la jambe **supervision** de la Tétrade, la supervision exige l’audit ; le Chapitre sept est un processus d’audit particulièrement vaste et à fort enjeu parmi d’autres (examen d’alignement sous supervision de forum avec résultats de reconnaissance). Les planchers d’audit restent à l’**Article XVI** et à l’[Auditabilité](core_05_band_oversight.md#auditability) du Chapitre cinq.
 - [Chapitre sept, Partie A — Évaluation](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
 - [Chapitre sept, Partie B — Registre et processus](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process)
 ---

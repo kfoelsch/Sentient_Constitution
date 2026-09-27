@@ -39,9 +39,9 @@ Filename renames require: reference audit, same-change link updates, dated evide
 | Layer | Primary home | Routing |
 |--------|--------------|---------|
 | Values, definition mechanics, definitions | Sentient Constitution `core_*` Ch 1–5 | [README.md](README.md) reading order |
-| Rights (Articles I–XXVI) | Ch 6 | `core_06_rights_part_*.md`; titles via `make reference-audit` |
+| Rights (Articles I–XXVII) | Ch 6 | `core_06_rights_part_*.md`; titles via `make reference-audit` |
 | Functional independence and segregation of duties | Ch 7 | `core_07_functional_independence_segregation_of_duties.md`; four-seat floor, Materially Binding Act Record minimum, control-line independence, published placement, substitutes, proportionate merged hosting, emergency departures, and wrong-seat routing |
-| System alignment certification | Ch 8 | `core_08_a_system_alignment_certification_evaluation.md` (Part A — evaluation); `core_08_b_system_alignment_certification_record_process.md` (Part B — record and process); reading index: `core_08_system_alignment_certification.md`. Under **oversight**, oversight requires auditing (**Article XV** / [Auditability](core_05_band_oversight.md#auditability) / **[CJS-3.3 audit process home](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** and **CJS-3.3**–**CJS-3.5** OP annexes); Ch 8 is one especially large, high-stakes audit process among others — not the sole auditing home. |
+| System alignment certification | Ch 8 | `core_08_a_system_alignment_certification_evaluation.md` (Part A — evaluation); `core_08_b_system_alignment_certification_record_process.md` (Part B — record and process); reading index: `core_08_system_alignment_certification.md`. Under **oversight**, oversight requires auditing (**Article XVI** / [Auditability](core_05_band_oversight.md#auditability) / **[CJS-3.3 audit process home](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** and **CJS-3.3**–**CJS-3.5** OP annexes); Ch 8 is one especially large, high-stakes audit process among others — not the sole auditing home. |
 | Standing records and measurement (Questions 1 and 2) | Ch 9 | `core_09_standing_assessment.md`; verified records and Contribution Axis / Violation Axis slots |
 | Standing integration and effects (Question 3) | Ch 10 | `core_10_standing_integration.md`; violation, correction, and prevention before contribution gates, with lock design and enforcement, then final effect, restoration, and enforcement |
 | Anti-constitutional-misconduct designation | Ch 11 | `core_11_a_misconduct_designation.md` (Part A — designation criteria and safeguards); `core_11_b_misconduct_pattern_applications.md` (Part B — named pattern applications); designation only for qualifying fixed Ch 9 Violation Axis `s = 7–9` findings |
@@ -62,7 +62,7 @@ Filename renames require: reference audit, same-change link updates, dated evide
 2. **Implementation files own** *how* (taxonomies, protocols, institutions, forums, joint interlocks).
 3. **No duplicate definitions** across layers — implementation files *apply* Chapter Five terms.
 4. **Stricter wins** where the corpus already says so; core values and rights prevail over conflicting operational wording.
-5. **Chapter Six implements detail** for Articles I–XXVI; do not invent parallel Rights Floors in implementation files.
+5. **Chapter Six implements detail** for Articles I–XXVII; do not invent parallel Rights Floors in implementation files.
 
 ---
 
@@ -113,6 +113,7 @@ Keep constitutional concept + O/M/A/C boundary only; cite owner homes for instit
 | MD-SECTION-LEAD-01 | A section's first body line (after widgets, spacers, callouts, and `*In plain terms*` gloss) is lead-in prose, not a bare list item. Container sections whose first content is a child heading are out of scope. **Carve-out:** Chapter Five definition files (`core_05_*.md`), whose entries open with O / E / C bullets by design. Advisory. | `make section-bullet-lead-audit` |
 | VIS-CHART-READABILITY-01 | Mermaid chart boxes with a title and explanatory content use `<br/><br/>` between the title and content for a blank visual line. | Manual (see **Chart readability standard** below) |
 | VIS-CHART-THEME-02 | Reader-facing Mermaid nodes use transparent fills, white labels, and the shared semantic-outline palette; do not rely on renderer-default label colors. | Manual (see **Chart color and theme standard** below) |
+| VIS-CHART-SYNC-03 | When an Article or subarticle is renumbered, renamed, added, moved, split, or removed, update every reader-facing Mermaid chart that lists it so numbers, titles, and bullets match the current headings. | Manual (see **Chart sync on renumbering (VIS-CHART-SYNC-03)**) |
 | OWNER-OPENING-01 | Binding constitutional-owner opening statement | Manual (see **section 4**) |
 | LINK-IN-PARA-14 | Load-bearing in-paragraph links | `make in-paragraph-link-audit` |
 | LINK-OFF-CORPUS-15 | Link destinations stay in-repository in binding text; no machine-local targets anywhere | `make external-link-audit` (inventory: `make external-link-audit-report`) |
@@ -396,6 +397,8 @@ When no aims/tetrad block exists, place `*Article neighbors:*` after the article
 
 **Do not** use `*Article neighbors:*` for operative rights bullets, Trace contents, D/A/C widget rows, or implementation-owner routing to `corpus_systems` / `corpus_institutions` unless that routing is expressed as article-to-article coordination for readers.
 
+**Do not** list the article's own subarticles as neighbors. Subarticles belong to their parent article; describe their content in the article's own intro or in the subarticles themselves. Subarticles of *other* articles may be cited when explaining coordination with that article.
+
 ### File-top placement template (NAV-PLACEMENT-01)
 
 One collapsed **Corpus placement** widget per audited file top. Summary label: **`Corpus placement (non-operative): file structure and reading rules`** (same blue `<details>` styling as Trace and Reader guidance).
@@ -513,6 +516,17 @@ This corpus is **pre-release**. Keep one current fragment id per heading. When a
 
 Gate: `make fossil-anchor-audit` (in `make regression`).
 
+### Chart sync on renumbering (VIS-CHART-SYNC-03)
+
+Mermaid chart labels are plain text, so link and anchor audits do not catch a chart that has drifted from the headings it summarizes. Whenever an Article or subarticle is renumbered, renamed, added, moved, split, or removed, check every reader-facing Mermaid chart that lists Articles and update it in the same change:
+
+- **Where the charts live:** the Part overview charts at the top of each Chapter Six file (`core_06_rights_part_a.md` through `core_06_rights_part_d.md`), the chapter-wide Part map in `core_06_rights_part_a.md`, and their copies in `guides/CONCEPTUAL_OVERVIEW.md`. Search for other charts with `grep -rn "Article" --include=*.md` inside ` ```mermaid ` blocks.
+- **What to match:** each node's Article number and title, its bullet list against the current subarticle headings, row labels such as `Articles VI–VII`, and Part ranges such as `Articles VI–XII`.
+- **Layout:** when the number of Articles in a Part changes, rebuild the row grid (and any invisible-link chain that positions nodes) rather than just relabeling, so no Article is dropped from the chart.
+- **Translations:** localized charts follow the translation re-sync, not the English change.
+
+Gate: manual. Charts must also keep **VIS-CHART-READABILITY-01** and **VIS-CHART-THEME-02**.
+
 ### Adopted implementation subfile anatomy (NAV-IMPL-SUBFILE-01)
 
 Every substantive `CJS` / `CS` / `CI` / `CF` subfile opens the way a numbered `core_*` file does, so a reader arriving from a citation lands on a title and a sentence rather than on collapsed routing widgets.
@@ -532,7 +546,7 @@ Every substantive `CJS` / `CS` / `CI` / `CF` subfile opens the way a numbered `c
 - `- Read with: **X**.` naming only the enclosing section;
 - an `- Upstream:` line byte-identical to the file-level Trace.
 
-**Heading grammar is one language.** CI, CF, CJS, and CS family files all use `## XX-n.m Title` (example: `## CS-7.3 Mandatory validation record`). Cite that ID as **CS-7.3**, not **CS-7 §3**. CS files keep the older `<a id="1-purpose-and-role">` slugs as compatibility aliases beside the `cs-n-m-…` ids.
+**Heading grammar is one language.** CI, CF, CJS, and CS family files all use `## XXI-n.m Title` (example: `## CS-7.3 Mandatory validation record`). Cite that ID as **CS-7.3**, not **CS-7 §3**. CS files keep the older `<a id="1-purpose-and-role">` slugs as compatibility aliases beside the `cs-n-m-…` ids.
 
 **Heading depth carries no meaning.** Markdown slugs derive from heading text, not depth, so promoting `### CF-12.1 Rights-Floor continuity rule` to `##` leaves `#cf-121-rights-floor-continuity-rule` unchanged and breaks no inbound reference. Prefer an explicit `<a id="...">` above the heading so the link survives a later rewording; `make architecture-index` regenerates the stable-ID index from these.
 
@@ -777,14 +791,14 @@ When a Chapter Six article or subarticle is cited in **body prose** — outside 
 
 **Format:** `**Article {label}** (*{title}*)`
 
-Examples: `**Article XV-C** (*Verification Accessibility*)`; `**Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*)`.
+Examples: `**Article XVI-C** (*Verification Accessibility*)`; `**Article XXV-C** (*Timely Resolution and Anti-Delay Floor*)`.
 
 **Rules**
 
-- **{label}** — Roman numeral (`III`) or subarticle label (`XV-C`), consistent with `REF-ARTICLES` / `make reference-audit`.
+- **{label}** — Roman numeral (`III`) or subarticle label (`XVI-C`), consistent with `REF-ARTICLES` / `make reference-audit`.
 - **{title}** — text after the first colon in the owning heading in `core_06_rights_part_*.md` (`### Article III: …` or `#### Article III-A: …`). Do not repeat the word *Article* inside the parentheses.
-- **Combined labels** (`**Article VII-A / VII-B**`): gloss each part, separated by `/`: `(*Self-Ownership of Body and Mind* / *Internal-State Boundary and Type-N Protection*)`.
-- **Markdown links:** put the gloss on the same mention, after the link: `[Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*)`.
+- **Combined labels** (`**Article VII-A / VII-B**`): gloss each part, separated by `/`: `(*Self-Ownership of Body* / *Self-Ownership of Mind*)`.
+- **Markdown links:** put the gloss on the same mention, after the link: `[Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*)`.
 - **First mention in a section** (or in a collapsed Trace / D/A/C widget) should include the gloss when the cite is load-bearing. Later mentions in the same `###`–`#####` unit may use the bare label if the reader is already oriented.
 - **Headings** (`### Article …`, `#### Article …-…`) already carry the title; do not duplicate the gloss there.
 - **Dense routing lists** may omit the gloss only when every entry is a self-explanatory chapter name (for example **Chapter Eight**) or when the same block already states each title on the same line.

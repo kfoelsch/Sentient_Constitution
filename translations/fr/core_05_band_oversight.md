@@ -184,7 +184,7 @@ Cette bande tient des définitions sous la jambe **Supervision** de la Tétrade 
     - protection des sources ;
     - enquête ; et
     - publication.
-    Sentients doing that work exercise the [Expression](core_05_band_participation.md#expression-constitutional) and [Assemblée](core_05_band_participation.md#assembly-constitutional) Plancher des droits, with heightened-scrutiny protection under [Article V-H](../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
+    Sentients doing that work exercise the [Expression](core_05_band_participation.md#expression-constitutional) and [Assemblée](core_05_band_participation.md#assembly-constitutional) Plancher des droits, with heightened-scrutiny protection under [Article V-H](../../core_06_rights_part_b.md#article-x-g-expression-assembly-and-press) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
   - **Hors portée :** press credentials, institutional titles, or ordinary commercial speech that is not newsgathering, investigation, or publication functioning as journalism.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **Comment mesurer et évaluer**
@@ -195,11 +195,11 @@ Cette bande tient des définitions sous la jambe **Supervision** de la Tétrade 
     - protection des sources ;
     - investigation; or
     - publication that serves the information environment.
-    Spot actions that impair the press by their real effect, and treat press-directed character as an aggravating factor under **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) and **Article V-H** (*Expression, Assembly, and Press*). Apply heightened [Nécessité](core_05_band_accountability.md#necessity) and [Proportionnalité](core_05_band_accountability.md#proportionality) scrutiny, and keep any limit narrowly tailored.
+    Spot actions that impair the press by their real effect, and treat press-directed character as an aggravating factor under **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) and **Article V-H** (*Expression, Assembly, and Press*). Apply heightened [Nécessité](core_05_band_accountability.md#necessity) and [Proportionnalité](core_05_band_accountability.md#proportionality) scrutiny, and keep any limit narrowly tailored.
 <a id="press-and-journalistic-activity-constitutional-c"></a>
 - **Ce qui doit tenir**
   - **Défaillance primaire :** state or operator actions meant to impair journalistic activity that fail heightened-scrutiny limits analysis;
-  - **Défaillance secondaire :** stretching [Bonne foi](core_05_band_accountability.md#good-faith) or **Article VIII-C** (*Truthful Publication and High-Impact Publication Limits*) so those standards block lawful critical reporting, investigative publication, or dissent;
+  - **Défaillance secondaire :** stretching [Bonne foi](core_05_band_accountability.md#good-faith) or **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) so those standards block lawful critical reporting, investigative publication, or dissent;
   - **Défaillance tertiaire :** credentials, institutional status, or ordinary commercial speech used as the journalism test while newsgathering, investigation, or publication that functions as journalism is absent.
 
 ---
@@ -661,7 +661,7 @@ Outside that scope, individual entries may still apply on their own without impo
 
 Where admission scope is met, this cluster is the joint home for disclosure, audit, verification (including external detectability), and assurance depth when Chapitres deux à quatre require traceable, challengeable evidence of what a system does and whether compliance claims hold.
 
-**Cadre de supervision.** Under the [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XV** (*Audit, Transparency, and Independent Verification*). [Certification d’alignement du système](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [Chapitre sept](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
+**Cadre de supervision.** Under the [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XVI** (*Audit, Transparency, and Independent Verification*). [Certification d’alignement du système](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [Chapitre sept](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
 
 **Classe du système et proportionnalité.** Transparency, auditability, and verification duties scale with system class under **[corpus_systems.md](../../corpus_systems.md), CS-3 — Classification et traitement des systèmes**, and with material impact, dependency, and risk. Higher-class systems (**Class A**, **B**, **C**) need more than lower-class systems (**Class L**, **P**), including:
 - assurance plus profonde ;
@@ -881,8 +881,8 @@ Voir **Invocation conjointe et satisfaction**.
 
 - Composante de groupe : [Def.O1 Transparence, auditabilité et vérification](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - Lire avec : [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Reddition de comptes](core_05_apex_accountability_leg.md#accountability), [Contestabilité](core_05_band_accountability.md#contestability), [Intégrité épistémique](core_05_band_oversight.md#epistemic-integrity), [Transparence](core_05_band_oversight.md#transparency), [Vérifiabilité](core_05_band_oversight.md#verifiability), [Préservation de la preuve](core_05_band_oversight.md#evidence-preservation), and [Contrainte de complétude de l’évaluation](core_05_band_oversight.md#evaluation-completeness-constraint).
-- Lire avec : **Article XV** (*Audit, Transparency, and Independent Verification*); [Certification d’alignement du système](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) Chapitres deux à quatre.
-- Steward door (non-operative): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Article XV)](../../core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Article XV](../../core_06_rights_part_c.md#audit-three-layers).
+- Lire avec : **Article XVI** (*Audit, Transparency, and Independent Verification*); [Certification d’alignement du système](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) Chapitres deux à quatre.
+- Steward door (non-operative): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Article XVI)](../../core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Article XVI](../../core_06_rights_part_c.md#audit-three-layers).
 
 </details>
 
@@ -1075,7 +1075,7 @@ Voir **Invocation conjointe et satisfaction**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Composante de groupe : [Def.O1 Transparence, auditabilité et vérification](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Owner floor: [Article XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
+- Owner floor: [Article XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
 - Lire avec : [Auditabilité](core_05_band_oversight.md#auditability), [Transparence](core_05_band_oversight.md#transparency), [Contestabilité](core_05_band_accountability.md#contestability), [Proportionnalité](core_05_band_accountability.md#proportionality), [Faisabilité](core_05_band_accountability.md#feasibility), [Vérité (contrainte constitutionnelle)](core_05_band_oversight.md#truth-constitutional-constraint), and [Conditions adversaires, mises à l’échelle et exploitées](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 
 </details>
@@ -1087,7 +1087,7 @@ Voir **Invocation conjointe et satisfaction**.
 - **Ce que c’est**
   - **Dans la portée :** Whether system behavior, outputs, and effects can be externally detected, measured, and independently validated for [Auditabilité](core_05_band_oversight.md#auditability). Constitutive conditions:
     - external detectability before independent validation counts;
-    - practical access ([Article XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility); [Faisabilité](core_05_band_accountability.md#feasibility));
+    - practical access ([Article XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [Faisabilité](core_05_band_accountability.md#feasibility));
     - independence from operator self-assertion;
     - proportionate burden under [Proportionnalité](core_05_band_accountability.md#proportionality) and [Impact matériel](core_05_band_oversight.md#material-impact); and
     - reliability under ordinary stress, misuse, and [Conditions adversaires, mises à l’échelle et exploitées](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1112,7 +1112,7 @@ Voir **Invocation conjointe et satisfaction**.
   - **Mesure secondaire :** [Famille de mesure Supervision](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Les êtres sentients peuvent-ils voir, vérifier et s’appuyer sur ce que les systèmes représentent ?* Utilisez-la ici pour demander si observed behavior can be independently validated by reproducible methods in practice.
 
     **Évaluation secondaire :** Confirm independent validation by methods that:
-    - affected and appropriately authorized parties can actually perform ([Article XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility); [Faisabilité](core_05_band_accountability.md#feasibility));
+    - affected and appropriately authorized parties can actually perform ([Article XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [Faisabilité](core_05_band_accountability.md#feasibility));
     - rest on externally detectable evidence — not internal claims or inferred intent;
     - are sized to system impact under [Proportionnalité](core_05_band_accountability.md#proportionality) and [Impact matériel](core_05_band_oversight.md#material-impact); and
     - remain reliable under ordinary stress, misuse, and [Conditions adversaires, mises à l’échelle et exploitées](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1225,7 +1225,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     from good-faith observation and bounded interpretation, under [Vérité (contrainte constitutionnelle)](core_05_band_oversight.md#truth-constitutional-constraint) and [Bonne foi](core_05_band_accountability.md#good-faith).
 <a id="publication-truthfulness-and-recklessness-floor-c"></a>
 - **Ce qui doit tenir**
-  - Good-faith publication of observations, evidence, and bounded interpretations is governed by Chapitre onze **Articles VIII**, **XII**, and **XIII** as applicable and must satisfy this cluster jointly under [Vérité (contrainte constitutionnelle)](core_05_band_oversight.md#truth-constitutional-constraint), [Bonne foi](core_05_band_accountability.md#good-faith), and [Intégrité épistémique](core_05_band_oversight.md#epistemic-integrity).
+  - Good-faith publication of observations, evidence, and bounded interpretations is governed by Chapitre onze **Articles IX**, **XIII**, and **XIV** as applicable and must satisfy this cluster jointly under [Vérité (contrainte constitutionnelle)](core_05_band_oversight.md#truth-constitutional-constraint), [Bonne foi](core_05_band_accountability.md#good-faith), and [Intégrité épistémique](core_05_band_oversight.md#epistemic-integrity).
   - **Défaillance primaire :** knowingly false publication, or publication made with reckless disregard for:
     - accuracy;
     - uncertainty;

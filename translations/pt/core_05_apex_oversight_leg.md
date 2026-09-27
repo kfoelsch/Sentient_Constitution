@@ -37,7 +37,7 @@
   - **No âmbito:**
     - vigiar, conferir, verificar e restringir como os sistemas se comportam, feito por [Partes afetadas](../../core_05_band_participation.md#stakeholder), atores independentes ou instituições, e distribuído onde isso for praticável;
     - propósito: detectar e corrigir a não conformidade, e sustentar uma [Governança](../../core_05_band_accountability.md#governance) informada;
-    - a supervisão exige [Auditabilidade](../../core_05_band_oversight.md#auditability) e instrumentos de auditoria afins sob o **Artigo XV** (*Auditoria, transparência e verificação independente*);
+    - a supervisão exige [Auditabilidade](../../core_05_band_oversight.md#auditability) e instrumentos de auditoria afins sob o **Artigo XVI** (*Auditoria, transparência e verificação independente*);
     - quanta supervisão se exige escala com o [Impacto material](../../core_05_band_oversight.md#material-impact), a [Dependência](../../core_05_band_continuity.md#dependency) e o [Risco](../../core_05_band_continuity.md#risk); e
     - a [Certificação de alinhamento do sistema](../../core_05_band_continuity.md#system-alignment-certification-constitutional) é um processo de auditoria especialmente grande e de alta aposta sob esse requisito — não o único processo de auditoria.
   - **Depende de:** as condições e os canais de que esta perna precisa para funcionar. O âmbito detalhado de cada termo e as regras de como medir vivem na sua própria definição; comece pela [Decomposição da perna da Tétrade](#oversight-tetrad-leg-decomposition):

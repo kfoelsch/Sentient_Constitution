@@ -2,7 +2,7 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-09-26T18:05:24+00:00
+Generated: 2026-09-26T20:21:16+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
 Approved progress: **233/233** terms pass tier audit.
@@ -128,7 +128,7 @@ Approved progress: **233/233** terms pass tier audit.
 | Protected Characteristic Proxying and Disparate Impact | approved | full | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Protected Characteristics | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Protected Internal-State Boundary | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
-| Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
+| Protected Intimate-Signal Gating and **Article XI-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Refuge from Non-Compliance | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Reproductive Autonomy | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Self-Determination | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |

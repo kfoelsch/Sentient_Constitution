@@ -102,7 +102,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - زیریں: اصول: [تمہید §3.3 حکمرانی تہہ ضبط](core_00_preamble.md#33-governance-layers)؛ [باب یکم §5 آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency)۔
-- مالک تہہ: [باب دوازدہم: آئینی معاہدہ، جواز، اجازت اور ذمہ دارانہ انتظام](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)؛ [دفعہ IX-C: حکمرانی میں شرکت اور ووٹ کا حق](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)۔
+- مالک تہہ: [باب دوازدہم: آئینی معاہدہ، جواز، اجازت اور ذمہ دارانہ انتظام](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)؛ [دفعہ X-C: حکمرانی میں شرکت اور ووٹ کا حق](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement)۔
 - جھرمٹ جزو: [*آئینی معاہدہ تہہ اور بنیادی آئینی پسند*](core_05_band_integrative.md#constitutional-contract-layer)
 - ساتھ پڑھیں: [بنیادی آئینی پسند](core_05_band_integrative.md#foundational-constitutional-choice)، [متاثر فریقوں کی پابند پسند](core_05_band_participation.md#binding-stakeholder-choice-cluster)، [متاثر فریق حیثیت اور وزن](core_05_band_participation.md#stakeholder-status-and-weight-cluster)، [حکمرانی](core_05_band_accountability.md#governance)۔
 - تہہ: **آئینی معاہدہ تہہ (CCL)** — کون حکومت کر سکتا ہے، کس جواز کے طریقے سے، کن پائیدار شرائط پر۔ **متاثر فریقوں کی نظامی شرکت (SSP)** سے الگ۔
@@ -123,7 +123,7 @@
     - [بنیادی آئینی پسند](core_05_band_integrative.md#foundational-constitutional-choice)؛
     - [دستاویزی جواز کے طریقے](../../core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority) [باب دوازدہم §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) کے تحت؛
     - [اختیار](../../core_16_amendment_ratification.md#10-ratification-and-adoption) اور [دوبارہ اجازت](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) کے قواعد ([باب دوازدہم §1.3](../../core_13_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails)؛ [باب شانزدہم §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority))؛ اور
-    - حکمرانی کے اختیار کو قائم یا پائیدار طور پر دوبارہ ترتیب دینے کے لیے [سیاسی برابری کی تہہ](../../core_13_governance.md#41-entitlement-and-eligibility) — حقدار شعوری وجودوں کو اس تہہ پر برابر آواز ملتی ہے ([دفعہ IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement))۔
+    - حکمرانی کے اختیار کو قائم یا پائیدار طور پر دوبارہ ترتیب دینے کے لیے [سیاسی برابری کی تہہ](../../core_13_governance.md#41-entitlement-and-eligibility) — حقدار شعوری وجودوں کو اس تہہ پر برابر آواز ملتی ہے ([دفعہ X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement))۔
   - **دائرے سے باہر:**
     - متاثر فریقوں کا عام مشورہ؛
     - عملی شرکت؛
@@ -131,7 +131,7 @@
     - ڈھانچے اور عمل پہلے سے مجاز ہونے کے بعد عام دائرے کی حکمرانی؛ اور
     - عام [متاثر فریق وزن](core_05_band_participation.md#stakeholder-weight) — زیادہ متاثر کو زیادہ آواز دینا — بنیاد یا دوبارہ اجازت ووٹ طے کرنے کے لیے استعمال ([تمہید §3.3 حکمرانی تہہ ضبط](core_00_preamble.md#33-governance-layers))۔
   - **عملی گھر:** [باب دوازدہم](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) اس تہہ کے پابند اجازت، جواز، اور ذمہ دارانہ انتظام کے قواعد بیان کرتا ہے۔
-  - **حقوق کی تہہ:** [دفعہ IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement) (*حکمرانی میں شرکت اور ووٹ کا حق*) وہ برابر شرکت کا حق بیان کرتی ہے جسے باب دوازدہم کے وہ قواعد تنگ نہیں کر سکتے۔
+  - **حقوق کی تہہ:** [دفعہ X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement) (*حکمرانی میں شرکت اور ووٹ کا حق*) وہ برابر شرکت کا حق بیان کرتی ہے جسے باب دوازدہم کے وہ قواعد تنگ نہیں کر سکتے۔
 <a id="constitutional-contract-layer-a"></a>
 - **کیسے ناپیں اور جانچیں**
   - **بنیادی پیمائش:** [جوابدہی پیمائش خاندان](core_05_apex_accountability_leg.md#accountability-measurement-family) — *کیا انعام کے ڈھانچے، بازاری طاقت اور جواب دینے کی پابندی فرائض کو حقیقی رکھتے ہیں؟* یہاں پوچھنے کے لیے استعمال کریں کہ دعویٰ شدہ حکمرانی کا اختیار حقیقی آئینی معاہدے پر کھڑا ہے یا نہیں — دستاویزی جواز، برابر بنیادی آواز، اور اس آئین سے ہم آہنگ پائیدار شرائط — صرف سائز، مقبولیت، یا بازاری رسائی نہیں۔
@@ -158,7 +158,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - زیریں: اصول: [باب یکم §5 آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency)؛ [6. عمل تنازعے کا حل](#6-process-conflict-resolution)۔
-- مالک تہہ: [باب دوازدہم باب یکم §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*بنیادی آئینی پسند کے لیے سیاسی برابری کی تہہ*؛ *پائیدار سیاسی آواز کی تہہ*)؛ [دفعہ IX-C: حکمرانی میں شرکت اور ووٹ کا حق](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)۔
+- مالک تہہ: [باب دوازدہم باب یکم §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*بنیادی آئینی پسند کے لیے سیاسی برابری کی تہہ*؛ *پائیدار سیاسی آواز کی تہہ*)؛ [دفعہ X-C: حکمرانی میں شرکت اور ووٹ کا حق](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement)۔
 - جھرمٹ جزو: [*آئینی معاہدہ تہہ اور بنیادی آئینی پسند*](core_05_band_integrative.md#constitutional-contract-layer)
 - ساتھ پڑھیں: [آئینی معاہدہ تہہ](core_05_band_integrative.md#constitutional-contract-layer)، [متاثر فریق نمائندگی اور وزن کی حدیں (متاثر فریقوں کی پابند پسند)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice)، [متاثر فریقوں کی پابند پسند](core_05_band_participation.md#binding-stakeholder-choice-cluster)، [طریقہ کار انصاف](core_05_band_participation.md#procedural-fairness-constitutional)۔
 - تہہ: **آئینی معاہدہ تہہ (CCL)**۔ پہلے سے مجاز نظاموں کے اندر **متاثر فریقوں کی نظامی شرکت (SSP)** سے الگ۔
@@ -177,10 +177,10 @@
 
     یہ [آئینی معاہدہ تہہ](core_05_band_integrative.md#constitutional-contract-layer) کی ہے۔
     - مالک: [باب دوازدہم باب یکم §4.1](../../core_13_governance.md#41-entitlement-and-eligibility)۔
-    - حقوق تہہ پوائنٹر: [دفعہ IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement) (*حکمرانی میں شرکت اور ووٹ کا حق*)۔
+    - حقوق تہہ پوائنٹر: [دفعہ X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement) (*حکمرانی میں شرکت اور ووٹ کا حق*)۔
     - [شعور غیر اخراج](core_05_band_participation.md#sentience-non-exclusion) کے تحت لاگو۔
   - **دائرے سے باہر:**
-    - کسی دائرے میں پہلے سے مجاز حکمرانی ڈھانچے اور عمل موجود ہونے کے بعد عام اثر سے وزن شدہ متاثر فریق فیصلے — متاثر شعوری وجودوں کو [متاثر فریق](core_05_band_participation.md#stakeholder) شناخت اور [متاثر فریق وزن](core_05_band_participation.md#stakeholder-weight) کے ذریعے اس پیمانے پر آواز ملتی ہے جتنا وہ متاثر ہیں (**دفعہ XI** (*متاثر فریقوں کی نظامی شرکت، نمائندگی اور واجب العمل کارروائی*) کی پابندیوں سمیت)، برابر وزن والے بنیادی گنتی قواعد سے نہیں؛ اور
+    - کسی دائرے میں پہلے سے مجاز حکمرانی ڈھانچے اور عمل موجود ہونے کے بعد عام اثر سے وزن شدہ متاثر فریق فیصلے — متاثر شعوری وجودوں کو [متاثر فریق](core_05_band_participation.md#stakeholder) شناخت اور [متاثر فریق وزن](core_05_band_participation.md#stakeholder-weight) کے ذریعے اس پیمانے پر آواز ملتی ہے جتنا وہ متاثر ہیں (**دفعہ XII** (*متاثر فریقوں کی نظامی شرکت، نمائندگی اور واجب العمل کارروائی*) کی پابندیوں سمیت)، برابر وزن والے بنیادی گنتی قواعد سے نہیں؛ اور
     - روزمرہ عملی یا پالیسی پسند جو اس اختیار کو مجاز یا پائیدار طور پر دوبارہ ترتیب نہیں دیتیں۔
 <a id="foundational-constitutional-choice-a"></a>
 <a id="foundational-collective-choice-constitutional-a"></a>

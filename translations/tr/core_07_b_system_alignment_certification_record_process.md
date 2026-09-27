@@ -11,9 +11,9 @@
 >
 > **Yedinci Bölüm, B Kısmı**nı içerir — belgelendirme **kaydı** içerikleri, şeffaflık ve itiraz edilebilirlik, forum bileşen rolleri, gözetim sırası, güzergâh köprüsü ve yeniden açma (**§11–§16**, A Kısmı §1–§10dan devam). **A Kısmı** — değerlendirme gerekleri — [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md)dedir.
 >
-> - **Anayasal sahip (A Kısmı ile ortak):** forum-gözetimli **sistem hizalama belgelendirmesi ve ilgili kayıtlar**. Dörtlünün **gözetim** bacağı altında SAC, başkaları arasında özellikle büyük, yüksek-paylı bir denetim sürecidir; denetim tabanları **Madde XV**de ve Beşinci Bölüm [Denetlenebilirlik](core_05_band_oversight.md#auditability)inde kalır.
+> - **Anayasal sahip (A Kısmı ile ortak):** forum-gözetimli **sistem hizalama belgelendirmesi ve ilgili kayıtlar**. Dörtlünün **gözetim** bacağı altında SAC, başkaları arasında özellikle büyük, yüksek-paylı bir denetim sürecidir; denetim tabanları **Madde XVI**de ve Beşinci Bölüm [Denetlenebilirlik](core_05_band_oversight.md#auditability)inde kalır.
 > - **Değerlendirme girdileri:** [A Kısmı §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) ile [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) belgelendirme kaydına yansıyan değerlendirme çıktılarını sağlar.
-> - **Yer-değiştirmeme kuralı:** B Kısmı, A Kısmı değerlendirme mekaniğini, Beşinci Bölüm kanonik tanımlarını, Sekizinci Bölüm güzergâh ölçümünü ya da Dokuzuncu Bölüm güzergâh etkilerini yeniden belirtmez. **§15** güzergâh köprüsü sınırını açıkça belirtir. B Kısmı ayrıca denetim sahipliğini **Madde XV** / **Def.O1** / **CJS-3.3**–**CJS-3.5**ten yerinden etmez.
+> - **Yer-değiştirmeme kuralı:** B Kısmı, A Kısmı değerlendirme mekaniğini, Beşinci Bölüm kanonik tanımlarını, Sekizinci Bölüm güzergâh ölçümünü ya da Dokuzuncu Bölüm güzergâh etkilerini yeniden belirtmez. **§15** güzergâh köprüsü sınırını açıkça belirtir. B Kısmı ayrıca denetim sahipliğini **Madde XVI** / **Def.O1** / **CJS-3.3**–**CJS-3.5**ten yerinden etmez.
 >
 > **Yukarı:** [A Kısmı](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation); On Birinci Bölüm forum gözetimi; İkinci Bölümden Dördüncü Bölüme doğrulama disiplini.
 > **Aşağı:** Sekizinci Bölüm güzergâh kayıtları ve doğrulanmış girdiler; Dokuzuncu Bölüm güzergâh etkileri.
@@ -85,7 +85,7 @@ Kayıt en az şunları tanımlamalıdır:
 - **Ayrımcılık yasağı değerlendirmesi:** yük-ve-yarar örüntü bulguları, korunan-özellik ve vekil-ayrımcılık bulguları ve maddi adillik bileşen bulguları, **Madde V-B** (*Ayrımcılık yasağı*) maddilik tetikleyicisi uygulandığında [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation)nin istediği gibi;
 - **Erişilebilirlik değerlendirmesi:** maddi katılım, uyarlama ve vekil-yoluyla-reddetme karşıtı bulgular, **Madde V-G** (*Erişilebilirlik*) maddilik tetikleyicisi uygulandığında [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation)nin istediği gibi;
 - **Eğitimsel yetkinlik ve öğrenme-sistemi bütünlüğü değerlendirmesi:** yetkinlik inşası, yeniden eğitim adlandırılmış yolu, değerlendirme şeffaflığı ve öğrenme-sistemi itiraz edilebilirliği bulguları, **Madde VI** (*Algılayan-merkezli eğitim hakkı*) maddilik tetikleyicisi uygulandığında [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation)nin istediği gibi;
-- **Güvenilirlik ve sistem-bel bağlama bütünlüğü değerlendirmesi:** güvenilirlik, sahte güven, sapkın teşvik, itiraz yolu ve onarım bütünlüğü bulguları, **Madde XII** (*Sağlam ve güvenilir sistemlere hak*) maddilik tetikleyicisi uygulandığında [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation)nin istediği gibi;
+- **Güvenilirlik ve sistem-bel bağlama bütünlüğü değerlendirmesi:** güvenilirlik, sahte güven, sapkın teşvik, itiraz yolu ve onarım bütünlüğü bulguları, **Madde XIII** (*Sağlam ve güvenilir sistemlere hak*) maddilik tetikleyicisi uygulandığında [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation)nin istediği gibi;
 - **Teknik kanıt ve güvence:** belgelendirme ya da yeniden belgelendirme döngüsü için teknik standartlar, testler, ölçüler, belirsizlik, güvenlik payları, arıza kipleri, gerileme testi ve güvenlik-testi sonuçları, ve maddi olarak bel bağlanan kanıt temeli;
 - **Etkilenen taraf, çevre ve bütünlük incelemesi:**
   - etkilenen taraf, Hak Tabanı, erişilebilirlik, bağımlılık ve katılım değerlendirmeleri;
@@ -120,7 +120,7 @@ Belgelendirme kaydı şu değerlendirme çıktılarını yansıtmalıdır:
   - [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) **Madde V-B** (*Ayrımcılık yasağı*) maddilik tetikleyicisi uygulandığında;
   - [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) **Madde V-G** (*Erişilebilirlik*) maddilik tetikleyicisi uygulandığında;
   - [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) **Madde VI** (*Algılayan-merkezli eğitim hakkı*) maddilik tetikleyicisi uygulandığında;
-  - [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) **Madde XII** (*Sağlam ve güvenilir sistemlere hak*) maddilik tetikleyicisi uygulandığında;
+  - [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) **Madde XIII** (*Sağlam ve güvenilir sistemlere hak*) maddilik tetikleyicisi uygulandığında;
 - **Kayıt bütünlüğü** — [§12](#12-transparency-auditability-and-contestability); ve
 - **Gözetim sırası ve itiraz yolları** — [§14](#14-supervisory-sequence-and-contestability-chain).
 
@@ -136,7 +136,7 @@ Aşağıdaki maddilik tetikleyicileri **maddi etkili bir sisteme** uygulandığ�
 
 - **Hayatta kalma esasları, eğitim ve güvenli koşullar:**
   - Sistem hayatta kalma esaslarına, eşit eğitim erişimine ya da [**Güvenli koşullar**](core_05_band_continuity.md#safe-conditions-constitutional)a erişimi sağladığında, tahsis ettiğinde, fiyatlandırdığında, barındırdığında ya da sonlandırdığında uygulanır;
-  - Kayıt, tanımanın ya da süregelen bel bağlamanın **Madde III-A** (*Hayatta kalma*), **Madde III-B** (*Eşit eğitim erişimi*), **Madde XII-A** (*Güvenilirlik ve güvenilirlik tabanı*) ve ilgili Altıncı Bölüm hükümleri altında o tabanları kapatıp kapatmayacağını ya da maddi olarak bozup bozmayacağını değerlendirmelidir;
+  - Kayıt, tanımanın ya da süregelen bel bağlamanın **Madde III-A** (*Hayatta kalma*), **Madde III-B** (*Eşit eğitim erişimi*), **Madde XIII-A** (*Güvenilirlik ve güvenilirlik tabanı*) ve ilgili Altıncı Bölüm hükümleri altında o tabanları kapatıp kapatmayacağını ya da maddi olarak bozup bozmayacağını değerlendirmelidir;
 - **Sistemler arası kaynak sorumlu yönetimi:**
   - Sistem diğer sistemlerin ya da algılayanların bel bağladığı paylaşılan altyapıdan ya da kurucu bağımlılıklardan maddi olarak tahsis ettiğinde, yönlendirdiğinde, finanse ettiğinde ya da çıkardığında uygulanır;
   - Kayıt, tanımanın ya da süregelen bel bağlamanın [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation)nin istediği gibi **Madde IV-A** (*Bağımlılık haritalama ve kaynak-akışı şeffaflığı*) ya da **Madde IV-B** (*Sistemler arası adillik ve sürdürülebilirlik*)yi kapatıp kapatmayacağını ya da maddi olarak bozup bozmayacağını değerlendirmelidir;
@@ -151,7 +151,7 @@ Aşağıdaki maddilik tetikleyicileri **maddi etkili bir sisteme** uygulandığ�
   - Kayıt, tanımanın ya da süregelen bel bağlamanın [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation)nin istediği gibi **Madde VI** (*Algılayan-merkezli eğitim hakkı*)nı kapatıp kapatmayacağını ya da maddi olarak bozup bozmayacağını değerlendirmelidir;
 - **Güvenilirlik ve bel bağlama:**
   - Sistem temsil edilen davranış, sınırlar, riskler, itiraz yolları ya da gidermeye algılayan bel bağlamasını maddi olarak şekillendirdiğinde uygulanır — güvenilirlik iddiaları, açıklama duruşu, teşvik tasarımı, onarım pratikleri ya da karşılaştırılabilir bel bağlama adlandırılmış yolları yoluyla dahil;
-  - Kayıt, tanımanın ya da süregelen bel bağlamanın [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation)nin istediği gibi **Madde XII** (*Sağlam ve güvenilir sistemlere hak*)yi kapatıp kapatmayacağını ya da maddi olarak bozup bozmayacağını değerlendirmelidir.
+  - Kayıt, tanımanın ya da süregelen bel bağlamanın [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation)nin istediği gibi **Madde XIII** (*Sağlam ve güvenilir sistemlere hak*)yi kapatıp kapatmayacağını ya da maddi olarak bozup bozmayacağını değerlendirmelidir.
 
 <a id="12-transparency-auditability-and-contestability"></a>
 
@@ -162,7 +162,7 @@ Aşağıdaki maddilik tetikleyicileri **maddi etkili bir sisteme** uygulandığ�
 
 - Yukarı: [§11](#11-certification-record) (*kayıt içerikleri*); [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation), [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation), [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation), [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation), [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation), [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation), [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) ve [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*sınıf, veri, ayak izi, sistemler arası destek, ayrımcılık yasağı, erişilebilirlik, eğitimsel-yetkinlik ve güvenilirlik değerlendirme girdileri*); Gözetim ölçüm ailesi (*anayasal ölçüm olarak Doğruluk ve epistemik bütünlük*); Zamanındalık ölçüm ailesi (*Zamanında çözüm ve gecikme karşıtı disiplin*); İkinci Bölümden Dördüncü Bölüme (*yük, izleme, doğrulama ve kanıt koruma*); [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — **gözetim**, **hesap verebilirlik**, **katılım** ve **zamanındalık**; [**Def.O1** *Şeffaflık, denetlenebilirlik ve doğrulama*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster); [İtiraz edilebilirlik](core_05_band_accountability.md#contestability).
 - Aşağı: [§14](#14-supervisory-sequence-and-contestability-chain) (*gözetim sırası ve itiraz edilebilirlik zinciri*); [§15](#15-relationship-to-standing) (*doğrulanmış-girdi kapısı*); [On Birinci Bölüm §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests) (*forum olay kayıtları, güzergâh-kayıt itirazları*); [On Birinci Bölüm §5](core_11_forum.md#5-escalation-and-certification) (*yükseltme ve belgelendirme ayrıntısı*).
-- Birlikte oku: [Madde XV: Denetim, şeffaflık ve bağımsız doğrulama](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification); [Madde XII-B: İtiraz, inceleme ve onarım hakkı](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); [Kanıt koruma](core_05_band_oversight.md#evidence-preservation); [corpus_systems.md](../../corpus_systems.md), **CS-2 — Bilgi türleri ve işleme** ve **CS-3 — Sistem sınıflaması ve işleme**; **CJS-3.4** (*kademeli şeffaflık ve denetim-erişim koşulları*).
+- Birlikte oku: [Madde XVI: Denetim, şeffaflık ve bağımsız doğrulama](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification); [Madde XIII-B: İtiraz, inceleme ve onarım hakkı](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress); [Kanıt koruma](core_05_band_oversight.md#evidence-preservation); [corpus_systems.md](../../corpus_systems.md), **CS-2 — Bilgi türleri ve işleme** ve **CS-3 — Sistem sınıflaması ve işleme**; **CJS-3.4** (*kademeli şeffaflık ve denetim-erişim koşulları*).
 
 </details>
 
@@ -177,13 +177,13 @@ Aşağıdaki maddilik tetikleyicileri **maddi etkili bir sisteme** uygulandığ�
 
 <br>
 
-*Yalın dille: bir belgelendirme kaydı ancak algılayanlar onu okuyabildiğinde, doğrulayabildiğinde ve yanlış olduğunda geri itebildiğinde işler. Bu kesit o üç gereği — şeffaflık, denetlenebilirlik ve itiraz edilebilirlik — soyut idealler olarak değil, kaydın kendisine doğrudan koyar. **Gözetim** Dörtlü bacağı altında gözetim denetim ister; sistem hizalama belgelendirmesi o tabanları burada karşılaması gereken özellikle büyük bir denetim sürecidir — **Madde XV**i ya da kardeş denetim kiplerini sahiplenecek ya da yerine koymayacaktır.*
+*Yalın dille: bir belgelendirme kaydı ancak algılayanlar onu okuyabildiğinde, doğrulayabildiğinde ve yanlış olduğunda geri itebildiğinde işler. Bu kesit o üç gereği — şeffaflık, denetlenebilirlik ve itiraz edilebilirlik — soyut idealler olarak değil, kaydın kendisine doğrudan koyar. **Gözetim** Dörtlü bacağı altında gözetim denetim ister; sistem hizalama belgelendirmesi o tabanları burada karşılaması gereken özellikle büyük bir denetim sürecidir — **Madde XVI**i ya da kardeş denetim kiplerini sahiplenecek ya da yerine koymayacaktır.*
 
 Bu kesit [Şeffaflık](core_05_band_oversight.md#transparency), [Denetlenebilirlik](core_05_band_oversight.md#auditability) ve [İtiraz edilebilirlik](core_05_band_accountability.md#contestability)i sistem hizalama belgelendirme kayıtlarına uygular. Kanonik terim evleri ve sahip sınırları [Önsöz — anayasal sahip sicili](core_00_preamble.md#4-principles-definitions-and-rights) ve [Yetki yığını ve iç hiyerarşi](core_05_band_integrative.md#owner-non-relocation) altındadır. [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) altında:
 
 - **Şeffaflık** ve **denetlenebilirlik** **gözetimi** uygular;
 - **İtiraz edilebilirlik** **hesap verebilirliği** uygular ve itiraz yollarında **katılımı** korur;
-- **Madde XXIV-C** (*Zamanında çözüm ve gecikme karşıtı taban*) altında kayıt açıklığı ve itiraz saatleri, sistem sınıfına ve [maddi pay](core_00_preamble.md#material-stake)a ölçeklenmiş **zamanındalığı** uygular.
+- **Madde XXV-C** (*Zamanında çözüm ve gecikme karşıtı taban*) altında kayıt açıklığı ve itiraz saatleri, sistem sınıfına ve [maddi pay](core_00_preamble.md#material-stake)a ölçeklenmiş **zamanındalığı** uygular.
 
 **Şeffaflık** — algılayanlar önem taşıyanı görebilmelidir:
 
@@ -283,9 +283,9 @@ Bu kesit **sistem hizalama belgelendirmesi** içinde forum-ailesi **bileşen rol
     - **Madde VI** (*Algılayan-merkezli eğitim hakkı*) altında **algılayan-merkezli eğitim yetkinliği** — o maddilik tetikleyicisi uygulandığında [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) altında değerlendirme dahil;
     - **Madde V-B** (*Ayrımcılık yasağı*) altında **ayrımcılık yasağı tabanları** — o maddilik tetikleyicisi uygulandığında [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) altında değerlendirme dahil;
     - **Madde V-G** (*Erişilebilirlik*) altında **erişilebilirlik tabanları** — o maddilik tetikleyicisi uygulandığında [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) altında değerlendirme dahil;
-    - **Madde XII** (*Sağlam ve güvenilir sistemlere hak*) altında **sağlam ve güvenilir sistem davranışı** — o maddilik tetikleyicisi uygulandığında [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) altında değerlendirme dahil;
+    - **Madde XIII** (*Sağlam ve güvenilir sistemlere hak*) altında **sağlam ve güvenilir sistem davranışı** — o maddilik tetikleyicisi uygulandığında [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) altında değerlendirme dahil;
     - **Madde IV** (*Kaynak tahsisi, bağımlılıklar ve ekosistem finansmanı*) altında **kaynak-tahsisi ve bağımlılık tabanları** — maddi olarak söz konusu olduğunda [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) altında [Orantılı sistemler arası katkı](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) dahil;
-    - **Madde XII-A** (*Güvenilirlik ve güvenilirlik tabanı*) ve [**Güvenli koşullar**](core_05_band_continuity.md#safe-conditions-constitutional) altında maddi olarak söz konusu olduğunda **güvenlik-ilgili tabanlar**.
+    - **Madde XIII-A** (*Güvenilirlik ve güvenilirlik tabanı*) ve [**Güvenli koşullar**](core_05_band_continuity.md#safe-conditions-constitutional) altında maddi olarak söz konusu olduğunda **güvenlik-ilgili tabanlar**.
 - **Anayasal** ve diğer olağan forum aileleri — anayasal ve artık paylar:
   - Anayasal geçerlilik, anlam, sınıf-çapında yapısal çare ya da On Birinci Bölümün yukarıdaki ailelerin dışına atadığı diğer birincil-pay soruları için atanmış bileşen yetkisini tutar;
   - Belgelendirme süreci teknik uzmanlığın ya da Bütünlük eşgüdümünün o atanmış esas rollerini yerinden etmesine izin vermemelidir.
@@ -299,7 +299,7 @@ Bu kesit **sistem hizalama belgelendirmesi** içinde forum-ailesi **bileşen rol
 
 - Yukarı: [§11](#11-certification-record) (*kayıt içerikleri*); [§12](#12-transparency-auditability-and-contestability) (*kayıt bütünlüğü gerekleri*); [§13](#13-forum-supervision-and-component-roles) (*bileşen rol atamaları*); Zamanındalık ölçüm ailesi (*Zamanında çözüm ve gecikme karşıtı disiplin*); [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — **katılım**, **gözetim**, **hesap verebilirlik** ve **zamanındalık**; [On Birinci Bölüm §4](core_11_forum.md#4-forum-family-definitions) (*Bütünlük-liderli hizalama tanıması, bileşen sevki ve doğrulama*); [On Birinci Bölüm §3](core_11_forum.md#3-transfer-consolidation-and-coordination) (*Bütünlük-liderli hizalama eşgüdümü ve kendi-kendini-yargılama karşıtı*).
 - Aşağı: [§15](#15-relationship-to-standing) (*doğrulanmış-girdi kapısı*); [§16](#16-reopening-drift-and-non-evasion) (*yeniden açma tetikleyicileri*); [On Birinci Bölüm §5](core_11_forum.md#5-escalation-and-certification) (*aileden-aileye yükseltme ve anayasal belgelendirme*).
-- Birlikte oku: On Birinci Bölüm §1 altında [Uyuşmazlık sıralaması](core_11_forum.md#dispute-sequencing); [Önsöz §3.3](core_00_preamble.md#33-governance-layers); [corpus_forum.md](../../corpus_forum.md), **CF-5** ve **CF-7**; [Madde XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*İtiraz, inceleme ve onarım hakkı*).
+- Birlikte oku: On Birinci Bölüm §1 altında [Uyuşmazlık sıralaması](core_11_forum.md#dispute-sequencing); [Önsöz §3.3](core_00_preamble.md#33-governance-layers); [corpus_forum.md](../../corpus_forum.md), **CF-5** ve **CF-7**; [Madde XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*İtiraz, inceleme ve onarım hakkı*).
 
 </details>
 
@@ -357,14 +357,14 @@ Belgelendirme kaydı [§11](#11-certification-record)in istediği gibi gözetim 
 - **Yayımlanmış kayıt itiraz yolu** — belgelendirme kaydı hakkındaki olağan bir uyuşmazlık için olağan ilk adım. Kayıt [Etkilenen Tarafların Sistem Katılımı](core_05_band_participation.md#stakeholder-status-and-weight-cluster) itiraz oturağını adlandırır:
   - itirazı kimin aldığı;
   - nasıl verileceği; ve
-  - **Madde XXIV-C** (*Zamanında çözüm ve gecikme karşıtı taban*) altındaki saatlerin teslimden işlediği.
+  - **Madde XXV-C** (*Zamanında çözüm ve gecikme karşıtı taban*) altındaki saatlerin teslimden işlediği.
   
   İç işletici incelemesi, satıcı beyanı ya da teknik imza bu yol değildir.
 - **Bileşen forum yolu** — itiraz edilen bir bileşen bulgusu üzerinde esas yetkisi olan On Birinci Bölüm forum ailesi.
 - **Lider-bütünlük yolu** — itiraz lider forumun süreci nasıl yürüttüğü olduğunda Bütünlük yönlendirmesi ve kendi-kendini-yargılama karşıtı yedek, ele geçirme, gizlenmiş bilgi, kendi-kendini-inceleme ya da belgelendirmeyi erken bitmiş sayma dahil.
 - **Yükseltme yolu** — birincil paylar, anayasal geçerlilik, yapısal çare, aile tıkanması ya da kendi-kendini-yargılama karşıtı koruma istediğinde On Birinci Bölüm aktarımı, belgelendirmesi, yedek yönlendirmesi ve aileden-aileye yükseltmesi.
 
-Gecikme hakları, kanıtı, bağımsızlığı ya da pratik restorasyonu maddi olarak tehlikeye atacaksa bir forum yoluna doğrudan erişim kullanılabilir kalır. Yayımlanmış kayıt itiraz yolunun bitmemiş kullanımı o forum yollarını durdurmamalı ya da **Madde XXIV-C** saatlerini yememelidir.
+Gecikme hakları, kanıtı, bağımsızlığı ya da pratik restorasyonu maddi olarak tehlikeye atacaksa bir forum yoluna doğrudan erişim kullanılabilir kalır. Yayımlanmış kayıt itiraz yolunun bitmemiş kullanımı o forum yollarını durdurmamalı ya da **Madde XXV-C** saatlerini yememelidir.
 
 İtiraz edilebilirlik zinciri o yolları bu sırada kullanır:
 
@@ -372,7 +372,7 @@ Gecikme hakları, kanıtı, bağımsızlığı ya da pratik restorasyonu maddi o
 2. **Bileşen itirazı** (bileşen forum yolu). Bir bileşen bulgusuna sınırlı bir itiraz, o bileşen üzerinde esas yetkisi olan forum ailesine yönlendirilir. Lider forum zamanında inceleme beklerken itiraz edilen bileşene bel bağlamayı [durdurabilir](core_05_band_accountability.md#stay).
 3. **Lider-eşgüdüm itirazı** (lider-bütünlük yolu). Lider forumun süreci nasıl yürüttüğü hakkındaki bir itiraz [On Birinci Bölüm](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) bütünlük ve kendi-kendini-yargılama karşıtı kuralları altında yönlendirilir. Ele geçirme, gizlenmiş bilgi, kendi-kendini-inceleme, kötüye kullanılan adım-düzeni, belgelendirmeyi erken bitmiş sayma ya da diğer lider-forum bütünlük sorunları dahildir. İtiraz o lider forumun kendi yanlılığını, ele geçirmesini, çıkar çatışmasını ya da süreç kötüye kullanımını hedeflediğinde, inceleme aynı lider foruma kapanmasın diye o kurallar altındaki yedek yönlendirme uygulanır.
 4. **Yükseltme ve belgelendirme** (yükseltme yolu). Birincil paylar, anayasal geçerlilik, yapısal çare, aile tıkanması ya da kendi-kendini-yargılama karşıtı koruma istediğinde, itiraz yönlendirmesi On Birinci Bölüm aktarımı, belgelendirmesi, yedek yönlendirmesi ve aileden-aileye yükseltmesi üzerinden sürer.
-5. **İtiraz sırasında bel bağlama sınırları:** Maddi ve zamanında bir itiraz, öngörülebilir zararı önlemek, kanıtı korumak ya da itiraz edilen bir bulguya geri döndürülemez bağımlılığı önlemek için gerekli ölçüde belgelendirme kaydına bel bağlamayı sınırlayabilir ya da duraklatabilir, [Madde XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Zamanında çözüm ve gecikme karşıtı taban*) altında ivedi incelemeye tabidir.
+5. **İtiraz sırasında bel bağlama sınırları:** Maddi ve zamanında bir itiraz, öngörülebilir zararı önlemek, kanıtı korumak ya da itiraz edilen bir bulguya geri döndürülemez bağımlılığı önlemek için gerekli ölçüde belgelendirme kaydına bel bağlamayı sınırlayabilir ya da duraklatabilir, [Madde XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*Zamanında çözüm ve gecikme karşıtı taban*) altında ivedi incelemeye tabidir.
 
 Belgelendirme kaydı itiraz edilebilirlik zincirini — etkilenen tarafların her adımda nasıl itiraz edebileceğini — ve adlandırılmış itiraz edilebilirlik yollarını belirtmelidir.
 
@@ -415,7 +415,7 @@ Forum-gözetimli itiraz gerektiğinde iç işletici incelemesi, satıcı beyanı
 - [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) **Madde V-B** (*Ayrımcılık yasağı*) maddilik tetikleyicisi uygulandığında;
 - [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) **Madde V-G** (*Erişilebilirlik*) maddilik tetikleyicisi uygulandığında;
 - [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) **Madde VI** (*Algılayan-merkezli eğitim hakkı*) maddilik tetikleyicisi uygulandığında;
-- [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) **Madde XII** (*Sağlam ve güvenilir sistemlere hak*) maddilik tetikleyicisi uygulandığında;
+- [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) **Madde XIII** (*Sağlam ve güvenilir sistemlere hak*) maddilik tetikleyicisi uygulandığında;
 - [§12](#12-transparency-auditability-and-contestability) ve [§14](#14-supervisory-sequence-and-contestability-chain);
 - İkinci Bölümden Dördüncü Bölüme, ve uygulanan On Birinci Bölüm süreci.
 
@@ -443,7 +443,7 @@ Forum-gözetimli itiraz gerektiğinde iç işletici incelemesi, satıcı beyanı
 - **Madde V-B** (*Ayrımcılık yasağı*) incelemesi gerektiğinde maddi ayrımcılık yasağı ya da vekil-ayrımcılık kusuru;
 - **Madde V-G** (*Erişilebilirlik*) incelemesi gerektiğinde maddi erişilebilirlik ya da maddi-katılım kusuru;
 - **Madde VI** (*Algılayan-merkezli eğitim hakkı*) incelemesi gerektiğinde maddi eğitimsel-yetkinlik, değerlendirme-opasitesi, kimlik-kapılama ya da dayatılmış-eskiyiş kusuru;
-- **Madde XII** (*Sağlam ve güvenilir sistemlere hak*) incelemesi gerektiğinde maddi güvenilirlik, sahte güven, sapkın teşvik, erişilemeyen-itiraz ya da onarım-bütünlüğü kusuru;
+- **Madde XIII** (*Sağlam ve güvenilir sistemlere hak*) incelemesi gerektiğinde maddi güvenilirlik, sahte güven, sapkın teşvik, erişilemeyen-itiraz ya da onarım-bütünlüğü kusuru;
 - sınıfa-uygunsuz altyapı kırılganlığı.
 
 **Sınır** — belgelendirme güzergâh değildir:

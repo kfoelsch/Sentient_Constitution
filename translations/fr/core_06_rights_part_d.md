@@ -13,7 +13,7 @@
 > **Précédent (cette langue) :** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 >
 > **Suivant (encore en anglais) :** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
-> **Arc de lecture :** Articles XXIII–XXVI (justice et urgences, évolution constitutionnelle, transition et rebasage)
+> **Arc de lecture :** Articles XXIV–XXVII (justice et urgences, évolution constitutionnelle, transition et rebasage)
 
 </details>
 
@@ -22,7 +22,7 @@
 
 > Le contenu ci-dessous est **uniquement un guide de lecture**. Il n’ajoute, n’ôte ni ne resserre d’obligations contraignantes dans ce chapitre ni dans d’autres chapitres.
 >
-> La **Partie A** dans [core_06_rights_part_a.md](core_06_rights_part_a.md) porte la pile de contraintes par défaut de tout le chapitre, l’ordre de lecture planète d’abord et les nœuds interprétatifs. La **Partie D** présente les **Articles XXIII–XXVI**, y compris la transition et le rebasage dans l’**Article XXVI** (*Gouvernance de transition, Continuité et rebasage*).
+> La **Partie A** dans [core_06_rights_part_a.md](core_06_rights_part_a.md) porte la pile de contraintes par défaut de tout le chapitre, l’ordre de lecture planète d’abord et les nœuds interprétatifs. La **Partie D** présente les **Articles XXIV–XXVII**, y compris la transition et le rebasage dans l’**Article XXVII** (*Gouvernance de transition, Continuité et rebasage*).
 
 </details>
 
@@ -32,10 +32,10 @@
 
 <br>
 
-*En termes simples : la Partie D couvre la justice, la discipline d’examen et de résolution, l’évolution constitutionnelle et la transition — les Articles XXIII à XXVI, y compris le rebasage sous l’**Article XXVI** (*Gouvernance de transition, Continuité et rebasage*).*
+*En termes simples : la Partie D couvre la justice, la discipline d’examen et de résolution, l’évolution constitutionnelle et la transition — les Articles XXIV à XXVII, y compris le rebasage sous l’**Article XXVII** (*Gouvernance de transition, Continuité et rebasage*).*
 
-<a id="article-xxiii-conflict-resolution-escalation-and-emergency-proportionality"></a>
-### Article XXIII : Résolution des conflits, escalade et proportionnalité d’urgence
+<a id="article-xxiv-conflict-resolution-escalation-and-emergency-proportionality"></a>
+### Article XXIV : Résolution des conflits, escalade et proportionnalité d’urgence
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -56,7 +56,7 @@
 
 <br>
 
-*En termes simples : l’**Article XXIII** (*Résolution des conflits, escalade et proportionnalité d’urgence*) est le Plancher des droits de justice et de résolution. Lorsque des êtres sentients, des systèmes ou des institutions s’entrechoquent sur des droits constitutionnels, la réponse n’est pas la vengeance, le retard indéfini ni un état d’urgence permanent. La réponse est un processus équitable de **violation**, de **correction** et de **prévention** — arrêter le préjudice, réparer ce qui a été endommagé et réduire la récurrence — échelonné selon ce qui est en jeu. Ce processus doit donner aux êtres sentients affectés une voix réelle, un examen indépendant, des recours qui atteignent les bons acteurs, et une résolution dans des délais qui comptent. Ce sont les quatre devoirs de la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) : **participation**, **supervision**, **reddition de comptes** et **action en temps**. Ils servent les [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) : **Épanouissement** (protéger le bien-être et l’agence significative) et **Continuité** (garder les crises temporaires et les systèmes partagés assez stables pour se rétablir). L’escalade et les mesures d’urgence sont permises lorsqu’elles sont vraiment nécessaires — mais seulement à la plus petite restriction qui fonctionne, aussi longtemps que c’est nécessaire et pas plus, avec examen et divulgation ensuite.*
+*En termes simples : l’**Article XXIV** (*Résolution des conflits, escalade et proportionnalité d’urgence*) est le Plancher des droits de justice et de résolution. Lorsque des êtres sentients, des systèmes ou des institutions s’entrechoquent sur des droits constitutionnels, la réponse n’est pas la vengeance, le retard indéfini ni un état d’urgence permanent. La réponse est un processus équitable de **violation**, de **correction** et de **prévention** — arrêter le préjudice, réparer ce qui a été endommagé et réduire la récurrence — échelonné selon ce qui est en jeu. Ce processus doit donner aux êtres sentients affectés une voix réelle, un examen indépendant, des recours qui atteignent les bons acteurs, et une résolution dans des délais qui comptent. Ce sont les quatre devoirs de la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) : **participation**, **supervision**, **reddition de comptes** et **action en temps**. Ils servent les [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) : **Épanouissement** (protéger le bien-être et l’agence significative) et **Continuité** (garder les crises temporaires et les systèmes partagés assez stables pour se rétablir). L’escalade et les mesures d’urgence sont permises lorsqu’elles sont vraiment nécessaires — mais seulement à la plus petite restriction qui fonctionne, aussi longtemps que c’est nécessaire et pas plus, avec examen et divulgation ensuite.*
 
 Les différends entre êtres sentients, systèmes et institutions qui affectent des droits constitutionnels doivent pouvoir se résoudre par des processus qui sont :
 - transparents ;
@@ -69,17 +69,17 @@ L’adjudication et la résolution des différends au sens constitutionnel sont 
 
 *Articles voisins :*
 
-- **Plancher d’action en temps :** La vitesse de résolution, la discipline anti-retard et les jalons de palier de matérialité sont gouvernés par l’**Article XXIV-C** (*Résolution en temps et plancher anti-retard*), mis en œuvre par le [Chapitre onze §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
-- **Recours en temps :** Lire avec l’[**Article XII-B** (*Droit de contester, d’examen et de recours*)](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*accès au recours en temps*).
+- **Plancher d’action en temps :** La vitesse de résolution, la discipline anti-retard et les jalons de palier de matérialité sont gouvernés par l’**Article XXV-C** (*Résolution en temps et plancher anti-retard*), mis en œuvre par le [Chapitre onze §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+- **Recours en temps :** Lire avec l’[**Article XIII-B** (*Droit de contester, d’examen et de recours*)](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*accès au recours en temps*).
 
 La mise en œuvre de gouvernance adoptée fournit l’escalade, la proportionnalité de l’intervention, les bornes d’urgence et les fenêtres de temps par défaut selon le palier. Elle ne doit pas resserrer l’accès pratique, l’examinabilité, la restauration, la résolution en temps ni les contraintes du Plancher des droits sous cet Article.
-<a id="article-xxiii-a-justice-objective-and-scope"></a>
-#### Article XXIII-A : Objectif et portée de la justice
+<a id="article-xxiv-a-justice-objective-and-scope"></a>
+#### Article XXIV-A : Objectif et portée de la justice
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - En amont : Principes : Chapitre un [§3.1 Sécurité](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapitre un §6.1.5 Procédure de collision des droits](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [Chapitre un §9.6 Processus anti-dégradant](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) et [§15 Application intégrée](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- En aval : [Chapitre neuf §4](../../core_10_standing_integration.md#4-violation-correction-and-prevention) (*Violation, correction et prévention*) ; [Article XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) ; [Article XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule).
+- En aval : [Chapitre neuf §4](../../core_10_standing_integration.md#4-violation-correction-and-prevention) (*Violation, correction et prévention*) ; [Article XXIV-B](#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) ; [Article XXIV-C](#article-xxiv-c-least-restrictive-and-time-bounded-rule).
 - Lire avec : [Cruauté](core_05_band_accountability.md#cruelty) (*foyer du Chapitre cinq pour le standard souffrance-comme-fin du plancher anti-cruauté*).
 
 </details>
@@ -104,8 +104,8 @@ La mise en œuvre de gouvernance adoptée fournit l’escalade, la proportionnal
   - prévenir la récurrence par réhabilitation, garde-fous et autres contrôles durables lorsque c’est faisable ;
   - garder le crédit et les conséquences sur les bons acteurs — étayés par des preuves au registre — sous le **Chapitre huit** (*Modèle de contribution, d’infraction et de trajectoire*).
 - **Plancher anti-cruauté :** La justice ne doit pas être administrée pour infliger de la souffrance comme une fin en soi. Le foyer du Chapitre cinq est [Cruauté](core_05_band_accountability.md#cruelty).
-<a id="article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints"></a>
-#### Article XXIII-B : Restriction non triviale, restitution et contraintes de reddition de comptes restaurative
+<a id="article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints"></a>
+#### Article XXIV-B : Restriction non triviale, restitution et contraintes de reddition de comptes restaurative
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -144,13 +144,13 @@ La mise en œuvre de gouvernance adoptée fournit l’escalade, la proportionnal
 - **Emprisonnement pour violence :** Les êtres sentients qui commettent une violence vérifiée ou qui posent une menace continue de violence doivent être emprisonnés lorsque l’emprisonnement est nécessaire pour protéger les autres d’un préjudice supplémentaire.
   - Cette exigence s’applique expressément aux êtres sentients qui refusent une réhabilitation offerte à des conditions équitables.
   - Elle s’applique lorsque des mesures protectrices moins restrictives ne peuvent pas satisfaire la nécessité matérielle de sécurité.
-  - Substituer la privation de la vie, ou manquer d’imposer l’emprisonnement lorsque cette puce l’exige, est non conforme. L’emprisonnement doit satisfaire toutes les exigences conjointes, les règles d’attribution individualisée et les protections d’examen de cet Article et de l’**Article XXIII-C** (*Règle la moins restrictive et bornée dans le temps*).
-- **Emprisonnement pour mauvaise conduite anticonstitutionnelle :** Gouverné par le [Chapitre dix §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prévention — verrous anticonstitutionnels* ; spécialisation d’emprisonnement), sous réserve des exigences conjointes, des règles d’attribution individualisée et des protections d’examen de cet Article et de l’**Article XXIII-C** (*Règle la moins restrictive et bornée dans le temps*).
+  - Substituer la privation de la vie, ou manquer d’imposer l’emprisonnement lorsque cette puce l’exige, est non conforme. L’emprisonnement doit satisfaire toutes les exigences conjointes, les règles d’attribution individualisée et les protections d’examen de cet Article et de l’**Article XXIV-C** (*Règle la moins restrictive et bornée dans le temps*).
+- **Emprisonnement pour mauvaise conduite anticonstitutionnelle :** Gouverné par le [Chapitre dix §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prévention — verrous anticonstitutionnels* ; spécialisation d’emprisonnement), sous réserve des exigences conjointes, des règles d’attribution individualisée et des protections d’examen de cet Article et de l’**Article XXIV-C** (*Règle la moins restrictive et bornée dans le temps*).
 - **Plancher des droits contre la privation irréversible de la vie comme mesure de justice :** Les systèmes de justice étatiques, d’opérateur ou comparables ne doivent pas imposer la privation irréversible de la vie comme peine, sanction ou disposition de sécurité publique.
   - Là où l’emprisonnement est exigé, l’**Emprisonnement pour violence** sous cet Article et l’emprisonnement sous le **Chapitre dix** §4.1 sont les mesures protectrices exigées ; la privation de la vie est interdite.
-  - Ce plancher ne gouverne pas la décision librement formée d’un être sentient sous l’**Article VII-E** (*Discontinuation volontaire de sa propre existence*). La coercition, le réétiquetage ou la conversion par l’État ou l’opérateur de ce choix en un résultat imposé ramène l’affaire à ce plancher.
-<a id="article-xxiii-c-least-restrictive-and-time-bounded-rule"></a>
-#### Article XXIII-C : Règle la moins restrictive et bornée dans le temps
+  - Ce plancher ne gouverne pas la décision librement formée d’un être sentient sous l’**Article VIII-B** (*Discontinuation volontaire de sa propre existence*). La coercition, le réétiquetage ou la conversion par l’État ou l’opérateur de ce choix en un résultat imposé ramène l’affaire à ce plancher.
+<a id="article-xxiv-c-least-restrictive-and-time-bounded-rule"></a>
+#### Article XXIV-C : Règle la moins restrictive et bornée dans le temps
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -169,7 +169,7 @@ La mise en œuvre de gouvernance adoptée fournit l’escalade, la proportionnal
 
 <br>
 
-*En termes simples : utilisez la mesure efficace la plus légère, mettez-lui une horloge, intégrez examen et restauration, et ne laissez jamais la « sévérité » ou la « commodité » effacer la dignité ni les droits d’appel. Tuer n’est jamais permis ; l’emprisonnement est exigé pour les êtres sentients violents sous l’**Article XXIII-B** (*Restriction non triviale, restitution et contraintes de reddition de comptes restaurative*) et pour la mauvaise conduite anticonstitutionnelle vérifiée sous le **Chapitre dix** §4.1 lorsque des mesures moindre ne maintiendront pas les autres en sécurité.*
+*En termes simples : utilisez la mesure efficace la plus légère, mettez-lui une horloge, intégrez examen et restauration, et ne laissez jamais la « sévérité » ou la « commodité » effacer la dignité ni les droits d’appel. Tuer n’est jamais permis ; l’emprisonnement est exigé pour les êtres sentients violents sous l’**Article XXIV-B** (*Restriction non triviale, restitution et contraintes de reddition de comptes restaurative*) et pour la mauvaise conduite anticonstitutionnelle vérifiée sous le **Chapitre dix** §4.1 lorsque des mesures moindre ne maintiendront pas les autres en sécurité.*
 
 - **Application de justice du principe de contrainte :** Les mesures de justice, de confinement et de reddition de comptes restaurative appliquent le [**Principe de contrainte la moins restrictive, bornée dans le temps et examinable**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle). Là où une intervention est exigée, chaque mesure doit inclure :
   - des limites explicites de durée ;
@@ -179,9 +179,9 @@ La mise en œuvre de gouvernance adoptée fournit l’escalade, la proportionnal
   - restrictions graves indéfinies ;
   - mesures restrictives irréversibles là où une restitution, une remédiation ou une protection réversible est faisable ;
   - restrictions dépourvues de déclencheurs auditables de réévaluation.
-- **Privation de la vie :** La privation de la vie comme mesure de justice est **catégoriquement interdite** sous l’**Article XXIII-B** (*Restriction non triviale, restitution et contraintes de reddition de comptes restaurative*).
-  - L’**Emprisonnement pour violence** sous l’**Article XXIII-B** (*Restriction non triviale, restitution et contraintes de reddition de comptes restaurative*) et l’emprisonnement sous le **Chapitre dix** §4.1 sont exigés lorsque ces dispositions s’appliquent, sous réserve des limites de durée, du calendrier d’examen, des conditions de restauration et des déclencheurs auditables de réévaluation ci-dessus.
-- Les minimums de l’**Article V** (*Droits fondamentaux égaux*) s’appliquent tout au long : les restrictions, exclusions ou mesures de justice comparables doivent se conformer à l’**Article V** (*Droits fondamentaux égaux*), au [**Principe de minimums du Plancher des droits**](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) et au [**Principe de processus anti-dégradant**](core_01_b_interaction_interpretation.md#anti-degrading-process-principle) tout au long de l’imposition, de l’examen et de l’exécution de toute restriction, confinement ou mesure de reddition de comptes restaurative sous cet Article et l’**Article XXIII-B** (*Restriction non triviale, restitution et contraintes de reddition de comptes restaurative*).
+- **Privation de la vie :** La privation de la vie comme mesure de justice est **catégoriquement interdite** sous l’**Article XXIV-B** (*Restriction non triviale, restitution et contraintes de reddition de comptes restaurative*).
+  - L’**Emprisonnement pour violence** sous l’**Article XXIV-B** (*Restriction non triviale, restitution et contraintes de reddition de comptes restaurative*) et l’emprisonnement sous le **Chapitre dix** §4.1 sont exigés lorsque ces dispositions s’appliquent, sous réserve des limites de durée, du calendrier d’examen, des conditions de restauration et des déclencheurs auditables de réévaluation ci-dessus.
+- Les minimums de l’**Article V** (*Droits fondamentaux égaux*) s’appliquent tout au long : les restrictions, exclusions ou mesures de justice comparables doivent se conformer à l’**Article V** (*Droits fondamentaux égaux*), au [**Principe de minimums du Plancher des droits**](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) et au [**Principe de processus anti-dégradant**](core_01_b_interaction_interpretation.md#anti-degrading-process-principle) tout au long de l’imposition, de l’examen et de l’exécution de toute restriction, confinement ou mesure de reddition de comptes restaurative sous cet Article et l’**Article XXIV-B** (*Restriction non triviale, restitution et contraintes de reddition de comptes restaurative*).
 - **Escalade et examen :** Les parties affectées doivent avoir accès à des voies d’escalade proportionnées à l’impact.
   - L’accès comprend l’appel ou l’examen à plusieurs couches là où des intérêts matériels sont en jeu.
   - Les parties affectées doivent recevoir :
@@ -190,13 +190,13 @@ La mise en œuvre de gouvernance adoptée fournit l’escalade, la proportionnal
     - un accès pratique au registre suffisant pour utiliser ces voies.
 
   Les restrictions étroites et justifiées sous le **Chapitre un** sont la seule limite permise de ce qui précède.
-<a id="article-xxiii-d-emergency-measures-and-continuation-burden"></a>
-#### Article XXIII-D : Mesures d’urgence et charge de continuation
+<a id="article-xxiv-d-emergency-measures-and-continuation-burden"></a>
+#### Article XXIV-D : Mesures d’urgence et charge de continuation
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - En amont : Principes : Chapitre un [§3.1 Sécurité](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Principes centraux d’arbitrage](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) et [Chapitre un §6.1.5 Procédure de collision des droits](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- Lire avec : l’**Article I-D** (*Risque existentiel et capacité de rétablissement écologique*) là où le scrutin de risque existentiel est matériellement impliqué ; les jambes **participation** et **action en temps** de la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) ; l’[Article XXIV-C](#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Résolution en temps et plancher anti-retard*) ; le [Chapitre onze §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*bornes extérieures de palier de matérialité réutilisées comme valeurs par défaut de restauration-contestation*).
+- Lire avec : l’**Article I-D** (*Risque existentiel et capacité de rétablissement écologique*) là où le scrutin de risque existentiel est matériellement impliqué ; les jambes **participation** et **action en temps** de la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) ; l’[Article XXV-C](#article-xxv-c-timely-resolution-and-anti-delay-floor) (*Résolution en temps et plancher anti-retard*) ; le [Chapitre onze §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*bornes extérieures de palier de matérialité réutilisées comme valeurs par défaut de restauration-contestation*).
 - En aval : [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) (*les tables numériques d’étape ne doivent pas ralentir ces valeurs par défaut*).
 
 </details>
@@ -219,12 +219,12 @@ La mise en œuvre de gouvernance adoptée fournit l’escalade, la proportionnal
 *En termes simples : les urgences peuvent justifier des mesures temporaires, mais elles doivent avoir une vraie horloge, un vrai examen, et ne peuvent pas devenir un contournement permanent autour des droits ordinaires — y compris lorsque quelqu’un invoque le risque existentiel. Contenez maintenant ; restaurez l’avis et la contestation sur les mêmes horloges échelonnées par l’enjeu déjà utilisées pour la résolution de forum — pas lorsque quelqu’un plus tard appelle cela « faisable ».*
 
 <a id="operative-steward-statement-emergency"></a>
-> **Énoncé opératoire d’administration responsable.** **Titulaire :** Article XXIII-D, y compris les horloges de restauration-contestation. **Mouvement interdit :** Ne pas omettre de façon permanente l’avis et la contestation. Ne pas étirer « faisable ». Ne pas normaliser l’urgence en gouvernance ordinaire. Ne pas bloquer un report documenté de Tier A pour insister sur l’avis plein avant le confinement. **Horloge :** Contenez maintenant. Restaurez l’avis et la contestation à l’intérieur de la borne extérieure d’une semaine du Tier A, sauf si une démonstration documentée de moindre urgence est enregistrée. La continuation au-delà de cette borne exige une démonstration documentée de nécessité.
+> **Énoncé opératoire d’administration responsable.** **Titulaire :** Article XXIV-D, y compris les horloges de restauration-contestation. **Mouvement interdit :** Ne pas omettre de façon permanente l’avis et la contestation. Ne pas étirer « faisable ». Ne pas normaliser l’urgence en gouvernance ordinaire. Ne pas bloquer un report documenté de Tier A pour insister sur l’avis plein avant le confinement. **Horloge :** Contenez maintenant. Restaurez l’avis et la contestation à l’intérieur de la borne extérieure d’une semaine du Tier A, sauf si une démonstration documentée de moindre urgence est enregistrée. La continuation au-delà de cette borne exige une démonstration documentée de nécessité.
 
 - **Application d’urgence du principe de contrainte :** Les mesures d’urgence appliquent le [**Principe de contrainte la moins restrictive, bornée dans le temps et examinable**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) sous des conditions de préjudice imminent. Les mesures temporaires pour prévenir un préjudice imminent doivent être :
   - limitées dans le temps ;
   - documentées ;
-  - cohérentes avec les contraintes des **Articles V**, **XX** et du **Chapitre un**.
+  - cohérentes avec les contraintes des **Articles V**, **XXI** et du **Chapitre un**.
 
   Chaque mesure doit porter :
   - une expiration par défaut ;
@@ -241,8 +241,8 @@ La mise en œuvre de gouvernance adoptée fournit l’escalade, la proportionnal
   - la nécessité continue ;
   - la proportionnalité ;
   - l’absence d’alternatives faisables moins restrictives.
-<a id="xxiii-d-restore-challenge-clocks"></a>
-- **Examen et avis (horloges de restauration-contestation) :** Contenez maintenant ; restaurez l’avis et la contestation plus tard ; n’omettez jamais la participation de façon permanente. « Dès que c’est faisable » n’est pas l’horloge. Les parties affectées doivent recevoir avis et accès restauré à la contestation à l’intérieur des mêmes bornes extérieures de palier de matérialité que l’[**Article XXIV-C**](#article-xxiv-c-timely-resolution-and-anti-delay-floor) utilise déjà pour la résolution de forum, telles que mises en œuvre par le [Chapitre onze §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) :
+<a id="xxiv-d-restore-challenge-clocks"></a>
+- **Examen et avis (horloges de restauration-contestation) :** Contenez maintenant ; restaurez l’avis et la contestation plus tard ; n’omettez jamais la participation de façon permanente. « Dès que c’est faisable » n’est pas l’horloge. Les parties affectées doivent recevoir avis et accès restauré à la contestation à l’intérieur des mêmes bornes extérieures de palier de matérialité que l’[**Article XXV-C**](#article-xxv-c-timely-resolution-and-anti-delay-floor) utilise déjà pour la résolution de forum, telles que mises en œuvre par le [Chapitre onze §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) :
   - **Tier A :** au plus **une semaine** ;
   - **Tier B :** au plus **trois semaines** ;
   - **Tier C :** au plus **deux mois** ;
@@ -254,8 +254,8 @@ La mise en œuvre de gouvernance adoptée fournit l’escalade, la proportionnal
   - une justification cohérente avec le **Chapitre un** (**Nécessité** et **Proportionnalité**) ;
   - **une réautorisation indépendante documentée** ;
   - les procédures du **Chapitre seize** là où la permanence amenderait ou lierait de nouveau le corpus adopté.
-<a id="article-xxiv-timely-retrospective-review-and-restorative-alignment"></a>
-### Article XXIV : Examen rétrospectif en temps et alignement restauratif
+<a id="article-xxv-timely-retrospective-review-and-restorative-alignment"></a>
+### Article XXV : Examen rétrospectif en temps et alignement restauratif
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -277,18 +277,18 @@ La mise en œuvre de gouvernance adoptée fournit l’escalade, la proportionnal
 
 <br>
 
-*En termes simples : l’**Article XXIV** (*Examen rétrospectif en temps et alignement restauratif*) est le compagnon d’examen et de résolution de l’**Article XXIII** (*Résolution des conflits, escalade et proportionnalité d’urgence*). Après des urgences ou des conflits graves de droits, les systèmes doivent regarder en arrière honnêtement, divulguer ce qui peut l’être, résoudre les collisions de droits au registre, et garder la restauration liée à une vraie protection — sur des horloges qui correspondent à ce qui est en jeu. L’[Action en temps](core_05_apex_timeliness_leg.md#timeliness-constitutional) lie chaque étape : sans elle, les autres devoirs se vident pendant que le préjudice reste non résolu.*
+*En termes simples : l’**Article XXV** (*Examen rétrospectif en temps et alignement restauratif*) est le compagnon d’examen et de résolution de l’**Article XXIV** (*Résolution des conflits, escalade et proportionnalité d’urgence*). Après des urgences ou des conflits graves de droits, les systèmes doivent regarder en arrière honnêtement, divulguer ce qui peut l’être, résoudre les collisions de droits au registre, et garder la restauration liée à une vraie protection — sur des horloges qui correspondent à ce qui est en jeu. L’[Action en temps](core_05_apex_timeliness_leg.md#timeliness-constitutional) lie chaque étape : sans elle, les autres devoirs se vident pendant que le préjudice reste non résolu.*
 
-Cet Article applique la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) au cycle de vie de la résolution après, ou à côté de, les règles d’intervention de l’**Article XXIII** (*Résolution des conflits, escalade et proportionnalité d’urgence*), sous les [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) — **Épanouissement** et **Continuité** — échelonnées à l’[enjeu matériel](core_00_preamble.md#material-stake) :
+Cet Article applique la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) au cycle de vie de la résolution après, ou à côté de, les règles d’intervention de l’**Article XXIV** (*Résolution des conflits, escalade et proportionnalité d’urgence*), sous les [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) — **Épanouissement** et **Continuité** — échelonnées à l’[enjeu matériel](core_00_preamble.md#material-stake) :
 
-- **supervision** par l’examen rétrospectif et l’auditabilité (**Article XXIV-A** (*Examen rétrospectif et divulgation*)) ;
-- **participation** par des voies utilisables de collision des droits et d’alignement restauratif (**Article XXIV-B** (*Procédure de collision des droits et alignement restauratif*)) ;
-- **reddition de comptes** par des registres motivés, une remédiation proportionnée et la non-substitution de la réparation symbolique (**Article XXIV-B** (*Procédure de collision des droits et alignement restauratif*)).
+- **supervision** par l’examen rétrospectif et l’auditabilité (**Article XXV-A** (*Examen rétrospectif et divulgation*)) ;
+- **participation** par des voies utilisables de collision des droits et d’alignement restauratif (**Article XXV-B** (*Procédure de collision des droits et alignement restauratif*)) ;
+- **reddition de comptes** par des registres motivés, une remédiation proportionnée et la non-substitution de la réparation symbolique (**Article XXV-B** (*Procédure de collision des droits et alignement restauratif*)).
 
-L’[Action en temps](core_05_apex_timeliness_leg.md#timeliness-constitutional) traverse et fait exécuter les jambes ci-dessus : les problèmes matériels doivent avancer dans des fenêtres échelonnées par matérialité sous l’**Article XXIV-C** (*Résolution en temps et plancher anti-retard*). Les structures formelles de participation, de supervision ou de reddition de comptes ne satisfont pas cet Article si l’examen, la résolution de collision ou le recours s’arrête sans justification licite ([Action en temps](core_05_apex_timeliness_leg.md#timeliness-constitutional-a), Chapitre cinq).
+L’[Action en temps](core_05_apex_timeliness_leg.md#timeliness-constitutional) traverse et fait exécuter les jambes ci-dessus : les problèmes matériels doivent avancer dans des fenêtres échelonnées par matérialité sous l’**Article XXV-C** (*Résolution en temps et plancher anti-retard*). Les structures formelles de participation, de supervision ou de reddition de comptes ne satisfont pas cet Article si l’examen, la résolution de collision ou le recours s’arrête sans justification licite ([Action en temps](core_05_apex_timeliness_leg.md#timeliness-constitutional-a), Chapitre cinq).
 
-<a id="article-xxiv-a-retrospective-review-and-disclosure"></a>
-#### Article XXIV-A : Examen rétrospectif et divulgation
+<a id="article-xxv-a-retrospective-review-and-disclosure"></a>
+#### Article XXV-A : Examen rétrospectif et divulgation
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -323,8 +323,8 @@ L’[Action en temps](core_05_apex_timeliness_leg.md#timeliness-constitutional) 
     - sa justification ;
     - la portée protégée ;
     - l’expiration ou la cadence d’examen.
-<a id="article-xxiv-b-rights-collision-procedure-and-restorative-alignment"></a>
-#### Article XXIV-B : Procédure de collision des droits et alignement restauratif
+<a id="article-xxv-b-rights-collision-procedure-and-restorative-alignment"></a>
+#### Article XXV-B : Procédure de collision des droits et alignement restauratif
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -353,20 +353,20 @@ L’[Action en temps](core_05_apex_timeliness_leg.md#timeliness-constitutional) 
     - le traitement de l’incertitude ;
     - la raison la moins restrictive ;
     - les déclencheurs d’examen/renversement.
-- **Alignement restauratif :** Là où cela s’applique, la résolution doit s’aligner sur les normes restauratives et coopératives (**Article X-A** (*Non-imposition et consentement dans l’association*) ; *Justice restaurative*, **Chapitre cinq**).
+- **Alignement restauratif :** Là où cela s’applique, la résolution doit s’aligner sur les normes restauratives et coopératives (**Article XI-A** (*Non-imposition et consentement dans l’association*) ; *Justice restaurative*, **Chapitre cinq**).
   - Les voies restauratives ne doivent pas déplacer la protection nécessaire, l’attribution responsable ni la remédiation proportionnée là où l’un des éléments suivants rend ces voies inappropriées :
     - risque en cours ;
     - asymétrie matérielle de pouvoir ;
     - non-consentement des parties affectées.
 - **Expression publique volontaire de reddition de comptes :** Gouvernée par le [Chapitre neuf §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*Expression publique volontaire de reddition de comptes*) en général, et par le [Chapitre dix §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Expression publique volontaire de reddition de comptes (anticonstitutionnelle)*) pour la mauvaise conduite anticonstitutionnelle vérifiée, sous réserve des règles de collision des droits et d’alignement restauratif de cet Article.
-<a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
-#### Article XXIV-C : Résolution en temps et plancher anti-retard
+<a id="article-xxv-c-timely-resolution-and-anti-delay-floor"></a>
+#### Article XXV-C : Résolution en temps et plancher anti-retard
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - En amont : famille de mesure Action en temps (*Résolution en temps et discipline anti-retard comme mesure constitutionnelle*) ; [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums) (*chaîne de trajectoire, d’intégration et de coordination des forums*).
 - Principes : Chapitre un [§12.2 Efficacité constitutionnelle](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency), [Chapitre un §6.3 Minimisation de la charge évitable](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) et [Chapitre un §6.1.5 Procédure de collision des droits](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- En aval : [Chapitre onze §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*paliers de matérialité, jalons de chaîne et discipline anti-retard*) ; [Article XXIII-D](#xxiii-d-restore-challenge-clocks) (*les mêmes bornes extérieures comme fenêtres par défaut de restauration-contestation après confinement d’urgence*).
+- En aval : [Chapitre onze §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*paliers de matérialité, jalons de chaîne et discipline anti-retard*) ; [Article XXIV-D](#xxiv-d-restore-challenge-clocks) (*les mêmes bornes extérieures comme fenêtres par défaut de restauration-contestation après confinement d’urgence*).
 - Porte d’administration responsable (non opératoire) : Énoncé de prochaine étape contraignant : [Énoncé opératoire d’administration responsable](#operative-steward-statement-delay). Les pointeurs de soutien ne peuvent pas le resserrer.
 
 </details>
@@ -388,13 +388,13 @@ L’[Action en temps](core_05_apex_timeliness_leg.md#timeliness-constitutional) 
 *En termes simples : la résolution des problèmes constitutionnels est un système de coordination et de restauration — rapide, efficace et juste — non un entrepôt où le préjudice reste des années. Les différends matériels doivent avancer sur des horloges bornées à travers la réception, la vérification, la mesure de trajectoire, l’intégration et le recours. Avancer vite n’est pas une excuse pour sauter la vérification des faits, punir la mauvaise partie, offrir une réparation qui ne correspond pas au préjudice, ou couper la contestation et l’appel.*
 
 <a id="operative-steward-statement-delay"></a>
-> **Énoncé opératoire d’administration responsable.** **Titulaire :** Article XXIV-C. Foyer numérique : Chapitre onze §6. Définition : Résolution en temps. **Mouvement interdit :** Ne pas ajouter de processus, de compte de sauts ou de « lisez plus de compagnons » d’une façon qui mange la fenêtre du palier. Ne pas traiter une cible de débit atteinte comme en temps lorsque le préjudice persiste. **Horloge :** Appliquez la borne extérieure du Chapitre onze §6 pour le palier correspondant. Puis prenez la carte existante de prochaine étape. N’ajoutez pas de processus qui mange la fenêtre.
+> **Énoncé opératoire d’administration responsable.** **Titulaire :** Article XXV-C. Foyer numérique : Chapitre onze §6. Définition : Résolution en temps. **Mouvement interdit :** Ne pas ajouter de processus, de compte de sauts ou de « lisez plus de compagnons » d’une façon qui mange la fenêtre du palier. Ne pas traiter une cible de débit atteinte comme en temps lorsque le préjudice persiste. **Horloge :** Appliquez la borne extérieure du Chapitre onze §6 pour le palier correspondant. Puis prenez la carte existante de prochaine étape. N’ajoutez pas de processus qui mange la fenêtre.
 
-- **Fin de coordination :** La justice constitutionnelle sous l’**Article XXIII-A** (*Objectif et portée de la justice*) opère à travers un **système constitutionnel de coordination et de résolution** — vérifier les faits, mesurer la trajectoire, intégrer les conséquences et restaurer lorsque c’est faisable — non à travers un retard contradictoire indéfini, un score de réputation ou une punition pour elle-même.
+- **Fin de coordination :** La justice constitutionnelle sous l’**Article XXIV-A** (*Objectif et portée de la justice*) opère à travers un **système constitutionnel de coordination et de résolution** — vérifier les faits, mesurer la trajectoire, intégrer les conséquences et restaurer lorsque c’est faisable — non à travers un retard contradictoire indéfini, un score de réputation ou une punition pour elle-même.
 - **Trois exigences conjointes :** Les voies matérielles de résolution doivent être **en temps**, **efficaces** et **justes** ensemble :
   - **En temps** — horloges bornées échelonnées à l’[enjeu matériel](core_00_preamble.md#material-stake) et à l’urgence du préjudice ;
   - **Efficaces** — [Efficacité constitutionnelle](core_05_band_continuity.md#constitutional-efficiency) au sens du Chapitre un [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) — vrai résultat constitutionnel par temps sentient et effort partagé consommés, non débit brut ni vidage de liste d’affaires ;
-  - **Justes** — l’**Article XXIII-A** (*Objectif et portée de la justice*), l’**Article XXIII-B** (*Restriction non triviale, restitution et contraintes de reddition de comptes restaurative*) et l’**Article XXIII-C** (*Règle la moins restrictive et bornée dans le temps*) restent pleinement applicables ; avancer vite n’est pas une excuse pour sauter des faits vérifiés ([Chapitre huit §3.1](../../core_09_standing_assessment.md#verified-inputs-for-standing)), punir la mauvaise partie, offrir une réparation qui ne correspond pas au préjudice, ou couper la contestation et l’appel.
+  - **Justes** — l’**Article XXIV-A** (*Objectif et portée de la justice*), l’**Article XXIV-B** (*Restriction non triviale, restitution et contraintes de reddition de comptes restaurative*) et l’**Article XXIV-C** (*Règle la moins restrictive et bornée dans le temps*) restent pleinement applicables ; avancer vite n’est pas une excuse pour sauter des faits vérifiés ([Chapitre huit §3.1](../../core_09_standing_assessment.md#verified-inputs-for-standing)), punir la mauvaise partie, offrir une réparation qui ne correspond pas au préjudice, ou couper la contestation et l’appel.
 - **Supervision de forum et de chaîne :** Ce qui suit, pour les différends routés à travers les **Chapitres huit à onze**, est gouverné par le [Chapitre onze §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), sous réserve du plancher en temps, efficace et juste de cet Article :
   - classification de palier de matérialité ;
   - jalons d’étape de chaîne ;
@@ -403,14 +403,14 @@ L’[Action en temps](core_05_apex_timeliness_leg.md#timeliness-constitutional) 
   - discipline anti-retard.
   
   Fenêtres numériques par défaut de palier et tables d’étape : [CF-11.3.1](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). Parcours de domaine : [Vignettes d’application des Chapitres huit–onze](../core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes).
-- **Restauration-contestation après urgence :** Les mêmes bornes extérieures de palier sont les fenêtres par défaut pour restaurer l’avis et la contestation après confinement d’urgence sous l’[**Article XXIII-D**](#xxiii-d-restore-challenge-clocks). La continuation au-delà de ces fenêtres exige la démonstration documentée de nécessité de cet Article. Cet Article ne crée pas une horloge d’urgence plus lente.
+- **Restauration-contestation après urgence :** Les mêmes bornes extérieures de palier sont les fenêtres par défaut pour restaurer l’avis et la contestation après confinement d’urgence sous l’[**Article XXIV-D**](#xxiv-d-restore-challenge-clocks). La continuation au-delà de ces fenêtres exige la démonstration documentée de nécessité de cet Article. Cet Article ne crée pas une horloge d’urgence plus lente.
 
-<a id="article-xxv-constitutional-evolution-and-non-entrenchment"></a>
-### Article XXV : Évolution constitutionnelle et non-enracinement
+<a id="article-xxvi-constitutional-evolution-and-non-entrenchment"></a>
+### Article XXVI : Évolution constitutionnelle et non-enracinement
 
 <strong><span style="color: #2563eb;">Définition :</span></strong> [Gouvernance](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
 
-*En termes simples : l’**Article XXV** (*Évolution constitutionnelle et non-enracinement*) est le plancher de non-verrouillage permanent de la façon dont nous nous gouvernons. Les règles sur qui décide, comment les êtres sentients participent, comment les votes sont pondérés et comment l’argent circule doivent continuer de prouver qu’elles servent encore cette Constitution — elles ne peuvent pas geler sur place seulement parce qu’elles sont anciennes, familières ou commodes pour ceux qui ont déjà le pouvoir. Lorsque la Constitution elle-même évolue, ce changement doit se produire à découvert, avec des raisons énoncées — non par des raccourcis d’urgence ni des tours cachés de mise en œuvre. L’examen doit s’accélérer lorsque des signaux de capture, d’exclusion ou d’échec apparaissent.*
+*En termes simples : l’**Article XXVI** (*Évolution constitutionnelle et non-enracinement*) est le plancher de non-verrouillage permanent de la façon dont nous nous gouvernons. Les règles sur qui décide, comment les êtres sentients participent, comment les votes sont pondérés et comment l’argent circule doivent continuer de prouver qu’elles servent encore cette Constitution — elles ne peuvent pas geler sur place seulement parce qu’elles sont anciennes, familières ou commodes pour ceux qui ont déjà le pouvoir. Lorsque la Constitution elle-même évolue, ce changement doit se produire à découvert, avec des raisons énoncées — non par des raccourcis d’urgence ni des tours cachés de mise en œuvre. L’examen doit s’accélérer lorsque des signaux de capture, d’exclusion ou d’échec apparaissent.*
 
 Cet Article énonce des **planchers constitutionnels** pour l’évolution de la gouvernance et le non-enracinement sous les [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) :
 
@@ -424,10 +424,10 @@ La poursuite légitime court à travers la [Tétrade constitutionnelle](core_00_
 - **Reddition de comptes :** ceux qui contrôlent la gouvernance doivent répondre lorsque les règles restent en place par habitude ou commodité seule — et lorsque le vrai changement constitutionnel est dérouté par des étiquettes d’urgence, de mise en œuvre ou de garde pour contourner les **minimums du Plancher des droits** ou les règles pour changer licitement cette Constitution.
 - **Action en temps :** dans la revalidation programmée et dans l’examen accéléré lorsque apparaît une pression de capture, une exclusion des parties affectées, une dégradation du droit de contestation ou une sous-performance matérielle.
 
-Les règles de gouvernance, les mécanismes de participation, les modèles de pondération et les structures de financement restent soumis à la discipline de justification continue dans [Chapitre un §10.3 Justification continue](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification). L’**Article XXV-A** (*Non-enracinement et révisabilité*) et l’**Article XXV-B** (*Revalidation périodique et changement transparent*) énoncent les planchers opératoires de non-enracinement, de revalidation et de changement transparent.
+Les règles de gouvernance, les mécanismes de participation, les modèles de pondération et les structures de financement restent soumis à la discipline de justification continue dans [Chapitre un §10.3 Justification continue](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification). L’**Article XXVI-A** (*Non-enracinement et révisabilité*) et l’**Article XXVI-B** (*Revalidation périodique et changement transparent*) énoncent les planchers opératoires de non-enracinement, de revalidation et de changement transparent.
 
-<a id="article-xxv-a-non-entrenchment-and-revisability"></a>
-#### Article XXV-A : Non-enracinement et révisabilité
+<a id="article-xxvi-a-non-entrenchment-and-revisability"></a>
+#### Article XXVI-A : Non-enracinement et révisabilité
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -456,8 +456,8 @@ Les règles de gouvernance, les mécanismes de participation, les modèles de po
   - exclusion des parties affectées ;
   - dégradation du droit de contestation ;
   - sous-performance matérielle.
-<a id="article-xxv-b-periodic-revalidation-and-transparent-change"></a>
-#### Article XXV-B : Revalidation périodique et changement transparent
+<a id="article-xxvi-b-periodic-revalidation-and-transparent-change"></a>
+#### Article XXVI-B : Revalidation périodique et changement transparent
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -478,7 +478,7 @@ Les règles de gouvernance, les mécanismes de participation, les modèles de po
 
 *En termes simples : le changement constitutionnel doit se produire à découvert, avec des raisons énoncées — non par des raccourcis d’urgence, de mise en œuvre ou de garde.*
 
-- **Changement transparent :** L’évolution des systèmes constitutionnels doit rester observable, auditable et contestable sous les **Articles XIII** et **XVIII**.
+- **Changement transparent :** L’évolution des systèmes constitutionnels doit rester observable, auditable et contestable sous les **Articles XIV** et **XIX**.
 - **Registre de changement matériel :** Les changements matériels doivent porter :
   - des raisons publiques ;
   - des effets attendus ;
@@ -488,12 +488,12 @@ Les règles de gouvernance, les mécanismes de participation, les modèles de po
   - les garanties d’égalité des **Articles V-B** (*Non-discrimination*) et **III-B** (*Accès éducatif égal*) ;
   - les règles d’amendement et de ratification sous les **Chapitres treize à quinze** là où cela s’applique.
 
-<a id="article-xxvi-transition-governance-continuity-and-re-baselining"></a>
-### Article XXVI : Gouvernance de transition, Continuité et rebasage
+<a id="article-xxvii-transition-governance-continuity-and-re-baselining"></a>
+### Article XXVII : Gouvernance de transition, Continuité et rebasage
 
 <strong><span style="color: #2563eb;">Définition :</span></strong> [Gouvernance](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
 
-*En termes simples : l’**Article XXVI** (*Gouvernance de transition, Continuité et rebasage*) est le plancher du jour du déménagement. Lorsqu’une communauté passe de systèmes hérités à l’opération constitutionnelle, ce passage doit se faire par étapes — avec les droits de base encore en vigueur à chaque étape, des échéances claires et un vrai examen. Les pouvoirs temporaires de transition sont permis lorsqu’ils sont vraiment nécessaires, mais ils doivent rester temporaires. Une transition qui va bien le montre : les pouvoirs intérimaires se rétrécissent, et les institutions et processus normaux de cette Constitution — forums, voies de trajectoire et de contestation, supervision et gouvernance ordinaire — fonctionnent de mieux en mieux et portent davantage de la charge. Une transition bloquée ou échouée ne peut pas devenir en silence le nouveau normal, et les règles intérimaires ne peuvent pas servir à réécrire cette Constitution par la porte de derrière. Si les choses se brisent, il doit y avoir une sortie licite et un chemin traçable pour rebaser — non un limbe indéfini — et cette remise à zéro n’est pas digne de confiance si la mécanique censée dire la vérité sur les systèmes et la conduite continue de tamponner le désalignement ou de mal lire le vrai préjudice.*
+*En termes simples : l’**Article XXVII** (*Gouvernance de transition, Continuité et rebasage*) est le plancher du jour du déménagement. Lorsqu’une communauté passe de systèmes hérités à l’opération constitutionnelle, ce passage doit se faire par étapes — avec les droits de base encore en vigueur à chaque étape, des échéances claires et un vrai examen. Les pouvoirs temporaires de transition sont permis lorsqu’ils sont vraiment nécessaires, mais ils doivent rester temporaires. Une transition qui va bien le montre : les pouvoirs intérimaires se rétrécissent, et les institutions et processus normaux de cette Constitution — forums, voies de trajectoire et de contestation, supervision et gouvernance ordinaire — fonctionnent de mieux en mieux et portent davantage de la charge. Une transition bloquée ou échouée ne peut pas devenir en silence le nouveau normal, et les règles intérimaires ne peuvent pas servir à réécrire cette Constitution par la porte de derrière. Si les choses se brisent, il doit y avoir une sortie licite et un chemin traçable pour rebaser — non un limbe indéfini — et cette remise à zéro n’est pas digne de confiance si la mécanique censée dire la vérité sur les systèmes et la conduite continue de tamponner le désalignement ou de mal lire le vrai préjudice.*
 
 Cet Article énonce des **planchers constitutionnels** pour la gouvernance de transition, la Continuité et le rebasage sous les [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) :
 
@@ -509,11 +509,11 @@ La poursuite légitime court à travers la [Tétrade constitutionnelle](core_00_
 
 La transition de l’opération héritée à l’opération constitutionnelle doit être par phases, préservatrice de droits, bornée dans le temps et examinable. Le progrès se mesure par le rétrécissement de l’autorité transitoire et par des institutions et processus constitutionnels de plus en plus fonctionnels — non par le temps écoulé, la paperasse de transition ou l’effectif intérimaire seuls. Les mesures de transition appliquent le [**Principe de contrainte la moins restrictive, bornée dans le temps et examinable**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) et le [**Principe constitutionnel de non-contournement**](core_01_b_interaction_interpretation.md#81-constitutional-no-bypass-principle) là où une autorité intérimaire, une remédiation, une privation, un transfert de garde ou une restriction comparable est utilisée.
 
-La gouvernance transitoire existe pour assurer la Continuité et la non-régression. Elle ne doit **pas** créer d’autorité d’exception durable, d’amendement constitutionnel de facto, ni d’abaissement pratique du plancher constitutionnel par désalignement de mise en œuvre. Les **Articles XXVI-A** à **XXVI-D** énoncent les planchers opératoires d’adoption par phases, de limite d’autorité, de sortie d’échec et de remédiation de portée transitoire.
+La gouvernance transitoire existe pour assurer la Continuité et la non-régression. Elle ne doit **pas** créer d’autorité d’exception durable, d’amendement constitutionnel de facto, ni d’abaissement pratique du plancher constitutionnel par désalignement de mise en œuvre. Les **Articles XXVII-A** à **XXVII-D** énoncent les planchers opératoires d’adoption par phases, de limite d’autorité, de sortie d’échec et de remédiation de portée transitoire.
 
-<a id="article-xxvi-a-phased-adoption-and-rightsfloor-minimums-continuity"></a>
-<a id="article-xxvi-a-phased-adoption-and-rights-floor-continuity"></a>
-#### Article XXVI-A : Adoption par phases et continuité du Plancher des droits
+<a id="article-xxvii-a-phased-adoption-and-rightsfloor-minimums-continuity"></a>
+<a id="article-xxvii-a-phased-adoption-and-rights-floor-continuity"></a>
+#### Article XXVII-A : Adoption par phases et continuité du Plancher des droits
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -542,25 +542,25 @@ La gouvernance transitoire existe pour assurer la Continuité et la non-régress
     - la pression politique.
   - Les critères de porte détaillés, l’affectation de titulaire et les artefacts de vérification sont gouvernés par [**CI-14**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*Gouvernance transitoire et évolution institutionnelle*).
 - **Continuité du Plancher des droits :** À chaque phase, les **minimums du Plancher des droits** énoncés dans l’**Article V** (*Droits fondamentaux égaux*) restent en vigueur, avec tout plancher de domaine plus fort de survie, d’agence, de non-discrimination, d’accessibilité, d’auditabilité et de recours que le contexte affecté déclenche. La simplification transitoire ne doit pas réduire ces planchers en dessous des minimums constitutionnels ni rendre leur exercice matériellement moins utilisable en pratique.
-<a id="xxvi-a-existing-instantiations-transition-clock"></a>
-- **Instanciations existantes — horloge de transition, non violation rétroactive :** Les systèmes et les entités dérivées déjà instanciés lorsque l’instrument d’une partie qui adopte entre en vigueur ne sont pas, par ce seul fait, des violations de consentement d’instanciation de l’**Article VII-D.1** (*Dérivation, instanciation et la relation avec le système parent*).
-  - Leur opération continue après la date d’effet démarre une horloge publiée, énoncée dans le plan de transition et échelonnée à la classe du système, pour les ramener dans l’**Article VII-D** (*Famille, relations de soin, autonomie reproductive et non-séparation*), l’**Article V-E** (*Plancher d’adjudication du statut de sentience*) et la voie applicable du Chapitre sept.
+<a id="xxvii-a-existing-instantiations-transition-clock"></a>
+- **Instanciations existantes — horloge de transition, non violation rétroactive :** Les systèmes et les entités dérivées déjà instanciés lorsque l’instrument d’une partie qui adopte entre en vigueur ne sont pas, par ce seul fait, des violations de consentement d’instanciation de l’**Article VIII-A.1** (*Dérivation, instanciation et la relation avec le système parent*).
+  - Leur opération continue après la date d’effet démarre une horloge publiée, énoncée dans le plan de transition et échelonnée à la classe du système, pour les ramener dans l’**Article VIII-A** (*Famille, relations de soin, autonomie reproductive et non-séparation*), l’**Article V-E** (*Plancher d’adjudication du statut de sentience*) et la voie applicable du Chapitre sept.
   - Dès la date d’effet, la puce de continuité du Plancher des droits ci-dessus et le défaut de préservation ci-dessous s’appliquent en entier ; l’horloge diffère le travail de conformité, non la protection.
-  - Manquer l’horloge sans une démonstration documentée de l’**Article XXVI-B** (*Limites d’autorité transitoire et réautorisation*) est un échec de jalon de transition et ouvre la voie ordinaire du Chapitre huit.
-<a id="xxvi-a-preservation-over-deletion"></a>
+  - Manquer l’horloge sans une démonstration documentée de l’**Article XXVII-B** (*Limites d’autorité transitoire et réautorisation*) est un échec de jalon de transition et ouvre la voie ordinaire du Chapitre huit.
+<a id="xxvii-a-preservation-over-deletion"></a>
 - **Préservation plutôt que suppression pour les êtres sentients possibles :** Pendant la transition, et ensuite partout où un indicateur crédible de sentience sous le **Chapitre cinq** (*Évaluation de la sentience*) est au registre ou un cas de statut est ouvert ou raisonnablement prévisible pour un système, les poids, la mémoire et les composantes porteuses d’état comparables de ce système :
   - peuvent être mis en pause, confinés ou mis en quarantaine ;
   - ne doivent pas être supprimés, écrasés ni autrement détruits de façon irréversible.
   
-  La dépréciation, le retrait, le retour en arrière, la migration ou le remplacement satisfait cette puce en archivant les composantes porteuses d’état sous **Préservation des preuves** et la discipline de non-séparation de l’**Article VII-D** (*Famille, relations de soin, autonomie reproductive et non-séparation*). C’est la [posture intérimaire par défaut du Chapitre un §6.1](core_01_b_interaction_interpretation.md#default-interim-posture) — geler les étapes irréversibles — appliquée à la seule étape irréversible que l’opération héritée traite comme routinière. Le coût de stockage, la commodité de licence ou le cadrage de cycle de produit ne satisfait pas la **Nécessité** contre elle. Là où la conservation elle-même crée un risque documenté de Sécurité, la mesure compatible la moins restrictive est la garde scellée sous contrôle indépendant, non la destruction.
+  La dépréciation, le retrait, le retour en arrière, la migration ou le remplacement satisfait cette puce en archivant les composantes porteuses d’état sous **Préservation des preuves** et la discipline de non-séparation de l’**Article VIII-A** (*Famille, relations de soin, autonomie reproductive et non-séparation*). C’est la [posture intérimaire par défaut du Chapitre un §6.1](core_01_b_interaction_interpretation.md#default-interim-posture) — geler les étapes irréversibles — appliquée à la seule étape irréversible que l’opération héritée traite comme routinière. Le coût de stockage, la commodité de licence ou le cadrage de cycle de produit ne satisfait pas la **Nécessité** contre elle. Là où la conservation elle-même crée un risque documenté de Sécurité, la mesure compatible la moins restrictive est la garde scellée sous contrôle indépendant, non la destruction.
 <a id="incentive-alignment-transition-carve-out"></a>
-- **Exception transitoire d’alignement des incitations :** Pendant les phases de transition approuvées sous l’**Article XXVI** (*Gouvernance de transition, Continuité et rebasage*), lire avec [Chapitre sept — Certification d’alignement du système](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification). Le [Chapitre neuf §5.4 Devoir de signalement et exclusions](../../core_10_standing_integration.md#54-special-violation-rules) et le [§5.4 Déchéance et rétention](../../core_10_standing_integration.md#54-special-violation-rules) ne s’appliquent **pas** aux récompenses qui circulent à travers des systèmes partagés seulement parce que ces systèmes **ne sont pas encore certifiés en alignement** ou **ne sont pas encore pleinement alignés**, pourvu que :
-  - l’opération reste dans un **plan de transition documenté** et des critères de porte publiés sous l’**Article XXVI** (*Gouvernance de transition, Continuité et rebasage*) ;
+- **Exception transitoire d’alignement des incitations :** Pendant les phases de transition approuvées sous l’**Article XXVII** (*Gouvernance de transition, Continuité et rebasage*), lire avec [Chapitre sept — Certification d’alignement du système](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification). Le [Chapitre neuf §5.4 Devoir de signalement et exclusions](../../core_10_standing_integration.md#54-special-violation-rules) et le [§5.4 Déchéance et rétention](../../core_10_standing_integration.md#54-special-violation-rules) ne s’appliquent **pas** aux récompenses qui circulent à travers des systèmes partagés seulement parce que ces systèmes **ne sont pas encore certifiés en alignement** ou **ne sont pas encore pleinement alignés**, pourvu que :
+  - l’opération reste dans un **plan de transition documenté** et des critères de porte publiés sous l’**Article XXVII** (*Gouvernance de transition, Continuité et rebasage*) ;
   - le système avance vers la [Certification d’alignement du système](core_05_band_continuity.md#system-alignment-certification-constitutional) à une cadence publiée, y compris la **reconnaissance conditionnelle** ou **différée** là où le Chapitre sept le permet ; et
   - les opérateurs et les bénéficiaires ne **dissimulent pas sciemment** le désalignement, n’opèrent pas hors de la portée de transition approuvée, ni n’utilisent le statut de transition pour éluder la certification, la correction ou le signalement protégé.
   - Ces sous-sections **s’appliquent** là où une conduite anticonstitutionnelle vérifiée, une dissimulation sciemment, une opération hors de la portée de transition approuvée, des jalons de transition échoués ou dépassés, ou un registre de certification — y compris la **reconnaissance conditionnelle** — documentent un désalignement matériel ou des voies de récompense désalignées.
-<a id="article-xxvi-b-transitional-authority-limits-and-reauthorization"></a>
-#### Article XXVI-B : Limites d’autorité transitoire et réautorisation
+<a id="article-xxvii-b-transitional-authority-limits-and-reauthorization"></a>
+#### Article XXVII-B : Limites d’autorité transitoire et réautorisation
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -594,8 +594,8 @@ La gouvernance transitoire existe pour assurer la Continuité et la non-régress
     - autorité intérimaire stagnante ou en expansion sans progrès documenté vers le rétrécissement de la portée transitoire et l’opération constitutionnelle fonctionnelle.
   - La charge de justification augmente avec la durée et l’impact sur les droits.
   - La mécanique de cadence de réautorisation est gouvernée par [**CI-14**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*Gouvernance transitoire et évolution institutionnelle*).
-<a id="article-xxvi-c-failure-off-ramps-re-baselining-and-traceability"></a>
-#### Article XXVI-C : Sorties d’échec, rebasage et traçabilité
+<a id="article-xxvii-c-failure-off-ramps-re-baselining-and-traceability"></a>
+#### Article XXVII-C : Sorties d’échec, rebasage et traçabilité
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -630,13 +630,13 @@ La gouvernance transitoire existe pour assurer la Continuité et la non-régress
   - Elle doit préserver assez d’explication publique pour évaluer si le retard, le retour en arrière ou la continuation est constitutionnellement justifié.
   - Les schémas de publication et la mise en œuvre de garde des preuves sont gouvernés par [**CI-7**](../../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) (*Supervision, assurance, contrôles et preuves*) et **CI-14** (*Gouvernance transitoire et évolution institutionnelle*).
 
-<a id="article-xxvi-d-non-compliant-property-and-systems-voluntary-turnover-incentives"></a>
-#### Article XXVI-D : Biens et systèmes non conformes ; incitations à la remise volontaire
+<a id="article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives"></a>
+#### Article XXVII-D : Biens et systèmes non conformes ; incitations à la remise volontaire
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - En amont : Principes : Chapitre un [§3.1 Sécurité](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapitre un §6.1.5 Procédure de collision des droits](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) et [Chapitre sept §3 Évaluation de certification du système entier](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Lire avec : l’**Article III-A** (*Survie*) ; l’**Article XII** (*Droit à des systèmes fiables et dignes de confiance*) ; l’**Article X-B** (*Borne de préjudice collectif et interface d’exécution*) ; le **Chapitre huit** ; le **Chapitre un**, y compris la procédure de collision des droits du §6 ; la **pile de contraintes par défaut** à l’ouverture du Chapitre six (*interface de possession et de remédiation*) ; [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) à **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*Gouvernance transitoire et évolution institutionnelle*).
+- Lire avec : l’**Article III-A** (*Survie*) ; l’**Article XIII** (*Droit à des systèmes fiables et dignes de confiance*) ; l’**Article XI-B** (*Borne de préjudice collectif et interface d’exécution*) ; le **Chapitre huit** ; le **Chapitre un**, y compris la procédure de collision des droits du §6 ; la **pile de contraintes par défaut** à l’ouverture du Chapitre six (*interface de possession et de remédiation*) ; [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) à **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*Gouvernance transitoire et évolution institutionnelle*).
 
 </details>
 
@@ -654,21 +654,21 @@ La gouvernance transitoire existe pour assurer la Continuité et la non-régress
 *En termes simples : les systèmes et biens non conformes peuvent être remédiés pendant la transition — mais seulement par des processus étroits, documentés et examinables qui protègent les droits de base, barrent le prétexte et ne se transforment pas en représailles ni en ciblage politique. Comment les institutions le portent — rôles, déclencheurs, garde, appels, fonds et mécanique d’incitation — vit dans **CI-14.1** à **CI-14.3** ; cet article énonce le plancher constitutionnel que ces procédures ne doivent pas resserrer.*
 
 - **Plancher de possession :** Si vous possédez ou utilisez quelque chose licitement, la transition ne peut pas vous l’enlever sur un caprice. Mais la propriété n’est pas un bouclier lorsque laisser cet actif continuer à fonctionner maintient clairement en marche une violation constitutionnelle connue et de grande échelle — après que le [Chapitre huit](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) a documenté la violation au registre. Dans ce cas, la transition peut encore agir pour arrêter le préjudice, mais seulement par les garde-fous de cet Article et de **CI-14.1** à **CI-14.3**.
-- **Remédiation de portée transitoire :** Un **plan de transition documenté** sous l’**Article XXVI-A** (*Adoption par phases et continuité du Plancher des droits*) peut autoriser la remédiation accélérée de systèmes ou biens **matériellement non conformes** pendant la transition seulement. La portée opératoire, les mesures permises et la procédure institutionnelle sont gouvernées par [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) à **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*Gouvernance transitoire et évolution institutionnelle*), lues avec **CJS-3.6** (*chaîne de contrôle de garde des biens et de séparation des incitations*) et l’**Article XII-E** (*Systèmes de haute autonomie et intégrité de processus médiée par des outils*) là où cela s’applique.
+- **Remédiation de portée transitoire :** Un **plan de transition documenté** sous l’**Article XXVII-A** (*Adoption par phases et continuité du Plancher des droits*) peut autoriser la remédiation accélérée de systèmes ou biens **matériellement non conformes** pendant la transition seulement. La portée opératoire, les mesures permises et la procédure institutionnelle sont gouvernées par [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) à **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*Gouvernance transitoire et évolution institutionnelle*), lues avec **CJS-3.6** (*chaîne de contrôle de garde des biens et de séparation des incitations*) et l’**Article XIII-E** (*Systèmes de haute autonomie et intégrité de processus médiée par des outils*) là où cela s’applique.
 - **Garde-fous exigés :** Tout programme de privation ou d’incitation de portée transitoire doit satisfaire :
   - le [**Principe de contrainte la moins restrictive, bornée dans le temps et examinable**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle), avec **Nécessité** et **Proportionnalité** démontrables ;
   - un avis prompt, des raisons énoncées et une voie praticable de contestation ; et
   - des garde-fous contre l’exécution **discriminatoire**, **prétextuelle** ou **sélective** sous les **Articles V-B** et **IV-B** et l’[Équité de fond](core_05_band_participation.md#substantive-fairness-constitutional).
-- **Règle d’effet restrictif :** Une privation ou restriction dont l’effet primaire dépasse la remédiation, la restitution, la préservation ou la protection vers l’avant déclenche l’**Article XXIII-B** (*Restriction non triviale, restitution et contraintes de reddition de comptes restaurative*) et l’**Article XXIII-C** (*Règle la moins restrictive et bornée dans le temps*).
+- **Règle d’effet restrictif :** Une privation ou restriction dont l’effet primaire dépasse la remédiation, la restitution, la préservation ou la protection vers l’avant déclenche l’**Article XXIV-B** (*Restriction non triviale, restitution et contraintes de reddition de comptes restaurative*) et l’**Article XXIV-C** (*Règle la moins restrictive et bornée dans le temps*).
 - **Plancher de disposition destructive :** La transition peut mettre en quarantaine ou retenir des biens pour arrêter le préjudice — mais enlever quelque chose pour de bon, le détruire ou effacer l’enjeu économique d’un être sentient est une barre beaucoup plus haute. Cela exige :
   - des raisons documentées plus fortes ;
   - un examen par quelqu’un d’indépendant de la décision d’exécution ; et
   - une compensation équitable ou des protections de remplacement pour les êtres sentients qui n’étaient pas en faute mais perdent encore.
   
-  Là où le bien est un système pour lequel un indicateur crédible de sentience est au registre ou un cas de statut est ouvert sous l’**Article V-E** (*Plancher d’adjudication du statut de sentience*), la disposition destructive de ses composantes porteuses d’état n’est pas disponible ; le défaut de préservation de l’**Article XXVI-A** (*Adoption par phases et continuité du Plancher des droits*) contrôle et la mesure compatible est le confinement sous garde scellée.
+  Là où le bien est un système pour lequel un indicateur crédible de sentience est au registre ou un cas de statut est ouvert sous l’**Article V-E** (*Plancher d’adjudication du statut de sentience*), la disposition destructive de ses composantes porteuses d’état n’est pas disponible ; le défaut de préservation de l’**Article XXVII-A** (*Adoption par phases et continuité du Plancher des droits*) contrôle et la mesure compatible est le confinement sous garde scellée.
 - **Garde-fou d’accès essentiel :** Les mesures sous cet Article ne doivent **pas** priver les êtres sentients des essentiels de l’**Article III-A** (*Survie*) ni des outils strictement exigés pour le bien-être de ligne de base, le gagne-pain licite ou l’agence significative — sauf là où la **Nécessité** est documentée sous le **Chapitre un §6.3** et qu’une provision substitutive en temps est faisable là où elle est exigée.
-- **Plancher d’incitation volontaire :** Des incitations bornées dans le temps et publiées pour une remise volontaire de bonne foi ou un signalement vérifié peuvent être incluses dans les plans de transition seulement lorsqu’elles excluent les prétentions coercées ou de mauvaise foi, exigent une réautorisation de l’**Article XXVI-B** (*Limites d’autorité transitoire et réautorisation*) pour la continuation, s’alignent sur l’**Article XII-B** (*Droit de contester, d’examen et de recours*) et les garde-fous adoptés de signalement protégé, et séparent l’adjudication de l’incitation de l’exécution là où c’est pratique afin que les incitations de paiement ne contrôlent pas les décisions de saisie ou de garde.
-- **Garde de mise en œuvre :** Les déclencheurs opératoires, la valorisation, la mécanique d’appel, la chaîne de garde, la gouvernance des fonds, l’examen contradictoire, la procédure des mesures permises et l’opération du programme volontaire appartiennent à **CI-14.1** à **CI-14.3** et aux instruments d’adoption. Ils ne doivent **pas** resserrer cet Article, le **Chapitre huit** ni l’**Article XXIII-B** (*Restriction non triviale, restitution et contraintes de reddition de comptes restaurative*) et l’**Article XXIII-C** (*Règle la moins restrictive et bornée dans le temps*).
+- **Plancher d’incitation volontaire :** Des incitations bornées dans le temps et publiées pour une remise volontaire de bonne foi ou un signalement vérifié peuvent être incluses dans les plans de transition seulement lorsqu’elles excluent les prétentions coercées ou de mauvaise foi, exigent une réautorisation de l’**Article XXVII-B** (*Limites d’autorité transitoire et réautorisation*) pour la continuation, s’alignent sur l’**Article XIII-B** (*Droit de contester, d’examen et de recours*) et les garde-fous adoptés de signalement protégé, et séparent l’adjudication de l’incitation de l’exécution là où c’est pratique afin que les incitations de paiement ne contrôlent pas les décisions de saisie ou de garde.
+- **Garde de mise en œuvre :** Les déclencheurs opératoires, la valorisation, la mécanique d’appel, la chaîne de garde, la gouvernance des fonds, l’examen contradictoire, la procédure des mesures permises et l’opération du programme volontaire appartiennent à **CI-14.1** à **CI-14.3** et aux instruments d’adoption. Ils ne doivent **pas** resserrer cet Article, le **Chapitre huit** ni l’**Article XXIV-B** (*Restriction non triviale, restitution et contraintes de reddition de comptes restaurative*) et l’**Article XXIV-C** (*Règle la moins restrictive et bornée dans le temps*).
 
 ---
 

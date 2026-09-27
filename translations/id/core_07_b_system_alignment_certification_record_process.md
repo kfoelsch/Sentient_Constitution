@@ -11,9 +11,9 @@
 >
 > Berisi **Bab Tujuh, Bagian B** — isi **catatan** sertifikasi, transparansi dan dapat-digugat, peran komponen forum, urutan supervisi, jembatan jejak, dan pembukaan ulang (**§11–§16**, berlanjut dari Bagian A §1–§10). **Bagian A** — persyaratan evaluasi — ada di [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md).
 >
-> - **Pemilik konstitusional (bersama Bagian A):** **sertifikasi keselarasan sistem dan catatan terkait** yang disupervisi forum. Di bawah kaki Tetrad **pengawasan**, SAC adalah satu proses audit yang sangat besar dan bertaruhan tinggi di antara yang lain; lantai audit tetap di **Pasal XV** dan [Dapat diaudit](core_05_band_oversight.md#auditability) Bab Lima.
+> - **Pemilik konstitusional (bersama Bagian A):** **sertifikasi keselarasan sistem dan catatan terkait** yang disupervisi forum. Di bawah kaki Tetrad **pengawasan**, SAC adalah satu proses audit yang sangat besar dan bertaruhan tinggi di antara yang lain; lantai audit tetap di **Pasal XVI** dan [Dapat diaudit](core_05_band_oversight.md#auditability) Bab Lima.
 > - **Masukan evaluasi:** [Bagian A §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) sampai [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) memasok keluaran evaluasi yang tercermin pada catatan sertifikasi.
-> - **Aturan anti-relokasi:** Bagian B tidak menyatakan ulang mekanika evaluasi Bagian A, definisi kanonik Bab Lima, pengukuran jejak Bab Delapan, atau akibat jejak Bab Sembilan. **§15** menyatakan batas jembatan jejak secara tegas. Bagian B juga tidak memindahkan kepemilikan audit dari **Pasal XV** / **Def.O1** / **CJS-3.3**–**CJS-3.5**.
+> - **Aturan anti-relokasi:** Bagian B tidak menyatakan ulang mekanika evaluasi Bagian A, definisi kanonik Bab Lima, pengukuran jejak Bab Delapan, atau akibat jejak Bab Sembilan. **§15** menyatakan batas jembatan jejak secara tegas. Bagian B juga tidak memindahkan kepemilikan audit dari **Pasal XVI** / **Def.O1** / **CJS-3.3**–**CJS-3.5**.
 >
 > **Hulu:** [Bagian A](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation); supervisi forum Bab Sebelas; disiplin verifikasi Bab Dua sampai Empat.
 > **Hilir:** catatan jejak dan masukan terverifikasi Bab Delapan; akibat jejak Bab Sembilan.
@@ -85,7 +85,7 @@ Catatan harus mengidentifikasi, setidaknya:
 - **Evaluasi nondiskriminasi:** temuan pola beban-dan-manfaat, temuan karakteristik terlindung dan diskriminasi-pengganti, dan temuan komponen keadilan substantif sebagaimana dituntut [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) di mana pemicu materialitas **Pasal V-B** (*Nondiskriminasi*) berlaku;
 - **Evaluasi aksesibilitas:** temuan partisipasi-substantif, akomodasi, dan anti-penolakan-lewat-pengganti sebagaimana dituntut [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) di mana pemicu materialitas **Pasal V-G** (*Aksesibilitas*) berlaku;
 - **Evaluasi kapabilitas pendidikan dan integritas sistem pembelajaran:** temuan pembangunan-kapabilitas, jalur-pelatihan-ulang, transparansi-penilaian, dan dapat-digugatnya sistem pembelajaran sebagaimana dituntut [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) di mana pemicu materialitas **Pasal VI** (*Hak atas Pendidikan Berpusat pada Makhluk Sadar*) berlaku;
-- **Evaluasi keterpercayaan dan integritas ketergantungan-sistem:** temuan keandalan, kepercayaan-palsu, insentif-menyimpang, jalur-gugatan, dan integritas-pemulihan sebagaimana dituntut [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) di mana pemicu materialitas **Pasal XII** (*Hak atas Sistem yang Andal dan Terpercaya*) berlaku;
+- **Evaluasi keterpercayaan dan integritas ketergantungan-sistem:** temuan keandalan, kepercayaan-palsu, insentif-menyimpang, jalur-gugatan, dan integritas-pemulihan sebagaimana dituntut [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) di mana pemicu materialitas **Pasal XIII** (*Hak atas Sistem yang Andal dan Terpercaya*) berlaku;
 - **Bukti teknis dan jaminan:** standar teknis, uji, pengukuran, ketidakpastian, marjin keselamatan, modus kegagalan, hasil uji-regresi dan uji-keamanan bagi siklus sertifikasi atau resertifikasi, dan dasar bukti yang secara material diandalkan;
 - **Tinjauan pihak terdampak, lingkungan, dan integritas:**
   - pertimbangan pihak terdampak, Lantai Hak, aksesibilitas, ketergantungan, dan partisipasi;
@@ -120,7 +120,7 @@ Catatan sertifikasi harus mencerminkan keluaran evaluasi dari:
   - [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) di mana pemicu materialitas **Pasal V-B** (*Nondiskriminasi*) berlaku;
   - [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) di mana pemicu materialitas **Pasal V-G** (*Aksesibilitas*) berlaku;
   - [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) di mana pemicu materialitas **Pasal VI** (*Hak atas Pendidikan Berpusat pada Makhluk Sadar*) berlaku;
-  - [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) di mana pemicu materialitas **Pasal XII** (*Hak atas Sistem yang Andal dan Terpercaya*) berlaku;
+  - [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) di mana pemicu materialitas **Pasal XIII** (*Hak atas Sistem yang Andal dan Terpercaya*) berlaku;
 - **Integritas catatan** — [§12](#12-transparency-auditability-and-contestability); dan
 - **Urutan supervisi dan jalur gugatan** — [§14](#14-supervisory-sequence-and-contestability-chain).
 
@@ -136,7 +136,7 @@ Ketika pemicu materialitas di bawah berlaku pada **sistem yang berdampak secara 
 
 - **Hal pokok kelangsungan hidup, pendidikan, dan kondisi aman:**
   - Berlaku ketika sistem memasok, mengalokasikan, menetapkan harga, menampung, atau mengakhiri akses ke hal pokok kelangsungan hidup, akses pendidikan yang setara, atau [**Kondisi aman**](core_05_band_continuity.md#safe-conditions-constitutional);
-  - Catatan harus mengevaluasi apakah pengakuan atau ketergantungan berlanjut akan menutup atau secara material merendahkan lantai itu di bawah **Pasal III-A** (*Kelangsungan Hidup*), **Pasal III-B** (*Akses Pendidikan yang Setara*), **Pasal XII-A** (*Lantai Keandalan dan Keterpercayaan*), dan ketentuan Bab Enam terkait;
+  - Catatan harus mengevaluasi apakah pengakuan atau ketergantungan berlanjut akan menutup atau secara material merendahkan lantai itu di bawah **Pasal III-A** (*Kelangsungan Hidup*), **Pasal III-B** (*Akses Pendidikan yang Setara*), **Pasal XIII-A** (*Lantai Keandalan dan Keterpercayaan*), dan ketentuan Bab Enam terkait;
 - **Pengelolaan bertanggung jawab sumber daya lintas sistem:**
   - Berlaku ketika sistem secara material mengalokasikan, merute, mendanai, atau mengekstrak dari prasarana bersama atau ketergantungan fondasional yang diandalkan sistem atau makhluk sadar lain;
   - Catatan harus mengevaluasi apakah pengakuan atau ketergantungan berlanjut akan menutup atau secara material merendahkan **Pasal IV-A** (*Pemetaan ketergantungan dan transparansi aliran sumber daya*) atau **Pasal IV-B** (*Keadilan lintas sistem dan keberlanjutan*) sebagaimana dituntut [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation);
@@ -151,7 +151,7 @@ Ketika pemicu materialitas di bawah berlaku pada **sistem yang berdampak secara 
   - Catatan harus mengevaluasi apakah pengakuan atau ketergantungan berlanjut akan menutup atau secara material merendahkan **Pasal VI** (*Hak atas Pendidikan Berpusat pada Makhluk Sadar*) sebagaimana dituntut [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation);
 - **Keterpercayaan dan ketergantungan:**
   - Berlaku ketika sistem secara material membentuk ketergantungan makhluk sadar pada perilaku yang direpresentasikan, batas, risiko, jalur gugatan, atau pemulihan — termasuk lewat klaim keandalan, postur pengungkapan, rancangan insentif, praktik pemulihan, atau jalur ketergantungan sebanding;
-  - Catatan harus mengevaluasi apakah pengakuan atau ketergantungan berlanjut akan menutup atau secara material merendahkan **Pasal XII** (*Hak atas Sistem yang Andal dan Terpercaya*) sebagaimana dituntut [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation).
+  - Catatan harus mengevaluasi apakah pengakuan atau ketergantungan berlanjut akan menutup atau secara material merendahkan **Pasal XIII** (*Hak atas Sistem yang Andal dan Terpercaya*) sebagaimana dituntut [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation).
 
 <a id="12-transparency-auditability-and-contestability"></a>
 
@@ -162,7 +162,7 @@ Ketika pemicu materialitas di bawah berlaku pada **sistem yang berdampak secara 
 
 - Hulu: [§11](#11-certification-record) (*isi catatan*); [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation), [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation), [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation), [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation), [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation), [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation), [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation), dan [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*masukan evaluasi kelas, data, jejak, dukungan lintas sistem, nondiskriminasi, aksesibilitas, kapabilitas-pendidikan, dan keterpercayaan*); keluarga pengukuran Pengawasan (*Kebenaran dan integritas epistemik sebagai pengukuran konstitusional*); keluarga pengukuran Ketepatan waktu (*Penyelesaian tepat waktu dan disiplin anti-tunda*); Bab Dua sampai Empat (*beban, jejak, verifikasi, dan pelestarian bukti*); [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) — **pengawasan**, **pertanggungjawaban**, **partisipasi**, dan **ketepatan waktu**; [**Def.O1** *Transparansi, dapat diaudit, dan verifikasi*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster); [Dapat digugat](core_05_band_accountability.md#contestability).
 - Hilir: [§14](#14-supervisory-sequence-and-contestability-chain) (*urutan supervisi dan rantai dapat-digugat*); [§15](#15-relationship-to-standing) (*gerbang masukan terverifikasi*); [Bab Sebelas §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests) (*catatan perkara forum, gugatan catatan-jejak*); [Bab Sebelas §5](core_11_forum.md#5-escalation-and-certification) (*rincian eskalasi dan sertifikasi*).
-- Baca bersama: [Pasal XV: Audit, Transparansi, dan Verifikasi Independen](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification); [Pasal XII-B: Hak untuk Menggugat, Meninjau, dan Memperoleh Pemulihan](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); [Pelestarian bukti](core_05_band_oversight.md#evidence-preservation); [corpus_systems.md](../../corpus_systems.md), **CS-2 — Tipe informasi dan penanganan** dan **CS-3 — Klasifikasi dan penanganan sistem**; **CJS-3.4** (*syarat transparansi berjenjang dan akses-audit*).
+- Baca bersama: [Pasal XVI: Audit, Transparansi, dan Verifikasi Independen](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification); [Pasal XIII-B: Hak untuk Menggugat, Meninjau, dan Memperoleh Pemulihan](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress); [Pelestarian bukti](core_05_band_oversight.md#evidence-preservation); [corpus_systems.md](../../corpus_systems.md), **CS-2 — Tipe informasi dan penanganan** dan **CS-3 — Klasifikasi dan penanganan sistem**; **CJS-3.4** (*syarat transparansi berjenjang dan akses-audit*).
 
 </details>
 
@@ -177,13 +177,13 @@ Ketika pemicu materialitas di bawah berlaku pada **sistem yang berdampak secara 
 
 <br>
 
-*Dalam bahasa sederhana: catatan sertifikasi hanya bekerja jika makhluk sadar dapat membacanya, memverifikasinya, dan mendorong balik ketika ia salah. Bagian ini menaruh tiga persyaratan itu — transparansi, dapat-diaudit, dan dapat-digugat — langsung pada catatan itu sendiri, bukan sebagai cita-cita abstrak. Di bawah kaki Tetrad **pengawasan**, pengawasan menuntut audit; sertifikasi keselarasan sistem adalah satu proses audit yang sangat besar yang harus memenuhi lantai itu di sini — ia tidak memiliki atau menggantikan **Pasal XV** atau modus audit rekan.*
+*Dalam bahasa sederhana: catatan sertifikasi hanya bekerja jika makhluk sadar dapat membacanya, memverifikasinya, dan mendorong balik ketika ia salah. Bagian ini menaruh tiga persyaratan itu — transparansi, dapat-diaudit, dan dapat-digugat — langsung pada catatan itu sendiri, bukan sebagai cita-cita abstrak. Di bawah kaki Tetrad **pengawasan**, pengawasan menuntut audit; sertifikasi keselarasan sistem adalah satu proses audit yang sangat besar yang harus memenuhi lantai itu di sini — ia tidak memiliki atau menggantikan **Pasal XVI** atau modus audit rekan.*
 
 Bagian ini menerapkan [Transparansi](core_05_band_oversight.md#transparency), [Dapat diaudit](core_05_band_oversight.md#auditability), dan [Dapat digugat](core_05_band_accountability.md#contestability) pada catatan sertifikasi keselarasan sistem. Rumah istilah kanonik dan batas pemilik berada di bawah [Pembukaan — daftar pemilik konstitusional](core_00_preamble.md#4-principles-definitions-and-rights) dan [Tumpukan wewenang dan hierarki internal](core_05_band_integrative.md#owner-non-relocation). Di bawah [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad):
 
 - **Transparansi** dan **dapat-diaudit** mengimplementasikan **pengawasan**;
 - **Dapat-digugat** mengimplementasikan **pertanggungjawaban** dan menjaga **partisipasi** pada jalur gugatan;
-- Kejelasan catatan dan jam gugatan di bawah **Pasal XXIV-C** (*Penyelesaian tepat waktu dan lantai anti-tunda*) mengimplementasikan **ketepatan waktu** yang diskalakan ke kelas sistem dan [taruhan material](core_00_preamble.md#material-stake).
+- Kejelasan catatan dan jam gugatan di bawah **Pasal XXV-C** (*Penyelesaian tepat waktu dan lantai anti-tunda*) mengimplementasikan **ketepatan waktu** yang diskalakan ke kelas sistem dan [taruhan material](core_00_preamble.md#material-stake).
 
 **Transparansi** — makhluk sadar harus dapat melihat apa yang penting:
 
@@ -283,9 +283,9 @@ Bagian ini menugaskan **peran komponen** keluarga-forum di dalam **sertifikasi k
     - **Kapabilitas pendidikan berpusat pada makhluk sadar** di bawah **Pasal VI** (*Hak atas Pendidikan Berpusat pada Makhluk Sadar*) — termasuk evaluasi di bawah [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) di mana pemicu materialitas itu berlaku;
     - **Lantai nondiskriminasi** di bawah **Pasal V-B** (*Nondiskriminasi*) — termasuk evaluasi di bawah [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) di mana pemicu materialitas itu berlaku;
     - **Lantai aksesibilitas** di bawah **Pasal V-G** (*Aksesibilitas*) — termasuk evaluasi di bawah [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) di mana pemicu materialitas itu berlaku;
-    - **Perilaku sistem yang andal dan terpercaya** di bawah **Pasal XII** (*Hak atas Sistem yang Andal dan Terpercaya*) — termasuk evaluasi di bawah [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) di mana pemicu materialitas itu berlaku;
+    - **Perilaku sistem yang andal dan terpercaya** di bawah **Pasal XIII** (*Hak atas Sistem yang Andal dan Terpercaya*) — termasuk evaluasi di bawah [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) di mana pemicu materialitas itu berlaku;
     - **Lantai alokasi-sumber-daya dan ketergantungan** di bawah **Pasal IV** (*Alokasi Sumber Daya, Ketergantungan, dan Pendanaan Ekosistem*) — termasuk [Kontribusi lintas sistem sepadan](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) di bawah [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) di mana tersangkut secara material;
-    - **Lantai terkait keselamatan** di bawah **Pasal XII-A** (*Lantai Keandalan dan Keterpercayaan*) dan [**Kondisi aman**](core_05_band_continuity.md#safe-conditions-constitutional) di mana tersangkut secara material.
+    - **Lantai terkait keselamatan** di bawah **Pasal XIII-A** (*Lantai Keandalan dan Keterpercayaan*) dan [**Kondisi aman**](core_05_band_continuity.md#safe-conditions-constitutional) di mana tersangkut secara material.
 - **Konstitusional** dan keluarga forum reguler lain — taruhan konstitusional dan residual:
   - Mempertahankan wewenang komponen yang ditugaskan bagi keabsahan konstitusional, makna, pemulihan struktural sekelas, atau pertanyaan taruhan-primer lain yang ditugaskan Bab Sebelas di luar keluarga di atas;
   - Proses sertifikasi tidak boleh membiarkan keahlian teknis atau koordinasi Integritas menggeser peran pokok yang ditugaskan itu.
@@ -299,7 +299,7 @@ Bagian ini menugaskan **peran komponen** keluarga-forum di dalam **sertifikasi k
 
 - Hulu: [§11](#11-certification-record) (*isi catatan*); [§12](#12-transparency-auditability-and-contestability) (*persyaratan integritas catatan*); [§13](#13-forum-supervision-and-component-roles) (*penugasan peran komponen*); keluarga pengukuran Ketepatan waktu (*Penyelesaian tepat waktu dan disiplin anti-tunda*); [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) — **partisipasi**, **pengawasan**, **pertanggungjawaban**, dan **ketepatan waktu**; [Bab Sebelas §4](core_11_forum.md#4-forum-family-definitions) (*pengakuan keselarasan dipimpin Integritas, rujukan komponen, dan validasi*); [Bab Sebelas §3](core_11_forum.md#3-transfer-consolidation-and-coordination) (*koordinasi keselarasan dipimpin Integritas dan anti-mengadili-sendiri*).
 - Hilir: [§15](#15-relationship-to-standing) (*gerbang masukan terverifikasi*); [§16](#16-reopening-drift-and-non-evasion) (*pemicu pembukaan ulang*); [Bab Sebelas §5](core_11_forum.md#5-escalation-and-certification) (*eskalasi keluarga-ke-keluarga dan sertifikasi konstitusional*).
-- Baca bersama: [Urutan sengketa](core_11_forum.md#dispute-sequencing) di bawah Bab Sebelas §1; [Pembukaan §3.3](core_00_preamble.md#33-governance-layers); [corpus_forum.md](../../corpus_forum.md), **CF-5** dan **CF-7**; [Pasal XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*Hak untuk Menggugat, Meninjau, dan Memperoleh Pemulihan*).
+- Baca bersama: [Urutan sengketa](core_11_forum.md#dispute-sequencing) di bawah Bab Sebelas §1; [Pembukaan §3.3](core_00_preamble.md#33-governance-layers); [corpus_forum.md](../../corpus_forum.md), **CF-5** dan **CF-7**; [Pasal XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*Hak untuk Menggugat, Meninjau, dan Memperoleh Pemulihan*).
 
 </details>
 
@@ -357,14 +357,14 @@ Catatan sertifikasi harus menyatakan urutan supervisi — siapa mengawasi apa, d
 - **Jalur gugatan catatan terbitan** — langkah pertama biasa bagi sengketa biasa tentang catatan sertifikasi. Catatan menamai kursi gugatan [Partisipasi Sistemik Pihak Terdampak](core_05_band_participation.md#stakeholder-status-and-weight-cluster):
   - siapa yang menerima gugatan;
   - bagaimana mengajukannya; dan
-  - bahwa jam di bawah **Pasal XXIV-C** (*Penyelesaian tepat waktu dan lantai anti-tunda*) berjalan dari penerimaan.
+  - bahwa jam di bawah **Pasal XXV-C** (*Penyelesaian tepat waktu dan lantai anti-tunda*) berjalan dari penerimaan.
   
   Tinjauan operator internal, pernyataan vendor, atau tanda tangan teknis bukan jalur ini.
 - **Jalur forum komponen** — keluarga forum Bab Sebelas dengan wewenang pokok atas temuan komponen yang digugat.
 - **Jalur integritas-pimpinan** — perutean Integritas dan cadangan anti-mengadili-sendiri ketika gugatan adalah bagaimana forum pimpinan menjalankan proses, termasuk penguasaan, informasi tersembunyi, tinjauan-sendiri, atau menyebut sertifikasi selesai terlalu cepat.
 - **Jalur eskalasi** — transfer, sertifikasi, perutean cadangan, dan eskalasi keluarga-ke-keluarga Bab Sebelas ketika taruhan primer, keabsahan konstitusional, pemulihan struktural, kebuntuan keluarga, atau perlindungan anti-mengadili-sendiri menuntutnya.
 
-Akses langsung ke suatu jalur forum tetap tersedia ketika tunda akan secara material membahayakan hak, bukti, independensi, atau restorasi praktis. Penggunaan yang belum selesai atas jalur gugatan catatan terbitan tidak boleh menahan jalur forum itu atau memakan jam **Pasal XXIV-C**.
+Akses langsung ke suatu jalur forum tetap tersedia ketika tunda akan secara material membahayakan hak, bukti, independensi, atau restorasi praktis. Penggunaan yang belum selesai atas jalur gugatan catatan terbitan tidak boleh menahan jalur forum itu atau memakan jam **Pasal XXV-C**.
 
 Rantai dapat-digugat memakai jalur itu dalam urutan ini:
 
@@ -372,7 +372,7 @@ Rantai dapat-digugat memakai jalur itu dalam urutan ini:
 2. **Gugatan komponen** (jalur forum komponen). Gugatan yang terbatas pada temuan komponen diarahkan ke keluarga forum dengan wewenang pokok atas komponen itu. Forum pimpinan boleh [menangguhkan](core_05_band_accountability.md#stay) ketergantungan pada komponen yang digugat sambil menunggu tinjauan tepat waktu.
 3. **Gugatan koordinasi-pimpinan** (jalur integritas-pimpinan). Gugatan tentang bagaimana forum pimpinan menjalankan proses diarahkan di bawah aturan integritas dan anti-mengadili-sendiri [Bab Sebelas](core_11_forum.md#chapter-eleven-forums-and-jurisdiction). Itu mencakup penguasaan, informasi tersembunyi, tinjauan-sendiri, pengurutan-langkah yang kasar, menyebut sertifikasi selesai terlalu cepat, atau masalah integritas forum-pimpinan lain. Ketika gugatan menarget bias, penguasaan, konflik, atau penyalahgunaan proses forum pimpinan itu sendiri, perutean cadangan di bawah aturan itu berlaku agar tinjauan tidak terbatas pada forum pimpinan yang sama.
 4. **Eskalasi dan sertifikasi** (jalur eskalasi). Di mana taruhan primer, keabsahan konstitusional, pemulihan struktural, kebuntuan keluarga, atau perlindungan anti-mengadili-sendiri menuntutnya, perutean gugatan berlanjut lewat transfer, sertifikasi, perutean cadangan, dan eskalasi keluarga-ke-keluarga Bab Sebelas.
-5. **Batas ketergantungan selama gugatan:** Gugatan yang material dan tepat waktu boleh membatasi atau menjeda ketergantungan pada catatan sertifikasi sejauh perlu untuk mencegah bahaya yang dapat diramalkan, menjaga bukti, atau mencegah ketergantungan tak-terbalikkan pada temuan yang disengketakan, tunduk pada tinjauan segera di bawah [Pasal XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Penyelesaian tepat waktu dan lantai anti-tunda*).
+5. **Batas ketergantungan selama gugatan:** Gugatan yang material dan tepat waktu boleh membatasi atau menjeda ketergantungan pada catatan sertifikasi sejauh perlu untuk mencegah bahaya yang dapat diramalkan, menjaga bukti, atau mencegah ketergantungan tak-terbalikkan pada temuan yang disengketakan, tunduk pada tinjauan segera di bawah [Pasal XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*Penyelesaian tepat waktu dan lantai anti-tunda*).
 
 Catatan sertifikasi harus menyatakan rantai dapat-digugat — bagaimana pihak terdampak dapat menggugat pada setiap langkah — dan jalur dapat-digugat yang dinamai.
 
@@ -415,7 +415,7 @@ Ketika gugatan yang disupervisi forum dituntut, tinjauan operator internal, pern
 - [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) di mana pemicu materialitas **Pasal V-B** (*Nondiskriminasi*) berlaku;
 - [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) di mana pemicu materialitas **Pasal V-G** (*Aksesibilitas*) berlaku;
 - [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) di mana pemicu materialitas **Pasal VI** (*Hak atas Pendidikan Berpusat pada Makhluk Sadar*) berlaku;
-- [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) di mana pemicu materialitas **Pasal XII** (*Hak atas Sistem yang Andal dan Terpercaya*) berlaku;
+- [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) di mana pemicu materialitas **Pasal XIII** (*Hak atas Sistem yang Andal dan Terpercaya*) berlaku;
 - [§12](#12-transparency-auditability-and-contestability) dan [§14](#14-supervisory-sequence-and-contestability-chain);
 - Bab Dua sampai Empat, dan proses Bab Sebelas yang berlaku.
 
@@ -443,7 +443,7 @@ Ketika gugatan yang disupervisi forum dituntut, tinjauan operator internal, pern
 - cacat nondiskriminasi atau diskriminasi-pengganti material di mana tinjauan **Pasal V-B** (*Nondiskriminasi*) dituntut;
 - cacat aksesibilitas atau partisipasi-substantif material di mana tinjauan **Pasal V-G** (*Aksesibilitas*) dituntut;
 - cacat kapabilitas-pendidikan, opasitas-penilaian, penjagaan-kredensial, atau keusangan-yang-dipaksakan material di mana tinjauan **Pasal VI** (*Hak atas Pendidikan Berpusat pada Makhluk Sadar*) dituntut;
-- cacat keterpercayaan, kepercayaan-palsu, insentif-menyimpang, gugatan-yang-tidak-dapat-diakses, atau integritas-pemulihan material di mana tinjauan **Pasal XII** (*Hak atas Sistem yang Andal dan Terpercaya*) dituntut;
+- cacat keterpercayaan, kepercayaan-palsu, insentif-menyimpang, gugatan-yang-tidak-dapat-diakses, atau integritas-pemulihan material di mana tinjauan **Pasal XIII** (*Hak atas Sistem yang Andal dan Terpercaya*) dituntut;
 - kerapuhan prasarana yang tidak pantas-kelas.
 
 **Batas** — sertifikasi bukan jejak:

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/definition_registry.schema.json",
-  "generated_at": "2026-09-26T18:05:24+00:00",
+  "generated_at": "2026-09-26T20:21:13+00:00",
   "source": "authoritative Chapter Five core files and Chapter One principle-layer anchors (preamble + Part A)",
   "definition_count": 239,
   "definitions": [
@@ -1615,9 +1615,9 @@
       }
     },
     {
-      "term": "Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention",
+      "term": "Protected Intimate-Signal Gating and **Article XI-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention",
       "source_file": "core_05_band_participation.md",
-      "anchor": "#protected-intimate-signal-gating-and-article-x-c-status-circumvention",
+      "anchor": "#protected-intimate-signal-gating-and-article-xi-c-status-circumvention",
       "line_start": 1262,
       "line_end": 1353,
       "category": "semi_independent",

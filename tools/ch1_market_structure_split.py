@@ -46,7 +46,7 @@ MARKET_STRUCTURE_INTRO = """<a id="9-market-structure"></a>
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim (contestable, durable productive conditions); **Flourishing** aim (fair access to livelihood, agency, and innovation pathways).
 - Upstream: Principles: [§13 Shared-System Capacity](#13-shared-system-capacity) — productive-capacity and efficiency claims fail where concentration or domination hollows them; [7. Governance Under Stewardship Discipline](#12-governance-under-stewardship-discipline).
 - Downstream: [Chapter Eleven §6](core_10-10_misconduct.md#61-concentration-based-subversion-criteria-interaction) (concentration-based subversion); [5. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution) ([Chapter One §6.4.2 Proxy-Divergence Invalidation](#642-proxy-divergence-invalidation)).
-- Downstream: Shapes the rights surface for resource allocation, fair compensation, collective organization, interoperability, exit, and anti-capture review; especially [Article III-C: Labor and Economic Floor](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor), [Article V: Resource Allocation, Dependencies, and Ecosystem Funding](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding), and [Article XIX: Interoperability, Portability, and Exit Integrity](core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity).
+- Downstream: Shapes the rights surface for resource allocation, fair compensation, collective organization, interoperability, exit, and anti-capture review; especially [Article III-C: Labor and Economic Floor](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor), [Article V: Resource Allocation, Dependencies, and Ecosystem Funding](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding), and [Article XX: Interoperability, Portability, and Exit Integrity](core_06_rights_part_c.md#article-xx-interoperability-portability-and-exit-integrity).
 
 </details>
 
@@ -151,7 +151,7 @@ def split_part_b(text: str) -> str:
     market_block = market_block.replace("nullify the **§14** floor, the **§14.3** threshold mechanism, or **§8.4** anti-domination discipline", "nullify the **§13** floor, the **§14.1** threshold mechanism, or **§14.2** anti-domination discipline")
     market_block = market_block.replace("under the **§14** non-concentration discipline and **§8.4** anti-domination rules", "under the **§13** non-concentration discipline and **§14.2** anti-domination rules")
     market_block = market_block.replace("the **§14.3** threshold mechanism, or **§8.4** anti-domination discipline", "the **§14.1** threshold mechanism, or **§14.2** anti-domination discipline")
-    market_block = market_block.replace("does not narrow Article III-C, Article V, Article XIX, **§8.5**, or Chapter Eleven", "does not narrow Article III-C, Article V, Article XIX, **§14.3**, or Chapter Eleven")
+    market_block = market_block.replace("does not narrow Article III-C, Article V, Article XX, **§8.5**, or Chapter Eleven", "does not narrow Article III-C, Article V, Article XX, **§14.3**, or Chapter Eleven")
 
     # Update anchors in market block
     market_block = market_block.replace(

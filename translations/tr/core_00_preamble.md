@@ -101,7 +101,7 @@ Altıncı Bölüm, [Yedinci Bölüm](../../core_08_a_system_alignment_certificat
 - **Forum incelemesi** ([On Birinci Bölüm](core_11_forum.md#1-purpose-and-role))
   - Zaten yetkilendirilmiş sistemlerin içindeki olağan uyuşmazlıklar önce yayımlanmış [Etkilenen Tarafların Sistem Katılımı](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster) itiraz yolunu kullanır
   - Bu yol hâlâ itiraz ediliyorsa, eksikse, ele geçirilmişse ya da rahatlama veremiyorsa, birincil paya göre gözetimli forumlardan yönlendirin
-  - Bu forumlar **Madde XXIV-C** (*Zamanında çözüm ve gecikme karşıtı taban*) altında kanıtı, yasal aktarımı ve zamanında saatleri destekler
+  - Bu forumlar **Madde XXV-C** (*Zamanında çözüm ve gecikme karşıtı taban*) altında kanıtı, yasal aktarımı ve zamanında saatleri destekler
 
 <a id="33-governance-layers"></a>
 #### 3.3 Yönetişim katmanları
@@ -157,7 +157,7 @@ Her özet, bölümün ne sahiplendiğini ve ne ürettiğini belirtir.
 
 **Altıncı Bölüm — Temel haklar** ([A Kısmı](../../core_06_rights_part_a.md) · [B Kısmı](../../core_06_rights_part_b.md) · [C Kısmı](../../core_06_rights_part_c.md) · [D Kısmı](../../core_06_rights_part_d.md))
 
-- **Ne sahiplenir:** Hak Tabanını Maddeler **I–XXVI**de belirtir — hayatta kalma esasları, kaynak tahsisi ve bağımlılığın sorumlu yönetimi, onur, eylem yetisi, katılım, itiraz ve çare, adalet kısıtları, **Madde XXIV-C** (*Zamanında çözüm ve gecikme karşıtı taban*) altında zamanındalık ve geçiş kuralları — gezegen-önce okuma için dört kısımda düzenlenmiş.
+- **Ne sahiplenir:** Hak Tabanını Maddeler **I–XXVII**de belirtir — hayatta kalma esasları, kaynak tahsisi ve bağımlılığın sorumlu yönetimi, onur, eylem yetisi, katılım, itiraz ve çare, adalet kısıtları, **Madde XXV-C** (*Zamanında çözüm ve gecikme karşıtı taban*) altında zamanındalık ve geçiş kuralları — gezegen-önce okuma için dört kısımda düzenlenmiş.
 - **Ne üretir:** Yedinci Bölümden On Birinci Bölüme, forumların, yönetişimin ve değişiklik kurallarının saygı göstermesi gereken — usul ya da vekil ölçütlerle daraltamayacağı, atlatamayacağı ya da boşaltamayacağı — pazarlığa kapalı hak korumaları ve çare kancaları.
 
 <a id="5-key-practical-process-pipelines"></a>
@@ -211,7 +211,7 @@ Aşağıdaki her adım, bölümün ne sahiplendiğini ve ne ürettiğini belirti
   - Kanıtın nasıl desteklendiği
   - İşlerin nasıl aktarıldığı ya da birleştirildiği
   - Kendini yargılama karşıtı kuralların ele geçirilmiş forumların tek son ev olmasını nasıl önlediği
-  - **Madde XXIV-C** (*Zamanında çözüm ve gecikme karşıtı taban*) altındaki saatler davaların çarenin artık önem taşımadığı kadar uzun çözümsüz kalmasını önler
+  - **Madde XXV-C** (*Zamanında çözüm ve gecikme karşıtı taban*) altındaki saatler davaların çarenin artık önem taşımadığı kadar uzun çözümsüz kalmasını önler
 - **Ne üretir:** Güzergâh kayıtlarını açabilen ya da güncelleyebilen **doğrulanmış bulgular**, artı çareye ve [zamanında çözüme](../../core_05_band_accountability.md#timely-resolution-constitutional) yasal yönlendirme. Forumlar zinciri gözetir; Sekizinci Bölüm güzergâh ölçümünün yerine geçmez.
 
 <a id="51-how-the-full-chain-fits-together"></a>
@@ -225,7 +225,7 @@ Aşağıdaki her adım, bölümün ne sahiplendiğini ve ne ürettiğini belirti
    - **İhlal niteliği:** Bir **ihlal güzergâh kaydı** açın — doğrulanmış zarar ve hesap verebilirlik başarısızlıkları için sınırlı, itiraz edilebilir bir dava dosyası — ve **ihlal niteliğini** İhlal Ekseninde sınıflayın. İyi ve zarar asla tek net puana katlanmaz; bağlı kayıtlar çapraz başvurur ama ayrı kalır.
 3. **Her izde güzergâh etkilerini uygulayın** ([Dokuzuncu Bölüm](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)) — doğrulanmış katkı yetkinlik izni verebilir ve orantılı tanıma ile maddi ödülleri destekleyebilir; doğrulanmış ihlal güzergâh kilitlerini, düzeltmeyi ve [zarar görenler için çareyi](../../core_10_standing_integration.md#41-remedy-and-correction) tetikleyebilir.
 4. **Anayasa karşıtı atama incelemesi** ([Onuncu Bölüm](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)) — en yüksek etkili bir ihlal bulgusu anayasa karşıtı ölçütleri de karşılayabiliyorsa, Onuncu Bölüm karşılık gelen atamanın bağlanıp bağlanmadığına karar verir. Atama, Sekizinci Bölümün zararı zaten ne kadar ağır bulduğunu değiştirmez; olağan Dokuzuncu Bölüm etkileri, son bir atama Anayasa Karşıtı Güven Kilidini tetikleyene kadar paralel devam eder.
-5. **Uyuşmazlıkları yönlendirin ve çareyi zamanında tutun** ([On Birinci Bölüm](core_11_forum.md#1-purpose-and-role)) — forumlar davaların nasıl hareket ettiğini, hangi izin onları ele aldığını ve **Madde XXIV-C** (*Zamanında çözüm ve gecikme karşıtı taban*) altındaki saatlerin karşılanıp karşılanmadığını gözetir ki çare gecikmede ölmesin. Olağan uyuşmazlıklar [Uyuşmazlık sıralamasını](core_11_forum.md#dispute-sequencing) izler. Forumlar ayrıca uyuşmazlıkları sistem sınıflama abecesini yansıtan beş [maddilik katmanına](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) sınıflar — hayatta kalma-kritik ivedilikten özel/sınırlı işlere — ve son Onuncu Bölüm ataması birincil pay olduğunda Bütünlük ailesi varsayılan yönlendirmesi uygulanır.
+5. **Uyuşmazlıkları yönlendirin ve çareyi zamanında tutun** ([On Birinci Bölüm](core_11_forum.md#1-purpose-and-role)) — forumlar davaların nasıl hareket ettiğini, hangi izin onları ele aldığını ve **Madde XXV-C** (*Zamanında çözüm ve gecikme karşıtı taban*) altındaki saatlerin karşılanıp karşılanmadığını gözetir ki çare gecikmede ölmesin. Olağan uyuşmazlıklar [Uyuşmazlık sıralamasını](core_11_forum.md#dispute-sequencing) izler. Forumlar ayrıca uyuşmazlıkları sistem sınıflama abecesini yansıtan beş [maddilik katmanına](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) sınıflar — hayatta kalma-kritik ivedilikten özel/sınırlı işlere — ve son Onuncu Bölüm ataması birincil pay olduğunda Bütünlük ailesi varsayılan yönlendirmesi uygulanır.
 
 [README güzergâh-zinciri haritası](../../README.md#standing-pipeline-and-forums) yukarıdaki zincir için doğrudan gezinme sağlar; Yedinci Bölümün güzergâh ölçümüne olası doğrulanmış girdileri dahil.
 

@@ -260,7 +260,7 @@
 - [受保护特征](../../core_05_band_participation.md#protected-characteristics-constitutional)
 - [受保护数据与内部状态发表约束](../../core_05_band_oversight.md#protected-data-and-internal-state-publication-constraint)
 - [受保护内部状态边界](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional)
-- [受保护亲密信号门控与 **Article X-C**（《成年人合意商业性服务与性剥削》）地位规避](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention)
+- [受保护亲密信号门控与 **Article XI-C**（《成年人合意商业性服务与性剥削》）地位规避](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention)
 - [受保护报告（揭发）](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
 - [受保护报告报复与通路干扰](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)
 - [替代指标偏离](../../core_05_band_oversight.md#proxy-divergence)

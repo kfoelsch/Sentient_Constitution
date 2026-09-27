@@ -97,7 +97,7 @@
 - **제 V-B조**(*차별 금지*) 아래 **차별 금지** — 체계가 감지자 사이에서 분류하고, 문 닫고, 가격을 매기고, 순위를 매기거나, 부담과 이익을 배분하는 곳에서;
 - **제 V-G조**(*접근성*) 아래 **접근성** — 체계가 헌법상 관련된 영역에서의 실체 참여를 문 닫는 곳에서;
 - **제 XII조**(*믿을 수 있고 신뢰할 체계에 대한 권리*) 아래 **믿을 수 있고 신뢰할 체계 행위** — 체계가 나타낸 행위, 한도, 위험, 다툼 경로, 또는 구제에 대한 감지자의 의존을 실질로 빚는 곳에서;
-- **제 XII-A조**(*신뢰성과 신뢰할 수 있음 기준선*)와 [**안전 조건**](core_05_band_continuity.md#safe-conditions-constitutional) 아래 **안전 조건** — 체계가 생산 활동을 공급하거나 문 닫는 곳에서;
+- **제 XIII-A조**(*신뢰성과 신뢰할 수 있음 기준선*)와 [**안전 조건**](core_05_band_continuity.md#safe-conditions-constitutional) 아래 **안전 조건** — 체계가 생산 활동을 공급하거나 문 닫는 곳에서;
 - **제 IV조**(*자원 배분, 의존, 생태계 자금*) 아래 **자원 배분**, **제 IV-B조**(*체계 간 공정과 지속가능성*) 아래 [비례하는 체계 간 기여](core_05_band_continuity.md#proportionate-cross-system-support-constitutional)를 포함 — 체계가 공유 기반시설이나 기초 의존에서 배분하고, 라우팅하고, 자금을 대거나, 추출하는 곳에서.
 
 <a id="2-system-class-evaluation"></a>
@@ -228,7 +228,7 @@
 인증 사안이 제6장 프라이버시 자리 둘 이상에 실질로 걸리면, 인증은 그 자리마다 다루어야 합니다. 한 자리만으로 사안을 닫는 것은 부족합니다.
 
 - *참여 가능하게 함.* [프라이버시(정보)](core_05_band_continuity.md#privacy-informational)는 실체 [참여](core_05_apex_participation_leg.md#participation-constitutional)를 가능하게 합니다. 인증은 목소리, 숙의, 결사, 다툼을 받치는 프라이버시 보호가 분할, 가로지르기, 또는 노출 압력으로 꺾이지 않음을 확인해야 합니다.
-- *무리 자리.* 흩어진 프라이버시 덮임은 **제 VII-A조**(*몸과 마음의 자기소유*), **제 VII-B조**(*내부상태 경계와 N형 보호*), **제 VIII조**(*초상, 체험 데이터, 공표 권리*), **제 IX-A조**(*행위주체성과 조작으로부터의 자유*), **제 XIII-A조**(*안보, 정보, 은밀 권력 한도*)에 걸쳐 삽니다.
+- *무리 자리.* 흩어진 프라이버시 덮임은 **제 VII-A조**(*몸과 마음의 자기소유*), **제 VII-B조**(*내부상태 경계와 N형 보호*), **제 VIII조**(*초상, 체험 데이터, 공표 권리*), **제 X-A조**(*행위주체성과 조작으로부터의 자유*), **제 XIV-A조**(*안보, 정보, 은밀 권력 한도*)에 걸쳐 삽니다.
 - *공동 호출 규칙.* 사안이 둘 이상의 자리에 실질로 걸리면, 인증은 그 자리마다 닿아야 하며, 다른 자리를 회피하게 하는 방식으로 한 자리를 통해 사안을 라우팅해서는 안 됩니다.
 - *무리 머리 거처.* 제5장 [**Def.C3**(*프라이버시(정보)* — 동등 층 무리 머리)](core_05_band_accountability.md#privacy-informational-cluster)와 [프라이버시(정보)](core_05_band_continuity.md#privacy-informational)가 의미를 주관합니다.
 - *가로지르기로 완화 금지.* 각 무리 구성원의 국소로 말한 표준이 그 자신의 범위 안에서 통제하며, 다른 구성원의 더 느슨한 표준을 가져와 풀어져서는 안 됩니다.
@@ -263,7 +263,7 @@
 - **[제1장 §11 유인 정합과 체계 포획](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture)** — 유인 정합, 대리 완전성, 짧은 지평 결함 교정, 포획 대응;
 - **[제1장 §11.1.4 역할 깊이와 실질 책임 경로](core_01_c_stewardship_capacity_principles.md#1114-role-depth-and-material-responsibility-pathways)** — 결과가 있는 역할 경로와 상징 참여 금지 규율;
 - **[제12장 §5 수권된 역할, 역량 개발, 기여](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution)**와 **[corpus_systems.md](../../corpus_systems.md), CS-4 — 핵심 체계 책임 있는 관리** — 실질인 곳의 운영 역할 정의, 역량, 추적 가능성 바닥;
-- **[제 XV조: 감사, 투명, 독립 확인](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)** — 감사, 투명, 또는 독립 확인 권리 바닥이 실질로 걸리는 곳에서.
+- **[제 XV조: 감사, 투명, 독립 확인](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)** — 감사, 투명, 또는 독립 확인 권리 바닥이 실질로 걸리는 곳에서.
 
 <a id="38-illustrative-whole-system-application-by-class"></a>
 
@@ -381,7 +381,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: [§3](#3-whole-system-certification-evaluation) (*전체 체계 평가 요인*); [§3.8](#38-illustrative-whole-system-application-by-class) (*예시 전체 체계 훑기*); [B부분 §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*기록 내용*); [§2](#2-system-class-evaluation) (*체계 등급 평가*); 감독 측정 가족 (*진실과 인식 완전성을 헌법 측정으로*); [제 XIV조: 정보권 완전성](core_06_rights_part_c.md#article-xiv-info-sphere-integrity); [제 XV조: 감사, 투명, 독립 확인](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification); [제 VII조: 자기소유](core_06_rights_part_b.md#article-vii-self-ownership).
+- 상류: [§3](#3-whole-system-certification-evaluation) (*전체 체계 평가 요인*); [§3.8](#38-illustrative-whole-system-application-by-class) (*예시 전체 체계 훑기*); [B부분 §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*기록 내용*); [§2](#2-system-class-evaluation) (*체계 등급 평가*); 감독 측정 가족 (*진실과 인식 완전성을 헌법 측정으로*); [제 XIV조: 정보권 완전성](core_06_rights_part_c.md#article-xv-info-sphere-integrity); [제 XV조: 감사, 투명, 독립 확인](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification); [제 VII조: 자기소유](core_06_rights_part_b.md#article-vii-self-ownership).
 - 하류: [§4.1](#41-illustrative-data-handling-application-by-class) (*예시 데이터 취급 훑기*); [§5](#5-ecological-footprint-evaluation)와 [§5.1](#51-illustrative-ecological-footprint-application-by-class) (*생태 발자국 평가와 훑기*); [B부분 §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*기록 완전성*); [B부분 §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*확인된 입력 게이트*); [B부분 §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*재분류와 취급 부정합*).
 - 함께 읽기: [corpus_systems.md](../../corpus_systems.md), **CS-2 — 정보 유형과 취급** ( **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*재분류와 수명주기 거버넌스*)와 **[CS-2 §8](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-8-system-data-types-record-governance)** (*체계 데이터 유형 기록 거버넌스*)를 포함); [체계 데이터 유형 기록](core_05_band_continuity.md#system-data-types-record-constitutional); [공개 감독 기준선 공개](core_05_band_oversight.md#public-oversight-baseline-disclosure); **CJS-3.18** (*데이터 보존과 수명주기 완전성 용어*), **CJS-3.21** (*적대 강건성과 남용 저항 용어*), **CJS-3.17** (*상호운용, 이식, 출구 완전성 용어*) — 실질로 적용되는 곳에서.
 - 하위절: [§4.1](#41-illustrative-data-handling-application-by-class) (*등급별 예시 데이터 취급 적용*).
@@ -710,7 +710,7 @@
 
 - 상류: [B부분 §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*기록 내용*); [§2](#2-system-class-evaluation) (*체계 등급 평가*); 참여 측정 가족 (*실체 공정과 보호 특성 대리와 차별 영향을 헌법 측정으로*); **제 V-B조** (*차별 금지*); [실체 공정](core_05_band_participation.md#substantive-fairness-constitutional), [보호 특성](core_05_band_participation.md#protected-characteristics-constitutional), [보호 특성 대리와 차별 영향](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [언어, 문화, 유산](core_05_band_continuity.md#language-culture-and-heritage-constitutional), [필요성](core_05_band_accountability.md#necessity), [비례](core_05_band_accountability.md#proportionality) (제5장).
 - 하류: [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*예시 차별 금지 훑기*); [B부분 §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*기록 완전성*); [B부분 §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*확인된 입력 게이트*); [B부분 §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*차별 패턴 어긋남과 대리 회피*).
-- 함께 읽기: **제 V-C조** (*재결과 운영에서의 완전 포함과 평등*) — 인증이 포럼, 행정, 또는 집행 접근을 문 닫는 곳에서; [*차별 금지, 보호 특성, 존엄, 친밀 신호 게이트, **제 X-C조** (*성인 합의 상업 성서비스와 성착취*) 지위*](core_05_band_participation.md#fairness-and-protected-status-semi-independent).
+- 함께 읽기: **제 V-C조** (*재결과 운영에서의 완전 포함과 평등*) — 인증이 포럼, 행정, 또는 집행 접근을 문 닫는 곳에서; [*차별 금지, 보호 특성, 존엄, 친밀 신호 게이트, **제 XI-C조** (*성인 합의 상업 성서비스와 성착취*) 지위*](core_05_band_participation.md#fairness-and-protected-status-semi-independent).
 - 하위절: [§7.1](#71-illustrative-nondiscrimination-application-by-class) (*등급별 예시 차별 금지 적용*).
 
 </details>
@@ -926,7 +926,7 @@
 
 - 상류: [B부분 §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*기록 내용*); [§2](#2-system-class-evaluation) (*체계 등급 평가*); 참여 측정 가족 (*교육 행위주체성을 헌법 측정으로*); **제 VI조** (*감지자 중심 교육에 대한 권리*); [교육 행위주체성](core_05_band_participation.md#educational-agency), [의미 있는 행위주체성](core_05_band_participation.md#meaningful-agency), [체계 잠금](core_05_band_continuity.md#systemic-lock-in), [다툴 수 있음](core_05_band_accountability.md#contestability), [투명](core_05_band_oversight.md#transparency), [감사 가능성](core_05_band_oversight.md#auditability), [강제와 조작](core_05_band_participation.md#coercion-and-manipulation-constitutional), [실질성](core_05_band_oversight.md#materiality-determination), [의존](core_05_band_continuity.md#dependency) (제5장).
 - 하류: [§9.1](#91-illustrative-educational-capability-application-by-class) (*예시 교육 능력 훑기*); [B부분 §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*기록 완전성*); [B부분 §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*확인된 입력 게이트*); [B부분 §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*평가 불투명 어긋남, 자격 증명 문지기, 부과된 진부화 어긋남*).
-- 함께 읽기: **제 III-B조** (*평등한 교육 접근*) — 평등 접근이나 교육 접근성이 걸리는 곳에서; 평등 접근과 교육 접근성은 그곳에 주관이 남습니다; **제 V-B조** (*차별 금지*)와 [§7](#7-nondiscrimination-evaluation) — 순위나 배치 패턴이 보호 특성 부담을 거는 곳에서; **제 IX-A조** (*행위주체성과 조작으로부터의 자유*) — 강제하거나 조작하는 학습 설계가 실질로 걸리는 곳에서; [제1장 §9 책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) (*분산된 이해와 능력 구축 함께 읽기*).
+- 함께 읽기: **제 III-B조** (*평등한 교육 접근*) — 평등 접근이나 교육 접근성이 걸리는 곳에서; 평등 접근과 교육 접근성은 그곳에 주관이 남습니다; **제 V-B조** (*차별 금지*)와 [§7](#7-nondiscrimination-evaluation) — 순위나 배치 패턴이 보호 특성 부담을 거는 곳에서; **제 X-A조** (*행위주체성과 조작으로부터의 자유*) — 강제하거나 조작하는 학습 설계가 실질로 걸리는 곳에서; [제1장 §9 책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) (*분산된 이해와 능력 구축 함께 읽기*).
 - 하위절: [§9.1](#91-illustrative-educational-capability-application-by-class) (*등급별 예시 교육 능력 적용*).
 
 </details>
@@ -1037,7 +1037,7 @@
 
 - 상류: [B부분 §11](core_07_b_system_alignment_certification_record_process.md#11-certification-record) (*기록 내용*); [§2](#2-system-class-evaluation) (*체계 등급 평가*); 감독 측정 가족 (*진실과 인식 완전성; 신뢰할 수 있음과 신뢰 저하와 오도하는 의존을 헌법 측정으로*); **제 XII조** (*믿을 수 있고 신뢰할 체계에 대한 권리*); [신뢰할 수 있음](core_05_band_continuity.md#trustworthiness), [신뢰](core_05_band_continuity.md#trust), [신뢰 저하와 오도하는 의존](core_05_band_continuity.md#trust-degradation-and-misleading-reliance), [다툴 수 있음](core_05_band_accountability.md#contestability), [구제와 시정](core_05_band_accountability.md#redress-and-remediation-constitutional), [유인 정합](core_05_band_integrative.md#incentive-alignment), [가역성](core_05_band_continuity.md#reversibility-constitutional), [실질성](core_05_band_oversight.md#materiality-determination), [의존](core_05_band_continuity.md#dependency), [위험](core_05_band_continuity.md#risk) (제5장).
 - 하류: [§10.1](#101-illustrative-trustworthiness-application-by-class) (*예시 신뢰할 수 있음 훑기*); [B부분 §12](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*기록 완전성*); [B부분 §15](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*확인된 입력 게이트*); [B부분 §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*거짓 신뢰 어긋남, 왜곡된 유인 어긋남, 회복 완전성 어긋남*).
-- 함께 읽기: **제 XII-B조** (*다툼, 검토, 구제에 대한 권리*)와 **제 XV조** (*감사, 투명, 독립 확인*) — 다툼과 감사 권리는 그곳에 주관이 남습니다; **제 XII-E조** (*고자율 체계와 도구 매개 과정 완전성*) — 고자율 체계가 거버넌스나 확인 경로를 실질로 매개하는 곳에서; **제 III-A조** (*생존*) — 계속 체계 의존이 생존 필수 접근에 영향을 줄 곳에서; [제1장 §4 신뢰](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)와 [제1장 §3.2 진실](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint).
+- 함께 읽기: **제 XIII-B조** (*다툼, 검토, 구제에 대한 권리*)와 **제 XV조** (*감사, 투명, 독립 확인*) — 다툼과 감사 권리는 그곳에 주관이 남습니다; **제 XIII-E조** (*고자율 체계와 도구 매개 과정 완전성*) — 고자율 체계가 거버넌스나 확인 경로를 실질로 매개하는 곳에서; **제 III-A조** (*생존*) — 계속 체계 의존이 생존 필수 접근에 영향을 줄 곳에서; [제1장 §4 신뢰](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)와 [제1장 §3.2 진실](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint).
 - 하위절: [§10.1](#101-illustrative-trustworthiness-application-by-class) (*등급별 예시 신뢰할 수 있음 적용*).
 
 </details>
@@ -1050,20 +1050,20 @@
 
 체계 정합 인증은 실질성 방아쇠가 적용되는 곳에서 **제 XII조** (*믿을 수 있고 신뢰할 체계에 대한 권리*), [신뢰할 수 있음](core_05_band_continuity.md#trustworthiness), [신뢰 저하와 오도하는 의존](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) 아래 **신뢰할 수 있음과 체계 의존 완전성**을 평가해야 합니다. 정전 의미, 평가 요인, 비준수 규율은 제5장과 **제 XII조** (*믿을 수 있고 신뢰할 체계에 대한 권리*)에 있습니다; 신뢰성 지표, 공개 형식, 유인 정합 기계, 회귀 시험 설계는 적용되는 곳의 편입된 기구에 삽니다. 이 절은 인증이 확인하고 기록해야 할 것을 말합니다; 그 운영 기계를 다시 말하지 않으며, 특정 신뢰성 지표나 시험 묶음 설계를 처방하지 않습니다.
 
-**평가 요건.** 인증 과정은 체계가 실질로 의지하는 경로가 **제 XII-A조** (*신뢰성과 신뢰할 수 있음 기준선*) 아래 정당화된 [신뢰](core_05_band_continuity.md#trust)와 합리적으로 정확한 의존의 조건을 지키는지 — 평판, 규모, 마케팅 자세만이 아닌지 — 판단해야 합니다. 평가는 또한 **제 XII-B조** (*다툼, 검토, 구제에 대한 권리*) 아래 실행 가능한 다툼, 검토, 구제, **제 XII-C조** (*거짓 신뢰와 오도하는 의존 금지*) 아래 거짓 신뢰와 오도하는 의존 위험, **제 XII-D조** (*유인 정합 제약*) 아래 왜곡된 유인 노출, 실질인 곳의 **제 XII-F조** (*회복력과 자기치유 기준선*) 아래 회복 완전성을, [실질성](core_05_band_oversight.md#materiality-determination), [의존](core_05_band_continuity.md#dependency), [위험](core_05_band_continuity.md#risk)에 맞춰 세기 조절해 시험해야 합니다. 평가는 만들어진 신뢰, 숨긴 한도, 기만이나 모서기 자르기를 보상하는 유인 구조, 종이에만 있는 다툼 경로, 실패를 숨기거나 권리를 조용히 좁히는 회복 관행을 탐지해야 합니다. 평가는 명목 보증 꼬리표, 선언된 의도, 이전 성과만이 아니라 시간, 규모, 의존에 걸친 기능 효과를 반영해야 합니다.
+**평가 요건.** 인증 과정은 체계가 실질로 의지하는 경로가 **제 XIII-A조** (*신뢰성과 신뢰할 수 있음 기준선*) 아래 정당화된 [신뢰](core_05_band_continuity.md#trust)와 합리적으로 정확한 의존의 조건을 지키는지 — 평판, 규모, 마케팅 자세만이 아닌지 — 판단해야 합니다. 평가는 또한 **제 XIII-B조** (*다툼, 검토, 구제에 대한 권리*) 아래 실행 가능한 다툼, 검토, 구제, **제 XIII-C조** (*거짓 신뢰와 오도하는 의존 금지*) 아래 거짓 신뢰와 오도하는 의존 위험, **제 XIII-D조** (*유인 정합 제약*) 아래 왜곡된 유인 노출, 실질인 곳의 **제 XIII-F조** (*회복력과 자기치유 기준선*) 아래 회복 완전성을, [실질성](core_05_band_oversight.md#materiality-determination), [의존](core_05_band_continuity.md#dependency), [위험](core_05_band_continuity.md#risk)에 맞춰 세기 조절해 시험해야 합니다. 평가는 만들어진 신뢰, 숨긴 한도, 기만이나 모서기 자르기를 보상하는 유인 구조, 종이에만 있는 다툼 경로, 실패를 숨기거나 권리를 조용히 좁히는 회복 관행을 탐지해야 합니다. 평가는 명목 보증 꼬리표, 선언된 의도, 이전 성과만이 아니라 시간, 규모, 의존에 걸친 기능 효과를 반영해야 합니다.
 
 **기록 요건.** 인증 기록은 의지한 **제 XII조** (*믿을 수 있고 신뢰할 체계에 대한 권리*) 실질성 방아쇠, 실질로 의지하는 의존, 공개, 유인, 다툼, 회복 경로의 평가 범위, 신뢰할 수 있음과 거짓 신뢰 소견, 실질인 곳의 왜곡된 유인과 회복 완전성 소견, 불확실성, 요구되는 곳의 감지자 포럼 또는 다른 배정된 구성 요소 소견, 지속 신뢰 패배, 오도하는 의존, 또는 접근 불가 구제에 묶인 조건, 의존 한도, 또는 재개방 방아쇠를 말해야 합니다.
 
 **체계 등급과의 공동 세기 조절.** 신뢰할 수 있음과 체계 의존 완전성 평가 깊이는 [§2](#2-system-class-evaluation)와 [실질 이해관계](core_00_preamble.md#material-stake) 아래 배정된 체계 등급에 맞춰 세기 조절되어야 합니다. 감지자 의존을 실질로 빚는 더 높은 등급 체계는 신뢰할 수 있음, 거짓 신뢰 위험, 다툼 경로가 주장된 것이 아니라 평가되었다는, 비례해 더 강한 증거를 요구합니다.
 
-**결함과 어긋남.** **제 XII조** (*믿을 수 있고 신뢰할 체계에 대한 권리*)가 검토를 요구하는 곳에서 실질 한도, 위험, 또는 실패 이력을 가리거나, 왜곡하거나, 쪼개거나, 떠넘기는 것; 평가 가능한 [신뢰할 수 있음](core_05_band_continuity.md#trustworthiness) 분석 없이 평판, 추천, 규모, 또는 운영자 자기 보고를 충분한 것으로 다루는 것; 문서화된 거짓 신뢰, 왜곡된 유인, 접근 불가 다툼 경로, 또는 실패를 숨기는 회복 관행이 헌법 정합을 실질로 위협하는 동안 계속 의존을 인증하는 것; 또는 **제 XII조** (*믿을 수 있고 신뢰할 체계에 대한 권리*)의 신뢰성과 **제 XII-B조** (*다툼, 검토, 구제에 대한 권리*) 다툼 규율을 충족하지 않고 효율, 혁신, 또는 보안 프레이밍으로 공개, 다툴 수 있음, 또는 구제를 꺾는 것은 인증 결함으로 다루어야 합니다. 그것들은 [B부분 §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) 아래 조건부 인정, 유예 인정, 비인정, 철회, 또는 재개방을 받칠 수 있습니다.
+**결함과 어긋남.** **제 XII조** (*믿을 수 있고 신뢰할 체계에 대한 권리*)가 검토를 요구하는 곳에서 실질 한도, 위험, 또는 실패 이력을 가리거나, 왜곡하거나, 쪼개거나, 떠넘기는 것; 평가 가능한 [신뢰할 수 있음](core_05_band_continuity.md#trustworthiness) 분석 없이 평판, 추천, 규모, 또는 운영자 자기 보고를 충분한 것으로 다루는 것; 문서화된 거짓 신뢰, 왜곡된 유인, 접근 불가 다툼 경로, 또는 실패를 숨기는 회복 관행이 헌법 정합을 실질로 위협하는 동안 계속 의존을 인증하는 것; 또는 **제 XII조** (*믿을 수 있고 신뢰할 체계에 대한 권리*)의 신뢰성과 **제 XIII-B조** (*다툼, 검토, 구제에 대한 권리*) 다툼 규율을 충족하지 않고 효율, 혁신, 또는 보안 프레이밍으로 공개, 다툴 수 있음, 또는 구제를 꺾는 것은 인증 결함으로 다루어야 합니다. 그것들은 [B부분 §16](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) 아래 조건부 인정, 유예 인정, 비인정, 철회, 또는 재개방을 받칠 수 있습니다.
 
 <a id="101-illustrative-trustworthiness-application-by-class"></a>
 
 <a id="101-illustrative-trustworthiness-application-by-class-non-exhaustive"></a>
 #### 10.1 등급별 예시 신뢰할 수 있음 적용 (비망라)
 
-*쉬운 말로: [§3.8](#38-illustrative-whole-system-application-by-class)부터 [§9.1](#91-illustrative-educational-capability-application-by-class)까지는 같은 세 체계를 앞선 평가 영역으로 걷습니다. 이 하위절은 각각에 **신뢰할 수 있음과 체계 의존 완전성** 평가가 무엇을 뜻하는지 — 어떤 의존, 공개, 유인, 다툼, 회복 경로가 세는지, **제 XII조** (*믿을 수 있고 신뢰할 체계에 대한 권리*) 실질성 방아쇠가 적용될 때 인증이 무엇을 점검해야 하는지, 기록에 무엇이 있어야 하는지 — 를 보여줍니다. 제5장과 **제 XII조** (*믿을 수 있고 신뢰할 체계에 대한 권리*)가 여전히 정전 신뢰할 수 있음 규칙을 주관합니다; 신뢰성 지표, 공개 형식, 유인 정합 기계, 회귀 시험 설계는 다른 기구, 나중 코퍼스 추가, 또는 채택 기구에 살 수 있습니다; 이 훑기는 그 기계를 처방하지 않습니다. 다툼과 감사 권리는 **제 XII-B조** (*다툼, 검토, 구제에 대한 권리*)와 **제 XV조** (*감사, 투명, 독립 확인*)가 계속 주관합니다 — 여기서 좁혀지지 않습니다.*
+*쉬운 말로: [§3.8](#38-illustrative-whole-system-application-by-class)부터 [§9.1](#91-illustrative-educational-capability-application-by-class)까지는 같은 세 체계를 앞선 평가 영역으로 걷습니다. 이 하위절은 각각에 **신뢰할 수 있음과 체계 의존 완전성** 평가가 무엇을 뜻하는지 — 어떤 의존, 공개, 유인, 다툼, 회복 경로가 세는지, **제 XII조** (*믿을 수 있고 신뢰할 체계에 대한 권리*) 실질성 방아쇠가 적용될 때 인증이 무엇을 점검해야 하는지, 기록에 무엇이 있어야 하는지 — 를 보여줍니다. 제5장과 **제 XII조** (*믿을 수 있고 신뢰할 체계에 대한 권리*)가 여전히 정전 신뢰할 수 있음 규칙을 주관합니다; 신뢰성 지표, 공개 형식, 유인 정합 기계, 회귀 시험 설계는 다른 기구, 나중 코퍼스 추가, 또는 채택 기구에 살 수 있습니다; 이 훑기는 그 기계를 처방하지 않습니다. 다툼과 감사 권리는 **제 XIII-B조** (*다툼, 검토, 구제에 대한 권리*)와 **제 XV조** (*감사, 투명, 독립 확인*)가 계속 주관합니다 — 여기서 좁혀지지 않습니다.*
 
 **Class A — 시 단위 안전한 식수 제어와 원격측정.** 시가 소유한 처리·배분 체계는 가구, 운영자, 비상 대응자가 나타낸 수질, 중단 상태, 오염 경보, 제어 행위에 의지할 수 있는지를 빚습니다 — 오도하는 의존이 실행 가능한 대체가 오기 전에 안전 물을 막을 수 있는 경로입니다.
 
@@ -1078,11 +1078,11 @@
   - 오염, 사이버 사건, 또는 장비 실패 뒤의 회복과 자기치유;
   - 유지 미룸, 공급자 보너스, 또는 요금 납부자 청구에 묶인 유인 구조.
 - **평가가 시험해야 할 것:**
-  - 나타낸 행위, 한도, 실패 양식이 **제 XII-A조** (*신뢰성과 신뢰할 수 있음 기준선*) 아래 정당화된 [신뢰](core_05_band_continuity.md#trust)를 받치는지 — 평판, 규모, 또는 「유틸리티 모범 관행」 자세만이 아닌지;
+  - 나타낸 행위, 한도, 실패 양식이 **제 XIII-A조** (*신뢰성과 신뢰할 수 있음 기준선*) 아래 정당화된 [신뢰](core_05_band_continuity.md#trust)를 받치는지 — 평판, 규모, 또는 「유틸리티 모범 관행」 자세만이 아닌지;
   - 오염 위험을 낮춰 말하거나, 권고를 늦추거나, 중복을 과장해 가구와 운영자를 오도할 수 있는 곳에서 거짓 신뢰와 [신뢰 저하와 오도하는 의존](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) 위험이 평가되는지;
-  - 다툰 측정, 놓친 경보, 또는 회복 실패에 대해 **제 XII-B조** (*다툼, 검토, 구제에 대한 권리*) 아래 실행 가능한 다툼, 검토, 구제 경로가 있는지;
-  - **제 XII-D조** (*유인 정합 제약*) 아래 왜곡된 유인 노출이 유지 미룸, 공급자 모서기 자르기, 또는 경보 억압을 보상하는지;
-  - **제 XII-F조** (*회복력과 자기치유 기준선*) 아래 회복 완전성이 사건을 숨기지 않고 실패 이력과 수리 자세를 정직하게 공개하는지;
+  - 다툰 측정, 놓친 경보, 또는 회복 실패에 대해 **제 XIII-B조** (*다툼, 검토, 구제에 대한 권리*) 아래 실행 가능한 다툼, 검토, 구제 경로가 있는지;
+  - **제 XIII-D조** (*유인 정합 제약*) 아래 왜곡된 유인 노출이 유지 미룸, 공급자 모서기 자르기, 또는 경보 억압을 보상하는지;
+  - **제 XIII-F조** (*회복력과 자기치유 기준선*) 아래 회복 완전성이 사건을 숨기지 않고 실패 이력과 수리 자세를 정직하게 공개하는지;
   - 평가 깊이가 오도하는 의존이 안전 물을 막을 수 있는 곳의 **Class A** 이해관계와 맞는지; 그리고
   - 어떤 보증 한정이든 선언된 의도만이 아니라 문서화된 신뢰할 수 있음 분석을 충족하는지.
 - **기록이 보여야 할 것:**
@@ -1107,9 +1107,9 @@
 - **평가가 시험해야 할 것:**
   - 나타낸 행위와 한도가 일상 임상 운영을 위한 정당화된 의존을 받치는지 — 상호운용 마케팅이나 집계 가동 시간 대시보드만이 아닌지;
   - 맞춤 오류를 낮춰 말하거나, 동의 실패를 숨기거나, 비상 접근 준비를 과장해 임상의와 환자를 오도할 수 있는 곳에서 거짓 신뢰 위험이 평가되는지;
-  - **제 XII-B조** (*다툼, 검토, 구제에 대한 권리*) 아래 다툼, 검토, 구제 경로가 잘못된 기록 다툼, 막힌 포털, 회복 실패에 대해 실행 가능한지 — 종이 정책만이 아닌지;
-  - **제 XII-D조** (*유인 정합 제약*) 아래 왜곡된 유인 노출이 정확한 라우팅보다 양 성장, 경보 최소화, 또는 공급자 잠금을 보상하는지;
-  - **제 XII-F조** (*회복력과 자기치유 기준선*) 아래 회복 완전성이 중단 이력과 잔여 위험을 정직하게 공개하는지;
+  - **제 XIII-B조** (*다툼, 검토, 구제에 대한 권리*) 아래 다툼, 검토, 구제 경로가 잘못된 기록 다툼, 막힌 포털, 회복 실패에 대해 실행 가능한지 — 종이 정책만이 아닌지;
+  - **제 XIII-D조** (*유인 정합 제약*) 아래 왜곡된 유인 노출이 정확한 라우팅보다 양 성장, 경보 최소화, 또는 공급자 잠금을 보상하는지;
+  - **제 XIII-F조** (*회복력과 자기치유 기준선*) 아래 회복 완전성이 중단 이력과 잔여 위험을 정직하게 공개하는지;
   - 평가 깊이가 오도하는 의존이 돌봄 접근, 고용, 또는 면허에 인접한 실무를 문 닫는 곳의 **Class B** 운영 중요성과 맞는지; 그리고
   - 평가 가능한 신뢰할 수 있음 분석 없이 효율이나 보안 프레이밍이 공개나 다툴 수 있음을 꺾는 데 쓰였는지.
 - **기록이 보여야 할 것:**

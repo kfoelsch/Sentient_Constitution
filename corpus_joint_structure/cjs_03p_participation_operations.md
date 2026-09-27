@@ -42,8 +42,8 @@ This family operationalizes the **Participation** leg of the [Constitutional Tet
 - Read with: **CJS-3.11 and CJS-3.7**; **CJS-3.13**.
 - Read with: **CJS-3.11** (*Accountability: distributed and proportional authority terms*), **CJS-3.7** (*Participation: quorum and participatory legitimacy terms*), and **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*) for authority, participation legitimacy, and procedural integrity terms
 - Read with: **Sentient Constitution Chapter Thirteen** section 4
-- Read with: **Chapter Six **Article IX-C** (*Governance Participation and Voting Entitlement*)**
-- Read with: **Chapter Six **Article XI** (*Stakeholder System Participation, Representation, and Due Process*)**
+- Read with: **Chapter Six **Article X-C** (*Governance Participation and Voting Entitlement*)**
+- Read with: **Chapter Six **Article XII** (*Stakeholder System Participation, Representation, and Due Process*)**
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Chapter One basis: §8.1, §4, §6.2, §11.4, §8, §10 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
@@ -145,9 +145,9 @@ Foundational constitutional choice equality floor
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in foundational constitutional choice equality floor.
 <a id="foundational-constitutional-choice-equality-floor-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** equal-weight treatment, substrate-agnostic and age-neutral eligibility, standing-lock or restitution predicates where invoked, contestability, opposition protection, peaceful-succession or reauthorization pathways, and compliance with Chapter Thirteen section 4.1 and **Article IX-C** (*Governance Participation and Voting Entitlement*)
+  - **Primary measure:** equal-weight treatment, substrate-agnostic and age-neutral eligibility, standing-lock or restitution predicates where invoked, contestability, opposition protection, peaceful-succession or reauthorization pathways, and compliance with Chapter Thirteen section 4.1 and **Article X-C** (*Governance Participation and Voting Entitlement*)
 
-    **Primary assessment:** Evaluation must verify equal-weight treatment, substrate-agnostic and age-neutral eligibility, standing-lock or restitution predicates where invoked, contestability, opposition protection, peaceful-succession or reauthorization pathways, and compliance with Chapter Thirteen section 4.1 and **Article IX-C** (*Governance Participation and Voting Entitlement*).
+    **Primary assessment:** Evaluation must verify equal-weight treatment, substrate-agnostic and age-neutral eligibility, standing-lock or restitution predicates where invoked, contestability, opposition protection, peaceful-succession or reauthorization pathways, and compliance with Chapter Thirteen section 4.1 and **Article X-C** (*Governance Participation and Voting Entitlement*).
 <a id="foundational-constitutional-choice-equality-floor-c"></a>
 - **What must hold**
   - **Primary failure:** Impact, dependency, stakeholder status, lineage, substrate class, calendar age, or ordinary stakeholder-participation weighting may not dilute foundational constitutional choice.
@@ -230,9 +230,9 @@ Quorum source and binding-effect gate
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in quorum source and binding-effect gate.
 <a id="quorum-source-and-binding-effect-gate-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** the source of quorum authority, the eligible participation pool, denominator treatment, abstention and non-response treatment, threshold calculation, tie or failure handling, emergency sequencing, and whether **Article XI-A** (*Stakeholder System Participation and Representation*) or other binding-effect gates were satisfied before implementation
+  - **Primary measure:** the source of quorum authority, the eligible participation pool, denominator treatment, abstention and non-response treatment, threshold calculation, tie or failure handling, emergency sequencing, and whether **Article XII-A** (*Stakeholder System Participation and Representation*) or other binding-effect gates were satisfied before implementation
 
-    **Primary assessment:** Evaluation must verify the source of quorum authority, the eligible participation pool, denominator treatment, abstention and non-response treatment, threshold calculation, tie or failure handling, emergency sequencing, and whether **Article XI-A** (*Stakeholder System Participation and Representation*) or other binding-effect gates were satisfied before implementation.
+    **Primary assessment:** Evaluation must verify the source of quorum authority, the eligible participation pool, denominator treatment, abstention and non-response treatment, threshold calculation, tie or failure handling, emergency sequencing, and whether **Article XII-A** (*Stakeholder System Participation and Representation*) or other binding-effect gates were satisfied before implementation.
 <a id="quorum-source-and-binding-effect-gate-c"></a>
 - **What must hold**
   - **Primary failure:** Post-hoc quorum formulas, undisclosed denominator changes, emergency shortcuts without mandatory forum review, or implementation of a high-impact decision before required legitimacy gates are satisfied.
@@ -260,13 +260,13 @@ Stakeholder System Participation floor
 *In plain terms: where the decision occurs inside already-authorized governance for a specified system, institution, or bounded decision domain, **Stakeholder** identification, stakeholder-participation pathways, and any **Stakeholder Weight** must be…*
 
 - **What it is**
-  - **In scope:** Where the decision occurs inside already-authorized governance for a specified system, institution, or bounded decision domain, **Stakeholder** identification, stakeholder-participation pathways, and any **Stakeholder Weight** must be proportionate to material impact and dependency and must satisfy **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) and Chapter Thirteen section 4.3.
+  - **In scope:** Where the decision occurs inside already-authorized governance for a specified system, institution, or bounded decision domain, **Stakeholder** identification, stakeholder-participation pathways, and any **Stakeholder Weight** must be proportionate to material impact and dependency and must satisfy **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) and Chapter Thirteen section 4.3.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in the Stakeholder System Participation floor.
 <a id="stakeholder-governance-participation-floor-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** stakeholder mapping, affected-class coverage, local deliberation where required, plural evaluation for high-impact choices, representation and weighting limits, rights-collision records, dissent or alternative records, reopening paths, and **Article XI-A** (*Stakeholder System Participation and Representation*) legitimacy gates for materially high-impact collective choice
+  - **Primary measure:** stakeholder mapping, affected-class coverage, local deliberation where required, plural evaluation for high-impact choices, representation and weighting limits, rights-collision records, dissent or alternative records, reopening paths, and **Article XII-A** (*Stakeholder System Participation and Representation*) legitimacy gates for materially high-impact collective choice
 
-    **Primary assessment:** Evaluation must verify stakeholder mapping, affected-class coverage, local deliberation where required, plural evaluation for high-impact choices, representation and weighting limits, rights-collision records, dissent or alternative records, reopening paths, and **Article XI-A** (*Stakeholder System Participation and Representation*) legitimacy gates for materially high-impact collective choice.
+    **Primary assessment:** Evaluation must verify stakeholder mapping, affected-class coverage, local deliberation where required, plural evaluation for high-impact choices, representation and weighting limits, rights-collision records, dissent or alternative records, reopening paths, and **Article XII-A** (*Stakeholder System Participation and Representation*) legitimacy gates for materially high-impact collective choice.
 <a id="stakeholder-governance-participation-floor-c"></a>
 - **What must hold**
   - **Primary failure:** Token consultation, dominance-prone weighting, missing affected classes, or stakeholder procedures that purport to authorize or reauthorize the **Constitutional Contract Layer** questions of governing authority, the legitimacy mechanism, or the scope and durable terms of that authority.
@@ -516,7 +516,7 @@ Summary integrity
 - Read with: **CJS-3.9** (*Participation: salience integrity and attention-allocation terms*) and **CJS-3.10** (*Participation: disclosure sufficiency and observability terms*) — System Status, Risk, and Scope Representation
 - Read with: **CJS-3.10 — Transparency and Disclosure**
 - Read with: **CJS-3.21 — Adversarial Robustness and Abuse Resistance**
-- Read with: **Article XV-A** (*Auditability and Observable Evidence*)
+- Read with: **Article XVI-A** (*Auditability and Observable Evidence*)
 - Read with: **Chapter Six** incentive-alignment constraints
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Chapter One basis: §2, §8.2, §4, §12.1, §8 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
@@ -722,8 +722,8 @@ User agency and control
 - Read with: **CJS-3.10**; **CJS-3.16**.
 - Read with: **CJS-3.10 — Transparency and Disclosure**
 - Read with: **CJS-3.16 — Dependency Awareness, Disclosure, and Risk Integrity** where dependencies matter
-- Read with: **Article XV-A** (*Auditability and Observable Evidence*)
-- Read with: **Article VII-B** (*Internal-State Boundary and Type-N Protection*)
+- Read with: **Article XVI-A** (*Auditability and Observable Evidence*)
+- Read with: **Article VII-B** (*Self-Ownership of Mind*)
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
 - Chapter One basis: §8.2, §11.2, §12.1, §8 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3**.
@@ -803,10 +803,10 @@ Minimum disclosure content set
 <a id="private-internal-state-boundary-and-external-observability-attribution"></a>
 Private internal-state boundary and external observability attribution
 
-*In plain terms: transparency does not give anyone a right to expose protected private internal states under **Article VII-B** (*Internal-State Boundary and Type-N Protection*).*
+*In plain terms: transparency does not give anyone a right to expose protected private internal states under **Article VII-B** (*Self-Ownership of Mind*).*
 
 - **What it is**
-  - **In scope:** Transparency does not give anyone a right to expose protected private internal states under **Article VII-B** (*Internal-State Boundary and Type-N Protection*). But actions, outputs, external effects, decisions, and responsibility must still be observable and attributable.
+  - **In scope:** Transparency does not give anyone a right to expose protected private internal states under **Article VII-B** (*Self-Ownership of Mind*). But actions, outputs, external effects, decisions, and responsibility must still be observable and attributable.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in private internal-state boundary and external observability attribution.
 <a id="private-internal-state-boundary-and-external-observability-attribution-a"></a>
 - **How to measure and assess**

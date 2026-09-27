@@ -102,7 +102,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 下游：原则：[序言 §3.3 治理层纪律](core_00_preamble.md#33-governance-layers)；[第一章 §5 自由](core_01_a_values_principles.md#5-freedom-bounded-agency)。
-- 主责底线：[第十二章：宪法契约、正当性、授权与尽责管理](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)；[Article IX-C：治理参与与投票权资格](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)。
+- 主责底线：[第十二章：宪法契约、正当性、授权与尽责管理](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)；[Article X-C：治理参与与投票权资格](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement)。
 - 簇组件：[*宪法契约层与基础宪法选择*](core_05_band_integrative.md#constitutional-contract-layer)
 - 一并阅读：[基础宪法选择](core_05_band_integrative.md#foundational-constitutional-choice)、[约束性受影响方选择](core_05_band_participation.md#binding-stakeholder-choice-cluster)、[受影响方地位与权重](core_05_band_participation.md#stakeholder-status-and-weight-cluster)、[治理](core_05_band_accountability.md#governance)。
 - 层：**宪法契约层（CCL）** — 谁可以治理、凭何种正当性机制、在何种持久条款之下。有别于**受影响方的系统参与（SSP）**。
@@ -123,7 +123,7 @@
     - [基础宪法选择](core_05_band_integrative.md#foundational-constitutional-choice)；
     - [已记载正当性机制](../../core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority)，于 [第十二章 §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism)；
     - [采纳](../../core_16_amendment_ratification.md#10-ratification-and-adoption) 与 [再授权](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) 规则（[第十二章 §1.3](../../core_13_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails)；[第十六章 §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)）；以及
-    - 构成或持久重组治理权威的[政治平等底线](../../core_13_governance.md#41-entitlement-and-eligibility) — 有资格的感知者在该层有平等声音（[Article IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)）。
+    - 构成或持久重组治理权威的[政治平等底线](../../core_13_governance.md#41-entitlement-and-eligibility) — 有资格的感知者在该层有平等声音（[Article X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement)）。
   - **范围外：**
     - 普通受影响方咨询；
     - 操作性参与；
@@ -131,7 +131,7 @@
     - 结构与过程已经获得授权之后的普通领域治理；以及
     - 普通[受影响方权重](core_05_band_participation.md#stakeholder-weight) — 给受影响更深者更多声音 — 被用来设定创立或再授权投票（[序言 §3.3 治理层纪律](core_00_preamble.md#33-governance-layers)）。
   - **操作性家园：** [第十二章](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) 陈述本层有约束力的授权、正当性与尽责管理规则。
-  - **权利底线：** [Article IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)（*治理参与与投票权资格*）陈述那些第十二章规则不得收窄的平等参与资格。
+  - **权利底线：** [Article X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement)（*治理参与与投票权资格*）陈述那些第十二章规则不得收窄的平等参与资格。
 <a id="constitutional-contract-layer-a"></a>
 - **如何测量与评估**
   - **主要测量：** [问责测量族](core_05_apex_accountability_leg.md#accountability-measurement-family) — *奖惩结构、市场力量与应答义务是否让义务保持真实？* 在此处用来问：所主张的治理权是否落在一份真实的宪法契约上 — 已记载的正当性、平等的创立声音，以及与本宪法保持对齐的持久条款 — 而不只是规模、人气或市场触及。
@@ -158,7 +158,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 下游：原则：[第一章 §5 自由](core_01_a_values_principles.md#5-freedom-bounded-agency)；[6. 过程冲突解决](#6-process-conflict-resolution)。
-- 主责底线：[第十二章第一章 §4.1](../../core_13_governance.md#41-entitlement-and-eligibility)（*基础宪法选择的政治平等底线*；*持久政治声音底线*）；[Article IX-C：治理参与与投票权资格](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)。
+- 主责底线：[第十二章第一章 §4.1](../../core_13_governance.md#41-entitlement-and-eligibility)（*基础宪法选择的政治平等底线*；*持久政治声音底线*）；[Article X-C：治理参与与投票权资格](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement)。
 - 簇组件：[*宪法契约层与基础宪法选择*](core_05_band_integrative.md#constitutional-contract-layer)
 - 一并阅读：[宪法契约层](core_05_band_integrative.md#constitutional-contract-layer)、[受影响方代表与权重限度（约束性受影响方选择）](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice)、[约束性受影响方选择](core_05_band_participation.md#binding-stakeholder-choice-cluster)、[程序公平](core_05_band_participation.md#procedural-fairness-constitutional)。
 - 层：**宪法契约层（CCL）**。有别于已获授权系统内部的**受影响方的系统参与（SSP）**。
@@ -177,10 +177,10 @@
 
     这属于[宪法契约层](core_05_band_integrative.md#constitutional-contract-layer)。
     - 主责：[第十二章第一章 §4.1](../../core_13_governance.md#41-entitlement-and-eligibility)。
-    - 权利层指针：[Article IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)（*治理参与与投票权资格*）。
+    - 权利层指针：[Article X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement)（*治理参与与投票权资格*）。
     - 在[感知性不排除](core_05_band_participation.md#sentience-non-exclusion)下适用。
   - **范围外：**
-    - 某一领域已经拥有获授权治理结构与过程之后的普通按影响加权受影响方决定 — 受影响的感知者通过[受影响方](core_05_band_participation.md#stakeholder)识别与[受影响方权重](core_05_band_participation.md#stakeholder-weight)（包括 **Article XI**（《受影响方的系统参与、代表与正当程序》）约束）按受影响程度得到缩放的声音，而不是通过等权创立计票规则；以及
+    - 某一领域已经拥有获授权治理结构与过程之后的普通按影响加权受影响方决定 — 受影响的感知者通过[受影响方](core_05_band_participation.md#stakeholder)识别与[受影响方权重](core_05_band_participation.md#stakeholder-weight)（包括 **Article XII**（《受影响方的系统参与、代表与正当程序》）约束）按受影响程度得到缩放的声音，而不是通过等权创立计票规则；以及
     - 并不授权或持久重组该权威的例行运营或政策选择。
 <a id="foundational-constitutional-choice-a"></a>
 <a id="foundational-collective-choice-constitutional-a"></a>

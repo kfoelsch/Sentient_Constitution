@@ -48,7 +48,7 @@ This file is the institutional implementation home for **CI-24** (*Innovation re
 
 *Shared rules live elsewhere.*
 - [**CJS-3.17**](../corpus_joint_structure/cjs_03c_continuity_operations.md) (*interoperability, portability, and exit-integrity terms*) — innovation-reward boundary, anti-enclosure, access-preserving reward, anti-warehousing, and duration/reclassification controls.
-- Chapter Five (*Innovation Reward and Anti-Enclosure*); **Article XVII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*).
+- Chapter Five (*Innovation Reward and Anti-Enclosure*); **Article XVIII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*).
 - [**CJS-3.12**](../corpus_joint_structure/cjs_03a_accountability_operations.md) (*burden of justification and constraint terms*).
 - **CS-3** — system classification and handling where innovation reward must scale with class, dependency, and coordination effects.
 - This file does not repeat those floors.

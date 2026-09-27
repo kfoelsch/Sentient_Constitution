@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-26T18:05:21+00:00",
+  "generated_at": "2026-09-26T20:21:13+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -369,7 +369,7 @@
         "type": "adopted-implementation"
       },
       {
-        "id": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md",
+        "id": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xic_interface.md",
         "type": "adopted-implementation"
       },
       {
@@ -968,9 +968,9 @@
               "#protected-characteristics-constitutional",
               "#protected-characteristics-constitutional-a",
               "#protected-characteristics-constitutional-c",
-              "#protected-intimate-signal-gating-and-article-x-c-status-circumvention",
-              "#protected-intimate-signal-gating-and-article-x-c-status-circumvention-a",
-              "#protected-intimate-signal-gating-and-article-x-c-status-circumvention-c",
+              "#protected-intimate-signal-gating-and-article-xi-c-status-circumvention",
+              "#protected-intimate-signal-gating-and-article-xi-c-status-circumvention-a",
+              "#protected-intimate-signal-gating-and-article-xi-c-status-circumvention-c",
               "#reproductive-autonomy-constitutional",
               "#reproductive-autonomy-constitutional-a",
               "#reproductive-autonomy-constitutional-c",
@@ -998,46 +998,46 @@
             "file": "core_06_rights_part_b.md",
             "count": 23,
             "anchors": [
-              "#article-ix-b-stakeholder-role-and-participation-rights",
-              "#article-ix-e-institutional-formation-and-business-creation",
-              "#article-ix-g-expression-assembly-and-press",
-              "#article-ix-self-determination-and-agency",
+              "#article-ix-likeness-experiential-data-and-publication-rights",
               "#article-vi-a-dignity-and-equal-moral-standing",
               "#article-vi-c-nondiscrimination",
               "#article-vi-d-accessibility",
               "#article-vi-equal-basic-rights",
               "#article-vii-self-ownership",
-              "#article-viii-likeness-experiential-data-and-publication-rights",
-              "#article-x-cooperative-interaction",
-              "#article-xi-stakeholder-system-participation-representation-and-due-process"
+              "#article-x-b-stakeholder-role-and-participation-rights",
+              "#article-x-e-institutional-formation-and-business-creation",
+              "#article-x-g-expression-assembly-and-press",
+              "#article-x-self-determination-and-agency",
+              "#article-xi-cooperative-interaction",
+              "#article-xii-stakeholder-system-participation-representation-and-due-process"
             ]
           },
           {
             "file": "core_06_rights_part_c.md",
             "count": 42,
             "anchors": [
-              "#article-xii-b-right-to-challenge-review-and-redress",
-              "#article-xii-right-to-reliable-and-trustworthy-systems",
-              "#article-xiv-info-sphere-integrity",
-              "#article-xix-interoperability-portability-and-exit-integrity",
-              "#article-xv-audit-transparency-and-independent-verification",
-              "#article-xvi-system-lifecycle-environments-and-reversibility",
-              "#article-xvii-e-scientific-publication-review-and-replication-integrity",
-              "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
-              "#article-xviii-b-contestability-and-proportional-restriction-limits",
-              "#article-xviii-standing-and-participation-status",
-              "#article-xx-comprehensibility-and-complexity-stewardship",
-              "#article-xxi-root-cause-analysis-and-adaptive-response",
-              "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards"
+              "#article-xiii-b-right-to-challenge-review-and-redress",
+              "#article-xiii-right-to-reliable-and-trustworthy-systems",
+              "#article-xix-b-contestability-and-proportional-restriction-limits",
+              "#article-xix-standing-and-participation-status",
+              "#article-xv-info-sphere-integrity",
+              "#article-xvi-audit-transparency-and-independent-verification",
+              "#article-xvii-system-lifecycle-environments-and-reversibility",
+              "#article-xviii-e-scientific-publication-review-and-replication-integrity",
+              "#article-xviii-sandboxed-innovation-experimentation-and-creative-freedom",
+              "#article-xx-interoperability-portability-and-exit-integrity",
+              "#article-xxi-comprehensibility-and-complexity-stewardship",
+              "#article-xxii-root-cause-analysis-and-adaptive-response",
+              "#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards"
             ]
           },
           {
             "file": "core_06_rights_part_d.md",
             "count": 4,
             "anchors": [
-              "#article-xxiii-a-justice-objective-and-scope",
-              "#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality",
-              "#article-xxiv-a-retrospective-review-and-disclosure"
+              "#article-xxiv-a-justice-objective-and-scope",
+              "#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality",
+              "#article-xxv-a-retrospective-review-and-disclosure"
             ]
           },
           {
@@ -1335,36 +1335,36 @@
             "file": "core_06_rights_part_b.md",
             "count": 8,
             "anchors": [
-              "#article-ix-a-agency-and-freedom-from-manipulation",
+              "#article-ix-likeness-experiential-data-and-publication-rights",
               "#article-vi-a-dignity-and-equal-moral-standing",
               "#article-vi-equal-basic-rights",
-              "#article-vii-a-self-ownership-of-body-and-mind",
-              "#article-vii-b-internal-state-boundary-and-type-n-protection",
-              "#article-viii-likeness-experiential-data-and-publication-rights"
+              "#article-vii-a-self-ownership-of-body",
+              "#article-vii-b-self-ownership-of-mind",
+              "#article-x-a-agency-and-freedom-from-manipulation"
             ]
           },
           {
             "file": "core_06_rights_part_c.md",
             "count": 15,
             "anchors": [
-              "#article-xii-b-right-to-challenge-review-and-redress",
-              "#article-xiii-a-security-intelligence-and-covert-power-limits",
-              "#article-xiv-b-transparency-auditability-and-contestability",
-              "#article-xiv-info-sphere-integrity",
-              "#article-xv-audit-transparency-and-independent-verification",
-              "#article-xviii-b-contestability-and-proportional-restriction-limits",
-              "#article-xx-comprehensibility-and-complexity-stewardship",
-              "#article-xxii-a-bounded-interpretive-mandate",
-              "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards"
+              "#article-xiii-b-right-to-challenge-review-and-redress",
+              "#article-xiv-a-security-intelligence-and-covert-power-limits",
+              "#article-xix-b-contestability-and-proportional-restriction-limits",
+              "#article-xv-b-transparency-auditability-and-contestability",
+              "#article-xv-info-sphere-integrity",
+              "#article-xvi-audit-transparency-and-independent-verification",
+              "#article-xxi-comprehensibility-and-complexity-stewardship",
+              "#article-xxiii-a-bounded-interpretive-mandate",
+              "#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards"
             ]
           },
           {
             "file": "core_06_rights_part_d.md",
             "count": 4,
             "anchors": [
-              "#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality",
-              "#article-xxiii-d-emergency-measures-and-continuation-burden",
-              "#article-xxiv-a-retrospective-review-and-disclosure"
+              "#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality",
+              "#article-xxiv-d-emergency-measures-and-continuation-burden",
+              "#article-xxv-a-retrospective-review-and-disclosure"
             ]
           },
           {
@@ -1776,26 +1776,26 @@
             "file": "core_06_rights_part_b.md",
             "count": 7,
             "anchors": [
-              "#article-ix-self-determination-and-agency",
-              "#article-vii-b-internal-state-boundary-and-type-n-protection",
-              "#article-xi-stakeholder-system-participation-representation-and-due-process"
+              "#article-vii-b-self-ownership-of-mind",
+              "#article-x-self-determination-and-agency",
+              "#article-xii-stakeholder-system-participation-representation-and-due-process"
             ]
           },
           {
             "file": "core_06_rights_part_c.md",
             "count": 30,
             "anchors": [
-              "#article-xii-d-incentive-alignment-constraint",
-              "#article-xiv-info-sphere-integrity",
-              "#article-xix-interoperability-portability-and-exit-integrity",
-              "#article-xv-audit-transparency-and-independent-verification",
-              "#article-xvi-system-lifecycle-environments-and-reversibility",
-              "#article-xviii-standing-and-participation-status",
-              "#article-xx-comprehensibility-and-complexity-stewardship",
-              "#article-xxi-root-cause-analysis-and-adaptive-response",
-              "#article-xxii-a-bounded-interpretive-mandate",
-              "#article-xxii-c-public-reasons-challenge-rights-and-external-review",
-              "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards",
+              "#article-xiii-d-incentive-alignment-constraint",
+              "#article-xix-standing-and-participation-status",
+              "#article-xv-info-sphere-integrity",
+              "#article-xvi-audit-transparency-and-independent-verification",
+              "#article-xvii-system-lifecycle-environments-and-reversibility",
+              "#article-xx-interoperability-portability-and-exit-integrity",
+              "#article-xxi-comprehensibility-and-complexity-stewardship",
+              "#article-xxii-root-cause-analysis-and-adaptive-response",
+              "#article-xxiii-a-bounded-interpretive-mandate",
+              "#article-xxiii-c-public-reasons-challenge-rights-and-external-review",
+              "#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards",
               "#operative-steward-statement-comprehensibility"
             ]
           },
@@ -1803,9 +1803,9 @@
             "file": "core_06_rights_part_d.md",
             "count": 3,
             "anchors": [
-              "#article-xxiv-b-rights-collision-procedure-and-restorative-alignment",
-              "#article-xxv-a-non-entrenchment-and-revisability",
-              "#article-xxv-b-periodic-revalidation-and-transparent-change"
+              "#article-xxv-b-rights-collision-procedure-and-restorative-alignment",
+              "#article-xxvi-a-non-entrenchment-and-revisability",
+              "#article-xxvi-b-periodic-revalidation-and-transparent-change"
             ]
           },
           {
@@ -2226,7 +2226,7 @@
             "file": "core_06_rights_part_c.md",
             "count": 1,
             "anchors": [
-              "#article-xv-audit-transparency-and-independent-verification"
+              "#article-xvi-audit-transparency-and-independent-verification"
             ]
           },
           {
@@ -2591,7 +2591,7 @@
               "#procedural-fairness-constitutional",
               "#protected-characteristic-proxying-and-disparate-impact",
               "#protected-characteristics-constitutional",
-              "#protected-intimate-signal-gating-and-article-x-c-status-circumvention",
+              "#protected-intimate-signal-gating-and-article-xi-c-status-circumvention",
               "#refuge-from-non-compliance-constitutional",
               "#reproductive-autonomy-constitutional",
               "#self-determination-and-meaningful-agency-cluster",
@@ -3545,36 +3545,36 @@
             "count": 5,
             "anchors": [
               "#article-vi-b-sentience-status-adjudication-floor",
-              "#article-vii-f-voluntary-discontinuation-of-ones-own-existence",
-              "#article-x-a-non-imposition-and-consent-in-association",
-              "#article-x-b-collective-harm-boundary-and-enforcement-interface",
-              "#article-xi-stakeholder-system-participation-representation-and-due-process"
+              "#article-vii-d-voluntary-discontinuation-of-ones-own-existence",
+              "#article-xi-a-non-imposition-and-consent-in-association",
+              "#article-xi-b-collective-harm-boundary-and-enforcement-interface",
+              "#article-xii-stakeholder-system-participation-representation-and-due-process"
             ]
           },
           {
             "file": "core_06_rights_part_c.md",
             "count": 21,
             "anchors": [
-              "#article-xii-a-reliability-and-trustworthiness-baseline",
-              "#article-xii-b-right-to-challenge-review-and-redress",
-              "#article-xii-f-resilience-and-self-healing-baseline",
-              "#article-xiii-a-security-intelligence-and-covert-power-limits",
-              "#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits",
-              "#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools"
+              "#article-xiii-a-reliability-and-trustworthiness-baseline",
+              "#article-xiii-b-right-to-challenge-review-and-redress",
+              "#article-xiii-f-resilience-and-self-healing-baseline",
+              "#article-xiv-a-security-intelligence-and-covert-power-limits",
+              "#article-xiv-b-use-of-force-armed-conflict-and-military-power-limits",
+              "#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools"
             ]
           },
           {
             "file": "core_06_rights_part_d.md",
             "count": 11,
             "anchors": [
-              "#article-xxiii-a-justice-objective-and-scope",
-              "#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
-              "#article-xxiii-c-least-restrictive-and-time-bounded-rule",
-              "#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality",
-              "#article-xxiii-d-emergency-measures-and-continuation-burden",
-              "#article-xxiv-c-timely-resolution-and-anti-delay-floor",
-              "#article-xxv-constitutional-evolution-and-non-entrenchment",
-              "#article-xxvi-transition-governance-continuity-and-re-baselining"
+              "#article-xxiv-a-justice-objective-and-scope",
+              "#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
+              "#article-xxiv-c-least-restrictive-and-time-bounded-rule",
+              "#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality",
+              "#article-xxiv-d-emergency-measures-and-continuation-burden",
+              "#article-xxv-c-timely-resolution-and-anti-delay-floor",
+              "#article-xxvi-constitutional-evolution-and-non-entrenchment",
+              "#article-xxvii-transition-governance-continuity-and-re-baselining"
             ]
           },
           {
@@ -4059,41 +4059,41 @@
             "file": "core_06_rights_part_b.md",
             "count": 22,
             "anchors": [
-              "#article-ix-a-agency-and-freedom-from-manipulation",
+              "#article-ix-a-self-ownership-of-likeness-and-reputation",
+              "#article-ix-b-experiential-and-derived-data-rights",
+              "#article-ix-d-creative-work-training-data-use-and-anti-displacement",
+              "#article-ix-likeness-experiential-data-and-publication-rights",
               "#article-vi-c-nondiscrimination",
-              "#article-vii-a-self-ownership-of-body-and-mind",
-              "#article-vii-b-internal-state-boundary-and-type-n-protection",
-              "#article-vii-c-mental-health-crisis-and-involuntary-intervention-floor",
-              "#article-vii-f-voluntary-discontinuation-of-ones-own-existence",
-              "#article-viii-a-self-ownership-of-likeness-and-reputation",
-              "#article-viii-b-experiential-and-derived-data-rights",
-              "#article-viii-d-creative-work-training-data-use-and-anti-displacement",
-              "#article-viii-likeness-experiential-data-and-publication-rights",
-              "#article-xi-e-non-capture-safeguards"
+              "#article-vii-a-self-ownership-of-body",
+              "#article-vii-b-self-ownership-of-mind",
+              "#article-vii-c-health-crisis-and-involuntary-intervention-floor",
+              "#article-vii-d-voluntary-discontinuation-of-ones-own-existence",
+              "#article-x-a-agency-and-freedom-from-manipulation",
+              "#article-xii-e-non-capture-safeguards"
             ]
           },
           {
             "file": "core_06_rights_part_c.md",
             "count": 14,
             "anchors": [
-              "#article-xii-a-reliability-and-trustworthiness-baseline",
-              "#article-xii-f-resilience-and-self-healing-baseline",
-              "#article-xiii-a-security-intelligence-and-covert-power-limits",
-              "#article-xix-d-movement-migration-refuge-and-non-statelessness",
-              "#article-xix-interoperability-portability-and-exit-integrity",
-              "#article-xv-c-verification-accessibility",
-              "#article-xx-comprehensibility-and-complexity-stewardship",
-              "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards"
+              "#article-xiii-a-reliability-and-trustworthiness-baseline",
+              "#article-xiii-f-resilience-and-self-healing-baseline",
+              "#article-xiv-a-security-intelligence-and-covert-power-limits",
+              "#article-xvi-c-verification-accessibility",
+              "#article-xx-d-movement-migration-refuge-and-non-statelessness",
+              "#article-xx-interoperability-portability-and-exit-integrity",
+              "#article-xxi-comprehensibility-and-complexity-stewardship",
+              "#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards"
             ]
           },
           {
             "file": "core_06_rights_part_d.md",
             "count": 13,
             "anchors": [
-              "#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality",
-              "#article-xxiii-d-emergency-measures-and-continuation-burden",
-              "#article-xxvi-d-non-compliant-property-and-systems-voluntary-turnover-incentives",
-              "#xxiii-d-restore-challenge-clocks"
+              "#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality",
+              "#article-xxiv-d-emergency-measures-and-continuation-burden",
+              "#article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives",
+              "#xxiv-d-restore-challenge-clocks"
             ]
           },
           {
@@ -4394,7 +4394,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 5,
             "anchors": [
-              "#article-ix-c-governance-participation-and-voting-entitlement"
+              "#article-x-c-governance-participation-and-voting-entitlement"
             ]
           },
           {
@@ -4646,15 +4646,15 @@
             "file": "core_06_rights_part_b.md",
             "count": 3,
             "anchors": [
-              "#article-ix-g-expression-assembly-and-press"
+              "#article-x-g-expression-assembly-and-press"
             ]
           },
           {
             "file": "core_06_rights_part_c.md",
             "count": 6,
             "anchors": [
-              "#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools",
-              "#article-xv-c-verification-accessibility",
+              "#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools",
+              "#article-xvi-c-verification-accessibility",
               "#audit-three-layers",
               "#operative-steward-statement-audit"
             ]
@@ -4930,7 +4930,7 @@
               "#procedural-fairness-constitutional",
               "#protected-characteristic-proxying-and-disparate-impact",
               "#protected-characteristics-constitutional",
-              "#protected-intimate-signal-gating-and-article-x-c-status-circumvention",
+              "#protected-intimate-signal-gating-and-article-xi-c-status-circumvention",
               "#refuge-from-non-compliance-constitutional",
               "#reproductive-autonomy-constitutional",
               "#rights-collision-record-binding-stakeholder-choice",
@@ -4973,39 +4973,39 @@
             "file": "core_06_rights_part_b.md",
             "count": 64,
             "anchors": [
-              "#article-ix-a-agency-and-freedom-from-manipulation",
-              "#article-ix-b-stakeholder-role-and-participation-rights",
-              "#article-ix-e-institutional-formation-and-business-creation",
-              "#article-ix-g-expression-assembly-and-press",
-              "#article-ix-self-determination-and-agency",
               "#article-vi-a-dignity-and-equal-moral-standing",
               "#article-vi-b-sentience-status-adjudication-floor",
               "#article-vi-c-nondiscrimination",
               "#article-vi-d-accessibility",
-              "#article-vii-a-self-ownership-of-body-and-mind",
-              "#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation",
-              "#article-vii-d1-derivation-instantiation-and-the-parent-system-relationship",
-              "#article-vii-e-developing-sentients-best-interest-and-graduated-capability",
-              "#article-x-a-non-imposition-and-consent-in-association",
-              "#article-x-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation",
-              "#article-xi-stakeholder-system-participation-representation-and-due-process"
+              "#article-vii-a-self-ownership-of-body",
+              "#article-viii-a-family-care-relationships-reproductive-autonomy-and-non-separation",
+              "#article-viii-a1-derivation-instantiation-and-the-parent-system-relationship",
+              "#article-viii-b-developing-sentients-best-interest-and-graduated-capability",
+              "#article-x-a-agency-and-freedom-from-manipulation",
+              "#article-x-b-stakeholder-role-and-participation-rights",
+              "#article-x-e-institutional-formation-and-business-creation",
+              "#article-x-g-expression-assembly-and-press",
+              "#article-x-self-determination-and-agency",
+              "#article-xi-a-non-imposition-and-consent-in-association",
+              "#article-xi-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation",
+              "#article-xii-stakeholder-system-participation-representation-and-due-process"
             ]
           },
           {
             "file": "core_06_rights_part_c.md",
             "count": 12,
             "anchors": [
-              "#article-xiii-a-security-intelligence-and-covert-power-limits",
-              "#article-xix-d-movement-migration-refuge-and-non-statelessness",
-              "#article-xv-a-auditability-and-observable-evidence",
-              "#xix-d-climate-unlivability-refuge-adopter-decided"
+              "#article-xiv-a-security-intelligence-and-covert-power-limits",
+              "#article-xvi-a-auditability-and-observable-evidence",
+              "#article-xx-d-movement-migration-refuge-and-non-statelessness",
+              "#xx-d-climate-unlivability-refuge-adopter-decided"
             ]
           },
           {
             "file": "core_06_rights_part_d.md",
             "count": 1,
             "anchors": [
-              "#article-xxiv-b-rights-collision-procedure-and-restorative-alignment"
+              "#article-xxv-b-rights-collision-procedure-and-restorative-alignment"
             ]
           },
           {
@@ -5280,16 +5280,16 @@
             "file": "core_06_rights_part_c.md",
             "count": 4,
             "anchors": [
-              "#article-xii-b-right-to-challenge-review-and-redress",
-              "#article-xv-audit-transparency-and-independent-verification",
-              "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards"
+              "#article-xiii-b-right-to-challenge-review-and-redress",
+              "#article-xvi-audit-transparency-and-independent-verification",
+              "#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards"
             ]
           },
           {
             "file": "core_06_rights_part_d.md",
             "count": 1,
             "anchors": [
-              "#article-xxiii-d-emergency-measures-and-continuation-burden"
+              "#article-xxiv-d-emergency-measures-and-continuation-burden"
             ]
           },
           {
@@ -5552,8 +5552,8 @@
             "file": "core_06_rights_part_c.md",
             "count": 3,
             "anchors": [
-              "#article-xiv-info-sphere-integrity",
-              "#article-xv-audit-transparency-and-independent-verification"
+              "#article-xv-info-sphere-integrity",
+              "#article-xvi-audit-transparency-and-independent-verification"
             ]
           },
           {
@@ -5761,15 +5761,15 @@
             "file": "core_06_rights_part_c.md",
             "count": 3,
             "anchors": [
-              "#article-xii-b-right-to-challenge-review-and-redress",
-              "#article-xv-audit-transparency-and-independent-verification"
+              "#article-xiii-b-right-to-challenge-review-and-redress",
+              "#article-xvi-audit-transparency-and-independent-verification"
             ]
           },
           {
             "file": "core_06_rights_part_d.md",
             "count": 1,
             "anchors": [
-              "#article-xxiv-c-timely-resolution-and-anti-delay-floor"
+              "#article-xxv-c-timely-resolution-and-anti-delay-floor"
             ]
           },
           {
@@ -6036,20 +6036,20 @@
             "file": "core_06_rights_part_c.md",
             "count": 8,
             "anchors": [
-              "#article-xii-b-right-to-challenge-review-and-redress",
-              "#article-xiv-b-transparency-auditability-and-contestability",
-              "#article-xv-audit-transparency-and-independent-verification",
-              "#article-xviii-standing-and-participation-status",
-              "#article-xxi-root-cause-analysis-and-adaptive-response"
+              "#article-xiii-b-right-to-challenge-review-and-redress",
+              "#article-xix-standing-and-participation-status",
+              "#article-xv-b-transparency-auditability-and-contestability",
+              "#article-xvi-audit-transparency-and-independent-verification",
+              "#article-xxii-root-cause-analysis-and-adaptive-response"
             ]
           },
           {
             "file": "core_06_rights_part_d.md",
             "count": 10,
             "anchors": [
-              "#article-xxiii-a-justice-objective-and-scope",
-              "#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality",
-              "#article-xxiv-c-timely-resolution-and-anti-delay-floor",
+              "#article-xxiv-a-justice-objective-and-scope",
+              "#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality",
+              "#article-xxv-c-timely-resolution-and-anti-delay-floor",
               "#incentive-alignment-transition-carve-out"
             ]
           },
@@ -6249,7 +6249,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 1,
             "anchors": [
-              "#article-vii-b-internal-state-boundary-and-type-n-protection"
+              "#article-vii-b-self-ownership-of-mind"
             ]
           },
           {
@@ -6405,12 +6405,12 @@
             "file": "core_06_rights_part_d.md",
             "count": 11,
             "anchors": [
-              "#article-xxiii-a-justice-objective-and-scope",
-              "#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
-              "#article-xxiii-c-least-restrictive-and-time-bounded-rule",
-              "#article-xxiii-d-emergency-measures-and-continuation-burden",
-              "#article-xxiv-b-rights-collision-procedure-and-restorative-alignment",
-              "#article-xxiv-c-timely-resolution-and-anti-delay-floor"
+              "#article-xxiv-a-justice-objective-and-scope",
+              "#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
+              "#article-xxiv-c-least-restrictive-and-time-bounded-rule",
+              "#article-xxiv-d-emergency-measures-and-continuation-burden",
+              "#article-xxv-b-rights-collision-procedure-and-restorative-alignment",
+              "#article-xxv-c-timely-resolution-and-anti-delay-floor"
             ]
           },
           {
@@ -6658,23 +6658,23 @@
             "file": "core_06_rights_part_b.md",
             "count": 1,
             "anchors": [
-              "#article-ix-g-expression-assembly-and-press"
+              "#article-x-g-expression-assembly-and-press"
             ]
           },
           {
             "file": "core_06_rights_part_c.md",
             "count": 4,
             "anchors": [
-              "#article-xii-a-reliability-and-trustworthiness-baseline",
-              "#article-xv-audit-transparency-and-independent-verification",
-              "#article-xxii-b-composition-rotation-and-conflict-controls"
+              "#article-xiii-a-reliability-and-trustworthiness-baseline",
+              "#article-xvi-audit-transparency-and-independent-verification",
+              "#article-xxiii-b-composition-rotation-and-conflict-controls"
             ]
           },
           {
             "file": "core_06_rights_part_d.md",
             "count": 2,
             "anchors": [
-              "#article-xxiii-a-justice-objective-and-scope",
+              "#article-xxiv-a-justice-objective-and-scope",
               "#incentive-alignment-transition-carve-out"
             ]
           },
@@ -6861,29 +6861,29 @@
             "count": 3,
             "anchors": [
               "#article-vi-b-sentience-status-adjudication-floor",
-              "#article-vii-b-internal-state-boundary-and-type-n-protection",
-              "#article-xi-stakeholder-system-participation-representation-and-due-process"
+              "#article-vii-b-self-ownership-of-mind",
+              "#article-xii-stakeholder-system-participation-representation-and-due-process"
             ]
           },
           {
             "file": "core_06_rights_part_c.md",
             "count": 7,
             "anchors": [
-              "#article-xii-b-right-to-challenge-review-and-redress",
-              "#article-xv-audit-transparency-and-independent-verification",
-              "#article-xxii-b-composition-rotation-and-conflict-controls"
+              "#article-xiii-b-right-to-challenge-review-and-redress",
+              "#article-xvi-audit-transparency-and-independent-verification",
+              "#article-xxiii-b-composition-rotation-and-conflict-controls"
             ]
           },
           {
             "file": "core_06_rights_part_d.md",
             "count": 10,
             "anchors": [
-              "#article-xxiii-a-justice-objective-and-scope",
-              "#article-xxiii-c-least-restrictive-and-time-bounded-rule",
-              "#article-xxiii-d-emergency-measures-and-continuation-burden",
-              "#article-xxiv-c-timely-resolution-and-anti-delay-floor",
+              "#article-xxiv-a-justice-objective-and-scope",
+              "#article-xxiv-c-least-restrictive-and-time-bounded-rule",
+              "#article-xxiv-d-emergency-measures-and-continuation-burden",
+              "#article-xxv-c-timely-resolution-and-anti-delay-floor",
               "#operative-steward-statement-delay",
-              "#xxiii-d-restore-challenge-clocks"
+              "#xxiv-d-restore-challenge-clocks"
             ]
           },
           {
@@ -7097,16 +7097,16 @@
             "file": "core_06_rights_part_c.md",
             "count": 1,
             "anchors": [
-              "#article-xii-e-high-autonomy-systems-and-tool-mediated-process-integrity"
+              "#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity"
             ]
           },
           {
             "file": "core_06_rights_part_d.md",
             "count": 5,
             "anchors": [
-              "#article-xxiv-c-timely-resolution-and-anti-delay-floor",
-              "#article-xxvi-d-non-compliant-property-and-systems-voluntary-turnover-incentives",
-              "#xxvi-a-preservation-over-deletion"
+              "#article-xxv-c-timely-resolution-and-anti-delay-floor",
+              "#article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives",
+              "#xxvii-a-preservation-over-deletion"
             ]
           },
           {
@@ -7494,32 +7494,32 @@
             "file": "core_06_rights_part_b.md",
             "count": 10,
             "anchors": [
-              "#article-ix-b-stakeholder-role-and-participation-rights",
-              "#article-ix-e-institutional-formation-and-business-creation",
-              "#article-vii-a-self-ownership-of-body-and-mind",
-              "#article-vii-b-internal-state-boundary-and-type-n-protection",
-              "#article-vii-c-mental-health-crisis-and-involuntary-intervention-floor",
-              "#article-viii-b-experiential-and-derived-data-rights"
+              "#article-ix-b-experiential-and-derived-data-rights",
+              "#article-vii-a-self-ownership-of-body",
+              "#article-vii-b-self-ownership-of-mind",
+              "#article-vii-c-health-crisis-and-involuntary-intervention-floor",
+              "#article-x-b-stakeholder-role-and-participation-rights",
+              "#article-x-e-institutional-formation-and-business-creation"
             ]
           },
           {
             "file": "core_06_rights_part_c.md",
             "count": 6,
             "anchors": [
-              "#article-xii-b-right-to-challenge-review-and-redress",
-              "#article-xix-a-portability-rights",
-              "#article-xv-audit-transparency-and-independent-verification",
-              "#article-xviii-b-contestability-and-proportional-restriction-limits"
+              "#article-xiii-b-right-to-challenge-review-and-redress",
+              "#article-xix-b-contestability-and-proportional-restriction-limits",
+              "#article-xvi-audit-transparency-and-independent-verification",
+              "#article-xx-a-portability-rights"
             ]
           },
           {
             "file": "core_06_rights_part_d.md",
             "count": 5,
             "anchors": [
-              "#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality",
-              "#article-xxiv-c-timely-resolution-and-anti-delay-floor",
-              "#article-xxvi-d-non-compliant-property-and-systems-voluntary-turnover-incentives",
-              "#xxvi-a-preservation-over-deletion"
+              "#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality",
+              "#article-xxv-c-timely-resolution-and-anti-delay-floor",
+              "#article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives",
+              "#xxvii-a-preservation-over-deletion"
             ]
           },
           {
@@ -7587,8 +7587,8 @@
             "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
             "count": 2,
             "anchors": [
-              "#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives",
-              "#ci-143-article-xxvi-d-operative-transition-scoped-remediation-requirements"
+              "#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives",
+              "#ci-143-article-xxvii-d-operative-transition-scoped-remediation-requirements"
             ]
           },
           {
@@ -7628,7 +7628,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 26,
+            "count": 29,
             "anchors": [
               "#constitutional-tetrad",
               "#material-stake",
@@ -7637,7 +7637,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 71,
+            "count": 74,
             "anchors": [
               "#2-foundational-objective-wellbeing",
               "#21-fairness",
@@ -7671,7 +7671,7 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 19,
+            "count": 20,
             "anchors": [
               "#11-governance-under-stewardship-discipline",
               "#12-incentive-alignment-and-system-capture",
@@ -7694,7 +7694,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 290,
+            "count": 291,
             "anchors": [
               "#collective-harm-boundary",
               "#collective-harm-boundary-a",
@@ -7860,7 +7860,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 454,
+            "count": 459,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -7987,7 +7987,7 @@
             "file": "core_06_rights_part_d.md",
             "count": 1,
             "anchors": [
-              "#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality"
+              "#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality"
             ]
           },
           {
@@ -8054,13 +8054,13 @@
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md",
+            "file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xic_interface.md",
             "count": 2,
             "anchors": []
           },
           {
             "file": "corpus_systems.md",
-            "count": 14,
+            "count": 12,
             "anchors": []
           },
           {
@@ -8411,8 +8411,8 @@
             "file": "core_06_rights_part_d.md",
             "count": 4,
             "anchors": [
-              "#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality",
-              "#article-xxv-a-non-entrenchment-and-revisability"
+              "#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality",
+              "#article-xxvi-a-non-entrenchment-and-revisability"
             ]
           },
           {
@@ -8500,7 +8500,7 @@
           },
           {
             "file": "corpus_systems.md",
-            "count": 15,
+            "count": 14,
             "anchors": []
           },
           {
@@ -8712,7 +8712,7 @@
             "file": "core_06_rights_part_c.md",
             "count": 2,
             "anchors": [
-              "#article-xii-b-right-to-challenge-review-and-redress"
+              "#article-xiii-b-right-to-challenge-review-and-redress"
             ]
           },
           {
@@ -8783,7 +8783,7 @@
             "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
             "count": 7,
             "anchors": [
-              "#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives"
+              "#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives"
             ]
           }
         ]
@@ -8913,25 +8913,25 @@
             "file": "core_06_rights_part_b.md",
             "count": 6,
             "anchors": [
-              "#article-ix-c-governance-participation-and-voting-entitlement",
-              "#article-xi-a-stakeholder-system-participation-and-representation",
-              "#article-xi-c-legitimacy-gate-and-anti-token-participation",
-              "#article-xi-d-internal-roles-accountability-and-due-process-requirements",
-              "#article-xi-stakeholder-system-participation-representation-and-due-process"
+              "#article-x-c-governance-participation-and-voting-entitlement",
+              "#article-xii-a-stakeholder-system-participation-and-representation",
+              "#article-xii-c-legitimacy-gate-and-anti-token-participation",
+              "#article-xii-d-internal-roles-accountability-and-due-process-requirements",
+              "#article-xii-stakeholder-system-participation-representation-and-due-process"
             ]
           },
           {
             "file": "core_06_rights_part_c.md",
             "count": 2,
             "anchors": [
-              "#article-xviii-standing-and-participation-status"
+              "#article-xix-standing-and-participation-status"
             ]
           },
           {
             "file": "core_06_rights_part_d.md",
             "count": 3,
             "anchors": [
-              "#article-xxiv-b-rights-collision-procedure-and-restorative-alignment"
+              "#article-xxv-b-rights-collision-procedure-and-restorative-alignment"
             ]
           },
           {
@@ -9292,17 +9292,17 @@
             "file": "core_06_rights_part_b.md",
             "count": 4,
             "anchors": [
-              "#article-xi-b-weighted-participation-constraints",
-              "#article-xi-c-legitimacy-gate-and-anti-token-participation",
-              "#article-xi-stakeholder-system-participation-representation-and-due-process"
+              "#article-xii-b-weighted-participation-constraints",
+              "#article-xii-c-legitimacy-gate-and-anti-token-participation",
+              "#article-xii-stakeholder-system-participation-representation-and-due-process"
             ]
           },
           {
             "file": "core_06_rights_part_c.md",
             "count": 2,
             "anchors": [
-              "#article-xii-b-right-to-challenge-review-and-redress",
-              "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards"
+              "#article-xiii-b-right-to-challenge-review-and-redress",
+              "#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards"
             ]
           },
           {
@@ -9571,9 +9571,9 @@
             "file": "core_06_rights_part_c.md",
             "count": 5,
             "anchors": [
-              "#article-xii-b-right-to-challenge-review-and-redress",
-              "#article-xv-a-auditability-and-observable-evidence",
-              "#article-xv-audit-transparency-and-independent-verification"
+              "#article-xiii-b-right-to-challenge-review-and-redress",
+              "#article-xvi-a-auditability-and-observable-evidence",
+              "#article-xvi-audit-transparency-and-independent-verification"
             ]
           },
           {
@@ -9821,7 +9821,7 @@
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md",
+            "file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xic_interface.md",
             "count": 1,
             "anchors": []
           },
@@ -9896,17 +9896,17 @@
             "file": "core_06_rights_part_c.md",
             "count": 4,
             "anchors": [
-              "#article-xii-b-right-to-challenge-review-and-redress",
-              "#article-xv-a-auditability-and-observable-evidence",
-              "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards"
+              "#article-xiii-b-right-to-challenge-review-and-redress",
+              "#article-xvi-a-auditability-and-observable-evidence",
+              "#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards"
             ]
           },
           {
             "file": "core_06_rights_part_d.md",
             "count": 2,
             "anchors": [
-              "#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality",
-              "#article-xxvi-transition-governance-continuity-and-re-baselining"
+              "#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality",
+              "#article-xxvii-transition-governance-continuity-and-re-baselining"
             ]
           },
           {
@@ -11199,9 +11199,9 @@
             "file": "core_06_rights_part_c.md",
             "count": 5,
             "anchors": [
-              "#article-xii-a-reliability-and-trustworthiness-baseline",
-              "#article-xiii-a-security-intelligence-and-covert-power-limits",
-              "#article-xix-interoperability-portability-and-exit-integrity"
+              "#article-xiii-a-reliability-and-trustworthiness-baseline",
+              "#article-xiv-a-security-intelligence-and-covert-power-limits",
+              "#article-xx-interoperability-portability-and-exit-integrity"
             ]
           },
           {
@@ -12936,8 +12936,8 @@
             "file": "core_06_rights_part_c.md",
             "count": 2,
             "anchors": [
-              "#article-xiv-info-sphere-integrity",
-              "#article-xv-a-auditability-and-observable-evidence"
+              "#article-xv-info-sphere-integrity",
+              "#article-xvi-a-auditability-and-observable-evidence"
             ]
           },
           {
@@ -12977,7 +12977,7 @@
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md",
+            "file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xic_interface.md",
             "count": 1,
             "anchors": []
           },
@@ -13213,7 +13213,7 @@
             "file": "core_06_rights_part_b.md",
             "count": 1,
             "anchors": [
-              "#article-vii-b-internal-state-boundary-and-type-n-protection"
+              "#article-vii-b-self-ownership-of-mind"
             ]
           },
           {
@@ -13409,8 +13409,8 @@
             "file": "core_06_rights_part_c.md",
             "count": 3,
             "anchors": [
-              "#article-xii-b-right-to-challenge-review-and-redress",
-              "#article-xvi-system-lifecycle-environments-and-reversibility"
+              "#article-xiii-b-right-to-challenge-review-and-redress",
+              "#article-xvii-system-lifecycle-environments-and-reversibility"
             ]
           },
           {
@@ -13556,23 +13556,23 @@
             "file": "core_06_rights_part_c.md",
             "count": 16,
             "anchors": [
-              "#article-xii-f-resilience-and-self-healing-baseline",
-              "#article-xvi-a-lifecycle-governance-and-environment-separation",
-              "#article-xvi-b-progressive-deployment-and-reversibility",
-              "#article-xvi-c-misclassification-and-evasion-consequences",
-              "#article-xvi-system-lifecycle-environments-and-reversibility",
-              "#article-xvii-a-sandboxed-scope",
-              "#article-xvii-b-containment-disclosure-and-opt-in",
-              "#article-xvii-c-transition-to-higher-obligation-regimes",
-              "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom"
+              "#article-xiii-f-resilience-and-self-healing-baseline",
+              "#article-xvii-a-lifecycle-governance-and-environment-separation",
+              "#article-xvii-b-progressive-deployment-and-reversibility",
+              "#article-xvii-c-misclassification-and-evasion-consequences",
+              "#article-xvii-system-lifecycle-environments-and-reversibility",
+              "#article-xviii-a-sandboxed-scope",
+              "#article-xviii-b-containment-disclosure-and-opt-in",
+              "#article-xviii-c-transition-to-higher-obligation-regimes",
+              "#article-xviii-sandboxed-innovation-experimentation-and-creative-freedom"
             ]
           },
           {
             "file": "core_06_rights_part_d.md",
             "count": 2,
             "anchors": [
-              "#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality",
-              "#article-xxiii-d-emergency-measures-and-continuation-burden"
+              "#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality",
+              "#article-xxiv-d-emergency-measures-and-continuation-burden"
             ]
           },
           {
@@ -14888,15 +14888,15 @@
             "file": "core_06_rights_part_c.md",
             "count": 2,
             "anchors": [
-              "#article-xii-b-right-to-challenge-review-and-redress",
-              "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards"
+              "#article-xiii-b-right-to-challenge-review-and-redress",
+              "#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards"
             ]
           },
           {
             "file": "core_06_rights_part_d.md",
             "count": 4,
             "anchors": [
-              "#article-xxiii-d-emergency-measures-and-continuation-burden"
+              "#article-xxiv-d-emergency-measures-and-continuation-burden"
             ]
           },
           {
@@ -16784,7 +16784,7 @@
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md",
+            "file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xic_interface.md",
             "count": 1,
             "anchors": []
           },
@@ -16810,7 +16810,7 @@
         ]
       },
       {
-        "source": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md",
+        "source": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xic_interface.md",
         "targets": [
           {
             "file": "core_05__definitions_home.md",
@@ -16999,7 +16999,7 @@
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md",
+            "file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xic_interface.md",
             "count": 1,
             "anchors": []
           },
@@ -18346,7 +18346,7 @@
             "count": 2,
             "anchors": [
               "#article-vi-b-sentience-status-adjudication-floor",
-              "#article-vii-b-internal-state-boundary-and-type-n-protection"
+              "#article-vii-b-self-ownership-of-mind"
             ]
           },
           {
@@ -19594,8 +19594,8 @@
             "file": "core_06_rights_part_d.md",
             "count": 2,
             "anchors": [
-              "#article-xxiv-c-timely-resolution-and-anti-delay-floor",
-              "#xxiii-d-restore-challenge-clocks"
+              "#article-xxv-c-timely-resolution-and-anti-delay-floor",
+              "#xxiv-d-restore-challenge-clocks"
             ]
           },
           {

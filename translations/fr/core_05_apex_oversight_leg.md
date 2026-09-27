@@ -37,7 +37,7 @@
   - **Dans la portée :**
     - surveiller, vérifier, contrôler et borner la façon dont les systèmes se comportent, fait par les [Parties affectées](../../core_05_band_participation.md#stakeholder), des acteurs indépendants ou des institutions, et réparti là où cela est praticable ;
     - but : détecter et corriger la non-conformité, et soutenir une [Gouvernance](../../core_05_band_accountability.md#governance) informée ;
-    - la supervision exige l’[Auditabilité](../../core_05_band_oversight.md#auditability) et les instruments d’audit afférents sous l’**Article XV** (*Audit, transparence et vérification indépendante*) ;
+    - la supervision exige l’[Auditabilité](../../core_05_band_oversight.md#auditability) et les instruments d’audit afférents sous l’**Article XVI** (*Audit, transparence et vérification indépendante*) ;
     - la quantité de supervision exigée se met à l’échelle de l’[Impact matériel](../../core_05_band_oversight.md#material-impact), de la [Dépendance](../../core_05_band_continuity.md#dependency) et du [Risque](../../core_05_band_continuity.md#risk) ; et
     - la [Certification d’alignement du système](../../core_05_band_continuity.md#system-alignment-certification-constitutional) est un processus d’audit particulièrement large et à fort enjeu sous cette exigence — pas le seul processus d’audit.
   - **Dépend de :** les conditions et canaux dont cette jambe a besoin pour fonctionner. La portée détaillée de chaque terme et les règles de comment mesurer vivent dans sa propre définition ; commencez par [Décomposition de la jambe de la Tétrade](#oversight-tetrad-leg-decomposition) :

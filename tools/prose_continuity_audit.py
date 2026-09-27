@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Regression gate for prose continuity: malformed indents, stranded continuation lines, and Article IX nested lists."""
+"""Regression gate for prose continuity: malformed indents, stranded continuation lines, and Article X nested lists."""
 
 from __future__ import annotations
 
@@ -47,9 +47,9 @@ _ORPHAN_LINE_RES: tuple[re.Pattern[str], ...] = tuple(
 
 _SENTENCE_END = frozenset(".!?…")
 
-# Chapter Six, Article IX (`core_06_rights_part_b.md`): lead bullets ending with these must be
+# Chapter Six, Article X (`core_06_rights_part_b.md`): lead bullets ending with these must be
 # followed by nested `-` items (e.g. `  - `), not additional top-level `- ` siblings (regression for flattened sub-lists).
-_ARTICLE_IX_TOP_HEADING = re.compile(r"^### Article IX:")
+_ARTICLE_IX_TOP_HEADING = re.compile(r"^### Article X:")
 _TOP_LEVEL_ARTICLE_HEADING = re.compile(r"^### Article [IVXLCDM]+:")
 _COLON_INTRO_PARENT = re.compile(
     r"^-\s+.+\b("
@@ -182,7 +182,7 @@ def _is_nested_markdown_bullet(raw: str) -> bool:
 
 
 def scan_article_ix_colon_intro_lists(rel_path: str, lines: list[str]) -> list[Finding]:
-    """Enforce nested sub-bullets under Article IX colon introducers in the Chapter Six Part B file."""
+    """Enforce nested sub-bullets under Article X colon introducers in the Chapter Six Part B file."""
     if rel_path != "core_06_rights_part_b.md":
         return []
 
@@ -236,7 +236,7 @@ def scan_article_ix_colon_intro_lists(rel_path: str, lines: list[str]) -> list[F
                     Finding(
                         file=rel_path,
                         line=j,
-                        kind="article-ix-nested-list",
+                        kind="article-x-nested-list",
                         detail="Sub-bullets after a colon introducer (including:/have the right to:/This includes:/must be:) must be indented under the parent (e.g. `  - `), not top-level `- `",
                         text=nxt.strip()[:200],
                     ),

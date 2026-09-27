@@ -59,7 +59,7 @@
 - 상류: 원칙: [2. 기초 목표: 복지](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 안전](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 진실](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. 신뢰](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [5. 자유(한정된 행위주체성)](core_01_a_values_principles.md#5-freedom-bounded-agency), [§9 책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding).
 - 하류: [6.2.1 인식 완전성의 보존](#621-preservation-of-epistemic-integrity), [§6.1 결정 기록 규율](#615-rights-collision-decision-test), [기본 잠정 자세](#default-interim-posture), [7. 절대 덮어쓰기 금지](#7-prohibition-on-absolute-override).
 - 하류: [제6장: 기초 권리](../../core_06_rights_part_a.md#chapter-six-foundational-rights)에 걸친 조 사이 충돌을 다스린다.
-  - [제 XXII조: 헌법 해석, 검토, 포획 금지 안전장치](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)와 [제 XXIII조: 충돌 해결, 격상, 비상 비례](../../core_06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality)와 함께 읽으라.
+  - [제 XXII조: 헌법 해석, 검토, 포획 금지 안전장치](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards)와 [제 XXIII조: 충돌 해결, 격상, 비상 비례](../../core_06_rights_part_d.md#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality)와 함께 읽으라.
   - 검토, 비상, 권리 충돌 질문이 생기는 곳에서 적용하라.
 - 책임 있는 관리 문(비운영): 구속력 있는 다음 걸음 진술: [운영 책임 있는 관리 진술](#operative-steward-statement-interpretation). 지원 포인터는 그것을 좁힐 수 없다.
 
@@ -265,7 +265,7 @@
 <a id="rights-floor-minimums-principle"></a>
 **권리 바닥 최소 원칙:**
 - 어떤 헌법 과정, 조치, 이행, 개정, 궤적 결과, 비상 행위, 정의 관련 결과도 기준선 존엄 보호, 최소 생계 접근, 핵심 다툼, 검토, 불복 권리의 **권리 바닥 최소**를 영구히 소멸하거나 포기하게 할 수 없다.
-- 특정 권리의 일시 제한은 [가장 덜 제한적이고, 시한 있고, 검토 가능한 제약 원칙](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)과 [제 XXIII-D조](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden)(*비상 조치와 계속 부담*)의 비상 규정을 충족할 때에만 허용된다 — 즉 어떤 제한이든 정당화되고, 최소이고, 문서화되고, 시한 있고, 독립 검토 가능해야 한다. 특정 조는 더 강한 안전장치를 더할 수 있으나, 이 원칙을 좁히거나 편의, 효율, 분류, 비상, 이행, 궤적, 개정, 계약, 시행 꼬리표로 우회할 수 없다.
+- 특정 권리의 일시 제한은 [가장 덜 제한적이고, 시한 있고, 검토 가능한 제약 원칙](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)과 [제 XXIV-D조](../../core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden)(*비상 조치와 계속 부담*)의 비상 규정을 충족할 때에만 허용된다 — 즉 어떤 제한이든 정당화되고, 최소이고, 문서화되고, 시한 있고, 독립 검토 가능해야 한다. 특정 조는 더 강한 안전장치를 더할 수 있으나, 이 원칙을 좁히거나 편의, 효율, 분류, 비상, 이행, 궤적, 개정, 계약, 시행 꼬리표로 우회할 수 없다.
 
 <a id="anti-degrading-process-principle"></a>
 **저하 과정 금지 원칙.** C부분이 말한 [저하 과정 금지 원칙(§9.6)](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline)은 이 교환 스택에서 절대 바닥으로 작동한다.
@@ -317,7 +317,7 @@
 결정 기록에 대한 비밀 한도는 [§6.2 인식 공개 제약](#62-epistemic-disclosure-constraints)을 충족해야 한다. 완전한 공개가 실행 가능하지 않은 곳에서, 실행 가능한 최대 부분 공개와 독립 검토자 접근을 유지해야 한다.
 
 <a id="default-interim-posture"></a>
-**권리 충돌이 미결인 동안의 기본 잠정 자세.** [§6.1 결정 기록 규율](#615-rights-collision-decision-test)과 [제 XXII조](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards)가 충돌을 해결할 때까지, 대기 패턴은 고정되어, 책임 있는 관리자가 즉흥으로 승자를 만들어 내지 못하게 한다:
+**권리 충돌이 미결인 동안의 기본 잠정 자세.** [§6.1 결정 기록 규율](#615-rights-collision-decision-test)과 [제 XXII조](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards)가 충돌을 해결할 때까지, 대기 패턴은 고정되어, 책임 있는 관리자가 즉흥으로 승자를 만들어 내지 못하게 한다:
 
 - **증거를 보존하라:** 삭제, 누설, 되돌릴 수 없는 공개로 충돌을 무의미하게 만들지 말라.
 - **되돌릴 수 없는 걸음을 얼려라** — 충돌하는 읽기 중 하나를 쓸 수 없게 만들 걸음. 그 걸음을 밟으면 충돌을 닫거나, 한쪽을 무의미하게 하거나, 해석이 해결하기 전에 승자를 만들어 내는 곳에서, 되돌릴 수 없는 걸음을 밟지 말라.
@@ -336,7 +336,7 @@
 - 함께 읽기: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — **참여** 다리(한도 아래의 정보에 입각한 다툴 수 있음); **감독** 다리(공개 한도는 실행 가능한 최대 검토를 보존해야 한다); [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절.
 - 상류: 원칙: [3.1 안전](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 진실](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. 신뢰](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§6 과정 충돌 해결](#6-process-conflict-resolution).
 - 하류: [§6.2.1 인식 완전성의 보존](#621-preservation-of-epistemic-integrity), [§6.2.2 신뢰—진실 정합](#622-trust-truth-alignment), [§6.2.3 프라이버시와 정보 자기결정](#623-privacy-and-informational-self-determination), [7. 절대 덮어쓰기 금지](#7-prohibition-on-absolute-override).
-- 하류: 공개가 한정될 때 정보권 완전성, 감사 가능성, 회고 검토, 정보에 입각한 다툴 수 있음의 권리 면을 보호한다; 특히 [제 XIV조: 정보권 완전성](../../core_06_rights_part_c.md#article-xiv-info-sphere-integrity), [제 XV조: 감사, 투명, 독립 확인](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [제 XXII조: 헌법 해석, 검토, 포획 금지 안전장치](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards), [제 XXIV-A조: 회고 검토와 공개](../../core_06_rights_part_d.md#article-xxiv-a-retrospective-review-and-disclosure), 그리고 공개 한도가 다툴 수 있음이나 정보에 입각한 참여에 영향을 미치는 어떤 권리 맥락이든.
+- 하류: 공개가 한정될 때 정보권 완전성, 감사 가능성, 회고 검토, 정보에 입각한 다툴 수 있음의 권리 면을 보호한다; 특히 [제 XIV조: 정보권 완전성](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity), [제 XV조: 감사, 투명, 독립 확인](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [제 XXII조: 헌법 해석, 검토, 포획 금지 안전장치](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards), [제 XXV-A조: 회고 검토와 공개](../../core_06_rights_part_d.md#article-xxv-a-retrospective-review-and-disclosure), 그리고 공개 한도가 다툴 수 있음이나 정보에 입각한 참여에 영향을 미치는 어떤 권리 맥락이든.
 
 </details>
 
@@ -388,7 +388,7 @@
 - 함께 읽기: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — **참여** 다리(한도 아래의 정보에 입각한 다툴 수 있음); **감독** 다리(공개 한도는 실행 가능한 최대 검토를 보존해야 한다); [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절.
 - 상류: 원칙: [3.1 안전](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 진실](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. 신뢰](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [6. 과정 충돌 해결](#6-process-conflict-resolution).
 - 하류: [§6.2.2 신뢰—진실 정합](#622-trust-truth-alignment)과 [7. 절대 덮어쓰기 금지](#7-prohibition-on-absolute-override).
-- 하류: 공개가 한정될 때 정보권 완전성, 감사 가능성, 회고 검토, 정보에 입각한 다툴 수 있음의 권리 면을 보호한다; 특히 [제 XIV조: 정보권 완전성](../../core_06_rights_part_c.md#article-xiv-info-sphere-integrity), [제 XV조: 감사, 투명, 독립 확인](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [제 XXII조: 헌법 해석, 검토, 포획 금지 안전장치](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards), [제 XXIV-A조: 회고 검토와 공개](../../core_06_rights_part_d.md#article-xxiv-a-retrospective-review-and-disclosure), 그리고 공개 한도가 다툴 수 있음이나 정보에 입각한 참여에 영향을 미치는 어떤 권리 맥락이든.
+- 하류: 공개가 한정될 때 정보권 완전성, 감사 가능성, 회고 검토, 정보에 입각한 다툴 수 있음의 권리 면을 보호한다; 특히 [제 XIV조: 정보권 완전성](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity), [제 XV조: 감사, 투명, 독립 확인](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [제 XXII조: 헌법 해석, 검토, 포획 금지 안전장치](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards), [제 XXV-A조: 회고 검토와 공개](../../core_06_rights_part_d.md#article-xxv-a-retrospective-review-and-disclosure), 그리고 공개 한도가 다툴 수 있음이나 정보에 입각한 참여에 영향을 미치는 어떤 권리 맥락이든.
 
 </details>
 
@@ -450,7 +450,7 @@
 - 함께 읽기: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — **참여** 다리(프라이버시는 자유로운 표현과 결사를 받친다); **감독** 다리(프라이버시 침입은 그 자체로 감사 가능해야 한다); [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절.
 - 상류: 원칙: [5. 자유(한정된 행위주체성)](core_01_a_values_principles.md#5-freedom-bounded-agency), [3.1 안전](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 진실](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 인식 공개 제약](#62-epistemic-disclosure-constraints).
 - 하류: [**Def.C3** 프라이버시(정보) — 동료 층 무리 머리](../../core_05_band_continuity.md#privacy-informational-cluster), [프라이버시(정보)](../../core_05_band_continuity.md#privacy-informational), [보호되는 내부상태 경계](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional), [감시 경계](../../core_05_band_continuity.md#surveillance-boundary)를 포함.
-- 하류: [제 VII-A조](../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind) (*몸과 마음의 자기소유*); [제 VII-B조](../../core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection) (*내부상태 경계와 N형 보호*); [제 VIII조](../../core_06_rights_part_b.md#article-viii-likeness-experiential-data-and-publication-rights) (*초상, 경험 데이터, 출판 권리*); [제 IX-A조](../../core_06_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation) (*행위주체성과 조작으로부터의 자유*); [제 XIII-A조](../../core_06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) (*안보, 정보, 은밀 권력 한도*).
+- 하류: [제 VII-A조](../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) (*몸과 마음의 자기소유*); [제 VII-B조](../../core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*내부상태 경계와 N형 보호*); [제 VIII조](../../core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights) (*초상, 경험 데이터, 출판 권리*); [제 X-A조](../../core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*행위주체성과 조작으로부터의 자유*); [제 XIV-A조](../../core_06_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*안보, 정보, 은밀 권력 한도*).
 - 함께 읽기: [§6.1.5 가장 덜 제한적이고, 시한 있고, 검토 가능한 제약 원칙](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle); 프라이버시가 투명, 감사, 안전, 다른 헌법 이익과 충돌하는 곳에서 [§6.1 결정 기록 규율](#615-rights-collision-decision-test).
 
 </details>
@@ -530,7 +530,7 @@
 
 - 상류: [§6.1 핵심 교환 원칙](#61-core-tradeoff-principles) (교환 스택이 충족된 뒤에 적용); [§9.1 책임 있는 관리](core_01_c_stewardship_capacity_principles.md#91-stewardship); [§12.2 헌법 효율](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency).
 - 함께 읽기: 헌법 성과 측정 가족(*헌법 측정으로서의 피할 수 있는 부담*); [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — **참여** 다리(헌법상 요구되지 않는 부담은 [의미 있는 행위주체성](../../core_05_band_participation.md#meaningful-agency)을 좁힌다); **적시성** 다리(피할 수 있는 지연은 피할 수 있는 부담이다).
-- 하류: [§11.1.3 책임 있는 관리와 운영자 적용](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (유인은 불필요한 부담 만들기를 보상하면 안 된다); [제 XX조: 이해 가능성과 복잡성 책임 있는 관리](../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship).
+- 하류: [§11.1.3 책임 있는 관리와 운영자 적용](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (유인은 불필요한 부담 만들기를 보상하면 안 된다); [제 XX조: 이해 가능성과 복잡성 책임 있는 관리](../../core_06_rights_part_c.md#article-xxi-comprehensibility-and-complexity-stewardship).
 
 </details>
 
@@ -576,7 +576,7 @@
 - 상류: 원칙: [2. 기초 목표: 복지](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 안전](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 진실](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. 신뢰](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 책임 있는 관리와 분산된 이해](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. 과정 충돌 해결](#6-process-conflict-resolution), [5. 자유](core_01_a_values_principles.md#5-freedom-bounded-agency), [두 헌법 목적](core_00_preamble.md#two-constitutional-aims).
 - 하류: [15. 통합 적용](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
 - 하류: 평등, 다툼 권리, 투명, 다툴 수 있음, 한정된 해석을 무너뜨릴 단일 가치 덮어쓰기 논리로부터 권리 면을 보호한다.
-  - 특히 [제 V조: 평등한 기본 권리](../../core_06_rights_part_b.md#article-vi-equal-basic-rights), [제 XII-B조: 다툼, 검토, 구제에 대한 권리](../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress), [제 XIV-B조: 투명, 감사 가능성, 다툴 수 있음](../../core_06_rights_part_c.md#article-xiv-b-transparency-auditability-and-contestability), [제 XVIII-B조: 다툴 수 있음과 비례 제한 한도](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits), [제 XXII-A조: 한정된 해석 위임](../../core_06_rights_part_c.md#article-xxii-a-bounded-interpretive-mandate).
+  - 특히 [제 V조: 평등한 기본 권리](../../core_06_rights_part_b.md#article-vi-equal-basic-rights), [제 XIII-B조: 다툼, 검토, 구제에 대한 권리](../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress), [제 XV-B조: 투명, 감사 가능성, 다툴 수 있음](../../core_06_rights_part_c.md#article-xv-b-transparency-auditability-and-contestability), [제 XIX-B조: 다툴 수 있음과 비례 제한 한도](../../core_06_rights_part_c.md#article-xix-b-contestability-and-proportional-restriction-limits), [제 XXIII-A조: 한정된 해석 위임](../../core_06_rights_part_c.md#article-xxiii-a-bounded-interpretive-mandate).
 
 </details>
 
@@ -611,7 +611,7 @@
 - 함께 읽기: [제2장부터 제4장](core_02_definition_structure.md)과 [제5장](core_05__definitions_home.md#chapter-five-foundational-definitions) — 이 장의 모든 용어의 해석·증거 층.
 - 함께 읽기: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad)과 [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) — 통합 가치 틀의 해석 배경; 실질로 관련된 곳에서 [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절.
 - 함께 읽기: [권위 스택과 내부 위계](../../core_05_band_integrative.md#authority-stack) (*원천 층 지위*); [제16장](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*보관, 판, 채택 틀* — 두 번째 충돌 순서 거처가 아님); [제13장](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)과 [제14장](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) (*§8.4 아래 비후퇴와 채택 주체 위계 문*).
-- 함께 읽기: 제도 해석 안전장치를 위한 [제 XXII조: 헌법 해석, 검토, 포획 금지 안전장치](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (이 절의 대체가 아님).
+- 함께 읽기: 제도 해석 안전장치를 위한 [제 XXII조: 헌법 해석, 검토, 포획 금지 안전장치](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards) (이 절의 대체가 아님).
 
 </details>
 

@@ -260,7 +260,7 @@
 - [সুরক্ষিত বৈশিষ্ট্য](../../core_05_band_participation.md#protected-characteristics-constitutional)
 - [সুরক্ষিত তথ্য ও অভ্যন্তরীণ-অবস্থা প্রকাশ বন্ধন](../../core_05_band_oversight.md#protected-data-and-internal-state-publication-constraint)
 - [সুরক্ষিত অভ্যন্তরীণ-অবস্থা সীমা](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional)
-- [সুরক্ষিত ঘনিষ্ঠ-সংকেত ফটক ও **অনুচ্ছেদ X-C** (*প্রাপ্তবয়স্ক সম্মতিমূলক বাণিজ্যিক যৌন সেবা ও যৌন শোষণ*) অবস্থা পরিপন্থন](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention)
+- [সুরক্ষিত ঘনিষ্ঠ-সংকেত ফটক ও **অনুচ্ছেদ XI-C** (*প্রাপ্তবয়স্ক সম্মতিমূলক বাণিজ্যিক যৌন সেবা ও যৌন শোষণ*) অবস্থা পরিপন্থন](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention)
 - [সুরক্ষিত প্রতিবেদন (সতর্ককারী)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
 - [সুরক্ষিত প্রতিবেদনের প্রতিশোধ ও প্রবেশাধিকার হস্তক্ষেপ](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)
 - [স্থলাভিষিক্ত-সংকেত বিচ্যুতি](../../core_05_band_oversight.md#proxy-divergence)

@@ -262,7 +262,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional)
 - [Protected Data and Internal-State Publication Constraint](core_05_band_oversight.md#protected-data-and-internal-state-publication-constraint)
 - [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional)
-- [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention)
+- [Protected Intimate-Signal Gating and **Article XI-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention)
 - [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing)
 - [Protected Reporting Retaliation and Access Interference](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)
 - [Proxy Divergence](core_05_band_oversight.md#proxy-divergence)

@@ -260,7 +260,7 @@
 - [Защищённые характеристики](../../core_05_band_participation.md#protected-characteristics-constitutional)
 - [Ограничение публикации защищённых данных и внутреннего состояния](../../core_05_band_oversight.md#protected-data-and-internal-state-publication-constraint)
 - [Защищённая граница внутреннего состояния](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional)
-- [Гейтинг защищённых интимных сигналов и обход статуса **Статьи X-C** (*Взрослые консенсуальные коммерческие сексуальные услуги и сексуальная эксплуатация*)](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention)
+- [Гейтинг защищённых интимных сигналов и обход статуса **Статьи XI-C** (*Взрослые консенсуальные коммерческие сексуальные услуги и сексуальная эксплуатация*)](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention)
 - [Защищённое сообщение (сообщение о нарушениях)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
 - [Месть за защищённое сообщение и вмешательство в доступ](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)
 - [Расхождение заместительных показателей](../../core_05_band_oversight.md#proxy-divergence)

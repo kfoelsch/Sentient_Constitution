@@ -43,13 +43,13 @@ This file is the institutional implementation home for **CI-17** (*End-of-life c
 - **Advance planning** — advance instructions and substitute decision-maker records must have a named custodian and an auditable chain from creation through incapacity.
 - **Care at the end of life** — palliative and bodily-maintenance access routing must stay practical under **Article III-B** (*Bodily-Maintenance and Healthcare Access*); billing, network, or administrative gates cannot quietly block comfort care.
 - **Memorial and disposition** — memorial files, disposition choices, and grief or cultural-practice accommodation must have named owners and contest routes.
-- **After death** — posthumous likeness and experiential-data controls must honor **Article VIII** (*Likeness, Experiential Data, and Publication Rights*) defaults and documented wishes; posthumous data retention follows **CJS-3.18** (*data-retention and lifecycle-integrity terms*) lifecycle rules.
-- **Hard limits** — voluntary discontinuation under **Article VII-F** (*Voluntary Discontinuation of One's Own Existence*) is distinct from involuntary deprivation categorically forbidden under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*); crisis-intervention floors under **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*) are not narrowed.
+- **After death** — posthumous likeness and experiential-data controls must honor **Article IX** (*Likeness, Experiential Data, and Publication Rights*) defaults and documented wishes; posthumous data retention follows **CJS-3.18** (*data-retention and lifecycle-integrity terms*) lifecycle rules.
+- **Hard limits** — voluntary discontinuation under **Article VII-D** (*Voluntary Discontinuation of One's Own Existence*) is distinct from involuntary deprivation categorically forbidden under **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*); crisis-intervention floors under **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*) are not narrowed.
 - **Read with** — **CI-8** (*Transparency, participation, and accessible challenge and service pathways*) for participation and challenge-pathway accessibility.
 
 *Shared rules live elsewhere.*
 - [**CJS-3.18**](../corpus_joint_structure/cjs_03c_continuity_operations.md) (*data-retention and lifecycle-integrity terms*).
-- **Article VII-F** (*Voluntary Discontinuation of One's Own Existence*); **Article VIII** (*Likeness, Experiential Data, and Publication Rights*); **Article III-B** (*Bodily-Maintenance and Healthcare Access*); **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*); **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*) (not narrowed here).
+- **Article VII-D** (*Voluntary Discontinuation of One's Own Existence*); **Article IX** (*Likeness, Experiential Data, and Publication Rights*); **Article III-B** (*Bodily-Maintenance and Healthcare Access*); **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*); **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*) (not narrowed here).
 - This file does not repeat those floors.
 
 **Apply.** Apply **CJS-3.18** (*Continuity: data-retention and lifecycle-integrity terms*) for the shared posthumous-data and continuity floor. **CI-17** (*End-of-life continuity, memorial dignity, and posthumous-data stewardship*) states only the local owner duties below.
@@ -61,7 +61,7 @@ Each institution in scope must name the office or body responsible for:
 - **palliative access routing** — who routes bodily-maintenance and comfort-care requests through billing, network, eligibility, and referral gates so **Article III-B** (*Bodily-Maintenance and Healthcare Access*) access is not defeated in practice;
 - **memorial and disposition files** — who holds memorial preferences, burial or disposition choices, and comparable post-death handling records with auditable custody;
 - **grief and cultural-practice accommodation** — who coordinates leave, ritual space, bereavement support, and culturally specific mourning practices without treating grief as a scheduling inconvenience; and
-- **posthumous likeness or experiential-data controls** — who enforces **Article VIII** (*Likeness, Experiential Data, and Publication Rights*) defaults and documented wishes for likeness, voice, synthetic depiction, and experiential or derived data after death, including retention, deletion, and secondary-use limits under **CJS-3.18** (*data-retention and lifecycle-integrity terms*).
+- **posthumous likeness or experiential-data controls** — who enforces **Article IX** (*Likeness, Experiential Data, and Publication Rights*) defaults and documented wishes for likeness, voice, synthetic depiction, and experiential or derived data after death, including retention, deletion, and secondary-use limits under **CJS-3.18** (*data-retention and lifecycle-integrity terms*).
 Read **CI-8** for participation and accessibility interfaces.
 
 ---

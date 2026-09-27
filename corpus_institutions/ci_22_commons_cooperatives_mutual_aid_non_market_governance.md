@@ -49,7 +49,7 @@ This file is the institutional implementation home for **CI-22** (*Commons, coop
 
 *Shared rules live elsewhere.*
 - [**CJS-3.7**](../corpus_joint_structure/cjs_03p_participation_operations.md) (*quorum and participatory legitimacy terms*) — **Commons, cooperative, and mutual-aid pathway integrity**.
-- **Article III-C** (*Labor and Economic Floor*); **Article IX-B** (*Stakeholder Role and Participation Rights*); **Article X-A** (*Non-Imposition and Consent in Association*).
+- **Article III-C** (*Labor and Economic Floor*); **Article X-B** (*Stakeholder Role and Participation Rights*); **Article XI-A** (*Non-Imposition and Consent in Association*).
 - Chapter Five [*Collective Organization*](../core_05_band_participation.md#collective-organization-constitutional); **CS-9**; **CI-11**; **CI-6**; **CI-9**; **CI-12**; **CI-18**; **CI-21**. This file does not repeat those floors.
 
 **Apply.** Apply **CJS-3.7** **Commons, cooperative, and mutual-aid pathway integrity**. **CI-22** states only the local owner duties below.

@@ -638,7 +638,7 @@ Cross-reference: **Article XXVI-D** (*Non-Compliant Property and Systems; Volunt
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流： 原則： 第一章 [§2 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [第一章 §5 自由](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 制限の規律](core_01_a_values_principles.md#51-limitation-discipline).
-- 下流： **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VII-A** (*Self-Ownership of Body and Mind*) self-ownership non-intrusion floor, **Article V-B** (*Nondiscrimination*) non-discrimination.
+- 下流： **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VII-A** (*Self-Ownership of Body*) self-ownership non-intrusion floor, **Article V-B** (*Nondiscrimination*) non-discrimination.
 - あわせて読む： 第五章 *身体維持へのアクセス*, *Substantive Fairness*, *保護された特性*; [§3.7 *身体維持へのアクセス、安全な条件、占有の継続、環境的前提条件、文化の継続、休息、および反立ち退きの床*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (where care access, survival-floor continuity, safe participation conditions, rest or recuperation, occupancy continuity, essential operating environments, environmental preconditions, or place-linked continuity are 実質的に implicated together).
 
 </details>
@@ -659,7 +659,7 @@ Cross-reference: **Article XXVI-D** (*Non-Compliant Property and Systems; Volunt
 *平たい言葉で言えば：すべての感知者は身体または基体が機能し続けるのに必要なケアへの権利を持ち、門の仕組みはその権利を静かに打ち負かすために用いられてはならない。*
 
 - **Affirmative access floor:** All 感知者 have the right to access bodily-maintenance and healthcare services necessary to preserve life, function, and dignity. This right applies under **感知性の非排除** across 実質的に relevant bodies and substrates.
-  - The floor covers preventive, acute, chronic, and maintenance care — including mental-health care (read with **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*)) and processing / substrate maintenance for synthetic 感知者.
+  - The floor covers preventive, acute, chronic, and maintenance care — including mental-health care (read with **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*)) and processing / substrate maintenance for synthetic 感知者.
   - It runs structurally parallel to the food, water, and shelter access floors of **Article III-A**（《生存》）.
 - **Non-denial by proxy:** Denial or material degradation of access は不遵守である where the effect is to defeat the floor. Common gating mechanisms in scope include:
   - insurance, allocation, and eligibility gates;
@@ -671,10 +671,10 @@ Cross-reference: **Article XXVI-D** (*Non-Compliant Property and Systems; Volunt
   Analysis must reach the substantive effect on the 感知者's ability to obtain adequate care, not only the formal design of the gating mechanism.
 - **Substrate-agnostic application:** Access obligations apply to biological and synthetic 感知者 without any default-exclusion **rule** for synthetic-substrate maintenance.
   - Declining to treat substrate maintenance as "medical" is not a constitutionally valid ground for exclusion where the effect is to defeat the floor.
-- **Non-conflation with self-ownership:** This Article states the affirmative access floor. It preserves the **Article VII-A** (*Self-Ownership of Body and Mind*) non-intrusion floorと**Article VII-B** (*Internal-State Boundary and Type-N Protection*) internal-state boundary:
+- **Non-conflation with self-ownership:** This Article states the affirmative access floor. It preserves the **Article VII-A** (*Self-Ownership of Body*) non-intrusion floorと**Article VII-B** (*Self-Ownership of Mind*) internal-state boundary:
   - access is not consent to intrusion;
   - affirmative access does not license compelled treatment.
-  - Any compelled or involuntary intervention is governed by **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*)と**Article VII-A** (*Self-Ownership of Body and Mind*) / **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) framework.
+  - Any compelled or involuntary intervention is governed by **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*)と**Article VII-A** (*Self-Ownership of Body*) / **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) framework.
 - **Limits and implementation routing:** Any limit on access must satisfy **Necessity**, **Proportionality**, **保護された特性**, and **Substantive Fairness**.
   - Operational mechanics — cost, distribution, workforce, and system design — route to institutional implementation text (**`corpus_institutions.md`** CI-9 (*Classification-linked institutional obligations*) / CI-10 (*Public revenue, fees, recurring charges, and billing integrity*) / CI-11 (*Resource stewardship and incentive integrity*)) and other incorporated implementation text under **第六章teen** discipline.
   - That implementation text この床を狭めるものとして読まれてはならない。

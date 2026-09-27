@@ -37,7 +37,7 @@
   - **範囲内：**
     - システムがどう振る舞うかを見守り、点検し、検証し、制約すること。[影響を受ける側](../../core_05_band_participation.md#stakeholder)、独立した行為者、または制度が行い、それが実行可能なところで分散させる；
     - 目的：不遵守を捉え、直し、情報に基づく[統治](../../core_05_band_accountability.md#governance)を支える；
-    - 監督は、**Article XV**（《監査、透明性、独立検証》）のもとでの [監査可能性](../../core_05_band_oversight.md#auditability) および関連する監査の道具を求める；
+    - 監督は、**Article XVI**（《監査、透明性、独立検証》）のもとでの [監査可能性](../../core_05_band_oversight.md#auditability) および関連する監査の道具を求める；
     - どれだけの監督が求められるかは、[実質的影響](../../core_05_band_oversight.md#material-impact)、[依存](../../core_05_band_continuity.md#dependency)、および [リスク](../../core_05_band_continuity.md#risk) に応じて尺度が変わる；かつ
     - [システム整合認証](../../core_05_band_continuity.md#system-alignment-certification-constitutional) は、その要件のもとでのとくに大きく利害の高い監査過程の一つである — 唯一の監査過程ではない。
   - **依存するもの：** この脚が働くために必要な条件と経路。各用語の詳細な範囲と測定の仕方の規則は、その用語自身の定義に住む；[四元脚の分解](#oversight-tetrad-leg-decomposition)から始めよ：

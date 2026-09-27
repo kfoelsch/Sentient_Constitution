@@ -229,7 +229,7 @@ If the allegations materially involve **local enforcement**, **constitutional en
 
 *In plain terms: Investigations may sometimes need sealed steps and delayed notice, but secrecy stays bounded by necessity, proportionality, and oversight — it is not a blanket exemption.*
 
-Investigations sometimes need restrictions, delayed notice, sealed steps, compartmentalization, or special handling of protected activity. Those measures remain governed by `core_06_rights_part_c.md` **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*), **Chapter Five** (*Necessity*, *Proportionality*, *Oversight*, *Accountability*, *Transparency*), [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation), and any applicable secrecy-implementation rules.
+Investigations sometimes need restrictions, delayed notice, sealed steps, compartmentalization, or special handling of protected activity. Those measures remain governed by `core_06_rights_part_c.md` **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*), **Chapter Five** (*Necessity*, *Proportionality*, *Oversight*, *Accountability*, *Transparency*), [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation), and any applicable secrecy-implementation rules.
 
 CF-9 adds a forum-interface record rule. When a secrecy-constrained or intrusive measure is requested, authorized, reviewed, renewed, narrowed, or found defective, the record must explain:
 - the lawful objective;

@@ -49,7 +49,7 @@ See: [CI-16](../../../corpus_institutions/ci_16_care_labor_dependent_support_res
 - **Today:** The clinic will give you a break if you become “decision-maker.” Or they will only help if you leave the household. Keep the adult and lose rest, or take rest and take over.
 - **With this Constitution:** Survival and rest cannot be billed as the price of unpaid care. Helping with one hard thing is not a key to every decision. If someone has to decide a thing they cannot currently carry, that step has to be only that thing, the smallest needed, time-limited, and looked at again.
 
-See: [Article III-A](../../../core_06_rights_part_a.md#article-iii-a-survival); [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind); [Chapter One §6.1.5](../../../core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle).
+See: [Article III-A](../../../core_06_rights_part_a.md#article-iii-a-survival); [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body); [Chapter One §6.1.5](../../../core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle).
 
 **You are not automatically their owner.**
 - **Today:** Because you pay a bill, the file lists you as the one who decides the clinician, the cards, and who they may see. Refusal is treated as proof they cannot decide — or as proof you are failing.
@@ -61,7 +61,7 @@ See: [CI-15](../../../corpus_institutions/ci_15_neurodiversity_disability_justic
 - **Today:** The “safe” rest-break is a durable break from the care relationship you actually have — or from the adult you care for.
 - **With this Constitution:** A lasting split from someone you depend on, or someone who depends on you, is allowed only if it is actually needed to prevent harm, no bigger than that harm, decided fairly, and open to challenge. A long split has to be looked at again.
 
-See: [Article VII-D](../../../core_06_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation); [Non-Separation](../../../core_05_band_participation.md#non-separation-constitutional).
+See: [Article VIII-A](../../../core_06_rights_part_b.md#article-viii-a-family-care-relationships-reproductive-autonomy-and-non-separation); [Non-Separation](../../../core_05_band_participation.md#non-separation-constitutional).
 
 ## What you might reasonably object to
 
@@ -73,7 +73,7 @@ See: [Article VII-D](../../../core_06_rights_part_b.md#article-vii-d-family-care
 
 - **“This isn’t law in this clinic.”** Correct until a qualifying body adopts it. It does not override applicable health, family, or labor law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
-- **“Don’t put me in a carer type.”** You do not have to take that label to use this page. This brief is for someone doing unpaid care for an adult, when rest or help is being billed as takeover. It does not change the Rights Floor that applies to you. When unpaid care, rest, or a quiet takeover is actually at stake, those rules are located in the sections on [CI-16](../../../corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md) and [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind).
+- **“Don’t put me in a carer type.”** You do not have to take that label to use this page. This brief is for someone doing unpaid care for an adult, when rest or help is being billed as takeover. It does not change the Rights Floor that applies to you. When unpaid care, rest, or a quiet takeover is actually at stake, those rules are located in the sections on [CI-16](../../../corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md) and [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body).
 
 ## What this will not pretend to give you
 

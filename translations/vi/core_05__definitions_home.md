@@ -260,7 +260,7 @@ Mục lục này liệt kê **Định nghĩa A-Z** và **Cụm A-Z** riêng. M�
 - [Đặc điểm được bảo vệ](../../core_05_band_participation.md#protected-characteristics-constitutional)
 - [Ràng buộc công bố dữ liệu được bảo vệ và trạng thái nội](../../core_05_band_oversight.md#protected-data-and-internal-state-publication-constraint)
 - [Ranh giới trạng thái nội tại được bảo vệ](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional)
-- [Cổng tín hiệu thân mật được bảo vệ và lách trạng thái **Điều X-C** (*Dịch vụ tình dục thương mại đồng thuận của người lớn và bóc lột tình dục*)](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention)
+- [Cổng tín hiệu thân mật được bảo vệ và lách trạng thái **Điều XI-C** (*Dịch vụ tình dục thương mại đồng thuận của người lớn và bóc lột tình dục*)](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention)
 - [Báo cáo được bảo vệ (Tố giác)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
 - [Trả đũa báo cáo được bảo vệ và can thiệp lối vào](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)
 - [Lệch chỉ số thay thế](../../core_05_band_oversight.md#proxy-divergence)

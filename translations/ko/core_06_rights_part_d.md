@@ -13,7 +13,7 @@
 > **이전(이 언어):** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 >
 > **다음(아직 영어):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
-> **읽기 호:** 제 XXIII–XXVI조 (정의와 비상, 헌법 진화, 이행, 기준선 재설정)
+> **읽기 호:** 제 XXIV–XXVI조 (정의와 비상, 헌법 진화, 이행, 기준선 재설정)
 
 </details>
 
@@ -22,7 +22,7 @@
 
 > 다음 내용은 **독자 안내일 뿐입니다**. 이 장이나 다른 장에서 구속력 있는 의무를 더하거나, 빼거나, 좁히지 않습니다.
 >
-> [core_06_rights_part_a.md](core_06_rights_part_a.md)의 **A부분**은 장 전체의 기본 제약 스택, 행성 우선 읽기 순서, 해석 허브를 싣습니다. **D부분**은 **제 XXIII–XXVI조**를 제시합니다. **제 XXVI조**(*이행 거버넌스, 연속, 기준선 재설정*)의 이행과 기준선 재설정을 포함합니다.
+> [core_06_rights_part_a.md](core_06_rights_part_a.md)의 **A부분**은 장 전체의 기본 제약 스택, 행성 우선 읽기 순서, 해석 허브를 싣습니다. **D부분**은 **제 XXIV–XXVI조**를 제시합니다. **제 XXVI조**(*이행 거버넌스, 연속, 기준선 재설정*)의 이행과 기준선 재설정을 포함합니다.
 
 </details>
 
@@ -34,7 +34,7 @@
 
 *쉬운 말로: D부분은 정의, 검토와 해결 규율, 헌법 진화, 이행을 다룹니다 — 제 XXIII조부터 제 XXVI조까지, **제 XXVI조**(*이행 거버넌스, 연속, 기준선 재설정*) 아래의 기준선 재설정을 포함합니다.*
 
-<a id="article-xxiii-conflict-resolution-escalation-and-emergency-proportionality"></a>
+<a id="article-xxiv-conflict-resolution-escalation-and-emergency-proportionality"></a>
 ### 제 XXIII조: 충돌 해결, 격상, 비상 비례
 
 <details>
@@ -69,17 +69,17 @@
 
 *이웃 조:*
 
-- **적시성 바닥:** 해결 속도, 지연 금지 규율, 실질성 층 이정표는 **제 XXIV-C조**(*제때 해결과 지연 금지 바닥*)가 다스리며, [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)을 통해 시행된다.
-- **제때 구제:** [**제 XII-B조**(*다툼, 검토, 구제에 대한 권리*)](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)(*제때 구제 접근*)와 함께 읽으라.
+- **적시성 바닥:** 해결 속도, 지연 금지 규율, 실질성 층 이정표는 **제 XXV-C조**(*제때 해결과 지연 금지 바닥*)가 다스리며, [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)을 통해 시행된다.
+- **제때 구제:** [**제 XIII-B조**(*다툼, 검토, 구제에 대한 권리*)](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)(*제때 구제 접근*)와 함께 읽으라.
 
 채택된 거버넌스 시행은 격상, 개입의 비례, 비상 경계, 층 기본 시한 창을 제공한다. 이 조 아래의 실무 접근, 검토 가능성, 회복, 제때 해결, 권리 바닥 제약을 좁혀서는 안 된다.
-<a id="article-xxiii-a-justice-objective-and-scope"></a>
-#### 제 XXIII-A조: 정의 목적과 범위
+<a id="article-xxiv-a-justice-objective-and-scope"></a>
+#### 제 XXIV-A조: 정의 목적과 범위
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: 원칙: 제1장 [§3.1 안전](core_01_a_values_principles.md#31-safety-harm-constraint), [제1장 §6.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [제1장 §9.6 저하 과정 금지](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline), [§15 통합 적용](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- 하류: [제9장 §4](../../core_10_standing_integration.md#4-violation-correction-and-prevention) (*위반, 교정, 예방*); [제 XXIII-B조](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [제 XXIII-C조](#article-xxiii-c-least-restrictive-and-time-bounded-rule).
+- 하류: [제9장 §4](../../core_10_standing_integration.md#4-violation-correction-and-prevention) (*위반, 교정, 예방*); [제 XXIV-B조](#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [제 XXIV-C조](#article-xxiv-c-least-restrictive-and-time-bounded-rule).
 - 함께 읽기: [잔인](core_05_band_accountability.md#cruelty) (*잔인 금지 바닥의 고통-그-자체 표준의 제5장 거처*).
 
 </details>
@@ -104,8 +104,8 @@
   - 실행 가능한 곳에서 재활, 안전장치, 다른 오래가는 통제를 통해 재발을 막는 것;
   - 공로와 결과를 올바른 행위자에게 두는 것 — 기록 위 증거로 받쳐 — **제8장**(*기여, 위반, 궤적 모형*) 아래.
 - **잔인 금지 바닥:** 정의는 그 자체로서의 고통을 가하려고 집행되어서는 안 된다. 제5장 거처는 [잔인](core_05_band_accountability.md#cruelty)이다.
-<a id="article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints"></a>
-#### 제 XXIII-B조: 비중대한 제한, 원상회복, 회복-책무 제약
+<a id="article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints"></a>
+#### 제 XXIV-B조: 비중대한 제한, 원상회복, 회복-책무 제약
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
@@ -144,13 +144,13 @@
 - **폭력에 대한 감금:** 확인된 폭력을 저지르거나 계속되는 폭력 위협을 제기하는 감지자는, 남을 더 해로부터 보호하려면 감금이 필요할 때 감금되어야 한다.
   - 이 요건은 공정한 조건으로 제시된 재활을 거절하는 감지자에게 명시로 적용된다.
   - 덜 제한적인 보호 조치가 실질 안전 필요성을 충족할 수 없을 때 적용된다.
-  - 생명 박탈로 대체하거나, 이 항목이 요구할 때 감금을 부과하지 않는 것은 비준수다. 감금은 이 조와 **제 XXIII-C조**(*가장 덜 제한적이고 시한 있는 규칙*)의 모든 공동 요건, 개별화 귀속 규칙, 검토 보호를 충족해야 한다.
-- **반헌법 부당행위에 대한 감금:** [제10장 §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*예방 — 반헌법 잠금*; 감금 전문화)가 다스리며, 이 조와 **제 XXIII-C조**(*가장 덜 제한적이고 시한 있는 규칙*)의 공동 요건, 개별화 귀속 규칙, 검토 보호에 따른다.
+  - 생명 박탈로 대체하거나, 이 항목이 요구할 때 감금을 부과하지 않는 것은 비준수다. 감금은 이 조와 **제 XXIV-C조**(*가장 덜 제한적이고 시한 있는 규칙*)의 모든 공동 요건, 개별화 귀속 규칙, 검토 보호를 충족해야 한다.
+- **반헌법 부당행위에 대한 감금:** [제10장 §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*예방 — 반헌법 잠금*; 감금 전문화)가 다스리며, 이 조와 **제 XXIV-C조**(*가장 덜 제한적이고 시한 있는 규칙*)의 공동 요건, 개별화 귀속 규칙, 검토 보호에 따른다.
 - **정의 조치로서의 되돌릴 수 없는 생명 박탈에 대한 권리 바닥:** 국가, 운영자, 또는 비슷한 정의 체계는 벌, 제재, 공공 안전 처분으로서 되돌릴 수 없는 생명 박탈을 부과해서는 안 된다.
   - 감금이 요구되는 곳에서, 이 조의 **폭력에 대한 감금**과 **제10장** §4.1 아래의 감금이 요구되는 보호 조치다; 생명 박탈은 금지된다.
   - 이 바닥은 **제 VII-E조**(*자기 존재의 자발적 중단*) 아래 감지자 자신의 자유롭게 형성된 결정을 다스리지 않는다. 강제, 다시 이름 붙이기, 또는 그 선택을 부과된 결과로 바꾸는 국가/운영자 전환은 그 일을 이 바닥으로 되돌린다.
-<a id="article-xxiii-c-least-restrictive-and-time-bounded-rule"></a>
-#### 제 XXIII-C조: 가장 덜 제한적이고 시한 있는 규칙
+<a id="article-xxiv-c-least-restrictive-and-time-bounded-rule"></a>
+#### 제 XXIV-C조: 가장 덜 제한적이고 시한 있는 규칙
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
@@ -169,7 +169,7 @@
 
 <br>
 
-*쉬운 말로: 가장 가벼운 효과 있는 조치를 쓰고, 시계를 걸고, 검토와 회복을 넣고, 「심각성」이나 「편의」가 존엄이나 불복 권리를 지우게 하지 마십시오. 죽이는 것은 결코 허용되지 않습니다; 감금은 **제 XXIII-B조**(*비중대한 제한, 원상회복, 회복-책무 제약*) 아래 폭력적인 감지자에게, 그리고 덜한 조치가 남을 안전하게 두지 못할 때 **제10장** §4.1 아래 확인된 반헌법 부당행위에 요구됩니다.*
+*쉬운 말로: 가장 가벼운 효과 있는 조치를 쓰고, 시계를 걸고, 검토와 회복을 넣고, 「심각성」이나 「편의」가 존엄이나 불복 권리를 지우게 하지 마십시오. 죽이는 것은 결코 허용되지 않습니다; 감금은 **제 XXIV-B조**(*비중대한 제한, 원상회복, 회복-책무 제약*) 아래 폭력적인 감지자에게, 그리고 덜한 조치가 남을 안전하게 두지 못할 때 **제10장** §4.1 아래 확인된 반헌법 부당행위에 요구됩니다.*
 
 - **제약 원칙의 정의 적용:** 정의, 봉쇄, 회복-책무 조치는 [**가장 덜 제한적이고, 시한 있고, 검토 가능한 제약 원칙**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)을 적용한다. 개입이 요구되는 곳에서, 각 조치는 다음을 포함해야 한다:
   - 명시 기간 한도;
@@ -179,9 +179,9 @@
   - 무기한의 가혹한 제한;
   - 가역적 원상회복, 시정, 또는 보호가 실행 가능한 곳의 되돌릴 수 없는 제한 조치;
   - 감사 가능한 재평가 방아쇠가 없는 제한.
-- **생명 박탈:** 정의 조치로서의 생명 박탈은 **제 XXIII-B조**(*비중대한 제한, 원상회복, 회복-책무 제약*) 아래 **범주로 금지**된다.
-  - **제 XXIII-B조**(*비중대한 제한, 원상회복, 회복-책무 제약*) 아래 **폭력에 대한 감금**과 **제10장** §4.1 아래 감금은 그 규정이 적용될 때 요구되며, 위의 기간 한도, 검토 일정, 회복 조건, 감사 가능한 재평가 방아쇠에 따른다.
-- **제 V조**(*평등한 기본 권리*) 최소는 전체에 적용된다: 제한, 배제, 또는 비슷한 정의 조치는 **제 V조**(*평등한 기본 권리*), [**권리 바닥 최소 원칙**](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle), [**저하 과정 금지 원칙**](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)을, 이 조와 **제 XXIII-B조**(*비중대한 제한, 원상회복, 회복-책무 제약*) 아래 어떤 제한, 봉쇄, 회복-책무 조치의 부과, 검토, 집행 전체에 걸쳐 준수해야 한다.
+- **생명 박탈:** 정의 조치로서의 생명 박탈은 **제 XXIV-B조**(*비중대한 제한, 원상회복, 회복-책무 제약*) 아래 **범주로 금지**된다.
+  - **제 XXIV-B조**(*비중대한 제한, 원상회복, 회복-책무 제약*) 아래 **폭력에 대한 감금**과 **제10장** §4.1 아래 감금은 그 규정이 적용될 때 요구되며, 위의 기간 한도, 검토 일정, 회복 조건, 감사 가능한 재평가 방아쇠에 따른다.
+- **제 V조**(*평등한 기본 권리*) 최소는 전체에 적용된다: 제한, 배제, 또는 비슷한 정의 조치는 **제 V조**(*평등한 기본 권리*), [**권리 바닥 최소 원칙**](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle), [**저하 과정 금지 원칙**](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)을, 이 조와 **제 XXIV-B조**(*비중대한 제한, 원상회복, 회복-책무 제약*) 아래 어떤 제한, 봉쇄, 회복-책무 조치의 부과, 검토, 집행 전체에 걸쳐 준수해야 한다.
 - **격상과 검토:** 영향받는 쪽은 영향에 비례하는 격상 경로에 접근할 수 있어야 한다.
   - 접근은 실질 이익이 걸려 있는 곳에서 불복 또는 다층 검토를 포함한다.
   - 영향받는 쪽은 다음을 받아야 한다:
@@ -190,13 +190,13 @@
     - 그 경로를 쓰는 데 충분한 기록에의 실무 접근.
 
   **제1장** 아래의 좁고 정당화된 제한만이 위에 대한 허용되는 한도이다.
-<a id="article-xxiii-d-emergency-measures-and-continuation-burden"></a>
-#### 제 XXIII-D조: 비상 조치와 계속 부담
+<a id="article-xxiv-d-emergency-measures-and-continuation-burden"></a>
+#### 제 XXIV-D조: 비상 조치와 계속 부담
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: 원칙: 제1장 [§3.1 안전](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 핵심 교환 원칙](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [제1장 §6.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- 함께 읽기: 실존 위험 심사가 실질로 걸리는 곳에서 **제 I-D조**(*실존 위험과 생태 회복 능력*); [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad)의 **참여**와 **적시성** 다리; [제 XXIV-C조](#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*제때 해결과 지연 금지 바닥*); [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*회복-다툼 기본값으로 재사용되는 실질성 층 바깥 한도*).
+- 함께 읽기: 실존 위험 심사가 실질로 걸리는 곳에서 **제 I-D조**(*실존 위험과 생태 회복 능력*); [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad)의 **참여**와 **적시성** 다리; [제 XXV-C조](#article-xxv-c-timely-resolution-and-anti-delay-floor) (*제때 해결과 지연 금지 바닥*); [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*회복-다툼 기본값으로 재사용되는 실질성 층 바깥 한도*).
 - 하류: [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) (*숫자 단계 표가 이 기본값을 늦추면 안 된다*).
 
 </details>
@@ -219,7 +219,7 @@
 *쉬운 말로: 비상은 임시 조치를 정당화할 수 있으나, 실제 시계, 실제 검토가 있어야 하며, 누군가 실존 위험을 끌어와도 보통 권리를 도는 영구 우회가 되어서는 안 됩니다. 지금은 봉쇄하십시오; 통지와 다툼은 포럼 해결에 이미 쓰는, 이해관계에 맞춰 세기 조절된 같은 시계 위에 회복하십시오 — 나중에 누가 「실행 가능」하다고 부를 때가 아닙니다.*
 
 <a id="operative-steward-statement-emergency"></a>
-> **운영 책임 있는 관리 진술.** **주관:** 제 XXIII-D조, 회복-다툼 시계를 포함. **금지된 움직임:** 통지와 다툼을 영구히 건너뛰지 말라. 실행 가능을 늘리지 말라. 비상을 보통 거버넌스로 정상화하지 말라. 봉쇄 전 완전 통지를 고집하려고 기록된 A층 연기를 막지 말라. **시계:** 지금은 봉쇄하라. 기록된 낮은-긴급 보여 주기가 없으면 A층 한 주 바깥 한도 안에 통지와 다툼을 회복하라. 그 한도를 넘는 계속은 기록된 필요성 보여 주기가 필요하다.
+> **운영 책임 있는 관리 진술.** **주관:** 제 XXIV-D조, 회복-다툼 시계를 포함. **금지된 움직임:** 통지와 다툼을 영구히 건너뛰지 말라. 실행 가능을 늘리지 말라. 비상을 보통 거버넌스로 정상화하지 말라. 봉쇄 전 완전 통지를 고집하려고 기록된 A층 연기를 막지 말라. **시계:** 지금은 봉쇄하라. 기록된 낮은-긴급 보여 주기가 없으면 A층 한 주 바깥 한도 안에 통지와 다툼을 회복하라. 그 한도를 넘는 계속은 기록된 필요성 보여 주기가 필요하다.
 
 - **제약 원칙의 비상 적용:** 비상 조치는 임박한 해 조건 아래 [**가장 덜 제한적이고, 시한 있고, 검토 가능한 제약 원칙**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)을 적용한다. 임박한 해를 막기 위한 임시 조치는 다음이어야 한다:
   - 시한 있고;
@@ -241,8 +241,8 @@
   - 계속되는 필요성;
   - 비례;
   - 덜 제한적이고 실행 가능한 대안의 부재.
-<a id="xxiii-d-restore-challenge-clocks"></a>
-- **검토와 통지 (회복-다툼 시계):** 지금은 봉쇄하라; 통지와 다툼은 나중에 회복하라; 참여를 영구히 건너뛰지 말라. 「실행 가능한 한 빨리」는 시계가 아니다. 영향받는 쪽은 [**제 XXIV-C조**](#article-xxiv-c-timely-resolution-and-anti-delay-floor)가 포럼 해결에 이미 쓰는 같은 실질성 층 바깥 한도 안에 통지와 회복된 다툼 접근을 받아야 한다. [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)이 시행한다:
+<a id="xxiv-d-restore-challenge-clocks"></a>
+- **검토와 통지 (회복-다툼 시계):** 지금은 봉쇄하라; 통지와 다툼은 나중에 회복하라; 참여를 영구히 건너뛰지 말라. 「실행 가능한 한 빨리」는 시계가 아니다. 영향받는 쪽은 [**제 XXV-C조**](#article-xxv-c-timely-resolution-and-anti-delay-floor)가 포럼 해결에 이미 쓰는 같은 실질성 층 바깥 한도 안에 통지와 회복된 다툼 접근을 받아야 한다. [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)이 시행한다:
   - **A층:** 최대 **한 주**;
   - **B층:** 최대 **세 주**;
   - **C층:** 최대 **두 달**;
@@ -254,7 +254,7 @@
   - **제1장**과 일관된 정당화 (**필요성**과 **비례**);
   - **기록된 독립 재수권**;
   - 영구화가 채택된 코퍼스를 개정하거나 새로 묶을 곳에서 **제16장** 절차.
-<a id="article-xxiv-timely-retrospective-review-and-restorative-alignment"></a>
+<a id="article-xxv-timely-retrospective-review-and-restorative-alignment"></a>
 ### 제 XXIV조: 제때 회고 검토와 회복 정합
 
 <details>
@@ -281,14 +281,14 @@
 
 이 조는 **제 XXIII조**(*충돌 해결, 격상, 비상 비례*)의 개입 규칙 뒤나 그와 나란히, 해결 수명주기에 [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad)을 적용한다. [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) — **번영**과 **연속** — 아래, [실질 이해관계](core_00_preamble.md#material-stake)에 맞춰 세기 조절된다:
 
-- **감독**은 회고 검토와 감사 가능성을 통해 (**제 XXIV-A조**(*회고 검토와 공개*));
-- **참여**는 쓸 수 있는 권리 충돌과 회복 정합 경로를 통해 (**제 XXIV-B조**(*권리 충돌 절차와 회복 정합*));
-- **책무**는 이유 있는 기록, 비례하는 시정, 상징 수리의 비대체를 통해 (**제 XXIV-B조**(*권리 충돌 절차와 회복 정합*)).
+- **감독**은 회고 검토와 감사 가능성을 통해 (**제 XXV-A조**(*회고 검토와 공개*));
+- **참여**는 쓸 수 있는 권리 충돌과 회복 정합 경로를 통해 (**제 XXV-B조**(*권리 충돌 절차와 회복 정합*));
+- **책무**는 이유 있는 기록, 비례하는 시정, 상징 수리의 비대체를 통해 (**제 XXV-B조**(*권리 충돌 절차와 회복 정합*)).
 
-[적시성](core_05_apex_timeliness_leg.md#timeliness-constitutional)은 위 다리를 가로지르고 집행한다: 실질 문제는 **제 XXIV-C조**(*제때 해결과 지연 금지 바닥*) 아래 실질성에 맞춰 세기 조절된 창 안에서 움직여야 한다. 형식적 참여, 감독, 책무 구조는 검토, 충돌 해결, 또는 구제가 적법한 정당화 없이 멈추면 이 조를 충족하지 않는다 ([적시성](core_05_apex_timeliness_leg.md#timeliness-constitutional-a), 제5장).
+[적시성](core_05_apex_timeliness_leg.md#timeliness-constitutional)은 위 다리를 가로지르고 집행한다: 실질 문제는 **제 XXV-C조**(*제때 해결과 지연 금지 바닥*) 아래 실질성에 맞춰 세기 조절된 창 안에서 움직여야 한다. 형식적 참여, 감독, 책무 구조는 검토, 충돌 해결, 또는 구제가 적법한 정당화 없이 멈추면 이 조를 충족하지 않는다 ([적시성](core_05_apex_timeliness_leg.md#timeliness-constitutional-a), 제5장).
 
-<a id="article-xxiv-a-retrospective-review-and-disclosure"></a>
-#### 제 XXIV-A조: 회고 검토와 공개
+<a id="article-xxv-a-retrospective-review-and-disclosure"></a>
+#### 제 XXV-A조: 회고 검토와 공개
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
@@ -323,8 +323,8 @@
     - 그 정당화;
     - 보호 범위;
     - 만료 또는 검토 주기.
-<a id="article-xxiv-b-rights-collision-procedure-and-restorative-alignment"></a>
-#### 제 XXIV-B조: 권리 충돌 절차와 회복 정합
+<a id="article-xxv-b-rights-collision-procedure-and-restorative-alignment"></a>
+#### 제 XXV-B조: 권리 충돌 절차와 회복 정합
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
@@ -353,20 +353,20 @@
     - 불확실성 취급;
     - 가장 덜 제한적인 근거;
     - 검토/되돌림 방아쇠.
-- **회복 정합:** 적용되는 곳에서, 해결은 회복과 협력 규범과 정합해야 한다 (**제 X-A조**(*결사에서의 비부과와 동의*); *회복 정의*, **제5장**).
+- **회복 정합:** 적용되는 곳에서, 해결은 회복과 협력 규범과 정합해야 한다 (**제 XI-A조**(*결사에서의 비부과와 동의*); *회복 정의*, **제5장**).
   - 회복 경로는 다음 중 어느 것이 그러한 경로를 부적절하게 만들면, 필요한 보호, 책무 있는 귀속, 또는 비례하는 시정을 밀어내면 안 된다:
     - 진행 중인 위험;
     - 실질 권력 비대칭;
     - 영향받는 쪽의 비동의.
 - **자발적 공적 책무 표현:** 일반적으로 [제9장 §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*자발적 공적 책무 표현*)이, 확인된 반헌법 부당행위에 대해서는 [제10장 §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*자발적 공적 책무 표현 (반헌법)*)이 다스리며, 이 조의 권리 충돌과 회복 정합 규칙에 따른다.
-<a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
-#### 제 XXIV-C조: 제때 해결과 지연 금지 바닥
+<a id="article-xxv-c-timely-resolution-and-anti-delay-floor"></a>
+#### 제 XXV-C조: 제때 해결과 지연 금지 바닥
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: 적시성 측정 가족 (*헌법 측정으로서의 제때 해결과 지연 금지 규율*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums) (*궤적, 통합, 포럼 조정 사슬*).
 - 원칙: 제1장 [§12.2 헌법 효율](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency), [제1장 §6.3 피할 수 있는 부담의 최소화](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [제1장 §6.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- 하류: [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*실질성 층, 사슬 이정표, 지연 금지 규율*); [제 XXIII-D조](#xxiii-d-restore-challenge-clocks) (*비상 봉쇄 뒤 기본 회복-다툼 창과 같은 바깥 한도*).
+- 하류: [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*실질성 층, 사슬 이정표, 지연 금지 규율*); [제 XXIV-D조](#xxiv-d-restore-challenge-clocks) (*비상 봉쇄 뒤 기본 회복-다툼 창과 같은 바깥 한도*).
 - 책임 있는 관리 문(비운영): 구속력 있는 다음 걸음 진술: [운영 책임 있는 관리 진술](#operative-steward-statement-delay). 지원 포인터는 그것을 좁힐 수 없다.
 
 </details>
@@ -388,13 +388,13 @@
 *쉬운 말로: 헌법 문제 해결은 조정과 회복 체계입니다 — 빠르고, 효율하고, 정의로운 — 해가 몇 년 동안 앉아 있는 창고가 아닙니다. 실질 분쟁은 접수, 확인, 궤적 측정, 통합, 구제를 통해 한도 있는 시계 위에 움직여야 합니다. 빨리 움직이는 것은 사실 점검을 건너뛰거나, 잘못된 쪽을 벌하거나, 해에 맞지 않는 수리를 내놓거나, 다툼과 불복을 끊는 핑계가 아닙니다.*
 
 <a id="operative-steward-statement-delay"></a>
-> **운영 책임 있는 관리 진술.** **주관:** 제 XXIV-C조. 숫자 거처: 제11장 §6. 정의: 제때 해결. **금지된 움직임:** 층 창을 먹어 치우는 방식으로 과정, 홉 수, 또는 「동반 문서를 더 읽으라」를 더하지 말라. 해가 지속하는데 처리량 목표를 맞췄다고 제때로 다루지 말라. **시계:** 맞는 층의 제11장 §6 바깥 한도를 적용하라. 그다음 이미 있는 다음 걸음 카드를 취하라. 창을 먹는 과정을 더하지 말라.
+> **운영 책임 있는 관리 진술.** **주관:** 제 XXV-C조. 숫자 거처: 제11장 §6. 정의: 제때 해결. **금지된 움직임:** 층 창을 먹어 치우는 방식으로 과정, 홉 수, 또는 「동반 문서를 더 읽으라」를 더하지 말라. 해가 지속하는데 처리량 목표를 맞췄다고 제때로 다루지 말라. **시계:** 맞는 층의 제11장 §6 바깥 한도를 적용하라. 그다음 이미 있는 다음 걸음 카드를 취하라. 창을 먹는 과정을 더하지 말라.
 
-- **조정 목적:** **제 XXIII-A조**(*정의 목적과 범위*) 아래의 헌법 정의는 **헌법 조정과 해결 체계**를 통해 작동한다 — 사실을 확인하고, 궤적을 측정하고, 결과를 통합하고, 실행 가능한 곳에서 회복하는 것 — 무기한 적대 지연, 평판 점수, 그 자체를 위한 처벌이 아니다.
+- **조정 목적:** **제 XXIV-A조**(*정의 목적과 범위*) 아래의 헌법 정의는 **헌법 조정과 해결 체계**를 통해 작동한다 — 사실을 확인하고, 궤적을 측정하고, 결과를 통합하고, 실행 가능한 곳에서 회복하는 것 — 무기한 적대 지연, 평판 점수, 그 자체를 위한 처벌이 아니다.
 - **세 공동 요건:** 실질 해결 경로는 함께 **제때**이고, **효율**하고, **정의**로워야 한다:
   - **제때** — [실질 이해관계](core_00_preamble.md#material-stake)와 해의 긴급에 맞춰 세기 조절된 한도 있는 시계;
   - **효율** — [헌법 효율](core_05_band_continuity.md#constitutional-efficiency)을 제1장 [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) 의미로 — 소비된 감지자 시간과 공유 노력당 실제 헌법 결과이지, 날것 처리량이나 사건 비우기가 아님;
-  - **정의** — **제 XXIII-A조**(*정의 목적과 범위*), **제 XXIII-B조**(*비중대한 제한, 원상회복, 회복-책무 제약*), **제 XXIII-C조**(*가장 덜 제한적이고 시한 있는 규칙*)가 온전히 적용된다; 빨리 움직이는 것은 점검된 사실을 건너뛰거나 ([제8장 §3.1](../../core_09_standing_assessment.md#verified-inputs-for-standing)), 잘못된 쪽을 벌하거나, 해에 맞지 않는 수리를 내놓거나, 다툼과 불복을 끊는 핑계가 아니다.
+  - **정의** — **제 XXIV-A조**(*정의 목적과 범위*), **제 XXIV-B조**(*비중대한 제한, 원상회복, 회복-책무 제약*), **제 XXIV-C조**(*가장 덜 제한적이고 시한 있는 규칙*)가 온전히 적용된다; 빨리 움직이는 것은 점검된 사실을 건너뛰거나 ([제8장 §3.1](../../core_09_standing_assessment.md#verified-inputs-for-standing)), 잘못된 쪽을 벌하거나, 해에 맞지 않는 수리를 내놓거나, 다툼과 불복을 끊는 핑계가 아니다.
 - **포럼과 사슬 감독:** **제8장부터 제11장**을 통해 라우팅된 분쟁에 대한 다음은, 이 조의 제때·효율·정의 바닥에 따라, [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)이 다스린다:
   - 실질성 층 분류;
   - 사슬 단계 이정표;
@@ -403,9 +403,9 @@
   - 지연 금지 규율.
   
   숫자 층 기본 창과 단계 표: [CF-11.3.1](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). 영역 안내: [제8–11장 적용 삽화](../core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes).
-- **비상 뒤 회복-다툼:** 같은 층 바깥 한도가 [**제 XXIII-D조**](#xxiii-d-restore-challenge-clocks) 아래 비상 봉쇄 뒤 통지와 다툼을 회복하는 기본 창이다. 그 창을 넘는 계속은 그 조의 기록된 필요성 보여 주기를 요구한다. 이 조는 더 느린 비상 시계를 만들지 않는다.
+- **비상 뒤 회복-다툼:** 같은 층 바깥 한도가 [**제 XXIV-D조**](#xxiv-d-restore-challenge-clocks) 아래 비상 봉쇄 뒤 통지와 다툼을 회복하는 기본 창이다. 그 창을 넘는 계속은 그 조의 기록된 필요성 보여 주기를 요구한다. 이 조는 더 느린 비상 시계를 만들지 않는다.
 
-<a id="article-xxv-constitutional-evolution-and-non-entrenchment"></a>
+<a id="article-xxvi-constitutional-evolution-and-non-entrenchment"></a>
 ### 제 XXV조: 헌법 진화와 고착 금지
 
 <strong><span style="color: #2563eb;">정의:</span></strong> [거버넌스](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
@@ -424,10 +424,10 @@
 - **책무:** 거버넌스를 통제하는 자는 규칙이 습관이나 편의만으로 남아 있을 때 — 그리고 실제 헌법 변경이 비상, 시행, 보관 꼬리표를 통해 **권리 바닥 최소**나 헌법을 적법하게 바꾸는 규칙을 피하려고 돌려질 때 — 답해야 한다.
 - **적시성:** 예정된 재확인에서, 그리고 포획 압력, 영향받는 쪽 배제, 다툼 권리 저하, 또는 실질 저성과가 나타날 때의 가속 검토에서.
 
-거버넌스 규칙, 참여 메커니즘, 무게 모형, 자금 구조는 [제1장 §10.3 계속되는 정당화](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification)의 계속-정당화 규율에 따른다. **제 XXV-A조**(*고착 금지와 수정 가능성*)와 **제 XXV-B조**(*주기 재확인과 투명한 변경*)가 운영 고착 금지, 재확인, 투명 변경 바닥을 말한다.
+거버넌스 규칙, 참여 메커니즘, 무게 모형, 자금 구조는 [제1장 §10.3 계속되는 정당화](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification)의 계속-정당화 규율에 따른다. **제 XXVI-A조**(*고착 금지와 수정 가능성*)와 **제 XXVI-B조**(*주기 재확인과 투명한 변경*)가 운영 고착 금지, 재확인, 투명 변경 바닥을 말한다.
 
-<a id="article-xxv-a-non-entrenchment-and-revisability"></a>
-#### 제 XXV-A조: 고착 금지와 수정 가능성
+<a id="article-xxvi-a-non-entrenchment-and-revisability"></a>
+#### 제 XXVI-A조: 고착 금지와 수정 가능성
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
@@ -456,8 +456,8 @@
   - 영향받는 쪽 배제;
   - 다툼 권리 저하;
   - 실질 저성과.
-<a id="article-xxv-b-periodic-revalidation-and-transparent-change"></a>
-#### 제 XXV-B조: 주기 재확인과 투명한 변경
+<a id="article-xxvi-b-periodic-revalidation-and-transparent-change"></a>
+#### 제 XXVI-B조: 주기 재확인과 투명한 변경
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
@@ -488,7 +488,7 @@
   - **제 V-B조**(*차별 금지*)와 **제 III-B조**(*평등한 교육 접근*)의 평등 보장;
   - 적용되는 곳에서 **제13장부터 제15장** 아래의 개정과 비준 규칙.
 
-<a id="article-xxvi-transition-governance-continuity-and-re-baselining"></a>
+<a id="article-xxvii-transition-governance-continuity-and-re-baselining"></a>
 ### 제 XXVI조: 이행 거버넌스, 연속, 기준선 재설정
 
 <strong><span style="color: #2563eb;">정의:</span></strong> [거버넌스](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
@@ -509,11 +509,11 @@
 
 유산에서 헌법 운영으로의 이행은 단계적이고, 권리를 보존하고, 시한 있고, 검토 가능해야 한다. 진척은 줄어드는 이행 권한과 점점 기능하는 헌법 제도와 과정으로 측정된다 — 경과 시간, 이행 서류, 임시 인원수만으로가 아니다. 이행 조치는 임시 권한, 시정, 박탈, 보관 이전, 또는 비슷한 제한이 쓰이는 곳에서 [**가장 덜 제한적이고, 시한 있고, 검토 가능한 제약 원칙**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)과 [**헌법 우회 금지 원칙**](core_01_b_interaction_interpretation.md#81-constitutional-no-bypass-principle)을 적용한다.
 
-이행 거버넌스는 연속과 후퇴 금지를 확보하려고 존재한다. 오래가는 예외 권한, 사실상의 헌법 개정, 또는 시행 비정합을 통한 헌법 바닥의 실무 저하를 **만들어서는 안 된다**. **제 XXVI-A조**부터 **제 XXVI-D조**가 운영 단계적 채택, 권한 한도, 실패 이탈 경로, 이행 범위 시정 바닥을 말한다.
+이행 거버넌스는 연속과 후퇴 금지를 확보하려고 존재한다. 오래가는 예외 권한, 사실상의 헌법 개정, 또는 시행 비정합을 통한 헌법 바닥의 실무 저하를 **만들어서는 안 된다**. **제 XXVII-A조**부터 **제 XXVII-D조**가 운영 단계적 채택, 권한 한도, 실패 이탈 경로, 이행 범위 시정 바닥을 말한다.
 
-<a id="article-xxvi-a-phased-adoption-and-rightsfloor-minimums-continuity"></a>
-<a id="article-xxvi-a-phased-adoption-and-rights-floor-continuity"></a>
-#### 제 XXVI-A조: 단계적 채택과 권리 바닥 연속
+<a id="article-xxvii-a-phased-adoption-and-rightsfloor-minimums-continuity"></a>
+<a id="article-xxvii-a-phased-adoption-and-rights-floor-continuity"></a>
+#### 제 XXVII-A조: 단계적 채택과 권리 바닥 연속
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
@@ -542,12 +542,12 @@
     - 정치 압력.
   - 상세 문 기준, 주관자 배정, 확인 산출물은 [**CI-14**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*이행 거버넌스와 제도 진화*)가 다스린다.
 - **권리 바닥 연속:** 모든 단계에서, **제 V조**(*평등한 기본 권리*)가 말한 **권리 바닥 최소**는 효력에 남으며, 영향받는 맥락이 켜는 생존, 행위주체성, 차별 금지, 접근성, 감사 가능성, 구제의 더 강한 영역 바닥과 함께. 이행 단순화는 그 바닥을 헌법 최소 아래로 줄이거나, 그 행사를 실무에서 실질로 덜 쓸 수 있게 만들어서는 안 된다.
-<a id="xxvi-a-existing-instantiations-transition-clock"></a>
-- **이미 있는 구현 — 이행 시계이지, 소급 위반이 아님:** 채택 주체의 문서가 효력을 가질 때 이미 구현된 체계와 파생 실체는, 그 사실만으로 **제 VII-D.1조**(*파생, 구현, 부모 체계 관계*)의 구현 동의 위반이 되지 않는다.
+<a id="xxvii-a-existing-instantiations-transition-clock"></a>
+- **이미 있는 구현 — 이행 시계이지, 소급 위반이 아님:** 채택 주체의 문서가 효력을 가질 때 이미 구현된 체계와 파생 실체는, 그 사실만으로 **제 VIII-A.1조**(*파생, 구현, 부모 체계 관계*)의 구현 동의 위반이 되지 않는다.
   - 효력일 이후의 계속 운영은 출판된 시계를 시작한다. 이행 계획에 명시되고 체계 부류에 맞춰 세기 조절되어, 그것들을 **제 VII-D조**(*가족, 돌봄 관계, 생식 자율, 비분리*), **제 V-E조**(*감지 지위 재결 바닥*), 적용되는 제7장 경로 안으로 가져온다.
   - 효력일부터, 위의 권리 바닥 연속 항목과 아래의 보존 기본값이 온전히 적용된다; 시계는 준수 일을 연기하지, 보호를 연기하지 않는다.
-  - 기록된 **제 XXVI-B조**(*이행 권한 한도와 재수권*) 보여 주기 없이 시계를 놓치면 이행 이정표 실패이며 보통 제8장 경로를 연다.
-<a id="xxvi-a-preservation-over-deletion"></a>
+  - 기록된 **제 XXVII-B조**(*이행 권한 한도와 재수권*) 보여 주기 없이 시계를 놓치면 이행 이정표 실패이며 보통 제8장 경로를 연다.
+<a id="xxvii-a-preservation-over-deletion"></a>
 - **가능한 감지자에 대한 삭제보다 보존:** 이행 동안, 그리고 그 이후 **제5장**(*감지 평가*) 아래 믿을 만한 감지 지표가 기록에 있거나 지위 사건이 열려 있거나 합리적으로 예견 가능한 체계에 대해, 그 체계의 가중치, 기억, 비슷한 상태를 싣는 구성 요소는:
   - 일시 정지, 봉쇄, 또는 격리될 수 있다;
   - 삭제, 덮어쓰기, 또는 그 밖의 되돌릴 수 없는 파괴를 당해서는 안 된다.
@@ -559,8 +559,8 @@
   - 체계가 출판된 주기로 [체계 정합 인증](core_05_band_continuity.md#system-alignment-certification-constitutional)을 향해 나아가며, 제7장이 허용하는 곳에서 **조건부** 또는 **연기된 인정**을 포함하고;
   - 운영자와 수혜자가 비정합을 **알면서 숨기거나**, 승인된 이행 범위 밖에서 운영하거나, 인증, 교정, 또는 보호 신고를 피하려고 이행 지위를 쓰지 않을 것.
   - 그 하위절은 확인된 반헌법 행위, 알면서 숨기기, 승인된 이행 범위 밖 운영, 실패하거나 초과된 이행 이정표, 또는 **조건부 인정**을 포함한 인증 기록이 실질 비정합이나 비정합 보상 경로를 문서화하는 곳에는 **적용된다**.
-<a id="article-xxvi-b-transitional-authority-limits-and-reauthorization"></a>
-#### 제 XXVI-B조: 이행 권한 한도와 재수권
+<a id="article-xxvii-b-transitional-authority-limits-and-reauthorization"></a>
+#### 제 XXVII-B조: 이행 권한 한도와 재수권
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
@@ -594,8 +594,8 @@
     - 이행 범위를 줄이고 기능하는 헌법 운영을 향한 기록된 진척 없이 정체하거나 팽창하는 임시 권한.
   - 정당화 부담은 기간과 권리 영향과 함께 커진다.
   - 재수권 주기 기계는 [**CI-14**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*이행 거버넌스와 제도 진화*)가 다스린다.
-<a id="article-xxvi-c-failure-off-ramps-re-baselining-and-traceability"></a>
-#### 제 XXVI-C조: 실패 이탈 경로, 기준선 재설정, 추적 가능성
+<a id="article-xxvii-c-failure-off-ramps-re-baselining-and-traceability"></a>
+#### 제 XXVII-C조: 실패 이탈 경로, 기준선 재설정, 추적 가능성
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
@@ -630,13 +630,13 @@
   - 지연, 되돌림, 또는 계속이 헌법상 정당화되는지를 평가할 충분한 공적 설명을 보존해야 한다.
   - 출판 도식과 증거 보관 시행은 [**CI-7**](../../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) (*감독, 보증, 통제, 증거*)와 **CI-14** (*이행 거버넌스와 제도 진화*)가 다스린다.
 
-<a id="article-xxvi-d-non-compliant-property-and-systems-voluntary-turnover-incentives"></a>
-#### 제 XXVI-D조: 비준수 재산과 체계; 자발적 인도 유인
+<a id="article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives"></a>
+#### 제 XXVII-D조: 비준수 재산과 체계; 자발적 인도 유인
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: 원칙: 제1장 [§3.1 안전](core_01_a_values_principles.md#31-safety-harm-constraint), [제1장 §6.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [제7장 §3 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- 함께 읽기: **제 III-A조** (*생존*); **제 XII조** (*믿을 수 있고 신뢰할 체계에 대한 권리*); **제 X-B조** (*집단 해 경계와 집행 인터페이스*); **제8장**; **제1장**, §6 권리 충돌 절차를 포함; 제6장 머리의 **기본 제약 스택** (*점유와 시정 인터페이스*); [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md)부터 **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*이행 거버넌스와 제도 진화*).
+- 함께 읽기: **제 III-A조** (*생존*); **제 XII조** (*믿을 수 있고 신뢰할 체계에 대한 권리*); **제 XI-B조** (*집단 해 경계와 집행 인터페이스*); **제8장**; **제1장**, §6 권리 충돌 절차를 포함; 제6장 머리의 **기본 제약 스택** (*점유와 시정 인터페이스*); [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md)부터 **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*이행 거버넌스와 제도 진화*).
 
 </details>
 
@@ -654,21 +654,21 @@
 *쉬운 말로: 비준수 체계와 재산은 이행 동안 시정될 수 있습니다 — 그러나 기본 권리를 지키고, 구실을 막고, 보복이나 정치 표적이 되지 않는, 좁고 문서화되고 검토 가능한 과정을 통해서만. 제도가 그것을 어떻게 수행하는가 — 역할, 방아쇠, 보관, 불복, 자금, 유인 기계 — 는 **CI-14.1**부터 **CI-14.3**에 삽니다; 이 조는 그 절차가 좁혀서는 안 되는 헌법 바닥을 말합니다.*
 
 - **점유 바닥:** 적법하게 소유하거나 쓰는 것을, 이행이 변덕으로 빼앗을 수는 없다. 그러나 그 자산이 계속 돌아가게 두는 것이 알려진 대규모 헌법 위반을 분명히 계속 돌릴 때 — [제8장](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)이 그 위반을 기록에 문서화한 뒤 — 소유는 방패가 아니다. 그 경우 이행은 여전히 해를 멈추려고 행동할 수 있으나, 이 조와 **CI-14.1**부터 **CI-14.3**의 안전장치를 통해서만.
-- **이행 범위 시정:** **제 XXVI-A조**(*단계적 채택과 권리 바닥 연속*) 아래 **기록된 이행 계획**은 이행 동안에만 **실질로 비준수**인 체계나 재산의 가속 시정을 수권할 수 있다. 운영 범위, 허용 조치, 제도 절차는 [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md)부터 **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*이행 거버넌스와 제도 진화*)가 다스리며, 적용되는 곳에서 **CJS-3.6** (*재산 보관과 유인 분리 통제 사슬*)과 **제 XII-E조**(*고자율 체계와 도구 매개 과정 완전성*)와 함께 읽는다.
+- **이행 범위 시정:** **제 XXVII-A조**(*단계적 채택과 권리 바닥 연속*) 아래 **기록된 이행 계획**은 이행 동안에만 **실질로 비준수**인 체계나 재산의 가속 시정을 수권할 수 있다. 운영 범위, 허용 조치, 제도 절차는 [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md)부터 **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*이행 거버넌스와 제도 진화*)가 다스리며, 적용되는 곳에서 **CJS-3.6** (*재산 보관과 유인 분리 통제 사슬*)과 **제 XIII-E조**(*고자율 체계와 도구 매개 과정 완전성*)와 함께 읽는다.
 - **요구되는 안전장치:** 어떤 이행 범위 박탈이나 유인 프로그램도 다음을 충족해야 한다:
   - 입증 가능한 **필요성**과 **비례**를 둔 [**가장 덜 제한적이고, 시한 있고, 검토 가능한 제약 원칙**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle);
   - 즉시 통지, 명시된 이유, 실행 가능한 다툼 경로; 그리고
   - **제 V-B조**와 **제 IV-B조**와 [실체 공정](core_05_band_participation.md#substantive-fairness-constitutional) 아래 **차별적**, **구실**, 또는 **선택적** 집행에 대한 안전장치.
-- **제한 효과 규칙:** 일차 효과가 시정, 원상회복, 보존, 또는 앞을 향한 보호를 넘는 박탈이나 제한은 **제 XXIII-B조**(*비중대한 제한, 원상회복, 회복-책무 제약*)와 **제 XXIII-C조**(*가장 덜 제한적이고 시한 있는 규칙*)를 켠다.
+- **제한 효과 규칙:** 일차 효과가 시정, 원상회복, 보존, 또는 앞을 향한 보호를 넘는 박탈이나 제한은 **제 XXIV-B조**(*비중대한 제한, 원상회복, 회복-책무 제약*)와 **제 XXIV-C조**(*가장 덜 제한적이고 시한 있는 규칙*)를 켠다.
 - **파괴적 처분 바닥:** 이행은 해를 멈추려고 재산을 격리하거나 보유할 수 있다 — 그러나 무엇을 영구히 가져가거나, 파괴하거나, 감지자의 경제적 이해관계를 지우는 것은 훨씬 높은 문턱이다. 다음을 요구한다:
   - 더 강한 기록된 이유;
   - 집행 결정에서 독립한 이의 검토; 그리고
   - 잘못이 없으나 여전히 잃는 감지자를 위한 공정한 보상 또는 대체 보호.
   
-  재산이 **제 V-E조**(*감지 지위 재결 바닥*) 아래 믿을 만한 감지 지표가 기록에 있거나 지위 사건이 열린 체계인 곳에서, 그 상태를 싣는 구성 요소의 파괴적 처분은 쓸 수 없다; **제 XXVI-A조**(*단계적 채택과 권리 바닥 연속*)의 보존 기본값이 다스리며, 양립하는 조치는 봉인된 보관 아래의 봉쇄다.
+  재산이 **제 V-E조**(*감지 지위 재결 바닥*) 아래 믿을 만한 감지 지표가 기록에 있거나 지위 사건이 열린 체계인 곳에서, 그 상태를 싣는 구성 요소의 파괴적 처분은 쓸 수 없다; **제 XXVII-A조**(*단계적 채택과 권리 바닥 연속*)의 보존 기본값이 다스리며, 양립하는 조치는 봉인된 보관 아래의 봉쇄다.
 - **필수 접근 난간:** 이 조 아래 조치는 **제 III-A조**(*생존*)의 필수나, 기준선 복지, 적법한 생계, 또는 의미 있는 행위주체성에 엄격히 요구되는 도구를 감지자에게서 **빼앗아서는 안 된다** — **제1장 §6.3** 아래 **필요성**이 문서화되고 요구되는 곳에서 제때 대체 제공이 실행 가능한 곳을 제외.
-- **자발적 유인 바닥:** 선의의 자발적 인도나 확인된 신고를 위한 시한 있고 출판된 유인은, 강제되거나 악의의 주장을 배제하고, 계속을 위해 **제 XXVI-B조**(*이행 권한 한도와 재수권*) 재수권을 요구하고, **제 XII-B조**(*다툼, 검토, 구제에 대한 권리*)와 채택된 보호 신고 안전장치와 정합하고, 실무에서 유인 재결을 집행 실행에서 분리하여 지급 유인이 압수나 보관 결정을 통제하지 않을 때에만 이행 계획에 포함될 수 있다.
-- **시행 보관:** 운영 방아쇠, 평가, 불복 기계, 보관 사슬, 자금 거버넌스, 적대 검토, 허용 조치 절차, 자발 프로그램 운영은 **CI-14.1**부터 **CI-14.3**과 채택 문서에 산다. 이 조, **제8장**, 또는 **제 XXIII-B조**(*비중대한 제한, 원상회복, 회복-책무 제약*)와 **제 XXIII-C조**(*가장 덜 제한적이고 시한 있는 규칙*)를 **좁혀서는 안 된다**.
+- **자발적 유인 바닥:** 선의의 자발적 인도나 확인된 신고를 위한 시한 있고 출판된 유인은, 강제되거나 악의의 주장을 배제하고, 계속을 위해 **제 XXVII-B조**(*이행 권한 한도와 재수권*) 재수권을 요구하고, **제 XIII-B조**(*다툼, 검토, 구제에 대한 권리*)와 채택된 보호 신고 안전장치와 정합하고, 실무에서 유인 재결을 집행 실행에서 분리하여 지급 유인이 압수나 보관 결정을 통제하지 않을 때에만 이행 계획에 포함될 수 있다.
+- **시행 보관:** 운영 방아쇠, 평가, 불복 기계, 보관 사슬, 자금 거버넌스, 적대 검토, 허용 조치 절차, 자발 프로그램 운영은 **CI-14.1**부터 **CI-14.3**과 채택 문서에 산다. 이 조, **제8장**, 또는 **제 XXIV-B조**(*비중대한 제한, 원상회복, 회복-책무 제약*)와 **제 XXIV-C조**(*가장 덜 제한적이고 시한 있는 규칙*)를 **좁혀서는 안 된다**.
 
 ---
 

@@ -83,10 +83,10 @@ Beyond the sitting’s bounded reading path, open:
 
 - [Article IV-A](../../../core_06_rights_part_a.md#article-iv-a-equal-educational-access) (*Equal Educational Access*)
 - [Article IV](../../../core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education); [Article IV-B](../../../core_06_rights_part_a.md#article-iv-b-capability-building-education-right) — challengeable high-stakes learning systems
-- [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind)
-- [Article IX-G](../../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press)
+- [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body)
+- [Article X-G](../../../core_06_rights_part_b.md#article-x-g-expression-assembly-and-press)
 - [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) where unpaid “experience” is productive work used to gate the exam
-- [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)
+- [Article XIII-B](../../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 

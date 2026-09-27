@@ -188,9 +188,9 @@ flowchart TB
     subgraph Parts["Chapter Six source parts"]
         direction TB
         A["Part A · Articles I–V<br/><br/>Planetary conditions, material stewardship,<br/>survival, education, shared resources"]
-        B["Part B · Articles VI–XI<br/><br/>Equal standing, self-ownership, data,<br/>agency, cooperation, stakeholder participation"]
-        C["Part C · Articles XII–XXII<br/><br/>Trustworthy systems, security, information,<br/>audit, lifecycle, innovation, standing, review"]
-        D["Part D · Articles XXIII–XXVI<br/><br/>Justice, emergency and conflict resolution,<br/>review, constitutional evolution, transition"]
+        B["Part B · Articles VI–XII<br/><br/>Equal standing, self-ownership, family,<br/>data, agency, cooperation, stakeholder participation"]
+        C["Part C · Articles XIII–XXIII<br/><br/>Trustworthy systems, security, information,<br/>audit, lifecycle, innovation, standing, review"]
+        D["Part D · Articles XXIV–XXVII<br/><br/>Justice, emergency and conflict resolution,<br/>review, constitutional evolution, transition"]
     end
     P["Later governance, measurement, certification,<br/><br/>forums, remedy, and implementation<br/>must respect the Rights Floor"]
     T -->|rights are read with| R
@@ -218,7 +218,7 @@ The four parts are different reading paths through the same floor:
 - [Part C](../core_06_rights_part_c.md) governs trustworthy systems and review.
 - [Part D](../core_06_rights_part_d.md) governs justice, emergency response, constitutional evolution, and transition.
 
-Every part is read with the chapter-wide constraints. Later governance, measurement, certification, forums, remedy, and implementation may apply the floor but may not shrink it. The current source layout places Article XXII in Part C; Part D begins with Article XXIII.
+Every part is read with the chapter-wide constraints. Later governance, measurement, certification, forums, remedy, and implementation may apply the floor but may not shrink it. The current source layout places Article XXIII in Part C; Part D begins with Article XXIV.
 
 The following four maps open that structure one level further. Each Part box sits above its article rows, and each row keeps its articles side by side. The grids show source grouping rather than a process sequence. There are no visible arrows because the articles are not procedural steps. Subarticle labels are shortened to themes so the maps remain usable alongside the full source files.
 
@@ -243,7 +243,7 @@ flowchart TB
         subgraph Arow1["Articles I–II"]
             direction LR
             A1["Article I · Environmental Survival<br/><br/>• Environmental preconditions<br/>• Ecological footprint<br/>• Intergenerational responsibility<br/>• Existential risk and recovery"]
-            A2["Article II · Material Stewardship and Durable-Use Integrity<br/><br/>• Lifecycle honesty<br/>• Repair and servicing<br/>• Designed obsolescence<br/>• Post-sale access<br/>• Info-sphere continuity"]
+            A2["Article II · Material Stewardship and Durable-Use Integrity<br/><br/>• Lifecycle honesty<br/>• Repair and servicing<br/>• Designed obsolescence<br/>• Post-sale access<br/>• Data handling and network dependency<br/>• Continuity and operator shutdown"]
         end
     end
     A0 ~~~ Agrid
@@ -271,17 +271,21 @@ flowchart TB
         subgraph Brow1["Articles VI–VII"]
             direction LR
             B1["Article VI · Equal Basic Rights<br/><br/>• Dignity and equal standing<br/>• Sentience-status adjudication<br/>• Nondiscrimination<br/>• Accessibility"]
-            B2["Article VII · Self-Ownership<br/><br/>• Body and mind<br/>• Internal-state boundary<br/>• Mental-health crisis and intervention<br/>• Family, care, and reproduction<br/>• Developing sentients and best interest<br/>• Voluntary discontinuation of one's own existence"]
+            B2["Article VII · Self-Ownership<br/><br/>• Self-ownership of body<br/>• Self-ownership of mind<br/>• Health crisis and involuntary intervention<br/>• Voluntary discontinuation of one's own existence"]
         end
         subgraph Brow2["Articles VIII–IX"]
             direction LR
-            B3["Article VIII · Likeness, Experiential Data, and Publication<br/><br/>• Likeness and reputation<br/>• Experiential and derived data<br/>• Truthful and high-impact publication<br/>• Creative work and training data"]
-            B4["Article IX · Self-Determination and Agency<br/><br/>• Freedom from manipulation<br/>• Stakeholder role and participation<br/>• Governance participation and voting<br/>• Inclusion and exclusion challenges<br/>• Institutional formation<br/>• Conscience and worldview<br/>• Expression, assembly, and press"]
+            B3["Article VIII · Family, Care, and Developing Sentients<br/><br/>• Family, care, and reproduction<br/>• Non-separation<br/>• Derived sentients and parent-system limits<br/>• Developing sentients and best interest"]
+            B4["Article IX · Likeness, Experiential Data, and Publication<br/><br/>• Likeness and reputation<br/>• Experiential and derived data<br/>• Truthful and high-impact publication<br/>• Creative work and training data"]
         end
         subgraph Brow3["Articles X–XI"]
             direction LR
-            B5["Article X · Cooperative Interaction<br/><br/>• Non-imposition and consent<br/>• Collective harm boundary<br/>• Commercial sexual services and sexual exploitation"]
-            B6["Article XI · Stakeholder Participation, Representation, and Due Process<br/><br/>• Participation and representation<br/>• Weighted participation constraints<br/>• Legitimacy and anti-token safeguards<br/>• Internal roles and due process<br/>• Non-capture safeguards"]
+            B5["Article X · Self-Determination and Agency<br/><br/>• Freedom from manipulation<br/>• Stakeholder role and participation<br/>• Governance participation and voting<br/>• Inclusion and exclusion challenges<br/>• Institutional formation<br/>• Conscience and worldview<br/>• Expression, assembly, and press"]
+            B6["Article XI · Cooperative Interaction<br/><br/>• Non-imposition and consent<br/>• Collective harm boundary<br/>• Commercial sexual services and sexual exploitation"]
+        end
+        subgraph Brow4["Article XII"]
+            direction LR
+            B7["Article XII · Stakeholder Participation, Representation, and Due Process<br/><br/>• Participation and representation<br/>• Weighted participation constraints<br/>• Legitimacy and anti-token safeguards<br/>• Internal roles and due process<br/>• Non-capture safeguards"]
         end
     end
     B0 ~~~ Bgrid
@@ -289,6 +293,7 @@ flowchart TB
     style Brow1 fill:none,stroke:none
     style Brow2 fill:none,stroke:none
     style Brow3 fill:none,stroke:none
+    style Brow4 fill:none,stroke:none
     style B0 fill:none,stroke:#2563eb,color:#ffffff
     style B1 fill:none,stroke:#0f766e,color:#ffffff
     style B2 fill:none,stroke:#0f766e,color:#ffffff
@@ -296,6 +301,7 @@ flowchart TB
     style B4 fill:none,stroke:#0f766e,color:#ffffff
     style B5 fill:none,stroke:#0f766e,color:#ffffff
     style B6 fill:none,stroke:#0f766e,color:#ffffff
+    style B7 fill:none,stroke:#0f766e,color:#ffffff
 ```
 
 #### Part C · Trustworthy systems, verification, and resilience
@@ -307,34 +313,34 @@ flowchart TB
     C0["Part C<br/><br/>Trustworthy systems, security and force limits,<br/>information integrity, verification, lifecycle, and resilience"]
     subgraph Cgrid[" "]
         direction TB
-        subgraph Crow1["Articles XII–XIII"]
+        subgraph Crow1["Articles XIII–XIV"]
             direction LR
-            C1["Article XII · Reliable and Trustworthy Systems<br/><br/>• Reliability baseline<br/>• Challenge, review, and redress<br/>• False trust limits<br/>• Incentive alignment<br/>• High-autonomy process integrity<br/>• Resilience and self-healing"]
-            C2["Article XIII · Security, Intelligence, Force, and Autonomous Coercion<br/><br/>• Covert-power limits<br/>• Use of force and armed conflict<br/>• Autonomous lethal and coercive systems"]
+            C1["Article XIII · Reliable and Trustworthy Systems<br/><br/>• Reliability baseline<br/>• Challenge, review, and redress<br/>• False trust limits<br/>• Incentive alignment<br/>• High-autonomy process integrity<br/>• Resilience and self-healing"]
+            C2["Article XIV · Security, Intelligence, Force, and Autonomous Coercion<br/><br/>• Covert-power limits<br/>• Use of force and armed conflict<br/>• Autonomous lethal and coercive systems"]
         end
-        subgraph Crow2["Articles XIV–XV"]
+        subgraph Crow2["Articles XV–XVI"]
             direction LR
-            C3["Article XIV · Info-Sphere Integrity<br/><br/>• Plurality and anti-monopoly<br/>• Transparency and contestability<br/>• Validation, reporting, and epistemic stewardship"]
-            C4["Article XV · Audit, Transparency, and Independent Verification<br/><br/>• Observable evidence<br/>• Distributed oversight<br/>• Accessible verification"]
+            C3["Article XV · Info-Sphere Integrity<br/><br/>• Plurality and anti-monopoly<br/>• Transparency and contestability<br/>• Validation, reporting, and epistemic stewardship"]
+            C4["Article XVI · Audit, Transparency, and Independent Verification<br/><br/>• Observable evidence<br/>• Distributed oversight<br/>• Accessible verification"]
         end
-        subgraph Crow3["Articles XVI–XVII"]
+        subgraph Crow3["Articles XVII–XVIII"]
             direction LR
-            C5["Article XVI · System Lifecycle, Environments, and Reversibility<br/><br/>• Environment separation<br/>• Progressive deployment and reversibility<br/>• Misclassification and evasion consequences"]
-            C6["Article XVII · Sandboxed Innovation and Creative Freedom<br/><br/>• Sandboxed scope<br/>• Containment, disclosure, and opt-in<br/>• Transition to higher-obligation regimes<br/>• Innovation reward and anti-enclosure<br/>• Publication, review, and replication integrity"]
+            C5["Article XVII · System Lifecycle, Environments, and Reversibility<br/><br/>• Environment separation<br/>• Progressive deployment and reversibility<br/>• Misclassification and evasion consequences"]
+            C6["Article XVIII · Sandboxed Innovation and Creative Freedom<br/><br/>• Sandboxed scope<br/>• Containment, disclosure, and opt-in<br/>• Transition to higher-obligation regimes<br/>• Innovation reward and anti-enclosure<br/>• Publication, review, and replication integrity"]
         end
-        subgraph Crow4["Articles XVIII–XIX"]
+        subgraph Crow4["Articles XIX–XX"]
             direction LR
-            C7["Article XVIII · Standing and Participation Status<br/><br/>• Standing distinctions<br/>• Contestability and restriction limits<br/>• Named-pathway eligibility, responsibility, and audit<br/>• Movement, refuge, and non-statelessness"]
-            C8["Article XIX · Interoperability, Portability, Movement, and Exit<br/><br/>• Portability<br/>• Reciprocal interoperability<br/>• Anti-lock-in<br/>• Movement, migration, refuge, and non-statelessness"]
+            C7["Article XIX · Standing and Participation Status<br/><br/>• Standing distinctions<br/>• Contestability and restriction limits<br/>• Named-pathway eligibility, responsibility, and audit<br/>• Movement, refuge, and non-statelessness"]
+            C8["Article XX · Interoperability, Portability, Movement, and Exit<br/><br/>• Portability<br/>• Reciprocal interoperability<br/>• Anti-lock-in<br/>• Movement, migration, refuge, and non-statelessness"]
         end
-        subgraph Crow5["Articles XX–XXI"]
+        subgraph Crow5["Articles XXI–XXII"]
             direction LR
-            C9["Article XX · Comprehensibility and Complexity Stewardship<br/><br/>• Proportional comprehensibility<br/>• Complexity audit and modularity"]
-            C10["Article XXI · Root Cause Analysis and Adaptive Response<br/><br/>• Diagnostic rigor and causal attribution<br/>• Auditability, challenge, and reversibility"]
+            C9["Article XXI · Comprehensibility and Complexity Stewardship<br/><br/>• Proportional comprehensibility<br/>• Complexity audit and modularity"]
+            C10["Article XXII · Root Cause Analysis and Adaptive Response<br/><br/>• Diagnostic rigor and causal attribution<br/>• Auditability, challenge, and reversibility"]
         end
-        subgraph Crow6["Article XXII"]
+        subgraph Crow6["Article XXIII"]
             direction LR
-            C11["Article XXII · Constitutional Interpretation, Review, and Anti-Capture<br/><br/>• Bounded interpretive mandate<br/>• Composition, rotation, and conflict controls<br/>• Public reasons, challenge, and external review<br/>• Removal and non-entrenchment"]
+            C11["Article XXIII · Constitutional Interpretation, Review, and Anti-Capture<br/><br/>• Bounded interpretive mandate<br/>• Composition, rotation, and conflict controls<br/>• Public reasons, challenge, and external review<br/>• Removal and non-entrenchment"]
         end
     end
     C0 ~~~ Cgrid
@@ -368,15 +374,15 @@ flowchart TB
     D0["Part D<br/><br/>Justice, constitutional review, evolution, and transition"]
     subgraph Dgrid[" "]
         direction TB
-        subgraph Drow1["Articles XXIII–XXIV"]
+        subgraph Drow1["Articles XXIV–XXV"]
             direction LR
-            D1["Article XXIII · Conflict Resolution, Escalation, and Emergency Proportionality<br/><br/>• Justice objective and scope<br/>• Restitution and restorative accountability<br/>• Least-restrictive and time-bounded rules<br/>• Emergency continuation burden"]
-            D2["Article XXIV · Timely Retrospective Review and Restorative Alignment<br/><br/>• Retrospective review and disclosure<br/>• Rights-collision procedure<br/>• Restorative alignment<br/>• Timely resolution and anti-delay"]
+            D1["Article XXIV · Conflict Resolution, Escalation, and Emergency Proportionality<br/><br/>• Justice objective and scope<br/>• Restitution and restorative accountability<br/>• Least-restrictive and time-bounded rules<br/>• Emergency continuation burden"]
+            D2["Article XXV · Timely Retrospective Review and Restorative Alignment<br/><br/>• Retrospective review and disclosure<br/>• Rights-collision procedure<br/>• Restorative alignment<br/>• Timely resolution and anti-delay"]
         end
-        subgraph Drow2["Articles XXV–XXVI"]
+        subgraph Drow2["Articles XXVI–XXVII"]
             direction LR
-            D3["Article XXV · Constitutional Evolution and Non-Entrenchment<br/><br/>• Non-entrenchment and revisability<br/>• Periodic revalidation and transparent change"]
-            D4["Article XXVI · Transition Governance, Continuity, and Re-Baselining<br/><br/>• Phased adoption and Rights Floor continuity<br/>• Transitional authority and reauthorization<br/>• Failure off-ramps, re-baselining, and traceability<br/>• Non-compliant property and systems"]
+            D3["Article XXVI · Constitutional Evolution and Non-Entrenchment<br/><br/>• Non-entrenchment and revisability<br/>• Periodic revalidation and transparent change"]
+            D4["Article XXVII · Transition Governance, Continuity, and Re-Baselining<br/><br/>• Phased adoption and Rights Floor continuity<br/>• Transitional authority and reauthorization<br/>• Failure off-ramps, re-baselining, and traceability<br/>• Non-compliant property and systems"]
         end
     end
     D0 ~~~ Dgrid
@@ -873,10 +879,10 @@ flowchart TB
 - Tier A requires immediate attention, interim protection where needed, and intake, acknowledgment, and evidence preservation within days. Emergency deferral of notice or challenge starts at Tier A unless a lower-urgency showing is documented.
 - Tier B starts with intake and primary-stakes routing within days and reaches a preliminary verified disposition or equivalent merits milestone within weeks.
 - Tier C is a coordination default, not a slower substitute for an A or B finding. Tier L and Tier P support lighter procedures only while their bounded conditions hold.
-- Later-stage coordination alone does not justify an extension. A permitted extension requires a published, tier-appropriate record showing continuing necessity, proportionality, and no less restrictive feasible alternative under [Article XXIII-D](../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden). Later-stage windows and the default integrated-resolution outer bound may be extended under that discipline, subject to any narrower Rights-Floor window. Intake, evidence preservation, and required interim protection stay at the classified tier’s floor; an extension does not reclassify the dispute. See [CF-11.3.1](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors).
-- After emergency containment, the same default outer bounds govern restoration of notice and challenge. The clock runs from the start of the measure or the deferral of notice or challenge, whichever is earlier. Continuing past the bound requires the Article XXIII-D continuation showing; it does not start a new clock. Later filing or slower stage windows cannot reset or postpone that restoration clock. See [Chapter Twelve’s restore-challenge rule](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+- Later-stage coordination alone does not justify an extension. A permitted extension requires a published, tier-appropriate record showing continuing necessity, proportionality, and no less restrictive feasible alternative under [Article XXIV-D](../core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden). Later-stage windows and the default integrated-resolution outer bound may be extended under that discipline, subject to any narrower Rights-Floor window. Intake, evidence preservation, and required interim protection stay at the classified tier’s floor; an extension does not reclassify the dispute. See [CF-11.3.1](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors).
+- After emergency containment, the same default outer bounds govern restoration of notice and challenge. The clock runs from the start of the measure or the deferral of notice or challenge, whichever is earlier. Continuing past the bound requires the Article XXIV-D continuation showing; it does not start a new clock. Later filing or slower stage windows cannot reset or postpone that restoration clock. See [Chapter Twelve’s restore-challenge rule](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 
-These are the [Chapter Twelve §6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) and [Article XXIV-C](../core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) clocks. The labels mirror the system-classification alphabet, but dispute urgency is determined by the dispute’s own materiality; a forum escalation or added party does not automatically change the tier.
+These are the [Chapter Twelve §6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) and [Article XXV-C](../core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) clocks. The labels mirror the system-classification alphabet, but dispute urgency is determined by the dispute’s own materiality; a forum escalation or added party does not automatically change the tier.
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 

@@ -33,7 +33,7 @@
   - **In scope:**
     - watching, checking, verifying, and constraining how systems behave, done by [Stakeholders](core_05_band_participation.md#stakeholder), independent actors, or institutions, and spread out where that is workable;
     - purpose: catch and fix non-compliance, and support informed [Governance](core_05_band_accountability.md#governance);
-    - oversight requires [Auditability](core_05_band_oversight.md#auditability) and related audit instruments under **Article XV** (*Audit, Transparency, and Independent Verification*);
+    - oversight requires [Auditability](core_05_band_oversight.md#auditability) and related audit instruments under **Article XVI** (*Audit, Transparency, and Independent Verification*);
     - how much oversight is required scales with [Material Impact](core_05_band_oversight.md#material-impact), [Dependency](core_05_band_continuity.md#dependency), and [Risk](core_05_band_continuity.md#risk); and
     - [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process under that requirement — not the only auditing process.
   - **Depends on:** the conditions and channels this leg needs in order to work. Each term's detailed scope and how-to-measure rules live on its own definition; start from [Tetrad Leg decomposition](#oversight-tetrad-leg-decomposition):

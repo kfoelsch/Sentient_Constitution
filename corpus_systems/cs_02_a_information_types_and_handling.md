@@ -25,7 +25,7 @@ Requirements and limitations scale proportionally with system classification and
 
 *In plain terms: Chapter Six Rights Floors need trustworthy data handling; CS-2 is the systems rulebook that makes typing, access defaults, integrity, identity self-ownership, and Class A/B/C continuity real.*
 
-**Sentient Constitution Chapter Six** (Articles **I**–**XXV**; presentation **Parts A–D**) states Foundational Rights that depend on strong, reproducible data handling — including info-sphere, audit, and comprehensibility duties (e.g., **Articles XIV**, **XV**, and **XX**). CS-2 is the systems-layer implementation of those duties.
+**Sentient Constitution Chapter Six** (Articles **I**–**XXVI**; presentation **Parts A–D**) states Foundational Rights that depend on strong, reproducible data handling — including info-sphere, audit, and comprehensibility duties (e.g., **Articles XV**, **XVI**, and **XXI**). CS-2 is the systems-layer implementation of those duties.
 
 CS-2 implements:
 
@@ -48,7 +48,7 @@ CS-2 implements:
 
 *In plain terms: your identity data is yours to control — systems must let you revoke, replace, and correct credentials, and must not trap you forever in a broken or compromised identity.*
 
-This subsection is foundational to how typed data is handled under CS-2 and to self-ownership of identity and attribution data under **Article VII** (*Self-Ownership*), including **Article VII-A** (*Self-Ownership of Body and Mind*).
+This subsection is foundational to how typed data is handled under CS-2 and to self-ownership of identity and attribution data under **Article VII** (*Self-Ownership*), including **Article VII-A** (*Self-Ownership of Body*).
 
 **Identity and Attribution Data** must support:
 - **revocation of credentials**
@@ -70,7 +70,7 @@ Identity systems must preserve **continuity** where desired, **separation** wher
 
 This subsection is foundational to continuity and exit under CS-2. It implements:
 - **Article II-E** (*Data Handling and Network Dependency*) and **Article II-F** (*Continuity and Operator Shutdown*)
-- **Article XIX-A** (*Portability Rights*)
+- **Article XX-A** (*Portability Rights*)
 - **CJS-3.17** (*interoperability, portability, and exit-integrity terms*)
 
 For **Class A**, **Class B**, and **Class C** systems, operators must **not** collect or retain continuity-critical sentient data in forms that cannot be exported, migrated, or transferred under disclosed continuity and export paths, except where **Necessity** requires:
@@ -96,7 +96,7 @@ Shutdown, migration, operator exit, and service-end paths must:
 
 This subsection implements:
 - **Article II-E** (*Data Handling and Network Dependency*)
-- **Article VIII-B** (*Experiential and Derived Data Rights*)
+- **Article IX-B** (*Experiential and Derived Data Rights*)
 - **CJS-3.18** (*data-retention and lifecycle-integrity terms*)
 
 It applies to **every** system that collects, infers, or transmits data about sentients, regardless of system class. Depth scales with **system impact** and the access-posture band of the data ([§5.0 Access-posture bands](#50-access-posture-bands)).
@@ -121,12 +121,12 @@ Hiding, flagging, suspending, or re-labeling data while it stays usable is **not
 
 **Grounds for keeping data.** An operator may refuse or limit deletion only where **Necessity** requires, for:
 - evidence preservation, audit, or a lawful hold — including **Type S** data under an authorized investigation
-- another sentient's rights in the same data under **Article VIII-B**
+- another sentient's rights in the same data under **Article IX-B**
 - official records the Constitution requires, including Act Records, Standing Records, attribution records under [§6.3 Attribution and accountability requirements](#63-attribution-and-accountability-requirements), and **Type O** public oversight data where [§7 Type O baseline for Class A/B/C systems](#cs-2-7-type-o-baseline-for-class-a-b-c-systems) requires it
-- preservation duties under **Article XXVI-A** (*preservation over deletion for possible sentients*)
+- preservation duties under **Article XXVII-A** (*preservation over deletion for possible sentients*)
 - functionality the sentient still wants, kept only with their ongoing consent — a deletion request withdraws that consent for the data it covers
 
-Each refusal must state its ground, what is kept, and for how long. Kept data must be limited to what that ground needs and must not be used for anything else. Refusals are challengeable under **Article XII-B** (*Right to Challenge, Review, and Redress*).
+Each refusal must state its ground, what is kept, and for how long. Kept data must be limited to what that ground needs and must not be used for anything else. Refusals are challengeable under **Article XIII-B** (*Right to Challenge, Review, and Redress*).
 
 <a id="cs-2-2-determination-of-classification"></a>
 ## CS-2.2 Determination of classification
@@ -150,9 +150,9 @@ If pieces of data can be rebuilt, transformed, or combined into something more s
 - **open to challenge** (**CJS-3.13** (*procedural integrity and adjudication terms*))
 
 **Wrong typing is a violation.** Mislabeling data, arranging it to dodge the rules, or achieving the same harmful access through a different structure violates:
-- **informational integrity** (**Article XIV** (*Info-Sphere Integrity*))
-- auditability where evidence is implicated (**Article XV-A** (*Auditability and Observable Evidence*))
-- applicable rights under **Chapter Six, Articles VI through IX**
+- **informational integrity** (**Article XV** (*Info-Sphere Integrity*))
+- auditability where evidence is implicated (**Article XVI-A** (*Auditability and Observable Evidence*))
+- applicable rights under **Chapter Six, Articles VI through X**
 
 <a id="cs-2-3-temporal-systemic-and-dependency-scope-of-rights"></a>
 ## CS-2.3 Temporal, systemic, and dependency scope of rights
@@ -183,7 +183,7 @@ Data classification under CS-2 — Information types and handling is binding acr
 
 *In plain terms: these are the shared rules for how typed data is accessed, transformed, retyped, attributed, and retained across systems — stricter where impact is higher. Typing integrity and anti-evasion live in [§2 Determination of classification](#cs-2-2-determination-of-classification)–[§4 Anti-circumvention and integrity of classification](#cs-2-4-anti-circumvention-and-integrity-of-classification).*
 
-All data, regardless of classification, must be handled in accordance with the following cross-domain principles. These principles govern how classifications are applied, enforced, and interacted with across systems, and ensure alignment with **Chapter Six, Articles I through IX** and **CJS-3** (*Implementation and cross-implementation operational cluster library*) operational clusters in **corpus_joint_structure.md**. Survival-, environment-, and substrate-critical data handling remains grounded in **Articles I–III and VI**; participation, oversight, and protected-boundary duties run through **Articles VI through IX**.
+All data, regardless of classification, must be handled in accordance with the following cross-domain principles. These principles govern how classifications are applied, enforced, and interacted with across systems, and ensure alignment with **Chapter Six, Articles I through X** and **CJS-3** (*Implementation and cross-implementation operational cluster library*) operational clusters in **corpus_joint_structure.md**. Survival-, environment-, and substrate-critical data handling remains grounded in **Articles I–III and VI**; participation, oversight, and protected-boundary duties run through **Articles VI through X**.
 
 Part B type sections state type-specific defaults, definitions, and handling rules. They do **not** restate this cross-domain alignment unless a type needs an additional, type-specific pointer.
 
@@ -211,12 +211,12 @@ Each type belongs to one **access-posture band**. Bands define shared default ac
 - **Non-accessible by default:** Maximum restriction. No access, inference, reconstruction, or exposure without consent or justified override under **CJS-3.12** (*burden-of-justification and constraint terms*).
 
 **Shared anti-abuse limits.** Across all types, systems must **not**:
-- use data handling to enable **coercion, surveillance, or manipulation** (**Article VII-A** (*Self-Ownership of Body and Mind*)), including consolidating power or control through data or identity dependency (**CJS-3.17** (*interoperability, portability, and exit-integrity terms*))
+- use data handling to enable **coercion, surveillance, or manipulation** (**Article VII-B** (*Self-Ownership of Mind*)), including consolidating power or control through data or identity dependency (**CJS-3.17** (*interoperability, portability, and exit-integrity terms*))
 - **restrict access** to participation, resources, or systems **without justified cause** (**CJS-3.12** (*burden-of-justification and constraint terms*))
 
 **Shared consent integrity.** Where access, use, or disclosure depends on consent, systems must treat consent as:
 - **explicit and informed**
-- freely given without coercion, manipulation, or deceptive framing (**Article VII-A** (*Self-Ownership of Body and Mind*))
+- freely given without coercion, manipulation, or deceptive framing (**Article VII-B** (*Self-Ownership of Mind*))
 - specific to intended use and scope
 - revocable where technically feasible
 
@@ -229,11 +229,11 @@ Systems must **not**:
 - **model role**, where models are used
 - **authorization basis**
 - **protected-activity safeguards**
-- any **minimization, segregation, challenge, or deletion** controls required by **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) or **CJS-3.12** (*burden-of-justification and constraint terms*)
+- any **minimization, segregation, challenge, or deletion** controls required by **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) or **CJS-3.12** (*burden-of-justification and constraint terms*)
 
 **Type H and Type I anti-capture limits.** In addition to the restricted-by-default band rules, systems managing **Type H** or **Type I** data must **not**:
 - **centralize** that data in a manner that creates systemic control or dependency
-- create, through security, intelligence, screening, or covert-investigation systems, any of the following absent a specifically justified and independently reviewable basis consistent with **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) and the stricter applicable protections in this section:
+- create, through security, intelligence, screening, or covert-investigation systems, any of the following absent a specifically justified and independently reviewable basis consistent with **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) and the stricter applicable protections in this section:
   - generalized **watchlisting**
   - persistent **cross-context tracking**
   - hidden **political, associational, or belief-linked profiling**
@@ -301,9 +301,9 @@ This subsection owns **retype mechanics**. [§8 System Data Types Record governa
 
 *In plain terms: sentients need enough visibility to understand risk; auditors need deeper access when needed; and hiding system behavior behind access controls is not allowed.*
 
-Data access must satisfy **CJS-3.4** (*tiered transparency and audit-access terms*) for balancing transparency, auditability, and protected-boundary constraints. Public-baseline transparency duties also run through [Transparency](../core_05_band_oversight.md#transparency) and **Article XV** (*Audit, Transparency, and Independent Verification*).
+Data access must satisfy **CJS-3.4** (*tiered transparency and audit-access terms*) for balancing transparency, auditability, and protected-boundary constraints. Public-baseline transparency duties also run through [Transparency](../core_05_band_oversight.md#transparency) and **Article XVI** (*Audit, Transparency, and Independent Verification*).
 
-It must also balance protection of internal states and sensitive data (**Sentient Constitution Chapter Six, **Article VII-B** (*Internal-State Boundary and Type-N Protection*)**; Types **H**, **I**, **N**, and **S** in this section), including cross-implementation trust integrity under **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*) where incorporated via **Chapter Seventeen**. Where applicable based on system impact (**CJS-3.11** (*distributed and proportional authority terms*) and **CJS-3.7** (*quorum and participatory legitimacy terms*)), systems must support:
+It must also balance protection of internal states and sensitive data (**Sentient Constitution Chapter Six, **Article VII-B** (*Self-Ownership of Mind*)**; Types **H**, **I**, **N**, and **S** in this section), including cross-implementation trust integrity under **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*) where incorporated via **Chapter Seventeen**. Where applicable based on system impact (**CJS-3.11** (*distributed and proportional authority terms*) and **CJS-3.7** (*quorum and participatory legitimacy terms*)), systems must support:
 
 - **Identity Data Protection:** [Identity Data Protection](../core_05_band_continuity.md#identity-data-protection) governs the restricted-linkages ban (Type H/I → Type N) in this subsection. See [§6.1 Separation of data domains](#61-separation-of-data-domains) for the domain-separation mechanics.
 - **baseline accessibility** — sufficient visibility into behavior and effects for informed participation and risk evaluation
@@ -589,7 +589,7 @@ Forum verification under Chapter Eight §4 (*Data Types and Handling Evaluation*
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: **[CJS-3.3 audit process home](../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (*shared process — what / why / how / when*); **[CJS-3.4](../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure)** (*access tiers and output disclosure*); **CJS-3.5** (*claim checking*); **[CS-3 — System classification and handling](cs_03_a_system_classification_machinery.md)** (*class scaling*).
-- This subsection does **not** relocate the process home or Rights Floor (**Article XV** / **Article XV-A**).
+- This subsection does **not** relocate the process home or Rights Floor (**Article XVI** / **Article XVI-A**).
 
 </details>
 
@@ -605,7 +605,7 @@ Forum verification under Chapter Eight §4 (*Data Types and Handling Evaluation*
 <a id="84-challenge-the-system-data-types-record"></a>
 **8.4. Challenge the System Data Types Record.**
 
-*System Data Types Record duty:* let affected sentients contest the file so type findings feeding System Alignment Certification stay challengeable under **Article XII-B** and, when inside an active certification record, under **[Part B §§12 and 14](../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)**.
+*System Data Types Record duty:* let affected sentients contest the file so type findings feeding System Alignment Certification stay challengeable under **Article XIII-B** and, when inside an active certification record, under **[Part B §§12 and 14](../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)**.
 
 Systems must offer challenge routes sentients can actually use, review claims in good faith and on time, and give reasoned answers — including evidence of mistyping, hidden impact, unsafe linkage, or overdue re-evaluation, and requests for review or retyping of the record.
 

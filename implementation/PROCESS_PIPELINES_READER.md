@@ -49,8 +49,8 @@ flowchart LR
 
 These floors are already in Chapter Six. This page does not restate them as new duties.
 
-- **[Article XII-B](../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)** (*Right to Challenge, Review, and Redress*) — a real way to challenge, get review, and be made whole; good-faith reports must not be punished.
-- **[Article XV](../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)** (*Audit, Transparency, and Independent Verification*) — the audit floor. Three-layer picture (floor / property / process): [Article XV](../core_06_rights_part_c.md#audit-three-layers). Chapter Eight is one large audit process under that floor, not the only audit home.
+- **[Article XIII-B](../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)** (*Right to Challenge, Review, and Redress*) — a real way to challenge, get review, and be made whole; good-faith reports must not be punished.
+- **[Article XVI](../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)** (*Audit, Transparency, and Independent Verification*) — the audit floor. Three-layer picture (floor / property / process): [Article XVI](../core_06_rights_part_c.md#audit-three-layers). Chapter Eight is one large audit process under that floor, not the only audit home.
 
 ## What this page does not do
 

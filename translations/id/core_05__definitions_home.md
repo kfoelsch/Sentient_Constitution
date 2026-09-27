@@ -260,7 +260,7 @@ Direktori ini mendaftar **Definisi A-Z** dan **Klaster A-Z** secara terpisah. Se
 - [Ciri dilindungi](../../core_05_band_participation.md#protected-characteristics-constitutional)
 - [Batasan publikasi data dilindungi dan keadaan internal](../../core_05_band_oversight.md#protected-data-and-internal-state-publication-constraint)
 - [Batas keadaan internal dilindungi](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional)
-- [Gerbang sinyal intim yang dilindungi dan pengelakan status **Pasal X-C** (*Layanan seksual komersial konsensual dewasa dan eksploitasi seksual*)](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention)
+- [Gerbang sinyal intim yang dilindungi dan pengelakan status **Pasal XI-C** (*Layanan seksual komersial konsensual dewasa dan eksploitasi seksual*)](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention)
 - [Pelaporan dilindungi (whistleblowing)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
 - [Pembalasan pelaporan dilindungi dan gangguan akses](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)
 - [Divergensi indikator pengganti](../../core_05_band_oversight.md#proxy-divergence)

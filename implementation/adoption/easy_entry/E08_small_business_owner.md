@@ -41,7 +41,7 @@ If a body that actually runs the systems in your life adopted this Constitution:
 - **Today:** Licensing and capital access are slow for you and easy for them. Paperwork says the market is open while gates freeze out new or disfavored founders.
 - **With this Constitution:** You must be able to start and run commercial enterprises. Shutting you out with delay or paperwork that privileges incumbents is a failure.
 
-See: [Business Creation](../../../core_05_band_participation.md#business-creation-constitutional); [Article IX-E](../../../core_06_rights_part_b.md#article-ix-e-institutional-formation-and-business-creation).
+See: [Business Creation](../../../core_05_band_participation.md#business-creation-constitutional); [Article X-E](../../../core_06_rights_part_b.md#article-x-e-institutional-formation-and-business-creation).
 
 **Being bigger is not a license to trap you.**
 - **Today:** A few buyers, platforms, or employers control who you can hire, who you can sell to, and whether you can leave — and they call that competition.
@@ -53,7 +53,7 @@ See: [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-e
 - **Today:** The tools you bought cannot be repaired except through the vendor. “Features” exist mainly to make switching painful. A new scheduling or lending system is being pushed as “modernization.”
 - **With this Constitution:** Barriers whose primary effect is to block exit, substitution, or challenge are violations, not strategy. Repair and independent servicing have a floor for covered products.
 
-See: [Article XIX-C](../../../core_06_rights_part_c.md#article-xix-c-anti-lock-in-rule); [Article II-B](../../../core_06_rights_part_a.md#article-ii-b-repair-maintenance-and-independent-servicing).
+See: [Article XX-C](../../../core_06_rights_part_c.md#article-xx-c-anti-lock-in-rule); [Article II-B](../../../core_06_rights_part_a.md#article-ii-b-repair-maintenance-and-independent-servicing).
 
 **Duties scale with what is actually on the line.**
 - **Today:** The same theater is demanded of a tiny shop and a city-scale deploy.

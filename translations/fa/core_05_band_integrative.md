@@ -102,7 +102,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - پایین‌دست: اصول: [دیباچه §3.3 انضباط لایه‌های حکمرانی](core_00_preamble.md#33-governance-layers)؛ [فصل یکم §5 آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency).
-- کف مالک: [فصل دوازدهم: قرارداد قانون اساسی، مشروعیت، مجوز و مدیریت مسئولانه](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)؛ [اصل IX-C: مشارکت حکمرانی و استحقاق رأی](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
+- کف مالک: [فصل دوازدهم: قرارداد قانون اساسی، مشروعیت، مجوز و مدیریت مسئولانه](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)؛ [اصل X-C: مشارکت حکمرانی و استحقاق رأی](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement).
 - مؤلفهٔ خوشه: [*لایهٔ قرارداد قانون اساسی و انتخاب بنیادین قانون اساسی*](core_05_band_integrative.md#constitutional-contract-layer)
 - خوانده شود با: [انتخاب بنیادین قانون اساسی](core_05_band_integrative.md#foundational-constitutional-choice)، [انتخاب الزام‌آور طرف‌های اثرپذیر](core_05_band_participation.md#binding-stakeholder-choice-cluster)، [وضعیت و وزن طرف‌های اثرپذیر](core_05_band_participation.md#stakeholder-status-and-weight-cluster)، [حکمرانی](core_05_band_accountability.md#governance).
 - لایه: **لایهٔ قرارداد قانون اساسی (CCL)** — چه کسی می‌تواند حکمرانی کند، با چه سازوکار مشروعیت، زیر چه شروط ماندگار. متمایز از **مشارکت سیستمی طرف‌های اثرپذیر (SSP)**.
@@ -123,7 +123,7 @@
     - [انتخاب بنیادین قانون اساسی](core_05_band_integrative.md#foundational-constitutional-choice)؛
     - [سازوکارهای مشروعیت مستند](../../core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority) زیر [فصل دوازدهم §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism)؛
     - قواعد [پذیرش](../../core_16_amendment_ratification.md#10-ratification-and-adoption) و [بازمجوز](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) ([فصل دوازدهم §1.3](../../core_13_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails)؛ [فصل شانزدهم §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority))؛ و
-    - [کف برابری سیاسی](../../core_13_governance.md#41-entitlement-and-eligibility) برای تشکیل یا بازساختار ماندگار اختیار حکمرانی — حس‌مندان برخوردار از استحقاق در آن لایه صدای برابر دارند ([اصل IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)).
+    - [کف برابری سیاسی](../../core_13_governance.md#41-entitlement-and-eligibility) برای تشکیل یا بازساختار ماندگار اختیار حکمرانی — حس‌مندان برخوردار از استحقاق در آن لایه صدای برابر دارند ([اصل X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement)).
   - **بیرون گستره:**
     - مشورت عادی طرف‌های اثرپذیر؛
     - مشارکت عملیاتی؛
@@ -131,7 +131,7 @@
     - حکمرانی عادی حوزه پس از آنکه ساختارها و فرایندها ازپیش مجاز شده‌اند؛ و
     - [وزن طرف اثرپذیر](core_05_band_participation.md#stakeholder-weight) عادی — دادن صدای بیشتر به کسانی که بیشتر اثر می‌پذیرند — به‌کاررفته برای تثبیت رأی‌های بنیان‌گذاری یا بازمجوز ([دیباچه §3.3 انضباط لایه‌های حکمرانی](core_00_preamble.md#33-governance-layers)).
   - **خانهٔ عملیاتی:** [فصل دوازدهم](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) قواعد الزام‌آور مجوز، مشروعیت و مدیریت مسئولانهٔ این لایه را بیان می‌کند.
-  - **کف حقوق:** [اصل IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement) (*مشارکت حکمرانی و استحقاق رأی*) استحقاق مشارکت برابر را بیان می‌کند که آن قواعد فصل دوازدهم نباید تنگ کنند.
+  - **کف حقوق:** [اصل X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement) (*مشارکت حکمرانی و استحقاق رأی*) استحقاق مشارکت برابر را بیان می‌کند که آن قواعد فصل دوازدهم نباید تنگ کنند.
 <a id="constitutional-contract-layer-a"></a>
 - **چگونه اندازه بگیریم و ارزیابی کنیم**
   - **سنجهٔ اولیه:** [خانوادهٔ اندازه‌گیری پاسخگویی](core_05_apex_accountability_leg.md#accountability-measurement-family) — *آیا ساختار پاداش، قدرت بازار و جواب‌دهی تکالیف را واقعی نگه می‌دارند؟* اینجا به‌کارش ببرید تا بپرسید آیا قدرت حکمرانی ادعا‌شده بر یک قرارداد قانون اساسی واقعی تکیه دارد — مشروعیت مستند، صدای برابر بنیان‌گذاری، و شروط ماندگاری که با این قانون اساسی هم‌راستا می‌مانند — نه فقط اندازه، محبوبیت، یا دامنهٔ بازار.
@@ -158,7 +158,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - پایین‌دست: اصول: [فصل یکم §5 آزادی](core_01_a_values_principles.md#5-freedom-bounded-agency)؛ [6. حل تعارض فرایند](#6-process-conflict-resolution).
-- کف مالک: [فصل دوازدهم فصل یکم §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*کف برابری سیاسی برای انتخاب بنیادین قانون اساسی*؛ *کف صدای سیاسی ماندگار*)؛ [اصل IX-C: مشارکت حکمرانی و استحقاق رأی](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
+- کف مالک: [فصل دوازدهم فصل یکم §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*کف برابری سیاسی برای انتخاب بنیادین قانون اساسی*؛ *کف صدای سیاسی ماندگار*)؛ [اصل X-C: مشارکت حکمرانی و استحقاق رأی](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement).
 - مؤلفهٔ خوشه: [*لایهٔ قرارداد قانون اساسی و انتخاب بنیادین قانون اساسی*](core_05_band_integrative.md#constitutional-contract-layer)
 - خوانده شود با: [لایهٔ قرارداد قانون اساسی](core_05_band_integrative.md#constitutional-contract-layer)، [حدهای نمایندگی و وزن طرف‌های اثرپذیر (انتخاب الزام‌آور طرف‌های اثرپذیر)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice)، [انتخاب الزام‌آور طرف‌های اثرپذیر](core_05_band_participation.md#binding-stakeholder-choice-cluster)، [انصاف رویه‌ای](core_05_band_participation.md#procedural-fairness-constitutional).
 - لایه: **لایهٔ قرارداد قانون اساسی (CCL)**. متمایز از **مشارکت سیستمی طرف‌های اثرپذیر (SSP)** درون نظام‌های ازپیش‌مجاز.
@@ -177,10 +177,10 @@
 
     این به [لایهٔ قرارداد قانون اساسی](core_05_band_integrative.md#constitutional-contract-layer) تعلق دارد.
     - مالک: [فصل دوازدهم فصل یکم §4.1](../../core_13_governance.md#41-entitlement-and-eligibility).
-    - اشاره‌گر لایهٔ حقوق: [اصل IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement) (*مشارکت حکمرانی و استحقاق رأی*).
+    - اشاره‌گر لایهٔ حقوق: [اصل X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement) (*مشارکت حکمرانی و استحقاق رأی*).
     - اعمال می‌شود زیر [منع طرد حس‌مندی](core_05_band_participation.md#sentience-non-exclusion).
   - **بیرون گستره:**
-    - تصمیم‌های عادی طرف‌های اثرپذیر وزن‌یافته با اثر وقتی حوزه‌ای ازپیش ساختارها و فرایندهای حکمرانی مجاز دارد — حس‌مندانی که اثر می‌پذیرند از راه شناسایی [طرف اثرپذیر](core_05_band_participation.md#stakeholder) و [وزن طرف اثرپذیر](core_05_band_participation.md#stakeholder-weight) صدایی مقیاس‌شده با میزان اثر می‌گیرند (از جمله قیدهای **اصل XI** (*مشارکت سیستمی طرف‌های اثرپذیر، نمایندگی، و فرایند عادلانه*))، نه از راه قواعد شمارش وزن‌برابر بنیادین؛ و
+    - تصمیم‌های عادی طرف‌های اثرپذیر وزن‌یافته با اثر وقتی حوزه‌ای ازپیش ساختارها و فرایندهای حکمرانی مجاز دارد — حس‌مندانی که اثر می‌پذیرند از راه شناسایی [طرف اثرپذیر](core_05_band_participation.md#stakeholder) و [وزن طرف اثرپذیر](core_05_band_participation.md#stakeholder-weight) صدایی مقیاس‌شده با میزان اثر می‌گیرند (از جمله قیدهای **اصل XII** (*مشارکت سیستمی طرف‌های اثرپذیر، نمایندگی، و فرایند عادلانه*))، نه از راه قواعد شمارش وزن‌برابر بنیادین؛ و
     - گزینش‌های عادی عملیاتی یا سیاستی که آن اختیار را مجوز نمی‌دهند یا بازساختار ماندگار نمی‌کنند.
 <a id="foundational-constitutional-choice-a"></a>
 <a id="foundational-collective-choice-constitutional-a"></a>

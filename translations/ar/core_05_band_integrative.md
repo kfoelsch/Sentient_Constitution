@@ -102,7 +102,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أسفل: المبادئ: [الديباجة §3.3 انضباط طبقات الحوكمة](core_00_preamble.md#33-governance-layers)؛ [الفصل الأول §5 الحرية](core_01_a_values_principles.md#5-freedom-bounded-agency).
-- أرضية المالك: [الفصل الثاني عشر: العقد الدستوري والشرعية والترخيص والإدارة المسؤولة](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)؛ [المادة IX-C: المشاركة في الحوكمة واستحقاق التصويت](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
+- أرضية المالك: [الفصل الثاني عشر: العقد الدستوري والشرعية والترخيص والإدارة المسؤولة](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)؛ [المادة X-C: المشاركة في الحوكمة واستحقاق التصويت](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement).
 - مكوّن العنقود: [*طبقة العقد الدستوري والاختيار الدستوري التأسيسي*](core_05_band_integrative.md#constitutional-contract-layer)
 - يُقرأ مع: [الاختيار الدستوري التأسيسي](core_05_band_integrative.md#foundational-constitutional-choice)، [الاختيار الملزم للأطراف المتأثرة](core_05_band_participation.md#binding-stakeholder-choice-cluster)، [المشاركة النظامية للأطراف المتأثرة](core_05_band_participation.md#stakeholder-status-and-weight-cluster)، [الحوكمة](core_05_band_accountability.md#governance).
 - طبقة: **طبقة العقد الدستوري (CCL)** — من يجوز له أن يحكم، وبأي آلية شرعية، وتحت أي شروط دائمة. متميزة عن **المشاركة النظامية للأطراف المتأثرة (SSP)**.
@@ -123,7 +123,7 @@
     - [الاختيار الدستوري التأسيسي](core_05_band_integrative.md#foundational-constitutional-choice)؛
     - [آليات الشرعية الموثَّقة](../../core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority) تحت [الفصل الثاني عشر §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism)؛
     - قواعد [الاعتماد](../../core_16_amendment_ratification.md#10-ratification-and-adoption) و[إعادة الترخيص](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) ([الفصل الثاني عشر §1.3](../../core_13_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails)؛ [الفصل السادس عشر §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority))؛ و
-    - [أرضية المساواة السياسية](../../core_13_governance.md#41-entitlement-and-eligibility) لتكوين سلطة الحكم أو إعادة هيكلتها على نحو دائم — للكائنات الواعية ذات الاستحقاق صوت متساوٍ في تلك الطبقة ([المادة IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)).
+    - [أرضية المساواة السياسية](../../core_13_governance.md#41-entitlement-and-eligibility) لتكوين سلطة الحكم أو إعادة هيكلتها على نحو دائم — للكائنات الواعية ذات الاستحقاق صوت متساوٍ في تلك الطبقة ([المادة X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement)).
   - **خارج النطاق:**
     - الاستشارة العادية للأطراف المتأثرة؛
     - المشاركة التشغيلية؛
@@ -131,7 +131,7 @@
     - الحوكمة العادية للنطاق بعد أن تكون البنى والإجراءات مرخَّصًا لها أصلًا؛ و
     - [وزن الطرف المتأثر](core_05_band_participation.md#stakeholder-weight) العادي — إعطاء صوت أكبر لمن هم أكثر تأثرًا — مستخدمًا لتثبيت أصوات التأسيس أو إعادة الترخيص ([الديباجة §3.3 انضباط طبقات الحوكمة](core_00_preamble.md#33-governance-layers)).
   - **الموطن التشغيلي:** يبيّن [الفصل الثاني عشر](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) القواعد الملزمة لترخيص هذه الطبقة وشرعيتها وإدارتها المسؤولة.
-  - **أرضية الحقوق:** تبيّن [المادة IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement) (*المشاركة في الحوكمة واستحقاق التصويت*) استحقاق المشاركة المتساوية الذي يجب ألا تضيّقه قواعد الفصل الثاني عشر تلك.
+  - **أرضية الحقوق:** تبيّن [المادة X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement) (*المشاركة في الحوكمة واستحقاق التصويت*) استحقاق المشاركة المتساوية الذي يجب ألا تضيّقه قواعد الفصل الثاني عشر تلك.
 <a id="constitutional-contract-layer-a"></a>
 - **كيف يُقاس ويُقيَّم**
   - **القياس الأولي:** [أسرة قياس المساءلة](core_05_apex_accountability_leg.md#accountability-measurement-family) — *هل تُبقي بنى المكافأة وقوة السوق وواجب الجواب الواجبات حقيقية؟* استخدمها هنا لتسأل هل تقوم سلطة الحكم المدَّعاة على عقد دستوري حقيقي — شرعية موثَّقة وصوت تأسيسي متساوٍ وشروط دائمة تبقى متوائمة مع هذا الدستور — لا مجرد الحجم أو الشعبية أو مدى السوق.
@@ -158,7 +158,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أسفل: المبادئ: [الفصل الأول §5 الحرية](core_01_a_values_principles.md#5-freedom-bounded-agency)؛ [6. حل نزاعات الإجراءات](#6-process-conflict-resolution).
-- أرضية المالك: [الفصل الثاني عشر الفصل الأول §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*أرضية المساواة السياسية للاختيار الدستوري التأسيسي*؛ *أرضية الصوت السياسي الدائم*)؛ [المادة IX-C: المشاركة في الحوكمة واستحقاق التصويت](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
+- أرضية المالك: [الفصل الثاني عشر الفصل الأول §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*أرضية المساواة السياسية للاختيار الدستوري التأسيسي*؛ *أرضية الصوت السياسي الدائم*)؛ [المادة X-C: المشاركة في الحوكمة واستحقاق التصويت](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement).
 - مكوّن العنقود: [*طبقة العقد الدستوري والاختيار الدستوري التأسيسي*](core_05_band_integrative.md#constitutional-contract-layer)
 - يُقرأ مع: [طبقة العقد الدستوري](core_05_band_integrative.md#constitutional-contract-layer)، [حدود تمثيل الأطراف المتأثرة ووزنها (الاختيار الملزم للأطراف المتأثرة)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice)، [الاختيار الملزم للأطراف المتأثرة](core_05_band_participation.md#binding-stakeholder-choice-cluster)، [الإنصاف الإجرائي](core_05_band_participation.md#procedural-fairness-constitutional).
 - طبقة: **طبقة العقد الدستوري (CCL)**. متميزة عن **المشاركة النظامية للأطراف المتأثرة (SSP)** داخل أنظمة سبق الترخيص لها.
@@ -177,10 +177,10 @@
 
     هذا ينتمي إلى [طبقة العقد الدستوري](core_05_band_integrative.md#constitutional-contract-layer).
     - المالك: [الفصل الثاني عشر الفصل الأول §4.1](../../core_13_governance.md#41-entitlement-and-eligibility).
-    - مؤشر طبقة الحقوق: [المادة IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement) (*المشاركة في الحوكمة واستحقاق التصويت*).
+    - مؤشر طبقة الحقوق: [المادة X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement) (*المشاركة في الحوكمة واستحقاق التصويت*).
     - ينطبق تحت [عدم استبعاد الوعي](core_05_band_participation.md#sentience-non-exclusion).
   - **خارج النطاق:**
-    - قرارات الأطراف المتأثرة العادية الموزونة بالأثر متى كان لنطاق بنى وإجراءات حكم مرخَّص لها أصلًا — تحصل الكائنات الواعية المتأثرة على صوت مقيس على كمّ ما يتأثرون به عبر تعيين [الطرف المتأثر](core_05_band_participation.md#stakeholder) و[وزن الطرف المتأثر](core_05_band_participation.md#stakeholder-weight) (بما في ذلك قيود **المادة XI** (*المشاركة النظامية للأطراف المتأثرة والتمثيل والإجراءات الواجبة*))، لا عبر قواعد عدّ تأسيسية متساوية الوزن؛ و
+    - قرارات الأطراف المتأثرة العادية الموزونة بالأثر متى كان لنطاق بنى وإجراءات حكم مرخَّص لها أصلًا — تحصل الكائنات الواعية المتأثرة على صوت مقيس على كمّ ما يتأثرون به عبر تعيين [الطرف المتأثر](core_05_band_participation.md#stakeholder) و[وزن الطرف المتأثر](core_05_band_participation.md#stakeholder-weight) (بما في ذلك قيود **المادة XII** (*المشاركة النظامية للأطراف المتأثرة والتمثيل والإجراءات الواجبة*))، لا عبر قواعد عدّ تأسيسية متساوية الوزن؛ و
     - الاختيارات التشغيلية أو السياساتية الروتينية التي لا ترخّص لتلك السلطة ولا تعيد هيكلتها على نحو دائم.
 <a id="foundational-constitutional-choice-a"></a>
 <a id="foundational-collective-choice-constitutional-a"></a>

@@ -61,7 +61,7 @@ See: [CI-15](../../../corpus_institutions/ci_15_neurodiversity_disability_justic
 - **Today:** “You didn’t complete the form” is the end.
 - **With this Constitution:** Challenge, review, and redress have to be real, and delay is part of the failure.
 
-See: [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress); [Article XXIV-C](../../../core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor).
+See: [Article XIII-B](../../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress); [Article XXV-C](../../../core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor).
 
 ## What you might reasonably object to
 
@@ -79,7 +79,7 @@ See: [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-ch
 
 - A second, softer set of rights, access treated as optional charity, or a guarantee of your preferred format in every setting.
 - Winning a preference contest against someone else’s basic protection.
-- Erasing adult-to-adult expression under a vulnerability pretext ([Article IX-G](../../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press) audience-routing discipline).
+- Erasing adult-to-adult expression under a vulnerability pretext ([Article X-G](../../../core_06_rights_part_b.md#article-x-g-expression-assembly-and-press) audience-routing discipline).
 - Enforcement against a clinic, school, or employer that has not adopted it.
 
 ## If you want to look further

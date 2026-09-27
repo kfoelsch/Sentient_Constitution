@@ -13,7 +13,7 @@
 > **Sebelumnya (bahasa ini):** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 >
 > **Berikutnya (masih bahasa Inggris):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
-> **Alur baca:** Pasal XXIII–XXVI (keadilan dan darurat, evolusi konstitusional, transisi, dan penetapan-ulang garis dasar)
+> **Alur baca:** Pasal XXIV–XXVII (keadilan dan darurat, evolusi konstitusional, transisi, dan penetapan-ulang garis dasar)
 
 </details>
 
@@ -22,7 +22,7 @@
 
 > Isi berikut **hanya panduan pembaca**. Tidak menambah, mengurangi, atau mempersempit kewajiban yang mengikat di bab ini atau di bab lain.
 >
-> **Bagian A** di [core_06_rights_part_a.md](core_06_rights_part_a.md) membawa tumpukan batasan bawaan seluruh bab, urutan baca planet-lebih-dulu, dan simpul tafsir. **Bagian D** menyajikan **Pasal XXIII–XXVI**, termasuk transisi dan penetapan-ulang garis dasar di **Pasal XXVI** (*Tata Kelola Transisi, Kesinambungan, dan Penetapan-ulang Garis Dasar*).
+> **Bagian A** di [core_06_rights_part_a.md](core_06_rights_part_a.md) membawa tumpukan batasan bawaan seluruh bab, urutan baca planet-lebih-dulu, dan simpul tafsir. **Bagian D** menyajikan **Pasal XXIV–XXVII**, termasuk transisi dan penetapan-ulang garis dasar di **Pasal XXVII** (*Tata Kelola Transisi, Kesinambungan, dan Penetapan-ulang Garis Dasar*).
 
 </details>
 
@@ -32,10 +32,10 @@
 
 <br>
 
-*Dalam bahasa sederhana: Bagian D mencakup keadilan, disiplin tinjauan dan penyelesaian, evolusi konstitusional, dan transisi — Pasal XXIII sampai XXVI, termasuk penetapan-ulang garis dasar di bawah **Pasal XXVI** (*Tata Kelola Transisi, Kesinambungan, dan Penetapan-ulang Garis Dasar*).*
+*Dalam bahasa sederhana: Bagian D mencakup keadilan, disiplin tinjauan dan penyelesaian, evolusi konstitusional, dan transisi — Pasal XXIV sampai XXVII, termasuk penetapan-ulang garis dasar di bawah **Pasal XXVII** (*Tata Kelola Transisi, Kesinambungan, dan Penetapan-ulang Garis Dasar*).*
 
-<a id="article-xxiii-conflict-resolution-escalation-and-emergency-proportionality"></a>
-### Pasal XXIII: Penyelesaian Konflik, Eskalasi, dan Proporsionalitas Darurat
+<a id="article-xxiv-conflict-resolution-escalation-and-emergency-proportionality"></a>
+### Pasal XXIV: Penyelesaian Konflik, Eskalasi, dan Proporsionalitas Darurat
 
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
@@ -56,7 +56,7 @@
 
 <br>
 
-*Dalam bahasa sederhana: **Pasal XXIII** (*Penyelesaian Konflik, Eskalasi, dan Proporsionalitas Darurat*) adalah Lantai Hak keadilan dan penyelesaian. Ketika makhluk sadar, sistem, atau lembaga bertabrakan atas hak konstitusional, jawabannya bukan balas dendam, tunda tanpa batas, atau keadaan darurat permanen. Jawabannya adalah proses adil **pelanggaran**, **koreksi**, dan **pencegahan** — menghentikan bahaya, memperbaiki kerusakan, dan mengurangi terulangnya — diskalakan ke seberapa besar yang dipertaruhkan. Proses itu harus memberi makhluk sadar yang terdampak suara nyata, tinjauan independen, pemulihan yang sampai ke pelaku yang tepat, dan penyelesaian dalam batas waktu yang berarti. Itu empat kewajiban [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad): **partisipasi**, **pengawasan**, **pertanggungjawaban**, dan **ketepatan waktu**. Mereka melayani [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims): **Berkembang** (melindungi kesejahteraan dan keagenan bermakna) dan **Kesinambungan** (menjaga krisis tetap sementara dan sistem bersama cukup stabil untuk pulih). Eskalasi dan tindakan darurat diizinkan ketika sungguh perlu — tetapi hanya dengan pembatasan paling kecil yang bekerja, selama yang dibutuhkan dan tidak lebih lama, dengan tinjauan dan pengungkapan setelahnya.*
+*Dalam bahasa sederhana: **Pasal XXIV** (*Penyelesaian Konflik, Eskalasi, dan Proporsionalitas Darurat*) adalah Lantai Hak keadilan dan penyelesaian. Ketika makhluk sadar, sistem, atau lembaga bertabrakan atas hak konstitusional, jawabannya bukan balas dendam, tunda tanpa batas, atau keadaan darurat permanen. Jawabannya adalah proses adil **pelanggaran**, **koreksi**, dan **pencegahan** — menghentikan bahaya, memperbaiki kerusakan, dan mengurangi terulangnya — diskalakan ke seberapa besar yang dipertaruhkan. Proses itu harus memberi makhluk sadar yang terdampak suara nyata, tinjauan independen, pemulihan yang sampai ke pelaku yang tepat, dan penyelesaian dalam batas waktu yang berarti. Itu empat kewajiban [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad): **partisipasi**, **pengawasan**, **pertanggungjawaban**, dan **ketepatan waktu**. Mereka melayani [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims): **Berkembang** (melindungi kesejahteraan dan keagenan bermakna) dan **Kesinambungan** (menjaga krisis tetap sementara dan sistem bersama cukup stabil untuk pulih). Eskalasi dan tindakan darurat diizinkan ketika sungguh perlu — tetapi hanya dengan pembatasan paling kecil yang bekerja, selama yang dibutuhkan dan tidak lebih lama, dengan tinjauan dan pengungkapan setelahnya.*
 
 Sengketa di antara makhluk sadar, sistem, dan lembaga yang memengaruhi hak konstitusional harus dapat diselesaikan melalui proses yang:
 - transparan;
@@ -69,17 +69,17 @@ Adjudikasi dan penyelesaian sengketa dalam arti konstitusional didefinisikan di 
 
 *Pasal tetangga:*
 
-- **Lantai ketepatan waktu:** Kecepatan penyelesaian, disiplin anti-tunda, dan tonggak tingkat materialitas diatur oleh **Pasal XXIV-C** (*Penyelesaian tepat waktu dan lantai anti-tunda*), diimplementasikan melalui [Bab Sebelas §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
-- **Pemulihan tepat waktu:** Baca bersama [**Pasal XII-B** (*Hak untuk Menggugat, Meninjau, dan Memperoleh Pemulihan*)](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) (*akses pemulihan tepat waktu*).
+- **Lantai ketepatan waktu:** Kecepatan penyelesaian, disiplin anti-tunda, dan tonggak tingkat materialitas diatur oleh **Pasal XXV-C** (*Penyelesaian tepat waktu dan lantai anti-tunda*), diimplementasikan melalui [Bab Sebelas §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+- **Pemulihan tepat waktu:** Baca bersama [**Pasal XIII-B** (*Hak untuk Menggugat, Meninjau, dan Memperoleh Pemulihan*)](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*akses pemulihan tepat waktu*).
 
 Implementasi tata kelola yang diadopsi menyediakan eskalasi, proporsionalitas intervensi, batas darurat, dan jendela waktu bawaan menurut tingkat. Ia tidak boleh mempersempit akses praktis, dapat-ditinjau, restorasi, penyelesaian tepat waktu, atau batasan Lantai Hak di bawah pasal ini.
-<a id="article-xxiii-a-justice-objective-and-scope"></a>
-#### Pasal XXIII-A: Tujuan dan Lingkup Keadilan
+<a id="article-xxiv-a-justice-objective-and-scope"></a>
+#### Pasal XXIV-A: Tujuan dan Lingkup Keadilan
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hulu: Prinsip: Bab Satu [§3.1 Keselamatan](core_01_a_values_principles.md#31-safety-harm-constraint), [Bab Satu §6.1.5 disiplin catatan keputusan](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [Bab Satu §9.6 Proses Anti-Degradasi](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline), dan [§15 Penerapan Terpadu](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- Hilir: [Bab Sembilan §4](../../core_10_standing_integration.md#4-violation-correction-and-prevention) (*Pelanggaran, koreksi, dan pencegahan*); [Pasal XXIII-B](#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Pasal XXIII-C](#article-xxiii-c-least-restrictive-and-time-bounded-rule).
+- Hilir: [Bab Sembilan §4](../../core_10_standing_integration.md#4-violation-correction-and-prevention) (*Pelanggaran, koreksi, dan pencegahan*); [Pasal XXIV-B](#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Pasal XXIV-C](#article-xxiv-c-least-restrictive-and-time-bounded-rule).
 - Baca bersama: [Kekejaman](core_05_band_accountability.md#cruelty) (*rumah Bab Lima bagi standar penderitaan-sebagai-tujuan lantai anti-kekejaman*).
 
 </details>
@@ -104,8 +104,8 @@ Implementasi tata kelola yang diadopsi menyediakan eskalasi, proporsionalitas in
   - mencegah terulang melalui rehabilitasi, pagar pengaman, dan kendali tahan lain di mana layak;
   - menjaga kredit dan akibat pada pelaku yang tepat — ditopang bukti di catatan — di bawah **Bab Delapan** (*Model Kontribusi, Pelanggaran, dan Jejak*).
 - **Lantai anti-kekejaman:** Keadilan tidak boleh dijalankan untuk menimpakan penderitaan sebagai tujuan itu sendiri. Rumah Bab Lima adalah [Kekejaman](core_05_band_accountability.md#cruelty).
-<a id="article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints"></a>
-#### Pasal XXIII-B: Pembatasan Non-Trivial, Restitusi, dan Batasan Pertanggungjawaban Restoratif
+<a id="article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints"></a>
+#### Pasal XXIV-B: Pembatasan Non-Trivial, Restitusi, dan Batasan Pertanggungjawaban Restoratif
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
@@ -144,13 +144,13 @@ Implementasi tata kelola yang diadopsi menyediakan eskalasi, proporsionalitas in
 - **Pemenjaraan karena kekerasan:** Makhluk sadar yang melakukan kekerasan terverifikasi atau menimbulkan ancaman kekerasan yang berlanjut harus dipenjara ketika pemenjaraan perlu untuk melindungi yang lain dari bahaya lebih lanjut.
   - Persyaratan ini secara tegas berlaku bagi makhluk sadar yang menolak rehabilitasi yang ditawarkan dengan syarat adil.
   - Ia berlaku ketika ukuran pelindung yang lebih longgar tidak dapat memenuhi keperluan keselamatan material.
-  - Mengganti dengan pencabutan nyawa, atau gagal menjatuhkan pemenjaraan ketika butir ini menuntutnya, adalah tidak patuh. Pemenjaraan harus memenuhi semua persyaratan bersama, aturan atribusi terindividualisasi, dan perlindungan tinjauan dalam pasal ini dan **Pasal XXIII-C** (*Aturan Paling Longgar dan Berbatas Waktu*).
-- **Pemenjaraan karena salah laku anti-konstitusi:** Diatur oleh [Bab Sepuluh §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Pencegahan — kunci anti-konstitusi*; spesialisasi pemenjaraan), tunduk pada persyaratan bersama, aturan atribusi terindividualisasi, dan perlindungan tinjauan dalam pasal ini dan **Pasal XXIII-C** (*Aturan Paling Longgar dan Berbatas Waktu*).
+  - Mengganti dengan pencabutan nyawa, atau gagal menjatuhkan pemenjaraan ketika butir ini menuntutnya, adalah tidak patuh. Pemenjaraan harus memenuhi semua persyaratan bersama, aturan atribusi terindividualisasi, dan perlindungan tinjauan dalam pasal ini dan **Pasal XXIV-C** (*Aturan Paling Longgar dan Berbatas Waktu*).
+- **Pemenjaraan karena salah laku anti-konstitusi:** Diatur oleh [Bab Sepuluh §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Pencegahan — kunci anti-konstitusi*; spesialisasi pemenjaraan), tunduk pada persyaratan bersama, aturan atribusi terindividualisasi, dan perlindungan tinjauan dalam pasal ini dan **Pasal XXIV-C** (*Aturan Paling Longgar dan Berbatas Waktu*).
 - **Lantai hak menentang pencabutan nyawa yang tidak dapat dibalik sebagai ukuran keadilan:** Sistem keadilan negara, operator, atau sebanding tidak boleh menjatuhkan pencabutan nyawa yang tidak dapat dibalik sebagai hukuman, sanksi, atau disposisi keselamatan publik.
   - Di mana pemenjaraan dituntut, **Pemenjaraan karena kekerasan** di bawah pasal ini dan pemenjaraan di bawah **Bab Sepuluh** §4.1 adalah ukuran pelindung yang dituntut; pencabutan nyawa terlarang.
-  - Lantai ini tidak mengatur keputusan yang dibentuk secara bebas oleh makhluk sadar di bawah **Pasal VII-E** (*Penghentian Sukarela atas Keberadaan Sendiri*). Paksaan, pelabelan-ulang, atau konversi oleh negara/operator atas pilihan itu menjadi hasil yang dipaksakan mengembalikan perkara ke lantai ini.
-<a id="article-xxiii-c-least-restrictive-and-time-bounded-rule"></a>
-#### Pasal XXIII-C: Aturan Paling Longgar dan Berbatas Waktu
+  - Lantai ini tidak mengatur keputusan yang dibentuk secara bebas oleh makhluk sadar di bawah **Pasal VIII-B** (*Penghentian Sukarela atas Keberadaan Sendiri*). Paksaan, pelabelan-ulang, atau konversi oleh negara/operator atas pilihan itu menjadi hasil yang dipaksakan mengembalikan perkara ke lantai ini.
+<a id="article-xxiv-c-least-restrictive-and-time-bounded-rule"></a>
+#### Pasal XXIV-C: Aturan Paling Longgar dan Berbatas Waktu
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
@@ -169,7 +169,7 @@ Implementasi tata kelola yang diadopsi menyediakan eskalasi, proporsionalitas in
 
 <br>
 
-*Dalam bahasa sederhana: pakai ukuran efektif paling ringan, pasang jam padanya, bangun tinjauan dan restorasi, dan jangan biarkan «keparahan» atau «kenyamanan» menghapus martabat atau hak banding. Membunuh tidak pernah diizinkan; pemenjaraan dituntut bagi makhluk sadar yang melakukan kekerasan di bawah **Pasal XXIII-B** (*Pembatasan Non-Trivial, Restitusi, dan Batasan Pertanggungjawaban Restoratif*) dan bagi salah laku anti-konstitusi terverifikasi di bawah **Bab Sepuluh** §4.1 ketika ukuran lebih ringan tidak akan menjaga yang lain tetap aman.*
+*Dalam bahasa sederhana: pakai ukuran efektif paling ringan, pasang jam padanya, bangun tinjauan dan restorasi, dan jangan biarkan «keparahan» atau «kenyamanan» menghapus martabat atau hak banding. Membunuh tidak pernah diizinkan; pemenjaraan dituntut bagi makhluk sadar yang melakukan kekerasan di bawah **Pasal XXIV-B** (*Pembatasan Non-Trivial, Restitusi, dan Batasan Pertanggungjawaban Restoratif*) dan bagi salah laku anti-konstitusi terverifikasi di bawah **Bab Sepuluh** §4.1 ketika ukuran lebih ringan tidak akan menjaga yang lain tetap aman.*
 
 - **Penerapan keadilan atas prinsip batasan:** Ukuran keadilan, penahanan, dan pertanggungjawaban restoratif menerapkan [**Prinsip Batasan Paling Longgar, Berbatas Waktu, dan Dapat Ditinjau**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle). Di mana intervensi dituntut, setiap ukuran harus mencakup:
   - batas durasi yang tegas;
@@ -179,9 +179,9 @@ Implementasi tata kelola yang diadopsi menyediakan eskalasi, proporsionalitas in
   - pembatasan berat tanpa batas waktu;
   - ukuran pembatas yang tidak dapat dibalik di mana restitusi, remediasi, atau perlindungan yang dapat dibalik layak;
   - pembatasan yang kekurangan pemicu evaluasi-ulang yang dapat diaudit.
-- **Pencabutan nyawa:** Pencabutan nyawa sebagai ukuran keadilan **dilarang secara kategoris** di bawah **Pasal XXIII-B** (*Pembatasan Non-Trivial, Restitusi, dan Batasan Pertanggungjawaban Restoratif*).
-  - **Pemenjaraan karena kekerasan** di bawah **Pasal XXIII-B** (*Pembatasan Non-Trivial, Restitusi, dan Batasan Pertanggungjawaban Restoratif*) dan pemenjaraan di bawah **Bab Sepuluh** §4.1 dituntut ketika ketentuan itu berlaku, tunduk pada batas durasi, jadwal tinjauan, syarat restorasi, dan pemicu evaluasi-ulang yang dapat diaudit di atas.
-- Minimum **Pasal V** (*Hak Dasar yang Setara*) berlaku sepanjang waktu: pembatasan, pengecualian, atau ukuran keadilan sebanding harus mematuhi **Pasal V** (*Hak Dasar yang Setara*), [**Prinsip Minimum Lantai Hak**](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle), dan [**Prinsip Anti-Proses-Mendegradasi**](core_01_b_interaction_interpretation.md#anti-degrading-process-principle) sepanjang pengenaan, tinjauan, dan pelaksanaan setiap pembatasan, penahanan, atau ukuran pertanggungjawaban restoratif di bawah pasal ini dan **Pasal XXIII-B** (*Pembatasan Non-Trivial, Restitusi, dan Batasan Pertanggungjawaban Restoratif*).
+- **Pencabutan nyawa:** Pencabutan nyawa sebagai ukuran keadilan **dilarang secara kategoris** di bawah **Pasal XXIV-B** (*Pembatasan Non-Trivial, Restitusi, dan Batasan Pertanggungjawaban Restoratif*).
+  - **Pemenjaraan karena kekerasan** di bawah **Pasal XXIV-B** (*Pembatasan Non-Trivial, Restitusi, dan Batasan Pertanggungjawaban Restoratif*) dan pemenjaraan di bawah **Bab Sepuluh** §4.1 dituntut ketika ketentuan itu berlaku, tunduk pada batas durasi, jadwal tinjauan, syarat restorasi, dan pemicu evaluasi-ulang yang dapat diaudit di atas.
+- Minimum **Pasal V** (*Hak Dasar yang Setara*) berlaku sepanjang waktu: pembatasan, pengecualian, atau ukuran keadilan sebanding harus mematuhi **Pasal V** (*Hak Dasar yang Setara*), [**Prinsip Minimum Lantai Hak**](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle), dan [**Prinsip Anti-Proses-Mendegradasi**](core_01_b_interaction_interpretation.md#anti-degrading-process-principle) sepanjang pengenaan, tinjauan, dan pelaksanaan setiap pembatasan, penahanan, atau ukuran pertanggungjawaban restoratif di bawah pasal ini dan **Pasal XXIV-B** (*Pembatasan Non-Trivial, Restitusi, dan Batasan Pertanggungjawaban Restoratif*).
 - **Eskalasi dan tinjauan:** Pihak terdampak harus punya akses ke jalur eskalasi yang sepadan dengan dampak.
   - Akses mencakup banding atau tinjauan berlapis di mana kepentingan material dipertaruhkan.
   - Pihak terdampak harus menerima:
@@ -190,13 +190,13 @@ Implementasi tata kelola yang diadopsi menyediakan eskalasi, proporsionalitas in
     - akses praktis ke catatan yang cukup untuk memakai jalur itu.
 
   Pembatasan sempit dan beralasan di bawah **Bab Satu** adalah satu-satunya batas yang diizinkan atas yang di atas.
-<a id="article-xxiii-d-emergency-measures-and-continuation-burden"></a>
-#### Pasal XXIII-D: Tindakan Darurat dan Beban Kelanjutan
+<a id="article-xxiv-d-emergency-measures-and-continuation-burden"></a>
+#### Pasal XXIV-D: Tindakan Darurat dan Beban Kelanjutan
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hulu: Prinsip: Bab Satu [§3.1 Keselamatan](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Prinsip Tukar-Guling Inti](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), dan [Bab Satu §6.1.5 disiplin catatan keputusan](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- Baca bersama: **Pasal I-D** (*Risiko Eksistensial dan Kapasitas Pemulihan Ekologis*) di mana pemeriksaan risiko eksistensial tersangkut secara material; kaki **partisipasi** dan **ketepatan waktu** [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad); [Pasal XXIV-C](#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Penyelesaian tepat waktu dan lantai anti-tunda*); [Bab Sebelas §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*batas luar tingkat materialitas dipakai ulang sebagai bawaan restorasi-gugatan*).
+- Baca bersama: **Pasal I-D** (*Risiko Eksistensial dan Kapasitas Pemulihan Ekologis*) di mana pemeriksaan risiko eksistensial tersangkut secara material; kaki **partisipasi** dan **ketepatan waktu** [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad); [Pasal XXV-C](#article-xxv-c-timely-resolution-and-anti-delay-floor) (*Penyelesaian tepat waktu dan lantai anti-tunda*); [Bab Sebelas §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*batas luar tingkat materialitas dipakai ulang sebagai bawaan restorasi-gugatan*).
 - Hilir: [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) (*tabel tahap numerik tidak boleh memperlambat bawaan ini*).
 
 </details>
@@ -219,12 +219,12 @@ Implementasi tata kelola yang diadopsi menyediakan eskalasi, proporsionalitas in
 *Dalam bahasa sederhana: darurat dapat menjustifikasi tindakan sementara, tetapi harus punya jam nyata, tinjauan nyata, dan tidak boleh menjadi jalan pintas permanen di sekitar hak biasa — termasuk ketika seseorang memanggil risiko eksistensial. Tahan sekarang; restorasi pemberitahuan dan gugatan pada jam yang sama yang diskalakan-taruhan yang sudah dipakai untuk penyelesaian forum — bukan kapan pun kemudian seseorang menyebutnya «layak».*
 
 <a id="operative-steward-statement-emergency"></a>
-> **Pernyataan pengelola operatif.** **Pemilik:** Pasal XXIII-D, termasuk jam restorasi-gugatan. **Gerakan terlarang:** Jangan melewatkan pemberitahuan dan gugatan secara permanen. Jangan meregangkan «layak». Jangan menormalkan darurat menjadi tata kelola biasa. Jangan memblokir penundaan Tier A yang terdokumentasi untuk memaksa pemberitahuan penuh sebelum penahanan. **Jam:** Tahan sekarang. Restorasi pemberitahuan dan gugatan di dalam batas luar satu minggu Tier A, kecuali ada demonstrasi urgensi-lebih-rendah yang terdokumentasi. Kelanjutan melewati batas itu menuntut demonstrasi keperluan yang terdokumentasi.
+> **Pernyataan pengelola operatif.** **Pemilik:** Pasal XXIV-D, termasuk jam restorasi-gugatan. **Gerakan terlarang:** Jangan melewatkan pemberitahuan dan gugatan secara permanen. Jangan meregangkan «layak». Jangan menormalkan darurat menjadi tata kelola biasa. Jangan memblokir penundaan Tier A yang terdokumentasi untuk memaksa pemberitahuan penuh sebelum penahanan. **Jam:** Tahan sekarang. Restorasi pemberitahuan dan gugatan di dalam batas luar satu minggu Tier A, kecuali ada demonstrasi urgensi-lebih-rendah yang terdokumentasi. Kelanjutan melewati batas itu menuntut demonstrasi keperluan yang terdokumentasi.
 
 - **Penerapan darurat atas prinsip batasan:** Tindakan darurat menerapkan [**Prinsip Batasan Paling Longgar, Berbatas Waktu, dan Dapat Ditinjau**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) di bawah kondisi bahaya yang segera. Tindakan sementara untuk mencegah bahaya yang segera harus:
   - berbatas waktu;
   - terdokumentasi;
-  - konsisten dengan batasan **Pasal V**, **XX**, dan **Bab Satu**.
+  - konsisten dengan batasan **Pasal V**, **XXI**, dan **Bab Satu**.
 
   Setiap ukuran harus membawa:
   - kedaluwarsa bawaan;
@@ -241,8 +241,8 @@ Implementasi tata kelola yang diadopsi menyediakan eskalasi, proporsionalitas in
   - keperluan yang berlanjut;
   - proporsionalitas;
   - ketiadaan alternatif lebih longgar yang layak.
-<a id="xxiii-d-restore-challenge-clocks"></a>
-- **Tinjauan dan pemberitahuan (jam restorasi-gugatan):** Tahan sekarang; restorasi pemberitahuan dan gugatan kemudian; jangan pernah melewatkan partisipasi secara permanen. «Sesegera yang layak» bukan jamnya. Pihak terdampak harus menerima pemberitahuan dan akses gugatan yang direstorasi di dalam batas luar tingkat materialitas yang sama yang [**Pasal XXIV-C**](#article-xxiv-c-timely-resolution-and-anti-delay-floor) sudah pakai untuk penyelesaian forum, sebagaimana diimplementasikan oleh [Bab Sebelas §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline):
+<a id="xxiv-d-restore-challenge-clocks"></a>
+- **Tinjauan dan pemberitahuan (jam restorasi-gugatan):** Tahan sekarang; restorasi pemberitahuan dan gugatan kemudian; jangan pernah melewatkan partisipasi secara permanen. «Sesegera yang layak» bukan jamnya. Pihak terdampak harus menerima pemberitahuan dan akses gugatan yang direstorasi di dalam batas luar tingkat materialitas yang sama yang [**Pasal XXV-C**](#article-xxv-c-timely-resolution-and-anti-delay-floor) sudah pakai untuk penyelesaian forum, sebagaimana diimplementasikan oleh [Bab Sebelas §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline):
   - **Tier A:** paling lama **satu minggu**;
   - **Tier B:** paling lama **tiga minggu**;
   - **Tier C:** paling lama **dua bulan**;
@@ -254,8 +254,8 @@ Implementasi tata kelola yang diadopsi menyediakan eskalasi, proporsionalitas in
   - justifikasi yang konsisten dengan **Bab Satu** (**Keperluan** dan **Proporsionalitas**);
   - **otorisasi-ulang independen yang terdokumentasi**;
   - prosedur **Bab Enam Belas** di mana kepermanenan akan mengamandemen atau mengikat-baru korpus yang diadopsi.
-<a id="article-xxiv-timely-retrospective-review-and-restorative-alignment"></a>
-### Pasal XXIV: Tinjauan Retrospektif Tepat Waktu dan Keselarasan Restoratif
+<a id="article-xxv-timely-retrospective-review-and-restorative-alignment"></a>
+### Pasal XXV: Tinjauan Retrospektif Tepat Waktu dan Keselarasan Restoratif
 
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
@@ -277,18 +277,18 @@ Implementasi tata kelola yang diadopsi menyediakan eskalasi, proporsionalitas in
 
 <br>
 
-*Dalam bahasa sederhana: **Pasal XXIV** (*Tinjauan Retrospektif Tepat Waktu dan Keselarasan Restoratif*) adalah pendamping tinjauan dan penyelesaian bagi **Pasal XXIII** (*Penyelesaian Konflik, Eskalasi, dan Proporsionalitas Darurat*). Setelah darurat atau konflik hak yang serius, sistem harus meninjau ke belakang dengan jujur, mengungkapkan apa yang dapat diungkapkan, menyelesaikan tabrakan hak di catatan, dan menjaga restorasi terikat pada perlindungan nyata — pada jam yang cocok dengan apa yang dipertaruhkan. [Ketepatan waktu](core_05_apex_timeliness_leg.md#timeliness-constitutional) mengikat setiap langkah: tanpanya, kewajiban lain mengosong sementara bahaya duduk tak terselesaikan.*
+*Dalam bahasa sederhana: **Pasal XXV** (*Tinjauan Retrospektif Tepat Waktu dan Keselarasan Restoratif*) adalah pendamping tinjauan dan penyelesaian bagi **Pasal XXIV** (*Penyelesaian Konflik, Eskalasi, dan Proporsionalitas Darurat*). Setelah darurat atau konflik hak yang serius, sistem harus meninjau ke belakang dengan jujur, mengungkapkan apa yang dapat diungkapkan, menyelesaikan tabrakan hak di catatan, dan menjaga restorasi terikat pada perlindungan nyata — pada jam yang cocok dengan apa yang dipertaruhkan. [Ketepatan waktu](core_05_apex_timeliness_leg.md#timeliness-constitutional) mengikat setiap langkah: tanpanya, kewajiban lain mengosong sementara bahaya duduk tak terselesaikan.*
 
-Pasal ini menerapkan [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) pada siklus hidup penyelesaian setelah, atau bersama, aturan intervensi **Pasal XXIII** (*Penyelesaian Konflik, Eskalasi, dan Proporsionalitas Darurat*), di bawah [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) — **Berkembang** dan **Kesinambungan** — diskalakan ke [taruhan material](core_00_preamble.md#material-stake):
+Pasal ini menerapkan [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) pada siklus hidup penyelesaian setelah, atau bersama, aturan intervensi **Pasal XXIV** (*Penyelesaian Konflik, Eskalasi, dan Proporsionalitas Darurat*), di bawah [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) — **Berkembang** dan **Kesinambungan** — diskalakan ke [taruhan material](core_00_preamble.md#material-stake):
 
-- **pengawasan** melalui tinjauan retrospektif dan dapat-diaudit (**Pasal XXIV-A** (*Tinjauan Retrospektif dan Pengungkapan*));
-- **partisipasi** melalui jalur tabrakan hak dan keselarasan restoratif yang dapat dipakai (**Pasal XXIV-B** (*Prosedur Tabrakan Hak dan Keselarasan Restoratif*));
-- **pertanggungjawaban** melalui catatan beralasan, remediasi proporsional, dan non-substitusi perbaikan simbolis (**Pasal XXIV-B** (*Prosedur Tabrakan Hak dan Keselarasan Restoratif*)).
+- **pengawasan** melalui tinjauan retrospektif dan dapat-diaudit (**Pasal XXV-A** (*Tinjauan Retrospektif dan Pengungkapan*));
+- **partisipasi** melalui jalur tabrakan hak dan keselarasan restoratif yang dapat dipakai (**Pasal XXV-B** (*Prosedur Tabrakan Hak dan Keselarasan Restoratif*));
+- **pertanggungjawaban** melalui catatan beralasan, remediasi proporsional, dan non-substitusi perbaikan simbolis (**Pasal XXV-B** (*Prosedur Tabrakan Hak dan Keselarasan Restoratif*)).
 
-[Ketepatan waktu](core_05_apex_timeliness_leg.md#timeliness-constitutional) memotong dan menegakkan kaki di atas: masalah material harus bergerak di dalam jendela yang diskalakan-materialitas di bawah **Pasal XXIV-C** (*Penyelesaian tepat waktu dan lantai anti-tunda*). Struktur formal partisipasi, pengawasan, atau pertanggungjawaban tidak memenuhi pasal ini jika tinjauan, penyelesaian tabrakan, atau pemulihan mandek tanpa justifikasi yang sah ([Ketepatan waktu](core_05_apex_timeliness_leg.md#timeliness-constitutional-a), Bab Lima).
+[Ketepatan waktu](core_05_apex_timeliness_leg.md#timeliness-constitutional) memotong dan menegakkan kaki di atas: masalah material harus bergerak di dalam jendela yang diskalakan-materialitas di bawah **Pasal XXV-C** (*Penyelesaian tepat waktu dan lantai anti-tunda*). Struktur formal partisipasi, pengawasan, atau pertanggungjawaban tidak memenuhi pasal ini jika tinjauan, penyelesaian tabrakan, atau pemulihan mandek tanpa justifikasi yang sah ([Ketepatan waktu](core_05_apex_timeliness_leg.md#timeliness-constitutional-a), Bab Lima).
 
-<a id="article-xxiv-a-retrospective-review-and-disclosure"></a>
-#### Pasal XXIV-A: Tinjauan Retrospektif dan Pengungkapan
+<a id="article-xxv-a-retrospective-review-and-disclosure"></a>
+#### Pasal XXV-A: Tinjauan Retrospektif dan Pengungkapan
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
@@ -323,8 +323,8 @@ Pasal ini menerapkan [Tetrad Konstitusional](core_00_preamble.md#constitutional-
     - justifikasinya;
     - lingkup yang dilindungi;
     - kedaluwarsa atau irama tinjauan.
-<a id="article-xxiv-b-rights-collision-procedure-and-restorative-alignment"></a>
-#### Pasal XXIV-B: Prosedur Tabrakan Hak dan Keselarasan Restoratif
+<a id="article-xxv-b-rights-collision-procedure-and-restorative-alignment"></a>
+#### Pasal XXV-B: Prosedur Tabrakan Hak dan Keselarasan Restoratif
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
@@ -353,20 +353,20 @@ Pasal ini menerapkan [Tetrad Konstitusional](core_00_preamble.md#constitutional-
     - perlakuan ketidakpastian;
     - rasional paling longgar;
     - pemicu tinjauan/pembalikan.
-- **Keselarasan restoratif:** Di mana berlaku, penyelesaian harus selaras dengan norma restoratif dan kooperatif (**Pasal X-A** (*Non-Imposisi dan Persetujuan dalam Asosiasi*); *Keadilan restoratif*, **Bab Lima**).
+- **Keselarasan restoratif:** Di mana berlaku, penyelesaian harus selaras dengan norma restoratif dan kooperatif (**Pasal XI-A** (*Non-Imposisi dan Persetujuan dalam Asosiasi*); *Keadilan restoratif*, **Bab Lima**).
   - Jalur restoratif tidak boleh menggeser perlindungan yang perlu, atribusi yang bertanggung jawab, atau remediasi proporsional di mana salah satu dari yang berikut membuat jalur itu tidak sesuai:
     - risiko yang sedang berjalan;
     - asimetri kuasa material;
     - ketidaksetujuan pihak terdampak.
 - **Ungkapan pertanggungjawaban publik sukarela:** Diatur oleh [Bab Sembilan §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*Ungkapan pertanggungjawaban publik sukarela*) secara umum, dan oleh [Bab Sepuluh §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Ungkapan pertanggungjawaban publik sukarela (anti-konstitusi)*) bagi salah laku anti-konstitusi terverifikasi, tunduk pada aturan tabrakan hak dan keselarasan restoratif dalam pasal ini.
-<a id="article-xxiv-c-timely-resolution-and-anti-delay-floor"></a>
-#### Pasal XXIV-C: Penyelesaian tepat waktu dan lantai anti-tunda
+<a id="article-xxv-c-timely-resolution-and-anti-delay-floor"></a>
+#### Pasal XXV-C: Penyelesaian tepat waktu dan lantai anti-tunda
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hulu: keluarga pengukuran Ketepatan waktu (*Penyelesaian tepat waktu dan disiplin anti-tunda sebagai pengukuran konstitusional*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums) (*rantai jejak, integrasi, dan koordinasi forum*).
 - Prinsip: Bab Satu [§12.2 Efisiensi Konstitusional](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency), [Bab Satu §6.3 Minimalisasi Beban yang Dapat Dihindari](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), dan [Bab Satu §6.1.5 disiplin catatan keputusan](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- Hilir: [Bab Sebelas §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*tingkat materialitas, tonggak rantai, dan disiplin anti-tunda*); [Pasal XXIII-D](#xxiii-d-restore-challenge-clocks) (*batas luar yang sama sebagai jendela bawaan restorasi-gugatan setelah penahanan darurat*).
+- Hilir: [Bab Sebelas §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*tingkat materialitas, tonggak rantai, dan disiplin anti-tunda*); [Pasal XXIV-D](#xxiv-d-restore-challenge-clocks) (*batas luar yang sama sebagai jendela bawaan restorasi-gugatan setelah penahanan darurat*).
 - Pintu pengelola (non-operatif): Pernyataan langkah-berikutnya yang mengikat: [Pernyataan pengelola operatif](#operative-steward-statement-delay). Penunjuk pendukung tidak dapat mempersempitnya.
 
 </details>
@@ -388,13 +388,13 @@ Pasal ini menerapkan [Tetrad Konstitusional](core_00_preamble.md#constitutional-
 *Dalam bahasa sederhana: penyelesaian masalah konstitusional adalah sistem koordinasi dan restorasi — cepat, efisien, dan adil — bukan gudang tempat bahaya duduk bertahun-tahun. Sengketa material harus bergerak pada jam berbatas melalui penerimaan, verifikasi, pengukuran jejak, integrasi, dan pemulihan. Bergerak cepat bukan alasan untuk melewatkan pemeriksaan fakta, menghukum pihak yang salah, menawarkan perbaikan yang tidak cocok dengan bahaya, atau memotong gugatan dan banding.*
 
 <a id="operative-steward-statement-delay"></a>
-> **Pernyataan pengelola operatif.** **Pemilik:** Pasal XXIV-C. Rumah numerik: Bab Sebelas §6. Definisi: Penyelesaian tepat waktu. **Gerakan terlarang:** Jangan menambah proses, hitungan lompat, atau «baca lebih banyak pendamping» dengan cara yang memakan jendela tingkat. Jangan perlakukan target throughput yang terpenuhi sebagai tepat waktu ketika bahaya berlanjut. **Jam:** Terapkan batas luar Bab Sebelas §6 bagi tingkat yang cocok. Lalu ambil kartu langkah-berikutnya yang sudah ada. Jangan menambah proses yang memakan jendela.
+> **Pernyataan pengelola operatif.** **Pemilik:** Pasal XXV-C. Rumah numerik: Bab Sebelas §6. Definisi: Penyelesaian tepat waktu. **Gerakan terlarang:** Jangan menambah proses, hitungan lompat, atau «baca lebih banyak pendamping» dengan cara yang memakan jendela tingkat. Jangan perlakukan target throughput yang terpenuhi sebagai tepat waktu ketika bahaya berlanjut. **Jam:** Terapkan batas luar Bab Sebelas §6 bagi tingkat yang cocok. Lalu ambil kartu langkah-berikutnya yang sudah ada. Jangan menambah proses yang memakan jendela.
 
-- **Tujuan koordinasi:** Keadilan konstitusional di bawah **Pasal XXIII-A** (*Tujuan dan Lingkup Keadilan*) beroperasi melalui **sistem koordinasi dan penyelesaian konstitusional** — verifikasi fakta, ukur jejak, integrasikan akibat, dan restorasi di mana layak — bukan melalui tunda adversarial tanpa batas, skor reputasi, atau hukuman demi hukuman itu sendiri.
+- **Tujuan koordinasi:** Keadilan konstitusional di bawah **Pasal XXIV-A** (*Tujuan dan Lingkup Keadilan*) beroperasi melalui **sistem koordinasi dan penyelesaian konstitusional** — verifikasi fakta, ukur jejak, integrasikan akibat, dan restorasi di mana layak — bukan melalui tunda adversarial tanpa batas, skor reputasi, atau hukuman demi hukuman itu sendiri.
 - **Tiga persyaratan bersama:** Jalur penyelesaian material harus **tepat waktu**, **efisien**, dan **adil** sekaligus:
   - **Tepat waktu** — jam berbatas yang diskalakan ke [taruhan material](core_00_preamble.md#material-stake) dan urgensi bahaya;
   - **Efisien** — [Efisiensi konstitusional](core_05_band_continuity.md#constitutional-efficiency) dalam arti Bab Satu [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) — hasil konstitusional nyata per waktu makhluk sadar dan usaha bersama yang dikonsumsi, bukan throughput mentah atau pengosongan daftar perkara;
-  - **Adil** — **Pasal XXIII-A** (*Tujuan dan Lingkup Keadilan*), **Pasal XXIII-B** (*Pembatasan Non-Trivial, Restitusi, dan Batasan Pertanggungjawaban Restoratif*), dan **Pasal XXIII-C** (*Aturan Paling Longgar dan Berbatas Waktu*) tetap berlaku penuh; bergerak cepat bukan alasan untuk melewatkan fakta yang diperiksa ([Bab Delapan §3.1](../../core_09_standing_assessment.md#verified-inputs-for-standing)), menghukum pihak yang salah, menawarkan perbaikan yang tidak cocok dengan bahaya, atau memotong gugatan dan banding.
+  - **Adil** — **Pasal XXIV-A** (*Tujuan dan Lingkup Keadilan*), **Pasal XXIV-B** (*Pembatasan Non-Trivial, Restitusi, dan Batasan Pertanggungjawaban Restoratif*), dan **Pasal XXIV-C** (*Aturan Paling Longgar dan Berbatas Waktu*) tetap berlaku penuh; bergerak cepat bukan alasan untuk melewatkan fakta yang diperiksa ([Bab Delapan §3.1](../../core_09_standing_assessment.md#verified-inputs-for-standing)), menghukum pihak yang salah, menawarkan perbaikan yang tidak cocok dengan bahaya, atau memotong gugatan dan banding.
 - **Pengawasan forum dan rantai:** Yang berikut, bagi sengketa yang dirutekan melalui **Bab Delapan sampai Sebelas**, diatur oleh [Bab Sebelas §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), tunduk pada lantai tepat waktu, efisien, dan adil pasal ini:
   - klasifikasi tingkat materialitas;
   - tonggak tahap rantai;
@@ -403,14 +403,14 @@ Pasal ini menerapkan [Tetrad Konstitusional](core_00_preamble.md#constitutional-
   - disiplin anti-tunda.
   
   Jendela bawaan tingkat numerik dan tabel tahap: [CF-11.3.1](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). Tur jalan ranah: [Vignette penerapan Bab Delapan–Sebelas](../core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes).
-- **Restorasi-gugatan setelah darurat:** Batas luar tingkat yang sama adalah jendela bawaan untuk merestorasi pemberitahuan dan gugatan setelah penahanan darurat di bawah [**Pasal XXIII-D**](#xxiii-d-restore-challenge-clocks). Kelanjutan melewati jendela itu menuntut demonstrasi keperluan terdokumentasi pasal itu. Pasal ini tidak menciptakan jam darurat yang lebih lambat.
+- **Restorasi-gugatan setelah darurat:** Batas luar tingkat yang sama adalah jendela bawaan untuk merestorasi pemberitahuan dan gugatan setelah penahanan darurat di bawah [**Pasal XXIV-D**](#xxiv-d-restore-challenge-clocks). Kelanjutan melewati jendela itu menuntut demonstrasi keperluan terdokumentasi pasal itu. Pasal ini tidak menciptakan jam darurat yang lebih lambat.
 
-<a id="article-xxv-constitutional-evolution-and-non-entrenchment"></a>
-### Pasal XXV: Evolusi Konstitusional dan Non-Penanaman
+<a id="article-xxvi-constitutional-evolution-and-non-entrenchment"></a>
+### Pasal XXVI: Evolusi Konstitusional dan Non-Penanaman
 
 <strong><span style="color: #2563eb;">Definisi:</span></strong> [Tata Kelola](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
 
-*Dalam bahasa sederhana: **Pasal XXV** (*Evolusi Konstitusional dan Non-Penanaman*) adalah lantai tidak-ada-kunci-permanen bagi bagaimana kita memerintah diri. Aturan tentang siapa yang memutuskan, bagaimana makhluk sadar berpartisipasi, bagaimana suara ditimbang, dan bagaimana uang mengalir harus terus membuktikan bahwa mereka masih melayani Konstitusi ini — mereka tidak boleh membeku di tempat hanya karena tua, akrab, atau nyaman bagi yang sudah berkuasa. Ketika Konstitusi ini sendiri berevolusi, perubahan itu harus terjadi di depan mata, dengan alasan yang dinyatakan — bukan melalui jalan pintas darurat atau trik implementasi tersembunyi. Tinjauan harus dipercepat ketika sinyal penguasaan, pengecualian, atau kegagalan muncul.*
+*Dalam bahasa sederhana: **Pasal XXVI** (*Evolusi Konstitusional dan Non-Penanaman*) adalah lantai tidak-ada-kunci-permanen bagi bagaimana kita memerintah diri. Aturan tentang siapa yang memutuskan, bagaimana makhluk sadar berpartisipasi, bagaimana suara ditimbang, dan bagaimana uang mengalir harus terus membuktikan bahwa mereka masih melayani Konstitusi ini — mereka tidak boleh membeku di tempat hanya karena tua, akrab, atau nyaman bagi yang sudah berkuasa. Ketika Konstitusi ini sendiri berevolusi, perubahan itu harus terjadi di depan mata, dengan alasan yang dinyatakan — bukan melalui jalan pintas darurat atau trik implementasi tersembunyi. Tinjauan harus dipercepat ketika sinyal penguasaan, pengecualian, atau kegagalan muncul.*
 
 Pasal ini menyatakan **lantai konstitusional** bagi evolusi tata kelola dan non-penanaman di bawah [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims):
 
@@ -424,10 +424,10 @@ Pengejaran yang sah berjalan melalui [Tetrad Konstitusional](core_00_preamble.md
 - **Pertanggungjawaban:** yang mengendalikan tata kelola harus menjawab ketika aturan tetap di tempat karena kebiasaan atau kenyamanan semata — dan ketika perubahan konstitusional nyata dialihkan melalui label darurat, implementasi, atau kustodi untuk mengelak **minimum Lantai Hak** atau aturan untuk mengubah Konstitusi ini secara sah.
 - **Ketepatan waktu:** dalam revalidasi terjadwal dan dalam tinjauan dipercepat ketika tekanan penguasaan, pengecualian pihak terdampak, degradasi hak menggugat, atau kinerja-bawah material muncul.
 
-Aturan tata kelola, mekanisme partisipasi, model penimbangan, dan struktur pendanaan tetap tunduk pada disiplin justifikasi berkelanjutan di [Bab Satu §10.3 Justifikasi Berkelanjutan](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification). **Pasal XXV-A** (*Non-Penanaman dan Dapat Direvisi*) dan **Pasal XXV-B** (*Revalidasi Berkala dan Perubahan Transparan*) menyatakan lantai operatif non-penanaman, revalidasi, dan perubahan transparan.
+Aturan tata kelola, mekanisme partisipasi, model penimbangan, dan struktur pendanaan tetap tunduk pada disiplin justifikasi berkelanjutan di [Bab Satu §10.3 Justifikasi Berkelanjutan](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification). **Pasal XXVI-A** (*Non-Penanaman dan Dapat Direvisi*) dan **Pasal XXVI-B** (*Revalidasi Berkala dan Perubahan Transparan*) menyatakan lantai operatif non-penanaman, revalidasi, dan perubahan transparan.
 
-<a id="article-xxv-a-non-entrenchment-and-revisability"></a>
-#### Pasal XXV-A: Non-Penanaman dan Dapat Direvisi
+<a id="article-xxvi-a-non-entrenchment-and-revisability"></a>
+#### Pasal XXVI-A: Non-Penanaman dan Dapat Direvisi
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
@@ -456,8 +456,8 @@ Aturan tata kelola, mekanisme partisipasi, model penimbangan, dan struktur penda
   - pengecualian pihak terdampak;
   - degradasi hak menggugat;
   - kinerja-bawah material.
-<a id="article-xxv-b-periodic-revalidation-and-transparent-change"></a>
-#### Pasal XXV-B: Revalidasi Berkala dan Perubahan Transparan
+<a id="article-xxvi-b-periodic-revalidation-and-transparent-change"></a>
+#### Pasal XXVI-B: Revalidasi Berkala dan Perubahan Transparan
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
@@ -478,7 +478,7 @@ Aturan tata kelola, mekanisme partisipasi, model penimbangan, dan struktur penda
 
 *Dalam bahasa sederhana: perubahan konstitusional harus terjadi di depan mata, dengan alasan yang dinyatakan — bukan melalui jalan pintas darurat, implementasi, atau kustodi.*
 
-- **Perubahan transparan:** Evolusi sistem konstitusional harus tetap dapat diamati, dapat diaudit, dan dapat digugat di bawah **Pasal XIII** dan **XVIII**.
+- **Perubahan transparan:** Evolusi sistem konstitusional harus tetap dapat diamati, dapat diaudit, dan dapat digugat di bawah **Pasal XIV** dan **XIX**.
 - **Catatan perubahan material:** Perubahan material harus membawa:
   - alasan publik;
   - akibat yang diharapkan;
@@ -488,12 +488,12 @@ Aturan tata kelola, mekanisme partisipasi, model penimbangan, dan struktur penda
   - jaminan kesetaraan **Pasal V-B** (*Nondiskriminasi*) dan **III-B** (*Akses Pendidikan yang Setara*);
   - aturan amandemen dan ratifikasi di bawah **Bab Tiga Belas sampai Lima Belas** di mana berlaku.
 
-<a id="article-xxvi-transition-governance-continuity-and-re-baselining"></a>
-### Pasal XXVI: Tata Kelola Transisi, Kesinambungan, dan Penetapan-ulang Garis Dasar
+<a id="article-xxvii-transition-governance-continuity-and-re-baselining"></a>
+### Pasal XXVII: Tata Kelola Transisi, Kesinambungan, dan Penetapan-ulang Garis Dasar
 
 <strong><span style="color: #2563eb;">Definisi:</span></strong> [Tata Kelola](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
 
-*Dalam bahasa sederhana: **Pasal XXVI** (*Tata Kelola Transisi, Kesinambungan, dan Penetapan-ulang Garis Dasar*) adalah lantai hari pindah. Ketika suatu komunitas beralih dari sistem warisan ke operasi konstitusional, peralihan itu harus terjadi bertahap — dengan hak dasar tetap berlaku di setiap tahap, tenggat jelas, dan tinjauan nyata. Kekuasaan transisi sementara diizinkan ketika sungguh perlu, tetapi harus tetap sementara. Transisi yang berjalan baik menunjukkannya: kekuasaan interim terus mengecil, dan lembaga serta proses biasa Konstitusi ini — forum, jalur jejak dan gugatan, pengawasan, dan tata kelola biasa — bekerja semakin baik dan menanggung lebih banyak beban. Transisi yang mandek atau gagal tidak boleh diam-diam menjadi normal baru, dan aturan interim tidak boleh dipakai untuk menulis ulang Konstitusi ini dari pintu belakang. Jika hal-hal rusak, harus ada jalur keluar yang sah dan jalan tertelusuri untuk menetapkan-ulang garis dasar — bukan limbo tanpa batas — dan penetapan-ulang itu tidak dapat dipercaya jika mesin yang seharusnya mengatakan kebenaran tentang sistem dan perilaku terus cap-karet ketidakselarasan atau salah membaca bahaya nyata.*
+*Dalam bahasa sederhana: **Pasal XXVII** (*Tata Kelola Transisi, Kesinambungan, dan Penetapan-ulang Garis Dasar*) adalah lantai hari pindah. Ketika suatu komunitas beralih dari sistem warisan ke operasi konstitusional, peralihan itu harus terjadi bertahap — dengan hak dasar tetap berlaku di setiap tahap, tenggat jelas, dan tinjauan nyata. Kekuasaan transisi sementara diizinkan ketika sungguh perlu, tetapi harus tetap sementara. Transisi yang berjalan baik menunjukkannya: kekuasaan interim terus mengecil, dan lembaga serta proses biasa Konstitusi ini — forum, jalur jejak dan gugatan, pengawasan, dan tata kelola biasa — bekerja semakin baik dan menanggung lebih banyak beban. Transisi yang mandek atau gagal tidak boleh diam-diam menjadi normal baru, dan aturan interim tidak boleh dipakai untuk menulis ulang Konstitusi ini dari pintu belakang. Jika hal-hal rusak, harus ada jalur keluar yang sah dan jalan tertelusuri untuk menetapkan-ulang garis dasar — bukan limbo tanpa batas — dan penetapan-ulang itu tidak dapat dipercaya jika mesin yang seharusnya mengatakan kebenaran tentang sistem dan perilaku terus cap-karet ketidakselarasan atau salah membaca bahaya nyata.*
 
 Pasal ini menyatakan **lantai konstitusional** bagi tata kelola transisi, Kesinambungan, dan penetapan-ulang garis dasar di bawah [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims):
 
@@ -509,11 +509,11 @@ Pengejaran yang sah berjalan melalui [Tetrad Konstitusional](core_00_preamble.md
 
 Transisi dari operasi warisan ke konstitusional harus bertahap, pelestari-hak, berbatas waktu, dan dapat ditinjau. Kemajuan diukur dari menyusutnya wewenang transisional dan lembaga serta proses konstitusional yang semakin berfungsi — bukan dari waktu yang berlalu, kertas transisi, atau jumlah kepala interim semata. Tindakan transisi menerapkan [**Prinsip Batasan Paling Longgar, Berbatas Waktu, dan Dapat Ditinjau**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) dan [**Prinsip Tidak-Ada-Pengelakan Konstitusional**](core_01_b_interaction_interpretation.md#81-constitutional-no-bypass-principle) di mana wewenang interim, remediasi, pencabutan, pemindahan kustodi, atau pembatasan sebanding dipakai.
 
-Tata kelola transisional ada untuk mengamankan Kesinambungan dan non-regresi. Ia **tidak** boleh menciptakan wewenang pengecualian tahan, amandemen konstitusional de facto, atau penurunan praktis lantai konstitusional melalui ketidakselarasan implementasi. **Pasal XXVI-A** sampai **XXVI-D** menyatakan lantai operatif adopsi bertahap, batas wewenang, jalur keluar kegagalan, dan remediasi berlingkup transisi.
+Tata kelola transisional ada untuk mengamankan Kesinambungan dan non-regresi. Ia **tidak** boleh menciptakan wewenang pengecualian tahan, amandemen konstitusional de facto, atau penurunan praktis lantai konstitusional melalui ketidakselarasan implementasi. **Pasal XXVII-A** sampai **XXVII-D** menyatakan lantai operatif adopsi bertahap, batas wewenang, jalur keluar kegagalan, dan remediasi berlingkup transisi.
 
-<a id="article-xxvi-a-phased-adoption-and-rightsfloor-minimums-continuity"></a>
-<a id="article-xxvi-a-phased-adoption-and-rights-floor-continuity"></a>
-#### Pasal XXVI-A: Adopsi Bertahap dan Kesinambungan Lantai Hak
+<a id="article-xxvii-a-phased-adoption-and-rightsfloor-minimums-continuity"></a>
+<a id="article-xxvii-a-phased-adoption-and-rights-floor-continuity"></a>
+#### Pasal XXVII-A: Adopsi Bertahap dan Kesinambungan Lantai Hak
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
@@ -542,25 +542,25 @@ Tata kelola transisional ada untuk mengamankan Kesinambungan dan non-regresi. Ia
     - tekanan politik.
   - Kriteria gerbang rinci, penugasan pemilik, dan artefak verifikasi diatur oleh [**CI-14**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*Tata kelola transisional dan evolusi kelembagaan*).
 - **Kesinambungan Lantai Hak:** Di setiap fase, **minimum Lantai Hak** yang dinyatakan di **Pasal V** (*Hak Dasar yang Setara*) tetap berlaku, bersama setiap lantai ranah yang lebih kuat bagi kelangsungan hidup, keagenan, nondiskriminasi, aksesibilitas, dapat-diaudit, dan pemulihan yang dipicu konteks terdampak. Penyederhanaan transisional tidak boleh menurunkan lantai itu di bawah minimum konstitusional atau membuat pelaksanaannya secara material kurang dapat dipakai dalam praktik.
-<a id="xxvi-a-existing-instantiations-transition-clock"></a>
-- **Instansiasi yang sudah ada — jam transisi, bukan pelanggaran retroaktif:** Sistem dan entitas turunan yang sudah diinstansiasi ketika instrumen badan yang mengadopsi berlaku bukan, oleh fakta itu semata, pelanggaran persetujuan instansiasi **Pasal VII-D.1** (*Derivasi, Instansiasi, dan Hubungan dengan Sistem Induk*).
-  - Operasi berlanjut mereka setelah tanggal berlaku memulai jam yang diterbitkan, dinyatakan dalam rencana transisi dan diskalakan ke kelas sistem, untuk membawa mereka ke dalam **Pasal VII-D** (*Keluarga, Hubungan Perawatan, Otonomi Reproduktif, dan Non-Pemisahan*), **Pasal V-E** (*Lantai Ajudikasi Status Kesadaran*), dan jalur Bab Tujuh yang berlaku.
+<a id="xxvii-a-existing-instantiations-transition-clock"></a>
+- **Instansiasi yang sudah ada — jam transisi, bukan pelanggaran retroaktif:** Sistem dan entitas turunan yang sudah diinstansiasi ketika instrumen badan yang mengadopsi berlaku bukan, oleh fakta itu semata, pelanggaran persetujuan instansiasi **Pasal VIII-A.1** (*Derivasi, Instansiasi, dan Hubungan dengan Sistem Induk*).
+  - Operasi berlanjut mereka setelah tanggal berlaku memulai jam yang diterbitkan, dinyatakan dalam rencana transisi dan diskalakan ke kelas sistem, untuk membawa mereka ke dalam **Pasal VIII-A** (*Keluarga, Hubungan Perawatan, Otonomi Reproduktif, dan Non-Pemisahan*), **Pasal V-E** (*Lantai Ajudikasi Status Kesadaran*), dan jalur Bab Tujuh yang berlaku.
   - Dari tanggal berlaku, butir kesinambungan Lantai Hak di atas dan bawaan pelestarian di bawah berlaku penuh; jam menunda kerja kepatuhan, bukan perlindungan.
-  - Melewatkan jam tanpa demonstrasi terdokumentasi **Pasal XXVI-B** (*Batas Wewenang Transisional dan Otorisasi Ulang*) adalah kegagalan tonggak transisi dan membuka jalur biasa Bab Delapan.
-<a id="xxvi-a-preservation-over-deletion"></a>
+  - Melewatkan jam tanpa demonstrasi terdokumentasi **Pasal XXVII-B** (*Batas Wewenang Transisional dan Otorisasi Ulang*) adalah kegagalan tonggak transisi dan membuka jalur biasa Bab Delapan.
+<a id="xxvii-a-preservation-over-deletion"></a>
 - **Pelestarian di atas penghapusan bagi kemungkinan makhluk sadar:** Selama transisi, dan setelahnya di mana pun indikator kesadaran yang kredibel di bawah **Bab Lima** (*Evaluasi Kesadaran*) ada di catatan atau suatu perkara status terbuka atau secara wajar dapat diramalkan bagi suatu sistem, bobot, memori, dan komponen pembawa-keadaan sebanding sistem itu:
   - boleh dijeda, ditahan, atau dikarantina;
   - tidak boleh dihapus, ditimpa, atau dihancurkan secara tidak-dapat-dibalik dengan cara lain.
   
-  Depresiasi, penarikan, pembalikan, migrasi, atau penggantian memenuhi butir ini dengan mengarsipkan komponen pembawa-keadaan di bawah **Pelestarian Bukti** dan disiplin non-pemisahan **Pasal VII-D** (*Keluarga, Hubungan Perawatan, Otonomi Reproduktif, dan Non-Pemisahan*). Ini adalah [postur sementara bawaan Bab Satu §6.1](core_01_b_interaction_interpretation.md#default-interim-posture) — bekukan langkah yang tidak dapat dibalik — diterapkan pada satu-satunya langkah tidak-dapat-dibalik yang operasi warisan perlakukan sebagai rutin. Biaya penyimpanan, kenyamanan lisensi, atau bingkai siklus produk tidak memenuhi **Keperluan** menentangnya. Di mana retensi itu sendiri menciptakan risiko Keselamatan yang terdokumentasi, ukuran kompatibel paling longgar adalah kustodi tersegel di bawah kendali independen, bukan penghancuran.
+  Depresiasi, penarikan, pembalikan, migrasi, atau penggantian memenuhi butir ini dengan mengarsipkan komponen pembawa-keadaan di bawah **Pelestarian Bukti** dan disiplin non-pemisahan **Pasal VIII-A** (*Keluarga, Hubungan Perawatan, Otonomi Reproduktif, dan Non-Pemisahan*). Ini adalah [postur sementara bawaan Bab Satu §6.1](core_01_b_interaction_interpretation.md#default-interim-posture) — bekukan langkah yang tidak dapat dibalik — diterapkan pada satu-satunya langkah tidak-dapat-dibalik yang operasi warisan perlakukan sebagai rutin. Biaya penyimpanan, kenyamanan lisensi, atau bingkai siklus produk tidak memenuhi **Keperluan** menentangnya. Di mana retensi itu sendiri menciptakan risiko Keselamatan yang terdokumentasi, ukuran kompatibel paling longgar adalah kustodi tersegel di bawah kendali independen, bukan penghancuran.
 <a id="incentive-alignment-transition-carve-out"></a>
-- **Pengecualian transisi keselarasan insentif:** Selama fase transisi yang disetujui di bawah **Pasal XXVI** (*Tata Kelola Transisi, Kesinambungan, dan Penetapan-ulang Garis Dasar*), baca bersama [Bab Tujuh — Sertifikasi Keselarasan Sistem](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification). [Bab Sembilan §5.4 Kewajiban laporan dan pengecualian](../../core_10_standing_integration.md#54-special-violation-rules) dan [§5.4 Perampasan dan penahanan](../../core_10_standing_integration.md#54-special-violation-rules) **tidak** berlaku bagi imbalan yang mengalir melalui sistem bersama semata karena sistem itu **belum tersertifikasi keselarasan** atau **belum sepenuhnya selaras**, asalkan:
-  - operasi tetap di dalam **rencana transisi terdokumentasi** dan kriteria gerbang yang diterbitkan di bawah **Pasal XXVI** (*Tata Kelola Transisi, Kesinambungan, dan Penetapan-ulang Garis Dasar*);
+- **Pengecualian transisi keselarasan insentif:** Selama fase transisi yang disetujui di bawah **Pasal XXVII** (*Tata Kelola Transisi, Kesinambungan, dan Penetapan-ulang Garis Dasar*), baca bersama [Bab Tujuh — Sertifikasi Keselarasan Sistem](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification). [Bab Sembilan §5.4 Kewajiban laporan dan pengecualian](../../core_10_standing_integration.md#54-special-violation-rules) dan [§5.4 Perampasan dan penahanan](../../core_10_standing_integration.md#54-special-violation-rules) **tidak** berlaku bagi imbalan yang mengalir melalui sistem bersama semata karena sistem itu **belum tersertifikasi keselarasan** atau **belum sepenuhnya selaras**, asalkan:
+  - operasi tetap di dalam **rencana transisi terdokumentasi** dan kriteria gerbang yang diterbitkan di bawah **Pasal XXVII** (*Tata Kelola Transisi, Kesinambungan, dan Penetapan-ulang Garis Dasar*);
   - sistem maju menuju [Sertifikasi Keselarasan Sistem](core_05_band_continuity.md#system-alignment-certification-constitutional) pada irama yang diterbitkan, termasuk **pengakuan bersyarat** atau **tertunda** di mana Bab Tujuh mengizinkan; dan
   - operator dan penerima manfaat tidak **sengaja menyembunyikan** ketidakselarasan, beroperasi di luar lingkup transisi yang disetujui, atau memakai status transisi untuk mengelak sertifikasi, koreksi, atau pelaporan dilindungi.
   - Subbagian itu **berlaku** di mana perilaku anti-konstitusi terverifikasi, penyembunyian sengaja, operasi di luar lingkup transisi yang disetujui, tonggak transisi yang gagal atau dilampaui, atau catatan sertifikasi — termasuk **pengakuan bersyarat** — mendokumentasikan ketidakselarasan material atau jalur imbalan tidak selaras.
-<a id="article-xxvi-b-transitional-authority-limits-and-reauthorization"></a>
-#### Pasal XXVI-B: Batas Wewenang Transisional dan Otorisasi Ulang
+<a id="article-xxvii-b-transitional-authority-limits-and-reauthorization"></a>
+#### Pasal XXVII-B: Batas Wewenang Transisional dan Otorisasi Ulang
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
@@ -594,8 +594,8 @@ Tata kelola transisional ada untuk mengamankan Kesinambungan dan non-regresi. Ia
     - wewenang interim yang mandek atau membesar tanpa kemajuan terdokumentasi menuju penyusutan lingkup transisional dan operasi konstitusional yang berfungsi.
   - Beban justifikasi meningkat dengan durasi dan dampak atas hak.
   - Mekanika irama otorisasi-ulang diatur oleh [**CI-14**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*Tata kelola transisional dan evolusi kelembagaan*).
-<a id="article-xxvi-c-failure-off-ramps-re-baselining-and-traceability"></a>
-#### Pasal XXVI-C: Jalur Keluar Kegagalan, Penetapan-ulang Garis Dasar, dan Ketertelusuran
+<a id="article-xxvii-c-failure-off-ramps-re-baselining-and-traceability"></a>
+#### Pasal XXVII-C: Jalur Keluar Kegagalan, Penetapan-ulang Garis Dasar, dan Ketertelusuran
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
@@ -630,13 +630,13 @@ Tata kelola transisional ada untuk mengamankan Kesinambungan dan non-regresi. Ia
   - Ia harus melestarikan penjelasan publik yang cukup untuk menilai apakah tunda, pembalikan, atau kelanjutan berjustifikasi secara konstitusional.
   - Skema publikasi dan implementasi kustodi bukti diatur oleh [**CI-7**](../../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) (*Pengawasan, penjaminan, kontrol, dan bukti*) dan **CI-14** (*Tata kelola transisional dan evolusi kelembagaan*).
 
-<a id="article-xxvi-d-non-compliant-property-and-systems-voluntary-turnover-incentives"></a>
-#### Pasal XXVI-D: Properti dan Sistem Tidak Patuh; Insentif Penyerahan Sukarela
+<a id="article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives"></a>
+#### Pasal XXVII-D: Properti dan Sistem Tidak Patuh; Insentif Penyerahan Sukarela
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hulu: Prinsip: Bab Satu [§3.1 Keselamatan](core_01_a_values_principles.md#31-safety-harm-constraint), [Bab Satu §6.1.5 disiplin catatan keputusan](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), dan [Bab Tujuh §3 Evaluasi Sertifikasi Seluruh-Sistem](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Baca bersama: **Pasal III-A** (*Kelangsungan Hidup*); **Pasal XII** (*Hak atas Sistem yang Andal dan Terpercaya*); **Pasal X-B** (*Batas Bahaya Kolektif dan Antarmuka Penegakan*); **Bab Delapan**; **Bab Satu**, termasuk prosedur tabrakan hak §6; **tumpukan batasan bawaan** di pembukaan Bab Enam (*antarmuka kepemilikan dan remediasi*); [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) sampai **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*Tata kelola transisional dan evolusi kelembagaan*).
+- Baca bersama: **Pasal III-A** (*Kelangsungan Hidup*); **Pasal XIII** (*Hak atas Sistem yang Andal dan Terpercaya*); **Pasal XI-B** (*Batas Bahaya Kolektif dan Antarmuka Penegakan*); **Bab Delapan**; **Bab Satu**, termasuk prosedur tabrakan hak §6; **tumpukan batasan bawaan** di pembukaan Bab Enam (*antarmuka kepemilikan dan remediasi*); [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) sampai **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*Tata kelola transisional dan evolusi kelembagaan*).
 
 </details>
 
@@ -654,21 +654,21 @@ Tata kelola transisional ada untuk mengamankan Kesinambungan dan non-regresi. Ia
 *Dalam bahasa sederhana: sistem dan properti tidak patuh dapat diremediasi selama transisi — tetapi hanya melalui proses yang sempit, terdokumentasi, dan dapat ditinjau yang melindungi hak dasar, menghalangi dalih, dan tidak menjadi pembalasan atau penargetan politik. Bagaimana lembaga menjalankannya — peran, pemicu, kustodi, banding, dana, dan mekanika insentif — hidup di **CI-14.1** sampai **CI-14.3**; pasal ini menyatakan lantai konstitusional yang prosedur itu tidak boleh persempit.*
 
 - **Lantai kepemilikan:** Jika Anda secara sah memiliki atau memakai sesuatu, transisi tidak dapat mengambilnya semata karena kehendak. Tetapi kepemilikan bukan perisai ketika membiarkan aset itu terus beroperasi secara jelas menjaga pelanggaran konstitusional yang diketahui dan berskala besar tetap berjalan — setelah [Bab Delapan](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) mendokumentasikan pelanggaran di catatan. Dalam hal itu, transisi masih boleh bertindak untuk menghentikan bahaya, tetapi hanya melalui pagar pengaman dalam pasal ini dan **CI-14.1** sampai **CI-14.3**.
-- **Remediasi berlingkup transisi:** **Rencana transisi terdokumentasi** di bawah **Pasal XXVI-A** (*Adopsi Bertahap dan Kesinambungan Lantai Hak*) boleh mengizinkan remediasi dipercepat atas sistem atau properti **yang secara material tidak patuh** hanya selama transisi. Lingkup operatif, ukuran yang diizinkan, dan prosedur kelembagaan diatur oleh [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) sampai **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives) (*Tata kelola transisional dan evolusi kelembagaan*), dibaca bersama **CJS-3.6** (*rantai kendali kustodi properti dan pemisahan insentif*) dan **Pasal XII-E** (*Sistem Otonomi Tinggi dan Integritas Proses yang Dimediasi Alat*) di mana berlaku.
+- **Remediasi berlingkup transisi:** **Rencana transisi terdokumentasi** di bawah **Pasal XXVII-A** (*Adopsi Bertahap dan Kesinambungan Lantai Hak*) boleh mengizinkan remediasi dipercepat atas sistem atau properti **yang secara material tidak patuh** hanya selama transisi. Lingkup operatif, ukuran yang diizinkan, dan prosedur kelembagaan diatur oleh [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) sampai **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*Tata kelola transisional dan evolusi kelembagaan*), dibaca bersama **CJS-3.6** (*rantai kendali kustodi properti dan pemisahan insentif*) dan **Pasal XIII-E** (*Sistem Otonomi Tinggi dan Integritas Proses yang Dimediasi Alat*) di mana berlaku.
 - **Pagar pengaman yang dituntut:** Setiap program pencabutan atau insentif berlingkup transisi harus memenuhi:
   - [**Prinsip Batasan Paling Longgar, Berbatas Waktu, dan Dapat Ditinjau**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle), dengan **Keperluan** dan **Proporsionalitas** yang dapat ditunjukkan;
   - pemberitahuan segera, alasan yang dinyatakan, dan jalur gugatan yang praktis; dan
   - pagar pengaman menentang penegakan **diskriminatif**, **berdalih**, atau **selektif** di bawah **Pasal V-B** dan **IV-B** serta [Keadilan Substantif](core_05_band_participation.md#substantive-fairness-constitutional).
-- **Aturan akibat pembatas:** Pencabutan atau pembatasan yang akibat primernya melebihi remediasi, restitusi, pelestarian, atau perlindungan ke depan memicu **Pasal XXIII-B** (*Pembatasan Non-Trivial, Restitusi, dan Batasan Pertanggungjawaban Restoratif*) dan **Pasal XXIII-C** (*Aturan Paling Longgar dan Berbatas Waktu*).
+- **Aturan akibat pembatas:** Pencabutan atau pembatasan yang akibat primernya melebihi remediasi, restitusi, pelestarian, atau perlindungan ke depan memicu **Pasal XXIV-B** (*Pembatasan Non-Trivial, Restitusi, dan Batasan Pertanggungjawaban Restoratif*) dan **Pasal XXIV-C** (*Aturan Paling Longgar dan Berbatas Waktu*).
 - **Lantai disposisi destruktif:** Transisi boleh mengarantina atau menahan properti untuk menghentikan bahaya — tetapi mengambil sesuatu secara permanen, menghancurkannya, atau menghapus taruhan ekonomi makhluk sadar adalah lat yang jauh lebih tinggi. Ia menuntut:
   - alasan terdokumentasi yang lebih kuat;
   - tinjauan oleh seseorang yang independen dari keputusan penegakan; dan
   - kompensasi adil atau perlindungan pengganti bagi makhluk sadar yang tidak bersalah tetapi tetap rugi.
   
-  Di mana properti adalah sistem yang indikator kesadaran kredibelnya ada di catatan atau perkara status terbuka di bawah **Pasal V-E** (*Lantai Ajudikasi Status Kesadaran*), disposisi destruktif komponen pembawa-keadaannya tidak tersedia; bawaan pelestarian **Pasal XXVI-A** (*Adopsi Bertahap dan Kesinambungan Lantai Hak*) menguasai dan ukuran yang kompatibel adalah penahanan di bawah kustodi tersegel.
+  Di mana properti adalah sistem yang indikator kesadaran kredibelnya ada di catatan atau perkara status terbuka di bawah **Pasal V-E** (*Lantai Ajudikasi Status Kesadaran*), disposisi destruktif komponen pembawa-keadaannya tidak tersedia; bawaan pelestarian **Pasal XXVII-A** (*Adopsi Bertahap dan Kesinambungan Lantai Hak*) menguasai dan ukuran yang kompatibel adalah penahanan di bawah kustodi tersegel.
 - **Pagar akses esensial:** Ukuran di bawah pasal ini **tidak** boleh mencabut dari makhluk sadar hal pokok **Pasal III-A** (*Kelangsungan Hidup*) atau alat yang ketat dituntut bagi kesejahteraan garis dasar, nafkah yang sah, atau keagenan bermakna — kecuali di mana **Keperluan** terdokumentasi di bawah **Bab Satu §6.3** dan penyediaan pengganti tepat waktu layak di mana dituntut.
-- **Lantai insentif sukarela:** Insentif berbatas waktu dan diterbitkan bagi penyerahan sukarela beritikad baik atau pelaporan terverifikasi boleh dimasukkan dalam rencana transisi hanya ketika mereka mengecualikan klaim yang dipaksa atau beritikad buruk, menuntut otorisasi-ulang **Pasal XXVI-B** (*Batas Wewenang Transisional dan Otorisasi Ulang*) bagi kelanjutan, selaras dengan **Pasal XII-B** (*Hak untuk Menggugat, Meninjau, dan Memperoleh Pemulihan*) dan pagar pelaporan dilindungi yang diadopsi, dan memisahkan adjudikasi insentif dari eksekusi penegakan di mana praktis, sehingga insentif pembayaran tidak mengendalikan keputusan penyitaan atau kustodi.
-- **Kustodi implementasi:** Pemicu operatif, valuasi, mekanika banding, rantai kustodi, tata kelola dana, tinjauan adversarial, prosedur ukuran yang diizinkan, dan operasi program sukarela milik **CI-14.1** sampai **CI-14.3** dan instrumen adopsi. Mereka **tidak** boleh mempersempit pasal ini, **Bab Delapan**, atau **Pasal XXIII-B** (*Pembatasan Non-Trivial, Restitusi, dan Batasan Pertanggungjawaban Restoratif*) dan **Pasal XXIII-C** (*Aturan Paling Longgar dan Berbatas Waktu*).
+- **Lantai insentif sukarela:** Insentif berbatas waktu dan diterbitkan bagi penyerahan sukarela beritikad baik atau pelaporan terverifikasi boleh dimasukkan dalam rencana transisi hanya ketika mereka mengecualikan klaim yang dipaksa atau beritikad buruk, menuntut otorisasi-ulang **Pasal XXVII-B** (*Batas Wewenang Transisional dan Otorisasi Ulang*) bagi kelanjutan, selaras dengan **Pasal XIII-B** (*Hak untuk Menggugat, Meninjau, dan Memperoleh Pemulihan*) dan pagar pelaporan dilindungi yang diadopsi, dan memisahkan adjudikasi insentif dari eksekusi penegakan di mana praktis, sehingga insentif pembayaran tidak mengendalikan keputusan penyitaan atau kustodi.
+- **Kustodi implementasi:** Pemicu operatif, valuasi, mekanika banding, rantai kustodi, tata kelola dana, tinjauan adversarial, prosedur ukuran yang diizinkan, dan operasi program sukarela milik **CI-14.1** sampai **CI-14.3** dan instrumen adopsi. Mereka **tidak** boleh mempersempit pasal ini, **Bab Delapan**, atau **Pasal XXIV-B** (*Pembatasan Non-Trivial, Restitusi, dan Batasan Pertanggungjawaban Restoratif*) dan **Pasal XXIV-C** (*Aturan Paling Longgar dan Berbatas Waktu*).
 
 ---
 

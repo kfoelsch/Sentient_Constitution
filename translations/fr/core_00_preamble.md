@@ -101,7 +101,7 @@ Là où le chapitre six, le [chapitre sept](../../core_08_a_system_alignment_cer
 - **Examen de forum** ([Chapitre onze](core_11_forum.md#1-purpose-and-role))
   - Les différends ordinaires dans des systèmes déjà autorisés utilisent d’abord la voie de contestation publiée de la [Participation systémique des parties affectées](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster)
   - Si cette voie est encore contestée, manquante, capturée ou ne peut accorder de soulagement, routez selon l’enjeu primaire par des forums supervisés
-  - Ces forums soutiennent la preuve, le transfert licite et les délais en temps sous l’**article XXIV-C** (*Résolution en temps et plancher anti-retard*)
+  - Ces forums soutiennent la preuve, le transfert licite et les délais en temps sous l’**article XXV-C** (*Résolution en temps et plancher anti-retard*)
 
 <a id="33-governance-layers"></a>
 #### 3.3 Couches de gouvernance
@@ -157,7 +157,7 @@ Chaque résumé énonce ce qui revient au chapitre et ce qu’il produit.
 
 **Chapitre six — Droits fondationnels** ([Partie A](../../core_06_rights_part_a.md) · [Partie B](../../core_06_rights_part_b.md) · [Partie C](../../core_06_rights_part_c.md) · [Partie D](../../core_06_rights_part_d.md))
 
-- **Ce qui lui revient :** Énonce le Plancher des droits aux articles **I–XXVI** — l’essentiel de la survie, l’allocation des ressources et l’administration responsable des dépendances, la dignité, l’agence, la participation, la contestation et le recours, les contraintes de justice, l’action en temps sous l’**article XXIV-C** (*Résolution en temps et plancher anti-retard*), et les règles de transition — organisés pour une lecture planète d’abord à travers quatre parties.
+- **Ce qui lui revient :** Énonce le Plancher des droits aux articles **I–XXVII** — l’essentiel de la survie, l’allocation des ressources et l’administration responsable des dépendances, la dignité, l’agence, la participation, la contestation et le recours, les contraintes de justice, l’action en temps sous l’**article XXV-C** (*Résolution en temps et plancher anti-retard*), et les règles de transition — organisés pour une lecture planète d’abord à travers quatre parties.
 - **Ce qu’il produit :** Des protections de droits non négociables et des crochets de recours que les chapitres sept à onze, les forums, la gouvernance et les règles d’amendement doivent respecter — non resserrer, contourner ni vider par procédure ou métriques substituts.
 
 <a id="5-key-practical-process-pipelines"></a>
@@ -211,7 +211,7 @@ Chaque pas ci-dessous énonce ce qui revient au chapitre et ce qu’il produit. 
   - Comment la preuve est soutenue
   - Comment les affaires se transfèrent ou se consolident
   - Comment les règles anti-se-juger-soi-même empêchent des forums capturés d’être le seul foyer final
-  - Les délais sous l’**article XXIV-C** (*Résolution en temps et plancher anti-retard*) empêchent les affaires de rester non résolues si longtemps que le recours ne compte plus
+  - Les délais sous l’**article XXV-C** (*Résolution en temps et plancher anti-retard*) empêchent les affaires de rester non résolues si longtemps que le recours ne compte plus
 - **Ce qu’il produit :** des **constatations vérifiées** qui peuvent ouvrir ou mettre à jour des registres de trajectoire, plus un routage licite vers le recours et la [résolution en temps](../../core_05_band_accountability.md#timely-resolution-constitutional). Les forums supervisent la chaîne ; ils ne remplacent pas la mesure de trajectoire du chapitre huit.
 
 <a id="51-how-the-full-chain-fits-together"></a>
@@ -225,7 +225,7 @@ Chaque pas ci-dessous énonce ce qui revient au chapitre et ce qu’il produit. 
    - **Nature de l’infraction :** Ouvrez un **registre de trajectoire d’infraction** — un dossier borné et contestable de préjudice vérifié et d’échecs de reddition de comptes — et classez la **nature de l’infraction** sur l’Axe d’infraction. Le bon et le préjudice ne se plient jamais en un seul score net ; les registres liés se croisent par référence mais restent séparés.
 3. **Appliquez les effets de trajectoire sur chaque piste** ([Chapitre neuf](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)) — la contribution vérifiée peut accorder une habilitation de compétence et soutenir reconnaissance proportionnée et récompenses matérielles ; l’infraction vérifiée peut déclencher verrous de trajectoire, correction et [recours pour ceux qui ont été lésés](../../core_10_standing_integration.md#41-remedy-and-correction).
 4. **Examen de désignation anticonstitutionnelle** ([Chapitre dix](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)) — si une constatation d’infraction à impact maximal peut aussi satisfaire des critères anticonstitutionnels, le chapitre dix décide si la désignation correspondante s’attache. La désignation ne change pas combien le chapitre huit a déjà trouvé le préjudice grave ; les effets ordinaires du chapitre neuf continuent en parallèle jusqu’à ce qu’une désignation finale déclenche le Verrou de confiance anticonstitutionnel.
-5. **Routez les différends et gardez le recours en temps** ([Chapitre onze](core_11_forum.md#1-purpose-and-role)) — les forums supervisent comment les affaires se meuvent, quelle piste les traite, et si les délais sous l’**article XXIV-C** (*Résolution en temps et plancher anti-retard*) sont tenus pour que le recours ne meure pas dans le retard. Les différends ordinaires suivent le [séquençage des différends](core_11_forum.md#dispute-sequencing). Les forums classent aussi les différends en cinq [niveaux de matérialité](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) qui reflètent l’alphabet de classification des systèmes — de l’urgence critique pour la survie aux affaires privées/contenues — et le routage par défaut de la famille Intégrité s’applique lorsque la désignation finale du chapitre dix est l’enjeu primaire.
+5. **Routez les différends et gardez le recours en temps** ([Chapitre onze](core_11_forum.md#1-purpose-and-role)) — les forums supervisent comment les affaires se meuvent, quelle piste les traite, et si les délais sous l’**article XXV-C** (*Résolution en temps et plancher anti-retard*) sont tenus pour que le recours ne meure pas dans le retard. Les différends ordinaires suivent le [séquençage des différends](core_11_forum.md#dispute-sequencing). Les forums classent aussi les différends en cinq [niveaux de matérialité](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) qui reflètent l’alphabet de classification des systèmes — de l’urgence critique pour la survie aux affaires privées/contenues — et le routage par défaut de la famille Intégrité s’applique lorsque la désignation finale du chapitre dix est l’enjeu primaire.
 
 La [carte de la chaîne de trajectoire du README](../../README.md#standing-pipeline-and-forums) offre une navigation directe pour la chaîne ci-dessus, y compris les apports vérifiés potentiels du chapitre sept vers la mesure de trajectoire.
 

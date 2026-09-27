@@ -87,9 +87,9 @@ Account for expected and credible worst-case conditions in the system's realisti
 
 - **functionally determined** from observed and reasonably foreseeable effects rather than declared intent, structure, or self-description
 - **transparent**, **auditable**, and **subject to challenge** under:
-  - **Article XV-A** (*Auditability and Observable Evidence*)
-  - **Article XV** (*Audit, Transparency, and Independent Verification*)'s verification-access provisions
-  - **Article XII-B** (*Right to Challenge, Review, and Redress*)
+  - **Article XVI-A** (*Auditability and Observable Evidence*)
+  - **Article XVI** (*Audit, Transparency, and Independent Verification*)'s verification-access provisions
+  - **Article XIII-B** (*Right to Challenge, Review, and Redress*)
 - **continuously revalidated** per **CJS-3.18** (*data-retention and lifecycle-integrity terms*)
 
 <a id="14-alignment-status-recognition-and-ambiguity-default"></a>
@@ -103,7 +103,7 @@ Where classification, deployment, or continued operation depends on official con
 - where material ecological exposure exists, it must also support **Environment** forum environmental-alignment component review before final recognition, validation, revalidation, or material release from environmental conditions
 - forum review must be able to inspect the classification rationale, assumptions, evidence, uncertainty, dependency analysis, ecological exposure analysis where material, and monitoring triggers without relying on operator self-description alone
 
-Where ambiguity exists, default to the level that protects **Foundational Rights** (**Chapter Six, Articles IV and VI through IX**), subject to **CJS-3.11** (*distributed and proportional authority terms*) and **CJS-3.7** (*quorum and participatory legitimacy terms*).
+Where ambiguity exists, default to the level that protects **Foundational Rights** (**Chapter Six, Articles IV and VI through X**), subject to **CJS-3.11** (*distributed and proportional authority terms*) and **CJS-3.7** (*quorum and participatory legitimacy terms*).
 
 CS-3 does not stand alone. Joint reading with CS-2, CS-4, CS-5, CJS clusters, and Chapter Five meanings is stated in **[CS-1](cs_01_scope_purpose_identifier_rules.md#operates-in-conjunction-with)** (*joint reading*).
 
@@ -307,11 +307,11 @@ Markets, payment rails, matchers, ranking engines, and other intermediaries stay
 
 - **Market-mediated personal services**
   - Systems that match, dispatch, schedule, settle payment for, or reputation-score **in-person** personal services are presumptively material for dependency, safety, coercion risk, and fairness analysis when impact thresholds are approached — especially where intimacy, bodily contact, private-space or in-home access, or isolated work is involved
-  - Rights Floor: Chapter Six. Institutional interface: [**CI-19**](../corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md). Stewardship scale: **CS-4 — Critical system stewardship**
+  - Rights Floor: Chapter Six. Institutional interface: [**CI-19**](../corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xic_interface.md) (*Vulnerable personal services markets — Article XI-C interface*). Stewardship scale: **CS-4 — Critical system stewardship**
 - **Contingent claims and event markets**
   - Systems that match counterparties, pool stakes, or settle payments based on outside events are presumptively material for incentive, capture, manipulation, and stability analysis
   - Constitutional direction: [Chapter One §12.5 Contingent Claims, Games of Chance, and Event-Contract Markets](../core_01_c_stewardship_capacity_principles.md#125-contingent-claims-games-of-chance-and-event-contract-markets). Stewardship scale: **CS-4 — Critical system stewardship**
-  - Settlement prices or odds alone are **not** enough to settle truth questions under [**Article XIV**](../core_06_rights_part_c.md#article-xiv-info-sphere-integrity) (*Info-Sphere Integrity*) and [**Article XV-A**](../core_06_rights_part_c.md#article-xv-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*)
+  - Settlement prices or odds alone are **not** enough to settle truth questions under [**Article XV**](../core_06_rights_part_c.md#article-xv-info-sphere-integrity) (*Info-Sphere Integrity*) and [**Article XVI-A**](../core_06_rights_part_c.md#article-xvi-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*)
   - This layer does **not** set licensing, criminal, or tax rules for gambling
 
 <a id="63-scarce-capacity-api-and-traffic-priority-handling"></a>
@@ -321,7 +321,7 @@ When a system offers scarce capacity — network access, compute, model inferenc
 
 - **Class A** traffic and API use gets the highest continuity protection when the request or dependent workflow is survival-critical, Rights-Floor-sustaining, emergency-response, or recovery-critical
   - Throttling, queuing, paid tiers, or commercial prioritization must **not** crowd out the minimum safe capacity Class A continuity needs
-  - A narrower emergency cut is allowed only under **Chapter Six, Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*), and only if it stays time-bounded, auditable, and restoration-triggered
+  - A narrower emergency cut is allowed only under **Chapter Six, Article XXIV** (*Conflict Resolution, Escalation, and Emergency Proportionality*), and only if it stays time-bounded, auditable, and restoration-triggered
 - **Class B** traffic and API use gets enough priority to keep dependent systems running normally and to stop cascading degradation into Class A or broader systemic harm
   - Class B may be queued, rate-limited, or degraded **before** Class A when capacity is genuinely short
   - That degradation must be disclosed, proportionate, and designed around workable fallback or recovery paths
@@ -414,7 +414,7 @@ Forum verification under Chapter Eight §2 (*System Class Evaluation*) does **no
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: **[CJS-3.3 audit process home](../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (*shared process — what / why / how / when*); **[CJS-3.4](../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure)** (*access tiers and output disclosure*); **CJS-3.5** (*claim checking*); **[CS-2 — Information types and handling](cs_02_a_information_types_and_handling.md)** (*typing*).
-- This subsection does **not** relocate the process home or Rights Floor (**Article XV** / **Article XV-A**).
+- This subsection does **not** relocate the process home or Rights Floor (**Article XVI** / **Article XVI-A**).
 
 </details>
 
@@ -434,9 +434,9 @@ Forum verification under Chapter Eight §2 (*System Class Evaluation*) does **no
 
 *System Classification Record duty:* let affected sentients contest the file.
 
-- **Required:** The right to challenge the System Classification Record is required under [§1.3 Mandatory, functional classification](#13-mandatory-functional-classification) (**Article XII-B**).
+- **Required:** The right to challenge the System Classification Record is required under [§1.3 Mandatory, functional classification](#13-mandatory-functional-classification) (**Article XIII-B**).
 - **What systems must offer:** challenge routes sentients can actually use; good-faith, timely review; and reasoned answers — including evidence of misclassification or hidden impact, and requests for review or reclassification of the record.
-- **Why:** so class findings that feed System Alignment Certification stay challengeable under **Article XII-B** and, when inside an active certification record, under **[Part B §§12 and 14](../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)**.
+- **Why:** so class findings that feed System Alignment Certification stay challengeable under **Article XIII-B** and, when inside an active certification record, under **[Part B §§12 and 14](../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)**.
 - **For Class A, B, and C:** if an internal dispute about the System Classification Record cannot be resolved, escalation to external or independent review must remain available.
 - **When the challenge concerns classification assumptions, class assignment, or related evidence inside an active System Certification Record:** the contestability chain in **[Chapter Eight Part B §12 Transparency, Auditability, and Contestability](../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)** and **[Chapter Eight §14 Supervisory Sequence and Contestability Chain](../core_08_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain)** applies, and material challenges may reopen review under **[Part B §16 Reopening, Misalignment, and Non-Evasion](../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion)**.
 

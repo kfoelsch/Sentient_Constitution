@@ -184,7 +184,7 @@
     - स्रोत संरक्षण;
     - जाँच; और
     - प्रकाशन।
-    वह काम करने वाले संज्ञ प्राणी [अभिव्यक्ति](core_05_band_participation.md#expression-constitutional) और [सभा](core_05_band_participation.md#assembly-constitutional) अधिकार-तल का प्रयोग करते हैं, [अनुच्छेद V-H](../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press) (*अभिव्यक्ति, सभा, और प्रेस*) के अधीन ऊँची-जाँच संरक्षण के साथ राज्य और संचालक कार्रवाई के विरुद्ध जो उस गतिविधि को क्षीण करने के लिए की गई हो।
+    वह काम करने वाले संज्ञ प्राणी [अभिव्यक्ति](core_05_band_participation.md#expression-constitutional) और [सभा](core_05_band_participation.md#assembly-constitutional) अधिकार-तल का प्रयोग करते हैं, [अनुच्छेद V-H](../../core_06_rights_part_b.md#article-x-g-expression-assembly-and-press) (*अभिव्यक्ति, सभा, और प्रेस*) के अधीन ऊँची-जाँच संरक्षण के साथ राज्य और संचालक कार्रवाई के विरुद्ध जो उस गतिविधि को क्षीण करने के लिए की गई हो।
   - **दायरे से बाहर:** प्रेस प्रमाणपत्र, संस्थागत पदवियाँ, या साधारण वाणिज्यिक वाक् जो समाचार-संग्रह, जाँच, या पत्रकारिता के रूप में काम करने वाला प्रकाशन नहीं है।
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **कैसे मापें और आकलन करें**
@@ -195,11 +195,11 @@
     - स्रोत संरक्षण;
     - जाँच; या
     - प्रकाशन जो सूचना वातावरण की सेवा करे।
-    उन कार्रवाइयों को पहचानें जो वास्तविक प्रभाव से प्रेस क्षीण करें, और प्रेस-निर्देशित चरित्र को **अनुच्छेद XIII-A** (*सुरक्षा, आसूचना, और गुप्त-शक्ति सीमाएँ*) तथा **अनुच्छेद V-H** (*अभिव्यक्ति, सभा, और प्रेस*) के अधीन गंभीरता बढ़ाने वाला कारक मानें। ऊँची [आवश्यकता](core_05_band_accountability.md#necessity) और [आनुपातिकता](core_05_band_accountability.md#proportionality) जाँच लागू करें, और कोई भी सीमा संकीर्ण रूप से अनुकूलित रखें।
+    उन कार्रवाइयों को पहचानें जो वास्तविक प्रभाव से प्रेस क्षीण करें, और प्रेस-निर्देशित चरित्र को **अनुच्छेद XIV-A** (*सुरक्षा, आसूचना, और गुप्त-शक्ति सीमाएँ*) तथा **अनुच्छेद V-H** (*अभिव्यक्ति, सभा, और प्रेस*) के अधीन गंभीरता बढ़ाने वाला कारक मानें। ऊँची [आवश्यकता](core_05_band_accountability.md#necessity) और [आनुपातिकता](core_05_band_accountability.md#proportionality) जाँच लागू करें, और कोई भी सीमा संकीर्ण रूप से अनुकूलित रखें।
 <a id="press-and-journalistic-activity-constitutional-c"></a>
 - **क्या टिकना चाहिए**
   - **प्राथमिक विफलता:** राज्य या संचालक कार्रवाई जो पत्रकारीय गतिविधि क्षीण करने के लिए की गई और ऊँची-जाँच सीमा विश्लेषण में विफल हो;
-  - **द्वितीयक विफलता:** [सद्भाव](core_05_band_accountability.md#good-faith) या **अनुच्छेद VIII-C** (*सत्यनिष्ठ प्रकाशन और उच्च-प्रभाव प्रकाशन सीमाएँ*) को खींचना ताकि वे मानक वैध आलोचनात्मक रिपोर्टिंग, जाँच प्रकाशन, या असहमति रोकें;
+  - **द्वितीयक विफलता:** [सद्भाव](core_05_band_accountability.md#good-faith) या **अनुच्छेद IX-C** (*सत्यनिष्ठ प्रकाशन और उच्च-प्रभाव प्रकाशन सीमाएँ*) को खींचना ताकि वे मानक वैध आलोचनात्मक रिपोर्टिंग, जाँच प्रकाशन, या असहमति रोकें;
   - **तृतीयक विफलता:** प्रमाणपत्र, संस्थागत स्थिति, या साधारण वाणिज्यिक वाक् को पत्रकारिता परीक्षा मानना जबकि समाचार-संग्रह, जाँच, या पत्रकारिता के रूप में काम करने वाला प्रकाशन अनुपस्थित हो।
 
 ---
@@ -661,7 +661,7 @@
 
 जहाँ प्रवेश दायरा पूरा हो, यह समूह प्रकटीकरण, लेखापरीक्षा, सत्यापन (बाह्य पता-योग्यता सहित), और आश्वासन गहराई का संयुक्त घर है जब अध्याय दो से चार माँगें कि प्रणाली क्या करती है और अनुपालन दावे टिकते हैं या नहीं इसका पता-योग्य, चुनौती-योग्य साक्ष्य हो।
 
-**निगरानी ढाँचा।** [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) **निगरानी** टाँग के अधीन, निगरानी लेखापरीक्षा माँगती है — क्या हुआ पुनर्निर्माण कर सकना, उसे स्वतंत्र सत्यापित करना, और लेखापरीक्षा पहुँच पाना — यहाँ और **अनुच्छेद XV** (*लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन*) पर स्वामित्व। [प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) अन्य के बीच एक विशेष रूप से बड़ी, उच्च-दाँव लेखापरीक्षा प्रक्रिया है (मंच-पर्यवेक्षित संरेखण समीक्षा [अध्याय सात](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) के अधीन मान्यता परिणामों के साथ); यह इस समूह को निगलती नहीं और सहोदर लेखापरीक्षा ढंगों का स्थान नहीं लेती।
+**निगरानी ढाँचा।** [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) **निगरानी** टाँग के अधीन, निगरानी लेखापरीक्षा माँगती है — क्या हुआ पुनर्निर्माण कर सकना, उसे स्वतंत्र सत्यापित करना, और लेखापरीक्षा पहुँच पाना — यहाँ और **अनुच्छेद XVI** (*लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन*) पर स्वामित्व। [प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) अन्य के बीच एक विशेष रूप से बड़ी, उच्च-दाँव लेखापरीक्षा प्रक्रिया है (मंच-पर्यवेक्षित संरेखण समीक्षा [अध्याय सात](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) के अधीन मान्यता परिणामों के साथ); यह इस समूह को निगलती नहीं और सहोदर लेखापरीक्षा ढंगों का स्थान नहीं लेती।
 
 **प्रणाली वर्ग और आनुपातिकता।** पारदर्शिता, लेखापरीक्षा-योग्यता, और सत्यापन कर्तव्य **[corpus_systems.md](../../corpus_systems.md), CS-3 — प्रणाली वर्गीकरण और संचालन** के अधीन प्रणाली वर्ग के साथ, और तात्विक प्रभाव, निर्भरता, और जोखिम के साथ स्केल करते हैं। ऊँचे-वर्ग प्रणालियों (**Class A**, **B**, **C**) को नीची-वर्ग प्रणालियों (**Class L**, **P**) से अधिक चाहिए, सहित:
 - गहरी आश्वासन;
@@ -881,8 +881,8 @@
 
 - समूह घटक: [Def.O1 *पारदर्शिता, लेखापरीक्षा-योग्यता और सत्यापन*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster)।
 - साथ पढ़ें: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **निगरानी** टाँग; [जवाबदेही](core_05_apex_accountability_leg.md#accountability), [चुनौती-योग्यता](core_05_band_accountability.md#contestability), [ज्ञानमीमांसीय अखंडता](core_05_band_oversight.md#epistemic-integrity), [पारदर्शिता](core_05_band_oversight.md#transparency), [सत्यापन-योग्यता](core_05_band_oversight.md#verifiability), [साक्ष्य संरक्षण](core_05_band_oversight.md#evidence-preservation), और [आकलन पूर्णता बंधन](core_05_band_oversight.md#evaluation-completeness-constraint)।
-- साथ पढ़ें: **अनुच्छेद XV** (*लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन*); [प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) (*निगरानी के अधीन एक विशेष रूप से बड़ी लेखापरीक्षा प्रक्रिया — एकमात्र लेखापरीक्षा घर नहीं*); [core_02_definition_structure.md](core_02_definition_structure.md) अध्याय दो से चार में स्वामी-परत यांत्रिकी।
-- उत्तरदायी-प्रबंधन द्वार (गैर-संक्रियात्मक): यह परिभाषा लेखापरीक्षा ढेर की गुण परत है। बाध्यकारी अगला-कदम कथन: [संक्रियात्मक उत्तरदायी-प्रबंधन कथन (अनुच्छेद XV)](../../core_06_rights_part_c.md#operative-steward-statement-audit)। तीन-परत चित्र: [अनुच्छेद XV](../../core_06_rights_part_c.md#audit-three-layers)।
+- साथ पढ़ें: **अनुच्छेद XVI** (*लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन*); [प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) (*निगरानी के अधीन एक विशेष रूप से बड़ी लेखापरीक्षा प्रक्रिया — एकमात्र लेखापरीक्षा घर नहीं*); [core_02_definition_structure.md](core_02_definition_structure.md) अध्याय दो से चार में स्वामी-परत यांत्रिकी।
+- उत्तरदायी-प्रबंधन द्वार (गैर-संक्रियात्मक): यह परिभाषा लेखापरीक्षा ढेर की गुण परत है। बाध्यकारी अगला-कदम कथन: [संक्रियात्मक उत्तरदायी-प्रबंधन कथन (अनुच्छेद XVI)](../../core_06_rights_part_c.md#operative-steward-statement-audit)। तीन-परत चित्र: [अनुच्छेद XVI](../../core_06_rights_part_c.md#audit-three-layers)।
 
 </details>
 
@@ -1075,7 +1075,7 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - समूह घटक: [Def.O1 *पारदर्शिता, लेखापरीक्षा-योग्यता और सत्यापन*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster)।
-- स्वामी तल: व्यावहारिक सत्यापन पहुँच के लिए [अनुच्छेद XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility) (*सत्यापन सुगम्यता*)।
+- स्वामी तल: व्यावहारिक सत्यापन पहुँच के लिए [अनुच्छेद XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility) (*सत्यापन सुगम्यता*)।
 - साथ पढ़ें: [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#auditability), [पारदर्शिता](core_05_band_oversight.md#transparency), [चुनौती-योग्यता](core_05_band_accountability.md#contestability), [आनुपातिकता](core_05_band_accountability.md#proportionality), [व्यवहार्यता](core_05_band_accountability.md#feasibility), [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint), और [विरोधी, स्केल और शोषित शर्तें](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions)।
 
 </details>
@@ -1087,7 +1087,7 @@
 - **यह क्या है**
   - **दायरे में:** प्रणाली आचरण, निर्गम, और प्रभाव [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#auditability) के लिए बाह्य रूप से पता लगाए, मापे, और स्वतंत्र सत्यापित किए जा सकते हैं या नहीं। संघटक शर्तें:
     - स्वतंत्र सत्यापन गिनने से पहले बाह्य पता-योग्यता;
-    - व्यावहारिक पहुँच ([अनुच्छेद XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility); [व्यवहार्यता](core_05_band_accountability.md#feasibility));
+    - व्यावहारिक पहुँच ([अनुच्छेद XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [व्यवहार्यता](core_05_band_accountability.md#feasibility));
     - संचालक आत्म-दावे से स्वतंत्रता;
     - [आनुपातिकता](core_05_band_accountability.md#proportionality) और [तात्विक प्रभाव](core_05_band_oversight.md#material-impact) के अधीन आनुपातिक भार; और
     - साधारण तनाव, दुरुपयोग, और [विरोधी, स्केल और शोषित शर्तें](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) के अधीन विश्वसनीयता।
@@ -1112,7 +1112,7 @@
   - **द्वितीयक माप:** [निगरानी मापन परिवार](core_05_apex_oversight_leg.md#oversight-measurement-family) — *क्या संज्ञ प्राणी देख, सत्यापित और भरोसा कर सकते हैं कि प्रणालियाँ क्या दर्शाती हैं?* इसे यहाँ पूछने के लिए इस्तेमाल करें कि प्रेक्षित आचरण व्यवहार में पुनरुत्पादनीय विधियों से स्वतंत्र सत्यापित किया जा सकता है या नहीं।
 
     **द्वितीयक आकलन:** उन विधियों से स्वतंत्र सत्यापन पुष्टि करें जो:
-    - प्रभावित और उचित रूप से प्राधिकृत पक्ष वास्तव में कर सकें ([अनुच्छेद XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility); [व्यवहार्यता](core_05_band_accountability.md#feasibility));
+    - प्रभावित और उचित रूप से प्राधिकृत पक्ष वास्तव में कर सकें ([अनुच्छेद XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [व्यवहार्यता](core_05_band_accountability.md#feasibility));
     - बाह्य रूप से पता-योग्य साक्ष्य पर टिकें — आंतरिक दावों या अनुमानित आशय पर नहीं;
     - [आनुपातिकता](core_05_band_accountability.md#proportionality) और [तात्विक प्रभाव](core_05_band_oversight.md#material-impact) के अधीन प्रणाली प्रभाव के आकार के हों; और
     - साधारण तनाव, दुरुपयोग, और [विरोधी, स्केल और शोषित शर्तें](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) के अधीन विश्वसनीय रहें।
@@ -1225,7 +1225,7 @@
     सद्भाव प्रेक्षण और सीमाबद्ध व्याख्या से, [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint) और [सद्भाव](core_05_band_accountability.md#good-faith) के अधीन।
 <a id="publication-truthfulness-and-recklessness-floor-c"></a>
 - **क्या टिकना चाहिए**
-  - प्रेक्षणों, साक्ष्य, और सीमाबद्ध व्याख्याओं का सद्भाव प्रकाशन अध्याय ग्यारह **अनुच्छेद VIII**, **XII**, और **XIII** द्वारा शासित है जहाँ लागू हो और इस समूह को संयुक्त रूप से [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint), [सद्भाव](core_05_band_accountability.md#good-faith), और [ज्ञानमीमांसीय अखंडता](core_05_band_oversight.md#epistemic-integrity) के अधीन संतुष्ट करना चाहिए।
+  - प्रेक्षणों, साक्ष्य, और सीमाबद्ध व्याख्याओं का सद्भाव प्रकाशन अध्याय ग्यारह **अनुच्छेद IX**, **XIII**, और **XIV** द्वारा शासित है जहाँ लागू हो और इस समूह को संयुक्त रूप से [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint), [सद्भाव](core_05_band_accountability.md#good-faith), और [ज्ञानमीमांसीय अखंडता](core_05_band_oversight.md#epistemic-integrity) के अधीन संतुष्ट करना चाहिए।
   - **प्राथमिक विफलता:** जानबूझकर असत्य प्रकाशन, या प्रकाशन निम्न की लापरवाह उपेक्षा के साथ:
     - यथार्थता;
     - अनिश्चितता;

@@ -184,7 +184,7 @@
     - ذرائع کا تحفظ؛
     - تحقیق؛ اور
     - اشاعت۔
-    Sentients doing that work exercise the [اظہار](core_05_band_participation.md#expression-constitutional) and [اجتماع](core_05_band_participation.md#assembly-constitutional) حقوق کی تہہ, with heightened-scrutiny protection under [دفعہ V-H](../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
+    Sentients doing that work exercise the [اظہار](core_05_band_participation.md#expression-constitutional) and [اجتماع](core_05_band_participation.md#assembly-constitutional) حقوق کی تہہ, with heightened-scrutiny protection under [دفعہ V-H](../../core_06_rights_part_b.md#article-x-g-expression-assembly-and-press) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
   - **دائرے سے باہر:** press credentials, institutional titles, or ordinary commercial speech that is not newsgathering, investigation, or publication functioning as journalism.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **کیسے ناپیں اور جانچیں**
@@ -195,11 +195,11 @@
     - ذرائع کا تحفظ؛
     - investigation; or
     - publication that serves the information environment.
-    Spot actions that impair the press by their real effect, and treat press-directed character as an aggravating factor under **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) and **Article V-H** (*Expression, Assembly, and Press*). Apply heightened [ضرورت](core_05_band_accountability.md#necessity) and [تناسب](core_05_band_accountability.md#proportionality) scrutiny, and keep any limit narrowly tailored.
+    Spot actions that impair the press by their real effect, and treat press-directed character as an aggravating factor under **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) and **Article V-H** (*Expression, Assembly, and Press*). Apply heightened [ضرورت](core_05_band_accountability.md#necessity) and [تناسب](core_05_band_accountability.md#proportionality) scrutiny, and keep any limit narrowly tailored.
 <a id="press-and-journalistic-activity-constitutional-c"></a>
 - **کیا قائم رہنا چاہیے**
   - **بنیادی ناکامی:** state or operator actions meant to impair journalistic activity that fail heightened-scrutiny limits analysis;
-  - **ثانوی ناکامی:** stretching [حسن نیت](core_05_band_accountability.md#good-faith) or **Article VIII-C** (*Truthful Publication and High-Impact Publication Limits*) so those standards block lawful critical reporting, investigative publication, or dissent;
+  - **ثانوی ناکامی:** stretching [حسن نیت](core_05_band_accountability.md#good-faith) or **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) so those standards block lawful critical reporting, investigative publication, or dissent;
   - **ثالثی ناکامی:** credentials, institutional status, or ordinary commercial speech used as the journalism test while newsgathering, investigation, or publication that functions as journalism is absent.
 
 ---
@@ -661,7 +661,7 @@ Outside that scope, individual entries may still apply on their own without impo
 
 Where admission scope is met, this cluster is the joint home for disclosure, audit, verification (including external detectability), and assurance depth when باب دوم تا چہارم require traceable, challengeable evidence of what a system does and whether compliance claims hold.
 
-**نگرانی کا ڈھانچہ۔** Under the [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XV** (*Audit, Transparency, and Independent Verification*). [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [باب ہفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
+**نگرانی کا ڈھانچہ۔** Under the [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XVI** (*Audit, Transparency, and Independent Verification*). [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [باب ہفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
 
 **نظام کی قسم اور تناسب۔** Transparency, auditability, and verification duties scale with system class under **[corpus_systems.md](../../corpus_systems.md), CS-3 — نظام کی درجہ بندی اور ہینڈلنگ**, and with material impact, dependency, and risk. Higher-class systems (**Class A**, **B**, **C**) need more than lower-class systems (**Class L**, **P**), including:
 - گہری یقین دہانی؛
@@ -881,8 +881,8 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 
 - جھرمٹ جزو: [Def.O1 شفافیت، آڈٹ پذیری، اور تصدیق](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - ساتھ پڑھیں: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [جوابدہی](core_05_apex_accountability_leg.md#accountability), [چیلنج پذیری](core_05_band_accountability.md#contestability), [حقائق کی دیانت](core_05_band_oversight.md#epistemic-integrity), [شفافیت](core_05_band_oversight.md#transparency), [تصدیق پذیری](core_05_band_oversight.md#verifiability), [ثبوت کا تحفظ](core_05_band_oversight.md#evidence-preservation), and [جائزے کی تکمیل کی پابندی](core_05_band_oversight.md#evaluation-completeness-constraint).
-- ساتھ پڑھیں: **Article XV** (*Audit, Transparency, and Independent Verification*); [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) باب دوم تا چہارم.
-- Steward door (non-operative): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Article XV)](../../core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Article XV](../../core_06_rights_part_c.md#audit-three-layers).
+- ساتھ پڑھیں: **Article XVI** (*Audit, Transparency, and Independent Verification*); [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) باب دوم تا چہارم.
+- Steward door (non-operative): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Article XVI)](../../core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Article XVI](../../core_06_rights_part_c.md#audit-three-layers).
 
 </details>
 
@@ -1075,7 +1075,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - جھرمٹ جزو: [Def.O1 شفافیت، آڈٹ پذیری، اور تصدیق](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Owner floor: [Article XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
+- Owner floor: [Article XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
 - ساتھ پڑھیں: [آڈٹ پذیری](core_05_band_oversight.md#auditability), [شفافیت](core_05_band_oversight.md#transparency), [چیلنج پذیری](core_05_band_accountability.md#contestability), [تناسب](core_05_band_accountability.md#proportionality), [عمل پذیری](core_05_band_accountability.md#feasibility), [سچائی (آئینی پابندی)](core_05_band_oversight.md#truth-constitutional-constraint), and [مخالفانہ، پیمانہ شدہ، اور استحصالی شرائط](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 
 </details>
@@ -1087,7 +1087,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - **یہ کیا ہے**
   - **دائرے میں:** Whether system behavior, outputs, and effects can be externally detected, measured, and independently validated for [آڈٹ پذیری](core_05_band_oversight.md#auditability). Constitutive conditions:
     - external detectability before independent validation counts;
-    - practical access ([Article XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility); [عمل پذیری](core_05_band_accountability.md#feasibility));
+    - practical access ([Article XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [عمل پذیری](core_05_band_accountability.md#feasibility));
     - independence from operator self-assertion;
     - proportionate burden under [تناسب](core_05_band_accountability.md#proportionality) and [مادی اثر](core_05_band_oversight.md#material-impact); and
     - reliability under ordinary stress, misuse, and [مخالفانہ، پیمانہ شدہ، اور استحصالی شرائط](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1112,7 +1112,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
   - **ثانوی پیمائش:** [نگرانی پیمائش خاندان](core_05_apex_oversight_leg.md#oversight-measurement-family) — *کیا شعوری وجود دیکھ، تصدیق اور بھروسہ کر سکتے ہیں کہ نظام کیا پیش کرتے ہیں؟* یہاں پوچھنے کے لیے اسے استعمال کریں کہ آیا observed behavior can be independently validated by reproducible methods in practice.
 
     **ثانوی جائزہ:** Confirm independent validation by methods that:
-    - affected and appropriately authorized parties can actually perform ([Article XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility); [عمل پذیری](core_05_band_accountability.md#feasibility));
+    - affected and appropriately authorized parties can actually perform ([Article XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [عمل پذیری](core_05_band_accountability.md#feasibility));
     - rest on externally detectable evidence — not internal claims or inferred intent;
     - are sized to system impact under [تناسب](core_05_band_accountability.md#proportionality) and [مادی اثر](core_05_band_oversight.md#material-impact); and
     - remain reliable under ordinary stress, misuse, and [مخالفانہ، پیمانہ شدہ، اور استحصالی شرائط](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1225,7 +1225,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     from good-faith observation and bounded interpretation, under [سچائی (آئینی پابندی)](core_05_band_oversight.md#truth-constitutional-constraint) and [حسن نیت](core_05_band_accountability.md#good-faith).
 <a id="publication-truthfulness-and-recklessness-floor-c"></a>
 - **کیا قائم رہنا چاہیے**
-  - Good-faith publication of observations, evidence, and bounded interpretations is governed by باب یازدهم **Articles VIII**, **XII**, and **XIII** as applicable and must satisfy this cluster jointly under [سچائی (آئینی پابندی)](core_05_band_oversight.md#truth-constitutional-constraint), [حسن نیت](core_05_band_accountability.md#good-faith), and [حقائق کی دیانت](core_05_band_oversight.md#epistemic-integrity).
+  - Good-faith publication of observations, evidence, and bounded interpretations is governed by باب یازدهم **Articles IX**, **XIII**, and **XIV** as applicable and must satisfy this cluster jointly under [سچائی (آئینی پابندی)](core_05_band_oversight.md#truth-constitutional-constraint), [حسن نیت](core_05_band_accountability.md#good-faith), and [حقائق کی دیانت](core_05_band_oversight.md#epistemic-integrity).
   - **بنیادی ناکامی:** knowingly false publication, or publication made with reckless disregard for:
     - accuracy;
     - uncertainty;

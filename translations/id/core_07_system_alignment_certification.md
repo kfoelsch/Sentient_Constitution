@@ -32,7 +32,7 @@
 *Dalam bahasa sederhana: Bab Tujuh terbagi dua — Bagian A untuk cara mengevaluasi, Bagian B untuk catatan dan proses. Bacalah keduanya sebagai satu bab.*
 
 Baca **Bagian A** dulu untuk persyaratan evaluasi; **Bagian B** untuk catatan, proses forum, dan jembatan jejak.
-Di bawah kaki Tetrad **pengawasan**, pengawasan menuntut audit; Bab Tujuh adalah satu proses audit yang sangat besar dan bertaruhan tinggi di antara yang lain (tinjauan keselarasan yang disupervisi forum dengan hasil pengakuan). Lantai audit tetap pada **Pasal XV** dan [Dapat diaudit](core_05_band_oversight.md#auditability) Bab Lima.
+Di bawah kaki Tetrad **pengawasan**, pengawasan menuntut audit; Bab Tujuh adalah satu proses audit yang sangat besar dan bertaruhan tinggi di antara yang lain (tinjauan keselarasan yang disupervisi forum dengan hasil pengakuan). Lantai audit tetap pada **Pasal XVI** dan [Dapat diaudit](core_05_band_oversight.md#auditability) Bab Lima.
 - [Bab Tujuh, Bagian A — Evaluasi](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
 - [Bab Tujuh, Bagian B — Catatan dan Proses](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process)
 ---

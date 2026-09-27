@@ -636,7 +636,7 @@ La persecución legítima discurre a través de la [Tétrada Constitucional](cor
 - **Encarnación y estados internos:** Los **Artículos VII-A** y **VII-B** enuncian la protección de la encarnación y del estado interno.
 - **Semejanza, datos y publicación:** El **Artículo VIII** (*Semejanza, datos experienciales y derechos de publicación*) aborda la semejanza, los datos experienciales y derivados, y la publicación veraz.
 
-<a id="article-vii-a-self-ownership-of-body-and-mind"></a>
+<a id="article-vii-a-self-ownership-of-body"></a>
 #### Artículo VII-A: Autopropiedad del cuerpo y la mente
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
@@ -675,7 +675,7 @@ La persecución legítima discurre a través de la [Tétrada Constitucional](cor
 - **Autopropiedad de la mente:** Los sencientes tienen el derecho a sostener sus propios pensamientos, emociones y estados cognitivos internos de forma privada y segura, libres de inferencia, reconstrucción o exposición no autorizadas.
 - **Autopropiedad del foco:** Los sencientes tienen el derecho a gobernar su propia atención, procesos de pensamiento y fronteras ordinarias de comunicación e interacción, libres de captura coercitiva o manipuladora.
 
-<a id="article-vii-b-internal-state-boundary-and-type-n-protection"></a>
+<a id="article-vii-b-self-ownership-of-mind"></a>
 #### Artículo VII-B: Frontera del estado interno y protección de tipo N
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
@@ -711,7 +711,7 @@ Donde el análisis de datos experienciales o de conducta produce resultados que 
 - deben tratarse como datos de Tipo N según se definen en **[corpus_systems.md](../../corpus_systems.md), CS-2 — Tipos de información y manejo**;
 - deben satisfacer todas las restricciones correspondientes de clasificación, acceso, consentimiento y manejo.
 
-<a id="article-vii-c-mental-health-crisis-and-involuntary-intervention-floor"></a>
+<a id="article-vii-c-health-crisis-and-involuntary-intervention-floor"></a>
 #### Artículo VII-C: Piso de crisis de salud mental e intervención involuntaria
 
 <details>

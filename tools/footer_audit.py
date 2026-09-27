@@ -113,7 +113,7 @@ CI_CHAIN = tuple(
         "ci_16_care_labor_dependent_support_respite_care_economy_fairness.md",
         "ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md",
         "ci_18_collective_public_health_epidemic_response_addiction_informed_care.md",
-        "ci_19_vulnerable_personal_services_markets_article_xc_interface.md",
+        "ci_19_vulnerable_personal_services_markets_article_xic_interface.md",
         "ci_20_relational_coercive_control_intimate_power_anti_domination.md",
         "ci_21_community_life_voluntary_association_non_instrumental_time.md",
         "ci_22_commons_cooperatives_mutual_aid_non_market_governance.md",

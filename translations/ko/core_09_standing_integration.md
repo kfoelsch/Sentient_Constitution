@@ -44,7 +44,7 @@
 제9장은 **궤적 통합과 궤적 효과**의 헌법 주관자다. 첨부, 제8장 서술자의 결과 쪽 쓰임, 궤적 잠금, 구제 배정, 자발적 공적 책무 표현, 집행 닻을 포함한다.
 
 <a id="operative-steward-statement-remedy"></a>
-> **운영 책임 있는 관리 진술.** **주관:** 제9장 §4.1 (확인된 위반 기록에서 구제와 교정을 배정한다). 제9장 §9 (결과는 제도적으로 실제여야 한다). 권리 바닥 다툼과 구제: 제 XII-B조. **금지된 움직임:** 공표된 서식을 구제로 다루지 말라. 증거를 지키려고 제출된 사건을 기다리지 말라. 비용을 해를 입은 이에게 밖으로 넘기지 말라. **시계:** 지금 접수, 보존, 검토, 수리를 시작하라. 증거를 지키려고 제출된 사건을 기다리지 말라.
+> **운영 책임 있는 관리 진술.** **주관:** 제9장 §4.1 (확인된 위반 기록에서 구제와 교정을 배정한다). 제9장 §9 (결과는 제도적으로 실제여야 한다). 권리 바닥 다툼과 구제: 제 XIII-B조. **금지된 움직임:** 공표된 서식을 구제로 다루지 말라. 증거를 지키려고 제출된 사건을 기다리지 말라. 비용을 해를 입은 이에게 밖으로 넘기지 말라. **시계:** 지금 접수, 보존, 검토, 수리를 시작하라. 증거를 지키려고 제출된 사건을 기다리지 말라.
 
 궤적 사슬의 질문 3은 확인된 제8장 궤적 기록을 결과로 바꿀 때 [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad)과 [두 헌법 목적](core_00_preamble.md#two-constitutional-aims)을 적용한다.
 <a id="1-immutable-chapter-eight-inputs"></a>
@@ -237,7 +237,7 @@
   - 자발성과 진정성에 대해 독립 검토 가능.
 - 공적 표현에 참여하기를 거절하는 일만으로, 그 자체로, 기준선 제재를 올리거나, 궤적 잠금을 넓히거나, [§4.1](#41-remedy-and-correction) 아래 빚진 구제나 교정을 대신해서는 안 된다.
 - **진정하지 않거나 학대하는 표현:** 실질로 진실하지 않거나, 조작적이거나, 진실한 책무 없이 보여주기이거나, 영향받는 쪽이나 공중을 학대하는 공적 인정이나 사과는 회복 요건을 충족하지 않는다.
-  - 책무를 지는 쪽에 부정적 정의 결과를 실을 수 있다 — 재활 신용의 감축과 **제 XXIII-B조** (*비중대한 제한, 원상회복, 회복-책무 제약*) 및 [제8장](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) 아래 그 밖의 적법한 제한을 포함.
+  - 책무를 지는 쪽에 부정적 정의 결과를 실을 수 있다 — 재활 신용의 감축과 **제 XXIV-B조** (*비중대한 제한, 원상회복, 회복-책무 제약*) 및 [제8장](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) 아래 그 밖의 적법한 제한을 포함.
   - 가짜거나 학대하는 사과를 충분한 수리로 다루거나, 그것을 써서 [§4.1](#41-remedy-and-correction)과 [§4.2](#42-general-standing-locks) 아래 필요한 보호, 구제, 또는 잠금을 피하는 것은 비준수다.
 - 어떤 형식도 진실한 책무와 비례하는 구제에 필요한 것을 넘어 다음을 부과해서는 안 된다:
   - 비하하는 대우;
@@ -385,7 +385,7 @@
 **저항 의무.**
 
 <a id="operative-steward-statement-unlawful-instruction"></a>
-> **운영 책임 있는 관리 진술.** **주관:** 제9장 §5.4 저항 의무. 공유 표준: 제1장 §9.1.1. 다툼 바닥: 제 XII-B조. **금지된 움직임:** 따르지 말라. 덮개를 의무의 이전으로 다루지 말라. 도움이 되려고 다툼 경로를 닫지 말라. **시계:** 지금 공유 화면 위에서 지시 수신 → 거절 → 기록 → 격상을 돌리라. 다툼 경로를 지키라.
+> **운영 책임 있는 관리 진술.** **주관:** 제9장 §5.4 저항 의무. 공유 표준: 제1장 §9.1.1. 다툼 바닥: 제 XIII-B조. **금지된 움직임:** 따르지 말라. 덮개를 의무의 이전으로 다루지 말라. 도움이 되려고 다툼 경로를 닫지 말라. **시계:** 지금 공유 화면 위에서 지시 수신 → 거절 → 기록 → 격상을 돌리라. 다툼 경로를 지키라.
 
 **명명된 순서.** 지시 수신 → 거절 → 기록 → 격상. [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) 최소 점검 가능 행위 집합을 기록하라. 두 종류의 책임 있는 관리자에게 같은 순서. 책임 있는 관리 포인터 (과정 지원; 이 절을 좁힐 수 없음): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](../../implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).
 
@@ -685,7 +685,7 @@
 *쉬운 말로: 이 장은 궤적이 아닌 것을 말합니다. 이 하위절은 누구든 그것이 아닌 것을 짓지 못하게 합니다. 효과는 명명된 경로 하나씩 말하며, 그 명명된 경로를 문 지키는 이에게만 보여집니다. 그것들을 꿰매 프로필, 순위, 또는 공개 표시를 만드는 일은 이 장이 금하는 합쳐진 점수를 짓는 것이며 — 그렇게 하는 일 자체가 위반입니다.*
 
 - **공개 범위:** 명명된 경로의 최종 효과는 주체, 그 명명된 경로의 문지기, 수권된 검토자에게 공개된다. 다른 명명된 경로의 문지기에게는 당연히 공개되지 않는다.
-- **금지된 합산:** 다음은 합쳐진 점수를 지으며, [제8장](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) 아래 독립적으로 측정 가능한 위반 행위다. 이 하위절이 궤적에 대해 거울로 삼는 합산 규율인 [제 VII-B조](core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection) (*내부상태 경계와 N형 보호*)와 함께 읽으라:
+- **금지된 합산:** 다음은 합쳐진 점수를 지으며, [제8장](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) 아래 독립적으로 측정 가능한 위반 행위다. 이 하위절이 궤적에 대해 거울로 삼는 합산 규율인 [제 VII-B조](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*내부상태 경계와 N형 보호*)와 함께 읽으라:
   - 명명된 경로를 가로질러 최종 효과를 모아:
     - 프로필;
     - 합성;
@@ -704,12 +704,12 @@
 
 *쉬운 말로: 아무도 궤적 효과가 자신에게 하는 일을 그 결과에서 배워서는 안 됩니다. 기록은 주체에게, 쉬운 말로, 어느 명명된 경로가 영향받는지, 무엇을 해야 하는지, 얼마나 오래인지, 어디서 다투는지를 정확히 말해야 하며 — 채택하는 이는 감지자가 궤적을 점수로 경험하는지를 측정해야 합니다. 그것이 점수가 아니라는 규칙은, 그렇게 닿으면 무가치하기 때문입니다.*
 
-- **주체에 대한 쉬운 말 진술:** **효과 없음**이 아닌 최종 효과가 붙으면, 주체는 쉬운 말 진술을 받아야 한다. 진술은 [제1장 §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty)와 **제 XX-A조** (*비례 이해 가능성 권리*)를 충족해야 하며, 다음을 이름 붙여야 한다:
+- **주체에 대한 쉬운 말 진술:** **효과 없음**이 아닌 최종 효과가 붙으면, 주체는 쉬운 말 진술을 받아야 한다. 진술은 [제1장 §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty)와 **제 XXI-A조** (*비례 이해 가능성 권리*)를 충족해야 하며, 다음을 이름 붙여야 한다:
   - 영향받는 각 명명된 경로;
   - 효과가 유지되는 동안 주체가 할 수 있는 것과 할 수 없는 것;
   - 교정 조건과 재평가 지점;
   - 기대 기간 또는 검토 리듬; 그리고
-  - **제 XII-B조** (*다툼, 검토, 구제에 대한 권리*) 아래 다툼 경로.
+  - **제 XIII-B조** (*다툼, 검토, 구제에 대한 권리*) 아래 다툼 경로.
 - **정직한 비용:** 궤적 잠금은 실제 문을 닫고, 점검 가능 행위 의무는 그것을 지는 책임 있는 관리자에게 실제 부담이다. 채택하는 이는 영향받는 감지자에게 궤적을 설명하는 자료에서, 궤적이 아닌 것과 나란히, 그 비용을 훤히 말해야 한다. 궤적의 한도만 말하고 그 무게를 빼는 것은 [진실](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) 결함이다.
 - **느껴진 부담 측정:** 채택하는 이는 [참여 측정 가족](core_05_apex_participation_leg.md#participation-measurement-family) 아래, 영향받는 감지자가 궤적 효과를 한정된 명명된 경로 조건이 아니라 일반 가치 순위, 평판 점수, 또는 영구 지위로 경험하는지를 측정해야 한다. 법적 범주와 살아지는 범주 사이의 실질 어긋남은 [제1장 §6.2.4](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) 아래 [대리지표 이탈](core_05_band_oversight.md#proxy-divergence)이다: 설계, 공개, 또는 [§7.1](#71-anti-aggregation-of-named-pathway-effects) 집행을 통해 기록되고, 격상되고, 교정되어야 한다 — 설명으로 넘기지 말라.
 
@@ -746,7 +746,7 @@
 
 *쉬운 말로: 궤적 결과와 시정은 실제 제도가 그것들을 전달할 수 있을 때만 셉니다. 이 절은 그 기계의 헌법 바닥입니다. 일상 인력, 자금, 적체, 승계 규칙은 제도 층에 삽니다.*
 
-제9장은 질문 3 결과와 관련 시정이 제도적으로 실제여야 한다는 헌법 바닥을 주관한다. [구제 체계](core_05_band_accountability.md#remedy-system-constitutional)는 다툼, 접수, 보존, 검토, 수리, 감시, 안전장치 집행, 잠금 검토를 전달하는 오래가는 능력이다 — 종이 경로가 아니다. 시행 세부는 [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*구제 체계와 제도 시정 능력*)이 주관한다. **제 XII-B조** (*다툼, 검토, 구제에 대한 권리*)와 포럼 감독을 위한 [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)과 함께 읽으라.
+제9장은 질문 3 결과와 관련 시정이 제도적으로 실제여야 한다는 헌법 바닥을 주관한다. [구제 체계](core_05_band_accountability.md#remedy-system-constitutional)는 다툼, 접수, 보존, 검토, 수리, 감시, 안전장치 집행, 잠금 검토를 전달하는 오래가는 능력이다 — 종이 경로가 아니다. 시행 세부는 [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*구제 체계와 제도 시정 능력*)이 주관한다. **제 XIII-B조** (*다툼, 검토, 구제에 대한 권리*)와 포럼 감독을 위한 [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)과 함께 읽으라.
 
 궤적 통합은 결과가 종이에만 있으면 실패한다. 채택하는 이는 교정을 시행하고, 구제에 자금을 대고, 제한을 검토하고, 기록을 지키고, 안전장치를 집행하고, 비용, 지연, 국경, 구조조정, 또는 형식 정체 변경을 통한 탈출을 막을 실무적이고 제때인 능력을 유지해야 한다.
 
@@ -825,7 +825,7 @@
 <a id="95-timely-implementation"></a>
 #### 9.5 제때 시행
 
-구제 시작, 교정 이정표, 잠금 검토, 재평가는 [적시성](core_05_apex_timeliness_leg.md#timeliness-constitutional), [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), **제 XXIV-C조** (*제때 해결과 지연 금지 바닥*)를 충족해야 한다. 해를 키우거나, 비수행을 숨기거나, 검토를 꺾는 지연은 질문 3의 새 확인된 사실이며, 원래 제8장 슬롯을 바꾸지 않고 격상된 안전장치를 정당화할 수 있다.
+구제 시작, 교정 이정표, 잠금 검토, 재평가는 [적시성](core_05_apex_timeliness_leg.md#timeliness-constitutional), [제11장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), **제 XXV-C조** (*제때 해결과 지연 금지 바닥*)를 충족해야 한다. 해를 키우거나, 비수행을 숨기거나, 검토를 꺾는 지연은 질문 3의 새 확인된 사실이며, 원래 제8장 슬롯을 바꾸지 않고 격상된 안전장치를 정당화할 수 있다.
 
 권리와 궤적 결과는, 감지자가 그것들을 호출하고, 확인하고, 실무 수리에 자금을 대고, 제때 검토를 얻고, 기능상 책임 있는 행위자에게 의무를 집행할 수 있을 때만 실제다.
 

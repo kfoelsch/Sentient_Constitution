@@ -260,7 +260,7 @@
 - [보호 특성](../../core_05_band_participation.md#protected-characteristics-constitutional)
 - [보호 데이터와 내부상태 공개 제약](../../core_05_band_oversight.md#protected-data-and-internal-state-publication-constraint)
 - [보호되는 내부상태 경계](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional)
-- [보호되는 친밀 신호 게이트와 **제 X-C조** (*성인 합의 상업 성서비스와 성착취*) 지위 우회](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention)
+- [보호되는 친밀 신호 게이트와 **제 XI-C조** (*성인 합의 상업 성서비스와 성착취*) 지위 우회](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention)
 - [보호 신고(내부고발)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
 - [보호 신고 보복과 접근 간섭](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)
 - [대리지표 이탈](../../core_05_band_oversight.md#proxy-divergence)

@@ -184,7 +184,7 @@ Esta banda sostiene definiciones bajo la pata **Supervisión** de la Tétrada �
     - la protección de fuentes;
     - la investigación; y
     - la publicación.
-    Los sencientes que hacen ese trabajo ejercen el Piso de Derechos de [Expresión](core_05_band_participation.md#expression-constitutional) y [Asamblea](core_05_band_participation.md#assembly-constitutional), con protección de escrutinio elevado bajo el [Artículo V-H](../../core_06_rights_part_b.md#article-ix-g-expression-assembly-and-press) (*Expresión, asamblea y prensa*) contra acciones del Estado y de operadores destinadas a menoscabar esa actividad.
+    Los sencientes que hacen ese trabajo ejercen el Piso de Derechos de [Expresión](core_05_band_participation.md#expression-constitutional) y [Asamblea](core_05_band_participation.md#assembly-constitutional), con protección de escrutinio elevado bajo el [Artículo V-H](../../core_06_rights_part_b.md#article-x-g-expression-assembly-and-press) (*Expresión, asamblea y prensa*) contra acciones del Estado y de operadores destinadas a menoscabar esa actividad.
   - **Fuera de alcance:** credenciales de prensa, títulos institucionales o habla comercial ordinaria que no es recogida de noticias, investigación o publicación que funciona como periodismo.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **Cómo medir y evaluar**
@@ -195,11 +195,11 @@ Esta banda sostiene definiciones bajo la pata **Supervisión** de la Tétrada �
     - la protección de fuentes;
     - la investigación; o
     - la publicación que sirve al entorno de información.
-    Detecte acciones que menoscaban la prensa por su efecto real, y trate el carácter dirigido a la prensa como un factor agravante bajo el **Artículo XIII-A** (*Límites de seguridad, inteligencia y poder encubierto*) y el **Artículo V-H** (*Expresión, asamblea y prensa*). Aplique escrutinio elevado de [Necesidad](core_05_band_accountability.md#necessity) y [Proporcionalidad](core_05_band_accountability.md#proportionality), y mantenga cualquier límite estrechamente acotado.
+    Detecte acciones que menoscaban la prensa por su efecto real, y trate el carácter dirigido a la prensa como un factor agravante bajo el **Artículo XIV-A** (*Límites de seguridad, inteligencia y poder encubierto*) y el **Artículo V-H** (*Expresión, asamblea y prensa*). Aplique escrutinio elevado de [Necesidad](core_05_band_accountability.md#necessity) y [Proporcionalidad](core_05_band_accountability.md#proportionality), y mantenga cualquier límite estrechamente acotado.
 <a id="press-and-journalistic-activity-constitutional-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** acciones del Estado o de operadores destinadas a menoscabar la actividad periodística que fallan el análisis de límites de escrutinio elevado;
-  - **Falla secundaria:** estirar la [Buena fe](core_05_band_accountability.md#good-faith) o el **Artículo VIII-C** (*Publicación veraz y límites de publicación de alto impacto*) de modo que esos estándares bloqueen el reportaje crítico lícito, la publicación investigativa o la disidencia;
+  - **Falla secundaria:** estirar la [Buena fe](core_05_band_accountability.md#good-faith) o el **Artículo IX-C** (*Publicación veraz y límites de publicación de alto impacto*) de modo que esos estándares bloqueen el reportaje crítico lícito, la publicación investigativa o la disidencia;
   - **Falla terciaria:** credenciales, estatus institucional o habla comercial ordinaria usadas como la prueba de periodismo mientras faltan la recogida de noticias, la investigación o la publicación que funciona como periodismo.
 
 ---
@@ -660,7 +660,7 @@ Fuera de ese ámbito, las entradas individuales pueden aplicar aún por sí sola
 
 Donde se cumple el ámbito de admisión, esta agrupación es el hogar conjunto de la divulgación, la auditoría, la verificación (incluida la detectabilidad externa) y la profundidad de aseguramiento cuando los Capítulos Dos a Cuatro exigen evidencia trazable e impugnable de lo que hace un sistema y de si se sostienen las pretensiones de cumplimiento.
 
-**Marco de supervisión.** Bajo la pata de **supervisión** de la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad), la supervisión exige auditar — poder reconstruir lo que ocurrió, verificarlo de forma independiente y obtener acceso de auditoría — titularizado aquí y en el **Artículo XV** (*Auditoría, transparencia y verificación independiente*). La [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) es un proceso de auditoría especialmente grande y de alto enjuego entre otros (revisión de alineación supervisada por foro con resultados de reconocimiento bajo el [Capítulo Siete](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)); no se traga esta agrupación ni reemplaza los modos hermanos de auditoría.
+**Marco de supervisión.** Bajo la pata de **supervisión** de la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad), la supervisión exige auditar — poder reconstruir lo que ocurrió, verificarlo de forma independiente y obtener acceso de auditoría — titularizado aquí y en el **Artículo XVI** (*Auditoría, transparencia y verificación independiente*). La [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) es un proceso de auditoría especialmente grande y de alto enjuego entre otros (revisión de alineación supervisada por foro con resultados de reconocimiento bajo el [Capítulo Siete](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)); no se traga esta agrupación ni reemplaza los modos hermanos de auditoría.
 
 **Clase de sistema y proporcionalidad.** Los deberes de transparencia, auditabilidad y verificación escalan con la clase de sistema bajo **[corpus_systems.md](../../corpus_systems.md), CS-3 — Clasificación y manejo de sistemas**, y con el impacto material, la dependencia y el riesgo. Los sistemas de clase más alta (**Class A**, **B**, **C**) necesitan más que los de clase más baja (**Class L**, **P**), incluida:
 - un aseguramiento más profundo;
@@ -879,8 +879,8 @@ Véase **Invocación conjunta y satisfacción**.
 
 - Componente de agrupación: [Def.O1 *Transparencia, auditabilidad y verificación*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - Leer con: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad) — pata de **supervisión**; [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Impugnabilidad](core_05_band_accountability.md#contestability), [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity), [Transparencia](core_05_band_oversight.md#transparency), [Verificabilidad](core_05_band_oversight.md#verifiability), [Preservación de evidencia](core_05_band_oversight.md#evidence-preservation) y [Restricción de completitud de la evaluación](core_05_band_oversight.md#evaluation-completeness-constraint).
-- Leer con: **Artículo XV** (*Auditoría, transparencia y verificación independiente*); [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) (*un proceso de auditoría especialmente grande bajo supervisión — no el único hogar de auditoría*); mecánica de capa titular en [core_02_definition_structure.md](core_02_definition_structure.md) Capítulos Dos a Cuatro.
-- Puerta de administración (no operativa): Esta definición es la capa de propiedad de la pila de auditoría. Declaración vinculante del siguiente paso: [Declaración operativa de administración (Artículo XV)](../../core_06_rights_part_c.md#operative-steward-statement-audit). Imagen de tres capas: [Artículo XV](../../core_06_rights_part_c.md#audit-three-layers).
+- Leer con: **Artículo XVI** (*Auditoría, transparencia y verificación independiente*); [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) (*un proceso de auditoría especialmente grande bajo supervisión — no el único hogar de auditoría*); mecánica de capa titular en [core_02_definition_structure.md](core_02_definition_structure.md) Capítulos Dos a Cuatro.
+- Puerta de administración (no operativa): Esta definición es la capa de propiedad de la pila de auditoría. Declaración vinculante del siguiente paso: [Declaración operativa de administración (Artículo XVI)](../../core_06_rights_part_c.md#operative-steward-statement-audit). Imagen de tres capas: [Artículo XVI](../../core_06_rights_part_c.md#audit-three-layers).
 
 </details>
 
@@ -1073,7 +1073,7 @@ Véase **Invocación conjunta y satisfacción**.
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Componente de agrupación: [Def.O1 *Transparencia, auditabilidad y verificación*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Piso titular: [Artículo XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility) (*Accesibilidad de la verificación*) para el acceso práctico de verificación.
+- Piso titular: [Artículo XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility) (*Accesibilidad de la verificación*) para el acceso práctico de verificación.
 - Leer con: [Auditabilidad](core_05_band_oversight.md#auditability), [Transparencia](core_05_band_oversight.md#transparency), [Impugnabilidad](core_05_band_accountability.md#contestability), [Proporcionalidad](core_05_band_accountability.md#proportionality), [Viabilidad](core_05_band_accountability.md#feasibility), [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint) y [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 
 </details>
@@ -1085,7 +1085,7 @@ Véase **Invocación conjunta y satisfacción**.
 - **Qué es**
   - **En alcance:** Si la conducta, las salidas y los efectos del sistema pueden detectarse, medirse y validarse de forma independiente desde fuera para la [Auditabilidad](core_05_band_oversight.md#auditability). Condiciones constitutivas:
     - detectabilidad externa antes de que cuente la validación independiente;
-    - acceso práctico ([Artículo XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility); [Viabilidad](core_05_band_accountability.md#feasibility));
+    - acceso práctico ([Artículo XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [Viabilidad](core_05_band_accountability.md#feasibility));
     - independencia respecto de la autoafirmación del operador;
     - carga proporcionada bajo [Proporcionalidad](core_05_band_accountability.md#proportionality) e [Impacto material](core_05_band_oversight.md#material-impact); y
     - fiabilidad bajo estrés ordinario, mal uso y [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1110,7 +1110,7 @@ Véase **Invocación conjunta y satisfacción**.
   - **Medida secundaria:** [Familia de medición Supervisión](core_05_apex_oversight_leg.md#oversight-measurement-family) — *¿Pueden los sencientes ver, verificar y confiar en lo que los sistemas representan?* Úsela aquí para preguntar si la conducta observada puede validarse de forma independiente mediante métodos reproducibles en la práctica.
 
     **Evaluación secundaria:** Confirme la validación independiente mediante métodos que:
-    - las partes afectadas y las debidamente autorizadas pueden de hecho realizar ([Artículo XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility); [Viabilidad](core_05_band_accountability.md#feasibility));
+    - las partes afectadas y las debidamente autorizadas pueden de hecho realizar ([Artículo XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [Viabilidad](core_05_band_accountability.md#feasibility));
     - descansan en evidencia detectable desde fuera — no en pretensiones internas ni en intención inferida;
     - están dimensionados al impacto del sistema bajo [Proporcionalidad](core_05_band_accountability.md#proportionality) e [Impacto material](core_05_band_oversight.md#material-impact); y
     - permanecen fiables bajo estrés ordinario, mal uso y [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1222,7 +1222,7 @@ Este subbloque anidado es el hogar conjunto de los pisos de conducta de publicac
     de la observación de buena fe y la interpretación acotada, bajo [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint) y [Buena fe](core_05_band_accountability.md#good-faith).
 <a id="publication-truthfulness-and-recklessness-floor-c"></a>
 - **Qué debe sostenerse**
-  - La publicación de buena fe de observaciones, evidencia e interpretaciones acotadas se rige por los **Artículos VIII**, **XII** y **XIII** del Capítulo Once según apliquen y debe satisfacer esta agrupación de forma conjunta bajo [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint), [Buena fe](core_05_band_accountability.md#good-faith) e [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity).
+  - La publicación de buena fe de observaciones, evidencia e interpretaciones acotadas se rige por los **Artículos IX**, **XIII** y **XIV** del Capítulo Once según apliquen y debe satisfacer esta agrupación de forma conjunta bajo [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint), [Buena fe](core_05_band_accountability.md#good-faith) e [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity).
   - **Falla primaria:** publicación falsa a sabiendas, o publicación hecha con desprecio temerario de:
     - la exactitud;
     - la incertidumbre;

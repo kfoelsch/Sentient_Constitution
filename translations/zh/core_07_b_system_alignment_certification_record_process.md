@@ -11,9 +11,9 @@
 >
 > 本文件包含**第七章，B 部分** — 认证**记录**内容、透明与可质疑性、评议所组件角色、监督顺序、轨迹桥接，以及重开（**§11–§16**，接续 A 部分 §1–§10）。**A 部分** — 评价要求 — 在 [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md)。
 >
-> - **宪法主责者（与 A 部分共同）：** 评议所监督的**系统对齐认证及相关记录**。在四元的**监督**腿下，SAC 是诸多审计过程中一项特别大型、高利害的；审计底线仍在 **Article XV** 与第五章 [可审计性](core_05_band_oversight.md#auditability)。
+> - **宪法主责者（与 A 部分共同）：** 评议所监督的**系统对齐认证及相关记录**。在四元的**监督**腿下，SAC 是诸多审计过程中一项特别大型、高利害的；审计底线仍在 **Article XVI** 与第五章 [可审计性](core_05_band_oversight.md#auditability)。
 > - **评价输入：** [A 部分 §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) 至 [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) 提供反映在认证记录上的评价输出。
-> - **反挪位规则：** B 部分不重述 A 部分的评价机制、第五章典范定义、第八章轨迹测量，或第九章轨迹效果。**§15** 明示轨迹桥接边界。B 部分也不把审计主责从 **Article XV** / **Def.O1** / **CJS-3.3**–**CJS-3.5** 挪走。
+> - **反挪位规则：** B 部分不重述 A 部分的评价机制、第五章典范定义、第八章轨迹测量，或第九章轨迹效果。**§15** 明示轨迹桥接边界。B 部分也不把审计主责从 **Article XVI** / **Def.O1** / **CJS-3.3**–**CJS-3.5** 挪走。
 >
 > **上游：** [A 部分](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)；第十一章评议所监督；第二至四章核验纪律。
 > **下游：** 第八章轨迹记录与经核实输入；第九章轨迹效果。
@@ -85,7 +85,7 @@
 - **不歧视评价：** 负担与收益模式发现、受保护特征与代理歧视发现，以及在 **Article V-B**（《不歧视》）实质性触发适用时，[§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) 所要求的实质公平组件发现；
 - **可及性评价：** 实质参与、便利安排，以及在 **Article V-G**（《可及性》）实质性触发适用时，[§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) 所要求的反代理拒绝发现；
 - **教育能力与学习系统完整性评价：** 能力建设、再培训路径、评估透明，以及在 **Article VI**（《以感知者为中心的教育权》）实质性触发适用时，[§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) 所要求的学习系统可质疑性发现；
-- **可信与系统依赖完整性评价：** 可靠性、虚假信任、扭曲激励、质疑路径，以及在 **Article XII**（《可靠可信系统权》）实质性触发适用时，[§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) 所要求的恢复完整性发现；
+- **可信与系统依赖完整性评价：** 可靠性、虚假信任、扭曲激励、质疑路径，以及在 **Article XIII**（《可靠可信系统权》）实质性触发适用时，[§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) 所要求的恢复完整性发现；
 - **技术证据与保证：** 认证或再认证周期所实质依赖的技术标准、测试、测量、不确定性、安全余量、失败模式、回归测试与安全测试结果，以及证据基础；
 - **受影响方、环境与完整性审查：**
   - 受影响方、权利底线、可及性、依赖与参与考量；
@@ -120,7 +120,7 @@
   - 在 **Article V-B**（《不歧视》）实质性触发适用时，[§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation)；
   - 在 **Article V-G**（《可及性》）实质性触发适用时，[§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation)；
   - 在 **Article VI**（《以感知者为中心的教育权》）实质性触发适用时，[§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation)；
-  - 在 **Article XII**（《可靠可信系统权》）实质性触发适用时，[§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation)；
+  - 在 **Article XIII**（《可靠可信系统权》）实质性触发适用时，[§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation)；
 - **记录完整性** — [§12](#12-transparency-auditability-and-contestability)；以及
 - **监督顺序与质疑路径** — [§14](#14-supervisory-sequence-and-contestability-chain)。
 
@@ -136,7 +136,7 @@
 
 - **生存必需、教育与安全条件：**
   - 适用于系统供给、分配、定价、托管或终止生存必需、平等教育通路或 [**安全条件**](core_05_band_continuity.md#safe-conditions-constitutional) 之通路时；
-  - 记录必须评价承认或继续依赖是否会在 **Article III-A**（《生存》）、**Article III-B**（《平等教育通路》）、**Article XII-A**（《可靠性与可信基线》）及相关第六章规定下封死或实质降低那些底线；
+  - 记录必须评价承认或继续依赖是否会在 **Article III-A**（《生存》）、**Article III-B**（《平等教育通路》）、**Article XIII-A**（《可靠性与可信基线》）及相关第六章规定下封死或实质降低那些底线；
 - **跨系统资源尽责管理：**
   - 适用于系统实质分配、路由、资助或抽取其他系统或感知者所依赖的共享基础设施或基础依赖时；
   - 记录必须按 [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) 评价承认或继续依赖是否会封死或实质降低 **Article IV-A**（《依赖测绘与资源流透明》）或 **Article IV-B**（《跨系统公平与可持续性》）；
@@ -151,7 +151,7 @@
   - 记录必须按 [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) 评价承认或继续依赖是否会封死或实质降低 **Article VI**（《以感知者为中心的教育权》）；
 - **可信与依赖：**
   - 适用于系统实质塑造感知者对所陈述行为、限度、风险、质疑路径或补救的依赖时 — 包括通过可靠性主张、披露姿态、激励设计、恢复实践或可比依赖路径；
-  - 记录必须按 [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) 评价承认或继续依赖是否会封死或实质降低 **Article XII**（《可靠可信系统权》）。
+  - 记录必须按 [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) 评价承认或继续依赖是否会封死或实质降低 **Article XIII**（《可靠可信系统权》）。
 
 <a id="12-transparency-auditability-and-contestability"></a>
 
@@ -162,7 +162,7 @@
 
 - 上游：[§11](#11-certification-record)（*记录内容*）；[§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)、[§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation)、[§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation)、[§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation)、[§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation)、[§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation)、[§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) 与 [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation)（*类、数据、足迹、跨系统支持、不歧视、可及性、教育能力与可信评价输入*）；监督测量族（*作为宪法测量的真理与认识完整性*）；及时性测量族（*及时解决与反拖延纪律*）；第二至四章（*负担、追溯、核验与证据保全*）；[宪法四元](core_00_preamble.md#constitutional-tetrad) — **监督**、**问责**、**参与**与**及时性**；[**Def.O1** *透明、可审计性与核验*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster)；[可质疑性](core_05_band_accountability.md#contestability)。
 - 下游：[§14](#14-supervisory-sequence-and-contestability-chain)（*监督顺序与可质疑性链*）；[§15](#15-relationship-to-standing)（*经核实输入门*）；[第十一章 §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests)（*评议所案件记录、轨迹记录质疑*）；[第十一章 §5](core_11_forum.md#5-escalation-and-certification)（*升级与认证细节*）。
-- 一并阅读：[Article XV：审计、透明与独立核验](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)；[Article XII-B：质疑、审查与救济权](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)；[证据保全](core_05_band_oversight.md#evidence-preservation)；[corpus_systems.md](../../corpus_systems.md)，**CS-2 — Information types and handling** 与 **CS-3 — System classification and handling**；**CJS-3.4**（*分层透明与审计通路条款*）。
+- 一并阅读：[Article XVI：审计、透明与独立核验](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)；[Article XIII-B：质疑、审查与救济权](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)；[证据保全](core_05_band_oversight.md#evidence-preservation)；[corpus_systems.md](../../corpus_systems.md)，**CS-2 — Information types and handling** 与 **CS-3 — System classification and handling**；**CJS-3.4**（*分层透明与审计通路条款*）。
 
 </details>
 
@@ -177,13 +177,13 @@
 
 <br>
 
-*用直白的话说：认证记录只有在感知者能够读到它、核验它，并在它出错时加以反驳时才起作用。本节把这三项要求 — 透明、可审计性与可质疑性 — 直接放在记录本身上，而不是当作抽象理想。在**监督**四元腿下，监督要求审计；系统对齐认证是一项特别大型的审计过程，必须在此满足那些底线 — 它不拥有、也不取代 **Article XV** 或并列审计模式。*
+*用直白的话说：认证记录只有在感知者能够读到它、核验它，并在它出错时加以反驳时才起作用。本节把这三项要求 — 透明、可审计性与可质疑性 — 直接放在记录本身上，而不是当作抽象理想。在**监督**四元腿下，监督要求审计；系统对齐认证是一项特别大型的审计过程，必须在此满足那些底线 — 它不拥有、也不取代 **Article XVI** 或并列审计模式。*
 
 本节把 [透明](core_05_band_oversight.md#transparency)、[可审计性](core_05_band_oversight.md#auditability) 与 [可质疑性](core_05_band_accountability.md#contestability) 适用于系统对齐认证记录。典范用语家园与主责边界在 [序言 — 宪法主责登记](core_00_preamble.md#4-principles-definitions-and-rights) 与 [权威栈与内部层级](core_05_band_integrative.md#owner-non-relocation) 下。在 [宪法四元](core_00_preamble.md#constitutional-tetrad) 下：
 
 - **透明**与**可审计性**实施**监督**；
 - **可质疑性**实施**问责**，并在质疑路径中保全**参与**；
-- **Article XXIV-C**（《及时解决与反拖延底线》）下的记录清晰度与质疑时钟，按系统类与 [实质利害](core_00_preamble.md#material-stake) 缩放实施**及时性**。
+- **Article XXV-C**（《及时解决与反拖延底线》）下的记录清晰度与质疑时钟，按系统类与 [实质利害](core_00_preamble.md#material-stake) 缩放实施**及时性**。
 
 **透明** — 感知者必须能够看见要紧之事：
 
@@ -283,9 +283,9 @@
     - **Article VI**（《以感知者为中心的教育权》）下的**以感知者为中心的教育能力** — 包括在该实质性触发适用时按 [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) 评价；
     - **Article V-B**（《不歧视》）下的**不歧视底线** — 包括在该实质性触发适用时按 [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) 评价；
     - **Article V-G**（《可及性》）下的**可及性底线** — 包括在该实质性触发适用时按 [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) 评价；
-    - **Article XII**（《可靠可信系统权》）下的**可靠可信系统行为** — 包括在该实质性触发适用时按 [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) 评价；
+    - **Article XIII**（《可靠可信系统权》）下的**可靠可信系统行为** — 包括在该实质性触发适用时按 [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) 评价；
     - **Article IV**（《资源分配、依赖与生态系统资金》）下的**资源分配与依赖底线** — 包括在被实质牵涉时 [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) 下的 [相称跨系统贡献](core_05_band_continuity.md#proportionate-cross-system-support-constitutional)；
-    - **Article XII-A**（《可靠性与可信基线》）与 [**安全条件**](core_05_band_continuity.md#safe-conditions-constitutional) 下在被实质牵涉时的**安全相关底线**。
+    - **Article XIII-A**（《可靠性与可信基线》）与 [**安全条件**](core_05_band_continuity.md#safe-conditions-constitutional) 下在被实质牵涉时的**安全相关底线**。
 - **宪法**及其他常规评议所族系 — 宪法与剩余利害：
   - 保留第十一章指派在上述族系之外的宪法有效性、含义、全类结构性救济或其他首要利害问题的既定组件权威；
   - 认证过程不得让技术专长或廉正协调挤掉那些既定实体角色。
@@ -299,7 +299,7 @@
 
 - 上游：[§11](#11-certification-record)（*记录内容*）；[§12](#12-transparency-auditability-and-contestability)（*记录完整性要求*）；[§13](#13-forum-supervision-and-component-roles)（*组件角色指派*）；及时性测量族（*及时解决与反拖延纪律*）；[宪法四元](core_00_preamble.md#constitutional-tetrad) — **参与**、**监督**、**问责**与**及时性**；[第十一章 §4](core_11_forum.md#4-forum-family-definitions)（*廉正牵头的对齐承认、组件移送与核验*）；[第十一章 §3](core_11_forum.md#3-transfer-consolidation-and-coordination)（*廉正牵头的对齐协调与反自我裁判*）。
 - 下游：[§15](#15-relationship-to-standing)（*经核实输入门*）；[§16](#16-reopening-drift-and-non-evasion)（*重开触发*）；[第十一章 §5](core_11_forum.md#5-escalation-and-certification)（*族系间升级与宪法认证*）。
-- 一并阅读：第十一章 §1 下的 [争议顺序](core_11_forum.md#dispute-sequencing)；[序言 §3.3](core_00_preamble.md#33-governance-layers)；[corpus_forum.md](../../corpus_forum.md)，**CF-5** 与 **CF-7**；[Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress)（《质疑、审查与救济权》）。
+- 一并阅读：第十一章 §1 下的 [争议顺序](core_11_forum.md#dispute-sequencing)；[序言 §3.3](core_00_preamble.md#33-governance-layers)；[corpus_forum.md](../../corpus_forum.md)，**CF-5** 与 **CF-7**；[Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)（《质疑、审查与救济权》）。
 
 </details>
 
@@ -357,14 +357,14 @@
 - **已公布记录质疑路径** — 关于认证记录的普通争议的通常第一步。记录点名 [受影响方的系统参与](core_05_band_participation.md#stakeholder-status-and-weight-cluster) 质疑席位：
   - 谁接收质疑；
   - 如何提交；以及
-  - **Article XXIV-C**（《及时解决与反拖延底线》）下的时钟自收讫起算。
+  - **Article XXV-C**（《及时解决与反拖延底线》）下的时钟自收讫起算。
   
   内部运营者审查、供应商证明或技术签字不是这条路径。
 - **组件评议所路径** — 对所质疑组件发现拥有实体权威的第十一章评议所族系。
 - **牵头—廉正路径** — 当质疑的是牵头评议所如何运转过程时的廉正路由与反自我裁判备用，包括俘获、隐藏信息、自我审查，或过早宣称认证完成。
 - **升级路径** — 当首要利害、宪法有效性、结构性救济、族系僵局或反自我裁判保护要求时，第十一章移送、认证、备用路由与族系间升级。
 
-当拖延会实质危及权利、证据、独立性或实践修复时，直接进入评议所路径仍可用。未完成使用已公布记录质疑路径，不得拖延那些评议所路径或消耗 **Article XXIV-C** 时钟。
+当拖延会实质危及权利、证据、独立性或实践修复时，直接进入评议所路径仍可用。未完成使用已公布记录质疑路径，不得拖延那些评议所路径或消耗 **Article XXV-C** 时钟。
 
 可质疑性链按此顺序使用那些路径：
 
@@ -372,7 +372,7 @@
 2. **组件质疑**（组件评议所路径）。限于一项组件发现的质疑路由到对该组件拥有实体权威的评议所族系。牵头评议所可在及时审查未决期间 [中止](core_05_band_accountability.md#stay) 对被质疑组件的依赖。
 3. **牵头协调质疑**（牵头—廉正路径）。关于牵头评议所如何运转过程的质疑按 [第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) 廉正与反自我裁判规则路由。那包括俘获、隐藏信息、自我审查、滥用步骤次序、过早宣称认证完成，或其他牵头评议所完整性问题。当质疑针对该牵头评议所自身的偏私、俘获、冲突或过程滥用时，适用那些规则下的备用路由，使审查不被困在同一牵头评议所内。
 4. **升级与认证**（升级路径）。凡首要利害、宪法有效性、结构性救济、族系僵局或反自我裁判保护要求之处，质疑路由继续通过第十一章移送、认证、备用路由与族系间升级。
-5. **质疑期间的依赖限度：** 一项实质且及时的质疑可以限制或暂停对认证记录的依赖，以达到防止可预见伤害、保全证据或防止对受争议发现形成不可逆依赖所必要的程度，并受 [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor)（《及时解决与反拖延底线》）下及时审查约束。
+5. **质疑期间的依赖限度：** 一项实质且及时的质疑可以限制或暂停对认证记录的依赖，以达到防止可预见伤害、保全证据或防止对受争议发现形成不可逆依赖所必要的程度，并受 [Article XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor)（《及时解决与反拖延底线》）下及时审查约束。
 
 认证记录必须陈述可质疑性链 — 受影响方如何在每一步质疑 — 以及具名可质疑性路径。
 
@@ -415,7 +415,7 @@
 - 在 **Article V-B**（《不歧视》）实质性触发适用时的 [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation)；
 - 在 **Article V-G**（《可及性》）实质性触发适用时的 [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation)；
 - 在 **Article VI**（《以感知者为中心的教育权》）实质性触发适用时的 [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation)；
-- 在 **Article XII**（《可靠可信系统权》）实质性触发适用时的 [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation)；
+- 在 **Article XIII**（《可靠可信系统权》）实质性触发适用时的 [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation)；
 - [§12](#12-transparency-auditability-and-contestability) 与 [§14](#14-supervisory-sequence-and-contestability-chain)；
 - 第二至四章，以及适用的第十一章过程。
 
@@ -443,7 +443,7 @@
 - 在被要求 **Article V-B**（《不歧视》）审查时的实质性不歧视或代理歧视缺陷；
 - 在被要求 **Article V-G**（《可及性》）审查时的实质性可及性或实质参与缺陷；
 - 在被要求 **Article VI**（《以感知者为中心的教育权》）审查时的实质性教育能力、评估不透明、凭证设门或强加过时缺陷；
-- 在被要求 **Article XII**（《可靠可信系统权》）审查时的实质性可信、虚假信任、扭曲激励、不可及质疑或恢复完整性缺陷；
+- 在被要求 **Article XIII**（《可靠可信系统权》）审查时的实质性可信、虚假信任、扭曲激励、不可及质疑或恢复完整性缺陷；
 - 与类不相称的基础设施脆弱。
 
 **边界** — 认证不是轨迹：

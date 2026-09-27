@@ -102,7 +102,7 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - पुढे: तत्त्वे: [प्रस्तावना §3.3 शासन स्तर](core_00_preamble.md#33-governance-layers); [अध्याय एक §5 स्वातंत्र्य](core_01_a_values_principles.md#5-freedom-bounded-agency).
-- मालक तळ: [अध्याय बारा: संवैधानिक करार, वैधता, प्राधिकरण आणि उत्तरदायी व्यवस्थापन](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); [अनुच्छेद IX-C: शासन सहभाग आणि मतदान हक्क](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
+- मालक तळ: [अध्याय बारा: संवैधानिक करार, वैधता, प्राधिकरण आणि उत्तरदायी व्यवस्थापन](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); [अनुच्छेद X-C: शासन सहभाग आणि मतदान हक्क](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement).
 - समूह घटक: [*संवैधानिक करार स्तर आणि पायाभूत संवैधानिक निवड*](core_05_band_integrative.md#constitutional-contract-layer)
 - सोबत वाचा: [पायाभूत संवैधानिक निवड](core_05_band_integrative.md#foundational-constitutional-choice), [प्रभावित पक्षांची बंधनकारक निवड](core_05_band_participation.md#binding-stakeholder-choice-cluster), [प्रभावित पक्ष स्थिती आणि भार](core_05_band_participation.md#stakeholder-status-and-weight-cluster), [शासन](core_05_band_accountability.md#governance).
 - स्तर: **संवैधानिक करार स्तर (CCL)** — कोण शासन करू शकतो, कोणत्या वैधता यंत्रणेने, कोणत्या टिकाऊ अटींवर. **प्रभावित पक्षांचा प्रणालीगत सहभाग (SSP)** पेक्षा वेगळे.
@@ -123,7 +123,7 @@
     - [पायाभूत संवैधानिक निवड](core_05_band_integrative.md#foundational-constitutional-choice);
     - [दस्तऐवजीकृत वैधता यंत्रणा](../../core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority) [अध्याय बारा §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) खाली;
     - [अंगीकरण](../../core_16_amendment_ratification.md#10-ratification-and-adoption) आणि [पुनर्प्राधिकरण](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) नियम ([अध्याय बारा §1.3](../../core_13_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails); [अध्याय सोळा §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)); आणि
-    - शासन प्राधिकार घटित करण्यासाठी किंवा टिकाऊ रीतीने पुनर्रचित करण्यासाठी [राजकीय-समानता तळ](../../core_13_governance.md#41-entitlement-and-eligibility) — हक्कधारक संज्ञ प्राण्यांना त्या स्तरावर समान आवाज ([अनुच्छेद IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)).
+    - शासन प्राधिकार घटित करण्यासाठी किंवा टिकाऊ रीतीने पुनर्रचित करण्यासाठी [राजकीय-समानता तळ](../../core_13_governance.md#41-entitlement-and-eligibility) — हक्कधारक संज्ञ प्राण्यांना त्या स्तरावर समान आवाज ([अनुच्छेद X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement)).
   - **व्याप्तीबाहेर:**
     - प्रभावित पक्षांची सामान्य सल्लामसलत;
     - संक्रियात्मक सहभाग;
@@ -131,7 +131,7 @@
     - संरचना आणि प्रक्रिया आधीच अधिकृत झाल्यानंतरचे सामान्य क्षेत्र शासन; आणि
     - सामान्य [प्रभावित पक्ष भार](core_05_band_participation.md#stakeholder-weight) — ज्यांना अधिक परिणाम होतो त्यांना अधिक आवाज देणे — स्थापना किंवा पुनर्प्राधिकरण मते ठरवण्यासाठी वापरलेले ([प्रस्तावना §3.3 शासन स्तर](core_00_preamble.md#33-governance-layers)).
   - **संक्रियात्मक घर:** [अध्याय बारा](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) या स्तरासाठी बंधनकारक प्राधिकरण, वैधता आणि उत्तरदायी-व्यवस्थापन नियम सांगतो.
-  - **अधिकार-तळ:** [अनुच्छेद IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement) (*शासन सहभाग आणि मतदान हक्क*) समान-सहभाग हक्क सांगतो जो त्या अध्याय-बारा नियमांनी आकुंचित करू नये.
+  - **अधिकार-तळ:** [अनुच्छेद X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement) (*शासन सहभाग आणि मतदान हक्क*) समान-सहभाग हक्क सांगतो जो त्या अध्याय-बारा नियमांनी आकुंचित करू नये.
 <a id="constitutional-contract-layer-a"></a>
 - **कसे मापावे आणि मूल्यमापन करावे**
   - **प्राथमिक माप:** [उत्तरदायित्व मापन कुटुंब](core_05_apex_accountability_leg.md#accountability-measurement-family) — *बक्षीस रचना, बाजार शक्ती आणि उत्तर देण्याची जबाबदारी कर्तव्ये खरी ठेवतात का?* येथे विचारा की दावा केलेली शासन शक्ती खऱ्या संवैधानिक करारावर उभी आहे का — दस्तऐवजीकृत वैधता, समान स्थापना आवाज, आणि या संज्ञ संविधानाशी संरेखित राहणाऱ्या टिकाऊ अटी — फक्त आकार, लोकप्रियता, किंवा बाजार पोहोच नाही.
@@ -158,7 +158,7 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - पुढे: तत्त्वे: [अध्याय एक §5 स्वातंत्र्य](core_01_a_values_principles.md#5-freedom-bounded-agency); [6. प्रक्रिया संघर्ष निराकरण](#6-process-conflict-resolution).
-- मालक तळ: [अध्याय बारा अध्याय एक §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*पायाभूत संवैधानिक निवडीसाठी राजकीय-समानता तळ*; *टिकाऊ राजकीय-आवाज तळ*); [अनुच्छेद IX-C: शासन सहभाग आणि मतदान हक्क](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
+- मालक तळ: [अध्याय बारा अध्याय एक §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*पायाभूत संवैधानिक निवडीसाठी राजकीय-समानता तळ*; *टिकाऊ राजकीय-आवाज तळ*); [अनुच्छेद X-C: शासन सहभाग आणि मतदान हक्क](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement).
 - समूह घटक: [*संवैधानिक करार स्तर आणि पायाभूत संवैधानिक निवड*](core_05_band_integrative.md#constitutional-contract-layer)
 - सोबत वाचा: [संवैधानिक करार स्तर](core_05_band_integrative.md#constitutional-contract-layer), [प्रभावित पक्ष प्रतिनिधित्व आणि भार मर्यादा (प्रभावित पक्षांची बंधनकारक निवड)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), [प्रभावित पक्षांची बंधनकारक निवड](core_05_band_participation.md#binding-stakeholder-choice-cluster), [प्रक्रियात्मक न्याय्यपणा](core_05_band_participation.md#procedural-fairness-constitutional).
 - स्तर: **संवैधानिक करार स्तर (CCL)**. आधीच अधिकृत प्रणालींतील **प्रभावित पक्षांचा प्रणालीगत सहभाग (SSP)** पेक्षा वेगळे.
@@ -177,10 +177,10 @@
 
     हे [संवैधानिक करार स्तर](core_05_band_integrative.md#constitutional-contract-layer) चे आहे.
     - मालक: [अध्याय बारा अध्याय एक §4.1](../../core_13_governance.md#41-entitlement-and-eligibility).
-    - अधिकार-स्तर निर्देशक: [अनुच्छेद IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement) (*शासन सहभाग आणि मतदान हक्क*).
+    - अधिकार-स्तर निर्देशक: [अनुच्छेद X-C](../../core_06_rights_part_b.md#article-x-c-governance-participation-and-voting-entitlement) (*शासन सहभाग आणि मतदान हक्क*).
     - [संज्ञता-अवर्जन](core_05_band_participation.md#sentience-non-exclusion) खाली लागू.
   - **व्याप्तीबाहेर:**
-    - क्षेत्रात आधीच अधिकृत शासन संरचना आणि प्रक्रिया असतील तेव्हा सामान्य प्रभाव-भारित प्रभावित-पक्ष निर्णय — प्रभावित संज्ञ प्राण्यांना [प्रभावित पक्ष](core_05_band_participation.md#stakeholder) ओळख आणि [प्रभावित पक्ष भार](core_05_band_participation.md#stakeholder-weight) द्वारे किती परिणाम होतो याच्या प्रमाणात आवाज मिळतो (**अनुच्छेद XI** (*प्रभावित पक्षांचा प्रणालीगत सहभाग, प्रतिनिधित्व आणि योग्य प्रक्रिया*) बंधने धरून), समान-भार पायाभूत मोजणी नियमांद्वारे नाही; आणि
+    - क्षेत्रात आधीच अधिकृत शासन संरचना आणि प्रक्रिया असतील तेव्हा सामान्य प्रभाव-भारित प्रभावित-पक्ष निर्णय — प्रभावित संज्ञ प्राण्यांना [प्रभावित पक्ष](core_05_band_participation.md#stakeholder) ओळख आणि [प्रभावित पक्ष भार](core_05_band_participation.md#stakeholder-weight) द्वारे किती परिणाम होतो याच्या प्रमाणात आवाज मिळतो (**अनुच्छेद XII** (*प्रभावित पक्षांचा प्रणालीगत सहभाग, प्रतिनिधित्व आणि योग्य प्रक्रिया*) बंधने धरून), समान-भार पायाभूत मोजणी नियमांद्वारे नाही; आणि
     - नेहमीचे संक्रियात्मक किंवा धोरण निवडी जे तो प्राधिकार अधिकृत किंवा टिकाऊ रीतीने पुनर्रचित करत नाहीत.
 <a id="foundational-constitutional-choice-a"></a>
 <a id="foundational-collective-choice-constitutional-a"></a>

@@ -37,7 +37,7 @@
 Chapter Ten is the constitutional owner of **standing integration and standing effects**, including attachments, the consequence-facing use of Chapter Nine descriptors, standing locks, remedy assignment, voluntary public accountability expression, and enforcement anchors.
 
 <a id="operative-steward-statement-remedy"></a>
-> **Operative steward statement.** **Owner:** Chapter Ten §4.1 (assign remedy and correction from the verified violation record). Chapter Ten §9 (consequences must be institutionally real). Rights-Floor challenge and redress: Article XII-B. **Forbidden move:** Do not treat a published form as remedy. Do not wait for a filed case to preserve evidence. Do not externalize cost onto those harmed. **Clock:** Start intake, preservation, review, and repair now. Do not wait for a filed case to preserve evidence.
+> **Operative steward statement.** **Owner:** Chapter Ten §4.1 (assign remedy and correction from the verified violation record). Chapter Ten §9 (consequences must be institutionally real). Rights-Floor challenge and redress: Article XIII-B. **Forbidden move:** Do not treat a published form as remedy. Do not wait for a filed case to preserve evidence. Do not externalize cost onto those harmed. **Clock:** Start intake, preservation, review, and repair now. Do not wait for a filed case to preserve evidence.
 
 Question 3 of the standing pipeline applies the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) when converting verified Chapter Nine standing records into consequences.
 <a id="1-chapter-nine-records-do-not-change"></a>
@@ -227,7 +227,7 @@ Where restorative pathways for a verified violation include public acknowledgmen
   - independently reviewable for voluntariness and authenticity.
 - Refusal to participate in public expression must not, by itself, increase baseline sanctions, widen a standing lock, or substitute for remedy or correction owed under [§4.1 Remedy and correction](#41-remedy-and-correction).
 - **Inauthentic or abusive expression:** Public acknowledgment or apology that is materially insincere, manipulative, performative without truthful accountability, or abusive toward affected parties or the public does not satisfy restorative requirements.
-  - It may carry negative justice consequences for the accountable party — including reduced credit for rehabilitation and other lawful restrictions under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and [Chapter Nine](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
+  - It may carry negative justice consequences for the accountable party — including reduced credit for rehabilitation and other lawful restrictions under **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and [Chapter Nine](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
   - Treating a fake or abusive apology as sufficient repair, or using it to avoid necessary protection, remediation, or locks under [§4.1 Remedy and correction](#41-remedy-and-correction) and [§4.2 Prevention — general standing locks](#42-prevention--general-standing-locks), is non-compliant.
 - No format may impose any of the following beyond what is necessary for truthful accountability and proportionate remediation:
   - degrading treatment;
@@ -375,7 +375,7 @@ These rules shape how a lock or safeguard is attached under [§5.1 Definition an
 **Duty to resist.**
 
 <a id="operative-steward-statement-unlawful-instruction"></a>
-> **Operative steward statement.** **Owner:** Chapter Ten §5.4 Duty to resist. Shared standard: Chapter One §10.1. Contest floor: Article XII-B. **Forbidden move:** Do not comply. Do not treat cover as a transfer of duty. Do not close contest pathways to be helpful. **Clock:** Run instruction received → refuse → document → escalate on the shared screen now. Preserve contest pathways.
+> **Operative steward statement.** **Owner:** Chapter Ten §5.4 Duty to resist. Shared standard: Chapter One §10.1. Contest floor: Article XIII-B. **Forbidden move:** Do not comply. Do not treat cover as a transfer of duty. Do not close contest pathways to be helpful. **Clock:** Run instruction received → refuse → document → escalate on the shared screen now. Preserve contest pathways.
 
 **Named sequence.** Instruction received → refuse → document → escalate. Log the [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) minimum inspectable-action set. Same sequence for both kinds of steward. Steward pointer (process support; cannot narrow this section): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).
 
@@ -646,7 +646,7 @@ An applicable standing lock under [§4.2 Prevention — general standing locks](
 
 The standing system must **automatically** state the final standing effect for each named pathway once the earlier steps in [§2 Automatic integration, review, and continuity](#2-automatic-integration-review-and-continuity) are complete. That statement must list every open clearance and every restricted named pathway. No additional manual approval is required when verified inputs and published rules produce a determinate result. Contested, uncertain, novel, materially discretionary, or high-impact questions still assemble and route automatically, then go to authorized review under [§2 Automatic integration, review, and continuity](#2-automatic-integration-review-and-continuity).
 
-**Separate roles.** Automatic integration may use verified records, remedies, correction duties, locks, bars, clearances, and descriptors together. Each still has its own job, and none may do the work of another. Closer or automated scrutiny is not, by itself, a reason to impose a harsher restriction. Any restriction must be necessary, matched to the verified facts, backed by evidence, open to review, and consistent with **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*).
+**Separate roles.** Automatic integration may use verified records, remedies, correction duties, locks, bars, clearances, and descriptors together. Each still has its own job, and none may do the work of another. Closer or automated scrutiny is not, by itself, a reason to impose a harsher restriction. Any restriction must be necessary, matched to the verified facts, backed by evidence, open to review, and consistent with **Article XXIV** (*Conflict Resolution, Escalation, and Emergency Proportionality*).
 
 The integration record must state the final effect separately for each affected named pathway:
 
@@ -675,7 +675,7 @@ It must also expose the inputs, weights, rules, and review routes used. The fina
 *In plain terms: this chapter says what standing is not. This subsection stops anyone from building the thing it is not. Effects are stated one named pathway at a time and shown only to whoever gates that named pathway. Stitching them together into a profile, a rank, or a public display constructs the merged score this chapter forbids — and doing so is itself a violation.*
 
 - **Disclosure scope:** The final effect for a named pathway is disclosed to the subject, to the gatekeeper of that named pathway, and to authorized reviewers. It is not disclosed to gatekeepers of other named pathways as a matter of course.
-- **Prohibited aggregation:** The following construct a merged score and are independently measurable violation conduct under [Chapter Nine](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model), read with [Article VII-B](core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection) (*Internal-State Boundary and Type-N Protection*), whose aggregation discipline this subsection mirrors for standing:
+- **Prohibited aggregation:** The following construct a merged score and are independently measurable violation conduct under [Chapter Nine](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model), read with [Article VII-B](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*), whose aggregation discipline this subsection mirrors for standing:
   - assembling final effects across named pathways into:
     - a profile;
     - a composite;
@@ -694,12 +694,12 @@ It must also expose the inputs, weights, rules, and review routes used. The fina
 
 *In plain terms: no one should learn what a standing effect does to them from its consequences. The record must tell the subject, in plain language, exactly which named pathways are affected, what they must do, how long it lasts, and where to contest it — and the adopter must measure whether sentients are experiencing standing as a score, because the rule that it is not one is worthless if that is how it lands.*
 
-- **Plain-language statement to the subject:** When a final effect other than **no effect** attaches, the subject must receive a plain-language statement. The statement must satisfy [Chapter One §3.4 Plain-Language Accessibility (Participation and Stewardship Duty)](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty) and **Article XX-A** (*Proportional Comprehensibility Right*), and must name:
+- **Plain-language statement to the subject:** When a final effect other than **no effect** attaches, the subject must receive a plain-language statement. The statement must satisfy [Chapter One §3.4 Plain-Language Accessibility (Participation and Stewardship Duty)](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty) and **Article XXI-A** (*Proportional Comprehensibility Right*), and must name:
   - each affected named pathway;
   - what the subject may and may not do while the effect holds;
   - the corrective conditions and reassessment point;
   - the expected duration or review cadence; and
-  - the challenge route under **Article XII-B** (*Right to Challenge, Review, and Redress*).
+  - the challenge route under **Article XIII-B** (*Right to Challenge, Review, and Redress*).
 - **Honest cost:** A standing lock closes real doors and an inspectable-action duty is a real burden on the steward who carries it. Adopters must state those costs plainly in the material that describes standing to affected sentients, alongside what standing is not. Describing only the limits of standing while omitting its weight is a [Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) defect.
 - **Felt-burden measure:** Adopters must measure, under the [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family), whether affected sentients experience standing effects as a general worth rank, reputation score, or permanent status rather than as bounded named-pathway conditions. Material divergence between the legal category and the lived one is [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) under [Chapter One §6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation): it must be documented, escalated, and corrected through design, disclosure, or [§7.1 Anti-aggregation of named-pathway effects](#71-anti-aggregation-of-named-pathway-effects) enforcement — not explained away.
 
@@ -735,7 +735,7 @@ Archival is not deletion. [Evidence Preservation](core_05_band_oversight.md#evid
 
 *In plain terms: standing consequences and redress count only when real institutions can deliver them. This section is the constitutional floor for that machinery. Day-to-day staffing, funding, backlog, and succession rules live in the institutions layer.*
 
-Chapter Ten owns the constitutional floor that Question 3 consequences and related redress must be institutionally real. A [Remedy System](core_05_band_accountability.md#remedy-system-constitutional) is the durable capacity that delivers challenge, intake, preservation, review, repair, monitoring, safeguard enforcement, and lock review — not a paper remedy pathway. Implementation detail is owned by [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*). Read with **Article XII-B** (*Right to Challenge, Review, and Redress*) and [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) for forum supervision.
+Chapter Ten owns the constitutional floor that Question 3 consequences and related redress must be institutionally real. A [Remedy System](core_05_band_accountability.md#remedy-system-constitutional) is the durable capacity that delivers challenge, intake, preservation, review, repair, monitoring, safeguard enforcement, and lock review — not a paper remedy pathway. Implementation detail is owned by [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*). Read with **Article XIII-B** (*Right to Challenge, Review, and Redress*) and [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) for forum supervision.
 
 Standing integration fails if consequences exist only on paper. Adopters must maintain practical, timely capacity to implement correction, fund remedy, review restrictions, preserve records, enforce safeguards, and prevent escape through cost, delay, borders, restructuring, or formal identity changes.
 
@@ -813,7 +813,7 @@ Forums and implementation systems must be able to look through formal structure 
 <a id="95-timely-implementation"></a>
 #### 9.5 Timely implementation
 
-Remedy commencement, correction milestones, lock review, and reassessment must satisfy [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Chapter Twelve §6 Timely resolution, materiality tiers, and anti-delay discipline](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Delay that compounds harm, conceals non-performance, or defeats review is a new verified fact for Question 3 and may justify escalated safeguards without changing the original Chapter Nine slot.
+Remedy commencement, correction milestones, lock review, and reassessment must satisfy [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Chapter Twelve §6 Timely resolution, materiality tiers, and anti-delay discipline](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), and **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*). Delay that compounds harm, conceals non-performance, or defeats review is a new verified fact for Question 3 and may justify escalated safeguards without changing the original Chapter Nine slot.
 
 Rights and standing consequences are real only when sentients can invoke them, verify them, fund practical repair, obtain timely review, and enforce obligations against the actors functionally responsible.
 

@@ -260,7 +260,7 @@
 - [பாதுகாக்கப்பட்ட பண்புகள்](../../core_05_band_participation.md#protected-characteristics-constitutional)
 - [பாதுகாக்கப்பட்ட தரவு மற்றும் உள்-நிலை வெளியீட்டுக் கட்டுப்பாடு](../../core_05_band_oversight.md#protected-data-and-internal-state-publication-constraint)
 - [பாதுகாக்கப்பட்ட உள்-நிலை எல்லை](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional)
-- [பாதுகாக்கப்பட்ட நெருக்கமான-குறிகை வாயிலும் **சரத்து X-C** (*வயது வந்தோரின் சம்மதத்துடன் கூடிய வணிக பாலியல் சேவைகளும் பாலியல் சுரண்டலும்*) நிலை தவிர்ப்பும்](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention)
+- [பாதுகாக்கப்பட்ட நெருக்கமான-குறிகை வாயிலும் **சரத்து XI-C** (*வயது வந்தோரின் சம்மதத்துடன் கூடிய வணிக பாலியல் சேவைகளும் பாலியல் சுரண்டலும்*) நிலை தவிர்ப்பும்](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention)
 - [பாதுகாக்கப்பட்ட புகார் (ஊழல் வெளிப்படுத்தல்)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
 - [பாதுகாக்கப்பட்ட புகாருக்குப் பழிவாங்கலும் அணுகல் தடையும்](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)
 - [பதிலீட்டு விலகல்](../../core_05_band_oversight.md#proxy-divergence)

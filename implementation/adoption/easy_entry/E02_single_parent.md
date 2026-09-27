@@ -53,13 +53,13 @@ See: [Article III-A](../../../core_06_rights_part_a.md#article-iii-a-survival); 
 - **Today:** Someone hints that a single-parent home is already a risk. Single parent, chosen family, or non-marital care is treated as incomplete and therefore easier to override.
 - **With this Constitution:** You may form, keep, and leave family and care relationships of your choosing. A one-parent home is not itself a reason to take the child. A lasting split from a child you care for is allowed only if it is actually needed to prevent harm, no bigger than that harm, decided fairly, and open to challenge. A long split has to be looked at again.
 
-See: [Article VII-D](../../../core_06_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation); [Non-Separation](../../../core_05_band_participation.md#non-separation-constitutional).
+See: [Article VIII-A](../../../core_06_rights_part_b.md#article-viii-a-family-care-relationships-reproductive-autonomy-and-non-separation); [Non-Separation](../../../core_05_band_participation.md#non-separation-constitutional).
 
 **The child’s interests are not a spare argument for the other adult’s convenience.**
 - **Today:** “For the child” is used to move the child, change who they live with, or put another adult in charge — without asking what actually helps this child, and without asking them as far as they can show what they want.
 - **With this Constitution:** Those decisions have to be about this child’s own interests, including what they can show they want — not about a quieter house, a “complete” family, or an easier adult schedule. Calling it “for the child” is not enough.
 
-See: [Article VII-E](../../../core_06_rights_part_b.md#article-vii-e-developing-sentients-best-interest-and-graduated-capability).
+See: [Article VIII-B](../../../core_06_rights_part_b.md#article-viii-b-developing-sentients-best-interest-and-graduated-capability).
 
 ## What you might reasonably object to
 

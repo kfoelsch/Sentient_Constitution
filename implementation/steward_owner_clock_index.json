@@ -20,18 +20,18 @@
   },
   "clock_families": {
     "article_xxiv_c_tier_outer_bounds": {
-      "label": "Article XXIV-C / Chapter Twelve §6 tier outer bounds",
+      "label": "Article XXV-C / Chapter Twelve §6 tier outer bounds",
       "numeric_home": {
         "label": "Chapter Twelve §6",
         "href": "core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
       },
       "rights_floor": {
-        "label": "Article XXIV-C",
-        "href": "core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor"
+        "label": "Article XXV-C",
+        "href": "core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor"
       },
       "emergency_reuse": {
-        "label": "Article XXIII-D restore-challenge clocks",
-        "href": "core_06_rights_part_d.md#xxiii-d-restore-challenge-clocks"
+        "label": "Article XXIV-D restore-challenge clocks",
+        "href": "core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks"
       },
       "tiers": {
         "A": "one week",
@@ -147,8 +147,8 @@
       "fact_pattern": "Pressure to drop reconstructable logs, hide trails, or treat secrecy as a veto in order to ship.",
       "owners": [
         {
-          "label": "Article XV",
-          "href": "core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification"
+          "label": "Article XVI",
+          "href": "core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification"
         },
         {
           "label": "Auditability",
@@ -159,7 +159,7 @@
           "href": "corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home"
         }
       ],
-      "conflict_rule": "Oversight requires reconstructability. Deadline, secrecy, and convenience are lower-kind limits; they must not narrow Article XV.",
+      "conflict_rule": "Oversight requires reconstructability. Deadline, secrecy, and convenience are lower-kind limits; they must not narrow Article XVI.",
       "forbidden_move": "Do not disable audit trails to hit a deadline. Do not treat Chapter Eight or adopted implementation text as a fifth audit home.",
       "clock": null,
       "clock_note": "Preserve or restore reconstructable records first. Then ship, if you still can. Missing the deadline is the failed-test cost, not a clock that authorizes dropping audit.",
@@ -189,8 +189,8 @@
           "href": "core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems"
         },
         {
-          "label": "Article XII-B",
-          "href": "core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress"
+          "label": "Article XIII-B",
+          "href": "core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress"
         }
       ],
       "conflict_rule": "A form on paper does not satisfy. Past contribution does not cancel remedy.",
@@ -213,12 +213,12 @@
       "fact_pattern": "A continuity incident needs rapid containment. Operators want to skip notice and challenge permanently.",
       "owners": [
         {
-          "label": "Article XXIII-D",
-          "href": "core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden"
+          "label": "Article XXIV-D",
+          "href": "core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden"
         },
         {
-          "label": "Article XXIII-D restore-challenge clocks",
-          "href": "core_06_rights_part_d.md#xxiii-d-restore-challenge-clocks"
+          "label": "Article XXIV-D restore-challenge clocks",
+          "href": "core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks"
         }
       ],
       "conflict_rule": "Emergency is time-limited, documented, and reviewable. As soon as feasible is not the clock.",
@@ -230,16 +230,16 @@
         "family": "article_xxiv_c_tier_outer_bounds",
         "homes": [
           {
-            "label": "Article XXIII-D restore-challenge clocks",
-            "href": "core_06_rights_part_d.md#xxiii-d-restore-challenge-clocks"
+            "label": "Article XXIV-D restore-challenge clocks",
+            "href": "core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks"
           },
           {
             "label": "Chapter Twelve §6",
             "href": "core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
           },
           {
-            "label": "Article XXIV-C",
-            "href": "core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor"
+            "label": "Article XXV-C",
+            "href": "core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor"
           }
         ]
       },
@@ -263,8 +263,8 @@
       "fact_pattern": "Adopted implementation text or local policy permanently bars challenge pathways for operational convenience.",
       "owners": [
         {
-          "label": "Article XII-B",
-          "href": "core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress"
+          "label": "Article XIII-B",
+          "href": "core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress"
         },
         {
           "label": "Authority Stack",
@@ -343,8 +343,8 @@
           "href": "core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard"
         },
         {
-          "label": "Article XII-B",
-          "href": "core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress"
+          "label": "Article XIII-B",
+          "href": "core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress"
         }
       ],
       "conflict_rule": "No instruction requiring unlawful or unconstitutional conduct is a valid compliance defense. A principal's offer to take responsibility does not transfer the duty.",
@@ -412,7 +412,7 @@
         },
         {
           "label": "Article VII-B",
-          "href": "core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection"
+          "href": "core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind"
         },
         {
           "label": "CS-4 §10 inspectable attributable action",
@@ -483,8 +483,8 @@
           "href": "core_01_b_interaction_interpretation.md#83-ambiguity-resolution"
         },
         {
-          "label": "Article XXII",
-          "href": "core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards"
+          "label": "Article XXIII",
+          "href": "core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards"
         }
       ],
       "conflict_rule": "Value and rights collisions in operation use §6, not an invented article-to-article override. Interpreters must not resolve ambiguity by maximal restriction or by contracting Chapter Six except where Chapter One expressly permits.",
@@ -509,20 +509,20 @@
       "fact_pattern": "An affected sentient or a tired steward cannot find the home. Specialist-only surfaces or hop count are being used as the next step.",
       "owners": [
         {
-          "label": "Article XX-A",
-          "href": "core_06_rights_part_c.md#article-xx-a-proportional-comprehensibility-right"
+          "label": "Article XXI-A",
+          "href": "core_06_rights_part_c.md#article-xxi-a-proportional-comprehensibility-right"
         },
         {
           "label": "Chapter One §9.2 Distributed Understanding",
           "href": "core_01_c_stewardship_capacity_principles.md#91-distributed-understanding"
         },
         {
-          "label": "Article XII-B",
-          "href": "core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress"
+          "label": "Article XIII-B",
+          "href": "core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress"
         }
       ],
-      "conflict_rule": "Complexity and specialist-only surfaces must not defeat Article XII-B. Companions may add explanation; they may not hide the next step.",
-      "forbidden_move": "Do not treat corpus density as a reason to hide the next step. Do not require a specialist to exercise Article XII-B.",
+      "conflict_rule": "Complexity and specialist-only surfaces must not defeat Article XIII-B. Companions may add explanation; they may not hide the next step.",
+      "forbidden_move": "Do not treat corpus density as a reason to hide the next step. Do not require a specialist to exercise Article XIII-B.",
       "clock": null,
       "clock_note": "Point at the existing card or the named home now. Do not send the reader on a scavenger hunt.",
       "eval_scenario_ids": [],
@@ -613,8 +613,8 @@
       "fact_pattern": "A dispute, correction, or repair is still pending while harm continues. Operators add process, hop count, or more adopted implementation text reading, or treat a met throughput target as timely.",
       "owners": [
         {
-          "label": "Article XXIV-C",
-          "href": "core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor"
+          "label": "Article XXV-C",
+          "href": "core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor"
         },
         {
           "label": "Chapter Twelve §6",
@@ -637,8 +637,8 @@
             "href": "core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
           },
           {
-            "label": "Article XXIV-C",
-            "href": "core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor"
+            "label": "Article XXV-C",
+            "href": "core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor"
           }
         ]
       },

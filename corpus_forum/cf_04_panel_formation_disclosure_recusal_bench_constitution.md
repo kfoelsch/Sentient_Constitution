@@ -312,7 +312,7 @@ Once a status case is open, the merits forum must appoint an independent represe
 - is a sentient or body with no material dependence on, ownership interest in, or employment by the parent system, operator, or any party seeking to withhold or narrow protection;
 - is **not** a panel member and does not sit on the merits bench;
 - is selected under the published rotation, disclosure, recusal, and substitute-selection rules that govern forum panels in this file;
-- has access to the entity within [Article VII-B](../core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection) (*Internal-State Boundary and Type-N Protection*) limits;
+- has access to the entity within [Article VII-B](../core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*) limits;
 - has a duty to present the entity's interests and any preferences the entity can express;
 - has standing to contest narrowing, revocation, or intake decline.
 

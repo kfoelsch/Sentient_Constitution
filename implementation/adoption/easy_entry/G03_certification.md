@@ -39,7 +39,7 @@ See: [Article VI-B](../../../core_06_rights_part_b.md#anti-substitution-sentienc
 - **Today:** If the certification file is pretty, no one else may look.
 - **With this Constitution:** The audit floor still applies. Chapter Eight is one large process under it, not a way to close every other check.
 
-See: [Article XV](../../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification).
+See: [Article XVI](../../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification).
 
 ## What to open next
 

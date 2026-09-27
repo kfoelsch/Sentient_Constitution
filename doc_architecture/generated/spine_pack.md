@@ -34,7 +34,7 @@ human and AI stewards owe the same Chapter One duties. [Chapter Ten §5.4 Duty t
 
 ## Rights Floor one-liners
 
-128 Article headings. Generated sheet: [rights_floor_sheet.md](../../doc_architecture/generated/rights_floor_sheet.md).
+129 Article headings. Generated sheet: [rights_floor_sheet.md](../../doc_architecture/generated/rights_floor_sheet.md).
 
 ## Steward-door classes
 
