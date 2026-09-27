@@ -892,7 +892,8 @@ This Article sets out self-ownership of reputation and likeness and the limits o
 - **Limits on the factual-reporting exception:** Factual reporting and documentary depiction must remain materially tied to an accurate account of observable events. They do not create general authority for unrelated identity-linked reuse.
   - Such use must not substitute gratuitous intimate or irrelevant personal exposure where it is not materially relevant to the reported facts.
   - Such use must not rely on deceptive editing, misattribution, or synthetic likeness held out as authentic beyond what the truth claim supports.
-- **Operational typing:** Operational classification and handling remain governed by **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**.
+- **Where the detailed rules live:** How likeness and reputation information is sorted, labeled, and handled day to day is spelled out in **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**.
+
 #### Article IX-B: Experiential and Derived Data Rights
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1017,35 +1018,48 @@ This Article sets out the freedom to publish in good faith and its limits:
 
 *In plain terms: creators get real attribution and compensation for their work, including when it is used as training data; "fair use," "transformative," or "innovation" framings do not erase those obligations, and creative labor must not be silently displaced.*
 
-This Article sets out the attribution, training-data, compensation, and anti-displacement floors for creative work:
+This Article protects sentients who make creative work. It covers five things:
 
-- **Creative-work attribution:** Sentients who produce creative, intellectual, or comparable expressive work retain an attribution interest. That interest must be recognized substantively — not merely formally — when the work is used, reproduced, adapted, transformed, or incorporated into derivative output.
-  - Attribution is substrate-agnostic under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
-  - "Fair use" or "transformative" framings do not by themselves extinguish attribution where the derivative output is materially traceable to the creator's work.
-  - Attribution may be structured as direct, aggregate, or inventory-based, as context requires. Its substantive function — traceability from derivative output to upstream creators — must survive.
-- **Training-data use:** Use of sentient-produced creative, expressive, personal, experiential, or otherwise identifiable work as training data for generative, analytical, or comparable systems engages [Consent](core_05_band_participation.md#consent-constitutional) under **Article IX-B** (*Experiential and Derived Data Rights*) experiential-data discipline, the [Training-Data Use](core_05_band_continuity.md#training-data-use-constitutional) framework, and the **Privacy (Informational)** cluster where informational exposure, aggregation, re-identification, or downstream reuse is materially implicated.
-  - Consent must be meaningful: informed scope, purpose, duration, downstream-reuse terms, and revocation pathway.
-  - Calling the material "not personal data" does not excuse training-data use when the underlying work came from an identifiable sentient creator — consent is still required.
-  - This rule also covers:
-    - pooling data together;
-    - the risk of figuring out who someone is again;
-    - inferring private inner states from what the system learned; and
-    - reusing the data for new purposes later.
-- **Anti-displacement floor:** Generative, automation, or comparable systems whose deployment produces **material displacement** of sentient creative labor — in volume, compensation, attribution, or ability to sustain livelihood — engage the [Anti-Displacement Floor](core_05_band_continuity.md#anti-displacement-floor-constitutional) in interaction with **Article III-C** (*Labor and Economic Floor*) and **Chapter One §14** (*Market Structure*) non-concentration.
-  - Aggregate-productivity, efficiency, or innovation framings do not by themselves satisfy the floor.
-  - Where deployment-scale displacement foreseeably degrades creative labor's sustainability for a population of sentients, mitigation must be substantive. Examples:
-    - compensation regimes;
-    - transition support;
-    - attribution and licensing structures;
-    - participation in the derived value.
-- **Fair compensation:** The [Fair Compensation](core_05_band_continuity.md#fair-compensation-constitutional) standard under **Article III-C** (*Labor and Economic Floor*) applies to creative labor regardless of substrate, and regardless of whether compensation is structured through traditional, platform, or novel mechanisms.
-  - Attribution without compensation, or compensation without attribution, does not by itself satisfy this bullet where both are materially owed.
-- **Market concentration:** If a few players hoard control over materials, platforms, how information flows, or creative tools — in ways that predictably undercut other creators' livelihoods or ability to get credit for their work — **Chapter One §14** (*Market Structure*) non-concentration and the **[Chapter One §14.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](core_01_c_stewardship_capacity_principles.md#141-market-concentration-threshold-mechanism-adopter-tunable)** market-concentration-threshold mechanism apply.
-  - Calling the arrangement "productive capacity" does not satisfy this Article when the pattern still amounts to forbidden concentration.
-- **Likeness, data, and publication rules still apply:** **Article IX-A** (*Self-Ownership of Likeness and Reputation*), **Article IX-B** (*Experiential and Derived Data Rights*), and **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) still govern likeness, personal data, and truthful publication in full. **Article IX-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) does not water them down.
-  - When a creative-work dispute also involves likeness, personal data, or publication, **Articles IX-A**, **IX-B**, and **IX-C** work together with **Article IX-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) under **Chapter One §6.1.5** (*Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle*).
-- **What this Article is — and is not:** **Article IX-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) sets the constitutional floor for creative labor, training-data use, and anti-displacement. It is not a substitute for copyright, trademark, patent, or other intellectual-property rules adopters may specify — those rules must still stay within this floor.
-  - Using IP-law labels to shrink this floor is not allowed.
+- credit for creative work;
+- training AI on creative work;
+- protection against being pushed out of a livelihood by new technology;
+- market concentration, which can push creators out in the same way;
+- fair pay.
+
+It also confirms that the existing rules on likeness, personal data, and publication still apply in full.
+
+These are minimum protections. Adopters may also have copyright, trademark, patent, or other intellectual-property laws, but those laws must meet this minimum, and intellectual-property labels cannot be used to shrink it.
+
+- **Credit for creative work:** If you make creative, intellectual, or other expressive work, you keep the right to be credited for it. The credit has to be real, not a token mention, whenever your work is used, copied, adapted, changed, or built into something new.
+  - This applies to every sentient creator, whatever kind of being they are (see [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion)).
+  - Calling a use "fair use" or "transformative" does not, on its own, cancel your right to credit if the new work can still be clearly traced back to yours.
+  - Credit can be given to one creator at a time, to a group of creators together, or through a list of source works, whichever fits the situation. Whatever form it takes, people must still be able to trace the new work back to the creators it came from.
+- **Training AI on creative work:** No one may use a sentient's work to train AI or similar systems without that creator's [Consent](core_05_band_participation.md#consent-constitutional).
+  - This covers:
+    - creative work;
+    - personal and experiential work;
+    - anything else that can be traced back to a particular creator.
+  - These rules also apply:
+    - the [Training-Data Use](core_05_band_continuity.md#training-data-use-constitutional) framework;
+    - the personal-data rules in **Article IX-B** (*Experiential and Derived Data Rights*);
+    - the **Privacy (Informational)** rules, whenever someone's information could be exposed or reused.
+  - Consent counts only if the creator knows what the work will be used for, for how long, whether it can be reused later, and how to take consent back.
+  - Calling the material "not personal data" does not remove the need for consent.
+  - Using what a system learned to guess at someone's private thoughts or feelings is covered by [**Article VII-B**](#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*).
+- **Protection against being pushed out:** Sometimes AI, automation, or similar systems are rolled out in a way that seriously pushes creative workers out. They may get less work, lower pay, or less credit, or they may no longer be able to make a living. When that happens, the [Anti-Displacement Floor](core_05_band_continuity.md#anti-displacement-floor-constitutional) applies, together with **Article III-C** (*Labor and Economic Floor*) and the limits on market concentration in **Chapter One §14** (*Market Structure*).
+  - Saying that the change raises overall productivity, efficiency, or innovation is not enough by itself.
+  - If a large-scale rollout can be expected to make creative work unsustainable for a group of creators, the response must make a real difference. Examples:
+    - pay or royalty systems;
+    - help moving to other work;
+    - credit and licensing arrangements;
+    - a share of the value the system produces.
+- **Market concentration:** Creators can also be pushed out when a few players gain control over materials, platforms, the flow of information, or creative tools. When that control can be expected to hurt other creators' livelihoods or their ability to get credit, the limits on concentration in **Chapter One §14** (*Market Structure*) apply, including the **[Chapter One §14.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](core_01_c_stewardship_capacity_principles.md#141-market-concentration-threshold-mechanism-adopter-tunable)**.
+  - Calling the arrangement "productive capacity" does not make it acceptable if it still amounts to the kind of concentration §14 forbids.
+- **Fair pay:** The [Fair Compensation](core_05_band_continuity.md#fair-compensation-constitutional) standard in **Article III-C** (*Labor and Economic Floor*) applies to creative work no matter what kind of being made it. It also applies whether payment comes through a traditional job, a platform, or some new arrangement.
+  - Creators are owed both pay and credit for their work, whether they use their own name or a pen name. Providing one does not make up for missing the other.
+  - Creators may choose to give up pay, credit, or both. For example, they may give their work away for free to an open-source project or the public domain, or publish it anonymously. That choice must be their own, made freely and without pressure. It is never a condition someone else imposes on them.
+- **Likeness, data, and publication rules still apply in full:** **Article IX-A** (*Self-Ownership of Likeness and Reputation*), **Article IX-B** (*Experiential and Derived Data Rights*), and **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) still fully protect likeness, personal data, and truthful publication. This Article does not weaken them.
+  - A dispute about creative work may also involve someone's likeness, personal data, or publication. When it does, all four Articles apply together, following **Chapter One §6.1.5** (*Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle*). That means using the least restrictive limit that works, keeping it time-limited, and keeping it open to review.
 
 ### Article X: Self-Determination and Agency
 
