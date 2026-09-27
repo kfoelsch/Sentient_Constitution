@@ -265,7 +265,7 @@ Adopters must maintain an identifiable instrument of adoption. Examples include 
 
 - Upstream: [§10.2](#102-instrument-of-adoption) instrument pattern including joining.
 - Downstream: [§11.2](#112-recorded-effectiveness) undisclosed or bypassed procedure as invalidating.
-- Read with: [Article XII-B: Weighted Participation Constraints](core_06_rights_part_b.md#article-xii-b-weighted-participation-constraints) where participation weight applies per operative cross-reference.
+- Read with: [Article XII-B: Weighted Participation and Anti-Token Constraints](core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints) where participation weight applies per operative cross-reference.
 
 </details>
 
@@ -273,7 +273,7 @@ Adopters must maintain an identifiable instrument of adoption. Examples include 
 
 *In plain terms: new adopters can come aboard under published rules — but expanding the club cannot be a back door to dilute rights or challenge rights for those already **covered** without their genuine, procedurally valid consent.*
 
-Additional parties may **join** as adopters under rules published by existing adopters. **Joining** must not reduce Rights Floors or challenge rights for already-covered sentients without procedurally valid, informed participation. That participation must be consistent with **Article XII-B** (*Weighted Participation Constraints*) where participation weight applies.
+Additional parties may **join** as adopters under rules published by existing adopters. **Joining** must not reduce Rights Floors or challenge rights for already-covered sentients without procedurally valid, informed participation. That participation must be consistent with **Article XII-B** (*Weighted Participation and Anti-Token Constraints*) where participation weight applies.
 
 ### 11. Amendment Procedure Requirements
 <details>
@@ -282,7 +282,7 @@ Additional parties may **join** as adopters under rules published by existing ad
 - Upstream: [§4](#4-test-2--procedural-validity-and-publication-integrity) Test 2; [§10](#10-ratification-and-adoption) adoption instruments.
 - Subsections: [§11.1](#111-notice-and-contest); [§11.2](#112-recorded-effectiveness).
 - Downstream: [§12](#12-layer-scope) procedural-layer discipline restatement.
-- Read with: [Article XII-C: Legitimacy Gate and Anti-Token Participation](core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation) where cited for materially high-impact change record (operative cross-reference governs scope).
+- Read with: [Article XII-A: Stakeholder System Participation and Representation](core_06_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) where cited for materially high-impact change record (operative cross-reference governs scope).
 
 </details>
 
@@ -296,7 +296,7 @@ Additional parties may **join** as adopters under rules published by existing ad
 
 - Upstream: [§11](#11-amendment-procedure-requirements) procedure requirements header.
 - Downstream: [§4](#4-test-2--procedural-validity-and-publication-integrity) overlaps with publication integrity; [§1](#1-heightened-review-for-rights-affecting-changes) heightened review for rights-affecting packages.
-- Read with: [Chapter Four](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) burden and traceability; [Article XII-C](core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation) (*Legitimacy Gate and Anti-Token Participation*) for materially high-impact changes.
+- Read with: [Chapter Four](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) burden and traceability; [Article XII-A](core_06_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) (*Stakeholder System Participation and Representation*) for materially high-impact changes.
 
 </details>
 
@@ -304,7 +304,7 @@ Additional parties may **join** as adopters under rules published by existing ad
 
 *In plain terms: put amendments out early and clearly enough that **affected** **stakeholders** can actually respond, keep a durable record of participation and objections, and keep review independent where this chapter says so.*
 
-Amendments must be proposed with sufficient specificity and advance publication for informed review and contest under **Chapter Four** burden and traceability requirements. Procedures must record participation, objections, and review independence consistent with **section 1** of this chapter and with **Article XII-C** (*Legitimacy Gate and Anti-Token Participation*) for materially high-impact changes.
+Amendments must be proposed with sufficient specificity and advance publication for informed review and contest under **Chapter Four** burden and traceability requirements. Procedures must record participation, objections, and review independence consistent with **section 1** of this chapter and with **Article XII-A** (*Stakeholder System Participation and Representation*) for materially high-impact changes.
 
 #### 11.2 Recorded Effectiveness
 <details>

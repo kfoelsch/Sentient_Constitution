@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **630** of **893** headings carry a gloss (71%).
+Coverage: **629** of **892** headings carry a gloss (71%).
 
 ## Contents
 
@@ -41,7 +41,7 @@ Coverage: **630** of **893** headings carry a gloss (71%).
 - [CHAPTER TWELVE: FORUMS AND JURISDICTION](#chapter-twelve-forums-and-jurisdiction) — `core_12_forum.md` (8/27 glossed)
 - [CHAPTERS NINE–TWELVE: PIPELINE APPLICATION VIGNETTES](#chapters-ninetwelve-pipeline-application-vignettes) — `core_09-12_application_vignettes.md` (9/35 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_a.md` (27/30 glossed)
-- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_b.md` (42/43 glossed)
+- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_b.md` (41/42 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_c.md` (51/52 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_d.md` (18/19 glossed)
 - [CHAPTER THIRTEEN: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP](#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) — `core_13_governance.md` (13/15 glossed)
@@ -4328,7 +4328,7 @@ systems that lean heavily on shared foundations must put enough back to keep the
 
 ## CHAPTER SIX: FOUNDATIONAL RIGHTS
 
-Source file: [`core_06_rights_part_b.md`](../../core_06_rights_part_b.md) · 42/43 headings glossed
+Source file: [`core_06_rights_part_b.md`](../../core_06_rights_part_b.md) · 41/42 headings glossed
 
 #### Part B: Personhood, agency, cooperation, and stakeholder system participation
 
@@ -4524,7 +4524,7 @@ journalism gets extra protection because of what it does, not who holds a press 
 
 ##### Article XI-D: Assembly, Dissent, and Peaceful Protest
 
-every sentient may gather, associate, and act together — in physical, digital, or shared-compute spaces — and may disagree and protest peacefully, including open, nonviolent civil disobedience. Doing so can never cost them standing, a vote, an office, or certification, and surveillance, retaliation, or access-gating that quietly silences protest is not allowed.
+every sentient may gather, associate, and act together — in physical, digital, or shared-compute spaces — and may disagree and protest peacefully, including open, nonviolent civil disobedience. Doing so can never cost them standing, a vote, an office, certification, or their job, and surveillance, retaliation, or access-gating that quietly silences protest is not allowed.
 
 [Source](../../core_06_rights_part_b.md#article-xi-d-assembly-dissent-and-peaceful-protest)
 
@@ -4554,33 +4554,27 @@ freedom of action stops where verifiable material harm begins. Offense or disagr
 
 ##### Article XII-A: Stakeholder System Participation and Representation
 
-decisions that materially affect sentients must be explained on the record and open to real challenge, and every materially affected group must have a genuine seat — especially those without market or institutional power.
+decisions that materially affect sentients must be explained on the record and open to real challenge, and every materially affected group must have a genuine seat — especially those without market or institutional power. High-impact decisions also need a recorded legitimacy check before they bind anyone.
 
 [Source](../../core_06_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation)
 
-##### Article XII-B: Weighted Participation Constraints
+##### Article XII-B: Weighted Participation and Anti-Token Constraints
 
-participation weighting can reflect who is affected and how much, but it must never become a device for silencing affected groups or handing permanent control to a narrow coalition.
+participation weighting can reflect who is affected and how much, but it must never become a device for silencing affected groups or handing permanent control to a narrow coalition — and "consulting" stakeholders whose input is ignored or unreachable does not count.
 
-[Source](../../core_06_rights_part_b.md#article-xii-b-weighted-participation-constraints)
+[Source](../../core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)
 
-##### Article XII-C: Legitimacy Gate and Anti-Token Participation
-
-high-impact decisions need a recorded legitimacy check before they bind anyone, and "consulting" stakeholders whose input is ignored or unreachable does not count.
-
-[Source](../../core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation)
-
-##### Article XII-D: Internal Roles, Accountability, and Due-Process Requirements
+##### Article XII-C: Internal Roles, Accountability, and Due-Process Requirements
 
 roles must carry real responsibility, not just titles — and anyone facing a material decision gets notice, a real chance to be heard, impartial decision-making, and a way to contest the outcome.
 
-[Source](../../core_06_rights_part_b.md#article-xii-d-internal-roles-accountability-and-due-process-requirements)
+[Source](../../core_06_rights_part_b.md#article-xii-c-internal-roles-accountability-and-due-process-requirements)
 
-##### Article XII-E: Non-Capture Safeguards
+##### Article XII-D: Non-Capture Safeguards
 
-governance must actively look for — and push back against — capture, collusion, and hidden concentration of influence.
+governance must actively look for — and push back against — capture, collusion, and hidden concentration of influence. Keeping key duties in separate hands is one of the main defenses.
 
-[Source](../../core_06_rights_part_b.md#article-xii-e-non-capture-safeguards)
+[Source](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards)
 
 ## CHAPTER SIX: FOUNDATIONAL RIGHTS
 

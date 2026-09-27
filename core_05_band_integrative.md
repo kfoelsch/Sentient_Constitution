@@ -204,7 +204,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [§9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth).
-- Owner floor: [Chapter Thirteen §1 Authorization and Legitimacy of Governing Authority](core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority); [Chapter Thirteen §1.1 Mechanism families, auditability, and pluralism](core_13_governance.md#11-mechanism-families-auditability-and-pluralism); [Article XII-C: Legitimacy Gate and Anti-Token Participation](core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation); [Article X-B: Governance Participation and Voting Entitlement](core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
+- Owner floor: [Chapter Thirteen §1 Authorization and Legitimacy of Governing Authority](core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority); [Chapter Thirteen §1.1 Mechanism families, auditability, and pluralism](core_13_governance.md#11-mechanism-families-auditability-and-pluralism); [Article XII-A: Stakeholder System Participation and Representation](core_06_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation); [Article X-B: Governance Participation and Voting Entitlement](core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - Read with: [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer), [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice), [Governance](core_05_band_accountability.md#governance), [Contestability](core_05_band_accountability.md#contestability).
 - Layer: **Constitutional Contract Layer (CCL)**. Distinct from **Stakeholder System Participation (SSP)** inside already-authorized systems.
 
@@ -220,7 +220,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
     - how it is renewed, reauthorized, or transferred; and
     - the scope of the authority and the material limits on any power it delegates.
 
-    Recognized mechanism families, including hybrids, are listed in [Chapter Thirteen §1.1 Mechanism families, auditability, and pluralism](core_13_governance.md#11-mechanism-families-auditability-and-pluralism). Hybrid or ordered designs must pass the [Article XII-C](core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation) (*Legitimacy Gate and Anti-Token Participation*) legitimacy gates for **high-impact** decisions. Different mechanisms may coexist across federations if Rights Floors and non-domination hold.
+    Recognized mechanism families, including hybrids, are listed in [Chapter Thirteen §1.1 Mechanism families, auditability, and pluralism](core_13_governance.md#11-mechanism-families-auditability-and-pluralism). Hybrid or ordered designs must pass the [Article XII-A](core_06_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) (*Stakeholder System Participation and Representation*) legitimacy gates for **high-impact** decisions. Different mechanisms may coexist across federations if Rights Floors and non-domination hold.
   - **Out of scope:**
     - silence, usage alone, market presence, or **marketing alignment** treated as authorization;
     - unwritten custom or an unpublished rule; and
@@ -231,7 +231,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 
     **Primary assessment:**
     - Check that a mechanism exists, was deliberately chosen, and is published where those affected can find it.
-    - Check that it belongs to a recognized family in [Chapter Thirteen §1.1 Mechanism families, auditability, and pluralism](core_13_governance.md#11-mechanism-families-auditability-and-pluralism), or is a hybrid that passes the **Article XII-C** legitimacy gates.
+    - Check that it belongs to a recognized family in [Chapter Thirteen §1.1 Mechanism families, auditability, and pluralism](core_13_governance.md#11-mechanism-families-auditability-and-pluralism), or is a hybrid that passes the **Article XII-A** legitimacy gates.
     - Check auditability: records show scope, renewal or reauthorization cadence, and material limits on delegated power, in proportion to system classification and [Material Impact](core_05_band_oversight.md#material-impact).
     - Check that there are [contestable](core_05_band_accountability.md#contestability) challenge routes when authorization is disputed, drifts, or is captured and, where feasible, a path to peaceful succession or reauthorization.
     - Where the mechanism decides [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice), check that it gives each entitled sentient an equal vote under the political-equality floor ([Chapter Thirteen §4.1 Entitlement and eligibility](core_13_governance.md#41-entitlement-and-eligibility)).

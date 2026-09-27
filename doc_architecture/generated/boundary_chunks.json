@@ -5,7 +5,7 @@
   "cannot_narrow_core": true,
   "split_rule": "headings outside details; never inside O/M/A/C blocks",
   "embeddings": "postponed_indefinitely",
-  "chunk_count": 883,
+  "chunk_count": 882,
   "chunks": [
     {
       "file": "core_00_preamble.md",
@@ -5206,98 +5206,91 @@
       "heading": "Article XI: Conscience, Expression, Association, and Cooperative Interaction",
       "anchor": "#article-xi-conscience-expression-association-and-cooperative-interaction",
       "line_start": 1333,
-      "line_end": 1373
+      "line_end": 1374
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article XI-A: Freedom of conscience, religion, and comparable worldview",
       "anchor": "#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview",
-      "line_start": 1374,
-      "line_end": 1413
+      "line_start": 1375,
+      "line_end": 1414
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article XI-B: Expression",
       "anchor": "#article-xi-b-expression",
-      "line_start": 1414,
-      "line_end": 1467
+      "line_start": 1415,
+      "line_end": 1475
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article XI-C: Press and Journalistic Activity",
       "anchor": "#article-xi-c-press-and-journalistic-activity",
-      "line_start": 1468,
-      "line_end": 1504
+      "line_start": 1476,
+      "line_end": 1512
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article XI-D: Assembly, Dissent, and Peaceful Protest",
       "anchor": "#article-xi-d-assembly-dissent-and-peaceful-protest",
-      "line_start": 1505,
-      "line_end": 1580
+      "line_start": 1513,
+      "line_end": 1588
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article XI-E: Institutional Formation and Business Creation",
       "anchor": "#article-xi-e-institutional-formation-and-business-creation",
-      "line_start": 1581,
-      "line_end": 1625
+      "line_start": 1589,
+      "line_end": 1633
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article XI-F: Non-Imposition and Consent in Association",
       "anchor": "#article-xi-f-non-imposition-and-consent-in-association",
-      "line_start": 1626,
-      "line_end": 1670
+      "line_start": 1634,
+      "line_end": 1678
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article XI-G: Collective Harm Boundary and Enforcement Interface",
       "anchor": "#article-xi-g-collective-harm-boundary-and-enforcement-interface",
-      "line_start": 1671,
-      "line_end": 1717
+      "line_start": 1679,
+      "line_end": 1725
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article XII: Stakeholder System Participation, Representation, and Due Process",
       "anchor": "#article-xii-stakeholder-system-participation-representation-and-due-process",
-      "line_start": 1718,
-      "line_end": 1767
+      "line_start": 1726,
+      "line_end": 1778
     },
     {
       "file": "core_06_rights_part_b.md",
       "heading": "Article XII-A: Stakeholder System Participation and Representation",
       "anchor": "#article-xii-a-stakeholder-system-participation-and-representation",
-      "line_start": 1768,
-      "line_end": 1801
+      "line_start": 1779,
+      "line_end": 1824
     },
     {
       "file": "core_06_rights_part_b.md",
-      "heading": "Article XII-B: Weighted Participation Constraints",
-      "anchor": "#article-xii-b-weighted-participation-constraints",
-      "line_start": 1802,
-      "line_end": 1835
+      "heading": "Article XII-B: Weighted Participation and Anti-Token Constraints",
+      "anchor": "#article-xii-b-weighted-participation-and-anti-token-constraints",
+      "line_start": 1825,
+      "line_end": 1866
     },
     {
       "file": "core_06_rights_part_b.md",
-      "heading": "Article XII-C: Legitimacy Gate and Anti-Token Participation",
-      "anchor": "#article-xii-c-legitimacy-gate-and-anti-token-participation",
-      "line_start": 1836,
-      "line_end": 1867
+      "heading": "Article XII-C: Internal Roles, Accountability, and Due-Process Requirements",
+      "anchor": "#article-xii-c-internal-roles-accountability-and-due-process-requirements",
+      "line_start": 1867,
+      "line_end": 1909
     },
     {
       "file": "core_06_rights_part_b.md",
-      "heading": "Article XII-D: Internal Roles, Accountability, and Due-Process Requirements",
-      "anchor": "#article-xii-d-internal-roles-accountability-and-due-process-requirements",
-      "line_start": 1868,
-      "line_end": 1907
-    },
-    {
-      "file": "core_06_rights_part_b.md",
-      "heading": "Article XII-E: Non-Capture Safeguards",
-      "anchor": "#article-xii-e-non-capture-safeguards",
-      "line_start": 1908,
-      "line_end": 1944
+      "heading": "Article XII-D: Non-Capture Safeguards",
+      "anchor": "#article-xii-d-non-capture-safeguards",
+      "line_start": 1910,
+      "line_end": 1951
     },
     {
       "file": "core_06_rights_part_c.md",

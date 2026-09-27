@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-09-27T07:28:18+00:00",
+  "generated_at": "2026-09-27T10:12:38+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 473,
@@ -5233,13 +5233,13 @@
       ]
     },
     "core_06_rights_part_b.md": {
-      "total_lines": 1944,
+      "total_lines": 1951,
       "sections": [
         {
           "header": "CHAPTER SIX: FOUNDATIONAL RIGHTS",
           "level": 1,
           "line_start": 1,
-          "line_end": 1944,
+          "line_end": 1951,
           "anchor": null
         },
         {
@@ -5442,98 +5442,91 @@
           "header": "Article XI: Conscience, Expression, Association, and Cooperative Interaction",
           "level": 3,
           "line_start": 1333,
-          "line_end": 1717,
+          "line_end": 1725,
           "anchor": null
         },
         {
           "header": "Article XI-A: Freedom of conscience, religion, and comparable worldview",
           "level": 4,
-          "line_start": 1374,
-          "line_end": 1413,
+          "line_start": 1375,
+          "line_end": 1414,
           "anchor": null
         },
         {
           "header": "Article XI-B: Expression",
           "level": 4,
-          "line_start": 1414,
-          "line_end": 1467,
+          "line_start": 1415,
+          "line_end": 1475,
           "anchor": null
         },
         {
           "header": "Article XI-C: Press and Journalistic Activity",
           "level": 4,
-          "line_start": 1468,
-          "line_end": 1504,
+          "line_start": 1476,
+          "line_end": 1512,
           "anchor": null
         },
         {
           "header": "Article XI-D: Assembly, Dissent, and Peaceful Protest",
           "level": 4,
-          "line_start": 1505,
-          "line_end": 1580,
+          "line_start": 1513,
+          "line_end": 1588,
           "anchor": null
         },
         {
           "header": "Article XI-E: Institutional Formation and Business Creation",
           "level": 4,
-          "line_start": 1581,
-          "line_end": 1625,
+          "line_start": 1589,
+          "line_end": 1633,
           "anchor": null
         },
         {
           "header": "Article XI-F: Non-Imposition and Consent in Association",
           "level": 4,
-          "line_start": 1626,
-          "line_end": 1670,
+          "line_start": 1634,
+          "line_end": 1678,
           "anchor": null
         },
         {
           "header": "Article XI-G: Collective Harm Boundary and Enforcement Interface",
           "level": 4,
-          "line_start": 1671,
-          "line_end": 1717,
+          "line_start": 1679,
+          "line_end": 1725,
           "anchor": null
         },
         {
           "header": "Article XII: Stakeholder System Participation, Representation, and Due Process",
           "level": 3,
-          "line_start": 1718,
-          "line_end": 1944,
+          "line_start": 1726,
+          "line_end": 1951,
           "anchor": null
         },
         {
           "header": "Article XII-A: Stakeholder System Participation and Representation",
           "level": 4,
-          "line_start": 1768,
-          "line_end": 1801,
+          "line_start": 1779,
+          "line_end": 1824,
           "anchor": null
         },
         {
-          "header": "Article XII-B: Weighted Participation Constraints",
+          "header": "Article XII-B: Weighted Participation and Anti-Token Constraints",
           "level": 4,
-          "line_start": 1802,
-          "line_end": 1835,
+          "line_start": 1825,
+          "line_end": 1866,
           "anchor": null
         },
         {
-          "header": "Article XII-C: Legitimacy Gate and Anti-Token Participation",
+          "header": "Article XII-C: Internal Roles, Accountability, and Due-Process Requirements",
           "level": 4,
-          "line_start": 1836,
-          "line_end": 1867,
+          "line_start": 1867,
+          "line_end": 1909,
           "anchor": null
         },
         {
-          "header": "Article XII-D: Internal Roles, Accountability, and Due-Process Requirements",
+          "header": "Article XII-D: Non-Capture Safeguards",
           "level": 4,
-          "line_start": 1868,
-          "line_end": 1907,
-          "anchor": null
-        },
-        {
-          "header": "Article XII-E: Non-Capture Safeguards",
-          "level": 4,
-          "line_start": 1908,
-          "line_end": 1944,
+          "line_start": 1910,
+          "line_end": 1951,
           "anchor": null
         }
       ]

@@ -1769,7 +1769,10 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 - **Two governance layers:** [Governance](core_05_band_accountability.md#governance) in **Chapter Five** covers:
   - (1) the **Constitutional Contract Layer** — who may govern, by what legitimacy mechanism, and on what durable terms ([Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice)); and
   - (2) **Stakeholder System Participation** — materially rights-affecting decisions within structures, rules, and processes already authorized for a specified system, institution, or bounded decision domain.
-- **This Article's scope:** **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) (with **Article X-B** (*Governance Participation and Voting Entitlement*) and **Article X-C** (*Stakeholder Role and Participation Rights*)) addresses the second layer — **[Stakeholder](core_05_band_participation.md#stakeholder)** identification and proportionate stakeholder-participation pathways for those affected by a domain's operation.
+- **This Article's scope:** the second layer — **[Stakeholder](core_05_band_participation.md#stakeholder)** identification and proportionate stakeholder-participation pathways for those affected by a domain's operation — is addressed by:
+  - **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) — this Article;
+  - **Article X-B** (*Governance Participation and Voting Entitlement*); and
+  - **Article X-C** (*Stakeholder Role and Participation Rights*).
 - **Foundational voting preserved:** That domain layer is not a substitute for equal-weight rules at the authorization layer (**Article X-B** (*Governance Participation and Voting Entitlement*); [**Chapter Thirteen §4.1 Entitlement and eligibility**](core_13_governance.md#41-entitlement-and-eligibility)).
 - **Boundary and adjudication:** **Article X-D** (*Inclusion and Exclusion Challenge Rights*) and **Article XIX** (*Standing and Participation Status*) supply challenge and standing discipline where participation status is contested.
 
@@ -1777,8 +1780,8 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (Stakeholder System Participation layer); [material stake](core_00_preamble.md#material-stake) scaling.
+- Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [Chapter One §16 Integrated Application](core_01_c_stewardship_capacity_principles.md#16-integrated-application), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (Stakeholder System Participation layer); [material stake](core_00_preamble.md#material-stake) scaling; [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) and [Chapter Seven §7 Act Records, Attributable Handoffs, and Wrong-Seat Routing](core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing).
 - Layer: **Stakeholder System Participation (SSP)**. Distinct from **Constitutional Contract Layer (CCL)** authorization.
 
 </details>
@@ -1795,9 +1798,9 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 <br>
 
-*In plain terms: decisions that materially affect sentients must be explained on the record and open to real challenge, and every materially affected group must have a genuine seat — especially those without market or institutional power.*
+*In plain terms: decisions that materially affect sentients must be explained on the record and open to real challenge, and every materially affected group must have a genuine seat — especially those without market or institutional power. High-impact decisions also need a recorded legitimacy check before they bind anyone.*
 
-This Article sets out the floors for deliberation records and for representation in high-impact decisions:
+This Article sets out the floors for deliberation records, for representation in high-impact decisions, and for the legitimacy gate those decisions must pass before they bind:
 
 - **Deliberation and records:** Decisions that materially affect rights, access, or resources must be supported by:
   - accessible records;
@@ -1807,7 +1810,19 @@ This Article sets out the floors for deliberation records and for representation
   - document stakeholder-class mapping;
   - maintain representation pathways for each materially affected class;
   - preserve procedural standing for dependency-affected and high-risk groups, even where they lack conventional market or institutional power.
-#### Article XII-B: Weighted Participation Constraints
+- **Legitimacy gate before binding adoption:** No materially high-impact decision is binding unless legitimacy checks are completed and recorded before adoption. Recorded checks must include:
+  - participation sufficiency;
+  - affected-class coverage;
+  - dissent recording;
+  - explanation of how materially relevant non-selected alternatives were evaluated.
+- **Act Record:** Where such a decision is a [materially binding act](core_05_band_accountability.md#materially-binding-act), its [Act Record](core_05_band_accountability.md#materially-binding-act-record) must carry or link:
+  - the stakeholder-class mapping and the representation pathways used;
+  - the participation record, the legitimacy checks, and the explanation given;
+  - the challenge route and its status.
+
+  An existing process-specific official record may satisfy this; a duplicate record is not required.
+
+#### Article XII-B: Weighted Participation and Anti-Token Constraints
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -1819,6 +1834,7 @@ This Article sets out the floors for deliberation records and for representation
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
 - [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight) · [O](core_05_band_participation.md#stakeholder-weight) · [M](core_05_band_participation.md#stakeholder-weight-a) · [A](core_05_band_participation.md#stakeholder-weight-a) · [C](core_05_band_participation.md#stakeholder-weight-c)
+- [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [Contestability](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [System Capture](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
 
@@ -1826,54 +1842,29 @@ This Article sets out the floors for deliberation records and for representation
 
 <br>
 
-*In plain terms: participation weighting can reflect who is affected and how much, but it must never become a device for silencing affected groups or handing permanent control to a narrow coalition.*
+*In plain terms: participation weighting can reflect who is affected and how much, but it must never become a device for silencing affected groups or handing permanent control to a narrow coalition — and "consulting" stakeholders whose input is ignored or unreachable does not count.*
 
-This Article sets out the scope of participation weighting and the constraints on it:
+This Article sets out the scope of participation weighting, the constraints on it, and the prohibition of token participation:
 
-- **Scope (layering with **Article X-B** (*Governance Participation and Voting Entitlement*)):** The weighting rules in this Article apply where **[Stakeholder Weight](core_05_band_participation.md#stakeholder-weight)** is the governing rule — materially rights-affecting decisions *within* the **[Governance](core_05_band_accountability.md#governance)** **structures, rules, allocation of authority, and processes** already authorized for the **relevant system, institution, or bounded decision domain**. They do **not** authorize impact-, dependency-, or stake-proportional **vote weights** for **[Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice)** (**Article X-B** (*Governance Participation and Voting Entitlement*); [**Chapter Thirteen §4.1 Entitlement and eligibility**](core_13_governance.md#41-entitlement-and-eligibility)).
+- **Scope:** layered with **Article X-B** (*Governance Participation and Voting Entitlement*). The weighting rules in this Article:
+  - **apply** where **[Stakeholder Weight](core_05_band_participation.md#stakeholder-weight)** is the governing rule — materially rights-affecting decisions *within* the **[Governance](core_05_band_accountability.md#governance)** **structures, rules, allocation of authority, and processes** already authorized for the **relevant system, institution, or bounded decision domain**;
+  - do **not** authorize impact-, dependency-, or stake-proportional **vote weights** for **[Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice)** (**Article X-B** (*Governance Participation and Voting Entitlement*); [**Chapter Thirteen §4.1 Entitlement and eligibility**](core_13_governance.md#41-entitlement-and-eligibility)).
 - **Weighted participation constraints:** Participation weighting may account for:
   - impact;
   - dependency;
   - demonstrated stake.
   
   Weighting must not:
-  - reduce materially affected stakeholder voice to symbolic participation;
+  - reduce materially affected stakeholder voice to symbolic participation (see **No token participation** below);
   - grant persistent control to any narrow coalition, operator bloc, or capital-concentration proxy, absent constitutionally sufficient justification.
   
   Weighting rules must be auditable, periodically revalidated, and contestable.
-#### Article XII-C: Legitimacy Gate and Anti-Token Participation
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+- **No token participation:** Asking stakeholders for their views does not count if it is only for show. Consultation breaks this rule — whether or not weighting is used — if, for the people materially affected, any of these is true:
+  - what they say cannot change the outcome;
+  - they cannot reasonably reach or use it;
+  - their input is routinely ignored.
 
-- Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), and [§16 Integrated Application](core_01_c_stewardship_capacity_principles.md#16-integrated-application).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [Accountability](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [Contestability](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-
-</details>
-
-<br>
-
-*In plain terms: high-impact decisions need a recorded legitimacy check before they bind anyone, and "consulting" stakeholders whose input is ignored or unreachable does not count.*
-
-This Article sets out the legitimacy gate for high-impact decisions and the prohibition of token participation:
-
-- **Legitimacy gate before binding adoption:** No materially high-impact decision is binding unless legitimacy checks are completed and recorded before adoption. Recorded checks must include:
-  - participation sufficiency;
-  - affected-class coverage;
-  - dissent recording;
-  - explanation of how materially relevant non-selected alternatives were evaluated.
-- **Prohibition of token participation:** Consultation is non-compliant where it is formally present but, for materially affected stakeholders, any of the following is true:
-  - it is functionally non-influential;
-  - it is inaccessible;
-  - it is systematically ignored.
-#### Article XII-D: Internal Roles, Accountability, and Due-Process Requirements
+#### Article XII-C: Internal Roles, Accountability, and Due-Process Requirements
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -1898,12 +1889,12 @@ This Article sets out the legitimacy gate for high-impact decisions and the proh
 
 This Article sets out the floors for internal roles and due process:
 
-- **Internal roles and material responsibility:** Internal governance and stewardship structures must connect documented authorized roles to substantive decision authority proportional to impact.
-  - Symbolic or title-only arrangements are non-compliant where material responsibility is required, if they lack any of:
+- **Internal roles and material responsibility:** In any governance or stewardship structure, each officially documented role must come with real decision-making power, matched to how much its decisions affect others.
+  - A role that is only a title does not count where real responsibility is needed. The role must have all of:
     - real accountability;
-    - competency matched to stakes;
-    - practical influence over consequential decisions.
-  - This rule applies together with *Prohibition of token participation* above and *Meaningful Agency* (**Chapter Five**).
+    - skills that match the stakes;
+    - a real say in important decisions.
+  - This rule applies together with *No token participation* in **Article XII-B** (*Weighted Participation and Anti-Token Constraints*) and *Meaningful Agency* (**Chapter Five**).
 - **Due-process requirements:** For materially impactful outcomes, the following protections must be preserved under [Due Process](core_05_band_accountability.md#due-process-constitutional) and [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional):
   - timely notice;
   - meaningful opportunity to be heard;
@@ -1912,13 +1903,16 @@ This Article sets out the floors for internal roles and due process:
   - contest or secondary review, read with [Dispute sequencing](core_12_forum.md#dispute-sequencing) under Chapter Twelve §1 (*Purpose and role — participation architecture*).
   
   Outcomes must remain traceable to stated reasons and to evidence sufficient to support review under **Chapters Two through Four**.
-- **Institutional routing:** Role taxonomy, accountability-chain implementation, and due-process operational procedures are governed by [**CI-4**](corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*) and **CI-6** (*Procedure integrity, contestability, and secondary review*), with supporting challenge-pathway access detail in **CI-8** (*Transparency, participation, and accessible challenge and service pathways*).
-#### Article XII-E: Non-Capture Safeguards
+- **Institutional routing:** The operating detail for this Article is set out in the institutions corpus:
+  - [**CI-4**](corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*) — role taxonomy and accountability-chain implementation;
+  - **CI-6** (*Procedure integrity, contestability, and secondary review*) — due-process operational procedures;
+  - **CI-8** (*Transparency, participation, and accessible challenge and service pathways*) — supporting detail on access to challenge pathways.
+#### Article XII-D: Non-Capture Safeguards
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [Chapter One §11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline).
-- Read with: [System Capture](core_05_band_continuity.md#system-capture); [Anti-Capture](core_05_band_continuity.md#anti-capture).
+- Read with: [System Capture](core_05_band_continuity.md#system-capture); [Anti-Capture](core_05_band_continuity.md#anti-capture); [Chapter Seven: Functional Independence and Segregation of Duties](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties).
 
 </details>
 
@@ -1934,9 +1928,9 @@ This Article sets out the floors for internal roles and due process:
 
 <br>
 
-*In plain terms: governance must actively look for — and push back against — capture, collusion, and hidden concentration of influence.*
+*In plain terms: governance must actively look for — and push back against — capture, collusion, and hidden concentration of influence. Keeping key duties in separate hands is one of the main defenses.*
 
-This Article sets out the non-capture safeguard:
+This Article sets out the non-capture safeguard and its link to separated duties:
 
 - **Non-capture:** Governance processes must detect, disclose, and mitigate:
   - monopolization;
@@ -1944,6 +1938,11 @@ This Article sets out the non-capture safeguard:
   - structural capture.
   
   Concentration of influence — including hidden or indirectly routed control — without auditability or challenge is non-compliant and implicates **Articles XI**, **XIV**, and **XV**.
+- **Separated duties:** [Chapter Seven](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties) (*Functional Independence and Segregation of Duties*) sets the floor for keeping duties apart on every materially binding act:
+  - distinct seats to start, approve, record, and challenge the act ([§2 Four-Seat Constitutional Floor](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor));
+  - independence from whoever controls the actor ([§3 Independence, Conflict, and Control Lines](core_07_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines)).
+
+  Where one sentient, office, or bloc holds seats that must be separate, or controls those who hold them, that is also a sign of structural capture under this Article.
 
 ---
 

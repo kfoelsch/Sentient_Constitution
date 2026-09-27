@@ -157,7 +157,7 @@ Resource flows within constitutional systems must account for, at minimum, the f
 
 **Budget** it as part of ordinary **funding stewardship**, not only as **post-crisis** improvisation.
 
-Capacity must be **auditable** and **anti-captive** (**Article XVI-A** (*Auditability and Observable Evidence*), **Article XII-D** (*Internal Roles, Accountability, and Due-Process Requirements*), **Article XIII-B** (*Right to Challenge, Review, and Redress*), **CJS-3.2** (*reflexive transparency and accountability terms*) and **CJS-3.6** (*integrity assurance and resilience operations*), **CJS-3.13** (*procedural integrity and adjudication terms*), **CS-7 §9**).
+Capacity must be **auditable** and **anti-captive** (**Article XVI-A** (*Auditability and Observable Evidence*), **Article XII-C** (*Internal Roles, Accountability, and Due-Process Requirements*), **Article XIII-B** (*Right to Challenge, Review, and Redress*), **CJS-3.2** (*reflexive transparency and accountability terms*) and **CJS-3.6** (*integrity assurance and resilience operations*), **CJS-3.13** (*procedural integrity and adjudication terms*), **CS-7 §9**).
 
 Underfunding that produces **chronic non-performance** of remediation obligations is a **constitutional alignment risk** subject to review.
 

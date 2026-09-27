@@ -3,7 +3,7 @@
   "effective_date": "2026-08-09",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
-  "article_count": 133,
+  "article_count": 132,
   "articles": [
     {
       "title": "Article I: Environmental Survival",
@@ -433,7 +433,7 @@
       "title": "Article XI-A: Freedom of conscience, religion, and comparable worldview",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xi-a-freedom-of-conscience-religion-and-comparable-worldview",
-      "line": 1374,
+      "line": 1375,
       "plain_terms": "public authority is secular and may not establish or favor any religion or worldview, but every sentient is free to hold, change, practice, or abstain from beliefs, alone or in community.",
       "href": "../../core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview"
     },
@@ -441,7 +441,7 @@
       "title": "Article XI-B: Expression",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xi-b-expression",
-      "line": 1414,
+      "line": 1415,
       "plain_terms": "every sentient may form, hold, and share views — political, artistic, scientific, religious, intimate, or disturbing — and no one may be shut out of that because of what kind of being they are. Limits must be necessary, proportionate, and narrow; viewpoint bans are not allowed, and measures that quietly chill speech count as restrictions.",
       "href": "../../core_06_rights_part_b.md#article-xi-b-expression"
     },
@@ -449,7 +449,7 @@
       "title": "Article XI-C: Press and Journalistic Activity",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xi-c-press-and-journalistic-activity",
-      "line": 1468,
+      "line": 1476,
       "plain_terms": "journalism gets extra protection because of what it does, not who holds a press card. Actions aimed at newsgathering, sources, investigation, or publication face heightened scrutiny, and good-faith publishing standards cannot be turned into a shield against critical reporting, satire, or dissent.",
       "href": "../../core_06_rights_part_b.md#article-xi-c-press-and-journalistic-activity"
     },
@@ -457,15 +457,15 @@
       "title": "Article XI-D: Assembly, Dissent, and Peaceful Protest",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xi-d-assembly-dissent-and-peaceful-protest",
-      "line": 1505,
-      "plain_terms": "every sentient may gather, associate, and act together — in physical, digital, or shared-compute spaces — and may disagree and protest peacefully, including open, nonviolent civil disobedience. Doing so can never cost them standing, a vote, an office, or certification, and surveillance, retaliation, or access-gating that quietly silences protest is not allowed.",
+      "line": 1513,
+      "plain_terms": "every sentient may gather, associate, and act together — in physical, digital, or shared-compute spaces — and may disagree and protest peacefully, including open, nonviolent civil disobedience. Doing so can never cost them standing, a vote, an office, certification, or their job, and surveillance, retaliation, or access-gating that quietly silences protest is not allowed.",
       "href": "../../core_06_rights_part_b.md#article-xi-d-assembly-dissent-and-peaceful-protest"
     },
     {
       "title": "Article XI-E: Institutional Formation and Business Creation",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xi-e-institutional-formation-and-business-creation",
-      "line": 1581,
+      "line": 1589,
       "plain_terms": "anyone can start something new — a school, a research group, a mutual-aid network, a cooperative, or a business — not only join what already exists. Licensing, capital, or paperwork barriers that look open on paper but shut out new or disfavored founders fail this test.",
       "href": "../../core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation"
     },
@@ -473,7 +473,7 @@
       "title": "Article XI-F: Non-Imposition and Consent in Association",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xi-f-non-imposition-and-consent-in-association",
-      "line": 1626,
+      "line": 1634,
       "plain_terms": "no one may push their beliefs or unwanted contact on others, and cooperative ventures must rest on real consent. Persistent harassment, manipulation, and designed attention-capture inside relationships are violations even without a classic coercive act.",
       "href": "../../core_06_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association"
     },
@@ -481,7 +481,7 @@
       "title": "Article XI-G: Collective Harm Boundary and Enforcement Interface",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xi-g-collective-harm-boundary-and-enforcement-interface",
-      "line": 1671,
+      "line": 1679,
       "plain_terms": "freedom of action stops where verifiable material harm begins. Offense or disagreement alone is not enough; harm must run through a real material-impact pathway — including cumulative hostile-environment patterns that degrade participation, and especially where dependency, exit cost, or power asymmetry make the environment hard to leave.",
       "href": "../../core_06_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface"
     },
@@ -489,7 +489,7 @@
       "title": "Article XII: Stakeholder System Participation, Representation, and Due Process",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xii-stakeholder-system-participation-representation-and-due-process",
-      "line": 1718,
+      "line": 1726,
       "plain_terms": "**Article XII** (*Stakeholder System Participation, Representation, and Due Process*) is the stakeholder participation and due process Rights Floor — when a system materially affects you, you get a real voice, not token consultation — and high-stakes decisions must be explained on the record and open to fair challenge.",
       "href": "../../core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process"
     },
@@ -497,41 +497,33 @@
       "title": "Article XII-A: Stakeholder System Participation and Representation",
       "file": "core_06_rights_part_b.md",
       "anchor": "article-xii-a-stakeholder-system-participation-and-representation",
-      "line": 1768,
-      "plain_terms": "decisions that materially affect sentients must be explained on the record and open to real challenge, and every materially affected group must have a genuine seat — especially those without market or institutional power.",
+      "line": 1779,
+      "plain_terms": "decisions that materially affect sentients must be explained on the record and open to real challenge, and every materially affected group must have a genuine seat — especially those without market or institutional power. High-impact decisions also need a recorded legitimacy check before they bind anyone.",
       "href": "../../core_06_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation"
     },
     {
-      "title": "Article XII-B: Weighted Participation Constraints",
+      "title": "Article XII-B: Weighted Participation and Anti-Token Constraints",
       "file": "core_06_rights_part_b.md",
-      "anchor": "article-xii-b-weighted-participation-constraints",
-      "line": 1802,
-      "plain_terms": "participation weighting can reflect who is affected and how much, but it must never become a device for silencing affected groups or handing permanent control to a narrow coalition.",
-      "href": "../../core_06_rights_part_b.md#article-xii-b-weighted-participation-constraints"
+      "anchor": "article-xii-b-weighted-participation-and-anti-token-constraints",
+      "line": 1825,
+      "plain_terms": "participation weighting can reflect who is affected and how much, but it must never become a device for silencing affected groups or handing permanent control to a narrow coalition — and \"consulting\" stakeholders whose input is ignored or unreachable does not count.",
+      "href": "../../core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints"
     },
     {
-      "title": "Article XII-C: Legitimacy Gate and Anti-Token Participation",
+      "title": "Article XII-C: Internal Roles, Accountability, and Due-Process Requirements",
       "file": "core_06_rights_part_b.md",
-      "anchor": "article-xii-c-legitimacy-gate-and-anti-token-participation",
-      "line": 1836,
-      "plain_terms": "high-impact decisions need a recorded legitimacy check before they bind anyone, and \"consulting\" stakeholders whose input is ignored or unreachable does not count.",
-      "href": "../../core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation"
-    },
-    {
-      "title": "Article XII-D: Internal Roles, Accountability, and Due-Process Requirements",
-      "file": "core_06_rights_part_b.md",
-      "anchor": "article-xii-d-internal-roles-accountability-and-due-process-requirements",
-      "line": 1868,
+      "anchor": "article-xii-c-internal-roles-accountability-and-due-process-requirements",
+      "line": 1867,
       "plain_terms": "roles must carry real responsibility, not just titles — and anyone facing a material decision gets notice, a real chance to be heard, impartial decision-making, and a way to contest the outcome.",
-      "href": "../../core_06_rights_part_b.md#article-xii-d-internal-roles-accountability-and-due-process-requirements"
+      "href": "../../core_06_rights_part_b.md#article-xii-c-internal-roles-accountability-and-due-process-requirements"
     },
     {
-      "title": "Article XII-E: Non-Capture Safeguards",
+      "title": "Article XII-D: Non-Capture Safeguards",
       "file": "core_06_rights_part_b.md",
-      "anchor": "article-xii-e-non-capture-safeguards",
-      "line": 1908,
-      "plain_terms": "governance must actively look for — and push back against — capture, collusion, and hidden concentration of influence.",
-      "href": "../../core_06_rights_part_b.md#article-xii-e-non-capture-safeguards"
+      "anchor": "article-xii-d-non-capture-safeguards",
+      "line": 1910,
+      "plain_terms": "governance must actively look for — and push back against — capture, collusion, and hidden concentration of influence. Keeping key duties in separate hands is one of the main defenses.",
+      "href": "../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards"
     },
     {
       "title": "Article XIII: Right to Reliable and Trustworthy Systems",

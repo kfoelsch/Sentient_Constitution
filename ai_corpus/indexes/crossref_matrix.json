@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-27T07:28:19+00:00",
+  "generated_at": "2026-09-27T10:12:39+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -4088,7 +4088,7 @@
               "#article-vii-c-health-crisis-and-involuntary-intervention-floor",
               "#article-vii-d-voluntary-discontinuation-of-ones-own-existence",
               "#article-x-a-agency-and-freedom-from-manipulation",
-              "#article-xii-e-non-capture-safeguards"
+              "#article-xii-d-non-capture-safeguards"
             ]
           },
           {
@@ -4417,7 +4417,7 @@
             "count": 8,
             "anchors": [
               "#article-x-b-governance-participation-and-voting-entitlement",
-              "#article-xii-c-legitimacy-gate-and-anti-token-participation"
+              "#article-xii-a-stakeholder-system-participation-and-representation"
             ]
           },
           {
@@ -7678,7 +7678,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 93,
+            "count": 91,
             "anchors": [
               "#2-foundational-objective-wellbeing",
               "#21-fairness",
@@ -7727,7 +7727,7 @@
           },
           {
             "file": "core_05_apex_accountability_leg.md",
-            "count": 15,
+            "count": 10,
             "anchors": [
               "#accountability",
               "#accountability-a",
@@ -7737,7 +7737,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 321,
+            "count": 319,
             "anchors": [
               "#collective-harm-boundary",
               "#collective-harm-boundary-a",
@@ -7767,6 +7767,8 @@
               "#harm-a",
               "#harm-c",
               "#irreversible-deprivation-measure-constitutional",
+              "#materially-binding-act",
+              "#materially-binding-act-record",
               "#necessity",
               "#necessity-a",
               "#necessity-c",
@@ -8039,6 +8041,16 @@
             "count": 1,
             "anchors": [
               "#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality"
+            ]
+          },
+          {
+            "file": "core_07_functional_independence_segregation_of_duties.md",
+            "count": 5,
+            "anchors": [
+              "#2-four-seat-constitutional-floor",
+              "#3-independence-conflict-and-control-lines",
+              "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
+              "#chapter-seven-functional-independence-and-segregation-of-duties"
             ]
           },
           {
@@ -8981,12 +8993,12 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 7,
+            "count": 8,
             "anchors": [
               "#article-x-b-governance-participation-and-voting-entitlement",
               "#article-xii-a-stakeholder-system-participation-and-representation",
-              "#article-xii-c-legitimacy-gate-and-anti-token-participation",
-              "#article-xii-d-internal-roles-accountability-and-due-process-requirements",
+              "#article-xii-b-weighted-participation-and-anti-token-constraints",
+              "#article-xii-c-internal-roles-accountability-and-due-process-requirements",
               "#article-xii-stakeholder-system-participation-representation-and-due-process",
               "#xi-d-dissent-and-peaceful-protest"
             ]
@@ -9363,8 +9375,8 @@
             "file": "core_06_rights_part_b.md",
             "count": 4,
             "anchors": [
-              "#article-xii-b-weighted-participation-constraints",
-              "#article-xii-c-legitimacy-gate-and-anti-token-participation",
+              "#article-xii-a-stakeholder-system-participation-and-representation",
+              "#article-xii-b-weighted-participation-and-anti-token-constraints",
               "#article-xii-stakeholder-system-participation-representation-and-due-process"
             ]
           },

@@ -90,7 +90,7 @@ REVIEWS = [
     DomainReview(
         domain="Conflict integrity, anti-corruption, and anti-capture",
         external_sections="OECD Integrity 4/10/11; ISO 37001/37301 by analogy",
-        internal_anchor="SC Ch 1 sec. 7.2; Arts XII-E, XIII-D, XXII; Ch 9; CI-5, CI-11, CI-13",
+        internal_anchor="SC Ch 1 sec. 7.2; Arts XII-D, XIII-D, XXII; Ch 9; CI-5, CI-11, CI-13",
         design=2,
         operationalization=2,
         evidence=1,

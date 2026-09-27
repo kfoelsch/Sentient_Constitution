@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-27T07:28:20+00:00",
+  "generated_at": "2026-09-27T10:12:40+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 15495,
+  "edge_count": 15493,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -30851,7 +30851,7 @@
       "source_header": "Anti-Capture",
       "source_anchor": "#anti-capture",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-xii-e-non-capture-safeguards",
+      "target_anchor": "#article-xii-d-non-capture-safeguards",
       "count": 1
     },
     {
@@ -40523,7 +40523,7 @@
       "source_header": "Documented Legitimacy Mechanism",
       "source_anchor": "#documented-legitimacy-mechanism",
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-xii-c-legitimacy-gate-and-anti-token-participation",
+      "target_anchor": "#article-xii-a-stakeholder-system-participation-and-representation",
       "count": 2
     },
     {
@@ -61978,6 +61978,14 @@
       "source_file": "core_06_rights_part_b.md",
       "source_header": "Article XII-A: Stakeholder System Participation and Representation",
       "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#16-integrated-application",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-A: Stakeholder System Participation and Representation",
+      "source_anchor": null,
       "target_file": "core_05_apex_accountability_leg.md",
       "target_anchor": "#accountability",
       "count": 2
@@ -62011,6 +62019,14 @@
       "source_header": "Article XII-A: Stakeholder System Participation and Representation",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act-record",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-A: Stakeholder System Participation and Representation",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability",
       "count": 2
     },
@@ -62028,6 +62044,14 @@
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-A: Stakeholder System Participation and Representation",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act",
       "count": 1
     },
     {
@@ -62082,13 +62106,21 @@
       "source_file": "core_06_rights_part_b.md",
       "source_header": "Article XII-A: Stakeholder System Participation and Representation",
       "source_anchor": null,
+      "target_file": "core_07_functional_independence_segregation_of_duties.md",
+      "target_anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-A: Stakeholder System Participation and Representation",
+      "source_anchor": null,
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#3-whole-system-certification-evaluation",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-B: Weighted Participation Constraints",
+      "source_header": "Article XII-B: Weighted Participation and Anti-Token Constraints",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#5-freedom-bounded-agency",
@@ -62096,7 +62128,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-B: Weighted Participation Constraints",
+      "source_header": "Article XII-B: Weighted Participation and Anti-Token Constraints",
       "source_anchor": null,
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#11-governance-under-stewardship-discipline",
@@ -62104,7 +62136,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-B: Weighted Participation Constraints",
+      "source_header": "Article XII-B: Weighted Participation and Anti-Token Constraints",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability",
@@ -62112,7 +62144,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-B: Weighted Participation Constraints",
+      "source_header": "Article XII-B: Weighted Participation and Anti-Token Constraints",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability-a",
@@ -62120,7 +62152,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-B: Weighted Participation Constraints",
+      "source_header": "Article XII-B: Weighted Participation and Anti-Token Constraints",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability-c",
@@ -62128,7 +62160,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-B: Weighted Participation Constraints",
+      "source_header": "Article XII-B: Weighted Participation and Anti-Token Constraints",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#governance",
@@ -62136,7 +62168,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-B: Weighted Participation Constraints",
+      "source_header": "Article XII-B: Weighted Participation and Anti-Token Constraints",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-capture",
@@ -62144,7 +62176,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-B: Weighted Participation Constraints",
+      "source_header": "Article XII-B: Weighted Participation and Anti-Token Constraints",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-capture-a",
@@ -62152,7 +62184,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-B: Weighted Participation Constraints",
+      "source_header": "Article XII-B: Weighted Participation and Anti-Token Constraints",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-capture-c",
@@ -62160,7 +62192,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-B: Weighted Participation Constraints",
+      "source_header": "Article XII-B: Weighted Participation and Anti-Token Constraints",
       "source_anchor": null,
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#foundational-constitutional-choice",
@@ -62168,7 +62200,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-B: Weighted Participation Constraints",
+      "source_header": "Article XII-B: Weighted Participation and Anti-Token Constraints",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#stakeholder-weight",
@@ -62176,7 +62208,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-B: Weighted Participation Constraints",
+      "source_header": "Article XII-B: Weighted Participation and Anti-Token Constraints",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#stakeholder-weight-a",
@@ -62184,7 +62216,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-B: Weighted Participation Constraints",
+      "source_header": "Article XII-B: Weighted Participation and Anti-Token Constraints",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#stakeholder-weight-c",
@@ -62192,7 +62224,31 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-B: Weighted Participation Constraints",
+      "source_header": "Article XII-B: Weighted Participation and Anti-Token Constraints",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-B: Weighted Participation and Anti-Token Constraints",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-B: Weighted Participation and Anti-Token Constraints",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-B: Weighted Participation and Anti-Token Constraints",
       "source_anchor": null,
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#3-whole-system-certification-evaluation",
@@ -62200,7 +62256,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-B: Weighted Participation Constraints",
+      "source_header": "Article XII-B: Weighted Participation and Anti-Token Constraints",
       "source_anchor": null,
       "target_file": "core_13_governance.md",
       "target_anchor": "#41-entitlement-and-eligibility",
@@ -62208,7 +62264,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-C: Legitimacy Gate and Anti-Token Participation",
+      "source_header": "Article XII-C: Internal Roles, Accountability, and Due-Process Requirements",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#32-truth-epistemic-integrity-constraint",
@@ -62216,111 +62272,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-C: Legitimacy Gate and Anti-Token Participation",
-      "source_anchor": null,
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#5-freedom-bounded-agency",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-C: Legitimacy Gate and Anti-Token Participation",
-      "source_anchor": null,
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#16-integrated-application",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-C: Legitimacy Gate and Anti-Token Participation",
-      "source_anchor": null,
-      "target_file": "core_05_apex_accountability_leg.md",
-      "target_anchor": "#accountability",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-C: Legitimacy Gate and Anti-Token Participation",
-      "source_anchor": null,
-      "target_file": "core_05_apex_accountability_leg.md",
-      "target_anchor": "#accountability-m",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-C: Legitimacy Gate and Anti-Token Participation",
-      "source_anchor": null,
-      "target_file": "core_05_apex_accountability_leg.md",
-      "target_anchor": "#accountability-a",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-C: Legitimacy Gate and Anti-Token Participation",
-      "source_anchor": null,
-      "target_file": "core_05_apex_accountability_leg.md",
-      "target_anchor": "#accountability-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-C: Legitimacy Gate and Anti-Token Participation",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#contestability",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-C: Legitimacy Gate and Anti-Token Participation",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#contestability-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-C: Legitimacy Gate and Anti-Token Participation",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#contestability-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-C: Legitimacy Gate and Anti-Token Participation",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#procedural-fairness-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-C: Legitimacy Gate and Anti-Token Participation",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#procedural-fairness-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-C: Legitimacy Gate and Anti-Token Participation",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#procedural-fairness-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-D: Internal Roles, Accountability, and Due-Process Requirements",
-      "source_anchor": null,
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#32-truth-epistemic-integrity-constraint",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-D: Internal Roles, Accountability, and Due-Process Requirements",
+      "source_header": "Article XII-C: Internal Roles, Accountability, and Due-Process Requirements",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#615-rights-collision-decision-test",
@@ -62328,7 +62280,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-D: Internal Roles, Accountability, and Due-Process Requirements",
+      "source_header": "Article XII-C: Internal Roles, Accountability, and Due-Process Requirements",
       "source_anchor": null,
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#11-governance-under-stewardship-discipline",
@@ -62336,7 +62288,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-D: Internal Roles, Accountability, and Due-Process Requirements",
+      "source_header": "Article XII-C: Internal Roles, Accountability, and Due-Process Requirements",
       "source_anchor": null,
       "target_file": "core_05_apex_accountability_leg.md",
       "target_anchor": "#accountability",
@@ -62344,7 +62296,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-D: Internal Roles, Accountability, and Due-Process Requirements",
+      "source_header": "Article XII-C: Internal Roles, Accountability, and Due-Process Requirements",
       "source_anchor": null,
       "target_file": "core_05_apex_accountability_leg.md",
       "target_anchor": "#accountability-m",
@@ -62352,7 +62304,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-D: Internal Roles, Accountability, and Due-Process Requirements",
+      "source_header": "Article XII-C: Internal Roles, Accountability, and Due-Process Requirements",
       "source_anchor": null,
       "target_file": "core_05_apex_accountability_leg.md",
       "target_anchor": "#accountability-a",
@@ -62360,7 +62312,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-D: Internal Roles, Accountability, and Due-Process Requirements",
+      "source_header": "Article XII-C: Internal Roles, Accountability, and Due-Process Requirements",
       "source_anchor": null,
       "target_file": "core_05_apex_accountability_leg.md",
       "target_anchor": "#accountability-c",
@@ -62368,7 +62320,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-D: Internal Roles, Accountability, and Due-Process Requirements",
+      "source_header": "Article XII-C: Internal Roles, Accountability, and Due-Process Requirements",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#due-process-constitutional",
@@ -62376,7 +62328,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-D: Internal Roles, Accountability, and Due-Process Requirements",
+      "source_header": "Article XII-C: Internal Roles, Accountability, and Due-Process Requirements",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#due-process-constitutional-a",
@@ -62384,7 +62336,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-D: Internal Roles, Accountability, and Due-Process Requirements",
+      "source_header": "Article XII-C: Internal Roles, Accountability, and Due-Process Requirements",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#due-process-constitutional-c",
@@ -62392,7 +62344,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-D: Internal Roles, Accountability, and Due-Process Requirements",
+      "source_header": "Article XII-C: Internal Roles, Accountability, and Due-Process Requirements",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability",
@@ -62400,7 +62352,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-D: Internal Roles, Accountability, and Due-Process Requirements",
+      "source_header": "Article XII-C: Internal Roles, Accountability, and Due-Process Requirements",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability-a",
@@ -62408,7 +62360,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-D: Internal Roles, Accountability, and Due-Process Requirements",
+      "source_header": "Article XII-C: Internal Roles, Accountability, and Due-Process Requirements",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability-c",
@@ -62416,7 +62368,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-D: Internal Roles, Accountability, and Due-Process Requirements",
+      "source_header": "Article XII-C: Internal Roles, Accountability, and Due-Process Requirements",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#procedural-fairness-constitutional",
@@ -62424,7 +62376,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-D: Internal Roles, Accountability, and Due-Process Requirements",
+      "source_header": "Article XII-C: Internal Roles, Accountability, and Due-Process Requirements",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#procedural-fairness-constitutional-a",
@@ -62432,7 +62384,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-D: Internal Roles, Accountability, and Due-Process Requirements",
+      "source_header": "Article XII-C: Internal Roles, Accountability, and Due-Process Requirements",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#procedural-fairness-constitutional-c",
@@ -62440,7 +62392,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-D: Internal Roles, Accountability, and Due-Process Requirements",
+      "source_header": "Article XII-C: Internal Roles, Accountability, and Due-Process Requirements",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#meaningful-agency",
@@ -62448,7 +62400,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-D: Internal Roles, Accountability, and Due-Process Requirements",
+      "source_header": "Article XII-C: Internal Roles, Accountability, and Due-Process Requirements",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#meaningful-agency-a",
@@ -62456,7 +62408,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-D: Internal Roles, Accountability, and Due-Process Requirements",
+      "source_header": "Article XII-C: Internal Roles, Accountability, and Due-Process Requirements",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#meaningful-agency-c",
@@ -62464,7 +62416,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-D: Internal Roles, Accountability, and Due-Process Requirements",
+      "source_header": "Article XII-C: Internal Roles, Accountability, and Due-Process Requirements",
       "source_anchor": null,
       "target_file": "core_12_forum.md",
       "target_anchor": "#dispute-sequencing",
@@ -62472,7 +62424,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-D: Internal Roles, Accountability, and Due-Process Requirements",
+      "source_header": "Article XII-C: Internal Roles, Accountability, and Due-Process Requirements",
       "source_anchor": null,
       "target_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
       "target_anchor": null,
@@ -62480,7 +62432,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-E: Non-Capture Safeguards",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#32-truth-epistemic-integrity-constraint",
@@ -62488,7 +62440,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-E: Non-Capture Safeguards",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
       "source_anchor": null,
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#11-governance-under-stewardship-discipline",
@@ -62496,7 +62448,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-E: Non-Capture Safeguards",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability",
@@ -62504,7 +62456,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-E: Non-Capture Safeguards",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability-a",
@@ -62512,7 +62464,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-E: Non-Capture Safeguards",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability-c",
@@ -62520,7 +62472,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-E: Non-Capture Safeguards",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-capture",
@@ -62528,7 +62480,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-E: Non-Capture Safeguards",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#anti-capture",
@@ -62536,7 +62488,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-E: Non-Capture Safeguards",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-capture-a",
@@ -62544,7 +62496,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-E: Non-Capture Safeguards",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-capture-c",
@@ -62552,7 +62504,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-E: Non-Capture Safeguards",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#anti-capture-a",
@@ -62560,7 +62512,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-E: Non-Capture Safeguards",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#anti-capture-c",
@@ -62568,7 +62520,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-E: Non-Capture Safeguards",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
       "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability",
@@ -62576,7 +62528,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-E: Non-Capture Safeguards",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
       "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability-a",
@@ -62584,7 +62536,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-E: Non-Capture Safeguards",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
       "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability-c",
@@ -62592,7 +62544,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-E: Non-Capture Safeguards",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
       "source_anchor": null,
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": null,
@@ -62600,7 +62552,7 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-E: Non-Capture Safeguards",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
       "source_anchor": null,
       "target_file": "core_06_rights_part_c.md",
       "target_anchor": null,
@@ -62608,7 +62560,31 @@
     },
     {
       "source_file": "core_06_rights_part_b.md",
-      "source_header": "Article XII-E: Non-Capture Safeguards",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
+      "source_anchor": null,
+      "target_file": "core_07_functional_independence_segregation_of_duties.md",
+      "target_anchor": "#chapter-seven-functional-independence-and-segregation-of-duties",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
+      "source_anchor": null,
+      "target_file": "core_07_functional_independence_segregation_of_duties.md",
+      "target_anchor": "#2-four-seat-constitutional-floor",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
+      "source_anchor": null,
+      "target_file": "core_07_functional_independence_segregation_of_duties.md",
+      "target_anchor": "#3-independence-conflict-and-control-lines",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
       "source_anchor": null,
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#3-whole-system-certification-evaluation",
@@ -84211,7 +84187,15 @@
       "source_header": "1. Authorization and Legitimacy of Governing Authority",
       "source_anchor": null,
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-xii-c-legitimacy-gate-and-anti-token-participation",
+      "target_anchor": "#article-xii-a-stakeholder-system-participation-and-representation",
+      "count": 1
+    },
+    {
+      "source_file": "core_13_governance.md",
+      "source_header": "1. Authorization and Legitimacy of Governing Authority",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-xii-b-weighted-participation-and-anti-token-constraints",
       "count": 1
     },
     {
@@ -84755,7 +84739,7 @@
       "source_header": "4.1 Entitlement and eligibility",
       "source_anchor": null,
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-xii-c-legitimacy-gate-and-anti-token-participation",
+      "target_anchor": "#article-xii-a-stakeholder-system-participation-and-representation",
       "count": 1
     },
     {
@@ -84835,7 +84819,7 @@
       "source_header": "5. Authorized Roles, Competency Development, and Contribution",
       "source_anchor": null,
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-xii-d-internal-roles-accountability-and-due-process-requirements",
+      "target_anchor": "#article-xii-c-internal-roles-accountability-and-due-process-requirements",
       "count": 1
     },
     {
@@ -85875,7 +85859,7 @@
       "source_header": "10.3 Joining by additional parties",
       "source_anchor": null,
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-xii-b-weighted-participation-constraints",
+      "target_anchor": "#article-xii-b-weighted-participation-and-anti-token-constraints",
       "count": 1
     },
     {
@@ -85883,7 +85867,7 @@
       "source_header": "11. Amendment Procedure Requirements",
       "source_anchor": null,
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-xii-c-legitimacy-gate-and-anti-token-participation",
+      "target_anchor": "#article-xii-a-stakeholder-system-participation-and-representation",
       "count": 1
     },
     {
@@ -85899,7 +85883,7 @@
       "source_header": "11.1 Notice and Contest",
       "source_anchor": null,
       "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-xii-c-legitimacy-gate-and-anti-token-participation",
+      "target_anchor": "#article-xii-a-stakeholder-system-participation-and-representation",
       "count": 1
     },
     {
