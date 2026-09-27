@@ -629,6 +629,8 @@ Trust connects the principle constraints to everyday shared life:
 
 Trust fails when reliance is built or kept through suppression, deception, hidden risk-shifting, or similar tactics — including anything that seriously undermines sentients' ability to detect and challenge systemic risk. The [**System Alignment Certification**](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation) process under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) is where systems demonstrate that their trust claims hold up: certification must verify that a system's actual behavior matches its representations, on a contestable record — not merely on operator assertion.
 
+Certification is one of two safeguards that work together: it makes a system worthy of trust, and the rights of sentients to [challenge it and seek redress](core_06_rights_part_c.md#article-xii-b-right-to-challenge-review-and-redress) and to [have it audited](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) keep it honest. Neither replaces the other — [Article XII](core_06_rights_part_c.md#article-xii-right-to-reliable-and-trustworthy-systems) states how the two combine.
+
 #### 4.1 Resilience and Self-Healing Design
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

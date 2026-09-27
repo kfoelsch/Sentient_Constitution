@@ -26,9 +26,9 @@ when texts conflict, apply this order — Constitution and non-regression first,
 
 [Source](../../core_01_b_interaction_interpretation.md#84-constitutional-meaning-conflict-resolution)
 
-### 9.1.1 Shared Stewardship Standard
+### shared_stewardship
 
-human and AI stewards owe the same Chapter One duties. [Chapter Ten §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) binds both to refuse unlawful or unconstitutional instructions. Companions may add logging, attribution, and capability limits. They may not swap in a softer internal code, skip standing measurement, or close contest pathways. This is not a new morals stack — it is the anti-special-pleading rule. The bonus, the deadline, and cover-instruction tests live in [§9.1.2](../../core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints).
+*(open the source; no heading gloss)*
 
 [Source](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)
 

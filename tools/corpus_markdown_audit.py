@@ -13,6 +13,11 @@ period. That covers a standalone ``**Record and showing:**`` line, a
 heading-echo run-in (``**Symmetric costly constraints:**`` … then a list), and
 a list-item label (``- **Not standing:**`` …). Ordinary run-in labels that do
 not restate the heading (``**Admission scope.**``) remain out of scope.
+
+Rule MD-HTML-HEADING-01: an ATX heading must not sit inside a raw HTML block.
+A standalone ``<br>`` / ``</details>`` / ``<a id>`` line opens an HTML block that
+runs to the next blank line, so a heading directly beneath it renders as
+literal text. Put a blank line between the tag line and the heading.
 """
 
 from __future__ import annotations
@@ -25,6 +30,7 @@ import sys
 from corpus_paths import binding_corpus_scope
 
 RULE_LIST_INTRO = "MD-LIST-INTRO-01"
+RULE_HTML_HEADING = "MD-HTML-HEADING-01"
 # ASCII period plus CJK/Devanagari/Bengali danda and Urdu full stop.
 LIST_INTRO_PERIODS = frozenset(".。।۔")
 LIST_INTRO_HEADER_RE = re.compile(r"^\*\*(.+)[.\u3002\u0964\u06d4]\*\*\s*$")
@@ -419,6 +425,64 @@ def check_horizontal_rule_preceding_blank(lines: list[str], path_label: str) -> 
     return errors
 
 
+# CommonMark §4.6 HTML block start conditions (types 1, 2, 6, 7).
+_T1_START = re.compile(r"^ {0,3}<(?:script|pre|style|textarea)(?:\s|>|$)", re.I)
+_T1_END = re.compile(r"</(?:script|pre|style|textarea)>", re.I)
+_T2_START = re.compile(r"^ {0,3}<!--")
+_T6_TAGS = ("address|article|aside|base|basefont|blockquote|body|caption|center|col|colgroup|dd|"
+    "details|dialog|dir|div|dl|dt|fieldset|figcaption|figure|footer|form|frame|frameset|"
+    "h[1-6]|head|header|hr|html|iframe|legend|li|link|main|menu|menuitem|nav|noframes|ol|"
+    "optgroup|option|p|param|search|section|summary|table|tbody|td|tfoot|th|thead|title|tr|track|ul")
+_T6_START = re.compile(rf"^ {{0,3}}</?(?:{_T6_TAGS})(?:\s|/?>|$)", re.I)
+_ATTR = r"(?:\s+[A-Za-z_:][\w.:-]*(?:\s*=\s*(?:[^\s\"'=<>`]+|'[^']*'|\"[^\"]*\"))?)"
+_T7_START = re.compile(rf"^ {{0,3}}(?:<[A-Za-z][A-Za-z0-9-]*{_ATTR}*\s*/?>|</[A-Za-z][A-Za-z0-9-]*\s*>)\s*$")
+_HEADING = re.compile(r"^ {0,3}#{1,6}(?:\s|$)")
+_FENCE = re.compile(r"^ {0,3}(```|~~~)")
+
+def check_heading_swallowed_by_html_block(lines: list[str], path_label: str) -> list[str]:
+    """ATX headings must not sit inside a raw HTML block (MD-HTML-HEADING-01).
+
+    A standalone tag line such as ``<br>``, ``</details>`` or ``<a id="x"></a>``
+    opens a CommonMark HTML block that runs until the next blank line, so a
+    heading written directly beneath it renders as literal ``### ...`` text
+    with no anchor or TOC entry.
+    """
+    errors: list[str] = []
+    in_fence: str | None = None
+    html_end = None  # "blank", or a compiled end pattern
+    start_i = 0
+    prev_blank = True
+    for i,line in enumerate(lines):
+        if html_end is not None:
+            if html_end=="blank" and not line.strip():
+                html_end=None; prev_blank=True; continue
+            if _HEADING.match(line):
+                tag=lines[start_i].strip(); tag=tag if len(tag)<=60 else tag[:57]+"..."
+                h=line.strip(); h=h if len(h)<=90 else h[:87]+"..."
+                errors.append(f"{path_label}:{i+1}: heading is inside the raw HTML block opened at line {start_i+1} "
+                              f"({tag!r}) and will render as literal text; add a blank line before it (MD-HTML-HEADING-01): {h!r}")
+            if html_end!="blank" and html_end.search(line):
+                html_end=None
+            prev_blank=False; continue
+        fm=_FENCE.match(line)
+        if in_fence:
+            if fm and fm.group(1)==in_fence: in_fence=None
+            prev_blank=False; continue
+        if fm: in_fence=fm.group(1); prev_blank=False; continue
+        if not line.strip(): prev_blank=True; continue
+        end=None
+        if _T1_START.match(line): end=_T1_END
+        elif _T2_START.match(line): end=re.compile("-->")
+        elif _T6_START.match(line): end="blank"
+        elif prev_blank and _T7_START.match(line): end="blank"
+        if end is not None:
+            start_i=i
+            if end=="blank" or not end.search(line[line.find("<")+1:] if end is not _T1_END else line):
+                html_end=end
+        prev_blank=False
+    return errors
+
+
 def resolve_thematic_paths(root: pathlib.Path, arg: str | None) -> list[pathlib.Path]:
     if arg is None:
         names = [
@@ -475,6 +539,7 @@ def main() -> int:
         rel = tb_path.relative_to(root).as_posix()
         findings.extend(check_horizontal_rule_preceding_blank(tb_lines, rel))
         findings.extend(check_oec_intro_sublist_nesting(tb_lines, rel))
+        findings.extend(check_heading_swallowed_by_html_block(tb_lines, rel))
 
     for rel in binding_corpus_scope(root):
         path = root / rel
@@ -487,9 +552,9 @@ def main() -> int:
 
     for path in translation_markdown_files(root):
         rel = path.relative_to(root).as_posix()
-        findings.extend(
-            check_list_intro_colon(path.read_text(encoding="utf-8").splitlines(), rel)
-        )
+        tr_lines = path.read_text(encoding="utf-8").splitlines()
+        findings.extend(check_list_intro_colon(tr_lines, rel))
+        findings.extend(check_heading_swallowed_by_html_block(tr_lines, rel))
 
     s65 = slice_between(
         ch4_text,

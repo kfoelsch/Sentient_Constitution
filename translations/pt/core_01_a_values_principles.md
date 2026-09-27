@@ -14,6 +14,7 @@
 </details>
 
 <br>
+
 ### 1. Propósito e papel
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>

@@ -28,6 +28,7 @@
 
 <br>
 <a id="part-d-justice-constitutional-review-evolution-and-transition"></a>
+
 ### D部：正義、憲法審査、進化、移行
 
 <br>

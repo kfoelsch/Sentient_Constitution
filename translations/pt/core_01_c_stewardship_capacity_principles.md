@@ -593,6 +593,7 @@ Não se limita ao contexto da pilha de compensação em que também opera como p
 
 <br>
 <a id="10-governance-under-stewardship-discipline"></a>
+
 ### 10. Governança sob disciplina de administração responsável
 
 <details>

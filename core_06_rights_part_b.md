@@ -19,6 +19,7 @@
 </details>
 
 <br>
+
 ### Part B: Personhood, education capability, agency, cooperation, and stakeholder system participation
 
 <br>

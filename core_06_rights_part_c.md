@@ -19,6 +19,7 @@
 </details>
 
 <br>
+
 ### Part C: Trustworthy systems, security and force limits, information integrity, verification, lifecycle, and resilience
 
 <br>
@@ -60,11 +61,26 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 - **Accountability:** system operators must answer for creating false trust, perverse incentives, or failures that materially harm sentients who reasonably relied on the system.
 - **Timeliness:** in detection, challenge, and remedy before delay would make reliability or redress effectively unreachable.
 
-When materially impactful systems materially shape sentient reliance on represented behavior, limits, risks, challenge paths, or remediation, [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) applies, including trustworthiness evaluation under [§10](core_08_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) where the **Article XII** (*Right to Reliable and Trustworthy Systems*) materiality trigger applies. Recognition or continued reliance on those systems cannot substitute for compliance with the floors stated in this Article or shrink them. Certification verifies alignment; it does not replace challenge and audit rights under **Article XII-B** (*Right to Challenge, Review, and Redress*) and **Article XV** (*Audit, Transparency, and Independent Verification*), or the trustworthy-systems Rights Floors stated here.
+Sentients have the right to interact with systems that are reliable and trustworthy, to a degree proportionate to their impact, dependency, and risk. That reliability supports informed participation, coordinated action, and the preservation of wellbeing. Trustworthiness must be evaluated across time, scale, and dependency relationships where these materially affect outcomes.
 
-Sentients have the right to interact with systems that are reliable and trustworthy, to a degree proportionate to their impact, dependency, and risk. That reliability supports informed participation, coordinated action, and the preservation of wellbeing.
+Two safeguards work together to secure this right: certification makes a system worthy of that trust, and the rights of sentients keep it honest.
 
-Trustworthiness must be evaluated across time, scale, and dependency relationships where these materially affect outcomes.
+**Certification builds trust from the system's side:** When an important system has a real effect on how sentients rely on it, [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) applies. It checks that sentients can rely on:
+
+- what the system says it does
+- its limits and risks
+- how to challenge it
+- how problems get fixed
+
+If the system meets the importance threshold in **Article XII** (*Right to Reliable and Trustworthy Systems*), certification also includes a trustworthiness review under [§10](core_08_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation).
+
+**Contestability keeps the system honest from the sentient's side:** Certification checks a system; it does not have the last word on it. Every sentient affected by the system keeps:
+
+- the right to challenge it and get a remedy under **Article XII-B** (*Right to Challenge, Review, and Redress*)
+- the right to have it audited and independently checked under **Article XV** (*Audit, Transparency, and Independent Verification*)
+- the protection of the trustworthy-systems Rights Floors in this Article
+
+**Status is not proof:** A system being certified, officially recognized, or widely relied on does not mean it meets the minimum protections in this Article. It also cannot lower them.
 
 *Article neighbors:*
 
@@ -91,13 +107,20 @@ Trustworthiness must be evaluated across time, scale, and dependency relationshi
 
 <br>
 
-*In plain terms: systems that materially affect sentients must actually be reliable and honest about what they do — so that reasonable reliance on them is warranted.*
+*In plain terms: systems that materially affect sentients must actually be reliable and honest about what they do, so that relying on them is warranted — and must stay open to challenge and audit, so that it stays warranted.*
 
 - **Trust guarantee:** Systems that materially affect sentients must preserve the conditions for justified trust and reasonably accurate reliance. Those conditions include:
   - the ability to form reasonably accurate expectations about system behavior;
   - disclosure of material conditions, limits, and risks needed to evaluate whether reliance is warranted;
   - freedom from systematic deception, misrepresentation, or unverifiable manipulation;
   - protection from undisclosed, disproportionate, or non-obvious risks arising from reliance.
+- **Contestability guarantee:** Systems that materially affect sentients must stay open to challenge for as long as sentients rely on them. That requires:
+  - a usable path to challenge the system's behavior, outputs, or representations and obtain review, correction, and redress under [**Article XII-B**](#article-xii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*);
+  - audit and independent verification proportionate to impact and dependency under [**Article XV**](#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
+  - no narrowing of either because the system is certified, officially recognized, or widely relied on.
+
+The two guarantees are two sides of ongoing trust: the trust guarantee makes reliance warranted, and the contestability guarantee keeps it warranted over time. Neither satisfies the other.
+
 #### Article XII-B: Right to Challenge, Review, and Redress
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

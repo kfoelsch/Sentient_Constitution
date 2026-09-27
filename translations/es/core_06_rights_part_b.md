@@ -28,6 +28,7 @@
 
 <br>
 <a id="part-b-personhood-education-capability-agency-cooperation-and-stakeholder-system-participation"></a>
+
 ### Parte B: Condición de persona, capacidad educativa, agencia, cooperación y Participación Sistémica de las Partes Afectadas
 
 <br>

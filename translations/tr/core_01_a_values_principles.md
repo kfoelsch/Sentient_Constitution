@@ -14,6 +14,7 @@
 </details>
 
 <br>
+
 ### 1. Amaç ve rol
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>

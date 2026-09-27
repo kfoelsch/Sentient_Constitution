@@ -592,6 +592,7 @@
 
 <br>
 <a id="10-governance-under-stewardship-discipline"></a>
+
 ### 10. 책임 있는 관리 규율 아래 거버넌스
 
 <details>

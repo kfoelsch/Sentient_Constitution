@@ -28,6 +28,7 @@
 
 <br>
 <a id="part-d-justice-constitutional-review-evolution-and-transition"></a>
+
 ### D Kısmı: Adalet, anayasal inceleme, evrim ve geçiş
 
 <br>
