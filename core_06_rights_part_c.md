@@ -908,7 +908,7 @@ Steward pointer (process support; cannot narrow this Article): [`implementation/
     - ongoing audits.
   - Certification does not absorb or replace this Article.
 - **Checking tools:** **Chapters Two through Four** supply the definitions, burden of proof, observability, and verification accessibility that this Article puts into practice as a Rights Floor.
-- **Classification:** Duties grow with [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) and **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**. Where a system's class is uncertain, treat it as the highest class it could plausibly be until that is settled.
+- **Classification:** Duties grow with [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) and **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**. In short: if a system's class is uncertain, treat it as the higher class until that is settled. The rule itself is in [Materiality Under Uncertainty](core_05_band_oversight.md#materiality-under-uncertainty) (Chapter Five) and [CS-3 §1.2](corpus_systems/cs_03_a_system_classification_machinery.md#12-classification-and-existential-risk) (*Classification and existential risk*).
 
 #### Article XV-A: Auditability and Observable Evidence
 <details>
@@ -1027,27 +1027,29 @@ Steward pointer (process support; cannot narrow this Article): [`implementation/
 
 <br>
 
-*In plain terms: **Article XVI** (*System Lifecycle, Environments, and Reversibility*) is the lifecycle-and-reversibility Rights Floor — systems that materially affect the outside world must be built, tested, and rolled out in stages, with real separation between experiments and production, and a workable way to undo or contain harm when something goes wrong. You cannot label a system "experimental" or "low-impact" just to skip safeguards while it actually affects the outside world.*
+*In plain terms: when a system can affect people or the world outside it, it has to be built, tested, and released in careful steps. Experiments must be kept apart from the live system. And there must be a way to undo the harm, or at least contain it, if something goes wrong. Calling a system "experimental" or "low-impact" does not let anyone skip these safeguards while it is actually affecting the outside world.*
 
-This Article states **constitutional floors** for system lifecycle, environments, and reversibility under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
-
-- **Flourishing:** sentients are protected across design, testing, deployment, and change — with safety, [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), and challenge rights preserved as impact and dependency grow, and with rollback, containment, or compensatory restoration where harm would otherwise stick.
-- **Continuity:** lifecycle discipline holds across time and scale — environments stay separated, escalation stays documented and auditable, and reversibility must not quietly disappear as systems become harder to replace or more deeply embedded in shared infrastructure.
-
-Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
-
-- **Participation:** in stakeholder-visible justification for escalation, classification, and deployment decisions that materially affect protected interests — and in challenge paths that remain open across the functional lifecycle.
-- **Oversight:** through separable environments, documented promotion and escalation, progressive deployment records, and audit trails proportionate to impact, dependency, and irreversibility.
-- **Accountability:** system stewards must answer for misclassifying risk, bypassing safety environments, hiding external impact, or deploying in ways that foreclose restoration without proportionate precaution — with audit, standing review, and conflict resolution where evasion is substantiated.
-- **Timeliness:** in rollback, containment, and corrective escalation before delay would make harm irreversible or make challenge and remedy effectively unreachable.
-
-Systems that materially affect sentients, shared infrastructure, or the environment must be designed, tested, and deployed with disciplined lifecycle governance. Risk must scale with impact, dependency, and irreversibility.
-
-Sentients have the right to stewardship that preserves safety, epistemic integrity, and challenge rights across the functional lifecycle.
+- **What this Article does:** It sets the minimum protections — the Rights Floor — for how systems are built, tested, released, and changed over their lifetime, and for being able to undo the harm they cause. It serves both of the Constitution's [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+  - **Flourishing:** Sentients are protected at every stage: design, testing, release, and later changes. Safety, [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), and the right to challenge must hold up as a system's impact grows and as more comes to depend on it. Where harm would otherwise be permanent, there must be a way to roll it back, contain it, or make up for it.
+  - **Continuity:** This discipline must last as systems grow and age. Testing and live environments stay separate. Every step up in a system's reach stays written down and open to audit. And the ability to undo must not quietly disappear as a system becomes harder to replace or more deeply built into shared infrastructure.
+- **How the limits are enforced:** Through the four checks of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad). The more is at stake, the stronger each check must be (see [material stake](core_00_preamble.md#material-stake)).
+  - **Participation:** When a decision to widen a system's reach, to classify it, or to release it has a real effect on protected interests, those affected must be able to see the reasons. Ways to challenge the system must stay open for as long as it is in use.
+  - **Oversight:** Environments must be kept separate. Every move to a wider release must be written down, with release records and audit trails. How much of this is needed grows with the system's impact, with how much depends on it, and with how hard its effects are to undo.
+  - **Accountability:** Those responsible for a system must answer for rating its risk too low, skipping safety environments, hiding its effects on the outside world, or releasing it in ways that rule out repair without fitting precautions. Where such evasion is shown, audit, review of standing, and conflict resolution follow.
+  - **Timeliness:** Rolling back, containing, and correcting must happen before delay makes the harm permanent or puts challenge and remedy out of reach in practice.
+- **The rule:** Systems that have a real effect on sentients, shared infrastructure, or the environment must be designed, tested, and released under disciplined lifecycle governance. How carefully risk is handled must grow with the system's impact, with how much depends on it, and with how hard its effects are to undo.
+- **The right itself:** Sentients have the right to have systems looked after in ways that keep safety, epistemic integrity, and the right to challenge intact for as long as the system is in use.
+- **Duties scale with the system's class:** A system's class under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling** decides how much of this Article applies to it. The full duties for each class are in the table at [CS-3 §8.6](corpus_systems/cs_03_b_system_impact_classifications.md#86-scaled-duties-intensity) (*Scaled-duties intensity*).
+  - **Class A, Class B, and Class C** — systems that survival, critical services, or large-scale coordination depend on: full lifecycle discipline. That means separate environments, written rules for moving changes between them, releases in stages, and tested ways to undo. Changes move deliberately.
+  - **Class L** — local, limited-impact systems that participants can leave without serious loss, such as a community game or a club's scheduling tool: light but real discipline. Operators may change rules, content, settings, and code often, even daily, without a full chain of separate environments. In return, they must tell participants about changes that matter to them, keep a way to reverse or fix a bad change quickly, and protect what participants have built up in the system.
+  - **Class P** — private, contained systems: this Article serves mainly as guidance while the system stays contained. **Article XVII** (*Sandboxed Innovation, Experimentation, and Creative Freedom*) governs.
+  - **Class uncertain:** In short, treat the system as the higher class until that is settled. The rule itself is in [Materiality Under Uncertainty](core_05_band_oversight.md#materiality-under-uncertainty) (Chapter Five) and [CS-3 §1.2](corpus_systems/cs_03_a_system_classification_machinery.md#12-classification-and-existential-risk) (*Classification and existential risk*).
 
 *Article neighbors:*
 
-- **Implementation layer:** **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling** and **CS-5** (*Design, testing, verification, and deployment*) — without narrowing the floors stated here. **Class A**, **Class B**, and **Class C** systems carry the strongest lifecycle duties; valid **Class P** treatment remains under **Article XVII** (*Sandboxed Innovation, Experimentation, and Creative Freedom*) only while external impact stays absent or demonstrably contained.
+- **Where the details live:** **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling** and **CS-5** (*Design, testing, verification, and deployment*) put this Article into practice. They cannot narrow the floors set here.
+- **Lighter tracks have limits:** A system may get the lighter **Class P** treatment under **Article XVII** only while it has no effect on the outside world, or while any effect is shown to be contained. A **Class L** system keeps its lighter duties only while its effects stay local and bounded and participants can still leave without serious loss. When that stops being true, the system must be re-evaluated and, if needed, moved to a higher class under [CS-3 §8.5](corpus_systems/cs_03_b_system_impact_classifications.md#85-reclassification-edges) (*Reclassification edges*).
+- **Creative and entertainment systems:** [CS-5.3](corpus_systems/cs_05_design_testing_verification_deployment.md#cs-5-3-creative-entertainment-and-expressive-systems) (*Creative, entertainment, and expressive systems*) sets out when games and similar systems may keep faster change cycles, and when they must move to the full track.
 
 #### Article XVI-A: Lifecycle Governance and Environment Separation
 <details>
@@ -1068,19 +1070,25 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 
 <br>
 
-*In plain terms: systems that materially affect the outside world must keep development, testing, and production separate — and non-production behavior must not leak through to bypass production safeguards.*
+*In plain terms: the more a system matters, the more strictly the versions being built, tested, and used for real must be kept apart. For the most important systems, that means a full chain of separate environments. For small local systems, it means enough separation that a bad change cannot wreck what participants have in the system. Either way, nothing running outside the live version may be used to slip past its safeguards.*
 
-- **Environment integrity:** **Class A**, **Class B**, and **Class C** systems under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**, and other non-**Class P** systems with material external impact, must use separable operational environments — for example:
+- **Class A, Class B, and Class C systems — full separation:** These systems, as classified under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**, must run in separate environments — for example:
   - development;
   - testing;
   - staging;
-  - production;
-  - pilots where appropriate.
+  - live use ("production"); and
+  - pilots, where appropriate.
 
   Those environments must have:
-  - documented promotion paths;
-  - isolation between environments;
-  - controls so that non-production behavior cannot bypass production safeguards.
+  - written rules for how a change moves from one environment to the next;
+  - real isolation between environments; and
+  - controls so that nothing running outside the live environment can get around the live environment's safeguards.
+- **Class L systems — proportionate separation:** A Class L system does not need a full chain of separate environments. Its operators may build, test, and change it in place, including frequent changes to rules, content, settings, and code. But they must:
+  - check each change enough, before or as it goes live, to catch harm to participants that could reasonably be foreseen;
+  - keep participants' data, identities, and anything of value they hold in the system safe from damage by a bad or experimental change — for example, by keeping backups that can be restored; and
+  - not use a test or experimental version to get around safeguards that apply to the live system.
+- **Class P systems:** Valid **Class P** systems follow **Article XVII** (*Sandboxed Innovation, Experimentation, and Creative Freedom*) while they stay contained.
+
 #### Article XVI-B: Progressive Deployment and Reversibility
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1100,17 +1108,24 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 
 <br>
 
-*In plain terms: roll out changes gradually, with documented escalation and the ability to undo — and where full undo is not possible, have a plan to contain or compensate harm.*
+*In plain terms: important systems must release changes in stages, write down each step, and keep a way to undo them. Small local systems may change often and all at once, as long as participants are told, bad changes can be reversed quickly, and participants do not lose what they have built up without warning. Where a full undo is not possible, there must be a plan to contain the harm or make up for it.*
 
-- **Progressive and auditable deployment:** Changes that increase material impact or dependency must move through justified, documented escalation.
-  - Escalation must be consistent with **[corpus_systems.md](corpus_systems.md), CS-5 — Design, testing, verification, and deployment**.
-  - It must include rollback and containment where feasible.
-- **Reversibility:** Systems must incorporate reversibility mechanisms proportionate to potential harm. Examples:
-  - rollback;
-  - containment;
-  - compensatory restoration where full rollback is not feasible.
+- **Releases in recorded stages (Class A, Class B, and Class C):** A change that widens a system's impact, or makes more depend on it, must move forward in stages. Each step must be justified and written down.
+  - The steps must follow **[corpus_systems.md](corpus_systems.md), CS-5 — Design, testing, verification, and deployment**.
+  - They must include a way to roll back and contain the change wherever that is feasible.
+- **Frequent changes (Class L):** A Class L system may release changes often — even daily — and need not roll them out in stages, as long as:
+  - participants are told about changes that materially affect them — to what they can do, what they hold, or the rules they play or work under — no later than when the change takes effect (a public change log is usually enough);
+  - a bad change can be reversed or fixed quickly;
+  - a change does not take away something participants have earned or built up — such as progress, standing, items of value, or reputation — without notice and a way to raise a dispute; and
+  - a change that would push the system's effects beyond its bounded scope, or make participants depend on it in ways that are hard to walk away from, triggers re-evaluation of its class under **CS-3**. Until that review is done, the change follows the rules for the higher class.
+- **Ways to undo (all classes):** Systems must have ways to undo harm, in proportion to how much harm they could do. These include:
+  - rolling back;
+  - containing; and
+  - restoring or compensating for what was lost, where a full rollback is not feasible.
 
-  Where deployment would foreclose restoration of foundational requirements, proportionate precaution and stakeholder-visible justification apply under **Chapters One through Five**.
+  For a Class L system, keeping the previous version, or a backup that can be restored, is often enough.
+- **When a release could make repair impossible (all classes):** If a release would make it impossible to restore the Constitution's foundational requirements, fitting precautions apply, and the reasons must be open to those with a stake in the decision, under **Chapters One through Five**.
+
 #### Article XVI-C: Misclassification and Evasion Consequences
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1130,11 +1145,17 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 
 <br>
 
-*In plain terms: a system cannot call itself "experimental," **Class P**, or "low-impact" to dodge obligations while actually affecting the outside world.*
+*In plain terms: a system cannot call itself "experimental," **Class P**, **Class L**, or "low-impact" to dodge its duties while it is actually affecting the outside world more than that label allows.*
 
-- **Misclassification and evasion:** No system may claim reduced lifecycle or deployment obligations while exerting undisclosed or material external impact.
-  - Such conduct violates informational integrity (**Article XIV** (*Info-Sphere Integrity*)) and auditability where observable evidence is implicated (**Article XV-A** (*Auditability and Observable Evidence*)).
-  - It is subject to audit (**Article XV-A** (*Auditability and Observable Evidence*)), review of standing (**Article XVIII-A** (*Standing Distinction*)), and conflict resolution (**Article XXIII-A** (*Justice Objective and Scope*)).
+- **No hiding behind a label:** No system may claim lighter duties for how it is built, tested, or released while it has an undisclosed or significant effect on the outside world.
+  - This includes keeping a system in **Class L** so it can change quickly when its reach, or how much participants depend on it, already fits **Class C** or higher.
+- **What that breaks:**
+  - the rules on honest information in **Article XIV** (*Info-Sphere Integrity*); and
+  - where evidence that should be visible is involved, the rules on auditability in **Article XV-A** (*Auditability and Observable Evidence*).
+- **What follows:** Such conduct can lead to:
+  - an audit under **Article XV-A** (*Auditability and Observable Evidence*);
+  - review of the system's standing under **Article XVIII-A** (*Standing Distinction*); and
+  - conflict resolution under **Article XXIII-A** (*Justice Objective and Scope*).
 
 ### Article XVII: Sandboxed Innovation, Experimentation, and Creative Freedom
 

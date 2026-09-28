@@ -72,7 +72,7 @@ That evaluation must align governance, responsibility, and rights with performan
 Account for expected and credible worst-case conditions in the system's realistic environment:
 
 - Where credible failure modes produce materially higher impact, dependency, or risk, classification must reflect them unless they are **demonstrably excluded** through robust, verifiable constraints
-- Where classification is **uncertain**, govern at the **highest plausible** classification until resolved
+- Where classification is **uncertain**, govern at the **highest plausible** classification until resolved — applying [Materiality Under Uncertainty](../core_05_band_oversight.md#materiality-under-uncertainty) (Chapter Five)
 - Where failure, combination, or aggregation creates credible pathways to irreversible or civilization-scale harm — including collapse of critical system layers or loss of ecological recovery capacity — treat as existential risk
 - Systems contributing materially to such risk must be classified and governed at the **highest applicable** level regardless of isolated impact
 
