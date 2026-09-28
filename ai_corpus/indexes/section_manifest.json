@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-09-27T23:30:03+00:00",
+  "generated_at": "2026-09-28T01:26:33+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 469,
@@ -5455,13 +5455,13 @@
       ]
     },
     "core_06_rights_part_c.md": {
-      "total_lines": 2269,
+      "total_lines": 2298,
       "sections": [
         {
           "header": "CHAPTER SIX: FOUNDATIONAL RIGHTS",
           "level": 1,
           "line_start": 1,
-          "line_end": 2269,
+          "line_end": 2298,
           "anchor": null
         },
         {
@@ -5559,273 +5559,273 @@
           "header": "Article XIV: Info-Sphere Integrity",
           "level": 3,
           "line_start": 688,
-          "line_end": 828,
+          "line_end": 879,
           "anchor": null
         },
         {
           "header": "Article XIV-A: Info-Sphere Plurality and Anti-Monopoly",
           "level": 4,
-          "line_start": 730,
-          "line_end": 761,
+          "line_start": 731,
+          "line_end": 762,
           "anchor": null
         },
         {
           "header": "Article XIV-B: Transparency, Auditability, and Contestability",
           "level": 4,
-          "line_start": 762,
-          "line_end": 796,
+          "line_start": 763,
+          "line_end": 797,
           "anchor": null
         },
         {
           "header": "Article XIV-C: Validation, Reporting, and Epistemic Stewardship",
           "level": 4,
-          "line_start": 797,
-          "line_end": 828,
+          "line_start": 798,
+          "line_end": 831,
           "anchor": null
+        },
+        {
+          "header": "Article XIV-D: Scientific Publication, Review, and Replication Integrity",
+          "level": 4,
+          "line_start": 832,
+          "line_end": 879,
+          "anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity"
         },
         {
           "header": "Article XV: Audit, Transparency, and Independent Verification",
           "level": 3,
-          "line_start": 829,
-          "line_end": 1004,
+          "line_start": 880,
+          "line_end": 1055,
           "anchor": null
         },
         {
           "header": "Article XV-A: Auditability and Observable Evidence",
           "level": 4,
-          "line_start": 913,
-          "line_end": 935,
+          "line_start": 964,
+          "line_end": 986,
           "anchor": "#operative-steward-statement-audit"
         },
         {
           "header": "Article XV-B: Distributed Oversight and Anti-Monopoly Review",
           "level": 4,
-          "line_start": 936,
-          "line_end": 968,
+          "line_start": 987,
+          "line_end": 1019,
           "anchor": null
         },
         {
           "header": "Article XV-C: Verification Accessibility",
           "level": 4,
-          "line_start": 969,
-          "line_end": 1004,
+          "line_start": 1020,
+          "line_end": 1055,
           "anchor": null
         },
         {
           "header": "Article XVI: System Lifecycle, Environments, and Reversibility",
           "level": 3,
-          "line_start": 1005,
-          "line_end": 1138,
+          "line_start": 1056,
+          "line_end": 1212,
           "anchor": null
         },
         {
           "header": "Article XVI-A: Lifecycle Governance and Environment Separation",
           "level": 4,
-          "line_start": 1052,
-          "line_end": 1083,
+          "line_start": 1105,
+          "line_end": 1142,
           "anchor": null
         },
         {
           "header": "Article XVI-B: Progressive Deployment and Reversibility",
           "level": 4,
-          "line_start": 1084,
-          "line_end": 1113,
+          "line_start": 1143,
+          "line_end": 1179,
           "anchor": null
         },
         {
           "header": "Article XVI-C: Misclassification and Evasion Consequences",
           "level": 4,
-          "line_start": 1114,
-          "line_end": 1138,
+          "line_start": 1180,
+          "line_end": 1212,
           "anchor": null
         },
         {
-          "header": "Article XVII: Sandboxed Innovation, Experimentation, and Creative Freedom",
+          "header": "Article XVII: Innovation, Experimentation, and Creative Freedom",
           "level": 3,
-          "line_start": 1139,
-          "line_end": 1384,
-          "anchor": null
+          "line_start": 1213,
+          "line_end": 1413,
+          "anchor": "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom"
         },
         {
           "header": "Article XVII-A: Sandboxed Scope",
           "level": 4,
-          "line_start": 1169,
-          "line_end": 1198,
+          "line_start": 1245,
+          "line_end": 1274,
           "anchor": null
         },
         {
           "header": "Article XVII-B: Containment, Disclosure, and Opt-In",
           "level": 4,
-          "line_start": 1199,
-          "line_end": 1229,
+          "line_start": 1275,
+          "line_end": 1305,
           "anchor": null
         },
         {
           "header": "Article XVII-C: Transition to Higher-Obligation Regimes",
           "level": 4,
-          "line_start": 1230,
-          "line_end": 1255,
+          "line_start": 1306,
+          "line_end": 1331,
           "anchor": null
         },
         {
           "header": "Article XVII-D: Innovation Reward, Disclosure, and Anti-Enclosure",
           "level": 4,
-          "line_start": 1256,
-          "line_end": 1333,
-          "anchor": null
-        },
-        {
-          "header": "Article XVII-E: Scientific Publication, Review, and Replication Integrity",
-          "level": 4,
-          "line_start": 1334,
-          "line_end": 1384,
+          "line_start": 1332,
+          "line_end": 1413,
           "anchor": null
         },
         {
           "header": "Article XVIII: Standing and Participation Status",
           "level": 3,
-          "line_start": 1385,
-          "line_end": 1623,
+          "line_start": 1414,
+          "line_end": 1652,
           "anchor": "#article-xviii-standing-and-participation-status"
         },
         {
           "header": "Article XVIII-A: Standing Distinction",
           "level": 4,
-          "line_start": 1442,
-          "line_end": 1490,
+          "line_start": 1471,
+          "line_end": 1519,
           "anchor": null
         },
         {
           "header": "Article XVIII-B: Contestability and Proportional Restriction Limits",
           "level": 4,
-          "line_start": 1491,
-          "line_end": 1553,
+          "line_start": 1520,
+          "line_end": 1582,
           "anchor": "#anti-substitution-sentience-status-xviii"
         },
         {
           "header": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
           "level": 4,
-          "line_start": 1554,
-          "line_end": 1601,
+          "line_start": 1583,
+          "line_end": 1630,
           "anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit"
         },
         {
           "header": "Article XVIII-D: Movement, Migration, Refuge, and Non-Statelessness Routing",
           "level": 4,
-          "line_start": 1602,
-          "line_end": 1623,
+          "line_start": 1631,
+          "line_end": 1652,
           "anchor": "#article-xviii-d-movement-migration-and-refuge"
         },
         {
           "header": "Article XIX: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
           "level": 3,
-          "line_start": 1624,
-          "line_end": 1845,
+          "line_start": 1653,
+          "line_end": 1874,
           "anchor": "#article-xix-interoperability-portability-and-exit-integrity"
         },
         {
           "header": "Article XIX-A: Portability Rights",
           "level": 4,
-          "line_start": 1676,
-          "line_end": 1703,
+          "line_start": 1705,
+          "line_end": 1732,
           "anchor": null
         },
         {
           "header": "Article XIX-B: Reciprocal Interoperability Boundaries",
           "level": 4,
-          "line_start": 1704,
-          "line_end": 1727,
+          "line_start": 1733,
+          "line_end": 1756,
           "anchor": null
         },
         {
           "header": "Article XIX-C: Anti-Lock-In Rule",
           "level": 4,
-          "line_start": 1728,
-          "line_end": 1756,
+          "line_start": 1757,
+          "line_end": 1785,
           "anchor": null
         },
         {
           "header": "Article XIX-D: Movement, Migration, Refuge, and Non-Statelessness",
           "level": 4,
-          "line_start": 1757,
-          "line_end": 1845,
+          "line_start": 1786,
+          "line_end": 1874,
           "anchor": null
         },
         {
           "header": "Article XX: Comprehensibility and Complexity Stewardship",
           "level": 3,
-          "line_start": 1846,
-          "line_end": 1969,
+          "line_start": 1875,
+          "line_end": 1998,
           "anchor": null
         },
         {
           "header": "Article XX-A: Proportional Comprehensibility Right",
           "level": 4,
-          "line_start": 1898,
-          "line_end": 1934,
+          "line_start": 1927,
+          "line_end": 1963,
           "anchor": null
         },
         {
           "header": "Article XX-B: Complexity Audit and Modularity Requirements",
           "level": 4,
-          "line_start": 1935,
-          "line_end": 1969,
+          "line_start": 1964,
+          "line_end": 1998,
           "anchor": "#operative-steward-statement-comprehensibility"
         },
         {
           "header": "Article XXI: Root Cause Analysis and Adaptive Response",
           "level": 3,
-          "line_start": 1970,
-          "line_end": 2076,
+          "line_start": 1999,
+          "line_end": 2105,
           "anchor": "#article-xxi-root-cause-analysis-and-adaptive-response"
         },
         {
           "header": "Article XXI-A: Diagnostic Rigor and Causal Attribution",
           "level": 4,
-          "line_start": 2016,
-          "line_end": 2045,
+          "line_start": 2045,
+          "line_end": 2074,
           "anchor": null
         },
         {
           "header": "Article XXI-B: Auditability, Challenge, and Reversibility Preference",
           "level": 4,
-          "line_start": 2046,
-          "line_end": 2076,
+          "line_start": 2075,
+          "line_end": 2105,
           "anchor": null
         },
         {
           "header": "Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
           "level": 3,
-          "line_start": 2077,
-          "line_end": 2269,
+          "line_start": 2106,
+          "line_end": 2298,
           "anchor": "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards"
         },
         {
           "header": "Article XXII-A: Bounded Interpretive Mandate",
           "level": 4,
-          "line_start": 2123,
-          "line_end": 2156,
+          "line_start": 2152,
+          "line_end": 2185,
           "anchor": null
         },
         {
           "header": "Article XXII-B: Composition, Rotation, and Conflict Controls",
           "level": 4,
-          "line_start": 2157,
-          "line_end": 2189,
+          "line_start": 2186,
+          "line_end": 2218,
           "anchor": "#article-xxii-b-composition-rotation-and-conflict-controls"
         },
         {
           "header": "Article XXII-C: Public Reasons, Challenge Rights, and External Review",
           "level": 4,
-          "line_start": 2190,
-          "line_end": 2230,
+          "line_start": 2219,
+          "line_end": 2259,
           "anchor": null
         },
         {
           "header": "Article XXII-D: Removal for Cause and Non-Entrenchment",
           "level": 4,
-          "line_start": 2231,
-          "line_end": 2269,
+          "line_start": 2260,
+          "line_end": 2298,
           "anchor": null
         }
       ]

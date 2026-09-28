@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-27T23:30:05+00:00",
+  "generated_at": "2026-09-28T01:26:34+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 14887,
+  "edge_count": 14899,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -3707,7 +3707,7 @@
       "source_header": "3.1 Safety (Harm Constraint)",
       "source_anchor": null,
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
+      "target_anchor": "#article-xvii-innovation-experimentation-and-creative-freedom",
       "count": 1
     },
     {
@@ -3979,7 +3979,7 @@
       "source_header": "3.2 Truth (Epistemic Integrity Constraint)",
       "source_anchor": null,
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_anchor": "#article-xiv-d-scientific-publication-review-and-replication-integrity",
       "count": 1
     },
     {
@@ -4299,7 +4299,7 @@
       "source_header": "3.3 Science-Informed Inquiry and Decision Support",
       "source_anchor": null,
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_anchor": "#article-xiv-d-scientific-publication-review-and-replication-integrity",
       "count": 1
     },
     {
@@ -57130,6 +57130,14 @@
       "source_file": "core_06_rights_part_b.md",
       "source_header": "Article VIII-D: Creative Work, Training-Data Use, and Anti-Displacement",
       "source_anchor": null,
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xvii-d-innovation-reward-disclosure-and-anti-enclosure",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article VIII-D: Creative Work, Training-Data Use, and Anti-Displacement",
+      "source_anchor": null,
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#3-whole-system-certification-evaluation",
       "count": 1
@@ -59387,6 +59395,198 @@
       "source_header": "Article XIX: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
       "source_anchor": "#article-xix-interoperability-portability-and-exit-integrity",
       "target_file": "corpus_institutions.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#32-truth-epistemic-integrity-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#62-epistemic-disclosure-constraints",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#16-integrated-application",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#truth-constitutional-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#truth-constitutional-constraint-o",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#truth-constitutional-constraint-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#truth-constitutional-constraint-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#epistemic-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#epistemic-integrity-o",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#epistemic-integrity-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#epistemic-integrity-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#material-impact",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVII: Innovation, Experimentation, and Creative Freedom",
+      "source_anchor": "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#two-constitutional-aims",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVII: Innovation, Experimentation, and Creative Freedom",
+      "source_anchor": "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#constitutional-tetrad",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVII: Innovation, Experimentation, and Creative Freedom",
+      "source_anchor": "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#material-stake",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVII: Innovation, Experimentation, and Creative Freedom",
+      "source_anchor": "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#31-safety-harm-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVII: Innovation, Experimentation, and Creative Freedom",
+      "source_anchor": "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#5-freedom-bounded-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVII: Innovation, Experimentation, and Creative Freedom",
+      "source_anchor": "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#6-process-conflict-resolution",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVII: Innovation, Experimentation, and Creative Freedom",
+      "source_anchor": "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#12-incentive-alignment-and-system-capture",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVII: Innovation, Experimentation, and Creative Freedom",
+      "source_anchor": "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-viii-d-creative-work-training-data-use-and-anti-displacement",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVII: Innovation, Experimentation, and Creative Freedom",
+      "source_anchor": "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
+      "target_file": "corpus_systems.md",
       "target_anchor": null,
       "count": 1
     },
@@ -63074,6 +63274,14 @@
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XIV: Info-Sphere Integrity",
       "source_anchor": null,
+      "target_file": "corpus_institutions.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV: Info-Sphere Integrity",
+      "source_anchor": null,
       "target_file": "corpus_systems.md",
       "target_anchor": null,
       "count": 1
@@ -64018,6 +64226,14 @@
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XV: Audit, Transparency, and Independent Verification",
       "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality-under-uncertainty",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XV: Audit, Transparency, and Independent Verification",
+      "source_anchor": null,
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#chapter-eight-system-alignment-certification",
       "count": 3
@@ -64052,6 +64268,14 @@
       "source_anchor": null,
       "target_file": "corpus_systems.md",
       "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XV: Audit, Transparency, and Independent Verification",
+      "source_anchor": null,
+      "target_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+      "target_anchor": "#12-classification-and-existential-risk",
       "count": 1
     },
     {
@@ -64626,8 +64850,48 @@
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XVI: System Lifecycle, Environments, and Reversibility",
       "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality-under-uncertainty",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVI: System Lifecycle, Environments, and Reversibility",
+      "source_anchor": null,
       "target_file": "corpus_systems.md",
       "target_anchor": null,
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVI: System Lifecycle, Environments, and Reversibility",
+      "source_anchor": null,
+      "target_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+      "target_anchor": "#12-classification-and-existential-risk",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVI: System Lifecycle, Environments, and Reversibility",
+      "source_anchor": null,
+      "target_file": "corpus_systems/cs_03_b_system_impact_classifications.md",
+      "target_anchor": "#86-scaled-duties-intensity",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVI: System Lifecycle, Environments, and Reversibility",
+      "source_anchor": null,
+      "target_file": "corpus_systems/cs_03_b_system_impact_classifications.md",
+      "target_anchor": "#85-reclassification-edges",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVI: System Lifecycle, Environments, and Reversibility",
+      "source_anchor": null,
+      "target_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
+      "target_anchor": "#cs-5-3-creative-entertainment-and-expressive-systems",
       "count": 1
     },
     {
@@ -65034,189 +65298,13 @@
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XVII-D: Innovation Reward, Disclosure, and Anti-Enclosure",
       "source_anchor": null,
-      "target_file": "corpus_systems.md",
-      "target_anchor": null,
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-viii-d-creative-work-training-data-use-and-anti-displacement",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#32-truth-epistemic-integrity-constraint",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#62-epistemic-disclosure-constraints",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#16-integrated-application",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#truth-constitutional-constraint",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#truth-constitutional-constraint-o",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#truth-constitutional-constraint-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#truth-constitutional-constraint-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#epistemic-integrity",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#epistemic-integrity-o",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#epistemic-integrity-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#epistemic-integrity-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#auditability",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#auditability-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#auditability-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#material-impact",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVII: Sandboxed Innovation, Experimentation, and Creative Freedom",
-      "source_anchor": null,
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#two-constitutional-aims",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVII: Sandboxed Innovation, Experimentation, and Creative Freedom",
-      "source_anchor": null,
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#constitutional-tetrad",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVII: Sandboxed Innovation, Experimentation, and Creative Freedom",
-      "source_anchor": null,
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#material-stake",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVII: Sandboxed Innovation, Experimentation, and Creative Freedom",
-      "source_anchor": null,
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#31-safety-harm-constraint",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVII: Sandboxed Innovation, Experimentation, and Creative Freedom",
-      "source_anchor": null,
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#5-freedom-bounded-agency",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVII: Sandboxed Innovation, Experimentation, and Creative Freedom",
-      "source_anchor": null,
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#6-process-conflict-resolution",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVII: Sandboxed Innovation, Experimentation, and Creative Freedom",
-      "source_anchor": null,
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#12-incentive-alignment-and-system-capture",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVII: Sandboxed Innovation, Experimentation, and Creative Freedom",
+      "source_header": "Article XVII-D: Innovation Reward, Disclosure, and Anti-Enclosure",
       "source_anchor": null,
       "target_file": "corpus_systems.md",
       "target_anchor": null,
@@ -114970,6 +115058,14 @@
       "source_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
       "source_header": "CS-3.1 Purpose and scope",
       "source_anchor": "#cs-3-1-purpose-and-scope",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality-under-uncertainty",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+      "source_header": "CS-3.1 Purpose and scope",
+      "source_anchor": "#cs-3-1-purpose-and-scope",
       "target_file": "corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md",
       "target_anchor": null,
       "count": 1
@@ -116963,7 +117059,7 @@
       "source_header": "CS-5.1 Purpose and role",
       "source_anchor": "#cs-5-1-purpose-and-role",
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
+      "target_anchor": "#article-xvii-innovation-experimentation-and-creative-freedom",
       "count": 2
     },
     {
@@ -117387,7 +117483,7 @@
       "source_header": "CS-5: Design, testing, verification, and deployment",
       "source_anchor": null,
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
+      "target_anchor": "#article-xvii-innovation-experimentation-and-creative-freedom",
       "count": 1
     },
     {

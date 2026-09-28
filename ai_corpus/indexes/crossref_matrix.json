@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-27T23:30:04+00:00",
+  "generated_at": "2026-09-28T01:26:34+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1032,12 +1032,12 @@
               "#article-xii-a-reliability-and-trustworthiness-baseline",
               "#article-xii-b-right-to-redress-and-remedy",
               "#article-xii-right-to-reliable-and-trustworthy-systems",
+              "#article-xiv-d-scientific-publication-review-and-replication-integrity",
               "#article-xiv-info-sphere-integrity",
               "#article-xix-interoperability-portability-and-exit-integrity",
               "#article-xv-audit-transparency-and-independent-verification",
               "#article-xvi-system-lifecycle-environments-and-reversibility",
-              "#article-xvii-e-scientific-publication-review-and-replication-integrity",
-              "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
+              "#article-xvii-innovation-experimentation-and-creative-freedom",
               "#article-xviii-b-contestability-and-proportional-restriction-limits",
               "#article-xviii-standing-and-participation-status",
               "#article-xx-comprehensibility-and-complexity-stewardship",
@@ -7749,8 +7749,9 @@
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
+              "#article-xvii-d-innovation-reward-disclosure-and-anti-enclosure",
               "#article-xviii-a-standing-distinction"
             ]
           },
@@ -8048,7 +8049,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 231,
+            "count": 233,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -8070,6 +8071,7 @@
               "#materiality-determination",
               "#materiality-determination-a",
               "#materiality-determination-c",
+              "#materiality-under-uncertainty",
               "#movement-refuge-semi-independent",
               "#transparency",
               "#transparency-a",
@@ -8135,9 +8137,10 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 3,
+            "count": 5,
             "anchors": [
               "#article-v-a-dignity-and-equal-moral-standing",
+              "#article-viii-d-creative-work-training-data-use-and-anti-displacement",
               "#article-xi-stakeholder-system-participation-representation-and-due-process"
             ]
           },
@@ -8227,7 +8230,7 @@
           },
           {
             "file": "corpus_institutions.md",
-            "count": 3,
+            "count": 4,
             "anchors": []
           },
           {
@@ -8251,8 +8254,30 @@
           },
           {
             "file": "corpus_systems.md",
-            "count": 19,
+            "count": 20,
             "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+            "count": 2,
+            "anchors": [
+              "#12-classification-and-existential-risk"
+            ]
+          },
+          {
+            "file": "corpus_systems/cs_03_b_system_impact_classifications.md",
+            "count": 2,
+            "anchors": [
+              "#85-reclassification-edges",
+              "#86-scaled-duties-intensity"
+            ]
+          },
+          {
+            "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
+            "count": 1,
+            "anchors": [
+              "#cs-5-3-creative-entertainment-and-expressive-systems"
+            ]
           }
         ]
       },
@@ -12613,9 +12638,10 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
               "#materiality-determination",
+              "#materiality-under-uncertainty",
               "#public-oversight-baseline-disclosure"
             ]
           },
@@ -13245,7 +13271,7 @@
               "#article-xvii-a-sandboxed-scope",
               "#article-xvii-b-containment-disclosure-and-opt-in",
               "#article-xvii-c-transition-to-higher-obligation-regimes",
-              "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom"
+              "#article-xvii-innovation-experimentation-and-creative-freedom"
             ]
           },
           {

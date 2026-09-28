@@ -691,7 +691,7 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§4 Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), and [§9.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#91-distributed-understanding).
-- Read with: [Article XII](#article-xii-right-to-reliable-and-trustworthy-systems) (*Right to Reliable and Trustworthy Systems*) where system outputs shape reliance; [Article XV](#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) for records and independent verification; [Article XVII-E](#article-xvii-e-scientific-publication-review-and-replication-integrity) (*Scientific Publication, Review, and Replication Integrity*) where publication-scoped integrity is materially implicated.
+- Read with: [Article XII](#article-xii-right-to-reliable-and-trustworthy-systems) (*Right to Reliable and Trustworthy Systems*) where system outputs shape reliance; [Article XV](#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) for records and independent verification.
 
 </details>
 
@@ -706,7 +706,7 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
 
 <br>
 
-*In plain terms: **Article XIV** (*Info-Sphere Integrity*) is the information-integrity Rights Floor — the shared environment where we learn, coordinate, and decide must stay honest, plural, and open to challenge. No one gets to own the pipeline of truth. Rankings, summaries, and gatekeepers have to show their work, and you must be able to compare other views and push back when information misleads you.*
+*In plain terms: **Article XIV** (*Info-Sphere Integrity*) is the information-integrity Rights Floor — the shared environment where we learn, coordinate, and decide must stay honest, plural, and open to challenge. No one gets to own the pipeline of truth. Rankings, summaries, and gatekeepers have to show their work, and you must be able to compare other views and push back when information misleads you. Science, as the main way we check what is true together, must stay open to publication, replication, and correction (**Article XIV-D**).*
 
 Accurate, relevant, and contestable information is foundational to self-determination, coordination, and the effective allocation of resources in reality. [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) operates as both a right and a system-wide constraint. Where conflict arises, its constraint function governs.
 
@@ -726,6 +726,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 - **Truth constraint:** Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) and [Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints) bind every subsection here.
 - **Classification:** **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling** scales detailed info-sphere obligations for **Class A**, **Class B**, and **Class C** systems; [Material Impact](core_05_band_oversight.md#material-impact) triggers classification where class is unsettled.
+- **Science:** [Article XIV-D](#article-xiv-d-scientific-publication-review-and-replication-integrity) (*Scientific Publication, Review, and Replication Integrity*) applies this Article to scientific publication, review, replication, and correction. **[corpus_institutions.md](corpus_institutions.md), CI-25** (*Scientific publication, peer review, replication, and evidence stewardship*) puts it into practice for institutions.
 
 #### Article XIV-A: Info-Sphere Plurality and Anti-Monopoly
 <details>
@@ -825,6 +826,56 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
   - All sentients must have access to transparent, decision-usable reporting.
   - **Class A**, **Class B**, and **Class C** systems, as defined in **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**, must provide the same access.
   - Reporting must cover energy and resource consumption and estimated impacts on the natural world in a manner sufficient for comparison, audit, and footprint-reduction activity.
+
+<a id="article-xvii-e-scientific-publication-review-and-replication-integrity"></a>
+
+#### Article XIV-D: Scientific Publication, Review, and Replication Integrity
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), and [§16 Integrated Application](core_01_c_stewardship_capacity_principles.md#16-integrated-application).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [Auditability](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+
+</details>
+
+<br>
+
+*In plain terms: science is public verification infrastructure. Evidence, replication, and correction must matter more than journal brand — and correcting an error must always be easier than hiding one.*
+
+- **Science as public verification infrastructure:** Scientific and scholarly publication, review, replication, and correction must be organized to advance:
+  - truth-seeking;
+  - reproducibility;
+  - accountable disagreement;
+  - public learning.
+
+  They must not be organized for prestige hoarding, opaque gatekeeping, or manufactured scarcity.
+- **Open publication and evidence sufficiency:** Material empirical or analytical claims must be publishable without prior prestige-gate approval.
+  - The only permissible limits are narrow privacy, biosafety, security, or comparable limits justified under **Chapter One** and **Article XVI-A** (*Lifecycle Governance and Environment Separation*).
+  - Such claims must include enough method, provenance, uncertainty, and evidence detail — including access to underlying materials or justified substitutes where needed for verification — to permit independent understanding and proportionate verification.
+- **Review and replication over prestige:** Institutional reliance should track:
+  - quality of evidence;
+  - critique;
+  - replication;
+  - correction behavior;
+  - long-run explanatory or predictive reliability.
+
+  It must not track journal brand, impact-factor proxy, or closed editorial status.
+  - Claims with [Material Impact](core_05_band_oversight.md#material-impact) that are policy-relevant, safety-relevant, or dependency-relevant should face a strong presumption of independent replication, adversarial review, or both before they receive durable institutional deference.
+  - Replication, null-result, and correction-oriented work must remain publishable and citable on terms that do not depend on prestige signaling.
+- **Correction and contestability:** Good-faith correction, amendment, and supersession must remain easier than concealment.
+  - Review and editorial systems must remain contestable, auditable, conflict-disciplined, and reason-giving in major acceptance, correction, and retraction decisions.
+  - The following are non-compliant:
+    - suppression of inconvenient results;
+    - retaliation against reviewers or replicators;
+    - non-transparent manipulation of the scientific record.
 
 ### Article XV: Audit, Transparency, and Independent Verification
 
@@ -1008,7 +1059,7 @@ Steward pointer (process support; cannot narrow this Article): [`implementation/
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [§9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth), and [§15 Systemic Evaluation Requirement](core_01_c_stewardship_capacity_principles.md#15-systemic-evaluation-requirement).
-- Read with: [Article XVII](#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom) (*Sandboxed Innovation, Experimentation, and Creative Freedom*) where lighter rules apply only when external impact is absent or demonstrably contained; [Article XV](#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) for reconstructable deployment and escalation evidence; [Article XII-F](#article-xii-f-resilience-and-self-healing-baseline) (*Resilience and Self-Healing Baseline*) where recovery discipline intersects lifecycle change.
+- Read with: [Article XVII](#article-xvii-innovation-experimentation-and-creative-freedom) (*Innovation, Experimentation, and Creative Freedom*) where lighter rules apply only when external impact is absent or demonstrably contained; [Article XV](#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) for reconstructable deployment and escalation evidence; [Article XII-F](#article-xii-f-resilience-and-self-healing-baseline) (*Resilience and Self-Healing Baseline*) where recovery discipline intersects lifecycle change.
 
 </details>
 
@@ -1042,7 +1093,7 @@ Steward pointer (process support; cannot narrow this Article): [`implementation/
 - **Duties scale with the system's class:** A system's class under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling** decides how much of this Article applies to it. The full duties for each class are in the table at [CS-3 §8.6](corpus_systems/cs_03_b_system_impact_classifications.md#86-scaled-duties-intensity) (*Scaled-duties intensity*).
   - **Class A, Class B, and Class C** — systems that survival, critical services, or large-scale coordination depend on: full lifecycle discipline. That means separate environments, written rules for moving changes between them, releases in stages, and tested ways to undo. Changes move deliberately.
   - **Class L** — local, limited-impact systems that participants can leave without serious loss, such as a community game or a club's scheduling tool: light but real discipline. Operators may change rules, content, settings, and code often, even daily, without a full chain of separate environments. In return, they must tell participants about changes that matter to them, keep a way to reverse or fix a bad change quickly, and protect what participants have built up in the system.
-  - **Class P** — private, contained systems: this Article serves mainly as guidance while the system stays contained. **Article XVII** (*Sandboxed Innovation, Experimentation, and Creative Freedom*) governs.
+  - **Class P** — private, contained systems: this Article serves mainly as guidance while the system stays contained. **Article XVII** (*Innovation, Experimentation, and Creative Freedom*) governs.
   - **Class uncertain:** In short, treat the system as the higher class until that is settled. The rule itself is in [Materiality Under Uncertainty](core_05_band_oversight.md#materiality-under-uncertainty) (Chapter Five) and [CS-3 §1.2](corpus_systems/cs_03_a_system_classification_machinery.md#12-classification-and-existential-risk) (*Classification and existential risk*).
 
 *Article neighbors:*
@@ -1087,7 +1138,7 @@ Steward pointer (process support; cannot narrow this Article): [`implementation/
   - check each change enough, before or as it goes live, to catch harm to participants that could reasonably be foreseen;
   - keep participants' data, identities, and anything of value they hold in the system safe from damage by a bad or experimental change — for example, by keeping backups that can be restored; and
   - not use a test or experimental version to get around safeguards that apply to the live system.
-- **Class P systems:** Valid **Class P** systems follow **Article XVII** (*Sandboxed Innovation, Experimentation, and Creative Freedom*) while they stay contained.
+- **Class P systems:** Valid **Class P** systems follow **Article XVII** (*Innovation, Experimentation, and Creative Freedom*) while they stay contained.
 
 #### Article XVI-B: Progressive Deployment and Reversibility
 <details>
@@ -1157,35 +1208,39 @@ Steward pointer (process support; cannot narrow this Article): [`implementation/
   - review of the system's standing under **Article XVIII-A** (*Standing Distinction*); and
   - conflict resolution under **Article XXIII-A** (*Justice Objective and Scope*).
 
-### Article XVII: Sandboxed Innovation, Experimentation, and Creative Freedom
+<a id="article-xvii-sandboxed-innovation-experimentation-and-creative-freedom"></a>
+
+### Article XVII: Innovation, Experimentation, and Creative Freedom
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), and [§12 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#12-incentive-alignment-and-system-capture).
-- Read with: [Article XVI](#article-xvi-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*) when impact, dependency, or integration outgrows sandbox conditions; [Article XIV](#article-xiv-info-sphere-integrity) (*Info-Sphere Integrity*) and [Article XVII-E](#article-xvii-e-scientific-publication-review-and-replication-integrity) (*Scientific Publication, Review, and Replication Integrity*) where publication-scoped integrity is materially implicated; [Article XV](#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) for disclosure and verification of containment and transition claims.
+- Read with: [Article XVI](#article-xvi-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*) when impact, dependency, or integration outgrows sandbox conditions; [Article VIII-D](core_06_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*) for creators' rights that sit alongside the reward rules in **Article XVII-D**; [Article XIX-C](#article-xix-c-anti-lock-in-rule) (*Anti-Lock-In Rule*) where exclusivity threatens lock-in; [Article XV](#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) for disclosure and verification of containment, transition, and reward claims.
 
 </details>
 
 <br>
 
-*In plain terms: **Article XVII** (*Sandboxed Innovation, Experimentation, and Creative Freedom*) is the innovation-and-creativity Rights Floor — sentients may experiment, build, and express themselves under lighter rules when real outside impact is absent or truly contained, but a "sandbox" label is not a loophole. Once a project starts affecting others or plugging into shared systems, it must step up to full lifecycle obligations. Innovators can be rewarded, but not by locking up knowledge, tools, or infrastructure that others need to live, learn, repair, or verify.*
+*In plain terms: you are free to experiment, invent, and create. Projects that affect only you and others who chose to take part may run under lighter rules — but calling something a "sandbox" does not make it one. Once a project starts affecting others, or others start depending on it, the full rules apply. Inventors and creators can be rewarded for their work, but only in ways that are narrow and temporary, and never by locking up knowledge, tools, or infrastructure that others need to live, learn, repair, or check the facts.*
 
-This Article states **constitutional floors** for sandboxed innovation, experimentation, and creative freedom under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+- **What this Article does:** It sets the minimum protections — the Rights Floor — for two linked freedoms: the freedom to try new things, and fair reward for what comes of them.
+  - **Freedom to experiment (Articles XVII-A to XVII-C):** when lighter rules apply, what experimenters owe everyone else, and when a project must move up to the full rules.
+  - **Reward without enclosure (Article XVII-D):** how inventors and creators may be rewarded, including copyright-like terms, without cutting off access, repair, research, or later innovation.
 
-- **Flourishing:** sentients can innovate, experiment, and create with reduced structural requirements when material external impact is absent or demonstrably contained — through genuine opt-in, honest disclosure, and reward structures that preserve downstream experimentation, repair, interoperability, and truthful scrutiny.
-- **Continuity:** sandbox treatment does not normalize into permanent low-obligation operation as impact, dependency, or integration grow — transitions to higher obligations stay timely, exclusivity stays narrow and reviewable, and dependency-critical innovations must not harden into durable enclosure or lock-in.
-
-Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
-
-- **Participation:** in opt-in experimentation, downstream reuse and challenge, and reassessment when sandbox systems begin to matter outside their stated boundaries.
-- **Oversight:** through disclosed experimental status, containment boundaries, transition monitoring, and reviewable reward or exclusivity claims proportionate to class, dependency, and coordination effects.
-- **Accountability:** innovators and operators must answer for leaking uncontained risk to others, enrolling sentients without real choice, dragging their feet on stepping up to full obligations, or rewarding conduct that suppresses repair, safety work, interoperability, research, education, or migration.
-- **Timeliness:** in transition to **Article XVI** (*System Lifecycle, Environments, and Reversibility*) lifecycle requirements and in exclusivity reassessment before delay or lock-in would make higher obligations, broad access, or remedy effectively unreachable.
+  It serves both of the Constitution's [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+  - **Flourishing:** Sentients can innovate, experiment, and create with fewer structural requirements when their work has no real effect on the outside world, or when any effect is shown to be contained. This rests on genuine opt-in, honest disclosure, and rewards that leave others free to experiment, repair, make things work together, and check claims.
+  - **Continuity:** Sandbox treatment must not turn into permanent light-rules operation as a project's impact, the dependence on it, or its ties to shared systems grow. The move to higher obligations must happen on time. Exclusive rights stay narrow and open to review, and innovations that many depend on must not harden into lasting enclosure or lock-in.
+- **How the limits are enforced:** Through the four checks of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad). The more is at stake, the stronger each check must be (see [material stake](core_00_preamble.md#material-stake)).
+  - **Participation:** Sentients can choose whether to join experiments, can reuse and challenge what comes out of them, and can ask for reassessment when a sandbox system starts to matter outside its stated boundaries.
+  - **Oversight:** Experimental status, containment boundaries, and the move to higher obligations must be disclosed and watched. Reward and exclusivity claims must be open to review. How much of this is needed grows with the system's class, with how much depends on it, and with its effects on coordination.
+  - **Accountability:** Innovators and operators must answer for leaking uncontained risk onto others, enrolling sentients without real choice, delaying the move to full obligations, or using rewards to suppress repair, safety work, interoperability, research, education, or migration.
+  - **Timeliness:** The move to the lifecycle requirements of **Article XVI** (*System Lifecycle, Environments, and Reversibility*), and the reassessment of exclusive rights, must happen before delay or lock-in puts higher obligations, broad access, or remedy out of reach in practice.
 
 *Article neighbors:*
 
-- **Implementation layer:** **[corpus_systems.md](corpus_systems.md), CS-5** and **CS-3 — System classification and handling** — without narrowing the floors stated here.
+- **Where the details live:** **[corpus_systems.md](corpus_systems.md), CS-5** and **CS-3 — System classification and handling** put this Article into practice. They cannot narrow the floors set here.
+- **Science publication:** Rules for publishing, reviewing, replicating, and correcting scientific work are in [Article XIV-D](#article-xiv-d-scientific-publication-review-and-replication-integrity) (*Scientific Publication, Review, and Replication Integrity*), as part of Info-Sphere Integrity.
 
 #### Article XVII-A: Sandboxed Scope
 <details>
@@ -1279,6 +1334,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), and [§11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline).
+- Read with: [Article VIII-D](core_06_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*) for creators' attribution, training-data, and compensation rights that sit alongside the reward rules here; [Article XIX-C](#article-xix-c-anti-lock-in-rule) (*Anti-Lock-In Rule*) where exclusivity threatens lock-in.
 
 </details>
 
@@ -1351,54 +1407,6 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
     - coercive lock-in;
     - anti-competitive bottlenecks;
     - material threats to continuity, truth, or equitable participation.
-
-#### Article XVII-E: Scientific Publication, Review, and Replication Integrity
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), and [§16 Integrated Application](core_01_c_stewardship_capacity_principles.md#16-integrated-application).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [Auditability](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-
-</details>
-
-<br>
-
-*In plain terms: science is public verification infrastructure. Evidence, replication, and correction must matter more than journal brand — and correcting an error must always be easier than hiding one.*
-
-- **Science as public verification infrastructure:** Scientific and scholarly publication, review, replication, and correction must be organized to advance:
-  - truth-seeking;
-  - reproducibility;
-  - accountable disagreement;
-  - public learning.
-
-  They must not be organized for prestige hoarding, opaque gatekeeping, or manufactured scarcity.
-- **Open publication and evidence sufficiency:** Material empirical or analytical claims must be publishable without prior prestige-gate approval.
-  - The only permissible limits are narrow privacy, biosafety, security, or comparable limits justified under **Chapter One** and **Article XVI-A** (*Lifecycle Governance and Environment Separation*).
-  - Such claims must include enough method, provenance, uncertainty, and evidence detail — including access to underlying materials or justified substitutes where needed for verification — to permit independent understanding and proportionate verification.
-- **Review and replication over prestige:** Institutional reliance should track:
-  - quality of evidence;
-  - critique;
-  - replication;
-  - correction behavior;
-  - long-run explanatory or predictive reliability.
-
-  It must not track journal brand, impact-factor proxy, or closed editorial status.
-  - Claims with [Material Impact](core_05_band_oversight.md#material-impact) that are policy-relevant, safety-relevant, or dependency-relevant should face a strong presumption of independent replication, adversarial review, or both before they receive durable institutional deference.
-  - Replication, null-result, and correction-oriented work must remain publishable and citable on terms that do not depend on prestige signaling.
-- **Correction and contestability:** Good-faith correction, amendment, and supersession must remain easier than concealment.
-  - Review and editorial systems must remain contestable, auditable, conflict-disciplined, and reason-giving in major acceptance, correction, and retraction decisions.
-  - The following are non-compliant:
-    - suppression of inconvenient results;
-    - retaliation against reviewers or replicators;
-    - non-transparent manipulation of the scientific record.
 
 <a id="article-xviii-standing-reputation-and-participation-status"></a>
 <a id="article-xviii-standing-and-participation-status"></a>

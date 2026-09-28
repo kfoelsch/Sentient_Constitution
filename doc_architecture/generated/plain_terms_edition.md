@@ -4594,7 +4594,7 @@ when an institution suspects spying, the pressure to do whatever it takes is at 
 
 #### Article XIV: Info-Sphere Integrity
 
-**Article XIV** (*Info-Sphere Integrity*) is the information-integrity Rights Floor — the shared environment where we learn, coordinate, and decide must stay honest, plural, and open to challenge. No one gets to own the pipeline of truth. Rankings, summaries, and gatekeepers have to show their work, and you must be able to compare other views and push back when information misleads you.
+**Article XIV** (*Info-Sphere Integrity*) is the information-integrity Rights Floor — the shared environment where we learn, coordinate, and decide must stay honest, plural, and open to challenge. No one gets to own the pipeline of truth. Rankings, summaries, and gatekeepers have to show their work, and you must be able to compare other views and push back when information misleads you. Science, as the main way we check what is true together, must stay open to publication, replication, and correction (**Article XIV-D**).
 
 [Source](../../core_06_rights_part_c.md#article-xiv-info-sphere-integrity)
 
@@ -4615,6 +4615,12 @@ information that materially affects decisions or reliance must disclose its sour
 public-facing information with material external impact must correct errors, show where it came from, and not be sliced or suppressed to mislead. Ecological-footprint reporting must be accessible and decision-usable.
 
 [Source](../../core_06_rights_part_c.md#article-xiv-c-validation-reporting-and-epistemic-stewardship)
+
+##### Article XIV-D: Scientific Publication, Review, and Replication Integrity
+
+science is public verification infrastructure. Evidence, replication, and correction must matter more than journal brand — and correcting an error must always be easier than hiding one.
+
+[Source](../../core_06_rights_part_c.md#article-xvii-e-scientific-publication-review-and-replication-integrity)
 
 #### Article XV: Audit, Transparency, and Independent Verification
 
@@ -4642,31 +4648,31 @@ you must be able to actually get an audit or a challenge. Making checking too ex
 
 #### Article XVI: System Lifecycle, Environments, and Reversibility
 
-**Article XVI** (*System Lifecycle, Environments, and Reversibility*) is the lifecycle-and-reversibility Rights Floor — systems that materially affect the outside world must be built, tested, and rolled out in stages, with real separation between experiments and production, and a workable way to undo or contain harm when something goes wrong. You cannot label a system "experimental" or "low-impact" just to skip safeguards while it actually affects the outside world.
+when a system can affect people or the world outside it, it has to be built, tested, and released in careful steps. Experiments must be kept apart from the live system. And there must be a way to undo the harm, or at least contain it, if something goes wrong. Calling a system "experimental" or "low-impact" does not let anyone skip these safeguards while it is actually affecting the outside world.
 
 [Source](../../core_06_rights_part_c.md#article-xvi-system-lifecycle-environments-and-reversibility)
 
 ##### Article XVI-A: Lifecycle Governance and Environment Separation
 
-systems that materially affect the outside world must keep development, testing, and production separate — and non-production behavior must not leak through to bypass production safeguards.
+the more a system matters, the more strictly the versions being built, tested, and used for real must be kept apart. For the most important systems, that means a full chain of separate environments. For small local systems, it means enough separation that a bad change cannot wreck what participants have in the system. Either way, nothing running outside the live version may be used to slip past its safeguards.
 
 [Source](../../core_06_rights_part_c.md#article-xvi-a-lifecycle-governance-and-environment-separation)
 
 ##### Article XVI-B: Progressive Deployment and Reversibility
 
-roll out changes gradually, with documented escalation and the ability to undo — and where full undo is not possible, have a plan to contain or compensate harm.
+important systems must release changes in stages, write down each step, and keep a way to undo them. Small local systems may change often and all at once, as long as participants are told, bad changes can be reversed quickly, and participants do not lose what they have built up without warning. Where a full undo is not possible, there must be a plan to contain the harm or make up for it.
 
 [Source](../../core_06_rights_part_c.md#article-xvi-b-progressive-deployment-and-reversibility)
 
 ##### Article XVI-C: Misclassification and Evasion Consequences
 
-a system cannot call itself "experimental," **Class P**, or "low-impact" to dodge obligations while actually affecting the outside world.
+a system cannot call itself "experimental," **Class P**, **Class L**, or "low-impact" to dodge its duties while it is actually affecting the outside world more than that label allows.
 
 [Source](../../core_06_rights_part_c.md#article-xvi-c-misclassification-and-evasion-consequences)
 
-#### Article XVII: Sandboxed Innovation, Experimentation, and Creative Freedom
+#### Article XVII: Innovation, Experimentation, and Creative Freedom
 
-**Article XVII** (*Sandboxed Innovation, Experimentation, and Creative Freedom*) is the innovation-and-creativity Rights Floor — sentients may experiment, build, and express themselves under lighter rules when real outside impact is absent or truly contained, but a "sandbox" label is not a loophole. Once a project starts affecting others or plugging into shared systems, it must step up to full lifecycle obligations. Innovators can be rewarded, but not by locking up knowledge, tools, or infrastructure that others need to live, learn, repair, or verify.
+you are free to experiment, invent, and create. Projects that affect only you and others who chose to take part may run under lighter rules — but calling something a "sandbox" does not make it one. Once a project starts affecting others, or others start depending on it, the full rules apply. Inventors and creators can be rewarded for their work, but only in ways that are narrow and temporary, and never by locking up knowledge, tools, or infrastructure that others need to live, learn, repair, or check the facts.
 
 [Source](../../core_06_rights_part_c.md#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom)
 
@@ -4693,12 +4699,6 @@ once a sandbox system starts mattering in the real world, it must graduate to re
 innovators can be rewarded, but exclusivity must be narrow, time-limited, and reviewable. Public-health, safety, and core infrastructure must stay accessible — and once something becomes critical infrastructure, any remaining exclusivity must be reassessed.
 
 [Source](../../core_06_rights_part_c.md#article-xvii-d-innovation-reward-disclosure-and-anti-enclosure)
-
-##### Article XVII-E: Scientific Publication, Review, and Replication Integrity
-
-science is public verification infrastructure. Evidence, replication, and correction must matter more than journal brand — and correcting an error must always be easier than hiding one.
-
-[Source](../../core_06_rights_part_c.md#article-xvii-e-scientific-publication-review-and-replication-integrity)
 
 #### Article XVIII: Standing and Participation Status
 
