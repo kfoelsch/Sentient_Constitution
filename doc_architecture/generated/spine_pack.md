@@ -34,7 +34,7 @@ when texts conflict, apply this order — Constitution and non-regression first,
 
 ## Rights Floor one-liners
 
-127 Article headings. Generated sheet: [rights_floor_sheet.md](../../doc_architecture/generated/rights_floor_sheet.md).
+129 Article headings. Generated sheet: [rights_floor_sheet.md](../../doc_architecture/generated/rights_floor_sheet.md).
 
 ## Steward-door classes
 

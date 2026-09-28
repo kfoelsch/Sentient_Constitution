@@ -48,7 +48,7 @@ This file is the institutional implementation home for **CI-24** (*Innovation re
 
 *Shared rules live elsewhere.*
 - [**CJS-3.17**](../corpus_joint_structure/cjs_03c_continuity_operations.md) (*interoperability, portability, and exit-integrity terms*) — innovation-reward boundary, anti-enclosure, access-preserving reward, anti-warehousing, and duration/reclassification controls.
-- Chapter Five (*Innovation Reward and Anti-Enclosure*); **Article XVII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*).
+- Chapter Five (*Innovation Reward and Anti-Enclosure*); **Article XVII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*), **Article XVII-E** (*Creative and Expressive Works*), and **Article XVII-F** (*Inventions, Processes, and Functional Systems*).
 - [**CJS-3.12**](../corpus_joint_structure/cjs_03a_accountability_operations.md) (*burden of justification and constraint terms*).
 - **CS-3** — system classification and handling where innovation reward must scale with class, dependency, and coordination effects.
 - This file does not repeat those floors.
@@ -70,7 +70,8 @@ This file is the institutional implementation home for **CI-24** (*Innovation re
 - **corrective-tool inventory** — published list of available paths (compulsory license, access order, buyout, reward conversion, sunset acceleration, or equivalent) under **CJS-3.17** (*interoperability, portability, and exit-integrity terms*); and
 - **intake and decision record** — auditable record of requests, outcomes, and escalation where corrective access is denied or delayed.
 **4. Duration, review, and sunset**
-- **published expiry schedule** — when each claim or exclusivity term is scheduled to end or convert;
+- **published expiry schedule** — when each claim or exclusivity term is scheduled to end or convert, including when a functional claim moves from its exclusive phase to its open-licensing phase under **Article XVII-F** (*Inventions, Processes, and Functional Systems*);
+- **open-licensing fee schedule** — who sets and publishes the LEQU-based fee for each claim in its open-licensing phase, the method for converting verified [Chapter Nine §7](../core_09_standing_assessment.md#7-unified-proportional-lequ-scale) Contribution Axis benefit into sentient time saved or added, the [Fair Compensation](../core_05_band_continuity.md#fair-compensation-constitutional) wage rate applied to that time, the share of the gain the fee may take, and the route for challenging a fee. Unless a published schedule adopts a different curve that meets **Article XVII-F**, the default share is at most 50% of the verified gain for up to 1,000 beneficiaries, halving with each tenfold increase in beneficiaries above that, with a floor of 1%;
 - **review calendar** — fixed cadence for dependency-critical and high-impact claim reassessment;
 - **claim-record update process** — how records are updated when scope, class, or dependency status changes; and
 - **specialist-review route** — where sunset, reclassification, or duration disputes are heard independently of claim-granting functions.

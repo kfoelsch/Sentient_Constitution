@@ -288,7 +288,7 @@ flowchart TB
         subgraph Crow3["Articles XVI–XVII"]
             direction LR
             C5["Article XVI · System Lifecycle, Environments, and Reversibility<br/><br/>• Environment separation<br/>• Progressive deployment and reversibility<br/>• Misclassification and evasion consequences"]
-            C6["Article XVII · Innovation, Experimentation, and Creative Freedom<br/><br/>• Sandboxed scope<br/>• Containment, disclosure, and opt-in<br/>• Transition to higher-obligation regimes<br/>• Innovation reward and anti-enclosure"]
+            C6["Article XVII · Innovation, Experimentation, and Creative Freedom<br/><br/>• Sandboxed scope<br/>• Containment, disclosure, and opt-in<br/>• Transition to higher-obligation regimes<br/>• Innovation reward and anti-enclosure<br/>• Creative and expressive works<br/>• Inventions and functional systems"]
         end
         subgraph Crow4["Articles XVIII–XIX"]
             direction LR

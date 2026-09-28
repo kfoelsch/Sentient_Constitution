@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-28T01:26:34+00:00",
+  "generated_at": "2026-09-28T01:27:56+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -7749,9 +7749,10 @@
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
               "#article-xvii-d-innovation-reward-disclosure-and-anti-enclosure",
+              "#article-xvii-e-creative-and-expressive-works",
               "#article-xviii-a-standing-distinction"
             ]
           },
@@ -7814,7 +7815,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 90,
+            "count": 94,
             "anchors": [
               "#2-foundational-objective-wellbeing",
               "#31-safety-harm-constraint",
@@ -7846,7 +7847,7 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 42,
+            "count": 45,
             "anchors": [
               "#11-governance-under-stewardship-discipline",
               "#112-segregation-of-duties",
@@ -7890,7 +7891,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 372,
+            "count": 377,
             "anchors": [
               "#autonomous-coercion-tool-constitutional",
               "#autonomous-coercion-tool-constitutional-a",
@@ -7970,7 +7971,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 310,
+            "count": 326,
             "anchors": [
               "#anti-capture",
               "#anti-capture-a",
@@ -7984,12 +7985,16 @@
               "#constitutional-efficiency",
               "#constitutional-efficiency-a",
               "#constitutional-efficiency-c",
+              "#creative-work-attribution-constitutional",
+              "#creative-work-attribution-constitutional-a",
+              "#creative-work-attribution-constitutional-c",
               "#dependency",
               "#dependency-a",
               "#dependency-c",
               "#ecological-footprint",
               "#ecological-footprint-a",
               "#ecological-footprint-c",
+              "#fair-compensation-constitutional",
               "#occupancy-continuity-constitutional",
               "#occupancy-continuity-constitutional-a",
               "#occupancy-continuity-constitutional-c",
@@ -8034,7 +8039,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 21,
+            "count": 31,
             "anchors": [
               "#authority-stack",
               "#authority-stack-a",
@@ -8084,7 +8089,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 120,
+            "count": 121,
             "anchors": [
               "#animal-life-sentient-life-and-sentience-status-cluster",
               "#coercion-and-manipulation-constitutional",
@@ -8097,6 +8102,7 @@
               "#dignity-and-equal-moral-standing-a",
               "#dignity-and-equal-moral-standing-c",
               "#info-sphere",
+              "#lifespan-equivalent-unit-lequ",
               "#meaningful-agency",
               "#meaningful-agency-a",
               "#meaningful-agency-c",
@@ -8177,7 +8183,7 @@
           },
           {
             "file": "core_09_standing_assessment.md",
-            "count": 11,
+            "count": 12,
             "anchors": [
               "#2-standing-records",
               "#21-silence-is-the-default",
@@ -17094,11 +17100,12 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 10,
+            "count": 11,
             "anchors": [
               "#dependency",
               "#dependency-a",
               "#dependency-c",
+              "#fair-compensation-constitutional",
               "#system-definition",
               "#system-definition-a",
               "#system-definition-c"
@@ -17121,6 +17128,13 @@
             "count": 1,
             "anchors": [
               "#chapter-six-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_09_standing_assessment.md",
+            "count": 1,
+            "anchors": [
+              "#7-unified-proportional-lequ-scale"
             ]
           },
           {

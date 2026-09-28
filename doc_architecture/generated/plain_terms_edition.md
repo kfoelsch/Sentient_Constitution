@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **616** of **882** headings carry a gloss (70%).
+Coverage: **618** of **884** headings carry a gloss (70%).
 
 ## Contents
 
@@ -42,7 +42,7 @@ Coverage: **616** of **882** headings carry a gloss (70%).
 - [CHAPTERS NINE–TWELVE: PIPELINE APPLICATION VIGNETTES](#chapters-ninetwelve-pipeline-application-vignettes) — `core_09-12_application_vignettes.md` (9/35 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_a.md` (21/24 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_b.md` (41/42 glossed)
-- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_c.md` (52/53 glossed)
+- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_c.md` (54/55 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_d.md` (18/19 glossed)
 - [CHAPTER THIRTEEN: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP](#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) — `core_13_governance.md` (13/15 glossed)
 - [CHAPTER FOURTEEN: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY](#chapter-fourteen-non-regression-and-substantive-amendment-validity) — `core_14_non_regression.md` (5/5 glossed)
@@ -4512,7 +4512,7 @@ governance must actively look for — and push back against — capture, collusi
 
 ## CHAPTER SIX: FOUNDATIONAL RIGHTS
 
-Source file: [`core_06_rights_part_c.md`](../../core_06_rights_part_c.md) · 52/53 headings glossed
+Source file: [`core_06_rights_part_c.md`](../../core_06_rights_part_c.md) · 54/55 headings glossed
 
 #### Part C: Trustworthy systems, security and force limits, information integrity, verification, lifecycle, and resilience
 
@@ -4696,9 +4696,21 @@ once a sandbox system starts mattering in the real world, it must graduate to re
 
 ##### Article XVII-D: Innovation Reward, Disclosure, and Anti-Enclosure
 
-innovators can be rewarded, but exclusivity must be narrow, time-limited, and reviewable. Public-health, safety, and core infrastructure must stay accessible — and once something becomes critical infrastructure, any remaining exclusivity must be reassessed.
+inventors and creators can be rewarded, but any control they get must be narrow, temporary, and open to review, and it may never lock up what others need. This subsection sets the rules shared by every kind of work, and says how to tell a creative work (**Article XVII-E**) from a working invention (**Article XVII-F**). Game rules and mechanics belong to everyone and cannot be owned.
 
 [Source](../../core_06_rights_part_c.md#article-xvii-d-innovation-reward-disclosure-and-anti-enclosure)
+
+##### Article XVII-E: Creative and Expressive Works
+
+creators get a limited time of control over copying, sharing, and selling their work — at most 30 years after publication — and credit that never expires. The clock runs from when the work comes out, not from the creator's death, and drafts or delays cannot be used to stretch it.
+
+[Source](../../core_06_rights_part_c.md#article-xvii-e-creative-and-expressive-works)
+
+##### Article XVII-F: Inventions, Processes, and Functional Systems
+
+inventors must explain an invention well enough for others to rebuild it. In return they get at most 15 years of exclusive control, then at most 15 more years in which anyone may use the invention for a fee. The fee is worked out as fair wages for the time the invention saves or the good it does, so inventions that make everyone more productive earn more. The fee may take at most half of the gain, and a smaller share the more widely the invention is used, but never less than 1%. It does not depend on what the market will bear. Medicines, critical infrastructure, standards, and the systems many depend on get shorter terms or open access. No invention right may be used to block repair, safety work, research, or switching providers.
+
+[Source](../../core_06_rights_part_c.md#article-xvii-f-inventions-processes-and-functional-systems)
 
 #### Article XVIII: Standing and Participation Status
 

@@ -1216,7 +1216,7 @@ Steward pointer (process support; cannot narrow this Article): [`implementation/
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), and [§12 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#12-incentive-alignment-and-system-capture).
-- Read with: [Article XVI](#article-xvi-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*) when impact, dependency, or integration outgrows sandbox conditions; [Article VIII-D](core_06_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*) for creators' rights that sit alongside the reward rules in **Article XVII-D**; [Article XIX-C](#article-xix-c-anti-lock-in-rule) (*Anti-Lock-In Rule*) where exclusivity threatens lock-in; [Article XV](#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) for disclosure and verification of containment, transition, and reward claims.
+- Read with: [Article XVI](#article-xvi-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*) when impact, dependency, or integration outgrows sandbox conditions; [Article VIII-D](core_06_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*) for creators' rights that sit alongside the copyright-like rules in **Article XVII-E**; [Article XIX-C](#article-xix-c-anti-lock-in-rule) (*Anti-Lock-In Rule*) where exclusivity threatens lock-in; [Article XV](#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) for disclosure and verification of containment, transition, and reward claims.
 
 </details>
 
@@ -1226,7 +1226,7 @@ Steward pointer (process support; cannot narrow this Article): [`implementation/
 
 - **What this Article does:** It sets the minimum protections — the Rights Floor — for two linked freedoms: the freedom to try new things, and fair reward for what comes of them.
   - **Freedom to experiment (Articles XVII-A to XVII-C):** when lighter rules apply, what experimenters owe everyone else, and when a project must move up to the full rules.
-  - **Reward without enclosure (Article XVII-D):** how inventors and creators may be rewarded, including copyright-like terms, without cutting off access, repair, research, or later innovation.
+  - **Reward without enclosure (Articles XVII-D to XVII-F):** how inventors and creators may be rewarded without cutting off access, repair, research, or later innovation. **Article XVII-D** sets the shared rules, **Article XVII-E** covers creative and expressive works, and **Article XVII-F** covers inventions, processes, and other functional works.
 
   It serves both of the Constitution's [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
   - **Flourishing:** Sentients can innovate, experiment, and create with fewer structural requirements when their work has no real effect on the outside world, or when any effect is shown to be contained. This rests on genuine opt-in, honest disclosure, and rewards that leave others free to experiment, repair, make things work together, and check claims.
@@ -1334,7 +1334,7 @@ Steward pointer (process support; cannot narrow this Article): [`implementation/
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), and [§11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline).
-- Read with: [Article VIII-D](core_06_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*) for creators' attribution, training-data, and compensation rights that sit alongside the reward rules here; [Article XIX-C](#article-xix-c-anti-lock-in-rule) (*Anti-Lock-In Rule*) where exclusivity threatens lock-in.
+- Read with: [Article XVII-E](#article-xvii-e-creative-and-expressive-works) (*Creative and Expressive Works*) and [Article XVII-F](#article-xvii-f-inventions-processes-and-functional-systems) (*Inventions, Processes, and Functional Systems*), which set the rules for each kind of work.
 
 </details>
 
@@ -1349,9 +1349,9 @@ Steward pointer (process support; cannot narrow this Article): [`implementation/
 
 <br>
 
-*In plain terms: innovators can be rewarded, but exclusivity must be narrow, time-limited, and reviewable. Public-health, safety, and core infrastructure must stay accessible — and once something becomes critical infrastructure, any remaining exclusivity must be reassessed.*
+*In plain terms: inventors and creators can be rewarded, but any control they get must be narrow, temporary, and open to review, and it may never lock up what others need. This subsection sets the rules shared by every kind of work, and says how to tell a creative work (**Article XVII-E**) from a working invention (**Article XVII-F**). Game rules and mechanics belong to everyone and cannot be owned.*
 
-- **Innovation reward and anti-enclosure:** Sentients may be rewarded for materially novel, socially useful, and adequately disclosed innovation.
+- **Reward without enclosure:** Sentients may be rewarded for materially novel, socially useful, and adequately disclosed innovation.
   - Reward must be structured to sustain:
     - future innovation;
     - broad access;
@@ -1360,40 +1360,118 @@ Steward pointer (process support; cannot narrow this Article): [`implementation/
     - interoperability;
     - truthful scrutiny.
   - Reward must not be structured for durable enclosure.
-- **Temporary and reviewable exclusivity only:** Any exclusion right over materially useful invention, design, interface, process, or expressive system must implement the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) and must be:
+- **Temporary and reviewable exclusivity only:** Any exclusion right over a materially useful invention, design, interface, process, or expressive work must implement the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) and must be:
   - narrow;
   - time-bounded;
   - reviewable;
   - proportionate to actual contribution and justified development burden.
 
   The burden of justification remains on the claimant. Attribution and provenance may persist beyond an exclusivity term. Durable exclusion and artificial scarcity may not.
+- **One ordinary term:** Expressive and functional works share the same ordinary outer term: 30 years from the point the work is made public. **Article XVII-E** and **Article XVII-F** say when that clock starts, how the term may be used, and when it must be shorter.
+- **Expressive or functional:** A claim is judged by what it actually controls, not by what it is called.
+  - **Expressive work:** the claim covers how something is expressed — text, images, sound, music, story, characters, performance, or purely decorative appearance. **Article XVII-E** applies.
+  - **Functional work:** the claim covers how something works — a method, process, mechanism, formula, composition of matter, interface, file format, protocol, or system behavior. **Article XVII-F** applies.
+  - **Mixed works:** Many works are both. Each part of a claim is sorted on its own. For example:
+    - in software, the written code is expressive, and what the code does is functional;
+    - in games, art, story, music, and code are sorted as above, and rules and mechanics are not protectable at all (see below);
+    - in design, a purely decorative look is expressive, and a shape that affects how something works is functional;
+    - interfaces, file formats, protocols, and AI models are functional.
+  - **Expressive protection never reaches function:** A copyright-like claim may not be used to control how something operates, connects to other things, or is repaired, or to get around the limits in **Article XVII-F**. Where it would, that part of the claim is treated as functional.
+  - **Game rules and mechanics stay free:** The rules and mechanics of a game — how it is played, as distinct from the art, story, music, or code that presents it — may not be the subject of any exclusion right under this Article, as either an expressive or a functional work. Anyone may use them.
+
+#### Article XVII-E: Creative and Expressive Works
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), and [§11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline).
+- Read with: [Article VIII-D](core_06_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*) for creators' attribution, training-data, and compensation rights; [Article XVII-D](#article-xvii-d-innovation-reward-disclosure-and-anti-enclosure) (*Innovation Reward, Disclosure, and Anti-Enclosure*) for the shared reward rules and the expressive-or-functional test.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Innovation Reward and Anti-Enclosure](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
+- [Creative Work Attribution](core_05_band_continuity.md#creative-work-attribution-constitutional) · [O](core_05_band_continuity.md#creative-work-attribution-constitutional) · [M](core_05_band_continuity.md#creative-work-attribution-constitutional-a) · [A](core_05_band_continuity.md#creative-work-attribution-constitutional-a) · [C](core_05_band_continuity.md#creative-work-attribution-constitutional-c)
+- [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+*In plain terms: creators get a limited time of control over copying, sharing, and selling their work — at most 30 years after publication — and credit that never expires. The clock runs from when the work comes out, not from the creator's death, and drafts or delays cannot be used to stretch it.*
+
 - **Copyright-like protection:** For this Article, copyright-like protection means a temporary exclusionary reward over a fixed expressive work, including control over copying, distribution, public display or performance, adaptation, and commercial exploitation. Attribution, provenance, integrity, and anti-fraud protections may persist after exclusion expires.
 - **Publication and initial appearance:** Publication means the creator's or lawful right-holder's intentional release of a fixed expressive work to the public, commercial market, or a materially open audience. Private circulation, confidential review, limited collaboration, archival deposit without public access, or non-commercial draft sharing does not by itself constitute publication. Initial appearance means the first non-confidential public availability of a materially identifiable version of the work, including non-commercial draft availability.
-- **Publication-based terms for expressive works:** Copyright-like protection should default to publication-based timing rather than author-life timing.
+- **Publication-based terms:** Copyright-like protection should default to publication-based timing rather than author-life timing.
   - A published work should presumptively receive no more than `publication+30` years of exclusion.
   - A non-commercial draft or unpublished expressive work that has made an initial appearance may receive copyright-like exclusion for no more than `initial appearance+50` years.
   - If a work with an initial appearance is later published, the exclusion term is capped by the earlier of `initial appearance+50` or `publication+30`.
   - No draft, unpublished-work, or delayed-publication rule may be used to create indefinite exclusion, suppress archiving, defeat lawful quotation or criticism, or extend control over works that function as shared cultural, educational, safety, standards, or informational infrastructure.
-  - Shorter terms, earlier compulsory-access conversion, or immediate public-access treatment apply where the work is:
-    - publicly funded;
-    - dependency-critical;
-    - standards-like;
-    - educationally foundational;
-    - safety-relevant;
-    - primarily used as shared cultural or informational infrastructure.
+- **Shorter terms and public access:** Shorter terms, earlier compulsory-access conversion, or immediate public-access treatment apply where the work is:
+  - publicly funded;
+  - dependency-critical;
+  - standards-like;
+  - educationally foundational;
+  - safety-relevant;
+  - primarily used as shared cultural or informational infrastructure.
+
+#### Article XVII-F: Inventions, Processes, and Functional Systems
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline), and [§12 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#12-incentive-alignment-and-system-capture).
+- Read with: [Article XVII-D](#article-xvii-d-innovation-reward-disclosure-and-anti-enclosure) (*Innovation Reward, Disclosure, and Anti-Enclosure*) for the shared reward rules and the expressive-or-functional test; [Article XIX-C](#article-xix-c-anti-lock-in-rule) (*Anti-Lock-In Rule*) where exclusivity threatens lock-in; [Article XVI](#article-xvi-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*) where an invention becomes part of a deployed system.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Innovation Reward and Anti-Enclosure](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
+- [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
+- [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+
+</details>
+
+<br>
+
+*In plain terms: inventors must explain an invention well enough for others to rebuild it. In return they get at most 15 years of exclusive control, then at most 15 more years in which anyone may use the invention for a fee. The fee is worked out as fair wages for the time the invention saves or the good it does, so inventions that make everyone more productive earn more. The fee may take at most half of the gain, and a smaller share the more widely the invention is used, but never less than 1%. It does not depend on what the market will bear. Medicines, critical infrastructure, standards, and the systems many depend on get shorter terms or open access. No invention right may be used to block repair, safety work, research, or switching providers.*
+
+- **Disclosure first:** Reward requires public disclosure sufficient for independent understanding, audit, and later reproduction, subject only to justified temporary limits under **Chapter One** and **Article XVI-A** (*Lifecycle Governance and Environment Separation*).
+  - Public disclosure means the first non-confidential release of that description to the public.
+  - An invention kept secret earns no exclusion right under this Article.
+- **Two-phase term:** Exclusion over a functional work runs in two phases, both counted from public disclosure.
+  - **Exclusive phase:** For no more than `disclosure+15` years, the right-holder may refuse permission to others.
+  - **Open-licensing phase:** From the end of the exclusive phase until no later than `disclosure+30` years, anyone may use the invention without the right-holder's permission, on payment of a LEQU-based fee. The right-holder may not refuse, delay, or attach conditions beyond the fee.
+  - **After the term:** The invention is free for all to use. Attribution and provenance may persist.
+- **LEQU-based fee:** The open-licensing fee must be set in proportion to the verified constitutional benefit the invention contributes, measured in [Lifespan Equivalent Units (LEQU)](core_05_band_participation.md#lifespan-equivalent-unit-lequ) on the Contribution Axis under [Chapter Nine §7](core_09_standing_assessment.md#7-unified-proportional-lequ-scale) (*unified proportional LEQU scale*).
+  - **Fair wages for time:** Verified benefit is converted into a fee by valuing it as sentient time at a fair wage.
+    - For gains in productivity, that time is the working time the invention saves, or the productive time it adds, for those who use it.
+    - For other benefits, that time is the lifetime-equivalent time given by the LEQU measure.
+    - That time is valued at a wage that meets [Fair Compensation](core_05_band_continuity.md#fair-compensation-constitutional).
+
+    The more an invention verifiably raises productivity or wellbeing, the larger the reward.
+  - **Share of the gain:** The fee may take only a share of the verified gain, so that users keep a real part of the benefit.
+    - The share may never exceed half of the verified gain.
+    - The share must fall as the number of sentients who benefit from the invention grows. Breadth is counted by the sentients who actually benefit, not by the number of licensees.
+    - The share must not fall so fast that the invention's total reward shrinks as its use widens.
+    - Where a fee is charged, the share may not fall below 1% of the verified gain. This floor does not require a fee where this Article or an adoption instrument calls for prizes, pooled access, public buyout, or open access instead.
+  - The fee must not be based on market power, scarcity, switching costs, or what a user could be pressured to pay.
+  - The fee schedule, including the time estimate and wage rate used, must be published, the same for all users in comparable circumstances, and open to challenge.
+  - A fee may not be set so as to price out the always-open uses below.
+  - These are outer limits. Every claim must still be proportionate, and may be shorter under the rules below.
+- **Always-open uses:** In both phases, reward claims are non-compliant where they are used — beyond what is strictly necessary and reviewable — to suppress:
+  - repair;
+  - safety work;
+  - interoperability;
+  - archiving;
+  - research;
+  - education;
+  - migration.
 - **Classification-scaled innovation treatment:** Innovation reward must scale with system class, dependency, and coordination effects under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**.
-  - For **Class A**, **Class B**, and **Class C** systems, access-preserving reward mechanisms are strongly preferred. Exclusion must remain especially narrow, rapidly reviewable, and easy to override where continuity, interoperability, repair, or public-interest implementation is materially implicated.
-  - Lower-dependency innovation outside those classes may use somewhat broader temporary exclusion where disclosure is real, switching costs are low, and anti-lock-in safeguards remain effective.
-- **Disclosure condition and public-interest floor:** Reward claims require disclosure sufficient for independent understanding, audit, and later reproduction, subject only to justified temporary limits under **Chapter One** and **Article XVI-A** (*Lifecycle Governance and Environment Separation*).
-  - Reward claims are non-compliant where they are used — beyond what is strictly necessary and reviewable — to suppress:
-    - repair;
-    - safety work;
-    - interoperability;
-    - archiving;
-    - research;
-    - education;
-    - migration.
-  - Survival-critical, foundational, or standards-setting domains may require prize, pooled, compulsory-access, or public-buyout mechanisms instead of exclusion.
+  - For **Class A**, **Class B**, and **Class C** systems, access-preserving reward mechanisms are strongly preferred. Exclusion must remain especially narrow, rapidly reviewable, and easy to override where continuity, interoperability, repair, or public-interest implementation is materially implicated. This may include shortening either phase, or starting in the open-licensing phase.
+  - Lower-dependency innovation outside those classes may use the full two-phase term where disclosure is real, switching costs are low, and anti-lock-in safeguards remain effective.
 - **Domain carve-outs and stronger defaults:** Strong exclusionary reward is presumed disfavored — and may be categorically unavailable where adoption instruments so provide — for:
   - medicines and public-health essentials;
   - survival-critical infrastructure;
@@ -1401,7 +1479,7 @@ Steward pointer (process support; cannot narrow this Article): [`implementation/
   - foundational scientific knowledge;
   - constitutional safety, audit, or compliance mechanisms.
 
-  In those domains, institutions should prefer direct reward, pooled access, compulsory licensing, public buyout, or equivalent mechanisms that preserve implementation, repair, and broad diffusion.
+  In those domains, and in other survival-critical, foundational, or standards-setting domains, institutions should prefer prizes, direct reward, pooled access, compulsory licensing, public buyout, or equivalent mechanisms that preserve implementation, repair, and broad diffusion.
 - **Reclassification and tightening:** Where an innovation initially treated as lower-dependency later becomes a dependency-critical coordination layer — for example, a platform, protocol, model, marketplace, or payment rail — institutions must reassess it under the applicable **CS-3 — System classification and handling** class.
   - Reassessment may narrow, convert, or terminate remaining exclusion where continued exclusivity would create:
     - coercive lock-in;
