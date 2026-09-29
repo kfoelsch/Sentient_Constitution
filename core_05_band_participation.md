@@ -349,7 +349,7 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
     - [Safety (Constraint)](core_05_band_continuity.md#safety-constraint);
     - equal participation; or
     - [Meaningful Agency](core_05_band_participation.md#meaningful-agency).
-    This entry preserves [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency), [Consent](core_05_band_participation.md#consent-constitutional), and **Article X-A** cooperative norms.
+    This entry preserves [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency), [Consent](core_05_band_participation.md#consent-constitutional), and **Article X-A** (*Non-Imposition and Consent in Association*) cooperative norms.
   - **Out of scope:** ordinary avoidable advertising, ordinary disagreement, or voluntary persuasion that does not coerce or trap attention.
 <a id="non-imposition-cooperative-interaction-a"></a>
 - **How to measure and assess**
@@ -875,7 +875,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
-- **Joint invocation:** where substantive or procedural fairness, protected characteristics, proxying or disparate impact, or intimate-signal / **Article X-C** status gating is material.
+- **Joint invocation:** where substantive or procedural fairness, protected characteristics, proxying or disparate impact, or intimate-signal / **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) status gating is material.
 - **Scope:** where joint invocation is met, the Participation home for equality and fairness disciplines. Read with [Chapter One §2.1 Fairness](core_01_a_values_principles.md#21-fairness).
 - **Owner floor:** implements [Article V-B](core_06_rights_part_b.md#article-v-b-nondiscrimination) (*Nondiscrimination*).
 
@@ -889,7 +889,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 - [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) — meaningful process for rights-affecting decisions.
 - [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) — traits that must not serve as bases for invidious disadvantage.
 - [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) — facially neutral rules that replicate prohibited discrimination.
-- [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention) — restricts intimate-signal and **Article X-C** status uses for gating, and blocks circumvention of the decriminalization floor.
+- [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention) — restricts intimate-signal and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) status uses for gating, and blocks circumvention of the decriminalization floor.
 
 *Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below.
 
@@ -1077,7 +1077,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     - platform rules; or
     - comparable rules.
 
-    When **Article X-C**-protected conduct is implicated, read with [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention).
+    When **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*)-protected conduct is implicated, read with [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention).
   - **Tertiary measure:** [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — where any of the following substitutes for protected-trait analysis:
     - neutral-form rules;
     - model features; or
@@ -1219,7 +1219,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 <br>
 
-*In plain terms: intimate media, sexual history, and similar intimate inferences are not default inputs for hiring, standing, reputation, or access gates — and adult consensual commercial sexual services status under Article X-C cannot be used to shut sentients out of jobs, housing, banking, or licenses, including through "neutral" rules that mainly target that work.*
+*In plain terms: intimate media, sexual history, and similar intimate inferences are not default inputs for hiring, standing, reputation, or access gates — and adult consensual commercial sexual services status under **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) cannot be used to shut sentients out of jobs, housing, banking, or licenses, including through "neutral" rules that mainly target that work.*
 
 - **What it is**
   - **In scope:**
@@ -1237,7 +1237,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
   - **Out of scope:**
     - narrow documented safeguarding uses that meet necessity and proportionality;
     - ordinary trait discrimination that does not use intimate signals;
-    - exploitation or trafficking cases outside the Article X-C adult-consensual floor; or
+    - exploitation or trafficking cases outside the **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) adult-consensual floor; or
     - disadvantage on other protected grounds.
 <a id="protected-intimate-signal-gating-a"></a>
 <a id="protected-commercial-sexual-services-status-and-article-x-c-circumvention-a"></a>
@@ -1252,7 +1252,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
       - standing;
       - reputation; or
       - similar access; or
-    - "neutral" rules that mainly burden **Article X-C**-protected conduct.
+    - "neutral" rules that mainly burden **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*)-protected conduct.
 
     **Primary assessment:** Treat workflows that scrape, index, infer from, or score intimate media or sexual-history signals — including for employment, standing, reputation systems, or comparable gating — as high-salience discrimination and informational-risk uses. Narrow justification under [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) is required. Such workflows must remain consistent with:
     - **Article VII-A** (*Self-Ownership of Body and Mind*);
@@ -1314,7 +1314,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
   - [Derived Sentient](core_05_band_participation.md#derived-sentient-constitutional) — who was created by derivation;
   - [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional) — consent and best-interest rules for synthetic, hybrid, or operator-controlled creation of a new sentient; and
   - [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional) — what the creator may and may not do.
-- [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) — who is developing, how decisions about them must be made, and how participation scales (Article V-F).
+- [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) — who is developing, how decisions about them must be made, and how participation scales (**Article V-F** (*Developing Sentients, Best-Interest, and Graduated Capability*)).
 
 *Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below.
 
@@ -2126,7 +2126,7 @@ It keeps welfare rules, species or category labels, subclass rules, and status d
   - revoked; or
   - restored.
 
-[Substrate Class](core_05_band_participation.md#substrate-class) and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) are cluster-level constraints. [Animal Life](core_05_band_participation.md#animal-life-constitutional), [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional), [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), and [Sentient](core_05_band_participation.md#sentient) are housed in the [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) nested sub-block (protection tiers: Animal Life ⊂ Elevated Communicative Life where Elevated's who-test is met; Contested-Sentient Life always includes Animal Life and adds Article V-E default inclusion, and includes Elevated only where Elevated's who-test or more-protective overlap applies; Sentient includes Contested; adjudication process beside the ladder).
+[Substrate Class](core_05_band_participation.md#substrate-class) and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) are cluster-level constraints. [Animal Life](core_05_band_participation.md#animal-life-constitutional), [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional), [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), and [Sentient](core_05_band_participation.md#sentient) are housed in the [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) nested sub-block (protection tiers: Animal Life ⊂ Elevated Communicative Life where Elevated's who-test is met; Contested-Sentient Life always includes Animal Life and adds **Article V-E** (*Sentience-Status Adjudication Floor*) default inclusion, and includes Elevated only where Elevated's who-test or more-protective overlap applies; Sentient includes Contested; adjudication process beside the ladder).
 
 **Anti-bypass.** A sentience-status matter within the admission scope must not be segmented into separate:
 - indicator;
@@ -2266,7 +2266,7 @@ See **Joint invocation and satisfaction**.
 
 This nested sub-block is the joint home for **Animal Life**, **Elevated Communicative Life**, **Contested-Sentient Life**, **Sentience Status Adjudication**, **Sentience-Status Adjudication Record**, and **Sentient** life-by-status treatment definitions within [Def.P1 *Animal Life, Sentient Life, and Sentience Status*](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster) — not a separate Def.P cluster.
 
-**Protection tiers.** Life-by-status protections stack as follows. [Animal Life](core_05_band_participation.md#animal-life-constitutional) is the Tier 1 base. [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) (Tier 2) includes Animal Life where Elevated's who-test is met. [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) (Tier 3) always includes Animal Life and adds threshold-rights / Article V-E default Chapter Six inclusion under material uncertainty, dispute, or adjudication; it includes Elevated only where Elevated's who-test is met or where more-protective overlap already applies under [Chapter One §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test). [Sentient](core_05_band_participation.md#sentient) (Tier 4) includes Contested-Sentient Life (and thus Animal Life, and Elevated where that tier applied), plus affirmed who-counts and Chapter Six Rights-Floor attachment. [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) is the status process beside the ladder — determine, revise, narrow, or restore — not itself a protection tier.
+**Protection tiers.** Life-by-status protections stack as follows. [Animal Life](core_05_band_participation.md#animal-life-constitutional) is the Tier 1 base. [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) (Tier 2) includes Animal Life where Elevated's who-test is met. [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) (Tier 3) always includes Animal Life and adds threshold-rights / **Article V-E** (*Sentience-Status Adjudication Floor*) default Chapter Six inclusion under material uncertainty, dispute, or adjudication; it includes Elevated only where Elevated's who-test is met or where more-protective overlap already applies under [Chapter One §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test). [Sentient](core_05_band_participation.md#sentient) (Tier 4) includes Contested-Sentient Life (and thus Animal Life, and Elevated where that tier applied), plus affirmed who-counts and Chapter Six Rights-Floor attachment. [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) is the status process beside the ladder — determine, revise, narrow, or restore — not itself a protection tier.
 
 **Sub-block members** (read in order for routing):
 
@@ -2673,7 +2673,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - uses the filing-integrity opening gate to withhold, narrow, or delay protection after a status case is lawfully open, or requires certainty of sentience before opening;
     - declines filings at intake without logging the indicator cited and the reason, or leaves the decline log outside [Forum Family, Integrity](core_05_band_accountability.md#forum-family-integrity) sampling under [Chapter Twelve §5](core_12_forum.md#5-escalation-and-certification);
     - proceeds to merits on a request to withhold, narrow, or revoke without an independent representative for the entity, or on indicator evidence sourced solely from the parent system, operator, or another party with an ownership or dependency interest;
-    - treats contested or affirmed status as a shield for the operator's deployment against compatible system-level containment, or credits the operator's Contribution Axis for the entity's status — the inclusion-direction taxonomy-of-convenience failure under [Article V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor);
+    - treats contested or affirmed status as a shield for the operator's deployment against compatible system-level containment, or credits the operator's Contribution Axis for the entity's status — the inclusion-direction taxonomy-of-convenience failure under [Article V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*);
     - narrows status without a declared end-date and mandatory periodic review; or
     - refuses to reopen or review when new verified evidence appears.
 
@@ -3073,7 +3073,7 @@ See **Joint invocation and satisfaction**.
       - adult-to-adult expression among sentients with capacity must not be erased under a developing-audience pretext; and
       - survivor testimony, journalism, and comparable reportage must not be silenced under an overbroad trauma or harm label.
   - **Lane read-with when implicated:**
-    - **sexual or intimate:** [Consent, Sexual](core_05_band_participation.md#consent-sexual), **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*), and [Protected Intimate-Signal Gating and **Article X-C** Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention);
+    - **sexual or intimate:** [Consent, Sexual](core_05_band_participation.md#consent-sexual), **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*), and [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention);
     - **violent:** [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Cruelty](core_05_band_accountability.md#cruelty), and [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying);
     - **severe psychological-harm risk:** [Psychological Harm](core_05_band_accountability.md#psychological-harm) and [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster).
   - **In scope — joint read-with when implicated:** Where any of the following is materially implicated, also read [*Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)](core_05_apex_participation_leg.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)*:

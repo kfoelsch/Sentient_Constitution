@@ -16,7 +16,7 @@
 
 - Upstream: **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*); **Article XXII** (*Root Cause Analysis and Adaptive Response*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
 - Downstream: [§1](#cs-8-1-purpose-and-role); [§2](#cs-8-2-system-health-and-degradation-awareness); [§3](#cs-8-3-adaptive-allocation-requirement); [§9](#cs-8-9-self-healing-and-recovery-path-integration).
-- Read with: **CS-8**; **CS-9**; **CS-5**; **CS-6**; **Article XII-F**.
+- Read with: **CS-8**; **CS-9**; **CS-5**; **CS-6**; **Article XII-F** (*Resilience and Self-Healing Baseline*).
 
 </details>
 
@@ -196,7 +196,7 @@ Adaptive allocation remains subject to **Article XV-A** (*Auditability and Obser
 
 This subsection ties this file's adaptive-allocation and root-cause architecture to **Sentient Constitution Chapter Six, **Article XII-F** (*Resilience and Self-Healing Baseline*)** (*Resilience and Self-Healing Baseline*), **Chapter One §4.1** (*Resilience and Self-Healing Design*), and **Chapter Five** [*Self-Healing*](../core_05_band_continuity.md#self-healing-constitutional). It is a CS-8-specific application of **CS-5 §9** (*Self-healing and recovery-path integrity*), not a second self-healing profile.
 
-Adaptive allocation, cause-aligned mitigation, and ecosystem risk response under **§§2** through **7** must satisfy **Article XII-F** recovery floors and the **CS-5 §9** test, verify, and deploy profile for detection, containment, safe-failure preference, non-masking, Rights-Floor continuity, autonomy scaling, and root-cause closure. CS-8 adds only the ecosystem-specific cross-checks below.
+Adaptive allocation, cause-aligned mitigation, and ecosystem risk response under **§§2** through **7** must satisfy **Article XII-F** (*Resilience and Self-Healing Baseline*) recovery floors and the **CS-5 §9** test, verify, and deploy profile for detection, containment, safe-failure preference, non-masking, Rights-Floor continuity, autonomy scaling, and root-cause closure. CS-8 adds only the ecosystem-specific cross-checks below.
 
 - Root-cause analysis under **§3.1** (*Root cause analysis*) must not let adaptive reallocation suppress, overwrite, obscure, or repeatedly silence the fault signals that triggered it. Recurrence across cycles remains a single open root-cause obligation under **§3.1** (*Root cause analysis*) and **Article XXII-A** (*Diagnostic Rigor and Causal Attribution*).
 - Where adaptive response narrows capacity that implements Chapter Six guarantees (for example, contestability capacity, audit fidelity, or participation access), narrowing must be explicit, time-bounded, and escalated under **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) transition-governance when degraded modes persist beyond pre-declared thresholds.

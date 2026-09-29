@@ -359,15 +359,15 @@
           "title": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
           "anchor": "34-plain-language-accessibility-stewardship-duty",
           "line": 515,
-          "gloss": "rules, decisions, and notices that bind sentients must be written so sentients can actually read, understand, and act on them — and jargon, stacked complexity, or procedural opacity may not be used to defeat contestability, agency, or audit.",
-          "gloss_line": 542
+          "gloss": "rules, decisions, and notices that bind sentients must be written so sentients can actually read, understand, and act on them — and jargon, stacked complexity, or procedural opacity may not be used to defeat contestability, agency, audit, or correction.",
+          "gloss_line": 543
         },
         {
           "file": "core_01_a_values_principles.md",
           "level": 5,
           "title": "3.4.1 Scope",
           "anchor": "341-scope",
-          "line": 547,
+          "line": 548,
           "gloss": null,
           "gloss_line": null
         },
@@ -376,7 +376,7 @@
           "level": 5,
           "title": "3.4.2 The Duty",
           "anchor": "342-the-duty",
-          "line": 560,
+          "line": 561,
           "gloss": null,
           "gloss_line": null
         },
@@ -385,16 +385,16 @@
           "level": 5,
           "title": "3.4.3 Definitional Rigor Preserved",
           "anchor": "343-definitional-rigor-preserved",
-          "line": 570,
+          "line": 571,
           "gloss": null,
           "gloss_line": null
         },
         {
           "file": "core_01_a_values_principles.md",
           "level": 5,
-          "title": "3.4.4 Jargon-as-Defeat Discipline",
+          "title": "3.4.4 Complexity-as-Defeat Discipline",
           "anchor": "344-jargon-as-defeat-discipline",
-          "line": 580,
+          "line": 581,
           "gloss": null,
           "gloss_line": null
         },
@@ -403,7 +403,7 @@
           "level": 5,
           "title": "3.4.5 Rights-Floor Boundary",
           "anchor": "345-chapter-eleven-floor-boundary",
-          "line": 587,
+          "line": 590,
           "gloss": null,
           "gloss_line": null
         },
@@ -412,72 +412,72 @@
           "level": 3,
           "title": "4. System Stability Enabler: Trust (Coordination Integrity)",
           "anchor": "4-system-stability-enabler-trust-coordination-integrity",
-          "line": 591,
+          "line": 594,
           "gloss": "shared systems ask sentients to depend on them — for safety, information, access, and coordination. Trust under this Constitution means that dependence must be earned by how systems actually behave, not manufactured through spin, secrecy, or hidden risk transfer.",
-          "gloss_line": 620
+          "gloss_line": 623
         },
         {
           "file": "core_01_a_values_principles.md",
           "level": 4,
           "title": "4.1 Resilience and Self-Healing Design",
           "anchor": "41-resilience-and-self-healing-design",
-          "line": 636,
+          "line": 639,
           "gloss": "systems should detect trouble early, contain it, fail along disclosed paths, and recover honestly. \"Self-healing\" that hides failure, skips root-cause work, or quietly narrows rights is not resilience — it is a defect.",
-          "gloss_line": 662
+          "gloss_line": 665
         },
         {
           "file": "core_01_a_values_principles.md",
           "level": 4,
           "title": "4.2 Correction and Remedy",
           "anchor": "42-correction-and-remedy",
-          "line": 676,
+          "line": 679,
           "gloss": "when a system does wrong, it fixes it. A system is not trustworthy because it never fails; it is trustworthy because failures are acknowledged, corrected, and repaired — in time, by capacity that actually exists.",
-          "gloss_line": 698
+          "gloss_line": 701
         },
         {
           "file": "core_01_a_values_principles.md",
           "level": 3,
           "title": "5. Freedom (Bounded Agency)",
           "anchor": "5-freedom-bounded-agency",
-          "line": 715,
+          "line": 718,
           "gloss": "freedom is meaningful agency within constitutional limits — advancing **Flourishing** through real choice and **Continuity** through systems that stay contestable — not a license to do anything. \"We had no choice\" is not a free pass. The party making that claim must prove that no less-restrictive option would actually work; convenience, cost, or habit are not proof. Sentients still get a real voice, and someone still has to answer — more so as impact, dependence, and risk rise.",
-          "gloss_line": 756
+          "gloss_line": 759
         },
         {
           "file": "core_01_a_values_principles.md",
           "level": 4,
           "title": "5.1 Limitation Discipline",
           "anchor": "51-limitation-discipline",
-          "line": 770,
+          "line": 773,
           "gloss": "freedom is bounded, not disposable. Do not restrict someone's freedom unless you have to — and then only enough to stop material harm or serious systemic risk, with oversight and reversal where possible.",
-          "gloss_line": 793
+          "gloss_line": 796
         },
         {
           "file": "core_01_a_values_principles.md",
           "level": 4,
           "title": "5.2 Voluntary Discontinuation and Exit Rights",
           "anchor": "52-voluntary-discontinuation-and-exit-rights",
-          "line": 803,
+          "line": 806,
           "gloss": "life-changing or hard-to-reverse choices are not \"voluntary\" just because someone signed a form. Real agency comes first; consent is agreement under that agency — and both fail if coercion or dependency pressure is doing the real decision-making.",
-          "gloss_line": 821
+          "gloss_line": 824
         },
         {
           "file": "core_01_a_values_principles.md",
           "level": 4,
           "title": "5.3 Assembly, Collective Organization, and Institutional Formation",
           "anchor": "53-assembly-collective-organization-and-institutional-formation",
-          "line": 847,
-          "gloss": "you cannot chop assembly, union-style organizing, platform access, or permission-to-operate questions into separate boxes in a way that keeps the paperwork friendly but defeats real collective action. This section does not replace the Rights Floor: Article V-H still owns assembly, and Article III-D still owns labor organizing.",
-          "gloss_line": 865
+          "line": 850,
+          "gloss": "you cannot chop assembly, union-style organizing, platform access, or permission-to-operate questions into separate boxes in a way that keeps the paperwork friendly but defeats real collective action. This section does not replace the Rights Floor: **Article V-H** (*Expression, Assembly, and Press*) still owns assembly, and **Article III-D** (*Labor and Economic Floor*) still owns labor organizing.",
+          "gloss_line": 868
         },
         {
           "file": "core_01_a_values_principles.md",
           "level": 5,
           "title": "5.3.1 Aligned Self-Organization",
           "anchor": "531-aligned-self-organization",
-          "line": 890,
+          "line": 893,
           "gloss": "you may start legitimate work without a sponsor, and institutions must give credible work a real procedural path — but that path is not power to govern others, and it is not a final decision on the substance.",
-          "gloss_line": 893
+          "gloss_line": 896
         }
       ]
     },
@@ -1131,7 +1131,7 @@
           "title": "15. Systemic Evaluation Requirement",
           "anchor": "15-systemic-evaluation-requirement",
           "line": 1938,
-          "gloss": "this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Eight** and **CS-3**, not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XV**, [Auditability](core_05_band_oversight.md#auditability)).",
+          "gloss": "this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Eight** and **CS-3**, not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XV** (*Audit, Transparency, and Independent Verification*), [Auditability](core_05_band_oversight.md#auditability)).",
           "gloss_line": 1969
         },
         {
@@ -2658,7 +2658,7 @@
           "title": "System Alignment Certification",
           "anchor": "system-alignment-certification-constitutional",
           "line": 166,
-          "gloss": "**system alignment certification** (non-operative shorthand: **SAC**) is the forum-supervised check that a system is actually aligned with constitutional outcomes before sentients rely on it at scale — including checks that critical Rights Floors such as food, water, and shelter are not quietly defeated by how the system is built, classified, or operated. Under the **oversight** Tetrad leg, oversight requires auditing; SAC is one especially large, high-stakes audit process among others — forum-supervised, multi-domain, and recognition-bearing — not the sole home of auditing (**Article XV**, [Auditability](core_05_band_oversight.md#auditability), and sibling audit modes remain).",
+          "gloss": "**system alignment certification** (non-operative shorthand: **SAC**) is the forum-supervised check that a system is actually aligned with constitutional outcomes before sentients rely on it at scale — including checks that critical Rights Floors such as food, water, and shelter are not quietly defeated by how the system is built, classified, or operated. Under the **oversight** Tetrad leg, oversight requires auditing; SAC is one especially large, high-stakes audit process among others — forum-supervised, multi-domain, and recognition-bearing — not the sole home of auditing (**Article XV** (*Audit, Transparency, and Independent Verification*), [Auditability](core_05_band_oversight.md#auditability), and sibling audit modes remain).",
           "gloss_line": 181
         },
         {
@@ -4077,7 +4077,7 @@
           "title": "Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention",
           "anchor": "protected-intimate-signal-gating",
           "line": 1209,
-          "gloss": "intimate media, sexual history, and similar intimate inferences are not default inputs for hiring, standing, reputation, or access gates — and adult consensual commercial sexual services status under Article X-C cannot be used to shut sentients out of jobs, housing, banking, or licenses, including through \"neutral\" rules that mainly target that work.",
+          "gloss": "intimate media, sexual history, and similar intimate inferences are not default inputs for hiring, standing, reputation, or access gates — and adult consensual commercial sexual services status under **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) cannot be used to shut sentients out of jobs, housing, banking, or licenses, including through \"neutral\" rules that mainly target that work.",
           "gloss_line": 1222
         },
         {
@@ -4569,7 +4569,7 @@
           "title": "1. Purpose and Role",
           "anchor": "1-purpose-and-role",
           "line": 36,
-          "gloss": "When a system really matters to sentients' lives, certification has to be **proportionate** — as demanding as the system's real impact, dependency, and risk require, not a one-size-fits-all checklist or a rubber stamp. It also has to be **participatory** — affected sentients and communities must be able to see what was reviewed, understand what was decided, and challenge it when something is wrong. Forums review evidence, write it down in a certification record, and require re-checks on a schedule that matches how risky the system is. A certification is not a popularity score, a forever pass, or a way to skip rights review. It is a time-bound, challengeable statement of what is known about the system's alignment right now. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XV**, [Auditability](core_05_band_oversight.md#auditability)).",
+          "gloss": "When a system really matters to sentients' lives, certification has to be **proportionate** — as demanding as the system's real impact, dependency, and risk require, not a one-size-fits-all checklist or a rubber stamp. It also has to be **participatory** — affected sentients and communities must be able to see what was reviewed, understand what was decided, and challenge it when something is wrong. Forums review evidence, write it down in a certification record, and require re-checks on a schedule that matches how risky the system is. A certification is not a popularity score, a forever pass, or a way to skip rights review. It is a time-bound, challengeable statement of what is known about the system's alignment right now. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XV** (*Audit, Transparency, and Independent Verification*), [Auditability](core_05_band_oversight.md#auditability)).",
           "gloss_line": 49
         },
         {
@@ -4865,7 +4865,7 @@
           "title": "12. Transparency, Auditability, and Contestability",
           "anchor": "12-transparency-auditability-and-contestability",
           "line": 151,
-          "gloss": "a certification record only works if sentients can read it, verify it, and push back when it is wrong. This section puts those three requirements — transparency, auditability, and contestability — directly on the record itself, not as abstract ideals. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large audit process that must satisfy those floors here — it does not own or replace **Article XV** or sibling audit modes.",
+          "gloss": "a certification record only works if sentients can read it, verify it, and push back when it is wrong. This section puts those three requirements — transparency, auditability, and contestability — directly on the record itself, not as abstract ideals. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large audit process that must satisfy those floors here — it does not own or replace **Article XV** (*Audit, Transparency, and Independent Verification*) or sibling audit modes.",
           "gloss_line": 173
         },
         {
@@ -7043,8 +7043,8 @@
           "title": "Article XI-E: Non-Capture Safeguards",
           "anchor": "article-xi-e-non-capture-safeguards",
           "line": 1652,
-          "gloss": "governance must actively look for — and push back against — capture, collusion, and hidden concentration of influence.",
-          "gloss_line": 1673
+          "gloss": "every body that makes decisions for others — forums, governance boards, and the institutions that appoint them — must be built so no single group can quietly take it over. Members disclose conflicts and step aside when compromised; nobody rigs vacancies or rotations; outsiders check the body regularly; and members can be removed for real cause but never as punishment for disagreeing.",
+          "gloss_line": 1674
         }
       ]
     },
@@ -7186,7 +7186,7 @@
           "title": "Article XIV: Info-Sphere Integrity",
           "anchor": "article-xiv-info-sphere-integrity",
           "line": 688,
-          "gloss": "**Article XIV** (*Info-Sphere Integrity*) is the information-integrity Rights Floor — the shared environment where we learn, coordinate, and decide must stay honest, plural, and open to challenge. No one gets to own the pipeline of truth. Rankings, summaries, and gatekeepers have to show their work, and you must be able to compare other views and push back when information misleads you. Science, as the main way we check what is true together, must stay open to publication, replication, and correction (**Article XIV-D**).",
+          "gloss": "**Article XIV** (*Info-Sphere Integrity*) is the information-integrity Rights Floor — the shared environment where we learn, coordinate, and decide must stay honest, plural, and open to challenge. No one gets to own the pipeline of truth. Rankings, summaries, and gatekeepers have to show their work, and you must be able to compare other views and push back when information misleads you. Science, as the main way we check what is true together, must stay open to publication, replication, and correction (**Article XIV-D** (*Scientific Publication, Review, and Replication Integrity*)).",
           "gloss_line": 709
         },
         {
@@ -7339,7 +7339,7 @@
           "title": "Article XVII-D: Innovation Reward, Disclosure, and Anti-Enclosure",
           "anchor": "article-xvii-d-innovation-reward-disclosure-and-anti-enclosure",
           "line": 1332,
-          "gloss": "inventors and creators can be rewarded, but any control they get must be narrow, temporary, and open to review, and it may never lock up what others need. This subsection sets the rules shared by every kind of work, and says how to tell a creative work (**Article XVII-E**) from a working invention (**Article XVII-F**). Game rules and mechanics belong to everyone and cannot be owned.",
+          "gloss": "inventors and creators can be rewarded, but any control they get must be narrow, temporary, and open to review, and it may never lock up what others need. This subsection sets the rules shared by every kind of work, and says how to tell a creative work (**Article XVII-E** (*Creative and Expressive Works*)) from a working invention (**Article XVII-F** (*Inventions, Processes, and Functional Systems*)). Game rules and mechanics belong to everyone and cannot be owned.",
           "gloss_line": 1352
         },
         {
@@ -7366,7 +7366,7 @@
           "title": "Article XVIII: Standing and Participation Status",
           "anchor": "article-xviii-standing-reputation-and-participation-status",
           "line": 1492,
-          "gloss": "**Article XVIII** decides who qualifies for which roles and privileges, how those calls are made and challenged, and what happens when standing is lowered or suspended. Standing is eligibility based on verified records of contribution and violation, kept separate, and on fair rules — not popularity, brand, or a social score — and it never replaces dignity, Rights-Floor minimums, or your say as someone a system affects. Ordinary participation stays open; a trust-sensitive role opens when you meet its published standard; and any role or privilege closes only through a **standing lock** after a verified violation finding. If standing is lowered, you get clear reasons, a real way to push back, and limits that fit the risk — and standing can never cut off survival essentials or paths to remedy. Standing reflects what can be checked today, not old reputation, and it never controls movement, refuge, or exit, which **Article XIX** (*Interoperability, Portability, and Exit Integrity*) and **Article XX** (*Movement, Migration, Refuge, and Non-Statelessness*) govern.",
+          "gloss": "**Article XVIII** (*Standing and Participation Status*) decides who qualifies for which roles and privileges, how those calls are made and challenged, and what happens when standing is lowered or suspended. Standing is eligibility based on verified records of contribution and violation, kept separate, and on fair rules — not popularity, brand, or a social score — and it never replaces dignity, Rights-Floor minimums, or your say as someone a system affects. Ordinary participation stays open; a trust-sensitive role opens when you meet its published standard; and any role or privilege closes only through a **standing lock** after a verified violation finding. If standing is lowered, you get clear reasons, a real way to push back, and limits that fit the risk — and standing can never cut off survival essentials or paths to remedy. Standing reflects what can be checked today, not old reputation, and it never controls movement, refuge, or exit, which **Article XIX** (*Interoperability, Portability, and Exit Integrity*) and **Article XX** (*Movement, Migration, Refuge, and Non-Statelessness*) govern.",
           "gloss_line": 1516
         },
         {
@@ -7402,7 +7402,7 @@
           "title": "Article XVIII-D: Violations and Standing Locks",
           "anchor": "article-xviii-d-violations-and-standing-locks",
           "line": 1708,
-          "gloss": "this is how named pathways close. Only a **verified violation finding** — never an accusation — can support a **standing lock**, and the lock must name what it blocks, whom it protects, what must be fixed, where to appeal, and when it will be reviewed. It must fit what was actually verified, can't be cancelled out by good work, and must leave a real way back once the harm is repaired. Locks that touch the vote, and three special locks for serious cases, carry extra rules in **Article XVIII-E**.",
+          "gloss": "this is how named pathways close. Only a **verified violation finding** — never an accusation — can support a **standing lock**, and the lock must name what it blocks, whom it protects, what must be fixed, where to appeal, and when it will be reviewed. It must fit what was actually verified, can't be cancelled out by good work, and must leave a real way back once the harm is repaired. Locks that touch the vote, and three special locks for serious cases, carry extra rules in **Article XVIII-E** (*Voting and Special Locks*).",
           "gloss_line": 1732
         },
         {
@@ -7411,7 +7411,7 @@
           "title": "Article XVIII-E: Voting and Special Locks",
           "anchor": "article-xviii-e-voting-and-special-locks",
           "line": 1752,
-          "gloss": "some locks carry extra rules on top of [Article XVIII-D](#article-xviii-d-violations-and-standing-locks). A lock on the foundational governance vote doesn't touch your weighted stakeholder voice inside a particular system, and the reverse. Taking away someone's governance vote needs a finding about them specifically, a narrow fit to what they did, and a real way back; only a **final** **Chapter Eleven** finding of anti-constitutional misconduct withholds that vote, and only until **full restitution**. Three special locks cover judges who failed to step aside, rigging stakeholder votes, and attacks on the constitution itself.",
+          "gloss": "some locks carry extra rules on top of [Article XVIII-D](#article-xviii-d-violations-and-standing-locks) (*Violations and Standing Locks*). A lock on the foundational governance vote doesn't touch your weighted stakeholder voice inside a particular system, and the reverse. Taking away someone's governance vote needs a finding about them specifically, a narrow fit to what they did, and a real way back; only a **final** **Chapter Eleven** finding of anti-constitutional misconduct withholds that vote, and only until **full restitution**. Three special locks cover judges who failed to step aside, rigging stakeholder votes, and attacks on the constitution itself.",
           "gloss_line": 1774
         },
         {
@@ -7511,97 +7511,97 @@
           "anchor": "article-xxi-comprehensibility-and-complexity-stewardship",
           "line": 2208,
           "gloss": "**Article XXI** (*Comprehensibility and Complexity Stewardship*) is the understandability Rights Floor — when a system materially affects your life, you are entitled to actually grasp how it works, what its limits are, and what happens when it fails. Complexity cannot be used as a wall against participation, audit, or accountability. Stewards also may not pile on needless complexity that wastes everyone's time without a real constitutional benefit.",
-          "gloss_line": 2235
+          "gloss_line": 2236
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXI-A: Proportional Comprehensibility Right",
           "anchor": "article-xxi-a-proportional-comprehensibility-right",
-          "line": 2260,
+          "line": 2281,
           "gloss": "if a system materially affects **sentients**, operators, stakeholders, and oversight must actually be able to understand how it works and fails — not just specialists.",
-          "gloss_line": 2288
+          "gloss_line": 2309
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXI-B: Complexity Audit and Modularity Requirements",
           "anchor": "article-xxi-b-complexity-audit-and-modularity-requirements",
-          "line": 2297,
+          "line": 2318,
           "gloss": "complexity cannot be used — technically, organizationally, contractually, or procedurally — as a wall against audit, contest, or correction.",
-          "gloss_line": 2316
+          "gloss_line": 2337
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
           "title": "Article XXII: Root Cause Analysis and Adaptive Response",
           "anchor": "article-xxii-root-cause-analysis-and-adaptive-response",
-          "line": 2332,
+          "line": 2353,
           "gloss": "**Article XXII** (*Root Cause Analysis and Adaptive Response*) is the find-the-real-problem-and-fix-it-right floor. When something breaks, degrades, or keeps failing, you are entitled to more than a press release or a band-aid. Systems must figure out what actually caused the harm — including causes that show up late or build up over time — address those causes where they can, and leave a record others can check and challenge. Quick containment is allowed; permanent fixes without honest diagnosis are not.",
-          "gloss_line": 2355
+          "gloss_line": 2376
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXII-A: Diagnostic Rigor and Causal Attribution",
           "anchor": "article-xxii-a-diagnostic-rigor-and-causal-attribution",
-          "line": 2378,
+          "line": 2409,
           "gloss": "root-cause findings must be written down, open to challenge, and open to correction — not sealed behind authority.",
-          "gloss_line": 2397
+          "gloss_line": 2428
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXII-B: Auditability, Challenge, and Reversibility Preference",
           "anchor": "article-xxii-b-auditability-challenge-and-reversibility-preference",
-          "line": 2408,
+          "line": 2439,
           "gloss": "when you are not sure, pick the fix you can walk back. Uncertainty cannot be used as a reason to freeze protection or to pretend permanent measures are certain.",
-          "gloss_line": 2427
+          "gloss_line": 2458
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
           "title": "Article XXIII: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
           "anchor": "article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards",
-          "line": 2439,
+          "line": 2470,
           "gloss": "**Article XXIII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) is the who-gets-to-say-what-the-constitution-means floor. When constitutional questions arise, the answer must come from designated Constitutional forums — not from whoever is loudest, most powerful, or most convenient for the institution. Their rulings have to be written down with real reasons, open to independent challenge, and protected against capture by any single bloc. They cannot expand their own power, shut down review, or use \"restructuring\" to punish dissent.",
-          "gloss_line": 2463
+          "gloss_line": 2494
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XXIII-A: Bounded Interpretive Mandate",
-          "anchor": "article-xxiii-a-bounded-interpretive-mandate",
-          "line": 2485,
-          "gloss": "Constitutional forums rule on constitutional questions, not on everything. They cannot quietly expand their own turf or shut down challenge pathways.",
-          "gloss_line": 2505
-        },
-        {
-          "file": "core_06_rights_part_c.md",
-          "level": 4,
-          "title": "Article XXIII-B: Composition, Rotation, and Conflict Controls",
-          "anchor": "article-xxiii-b-composition-rotation-and-conflict-controls",
-          "line": 2519,
-          "gloss": "no single bloc may control **Constitutional forums** — the bodies that decide what the Constitution means. The sentients who sit on those panels, and the authorities that appoint them, must disclose conflicts in real time. Vacancy, rotation, and recusal rules must not be used to rig outcomes. If a panelist stays on a case while materially compromised, that can count as serious misconduct — and the dispute goes to **Integrity** forums first, not back to the same **Constitutional** panel to judge itself.",
+          "title": "Article XXIII-A: Bounded Interpretive Mandate and Public Reasons",
+          "anchor": "article-xxiii-a-bounded-interpretive-mandate-and-public-reasons",
+          "line": 2517,
+          "gloss": "Constitutional forums rule on constitutional questions, not on everything. They cannot quietly expand their own turf or shut down challenge pathways. Every binding ruling must be published in time to challenge, with real reasons and the evidence behind them.",
           "gloss_line": 2539
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XXIII-C: Public Reasons, Challenge Rights, and External Review",
-          "anchor": "article-xxiii-c-public-reasons-challenge-rights-and-external-review",
-          "line": 2552,
-          "gloss": "interpretive decisions must be published with real reasons and are open to structurally independent review — not re-reviewed by the same body that made them. On a regular schedule, **Integrity** forums also conduct mandatory outside checkups on **Constitutional** forums for capture, decision quality, and Rights-Floor integrity.",
-          "gloss_line": 2571
+          "title": "Article XXIII-B: Challenge Rights and Independent Review",
+          "anchor": "article-xxiii-b-challenge-rights-and-independent-review",
+          "line": 2565,
+          "gloss": "if a ruling affects you, you can ask a different body to look at it again — not the panel that made it. That reviewer can fix, pause, or undo the ruling if the record shows a serious mistake, capture, or a Rights-Floor breach.",
+          "gloss_line": 2585
+        },
+        {
+          "file": "core_06_rights_part_c.md",
+          "level": 4,
+          "title": "Article XXIII-C: Constitutional Forum Independence and External Review",
+          "anchor": "article-xxiii-c-constitutional-forum-independence-and-external-review",
+          "line": 2592,
+          "gloss": "the general rules against capture in [**Article XI-E**](core_06_rights_part_b.md#article-xi-e-non-capture-safeguards) apply to every decision-making body. **Constitutional forums** — the bodies that decide what the Constitution means — are held to them at their strictest. Their outside checkups are mandatory and are not scaled down.",
+          "gloss_line": 2613
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXIII-D: Removal for Cause and Non-Entrenchment",
           "anchor": "article-xxiii-d-removal-for-cause-and-non-entrenchment",
-          "line": 2593,
-          "gloss": "**Constitutional forum** panelists can be removed for real cause through due process — but **appointing authorities** and **adopting institutions** must not use \"removal,\" \"restructuring,\" or \"redesign\" as weapons against forum independence or dissent.",
-          "gloss_line": 2612
+          "line": 2623,
+          "gloss": "**Constitutional forum** panelists can be removed for real cause through due process, exactly as under [**Article XI-E**](core_06_rights_part_b.md#article-xi-e-non-capture-safeguards). For the bodies that interpret the Constitution, the ban on using \"removal,\" \"restructuring,\" or \"redesign\" as a weapon against independence or dissent is applied with special force.",
+          "gloss_line": 2643
         }
       ]
     },

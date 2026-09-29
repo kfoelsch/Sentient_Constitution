@@ -2592,7 +2592,7 @@ See **Joint invocation and satisfaction**.
     - Chapter Five pointer; canonical mechanics: [Chapter Nine](core_09_standing_assessment.md) [**section 7**](core_09_standing_assessment.md#7-unified-proportional-lequ-scale), read with [**sections 1–2**](core_09_standing_assessment.md#1-the-three-questions) and **§3.1**; [Chapter Ten](core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) for contribution-linked effects.
   - **Out of scope:**
     - **Adverse violation findings** or non-compliance under [**violation nature**](core_05_band_accountability.md#violation-nature-chapter-six) on **Axis II**.
-    - [Participant Standing](core_05_band_accountability.md#participant-standing-constitutional) (**Article XVIII** participation status and role eligibility).
+    - [Participant Standing](core_05_band_accountability.md#participant-standing-constitutional) (**Article XVIII** (*Standing and Participation Status*) participation status and role eligibility).
     - Violation Axis scores, averages, nets, or offsets against Axis I.
     - reputation, popularity, formal-channel pedigree, unverified self-reports, provisional labels, or bare allegation.
     - standing-effect / integration mechanics under Chapter Nine **§§11.1–6.2** and Chapter Ten.
@@ -3417,7 +3417,7 @@ See **Joint invocation and satisfaction**.
     - [Article XIII-B](core_06_rights_part_c.md#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits) (*Use of Force, Armed Conflict, and Military-Power Limits*) force rules;
     - [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) environmental-preconditions rules; and
     - [Article I-D](core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) scrutiny.
-  - **Secondary failure:** Claiming that **Article I-D** does not apply based only on weapon taxonomy when the foreseeable harm scale reaches its thresholds.
+  - **Secondary failure:** Claiming that **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) does not apply based only on weapon taxonomy when the foreseeable harm scale reaches its thresholds.
 
 ---
 
@@ -3537,7 +3537,7 @@ See **Joint invocation and satisfaction**.
     - "rehabilitation infeasibility" or "less-restrictive measures cannot achieve safety" framings used to carry the prohibited measure past the categorical prohibition in **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*);
     - use of a nominally reversible durable-containment regime under **Article XXIV-C** (*Least-Restrictive and Time-Bounded Rule*) as a predicate for the prohibited measure; and
     - re-labelling of an involuntarily-imposed outcome as "voluntary" to route around this entry into **Article VII-E** (*Voluntary Discontinuation of One's Own Existence*):
-      - a sentient's own freely-formed decision remains governed by **Article VII-E** and [Voluntary Discontinuation](core_05_band_continuity.md#voluntary-discontinuation-constitutional); and
+      - a sentient's own freely-formed decision remains governed by **Article VII-E** (*Voluntary Discontinuation of One's Own Existence*) and [Voluntary Discontinuation](core_05_band_continuity.md#voluntary-discontinuation-constitutional); and
       - any conversion of that decision into a non-voluntary outcome by state, operator, or comparable actor returns the question to this entry.
 
     Distinguish this entry from:
@@ -3614,7 +3614,7 @@ See **Joint invocation and satisfaction**.
 <a id="autonomous-coercion-tool-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** Deploying or using an Autonomous Coercion Tool when:
-    - it fails **Article XIII-C**'s heightened-scrutiny floor (*Autonomous Lethal Systems and Autonomous Coercion Tools*); or
+    - it fails **Article XIII-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*)'s heightened-scrutiny floor (*Autonomous Lethal Systems and Autonomous Coercion Tools*); or
     - a rubber-stamp "human-in-the-loop" is treated as sufficient judgment.
   - **Secondary failure:** Defending coercion by saying it is:
     - "non-lethal";

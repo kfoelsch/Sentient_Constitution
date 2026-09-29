@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-29T15:26:46+00:00",
+  "generated_at": "2026-09-29T21:11:06+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 15018,
+  "edge_count": 15041,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -1368,6 +1368,14 @@
     },
     {
       "source_file": "core_01_a_values_principles.md",
+      "source_header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
+      "source_anchor": "#34-plain-language-accessibility-stewardship-duty",
+      "target_file": "core_10_standing_integration.md",
+      "target_anchor": "#94-anti-evasion-and-look-through-authority",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
       "source_header": "3.4.1 Scope",
       "source_anchor": "#341-scope",
       "target_file": "core_05_band_participation.md",
@@ -1416,7 +1424,7 @@
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "3.4.4 Jargon-as-Defeat Discipline",
+      "source_header": "3.4.4 Complexity-as-Defeat Discipline",
       "source_anchor": "#344-jargon-as-defeat-discipline",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability",
@@ -1424,7 +1432,7 @@
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "3.4.4 Jargon-as-Defeat Discipline",
+      "source_header": "3.4.4 Complexity-as-Defeat Discipline",
       "source_anchor": "#344-jargon-as-defeat-discipline",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#truth-constitutional-constraint",
@@ -1432,7 +1440,7 @@
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "3.4.4 Jargon-as-Defeat Discipline",
+      "source_header": "3.4.4 Complexity-as-Defeat Discipline",
       "source_anchor": "#344-jargon-as-defeat-discipline",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#meaningful-agency",
@@ -1440,7 +1448,7 @@
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "3.4.4 Jargon-as-Defeat Discipline",
+      "source_header": "3.4.4 Complexity-as-Defeat Discipline",
       "source_anchor": "#344-jargon-as-defeat-discipline",
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": "#chapter-six-foundational-rights",
@@ -1448,7 +1456,7 @@
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "3.4.4 Jargon-as-Defeat Discipline",
+      "source_header": "3.4.4 Complexity-as-Defeat Discipline",
       "source_anchor": "#344-jargon-as-defeat-discipline",
       "target_file": "core_06_rights_part_c.md",
       "target_anchor": "#article-xv-audit-transparency-and-independent-verification",
@@ -58370,6 +58378,14 @@
       "source_file": "core_06_rights_part_b.md",
       "source_header": "Article XI-E: Non-Capture Safeguards",
       "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#material-stake",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XI-E: Non-Capture Safeguards",
+      "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#32-truth-epistemic-integrity-constraint",
       "count": 1
@@ -58482,8 +58498,48 @@
       "source_file": "core_06_rights_part_b.md",
       "source_header": "Article XI-E: Non-Capture Safeguards",
       "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XI-E: Non-Capture Safeguards",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XI-E: Non-Capture Safeguards",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XI-E: Non-Capture Safeguards",
+      "source_anchor": null,
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XI-E: Non-Capture Safeguards",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xxiii-c-constitutional-forum-independence-and-external-review",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XI-E: Non-Capture Safeguards",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xxiii-d-removal-for-cause-and-non-entrenchment",
       "count": 1
     },
     {
@@ -58498,8 +58554,56 @@
       "source_file": "core_06_rights_part_b.md",
       "source_header": "Article XI-E: Non-Capture Safeguards",
       "source_anchor": null,
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxvi-a-non-entrenchment-and-revisability",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XI-E: Non-Capture Safeguards",
+      "source_anchor": null,
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#3-whole-system-certification-evaluation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XI-E: Non-Capture Safeguards",
+      "source_anchor": null,
+      "target_file": "core_11_b_misconduct_pattern_applications.md",
+      "target_anchor": "#510-forum-recusal-failure-and-biased-panel-participation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XI-E: Non-Capture Safeguards",
+      "source_anchor": null,
+      "target_file": "core_12_forum.md",
+      "target_anchor": "#2-default-venue-and-primary-stakes",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XI-E: Non-Capture Safeguards",
+      "source_anchor": null,
+      "target_file": "core_12_forum.md",
+      "target_anchor": "#3-transfer-consolidation-and-coordination",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XI-E: Non-Capture Safeguards",
+      "source_anchor": null,
+      "target_file": "corpus_forum.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XI-E: Non-Capture Safeguards",
+      "source_anchor": null,
+      "target_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "target_anchor": null,
       "count": 1
     },
     {
@@ -60096,142 +60200,6 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiii-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#615-rights-collision-decision-test",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiii-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#11-governance-under-stewardship-discipline",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiii-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#16-integrated-application",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiii-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#forum-family-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiii-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#forum-family-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiii-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#forum-family-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiii-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#system-capture",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiii-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#system-capture-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiii-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#system-capture-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiii-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#procedural-fairness-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiii-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#procedural-fairness-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiii-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#procedural-fairness-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiii-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#55-special-locks",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiii-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_11_b_misconduct_pattern_applications.md",
-      "target_anchor": "#510-forum-recusal-failure-and-biased-panel-participation",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiii-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_12_forum.md",
-      "target_anchor": "#2-default-venue-and-primary-stakes",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiii-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_12_forum.md",
-      "target_anchor": "#3-transfer-consolidation-and-coordination",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiii-b-composition-rotation-and-conflict-controls",
-      "target_file": "corpus_institutions.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XXIII: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
       "source_anchor": "#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards",
       "target_file": "core_00_preamble.md",
@@ -60434,6 +60402,14 @@
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XXIII: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
       "source_anchor": "#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-xi-e-non-capture-safeguards",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
+      "source_anchor": "#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards",
       "target_file": "core_06_rights_part_d.md",
       "target_anchor": "#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality",
       "count": 1
@@ -60573,6 +60549,14 @@
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#31-safety-harm-constraint",
       "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXI-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": "#operative-steward-statement-comprehensibility",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#344-jargon-as-defeat-discipline",
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
@@ -66452,7 +66436,7 @@
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#34-plain-language-accessibility-stewardship-duty",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
@@ -66460,7 +66444,7 @@
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#63-minimization-of-avoidable-burden",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
@@ -66468,7 +66452,7 @@
       "source_anchor": null,
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#91-distributed-understanding",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
@@ -66508,7 +66492,7 @@
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#avoidable-burden",
-      "count": 5
+      "count": 4
     },
     {
       "source_file": "core_06_rights_part_c.md",
@@ -66516,7 +66500,7 @@
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#productive-capacity-constitutional",
-      "count": 5
+      "count": 4
     },
     {
       "source_file": "core_06_rights_part_c.md",
@@ -66524,7 +66508,7 @@
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#constitutional-efficiency",
-      "count": 5
+      "count": 4
     },
     {
       "source_file": "core_06_rights_part_c.md",
@@ -66912,7 +66896,7 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-A: Bounded Interpretive Mandate",
+      "source_header": "Article XXIII-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
       "target_file": "core_00_preamble.md",
       "target_anchor": "#constitutional-tetrad",
@@ -66920,111 +66904,7 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-A: Bounded Interpretive Mandate",
-      "source_anchor": null,
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#615-rights-collision-decision-test",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-A: Bounded Interpretive Mandate",
-      "source_anchor": null,
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#7-prohibition-on-absolute-override",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-A: Bounded Interpretive Mandate",
-      "source_anchor": null,
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#16-integrated-application",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-A: Bounded Interpretive Mandate",
-      "source_anchor": null,
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#11-governance-under-stewardship-discipline",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-A: Bounded Interpretive Mandate",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#forum-family-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-A: Bounded Interpretive Mandate",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#forum-family-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-A: Bounded Interpretive Mandate",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#forum-family-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-A: Bounded Interpretive Mandate",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#contestability",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-A: Bounded Interpretive Mandate",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#contestability-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-A: Bounded Interpretive Mandate",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#contestability-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-A: Bounded Interpretive Mandate",
-      "source_anchor": null,
-      "target_file": "core_05_band_integrative.md",
-      "target_anchor": "#authority-stack",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-A: Bounded Interpretive Mandate",
-      "source_anchor": null,
-      "target_file": "core_05_band_integrative.md",
-      "target_anchor": "#authority-stack-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-A: Bounded Interpretive Mandate",
-      "source_anchor": null,
-      "target_file": "core_05_band_integrative.md",
-      "target_anchor": "#authority-stack-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-C: Public Reasons, Challenge Rights, and External Review",
+      "source_header": "Article XXIII-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#32-truth-epistemic-integrity-constraint",
@@ -67032,7 +66912,7 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-C: Public Reasons, Challenge Rights, and External Review",
+      "source_header": "Article XXIII-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#615-rights-collision-decision-test",
@@ -67040,7 +66920,15 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-C: Public Reasons, Challenge Rights, and External Review",
+      "source_header": "Article XXIII-A: Bounded Interpretive Mandate and Public Reasons",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#7-prohibition-on-absolute-override",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#16-integrated-application",
@@ -67048,39 +66936,39 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-C: Public Reasons, Challenge Rights, and External Review",
+      "source_header": "Article XXIII-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
-      "target_file": "core_05_apex_accountability_leg.md",
-      "target_anchor": "#accountability",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#11-governance-under-stewardship-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-A: Bounded Interpretive Mandate and Public Reasons",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#forum-family-constitutional",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-C: Public Reasons, Challenge Rights, and External Review",
+      "source_header": "Article XXIII-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
-      "target_file": "core_05_apex_accountability_leg.md",
-      "target_anchor": "#accountability-m",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#forum-family-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-A: Bounded Interpretive Mandate and Public Reasons",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#forum-family-constitutional-c",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-C: Public Reasons, Challenge Rights, and External Review",
-      "source_anchor": null,
-      "target_file": "core_05_apex_accountability_leg.md",
-      "target_anchor": "#accountability-a",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-C: Public Reasons, Challenge Rights, and External Review",
-      "source_anchor": null,
-      "target_file": "core_05_apex_accountability_leg.md",
-      "target_anchor": "#accountability-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-C: Public Reasons, Challenge Rights, and External Review",
+      "source_header": "Article XXIII-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability",
@@ -67088,7 +66976,7 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-C: Public Reasons, Challenge Rights, and External Review",
+      "source_header": "Article XXIII-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability-a",
@@ -67096,7 +66984,7 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-C: Public Reasons, Challenge Rights, and External Review",
+      "source_header": "Article XXIII-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability-c",
@@ -67104,7 +66992,31 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-C: Public Reasons, Challenge Rights, and External Review",
+      "source_header": "Article XXIII-A: Bounded Interpretive Mandate and Public Reasons",
+      "source_anchor": null,
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#authority-stack",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-A: Bounded Interpretive Mandate and Public Reasons",
+      "source_anchor": null,
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#authority-stack-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-A: Bounded Interpretive Mandate and Public Reasons",
+      "source_anchor": null,
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#authority-stack-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability",
@@ -67112,7 +67024,7 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-C: Public Reasons, Challenge Rights, and External Review",
+      "source_header": "Article XXIII-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability-a",
@@ -67120,7 +67032,7 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-C: Public Reasons, Challenge Rights, and External Review",
+      "source_header": "Article XXIII-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability-c",
@@ -67128,18 +67040,274 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-C: Public Reasons, Challenge Rights, and External Review",
+      "source_header": "Article XXIII-B: Challenge Rights and Independent Review",
       "source_anchor": null,
-      "target_file": "core_12_forum.md",
-      "target_anchor": "#2-default-venue-and-primary-stakes",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#32-truth-epistemic-integrity-constraint",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XXIII-C: Public Reasons, Challenge Rights, and External Review",
+      "source_header": "Article XXIII-B: Challenge Rights and Independent Review",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#615-rights-collision-decision-test",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-B: Challenge Rights and Independent Review",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#16-integrated-application",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-B: Challenge Rights and Independent Review",
+      "source_anchor": null,
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-B: Challenge Rights and Independent Review",
+      "source_anchor": null,
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability-m",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-B: Challenge Rights and Independent Review",
+      "source_anchor": null,
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability-a",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-B: Challenge Rights and Independent Review",
+      "source_anchor": null,
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-B: Challenge Rights and Independent Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-B: Challenge Rights and Independent Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-B: Challenge Rights and Independent Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-B: Challenge Rights and Independent Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-B: Challenge Rights and Independent Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-B: Challenge Rights and Independent Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#615-rights-collision-decision-test",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#11-governance-under-stewardship-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#16-integrated-application",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#forum-family-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#forum-family-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#forum-family-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-capture",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-capture-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-capture-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-xi-e-non-capture-safeguards",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_10_standing_integration.md",
+      "target_anchor": "#55-special-locks",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_11_b_misconduct_pattern_applications.md",
+      "target_anchor": "#510-forum-recusal-failure-and-biased-panel-participation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_12_forum.md",
+      "target_anchor": "#2-default-venue-and-primary-stakes",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-C: Constitutional Forum Independence and External Review",
       "source_anchor": null,
       "target_file": "core_12_forum.md",
       "target_anchor": "#3-transfer-consolidation-and-coordination",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "corpus_institutions.md",
+      "target_anchor": null,
       "count": 1
     },
     {
@@ -67245,6 +67413,14 @@
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#procedural-fairness-constitutional-c",
       "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XXIII-D: Removal for Cause and Non-Entrenchment",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-xi-e-non-capture-safeguards",
+      "count": 3
     },
     {
       "source_file": "core_06_rights_part_c.md",
@@ -77202,8 +77378,16 @@
       "source_file": "core_11_b_misconduct_pattern_applications.md",
       "source_header": "5.10 Forum recusal failure and biased panel participation",
       "source_anchor": "#510-forum-recusal-failure-and-biased-panel-participation",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-xi-e-non-capture-safeguards",
+      "count": 1
+    },
+    {
+      "source_file": "core_11_b_misconduct_pattern_applications.md",
+      "source_header": "5.10 Forum recusal failure and biased panel participation",
+      "source_anchor": "#510-forum-recusal-failure-and-biased-panel-participation",
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xxiii-b-composition-rotation-and-conflict-controls",
+      "target_anchor": "#article-xxiii-c-constitutional-forum-independence-and-external-review",
       "count": 1
     },
     {

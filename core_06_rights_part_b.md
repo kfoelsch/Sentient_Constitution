@@ -1654,7 +1654,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [§11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline).
-- Read with: [System Capture](core_05_band_continuity.md#system-capture); [Anti-Capture](core_05_band_continuity.md#anti-capture).
+- Read with: [System Capture](core_05_band_continuity.md#system-capture); [Anti-Capture](core_05_band_continuity.md#anti-capture); [Chapter Twelve §2](core_12_forum.md#2-default-venue-and-primary-stakes) and [§3](core_12_forum.md#3-transfer-consolidation-and-coordination) (*integrity-first routing and anti-self-judging*); [Chapter Eleven §5.10](core_11_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*named misconduct pattern*); [Article XXIII-C](core_06_rights_part_c.md#article-xxiii-c-constitutional-forum-independence-and-external-review) (*heightened application to **Constitutional** forums*).
 
 </details>
 
@@ -1665,19 +1665,50 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 - [Anti-Capture](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
 - [Contestability](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [Auditability](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
 
 </details>
 
 <br>
 
-*In plain terms: governance must actively look for — and push back against — capture, collusion, and hidden concentration of influence.*
+*In plain terms: every body that makes decisions for others — forums, governance boards, and the institutions that appoint them — must be built so no single group can quietly take it over. Members disclose conflicts and step aside when compromised; nobody rigs vacancies or rotations; outsiders check the body regularly; and members can be removed for real cause but never as punishment for disagreeing.*
 
 - **Non-capture:** Governance processes must detect, disclose, and mitigate:
   - monopolization;
   - collusion;
   - structural capture.
-  
+
   Concentration of influence — including hidden or indirectly routed control — without auditability or challenge is non-compliant and implicates **Articles X**, **XIII**, and **XIV**.
+- **Scope:** The safeguards below apply to every body that exercises decision, adjudicative, or interpretive authority over others — every **forum** family under **Chapter Twelve**, stakeholder governance bodies under this Article, and the **appointing authorities** and **adopting institutions** that design, seat, rotate, and remove their members. Requirements scale with [material stake](core_00_preamble.md#material-stake) and dependency; the floors on disclosure, recusal, procedural gaming, and pretextual removal apply to every such body. **Constitutional forums** are held to these safeguards at their most stringent under [**Article XXIII-C**](core_06_rights_part_c.md#article-xxiii-c-constitutional-forum-independence-and-external-review) and [**Article XXIII-D**](core_06_rights_part_c.md#article-xxiii-d-removal-for-cause-and-non-entrenchment).
+- **Composition and conflict-control floor:** Covered bodies must be structured to preserve impartiality, prevent capture, and remain contestable. They, their **appointing authorities**, and **adopting institutions** must use transparent membership rules and conflict safeguards sufficient to prevent durable control by any single appointing authority, institution, or stakeholder bloc.
+- **Ongoing disclosure and recusal:** Members and panelists must disclose material affiliations, dependencies, and conflicts on an ongoing basis. **Recusal** must be available where impartiality is materially compromised.
+- **Enforcement and routing:**
+  - **Misconduct path:** A verified **failure to recuse** while **impartiality was materially compromised** may be alleged as **anti-constitutional misconduct** under **Chapter Eleven** when substantiated under **Chapters Two through Four** and the **Chapter Eleven** criteria set.
+  - **Integrity-first routing:** If the dispute is mainly about that recusal failure — or about a final serious misconduct finding that comes from it — it goes to **Integrity** forums first under **Chapter Twelve §2**, using the anti-self-judging rule in **Chapter Twelve §3**.
+  - **No self-judging:** No body may be the only final forum deciding whether its own member should have stepped aside.
+- **No procedural gaming:** Covered bodies and the bodies that govern vacancy, rotation, and recusal continuity must not use those levers to create:
+  - selective paralysis;
+  - covert control.
+- **Independent external review:** At defined intervals, independent external review of covered bodies is mandatory, with depth and frequency scaled to material stake and dependency. By default, **Integrity** forums conduct it under **[Chapter Twelve §2](core_12_forum.md#2-default-venue-and-primary-stakes)** and the **cross-forum anti-self-judging rule** in **[Chapter Twelve §3](core_12_forum.md#3-transfer-consolidation-and-coordination)**. The reviewer must be structurally separate from the body under review and must not include overlapping decision-makers from its recent panels. Where **Integrity** forum integrity itself is materially at issue, backup routing under **Chapter Twelve §3** applies without narrowing this obligation. The review must assess:
+  - capture indicators;
+  - decision quality;
+  - rights-floor integrity.
+- **Removal for cause:** Members and panelists are removable by their **appointing authorities** through transparent due-process procedures for:
+  - material breach;
+  - concealment;
+  - corruption;
+  - capture participation;
+  - persistent procedural unfairness.
+- **Periodic revalidation:** The institutional design of covered bodies — and **adopting institutions** that govern their composition, operation, and challenge pathways — must be periodically revalidated under [**Article XXVI-A**](core_06_rights_part_d.md#article-xxvi-a-non-entrenchment-and-revisability). **Adopting institutions** must revise that design where capture risk or challenge-rights failure is materially evidenced.
+- **Anti-pretext:** **Appointing authorities**, covered bodies, and **adopting institutions** must not use removal, restructuring, or redesign of a body or its panels as a pretext to:
+  - defeat independence;
+  - terminate pending review;
+  - retaliate for good-faith dissent;
+  - narrow challenge rights.
+- **Institutional routing:** Detailed appointment pathways, rotation controls, and conflict/recusal procedures are governed by:
+  - [**CI-4**](corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*);
+  - **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*);
+  - for forum panels, **CF-4** in [corpus_forum.md](corpus_forum.md).
 
 ---
 

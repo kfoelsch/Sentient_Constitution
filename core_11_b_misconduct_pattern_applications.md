@@ -951,7 +951,7 @@ It routes evaluation of the named pattern into the existing designation criteria
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Ten §5.5](core_10_standing_integration.md#55-special-locks) (*forum disclosure omission and recusal-process impact*); [Article XXIII-B](core_06_rights_part_c.md#article-xxiii-b-composition-rotation-and-conflict-controls) (*Constitutional forum recusal and enforcement routing*); [corpus_forum.md](corpus_forum.md) **CF-4** (*panel formation, disclosure, recusal, and lawful bench constitution*).
+- Upstream: [Chapter Ten §5.5](core_10_standing_integration.md#55-special-locks) (*forum disclosure omission and recusal-process impact*); [Article XXIII-C](core_06_rights_part_c.md#article-xxiii-c-constitutional-forum-independence-and-external-review) (*Constitutional forum recusal and enforcement routing*), applying the general floor in [Article XI-E](core_06_rights_part_b.md#article-xi-e-non-capture-safeguards) (*Non-Capture Safeguards*); [corpus_forum.md](corpus_forum.md) **CF-4** (*panel formation, disclosure, recusal, and lawful bench constitution*).
 - Forum routing: [Chapter Twelve §2](core_12_forum.md#2-default-venue-and-primary-stakes) (*Integrity default lead*); [Chapter Twelve §3](core_12_forum.md#3-transfer-consolidation-and-coordination) (*cross-forum anti-self-judging rule*).
 - Read with: [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional), [Contestability](core_05_band_accountability.md#contestability), [System Capture](core_05_band_continuity.md#system-capture), and [Forum Family, Constitutional](core_05_band_accountability.md#forum-family-constitutional).
 
@@ -987,7 +987,7 @@ It routes evaluation of the named pattern into the existing designation criteria
   - backup routing; or
   - practical contestability.
 
-The pattern is especially heightened where the panelist sits on a **Constitutional forum** under **Article XXIII-B** (*Composition, Rotation, and Conflict Controls*), because the conduct can distort any of the following — not merely an ordinary merits dispute:
+The pattern is especially heightened where the panelist sits on a **Constitutional forum** under **Article XXIII-C** (*Constitutional Forum Independence and External Review*), because the conduct can distort any of the following — not merely an ordinary merits dispute:
 - constitutional meaning;
 - validity review; or
 - class-wide structural remedy.
@@ -1007,7 +1007,7 @@ A **Constitutional** forum must not be the sole final merits forum for its own *
 This subsection does **not**:
 - add an additional designation criterion beyond the **section 2** set;
 - convert every recusal dispute into an Anti-Constitutional Misconduct Review matter; or
-- relocate panel-formation mechanics from **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*), **Chapter Twelve**, or **Article XXIII-B** (*Composition, Rotation, and Conflict Controls*).
+- relocate panel-formation mechanics from **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*), **Chapter Twelve**, or **Article XXIII-C** (*Constitutional Forum Independence and External Review*).
 
 It routes evaluation of the named pattern into the existing designation criteria, due-process safeguards, and **Integrity**-first routing of this chapter and **Chapter Twelve**.
 

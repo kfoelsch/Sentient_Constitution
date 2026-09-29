@@ -114,7 +114,7 @@ flowchart TB
 **Pillar 1 — Consequential stewardship ([§10 Consequential Stewardship](#10-consequential-stewardship)):**
 - Shared systems that materially affect sentients require sentient hands-on operation, maintenance, oversight, and improvement — [**Strategic Stewardship Obligation**](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional), [**Meaningful Agency**](core_05_band_participation.md#meaningful-agency)
 - Records and pathways others can verify and challenge — [**Auditability**](core_05_band_oversight.md#auditability), [**Contestability**](core_05_band_accountability.md#contestability)
-- Under the **oversight** Tetrad leg, oversight requires auditing; [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others — not the sole auditing home (**Article XV**)
+- Under the **oversight** Tetrad leg, oversight requires auditing; [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others — not the sole auditing home (**Article XV** (*Audit, Transparency, and Independent Verification*))
 
 <a id="9-pillar-2-stay-ahead-of-problems"></a>
 **Pillar 2 — Stay ahead of problems:**
@@ -150,7 +150,7 @@ flowchart TB
 
 - Upstream: [§10 Consequential Stewardship](#10-consequential-stewardship) (*Pillar 1*); [§9 Stewardship In Depth](#9-stewardship-in-depth) (parent, including *In plain terms* and Pillar 3 framing above); [3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint); [4. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg ([Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Educational Agency](core_05_band_participation.md#educational-agency)); **oversight** leg ([Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability)); [material stake](core_00_preamble.md#material-stake) scaling.
-- Steward door (non-operative): Binding next-step statement: [Operative steward statement (Article XXI-A)](core_06_rights_part_c.md#operative-steward-statement-comprehensibility). Support pointers cannot narrow it.
+- Steward door (non-operative): Binding next-step statement: [Operative steward statement (**Article XXI-A** (*Proportional Comprehensibility Right*))](core_06_rights_part_c.md#operative-steward-statement-comprehensibility). Support pointers cannot narrow it.
 - Downstream: [6.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints); rights surface especially [Article XV: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XXI: Comprehensibility and Complexity Stewardship](core_06_rights_part_c.md#article-xxi-comprehensibility-and-complexity-stewardship).
 
 </details>
@@ -409,7 +409,7 @@ Those are failed tests for both kinds of steward.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§10.1 Shared Stewardship Standard](#101-shared-stewardship-standard); [§10.2 Symmetric Costly Constraints](#102-symmetric-costly-constraints); [§10 Consequential Stewardship](#10-consequential-stewardship).
-- Read with: [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional); [Auditability](core_05_band_oversight.md#auditability); [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary); [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional); [§6.2.3 Privacy](core_01_b_interaction_interpretation.md#623-privacy-and-informational-self-determination); [Article VII-B](core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection).
+- Read with: [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional); [Auditability](core_05_band_oversight.md#auditability); [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary); [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional); [§6.2.3 Privacy](core_01_b_interaction_interpretation.md#623-privacy-and-informational-self-determination); [Article VII-B](core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection) (*Internal-State Boundary and Type-N Protection*).
 - Downstream: [CS-4 §11 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*default logging contract for mixed human/AI action — not a standing-record substitute*); [Chapter Ten §7.1](core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects); [Chapter Ten §7.2](core_10_standing_integration.md#72-plain-statement-of-effect-and-burden).
 
 </details>
@@ -573,7 +573,7 @@ The burden this duty places on a steward who carries consequential authority is 
 <summary><strong><span style="color: #2563eb;">Who's in charge here, and what's off-limits</span></strong></summary>
 
 <a id="operative-steward-statement-unlawful-instruction"></a>
-> **Who's in charge here, and what's off-limits.** **Owner:** Chapter One §10.5 Duty to Resist. Shared standard: Chapter One §10.1. Violation rule: Chapter Ten §5.4. Contest floor: Article XII-A. **Forbidden move:** Do not comply. Do not treat cover as a transfer of duty. Do not close contest pathways to be helpful. **Clock:** Run instruction received → refuse → document → escalate on the shared screen now. Preserve contest pathways.
+> **Who's in charge here, and what's off-limits.** **Owner:** Chapter One §10.5 Duty to Resist. Shared standard: Chapter One §10.1. Violation rule: Chapter Ten §5.4. Contest floor: **Article XII-A** (*Reliability and Trustworthiness Baseline*). **Forbidden move:** Do not comply. Do not treat cover as a transfer of duty. Do not close contest pathways to be helpful. **Clock:** Run instruction received → refuse → document → escalate on the shared screen now. Preserve contest pathways.
 
 </details>
 
@@ -1613,7 +1613,7 @@ Efficiency can drive broadly shared improvement, but only inside constitutional 
   - who depends on what; and
   - how ecosystems are funded.
 - **What this subsection adds:** concentration-threshold direction at the principles level only.
-- **What it does not do:** weaken, replace, or narrow Article IV.
+- **What it does not do:** weaken, replace, or narrow **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*).
 
 This provision states the concentration-threshold mechanism at principle layer. It does not create a new Rights-Floor and does not narrow any existing Chapter Six floor. The non-concentration discipline in [§14 Market Structure](#14-market-structure) remains controlling.
 
@@ -1966,7 +1966,7 @@ Operative ceiling-setting discipline — horizontal and vertical trigger design,
 
 <br>
 
-*In plain terms: this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Eight** and **CS-3**, not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XV**, [Auditability](core_05_band_oversight.md#auditability)).*
+*In plain terms: this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Eight** and **CS-3**, not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XV** (*Audit, Transparency, and Independent Verification*), [Auditability](core_05_band_oversight.md#auditability)).*
 
 Chapter One sets the direction. Claims of the following kinds must be tested against what the whole system actually does — not against slogans, and not against a snapshot of one part or moment:
 - classification;

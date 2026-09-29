@@ -171,7 +171,7 @@ Each type belongs to one **access-posture band**. Bands define shared default ac
 - **Non-accessible by default:** Maximum restriction. No access, inference, reconstruction, or exposure without consent or justified override under **CJS-3.12** (*burden-of-justification and constraint terms*).
 - **Public by creator release:** Openness exists only by the creator's choice and only for viewing. The creator's withdrawal or deletion request is **not** a restriction subject to [§5.3](#53-tiered-transparency-and-audit-access), and systems must carry it out under [Part B §8.9](cs_02_b_data_classifications.md#89-type-w-works-published).
 
-**Open formats for public data.** Data in the **open / accessible by default** and **public by creator release** bands must be published in open formats by default under **[Article XIX-D](../core_06_rights_part_c.md#article-xix-d-open-formats-and-standards)** (*Open Formats and Standards*).
+**Open formats for public data.** Data in the **open / accessible by default** and **public by creator release** bands must be published in open formats by default under **[Article XIX-D](../core_06_rights_part_c.md#article-xix-d-open-formats-and-standards) (*Open Formats and Standards*)** (*Open Formats and Standards*).
 
 **Shared anti-abuse limits.** Across all types, systems must **not**:
 - use data handling to enable **coercion, surveillance, or manipulation** (**Article VII-A** (*Self-Ownership of Body and Mind*)), including consolidating power or control through data or identity dependency (**CJS-3.17** (*interoperability, portability, and exit-integrity terms*))
@@ -552,7 +552,7 @@ Forum verification under Chapter Eight §4 does **not** transfer ownership of th
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: **[CJS-3.3 audit process home](../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (*shared process — what / why / how / when*); **[CJS-3.4](../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure)** (*access tiers and output disclosure*); **CJS-3.5** (*claim checking*); **[CS-3 — System classification and handling](cs_03_a_system_classification_machinery.md)** (*class scaling*).
-- This subsection does **not** relocate the process home or Rights Floor (**Article XV** / **Article XV-A**).
+- This subsection does **not** relocate the process home or Rights Floor (**Article XV** (*Audit, Transparency, and Independent Verification*) / **Article XV-A** (*Auditability and Observable Evidence*)).
 
 </details>
 
@@ -568,7 +568,7 @@ Forum verification under Chapter Eight §4 does **not** transfer ownership of th
 <a id="84-challenge-the-system-data-types-record"></a>
 **8.4. Challenge the System Data Types Record.**
 
-*System Data Types Record duty:* let affected sentients contest the file so type findings feeding System Alignment Certification stay challengeable under **Article XII-A** and, when inside an active certification record, under **[Part B §§12 and 14](../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)**.
+*System Data Types Record duty:* let affected sentients contest the file so type findings feeding System Alignment Certification stay challengeable under **Article XII-A** (*Reliability and Trustworthiness Baseline*) and, when inside an active certification record, under **[Part B §§12 and 14](../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)**.
 
 Systems must offer challenge routes sentients can actually use, review claims in good faith and on time, and give reasoned answers — including evidence of mistyping, hidden impact, unsafe linkage, or overdue re-evaluation, and requests for review or retyping of the record.
 

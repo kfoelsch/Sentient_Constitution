@@ -114,7 +114,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
     - [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice);
     - [documented legitimacy mechanisms](core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority) under [Chapter Thirteen §1.1](core_13_governance.md#11-mechanism-families-auditability-and-pluralism);
     - [adoption](core_16_amendment_ratification.md#10-ratification-and-adoption) and [reauthorization](core_13_governance.md#11-mechanism-families-auditability-and-pluralism) rules ([Chapter Thirteen §1.3](core_13_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails); [Chapter Seventeen §4](core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)); and
-    - the [political-equality floor](core_13_governance.md#41-entitlement-and-eligibility) for constituting or durably restructuring governing authority — entitled sentients have equal voice at that layer ([Article IX-C](core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)).
+    - the [political-equality floor](core_13_governance.md#41-entitlement-and-eligibility) for constituting or durably restructuring governing authority — entitled sentients have equal voice at that layer ([Article IX-C](core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement) (*Governance Participation and Voting Entitlement*)).
   - **Out of scope:**
     - ordinary stakeholder consultation;
     - operational participation;

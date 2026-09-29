@@ -321,7 +321,7 @@ When a system offers scarce capacity — network access, compute, model inferenc
 
 - **Class A** traffic and API use gets the highest continuity protection when the request or dependent workflow is survival-critical, Rights-Floor-sustaining, emergency-response, or recovery-critical
   - Throttling, queuing, paid tiers, or commercial prioritization must **not** crowd out the minimum safe capacity Class A continuity needs
-  - A narrower emergency cut is allowed only under **Chapter Six, Article XXIV** (*Conflict Resolution, Escalation, and Emergency Proportionality*), and only if it stays time-bounded, auditable, and restoration-triggered
+  - A narrower emergency cut is allowed only under **Chapter Six, **Article XXIV** (*Conflict Resolution, Escalation, and Emergency Proportionality*)** (*Conflict Resolution, Escalation, and Emergency Proportionality*), and only if it stays time-bounded, auditable, and restoration-triggered
 - **Class B** traffic and API use gets enough priority to keep dependent systems running normally and to stop cascading degradation into Class A or broader systemic harm
   - Class B may be queued, rate-limited, or degraded **before** Class A when capacity is genuinely short
   - That degradation must be disclosed, proportionate, and designed around workable fallback or recovery paths
@@ -414,7 +414,7 @@ Forum verification under Chapter Eight §2 does **not** transfer ownership of th
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: **[CJS-3.3 audit process home](../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (*shared process — what / why / how / when*); **[CJS-3.4](../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure)** (*access tiers and output disclosure*); **CJS-3.5** (*claim checking*); **[CS-2 — Information types and handling](cs_02_a_information_types_and_handling.md)** (*typing*).
-- This subsection does **not** relocate the process home or Rights Floor (**Article XV** / **Article XV-A**).
+- This subsection does **not** relocate the process home or Rights Floor (**Article XV** (*Audit, Transparency, and Independent Verification*) / **Article XV-A** (*Auditability and Observable Evidence*)).
 
 </details>
 
@@ -434,9 +434,9 @@ Forum verification under Chapter Eight §2 does **not** transfer ownership of th
 
 *System Classification Record duty:* let affected sentients contest the file.
 
-- **Required:** The right to challenge the System Classification Record is required under [§1.3](#13-mandatory-functional-classification) (*Mandatory, functional classification*) (**Article XII-A**).
+- **Required:** The right to challenge the System Classification Record is required under [§1.3](#13-mandatory-functional-classification) (*Mandatory, functional classification*) (**Article XII-A** (*Reliability and Trustworthiness Baseline*)).
 - **What systems must offer:** challenge routes sentients can actually use; good-faith, timely review; and reasoned answers — including evidence of misclassification or hidden impact, and requests for review or reclassification of the record.
-- **Why:** so class findings that feed System Alignment Certification stay challengeable under **Article XII-A** and, when inside an active certification record, under **[Part B §§12 and 14](../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)**.
+- **Why:** so class findings that feed System Alignment Certification stay challengeable under **Article XII-A** (*Reliability and Trustworthiness Baseline*) and, when inside an active certification record, under **[Part B §§12 and 14](../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)**.
 - **For Class A, B, and C:** if an internal dispute about the System Classification Record cannot be resolved, escalation to external or independent review must remain available.
 - **When the challenge concerns classification assumptions, class assignment, or related evidence inside an active System Certification Record:** the contestability chain in **[Chapter Eight Part B §12](../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)** and **[§14](../core_08_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain)** applies, and material challenges may reopen review under **[Part B §16](../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)**.
 

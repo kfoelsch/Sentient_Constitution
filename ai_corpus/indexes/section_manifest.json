@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-09-29T15:26:44+00:00",
+  "generated_at": "2026-09-29T21:11:04+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 469,
@@ -120,13 +120,13 @@
       ]
     },
     "core_01_a_values_principles.md": {
-      "total_lines": 918,
+      "total_lines": 921,
       "sections": [
         {
           "header": "CHAPTER 01, PART A: VALUES PRINCIPLES",
           "level": 1,
           "line_start": 1,
-          "line_end": 918,
+          "line_end": 921,
           "anchor": null
         },
         {
@@ -245,7 +245,7 @@
           "header": "3. Non-Negotiable Principle Constraints: Safety and Truth",
           "level": 3,
           "line_start": 368,
-          "line_end": 590,
+          "line_end": 593,
           "anchor": "#3-non-negotiable-constraints-safety-and-truth"
         },
         {
@@ -273,98 +273,98 @@
           "header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
           "level": 4,
           "line_start": 515,
-          "line_end": 590,
+          "line_end": 593,
           "anchor": "#34-plain-language-accessibility-stewardship-duty"
         },
         {
           "header": "3.4.1 Scope",
           "level": 5,
-          "line_start": 547,
-          "line_end": 559,
+          "line_start": 548,
+          "line_end": 560,
           "anchor": "#341-scope"
         },
         {
           "header": "3.4.2 The Duty",
           "level": 5,
-          "line_start": 560,
-          "line_end": 569,
+          "line_start": 561,
+          "line_end": 570,
           "anchor": "#342-the-duty"
         },
         {
           "header": "3.4.3 Definitional Rigor Preserved",
           "level": 5,
-          "line_start": 570,
-          "line_end": 579,
+          "line_start": 571,
+          "line_end": 580,
           "anchor": "#343-definitional-rigor-preserved"
         },
         {
-          "header": "3.4.4 Jargon-as-Defeat Discipline",
+          "header": "3.4.4 Complexity-as-Defeat Discipline",
           "level": 5,
-          "line_start": 580,
-          "line_end": 586,
+          "line_start": 581,
+          "line_end": 589,
           "anchor": "#344-jargon-as-defeat-discipline"
         },
         {
           "header": "3.4.5 Rights-Floor Boundary",
           "level": 5,
-          "line_start": 587,
-          "line_end": 590,
+          "line_start": 590,
+          "line_end": 593,
           "anchor": "#345-chapter-eleven-floor-boundary"
         },
         {
           "header": "4. System Stability Enabler: Trust (Coordination Integrity)",
           "level": 3,
-          "line_start": 591,
-          "line_end": 714,
+          "line_start": 594,
+          "line_end": 717,
           "anchor": null
         },
         {
           "header": "4.1 Resilience and Self-Healing Design",
           "level": 4,
-          "line_start": 636,
-          "line_end": 675,
+          "line_start": 639,
+          "line_end": 678,
           "anchor": null
         },
         {
           "header": "4.2 Correction and Remedy",
           "level": 4,
-          "line_start": 676,
-          "line_end": 714,
+          "line_start": 679,
+          "line_end": 717,
           "anchor": null
         },
         {
           "header": "5. Freedom (Bounded Agency)",
           "level": 3,
-          "line_start": 715,
-          "line_end": 918,
+          "line_start": 718,
+          "line_end": 921,
           "anchor": "#5-freedom-bounded-agency"
         },
         {
           "header": "5.1 Limitation Discipline",
           "level": 4,
-          "line_start": 770,
-          "line_end": 802,
+          "line_start": 773,
+          "line_end": 805,
           "anchor": "#51-limitation-discipline"
         },
         {
           "header": "5.2 Voluntary Discontinuation and Exit Rights",
           "level": 4,
-          "line_start": 803,
-          "line_end": 846,
+          "line_start": 806,
+          "line_end": 849,
           "anchor": null
         },
         {
           "header": "5.3 Assembly, Collective Organization, and Institutional Formation",
           "level": 4,
-          "line_start": 847,
-          "line_end": 918,
+          "line_start": 850,
+          "line_end": 921,
           "anchor": "#52-voluntary-discontinuation-and-exit-rights"
         },
         {
           "header": "5.3.1 Aligned Self-Organization",
           "level": 5,
-          "line_start": 890,
-          "line_end": 918,
+          "line_start": 893,
+          "line_end": 921,
           "anchor": "#53-assembly-collective-organization-and-institutional-formation"
         }
       ]
@@ -5156,13 +5156,13 @@
       ]
     },
     "core_06_rights_part_b.md": {
-      "total_lines": 1686,
+      "total_lines": 1717,
       "sections": [
         {
           "header": "CHAPTER SIX: FOUNDATIONAL RIGHTS",
           "level": 1,
           "line_start": 1,
-          "line_end": 1686,
+          "line_end": 1717,
           "anchor": null
         },
         {
@@ -5414,7 +5414,7 @@
           "header": "Article XI: Stakeholder System Participation, Representation, and Due Process",
           "level": 3,
           "line_start": 1471,
-          "line_end": 1686,
+          "line_end": 1717,
           "anchor": null
         },
         {
@@ -5449,19 +5449,19 @@
           "header": "Article XI-E: Non-Capture Safeguards",
           "level": 4,
           "line_start": 1652,
-          "line_end": 1686,
+          "line_end": 1717,
           "anchor": null
         }
       ]
     },
     "core_06_rights_part_c.md": {
-      "total_lines": 2631,
+      "total_lines": 2652,
       "sections": [
         {
           "header": "CHAPTER SIX: FOUNDATIONAL RIGHTS",
           "level": 1,
           "line_start": 1,
-          "line_end": 2631,
+          "line_end": 2652,
           "anchor": null
         },
         {
@@ -5811,77 +5811,77 @@
           "header": "Article XXI: Comprehensibility and Complexity Stewardship",
           "level": 3,
           "line_start": 2208,
-          "line_end": 2331,
+          "line_end": 2352,
           "anchor": null
         },
         {
           "header": "Article XXI-A: Proportional Comprehensibility Right",
           "level": 4,
-          "line_start": 2260,
-          "line_end": 2296,
+          "line_start": 2281,
+          "line_end": 2317,
           "anchor": null
         },
         {
           "header": "Article XXI-B: Complexity Audit and Modularity Requirements",
           "level": 4,
-          "line_start": 2297,
-          "line_end": 2331,
+          "line_start": 2318,
+          "line_end": 2352,
           "anchor": "#operative-steward-statement-comprehensibility"
         },
         {
           "header": "Article XXII: Root Cause Analysis and Adaptive Response",
           "level": 3,
-          "line_start": 2332,
-          "line_end": 2438,
+          "line_start": 2353,
+          "line_end": 2469,
           "anchor": "#article-xxii-root-cause-analysis-and-adaptive-response"
         },
         {
           "header": "Article XXII-A: Diagnostic Rigor and Causal Attribution",
           "level": 4,
-          "line_start": 2378,
-          "line_end": 2407,
+          "line_start": 2409,
+          "line_end": 2438,
           "anchor": null
         },
         {
           "header": "Article XXII-B: Auditability, Challenge, and Reversibility Preference",
           "level": 4,
-          "line_start": 2408,
-          "line_end": 2438,
+          "line_start": 2439,
+          "line_end": 2469,
           "anchor": null
         },
         {
           "header": "Article XXIII: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
           "level": 3,
-          "line_start": 2439,
-          "line_end": 2631,
+          "line_start": 2470,
+          "line_end": 2652,
           "anchor": "#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards"
         },
         {
-          "header": "Article XXIII-A: Bounded Interpretive Mandate",
+          "header": "Article XXIII-A: Bounded Interpretive Mandate and Public Reasons",
           "level": 4,
-          "line_start": 2485,
-          "line_end": 2518,
+          "line_start": 2517,
+          "line_end": 2564,
           "anchor": null
         },
         {
-          "header": "Article XXIII-B: Composition, Rotation, and Conflict Controls",
+          "header": "Article XXIII-B: Challenge Rights and Independent Review",
           "level": 4,
-          "line_start": 2519,
-          "line_end": 2551,
-          "anchor": "#article-xxiii-b-composition-rotation-and-conflict-controls"
+          "line_start": 2565,
+          "line_end": 2591,
+          "anchor": null
         },
         {
-          "header": "Article XXIII-C: Public Reasons, Challenge Rights, and External Review",
+          "header": "Article XXIII-C: Constitutional Forum Independence and External Review",
           "level": 4,
-          "line_start": 2552,
-          "line_end": 2592,
+          "line_start": 2592,
+          "line_end": 2622,
           "anchor": null
         },
         {
           "header": "Article XXIII-D: Removal for Cause and Non-Entrenchment",
           "level": 4,
-          "line_start": 2593,
-          "line_end": 2631,
+          "line_start": 2623,
+          "line_end": 2652,
           "anchor": null
         }
       ]

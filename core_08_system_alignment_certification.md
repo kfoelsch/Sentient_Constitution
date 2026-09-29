@@ -23,7 +23,7 @@
 *In plain terms: Chapter Eight is split in two — Part A for how to evaluate, Part B for the record and process. Read them as one chapter.*
 
 Read **Part A** first for evaluation requirements; **Part B** for record, forum process, and standing bridge.
-Under the **oversight** Tetrad leg, oversight requires auditing; Chapter Eight is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes). Auditing floors remain at **Article XV** and Chapter Five [Auditability](core_05_band_oversight.md#auditability).
+Under the **oversight** Tetrad leg, oversight requires auditing; Chapter Eight is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes). Auditing floors remain at **Article XV** (*Audit, Transparency, and Independent Verification*) and Chapter Five [Auditability](core_05_band_oversight.md#auditability).
 - [Chapter Eight, Part A — Evaluation](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 - [Chapter Eight, Part B — Record and Process](core_08_b_system_alignment_certification_record_process.md#chapter-eight-part-b-certification-record-and-process)
 

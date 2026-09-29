@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-29T15:26:45+00:00",
+  "generated_at": "2026-09-29T21:11:05+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1075,10 +1075,11 @@
           },
           {
             "file": "core_10_standing_integration.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
               "#3-descriptor-integration-and-attachment-normalization",
-              "#9-enforcement-realism"
+              "#9-enforcement-realism",
+              "#94-anti-evasion-and-look-through-authority"
             ]
           },
           {
@@ -6586,9 +6587,10 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
-              "#article-v-h-expression-assembly-and-press"
+              "#article-v-h-expression-assembly-and-press",
+              "#article-xi-e-non-capture-safeguards"
             ]
           },
           {
@@ -6597,7 +6599,7 @@
             "anchors": [
               "#article-xii-a-reliability-and-trustworthiness-baseline",
               "#article-xv-audit-transparency-and-independent-verification",
-              "#article-xxiii-b-composition-rotation-and-conflict-controls"
+              "#article-xxiii-c-constitutional-forum-independence-and-external-review"
             ]
           },
           {
@@ -7418,7 +7420,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 29,
+            "count": 30,
             "anchors": [
               "#constitutional-tetrad",
               "#material-stake",
@@ -7641,7 +7643,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 443,
+            "count": 448,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -7751,11 +7753,20 @@
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 4,
+            "count": 7,
             "anchors": [
               "#article-xvii-d-innovation-reward-disclosure-and-anti-enclosure",
               "#article-xvii-e-creative-and-expressive-works",
-              "#article-xviii-a-standing-distinction"
+              "#article-xviii-a-standing-distinction",
+              "#article-xxiii-c-constitutional-forum-independence-and-external-review",
+              "#article-xxiii-d-removal-for-cause-and-non-entrenchment"
+            ]
+          },
+          {
+            "file": "core_06_rights_part_d.md",
+            "count": 1,
+            "anchors": [
+              "#article-xxvi-a-non-entrenchment-and-revisability"
             ]
           },
           {
@@ -7776,9 +7787,18 @@
             ]
           },
           {
-            "file": "core_12_forum.md",
-            "count": 8,
+            "file": "core_11_b_misconduct_pattern_applications.md",
+            "count": 1,
             "anchors": [
+              "#510-forum-recusal-failure-and-biased-panel-participation"
+            ]
+          },
+          {
+            "file": "core_12_forum.md",
+            "count": 12,
+            "anchors": [
+              "#2-default-venue-and-primary-stakes",
+              "#3-transfer-consolidation-and-coordination",
               "#42-technical-forum-domains",
               "#5-escalation-and-certification",
               "#dispute-sequencing"
@@ -7792,8 +7812,13 @@
             ]
           },
           {
-            "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+            "file": "corpus_forum.md",
             "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+            "count": 2,
             "anchors": []
           },
           {
@@ -7817,12 +7842,13 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 104,
+            "count": 106,
             "anchors": [
               "#2-foundational-objective-wellbeing",
               "#31-safety-harm-constraint",
               "#32-truth-epistemic-integrity-constraint",
               "#34-plain-language-accessibility-stewardship-duty",
+              "#344-jargon-as-defeat-discipline",
               "#4-system-stability-enabler-trust-coordination-integrity",
               "#41-resilience-and-self-healing-design",
               "#42-correction-and-remedy",
@@ -7832,7 +7858,7 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 51,
+            "count": 50,
             "anchors": [
               "#6-process-conflict-resolution",
               "#61-core-tradeoff-principles",
@@ -7849,7 +7875,7 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 49,
+            "count": 48,
             "anchors": [
               "#11-governance-under-stewardship-discipline",
               "#112-segregation-of-duties",
@@ -7977,7 +8003,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 342,
+            "count": 339,
             "anchors": [
               "#anti-capture",
               "#anti-capture-a",
@@ -8060,7 +8086,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 232,
+            "count": 242,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -8150,10 +8176,11 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 5,
+            "count": 12,
             "anchors": [
               "#article-v-a-dignity-and-equal-moral-standing",
               "#article-viii-d-creative-work-training-data-use-and-anti-displacement",
+              "#article-xi-e-non-capture-safeguards",
               "#article-xi-stakeholder-system-participation-representation-and-due-process"
             ]
           },

@@ -49,7 +49,7 @@ Constitutional tracing: This file specifies implementation-file-level funding st
 
 **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article IV-B** (*Cross-System Fairness and Sustainability*), together with **Articles I–III and V**, state the core obligations for transparent, ecosystem-aware resource flows, cross-system fairness, and substrate wellbeing.
 
-**What Articles I-B, IV-A, and IV-B require here — and what they do not.** Those articles require honest disclosure and comparison of footprints, dependencies, and resource flows. They do not, on their own, force footprint cuts, lock in a funding formula, or require equal splits, fixed percentages, or one funding model. Under **Article IV-B**, what a system puts back must be traceable — and it covers both keeping shared systems running (**cross-system system support**) and repairing ecological harm (**ecological support**). Both are judged under Chapter Five [*Proportionate Cross-System Contribution*](../core_05_band_continuity.md#proportionate-cross-system-support-constitutional). This file supplies allocation categories, reauthorization, and funding-stewardship mechanics that implement that floor; it must not narrow it.
+**What Articles I-B, IV-A, and IV-B require here — and what they do not.** Those articles require honest disclosure and comparison of footprints, dependencies, and resource flows. They do not, on their own, force footprint cuts, lock in a funding formula, or require equal splits, fixed percentages, or one funding model. Under **Article IV-B** (*Cross-System Fairness and Sustainability*), what a system puts back must be traceable — and it covers both keeping shared systems running (**cross-system system support**) and repairing ecological harm (**ecological support**). Both are judged under Chapter Five [*Proportionate Cross-System Contribution*](../core_05_band_continuity.md#proportionate-cross-system-support-constitutional). This file supplies allocation categories, reauthorization, and funding-stewardship mechanics that implement that floor; it must not narrow it.
 
 **CS-8** governs how allocation adapts when conditions change. This file specifies **funding stewardship mechanics**—dependent systems maps, flow transparency, allocation categories, reauthorization, and triggers. It is **not** a second copy of Chapter Five.
 
@@ -338,7 +338,7 @@ No minimum participation threshold is required to initiate review, though outcom
 **Challenges must**:
 - be documented and supported by evidence where feasible;
 - remain subject to audit and evaluation under **Article XV-A** (*Auditability and Observable Evidence*);
-- be resolved through participatory processes (**Article XI** (*Stakeholder System Participation, Representation, and Due Process*); **Chapter Six**, section **4**, where binding collective choice applies) and, where necessary, Article XXIV-A** (*Justice Objective and Scope*)** (justice objective and review scope).
+- be resolved through participatory processes (**Article XI** (*Stakeholder System Participation, Representation, and Due Process*); **Chapter Six**, section **4**, where binding collective choice applies) and, where necessary, **Article XXIV-A** (*Justice Objective and Scope*)** (*Justice Objective and Scope*)** (justice objective and review scope).
 
 <a id="cs-9-18-due-process-in-funding-changes"></a>
 ## CS-9.18 Due process in funding changes

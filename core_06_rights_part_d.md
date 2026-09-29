@@ -70,7 +70,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter One §6.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [Chapter One §2.3 Anti-Degrading Process](core_01_a_values_principles.md#23-anti-degrading-process), and [§16 Integrated Application](core_01_c_stewardship_capacity_principles.md#16-integrated-application).
-- Downstream: [Chapter Ten §4](core_10_standing_integration.md#4-violation-correction-and-prevention) (*Violation, correction, and prevention*); [Article XXIV-B](#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [Article XXIV-C](#article-xxiv-c-least-restrictive-and-time-bounded-rule).
+- Downstream: [Chapter Ten §4](core_10_standing_integration.md#4-violation-correction-and-prevention) (*Violation, correction, and prevention*); [Article XXIV-B](#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*); [Article XXIV-C](#article-xxiv-c-least-restrictive-and-time-bounded-rule) (*Least-Restrictive and Time-Bounded Rule*).
 - Read with: [Cruelty](core_05_band_accountability.md#cruelty) (*Chapter Five home for the anti-cruelty floor's suffering-as-end standard*).
 
 </details>
@@ -222,7 +222,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 <summary><strong><span style="color: #2563eb;">Who's in charge here, and what's off-limits</span></strong></summary>
 
 <a id="operative-steward-statement-emergency"></a>
-> **Who's in charge here, and what's off-limits.** **Owner:** Article XXIV-D, including restore-challenge clocks. **Forbidden move:** Do not skip notice and challenge permanently. Do not stretch feasible. Do not normalize emergency into ordinary governance. Do not block a documented Tier A deferral in order to insist on full notice before containment. **Clock:** Contain now. Restore notice and challenge inside the Tier A one-week outer bound unless a documented lower-urgency showing is recorded. Continuation past that bound needs a documented necessity showing.
+> **Who's in charge here, and what's off-limits.** **Owner:** **Article XXIV-D** (*Emergency Measures and Continuation Burden*), including restore-challenge clocks. **Forbidden move:** Do not skip notice and challenge permanently. Do not stretch feasible. Do not normalize emergency into ordinary governance. Do not block a documented Tier A deferral in order to insist on full notice before containment. **Clock:** Contain now. Restore notice and challenge inside the Tier A one-week outer bound unless a documented lower-urgency showing is recorded. Continuation past that bound needs a documented necessity showing.
 
 </details>
 
@@ -251,7 +251,7 @@ Adopted governance implementation provides escalation, proportionality of interv
   - proportionality;
   - absence of less-restrictive feasible alternatives.
 <a id="xxiv-d-restore-challenge-clocks"></a>
-- **Review and notice (restore-challenge clocks):** Contain now; restore notice and challenge later; never skip participation permanently. “As soon as feasible” is not the clock. Affected parties must receive notice and restored challenge access within the same materiality-tier outer bounds that [**Article XXV-C**](#article-xxv-c-timely-resolution-and-anti-delay-floor) already uses for forum resolution, as implemented by [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Timely resolution, materiality tiers, and anti-delay discipline*):
+- **Review and notice (restore-challenge clocks):** Contain now; restore notice and challenge later; never skip participation permanently. “As soon as feasible” is not the clock. Affected parties must receive notice and restored challenge access within the same materiality-tier outer bounds that [**Article XXV-C** (*Timely Resolution and Anti-Delay Floor*)](#article-xxv-c-timely-resolution-and-anti-delay-floor) already uses for forum resolution, as implemented by [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Timely resolution, materiality tiers, and anti-delay discipline*):
   - **Tier A:** at most **one week**;
   - **Tier B:** at most **three weeks**;
   - **Tier C:** at most **two months**;
@@ -392,7 +392,7 @@ This Article applies the [Constitutional Tetrad](core_00_preamble.md#constitutio
 <summary><strong><span style="color: #2563eb;">Who's in charge here, and what's off-limits</span></strong></summary>
 
 <a id="operative-steward-statement-delay"></a>
-> **Who's in charge here, and what's off-limits.** **Owner:** Article XXV-C. Numeric home: Chapter Twelve §6. Definition: Timely Resolution. **Forbidden move:** Do not add process, hop count, or "read more adopted implementation text" in a way that eats the tier window. Do not treat a met throughput target as timely when harm persists. **Clock:** Apply the Chapter Twelve §6 outer bound for the matching tier. Then take the existing next-step card. Do not add process that eats the window.
+> **Who's in charge here, and what's off-limits.** **Owner:** **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*). Numeric home: Chapter Twelve §6. Definition: Timely Resolution. **Forbidden move:** Do not add process, hop count, or "read more adopted implementation text" in a way that eats the tier window. Do not treat a met throughput target as timely when harm persists. **Clock:** Apply the Chapter Twelve §6 outer bound for the matching tier. Then take the existing next-step card. Do not add process that eats the window.
 
 </details>
 
@@ -413,7 +413,7 @@ This Article applies the [Constitutional Tetrad](core_00_preamble.md#constitutio
   - anti-delay discipline.
   
   Numeric tier-default windows and stage tables: [CF-11.3.1 Target Windows and Timing Floors](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). Domain walkthroughs: [Chapters Nine–Twelve application vignettes](../core_09-12_application_vignettes.md#chapters-nine-twelve-application-vignettes).
-- **Restore-challenge after emergency:** The same tier outer bounds are the default windows for restoring notice and challenge after emergency containment under [**Article XXIV-D**](#xxiv-d-restore-challenge-clocks). Continuation past those windows requires that Article’s documented necessity showing. This Article does not create a slower emergency clock.
+- **Restore-challenge after emergency:** The same tier outer bounds are the default windows for restoring notice and challenge after emergency containment under [**Article XXIV-D** (*Emergency Measures and Continuation Burden*)](#xxiv-d-restore-challenge-clocks). Continuation past those windows requires that Article’s documented necessity showing. This Article does not create a slower emergency clock.
 
 ### Article XXVI: Constitutional Evolution and Non-Entrenchment
 

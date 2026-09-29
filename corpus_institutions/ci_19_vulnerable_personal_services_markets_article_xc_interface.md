@@ -58,7 +58,7 @@ This file is the institutional implementation home for **CI-19** (*Vulnerable pe
 - **CS-3** classification examples; **CS-4** stewardship scaling where platform, data, or system stewardship is material.
 - This file does not repeat those floors.
 
-**Apply.** Apply **CJS-3.17** **High-vulnerability personal-service pathway integrity**. **CI-19** states only local **Article X-C** application-file owner duties. Comparable lawful personal services should use comparable regulatory families unless documented **Necessity** and **Proportionality** justify differentiation.
+**Apply.** Apply **CJS-3.17** **High-vulnerability personal-service pathway integrity**. **CI-19** states only local **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) application-file owner duties. Comparable lawful personal services should use comparable regulatory families unless documented **Necessity** and **Proportionality** justify differentiation.
 
 **Local **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) role map**
 Each institution in scope must name the office or body responsible for:

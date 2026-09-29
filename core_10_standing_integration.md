@@ -32,7 +32,7 @@
 <summary><strong><span style="color: #2563eb;">Who's in charge here, and what's off-limits</span></strong></summary>
 
 <a id="operative-steward-statement-remedy"></a>
-> **Who's in charge here, and what's off-limits.** **Owner:** Chapter Ten §4.1 (assign remedy and correction from the verified violation record). Chapter Ten §9 (consequences must be institutionally real). Principle: Chapter One §4.2 Correction and Remedy. Rights-Floor redress: Article XII-B. Challenge: Article XII-A. **Forbidden move:** Do not treat a published form as remedy. Do not wait for a filed case to preserve evidence. Do not externalize cost onto those harmed. **Clock:** Start intake, preservation, review, and repair now. Do not wait for a filed case to preserve evidence.
+> **Who's in charge here, and what's off-limits.** **Owner:** Chapter Ten §4.1 (assign remedy and correction from the verified violation record). Chapter Ten §9 (consequences must be institutionally real). Principle: Chapter One §4.2 Correction and Remedy. Rights-Floor redress: **Article XII-B** (*Right to Redress and Remedy*). Challenge: **Article XII-A** (*Reliability and Trustworthiness Baseline*). **Forbidden move:** Do not treat a published form as remedy. Do not wait for a filed case to preserve evidence. Do not externalize cost onto those harmed. **Clock:** Start intake, preservation, review, and repair now. Do not wait for a filed case to preserve evidence.
 
 </details>
 

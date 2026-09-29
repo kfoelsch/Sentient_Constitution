@@ -17,7 +17,15 @@ HEADING_RE = re.compile(
     r"^#{3,5} Article ([IVXLCDM]+(?:-[A-Z](?:\.\d+)?)?): (.+?)\s*$"
 )
 LABEL_RE = r"[IVXLCDM]+(?:-[A-Z](?:\.\d+)?)?"
-BOLD_CITE_RE = re.compile(rf"\*\*Article ({LABEL_RE})\*\*(?!\s*\(\*)")
+# Skip a bold cite that is already glossed, either directly after it or after
+# the closing link: ``[**Article X**](url) (*Title*)`` must not gain a second gloss.
+BOLD_CITE_RE = re.compile(
+    rf"\*\*Article ({LABEL_RE})\*\*(?!\s*\(\*)(?!\]\([^)]*\)\s*\(\*)"
+)
+# Repair links that already carry a gloss inside the link text and repeat it after.
+DUP_GLOSS_RE = re.compile(
+    r"(\[[^\]]*\(\*(?P<t>[^*()]+)\*\)\]\([^)]*\))\s*\(\*(?P=t)\*\)"
+)
 LINK_CITE_RE = re.compile(
     rf"\[Article ({LABEL_RE})\]\(([^)]+)\)(?!\s*\(\*)"
 )
@@ -83,7 +91,8 @@ def process_file(path: pathlib.Path, titles: dict[str, str], dry_run: bool) -> i
         if HEADING_RE.match(line):
             out.append(line)
             continue
-        new_line = BOLD_CITE_RE.sub(lambda m: gloss_bold(m, titles), line)
+        new_line = DUP_GLOSS_RE.sub(r"\1", line)
+        new_line = BOLD_CITE_RE.sub(lambda m: gloss_bold(m, titles), new_line)
         new_line = LINK_CITE_RE.sub(lambda m: gloss_link(m, titles), new_line)
         new_line = BARE_CITE_RE.sub(lambda m: gloss_bare(m, titles), new_line)
         if new_line != line:

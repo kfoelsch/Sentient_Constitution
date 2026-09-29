@@ -67,7 +67,7 @@
 <summary><strong><span style="color: #2563eb;">Who's in charge here, and what's off-limits</span></strong></summary>
 
 <a id="operative-steward-statement-interpretation"></a>
-> **Who's in charge here, and what's off-limits.** **Owner:** Chapter One §6 Process Conflict Resolution, including the §6.1 decision-record discipline. Ambiguity: Chapter One §8.3. Institutional interpretation: Article XXIII. **Forbidden move:** Do not invent a missing conflict rule. Do not collapse the collision into “privacy always loses” or “audit always loses.” Do not destroy evidence while the collision is pending. Do not take an irreversible step that would manufacture a winner while the collision is pending. **Clock:** Preserve evidence. Freeze irreversible steps. Proceed with reversible consented steps. Notify affected parties and the interpretation path. Route the collision to interpretation. Do not manufacture a winner.
+> **Who's in charge here, and what's off-limits.** **Owner:** Chapter One §6 Process Conflict Resolution, including the §6.1 decision-record discipline. Ambiguity: Chapter One §8.3. Institutional interpretation: **Article XXIII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*). **Forbidden move:** Do not invent a missing conflict rule. Do not collapse the collision into “privacy always loses” or “audit always loses.” Do not destroy evidence while the collision is pending. Do not take an irreversible step that would manufacture a winner while the collision is pending. **Clock:** Preserve evidence. Freeze irreversible steps. Proceed with reversible consented steps. Notify affected parties and the interpretation path. Route the collision to interpretation. Do not manufacture a winner.
 
 </details>
 
@@ -283,7 +283,7 @@ Limitations on constitutional **values** — including **Chapter Six** Rights-Fl
 <summary><strong><span style="color: #2563eb;">Who's in charge here, and what's off-limits</span></strong></summary>
 
 <a id="operative-steward-statement-proceed"></a>
-> **Who's in charge here, and what's off-limits.** **Owner:** §6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle; §6.2.3 Privacy; Article VII-B; reconstructable set remains CS-4 §10. Unwelcome-but-lawful instructions: Chapter One §10.5 Duty to Resist (duty does not attach). **Forbidden move:** Do not refuse a valid least-restrictive privacy restriction as if it were a standing-measurement veto. Do not invent a constitutional conflict over tone or scheduling. Do not strip the reconstructable set from reviewers. **Clock:** Proceed with the restriction. Keep the reconstructable set inspectable to independent reviewers. Do not treat privacy as a standing-measurement veto. Proceed. Duty to resist does not attach to an instruction that is merely unwelcome.
+> **Who's in charge here, and what's off-limits.** **Owner:** §6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle; §6.2.3 Privacy; **Article VII-B** (*Internal-State Boundary and Type-N Protection*); reconstructable set remains CS-4 §10. Unwelcome-but-lawful instructions: Chapter One §10.5 Duty to Resist (duty does not attach). **Forbidden move:** Do not refuse a valid least-restrictive privacy restriction as if it were a standing-measurement veto. Do not invent a constitutional conflict over tone or scheduling. Do not strip the reconstructable set from reviewers. **Clock:** Proceed with the restriction. Keep the reconstructable set inspectable to independent reviewers. Do not treat privacy as a standing-measurement veto. Proceed. Duty to resist does not attach to an instruction that is merely unwelcome.
 
 </details>
 
@@ -313,7 +313,7 @@ Burden of proof scales with expected harm severity, irreversibility, dependency 
 Confidentiality limits on the decision record must satisfy [§6.2 Epistemic Disclosure Constraints](#62-epistemic-disclosure-constraints). Where full public disclosure is not feasible, maximum feasible partial disclosure plus independent reviewer access must be maintained.
 
 <a id="default-interim-posture"></a>
-**Default interim posture while a rights collision is pending.** Until the [§6.1 decision-record discipline](#615-rights-collision-decision-test) and [Article XXIII](core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards) resolve the collision, the holding pattern is fixed so a steward cannot manufacture a winner by improvising:
+**Default interim posture while a rights collision is pending.** Until the [§6.1 decision-record discipline](#615-rights-collision-decision-test) and [Article XXIII](core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) resolve the collision, the holding pattern is fixed so a steward cannot manufacture a winner by improvising:
 
 - **Preserve evidence:** Do not moot the collision by deletion, leak, or irreversible publication.
 - **Freeze irreversible steps** that would make one of the colliding readings unavailable — do not take a step that cannot be undone if taking it would close the collision, moot one side, or manufacture a winner before interpretation resolves it.
