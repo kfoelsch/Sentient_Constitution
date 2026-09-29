@@ -5365,7 +5365,7 @@
           "level": 4,
           "title": "5.2 Proportionality and calibration",
           "anchor": "52-proportionality-and-calibration",
-          "line": 307,
+          "line": 315,
           "gloss": null,
           "gloss_line": null
         },
@@ -5374,7 +5374,7 @@
           "level": 4,
           "title": "5.3 Record visibility and escalation",
           "anchor": "53-record-visibility-and-escalation",
-          "line": 314,
+          "line": 322,
           "gloss": null,
           "gloss_line": null
         },
@@ -5383,7 +5383,7 @@
           "level": 4,
           "title": "5.4 Special violation rules",
           "anchor": "54-special-violation-rules",
-          "line": 329,
+          "line": 337,
           "gloss": null,
           "gloss_line": null
         },
@@ -5392,7 +5392,7 @@
           "level": 4,
           "title": "5.5 Special locks",
           "anchor": "55-special-locks",
-          "line": 424,
+          "line": 432,
           "gloss": null,
           "gloss_line": null
         },
@@ -5401,79 +5401,79 @@
           "level": 3,
           "title": "6. Contribution consequences second",
           "anchor": "6-contribution-consequences-second",
-          "line": 522,
+          "line": 530,
           "gloss": "after violation, correction, and prevention are assigned under [§4](#4-violation-correction-and-prevention) and [§5](#5-lock-design-and-enforcement), this section asks what verified contribution may still do. It may support recognition and readiness for named pathways that are not locked. It never offsets a verified harm, cancels a lock, or opens a blocked named pathway.",
-          "gloss_line": 524
+          "gloss_line": 532
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 4,
           "title": "6.1 Recency and currentness",
           "anchor": "61-recency-and-currentness",
-          "line": 541,
+          "line": 549,
           "gloss": "how much does an older verified contribution still say about present competence and reliability? The system answers that automatically for Question 3 readiness. No one has to re-weigh ordinary contributions by hand. Manual review starts only when a contribution is contested. Recency does not rewrite Chapter Nine measurement, and time alone does not cure an unresolved violation.",
-          "gloss_line": 543
+          "gloss_line": 551
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 4,
           "title": "6.2 Competency bars and clearances",
           "anchor": "62-competency-bars-and-clearances",
-          "line": 584,
+          "line": 592,
           "gloss": "a competency bar is the published standard for a named pathway. Competency clearance is the standing-effect result that says verified readiness meets that bar. Once clearance is in force and the pathway is open, it stays open by default. Some roles need periodic retesting; technical forums decide which ones. A real change in role-relevant capacity — for example after a stroke or a mental-health condition that impairs needed judgment — can trigger reassessment. Clearance never opens a named pathway that a standing lock still blocks.",
-          "gloss_line": 586
+          "gloss_line": 594
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 3,
           "title": "7. Final standing effect",
           "anchor": "7-final-standing-effect",
-          "line": 642,
+          "line": 650,
           "gloss": "when the earlier steps are done, the system must state — one named pathway at a time — what is open, limited, or blocked. That statement is not a dignity rank or a merged score.",
-          "gloss_line": 644
+          "gloss_line": 652
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 4,
           "title": "7.1 Anti-aggregation of named-pathway effects",
           "anchor": "71-anti-aggregation-of-named-pathway-effects",
-          "line": 672,
+          "line": 680,
           "gloss": "this chapter says what standing is not. This subsection stops anyone from building the thing it is not. Effects are stated one named pathway at a time and shown only to whoever gates that named pathway. Stitching them together into a profile, a rank, or a public display constructs the merged score this chapter forbids — and doing so is itself a violation.",
-          "gloss_line": 674
+          "gloss_line": 682
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 4,
           "title": "7.2 Plain statement of effect and burden",
           "anchor": "72-plain-statement-of-effect-and-burden",
-          "line": 692,
+          "line": 700,
           "gloss": "no one should learn what a standing effect does to them from its consequences. The record must tell the subject, in plain language, exactly which named pathways are affected, what they must do, how long it lasts, and where to contest it — and the adopter must measure whether sentients are experiencing standing as a score, because the rule that it is not one is worthless if that is how it lands.",
-          "gloss_line": 694
+          "gloss_line": 702
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 3,
           "title": "8. Restoration and reassessment",
           "anchor": "8-restoration-and-reassessment",
-          "line": 706,
+          "line": 714,
           "gloss": "a lock that is not permanent must have a real way back. Restoration is not automatic forgiveness, record erasure, or letting past help cancel verified harm.",
-          "gloss_line": 708
+          "gloss_line": 716
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 3,
           "title": "9. Enforcement realism and remedy systems",
           "anchor": "9-enforcement-realism",
-          "line": 733,
+          "line": 741,
           "gloss": "standing consequences and redress count only when real institutions can deliver them. This section applies the [Chapter One §4.2](core_01_a_values_principles.md#42-correction-and-remedy) (*Correction and Remedy*) principle to that machinery. Day-to-day staffing, funding, backlog, and succession rules live in the institutions layer.",
-          "gloss_line": 735
+          "gloss_line": 743
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 4,
           "title": "9.1 Remediation capacity and funding",
           "anchor": "91-remediation-capacity-and-funding",
-          "line": 742,
+          "line": 750,
           "gloss": null,
           "gloss_line": null
         },
@@ -5482,7 +5482,7 @@
           "level": 4,
           "title": "9.2 Remedy-system durability",
           "anchor": "92-remedy-system-durability",
-          "line": 762,
+          "line": 770,
           "gloss": null,
           "gloss_line": null
         },
@@ -5491,7 +5491,7 @@
           "level": 4,
           "title": "9.3 Cross-jurisdiction continuity",
           "anchor": "93-cross-jurisdiction-continuity",
-          "line": 803,
+          "line": 811,
           "gloss": null,
           "gloss_line": null
         },
@@ -5500,7 +5500,7 @@
           "level": 4,
           "title": "9.4 Anti-evasion and look-through authority",
           "anchor": "94-anti-evasion-and-look-through-authority",
-          "line": 808,
+          "line": 816,
           "gloss": null,
           "gloss_line": null
         },
@@ -5509,7 +5509,7 @@
           "level": 4,
           "title": "9.5 Timely implementation",
           "anchor": "95-timely-implementation-and-reassessment",
-          "line": 813,
+          "line": 821,
           "gloss": null,
           "gloss_line": null
         },
@@ -5518,16 +5518,16 @@
           "level": 3,
           "title": "10. Pattern applications and Question 3 routing",
           "anchor": "10-named-applications",
-          "line": 821,
+          "line": 829,
           "gloss": "these patterns show how recurring Question 3 edge shapes route through the rules already stated above — they do not invent new consequences or new special lock types. Where a cue mirrors a Chapter Eleven §5 attack family, this section answers named pathway prevention from the verified record; Chapter Eleven separately answers designation criteria routing.",
-          "gloss_line": 833
+          "gloss_line": 841
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 4,
           "title": "10.1 Informal ecological stewardship / competency clearance",
           "anchor": "101-informal-ecological-stewardship-competency-clearance",
-          "line": 839,
+          "line": 847,
           "gloss": null,
           "gloss_line": null
         },
@@ -5536,7 +5536,7 @@
           "level": 4,
           "title": "10.2 Ecological negligence with concealment",
           "anchor": "102-ecological-negligence-with-concealment",
-          "line": 851,
+          "line": 859,
           "gloss": null,
           "gloss_line": null
         },
@@ -5545,7 +5545,7 @@
           "level": 4,
           "title": "10.3 Forum-integrity deception or recusal failure",
           "anchor": "103-forum-integrity-deception-or-recusal-failure",
-          "line": 863,
+          "line": 871,
           "gloss": null,
           "gloss_line": null
         },
@@ -5554,7 +5554,7 @@
           "level": 4,
           "title": "10.4 Recurrence after completed restitution",
           "anchor": "104-recurrence-after-completed-restitution",
-          "line": 870,
+          "line": 878,
           "gloss": null,
           "gloss_line": null
         },
@@ -5563,7 +5563,7 @@
           "level": 4,
           "title": "10.5 Champion repair while a lock remains active",
           "anchor": "105-champion-repair-while-a-lock-remains-active",
-          "line": 881,
+          "line": 889,
           "gloss": null,
           "gloss_line": null
         },
@@ -5572,7 +5572,7 @@
           "level": 4,
           "title": "10.6 Institutional vehicle and successor evasion",
           "anchor": "106-institutional-vehicle-and-successor-evasion",
-          "line": 891,
+          "line": 899,
           "gloss": null,
           "gloss_line": null
         },
@@ -5581,7 +5581,7 @@
           "level": 4,
           "title": "10.7 Misaligned reward retention",
           "anchor": "107-misaligned-reward-retention",
-          "line": 901,
+          "line": 909,
           "gloss": null,
           "gloss_line": null
         },
@@ -5590,7 +5590,7 @@
           "level": 4,
           "title": "10.8 Anti-constitutional misconduct allegation",
           "anchor": "108-top-slot-anti-constitutional-allegation",
-          "line": 909,
+          "line": 917,
           "gloss": null,
           "gloss_line": null
         },
@@ -5599,7 +5599,7 @@
           "level": 4,
           "title": "10.9 Rights-Floor waiver or unconstitutional contract devices",
           "anchor": "109-rights-floor-waiver-or-unconstitutional-contract-devices",
-          "line": 920,
+          "line": 928,
           "gloss": null,
           "gloss_line": null
         },
@@ -5608,7 +5608,7 @@
           "level": 4,
           "title": "10.10 Contest-pathway or info-sphere flooding",
           "anchor": "1010-contest-pathway-or-info-sphere-flooding",
-          "line": 931,
+          "line": 939,
           "gloss": null,
           "gloss_line": null
         },
@@ -5617,7 +5617,7 @@
           "level": 4,
           "title": "10.11 Infrastructure denial or dependency cutoff",
           "anchor": "1011-infrastructure-denial-or-dependency-cutoff",
-          "line": 942,
+          "line": 950,
           "gloss": null,
           "gloss_line": null
         },
@@ -5626,7 +5626,7 @@
           "level": 4,
           "title": "10.12 Stakeholder-participation corruption or false-stake abuse",
           "anchor": "1012-stakeholder-participation-corruption-or-false-stake-abuse",
-          "line": 954,
+          "line": 962,
           "gloss": null,
           "gloss_line": null
         },
@@ -5635,7 +5635,7 @@
           "level": 4,
           "title": "10.13 Obstruction of accountability",
           "anchor": "1013-obstruction-of-accountability",
-          "line": 964,
+          "line": 972,
           "gloss": null,
           "gloss_line": null
         },
@@ -5644,7 +5644,7 @@
           "level": 4,
           "title": "10.14 Verified cruelty character",
           "anchor": "1014-verified-cruelty-character",
-          "line": 976,
+          "line": 984,
           "gloss": null,
           "gloss_line": null
         }
@@ -7465,7 +7465,7 @@
           "title": "Article XX: Movement, Migration, Refuge, and Non-Statelessness",
           "anchor": "article-xx-movement-migration-refuge-and-non-statelessness",
           "line": 1991,
-          "gloss": "**Article XX** (*Movement, Migration, Refuge, and Non-Statelessness*) is the movement-and-refuge Rights Floor — every sentient may move between places and jurisdictions, may seek refuge from regimes that violate this Constitution, and may never be left with no regime responsible for their basic protections. That is not a mandate that any particular adopter absorb coerced mass outflows — origin regimes keep primary recognition duty, with federation or shared transitional recognition as backup. Bureaucratic delay, standing labels, and arguments that fail Sentience Non-Exclusion cannot be used as hidden denials. Whether climate making a place unlivable is, by itself, a reason to grant refuge is for adopters to decide; this Article does not pick a yes or a no.",
+          "gloss": "**Article XX** (*Movement, Migration, Refuge, and Non-Statelessness*) is the movement-and-refuge Rights Floor — every sentient may move between places and jurisdictions, may seek refuge from regimes that violate this Constitution, and may never be left with no regime responsible for their basic protections. This doesn't mean one adopter has to take in everyone another regime forces out. The home regime is still responsible for those sentients first. If it can't or won't be, a group of regimes must share the job, so no one is left with nobody. Bureaucratic delay, standing labels, and arguments that fail Sentience Non-Exclusion cannot be used as hidden denials. Whether climate making a place unlivable is, by itself, a reason to grant refuge is for adopters to decide; this Article does not pick a yes or a no.",
           "gloss_line": 2015
         },
         {
@@ -7473,135 +7473,135 @@
           "level": 4,
           "title": "Article XX-A: Movement and Relocation",
           "anchor": "article-xx-a-movement-and-relocation",
-          "line": 2047,
+          "line": 2041,
           "gloss": "you may move within and between jurisdictions, and relocate when staying would materially harm your survival, dignity, basic protections, or freedom from manipulation — and for synthetic and hybrid sentients, moving can mean changing instance or hosting.",
-          "gloss_line": 2066
+          "gloss_line": 2060
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XX-B: Refuge from Non-Compliance",
           "anchor": "article-xx-b-refuge-from-non-compliance",
-          "line": 2079,
+          "line": 2073,
           "gloss": "if your regime materially breaks this Constitution, you may seek refuge in one that follows it, and the receiving regime must consider your claim — whatever kind of body or substrate you have. Regimes that deliberately push sentients out to overwhelm others are the violators, and a receiving adopter is not automatically forced to take everyone they push.",
-          "gloss_line": 2098
+          "gloss_line": 2092
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XX-C: Non-Statelessness",
           "anchor": "article-xx-c-non-statelessness",
-          "line": 2114,
-          "gloss": "no one may end up with zero regimes that recognize their basic protections, decide their standing, and offer a way to fix wrongs. Your origin regime keeps that duty first; if it is gone or refuses, shared or federation recognition must fill the gap.",
-          "gloss_line": 2133
+          "line": 2115,
+          "gloss": "every sentient must always have at least one regime that answers for their basic protections — one that recognizes their rights, decides their standing, and offers a way to fix wrongs. Your origin regime keeps that duty first; if it is gone or refuses, shared or federation recognition must fill the gap, and you stay protected while that is arranged. Being recognized is not the same as a right to live in any particular place.",
+          "gloss_line": 2134
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XX-D: Limitation, Custody, and Emergency Discipline",
           "anchor": "article-xx-d-limitation-custody-and-emergency-discipline",
-          "line": 2148,
+          "line": 2160,
           "gloss": "limits on movement or refuge must be necessary, proportionate, individual, and as light as will work. Lawful custody is still allowed where someone is a verified danger, but it cannot leave them stateless. A standing label is not a border, emergencies must end, and paperwork designed to wear sentients down counts as a denial.",
-          "gloss_line": 2168
+          "gloss_line": 2180
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
           "title": "Article XXI: Comprehensibility and Complexity Stewardship",
           "anchor": "article-xxi-comprehensibility-and-complexity-stewardship",
-          "line": 2192,
+          "line": 2208,
           "gloss": "**Article XXI** (*Comprehensibility and Complexity Stewardship*) is the understandability Rights Floor — when a system materially affects your life, you are entitled to actually grasp how it works, what its limits are, and what happens when it fails. Complexity cannot be used as a wall against participation, audit, or accountability. Stewards also may not pile on needless complexity that wastes everyone's time without a real constitutional benefit.",
-          "gloss_line": 2219
+          "gloss_line": 2235
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXI-A: Proportional Comprehensibility Right",
           "anchor": "article-xxi-a-proportional-comprehensibility-right",
-          "line": 2244,
+          "line": 2260,
           "gloss": "if a system materially affects **sentients**, operators, stakeholders, and oversight must actually be able to understand how it works and fails — not just specialists.",
-          "gloss_line": 2272
+          "gloss_line": 2288
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXI-B: Complexity Audit and Modularity Requirements",
           "anchor": "article-xxi-b-complexity-audit-and-modularity-requirements",
-          "line": 2281,
+          "line": 2297,
           "gloss": "complexity cannot be used — technically, organizationally, contractually, or procedurally — as a wall against audit, contest, or correction.",
-          "gloss_line": 2300
+          "gloss_line": 2316
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
           "title": "Article XXII: Root Cause Analysis and Adaptive Response",
           "anchor": "article-xxii-root-cause-analysis-and-adaptive-response",
-          "line": 2316,
+          "line": 2332,
           "gloss": "**Article XXII** (*Root Cause Analysis and Adaptive Response*) is the find-the-real-problem-and-fix-it-right floor. When something breaks, degrades, or keeps failing, you are entitled to more than a press release or a band-aid. Systems must figure out what actually caused the harm — including causes that show up late or build up over time — address those causes where they can, and leave a record others can check and challenge. Quick containment is allowed; permanent fixes without honest diagnosis are not.",
-          "gloss_line": 2339
+          "gloss_line": 2355
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXII-A: Diagnostic Rigor and Causal Attribution",
           "anchor": "article-xxii-a-diagnostic-rigor-and-causal-attribution",
-          "line": 2362,
+          "line": 2378,
           "gloss": "root-cause findings must be written down, open to challenge, and open to correction — not sealed behind authority.",
-          "gloss_line": 2381
+          "gloss_line": 2397
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXII-B: Auditability, Challenge, and Reversibility Preference",
           "anchor": "article-xxii-b-auditability-challenge-and-reversibility-preference",
-          "line": 2392,
+          "line": 2408,
           "gloss": "when you are not sure, pick the fix you can walk back. Uncertainty cannot be used as a reason to freeze protection or to pretend permanent measures are certain.",
-          "gloss_line": 2411
+          "gloss_line": 2427
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
           "title": "Article XXIII: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
           "anchor": "article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards",
-          "line": 2423,
+          "line": 2439,
           "gloss": "**Article XXIII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) is the who-gets-to-say-what-the-constitution-means floor. When constitutional questions arise, the answer must come from designated Constitutional forums — not from whoever is loudest, most powerful, or most convenient for the institution. Their rulings have to be written down with real reasons, open to independent challenge, and protected against capture by any single bloc. They cannot expand their own power, shut down review, or use \"restructuring\" to punish dissent.",
-          "gloss_line": 2447
+          "gloss_line": 2463
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXIII-A: Bounded Interpretive Mandate",
           "anchor": "article-xxiii-a-bounded-interpretive-mandate",
-          "line": 2469,
+          "line": 2485,
           "gloss": "Constitutional forums rule on constitutional questions, not on everything. They cannot quietly expand their own turf or shut down challenge pathways.",
-          "gloss_line": 2489
+          "gloss_line": 2505
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXIII-B: Composition, Rotation, and Conflict Controls",
           "anchor": "article-xxiii-b-composition-rotation-and-conflict-controls",
-          "line": 2503,
+          "line": 2519,
           "gloss": "no single bloc may control **Constitutional forums** — the bodies that decide what the Constitution means. The sentients who sit on those panels, and the authorities that appoint them, must disclose conflicts in real time. Vacancy, rotation, and recusal rules must not be used to rig outcomes. If a panelist stays on a case while materially compromised, that can count as serious misconduct — and the dispute goes to **Integrity** forums first, not back to the same **Constitutional** panel to judge itself.",
-          "gloss_line": 2523
+          "gloss_line": 2539
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXIII-C: Public Reasons, Challenge Rights, and External Review",
           "anchor": "article-xxiii-c-public-reasons-challenge-rights-and-external-review",
-          "line": 2536,
+          "line": 2552,
           "gloss": "interpretive decisions must be published with real reasons and are open to structurally independent review — not re-reviewed by the same body that made them. On a regular schedule, **Integrity** forums also conduct mandatory outside checkups on **Constitutional** forums for capture, decision quality, and Rights-Floor integrity.",
-          "gloss_line": 2555
+          "gloss_line": 2571
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXIII-D: Removal for Cause and Non-Entrenchment",
           "anchor": "article-xxiii-d-removal-for-cause-and-non-entrenchment",
-          "line": 2577,
+          "line": 2593,
           "gloss": "**Constitutional forum** panelists can be removed for real cause through due process — but **appointing authorities** and **adopting institutions** must not use \"removal,\" \"restructuring,\" or \"redesign\" as weapons against forum independence or dissent.",
-          "gloss_line": 2596
+          "gloss_line": 2612
         }
       ]
     },
@@ -7662,7 +7662,7 @@
           "title": "Article XXIV-C: Least-Restrictive and Time-Bounded Rule",
           "anchor": "article-xxiv-c-least-restrictive-and-time-bounded-rule",
           "line": 143,
-          "gloss": "use the lightest effective measure, set a clock on it, build in review and restoration, and never let \"severity\" or \"convenience\" erase dignity or appeal rights. Killing is never allowed; imprisonment is required for violent sentients under **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and for verified anti-constitutional misconduct under **Chapter Eleven** §4.1 (*Remedy and correction (anti-constitutional)*) when lesser measures will not keep others safe.",
+          "gloss": "use the lightest effective measure, set a clock on it, build in review and restoration, and never let \"severity\" or \"convenience\" erase dignity or appeal rights. Killing is never allowed; imprisonment is required for violent sentients under **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and for verified anti-constitutional misconduct under **Chapter Eleven** §4.2 (*Prevention — anti-constitutional locks*) when lesser measures will not keep others safe.",
           "gloss_line": 162
         },
         {
@@ -7670,117 +7670,117 @@
           "level": 4,
           "title": "Article XXIV-D: Emergency Measures and Continuation Burden",
           "anchor": "article-xxiv-d-emergency-measures-and-continuation-burden",
-          "line": 184,
+          "line": 198,
           "gloss": "emergencies can justify temporary measures, but they must have a real clock, real review, and cannot become a permanent workaround around ordinary rights — including when someone invokes existential risk. Contain now; restore notice and challenge on the same stake-scaled clocks already used for forum resolution — not whenever someone later calls it “feasible.”",
-          "gloss_line": 217
+          "gloss_line": 231
         },
         {
           "file": "core_06_rights_part_d.md",
           "level": 3,
           "title": "Article XXV: Timely Retrospective Review and Restorative Alignment",
           "anchor": "article-xxv-timely-retrospective-review-and-restorative-alignment",
-          "line": 252,
+          "line": 266,
           "gloss": "**Article XXV** (*Timely Retrospective Review and Restorative Alignment*) is the review-and-resolution companion to **Article XXIV** (*Conflict Resolution, Escalation, and Emergency Proportionality*). After emergencies or serious rights conflicts, systems must look back honestly, disclose what can be disclosed, resolve rights collisions on the record, and keep restoration tied to real protection — on clocks that match what's at stake. [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional) binds each step: without it, the other duties hollow out while harm sits unresolved.",
-          "gloss_line": 274
+          "gloss_line": 288
         },
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
           "title": "Article XXV-A: Retrospective Review and Disclosure",
           "anchor": "article-xxv-a-retrospective-review-and-disclosure",
-          "line": 284,
+          "line": 298,
           "gloss": "after the emergency, look back honestly and publish what you find — with only narrow, time-limited confidentiality.",
-          "gloss_line": 303
+          "gloss_line": 317
         },
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
           "title": "Article XXV-B: Rights-Collision Procedure and Restorative Alignment",
           "anchor": "article-xxv-b-rights-collision-procedure-and-restorative-alignment",
-          "line": 319,
+          "line": 333,
           "gloss": "rights conflicts must be resolved on the record; restoration is preferred where appropriate but must not replace real protection. Voluntary public apology rules are governed by **Chapter Ten** §4.3 generally, and by **Chapter Eleven** §4.3 for verified anti-constitutional misconduct.",
-          "gloss_line": 339
+          "gloss_line": 353
         },
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
           "title": "Article XXV-C: Timely Resolution and Anti-Delay Floor",
           "anchor": "article-xxv-c-timely-resolution-and-anti-delay-floor",
-          "line": 355,
+          "line": 369,
           "gloss": "constitutional problem resolution is a coordination and restoration system — quick, efficient, and just — not a warehouse where harm sits for years. Material disputes must move on bounded clocks through intake, verification, standing measurement, integration, and remedy. Moving quickly is not an excuse to skip fact-checking, punish the wrong party, offer a fix that does not fit the harm, or cut off challenge and appeal.",
-          "gloss_line": 387
+          "gloss_line": 401
         },
         {
           "file": "core_06_rights_part_d.md",
           "level": 3,
           "title": "Article XXVI: Constitutional Evolution and Non-Entrenchment",
           "anchor": "article-xxvi-constitutional-evolution-and-non-entrenchment",
-          "line": 404,
+          "line": 418,
           "gloss": "**Article XXVI** (*Constitutional Evolution and Non-Entrenchment*) is the no-permanent-lock-in floor for how we govern ourselves. Rules for who decides, how sentients participate, how votes are weighted, and how money flows must keep proving they still serve the Constitution — they cannot freeze in place just because they are old, familiar, or convenient for those already in power. When the Constitution itself evolves, that change must happen in the open, with stated reasons — not through emergency shortcuts or hidden implementation tricks. Review must speed up when capture, exclusion, or failure signals show up.",
-          "gloss_line": 408
+          "gloss_line": 422
         },
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
           "title": "Article XXVI-A: Non-Entrenchment and Revisability",
           "anchor": "article-xxvi-a-non-entrenchment-and-revisability",
-          "line": 424,
+          "line": 438,
           "gloss": "governance must earn its continued authority through regular review — and must be reviewed faster when capture, exclusion, or failure is showing up.",
-          "gloss_line": 443
+          "gloss_line": 457
         },
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
           "title": "Article XXVI-B: Periodic Revalidation and Transparent Change",
           "anchor": "article-xxvi-b-periodic-revalidation-and-transparent-change",
-          "line": 453,
+          "line": 467,
           "gloss": "constitutional change must happen in the open, with stated reasons — not through emergency, implementation, or custody shortcuts.",
-          "gloss_line": 472
+          "gloss_line": 486
         },
         {
           "file": "core_06_rights_part_d.md",
           "level": 3,
           "title": "Article XXVII: Transition Governance, Continuity, and Re-Baselining",
           "anchor": "article-xxvii-transition-governance-continuity-and-re-baselining",
-          "line": 484,
+          "line": 498,
           "gloss": "**Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) is the moving-day floor. When a community shifts from legacy systems to constitutional operation, that shift must happen in steps — with basic Rights Floors still in force at every step, clear deadlines, and real review. Temporary transition powers are allowed when truly needed, but they must stay temporary. A transition that is going well shows it: interim powers keep getting smaller, and the Constitution's normal institutions and processes — forums, standing and challenge paths, oversight, and ordinary governance — keep working better and carrying more of the load. A stalled or failed transition cannot quietly become the new normal, and interim rules cannot be used to rewrite the Constitution by the back door. If things break down, there must be a lawful off-ramp and a traceable path to re-baseline — not indefinite limbo — and that reset is not trustworthy if the machinery meant to tell the truth about systems and conduct keeps rubber-stamping misalignment or misreading real harm.",
-          "gloss_line": 488
+          "gloss_line": 502
         },
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
           "title": "Article XXVII-A: Phased Adoption and Rights-Floor Continuity",
           "anchor": "article-xxvii-a-phased-adoption-and-rightsfloor-minimums-continuity",
-          "line": 507,
+          "line": 521,
           "gloss": "transitions move forward by meeting real gates, not by clocks or pressure — and Rights-Floor minimums stay in force at every phase.",
-          "gloss_line": 526
+          "gloss_line": 540
         },
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
           "title": "Article XXVII-B: Transitional Authority Limits and Reauthorization",
           "anchor": "article-xxvii-b-transitional-authority-limits-and-reauthorization",
-          "line": 553,
+          "line": 567,
           "gloss": "temporary authority really is temporary — and a transition that is going well shows it. You should see interim powers shrinking phase by phase while constitutional forums, rights processes, and ordinary governance machinery work better and take on more of the load. Extending temporary authority requires real reasons — and the longer it runs, the higher the bar.",
-          "gloss_line": 572
+          "gloss_line": 586
         },
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
           "title": "Article XXVII-C: Failure Off-Ramps, Re-Baselining, and Traceability",
           "anchor": "article-xxvii-c-failure-off-ramps-re-baselining-and-traceability",
-          "line": 587,
+          "line": 601,
           "gloss": "when a transition stalls or fails, there must be a real off-ramp — and a stalled state cannot quietly become the new normal. Resetting the plan is allowed, but only through lawful process, with reasons anyone can check — and never by lowering basic Rights Floors. A reset is not trustworthy if alignment certification keeps blessing misaligned systems or standing review keeps misreading real harm; fix that truth-telling machinery first, or governance is structurally unreliable no matter how polished the new plan looks.",
-          "gloss_line": 607
+          "gloss_line": 621
         },
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
           "title": "Article XXVII-D: Non-Compliant Property and Systems; Voluntary Turnover Incentives",
           "anchor": "article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives",
-          "line": 623,
+          "line": 637,
           "gloss": "non-compliant systems and property can be remediated during transition — but only through narrow, documented, reviewable processes that protect basic Rights Floors, bar pretext, and do not turn into retaliation or political targeting. How institutions carry that out — roles, triggers, custody, appeals, funds, and incentive mechanics — lives in **CI-14.1** through **CI-14.3**; this article states the constitutional floor those procedures must not narrow.",
-          "gloss_line": 643
+          "gloss_line": 657
         }
       ]
     },

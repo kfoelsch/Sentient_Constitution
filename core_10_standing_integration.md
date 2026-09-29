@@ -299,6 +299,14 @@ Two attachment qualifiers apply whenever the lock's purpose includes risk reduct
 - survival-critical access; or
 - the right to receive regular wages for work that is not part of the verified violation named pathway.
 
+<a id="51-separation-limits"></a>**Separation limits.** Where a lock separates a sentient from settings, networks, associations, or other sentients under the isolation qualifier above, it must:
+
+- name the specific settings, networks, or sentients — not whole regions, jurisdictions, communities at large, or populations;
+- leave access to counsel, advocates, and any forum hearing the sentient's case;
+- satisfy **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) non-separation where it separates a protected care relationship;
+- not amount to confinement: a separation that leaves the sentient no ordinary place to live, operate, or go is a liberty restriction and requires the *Coercive or liberty-restricting safeguards* rule in [§5.4](#54-special-violation-rules) (*Special violation rules*);
+- not amount to exile, refuge denial, or statelessness under **Article XX** (*Movement, Migration, Refuge, and Non-Statelessness*).
+
 A lock may still close trust, role, authority, credit, oversight, recognition, influence, **governance-voting**, or **stakeholder-participation** pathways tied to the verified risk. It may not use those named pathway limits as a back door to extinguish the protections above.
 
 Special violation rules and special locks later in this section do not replace this subsection. Each must fill the same attachment fields, apply the same verified-finding gate, apply the same qualifiers where risk reduction is the purpose, and respect what a lock does not itself restrict.

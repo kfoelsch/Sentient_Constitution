@@ -1733,7 +1733,7 @@ Participant standing alone must not foreclose survival-critical access under **A
 
 - **Violation nature from verified findings only:** [Violation Nature](core_05_band_accountability.md#violation-nature-chapter-six) may affect standing effect only when it rests on auditable, contestable findings satisfying **Chapters Two through Four** and [Chapter Nine](core_09_standing_assessment.md#verified-inputs-for-standing) — not allegations, intake labels, provisional routing, or forum-phase narratives alone.
   - Eligibility and locks must account for acquiescent participation and failure to resist unlawful or unconstitutional directives where material duty and capacity were present, consistent with **Chapter Five** (*Collective Accountability Failure*).
-- **Standing locks:** A [Standing Lock](core_05_band_accountability.md#standing-lock) is the restrictive counterpart to competency clearance. While a verified violation finding remains unresolved or materially unremediated, it may prevent or limit trust-, role-, authority-, credit-, oversight-, recognition-, **governance-voting**, or **stakeholder-participation** pathways under [Chapter Ten §4.2](core_10_standing_integration.md#42-general-standing-locks) (*General standing locks*). Restrictive consequences attach only through standing locks on named privilege pathways.
+- **Standing locks:** A [Standing Lock](core_05_band_accountability.md#standing-lock) is the restrictive counterpart to competency clearance. While a verified violation finding remains unresolved or materially unremediated, it may prevent or limit trust-, role-, authority-, credit-, oversight-, recognition-, **governance-voting**, or **stakeholder-participation** pathways under [Chapter Ten §4.2](core_10_standing_integration.md#42-general-standing-locks) (*General standing locks*). Restrictive consequences attach only through standing locks on named privilege pathways — including, where the verified risk requires it, separation from specific settings, networks, or sentients within the [separation limits](core_10_standing_integration.md#51-separation-limits) of Chapter Ten §5.1 (*Definition and attachment*).
   - A standing lock is not a dignity rank, Rights-Floor reduction, automatic retaliation, or merged merit score.
   - Every standing lock must spell out what access is blocked, who or what is being protected, what must be fixed before the lock lifts (the corrective condition), where to appeal (the review path), and when reassessment happens — and must remain necessary, proportionate, auditable, and contestable under [Article XVIII-B](#article-xviii-b-contestability-and-proportional-restriction-limits).
   - Competency clearance does not waive an applicable standing lock; good contribution does not erase unresolved verified violation findings.
@@ -2012,7 +2012,7 @@ Standing: standing status, competency bars, competency clearances, and standing 
 
 <br>
 
-*In plain terms: **Article XX** (*Movement, Migration, Refuge, and Non-Statelessness*) is the movement-and-refuge Rights Floor — every sentient may move between places and jurisdictions, may seek refuge from regimes that violate this Constitution, and may never be left with no regime responsible for their basic protections. That is not a mandate that any particular adopter absorb coerced mass outflows — origin regimes keep primary recognition duty, with federation or shared transitional recognition as backup. Bureaucratic delay, standing labels, and arguments that fail Sentience Non-Exclusion cannot be used as hidden denials. Whether climate making a place unlivable is, by itself, a reason to grant refuge is for adopters to decide; this Article does not pick a yes or a no.*
+*In plain terms: **Article XX** (*Movement, Migration, Refuge, and Non-Statelessness*) is the movement-and-refuge Rights Floor — every sentient may move between places and jurisdictions, may seek refuge from regimes that violate this Constitution, and may never be left with no regime responsible for their basic protections. This doesn't mean one adopter has to take in everyone another regime forces out. The home regime is still responsible for those sentients first. If it can't or won't be, a group of regimes must share the job, so no one is left with nobody. Bureaucratic delay, standing labels, and arguments that fail Sentience Non-Exclusion cannot be used as hidden denials. Whether climate making a place unlivable is, by itself, a reason to grant refuge is for adopters to decide; this Article does not pick a yes or a no.*
 
 This Article states **constitutional floors** for movement, migration, refuge, and non-statelessness under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
@@ -2031,12 +2031,6 @@ Sentients have the right to meaningful movement, migration, refuge, and recognit
 - **Integration with portability and exit integrity:** **Article XIX** (*Interoperability, Portability, and Exit Integrity*) governs interoperability, portability, and exit integrity; this Article governs physical, jurisdictional, and regime-to-regime movement.
   - Where the same action implicates both — for example, a synthetic sentient relocating across federations through substrate portability — both Articles apply without either narrowing the other.
   - Conflicts resolve under **Chapter One §6.1.5** (*Rights-Collision Decision Test*).
-- **Non-conflation:** This Article is a Rights Floor.
-  - Cross-federation recognition procedure routes to `corpus_institutions.md`.
-  - Substrate-portability mechanics route to **Article XIX** (*Interoperability, Portability, and Exit Integrity*).
-  - Transitional-recognition mechanics route to **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*).
-  - Climate-unlivability refuge decisions route to **Article XX-B** and must not be read as a floor grant or a floor denial.
-  - Incorporated implementation text must not narrow this floor.
 
 *Article neighbors:*
 
@@ -2098,18 +2092,25 @@ Sentients have the right to meaningful movement, migration, refuge, and recognit
 *In plain terms: if your regime materially breaks this Constitution, you may seek refuge in one that follows it, and the receiving regime must consider your claim — whatever kind of body or substrate you have. Regimes that deliberately push sentients out to overwhelm others are the violators, and a receiving adopter is not automatically forced to take everyone they push.*
 
 - **Refuge from non-compliance:** A sentient facing a jurisdiction, federation, or adopter regime whose practice is materially non-compliant with this Constitution holds a right to seek refuge in a compliant regime.
-  - The receiving regime's duty to consider and, where consistent with its own Rights-Floor, grant refuge is stated here.
-  - Operational procedures for cross-regime recognition route to incorporated implementation text under **Chapter Seventeen** and must not narrow this floor.
-  - Refuge may not be denied on the ground that the claimant's substrate class differs from substrate classes the receiving regime ordinarily hosts, consistent with [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
-  - Movement and refuge admission may be excluded or conditioned for entrants who carry unremediated anti-constitutional conduct, show constitutional hostility, or show documented contempt or repudiation of the constitutional community, under the Chapter Five admission qualifier — subject to **Necessity**, **Proportionality**, **Procedural Fairness**, and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
-  - Deliberate coercive expulsion or dumping designed to overwhelm receiving adopters is a regime-level violation by the origin or expelling regime. It does not auto-assign hosting to any particular receiving adopter when origin-primary or shared / federation backup recognition remains real. A particular adopter may refuse such instrumentally coerced inflows under **Necessity**, **Proportionality**, and **Feasibility** without extinguishing baseline recognition elsewhere.
-- **Climate-unlivability refuge (adopter-decided):** <a id="xx-b-climate-unlivability-refuge-adopter-decided"></a> This Article does not decide whether displacement caused by climate making a place unlivable — where the origin regime is not shown to be materially non-compliant — is a reason to grant refuge. Adopters who address that question must do so in published, contestable terms. This Article neither requires nor forbids treating climate-unlivability as a reason to grant refuge.
-  - That decision is not a Rights-Floor grant of climate refuge, and does not treat climate, by itself, as material non-compliance of a regime.
-  - It does not require proving that weather violated this Constitution.
-  - It must not narrow **Refuge from Non-Compliance** where origin-regime practice is materially non-compliant.
-  - It must not narrow **Article I-A** (*Environmental Preconditions and Ecological Integrity*).
-  - It must not extinguish **Movement and Relocation** under **Article XX-A** where continued presence materially impairs survival, dignity, Rights-Floor access, or freedom from manipulation.
-  - Silence in this Article is not a hidden yes and not a hidden no.
+- **Grounds for refuge, most urgent first:** The floor ground is the origin regime's material non-compliance. It is listed below by what that non-compliance puts at risk. The order signals urgency for **Timeliness**; it does not make a later ground weaker.
+  1. **Survival:** non-compliance threatens the claimant's life or continued existence.
+  2. **Rights-Floor access:** non-compliance cuts the claimant off from baseline Rights-Floor protection.
+  3. **Dignity:** non-compliance materially impairs the claimant's dignity under **Article V-A** (*Dignity and Equal Moral Standing*).
+  4. **Freedom from manipulation:** non-compliance subjects the claimant to manipulation contrary to **Article IX-A** (*Agency and Freedom from Manipulation*).
+  5. **Other material non-compliance:** any other practice materially non-compliant with this Constitution.
+  6. **Climate unlivability (adopter-decided, not a floor ground):** <a id="xx-b-climate-unlivability-refuge-adopter-decided"></a> This Article does not decide whether displacement caused by climate making a place unlivable — where the origin regime is not shown to be materially non-compliant — is a reason to grant refuge. It neither requires nor forbids treating it as one. Silence in this Article is not a hidden yes and not a hidden no.
+- **Duties of receiving regimes:**
+  - **Consider every claim:** The receiving regime must consider the claim and, where consistent with its own Rights-Floor, grant refuge.
+  - **No substrate-class denial:** Refuge may not be denied on the ground that the claimant's substrate class differs from substrate classes the receiving regime ordinarily hosts, consistent with [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+  - **Exclusion only for documented hostility:** Movement and refuge admission may be excluded or conditioned for entrants who carry unremediated anti-constitutional conduct, show constitutional hostility, or show documented contempt or repudiation of the constitutional community, under the Chapter Five admission qualifier — subject to **Necessity**, **Proportionality**, **Procedural Fairness**, and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+  - **Coerced inflows:** Deliberate coercive expulsion or dumping designed to overwhelm receiving adopters is a regime-level violation by the origin or expelling regime. It does not auto-assign hosting to any particular receiving adopter when origin-primary or shared / federation backup recognition remains real. A particular adopter may refuse such instrumentally coerced inflows under **Necessity**, **Proportionality**, and **Feasibility** without extinguishing baseline recognition elsewhere.
+  - **Climate-unlivability decisions:** An adopter that addresses climate-unlivability refuge must do so in published, contestable terms. That decision:
+    - is not a Rights-Floor grant of climate refuge, and does not treat climate, by itself, as material non-compliance of a regime;
+    - does not require proving that weather violated this Constitution;
+    - must not narrow the grounds above where origin-regime practice is materially non-compliant;
+    - must not narrow **Article I-A** (*Environmental Preconditions and Ecological Integrity*);
+    - must not extinguish **Movement and Relocation** under **Article XX-A** where continued presence materially impairs survival, dignity, Rights-Floor access, or freedom from manipulation.
+  - **Procedure does not narrow:** Operational procedures for cross-regime recognition in incorporated implementation text under **Chapter Seventeen** must not narrow these duties.
 
 #### Article XX-C: Non-Statelessness
 
@@ -2130,20 +2131,31 @@ Sentients have the right to meaningful movement, migration, refuge, and recognit
 
 <br>
 
-*In plain terms: no one may end up with zero regimes that recognize their basic protections, decide their standing, and offer a way to fix wrongs. Your origin regime keeps that duty first; if it is gone or refuses, shared or federation recognition must fill the gap.*
+*In plain terms: every sentient must always have at least one regime that answers for their basic protections — one that recognizes their rights, decides their standing, and offers a way to fix wrongs. Your origin regime keeps that duty first; if it is gone or refuses, shared or federation recognition must fill the gap, and you stay protected while that is arranged. Being recognized is not the same as a right to live in any particular place.*
 
-- **Non-statelessness:** No sentient may be rendered without a regime that will:
+- **Purpose:** A right is only as real as a regime bound to honor it. Non-Statelessness guarantees that every sentient always has at least one such regime.
+  - It is the backstop that keeps the refusals permitted under **Article XX-B**, the custody permitted under **Article XX-D**, and the standing locks permitted under **Article XVIII** (*Standing and Participation Status*) from ever leaving a sentient with no one responsible for them.
+  - It holds across structural change — collapse, withdrawal, and exit — because adoption of this Constitution is voluntary and regimes can end.
+- **The guarantee:** No sentient may be rendered without a regime that will:
   - recognize their baseline Rights-Floor;
-  - adjudicate their standing;
-  - provide **Redress and Remediation** pathways.
+  - adjudicate their standing under **Article XVIII** (*Standing and Participation Status*);
+  - provide [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional) pathways.
 
-  This is a **no-zero-regime recognition floor**, not a mandate that any particular adopter host at volume or absorb instrumentally coerced mass outflows.
-
-  Where an origin, expelling, collapsing, withdrawing, or exiting regime still exists as a regime capable of recognition, that regime retains **primary** recognition responsibility. Where that regime is gone, refuses, or the discontinuity otherwise leaves a gap, shared or federation transitional recognition must be arranged consistent with **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) so the individual never hits zero recognition.
-
-  Parent-system collapse, adopter withdrawal, federation exit, or comparable structural discontinuity does not extinguish a sentient's Chapter Six protection. Transitional recognition must be arranged consistent with **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) transition governance. Cross-regime recognition mechanics route to incorporated implementation text and must not narrow this floor.
-
-  Where documented anti-constitutional conduct, constitutional hostility, or contempt or repudiation of the constitutional community is present, regimes may impose conditions, monitoring, or restricted status on recognition without extinguishing core Rights-Floor, **Redress and Remediation**, and **Procedural Fairness** protections. Exclusion from a particular adopter's admission or hosting does not violate Non-Statelessness when origin-primary or shared / federation backup recognition remains real.
+  Each function must be real, not merely formal: reachable by the sentient, through a forum that will hear them. This is a **no-zero-regime recognition floor**, and it applies under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+- **Recognition is not hosting or citizenship:** Recognition means a regime answers for the three functions above. It does not by itself entitle the sentient to reside in, be hosted by, or hold full political franchise in that regime, consistent with Chapter Five [recognition vs hosting](core_05_band_participation.md#movement-refuge-recognition-vs-hosting).
+- **Order of responsibility:**
+  - **First in line:** Where an origin, expelling, collapsing, withdrawing, or exiting regime still exists and can recognize the sentient, that regime keeps **primary** recognition responsibility.
+  - **Backup:** Where that regime is gone, refuses, or otherwise leaves a gap, shared or federation transitional recognition must be arranged consistent with **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) so the sentient never hits zero recognition.
+  - **Protection in the gap:** Until durable recognition is in place, transitional arrangements must provide real standing, adjudication, and remedy access. A sentient awaiting backup recognition is not treated as having none.
+- **Survives structural breaks:** Parent-system collapse, adopter withdrawal, federation exit, or comparable structural discontinuity does not extinguish a sentient's Chapter Six protection.
+- **Restricted-status recognition:** Where documented anti-constitutional conduct, constitutional hostility, or contempt or repudiation of the constitutional community is present, regimes may impose conditions, monitoring, or restricted status on recognition.
+  - These must not extinguish core Rights-Floor, **Redress and Remediation**, and **Procedural Fairness** protections.
+  - Restricted status must not be fabricated or applied under a mislabeled ground.
+- **Out of scope:** This floor does not secure:
+  - a preferred citizenship or a choice among regimes;
+  - full political franchise beyond baseline Rights-Floor recognition;
+  - hosting at volume by a particular adopter, or absorption of instrumentally coerced mass outflows, where origin-primary or shared / federation backup recognition remains real. Exclusion from a particular adopter's admission or hosting does not violate Non-Statelessness in that case.
+- **Procedure does not narrow:** Cross-regime recognition mechanics in incorporated implementation text must not narrow this floor.
 
 #### Article XX-D: Limitation, Custody, and Emergency Discipline
 
@@ -2171,12 +2183,16 @@ Sentients have the right to meaningful movement, migration, refuge, and recognit
   - Restrictions must not turn on **Protected Characteristics** or their material proxies.
   - Restrictions must not use population-level demographic framing as a substitute for individualized predicate under **Procedural Fairness**.
 - **Lawful custody and liberty-restricting measures:** This Article does not immunize sentients from lawful detention, custody, supervised operation, or other liberty-restricting justice measures where verified violence, coercion, anti-constitutional misconduct, or comparable social danger requires them.
-  - Such measures must satisfy **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), **Article XXIV-C** (*Least-Restrictive and Time-Bounded Rule*), and applicable criminal-process or equivalent protections triggered by [Chapter Ten §5.4](core_10_standing_integration.md#54-special-violation-rules) (*Special violation rules*).
+  - Such measures must satisfy:
+    - **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*);
+    - **Article XXIV-C** (*Least-Restrictive and Time-Bounded Rule*);
+    - the conditions-of-custody floor in [Article XXIV-C](core_06_rights_part_d.md#xxiv-c-conditions-of-custody);
+    - applicable criminal-process or equivalent protections triggered by [Chapter Ten §5.4](core_10_standing_integration.md#54-special-violation-rules) (*Special violation rules*).
   - They must remain consistent with **Non-Statelessness** under **Article XX-C**: no sentient may be left without a regime that recognizes baseline Rights-Floor protection, adjudicates standing, and provides **Redress and Remediation** pathways, including while custody or comparable restriction is in force.
-- **Standing is not a border:** Participant standing, competency bars, competency clearances, and standing locks under **Article XVIII** (*Standing and Participation Status*) govern role eligibility on named pathways only.
-  - They do not **by themselves** limit movement, migration, refuge, portability, exit, or non-statelessness rights.
-  - They must not function as exile, refuge denial, statelessness, or systemic lock-in by standing label alone, and must not substitute for individualized justice process.
-  - They do not **by themselves** authorize the liberty-restricting measures above; they may run alongside them where each satisfies its own constitutional requirements under [Chapter Ten §4.2](core_10_standing_integration.md#42-general-standing-locks) (*General standing locks*) and this Article.
+- **Standing is not a border:** Participant standing, competency bars, competency clearances, and standing locks under **Article XVIII** (*Standing and Participation Status*) govern eligibility for named pathways. Where a verified risk requires it, a lock may also separate a sentient from specific settings, networks, or sentients under the [separation limits](core_10_standing_integration.md#51-separation-limits) in Chapter Ten §5.1 (*Definition and attachment*).
+  - Neither a standing label nor a separation lock **by itself** limits movement, migration, refuge, portability, exit, or non-statelessness rights.
+  - A separation may bar specific settings or contacts. It must not function as general exile, refuge denial, statelessness, confinement, or systemic lock-in, and standing effects must not substitute for individualized justice process.
+  - A lock never **by itself** authorizes imprisonment, detention, or other liberty restriction; those require the process above. The two may run alongside each other where each satisfies its own constitutional requirements under [Chapter Ten §4.2](core_10_standing_integration.md#42-general-standing-locks) (*General standing locks*) and this Article.
 - **Emergency-measure limits:** Emergency measures restricting movement, migration, or refuge are subject to **Article XXIV-D** (*Emergency Measures and Continuation Burden*) emergency-measure discipline — including:
   - time-bounding;
   - individualized-predicate requirements;

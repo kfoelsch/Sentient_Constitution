@@ -138,7 +138,7 @@ Adopted governance implementation provides escalation, proportionality of interv
   - Substituting deprivation of life, or failing to impose imprisonment when this bullet requires it, is non-compliant. Imprisonment must satisfy all joint requirements, individualized-attribution rules, and review protections in this Article and **Article XXIV-C** (*Least-Restrictive and Time-Bounded Rule*).
 - **Imprisonment for anti-constitutional misconduct:** Governed by [Chapter Eleven §4.2](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prevention — anti-constitutional locks*) (imprisonment specialization), subject to the joint requirements, individualized-attribution rules, and review protections in this Article and **Article XXIV-C** (*Least-Restrictive and Time-Bounded Rule*).
 - **Rights floor against irreversible deprivation of life as a justice measure:** State, operator, or comparable justice systems must not impose irreversible deprivation of life as a penalty, sanction, or public-safety disposition.
-  - Where imprisonment is required, **Imprisonment for violence** under this Article and imprisonment under **Chapter Eleven** §4.1 are the required protective measures; deprivation of life is prohibited.
+  - Where imprisonment is required, **Imprisonment for violence** under this Article and imprisonment under **Chapter Eleven** §4.2 (*Prevention — anti-constitutional locks*) are the required protective measures; deprivation of life is prohibited.
   - This floor does not govern a sentient's own freely formed decision under **Article VII-E** (*Voluntary Discontinuation of One's Own Existence*). Coercion, relabeling, or state/operator conversion of that choice into an imposed outcome returns the matter to this floor.
 #### Article XXIV-C: Least-Restrictive and Time-Bounded Rule
 <details>
@@ -159,7 +159,7 @@ Adopted governance implementation provides escalation, proportionality of interv
 
 <br>
 
-*In plain terms: use the lightest effective measure, set a clock on it, build in review and restoration, and never let "severity" or "convenience" erase dignity or appeal rights. Killing is never allowed; imprisonment is required for violent sentients under **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and for verified anti-constitutional misconduct under **Chapter Eleven** §4.1 (*Remedy and correction (anti-constitutional)*) when lesser measures will not keep others safe.*
+*In plain terms: use the lightest effective measure, set a clock on it, build in review and restoration, and never let "severity" or "convenience" erase dignity or appeal rights. Killing is never allowed; imprisonment is required for violent sentients under **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and for verified anti-constitutional misconduct under **Chapter Eleven** §4.2 (*Prevention — anti-constitutional locks*) when lesser measures will not keep others safe.*
 
 - **Justice application of the constraint principle:** Justice, containment, and restorative-accountability measures apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle). Where intervention is required, each measure must include:
   - explicit duration limits;
@@ -170,8 +170,22 @@ Adopted governance implementation provides escalation, proportionality of interv
   - irreversible restrictive measures where reversible restitution, remediation, or protection is feasible;
   - restrictions lacking auditable re-evaluation triggers.
 - **Deprivation of life:** Deprivation of life as a justice measure is **categorically prohibited** under **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*).
-  - **Imprisonment for violence** under **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and imprisonment under **Chapter Eleven** §4.1 (*Remedy and correction (anti-constitutional)*) are required when those provisions apply, subject to the duration limits, review schedule, restoration conditions, and auditable re-evaluation triggers above.
+  - **Imprisonment for violence** under **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and imprisonment under **Chapter Eleven** §4.2 (*Prevention — anti-constitutional locks*) are required when those provisions apply, subject to the duration limits, review schedule, restoration conditions, and auditable re-evaluation triggers above.
 - **Article V** (*Equal Basic Rights*) minimums apply throughout: Restrictions, exclusions, or comparable justice measures must comply with **Article V** (*Equal Basic Rights*), the [**Rights-Floor Minimums Principle**](core_01_b_interaction_interpretation.md#rightsfloor-minimums-principle), and the [**Anti-Degrading-Process Principle**](core_01_b_interaction_interpretation.md#anti-degrading-process-principle) throughout imposition, review, and carrying out of any restriction, containment, or restorative-accountability measure under this Article and **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*).
+- **Conditions of custody and restriction:** <a id="xxiv-c-conditions-of-custody"></a> While imprisonment, detention, supervised operation, quarantine, containment, or a comparable restriction is in force, the restricted sentient keeps:
+  - healthcare and mental-health care, or for synthetic and hybrid sentients the operational equivalent — maintenance, integrity checks, and the resources needed to keep operating without degradation;
+  - access to counsel, an advocate, or an independent representative for any rights-affecting process;
+  - speech, petition, testimony, defense, and whistleblowing, and access to **Redress and Remediation**, consistent with **Article XX-C** (*Non-Statelessness*);
+  - contact with family, care relationships, and trusted contacts, limited only where a verified risk requires it and consistent with **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) non-separation;
+  - education, training, or capability development, unless the restriction is narrowly justified to prevent it;
+  - re-entry planning that does not undermine restoration through withheld records, credential stripping without individualized predicate, or indefinite deferral of stated review triggers.
+
+  The following conditions are non-compliant:
+  - sensory deprivation, social isolation, or degradation imposed as an end or without demonstrated necessity;
+  - solitary or sensory-restrictive measures framed as safety without independent or secondary review on a schedule published in advance;
+  - for synthetic and hybrid sentients, deleting, overwriting, copying, forking, or altering memory, values, or other state-bearing components, or intruding into internal state contrary to **Article VII-A** (*Self-Ownership of Body and Mind*) and **Article VII-B** (*Internal-State Boundary and Type-N Protection*).
+
+  Pausing or suspending a synthetic or hybrid sentient's operation is itself a liberty restriction. It counts toward duration limits and review, and must not be used to run out a review clock or to keep the sentient from taking part in its own case.
 - **Escalation and review:** Affected parties must have access to escalation paths proportionate to impact.
   - Access includes appeal or multi-layer review where material interests are at stake.
   - Affected parties must receive:

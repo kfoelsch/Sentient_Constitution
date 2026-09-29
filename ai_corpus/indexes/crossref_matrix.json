@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-29T13:33:29+00:00",
+  "generated_at": "2026-09-29T15:26:45+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -7894,7 +7894,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 375,
+            "count": 376,
             "anchors": [
               "#autonomous-coercion-tool-constitutional",
               "#autonomous-coercion-tool-constitutional-a",
@@ -8095,7 +8095,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 146,
+            "count": 148,
             "anchors": [
               "#animal-life-sentient-life-and-sentience-status-cluster",
               "#coercion-and-manipulation-constitutional",
@@ -8115,6 +8115,7 @@
               "#movement-and-relocation-constitutional",
               "#movement-and-relocation-constitutional-a",
               "#movement-and-relocation-constitutional-c",
+              "#movement-refuge-recognition-vs-hosting",
               "#non-statelessness-constitutional",
               "#non-statelessness-constitutional-a",
               "#non-statelessness-constitutional-c",
@@ -8158,14 +8159,15 @@
           },
           {
             "file": "core_06_rights_part_d.md",
-            "count": 8,
+            "count": 9,
             "anchors": [
               "#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints",
               "#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality",
               "#article-xxiv-d-emergency-measures-and-continuation-burden",
               "#article-xxv-c-timely-resolution-and-anti-delay-floor",
               "#article-xxvi-a-non-entrenchment-and-revisability",
-              "#article-xxvii-transition-governance-continuity-and-re-baselining"
+              "#article-xxvii-transition-governance-continuity-and-re-baselining",
+              "#xxiv-c-conditions-of-custody"
             ]
           },
           {
@@ -8203,10 +8205,11 @@
           },
           {
             "file": "core_10_standing_integration.md",
-            "count": 21,
+            "count": 23,
             "anchors": [
               "#42-general-standing-locks",
               "#51-definition-and-attachment",
+              "#51-separation-limits",
               "#52-proportionality-and-calibration",
               "#54-special-violation-rules",
               "#55-special-locks",

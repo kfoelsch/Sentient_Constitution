@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-09-29T13:33:28+00:00",
+  "generated_at": "2026-09-29T15:26:44+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 469,
@@ -4069,13 +4069,13 @@
       ]
     },
     "core_10_standing_integration.md": {
-      "total_lines": 991,
+      "total_lines": 999,
       "sections": [
         {
           "header": "CHAPTER TEN: STANDING EFFECTS AND INTEGRATION",
           "level": 1,
           "line_start": 2,
-          "line_end": 991,
+          "line_end": 999,
           "anchor": "#chapter-ten-standing-effects-and-integration"
         },
         {
@@ -4138,238 +4138,238 @@
           "header": "5. Lock design and enforcement",
           "level": 3,
           "line_start": 260,
-          "line_end": 521,
+          "line_end": 529,
           "anchor": "#5-lock-design-and-enforcement"
         },
         {
           "header": "5.1 Definition and attachment",
           "level": 4,
           "line_start": 276,
-          "line_end": 306,
+          "line_end": 314,
           "anchor": "#51-definition-and-attachment"
         },
         {
           "header": "5.2 Proportionality and calibration",
           "level": 4,
-          "line_start": 307,
-          "line_end": 313,
+          "line_start": 315,
+          "line_end": 321,
           "anchor": "#52-proportionality-and-calibration"
         },
         {
           "header": "5.3 Record visibility and escalation",
           "level": 4,
-          "line_start": 314,
-          "line_end": 328,
+          "line_start": 322,
+          "line_end": 336,
           "anchor": "#53-record-visibility-and-escalation"
         },
         {
           "header": "5.4 Special violation rules",
           "level": 4,
-          "line_start": 329,
-          "line_end": 423,
+          "line_start": 337,
+          "line_end": 431,
           "anchor": "#54-special-violation-rules"
         },
         {
           "header": "5.5 Special locks",
           "level": 4,
-          "line_start": 424,
-          "line_end": 521,
+          "line_start": 432,
+          "line_end": 529,
           "anchor": "#55-special-locks"
         },
         {
           "header": "6. Contribution consequences second",
           "level": 3,
-          "line_start": 522,
-          "line_end": 641,
+          "line_start": 530,
+          "line_end": 649,
           "anchor": "#6-contribution-consequences-second"
         },
         {
           "header": "6.1 Recency and currentness",
           "level": 4,
-          "line_start": 541,
-          "line_end": 583,
+          "line_start": 549,
+          "line_end": 591,
           "anchor": "#61-recency-and-currentness"
         },
         {
           "header": "6.2 Competency bars and clearances",
           "level": 4,
-          "line_start": 584,
-          "line_end": 641,
+          "line_start": 592,
+          "line_end": 649,
           "anchor": "#62-competency-gates"
         },
         {
           "header": "7. Final standing effect",
           "level": 3,
-          "line_start": 642,
-          "line_end": 705,
+          "line_start": 650,
+          "line_end": 713,
           "anchor": "#7-final-standing-effect"
         },
         {
           "header": "7.1 Anti-aggregation of named-pathway effects",
           "level": 4,
-          "line_start": 672,
-          "line_end": 691,
+          "line_start": 680,
+          "line_end": 699,
           "anchor": "#71-anti-aggregation-of-named-pathway-effects"
         },
         {
           "header": "7.2 Plain statement of effect and burden",
           "level": 4,
-          "line_start": 692,
-          "line_end": 705,
+          "line_start": 700,
+          "line_end": 713,
           "anchor": "#72-plain-statement-of-effect-and-burden"
         },
         {
           "header": "8. Restoration and reassessment",
           "level": 3,
-          "line_start": 706,
-          "line_end": 732,
+          "line_start": 714,
+          "line_end": 740,
           "anchor": "#8-restoration-and-reassessment"
         },
         {
           "header": "9. Enforcement realism and remedy systems",
           "level": 3,
-          "line_start": 733,
-          "line_end": 820,
+          "line_start": 741,
+          "line_end": 828,
           "anchor": "#9-enforcement-realism"
         },
         {
           "header": "9.1 Remediation capacity and funding",
           "level": 4,
-          "line_start": 742,
-          "line_end": 761,
+          "line_start": 750,
+          "line_end": 769,
           "anchor": "#91-remediation-capacity-and-funding"
         },
         {
           "header": "9.2 Remedy-system durability",
           "level": 4,
-          "line_start": 762,
-          "line_end": 802,
+          "line_start": 770,
+          "line_end": 810,
           "anchor": "#92-remedy-system-durability"
         },
         {
           "header": "9.3 Cross-jurisdiction continuity",
           "level": 4,
-          "line_start": 803,
-          "line_end": 807,
+          "line_start": 811,
+          "line_end": 815,
           "anchor": "#93-cross-jurisdiction-continuity"
         },
         {
           "header": "9.4 Anti-evasion and look-through authority",
           "level": 4,
-          "line_start": 808,
-          "line_end": 812,
+          "line_start": 816,
+          "line_end": 820,
           "anchor": "#94-anti-evasion-and-look-through-authority"
         },
         {
           "header": "9.5 Timely implementation",
           "level": 4,
-          "line_start": 813,
-          "line_end": 820,
+          "line_start": 821,
+          "line_end": 828,
           "anchor": "#95-timely-implementation-and-reassessment"
         },
         {
           "header": "10. Pattern applications and Question 3 routing",
           "level": 3,
-          "line_start": 821,
-          "line_end": 991,
+          "line_start": 829,
+          "line_end": 999,
           "anchor": "#10-pattern-applications-and-question-3-routing"
         },
         {
           "header": "10.1 Informal ecological stewardship / competency clearance",
           "level": 4,
-          "line_start": 839,
-          "line_end": 850,
+          "line_start": 847,
+          "line_end": 858,
           "anchor": "#101-informal-ecological-stewardship-competency-gate"
         },
         {
           "header": "10.2 Ecological negligence with concealment",
           "level": 4,
-          "line_start": 851,
-          "line_end": 862,
+          "line_start": 859,
+          "line_end": 870,
           "anchor": "#102-ecological-negligence-with-concealment"
         },
         {
           "header": "10.3 Forum-integrity deception or recusal failure",
           "level": 4,
-          "line_start": 863,
-          "line_end": 869,
+          "line_start": 871,
+          "line_end": 877,
           "anchor": "#103-forum-integrity-deception-or-recusal-failure"
         },
         {
           "header": "10.4 Recurrence after completed restitution",
           "level": 4,
-          "line_start": 870,
-          "line_end": 880,
+          "line_start": 878,
+          "line_end": 888,
           "anchor": "#104-recurrence-after-completed-restitution"
         },
         {
           "header": "10.5 Champion repair while a lock remains active",
           "level": 4,
-          "line_start": 881,
-          "line_end": 890,
+          "line_start": 889,
+          "line_end": 898,
           "anchor": "#105-champion-repair-while-a-lock-remains-active"
         },
         {
           "header": "10.6 Institutional vehicle and successor evasion",
           "level": 4,
-          "line_start": 891,
-          "line_end": 900,
+          "line_start": 899,
+          "line_end": 908,
           "anchor": "#106-institutional-vehicle-and-successor-evasion"
         },
         {
           "header": "10.7 Misaligned reward retention",
           "level": 4,
-          "line_start": 901,
-          "line_end": 908,
+          "line_start": 909,
+          "line_end": 916,
           "anchor": "#107-misaligned-reward-retention"
         },
         {
           "header": "10.8 Anti-constitutional misconduct allegation",
           "level": 4,
-          "line_start": 909,
-          "line_end": 919,
+          "line_start": 917,
+          "line_end": 927,
           "anchor": "#108-anti-constitutional-misconduct-allegation"
         },
         {
           "header": "10.9 Rights-Floor waiver or unconstitutional contract devices",
           "level": 4,
-          "line_start": 920,
-          "line_end": 930,
+          "line_start": 928,
+          "line_end": 938,
           "anchor": "#109-rights-floor-waiver-or-unconstitutional-contract-devices"
         },
         {
           "header": "10.10 Contest-pathway or info-sphere flooding",
           "level": 4,
-          "line_start": 931,
-          "line_end": 941,
+          "line_start": 939,
+          "line_end": 949,
           "anchor": "#1010-contest-pathway-or-info-sphere-flooding"
         },
         {
           "header": "10.11 Infrastructure denial or dependency cutoff",
           "level": 4,
-          "line_start": 942,
-          "line_end": 953,
+          "line_start": 950,
+          "line_end": 961,
           "anchor": "#1011-infrastructure-denial-or-dependency-cutoff"
         },
         {
           "header": "10.12 Stakeholder-participation corruption or false-stake abuse",
           "level": 4,
-          "line_start": 954,
-          "line_end": 963,
+          "line_start": 962,
+          "line_end": 971,
           "anchor": "#1012-stakeholder-participation-corruption-or-false-stake-abuse"
         },
         {
           "header": "10.13 Obstruction of accountability",
           "level": 4,
-          "line_start": 964,
-          "line_end": 975,
+          "line_start": 972,
+          "line_end": 983,
           "anchor": "#1013-obstruction-of-accountability"
         },
         {
           "header": "10.14 Verified cruelty character",
           "level": 4,
-          "line_start": 976,
-          "line_end": 991,
+          "line_start": 984,
+          "line_end": 999,
           "anchor": "#1014-verified-cruelty-character"
         }
       ]
@@ -5455,13 +5455,13 @@
       ]
     },
     "core_06_rights_part_c.md": {
-      "total_lines": 2615,
+      "total_lines": 2631,
       "sections": [
         {
           "header": "CHAPTER SIX: FOUNDATIONAL RIGHTS",
           "level": 1,
           "line_start": 1,
-          "line_end": 2615,
+          "line_end": 2631,
           "anchor": null
         },
         {
@@ -5776,124 +5776,124 @@
           "header": "Article XX: Movement, Migration, Refuge, and Non-Statelessness",
           "level": 3,
           "line_start": 1991,
-          "line_end": 2191,
+          "line_end": 2207,
           "anchor": "#article-xx-movement-migration-refuge-and-non-statelessness"
         },
         {
           "header": "Article XX-A: Movement and Relocation",
           "level": 4,
-          "line_start": 2047,
-          "line_end": 2078,
+          "line_start": 2041,
+          "line_end": 2072,
           "anchor": null
         },
         {
           "header": "Article XX-B: Refuge from Non-Compliance",
           "level": 4,
-          "line_start": 2079,
-          "line_end": 2113,
+          "line_start": 2073,
+          "line_end": 2114,
           "anchor": null
         },
         {
           "header": "Article XX-C: Non-Statelessness",
           "level": 4,
-          "line_start": 2114,
-          "line_end": 2147,
+          "line_start": 2115,
+          "line_end": 2159,
           "anchor": null
         },
         {
           "header": "Article XX-D: Limitation, Custody, and Emergency Discipline",
           "level": 4,
-          "line_start": 2148,
-          "line_end": 2191,
+          "line_start": 2160,
+          "line_end": 2207,
           "anchor": null
         },
         {
           "header": "Article XXI: Comprehensibility and Complexity Stewardship",
           "level": 3,
-          "line_start": 2192,
-          "line_end": 2315,
+          "line_start": 2208,
+          "line_end": 2331,
           "anchor": null
         },
         {
           "header": "Article XXI-A: Proportional Comprehensibility Right",
           "level": 4,
-          "line_start": 2244,
-          "line_end": 2280,
+          "line_start": 2260,
+          "line_end": 2296,
           "anchor": null
         },
         {
           "header": "Article XXI-B: Complexity Audit and Modularity Requirements",
           "level": 4,
-          "line_start": 2281,
-          "line_end": 2315,
+          "line_start": 2297,
+          "line_end": 2331,
           "anchor": "#operative-steward-statement-comprehensibility"
         },
         {
           "header": "Article XXII: Root Cause Analysis and Adaptive Response",
           "level": 3,
-          "line_start": 2316,
-          "line_end": 2422,
+          "line_start": 2332,
+          "line_end": 2438,
           "anchor": "#article-xxii-root-cause-analysis-and-adaptive-response"
         },
         {
           "header": "Article XXII-A: Diagnostic Rigor and Causal Attribution",
           "level": 4,
-          "line_start": 2362,
-          "line_end": 2391,
+          "line_start": 2378,
+          "line_end": 2407,
           "anchor": null
         },
         {
           "header": "Article XXII-B: Auditability, Challenge, and Reversibility Preference",
           "level": 4,
-          "line_start": 2392,
-          "line_end": 2422,
+          "line_start": 2408,
+          "line_end": 2438,
           "anchor": null
         },
         {
           "header": "Article XXIII: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
           "level": 3,
-          "line_start": 2423,
-          "line_end": 2615,
+          "line_start": 2439,
+          "line_end": 2631,
           "anchor": "#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards"
         },
         {
           "header": "Article XXIII-A: Bounded Interpretive Mandate",
           "level": 4,
-          "line_start": 2469,
-          "line_end": 2502,
+          "line_start": 2485,
+          "line_end": 2518,
           "anchor": null
         },
         {
           "header": "Article XXIII-B: Composition, Rotation, and Conflict Controls",
           "level": 4,
-          "line_start": 2503,
-          "line_end": 2535,
+          "line_start": 2519,
+          "line_end": 2551,
           "anchor": "#article-xxiii-b-composition-rotation-and-conflict-controls"
         },
         {
           "header": "Article XXIII-C: Public Reasons, Challenge Rights, and External Review",
           "level": 4,
-          "line_start": 2536,
-          "line_end": 2576,
+          "line_start": 2552,
+          "line_end": 2592,
           "anchor": null
         },
         {
           "header": "Article XXIII-D: Removal for Cause and Non-Entrenchment",
           "level": 4,
-          "line_start": 2577,
-          "line_end": 2615,
+          "line_start": 2593,
+          "line_end": 2631,
           "anchor": null
         }
       ]
     },
     "core_06_rights_part_d.md": {
-      "total_lines": 666,
+      "total_lines": 680,
       "sections": [
         {
           "header": "CHAPTER SIX: FOUNDATIONAL RIGHTS",
           "level": 1,
           "line_start": 1,
-          "line_end": 666,
+          "line_end": 680,
           "anchor": null
         },
         {
@@ -5907,7 +5907,7 @@
           "header": "Article XXIV: Conflict Resolution, Escalation, and Emergency Proportionality",
           "level": 3,
           "line_start": 29,
-          "line_end": 251,
+          "line_end": 265,
           "anchor": null
         },
         {
@@ -5928,98 +5928,98 @@
           "header": "Article XXIV-C: Least-Restrictive and Time-Bounded Rule",
           "level": 4,
           "line_start": 143,
-          "line_end": 183,
+          "line_end": 197,
           "anchor": null
         },
         {
           "header": "Article XXIV-D: Emergency Measures and Continuation Burden",
           "level": 4,
-          "line_start": 184,
-          "line_end": 251,
+          "line_start": 198,
+          "line_end": 265,
           "anchor": "#article-xxiv-d-emergency-measures-and-continuation-burden"
         },
         {
           "header": "Article XXV: Timely Retrospective Review and Restorative Alignment",
           "level": 3,
-          "line_start": 252,
-          "line_end": 403,
+          "line_start": 266,
+          "line_end": 417,
           "anchor": "#xxiv-d-restore-challenge-clocks"
         },
         {
           "header": "Article XXV-A: Retrospective Review and Disclosure",
           "level": 4,
-          "line_start": 284,
-          "line_end": 318,
+          "line_start": 298,
+          "line_end": 332,
           "anchor": null
         },
         {
           "header": "Article XXV-B: Rights-Collision Procedure and Restorative Alignment",
           "level": 4,
-          "line_start": 319,
-          "line_end": 354,
+          "line_start": 333,
+          "line_end": 368,
           "anchor": null
         },
         {
           "header": "Article XXV-C: Timely Resolution and Anti-Delay Floor",
           "level": 4,
-          "line_start": 355,
-          "line_end": 403,
+          "line_start": 369,
+          "line_end": 417,
           "anchor": "#article-xxv-c-timely-resolution-and-anti-delay-floor"
         },
         {
           "header": "Article XXVI: Constitutional Evolution and Non-Entrenchment",
           "level": 3,
-          "line_start": 404,
-          "line_end": 483,
+          "line_start": 418,
+          "line_end": 497,
           "anchor": "#operative-steward-statement-delay"
         },
         {
           "header": "Article XXVI-A: Non-Entrenchment and Revisability",
           "level": 4,
-          "line_start": 424,
-          "line_end": 452,
+          "line_start": 438,
+          "line_end": 466,
           "anchor": null
         },
         {
           "header": "Article XXVI-B: Periodic Revalidation and Transparent Change",
           "level": 4,
-          "line_start": 453,
-          "line_end": 483,
+          "line_start": 467,
+          "line_end": 497,
           "anchor": null
         },
         {
           "header": "Article XXVII: Transition Governance, Continuity, and Re-Baselining",
           "level": 3,
-          "line_start": 484,
-          "line_end": 666,
+          "line_start": 498,
+          "line_end": 680,
           "anchor": null
         },
         {
           "header": "Article XXVII-A: Phased Adoption and Rights-Floor Continuity",
           "level": 4,
-          "line_start": 507,
-          "line_end": 552,
+          "line_start": 521,
+          "line_end": 566,
           "anchor": "#article-xxvii-a-phased-adoption-and-rightsfloor-minimums-continuity"
         },
         {
           "header": "Article XXVII-B: Transitional Authority Limits and Reauthorization",
           "level": 4,
-          "line_start": 553,
-          "line_end": 586,
+          "line_start": 567,
+          "line_end": 600,
           "anchor": "#incentive-alignment-transition-carve-out"
         },
         {
           "header": "Article XXVII-C: Failure Off-Ramps, Re-Baselining, and Traceability",
           "level": 4,
-          "line_start": 587,
-          "line_end": 622,
+          "line_start": 601,
+          "line_end": 636,
           "anchor": null
         },
         {
           "header": "Article XXVII-D: Non-Compliant Property and Systems; Voluntary Turnover Incentives",
           "level": 4,
-          "line_start": 623,
-          "line_end": 666,
+          "line_start": 637,
+          "line_end": 680,
           "anchor": "#article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives"
         }
       ]
